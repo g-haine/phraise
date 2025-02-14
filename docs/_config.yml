@@ -23,7 +23,7 @@ email: ghislain.haine@isae.fr
 description: >- # this means to ignore newlines until "baseurl:"
     **Port-Hamiltonian Representation and Approximation of Interconnected Systems for Everything**
     The project PHRAISE aims at regrouping the research papers and lecture notes on the port-Hamiltonian framework for the modelling, the discretization and the control of physical systems.
-baseurl: "/source" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://g-haine.github.io/phraise" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -38,7 +38,7 @@ plugins:
   - jekyll-scholar
 
 paginate: 25
-paginate_path: "/source/page:num/"
+paginate_path: "/docs/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
