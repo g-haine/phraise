@@ -19,26 +19,30 @@
 # in the templates via {{ site.myvariable }}.
 
 title: PHRAISE
+author: Ghislain Haine
 email: ghislain.haine@isae.fr
 description: >- # this means to ignore newlines until "baseurl:"
-    **Port-Hamiltonian Representation and Approximation of Interconnected Systems for Everything**
-    The project PHRAISE aims at regrouping the research papers and lecture notes on the port-Hamiltonian framework for the modelling, the discretization and the control of physical systems.
+  Port-Hamiltonian Representation and Approximation of Interconnected Systems for Everything
 baseurl: "/phraise" # the subpath of your site, e.g. /blog
 url: "https://g-haine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  g-haine
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-paginate
-  - jekyll-datapage-generator
-  - jekyll-scholar
+#  - jekyll-paginate
+#  - jekyll-datapage-generator
+#  - jekyll-scholar
 
-paginate: 25
-paginate_path: "/phraise/page:num/"
+theme: minima
+minima:
+  skin: auto
+  show_excerpts: false
+header_pages:
+  - about.md
+#paginate: 25
+#paginate_path: "/phraise/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,3 +63,17 @@ paginate_path: "/phraise/page:num/"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# page_gen-dirs: false
+
+# page_gen:
+#   - data: 'biblio'
+#     template: 'journal'
+#     dir: '_posts'
+#     name_expr: record['dateY']+"-"+record['dateM']+"-"+record['dateD']+"-"+record['title']+".md"
+#     filter_condition: "record['type'] != 'book'"
+
+#   - data: 'biblio'
+#     template: 'book'
+#     name_expr: record['dateY']+"-"+record['dateM']+"-"+record['dateD']+"-"+record['title']
+#     filter_condition: "record['type'] == 'book'"
