@@ -16,18 +16,18 @@ Maintaining a large database manually is challenging. To ensure a sustainable an
 While the scripts used for collecting metadata are **publicly available**, they will primarily be run by the site maintainer.
 
 ### **Data Sources**
-The metadata is retrieved using a hierarchical approach:
-1. **CrossRef** (primary source, ensuring completeness of minimal metadata)
-2. **Scopus** (for abstracts and keywords, when available via Elsevier)
-3. **Springer Metadata API** (for abstracts and keywords from Springer)
-4. **OpenAlex & Semantic Scholar** (as fallback sources for missing abstracts and keywords)
+The metadata is retrieved using a hierarchical approach using the following API:
+1. [**CrossRef**](https://www.crossref.org/documentation/retrieve-metadata/rest-api/): primary source, ensuring completeness of minimal metadata;
+2. [**Scopus**](https://dev.elsevier.com/documentation/SCOPUSSearchAPI.wadl): for abstracts and keywords, when available via Elsevier;
+3. [**Springer Meta API**](https://dev.springernature.com/docs/api-endpoints/meta-api/): for abstracts and keywords from Springer;
+4. [**OpenAlex**](https://docs.openalex.org/how-to-use-the-api/api-overview) & [**Semantic Scholar**](https://www.semanticscholar.org/product/api): as fallback sources for missing abstracts and keywords.
 
 Currently, **only metadata and abstracts** are collected—**full texts are not included**.
 
 ## **How to Contribute?**
 Contributions are welcome in the form of **DOI submissions**. You can:
-- Submit a **pull request** with new DOIs in the `DOI.txt` file on the project's [GitHub repository](https://github.com/g-haine/phraise).
-- Send an email to the site maintainer.
+- Submit a **pull request** with new DOIs in the `DOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
+- Send [**an email**](mailto:ghislain.haine@isae.fr) to the site maintainer.
 
 **Automated contributions are not possible** due to API rate limitations. The metadata compilation will be manually performed before each update, but the site itself is automatically rebuilt with Jekyll after each push.
 
@@ -35,9 +35,12 @@ Contributions are welcome in the form of **DOI submissions**. You can:
 No additional **peer review** is conducted—the survey relies on **CrossRef's metadata**, assuming that all indexed works have already undergone editorial scrutiny.
 
 ## **Useful Links**
+
 - [**PHSys**](https://www.phsys.eu): Community website for researchers in **port-Hamiltonian Systems** (PHS).
-- **EMS-TAG on PHS**: A thematic activity group related to PHS (link to be added).
-- **Franco-German School on PHS**: Dedicated research & training program (link to be added).
-- **SCRIMP**: A finite element framework for **port-Hamiltonian PDE simulations** (link to be added).
-- **port-Hamiltonian Benchmark**: A repository collecting various port-Hamiltonian systems for numerical benchmarking (link to be added).
-- **Software by Antoine Falaize**: A software suite for **finite-dimensional PHS modeling** (additional details to be added).
+- [**PH-Seminar**](https://www.fan.uni-wuppertal.de/en/research/ph-seminar/): Monthly seminar, usually first Wednesday, 4 pm (CET) via Zoom.
+- [**EMS-TAG on PHS**](https://ems-phs.uni-wuppertal.de/en/): A thematic activity group related to PHS.
+- [**French-Dutch-German Doctoral College**](https://www.epc.ed.tum.de/en/rt/cdfa-phs/): “Port-Hamiltonian Systems: Modeling, Numerics and Control” supported by the Franco-Bavarian University Cooperation Center BayFrance, coordinated by P. Kotyczka, B. Maschke and J. Scherpen.
+
+- [**SCRIMP**](https://g-haine.github.io/scrimp/): A finite element framework for **port-Hamiltonian PDE simulations**.
+- [**port-Hamiltonian Benchmark**](https://algopaul.github.io/PortHamiltonianBenchmarkSystems/): A repository collecting various port-Hamiltonian systems for numerical benchmarking.
+- [**PyPHS**](https://pyphs.github.io/pyphs/): A Python software (Py) dedicated to the simulation of multi-physical Port-Hamiltonian Systems (PHS) described by graph structures.
