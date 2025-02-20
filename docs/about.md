@@ -6,7 +6,7 @@ permalink: /about/
 
 This site is a **bibliographic survey** dedicated to research on **port-Hamiltonian systems**. The goal is to provide an **exhaustive collection of papers** to help researchers stay informed about the latest advancements, identify potential research gaps, and foster collaborations.
 
-The site is **automatically updated** at regular intervals to reflect newly published works.
+The site is **updated at regular intervals** to reflect newly published works.
 
 ## **Scope & Methodology**
 
