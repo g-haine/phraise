@@ -1,5 +1,4 @@
 _site
-../themes
 .env
 .sass-cache
 .jekyll-cache

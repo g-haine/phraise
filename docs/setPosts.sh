@@ -53,27 +53,28 @@ format_authors () {
 # Remplace les $ par les balises markdwon de mathjax
 sed_abstract () {
     abstract=$(echo "$1" \
-    | sed -e 's/^(Abstract)//g' \
-    | sed -e 's/^(ABSTRACT)//g' \
+    | sed -e 's/<[^>]*>//g' \
+    | sed -e 's/Abstract//g' \
+    | sed -e 's/ABSTRACT//g' \
     | sed -e 's/\*/\\\*/g' \
     | awk '{
-    in_math = 0;
-    for (i=1; i<=length($0); i++) {
-        c = substr($0, i, 1);
-        if (c == "$") {
-            if (in_math == 0) {
-                printf "\\\\( ";
-                in_math = 1;
+        in_math = 0;
+        for (i=1; i<=length($0); i++) {
+            c = substr($0, i, 1);
+            if (c == "$") {
+                if (in_math == 0) {
+                    printf "\\\\( ";
+                    in_math = 1;
+                } else {
+                    printf " \\\\)";
+                    in_math = 0;
+                }
             } else {
-                printf " \\\\)";
-                in_math = 0;
+                printf "%s", c;
             }
-        } else {
-            printf "%s", c;
         }
-    }
-    printf "\n";
-}')
+        printf "\n";
+    }')
     
     echo "$abstract"
 }

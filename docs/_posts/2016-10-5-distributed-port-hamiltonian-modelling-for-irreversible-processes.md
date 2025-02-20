@@ -12,7 +12,7 @@ category: journal-article
 **W. Zhou, B. Hamroun, F. Couenne, Y. Le Gorrec**
  
 ## Abstract
-ABSTRACT Infinite-dimensional port-Hamiltonian representation of irreversible processes accounting for the thermal energy domain is presented. Two examples are studied: the transmission line and a non-isothermal reaction diffusion process. The proposed approach uses thermodynamic variables in order to define the infinite-dimensional interconnection structure linking the different phenomena. A presentation is given for one-dimensional spatial domain. For the transmission line, the Hamiltonian is the total energy and for the reaction diffusion process it is the enthalpy or the opposite of entropy.
+ Infinite-dimensional port-Hamiltonian representation of irreversible processes accounting for the thermal energy domain is presented. Two examples are studied: the transmission line and a non-isothermal reaction diffusion process. The proposed approach uses thermodynamic variables in order to define the infinite-dimensional interconnection structure linking the different phenomena. A presentation is given for one-dimensional spatial domain. For the transmission line, the Hamiltonian is the total energy and for the reaction diffusion process it is the enthalpy or the opposite of entropy.
  
 ## Citation
 - **Journal:** Mathematical and Computer Modelling of Dynamical Systems
