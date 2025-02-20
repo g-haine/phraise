@@ -1,0 +1,12 @@
+/* assets/css/logo.css */
+.logo {
+float: bottom;
+top: -200px;
+width: 256px;
+}
+.logo-isae {
+float: bottom;
+top: -200px;
+width: 160px;
+top: 128px;
+}

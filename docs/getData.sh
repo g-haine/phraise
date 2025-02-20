@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Ce fichier prenant une liste de DOI en argument permet de générer :
-# * Un fichier .json unique qui permettra de faciliter la recherche sur le site
-# * Un fichier markdown par DOI qui permettra de référencer la référence sur le site
+# * Un fichier .json unique qui permettra de créer les posts et de faciliter la recherche sur le site
 
 # Vérifie si un fichier d'entrée est fourni
 if [ "$#" -ne 1 ]; then
@@ -11,59 +10,153 @@ if [ "$#" -ne 1 ]; then
 fi
 input_file=$1
 
+# D'abord quelques fonctions
+
 # Une fonction de slugify des titres
 slugify () {
-    echo "$1" \
-    | sed -r 's/[~\^]+//g' \
-    | sed -r 's/[^a-zA-Z0-9]+/-/g' \
-    | sed -r 's/^-+|-+$//g' \
-    | tr '[:upper:]' '[:lower:]' \
-    | sed -r 's/ /-/g' \
-    | iconv -t ascii//TRANSLIT
+    echo "$1" |
+    iconv -t ascii//TRANSLIT |
+    tr '[:upper:]' '[:lower:]' |
+    tr -cs 'a-z0-9' '-' |
+    sed -E 's/^-+|-+$//g'
 }
-
-# Ajoute un zéro si le mois ou le jour est entre 1 et 9
-pad_zero () {
-    printf "%02d" "$1"
-}
-
-# Une fonctione qui récupère le bibtex depuis crossref
-print_bib () {
-    local doi=$1
-    crossrefEndpoint="http://api.crossref.org/works/$doi/transform/application/x-bibtex"
-    crossrefBib="$(curl -s $crossrefEndpoint)"
-    if ! echo $crossrefBib | head -n 1 | grep -q "Resource" ; then
-        bibtex="$(echo "{% raw %}"$crossrefBib"{% endraw %}" \
-        | sed -e 's/ @/@/g' \
-        | sed -e 's/},/},\n /g' \
-        | sed -e 's/, series/,\n  series/g' \
-        | sed -e 's/, pages/,\n  pages/g' \
-        | sed -e 's/, title/,\n  title/g' \
-        | sed -e '/title/s/={/={{/g' \
-        | sed -e '/title/s/},/}},/g' \
-        | sed -e 's/ }/\n}/g' \
-        | sed -e 's/, }/\n}/g' \
-        | sed -e '/pages/s/–/--/g' \
-        | sed -e '/month/d' \
-        | sed -e '/url/d' \
-        | tac | sed -e '2 s/,//g' | tac)"
-        echo "$bibtex"
-    fi
-}
-
-# Le fichier .json créé
-output_json="_data/biblio.json"
-
-# Le path des posts markdown
-path_md="_posts/"
-
-echo "[" > $output_json
 
 # Appel à l'API de crossref
-fetch_metadata () {
+fetch_metadata_crossref () {
     local doi=$1
     echo $(curl -s "https://api.crossref.org/works/$doi")
 }
+
+# Appel à l'API de scopus
+fetch_metadata_scopus () {
+    local doi=$1
+    if [ -f .env ]; then
+        source .env
+    else
+        echo "Erreur : fichier .env introuvable !" >&2
+        exit 1
+    fi
+    echo $(curl -s -X GET "https://api.elsevier.com/content/article/doi/$doi" -H "Accept: application/json" -H "X-ELS-APIKey: $SCOPUS_API_KEY")
+}
+
+# Abstract via scopus
+abstract_from_scopus () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local scopus_abstract=$(echo "$json" | jq -r '.["full-text-retrieval-response"].coredata."dc:description" // ""' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+        [ -n "$scopus_abstract" ] && echo "$scopus_abstract"
+    fi
+}
+
+# Keywords via scopus
+keywords_from_scopus () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local scopus_keywords=$(echo "$json" | jq -r 'if .["full-text-retrieval-response"].coredata."dcterms:subject" then 
+              [.["full-text-retrieval-response"].coredata."dcterms:subject"[]["$"]] | join("; ") 
+           else 
+              "" 
+           end')
+        [ -n "$scopus_keywords" ] && echo "$scopus_keywords"
+    fi
+}
+
+# event via scopus : super pour le nom de la conf IFAC
+event_from_scopus () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local scopus_nameIssue=$(echo "$json" | jq -r '.["full-text-retrieval-response"].coredata."prism:issueName" // ""')
+        [ -n "$scopus_nameIssue" ] && echo "$scopus_nameIssue"
+    fi
+}
+
+# Appel à l'API de Springer
+fetch_metadata_springer () {
+    local doi=$1
+    if [ -f .env ]; then
+        source .env
+    else
+        echo "Erreur : fichier .env introuvable !" >&2
+        exit 1
+    fi
+    echo $(curl -s -X GET "https://api.springernature.com/meta/v2/json?q=doi:$doi&api_key=$SPRINGER_API_KEY")
+}
+
+# Abstract via Springer
+abstract_from_springer () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local springer_abstract=$(echo "$json" | jq -r '.records[0].abstract // ""' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+        [ -n "$springer_abstract" ] && echo "$springer_abstract"
+    fi
+}
+
+# Keywords via Springer
+keywords_from_springer () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local springer_keywords=$(echo "$json" | jq -r 'if .records[0].keyword then 
+              [.records[0].keyword[]] | join("; ") 
+           else 
+              "" 
+           end')
+        [ -n "$springer_keywords" ] && echo "$springer_keywords"
+    fi
+}
+
+# event via springer : super pour le nom de la conf également, type GSI
+event_from_springer () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local springer_nameIssue=$(echo "$json" | jq -r '.records[0].conferenceInfo[] | select(.confSeriesName) | "\(.confSeriesName)"')
+        [ -n "$springer_nameIssue" ] && echo "$springer_nameIssue"
+    fi
+}
+
+# Optimisation avancée de la récupération des abstracts avec correction des erreurs de boucle
+fetch_abstract_complement () {
+    local doi=$1
+    local abstract="No abstract available"
+    local candidates=()
+
+    # Fonction de sécurité pour les appels API avec suivi des redirections
+    safe_curl () {
+        curl -Ls --connect-timeout 5 --retry 3 --retry-delay 2 "$1" || echo ""
+    }
+
+    # 1. Essai via OpenAlex
+    local openalex_response=$(safe_curl "https://api.openalex.org/works/https://doi.org/$doi")
+    if echo "$openalex_response" | jq empty 2>/dev/null; then
+        local openalex_abstract=$(echo "$openalex_response" | jq -r '.abstract_inverted_index | to_entries? | map(.value) | unique | join(" ") // ""')
+        [ -n "$openalex_abstract" ] && candidates+=("$openalex_abstract")
+    fi
+
+    # 2. Essai via Semantic Scholar
+    local semantics_response=$(safe_curl "https://api.semanticscholar.org/v1/paper/$doi")
+    if echo "$semantics_response" | jq empty 2>/dev/null; then
+        local semantics_abstract=$(echo "$semantics_response" | jq -r '.abstract // ""')
+        [ -n "$semantics_abstract" ] && candidates+=("$semantics_abstract")
+    fi
+
+    # 3. Sélection de l'abstract le plus long
+    for candidate in "${candidates[@]}"; do
+        if [ "${#candidate}" -gt "${#abstract}" ]; then
+            abstract="$candidate"
+        fi
+    done
+
+    echo "$abstract"
+}
+
+# Maintenant la boucle sur les DOI
+
+# Chargement des DOI connus dans un tableau
+mapfile -t known_dois < "$input_file"
+
+# Le fichier .json créé
+output_json="assets/biblio.json"
+
+echo "[" > $output_json
 
 # Pour ajouter une virgule à partir de la deuxième entrée
 first=true
@@ -71,16 +164,17 @@ first=true
 # Boucle sur les DOIs
 while IFS= read -r doi; do
     # Extraction des données
-    response=$(fetch_metadata "$doi")
+    response=$(fetch_metadata_crossref "$doi")
 
     title=$(echo $response | jq -r '.message.title // [""] | .[0]')
-    authors=$(echo $response | jq -r '.message.author // [] | map("\(.given // "") \(.family // "")") | join(", ")')
+    authors=$(echo $response | jq -r '.message.author')
     type=$(echo $response | jq -r '.message.type // ""')
     abstract=$(echo $response | jq -r '.message.abstract // ""')
     journal=$(echo $response | jq -r '.message["container-title"] // [""] | .[0]')
     year=$(echo $response | jq -r '.message["published-print"]["date-parts"][0][0] // ""')
     volume=$(echo $response | jq -r '.message.volume // ""')
     issue=$(echo $response | jq -r '.message.issue // ""')
+    event=""
     isbn=$(echo $response | jq -r '.message["isbn-type"][0]["value"] // ""')
     pages=$(echo $response | jq -r '.message.page // "" | gsub("-"; "--")')
     publisher=$(echo $response | jq -r '.message.publisher // ""')
@@ -94,14 +188,30 @@ while IFS= read -r doi; do
     if [ -z "$year" ]; then
         year=$(echo $dateY)
     fi
-
-    # Complément abstract et keywords avec Semantic Scholar
-    ss_response=$(curl -s "https://api.semanticscholar.org/v1/paper/$doi")
-    if [ -z "$abstract" ]; then
-        abstract=$(echo $ss_response | jq -r '.abstract // ""')
+    
+    # Récupère l'url "final" (avant redirection js) à partir du DOI
+    url=$(curl -Ls -o /dev/null -w "%{url_effective}" "https://doi.org/$doi")
+    
+    # Update si elsevier
+    if echo "$url" | grep -q "elsevier"; then
+        json_scopus=$(fetch_metadata_scopus "$doi")
+        abstract=$(abstract_from_scopus "$json_scopus")
+        keywords=$(keywords_from_scopus "$json_scopus")
+        event=$(event_from_scopus "$json_scopus")
     fi
-    if [ -z "$keywords" ]; then
-        keywords=$(echo $ss_response | jq -r '.keywords // [] | join(", ")')
+    
+    # Update si springer
+    if echo "$url" | grep -q "springer"; then
+        json_springer=$(fetch_metadata_springer "$doi")
+        abstract=$(abstract_from_springer "$json_springer")
+        keywords=$(keywords_from_springer "$json_springer")
+        event=$(event_from_springer "$json_springer")
+    fi
+    
+    # Complement pour l'abstract
+    if [ -z "$abstract" ]; then
+        complement=$(fetch_abstract_complement $doi)
+        [ -n "$complement" ] && abstract="$complement"
     fi
 
     if [ "$first" = true ]; then
@@ -110,17 +220,18 @@ while IFS= read -r doi; do
         echo "," >> $output_json
     fi
 
-    # .json format pour jekyll-search
+    # .json format de toutes les datas
     echo "  {" >> $output_json
     echo "    \"doi\": \"$doi\"," >> $output_json
     echo "    \"type\": \"$type\"," >> $output_json
     echo "    \"title\": \"$title\"," >> $output_json
-    echo "    \"authors\": \"$authors\"," >> $output_json
-    echo "    \"abstract\": \"$abstract\"," >> $output_json
+    echo "    \"authors\": $authors," >> $output_json
+    echo "    \"abstract\": \"$abstract\"," | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' >> $output_json
     echo "    \"journal\": \"$journal\"," >> $output_json
     echo "    \"year\": \"$year\"," >> $output_json
     echo "    \"volume\": \"$volume\"," >> $output_json
     echo "    \"issue\": \"$issue\"," >> $output_json
+    echo "    \"event\": \"$event\"," | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' >> $output_json
     echo "    \"isbn\": \"$isbn\"," >> $output_json
     echo "    \"pages\": \"$pages\"," >> $output_json
     echo "    \"publisher\": \"$publisher\"," >> $output_json
@@ -128,27 +239,9 @@ while IFS= read -r doi; do
     echo "    \"dateY\": \"$dateY\"," >> $output_json
     echo "    \"dateM\": \"$dateM\"," >> $output_json
     echo "    \"dateD\": \"$dateD\"," >> $output_json
+    echo "    \"permalink\": \"$(slugify "$title")\"," >> $output_json
     echo "    \"references\": $references" >> $output_json
     echo "  }" >> $output_json
-
-    # Création du post en markdown
-    output_md="$path_md$(pad_zero $dateY)-$(pad_zero $dateM)-$(pad_zero $dateD)-$(slugify "$title").md"
-    
-    echo "---" > $output_md
-    echo "layout: post" >> $output_md
-    echo "title: $title" >> $output_md
-    echo "date: $dateY-$dateM-$dateD 00:00:00 +0100" >> $output_md
-    echo "categories: $type" >> $output_md
-    echo "---" >> $output_md
-    echo "" >> $output_md
-    echo "## Authors:" >> $output_md
-    echo "$authors" >> $output_md
-    echo "" >> $output_md
-    echo "## BibTeX:" >> $output_md
-    echo "{% highlight latex %}" >> $output_md
-    echo "$(print_bib $doi)" >> $output_md
-    echo "{% endhighlight %}" >> $output_md
-    echo "" >> $output_md
 
 done < "$input_file"
 

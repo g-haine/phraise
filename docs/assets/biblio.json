@@ -1,0 +1,765 @@
+[
+  {
+    "doi": "10.1080/13873951003690824",
+    "type": "journal-article",
+    "title": "Memristive port-Hamiltonian Systems",
+    "authors": [
+  {
+    "given": "Dimitri",
+    "family": "Jeltsema",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Arjan J.",
+    "family": "van der Schaft",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "The port-Hamiltonian modelling framework is extended to a class of systems containing memristive elements and phenomena. First, the concept of memristance is generalised to the same generic level as the port-Hamiltonian framework. Second, the underlying Dirac structure is augmented with a memristive port. The inclusion of memristive elements in the port-Hamiltonian framework turns out to be almost as straightforward as the inclusion of resistive elements. Although a memristor is a resistive element, it is also a dynamic element since the associated Ohmian laws are rather expressed in terms of differential equations. This means that the state space manifold, as naturally defined by the storage elements, is augmented by the states associated with the memristive elements. Hence the order of complexity is, in general, defined by the number of storage elements plus the number of memristors in the system. Apart from enlarging our repertoire of modelling building blocks, the inclusion of memristive elements in the existing port-Hamiltonian formalism possibly opens up new ideas for controller synthesis and design.",    "journal": "Mathematical and Computer Modelling of Dynamical Systems",
+    "year": "2010",
+    "volume": "16",
+    "issue": "2",
+    "event": "",    "isbn": "",
+    "pages": "75--93",
+    "publisher": "Informa UK Limited",
+    "keywords": "",
+    "dateY": "2010",
+    "dateM": "4",
+    "dateD": "21",
+    "permalink": "memristive-port-hamiltonian-systems",
+    "references": [{"doi":"10.1109/TCT.1971.1083337","title":""},{"doi":"10.1109/JPROC.2003.818319","title":""},{"doi":"10.1109/PROC.1976.10092","title":""},{"doi":"10.1038/nature06932","title":""},{"doi":"10.1115/1.3426595","title":""},{"doi":"10.1007/978-3-642-03196-0","title":""},{"doi":"10.1109/MCS.2007.338279","title":""},{"doi":"10.1109/MCS.2009.932927","title":""},{"doi":"10.1016/0016-0032(82)90050-3","title":""},{"doi":"","title":""},{"doi":"10.1016/j.automatica.2006.08.014","title":""},{"doi":"10.1137/S0363012996312039","title":""},{"doi":"","title":""},{"doi":"10.1016/0016-0032(79)90017-6","title":""},{"doi":"","title":"Brayton, R.K. 1971.Nonlinear reciprocal networks, Mathem. Aspects of Electrical Network Analysis. Providence, RI: American Math. Soc. (AMS)1–15."},{"doi":"10.1109/TCT.1972.1083551","title":""},{"doi":"10.1109/TPEL.2005.854057","title":""}]
+  }
+,
+  {
+    "doi": "10.1016/j.sysconle.2018.09.008",
+    "type": "journal-article",
+    "title": "Generalized port-Hamiltonian DAE systems",
+    "authors": [
+  {
+    "given": "Arjan",
+    "family": "van der Schaft",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "ORCID": "http://orcid.org/0000-0003-0221-2843",
+    "authenticated-orcid": false,
+    "given": "Bernhard",
+    "family": "Maschke",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "Motivated by recent work in this area we expand on a generalization of port-Hamiltonian systems that is obtained by replacing the Hamiltonian function representing energy storage by a Lagrangian subspace. This leads to a new class of algebraic constraints and DAE systems in physical systems modeling. It is shown how Dirac structures and Lagrangian subspaces allow for similar representations, and how this can be exploited to convert algebraic constraints originating from Dirac structures into algebraic constraints corresponding to Lagrangian subspaces, and conversely.",    "journal": "Systems &amp; Control Letters",
+    "year": "2018",
+    "volume": "121",
+    "issue": "",
+    "event": "",    "isbn": "",
+    "pages": "31--37",
+    "publisher": "Elsevier BV",
+    "keywords": "Port-Hamiltonian system; Algebraic constraint; Dirac structure; Lagrangian subspace; DAE system",
+    "dateY": "2018",
+    "dateM": "10",
+    "dateD": "16",
+    "permalink": "generalized-port-hamiltonian-dae-systems",
+    "references": [{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1137/S0363012996312039","title":""},{"doi":"10.1561/2600000002","title":""},{"doi":"","title":"C.A. Beattie, V. Mehrmann, H. Xu, H. Zwart, Port-Hamiltonian descriptor systems. Preprint 06-2017, Institüt für Mathematik, TU Berlin, 2017, arXiv:1705.09081."},{"doi":"","title":"V. Mehrmann, C. Mehl, M. Wojtylak, Linear algebra properties of dissipative Hamiltonian descriptor systems, arXiv:1801.02214."},{"doi":"10.1137/16M1067330","title":""},{"doi":"","title":"C.A. Beattie, V. Mehrmann, P. Van Dooren, Robust port-Hamiltonian representations of passive systems, arXiv:1801.05018."},{"doi":"","title":"L. Scholz, Condensed forms for linear port-Hamiltonian descriptor systems. Preprint 09-2017, Institüt für Mathematik, TU Berlin, 2017."},{"doi":"","title":"M. Barbero-Linan, H. Cendra, E. Garcia-Torano Andres, D. Martin de Diego, Morse families and Dirac systems, arXiv:1804.04949v1."},{"doi":"","title":"H. Zwart, handwritten notes."},{"doi":"","title":""},{"doi":"10.1090/S0002-9947-1990-0998124-1","title":""},{"doi":"10.1137/110840091","title":""},{"doi":"","title":""}]
+  }
+,
+  {
+    "doi": "10.1016/j.automatica.2024.111846",
+    "type": "journal-article",
+    "title": "Interconnection of irreversible port Hamiltonian systems",
+    "authors": [
+  {
+    "given": "Hector",
+    "family": "Ramirez",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Yann",
+    "family": "Le Gorrec",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "This paper shows how the interconnection of two controlled Irreversible port Hamiltonian Systems has to be state and co-state modulated in order to ensure the closed-loop Irreversible port Hamiltonian structure, satisfying the first and second laws of Thermodynamics. It proposes a precise parametrization of this modulation from the open-loop systems structures in order to guarantee the consistency of the closed loop energy and entropy balance equations. The results are illustrated by means of the examples of a heat-exchanger, a gas-piston system and a chemical reaction.",    "journal": "Automatica",
+    "year": "2024",
+    "volume": "170",
+    "issue": "",
+    "event": "",    "isbn": "",
+    "pages": "111846",
+    "publisher": "Elsevier BV",
+    "keywords": "Port-Hamiltonian systems; Irreversible thermodynamics; Thermo-mechanical systems; Port-based modeling; State modulated output feedback",
+    "dateY": "2024",
+    "dateM": "8",
+    "dateD": "22",
+    "permalink": "interconnection-of-irreversible-port-hamiltonian-systems",
+    "references": [{"doi":"","title":""},{"doi":"10.1109/TRO.2022.3180885","title":""},{"doi":"","title":""},{"doi":"10.1080/13873950500068823","title":""},{"doi":"","title":""},{"doi":"10.1016/S0034-4877(07)00024-9","title":""},{"doi":"10.1016/j.ces.2010.06.019","title":""},{"doi":"10.1016/j.sysconle.2011.04.021","title":""},{"doi":"10.1016/0009-2509(87)80099-4","title":""},{"doi":"10.1109/TRO.2015.2455791","title":""},{"doi":"10.1109/TRO.2011.2142430","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/S0375-9601(02)00190-1","title":""},{"doi":"10.1103/PhysRevE.56.6620","title":""},{"doi":"10.1016/j.jprocont.2011.06.014","title":""},{"doi":"10.1007/BF00251225","title":""},{"doi":"","title":""},{"doi":"10.11128/arep.17.a17207","title":"Le Gorrec, Y., Mora, L., & Ramirez, H. (2022). Boundary control of infinite dimensional irreversible port-Hamiltonian systems: The heat equation (Discussion paper). In The 10th Vienna international conference on mathematical modelling. Vienna, Austria."},{"doi":"","title":""},{"doi":"10.1109/9.871758","title":""},{"doi":"","title":"Maschke, B., Philipp, F., Schaller, M., Worthhmann, K., & Faulwasser, T. (2022). Optimal control of thermodynamic port-Hamiltonian systems. In The 25th international symposium on mathematical theory of networks and systems. Bayreuth, Germany: 12-16 September."},{"doi":"","title":"Maschke, B., & van der Schaft, A. (1992). Port controlled Hamiltonian systems: Modeling origins and system theoretic properties. In Proceedings of the 3rd IFAC symposium on nonlinear control systems (pp. 282–288). Bordeaux, France."},{"doi":"10.1016/0034-4877(91)90017-H","title":""},{"doi":"10.1109/37.915398","title":""},{"doi":"10.1016/S0005-1098(01)00278-3","title":""},{"doi":"10.3390/e24101478","title":""},{"doi":"10.1016/j.ifacol.2023.02.020","title":"Ramirez, H., & Le Gorrec, Y. (2023). On the interconnection of irreversible port-Hamiltonian systems. In 12th IFAC symposium on nonlinear control systems NOLCOS 2022. January 4-6, Canberra, Australia."},{"doi":"10.1016/j.ces.2021.117107","title":""},{"doi":"10.1016/j.automatica.2015.07.002","title":""},{"doi":"10.1016/j.ces.2012.12.002","title":""},{"doi":"10.1016/j.ejcon.2013.09.009","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.3390/e20120925","title":""},{"doi":"10.1016/j.ces.2022.117907","title":""},{"doi":"10.1016/j.ifacol.2020.12.630","title":""},{"doi":"","title":""}]
+  }
+,
+  {
+    "doi": "10.1137/19M1259092",
+    "type": "journal-article",
+    "title": "Optimal Robustness of Port-Hamiltonian Systems",
+    "authors": [
+  {
+    "given": "Volker",
+    "family": "Mehrmann",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Paul M.",
+    "family": "Van Dooren",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "We construct optimally robust port-Hamiltonian realizations of a given rational transfer function that represents a passive system. We show that the realization with a maximal passivity radius is a normalized port-Hamiltonian one. Its computation is linked to a particular solution of a linear matrix inequality that defines passivity of the transfer function, and we provide an algorithm to construct this optimal solution. We also consider the problem of finding the nearest passive system to a given non-passive one and provide a simple but suboptimal solution.",    "journal": "SIAM Journal on Matrix Analysis and Applications",
+    "year": "2020",
+    "volume": "41",
+    "issue": "1",
+    "event": "",    "isbn": "",
+    "pages": "134--151",
+    "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+    "keywords": "",
+    "dateY": "2020",
+    "dateM": "1",
+    "dateD": "15",
+    "permalink": "optimal-robustness-of-port-hamiltonian-systems",
+    "references": [{"doi":"10.1137/10079464X","title":""},{"doi":"10.1137/16M1086200","title":""},{"doi":"10.1016/j.automatica.2018.11.013","title":""},{"doi":"","title":""},{"doi":"10.1016/0167-6911(90)90037-U","title":""},{"doi":"10.1109/TCSI.2012.2215731","title":""},{"doi":"","title":""},{"doi":"10.1137/S0895479800377228","title":""},{"doi":"10.1080/10556780410001654232","title":""},{"doi":"10.1002/nla.2153","title":""},{"doi":"10.1016/j.automatica.2017.07.047","title":""},{"doi":"10.1109/TCSI.2004.834527","title":""},{"doi":"10.1109/59.910786","title":""},{"doi":"10.1073/pnas.49.2.201","title":""},{"doi":"10.1002/cpa.3160480602","title":""},{"doi":"10.1016/j.laa.2009.11.009","title":""},{"doi":"10.1016/j.automatica.2013.01.053","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1561/2600000002","title":""},{"doi":"10.1109/TAC.1971.1099831","title":""},{"doi":"10.1007/BF00276493","title":""},{"doi":"10.1007/BF00276494","title":""}]
+  }
+,
+  {
+    "doi": "10.1007/s00498-018-0223-3",
+    "type": "journal-article",
+    "title": "Linear port-Hamiltonian descriptor systems",
+    "authors": [
+  {
+    "given": "Christopher",
+    "family": "Beattie",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Volker",
+    "family": "Mehrmann",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Hongguo",
+    "family": "Xu",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Hans",
+    "family": "Zwart",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "The modeling framework of port-Hamiltonian systems is systematically extended to linear constrained dynamical systems (descriptor systems, differential-algebraic equations) of arbitrary index and with time-varying constraints. A new algebraically and geometrically defined system structure is derived. It is shown that this structure is invariant under equivalence transformations, and that it is adequate also for the modeling of high-index descriptor systems. The regularization procedure for descriptor systems to make them suitable for simulation and control is modified to preserve the port-Hamiltonian form. The relevance of the new structure is demonstrated with several examples.",    "journal": "Mathematics of Control, Signals, and Systems",
+    "year": "2018",
+    "volume": "30",
+    "issue": "4",
+    "event": "",    "isbn": "",
+    "pages": "",
+    "publisher": "Springer Science and Business Media LLC",
+    "keywords": "Port-Hamiltonian system; Descriptor system; Differential-algebraic equation; Passivity; Stability; System transformation; Differentiation index; Strangeness-index; Skew-adjoint operator; 93A30; 65L80; 93B17; 93B11",
+    "dateY": "2018",
+    "dateM": "10",
+    "dateD": "20",
+    "permalink": "linear-port-hamiltonian-descriptor-systems",
+    "references": [{"doi":"","title":"Bals J, Hofer G, Pfeiffer A, Schallert C (2005) Virtual iron bird—a multidisciplinary modelling and simulation platform for new aircraft system architectures. In: Deutscher Luft-und Raumfahrtkongress, Friedrichshafen, Germany"},{"doi":"10.1109/CDC.2011.6161504","title":"Beattie C, Gugercin S (2011) Structure-preserving model reduction for nonlinear port-Hamiltonian systems. In: 50th IEEE conference on decision and control and European control conference (CDC-ECC), 2011. IEEE, pp 6564–6569"},{"doi":"","title":"Binder A, Mehrmann V, Miedlar A, Schulze P (2015) A Matlab toolbox for the regularization of descriptor systems arising from generalized realization procedures. Preprint 24–2015, Institut für Mathematik, TU Berlin"},{"doi":"","title":"Breedveld PC (2008) Modeling and simulation of dynamic systems using bond graphs. EOLSS Publishers Co. Ltd./UNESCO, Oxford, pp 128–173"},{"doi":"","title":"Brenan KE, Campbell SL, Petzold LR (1996) Numerical solution of initial-value problems in differential algebraic equations, 2nd edn. SIAM Publications, Philadelphia"},{"doi":"10.1016/S0024-3795(99)00167-6","title":"Bunse-Gerstner A, Byers R, Mehrmann V, Nichols NK (1999) Feedback design for regularizing descriptor systems. Linear Algebra Appl 299:119–151"},{"doi":"10.1137/S0363012994278936","title":"Byers R, Kunkel P, Mehrmann V (1997) Regularization of linear descriptor systems with variable coefficients. SIAM J Control Optim 35(1):117–133"},{"doi":"10.1109/9.100932","title":"Byrnes CI, Isidori A, Willems JC (1991) Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Trans Autom Control 36:1228–1240"},{"doi":"10.1137/0518081","title":"Campbell SL (1987) A general form for solvable linear time varying singular systems of differential equations. SIAM J Math Anal 18:1101–1115"},{"doi":"10.1007/BF00952257","title":"Campbell SL (1995) Linearization of DAEs along trajectories. Z Angew Math Phys 46:70–84"},{"doi":"","title":"Campbell SL, Kunkel P, Mehrmann V (2012) Regularization of linear and nonlinear descriptor systems. In: Biegler LT, Campbell SL, Mehrmann V (eds) Control and optimization with differential-algebraic constraints, advances in control and design, chapter 2. SIAM Publications, Philadelphia, pp 17–36"},{"doi":"10.1016/j.cep.2007.09.006","title":"Couenne F, Jallut C, Maschke BM, Tayakout M, Breedveld PC (2008) Bond graph for dynamic modelling in chemical engineering. Chem Eng Process 47:1994–2003"},{"doi":"10.1007/BFb0002475","title":"Dai L (1989) Singular control systems, volume 118 of Lecture Notes in Control and Inform. Sci. Springer-Verlag, Berlin/Heidelberg"},{"doi":"10.4153/CJM-1950-012-1","title":"Dirac PAM (1950) Generalized Hamiltonian dynamics. Can J Math 2:129–148"},{"doi":"10.1007/s00211-017-0924-4","title":"Egger H, Kugler T (2018) Damped wave systems on networks: exponential stability and uniform approximations. Numer Math 138(4):839–867"},{"doi":"10.1137/17M1125303","title":"Egger H, Kugler T, Liljegren-Sailer B, Marheineke N, Mehrmann V (2018) On structure preserving model reduction for damped wave propagation in transport networks. SIAM J Sci Comput 40:A331–A365"},{"doi":"10.1007/978-3-663-09828-7","title":"Eich-Soellner E, Führer C (1998) Numerical methods in multibody dynamics. Teubner, Stuttgart"},{"doi":"10.1007/978-94-007-0089-5_2","title":"Freund RW (2011) The SPRIM algorithm for structure-preserving order reduction of general RLC circuits. In: Model reduction for circuit simulation. Springer, pp 25–52"},{"doi":"10.1016/S0167-6911(00)00091-8","title":"Fujimoto K, Sugie T (2001) Canonical transformation and stabilization of generalized Hamiltonian systems. Syst Control Lett 42(3):217–227"},{"doi":"10.1002/nla.2153","title":"Gillis N, Mehrmann V, Sharma P (2018) Computing the nearest stable matrix pairs. Numer Linear Algebra Appl 25:e2153"},{"doi":"","title":"Golo G, van der Schaft AJ, Breedveld PC, Maschke BM (2003) Hamiltonian formulation of bond graphs. In: Rantzer A, Johansson R (eds) Nonlinear and hybrid systems in automotive control. Springer, Heidelberg, pp 351–372"},{"doi":"10.1016/j.automatica.2012.05.052","title":"Gugercin S, Polyuga RV, Beattie C, van der Schaft AJ (2012) Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica 48:1963–1974"},{"doi":"10.1002/zamm.200510253","title":"Hiller M, Hirsch K (2006) Multibody system dynamics and mechatronics. Z Angew Math Mech 86(2):87–109"},{"doi":"","title":"Hinrichsen D, Pritchard AJ (2005) Mathematical system theory I. Modelling, state space analysis, stability and robustness. Springer, New York"},{"doi":"","title":"Hou M (1994) A three-link planar manipulator model. Sicherheitstechnische Regelungs- und Meßtechnik. Bergische Universität-GH Wuppertal, Wuppertal"},{"doi":"","title":"Hou M, Müller PC (1994) \n \n \n \n $$LQ$$\n \n \n \n LQ\n \n \n \n and tracking control of descriptor systems with application to constrained manipulator. Technical report, Sicherheitstechnische Regelungs- und Meßtechnik, Universität Wuppertal, Gauß-Straße, Wuppertal 1, Germany"},{"doi":"10.1007/978-3-0348-0399-1","title":"Jacob B, Zwart H (2012) Linear port-Hamiltonian systems on infinite-dimensional spaces. Operator theory: advances and applications, vol 223. Springer, Berlin"},{"doi":"","title":"Kleijn C (2013)20-sim 4C 2.1 Reference manual. Controlab Products B.V"},{"doi":"10.1007/PL00009884","title":"Kunkel P, Mehrmann V (2001) Analysis of over-and underdetermined nonlinear differential-algebraic systems with application to nonlinear control problems. Math Control Signals Syst 14:233–256"},{"doi":"10.4171/017","title":"Kunkel P, Mehrmann V (2006) Differential-algebraic equations. Analysis and numerical solution. EMS Publishing House, Zürich"},{"doi":"10.1007/PL00009876","title":"Kunkel P, Mehrmann V, Rath W (2001) Analysis and numerical solution of control problems in descriptor form. Math Control Signals Syst 14:29–61"},{"doi":"10.1007/s00498-013-0109-3","title":"Kunkel P, Mehrmann V, Scholz L (2014) Self-adjoint differential-algebraic equations. Math Control Signals Syst 26:47–76"},{"doi":"10.1007/978-3-642-27555-5","title":"Lamour R, März R, Tischendorf C (2013) Differential-algebraic equations: a projector based analysis. Springer, Berlin"},{"doi":"10.1016/S0016-0032(92)90049-M","title":"Maschke BM, van der Schaft AJ, Breedveld PC (1992) An intrinsic Hamiltonian formulation of network dynamics: non-standard Poisson structures and gyrators. J Frankl Inst 329:923–966"},{"doi":"10.1137/18M1164275","title":"Mehl C, Mehrmann V, Wojtylak M (2018) Linear algebra properties of dissipative Hamiltonian descriptor systems. SIAM J Matrix Anal Appl. To appear"},{"doi":"","title":"Mehrmann V, Schröder C (2011) Nonlinear eigenvalue and frequency response problems in industrial practice. J Math Ind 1:18"},{"doi":"10.1109/37.915398","title":"Ortega R, van der Schaft AJ, Mareels Y, Maschke BM (2001) Putting energy back in control. Control Syst Mag 21:18–33"},{"doi":"10.1007/978-1-4757-2953-5","title":"Polderman JW, Willems JC (1998) Introduction to mathematical systems theory: a behavioural approach. Springer, New York"},{"doi":"10.1016/j.automatica.2010.01.018","title":"Polyuga RV, van der Schaft AJ (2010) Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica 46:665–672"},{"doi":"10.1007/978-94-017-0625-4","title":"Schiehlen W (1993) Advanced multibody system dynamics. Kluwer Academic Publishers, Stuttgart"},{"doi":"","title":"Schlacher K, Kugi A (2001) Automatic control of mechatronic systems. Int J Appl Math Comput Sci 11(1):131–164"},{"doi":"","title":"Scholz L (2017) Condensed forms for linear port-Hamiltonian descriptor systems. Preprint 09–2017. Institut für Mathematik, TU Berlin"},{"doi":"","title":"Trautenberg W Simpack 8.9. Manual, INTEC GmbH, Angelrieder Feld 13, 82234 Wessling"},{"doi":"10.1007/978-3-7091-2774-2_9","title":"van der Schaft AJ (2004) Port-Hamiltonian systems: network modeling and control of nonlinear physical systems. In: Advanced dynamics and control of structures and machines, CISM courses and lectures, Vol. 444. Springer, New York, NY"},{"doi":"","title":"van der Schaft AJ (2006) Port-Hamiltonian systems: an introductory survey. In: Verona JL, Sanz-Sole M, Verdura J (eds) Proceedings of the international congress of mathematicians, vol. III, invited lectures, Madrid, Spain, pp 1339–1365"},{"doi":"10.1007/978-3-642-34928-7_5","title":"van der Schaft AJ (2013) Port-Hamiltonian differential-algebraic systems. In: Surveys in differential-algebraic equations I. Springer, pp 173–226"},{"doi":"10.1016/S0393-0440(01)00083-3","title":"van der Schaft AJ, Maschke BM (2002) Hamiltonian formulation of distributed-parameter systems with boundary energy flow. J Geom Phys 42:166–194"}]
+  }
+,
+  {
+    "doi": "10.1016/j.ifacol.2015.10.247",
+    "type": "journal-article",
+    "title": "Port-Hamiltonian formulation for Higher-order PDEs",
+    "authors": [
+  {
+    "given": "M.",
+    "family": "Schöberl",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "K.",
+    "family": "Schlacher",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "In this paper we consider partial differential equations in a port-Hamiltonian setting. A crucial property of this system class, especially for control purposes, is the property to be able to link a power balance relation to the structure of the equations. However, to derive this power balance relation one has to take into account also the effects of energy flows via the boundary. This can be handled in a straightforward manner when the Hamiltonian depends on derivative variables of first order, e.g. by using integration by parts. If higher-order derivatives appear (higher-order field theory) then integration by parts cannot be used without due care, thus we suggest an approach by using the so-called Cartan-form. In this paper we concentrate on second-order theories in a port-Hamiltonian framework and we visualize the derivation of a power balance relation by using mechanical examples such as plates modeled as a first-order and as second-order field theory.",    "journal": "IFAC-PapersOnLine",
+    "year": "2015",
+    "volume": "48",
+    "issue": "13",
+    "event": "5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015",    "isbn": "",
+    "pages": "244--249",
+    "publisher": "Elsevier BV",
+    "keywords": "Differential geometric methods; Hamiltonian Systems; Partial differential equations",
+    "dateY": "2015",
+    "dateM": "11",
+    "dateD": "10",
+    "permalink": "port-hamiltonian-formulation-for-higher-order-pdes",
+    "references": [{"doi":"","title":"Ennsbrunner H. 2006 nfinite-dimensional Euler-Lagrange and Port Hamiltonian Systems. University Linz, PhD-Thesis."},{"doi":"10.1109/CDC.2005.1582998","title":"Ennsbrunner, H., Schlacher, K., 2005. On the geometrical representation and interconnection of infinite dimensional port controlled hamiltonian systems. In Proceedings IEEE Conference on Decision and Control and European Control Conference (CDC-ECC), 52635268."},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1007/11334774_4","title":"Maschke, B., van der Schaft, A., 2005. Compositional Modelling of Distributed-Parameter Systems, 115-154, Advanced Topics in Control Systems Theory. Springer Lecture Notes in Control and Information Sciences, London."},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/j.matcom.2008.02.011","title":""},{"doi":"10.1016/j.ifacol.2015.05.025","title":"Schöberl, M., and Schlacher, K., 2015. Lagrangian and port-hamiltonian formulation for distributed-parameter systems. In Proceedings, 8th Mathmod Conference, Vienna, Austria, accepted."},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1109/TAC.2012.2235739","title":""},{"doi":"10.1016/j.automatica.2013.11.035","title":""},{"doi":"10.1016/S0393-0440(01)00083-3","title":""}]
+  }
+,
+  {
+    "doi": "10.1007/978-3-642-34928-7_5",
+    "type": "book-chapter",
+    "title": "Port-Hamiltonian Differential-Algebraic Systems",
+    "authors": [
+  {
+    "given": "A. J.",
+    "family": "van der Schaft",
+    "sequence": "first",
+    "affiliation": []
+  }
+],
+    "abstract": "The basic starting point of port-Hamiltonian systems theory is network modeling ; considering the overall physical system as the interconnection of simple subsystems, mutually influencing each other via energy flow. As a result of the interconnections algebraic constraints between the state variables commonly arise. This leads to the description of the system by differential-algebraic equations (DAEs), i.e., a combination of ordinary differential equations with algebraic constraints. The basic point of view put forward in this survey paper is that the differential-algebraic equations that arise are not just arbitrary, but are endowed with a special mathematical structure; in particular with an underlying geometric structure known as a Dirac structure. It will be discussed how this knowledge can be exploited for analysis and control.",    "journal": "Surveys in Differential-Algebraic Equations I",
+    "year": "2013",
+    "volume": "",
+    "issue": "",
+    "event": "",    "isbn": "9783642349270",
+    "pages": "173--226",
+    "publisher": "Springer Berlin Heidelberg",
+    "keywords": "Port-Hamiltonian systems; Passivity; Algebraic constraints; Kinematic constraints; Casimirs; Switching systems; Dirac structure; Interconnection; 34A09; 37J05; 70G45; 93B10; 93B27; 93C10",
+    "dateY": "2013",
+    "dateM": "3",
+    "dateD": "18",
+    "permalink": "port-hamiltonian-differential-algebraic-systems",
+    "references": [{"doi":"","title":"Abraham, R., Marsden, J.E.: Foundations of Mechanics, 2nd edn. Benjamin/Cummings, Reading (1978)"},{"doi":"10.1109/CDC.2011.6160588","title":"Battle, C., Massana, I., Simo, E.: Representation of a general composition of Dirac structures. In: Proc. 50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC), Orlando, FL, USA, December 12–15, pp. 5199–5204 (2011)"},{"doi":"","title":"Belevitch, V.: Classical Network Theory. Holden-Day, San Francisco (1968)"},{"doi":"","title":"Bloch, A.M., Crouch, P.E.: Representations of Dirac structures on vector spaces and nonlinear LC circuits. In: Proceedings Symposia in Pure Mathematics, Differential Geometry and Control Theory, pp. 103–117. American Mathematical Society, Providence (1999)"},{"doi":"10.1007/978-1-4471-0557-2","title":"Brogliato, B.: Nonsmooth Mechanics. Communications and Control Engineering, 2nd edn. Springer, London (1999)"},{"doi":"10.1109/TCSI.2003.815195","title":"Camlibel, M.K., Heemels, W.P.M.H., van der Schaft, A.J., Schumacher, J.M.: Switched networks and complementarity. IEEE Trans. Circuits Syst. I, Fundam. Theory Appl. 50, 1036–1046 (2003)"},{"doi":"10.1016/j.automatica.2006.08.014","title":"Cervera, J., van der Schaft, A.J., Banos, A.: Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica 43, 212–225 (2007)"},{"doi":"10.1090/S0002-9947-1990-0998124-1","title":"Courant, T.J.: Dirac manifolds. Trans. Am. Math. Soc. 319, 631–661 (1990)"},{"doi":"10.1137/S0363012996312039","title":"Dalsmo, M., van der Schaft, A.J.: On representations and integrability of mathematical structures in energy-conserving physical systems. SIAM J. Control Optim. 37(1), 54–91 (1999)"},{"doi":"10.1109/TCS.1981.1084943","title":"Desoer, C.A., Sastry, S.S.: Jump behavior of circuits and systems. IEEE Trans. Circuits Syst. 28, 1109–1124 (1981)"},{"doi":"10.4153/CJM-1950-012-1","title":"Dirac, P.A.M.: Generalized Hamiltonian dynamics. Can. J. Math. 2, 129–148 (1950)"},{"doi":"","title":"Dorfman, I.: Dirac Structures and Integrability of Nonlinear Evolution Equations. Wiley, Chichester (1993)"},{"doi":"10.1016/S0005-1098(98)00196-4","title":"Escobar, G., van der Schaft, A.J., Ortega, R.: A Hamiltonian viewpoint in the modelling of switching power converters. Automatica 35, 445–452 (1999). Special Issue on Hybrid Systems"},{"doi":"","title":"Gerritsen, K., van der Schaft, A.J., Heemels, W.P.M.H.: On switched Hamiltonian systems. In: Gilliam, D.S., Rosenthal, J. (eds.) Proceedings 15th International Symposium on Mathematical Theory of Networks and Systems (MTNS2002), South Bend, August 12–16 (2002)"},{"doi":"","title":"Golo, G., van der Schaft, A.J., Breedveld, P.C., Maschke, B.M.: Hamiltonian formulation of bond graphs. In: Nonlinear and Hybrid Systems in Automotive Control, pp. 351–372 (2003)"},{"doi":"","title":"Koopman, J., Jeltsema, D., Verhaegen, M.: Port-Hamiltonian formulation and analysis of the LuGre friction model. In: 47th IEEE Conference on Decision and Control, Cancun, Mexico, pp. 3181–3186. IEEE, Control Systems Society, New York (2008)"},{"doi":"10.1016/j.jmaa.2010.07.004","title":"Kurula, M., Zwart, H., van der Schaft, A.J., Behrndt, J.: Dirac structures and their composition on Hilbert spaces. J. Math. Anal. Appl. 372, 402–422 (2010)"},{"doi":"10.1016/j.automatica.2012.02.041","title":"Liberzon, D., Trenn, S.: Switched nonlinear differential algebraic equations: solution theory, Lyapunov functions, and stability. Automatica 48(5), 954–963 (2012)"},{"doi":"","title":"Maschke, B.M., van der Schaft, A.J.: Port-controlled Hamiltonian systems: modelling origins and system theoretic properties. In: 2nd IFAC Symposium on Nonlinear Control Systems Design (NOLCOS), Bordeaux, June, pp. 359–365 (1992)"},{"doi":"10.1016/S0016-0032(92)90049-M","title":"Maschke, B.M., van der Schaft, A.J., Breedveld, P.C.: An intrinsic Hamiltonian formulation of network dynamics: non-standard Poisson structures and gyrators. J. Franklin Inst. 329(5), 923–966 (1992)"},{"doi":"10.1016/S0167-6911(01)00167-0","title":"Narayanan, H.: Some applications of an implicit duality theorem to connections of structures of special types including Dirac and reciprocal structures. Syst. Control Lett. 45, 87–96 (2002)"},{"doi":"","title":"Neimark, J.I., Fufaev, N.A.: Dynamics of Nonholonomic Systems. Translations of Mathematical Monographs, vol. 33. American Mathematical Society, Providence (1972)"},{"doi":"10.1007/978-1-4757-2101-0","title":"Nijmeijer, H., van der Schaft, A.J.: Nonlinear Dynamical Control Systems. Springer, New York (1990)"},{"doi":"10.1109/37.915398","title":"Ortega, R., van der Schaft, A.J., Mareels, Y., Maschke, B.M.: Putting energy back in control. Control Syst. Mag. 21, 18–33 (2001)"},{"doi":"10.1016/S0005-1098(01)00278-3","title":"Ortega, R., van der Schaft, A.J., Maschke, B.M., Escobar, G.: Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4), 585–596 (2002)"},{"doi":"10.1080/00207170701361273","title":"Pasumarthy, R., van der Schaft, A.J.: Achievable Casimirs and its implications on control of port-Hamiltonian systems. Int. J. Control 80, 1421–1438 (2007)"},{"doi":"","title":"Paynter, H.M.: Analysis and Design of Engineering Systems. MIT Press, Cambridge (1961)"},{"doi":"10.1088/0305-4470/20/11/030","title":"van der Schaft, A.J.: Equations of motion for Hamiltonian systems with constraints. J. Phys. A, Math. Gen. 20, 3271–3277 (1987)"},{"doi":"10.1016/S0034-4877(98)80176-6","title":"van der Schaft, A.J.: Implicit Hamiltonian systems with symmetry. Rep. Math. Phys. 41, 203–221 (1998)"},{"doi":"","title":"van der Schaft, A.J.: Interconnection and geometry. In: Polderman, J.W., Trentelman, H.L. (eds.) The Mathematics of Systems and Control: From Intelligent Control to Behavioral Systems, Groningen, The Netherlands, pp. 203–218 (1999)"},{"doi":"10.1007/978-1-4471-0507-7","title":"van der Schaft, A.J.: L\n 2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering. Springer, Berlin (2000)"},{"doi":"","title":"van der Schaft, A.J.: Port-Hamiltonian systems: network modeling and control of nonlinear physical systems. In: Advanced Dynamics and Control of Structures and Machines. CISM Courses and Lectures, vol. 444. Springer, New York (2004)"},{"doi":"","title":"van der Schaft, A.J.: Port-Hamiltonian systems: an introductory survey. In: Sanz-Sole, M., Soria, J., Verona, J.L., Verdura, J. (eds.) Proc. of the International Congress of Mathematicians, vol. III, Invited Lectures, Madrid, Spain, pp. 1339–1365 (2006)"},{"doi":"","title":"van der Schaft, A.J.: Port-Hamiltonian systems. In: Duindam, V., Macchelli, A., Stramigioli, S., Bruyninckx, H. (eds.) Modeling and Control of Complex Physical Systems; the Port-Hamiltonian Approach, pp. 53–130. Springer, Berlin (2009). ISBN 978-3-642-03195-3. Chap. 2"},{"doi":"","title":"van der Schaft, A.J., Camlibel, M.K.: A state transfer principle for switching port-Hamiltonian systems. In: Proc. 48th IEEE Conf. on Decision and Control, Shanghai, China, December 16–18, pp. 45–50 (2009)"},{"doi":"","title":"van der Schaft, A.J., Cervera, J.: Composition of Dirac structures and control of port-Hamiltonian systems. In: Gilliam, D.S., Rosenthal, J. (eds.) Proceedings 15th International Symposium on Mathematical Theory of Networks and Systems, August (2002)"},{"doi":"10.1016/0034-4877(94)90038-8","title":"van der Schaft, A.J., Maschke, B.M.: On the Hamiltonian formulation of nonholonomic mechanical systems. Rep. Math. Phys. 34, 225–233 (1994)"},{"doi":"","title":"van der Schaft, A.J., Maschke, B.M.: The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Übertragungstech. 45, 362–371 (1995)"},{"doi":"10.1016/S0393-0440(01)00083-3","title":"van der Schaft, A.J., Maschke, B.M.: Hamiltonian formulation of distributed-parameter systems with boundary energy flow. J. Geom. Phys. 42, 166–194 (2002)"},{"doi":"10.1137/110840091","title":"van der Schaft, A.J., Maschke, B.: Port-Hamiltonian systems on graphs. SIAM J. Control Optim. (2013, to appear)"},{"doi":"10.1007/BF02551330","title":"van der Schaft, A.J., Schumacher, J.M.: The complementary-slackness class of hybrid systems. Math. Control Signals Syst. 9, 266–301 (1996)"},{"doi":"10.1109/9.664151","title":"van der Schaft, A.J., Schumacher, J.M.: Complementarity modelling of hybrid systems. IEEE Trans. Autom. Control AC-43, 483–490 (1998)"}]
+  }
+,
+  {
+    "doi": "10.1016/j.ifacol.2021.11.082",
+    "type": "journal-article",
+    "title": "Some notes on port-Hamiltonian systems on Banach spaces",
+    "authors": [
+  {
+    "given": "Timo",
+    "family": "Reis",
+    "sequence": "first",
+    "affiliation": []
+  }
+],
+    "abstract": "We consider port-Hamiltonian systems from a functional analytic perspective. Dirac structures and Hamiltonians on Banach spaces are introduced, and an energy balance is proven. Further, we consider port-Hamiltonian systems on Banach manifolds, and we present some physical examples that fit into the presented theory.",    "journal": "IFAC-PapersOnLine",
+    "year": "2021",
+    "volume": "54",
+    "issue": "19",
+    "event": "7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021",    "isbn": "",
+    "pages": "223--229",
+    "publisher": "Elsevier BV",
+    "keywords": "port-Hamiltonian systems; partial differential-algebraic systems; Dirac structures; Banach manifold; infinite dimensional systems",
+    "dateY": "2021",
+    "dateM": "11",
+    "dateD": "19",
+    "permalink": "some-notes-on-port-hamiltonian-systems-on-banach-spaces",
+    "references": [{"doi":"","title":""},{"doi":"10.4064/sm8757-4-2017","title":""},{"doi":"10.1007/978-1-4419-5542-5","title":""},{"doi":"10.1016/j.jmaa.2010.07.004","title":""},{"doi":"10.1016/j.automatica.2006.08.014","title":""},{"doi":"","title":"Chill, R., Reis, T., and Stykel, T. (2021). Analysis of a quasilinear coupled magneto-quasistatic model. Part I: Solvability and regularity of solutions. Hamburger Beiträge zur Angewandten Mathematik 2021-1, Univer-sität Hamburg."},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/S0393-0440(01)00083-3","title":""},{"doi":"10.1016/j.sysconle.2018.09.008","title":""},{"doi":"10.1137/18M1164275","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""}]
+  }
+,
+  {
+    "doi": "10.1007/s11044-020-09758-6",
+    "type": "journal-article",
+    "title": "Port-Hamiltonian flexible multibody dynamics",
+    "authors": [
+  {
+    "ORCID": "http://orcid.org/0000-0002-6823-7499",
+    "authenticated-orcid": false,
+    "given": "Andrea",
+    "family": "Brugnoli",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "ORCID": "http://orcid.org/0000-0002-5830-1821",
+    "authenticated-orcid": false,
+    "given": "Daniel",
+    "family": "Alazard",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Valérie",
+    "family": "Pommier-Budinger",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Denis",
+    "family": "Matignon",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "A new formulation for the modular construction of flexible multibody systems is presented. By rearranging the equations for a flexible floating body and introducing the appropriate canonical momenta, the model is recast into a coupled system of ordinary and partial differential equations in port-Hamiltonian (pH) form. This approach relies on a floating frame description and is valid under the assumption of small deformations. This allows including mechanical models that cannot be easily formulated in terms of differential forms. Once a pH model is established, a finite element based method is then introduced to discretize the dynamics in a structure-preserving manner. Thanks to the features of the pH framework, complex multibody systems could be constructed in a modular way. Constraints are imposed at the velocity level, leading to an index 2 quasilinear differential-algebraic system. Numerical tests are carried out to assess the validity of the proposed approach.",    "journal": "Multibody System Dynamics",
+    "year": "2021",
+    "volume": "51",
+    "issue": "3",
+    "event": "",    "isbn": "",
+    "pages": "343--375",
+    "publisher": "Springer Science and Business Media LLC",
+    "keywords": "Port-Hamiltonian systems; Floating frame formulation; Flexible multibody systems; Structure-preserving discretization; Substructuring",
+    "dateY": "2020",
+    "dateM": "10",
+    "dateD": "6",
+    "permalink": "port-hamiltonian-flexible-multibody-dynamics",
+    "references": [{"doi":"10.2514/6.2015-1778","title":"Alazard, D., Perez, J.A., Cumer, C., Loquen, T.: Two-input two-output port model for mechanical systems. In: AIAA 2015-1778 (2015). https://doi.org/10.2514/6.2015-1778"},{"doi":"10.1016/j.matcom.2015.04.007","title":"Andersson, C., Führer, C., Åkesson, J.: Assimulo: a unified framework for {ODE} solvers. Math. Comput. Simul. 116(0), 26–43 (2015). https://doi.org/10.1016/j.matcom.2015.04.007"},{"doi":"10.1137/13095032X","title":"Arnold, D., Lee, J.: Mixed methods for elastodynamics with weak symmetry. SIAM J. Numer. Anal. 52(6), 2743–2769 (2014). https://doi.org/10.1137/13095032X"},{"doi":"10.1115/1.2803258","title":"Bauchau, O.A., Laulusa, A.: Review of contemporary approaches for constraint enforcement in multibody systems. J. Comput. Nonlinear Dyn. 3(1), 011005 (2008)"},{"doi":"10.1007/s00498-018-0223-3","title":"Beattie, C., Mehrmann, V., Xu, H., Zwart, H.: Linear port-Hamiltonian descriptor systems. Math. Control Signals Syst. 30(4), 17 (2018)"},{"doi":"10.1007/978-1-4020-8680-9","title":"Bremer, H.: Elastic Multibody Dynamics. Springer, Berlin (2008)"},{"doi":"10.1137/1.9781611971224","title":"Brenan, K.E., Campbell, S.L., Petzold, L.R.: Numerical Solution of Initial-Value Problems in Differential-Algebraic Equations. SIAM, Philadelphia (1995). https://doi.org/10.1137/1.9781611971224"},{"doi":"10.1016/j.apm.2019.04.035","title":"Brugnoli, A., Alazard, D., Pommier-Budinger, V., Matignon, D.: Port-Hamiltonian formulation and symplectic discretization of plate models. Part I: Mindlin model for thick plates. Appl. Math. Model. 75, 940–960 (2019). https://doi.org/10.1016/j.apm.2019.04.035"},{"doi":"10.1016/j.apm.2019.04.036","title":"Brugnoli, A., Alazard, D., Pommier-Budinger, V., Matignon, D.: Port-Hamiltonian formulation and symplectic discretization of plate models. Part II: Kirchhoff model for thin plates. Appl. Math. Model. 75, 961–981 (2019). https://doi.org/10.1016/j.apm.2019.04.036"},{"doi":"10.1023/A:1009875930232","title":"Cardona, A.: Superelements modelling in flexible multibody dynamics. Multibody Syst. Dyn. 4(2), 245–266 (2000). https://doi.org/10.1023/A:1009875930232"},{"doi":"10.1093/imamci/dnaa038","title":"Cardoso-Ribeiro, F.L., Matignon, D., Lefèvre, L.: A partitioned finite element method for power-preserving discretization of open systems of conservation laws (2019). arXiv preprint arXiv:1906.05965. Under review"},{"doi":"10.1007/s11044-018-9628-5","title":"Celledoni, E., Høiseth, E.H., Ramzina, N.: Passivity-preserving splitting methods for rigid body systems. Multibody Syst. Dyn. 44(3), 251–275 (2018)"},{"doi":"10.1016/j.automatica.2006.08.014","title":"Cervera, J., van der Schaft, A.J., Baños, A.: Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica 43(2), 212–225 (2007). https://doi.org/10.1016/j.automatica.2006.08.014"},{"doi":"10.1137/15M1055085","title":"Chaturantabut, S., Beattie, C., Gugercin, S.: Structure-preserving model reduction for nonlinear port-Hamiltonian systems. SIAM J. Sci. Comput. 38(5), B837–B865 (2016). https://doi.org/10.1137/15M1055085"},{"doi":"10.1007/s11044-016-9559-y","title":"Chebbi, J., Dubanchet, V., Perez Gonzalez, J.A., Alazard, D.: Linear dynamics of flexible multibody systems. Multibody Syst. Dyn. 41(1), 75–100 (2017). https://doi.org/10.1007/s11044-016-9559-y"},{"doi":"10.1137/S1064827502407457","title":"Cohen, G., Fauqueux, S.: Mixed spectral finite elements for the linear elasticity system in unbounded domains. SIAM J. Sci. Comput. 26(3), 864–884 (2005). https://doi.org/10.1137/S1064827502407457"},{"doi":"10.1007/978-3-642-03196-0","title":"Duindam, V., Macchelli, A., Stramigioli, S., Bruyninckx, H.: Modeling and Control of Complex Physical Systems. Springer, Berlin (2009). https://www.springer.com/us/book/9783642031953"},{"doi":"10.1137/17M1125303","title":"Egger, H., Kugler, T., Liljegren-Sailer, B., Marheineke, N., Mehrmann, V.: On structure-preserving model reduction for damped wave propagation in transport networks. SIAM J. Sci. Comput. 40(1), A331–A365 (2018). https://doi.org/10.1137/17M1125303"},{"doi":"10.1007/s11044-017-9606-3","title":"Ellenbroek, M., Schilder, J.: On the use of absolute interface coordinates in the floating frame of reference formulation for flexible multibody dynamics. Multibody Syst. Dyn. 43(3), 193–208 (2018). https://doi.org/10.1007/s11044-017-9606-3"},{"doi":"10.1016/j.ifacol.2015.10.233","title":"Forni, P., Jeltsema, D., Lopes, G.A.: Port-Hamiltonian formulation of rigid-body attitude control. IFAC-PapersOnLine 48(13), 164–169 (2015). https://doi.org/10.1016/j.ifacol.2015.10.233. 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015"},{"doi":"10.1016/j.automatica.2003.12.017","title":"Golo, G., Talasila, V., van der Schaft, A.J., Maschke, B.: Hamiltonian discretization of boundary control systems. Automatica 40(5), 757–771 (2004). https://doi.org/10.1016/j.automatica.2003.12.017"},{"doi":"10.1142/p549","title":"Holm, D.D.: Geometric Mechanics: Part II: Rotating, Translating and Rolling. World Scientific, Singapore (2008)"},{"doi":"10.1017/CBO9781139020411","title":"Horn, R.A., Johnson, C.R.: Matrix Analysis. Cambridge University Press, Cambridge (2012)"},{"doi":"10.2514/3.2947","title":"Hurty, W.C.: Dynamic analysis of structural systems using component modes. AIAA J. 3(4), 678–685 (1965). https://doi.org/10.2514/3.2947"},{"doi":"10.1016/0168-874X(90)90020-F","title":"Kitis, L., Lindenberg, R.: Natural frequencies and mode shapes of flexible mechanisms by a transfer matrix method. Finite Elem. Anal. Des. 6(4), 267–285 (1990). https://doi.org/10.1016/0168-874X(90)90020-F"},{"doi":"10.2514/1.33274","title":"Klerk, D.D., Rixen, D.J., Voormeeren, S.N.: General framework for dynamic substructuring: history, review and classification of techniques. AIAA J. 46(5), 1169–1181 (2008). https://doi.org/10.2514/1.33274"},{"doi":"10.1016/j.sysconle.2019.104530","title":"Kotyczka, P., Lefèvre, L.: Discrete-time port-Hamiltonian systems: a definition based on symplectic integration. Syst. Control Lett. 133, 104530 (2019). https://doi.org/10.1016/j.sysconle.2019.104530"},{"doi":"10.1115/1.2803257","title":"Laulusa, A., Bauchau, O.A.: Review of classical approaches for constraint enforcement in multibody systems. J. Comput. Nonlinear Dyn. 3(1), 011004 (2008)"},{"doi":"10.1007/s11044-007-9056-4","title":"Leyendecker, S., Betsch, P., Steinmann, P.: The discrete null space method for the energy-consistent integration of constrained mechanical systems. Part III: Flexible multibody dynamics. Multibody Syst. Dyn. 19(1), 45–72 (2008). https://doi.org/10.1007/s11044-007-9056-4"},{"doi":"10.1109/TRO.2007.898990","title":"Macchelli, A., Melchiorri, C., Stramigioli, S.: Port-based modeling of a flexible link. IEEE Trans. Robot. 23, 650–660 (2007). https://doi.org/10.1109/TRO.2007.898990"},{"doi":"10.1109/TRO.2009.2026504","title":"Macchelli, A., Melchiorri, C., Stramigioli, S.: Port-based modeling and simulation of mechanical systems with rigid and flexible links. IEEE Trans. Robot. 25(5), 1016–1029 (2009). https://doi.org/10.1109/TRO.2009.2026504"},{"doi":"10.1137/1.9781611970326","title":"Marsden, J.E.: Lectures on Geometric Methods in Mathematical Physics. CBMS-NSF Regional Conference Series in Applied Mathematics. SIAM, Philadelphia (1981)"},{"doi":"","title":"Mehrmann, V., Morandin, R.: Structure-preserving discretization for port-Hamiltonian descriptor systems. In: Proceedings of the 59th IEEE Conference on Decision and Control, pp. 6663–6868 (2019)"},{"doi":"10.1109/TAC.2015.2458491","title":"Nageshrao, S.P., Lopes, G.A.D., Jeltsema, D., Babuška, R.: Port-Hamiltonian systems in adaptive and learning control: a survey. IEEE Trans. Autom. Control 61(5), 1223–1238 (2016). https://doi.org/10.1109/TAC.2015.2458491"},{"doi":"10.3182/20120215-3-AT-3016.00007","title":"Nowakowski, C., Fehr, J., Fischer, M., Eberhard, P.: Model order reduction in elastic multibody systems using the floating frame of reference formulation. IFAC Proc. Vol. 45(2), 40–48 (2012). https://doi.org/10.3182/20120215-3-AT-3016.00007. 7th Vienna International Conference on Mathematical Modelling"},{"doi":"10.3166/ejc.10.432-450","title":"Ortega, R., García-Canseco, E.: Interconnection and damping assignment passivity-based control: a survey. Eur. J. Control 10(5), 432–450 (2004)"},{"doi":"10.1115/1.4034149","title":"Perez, J.A., Alazard, D., Loquen, T., Pittet, C., Cumer, C.: Flexible multibody system linear modeling for control using component modes synthesis and double-port approach. J. Dyn. Syst. Meas. Control 138(12), 121004 (2016). https://doi.org/10.1115/1.4034149"},{"doi":"10.1145/2998441","title":"Rathgeber, F., Ham, D., Mitchell, L., Lange, M., Luporini, F., McRae, A.T., Bercea, G., Markall, G.R., Kelly, P.: Firedrake: automating the finite element method by composing abstractions. ACM Trans. Math. Softw. 43(3), 24 (2017)"},{"doi":"10.1007/s11071-019-05191-3","title":"Rong, B., Rui, X., Tao, L., Wang, G.: Theoretical modeling and numerical solution methods for flexible multibody system dynamics. Nonlinear Dyn. 98(2), 1519–1553 (2019). https://doi.org/10.1007/s11071-019-05191-3"},{"doi":"10.1007/s11044-005-5006-1","title":"Rui, X., He, B., Lu, Y., Lu, W., Wang, G.: Discrete time transfer matrix method for multibody system dynamics. Multibody Syst. Dyn. 14(3), 317–344 (2005). https://doi.org/10.1007/s11044-005-5006-1"},{"doi":"10.1016/j.jsv.2017.11.021","title":"Sanfedino, F., Alazard, D., Pommier-Budinger, V., Falcoz, A., Boquet, F.: Finite element based N-port model for preliminary design of multibody systems. J. Sound Vib. 415, 128–146 (2018). https://doi.org/10.1016/j.jsv.2017.11.021"},{"doi":"10.1007/978-1-4471-0507-7","title":"van der Schaft, A.: L2-Gain and Passivity Techniques in Nonlinear Control, vol. 2. Springer, Berlin (2000)"},{"doi":"10.13001/1081-3810.3638","title":"Scholz, L.: Condensed forms for linear port-Hamiltonian descriptor systems. Electron. J. Linear Algebra 35, 65–89 (2019). https://doi.org/10.13001/1081-3810.3638"},{"doi":"10.1023/A:1019118809892","title":"Simeon, B.: DAEs and PDEs in elastic multibody systems. Numer. Algorithms 19(1), 235–246 (1998). https://doi.org/10.1023/A:1019118809892"},{"doi":"10.1007/978-3-642-35158-7","title":"Simeon, B.: Computational Flexible Multibody Dynamics. Springer, Berlin (2013)"},{"doi":"10.14279/depositonce-1360","title":"Steinbrecher, A.: Numerical solution of quasi-linear differential-algebraic equations and industrial simulation of multibody systems. PhD thesis, TU Berlin (2006). https://doi.org/10.14279/depositonce-1360"},{"doi":"10.1016/0045-7949(90)90173-Y","title":"Tan, T., Yousuff, A., Bahar, L., Konstantinidis, M.: A modified finite element-transfer matrix for control design of space structures. Comput. Struct. 36(1), 47–55 (1990). https://doi.org/10.1016/0045-7949(90)90173-Y"},{"doi":"10.1115/1.1590354","title":"Wasfy, T.M., Noor, A.K.: Computational strategies for flexible multibody systems. Appl. Mech. Rev. 56(6), 553–613 (2003). https://doi.org/10.1115/1.1590354"},{"doi":"10.2514/3.25389","title":"Young, K.D.: Distributed finite-element modeling and control approach for large flexible structures. J. Guid. Control Dyn. 13(4), 703–713 (1990). https://doi.org/10.2514/3.25389"}]
+  }
+,
+  {
+    "doi": "10.3390/e24101478",
+    "type": "journal-article",
+    "title": "An Overview on Irreversible Port-Hamiltonian Systems",
+    "authors": [
+  {
+    "given": "Hector",
+    "family": "Ramirez",
+    "sequence": "first",
+    "affiliation": [
+      {
+        "name": "Departamento de Electrónica, Universidad Técnica Federico Santa María, 2390123 Valparaiso, Chile"
+      }
+    ]
+  },
+  {
+    "given": "Yann",
+    "family": "Le Gorrec",
+    "sequence": "additional",
+    "affiliation": [
+      {
+        "name": "Département d’Automatique et Systèmes Micro-Mécatroniques, FEMTO-ST UMR CNRS 6174, Université de Bourgogne Franche Comté, 25030 Besançon, France"
+      }
+    ]
+  }
+],
+    "abstract": "<jats:p>A comprehensive overview of the irreversible port-Hamiltonian system’s formulation for finite and infinite dimensional systems defined on 1D spatial domains is provided in a unified manner. The irreversible port-Hamiltonian system formulation shows the extension of classical port-Hamiltonian system formulations to cope with irreversible thermodynamic systems for finite and infinite dimensional systems. This is achieved by including, in an explicit manner, the coupling between irreversible mechanical and thermal phenomena with the thermal domain as an energy-preserving and entropy-increasing operator. Similarly to Hamiltonian systems, this operator is skew-symmetric, guaranteeing energy conservation. To distinguish from Hamiltonian systems, the operator depends on co-state variables and is, hence, a nonlinear-function in the gradient of the total energy. This is what allows encoding the second law as a structural property of irreversible port-Hamiltonian systems. The formalism encompasses coupled thermo-mechanical systems and purely reversible or conservative systems as a particular case. This appears clearly when splitting the state space such that the entropy coordinate is separated from other state variables. Several examples have been used to illustrate the formalism, both for finite and infinite dimensional systems, and a discussion on ongoing and future studies is provided.</jats:p>",    "journal": "Entropy",
+    "year": "2022",
+    "volume": "24",
+    "issue": "10",
+    "event": "",    "isbn": "",
+    "pages": "1478",
+    "publisher": "MDPI AG",
+    "keywords": "",
+    "dateY": "2022",
+    "dateM": "10",
+    "dateD": "18",
+    "permalink": "an-overview-on-irreversible-port-hamiltonian-systems",
+    "references": [{"doi":"10.1016/j.ces.2012.12.002","title":""},{"doi":"10.1016/j.ejcon.2013.09.009","title":""},{"doi":"","title":"Maschke, B., and van der Schaft, A. (1992, January 24–26). Port controlled Hamiltonian systems: Modeling origins and system theoretic properties. Proceedings of the 3rd IFAC Symposium on Nonlinear Control Systems, NOLCOS’92, Bordeaux, France."},{"doi":"10.1109/81.372847","title":""},{"doi":"","title":""},{"doi":"10.1007/978-3-642-03196-0","title":"Duindam, V., Macchelli, A., Stramigioli, S., and Bruyninckx, H. (2009). (Eds.) Modeling and Control of Complex Physical Systems—The Port-Hamiltonian Approach, Springer."},{"doi":"10.1007/978-1-4757-2063-1","title":"Arnold, V.I. (1989). Mathematical Methods of Classical Mechanics, Springer. [2nd ed.]. Graduate Texts in Mathematics."},{"doi":"","title":"Martin, C., and Hermann, R. (1977). Control Theory and Analytical Mechanics. Geometric Control Theory, Math Sci Press."},{"doi":"","title":"Byrnes, C.I., and Lindquist, A. (1986). On Feedback Control of Hamiltonian Systems. Theory and Applications of Nonlinear Control Systems, Elsevier North-Holland."},{"doi":"10.1017/CBO9780511624001","title":"Marsden, J. (1992). Lectures on Mechanics, Cambridge University Press."},{"doi":"","title":"Van den Hof, P.M.J., Scherer, C., and Heuberger, P.S.C. (2009). Conservation Laws and Lumped System Dynamics. Model Based Control: Bridging Rigorous Theory and Advanced Technology, Springer."},{"doi":"10.1007/978-3-7091-2774-2","title":"Irschik, H., and Schlacher, K. (2004). Port-Hamiltonian systems: Network modeling and control of nonlinear physical systems. Advanced Dynamics and Control of Structures and Machines, Springer."},{"doi":"10.1016/j.geomphys.2004.01.002","title":""},{"doi":"10.1002/cjce.24505","title":""},{"doi":"10.1007/BF00276493","title":""},{"doi":"10.1007/978-1-4471-0507-7","title":"van der Schaft, A.J. (2000). L2-Gain and Passivity Techniques in Nonlinear Control, Springer."},{"doi":"10.1007/978-3-030-19420-8","title":"Brogliato, B., Lozano, R., Maschke, B., and Egeland, O. (2020). Dissipative Systems Analysis and Control, Springer. [3rd ed.]."},{"doi":"10.1016/S0009-2509(97)87571-9","title":""},{"doi":"10.1007/978-1-4612-0185-4","title":"Christofides, P.D. (2001). Nonlinear and Robust Control of PDE Systems: Methods and Applications to Transport-Reaction Processes, Springer. [1st ed.]."},{"doi":"10.1016/0098-1354(96)00194-9","title":""},{"doi":"10.1016/S0005-1098(01)00140-6","title":""},{"doi":"10.1016/S0959-1524(01)00017-8","title":""},{"doi":"10.1016/j.automatica.2018.04.041","title":""},{"doi":"10.1063/5.0067784","title":""},{"doi":"10.1016/j.automatica.2010.07.011","title":""},{"doi":"10.1016/j.sysconle.2011.04.021","title":""},{"doi":"10.1090/qam/169746","title":""},{"doi":"10.4310/jdg/1214430827","title":""},{"doi":"10.1103/PhysRevE.56.6620","title":""},{"doi":"10.1103/PhysRevE.56.6620","title":""},{"doi":"10.1016/S0378-4371(00)00252-1","title":""},{"doi":"10.1016/j.jprocont.2008.06.018","title":""},{"doi":"10.1016/j.jprocont.2011.06.014","title":""},{"doi":"10.1016/j.jprocont.2011.12.007","title":""},{"doi":"10.3390/e20030163","title":"Gay-Balmaz, F., and Yoshimura, H. (2018). A Variational Formulation of Nonequilibrium Thermodynamics for Discrete Open Systems with Mass and Heat Transfer. Entropy, 20."},{"doi":"10.1016/0034-4877(91)90017-H","title":""},{"doi":"10.1016/S0034-4877(07)00024-9","title":""},{"doi":"10.1016/j.ces.2010.06.019","title":""},{"doi":"10.1016/j.sysconle.2013.02.008","title":""},{"doi":"10.1109/TAC.2016.2572403","title":""},{"doi":"10.1007/s00161-012-0277-2","title":""},{"doi":"10.3390/e20120925","title":"van der Schaft, A., and Maschke, B. (2018). Geometry of Thermodynamic Processes. Entropy, 20."},{"doi":"10.1016/j.ces.2021.117107","title":""},{"doi":"10.1137/040611677","title":""},{"doi":"10.1016/j.ifacol.2021.10.393","title":""},{"doi":"10.1016/j.ifacol.2019.07.004","title":""},{"doi":"10.23919/ACC53348.2022.9867213","title":"Mora, L., Le Gorrec, Y., and Ramirez, H. (2022, January 8–10). Available Energy-Based Interconnection and Entropy Assignment (ABI-EA) Boundary Control of the Heat Equation: An Irreversible Port Hamiltonian Approach. Proceedings of the 2022 American Control Conference (ACC), Atlanta, GA, USA."},{"doi":"10.1016/j.ifacol.2020.12.630","title":""},{"doi":"10.1016/j.automatica.2015.07.002","title":""},{"doi":"10.1109/TAC.2008.2006930","title":""},{"doi":"10.1007/978-94-009-3807-6","title":"Libermann, P., and Marle, C.M. (1987). Symplectic Geometry and Analytical Mechanics, D. Reidel Publishing Company."},{"doi":"10.1007/BFb0008472","title":""},{"doi":"","title":"Maschke, B., and van der Schaft, A. (1997). Interconnected Mechanical systems. Part 1 and 2. Modelling and Control of Mechanical Systems, Imperial College Press."},{"doi":"10.1109/ACC.2000.878579","title":"Ortega, R., Astolfi, A., Bastin, G., and Rodriguez, H. (2000, January 28–30). Stabilization of Food-Chain Systems Using a Port-Controlled Hamiltonian Description. Proceedings of the American Control Conference, Chicago, IL, USA."},{"doi":"10.1016/j.jprocont.2007.01.005","title":""},{"doi":"","title":"Bao, J., and Lee, P. (2007). Process Control, The Passive Systems Approach, Springer. [1st ed.]. Advances in Industrial Control."},{"doi":"10.1016/j.jprocont.2009.07.015","title":""},{"doi":"10.1007/BF00281751","title":""},{"doi":"10.1016/j.sysconle.2007.12.003","title":""},{"doi":"10.1016/S0016-0032(92)90049-M","title":""},{"doi":"10.1137/S0363012996312039","title":""},{"doi":"10.1016/S0005-1098(01)00278-3","title":""},{"doi":"10.1016/S0375-9601(02)00190-1","title":""},{"doi":"10.1016/j.jnnfm.2003.11.008","title":""},{"doi":"","title":"Callen, H. (1985). Thermodynamics and an Introduction to Thermostatistics, Wiley."},{"doi":"10.1080/13873950500068823","title":""},{"doi":"10.1007/978-3-0348-0399-1","title":"Jacob, B., and Zwart, H. (2012). Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces, Birkhäuser. Operator Theory: Advances and Applications."},{"doi":"10.1109/TAC.2014.2315754","title":""},{"doi":"10.1109/TAC.2016.2595263","title":""},{"doi":"10.1016/j.automatica.2017.07.045","title":""},{"doi":"10.1016/j.sysconle.2016.02.002","title":""},{"doi":"","title":"De Groot, S.R., and Mazur, P. (1962). Non-Equilibrium Thermodynamics, North-Holland Publishing Company."},{"doi":"","title":"Bird, R.B., Stewart, W.E., and Lightfoot, E.N. (2006). Transport Phenomena, John Wiley and Sons, Inc."},{"doi":"10.1142/10286","title":"Kjelstrup, S., Bedeaux, D., Johannessen, E., and Gross, J. (2017). Non-Equilibrium Thermodynamics for Engineers, World Scientific. [2nd ed.]."},{"doi":"","title":""},{"doi":"10.1007/978-1-4612-4350-2","title":"Olver, P. (1993). Application of Lie Groups to Differential Equations, Springer."},{"doi":"10.1016/S0393-0440(01)00083-3","title":""},{"doi":"","title":"Maschke, B., Philipp, F., Schaller, M., Worthhmann, K., and Faulwasser, T. (2022, January 12–16). Optimal control of thermodynamic port-Hamiltonian systems. Proceedings of the 25th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2022), Bayreuth, Germany."},{"doi":"10.1016/j.ejcon.2021.06.017","title":""},{"doi":"10.1063/1.2916405","title":""},{"doi":"10.1016/S0360-5442(00)00059-1","title":""},{"doi":"10.3390/e24050690","title":"Andresen, B., and Salamon, P. (2022). Future Perspectives of Finite-Time Thermodynamics. Entropy, 24."},{"doi":"10.1080/13873954.2021.1979592","title":""},{"doi":"10.1016/j.physd.2013.07.017","title":""},{"doi":"10.3390/universe7090325","title":"Parker, M.C., and Jeynes, C. (2021). A Relativistic Entropic Hamiltonian–Lagrangian Approach to the Entropy Production of Spiral Galaxies in Hyperbolic Spacetime. Universe, 7."},{"doi":"10.1063/5.0119517","title":"Califano, F., Rashad, R., and Stramigioli, S. (2022). A differential geometric description of thermodynamics in continuum mechanics with application to Fourier-Navier-Stokes fluids. Phys. Fluids, in press."}]
+  }
+,
+  {
+    "doi": "10.1007/BF02440162",
+    "type": "journal-article",
+    "title": "Time integration and discrete Hamiltonian systems",
+    "authors": [
+  {
+    "given": "O.",
+    "family": "Gonzalez",
+    "sequence": "first",
+    "affiliation": []
+  }
+],
+    "abstract": "This paper develops a formalism for the design of conserving time-integration schemes for Hamiltonian systems with symmetry. The main result is that, through the introduction of a discrete directional derivative, implicit second-order conserving schemes can be constructed for general systems which preserve the Hamiltonian along with a certain class of other first integrals arising from affine symmetries. Discrete Hamiltonian systems are introduced as formal abstractions of conserving schemes and are analyzed within the context of discrete dynamical systems; in particular, various symmetry and stability properties are investigated.",    "journal": "Journal of Nonlinear Science",
+    "year": "1996",
+    "volume": "6",
+    "issue": "5",
+    "event": "",    "isbn": "",
+    "pages": "449--467",
+    "publisher": "Springer Science and Business Media LLC",
+    "keywords": "Hamiltonian System; Discrete System; Relative Equilibrium; Symplectic Structure; Reduce Phase Space",
+    "dateY": "2006",
+    "dateM": "7",
+    "dateD": "30",
+    "permalink": "time-integration-and-discrete-hamiltonian-systems",
+    "references": [{"doi":"","title":"R. Abraham & J. E. Marsden, (1978)Foundations of Mechanics, Second Edition, Addison-Wesley, Reading, MA."},{"doi":"10.1006/jcph.1993.1128","title":"M. Austin, P. S. Krishnaprasad & L. S. Wang (1993) Almost Poisson integration of rigid body systems,J. Computational Physics,107, 105–117."},{"doi":"10.1002/nme.1620371108","title":"M. A. Crisfield & J. Shi (1994) A co-rotational element/time-integration strategy for nonlinear dynamics,International Journal for Numerical Methods in Engineering,37, 1897–1913."},{"doi":"10.1016/0021-9991(81)90052-8","title":"M. Delfour, M. Fortin & G. Payre (1981) Finite difference solutions of a nonlinear Schrödinger equation.J. Computational Physics,44, 277–288."},{"doi":"","title":"O. Gonzalez (1996a) Mechanical systems subject to holonomic constraints: Differential-algebraic formulations and conservative integration,Physica D, to appear."},{"doi":"","title":"O. Gonzalez (1996b) “Design and analysis of conserving integrators for nonlinear Hamiltonian systems with symmetry,” Ph.D. Dissertation, Department of Mechanical Engineering, Division of Applied Mechanics, Stanford University."},{"doi":"10.1016/0045-7825(96)01009-2","title":"O. Gonzalez & J. C. Simo (1996a) On the stability of symplectic and energy-momentum algorithms for nonlinear Hamiltonian systems with symmetry,Computer Methods in Applied Mechanics and Engineering, to appear."},{"doi":"","title":"O. Gonzalez & J. C. Simo (1996b) Exact energy-momentum conserving algorithms for general models in nonlinear elasticity, submitted."},{"doi":"","title":"D. Greenspan (1973)Discrete Models, Addison-Wesley, Reading, MA."},{"doi":"10.1016/0021-9991(88)90132-5","title":"T. Itoh & K. Abe (1988) Hamiltonian-conserving discrete canonical equations based on variational difference quotients,J. of Computational Physics,77, 85–102."},{"doi":"10.1016/0096-3003(89)90100-8","title":"T. Itoh & K. Abe (1989) Discrete Lagrange's equations and canonical equations based on the principle of least action,Applied Mathematics and Computation,29, 161–183."},{"doi":"10.1016/0021-9991(74)90081-3","title":"R. A. LaBudde & D. Greenspan (1974) Discrete mechanics—A general treatment.J. of Computational Physics,15, 134–167."},{"doi":"10.1007/BF01396331","title":"R. A. LaBudde & D. Greenspan (1976a) Energy and momentum conserving methods of arbitrary order for the numerical integration of equations of motion. Part I.Numerisch Mathematik,25, 323–346."},{"doi":"10.1007/BF01396562","title":"R. A. LaBudde & D. Greenspan (1976b) Energy and momentum conserving methods of arbitrary order for the numerical integration of equations of motion. Part II.Numerisch Mathematik,26, 1–16."},{"doi":"10.1007/BF02430634","title":"D. Lewis & J. C. Simo (1994) Conserving algorithms for the dynamics of Hamiltonian systems on Lie groups,Journal of Nonlinear Science,4, 253–300."},{"doi":"10.1007/978-1-4612-2682-6","title":"J. E. Marsden & T. S. Ratiu (1994)Introduction to Mechanics and Symmetry, Springer-Verlag, New York."},{"doi":"10.1007/BF02352494","title":"J. Moser & A. P. Veselov (1991) Discrete versions of some classical integrable systems and factorization of matrix polynomials.Communications in Mathematical Physics,139, 217–243."},{"doi":"10.1007/978-1-4612-4350-2","title":"P. J. Olver (1993)Applications of Lie Groups to Differential Equations, Second Edition, Springer-Verlag, New York."},{"doi":"10.1090/S0025-5718-1984-0744922-X","title":"J. M. Sanz-Serna (1984) Methods for the numerical solution of the nonlinear Schrödinger equation,Mathematics of Computation,43, 21–27."},{"doi":"10.1002/nme.1620310103","title":"J. C. Simo & K. K. Wong (1991) Unconditionally stable algorithms for rigid body dynamics that exactly preserve energy and angular momentum.International J. Numerical Methods in Engineering,31, 19–52."},{"doi":"","title":"J. C. Simo & N. Tarnow (1992) The discrete energy-momentum method. Conserving algorithms for nonlinear elastodynamics,ZAMP,43, 757–793."},{"doi":"10.1002/nme.1620371502","title":"J. C. Simo & N. Tarnow (1994) A new energy-momentum method for the dynamics of nonlinear shells.International J. Numerical Methods in Engineering,37, 2525–2550."},{"doi":"10.1002/nme.1620380903","title":"J. C. Simo, N. Tarnow & M. Doblaré (1994) Exact energy-momentum algorithms for the dynamics of nonlinear rods,International J. Numerical Methods in Engineering,38, 1431–1473."},{"doi":"","title":"J. C. Simo & O. Gonzalez (1993) Assessment of energy-momentum and symplectic schemes for stiff dynamical systems,American Society of Mechanical Engineers, ASME Winter Annual Meeting, New Orleans, LA."},{"doi":"10.1016/0045-7825(94)90061-2","title":"N. Tarnow & J. C. Simo (1994) How to render second order accurate time-stepping algorithms fourth order accurate while retaining the stability and conservation properties,Computer Methods in Applied Mechanics and Engineering,115, 233–252."}]
+  }
+,
+  {
+    "doi": "10.1016/j.ifacol.2024.08.294",
+    "type": "journal-article",
+    "title": "Port-Hamiltonian systems with energy and power ports",
+    "authors": [
+  {
+    "given": "Kaja",
+    "family": "Krhač",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Bernhard",
+    "family": "Maschke",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Arjan",
+    "family": "van der Schaft",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "We extend the port-Hamiltonian framework defined with respect to a Lagrangian submanifold and a Dirac structure by augmenting the Lagrangian submanifold with the space of external variables. The new pair of conjugated variables is called energy port. We show that in the most general case, the extension describes constrained Hamiltonian systems whose Hamiltonian function depends on inputs.",    "journal": "IFAC-PapersOnLine",
+    "year": "2024",
+    "volume": "58",
+    "issue": "6",
+    "event": "8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024",    "isbn": "",
+    "pages": "280--285",
+    "publisher": "Elsevier BV",
+    "keywords": "Port-Hamiltonian systems; constrained Hamiltonian systems; input-output systems; Morse families; Lagrangian submanifolds",
+    "dateY": "2024",
+    "dateM": "9",
+    "dateD": "25",
+    "permalink": "port-hamiltonian-systems-with-energy-and-power-ports",
+    "references": [{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1007/BF02392052","title":""},{"doi":"","title":""},{"doi":"10.2139/ssrn.4292998","title":"Maschke, B. and van der Schaft, A. (2023). Linear boundary port-Hamiltonian systems with implicitly defined energy."},{"doi":"10.1016/S1474-6670(17)52308-3","title":""},{"doi":"","title":"Maslov, V., Arnol’d, V., and Buslaev, V. (1972). Théorie des perturbations et méthodes asymptotiques. Etudes mathématiques. Dunod."},{"doi":"10.1016/j.shpsb.2005.04.004","title":""},{"doi":"","title":""},{"doi":"","title":"Van der Schaft, A. (1985). On feedback control of Hamiltonian systems, 273–290. 7th Int. Symp. Mathematical Theory of Networks and Systems."},{"doi":"10.1016/j.sysconle.2018.09.008","title":""},{"doi":"10.1007/s10013-020-00419-x","title":""},{"doi":"10.1090/cbms/029","title":"Weinstein, A. (1977). Lectures on symplectic manifolds. Published for the Conference Board of the Mathematical Sciences by the American Mathematical Society Providence. R.I."}]
+  }
+,
+  {
+    "doi": "10.1016/j.automatica.2003.12.017",
+    "type": "journal-article",
+    "title": "Hamiltonian discretization of boundary control systems",
+    "authors": [
+  {
+    "given": "Goran",
+    "family": "Golo",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Viswanath",
+    "family": "Talasila",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Arjan",
+    "family": "van der Schaft",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Bernhard",
+    "family": "Maschke",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "A fundamental problem in the simulation and control of complex physical systems containing distributed-parameter components concerns finite-dimensional approximation. Numerical methods for partial differential equations (PDEs) usually assume the boundary conditions to be given, while more often than not the interaction of the distributed-parameter components with the other components takes place precisely via the boundary. On the other hand, finite-dimensional approximation methods for infinite-dimensional input–output systems (e.g., in semi-group format) are not easily relatable to numerical techniques for solving PDEs, and are mainly confined to linear PDEs. In this paper we take a new view on this problem by proposing a method for spatial discretization of boundary control systems based on a particular type of mixed finite elements, resulting in a finite-dimensional input–output system. The approach is based on formulating the distributed-parameter component as an infinite-dimensional port-Hamiltonian system, and exploiting the geometric structure of this representation for the choice of appropriate mixed finite elements. The spatially discretized system is again a port-Hamiltonian system, which can be treated as an approximating lumped-parameter physical system of the same type. In the current paper this program is carried out for the case of an ideal transmission line described by the telegrapher's equations, and for the two-dimensional wave equation.",    "journal": "Automatica",
+    "year": "2004",
+    "volume": "40",
+    "issue": "5",
+    "event": "",    "isbn": "",
+    "pages": "757--771",
+    "publisher": "Elsevier BV",
+    "keywords": "Boundary control; Spatial discretization; Finite elements; Port-Hamiltonian systems",
+    "dateY": "2004",
+    "dateM": "3",
+    "dateD": "6",
+    "permalink": "hamiltonian-discretization-of-boundary-control-systems",
+    "references": [{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1090/S0002-9947-1990-0998124-1","title":""},{"doi":"10.1137/S0363012996312039","title":""},{"doi":"","title":""},{"doi":"10.1016/S1474-6670(17)38882-1","title":"Golo, G., van der Schaft, A. J., & Stramigioli, S., 2003. Hamiltonian formulation of planar beams. Second IFAC workshop on Lagrangian and Hamiltonian methods for nonlinear control, Seville (pp. 169–174)."},{"doi":"10.1109/CDC.2002.1185099","title":"Golo, G., Talasila, V., & van der Schaft, A.J., 2002. Approximation of the telegrapher's equations. 41st IEEE conference on decision and control, Las Vegas (pp. 4567–4572)."},{"doi":"10.1016/S1474-6670(17)35543-X","title":"Maschke, B. M., & van der Schaft, A. J. (2000). Port controlled Hamiltonian representation of distributed parameter systems In N. E. Leonard, R. Ortega (Eds.), Proceedings of IFAC workshop on Lagrangian and Hamiltonian methods for nonlinear control, Princeton University (pp. 28–38)."},{"doi":"10.1016/S0016-0032(92)90049-M","title":""},{"doi":"","title":""},{"doi":"10.1109/37.915398","title":""},{"doi":"10.1016/S0005-1098(01)00278-3","title":""},{"doi":"","title":"van der Schaft, A. J. (1999). The mathematics of systems and control: From intelligent control to behavioral systems, Interconnection and Geometry. Groningen: Foundation Systems and Control."},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/S0393-0440(01)00083-3","title":""},{"doi":"","title":"Talasila, V., Golo, G., & van der Schaft, A. J., 2002. The wave equation as a port-Hamiltonian system and a finite dimensional approximation. In D.S. Gilliam, J. Rosenthal (Eds.), Proceedings of 15th international symposium mathematical theory of networks and systems (MTNS), South Bend."}]
+  }
+,
+  {
+    "doi": "10.1016/j.jcp.2016.11.023",
+    "type": "journal-article",
+    "title": "Discontinuous Galerkin methods for Hamiltonian ODEs and PDEs",
+    "authors": [
+  {
+    "given": "Wensheng",
+    "family": "Tang",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Yajuan",
+    "family": "Sun",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Wenjun",
+    "family": "Cai",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "In this article, we present a unified framework of discontinuous Galerkin (DG) discretizations for Hamiltonian ODEs and PDEs. We show that with appropriate numerical fluxes the numerical algorithms deduced from DG discretizations can be combined with the symplectic methods in time to derive the multi-symplectic PRK schemes. The resulting numerical discretizations are applied to the linear and nonlinear Schrödinger equations. Some conservative properties of the numerical schemes are investigated and confirmed in the numerical experiments.",    "journal": "Journal of Computational Physics",
+    "year": "2017",
+    "volume": "330",
+    "issue": "",
+    "event": "",    "isbn": "",
+    "pages": "340--364",
+    "publisher": "Elsevier BV",
+    "keywords": "Discontinuous Galerkin method; Hamiltonian systems; Continuous-stage PRK method; Symplectic PRK scheme; Multi-symplectic PRK scheme; Conservation laws",
+    "dateY": "2016",
+    "dateM": "11",
+    "dateD": "22",
+    "permalink": "discontinuous-galerkin-methods-for-hamiltonian-odes-and-pdes",
+    "references": [{"doi":"10.1006/jcph.2000.6427","title":""},{"doi":"10.1007/BF00370131","title":""},{"doi":"10.1016/S0168-9274(97)00072-X","title":""},{"doi":"10.1016/S0375-9601(01)00294-8","title":""},{"doi":"10.1007/s10483-007-0809-y","title":""},{"doi":"10.1016/j.amc.2003.12.009","title":""},{"doi":"10.1023/A:1012873910884","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1090/S0025-5718-05-01793-X","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1090/S0025-5718-1972-0315899-8","title":""},{"doi":"10.1006/jcph.2001.6854","title":""},{"doi":"10.1137/15M1032752","title":""},{"doi":"10.1137/140958050","title":""},{"doi":"10.1007/s002200050505","title":""},{"doi":"10.1016/0898-1221(90)90357-P","title":""},{"doi":"","title":""},{"doi":"10.1006/jcph.1999.6372","title":""},{"doi":"10.1137/070688468","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1007/s00211-007-0073-2","title":""},{"doi":"10.1063/1.4756391","title":""},{"doi":"10.1016/j.amc.2012.08.062","title":""},{"doi":"10.1016/j.amc.2016.04.026","title":""},{"doi":"10.1016/j.amc.2014.02.042","title":""},{"doi":"10.1016/S0096-3003(03)00080-8","title":""},{"doi":"10.1016/j.jcp.2004.11.001","title":""},{"doi":"10.1023/A:1015132126817","title":""}]
+  }
+,
+  {
+    "doi": "10.1016/j.ifacol.2017.08.708",
+    "type": "journal-article",
+    "title": "Symplectic discretization of Port Controlled Hamiltonian systems",
+    "authors": [
+  {
+    "given": "Laurent",
+    "family": "Lefevre",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Silviu",
+    "family": "Medianu",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "In this paper, a time-discretization framework is proposed for Port Controlled Hamiltonian (PCH) systems using combined discretization rules for the flows and efforts, which preserves the continuous-time structure. As examples for this formulation, three symplectic time-discretization schemes are presented, using classic discretization rules (implicit/explicit Euler, implicit mid-point and implicit trapezoidal), for the flows and efforts. As continuous-time model for exemplification using this framework, a linear capacitor microphone circuit is selected.",    "journal": "IFAC-PapersOnLine",
+    "year": "2017",
+    "volume": "50",
+    "issue": "1",
+    "event": "20th IFAC World Congress",    "isbn": "",
+    "pages": "3629--3634",
+    "publisher": "Elsevier BV",
+    "keywords": "symplectic discretization; Port Controlled Hamiltonian systems; discrete-time systems; linear systems; nonlinear systems",
+    "dateY": "2017",
+    "dateM": "10",
+    "dateD": "19",
+    "permalink": "symplectic-discretization-of-port-controlled-hamiltonian-systems",
+    "references": [{"doi":"10.1109/CDC.2013.6760366","title":"Aoues, S., Eberard, D., and Favre, W. M. (2013). Canonical interconnection of discrete linear port-Hamiltonian systems, 52nd IEEE annual conference on decision and control, pp.3166-3171."},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/S1474-6670(17)52308-3","title":"Maschke, B.M., Van der Schaft, A.J. (1992). Port-controlled Hamiltonian systems: modelling origins and systemtheoretic properties, Proceedings of the IF AC International Symposium on Nonlinear control systems design, pp.282-288."},{"doi":"10.1109/CDC.1996.574297","title":"Maschke, B.M., and van der Schaft, AJ.(1997). Interconnection of systems: the network paradigm, Proceedings of the 38th IEEE Conference on Decision and Control, Vol. 1, pp. 207-212."},{"doi":"","title":"Talasila, V., Gallardo, J., van der Schaft, A.J. (2004a). Hamiltonian mechanics on discrete manifolds, Proceedings of the 16th International Symposium on Mathematical Theory of Networks and Systems, Katholieke Universiteit Leuven, Belgium."},{"doi":"10.1088/0305-4470/37/41/008","title":""},{"doi":"10.1016/j.sysconle.2005.10.001","title":""},{"doi":"10.1016/S0393-0440(01)00083-3","title":""},{"doi":"","title":"Van der Schaft, A.J. (2005). Chapter 1: Port-Hamiltonian formulation of network models; the lumpted parameter case, Theory of Port-Hamiltonian systems, 2005."},{"doi":"","title":""},{"doi":"","title":""}]
+  }
+,
+  {
+    "doi": "10.1080/13873954.2016.1237970",
+    "type": "journal-article",
+    "title": "Distributed port-Hamiltonian modelling for irreversible processes",
+    "authors": [
+  {
+    "given": "W.",
+    "family": "Zhou",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "B.",
+    "family": "Hamroun",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "F.",
+    "family": "Couenne",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Y.",
+    "family": "Le Gorrec",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "ABSTRACT Infinite-dimensional port-Hamiltonian representation of irreversible processes accounting for the thermal energy domain is presented. Two examples are studied: the transmission line and a non-isothermal reaction diffusion process. The proposed approach uses thermodynamic variables in order to define the infinite-dimensional interconnection structure linking the different phenomena. A presentation is given for one-dimensional spatial domain. For the transmission line, the Hamiltonian is the total energy and for the reaction diffusion process it is the enthalpy or the opposite of entropy.",    "journal": "Mathematical and Computer Modelling of Dynamical Systems",
+    "year": "2017",
+    "volume": "23",
+    "issue": "1",
+    "event": "",    "isbn": "",
+    "pages": "3--22",
+    "publisher": "Informa UK Limited",
+    "keywords": "",
+    "dateY": "2016",
+    "dateM": "10",
+    "dateD": "5",
+    "permalink": "distributed-port-hamiltonian-modelling-for-irreversible-processes",
+    "references": [{"doi":"10.1007/978-3-642-03196-0","title":""},{"doi":"10.1016/j.jprocont.2011.06.014","title":""},{"doi":"10.1016/j.ces.2012.12.002","title":""},{"doi":"10.1016/S0393-0440(01)00083-3","title":""},{"doi":"10.1016/j.matcom.2008.02.011","title":""},{"doi":"10.1016/j.automatica.2013.11.035","title":""},{"doi":"10.1007/BFb0110297","title":""},{"doi":"10.1137/040611677","title":""},{"doi":"10.1016/j.jprocont.2008.07.002","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/j.jprocont.2006.12.006","title":""},{"doi":"10.1090/S0002-9947-1990-0998124-1","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/j.compchemeng.2007.04.012","title":""},{"doi":"","title":""},{"doi":"","title":""}]
+  }
+,
+  {
+    "doi": "10.1016/j.ces.2021.117107",
+    "type": "journal-article",
+    "title": "Boundary controlled irreversible port-Hamiltonian systems",
+    "authors": [
+  {
+    "given": "Hector",
+    "family": "Ramirez",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Yann Le",
+    "family": "Gorrec",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Bernhard",
+    "family": "Maschke",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "Boundary controlled irreversible port-Hamiltonian systems (BC-IPHS) defined on a 1-dimensional spatial domain are defined by extending the formulation of reversible BC-PHS to irreversible thermodynamic systems controlled at the boundaries of their spatial domain. The structure of BC-IPHS has clear physical interpretation, characterizing the coupling between energy storing and energy dissipating elements. By extending the definition of boundary port variables of BC-PHS to deal with the irreversible energy dissipation, a set of boundary port variables are defined such that BC-IPHS are passive with respect to a given set of conjugated inputs and outputs. As for finite dimensional IPHS, the first and second laws of Thermodynamics are satisfied as a structural property of the system. Several examples are given to illustrate the proposed approach.",    "journal": "Chemical Engineering Science",
+    "year": "2022",
+    "volume": "248",
+    "issue": "",
+    "event": "",    "isbn": "",
+    "pages": "117107",
+    "publisher": "Elsevier BV",
+    "keywords": "Port-Hamiltonian systems; Irreversible thermodynamics; Infinite dimensional systems",
+    "dateY": "2021",
+    "dateM": "9",
+    "dateD": "27",
+    "permalink": "boundary-controlled-irreversible-port-hamiltonian-systems",
+    "references": [{"doi":"10.1016/0098-1354(96)00194-9","title":""},{"doi":"10.1016/S0005-1098(01)00140-6","title":""},{"doi":"10.1016/S0959-1524(01)00017-8","title":""},{"doi":"10.1016/B978-0-409-90221-1.50007-4","title":"Aris, R., 1989. Elementary Chemical Reactor Analysis. Chemical Engineering, Butterworths, Stoneham, USA."},{"doi":"","title":""},{"doi":"10.1090/qam/169746","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/S0009-2509(97)87571-9","title":""},{"doi":"10.1137/S0363012903425568","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/S0034-4877(07)00024-9","title":""},{"doi":"10.1016/j.automatica.2010.07.011","title":""},{"doi":"10.1016/j.ces.2010.06.019","title":""},{"doi":"10.1016/j.sysconle.2011.04.021","title":""},{"doi":"10.3390/e20030163","title":""},{"doi":"10.1016/S0098-1354(02)00024-8","title":""},{"doi":"10.1103/PhysRevE.56.6620","title":""},{"doi":"10.1016/j.jprocont.2011.06.014","title":""},{"doi":"10.1016/j.jprocont.2011.12.007","title":""},{"doi":"10.1007/978-3-0348-0399-1","title":"Jacob, B., Zwart, H., 2012. Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces. volume 223 of Operator Theory: Advances and Applications. Birkhäuser, Basel, Switzerland."},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1109/CCA.2006.285949","title":"Le Gorrec, Y., Villegas, J., Zwart, H., Maschke, B., 2006. Dissipative boundary control systems with application to distributed parameters reactors. In: Joint CCA, ISIC and CACSD Conference 2006, Munich, Germany."},{"doi":"10.1137/040611677","title":""},{"doi":"10.1109/TAC.2020.3004798","title":""},{"doi":"10.1109/TAC.2016.2595263","title":""},{"doi":"","title":""},{"doi":"","title":"Maschke, B., van der Schaft, A., 1992. Port controlled Hamiltonian systems: modeling origins and system theoretic properties. In: Proceedings of the 3rd IFAC Symposium on Nonlinear Control Systems, NOLCOS’92, Bordeaux, France. pp. 282–288."},{"doi":"10.1007/11334774_4","title":"Maschke, B., van der Schaft, A., 2005. Advanced Topics in Control Systems Theory. Lecture Notes from FAP 2004. Springer. volume 311 of Lecture Notes on Control and Information Sciences. chapter Compositional modelling of distributed-parameter systems. pp. 115–154."},{"doi":"10.1007/s00161-012-0277-2","title":""},{"doi":"10.1016/0034-4877(91)90017-H","title":""},{"doi":"10.1016/S0378-4371(00)00252-1","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1007/978-1-4471-3603-3","title":"Ortega, R., Loria, A., Nicklasson, P., Sira-Ramirez, H., 1998. Passivity-based control of Euler-Lagrange Systems. Communications and Control Series, Springer, Berlin."},{"doi":"10.1103/PhysRevE.56.6633","title":""},{"doi":"","title":"Prigogine, I., Defay, R., 1954. Chemical Thermodynamics. volume 1 of Treatise on Thermodynamics. Longmans Green and Co, London, Great Britain."},{"doi":"10.1016/j.ifacol.2016.10.752","title":"Ramirez, H., Le Gorrec, Y., 2016. An irreversible port-Hamiltonian formulation of distributed diffusion processes. IFAC-PapersOnLine 49, 46–51. 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016."},{"doi":"10.1109/TAC.2014.2315754","title":""},{"doi":"10.1016/j.automatica.2015.07.002","title":""},{"doi":"10.1016/j.sysconle.2013.02.008","title":""},{"doi":"10.1016/j.ces.2012.12.002","title":""},{"doi":"10.1016/j.ejcon.2013.09.009","title":""},{"doi":"10.1109/TAC.2016.2572403","title":""},{"doi":"","title":"Ramirez, H., Sbarbaro, D., Maschke, B., 2014b. Irreversible port-Hamiltonian formulation of chemical reaction networks. In: The 21st International Symposium on Mathematical Theory of Networks and Systems, Groningen, The Netherlands."},{"doi":"10.1016/j.jprocont.2008.06.018","title":""},{"doi":"10.1016/j.automatica.2017.07.045","title":""},{"doi":"","title":""},{"doi":"10.1561/2600000002","title":""},{"doi":"","title":""},{"doi":"10.1016/S0393-0440(01)00083-3","title":""},{"doi":"10.3390/e20120925","title":""},{"doi":"10.1007/978-1-4471-0507-7","title":"van der Schaft, A.J., 2000. L2-Gain and Passivity Techniques in Nonlinear Control."},{"doi":"10.1016/j.automatica.2018.04.041","title":""},{"doi":"","title":""},{"doi":"10.1063/1.3558782","title":""},{"doi":"10.1007/BF00276493","title":""}]
+  }
+,
+  {
+    "doi": "10.1016/j.sysconle.2019.01.002",
+    "type": "journal-article",
+    "title": "Geometric spatial reduction for port-Hamiltonian systems",
+    "authors": [
+  {
+    "given": "Ngoc Minh Trang",
+    "family": "Vu",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Laurent",
+    "family": "Lefèvre",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "ORCID": "http://orcid.org/0000-0003-0221-2843",
+    "authenticated-orcid": false,
+    "given": "Bernhard",
+    "family": "Maschke",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "A geometric spatial reduction method is presented in this paper. It applies to port Hamiltonian models for open systems of balance equations. It is based on projections which make use of the spatial symmetries in the model and preserve the “natural” power pairing. Reductions from 3D to 2D and 1D domains are illustrated via two examples. The first one is a vibro-acoustic system with cylindrical symmetry where 3D–2D reduction is applied. The second one is the system of two coupled parabolic equations describing the poloidal magnetic flux diffusion and heat radial transport in tokamak reactors. In this latter example the toroidal symmetry allows to perform a 3D–1D reduction. Obtained reduced models are compared with the common control models found in the literature for these two examples.",    "journal": "Systems &amp; Control Letters",
+    "year": "2019",
+    "volume": "125",
+    "issue": "",
+    "event": "",    "isbn": "",
+    "pages": "1--8",
+    "publisher": "Elsevier BV",
+    "keywords": "Geometric reduction; Distributed parameters systems; Port Hamiltonian systems; Tokamak plasma control; Vibro-acoustic system",
+    "dateY": "2019",
+    "dateM": "2",
+    "dateD": "4",
+    "permalink": "geometric-spatial-reduction-for-port-hamiltonian-systems",
+    "references": [{"doi":"10.1007/BF00398428","title":""},{"doi":"10.1090/conm/028/751975","title":""},{"doi":"","title":"J. Vankerschaver, H. Yoshimura, M. Leok, J. Marsden, StokesDirac structures through reduction of infinite-dimensional dirac structures, in: 49th IEEE Conference on Decision and Control, Hilton Atlanta Hotel, Atlanta, GA, USA."},{"doi":"10.1016/S0034-4877(01)90006-0","title":""},{"doi":"10.1017/S0305004196001429","title":""},{"doi":"10.1006/jcph.1999.6372","title":""},{"doi":"10.1016/S0375-9601(01)00294-8","title":""},{"doi":"","title":""},{"doi":"10.1016/S0393-0440(01)00083-3","title":""},{"doi":"","title":"Y. Wu, B. Hamroun, Y. Le Gorrec, B. Maschke, Power preserving model reduction of 2D vibro-acoustic system: A port Hamiltonian approach, in :5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control (LHMNLC15)."},{"doi":"10.1016/j.jcp.2018.02.006","title":""},{"doi":"10.1121/1.3026329","title":""},{"doi":"","title":""},{"doi":"10.1080/13873954.2016.1154874","title":""},{"doi":"","title":""},{"doi":"","title":"S. Morita, Geometry of differential forms, in: Mathematical Monographs, vol. 201."},{"doi":"","title":"K. Neeb, Differential Topology of Fiber Bundles, FAU ErlangenNuernberg."},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":"V. Trenchant, Y. Fares, H. Ramirez, Y. Le Gorrec, M. Ouisse, A port-Hamiltonian formulation of a 2D boundary controlled acoustic system, in: 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control (LHMNLC15)."},{"doi":"","title":""},{"doi":"10.1109/MCS.2005.1512794","title":""},{"doi":"10.1109/MCS.2006.1615272","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.3182/20130204-3-FR-2033.00098","title":"N. Vu, L. Lefèvre, R. Nouailletas, S. Brémond, Geometric discretization for a plasma control model, in: IFAC Joint conference: 5th Symposium on System Structure and Control, vol. 5, Grenoble, France, 2013, pp. 755–760."},{"doi":"","title":"N. Vu, L. Lefèvre, R. Nouailletas, S. Brémond, An IDA-PBC approach for the control of 1D plasma profile in tokamaks, in: 52nd IEEE Conference on Decision and Control, Florence, Italy, 2013, pp. 4176–4181."},{"doi":"","title":""},{"doi":"10.1088/0741-3335/54/2/025002","title":""},{"doi":"10.1016/j.jprocont.2016.12.005","title":""},{"doi":"10.1016/j.automatica.2013.11.020","title":""}]
+  }
+,
+  {
+    "doi": "10.1515/cmam-2020-0025",
+    "type": "journal-article",
+    "title": "On the Energy Stable Approximation of Hamiltonian and Gradient Systems",
+    "authors": [
+  {
+    "given": "Herbert",
+    "family": "Egger",
+    "sequence": "first",
+    "affiliation": [
+      {
+        "name": "Department of Mathematics , TU Darmstadt , Darmstadt , Germany"
+      }
+    ]
+  },
+  {
+    "given": "Oliver",
+    "family": "Habrich",
+    "sequence": "additional",
+    "affiliation": [
+      {
+        "name": "Department of Mathematics , TU Darmstadt , Darmstadt , Germany"
+      }
+    ]
+  },
+  {
+    "given": "Vsevolod",
+    "family": "Shashkov",
+    "sequence": "additional",
+    "affiliation": [
+      {
+        "name": "Department of Mathematics , TU Darmstadt , Darmstadt , Germany"
+      }
+    ]
+  }
+],
+    "abstract": "<jats:title>Abstract</jats:title> <jats:p>A general framework for the numerical approximation of evolution problems is presented that allows to preserve an underlying dissipative Hamiltonian or gradient structure exactly.The approach relies on rewriting the evolution problem in a particular form that complies with the underlying geometric structure.The Galerkin approximation of a corresponding variational formulation in space then automatically preserves this structure which allows to deduce important properties for appropriate discretization schemes including projection based model order reduction.We further show that the underlying structure is preserved also under time discretization by a Petrov–Galerkin approach.The presented framework is rather general and allows the numerical approximation of a wide range of applications, including nonlinear partial differential equations and port-Hamiltonian systems.Some examples will be discussed for illustration of our theoretical results, and connections to other discretization approaches will be highlighted.</jats:p>",    "journal": "Computational Methods in Applied Mathematics",
+    "year": "2021",
+    "volume": "21",
+    "issue": "2",
+    "event": "",    "isbn": "",
+    "pages": "335--349",
+    "publisher": "Walter de Gruyter GmbH",
+    "keywords": "",
+    "dateY": "2020",
+    "dateM": "12",
+    "dateD": "14",
+    "permalink": "on-the-energy-stable-approximation-of-hamiltonian-and-gradient-systems",
+    "references": [{"doi":"10.1007/s10915-018-0653-6","title":"B. M. Afkham and J. S. Hesthaven,\nStructure-preserving model-reduction of dissipative Hamiltonian systems,\nJ. Sci. Comput. 81 (2019), no. 1, 3–21."},{"doi":"10.1007/s00211-011-0363-6","title":"G. Akrivis, C. Makridakis and R. H. Nochetto,\nGalerkin and Runge–Kutta methods: Unified formulation, a posteriori error estimates and nodal superconvergence,\nNumer. Math. 118 (2011), no. 3, 429–456."},{"doi":"10.1007/978-88-470-1506-7_9","title":"A. Alonso Rodríguez and A. Valli,\nEddy Current Approximation of Maxwell Equations. Theory, Algorithms and Applications,\nModel. Simul. Appl. 4,\nSpringer, Milan, 2010."},{"doi":"10.1137/1.9780898718713","title":"A. C. Antoulas,\nApproximation of Large-Scale Dynamical Systems,\nAdv. Des. Control 6,\nSociety for Industrial and Applied Mathematics, Philadelphia, 2005."},{"doi":"10.1016/j.sysconle.2008.10.016","title":"C. Beattie and S. Gugercin,\nInterpolatory projection methods for structure-preserving model reduction,\nSystems Control Lett. 58 (2009), no. 3, 225–232."},{"doi":"10.1109/CDC.2011.6161504","title":"C. Beattie and S. Gugercin,\nStructure-preserving model reduction for nonlinear port-Hamiltonian systems,\n50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC),\nIEEE Press, Piscataway (2011), 6564–6569."},{"doi":"10.1007/3-540-27909-1","title":"P. Benner, V. Mehrmann and D. C. Sorensen,\nDimension Reduction of Large-Scale Systems,\nLect. Notes Comput. Sci. Eng. 45,\nSpringer, Berlin, 2005."},{"doi":"10.1137/18M1190628","title":"E. Celledoni, S. L. Eidnes, B. Owren and T. R. Ringholm,\nDissipative numerical schemes on Riemannian manifolds with applications to gradient flows,\nSIAM J. Sci. Comput. 40 (2018), no. 6, A3789–A3806."},{"doi":"10.1090/mcom/3470","title":"E. Celledoni, S. L. Eidnes, B. Owren and T. R. Ringholm,\nEnergy-preserving methods on Riemannian manifolds,\nMath. Comp. 89 (2020), no. 322, 699–716."},{"doi":"","title":"E. Celledoni and E. H. Hoiseth,\nEnergy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems,\npreprint (2017), https://arxiv.org/abs/1706.08621."},{"doi":"10.1137/15M1055085","title":"S. Chaturantabut, C. Beattie and S. Gugercin,\nStructure-preserving model reduction for nonlinear port-Hamiltonian systems,\nSIAM J. Sci. Comput. 38 (2016), no. 5, B837–B865."},{"doi":"10.1007/s10543-011-0310-z","title":"D. Cohen and E. Hairer,\nLinear energy-preserving integrators for Poisson systems,\nBIT 51 (2011), no. 1, 91–101."},{"doi":"10.1007/s00211-019-01050-w","title":"H. Egger,\nStructure preserving approximation of dissipative evolution problems,\nNumer. Math. 143 (2019), no. 1, 85–106."},{"doi":"10.1007/978-3-663-09828-7","title":"E. Eich-Soellner and C. Führer,\nNumerical Methods in Multibody Dynamics,\nEur. Consort. Math. Ind.,\nB. G. Teubner, Stuttgart, 1998."},{"doi":"10.1007/978-3-0348-9148-6_3","title":"C. M. Elliott,\nThe Cahn–Hilliard model for the kinetics of phase separation,\nMathematical Models for Phase Change Problems (Óbidos 1988),\nInternat. Ser. Numer. Math. 88,\nBirkhäuser, Basel (1989), 35–73."},{"doi":"10.1007/978-1-4757-4355-5","title":"A. Ern and J.-L. Guermond,\nTheory and Practice of Finite Elements,\nAppl. Math. Sci. 159,\nSpringer, New York, 2004."},{"doi":"10.1201/b10387","title":"D. Furihata and T. Matsuo,\nDiscrete Variational Derivative Method,\nChapman & Hall/CRC Numer. Anal. Sci. Comput.,\nCRC Press, Boca Raton, 2011."},{"doi":"10.1016/0377-0427(85)90008-1","title":"C. W. Gear, B. Leimkuhler and G. K. Gupta,\nAutomatic integration of Euler–Lagrange equations with constraints,\nJ. Comput. Appl. Math. 12–13 (1985), 77–90."},{"doi":"10.1007/BF02440162","title":"O. Gonzalez,\nTime integration and discrete Hamiltonian systems,\nJ. Nonlinear Sci. 6 (1996), no. 5, 449–467."},{"doi":"","title":"E. Hairer,\nEnergy-preserving variant of collocation methods,\nJNAIAM. J. Numer. Anal. Ind. Appl. Math. 5 (2010), no. 1–2, 73–84."},{"doi":"10.1093/imanum/drt031","title":"E. Hairer and C. Lubich,\nEnergy-diminishing integration of gradient systems,\nIMA J. Numer. Anal. 34 (2014), no. 2, 452–461."},{"doi":"10.1007/BFb0093947","title":"E. Hairer, C. Lubich and M. Roche,\nThe Numerical Solution of Differential-Algebraic Systems by Runge–Kutta methods,\nLecture Notes in Math. 1409,\nSpringer, Berlin, 1989."},{"doi":"","title":"E. Hairer, C. Lubich and G. Wanner,\nGeometric Numerical Integration,\nSpringer Ser. Comput. Math. 31,\nSpringer, Heidelberg, 2010."},{"doi":"10.4171/017","title":"P. Kunkel and V. Mehrmann,\nDifferential-Algebraic Equations. Analysis and Numerical Solution,\nEMS Textbk. Math.,\nEuropean Mathematical Society, Zürich, 2006."},{"doi":"10.1017/CBO9780511614118","title":"B. Leimkuhler and S. Reich,\nSimulating Hamiltonian Dynamics,\nCambridge Monogr. Appl. Comput. Math. 14,\nCambridge University, Cambridge, 2004."},{"doi":"10.1098/rsta.1999.0363","title":"R. I. McLachlan, G. R. W. Quispel and N. Robidoux,\nGeometric integration using discrete gradients,\nR. Soc. Lond. Philos. Trans. Ser. A Math. Phys. Eng. Sci. 357 (1999), no. 1754, 1021–1045."},{"doi":"10.1093/acprof:oso/9780198508885.001.0001","title":"P. Monk,\nFinite Element Methods for Maxwell’s Equations,\nNumer. Math. Sci. Comput.,\nOxford University, New York, 2003."},{"doi":"10.1016/S0947-3580(10)70672-5","title":"R. V. Polyuga,\nDiscussion on: “Passivity and structure preserving order reduction of linear port-Hamiltonian systems using Krylov subspaces” [mr2731511],\nEur. J. Control 16 (2010), no. 4, 407–409."},{"doi":"","title":"K. Strehmel and R. Weiner,\nNumerik gewöhnlicher Differentialgleichungen,\nTeubner Math. Textb.,\nB. G. Teubner, Stuttgart, 1995."},{"doi":"","title":"V. Thomée,\nGalerkin Finite Element Methods for Parabolic Problems, 2nd ed.,\nSpringer Ser. Comput. Math. 25,\nSpringer, Berlin, 2006."}]
+  }
+,
+  {
+    "doi": "10.3934/jgm.2014.6.503",
+    "type": "journal-article",
+    "title": "Geometry of Lagrangian and Hamiltonian formalisms in the dynamics of strings",
+    "authors": [
+  {
+    "given": "Janusz",
+    "family": "Grabowski",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "name": ",Institute of Mathematics, Polish Academy of Sciences, Śniadeckich 8, 00-656 Warszawa",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "given": "Katarzyna",
+    "family": "Grabowska",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "given": "Paweł",
+    "family": "Urbański",
+    "sequence": "additional",
+    "affiliation": []
+  },
+  {
+    "name": ",Division of Mathematical Methods in Physics, University of Warsaw, ul. Pasteura 5, 02-093 Warszawa",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "The Lagrangian description of mechanical systems and the Legendre Transformation (considered as a passage from the Lagrangian to the Hamiltonian formulation of the dynamics) for point-like objects, for which the infinitesimal configuration space is $T M$, is based on the existence of canonical symplectic isomorphisms of double vector bundles $T^* TM$, $T^*T^* M$, and $TT^* M$, where the symplectic structure on $TT^* M$ is the tangent lift of the canonical symplectic structure $T^* M$. We show that there exists an analogous picture in the dynamics of objects for which the configuration space is $\\wedge^n T M$, if we make use of certain structures of graded bundles of degree $n$, i.e. objects generalizing vector bundles (for which $n=1$). For instance, the role of $TT^*M$ is played in our approach by the manifold $\\wedge^nT M\\wedge^nT^*M$, which is canonically a graded bundle of degree $n$ over $\\wedge^nT M$. Dynamics of strings and the Plateau problem in statics are particular cases of this framework.",    "journal": "Journal of Geometric Mechanics",
+    "year": "2014",
+    "volume": "6",
+    "issue": "4",
+    "event": "",    "isbn": "",
+    "pages": "503--526",
+    "publisher": "American Institute of Mathematical Sciences (AIMS)",
+    "keywords": "",
+    "dateY": "2014",
+    "dateM": "12",
+    "dateD": "23",
+    "permalink": "geometry-of-lagrangian-and-hamiltonian-formalisms-in-the-dynamics-of-strings",
+    "references": [{"doi":"10.24033/bsmf.1769","title":""},{"doi":"","title":""},{"doi":"10.3934/jgm.2012.4.1","title":""},{"doi":"10.1016/0926-2245(91)90013-Y","title":""},{"doi":"10.1063/1.1308075","title":""},{"doi":"","title":""},{"doi":"10.1016/S0034-4877(03)80012-5","title":""},{"doi":"10.1063/1.2116320","title":""},{"doi":"10.1142/S0129055X13500189","title":""},{"doi":"10.1016/0034-4877(72)90014-6","title":""},{"doi":"10.1007/BF00670772","title":""},{"doi":"10.1142/9789812838964","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1088/1751-8113/45/14/145207","title":""},{"doi":"10.3934/jgm.2010.2.375","title":""},{"doi":"10.1088/1751-8113/41/17/175204","title":""},{"doi":"10.1016/j.geomphys.2011.06.018","title":""},{"doi":"10.3934/jgm.2013.5.445","title":""},{"doi":"10.1142/S0219887806001259","title":""},{"doi":"10.1142/S0219887813600013","title":""},{"doi":"10.1016/j.geomphys.2009.06.009","title":""},{"doi":"10.1016/j.geomphys.2011.09.004","title":""},{"doi":"10.1088/0305-4470/28/23/024","title":""},{"doi":"10.1016/S0393-0440(99)00007-8","title":""},{"doi":"10.4310/jdg/1214440723","title":""},{"doi":"10.1007/BF01608496","title":""},{"doi":"10.1007/3-540-09538-1","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/S0393-0440(01)00087-0","title":""},{"doi":"","title":""},{"doi":"10.1007/978-94-009-3807-6","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1007/BF00402020","title":""},{"doi":"10.1007/BF01762420","title":""},{"doi":"","title":""},{"doi":"10.1090/conm/315/05479","title":""},{"doi":"10.3934/jgm.2012.4.99","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1007/BF01761494","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.4153/CJM-2012-055-0","title":""},{"doi":"","title":""},{"doi":"10.1090/conm/315/05478","title":""},{"doi":"10.1142/9789812564382","title":""}]
+  }
+]

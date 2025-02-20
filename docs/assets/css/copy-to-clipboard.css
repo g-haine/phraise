@@ -1,0 +1,24 @@
+/* assets/css/copy-to-clipboard.css */
+figure.highlight:hover > button{
+  opacity:1
+}
+
+figure.highlight > button{
+  background:#000;
+  color:#d9d9d9;
+  opacity:0;
+  position:relative;
+  float: right;
+  right: 60px;
+  margin-top: 10px;
+  margin-right: -50px;
+  transition:all 0.2s ease-out
+}
+
+figure.highlight > button:active,
+figure.highlight > button:focus,
+figure.highlight > button:hover{
+  border-color:#fff;
+  color:#fff;
+  opacity:1
+}
