@@ -2,11 +2,6 @@
 .logo {
 float: bottom;
 top: -200px;
-width: 192px;
-}
-.logo-isae {
-float: bottom;
-top: -200px;
-width: 160px;
-top: 128px;
+width: 128px;
+top: 96px;
 }

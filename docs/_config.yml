@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: PHRAISE
+image: "assets/img/logo.webp"
 author:
   name: Ghislain Haine
   email: ghislain.haine@isae.fr
@@ -32,7 +33,7 @@ github_username:  g-haine
 # Build settings
 plugins:
   - jekyll-feed
-#  - jekyll-paginate
+  - jekyll-paginate
 #  - jekyll-datapage-generator
 #  - jekyll-scholar
 
@@ -41,10 +42,17 @@ theme: minima
 minima:
   skin: auto
   show_excerpts: false
+  social_links:
+    - title: Repository at GitHub
+      icon: github
+      url: "https://github.com/g-haine/phraise"
+    - title: Dissipative and port-Hamiltonian Systems
+      icon: plus
+      url: "http://www.phsys.eu/"
 header_pages:
   - about.md
-#paginate: 25
-#paginate_path: "/phraise/page:num/"
+paginate: 10
+paginate_path: "/phraise/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

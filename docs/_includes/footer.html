@@ -23,17 +23,16 @@
           {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-            <li><img class="logo-isae" id="logo-isae" src="/phraise/assets/img/logo-isae.webp" />
           {%- endif %}
         </ul>
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p><img class="logo" id="logo" src="/phraise/assets/img/logo.webp" /></p>
+        <p><img class="logo" id="logo-isae" src="/phraise/assets/img/logo-isae.webp" /> &nbsp;
+        <img class="logo" id="logo" src="/phraise/assets/img/logo.webp" /></p>
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
-        <p><a class="u-url" href="http://www.phsys.eu"><strong>Dissipative and port-Hamiltonian Systems</strong> Modeling, Simulation, Control, and Optimization</a></p>
       </div>
     </div>
 

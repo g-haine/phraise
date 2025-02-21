@@ -12,6 +12,7 @@ layout: base
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
+    {% assign posts = paginator.posts | sort: 'year' | reverse %}
   {% else %}
     {% assign posts = site.posts %}
     {% assign posts = site.posts | sort: 'year' | reverse %}
