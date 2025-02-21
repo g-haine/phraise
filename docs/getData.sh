@@ -154,7 +154,7 @@ fetch_abstract_complement () {
 mapfile -t known_dois < "$input_file"
 
 # Le fichier .json créé
-output_json="assets/biblio.json"
+output_json="assets/data/biblio.json"
 
 echo "[" > $output_json
 
@@ -248,5 +248,6 @@ done < "$input_file"
 echo "]" >> $output_json
 
 # Tout s'est bien passé !
+echo "Données récupérées avec succès !"
 exit 0
 

@@ -3,17 +3,17 @@
 # Ce fichier prenant le .json créé par getData.sh en argument permet de générer :
 # * Un fichier markdown par DOI qui permettra de poster la référence sur le site
 
-# D'abord quelques fonctions
-json="assets/biblio.json"
+# Fichier JSON source
+BIBLIO_JSON="assets/data/biblio.json"
 
-# Une fonction de slugify des titres
-slugify () {
-    echo "$1" |
-    iconv -t ascii//TRANSLIT |
-    tr '[:upper:]' '[:lower:]' |
-    tr -cs 'a-z0-9' '-' |
-    sed -E 's/^-+|-+$//g'
-}
+# Nettoyer les anciens fichiers
+rm -f "_posts"/*.md
+
+# Assurer la présence du fichier JSON
+if [ ! -f "$BIBLIO_JSON" ]; then
+    echo "Erreur : Fichier $BIBLIO_JSON introuvable !" >&2
+    exit 1
+fi
 
 # Ajoute un zéro si le mois ou le jour est entre 1 et 9
 pad_zero () {
@@ -154,7 +154,7 @@ create_markdown_post () {
         key=$(echo "$line" | jq -r '.doi')
         value=$(echo "$line" | jq -r '.permalink // ""')
         doi_keywords["$key"]="$value"
-    done < <(jq -c '.[]' "$json")
+    done < <(jq -c '.[]' "$BIBLIO_JSON")
 
     references=""
     references_json=$(echo "$data" | jq -c '.references' 2>/dev/null)
@@ -185,11 +185,12 @@ create_markdown_post () {
 # Puis, la génération des posts en markdown
 
 # Boucle à travers toutes les entrées du JSON et génère les posts
-jq -c '.[]' "$json" | while IFS= read -r entry; do
+jq -c '.[]' "$BIBLIO_JSON" | while IFS= read -r entry; do
     doi=$(echo "$entry" | jq -r .doi)
     create_markdown_post "$doi" "$entry"
 done
 
 # Tout s'est bien passé !
+echo "Posts générés avec succès !"
 exit 0
 

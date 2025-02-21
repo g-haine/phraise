@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+safe: false
+
 title: PHRAISE
 image: "assets/img/logo.webp"
 author:
@@ -33,9 +35,9 @@ github_username:  g-haine
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-paginate
-#  - jekyll-datapage-generator
-#  - jekyll-scholar
 
 markdown: kramdown
 theme: minima
@@ -50,6 +52,9 @@ minima:
       icon: plus
       url: "http://www.phsys.eu/"
 header_pages:
+  - search.md
+  - authors/index.md
+  - years/index.md
   - about.md
 paginate: 10
 paginate_path: "/phraise/page:num/"

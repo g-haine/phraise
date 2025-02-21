@@ -271,7 +271,7 @@
     "title": "Port-Hamiltonian flexible multibody dynamics",
     "authors": [
   {
-    "ORCID": "http://orcid.org/0000-0002-6823-7499",
+    "ORCID": "https://orcid.org/0000-0002-6823-7499",
     "authenticated-orcid": false,
     "given": "Andrea",
     "family": "Brugnoli",
@@ -279,7 +279,7 @@
     "affiliation": []
   },
   {
-    "ORCID": "http://orcid.org/0000-0002-5830-1821",
+    "ORCID": "https://orcid.org/0000-0002-5830-1821",
     "authenticated-orcid": false,
     "given": "Daniel",
     "family": "Alazard",
@@ -500,7 +500,7 @@
     "keywords": "Discontinuous Galerkin method; Hamiltonian systems; Continuous-stage PRK method; Symplectic PRK scheme; Multi-symplectic PRK scheme; Conservation laws",
     "dateY": "2016",
     "dateM": "11",
-    "dateD": "22",
+    "dateD": "23",
     "permalink": "discontinuous-galerkin-methods-for-hamiltonian-odes-and-pdes",
     "references": [{"doi":"10.1006/jcph.2000.6427","title":""},{"doi":"10.1007/BF00370131","title":""},{"doi":"10.1016/S0168-9274(97)00072-X","title":""},{"doi":"10.1016/S0375-9601(01)00294-8","title":""},{"doi":"10.1007/s10483-007-0809-y","title":""},{"doi":"10.1016/j.amc.2003.12.009","title":""},{"doi":"10.1023/A:1012873910884","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1090/S0025-5718-05-01793-X","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1090/S0025-5718-1972-0315899-8","title":""},{"doi":"10.1006/jcph.2001.6854","title":""},{"doi":"10.1137/15M1032752","title":""},{"doi":"10.1137/140958050","title":""},{"doi":"10.1007/s002200050505","title":""},{"doi":"10.1016/0898-1221(90)90357-P","title":""},{"doi":"","title":""},{"doi":"10.1006/jcph.1999.6372","title":""},{"doi":"10.1137/070688468","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1007/s00211-007-0073-2","title":""},{"doi":"10.1063/1.4756391","title":""},{"doi":"10.1016/j.amc.2012.08.062","title":""},{"doi":"10.1016/j.amc.2016.04.026","title":""},{"doi":"10.1016/j.amc.2014.02.042","title":""},{"doi":"10.1016/S0096-3003(03)00080-8","title":""},{"doi":"10.1016/j.jcp.2004.11.001","title":""},{"doi":"10.1023/A:1015132126817","title":""}]
   }
