@@ -5,3 +5,56 @@ body {
   text-align: justify;
   text-justify: inter-character;
 }
+
+figure.highlight:hover > button {
+  opacity:1
+}
+
+figure.highlight > button{
+  background:#000;
+  color:#d9d9d9;
+  opacity:0;
+  position:relative;
+  float: right;
+  right: 60px;
+  margin-top: 10px;
+  margin-right: -50px;
+  transition:all 0.2s ease-out
+}
+
+figure.highlight > button:active,
+figure.highlight > button:focus,
+figure.highlight > button:hover {
+  border-color:#fff;
+  color:#fff;
+  opacity:1
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5px;
+}
+
+.logo {
+  float: bottom;
+  top: -200px;
+  width: 128px;
+  top: 96px;
+}
+
+.publication {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+#search-input {
+  width: 97%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.post-content h3 {
+  margin-top: 0;
+}

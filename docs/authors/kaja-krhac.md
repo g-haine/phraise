@@ -4,5 +4,10 @@ title: Publications by Kaja Krhač
 permalink: /authors/kaja-krhac/
 ---
 
-- [Port-Hamiltonian systems with energy and power ports](../../port-hamiltonian-systems-with-energy-and-power-ports)
+<ul class="post-list">
 
+  <li>
+    <span class="post-meta">2024 -- Kaja Krhač, Bernhard Maschke, Arjan van der Schaft</span>
+    <h3><a class="post-link" href="../../port-hamiltonian-systems-with-energy-and-power-ports">Port-Hamiltonian systems with energy and power ports</a></h3>
+  </li>
+</ul>

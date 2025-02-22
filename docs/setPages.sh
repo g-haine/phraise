@@ -47,7 +47,7 @@ while read -r entry; do
     permalink=$(echo "$entry" | jq -r '.permalink')
     title=$(echo "$entry" | jq -r '.title')
     year=$(echo "$entry" | jq -r '.year')
-    author_names=$(echo "$entry" | jq -r '[.authors[] | select(.family) | "\(.given) \(.family)"] | join(";")')
+    author_names=$(echo "$entry" | jq -r '[.authors[] | select(.family) | "\(.given) \(.family)"] | join(", ")')
 
     if [[ -z "$author_names" ]]; then
         echo "Erreur : Auteurs vides pour $title" >&2
@@ -55,15 +55,23 @@ while read -r entry; do
     fi
 
     # Lire chaque "Prénom Nom" sans découper sur les espaces
-    while IFS= read -d ";" -r author; do
+    while IFS= read -d ", " -r author; do
         author=$(echo "$author" | sed 's/^ *//;s/ *$//') # Supprimer espaces inutiles
         slug="${author_to_slug[$author]}"
         standardized_author="${slug_to_name[$slug]:-$author}"
         sanitized_author=$(slugify "$standardized_author")
-        authors["$standardized_author"]+="- [$title](../../$permalink)\\n"
-    done <<< "$author_names;"
+        authors["$standardized_author"]+='
+  <li>
+    <span class="post-meta">'$year' -- '$author_names'</span>
+    <h3><a class="post-link" href="../../'$permalink'">'$title'</a></h3>
+  </li>'
+    done <<< "$author_names, "
 
-    years["$year"]+="- [$title](../../$permalink)\\n"
+    years["$year"]+='
+  <li>
+    <span class="post-meta">'$year' -- '$author_names'</span>
+    <h3><a class="post-link" href="../../'$permalink'">'$title'</a></h3>
+  </li>'
 
 done < <(jq -c '.[]' "$BIBLIO_JSON")
 
@@ -117,7 +125,9 @@ permalink: /authors/$sanitized_slug/
 ---
 
 EOF
+    echo '<ul class="post-list">' >> "$AUTHORS_DIR/$sanitized_slug.md"
     echo -e "${authors[$author]}" >> "$AUTHORS_DIR/$sanitized_slug.md"
+    echo "</ul>" >> "$AUTHORS_DIR/$sanitized_slug.md"
 done
 
 echo "</div>" >> "$AUTHORS_DIR/index.md"
@@ -153,7 +163,9 @@ permalink: /years/$year/
 ---
 
 EOF
+    echo '<ul class="post-list">' >> "$YEARS_DIR/$year.md"
     echo -e "${years[$year]}" >> "$YEARS_DIR/$year.md"
+    echo "</ul>" >> "$YEARS_DIR/$year.md"
 done
 
 echo "Pages des auteurs et années générées avec succès !"

@@ -8,8 +8,9 @@ layout: base
   {%- endif -%}
 
   {{ content }}
-
-
+  
+  <h2 class="post-list-heading">Last publications</h2>
+  
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
     {% assign posts = paginator.posts | sort: 'year' | reverse %}
