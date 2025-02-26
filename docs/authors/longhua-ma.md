@@ -1,0 +1,10 @@
+---
+layout: page
+title: Publications by Longhua Ma
+permalink: /authors/longhua-ma/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2017 -- Meng Zhang, Zhitao Liu, Hongye Su, Jianping Cai, Longhua Ma</span><h3><a class='post-link' href='../../pi-simultaneous-stabilization-and-set-point-output-regulation-of-port-hamiltonian-systems'>PI simultaneous stabilization and set-point output regulation of Port-Hamiltonian systems</a></h3></li>
+
+</ul>

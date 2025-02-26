@@ -1,10 +1,21 @@
 #!/bin/bash
 
-# Ce fichier prenant le .json créé par getData.sh en argument permet de générer :
-# * Un fichier markdown par DOI qui permettra de poster la référence sur le site
+# Ce fichier utilise le .json créé par getData.sh pour générer :
+# * Un fichier markdown "Post" par DOI qui permettra de poster la référence sur le site
 
 # Fichier JSON source
 BIBLIO_JSON="assets/data/biblio.json"
+
+# Fichier DOI source
+DOI_TXT="DOI.txt"
+
+# Mail, Scopus key and Springer key
+if [ -f .env ]; then
+    source .env
+else
+    echo "Erreur : fichier .env introuvable !" >&2
+    exit 1
+fi
 
 # Nettoyer les anciens fichiers
 rm -f "_posts"/*.md
@@ -14,6 +25,19 @@ if [ ! -f "$BIBLIO_JSON" ]; then
     echo "Erreur : Fichier $BIBLIO_JSON introuvable !" >&2
     exit 1
 fi
+
+# Chargement des DOI connus dans un tableau
+echo $(date -Iseconds)" Load known DOIs..."
+mapfile -t known_dois < "$DOI_TXT"
+
+# Chargement des noms de tous les permalink de biblio.json dans une table associative
+echo $(date -Iseconds)" Load DOI <-> permalink table..."
+declare -A doi_keywords
+while IFS= read -r line; do
+    key=$(echo "$line" | jq -r '.doi')
+    value=$(echo "$line" | jq -r '.permalink // ""')
+    doi_keywords["$key"]="$value"
+done < <(jq -c '.[]' "$BIBLIO_JSON")
 
 # Ajoute un zéro si le mois ou le jour est entre 1 et 9
 pad_zero () {
@@ -25,8 +49,7 @@ print_bib () {
     local doi=$1
     crossrefEndpoint="http://api.crossref.org/works/$doi/transform/application/x-bibtex"
     crossrefBib="$(curl -s $crossrefEndpoint)"
-    if ! echo $crossrefBib | head -n 1 | grep -q "Resource" ; then
-        bibtex="$(echo "$crossrefBib" \
+    bibtex="$(echo "$crossrefBib" \
         | sed -e 's/ @/@/g' \
         | sed -e 's/},/},\n /g' \
         | sed -e 's/, series/,\n  series/g' \
@@ -40,8 +63,7 @@ print_bib () {
         | sed -e '/month/d' \
         | sed -e '/url/d' \
         | tac | sed -e '2 s/,//g' | tac)"
-        echo "$bibtex"
-    fi
+    echo "$bibtex"
 }
 
 # Format the authors
@@ -79,18 +101,47 @@ sed_abstract () {
     echo "$abstract"
 }
 
+# Idem pour les titres / keywords et mathjax
+sed_title () {
+    title=$(echo $1 | sed -e 's/$$/$/g') # au cas où il y aurait des double $
+    title=$(echo $title \
+    | sed -e 's/\*/\\\*/g' \
+    | awk '{
+        in_math = 0;
+        for (i=1; i<=length($0); i++) {
+            c = substr($0, i, 1);
+            if (c == "$") {
+                if (in_math == 0) {
+                    printf "\\\\( ";
+                    in_math = 1;
+                } else {
+                    printf " \\\\)";
+                    in_math = 0;
+                }
+            } else {
+                printf "%s", c;
+            }
+        }
+        printf "\n";
+    }')
+    
+    echo "$title"
+}
+
 # Génération de fichiers Markdown pour chaque DOI (différencié selon le type, et avec cross-ref à l'intérieur du site)
 create_markdown_post () {
-    local doi=$1
-    local data=$2
-    date=$(echo "$data" | jq -r .dateY)-$(echo "$data" | jq -r .dateM)-$(echo "$data" | jq -r .dateD)
+    local data=$1
+    date=$(echo "$data" | jq -r .dateY)-$(pad_zero $(echo "$data" | jq -r .dateM))-$(pad_zero $(echo "$data" | jq -r .dateD))
     local output_md="_posts/$date-$(echo "$data" | jq -r .permalink).md"
+
+    echo $(date -Iseconds)" Post under creation: $output_md"
 
     echo "---" > "$output_md"
     echo "layout: post" >> "$output_md"
     title=$(echo "$data" | jq -r .title)
-    echo "title: $title" >> "$output_md"
-    echo "date: $(echo "$data" | jq -r .dateY)-$(echo "$data" | jq -r .dateM)-$(echo "$data" | jq -r .dateD) 00:00:00 +0100" >> "$output_md"
+    title=$(sed_title "$title")
+    echo "title: \"$title\"" >> "$output_md"
+    echo "date: $date 00:00:00 +0100" >> "$output_md"
     echo "permalink: "$(slugify "$title") >> "$output_md"
     echo "year: $(echo "$data" | jq -r .year)" >> "$output_md"
     authors=$(echo "$data" | jq -r .authors 2>/dev/null)
@@ -98,6 +149,7 @@ create_markdown_post () {
     type_ref=$(echo "$data" | jq -r .type)
     echo "category: $type_ref" >> "$output_md"
     keywords=$(echo "$data" | jq -r .keywords)
+    keywords=$(sed_title "$keywords")
     if [ -n "$keywords" ]; then
         echo "tag: $keywords" >> "$output_md"
     fi
@@ -133,6 +185,7 @@ create_markdown_post () {
         echo "- **Pages:** $(echo "$data" | jq -r .pages)" >> "$output_md"
     fi
     echo "- **Publisher:** $(echo "$data" | jq -r .publisher)" >> "$output_md"
+    doi=$(echo "$data" | jq -r .doi)
     echo "- **DOI:** [$doi](https://doi.org/$doi)" >> "$output_md"
     event=$(echo "$data" | jq -r .event)
     if [ -n "$event" ]; then
@@ -147,20 +200,13 @@ create_markdown_post () {
     echo "{% endraw %}" >> "$output_md"
     echo "{% endhighlight %}" >> "$output_md"
     echo " " >> "$output_md"
-    
-    # Chargement des noms de tous les markdown de biblio.json dans une table associative
-    declare -A doi_keywords
-    while IFS= read -r line; do
-        key=$(echo "$line" | jq -r '.doi')
-        value=$(echo "$line" | jq -r '.permalink // ""')
-        doi_keywords["$key"]="$value"
-    done < <(jq -c '.[]' "$BIBLIO_JSON")
 
     references=""
     references_json=$(echo "$data" | jq -c '.references' 2>/dev/null)
     while IFS= read -r ref; do
         title_ref=$(echo "$ref" | jq -r .title 2>/dev/null)
         doi_ref=$(echo "$ref" | jq -r .doi 2>/dev/null)
+        # Si on a un titre et un DOI
         if [ -n "$title_ref" ] && [ -n "$doi_ref" ]; then
             # Si DOI connu, appliquer le format markdown selon biblio.json
             if [[ " ${known_dois[@]} " =~ " $doi_ref " ]] && [ -n "${doi_keywords[$doi_ref]}" ]; then
@@ -168,11 +214,22 @@ create_markdown_post () {
             fi
             references+="- $title_ref -- [$doi_ref](https://doi.org/$doi_ref)\\n"
         fi
+        # Si on a seulement un DOI
+        if [ -z "$title_ref" ] && [ -n "$doi_ref" ]; then
+            # Si DOI connu, on cherche le titre dans le biblio.json (API CrossRef trop lourd...)
+            if [[ " ${known_dois[@]} " =~ " $doi_ref " ]] && [ -n "${doi_keywords[$doi_ref]}" ]; then
+                echo -e "\t DOI:$doi_ref is known, looking for title:"
+                title_ref=$(jq -r '.[] | select(.doi == "'$doi_ref'") | .title' $BIBLIO_JSON)
+                echo -e "\t\t $title_ref"
+                title_ref="[$title_ref](${doi_keywords[$doi_ref]})"
+                references+="- $title_ref -- [$doi_ref](https://doi.org/$doi_ref)\\n"
+            else
+                references+="- [$doi_ref](https://doi.org/$doi_ref)\\n"
+            fi
+        fi
+        # Si on a seulement un titre
         if [ -n "$title_ref" ] && [ -z "$doi_ref" ]; then
             references+="- $title_ref\\n"
-        fi
-        if [ -z "$title_ref" ] && [ -n "$doi_ref" ]; then
-            references+="- [$doi_ref](https://doi.org/$doi_ref)\\n"
         fi
     done < <(echo "$references_json" | jq -c '.[]' 2>/dev/null)
 
@@ -183,11 +240,11 @@ create_markdown_post () {
 }
 
 # Puis, la génération des posts en markdown
-
+    
+echo $(date -Iseconds)" Start creation !"
 # Boucle à travers toutes les entrées du JSON et génère les posts
 jq -c '.[]' "$BIBLIO_JSON" | while IFS= read -r entry; do
-    doi=$(echo "$entry" | jq -r .doi)
-    create_markdown_post "$doi" "$entry"
+    create_markdown_post "$entry"
 done
 
 # Tout s'est bien passé !

@@ -1,0 +1,10 @@
+---
+layout: page
+title: Publications by Ping Yang
+permalink: /authors/ping-yang/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2022 -- Yanpeng Li, Yaolin Jiang, Ping Yang</span><h3><a class='post-link' href='../../model-order-reduction-of-port-hamiltonian-systems-with-inhomogeneous-initial-conditions-via-approximate-finite-time-gramians'>Model order reduction of port-Hamiltonian systems with inhomogeneous initial conditions via approximate finite-time Gramians</a></h3></li>
+
+</ul>

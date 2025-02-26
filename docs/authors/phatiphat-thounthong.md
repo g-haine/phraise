@@ -1,0 +1,11 @@
+---
+layout: page
+title: Publications by Phatiphat Thounthong
+permalink: /authors/phatiphat-thounthong/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2021 -- Phatiphat Thounthong</span><h3><a class='post-link' href='../../port-hamiltonian-formulation-of-adaptive-hamiltonian-pid-controller-to-solve-constant-power-load-stability-issue-in-dc-microgrid-control-of-a-fuel-cell-converter'>Port-Hamiltonian Formulation of Adaptive Hamiltonian PID controller to Solve Constant Power Load Stability Issue in DC Microgrid: Control of a Fuel Cell Converter</a></h3></li>
+<li><span class='post-meta'>2020 -- Phatiphat Thounthong, Pongsiri Mungporn, Serge Pierfederici, Damien Guilbert, Nicu Bizon</span><h3><a class='post-link' href='../../adaptive-control-of-fuel-cell-converter-based-on-a-new-hamiltonian-energy-function-for-stabilizing-the-dc-bus-in-dc-microgrid-applications'>Adaptive Control of Fuel Cell Converter Based on a New Hamiltonian Energy Function for Stabilizing the DC Bus in DC Microgrid Applications</a></h3></li>
+
+</ul>

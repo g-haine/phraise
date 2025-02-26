@@ -1,0 +1,14 @@
+---
+layout: page
+title: Publications by Abolfazl Yaghmaei
+permalink: /authors/abolfazl-yaghmaei/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2024 -- Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href='../../on-contractive-port-hamiltonian-systems-with-state-modulated-interconnection-and-damping-matrices'>On Contractive Port-Hamiltonian Systems With State-Modulated Interconnection and Damping Matrices</a></h3></li>
+<li><span class='post-meta'>2020 -- Najmeh Javanmardi, Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href='../../spacecraft-formation-flying-in-the-port-hamiltonian-framework'>Spacecraft formation flying in the port-Hamiltonian framework</a></h3></li>
+<li><span class='post-meta'>2019 -- Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href='../../output-control-design-and-separation-principle-for-a-class-of-port-hamiltonian-systems'>Output control design and separation principle for a class of port‐Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2019 -- Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href='../../structure-preserving-observer-design-for-port-hamiltonian-systems'>Structure Preserving Observer Design for Port-Hamiltonian Systems</a></h3></li>
+<li><span class='post-meta'>2017 -- Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href='../../trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems'>Trajectory tracking for a class of contractive port Hamiltonian systems</a></h3></li>
+
+</ul>

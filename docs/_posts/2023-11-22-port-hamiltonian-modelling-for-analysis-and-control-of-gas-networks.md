@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Port-Hamiltonian Modelling for Analysis and Control of Gas Networks"
+date: 2023-11-22 00:00:00 +0100
+permalink: port-hamiltonian-modelling-for-analysis-and-control-of-gas-networks
+year: 2023
+authors: Albertus J. Malan, Lukas Rausche, Felix Strehle, Sören Hohmann
+category: journal-article
+tag: electrical analogy; gas pipeline; network modeling; port-Hamiltonian modeling
+---
+ 
+## Authors
+**Albertus J. Malan, Lukas Rausche, Felix Strehle, Sören Hohmann**
+ 
+## Abstract
+In this paper, we present finite-dimensional port-Hamiltonian system (PHS) models of a gas pipeline and a network comprising several pipelines for the purpose of control design and stability analysis. Starting from the partial differential Euler equations describing the dynamical flow of gas in a pipeline, the method of lines is employed to obtain a lumped-parameter model, which simplifies to a nonlinear third-order PHS. Parallels between gas networks and power systems are drawn by showing that the obtained pipeline PHS model has the same π-representation as electrical transmission lines. Moreover, to assist future control design, additional passivity properties of the pipeline PHS model are analysed and discussed. By comparing the proposed PHS models against other models in a standard simulation, we show that the simplifying assumptions have no material effect on the model fidelity. The proposed pipeline and network models can serve as a basis for passivity-based control and analysis while the power system parallels facilitate the transfer of existing methods.
+ 
+## Keywords
+electrical analogy; gas pipeline; network modeling; port-Hamiltonian modeling
+ 
+## Citation
+- **Journal:** IFAC-PapersOnLine
+- **Year:** 2023
+- **Volume:** 56
+- **Issue:** 2
+- **Pages:** 5431--5437
+- **Publisher:** Elsevier BV
+- **DOI:** [10.1016/j.ifacol.2023.10.193](https://doi.org/10.1016/j.ifacol.2023.10.193)
+- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+ 
+## BibTeX
+{% highlight bibtex %}
+{% raw %}
+@article{Malan_2023,
+  title={{Port-Hamiltonian Modelling for Analysis and Control of Gas Networks}},
+  volume={56},
+  ISSN={2405-8963},
+  DOI={10.1016/j.ifacol.2023.10.193},
+  number={2},
+  journal={IFAC-PapersOnLine},
+  publisher={Elsevier BV},
+  author={Malan, Albertus J. and Rausche, Lukas and Strehle, Felix and Hohmann, Sören},
+  year={2023},
+  pages={5431--5437}
+}
+{% endraw %}
+{% endhighlight %}
+ 
+## References
+- [10.1016/j.jngse.2012.05.013](https://doi.org/10.1016/j.jngse.2012.05.013)
+- Domschke, P., Hiller, B., Lang, J., Mehrmann, V., Morandin, R., and Tischendorf, C. (2021). Gas network modeling: An overview. URL https://opus4.kobv.de/opus4-trr154/frontdoor/index/index/docId/411. Preprint.
+- [10.1016/j.apm.2008.02.012](https://doi.org/10.1016/j.apm.2008.02.012)
+- [10.1016/S1385-8947(99)00122-9](https://doi.org/10.1016/S1385-8947(99)00122-9)
+- [10.1109/JPROC.2020.2989114](https://doi.org/10.1109/JPROC.2020.2989114)
+- [10.1016/j.jngse.2015.11.036](https://doi.org/10.1016/j.jngse.2015.11.036)
+- [10.1016/j.energy.2018.11.066](https://doi.org/10.1016/j.energy.2018.11.066)
+- [10.1007/s40430-017-0821-x](https://doi.org/10.1007/s40430-017-0821-x)
+- [10.1115/1.4059982](https://doi.org/10.1115/1.4059982)
+- [10.1016/j.jprocont.2020.06.010](https://doi.org/10.1016/j.jprocont.2020.06.010)
+- [10.1109/TPWRS.2017.2661762](https://doi.org/10.1109/TPWRS.2017.2661762)
+

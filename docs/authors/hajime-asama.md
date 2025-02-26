@@ -1,0 +1,11 @@
+---
+layout: page
+title: Publications by Hajime Asama
+permalink: /authors/hajime-asama/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2022 -- Stefano Massaroli, Michael Poli, Federico Califano, Jinkyoo Park, Atsushi Yamashita, Hajime Asama</span><h3><a class='post-link' href='../../optimal-energy-shaping-via-neural-approximators'>Optimal Energy Shaping via Neural Approximators</a></h3></li>
+<li><span class='post-meta'>2020 -- Stefano Massaroli, Federico Califano, Angela Faragasso, Atsushi Yamashita, Hajime Asama</span><h3><a class='post-link' href='../../multistable-energy-shaping-of-passive-linear-systems-with-hybrid-mode-selector'>Multistable Energy Shaping of Passive Linear Systems with Hybrid Mode Selector</a></h3></li>
+
+</ul>

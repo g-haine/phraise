@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discontinuous Galerkin methods for Hamiltonian ODEs and PDEs
+title: "Discontinuous Galerkin methods for Hamiltonian ODEs and PDEs"
 date: 2016-11-23 00:00:00 +0100
 permalink: discontinuous-galerkin-methods-for-hamiltonian-odes-and-pdes
 year: 2017

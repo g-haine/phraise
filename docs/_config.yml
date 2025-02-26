@@ -56,7 +56,10 @@ header_pages:
   - authors/index.md
   - years/index.md
   - about.md
-paginate: 10
+feed:
+  icon: /assets/img/favicon.ico
+  logo: /assets/img/logo.png
+paginate: 25
 paginate_path: "/phraise/page:num/"
 
 # Exclude from processing.

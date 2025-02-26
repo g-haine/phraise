@@ -1,0 +1,11 @@
+---
+layout: page
+title: Publications by Tudor C. Ionescu
+permalink: /authors/tudor-c-ionescu/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2021 -- Ruxandra Barbulescu, Gabriela Ciuprina, Tudor Ionescu, Daniel Ioan, Luis Miguel Silveira</span><h3><a class='post-link' href='../../efficient-model-reduction-of-myelinated-compartments-as-port-hamiltonian-systems'>Efficient Model Reduction of Myelinated Compartments as Port-Hamiltonian Systems</a></h3></li>
+<li><span class='post-meta'>2013 -- Tudor C. Ionescu, Alessandro Astolfi</span><h3><a class='post-link' href='../../families-of-moment-matching-based-structure-preserving-approximations-for-linear-port-hamiltonian-systems'>Families of moment matching based, structure preserving approximations for linear port Hamiltonian systems</a></h3></li>
+
+</ul>

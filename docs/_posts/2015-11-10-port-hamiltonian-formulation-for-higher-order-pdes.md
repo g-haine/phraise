@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Port-Hamiltonian formulation for Higher-order PDEs
+title: "Port-Hamiltonian formulation for Higher-order PDEs"
 date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-formulation-for-higher-order-pdes
 year: 2015
@@ -51,8 +51,8 @@ Differential geometric methods; Hamiltonian Systems; Partial differential equati
 - Ennsbrunner, H., Schlacher, K., 2005. On the geometrical representation and interconnection of infinite dimensional port controlled hamiltonian systems. In Proceedings IEEE Conference on Decision and Control and European Control Conference (CDC-ECC), 52635268. -- [10.1109/CDC.2005.1582998](https://doi.org/10.1109/CDC.2005.1582998)
 - Maschke, B., van der Schaft, A., 2005. Compositional Modelling of Distributed-Parameter Systems, 115-154, Advanced Topics in Control Systems Theory. Springer Lecture Notes in Control and Information Sciences, London. -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
 - [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
-- Schöberl, M., and Schlacher, K., 2015. Lagrangian and port-hamiltonian formulation for distributed-parameter systems. In Proceedings, 8th Mathmod Conference, Vienna, Austria, accepted. -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
-- [10.1109/TAC.2012.2235739](https://doi.org/10.1109/TAC.2012.2235739)
-- [10.1016/j.automatica.2013.11.035](https://doi.org/10.1016/j.automatica.2013.11.035)
-- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Schöberl, M., and Schlacher, K., 2015. Lagrangian and port-hamiltonian formulation for distributed-parameter systems. In Proceedings, 8th Mathmod Conference, Vienna, Austria, accepted.](lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems) -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
+- [On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/TAC.2012.2235739](https://doi.org/10.1109/TAC.2012.2235739)
+- [Jet bundle formulation of infinite-dimensional port-Hamiltonian systems using differential operators](jet-bundle-formulation-of-infinite-dimensional-port-hamiltonian-systems-using-differential-operators) -- [10.1016/j.automatica.2013.11.035](https://doi.org/10.1016/j.automatica.2013.11.035)
+- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
 

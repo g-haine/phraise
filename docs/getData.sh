@@ -8,7 +8,23 @@ if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <fichier_doi.txt>"
     exit 1
 fi
-input_file=$1
+
+# Mail, Scopus key and Springer key
+if [ -f .env ]; then
+    source .env
+else
+    echo "Erreur : fichier .env introuvable !" >&2
+    exit 1
+fi
+
+# S'assurer de ne pas rechercher de doublon
+doi_file=$1
+input_file="DOIuniq.txt"
+
+# Les entrées doivent être unique dans le fichier & ne pas être dans DOI.txt
+awk '!seen[$0]++' $doi_file > $input_file
+grep -avf "DOI.txt" $input_file > $doi_file
+input_file=$doi_file
 
 # D'abord quelques fonctions
 
@@ -24,18 +40,19 @@ slugify () {
 # Appel à l'API de crossref
 fetch_metadata_crossref () {
     local doi=$1
-    echo $(curl -s "https://api.crossref.org/works/$doi")
+    request=$(curl -s -w "%{http_code}" "https://api.crossref.org/works/$doi?mailto=$MAIL")
+    http=${request: -3}
+    response=${request:: -3}
+    if [[ "$http" -eq 200 ]]; then
+        echo $response
+    else
+        echo '{"status":"error"}'
+    fi
 }
 
 # Appel à l'API de scopus
 fetch_metadata_scopus () {
     local doi=$1
-    if [ -f .env ]; then
-        source .env
-    else
-        echo "Erreur : fichier .env introuvable !" >&2
-        exit 1
-    fi
     echo $(curl -s -X GET "https://api.elsevier.com/content/article/doi/$doi" -H "Accept: application/json" -H "X-ELS-APIKey: $SCOPUS_API_KEY")
 }
 
@@ -43,7 +60,7 @@ fetch_metadata_scopus () {
 abstract_from_scopus () {
     local json=$1
     if echo "$json" | jq empty 2>/dev/null; then
-        local scopus_abstract=$(echo "$json" | jq -r '.["full-text-retrieval-response"].coredata."dc:description" // ""' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+        local scopus_abstract=$(echo "$json" | jq -r '.["full-text-retrieval-response"].coredata."dc:description" // ""')
         [ -n "$scopus_abstract" ] && echo "$scopus_abstract"
     fi
 }
@@ -73,12 +90,6 @@ event_from_scopus () {
 # Appel à l'API de Springer
 fetch_metadata_springer () {
     local doi=$1
-    if [ -f .env ]; then
-        source .env
-    else
-        echo "Erreur : fichier .env introuvable !" >&2
-        exit 1
-    fi
     echo $(curl -s -X GET "https://api.springernature.com/meta/v2/json?q=doi:$doi&api_key=$SPRINGER_API_KEY")
 }
 
@@ -86,7 +97,7 @@ fetch_metadata_springer () {
 abstract_from_springer () {
     local json=$1
     if echo "$json" | jq empty 2>/dev/null; then
-        local springer_abstract=$(echo "$json" | jq -r '.records[0].abstract // ""' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+        local springer_abstract=$(echo "$json" | jq -r '.records[0].abstract // ""')
         [ -n "$springer_abstract" ] && echo "$springer_abstract"
     fi
 }
@@ -150,11 +161,11 @@ fetch_abstract_complement () {
 
 # Maintenant la boucle sur les DOI
 
-# Chargement des DOI connus dans un tableau
-mapfile -t known_dois < "$input_file"
-
 # Le fichier .json créé
 output_json="assets/data/biblio.json"
+
+# Sauve les précédentes extractions de données
+mv $output_json "assets/data/biblio-"$(date -Iseconds)".json"
 
 echo "[" > $output_json
 
@@ -165,83 +176,91 @@ first=true
 while IFS= read -r doi; do
     # Extraction des données
     response=$(fetch_metadata_crossref "$doi")
+    status=$(echo "$response" | jq -r '.status')
 
-    title=$(echo $response | jq -r '.message.title // [""] | .[0]')
-    authors=$(echo $response | jq -r '.message.author')
-    type=$(echo $response | jq -r '.message.type // ""')
-    abstract=$(echo $response | jq -r '.message.abstract // ""')
-    journal=$(echo $response | jq -r '.message["container-title"] // [""] | .[0]')
-    year=$(echo $response | jq -r '.message["published-print"]["date-parts"][0][0] // ""')
-    volume=$(echo $response | jq -r '.message.volume // ""')
-    issue=$(echo $response | jq -r '.message.issue // ""')
-    event=""
-    isbn=$(echo $response | jq -r '.message["isbn-type"][0]["value"] // ""')
-    pages=$(echo $response | jq -r '.message.page // "" | gsub("-"; "--")')
-    publisher=$(echo $response | jq -r '.message.publisher // ""')
-    keywords=$(echo $response | jq -r '.message.subject // [] | join(", ")')
-    dateY=$(echo $response | jq -r '.message.created["date-parts"][0][0] // ""')
-    dateM=$(echo $response | jq -r '.message.created["date-parts"][0][1] // ""')
-    dateD=$(echo $response | jq -r '.message.created["date-parts"][0][2] // ""')
-    references=$(echo $response | jq -c '[.message.reference[]? | {doi: (.DOI // ""), title: (.unstructured // "")}]')
-    
-    # Year from creation if not published-print
-    if [ -z "$year" ]; then
-        year=$(echo $dateY)
-    fi
-    
-    # Récupère l'url "final" (avant redirection js) à partir du DOI
-    url=$(curl -Ls -o /dev/null -w "%{url_effective}" "https://doi.org/$doi")
-    
-    # Update si elsevier
-    if echo "$url" | grep -q "elsevier"; then
-        json_scopus=$(fetch_metadata_scopus "$doi")
-        abstract=$(abstract_from_scopus "$json_scopus")
-        keywords=$(keywords_from_scopus "$json_scopus")
-        event=$(event_from_scopus "$json_scopus")
-    fi
-    
-    # Update si springer
-    if echo "$url" | grep -q "springer"; then
-        json_springer=$(fetch_metadata_springer "$doi")
-        abstract=$(abstract_from_springer "$json_springer")
-        keywords=$(keywords_from_springer "$json_springer")
-        event=$(event_from_springer "$json_springer")
-    fi
-    
-    # Complement pour l'abstract
-    if [ -z "$abstract" ]; then
-        complement=$(fetch_abstract_complement $doi)
-        [ -n "$complement" ] && abstract="$complement"
-    fi
+    if [[ "$status" == "ok" ]]; then
+        title=$(echo $response | jq -r '.message.title // [""] | .[0]')
+        authors=$(echo $response | jq -r '.message.author')
+        type=$(echo $response | jq -r '.message.type // ""')
+        abstract=$(echo $response | jq -r '.message.abstract // ""')
+        journal=$(echo $response | jq -r '.message["container-title"] // [""] | .[0]')
+        year=$(echo $response | jq -r '.message["published-print"]["date-parts"][0][0] // ""')
+        volume=$(echo $response | jq -r '.message.volume // ""')
+        issue=$(echo $response | jq -r '.message.issue // ""')
+        event=""
+        isbn=$(echo $response | jq -r '.message["isbn-type"][0]["value"] // ""')
+        pages=$(echo $response | jq -r '.message.page // "" | gsub("-"; "--")')
+        publisher=$(echo $response | jq -r '.message.publisher // ""')
+        keywords=$(echo $response | jq -r '.message.subject // [] | join(", ")')
+        dateY=$(echo $response | jq -r '.message.created["date-parts"][0][0] // ""')
+        dateM=$(echo $response | jq -r '.message.created["date-parts"][0][1] // ""')
+        dateD=$(echo $response | jq -r '.message.created["date-parts"][0][2] // ""')
+        references=$(echo $response | jq -c '[.message.reference[]? | {doi: (.DOI // ""), title: (.unstructured // "")}]')
+        
+        # Year from creation if not published-print
+        if [ -z "$year" ]; then
+            year=$(echo $dateY)
+        fi
+        
+        # Récupère l'url "final" (avant redirection js) à partir du DOI
+        url=$(curl -Ls -o /dev/null -w "%{url_effective}" "https://doi.org/$doi")
+        
+        # Update si elsevier
+        if echo "$url" | grep -q "elsevier"; then
+            json_scopus=$(fetch_metadata_scopus "$doi")
+            abstract=$(abstract_from_scopus "$json_scopus")
+            keywords=$(keywords_from_scopus "$json_scopus")
+            event=$(event_from_scopus "$json_scopus")
+        fi
+        
+        # Update si springer
+        if echo "$url" | grep -q "springer"; then
+            json_springer=$(fetch_metadata_springer "$doi")
+            abstract=$(abstract_from_springer "$json_springer")
+            keywords=$(keywords_from_springer "$json_springer")
+            event=$(event_from_springer "$json_springer")
+        fi
+        
+        # Complement pour l'abstract
+        if [ -z "$abstract" ]; then
+            complement=$(fetch_abstract_complement $doi)
+            [ -n "$complement" ] && abstract="$complement"
+        fi
 
-    if [ "$first" = true ]; then
-        first=false
+        # Nettoyage de l'abstract
+        abstract=$(echo $abstract | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/"/\\"/g')
+        
+        if [ "$first" = true ]; then
+            first=false
+        else
+            echo "," >> $output_json
+        fi
+
+        # .json format de toutes les datas
+        echo "  {" >> $output_json
+        echo "    \"doi\": \"$doi\"," >> $output_json
+        echo "    \"type\": \"$type\"," >> $output_json
+        echo "    \"title\": \"$title\"," >> $output_json
+        echo "    \"authors\": $authors," >> $output_json
+        echo "    \"abstract\": \"$abstract\","  >> $output_json
+        echo "    \"journal\": \"$journal\"," >> $output_json
+        echo "    \"year\": \"$year\"," >> $output_json
+        echo "    \"volume\": \"$volume\"," >> $output_json
+        echo "    \"issue\": \"$issue\"," >> $output_json
+        echo "    \"event\": \"$event\"," | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' >> $output_json
+        echo "    \"isbn\": \"$isbn\"," >> $output_json
+        echo "    \"pages\": \"$pages\"," >> $output_json
+        echo "    \"publisher\": \"$publisher\"," >> $output_json
+        echo "    \"keywords\": \"$keywords\"," >> $output_json
+        echo "    \"dateY\": \"$dateY\"," >> $output_json
+        echo "    \"dateM\": \"$dateM\"," >> $output_json
+        echo "    \"dateD\": \"$dateD\"," >> $output_json
+        echo "    \"permalink\": \"$(slugify "$title")\"," >> $output_json
+        echo "    \"references\": $references" >> $output_json
+        echo "  }" >> $output_json
     else
-        echo "," >> $output_json
+        echo "DOI: $doi is not available yet."
     fi
-
-    # .json format de toutes les datas
-    echo "  {" >> $output_json
-    echo "    \"doi\": \"$doi\"," >> $output_json
-    echo "    \"type\": \"$type\"," >> $output_json
-    echo "    \"title\": \"$title\"," >> $output_json
-    echo "    \"authors\": $authors," >> $output_json
-    echo "    \"abstract\": \"$abstract\"," | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' >> $output_json
-    echo "    \"journal\": \"$journal\"," >> $output_json
-    echo "    \"year\": \"$year\"," >> $output_json
-    echo "    \"volume\": \"$volume\"," >> $output_json
-    echo "    \"issue\": \"$issue\"," >> $output_json
-    echo "    \"event\": \"$event\"," | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' >> $output_json
-    echo "    \"isbn\": \"$isbn\"," >> $output_json
-    echo "    \"pages\": \"$pages\"," >> $output_json
-    echo "    \"publisher\": \"$publisher\"," >> $output_json
-    echo "    \"keywords\": \"$keywords\"," >> $output_json
-    echo "    \"dateY\": \"$dateY\"," >> $output_json
-    echo "    \"dateM\": \"$dateM\"," >> $output_json
-    echo "    \"dateD\": \"$dateD\"," >> $output_json
-    echo "    \"permalink\": \"$(slugify "$title")\"," >> $output_json
-    echo "    \"references\": $references" >> $output_json
-    echo "  }" >> $output_json
 
 done < "$input_file"
 

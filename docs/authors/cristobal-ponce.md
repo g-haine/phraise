@@ -1,0 +1,15 @@
+---
+layout: page
+title: Publications by Cristobal Ponce
+permalink: /authors/cristobal-ponce/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href='../../reduced-order-energy-shaping-control-of-large-scale-linear-port-hamiltonian-systems'>Reduced-order energy shaping control of large-scale linear port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2024 -- Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href='../../port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators'>Port-Hamiltonian modeling of large-scale curling HASEL actuators</a></h3></li>
+<li><span class='post-meta'>2024 -- Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href='../../a-systematic-methodology-for-port-hamiltonian-modeling-of-multidimensional-flexible-linear-mechanical-systems'>A systematic methodology for port-Hamiltonian modeling of multidimensional flexible linear mechanical systems</a></h3></li>
+<li><span class='post-meta'>2024 -- Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href='../../port-hamiltonian-modeling-of-a-geometrically-nonlinear-hyperelastic-beam'>Port-Hamiltonian modeling of a geometrically nonlinear hyperelastic beam</a></h3></li>
+<li><span class='post-meta'>2023 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href='../../finite-dimensional-shape-control-design-of-linear-port-hamiltonian-systems-with-in-domain-pointwise-inputs'>Finite dimensional shape control design of linear port-Hamiltonian systems with in-domain pointwise inputs</a></h3></li>
+<li><span class='post-meta'>2022 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec, Francisco Vargas</span><h3><a class='post-link' href='../../a-comparative-study-of-reduced-model-based-boundary-control-design-for-linear-port-hamiltonian-systems'>A comparative study of reduced model based boundary control design for linear port Hamiltonian systems</a></h3></li>
+
+</ul>

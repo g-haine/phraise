@@ -1,0 +1,90 @@
+---
+layout: post
+title: "A port-Hamiltonian model of liquid sloshing in moving containers and application to a fluid-structure system"
+date: 2017-01-23 00:00:00 +0100
+permalink: a-port-hamiltonian-model-of-liquid-sloshing-in-moving-containers-and-application-to-a-fluid-structure-system
+year: 2017
+authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger
+category: journal-article
+tag: Port-Hamiltonian systems; Shallow-water sloshing; Moving container; Dynamic coupling; Interconnection of systems; Active control
+---
+ 
+## Authors
+**Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger**
+ 
+## Abstract
+This work is motivated by an aeronautical issue: the fuel sloshing in the tank coupled with very flexible wings. Vibrations due to these coupled phenomena can lead to problems like reduced passenger comfort and maneuverability, and even unstable behavior. Port-Hamiltonian systems (pHs) provide a unified framework for the description of multi-domain, complex physical systems and a modular approach for the interconnection of subsystems. In this work, pHs models are proposed for the equations of liquid sloshing in moving containers and for the structural equations of beams with piezoelectric actuators. The interconnection ports are used to couple the sloshing dynamics in the moving tank to the motion the beam. This coupling leads to an infinite-dimensional model of the system in the pHs form. A finite-dimensional approximation is obtained by using a geometric pseudo-spectral method that preserves the pHs structure at the discrete level. Experimental tests on a structure made of a beam and a tank were carried out to validate the finite-dimensional model of liquid sloshing in moving containers. Finally, the pHs model proves useful to design an active control law for the reduction of sloshing phenomena.
+ 
+## Keywords
+Port-Hamiltonian systems; Shallow-water sloshing; Moving container; Dynamic coupling; Interconnection of systems; Active control
+ 
+## Citation
+- **Journal:** Journal of Fluids and Structures
+- **Year:** 2017
+- **Volume:** 69
+- **Issue:** 
+- **Pages:** 402--427
+- **Publisher:** Elsevier BV
+- **DOI:** [10.1016/j.jfluidstructs.2016.12.007](https://doi.org/10.1016/j.jfluidstructs.2016.12.007)
+ 
+## BibTeX
+{% highlight bibtex %}
+{% raw %}
+@article{Cardoso_Ribeiro_2017,
+  title={{A port-Hamiltonian model of liquid sloshing in moving containers and application to a fluid-structure system}},
+  volume={69},
+  ISSN={0889-9746},
+  DOI={10.1016/j.jfluidstructs.2016.12.007},
+  journal={Journal of Fluids and Structures},
+  publisher={Elsevier BV},
+  author={Cardoso-Ribeiro, Flávio Luiz and Matignon, Denis and Pommier-Budinger, Valérie},
+  year={2017},
+  pages={402--427}
+}
+{% endraw %}
+{% endhighlight %}
+ 
+## References
+- Abramson, H. N., 1966. The Dynamic Behaviour of Liquids in Moving Containers: With Applications to Space Vehicle Technology, Tech. rep., NASA
+- [10.1016/j.jfluidstructs.2016.03.013](https://doi.org/10.1016/j.jfluidstructs.2016.03.013)
+- [10.1017/S0956792510000197](https://doi.org/10.1017/S0956792510000197)
+- [10.1017/S0022112010004477](https://doi.org/10.1017/S0022112010004477)
+- [10.1016/j.euromechflu.2011.08.004](https://doi.org/10.1016/j.euromechflu.2011.08.004)
+- Boyd, J.P., 2001. Chebyshev and Fourier Spectral Methods: Second Revised Edition. Dover.
+- [10.1016/j.matcom.2003.11.002](https://doi.org/10.1016/j.matcom.2003.11.002)
+- Cardoso-Ribeiro, F. L., Matignon, D., Pommier-Budinger, V., 2015. Control design for a coupled fluid-structure system with piezoelectric actuators. In: Proceedings of the 3rd CEAS EuroGNC. Toulouse, France.
+- Cardoso-Ribeiro, F. L., Pommier-Budinger, V., Schotte, J.-S., Arzelier, D., 2014. Modeling of a coupled fluid-structure system excited by piezoelectric actuators. In: proceedings of the 2014 IEEE/ASME International Conference on Advanced Intelligent Mechatronics. IEEE, Besançon, France, pp. 216–221. 〈http://dx.doi.org/10.1109/AIM.2014.6878081〉 -- [10.1109/AIM.2014.6878081](https://doi.org/10.1109/AIM.2014.6878081)
+- Cardoso-Ribeiro, F.L., Matignon, D., Pommier-Budinger, V., 2016. Modeling by interconnection and control by damping injection of a fluid-structure system with non-collocated actuators and sensors. In: Proceedings of the International Conference on Noise and Vibration Engineering ISMA. Leuven, Belgium, pp. 121–135.
+- [Cardoso-Ribeiro, F.L., Matignon, D., Pommier-Budinger, V., 2016. Piezoelectric beam with distributed control ports: a power-preserving discretization using weak formulation. In: Proceedings of the 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations. Bertinoro, Italy, pp. 290–297.](piezoelectric-beam-with-distributed-control-ports-a-power-preserving-discretization-using-weak-formulation) -- [10.1016/j.ifacol.2016.07.456](https://doi.org/10.1016/j.ifacol.2016.07.456)
+- [Dirac manifolds](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- [10.2514/1.J052299](https://doi.org/10.2514/1.J052299)
+- [Hamiltonian discretization of boundary control systems](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
+- Golo, G., 2002. Interconnection Structures in Port-Based Modelling: Tools for Analysis and Simulation, (Ph.D. thesis). University of Twente.
+- Graham, E. W., Rodriguez, A. M., 1951. The characteristics of fuel motion which affect airplane dynamics. Tech. rep., DTIC Document -- [10.21236/ADA073847](https://doi.org/10.21236/ADA073847)
+- [10.3166/ejc.16.545-563](https://doi.org/10.3166/ejc.16.545-563)
+- [Hamroun, B., Lefevre, L., Mendes, E., 2007. Port-based modelling and geometric reduction for open channel irrigation systems. In: 2007 Proceedings of the 46th IEEE Conference on Decision and Control. IEEE, New Orleans, LA, USA, pp. 1578–1583. 〈http://dx.doi.org/10.1109/CDC.2007.4434237〉.](port-based-modelling-and-geometric-reduction-for-open-channel-irrigation-systems) -- [10.1109/CDC.2007.4434237](https://doi.org/10.1109/CDC.2007.4434237)
+- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
+- [Control by interconnection of mixed port Hamiltonian systems](control-by-interconnection-of-mixed-port-hamiltonian-systems) -- [10.1109/TAC.2005.858656](https://doi.org/10.1109/TAC.2005.858656)
+- [Port-Based Modeling and Simulation of Mechanical Systems With Rigid and Flexible Links](port-based-modeling-and-simulation-of-mechanical-systems-with-rigid-and-flexible-links) -- [10.1109/TRO.2009.2026504](https://doi.org/10.1109/TRO.2009.2026504)
+- [Macchelli, A., van der Schaft, A.J., Melchiorri, C., 2004. Multi-variable port Hamiltonian model of piezoelectric material. In: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vol. 1, Sendai, Japan, 2004, pp. 897–902 〈http://dx.doi.org/10.1109/IROS.2004.1389466〉.](multi-variable-port-hamiltonian-model-of-piezoelectric-material) -- [10.1109/IROS.2004.1389466](https://doi.org/10.1109/IROS.2004.1389466)
+- [Macchelli, A., van der Schaft, A.J., Melchiorri, C., 2004. Port Hamiltonian formulation of infinite dimensional systems I. Modeling. In: Proceedings of the 43rd IEEE Conference on Decision and Control. IEEE, Atlantis, Paradise Island, Bahamas, pp. 3762–3767 〈http://dx.doi.org/10.1109/CDC.2004.1429324〉.](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/CDC.2004.1429324](https://doi.org/10.1109/CDC.2004.1429324)
+- Morris, K., Ozer, A.O., 2013. Strong stabilization of piezoelectric beams with magnetic effects. In: Proceedings of the 52nd IEEE Conference on Decision and Control. Florence, Italy, pp. 3014–3019. -- [10.1109/CDC.2013.6760341](https://doi.org/10.1109/CDC.2013.6760341)
+- [Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
+- Pasumarthy, R., van der Schaft, A.J., 2004. On Interconnections of Infinite-dimensional Port-Hamiltonian Systems. In: Proceedings of the 16th International Symposium on Mathematical Theory of Networks and Systems. Leuven, Belgium, pp. 1–12.
+- [10.1109/9.995037](https://doi.org/10.1109/9.995037)
+- [10.1016/j.sysconle.2003.11.008](https://doi.org/10.1016/j.sysconle.2003.11.008)
+- Robles, R. R., Serrano, J. P., 2014. Sloshing mechanical model for stability and handling qualities evaluation of the C295 aicraft with the OSD system. In: 29th Congress of the International Council of the Aeronautical Sciences. St. Petersburg, Russia
+- [10.1109/TCST.2011.2144984](https://doi.org/10.1109/TCST.2011.2144984)
+- Rodriguez, H., van der Schaft, A.J., Ortega, R., 2001. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. In: Proceedings of the 40th IEEE Conference on Decision and Control. Vol. 1, IEEE, Orlando, USA, pp. 131–136 doi:10.1109/.2001.980086. -- [10.1109/.2001.980086](https://doi.org/10.1109/.2001.980086)
+- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J., 2004. Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems. In: H. Irschik, K. Schlacher (Eds.), Advanced Dynamics and Control of Structures and Machines. In: Advanced Dynamics and Control of Structures and Machines. Springer, pp. 127–167. 〈http://dx.doi.org/10.1007/978-3-7091-2774-2_9〉](port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems) -- [10.1007/978-3-7091-2774-2_9](https://doi.org/10.1007/978-3-7091-2774-2_9)
+- van der Schaft, A.J., 2013. Port-Hamiltonian Differential-Algebraic Systems. In: Surveys in Differential-Algebraic Equations I, Springer, pp. 173–226 〈http://dx.doi.org/10.1007/978-3-642-34928-7〉. -- [10.1007/978-3-642-34928-7](https://doi.org/10.1007/978-3-642-34928-7)
+- [Port-Hamiltonian Systems Theory: An Introductory Overview](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [Explicit simplicial discretization of distributed-parameter port-Hamiltonian systems](explicit-simplicial-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.automatica.2013.11.020](https://doi.org/10.1016/j.automatica.2013.11.020)
+- Sidi, M.J., 1997. Spacecraft Dynamics and Control: A Practical Engineering Approach. Cambridge Aerospace Series 10.1017/CBO9780511815652 -- [10.1017/CBO9780511815652](https://doi.org/10.1017/CBO9780511815652)
+- Villegas, J.A., 2007. A port-Hamiltonian approach to distributed parameter systems. (Ph.D. thesis), University of Twente.
+- [Port-Hamiltonian Modeling of a Nonlinear Timoshenko Beam with Piezo Actuation](port-hamiltonian-modeling-of-a-nonlinear-timoshenko-beam-with-piezo-actuation) -- [10.1137/090774598](https://doi.org/10.1137/090774598)
+- Voss, T., Scherpen, J.M.A., Onck, P.R., 2008. Modeling for control of an inflatable space reflector, the nonlinear 1-D case. In: Proceedings of the 47th IEEE Conference on Decision and Control. 1777–1782 URL 〈http://ieeexplore.ieee.org/document/4739177/〉. -- [10.1109/CDC.2008.4739177](https://doi.org/10.1109/CDC.2008.4739177)
+- Voss, T., Scherpen, J.M.A., van der Schaft, A.J., 2008a. Modeling for control of an inflatable space reflector, the linear 1-D case. In: Proceedings of the 18th International Symposium on Mathematical Theory of Networks & Systems. Blacksburg, Virginia, USA, 2008. -- [10.1109/CDC.2008.4739177](https://doi.org/10.1109/CDC.2008.4739177)
+

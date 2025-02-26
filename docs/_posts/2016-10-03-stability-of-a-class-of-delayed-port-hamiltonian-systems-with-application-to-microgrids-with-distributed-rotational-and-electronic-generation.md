@@ -1,0 +1,80 @@
+---
+layout: post
+title: "Stability of a class of delayed port-Hamiltonian systems with application to microgrids with distributed rotational and electronic generation"
+date: 2016-10-03 00:00:00 +0100
+permalink: stability-of-a-class-of-delayed-port-hamiltonian-systems-with-application-to-microgrids-with-distributed-rotational-and-electronic-generation
+year: 2016
+authors: Johannes Schiffer, Emilia Fridman, Romeo Ortega, Jörg Raisch
+category: journal-article
+tag: Microgrid control; Microgrid stability; Smart grid applications; Droop control; port-Hamiltonian systems; Time delay systems; Lyapunov–Krasovskii functionals
+---
+ 
+## Authors
+**Johannes Schiffer, Emilia Fridman, Romeo Ortega, Jörg Raisch**
+ 
+## Abstract
+Motivated by the problem of stability in droop-controlled microgrids with delays, we consider a class of port-Hamiltonian systems with delayed interconnection matrices. For this class of systems, delay-dependent stability conditions are derived via the Lyapunov–Krasovskii method. The theoretical results are applied to an exemplary microgrid with distributed rotational and electronic generation and illustrated via a simulation example. The stability analysis is complemented by providing an estimate of the region of attraction of a microgrid with delays.
+ 
+## Keywords
+Microgrid control; Microgrid stability; Smart grid applications; Droop control; port-Hamiltonian systems; Time delay systems; Lyapunov–Krasovskii functionals
+ 
+## Citation
+- **Journal:** Automatica
+- **Year:** 2016
+- **Volume:** 74
+- **Issue:** 
+- **Pages:** 71--79
+- **Publisher:** Elsevier BV
+- **DOI:** [10.1016/j.automatica.2016.07.022](https://doi.org/10.1016/j.automatica.2016.07.022)
+ 
+## BibTeX
+{% highlight bibtex %}
+{% raw %}
+@article{Schiffer_2016,
+  title={{Stability of a class of delayed port-Hamiltonian systems with application to microgrids with distributed rotational and electronic generation}},
+  volume={74},
+  ISSN={0005-1098},
+  DOI={10.1016/j.automatica.2016.07.022},
+  journal={Automatica},
+  publisher={Elsevier BV},
+  author={Schiffer, Johannes and Fridman, Emilia and Ortega, Romeo and Raisch, Jörg},
+  year={2016},
+  pages={71--79}
+}
+{% endraw %}
+{% endhighlight %}
+ 
+## References
+- [Aoues, S., Lombardi, W., Eberard, D., & Di-Loreto, M. (2015). Stability condition of discrete-time linear Hamiltonian systems with time-varying delay feedback interconnection. In IFAC-PapersOnLine 5th IFAC workshop on Lagrangian and Hamiltonian methods for nonlinear control vol. 48, (pp. 7–12).](stability-condition-of-discrete-time-linear-hamiltonian-systems-with-time-varying-delay-feedback-interconnection) -- [10.1016/j.ifacol.2015.10.206](https://doi.org/10.1016/j.ifacol.2015.10.206)
+- Aoues, S., Lombardi, W., Eberard, D., & Seuret, A. (2014). Robust stability for delayed port-Hamiltonian systems using improved Wirtinger-based inequality. In 53rd conference on decision and control (pp. 3119–3124). -- [10.1109/CDC.2014.7039870](https://doi.org/10.1109/CDC.2014.7039870)
+- [10.1016/0142-0615(81)90017-X](https://doi.org/10.1016/0142-0615(81)90017-X)
+- Efimov, D., Ortega, R., & Schiffer, J. (2015). ISS of multistable systems with delays: application to droop-controlled inverter-based microgrids. In American control conference (pp. 4664–4669). -- [10.1109/ACC.2015.7172064](https://doi.org/10.1109/ACC.2015.7172064)
+- [10.1080/00207179.2015.1104555](https://doi.org/10.1080/00207179.2015.1104555)
+- [10.1016/j.ejcon.2014.10.001](https://doi.org/10.1016/j.ejcon.2014.10.001)
+- [10.1016/j.automatica.2008.01.012](https://doi.org/10.1016/j.automatica.2008.01.012)
+- [10.1016/j.automatica.2004.03.003](https://doi.org/10.1016/j.automatica.2004.03.003)
+- [10.1016/S0005-1098(02)00177-2](https://doi.org/10.1016/S0005-1098(02)00177-2)
+- [10.1109/TIE.2012.2194969](https://doi.org/10.1109/TIE.2012.2194969)
+- [10.1109/37.722253](https://doi.org/10.1109/37.722253)
+- [10.1109/MPAE.2007.376583](https://doi.org/10.1109/MPAE.2007.376583)
+- [10.1109/TAC.2004.828317](https://doi.org/10.1109/TAC.2004.828317)
+- [Stability analysis of interconnected Hamiltonian systems under time delays](stability-analysis-of-interconnected-hamiltonian-systems-under-time-delays) -- [10.1049/iet-cta.2011.0076](https://doi.org/10.1049/iet-cta.2011.0076)
+- [10.1109/63.486174](https://doi.org/10.1109/63.486174)
+- [10.1016/j.automatica.2011.09.029](https://doi.org/10.1016/j.automatica.2011.09.029)
+- [10.1016/j.sysconle.2013.11.005](https://doi.org/10.1016/j.sysconle.2013.11.005)
+- Löfberg, J. (2004). YALMIP: a toolbox for modeling and optimization in MATLAB. In IEEE international symposium on computer aided control systems design (pp. 284–289). -- [10.1109/CACSD.2004.1393890](https://doi.org/10.1109/CACSD.2004.1393890)
+- [10.1109/TPEL.2007.909776](https://doi.org/10.1109/TPEL.2007.909776)
+- Münz, U., & Metzger, M. (2014). Voltage and angle stability reserve of power systems with renewable generation. In 19th IFAC World Congress (pp. 9075–9080). -- [10.3182/20140824-6-ZA-1003.00836](https://doi.org/10.3182/20140824-6-ZA-1003.00836)
+- [10.1109/TIE.2007.909061](https://doi.org/10.1109/TIE.2007.909061)
+- [10.1016/j.automatica.2010.10.014](https://doi.org/10.1016/j.automatica.2010.10.014)
+- [Pasumarthy, R., & Kao, C.-Y. (2009). On stability of time delay Hamiltonian systems. In American Control Conference (pp. 4909–4914).](on-stability-of-time-delay-hamiltonian-systems) -- [10.1109/ACC.2009.5160619](https://doi.org/10.1109/ACC.2009.5160619)
+- [10.1109/60.103632](https://doi.org/10.1109/60.103632)
+- Rudion, K., Orths, A., Styczynski, Z., & Strunz, K. (2006). Design of benchmark of medium voltage distribution network for investigation of DG integration. In IEEE PESGM. -- [10.1109/PES.2006.1709447](https://doi.org/10.1109/PES.2006.1709447)
+- Schiffer, J., Fridman, E., & Ortega, R. (2015a). Stability of a class of delayed port-Hamiltonian systems with application to droop-controlled microgrids. In 54th conference on decision and control (pp. 6391–6396). -- [10.1109/CDC.2015.7403226](https://doi.org/10.1109/CDC.2015.7403226)
+- Schiffer, J., Goldin, D., Raisch, J., & Sezi, T. (2013). Synchronization of droop-controlled microgrids with distributed rotational and electronic generation. In 52nd conference on decision and control (pp. 2334–2339). -- [10.1109/CDC.2013.6760229](https://doi.org/10.1109/CDC.2013.6760229)
+- [Conditions for stability of droop-controlled inverter-based microgrids](conditions-for-stability-of-droop-controlled-inverter-based-microgrids) -- [10.1016/j.automatica.2014.08.009](https://doi.org/10.1016/j.automatica.2014.08.009)
+- Schiffer, J., Ortega, R., Hans, C., & Raisch, J. (2015b). Droop-controlled inverter-based microgrids are robust to clock drifts. In American Control Conference (pp. 2341–2346). -- [10.1109/ACC.2015.7171082](https://doi.org/10.1109/ACC.2015.7171082)
+- [10.1016/j.automatica.2016.07.036](https://doi.org/10.1016/j.automatica.2016.07.036)
+- [10.1016/j.automatica.2013.05.018](https://doi.org/10.1016/j.automatica.2013.05.018)
+- Yang, R., & Wang, Y. (2010). Stability analysis for a class of nonlinear time-delay systems via Hamiltonian functional method. In8th world congress on intelligent control and automation (WCICA) (pp.2874–2879).
+

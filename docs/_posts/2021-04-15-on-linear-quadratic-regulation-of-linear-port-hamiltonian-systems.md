@@ -1,0 +1,52 @@
+---
+layout: post
+title: "On Linear Quadratic Regulation of Linear Port-Hamiltonian Systems"
+date: 2021-04-15 00:00:00 +0100
+permalink: on-linear-quadratic-regulation-of-linear-port-hamiltonian-systems
+year: 2020
+authors: Javier Caballeria, Francisco Vargas, Hector Ramirez, Yongxin Wu, Yann Le Gorrec
+category: journal-article
+tag: Port-Hamiltonian systems; Linear Quadratic Regulator; Passivity based control; Control by interconnection; Damping injection
+---
+ 
+## Authors
+**Javier Caballeria, Francisco Vargas, Hector Ramirez, Yongxin Wu, Yann Le Gorrec**
+ 
+## Abstract
+The linear quadratic regulator is a widely used and studied optimal control technique for the control of linear dynamical systems. It consists in minimizing a quadratic cost functional of the states and the control inputs by the means of solving a linear Riccati equation. The effectiveness of the linear quadratic regulator relies on the cost function parameters hence, an appropriate selection of these parameters is of mayor importance in the control design. Port-Hamiltonian system modelling arise from balance equations, interconnection laws and the conservation of energy. These systems encode the physical properties in their structure matrices, energy function and definition of input and output ports. This paper establishes a relation between two classical passivity based control tools for port-Hamiltonian systems, namely control by interconnection and damping injection, with the linear quadratic regulator. These relations allow then to select the weights of the quadratic cost functional on the base of physical considerations. A simple RLC circuit has been used to illustrate the approach.
+ 
+## Keywords
+Port-Hamiltonian systems; Linear Quadratic Regulator; Passivity based control; Control by interconnection; Damping injection
+ 
+## Citation
+- **Journal:** IFAC-PapersOnLine
+- **Year:** 2020
+- **Volume:** 53
+- **Issue:** 2
+- **Pages:** 6857--6862
+- **Publisher:** Elsevier BV
+- **DOI:** [10.1016/j.ifacol.2020.12.343](https://doi.org/10.1016/j.ifacol.2020.12.343)
+- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+ 
+## BibTeX
+{% highlight bibtex %}
+{% raw %}
+@article{Caballeria_2020,
+  title={{On Linear Quadratic Regulation of Linear Port-Hamiltonian Systems}},
+  volume={53},
+  ISSN={2405-8963},
+  DOI={10.1016/j.ifacol.2020.12.343},
+  number={2},
+  journal={IFAC-PapersOnLine},
+  publisher={Elsevier BV},
+  author={Caballeria, Javier and Vargas, Francisco and Ramirez, Hector and Wu, Yongxin and Gorrec, Yann Le},
+  year={2020},
+  pages={6857--6862}
+}
+{% endraw %}
+{% endhighlight %}
+ 
+## References
+- Ortega, R., Van der Schaft, A., Maschke, B., and Escobar, G. (1999). Energy-shaping of port-controlled hamilto-nian systems by interconnection. In Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No. 99CH36304), volume 2, 1646–1651. IEEE. -- [10.1109/CDC.1999.830260](https://doi.org/10.1109/CDC.1999.830260)
+- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+

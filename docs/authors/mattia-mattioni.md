@@ -1,0 +1,12 @@
+---
+layout: page
+title: Publications by Mattia Mattioni
+permalink: /authors/mattia-mattioni/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2024 -- Dorothée Normand-Cyrot, Salvatore Monaco, Mattia Mattioni, Alessio Moreschini</span><h3><a class='post-link' href='../../passivity-techniques-and-hamiltonian-structures-in-discrete-time'>Passivity Techniques and Hamiltonian Structures in Discrete Time</a></h3></li>
+<li><span class='post-meta'>2023 -- Mattia Mattioni, Alessio Moreschini, Salvatore Monaco, Dorothee Normand-Cyrot</span><h3><a class='post-link' href='../../sampled-data-steering-of-unicycles-via-pbc'>Sampled-Data Steering of Unicycles via PBC</a></h3></li>
+<li><span class='post-meta'>2021 -- Alessio Moreschini, Mattia Mattioni, Salvatore Monaco, Dorothee Normand-Cyrot</span><h3><a class='post-link' href='../../stabilization-of-discrete-port-hamiltonian-dynamics-via-interconnection-and-damping-assignment'>Stabilization of Discrete Port-Hamiltonian Dynamics via Interconnection and Damping Assignment</a></h3></li>
+
+</ul>

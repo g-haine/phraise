@@ -32,7 +32,7 @@ figure.highlight > button:hover {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 5px;
 }
 
@@ -53,6 +53,17 @@ figure.highlight > button:hover {
   padding: 10px;
   margin: 10px 0;
   font-size: 16px;
+}
+
+#search-button {
+  background:#000;
+  color:#fff;
+  opacity:1;
+  position:relative;
+  float: right;
+  margin-bottom: 20px;
+  margin-right: 47%;
+  transition:all 0.2s ease-out
 }
 
 .post-content h3 {

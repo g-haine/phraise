@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Port-Hamiltonian modelling of fluid dynamics models with variable cross-section"
+date: 2021-07-16 00:00:00 +0100
+permalink: port-hamiltonian-modelling-of-fluid-dynamics-models-with-variable-cross-section
+year: 2021
+authors: Harshit Bansal, Hans Zwart, Laura Iapichino, Wil Schilders, Nathan van de Wouw
+category: journal-article
+tag: multi-phase; non-linear; evolutionary equations; varying cross-sections; port-Hamiltonian; Stokes-Dirac structure; dissipation inequality
+---
+ 
+## Authors
+**Harshit Bansal, Hans Zwart, Laura Iapichino, Wil Schilders, Nathan van de Wouw**
+ 
+## Abstract
+Many single- and multi-phase fluid dynamical systems are governed by non-linear evolutionary equations. A key aspect of these systems is that the fluid typically flows across spatially and temporally varying cross-sections. We, first, show that not any choice of state-variables may be apt for obtaining a port-Hamiltonian realization under spatially varying cross-section. We propose a modified choice of the state-variables and then represent fluid dynamical systems in port-Hamiltonian representations. We define these port-Hamiltonian representations under spatial variation in the cross-section with respect to a new proposed state-dependent and extended Stokes- Dirac structure. Finally, we account for temporal variations in the cross-section and obtain a suitable structure that respects key properties, such as, for instance, the property of dissipation inequality.
+ 
+## Keywords
+multi-phase; non-linear; evolutionary equations; varying cross-sections; port-Hamiltonian; Stokes-Dirac structure; dissipation inequality
+ 
+## Citation
+- **Journal:** IFAC-PapersOnLine
+- **Year:** 2021
+- **Volume:** 54
+- **Issue:** 9
+- **Pages:** 365--372
+- **Publisher:** Elsevier BV
+- **DOI:** [10.1016/j.ifacol.2021.06.095](https://doi.org/10.1016/j.ifacol.2021.06.095)
+- **Note:** 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020- Cambridge, United Kingdom
+ 
+## BibTeX
+{% highlight bibtex %}
+{% raw %}
+@article{Bansal_2021,
+  title={{Port-Hamiltonian modelling of fluid dynamics models with variable cross-section}},
+  volume={54},
+  ISSN={2405-8963},
+  DOI={10.1016/j.ifacol.2021.06.095},
+  number={9},
+  journal={IFAC-PapersOnLine},
+  publisher={Elsevier BV},
+  author={Bansal, Harshit and Zwart, Hans and Iapichino, Laura and Schilders, Wil and van de Wouw, Nathan},
+  year={2021},
+  pages={365--372}
+}
+{% endraw %}
+{% endhighlight %}
+ 
+## References
+- [A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- Bansal, H. (2020). Structure-preserving model order reduction for drilling automation. PhD thesis, Eindhoven University of Technology.
+- [Port-Hamiltonian formulation of two-phase flow models](port-hamiltonian-formulation-of-two-phase-flow-models) -- [10.1016/j.sysconle.2021.104881](https://doi.org/10.1016/j.sysconle.2021.104881)
+- [Structure-Preserving Model Reduction for Nonlinear Port-Hamiltonian Systems](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems) -- [10.1137/15M1055085](https://doi.org/10.1137/15M1055085)
+- de Wilde, H. (2015). Port-Hamiltonian discretization of gas pipeline networks. PhD thesis, University of Groningen.
+- [Duindam, V., Macchelli, A., Stramigioli, S., and Bruyn-inckx, H. (eds.) (2009). Modeling and control of complex physical systems: the port-Hamiltonian approach.](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
+- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Macchelli, A., van der Schaft, A., and Melchiorri, C. (2004). Port Hamiltonian formulation of infinite dimensional systems I. Modeling. In 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601), 3762–3767, Vol.4. Nassau, Bahamas.](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/CDC.2004.1429324](https://doi.org/10.1109/CDC.2004.1429324)
+- Martins, V.D.S., Maschke, B., and Gorrec, Y.L. (2010). Hamiltonian approach to the stabilization of systems of two conservation laws. IFAC Proceedings Volumes, 43(14), 581–586. -- [10.3182/20100901-3-IT-2016.00095](https://doi.org/10.3182/20100901-3-IT-2016.00095)
+- [Maschke, B.M. and van der Schaft, A. (1992). Port-Controlled Hamiltonian Systems: modelling origins and system-theoretic properties. IFAC Proceedings Volumes, 25, 359 – 365.](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-92) -- [10.1016/S1474-6670(17)52308-3](https://doi.org/10.1016/S1474-6670(17)52308-3)
+- Maschke, B. and van der Schaft, A. (2005). From conservation laws to port-hamiltonian representations of distributed-parameter systems. IFAC Proceedings Volumes, 38, 483–488. -- [10.3182/20050703-6-CZ-1902.00735](https://doi.org/10.3182/20050703-6-CZ-1902.00735)
+- [A class of damping models preserving eigenspaces for linear conservative port-Hamiltonian systems](a-class-of-damping-models-preserving-eigenspaces-for-linear-conservative-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.003](https://doi.org/10.1016/j.ejcon.2013.10.003)
+- [Mehrmann, V. and Morandin, R. (2019). Structure-preserving discretization for port-Hamiltonian descriptor systems. In Proceedings of the 59th IEEE Conference on Decision and Control, 6663 – 6868.](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/CDC40024.2019.9030180](https://doi.org/10.1109/CDC40024.2019.9030180)
+- [10.2118/201108-PA](https://doi.org/10.2118/201108-PA)
+- [Achievable Casimirs and its implications on control of port-Hamiltonian systems](achievable-casimirs-and-its-implications-on-control-of-port-hamiltonian-systems) -- [10.1080/00207170701361273](https://doi.org/10.1080/00207170701361273)
+- Sankar, D.S. (2010). Pulsatile Flow of a Two-Fluid Model for Blood Flow through Arterial Stenosis. Mathematical Problems in Engineering, Article ID 465835, 26 pages. -- [10.1155/2010/465835](https://doi.org/10.1155/2010/465835)
+- [Trang VU, N.M., Lefevre, L., and Maschke, B. (2012). Port-Hamiltonian formulation for systems of conservation laws: application to plasma dynamics in Tokamak reactors. IFAC Proceedings Volumes, 45, 108–113.](port-hamiltonian-formulation-for-systems-of-conservation-laws-application-to-plasma-dynamics-in-tokamak-reactors) -- [10.3182/20120829-3-IT-4022.00016](https://doi.org/10.3182/20120829-3-IT-4022.00016)
+- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Port-Hamiltonian Modeling for Control](port-hamiltonian-modeling-for-control) -- [10.1146/annurev-control-081219-092250](https://doi.org/10.1146/annurev-control-081219-092250)
+- [Generalized port-Hamiltonian DAE systems](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [Dirac and Lagrange Algebraic Constraints in Nonlinear Port-Hamiltonian Systems](dirac-and-lagrange-algebraic-constraints-in-nonlinear-port-hamiltonian-systems) -- [10.1007/s10013-020-00419-x](https://doi.org/10.1007/s10013-020-00419-x)
+- [Infinite Dimensional Port Hamiltonian Representation of reaction diffusion processes](infinite-dimensional-port-hamiltonian-representation-of-reaction-diffusion-processes) -- [10.1016/j.ifacol.2015.05.119](https://doi.org/10.1016/j.ifacol.2015.05.119)
+

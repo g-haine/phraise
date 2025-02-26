@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Port-Hamiltonian FE models for filaments"
+date: 2022-11-23 00:00:00 +0100
+permalink: port-hamiltonian-fe-models-for-filaments
+year: 2022
+authors: Tobias Thoma, Paul Kotyczka
+category: journal-article
+tag: port-Hamiltonian systems; mixed finite elements; geometrically nonlinear mechanical systems; structure preserving discretization; filamentous bodies
+---
+ 
+## Authors
+**Tobias Thoma, Paul Kotyczka**
+ 
+## Abstract
+In this article, we present the port-Hamiltonian representation, the structure preserving discretization and the resulting finite-dimensional state space model of one-dimensional filaments based on a mixed finite element formulation. Due to the fact that the equations of motion of a filamentous body are based on the theory of geometrically nonlinear mechanical systems, the port-Hamiltonian formulation is expressed by means of its co-energy (effort) variables. The resulting port-Hamiltonian state space model features a quadratic Hamiltonian and the nonlinearity is reflected in the state dependence of its interconnection matrix. Numerical experiments generated with FEniCS illustrate the properties of the resulting finite element models.
+ 
+## Keywords
+port-Hamiltonian systems; mixed finite elements; geometrically nonlinear mechanical systems; structure preserving discretization; filamentous bodies
+ 
+## Citation
+- **Journal:** IFAC-PapersOnLine
+- **Year:** 2022
+- **Volume:** 55
+- **Issue:** 30
+- **Pages:** 353--358
+- **Publisher:** Elsevier BV
+- **DOI:** [10.1016/j.ifacol.2022.11.078](https://doi.org/10.1016/j.ifacol.2022.11.078)
+- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+ 
+## BibTeX
+{% highlight bibtex %}
+{% raw %}
+@article{Thoma_2022,
+  title={{Port-Hamiltonian FE models for filaments}},
+  volume={55},
+  ISSN={2405-8963},
+  DOI={10.1016/j.ifacol.2022.11.078},
+  number={30},
+  journal={IFAC-PapersOnLine},
+  publisher={Elsevier BV},
+  author={Thoma, Tobias and Kotyczka, Paul},
+  year={2022},
+  pages={353--358}
+}
+{% endraw %}
+{% endhighlight %}
+ 
+## References
+- [Port-Hamiltonian flexible multibody dynamics](port-hamiltonian-flexible-multibody-dynamics) -- [10.1007/s11044-020-09758-6](https://doi.org/10.1007/s11044-020-09758-6)
+- [Partitioned finite element method for structured discretization with mixed boundary conditions](partitioned-finite-element-method-for-structured-discretization-with-mixed-boundary-conditions) -- [10.1016/j.ifacol.2020.12.1351](https://doi.org/10.1016/j.ifacol.2020.12.1351)
+- [Mixed finite elements for port-Hamiltonian models of von Kármán beams](mixed-finite-elements-for-port-hamiltonian-models-of-von-karman-beams) -- [10.1016/j.ifacol.2021.11.076](https://doi.org/10.1016/j.ifacol.2021.11.076)
+- [A partitioned finite element method for power-preserving discretization of open systems of conservation laws](a-partitioned-finite-element-method-for-power-preserving-discretization-of-open-systems-of-conservation-laws) -- [10.1093/imamci/dnaa038](https://doi.org/10.1093/imamci/dnaa038)
+- [10.1016/0096-3003(94)00060-H](https://doi.org/10.1016/0096-3003(94)00060-H)
+- [Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
+- [10.1115/1.1891811](https://doi.org/10.1115/1.1891811)
+- [Twenty years of distributed port-Hamiltonian systems: a literature review](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
+- [A port-Hamiltonian approach to modeling the structural dynamics of complex systems](a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems) -- [10.1016/j.apm.2020.07.038](https://doi.org/10.1016/j.apm.2020.07.038)
+

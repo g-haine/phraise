@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generalized port-Hamiltonian DAE systems
+title: "Generalized port-Hamiltonian DAE systems"
 date: 2018-10-16 00:00:00 +0100
 permalink: generalized-port-hamiltonian-dae-systems
 year: 2018
@@ -45,8 +45,8 @@ Port-Hamiltonian system; Algebraic constraint; Dirac structure; Lagrangian subsp
 {% endhighlight %}
  
 ## References
-- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
-- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- [Port-Hamiltonian Systems Theory: An Introductory Overview](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - C.A. Beattie, V. Mehrmann, H. Xu, H. Zwart, Port-Hamiltonian descriptor systems. Preprint 06-2017, Institüt für Mathematik, TU Berlin, 2017, arXiv:1705.09081.
 - V. Mehrmann, C. Mehl, M. Wojtylak, Linear algebra properties of dissipative Hamiltonian descriptor systems, arXiv:1801.02214.
 - [10.1137/16M1067330](https://doi.org/10.1137/16M1067330)
@@ -54,6 +54,6 @@ Port-Hamiltonian system; Algebraic constraint; Dirac structure; Lagrangian subsp
 - L. Scholz, Condensed forms for linear port-Hamiltonian descriptor systems. Preprint 09-2017, Institüt für Mathematik, TU Berlin, 2017.
 - M. Barbero-Linan, H. Cendra, E. Garcia-Torano Andres, D. Martin de Diego, Morse families and Dirac systems, arXiv:1804.04949v1.
 - H. Zwart, handwritten notes.
-- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
-- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- [Dirac manifolds](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- [Port-Hamiltonian Systems on Graphs](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 

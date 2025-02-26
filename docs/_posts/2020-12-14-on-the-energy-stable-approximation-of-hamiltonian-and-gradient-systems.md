@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Energy Stable Approximation of Hamiltonian and Gradient Systems
+title: "On the Energy Stable Approximation of Hamiltonian and Gradient Systems"
 date: 2020-12-14 00:00:00 +0100
 permalink: on-the-energy-stable-approximation-of-hamiltonian-and-gradient-systems
 year: 2021
@@ -12,7 +12,7 @@ category: journal-article
 **Herbert Egger, Oliver Habrich, Vsevolod Shashkov**
  
 ## Abstract
- A general framework for the numerical approximation of evolution problems is presented that allows to preserve an underlying dissipative Hamiltonian or gradient structure exactly.The approach relies on rewriting the evolution problem in a particular form that complies with the underlying geometric structure.The Galerkin approximation of a corresponding variational formulation in space then automatically preserves this structure which allows to deduce important properties for appropriate discretization schemes including projection based model order reduction.We further show that the underlying structure is preserved also under time discretization by a Petrov–Galerkin approach.The presented framework is rather general and allows the numerical approximation of a wide range of applications, including nonlinear partial differential equations and port-Hamiltonian systems.Some examples will be discussed for illustration of our theoretical results, and connections to other discretization approaches will be highlighted.
+A general framework for the numerical approximation of evolution problems is presented that allows to preserve an underlying dissipative Hamiltonian or gradient structure exactly.The approach relies on rewriting the evolution problem in a particular form that complies with the underlying geometric structure.The Galerkin approximation of a corresponding variational formulation in space then automatically preserves this structure which allows to deduce important properties for appropriate discretization schemes including projection based model order reduction.We further show that the underlying structure is preserved also under time discretization by a Petrov–Galerkin approach.The presented framework is rather general and allows the numerical approximation of a wide range of applications, including nonlinear partial differential equations and port-Hamiltonian systems.Some examples will be discussed for illustration of our theoretical results, and connections to other discretization approaches will be highlighted.
  
 ## Citation
 - **Journal:** Computational Methods in Applied Mathematics
@@ -76,15 +76,15 @@ Math. Comp. 89 (2020), no. 322, 699–716. -- [10.1090/mcom/3470](https://doi.or
 - E. Celledoni and E. H. Hoiseth,
 Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems,
 preprint (2017), https://arxiv.org/abs/1706.08621.
-- S. Chaturantabut, C. Beattie and S. Gugercin,
+- [S. Chaturantabut, C. Beattie and S. Gugercin,
 Structure-preserving model reduction for nonlinear port-Hamiltonian systems,
-SIAM J. Sci. Comput. 38 (2016), no. 5, B837–B865. -- [10.1137/15M1055085](https://doi.org/10.1137/15M1055085)
+SIAM J. Sci. Comput. 38 (2016), no. 5, B837–B865.](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems) -- [10.1137/15M1055085](https://doi.org/10.1137/15M1055085)
 - D. Cohen and E. Hairer,
 Linear energy-preserving integrators for Poisson systems,
 BIT 51 (2011), no. 1, 91–101. -- [10.1007/s10543-011-0310-z](https://doi.org/10.1007/s10543-011-0310-z)
-- H. Egger,
+- [H. Egger,
 Structure preserving approximation of dissipative evolution problems,
-Numer. Math. 143 (2019), no. 1, 85–106. -- [10.1007/s00211-019-01050-w](https://doi.org/10.1007/s00211-019-01050-w)
+Numer. Math. 143 (2019), no. 1, 85–106.](structure-preserving-approximation-of-dissipative-evolution-problems) -- [10.1007/s00211-019-01050-w](https://doi.org/10.1007/s00211-019-01050-w)
 - E. Eich-Soellner and C. Führer,
 Numerical Methods in Multibody Dynamics,
 Eur. Consort. Math. Ind.,
@@ -105,9 +105,9 @@ CRC Press, Boca Raton, 2011. -- [10.1201/b10387](https://doi.org/10.1201/b10387)
 - C. W. Gear, B. Leimkuhler and G. K. Gupta,
 Automatic integration of Euler–Lagrange equations with constraints,
 J. Comput. Appl. Math. 12–13 (1985), 77–90. -- [10.1016/0377-0427(85)90008-1](https://doi.org/10.1016/0377-0427(85)90008-1)
-- O. Gonzalez,
+- [O. Gonzalez,
 Time integration and discrete Hamiltonian systems,
-J. Nonlinear Sci. 6 (1996), no. 5, 449–467. -- [10.1007/BF02440162](https://doi.org/10.1007/BF02440162)
+J. Nonlinear Sci. 6 (1996), no. 5, 449–467.](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/BF02440162](https://doi.org/10.1007/BF02440162)
 - E. Hairer,
 Energy-preserving variant of collocation methods,
 JNAIAM. J. Numer. Anal. Ind. Appl. Math. 5 (2010), no. 1–2, 73–84.
@@ -137,9 +137,9 @@ R. Soc. Lond. Philos. Trans. Ser. A Math. Phys. Eng. Sci. 357 (1999), no. 1754, 
 Finite Element Methods for Maxwell’s Equations,
 Numer. Math. Sci. Comput.,
 Oxford University, New York, 2003. -- [10.1093/acprof:oso/9780198508885.001.0001](https://doi.org/10.1093/acprof:oso/9780198508885.001.0001)
-- R. V. Polyuga,
+- [R. V. Polyuga,
 Discussion on: “Passivity and structure preserving order reduction of linear port-Hamiltonian systems using Krylov subspaces” [mr2731511],
-Eur. J. Control 16 (2010), no. 4, 407–409. -- [10.1016/S0947-3580(10)70672-5](https://doi.org/10.1016/S0947-3580(10)70672-5)
+Eur. J. Control 16 (2010), no. 4, 407–409.](discussion-on-passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces) -- [10.1016/S0947-3580(10)70672-5](https://doi.org/10.1016/S0947-3580(10)70672-5)
 - K. Strehmel and R. Weiner,
 Numerik gewöhnlicher Differentialgleichungen,
 Teubner Math. Textb.,

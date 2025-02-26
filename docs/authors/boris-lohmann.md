@@ -1,0 +1,15 @@
+---
+layout: page
+title: Publications by Boris Lohmann
+permalink: /authors/boris-lohmann/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2023 -- Tim Moser, Boris Lohmann</span><h3><a class='post-link' href='../../a-rosenbrock-framework-for-tangential-interpolation-of-port-hamiltonian-descriptor-systems'>A Rosenbrock framework for tangential interpolation of port-Hamiltonian descriptor systems</a></h3></li>
+<li><span class='post-meta'>2023 -- Tim Moser, Julius Durmann, Maximilian Bonauer, Boris Lohmann</span><h3><a class='post-link' href='../../morph-model-reduction-of-linear-port-hamiltonian-systems-in-matlab'>MORpH: Model reduction of linear port-Hamiltonian systems in MATLAB</a></h3></li>
+<li><span class='post-meta'>2019 -- Tobias M. Scheuermann, Paul Kotyczka, Boris Lohmann</span><h3><a class='post-link' href='../../on-parametric-structure-preserving-model-order-reduction-of-linear-port-hamiltonian-systems'>On parametric structure preserving model order reduction of linear port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2014 -- Markus Giftthaler, Thomas Wolf, Heiko K. F. Panzer, Boris Lohmann</span><h3><a class='post-link' href='../../parametric-model-order-reduction-of-port-hamiltonian-systems-by-matrix-interpolation'>Parametric Model Order Reduction of Port-Hamiltonian Systems by Matrix Interpolation</a></h3></li>
+<li><span class='post-meta'>2011 -- Rudy Eid, Rosa Castañé-Selga, Heiko Panzer, Thomas Wolf, Boris Lohmann</span><h3><a class='post-link' href='../../stability-preserving-parametric-model-reduction-by-matrix-interpolation'>Stability-preserving parametric model reduction by matrix interpolation</a></h3></li>
+<li><span class='post-meta'>2010 -- Thomas Wolf, Boris Lohmann, Rudy Eid, Paul Kotyczka</span><h3><a class='post-link' href='../../passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces'>Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces</a></h3></li>
+
+</ul>

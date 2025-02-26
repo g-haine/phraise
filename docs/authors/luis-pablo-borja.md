@@ -1,0 +1,21 @@
+---
+layout: page
+title: Publications by Luis Pablo Borja
+permalink: /authors/luis-pablo-borja/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2023 -- Ningbo Li, Pablo Borja, Jacquelien M. A. Scherpen, Arjan van der Schaft, Robert Mahony</span><h3><a class='post-link' href='../../passivity-based-trajectory-tracking-and-formation-control-of-nonholonomic-wheeled-robots-without-velocity-measurements'>Passivity-Based Trajectory Tracking and Formation Control of Nonholonomic Wheeled Robots Without Velocity Measurements</a></h3></li>
+<li><span class='post-meta'>2023 -- Pablo Borja, Jacquelien M. A. Scherpen, Kenji Fujimoto</span><h3><a class='post-link' href='../../extended-balancing-of-continuous-lti-systems-a-structure-preserving-approach'>Extended Balancing of Continuous LTI Systems: A Structure-Preserving Approach</a></h3></li>
+<li><span class='post-meta'>2022 -- N. Javanmardi, P. Borja, M.J. Yazdanpanah, J.M.A. Scherpen</span><h3><a class='post-link' href='../../distributed-formation-control-of-networked-mechanical-systems'>Distributed formation control of networked mechanical systems</a></h3></li>
+<li><span class='post-meta'>2021 -- Kiyoshi Hamada, Pablo Borja, Jacquelien M. A. Scherpen, Kenji Fujimoto, Ichiro Maruta</span><h3><a class='post-link' href='../../passivity-based-lag-compensators-with-input-saturation-for-mechanical-port-hamiltonian-systems-without-velocity-measurements-journal'>Passivity-Based Lag-Compensators With Input Saturation for Mechanical Port-Hamiltonian Systems Without Velocity Measurements</a></h3></li>
+<li><span class='post-meta'>2021 -- Kiyoshi Hamada, Pablo Borja, Jacquelien M.A. Scherpen, Kenji Fujimoto, Ichiro Maruta</span><h3><a class='post-link' href='../../passivity-based-lag-compensators-with-input-saturation-for-mechanical-port-hamiltonian-systems-without-velocity-measurements'>Passivity-Based Lag-Compensators with Input Saturation for Mechanical Port-Hamiltonian Systems Without Velocity Measurements</a></h3></li>
+<li><span class='post-meta'>2021 -- Kiyoshi Hamada, Pablo Borja, Kenji Fujimoto, Ichiro Maruta, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href='../../on-passivity-based-high-order-compensators-for-mechanical-port-hamiltonian-systems-without-velocity-measurements'>On Passivity-Based High-Order Compensators for Mechanical Port-Hamiltonian Systems Without Velocity Measurements</a></h3></li>
+<li><span class='post-meta'>2021 -- Ningbo Li, Pablo Borja, Arjan van der Schaft, Jacquelien M.A. Scherpen, Liangming Chen</span><h3><a class='post-link' href='../../angle-formation-of-double-integrator-with-bearing-and-velocity-information'>Angle formation of double integrator with bearing and velocity information</a></h3></li>
+<li><span class='post-meta'>2021 -- Pablo Borja, Romeo Ortega, Jacquelien M. A. Scherpen</span><h3><a class='post-link' href='../../new-results-on-stabilization-of-port-hamiltonian-systems-via-pid-passivity-based-control'>New Results on Stabilization of Port-Hamiltonian Systems via PID Passivity-Based Control</a></h3></li>
+<li><span class='post-meta'>2018 -- Meng Zhang, Pablo Borja, Romeo Ortega, Zhitao Liu, Hongye Su</span><h3><a class='post-link' href='../../pid-passivity-based-control-of-port-hamiltonian-systems'>PID Passivity-Based Control of Port-Hamiltonian Systems</a></h3></li>
+<li><span class='post-meta'>2018 -- Pablo Borja, Romeo Ortega, Emmanuel Nuño</span><h3><a class='post-link' href='../../new-results-on-pid-passivity-based-controllers-for-port-hamiltonian-systems'>New results on PID passivity-based controllers for port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2016 -- Pablo Borja, Rafael Cisneros, Romeo Ortega</span><h3><a class='post-link' href='../../a-constructive-procedure-for-energy-shaping-of-port-hamiltonian-systems'>A constructive procedure for energy shaping of port—Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2015 -- Alessandro Macchelli, Luis Pablo Borja, Romeo Ortega</span><h3><a class='post-link' href='../../control-by-interconnection-of-distributed-port-hamiltonian-systems-beyond-the-dissipation-obstacle'>Control by Interconnection of Distributed Port-Hamiltonian Systems Beyond the Dissipation Obstacle</a></h3></li>
+
+</ul>

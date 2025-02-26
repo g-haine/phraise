@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site is a **bibliographic survey** dedicated to research on **port-Hamiltonian systems**. The goal is to provide an **exhaustive collection of papers** to help researchers stay informed about the latest advancements, identify potential research gaps, and foster collaborations.
+This site is a **bibliographic survey** dedicated to research on **port-Hamiltonian systems**. The goal is to provide a **collection of papers** to help researchers stay informed about the latest advancements, identify potential research gaps, and foster collaborations.
 
 The site is **updated at regular intervals** to reflect newly published works.
 
@@ -26,8 +26,8 @@ Currently, **only metadata and abstracts** are collected—**full texts are not 
 
 ## **How to Contribute?**
 Contributions are welcome in the form of **DOI submissions**. You can:
-- Submit a **pull request** with new DOIs in the `DOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
-- Send [**an email**](mailto:ghislain.haine@isae.fr) to the site maintainer.
+- Submit a **pull request** with new DOIs in the `newDOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
+- Send [**an email**](mailto:ghislain.haine@isae.fr) with new DOIs list.
 
 **Automated contributions are not possible** due to API rate limitations. The metadata compilation will be manually performed before each update, but the site itself is automatically rebuilt with Jekyll after each push.
 

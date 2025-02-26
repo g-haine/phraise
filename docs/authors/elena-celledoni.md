@@ -1,0 +1,10 @@
+---
+layout: page
+title: Publications by Elena Celledoni
+permalink: /authors/elena-celledoni/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2021 -- Elena Celledoni, James Jackaman</span><h3><a class='post-link' href='../../discrete-conservation-laws-for-finite-element-discretisations-of-multisymplectic-pdes'>Discrete conservation laws for finite element discretisations of multisymplectic PDEs</a></h3></li>
+
+</ul>

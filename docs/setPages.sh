@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# Ce fichier utilise le .json créé par getData.sh et le .json de author_mapping.shen pour générer :
+# * Un fichier markdown "Page" par auteur et par année, aves les index associés
+
+# Force UTF-8
+export LC_ALL=C.UTF-8
+export LANG=C.UTF-8
+export LANGUAGE=C.UTF-8
+
 # Dossiers de sortie
 AUTHORS_DIR="authors"
 YEARS_DIR="years"
@@ -13,6 +21,10 @@ BIBLIO_JSON="assets/data/biblio.json"
 
 # Nettoyer les anciens fichiers
 rm -f "$AUTHORS_DIR"/*.md "$YEARS_DIR"/*.md
+touch "$AUTHORS_DIR/index.md"
+touch "$YEARS_DIR/index.md"
+iconv -f UTF-8 -t UTF-8 "$AUTHORS_DIR/index.md" -o "$AUTHORS_DIR/index.md"
+iconv -f UTF-8 -t UTF-8 "$YEARS_DIR/index.md" -o "$YEARS_DIR/index.md"
 
 # Vérifier la présence des fichiers JSON
 if [[ ! -f "$BIBLIO_JSON" || ! -f "$MAPPINGS_FILE" ]]; then
@@ -26,12 +38,13 @@ slugify() {
 }
 
 # Charger les correspondances "Prénom Nom" → "slug"
+echo $(date -Iseconds)" Getting names <-> slugs tables..."
 declare -A author_to_slug
 declare -A slug_to_name
 
 while IFS= read -r entry; do
     slug=$(echo "$entry" | jq -r '.key')
-    slug_to_name["$slug"]=$(echo "$entry" | jq -r '.value[0]')
+    slug_to_name["$slug"]=$(echo "$entry" | jq -r '.value[0]' | iconv -c -f UTF-8 -t UTF-8)
     
     # Lire toutes les variations associées à ce slug
     while IFS= read -r variation; do
@@ -40,6 +53,7 @@ while IFS= read -r entry; do
 done < <(jq -c 'to_entries[]' "$MAPPINGS_FILE")
 
 # Extraction des auteurs et des années
+echo $(date -Iseconds)" Getting names and years from .json..."
 declare -A authors
 declare -A years
 
@@ -47,7 +61,7 @@ while read -r entry; do
     permalink=$(echo "$entry" | jq -r '.permalink')
     title=$(echo "$entry" | jq -r '.title')
     year=$(echo "$entry" | jq -r '.year')
-    author_names=$(echo "$entry" | jq -r '[.authors[] | select(.family) | "\(.given) \(.family)"] | join(", ")')
+    author_names=$(echo "$entry" | jq -r '[.authors[] | select(.family) | "\(.given) \(.family)"] | join(", ")' | iconv -c -f UTF-8 -t UTF-8)
 
     if [[ -z "$author_names" ]]; then
         echo "Erreur : Auteurs vides pour $title" >&2
@@ -60,11 +74,8 @@ while read -r entry; do
         slug="${author_to_slug[$author]}"
         standardized_author="${slug_to_name[$slug]:-$author}"
         sanitized_author=$(slugify "$standardized_author")
-        authors["$standardized_author"]+='
-  <li>
-    <span class="post-meta">'$year' -- '$author_names'</span>
-    <h3><a class="post-link" href="../../'$permalink'">'$title'</a></h3>
-  </li>'
+        authors["$standardized_author"]+="
+        $year|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href='../../$permalink'>$title</a></h3></li>"
     done <<< "$author_names, "
 
     years["$year"]+='
@@ -76,10 +87,25 @@ while read -r entry; do
 done < <(jq -c '.[]' "$BIBLIO_JSON")
 
 # Créer un tableau temporaire pour le tri des auteurs
+echo $(date -Iseconds)" Sorting authors..."
 sorted_pairs=()
 for author in "${!authors[@]}"; do
-    last_word=$(echo "$author" | awk '{print $NF}')  # Extraire le dernier mot
-    sorted_pairs+=("$last_word	$author")  # Tabulation pour séparer proprement
+    last_name=$(echo "$author" | awk '{print $NF}')  # Extraire le dernier mot
+    
+    # Normaliser le dernier mot en ASCII
+    normalized_last_name=$(echo "$last_name" | iconv -f UTF-8 -t ASCII//TRANSLIT | sed -E "
+        s/Ü/U/;
+        s/Ç/C/;
+        s/Š/S/;
+        s/Ž/Z/;
+        s/Ð/D/;
+        s/Ñ/N/;
+        s/Ł/L/;
+        s/Ø/O/;
+        s/Æ/A/;
+        s/Œ/OE/")
+        
+    sorted_pairs+=("$normalized_last_name	$author")  # Tabulation pour séparer proprement
 done
 
 # Trier les auteurs par leur dernier mot
@@ -87,6 +113,7 @@ IFS=$'\n' sorted_pairs=($(sort -k1 <<<"${sorted_pairs[*]}"))
 unset IFS
 
 # Générer l'index des auteurs avec sous-titres alphabétiques et affichage en 3 colonnes
+echo $(date -Iseconds)" Page $AUTHORS_DIR/index.md creation..."
 cat <<EOF > "$AUTHORS_DIR/index.md"
 ---
 layout: page
@@ -102,9 +129,11 @@ echo "<div class='grid'>" >> "$AUTHORS_DIR/index.md"
 for pair in "${sorted_pairs[@]}"; do
     last_name=$(echo "$pair" | cut -f1)  
     author=$(echo "$pair" | cut -f2-)  
-
+    
+    # Extraire la première lettre après normalisation
     first_letter=$(echo "$last_name" | cut -c1 | tr '[:lower:]' '[:upper:]')
 
+    # Vérifier si on doit insérer un sous-titre alphabétique
     if [[ "$first_letter" != "$letter" ]]; then
         echo "</div>" >> "$AUTHORS_DIR/index.md"
         echo "## $first_letter" >> "$AUTHORS_DIR/index.md"
@@ -115,8 +144,9 @@ for pair in "${sorted_pairs[@]}"; do
     slug="${author_to_slug[$author]}"
     sanitized_slug=$(slugify "$slug")
 
-    echo "<a href='./$sanitized_slug/'>$author</a>" >> "$AUTHORS_DIR/index.md"
-
+    echo "<a href='./$sanitized_slug/'>$author</a>" | iconv -t UTF-8 >> "$AUTHORS_DIR/index.md"
+    
+    echo $(date -Iseconds)" Page $AUTHORS_DIR/$sanitized_slug.md creation..."
     cat <<EOF > "$AUTHORS_DIR/$sanitized_slug.md"
 ---
 layout: page
@@ -126,17 +156,19 @@ permalink: /authors/$sanitized_slug/
 
 EOF
     echo '<ul class="post-list">' >> "$AUTHORS_DIR/$sanitized_slug.md"
-    echo -e "${authors[$author]}" >> "$AUTHORS_DIR/$sanitized_slug.md"
+    echo -e "${authors[$author]}" | sort -t'|' -k1,1r | cut -d'|' -f2 | iconv -t UTF-8 >> "$AUTHORS_DIR/$sanitized_slug.md"
     echo "</ul>" >> "$AUTHORS_DIR/$sanitized_slug.md"
 done
 
 echo "</div>" >> "$AUTHORS_DIR/index.md"
 
 # Trier les années avant de les afficher dans l'index
+echo $(date -Iseconds)" Sorting years..."
 IFS=$'\n' sorted_years=($(sort -n <<<"${!years[*]}"))
 unset IFS
 
 # Générer l'index des années avec affichage en 3 colonnes et tri correct
+echo $(date -Iseconds)" Page $YEARS_DIR/index.md creation..."
 cat <<EOF > "$YEARS_DIR/index.md"
 ---
 layout: page
@@ -155,6 +187,7 @@ echo "</div>" >> "$YEARS_DIR/index.md"
 
 # Générer les fichiers correspondants
 for year in "${sorted_years[@]}"; do
+    echo $(date -Iseconds)" Page $YEARS_DIR/$year.md creation..."
     cat <<EOF > "$YEARS_DIR/$year.md"
 ---
 layout: page

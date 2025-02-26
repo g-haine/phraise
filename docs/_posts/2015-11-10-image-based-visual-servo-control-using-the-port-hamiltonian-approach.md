@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Image-based visual servo control using the port-Hamiltonian approach"
+date: 2015-11-10 00:00:00 +0100
+permalink: image-based-visual-servo-control-using-the-port-hamiltonian-approach
+year: 2015
+authors: Mauricio Munoz-Arias, Mohamed I. El-Hawwary, Jacquelien M.A. Scherpen
+category: journal-article
+tag: Robotics; port-Hamiltonian systems; Vision control; Mechanical systems
+---
+ 
+## Authors
+**Mauricio Munoz-Arias, Mohamed I. El-Hawwary, Jacquelien M.A. Scherpen**
+ 
+## Abstract
+This work is devoted to an image-based visual servo control strategy for standard mechanical systems in the port-Hamiltonian framework. We utilize a change of variables that transforms the port-Hamiltonian system into one with constant mass-inertia matrix, and we use an interaction matrix that includes the depth information together with the image features variables of the image plane. We develop a control strategy that renders a closed-loop system that is port-Hamiltonian. The introduced approach is applied to a two degrees of freedom robot arm problem, and simulation results are provided.
+ 
+## Keywords
+Robotics; port-Hamiltonian systems; Vision control; Mechanical systems
+ 
+## Citation
+- **Journal:** IFAC-PapersOnLine
+- **Year:** 2015
+- **Volume:** 48
+- **Issue:** 13
+- **Pages:** 105--110
+- **Publisher:** Elsevier BV
+- **DOI:** [10.1016/j.ifacol.2015.10.222](https://doi.org/10.1016/j.ifacol.2015.10.222)
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+ 
+## BibTeX
+{% highlight bibtex %}
+{% raw %}
+@article{Munoz_Arias_2015,
+  title={{Image-based visual servo control using the port-Hamiltonian approach}},
+  volume={48},
+  ISSN={2405-8963},
+  DOI={10.1016/j.ifacol.2015.10.222},
+  number={13},
+  journal={IFAC-PapersOnLine},
+  publisher={Elsevier BV},
+  author={Munoz-Arias, Mauricio and I. El-Hawwary, Mohamed and Scherpen, Jacquelien M.A.},
+  year={2015},
+  pages={105--110}
+}
+{% endraw %}
+{% endhighlight %}
+ 
+## References
+- [10.1016/j.triboint.2005.11.014](https://doi.org/10.1016/j.triboint.2005.11.014)
+- [10.1016/j.automatica.2012.03.003](https://doi.org/10.1016/j.automatica.2012.03.003)
+- [A Port‐<scp>H</scp>amiltonian Approach to Visual Servo Control of a Pick and Place System](a-port-scp-h-scp-amiltonian-approach-to-visual-servo-control-of-a-pick-and-place-system) -- [10.1002/asjc.909](https://doi.org/10.1002/asjc.909)
+- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
+- [10.1109/70.538972](https://doi.org/10.1109/70.538972)
+- [A port-Hamiltonian approach to image-based visual servo control for dynamic systems](a-port-hamiltonian-approach-to-image-based-visual-servo-control-for-dynamic-systems) -- [10.1177/0278364912455074](https://doi.org/10.1177/0278364912455074)
+- [10.1109/TAC.2007.899064](https://doi.org/10.1109/TAC.2007.899064)
+

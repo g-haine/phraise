@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some notes on port-Hamiltonian systems on Banach spaces
+title: "Some notes on port-Hamiltonian systems on Banach spaces"
 date: 2021-11-19 00:00:00 +0100
 permalink: some-notes-on-port-hamiltonian-systems-on-banach-spaces
 year: 2021
@@ -49,10 +49,10 @@ port-Hamiltonian systems; partial differential-algebraic systems; Dirac structur
 ## References
 - [10.4064/sm8757-4-2017](https://doi.org/10.4064/sm8757-4-2017)
 - [10.1007/978-1-4419-5542-5](https://doi.org/10.1007/978-1-4419-5542-5)
-- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
-- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
+- [Dirac structures and their composition on Hilbert spaces](dirac-structures-and-their-composition-on-hilbert-spaces) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
+- [Interconnection of port-Hamiltonian systems and composition of Dirac structures](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - Chill, R., Reis, T., and Stykel, T. (2021). Analysis of a quasilinear coupled magneto-quasistatic model. Part I: Solvability and regularity of solutions. Hamburger Beiträge zur Angewandten Mathematik 2021-1, Univer-sität Hamburg.
-- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
-- [10.1137/18M1164275](https://doi.org/10.1137/18M1164275)
+- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Generalized port-Hamiltonian DAE systems](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18M1164275](https://doi.org/10.1137/18M1164275)
 

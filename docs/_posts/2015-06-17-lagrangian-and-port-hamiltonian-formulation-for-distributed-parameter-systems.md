@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems"
+date: 2015-06-17 00:00:00 +0100
+permalink: lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems
+year: 2015
+authors: M. Schöberl, K. Schlacher
+category: journal-article
+tag: Differential geometric methods; Lagrangian and Hamiltonian Systems; Partial differential equations
+---
+ 
+## Authors
+**M. Schöberl, K. Schlacher**
+ 
+## Abstract
+In this paper we consider distributed-parameter systems that allow for a Lagrangian or port-Hamiltonian formulation. We will distinguish the case where the Lagrangian or the Hamiltonian depend on derivative variables (jet-variables) of first-order and the case where second-order derivatives appear. This distinction will be important for the correct determination of the boundary conditions in the Lagrangian scenario and for the investigation of possible boundary ports in the Hamiltonian picture. The derivation of the partial differential equations and the boundary terms/ports will be accomplished in a geometric fashion by using the so-called Cartan-form. We visualize our results by mechanical examples such as beams and plates.
+ 
+## Keywords
+Differential geometric methods; Lagrangian and Hamiltonian Systems; Partial differential equations
+ 
+## Citation
+- **Journal:** IFAC-PapersOnLine
+- **Year:** 2015
+- **Volume:** 48
+- **Issue:** 1
+- **Pages:** 610--615
+- **Publisher:** Elsevier BV
+- **DOI:** [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
+- **Note:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
+ 
+## BibTeX
+{% highlight bibtex %}
+{% raw %}
+@article{Sch_berl_2015,
+  title={{Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems}},
+  volume={48},
+  ISSN={2405-8963},
+  DOI={10.1016/j.ifacol.2015.05.025},
+  number={1},
+  journal={IFAC-PapersOnLine},
+  publisher={Elsevier BV},
+  author={Schöberl, M. and Schlacher, K.},
+  year={2015},
+  pages={610--615}
+}
+{% endraw %}
+{% endhighlight %}
+ 
+## References
+- [Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
+- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
+- [Modelling of piezoelectric structures–a Hamiltonian approach](modelling-of-piezoelectric-structures-a-hamiltonian-approach) -- [10.1080/13873950701844824](https://doi.org/10.1080/13873950701844824)
+- [On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/TAC.2012.2235739](https://doi.org/10.1109/TAC.2012.2235739)
+- [Jet bundle formulation of infinite-dimensional port-Hamiltonian systems using differential operators](jet-bundle-formulation-of-infinite-dimensional-port-hamiltonian-systems-using-differential-operators) -- [10.1016/j.automatica.2013.11.035](https://doi.org/10.1016/j.automatica.2013.11.035)
+- [Port-Hamiltonian modelling and energy-based control of the Timoshenko beam](port-hamiltonian-modelling-and-energy-based-control-of-the-timoshenko-beam) -- [10.1007/s00707-011-0510-2](https://doi.org/10.1007/s00707-011-0510-2)
+- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+

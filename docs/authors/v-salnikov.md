@@ -1,0 +1,11 @@
+---
+layout: page
+title: Publications by V. Salnikov
+permalink: /authors/v-salnikov/
+---
+
+<ul class="post-list">
+<li><span class='post-meta'>2024 -- V. Salnikov</span><h3><a class='post-link' href='../../port-hamiltonian-systems-structure-recognition-and-applications'>Port-Hamiltonian Systems: Structure Recognition and Applications</a></h3></li>
+<li><span class='post-meta'>2023 -- V. Salnikov, A. Falaize, D. Lozienko</span><h3><a class='post-link' href='../../learning-port-hamiltonian-systems-algorithms'>Learning port-Hamiltonian Systems—Algorithms</a></h3></li>
+
+</ul>

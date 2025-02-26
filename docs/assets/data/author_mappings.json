@@ -1,73 +1,2057 @@
 {
-  "daniel_alazard": [ "Daniel Alazard" ]
+  "ghasem_abbasi": [ "Ghasem Abbasi" ]
 ,
-  "christopher_beattie": [ "Christopher Beattie", "C. Beattie" ]
+  "m_h_abbasi": [ "M.H. Abbasi" ]
 ,
-  "andrea_brugnoli": [ "Andrea Brugnoli" ]
+  "mohamed_naceur_abdelkrim": [ "Mohamed Naceur Abdelkrim" ]
+,
+  "babak_abdolmaleki": [ "Babak Abdolmaleki" ]
+,
+  "abdullah_abukhwejah": [ "Abdullah Abukhwejah" ]
+,
+  "mohammed_elarbi_achhab": [ "Mohammed Elarbi Achhab" ]
+,
+  "julia_ackermann": [ "Julia Ackermann" ]
+,
+  "juan_c_aguero": [ "Juan C. Agüero" ]
+,
+  "carlos_aguilar_ibanez": [ "Carlos Aguilar‐Ibañez" ]
+,
+  "anders_ahlen": [ "Anders Ahlén" ]
+,
+  "s_ahmad": [ "S Ahmad" ]
+,
+  "saeed_ahmed": [ "Saeed Ahmed" ]
+,
+  "r_akmeliawati": [ "R Akmeliawati" ]
+,
+  "seyedabbas_alavi": [ "Seyedabbas Alavi" ]
+,
+  "daniel_alazard": [ "Daniel Alazard", "D. Alazard" ]
+,
+  "frank_allgower": [ "Frank Allgöwer", "Frank Allgower" ]
+,
+  "israa_badr_nasser_al_mashhadani": [ "Israa Badr Nasser Al-Mashhadani" ]
+,
+  "m_z_almuzakki": [ "M.Z. Almuzakki" ]
+,
+  "fawaz_e_alsaadi": [ "Fawaz E. Alsaadi" ]
+,
+  "t_m_altalmas": [ "T M Altalmas" ]
+,
+  "abdullah_altawaitan": [ "Abdullah Altawaitan" ]
+,
+  "r_altmann": [ "R. Altmann" ]
+,
+  "v_r_ambati": [ "V.R. Ambati" ]
+,
+  "mikhail_s_ananyevskiy": [ "Mikhail S. Ananyevskiy" ]
+,
+  "e_garcia_torano_andres": [ "E García-Toraño Andrés" ]
+,
+  "lisa_andresen": [ "Lisa Andresen" ]
+,
+  "cristian_h_de_angelo": [ "Cristian H. De Angelo" ]
+,
+  "panos_j_antsaklis": [ "Panos J. Antsaklis" ]
+,
+  "said_aoues": [ "Saïd Aoues", "Said Aoues" ]
+,
+  "simona_aracri": [ "Simona Aracri" ]
+,
+  "ryo_arai": [ "Ryo Arai" ]
+,
+  "ernesto_aranda_escolastico": [ "Ernesto Aranda-Escolástico" ]
+,
+  "catalin_arghir": [ "Catalin Arghir" ]
+,
+  "kinji_asaka": [ "Kinji Asaka" ]
+,
+  "hajime_asama": [ "Hajime Asama" ]
+,
+  "alessandro_astolfi": [ "Alessandro Astolfi" ]
+,
+  "nikolay_atanasov": [ "Nikolay Atanasov" ]
+,
+  "agissilaos_athanassoulis": [ "Agissilaos Athanassoulis" ]
+,
+  "manel_atitallah": [ "Manel Atitallah" ]
+,
+  "finbar_j_argus": [ "Finbar J. Argus" ]
+,
+  "bjorn_augner": [ "Björn Augner" ]
+,
+  "a_aula": [ "A Aula" ]
+,
+  "jean_auriol": [ "Jean Auriol" ]
+,
+  "sofia_avila_becerril": [ "Sofía Avila-Becerril", "Sofia Avila-Becerril" ]
+,
+  "edgar_perez_ayala": [ "Edgar Perez Ayala" ]
+,
+  "ahmad_taher_azar": [ "Ahmad Taher Azar" ]
+,
+  "a_baaiu": [ "A. Baaiu" ]
+,
+  "takahiro_baba": [ "Takahiro Baba" ]
+,
+  "robert_babuska": [ "Robert Babuska", "R. Babuška" ]
+,
+  "m_a_badamchizadeh": [ "M. A. Badamchizadeh" ]
+,
+  "alberto_badias": [ "Alberto Badías" ]
+,
+  "arbi_moses_badlyan": [ "Arbi Moses Badlyan" ]
+,
+  "rolf_bjorn_baltes": [ "Rolf-Björn Baltes" ]
+,
+  "jacek_banasiak": [ "Jacek Banasiak" ]
+,
+  "ravi_n_banavar": [ "Ravi N. Banavar", "Ravi Banavar" ]
+,
+  "a_banos": [ "A. Baños" ]
+,
+  "harshit_bansal": [ "Harshit Bansal", "H. Bansal" ]
+,
+  "yajie_bao": [ "Yajie Bao" ]
+,
+  "nikita_barabanov": [ "Nikita Barabanov" ]
+,
+  "john_s_baras": [ "John S. Baras" ]
+,
+  "m_barbero_linan": [ "M Barbero-Liñán" ]
+,
+  "ruxandra_barbulescu": [ "Ruxandra Barbulescu" ]
+,
+  "j_j_barradas_berglind": [ "J.J. Barradas-Berglind" ]
+,
+  "pierre_jean_barre": [ "Pierre-Jean Barre" ]
+,
+  "andreas_bartel": [ "Andreas Bartel" ]
+,
+  "luca_bassi": [ "Luca Bassi","L. Bassi" ]
+,
+  "guaraci_bastos": [ "Guaraci Bastos" ]
+,
+  "carles_batlle": [ "Carles Batlle" ]
+,
+  "larissa_m_batrancea": [ "Larissa M. Batrancea" ]
+,
+  "christopher_beattie": [ "Christopher Beattie", "C. Beattie", "Christopher A. Beattie", "C.A. Beattie" ]
+,
+  "jussi_behrndt": [ "Jussi Behrndt" ]
+,
+  "thomas_beckers": [ "Thomas Beckers" ]
+,
+  "juri_belikov": [ "Juri Belikov" ]
+,
+  "abdelkrim_benchaib": [ "Abdelkrim Benchaib" ]
+,
+  "antoine_bendimerad-Hohl": [ "Antoine Bendimerad-Hohl" ]
+,
+  "ernest_benedito": [ "Ernest Benedito" ]
+,
+  "peter_benner": [ "Peter Benner" ]
+,
+  "mourad_benoussaad": [ "Mourad Benoussaad" ]
+,
+  "gilbert_bergna_diaz": [ "Gilbert Bergna-Diaz" ]
+,
+  "a_bestler": [ "A. Bestler" ]
+,
+  "michael_betancourt": [ "Michael Betancourt" ]
+,
+  "peter_betsch": [ "Peter Betsch", "P. Betsch" ]
+,
+  "siddharth_bhanderi": [ "Siddharth Bhanderi" ]
+,
+  "kirtan_bhatt": [ "Kirtan Bhatt" ]
+,
+  "davide_bicego": [ "Davide Bicego" ]
+,
+  "eric_bideaux": [ "Eric Bideaux" ]
+,
+  "bastian_biedermann": [ "Bastian Biedermann" ]
+,
+  "nicu_bizon": [ "Nicu Bizon" ]
+,
+  "frede_blaabjerg": [ "Frede Blaabjerg" ]
+,
+  "antonio_blancato": [ "Antonio Blancato" ]
+,
+  "s_blanes": [ "S. Blanes" ]
+,
+  "adam_bloch": [ "Adam Błoch" ]
+,
+  "michael_bohm": [ "Michael Böhm" ]
+,
+  "onno_bokhove": [ "Onno Bokhove" ]
+,
+  "maximilian_bonauer": [ "Maximilian Bonauer" ]
+,
+  "jerome_bonelle": [ "Jérôme Bonelle" ]
+,
+  "claudio_bonivento": [ "Claudio Bonivento" ]
+,
+  "d_bonvin": [ "D. Bonvin" ]
+,
+  "liliana_borcea": [ "Liliana Borcea" ]
+,
+  "gianni_borghesan": [ "Gianni Borghesan" ]
+,
+  "luis_pablo_borja": [ "Luis Pablo Borja", "Pablo Borja", "P. Borja" ]
+,
+  "roberto_borsari": [ "Roberto Borsari" ]
+,
+  "henri_boutin": [ "Henri Boutin" ]
+,
+  "chris_p_bradley": [ "Chris P. Bradley" ]
+,
+  "ammar_touati_brahim": [ "Ammar Touati Brahim" ]
+,
+  "alexander_brauchler": [ "Alexander Brauchler" ]
+,
+  "tobias_breiten": [ "Tobias Breiten" ]
+,
+  "sylvain_bremond": [ "Sylvain Brémond" ]
+,
+  "j_r_brinkerhoff": [ "J. R. Brinkerhoff" ]
+,
+  "andrea_brugnoli": [ "Andrea Brugnoli", "A. Brugnoli" ]
+,
+  "aaron_brunk": [ "Aaron Brunk" ]
+,
+  "herman_bruyninckx": [ "Herman Bruyninckx" ]
+,
+  "patrick_buchfink": [ "Patrick Buchfink" ]
+,
+  "heinrich_h_bulthoff": [ "Heinrich H. Bülthoff" ]
+,
+  "julian_burghoff": [ "Julian Burghoff" ]
+,
+  "simon_byrne": [ "Simon Byrne" ]
+,
+  "javier_caballeria": [ "Javier Caballeria" ]
+,
+  "dengsheng_cai": [ "Dengsheng Cai" ]
+,
+  "jianping_cai": [ "Jianping Cai" ]
+,
+  "liangcheng_cai": [ "Liangcheng Cai", "Liang-Cheng Cai" ]
 ,
   "wenjun_cai": [ "Wenjun Cai" ]
 ,
-  "f_couenne": [ "F. Couenne" ]
+  "andrea_caiti": [ "Andrea Caiti", "A. Caiti" ]
 ,
-  "paul_m_van_dooren": [ "Paul M. van Dooren", "Paul M. Van Dooren" ]
+  "nandish_calchand": [ "Nandish Calchand" ]
 ,
-  "herbert_egger": [ "Herbert Egger", "H. Egger" ]
+  "federico_califano": [ "Federico Califano", "F. Califano" ]
+,
+  "m_kanat_camlibel": [ "M. Kanat Camlibel", "M. K. Camlibel" ]
+,
+  "ming_cao": [ "Ming Cao" ]
+,
+  "giuseppe_capobianco": [ "Giuseppe Capobianco" ]
+,
+  "flavio_luiz_cardoso_ribeiro": [ "Flávio Luiz Cardoso-Ribeiro", "Flavio Luiz Cardoso-Ribeiro" ]
+,
+  "raffaella_carloni": [ "Raffaella Carloni" ]
+,
+  "arnau_garriga_casanovas": [ "Arnau Garriga Casanovas" ]
+,
+  "sven_caspart": [ "Sven Caspart" ]
+,
+  "carlos_e_castaneda": [ "Carlos E. Castañeda" ]
+,
+  "rosa_castane_selga": [ "Rosa Castañé-Selga" ]
+,
+  "fernando_castanos": [ "Fernando Castaños", "Fernando Castanos" ]
+,
+  "elena_celledoni": [ "Elena Celledoni" ]
+,
+  "h_cendra": [ "H Cendra" ]
+,
+  "j_cervera": [ "J. Cervera" ]
+,
+  "solene_houria_chaabna": [ "Solene Houria Chaabna" ]
+,
+  "juliette_chabassier": [ "Juliette Chabassier" ]
+,
+  "carmen_chan_zheng": [ "Carmen Chan-Zheng" ]
+,
+  "miguel_charlotte": [ "Miguel Charlotte" ]
+,
+  "s_chaturantabut": [ "S. Chaturantabut" ]
+,
+  "krishnan_chemmangat": [ "Krishnan Chemmangat" ]
+,
+  "jian_chen": [ "Jian Chen" ]
+,
+  "liangming_chen": [ "Liangming Chen" ]
+,
+  "minghui_chen": [ "Minghui Chen" ]
+,
+  "qifeng_chen": [ "Qifeng Chen" ]
+,
+  "shengyuan_chen": [ "Shengyuan Chen", "Sheng-Yuan Chen" ]
+,
+  "youyuan_chen": [ "Youyuan Chen" ]
+,
+  "yufei_chen": [ "Yufei Chen" ]
+,
+  "yuzhu_chen": [ "Yuzhu Chen" ]
+,
+  "xiangwei_chen": [ "Xiangwei Chen" ]
+,
+  "ningbo_cheng": [ "Ningbo Cheng" ]
+,
+  "xiaoyu_cheng": [ "Xiaoyu Cheng" ]
+,
+  "bogdan_chereji": [ "Bogdan Chereji" ]
+,
+  "karim_cherifi": [ "Karim Cherifi" ]
+,
+  "jieru_chi": [ "Jieru Chi" ]
+,
+  "francisco_chinesta": [ "Francisco Chinesta" ]
+,
+  "snorre_h_christiansen": [ "Snorre H. Christiansen" ]
+,
+  "ho_tak_d_chun": [ "Ho-Tak D. Chun" ]
+,
+  "oscar_b_cieza": [ "Oscar B. Cieza" ]
+,
+  "unver_ciftci": [ "Ünver Çiftçi" ]
+,
+  "nelson_cisneros": [ "Nelson Cisneros" ]
+,
+  "rafael_cisneros": [ "Rafael Cisneros" ]
+,
+  "c_ciuca": [ "C. Ciuca" ]
+,
+  "gabriela_ciuprina": [ "Gabriela Ciuprina" ]
+,
+  "yoan_civet": [ "Yoan Civet" ]
+,
+  "markus_clemens": [ "Markus Clemens" ]
+,
+  "cedric_clevy": [ "Cédric Clévy" ]
+,
+  "bernardo_cockburn": [ "Bernardo Cockburn", "B. Cockburn" ]
+,
+  "leonardo_j_colombo": [ "Leonardo J. Colombo" ]
+,
+  "adrian_constantin": [ "Adrian Constantin" ]
+,
+  "francesco_giuseppe_cordoni": [ "Francesco Giuseppe Cordoni", "Francesco Cordoni" ]
+,
+  "domingo_cortes": [ "Domingo CORTES" ]
+,
+  "francoise_couenne": [ "Françoise Couenne", "F. Couenne" ]
+,
+  "theodore_james_courant": [ "Theodore James Courant" ]
+,
+  "michael_g_crandall": [ "Michael G. Crandall" ]
+,
+  "michele_cucuzzella": [ "Michele Cucuzzella" ]
+,
+  "elias_cueto": [ "Elías Cueto" ]
+,
+  "lisette_cupelli": [ "Lisette Cupelli" ]
+,
+  "marco_cupelli": [ "Marco Cupelli" ]
+,
+  "siyuan_dai": [ "Siyuan Dai" ]
+,
+  "morten_dalsmo": [ "Morten Dalsmo" ]
+,
+  "brigitte_d_andrea_novel": [ "Brigitte d’Andréa-Novel" ]
+,
+  "jean_baptiste_david": [ "Jean-Baptiste David" ]
+,
+  "charlotte_degunther": [ "Charlotte Degünther" ]
+,
+  "francisco_del_rio_rivera": [ "Francisco Del-Rio-Rivera" ]
+,
+  "jean_charles_delvenne": [ "Jean-Charles Delvenne" ]
+,
+  "shaan_a_desai": [ "Shaan A. Desai" ]
+,
+  "joachim_deutscher": [ "Joachim Deutscher" ]
+,
+  "biswadip_dey": [ "Biswadip Dey" ]
+,
+  "sukhwinder_singh_dhillon": [ "Sukhwinder Singh Dhillon" ]
+,
+  "malak_diab": [ "Malak Diab" ]
+,
+  "mamadou_diagne": [ "Mamadou Diagne" ]
+,
+  "jingdong_diao": [ "Jingdong Diao" ]
+,
+  "d_martin_de_diego": [ "D Martín de Diego" ]
+,
+  "jean_yves_dieulot": [ "Jean-Yves Dieulot" ]
+,
+  "alexander_dijkshoorn": [ "Alexander Dijkshoorn" ]
+,
+  "alexandru_dimofte": [ "Alexandru Dimofte" ]
+,
+  "hao_ding": [ "Hao Ding" ]
+,
+  "shuai_ding": [ "Shuai Ding" ]
+,
+  "daniel_a_dirksz": [ "Daniel A. Dirksz", "D. A. Dirksz", "D.A. Dirksz" ]
+,
+  "denis_dochain": [ "Denis Dochain", "D. Dochain" ]
+,
+  "uday_dolas": [ "Uday Dolas" ]
+,
+  "alejandro_donaire": [ "Alejandro Donaire" ]
+,
+  "jian_dong": [ "Jian Dong" ]
+,
+  "lu_dong": [ "Lu Dong" ]
+,
+  "yujie_dong": [ "Yujie Dong" ]
+,
+  "zhe_dong": [ "Zhe Dong" ]
+,
+  "m_c_f_donkers": [ "M. C. F. Donkers" ]
+,
+  "paul_m_van_dooren": [ "Paul M. van Dooren", "Paul M. Van Dooren", "Paul Van Dooren" ]
+,
+  "florian_dorfler": [ "Florian Dörfler", "Florian Dorfler" ]
+,
+  "irene_ya_dorfman": [ "Irene Ya. Dorfman" ]
+,
+  "arnau_doria_cerezo": [ "Arnau Dòria-Cerezo", "Arnau Doria-Cerezo", "A. Dòria-Cerezo" ]
+,
+  "vladimir_druskin": [ "Vladimir Druskin" ]
+,
+  "shukai_du": [ "Shukai Du" ]
+,
+  "stevan_dubljevic": [ "Stevan Dubljevic" ]
+,
+  "vincent_duindam": [ "Vincent Duindam" ]
+,
+  "thai_duong": [ "Thai Duong" ]
+,
+  "manuel_dupuis": [ "Manuel Dupuis" ]
+,
+  "julius_durmann": [ "Julius Durmann" ]
+,
+  "romanus_dyczij_edlinger": [ "Romanus Dyczij-Edlinger", "R. Dyczij-Edlinger" ]
+,
+  "damien_eberard": [ "Damien Eberard", "D. Eberard" ]
+,
+  "lukas_ecker": [ "Lukas Ecker" ]
+,
+  "herbert_egger": [ "Herbert Egger", "H. Egger", "H Egger" ]
+,
+  "matthias_ehrhardt": [ "Matthias Ehrhardt" ]
+,
+  "rudy_eid": [ "Rudy Eid" ]
+,
+  "john_e_d_ekoru": [ "John E. D. Ekoru", "John E.D. Ekoru" ]
+,
+  "mohamed_i_el_hawwary": [ "Mohamed I. El-Hawwary" ]
+,
+  "johan_b_c_engelen": [ "Johan B. C. Engelen" ]
+,
+  "h_ennsbrunner": [ "H. Ennsbrunner" ]
+,
+  "mehmet_erbay": [ "Mehmet Erbay" ]
+,
+  "alexandre_ern": [ "Alexandre Ern" ]
+,
+  "andres_escobar": [ "Andrés Escobar" ]
+,
+  "gerardo_escobar": [ "Gerardo Escobar" ]
+,
+  "a_escobar_mejia": [ "A. Escobar-Mejia" ]
+,
+  "gerardo_espinosa_perez": [ "Gerardo Espinosa-Pérez", "Gerardo Espinosa-Perez" ]
+,
+  "p_esquivel": [ "P. Esquivel" ]
+,
+  "luis_miguel_esquivel_sancho": [ "Luis Miguel Esquivel-Sancho" ]
+,
+  "anneroos_r_f_everts": [ "Anneroos R.F. Everts" ]
+,
+  "t_fabbri": [ "T. Fabbri" ]
+,
+  "filippo_fabiani": [ "Filippo Fabiani", "F. Fabiani" ]
+,
+  "jean_michel_w_fahmi": [ "Jean-Michel W. Fahmi", "Jean-Michel Fahmi" ]
+,
+  "antoine_falaize": [ "Antoine Falaize", "A. Falaize" ]
+,
+  "hao_fang": [ "Hao Fang" ]
+,
+  "zhou_fang": [ "Zhou Fang" ]
+,
+  "cesare_fantuzzi": [ "Cesare Fantuzzi", "C. Fantuzzi" ]
+,
+  "yassine_fares": [ "Yassine Fares" ]
+,
+  "angela_faragasso": [ "Angela Faragasso" ]
+,
+  "f_farago": [ "F. Farago" ]
+,
+  "yousef_farid": [ "Yousef Farid" ]
+,
+  "ortwin_farle": [ "Ortwin Farle", "O. Farle" ]
+,
+  "timm_faulwasser": [ "Timm Faulwasser" ]
+,
+  "jorg_fehr": [ "Jörg Fehr" ]
+,
+  "federico_felici": [ "Federico Felici" ]
+,
+  "shuai_feng": [ "Shuai Feng" ]
+,
+  "davide_fenucci": [ "Davide Fenucci", "D. Fenucci" ]
+,
+  "joel_ferguson": [ "Joel Ferguson" ]
+,
+  "joao_erick_de_mattos_fernandes": [ "João Erick de Mattos Fernandes" ]
+,
+  "david_c_del_rey_fernandez": [ "David C. Del Rey Fernández" ]
+,
+  "giancarlo_ferrari_trecate": [ "Giancarlo Ferrari-Trecate" ]
+,
+  "giuseppe_ferraro": [ "Giuseppe Ferraro" ]
+,
+  "s_fiaz": [ "S. Fiaz" ]
+,
+  "sheron_figarado": [ "Sheron Figarado" ]
+,
+  "mehdi_farokhian_firuzi": [ "Mehdi Farokhian Firuzi" ]
+,
+  "o_floch": [ "O. Floch" ]
+,
+  "marco_a_flores": [ "Marco A. Flores" ]
+,
+  "gerrit_a_folkertsma": [ "Gerrit A. Folkertsma" ]
+,
+  "javier_g_fontanet": [ "Javier G. Fontanet" ]
+,
+  "paolo_forni": [ "Paolo Forni" ]
+,
+  "johannes_fottner": [ "Johannes Fottner" ]
+,
+  "michel_fournie": [ "Michel Fournié" ]
+,
+  "jean_yves_fourquet": [ "Jean-Yves Fourquet" ]
+,
+  "alexander_l_fradkov": [ "Alexander L. Fradkov" ]
+,
+  "antonio_franchi": [ "Antonio Franchi" ]
+,
+  "michel_fran": [ "Michel Fran" ]
+,
+  "enrico_franco": [ "Enrico Franco" ]
+,
+  "emilia_fridman": [ "Emilia Fridman" ]
+,
+  "kenji_fujimoto": [ "Kenji Fujimoto", "K. Fujimoto" ]
+,
+  "marvin_fritz": [ "Marvin Fritz" ]
+,
+  "xikun_fu": [ "Xikun Fu" ]
+,
+  "martha_galaz_larios": [ "Martha GALAZ-LARIOS" ]
+,
+  "aurelie_galfre": [ "Aurélie Galfré" ]
+,
+  "j_clemente_gallardo": [ "J. Clemente-Gallardo" ]
+,
+  "chuanhou_gao": [ "Chuanhou Gao" ]
+,
+  "lingchong_gao": [ "Lingchong Gao" ]
+,
+  "xunkai_gao": [ "Xunkai Gao" ]
+,
+  "alejandro_garces_ruiz": [ "Alejandro Garcés-Ruiz", "Alejandro Garcés", "Alejandro Garces" ]
+,
+  "eloisa_garcia_canseco": [ "Eloísa García-Canseco" ]
+,
+  "denis_genon_catalot": [ "Denis Genon-Catalot", "D. Genon-Catalot" ]
+,
+  "francois_gay_balmaz": [ "François Gay-Balmaz", "F. Gay-Balmaz" ]
+,
+  "luca_gentili": [ "Luca Gentili" ]
+,
+  "thibault_geoffroy": [ "Thibault Geoffroy" ]
+,
+  "hannes_gernandt": [ "Hannes Gernandt", "H. Gernandt" ]
+,
+  "m_gerritsma": [ "M. Gerritsma" ]
+,
+  "s_ghaemi": [ "S. Ghaemi" ]
+,
+  "a_gheibi": [ "A. Gheibi" ]
+,
+  "a_r_ghiasi": [ "A. R. Ghiasi" ]
+,
+  "j_gibart": [ "J. Gibart" ]
+,
+  "frederik_gielnik": [ "Frederik Gielnik" ]
+,
+  "mark_girolami": [ "Mark Girolami" ]
+,
+  "jan_giesselmann": [ "Jan Giesselmann", "J Giesselmann" ]
+,
+  "markus_giftthaler": [ "Markus Giftthaler" ]
+,
+  "walter_gil_gonzale": [ "Walter Gil-González", "Walter Gil-Gonzalez", "Walter Gil–-González", "Walter Gil-Gonzale", "W. Gil-Gonzalez" ]
+,
+  "nicolas_gillis": [ "Nicolas Gillis" ]
+,
+  "mohsen_gitizadeh": [ "Mohsen Gitizadeh" ]
+,
+  "jochen_gluck": [ "Jochen Glück" ]
 ,
   "goran_golo": [ "Goran Golo", "G. Golo" ]
 ,
+  "julien_gomand": [ "Julien Gomand" ]
+,
+  "f_gomez_estern": [ "F. Gómez-Estern" ]
+,
+  "junjie_gong": [ "Junjie Gong" ]
+,
   "o_gonzalez": [ "O. Gonzalez" ]
 ,
-  "yann_le_gorrec": [ "Yann Le Gorrec", "Y. Le Gorrec" ]
+  "marco_a_gordon": [ "Marco A. Gordon" ]
+,
+  "yann_le_gorrec": [ "Yann Le Gorrec", "Y. Le Gorrec", "Le Gorrec Yann", "Yann Le Gorec", "Y. Legorrec" ]
+,
+  "hitoshi_gotoh": [ "Hitoshi Gotoh" ]
+,
+  "takafumi_gotoh": [ "Takafumi Gotoh" ]
+,
+  "hanno_gottschalk": [ "Hanno Gottschalk" ]
+,
+  "yves_gourinat": [ "Yves Gourinat" ]
+,
+  "thavamani_govindaraj": [ "Thavamani Govindaraj" ]
+,
+  "pawan_goyal": [ "Pawan Goyal" ]
 ,
   "katarzyna_grabowska": [ "Katarzyna Grabowska", "K. Grabowska" ]
 ,
   "janusz_grabowski": [ "Janusz Grabowski", "J. Grabowski" ]
 ,
+  "james_l_gresham": [ "James L. Gresham" ]
+,
+  "dmitry_gromov": [ "Dmitry Gromov" ]
+,
+  "stefan_s_groothuis": [ "Stefan S. Groothuis" ]
+,
+  "dominic_gross": [ "Dominic Groß" ]
+,
+  "serkan_gugercin": [ "Serkan Gugercin", "S. Gugercin" ]
+,
+  "damien_guilbert": [ "Damien Guilbert" ]
+,
+  "maria_guinaldo": [ "María Guinaldo" ]
+,
+  "michael_gunther": [ "Michael Günther" ]
+,
+  "qi_guo": [ "Qi Guo" ]
+,
+  "qingkun_guo": [ "Qingkun Guo" ]
+,
+  "yunxi_guo": [ "Yunxi Guo" ]
+,
+  "sriram_karthik_gurumurthy": [ "Sriram Karthik Gurumurthy" ]
+,
+  "bernard_haasdonk": [ "Bernard Haasdonk" ]
+,
   "oliver_habrich": [ "Oliver Habrich", "O. Habrich" ]
 ,
-  "b_hamroun": [ "B. Hamroun" ]
+  "wassim_m_haddad": [ "Wassim M. Haddad" ]
 ,
-  "dimitri_jeltsema": [ "Dimitri Jeltsema" ]
+  "sillas_hadjiloucas": [ "Sillas Hadjiloucas" ]
 ,
-  "kaja_krhač": [ "Kaja Krhač", "K. Krhač" ]
+  "ghislain_haine": [ "Ghislain Haine", "Ghilslain Haine" ]
 ,
-  "laurent_lefèvre": [ "Laurent Lefèvre", "L. Lefevre", "L. Lefèvre", "Laurent Lefevre" ]
+  "ernst_hairer": [ "Ernst Hairer" ]
 ,
-  "bernhard_maschke": [ "Bernhard Maschke", "B. Maschke" ]
+  "frederic_enrico_haller": [ "Frédéric Enrico Haller", "Frédéric E. Haller", "F.E. Haller" ]
+,
+  "kiyoshi_hamada": [ "Kiyoshi Hamada" ]
+,
+  "amal_hammoud": [ "Amal Hammoud" ]
+,
+  "silja_hampel": [ "Silja Hampel" ]
+,
+  "boussad_hamroun": [ "Boussad Hamroun", "B. Hamroun" ]
+,
+  "wenkang_hao": [ "Wenkang Hao" ]
+,
+  "rafika_el_harabi": [ "Rafika El Harabi" ]
+,
+  "christian_harkort": [ "Christian Harkort" ]
+,
+  "anthony_hastir": [ "Anthony Hastir" ]
+,
+  "shunsuke_hattori": [ "Shunsuke Hattori" ]
+,
+  "sarah_alexa_hauschild": [ "Sarah-Alexa Hauschild" ]
+,
+  "vincent_hayward": [ "Vincent Hayward" ]
+,
+  "liang_he": [ "Liang He" ]
+,
+  "yong_he": [ "Yong He" ]
+,
+  "zhengyou_he": [ "Zhengyou He" ]
+,
+  "p_heer": [ "P. Heer" ]
+,
+  "hanif_heidari": [ "Hanif Heidari" ]
+,
+  "l_van_der_heijden": [ "L. van der Heijden" ]
+,
+  "thomas_helie": [ "Thomas Hélie", "Thomas Helie", "T. Hélie" ]
+,
+  "marvin_lucas_henkel": [ "Marvin-Lucas Henkel" ]
+,
+  "robin_herkert": [ "Robin Herkert" ]
+,
+  "ivo_herman": [ "Ivo Herman" ]
+,
+  "jesus_c_hernandez": [ "Jesus C. Hernández" ]
+,
+  "quercus_hernandez": [ "Quercus Hernández" ]
+,
+  "michael_hernandez_gomez": [ "Michael Hernandez-Gomez" ]
+,
+  "dorothea_hinsen": [ "Dorothea Hinsen" ]
+,
+  "sandra_hirche": [ "Sandra Hirche" ]
+,
+  "h_hoang": [ "H. Hoang" ]
+,
+  "ngoc_ha_hoang": [ "Ngoc Ha Hoang", "N. Ha Hoang", "N.H. Hoang" ]
+,
+  "simon_hochgerner": [ "Simon Hochgerner" ]
+,
+  "soren_hohmann": [ "Sören Hohmann", "Soren Hohmann" ]
+,
+  "josef_hrusak": [ "Josef Hrusak" ]
+,
+  "haiqiang_hu": [ "Haiqiang Hu" ]
+,
+  "haitao_hu": [ "Haitao Hu" ]
+,
+  "weiwei_hu": [ "Weiwei Hu" ]
+,
+  "deqing_huang": [ "Deqing Huang" ]
+,
+  "meng_huang": [ "Meng Huang" ]
+,
+  "tao_huang": [ "Tao Huang" ]
+,
+  "xiaojin_huang": [ "Xiaojin Huang" ]
+,
+  "yao_huang": [ "Yao Huang" ]
+,
+  "nicolas_hudon": [ "Nicolas Hudon" ]
+,
+  "jukka_pekka_humaloja": [ "Jukka-Pekka Humaloja" ]
+,
+  "peter_j_hunter": [ "Peter J. Hunter" ]
+,
+  "mohd_azlan_hussain": [ "Mohd Azlan Hussain", "M.A. Hussain" ]
+,
+  "coen_hutters": [ "Coen Hutters" ]
+,
+  "laura_iapichino": [ "Laura Iapichino", "L. Iapichino" ]
+,
+  "daiji_ichishima": [ "Daiji Ichishima" ]
+,
+  "o_v_iftime": [ "O.V. Iftime" ]
+,
+  "achim_ilchmann": [ "Achim Ilchmann" ]
+,
+  "daniel_ioan": [ "Daniel Ioan" ]
+,
+  "tudor_c_ionescu": [ "Tudor C. Ionescu", "Tudor Ionescu" ]
+,
+  "kazufumi_ito": [ "Kazufumi Ito" ]
+,
+  "james_jackaman": [ "James Jackaman" ]
+,
+  "birgit_jacob": [ "Birgit Jacob" ]
+,
+  "henry_o_jacobs": [ "Henry O. Jacobs" ]
+,
+  "matin_jafarian": [ "Matin Jafarian" ]
+,
+  "pankaj_jagad": [ "Pankaj Jagad" ]
+,
+  "c_jallut": [ "C. Jallut" ]
+,
+  "mohammad_yaghoub_abdollahzadeh_jamalabadi": [ "Mohammad Yaghoub Abdollahzadeh Jamalabadi" ]
+,
+  "audrey_jardin": [ "Audrey Jardin" ]
+,
+  "h_jardon_kojakhmetov": [ "H. Jardón-Kojakhmetov" ]
+,
+  "jens_jaschke": [ "Jens Jäschke" ]
+,
+  "najmeh_javanmardi": [ "Najmeh Javanmardi", "N. Javanmardi" ]
+,
+  "bayu_jayawardhana": [ "Bayu Jayawardhana", "B. Jayawardhana" ]
+,
+  "dimitri_jeltsema": [ "Dimitri Jeltsema", "D. Jeltsema" ]
+,
+  "feng_ji": [ "Feng Ji" ]
+,
+  "zehua_jia": [ "Zehua Jia" ]
+,
+  "chaolong_jiang": [ "Chaolong Jiang" ]
+,
+  "yaolin_jiang": [ "Yaolin Jiang", "Yao‐Lin Jiang", "Yao-Lin Jiang" ]
+,
+  "tom_z_jiahao": [ "Tom Z. Jiahao" ]
+,
+  "ran_jiao": [ "Ran Jiao" ]
+,
+  "lina_jin": [ "Lina Jin" ]
+,
+  "m_jochum": [ "M. Jochum" ]
+,
+  "jorgen_k_johnsen": [ "Jørgen K. Johnsen", "Jorgen K. Johnsen" ]
+,
+  "c_n_jones": [ "C.N. Jones" ]
+,
+  "steven_de_jongh": [ "Steven de Jongh" ]
+,
+  "long_ju": [ "Long Ju" ]
+,
+  "zhaojie_ju": [ "Zhaojie Ju" ]
+,
+  "sergio_junco": [ "Sergio Junco" ]
+,
+  "moise_mukepe_kahilu": [ "Moïse Mukepe Kahilu" ]
+,
+  "julia_t_kaiser": [ "Julia T. Kaiser" ]
+,
+  "chung_yao_kao": [ "Chung-Yao Kao", "C.-Y. Kao" ]
+,
+  "vadim_kaparin": [ "Vadim Kaparin" ]
+,
+  "bryan_karney": [ "Bryan Karney" ]
+,
+  "attila_karsai": [ "Attila Karsai" ]
+,
+  "fotios_kasolis": [ "Fotios Kasolis" ]
+,
+  "jimmy_kalenga_kaunde_kasongo": [ "Jimmy Kalenga Kaunde Kasongo" ]
+,
+  "t_kato": [ "T. Kato" ]
+,
+  "theodoros_katsaounis": [ "Theodoros Katsaounis" ]
+,
+  "yu_kawano": [ "Yu Kawano" ]
+,
+  "jacques_kadima_kazaku": [ "Jacques Kadima Kazaku" ]
+,
+  "christina_kazantzidou": [ "Christina Kazantzidou" ]
+,
+  "atul_kelkar": [ "Atul Kelkar" ]
+,
+  "wolfgang_kemmetmuller": [ "Wolfgang Kemmetmüller" ]
+,
+  "abbas_khayyer": [ "Abbas Khayyer" ]
+,
+  "madjid_kidouche": [ "Madjid Kidouche" ]
+,
+  "thinh_tri_kieu": [ "Thinh Tri Kieu" ]
+,
+  "alexander_kilian": [ "Alexander Kilian" ]
+,
+  "kyung_eung_kim": [ "Kyung-Eung Kim" ]
+,
+  "philipp_l_kinon": [ "Philipp L. Kinon", "P.L. Kinon" ]
+,
+  "robert_c_kirby": [ "Robert C. Kirby" ]
+,
+  "jonas_kirchhoff": [ "Jonas Kirchhoff" ]
+,
+  "michael_kleeberger": [ "Michael Kleeberger" ]
+,
+  "johan_de_kleer": [ "Johan de Kleer" ]
+,
+  "d_klis": [ "D. Klis" ]
+,
+  "steffi_knorn": [ "Steffi Knorn" ]
+,
+  "luuk_groot_koerkamp": [ "Luuk Groot Koerkamp" ]
+,
+  "chiaki_kojima": [ "Chiaki Kojima" ]
+,
+  "lukas_kolsch": [ "Lukas Kölsch", "Lukas Kolsch" ]
+,
+  "bilal_komati": [ "Bilal Komati" ]
+,
+  "alexander_komech": [ "Alexander Komech", "A. Komech" ]
+,
+  "andrew_komech": [ "Andrew Komech" ]
+,
+  "le_kong": [ "Le Kong" ]
+,
+  "johan_koopman": [ "Johan Koopman" ]
+,
+  "anton_korniienko": [ "Anton Korniienko" ]
+,
+  "krishna_chaitanya_kosaraju": [ "Krishna Chaitanya Kosaraju" ]
+,
+  "paul_kotyczka": [ "Paul Kotyczka", "P. Kotyczka" ]
+,
+  "xenofon_koutsoukos": [ "Xenofon Koutsoukos" ]
+,
+  "stefan_krebs": [ "Stefan Krebs" ]
+,
+  "kaja_krhac": [ "Kaja Krhač", "K. Krhač" ]
+,
+  "gijs_krijnen": [ "Gijs Krijnen" ]
+,
+  "ajay_krishna": [ "Ajay Krishna" ]
+,
+  "thomas_kruse": [ "Thomas Kruse" ]
+,
+  "peter_kuchling": [ "Peter Kuchling" ]
+,
+  "andreas_kugi": [ "Andreas Kugi" ]
+,
+  "t_kugler": [ "T. Kugler" ]
+,
+  "lalitesh_kumar": [ "Lalitesh Kumar" ]
+,
+  "nishant_kumar": [ "Nishant Kumar" ]
+,
+  "t_kunkel": [ "T Kunkel" ]
+,
+  "mikael_kurula": [ "Mikael Kurula" ]
+,
+  "badam_singh_kushvah": [ "Badam Singh Kushvah" ]
+,
+  "irene_kyza": [ "Irene Kyza" ]
+,
+  "mohamed_laabissi": [ "Mohamed Laabissi" ]
+,
+  "hafida_laasri": [ "Hafida Laasri" ]
+,
+  "shaoyong_lai": [ "Shaoyong Lai" ]
+,
+  "francoise_lamnabhi_lagarrigue": [ "Françoise Lamnabhi-Lagarrigue" ]
+,
+  "francois_lamoline": [ "François Lamoline", "Francois Lamoline" ]
+,
+  "manuel_lanchares": [ "Manuel Lanchares" ]
+,
+  "sylvain_lassarre": [ "Sylvain Lassarre" ]
+,
+  "corrado_lattanzio": [ "Corrado Lattanzio" ]
+,
+  "t_k_p_le": [ "T.K.P. Le" ]
+,
+  "jean_patrick_lebacque": [ "Jean-Patrick Lebacque" ]
+,
+  "tristan_lebrun": [ "Tristan Lebrun" ]
+,
+  "d_lee": [ "D. Lee" ]
+,
+  "laurent_lefevre": [ "Laurent Lefèvre", "L. Lefevre", "L. Lefèvre", "Laurent Lefevre", "L. LEFÈVRE", "L. Lefévre", "Laurent LEFEVRE" ]
+,
+  "thomas_leibfried": [ "Thomas Leibfried" ]
+,
+  "arnaud_leleve": [ "Arnaud Lelevé" ]
+,
+  "melvin_leok": [ "Melvin Leok" ]
+,
+  "julien_lequeurre": [ "Julien Lequeurre" ]
+,
+  "yoash_levron": [ "Yoash Levron" ]
+,
+  "sigrid_leyendecker": [ "Sigrid Leyendecker" ]
+,
+  "bowen_li": [ "Bowen Li" ]
+,
+  "haochen_li": [ "Haochen Li" ]
+,
+  "junyi_li": [ "Junyi Li" ]
+,
+  "lei_li": [ "Lei Li" ]
+,
+  "ningbo_li": [ "Ningbo Li" ]
+,
+  "peilun_li": [ "Peilun Li" ]
+,
+  "guo_liang": [ "Guo Liang" ]
+,
+  "xiaofeng_liao": [ "Xiaofeng Liao" ]
+,
+  "yuxin_liao": [ "Yuxin Liao" ]
+,
+  "bjorn_liljegren_sailer": [ "Björn Liljegren-Sailer", "B. Liljegren-Sailer" ]
+,
+  "chang_lin": [ "Chang Lin" ]
+,
+  "hai_lin": [ "Hai Lin" ]
+,
+  "pierre_louis_lions": [ "Pierre-Louis Lions" ]
+,
+  "chang_liu": [ "Chang Liu" ]
+,
+  "chun_liu": [ "Chun Liu" ]
+,
+  "dongmei_liu": [ "Dongmei Liu" ]
+,
+  "fei_liu": [ "Fei Liu" ]
+,
+  "hailin_liu": [ "Hailin Liu" ]
+,
+  "jinguo_liu": [ "Jinguo Liu" ]
+,
+  "liu_liu": [ "Liu Liu" ]
+,
+  "ning_liu": [ "Ning Liu" ]
+,
+  "qihuai_liu": [ "Qihuai Liu" ]
+,
+  "songyuan_liu": [ "Songyuan Liu" ]
+,
+  "xinggui_liu": [ "Xinggui Liu" ]
+,
+  "yanhong_liu": [ "Yanhong Liu" ]
+,
+  "zhitao_liu": [ "Zhitao Liu" ]
+,
+  "xinyu_li": [ "Xinyu Li" ]
+,
+  "yanjun_li": [ "Yanjun Li" ]
+,
+  "yanpeng_li": [ "Yanpeng Li" ]
+,
+  "zhongliang_li": [ "Zhongliang Li" ]
+,
+  "zi_xue_li": [ "Zi-Xue Li" ]
+,
+  "sam_livingstone": [ "Sam Livingstone" ]
+,
+  "boris_lohmann": [ "Boris Lohmann" ]
+,
+  "markus_lohmayer": [ "Markus Lohmayer" ]
+,
+  "warody_lombardi": [ "Warody Lombardi" ]
+,
+  "yu_long": [ "Yu Long" ]
+,
+  "gabriel_a_d_lopes": [ "Gabriel A. D. Lopes", "Gabriel A.D. Lopes", "G.A.D. Lopes" ]
+,
+  "n_lopes": [ "N. Lopes" ]
+,
+  "k_lopez_rodriguez": [ "K. Lopez-Rodriguez" ]
+,
+  "jan_lorenz": [ "Jan Lorenz" ]
+,
+  "michael_di_loreto": [ "Michael Di Loreto", "Michael Di-Loreto" ]
+,
+  "d_lozienko": [ "D. Lozienko" ]
+,
+  "yufeng_lu": [ "Yufeng Lu" ]
+,
+  "christian_lubich": [ "Christian Lubich" ]
+,
+  "chengxing_lv": [ "Chengxing Lv" ]
+,
+  "jingshuo_lv": [ "Jingshuo Lv" ]
+,
+  "mohamed_a_mabrok": [ "Mohamed A. Mabrok" ]
+,
+  "juan_e_machado": [ "Juan E. Machado" ]
+,
+  "alessandro_macchelli": [ "Alessandro Macchelli", "A. Macchelli" ]
+,
+  "milka_c_i_madahana": [ "Milka C. I. Madahana", "Milka C.I. Madahana" ]
+,
+  "liping_ma": [ "Liping Ma" ]
+,
+  "longhua_ma": [ "Longhua Ma" ]
+,
+  "yan_ma": [ "Yan Ma" ]
+,
+  "miguel_magos": [ "Miguel Magos", "M. Magos" ]
+,
+  "robert_mahony": [ "Robert Mahony" ]
+,
+  "albertus_johannes_malan": [ "Albertus Johannes Malan", "Albertus J. Malan" ]
+,
+  "j_c_mayo_maldonado": [ "J.C. Mayo Maldonado" ]
+,
+  "alaeddin_malek": [ "Alaeddin Malek" ]
+,
+  "alberto_mameli": [ "Alberto Mameli" ]
+,
+  "robert_i_mclachlan": [ "Robert I. McLachlan" ]
+,
+  "tobias_malzer": [ "Tobias Malzer" ]
+,
+  "nicole_marheineke": [ "Nicole Marheineke", "N. Marheineke" ]
+,
+  "jerrold_e_marsden": [ "Jerrold E. Marsden" ]
+,
+  "bernhard_maschke": [ "Bernhard Maschke", "B. Maschke", "B.M. Maschke", "Bernhard MASCHKE", "B. M. Maschke" ]
+,
+  "juan_c_martinez": [ "Juan C. Martinez" ]
+,
+  "stefano_massaroli": [ "Stefano Massaroli" ]
+,
+  "k_masutani": [ "K. Masutani" ]
+,
+  "ion_matei": [ "Ion Matei" ]
+,
+  "francisco_m_marquez": [ "Francisco M. Marquez" ]
+,
+  "wilfrid_marquis_favre": [ "Wilfrid Marquis-Favre" ]
+,
+  "ichiro_maruta": [ "Ichiro Maruta", "I. Maruta" ]
 ,
   "denis_matignon": [ "Denis Matignon", "D. Matignon" ]
 ,
+  "yuki_matsumoto": [ "Yuki Matsumoto" ]
+,
+  "marios_mattheakis": [ "Marios Mattheakis" ]
+,
+  "andrea_mattioni": [ "Andrea Mattioni" ]
+,
+  "mattia_mattioni": [ "Mattia Mattioni" ]
+,
+  "daniel_mayer": [ "Daniel Mayer" ]
+,
   "silviu_medianu": [ "Silviu Medianu", "S. Medianu" ]
+,
+  "c_mehl": [ "C. Mehl" ]
 ,
   "volker_mehrmann": [ "Volker Mehrmann", "V. Mehrmann" ]
 ,
-  "valérie_pommierbudinger": [ "Valérie Pommier-Budinger", "V. Pommier-Budinger" ]
+  "wang_mei": [ "Wang Mei" ]
 ,
-  "hector_ramirez": [ "Hector Ramirez" ]
+  "claudio_melchiorri": [ "Claudio Melchiorri", "C. Melchiorri" ]
+,
+  "max_mendel": [ "Max Mendel" ]
+,
+  "eduardo_mendes": [ "Eduardo Mendes" ]
+,
+  "julio_a_mendoza_mendoza": [ "Julio A. Mendoza‐Mendoza" ]
+,
+  "xiangxiang_meng": [ "Xiangxiang Meng" ]
+,
+  "jochen_merker": [ "Jochen Merker" ]
+,
+  "stephen_metcalfe": [ "Stephen Metcalfe" ]
+,
+  "thomas_meurer": [ "Thomas Meurer" ]
+,
+  "annika_meyer": [ "Annika Meyer" ]
+,
+  "hannah_michalska": [ "Hannah Michalska" ]
+,
+  "richard_h_middleton": [ "Richard H. Middleton" ]
+,
+  "andrii_mironchenko": [ "Andrii Mironchenko" ]
+,
+  "sarthak_misra": [ "Sarthak Misra" ]
+,
+  "p_c_moan": [ "P.C. Moan" ]
+,
+  "klas_modin": [ "Klas Modin" ]
+,
+  "mamdouh_mohamed": [ "Mamdouh Mohamed" ]
+,
+  "jan_mohring": [ "Jan Mohring" ]
+,
+  "luc_molinet": [ "Luc Molinet" ]
+,
+  "salvatore_monaco": [ "Salvatore Monaco" ]
+,
+  "marius_monch": [ "Marius Mönch" ]
+,
+  "marc_heinrich_monells": [ "Marc Heinrich Monells" ]
+,
+  "nima_monshizadeh": [ "Nima Monshizadeh" ]
+,
+  "pooya_monshizadeh": [ "Pooya Monshizadeh" ]
+,
+  "florian_monteghetti": [ "Florian Monteghetti" ]
+,
+  "antonello_monti": [ "Antonello Monti" ]
+,
+  "oscar_danilo_montoya": [ "Oscar Danilo Montoya" ]
+,
+  "luis_a_mora": [ "Luis A. Mora", "Luis A Mora" ]
+,
+  "mauricio_andres_varela_morales": [ "Mauricio Andrés Varela Morales" ]
+,
+  "riccardo_morandin": [ "Riccardo Morandin" ]
+,
+  "alessio_moreschini": [ "Alessio Moreschini" ]
+,
+  "kirsten_morris": [ "Kirsten Morris", "Kirsten A. Morris" ]
+,
+  "riccardo_morselli": [ "Riccardo Morselli", "R. Morselli" ]
+,
+  "tim_moser": [ "Tim Moser" ]
+,
+  "omar_mouhib": [ "Omar Mouhib" ]
+,
+  "redha_moulla": [ "Redha Moulla", "R. Moulla" ]
+,
+  "felicitas_mueller": [ "Felicitas Mueller" ]
+,
+  "martin_mujica": [ "Martin Mujica" ]
+,
+  "charles_muller": [ "Charles Muller" ]
+,
+  "remy_muller": [ "Rémy Müller" ]
+,
+  "pongsiri_mungporn": [ "Pongsiri Mungporn" ]
+,
+  "mauricio_munoz_arias": [ "Mauricio Munoz-Arias", "Mauricio Muñoz-Arias", "M. Muñoz-Arias" ]
+,
+  "hans_z_munthe_kaas": [ "Hans Z. Munthe-Kaas" ]
+,
+  "riccardo_muradore": [ "Riccardo Muradore" ]
+,
+  "sai_sowmya_nagam": [ "Sai Sowmya Nagam" ]
+,
+  "ken_nagashima": [ "Ken Nagashima" ]
+,
+  "subramanya_p_nageshrao": [ "Subramanya P. Nageshrao", "S.P. Nageshrao" ]
+,
+  "judy_najnudel": [ "Judy Najnudel" ]
+,
+  "david_naso": [ "David Naso", "D. Naso" ]
+,
+  "l_di_natale": [ "L. Di Natale" ]
+,
+  "david_navarro": [ "David NAVARRO" ]
+,
+  "nedialko_nedialkov": [ "Nedialko Nedialkov" ]
+,
+  "d_v_a_nguyen": [ "D.V.A. Nguyen" ]
+,
+  "ngoc_cuong_nguyen": [ "Ngoc-Cuong Nguyen", "N.C. Nguyen" ]
+,
+  "thanh_sang_nguyen": [ "Thanh Sang Nguyen", "T. Sang Nguyen", "T.S. Nguyen" ]
+,
+  "jonas_nicodemus": [ "Jonas Nicodemus" ]
+,
+  "gou_nishida": [ "Gou Nishida", "G. Nishida" ]
+,
+  "dorothee_normand_cyrot": [ "Dorothée Normand-Cyrot", "Dorothee Normand-Cyrot" ]
+,
+  "remy_nouailletas": [ "Rémy Nouailletas", "R. NOUAILLETAS" ]
+,
+  "ignacio_fernandez_nunez": [ "Ignacio Fernandez Núnez" ]
+,
+  "emmanuel_nuno": [ "Emmanuel Nuño" ]
+,
+  "otis_o_t_c_nyandoro": [ "Otis T.C. Nyandoro", "Otis T. C. Nyandoro", "Otis O.T. Nyandoro" ]
+,
+  "ian_o_connor": [ "Ian O'Connor" ]
+,
+  "yuki_okura": [ "Yuki Okura" ]
+,
+  "simona_olmi": [ "Simona Olmi" ]
+,
+  "romeo_ortega": [ "Romeo Ortega", "R. Ortega" ]
+,
+  "brynjulf_owren": [ "Brynjulf Owren" ]
+,
+  "david_h_owens": [ "David H. Owens" ]
+,
+  "g_p_padilla": [ "G. P. Padilla" ]
+,
+  "bikash_c_pal": [ "Bikash C. Pal" ]
+,
+  "a_palha": [ "A. Palha" ]
+,
+  "ivo_palu": [ "Ivo Palu" ]
+,
+  "le_pan": [ "Le Pan" ]
+,
+  "heiko_k_f_panzer": [ "Heiko K. F. Panzer", "Heiko Panzer" ]
+,
+  "andrea_paoli": [ "Andrea Paoli" ]
+,
+  "george_j_pappas": [ "George J. Pappas" ]
+,
+  "j_c_flores_paredes": [ "J. C. Flores Paredes" ]
+,
+  "jinkyoo_park": [ "Jinkyoo Park" ]
+,
+  "ramkrishna_pasumarthy": [ "Ramkrishna Pasumarthy", "R. Pasumarthy" ]
+,
+  "mayuresh_patil": [ "Mayuresh Patil" ]
+,
+  "lassi_paunonen": [ "Lassi Paunonen" ]
+,
+  "gabriel_payen": [ "Gabriel Payen" ]
+,
+  "haijun_peng": [ "Haijun Peng" ]
+,
+  "jaime_peraire": [ "Jaime Peraire", "J. Peraire" ]
+,
+  "paris_perdikaris": [ "Paris Perdikaris" ]
+,
+  "roberto_pereira_arroyo": [ "Roberto Pereira-Arroyo" ]
+,
+  "tristan_perez": [ "Tristan Perez" ]
+,
+  "arthur_perodou": [ "Arthur Perodou" ]
+,
+  "yves_perriard": [ "Yves Perriard" ]
+,
+  "richard_perryman": [ "Richard Perryman" ]
+,
+  "luca_di_persio": [ "Luca Di Persio" ]
+,
+  "claudio_de_persis": [ "Claudio De Persis", "C. De Persis" ]
+,
+  "andres_peters": [ "Andrés Peters" ]
+,
+  "k_j_petersen": [ "K. J. Petersen" ]
+,
+  "martin_pfeifer": [ "Martin Pfeifer" ]
+,
+  "silja_pfeiffer": [ "Silja Pfeiffer" ]
+,
+  "thanh_hung_pham": [ "Thanh Hung Pham", "T.H. Pham", "T. Hung Pham", "T.T.H. Phan" ]
+,
+  "friedrich_m_philipp": [ "Friedrich M. Philipp", "Friedrich Philipp" ]
+,
+  "n_philippi": [ "N Philippi" ]
+,
+  "hayden_phillips_brenes": [ "Hayden Phillips-Brenes" ]
+,
+  "rainer_h_picard": [ "Rainer H. Picard" ]
+,
+  "martine_picq": [ "Martine Picq" ]
+,
+  "e_y_piedrahita_echavarria": [ "E.Y. Piedrahita-Echavarria" ]
+,
+  "serge_pierfederici": [ "Serge Pierfederici" ]
+,
+  "h_piet_lahanier": [ "H. Piet-Lahanier" ]
+,
+  "l_pietrac": [ "L. Piétrac" ]
+,
+  "i_pitault": [ "I. Pitault" ]
+,
+  "michael_poli": [ "Michael Poli" ]
+,
+  "monika_polner": [ "Mónika Polner" ]
+,
+  "rostyslav_v_polyuga": [ "Rostyslav V. Polyuga", "R.V. Polyuga" ]
+,
+  "valerie_pommier_budinger": [ "Valérie Pommier-Budinger", "V. Pommier-Budinger" ]
+,
+  "cristobal_ponce": [ "Cristobal Ponce" ]
+,
+  "jerome_pousin": [ "Jérôme Pousin" ]
+,
+  "charles_poussot_vassal": [ "Charles Poussot-Vassal" ]
+,
+  "vinay_prasad": [ "Vinay Prasad" ]
+,
+  "till_preuster": [ "Till Preuster" ]
+,
+  "gordei_pribotkin": [ "Gordei Pribõtkin" ]
+,
+  "w_a_prins": [ "W.A. Prins" ]
+,
+  "ionela_prodan": [ "Ionela Prodan", "I. Prodan" ]
+,
+  "pavlos_protopapas": [ "Pavlos Protopapas" ]
+,
+  "john_d_pryce": [ "John D. Pryce" ]
+,
+  "dunstano_del_puerto_flores": [ "Dunstano del Puerto-Flores" ]
+,
+  "roland_pulch": [ "Roland Pulch" ]
+,
+  "kunal_puri": [ "Kunal Puri" ]
+,
+  "anton_pyrkin": [ "Anton Pyrkin" ]
+,
+  "xu_qian": [ "Xu Qian" ]
+,
+  "lei_qiao": [ "Lei Qiao" ]
+,
+  "liang_qiao": [ "Liang Qiao" ]
+,
+  "kanty_rabenorosoa": [ "Kanty Rabenorosoa" ]
+,
+  "mathis_raibaud": [ "Mathis Raibaud" ]
+,
+  "jorg_raisch": [ "Jörg Raisch" ]
+,
+  "prabhu_ramachandran": [ "Prabhu Ramachandran" ]
+,
+  "hector_ramirez": [ "Hector Ramirez", "H. Ramirez", "Héctor Ramírez", "H. Ramírez", "Héctor Ramirez", "Hector Ramírez" ]
+,
+  "victor_m_ramirez_rivera": [ "Victor M. Ramirez-Rivera" ]
+,
+  "hubert_rams": [ "Hubert Rams" ]
+,
+  "p_rapisarda": [ "P. Rapisarda" ]
+,
+  "ramy_rashad": [ "Ramy Rashad" ]
+,
+  "lukas_rausche": [ "Lukas Rausche" ]
+,
+  "tanneguy_redarce": [ "Tanneguy Redarce" ]
+,
+  "jeanne_redaud": [ "Jeanne Redaud" ]
+,
+  "johann_reger": [ "Johann Reger" ]
+,
+  "rob_reilink": [ "Rob Reilink" ]
+,
+  "markus_rein": [ "Markus Rein" ]
 ,
   "timo_reis": [ "Timo Reis", "T. Reis" ]
 ,
-  "arjan_van_der_schaft": [ "Arjan van der Schaft", "A. van der Schaft", "A. J. van der Schaft", "Arjan J. van der Schaft" ]
+  "zhanmei_ren": [ "Zhanmei Ren" ]
+,
+  "christopher_renton": [ "Christopher Renton" ]
+,
+  "johannes_rettberg": [ "Johannes Rettberg" ]
+,
+  "rodolfo_reyes_baez": [ "Rodolfo Reyes-Báez", "Rodolfo Reyes-Baez", "Rodolfo Reyes‐Báez" ]
+,
+  "hanz_richter": [ "Hanz Richter" ]
+,
+  "karl_rieger": [ "Karl Rieger" ]
+,
+  "renato_rimolo_donadio": [ "Renato Rimolo-Donadio" ]
+,
+  "thomas_risse": [ "Thomas Risse" ]
+,
+  "gianluca_rizzello": [ "Gianluca Rizzello", "gianluca Rizzello", "G. Rizzello" ]
+,
+  "jamie_o_roberts": [ "Jamie O. Roberts" ]
+,
+  "stephen_j_roberts": [ "Stephen J. Roberts" ]
+,
+  "h_rodriguez_cortes": [ "H. Rodríguez-Cortés" ]
+,
+  "hector_vargas_rodriguez": [ "Héctor Vargas-Rodríguez", "Héctor Vargas Rodriguez" ]
+,
+  "alejandro_jose_rojas": [ "Alejandro Jose Rojas", "Alejandro J. Rojas" ]
+,
+  "m_roman": [ "M. Roman" ]
+,
+  "jose_guadalupe_romero": [ "Jose Guadalupe Romero" ]
+,
+  "sander_roodink": [ "Sander Roodink" ]
+,
+  "alireza_roosta": [ "Alireza Roosta" ]
+,
+  "m_r_rosa": [ "M. R. Rosa" ]
+,
+  "emmanuelle_rouhaud": [ "Emmanuelle Rouhaud" ]
+,
+  "david_roze": [ "David Roze" ]
+,
+  "jose_de_jesus_rubio": [ "Jose de Jesus Rubio" ]
+,
+  "michael_ruderman": [ "Michael Ruderman" ]
+,
+  "barbara_rudiger": [ "Barbara Rüdiger" ]
+,
+  "johannes_ruf": [ "Johannes Ruf" ]
+,
+  "fabio_ruggiero": [ "Fabio Ruggiero" ]
+,
+  "thordur_runolfsson": [ "Thordur Runolfsson" ]
+,
+  "mutaz_ryalat": [ "Mutaz Ryalat" ]
+,
+  "leonid_ryvkin": [ "Leonid Ryvkin" ]
+,
+  "l_sabattini": [ "L. Sabattini" ]
+,
+  "masami_saeki": [ "Masami Saeki" ]
+,
+  "satoru_sakai": [ "Satoru Sakai" ]
+,
+  "naoki_sakata": [ "Naoki Sakata", "N. Sakata" ]
+,
+  "v_salnikov": [ "V. Salnikov" ]
+,
+  "ravi_samtaney": [ "Ravi Samtaney" ]
+,
+  "manuel_a_sanchez": [ "Manuel A. Sánchez", "M.A. Sánchez" ]
+,
+  "santiago_sanchez_escalonilla": [ "Santiago Sanchez-Escalonilla" ]
+,
+  "henrik_sandberg": [ "Henrik Sandberg" ]
+,
+  "a_sandovici": [ "A. Sandovici" ]
+,
+  "fernando_sanhueza": [ "Fernando Sanhueza" ]
+,
+  "hideki_sano": [ "Hideki Sano" ]
+,
+  "valerie_dos_santos": [ "Valérie Dos Santos" ]
+,
+  "arijit_sarkar": [ "Arijit Sarkar" ]
+,
+  "ioannis_sarras": [ "Ioannis Sarras" ]
+,
+  "kazuhiro_sato": [ "Kazuhiro Sato" ]
+,
+  "satoshi_satoh": [ "Satoshi Satoh" ]
+,
+  "kohei_sawada": [ "Kohei Sawada" ]
+,
+  "oliver_sawodny": [ "Oliver Sawodny" ]
+,
+  "mohammed_e_sayed": [ "Mohammed E. Sayed" ]
+,
+  "daniel_sbarbaro": [ "Daniel Sbarbaro" ]
+,
+  "arjan_van_der_schaft": [ "Arjan J. van der Schaft", "A. van der Schaft", "A. J. van der Schaft", "Arjan van der Schaft", "A.J. van der Schaft", "Arjan J van der Schaft", "Arjan Van der Schaft", "A. J. Schaft", "A.J. Van der Schaft", "A. J. Van Der Schaft", "Arjan J. van der Schaft" ]
+,
+  "kevin_schafers": [ "Kevin Schäfers" ]
+,
+  "manuel_schaller": [ "Manuel Schaller" ]
+,
+  "christian_schenk": [ "Christian Schenk" ]
+,
+  "jacquelien_m_a_scherpen": [ "Jacquelien M. A. Scherpen", "Jacquelien M.A. Scherpen", "Jacquelien Scherpen", "J. M. A. Scherpen", "J.M.A. Scherpen", "J.M.A. Scherp" ]
+,
+  "tobias_m_scheuermann": [ "Tobias M. Scheuermann" ]
+,
+  "johannes_schiffer": [ "Johannes Schiffer" ]
+,
+  "wils_h_a_schilders": [ "Wil H. A. Schilders", "W.H.A. Schilders", "Wil Schilders" ]
+,
+  "kurt_schlacher": [ "Kurt Schlacher", "K. Schlacher" ]
+,
+  "jochen_schmid": [ "Jochen Schmid" ]
+,
+  "martin_schmidt": [ "Martin Schmidt" ]
+,
+  "markus_schoberl": [ "Markus Schöberl", "M. Schöberl", "Markus Schoberl" ]
+,
+  "eckehard_scholl": [ "Eckehard Schöll" ]
+,
+  "lena_scholz": [ "Lena Scholz" ]
+,
+  "frederic_p_schuller": [ "Frederic P. Schuller" ]
+,
+  "philipp_schulze": [ "Philipp Schulze", "P. Schulze" ]
+,
+  "dennis_schumann": [ "Dennis Schumann" ]
+,
+  "paul_schwerdtner": [ "Paul Schwerdtner" ]
+,
+  "gerard_scorletti": [ "Gerard Scorletti" ]
+,
+  "cristian_secchi": [ "Cristian Secchi", "C. Secchi" ]
+,
+  "stefan_seelecke": [ "Stefan Seelecke", "S. Seelecke" ]
+,
+  "jacob_seidman": [ "Jacob Seidman" ]
+,
+  "anass_serhani": [ "Anass Serhani" ]
+,
+  "federico_m_serra": [ "Federico M. Serra", "Federico Serra" ]
+,
+  "fernando_e_serrano": [ "Fernando E. Serrano" ]
+,
+  "marko_seslija": [ "Marko Šešlija", "Marko Seslija" ]
+,
+  "tevfik_sezi": [ "Tevfik Sezi" ]
+,
+  "mohammad_shafiee": [ "Mohammad Shafiee" ]
+,
+  "huiyu_shang": [ "Huiyu Shang" ]
+,
+  "jiang_shao": [ "Jiang Shao" ]
+,
+  "harsh_sharma": [ "Harsh Sharma" ]
+,
+  "punit_sharma": [ "Punit Sharma" ]
 ,
   "vsevolod_shashkov": [ "Vsevolod Shashkov", "V. Shashkov" ]
 ,
-  "k_schlacher": [ "K. Schlacher" ]
+  "guoyou_shi": [ "Guoyou Shi" ]
 ,
-  "m_schöberl": [ "M. Schöberl" ]
+  "john_z_shi": [ "John Z. Shi" ]
+,
+  "ryotaro_shima": [ "Ryotaro Shima" ]
+,
+  "yuma_shimizu": [ "Yuma Shimizu" ]
+,
+  "s_n_sidek": [ "S N Sidek" ]
+,
+  "fabrice_silva": [ "Fabrice Silva" ]
+,
+  "luis_miguel_silveira": [ "Luis Miguel Silveira" ]
+,
+  "joel_d_simard": [ "Joel D. Simard" ]
+,
+  "pramod_sistla": [ "Pramod Sistla" ]
+,
+  "andreas_siuka": [ "Andreas Siuka" ]
+,
+  "nathanael_skrepek": [ "Nathanael Skrepek" ]
+,
+  "riccardo_sneep": [ "Riccardo Sneep" ]
+,
+  "christoforos_somarakis": [ "Christoforos Somarakis" ]
+,
+  "david_sondak": [ "David Sondak" ]
+,
+  "pol_jane_soneira": [ "Pol Jané Soneira" ]
+,
+  "ting_song": [ "Ting Song" ]
+,
+  "zihao_song": [ "Zihao Song" ]
+,
+  "sumit_sood": [ "Sumit Sood" ]
+,
+  "alex_dos_reis_de_souza": [ "Alex Dos Reis De Souza" ]
+,
+  "mario_spirito": [ "Mario Spirito" ]
+,
+  "olivier_sprangers": [ "Olivier Sprangers" ]
+,
+  "jason_stanley": [ "Jason Stanley" ]
+,
+  "marcio_stefanello": [ "Marcio Stefanello" ]
+,
+  "tjerk_w_stegink": [ "Tjerk W. Stegink", "Tjerk Stegink", "T. W. Stegink", "T.W. Stegink" ]
+,
+  "maarten_steinbuch": [ "Maarten Steinbuch", "M. Steinbuch" ]
+,
+  "adam_a_stokes": [ "Adam A. Stokes" ]
+,
+  "milan_stork": [ "Milan Stork" ]
+,
+  "stefano_stramigioli": [ "Stefano Stramigioli", "S. Stramigioli", "S. Straimgioli" ]
+,
+  "felix_strehle": [ "Felix Strehle" ]
+,
+  "tatjana_stykel": [ "Tatjana Stykel" ]
+,
+  "hongye_su": [ "Hongye Su" ]
+,
+  "miguel_s_suarez_castanon": [ "Miguel S. Suarez‐Castanon" ]
+,
+  "toshiharu_sugie": [ "Toshiharu Sugie" ]
+,
+  "jianjun_sun": [ "Jianjun Sun" ]
 ,
   "yajuan_sun": [ "Yajuan Sun" ]
 ,
-  "viswanath_talasila": [ "Viswanath Talasila" ]
+  "b_svetozarevic": [ "B. Svetozarevic" ]
+,
+  "elham_tajik": [ "Elham Tajik" ]
+,
+  "kentaro_takagi": [ "Kentaro Takagi" ]
+,
+  "takumu_takagi": [ "Takumu Takagi" ]
+,
+  "tomoya_takeuchi": [ "Tomoya Takeuchi" ]
+,
+  "viswanath_talasila": [ "Viswanath Talasila", "V. Talasila" ]
+,
+  "chee_keong_tan": [ "Chee Keong Tan", "C.K. Tan" ]
+,
+  "kaiyuan_tan": [ "Kaiyuan Tan" ]
 ,
   "wensheng_tang": [ "Wensheng Tang" ]
 ,
-  "ngoc_minh_trang_vu": [ "Ngoc Minh Trang Vu" ]
+  "yifa_tang": [ "Yifa Tang" ]
 ,
-  "paweł_urbański": [ "Paweł Urbański", "P. Urbanski" ]
+  "yingjie_tang": [ "Yingjie Tang" ]
+,
+  "mitsuru_taniguchi": [ "Mitsuru Taniguchi" ]
+,
+  "juan_cristobal_alcaraz_tapia": [ "Juan Cristobal Alcaraz Tapia" ]
+,
+  "cristina_tarín": [ "Cristina Tarín" ]
+,
+  "akihiro_tatsuoka": [ "Akihiro Tatsuoka" ]
+,
+  "rafael_tavares": [ "Rafael Tavares" ]
+,
+  "joshua_a_taylor": [ "Joshua A. Taylor" ]
+,
+  "dereje_tamiru_tefera": [ "Dereje Tamiru Tefera" ]
+,
+  "vaishnavi_thesma": [ "Vaishnavi Thesma" ]
+,
+  "alexis_thibault": [ "Alexis Thibault" ]
+,
+  "tobias_thoma": [ "Tobias Thoma", "T. Thoma" ]
+,
+  "daniel_thomasset": [ "Daniel Thomasset" ]
+,
+  "phatiphat_thounthong": [ "Phatiphat Thounthong" ]
+,
+  "zhen_tian": [ "Zhen Tian" ]
+,
+  "caren_tischendorf": [ "Caren Tischendorf" ]
+,
+  "jesus_pablo_toledo_zucco": [ "Jesus-Pablo Toledo-Zucco", "Jesús Toledo", "Jesus Toledo", "Jesus Pablo Toledo Zucco" ]
+,
+  "stefania_tomasiello": [ "Stefania Tomasiello" ]
+,
+  "maris_tonso": [ "Maris Tõnso" ]
+,
+  "antoine_tordeux": [ "Antoine Tordeux" ]
+,
+  "javier_a_torres": [ "Javier A. Torres" ]
+,
+  "claudia_totzeck": [ "Claudia Totzeck" ]
+,
+  "matthieu_touron": [ "Matthieu Touron" ]
+,
+  "g_ferrari_trecate": [ "G. Ferrari Trecate" ]
+,
+  "vincent_trenchant": [ "Vincent Trenchant", "V. Trenchant" ]
+,
+  "anne_sophie_treton": [ "Anne-Sophie Treton" ]
+,
+  "megha_v_trivedi": [ "Megha V. Trivedi" ]
+,
+  "cesare_tronci": [ "Cesare Tronci" ]
+,
+  "sascha_trostorff": [ "Sascha Trostorff" ]
+,
+  "cesar_leonardo_trujillo": [ "César Leonardo Trujillo" ]
+,
+  "marius_tucsnak": [ "Marius Tucsnak" ]
+,
+  "athanasios_e_tzavaras": [ "Athanasios E. Tzavaras" ]
+,
+  "baris_e_ugurcan": [ "Baris E Ugurcan", "Baris Ugurcan" ]
+,
+  "benjamin_unger": [ "Benjamin Unger", "B. Unger" ]
+,
+  "paweł_urbanski": [ "Paweł Urbański", "P. Urbanski" ]
+,
+  "sundarapandian_vaidyanathan": [ "Sundarapandian Vaidyanathan" ]
+,
+  "b_vainberg": [ "B. Vainberg" ]
+,
+  "a_i_vakis": [ "A.I. Vakis" ]
+,
+  "claire_valentin": [ "Claire Valentin", "C. Valentin" ]
+,
+  "francis_valentinis": [ "Francis Valentinis" ]
+,
+  "joris_vankerschaver": [ "Joris Vankerschaver" ]
+,
+  "francisco_vargas": [ "Francisco Vargas" ]
+,
+  "xavier_vasseur": [ "Xavier Vasseur" ]
+,
+  "jaap_j_w_van_der_vegt": [ "Jaap J. W. van der Vegt", "J.J.W. van der Vegt", "J J W van der Vegt", "J.J.W. Van der Vegt" ]
+,
+  "javad_mohammadpour_velni": [ "Javad Mohammadpour Velni" ]
+,
+  "aneesh_venkatraman": [ "Aneesh Venkatraman", "A. Venkatraman" ]
+,
+  "olivier_verdier": [ "Olivier Verdier" ]
+,
+  "michel_verhaegen": [ "Michel Verhaegen" ]
+,
+  "gabriel_verrier": [ "Gabriel Verrier" ]
+,
+  "enrique_j_vidal": [ "Enrique J. Vidal" ]
+,
+  "jonathan_vieth": [ "Jonathan Vieth" ]
+,
+  "j_l_villa": [ "J. L. Villa" ]
+,
+  "ignacio_villalobos": [ "Ignacio Villalobos" ]
+,
+  "javier_andres_villegas": [ "Javier Andres Villegas" ]
+,
+  "benjamin_vincent": [ "Benjamin Vincent" ]
+,
+  "antonio_visioli": [ "Antonio Visioli" ]
+, 
+  "matthias_voigt": [ "Matthias Voigt" ]
+,
+  "ewoud_vos": [ "Ewoud Vos" ]
+,
+  "thomas_voss": [ "Thomas Voß", "T. Voss", "T. Voß" ]
+,
+  "ngoc_minh_trang_vu": [ "Ngoc Minh Trang Vu", "N.M. Trang Vu", "N.M. Trang VU", "Trang Vu", "Ngoc Minh Trang VU", "N.M.T Vu", "N.M.T. Vu" ]
+,
+  "pierre_vuillemin": [ "Pierre Vuillemin" ]
+,
+  "arne_wahrburg": [ "Arne Wahrburg" ]
+,
+  "cheng_wang": [ "Cheng Wang" ]
+,
+  "danwei_wang": [ "Danwei Wang" ]
+,
+  "duo_wang": [ "Duo Wang" ]
+,
+  "fei_wang": [ "Fei Wang" ]
+,
+  "jiaming_wang": [ "Jiaming Wang" ]
+,
+  "junmin_wang": [ "Junmin Wang" ]
+,
+  "li_wang": [ "Li Wang" ]
+,
+  "mei_wang": [ "Mei Wang", "M. Wang" ]
+,
+  "wei_wang": [ "Wei Wang" ]
+,
+  "yiwei_wang": [ "Yiwei Wang" ]
+,
+  "yu_wang": [ "Yu Wang" ]
+,
+  "yuexuan_wang": [ "Yuexuan Wang" ]
+,
+  "yushun_wang": [ "Yushun Wang" ]
+,
+  "zichen_wang": [ "Zichen Wang" ]
+,
+  "gerhard_wanner": [ "Gerhard Wanner" ]
+,
+  "alexander_warsewa": [ "Alexander Warsewa" ]
+,
+  "martin_wassink": [ "Martin Wassink" ]
+,
+  "bruce_watson": [ "Bruce Watson" ]
+,
+  "marcus_waurick": [ "Marcus Waurick" ]
+,
+  "sven_ake_wegner": [ "Sven-Ake Wegner", "S.-A. Wegner" ]
+,
+  "caisheng_wei": [ "Caisheng Wei" ]
+,
+  "jieqiang_wei": [ "Jieqiang Wei", "J. Wei" ]
+,
+  "jumei_wei": [ "Jumei Wei" ]
+,
+  "wei_wei": [ "Wei Wei" ]
+,
+  "y_wei": [ "Y. Wei" ]
+,
+  "fushuan_wen": [ "Fushuan Wen" ]
+,
+  "marc_wijnand": [ "Marc Wijnand" ]
+,
+  "matt_wilkins": [ "Matt Wilkins" ]
+,
+  "joseph_j_winkin": [ "Joseph J. Winkin", "Joseph Winkin" ]
+,
+  "fabian_wirth": [ "Fabian Wirth" ]
+,
+  "dominik_wittwar": [ "Dominik Wittwar" ]
+,
+  "m_wojtylak": [ "M. Wojtylak" ]
+,
+  "thomas_wolf": [ "Thomas Wolf" ]
+,
+  "craig_a_woolsey": [ "Craig A. Woolsey", "Craig Woolsey" ]
+,
+  "karl_worthmann": [ "Karl Worthmann" ]
+,
+  "nathan_van_de_wouw": [ "Nathan van de Wouw", "N. van de Wouw" ]
+,
+  "chengshuai_wu": [ "Chengshuai Wu" ]
+,
+  "dongjun_wu": [ "Dongjun Wu" ]
+,
+  "heng_wu": [ "Heng Wu" ]
+,
+  "min_wu": [ "Min Wu" ]
+,
+  "yongxin_wu": [ "Yongxin Wu", "Y. Wu" ]
+,
+  "xiaofeng_wu": [ "Xiaofeng Wu" ]
+,
+  "tilmann_wurzbacher": [ "Tilmann Wurzbacher" ]
+,
+  "christian_wyss": [ "Christian Wyss" ]
+,
+  "ji_xiang": [ "Ji Xiang" ]
 ,
   "hongguo_xu": [ "Hongguo Xu" ]
 ,
-  "w_zhou": [ "W. Zhou" ]
+  "kangli_xu": [ "Kangli Xu", "Kang-Li Xu", "Kang‐Li Xu" ]
 ,
-  "hans_zwart": [ "Hans Zwart" ]
+  "liang_xu": [ "Liang Xu" ]
+,
+  "qingqing_xu": [ "Qingqing Xu" ]
+,
+  "song_xu": [ "Song Xu" ]
+,
+  "yan_xu": [ "Yan Xu" ]
+,
+  "yanchuan_xu": [ "Yanchuan Xu" ]
+,
+  "zishi_xu": [ "Zishi Xu" ]
+,
+  "dong_xue": [ "Dong Xue" ]
+,
+  "yaosuo_xue": [ "Yaosuo Xue" ]
+,
+  "arun_kumar_yadav": [ "Arun Kumar Yadav" ]
+,
+  "mohammed_yaghi": [ "Mohammed Yaghi" ]
+,
+  "abolfazl_yaghmaei": [ "Abolfazl Yaghmaei" ]
+,
+  "masaki_yamakita": [ "Masaki Yamakita", "M. Yamakita" ]
+,
+  "atsushi_yamashita": [ "Atsushi Yamashita" ]
+,
+  "mohammad_javad_yazdanpanah": [ "Mohammad Javad Yazdanpanah" ]
+,
+  "ping_yang": [ "Ping Yang" ]
+,
+  "qing_yang": [ "Qing Yang" ]
+,
+  "zeng_yang": [ "Zeng Yang" ]
+,
+  "qingkai_yang": [ "Qingkai Yang" ]
+,
+  "mohammad_javad_yazdanpanah": [ "Mohammad Javad Yazdanpanah", "M.J. Yazdanpanah", "Mohammad Javad Yazdanpanah" ]
+,
+  "zheng_yin": [ "Zheng Yin" ]
+,
+  "b_erik_ydstie": [ "B. Erik Ydstie" ]
+,
+  "luis_j_yebra": [ "Luis J. Yebra" ]
+,
+  "yu_yeh": [ "Yu Yeh" ]
+,
+  "tomoya_yokogawa": [ "Tomoya Yokogawa" ]
+,
+  "hiroaki_yoshimura": [ "Hiroaki Yoshimura", "H. Yoshimura" ]
+,
+  "haisheng_yu": [ "Haisheng Yu" ]
+,
+  "hongnian_yu": [ "Hongnian Yu" ]
+,
+  "shuanghe_yu": [ "Shuanghe Yu" ]
+,
+  "tangqing_yuan": [ "Tangqing Yuan" ]
+,
+  "burak_yuksel": [ "Burak Yüksel" ]
+,
+  "juan_i_yuz": [ "Juan I. Yuz", "Juan Yuz", "Juan I Yuz" ]
+,
+  "i_zafeiratou": [ "I. Zafeiratou" ]
+,
+  "muhammad_zakwan": [ "Muhammad Zakwan", "M. Zakwan" ]
+,
+  "matias_zanartu": [ "Matías Zañartu" ]
+,
+  "roberto_zanasi": [ "Roberto Zanasi", "R. Zanasi" ]
+,
+  "riccardo_zanella": [ "Riccardo Zanella" ]
+,
+  "mykhailo_zarudniev": [ "Mykhailo Zarudniev" ]
+,
+  "amelie_zeller": [ "Amelie Zeller" ]
+,
+  "saida_zenfari": [ "Saida Zenfari" ]
+,
+  "chi_zhang": [ "Chi Zhang" ]
+,
+  "jiawei_zhang": [ "Jiawei Zhang" ]
+,
+  "meng_zhang": [ "Meng Zhang" ]
+,
+  "qin_zhang": [ "Qin Zhang" ]
+,
+  "weidong_zhang": [ "Weidong Zhang" ]
+,
+  "xin_zhang": [ "Xin Zhang" ]
+,
+  "yajun_zhang": [ "Yajun Zhang" ]
+,
+  "ying_zhang": [ "Ying Zhang" ]
+,
+  "yufeng_zhang": [ "Yufeng Zhang" ]
+,
+  "zhenkai_zhang": [ "Zhenkai Zhang" ]
+,
+  "zuoyi_zhang": [ "Zuoyi Zhang" ]
+,
+  "hongwei_zhao": [ "Hongwei Zhao" ]
+,
+  "mei_zhao": [ "Mei Zhao" ]
+,
+  "na_zhao": [ "Na Zhao" ]
+,
+  "qiang_zhao": [ "Qiang Zhao" ]
+,
+  "xiaoming_zha": [ "Xiaoming Zha" ]
+,
+  "min_zheng": [ "Min Zheng" ]
+,
+  "wei_zheng": [ "Wei Zheng" ]
+,
+  "maksym_zhenirovskyy": [ "Maksym Zhenirovskyy" ]
+,
+  "huimin_zhi": [ "Huimin Zhi" ]
+,
+  "ge_zhong": [ "Ge Zhong" ]
+,
+  "qing_chang_zhong": [ "Qing-Chang Zhong" ]
+,
+  "hao_zhou": [ "Hao Zhou" ]
+,
+  "jian_zhou": [ "Jian Zhou" ]
+,
+  "lihua_zhou": [ "Lihua Zhou" ]
+,
+  "qingrui_zhou": [ "Qingrui Zhou" ]
+,
+  "weijun_zhou": [ "Weijun Zhou", "W. Zhou" ]
+,
+  "aiqing_zhu": [ "Aiqing Zhu" ]
+,
+  "quanmin_zhu": [ "Quanmin Zhu" ]
+,
+  "pascal_ziegler": [ "Pascal Ziegler" ]
+,
+  "jorn_zimmerling": [ "Jörn Zimmerling" ]
+,
+  "b_zitte": [ "B. Zitte" ]
+,
+  "daniele_zonetti": [ "Daniele Zonetti", "D. Zonetti" ]
+,
+  "wei_zou": [ "Wei Zou" ]
+,
+  "pedro_j_zufiria": [ "Pedro J. Zufiria" ]
+,
+  "jelle_zult": [ "Jelle Zult" ]
+,
+  "hans_zwart": [ "Hans Zwart", "Hans J. Zwart", "H. Zwart", "H J Zwart", "H.J. Zwart" ]
+,
+  "tom_zwerschke": [ "Tom Zwerschke" ]
 }
