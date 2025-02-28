@@ -69,3 +69,31 @@ figure.highlight > button:hover {
 .post-content h3 {
   margin-top: 0;
 }
+
+#backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  transition: opacity 0.3s;
+}
+
+#backToTop:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+#cookies {
+  font-size: small;
+  text-align: right;
+}
