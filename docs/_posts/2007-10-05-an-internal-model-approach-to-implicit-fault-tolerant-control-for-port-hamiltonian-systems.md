@@ -10,7 +10,7 @@ tag: Internal Model; Global Asymptotical Stability; Control System Technology; E
 ---
  
 ## Authors
-**Luca Gentili, Andrea Paoli, Claudio Bonivento**
+[Luca Gentili](authors/luca-gentili), [Andrea Paoli](authors/andrea-paoli), [Claudio Bonivento](authors/claudio-bonivento)
  
 ## Abstract
 In this paper an internal model based approach to implicit Fault Tolerant Control for port-Hamiltonian systems is presented: the main idea is to cast the problem into a regulation problem in presence of input disturbances representing exogenous effects of possible faults; this can be solved following an adaptive internal model based approach. The theoretical machinery exploited is specialized for the energy-based port-Hamiltonian formalism in order to prove the global asymptotical stability of the solution. Finally an application example is presented in order to deeply point out the effectiveness of the design procedure presented: a Fault Tolerant Control problem is solved for a magnetic levitation system affected by periodic voltage disturbances.

@@ -10,7 +10,7 @@ tag: Port-Hamiltonian systems; Floating frame formulation; Flexible multibody sy
 ---
  
 ## Authors
-**Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon**
+[Andrea Brugnoli](authors/andrea-brugnoli), [Daniel Alazard](authors/daniel-alazard), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 A new formulation for the modular construction of flexible multibody systems is presented. By rearranging the equations for a flexible floating body and introducing the appropriate canonical momenta, the model is recast into a coupled system of ordinary and partial differential equations in port-Hamiltonian (pH) form. This approach relies on a floating frame description and is valid under the assumption of small deformations. This allows including mechanical models that cannot be easily formulated in terms of differential forms. Once a pH model is established, a finite element based method is then introduced to discretize the dynamics in a structure-preserving manner. Thanks to the features of the pH framework, complex multibody systems could be constructed in a modular way. Constraints are imposed at the velocity level, leading to an index 2 quasilinear differential-algebraic system. Numerical tests are carried out to assess the validity of the proposed approach.

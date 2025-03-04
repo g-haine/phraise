@@ -9,7 +9,7 @@ category: book-chapter
 ---
  
 ## Authors
-**Jens Jäschke, Matthias Ehrhardt, Michael Günther, Birgit Jacob**
+[Jens Jäschke](authors/jens-jaschke), [Matthias Ehrhardt](authors/matthias-ehrhardt), [Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob)
  
 ## Abstract
 Heat transfer and cooling solutions play an important role in the design of gas turbine blades. However, the underlying mathematical coupling structures have not been thoroughly investigated. In a previous work, we successfully modelled a simplified version of this problem as an infinite-dimensional system. Here, we construct a spatial discretization for the above problem and investigate its properties. We show that the discrete system is less restrictive than the original infinite-dimensional system, suggesting something like a regularization effect due to discretization.

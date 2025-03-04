@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**François Gay-Balmaz, Cesare Tronci**
+[François Gay-Balmaz](authors/francois-gay-balmaz), [Cesare Tronci](authors/cesare-tronci)
  
 ## Abstract
 We deal with the reversible dynamics of coupled quantum and classical systems. Based on a recent proposal by the authors, we exploit the theory of hybrid quantum–classical wavefunctions to devise a closure model for the coupled dynamics in which both the quantum density matrix and the classical Liouville distribution retain their initial positive sign. In this way, the evolution allows identifying a classical and a quantum state in interaction at all times, thereby addressing a series of stringent consistency requirements. After combining Koopman's Hilbert-space method in classical mechanics with van Hove's unitary representations in prequantum theory, the closure model is made available by the variational structure underlying a suitable wavefunction factorization. Also, we use Poisson reduction by symmetry to show that the hybrid model possesses a noncanonical Poisson structure that does not seem to have appeared before. As an example, this structure is specialized to the case of quantum two-level systems.

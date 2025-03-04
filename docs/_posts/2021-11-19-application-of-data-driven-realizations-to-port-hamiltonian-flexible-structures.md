@@ -10,7 +10,7 @@ tag: Port-Hamiltonian systems; Structural dynamics; Mixed finite elements; Data-
 ---
  
 ## Authors
-**Karim Cherifi, Andrea Brugnoli**
+[Karim Cherifi](authors/karim-cherifi), [Andrea Brugnoli](authors/andrea-brugnoli)
  
 ## Abstract
 In this contribution, the validity of reduced order data-driven approaches for port-Hamiltonian systems is assessed by direct comparison with models obtained from finite element discretization. In particular, we consider examples arising from the structural dynamics of beams. Port-Hamiltonian beam models can be readily discretized by using mixed finite elements. The resulting numerical models are used to generate the input-output data. The data-driven realization is then compared to the original numerical model in terms of its bode plot and energy trend.
@@ -47,17 +47,17 @@ Port-Hamiltonian systems; Structural dynamics; Mixed finite elements; Data-drive
 {% endhighlight %}
  
 ## References
-- [10.1137/13095032X](https://doi.org/10.1137/13095032X)
+- Arnold, D. N. & Lee, J. J. Mixed Methods for Elastodynamics with Weak Symmetry. SIAM Journal on Numerical Analysis vol. 52 2743–2769 (2014) -- [10.1137/13095032X](https://doi.org/10.1137/13095032X)
 - C. Beattie, S. Gugercin, and V. Mehrmann. Structure-preserving interpolatory model reduction for port-Hamiltonian differential-algebraic systems. 2019. arXiv:1910.05674.
-- [Identification of port-Hamiltonian systems from frequency response data](identification-of-port-hamiltonian-systems-from-frequency-response-data) -- [10.1016/j.sysconle.2020.104741](https://doi.org/10.1016/j.sysconle.2020.104741)
+- [Benner, P., Goyal, P. & Van Dooren, P. Identification of port-Hamiltonian systems from frequency response data. Systems &amp; Control Letters vol. 143 104741 (2020)](identification-of-port-hamiltonian-systems-from-frequency-response-data) -- [10.1016/j.sysconle.2020.104741](https://doi.org/10.1016/j.sysconle.2020.104741)
 - A. Brugnoli. A port-Hamiltonian formulation of flexible structures. Modelling and structure-preserving finite element discretization. PhD thesis, Université de Toulouse, ISAE-SUPAERO, France, 2020.
-- [Port-Hamiltonian flexible multibody dynamics](port-hamiltonian-flexible-multibody-dynamics) -- [10.1007/s11044-020-09758-6](https://doi.org/10.1007/s11044-020-09758-6)
-- [An overview on recent machine learning techniques for Port Hamiltonian systems](an-overview-on-recent-machine-learning-techniques-for-port-hamiltonian-systems) -- [10.1016/j.physd.2020.132620](https://doi.org/10.1016/j.physd.2020.132620)
+- [Brugnoli, A., Alazard, D., Pommier-Budinger, V. & Matignon, D. Port-Hamiltonian flexible multibody dynamics. Multibody System Dynamics vol. 51 343–375 (2020)](port-hamiltonian-flexible-multibody-dynamics) -- [10.1007/s11044-020-09758-6](https://doi.org/10.1007/s11044-020-09758-6)
+- [Cherifi, K. An overview on recent machine learning techniques for Port Hamiltonian systems. Physica D: Nonlinear Phenomena vol. 411 132620 (2020)](an-overview-on-recent-machine-learning-techniques-for-port-hamiltonian-systems) -- [10.1016/j.physd.2020.132620](https://doi.org/10.1016/j.physd.2020.132620)
 - K. Cherifi, P. Goyal, and P. Benner. A non-intrusive method to inferring linear port-hamiltonian realizations using time-domain data. 2020. arXiv:2005.09371.
 - K. Cherifi, P. Goyal, and P. Benner. A greedy data collection scheme for linear dynamical systems. 2021. arXiv:2107.12950. -- [10.1017/dce.2022.16](https://doi.org/10.1017/dce.2022.16)
 - [S. Hauschild, N. Marheineke, and V. Mehrmann. Model reduction techniques for linear constant coefficient port-Hamiltonian differential-algebraic systems. 2019. arXiv:1901.10242.](model-reduction-techniques-for-port-hamiltonian-differential-algebraic-systems) -- [10.1002/pamm.201900040](https://doi.org/10.1002/pamm.201900040)
-- [Symplectic-mixed finite element approximation of linear acoustic wave equations](symplectic-mixed-finite-element-approximation-of-linear-acoustic-wave-equations) -- [10.1007/s00211-014-0667-4](https://doi.org/10.1007/s00211-014-0667-4)
-- [10.1016/j.camwa.2014.05.011](https://doi.org/10.1016/j.camwa.2014.05.011)
-- [Twenty years of distributed port-Hamiltonian systems: a literature review](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
+- [Kirby, R. C. & Kieu, T. T. Symplectic-mixed finite element approximation of linear acoustic wave equations. Numerische Mathematik vol. 130 257–291 (2014)](symplectic-mixed-finite-element-approximation-of-linear-acoustic-wave-equations) -- [10.1007/s00211-014-0667-4](https://doi.org/10.1007/s00211-014-0667-4)
+- Lepe, F., Mora, D. & Rodríguez, R. Locking-free finite element method for a bending moment formulation of Timoshenko beams. Computers &amp; Mathematics with Applications vol. 68 118–131 (2014) -- [10.1016/j.camwa.2014.05.011](https://doi.org/10.1016/j.camwa.2014.05.011)
+- [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
 - Y.D. Zhong, B. Dey, and A. Chakraborty. Symplectic ode-net: Learning hamiltonian dynamics with control. 2019. arXiv:1909.127.
 

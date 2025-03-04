@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Publications by Zhenkai Zhang
-permalink: /authors/zhenkai-zhang/
+permalink: /authors/zhenkai-zhang
 ---
 
 <ul class="post-list">
-<li><span class='post-meta'>2019 -- Siyuan Dai, Zhenkai Zhang, Xenofon Koutsoukos</span><h3><a class='post-link' href='../../a-model-based-design-approach-for-simulation-and-virtual-prototyping-of-automotive-control-systems-using-port-hamiltonian-systems'>A model-based design approach for simulation and virtual prototyping of automotive control systems using port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2019 -- Siyuan Dai, Zhenkai Zhang, Xenofon Koutsoukos</span><h3><a class='post-link' href="{{ site.baseurl }}/a-model-based-design-approach-for-simulation-and-virtual-prototyping-of-automotive-control-systems-using-port-hamiltonian-systems">A model-based design approach for simulation and virtual prototyping of automotive control systems using port-Hamiltonian systems</a></h3></li>
 
 </ul>

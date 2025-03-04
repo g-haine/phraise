@@ -10,7 +10,7 @@ tag: Infinite-dimensional port-Hamiltonian system; Non-autonomous Cauchy problem
 ---
  
 ## Authors
-**Björn Augner, Hafida Laasri**
+[Björn Augner](authors/bjorn-augner), [Hafida Laasri](authors/hafida-laasri)
  
 ## Abstract
 We study the non-autonomous version of an infinite-dimensional linear port-Hamiltonian system on an interval [ a , b ] . Employing abstract results on evolution families, we show C 1 -well-posedness of the corresponding Cauchy problem, and thereby existence and uniqueness of classical solutions for sufficiently regular initial data. Further, we demonstrate that a dissipation condition in the style of the dissipation condition sufficient for uniform exponential stability in the autonomous case also leads to a uniform exponential decay rate of the energy in this non-autonomous setting.
@@ -45,20 +45,20 @@ Infinite-dimensional port-Hamiltonian system; Non-autonomous Cauchy problem; Evo
 {% endhighlight %}
  
 ## References
-- [Linear port-Hamiltonian descriptor systems](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
-- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
-- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
+- [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
+- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
 - J. Villegas, Y. Le Gorrec, H. Zwart, A. van der Schaft, Boundary control systems and the system nodes, in: 16th IFAC World Congress, Praha, 2005. -- [10.3182/20050703-6-CZ-1902.00622](https://doi.org/10.3182/20050703-6-CZ-1902.00622)
 - B. Augner, Stabilisation of Infinite-dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback (Ph.D. thesis), Wuppertal, 2016.
-- [C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain](c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain) -- [10.1007/s00028-014-0271-1](https://doi.org/10.1007/s00028-014-0271-1)
-- [Exponential Stability of a Class of Boundary Control Systems](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
-- [10.1007/s00498-010-0049-0](https://doi.org/10.1007/s00498-010-0049-0)
-- [10.7900/jot.2014jul31.2064](https://doi.org/10.7900/jot.2014jul31.2064)
-- [10.2969/jmsj/00520208](https://doi.org/10.2969/jmsj/00520208)
-- [10.1007/BF01351346](https://doi.org/10.1007/BF01351346)
-- [10.1006/jfan.2001.3917](https://doi.org/10.1006/jfan.2001.3917)
-- [10.1016/0022-0396(83)90008-6](https://doi.org/10.1016/0022-0396(83)90008-6)
-- [10.1016/j.jde.2018.11.028](https://doi.org/10.1016/j.jde.2018.11.028)
-- [10.1512/iumj.1995.44.2001](https://doi.org/10.1512/iumj.1995.44.2001)
+- [Jacob, B., Morris, K. & Zwart, H. C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain. Journal of Evolution Equations vol. 15 493–502 (2015)](c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain) -- [10.1007/s00028-014-0271-1](https://doi.org/10.1007/s00028-014-0271-1)
+- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
+- Schnaubelt, R. & Weiss, G. Two classes of passive time-varying well-posed linear systems. Mathematics of Control, Signals, and Systems vol. 21 265–301 (2010) -- [10.1007/s00498-010-0049-0](https://doi.org/10.1007/s00498-010-0049-0)
+- Augner, A., Jacob, B. & Laasri, H. On the right multiplicative perturbation of non-autonomous $L^p$-maximal regularity. Journal of Operator Theory vol. 74 391–415 (2015) -- [10.7900/jot.2014jul31.2064](https://doi.org/10.7900/jot.2014jul31.2064)
+- KATO, T. Integration of the equation of evolution in a Banach space. Journal of the Mathematical Society of Japan vol. 5 (1953) -- [10.2969/jmsj/00520208](https://doi.org/10.2969/jmsj/00520208)
+- Howland, J. S. Stationary scattering theory for time-dependent Hamiltonians. Mathematische Annalen vol. 207 315–335 (1974) -- [10.1007/BF01351346](https://doi.org/10.1007/BF01351346)
+- Batty, C. J. K., Chill, R. & Tomilov, Y. Strong Stability of Bounded Evolution Families and Semigroups. Journal of Functional Analysis vol. 193 116–139 (2002) -- [10.1006/jfan.2001.3917](https://doi.org/10.1006/jfan.2001.3917)
+- Haraux, A. Asymptotic behavior of trajectories for some nonautonomous, almost periodic processes. Journal of Differential Equations vol. 49 473–483 (1983) -- [10.1016/0022-0396(83)90008-6](https://doi.org/10.1016/0022-0396(83)90008-6)
+- Paunonen, L. & Seifert, D. Asymptotics for periodic systems. Journal of Differential Equations vol. 266 7152–7172 (2019) -- [10.1016/j.jde.2018.11.028](https://doi.org/10.1016/j.jde.2018.11.028)
+- Cox, S. & Zuazua, E. The rate at which energy decays in a string damped at one end. Indiana University Mathematics Journal vol. 44 0–0 (1995) -- [10.1512/iumj.1995.44.2001](https://doi.org/10.1512/iumj.1995.44.2001)
 

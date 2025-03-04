@@ -9,7 +9,7 @@ category: proceedings-article
 ---
  
 ## Authors
-**Markus Clemens, Michael Günther**
+[Markus Clemens](authors/markus-clemens), [Michael Günther](authors/michael-gunther)
  
 ## Abstract
 The port-Hamiltonian system (pHS) framework established for coupled system formulations in multi-model and multi-physics problems considers physical model formulations either in a continuous setting as sets of partial differential equations or, alternatively, in discrete variants as pH differential-algebraic equations (pH-DAEs) [1]. The key to pHS formulations is that they are established with respect to energy conservation and dissipation inequalities. A typical \\( \mathrm{pH}-\mathrm{DAE} \\) is given in the form
@@ -39,5 +39,5 @@ The port-Hamiltonian system (pHS) framework established for coupled system formu
 {% endhighlight %}
  
 ## References
-- [10.1002/(SICI)1099-1204(199607)9:4<295::AID-JNM240>3.0.CO;2-8](https://doi.org/10.1002/(SICI)1099-1204(199607)9:4<295::AID-JNM240>3.0.CO;2-8)
+- WEILAND, T. TIME DOMAIN ELECTROMAGNETIC FIELD COMPUTATION WITH FINITE DIFFERENCE METHODS. International Journal of Numerical Modelling: Electronic Networks, Devices and Fields vol. 9 295–319 (1996) -- [10.1002/(SICI)1099-1204(199607)9:4<295::AID-JNM240>3.0.CO;2-8](https://doi.org/10.1002/(SICI)1099-1204(199607)9:4<295::AID-JNM240>3.0.CO;2-8)
 

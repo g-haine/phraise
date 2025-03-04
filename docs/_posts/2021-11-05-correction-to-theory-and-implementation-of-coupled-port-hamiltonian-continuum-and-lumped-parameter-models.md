@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Finbar J. Argus, Chris P. Bradley, Peter J. Hunter**
+[Finbar J. Argus](authors/finbar-j-argus), [Chris P. Bradley](authors/chris-p-bradley), [Peter J. Hunter](authors/peter-j-hunter)
  
 ## Citation
 - **Journal:** Journal of Elasticity

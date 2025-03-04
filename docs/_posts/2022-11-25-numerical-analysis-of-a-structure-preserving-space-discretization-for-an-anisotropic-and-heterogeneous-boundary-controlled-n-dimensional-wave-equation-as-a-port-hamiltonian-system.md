@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Ghislain Haine, Denis Matignon, Anass Serhani**
+[Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon), [Anass Serhani](authors/anass-serhani)
  
 ## Abstract
 The anisotropic and heterogeneous N-dimensional wave equation, controlled and observed at the boundary, is considered as a port-Hamiltonian system. The recent structure-preserving Partitioned Finite Element Method is applied, leading directly to a finite-dimensional port-Hamiltonian system, and its numerical analysis is done in a general framework, under usual assumptions for finite element. Compatibility conditions are then exhibited to reach the best trade off between the convergence rate and the number of degrees of freedom for both the state error and the Hamiltonian error. Numerical simulations in 2D are performed to illustrate the optimality of the main theorems among several choices of classical finite element families.

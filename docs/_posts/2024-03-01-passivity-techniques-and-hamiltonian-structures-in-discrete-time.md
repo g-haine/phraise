@@ -10,7 +10,7 @@ tag: Discrete-time systems; Port-Hamiltonian structures; Passivity based control
 ---
  
 ## Authors
-**Dorothée Normand-Cyrot, Salvatore Monaco, Mattia Mattioni, Alessio Moreschini**
+[Dorothée Normand-Cyrot](authors/dorothee-normand-cyrot), [Salvatore Monaco](authors/salvatore-monaco), [Mattia Mattioni](authors/mattia-mattioni), [Alessio Moreschini](authors/alessio-moreschini)
  
 ## Abstract
 The object of this paper is to show the impact of representing discrete-time dynamics as two coupled difference/differential equations in establishing passivity properties and describing port-Hamiltonian structures as well as the related energy-based control strategies.

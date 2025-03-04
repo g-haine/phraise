@@ -10,7 +10,7 @@ tag: Port Hamiltonian Systems; Distributed Systems; Irreversible Thermodynamics
 ---
  
 ## Authors
-**W. Zhou, B. Hamroun, Y. Le Gorrec, F. Couenne**
+[W. Zhou](authors/weijun-zhou), [B. Hamroun](authors/boussad-hamroun), [Y. Le Gorrec](authors/yann-le-gorrec), [F. Couenne](authors/francoise-couenne)
  
 ## Abstract
 In this discussion paper we present two different parametrizations of the differential operator and their associated closure relations describing a model of an isothermal tubular reactor. From these two parametrizations we derive the boundary port variables of the system and check the existence of solutions in the case of Dankwert boundary conditions. We show that existence of solution can be derived from both the coercivity condition on the closure relations and some inequality condition on the input matrix mapping. Even if in the case of constant parameters these two approaches are equivalent, the canonical factorization is the only one that can be applied when some of the parameters depends on the spatial variable. This property is of major interest when linearized non isothermal tubular reactors are considered.

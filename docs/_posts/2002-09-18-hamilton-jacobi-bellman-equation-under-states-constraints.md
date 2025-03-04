@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Kyung-Eung Kim**
+[Kyung-Eung Kim](authors/kyung-eung-kim)
  
 ## Abstract
 This paper is devoted to the uniqueness of discontinuous solutions to the Hamilton–Jacobi–Bellman (HJB) equation arising in Mayer's problem under state constraints. We use two types of discontinuous solutions, bilateral solution and contingent solution, and show that they coincide with the value function for state constraints that are backward invariant and forward viable.
@@ -42,12 +42,12 @@ This paper is devoted to the uniqueness of discontinuous solutions to the Hamilt
 {% endhighlight %}
  
 ## References
-- [10.1080/03605309908820745](https://doi.org/10.1080/03605309908820745)
-- [10.1090/S0002-9939-1991-1076572-8](https://doi.org/10.1090/S0002-9939-1991-1076572-8)
-- [10.1090/S0002-9947-1990-0951880-0](https://doi.org/10.1090/S0002-9947-1990-0951880-0)
-- [Viscosity solutions of Hamilton-Jacobi equations](viscosity-solutions-of-hamilton-jacobi-equations) -- [10.1090/S0002-9947-1983-0690039-8](https://doi.org/10.1090/S0002-9947-1983-0690039-8)
-- [10.1006/jdeq.1995.1036](https://doi.org/10.1006/jdeq.1995.1036)
-- [10.1016/0022-247X(89)90203-5](https://doi.org/10.1016/0022-247X(89)90203-5)
-- [10.1007/BF01448202](https://doi.org/10.1007/BF01448202)
-- [10.1137/0331016](https://doi.org/10.1137/0331016)
+- Barron, E. N. & Jensen, R. Semicontinuous Viscosity Solutions For Hamilton–Jacobi Equations With Convex Hamiltonians. Communications in Partial Differential Equations vol. 15 293–309 (1990) -- [10.1080/03605309908820745](https://doi.org/10.1080/03605309908820745)
+- Barron, E. N. & Jensen, R. Optimal control and semicontinuous viscosity solutions. Proceedings of the American Mathematical Society vol. 113 397–402 (1991) -- [10.1090/S0002-9939-1991-1076572-8](https://doi.org/10.1090/S0002-9939-1991-1076572-8)
+- Capuzzo-Dolcetta, I. & Lions, P.-L. Hamilton-Jacobi equations with state constraints. Transactions of the American Mathematical Society vol. 318 643–683 (1990) -- [10.1090/S0002-9947-1990-0951880-0](https://doi.org/10.1090/S0002-9947-1990-0951880-0)
+- [Crandall, M. G. & Lions, P.-L. Viscosity solutions of Hamilton-Jacobi equations. Transactions of the American Mathematical Society vol. 277 1–42 (1983)](viscosity-solutions-of-hamilton-jacobi-equations) -- [10.1090/S0002-9947-1983-0690039-8](https://doi.org/10.1090/S0002-9947-1983-0690039-8)
+- Frankowska, H., Plaskacz, S. & Rzezuchowski, T. Measurable Viability Theorems and the Hamilton-Jacobi-Bellman Equation. Journal of Differential Equations vol. 116 265–305 (1995) -- [10.1006/jdeq.1995.1036](https://doi.org/10.1006/jdeq.1995.1036)
+- Frankowska, H. Hamilton-Jacobi equations: Viscosity solutions and generalized gradients. Journal of Mathematical Analysis and Applications vol. 141 21–26 (1989) -- [10.1016/0022-247X(89)90203-5](https://doi.org/10.1016/0022-247X(89)90203-5)
+- Frankowska, H. Optimal trajectories associated with a solution of the contingent Hamilton-Jacobi equation. Applied Mathematics &amp; Optimization vol. 19 291–311 (1989) -- [10.1007/BF01448202](https://doi.org/10.1007/BF01448202)
+- Frankowska, H. Lower Semicontinuous Solutions of Hamilton–Jacobi–Bellman Equations. SIAM Journal on Control and Optimization vol. 31 257–272 (1993) -- [10.1137/0331016](https://doi.org/10.1137/0331016)
 

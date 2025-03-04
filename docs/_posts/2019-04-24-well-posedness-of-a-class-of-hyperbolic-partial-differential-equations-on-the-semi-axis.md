@@ -10,13 +10,13 @@ tag: \\( C_0 \\)-semigroup; Hyperbolic pde; Port-Hamiltonian system; Well-posedn
 ---
  
 ## Authors
-**Birgit Jacob, Sven-Ake Wegner**
+[Birgit Jacob](authors/birgit-jacob), [Sven-Ake Wegner](authors/sven-ake-wegner)
  
 ## Abstract
 In this article, we study a class of hyperbolic partial differential equations of order one on the semi-axis. The so-called port-Hamiltonian systems cover, for instance, the wave equation and the transport equation, but also networks of the aforementioned equations fit into this framework. Our main results firstly characterize the boundary conditions which turn the corresponding linear operator into the generator of a strongly continuous semigroup. Secondly, we equip the equation with inputs (control) and outputs (observation) at the boundary and prove that this leads to a well-posed boundary control system. We illustrate our results via an example of coupled transport equations on a network that allows to model transport from and to infinity. Moreover, we study a vibrating string of infinite length with one endpoint. Here, we show that our results allow to treat cases where the physical constants of the string tend to zero at infinity.
  
 ## Keywords
-$C_0$-semigroup; Hyperbolic pde; Port-Hamiltonian system; Well-posedness; Pde’s on networks; Primary 93D15; Secondary 47D06
+\\( C_0 \\)-semigroup; Hyperbolic pde; Port-Hamiltonian system; Well-posedness; Pde’s on networks; Primary 93D15; Secondary 47D06
  
 ## Citation
 - **Journal:** Journal of Evolution Equations

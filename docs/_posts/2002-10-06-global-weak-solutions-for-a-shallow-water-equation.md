@@ -10,7 +10,7 @@ tag: Free Surface; Shallow Water; Weak Solution; Shallow Water Equation; Global 
 ---
  
 ## Authors
-**Adrian Constantin, Luc Molinet**
+[Adrian Constantin](authors/adrian-constantin), [Luc Molinet](authors/luc-molinet)
  
 ## Abstract
 We show the existence and uniqueness of global weak solutions for an equation describing the motion of waves at the free surface of shallow water under the influence of gravity.

@@ -10,7 +10,7 @@ tag: Port–Hamiltonian systems; Desired damping matrix; Matching equations; Con
 ---
  
 ## Authors
-**Liangcheng Cai, Yong He, Min Wu**
+[Liangcheng Cai](authors/liangcheng-cai), [Yong He](authors/yong-he), [Min Wu](authors/min-wu)
  
 ## Abstract
 This paper investigates the effects of desired damping matrix and desired Hamiltonian function in the matching equation for Port–Hamiltonian (PH) systems. Once the desired Hamiltonian function is chosen, if the desired damping matrix is large enough, the convergence speed of the control law asymptotically stabilizing the PH system works more quickly. On the other hand, the desired Hamiltonian function can be replaced by a new desired energy function, which is also effective in energy-shaping. Finally, a three-phase synchronous generator example is given to show the correctness of the above contents.

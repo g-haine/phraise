@@ -10,7 +10,7 @@ tag: Structure-preserving model order reduction; A posteriori error control; Por
 ---
  
 ## Authors
-**Johannes Rettberg, Dominik Wittwar, Patrick Buchfink, Robin Herkert, Jörg Fehr, Bernard Haasdonk**
+[Johannes Rettberg](authors/johannes-rettberg), [Dominik Wittwar](authors/dominik-wittwar), [Patrick Buchfink](authors/patrick-buchfink), [Robin Herkert](authors/robin-herkert), [Jörg Fehr](authors/jorg-fehr), [Bernard Haasdonk](authors/bernard-haasdonk)
  
 ## Abstract
 Projection-based model order reduction of dynamical systems usually introduces an error between the high-fidelity model and its counterpart of lower dimension. This unknown error can be bounded by residual-based methods, which are typically known to be highly pessimistic in the sense of largely overestimating the true error. This work applies two improved error bounding techniques, namely (a)  a hierarchical error bound and (b)  an error bound based on an auxiliary linear problem , to the case of port-Hamiltonian systems. The approaches rely on a secondary approximation of (a) the dynamical system and (b) the error system. In this paper, these methods are adapted to port-Hamiltonian systems. The mathematical relationship between the two methods is discussed both theoretically and numerically. The effectiveness of the described methods is demonstrated using a challenging three-dimensional port-Hamiltonian model of a classical guitar with fluid–structure interaction.

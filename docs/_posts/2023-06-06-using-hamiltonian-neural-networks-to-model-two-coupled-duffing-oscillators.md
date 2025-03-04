@@ -10,7 +10,7 @@ tag: Port-Hamiltonian Neural Network; Hamiltonian Neural Network; Forced system;
 ---
  
 ## Authors
-**Gordei Pribõtkin, Stefania Tomasiello**
+[Gordei Pribõtkin](authors/gordei-pribotkin), [Stefania Tomasiello](authors/stefania-tomasiello)
  
 ## Abstract
 In this short note, the performance of two kinds of physics-guided computing schemes, namely the Hamiltonian Neural Network and the Port-Hamiltonian Neural Network, are discussed through the predicted dynamics of two coupled Duffing oscillators. First, we propose a new error bound which holds for both types of networks. Then, we numerically investigate some alternative activation functions in terms of prediction accuracy. The numerical results show the potential of the approaches when compared to the standard neural networks in the transient regime.

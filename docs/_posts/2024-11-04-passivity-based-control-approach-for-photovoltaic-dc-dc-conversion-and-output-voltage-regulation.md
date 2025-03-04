@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Hayden Phillips-Brenes, Mauricio Muñoz-Arias, Roberto Pereira-Arroyo, Luis Miguel Esquivel-Sancho, Renato Rimolo-Donadio**
+[Hayden Phillips-Brenes](authors/hayden-phillips-brenes), [Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Luis Miguel Esquivel-Sancho](authors/luis-miguel-esquivel-sancho), [Renato Rimolo-Donadio](authors/renato-rimolo-donadio)
  
 ## Citation
 - **Journal:** IEEE Transactions on Control Systems Technology

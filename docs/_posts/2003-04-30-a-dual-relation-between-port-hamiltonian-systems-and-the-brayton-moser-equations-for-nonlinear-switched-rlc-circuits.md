@@ -10,7 +10,7 @@ tag: Nonlinear networks; Brayton–Moser equations; Hamiltonian systems; Power c
 ---
  
 ## Authors
-**Dimitri Jeltsema, Jacquelien M.A. Scherpen**
+[Dimitri Jeltsema](authors/dimitri-jeltsema), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In the last decades, several researchers have concentrated on the dynamic modeling of nonlinear electrical circuits from an energy-based perspective. A recent perspective is based on the concept of port-Hamiltonian (PH) systems. In this paper, we discuss the relations between the classical Brayton–Moser (BM) equations—stemming from the early sixties—and PH models for topologically complete nonlinear RLC circuits, with and without controllable switches. It will be shown that PH systems precisely dualize the BM equations, leading to possible advantages at the level of controller design. Consequently, useful and important properties of the one framework can be translated to the other. Control designs for the PH model cannot be directly implemented since they require observation of flux and charges, which are not directly available through standard sensors, while the BM models require only observation of currents and voltages. The introduced duality allows to pull back PH designs to the space of currents and voltages. This offers the possibility to exchange several different techniques, available in the literature, for modeling, analysis and controller design for RLC circuits. Illustrative examples are provided to emphasize the duality between both frameworks.
@@ -47,15 +47,15 @@ Nonlinear networks; Brayton–Moser equations; Hamiltonian systems; Power conver
  
 ## References
 - Brayton, R. K., & Moser, J. K. (1964). A theory of nonlinear networks I and II. Quarterly of Applied Mathematics, 12(1 and 2), 1–33, 81–104. -- [10.1090/qam/169747](https://doi.org/10.1090/qam/169747)
-- [10.1109/TCT.1971.1083337](https://doi.org/10.1109/TCT.1971.1083337)
-- [10.1109/TCS.1974.1083849](https://doi.org/10.1109/TCS.1974.1083849)
-- [10.1016/S0005-1098(98)00196-4](https://doi.org/10.1016/S0005-1098(98)00196-4)
+- Chua, L. Memristor-The missing circuit element. IEEE Transactions on Circuit Theory vol. 18 507–519 (1971) -- [10.1109/TCT.1971.1083337](https://doi.org/10.1109/TCT.1971.1083337)
+- Chua, L. & McPherson, J. Explicit topological formulation of Lagrangian and Hamiltonian equations for nonlinear networks. IEEE Transactions on Circuits and Systems vol. 21 277–286 (1974) -- [10.1109/TCS.1974.1083849](https://doi.org/10.1109/TCS.1974.1083849)
+- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/S0005-1098(98)00196-4](https://doi.org/10.1016/S0005-1098(98)00196-4)
 - Jeltsema, D., & Scherpen, J. M. A. (2002). Tuning rules for passivity preserving controllers. Proceedings of the American control conference, anchorage, Alaska, May 2002 (pp. 3498–3503). -- [10.1109/ACC.2002.1024469](https://doi.org/10.1109/ACC.2002.1024469)
-- [10.1109/TCS.1982.1085140](https://doi.org/10.1109/TCS.1982.1085140)
-- [10.1080/00207177008905926](https://doi.org/10.1080/00207177008905926)
-- [10.1016/0016-0032(80)90045-9](https://doi.org/10.1016/0016-0032(80)90045-9)
+- Kwatny, H., Massimo, F. & Bahar, L. The generalized Lagrange formulation for nonlinear RLC networks. IEEE Transactions on Circuits and Systems vol. 29 220–233 (1982) -- [10.1109/TCS.1982.1085140](https://doi.org/10.1109/TCS.1982.1085140)
+- MACFARLANE, A. G. J. An integral invariant formulation of a canonical equation set for non-linear electrical networks. International Journal of Control vol. 11 449–470 (1970) -- [10.1080/00207177008905926](https://doi.org/10.1080/00207177008905926)
+- Massimo, F. M., Kwatny, H. G. & Bahar, L. Y. Derivation of the Brayton–Moser equations from a topological mixed potential function. Journal of the Franklin Institute vol. 310 259–269 (1980) -- [10.1016/0016-0032(80)90045-9](https://doi.org/10.1016/0016-0032(80)90045-9)
 - Ortega, R., Jeltsema, D., & Scherpen, J. M. A. (2002). Stabilization of nonlinear RLC circuits via power-shaping. Proceedings of the Latin American conference on automatic control, Guadalajara, México, December 2002.
 - van der Schaft, A. J., Dalsmo, M., & Maschke, B. M. (1996). Mathematical structures in the network representation of energy-conserving physical systems. Proceedings of the 35th IEEE conference on decision and control, Kobe, Japan, December 1996 (pp. 201–206). -- [10.1109/CDC.1996.574296](https://doi.org/10.1109/CDC.1996.574296)
-- [10.1016/S0167-6911(02)00290-6](https://doi.org/10.1016/S0167-6911(02)00290-6)
+- Scherpen, J. M. A., Jeltsema, D. & Klaassens, J. B. Lagrangian modeling of switching electrical networks. Systems &amp; Control Letters vol. 48 365–374 (2003) -- [10.1016/S0167-6911(02)00290-6](https://doi.org/10.1016/S0167-6911(02)00290-6)
 - Weiss, L., Mathis, W., & Trajkovic, L. (1998). A generalization of Brayton–Moser's mixed potential function. IEEE Transactions on Circuits and Systems—I, 45(4), 423–427. -- [10.1109/81.669065](https://doi.org/10.1109/81.669065)
 

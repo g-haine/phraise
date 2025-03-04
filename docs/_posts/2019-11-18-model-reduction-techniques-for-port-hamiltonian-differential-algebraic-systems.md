@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Sarah-Alexa Hauschild, Nicole Marheineke, Volker Mehrmann**
+[Sarah-Alexa Hauschild](authors/sarah-alexa-hauschild), [Nicole Marheineke](authors/nicole-marheineke), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
 Port‐based network modeling of multi‐physics problems leads naturally to a formulation as port‐Hamiltonian differential‐algebraic systems (pHDAEs). In this way, the physical properties are directly encoded in the structure of the model. Since the state space dimension of such systems may be very large, in particular when the model is a space‐discretized partial differential‐algebraic system, in optimization and control there is a need for model reduction methods that preserve the port‐Hamiltonian (pH) structure while keeping the algebraic constraints unchanged. To combine model reduction for differential‐algebraic equations (DEAs) with port‐Hamiltonian structure preservation, we adapt power conservation based techniques from port‐Hamiltonian systems of ordinary differential equations (pHODEs) to pHDAEs. The performance of the methods is investigated for benchmark examples originating from semi‐discretized flow problems.

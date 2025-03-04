@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Martin Pfeifer, Felicitas Mueller, Steven de Jongh, Frederik Gielnik, Thomas Leibfried, Soren Hohmann**
+[Martin Pfeifer](authors/martin-pfeifer), [Felicitas Mueller](authors/felicitas-mueller), [Steven de Jongh](authors/steven-de-jongh), [Frederik Gielnik](authors/frederik-gielnik), [Thomas Leibfried](authors/thomas-leibfried), [Soren Hohmann](authors/soren-hohmann)
  
 ## Citation
 - **Journal:** Journal of Modern Power Systems and Clean Energy

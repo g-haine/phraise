@@ -10,7 +10,7 @@ tag: Nonlinear beam model; distributed-parameter systems; port-Hamiltonian syste
 ---
  
 ## Authors
-**Megha V. Trivedi, Ravi N. Banavar, Paul Kotyczka**
+[Megha V. Trivedi](authors/megha-v-trivedi), [Ravi N. Banavar](authors/ravi-n-banavar), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 The use of beams and similar structural elements is finding increasing application in many areas, including micro and nanotechnology devices. For the purpose of buckling analysis and control, it is essential to account for nonlinear terms in the strains while modeling these exible structures. Further, in modeling of micro and nanotechnology devices, the micro length scale parameter effects can be accounted by the use of a 2 dimensional stress-strain relationship. This paper studies the buckling effect for a slender, vertical beam with a tip-mass at one end and fixed on a movable platform at the other. For the purpose of illustration, the movable platform is assumed to be a cart. Accounting for a 2 dimensional stress-strain relationship, nonlinear expressions for strains, and incorporating an inextensibility constraint of the beam, the Hamiltonian equations of motion are obtained. The equations of motion are then cast in a port-Hamiltonian form with appropriately defined flows and efforts. We then carry out a preliminary modal analysis of the system to describe candidate post-buckling configurations and study the stability properties of these equilibria. The vertical configuration of the beam under the action of gravity is without loss of generality, since the objective is to model a potential field that determines the equilibria.

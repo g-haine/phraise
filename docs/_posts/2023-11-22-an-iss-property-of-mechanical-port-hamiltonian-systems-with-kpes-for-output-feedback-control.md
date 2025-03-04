@@ -10,7 +10,7 @@ tag: Input-to-state stability; Lagrangian and Hamiltonian systems; Output feedba
 ---
  
 ## Authors
-**N. Sakata, T. Kato, K. Fujimoto, I. Maruta**
+[N. Sakata](authors/naoki-sakata), [T. Kato](authors/t-kato), [K. Fujimoto](authors/kenji-fujimoto), [I. Maruta](authors/ichiro-maruta)
  
 ## Abstract
 This paper proves a stability property of mechanical port-Hamiltonian systems with kinetic potential energy shaping (KPES) with respect to external disturbances using the input-to-state stability (ISS) characterization. Such analysis is quite useful when constructing an output feedback controller consisting of a KPES state feedback controller and a state observer, since the stability of the resulting output feedback closed-loop system can be guaranteed by such stability by regarding the estimation error of the observer as the external disturbance to the KPES state feedback system. If this state feedback system is ISS with respect to the state estimation error and if this error is asymptotically stable, then the origin of the closed-loop system is asymptotically stable. Therefore, it is possible to obtain an output feedback controller consisting of a KPES state feedback controller with any asymptotic state observer. Numerical simulations verify the ISS property of the KPES state feedback system.
@@ -47,17 +47,17 @@ Input-to-state stability; Lagrangian and Hamiltonian systems; Output feedback co
 {% endhighlight %}
  
 ## References
-- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
-- [10.1109/LCSYS.2019.2919842](https://doi.org/10.1109/LCSYS.2019.2919842)
-- [10.1016/j.ifacol.2021.11.067](https://doi.org/10.1016/j.ifacol.2021.11.067)
-- [Passivity based control of a class of Hamiltonian systems with nonholonomic constraints](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
-- [A Passivity Based Sliding Mode Controller for Simple Port-Hamiltonian Systems](a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems) -- [10.1109/LCSYS.2020.3005327](https://doi.org/10.1109/LCSYS.2020.3005327)
-- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- [10.1016/j.ifacol.2021.10.366](https://doi.org/10.1016/j.ifacol.2021.10.366)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
-- [10.1109/TAC.2014.2330701](https://doi.org/10.1109/TAC.2014.2330701)
-- [On trajectory tracking control of simple port-Hamiltonian systems based on passivity based sliding mode control](on-trajectory-tracking-control-of-simple-port-hamiltonian-systems-based-on-passivity-based-sliding-mode-control) -- [10.1016/j.ifacol.2021.11.052](https://doi.org/10.1016/j.ifacol.2021.11.052)
-- [10.1016/0167-6911(94)00050-6](https://doi.org/10.1016/0167-6911(94)00050-6)
-- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
+- Astolfi, A., Ortega, R. & Venkatraman, A. A globally exponentially convergent immersion and invariance speed observer for mechanical systems with non-holonomic constraints. Automatica vol. 46 182–189 (2010) -- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
+- Ferguson, J., Donaire, A. & Middleton, R. H. Kinetic-Potential Energy Shaping for Mechanical Systems With Applications to Tracking. IEEE Control Systems Letters vol. 3 960–965 (2019) -- [10.1109/LCSYS.2019.2919842](https://doi.org/10.1109/LCSYS.2019.2919842)
+- Ferguson, J., Donaire, A. & Middleton, R. H. Passive momentum observer for mechanical systems. IFAC-PapersOnLine vol. 54 131–136 (2021) -- [10.1016/j.ifacol.2021.11.067](https://doi.org/10.1016/j.ifacol.2021.11.067)
+- [Fujimoto, K., Sakai, S. & Sugie, T. Passivity based control of a class of Hamiltonian systems with nonholonomic constraints. Automatica vol. 48 3054–3063 (2012)](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
+- [Fujimoto, K., Sakata, N., Maruta, I. & Ferguson, J. A Passivity Based Sliding Mode Controller for Simple Port-Hamiltonian Systems. IEEE Control Systems Letters vol. 5 839–844 (2021)](a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems) -- [10.1109/LCSYS.2020.3005327](https://doi.org/10.1109/LCSYS.2020.3005327)
+- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- Hao, S., Yamashita, Y. & Kobayashi, K. Construction of ISS Lyapunov functions for Hamiltonian systems with multiple disturbances. IFAC-PapersOnLine vol. 54 281–286 (2021) -- [10.1016/j.ifacol.2021.10.366](https://doi.org/10.1016/j.ifacol.2021.10.366)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. International Journal of Robust and Nonlinear Control vol. 13 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
+- Romero, J. G., Ortega, R. & Sarras, I. A Globally Exponentially Stable Tracking Controller for Mechanical Systems Using Position Feedback. IEEE Transactions on Automatic Control vol. 60 818–823 (2015) -- [10.1109/TAC.2014.2330701](https://doi.org/10.1109/TAC.2014.2330701)
+- [Sakata, N., Fujimoto, K. & Maruta, I. On trajectory tracking control of simple port-Hamiltonian systems based on passivity based sliding mode control. IFAC-PapersOnLine vol. 54 38–43 (2021)](on-trajectory-tracking-control-of-simple-port-hamiltonian-systems-based-on-passivity-based-sliding-mode-control) -- [10.1016/j.ifacol.2021.11.052](https://doi.org/10.1016/j.ifacol.2021.11.052)
+- Sontag, E. D. & Wang, Y. On characterizations of the input-to-state stability property. Systems &amp; Control Letters vol. 24 351–359 (1995) -- [10.1016/0167-6911(94)00050-6](https://doi.org/10.1016/0167-6911(94)00050-6)
+- Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
 

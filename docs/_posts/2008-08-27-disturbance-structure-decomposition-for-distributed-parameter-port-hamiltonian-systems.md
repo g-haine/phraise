@@ -9,7 +9,7 @@ category: proceedings-article
 ---
  
 ## Authors
-**G. Nishida, M. Yamakita**
+[G. Nishida](authors/gou-nishida), [M. Yamakita](authors/masaki-yamakita)
  
 ## Abstract
 In this paper, a decomposition of a disturbance structure for distributed-parameter port-Hamiltonian systems is presented. A Stokes-Dirac structure can be extended to an externally supplied distributed energy besides an energy exchange through the boundary. First, we show that any disturbance can be decomposed into a boundary energy structure and a distributed energy structure. Next, the system representation is given by the decomposed structures. Finally, two examples are presented.
@@ -39,9 +39,10 @@ In this paper, a decomposition of a disturbance structure for distributed-parame
 {% endhighlight %}
  
 ## References
-- [A higher order Stokes-Dirac structure for distributed-parameter port-Hamiltonian systems](a-higher-order-stokes-dirac-structure-for-distributed-parameter-port-hamiltonian-systems) -- [10.23919/ACC.2004.1384643](https://doi.org/10.23919/ACC.2004.1384643)
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [10.1090/mmono/201](https://doi.org/10.1090/mmono/201)
-- [10.1109/TCS.1978.1084530](https://doi.org/10.1109/TCS.1978.1084530)
-- [10.1109/CDC.2001.980086](https://doi.org/10.1109/CDC.2001.980086)
+- [Nishida, G. & Yamakita, M. A higher order Stokes-Dirac structure for distributed-parameter port-Hamiltonian systems. Proceedings of the 2004 American Control Conference 5004–5009 vol.6 (2004) doi:10.23919/acc.2004.1384643](a-higher-order-stokes-dirac-structure-for-distributed-parameter-port-hamiltonian-systems) -- [10.23919/ACC.2004.1384643](https://doi.org/10.23919/ACC.2004.1384643)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Morita, S. Geometry of Differential Forms. Translations of Mathematica
+                        Monographs (2001) doi:10.1090/mmono/201 -- [10.1090/mmono/201](https://doi.org/10.1090/mmono/201)
+- Wyatt, J., Chua, L. & Oster, G. Nonlinear n-port decomposition via the Laplace operator. IEEE Transactions on Circuits and Systems vol. 25 741–754 (1978) -- [10.1109/TCS.1978.1084530](https://doi.org/10.1109/TCS.1978.1084530)
+- Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136 -- [10.1109/CDC.2001.980086](https://doi.org/10.1109/CDC.2001.980086)
 

@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Yufei Chen, Qihuai Liu**
+[Yufei Chen](authors/yufei-chen), [Qihuai Liu](authors/qihuai-liu)
  
 ## Abstract
 In this paper, we investigate the stability of port-Hamiltonian systems with mixed time-varying delays as well as input saturation. Three types of time delays, including state delay, input delay, and output delay, are all assumed to be bounded. By introducing the output feedback control law and utilizing serval Lyapunov–Krasovskii functionals, we present three delay-dependent stability criteria in terms of the linear matrix inequality. Meanwhile, we use Wirtinger’s inequality, constraint conditions, and Lyapunov–Krasovskii functionals of triple and quadruple integral form to obtain less conservative results. Some numerical examples demonstrate and support our results.

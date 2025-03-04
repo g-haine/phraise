@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Francois Lamoline, Joseph J. Winkin**
+[Francois Lamoline](authors/francois-lamoline), [Joseph J. Winkin](authors/joseph-j-winkin)
  
 ## Abstract
 In this article, Stochastic port-Hamiltonian systems (SPHS) on infinite-dimensional spaces governed by Itô stochastic differential equations (SDEs) are introduced, and some properties of this new class of systems are studied. They are an extension of SPHSs defined on a finite-dimensional state space. The concept of well-posedness in the sense of Weiss and Salamon is generalized to the stochastic context. Under this extended definition, SPHSs are shown to be well posed. The theory is illustrated on an example of a vibrating string subject to a Hilbert space-valued Gaussian white noise process.
@@ -42,19 +42,19 @@ In this article, Stochastic port-Hamiltonian systems (SPHS) on infinite-dimensio
 {% endhighlight %}
  
 ## References
-- [10.1007/BF02088011](https://doi.org/10.1007/BF02088011)
-- [10.1007/978-1-4612-4224-6](https://doi.org/10.1007/978-1-4612-4224-6)
-- [10.1017/CBO9781107295513](https://doi.org/10.1017/CBO9781107295513)
-- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
-- [10.1137/151002605](https://doi.org/10.1137/151002605)
-- [10.1109/CDC.2017.8264015](https://doi.org/10.1109/CDC.2017.8264015)
-- [Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
-- [10.1007/978-3-7643-8994-9](https://doi.org/10.1007/978-3-7643-8994-9)
-- [10.1017/CBO9780511543197](https://doi.org/10.1017/CBO9780511543197)
-- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [Passivity Based Control of Stochastic Port-Hamiltonian Systems](passivity-based-control-of-stochastic-port-hamiltonian-systems) -- [10.1109/TAC.2012.2229791](https://doi.org/10.1109/TAC.2012.2229791)
-- [10.1002/1522-2616(200006)214:1<129::AID-MANA129>3.0.CO;2-X](https://doi.org/10.1002/1522-2616(200006)214:1<129::AID-MANA129>3.0.CO;2-X)
-- [10.1201/b17823](https://doi.org/10.1201/b17823)
+- Salamon, D. Realization theory in Hilbert space. Mathematical Systems Theory vol. 21 147–164 (1988) -- [10.1007/BF02088011](https://doi.org/10.1007/BF02088011)
+- Curtain, R. F. & Zwart, H. An Introduction to Infinite-Dimensional Linear Systems Theory. Texts in Applied Mathematics (Springer New York, 1995). doi:10.1007/978-1-4612-4224-6 -- [10.1007/978-1-4612-4224-6](https://doi.org/10.1007/978-1-4612-4224-6)
+- Da Prato, G. & Zabczyk, J. Stochastic Equations in Infinite Dimensions. (2014) doi:10.1017/cbo9781107295513 -- [10.1017/CBO9781107295513](https://doi.org/10.1017/CBO9781107295513)
+- Tucsnak, M. & Weiss, G. Well-posed systems—The LTI case and beyond. Automatica vol. 50 1757–1779 (2014) -- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
+- Lü, Q. Stochastic Well-Posed Systems and Well-Posedness of Some Stochastic Partial Differential Equations with Boundary Control and Observation. SIAM Journal on Control and Optimization vol. 53 3457–3482 (2015) -- [10.1137/151002605](https://doi.org/10.1137/151002605)
+- Lamoline, F. & Winkin, J. J. On stochastic port-hamiltonian systems with boundary control and observation. 2017 IEEE 56th Annual Conference on Decision and Control (CDC) 2492–2497 (2017) doi:10.1109/cdc.2017.8264015 -- [10.1109/CDC.2017.8264015](https://doi.org/10.1109/CDC.2017.8264015)
+- [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- Tucsnak, M. & Weiss, G. Observation and Control for Operator Semigroups. (Birkhäuser Basel, 2009). doi:10.1007/978-3-7643-8994-9 -- [10.1007/978-3-7643-8994-9](https://doi.org/10.1007/978-3-7643-8994-9)
+- Staffans, O. Well-Posed Linear Systems. (2005) doi:10.1017/cbo9780511543197 -- [10.1017/CBO9780511543197](https://doi.org/10.1017/CBO9780511543197)
+- Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Satoh, S. & Fujimoto, K. Passivity Based Control of Stochastic Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 58 1139–1153 (2013)](passivity-based-control-of-stochastic-port-hamiltonian-systems) -- [10.1109/TAC.2012.2229791](https://doi.org/10.1109/TAC.2012.2229791)
+- Tretter, C. Spectral Problems for Systems of Differential Equationsy′ +A0y = λA1y with λ-Polynomial Boundary Conditions. Mathematische Nachrichten vol. 214 129–172 (2000) -- [10.1002/1522-2616(200006)214:1<129::AID-MANA129>3.0.CO;2-X](https://doi.org/10.1002/1522-2616(200006)214:1<129::AID-MANA129>3.0.CO;2-X)
+- Chow, P.-L. Stochastic Partial Differential Equations. (2014) doi:10.1201/b17823 -- [10.1201/b17823](https://doi.org/10.1201/b17823)
 

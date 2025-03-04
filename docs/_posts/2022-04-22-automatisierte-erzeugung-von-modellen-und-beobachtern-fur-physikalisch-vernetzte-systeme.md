@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Martin Pfeifer**
+[Martin Pfeifer](authors/martin-pfeifer)
  
 ## Abstract
 Diese Arbeit befasst sich mit der Automatisierung der physikorientierten Modellbildung und des darauf basierenden Beobachterentwurfs. Hierzu werden Port-Hamiltonsche Methoden entwickelt, die erstmals eine durchgängige Automatisierung der Modellbildung und des Beobachterentwurfs für eine große Klasse physikalisch vernetzter Systeme ermöglichen.

@@ -9,7 +9,7 @@ category: proceedings-article
 ---
  
 ## Authors
-**Cristian Secchi, Stefano Stramigioli, Cesare Fantuzzi**
+[Cristian Secchi](authors/cristian-secchi), [Stefano Stramigioli](authors/stefano-stramigioli), [Cesare Fantuzzi](authors/cesare-fantuzzi)
  
 ## Abstract
 Passivity based bilateral telemanipulation schemes are often subject to a position drift between master and slave if the communication channel is implemented using scattering variables. The magnitude of this position mismatch can be significant during interaction tasks. In this paper we propose a passivity preserving scheme for compensating the position drift arising during contact tasks in port-Hamiltonian based telemanipulation improving the kinematic perception of the remote environment felt by the human operator
@@ -38,9 +38,9 @@ Passivity based bilateral telemanipulation schemes are often subject to a positi
 {% endhighlight %}
  
 ## References
-- [Sampled data systems passivity and discrete port-Hamiltonian systems](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/TRO.2004.842330](https://doi.org/10.1109/TRO.2004.842330)
-- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [10.1109/48.64895](https://doi.org/10.1109/48.64895)
-- [10.1109/TRA.2002.802200](https://doi.org/10.1109/TRA.2002.802200)
-- [10.1109/ACC.2003.1238930](https://doi.org/10.1109/ACC.2003.1238930)
+- [Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Transactions on Robotics vol. 21 574–587 (2005)](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/TRO.2004.842330](https://doi.org/10.1109/TRO.2004.842330)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Niemeyer, G. & Slotine, J.-J. E. Stable adaptive teleoperation. IEEE Journal of Oceanic Engineering vol. 16 152–162 (1991) -- [10.1109/48.64895](https://doi.org/10.1109/48.64895)
+- Stramigioli, S., van der Schaft, A., Maschke, B. & Melchiorri, C. Geometric scattering in robotic telemanipulation. IEEE Transactions on Robotics and Automation vol. 18 588–596 (2002) -- [10.1109/TRA.2002.802200](https://doi.org/10.1109/TRA.2002.802200)
+- Chopra, N., Spong, M. W., Hirche, S. & Buss, M. Bilateral teleoperation over the internet: the time varying delay problem. Proceedings of the 2003 American Control Conference, 2003. vol. 1 155–160 -- [10.1109/ACC.2003.1238930](https://doi.org/10.1109/ACC.2003.1238930)
 

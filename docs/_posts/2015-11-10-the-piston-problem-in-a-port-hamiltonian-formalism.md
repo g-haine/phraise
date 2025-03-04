@@ -10,7 +10,7 @@ tag: Distributed parameters systems; port-Hamiltonian systems
 ---
  
 ## Authors
-**Julien Lequeurre, Marius Tucsnak**
+[Julien Lequeurre](authors/julien-lequeurre), [Marius Tucsnak](authors/marius-tucsnak)
  
 ## Abstract
 The aim of this paper is to write two simple fluid-structure interaction coupled systems as wellposed port-Hamiltonian systems. Moreover, we investigate the stabilization of the system Burgers/piston thanks to a very simple feedback law.

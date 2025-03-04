@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**A Aula, R Akmeliawati, S Ahmad, T M Altalmas, S N Sidek**
+[A Aula](authors/a-aula), [R Akmeliawati](authors/r-akmeliawati), [S Ahmad](authors/s-ahmad), [T M Altalmas](authors/t-m-altalmas), [S N Sidek](authors/s-n-sidek)
  
 ## Abstract
 This paper introduces the modeling and control design of a two-wheeled wheelchair (TWW) based on structure-preserving port-Hamiltonian concept. In this paper, a model of TWW with features, including space-saving, four to two-wheel transformation, and adjustable seat height is proposed to increased mobility and independence of the user. Then, the mathematical model of a TWW in its balanced mode is derived. The model is based on the total energy in the system. The system is divided into subsystems whereby the interconnections which exist are utilized. The nonlinearity of the model is preserved using port-controlled Hamiltonian (PCH) system and made to advantage. The proposed controlled is designed based on the idea of PCH such that the energy balance in the system can be achieved while stabilizing the system.
@@ -41,15 +41,15 @@ This paper introduces the modeling and control design of a two-wheeled wheelchai
 {% endhighlight %}
  
 ## References
-- [10.4061/2011/560358](https://doi.org/10.4061/2011/560358)
-- [10.1109/MCS.2005.1411382](https://doi.org/10.1109/MCS.2005.1411382)
-- [10.1109/41.982254](https://doi.org/10.1109/41.982254)
-- [Modeling and Control of Complex Physical Systems](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
-- [Stabilizing a Flexible Beam on a Cart: A Distributed Port-Hamiltonian Approach](stabilizing-a-flexible-beam-on-a-cart-a-distributed-port-hamiltonian-approach) -- [10.1007/s00332-009-9054-1](https://doi.org/10.1007/s00332-009-9054-1)
-- [Structure Preserving Adaptive Control of Port-Hamiltonian Systems](structure-preserving-adaptive-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2012.2192359](https://doi.org/10.1109/TAC.2012.2192359)
-- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
-- [10.1016/0016-0032(82)90050-3](https://doi.org/10.1016/0016-0032(82)90050-3)
-- [10.1016/0362-546X(86)90086-6](https://doi.org/10.1016/0362-546X(86)90086-6)
-- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Karmarkar, A. M. et al. Demographic Profile of Older Adults Using Wheeled Mobility Devices. Journal of Aging Research vol. 2011 1–11 (2011) -- [10.4061/2011/560358](https://doi.org/10.4061/2011/560358)
+- Electric powered wheelchairs. IEEE Control Systems vol. 25 22–34 (2005) -- [10.1109/MCS.2005.1411382](https://doi.org/10.1109/MCS.2005.1411382)
+- Grasser, F., D’Arrigo, A., Colombi, S. & Rufer, A. C. JOE: a mobile, inverted pendulum. IEEE Transactions on Industrial Electronics vol. 49 107–114 (2002) -- [10.1109/41.982254](https://doi.org/10.1109/41.982254)
+- [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
+- [Banavar, R. & Dey, B. Stabilizing a Flexible Beam on a Cart: A Distributed Port-Hamiltonian Approach. Journal of Nonlinear Science vol. 20 131–151 (2009)](stabilizing-a-flexible-beam-on-a-cart-a-distributed-port-hamiltonian-approach) -- [10.1007/s00332-009-9054-1](https://doi.org/10.1007/s00332-009-9054-1)
+- [Dirksz, D. A. & Scherpen, J. M. A. Structure Preserving Adaptive Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 57 2880–2885 (2012)](structure-preserving-adaptive-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2012.2192359](https://doi.org/10.1109/TAC.2012.2192359)
+- Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
+- Breedveld, P. C. Thermodynamic Bond Graphs and the Problem of Thermal Inertance. Journal of the Franklin Institute vol. 314 15–40 (1982) -- [10.1016/0016-0032(82)90050-3](https://doi.org/10.1016/0016-0032(82)90050-3)
+- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 10 1021–1035 (1986) -- [10.1016/0362-546X(86)90086-6](https://doi.org/10.1016/0362-546X(86)90086-6)
+- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
 

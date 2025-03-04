@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Paul Kotyczka**
+[Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 Mit einem kürzlich vorgestellten gemischten Galerkin-Ansatz lassen sich Port-Hamiltonsche Systeme hyperbolischer Erhaltungsgleichungen in beliebiger Ortsdimension strukturerhaltend diskretisieren. Der Ansatz ist ebenso für parabolische Systeme in strukturierter Darstellung geeignet. Dieser Beitrag fasst die Methode zusammen. Weiterhin werden die Struktur und Approximationsgüte der resultierenden endlich-dimensionalen Zustandsraummodelle in Abhängigkeit der Entwurfsfreiheitsgrade analysiert. Hierzu werden exemplarisch die eindimensionale lineare Wellen- und Wärmeleitungsgleichung betrachtet und zunächst Eigenwertlagen und Lösungen von Anfangswertaufgaben analysiert. Im Hinblick auf den Steuerungsentwurf wird die Erhaltung eines flachen Ausgangs für die Wärmeleitungsgleichung nachgewiesen und die Güte der angenäherten Randsteuerungen untersucht.

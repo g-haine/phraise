@@ -10,7 +10,7 @@ tag: energy storage; port-Hamiltonian systems; nonlinear model; nonlinear model;
 ---
  
 ## Authors
-**N. Lopes, T. Hélie, A. Falaize**
+[N. Lopes](authors/n-lopes), [T. Hélie](authors/thomas-helie), [A. Falaize](authors/antoine-falaize)
  
 ## Abstract
 This paper presents a method for the passive guaranteed simulation of a class of finite-dimensional nonlinear port-Hamiltonian systems. This method combines two processes to reach both the second order accuracy and explicit computations. First, we design a one-step two- stage implicit numerical method for Port-Hamiltonian systems that preserves passivity. Second, a change of state is proposed to yield an explicit computation. It requires assumptions on the Hamiltonian variations. The complete method is illustrated on two basic examples for which these assumptions are fulfilled.

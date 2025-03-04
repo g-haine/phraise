@@ -10,7 +10,7 @@ tag: Port-Hamiltonian; Thermodynamics; Scientific machine learning; Inductive bi
 ---
  
 ## Authors
-**Quercus Hernández, Alberto Badías, Francisco Chinesta, Elías Cueto**
+[Quercus Hernández](authors/quercus-hernandez), [Alberto Badías](authors/alberto-badias), [Francisco Chinesta](authors/francisco-chinesta), [Elías Cueto](authors/elias-cueto)
  
 ## Abstract
 We develop inductive biases for the machine learning of complex physical systems based on the port-Hamiltonian formalism. To satisfy by construction the principles of thermodynamics in the learned physics (conservation of energy, non-negative entropy production), we modify accordingly the port-Hamiltonian formalism so as to achieve a port-metriplectic one. We show that the constructed networks are able to learn the physics of complex systems by parts, thus alleviating the burden associated to the experimental characterization and posterior learning process of this kind of systems. Predictions can be done, however, at the scale of the complete system. Examples are shown on the performance of the proposed technique.

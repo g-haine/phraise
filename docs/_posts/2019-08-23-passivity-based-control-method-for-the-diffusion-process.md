@@ -10,7 +10,7 @@ tag: distributed irreversible port hamiltonian systems; diffusion process; Avail
 ---
  
 ## Authors
-**Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab**
+[Saida Zenfari](authors/saida-zenfari), [Mohamed Laabissi](authors/mohamed-laabissi), [Mohammed Elarbi Achhab](authors/mohammed-elarbi-achhab)
  
 ## Abstract
 A passivity based control method is presented for the diffusion process by the use of the concept of available storage and irreversible thermodynamics. A convex extension using the internal energy as generating function will be employed to define a Lyapunov functional for the distributed irreversible port Hamiltonian system (the diffusion process). The latter functional, will be used to suggest a Lyapunov stability condition by applying the so called La Salle’s Invariance principle for infinite dimensional systems on the heat and mass diffusion process.
@@ -47,10 +47,10 @@ distributed irreversible port hamiltonian systems; diffusion process; Availabili
 {% endhighlight %}
  
 ## References
-- [10.1016/S0005-1098(01)00140-6](https://doi.org/10.1016/S0005-1098(01)00140-6)
-- [10.1016/S0016-0032(92)90049-M](https://doi.org/10.1016/S0016-0032(92)90049-M)
+- Alonso, A. A. & Ydstie, B. E. Stabilization of distributed systems using irreversible thermodynamics. Automatica vol. 37 1739–1755 (2001) -- [10.1016/S0005-1098(01)00140-6](https://doi.org/10.1016/S0005-1098(01)00140-6)
+- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/S0016-0032(92)90049-M](https://doi.org/10.1016/S0016-0032(92)90049-M)
 - Ramirez, H., Gorrec, Y.L., Maschke, B., and Couenne, F. (2013a). Passivity based control of irreversible port hamiltonian systems. In proceedings of the 2013 IFAC workshop on thermodynamic foundations of mathematical systems theory, TFMST’13. -- [10.3182/20130714-3-FR-4040.00012](https://doi.org/10.3182/20130714-3-FR-4040.00012)
-- [On the passivity based control of irreversible processes: A port-Hamiltonian approach](on-the-passivity-based-control-of-irreversible-processes-a-port-hamiltonian-approach) -- [10.1016/j.automatica.2015.07.002](https://doi.org/10.1016/j.automatica.2015.07.002)
-- [Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR](irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr) -- [10.1016/j.ces.2012.12.002](https://doi.org/10.1016/j.ces.2012.12.002)
-- [Modelling and control of multi-energy systems: An irreversible port-Hamiltonian approach](modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach) -- [10.1016/j.ejcon.2013.09.009](https://doi.org/10.1016/j.ejcon.2013.09.009)
+- [Ramírez, H., Le Gorrec, Y., Maschke, B. & Couenne, F. On the passivity based control of irreversible processes: A port-Hamiltonian approach. Automatica vol. 64 105–111 (2016)](on-the-passivity-based-control-of-irreversible-processes-a-port-hamiltonian-approach) -- [10.1016/j.automatica.2015.07.002](https://doi.org/10.1016/j.automatica.2015.07.002)
+- [Ramirez, H., Maschke, B. & Sbarbaro, D. Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR. Chemical Engineering Science vol. 89 223–234 (2013)](irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr) -- [10.1016/j.ces.2012.12.002](https://doi.org/10.1016/j.ces.2012.12.002)
+- [Ramirez, H., Maschke, B. & Sbarbaro, D. Modelling and control of multi-energy systems: An irreversible port-Hamiltonian approach. European Journal of Control vol. 19 513–520 (2013)](modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach) -- [10.1016/j.ejcon.2013.09.009](https://doi.org/10.1016/j.ejcon.2013.09.009)
 

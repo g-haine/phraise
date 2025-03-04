@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Francisco M. Marquez, Pedro J. Zufiria, Luis J. Yebra**
+[Francisco M. Marquez](authors/francisco-m-marquez), [Pedro J. Zufiria](authors/pedro-j-zufiria), [Luis J. Yebra](authors/luis-j-yebra)
  
 ## Abstract
 In this article we present the implementation in Modelica language of a library with the fundamental components for modeling a wide variety of multiphysics systems. Modelica is an object-oriented modeling language, which allows to make a simple, systematic and elegant design of the library. The mechanisms of inheritance and composition of Modelica facilitate the modeling and reuse of components in different domains of Physics. To model the behavior of each component in a systematic framework we have used the theory of port-Hamiltonian systems, formulated mainly by means of differential geometry. The port-Hamiltonian approach allows a methodical definition of complex systems by connecting simple systems that exchange energy through connection ports. To graphically represent the components of a system and their connections, we have employed slightly modified bond graphs symbols for easier reading. The general and systematic applicability of the library is illustrated via two examples framed in different domains of Physics: the mechanical Sun-Earth-Moon system where we perform an analysis of errors that justifies the employed system of units, and the electrical nonlinear Chua circuit, modeled by composition of port-Hamiltonian subsystems. Both derived models have been built and simulated based on the more general models of mechanical and electrical systems, which are also part of the library developed with the port-Hamiltonian approach.
@@ -41,29 +41,29 @@ In this article we present the implementation in Modelica language of a library 
 {% endhighlight %}
  
 ## References
-- [10.1007/978-1-4419-9982-5](https://doi.org/10.1007/978-1-4419-9982-5)
-- [10.1109/81.246141](https://doi.org/10.1109/81.246141)
-- [10.1109/81.246140](https://doi.org/10.1109/81.246140)
-- [10.1002/9781118152812](https://doi.org/10.1002/9781118152812)
-- [10.1007/s10569-011-9352-4](https://doi.org/10.1007/s10569-011-9352-4)
-- [10.1016/S0370-1573(98)00082-9](https://doi.org/10.1016/S0370-1573(98)00082-9)
-- [10.1177/003754979205800404](https://doi.org/10.1177/003754979205800404)
-- [Interconnection of port-Hamiltonian systems and composition of Dirac structures](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
-- [Dirac manifolds](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
-- [10.1201/b19290-4](https://doi.org/10.1201/b19290-4)
-- [On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
-- [10.1007/978-1-4757-2261-1](https://doi.org/10.1007/978-1-4757-2261-1)
-- [10.1093/oso/9780199212903.001.0001](https://doi.org/10.1093/oso/9780199212903.001.0001)
-- [10.1109/CDC.2011.6160588](https://doi.org/10.1109/CDC.2011.6160588)
-- [10.1016/0016-0032(85)90062-6](https://doi.org/10.1016/0016-0032(85)90062-6)
-- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
-- [10.1109/MCS.2007.4339280](https://doi.org/10.1109/MCS.2007.4339280)
-- [Finite-time thermodynamics of port-Hamiltonian systems](finite-time-thermodynamics-of-port-hamiltonian-systems) -- [10.1016/j.physd.2013.07.017](https://doi.org/10.1016/j.physd.2013.07.017)
-- [10.1109/9.73561](https://doi.org/10.1109/9.73561)
-- [10.1080/02286203.2001.11442201](https://doi.org/10.1080/02286203.2001.11442201)
-- [Derivation of Input-State-Output Port-Hamiltonian Systems from bond graphs](derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs) -- [10.1016/j.simpat.2008.02.007](https://doi.org/10.1016/j.simpat.2008.02.007)
-- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [10.1016/0016-0032(75)90131-3](https://doi.org/10.1016/0016-0032(75)90131-3)
-- [Modeling and Control of Complex Physical Systems](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
-- [Port-Hamiltonian Systems Theory: An Introductory Overview](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Lee, J. M. Introduction to Smooth Manifolds. Graduate Texts in Mathematics (Springer New York, 2012). doi:10.1007/978-1-4419-9982-5 -- [10.1007/978-1-4419-9982-5](https://doi.org/10.1007/978-1-4419-9982-5)
+- Kennedy, M. P. Three steps to chaos. II. A Chua’s circuit primer. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 40 657–674 (1993) -- [10.1109/81.246141](https://doi.org/10.1109/81.246141)
+- Kennedy, M. P. Three steps to chaos. I. Evolution. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 40 640–656 (1993) -- [10.1109/81.246140](https://doi.org/10.1109/81.246140)
+- Karnopp, D. C., Margolis, D. L. & Rosenberg, R. C. System Dynamics. (2012) doi:10.1002/9781118152812 -- [10.1002/9781118152812](https://doi.org/10.1002/9781118152812)
+- Luzum, B. et al. The IAU 2009 system of astronomical constants: the report of the IAU working group on numerical standards for Fundamental Astronomy. Celestial Mechanics and Dynamical Astronomy vol. 110 293–304 (2011) -- [10.1007/s10569-011-9352-4](https://doi.org/10.1007/s10569-011-9352-4)
+- Lieb, E. H. & Yngvason, J. The physics and mathematics of the second law of thermodynamics. Physics Reports vol. 310 1–96 (1999) -- [10.1016/S0370-1573(98)00082-9](https://doi.org/10.1016/S0370-1573(98)00082-9)
+- Cellier, F. E. Hierarchical non-linear bond graphs: a unified methodology for modeling complex physical systems. SIMULATION vol. 58 230–248 (1992) -- [10.1177/003754979205800404](https://doi.org/10.1177/003754979205800404)
+- [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- Dai, S., Lattmann, Z. & Koutsoukos, X. Compositional Design of Cyber-Physical Systems Using Port-Hamiltonian Systems. Cyber-Physical Systems 33–59 (2015) doi:10.1201/b19290-4 -- [10.1201/b19290-4](https://doi.org/10.1201/b19290-4)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- Husemoller, D. Fibre Bundles. Graduate Texts in Mathematics (Springer New York, 1994). doi:10.1007/978-1-4757-2261-1 -- [10.1007/978-1-4757-2261-1](https://doi.org/10.1007/978-1-4757-2261-1)
+- Holm, D. D., Schmah, T., Stoica, C. & Ellis, D. C. P. Geometric Mechanics and Symmetry. (2009) doi:10.1093/oso/9780199212903.001.0001 -- [10.1093/oso/9780199212903.001.0001](https://doi.org/10.1093/oso/9780199212903.001.0001)
+- Batlle, C., Massana, I. & Simo, E. Representation of a general composition of Dirac structures. IEEE Conference on Decision and Control and European Control Conference 5199–5204 (2011) doi:10.1109/cdc.2011.6160588 -- [10.1109/CDC.2011.6160588](https://doi.org/10.1109/CDC.2011.6160588)
+- Breedveld, P. C. Multibond graph elements in physical systems theory. Journal of the Franklin Institute vol. 319 1–36 (1985) -- [10.1016/0016-0032(85)90062-6](https://doi.org/10.1016/0016-0032(85)90062-6)
+- Arnold, V. I. Mathematical Methods of Classical Mechanics. Graduate Texts in Mathematics (Springer New York, 1989). doi:10.1007/978-1-4757-2063-1 -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
+- Willems, J. The Behavioral Approach to Open and Interconnected Systems. IEEE Control Systems Magazine vol. 27 x1–x1 (2007) -- [10.1109/MCS.2007.4339280](https://doi.org/10.1109/MCS.2007.4339280)
+- [Delvenne, J.-C. & Sandberg, H. Finite-time thermodynamics of port-Hamiltonian systems. Physica D: Nonlinear Phenomena vol. 267 123–132 (2014)](finite-time-thermodynamics-of-port-hamiltonian-systems) -- [10.1016/j.physd.2013.07.017](https://doi.org/10.1016/j.physd.2013.07.017)
+- Willems, J. C. Paradigms and puzzles in the theory of dynamical systems. IEEE Transactions on Automatic Control vol. 36 259–294 (1991) -- [10.1109/9.73561](https://doi.org/10.1109/9.73561)
+- Wong, Y. K. Application of Bond Graph Models to Economics. International Journal of Modelling and Simulation vol. 21 181–190 (2001) -- [10.1080/02286203.2001.11442201](https://doi.org/10.1080/02286203.2001.11442201)
+- [Donaire, A. & Junco, S. Derivation of Input-State-Output Port-Hamiltonian Systems from bond graphs. Simulation Modelling Practice and Theory vol. 17 137–151 (2009)](derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs) -- [10.1016/j.simpat.2008.02.007](https://doi.org/10.1016/j.simpat.2008.02.007)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Thoma, J. U. Entropy and mass flow for energy conversion. Journal of the Franklin Institute vol. 299 89–96 (1975) -- [10.1016/0016-0032(75)90131-3](https://doi.org/10.1016/0016-0032(75)90131-3)
+- [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

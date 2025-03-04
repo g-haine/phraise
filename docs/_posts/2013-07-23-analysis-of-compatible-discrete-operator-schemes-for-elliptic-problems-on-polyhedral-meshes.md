@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Jérôme Bonelle, Alexandre Ern**
+[Jérôme Bonelle](authors/jerome-bonelle), [Alexandre Ern](authors/alexandre-ern)
  
 ## Abstract
 Compatible schemes localize degrees of freedom according to the physical nature of the underlying fields and operate a clear distinction between topological laws and closure relations. For elliptic problems, the cornerstone in the scheme design is the discrete Hodge operator linking gradients to fluxes by means of a dual mesh, while a structure-preserving discretization is employed for the gradient and divergence operators. The discrete Hodge operator is sparse, symmetric positive definite and is assembled cellwise from local operators. We analyze two schemes depending on whether the potential degrees of freedom are attached to the vertices or to the cells of the primal mesh. We derive new functional analysis results on the discrete gradient that are the counterpart of the Sobolev embeddings. Then, we identify the two design properties of the local discrete Hodge operators yielding optimal discrete energy error estimates. Additionally, we show how these operators can be built from local nonconforming gradient reconstructions using a dual barycentric mesh. In this case, we also prove an optimal L 2 -error estimate for the potential for smooth solutions. Links with existing schemes (finite elements, finite volumes, mimetic finite differences) are discussed. Numerical results are presented on three-dimensional polyhedral meshes. The detailed material is available from http://hal.archives-ouvertes.fr/hal-00751284

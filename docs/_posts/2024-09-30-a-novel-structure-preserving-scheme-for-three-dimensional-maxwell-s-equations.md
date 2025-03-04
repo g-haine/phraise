@@ -2,14 +2,14 @@
 layout: post
 title: "A Novel Structure-Preserving Scheme for Three-Dimensional Maxwell’s Equations"
 date: 2024-09-30 00:00:00 +0100
-permalink: a-novel-structure-preserving-scheme-for-three-dimensional-maxwells-equations
+permalink: a-novel-structure-preserving-scheme-for-three-dimensional-maxwell-s-equations
 year: 2024
 authors: Chaolong Jiang, Wenjun Cai, Yushun Wang, Haochen Li
 category: journal-article
 ---
  
 ## Authors
-**Chaolong Jiang, Wenjun Cai, Yushun Wang, Haochen Li**
+[Chaolong Jiang](authors/chaolong-jiang), [Wenjun Cai](authors/wenjun-cai), [Yushun Wang](authors/yushun-wang), [Haochen Li](authors/haochen-li)
  
 ## Citation
 - **Journal:** CSIAM Transactions on Applied Mathematics

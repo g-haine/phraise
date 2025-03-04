@@ -10,7 +10,7 @@ tag: port-Hamiltonian systems; networked systems; output consensus
 ---
  
 ## Authors
-**Shuai Feng, Yu Kawano, Michele Cucuzzella, Jacquelien M.A. Scherpen**
+[Shuai Feng](authors/shuai-feng), [Yu Kawano](authors/yu-kawano), [Michele Cucuzzella](authors/michele-cucuzzella), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this paper, we study output consensus of coupled linear port-Hamiltonian systems on graphs in the presence of constant disturbances, where couplings are allowed to be both static and dynamic. Utilizing port-Hamiltonian structures, we present dynamic controllers achieving output consensus where the consensus values are determined by the disturbances. Finally, the utility of the proposed controller is illustrated by applying it to current sharing of DC microgrids.
@@ -47,13 +47,13 @@ port-Hamiltonian systems; networked systems; output consensus
 {% endhighlight %}
  
 ## References
-- [10.1016/j.automatica.2016.09.008](https://doi.org/10.1016/j.automatica.2016.09.008)
-- [10.1109/JPROC.2006.887293](https://doi.org/10.1109/JPROC.2006.887293)
-- [10.1109/TAC.2004.834113](https://doi.org/10.1109/TAC.2004.834113)
-- [10.1016/j.automatica.2021.109624](https://doi.org/10.1016/j.automatica.2021.109624)
-- [10.1109/LCSYS.2018.2857559](https://doi.org/10.1109/LCSYS.2018.2857559)
-- [Port-Hamiltonian Systems on Graphs](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
-- [Equal distribution of satellite constellations on circular target orbits](equal-distribution-of-satellite-constellations-on-circular-target-orbits) -- [10.1016/j.automatica.2014.08.027](https://doi.org/10.1016/j.automatica.2014.08.027)
-- [Formation Control and Velocity Tracking for a Group of Nonholonomic Wheeled Robots](formation-control-and-velocity-tracking-for-a-group-of-nonholonomic-wheeled-robots) -- [10.1109/TAC.2015.2504547](https://doi.org/10.1109/TAC.2015.2504547)
-- [10.1109/LCSYS.2020.3007222](https://doi.org/10.1109/LCSYS.2020.3007222)
+- Monshizadeh, N. & De Persis, C. Agreeing in networks: Unmatched disturbances, algebraic constraints and optimality. Automatica vol. 75 63–74 (2017) -- [10.1016/j.automatica.2016.09.008](https://doi.org/10.1016/j.automatica.2016.09.008)
+- Olfati-Saber, R., Fax, J. A. & Murray, R. M. Consensus and Cooperation in Networked Multi-Agent Systems. Proceedings of the IEEE vol. 95 215–233 (2007) -- [10.1109/JPROC.2006.887293](https://doi.org/10.1109/JPROC.2006.887293)
+- Olfati-Saber, R. & Murray, R. M. Consensus Problems in Networks of Agents With Switching Topology and Time-Delays. IEEE Transactions on Automatic Control vol. 49 1520–1533 (2004) -- [10.1109/TAC.2004.834113](https://doi.org/10.1109/TAC.2004.834113)
+- Ran, M. & Xie, L. Practical output consensus of nonlinear heterogeneous multi-agent systems with limited data rate. Automatica vol. 129 109624 (2021) -- [10.1016/j.automatica.2021.109624](https://doi.org/10.1016/j.automatica.2021.109624)
+- Trip, S., Cucuzzella, M., Cheng, X. & Scherpen, J. Distributed Averaging Control for Voltage Regulation and Current Sharing in DC Microgrids. IEEE Control Systems Letters vol. 3 174–179 (2019) -- [10.1109/LCSYS.2018.2857559](https://doi.org/10.1109/LCSYS.2018.2857559)
+- [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- [Vos, E., Scherpen, J. M. A. & van der Schaft, A. J. Equal distribution of satellite constellations on circular target orbits. Automatica vol. 50 2641–2647 (2014)](equal-distribution-of-satellite-constellations-on-circular-target-orbits) -- [10.1016/j.automatica.2014.08.027](https://doi.org/10.1016/j.automatica.2014.08.027)
+- [Vos, E., van der Schaft, A. J. & Scherpen, J. M. A. Formation Control and Velocity Tracking for a Group of Nonholonomic Wheeled Robots. IEEE Transactions on Automatic Control vol. 61 2702–2707 (2016)](formation-control-and-velocity-tracking-for-a-group-of-nonholonomic-wheeled-robots) -- [10.1109/TAC.2015.2504547](https://doi.org/10.1109/TAC.2015.2504547)
+- Ferguson, J., Cucuzzella, M. & Scherpen, J. M. A. Exponential Stability and Local ISS for DC Networks. IEEE Control Systems Letters vol. 5 893–898 (2021) -- [10.1109/LCSYS.2020.3007222](https://doi.org/10.1109/LCSYS.2020.3007222)
 

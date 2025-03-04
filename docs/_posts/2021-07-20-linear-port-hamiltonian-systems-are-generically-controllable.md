@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Jonas Kirchhoff**
+[Jonas Kirchhoff](authors/jonas-kirchhoff)
  
 ## Abstract
 The new concept of relative generic subsets is introduced. It is shown that the set of controllable linear finite-dimensional port-Hamiltonian systems is a relative generic subset of the set of all linear finite-dimensional port-Hamiltonian systems. This implies that a random, continuously distributed port-Hamiltonian system is almost surely controllable.
@@ -42,6 +42,6 @@ The new concept of relative generic subsets is introduced. It is shown that the 
 {% endhighlight %}
  
 ## References
-- [10.1007/978-1-4612-1082-5](https://doi.org/10.1007/978-1-4612-1082-5)
-- [10.1016/0024-3795(90)90267-G](https://doi.org/10.1016/0024-3795(90)90267-G)
+- Wonham, W. M. Linear Multivariable Control. (Springer New York, 1985). doi:10.1007/978-1-4612-1082-5 -- [10.1007/978-1-4612-1082-5](https://doi.org/10.1007/978-1-4612-1082-5)
+- Bhatia, R., Elsner, L. & Krause, G. Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. Linear Algebra and its Applications vol. 142 195–209 (1990) -- [10.1016/0024-3795(90)90267-G](https://doi.org/10.1016/0024-3795(90)90267-G)
 

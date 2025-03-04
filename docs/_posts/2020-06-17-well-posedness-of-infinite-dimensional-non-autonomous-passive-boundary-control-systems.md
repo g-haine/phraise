@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Birgit Jacob, Hafida Laasri**
+[Birgit Jacob](authors/birgit-jacob), [Hafida Laasri](authors/hafida-laasri)
  
 ## Abstract
 We study a class of non-autonomous boundary control and observation linear systems that are governed by non-autonomous multiplicative perturbations. This class is motivated by different fundamental partial differential equations, such as controlled wave equations and Timoshenko beams. Our main results give sufficient condition for well-posedness, existence and uniqueness of classical and mild solutions.

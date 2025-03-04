@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Satoshi Satoh**
+[Satoshi Satoh](authors/satoshi-satoh)
  
 ## Abstract
 As a practically important class of nonlinear stochastic systems, this paper considers stochastic port‐Hamiltonian systems (SPHSs) and investigates the stochastic input‐to‐state stability (SISS) property of a class of SPHSs. We clarify necessary conditions for the closed‐loop system of an SPHS to be SISS. Moreover, we provide a systematic construction of both the SISS controller and Lyapunov function so that the proposed necessary conditions hold. In the main results, the stochastic generalized canonical transformation plays a key role. The stochastic generalized canonical transformation technique enables to design both coordinate transformation and feedback controller with preserving the SPHS structure of the closed‐loop system. Consequently, the main theorem guarantees that the closed‐loop system obtained by the proposed method is SISS against both deterministic disturbance and stochastic noise. Copyright © 2017 John Wiley &amp; Sons, Ltd.

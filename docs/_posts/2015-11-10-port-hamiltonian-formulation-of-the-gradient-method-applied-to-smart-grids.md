@@ -10,7 +10,7 @@ tag: gradient method; port-Hamiltonian; passivity; convex optimization; power ne
 ---
  
 ## Authors
-**T.W. Stegink, C. De Persis, A.J. van der Schaft**
+[T.W. Stegink](authors/tjerk-w-stegink), [C. De Persis](authors/claudio-de-persis), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 The gradient method is a well-known tool for solving convex optimization problems. This paper shows that the gradient method admits a Brayton-Moser and a port-Hamiltonian representation. In fact, its dynamics can be interpreted as a interconnection of multiple (port-Hamiltonian) passive systems, which plays a key role in proving asymptotic stability of the method. As an application to smart grids, this paper studies the problem of frequency regulation in power grids, while maximizing the social welfare. By applying the gradient method, we obtain a real-time dynamic pricing model in port-Hamiltonian form. By coupling with the port-Hamiltonian description of the physical network we obtain a closed-loop port-Hamiltonian system, which properties are exploited to prove asymptotic stability to the set of optimal points.
@@ -47,10 +47,10 @@ gradient method; port-Hamiltonian; passivity; convex optimization; power network
 {% endhighlight %}
  
 ## References
-- [10.1109/59.761873](https://doi.org/10.1109/59.761873)
-- [10.1109/59.962415](https://doi.org/10.1109/59.962415)
-- [10.1016/j.automatica.2014.10.081](https://doi.org/10.1016/j.automatica.2014.10.081)
+- Alvarado, F. The stability of power system markets. IEEE Transactions on Power Systems vol. 14 505–511 (1999) -- [10.1109/59.761873](https://doi.org/10.1109/59.761873)
+- Alvarado, F. L., Meng, J., DeMarco, C. L. & Mota, W. S. Stability analysis of interconnected power systems coupled with market dynamics. IEEE Transactions on Power Systems vol. 16 695–701 (2001) -- [10.1109/59.962415](https://doi.org/10.1109/59.962415)
+- Bürger, M. & De Persis, C. Dynamic coupling design for nonlinear output agreement and time-varying flow control. Automatica vol. 51 210–222 (2015) -- [10.1016/j.automatica.2014.10.081](https://doi.org/10.1016/j.automatica.2014.10.081)
 - Cherukuri, A., Mallada, E., Cortes, J., 2015. Asymptotic convergence of constrained primal-dual dynamics. Preprint submitted to Elsevier. -- [10.1016/j.sysconle.2015.10.006](https://doi.org/10.1016/j.sysconle.2015.10.006)
-- [10.1016/j.automatica.2010.08.011](https://doi.org/10.1016/j.automatica.2010.08.011)
-- [Port-Hamiltonian Systems Theory: An Introductory Overview](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Feijer, D. & Paganini, F. Stability of primal–dual gradient dynamics and applications to network optimization. Automatica vol. 46 1974–1981 (2010) -- [10.1016/j.automatica.2010.08.011](https://doi.org/10.1016/j.automatica.2010.08.011)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

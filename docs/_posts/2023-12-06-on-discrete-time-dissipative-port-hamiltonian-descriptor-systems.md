@@ -10,7 +10,7 @@ tag: Port-Hamiltonian system; Differential-algebraic equation; Descriptor system
 ---
  
 ## Authors
-**Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann**
+[Karim Cherifi](authors/karim-cherifi), [Hannes Gernandt](authors/hannes-gernandt), [Dorothea Hinsen](authors/dorothea-hinsen), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
 Port-Hamiltonian (pH) systems have been studied extensively for linear continuous-time dynamical systems. This manuscript presents a discrete-time pH descriptor formulation for linear, completely causal, scattering passive dynamical systems based on the system coefficients. The relation of this formulation to positive and bounded real systems and the characterization via positive semidefinite solutions of Kalman–Yakubovich–Popov inequalities is also studied.

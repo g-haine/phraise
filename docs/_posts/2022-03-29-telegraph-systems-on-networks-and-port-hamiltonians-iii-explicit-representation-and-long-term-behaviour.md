@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Jacek Banasiak, Adam Błoch**
+[Jacek Banasiak](authors/jacek-banasiak), [Adam Błoch](authors/adam-bloch)
  
 ## Abstract
 In this paper we present an explicit formula for the semigroup governing the solution to hyperbolic systems on a metric graph, satisfying general linear Kirchhoff's type boundary conditions. Further, we use this representation to establish the long term behaviour of the solutions. The crucial role is played by the spectral decomposition of the boundary matrix.

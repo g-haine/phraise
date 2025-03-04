@@ -10,7 +10,7 @@ tag: Energy-based modeling; Dissipation; Structure preservation; 37J06; 65P10; 6
 ---
  
 ## Authors
-**R. Altmann, P. Schulze**
+[R. Altmann](authors/r-altmann), [P. Schulze](authors/philipp-schulze)
  
 ## Abstract
 We introduce an energy-based model, which seems especially suited for constrained systems. The proposed model generalizes classical port-Hamiltonian input–state–output systems and exhibits similar properties such as energy dissipation as well as structure-preserving interconnection and Petrov–Galerkin projection. In terms of time discretization, the midpoint rule and discrete gradient methods are dissipation-preserving. Besides the verification of these properties, we present ten examples from different fields of application illustrating the great flexibility of the proposed framework.

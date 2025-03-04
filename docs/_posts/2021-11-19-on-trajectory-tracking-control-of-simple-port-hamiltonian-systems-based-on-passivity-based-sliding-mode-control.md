@@ -10,7 +10,7 @@ tag: Passivity-based control; Nonlinear control; Robust Control
 ---
  
 ## Authors
-**N. Sakata, K. Fujimoto, I. Maruta**
+[N. Sakata](authors/naoki-sakata), [K. Fujimoto](authors/kenji-fujimoto), [I. Maruta](authors/ichiro-maruta)
  
 ## Abstract
 In this work, the passivity-based sliding mode control technique is applied to trajectory tracking control problems. This method unifies two methods, sliding mode control and passivity-based control, and has the advantages of both control methods. This paper proposes a pair of a pre-coordinate transformation and a state feedback so that we obtain a desired error port-Hamiltonian system that describes the dynamics of the tracking error. This approach enables us to obtain appropriate design parameters satisfying a kind of matching condition to realize sliding mode control with a Lyapunov function. The effectiveness of the proposed method is demonstrated by a numerical simulation.
@@ -47,13 +47,13 @@ Passivity-based control; Nonlinear control; Robust Control
 {% endhighlight %}
  
 ## References
-- [10.1109/LCSYS.2019.2919842](https://doi.org/10.1109/LCSYS.2019.2919842)
-- [Passivity based control of a class of Hamiltonian systems with nonholonomic constraints](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
-- [A Passivity Based Sliding Mode Controller for Simple Port-Hamiltonian Systems](a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems) -- [10.1109/LCSYS.2020.3005327](https://doi.org/10.1109/LCSYS.2020.3005327)
-- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
+- Ferguson, J., Donaire, A. & Middleton, R. H. Kinetic-Potential Energy Shaping for Mechanical Systems With Applications to Tracking. IEEE Control Systems Letters vol. 3 960–965 (2019) -- [10.1109/LCSYS.2019.2919842](https://doi.org/10.1109/LCSYS.2019.2919842)
+- [Fujimoto, K., Sakai, S. & Sugie, T. Passivity based control of a class of Hamiltonian systems with nonholonomic constraints. Automatica vol. 48 3054–3063 (2012)](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
+- [Fujimoto, K., Sakata, N., Maruta, I. & Ferguson, J. A Passivity Based Sliding Mode Controller for Simple Port-Hamiltonian Systems. IEEE Control Systems Letters vol. 5 839–844 (2021)](a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems) -- [10.1109/LCSYS.2020.3005327](https://doi.org/10.1109/LCSYS.2020.3005327)
+- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
 - Levant, A. (2003). Quasi-continuous high-order sliding-mode controllers. In 42nd IEEE International Conference on Decision and Control (IEEE Cat. No.03CH37475), volume 5, 4605–4610 Vol.5. doi: 10.1109/CDC.2003.1272286. -- [10.1109/CDC.2003.1272286](https://doi.org/10.1109/CDC.2003.1272286)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [10.1109/TAC.2014.2330701](https://doi.org/10.1109/TAC.2014.2330701)
-- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Romero, J. G., Ortega, R. & Sarras, I. A Globally Exponentially Stable Tracking Controller for Mechanical Systems Using Position Feedback. IEEE Transactions on Automatic Control vol. 60 818–823 (2015) -- [10.1109/TAC.2014.2330701](https://doi.org/10.1109/TAC.2014.2330701)
+- Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
 

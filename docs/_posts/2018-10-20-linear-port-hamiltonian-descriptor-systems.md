@@ -10,7 +10,7 @@ tag: Port-Hamiltonian system; Descriptor system; Differential-algebraic equation
 ---
  
 ## Authors
-**Christopher Beattie, Volker Mehrmann, Hongguo Xu, Hans Zwart**
+[Christopher Beattie](authors/christopher-beattie), [Volker Mehrmann](authors/volker-mehrmann), [Hongguo Xu](authors/hongguo-xu), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
 The modeling framework of port-Hamiltonian systems is systematically extended to linear constrained dynamical systems (descriptor systems, differential-algebraic equations) of arbitrary index and with time-varying constraints. A new algebraically and geometrically defined system structure is derived. It is shown that this structure is invariant under equivalence transformations, and that it is adequate also for the modeling of high-index descriptor systems. The regularization procedure for descriptor systems to make them suitable for simulation and control is modified to preserve the port-Hamiltonian form. The relevance of the new structure is demonstrated with several examples.

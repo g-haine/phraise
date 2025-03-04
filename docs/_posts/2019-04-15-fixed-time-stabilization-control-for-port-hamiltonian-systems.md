@@ -10,7 +10,7 @@ tag: Fixed-time stability region; Port-Hamiltonian systems; Fixed-time attractiv
 ---
  
 ## Authors
-**Xinggui Liu, Xiaofeng Liao**
+[Xinggui Liu](authors/xinggui-liu), [Xiaofeng Liao](authors/xiaofeng-liao)
  
 ## Abstract
 In this paper, the locally fixed-time and globally fixed-time stabilization problems for the port-Hamiltonian (PH) systems via the interconnection and damping assignment passivity-based control technique are discussed. The definitions of fixed-time stability region (or region of attraction) and fixed-time stability boundary are given in this paper. From this starting point, the sufficient condition of globally fixed-time attractivity of a prespecified locally fixed-time stability region is obtained. Combining the locally fixed-time stability and the globally fixed-time attractivity of a prespecified locally fixed-time stability region, the globally fixed-time stabilization problem for PH system is effectively solved. Furthermore, the globally fixed-time control scheme independent of locally fixed-time stability region has also been derived by constructing a novel Lyapunov function. A illustrative example shows that the results obtained in this paper work very well in fixed-time control design of PH systems.

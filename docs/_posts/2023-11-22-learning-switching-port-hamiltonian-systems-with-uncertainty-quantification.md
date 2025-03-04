@@ -10,7 +10,7 @@ tag: Bayesian methods; Nonparametric methods; Grey box modelling; Mechatronic sy
 ---
  
 ## Authors
-**Thomas Beckers, Tom Z. Jiahao, George J. Pappas**
+[Thomas Beckers](authors/thomas-beckers), [Tom Z. Jiahao](authors/tom-z-jiahao), [George J. Pappas](authors/george-j-pappas)
  
 ## Abstract
 Switching physical systems are ubiquitous in modern control applications, for instance, locomotion behavior of robots and animals, power converters with switches and diodes. The dynamics and switching conditions are often hard to obtain or even inaccessible in case of a-priori unknown environments and nonlinear components. Black-box neural networks can learn to approximately represent switching dynamics, but typically require a large amount of data, neglect the underlying axioms of physics, and lack of uncertainty quantification. We propose a Gaussian process based learning approach enhanced by switching Port-Hamiltonian systems (GP-SPHS) to learn physical plausible system dynamics and identify the switching condition. The Bayesian nature of Gaussian processes uses collected data to form a distribution over all possible switching policies and dynamics that allows for uncertainty quantification. Furthermore, the proposed approach preserves the compositional nature of Port-Hamiltonian systems. A simulation with a hopping robot validates the effectiveness of the proposed approach.
@@ -48,17 +48,17 @@ Bayesian methods; Nonparametric methods; Grey box modelling; Mechatronic systems
  
 ## References
 - Adler, R.J. (2010). The geometry of random fields. SIAM. -- [10.1137/1.9780898718980](https://doi.org/10.1137/1.9780898718980)
-- [10.1007/s10846-020-01260-7](https://doi.org/10.1007/s10846-020-01260-7)
-- [Interconnection of port-Hamiltonian systems and composition of Dirac structures](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
-- [Port-Hamiltonian neural networks for learning explicit time-dependent dynamical systems](port-hamiltonian-neural-networks-for-learning-explicit-time-dependent-dynamical-systems) -- [10.1103/PhysRevE.104.034312](https://doi.org/10.1103/PhysRevE.104.034312)
-- [10.1016/j.ins.2012.07.014](https://doi.org/10.1016/j.ins.2012.07.014)
-- [10.1063/5.0065617](https://doi.org/10.1063/5.0065617)
-- [10.1038/s42254-021-00314-5](https://doi.org/10.1038/s42254-021-00314-5)
-- [Port-Hamiltonian Systems in Adaptive and Learning Control: A Survey](port-hamiltonian-systems-in-adaptive-and-learning-control-a-survey) -- [10.1109/TAC.2015.2458491](https://doi.org/10.1109/TAC.2015.2458491)
-- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
-- [10.1063/5.0048129](https://doi.org/10.1063/5.0048129)
-- [Port-Hamiltonian Systems Theory: An Introductory Overview](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- [10.1109/34.735807](https://doi.org/10.1109/34.735807)
+- Anderson, R. B., Marshall, J. A., L’Afflitto, A. & Dotterweich, J. M. Model Reference Adaptive Control of Switched Dynamical Systems with Applications to Aerial Robotics. Journal of Intelligent &amp; Robotic Systems vol. 100 1265–1281 (2020) -- [10.1007/s10846-020-01260-7](https://doi.org/10.1007/s10846-020-01260-7)
+- [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
+- [Desai, S. A., Mattheakis, M., Sondak, D., Protopapas, P. & Roberts, S. J. Port-Hamiltonian neural networks for learning explicit time-dependent dynamical systems. Physical Review E vol. 104 (2021)](port-hamiltonian-neural-networks-for-learning-explicit-time-dependent-dynamical-systems) -- [10.1103/PhysRevE.104.034312](https://doi.org/10.1103/PhysRevE.104.034312)
+- Hou, Z.-S. & Wang, Z. From model-based control to data-driven control: Survey, classification and perspective. Information Sciences vol. 235 3–35 (2013) -- [10.1016/j.ins.2012.07.014](https://doi.org/10.1016/j.ins.2012.07.014)
+- Jiahao, T. Z., Hsieh, M. A. & Forgoston, E. Knowledge-based learning of nonlinear dynamics and chaos. Chaos: An Interdisciplinary Journal of Nonlinear Science vol. 31 (2021) -- [10.1063/5.0065617](https://doi.org/10.1063/5.0065617)
+- Karniadakis, G. E. et al. Physics-informed machine learning. Nature Reviews Physics vol. 3 422–440 (2021) -- [10.1038/s42254-021-00314-5](https://doi.org/10.1038/s42254-021-00314-5)
+- [Nageshrao, S. P., Lopes, G. A. D., Jeltsema, D. & Babuska, R. Port-Hamiltonian Systems in Adaptive and Learning Control: A Survey. IEEE Transactions on Automatic Control vol. 61 1223–1238 (2016)](port-hamiltonian-systems-in-adaptive-and-learning-control-a-survey) -- [10.1109/TAC.2015.2458491](https://doi.org/10.1109/TAC.2015.2458491)
+- Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
+- Rath, K., Albert, C. G., Bischl, B. & von Toussaint, U. Symplectic Gaussian process regression of maps in Hamiltonian systems. Chaos: An Interdisciplinary Journal of Nonlinear Science vol. 31 (2021) -- [10.1063/5.0048129](https://doi.org/10.1063/5.0048129)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Williams, C. K. I. & Barber, D. Bayesian classification with Gaussian processes. IEEE Transactions on Pattern Analysis and Machine Intelligence vol. 20 1342–1351 (1998) -- [10.1109/34.735807](https://doi.org/10.1109/34.735807)
 - Winkler, A.W. (2017). Xpp - A collection of ROS packages for the visualization of legged robots. URL https://doi.org/10.5281/zenodo.1037901.
-- [10.1016/j.ijepes.2018.06.016](https://doi.org/10.1016/j.ijepes.2018.06.016)
+- Wu, X., Zhang, K., Cheng, M. & Xin, X. A switched dynamical system approach towards the economic dispatch of renewable hybrid power systems. International Journal of Electrical Power &amp; Energy Systems vol. 103 440–457 (2018) -- [10.1016/j.ijepes.2018.06.016](https://doi.org/10.1016/j.ijepes.2018.06.016)
 

@@ -10,7 +10,7 @@ tag: energy storage; port-Hamiltonian systems; eigenfunctions; damping; nonlinea
 ---
  
 ## Authors
-**Thomas Hélie, Denis Matignon**
+[Thomas Hélie](authors/thomas-helie), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 This paper introduces linear and nonlinear damping models, which preserve the eigenspaces of conservative linear mechanical problems. After some recalls on the finite dimensional case and on Caughey's linear dampings, an extension to a nonlinear class is introduced. These results are recast in the port-Hamiltonian framework and generalized to infinite dimensional systems. They are applied to an Euler-Bernoulli beam, excited by a distributed force. Simulations yield sounds of xylophone, glockenspiel (etc) and some interpolations for nonlinear dampings.
@@ -47,10 +47,10 @@ energy storage; port-Hamiltonian systems; eigenfunctions; damping; nonlinear mod
 {% endhighlight %}
  
 ## References
-- [10.1121/1.2697154](https://doi.org/10.1121/1.2697154)
-- [10.1115/1.3643949](https://doi.org/10.1115/1.3643949)
-- [10.1115/1.3627262](https://doi.org/10.1115/1.3627262)
-- [10.1007/s00028-007-0351-6](https://doi.org/10.1007/s00028-007-0351-6)
-- [10.1121/1.1354201](https://doi.org/10.1121/1.1354201)
-- [A class of damping models preserving eigenspaces for linear conservative port-Hamiltonian systems](a-class-of-damping-models-preserving-eigenspaces-for-linear-conservative-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.003](https://doi.org/10.1016/j.ejcon.2013.10.003)
+- Aramaki, M., Baillères, H., Brancheriau, L., Kronland-Martinet, R. & Ystad, S. Sound quality assessment of wood for xylophone bars. The Journal of the Acoustical Society of America vol. 121 2407–2420 (2007) -- [10.1121/1.2697154](https://doi.org/10.1121/1.2697154)
+- Caughey, T. K. Classical Normal Modes in Damped Linear Dynamic Systems. Journal of Applied Mechanics vol. 27 269–271 (1960) -- [10.1115/1.3643949](https://doi.org/10.1115/1.3643949)
+- Caughey, T. K. & O’Kelly, M. E. J. Classical Normal Modes in Damped Linear Dynamic Systems. Journal of Applied Mechanics vol. 32 583–588 (1965) -- [10.1115/1.3627262](https://doi.org/10.1115/1.3627262)
+- Jacob, B., Trunk, C. & Winklmeier, M. Analyticity and Riesz basis property of semigroups associated to damped vibrations. Journal of Evolution Equations vol. 8 263–281 (2008) -- [10.1007/s00028-007-0351-6](https://doi.org/10.1007/s00028-007-0351-6)
+- Lambourg, C., Chaigne, A. & Matignon, D. Time-domain simulation of damped impacted plates. II. Numerical model and results. The Journal of the Acoustical Society of America vol. 109 1433–1447 (2001) -- [10.1121/1.1354201](https://doi.org/10.1121/1.1354201)
+- [Matignon, D. & Hélie, T. A class of damping models preserving eigenspaces for linear conservative port-Hamiltonian systems. European Journal of Control vol. 19 486–494 (2013)](a-class-of-damping-models-preserving-eigenspaces-for-linear-conservative-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.003](https://doi.org/10.1016/j.ejcon.2013.10.003)
 

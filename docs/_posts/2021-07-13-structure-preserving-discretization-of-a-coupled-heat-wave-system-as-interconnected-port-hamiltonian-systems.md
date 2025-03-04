@@ -10,7 +10,7 @@ tag: Port-Hamiltonian Systems; Partitioned finite element method; Long time asym
 ---
  
 ## Authors
-**Ghislain Haine, Denis Matignon**
+[Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 The heat-wave system is recast as the coupling of port-Hamiltonian subsystems (pHs), and discretized in a structure-preserving way by the Partitioned Finite Element Method (PFEM) [ 10 , 11 ]. Then, depending on the geometric configuration of the two domains, different asymptotic behaviours of the energy of the coupled system can be recovered at the numerical level, assessing the validity of the theoretical results of [ 22 ].

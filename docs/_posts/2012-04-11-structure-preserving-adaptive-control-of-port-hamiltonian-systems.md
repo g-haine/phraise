@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Daniel A. Dirksz, Jacquelien M. A. Scherpen**
+[Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this technical note, an adaptive control scheme is presented for general port-Hamiltonian systems. Adaptive control is used to compensate for control errors that are caused by unknown or uncertain parameter values of a system. The adaptive control is also combined with canonical transformation theory for port-Hamiltonian systems. This allows for the adaptive control to be applied on a large class of systems and for being included in the port-Hamiltonian framework.
@@ -42,16 +42,16 @@ In this technical note, an adaptive control scheme is presented for general port
 {% endhighlight %}
  
 ## References
-- [10.1016/0005-1098(89)90054-X](https://doi.org/10.1016/0005-1098(89)90054-X)
-- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [10.1109/TAC.2002.800770](https://doi.org/10.1109/TAC.2002.800770)
-- [10.1016/S0167-6911(97)00113-8](https://doi.org/10.1016/S0167-6911(97)00113-8)
-- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [10.1109/9.14411](https://doi.org/10.1109/9.14411)
-- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
-- [10.1109/CDC.2004.1429643](https://doi.org/10.1109/CDC.2004.1429643)
-- [10.1016/j.arcontrol.2008.08.003](https://doi.org/10.1016/j.arcontrol.2008.08.003)
-- [10.1016/j.automatica.2006.09.008](https://doi.org/10.1016/j.automatica.2006.09.008)
+- Ortega, R. & Spong, M. W. Adaptive motion control of rigid robots: A tutorial. Automatica vol. 25 877–888 (1989) -- [10.1016/0005-1098(89)90054-X](https://doi.org/10.1016/0005-1098(89)90054-X)
+- Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Transactions on Automatic Control vol. 47 1218–1233 (2002) -- [10.1109/TAC.2002.800770](https://doi.org/10.1109/TAC.2002.800770)
+- Panteley, E., Ortega, R. & Gäfvert, M. An adaptive friction compensator for global tracking in robot manipulators. Systems &amp; Control Letters vol. 33 307–313 (1998) -- [10.1016/S0167-6911(97)00113-8](https://doi.org/10.1016/S0167-6911(97)00113-8)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Slotine, J.-J. E. & Li Weiping. Adaptive manipulator control: A case study. IEEE Transactions on Automatic Control vol. 33 995–1003 (1988) -- [10.1109/9.14411](https://doi.org/10.1109/9.14411)
+- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
+- Bonivento, C., Gentili, L. & Paoli, A. Internal model based fault tolerant control of a robot manipulator. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 5260-5265 Vol.5 (2004) doi:10.1109/cdc.2004.1429643 -- [10.1109/CDC.2004.1429643](https://doi.org/10.1109/CDC.2004.1429643)
+- Astolfi, A., Karagiannis, D. & Ortega, R. Towards applied nonlinear adaptive control. Annual Reviews in Control vol. 32 136–148 (2008) -- [10.1016/j.arcontrol.2008.08.003](https://doi.org/10.1016/j.arcontrol.2008.08.003)
+- Wang, Y., Feng, G. & Cheng, D. Simultaneous stabilization of a set of nonlinear port-controlled Hamiltonian systems. Automatica vol. 43 403–415 (2007) -- [10.1016/j.automatica.2006.09.008](https://doi.org/10.1016/j.automatica.2006.09.008)
 

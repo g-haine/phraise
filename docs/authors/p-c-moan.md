@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Publications by P.C. Moan
-permalink: /authors/p-c-moan/
+permalink: /authors/p-c-moan
 ---
 
 <ul class="post-list">
-<li><span class='post-meta'>2002 -- S. Blanes, P.C. Moan</span><h3><a class='post-link' href='../../practical-symplectic-partitioned-runge-kutta-and-runge-kutta-nystrom-methods'>Practical symplectic partitioned Runge–Kutta and Runge–Kutta–Nyström methods</a></h3></li>
+<li><span class='post-meta'>2002 -- S. Blanes, P.C. Moan</span><h3><a class='post-link' href="{{ site.baseurl }}/practical-symplectic-partitioned-runge-kutta-and-runge-kutta-nystrom-methods">Practical symplectic partitioned Runge–Kutta and Runge–Kutta–Nyström methods</a></h3></li>
 
 </ul>

@@ -9,7 +9,7 @@ category: book-chapter
 ---
  
 ## Authors
-**Arjan van der Schaft**
+[Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 The theory of port-Hamiltonian systems provides a framework for the geometric description of network models of physical systems. It turns out that port-based network models of physical systems immediately lend themselves to a Hamiltonian description. While the usual geometric approach to Hamiltonian systems is based on the canonical symplectic structure of the phase space or on a Poisson structure that is obtained by (symmetry) reduction of the phase space, in the case of a port-Hamiltonian system the geometric structure derives from the interconnection of its sub-systems. This motivates to consider Dirac structures instead of Poisson structures, since this notion enables one to define Hamiltonian systems with algebraic constraints. As a result, any power-conserving interconnection of port-Hamiltonian systems again defines a port-Hamiltonian system. The port-Hamiltonian description offers a systematic framework for analysis, control and simulation of complex physical systems, for lumped-parameter as well as for distributed-parameter models.

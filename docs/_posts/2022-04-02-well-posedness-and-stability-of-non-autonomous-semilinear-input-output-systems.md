@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Jochen Schmid**
+[Jochen Schmid](authors/jochen-schmid)
  
 ## Abstract
 We establish well-posedness results for non-autonomous semilinear input-output systems, the central assumption being the scattering-passivity of the considered semilinear system. Along the way, we also establish global stability estimates. We consider both systems with distributed control and observation and systems with boundary control and observation, and we treat them in a unified manner. Applications are given to nonlinearly controlled collocated systems and to nonlinearly controlled port-Hamiltonian systems.

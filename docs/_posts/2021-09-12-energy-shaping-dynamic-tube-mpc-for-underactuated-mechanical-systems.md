@@ -10,7 +10,7 @@ tag: Underactuated systems; Port-Hamiltonian systems; Robust control; IDA-PBC; D
 ---
  
 ## Authors
-**Guaraci Bastos, Enrico Franco**
+[Guaraci Bastos](authors/guaraci-bastos), [Enrico Franco](authors/enrico-franco)
  
 ## Abstract
 This work investigates the tracking control problem for underactuated mechanical systems. To this end, we develop an extension of the dynamic tube Model Predictive Control (MPC) approach by combining an MPC design, an ancillary energy shaping controller constructed with the Interconnection and Damping Assignment Passivity-Based Control methodology, and an analytical expression of the dynamic tube. In addition, we extend the proposed approach by including the adaptive compensation of a class of unknown disturbances. The stability analysis is presented by employing a Lyapunov approach. The effectiveness of the proposed controller is demonstrated with simulations on two underactuated systems: a two-mass-spring-damper system with uncertain damping and either linear or nonlinear spring; an inertia-wheel-pendulum with unmodeled disturbances.

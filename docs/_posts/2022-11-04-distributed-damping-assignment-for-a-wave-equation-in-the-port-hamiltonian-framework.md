@@ -10,7 +10,7 @@ tag: infinite dimensional systems; Port-Hamiltonian Systems; backstepping method
 ---
  
 ## Authors
-**Jeanne Redaud, Jean Auriol, Yann Le Gorrec**
+[Jeanne Redaud](authors/jeanne-redaud), [Jean Auriol](authors/jean-auriol), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 In this paper, we propose a full state-feedback boundary control strategy for a one-dimensional wave-like equation with spatially varying parameters and indefinite damping coefficient. We consider Dirichlet boundary conditions at one end of the spatial domain and actuation at the other end. The control design relies on the backstepping methodology and aims at assigning the distributed damping (which determines the decay rate of the solutions) of the closed-loop system. The problem is formulated using the port-Hamiltonian system framework that allows the introduction of tuning parameters with clear physical interpretations for both backstepping transformations and achievable closed-loop behavior. The overall design is carried out on the vibrating string system example. Simulations illustrate the performance of the controller.
@@ -47,19 +47,19 @@ infinite dimensional systems; Port-Hamiltonian Systems; backstepping methodology
 {% endhighlight %}
  
 ## References
-- [10.1016/j.sysconle.2018.11.012](https://doi.org/10.1016/j.sysconle.2018.11.012)
-- [10.1080/03605309408821015](https://doi.org/10.1080/03605309408821015)
-- [10.1016/j.automatica.2017.09.027](https://doi.org/10.1016/j.automatica.2017.09.027)
-- [10.1006/jdeq.1996.0183](https://doi.org/10.1006/jdeq.1996.0183)
-- [10.1016/j.automatica.2008.10.015](https://doi.org/10.1016/j.automatica.2008.10.015)
-- [10.1137/060676969](https://doi.org/10.1137/060676969)
-- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [On the Synthesis of Boundary Control Laws for Distributed Port-Hamiltonian Systems](on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems) -- [10.1109/TAC.2016.2595263](https://doi.org/10.1109/TAC.2016.2595263)
-- [Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-92) -- [10.1016/S1474-6670(17)52308-3](https://doi.org/10.1016/S1474-6670(17)52308-3)
-- [Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
-- [10.1016/j.sysconle.2021.104984](https://doi.org/10.1016/j.sysconle.2021.104984)
-- [10.1137/080742646](https://doi.org/10.1137/080742646)
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Auriol, J. & Di Meglio, F. An explicit mapping from linear first order hyperbolic PDEs to difference systems. Systems &amp; Control Letters vol. 123 144–150 (2019) -- [10.1016/j.sysconle.2018.11.012](https://doi.org/10.1016/j.sysconle.2018.11.012)
+- Cox, S. & Zuazua, E. The rate at which energy decays in a damped String. Communications in Partial Differential Equations vol. 19 213–243 (1994) -- [10.1080/03605309408821015](https://doi.org/10.1080/03605309408821015)
+- Di Meglio, F., Argomedo, F. B., Hu, L. & Krstic, M. Stabilization of coupled linear heterodirectional hyperbolic PDE–ODE systems. Automatica vol. 87 281–289 (2018) -- [10.1016/j.automatica.2017.09.027](https://doi.org/10.1016/j.automatica.2017.09.027)
+- Freitas, P. & Zuazua, E. Stability Results for the Wave Equation with Indefinite Damping. Journal of Differential Equations vol. 132 338–352 (1996) -- [10.1006/jdeq.1996.0183](https://doi.org/10.1006/jdeq.1996.0183)
+- Guo, B.-Z. & Guo, W. The strong stabilization of a one-dimensional wave equation by non-collocated dynamic boundary feedback control. Automatica vol. 45 790–797 (2009) -- [10.1016/j.automatica.2008.10.015](https://doi.org/10.1016/j.automatica.2008.10.015)
+- Krstic, M., Guo, B.-Z., Balogh, A. & Smyshlyaev, A. Control of a Tip-Force Destabilized Shear Beam by Observer-Based Boundary Feedback. SIAM Journal on Control and Optimization vol. 47 553–574 (2008) -- [10.1137/060676969](https://doi.org/10.1137/060676969)
+- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Macchelli, A., Le Gorrec, Y., Ramirez, H. & Zwart, H. On the Synthesis of Boundary Control Laws for Distributed Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 62 1700–1713 (2017)](on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems) -- [10.1109/TAC.2016.2595263](https://doi.org/10.1109/TAC.2016.2595263)
+- [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-92) -- [10.1016/S1474-6670(17)52308-3](https://doi.org/10.1016/S1474-6670(17)52308-3)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- Redaud, J., Auriol, J. & Niculescu, S.-I. Output-feedback control of an underactuated network of interconnected hyperbolic PDE–ODE systems. Systems &amp; Control Letters vol. 154 104984 (2021) -- [10.1016/j.sysconle.2021.104984](https://doi.org/10.1016/j.sysconle.2021.104984)
+- Smyshlyaev, A., Cerpa, E. & Krstic, M. Boundary Stabilization of a 1-D Wave Equation with In-Domain Antidamping. SIAM Journal on Control and Optimization vol. 48 4014–4031 (2010) -- [10.1137/080742646](https://doi.org/10.1137/080742646)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
 - Villegas, J. (2007). A port-hamiltonian approach to distributed parameter systems.
-- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
+- Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
 

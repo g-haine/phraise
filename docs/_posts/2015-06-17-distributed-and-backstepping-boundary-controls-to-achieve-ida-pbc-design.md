@@ -10,7 +10,7 @@ tag: distributed parameters systems; port-Hamiltonian systems; IDA-PBC control; 
 ---
  
 ## Authors
-**N.M. Trang VU, L. LEFÈVRE, R. NOUAILLETAS**
+[N.M. Trang VU](authors/ngoc-minh-trang-vu), [L. LEFÈVRE](authors/laurent-lefevre), [R. NOUAILLETAS](authors/remy-nouailletas)
  
 ## Abstract
 An IDA-PBC-like control synthesis for infinite dimensional port Hamiltonian systems is investigated. As for the finite dimensional case, a feedback control transforms the original model into a closed loop target Hamiltonian model. Both distributed control and boundary control are used. The finite rank distributed control is determined to solve an average IDA-PBC matching equation. A backstepping boundary control is used to stabilize the matching error. The control model chosen to illustrate the approach is the so-called resistive diffusion equation for the radial diffusion of the poloidal magnetic flux.
@@ -47,6 +47,6 @@ distributed parameters systems; port-Hamiltonian systems; IDA-PBC control; back-
 {% endhighlight %}
  
 ## References
-- [Exponential Stability of a Class of Boundary Control Systems](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
+- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
 - [Vu, T. and L. Lefèvre (2013). Material balance and closure equations for plasmas in tokamaks. IF AC Workshop on Thermodynamic Foundations of Mathematical Systems Theory.](material-balance-and-closure-equations-for-plasmas-in-tokamaks) -- [10.3182/20130714-3-FR-4040.00006](https://doi.org/10.3182/20130714-3-FR-4040.00006)
 

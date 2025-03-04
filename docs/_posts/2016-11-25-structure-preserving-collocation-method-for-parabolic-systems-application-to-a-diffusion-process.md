@@ -10,7 +10,7 @@ tag: port Hamiltonian modeling; model reduction; infinite dimensional systems; t
 ---
  
 ## Authors
-**F. Couenne, B. Hamroun**
+[F. Couenne](authors/francoise-couenne), [B. Hamroun](authors/boussad-hamroun)
  
 ## Abstract
 In this contribution we present the reduced port Hamiltonian model of a parabolic system obtained by a structure preserving collocation method. It is applied to a nonlinear diffusion process involving two species in gas phase at constant pressure and temperature.
@@ -47,12 +47,12 @@ port Hamiltonian modeling; model reduction; infinite dimensional systems; transp
 {% endhighlight %}
  
 ## References
-- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
-- [Dirac manifolds](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
-- [Hamiltonian discretization of boundary control systems](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
-- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [10.1016/S0009-2509(96)00458-7](https://doi.org/10.1016/S0009-2509(96)00458-7)
-- [Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [10.3182/20130204-3-FR-2033.00098](https://doi.org/10.3182/20130204-3-FR-2033.00098)
+- Baaiu, A., Couenne, F., Lefevre, L., Le Gorrec, Y. & Tayakout, M. Structure-preserving infinite dimensional model reduction: Application to adsorption processes. Journal of Process Control vol. 19 394–404 (2009) -- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
+- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- Krishna, R. & Wesselingh, J. A. The Maxwell-Stefan approach to mass transfer. Chemical Engineering Science vol. 52 861–911 (1997) -- [10.1016/S0009-2509(96)00458-7](https://doi.org/10.1016/S0009-2509(96)00458-7)
+- [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- VU, N. M. T., LEFEVRE, L., NOUAILLETAS, R. & BREMOND, S. Geometric discretization for a plasma control model. IFAC Proceedings Volumes vol. 46 755–760 (2013) -- [10.3182/20130204-3-FR-2033.00098](https://doi.org/10.3182/20130204-3-FR-2033.00098)
 

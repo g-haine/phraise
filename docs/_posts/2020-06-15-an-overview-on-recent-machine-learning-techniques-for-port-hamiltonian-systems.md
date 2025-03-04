@@ -10,7 +10,7 @@ tag: Physical modelling; Control theory; Machine learning; Dynamical systems; Po
 ---
  
 ## Authors
-**Karim Cherifi**
+[Karim Cherifi](authors/karim-cherifi)
  
 ## Abstract
 Port Hamiltonian systems have grown in interest in recent years due to their modular property, close relation with physical modelling and the interesting properties arising from that. In this paper, we aim at providing an overview of the application of machine learning for port Hamiltonian systems in terms of modelling and control. After an introduction to Port Hamiltonian systems framework, recent results on Hamiltonian systems modelling are presented. Some results on minimal realization and model reduction are then overviewed. Finally, the most important results on the control of Port Hamiltonian systems based machine learning are discussed including adaptive control, iterative control and reinforcement learning. The results presented in this paper are a motivation for the potential of applying machine learning methods to dynamical systems in general and port Hamiltonian systems in particular.
@@ -45,33 +45,33 @@ Physical modelling; Control theory; Machine learning; Dynamical systems; Port Ha
 {% endhighlight %}
  
 ## References
-- [Linear port-Hamiltonian descriptor systems](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
-- [Robust port-Hamiltonian representations of passive systems](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)
-- [10.1016/S0016-0032(92)90049-M](https://doi.org/10.1016/S0016-0032(92)90049-M)
-- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
+- [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
+- [Beattie, C. A., Mehrmann, V. & Van Dooren, P. Robust port-Hamiltonian representations of passive systems. Automatica vol. 100 182–186 (2019)](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)
+- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/S0016-0032(92)90049-M](https://doi.org/10.1016/S0016-0032(92)90049-M)
+- Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Transactions on Automatic Control vol. 36 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
 - M. Ahmadi, U. Topcu, C. Rowley, Control-oriented learning of lagrangian and hamiltonian systems, in: 2018 Annual American Control Conference, ACC, 2018, pp. 520–525. -- [10.23919/ACC.2018.8431726](https://doi.org/10.23919/ACC.2018.8431726)
-- [10.1007/s10107-015-0871-8](https://doi.org/10.1007/s10107-015-0871-8)
-- [10.1016/j.laa.2007.03.008](https://doi.org/10.1016/j.laa.2007.03.008)
-- [Effort- and flow-constraint reduction methods for structure preserving model reduction of port-Hamiltonian systems](effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.sysconle.2011.12.008](https://doi.org/10.1016/j.sysconle.2011.12.008)
-- [Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
-- [Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
+- Ghadimi, S. & Lan, G. Accelerated gradient methods for nonconvex nonlinear and stochastic programming. Mathematical Programming vol. 156 59–99 (2015) -- [10.1007/s10107-015-0871-8](https://doi.org/10.1007/s10107-015-0871-8)
+- Mayo, A. J. & Antoulas, A. C. A framework for the solution of the generalized realization problem. Linear Algebra and its Applications vol. 425 634–662 (2007) -- [10.1016/j.laa.2007.03.008](https://doi.org/10.1016/j.laa.2007.03.008)
+- [Polyuga, R. V. & van der Schaft, A. J. Effort- and flow-constraint reduction methods for structure preserving model reduction of port-Hamiltonian systems. Systems &amp; Control Letters vol. 61 412–421 (2012)](effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.sysconle.2011.12.008](https://doi.org/10.1016/j.sysconle.2011.12.008)
+- [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
+- [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica vol. 46 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
 - [R.V. Polyuga, Model reduction of port-Hamiltonian systems, Groningen, 2010.](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
-- [Structure-Preserving Model Reduction for Nonlinear Port-Hamiltonian Systems](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems) -- [10.1137/15M1055085](https://doi.org/10.1137/15M1055085)
-- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
-- [10.1109/TAC.2003.817908](https://doi.org/10.1109/TAC.2003.817908)
-- [10.1016/j.sysconle.2011.04.025](https://doi.org/10.1016/j.sysconle.2011.04.025)
-- [10.3182/20020721-6-ES-1901.00251](https://doi.org/10.3182/20020721-6-ES-1901.00251)
-- [10.3182/20080706-5-KR-1001.02651](https://doi.org/10.3182/20080706-5-KR-1001.02651)
-- [10.1002/rnc.4692](https://doi.org/10.1002/rnc.4692)
-- [Structure Preserving Adaptive Control of Port-Hamiltonian Systems](structure-preserving-adaptive-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2012.2192359](https://doi.org/10.1109/TAC.2012.2192359)
+- [Chaturantabut, S., Beattie, C. & Gugercin, S. Structure-Preserving Model Reduction for Nonlinear Port-Hamiltonian Systems. SIAM Journal on Scientific Computing vol. 38 B837–B865 (2016)](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems) -- [10.1137/15M1055085](https://doi.org/10.1137/15M1055085)
+- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- Fujimoto, K. & Sugie, T. Iterative learning control of hamiltonian systems: I/O based optimal control approach. IEEE Transactions on Automatic Control vol. 48 1756–1761 (2003) -- [10.1109/TAC.2003.817908](https://doi.org/10.1109/TAC.2003.817908)
+- Fujimoto, K. & Satoh, S. Repetitive control of Hamiltonian systems based on variational symmetry. Systems &amp; Control Letters vol. 60 763–770 (2011) -- [10.1016/j.sysconle.2011.04.025](https://doi.org/10.1016/j.sysconle.2011.04.025)
+- Fujimoto, K. & Sugie, T. ON ADJOINTS OF HAMILTONIAN SYSTEMS. IFAC Proceedings Volumes vol. 35 7–12 (2002) -- [10.3182/20020721-6-ES-1901.00251](https://doi.org/10.3182/20020721-6-ES-1901.00251)
+- Fujimoto, K. & Koyama, I. Iterative Feedback Tuning for Hamiltonian Systems. IFAC Proceedings Volumes vol. 41 15678–15683 (2008) -- [10.3182/20080706-5-KR-1001.02651](https://doi.org/10.3182/20080706-5-KR-1001.02651)
+- Satoh, S. & Fujimoto, K. Iterative feedback tuning for Hamiltonian systems based on variational symmetry. International Journal of Robust and Nonlinear Control vol. 29 5845–5865 (2019) -- [10.1002/rnc.4692](https://doi.org/10.1002/rnc.4692)
+- [Dirksz, D. A. & Scherpen, J. M. A. Structure Preserving Adaptive Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 57 2880–2885 (2012)](structure-preserving-adaptive-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2012.2192359](https://doi.org/10.1109/TAC.2012.2192359)
 - Y.Z. Sun, Q.J. Liu, Y.H. Song, T.L. Shen, Hamiltonian modelling and nonlinear disturbance attenuation control of TCSC for improving power system stability, in: IEE Proceedings - Control Theory and Applications, 2002, pp. 278–284. -- [10.1049/ip-cta:20020399](https://doi.org/10.1049/ip-cta:20020399)
 - [D.A. Dirksz, J.M.A. Scherpen, Adaptive tracking control of fully actuated port-Hamiltonian mechanical systems, in: 2010 IEEE International Conference on Control Applications, 2010, pp. 1678–1683.](adaptive-tracking-control-of-fully-actuated-port-hamiltonian-mechanical-systems) -- [10.1109/CCA.2010.5611301](https://doi.org/10.1109/CCA.2010.5611301)
-- [Safety analysis of integrated adaptive cruise and lane keeping control using multi-modal port-Hamiltonian systems](safety-analysis-of-integrated-adaptive-cruise-and-lane-keeping-control-using-multi-modal-port-hamiltonian-systems) -- [10.1016/j.nahs.2019.100816](https://doi.org/10.1016/j.nahs.2019.100816)
-- [10.1109/TSMCC.2012.2218595](https://doi.org/10.1109/TSMCC.2012.2218595)
-- [10.1016/S1474-6670(17)40390-9](https://doi.org/10.1016/S1474-6670(17)40390-9)
-- [10.1016/j.jprocont.2009.09.006](https://doi.org/10.1016/j.jprocont.2009.09.006)
-- [Reinforcement Learning for Port-Hamiltonian Systems](reinforcement-learning-for-port-hamiltonian-systems) -- [10.1109/TCYB.2014.2343194](https://doi.org/10.1109/TCYB.2014.2343194)
-- [Passivity-based reinforcement learning control of a 2-DOF manipulator arm](passivity-based-reinforcement-learning-control-of-a-2-dof-manipulator-arm) -- [10.1016/j.mechatronics.2014.10.005](https://doi.org/10.1016/j.mechatronics.2014.10.005)
+- [Dai, S. & Koutsoukos, X. Safety analysis of integrated adaptive cruise and lane keeping control using multi-modal port-Hamiltonian systems. Nonlinear Analysis: Hybrid Systems vol. 35 100816 (2020)](safety-analysis-of-integrated-adaptive-cruise-and-lane-keeping-control-using-multi-modal-port-hamiltonian-systems) -- [10.1016/j.nahs.2019.100816](https://doi.org/10.1016/j.nahs.2019.100816)
+- Grondman, I., Busoniu, L., Lopes, G. A. D. & Babuska, R. A Survey of Actor-Critic Reinforcement Learning: Standard and Natural Policy Gradients. IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) vol. 42 1291–1307 (2012) -- [10.1109/TSMCC.2012.2218595](https://doi.org/10.1109/TSMCC.2012.2218595)
+- Fujimoto, K. & Sugie, T. Canonical Transformation and Stabilization of Generalized Hamiltonian Systems. IFAC Proceedings Volumes vol. 31 523–528 (1998) -- [10.1016/S1474-6670(17)40390-9](https://doi.org/10.1016/S1474-6670(17)40390-9)
+- Wang, Y., Gao, F. & Doyle, F. J., III. Survey on iterative learning control, repetitive control, and run-to-run control. Journal of Process Control vol. 19 1589–1600 (2009) -- [10.1016/j.jprocont.2009.09.006](https://doi.org/10.1016/j.jprocont.2009.09.006)
+- [Sprangers, O., Babuska, R., Nageshrao, S. P. & Lopes, G. A. D. Reinforcement Learning for Port-Hamiltonian Systems. IEEE Transactions on Cybernetics vol. 45 1017–1027 (2015)](reinforcement-learning-for-port-hamiltonian-systems) -- [10.1109/TCYB.2014.2343194](https://doi.org/10.1109/TCYB.2014.2343194)
+- [Nageshrao, S. P., Lopes, G. A. D., Jeltsema, D. & Babuška, R. Passivity-based reinforcement learning control of a 2-DOF manipulator arm. Mechatronics vol. 24 1001–1007 (2014)](passivity-based-reinforcement-learning-control-of-a-2-dof-manipulator-arm) -- [10.1016/j.mechatronics.2014.10.005](https://doi.org/10.1016/j.mechatronics.2014.10.005)
 - S. Bhuvaneswari, R. Pasumarthy, B. Ravindran, A.D. Mahindrakar, Tracking and stabilization of mechanical systems using reinforcement learning, in: 2018 Indian Control Conference, ICC, 2018, pp. 206–211. -- [10.1109/INDIANCC.2018.8307979](https://doi.org/10.1109/INDIANCC.2018.8307979)
 

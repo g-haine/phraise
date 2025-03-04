@@ -10,7 +10,7 @@ tag: symplectic discretization; Port Controlled Hamiltonian systems; discrete-ti
 ---
  
 ## Authors
-**Laurent Lefevre, Silviu Medianu**
+[Laurent Lefevre](authors/laurent-lefevre), [Silviu Medianu](authors/silviu-medianu)
  
 ## Abstract
 In this paper, a time-discretization framework is proposed for Port Controlled Hamiltonian (PCH) systems using combined discretization rules for the flows and efforts, which preserves the continuous-time structure. As examples for this formulation, three symplectic time-discretization schemes are presented, using classic discretization rules (implicit/explicit Euler, implicit mid-point and implicit trapezoidal), for the flows and efforts. As continuous-time model for exemplification using this framework, a linear capacitor microphone circuit is selected.
@@ -51,8 +51,8 @@ symplectic discretization; Port Controlled Hamiltonian systems; discrete-time sy
 - [Maschke, B.M., Van der Schaft, A.J. (1992). Port-controlled Hamiltonian systems: modelling origins and systemtheoretic properties, Proceedings of the IF AC International Symposium on Nonlinear control systems design, pp.282-288.](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-92) -- [10.1016/S1474-6670(17)52308-3](https://doi.org/10.1016/S1474-6670(17)52308-3)
 - Maschke, B.M., and van der Schaft, AJ.(1997). Interconnection of systems: the network paradigm, Proceedings of the 38th IEEE Conference on Decision and Control, Vol. 1, pp. 207-212. -- [10.1109/CDC.1996.574297](https://doi.org/10.1109/CDC.1996.574297)
 - Talasila, V., Gallardo, J., van der Schaft, A.J. (2004a). Hamiltonian mechanics on discrete manifolds, Proceedings of the 16th International Symposium on Mathematical Theory of Networks and Systems, Katholieke Universiteit Leuven, Belgium.
-- [10.1088/0305-4470/37/41/008](https://doi.org/10.1088/0305-4470/37/41/008)
-- [Discrete port-Hamiltonian systems](discrete-port-hamiltonian-systems) -- [10.1016/j.sysconle.2005.10.001](https://doi.org/10.1016/j.sysconle.2005.10.001)
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Talasila, V., Clemente-Gallardo, J. & Schaft, A. J. van der. Geometry and Hamiltonian mechanics on discrete spaces. Journal of Physics A: Mathematical and General vol. 37 9705–9734 (2004) -- [10.1088/0305-4470/37/41/008](https://doi.org/10.1088/0305-4470/37/41/008)
+- [Talasila, V., Clemente-Gallardo, J. & van der Schaft, A. J. Discrete port-Hamiltonian systems. Systems &amp; Control Letters vol. 55 478–486 (2006)](discrete-port-hamiltonian-systems) -- [10.1016/j.sysconle.2005.10.001](https://doi.org/10.1016/j.sysconle.2005.10.001)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
 - Van der Schaft, A.J. (2005). Chapter 1: Port-Hamiltonian formulation of network models; the lumpted parameter case, Theory of Port-Hamiltonian systems, 2005.
 

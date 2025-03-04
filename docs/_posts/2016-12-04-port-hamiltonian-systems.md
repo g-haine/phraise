@@ -9,7 +9,7 @@ category: book-chapter
 ---
  
 ## Authors
-**Arjan van der Schaft**
+[Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 As described in the previous Chaps.  3 and 4 , (cyclo-)passive systems are defined by the existence of a storage function (nonnegative in case of passivity) satisfying the dissipation inequality with respect to the supply rate \\(  \\)s(u,y)=u^Ty\\(  \\) s ( u , y ) = u T y . In contrast, port-Hamiltonian systems, the topic of the current chapter are endowed with the property of (cyclo-)passivity as a consequence of their system formulation. In fact, port-Hamiltonian systems arise from first principles physical modeling. They are defined in terms of a Hamiltonian function together with two geometric structures (corresponding, respectively, to power-conserving interconnection and energy dissipation), which are such that the Hamiltonian function automatically satisfies the dissipation inequality.

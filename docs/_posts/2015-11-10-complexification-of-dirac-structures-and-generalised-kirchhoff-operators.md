@@ -10,7 +10,7 @@ tag: Dirac structure; port-Hamiltonian systems; Tellegen's theorem; Kirchhoff op
 ---
  
 ## Authors
-**Dimitri Jeltsema, Arjan van der Schaft**
+[Dimitri Jeltsema](authors/dimitri-jeltsema), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 In the context of port-Hamiltonian systems, Dirac structures are usually defined in terms of a set of effort and flows such that their product exhibits the units of power. On the other hand, power-based Dirac structures can be naturally generalised by the use of operators in a similar fashion as Tellegen's theorem is generalised by the use of so-called Kirchhoff voltage and current operators. The purpose of such operators is to derive, from one set of efforts and ows that belong to a given Dirac structure, another set of quantities that also belong to the same Dirac structure. Examples of such operators are differentiation and integration with respect to time, Fourier and Laplace transform, or replacing the efforts and ows by their complex-valued analytical signal representations. Hence, many different representations of the same Dirac structure are possible. This opens up the possibility to formalise a whole new family of port-Hamiltonian representations beyond the usual time-domain and power-based setting.

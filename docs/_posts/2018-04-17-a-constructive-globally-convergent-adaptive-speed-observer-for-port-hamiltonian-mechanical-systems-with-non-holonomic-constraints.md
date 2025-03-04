@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Ammar Touati Brahim, Madjid Kidouche**
+[Ammar Touati Brahim](authors/ammar-touati-brahim), [Madjid Kidouche](authors/madjid-kidouche)
  
 ## Abstract
 This paper presents an adaptive speed observer for general port‐Hamiltonian mechanical systems with non‐holonomic constraints in the presence of unknown friction forces and constant disturbances. Unlike the observers recently reported in the literature, which have been designed either under the assumptions of no friction and the absence of disturbances or for a specific class of mechanical systems with the requirement of an explicit solution of certain Partial Differential Equations (PDEs) that cannot be derived \*a priori\*, this observer proposes a design that obviates the solution of PDEs and ensures global convergence for general mechanical systems with k‐non‐holonomic constraints. The observer is totally constructive and given by explicit expressions. The simulation results testify to the effectiveness and the robust features of the developed observer.
@@ -42,43 +42,24 @@ This paper presents an adaptive speed observer for general port‐Hamiltonian me
 {% endhighlight %}
  
 ## References
-- [10.1109/9.58537](https://doi.org/10.1109/9.58537)
-- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
-- [10.1109/TAC.2012.2203452](https://doi.org/10.1109/TAC.2012.2203452)
-- [10.1007/BFb0109917](https://doi.org/10.1007/BFb0109917)
-- [10.1016/j.apm.2017.02.034](https://doi.org/10.1016/j.apm.2017.02.034)
-- [10.1016/j.automatica.2003.12.007](https://doi.org/10.1016/j.automatica.2003.12.007)
-- [10.1109/CDC.2011.6161100](https://doi.org/10.1109/CDC.2011.6161100)
-- [10.1007/978-3-540-73503-8_7](https://doi.org/10.1007/978-3-540-73503-8_7)
-- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
-- [10.1109/TAC.2003.812778](https://doi.org/10.1109/TAC.2003.812778)
+- Nicosia, S. & Tomei, P. Robot control by using only joint position measurements. IEEE Transactions on Automatic Control vol. 35 1058–1061 (1990) -- [10.1109/9.58537](https://doi.org/10.1109/9.58537)
+- Astolfi, A., Ortega, R. & Venkatraman, A. A globally exponentially convergent immersion and invariance speed observer for mechanical systems with non-holonomic constraints. Automatica vol. 46 182–189 (2010) -- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
+- Bhasin, S., Kamalapurkar, R., Dinh, H. T. & Dixon, W. E. Robust Identification-Based State Derivative Estimation for Nonlinear Systems. IEEE Transactions on Automatic Control vol. 58 187–192 (2013) -- [10.1109/TAC.2012.2203452](https://doi.org/10.1109/TAC.2012.2203452)
+- New Directions in Nonlinear Observer Design. Lecture Notes in Control and Information Sciences (Springer London, 1999). doi:10.1007/bfb0109917 -- [10.1007/BFb0109917](https://doi.org/10.1007/BFb0109917)
+- Yin, C. et al. Fractional-order exponential switching technique to enhance sliding mode control. Applied Mathematical Modelling vol. 44 705–726 (2017) -- [10.1016/j.apm.2017.02.034](https://doi.org/10.1016/j.apm.2017.02.034)
+- Xian, B., de Queiroz, M. S., Dawson, D. M. & McIntyre, M. L. A discontinuous output feedback controller and velocity observer for nonlinear mechanical systems. Automatica vol. 40 695–700 (2004) -- [10.1016/j.automatica.2003.12.007](https://doi.org/10.1016/j.automatica.2003.12.007)
+- Dadras, S. & Momeni, H. R. Fractional sliding mode observer design for a class of uncertain fractional order nonlinear systems. IEEE Conference on Decision and Control and European Control Conference 6925–6930 (2011) doi:10.1109/cdc.2011.6161100 -- [10.1109/CDC.2011.6161100](https://doi.org/10.1109/CDC.2011.6161100)
+- Besançon, G. Parameter/Fault Estimation in Nonlinear Systems and Adaptive Observers. Lecture Notes in Control and Information Sciences 211–222 doi:10.1007/978-3-540-73503-8_7 -- [10.1007/978-3-540-73503-8_7](https://doi.org/10.1007/978-3-540-73503-8_7)
+- Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
+- Aghannan, N. & Rouchon, P. An intrinsic observer for a class of lagrangian systems. IEEE Transactions on Automatic Control vol. 48 936–945 (2003) -- [10.1109/TAC.2003.812778](https://doi.org/10.1109/TAC.2003.812778)
 - Anisi D. A. andJ.Hamberg “Riemannian observers for Euler–Lagrange systems ”16th IFAC World Congress Prague Czech Republic Vol.38 No.1 pp.115–120(2005). -- [10.3182/20050703-6-CZ-1902.00673](https://doi.org/10.3182/20050703-6-CZ-1902.00673)
-- [10.1109/TAC.2008.2006929](https://doi.org/10.1109/TAC.2008.2006929)
-- [10.1109/TAC.2007.900851](https://doi.org/10.1109/TAC.2007.900851)
-- [10.1109/9.328807](https://doi.org/10.1109/9.328807)
-- [10.1016/0005-1098(91)90041-Y](https://doi.org/10.1016/0005-1098(91)90041-Y)
-- [10.1109/9.769383](https://doi.org/10.1109/9.769383)
-- [10.1115/1.2802463](https://doi.org/10.1115/1.2802463)
-- [10.1080/0020717031000099010](https://doi.org/10.1080/0020717031000099010)
-- [10.1109/TAC.2005.858636](https://doi.org/10.1109/TAC.2005.858636)
-- [10.1109/TAC.2007.900851](https://doi.org/10.1109/TAC.2007.900851)
-- [10.1109/TFUZZ.2011.2175933](https://doi.org/10.1109/TFUZZ.2011.2175933)
-- [10.1080/00207721.2010.549594](https://doi.org/10.1080/00207721.2010.549594)
-- [10.1017/CBO9780511546648](https://doi.org/10.1017/CBO9780511546648)
-- [10.1016/S0005-1098(00)00111-4](https://doi.org/10.1016/S0005-1098(00)00111-4)
-- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
-- [10.1109/TAC.2008.2007045](https://doi.org/10.1109/TAC.2008.2007045)
-- [10.1109/TAC.2003.809820](https://doi.org/10.1109/TAC.2003.809820)
-- [10.1504/IJMIC.2012.049688](https://doi.org/10.1504/IJMIC.2012.049688)
-- [10.1002/asjc.1136](https://doi.org/10.1002/asjc.1136)
-- [10.1002/asjc.917](https://doi.org/10.1002/asjc.917)
-- [10.1002/asjc.872](https://doi.org/10.1002/asjc.872)
-- [10.1109/TAC.2003.812819](https://doi.org/10.1109/TAC.2003.812819)
-- [10.1016/j.automatica.2009.09.013](https://doi.org/10.1016/j.automatica.2009.09.013)
-- [10.1016/S0167-6911(97)00053-4](https://doi.org/10.1016/S0167-6911(97)00053-4)
-- [10.1109/TCSII.2005.852528](https://doi.org/10.1109/TCSII.2005.852528)
-- [10.1016/j.automatica.2011.08.006](https://doi.org/10.1016/j.automatica.2011.08.006)
-- [10.1016/j.automatica.2015.06.032](https://doi.org/10.1016/j.automatica.2015.06.032)
-- [10.1007/978-1-4757-2101-0](https://doi.org/10.1007/978-1-4757-2101-0)
-- [10.1007/s11633-014-0796-3](https://doi.org/10.1007/s11633-014-0796-3)
-
+- Bonnabel, S., Martin, P. & Rouchon, P. Symmetry-Preserving Observers. IEEE Transactions on Automatic Control vol. 53 2514–2526 (2008) -- [10.1109/TAC.2008.2006929](https://doi.org/10.1109/TAC.2008.2006929)
+- Yuxin Su, Muller, P. C. & Chunhong Zheng. A Simple Nonlinear Observer for a Class of Uncertain Mechanical Systems. IEEE Transactions on Automatic Control vol. 52 1340–1345 (2007) -- [10.1109/TAC.2007.900851](https://doi.org/10.1109/TAC.2007.900851)
+- Berghuis, H. & Nijmeijer, H. Robust control of robots via linear estimated state feedback. IEEE Transactions on Automatic Control vol. 39 2159–2162 (1994) -- [10.1109/9.328807](https://doi.org/10.1109/9.328807)
+- Canudas de Wit, C. & Slotine, J.-J. E. Sliding observers for robot manipulators. Automatica vol. 27 859–864 (1991) -- [10.1016/0005-1098(91)90041-Y](https://doi.org/10.1016/0005-1098(91)90041-Y)
+- Ahmed-Ali, T. & Lamnabhi-Lagarrigue, F. Sliding observer-controller design for uncertain triangular nonlinear systems. IEEE Transactions on Automatic Control vol. 44 1244–1249 (1999) -- [10.1109/9.769383](https://doi.org/10.1109/9.769383)
+- Choi, J.-H., Misawa, E. A. & Young, G. E. A Study on Sliding Mode State Estimation. Journal of Dynamic Systems, Measurement, and Control vol. 121 255–260 (1999) -- [10.1115/1.2802463](https://doi.org/10.1115/1.2802463)
+- Bartolini, G., Pisano, A., Punta, E. & Usai, E. A survey of applications of second-order sliding mode control to mechanical systems. International Journal of Control vol. 76 875–892 (2003) -- [10.1080/0020717031000099010](https://doi.org/10.1080/0020717031000099010)
+- Davila, J., Fridman, L. & Levant, A. Second-order sliding-mode observer for mechanical systems. IEEE Transactions on Automatic Control vol. 50 1785–1789 (2005) -- [10.1109/TAC.2005.858636](https://doi.org/10.1109/TAC.2005.858636)
+- Yuxin Su, Muller, P. C. & Chunhong Zheng. A Simple Nonlinear Observer for a Class of Uncertain Mechanical Systems. IEEE Transactions on Automatic Control vol. 52 1340–1345 (2007) -- [10.1109/TAC.2007.900851](https://doi.org/10.1109/TAC.2007.900851)
+- Zhang, H., Shi, Y. & Saadat Mehr, A. On ${

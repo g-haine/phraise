@@ -10,7 +10,7 @@ tag: Boundary control systems; LQ-optimal control; Output optimal control; Port-
 ---
  
 ## Authors
-**Dongmei Liu, Liu Liu, Yufeng Lu**
+[Dongmei Liu](authors/dongmei-liu), [Liu Liu](authors/liu-liu), [Yufeng Lu](authors/yufeng-lu)
  
 ## Abstract
 In this paper, an extended model for boundary control systems is given. The model is used to solve the LQ-optimal control problem for boundary control systems. It is shown that there exists an equivalent relationship between the LQ-optimal control of boundary control systems and the output optimal control of the extended models. These results are applied to the port-Hamiltonian systems.

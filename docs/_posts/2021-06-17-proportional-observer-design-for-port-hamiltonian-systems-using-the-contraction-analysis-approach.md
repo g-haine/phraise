@@ -10,7 +10,7 @@ tag: Port Hamiltonian systems; Observer design; Contraction analysis; Lyapunov e
 ---
  
 ## Authors
-**Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab**
+[Saida Zenfari](authors/saida-zenfari), [Mohamed Laabissi](authors/mohamed-laabissi), [Mohammed Elarbi Achhab](authors/mohammed-elarbi-achhab)
  
 ## Abstract
 A simple proportional observer design method is presented for a class of linear port Hamiltonian systems. This observer design approach is based on the use of a powerful tool derived from continuum mechanics and differential geometry, known as contraction analysis. Under two verifiable assumptions, it is shown that error dynamics between the plant and the observer states converges exponentially to zero. Finally, our design method is applied to two physical systems arising from different domains: The DC motor and the RLC circuit.

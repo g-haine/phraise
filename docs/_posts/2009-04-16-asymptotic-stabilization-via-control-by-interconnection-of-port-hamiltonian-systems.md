@@ -10,7 +10,7 @@ tag: Nonlinear control systems; Port-Hamiltonian systems; Asymptotic stability; 
 ---
  
 ## Authors
-**Fernando Castaños, Romeo Ortega, Arjan van der Schaft, Alessandro Astolfi**
+[Fernando Castaños](authors/fernando-castanos), [Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Alessandro Astolfi](authors/alessandro-astolfi)
  
 ## Abstract
 We study the asymptotic properties of control by interconnection, a passivity-based controller design methodology for stabilization of port-Hamiltonian systems. It is well-known that the method, in its basic form, imposes some unnatural controller initialization to yield asymptotic stability of the desired equilibrium. We propose two different ways to overcome this restriction, one based on adaptation ideas, and the other one adding an extra damping injection to the controller. The analysis and design principles are illustrated through an academic example.
@@ -46,12 +46,12 @@ Nonlinear control systems; Port-Hamiltonian systems; Asymptotic stability; Passi
 {% endhighlight %}
  
 ## References
-- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
-- [10.1016/0016-0032(80)90026-5](https://doi.org/10.1016/0016-0032(80)90026-5)
-- [10.1109/TAC.2003.817918](https://doi.org/10.1109/TAC.2003.817918)
-- [10.1016/0005-1098(89)90054-X](https://doi.org/10.1016/0005-1098(89)90054-X)
-- [Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
-- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [10.1016/j.automatica.2006.09.008](https://doi.org/10.1016/j.automatica.2006.09.008)
+- Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
+- Hill, D. J. & Moylan, P. J. Dissipative Dynamical Systems: Basic Input-Output and State Properties. Journal of the Franklin Institute vol. 309 327–357 (1980) -- [10.1016/0016-0032(80)90026-5](https://doi.org/10.1016/0016-0032(80)90026-5)
+- Ortega, R., Jeltsema, D. & Scherpen, J. M. A. Power shaping: A new paradigm for stabilization of nonlinear RLC circuits. IEEE Transactions on Automatic Control vol. 48 1762–1767 (2003) -- [10.1109/TAC.2003.817918](https://doi.org/10.1109/TAC.2003.817918)
+- Ortega, R. & Spong, M. W. Adaptive motion control of rigid robots: A tutorial. Automatica vol. 25 877–888 (1989) -- [10.1016/0005-1098(89)90054-X](https://doi.org/10.1016/0005-1098(89)90054-X)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Wang, Y., Feng, G. & Cheng, D. Simultaneous stabilization of a set of nonlinear port-controlled Hamiltonian systems. Automatica vol. 43 403–415 (2007) -- [10.1016/j.automatica.2006.09.008](https://doi.org/10.1016/j.automatica.2006.09.008)
 

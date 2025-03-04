@@ -10,7 +10,7 @@ tag: Dual-user teleoperation; Port-Hamiltonian; Adaptive Authority Adjustment (A
 ---
  
 ## Authors
-**Fei Liu, Arnaud Lelevé, Damien Eberard, Tanneguy Redarce**
+[Fei Liu](authors/fei-liu), [Arnaud Lelevé](authors/arnaud-leleve), [Damien Eberard](authors/damien-eberard), [Tanneguy Redarce](authors/tanneguy-redarce)
  
 ## Abstract
 This paper presents a shared control based dual-user teleoperation haptic training system. The main contribution is an Adaptive Authority Adjustment (AAA). The authority is determined on-line according to the trainee’s behavior performance. An evaluation method is introduced based on an adaptive virtual boundary, which results into a time-varing dominance factor. An overruling function is set upstream to solve some specific cases. The system is modeled and controled in port-Hamiltonian form for passivity preserving. Experiments are conducted for validation.

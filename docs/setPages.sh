@@ -38,7 +38,7 @@ slugify() {
 }
 
 # Charger les correspondances "Prénom Nom" → "slug"
-echo $(date -Iseconds)" Getting names <-> slugs tables..."
+echo $(date -Iseconds)" Load names <-> slugs tables..."
 declare -A author_to_slug
 declare -A slug_to_name
 
@@ -53,7 +53,7 @@ while IFS= read -r entry; do
 done < <(jq -c 'to_entries[]' "$MAPPINGS_FILE")
 
 # Extraction des auteurs et des années
-echo $(date -Iseconds)" Getting names and years from .json..."
+echo $(date -Iseconds)" Load names and years from .json..."
 declare -A authors
 declare -A years
 
@@ -75,13 +75,13 @@ while read -r entry; do
         standardized_author="${slug_to_name[$slug]:-$author}"
         sanitized_author=$(slugify "$standardized_author")
         authors["$standardized_author"]+="
-        $year|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href='../../$permalink'>$title</a></h3></li>"
+        $year|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$title</a></h3></li>"
     done <<< "$author_names, "
 
     years["$year"]+='
   <li>
     <span class="post-meta">'$year' -- '$author_names'</span>
-    <h3><a class="post-link" href="../../'$permalink'">'$title'</a></h3>
+    <h3><a class="post-link" href="{{ site.baseurl }}/'$permalink'">'$title'</a></h3>
   </li>'
 
 done < <(jq -c '.[]' "$BIBLIO_JSON")
@@ -144,14 +144,14 @@ for pair in "${sorted_pairs[@]}"; do
     slug="${author_to_slug[$author]}"
     sanitized_slug=$(slugify "$slug")
 
-    echo "<a href='./$sanitized_slug/'>$author</a>" | iconv -t UTF-8 >> "$AUTHORS_DIR/index.md"
+    echo "<a href='{{ site.baseurl }}/$AUTHORS_DIR/$sanitized_slug'>$author</a>" | iconv -t UTF-8 >> "$AUTHORS_DIR/index.md"
     
     echo $(date -Iseconds)" Page $AUTHORS_DIR/$sanitized_slug.md creation..."
     cat <<EOF > "$AUTHORS_DIR/$sanitized_slug.md"
 ---
 layout: page
 title: Publications by $author
-permalink: /authors/$sanitized_slug/
+permalink: /authors/$sanitized_slug
 ---
 
 EOF
@@ -180,7 +180,7 @@ permalink: /years/
 EOF
 
 for year in "${sorted_years[@]}"; do
-    echo "<a href='{{ site.baseurl }}/years/$year/'>$year</a>" >> "$YEARS_DIR/index.md"
+    echo "<a href='{{ site.baseurl }}/$YEARS_DIR/$year'>$year</a>" >> "$YEARS_DIR/index.md"
 done
 
 echo "</div>" >> "$YEARS_DIR/index.md"
@@ -192,7 +192,7 @@ for year in "${sorted_years[@]}"; do
 ---
 layout: page
 title: Published in $year
-permalink: /years/$year/
+permalink: /years/$year
 ---
 
 EOF
@@ -201,6 +201,6 @@ EOF
     echo "</ul>" >> "$YEARS_DIR/$year.md"
 done
 
-echo "Pages des auteurs et années générées avec succès !"
+echo "Pages generated!"
 exit 0
 

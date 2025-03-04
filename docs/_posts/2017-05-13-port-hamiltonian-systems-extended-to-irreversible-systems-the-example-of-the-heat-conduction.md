@@ -10,7 +10,7 @@ tag: Nonlinear systems theory; Port Hamiltonian systems; Irreversible Thermodyna
 ---
  
 ## Authors
-**D. Eberard, B. Maschke**
+[D. Eberard](authors/damien-eberard), [B. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 In previous work we have proposed a port Hamiltonian formulation of distributed parameter systems with boundary energy flow. These port Hamiltonian systems are defined with respect to a Dirac structure, called Stokes-Dirac structure, in some product space of exterior differential forms. In this paper we show how to extend this formulation to irreversible thermodynamic systems on the example of the heat conduction model. The geometric structure defining the dynamics is shown to be constituted by a Dirac structure constrained on some on its port variables by nonlinear relations associated with the irreversible entropy creation in the system.
@@ -47,8 +47,8 @@ Nonlinear systems theory; Port Hamiltonian systems; Irreversible Thermodynamics
 {% endhighlight %}
  
 ## References
-- [Dirac manifolds](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
-- [On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
-- [10.1007/978-1-4612-4350-2_2](https://doi.org/10.1007/978-1-4612-4350-2_2)
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- Olver, P. J. Symmetry Groups of Differential Equations. Graduate Texts in Mathematics 75–182 (1993) doi:10.1007/978-1-4612-4350-2_2 -- [10.1007/978-1-4612-4350-2_2](https://doi.org/10.1007/978-1-4612-4350-2_2)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
 

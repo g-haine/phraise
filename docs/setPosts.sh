@@ -3,11 +3,15 @@
 # Ce fichier utilise le .json créé par getData.sh pour générer :
 # * Un fichier markdown "Post" par DOI qui permettra de poster la référence sur le site
 
-# Fichier JSON source
+# Fichiers JSON source
 BIBLIO_JSON="assets/data/biblio.json"
+MAPPINGS_FILE="assets/data/author_mappings.json"
 
 # Fichier DOI source
 DOI_TXT="DOI.txt"
+
+# Le répertoire authors
+AUTHORS_DIR="authors"
 
 # Mail, Scopus key and Springer key
 if [ -f .env ]; then
@@ -66,9 +70,40 @@ print_bib () {
     echo "$bibtex"
 }
 
+# Fonction pour slugifier un texte
+slugify() {
+    echo "$1" | iconv -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed -E 's/^-+|-+$//g'
+}
+
+# Charger les correspondances "Prénom Nom" → "slug"
+echo $(date -Iseconds)" Load names -> slugs table..."
+declare -A author_to_slug
+
+while IFS= read -r entry; do
+    slug=$(echo "$entry" | jq -r '.key')
+    # Lire toutes les variations associées à ce slug
+    while IFS= read -r variation; do
+        author_to_slug["$variation"]=$(slugify "$slug")
+    done < <(jq -r ".\"$slug\"[]" "$MAPPINGS_FILE")
+done < <(jq -c 'to_entries[]' "$MAPPINGS_FILE")
+
 # Format the authors
 format_authors () {
-    authors=$(echo $1 | jq -r '[.[] | select(.family) | "\(.given) \(.family)"] | join(", ")')
+    authors=""
+    first=true
+    while IFS= read -r author; do
+        if [ "$first" = true ]; then
+            first=false
+        else
+            authors+=", "
+        fi
+        if $2; then
+            slug="${author_to_slug[$author]}"
+            authors+="[$author]($AUTHORS_DIR/$slug)"
+        else
+            authors+="$author"
+        fi
+    done < <(echo $1 | jq -rc '.[] | select(.family) | "\(.given) \(.family)"')
     echo "$authors"
 }
 
@@ -106,6 +141,7 @@ sed_title () {
     title=$(echo $1 | sed -e 's/$$/$/g') # au cas où il y aurait des double $
     title=$(echo $title \
     | sed -e 's/\*/\\\*/g' \
+    | sed -e 's/\\/\\\\/g' \
     | awk '{
         in_math = 0;
         for (i=1; i<=length($0); i++) {
@@ -128,6 +164,13 @@ sed_title () {
     echo "$title"
 }
 
+# Get citation from DOI
+get_citation () {
+    local doi=$1
+    citation=$(curl -s https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US | tail -n 1)
+    echo "$citation" | sed 's/^1. //g' | sed 's/.$//g'
+}
+
 # Génération de fichiers Markdown pour chaque DOI (différencié selon le type, et avec cross-ref à l'intérieur du site)
 create_markdown_post () {
     local data=$1
@@ -145,7 +188,7 @@ create_markdown_post () {
     echo "permalink: "$(slugify "$title") >> "$output_md"
     echo "year: $(echo "$data" | jq -r .year)" >> "$output_md"
     authors=$(echo "$data" | jq -r .authors 2>/dev/null)
-    echo "authors: $(format_authors "$authors")" >> "$output_md"
+    echo "authors: $(format_authors "$authors" false)" >> "$output_md"
     type_ref=$(echo "$data" | jq -r .type)
     echo "category: $type_ref" >> "$output_md"
     keywords=$(echo "$data" | jq -r .keywords)
@@ -157,7 +200,7 @@ create_markdown_post () {
     echo " " >> "$output_md"
 
     echo "## Authors" >> "$output_md"
-    echo "**$(format_authors "$authors")**" >> "$output_md"
+    echo "$(format_authors "$authors" true)" >> "$output_md"
     echo " " >> "$output_md"
 
     abstract=$(echo "$data" | jq -r .abstract)
@@ -167,7 +210,6 @@ create_markdown_post () {
         echo " " >> "$output_md"
     fi
 
-    keywords=$(echo "$data" | jq -r .keywords)
     if [ -n "$keywords" ]; then
         echo "## Keywords" >> "$output_md"
         echo "$keywords" >> "$output_md"
@@ -206,28 +248,20 @@ create_markdown_post () {
     while IFS= read -r ref; do
         title_ref=$(echo "$ref" | jq -r .title 2>/dev/null)
         doi_ref=$(echo "$ref" | jq -r .doi 2>/dev/null)
-        # Si on a un titre et un DOI
+        # Si on a seulement un DOI, on récupère un titre
+        if [ -z "$title_ref" ] && [ -n "$doi_ref" ]; then
+            title_ref=$(get_citation $doi_ref)
+        fi
+        # Si on a un titre et un DOI, on formatte
         if [ -n "$title_ref" ] && [ -n "$doi_ref" ]; then
-            # Si DOI connu, appliquer le format markdown selon biblio.json
+            # Si le DOI est connu, on lie avec la page correspondante
             if [[ " ${known_dois[@]} " =~ " $doi_ref " ]] && [ -n "${doi_keywords[$doi_ref]}" ]; then
                 title_ref="[$title_ref](${doi_keywords[$doi_ref]})"
             fi
+            # On ajoute la réf
             references+="- $title_ref -- [$doi_ref](https://doi.org/$doi_ref)\\n"
         fi
-        # Si on a seulement un DOI
-        if [ -z "$title_ref" ] && [ -n "$doi_ref" ]; then
-            # Si DOI connu, on cherche le titre dans le biblio.json (API CrossRef trop lourd...)
-            if [[ " ${known_dois[@]} " =~ " $doi_ref " ]] && [ -n "${doi_keywords[$doi_ref]}" ]; then
-                echo -e "\t DOI:$doi_ref is known, looking for title:"
-                title_ref=$(jq -r '.[] | select(.doi == "'$doi_ref'") | .title' $BIBLIO_JSON)
-                echo -e "\t\t $title_ref"
-                title_ref="[$title_ref](${doi_keywords[$doi_ref]})"
-                references+="- $title_ref -- [$doi_ref](https://doi.org/$doi_ref)\\n"
-            else
-                references+="- [$doi_ref](https://doi.org/$doi_ref)\\n"
-            fi
-        fi
-        # Si on a seulement un titre
+        # Si on a seulement un titre, on ajoute la réf par son titre seulement
         if [ -n "$title_ref" ] && [ -z "$doi_ref" ]; then
             references+="- $title_ref\\n"
         fi
@@ -248,6 +282,6 @@ jq -c '.[]' "$BIBLIO_JSON" | while IFS= read -r entry; do
 done
 
 # Tout s'est bien passé !
-echo "Posts générés avec succès !"
+echo "Posts generated!"
 exit 0
 

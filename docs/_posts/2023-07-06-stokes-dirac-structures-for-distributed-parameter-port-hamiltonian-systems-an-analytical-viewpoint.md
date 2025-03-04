@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Andrea Brugnoli, Ghislain Haine, Denis Matignon**
+[Andrea Brugnoli](authors/andrea-brugnoli), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 In this paper, we prove that a large class of linear evolution partial differential equations defines a Stokes-Dirac structure over Hilbert spaces. To do so, the theory of boundary control system is employed. This definition encompasses problems from mechanics that cannot be handled by the geometric setting given in the seminal paper by van der Schaft and Maschke in 2002. Many worked-out examples stemming from continuum mechanics and physics are presented in detail, and a particular focus is given to the functional spaces in duality at the boundary of the geometrical domain. For each example, the connection between the differential operators and the associated Hilbert complexes is illustrated.

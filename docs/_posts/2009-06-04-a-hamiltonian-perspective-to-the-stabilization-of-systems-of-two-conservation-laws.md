@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Valérie Dos Santos, Bernhard Maschke, Yann Le Gorrec**
+[Valérie Dos Santos](authors/valerie-dos-santos), [Bernhard Maschke](authors/bernhard-maschke), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper aims at providing some synthesis between two alternative representations of systems of two conservation laws and interpret different conditions on stabilizing boundary control laws. The first one, based on the invariance of its coordinates, is the representation in Riemann coordinates which has been applied successfully for the stabilization of linear and non-linear hyperbolic systems of conservation laws. The second representation is based on physical modelling and leads to port Hamiltonian systems which are extensions of infinite-dimensional Hamiltonian systems defined on Dirac structure encompassing pairs of conjugated boundary variables. In a first instance the port Hamiltonian formulation is recalled with respect to a canonical Stokes-Dirac structure and then derived in Riemann coordinates. In a second instance the conditions on the boundary feedback relations derived with respect to the Riemann invariants are expressed in terms of the port boundary variable of the Hamiltonian formulation and interpreted in terms of the dissipation inequality of the Hamiltonian functional. The p-system and the Saint-Venant equations arising in models of irrigation channels are the illustrating examples developed through the paper.

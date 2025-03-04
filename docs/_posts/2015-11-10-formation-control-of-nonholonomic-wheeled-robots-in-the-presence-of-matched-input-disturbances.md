@@ -10,7 +10,7 @@ tag: Disturbance rejection; formation control; nonholonomic systems; port-Hamilt
 ---
  
 ## Authors
-**Ewoud Vos, Matin Jafarian, Claudio De Persis, Jacquelien M.A. Scherpen, Arjan J. van der Schaft**
+[Ewoud Vos](authors/ewoud-vos), [Matin Jafarian](authors/matin-jafarian), [Claudio De Persis](authors/claudio-de-persis), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 This paper presents a new approach for formation keeping control of a network of nonholonomic wheeled robots within the port-Hamiltonian framework in the presence of matched input disturbances. The formation keeping controller drives the network towards a desired formation by assigning virtual couplings between the robots, while an internal-modelbased controller is designed to locally compensate the disturbance for each of the robots.
@@ -47,16 +47,16 @@ Disturbance rejection; formation control; nonholonomic systems; port-Hamiltonian
 {% endhighlight %}
  
 ## References
-- [10.1109/TAC.2007.902733](https://doi.org/10.1109/TAC.2007.902733)
-- [10.1115/1.2802429](https://doi.org/10.1115/1.2802429)
-- [10.1016/j.automatica.2014.10.081](https://doi.org/10.1016/j.automatica.2014.10.081)
-- [10.1109/TCNS.2014.2338554](https://doi.org/10.1109/TCNS.2014.2338554)
-- [10.1016/j.robot.2006.09.001](https://doi.org/10.1016/j.robot.2006.09.001)
-- [10.1016/j.automatica.2014.12.016](https://doi.org/10.1016/j.automatica.2014.12.016)
+- Arcak, M. Passivity as a Design Tool for Group Coordination. IEEE Transactions on Automatic Control vol. 52 1380–1390 (2007) -- [10.1109/TAC.2007.902733](https://doi.org/10.1109/TAC.2007.902733)
+- Astolfi, A. Exponential Stabilization of a Wheeled Mobile Robot Via Discontinuous Control. Journal of Dynamic Systems, Measurement, and Control vol. 121 121–126 (1999) -- [10.1115/1.2802429](https://doi.org/10.1115/1.2802429)
+- Bürger, M. & De Persis, C. Dynamic coupling design for nonlinear output agreement and time-varying flow control. Automatica vol. 51 210–222 (2015) -- [10.1016/j.automatica.2014.10.081](https://doi.org/10.1016/j.automatica.2014.10.081)
+- De Persis, C. & Jayawardhana, B. On the Internal Model Principle in the Coordination of Nonlinear Systems. IEEE Transactions on Control of Network Systems vol. 1 272–282 (2014) -- [10.1109/TCNS.2014.2338554](https://doi.org/10.1109/TCNS.2014.2338554)
+- Do, K. D. & Pan, J. Nonlinear formation control of unicycle-type mobile robots. Robotics and Autonomous Systems vol. 55 191–204 (2007) -- [10.1016/j.robot.2006.09.001](https://doi.org/10.1016/j.robot.2006.09.001)
+- Jafarian, M. & De Persis, C. Formation control using binary information. Automatica vol. 53 125–135 (2015) -- [10.1016/j.automatica.2014.12.016](https://doi.org/10.1016/j.automatica.2014.12.016)
 - Jafarian, M., Vos, E., De Persis, C., Scherpen, J., van der Schaft, A. Disturbance rejection in formation keeping control of nonholonomic wheeled robots. Submitted
-- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Pigg, S., 2011. Adaptive algorithms for the rejection of sinusoidal disturbances acting on unkown plants., Ph.D. thesis, University of Utah
-- [10.1177/027836499301200104](https://doi.org/10.1177/027836499301200104)
-- [Port-Hamiltonian Systems Theory: An Introductory Overview](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- [Port-Hamiltonian Systems on Graphs](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- Samson, C. Time-varying Feedback Stabilization of Car-like Wheeled Mobile Robots. The International Journal of Robotics Research vol. 12 55–64 (1993) -- [10.1177/027836499301200104](https://doi.org/10.1177/027836499301200104)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 

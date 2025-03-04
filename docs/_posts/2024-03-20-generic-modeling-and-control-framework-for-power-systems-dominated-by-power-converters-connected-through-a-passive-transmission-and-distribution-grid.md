@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Qing-Chang Zhong, Marcio Stefanello**
+[Qing-Chang Zhong](authors/qing-chang-zhong), [Marcio Stefanello](authors/marcio-stefanello)
  
 ## Citation
 - **Journal:** CSEE Journal of Power and Energy Systems

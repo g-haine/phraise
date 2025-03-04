@@ -3,14 +3,14 @@ layout: post
 title: "Port-Hamiltonian descriptor systems are relative generically controllable and stabilizable"
 date: 2024-06-24 00:00:00 +0100
 permalink: port-hamiltonian-descriptor-systems-are-relative-generically-controllable-and-stabilizable
-year: 2024
+year: 2025
 authors: Achim Ilchmann, Jonas Kirchhoff, Manuel Schaller
 category: journal-article
 tag: Differential-algebraic equation; Port-Hamiltonian system; Controllability; Stabilizability; Genericity; Relative genericity; 34A09; 93B05
 ---
  
 ## Authors
-**Achim Ilchmann, Jonas Kirchhoff, Manuel Schaller**
+[Achim Ilchmann](authors/achim-ilchmann), [Jonas Kirchhoff](authors/jonas-kirchhoff), [Manuel Schaller](authors/manuel-schaller)
  
 ## Abstract
 The present work is a successor of Ilchmann and Kirchhoff (Math Control Signals Syst 33:359–377, 2021) on generic controllability and of Ilchmann and Kirchhoff (Math Control Signals Syst 35:45–76, 2022) on relative generic controllability of linear differential-algebraic equations. We extend the result from general, unstructured differential-algebraic equations to differential-algebraic equations of port-Hamiltonian type. We derive results on relative genericity. These findings are the basis for characterizing relative generic controllability of port-Hamiltonian systems in terms of dimensions. A similar result is proved for relative generic stabilizability.
@@ -20,10 +20,10 @@ Differential-algebraic equation; Port-Hamiltonian system; Controllability; Stabi
  
 ## Citation
 - **Journal:** Mathematics of Control, Signals, and Systems
-- **Year:** 2024
-- **Volume:** 
+- **Year:** 2025
+- **Volume:** 37
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 23--59
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s00498-024-00392-7](https://doi.org/10.1007/s00498-024-00392-7)
  
@@ -32,12 +32,15 @@ Differential-algebraic equation; Port-Hamiltonian system; Controllability; Stabi
 {% raw %}
 @article{Ilchmann_2024,
   title={{Port-Hamiltonian descriptor systems are relative generically controllable and stabilizable}},
+  volume={37},
   ISSN={1435-568X},
   DOI={10.1007/s00498-024-00392-7},
+  number={1},
   journal={Mathematics of Control, Signals, and Systems},
   publisher={Springer Science and Business Media LLC},
   author={Ilchmann, Achim and Kirchhoff, Jonas and Schaller, Manuel},
-  year={2024}
+  year={2024},
+  pages={23--59}
 }
 {% endraw %}
 {% endhighlight %}

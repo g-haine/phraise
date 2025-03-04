@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Sai Sowmya Nagam, Bikash C. Pal, Heng Wu, Frede Blaabjerg**
+[Sai Sowmya Nagam](authors/sai-sowmya-nagam), [Bikash C. Pal](authors/bikash-c-pal), [Heng Wu](authors/heng-wu), [Frede Blaabjerg](authors/frede-blaabjerg)
  
 ## Citation
 - **Journal:** IEEE Transactions on Control Systems Technology

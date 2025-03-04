@@ -10,7 +10,7 @@ tag: port-Hamiltonian systems; open quantum systems
 ---
  
 ## Authors
-**Gabriel Verrier, Ghislain Haine, Denis Matignon**
+[Gabriel Verrier](authors/gabriel-verrier), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 The modelling of the Schrödinger Equation as a port-Hamil-tonian system is addressed. We suggest two Hamiltonians for the model, one based on the probability of presence and the other on the energy of the quantum system in a time-independent potential. In order to simulate the evolution of the quantum system, we adapt the model to a bounded domain. The model is discretized thanks to the structure-preserving Partitioned Finite Element Method (PFEM). Simulations of Rabi oscillations to control the state of a system inside a quantum box are performed. Our numerical experiments include the transition between two levels of energy and the generation of Schrödinger cat states.

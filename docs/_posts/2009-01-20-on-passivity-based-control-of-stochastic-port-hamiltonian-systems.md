@@ -9,7 +9,7 @@ category: proceedings-article
 ---
  
 ## Authors
-**Satoshi Satoh, Kenji Fujimoto**
+[Satoshi Satoh](authors/satoshi-satoh), [Kenji Fujimoto](authors/kenji-fujimoto)
  
 ## Abstract
 This paper introduces Stochastic Port-Hamiltonian Systems (SPHS's), whose dynamics are described by Itô stochastic differential equations. SPHS's are extension of the deterministic port-Hamiltonian systems which are used to express various passive systems. First, we show a necessary and sufficient condition to preserve the stochastic port-Hamiltonian structure of the system under a class of coordinate transformations. Second, we derive a condition for the system to be stochastic passive. Third, we equip Stochastic Generalized Canonical Transformations (SGCT's), which are pairs of coordinate and feedback transformations preserving the stochastic port-Hamiltonian structure. Finally, we propose a stochastic stabilization framework based on stochastic passivity and SGCT's.
@@ -39,17 +39,17 @@ This paper introduces Stochastic Port-Hamiltonian Systems (SPHS's), whose dynami
 {% endhighlight %}
  
 ## References
-- [10.1007/978-1-4612-5370-9_11](https://doi.org/10.1007/978-1-4612-5370-9_11)
-- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
-- [10.1007/BF00276494](https://doi.org/10.1007/BF00276494)
-- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
-- [10.1137/S0363012997317478](https://doi.org/10.1137/S0363012997317478)
-- [10.1007/BF00276493](https://doi.org/10.1007/BF00276493)
-- [10.1007/BFb0042858](https://doi.org/10.1007/BFb0042858)
-- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
-- [10.1023/A:1004095516648](https://doi.org/10.1023/A:1004095516648)
-- [10.1016/0375-9601(94)90150-3](https://doi.org/10.1016/0375-9601(94)90150-3)
-- [10.1016/0022-0396(65)90016-1](https://doi.org/10.1016/0022-0396(65)90016-1)
-- [10.1088/0305-4470/32/48/310](https://doi.org/10.1088/0305-4470/32/48/310)
+- Itô, K. On a Formula Concerning Stochastic Differentials. Selected Papers 169–179 (1987) doi:10.1007/978-1-4612-5370-9_11 -- [10.1007/978-1-4612-5370-9_11](https://doi.org/10.1007/978-1-4612-5370-9_11)
+- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
+- Willems, J. C. Dissipative dynamical systems Part II: Linear systems with quadratic supply rates. Archive for Rational Mechanics and Analysis vol. 45 352–393 (1972) -- [10.1007/BF00276494](https://doi.org/10.1007/BF00276494)
+- Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Transactions on Automatic Control vol. 36 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
+- Florchinger, P. A Passive System Approach to Feedback Stabilization of Nonlinear Control Stochastic Systems. SIAM Journal on Control and Optimization vol. 37 1848–1864 (1999) -- [10.1137/S0363012997317478](https://doi.org/10.1137/S0363012997317478)
+- Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/BF00276493](https://doi.org/10.1007/BF00276493)
+- Variational and Hamiltonian Control Systems. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1987). doi:10.1007/bfb0042858 -- [10.1007/BFb0042858](https://doi.org/10.1007/BFb0042858)
+- Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1996). doi:10.1007/3-540-76074-1 -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
+- Misawa, T. Conserved Quantities and Symmetries Related to Stochastic Dynamical Systems. Annals of the Institute of Statistical Mathematics vol. 51 779–802 (1999) -- [10.1023/A:1004095516648](https://doi.org/10.1023/A:1004095516648)
+- Misawa, T. Conserved quantities and symmetry for stochastic dynamical systems. Physics Letters A vol. 195 185–189 (1994) -- [10.1016/0375-9601(94)90150-3](https://doi.org/10.1016/0375-9601(94)90150-3)
+- Bucy, R. S. Stability and positive supermartingales. Journal of Differential Equations vol. 1 151–155 (1965) -- [10.1016/0022-0396(65)90016-1](https://doi.org/10.1016/0022-0396(65)90016-1)
+- Gaeta, G. & Quintero, N. R. Lie-point symmetries and stochastic differential equations. Journal of Physics A: Mathematical and General vol. 32 8485–8505 (1999) -- [10.1088/0305-4470/32/48/310](https://doi.org/10.1088/0305-4470/32/48/310)
 

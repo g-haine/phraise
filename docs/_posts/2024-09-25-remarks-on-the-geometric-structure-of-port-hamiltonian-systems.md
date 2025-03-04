@@ -10,7 +10,7 @@ tag: Dirac structures; port-Hamiltonian systems; nonlinear systems; geometrical 
 ---
  
 ## Authors
-**Jonas Kirchhoff, Bernhard Maschke**
+[Jonas Kirchhoff](authors/jonas-kirchhoff), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 We study the geometric structure of port-Hamiltonian systems. Starting with the intuitive understanding that port-Hamiltonian systems are “in between” certain closed Hamiltonian systems, the geometric structure of port-Hamiltonian systems must be “in between” the geometric structures of the latter systems. These are Courant algebroids; and hence the geometric structures should be related by Courant algebroid morphisms. Using this idea, we propose a definition of an intrinsic geometric structure and show that it is unique, if it exists.
@@ -48,10 +48,10 @@ Dirac structures; port-Hamiltonian systems; nonlinear systems; geometrical metho
  
 ## References
 - Conlon, L. (1993). Differentiable Manifolds. A First Course. Birkhäuser, Boston, Basel, Berlin, 1st edition. -- [10.1007/978-1-4757-2284-0_1](https://doi.org/10.1007/978-1-4757-2284-0_1)
-- [Dirac manifolds](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
-- [10.1016/0021-8693(90)90246-K](https://doi.org/10.1016/0021-8693(90)90246-K)
-- [10.1016/j.matpur.2018.06.016](https://doi.org/10.1016/j.matpur.2018.06.016)
-- [On the Geometric Structure of Hamiltonian Systems with Ports](on-the-geometric-structure-of-hamiltonian-systems-with-ports) -- [10.1007/s00332-009-9052-3](https://doi.org/10.1007/s00332-009-9052-3)
-- [10.1023/A:1016179410273](https://doi.org/10.1023/A:1016179410273)
-- [10.1016/j.geomphys.2020.103635](https://doi.org/10.1016/j.geomphys.2020.103635)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- Higgins, P. J. & Mackenzie, K. Algebraic constructions in the category of lie algebroids. Journal of Algebra vol. 129 194–230 (1990) -- [10.1016/0021-8693(90)90246-K](https://doi.org/10.1016/0021-8693(90)90246-K)
+- Jotz Lean, M. Dorfman connections and Courant algebroids. Journal de Mathématiques Pures et Appliquées vol. 116 1–39 (2018) -- [10.1016/j.matpur.2018.06.016](https://doi.org/10.1016/j.matpur.2018.06.016)
+- [Merker, J. On the Geometric Structure of Hamiltonian Systems with Ports. Journal of Nonlinear Science vol. 19 717–738 (2009)](on-the-geometric-structure-of-hamiltonian-systems-with-ports) -- [10.1007/s00332-009-9052-3](https://doi.org/10.1007/s00332-009-9052-3)
+- Uchino, K. Letters in Mathematical Physics vol. 60 171–175 (2002) -- [10.1023/A:1016179410273](https://doi.org/10.1023/A:1016179410273)
+- Vysoký, J. Hitchhiker’s guide to Courant algebroid relations. Journal of Geometry and Physics vol. 151 103635 (2020) -- [10.1016/j.geomphys.2020.103635](https://doi.org/10.1016/j.geomphys.2020.103635)
 

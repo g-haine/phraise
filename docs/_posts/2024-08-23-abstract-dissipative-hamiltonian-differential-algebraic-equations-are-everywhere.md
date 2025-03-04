@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Hans Zwart, Volker Mehrmann**
+[Hans Zwart](authors/hans-zwart), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
 In this paper we study the representation of partial differential equations (PDEs) as abstract differential-algebraic equations (DAEs) with dissipative Hamiltonian structure (adHDAEs). We show that these systems not only arise when there are constraints coming from the underlying physics, but many standard PDE models can be seen as an adHDAE on an extended state space. This reflects the fact that models often include closure relations and structural properties. We present a unifying operator theoretic approach to analyze the properties of such operator equations and illustrate this by several applications.

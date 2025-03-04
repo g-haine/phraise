@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Ngoc Minh Trang Vu, Laurent Lefèvre**
+[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 A first extension of the IDA-PBC control synthesis to infinite dimensional port Hamiltonian systems is investigated, using the same idea as for the finite dimensional case, that is transform the original model into a closed loop target Hamiltonian model using feedback control. To achieve this goal both finite rank distributed control and boundary control are used. The proposed class of considered port Hamiltonian distributed parameters systems is first defined. Then the matching equation is derived for this class before considering the particular case of damping assignment on the resistive diffusion example, for the radial diffusion of the poloidal magnetic flux in tokamak reactors.
@@ -42,16 +42,16 @@ A first extension of the IDA-PBC control synthesis to infinite dimensional port 
 {% endhighlight %}
  
 ## References
-- [10.1016/j.fusengdes.2011.01.114](https://doi.org/10.1016/j.fusengdes.2011.01.114)
-- [Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
-- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [Boundary energy shaping of linear distributed port-Hamiltonian systems](boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.002](https://doi.org/10.1016/j.ejcon.2013.10.002)
-- [Port Hamiltonian formulation of infinite dimensional systems I. Modeling](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/CDC.2004.1429324](https://doi.org/10.1109/CDC.2004.1429324)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
-- [10.1109/CDC.2011.6160430](https://doi.org/10.1109/CDC.2011.6160430)
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [Exponential Stability of a Class of Boundary Control Systems](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
-- [10.1109/CDC.2005.1582762](https://doi.org/10.1109/CDC.2005.1582762)
-- [10.1088/0741-3335/49/7/009](https://doi.org/10.1088/0741-3335/49/7/009)
+- Bucalossi, J. et al. Feasibility study of an actively cooled tungsten divertor in Tore Supra for ITER technology testing. Fusion Engineering and Design vol. 86 684–688 (2011) -- [10.1016/j.fusengdes.2011.01.114](https://doi.org/10.1016/j.fusengdes.2011.01.114)
+- [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Macchelli, A. Boundary energy shaping of linear distributed port-Hamiltonian systems. European Journal of Control vol. 19 521–528 (2013)](boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.002](https://doi.org/10.1016/j.ejcon.2013.10.002)
+- [Macchelli, A., van der Schaft, A. J. & Melchiorri, C. Port Hamiltonian formulation of infinite dimensional systems I. Modeling. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 3762-3767 Vol.4 (2004) doi:10.1109/cdc.2004.1429324](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/CDC.2004.1429324](https://doi.org/10.1109/CDC.2004.1429324)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
+- Schoberl, M. & Siuka, A. On Casimir functionals for field theories in Port-Hamiltonian description for control purposes. IEEE Conference on Decision and Control and European Control Conference 7759–7764 (2011) doi:10.1109/cdc.2011.6160430 -- [10.1109/CDC.2011.6160430](https://doi.org/10.1109/CDC.2011.6160430)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
+- Villegas, J. A., Zwart, H., Le Gorrec, Y., Maschke, B. & van der Schaft, A. J. Stability and Stabilization of a Class of Boundary Control Systems. Proceedings of the 44th IEEE Conference on Decision and Control 3850–3855 doi:10.1109/cdc.2005.1582762 -- [10.1109/CDC.2005.1582762](https://doi.org/10.1109/CDC.2005.1582762)
+- Witrant, E. et al. A control-oriented model of the current profile in tokamak plasma. Plasma Physics and Controlled Fusion vol. 49 1075–1105 (2007) -- [10.1088/0741-3335/49/7/009](https://doi.org/10.1088/0741-3335/49/7/009)
 

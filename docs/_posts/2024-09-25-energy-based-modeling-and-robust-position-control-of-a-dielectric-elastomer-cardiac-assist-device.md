@@ -10,7 +10,7 @@ tag: Dielectric elastomer actuators; port-Hamiltonian systems; passivity-based c
 ---
  
 ## Authors
-**Amal Hammoud, Ning Liu, Yann Le Gorrec, Yoan Civet, Yves Perriard**
+[Amal Hammoud](authors/amal-hammoud), [Ning Liu](authors/ning-liu), [Yann Le Gorrec](authors/yann-le-gorrec), [Yoan Civet](authors/yoan-civet), [Yves Perriard](authors/yves-perriard)
  
 ## Abstract
 This paper is concerned with the port Hamiltonian modeling and control of a dielectric elastomer actuator used for a cardiac assistance device. The proposed non-linear model is identified under different applied voltages and pressures, and validated against experimental results with relative errors of less than 0.3%. Subsequently, two passivity-based controllers are designed to stabilize the actuator at a desired position. The first controller is designed using control by interconnection. The second one considers additional integral action to reject disturbances while preserving the passivity of the closed-loop system.
@@ -47,25 +47,25 @@ Dielectric elastomer actuators; port-Hamiltonian systems; passivity-based contro
 {% endhighlight %}
  
 ## References
-- [10.1002/advs.202001974](https://doi.org/10.1002/advs.202001974)
-- [10.1109/TMECH.2020.3044492](https://doi.org/10.1109/TMECH.2020.3044492)
-- [10.1098/rsta.2018.0077](https://doi.org/10.1098/rsta.2018.0077)
+- Almanza, M. et al. Feasibility of a Dielectric Elastomer Augmented Aorta. Advanced Science vol. 8 (2021) -- [10.1002/advs.202001974](https://doi.org/10.1002/advs.202001974)
+- Bernat, J., Kolota, J. & Rosset, S. Identification of a Nonlinear Dielectric Elastomer Actuator Based on the Harmonic Balance Method. IEEE/ASME Transactions on Mechatronics vol. 26 2664–2675 (2021) -- [10.1109/TMECH.2020.3044492](https://doi.org/10.1109/TMECH.2020.3044492)
+- Dorfmann, L. & Ogden, R. W. Instabilities of soft dielectrics. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences vol. 377 20180077 (2019) -- [10.1098/rsta.2018.0077](https://doi.org/10.1098/rsta.2018.0077)
 - [Ferguson, J. (2018). Robust Control of Port-Hamiltonian Systems. Ph.D. thesis, The University of Newcastle.](robust-integral-action-of-port-hamiltonian-systems) -- [10.1016/j.ifacol.2018.06.050](https://doi.org/10.1016/j.ifacol.2018.06.050)
-- [Integral Control of Port-Hamiltonian Systems: Nonpassive Outputs Without Coordinate Transformation](integral-control-of-port-hamiltonian-systems-nonpassive-outputs-without-coordinate-transformation) -- [10.1109/TAC.2017.2700995](https://doi.org/10.1109/TAC.2017.2700995)
+- [Ferguson, J., Donaire, A. & Middleton, R. H. Integral Control of Port-Hamiltonian Systems: Nonpassive Outputs Without Coordinate Transformation. IEEE Transactions on Automatic Control vol. 62 5947–5953 (2017)](integral-control-of-port-hamiltonian-systems-nonpassive-outputs-without-coordinate-transformation) -- [10.1109/TAC.2017.2700995](https://doi.org/10.1109/TAC.2017.2700995)
 - Garnell, E. (2020). Dielectric elastomer loudspeakers: models, experiments and optimization. Ph.D. thesis, Institut polytechnique de Paris.
-- [10.1088/1361-665X/ab3a77](https://doi.org/10.1088/1361-665X/ab3a77)
-- [10.1007/s41315-021-00211-1](https://doi.org/10.1007/s41315-021-00211-1)
-- [10.1109/LRA.2022.3148981](https://doi.org/10.1109/LRA.2022.3148981)
-- [Energy-Based Modeling of Ionic Polymer–Metal Composite Actuators Dedicated to the Control of Flexible Structures](energy-based-modeling-of-ionic-polymer-metal-composite-actuators-dedicated-to-the-control-of-flexible-structures) -- [10.1109/TMECH.2021.3053609](https://doi.org/10.1109/TMECH.2021.3053609)
-- [10.1016/j.jmps.2020.104221](https://doi.org/10.1016/j.jmps.2020.104221)
-- [10.1088/1361-665X/ac1fa8](https://doi.org/10.1088/1361-665X/ac1fa8)
-- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [A Thermodynamically Consistent Port-Hamiltonian Model for Dielectric Elastomer Membrane Actuators and Generators](a-thermodynamically-consistent-port-hamiltonian-model-for-dielectric-elastomer-membrane-actuators-and-generators) -- [10.1016/j.ifacol.2017.08.974](https://doi.org/10.1016/j.ifacol.2017.08.974)
-- [10.1109/TCST.2014.2338356](https://doi.org/10.1109/TCST.2014.2338356)
-- [10.1016/S0894-9166(11)60004-9](https://doi.org/10.1016/S0894-9166(11)60004-9)
+- Gupta, U., Qin, L., Wang, Y., Godaba, H. & Zhu, J. Soft robots based on dielectric elastomer actuators: a review. Smart Materials and Structures vol. 28 103002 (2019) -- [10.1088/1361-665X/ab3a77](https://doi.org/10.1088/1361-665X/ab3a77)
+- Kaaya, T., Wang, S., Cescon, M. & Chen, Z. Physics-lumped parameter based control oriented model of dielectric tubular actuator. International Journal of Intelligent Robotics and Applications vol. 6 397–413 (2021) -- [10.1007/s41315-021-00211-1](https://doi.org/10.1007/s41315-021-00211-1)
+- Liu, N., Martinez, T., Walter, A., Civet, Y. & Perriard, Y. Control-Oriented Modeling and Analysis of Tubular Dielectric Elastomer Actuators Dedicated to Cardiac Assist Devices. IEEE Robotics and Automation Letters vol. 7 4361–4367 (2022) -- [10.1109/LRA.2022.3148981](https://doi.org/10.1109/LRA.2022.3148981)
+- [Liu, N., Wu, Y. & Le Gorrec, Y. Energy-Based Modeling of Ionic Polymer–Metal Composite Actuators Dedicated to the Control of Flexible Structures. IEEE/ASME Transactions on Mechatronics vol. 26 3139–3150 (2021)](energy-based-modeling-of-ionic-polymer-metal-composite-actuators-dedicated-to-the-control-of-flexible-structures) -- [10.1109/TMECH.2021.3053609](https://doi.org/10.1109/TMECH.2021.3053609)
+- Liu, Z., McBride, A., Sharma, B. L., Steinmann, P. & Saxena, P. Coupled electro-elastic deformation and instabilities of a toroidal membrane. Journal of the Mechanics and Physics of Solids vol. 151 104221 (2021) -- [10.1016/j.jmps.2020.104221](https://doi.org/10.1016/j.jmps.2020.104221)
+- Martinez, T., Chavanne, J., Walter, A., Civet, Y. & Perriard, Y. Design and modelling of a tubular dielectric elastomer actuator with constrained radial displacement as a cardiac assist device. Smart Materials and Structures vol. 30 105024 (2021) -- [10.1088/1361-665X/ac1fa8](https://doi.org/10.1088/1361-665X/ac1fa8)
+- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- [Rizzello, G., Naso, D. & Seelecke, S. A Thermodynamically Consistent Port-Hamiltonian Model for Dielectric Elastomer Membrane Actuators and Generators. IFAC-PapersOnLine vol. 50 4855–4862 (2017)](a-thermodynamically-consistent-port-hamiltonian-model-for-dielectric-elastomer-membrane-actuators-and-generators) -- [10.1016/j.ifacol.2017.08.974](https://doi.org/10.1016/j.ifacol.2017.08.974)
+- Rizzello, G., Naso, D., York, A. & Seelecke, S. Modeling, Identification, and Control of a Dielectric Electro-Active Polymer Positioning System. IEEE Transactions on Control Systems Technology vol. 23 632–643 (2015) -- [10.1109/TCST.2014.2338356](https://doi.org/10.1109/TCST.2014.2338356)
+- Suo, Z. Theory of dielectric elastomers. Acta Mechanica Solida Sinica vol. 23 549–578 (2010) -- [10.1016/S0894-9166(11)60004-9](https://doi.org/10.1016/S0894-9166(11)60004-9)
 - van der Schaft, A. (2017). L2-Gain and Passivity Techniques in Nonlinear Control. Springer International Publishing, 3 edition. -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Voß, T. (2010). Port-hamiltonian modeling and control of piezoelectric beams and plates: application to inflatable space structures.
-- [10.1063/1.3504702](https://doi.org/10.1063/1.3504702)
-- [10.1103/PhysRevB.76.134113](https://doi.org/10.1103/PhysRevB.76.134113)
-- [10.1063/1.3490186](https://doi.org/10.1063/1.3490186)
+- Xu, B.-X., Mueller, R., Klassen, M. & Gross, D. On electromechanical stability analysis of dielectric elastomer actuators. Applied Physics Letters vol. 97 (2010) -- [10.1063/1.3504702](https://doi.org/10.1063/1.3504702)
+- Zhao, X., Hong, W. & Suo, Z. Electromechanical hysteresis and coexistent states in dielectric elastomers. Physical Review B vol. 76 (2007) -- [10.1103/PhysRevB.76.134113](https://doi.org/10.1103/PhysRevB.76.134113)
+- Zhu, J., Stoyanov, H., Kofod, G. & Suo, Z. Large deformation and electromechanical instability of a dielectric elastomer tube actuator. Journal of Applied Physics vol. 108 (2010) -- [10.1063/1.3490186](https://doi.org/10.1063/1.3490186)
 

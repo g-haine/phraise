@@ -18977,7 +18977,7 @@
   {
     "doi": "10.1016/j.ifacol.2023.10.017",
     "type": "journal-article",
-    "title": "Symplectic discrete-time Krasovskii passivity-based control for output consensus*",
+    "title": "Symplectic discrete-time Krasovskii passivity-based control for output consensus",
     "authors": [
   {
     "given": "Yu",
@@ -23960,7 +23960,7 @@
   {
     "doi": "10.1016/j.ifacol.2023.10.079",
     "type": "journal-article",
-    "title": "Physically Consistent Neural ODEs for Learning Multi-Physics Systems*",
+    "title": "Physically Consistent Neural ODEs for Learning Multi-Physics Systems",
     "authors": [
   {
     "given": "M.",
@@ -33124,11 +33124,11 @@
   }
 ],
     "abstract": "The present work is a successor of Ilchmann and Kirchhoff (Math Control Signals Syst 33:359–377, 2021) on generic controllability and of Ilchmann and Kirchhoff (Math Control Signals Syst 35:45–76, 2022) on relative generic controllability of linear differential-algebraic equations. We extend the result from general, unstructured differential-algebraic equations to differential-algebraic equations of port-Hamiltonian type. We derive results on relative genericity. These findings are the basis for characterizing relative generic controllability of port-Hamiltonian systems in terms of dimensions. A similar result is proved for relative generic stabilizability.",    "journal": "Mathematics of Control, Signals, and Systems",
-    "year": "2024",
-    "volume": "",
+    "year": "2025",
+    "volume": "37",
     "issue": "",
     "event": "",    "isbn": "",
-    "pages": "",
+    "pages": "23--59",
     "publisher": "Springer Science and Business Media LLC",
     "keywords": "Differential-algebraic equation; Port-Hamiltonian system; Controllability; Stabilizability; Genericity; Relative genericity; 34A09; 93B05",
     "dateY": "2024",
@@ -39440,7 +39440,7 @@
   {
     "doi": "10.1016/j.ifacol.2022.08.036",
     "type": "journal-article",
-    "title": "Port Hamiltonian formulation of the solidification process for a pure substance: A phase field approach*",
+    "title": "Port Hamiltonian formulation of the solidification process for a pure substance: A phase field approach",
     "authors": [
   {
     "given": "Mohammed",

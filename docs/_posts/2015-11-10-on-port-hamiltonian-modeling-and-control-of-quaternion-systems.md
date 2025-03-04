@@ -10,7 +10,7 @@ tag: Passivity based control; quaternions; aerospace systems
 ---
  
 ## Authors
-**Kenji Fujimoto, Tomoya Takeuchi, Yuki Matsumoto**
+[Kenji Fujimoto](authors/kenji-fujimoto), [Tomoya Takeuchi](authors/tomoya-takeuchi), [Yuki Matsumoto](authors/yuki-matsumoto)
  
 ## Abstract
 A quaternion representation is often used to describe the attitude of a rigid body type spacecraft since it does not have any singular point whereas the conventional Euler angle description intrinsically has one. However, the dynamical equation with quaternions become more complicated than those described by Euler angles. The scope of this paper is to provide a basis of modeling and control of those systems using port-Hamiltonian system formulation to remove some of those difficulties in control of those systems. A stabilization procedure based on passivity based control is proposed and a sufficient condition for artificial potential energy are derived for a class of simple systems with quaternions.

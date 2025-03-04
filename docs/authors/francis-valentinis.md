@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Publications by Francis Valentinis
-permalink: /authors/francis-valentinis/
+permalink: /authors/francis-valentinis
 ---
 
 <ul class="post-list">
-<li><span class='post-meta'>2019 -- Francis Valentinis, Craig Woolsey</span><h3><a class='post-link' href='../../nonlinear-control-of-a-subscale-submarine-in-emergency-ascent'>Nonlinear control of a subscale submarine in emergency ascent</a></h3></li>
-<li><span class='post-meta'>2017 -- Christina Kazantzidou, Tristan Perez, Francis Valentinis</span><h3><a class='post-link' href='../../eigenstructure-assignment-for-the-position-regulation-of-a-fully-actuated-marine-craft'>Eigenstructure assignment for the position regulation of a fully-actuated marine craft</a></h3></li>
-<li><span class='post-meta'>2015 -- Francis Valentinis, Alejandro Donaire, Tristan Perez</span><h3><a class='post-link' href='../../energy-based-guidance-of-an-underactuated-unmanned-underwater-vehicle-on-a-helical-trajectory'>Energy-based guidance of an underactuated unmanned underwater vehicle on a helical trajectory</a></h3></li>
-<li><span class='post-meta'>2015 -- Francis Valentinis, Alejandro Donaire, Tristan Perez</span><h3><a class='post-link' href='../../energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle'>Energy-based motion control of a slender hull unmanned underwater vehicle</a></h3></li>
+<li><span class='post-meta'>2019 -- Francis Valentinis, Craig Woolsey</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-control-of-a-subscale-submarine-in-emergency-ascent">Nonlinear control of a subscale submarine in emergency ascent</a></h3></li>
+<li><span class='post-meta'>2017 -- Christina Kazantzidou, Tristan Perez, Francis Valentinis</span><h3><a class='post-link' href="{{ site.baseurl }}/eigenstructure-assignment-for-the-position-regulation-of-a-fully-actuated-marine-craft">Eigenstructure assignment for the position regulation of a fully-actuated marine craft</a></h3></li>
+<li><span class='post-meta'>2015 -- Francis Valentinis, Alejandro Donaire, Tristan Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-guidance-of-an-underactuated-unmanned-underwater-vehicle-on-a-helical-trajectory">Energy-based guidance of an underactuated unmanned underwater vehicle on a helical trajectory</a></h3></li>
+<li><span class='post-meta'>2015 -- Francis Valentinis, Alejandro Donaire, Tristan Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle">Energy-based motion control of a slender hull unmanned underwater vehicle</a></h3></li>
 
 </ul>

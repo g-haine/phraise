@@ -10,7 +10,7 @@ tag: Partial differential equations on networks; Port-Hamiltonian model framewor
 ---
  
 ## Authors
-**Sarah-Alexa Hauschild, Nicole Marheineke, Volker Mehrmann, Jan Mohring, Arbi Moses Badlyan, Markus Rein, Martin Schmidt**
+[Sarah-Alexa Hauschild](authors/sarah-alexa-hauschild), [Nicole Marheineke](authors/nicole-marheineke), [Volker Mehrmann](authors/volker-mehrmann), [Jan Mohring](authors/jan-mohring), [Arbi Moses Badlyan](authors/arbi-moses-badlyan), [Markus Rein](authors/markus-rein), [Martin Schmidt](authors/martin-schmidt)
  
 ## Abstract
 This paper provides a first contribution to port-Hamiltonian modeling of district heating networks. District heating network By introducing a model hierarchy of flow equations on the network, this work aims at a thermodynamically consistent port-Hamiltonian embedding of the partial differential-algebraic systems. We show that a spatially discretized network model describing the advection of the internal energy density with respect to an underlying incompressible stationary Euler-type hydrodynamics can be considered as a parameter-dependent finite-dimensional port-Hamiltonian system. Port-Hamiltonian system Moreover, we present an infinite-dimensional port-Hamiltonian formulation for a compressible instationary thermodynamic fluid flow Thermodynamic fluid flow in a pipe. Based on these first promising results, we raise open questions and point out research perspectives concerning structure-preserving discretization, model reduction, and optimization.

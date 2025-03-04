@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Jochen Schmid**
+[Jochen Schmid](authors/jochen-schmid)
  
 ## Abstract
 We establish an exponential stabilization result for linear port-Hamiltonian systems of first order with quite general, not necessarily continuous, energy densities. In fact, we have only to require the energy density of the system to be of bounded variation. In particular, and in contrast to the previously known stabilization results, our result applies to vibrating strings or beams with jumps in their mass density and their modulus of elasticity.

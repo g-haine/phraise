@@ -10,7 +10,7 @@ tag: Vocal Apparatus; port-Hamiltonian Systems (PHS); Open Passive Systems; Glot
 ---
  
 ## Authors
-**Thomas Hélie, Fabrice Silva**
+[Thomas Hélie](authors/thomas-helie), [Fabrice Silva](authors/fabrice-silva)
  
 ## Abstract
 Port Hamiltonian systems (PHS) are open passive systems that fulfil a power balance: they correspond to dynamical systems composed of energy-storing elements, energy-dissipating elements and external ports, endowed with a geometric structure (called Dirac structure) that encodes conservative interconnections. This paper presents a minimal PHS model of the full vocal apparatus. Elementary components are: (a) an ideal subglottal pressure supply, (b) a glottal flow in a mobile channel, (c) vocal-folds, (d) an acoustic resonator reduced to a single mode. Particular attention is paid to the energetic consistency of each component, to passivity and to the conservative interconnection. Simulations are presented. They show the ability of the model to produce a variety of regimes, including self-sustained oscillations. Typical healthy or pathological configuration laryngeal configurations are explored.

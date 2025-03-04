@@ -9,7 +9,7 @@ category: monograph
 ---
  
 ## Authors
-**Arjan van der Schaft, Dimitri Jeltsema**
+[Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
  
 ## Citation
 - **Journal:** null

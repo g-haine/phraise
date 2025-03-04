@@ -9,7 +9,7 @@ category: book-chapter
 ---
  
 ## Authors
-**Sarah-Alexa Hauschild, Nicole Marheineke**
+[Sarah-Alexa Hauschild](authors/sarah-alexa-hauschild), [Nicole Marheineke](authors/nicole-marheineke)
  
 ## Abstract
 The port-Hamiltonian (pH) formulation of partial-differential equations and their numerical treatment have been elaborately studied lately. This energy-based formulation encodes physical principles in the system structure and the pH-character is inherited during coupling. Considering a non-isothermal compressible fluid flow in a pipe, we propose a pH-model on PDE-level, which is advantageous for structure-preserving approximations. Based on Galerkin projection with compatible finite dimensional spaces we preserve the pH-structure during space discretization and model reduction. Numerical results support our theoretical findings.

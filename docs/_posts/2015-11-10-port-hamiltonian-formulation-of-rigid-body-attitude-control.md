@@ -10,7 +10,7 @@ tag: Attitude control; port-Hamiltonian systems; nonlinear control systems
 ---
  
 ## Authors
-**Paolo Forni, Dimitri Jeltsema, Gabriel A.D. Lopes**
+[Paolo Forni](authors/paolo-forni), [Dimitri Jeltsema](authors/dimitri-jeltsema), [Gabriel A.D. Lopes](authors/gabriel-a-d-lopes)
  
 ## Abstract
 The aim of this paper is to present a port-Hamiltonian (pH) formulation of the rigidbody attitude control problem, therefore enhancing the set of available tools for its modeling and control. First, a pH formulation of both dynamics and kinematics equations is presented. Second, a standard energy-balancing passivity-based controller (EB-PBC) is used for set-point tracking. Third, the controlled system is endowed with a dynamical extension to achieve set-point tracking without measuring the angular velocities. As a conclusive remark, it is showed under specific assumptions that these three results can be achieved regardless the coordinate representation in use. Additional examples follow to motivate the adoption of the pH formulation.
@@ -47,8 +47,8 @@ Attitude control; port-Hamiltonian systems; nonlinear control systems
 {% endhighlight %}
  
 ## References
-- [10.1109/MCS.2011.940459](https://doi.org/10.1109/MCS.2011.940459)
-- [Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
-- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [Port-Hamiltonian Systems Theory: An Introductory Overview](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Rigid-Body Attitude Control. IEEE Control Systems vol. 31 30–51 (2011) -- [10.1109/MCS.2011.940459](https://doi.org/10.1109/MCS.2011.940459)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Publications by Prabhu Ramachandran
-permalink: /authors/prabhu-ramachandran/
+permalink: /authors/prabhu-ramachandran
 ---
 
 <ul class="post-list">
-<li><span class='post-meta'>2014 -- Kunal Puri, Prabhu Ramachandran</span><h3><a class='post-link' href='../../a-comparison-of-sph-schemes-for-the-compressible-euler-equations'>A comparison of SPH schemes for the compressible Euler equations</a></h3></li>
+<li><span class='post-meta'>2014 -- Kunal Puri, Prabhu Ramachandran</span><h3><a class='post-link' href="{{ site.baseurl }}/a-comparison-of-sph-schemes-for-the-compressible-euler-equations">A comparison of SPH schemes for the compressible Euler equations</a></h3></li>
 
 </ul>

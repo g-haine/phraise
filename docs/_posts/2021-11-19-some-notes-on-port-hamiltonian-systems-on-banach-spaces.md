@@ -10,7 +10,7 @@ tag: port-Hamiltonian systems; partial differential-algebraic systems; Dirac str
 ---
  
 ## Authors
-**Timo Reis**
+[Timo Reis](authors/timo-reis)
  
 ## Abstract
 We consider port-Hamiltonian systems from a functional analytic perspective. Dirac structures and Hamiltonians on Banach spaces are introduced, and an energy balance is proven. Further, we consider port-Hamiltonian systems on Banach manifolds, and we present some physical examples that fit into the presented theory.
@@ -47,12 +47,12 @@ port-Hamiltonian systems; partial differential-algebraic systems; Dirac structur
 {% endhighlight %}
  
 ## References
-- [10.4064/sm8757-4-2017](https://doi.org/10.4064/sm8757-4-2017)
-- [10.1007/978-1-4419-5542-5](https://doi.org/10.1007/978-1-4419-5542-5)
-- [Dirac structures and their composition on Hilbert spaces](dirac-structures-and-their-composition-on-hilbert-spaces) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
-- [Interconnection of port-Hamiltonian systems and composition of Dirac structures](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
+- Arendt, W. & Kreuter, M. Mapping theorems for Sobolev spaces of vector-valued functions. Studia Mathematica vol. 240 275–299 (2018) -- [10.4064/sm8757-4-2017](https://doi.org/10.4064/sm8757-4-2017)
+- Barbu, V. Nonlinear Differential Equations of Monotone Types in Banach Spaces. Springer Monographs in Mathematics (Springer New York, 2010). doi:10.1007/978-1-4419-5542-5 -- [10.1007/978-1-4419-5542-5](https://doi.org/10.1007/978-1-4419-5542-5)
+- [Kurula, M., Zwart, H., van der Schaft, A. & Behrndt, J. Dirac structures and their composition on Hilbert spaces. Journal of Mathematical Analysis and Applications vol. 372 402–422 (2010)](dirac-structures-and-their-composition-on-hilbert-spaces) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
+- [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - Chill, R., Reis, T., and Stykel, T. (2021). Analysis of a quasilinear coupled magneto-quasistatic model. Part I: Solvability and regularity of solutions. Hamburger Beiträge zur Angewandten Mathematik 2021-1, Univer-sität Hamburg.
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [Generalized port-Hamiltonian DAE systems](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
-- [Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18M1164275](https://doi.org/10.1137/18M1164275)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [Mehl, C., Mehrmann, V. & Wojtylak, M. Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems. SIAM Journal on Matrix Analysis and Applications vol. 39 1489–1519 (2018)](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18M1164275](https://doi.org/10.1137/18M1164275)
 

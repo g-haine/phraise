@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Arjan van der Schaft, Volker Mehrmann**
+[Arjan van der Schaft](authors/arjan-van-der-schaft), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Citation
 - **Journal:** SSRN Electronic Journal

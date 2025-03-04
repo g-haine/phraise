@@ -10,7 +10,7 @@ tag: 65P10; 65L05; 34E13
 ---
  
 ## Authors
-**Ernst Hairer, Christian Lubich**
+[Ernst Hairer](authors/ernst-hairer), [Christian Lubich](authors/christian-lubich)
  
 ## Abstract
 The long-time behaviour of the Störmer–Verlet–leapfrog method is studied when this method is applied to highly oscillatory Hamiltonian systems with a slowly varying, solution-dependent high frequency. Using the technique of modulated Fourier expansions with state-dependent frequencies, which is newly developed here, the following results are proved: the considered Hamiltonian systems have the action as an adiabatic invariant over long times that cover arbitrary negative powers of the small parameter. The Störmer–Verlet method approximately conserves a modified action and a modified total energy over a long time interval that covers a negative integer power of the small parameter. This power depends on the size of the product of the stepsize with the high frequency.

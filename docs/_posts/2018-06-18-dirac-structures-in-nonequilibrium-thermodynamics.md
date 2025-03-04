@@ -10,7 +10,7 @@ tag: Nonequilibrium thermodynamics; Dirac structures; nonlinear nonholonomic con
 ---
  
 ## Authors
-**Hiroaki Yoshimura, François Gay-Balmaz**
+[Hiroaki Yoshimura](authors/hiroaki-yoshimura), [François Gay-Balmaz](authors/francois-gay-balmaz)
  
 ## Abstract
 In this paper, it is shown that the evolution equations for nonequilibrium thermodynamics admit an intrinsic formulation in terms of Dirac structures, both on the Lagrangian and the Hamiltonian settings. The Dirac structures are constructed on the Pontryagin bundle P = TQ ⊕ T⁎Q, where Q = Q × ℝ is the thermodynamic configuration manifold. In particular, it is illustrated how one can develop Dirac structures that include nonlinear nonholonomic constraints originated from the entropy production in each irreversible process. Lastly, we also present the induced Dirac structure on N = T⁎Q × ℝ together with the associated Lagrange-Dirac and Hamilton-Dirac dynamical formulations in analogy with nonholonomic mechanics.
@@ -47,11 +47,11 @@ Nonequilibrium thermodynamics; Dirac structures; nonlinear nonholonomic constrai
 {% endhighlight %}
  
 ## References
-- [10.4153/CJM-1950-012-1](https://doi.org/10.4153/CJM-1950-012-1)
-- [10.1016/j.geomphys.2016.08.018](https://doi.org/10.1016/j.geomphys.2016.08.018)
-- [10.1016/j.geomphys.2016.08.019](https://doi.org/10.1016/j.geomphys.2016.08.019)
+- Dirac, P. A. M. Generalized Hamiltonian Dynamics. Canadian Journal of Mathematics vol. 2 129–148 (1950) -- [10.4153/CJM-1950-012-1](https://doi.org/10.4153/CJM-1950-012-1)
+- Gay-Balmaz, F. & Yoshimura, H. A Lagrangian variational formulation for nonequilibrium thermodynamics. Part I: Discrete systems. Journal of Geometry and Physics vol. 111 169–193 (2017) -- [10.1016/j.geomphys.2016.08.018](https://doi.org/10.1016/j.geomphys.2016.08.018)
+- Gay-Balmaz, F. & Yoshimura, H. A Lagrangian variational formulation for nonequilibrium thermodynamics. Part II: Continuum systems. Journal of Geometry and Physics vol. 111 194–212 (2017) -- [10.1016/j.geomphys.2016.08.019](https://doi.org/10.1016/j.geomphys.2016.08.019)
 - F. Gay-Balmaz and H. Yoshimura. (2017c). A free energy Lagrangian variational formulation of the Navier-Stokes-Fourier system. To appear in Int. J. Geom. Methods Mod. Phys.
-- [10.1063/1.5017223](https://doi.org/10.1063/1.5017223)
-- [Dirac structures in Lagrangian mechanics Part I: Implicit Lagrangian systems](dirac-structures-in-lagrangian-mechanics-part-i-implicit-lagrangian-systems) -- [10.1016/j.geomphys.2006.02.009](https://doi.org/10.1016/j.geomphys.2006.02.009)
-- [10.1016/j.geomphys.2006.02.012](https://doi.org/10.1016/j.geomphys.2006.02.012)
+- Gay-Balmaz, F. & Yoshimura, H. Dirac structures in nonequilibrium thermodynamics. Journal of Mathematical Physics vol. 59 (2018) -- [10.1063/1.5017223](https://doi.org/10.1063/1.5017223)
+- [Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part I: Implicit Lagrangian systems. Journal of Geometry and Physics vol. 57 133–156 (2006)](dirac-structures-in-lagrangian-mechanics-part-i-implicit-lagrangian-systems) -- [10.1016/j.geomphys.2006.02.009](https://doi.org/10.1016/j.geomphys.2006.02.009)
+- Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part II: Variational structures. Journal of Geometry and Physics vol. 57 209–250 (2006) -- [10.1016/j.geomphys.2006.02.012](https://doi.org/10.1016/j.geomphys.2006.02.012)
 

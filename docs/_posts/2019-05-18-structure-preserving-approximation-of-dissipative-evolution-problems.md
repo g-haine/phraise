@@ -10,7 +10,7 @@ tag: 37K05; 37L65; 47J35; 65J08
 ---
  
 ## Authors
-**H. Egger**
+[H. Egger](authors/herbert-egger)
  
 ## Abstract
 We present a framework for the systematic numerical approximation of nonlinear evolution problems with dissipation. The approach is based on rewriting the problem in a canonical form that complies with the underlying energy-dissipation structure. We show that the corresponding weak formulation then allows for a dissipation-preserving approximation by Galerkin methods in space and discontinuous Galerkin methods in time. The proposed methodology is rather general and can be applied to a wide range of applications. This is demonstrated by discussion of some typical examples ranging from diffusive partial differential equations to dissipative Hamiltonian systems.

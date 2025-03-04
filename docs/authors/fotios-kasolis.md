@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Publications by Fotios Kasolis
-permalink: /authors/fotios-kasolis/
+permalink: /authors/fotios-kasolis
 ---
 
 <ul class="post-list">
-<li><span class='post-meta'>2025 -- Markus Clemens, Marvin-Lucas Henkel, Fotios Kasolis, Michael Günther</span><h3><a class='post-link' href='../../structural-aspects-of-electromagneto-quasistatic-field-formulations-of-darwin-type-derived-in-the-port-hamiltonian-system-framework-journal'>Structural Aspects of Electromagneto-Quasistatic Field Formulations of Darwin-Type Derived in the Port-Hamiltonian System Framework</a></h3></li>
-<li><span class='post-meta'>2024 -- Markus Clemens, Marvin-Lucas Henkel, Fotios Kasolis, Michael Günther</span><h3><a class='post-link' href='../../structural-aspects-of-electromagneto-quasistatic-field-formulations-of-darwin-type-derived-in-the-port-hamiltonian-system-framework'>Structural Aspects of Electromagneto-Quasistatic Field Formulations of Darwin-Type Derived in the Port-Hamiltonian System Framework</a></h3></li>
+<li><span class='post-meta'>2025 -- Markus Clemens, Marvin-Lucas Henkel, Fotios Kasolis, Michael Günther</span><h3><a class='post-link' href="{{ site.baseurl }}/structural-aspects-of-electromagneto-quasistatic-field-formulations-of-darwin-type-derived-in-the-port-hamiltonian-system-framework-journal">Structural Aspects of Electromagneto-Quasistatic Field Formulations of Darwin-Type Derived in the Port-Hamiltonian System Framework</a></h3></li>
+<li><span class='post-meta'>2024 -- Markus Clemens, Marvin-Lucas Henkel, Fotios Kasolis, Michael Günther</span><h3><a class='post-link' href="{{ site.baseurl }}/structural-aspects-of-electromagneto-quasistatic-field-formulations-of-darwin-type-derived-in-the-port-hamiltonian-system-framework">Structural Aspects of Electromagneto-Quasistatic Field Formulations of Darwin-Type Derived in the Port-Hamiltonian System Framework</a></h3></li>
 
 </ul>

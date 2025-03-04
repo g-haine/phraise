@@ -9,7 +9,7 @@ category: book
 ---
  
 ## Authors
-**Birgit Jacob, Hans J. Zwart**
+[Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-zwart)
  
 ## Citation
 - **ISBN:** 9783034803984

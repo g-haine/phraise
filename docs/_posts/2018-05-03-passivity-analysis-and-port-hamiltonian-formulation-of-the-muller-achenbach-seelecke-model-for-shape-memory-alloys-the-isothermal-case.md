@@ -10,7 +10,7 @@ tag: Shape Memory Alloy; SMA; Müller-Achenbach-Seelecke Model; Passivity; Port-
 ---
  
 ## Authors
-**gianluca Rizzello, David Naso, Stefan Seelecke**
+[gianluca Rizzello](authors/gianluca-rizzello), [David Naso](authors/david-naso), [Stefan Seelecke](authors/stefan-seelecke)
  
 ## Abstract
 In this work we investigate passivity of the Müller-Achenbach-Seelecke Model for shape memory alloy (SMA) wires. Such a model represents an effective control-oriented tool to describe the hysteretic dynamics of SMAs, but its highly complex structure makes it difficult to analyze fundamental properties such as energetic consistency, i.e., passivity. Focusing on the isothermal case, we propose a suitable storage function which permits to analyze passivity of the SMA model and to quantify energy dissipation due to hysteresis. In addition, a port-Hamiltonian representation of the resulting passive model is developed. This result permits to quantitatively assess energetic performance of SMAs when operating, e.g., as passive non-viscous dampers, and opens up the possibility of using powerful tools from port-Hamiltonian theory to analyze and design control systems for SMA actuators.
@@ -47,9 +47,9 @@ Shape Memory Alloy; SMA; Müller-Achenbach-Seelecke Model; Passivity; Port-Hamil
 {% endhighlight %}
  
 ## References
-- [10.1155/MPE/2006/56876](https://doi.org/10.1155/MPE/2006/56876)
-- [Modelling and control of multi-energy systems: An irreversible port-Hamiltonian approach](modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach) -- [10.1016/j.ejcon.2013.09.009](https://doi.org/10.1016/j.ejcon.2013.09.009)
+- Paiva, A. & Savi, M. A. An overview of constitutive models for shape memory alloys. Mathematical Problems in Engineering vol. 2006 (2006) -- [10.1155/MPE/2006/56876](https://doi.org/10.1155/MPE/2006/56876)
+- [Ramirez, H., Maschke, B. & Sbarbaro, D. Modelling and control of multi-energy systems: An irreversible port-Hamiltonian approach. European Journal of Control vol. 19 513–520 (2013)](modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach) -- [10.1016/j.ejcon.2013.09.009](https://doi.org/10.1016/j.ejcon.2013.09.009)
 - Seelecke, S., Heintze, O., and Masuda, A. (2002). Simulation of earthquake-induced structural vibrations in systems with SMA damping elements. SPIE’s 9th Annual International Symposium on Smart Structures and Materials, 238-245. -- [10.1117/12.472678](https://doi.org/10.1117/12.472678)
-- [10.1115/1.1584064](https://doi.org/10.1115/1.1584064)
-- [10.1088/1361-665X/aa7ad5](https://doi.org/10.1088/1361-665X/aa7ad5)
+- Seelecke, S. & Mu¨ller, I. Shape memory alloy actuators in smart structures: Modeling and simulation. Applied Mechanics Reviews vol. 57 23–46 (2004) -- [10.1115/1.1584064](https://doi.org/10.1115/1.1584064)
+- Simone, F., Rizzello, G. & Seelecke, S. Metal muscles and nerves—a self-sensing SMA-actuated hand concept. Smart Materials and Structures vol. 26 095007 (2017) -- [10.1088/1361-665X/aa7ad5](https://doi.org/10.1088/1361-665X/aa7ad5)
 

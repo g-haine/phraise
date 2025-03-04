@@ -10,7 +10,7 @@ tag: Discrete port Hamiltonian systems; Observer design; Contraction analysis; L
 ---
  
 ## Authors
-**Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab**
+[Saida Zenfari](authors/saida-zenfari), [Mohamed Laabissi](authors/mohamed-laabissi), [Mohammed Elarbi Achhab](authors/mohammed-elarbi-achhab)
  
 ## Abstract
 In this paper, a simple observer design method is presented for a class of discrete-time port Hamiltonian systems. The proposed observer is full order, and it is a copy of the original system dynamics with a corrective term. The suggested design methodology benefits from the port Hamiltonian framework properties. Based on a convenient assumption and exploiting the fact that the observer is structure preserving, the error between the plant and the observer converges exponentially to zero. The key tool in achieving our goal is the contraction analysis method. The observer design method is illustrated in the RLC circuit. We show that the presented approach may be applied in the inverted pendulum example. For both examples, some simulation results are presented.

@@ -10,7 +10,7 @@ tag: Distributed port-Hamiltonian system; Ionic polymer-metal composite; Simulat
 ---
  
 ## Authors
-**Kentaro Takagi, Gou Nishida, Bernhard Maschke, Kinji Asaka**
+[Kentaro Takagi](authors/kentaro-takagi), [Gou Nishida](authors/gou-nishida), [Bernhard Maschke](authors/bernhard-maschke), [Kinji Asaka](authors/kinji-asaka)
  
 ## Abstract
 This chapter discusses a distributed parameter system modeling of ionic polymer-metal composite actuators based on modified Yamaue’s electro-stress diffusion coupling model. The lowest order linear time invariant state equation with the spatial variable is derived to carry out the simulation. An introductory method for simulation based on the state space model is also shown. The results of the simulation demonstrate the effectiveness of the derived model by showing the differences of the responses for the different cation species.

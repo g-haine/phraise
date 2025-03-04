@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Publications by Cédric Clévy
-permalink: /authors/cedric-clevy/
+permalink: /authors/cedric-clevy
 ---
 
 <ul class="post-list">
-<li><span class='post-meta'>2016 -- Hector Ramirez, Bilal Komati, Yann Le Gorrec, Cédric Clévy</span><h3><a class='post-link' href='../../an-energy-based-approach-for-the-control-of-a-micro-robotic-contact-scenario'>An energy based approach for the control of a micro-robotic contact scenario</a></h3></li>
+<li><span class='post-meta'>2016 -- Hector Ramirez, Bilal Komati, Yann Le Gorrec, Cédric Clévy</span><h3><a class='post-link' href="{{ site.baseurl }}/an-energy-based-approach-for-the-control-of-a-micro-robotic-contact-scenario">An energy based approach for the control of a micro-robotic contact scenario</a></h3></li>
 
 </ul>

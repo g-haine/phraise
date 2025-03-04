@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Jacek Banasiak, Adam Błoch**
+[Jacek Banasiak](authors/jacek-banasiak), [Adam Błoch](authors/adam-bloch)
  
 ## Abstract
 The paper is concerned with a system of linear hyperbolic differential equations on a network coupled through general transmission conditions of Kirchhoff's-type at the nodes. We discuss the reduction of such a problem to a system of 1-dimensional hyperbolic problems for the associated Riemann invariants and provide a semigroup-theoretic proof of its well-posedness. A number of examples showing the relation of our results with recent research is also provided.

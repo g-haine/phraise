@@ -10,7 +10,7 @@ tag: Port-Hamiltonian systems; Passivity-based control; Nonlinear control
 ---
  
 ## Authors
-**K. Masutani, N. Sakata, K. Fujimoto, I. Maruta**
+[K. Masutani](authors/k-masutani), [N. Sakata](authors/naoki-sakata), [K. Fujimoto](authors/kenji-fujimoto), [I. Maruta](authors/ichiro-maruta)
  
 ## Abstract
 In this work, a new second-order sliding mode controller for mechanical port-Hamiltonian systems is proposed. The authors’ former paper proposed a passivity-based sliding mode controller based on the kinetic-potential energy shaping (KPES). This controller is able to achieve only first-order sliding mode control since the KPES allows us to embed a subsystem, whose dimension is the same as that of the input, into the closed-loop system. The present paper extends the KPES to incorporate a higher-order subsystem in the closed-loop system, which enables us to obtain the subsystem that can realize second-order sliding mode control. The proposed controller is a unification of a passivity-based controller and a second-order sliding mode controller which does not cause undesirable chattering phenomena. It ensures finite-time convergence of the subsystem and asymptotic stability of the entire closed-loop system by utilizing two Lyapunov functions. A numerical example demonstrates the effectiveness of the proposed method.
@@ -47,13 +47,13 @@ Port-Hamiltonian systems; Passivity-based control; Nonlinear control
 {% endhighlight %}
  
 ## References
-- [10.1109/LCSYS.2019.2919842](https://doi.org/10.1109/LCSYS.2019.2919842)
-- [Matched Disturbance Rejection for a Class of Nonlinear Systems](matched-disturbance-rejection-for-a-class-of-nonlinear-systems) -- [10.1109/TAC.2019.2933398](https://doi.org/10.1109/TAC.2019.2933398)
-- [10.1109/LCSYS.2021.3089541](https://doi.org/10.1109/LCSYS.2021.3089541)
-- [Passivity based control of a class of Hamiltonian systems with nonholonomic constraints](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
-- [A Passivity Based Sliding Mode Controller for Simple Port-Hamiltonian Systems](a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems) -- [10.1109/LCSYS.2020.3005327](https://doi.org/10.1109/LCSYS.2020.3005327)
-- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- [10.1016/j.automatica.2004.11.029](https://doi.org/10.1016/j.automatica.2004.11.029)
-- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
-- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
+- Ferguson, J., Donaire, A. & Middleton, R. H. Kinetic-Potential Energy Shaping for Mechanical Systems With Applications to Tracking. IEEE Control Systems Letters vol. 3 960–965 (2019) -- [10.1109/LCSYS.2019.2919842](https://doi.org/10.1109/LCSYS.2019.2919842)
+- [Ferguson, J., Donaire, A., Ortega, R. & Middleton, R. H. Matched Disturbance Rejection for a Class of Nonlinear Systems. IEEE Transactions on Automatic Control vol. 65 1710–1715 (2020)](matched-disturbance-rejection-for-a-class-of-nonlinear-systems) -- [10.1109/TAC.2019.2933398](https://doi.org/10.1109/TAC.2019.2933398)
+- Fujimoto, K., Baba, T., Sakata, N. & Maruta, I. A Passivity-Based Sliding Mode Controller for a Class of Electro-Mechanical Systems. IEEE Control Systems Letters vol. 6 1208–1213 (2022) -- [10.1109/LCSYS.2021.3089541](https://doi.org/10.1109/LCSYS.2021.3089541)
+- [Fujimoto, K., Sakai, S. & Sugie, T. Passivity based control of a class of Hamiltonian systems with nonholonomic constraints. Automatica vol. 48 3054–3063 (2012)](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
+- [Fujimoto, K., Sakata, N., Maruta, I. & Ferguson, J. A Passivity Based Sliding Mode Controller for Simple Port-Hamiltonian Systems. IEEE Control Systems Letters vol. 5 839–844 (2021)](a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems) -- [10.1109/LCSYS.2020.3005327](https://doi.org/10.1109/LCSYS.2020.3005327)
+- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- Levant, A. Homogeneity approach to high-order sliding mode design. Automatica vol. 41 823–830 (2005) -- [10.1016/j.automatica.2004.11.029](https://doi.org/10.1016/j.automatica.2004.11.029)
+- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. International Journal of Robust and Nonlinear Control vol. 13 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
+- Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
 

@@ -10,7 +10,7 @@ tag: Port Hamiltonian systems (PHS); distributed parameters systems (DPS); Contr
 ---
  
 ## Authors
-**N.M. Trang Vu, V. Trenchant, H. Ramirez, L. Lefèvre, Y. Le Gorrec**
+[N.M. Trang Vu](authors/ngoc-minh-trang-vu), [V. Trenchant](authors/vincent-trenchant), [H. Ramirez](authors/hector-ramirez), [L. Lefèvre](authors/laurent-lefevre), [Y. Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 The structural difference between one-dimensional (1D) hyperbolic and parabolic port Hamiltonian system (PHS) is discussed. Then, using a Control by Interconnection (CbI) approach, a distributed state feedback is designed in order to transform an hyperbolic PHS into a parabolic one, the latter being asymptotically stable and even purely dissipative (with no oscillating modes). Distributed wave damping in 1D vibro-acoustic pipes, using piezo actuators, is considered as an illustration example for the proposed control design.
@@ -47,14 +47,14 @@ Port Hamiltonian systems (PHS); distributed parameters systems (DPS); Control by
 {% endhighlight %}
  
 ## References
-- [10.1121/1.3026329](https://doi.org/10.1121/1.3026329)
-- [10.3166/jesa.45.645-664](https://doi.org/10.3166/jesa.45.645-664)
-- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- Collet, M., David, P. & Berthillier, M. Active acoustical impedance using distributed electrodynamical transducers. The Journal of the Acoustical Society of America vol. 125 882–894 (2009) -- [10.1121/1.3026329](https://doi.org/10.1121/1.3026329)
+- Le Gorrec, Y., Peng, H., Lefèvre, L., Hamroun, B. & Couenne, F. Systèmes hamiltoniens à ports de dimension infinie. Réduction et propriétés spectrales. Journal Européen des Systèmes Automatisés vol. 45 645–664 (2011) -- [10.3166/jesa.45.645-664](https://doi.org/10.3166/jesa.45.645-664)
+- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - [A. Macchelli, A.J. van der Schaft, and C. Melchiorri. Port hamiltonian formulation of infinite dimensional systems. ii. boundary control by interconnection. 43rd IEEE Conference on Decisions and Control (CDC04), 2004.](port-hamiltonian-formulation-of-infinite-dimensional-systems-ii-boundary-control-by-interconnection) -- [10.1109/CDC.2004.1429325](https://doi.org/10.1109/CDC.2004.1429325)
 - [A. Macchelli, Y. Le Gorrec, and H. Ramirez. Boundary l2-gain stabilisation of a distributed port-hamiltonian system with rectangular domain. IEEE Conference on Decision and Control 15-18 Dec 2015, Osaka, Japan, Dec 15-18 2015.](boundary-l-lt-inf-gt-2-lt-inf-gt-gain-stabilisation-of-a-distributed-port-hamiltonian-system-with-rectangular-domain) -- [10.1109/CDC.2015.7402380](https://doi.org/10.1109/CDC.2015.7402380)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
 - [V. Trenchant, Y. Fares, H. Ramirez, Y. Le Gorrec, and M. Ouisse. A port-hamiltonian formulation of a 2d boundary controlled acoustic system. 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control (LHMNLC15), 2015.](a-port-hamiltonian-formulation-of-a-2d-boundary-controlled-acoustic-system) -- [10.1016/j.ifacol.2015.10.245](https://doi.org/10.1016/j.ifacol.2015.10.245)
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
 - [Trang.N.M. Vu, L. Lefèvre, and R. Nouailletas. Distributed and backstepping boundary controls to achieve ida-pbc design. MATHMOD 2015 - 8th Vienna International Conference on Mathematical Modelling, Vienna, Austria, pages 482–487, February 18 - 20 2015b.](distributed-and-backstepping-boundary-controls-to-achieve-ida-pbc-design) -- [10.1016/j.ifacol.2015.05.034](https://doi.org/10.1016/j.ifacol.2015.05.034)
 

@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Timo Reis, Tatjana Stykel**
+[Timo Reis](authors/timo-reis), [Tatjana Stykel](authors/tatjana-stykel)
  
 ## Abstract
 We study a~quasilinear coupled magneto-quasistatic model from a~systems theoretic perspective.} First, by taking the injected voltages as input and the associated currents as output, we prove that the magneto-quasistatic system is passive. Moreover, by defining suitable Dirac and resistive structures, we show that it admits a~representation as a~port-Hamiltonian system. Thereafter, we consider dependence on initial and input data. We show that the current and the magnetic vector potential can be estimated by means of the initial magnetic vector potential and the voltage. We also analyse the free dynamics of the system and study the asymptotic behavior of the solutions for \\( t\to\infty \\).

@@ -10,7 +10,7 @@ tag: Traffic Flow; Buffer Size; Congestion Control; Transmitted Packet; Wireless
 ---
  
 ## Authors
-**Viswanath Talasila, Ramkrishna Pasumarthy**
+[Viswanath Talasila](authors/viswanath-talasila), [Ramkrishna Pasumarthy](authors/ramkrishna-pasumarthy)
  
 ## Abstract
 In this chapter we model the traffic dynamics in a wireless communication system (characterized by a set of routers exchanging data with each other) in the port-Hamiltonian framework. Communication systems are characterized by elements which produce significant time delays (by design) in their response, unlike (say) an idealized circuit or mechanical element. Furthermore, the communication between two routers (compositionality) involves losses due to the characteristics of radio signal propagation. In this paper we study the type of Dirac structure used to model a communication element (a router), we analyze the stability properties of a router and finally we study the compositionality properties that evolve under lossy interconnections.

@@ -10,7 +10,7 @@ tag: Hybrid dynamical systems; Modeling; Hybrid automata; Dynamic network graph;
 ---
  
 ## Authors
-**C. Valentin, M. Magos, B. Maschke**
+[C. Valentin](authors/claire-valentin), [M. Magos](authors/miguel-magos), [B. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 This paper shows how to formally design a hybrid automaton model for a wide class of dissipative physical systems with sources and switching topology. This method is based on a mathematical representation of the dynamic network graph and of its dual graph, using the hybrid incidence matrix, and on a constructive method for analyzing admissible and constrained configurations. The port–Hamiltonian representation associated with the set of hybrid system configurations, parameterized by the discrete state of the switches, is synthesized to be part of the hybrid automaton of the system. This is a further step towards a generic control synthesis for physical switching systems.
@@ -47,25 +47,25 @@ Hybrid dynamical systems; Modeling; Hybrid automata; Dynamic network graph; Inci
 {% endhighlight %}
  
 ## References
-- [10.1016/0304-3975(94)00202-T](https://doi.org/10.1016/0304-3975(94)00202-T)
-- [10.1016/0016-0032(93)90070-B](https://doi.org/10.1016/0016-0032(93)90070-B)
+- Alur, R. et al. The algorithmic analysis of hybrid systems. Theoretical Computer Science vol. 138 3–34 (1995) -- [10.1016/0304-3975(94)00202-T](https://doi.org/10.1016/0304-3975(94)00202-T)
+- Buisson, J. Analysis of switching devices with bond graphs. Journal of the Franklin Institute vol. 330 1165–1175 (1993) -- [10.1016/0016-0032(93)90070-B](https://doi.org/10.1016/0016-0032(93)90070-B)
 - J. Buisson, H. Cormerais, M. Zainea, H. Guéguen, E. Godoy, A formal approach to compute hybrid automata models for linear physical systems with ideal switches, in: 2004 IEEE CACSD, Taipei, Taiwan, 2004
-- [10.1016/0377-2217(95)00367-3](https://doi.org/10.1016/0377-2217(95)00367-3)
+- Bussieck, M. R., Kreuzer, P. & Zimmermann, U. T. Optimal lines for railway systems. European Journal of Operational Research vol. 96 54–63 (1997) -- [10.1016/0377-2217(95)00367-3](https://doi.org/10.1016/0377-2217(95)00367-3)
 - H. Cormerais, J. Buisson, S. Leirens, P.Y. Richard, Calcul symbolique de l’ensemble des équations d’état pour les bond graphs en commutation, in: Conférence Internationale Francophone d’Automatique, CIFA 2002, Nantes, France, 2002
-- [On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
-- [10.1109/37.969134](https://doi.org/10.1109/37.969134)
-- [10.1016/S0005-1098(98)00196-4](https://doi.org/10.1016/S0005-1098(98)00196-4)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- A phase transition model for cascading network failure. IEEE Control Systems vol. 21 40–51 (2001) -- [10.1109/37.969134](https://doi.org/10.1109/37.969134)
+- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/S0005-1098(98)00196-4](https://doi.org/10.1016/S0005-1098(98)00196-4)
 - H. Fibrianto, D. Dochain, Time optimal control of a biological wastewater treatment process by hybrid approach, in: Proc. IFAC Conf. on Analysis and Design of Hybrid Systems, ADHS 2003, Saint-Malo, France, 16–18 June, 2003, pp. 171–176
-- [10.1007/s004530010032](https://doi.org/10.1007/s004530010032)
+- Frigioni, D. & Italiano, G. F. Dynamically Switching Vertices in Planar Graphs. Algorithmica vol. 28 76–103 (2000) -- [10.1007/s004530010032](https://doi.org/10.1007/s004530010032)
 - K.M. Gerritsen, A.J. Van der Schaft, W.P. Heemels, On switched Hamiltonian systems, in: Proc. MTNS2002, Indiana, USA, 2002
-- [10.1016/S0005-1098(03)00113-4](https://doi.org/10.1016/S0005-1098(03)00113-4)
+- Haddad, W. M., Nersesov, S. G. & Chellaboina, V. Energy-based control for hybrid port-controlled Hamiltonian systems. Automatica vol. 39 1425–1435 (2003) -- [10.1016/S0005-1098(03)00113-4](https://doi.org/10.1016/S0005-1098(03)00113-4)
 - D. Jeltsema, J.M.A. Scherpen, J.B. Klaassens, Energy-Control of multi-switch power supplies; an application to the three-phase buck rectifier with input filter, in: Proceedings of 32nd IEEE Power Electronics Specialists Conference PESC’01, Vancouver, Canada, 2001
-- [A dual relation between port-Hamiltonian systems and the Brayton–Moser equations for nonlinear switched RLC circuits](a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits) -- [10.1016/S0005-1098(03)00070-0](https://doi.org/10.1016/S0005-1098(03)00070-0)
+- [Jeltsema, D. & Scherpen, J. M. A. A dual relation between port-Hamiltonian systems and the Brayton–Moser equations for nonlinear switched RLC circuits. Automatica vol. 39 969–979 (2003)](a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits) -- [10.1016/S0005-1098(03)00070-0](https://doi.org/10.1016/S0005-1098(03)00070-0)
 - M. Magos, C. Valentin, B. Maschke, Non minimal representation of Dirac structures for physical systems with switching interconnection, in: International Symposium on Mathematical Theory of Networks and Systems, MTNS2004, Leuven, Belgium, 2004
 - M. Magos, C. Valentin, B. Maschke, From dynamic graphs to geometric interconnection structures of physical systems with variable topology, in: IFAC SSSC Symposium on System Structure and Control, Oaxaca, Mexico, 2004, pp. 336–341 -- [10.1016/S1474-6670(17)30484-6](https://doi.org/10.1016/S1474-6670(17)30484-6)
-- [10.1016/S0967-0661(01)00123-X](https://doi.org/10.1016/S0967-0661(01)00123-X)
+- Manon, P., Valentin-Roubinet, C. & Gilles, G. Optimal control of hybrid dynamical systems: application in process engineering. Control Engineering Practice vol. 10 133–149 (2002) -- [10.1016/S0967-0661(01)00123-X](https://doi.org/10.1016/S0967-0661(01)00123-X)
 - B. Maschke, R. Ortega, A.J. Van der Schaft, G. Escobar, An energy based derivation of Lyapunov functions for forced systems with application to stabilizing control, in: Proceedings of the 14th IFAC World Congress, Beijing, China, 1999 -- [10.1016/S1474-6670(17)56431-9](https://doi.org/10.1016/S1474-6670(17)56431-9)
-- [10.2514/2.4721](https://doi.org/10.2514/2.4721)
+- Mesbahi, M. & Hadaegh, F. Y. Formation Flying Control of Multiple Spacecraft via Graphs, Matrix Inequalities, and Switching. Journal of Guidance, Control, and Dynamics vol. 24 369–377 (2001) -- [10.2514/2.4721](https://doi.org/10.2514/2.4721)
 - F. Morel, J.M. Retif, X. Lin-Shi, A.M. Llor, Fixed switching frequency hybrid control for a permanent magnet synchronous machine, in: Proceedings of ICIT (IEEE International Conference on Industrial Technology), Hammamet, Tunisie, 2004
 - C. Morvan, H. Cormerais, P.Y. Richard, J. Buisson, Extending passivity based control to DAE systems with Boolean inputs, in: 2004 IFAC NOLCOS, Nonlinear Control Systems, Stuttgart, Germany, 2004 -- [10.1016/S1474-6670(17)31395-2](https://doi.org/10.1016/S1474-6670(17)31395-2)
 - D. Pinon, M. Fadel, T. Meynard, Sliding mode control of a two-cell chopper, in: 8th European Conference on Power Electronics and Applications, Lausanne, Suisse, 1999

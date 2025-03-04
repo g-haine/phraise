@@ -10,7 +10,7 @@ tag: Port-Hamiltonian; Dirac structures; Bundle-valued forms; Exterior calculus
 ---
  
 ## Authors
-**Ramy Rashad, Stefano Stramigioli**
+[Ramy Rashad](authors/ramy-rashad), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 In this paper, we present a novel approach to the geometric formulation of solid and fluid mechanics within the port-Hamiltonian framework, which extends the standard Hamiltonian formulation to non-conservative and open dynamical systems. Leveraging Dirac structures, instead of symplectic or Poisson structures, this formalism allows the incorporation of energy exchange within the spatial domain or through its boundary, which allows for a more comprehensive description of continuum mechanics. Building upon our recent work in describing nonlinear elasticity using exterior calculus and bundle-valued differential forms, this paper focuses on the systematic derivation of port-Hamiltonian models for solid and fluid mechanics in the material, spatial, and convective representations using Hamiltonian reduction theory. This paper also discusses constitutive relations for stress within this framework including hyper-elasticity, for both finite and infinitesimal strains, as well as viscous fluid flow governed by the Navier–Stokes equations.

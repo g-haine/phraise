@@ -10,7 +10,7 @@ tag: Port-Hamiltonian systems; Dissipation; Structure preserving method; Partiti
 ---
  
 ## Authors
-**Anass Serhani, Denis Matignon, Ghislain Haine**
+[Anass Serhani](authors/anass-serhani), [Denis Matignon](authors/denis-matignon), [Ghislain Haine](authors/ghislain-haine)
  
 ## Abstract
 Many boundary controlled and observed Partial Differential Equations can be represented as port-Hamiltonian systems with dissipation, involving a Stokes-Dirac geometrical structure together with constitutive relations. The Partitioned Finite Element Method, introduced in Cardoso-Ribeiro et al. (2018), is a structure preserving numerical method which defines an underlying Dirac structure, and constitutive relations in weak form, leading to finite-dimensional port-Hamiltonian Differential Algebraic systems (pHDAE). Different types of dissipation are examined: internal damping, boundary damping and also diffusion models.

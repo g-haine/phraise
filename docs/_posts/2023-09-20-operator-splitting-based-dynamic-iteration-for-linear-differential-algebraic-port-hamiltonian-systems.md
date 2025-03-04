@@ -10,7 +10,7 @@ tag: 37Jxx; 34A09
 ---
  
 ## Authors
-**Andreas Bartel, Michael Günther, Birgit Jacob, Timo Reis**
+[Andreas Bartel](authors/andreas-bartel), [Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob), [Timo Reis](authors/timo-reis)
  
 ## Abstract
 A dynamic iteration scheme for linear differential-algebraic port-Hamiltonian systems based on Lions–Mercier-type operator splitting methods is developed. The dynamic iteration is monotone in the sense that the error is decreasing and no stability conditions are required. The developed iteration scheme is even new for linear port-Hamiltonian systems governed by ODEs. The obtained algorithm is applied to a multibody system and an electrical network.

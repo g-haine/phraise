@@ -10,13 +10,13 @@ tag: \\( C_0 \\)-semigroups; Hyperbolic partial differential equations; Port-Ham
 ---
  
 ## Authors
-**Birgit Jacob, Kirsten Morris, Hans Zwart**
+[Birgit Jacob](authors/birgit-jacob), [Kirsten Morris](authors/kirsten-morris), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
 Hyperbolic partial differential equations on a one-dimensional spatial domain are studied. This class of systems includes models of beams and waves as well as the transport equation and networks of non-homogeneous transmission lines. The main result of this paper is a simple test for C _0-semigroup generation in terms of the boundary conditions. The result is illustrated with several examples.
  
 ## Keywords
-$C_0$-semigroups; Hyperbolic partial differential equations; Port-Hamiltonian differential equations
+\\( C_0 \\)-semigroups; Hyperbolic partial differential equations; Port-Hamiltonian differential equations
  
 ## Citation
 - **Journal:** Journal of Evolution Equations

@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Daniel A. Dirksz, Jacquelien M. A. Scherpen**
+[Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this letter, we present tracking control with only position measurements for rigid-joint robots, by applying the canonical transformation theory for port-Hamiltonian systems. We show that besides giving the same results as presented in the literature for Euler-Lagrange systems, the canonical transformation theory also justifies a Coriolis matrix based on the desired velocities. Furthermore, we show how the initial conditions of the controller can be tuned in order to improve transient performance. Finally, we validate our results on a simple experimental setup.
@@ -42,17 +42,17 @@ In this letter, we present tracking control with only position measurements for 
 {% endhighlight %}
  
 ## References
-- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
-- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [10.1109/CDC.1984.272106](https://doi.org/10.1109/CDC.1984.272106)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [10.1109/TAC.2002.800770](https://doi.org/10.1109/TAC.2002.800770)
-- [10.1016/0167-6911(94)00052-W](https://doi.org/10.1016/0167-6911(94)00052-W)
-- [10.1016/0167-6911(93)90071-D](https://doi.org/10.1016/0167-6911(93)90071-D)
-- [10.1109/9.384223](https://doi.org/10.1109/9.384223)
-- [10.1109/TAC.2002.1000284](https://doi.org/10.1109/TAC.2002.1000284)
-- [10.1016/0167-6911(93)90076-I](https://doi.org/10.1016/0167-6911(93)90076-I)
-- [10.1109/9.293181](https://doi.org/10.1109/9.293181)
-- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
+- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
+- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Koditschek, D. Natural motion for robot arms. The 23rd IEEE Conference on Decision and Control (1984) doi:10.1109/cdc.1984.272106 -- [10.1109/CDC.1984.272106](https://doi.org/10.1109/CDC.1984.272106)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Transactions on Automatic Control vol. 47 1218–1233 (2002) -- [10.1109/TAC.2002.800770](https://doi.org/10.1109/TAC.2002.800770)
+- Battilotti, S. & Lanari, L. Global set point control via link position measurement for flexible joint robots. Systems &amp; Control Letters vol. 25 21–29 (1995) -- [10.1016/0167-6911(94)00052-W](https://doi.org/10.1016/0167-6911(94)00052-W)
+- Berghuis, H. & Nijmeijer, H. Global regulation of robots using only position measurements. Systems &amp; Control Letters vol. 21 289–293 (1993) -- [10.1016/0167-6911(93)90071-D](https://doi.org/10.1016/0167-6911(93)90071-D)
+- Nicosia, S. & Tomei, P. A tracking controller for flexible joint robots using only link position feedback. IEEE Transactions on Automatic Control vol. 40 885–890 (1995) -- [10.1109/9.384223](https://doi.org/10.1109/9.384223)
+- Loria, A. & Melhem, K. Position feedback global tracking control of EL systems: a state transformation approach. IEEE Transactions on Automatic Control vol. 47 841–847 (2002) -- [10.1109/TAC.2002.1000284](https://doi.org/10.1109/TAC.2002.1000284)
+- Ailon, A. & Ortega, R. An observer-based set-point controller for robot manipulators with flexible joints. Systems &amp; Control Letters vol. 21 329–335 (1993) -- [10.1016/0167-6911(93)90076-I](https://doi.org/10.1016/0167-6911(93)90076-I)
+- Kelly, R., Ortega, R., Ailon, A. & Loria, A. Global regulation of flexible joint robots using approximate differentiation. IEEE Transactions on Automatic Control vol. 39 1222–1224 (1994) -- [10.1109/9.293181](https://doi.org/10.1109/9.293181)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
 

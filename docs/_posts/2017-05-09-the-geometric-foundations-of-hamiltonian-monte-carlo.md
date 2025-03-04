@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Michael Betancourt, Simon Byrne, Sam Livingstone, Mark Girolami**
+[Michael Betancourt](authors/michael-betancourt), [Simon Byrne](authors/simon-byrne), [Sam Livingstone](authors/sam-livingstone), [Mark Girolami](authors/mark-girolami)
  
 ## Abstract
 Although Hamiltonian Monte Carlo has proven an empirical success, the lack of a rigorous theoretical understanding of the algorithm has in many ways impeded both principled developments of the method and use of the algorithm in practice. In this paper we develop the formal foundations of the algorithm through the construction of measures on smooth manifolds, and demonstrate how the theory naturally identifies efficient implementations and motivates promising generalizations.

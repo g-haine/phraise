@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Jens Jäschke, Matthias Ehrhardt, Michael Günther, Birgit Jacob**
+[Jens Jäschke](authors/jens-jaschke), [Matthias Ehrhardt](authors/matthias-ehrhardt), [Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob)
  
 ## Abstract
  Heat transfer and cooling solutions play an important role in the design of gas turbine blades. However, the underlying mathematical coupling structures have not been thoroughly investigated. In this work, the port-Hamiltonian formalism is applied to the conjugate heat transfer problem in gas turbine blades. A mathematical model based on common engineering simplifications is constructed and further simplified to reduce complexity and focus on the coupling structures of interest. The model is then cast as a port-Hamiltonian system and examined for stability and well posedness.
@@ -42,22 +42,22 @@ category: journal-article
 {% endhighlight %}
  
 ## References
-- [10.1007/978-3-030-62732-4_4](https://doi.org/10.1007/978-3-030-62732-4_4)
-- [10.1155/S1023621X04000442](https://doi.org/10.1155/S1023621X04000442)
+- Backhaus, J. et al. GivEn—Shape Optimization for Gas Turbines in Volatile Energy Networks. Mathematics in Industry 71–106 (2021) doi:10.1007/978-3-030-62732-4_4 -- [10.1007/978-3-030-62732-4_4](https://doi.org/10.1007/978-3-030-62732-4_4)
+- Han, J.-C. Recent Studies in Turbine Blade Cooling. International Journal of Rotating Machinery vol. 10 443–457 (2004) -- [10.1155/S1023621X04000442](https://doi.org/10.1155/S1023621X04000442)
 - O.R. Imam-Lawal, Adjoint based optimisation for coupled conjugate heat transfer, Ph.D. diss., Queen Mary, University of London, 2020.
-- [10.1111/j.1749-6632.2001.tb05850.x](https://doi.org/10.1111/j.1749-6632.2001.tb05850.x)
+- HAN, J. & DUTTA, S. Recent Developments in Turbine Blade Internal Cooling. Annals of the New York Academy of Sciences vol. 934 162–178 (2001) -- [10.1111/j.1749-6632.2001.tb05850.x](https://doi.org/10.1111/j.1749-6632.2001.tb05850.x)
 - P.L. Meitner, Computer code for predicting coolant flow and heat transfer in turbomachinery, Tech. Rep., NASA, 1990.
-- [10.2514/6.1989-2574](https://doi.org/10.2514/6.1989-2574)
-- [10.1243/09576509JPE325](https://doi.org/10.1243/09576509JPE325)
-- [Structure-preserving discretization for port-Hamiltonian descriptor systems](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/CDC40024.2019.9030180](https://doi.org/10.1109/CDC40024.2019.9030180)
-- [Memristive port-Hamiltonian Systems](memristive-port-hamiltonian-systems) -- [10.1080/13873951003690824](https://doi.org/10.1080/13873951003690824)
-- [Port Hamiltonian formulation of infinite dimensional systems I. Modeling](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/CDC.2004.1429324](https://doi.org/10.1109/CDC.2004.1429324)
-- [Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- KUMAR, G., ROELKE, R. & MEITNER, P. A generalized one dimensional computer code for turbomachinery cooling passage flow calculations. 25th Joint Propulsion Conference (1989) doi:10.2514/6.1989-2574 -- [10.2514/6.1989-2574](https://doi.org/10.2514/6.1989-2574)
+- Iacovides, H. & Launder, B. E. Internal blade cooling: The Cinderella of computational and experimental fluid dynamics research in gas turbines. Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy vol. 221 265–290 (2007) -- [10.1243/09576509JPE325](https://doi.org/10.1243/09576509JPE325)
+- [Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/CDC40024.2019.9030180](https://doi.org/10.1109/CDC40024.2019.9030180)
+- [Jeltsema, D. & van der Schaft, A. J. Memristive port-Hamiltonian Systems. Mathematical and Computer Modelling of Dynamical Systems vol. 16 75–93 (2010)](memristive-port-hamiltonian-systems) -- [10.1080/13873951003690824](https://doi.org/10.1080/13873951003690824)
+- [Macchelli, A., van der Schaft, A. J. & Melchiorri, C. Port Hamiltonian formulation of infinite dimensional systems I. Modeling. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 3762-3767 Vol.4 (2004) doi:10.1109/cdc.2004.1429324](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/CDC.2004.1429324](https://doi.org/10.1109/CDC.2004.1429324)
+- [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - J.A. Villegas, A port-Hamiltonian approach to distributed parameter systems, Ph.D. diss., University of Twente, 2007.
-- [Hamiltonian formulation of distributed-parameter systems with boundary energy flow](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [Distributed port-Hamiltonian modelling for irreversible processes](distributed-port-hamiltonian-modelling-for-irreversible-processes) -- [10.1080/13873954.2016.1237970](https://doi.org/10.1080/13873954.2016.1237970)
-- [An operator theoretic approach to infinite‐dimensional control systems](an-operator-theoretic-approach-to-infinite-dimensional-control-systems) -- [10.1002/gamm.201800010](https://doi.org/10.1002/gamm.201800010)
-- [10.14459/2019md1510230](https://doi.org/10.14459/2019md1510230)
-- [Boundary controlled irreversible port-Hamiltonian systems](boundary-controlled-irreversible-port-hamiltonian-systems) -- [10.1016/j.ces.2021.117107](https://doi.org/10.1016/j.ces.2021.117107)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Zhou, W., Hamroun, B., Couenne, F. & Le Gorrec, Y. Distributed port-Hamiltonian modelling for irreversible processes. Mathematical and Computer Modelling of Dynamical Systems vol. 23 3–22 (2016)](distributed-port-hamiltonian-modelling-for-irreversible-processes) -- [10.1080/13873954.2016.1237970](https://doi.org/10.1080/13873954.2016.1237970)
+- [Jacob, B. & Zwart, H. An operator theoretic approach to infinite‐dimensional control systems. GAMM-Mitteilungen vol. 41 (2018)](an-operator-theoretic-approach-to-infinite-dimensional-control-systems) -- [10.1002/gamm.201800010](https://doi.org/10.1002/gamm.201800010)
+- Kotyczka, P. Numerical Methods for Distributed Parameter Port-Hamiltonian Systems. (Technical University of Munich, 2019). doi:10.14459/2019MD1510230 -- [10.14459/2019md1510230](https://doi.org/10.14459/2019md1510230)
+- [Ramirez, H., Gorrec, Y. L. & Maschke, B. Boundary controlled irreversible port-Hamiltonian systems. Chemical Engineering Science vol. 248 117107 (2022)](boundary-controlled-irreversible-port-hamiltonian-systems) -- [10.1016/j.ces.2021.117107](https://doi.org/10.1016/j.ces.2021.117107)
 

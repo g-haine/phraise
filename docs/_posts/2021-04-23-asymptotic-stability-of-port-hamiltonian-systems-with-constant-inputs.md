@@ -10,7 +10,7 @@ tag: Port-Hamiltonian systems; Constant inputs; Integral action; Compare princip
 ---
  
 ## Authors
-**Liangcheng Cai**
+[Liangcheng Cai](authors/liangcheng-cai)
  
 ## Abstract
 In this paper, the asymptotic stability of Port-Hamiltonian (PH) systems with constant inputs is studied. Constant inputs are useful for stabilizing systems at their nonzero equilibria and can be realized by step signals. To achieve this goal, two methods based on integral action and comparison principle are presented in this paper. These methods change the convex Hamiltonian function and the restricted damping matrix of the previous results into a Hamiltonian function with a local minimum and a positive semidefinite matrix, respectively. Due to common conditions of Hamiltonian function and damping matrix, the proposed method asymptotically stabilizes more classes of PH systems with constant inputs than the existing methods. Finally, the validity and advantages of the presented methods are shown in an example.

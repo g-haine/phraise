@@ -10,7 +10,7 @@ tag: Aerodynamic Force; Dirac Structure; Casimir Function; Dissipative Element; 
 ---
  
 ## Authors
-**H. Rodríguez-Cortés**
+[H. Rodríguez-Cortés](authors/h-rodriguez-cortes)
  
 ## Abstract
 For systems described by Port-Hamiltonian (PH) equations, the Control by Interconnection method, based on the existence of Casimir functions, provides a simple and elegant procedure for stabilization of nonlinear systems with finite dissipation. This work explores the possibility of extending this technique to the case where the plant contains an infinite-dimensional subsystem. Conditions for the existence of Casimir functions reveal the constraints for the application of the design procedure. A simple example of an RLC circuit coupled with an infinite-dimensional transmission line illustrates the main ideas of this paper.

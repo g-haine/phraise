@@ -9,7 +9,7 @@ category: journal-article
 ---
  
 ## Authors
-**Rodolfo Reyes‐Báez, Arjan van der Schaft, Bayu Jayawardhana, Le Pan**
+[Rodolfo Reyes‐Báez](authors/rodolfo-reyes-baez), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bayu Jayawardhana](authors/bayu-jayawardhana), [Le Pan](authors/le-pan)
  
 ## Abstract
 In this work, we present a constructive method to design a family of virtual contraction based controllers that solve the standard trajectory tracking problem of flexible‐joint robots in the port‐Hamiltonian framework. The proposed design method, called virtual contraction based control, combines the concepts of virtual control systems and contraction analysis. It is shown that under potential energy matching conditions, the closed‐loop virtual system is contractive and exponential convergence to a predefined trajectory is guaranteed. Moreover, the closed‐loop virtual system exhibits properties such as structure preservation, differential passivity, and the existence of (incrementally) passive maps. The method is later applied to a planar RR robot, and two nonlinear tracking control schemes in the developed controllers family are designed using different contraction analysis approaches. Experiments confirm the theoretical results for each controller.
@@ -42,42 +42,42 @@ In this work, we present a constructive method to design a family of virtual con
 {% endhighlight %}
  
 ## References
-- [10.1109/9.384223](https://doi.org/10.1109/9.384223)
-- [10.1115/1.3143860](https://doi.org/10.1115/1.3143860)
-- [10.1016/0167-6911(93)90076-I](https://doi.org/10.1016/0167-6911(93)90076-I)
-- [10.1016/0005-1098(94)00172-F](https://doi.org/10.1016/0005-1098(94)00172-F)
-- [10.1109/TAC.2003.809820](https://doi.org/10.1109/TAC.2003.809820)
-- [10.1177/0278364907073776](https://doi.org/10.1177/0278364907073776)
+- Nicosia, S. & Tomei, P. A tracking controller for flexible joint robots using only link position feedback. IEEE Transactions on Automatic Control vol. 40 885–890 (1995) -- [10.1109/9.384223](https://doi.org/10.1109/9.384223)
+- Spong, M. W. Modeling and Control of Elastic Joint Robots. Journal of Dynamic Systems, Measurement, and Control vol. 109 310–318 (1987) -- [10.1115/1.3143860](https://doi.org/10.1115/1.3143860)
+- Ailon, A. & Ortega, R. An observer-based set-point controller for robot manipulators with flexible joints. Systems &amp; Control Letters vol. 21 329–335 (1993) -- [10.1016/0167-6911(93)90076-I](https://doi.org/10.1016/0167-6911(93)90076-I)
+- Brogliato, B., Ortega, R. & Lozano, R. Global tracking controllers for flexible-joint manipulators: a comparative study. Automatica vol. 31 941–956 (1995) -- [10.1016/0005-1098(94)00172-F](https://doi.org/10.1016/0005-1098(94)00172-F)
+- Astolfi, A. & Ortega, R. Immersion and invariance: a new tool for stabilization and adaptive control of nonlinear systems. IEEE Transactions on Automatic Control vol. 48 590–606 (2003) -- [10.1109/TAC.2003.809820](https://doi.org/10.1109/TAC.2003.809820)
+- Albu-Schäffer, A., Ott, C. & Hirzinger, G. A Unified Passivity-based Control Framework for Position, Torque and                 Impedance Control of Flexible Joint Robots. The International Journal of Robotics Research vol. 26 23–39 (2007) -- [10.1177/0278364907073776](https://doi.org/10.1177/0278364907073776)
 - Avila‐BecerrilS LoráA PanteleyE. Global position‐feedback tracking control of flexible‐joint robots. Paper presented at: Proceedings of the 2016 American Control Conference (ACC); 2016:3008‐3013; Boston MA. -- [10.1109/ACC.2016.7525377](https://doi.org/10.1109/ACC.2016.7525377)
-- [10.1109/TCST.2017.2695600](https://doi.org/10.1109/TCST.2017.2695600)
+- Pan, Y., Wang, H., Li, X. & Yu, H. Adaptive Command-Filtered Backstepping Control of Robot Arms With Compliant Actuators. IEEE Transactions on Control Systems Technology vol. 26 1149–1156 (2018) -- [10.1109/TCST.2017.2695600](https://doi.org/10.1109/TCST.2017.2695600)
 - OrtegaR BorjaLP. New results on control by interconnection and energy‐balancing passivity‐based control of port‐hamiltonian systems. Paper presented at: Proceedings of the IEEE 53rd Annual Conference on Decision and Control (CDC); 2014:2346–2351. -- [10.1109/CDC.2014.7039746](https://doi.org/10.1109/CDC.2014.7039746)
-- [Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
 - ZhangQ XieZ KuiS YangH MingheJ CaiH. Interconnection and damping assignment passivity‐based control for flexible joint robot. Paper presented at: Proceedings of the 11th World Congress on Intelligent Control and Automation Intelligent Control and Automation (WCICA); 2014:4242‐4249. -- [10.1109/WCICA.2014.7053426](https://doi.org/10.1109/WCICA.2014.7053426)
-- [Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
 - JayawardhanaB. Tracking and Disturbance Rejection of Passive Nonlinear Systems (Ph.D. thesis). London UK: Imperial College London; 2006.
-- [Model reduction of a flexible-joint robot: a port-Hamiltonian approach](model-reduction-of-a-flexible-joint-robot-a-port-hamiltonian-approach) -- [10.1016/j.ifacol.2016.10.269](https://doi.org/10.1016/j.ifacol.2016.10.269)
-- [Virtual Differential Passivity based Control for Tracking of Flexible-joints Robots](virtual-differential-passivity-based-control-for-tracking-of-flexible-joints-robots) -- [10.1016/j.ifacol.2018.06.048](https://doi.org/10.1016/j.ifacol.2018.06.048)
-- [Tracking Control of Fully-actuated port-Hamiltonian Mechanical Systems via Sliding Manifolds and Contraction Analysis](tracking-control-of-fully-actuated-port-hamiltonian-mechanical-systems-via-sliding-manifolds-and-contraction-analysis) -- [10.1016/j.ifacol.2017.08.1395](https://doi.org/10.1016/j.ifacol.2017.08.1395)
+- [Jardón-Kojakhmetov, H., Muñoz-Arias, M. & Scherpen, J. M. A. Model reduction of a flexible-joint robot: a port-Hamiltonian approach. IFAC-PapersOnLine vol. 49 832–837 (2016)](model-reduction-of-a-flexible-joint-robot-a-port-hamiltonian-approach) -- [10.1016/j.ifacol.2016.10.269](https://doi.org/10.1016/j.ifacol.2016.10.269)
+- [Reyes-Báez, R., van der Schaft, A. & Jayawardhana, B. Virtual Differential Passivity based Control for Tracking of Flexible-joints Robots. IFAC-PapersOnLine vol. 51 169–174 (2018)](virtual-differential-passivity-based-control-for-tracking-of-flexible-joints-robots) -- [10.1016/j.ifacol.2018.06.048](https://doi.org/10.1016/j.ifacol.2018.06.048)
+- [Reyes-Báez, R., van der Schaft, A. & Jayawardhana, B. Tracking Control of Fully-actuated port-Hamiltonian Mechanical Systems via Sliding Manifolds and Contraction Analysis. IFAC-PapersOnLine vol. 50 8256–8261 (2017)](tracking-control-of-fully-actuated-port-hamiltonian-mechanical-systems-via-sliding-manifolds-and-contraction-analysis) -- [10.1016/j.ifacol.2017.08.1395](https://doi.org/10.1016/j.ifacol.2017.08.1395)
 - Reyes‐BáezR vanderSchaftAJ JayawardhanaB. Virtual differential passivity based control for a class of mechanical systems in the port‐Hamiltonian framework; 2018.
-- [10.1109/TAC.2013.2285771](https://doi.org/10.1109/TAC.2013.2285771)
-- [10.1007/978-3-319-30357-4_3](https://doi.org/10.1007/978-3-319-30357-4_3)
-- [10.1016/S0005-1098(98)00019-3](https://doi.org/10.1016/S0005-1098(98)00019-3)
-- [10.1007/978-3-540-93918-4_20](https://doi.org/10.1007/978-3-540-93918-4_20)
-- [10.1007/s00422-004-0527-x](https://doi.org/10.1007/s00422-004-0527-x)
-- [10.4173/mic.2010.3.2](https://doi.org/10.4173/mic.2010.3.2)
+- Forni, F. & Sepulchre, R. A Differential Lyapunov Framework for Contraction Analysis. IEEE Transactions on Automatic Control vol. 59 614–628 (2014) -- [10.1109/TAC.2013.2285771](https://doi.org/10.1109/TAC.2013.2285771)
+- Pavlov, A. & van de Wouw, N. Convergent Systems: Nonlinear Simplicity. Lecture Notes in Control and Information Sciences 51–77 (2016) doi:10.1007/978-3-319-30357-4_3 -- [10.1007/978-3-319-30357-4_3](https://doi.org/10.1007/978-3-319-30357-4_3)
+- LOHMILLER, W. & SLOTINE, J.-J. E. On Contraction Analysis for Non-linear Systems. Automatica vol. 34 683–696 (1998) -- [10.1016/S0005-1098(98)00019-3](https://doi.org/10.1016/S0005-1098(98)00019-3)
+- Sontag, E. D. Contractive Systems with Inputs. Lecture Notes in Control and Information Sciences 217–228 (2010) doi:10.1007/978-3-540-93918-4_20 -- [10.1007/978-3-540-93918-4_20](https://doi.org/10.1007/978-3-540-93918-4_20)
+- Wang, W. & Slotine, J.-J. E. On partial contraction analysis for coupled nonlinear oscillators. Biological Cybernetics vol. 92 38–53 (2004) -- [10.1007/s00422-004-0527-x](https://doi.org/10.1007/s00422-004-0527-x)
+- Jouffroy, J. & Fossen, T. I. Tutorial on Incremental Stability Analysis using Contraction Theory. Modeling, Identification and Control: A Norwegian Research Bulletin vol. 31 93–106 (2010) -- [10.4173/mic.2010.3.2](https://doi.org/10.4173/mic.2010.3.2)
 - ManchesterIR TangJZ SlotineJJE. Unifying classical and optimization‐based methods for robot tracking control with control contraction metrics. Paper presented at: Proceedings of the International Symposium on Robotics Research (ISRR); 2015:1‐16.
-- [10.1109/9.989067](https://doi.org/10.1109/9.989067)
-- [10.3182/20130904-3-FR-2041.00008](https://doi.org/10.3182/20130904-3-FR-2041.00008)
+- Angeli, D. A Lyapunov approach to incremental stability properties. IEEE Transactions on Automatic Control vol. 47 410–421 (2002) -- [10.1109/9.989067](https://doi.org/10.1109/9.989067)
+- van der Schaft, A. J. On differential passivity. IFAC Proceedings Volumes vol. 46 21–25 (2013) -- [10.3182/20130904-3-FR-2041.00008](https://doi.org/10.3182/20130904-3-FR-2041.00008)
 - Reyes BáezR. Virtual Contraction and Passivity Based Control of Nonlinear Mechanical Systems: Trajectory Tracking and Group Coordination. PhD thesis. Groningen Netherlands: University of Groningen; 2019
-- [10.1007/BFb0042858](https://doi.org/10.1007/BFb0042858)
-- [10.1109/TAC.2011.2179873](https://doi.org/10.1109/TAC.2011.2179873)
+- Variational and Hamiltonian Control Systems. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1987). doi:10.1007/bfb0042858 -- [10.1007/BFb0042858](https://doi.org/10.1007/BFb0042858)
+- Sanfelice, R. G. & Praly, L. Convergence of Nonlinear Observers on $\BBR^{n}$ With a Riemannian Metric (Part I). IEEE Transactions on Automatic Control vol. 57 1709–1722 (2012) -- [10.1109/TAC.2011.2179873](https://doi.org/10.1109/TAC.2011.2179873)
 - CooganS.A contractive approach to separable Lyapunov functions for monotone systems. arXiv preprint arXiv:1704.04218; 2017.
-- [10.1371/journal.pcbi.1000739](https://doi.org/10.1371/journal.pcbi.1000739)
-- [10.3182/20130904-3-FR-2041.00038](https://doi.org/10.3182/20130904-3-FR-2041.00038)
+- Russo, G., di Bernardo, M. & Sontag, E. D. Global Entrainment of Transcriptional Systems to Periodic Inputs. PLoS Computational Biology vol. 6 e1000739 (2010) -- [10.1371/journal.pcbi.1000739](https://doi.org/10.1371/journal.pcbi.1000739)
+- Forni, F. & Sepulchre, R. On differentially dissipative dynamical systems. IFAC Proceedings Volumes vol. 46 15–20 (2013) -- [10.3182/20130904-3-FR-2041.00038](https://doi.org/10.3182/20130904-3-FR-2041.00038)
 - ForniF SepulchreR vanderSchaftAJ. On differential passivity of physical systems. Paper presented at: Proceedings of the 2013 IEEE 52nd Annual Conference on Decision and Control (CDC); 2013:6580‐6585; IEEE. -- [10.1109/CDC.2013.6760930](https://doi.org/10.1109/CDC.2013.6760930)
-- [10.1109/TRO.2008.915438](https://doi.org/10.1109/TRO.2008.915438)
-- [Port-Hamiltonian Systems Theory: An Introductory Overview](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Ott, C., Albu-Schaffer, A., Kugi, A. & Hirzinger, G. On the Passivity-Based Impedance Control of Flexible Joint Robots. IEEE Transactions on Robotics vol. 24 416–429 (2008) -- [10.1109/TRO.2008.915438](https://doi.org/10.1109/TRO.2008.915438)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - PavlovA MarconiL. Incremental passivity and output regulation. Paper presented at: Proceedings of the IEEE Conference on Decision and Control; 2006. -- [10.1109/CDC.2006.377803](https://doi.org/10.1109/CDC.2006.377803)
-- [10.1109/TAC.2017.2655443](https://doi.org/10.1109/TAC.2017.2655443)
+- Kawano, Y. & Ohtsuka, T. Nonlinear Eigenvalue Approach to Differential Riccati Equations for Contraction Analysis. IEEE Transactions on Automatic Control vol. 62 6497–6504 (2017) -- [10.1109/TAC.2017.2655443](https://doi.org/10.1109/TAC.2017.2655443)
 - Quanser Consulting Inc. 2‐DOF serial flexible link robot Reference Manual Doc. No. 763 Rev. 1; 2008.
 

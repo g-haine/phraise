@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Publications by Stefan S. Groothuis
-permalink: /authors/stefan-s-groothuis/
+permalink: /authors/stefan-s-groothuis
 ---
 
 <ul class="post-list">
-<li><span class='post-meta'>2017 -- Stefan S. Groothuis, Stefano Stramigioli, Raffaella Carloni</span><h3><a class='post-link' href='../../modeling-robotic-manipulators-powered-by-variable-stiffness-actuators-a-graph-theoretic-and-port-hamiltonian-formalism'>Modeling Robotic Manipulators Powered by Variable Stiffness Actuators: A Graph-Theoretic and Port-Hamiltonian Formalism</a></h3></li>
+<li><span class='post-meta'>2017 -- Stefan S. Groothuis, Stefano Stramigioli, Raffaella Carloni</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-robotic-manipulators-powered-by-variable-stiffness-actuators-a-graph-theoretic-and-port-hamiltonian-formalism">Modeling Robotic Manipulators Powered by Variable Stiffness Actuators: A Graph-Theoretic and Port-Hamiltonian Formalism</a></h3></li>
 
 </ul>

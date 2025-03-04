@@ -10,7 +10,7 @@ tag: Autonomous systems; Cooperative control; Networked control systems; Large-s
 ---
  
 ## Authors
-**N. Javanmardi, P. Borja, M.J. Yazdanpanah, J.M.A. Scherpen**
+[N. Javanmardi](authors/najmeh-javanmardi), [P. Borja](authors/luis-pablo-borja), [M.J. Yazdanpanah](authors/mohammad-javad-yazdanpanah), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 This paper investigates a distributed formation tracking control law for large-scale networks of mechanical systems. In particular, the formation network is represented by a directed communication graph with leaders and followers, where each agent is described as a port-Hamiltonian system with a constant mass matrix. Moreover, we adopt a distributed parameter approach to prove the scalable asymptotic stability of the network formation, i.e., the scalability with respect to the network size and the specific formation preservation. A simulation case illustrates the effectiveness of the proposed control approach.
@@ -47,17 +47,17 @@ Autonomous systems; Cooperative control; Networked control systems; Large-scale 
 {% endhighlight %}
  
 ## References
-- [10.1109/TAC.2009.2026934](https://doi.org/10.1109/TAC.2009.2026934)
-- [10.1109/LCSYS.2018.2843174](https://doi.org/10.1109/LCSYS.2018.2843174)
-- [10.1016/j.automatica.2019.108643](https://doi.org/10.1016/j.automatica.2019.108643)
-- [10.1109/TAC.2011.2159651](https://doi.org/10.1109/TAC.2011.2159651)
-- [10.1109/TVT.2013.2253500](https://doi.org/10.1109/TVT.2013.2253500)
-- [10.1109/TAC.2010.2103416](https://doi.org/10.1109/TAC.2010.2103416)
-- [10.1016/j.automatica.2015.09.022](https://doi.org/10.1016/j.automatica.2015.09.022)
-- [10.1109/TAC.2002.800770](https://doi.org/10.1109/TAC.2002.800770)
-- [10.1016/j.robot.2007.08.005](https://doi.org/10.1016/j.robot.2007.08.005)
-- [10.1016/j.ifacol.2021.10.365](https://doi.org/10.1016/j.ifacol.2021.10.365)
-- [10.1016/j.ifacol.2018.12.056](https://doi.org/10.1016/j.ifacol.2018.12.056)
-- [Trajectory tracking for a class of contractive port Hamiltonian systems](trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems) -- [10.1016/j.automatica.2017.06.039](https://doi.org/10.1016/j.automatica.2017.06.039)
-- [10.1109/TSG.2014.2337838](https://doi.org/10.1109/TSG.2014.2337838)
+- Barooah, P., Mehta, P. G. & Hespanha, J. P. Mistuning-Based Control Design to Improve Closed-Loop Stability Margin of Vehicular Platoons. IEEE Transactions on Automatic Control vol. 54 2100–2113 (2009) -- [10.1109/TAC.2009.2026934](https://doi.org/10.1109/TAC.2009.2026934)
+- Besselink, B. & Knorn, S. Scalable Input-to-State Stability for Performance Analysis of Large-Scale Networks. IEEE Control Systems Letters vol. 2 507–512 (2018) -- [10.1109/LCSYS.2018.2843174](https://doi.org/10.1109/LCSYS.2018.2843174)
+- Dashkovskiy, S. & Pavlichkov, S. Stability conditions for infinite networks of nonlinear systems and their application for stabilization. Automatica vol. 112 108643 (2020) -- [10.1016/j.automatica.2019.108643](https://doi.org/10.1016/j.automatica.2019.108643)
+- Dunbar, W. B. & Caveney, D. S. Distributed Receding Horizon Control of Vehicle Platoons: Stability and String Stability. IEEE Transactions on Automatic Control vol. 57 620–633 (2012) -- [10.1109/TAC.2011.2159651](https://doi.org/10.1109/TAC.2011.2159651)
+- Ghasemi, A., Kazemi, R. & Azadi, S. Stable Decentralized Control of a Platoon of Vehicles With Heterogeneous Information Feedback. IEEE Transactions on Vehicular Technology vol. 62 4299–4308 (2013) -- [10.1109/TVT.2013.2253500](https://doi.org/10.1109/TVT.2013.2253500)
+- Hao, H., Barooah, P. & Mehta, P. G. Stability Margin Scaling Laws for Distributed Formation Control as a Function of Network Structure. IEEE Transactions on Automatic Control vol. 56 923–929 (2011) -- [10.1109/TAC.2010.2103416](https://doi.org/10.1109/TAC.2010.2103416)
+- Knorn, S., Donaire, A., Agüero, J. C. & Middleton, R. H. Scalability of bidirectional vehicle strings with static and dynamic measurement errors. Automatica vol. 62 208–212 (2015) -- [10.1016/j.automatica.2015.09.022](https://doi.org/10.1016/j.automatica.2015.09.022)
+- Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Transactions on Automatic Control vol. 47 1218–1233 (2002) -- [10.1109/TAC.2002.800770](https://doi.org/10.1109/TAC.2002.800770)
+- Ren, W. & Sorensen, N. Distributed coordination architecture for multi-robot formation control. Robotics and Autonomous Systems vol. 56 324–333 (2008) -- [10.1016/j.robot.2007.08.005](https://doi.org/10.1016/j.robot.2007.08.005)
+- Tsolakis, A. & Keviczky, T. Distributed IDA-PBC for a Class of Nonholonomic Mechanical Systems. IFAC-PapersOnLine vol. 54 275–280 (2021) -- [10.1016/j.ifacol.2021.10.365](https://doi.org/10.1016/j.ifacol.2021.10.365)
+- Valk, L. & Keviczky, T. Distributed Control of Heterogeneous Underactuated Mechanical Systems. IFAC-PapersOnLine vol. 51 325–330 (2018) -- [10.1016/j.ifacol.2018.12.056](https://doi.org/10.1016/j.ifacol.2018.12.056)
+- [Yaghmaei, A. & Yazdanpanah, M. J. Trajectory tracking for a class of contractive port Hamiltonian systems. Automatica vol. 83 331–336 (2017)](trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems) -- [10.1016/j.automatica.2017.06.039](https://doi.org/10.1016/j.automatica.2017.06.039)
+- Yazdanian, M. & Mehrizi-Sani, A. Distributed Control Techniques in Microgrids. IEEE Transactions on Smart Grid vol. 5 2901–2909 (2014) -- [10.1109/TSG.2014.2337838](https://doi.org/10.1109/TSG.2014.2337838)
 

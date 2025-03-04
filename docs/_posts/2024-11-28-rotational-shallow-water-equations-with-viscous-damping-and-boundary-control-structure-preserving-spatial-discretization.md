@@ -10,7 +10,7 @@ tag: Shallow water equations (SWE); Port-Hamiltonian systems (pHs); Viscous damp
 ---
  
 ## Authors
-**Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Laurent Lefèvre, Denis Matignon**
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 This paper is dedicated to structure-preserving spatial discretization of shallow water dynamics. First, a port-Hamiltonian formulation is provided for the two-dimensional rotational shallow water equations with viscous damping. Both tangential and normal boundary port variables are introduced. Then, the corresponding weak form is derived and a partitioned finite element method is applied to obtain a finite-dimensional continuous-time port-Hamiltonian approximation. Four simulation scenarios are investigated to illustrate the approach and show its effectiveness.

@@ -10,7 +10,7 @@ tag: Port-Hamiltonian systems; Differential-algebraic equations; Minimal realiza
 ---
  
 ## Authors
-**Karim Cherifi, Hannes Gernandt, Dorothea Hinsen**
+[Karim Cherifi](authors/karim-cherifi), [Hannes Gernandt](authors/hannes-gernandt), [Dorothea Hinsen](authors/dorothea-hinsen)
  
 ## Abstract
 The relation between passive and positive real systems has been extensively studied in the literature. In this paper, we study their connection to the more recently used notion of port-Hamiltonian descriptor systems. It is well-known that port-Hamiltonian systems are passive and that passive systems are positive real. Hence it is studied under which assumptions the converse implications hold. Furthermore, the relationship between passivity and KYP inequalities is investigated.

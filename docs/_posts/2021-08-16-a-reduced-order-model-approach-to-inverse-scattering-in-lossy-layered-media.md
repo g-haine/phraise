@@ -10,7 +10,7 @@ tag: Inverse scattering; Data driven reduced order model; Passive; Port-Hamilton
 ---
  
 ## Authors
-**Liliana Borcea, Vladimir Druskin, Jörn Zimmerling**
+[Liliana Borcea](authors/liliana-borcea), [Vladimir Druskin](authors/vladimir-druskin), [Jörn Zimmerling](authors/jorn-zimmerling)
  
 ## Abstract
 We introduce a reduced order model (ROM) methodology for inverse electromagnetic wave scattering in layered lossy media, using data gathered by an antenna which generates a probing wave and measures the time resolved reflected wave. We recast the wave propagation problem as a passive infinite-dimensional dynamical system, whose transfer function is expressed in terms of the measurements at the antenna. The ROM is a low-dimensional dynamical system that approximates this transfer function. While there are many possible ROM realizations, we are interested in one that preserves passivity and in addition is: (1) data driven (i.e., is constructed only from the measurements) and (2) it consists of a matrix with special sparse algebraic structure, whose entries contain spatially localized information about the unknown dielectric permittivity and electrical conductivity of the layered medium. Localized means in the intervals of a special finite difference grid. The main result of the paper is to show with analysis and numerical simulations that these unknowns can be extracted efficiently from the ROM.
