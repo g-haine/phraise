@@ -5,7 +5,8 @@ date: 2017-10-06 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-control-dc-dc-power-converters
 year: 2017
 authors: David NAVARRO, Domingo CORTES, Martha GALAZ-LARIOS
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

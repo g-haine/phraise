@@ -5,7 +5,8 @@ date: 2003-08-01 00:00:00 +0100
 permalink: geometric-numerical-integration-illustrated-by-the-stormer-verlet-method
 year: 2003
 authors: Ernst Hairer, Christian Lubich, Gerhard Wanner
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

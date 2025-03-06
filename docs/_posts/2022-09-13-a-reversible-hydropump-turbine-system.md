@@ -5,7 +5,8 @@ date: 2022-09-13 00:00:00 +0100
 permalink: a-reversible-hydropump-turbine-system
 year: 2022
 authors: Luis Miguel Esquivel-Sancho, Mauricio Muñoz-Arias, Hayden Phillips-Brenes, Roberto Pereira-Arroyo
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

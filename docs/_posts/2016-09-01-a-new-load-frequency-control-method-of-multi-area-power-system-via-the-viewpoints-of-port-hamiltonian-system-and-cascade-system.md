@@ -5,7 +5,8 @@ date: 2016-09-01 00:00:00 +0100
 permalink: a-new-load-frequency-control-method-of-multi-area-power-system-via-the-viewpoints-of-port-hamiltonian-system-and-cascade-system
 year: 2017
 authors: Liangcheng Cai, Zhengyou He, Haitao Hu
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

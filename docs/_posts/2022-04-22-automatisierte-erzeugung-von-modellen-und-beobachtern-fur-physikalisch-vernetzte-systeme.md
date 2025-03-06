@@ -5,7 +5,8 @@ date: 2022-04-22 00:00:00 +0100
 permalink: automatisierte-erzeugung-von-modellen-und-beobachtern-fur-physikalisch-vernetzte-systeme
 year: 2022
 authors: Martin Pfeifer
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

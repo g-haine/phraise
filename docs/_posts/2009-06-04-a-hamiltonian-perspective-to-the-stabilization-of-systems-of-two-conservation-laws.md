@@ -5,7 +5,8 @@ date: 2009-06-04 00:00:00 +0100
 permalink: a-hamiltonian-perspective-to-the-stabilization-of-systems-of-two-conservation-laws
 year: 2009
 authors: Valérie Dos Santos, Bernhard Maschke, Yann Le Gorrec
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

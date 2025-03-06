@@ -5,7 +5,8 @@ date: 2015-07-20 00:00:00 +0100
 permalink: port-hamiltonian-systems-in-adaptive-and-learning-control-a-survey
 year: 2016
 authors: Subramanya P. Nageshrao, Gabriel A. D. Lopes, Dimitri Jeltsema, Robert Babuska
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

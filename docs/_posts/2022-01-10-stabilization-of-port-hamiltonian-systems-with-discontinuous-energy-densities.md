@@ -5,7 +5,8 @@ date: 2022-01-10 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-systems-with-discontinuous-energy-densities
 year: 2022
 authors: Jochen Schmid
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

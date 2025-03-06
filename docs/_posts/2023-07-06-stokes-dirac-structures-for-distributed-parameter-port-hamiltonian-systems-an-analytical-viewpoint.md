@@ -5,7 +5,8 @@ date: 2023-07-06 00:00:00 +0100
 permalink: stokes-dirac-structures-for-distributed-parameter-port-hamiltonian-systems-an-analytical-viewpoint
 year: 2023
 authors: Andrea Brugnoli, Ghislain Haine, Denis Matignon
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

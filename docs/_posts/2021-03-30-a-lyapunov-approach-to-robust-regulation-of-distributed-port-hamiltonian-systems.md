@@ -5,7 +5,8 @@ date: 2021-03-30 00:00:00 +0100
 permalink: a-lyapunov-approach-to-robust-regulation-of-distributed-port-hamiltonian-systems
 year: 2021
 authors: Lassi Paunonen, Yann Le Gorrec, Héctor Ramírez
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

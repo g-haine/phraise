@@ -5,7 +5,8 @@ date: 2023-08-20 00:00:00 +0100
 permalink: a-rosenbrock-framework-for-tangential-interpolation-of-port-hamiltonian-descriptor-systems
 year: 2023
 authors: Tim Moser, Boris Lohmann
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

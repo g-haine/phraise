@@ -5,7 +5,8 @@ date: 2022-03-29 00:00:00 +0100
 permalink: telegraph-systems-on-networks-and-port-hamiltonians-iii-explicit-representation-and-long-term-behaviour
 year: 2022
 authors: Jacek Banasiak, Adam Błoch
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2021-10-01 00:00:00 +0100
 permalink: learning-feedback-nash-strategies-for-nonlinear-port-hamiltonian-systems
 year: 2023
 authors: Lukas Kölsch, Pol Jané Soneira, Albertus Johannes Malan, Sören Hohmann
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

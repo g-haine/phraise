@@ -5,7 +5,8 @@ date: 2023-08-01 00:00:00 +0100
 permalink: finding-the-nearest-negative-imaginary-system-with-application-to-near-optimal-controller-design
 year: 2023
 authors: Mohamed A. Mabrok
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

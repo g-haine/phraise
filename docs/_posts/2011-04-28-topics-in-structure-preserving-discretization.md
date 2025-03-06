@@ -5,7 +5,8 @@ date: 2011-04-28 00:00:00 +0100
 permalink: topics-in-structure-preserving-discretization
 year: 2011
 authors: Snorre H. Christiansen, Hans Z. Munthe-Kaas, Brynjulf Owren
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2022-04-29 00:00:00 +0100
 permalink: robust-fault-tolerant-control-for-stochastic-port-hamiltonian-systems-against-actuator-faults
 year: 2022
 authors: Song Xu, Wei Wang, Sheng-Yuan Chen
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

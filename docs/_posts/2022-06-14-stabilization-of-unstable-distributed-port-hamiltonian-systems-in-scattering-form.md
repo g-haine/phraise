@@ -5,7 +5,8 @@ date: 2022-06-14 00:00:00 +0100
 permalink: stabilization-of-unstable-distributed-port-hamiltonian-systems-in-scattering-form
 year: 2022
 authors: Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-05-11 00:00:00 +0100
 permalink: control-of-port-hamiltonian-differential-algebraic-systems-and-applications
 year: 2023
 authors: Volker Mehrmann, Benjamin Unger
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

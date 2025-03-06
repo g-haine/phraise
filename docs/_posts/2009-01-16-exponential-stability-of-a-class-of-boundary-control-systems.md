@@ -5,7 +5,8 @@ date: 2009-01-16 00:00:00 +0100
 permalink: exponential-stability-of-a-class-of-boundary-control-systems
 year: 2009
 authors: Javier Andres Villegas, Hans Zwart, Yann Le Gorrec, Bernhard Maschke
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

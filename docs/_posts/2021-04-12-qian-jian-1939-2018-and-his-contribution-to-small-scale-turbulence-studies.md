@@ -5,7 +5,8 @@ date: 2021-04-12 00:00:00 +0100
 permalink: qian-jian-1939-2018-and-his-contribution-to-small-scale-turbulence-studies
 year: 2021
 authors: John Z. Shi
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

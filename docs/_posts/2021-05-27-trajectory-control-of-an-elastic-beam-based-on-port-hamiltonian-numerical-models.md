@@ -5,7 +5,8 @@ date: 2021-05-27 00:00:00 +0100
 permalink: trajectory-control-of-an-elastic-beam-based-on-port-hamiltonian-numerical-models
 year: 2021
 authors: Mei Wang, Paul Kotyczka
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

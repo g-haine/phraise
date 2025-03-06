@@ -5,7 +5,8 @@ date: 2013-03-14 00:00:00 +0100
 permalink: port-hamiltonian-systems-on-graphs
 year: 2013
 authors: A. J. van der Schaft, B. M. Maschke
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

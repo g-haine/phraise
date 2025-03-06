@@ -5,7 +5,8 @@ date: 2024-01-19 00:00:00 +0100
 permalink: the-collective-dynamics-of-a-stochastic-port-hamiltonian-self-driven-agent-model-in-one-dimension
 year: 2024
 authors: Matthias Ehrhardt, Thomas Kruse, Antoine Tordeux
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

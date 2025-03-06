@@ -5,7 +5,8 @@ date: 2012-03-06 00:00:00 +0100
 permalink: stability-analysis-of-interconnected-hamiltonian-systems-under-time-delays
 year: 2012
 authors: C.-Y. Kao, R. Pasumarthy
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

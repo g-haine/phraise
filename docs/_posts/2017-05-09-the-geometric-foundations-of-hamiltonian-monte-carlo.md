@@ -5,7 +5,8 @@ date: 2017-05-09 00:00:00 +0100
 permalink: the-geometric-foundations-of-hamiltonian-monte-carlo
 year: 2017
 authors: Michael Betancourt, Simon Byrne, Sam Livingstone, Mark Girolami
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

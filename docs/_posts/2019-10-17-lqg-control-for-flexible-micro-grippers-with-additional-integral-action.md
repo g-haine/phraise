@@ -5,7 +5,8 @@ date: 2019-10-17 00:00:00 +0100
 permalink: lqg-control-for-flexible-micro-grippers-with-additional-integral-action
 year: 2019
 authors: Yongxin Wu, Hector Ramirez, Yann Le Gorrec
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

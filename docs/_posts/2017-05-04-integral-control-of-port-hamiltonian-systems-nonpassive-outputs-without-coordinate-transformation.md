@@ -5,7 +5,8 @@ date: 2017-05-04 00:00:00 +0100
 permalink: integral-control-of-port-hamiltonian-systems-nonpassive-outputs-without-coordinate-transformation
 year: 2017
 authors: Joel Ferguson, Alejandro Donaire, Richard H. Middleton
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

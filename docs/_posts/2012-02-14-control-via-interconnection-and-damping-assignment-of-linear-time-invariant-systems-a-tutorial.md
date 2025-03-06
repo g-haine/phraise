@@ -5,7 +5,8 @@ date: 2012-02-14 00:00:00 +0100
 permalink: control-via-interconnection-and-damping-assignment-of-linear-time-invariant-systems-a-tutorial
 year: 2012
 authors: Romeo Ortega, Zhitao Liu, Hongye Su
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

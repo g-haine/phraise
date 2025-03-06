@@ -5,7 +5,8 @@ date: 2017-03-03 00:00:00 +0100
 permalink: input-to-state-stability-of-stochastic-port-hamiltonian-systems-using-stochastic-generalized-canonical-transformations
 year: 2017
 authors: Satoshi Satoh
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

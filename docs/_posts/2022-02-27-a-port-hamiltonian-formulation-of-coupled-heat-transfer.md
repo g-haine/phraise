@@ -5,7 +5,8 @@ date: 2022-02-27 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-coupled-heat-transfer
 year: 2022
 authors: Jens Jäschke, Matthias Ehrhardt, Michael Günther, Birgit Jacob
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-04-14 00:00:00 +0100
 permalink: fixed-time-control-for-a-class-of-nonlinear-ph-dae-systems
 year: 2023
 authors: Xinggui Liu, Xiaofeng Liao
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2024-01-19 00:00:00 +0100
 permalink: distributed-parameter-port-hamiltonian-systems-in-discrete-time
 year: 2023
 authors: Alessandro Macchelli
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

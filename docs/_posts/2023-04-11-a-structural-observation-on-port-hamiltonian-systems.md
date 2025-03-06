@@ -5,7 +5,8 @@ date: 2023-04-11 00:00:00 +0100
 permalink: a-structural-observation-on-port-hamiltonian-systems
 year: 2023
 authors: Rainer H. Picard, Sascha Trostorff, Bruce Watson, Marcus Waurick
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2022-07-29 00:00:00 +0100
 permalink: energy-aware-control-of-euler-bernoulli-beams-by-means-of-an-axial-load
 year: 2022
 authors: Federico Califano, Alexander Dijkshoorn, Sander Roodink, Stefano Stramigioli, Gijs Krijnen
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

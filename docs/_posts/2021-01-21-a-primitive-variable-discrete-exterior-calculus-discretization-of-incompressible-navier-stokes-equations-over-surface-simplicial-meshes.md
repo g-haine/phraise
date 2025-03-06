@@ -5,7 +5,8 @@ date: 2021-01-21 00:00:00 +0100
 permalink: a-primitive-variable-discrete-exterior-calculus-discretization-of-incompressible-navier-stokes-equations-over-surface-simplicial-meshes
 year: 2021
 authors: Pankaj Jagad, Abdullah Abukhwejah, Mamdouh Mohamed, Ravi Samtaney
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

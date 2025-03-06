@@ -5,7 +5,8 @@ date: 2018-04-17 00:00:00 +0100
 permalink: a-constructive-globally-convergent-adaptive-speed-observer-for-port-hamiltonian-mechanical-systems-with-non-holonomic-constraints
 year: 2019
 authors: Ammar Touati Brahim, Madjid Kidouche
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

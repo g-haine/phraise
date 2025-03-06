@@ -5,7 +5,8 @@ date: 2024-01-18 00:00:00 +0100
 permalink: solvability-of-time-varying-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2024
 authors: Mikael Kurula
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

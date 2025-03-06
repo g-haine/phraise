@@ -5,7 +5,8 @@ date: 2014-06-29 00:00:00 +0100
 permalink: port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-93
 year: 1993
 authors: B.M. Maschke, A.J. van der Schaft
-category: chapters
+category:
+  - chapters
 ---
  
 ## Authors

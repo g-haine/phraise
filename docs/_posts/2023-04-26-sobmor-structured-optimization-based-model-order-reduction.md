@@ -5,7 +5,8 @@ date: 2023-04-26 00:00:00 +0100
 permalink: sobmor-structured-optimization-based-model-order-reduction
 year: 2023
 authors: Paul Schwerdtner, Matthias Voigt
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2020-07-09 00:00:00 +0100
 permalink: twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review
 year: 2020
 authors: Ramy Rashad, Federico Califano, Arjan J van der Schaft, Stefano Stramigioli
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

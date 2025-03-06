@@ -5,7 +5,8 @@ date: 2007-01-19 00:00:00 +0100
 permalink: position-drift-compensation-in-port-hamiltonian-based-telemanipulation
 year: 2006
 authors: Cristian Secchi, Stefano Stramigioli, Cesare Fantuzzi
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

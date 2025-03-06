@@ -5,7 +5,8 @@ date: 2024-01-18 00:00:00 +0100
 permalink: event-triggered-control-of-port-hamiltonian-systems-under-time-delay-communication
 year: 2024
 authors: Ernesto Aranda-Escolástico, Leonardo J. Colombo, María Guinaldo, Antonio Visioli
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2021-09-08 00:00:00 +0100
 permalink: observer-design-for-a-single-mast-stacker-crane
 year: 2021
 authors: Lukas Ecker, Tobias Malzer, Arne Wahrburg, Markus Schöberl
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

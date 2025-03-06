@@ -5,7 +5,8 @@ date: 2022-11-25 00:00:00 +0100
 permalink: numerical-analysis-of-a-structure-preserving-space-discretization-for-an-anisotropic-and-heterogeneous-boundary-controlled-n-dimensional-wave-equation-as-a-port-hamiltonian-system
 year: 2022
 authors: Ghislain Haine, Denis Matignon, Anass Serhani
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

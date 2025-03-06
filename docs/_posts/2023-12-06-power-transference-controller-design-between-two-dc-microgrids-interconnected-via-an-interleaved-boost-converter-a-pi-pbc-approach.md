@@ -5,7 +5,8 @@ date: 2023-12-06 00:00:00 +0100
 permalink: power-transference-controller-design-between-two-dc-microgrids-interconnected-via-an-interleaved-boost-converter-a-pi-pbc-approach
 year: 2023
 authors: Oscar Danilo Montoya, César Leonardo Trujillo, Walter Gil-González
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

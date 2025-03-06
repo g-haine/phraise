@@ -5,7 +5,8 @@ date: 2019-10-10 00:00:00 +0100
 permalink: port-hamiltonian-modeling-for-control
 year: 2020
 authors: Arjan van der Schaft
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

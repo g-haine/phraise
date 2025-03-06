@@ -5,7 +5,8 @@ date: 2020-11-09 00:00:00 +0100
 permalink: passivity-based-current-control-of-a-dual-active-bridge-to-improve-the-dynamic-response-of-a-solid-state-transformer-during-power-and-voltage-variations
 year: 2020
 authors: K. Lopez-Rodriguez, A. Escobar-Mejia, E.Y. Piedrahita-Echavarria, W. Gil-Gonzalez
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

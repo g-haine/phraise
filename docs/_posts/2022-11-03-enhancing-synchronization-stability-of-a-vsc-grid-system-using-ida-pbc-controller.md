@@ -5,7 +5,8 @@ date: 2022-11-03 00:00:00 +0100
 permalink: enhancing-synchronization-stability-of-a-vsc-grid-system-using-ida-pbc-controller
 year: 2022
 authors: Sai Sowmya Nagam, Bikash C. Pal
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

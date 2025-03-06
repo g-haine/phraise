@@ -5,7 +5,8 @@ date: 2022-01-14 00:00:00 +0100
 permalink: riemannian-optimization-model-order-reduction-method-for-general-linear-port-hamiltonian-systems
 year: 2022
 authors: Zi-Xue Li, Yao-Lin Jiang, Kang-Li Xu
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

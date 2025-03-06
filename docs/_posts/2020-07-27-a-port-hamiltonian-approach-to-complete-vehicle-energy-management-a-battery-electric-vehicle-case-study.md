@@ -5,7 +5,8 @@ date: 2020-07-27 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-complete-vehicle-energy-management-a-battery-electric-vehicle-case-study
 year: 2020
 authors: G. P. Padilla, J. C. Flores Paredes, M. C. F. Donkers
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

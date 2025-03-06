@@ -5,7 +5,8 @@ date: 2021-12-13 00:00:00 +0100
 permalink: stability-analysis-for-a-grid-forming-converter-with-inverse-droop-connected-to-an-infinite-bus
 year: 2021
 authors: Alejandro Garces, Walter Gil-Gonzalez
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

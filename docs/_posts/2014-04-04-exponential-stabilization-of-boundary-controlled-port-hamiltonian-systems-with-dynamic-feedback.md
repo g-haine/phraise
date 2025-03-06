@@ -5,7 +5,8 @@ date: 2014-04-04 00:00:00 +0100
 permalink: exponential-stabilization-of-boundary-controlled-port-hamiltonian-systems-with-dynamic-feedback
 year: 2014
 authors: Hector Ramirez, Yann Le Gorrec, Alessandro Macchelli, Hans Zwart
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

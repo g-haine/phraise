@@ -5,7 +5,8 @@ date: 2020-11-06 00:00:00 +0100
 permalink: frequency-design-of-lossless-passive-electronic-filters-a-state-space-formulation-of-the-direct-synthesis-approach
 year: 2021
 authors: Arthur Perodou, Anton Korniienko, Gerard Scorletti, Mykhailo Zarudniev, Jean-Baptiste David, Ian O'Connor
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

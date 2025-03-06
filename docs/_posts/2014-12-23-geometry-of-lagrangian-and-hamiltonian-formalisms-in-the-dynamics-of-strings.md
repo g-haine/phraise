@@ -5,7 +5,8 @@ date: 2014-12-23 00:00:00 +0100
 permalink: geometry-of-lagrangian-and-hamiltonian-formalisms-in-the-dynamics-of-strings
 year: 2014
 authors: Janusz Grabowski, Katarzyna Grabowska, Paweł Urbański
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

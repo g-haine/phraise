@@ -5,7 +5,8 @@ date: 2022-02-01 00:00:00 +0100
 permalink: stability-of-the-multidimensional-wave-equation-in-port-hamiltonian-modelling
 year: 2021
 authors: Birgit Jacob, Nathanael Skrepek
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

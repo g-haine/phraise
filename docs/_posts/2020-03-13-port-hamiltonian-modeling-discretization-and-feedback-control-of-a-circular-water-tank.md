@@ -5,7 +5,8 @@ date: 2020-03-13 00:00:00 +0100
 permalink: port-hamiltonian-modeling-discretization-and-feedback-control-of-a-circular-water-tank
 year: 2019
 authors: Flavio Luiz Cardoso-Ribeiro, Andrea Brugnoli, Denis Matignon, Laurent Lefevre
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

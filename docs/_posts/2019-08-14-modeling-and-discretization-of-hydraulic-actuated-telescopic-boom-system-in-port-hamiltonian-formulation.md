@@ -5,7 +5,8 @@ date: 2019-08-14 00:00:00 +0100
 permalink: modeling-and-discretization-of-hydraulic-actuated-telescopic-boom-system-in-port-hamiltonian-formulation
 year: 2019
 authors: Lingchong Gao, Wang Mei, Michael Kleeberger, Haijun Peng, Johannes Fottner
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

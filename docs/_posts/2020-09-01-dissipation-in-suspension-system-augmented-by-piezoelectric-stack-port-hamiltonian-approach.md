@@ -5,7 +5,8 @@ date: 2020-09-01 00:00:00 +0100
 permalink: dissipation-in-suspension-system-augmented-by-piezoelectric-stack-port-hamiltonian-approach
 year: 2020
 authors: Rafael Tavares, Michael Ruderman
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

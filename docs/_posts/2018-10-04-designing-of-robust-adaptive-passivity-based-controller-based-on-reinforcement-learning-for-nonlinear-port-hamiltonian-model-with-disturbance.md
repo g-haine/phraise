@@ -5,7 +5,8 @@ date: 2018-10-04 00:00:00 +0100
 permalink: designing-of-robust-adaptive-passivity-based-controller-based-on-reinforcement-learning-for-nonlinear-port-hamiltonian-model-with-disturbance
 year: 2020
 authors: A. Gheibi, A. R. Ghiasi, S. Ghaemi, M. A. Badamchizadeh
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2021-04-27 00:00:00 +0100
 permalink: limits-to-energy-conversion
 year: 2022
 authors: Arjan van der Schaft, Dimitri Jeltsema
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2002-09-18 00:00:00 +0100
 permalink: hamilton-jacobi-bellman-equation-under-states-constraints
 year: 2000
 authors: Kyung-Eung Kim
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2020-02-28 00:00:00 +0100
 permalink: passive-modelling-of-the-electrodynamic-loudspeaker-from-the-thiele-small-model-to-nonlinear-port-hamiltonian-systems
 year: 2020
 authors: Antoine Falaize, Thomas Hélie
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

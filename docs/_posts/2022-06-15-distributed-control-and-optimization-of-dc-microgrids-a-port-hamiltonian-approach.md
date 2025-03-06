@@ -5,7 +5,8 @@ date: 2022-06-15 00:00:00 +0100
 permalink: distributed-control-and-optimization-of-dc-microgrids-a-port-hamiltonian-approach
 year: 2022
 authors: Babak Abdolmaleki, Gilbert Bergna-Diaz
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

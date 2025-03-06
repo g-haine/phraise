@@ -5,7 +5,8 @@ date: 2021-07-13 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-adaptive-hamiltonian-pid-controller-to-solve-constant-power-load-stability-issue-in-dc-microgrid-control-of-a-fuel-cell-converter
 year: 2021
 authors: Phatiphat Thounthong
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

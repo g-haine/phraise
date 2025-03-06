@@ -5,7 +5,8 @@ date: 2011-09-28 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-systems-with-memory
 year: 2012
 authors: Dimitri Jeltsema, Arnau Doria-Cerezo
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2010-02-02 00:00:00 +0100
 permalink: time-varying-path-following-control-for-port-hamiltonian-systems
 year: 2009
 authors: Mitsuru Taniguchi, Kenji Fujimoto
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

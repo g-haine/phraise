@@ -5,7 +5,8 @@ date: 2020-03-04 00:00:00 +0100
 permalink: a-family-of-virtual-contraction-based-controllers-for-tracking-of-flexible-joints-port-hamiltonian-robots-theory-and-experiments
 year: 2020
 authors: Rodolfo Reyes‐Báez, Arjan van der Schaft, Bayu Jayawardhana, Le Pan
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

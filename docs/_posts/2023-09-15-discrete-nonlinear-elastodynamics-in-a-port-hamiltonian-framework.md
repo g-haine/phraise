@@ -5,7 +5,8 @@ date: 2023-09-15 00:00:00 +0100
 permalink: discrete-nonlinear-elastodynamics-in-a-port-hamiltonian-framework
 year: 2023
 authors: Philipp L. Kinon, Tobias Thoma, Peter Betsch, Paul Kotyczka
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-10-04 00:00:00 +0100
 permalink: port-hamiltonian-control-of-gfm-vscs-with-robust-stable-and-uniform-error-dynamics
 year: 2023
 authors: Duo Wang
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2021-07-01 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-the-vocal-folds-using-bond-graph-representation
 year: 2021
 authors: Javier G. Fontanet, Juan I. Yuz, Javier A. Torres, Marco A. Gordon, Hector Ramirez
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

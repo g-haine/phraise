@@ -5,7 +5,8 @@ date: 2019-08-05 00:00:00 +0100
 permalink: matched-disturbance-rejection-for-a-class-of-nonlinear-systems
 year: 2020
 authors: Joel Ferguson, Alejandro Donaire, Romeo Ortega, Richard H. Middleton
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

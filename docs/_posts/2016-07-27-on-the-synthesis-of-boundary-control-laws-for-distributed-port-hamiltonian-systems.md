@@ -5,7 +5,8 @@ date: 2016-07-27 00:00:00 +0100
 permalink: on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems
 year: 2017
 authors: Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez, Hans Zwart
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

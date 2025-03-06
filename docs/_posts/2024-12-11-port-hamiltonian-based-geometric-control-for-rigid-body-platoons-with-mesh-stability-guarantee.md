@@ -5,7 +5,8 @@ date: 2024-12-11 00:00:00 +0100
 permalink: port-hamiltonian-based-geometric-control-for-rigid-body-platoons-with-mesh-stability-guarantee
 year: 2024
 authors: Zihao Song, Panos J. Antsaklis, Hai Lin
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

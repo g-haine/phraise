@@ -5,7 +5,8 @@ date: 2021-06-17 00:00:00 +0100
 permalink: numerical-approximation-of-port-hamiltonian-systems-for-hyperbolic-or-parabolic-pdes-with-boundary-control
 year: 2021
 authors: Andrea Brugnoli, Ghislain Haine, Anass Serhani, Xavier Vasseur
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

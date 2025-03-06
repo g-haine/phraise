@@ -5,7 +5,8 @@ date: 2002-09-18 00:00:00 +0100
 permalink: existence-of-solutions-to-the-hamilton-jacobi-bellman-equation-under-quadratic-growth-conditions
 year: 2001
 authors: Kazufumi Ito
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

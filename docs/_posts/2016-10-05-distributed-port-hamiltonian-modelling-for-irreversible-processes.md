@@ -5,7 +5,8 @@ date: 2016-10-05 00:00:00 +0100
 permalink: distributed-port-hamiltonian-modelling-for-irreversible-processes
 year: 2017
 authors: W. Zhou, B. Hamroun, F. Couenne, Y. Le Gorrec
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

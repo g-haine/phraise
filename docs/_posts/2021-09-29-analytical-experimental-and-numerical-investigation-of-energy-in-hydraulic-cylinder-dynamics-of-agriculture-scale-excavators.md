@@ -5,7 +5,8 @@ date: 2021-09-29 00:00:00 +0100
 permalink: analytical-experimental-and-numerical-investigation-of-energy-in-hydraulic-cylinder-dynamics-of-agriculture-scale-excavators
 year: 2021
 authors: Ryo Arai, Satoru Sakai, Akihiro Tatsuoka, Qin Zhang
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

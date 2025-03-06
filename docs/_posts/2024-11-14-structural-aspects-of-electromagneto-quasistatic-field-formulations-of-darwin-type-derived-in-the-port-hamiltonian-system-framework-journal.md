@@ -5,7 +5,8 @@ date: 2024-11-14 00:00:00 +0100
 permalink: structural-aspects-of-electromagneto-quasistatic-field-formulations-of-darwin-type-derived-in-the-port-hamiltonian-system-framework-journal
 year: 2025
 authors: Markus Clemens, Marvin-Lucas Henkel, Fotios Kasolis, Michael Günther
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

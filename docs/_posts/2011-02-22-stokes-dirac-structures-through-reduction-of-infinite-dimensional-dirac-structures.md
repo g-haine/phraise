@@ -5,7 +5,8 @@ date: 2011-02-22 00:00:00 +0100
 permalink: stokes-dirac-structures-through-reduction-of-infinite-dimensional-dirac-structures
 year: 2010
 authors: Joris Vankerschaver, Hiroaki Yoshimura, Melvin Leok, Jerrold E. Marsden
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

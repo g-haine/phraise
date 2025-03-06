@@ -5,7 +5,8 @@ date: 2009-01-05 00:00:00 +0100
 permalink: control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems
 year: 2008
 authors: Romeo Ortega, Arjan van der Schaft, Fernando Castanos, Alessandro Astolfi
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2004-12-29 00:00:00 +0100
 permalink: control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam
 year: 2004
 authors: Alessandro Macchelli, Claudio Melchiorri
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

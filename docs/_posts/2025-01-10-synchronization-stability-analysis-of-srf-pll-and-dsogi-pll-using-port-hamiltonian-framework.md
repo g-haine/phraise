@@ -5,7 +5,8 @@ date: 2025-01-10 00:00:00 +0100
 permalink: synchronization-stability-analysis-of-srf-pll-and-dsogi-pll-using-port-hamiltonian-framework
 year: 2025
 authors: Sai Sowmya Nagam, Bikash C. Pal, Heng Wu, Frede Blaabjerg
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

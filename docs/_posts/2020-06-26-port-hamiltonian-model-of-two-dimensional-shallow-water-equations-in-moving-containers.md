@@ -5,7 +5,8 @@ date: 2020-06-26 00:00:00 +0100
 permalink: port-hamiltonian-model-of-two-dimensional-shallow-water-equations-in-moving-containers
 year: 2020
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

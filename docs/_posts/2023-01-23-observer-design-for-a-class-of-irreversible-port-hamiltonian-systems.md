@@ -5,7 +5,8 @@ date: 2023-01-23 00:00:00 +0100
 permalink: observer-design-for-a-class-of-irreversible-port-hamiltonian-systems
 year: 2023
 authors: Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

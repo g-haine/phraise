@@ -5,7 +5,8 @@ date: 2024-04-12 00:00:00 +0100
 permalink: stochastic-stabilization-based-on-kinetic-potential-energy-shaping-for-stochastic-mechanical-port-hamiltonian-systems
 year: 2024
 authors: Satoshi Satoh, Kenji Fujimoto
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

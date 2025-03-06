@@ -5,7 +5,8 @@ date: 2024-06-17 00:00:00 +0100
 permalink: cooperative-control-of-variable-damping-error-port-hamiltonian-and-backstepping-nonsingular-terminal-sliding-mode-control-for-manipulators-driven-by-pmsms
 year: 2024
 authors: Qingkun Guo, Haisheng Yu, Qing Yang, Xunkai Gao, Xiangxiang Meng
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2016-09-21 00:00:00 +0100
 permalink: distributed-and-backstepping-boundary-controls-for-port-hamiltonian-systems-with-symmetries
 year: 2017
 authors: Ngoc Minh Trang Vu, Laurent Lefèvre, Rémy Nouailletas
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

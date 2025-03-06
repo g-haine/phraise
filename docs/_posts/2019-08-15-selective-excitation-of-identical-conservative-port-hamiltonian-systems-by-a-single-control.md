@@ -5,7 +5,8 @@ date: 2019-08-15 00:00:00 +0100
 permalink: selective-excitation-of-identical-conservative-port-hamiltonian-systems-by-a-single-control
 year: 2019
 authors: Dmitry Gromov, Alexander L. Fradkov, Mikhail S. Ananyevskiy
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

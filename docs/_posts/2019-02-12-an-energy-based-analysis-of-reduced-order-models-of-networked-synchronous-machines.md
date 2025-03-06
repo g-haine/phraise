@@ -5,7 +5,8 @@ date: 2019-02-12 00:00:00 +0100
 permalink: an-energy-based-analysis-of-reduced-order-models-of-networked-synchronous-machines
 year: 2019
 authors: T. W. Stegink, C. De Persis, A. J. Van Der Schaft
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

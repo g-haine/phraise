@@ -5,7 +5,8 @@ date: 2022-12-09 00:00:00 +0100
 permalink: linear-matrix-inequality-design-of-exponentially-stabilizing-observer-based-state-feedback-port-hamiltonian-controllers
 year: 2023
 authors: Jesus Pablo Toledo Zucco, Hector Ramirez, Yongxin Wu, Yann Le Gorrec
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2024-01-19 00:00:00 +0100
 permalink: port-hamiltonian-control-design-for-an-ipmc-actuated-highly-flexible-endoscope
 year: 2023
 authors: Alessandro Macchelli, Yongxin Wu, Yann Le Gorrec
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

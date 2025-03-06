@@ -5,7 +5,8 @@ date: 2021-12-28 00:00:00 +0100
 permalink: extended-balancing-of-continuous-lti-systems-a-structure-preserving-approach
 year: 2023
 authors: Pablo Borja, Jacquelien M. A. Scherpen, Kenji Fujimoto
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

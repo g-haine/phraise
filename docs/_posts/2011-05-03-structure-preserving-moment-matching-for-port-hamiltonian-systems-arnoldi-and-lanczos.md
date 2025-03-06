@@ -5,7 +5,8 @@ date: 2011-05-03 00:00:00 +0100
 permalink: structure-preserving-moment-matching-for-port-hamiltonian-systems-arnoldi-and-lanczos
 year: 2011
 authors: Rostyslav V. Polyuga, Arjan van der Schaft
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

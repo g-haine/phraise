@@ -5,7 +5,8 @@ date: 2025-02-12 00:00:00 +0100
 permalink: position-feedback-integral-ida-pbc-for-constant-matched-and-unmatched-disturbances
 year: 2025
 authors: Enrico Franco, Mutaz Ryalat
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

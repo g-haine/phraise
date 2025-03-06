@@ -5,7 +5,8 @@ date: 2007-06-07 00:00:00 +0100
 permalink: port-hamiltonian-approaches-to-motion-generation-for-mechanical-systems
 year: 2007
 authors: Satoru Sakai, Stefano Stramigioli
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

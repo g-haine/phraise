@@ -5,7 +5,8 @@ date: 2021-02-28 00:00:00 +0100
 permalink: differentialgeometrische-beschreibung-und-analyse-tor-basierter-hamilton-scher-systeme
 year: 2015
 authors: Markus Schöberl
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

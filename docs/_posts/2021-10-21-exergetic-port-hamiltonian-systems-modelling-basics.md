@@ -5,7 +5,8 @@ date: 2021-10-21 00:00:00 +0100
 permalink: exergetic-port-hamiltonian-systems-modelling-basics
 year: 2021
 authors: Markus Lohmayer, Paul Kotyczka, Sigrid Leyendecker
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-10-04 00:00:00 +0100
 permalink: riemannian-geometric-nonlinear-conjugate-gradient-model-order-reduction-of-linear-port-hamiltonian-systems-on-finite-frequency-intervals
 year: 2024
 authors: Kang-Li Xu, Yao-Lin Jiang
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

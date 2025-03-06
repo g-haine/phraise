@@ -5,7 +5,8 @@ date: 2017-07-10 00:00:00 +0100
 permalink: the-ghost-operator-and-its-applications-to-reveal-the-physical-meaning-of-reactive-power-for-electrical-and-mechanical-systems-and-others
 year: 2017
 authors: Qing-Chang Zhong
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

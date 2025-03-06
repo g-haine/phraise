@@ -5,7 +5,8 @@ date: 2019-05-28 00:00:00 +0100
 permalink: well-posedness-and-stability-of-infinite-dimensional-linear-port-hamiltonian-systems-with-nonlinear-boundary-feedback
 year: 2019
 authors: Björn Augner
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

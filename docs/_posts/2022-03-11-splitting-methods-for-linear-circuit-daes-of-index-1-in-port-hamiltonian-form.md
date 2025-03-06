@@ -5,7 +5,8 @@ date: 2022-03-11 00:00:00 +0100
 permalink: splitting-methods-for-linear-circuit-daes-of-index-1-in-port-hamiltonian-form
 year: 2021
 authors: Malak Diab, Caren Tischendorf
-category: chapters
+category:
+  - chapters
 ---
  
 ## Authors

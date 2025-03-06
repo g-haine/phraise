@@ -5,7 +5,8 @@ date: 2024-02-28 00:00:00 +0100
 permalink: effective-numerical-simulations-of-synchronous-generator-system
 year: 2024
 authors: Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

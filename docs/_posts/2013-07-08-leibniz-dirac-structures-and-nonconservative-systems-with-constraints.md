@@ -5,7 +5,8 @@ date: 2013-07-08 00:00:00 +0100
 permalink: leibniz-dirac-structures-and-nonconservative-systems-with-constraints
 year: 2013
 authors: Ünver Çiftçi
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

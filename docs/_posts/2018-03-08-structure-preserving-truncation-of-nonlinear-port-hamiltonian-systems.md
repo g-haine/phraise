@@ -5,7 +5,8 @@ date: 2018-03-08 00:00:00 +0100
 permalink: structure-preserving-truncation-of-nonlinear-port-hamiltonian-systems
 year: 2018
 authors: Yu Kawano, Jacquelien M.A. Scherpen
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

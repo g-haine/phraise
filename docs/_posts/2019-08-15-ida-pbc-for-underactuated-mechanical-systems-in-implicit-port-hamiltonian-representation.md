@@ -5,7 +5,8 @@ date: 2019-08-15 00:00:00 +0100
 permalink: ida-pbc-for-underactuated-mechanical-systems-in-implicit-port-hamiltonian-representation
 year: 2019
 authors: Oscar B. Cieza, Johann Reger
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

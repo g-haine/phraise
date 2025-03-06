@@ -5,7 +5,8 @@ date: 2013-10-21 00:00:00 +0100
 permalink: a-port-hamiltonian-finite-element-formulation-for-the-maxwell-equations
 year: 2013
 authors: O. Farle, D. Klis, M. Jochum, O. Floch, R. Dyczij-Edlinger
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

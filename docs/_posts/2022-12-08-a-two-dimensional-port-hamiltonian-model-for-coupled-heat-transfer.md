@@ -5,7 +5,8 @@ date: 2022-12-08 00:00:00 +0100
 permalink: a-two-dimensional-port-hamiltonian-model-for-coupled-heat-transfer
 year: 2022
 authors: Jens Jäschke, Matthias Ehrhardt, Michael Günther, Birgit Jacob
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

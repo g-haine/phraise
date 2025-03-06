@@ -5,7 +5,8 @@ date: 2018-05-28 00:00:00 +0100
 permalink: a-higher-order-stokes-dirac-structure-for-distributed-parameter-port-hamiltonian-systems
 year: 2004
 authors: G. Nishida, M. Yamakita
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

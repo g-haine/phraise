@@ -5,7 +5,8 @@ date: 2021-10-21 00:00:00 +0100
 permalink: port-hamiltonian-mathematical-model-of-a-fluid-ring-attitude-system
 year: 2021
 authors: Juan Cristobal Alcaraz Tapia, Carlos E. Castañeda, Héctor Vargas-Rodríguez
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

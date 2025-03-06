@@ -5,7 +5,8 @@ date: 2023-06-28 00:00:00 +0100
 permalink: a-passivity-based-integral-sliding-mode-controller-for-mechanical-port-hamiltonian-systems
 year: 2023
 authors: Takahiro Baba, Kenji Fujimoto, Ichiro Maruta
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

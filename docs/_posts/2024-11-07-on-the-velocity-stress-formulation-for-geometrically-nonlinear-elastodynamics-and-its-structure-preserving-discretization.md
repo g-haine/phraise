@@ -5,7 +5,8 @@ date: 2024-11-07 00:00:00 +0100
 permalink: on-the-velocity-stress-formulation-for-geometrically-nonlinear-elastodynamics-and-its-structure-preserving-discretization
 year: 2024
 authors: Tobias Thoma, Paul Kotyczka, Herbert Egger
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

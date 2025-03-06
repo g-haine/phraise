@@ -5,7 +5,8 @@ date: 2019-12-06 00:00:00 +0100
 permalink: pbc-design-for-voltage-regulation-in-buck-converters-with-parametric-uncertainties
 year: 2019
 authors: Oscar Danilo Montoya, J. L. Villa, Walter Gil-Gonzale
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2017-07-10 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-2d-hyperbolic-systems-using-staggered-grids-finite-difference
 year: 2017
 authors: Vincent Trenchant, Hector Ramirez, Yann Le Gorrec, Paul Kotyczka
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

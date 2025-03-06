@@ -5,7 +5,8 @@ date: 2019-08-15 00:00:00 +0100
 permalink: tracking-control-of-marine-craft-in-the-port-hamiltonian-framework-a-virtual-differential-passivity-approach
 year: 2019
 authors: Rodolfo Reyes-Baez, Arjan van der Schaft, Bayu Jayawardhana, Alejandro Donaire, Tristan Perez
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

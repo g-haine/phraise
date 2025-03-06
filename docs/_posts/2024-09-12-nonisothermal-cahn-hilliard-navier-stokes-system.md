@@ -5,7 +5,8 @@ date: 2024-09-12 00:00:00 +0100
 permalink: nonisothermal-cahn-hilliard-navier-stokes-system
 year: 2024
 authors: Aaron Brunk, Dennis Schumann
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

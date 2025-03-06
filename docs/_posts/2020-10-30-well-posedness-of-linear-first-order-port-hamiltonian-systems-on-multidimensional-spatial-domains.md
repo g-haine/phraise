@@ -5,7 +5,8 @@ date: 2020-10-30 00:00:00 +0100
 permalink: well-posedness-of-linear-first-order-port-hamiltonian-systems-on-multidimensional-spatial-domains
 year: 2021
 authors: Nathanael Skrepek
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

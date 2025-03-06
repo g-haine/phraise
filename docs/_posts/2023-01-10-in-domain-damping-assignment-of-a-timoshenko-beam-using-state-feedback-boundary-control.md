@@ -5,7 +5,8 @@ date: 2023-01-10 00:00:00 +0100
 permalink: in-domain-damping-assignment-of-a-timoshenko-beam-using-state-feedback-boundary-control
 year: 2022
 authors: Jeanne Redaud, Jean Auriol, Yann Le Gorrec
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

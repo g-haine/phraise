@@ -5,7 +5,8 @@ date: 2023-05-19 00:00:00 +0100
 permalink: infinite-dimensional-observers-for-high-order-boundary-controlled-port-hamiltonian-systems
 year: 2023
 authors: Jesus-Pablo Toledo-Zucco, Yongxin Wu, Hector Ramirez, Yann Le Gorrec
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

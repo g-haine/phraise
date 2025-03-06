@@ -5,7 +5,8 @@ date: 2022-11-25 00:00:00 +0100
 permalink: discrete-port-hamiltonian-coupled-heat-transfer
 year: 2022
 authors: Jens Jäschke, Matthias Ehrhardt, Michael Günther, Birgit Jacob
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

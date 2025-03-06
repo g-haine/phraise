@@ -5,7 +5,8 @@ date: 2014-05-17 00:00:00 +0100
 permalink: a-port-scp-h-scp-amiltonian-approach-to-visual-servo-control-of-a-pick-and-place-system
 year: 2014
 authors: Daniel A. Dirksz, Jacquelien M.A. Scherpen, Maarten Steinbuch
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

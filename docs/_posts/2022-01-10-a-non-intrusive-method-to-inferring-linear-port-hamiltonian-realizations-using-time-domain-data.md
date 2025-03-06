@@ -5,7 +5,8 @@ date: 2022-01-10 00:00:00 +0100
 permalink: a-non-intrusive-method-to-inferring-linear-port-hamiltonian-realizations-using-time-domain-data
 year: 2022
 authors: Karim Cherifi, Pawan Goyal, Peter Benner
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

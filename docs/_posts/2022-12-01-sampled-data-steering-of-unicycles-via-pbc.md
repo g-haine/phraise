@@ -5,7 +5,8 @@ date: 2022-12-01 00:00:00 +0100
 permalink: sampled-data-steering-of-unicycles-via-pbc
 year: 2023
 authors: Mattia Mattioni, Alessio Moreschini, Salvatore Monaco, Dorothee Normand-Cyrot
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2018-11-26 00:00:00 +0100
 permalink: an-improvement-of-port-hamiltonian-model-of-fluid-sloshing-coupled-by-structure-motion
 year: 2018
 authors: Mohammad Yaghoub Abdollahzadeh Jamalabadi
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

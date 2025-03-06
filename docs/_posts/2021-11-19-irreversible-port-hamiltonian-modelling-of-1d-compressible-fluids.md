@@ -5,7 +5,8 @@ date: 2021-11-19 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-modelling-of-1d-compressible-fluids
 year: 2021
 authors: Luis A. Mora, Yann Le Gorrec, Héctor Ramírez, Bernhard Maschke
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-07-12 00:00:00 +0100
 permalink: port-hamiltonian-dynamic-mode-decomposition
 year: 2023
 authors: Riccardo Morandin, Jonas Nicodemus, Benjamin Unger
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

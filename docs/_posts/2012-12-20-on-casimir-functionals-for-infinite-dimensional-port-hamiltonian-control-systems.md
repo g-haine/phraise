@@ -5,7 +5,8 @@ date: 2012-12-20 00:00:00 +0100
 permalink: on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems
 year: 2013
 authors: Markus Schoberl, Andreas Siuka
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

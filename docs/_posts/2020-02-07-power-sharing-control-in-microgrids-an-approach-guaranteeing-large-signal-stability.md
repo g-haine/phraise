@@ -5,7 +5,8 @@ date: 2020-02-07 00:00:00 +0100
 permalink: power-sharing-control-in-microgrids-an-approach-guaranteeing-large-signal-stability
 year: 2019
 authors: Marco Cupelli, Sriram Karthik Gurumurthy, Siddharth Bhanderi, Lisette Cupelli, Antonello Monti
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2016-11-18 00:00:00 +0100
 permalink: relative-energy-for-the-korteweg-theory-and-related-hamiltonian-flows-in-gas-dynamics
 year: 2017
 authors: Jan Giesselmann, Corrado Lattanzio, Athanasios E. Tzavaras
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

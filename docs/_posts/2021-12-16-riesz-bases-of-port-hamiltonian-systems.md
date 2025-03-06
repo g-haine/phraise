@@ -5,7 +5,8 @@ date: 2021-12-16 00:00:00 +0100
 permalink: riesz-bases-of-port-hamiltonian-systems
 year: 2021
 authors: Birgit Jacob, Julia T. Kaiser, Hans Zwart
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2019-10-16 00:00:00 +0100
 permalink: bond-graph-input-state-output-port-hamiltonian-formulation-of-memristive-networks-for-emulation-of-josephson-junction-circuits
 year: 2019
 authors: Israa Badr Nasser Al-Mashhadani, Sillas Hadjiloucas
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

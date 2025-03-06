@@ -5,7 +5,8 @@ date: 2016-12-04 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems
 year: 2017
 authors: Arjan van der Schaft
-category: chapters
+category:
+  - chapters
 ---
  
 ## Authors

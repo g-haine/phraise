@@ -5,7 +5,8 @@ date: 2017-03-01 00:00:00 +0100
 permalink: stabilization-of-input-disturbed-stochastic-port-hamiltonian-systems-via-passivity
 year: 2017
 authors: Zhou Fang, Chuanhou Gao
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2009-11-09 00:00:00 +0100
 permalink: port-hamiltonian-systems-an-introductory-survey
 year: 2007
 authors: Arjan van der Schaft
-category: chapters
+category:
+  - chapters
 ---
  
 ## Authors

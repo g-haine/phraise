@@ -5,7 +5,8 @@ date: 2016-10-26 00:00:00 +0100
 permalink: structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems
 year: 2016
 authors: S. Chaturantabut, C. Beattie, S. Gugercin
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

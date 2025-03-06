@@ -5,7 +5,8 @@ date: 2019-10-30 00:00:00 +0100
 permalink: structure-preserving-interval-limited-balanced-truncation-reduced-models-for-port-hamiltonian-systems
 year: 2020
 authors: Kangli Xu, Yaolin Jiang
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

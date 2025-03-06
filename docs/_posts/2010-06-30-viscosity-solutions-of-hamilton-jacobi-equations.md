@@ -5,7 +5,8 @@ date: 2010-06-30 00:00:00 +0100
 permalink: viscosity-solutions-of-hamilton-jacobi-equations
 year: 2010
 authors: Michael G. Crandall, Pierre-Louis Lions
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2016-09-26 00:00:00 +0100
 permalink: passive-guaranteed-simulation-of-analog-audio-circuits-a-port-hamiltonian-approach
 year: 2016
 authors: Antoine Falaize, Thomas Hélie
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

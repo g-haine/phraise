@@ -5,7 +5,8 @@ date: 2005-12-26 00:00:00 +0100
 permalink: dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators
 year: 2005
 authors: Y. Le Gorrec, H. Zwart, B. Maschke
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

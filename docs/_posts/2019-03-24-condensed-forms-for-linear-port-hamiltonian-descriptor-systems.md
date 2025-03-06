@@ -5,7 +5,8 @@ date: 2019-03-24 00:00:00 +0100
 permalink: condensed-forms-for-linear-port-hamiltonian-descriptor-systems
 year: 2019
 authors: Lena Scholz
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

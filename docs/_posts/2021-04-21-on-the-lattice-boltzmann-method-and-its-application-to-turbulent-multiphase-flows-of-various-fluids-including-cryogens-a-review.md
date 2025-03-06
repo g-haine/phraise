@@ -5,7 +5,8 @@ date: 2021-04-21 00:00:00 +0100
 permalink: on-the-lattice-boltzmann-method-and-its-application-to-turbulent-multiphase-flows-of-various-fluids-including-cryogens-a-review
 year: 2021
 authors: K. J. Petersen, J. R. Brinkerhoff
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

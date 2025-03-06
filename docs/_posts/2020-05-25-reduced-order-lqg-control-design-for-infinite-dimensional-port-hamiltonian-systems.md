@@ -5,7 +5,8 @@ date: 2020-05-25 00:00:00 +0100
 permalink: reduced-order-lqg-control-design-for-infinite-dimensional-port-hamiltonian-systems
 year: 2021
 authors: Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

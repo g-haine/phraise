@@ -5,7 +5,8 @@ date: 2023-06-06 00:00:00 +0100
 permalink: morph-model-reduction-of-linear-port-hamiltonian-systems-in-matlab
 year: 2023
 authors: Tim Moser, Julius Durmann, Maximilian Bonauer, Boris Lohmann
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

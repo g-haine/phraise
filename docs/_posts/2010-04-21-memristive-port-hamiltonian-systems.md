@@ -5,7 +5,8 @@ date: 2010-04-21 00:00:00 +0100
 permalink: memristive-port-hamiltonian-systems
 year: 2010
 authors: Dimitri Jeltsema, Arjan J. van der Schaft
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

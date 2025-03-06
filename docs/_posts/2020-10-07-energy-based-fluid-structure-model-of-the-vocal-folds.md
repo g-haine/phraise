@@ -5,7 +5,8 @@ date: 2020-10-07 00:00:00 +0100
 permalink: energy-based-fluid-structure-model-of-the-vocal-folds
 year: 2021
 authors: Luis A Mora, Hector Ramirez, Juan I Yuz, Yann Le Gorec, Matías Zañartu
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

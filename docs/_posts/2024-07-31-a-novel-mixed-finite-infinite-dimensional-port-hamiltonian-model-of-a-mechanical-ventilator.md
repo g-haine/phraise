@@ -5,7 +5,8 @@ date: 2024-07-31 00:00:00 +0100
 permalink: a-novel-mixed-finite-infinite-dimensional-port-hamiltonian-model-of-a-mechanical-ventilator
 year: 2024
 authors: Milka C. I. Madahana, John E. D. Ekoru, Otis T. C. Nyandoro
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

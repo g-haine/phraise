@@ -5,7 +5,8 @@ date: 2019-05-15 00:00:00 +0100
 permalink: on-exact-controllability-of-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2019
 authors: Birgit Jacob, Julia T. Kaiser
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

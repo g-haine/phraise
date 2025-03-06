@@ -5,7 +5,8 @@ date: 2007-08-16 00:00:00 +0100
 permalink: port-based-modeling-of-a-flexible-link
 year: 2007
 authors: A. Macchelli, C. Melchiorri, S. Stramigioli
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-10-31 00:00:00 +0100
 permalink: stability-of-transient-coupled-multi-model-discrete-electromagnetic-field-formulations-using-the-port-hamiltonian-system-framework
 year: 2023
 authors: Markus Clemens, Michael Günther
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

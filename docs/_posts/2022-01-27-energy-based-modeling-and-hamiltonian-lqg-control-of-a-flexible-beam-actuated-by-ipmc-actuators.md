@@ -5,7 +5,8 @@ date: 2022-01-27 00:00:00 +0100
 permalink: energy-based-modeling-and-hamiltonian-lqg-control-of-a-flexible-beam-actuated-by-ipmc-actuators
 year: 2022
 authors: Weijun Zhou, Ning Liu, Yongxin Wu, Hector Ramirez, Yann Le Gorrec
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

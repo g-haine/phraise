@@ -5,7 +5,8 @@ date: 2009-03-19 00:00:00 +0100
 permalink: port-based-modelling-of-mass-transport-phenomena
 year: 2009
 authors: A. Baaiu, F. Couenne, D. Eberard, C. Jallut, L. Lefevre, Y. Legorrec, B. Maschke
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

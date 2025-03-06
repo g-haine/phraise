@@ -5,7 +5,8 @@ date: 2015-12-10 00:00:00 +0100
 permalink: formation-control-and-velocity-tracking-for-a-group-of-nonholonomic-wheeled-robots
 year: 2016
 authors: Ewoud Vos, Arjan J. van der Schaft, Jacquelien M. A. Scherpen
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

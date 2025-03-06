@@ -5,7 +5,8 @@ date: 2002-10-17 00:00:00 +0100
 permalink: lie-poisson-hamilton-jacobi-theory-and-lie-poisson-integrators
 year: 1988
 authors: Ge Zhong, Jerrold E. Marsden
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

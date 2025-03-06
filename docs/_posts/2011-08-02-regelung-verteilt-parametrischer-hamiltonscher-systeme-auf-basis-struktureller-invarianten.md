@@ -5,7 +5,8 @@ date: 2011-08-02 00:00:00 +0100
 permalink: regelung-verteilt-parametrischer-hamiltonscher-systeme-auf-basis-struktureller-invarianten
 year: 2011
 authors: Andreas Siuka, Markus Schöberl, Karl Rieger, Kurt Schlacher
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

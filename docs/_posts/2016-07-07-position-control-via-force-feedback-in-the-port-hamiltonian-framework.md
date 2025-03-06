@@ -5,7 +5,8 @@ date: 2016-07-07 00:00:00 +0100
 permalink: position-control-via-force-feedback-in-the-port-hamiltonian-framework
 year: 2017
 authors: Mauricio Muñoz-Arias, Jacquelien M. A. Scherpen, Daniel A. Dirksz
-category: chapters
+category:
+  - chapters
 ---
  
 ## Authors

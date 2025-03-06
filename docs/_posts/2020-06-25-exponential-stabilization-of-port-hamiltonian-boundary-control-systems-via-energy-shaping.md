@@ -5,7 +5,8 @@ date: 2020-06-25 00:00:00 +0100
 permalink: exponential-stabilization-of-port-hamiltonian-boundary-control-systems-via-energy-shaping
 year: 2020
 authors: Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

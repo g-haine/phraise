@@ -5,7 +5,8 @@ date: 2021-09-22 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-thermofluid-systems-and-object-oriented-implementation-with-modelica-i-thermodynamic-part
 year: 2021
 authors: Francisco M. Marquez, Pedro J. Zufiria, Luis J. Yebra
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

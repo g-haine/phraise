@@ -5,7 +5,8 @@ date: 2024-08-23 00:00:00 +0100
 permalink: abstract-dissipative-hamiltonian-differential-algebraic-equations-are-everywhere
 year: 2024
 authors: Hans Zwart, Volker Mehrmann
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

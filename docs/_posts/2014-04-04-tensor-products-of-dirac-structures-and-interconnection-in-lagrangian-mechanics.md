@@ -5,7 +5,8 @@ date: 2014-04-04 00:00:00 +0100
 permalink: tensor-products-of-dirac-structures-and-interconnection-in-lagrangian-mechanics
 year: 2014
 authors: Henry O. Jacobs, Hiroaki Yoshimura
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

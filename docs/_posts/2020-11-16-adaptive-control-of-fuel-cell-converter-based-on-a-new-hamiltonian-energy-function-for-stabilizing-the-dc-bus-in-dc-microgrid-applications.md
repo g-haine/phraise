@@ -5,7 +5,8 @@ date: 2020-11-16 00:00:00 +0100
 permalink: adaptive-control-of-fuel-cell-converter-based-on-a-new-hamiltonian-energy-function-for-stabilizing-the-dc-bus-in-dc-microgrid-applications
 year: 2020
 authors: Phatiphat Thounthong, Pongsiri Mungporn, Serge Pierfederici, Damien Guilbert, Nicu Bizon
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

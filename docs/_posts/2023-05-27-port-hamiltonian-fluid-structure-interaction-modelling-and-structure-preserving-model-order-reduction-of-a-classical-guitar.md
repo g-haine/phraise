@@ -5,7 +5,8 @@ date: 2023-05-27 00:00:00 +0100
 permalink: port-hamiltonian-fluid-structure-interaction-modelling-and-structure-preserving-model-order-reduction-of-a-classical-guitar
 year: 2023
 authors: Johannes Rettberg, Dominik Wittwar, Patrick Buchfink, Alexander Brauchler, Pascal Ziegler, Jörg Fehr, Bernard Haasdonk
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2016-12-23 00:00:00 +0100
 permalink: model-reduction-of-a-flexible-joint-robot-a-port-hamiltonian-approach
 year: 2016
 authors: H. Jardón-Kojakhmetov, M. Muñoz-Arias, Jacquelien M.A. Scherpen
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-03-14 00:00:00 +0100
 permalink: passivity-port-hamiltonian-formulation-and-solution-estimates-for-a-coupled-magneto-quasistatic-system
 year: 2023
 authors: Timo Reis, Tatjana Stykel
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2008-08-04 00:00:00 +0100
 permalink: transparency-in-port-hamiltonian-based-telemanipulation
 year: 2008
 authors: C. Secchi, S. Stramigioli, C. Fantuzzi
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

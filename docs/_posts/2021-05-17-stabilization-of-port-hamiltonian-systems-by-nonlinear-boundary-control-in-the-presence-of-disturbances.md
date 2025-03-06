@@ -5,7 +5,8 @@ date: 2021-05-17 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-systems-by-nonlinear-boundary-control-in-the-presence-of-disturbances
 year: 2021
 authors: Jochen Schmid, Hans Zwart
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2016-01-16 00:00:00 +0100
 permalink: disturbance-rejection-in-formation-keeping-control-of-nonholonomic-wheeled-robots
 year: 2016
 authors: Matin Jafarian, Ewoud Vos, Claudio De Persis, Jacquelien Scherpen, Arjan van der Schaft
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

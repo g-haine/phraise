@@ -5,7 +5,8 @@ date: 2012-04-11 00:00:00 +0100
 permalink: structure-preserving-adaptive-control-of-port-hamiltonian-systems
 year: 2012
 authors: Daniel A. Dirksz, Jacquelien M. A. Scherpen
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

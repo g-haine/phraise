@@ -5,7 +5,8 @@ date: 2019-02-01 00:00:00 +0100
 permalink: physics-based-control-education-energy-dissipation-and-structure-assignments
 year: 2019
 authors: Chang Liu, Lu Dong
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

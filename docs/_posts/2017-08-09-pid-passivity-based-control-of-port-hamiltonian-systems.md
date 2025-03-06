@@ -5,7 +5,8 @@ date: 2017-08-09 00:00:00 +0100
 permalink: pid-passivity-based-control-of-port-hamiltonian-systems
 year: 2018
 authors: Meng Zhang, Pablo Borja, Romeo Ortega, Zhitao Liu, Hongye Su
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2021-10-15 00:00:00 +0100
 permalink: model-order-reduction-of-rlc-circuit-system-modeled-by-port-hamiltonian-structure
 year: 2022
 authors: Yao Huang, Yao-Lin Jiang, Kang-Li Xu
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

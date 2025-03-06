@@ -5,7 +5,8 @@ date: 2023-06-29 00:00:00 +0100
 permalink: adaptive-path-tracking-control-with-passivity-based-observer-by-port-hamiltonian-model-for-autonomous-vehicles
 year: 2023
 authors: Yan Ma, Liang He, Ting Song, Danwei Wang
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-05-01 00:00:00 +0100
 permalink: a-case-study-of-port-hamiltonian-systems-with-a-moving-interface
 year: 2023
 authors: Alexander Kilian, Bernhard Maschke, Andrii Mironchenko, Fabian Wirth
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

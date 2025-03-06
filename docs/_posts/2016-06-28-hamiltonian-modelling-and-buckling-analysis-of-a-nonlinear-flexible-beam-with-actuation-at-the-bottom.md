@@ -5,7 +5,8 @@ date: 2016-06-28 00:00:00 +0100
 permalink: hamiltonian-modelling-and-buckling-analysis-of-a-nonlinear-flexible-beam-with-actuation-at-the-bottom
 year: 2016
 authors: Megha V. Trivedi, Ravi N. Banavar, Paul Kotyczka
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

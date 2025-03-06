@@ -5,7 +5,8 @@ date: 2024-03-26 00:00:00 +0100
 permalink: modeling-of-a-six-bar-tensegrity-robot-using-the-port-hamiltonian-framework-and-experimental-validation
 year: 2024
 authors: Songyuan Liu, Qingkai Yang, Jingshuo Lv, Hao Fang
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

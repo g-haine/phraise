@@ -5,7 +5,8 @@ date: 2024-05-17 00:00:00 +0100
 permalink: passivity-based-control-with-disturbance-observer-of-electromagnetic-formation-flight-spacecraft-in-the-port-hamiltonian-framework
 year: 2024
 authors: Jiaming Wang, Qingrui Zhou, Wei Zheng, Jiang Shao
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2023-03-17 00:00:00 +0100
 permalink: multi-scale-description-of-pedestrian-collective-dynamics-with-port-hamiltonian-systems
 year: 2023
 authors: Antoine Tordeux, Claudia Totzeck
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

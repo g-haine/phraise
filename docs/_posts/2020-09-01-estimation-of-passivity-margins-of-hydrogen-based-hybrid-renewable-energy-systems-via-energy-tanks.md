@@ -5,7 +5,8 @@ date: 2020-09-01 00:00:00 +0100
 permalink: estimation-of-passivity-margins-of-hydrogen-based-hybrid-renewable-energy-systems-via-energy-tanks
 year: 2020
 authors: Solene Houria Chaabna, Jean-Yves Dieulot, Sumit Sood
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

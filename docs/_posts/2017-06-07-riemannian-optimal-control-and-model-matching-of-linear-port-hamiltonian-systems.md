@@ -5,7 +5,8 @@ date: 2017-06-07 00:00:00 +0100
 permalink: riemannian-optimal-control-and-model-matching-of-linear-port-hamiltonian-systems
 year: 2017
 authors: Kazuhiro Sato
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

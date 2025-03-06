@@ -5,7 +5,8 @@ date: 2024-02-29 00:00:00 +0100
 permalink: passivity-based-sliding-mode-control-for-mechanical-port-hamiltonian-systems
 year: 2024
 authors: Naoki Sakata, Kenji Fujimoto, Ichiro Maruta
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

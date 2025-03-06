@@ -5,7 +5,8 @@ date: 2024-06-28 00:00:00 +0100
 permalink: stability-analysis-of-a-stochastic-port-hamiltonian-car-following-model
 year: 2024
 authors: Barbara Rüdiger, Antoine Tordeux, Baris E Ugurcan
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

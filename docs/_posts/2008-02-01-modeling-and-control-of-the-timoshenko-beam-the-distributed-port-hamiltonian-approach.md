@@ -5,7 +5,8 @@ date: 2008-02-01 00:00:00 +0100
 permalink: modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach
 year: 2004
 authors: Alessandro Macchelli, Claudio Melchiorri
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

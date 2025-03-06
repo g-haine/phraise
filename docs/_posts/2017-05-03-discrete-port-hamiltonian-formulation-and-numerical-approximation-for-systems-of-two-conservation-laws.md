@@ -5,7 +5,8 @@ date: 2017-05-03 00:00:00 +0100
 permalink: discrete-port-hamiltonian-formulation-and-numerical-approximation-for-systems-of-two-conservation-laws
 year: 2017
 authors: Paul Kotyczka, Bernhard Maschke
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

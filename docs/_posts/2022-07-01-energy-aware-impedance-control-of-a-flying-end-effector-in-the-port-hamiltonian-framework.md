@@ -5,7 +5,8 @@ date: 2022-07-01 00:00:00 +0100
 permalink: energy-aware-impedance-control-of-a-flying-end-effector-in-the-port-hamiltonian-framework
 year: 2022
 authors: Ramy Rashad, Davide Bicego, Jelle Zult, Santiago Sanchez-Escalonilla, Ran Jiao, Antonio Franchi, Stefano Stramigioli
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

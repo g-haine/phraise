@@ -5,7 +5,8 @@ date: 2005-12-10 00:00:00 +0100
 permalink: power-scaling-in-port-hamiltonian-based-telemanipulation
 year: 2005
 authors: C. Secchi, S. Straimgioli, C. Fantuzzi
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

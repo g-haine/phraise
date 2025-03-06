@@ -5,7 +5,8 @@ date: 2020-10-02 00:00:00 +0100
 permalink: structure-preserving-discretization-and-control-of-a-two-dimensional-vibro-acoustic-tube
 year: 2021
 authors: Ning Liu, Yongxin Wu, Yann Le Gorrec, Hector Ramirez, Laurent Lefèvre
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

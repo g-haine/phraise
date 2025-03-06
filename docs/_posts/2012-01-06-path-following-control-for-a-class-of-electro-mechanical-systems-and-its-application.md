@@ -5,7 +5,8 @@ date: 2012-01-06 00:00:00 +0100
 permalink: path-following-control-for-a-class-of-electro-mechanical-systems-and-its-application
 year: 2012
 authors: Mitsuru Taniguchi, Kenji Fujimoto
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

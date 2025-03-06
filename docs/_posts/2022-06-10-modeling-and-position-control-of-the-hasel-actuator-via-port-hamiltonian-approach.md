@@ -5,7 +5,8 @@ date: 2022-06-10 00:00:00 +0100
 permalink: modeling-and-position-control-of-the-hasel-actuator-via-port-hamiltonian-approach
 year: 2022
 authors: Yu Yeh, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

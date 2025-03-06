@@ -5,7 +5,8 @@ date: 2018-04-17 00:00:00 +0100
 permalink: finding-the-nearest-positive-real-system
 year: 2018
 authors: Nicolas Gillis, Punit Sharma
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

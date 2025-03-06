@@ -5,7 +5,8 @@ date: 2023-07-17 00:00:00 +0100
 permalink: port-hamiltonian-systems-theory-and-monotonicity
 year: 2023
 authors: M. K. Camlibel, A. J. van der Schaft
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

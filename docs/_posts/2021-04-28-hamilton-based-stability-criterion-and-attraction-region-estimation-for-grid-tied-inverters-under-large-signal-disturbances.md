@@ -5,7 +5,8 @@ date: 2021-04-28 00:00:00 +0100
 permalink: hamilton-based-stability-criterion-and-attraction-region-estimation-for-grid-tied-inverters-under-large-signal-disturbances
 year: 2022
 authors: Zhen Tian, Yingjie Tang, Xiaoming Zha, Jianjun Sun, Meng Huang, Xikun Fu, Fei Liu
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2024-07-15 00:00:00 +0100
 permalink: port-hamiltonian-neural-ode-networks-on-lie-groups-for-robot-dynamics-learning-and-control
 year: 2024
 authors: Thai Duong, Abdullah Altawaitan, Jason Stanley, Nikolay Atanasov
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

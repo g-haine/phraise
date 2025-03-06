@@ -5,7 +5,8 @@ date: 2020-02-03 00:00:00 +0100
 permalink: energy-based-model-of-a-solar-powered-pumped-hydro-storage-system
 year: 2019
 authors: Hayden Phillips-Brenes, Roberto Pereira-Arroyo, Mauricio Munoz-Arias
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

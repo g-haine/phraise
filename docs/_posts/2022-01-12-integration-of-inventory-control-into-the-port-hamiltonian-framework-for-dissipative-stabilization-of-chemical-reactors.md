@@ -5,7 +5,8 @@ date: 2022-01-12 00:00:00 +0100
 permalink: integration-of-inventory-control-into-the-port-hamiltonian-framework-for-dissipative-stabilization-of-chemical-reactors
 year: 2022
 authors: N. Ha Hoang, B. Erik Ydstie
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

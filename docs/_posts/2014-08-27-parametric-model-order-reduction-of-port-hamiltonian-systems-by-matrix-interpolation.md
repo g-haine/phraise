@@ -5,7 +5,8 @@ date: 2014-08-27 00:00:00 +0100
 permalink: parametric-model-order-reduction-of-port-hamiltonian-systems-by-matrix-interpolation
 year: 2014
 authors: Markus Giftthaler, Thomas Wolf, Heiko K. F. Panzer, Boris Lohmann
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

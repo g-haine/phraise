@@ -5,7 +5,8 @@ date: 2024-11-05 00:00:00 +0100
 permalink: stability-and-passivity-for-a-class-of-distributed-port-hamiltonian-networks
 year: 2024
 authors: Hannes Gernandt, Dorothea Hinsen
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

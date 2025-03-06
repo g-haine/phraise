@@ -5,7 +5,8 @@ date: 2020-06-08 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-multiphysics-systems-and-object-oriented-implementation-with-the-modelica-language
 year: 2020
 authors: Francisco M. Marquez, Pedro J. Zufiria, Luis J. Yebra
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

@@ -5,7 +5,8 @@ date: 2020-07-27 00:00:00 +0100
 permalink: learning-physical-laws-the-case-of-micron-size-particles-in-dielectric-fluid
 year: 2020
 authors: Ion Matei, Maksym Zhenirovskyy, Johan de Kleer, Christoforos Somarakis, John S. Baras
-category: proceedings
+category:
+  - proceedings
 ---
  
 ## Authors

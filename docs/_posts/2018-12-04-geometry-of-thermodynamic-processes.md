@@ -5,7 +5,8 @@ date: 2018-12-04 00:00:00 +0100
 permalink: geometry-of-thermodynamic-processes
 year: 2018
 authors: Arjan Van der Schaft, Bernhard Maschke
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

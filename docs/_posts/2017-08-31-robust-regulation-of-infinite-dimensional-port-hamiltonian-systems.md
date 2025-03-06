@@ -5,7 +5,8 @@ date: 2017-08-31 00:00:00 +0100
 permalink: robust-regulation-of-infinite-dimensional-port-hamiltonian-systems
 year: 2018
 authors: Jukka-Pekka Humaloja, Lassi Paunonen
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

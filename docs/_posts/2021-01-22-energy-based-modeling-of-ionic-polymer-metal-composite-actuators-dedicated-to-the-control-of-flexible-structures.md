@@ -5,7 +5,8 @@ date: 2021-01-22 00:00:00 +0100
 permalink: energy-based-modeling-of-ionic-polymer-metal-composite-actuators-dedicated-to-the-control-of-flexible-structures
 year: 2021
 authors: Ning Liu, Yongxin Wu, Yann Le Gorrec
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

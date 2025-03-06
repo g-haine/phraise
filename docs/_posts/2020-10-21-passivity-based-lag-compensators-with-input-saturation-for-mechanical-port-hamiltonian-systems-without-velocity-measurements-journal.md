@@ -5,7 +5,8 @@ date: 2020-10-21 00:00:00 +0100
 permalink: passivity-based-lag-compensators-with-input-saturation-for-mechanical-port-hamiltonian-systems-without-velocity-measurements-journal
 year: 2021
 authors: Kiyoshi Hamada, Pablo Borja, Jacquelien M. A. Scherpen, Kenji Fujimoto, Ichiro Maruta
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

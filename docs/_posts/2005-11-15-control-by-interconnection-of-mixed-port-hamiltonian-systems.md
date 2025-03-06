@@ -5,7 +5,8 @@ date: 2005-11-15 00:00:00 +0100
 permalink: control-by-interconnection-of-mixed-port-hamiltonian-systems
 year: 2005
 authors: A. Macchelli, C. Melchiorri
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

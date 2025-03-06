@@ -5,7 +5,8 @@ date: 2021-09-14 00:00:00 +0100
 permalink: bilateral-teleoperation-of-stochastic-port-hamiltonian-systems-using-energy-tanks
 year: 2021
 authors: Francesco Cordoni, Luca Di Persio, Riccardo Muradore
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

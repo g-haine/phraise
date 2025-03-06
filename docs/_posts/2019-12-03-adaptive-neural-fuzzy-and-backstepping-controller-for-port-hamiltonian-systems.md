@@ -5,7 +5,8 @@ date: 2019-12-03 00:00:00 +0100
 permalink: adaptive-neural-fuzzy-and-backstepping-controller-for-port-hamiltonian-systems
 year: 2020
 authors: Ahmad Taher Azar, Fernando E. Serrano, Marco A. Flores, Sundarapandian Vaidyanathan, Quanmin Zhu
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

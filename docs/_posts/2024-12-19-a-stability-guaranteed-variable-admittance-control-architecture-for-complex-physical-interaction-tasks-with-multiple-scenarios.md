@@ -5,7 +5,8 @@ date: 2024-12-19 00:00:00 +0100
 permalink: a-stability-guaranteed-variable-admittance-control-architecture-for-complex-physical-interaction-tasks-with-multiple-scenarios
 year: 2025
 authors: Hao Zhou, Xin Zhang, Jinguo Liu, Zhaojie Ju
-category: articles
+category:
+  - articles
 ---
  
 ## Authors

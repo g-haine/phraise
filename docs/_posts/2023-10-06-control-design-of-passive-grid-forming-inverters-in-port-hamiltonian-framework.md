@@ -5,7 +5,8 @@ date: 2023-10-06 00:00:00 +0100
 permalink: control-design-of-passive-grid-forming-inverters-in-port-hamiltonian-framework
 year: 2024
 authors: Le Kong, Yaosuo Xue, Liang Qiao, Fei Wang
-category: articles
+category:
+  - articles
 ---
  
 ## Authors
