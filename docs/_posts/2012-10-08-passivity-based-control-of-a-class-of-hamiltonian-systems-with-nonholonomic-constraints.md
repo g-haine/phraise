@@ -5,12 +5,16 @@ date: 2012-10-08 00:00:00 +0100
 permalink: passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints
 year: 2012
 authors: Kenji Fujimoto, Satoru Sakai, Toshiharu Sugie
-category: journal-article
-tag: Port-Hamiltonian systems; Nonholonomic systems; Stabilization
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - nonholonomic systems
+  - stabilization
 ---
  
 ## Authors
-[Kenji Fujimoto](authors/kenji-fujimoto), [Satoru Sakai](authors/satoru-sakai), [Toshiharu Sugie](authors/toshiharu-sugie)
+[Kenji Fujimoto](authors/kenji_fujimoto), [Satoru Sakai](authors/satoru_sakai), [Toshiharu Sugie](authors/toshiharu_sugie)
  
 ## Abstract
 This paper is concerned with state and output feedback stabilization of a class of port-Hamiltonian systems with nonholonomic constraints. First we study canonical forms for port-Hamiltonian systems with nonholonomic constraints. Second, we give a new state feedback stabilization method by using non-smooth Hamiltonian functions via generalized canonical transformations. Third, we propose a dynamic output feedback stabilization method without measuring the velocity based on the corresponding state feedback result. Numerical examples demonstrate the effectiveness of the proposed method.

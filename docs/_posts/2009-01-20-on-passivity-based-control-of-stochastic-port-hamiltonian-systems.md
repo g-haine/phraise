@@ -5,11 +5,11 @@ date: 2009-01-20 00:00:00 +0100
 permalink: on-passivity-based-control-of-stochastic-port-hamiltonian-systems
 year: 2008
 authors: Satoshi Satoh, Kenji Fujimoto
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Satoshi Satoh](authors/satoshi-satoh), [Kenji Fujimoto](authors/kenji-fujimoto)
+[Satoshi Satoh](authors/satoshi_satoh), [Kenji Fujimoto](authors/kenji_fujimoto)
  
 ## Abstract
 This paper introduces Stochastic Port-Hamiltonian Systems (SPHS's), whose dynamics are described by Itô stochastic differential equations. SPHS's are extension of the deterministic port-Hamiltonian systems which are used to express various passive systems. First, we show a necessary and sufficient condition to preserve the stochastic port-Hamiltonian structure of the system under a class of coordinate transformations. Second, we derive a condition for the system to be stochastic passive. Third, we equip Stochastic Generalized Canonical Transformations (SGCT's), which are pairs of coordinate and feedback transformations preserving the stochastic port-Hamiltonian structure. Finally, we propose a stochastic stabilization framework based on stochastic passivity and SGCT's.

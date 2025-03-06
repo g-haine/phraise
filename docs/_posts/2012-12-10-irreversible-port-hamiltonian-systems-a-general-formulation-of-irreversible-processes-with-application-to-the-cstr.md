@@ -5,12 +5,19 @@ date: 2012-12-10 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr
 year: 2013
 authors: Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro
-category: journal-article
-tag: Irreversible thermodynamics; Entropy; Port-Hamiltonian system; Contact structure; System theory; Chemical reactor
+category:
+  - articles
+tags:
+  - irreversible thermodynamics
+  - entropy
+  - port-hamiltonian system
+  - contact structure
+  - system theory
+  - chemical reactor
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Bernhard Maschke](authors/bernhard-maschke), [Daniel Sbarbaro](authors/daniel-sbarbaro)
+[Hector Ramirez](authors/hector_ramirez), [Bernhard Maschke](authors/bernhard_maschke), [Daniel Sbarbaro](authors/daniel_sbarbaro)
  
 ## Abstract
 In this paper we suggest a class of quasi-port-Hamiltonian systems called Irreversible port-Hamiltonian Systems, that expresses simultaneously the first and second principle of thermodynamics as a structural property. These quasi-port-Hamiltonian systems are defined with respect to a structure matrix and a modulating function which depends on the thermodynamic relation between state and co-state variables of the system. This modulating function itself is the product of some positive functionγand the Poisson bracket of the entropy and the energy function. This construction guarantees that the Hamiltonian function is a conserved quantity and simultaneously that the entropy function satisfies a balance equation containing an irreversible entropy creation term. In the second part of the paper, we suggest a lift of the Irreversible Port-Hamiltonian Systems to control contact systems defined on the Thermodynamic Phase Space which is canonically endowed with a contact structure associated with Gibbs' relation. For this class of systems we have suggested a lift which avoids any singularity of the contact Hamiltonian function and defines a control contact system on the complete Thermodynamic Phase Space, in contrast to the previously suggested lifts of such systems. Finally we derive the formulation of the balance equations of a CSTR model as an Irreversible Port-Hamiltonian System and give two alternative lifts of the CSTR model to a control contact system defined on the complete Thermodynamic Phase Space.

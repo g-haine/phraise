@@ -5,11 +5,11 @@ date: 2024-11-04 00:00:00 +0100
 permalink: passivity-based-control-approach-for-photovoltaic-dc-dc-conversion-and-output-voltage-regulation
 year: 2024
 authors: Hayden Phillips-Brenes, Mauricio Muñoz-Arias, Roberto Pereira-Arroyo, Luis Miguel Esquivel-Sancho, Renato Rimolo-Donadio
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Hayden Phillips-Brenes](authors/hayden-phillips-brenes), [Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Luis Miguel Esquivel-Sancho](authors/luis-miguel-esquivel-sancho), [Renato Rimolo-Donadio](authors/renato-rimolo-donadio)
+[Hayden Phillips-Brenes](authors/hayden_phillips_brenes), [Mauricio Muñoz-Arias](authors/mauricio_munoz_arias), [Roberto Pereira-Arroyo](authors/roberto_pereira_arroyo), [Luis Miguel Esquivel-Sancho](authors/luis_miguel_esquivel_sancho), [Renato Rimolo-Donadio](authors/renato_rimolo_donadio)
  
 ## Citation
 - **Journal:** IEEE Transactions on Control Systems Technology

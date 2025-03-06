@@ -5,12 +5,18 @@ date: 2019-03-29 00:00:00 +0100
 permalink: an-invitation-to-multisymplectic-geometry
 year: 2019
 authors: Leonid Ryvkin, Tilmann Wurzbacher
-category: journal-article
-tag: Multisymplectic geometry; Lagrangian and Hamiltonian field theories; Darboux-type theorems; Groups of multisymplectic diffeomorphisms; Homotopy comoment
+category:
+  - articles
+tags:
+  - multisymplectic geometry
+  - lagrangian and hamiltonian field theories
+  - darboux-type theorems
+  - groups of multisymplectic diffeomorphisms
+  - homotopy comoment
 ---
  
 ## Authors
-[Leonid Ryvkin](authors/leonid-ryvkin), [Tilmann Wurzbacher](authors/tilmann-wurzbacher)
+[Leonid Ryvkin](authors/leonid_ryvkin), [Tilmann Wurzbacher](authors/tilmann_wurzbacher)
  
 ## Abstract
 In this article we study multisymplectic geometry, i.e., the geometry of manifolds with a non-degenerate, closed differential form. First we describe the transition from Lagrangian to Hamiltonian classical field theories, and then we reformulate the latter in “multisymplectic terms”. Furthermore, we investigate basic questions on normal forms of multisymplectic manifolds, notably the questions whether and when Darboux-type theorems hold, and “how many” diffeomorphisms certain, important classes of multisymplectic manifolds possess. Finally, we survey recent advances in the area of symmetries and conserved quantities on multisymplectic manifolds.

@@ -5,12 +5,16 @@ date: 2022-01-06 00:00:00 +0100
 permalink: discrete-stochastic-port-hamiltonian-systems
 year: 2022
 authors: Francesco Giuseppe Cordoni, Luca Di Persio, Riccardo Muradore
-category: journal-article
-tag: Stochastic port-Hamiltonian systems; Passivity; Stochastic variational integrators
+category:
+  - articles
+tags:
+  - stochastic port-hamiltonian systems
+  - passivity
+  - stochastic variational integrators
 ---
  
 ## Authors
-[Francesco Giuseppe Cordoni](authors/francesco-giuseppe-cordoni), [Luca Di Persio](authors/luca-di-persio), [Riccardo Muradore](authors/riccardo-muradore)
+[Francesco Giuseppe Cordoni](authors/francesco_giuseppe_cordoni), [Luca Di Persio](authors/luca_di_persio), [Riccardo Muradore](authors/riccardo_muradore)
  
 ## Abstract
 The present paper aims at defining discrete stochastic port-Hamiltonian systems (SPHS). We introduce a suitable definition of discrete SPHS based on symplectic variational integrators. By properly choosing the collocation points for discrete-time SPHS we are able to approximate a continuous SPHS. Moreover, under suitable assumptions on the Hamiltonian of the system, we guarantee energy conservation, which is a key property in the standard PHS framework. Numerical examples are provided to show the goodness of the proposed method.

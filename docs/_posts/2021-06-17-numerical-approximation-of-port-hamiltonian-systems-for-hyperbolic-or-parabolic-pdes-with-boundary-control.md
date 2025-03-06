@@ -5,11 +5,11 @@ date: 2021-06-17 00:00:00 +0100
 permalink: numerical-approximation-of-port-hamiltonian-systems-for-hyperbolic-or-parabolic-pdes-with-boundary-control
 year: 2021
 authors: Andrea Brugnoli, Ghislain Haine, Anass Serhani, Xavier Vasseur
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea-brugnoli), [Ghislain Haine](authors/ghislain-haine), [Anass Serhani](authors/anass-serhani), [Xavier Vasseur](authors/xavier-vasseur)
+[Andrea Brugnoli](authors/andrea_brugnoli), [Ghislain Haine](authors/ghislain_haine), [Anass Serhani](authors/anass_serhani), [Xavier Vasseur](authors/xavier_vasseur)
  
 ## Abstract
 The present manuscript concerns the design of structure-preserving discretization methods for the solution of systems of boundary controlled Partial Differential Equations (PDEs) thanks to the port- Hamiltonian formalism. We first provide a general structure of infinite-dimensional port-Hamiltonian systems (pHs) for which the Partitioned Finite Element Method (PFEM) straightforwardly applies. The proposed strategy is particularised to abstract multidimensional linear hyperbolic and parabolic systems of PDEs. Then we show that instructional model problems based on the wave equation, Mindlin equation and heat equation fit within this unified framework. Secondly we introduce the ongoing project SCRIMP (Simulation and ContRol of Interactions in Multi-Physics) developed for the numerical simulation of infinite-dimensional pHs. SCRIMP notably relies on the FEniCS open-source computing platform for the finite element spatial discretization. Finally, we illustrate how to solve the considered model problems within this framework by carefully explaining the methodology. As additional support, companion interactive Jupyter notebooks are provided.

@@ -5,11 +5,11 @@ date: 2020-03-04 00:00:00 +0100
 permalink: a-family-of-virtual-contraction-based-controllers-for-tracking-of-flexible-joints-port-hamiltonian-robots-theory-and-experiments
 year: 2020
 authors: Rodolfo Reyes‐Báez, Arjan van der Schaft, Bayu Jayawardhana, Le Pan
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Rodolfo Reyes‐Báez](authors/rodolfo-reyes-baez), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bayu Jayawardhana](authors/bayu-jayawardhana), [Le Pan](authors/le-pan)
+[Rodolfo Reyes‐Báez](authors/rodolfo_reyes_baez), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Bayu Jayawardhana](authors/bayu_jayawardhana), [Le Pan](authors/le_pan)
  
 ## Abstract
 In this work, we present a constructive method to design a family of virtual contraction based controllers that solve the standard trajectory tracking problem of flexible‐joint robots in the port‐Hamiltonian framework. The proposed design method, called virtual contraction based control, combines the concepts of virtual control systems and contraction analysis. It is shown that under potential energy matching conditions, the closed‐loop virtual system is contractive and exponential convergence to a predefined trajectory is guaranteed. Moreover, the closed‐loop virtual system exhibits properties such as structure preservation, differential passivity, and the existence of (incrementally) passive maps. The method is later applied to a planar RR robot, and two nonlinear tracking control schemes in the developed controllers family are designed using different contraction analysis approaches. Experiments confirm the theoretical results for each controller.

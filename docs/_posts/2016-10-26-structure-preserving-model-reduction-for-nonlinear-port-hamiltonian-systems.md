@@ -5,14 +5,14 @@ date: 2016-10-26 00:00:00 +0100
 permalink: structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems
 year: 2016
 authors: S. Chaturantabut, C. Beattie, S. Gugercin
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[S. Chaturantabut](authors/s-chaturantabut), [C. Beattie](authors/christopher-beattie), [S. Gugercin](authors/serkan-gugercin)
+[S. Chaturantabut](authors/s_chaturantabut), [C. Beattie](authors/christopher_beattie), [S. Gugercin](authors/serkan_gugercin)
  
 ## Abstract
-This paper presents a structure-preserving model reduction approach applicable to large-scale, nonlinear port-Hamiltonian systems. Structure preservation in the reduction step ensures the retention of port-Hamiltonian structure which, in turn, assures the stability and passivity of the reduced model. Our analysis provides a priori error bounds for both state variables and outputs. Three techniques are considered for constructing bases needed for the reduction: one that utilizes proper orthogonal decompositions; one that utilizes \\( \mathcal{H}_2/\mathcal{H}_{\infty} \\)-derived optimized bases; and one that is a mixture of the two. The complexity of evaluating the reduced nonlinear term is managed efficiently using a modification of the discrete empirical interpolation method (DEIM) that also preserves port-Hamiltonian structure. The efficiency and accuracy of this model reduction framework are illustrated with two examples: a nonlinear ladder network and a tethered Toda lattice.
+This paper presents a structure-preserving model reduction approach applicable to large-scale, nonlinear port-Hamiltonian systems. Structure preservation in the reduction step ensures the retention of port-Hamiltonian structure which, in turn, assures the stability and passivity of the reduced model. Our analysis provides a priori error bounds for both state variables and outputs. Three techniques are considered for constructing bases needed for the reduction: one that utilizes proper orthogonal decompositions; one that utilizes \( \mathcal{H}_2/\mathcal{H}_{\infty} \)-derived optimized bases; and one that is a mixture of the two. The complexity of evaluating the reduced nonlinear term is managed efficiently using a modification of the discrete empirical interpolation method (DEIM) that also preserves port-Hamiltonian structure. The efficiency and accuracy of this model reduction framework are illustrated with two examples: a nonlinear ladder network and a tethered Toda lattice.
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

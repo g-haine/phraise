@@ -5,12 +5,16 @@ date: 2021-07-13 00:00:00 +0100
 permalink: structure-preserving-discretization-of-a-coupled-heat-wave-system-as-interconnected-port-hamiltonian-systems
 year: 2021
 authors: Ghislain Haine, Denis Matignon
-category: book-chapter
-tag: Port-Hamiltonian Systems; Partitioned finite element method; Long time asymptotics
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - partitioned finite element method
+  - long time asymptotics
 ---
  
 ## Authors
-[Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
+[Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 The heat-wave system is recast as the coupling of port-Hamiltonian subsystems (pHs), and discretized in a structure-preserving way by the Partitioned Finite Element Method (PFEM) [ 10 , 11 ]. Then, depending on the geometric configuration of the two domains, different asymptotic behaviours of the energy of the coupled system can be recovered at the numerical level, assessing the validity of the theoretical results of [ 22 ].
@@ -22,7 +26,7 @@ Port-Hamiltonian Systems; Partitioned finite element method; Long time asymptoti
 - **ISBN:** 9783030802080
 - **Publisher:** Springer International Publishing
 - **DOI:** [10.1007/978-3-030-80209-7_22](https://doi.org/10.1007/978-3-030-80209-7_22)
-- **Note:** International Conference on Geometric Science of Information
+- **Event:** International Conference on Geometric Science of Information
  
 ## BibTeX
 {% highlight bibtex %}

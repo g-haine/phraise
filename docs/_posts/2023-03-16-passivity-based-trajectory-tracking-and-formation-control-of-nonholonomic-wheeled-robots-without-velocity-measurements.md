@@ -5,11 +5,11 @@ date: 2023-03-16 00:00:00 +0100
 permalink: passivity-based-trajectory-tracking-and-formation-control-of-nonholonomic-wheeled-robots-without-velocity-measurements
 year: 2023
 authors: Ningbo Li, Pablo Borja, Jacquelien M. A. Scherpen, Arjan van der Schaft, Robert Mahony
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ningbo Li](authors/ningbo-li), [Pablo Borja](authors/luis-pablo-borja), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Robert Mahony](authors/robert-mahony)
+[Ningbo Li](authors/ningbo_li), [Pablo Borja](authors/luis_pablo_borja), [Jacquelien M. A. Scherpen](authors/jacquelien_m_a_scherpen), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Robert Mahony](authors/robert_mahony)
  
 ## Abstract
 This note proposes a passivity-based control method for trajectory tracking and formation control of nonholonomic wheeled robots without velocity measurements. Coordinate transformations are used to incorporate the nonholonomic constraints, which are then avoided by controlling the front end of the robot rather than the center of the wheel axle into the differential equations. Starting from the passivity-based coordination design, the control goals are achieved via an internal controller for velocity tracking and heading control, and an external controller for formation in the port-Hamiltonian framework. This approach endows the resulting controller with a physical interpretation. To avoid unavailable velocity measurements or unreliable velocity estimations, we derive the distributed control law with only position measurements by introducing a dynamic extension. In addition, we prove that our approach is suitable not only for acyclic graphs but also for a class of nonacyclic graphs, namely, ring graphs. Simulations are provided to illustrate the effectiveness of the approach.

@@ -5,12 +5,18 @@ date: 2019-08-23 00:00:00 +0100
 permalink: anisotropic-heterogeneous-n-d-heat-equation-with-boundary-control-and-observation-ii-structure-preserving-discretization
 year: 2019
 authors: Anass Serhani, Ghislain Haine, Denis Matignon
-category: journal-article
-tag: Port-Hamiltonian Differential Algebraic System; Heat Equation; Structure Preserving Discretization; Partitionned Finite Element Method (PFEM); Boundary Control
+category:
+  - proceedings
+tags:
+  - port-hamiltonian differential algebraic system
+  - heat equation
+  - structure preserving discretization
+  - partitionned finite element method (pfem)
+  - boundary control
 ---
  
 ## Authors
-[Anass Serhani](authors/anass-serhani), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
+[Anass Serhani](authors/anass_serhani), [Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 The heat equation with boundary control and observation can be described by means of three different Hamiltonians, the internal energy, the entropy, or a classical Lyapunov functional, as shown in the companion paper (Serhani et al. (2019a)). The aim of this work is to apply the partitioned finite element method (PFEM) proposed in Cardoso-Ribeiro et al. (2018) to the three associated port-Hamiltonian systems. Differential Algebraic Equations are obtained. The strategy proves very efficient to mimic the continuous Stokes-Dirac structure at the discrete level, and especially preserving the associated power balance. Anisotropic and heterogeneous 2D simulations are finally performed on the Lyapunov formulation to provide numerical evidence that this strategy proves very efficient for the accurate simulation of a boundary controlled and observed infinite-dimensional system.
@@ -26,7 +32,7 @@ Port-Hamiltonian Differential Algebraic System; Heat Equation; Structure Preserv
 - **Pages:** 57--62
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.07.010](https://doi.org/10.1016/j.ifacol.2019.07.010)
-- **Note:** 3rd IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2019- Louvain-la-Neuve, Belgium, 3–5 July 2019
+- **Event:** 3rd IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2019- Louvain-la-Neuve, Belgium, 3–5 July 2019
  
 ## BibTeX
 {% highlight bibtex %}

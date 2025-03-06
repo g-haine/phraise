@@ -1,22 +1,26 @@
 ---
 layout: post
-title: "Structure-preserving \\( H^\\infty \\) control for port-Hamiltonian systems"
+title: "Structure-preserving \\( H^\\\\infty \\) control for port-Hamiltonian systems"
 date: 2023-03-20 00:00:00 +0100
 permalink: structure-preserving-h-infty-control-for-port-hamiltonian-systems
 year: 2023
 authors: Tobias Breiten, Attila Karsai
-category: journal-article
-tag: Port-Hamiltonian systems; \\( H^\infty \\) control design; Model order reduction
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - \( h^\infty \) control design
+  - model order reduction
 ---
  
 ## Authors
-[Tobias Breiten](authors/tobias-breiten), [Attila Karsai](authors/attila-karsai)
+[Tobias Breiten](authors/tobias_breiten), [Attila Karsai](authors/attila_karsai)
  
 ## Abstract
-We study \\( H^\infty \\) control design for linear time-invariant port-Hamiltonian systems. By a modification of the two central algebraic Riccati equations, we ensure that the resulting controller will be port-Hamiltonian. Using these modified equations, we proceed to show that a corresponding balanced truncation approach preserves port-Hamiltonian structure. We illustrate the theoretical findings using numerical examples and observe that the chosen representation of the port-Hamiltonian system can have an influence on the approximation qualities of the reduced order model.
+We study \( H^\infty \) control design for linear time-invariant port-Hamiltonian systems. By a modification of the two central algebraic Riccati equations, we ensure that the resulting controller will be port-Hamiltonian. Using these modified equations, we proceed to show that a corresponding balanced truncation approach preserves port-Hamiltonian structure. We illustrate the theoretical findings using numerical examples and observe that the chosen representation of the port-Hamiltonian system can have an influence on the approximation qualities of the reduced order model.
  
 ## Keywords
-Port-Hamiltonian systems; \\( H^\infty \\) control design; Model order reduction
+Port-Hamiltonian systems; \( H^\infty \) control design; Model order reduction
  
 ## Citation
 - **Journal:** Systems &amp; Control Letters

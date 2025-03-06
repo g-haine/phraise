@@ -5,15 +5,27 @@ date: 2009-10-02 00:00:00 +0100
 permalink: on-the-geometric-structure-of-hamiltonian-systems-with-ports
 year: 2009
 authors: Jochen Merker
-category: journal-article
-tag: Dirac structure; Courant algebroid; Port-Hamiltonian system; Symplectic geometry; Poisson manifold; Integrability; 53D17; 70H05; 37J05; 70F20; 70G45
+category:
+  - articles
+tags:
+  - dirac structure
+  - courant algebroid
+  - port-hamiltonian system
+  - symplectic geometry
+  - poisson manifold
+  - integrability
+  - 53d17
+  - 70h05
+  - 37j05
+  - 70f20
+  - 70g45
 ---
  
 ## Authors
-[Jochen Merker](authors/jochen-merker)
+[Jochen Merker](authors/jochen_merker)
  
 ## Abstract
-In this article the geometric structure of Hamiltonian systems with ports is clarified. Particularly, it is shown that the theory of Hamiltonian systems with ports fits into the paradigm that the state space of a mechanical system should be modeled by a manifold M endowed with a(n almost) Dirac structure in a Courant algebroid. Here, the Courant algebroid is TM ⊕ TM ^\* ⊕ E ⊕ E ^\*, where E is a vector bundle over M endowed with a flat covariant derivative ∇ , and the bracket is \\(  \\)\begin{array}{l}\bigl[(X,\alpha,\lambda_{\mathrm{out}},\lambda_{\mathrm{in}}),(X',\alpha',\lambda_{\mathrm{out}}',\lambda_{\mathrm{in}}')\bigr]\\\noalign{\vspace{5pt}}\quad :=\bigl([X,X'],L_X\alpha'-i_{X'}d\alpha +(\nabla \lambda_{\mathrm{in}})(\lambda_{\mathrm{out}}')+\lambda_{\mathrm{in}}'(\nabla \lambda_{\mathrm{out}}),\\\noalign{\vspace{5pt}}\phantom{\quad \bigl(:=}\nabla_X\lambda_{\mathrm{out}}'-\nabla_{X'}\lambda_{\mathrm{out}},\nabla_X\lambda_{\mathrm{in}}'-\nabla_{X'}\lambda_{\mathrm{in}}\bigr).\end{array}\\(  \\) Further, the integrability of almost Dirac structures D ⊂ TM ⊕ TM ^\* ⊕ E ⊕ E ^\* given by the graph of \\( \bigl(\fontsize{7.6}{7.6}\selectfont \begin{array}{c@{\ }c}\omega &-(A\circ \omega)^{\*}\\A\circ \omega &0\end{array}\bigr) \\) for a two-form ω on M or the cograph of \\( \bigl(\fontsize{7.6}{7.6}\selectfont \begin{array}{c@{\ }c}\pi &-A^{\*}\\A&0\end{array}\bigr) \\) for a bivector field π on M is discussed, where the bundle map A : TM ^\*→ E models the port. Moreover, conditions are obtained to guarantee the integrability of almost Dirac structures induced by closing ports or by power-conserving interconnections. These conditions are formulated in terms of the covariant Schouten bracket defined in the Appendix.
+In this article the geometric structure of Hamiltonian systems with ports is clarified. Particularly, it is shown that the theory of Hamiltonian systems with ports fits into the paradigm that the state space of a mechanical system should be modeled by a manifold M endowed with a(n almost) Dirac structure in a Courant algebroid. Here, the Courant algebroid is TM ⊕ TM ^* ⊕ E ⊕ E ^*, where E is a vector bundle over M endowed with a flat covariant derivative ∇ , and the bracket is \(  \)\begin{array}{l}\bigl[(X,\alpha,\lambda_{\mathrm{out}},\lambda_{\mathrm{in}}),(X',\alpha',\lambda_{\mathrm{out}}',\lambda_{\mathrm{in}}')\bigr]\\\noalign{\vspace{5pt}}\quad :=\bigl([X,X'],L_X\alpha'-i_{X'}d\alpha +(\nabla \lambda_{\mathrm{in}})(\lambda_{\mathrm{out}}')+\lambda_{\mathrm{in}}'(\nabla \lambda_{\mathrm{out}}),\\\noalign{\vspace{5pt}}\phantom{\quad \bigl(:=}\nabla_X\lambda_{\mathrm{out}}'-\nabla_{X'}\lambda_{\mathrm{out}},\nabla_X\lambda_{\mathrm{in}}'-\nabla_{X'}\lambda_{\mathrm{in}}\bigr).\end{array}\(  \) Further, the integrability of almost Dirac structures D ⊂ TM ⊕ TM ^* ⊕ E ⊕ E ^* given by the graph of \( \bigl(\fontsize{7.6}{7.6}\selectfont \begin{array}{c@{\ }c}\omega &-(A\circ \omega)^{*}\\A\circ \omega &0\end{array}\bigr) \) for a two-form ω on M or the cograph of \( \bigl(\fontsize{7.6}{7.6}\selectfont \begin{array}{c@{\ }c}\pi &-A^{*}\\A&0\end{array}\bigr) \) for a bivector field π on M is discussed, where the bundle map A : TM ^*→ E models the port. Moreover, conditions are obtained to guarantee the integrability of almost Dirac structures induced by closing ports or by power-conserving interconnections. These conditions are formulated in terms of the covariant Schouten bracket defined in the Appendix.
  
 ## Keywords
 Dirac structure; Courant algebroid; Port-Hamiltonian system; Symplectic geometry; Poisson manifold; Integrability; 53D17; 70H05; 37J05; 70F20; 70G45

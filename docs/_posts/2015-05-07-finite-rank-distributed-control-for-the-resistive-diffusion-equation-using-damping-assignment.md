@@ -5,11 +5,11 @@ date: 2015-05-07 00:00:00 +0100
 permalink: finite-rank-distributed-control-for-the-resistive-diffusion-equation-using-damping-assignment
 year: 2015
 authors: Ngoc Minh Trang Vu, Laurent Lefèvre
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Laurent Lefèvre](authors/laurent-lefevre)
+[Ngoc Minh Trang Vu](authors/ngoc_minh_trang_vu), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 A first extension of the IDA-PBC control synthesis to infinite dimensional port Hamiltonian systems is investigated, using the same idea as for the finite dimensional case, that is transform the original model into a closed loop target Hamiltonian model using feedback control. To achieve this goal both finite rank distributed control and boundary control are used. The proposed class of considered port Hamiltonian distributed parameters systems is first defined. Then the matching equation is derived for this class before considering the particular case of damping assignment on the resistive diffusion example, for the radial diffusion of the poloidal magnetic flux in tokamak reactors.

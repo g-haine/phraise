@@ -5,12 +5,17 @@ date: 2021-11-19 00:00:00 +0100
 permalink: dissipative-shallow-water-equations-a-port-hamiltonian-formulation
 year: 2021
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Laurent Lefèvre
-category: journal-article
-tag: Shallow Water Equations (SWE); Port-Hamiltonian systems (pHs); Dissipative PDEs; Partitioned Finite Element Method (PFEM)
+category:
+  - proceedings
+tags:
+  - shallow water equations (swe)
+  - port-hamiltonian systems (phs)
+  - dissipative pdes
+  - partitioned finite element method (pfem)
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Laurent Lefèvre](authors/laurent-lefevre)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 The dissipative Shallow Water Equations (DSWEs) are investigated as port-Hamiltonian systems. Dissipation models of different types are considered: either as nonlinear bounded operators, or as linear unbounded operators involving a classical diffusion term in 1D, or the vectorial Laplacian in 2D. In order to recast the dissipative SWE into the framework of pHs with dissipation, a physically meaningful factorization of the vectorial Laplacian is being used, which nicely separates the divergent and the rotational components of the velocity field. Finally, the structure-preserving numerical scheme provided by the Partitioned Finite Element Method (PFEM) is applied to the nonlinear bounded dissipative fluid models. For the linear unbounded cases, a change of variables is highlighted, to transform the DSWEs into a new pHs with a polynomial structure, which proves more suitable for numerics.
@@ -26,7 +31,7 @@ Shallow Water Equations (SWE); Port-Hamiltonian systems (pHs); Dissipative PDEs;
 - **Pages:** 167--172
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.073](https://doi.org/10.1016/j.ifacol.2021.11.073)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

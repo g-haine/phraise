@@ -5,12 +5,18 @@ date: 2015-10-23 00:00:00 +0100
 permalink: modeling-of-physical-network-systems
 year: 2017
 authors: Arjan van der Schaft
-category: journal-article
-tag: Physical network; Laplacian matrix; Matrix Tree theorem; Port-Hamiltonian system; Available storage
+category:
+  - proceedings
+tags:
+  - physical network
+  - laplacian matrix
+  - matrix tree theorem
+  - port-hamiltonian system
+  - available storage
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 Conservation laws and balance equations for physical network systems typically can be described with the aid of the incidence matrix of a directed graph, and an associated symmetric Laplacian matrix. Some basic examples are discussed, and the extension to k -complexes is indicated. Physical distribution networks often involve a non-symmetric Laplacian matrix. It is shown how, in case the connected components of the graph are strongly connected, such systems can be converted into a form with balanced Laplacian matrix by constructive use of Kirchhoff’s Matrix Tree theorem, giving rise to a port-Hamiltonian description. Application to the dual case of asymmetric consensus algorithms is given. Finally it is shown how the minimal storage function for physical network systems with controlled flows can be explicitly computed.
@@ -26,7 +32,7 @@ Physical network; Laplacian matrix; Matrix Tree theorem; Port-Hamiltonian system
 - **Pages:** 21--27
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.sysconle.2015.08.013](https://doi.org/10.1016/j.sysconle.2015.08.013)
-- **Note:** Jan C. Willems Memorial Issue, Volume 2
+- **Event:** Jan C. Willems Memorial Issue, Volume 2
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2005-04-01 00:00:00 +0100
 permalink: multi-variable-port-hamiltonian-model-of-piezoelectric-material
 year: 2005
 authors: A. Macchelli, A.J. van der Schaft, C. Melchiorri
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro-macchelli), [A.J. van der Schaft](authors/arjan-van-der-schaft), [C. Melchiorri](authors/claudio-melchiorri)
+[A. Macchelli](authors/alessandro_macchelli), [A.J. van der Schaft](authors/arjan_van_der_schaft), [C. Melchiorri](authors/claudio_melchiorri)
  
 ## Abstract
 In this paper, the dynamics of a piezoelectric material is presented within the new framework of multi-variable distributed port Hamiltonian systems. This class of infinite dimensional system is quite general, thus allowing the description of several physical phenomena, such as heat conduction, elasticity, electromagnetism and, of course, piezoelectricity. The key point is the generalization of the notion of finite dimensional Dirac structure in order to deal with an infinite dimensional space of power variables. In this way, the dynamics of the system results from the interconnection of a proper set of elements, each of them characterized by a particular energetic behavior, while the interaction with the environment is described in terms of mechanical and electrical boundary ports.

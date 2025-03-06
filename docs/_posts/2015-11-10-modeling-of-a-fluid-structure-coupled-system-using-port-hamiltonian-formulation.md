@@ -5,12 +5,16 @@ date: 2015-11-10 00:00:00 +0100
 permalink: modeling-of-a-fluid-structure-coupled-system-using-port-hamiltonian-formulation
 year: 2015
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger
-category: journal-article
-tag: Port-Hamiltonian systems; fluid-structure interactions; mixed finite-element method
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - fluid-structure interactions
+  - mixed finite-element method
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger)
  
 ## Abstract
 The interactions between fluid and structural dynamics are an important subject of study in several engineering applications. In airplanes, for example, these coupled vibrations can lead to structural fatigue, noise and even instability. At ISAE, we have an experimental device that consists of a cantilevered plate with a fluid tank near the free tip. This device is being used for model validation and active control studies. This work uses the port-Hamiltonian systems formulation for modeling this experimental device. Structural dynamics and fluid dynamics are independently modeled as infinite-dimensional systems. The plate is approximated as a beam. Shallow water equations are used for representing the fluid in the moving tank. The global system is coupled and spatial discretization of the infinite-dimensional systems using mixed finite-element method allows to obtain a finite-dimensional system that is still Hamiltonian.
@@ -26,7 +30,7 @@ Port-Hamiltonian systems; fluid-structure interactions; mixed finite-element met
 - **Pages:** 217--222
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.242](https://doi.org/10.1016/j.ifacol.2015.10.242)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

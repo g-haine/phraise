@@ -5,12 +5,18 @@ date: 2014-01-04 00:00:00 +0100
 permalink: jet-bundle-formulation-of-infinite-dimensional-port-hamiltonian-systems-using-differential-operators
 year: 2014
 authors: Markus Schöberl, Andreas Siuka
-category: journal-article
-tag: Port-Hamiltonian systems; Differential geometry; Infinite-dimensional systems; Partial differential equations; System theory
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - differential geometry
+  - infinite-dimensional systems
+  - partial differential equations
+  - system theory
 ---
  
 ## Authors
-[Markus Schöberl](authors/markus-schoberl), [Andreas Siuka](authors/andreas-siuka)
+[Markus Schöberl](authors/markus_schoberl), [Andreas Siuka](authors/andreas_siuka)
  
 ## Abstract
 We consider infinite-dimensional port-Hamiltonian systems described on jet bundles. Based on a power balance relation we introduce the port-Hamiltonian system representation using differential operators regarding the structural mapping, the dissipation mapping and the input mapping. In contrast to the well-known representation on the basis of the underlying Stokes–Dirac structure our approach is not necessarily based on using energy-variables which leads to a different port-Hamiltonian representation of the analyzed partial differential equations. The presented constructions will be specialized to mechanical systems to which class also the presented examples belong.

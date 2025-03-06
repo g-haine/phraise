@@ -5,11 +5,11 @@ date: 2020-12-14 00:00:00 +0100
 permalink: on-the-energy-stable-approximation-of-hamiltonian-and-gradient-systems
 year: 2021
 authors: Herbert Egger, Oliver Habrich, Vsevolod Shashkov
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Herbert Egger](authors/herbert-egger), [Oliver Habrich](authors/oliver-habrich), [Vsevolod Shashkov](authors/vsevolod-shashkov)
+[Herbert Egger](authors/herbert_egger), [Oliver Habrich](authors/oliver_habrich), [Vsevolod Shashkov](authors/vsevolod_shashkov)
  
 ## Abstract
 A general framework for the numerical approximation of evolution problems is presented that allows to preserve an underlying dissipative Hamiltonian or gradient structure exactly.The approach relies on rewriting the evolution problem in a particular form that complies with the underlying geometric structure.The Galerkin approximation of a corresponding variational formulation in space then automatically preserves this structure which allows to deduce important properties for appropriate discretization schemes including projection based model order reduction.We further show that the underlying structure is preserved also under time discretization by a Petrov–Galerkin approach.The presented framework is rather general and allows the numerical approximation of a wide range of applications, including nonlinear partial differential equations and port-Hamiltonian systems.Some examples will be discussed for illustration of our theoretical results, and connections to other discretization approaches will be highlighted.

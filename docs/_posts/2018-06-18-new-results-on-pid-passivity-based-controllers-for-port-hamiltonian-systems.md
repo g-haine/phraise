@@ -5,12 +5,17 @@ date: 2018-06-18 00:00:00 +0100
 permalink: new-results-on-pid-passivity-based-controllers-for-port-hamiltonian-systems
 year: 2018
 authors: Pablo Borja, Romeo Ortega, Emmanuel Nuño
-category: journal-article
-tag: Passivity-based control; port-Hamiltonian systems; stabilization; nonlinear systems
+category:
+  - proceedings
+tags:
+  - passivity-based control
+  - port-hamiltonian systems
+  - stabilization
+  - nonlinear systems
 ---
  
 ## Authors
-[Pablo Borja](authors/luis-pablo-borja), [Romeo Ortega](authors/romeo-ortega), [Emmanuel Nuño](authors/emmanuel-nuno)
+[Pablo Borja](authors/luis_pablo_borja), [Romeo Ortega](authors/romeo_ortega), [Emmanuel Nuño](authors/emmanuel_nuno)
  
 ## Abstract
 In this note we study the problem of stabilization of port-Hamiltonian (pH) systems via proportional-integral-derivative passivity-based controllers (PID-PBC). Using a general parameterization of the passive outputs for pH systems, we give necessary conditions to construct PID-PBCs and carry-out the stability analysis of the desired equilibrium point in closed-loop. The main results are the inclusion of additional degrees of freedom for the solution of the partial differential equation that is necessary to complete the controller design and the novel construction of PID-PBCs using passive outputs with relative degree zero.
@@ -26,7 +31,7 @@ Passivity-based control; port-Hamiltonian systems; stabilization; nonlinear syst
 - **Pages:** 175--180
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.049](https://doi.org/10.1016/j.ifacol.2018.06.049)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

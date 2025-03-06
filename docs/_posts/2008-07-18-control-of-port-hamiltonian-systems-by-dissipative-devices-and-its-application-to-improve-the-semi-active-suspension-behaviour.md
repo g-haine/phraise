@@ -5,12 +5,16 @@ date: 2008-07-18 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems-by-dissipative-devices-and-its-application-to-improve-the-semi-active-suspension-behaviour
 year: 2008
 authors: Riccardo Morselli, Roberto Zanasi
-category: journal-article
-tag: Nonlinear control; Automotive control; Semi-active suspension
+category:
+  - proceedings
+tags:
+  - nonlinear control
+  - automotive control
+  - semi-active suspension
 ---
  
 ## Authors
-[Riccardo Morselli](authors/riccardo-morselli), [Roberto Zanasi](authors/roberto-zanasi)
+[Riccardo Morselli](authors/riccardo_morselli), [Roberto Zanasi](authors/roberto_zanasi)
  
 ## Abstract
 The port Hamiltonian framework is a powerful tool for modeling a wide class of nonlinear systems such as robots and, more generally, mechatronic systems. The standard approaches used for the control of the port Hamiltonian systems are not applicable to a wide variety of mechatronic systems. This happens, for example, when the input control variable acts directly on some dissipative components of the system. In these cases the controlled devices can only dissipate power and the problem is to find a proper control law in order to meet the control requirements. This paper proposes four control laws for the controlled dissipative components which allow to satisfy a set of control requirements by acting on the energy stored in a subsection of the given system or by controlling the power flowing through a physical section of the system. Although some important issues remain open, the example of the semi-active suspension shows that some positive results can be achieved by applying the proposed approach.
@@ -26,7 +30,7 @@ Nonlinear control; Automotive control; Semi-active suspension
 - **Pages:** 364--369
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.mechatronics.2008.05.008](https://doi.org/10.1016/j.mechatronics.2008.05.008)
-- **Note:** Special Section of Revised Papers from the 8th International IFAC Symposium on Robot Control
+- **Event:** Special Section of Revised Papers from the 8th International IFAC Symposium on Robot Control
  
 ## BibTeX
 {% highlight bibtex %}

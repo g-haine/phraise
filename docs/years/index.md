@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Browse by years
+title: Years
 permalink: /years/
 ---
 

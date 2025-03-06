@@ -5,11 +5,11 @@ date: 2011-01-20 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam
 year: 2011
 authors: T. Voss, J. M. A. Scherpen
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[T. Voss](authors/thomas-voss), [J. M. A. Scherpen](authors/jacquelien-m-a-scherpen)
+[T. Voss](authors/thomas_voss), [J. M. A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 In this paper we show how to spatially discretize a distributed model of a piezoelectric beam representing the dynamics of an inflatable space reflector in port-Hamiltonian (pH) form. This model can then be used to design a controller for the shape of the inflatable structure. Inflatable structures have very nice properties, suitable for aerospace applications, e.g., inflatable space reflectors. With this technology we can build inflatable reflectors which are about 100 times bigger than solid ones. But to be useful for telescopes we have to achieve the desired surface accuracy by actively controlling the surface of the inflatable. The starting point of the control design is modeling for control. In this paper we choose lumped pH modeling since these models offer a clear structure for control design. To be able to design a finite dimensional controller for the infinite dimensional system we need a finite dimensional approximation of the infinite dimensional system which inherits all the structural propert...

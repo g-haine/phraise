@@ -5,12 +5,17 @@ date: 2019-08-18 00:00:00 +0100
 permalink: a-partitioned-finite-element-method-for-the-structure-preserving-discretization-of-damped-infinite-dimensional-port-hamiltonian-systems-with-boundary-control
 year: 2019
 authors: Anass Serhani, Denis Matignon, Ghislain Haine
-category: book-chapter
-tag: Port-Hamiltonian systems; Dissipation; Structure preserving method; Partitioned Finite Element Method
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - dissipation
+  - structure preserving method
+  - partitioned finite element method
 ---
  
 ## Authors
-[Anass Serhani](authors/anass-serhani), [Denis Matignon](authors/denis-matignon), [Ghislain Haine](authors/ghislain-haine)
+[Anass Serhani](authors/anass_serhani), [Denis Matignon](authors/denis_matignon), [Ghislain Haine](authors/ghislain_haine)
  
 ## Abstract
 Many boundary controlled and observed Partial Differential Equations can be represented as port-Hamiltonian systems with dissipation, involving a Stokes-Dirac geometrical structure together with constitutive relations. The Partitioned Finite Element Method, introduced in Cardoso-Ribeiro et al. (2018), is a structure preserving numerical method which defines an underlying Dirac structure, and constitutive relations in weak form, leading to finite-dimensional port-Hamiltonian Differential Algebraic systems (pHDAE). Different types of dissipation are examined: internal damping, boundary damping and also diffusion models.
@@ -22,7 +27,7 @@ Port-Hamiltonian systems; Dissipation; Structure preserving method; Partitioned 
 - **ISBN:** 9783030269791
 - **Publisher:** Springer International Publishing
 - **DOI:** [10.1007/978-3-030-26980-7_57](https://doi.org/10.1007/978-3-030-26980-7_57)
-- **Note:** International Conference on Geometric Science of Information
+- **Event:** International Conference on Geometric Science of Information
  
 ## BibTeX
 {% highlight bibtex %}

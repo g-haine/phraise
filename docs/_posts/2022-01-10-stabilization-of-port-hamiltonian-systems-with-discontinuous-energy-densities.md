@@ -5,11 +5,11 @@ date: 2022-01-10 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-systems-with-discontinuous-energy-densities
 year: 2022
 authors: Jochen Schmid
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jochen Schmid](authors/jochen-schmid)
+[Jochen Schmid](authors/jochen_schmid)
  
 ## Abstract
 We establish an exponential stabilization result for linear port-Hamiltonian systems of first order with quite general, not necessarily continuous, energy densities. In fact, we have only to require the energy density of the system to be of bounded variation. In particular, and in contrast to the previously known stabilization results, our result applies to vibrating strings or beams with jumps in their mass density and their modulus of elasticity.

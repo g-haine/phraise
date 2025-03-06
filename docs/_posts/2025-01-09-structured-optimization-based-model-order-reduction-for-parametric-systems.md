@@ -5,11 +5,11 @@ date: 2025-01-09 00:00:00 +0100
 permalink: structured-optimization-based-model-order-reduction-for-parametric-systems
 year: 2025
 authors: Paul Schwerdtner, Manuel Schaller
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Paul Schwerdtner](authors/paul-schwerdtner), [Manuel Schaller](authors/manuel-schaller)
+[Paul Schwerdtner](authors/paul_schwerdtner), [Manuel Schaller](authors/manuel_schaller)
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing
@@ -63,7 +63,7 @@ category: journal-article
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - Guglielmi, N., Gürbüzbalaban, M. & Overton, M. L. Fast Approximation of the $H_\infty$ Norm via Optimization over Spectral Value Sets. SIAM Journal on Matrix Analysis and Applications vol. 34 709–737 (2013) -- [10.1137/120875752](https://doi.org/10.1137/120875752)
 - Hesthaven, J. S., Rozza, G. & Stamm, B. Certified Reduced Basis Methods for Parametrized Partial Differential Equations. SpringerBriefs in Mathematics (Springer International Publishing, 2016). doi:10.1007/978-3-319-22470-1 -- [10.1007/978-3-319-22470-1](https://doi.org/10.1007/978-3-319-22470-1)
-- Hund, M., Mitchell, T., Mlinarić, P. & Saak, J. Optimization-based Parametric Model Order Reduction via ${\mathcal{H}_2} \otimes {\mathcal{L}_2}$ First-order Necessary Conditions. SIAM Journal on Scientific Computing vol. 44 A1554–A1578 (2022) -- [10.1137/21M140290X](https://doi.org/10.1137/21M140290X)
+- Hund, M., Mitchell, T., Mlinarić, P. & Saak, J. Optimization-based Parametric Model Order Reduction via ${ {\mathcal{H}_2} \otimes {\mathcal{L}_2} }$ First-order Necessary Conditions. SIAM Journal on Scientific Computing vol. 44 A1554–A1578 (2022) -- [10.1137/21M140290X](https://doi.org/10.1137/21M140290X)
 - Kleyman, V. et al. Modeling and parameter identification for real-time temperature controlled retinal laser therapies. at - Automatisierungstechnik vol. 68 953–966 (2020) -- [10.1515/auto-2020-0074](https://doi.org/10.1515/auto-2020-0074)
 - Lasance, C. J. M. Two benchmarks to facilitate the study of compact thermal modeling phenomena. IEEE Transactions on Components and Packaging Technologies vol. 24 559–565 (2001) -- [10.1109/6144.974943](https://doi.org/10.1109/6144.974943)
 - Lassila, T., Quarteroni, A. & Rozza, G. A Reduced Basis Model with Parametric Coupling for Fluid-Structure Interaction Problems. SIAM Journal on Scientific Computing vol. 34 A1187–A1213 (2012) -- [10.1137/110819950](https://doi.org/10.1137/110819950)

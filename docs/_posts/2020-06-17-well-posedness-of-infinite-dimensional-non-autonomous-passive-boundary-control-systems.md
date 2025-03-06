@@ -5,11 +5,11 @@ date: 2020-06-17 00:00:00 +0100
 permalink: well-posedness-of-infinite-dimensional-non-autonomous-passive-boundary-control-systems
 year: 2021
 authors: Birgit Jacob, Hafida Laasri
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Hafida Laasri](authors/hafida-laasri)
+[Birgit Jacob](authors/birgit_jacob), [Hafida Laasri](authors/hafida_laasri)
  
 ## Abstract
 We study a class of non-autonomous boundary control and observation linear systems that are governed by non-autonomous multiplicative perturbations. This class is motivated by different fundamental partial differential equations, such as controlled wave equations and Timoshenko beams. Our main results give sufficient condition for well-posedness, existence and uniqueness of classical and mild solutions.

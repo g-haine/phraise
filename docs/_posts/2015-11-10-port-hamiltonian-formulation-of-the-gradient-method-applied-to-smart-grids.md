@@ -5,12 +5,21 @@ date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-the-gradient-method-applied-to-smart-grids
 year: 2015
 authors: T.W. Stegink, C. De Persis, A.J. van der Schaft
-category: journal-article
-tag: gradient method; port-Hamiltonian; passivity; convex optimization; power networks; frequency regulation; social welfare problem; dynamic pricing.
+category:
+  - proceedings
+tags:
+  - gradient method
+  - port-hamiltonian
+  - passivity
+  - convex optimization
+  - power networks
+  - frequency regulation
+  - social welfare problem
+  - dynamic pricing.
 ---
  
 ## Authors
-[T.W. Stegink](authors/tjerk-w-stegink), [C. De Persis](authors/claudio-de-persis), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[T.W. Stegink](authors/tjerk_w_stegink), [C. De Persis](authors/claudio_de_persis), [A.J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 The gradient method is a well-known tool for solving convex optimization problems. This paper shows that the gradient method admits a Brayton-Moser and a port-Hamiltonian representation. In fact, its dynamics can be interpreted as a interconnection of multiple (port-Hamiltonian) passive systems, which plays a key role in proving asymptotic stability of the method. As an application to smart grids, this paper studies the problem of frequency regulation in power grids, while maximizing the social welfare. By applying the gradient method, we obtain a real-time dynamic pricing model in port-Hamiltonian form. By coupling with the port-Hamiltonian description of the physical network we obtain a closed-loop port-Hamiltonian system, which properties are exploited to prove asymptotic stability to the set of optimal points.
@@ -26,7 +35,7 @@ gradient method; port-Hamiltonian; passivity; convex optimization; power network
 - **Pages:** 13--18
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.207](https://doi.org/10.1016/j.ifacol.2015.10.207)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

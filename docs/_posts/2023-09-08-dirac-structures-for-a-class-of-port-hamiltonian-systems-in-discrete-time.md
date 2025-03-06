@@ -5,11 +5,11 @@ date: 2023-09-08 00:00:00 +0100
 permalink: dirac-structures-for-a-class-of-port-hamiltonian-systems-in-discrete-time
 year: 2024
 authors: Alessio Moreschini, Salvatore Monaco, Dorothée Normand-Cyrot
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Alessio Moreschini](authors/alessio-moreschini), [Salvatore Monaco](authors/salvatore-monaco), [Dorothée Normand-Cyrot](authors/dorothee-normand-cyrot)
+[Alessio Moreschini](authors/alessio_moreschini), [Salvatore Monaco](authors/salvatore_monaco), [Dorothée Normand-Cyrot](authors/dorothee_normand_cyrot)
  
 ## Abstract
 This article discusses the Dirac structure and the state-space representation of a class of port-Hamiltonian systems that evolve in discrete time. The characterization of the underlying Dirac structure depends on separating the stored energy associated with the system into two distinct components. Moreover, it is shown that power-preserving interconnection and negative output feedback maintain the port-Hamiltonian structure while increasing the dimension of the Dirac structure. Finally, the proposed approach is illustrated by means of an approximated gravity pendulum model.

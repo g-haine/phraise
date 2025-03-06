@@ -5,12 +5,16 @@ date: 2015-11-10 00:00:00 +0100
 permalink: on-port-hamiltonian-modeling-and-control-of-quaternion-systems
 year: 2015
 authors: Kenji Fujimoto, Tomoya Takeuchi, Yuki Matsumoto
-category: journal-article
-tag: Passivity based control; quaternions; aerospace systems
+category:
+  - proceedings
+tags:
+  - passivity based control
+  - quaternions
+  - aerospace systems
 ---
  
 ## Authors
-[Kenji Fujimoto](authors/kenji-fujimoto), [Tomoya Takeuchi](authors/tomoya-takeuchi), [Yuki Matsumoto](authors/yuki-matsumoto)
+[Kenji Fujimoto](authors/kenji_fujimoto), [Tomoya Takeuchi](authors/tomoya_takeuchi), [Yuki Matsumoto](authors/yuki_matsumoto)
  
 ## Abstract
 A quaternion representation is often used to describe the attitude of a rigid body type spacecraft since it does not have any singular point whereas the conventional Euler angle description intrinsically has one. However, the dynamical equation with quaternions become more complicated than those described by Euler angles. The scope of this paper is to provide a basis of modeling and control of those systems using port-Hamiltonian system formulation to remove some of those difficulties in control of those systems. A stabilization procedure based on passivity based control is proposed and a sufficient condition for artificial potential energy are derived for a class of simple systems with quaternions.
@@ -26,7 +30,7 @@ Passivity based control; quaternions; aerospace systems
 - **Pages:** 39--44
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.211](https://doi.org/10.1016/j.ifacol.2015.10.211)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

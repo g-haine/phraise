@@ -5,11 +5,11 @@ date: 2021-03-30 00:00:00 +0100
 permalink: a-lyapunov-approach-to-robust-regulation-of-distributed-port-hamiltonian-systems
 year: 2021
 authors: Lassi Paunonen, Yann Le Gorrec, Héctor Ramírez
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Lassi Paunonen](authors/lassi-paunonen), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramírez](authors/hector-ramirez)
+[Lassi Paunonen](authors/lassi_paunonen), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramírez](authors/hector_ramirez)
  
 ## Abstract
 This article studies robust output tracking and disturbance rejection for boundary-controlled infinite-dimensional Port–Hamiltonian systems including second-order models such as the Euler–Bernoulli beam equation. The control design is achieved using the internal model principle and the stability analysis using a Lyapunov approach. Contrary to existing works on the same topic, no assumption is made on the external well-posedness of the considered class of PDEs. The results are applied to robust tracking of a piezo actuated tube used in atomic force imaging.

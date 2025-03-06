@@ -5,12 +5,16 @@ date: 2021-11-19 00:00:00 +0100
 permalink: mixed-finite-elements-for-port-hamiltonian-models-of-von-karman-beams
 year: 2021
 authors: Andrea Brugnoli, Ramy Rashad, Federico Califano, Stefano Stramigioli, Denis Matignon
-category: journal-article
-tag: Port-Hamiltonian systems; von Kármán beams; Mixed Finite Elements
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - von kármán beams
+  - mixed finite elements
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea-brugnoli), [Ramy Rashad](authors/ramy-rashad), [Federico Califano](authors/federico-califano), [Stefano Stramigioli](authors/stefano-stramigioli), [Denis Matignon](authors/denis-matignon)
+[Andrea Brugnoli](authors/andrea_brugnoli), [Ramy Rashad](authors/ramy_rashad), [Federico Califano](authors/federico_califano), [Stefano Stramigioli](authors/stefano_stramigioli), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 A port-Hamiltonian formulation of von Kármán beams is presented. The variables selection lead to a non linear interconnection operator, while the constitutive laws are linear. The model can be readily discretized by exploiting a coenergy formulation and a mixed finite element method. The mixed formulation does not demand the H 2 regularity requirement typical of standard Galerkin discretization of thin structures. A numerical test is performed to assess the convergence rate of the solution.
@@ -26,7 +30,7 @@ Port-Hamiltonian systems; von Kármán beams; Mixed Finite Elements
 - **Pages:** 186--191
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.076](https://doi.org/10.1016/j.ifacol.2021.11.076)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

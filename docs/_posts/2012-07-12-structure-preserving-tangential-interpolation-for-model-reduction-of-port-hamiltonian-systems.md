@@ -5,18 +5,24 @@ date: 2012-07-12 00:00:00 +0100
 permalink: structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems
 year: 2012
 authors: Serkan Gugercin, Rostyslav V. Polyuga, Christopher Beattie, Arjan van der Schaft
-category: journal-article
-tag: Model reduction; Interpolation; Port-Hamiltonian systems; Structure preservation; \\( H^2 \\)-approximation
+category:
+  - articles
+tags:
+  - model reduction
+  - interpolation
+  - port-hamiltonian systems
+  - structure preservation
+  - \( h^2 \)-approximation
 ---
  
 ## Authors
-[Serkan Gugercin](authors/serkan-gugercin), [Rostyslav V. Polyuga](authors/rostyslav-v-polyuga), [Christopher Beattie](authors/christopher-beattie), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Serkan Gugercin](authors/serkan_gugercin), [Rostyslav V. Polyuga](authors/rostyslav_v_polyuga), [Christopher Beattie](authors/christopher_beattie), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 Port-Hamiltonian systems result from port-based network modeling of physical systems and are an important example of passive state-space systems. In this paper, we develop a framework for model reduction of large-scale multi-input/multi-output port-Hamiltonian systems via tangential rational interpolation. The resulting reduced model is a rational (tangential) interpolant that retains the port-Hamiltonian structure; hence it remains passive. We introduce anH2-inspired algorithm for effective choice of interpolation points and tangent directions and present several numerical examples illustrating its effectiveness.
  
 ## Keywords
-Model reduction; Interpolation; Port-Hamiltonian systems; Structure preservation; \\( H^2 \\)-approximation
+Model reduction; Interpolation; Port-Hamiltonian systems; Structure preservation; \( H^2 \)-approximation
  
 ## Citation
 - **Journal:** Automatica

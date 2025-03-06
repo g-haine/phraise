@@ -5,11 +5,11 @@ date: 2022-03-11 00:00:00 +0100
 permalink: splitting-methods-for-linear-circuit-daes-of-index-1-in-port-hamiltonian-form
 year: 2021
 authors: Malak Diab, Caren Tischendorf
-category: book-chapter
+category: chapters
 ---
  
 ## Authors
-[Malak Diab](authors/malak-diab), [Caren Tischendorf](authors/caren-tischendorf)
+[Malak Diab](authors/malak_diab), [Caren Tischendorf](authors/caren_tischendorf)
  
 ## Abstract
 Operator splitting is a powerful method for numerical investigation of complex models. This method was successfully used for ordinary and partial differential equations (ODEs and PDEs). In constrained dynamical problems as electric circuits or energy transport networks, differential-algebraic equations (DAEs) arise. The constraints prevent a simple transfer of operator splitting from ODEs to DAEs. Here, we present an approach for splitting linear circuit DAEs of index 1 based on a port-Hamiltonian modeling that we derive from loop and cutset equations by a topological decoupling. Finally, we present convergence results for the proposed DAE operator splitting.

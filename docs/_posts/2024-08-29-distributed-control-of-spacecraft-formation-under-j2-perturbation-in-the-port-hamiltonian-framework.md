@@ -5,18 +5,25 @@ date: 2024-08-29 00:00:00 +0100
 permalink: distributed-control-of-spacecraft-formation-under-j2-perturbation-in-the-port-hamiltonian-framework
 year: 2024
 authors: Wenkang Hao, Qifeng Chen, Caisheng Wei, Yuxin Liao
-category: journal-article
-tag: Port-Hamiltonian system; \\( J2 \\) perturbation; Nonlinear model; Spacecraft formation; Distributed; Passive control
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - \( j2 \) perturbation
+  - nonlinear model
+  - spacecraft formation
+  - distributed
+  - passive control
 ---
  
 ## Authors
-[Wenkang Hao](authors/wenkang-hao), [Qifeng Chen](authors/qifeng-chen), [Caisheng Wei](authors/caisheng-wei), [Yuxin Liao](authors/yuxin-liao)
+[Wenkang Hao](authors/wenkang_hao), [Qifeng Chen](authors/qifeng_chen), [Caisheng Wei](authors/caisheng_wei), [Yuxin Liao](authors/yuxin_liao)
  
 ## Abstract
 To control the relative position and relative velocity of spacecraft formation, a time-varying nonlinear relative motion model under J 2 perturbation in an elliptical orbit is established in the port-Hamiltonian (PH) framework, and a distributed control law for spacecraft formation is developed using the consensus algorithm for parameter estimation and the passivity-based control (PBC) method based on the state-error interconnection and damping assignment (IDA) technique. First, the influence of J 2 perturbation on the potential energy and orbit parameters in the model is considered when the relative motion model is built in the PH frame, and the expression of the relative motion acceleration under J 2 perturbation is given. Second, to solve the problem that the state of the chief spacecraft cannot be directly obtained from the deputy spacecraft under distributed communication, a consensus-based parameter estimation method is introduced, the estimated parameter of the chief spacecraft is applied to the relative motion model in the PH frame, and a state error model with the estimated parameters derived from the consistency algorithm is established. Then, after the stability analysis is conducted on the desired PH system containing the estimated parameter values, the desired Hamiltonian energy function with the estimated parameters is designed according to the time-varying errors of the relative equilibrium states of the deputy spacecraft and the errors between deputy spacecraft, and the distributed control law of spacecraft formation is derived based on the state-error IDA-PBC method. Finally, the expected relative motion trajectory designed based on the TH equation is used to simulate a spacecraft formation under J 2 perturbation, and the results indicate that the spacecraft can quickly converge to the expected formation under the influence of the control law.
  
 ## Keywords
-Port-Hamiltonian system; \\( J2 \\) perturbation; Nonlinear model; Spacecraft formation; Distributed; Passive control
+Port-Hamiltonian system; \( J2 \) perturbation; Nonlinear model; Spacecraft formation; Distributed; Passive control
  
 ## Citation
 - **Journal:** Advances in Space Research

@@ -5,12 +5,18 @@ date: 2023-11-22 00:00:00 +0100
 permalink: on-the-generating-functions-of-irreversible-port-hamiltonian-systems
 year: 2023
 authors: Jonas Kirchhoff, Bernhard Maschke
-category: journal-article
-tag: port-Hamiltonian Systems; Nonlinear Systems; Irreversible Thermodynamics; Energy and Entropy based Modelling; Geometrical Methods
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - nonlinear systems
+  - irreversible thermodynamics
+  - energy and entropy based modelling
+  - geometrical methods
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas-kirchhoff), [Bernhard Maschke](authors/bernhard-maschke)
+[Jonas Kirchhoff](authors/jonas_kirchhoff), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 We study the geometric structure of the drift dynamics of Irreversible port-Hamiltonian systems. This drift dynamics is defined with respect to a product of Poisson brackets, reflecting the interconnection structure and the constitutive relations of the irreversible phenomena occuring in the system. We characterise this product of Poisson brackets using a covariant 4-tensor and an associated function. We derive various conditions for which this 4-tensor and the associated function may be reduced to a product of almost Poisson brackets.
@@ -26,7 +32,7 @@ port-Hamiltonian Systems; Nonlinear Systems; Irreversible Thermodynamics; Energy
 - **Pages:** 10447--10452
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.1061](https://doi.org/10.1016/j.ifacol.2023.10.1061)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2018-11-20 00:00:00 +0100
 permalink: port-hamiltonian-based-optimal-power-flow-algorithm-for-multi-terminal-dc-networks
 year: 2019
 authors: Ernest Benedito, Dunstano del Puerto-Flores, Arnau Dòria-Cerezo, Jacquelien M.A. Scherpen
-category: journal-article
-tag: Optimal power flow; Port-Hamiltonian systems; Gradient method; DC networks; Cyclic networks
+category:
+  - articles
+tags:
+  - optimal power flow
+  - port-hamiltonian systems
+  - gradient method
+  - dc networks
+  - cyclic networks
 ---
  
 ## Authors
-[Ernest Benedito](authors/ernest-benedito), [Dunstano del Puerto-Flores](authors/dunstano-del-puerto-flores), [Arnau Dòria-Cerezo](authors/arnau-doria-cerezo), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Ernest Benedito](authors/ernest_benedito), [Dunstano del Puerto-Flores](authors/dunstano_del_puerto_flores), [Arnau Dòria-Cerezo](authors/arnau_doria_cerezo), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 In this paper an algorithm for solving the Optimal Power Flow problem for multi-terminal DC networks based on the gradient method is proposed. The aim is seeking the optimal point subject to voltage, current and power constraints. The algorithm is described by a continuous-time port-Hamiltonian model, and the inequality constrains are included by the use of barrier functions. The dynamics of the algorithm is studied and stability conditions are obtained. Finally, the method is used for the offshore wind integration grid in the North Sea and the interconnection with the network dynamics is tested by means of numerical simulations.

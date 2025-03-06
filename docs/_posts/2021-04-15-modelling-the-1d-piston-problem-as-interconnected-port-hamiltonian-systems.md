@@ -5,12 +5,21 @@ date: 2021-04-15 00:00:00 +0100
 permalink: modelling-the-1d-piston-problem-as-interconnected-port-hamiltonian-systems
 year: 2020
 authors: Anne-Sophie Treton, Ghislain Haine, Denis Matignon
-category: journal-article
-tag: Piston problem; port-Hamiltonian system; Dirac structure; free boundary; non-linear PDE; fluid-structure-thermal interactions; control; observation
+category:
+  - proceedings
+tags:
+  - piston problem
+  - port-hamiltonian system
+  - dirac structure
+  - free boundary
+  - non-linear pde
+  - fluid-structure-thermal interactions
+  - control
+  - observation
 ---
  
 ## Authors
-[Anne-Sophie Treton](authors/anne-sophie-treton), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
+[Anne-Sophie Treton](authors/anne_sophie_treton), [Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 In this study, the modelling of the boundary-controlled 1D piston problem as the interconnection of simpler port-Hamiltonian systems (pHs) is addressed. More precisely, two viscous compressible fluids are separated by a moving rigid body on a bounded domain (0, L). Thermodynamics is taken into account, leading to two pHs for each physical domain: one associated to the kinetic energy and the other one to the internal energy. No chemical reaction is being considered in the system. A control by mass injection/rejection and heating is then applied at the left end of the first fluid.
@@ -26,7 +35,7 @@ Piston problem; port-Hamiltonian system; Dirac structure; free boundary; non-lin
 - **Pages:** 11503--11508
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.601](https://doi.org/10.1016/j.ifacol.2020.12.601)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

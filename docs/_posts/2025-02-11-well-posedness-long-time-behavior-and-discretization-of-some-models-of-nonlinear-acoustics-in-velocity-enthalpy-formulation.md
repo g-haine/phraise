@@ -5,11 +5,11 @@ date: 2025-02-11 00:00:00 +0100
 permalink: well-posedness-long-time-behavior-and-discretization-of-some-models-of-nonlinear-acoustics-in-velocity-enthalpy-formulation
 year: 2025
 authors: Herbert Egger, Marvin Fritz
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Herbert Egger](authors/herbert-egger), [Marvin Fritz](authors/marvin-fritz)
+[Herbert Egger](authors/herbert_egger), [Marvin Fritz](authors/marvin_fritz)
  
 ## Abstract
 We study a class of models for nonlinear acoustics, including the well‐known Westervelt and Kuznetsov equations, as well as a model of Rasmussen that can be seen as a thermodynamically consistent modification of the latter. Using linearization, energy estimates, and fixed‐point arguments, we establish the existence and uniqueness of solutions that, for sufficiently small data, are global in time and converge exponentially fast to equilibrium. In contrast to previous work, our analysis is based on a velocity–enthalpy formulation of the problem, whose weak form reveals the underlying port‐Hamiltonian structure. Moreover, the weak form of the problem is particularly well suited for a structure‐preserving discretization. This is demonstrated in numerical tests, which also highlight typical characteristics of the models under consideration.

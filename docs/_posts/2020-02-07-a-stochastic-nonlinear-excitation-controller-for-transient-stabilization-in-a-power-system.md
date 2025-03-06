@@ -5,11 +5,11 @@ date: 2020-02-07 00:00:00 +0100
 permalink: a-stochastic-nonlinear-excitation-controller-for-transient-stabilization-in-a-power-system
 year: 2019
 authors: Yan Xu, Fushuan Wen, Ivo Palu, Zeng Yang, Minghui Chen, Hongwei Zhao, Huiyu Shang
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Yan Xu](authors/yan-xu), [Fushuan Wen](authors/fushuan-wen), [Ivo Palu](authors/ivo-palu), [Zeng Yang](authors/zeng-yang), [Minghui Chen](authors/minghui-chen), [Hongwei Zhao](authors/hongwei-zhao), [Huiyu Shang](authors/huiyu-shang)
+[Yan Xu](authors/yan_xu), [Fushuan Wen](authors/fushuan_wen), [Ivo Palu](authors/ivo_palu), [Zeng Yang](authors/zeng_yang), [Minghui Chen](authors/minghui_chen), [Hongwei Zhao](authors/hongwei_zhao), [Huiyu Shang](authors/huiyu_shang)
  
 ## Abstract
 Stochastic disturbances caused by renewable energy systems (e.g., wind power and solar power) may deteriorate the transient stability problems in a power system. This paper proposes a stochastic nonlinear excitation controller for transient stability enhancement in a multimachine power system. The third-order model of generators is adopted. A new probabilistic stability criterion is presented where the magnitude of a stochastic disturbance is included explicitly. Then the whole power system is represented by a nonlinear stochastic differential equation set. The proposed excitation controller is implemented by leveraging the feature of a stochastic port-Hamiltonian system. Compared with the controller design methods based on the deterministic power system model, the proposed method can improve the system stability even in the presence of continuous stochastic disturbances on power injections. Besides, it is convenient to select the Hamiltonian function as the stochastic Lyapunov function in the proposed approach. Finally, the effectiveness of the proposed method is demonstrated by a two-area test system with a three-phase fault.

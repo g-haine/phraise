@@ -5,11 +5,11 @@ date: 2022-02-27 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-coupled-heat-transfer
 year: 2022
 authors: Jens Jäschke, Matthias Ehrhardt, Michael Günther, Birgit Jacob
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jens Jäschke](authors/jens-jaschke), [Matthias Ehrhardt](authors/matthias-ehrhardt), [Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob)
+[Jens Jäschke](authors/jens_jaschke), [Matthias Ehrhardt](authors/matthias_ehrhardt), [Michael Günther](authors/michael_gunther), [Birgit Jacob](authors/birgit_jacob)
  
 ## Abstract
  Heat transfer and cooling solutions play an important role in the design of gas turbine blades. However, the underlying mathematical coupling structures have not been thoroughly investigated. In this work, the port-Hamiltonian formalism is applied to the conjugate heat transfer problem in gas turbine blades. A mathematical model based on common engineering simplifications is constructed and further simplified to reduce complexity and focus on the coupling structures of interest. The model is then cast as a port-Hamiltonian system and examined for stability and well posedness.

@@ -5,12 +5,17 @@ date: 2021-09-08 00:00:00 +0100
 permalink: nonlinear-state-feedback-control-design-for-port-hamiltonian-systems-with-unstructured-component
 year: 2021
 authors: Seyedabbas Alavi, Nicolas Hudon
-category: journal-article
-tag: Dynamic feedback control; Stabilization; port-Hamiltonian systems; Lyapunove stability
+category:
+  - proceedings
+tags:
+  - dynamic feedback control
+  - stabilization
+  - port-hamiltonian systems
+  - lyapunove stability
 ---
  
 ## Authors
-[Seyedabbas Alavi](authors/seyedabbas-alavi), [Nicolas Hudon](authors/nicolas-hudon)
+[Seyedabbas Alavi](authors/seyedabbas_alavi), [Nicolas Hudon](authors/nicolas_hudon)
  
 ## Abstract
 This paper considers the problem of state feedback controller design to stabilize generalized Hamiltonian systems with an unstructured component. This class of models enable one to exploit the structure of port-Hamiltonian systems for feedback control design while relaxing the constraint of deriving an exact structured port-Hamiltonian representation. For a given stabilizable nonlinear system, and with some assumptions on the unstructured part of the dynamics, a stabilizing control law is designed and asymptotic stability of a desired equilibrium of the system is demonstrated. A numerical illustration of the proposed approach is presented to demonstrate the design method.
@@ -26,7 +31,7 @@ Dynamic feedback control; Stabilization; port-Hamiltonian systems; Lyapunove sta
 - **Pages:** 554--559
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.08.300](https://doi.org/10.1016/j.ifacol.2021.08.300)
-- **Note:** 16th IFAC Symposium on Advanced Control of Chemical Processes ADCHEM 2021- Venice, Italy, 13-16 June 2021
+- **Event:** 16th IFAC Symposium on Advanced Control of Chemical Processes ADCHEM 2021- Venice, Italy, 13-16 June 2021
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2021-04-15 00:00:00 +0100
 permalink: overcoming-the-dissipation-obstacle-with-bicomplex-port-hamiltonian-mechanics
 year: 2020
 authors: Coen Hutters, Max Mendel
-category: journal-article
-tag: dissipation obstacle; energy-Casimir method; port-Hamiltonian systems; Hamiltonian mechanics; energy shaping
+category:
+  - proceedings
+tags:
+  - dissipation obstacle
+  - energy-casimir method
+  - port-hamiltonian systems
+  - hamiltonian mechanics
+  - energy shaping
 ---
  
 ## Authors
-[Coen Hutters](authors/coen-hutters), [Max Mendel](authors/max-mendel)
+[Coen Hutters](authors/coen_hutters), [Max Mendel](authors/max_mendel)
  
 ## Abstract
 The dissipation obstacle refers to the problem that there is no general solution to shape the energy of dissipative port-Hamiltonian (pH) systems with the method of Casimir functions. This paper argues that it is caused by lack of a strictly symplectic structure of a dissipative port-Hamiltonian system. We develop a method of bicomplex pH systems that is strictly symplectic and we show how it overcomes the obstacle and allows one to systematically use Casimir functions to shape the energy.
@@ -26,7 +32,7 @@ dissipation obstacle; energy-Casimir method; port-Hamiltonian systems; Hamiltoni
 - **Pages:** 5573--5578
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1569](https://doi.org/10.1016/j.ifacol.2020.12.1569)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

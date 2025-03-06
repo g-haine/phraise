@@ -5,11 +5,11 @@ date: 2020-11-09 00:00:00 +0100
 permalink: passivity-based-current-control-of-a-dual-active-bridge-to-improve-the-dynamic-response-of-a-solid-state-transformer-during-power-and-voltage-variations
 year: 2020
 authors: K. Lopez-Rodriguez, A. Escobar-Mejia, E.Y. Piedrahita-Echavarria, W. Gil-Gonzalez
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[K. Lopez-Rodriguez](authors/k-lopez-rodriguez), [A. Escobar-Mejia](authors/a-escobar-mejia), [E.Y. Piedrahita-Echavarria](authors/e-y-piedrahita-echavarria), [W. Gil-Gonzalez](authors/walter-gil-gonzale)
+[K. Lopez-Rodriguez](authors/k_lopez_rodriguez), [A. Escobar-Mejia](authors/a_escobar_mejia), [E.Y. Piedrahita-Echavarria](authors/e_y_piedrahita_echavarria), [W. Gil-Gonzalez](authors/walter_gil_gonzale)
  
 ## Abstract
 The interest for smart-grids has grown worldwide and several utilities have begun to base their plans for expansion and modernization considering this concept. New trends to get more efficient, compact, and reliable power semiconductor devices, have motivated the development of new components such as the Solid-State Transformer (SST), which has become the key technology to be used in smart-grid applications. These advantages can be exploited by regulating the power flow in the dual-active bridge (DAB) of the SST. In this context, this paper focuses on proposing a passivity-based current controller for the DAB of an SST that regulates the power flow considering the passive behavior of DAB model and its port-Hamiltonian structure, which guarantees stability in closed-loop operation. To validate the proposed approach's effectiveness, the closed-loop system is tested under different power variations, including bi-directional power flow, and its performance is compared with a conventional PI controller. In addition, input voltage variations are also considered. Results validated the controller's capability of maintaining constant power flow in the event of input disturbances.

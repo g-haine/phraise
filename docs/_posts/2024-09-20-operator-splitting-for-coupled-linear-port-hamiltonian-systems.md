@@ -5,12 +5,16 @@ date: 2024-09-20 00:00:00 +0100
 permalink: operator-splitting-for-coupled-linear-port-hamiltonian-systems
 year: 2025
 authors: Jan Lorenz, Tom Zwerschke, Michael Günther, Kevin Schäfers
-category: journal-article
-tag: Port-Hamiltonian systems; Operator splitting; Multiple time stepping
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - operator splitting
+  - multiple time stepping
 ---
  
 ## Authors
-[Jan Lorenz](authors/jan-lorenz), [Tom Zwerschke](authors/tom-zwerschke), [Michael Günther](authors/michael-gunther), [Kevin Schäfers](authors/kevin-schafers)
+[Jan Lorenz](authors/jan_lorenz), [Tom Zwerschke](authors/tom_zwerschke), [Michael Günther](authors/michael_gunther), [Kevin Schäfers](authors/kevin_schafers)
  
 ## Abstract
 Operator splitting methods tailored to coupled linear port-Hamiltonian systems are developed. We present algorithms that are able to exploit scalar coupling, as well as multirate potential of these coupled systems. The obtained algorithms preserve the dissipative structure of the overall system and are convergent of second order. Numerical results for coupled mass–spring–damper chains illustrate the computational efficiency of the splitting methods compared to a straight-forward application of the implicit midpoint rule to the overall system.

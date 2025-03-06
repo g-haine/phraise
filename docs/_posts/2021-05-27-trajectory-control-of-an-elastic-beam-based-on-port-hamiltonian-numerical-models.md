@@ -5,11 +5,11 @@ date: 2021-05-27 00:00:00 +0100
 permalink: trajectory-control-of-an-elastic-beam-based-on-port-hamiltonian-numerical-models
 year: 2021
 authors: Mei Wang, Paul Kotyczka
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Mei Wang](authors/mei-wang), [Paul Kotyczka](authors/paul-kotyczka)
+[Mei Wang](authors/mei_wang), [Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 We present a systematic approach to realize the precise observer-based trajectory tracking of the tip of a flexible beam using the energy-based port-Hamiltonian (PH) system representation. The first design steps are the structure-preserving spatial discretization by means of a pseudo-spectral method and the structure-preserving order reduction. The model structure is exploited for inversion-based feedforward control, and the control loop is closed via an observer for the friction torque and the state difference. Experimental results for the reference input and the disturbance response illustrate the quality of the design.

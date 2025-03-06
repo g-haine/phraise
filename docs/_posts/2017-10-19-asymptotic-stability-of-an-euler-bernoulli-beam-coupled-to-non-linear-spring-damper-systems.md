@@ -5,12 +5,17 @@ date: 2017-10-19 00:00:00 +0100
 permalink: asymptotic-stability-of-an-euler-bernoulli-beam-coupled-to-non-linear-spring-damper-systems
 year: 2017
 authors: Yann Le Gorrec, Hans Zwart, Hector Ramirez
-category: journal-article
-tag: Boundary control systems; infinite-dimensional port Hamiltonian systems; asymptotic stability; non-linear control
+category:
+  - proceedings
+tags:
+  - boundary control systems
+  - infinite-dimensional port hamiltonian systems
+  - asymptotic stability
+  - non-linear control
 ---
  
 ## Authors
-[Yann Le Gorrec](authors/yann-le-gorrec), [Hans Zwart](authors/hans-zwart), [Hector Ramirez](authors/hector-ramirez)
+[Yann Le Gorrec](authors/yann_le_gorrec), [Hans Zwart](authors/hans_zwart), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 The stability of an undamped Euler Bernoulli beam connected to non-linear mass spring damper systems is addressed. It is shown that under mild assumptions on the local behaviour of the non-linear springs and dampers the solutions exist and the system is globally asymptotically stable.
@@ -26,7 +31,7 @@ Boundary control systems; infinite-dimensional port Hamiltonian systems; asympto
 - **Pages:** 5580--5585
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.1102](https://doi.org/10.1016/j.ifacol.2017.08.1102)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

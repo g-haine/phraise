@@ -5,12 +5,19 @@ date: 2016-05-30 00:00:00 +0100
 permalink: passivity-based-control-of-implicit-port-hamiltonian-systems-with-holonomic-constraints
 year: 2016
 authors: Fernando Castaños, Dmitry Gromov
-category: journal-article
-tag: Hamiltonian dynamics; Holonomic constraints; Implicit models; Passivity; Pendulum; Swing-up
+category:
+  - articles
+tags:
+  - hamiltonian dynamics
+  - holonomic constraints
+  - implicit models
+  - passivity
+  - pendulum
+  - swing-up
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando-castanos), [Dmitry Gromov](authors/dmitry-gromov)
+[Fernando Castaños](authors/fernando_castanos), [Dmitry Gromov](authors/dmitry_gromov)
  
 ## Abstract
 Implicit port-Hamiltonian representations of mechanical systems are considered from a control perspective. Energy shaping is used for the purpose of stabilizing a desired equilibrium. When using implicit models, the problem turns out to be a simple quadratic programming problem (as opposed to the partial differential equations that need to be solved when using explicit representations). The described approach is generalized to address the problem of stabilization of homoclinic orbits thus leading to the formulation of swing-up strategies for underactuated systems.

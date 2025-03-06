@@ -5,11 +5,11 @@ date: 2019-04-26 00:00:00 +0100
 permalink: on-a-dynamic-model-for-voltage-source-inverter-should-not-be-used
 year: 2019
 authors: Elham Tajik, Thordur Runolfsson
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Elham Tajik](authors/elham-tajik), [Thordur Runolfsson](authors/thordur-runolfsson)
+[Elham Tajik](authors/elham_tajik), [Thordur Runolfsson](authors/thordur_runolfsson)
  
 ## Abstract
 In this paper we develop a dynamic voltage source model that mimics synchronous generators. The presented formulation as an electrostatic generator has a dynamic that corresponds to the steady state current controlled voltage source model of synchronous generators. Then we apply the linearized equations of the designed electrostatic generator in port-Hamiltonian framework and construct a novel control law for voltage source inverter. This model provides the reference voltage for Pulse Width Modulation (PWM) that triggers the power electronic circuit of inverter

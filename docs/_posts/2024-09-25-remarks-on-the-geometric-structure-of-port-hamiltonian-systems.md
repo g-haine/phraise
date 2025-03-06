@@ -5,12 +5,17 @@ date: 2024-09-25 00:00:00 +0100
 permalink: remarks-on-the-geometric-structure-of-port-hamiltonian-systems
 year: 2024
 authors: Jonas Kirchhoff, Bernhard Maschke
-category: journal-article
-tag: Dirac structures; port-Hamiltonian systems; nonlinear systems; geometrical methods
+category:
+  - proceedings
+tags:
+  - dirac structures
+  - port-hamiltonian systems
+  - nonlinear systems
+  - geometrical methods
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas-kirchhoff), [Bernhard Maschke](authors/bernhard-maschke)
+[Jonas Kirchhoff](authors/jonas_kirchhoff), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 We study the geometric structure of port-Hamiltonian systems. Starting with the intuitive understanding that port-Hamiltonian systems are “in between” certain closed Hamiltonian systems, the geometric structure of port-Hamiltonian systems must be “in between” the geometric structures of the latter systems. These are Courant algebroids; and hence the geometric structures should be related by Courant algebroid morphisms. Using this idea, we propose a definition of an intrinsic geometric structure and show that it is unique, if it exists.
@@ -26,7 +31,7 @@ Dirac structures; port-Hamiltonian systems; nonlinear systems; geometrical metho
 - **Pages:** 274--279
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.293](https://doi.org/10.1016/j.ifacol.2024.08.293)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

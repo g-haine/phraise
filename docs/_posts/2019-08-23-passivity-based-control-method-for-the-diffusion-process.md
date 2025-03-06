@@ -5,12 +5,18 @@ date: 2019-08-23 00:00:00 +0100
 permalink: passivity-based-control-method-for-the-diffusion-process
 year: 2019
 authors: Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab
-category: journal-article
-tag: distributed irreversible port hamiltonian systems; diffusion process; Availability energy; La Salle’s invariance principle; passivity based control
+category:
+  - proceedings
+tags:
+  - distributed irreversible port hamiltonian systems
+  - diffusion process
+  - availability energy
+  - la salle’s invariance principle
+  - passivity based control
 ---
  
 ## Authors
-[Saida Zenfari](authors/saida-zenfari), [Mohamed Laabissi](authors/mohamed-laabissi), [Mohammed Elarbi Achhab](authors/mohammed-elarbi-achhab)
+[Saida Zenfari](authors/saida_zenfari), [Mohamed Laabissi](authors/mohamed_laabissi), [Mohammed Elarbi Achhab](authors/mohammed_elarbi_achhab)
  
 ## Abstract
 A passivity based control method is presented for the diffusion process by the use of the concept of available storage and irreversible thermodynamics. A convex extension using the internal energy as generating function will be employed to define a Lyapunov functional for the distributed irreversible port Hamiltonian system (the diffusion process). The latter functional, will be used to suggest a Lyapunov stability condition by applying the so called La Salle’s Invariance principle for infinite dimensional systems on the heat and mass diffusion process.
@@ -26,7 +32,7 @@ distributed irreversible port hamiltonian systems; diffusion process; Availabili
 - **Pages:** 80--84
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.07.014](https://doi.org/10.1016/j.ifacol.2019.07.014)
-- **Note:** 3rd IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2019- Louvain-la-Neuve, Belgium, 3–5 July 2019
+- **Event:** 3rd IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2019- Louvain-la-Neuve, Belgium, 3–5 July 2019
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,17 @@ date: 2022-07-30 00:00:00 +0100
 permalink: an-implicit-sph-based-structure-model-for-accurate-fluid-structure-interaction-simulations-with-hourglass-control-scheme
 year: 2022
 authors: Yuma Shimizu, Abbas Khayyer, Hitoshi Gotoh
-category: journal-article
-tag: Smoothed Particle Hydrodynamics; Implicit structure model; Hourglass control; Fluid–Structure Interaction
+category:
+  - articles
+tags:
+  - smoothed particle hydrodynamics
+  - implicit structure model
+  - hourglass control
+  - fluid–structure interaction
 ---
  
 ## Authors
-[Yuma Shimizu](authors/yuma-shimizu), [Abbas Khayyer](authors/abbas-khayyer), [Hitoshi Gotoh](authors/hitoshi-gotoh)
+[Yuma Shimizu](authors/yuma_shimizu), [Abbas Khayyer](authors/abbas_khayyer), [Hitoshi Gotoh](authors/hitoshi_gotoh)
  
 ## Abstract
 This work is dedicated to development of an implicit SPH (Smoothed Particle Hydrodynamics)-based structure model as well as its integrated purely Lagrangian meshfree hydroelastic FSI (Fluid–Structure Interaction) solver for consistent, accurate and stable modeling of FSI problems. The implicit structure model is established in the context of Hamiltonian mechanics under the assumption of linear elastic solid. Four refined schemes are introduced for improved accuracy, consistency, efficiency and stability: two formerly developed schemes, [i] HT (High-order implicit Time integration) scheme, [ii] HD (High-order Discretization) operator scheme; as well as the novel two schemes newly proposed in this work, namely [iii] IPC (Iterative Predictor–Corrector) calculation procedures to minimize errors related to an imprecise assumption on rotation matrix and [iv] IHC (Implicit Hourglass Control) scheme for stabilizing simulation by suppressing spurious zero-energy modes. An enhanced particle-based FSI solver is formulated within a unified SPH framework by integrating a refined ISPH (Incompressible SPH) fluid model and the proposed implicit structure model, which allows consistent fluid–structure time coupling adopting the equivalent time step sizes in both phases. The proposed implicit structure model and FSI solver are configured in two-dimensions and validated with several 2D structure and FSI benchmark tests showing that our proposed implicit framework could provide almost consistent robustness, accuracy and efficiency with respect to the explicit one.

@@ -5,12 +5,18 @@ date: 2021-11-19 00:00:00 +0100
 permalink: some-notes-on-port-hamiltonian-systems-on-banach-spaces
 year: 2021
 authors: Timo Reis
-category: journal-article
-tag: port-Hamiltonian systems; partial differential-algebraic systems; Dirac structures; Banach manifold; infinite dimensional systems
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - partial differential-algebraic systems
+  - dirac structures
+  - banach manifold
+  - infinite dimensional systems
 ---
  
 ## Authors
-[Timo Reis](authors/timo-reis)
+[Timo Reis](authors/timo_reis)
  
 ## Abstract
 We consider port-Hamiltonian systems from a functional analytic perspective. Dirac structures and Hamiltonians on Banach spaces are introduced, and an energy balance is proven. Further, we consider port-Hamiltonian systems on Banach manifolds, and we present some physical examples that fit into the presented theory.
@@ -26,7 +32,7 @@ port-Hamiltonian systems; partial differential-algebraic systems; Dirac structur
 - **Pages:** 223--229
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.082](https://doi.org/10.1016/j.ifacol.2021.11.082)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

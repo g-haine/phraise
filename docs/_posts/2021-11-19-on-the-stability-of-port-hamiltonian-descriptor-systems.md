@@ -5,12 +5,19 @@ date: 2021-11-19 00:00:00 +0100
 permalink: on-the-stability-of-port-hamiltonian-descriptor-systems
 year: 2021
 authors: Hannes Gernandt, Frédéric E. Haller
-category: journal-article
-tag: Descriptor systems; port-Hamiltonian systems; stability; differential-algebraic equations; linear matrix inequalities; Dirac structure
+category:
+  - proceedings
+tags:
+  - descriptor systems
+  - port-hamiltonian systems
+  - stability
+  - differential-algebraic equations
+  - linear matrix inequalities
+  - dirac structure
 ---
  
 ## Authors
-[Hannes Gernandt](authors/hannes-gernandt), [Frédéric E. Haller](authors/frederic-enrico-haller)
+[Hannes Gernandt](authors/hannes_gernandt), [Frédéric E. Haller](authors/frederic_enrico_haller)
  
 ## Abstract
 We characterize stable differential-algebraic equations (DAEs) using a generalized Lyapunov inequality. The solution of this inequality is then used to rewrite stable DAEs as dissipative Hamiltonian (dH) DAEs on the subspace where the solutions evolve. Conversely, we give sufficient conditions guaranteeing stability of dH DAEs. Further, for stabilizable descriptor systems we construct solutions of generalized algebraic Bernoulli equations which can then be used to rewrite these systems as pH descriptor systems. Furthermore, we show how to describe the stable and stabilizable systems using Dirac and Lagrange structures.
@@ -26,7 +33,7 @@ Descriptor systems; port-Hamiltonian systems; stability; differential-algebraic 
 - **Pages:** 137--142
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.068](https://doi.org/10.1016/j.ifacol.2021.11.068)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

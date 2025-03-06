@@ -70,11 +70,6 @@ print_bib () {
     echo "$bibtex"
 }
 
-# Fonction pour slugifier un texte
-slugify() {
-    echo "$1" | iconv -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed -E 's/^-+|-+$//g'
-}
-
 # Charger les correspondances "Prénom Nom" → "slug"
 echo $(date -Iseconds)" Load names -> slugs table..."
 declare -A author_to_slug
@@ -83,7 +78,7 @@ while IFS= read -r entry; do
     slug=$(echo "$entry" | jq -r '.key')
     # Lire toutes les variations associées à ce slug
     while IFS= read -r variation; do
-        author_to_slug["$variation"]=$(slugify "$slug")
+        author_to_slug["$variation"]="$slug"
     done < <(jq -r ".\"$slug\"[]" "$MAPPINGS_FILE")
 done < <(jq -c 'to_entries[]' "$MAPPINGS_FILE")
 
@@ -107,41 +102,15 @@ format_authors () {
     echo "$authors"
 }
 
-# Remplace les $ par les balises markdwon de mathjax
-sed_abstract () {
-    abstract=$(echo "$1" \
-    | sed -e 's/<[^>]*>//g' \
-    | sed -e 's/Abstract//g' \
-    | sed -e 's/ABSTRACT//g' \
-    | sed -e 's/\*/\\\*/g' \
-    | awk '{
-        in_math = 0;
-        for (i=1; i<=length($0); i++) {
-            c = substr($0, i, 1);
-            if (c == "$") {
-                if (in_math == 0) {
-                    printf "\\\\( ";
-                    in_math = 1;
-                } else {
-                    printf " \\\\)";
-                    in_math = 0;
-                }
-            } else {
-                printf "%s", c;
-            }
-        }
-        printf "\n";
-    }')
-    
-    echo "$abstract"
-}
-
-# Idem pour les titres / keywords et mathjax
-sed_title () {
-    title=$(echo $1 | sed -e 's/$$/$/g') # au cas où il y aurait des double $
-    title=$(echo $title \
-    | sed -e 's/\*/\\\*/g' \
-    | sed -e 's/\\/\\\\/g' \
+# Remplace les $ par les balises markdwon de mathjax dans le titre
+mathjaxify_title () {
+    title=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
+    title=$(echo "$title" | sed -e 's/\\/\\\\/g') # dans "title", jekyll demande un escape de \
+    title=$(echo "$title" | sed -e 's/\*/\\\*/g') # idem pour *
+    title=$(echo "$title" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
+    title=$(echo "$title" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
+    # Mathjax \( ... \) avec les escape nécessaires
+    title=$(echo "$title" \
     | awk '{
         in_math = 0;
         for (i=1; i<=length($0); i++) {
@@ -164,11 +133,68 @@ sed_title () {
     echo "$title"
 }
 
+# Idem pour l'abstract / les keywords et mathjax
+mathjaxify () {
+    text=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
+    title=$(echo "$title" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
+    title=$(echo "$title" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
+    text=$(echo "$text" \
+    | sed -e 's/<[^>]*>//g' \
+    | sed -e 's/Abstract//g' \
+    | sed -e 's/ABSTRACT//g' \
+    | awk '{
+        in_math = 0;
+        for (i=1; i<=length($0); i++) {
+            c = substr($0, i, 1);
+            if (c == "$") {
+                if (in_math == 0) {
+                    printf "\\( ";
+                    in_math = 1;
+                } else {
+                    printf " \\)";
+                    in_math = 0;
+                }
+            } else {
+                printf "%s", c;
+            }
+        }
+        printf "\n";
+    }')
+    
+    echo "$text"
+}
+
 # Get citation from DOI
 get_citation () {
     local doi=$1
     citation=$(curl -s https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US | tail -n 1)
-    echo "$citation" | sed 's/^1. //g' | sed 's/.$//g'
+    echo "$citation" | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'
+}
+
+# Identifie la catégorie du post
+identify_category () {
+    local type_ref=$1
+    local event=$2
+    # Proceedings
+    if [ "$type_ref" = "proceedings-article" ] || [ -n "$event" ]; then
+        echo "proceedings"
+        exit 0
+    fi
+    # Book
+    if [ "$type_ref" = "book" ] || [ "$type_ref" = "monograph" ]; then
+        echo "books"
+        exit 0
+    fi
+    # Chapter
+    if [ "$type_ref" = "book-chapter" ]; then
+        echo "chapters"
+        exit 0
+    fi
+    # Article
+    if [ "$type_ref" = "journal-article" ]; then
+        echo "articles"
+        exit 0
+    fi
 }
 
 # Génération de fichiers Markdown pour chaque DOI (différencié selon le type, et avec cross-ref à l'intérieur du site)
@@ -182,19 +208,25 @@ create_markdown_post () {
     echo "---" > "$output_md"
     echo "layout: post" >> "$output_md"
     title=$(echo "$data" | jq -r .title)
-    title=$(sed_title "$title")
+    title=$(mathjaxify_title "$title")
     echo "title: \"$title\"" >> "$output_md"
     echo "date: $date 00:00:00 +0100" >> "$output_md"
-    echo "permalink: "$(slugify "$title") >> "$output_md"
+    echo "permalink: $(echo "$data" | jq -r .permalink)" >> "$output_md"
     echo "year: $(echo "$data" | jq -r .year)" >> "$output_md"
     authors=$(echo "$data" | jq -r .authors 2>/dev/null)
     echo "authors: $(format_authors "$authors" false)" >> "$output_md"
     type_ref=$(echo "$data" | jq -r .type)
-    echo "category: $type_ref" >> "$output_md"
+    event=$(echo "$data" | jq -r .event)
+    echo "category:" >> "$output_md"
+    echo "  - $(identify_category "$type_ref" "$event")" >> "$output_md"
     keywords=$(echo "$data" | jq -r .keywords)
-    keywords=$(sed_title "$keywords")
+    keywords=$(mathjaxify "$keywords")
     if [ -n "$keywords" ]; then
-        echo "tag: $keywords" >> "$output_md"
+        echo "tags:" >> "$output_md"
+        IFS=";" read -ra words <<< "$keywords"
+        for word in "${words[@]}"; do
+            echo "$(echo "  - $word" | sed 's/^ *//;s/ *$//')"
+        done
     fi
     echo "---" >> "$output_md"
     echo " " >> "$output_md"
@@ -206,7 +238,7 @@ create_markdown_post () {
     abstract=$(echo "$data" | jq -r .abstract)
     if [ "$abstract" != "No abstract available" ]; then
         echo "## Abstract" >> "$output_md"
-        echo "$(sed_abstract "$abstract")" >> "$output_md"
+        echo "$(mathjaxify "$abstract")" >> "$output_md"
         echo " " >> "$output_md"
     fi
 
@@ -229,9 +261,8 @@ create_markdown_post () {
     echo "- **Publisher:** $(echo "$data" | jq -r .publisher)" >> "$output_md"
     doi=$(echo "$data" | jq -r .doi)
     echo "- **DOI:** [$doi](https://doi.org/$doi)" >> "$output_md"
-    event=$(echo "$data" | jq -r .event)
     if [ -n "$event" ]; then
-        echo "- **Note:** $event" >> "$output_md"
+        echo "- **Event:** $event" >> "$output_md"
     fi
     echo " " >> "$output_md"
     

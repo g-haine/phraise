@@ -5,11 +5,11 @@ date: 2014-04-04 00:00:00 +0100
 permalink: tensor-products-of-dirac-structures-and-interconnection-in-lagrangian-mechanics
 year: 2014
 authors: Henry O. Jacobs, Hiroaki Yoshimura
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Henry O. Jacobs](authors/henry-o-jacobs), [Hiroaki Yoshimura](authors/hiroaki-yoshimura)
+[Henry O. Jacobs](authors/henry_o_jacobs), [Hiroaki Yoshimura](authors/hiroaki_yoshimura)
  
 ## Abstract
 Many mechanical systems are large and complex, despite being composed of simple subsystems. In order to understand such large systems it is natural to tear the system into these subsystems. Conversely we must understand how to invert this tearing procedure. In other words, we must understand interconnection of subsystems. Such an understanding has been already shown in the context of Hamiltonian systems on vector spaces via the port-Hamiltonian systems program, in which an interconnection may be achieved through the identification of shared variables, whereupon the notion of composition of Dirac structures allows one to interconnect two systems. In this paper, we seek to extend the program of the port-Hamiltonian systems on vector spaces to the case of Lagrangian systems on manifolds and also extend the notion of composition of Dirac structures appropriately. In particular, we will interconnect Lagrange-Dirac systems by modifying the respective Dirac structures of the involved subsystems. We define the interconnection of Dirac structures via an interaction Dirac structure and a tensor product of Dirac structures. We will show how the dynamics of the interconnected system is formulated as a function of the subsystems, and we will elucidate the associated variational principles. We will then illustrate how this theory extends the theory of port-Hamiltonian systems and the notion of composition of Dirac structures to manifolds with couplings which do not require the identification of shared variables. Lastly, we will show some examples: a mass-spring mechanical systems, an electric circuit, and a nonholonomic mechanical system.

@@ -5,12 +5,18 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-complex-non-linear-systems-application-to-a-liquid-propelled-rocket-engine
 year: 2024
 authors: J. Gibart, H. Piet-Lahanier, F. Farago
-category: journal-article
-tag: Port-Hamiltonian; Modelling; Non-linear; Aerospace; Rocket Engine
+category:
+  - proceedings
+tags:
+  - port-hamiltonian
+  - modelling
+  - non-linear
+  - aerospace
+  - rocket engine
 ---
  
 ## Authors
-[J. Gibart](authors/j-gibart), [H. Piet-Lahanier](authors/h-piet-lahanier), [F. Farago](authors/f-farago)
+[J. Gibart](authors/j_gibart), [H. Piet-Lahanier](authors/h_piet_lahanier), [F. Farago](authors/f_farago)
  
 ## Abstract
 Port-Hamiltonian (PH) systems theory is a well-established framework for modelling the dynamics of non-linear systems. It has been used extensively for complex mechanical systems. Recent developments have extended this representation to multiphysical systems. In this paper, a PH formulation of a Liquid Propelled Rocket Engine model is proposed. Starting from a classical state-space representation, a new model is derived which allows to demonstrate the global passivity feature of the system using the property of passivity inheritance by composition of several PH subsystems. The resulting representation allows to consider passivity-based control perspective for this class of complex thermodynamics system.
@@ -26,7 +32,7 @@ Port-Hamiltonian; Modelling; Non-linear; Aerospace; Rocket Engine
 - **Pages:** 131--136
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.269](https://doi.org/10.1016/j.ifacol.2024.08.269)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2009-01-20 00:00:00 +0100
 permalink: passive-path-following-control-for-port-hamiltonian-systems
 year: 2008
 authors: Kenji Fujimoto, Mitsuru Taniguchi
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Kenji Fujimoto](authors/kenji-fujimoto), [Mitsuru Taniguchi](authors/mitsuru-taniguchi)
+[Kenji Fujimoto](authors/kenji_fujimoto), [Mitsuru Taniguchi](authors/mitsuru_taniguchi)
  
 ## Abstract
 This paper is devoted to path following control for port-Hamiltonian systems. The control law presented here is extension of an existing passive velocity field controller for fully actuated mechanical systems. The proposed method employs vector fields on the phase (co-tangent) spaces instead of those on the velocity (tangent) spaces. Since port-Hamiltonian systems can describe a wider class of systems than conventional mechanical ones, the proposed method is applicable to various systems. Furthermore, by making use of the port-Hamiltonian structure of the closed loop system, we can obtain a novel controller to assign the desired total energy. Moreover, a numerical simulation of a simple nonholonomic system exhibits the effectiveness of the proposed method.

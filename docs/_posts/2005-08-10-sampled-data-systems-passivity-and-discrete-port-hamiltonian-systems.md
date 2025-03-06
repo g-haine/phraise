@@ -5,11 +5,11 @@ date: 2005-08-10 00:00:00 +0100
 permalink: sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems
 year: 2005
 authors: S. Stramigioli, C. Secchi, A.J. van der Schaft, C. Fantuzzi
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[S. Stramigioli](authors/stefano-stramigioli), [C. Secchi](authors/cristian-secchi), [A.J. van der Schaft](authors/arjan-van-der-schaft), [C. Fantuzzi](authors/cesare-fantuzzi)
+[S. Stramigioli](authors/stefano_stramigioli), [C. Secchi](authors/cristian_secchi), [A.J. van der Schaft](authors/arjan_van_der_schaft), [C. Fantuzzi](authors/cesare_fantuzzi)
  
 ## Abstract
 In this paper, we present a novel way to approach the interconnection of a continuous and a discrete time physical system first presented in . This is done in a way which preserves passivity of the coupled system independently of the sampling time T. This strategy can be used both in the field of telemanipulation, for the implementation of a passive master/slave system on a digital transmission line with varying time delays and possible loss of packets (e.g., the Internet), and in the field of haptics, where the virtual environment should 'feel' like a physical equivalent system.

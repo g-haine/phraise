@@ -5,14 +5,14 @@ date: 2021-05-17 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-systems-by-nonlinear-boundary-control-in-the-presence-of-disturbances
 year: 2021
 authors: Jochen Schmid, Hans Zwart
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jochen Schmid](authors/jochen-schmid), [Hans Zwart](authors/hans-zwart)
+[Jochen Schmid](authors/jochen_schmid), [Hans Zwart](authors/hans_zwart)
  
 ## Abstract
-In this paper, we are concerned with the stabilization of linear port-Hamiltonian systems of arbitrary order\*N\*∈ ℕ on a bounded 1-dimensional spatial domain (\*a\*,\*b\*). In order to achieve stabilization, we couple the system to a dynamic boundary controller, that is, a controller that acts on the system only via the boundary points\*a\*,\*b\*of the spatial domain. We use a nonlinear controller in order to capture the nonlinear behavior that realistic actuators often exhibit and, moreover, we allow the output of the controller to be corrupted by actuator disturbances before it is fed back into the system. What we show here is that the resulting nonlinear closed-loop system is input-to-state stable w.r.t. square-integrable disturbance inputs. In particular, we obtain uniform input-to-state stability for systems of order\*N\*= 1 and a special class of nonlinear controllers, and weak input-to-state stability for systems of arbitrary order\*N\*∈ ℕ and a more general class of nonlinear controllers. Also, in both cases, we obtain convergence to 0 of all solutions as\*t\*→\*∞\*. Applications are given to vibrating strings and beams.
+In this paper, we are concerned with the stabilization of linear port-Hamiltonian systems of arbitrary order*N*∈ ℕ on a bounded 1-dimensional spatial domain (*a*,*b*). In order to achieve stabilization, we couple the system to a dynamic boundary controller, that is, a controller that acts on the system only via the boundary points*a*,*b*of the spatial domain. We use a nonlinear controller in order to capture the nonlinear behavior that realistic actuators often exhibit and, moreover, we allow the output of the controller to be corrupted by actuator disturbances before it is fed back into the system. What we show here is that the resulting nonlinear closed-loop system is input-to-state stable w.r.t. square-integrable disturbance inputs. In particular, we obtain uniform input-to-state stability for systems of order*N*= 1 and a special class of nonlinear controllers, and weak input-to-state stability for systems of arbitrary order*N*∈ ℕ and a more general class of nonlinear controllers. Also, in both cases, we obtain convergence to 0 of all solutions as*t*→*∞*. Applications are given to vibrating strings and beams.
  
 ## Citation
 - **Journal:** ESAIM: Control, Optimisation and Calculus of Variations

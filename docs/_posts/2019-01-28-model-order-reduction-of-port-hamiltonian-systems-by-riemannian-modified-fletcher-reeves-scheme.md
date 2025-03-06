@@ -5,11 +5,11 @@ date: 2019-01-28 00:00:00 +0100
 permalink: model-order-reduction-of-port-hamiltonian-systems-by-riemannian-modified-fletcher-reeves-scheme
 year: 2019
 authors: Yao-Lin Jiang, Kang-Li Xu
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Yao-Lin Jiang](authors/yaolin-jiang), [Kang-Li Xu](authors/kangli-xu)
+[Yao-Lin Jiang](authors/yaolin_jiang), [Kang-Li Xu](authors/kangli_xu)
  
 ## Abstract
 Based on the Riemannian modified Fletcher–Reeves conjugate gradient scheme, we propose a new model order reduction algorithm to reduce port-Hamiltonian (PH) systems by the two-sided projection. Making full use of the geometric notions and geometrical characteristics of the Stiefel manifold, the proposed algorithm is not only computationally efficient, but also globally convergent. Additionally, it can preserve the PH structure and the passivity of the original system. A numerical example is simulated to demonstrate the efficiency of our algorithm.

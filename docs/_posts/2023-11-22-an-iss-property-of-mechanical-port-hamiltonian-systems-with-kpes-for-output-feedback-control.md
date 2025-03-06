@@ -5,12 +5,16 @@ date: 2023-11-22 00:00:00 +0100
 permalink: an-iss-property-of-mechanical-port-hamiltonian-systems-with-kpes-for-output-feedback-control
 year: 2023
 authors: N. Sakata, T. Kato, K. Fujimoto, I. Maruta
-category: journal-article
-tag: Input-to-state stability; Lagrangian and Hamiltonian systems; Output feedback control
+category:
+  - proceedings
+tags:
+  - input-to-state stability
+  - lagrangian and hamiltonian systems
+  - output feedback control
 ---
  
 ## Authors
-[N. Sakata](authors/naoki-sakata), [T. Kato](authors/t-kato), [K. Fujimoto](authors/kenji-fujimoto), [I. Maruta](authors/ichiro-maruta)
+[N. Sakata](authors/naoki_sakata), [T. Kato](authors/t_kato), [K. Fujimoto](authors/kenji_fujimoto), [I. Maruta](authors/ichiro_maruta)
  
 ## Abstract
 This paper proves a stability property of mechanical port-Hamiltonian systems with kinetic potential energy shaping (KPES) with respect to external disturbances using the input-to-state stability (ISS) characterization. Such analysis is quite useful when constructing an output feedback controller consisting of a KPES state feedback controller and a state observer, since the stability of the resulting output feedback closed-loop system can be guaranteed by such stability by regarding the estimation error of the observer as the external disturbance to the KPES state feedback system. If this state feedback system is ISS with respect to the state estimation error and if this error is asymptotically stable, then the origin of the closed-loop system is asymptotically stable. Therefore, it is possible to obtain an output feedback controller consisting of a KPES state feedback controller with any asymptotic state observer. Numerical simulations verify the ISS property of the KPES state feedback system.
@@ -26,7 +30,7 @@ Input-to-state stability; Lagrangian and Hamiltonian systems; Output feedback co
 - **Pages:** 9511--9516
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.249](https://doi.org/10.1016/j.ifacol.2023.10.249)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

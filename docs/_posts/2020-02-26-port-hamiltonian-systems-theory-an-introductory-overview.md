@@ -5,11 +5,11 @@ date: 2020-02-26 00:00:00 +0100
 permalink: port-hamiltonian-systems-theory-an-introductory-overview
 year: 2014
 authors: Arjan van der Schaft, Dimitri Jeltsema
-category: monograph
+category: books
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
+[Arjan van der Schaft](authors/arjan_van_der_schaft), [Dimitri Jeltsema](authors/dimitri_jeltsema)
  
 ## Citation
 - **Journal:** null

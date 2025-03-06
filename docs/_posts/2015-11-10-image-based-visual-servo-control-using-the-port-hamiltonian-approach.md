@@ -5,12 +5,17 @@ date: 2015-11-10 00:00:00 +0100
 permalink: image-based-visual-servo-control-using-the-port-hamiltonian-approach
 year: 2015
 authors: Mauricio Munoz-Arias, Mohamed I. El-Hawwary, Jacquelien M.A. Scherpen
-category: journal-article
-tag: Robotics; port-Hamiltonian systems; Vision control; Mechanical systems
+category:
+  - proceedings
+tags:
+  - robotics
+  - port-hamiltonian systems
+  - vision control
+  - mechanical systems
 ---
  
 ## Authors
-[Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Mohamed I. El-Hawwary](authors/mohamed-i-el-hawwary), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Mauricio Munoz-Arias](authors/mauricio_munoz_arias), [Mohamed I. El-Hawwary](authors/mohamed_i_el_hawwary), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 This work is devoted to an image-based visual servo control strategy for standard mechanical systems in the port-Hamiltonian framework. We utilize a change of variables that transforms the port-Hamiltonian system into one with constant mass-inertia matrix, and we use an interaction matrix that includes the depth information together with the image features variables of the image plane. We develop a control strategy that renders a closed-loop system that is port-Hamiltonian. The introduced approach is applied to a two degrees of freedom robot arm problem, and simulation results are provided.
@@ -26,7 +31,7 @@ Robotics; port-Hamiltonian systems; Vision control; Mechanical systems
 - **Pages:** 105--110
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.222](https://doi.org/10.1016/j.ifacol.2015.10.222)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

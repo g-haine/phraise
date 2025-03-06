@@ -5,11 +5,11 @@ date: 2019-11-06 00:00:00 +0100
 permalink: unknown-input-hamiltonian-observers-based-fault-detection-and-estimation
 year: 2019
 authors: Manel Atitallah, Rafika El Harabi, Mohamed Naceur Abdelkrim
-category: book-chapter
+category: chapters
 ---
  
 ## Authors
-[Manel Atitallah](authors/manel-atitallah), [Rafika El Harabi](authors/rafika-el-harabi), [Mohamed Naceur Abdelkrim](authors/mohamed-naceur-abdelkrim)
+[Manel Atitallah](authors/manel_atitallah), [Rafika El Harabi](authors/rafika_el_harabi), [Mohamed Naceur Abdelkrim](authors/mohamed_naceur_abdelkrim)
  
 ## Citation
 - **ISBN:** 9783110591729

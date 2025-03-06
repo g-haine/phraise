@@ -5,12 +5,20 @@ date: 2017-09-11 00:00:00 +0100
 permalink: symplectic-hamiltonian-hdg-methods-for-wave-propagation-phenomena
 year: 2017
 authors: M.A. Sánchez, C. Ciuca, N.C. Nguyen, J. Peraire, B. Cockburn
-category: journal-article
-tag: Finite element methods; Discontinuous Galerkin methods; Hybrid/mixed methods; Acoustic wave equation; Hamiltonian systems; Symplectic time integrators; Energy conservation
+category:
+  - articles
+tags:
+  - finite element methods
+  - discontinuous galerkin methods
+  - hybrid/mixed methods
+  - acoustic wave equation
+  - hamiltonian systems
+  - symplectic time integrators
+  - energy conservation
 ---
  
 ## Authors
-[M.A. Sánchez](authors/manuel-a-sanchez), [C. Ciuca](authors/c-ciuca), [N.C. Nguyen](authors/ngoc-cuong-nguyen), [J. Peraire](authors/jaime-peraire), [B. Cockburn](authors/bernardo-cockburn)
+[M.A. Sánchez](authors/manuel_a_sanchez), [C. Ciuca](authors/c_ciuca), [N.C. Nguyen](authors/ngoc_cuong_nguyen), [J. Peraire](authors/jaime_peraire), [B. Cockburn](authors/bernardo_cockburn)
  
 ## Abstract
 We devise the first symplectic Hamiltonian hybridizable discontinuous Galerkin (HDG) methods for the acoustic wave equation. We discretize in space by using a Hamiltonian HDG scheme, that is, an HDG method which preserves the Hamiltonian structure of the wave equation, and in time by using symplectic, diagonally implicit and explicit partitioned Runge–Kutta methods. The fundamental feature of the resulting scheme is that the conservation of a discrete energy, which is nothing but a discrete version of the original Hamiltonian, is guaranteed. We present numerical experiments which indicate that the method achieves optimal approximations of orderk+1in theL2-norm when polynomials of degreek≥0and Runge–Kutta time-marching methods of orderk+1are used. In addition, by means of post-processing techniques and by increasing the order of the Runge–Kutta method tok+2, we obtain superconvergent approximations of orderk+2in theL2-norm for the displacement and the velocity. We also present numerical examples that corroborate that the methods conserve energy and that they compare favorably with dissipative HDG schemes, of similar accuracy properties, for long-time simulations.

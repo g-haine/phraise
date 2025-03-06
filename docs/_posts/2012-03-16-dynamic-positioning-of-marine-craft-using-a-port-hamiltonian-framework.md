@@ -5,12 +5,18 @@ date: 2012-03-16 00:00:00 +0100
 permalink: dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework
 year: 2012
 authors: Alejandro Donaire, Tristan Perez
-category: journal-article
-tag: Port-Hamiltonian systems; Marine control systems; Dynamic positioning; Integral action; Input saturation
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - marine control systems
+  - dynamic positioning
+  - integral action
+  - input saturation
 ---
  
 ## Authors
-[Alejandro Donaire](authors/alejandro-donaire), [Tristan Perez](authors/tristan-perez)
+[Alejandro Donaire](authors/alejandro_donaire), [Tristan Perez](authors/tristan_perez)
  
 ## Abstract
 Dynamic positioning of marine craft refers to the use of the propulsion system to regulate the vessel position and heading. This type of motion control is commonly used in the offshore industry for surface vessels, and it is also used for some underwater vehicles. In this paper, we use a port-Hamiltonian framework to design a novel nonlinear set-point-regulation controller with integral action. The controller handles input saturation and guarantees internal stability, rejection of unknown constant disturbances, and (integral-)input-to-state stability.

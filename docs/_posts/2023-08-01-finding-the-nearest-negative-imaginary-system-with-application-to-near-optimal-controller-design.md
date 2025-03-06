@@ -5,11 +5,11 @@ date: 2023-08-01 00:00:00 +0100
 permalink: finding-the-nearest-negative-imaginary-system-with-application-to-near-optimal-controller-design
 year: 2023
 authors: Mohamed A. Mabrok
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Mohamed A. Mabrok](authors/mohamed-a-mabrok)
+[Mohamed A. Mabrok](authors/mohamed_a_mabrok)
  
 ## Abstract
 In this paper, we consider the problem of robust stabilization of linear time-invariant systems with respect to unmodeled dynamics and structure uncertainties. To that end, we first present a methodology to find the nearest negative imaginary system for a given non-negative imaginary system. Then, we employ this result to construct a near optimal linear quadratic Gaussian controller achieving desired performance measures. The problem is formulated using port-Hamiltonian method and the required conditions are defined in terms of linear matrix inequalities. The technique is presented using fast gradient method to solve the problem systematically. The designed controller satisfies a negative imaginary property and guarantees a robust feedback loop. The effectiveness of the approach is demonstrated by simulation on a numerical example.

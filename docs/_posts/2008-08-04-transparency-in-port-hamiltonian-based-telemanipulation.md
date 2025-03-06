@@ -5,11 +5,11 @@ date: 2008-08-04 00:00:00 +0100
 permalink: transparency-in-port-hamiltonian-based-telemanipulation
 year: 2008
 authors: C. Secchi, S. Stramigioli, C. Fantuzzi
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[C. Secchi](authors/cristian-secchi), [S. Stramigioli](authors/stefano-stramigioli), [C. Fantuzzi](authors/cesare-fantuzzi)
+[C. Secchi](authors/cristian_secchi), [S. Stramigioli](authors/stefano_stramigioli), [C. Fantuzzi](authors/cesare_fantuzzi)
  
 ## Abstract
 After stability, transparency is the major issue in the design of a telemanipulation system. In this paper, we exploit the behavioral approach in order to provide an index for the evaluation of transparency in port-Hamiltonian-based teleoperators. Furthermore, we provide a transparency analysis of packet switching scattering-based communication channels.

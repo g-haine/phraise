@@ -5,12 +5,22 @@ date: 2017-10-19 00:00:00 +0100
 permalink: stabilization-of-structure-preserving-power-networks-with-market-dynamics
 year: 2017
 authors: Tjerk W. Stegink, Claudio De Persis, Arjan J. van der Schaft
-category: journal-article
-tag: electric power systems; Lyapunov stability; distributed control; nonlinear systems; optimal power flow; gradient method; frequency regulation; passivity; dynamic pricing
+category:
+  - proceedings
+tags:
+  - electric power systems
+  - lyapunov stability
+  - distributed control
+  - nonlinear systems
+  - optimal power flow
+  - gradient method
+  - frequency regulation
+  - passivity
+  - dynamic pricing
 ---
  
 ## Authors
-[Tjerk W. Stegink](authors/tjerk-w-stegink), [Claudio De Persis](authors/claudio-de-persis), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
+[Tjerk W. Stegink](authors/tjerk_w_stegink), [Claudio De Persis](authors/claudio_de_persis), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 This paper studies the problem of maximizing the social welfare while stabilizing both the physical power network as well as the market dynamics. For the physical power grid a third-order structure-preserving model is considered involving both frequency and voltage dynamics. By applying the primal-dual gradient method to the social welfare problem, a distributed dynamic pricing algorithm in port-Hamiltonian form is obtained. After interconnection with the physical system a closed-loop port-Hamiltonian system of differential-algebraic equations is obtained, whose properties are exploited to prove local asymptotic stability of the optimal point.
@@ -26,7 +36,7 @@ electric power systems; Lyapunov stability; distributed control; nonlinear syste
 - **Pages:** 6737--6742
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.1172](https://doi.org/10.1016/j.ifacol.2017.08.1172)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

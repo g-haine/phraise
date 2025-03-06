@@ -5,14 +5,14 @@ date: 2023-04-11 00:00:00 +0100
 permalink: a-structural-observation-on-port-hamiltonian-systems
 year: 2023
 authors: Rainer H. Picard, Sascha Trostorff, Bruce Watson, Marcus Waurick
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Rainer H. Picard](authors/rainer-h-picard), [Sascha Trostorff](authors/sascha-trostorff), [Bruce Watson](authors/bruce-watson), [Marcus Waurick](authors/marcus-waurick)
+[Rainer H. Picard](authors/rainer_h_picard), [Sascha Trostorff](authors/sascha_trostorff), [Bruce Watson](authors/bruce_watson), [Marcus Waurick](authors/marcus_waurick)
  
 ## Abstract
-We study port-Hamiltonian systems on a familiy of intervals and characterise all boundary conditions leading to \\( m \\)-accretive realisations of the port-Hamiltonian operator and thus to generators of contractive semigroups. The proofs are based on a structural observation that the port-Hamiltonian operator can be transformed to the derivative on a familiy of reference intervals by suitable congruence relations allowing for studying the simpler case of a transport equation. Moreover, we provide well-posedness results for associated control problems without assuming any additional regularity of the operators involved.
+We study port-Hamiltonian systems on a familiy of intervals and characterise all boundary conditions leading to \( m \)-accretive realisations of the port-Hamiltonian operator and thus to generators of contractive semigroups. The proofs are based on a structural observation that the port-Hamiltonian operator can be transformed to the derivative on a familiy of reference intervals by suitable congruence relations allowing for studying the simpler case of a transport equation. Moreover, we provide well-posedness results for associated control problems without assuming any additional regularity of the operators involved.
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

@@ -5,12 +5,18 @@ date: 2013-12-17 00:00:00 +0100
 permalink: explicit-simplicial-discretization-of-distributed-parameter-port-hamiltonian-systems
 year: 2014
 authors: Marko Seslija, Jacquelien M.A. Scherpen, Arjan van der Schaft
-category: journal-article
-tag: Port-Hamiltonian systems; Dirac structures; Distributed-parameter systems; Structure-preserving discretization; Discrete geometry
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - dirac structures
+  - distributed-parameter systems
+  - structure-preserving discretization
+  - discrete geometry
 ---
  
 ## Authors
-[Marko Seslija](authors/marko-seslija), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Marko Seslija](authors/marko_seslija), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 Simplicial Dirac structures as finite analogues of the canonical Stokes–Dirac structure, capturing the topological laws of the system, are defined on simplicial manifolds in terms of primal and dual cochains related by the coboundary operators. These finite-dimensional Dirac structures offer a framework for the formulation of standard input–output finite-dimensional port-Hamiltonian systems that emulate the behavior of distributed-parameter port-Hamiltonian systems. This paper elaborates on the matrix representations of simplicial Dirac structures and the resulting port-Hamiltonian systems on simplicial manifolds. Employing these representations, we consider the existence of structural invariants and demonstrate how they pertain to the energy shaping of port-Hamiltonian systems on simplicial manifolds.

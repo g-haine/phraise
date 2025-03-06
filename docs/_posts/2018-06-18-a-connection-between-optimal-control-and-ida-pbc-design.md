@@ -5,12 +5,17 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-connection-between-optimal-control-and-ida-pbc-design
 year: 2018
 authors: N.M. Trang Vu, L. Lefèvre
-category: journal-article
-tag: Port-Controlled Hamiltonian (PCH) systems; Interconnection; Damping Assignment Passivity Based Control (IDA-PBC) parameterization; linear quadratic (LQ) optimal control
+category:
+  - proceedings
+tags:
+  - port-controlled hamiltonian (pch) systems
+  - interconnection
+  - damping assignment passivity based control (ida-pbc) parameterization
+  - linear quadratic (lq) optimal control
 ---
  
 ## Authors
-[N.M. Trang Vu](authors/ngoc-minh-trang-vu), [L. Lefèvre](authors/laurent-lefevre)
+[N.M. Trang Vu](authors/ngoc_minh_trang_vu), [L. Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 This paper discusses the relations between Interconnection and Damping Assignment - Passivity Based Control (IDA-PBC) design and Linear Quadratic (LQ) optimal control. It is first investigated how a given optimal control affect the closed-loop system design and, on the other hand, how an optimal criterion may be used as a guideline for IDA-PBC parameters design. The case of a trivial relation between the optimal control gain and the desired total power in the IDA-PBC design is investigated in this work while some other choices could be further considered. The proposed method is successfully illustrated via the example of a linearized pendulum.
@@ -26,7 +31,7 @@ Port-Controlled Hamiltonian (PCH) systems; Interconnection; Damping Assignment P
 - **Pages:** 205--210
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.054](https://doi.org/10.1016/j.ifacol.2018.06.054)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

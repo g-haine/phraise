@@ -5,11 +5,11 @@ date: 2002-09-18 00:00:00 +0100
 permalink: existence-of-solutions-to-the-hamilton-jacobi-bellman-equation-under-quadratic-growth-conditions
 year: 2001
 authors: Kazufumi Ito
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Kazufumi Ito](authors/kazufumi-ito)
+[Kazufumi Ito](authors/kazufumi_ito)
  
 ## Abstract
 In this paper we show the existence of solutions with quadratic growth to Hamilton–Jacobi–Bellman equations. We assume that the Hamiltonian has the quadratic growth both in x and p. We obtain the explicit Lipschitz bound of solutions in the weighted sup-norm. Also, we discuss the vanishing viscosity limit of solutions and show the existence of viscosity solutions to the resulting Hamilton–Jacobi equation.

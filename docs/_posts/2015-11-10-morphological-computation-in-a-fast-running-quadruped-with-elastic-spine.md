@@ -5,12 +5,18 @@ date: 2015-11-10 00:00:00 +0100
 permalink: morphological-computation-in-a-fast-running-quadruped-with-elastic-spine
 year: 2015
 authors: Gerrit A. Folkertsma, Arjan J. van der Schaft, Stefano Stramigioli
-category: journal-article
-tag: Robot dynamics; Control by interconnection; Locomotion; Numerical simulation; Port-Hamiltonian Systems
+category:
+  - proceedings
+tags:
+  - robot dynamics
+  - control by interconnection
+  - locomotion
+  - numerical simulation
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Gerrit A. Folkertsma](authors/gerrit-a-folkertsma), [Arjan J. van der Schaft](authors/arjan-van-der-schaft), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Gerrit A. Folkertsma](authors/gerrit_a_folkertsma), [Arjan J. van der Schaft](authors/arjan_van_der_schaft), [Stefano Stramigioli](authors/stefano_stramigioli)
  
 ## Abstract
 In high-speed locomotion, control is best shared between \brain" and \body": if the natural body dynamics already exhibit desired behaviour, control action can be restricted to stabilising this behaviour, or providing energy to keep it going. This morphological computation can be modelled and designed using Port-Hamiltonian systems (PHS) theory, since the basis of both is the interconnection of dynamic elements. In this paper, we explore the application of PHS to morphological computation, showing that a three degrees-of-freedom elastic spring functioning as spine in a quadrupedal robot can lead to forward locomotion|without any complicated control action whatsoever.
@@ -26,7 +32,7 @@ Robot dynamics; Control by interconnection; Locomotion; Numerical simulation; Po
 - **Pages:** 170--175
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.234](https://doi.org/10.1016/j.ifacol.2015.10.234)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

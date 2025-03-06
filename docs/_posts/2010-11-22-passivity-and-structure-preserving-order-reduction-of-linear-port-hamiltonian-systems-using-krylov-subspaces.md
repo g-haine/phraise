@@ -5,12 +5,17 @@ date: 2010-11-22 00:00:00 +0100
 permalink: passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces
 year: 2010
 authors: Thomas Wolf, Boris Lohmann, Rudy Eid, Paul Kotyczka
-category: journal-article
-tag: Order reduction; Port-Hamiltonian systems; Structure preserving; Moment matching
+category:
+  - articles
+tags:
+  - order reduction
+  - port-hamiltonian systems
+  - structure preserving
+  - moment matching
 ---
  
 ## Authors
-[Thomas Wolf](authors/thomas-wolf), [Boris Lohmann](authors/boris-lohmann), [Rudy Eid](authors/rudy-eid), [Paul Kotyczka](authors/paul-kotyczka)
+[Thomas Wolf](authors/thomas_wolf), [Boris Lohmann](authors/boris_lohmann), [Rudy Eid](authors/rudy_eid), [Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 In this paper, a new structure-preserving scheme for the reduction of linear port-Hamiltonian systems with dissipation using Krylov subspaces is presented. It is shown how to choose the projection matrices in order to guarantee the moment matching property and to obtain a passive and thus stable reduced-order model in port-Hamiltonian form. The method is suitable for the reduction of largescale systems as it employs only the well-known Arnoldi algorithm and matrix-vector multiplications to compute the reduced-order model. Afinite element model is reduced to illustrate the new method.

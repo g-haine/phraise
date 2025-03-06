@@ -5,11 +5,11 @@ date: 2017-01-19 00:00:00 +0100
 permalink: trajectory-tracking-passivity-based-control-for-marine-vehicles-subject-to-disturbances
 year: 2017
 authors: Alejandro Donaire, Jose Guadalupe Romero, Tristan Perez
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Alejandro Donaire](authors/alejandro-donaire), [Jose Guadalupe Romero](authors/jose-guadalupe-romero), [Tristan Perez](authors/tristan-perez)
+[Alejandro Donaire](authors/alejandro_donaire), [Jose Guadalupe Romero](authors/jose_guadalupe_romero), [Tristan Perez](authors/tristan_perez)
  
 ## Abstract
 In this paper we present a dynamic model of marine vehicles in both body-fixed and inertial momentum coordinates using port-Hamiltonian framework. The dynamics in body-fixed coordinates have a particular structure of the mass matrix that allows the application of passivity-based control design developed for robust energy shaping stabilisation of mechanical systems described in terms of generalised coordinates. As an example of application, we follow this methodology to design a passivity-based controller with integral action for fully actuated vehicles in six degrees of freedom that tracks time-varying references and rejects disturbances. We illustrate the performance of this controller in a simulation example of an open-frame unmanned underwater vehicle subject to both constant and time-varying disturbances. We also describe a momentum transformation that allows an alternative model representation of marine craft dynamics that resembles general port-Hamiltonian mechanical systems with a coordinate dependent mass matrix.

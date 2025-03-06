@@ -5,14 +5,14 @@ date: 2018-04-17 00:00:00 +0100
 permalink: a-constructive-globally-convergent-adaptive-speed-observer-for-port-hamiltonian-mechanical-systems-with-non-holonomic-constraints
 year: 2019
 authors: Ammar Touati Brahim, Madjid Kidouche
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ammar Touati Brahim](authors/ammar-touati-brahim), [Madjid Kidouche](authors/madjid-kidouche)
+[Ammar Touati Brahim](authors/ammar_touati_brahim), [Madjid Kidouche](authors/madjid_kidouche)
  
 ## Abstract
-This paper presents an adaptive speed observer for general port‐Hamiltonian mechanical systems with non‐holonomic constraints in the presence of unknown friction forces and constant disturbances. Unlike the observers recently reported in the literature, which have been designed either under the assumptions of no friction and the absence of disturbances or for a specific class of mechanical systems with the requirement of an explicit solution of certain Partial Differential Equations (PDEs) that cannot be derived \*a priori\*, this observer proposes a design that obviates the solution of PDEs and ensures global convergence for general mechanical systems with k‐non‐holonomic constraints. The observer is totally constructive and given by explicit expressions. The simulation results testify to the effectiveness and the robust features of the developed observer.
+This paper presents an adaptive speed observer for general port‐Hamiltonian mechanical systems with non‐holonomic constraints in the presence of unknown friction forces and constant disturbances. Unlike the observers recently reported in the literature, which have been designed either under the assumptions of no friction and the absence of disturbances or for a specific class of mechanical systems with the requirement of an explicit solution of certain Partial Differential Equations (PDEs) that cannot be derived *a priori*, this observer proposes a design that obviates the solution of PDEs and ensures global convergence for general mechanical systems with k‐non‐holonomic constraints. The observer is totally constructive and given by explicit expressions. The simulation results testify to the effectiveness and the robust features of the developed observer.
  
 ## Citation
 - **Journal:** Asian Journal of Control

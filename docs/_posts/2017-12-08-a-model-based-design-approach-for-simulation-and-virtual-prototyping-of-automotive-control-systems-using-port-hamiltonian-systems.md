@@ -5,12 +5,18 @@ date: 2017-12-08 00:00:00 +0100
 permalink: a-model-based-design-approach-for-simulation-and-virtual-prototyping-of-automotive-control-systems-using-port-hamiltonian-systems
 year: 2019
 authors: Siyuan Dai, Zhenkai Zhang, Xenofon Koutsoukos
-category: journal-article
-tag: Cyber–physical systems; Model-based design; Port-Hamiltonian systems; Passivity; Automotive control software
+category:
+  - articles
+tags:
+  - cyber–physical systems
+  - model-based design
+  - port-hamiltonian systems
+  - passivity
+  - automotive control software
 ---
  
 ## Authors
-[Siyuan Dai](authors/siyuan-dai), [Zhenkai Zhang](authors/zhenkai-zhang), [Xenofon Koutsoukos](authors/xenofon-koutsoukos)
+[Siyuan Dai](authors/siyuan_dai), [Zhenkai Zhang](authors/zhenkai_zhang), [Xenofon Koutsoukos](authors/xenofon_koutsoukos)
  
 ## Abstract
 Cyber–physical systems (CPS) such as automotive control systems consist of various interacting cyber and physical components. Heterogeneous domains, composition of multiple components, complex dynamics, and nonlinearities result in significant challenges for design, modeling, and simulation of CPS. Model-based design can be used to address such challenges, but it is very important to use physically accurate heterogeneous models that can be composed to represent the overall system behavior. Further, it is important to preserve the properties derived from analyses based on the mathematical models in the control system implementation in order to reduce costly testing and design changes late in the development cycle. This paper proposes a model-based design methodology for automotive control software using port-Hamiltonian systems (PHS). PHS are used to model the vehicle dynamics, speed and steering control systems, and the interactions between physical and cyber components. Passivity analysis is used to design the controllers and ensure system stability. More importantly, the proposed approach guarantees that passivity is preserved after time-discretization and quantization of the controllers. The models are then used for code generation and compilation, scheduling, and software deployment, ensuring that passivity is preserved by the control system implementation. We evaluate the methodology using an automotive control design case study implemented on a hardware-in-the-loop simulation platform and present simulation results to demonstrate its effectiveness.

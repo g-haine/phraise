@@ -5,11 +5,11 @@ date: 2024-07-31 00:00:00 +0100
 permalink: a-novel-mixed-finite-infinite-dimensional-port-hamiltonian-model-of-a-mechanical-ventilator
 year: 2024
 authors: Milka C. I. Madahana, John E. D. Ekoru, Otis T. C. Nyandoro
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Milka C. I. Madahana](authors/milka-c-i-madahana), [John E. D. Ekoru](authors/john-e-d-ekoru), [Otis T. C. Nyandoro](authors/otis-o-t-c-nyandoro)
+[Milka C. I. Madahana](authors/milka_c_i_madahana), [John E. D. Ekoru](authors/john_e_d_ekoru), [Otis T. C. Nyandoro](authors/otis_o_t_c_nyandoro)
  
 ## Abstract
 Mechanical ventilation is a life-saving treatment for critically ill patients who are struggling to breathe independently due to injury or disease. Globally, per year, there has always been a large number of individuals who have required mechanical ventilation. The COVID-19 pandemic brought to light the significance of mechanical ventilation, which played a significant role in sustaining COVID-19-infected critically ill patients who could not breathe on their own. The pandemic drew the attention of the world to the shortage of ventilators globally. Some of the challenges to providing an adequate number of ventilators include: increased demand for ventilators, supply chain disruptions, manufacturing constraints, distribution inequalities, financial constraints, maintenance and logistics difficulties, training and expertise shortages, and the lack of design and development of affordable mechanical ventilators that satisfy the stipulated requirements. This research work presents the formulation of a detailed Port–Hamiltonian model of a mechanical ventilator integrated with the human respiratory system. The interconnection and coupling conditions for the various subsystems within the mechanical ventilator and the coupling between the mechanical ventilator and the human respiratory system are also presented. Structure-preserving discretization is provided alongside numerical simulations and results. The obtained results are found to be comparable to results presented in the literature. Future work will include the design of suitable controllers for the system.

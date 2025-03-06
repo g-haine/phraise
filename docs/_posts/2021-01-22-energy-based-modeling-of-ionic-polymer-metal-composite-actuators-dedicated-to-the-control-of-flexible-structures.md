@@ -5,11 +5,11 @@ date: 2021-01-22 00:00:00 +0100
 permalink: energy-based-modeling-of-ionic-polymer-metal-composite-actuators-dedicated-to-the-control-of-flexible-structures
 year: 2021
 authors: Ning Liu, Yongxin Wu, Yann Le Gorrec
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ning Liu](authors/ning-liu), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Ning Liu](authors/ning_liu), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This article deals with the control-oriented energy-based modeling of ionic polymer–metal composite (IPMC) patches using multiscale infinite dimensional port-Hamiltonian formulations and Lagrange multipliers. Inspired by the work of Nishida et al. in 2012, but considering different assumptions, this article focuses on the constraints arising from the coupling between the polymer gel and the compliant mechanical structure of the actuator, under the quasi-static mechanical assumption for the gel, leading to a constrained port-Hamiltonian system. The geometric structure of the overall system and the associated energy balance are derived. The proposed energy-based model of the IPMC actuator allows deriving controllers via energy-based control design methods with a clear physical interpretation. The proposed actuator model is further discretized in space using a structure preserving finite difference method. The Lagrange multipliers are eliminated using coordinate projections. Simulations are compared with experimental results. With proper discretization numbers, our model is consistent with the physical system. Finally, Lagrange multipliers are exploited to connect the actuator to a 2-D flexible structure stemming from the modeling of a flexible endoscope.

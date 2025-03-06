@@ -5,12 +5,19 @@ date: 2021-11-19 00:00:00 +0100
 permalink: full-order-observer-design-for-a-class-of-nonlinear-port-hamiltonian-systems
 year: 2021
 authors: Martin Pfeifer, Sven Caspart, Felix Strehle, Sören Hohmann
-category: journal-article
-tag: Port-Hamiltonian systems; observer design; nonlinear systems; state estimation; output estimation; system damping
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - observer design
+  - nonlinear systems
+  - state estimation
+  - output estimation
+  - system damping
 ---
  
 ## Authors
-[Martin Pfeifer](authors/martin-pfeifer), [Sven Caspart](authors/sven-caspart), [Felix Strehle](authors/felix-strehle), [Sören Hohmann](authors/soren-hohmann)
+[Martin Pfeifer](authors/martin_pfeifer), [Sven Caspart](authors/sven_caspart), [Felix Strehle](authors/felix_strehle), [Sören Hohmann](authors/soren_hohmann)
  
 ## Abstract
 In this paper, we present a simple method to design a full-order observer for a class of nonlinear port-Hamiltonian systems (PHSs). We provide a sufficient condition for the observer to be globally exponentially convergent. This condition exploits the natural damping of the system. The observer and its design are illustrated by means of an academic example system. Numerical simulations verify the convergence of the reconstructions towards the unknown system variables.
@@ -26,7 +33,7 @@ Port-Hamiltonian systems; observer design; nonlinear systems; state estimation; 
 - **Pages:** 149--154
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.070](https://doi.org/10.1016/j.ifacol.2021.11.070)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

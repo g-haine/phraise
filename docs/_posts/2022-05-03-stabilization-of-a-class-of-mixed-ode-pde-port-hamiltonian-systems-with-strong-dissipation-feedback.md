@@ -5,12 +5,18 @@ date: 2022-05-03 00:00:00 +0100
 permalink: stabilization-of-a-class-of-mixed-ode-pde-port-hamiltonian-systems-with-strong-dissipation-feedback
 year: 2022
 authors: Andrea Mattioni, Yongxin Wu, Yann Le Gorrec, Hans Zwart
-category: journal-article
-tag: Distributed-parameter system; Strong feedback control; Asymptotic stability; Numerical simulations; Port-Hamiltonian systems
+category:
+  - articles
+tags:
+  - distributed-parameter system
+  - strong feedback control
+  - asymptotic stability
+  - numerical simulations
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea-mattioni), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec), [Hans Zwart](authors/hans-zwart)
+[Andrea Mattioni](authors/andrea_mattioni), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec), [Hans Zwart](authors/hans_zwart)
  
 ## Abstract
 This paper deals with the asymptotic stabilization of a class of port-Hamiltonian (pH) 1-D Partial Differential Equations (PDE) with spatial varying parameters, interconnected with a class of linear Ordinary Differential Equations (ODE), with control input on the ODE. The class of considered ODE contains the effect of a proportional term, that can be considered as the proportional action of a controller or a spring in case of mechanical systems. In this particular case of study, it is not possible to directly add damping on the boundary of the PDE. To remedy this problem we propose a control law that makes use of a “strong feedback” term. We first prove that the closed-loop operator generates a contraction strongly continuous semigroup, then we address the asymptotic stability making use of a Lyapunov argument, taking advantage of the pH structure of the original system to be controlled. Furthermore, we apply the proposed control law for the stabilization of a vibrating string with a tip mass and we show the simulation results compared with the application of a simple PD controller.

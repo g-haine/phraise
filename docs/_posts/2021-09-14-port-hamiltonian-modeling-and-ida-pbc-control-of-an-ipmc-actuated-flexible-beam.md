@@ -5,11 +5,11 @@ date: 2021-09-14 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-ida-pbc-control-of-an-ipmc-actuated-flexible-beam
 year: 2021
 authors: Weijun Zhou, Yongxin Wu, Haiqiang Hu, Yanjun Li, Yu Wang
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Weijun Zhou](authors/weijun-zhou), [Yongxin Wu](authors/yongxin-wu), [Haiqiang Hu](authors/haiqiang-hu), [Yanjun Li](authors/yanjun-li), [Yu Wang](authors/yu-wang)
+[Weijun Zhou](authors/weijun_zhou), [Yongxin Wu](authors/yongxin_wu), [Haiqiang Hu](authors/haiqiang_hu), [Yanjun Li](authors/yanjun_li), [Yu Wang](authors/yu_wang)
  
 ## Abstract
 In this paper, the infinite-dimensional port-Hamiltonian modelling and control problem of a flexible beam actuated using ionic polymer metal composite (IPMC) actuators is investigated. The port-Hamiltonian framework is used to propose an interconnected control model of the mechanical flexible beam and the IPMC actuator. The mechanical flexible dynamic is modelled as a Timoshenko beam, and the electric dynamics of the IPMCs are considered in the model. Furthermore, a passivity-based control-strategy is used to obtain the desired configuration of the proposed interconnected system, and the closed-loop stability is analyzed using the early lumped approach. Lastly, numerical simulations and experimental results are presented to validate the proposed model and the effectiveness of the proposed control law.

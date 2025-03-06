@@ -5,12 +5,16 @@ date: 2021-11-19 00:00:00 +0100
 permalink: distributed-control-for-infinite-dimensional-port-hamiltonian-systems
 year: 2021
 authors: Alessandro Macchelli
-category: journal-article
-tag: port-Hamiltonian systems; passivity-based control; stability analisys
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - passivity-based control
+  - stability analisys
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 The aim of the paper is twofold. At first, a class of autonomous port-Hamiltonian systems whose dynamic is described by coupled PDEs and (nonlinear) ODEs is presented, and some properties (i.e., well-posedness and asymptotic stability of the origin) investigated. Secondly, an energy-based control design methodology is discussed. The finite-dimensional subsystem is equipped with an input, and a procedure for designing a state-feedback control action that maps the open-loop dynamic to a target one still in port-Hamiltonian form is illustrated. The idea is that the corresponding error system meets the requirements regarding the asymptotic stability of the origin stated in the first part of the paper. In this way, asymptotic convergence of the trajectories to the desired equilibrium configuration can be proved.
@@ -26,7 +30,7 @@ port-Hamiltonian systems; passivity-based control; stability analisys
 - **Pages:** 52--57
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.054](https://doi.org/10.1016/j.ifacol.2021.11.054)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

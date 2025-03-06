@@ -5,12 +5,18 @@ date: 2019-06-13 00:00:00 +0100
 permalink: robust-trajectory-tracking-for-incrementally-passive-nonlinear-systems
 year: 2019
 authors: Chengshuai Wu, Arjan van der Schaft, Jian Chen
-category: journal-article
-tag: Incremental passivity; Trajectory tracking; Robust control; Port-Hamiltonian systems; Asymptotic stability
+category:
+  - articles
+tags:
+  - incremental passivity
+  - trajectory tracking
+  - robust control
+  - port-hamiltonian systems
+  - asymptotic stability
 ---
  
 ## Authors
-[Chengshuai Wu](authors/chengshuai-wu), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Jian Chen](authors/jian-chen)
+[Chengshuai Wu](authors/chengshuai_wu), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Jian Chen](authors/jian_chen)
  
 ## Abstract
 In this paper, we study the robust trajectory tracking problem for a class of nonlinear systems with incremental passivity. The velocity of the desired trajectory and parts of the model information are unknown apart from boundedness assumptions. A velocity observer based method and a sliding mode controller are proposed while the asymptotic tracking result is guaranteed by a zero-state detectability condition for both cases. Unlike previous results, the studied systems are not necessarily feedback linearizable nor in a strict feedback form. The ball and beam system is utilized to illustrate the implementation of the proposed tracking control laws.

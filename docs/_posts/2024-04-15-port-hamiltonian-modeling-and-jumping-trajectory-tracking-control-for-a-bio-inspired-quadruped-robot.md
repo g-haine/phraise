@@ -5,12 +5,17 @@ date: 2024-04-15 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-jumping-trajectory-tracking-control-for-a-bio-inspired-quadruped-robot
 year: 2024
 authors: Chi Zhang, Wei Zou, Liping Ma, Ningbo Cheng
-category: journal-article
-tag: Port-Hamiltonian with dissipation(pHd); Bio-inspired jumping robot; Dynamic modeling; Interconnection and damping assignment passivity-based control(IDA-PBC)
+category:
+  - articles
+tags:
+  - port-hamiltonian with dissipation(phd)
+  - bio-inspired jumping robot
+  - dynamic modeling
+  - interconnection and damping assignment passivity-based control(ida-pbc)
 ---
  
 ## Authors
-[Chi Zhang](authors/chi-zhang), [Wei Zou](authors/wei-zou), [Liping Ma](authors/liping-ma), [Ningbo Cheng](authors/ningbo-cheng)
+[Chi Zhang](authors/chi_zhang), [Wei Zou](authors/wei_zou), [Liping Ma](authors/liping_ma), [Ningbo Cheng](authors/ningbo_cheng)
  
 ## Abstract
 Applying jumping locomotion into autonomous mobile robot is an effective way for improving abilities to overcome barriers and pass through complex terrains. In this paper, based on the designed structural framework for bio-inspired quadruped jumping robot, dynamic model is established by utilizing port-Hamiltonian with dissipation (pHd) method, and a passivity-based control strategy for the robot joints trajectory tracking is presented. First, morphology and biomimetics knowledges of frogs (a kind of animals with excellent jumping skill) motivate us to complete a bio-inspired jumping robot framework based on frog’s motion mechanism and body structure with torsional springs as energy storage device. Then, combining system passivity and dissipation, port-Hamiltonian method is utilized to build a dynamic model for expressing the relationship of energy and force in the designed robot. Jumping process analysis of different stages is also designed for ensuring the robot to complete taking-off and landing stages successfully. Next, with the definition of extending feasible robotic joint trajectory by La Salle invariant set principle, interconnection and damping assignment passivity-based control (IDA-PBC) method is exerted to obtain a trajectory controller for realizing smoothly and stably trajectory tracking in joint space. At last, simulation results show the reasonableness of the designed framework. By comparing our method with state-feedback and sliding mode control, effectiveness of the dynamic model and trajectory controller is also verified.

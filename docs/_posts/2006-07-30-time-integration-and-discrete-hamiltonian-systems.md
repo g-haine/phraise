@@ -5,12 +5,18 @@ date: 2006-07-30 00:00:00 +0100
 permalink: time-integration-and-discrete-hamiltonian-systems
 year: 1996
 authors: O. Gonzalez
-category: journal-article
-tag: Hamiltonian System; Discrete System; Relative Equilibrium; Symplectic Structure; Reduce Phase Space
+category:
+  - articles
+tags:
+  - hamiltonian system
+  - discrete system
+  - relative equilibrium
+  - symplectic structure
+  - reduce phase space
 ---
  
 ## Authors
-[O. Gonzalez](authors/o-gonzalez)
+[O. Gonzalez](authors/o_gonzalez)
  
 ## Abstract
 This paper develops a formalism for the design of conserving time-integration schemes for Hamiltonian systems with symmetry. The main result is that, through the introduction of a discrete directional derivative, implicit second-order conserving schemes can be constructed for general systems which preserve the Hamiltonian along with a certain class of other first integrals arising from affine symmetries. Discrete Hamiltonian systems are introduced as formal abstractions of conserving schemes and are analyzed within the context of discrete dynamical systems; in particular, various symmetry and stability properties are investigated.

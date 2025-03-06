@@ -5,11 +5,11 @@ date: 2013-03-14 00:00:00 +0100
 permalink: port-hamiltonian-systems-on-graphs
 year: 2013
 authors: A. J. van der Schaft, B. M. Maschke
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[A. J. van der Schaft](authors/arjan-van-der-schaft), [B. M. Maschke](authors/bernhard-maschke)
+[A. J. van der Schaft](authors/arjan_van_der_schaft), [B. M. Maschke](authors/bernhard_maschke)
  
 ## Abstract
 In this paper we present a unifying geometric and compositional framework for modeling complex physical network dynamics as port-Hamiltonian systems on open graphs. Basic idea is to associate with the incidence matrix of the graph a Dirac structure relating the flow and effort variables associated to the edges, internal vertices, as well as boundary vertices of the graph, and to formulate energy-storing or energy-dissipating relations between the flow and effort variables of the edges and internal vertices. This allows for state variables associated to the edges, and formalizes the interconnection of networks. Examples from different origins such as consensus algorithms are shown to share the same structure. It is shown how the identified Hamiltonian structure offers systematic tools for the analysis of the resulting dynamics.

@@ -5,12 +5,16 @@ date: 2022-11-23 00:00:00 +0100
 permalink: explicit-structure-preserving-discretization-of-port-hamiltonian-systems-with-mixed-boundary-control
 year: 2022
 authors: Andrea Brugnoli, Ghislain Haine, Denis Matignon
-category: journal-article
-tag: Port-Hamiltonian systems (pHs); Partitioned Finite Element Method (PFEM); Mixed Boundary Control
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems (phs)
+  - partitioned finite element method (pfem)
+  - mixed boundary control
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea-brugnoli), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
+[Andrea Brugnoli](authors/andrea_brugnoli), [Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 In this contribution, port-Hamiltonian systems with non-homogeneous mixed boundary conditions are discretized in a structure-preserving fashion by means of the Partitioned FEM. This means that the power balance and the port-Hamiltonian structure of the continuous equations is preserved at the discrete level. The general construction relies on a weak imposition of the boundary conditions by means of the Hellinger-Reissner variational principle, as recently proposed in [Thoma et al., 2021]. The case of linear hyperbolic wave-like systems, including the elastodynamic problem and the Maxwell equations in 3D, is then illustrated in detail. A numerical example is worked out on the case of the wave equation.
@@ -26,7 +30,7 @@ Port-Hamiltonian systems (pHs); Partitioned Finite Element Method (PFEM); Mixed 
 - **Pages:** 418--423
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.089](https://doi.org/10.1016/j.ifacol.2022.11.089)
-- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}

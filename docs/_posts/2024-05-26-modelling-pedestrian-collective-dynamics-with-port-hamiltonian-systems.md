@@ -5,12 +5,17 @@ date: 2024-05-26 00:00:00 +0100
 permalink: modelling-pedestrian-collective-dynamics-with-port-hamiltonian-systems
 year: 2024
 authors: Antoine Tordeux, Claudia Totzeck, Sylvain Lassarre, Jean-Patrick Lebacque
-category: book-chapter
-tag: Pedestrian dynamics; Port-Hamiltonian system; Forcebased model; Collective dynamics
+category:
+  - proceedings
+tags:
+  - pedestrian dynamics
+  - port-hamiltonian system
+  - forcebased model
+  - collective dynamics
 ---
  
 ## Authors
-[Antoine Tordeux](authors/antoine-tordeux), [Claudia Totzeck](authors/claudia-totzeck), [Sylvain Lassarre](authors/sylvain-lassarre), [Jean-Patrick Lebacque](authors/jean-patrick-lebacque)
+[Antoine Tordeux](authors/antoine_tordeux), [Claudia Totzeck](authors/claudia_totzeck), [Sylvain Lassarre](authors/sylvain_lassarre), [Jean-Patrick Lebacque](authors/jean_patrick_lebacque)
  
 ## Abstract
 Port-Hamiltonian systems (PHS) are increasingly popular modelling approaches for nonlinear physical systems. In this contribution, we identify a general class of microscopic force-based pedestrian models that can be formulated as a port-Hamiltonian system. The port-Hamiltonian paradigm allows for identification of new fundamental physical modelling components of pedestrian dynamics. The skew-symmetric term specific to the conservative Hamiltonian structure of the PHS corresponds to pedestrian isotropic interaction forces. The dissipation to the input port accounts for the pedestrian’s desired velocity and sensitivity, the input acting in the PHS as a feedback control. Some simulations of counter-flow are performed on a torus. Interestingly, a phase transition from disorder dynamics to self-organising lane formation occurs as the conservative forces become weak relative to the dissipation and control forces. A critical parameter setting for lane formation can then be identified using the Hamiltonian as an order parameter.
@@ -22,7 +27,7 @@ Pedestrian dynamics; Port-Hamiltonian system; Forcebased model; Collective dynam
 - **ISBN:** 9789819979752
 - **Publisher:** Springer Nature Singapore
 - **DOI:** [10.1007/978-981-99-7976-9_24](https://doi.org/10.1007/978-981-99-7976-9_24)
-- **Note:** International Conference on Traffic and Granular Flow
+- **Event:** International Conference on Traffic and Granular Flow
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,17 @@ date: 2019-06-28 00:00:00 +0100
 permalink: lq-optimal-control-of-boundary-control-systems
 year: 2020
 authors: Dongmei Liu, Liu Liu, Yufeng Lu
-category: journal-article
-tag: Boundary control systems; LQ-optimal control; Output optimal control; Port-Hamiltonian systems
+category:
+  - articles
+tags:
+  - boundary control systems
+  - lq-optimal control
+  - output optimal control
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Dongmei Liu](authors/dongmei-liu), [Liu Liu](authors/liu-liu), [Yufeng Lu](authors/yufeng-lu)
+[Dongmei Liu](authors/dongmei_liu), [Liu Liu](authors/liu_liu), [Yufeng Lu](authors/yufeng_lu)
  
 ## Abstract
 In this paper, an extended model for boundary control systems is given. The model is used to solve the LQ-optimal control problem for boundary control systems. It is shown that there exists an equivalent relationship between the LQ-optimal control of boundary control systems and the output optimal control of the extended models. These results are applied to the port-Hamiltonian systems.

@@ -5,11 +5,11 @@ date: 2023-06-28 00:00:00 +0100
 permalink: a-passivity-based-integral-sliding-mode-controller-for-mechanical-port-hamiltonian-systems
 year: 2023
 authors: Takahiro Baba, Kenji Fujimoto, Ichiro Maruta
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Takahiro Baba](authors/takahiro-baba), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta)
+[Takahiro Baba](authors/takahiro_baba), [Kenji Fujimoto](authors/kenji_fujimoto), [Ichiro Maruta](authors/ichiro_maruta)
  
 ## Abstract
 This letter proposes a passivity based integral sliding mode controller for mechanical port-Hamiltonian systems. Recently, passivity based sliding mode control (PBSMC) has been proposed for mechanical and electro-mechanical systems. This method has properties of both sliding mode control (SMC) and passivity based control. However, the robustness of the closed-loop system is not guaranteed in the reaching phase. For this problem, integral sliding mode control (ISMC), which eliminates the reaching phase, has been proposed. This letter proposes a unified control method of passivity based control and integral sliding mode control based on the idea of PBSMC. In order to achieve ISMC in the port-Hamiltonian form, an integral term of the sliding variable of PBSMC is firstly added to the system equation. Next, by adding an appropriate potential function to the Hamiltonian function, the dynamics of ISMC is obtained. The proposed method is more robust than PBSMC and ensures Lyapunov stability even if the resulting feedback controller is replaced by its continuous approximation to alleviate the chattering phenomena. The effectiveness of the proposed method is demonstrated by a numerical example.

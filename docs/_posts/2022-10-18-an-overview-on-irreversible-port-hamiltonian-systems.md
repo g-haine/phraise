@@ -5,11 +5,11 @@ date: 2022-10-18 00:00:00 +0100
 permalink: an-overview-on-irreversible-port-hamiltonian-systems
 year: 2022
 authors: Hector Ramirez, Yann Le Gorrec
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 A comprehensive overview of the irreversible port-Hamiltonian system’s formulation for finite and infinite dimensional systems defined on 1D spatial domains is provided in a unified manner. The irreversible port-Hamiltonian system formulation shows the extension of classical port-Hamiltonian system formulations to cope with irreversible thermodynamic systems for finite and infinite dimensional systems. This is achieved by including, in an explicit manner, the coupling between irreversible mechanical and thermal phenomena with the thermal domain as an energy-preserving and entropy-increasing operator. Similarly to Hamiltonian systems, this operator is skew-symmetric, guaranteeing energy conservation. To distinguish from Hamiltonian systems, the operator depends on co-state variables and is, hence, a nonlinear-function in the gradient of the total energy. This is what allows encoding the second law as a structural property of irreversible port-Hamiltonian systems. The formalism encompasses coupled thermo-mechanical systems and purely reversible or conservative systems as a particular case. This appears clearly when splitting the state space such that the entropy coordinate is separated from other state variables. Several examples have been used to illustrate the formalism, both for finite and infinite dimensional systems, and a discussion on ongoing and future studies is provided.

@@ -5,11 +5,11 @@ date: 2016-04-12 00:00:00 +0100
 permalink: safety-analysis-of-automotive-control-systems-using-multi-modal-port-hamiltonian-systems
 year: 2016
 authors: Siyuan Dai, Xenofon Koutsoukos
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Siyuan Dai](authors/siyuan-dai), [Xenofon Koutsoukos](authors/xenofon-koutsoukos)
+[Siyuan Dai](authors/siyuan_dai), [Xenofon Koutsoukos](authors/xenofon_koutsoukos)
  
 ## Abstract
 Safety analysis is important when designing and developing cyber-physical systems (CPS). An autonomous vehicle can be described as a complex CPS where the physical dynamics of the vehicle interact with the control systems. The challenge is ensuring safety despite nonlinearities, hybrid dynamics, and disturbances as well as complex cyber-physical interactions. In this paper, we present an approach for the safety analysis of automotive control systems using multimodal port-Hamiltonian systems (PHS). The approach uses the Hamiltonian function to represent the energy of the safe and unsafe states and employs passivity to prove that trajectories that begin in safe regions cannot enter unsafe regions. We first apply the approach to the safety analysis of a longitudinal vehicle dynamics composed with an adaptive cruise control (ACC) system. We then extend the results to the safety analysis of a combined longitudinal and lateral vehicle dynamics composed with an ACC and lane keeping control (LKC) system. Simulation results are presented to demonstrate the approach.

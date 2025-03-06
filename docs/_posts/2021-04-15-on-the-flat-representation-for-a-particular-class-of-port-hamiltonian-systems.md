@@ -5,12 +5,18 @@ date: 2021-04-15 00:00:00 +0100
 permalink: on-the-flat-representation-for-a-particular-class-of-port-hamiltonian-systems
 year: 2020
 authors: I. Zafeiratou, I. Prodan, L. Lefèvre
-category: journal-article
-tag: Flatness; Bond graphs; Bicausality; Port-Hamiltonian systems; Electrical storage
+category:
+  - proceedings
+tags:
+  - flatness
+  - bond graphs
+  - bicausality
+  - port-hamiltonian systems
+  - electrical storage
 ---
  
 ## Authors
-[I. Zafeiratou](authors/i-zafeiratou), [I. Prodan](authors/ionela-prodan), [L. Lefèvre](authors/laurent-lefevre)
+[I. Zafeiratou](authors/i_zafeiratou), [I. Prodan](authors/ionela_prodan), [L. Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 This paper pertains to the flat representation of a class of port-Hamiltonian (PH) systems and advocates the use of bicausality of Bond graphs for finding appropriate flat outputs. Systems which are differentially flat have several useful properties which can be exploited to generate, for example, optimal trajectories/profiles which ensure constraints satisfaction. For the special case of PH systems combining the power preserving property with the flatness properties leads to effective control strategies for multi-physical systems. Hence, the purpose of this paper is to explore the implications and features of a particular class of PH systems (which can be retrieved from a Bond Graph representation) in finding their flat output representation. We concentrate on the example of an electrical storage system of a DC microgrid to illustrate the proposed theory.
@@ -26,7 +32,7 @@ Flatness; Bond graphs; Bicausality; Port-Hamiltonian systems; Electrical storage
 - **Pages:** 13143--13148
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.2505](https://doi.org/10.1016/j.ifacol.2020.12.2505)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

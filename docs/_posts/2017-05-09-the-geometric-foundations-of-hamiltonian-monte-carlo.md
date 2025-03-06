@@ -5,11 +5,11 @@ date: 2017-05-09 00:00:00 +0100
 permalink: the-geometric-foundations-of-hamiltonian-monte-carlo
 year: 2017
 authors: Michael Betancourt, Simon Byrne, Sam Livingstone, Mark Girolami
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Michael Betancourt](authors/michael-betancourt), [Simon Byrne](authors/simon-byrne), [Sam Livingstone](authors/sam-livingstone), [Mark Girolami](authors/mark-girolami)
+[Michael Betancourt](authors/michael_betancourt), [Simon Byrne](authors/simon_byrne), [Sam Livingstone](authors/sam_livingstone), [Mark Girolami](authors/mark_girolami)
  
 ## Abstract
 Although Hamiltonian Monte Carlo has proven an empirical success, the lack of a rigorous theoretical understanding of the algorithm has in many ways impeded both principled developments of the method and use of the algorithm in practice. In this paper we develop the formal foundations of the algorithm through the construction of measures on smooth manifolds, and demonstrate how the theory naturally identifies efficient implementations and motivates promising generalizations.

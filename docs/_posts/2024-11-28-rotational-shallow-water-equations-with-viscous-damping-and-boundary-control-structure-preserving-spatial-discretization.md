@@ -5,12 +5,20 @@ date: 2024-11-28 00:00:00 +0100
 permalink: rotational-shallow-water-equations-with-viscous-damping-and-boundary-control-structure-preserving-spatial-discretization
 year: 2024
 authors: Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Laurent Lefèvre, Denis Matignon
-category: journal-article
-tag: Shallow water equations (SWE); Port-Hamiltonian systems (pHs); Viscous damping; Partitioned finite element method (PFEM); 76D55; 35Q35; 76M10
+category:
+  - articles
+tags:
+  - shallow water equations (swe)
+  - port-hamiltonian systems (phs)
+  - viscous damping
+  - partitioned finite element method (pfem)
+  - 76d55
+  - 35q35
+  - 76m10
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Matignon](authors/denis-matignon)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Ghislain Haine](authors/ghislain_haine), [Laurent Lefèvre](authors/laurent_lefevre), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 This paper is dedicated to structure-preserving spatial discretization of shallow water dynamics. First, a port-Hamiltonian formulation is provided for the two-dimensional rotational shallow water equations with viscous damping. Both tangential and normal boundary port variables are introduced. Then, the corresponding weak form is derived and a partitioned finite element method is applied to obtain a finite-dimensional continuous-time port-Hamiltonian approximation. Four simulation scenarios are investigated to illustrate the approach and show its effectiveness.

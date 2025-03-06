@@ -5,12 +5,18 @@ date: 2021-11-19 00:00:00 +0100
 permalink: adaptive-sampling-for-structure-preserving-model-order-reduction-of-port-hamiltonian-systems
 year: 2021
 authors: Paul Schwerdtner, Matthias Voigt
-category: journal-article
-tag: model reduction; H-infinity optimization; structured systems; port-Hamiltonian systems; structure-preserving methods
+category:
+  - proceedings
+tags:
+  - model reduction
+  - h-infinity optimization
+  - structured systems
+  - port-hamiltonian systems
+  - structure-preserving methods
 ---
  
 ## Authors
-[Paul Schwerdtner](authors/paul-schwerdtner), [Matthias Voigt](authors/matthias-voigt)
+[Paul Schwerdtner](authors/paul_schwerdtner), [Matthias Voigt](authors/matthias_voigt)
  
 ## Abstract
 We present an adaptive sampling strategy for the optimization-based structure-preserving model order reduction (MOR) algorithm developed in [Schwerdtner, P. and Voigt, M. (2020). Structure-preserving model order reduction by parameter optimization, Preprint arXiv:2011.07567]. This strategy reduces the computational demand and the required a priori knowledge about the given full-order model, while at the same time retaining a high accuracy compared to other structure-preserving but also unstructured MOR algorithms. A numerical study with a port-Hamiltonian benchmark system demonstrates the effectiveness of our method when combined with this new adaptive sampling strategy. We also investigate the distribution of the sample points.
@@ -26,7 +32,7 @@ model reduction; H-infinity optimization; structured systems; port-Hamiltonian s
 - **Pages:** 143--148
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.069](https://doi.org/10.1016/j.ifacol.2021.11.069)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

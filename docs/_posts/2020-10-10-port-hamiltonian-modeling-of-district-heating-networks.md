@@ -5,12 +5,24 @@ date: 2020-10-10 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-district-heating-networks
 year: 2020
 authors: Sarah-Alexa Hauschild, Nicole Marheineke, Volker Mehrmann, Jan Mohring, Arbi Moses Badlyan, Markus Rein, Martin Schmidt
-category: book-chapter
-tag: Partial differential equations on networks; Port-Hamiltonian model framework; Energy-based formulation; District heating network; Thermodynamic fluid flow; Turbulent pipe flow; Euler-like equations; 93A30; 35Q31; 37D35; 76-XX
+category:
+  - chapters
+tags:
+  - partial differential equations on networks
+  - port-hamiltonian model framework
+  - energy-based formulation
+  - district heating network
+  - thermodynamic fluid flow
+  - turbulent pipe flow
+  - euler-like equations
+  - 93a30
+  - 35q31
+  - 37d35
+  - 76-xx
 ---
  
 ## Authors
-[Sarah-Alexa Hauschild](authors/sarah-alexa-hauschild), [Nicole Marheineke](authors/nicole-marheineke), [Volker Mehrmann](authors/volker-mehrmann), [Jan Mohring](authors/jan-mohring), [Arbi Moses Badlyan](authors/arbi-moses-badlyan), [Markus Rein](authors/markus-rein), [Martin Schmidt](authors/martin-schmidt)
+[Sarah-Alexa Hauschild](authors/sarah_alexa_hauschild), [Nicole Marheineke](authors/nicole_marheineke), [Volker Mehrmann](authors/volker_mehrmann), [Jan Mohring](authors/jan_mohring), [Arbi Moses Badlyan](authors/arbi_moses_badlyan), [Markus Rein](authors/markus_rein), [Martin Schmidt](authors/martin_schmidt)
  
 ## Abstract
 This paper provides a first contribution to port-Hamiltonian modeling of district heating networks. District heating network By introducing a model hierarchy of flow equations on the network, this work aims at a thermodynamically consistent port-Hamiltonian embedding of the partial differential-algebraic systems. We show that a spatially discretized network model describing the advection of the internal energy density with respect to an underlying incompressible stationary Euler-type hydrodynamics can be considered as a parameter-dependent finite-dimensional port-Hamiltonian system. Port-Hamiltonian system Moreover, we present an infinite-dimensional port-Hamiltonian formulation for a compressible instationary thermodynamic fluid flow Thermodynamic fluid flow in a pipe. Based on these first promising results, we raise open questions and point out research perspectives concerning structure-preserving discretization, model reduction, and optimization.

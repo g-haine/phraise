@@ -5,12 +5,18 @@ date: 2018-11-29 00:00:00 +0100
 permalink: conditions-on-shifted-passivity-of-port-hamiltonian-systems
 year: 2019
 authors: Nima Monshizadeh, Pooya Monshizadeh, Romeo Ortega, Arjan van der Schaft
-category: journal-article
-tag: Passivity; Shifted passivity; Incremental passivity; Port-Hamiltonian systems; Stability theory
+category:
+  - articles
+tags:
+  - passivity
+  - shifted passivity
+  - incremental passivity
+  - port-hamiltonian systems
+  - stability theory
 ---
  
 ## Authors
-[Nima Monshizadeh](authors/nima-monshizadeh), [Pooya Monshizadeh](authors/pooya-monshizadeh), [Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Nima Monshizadeh](authors/nima_monshizadeh), [Pooya Monshizadeh](authors/pooya_monshizadeh), [Romeo Ortega](authors/romeo_ortega), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 In this paper, we examine the shifted passivity property of port-Hamiltonian systems. Shifted passivity accounts for the fact that in many applications the desired steady-state values of the input and output variables are nonzero, and thus one is interested in passivity with respect to the shifted signals. We consider port-Hamiltonian systems with strictly convex Hamiltonian, and derive conditions under which shifted passivity is guaranteed. In case the Hamiltonian is quadratic and state dependency appears in an affine manner in the dissipation and interconnection matrices, our conditions reduce to negative semidefiniteness of an appropriately constructed constant matrix. Moreover, we elaborate on how these conditions can be extended to the case when the shifted passivity property can be enforced via output feedback, thus paving the path for controller design. Stability of forced equilibria of the system is analyzed invoking the proposed passivity conditions. The utility and relevance of the results are illustrated with their application to a 6th order synchronous generator model as well as a controlled rigid body system.

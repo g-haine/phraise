@@ -5,11 +5,11 @@ date: 2023-11-09 00:00:00 +0100
 permalink: an-improved-riemann-sph-hamiltonian-sph-coupled-solver-for-hydroelastic-fluid-structure-interactions
 year: 2024
 authors: Abbas Khayyer, Hitoshi Gotoh, Yuma Shimizu, Takafumi Gotoh
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Abbas Khayyer](authors/abbas-khayyer), [Hitoshi Gotoh](authors/hitoshi-gotoh), [Yuma Shimizu](authors/yuma-shimizu), [Takafumi Gotoh](authors/takafumi-gotoh)
+[Abbas Khayyer](authors/abbas_khayyer), [Hitoshi Gotoh](authors/hitoshi_gotoh), [Yuma Shimizu](authors/yuma_shimizu), [Takafumi Gotoh](authors/takafumi_gotoh)
  
 ## Citation
 - **Journal:** Engineering Analysis with Boundary Elements

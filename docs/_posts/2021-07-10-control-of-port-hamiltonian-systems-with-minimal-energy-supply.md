@@ -5,12 +5,18 @@ date: 2021-07-10 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems-with-minimal-energy-supply
 year: 2021
 authors: Manuel Schaller, Friedrich Philipp, Timm Faulwasser, Karl Worthmann, Bernhard Maschke
-category: journal-article
-tag: Dissipativity; Minimal energy supply; Optimal control; Port-Hamiltonian systems; Turnpike property
+category:
+  - proceedings
+tags:
+  - dissipativity
+  - minimal energy supply
+  - optimal control
+  - port-hamiltonian systems
+  - turnpike property
 ---
  
 ## Authors
-[Manuel Schaller](authors/manuel-schaller), [Friedrich Philipp](authors/friedrich-m-philipp), [Timm Faulwasser](authors/timm-faulwasser), [Karl Worthmann](authors/karl-worthmann), [Bernhard Maschke](authors/bernhard-maschke)
+[Manuel Schaller](authors/manuel_schaller), [Friedrich Philipp](authors/friedrich_m_philipp), [Timm Faulwasser](authors/timm_faulwasser), [Karl Worthmann](authors/karl_worthmann), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 We investigate optimal control of linear port-Hamiltonian systems with control constraints, in which one aims to perform a state transition with minimal energy supply. Decomposing the state space into dissipative and non-dissipative (i.e. conservative) subspaces, we show that the set of reachable states is bounded w.r.t. the dissipative subspace. We prove that the optimal control problem exhibits the turnpike property with respect to the non-dissipative subspace, i.e., for varying initial conditions and time horizons optimal state trajectories evolve close to the conservative subspace most of the time. We analyze the corresponding steady-state optimization problem and prove that all optimal steady states lie in the non-dissipative subspace. We conclude this paper by illustrating these results by a numerical example from mechanics.
@@ -26,7 +32,7 @@ Dissipativity; Minimal energy supply; Optimal control; Port-Hamiltonian systems;
 - **Pages:** 33--40
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2021.06.017](https://doi.org/10.1016/j.ejcon.2021.06.017)
-- **Note:** 2021 European Control Conference Special Issue
+- **Event:** 2021 European Control Conference Special Issue
  
 ## BibTeX
 {% highlight bibtex %}

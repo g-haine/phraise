@@ -5,11 +5,11 @@ date: 2024-06-17 00:00:00 +0100
 permalink: cooperative-control-of-variable-damping-error-port-hamiltonian-and-backstepping-nonsingular-terminal-sliding-mode-control-for-manipulators-driven-by-pmsms
 year: 2024
 authors: Qingkun Guo, Haisheng Yu, Qing Yang, Xunkai Gao, Xiangxiang Meng
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Qingkun Guo](authors/qingkun-guo), [Haisheng Yu](authors/haisheng-yu), [Qing Yang](authors/qing-yang), [Xunkai Gao](authors/xunkai-gao), [Xiangxiang Meng](authors/xiangxiang-meng)
+[Qingkun Guo](authors/qingkun_guo), [Haisheng Yu](authors/haisheng_yu), [Qing Yang](authors/qing_yang), [Xunkai Gao](authors/xunkai_gao), [Xiangxiang Meng](authors/xiangxiang_meng)
  
 ## Abstract
 To improve the disadvantages of signal control and energy control, a cooperative control strategy combining signal control and energy control is proposed for manipulators driven by permanent magnet synchronous motors (PMSMs) in this article. The cooperative control strategy is achieved by way of the convex combination of signal controller and energy controller, and Gaussian function is selected as cooperative function. The energy controller applies variable damping error port Hamiltonian and the signal controller uses backstepping nonsingular terminal sliding mode control. The PMSM with loss model is applied to obtain higher efficiency. To deal with modeling errors and joint friction, a nonlinear disturbance observer is used for manipulators system. Simulation and experiment results display that the designed strategy not only increases efficiency, but also enhances dynamic and steady‐state performance of manipulators.

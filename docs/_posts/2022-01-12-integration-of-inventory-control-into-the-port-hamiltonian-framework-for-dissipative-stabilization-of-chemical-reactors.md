@@ -5,11 +5,11 @@ date: 2022-01-12 00:00:00 +0100
 permalink: integration-of-inventory-control-into-the-port-hamiltonian-framework-for-dissipative-stabilization-of-chemical-reactors
 year: 2022
 authors: N. Ha Hoang, B. Erik Ydstie
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[N. Ha Hoang](authors/ngoc-ha-hoang), [B. Erik Ydstie](authors/b-erik-ydstie)
+[N. Ha Hoang](authors/ngoc_ha_hoang), [B. Erik Ydstie](authors/b_erik_ydstie)
  
 ## Abstract
 This work integrates passivity‐based inventory control with the port‐Hamiltonian framework to design stabilizing feedback laws for lumped parameter chemically reacting systems. A static state feedback law with admissible controls is developed using an inventory‐related storage function as a closed loop Hamiltonian function. The control gain matrix is derived from the interconnection and damping matrices of the resulting Hamiltonian representation. Consequently, the proposed controller globally and exponentially stabilizes the system at a desired set‐point (including the open loop unstable equilibrium point) without restrictions on the reaction kinetics. Numerical simulations illustrate the application of the theory to a nonisothermal, continuous stirred tank reactor with the steady‐state multiplicity. The proposed approach is compared with the thermodynamic availability‐based control approach in terms of amplitude and variation rate to show its performance and effectiveness.

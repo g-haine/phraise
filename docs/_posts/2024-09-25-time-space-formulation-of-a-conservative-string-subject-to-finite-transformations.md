@@ -5,12 +5,19 @@ date: 2024-09-25 00:00:00 +0100
 permalink: time-space-formulation-of-a-conservative-string-subject-to-finite-transformations
 year: 2024
 authors: David Roze, Thomas Hélie, Emmanuelle Rouhaud
-category: journal-article
-tag: String vibrations; Finite-transformations; Conservation laws; Hamiltonian dynamics; Geometric mechanics; Time-space formulation
+category:
+  - proceedings
+tags:
+  - string vibrations
+  - finite-transformations
+  - conservation laws
+  - hamiltonian dynamics
+  - geometric mechanics
+  - time-space formulation
 ---
  
 ## Authors
-[David Roze](authors/david-roze), [Thomas Hélie](authors/thomas-helie), [Emmanuelle Rouhaud](authors/emmanuelle-rouhaud)
+[David Roze](authors/david_roze), [Thomas Hélie](authors/thomas_helie), [Emmanuelle Rouhaud](authors/emmanuelle_rouhaud)
  
 ## Abstract
 This paper investigates power-balanced descriptions of the conservative vibrating string. First, the hypotheses of continuum mechanics are recalled for the case of infinitesimal transformations. The string is described by classical partial differential equations (PDEs) and reformulated as a port Hamiltonian system (PHS). Second, the case of finite (possibly large) transformations is considered, for which the time variation of the elastic energy appears to be no longer the elastic power. To naturally solve this difficulty and ensure the invariance of the elastic power with respect to the superposition of rigid body motion, the problem is here addressed in the framework of a time-space formulation. Eulerian and Lagrangian conservative formulations are proposed in the context of non relativistic velocities. This work also yields perspectives for a time-space representation of a port-Hamiltonian vibrating string invariant to the change of observer in a relativistic context.
@@ -26,7 +33,7 @@ String vibrations; Finite-transformations; Conservation laws; Hamiltonian dynami
 - **Pages:** 232--237
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.286](https://doi.org/10.1016/j.ifacol.2024.08.286)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

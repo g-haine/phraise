@@ -5,12 +5,16 @@ date: 2023-11-22 00:00:00 +0100
 permalink: port-hamiltonian-based-model-for-platooning-applications-including-air-drag-effects
 year: 2023
 authors: Fernando Sanhueza, Francisco Vargas, Hector Ramirez, Andrés Peters
-category: journal-article
-tag: Vehicle platooning; Aerodynamic drag; Port-Hamiltonian modeling
+category:
+  - proceedings
+tags:
+  - vehicle platooning
+  - aerodynamic drag
+  - port-hamiltonian modeling
 ---
  
 ## Authors
-[Fernando Sanhueza](authors/fernando-sanhueza), [Francisco Vargas](authors/francisco-vargas), [Hector Ramirez](authors/hector-ramirez), [Andrés Peters](authors/andres-peters)
+[Fernando Sanhueza](authors/fernando_sanhueza), [Francisco Vargas](authors/francisco_vargas), [Hector Ramirez](authors/hector_ramirez), [Andrés Peters](authors/andres_peters)
  
 ## Abstract
 This paper deals with platooning modeling considering the force provoked by the air drag in each vehicle. The proposed model is derived using a port-Hamiltonian approach in order to ensure the passivity of the whole system. The relation between the desired platooning formation and its implication on the air drag effect is highlighted. Simulation results illustrate the effect of air drag on the platoon behavior. The results of this work could serve as a basis for a platooning control scheme that explicitly includes the air drag force, as a function of the desired inter-vehicle distance, in the control loop.
@@ -26,7 +30,7 @@ Vehicle platooning; Aerodynamic drag; Port-Hamiltonian modeling
 - **Pages:** 3917--3922
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.1327](https://doi.org/10.1016/j.ifacol.2023.10.1327)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,17 @@ date: 2019-04-15 00:00:00 +0100
 permalink: fixed-time-stabilization-control-for-port-hamiltonian-systems
 year: 2019
 authors: Xinggui Liu, Xiaofeng Liao
-category: journal-article
-tag: Fixed-time stability region; Port-Hamiltonian systems; Fixed-time attractivity; Stability boundary at infinity
+category:
+  - articles
+tags:
+  - fixed-time stability region
+  - port-hamiltonian systems
+  - fixed-time attractivity
+  - stability boundary at infinity
 ---
  
 ## Authors
-[Xinggui Liu](authors/xinggui-liu), [Xiaofeng Liao](authors/xiaofeng-liao)
+[Xinggui Liu](authors/xinggui_liu), [Xiaofeng Liao](authors/xiaofeng_liao)
  
 ## Abstract
 In this paper, the locally fixed-time and globally fixed-time stabilization problems for the port-Hamiltonian (PH) systems via the interconnection and damping assignment passivity-based control technique are discussed. The definitions of fixed-time stability region (or region of attraction) and fixed-time stability boundary are given in this paper. From this starting point, the sufficient condition of globally fixed-time attractivity of a prespecified locally fixed-time stability region is obtained. Combining the locally fixed-time stability and the globally fixed-time attractivity of a prespecified locally fixed-time stability region, the globally fixed-time stabilization problem for PH system is effectively solved. Furthermore, the globally fixed-time control scheme independent of locally fixed-time stability region has also been derived by constructing a novel Lyapunov function. A illustrative example shows that the results obtained in this paper work very well in fixed-time control design of PH systems.

@@ -5,12 +5,16 @@ date: 2023-07-31 00:00:00 +0100
 permalink: structure-preserving-discretization-of-the-cahn-hilliard-equations-recast-as-a-port-hamiltonian-system
 year: 2023
 authors: Antoine Bendimerad-Hohl, Ghislain Haine, Denis Matignon
-category: book-chapter
-tag: Phase field; port-Hamiltonian system; Structure-preserving discretization
+category:
+  - proceedings
+tags:
+  - phase field
+  - port-hamiltonian system
+  - structure-preserving discretization
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
+[Antoine Bendimerad-Hohl](authors/antoine_bendimerad-Hohl), [Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 The structure-preserving discretization of the Cahn-Hillard equation, a phase field model describing phase separation with diffuse interface, is proposed using the Partitioned Finite Element Method. The discrete counter-part of the power balance is proved and a sufficient condition for the phase preservation is provided.
@@ -22,7 +26,7 @@ Phase field; port-Hamiltonian system; Structure-preserving discretization
 - **ISBN:** 9783031382987
 - **Publisher:** Springer Nature Switzerland
 - **DOI:** [10.1007/978-3-031-38299-4_21](https://doi.org/10.1007/978-3-031-38299-4_21)
-- **Note:** International Conference on Geometric Science of Information
+- **Event:** International Conference on Geometric Science of Information
  
 ## BibTeX
 {% highlight bibtex %}

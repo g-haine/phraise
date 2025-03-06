@@ -5,11 +5,11 @@ date: 2019-08-23 00:00:00 +0100
 permalink: brayton-moser-formulation-of-high-order-distributed-port-hamiltonian-systems-with-one-dimensional-spatial-domain
 year: 2019
 authors: Alessandro Macchelli
-category: journal-article
+category: proceedings
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 For a class of distributed port-Hamiltonian systems with dissipation characterised by high-order differential operators, one-dimensional domain, and boundary actuation and sensing, an equivalent Brayton-Moser formulation is obtained. The result is that the state evolution is described by a gradient equation with respect to a storage function, the “mixed-potential,” that has the dimensions of power. This is the main difference with respect to the port-Hamiltonian form, where the dynamic depends on the derivatives up to a certain order and with respect to the spatial coordinate of the gradient of the Hamiltonian function, i.e. of the total energy.
@@ -22,7 +22,7 @@ For a class of distributed port-Hamiltonian systems with dissipation characteris
 - **Pages:** 46--51
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.08.009](https://doi.org/10.1016/j.ifacol.2019.08.009)
-- **Note:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
+- **Event:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
  
 ## BibTeX
 {% highlight bibtex %}

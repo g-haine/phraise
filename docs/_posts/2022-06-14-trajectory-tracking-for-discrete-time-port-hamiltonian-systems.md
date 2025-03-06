@@ -5,11 +5,11 @@ date: 2022-06-14 00:00:00 +0100
 permalink: trajectory-tracking-for-discrete-time-port-hamiltonian-systems
 year: 2022
 authors: Alessandro Macchelli
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 This letter presents a regulator for nonlinear, discrete-time port-Hamiltonian systems that lets the state track a reference signal. Similarly to continuous-time approaches, the synthesis is based on the mapping via state-feedback of the open-loop error system to a target one in port-Hamiltonian form, and with an asymptotically stable origin that corresponds to the perfect tracking condition. The procedure is formally described by a matching equation that, in continuous-time, turns out to be a nonlinear partial differential equation (PDE). This is not the case for sampled-data systems, so an algebraic approach is proposed. The solution is employed to construct a dynamical regulator that performs an “approximated” mapping. The stability analysis relies on Lyapunov arguments.

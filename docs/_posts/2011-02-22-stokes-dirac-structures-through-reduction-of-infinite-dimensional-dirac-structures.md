@@ -5,11 +5,11 @@ date: 2011-02-22 00:00:00 +0100
 permalink: stokes-dirac-structures-through-reduction-of-infinite-dimensional-dirac-structures
 year: 2010
 authors: Joris Vankerschaver, Hiroaki Yoshimura, Melvin Leok, Jerrold E. Marsden
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Joris Vankerschaver](authors/joris-vankerschaver), [Hiroaki Yoshimura](authors/hiroaki-yoshimura), [Melvin Leok](authors/melvin-leok), [Jerrold E. Marsden](authors/jerrold-e-marsden)
+[Joris Vankerschaver](authors/joris_vankerschaver), [Hiroaki Yoshimura](authors/hiroaki_yoshimura), [Melvin Leok](authors/melvin_leok), [Jerrold E. Marsden](authors/jerrold_e_marsden)
  
 ## Abstract
 We consider the concept of Stokes-Dirac structures in boundary control theory proposed by van der Schaft and Maschke. We introduce Poisson reduction in this context and show how Stokes-Dirac structures can be derived through symmetry reduction from a canonical Dirac structure on the unreduced phase space. In this way, we recover not only the standard structure matrix of Stokes-Dirac structures, but also the typical non-canonical advection terms in (for instance) the Euler equation.

@@ -5,12 +5,18 @@ date: 2018-10-16 00:00:00 +0100
 permalink: generalized-port-hamiltonian-dae-systems
 year: 2018
 authors: Arjan van der Schaft, Bernhard Maschke
-category: journal-article
-tag: Port-Hamiltonian system; Algebraic constraint; Dirac structure; Lagrangian subspace; DAE system
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - algebraic constraint
+  - dirac structure
+  - lagrangian subspace
+  - dae system
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
+[Arjan van der Schaft](authors/arjan_van_der_schaft), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 Motivated by recent work in this area we expand on a generalization of port-Hamiltonian systems that is obtained by replacing the Hamiltonian function representing energy storage by a Lagrangian subspace. This leads to a new class of algebraic constraints and DAE systems in physical systems modeling. It is shown how Dirac structures and Lagrangian subspaces allow for similar representations, and how this can be exploited to convert algebraic constraints originating from Dirac structures into algebraic constraints corresponding to Lagrangian subspaces, and conversely.

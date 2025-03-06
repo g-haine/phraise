@@ -5,12 +5,19 @@ date: 2025-01-04 00:00:00 +0100
 permalink: a-novel-energy-based-modeling-framework
 year: 2025
 authors: R. Altmann, P. Schulze
-category: journal-article
-tag: Energy-based modeling; Dissipation; Structure preservation; 37J06; 65P10; 65M60
+category:
+  - articles
+tags:
+  - energy-based modeling
+  - dissipation
+  - structure preservation
+  - 37j06
+  - 65p10
+  - 65m60
 ---
  
 ## Authors
-[R. Altmann](authors/r-altmann), [P. Schulze](authors/philipp-schulze)
+[R. Altmann](authors/r_altmann), [P. Schulze](authors/philipp_schulze)
  
 ## Abstract
 We introduce an energy-based model, which seems especially suited for constrained systems. The proposed model generalizes classical port-Hamiltonian input–state–output systems and exhibits similar properties such as energy dissipation as well as structure-preserving interconnection and Petrov–Galerkin projection. In terms of time discretization, the midpoint rule and discrete gradient methods are dissipation-preserving. Besides the verification of these properties, we present ten examples from different fields of application illustrating the great flexibility of the proposed framework.

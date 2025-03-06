@@ -5,11 +5,11 @@ date: 2024-11-05 00:00:00 +0100
 permalink: stability-and-passivity-for-a-class-of-distributed-port-hamiltonian-networks
 year: 2024
 authors: Hannes Gernandt, Dorothea Hinsen
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Hannes Gernandt](authors/hannes-gernandt), [Dorothea Hinsen](authors/dorothea-hinsen)
+[Hannes Gernandt](authors/hannes_gernandt), [Dorothea Hinsen](authors/dorothea_hinsen)
  
 ## Abstract
 We consider a class of infinite dimensional (distributed) pH systems which is invariant under Kirchhoff-type interconnections and prove exponential stability and a power balance equation for classical solutions. The results are illustrated for power networks that incorporate distributed transmission line models based on the telegraph equations.

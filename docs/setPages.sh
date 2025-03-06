@@ -37,6 +37,35 @@ slugify() {
     echo "$1" | iconv -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed -E 's/^-+|-+$//g'
 }
 
+# Remplace les $ par les balises markdwon de mathjax dans les titre
+mathjaxify () {
+    title=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
+    title=$(echo "$title" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
+    title=$(echo "$title" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
+    # Mathjax \( ... \) avec les escape nécessaires
+    title=$(echo "$title" \
+    | awk '{
+        in_math = 0;
+        for (i=1; i<=length($0); i++) {
+            c = substr($0, i, 1);
+            if (c == "$") {
+                if (in_math == 0) {
+                    printf "\\( ";
+                    in_math = 1;
+                } else {
+                    printf " \\)";
+                    in_math = 0;
+                }
+            } else {
+                printf "%s", c;
+            }
+        }
+        printf "\n";
+    }')
+    
+    echo "$title"
+}
+
 # Charger les correspondances "Prénom Nom" → "slug"
 echo $(date -Iseconds)" Load names <-> slugs tables..."
 declare -A author_to_slug
@@ -75,13 +104,13 @@ while read -r entry; do
         standardized_author="${slug_to_name[$slug]:-$author}"
         sanitized_author=$(slugify "$standardized_author")
         authors["$standardized_author"]+="
-        $year|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$title</a></h3></li>"
+        $year|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$(mathjaxify "$title")</a></h3></li>"
     done <<< "$author_names, "
 
     years["$year"]+='
   <li>
     <span class="post-meta">'$year' -- '$author_names'</span>
-    <h3><a class="post-link" href="{{ site.baseurl }}/'$permalink'">'$title'</a></h3>
+    <h3><a class="post-link" href="{{ site.baseurl }}/'$permalink'">'$(mathjaxify "$title")'</a></h3>
   </li>'
 
 done < <(jq -c '.[]' "$BIBLIO_JSON")
@@ -117,7 +146,7 @@ echo $(date -Iseconds)" Page $AUTHORS_DIR/index.md creation..."
 cat <<EOF > "$AUTHORS_DIR/index.md"
 ---
 layout: page
-title: Browse by authors
+title: Authors
 permalink: /authors/
 ---
 
@@ -172,7 +201,7 @@ echo $(date -Iseconds)" Page $YEARS_DIR/index.md creation..."
 cat <<EOF > "$YEARS_DIR/index.md"
 ---
 layout: page
-title: Browse by years
+title: Years
 permalink: /years/
 ---
 

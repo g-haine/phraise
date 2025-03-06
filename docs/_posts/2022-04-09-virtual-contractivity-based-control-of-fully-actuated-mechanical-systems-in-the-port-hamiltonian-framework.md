@@ -5,12 +5,18 @@ date: 2022-04-09 00:00:00 +0100
 permalink: virtual-contractivity-based-control-of-fully-actuated-mechanical-systems-in-the-port-hamiltonian-framework
 year: 2022
 authors: Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana
-category: journal-article
-tag: Port-Hamiltonian systems; Trajectory tracking; Virtual systems; Contraction analysis; Mechanical systems
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - trajectory tracking
+  - virtual systems
+  - contraction analysis
+  - mechanical systems
 ---
  
 ## Authors
-[Rodolfo Reyes-Báez](authors/rodolfo-reyes-baez), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bayu Jayawardhana](authors/bayu-jayawardhana)
+[Rodolfo Reyes-Báez](authors/rodolfo_reyes_baez), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Bayu Jayawardhana](authors/bayu_jayawardhana)
  
 ## Abstract
 We present a trajectory tracking control design method for a class of mechanical systems in the port-Hamiltonian framework. The proposed solution is based on the virtual contractivity-based control (v-CBC) method, which employs the notions of virtual systems and of contractivity. This approach leads to a family of asymptotic tracking controllers that are not limited to those that preserve the pH structure of the closed-loop system nor require an intermediate change of coordinates. Nevertheless, structure preservation and other properties (e.g., passivity) are possible under sufficient conditions. The performance of the proposed v-CBC scheme is experimentally evaluated on a planar robot of two degrees of freedom (DoF).

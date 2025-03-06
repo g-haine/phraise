@@ -5,12 +5,19 @@ date: 2019-12-20 00:00:00 +0100
 permalink: discrete-time-flatness-based-feedforward-control-for-the-1d-shallow-water-equations
 year: 2019
 authors: Paul Kotyczka
-category: journal-article
-tag: Port-Hamiltonian systems; nonlinear conservation laws; structure-preserving discretization; geometric integration; discrete-time systems; flatness-based trajectory planning
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - nonlinear conservation laws
+  - structure-preserving discretization
+  - geometric integration
+  - discrete-time systems
+  - flatness-based trajectory planning
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul-kotyczka)
+[Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 Flatness of given outputs for quasilinear 1D hyperbolic systems is conserved under an appropriate port-Hamiltonian spatial discretization. Combining the spatial with a structure-preserving temporal scheme leads to a fully discretized control model of the infinite-dimensional system, which can be exploited for discrete-time trajectory planning. We show that with a suitable approximation of the continuous nonlinear equations, a stable explicit numerical scheme is obtained for flatness-based feedforward control of quasilinear hyperbolic systems. As an example, we consider the 1D shallow water equations and the inverse flow routing problem, i. e. the computation of the upstream discharge trajectory from a given downstream hydrograph. We compare our approach with known results based on the method of characteristics.
@@ -26,7 +33,7 @@ Port-Hamiltonian systems; nonlinear conservation laws; structure-preserving disc
 - **Pages:** 42--47
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.11.753](https://doi.org/10.1016/j.ifacol.2019.11.753)
-- **Note:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
+- **Event:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
  
 ## BibTeX
 {% highlight bibtex %}

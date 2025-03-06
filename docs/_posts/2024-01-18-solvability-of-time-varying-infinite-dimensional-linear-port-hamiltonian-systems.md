@@ -5,11 +5,11 @@ date: 2024-01-18 00:00:00 +0100
 permalink: solvability-of-time-varying-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2024
 authors: Mikael Kurula
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Mikael Kurula](authors/mikael-kurula)
+[Mikael Kurula](authors/mikael_kurula)
  
 ## Abstract
 Thirty years after the introduction of port-Hamiltonian systems, interest in this system class still remains high among systems and control researchers. Very recently, Jacob and Laasri obtained strong results on the solvability and well-posedness of time-varying linear port-Hamiltonian systems with boundary control and boundary observation. In this article, we complement their results by discussing the solvability of linear, infinite-dimensional time-varying port-Hamiltonian systems not necessarily of boundary control type. The theory is illustrated on a system with a delay component in the state dynamics.

@@ -5,12 +5,19 @@ date: 2017-01-23 00:00:00 +0100
 permalink: a-port-hamiltonian-model-of-liquid-sloshing-in-moving-containers-and-application-to-a-fluid-structure-system
 year: 2017
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger
-category: journal-article
-tag: Port-Hamiltonian systems; Shallow-water sloshing; Moving container; Dynamic coupling; Interconnection of systems; Active control
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - shallow-water sloshing
+  - moving container
+  - dynamic coupling
+  - interconnection of systems
+  - active control
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger)
  
 ## Abstract
 This work is motivated by an aeronautical issue: the fuel sloshing in the tank coupled with very flexible wings. Vibrations due to these coupled phenomena can lead to problems like reduced passenger comfort and maneuverability, and even unstable behavior. Port-Hamiltonian systems (pHs) provide a unified framework for the description of multi-domain, complex physical systems and a modular approach for the interconnection of subsystems. In this work, pHs models are proposed for the equations of liquid sloshing in moving containers and for the structural equations of beams with piezoelectric actuators. The interconnection ports are used to couple the sloshing dynamics in the moving tank to the motion the beam. This coupling leads to an infinite-dimensional model of the system in the pHs form. A finite-dimensional approximation is obtained by using a geometric pseudo-spectral method that preserves the pHs structure at the discrete level. Experimental tests on a structure made of a beam and a tank were carried out to validate the finite-dimensional model of liquid sloshing in moving containers. Finally, the pHs model proves useful to design an active control law for the reduction of sloshing phenomena.

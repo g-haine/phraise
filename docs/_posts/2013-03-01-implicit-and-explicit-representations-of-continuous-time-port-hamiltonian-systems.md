@@ -5,12 +5,16 @@ date: 2013-03-01 00:00:00 +0100
 permalink: implicit-and-explicit-representations-of-continuous-time-port-hamiltonian-systems
 year: 2013
 authors: Fernando Castaños, Dmitry Gromov, Vincent Hayward, Hannah Michalska
-category: journal-article
-tag: Port-Hamiltonian systems; Nonlinear implicit systems; Modeling of physical systems
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - nonlinear implicit systems
+  - modeling of physical systems
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando-castanos), [Dmitry Gromov](authors/dmitry-gromov), [Vincent Hayward](authors/vincent-hayward), [Hannah Michalska](authors/hannah-michalska)
+[Fernando Castaños](authors/fernando_castanos), [Dmitry Gromov](authors/dmitry_gromov), [Vincent Hayward](authors/vincent_hayward), [Hannah Michalska](authors/hannah_michalska)
  
 ## Abstract
 Implicit and explicit representations of smooth, finite-dimensional port-Hamiltonian systems are studied from the perspective of their use in numerical simulation and control design. Implicit representations arise when a system is modeled in Cartesian coordinates and when the system constraints are applied in the form of additional algebraic equations. Explicit representations are derived when generalized coordinates are used. A relationship between the phase spaces for both system representations is derived in this article, justifying the equivalence of the representations in the sense of preserving their Hamiltonian functions as well as their Hamiltonian symplectic forms, ultimately resulting in the same Hamiltonian flow.

@@ -5,11 +5,11 @@ date: 2024-05-17 00:00:00 +0100
 permalink: passivity-based-control-with-disturbance-observer-of-electromagnetic-formation-flight-spacecraft-in-the-port-hamiltonian-framework
 year: 2024
 authors: Jiaming Wang, Qingrui Zhou, Wei Zheng, Jiang Shao
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jiaming Wang](authors/jiaming-wang), [Qingrui Zhou](authors/qingrui-zhou), [Wei Zheng](authors/wei-zheng), [Jiang Shao](authors/jiang-shao)
+[Jiaming Wang](authors/jiaming_wang), [Qingrui Zhou](authors/qingrui_zhou), [Wei Zheng](authors/wei_zheng), [Jiang Shao](authors/jiang_shao)
  
 ## Abstract
 Satellite formation flying technology currently represents a focal point in space mission research. Traditional spacecraft payload performance and lifespan are often constrained by propellant limitations. Electromagnetic Formation Flying (EMFF), a propellant-free formation flying technique, has garnered widespread attention. Its inherent strong nonlinearity and coupling present challenges for high-precision control within EMFF. This paper presents the relative motion dynamics of a two-satellite EMFF in the port-Hamiltonian framework and constructs an accurate nonlinear model of the dynamics. Utilizing the concept of Interconnection and Damping Assignment and nonlinear disturbance observer, a composite disturbance-rejection passivity-based controller is designed, offering a method for controlling the magnetic dipole strength of formation satellites. Finally, numerical simulations are conducted to demonstrate the viability of the proposed dynamics model and control strategy.

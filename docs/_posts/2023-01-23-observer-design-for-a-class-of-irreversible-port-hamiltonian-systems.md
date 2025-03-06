@@ -5,11 +5,11 @@ date: 2023-01-23 00:00:00 +0100
 permalink: observer-design-for-a-class-of-irreversible-port-hamiltonian-systems
 year: 2023
 authors: Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Saida Zenfari](authors/saida-zenfari), [Mohamed Laabissi](authors/mohamed-laabissi), [Mohammed Elarbi Achhab](authors/mohammed-elarbi-achhab)
+[Saida Zenfari](authors/saida_zenfari), [Mohamed Laabissi](authors/mohamed_laabissi), [Mohammed Elarbi Achhab](authors/mohammed_elarbi_achhab)
  
 ## Abstract
 In this paper we address the state estimation problem of a particular class of irreversible port Hamiltonian systems (IPHS), which are assumed to be partially observed. Our main contribution consists to design an observer such that the augmented system (plant + observer) is strictly passive. Under some additional assumptions, a Lyapunov function is constructed to ensure the stability of the coupled system. Finally, the proposed methodology is applied to the gas piston system model. Some simulation results are also presented.

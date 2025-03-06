@@ -5,12 +5,17 @@ date: 2024-05-17 00:00:00 +0100
 permalink: energy-shaping-and-entropy-assignment-boundary-control-of-the-heat-equation
 year: 2024
 authors: Luis A. Mora, Yann Le Gorrec, Hector Ramirez
-category: journal-article
-tag: Irreversible port-Hamiltonian systems; Heat equation; Boundary control; Passivity-based control
+category:
+  - articles
+tags:
+  - irreversible port-hamiltonian systems
+  - heat equation
+  - boundary control
+  - passivity-based control
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis-a-mora), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
+[Luis A. Mora](authors/luis_a_mora), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 This paper shows a finite-dimensional controller design for the boundary control of the heat equation on a 1D spatial domain. The controller exponentially stabilizes the plant at the desired equilibrium profile. The controller is defined using irreversible port-Hamiltonian systems formulation, and it is motivated by passivity-based control techniques developed for port-Hamiltonian systems defined on 1D spatial domains. The boundary controller is designed to have an exponentially stabilizing energy-shaping and entropy-assignment effect. It works with an actuation at one boundary and a reflective boundary condition at the other. The controller can handle situations where measurements are available at only one or both boundaries. The paper characterizes the existence of structural invariant functions to shape the closed-loop energy and assign the required closed-loop entropy. The design approach is illustrated through numerical simulations.

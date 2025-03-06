@@ -5,12 +5,17 @@ date: 2013-10-07 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-a-system-of-two-conservation-laws-with-a-moving-interface
 year: 2013
 authors: Mamadou Diagne, Bernhard Maschke
-category: journal-article
-tag: Boundary port Hamiltonian systems; PDE's; Moving interface; Dirac structure
+category:
+  - proceedings
+tags:
+  - boundary port hamiltonian systems
+  - pde's
+  - moving interface
+  - dirac structure
 ---
  
 ## Authors
-[Mamadou Diagne](authors/mamadou-diagne), [Bernhard Maschke](authors/bernhard-maschke)
+[Mamadou Diagne](authors/mamadou_diagne), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 In this paper we consider the port Hamiltonian formulation of systems of two conservation laws defined on two complementary intervals of some interval of the real line and coupled by some moving interface. We recall first how two port Hamiltonian systems coupled by an interface may be expressed as an port Hamiltonian systems augmented with two variables being the characteristic functions of the two spatial domains. Then we consider the case of a moving interface and show that it may be expressed as the previous port Hamiltonian system augmented with an input, being the velocity of the interface and its conjugated output variable. We then discuss the interface relations defining the dynamics of the displacement of the interface and give an illustration with the simple example of two gases coupled by a moving piston.
@@ -26,7 +31,7 @@ Boundary port Hamiltonian systems; PDE's; Moving interface; Dirac structure
 - **Pages:** 495--504
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2013.09.001](https://doi.org/10.1016/j.ejcon.2013.09.001)
-- **Note:** Lagrangian and Hamiltonian Methods for Modelling and Control
+- **Event:** Lagrangian and Hamiltonian Methods for Modelling and Control
  
 ## BibTeX
 {% highlight bibtex %}

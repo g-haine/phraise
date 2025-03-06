@@ -5,12 +5,16 @@ date: 2016-08-09 00:00:00 +0100
 permalink: port-hamiltonian-representation-and-discretization-of-undamped-wave-equation-system
 year: 2016
 authors: Qingqing Xu, Stevan Dubljevic
-category: journal-article
-tag: Port-Hamiltonian; Exact Discretization; Undamped Wave Equation System
+category:
+  - proceedings
+tags:
+  - port-hamiltonian
+  - exact discretization
+  - undamped wave equation system
 ---
  
 ## Authors
-[Qingqing Xu](authors/qingqing-xu), [Stevan Dubljevic](authors/stevan-dubljevic)
+[Qingqing Xu](authors/qingqing_xu), [Stevan Dubljevic](authors/stevan_dubljevic)
  
 ## Abstract
 The port-Hamiltonian representation of undamped wave equation system captures the essential energy and dynamical features in an unified framework. In this paper, an undamped wave equation system is given in the port-Hamiltonian formulation. The important issue of obtaining discrete version of the port-Hamiltonian system representation is explored. The exact discretization method is applied to the port-Hamiltonian system which transforms the system from a continuous to a discrete state space setting. The development of the discretized port Hamiltonian system formulation is necessary foundation for the discrete and computer based regulator and model realizations. The results are illustrated by numerical simulations.
@@ -26,7 +30,7 @@ Port-Hamiltonian; Exact Discretization; Undamped Wave Equation System
 - **Pages:** 309--314
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.07.459](https://doi.org/10.1016/j.ifacol.2016.07.459)
-- **Note:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
+- **Event:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
  
 ## BibTeX
 {% highlight bibtex %}

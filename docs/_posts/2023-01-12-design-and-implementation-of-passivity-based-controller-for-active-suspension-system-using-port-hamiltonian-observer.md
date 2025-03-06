@@ -5,11 +5,11 @@ date: 2023-01-12 00:00:00 +0100
 permalink: design-and-implementation-of-passivity-based-controller-for-active-suspension-system-using-port-hamiltonian-observer
 year: 2023
 authors: Pramod Sistla, Krishnan Chemmangat, Sheron Figarado
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Pramod Sistla](authors/pramod-sistla), [Krishnan Chemmangat](authors/krishnan-chemmangat), [Sheron Figarado](authors/sheron-figarado)
+[Pramod Sistla](authors/pramod_sistla), [Krishnan Chemmangat](authors/krishnan_chemmangat), [Sheron Figarado](authors/sheron_figarado)
  
 ## Abstract
  The objective of this study is to design and implement an observer for quarter-car active suspension system in Port-Hamiltonian form. A novel state observer is designed for active suspension system modelled in port-Hamiltonian form to estimate the states in presence of road disturbances. The observer is designed considering suspension deflection alone as the output, which is an easily measurable output. Performance of the proposed observer is evaluated experimentally with road disturbance input mimicking a sudden bump and a continuously varying road input, and proven to be effective in minimising the error dynamics in presence of bounded unmodelled disturbances. To prove the effectiveness of the state-estimator, an Interconnection and Damping Assignment Passivity Based Control (IDA-PBC) designed using the desired physical properties of the closed-loop system is implemented using the observer states. Experimental results of the controller implemented using the designed state observer show good improvement in the ride comfort, ride stability and suspension stroke of the active suspension system, which proves the effectiveness of the proposed port-Hamiltonian observer in terms of minimising the error dynamics. 

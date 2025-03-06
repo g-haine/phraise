@@ -5,12 +5,19 @@ date: 2021-03-05 00:00:00 +0100
 permalink: a-structure-preserving-operator-splitting-scheme-for-reaction-diffusion-equations-with-detailed-balance
 year: 2021
 authors: Chun Liu, Cheng Wang, Yiwei Wang
-category: journal-article
-tag: Reaction-diffusion system; Energetic variational approach (EnVarA); Logarithmic energy potential; Operator splitting; Positivity preserving; Energy stability
+category:
+  - articles
+tags:
+  - reaction-diffusion system
+  - energetic variational approach (envara)
+  - logarithmic energy potential
+  - operator splitting
+  - positivity preserving
+  - energy stability
 ---
  
 ## Authors
-[Chun Liu](authors/chun-liu), [Cheng Wang](authors/cheng-wang), [Yiwei Wang](authors/yiwei-wang)
+[Chun Liu](authors/chun_liu), [Cheng Wang](authors/cheng_wang), [Yiwei Wang](authors/yiwei_wang)
  
 ## Abstract
 In this paper, we propose and analyze a positivity-preserving, energy stable numerical scheme for a certain type of reaction-diffusion systems involving the Law of Mass Action with the detailed balance condition. The numerical scheme is constructed based on a recently developed energetic variational formulation, in which the reaction part is reformulated in terms of reaction trajectories. The fact that both the reaction and diffusion parts dissipate the same free energy opens a path of designing an energy stable, operator splitting scheme for these systems. At the reaction stage, we solve equations of reaction trajectories by treating all the logarithmic terms in the reformulated form implicitly due to their convex nature. The positivity-preserving property and unique solvability can be theoretically proved, based on the singular behavior of the logarithmic function around the limiting value. Moreover, the energy stability of this scheme at the reaction stage can be proved by a careful convexity analysis. Similar techniques are used to establish the positivity-preserving property and energy stability for the standard semi-implicit solver at the diffusion stage. As a result, a combination of these two stages leads to a positivity-preserving and energy stable numerical scheme for the original reaction-diffusion system. Several numerical examples are presented to demonstrate the robustness of the proposed operator splitting scheme.

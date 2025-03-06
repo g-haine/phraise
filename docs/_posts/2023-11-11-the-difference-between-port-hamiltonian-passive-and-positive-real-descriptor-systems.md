@@ -5,12 +5,23 @@ date: 2023-11-11 00:00:00 +0100
 permalink: the-difference-between-port-hamiltonian-passive-and-positive-real-descriptor-systems
 year: 2024
 authors: Karim Cherifi, Hannes Gernandt, Dorothea Hinsen
-category: journal-article
-tag: Port-Hamiltonian systems; Differential-algebraic equations; Minimal realizations; Passive systems; Positive real systems; Kalman–Yakubovich–Popov inequality; Primary 34A09; 93C05; Secondary 93B20; 15A39
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - differential-algebraic equations
+  - minimal realizations
+  - passive systems
+  - positive real systems
+  - kalman–yakubovich–popov inequality
+  - primary 34a09
+  - 93c05
+  - secondary 93b20
+  - 15a39
 ---
  
 ## Authors
-[Karim Cherifi](authors/karim-cherifi), [Hannes Gernandt](authors/hannes-gernandt), [Dorothea Hinsen](authors/dorothea-hinsen)
+[Karim Cherifi](authors/karim_cherifi), [Hannes Gernandt](authors/hannes_gernandt), [Dorothea Hinsen](authors/dorothea_hinsen)
  
 ## Abstract
 The relation between passive and positive real systems has been extensively studied in the literature. In this paper, we study their connection to the more recently used notion of port-Hamiltonian descriptor systems. It is well-known that port-Hamiltonian systems are passive and that passive systems are positive real. Hence it is studied under which assumptions the converse implications hold. Furthermore, the relationship between passivity and KYP inequalities is investigated.

@@ -5,12 +5,17 @@ date: 2016-12-23 00:00:00 +0100
 permalink: an-energy-based-approach-for-the-control-of-a-micro-robotic-contact-scenario
 year: 2016
 authors: Hector Ramirez, Bilal Komati, Yann Le Gorrec, Cédric Clévy
-category: journal-article
-tag: Passivity based control; port-Hamiltonian systems; non-linear control; micro-mechatronics
+category:
+  - proceedings
+tags:
+  - passivity based control
+  - port-hamiltonian systems
+  - non-linear control
+  - micro-mechatronics
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Bilal Komati](authors/bilal-komati), [Yann Le Gorrec](authors/yann-le-gorrec), [Cédric Clévy](authors/cedric-clevy)
+[Hector Ramirez](authors/hector_ramirez), [Bilal Komati](authors/bilal_komati), [Yann Le Gorrec](authors/yann_le_gorrec), [Cédric Clévy](authors/cedric_clevy)
  
 ## Abstract
 Energy based approaches have proven to be specially well suited for the modeling and control of mechanical systems. Among these approaches the port-Hamiltonian framework presents interesting properties for the structural modeling of complex systems and for the design of non-linear controllers using passivity In this paper we use this framework to model a typical micro-robotic contact scenario and to propose a simple but effective globally stabilizing controller. The model and the controller take into account the transitions from a non-contact to a contact state (and the inverse) by the introduction of a non-linear (switching) contact element. A one degree of freedom experimental micro-robotic setup is used to test and illustrate the results.
@@ -26,7 +31,7 @@ Passivity based control; port-Hamiltonian systems; non-linear control; micro-mec
 - **Pages:** 945--950
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.10.289](https://doi.org/10.1016/j.ifacol.2016.10.289)
-- **Note:** 10th IFAC Symposium on Nonlinear Control Systems NOLCOS 2016- Monterey, California, USA, 23—25 August 2016
+- **Event:** 10th IFAC Symposium on Nonlinear Control Systems NOLCOS 2016- Monterey, California, USA, 23—25 August 2016
  
 ## BibTeX
 {% highlight bibtex %}

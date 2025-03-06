@@ -5,12 +5,17 @@ date: 2013-10-10 00:00:00 +0100
 permalink: on-the-equivalence-of-two-nonlinear-control-approaches-immersion-and-invariance-and-ida-pbc
 year: 2013
 authors: Paul Kotyczka, Ioannis Sarras
-category: journal-article
-tag: Underactuated mechanical systems; Port-Hamiltonian systems; Passivity based control; Immersion and invariance
+category:
+  - proceedings
+tags:
+  - underactuated mechanical systems
+  - port-hamiltonian systems
+  - passivity based control
+  - immersion and invariance
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul-kotyczka), [Ioannis Sarras](authors/ioannis-sarras)
+[Paul Kotyczka](authors/paul_kotyczka), [Ioannis Sarras](authors/ioannis_sarras)
  
 ## Abstract
 In this paper we compare the two well-known nonlinear control design techniques Interconnection and Damping Assignment Passivity Based Control (IDA-PBC) and Immersion and Invariance (I&I) at the example of the so-called Acrobot underactuated mechanical system. The immersion and matching equations in both approaches have a similar structure which is exploited to derive equivalent control laws, each of them providing a different perspective on the stabilization problem. In particular, the coordinate change which renders the potential energy matching PDE in IDA-PBC an ordinary differential equation is used to define the immersion map in I&I. It is shown that the energy shaping part of the IDA-PBC controller makes the closed-loop system an interconnection of two lower-dimensional port-Hamiltonian (pH) systems in the on- and off-manifold coordinates that appear in the I&I framework. The effect of damping injection output feedback can be identified with dissipation in the off-manifold part of the interconnected system. Dissipation is propagated to the on-manifold part which results in asymptotic stability of the system's equilibrium. The particular choice of the I&I design parameters in the present example, including the unconventional definition of coordinates on the invariant manifold, provides an interesting re-interpretation of the IDA-PBC control law from the I&I perspective. Finally, a discussion on the equivalence of the two approaches is presented by examining the cases of linear mechanical systems with one unactuated pivot as well as of general linear mechanical systems.
@@ -26,7 +31,7 @@ Underactuated mechanical systems; Port-Hamiltonian systems; Passivity based cont
 - **Pages:** 445--453
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2013.09.008](https://doi.org/10.1016/j.ejcon.2013.09.008)
-- **Note:** Lagrangian and Hamiltonian Methods for Modelling and Control
+- **Event:** Lagrangian and Hamiltonian Methods for Modelling and Control
  
 ## BibTeX
 {% highlight bibtex %}

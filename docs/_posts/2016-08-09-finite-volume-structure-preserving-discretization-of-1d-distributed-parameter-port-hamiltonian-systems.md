@@ -5,12 +5,18 @@ date: 2016-08-09 00:00:00 +0100
 permalink: finite-volume-structure-preserving-discretization-of-1d-distributed-parameter-port-hamiltonian-systems
 year: 2016
 authors: Paul Kotyczka
-category: journal-article
-tag: Port-Hamiltonian systems; systems of conservation laws; distributed-parameter systems; semi-discretiziation; finite volume methods
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - systems of conservation laws
+  - distributed-parameter systems
+  - semi-discretiziation
+  - finite volume methods
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul-kotyczka)
+[Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 A family of finite-dimensional approximate models is proposed which preserves the port-Hamiltonian structure of a class of open systems of conservation laws. The approach is based on conservative generalized leapfrog schemes with given consistency orders in terms of their stencil. The finite volume perspective fits naturally to the formulation of the conservation laws on staggered grids. Some observations on current structure-preserving discretization methods are discussed and related to the proposed approach. A frequently used benchmark example highlights some of the method’s properties and differences to existing structure-preserving schemes.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; systems of conservation laws; distributed-parameter sy
 - **Pages:** 298--303
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.07.457](https://doi.org/10.1016/j.ifacol.2016.07.457)
-- **Note:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
+- **Event:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2023-11-22 00:00:00 +0100
 permalink: implicit-port-hamiltonian-systems-structure-preserving-discretization-for-the-nonlocal-vibrations-in-a-viscoelastic-nanorod-and-for-a-seepage-model
 year: 2023
 authors: Antoine Bendimerad-Hohl, Ghislain Haine, Laurent Lefèvre, Denis Matignon
-category: journal-article
-tag: port-Hamiltonian systems; Structure-Preserving Discretization; Partitioned Finite Element Method; Implicit port-Hamiltonian systems; Nonlocal dynamics
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - structure-preserving discretization
+  - partitioned finite element method
+  - implicit port-hamiltonian systems
+  - nonlocal dynamics
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Matignon](authors/denis-matignon)
+[Antoine Bendimerad-Hohl](authors/antoine_bendimerad-Hohl), [Ghislain Haine](authors/ghislain_haine), [Laurent Lefèvre](authors/laurent_lefevre), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 A structure-preserving partitioned finite element method (PFEM), for the semi-discretization of infinite-dimensional explicit port-Hamiltonian systems (pHs), is extended to those pHs of implicit type, leading to port-Hamiltonian differential Algebraic Equations (pH-DAE). Two examples are dealt with: the nonlocal vibrations in a viscoelastic nanorod in 1D, and the dynamics of a fluid filtration model, the Dzektser seepage model in 2D, for which illustrative numerical simulations are provided.
@@ -26,7 +32,7 @@ port-Hamiltonian systems; Structure-Preserving Discretization; Partitioned Finit
 - **Pages:** 6789--6795
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.387](https://doi.org/10.1016/j.ifacol.2023.10.387)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2023-01-10 00:00:00 +0100
 permalink: physics-guided-and-energy-based-learning-of-interconnected-systems-from-lagrangian-to-port-hamiltonian-systems
 year: 2022
 authors: Yajie Bao, Vaishnavi Thesma, Atul Kelkar, Javad Mohammadpour Velni
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Yajie Bao](authors/yajie-bao), [Vaishnavi Thesma](authors/vaishnavi-thesma), [Atul Kelkar](authors/atul-kelkar), [Javad Mohammadpour Velni](authors/javad-mohammadpour-velni)
+[Yajie Bao](authors/yajie_bao), [Vaishnavi Thesma](authors/vaishnavi_thesma), [Atul Kelkar](authors/atul_kelkar), [Javad Mohammadpour Velni](authors/javad_mohammadpour_velni)
  
 ## Abstract
 This paper presents a framework for physics-informed energy-based neural network (NN) design to learn models of interconnected systems under the port-Hamiltonian (pH) formalism. In particular, this paper focuses on mechanical systems and incorporates the physical knowledge of Lagrangians into the neural networks to facilitate learning of equations of motion from the data. Moreover, the transformation from the Lagrangian mechanics to the Hamiltonian mechanics is incorporated into the NN architecture and learned from the data such that the learned model is compatible with the pH framework. Then, the structure of input-state-output pH models is imposed on the NN, which guarantees the dissipativity of the learned model. Furthermore, modeling interconnected systems is facilitated by the compositionality property of the pH systems. Additionally, the consistency between the Hamiltonian and Lagrangian is employed for the energy estimation to enable energy-based control. The proposed approach is shown to be computationally more efficient than the existing Lagrangian-based NN design approaches. Furthermore, the learned models with energy estimation are employed for energy-based model predictive control (MPC) design purpose. Experimental results using single (and double) inverted pendulum on carts show that the proposed learning-based approach can achieve an improved performance of model identification compared to the Lagrangian neural networks, accurate estimation of energies and strong control performance.

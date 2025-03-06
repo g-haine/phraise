@@ -5,12 +5,19 @@ date: 2022-08-02 00:00:00 +0100
 permalink: distributed-formation-control-of-networked-mechanical-systems
 year: 2022
 authors: N. Javanmardi, P. Borja, M.J. Yazdanpanah, J.M.A. Scherpen
-category: journal-article
-tag: Autonomous systems; Cooperative control; Networked control systems; Large-scale systems; Port-Hamiltonian systems; Scalability
+category:
+  - proceedings
+tags:
+  - autonomous systems
+  - cooperative control
+  - networked control systems
+  - large-scale systems
+  - port-hamiltonian systems
+  - scalability
 ---
  
 ## Authors
-[N. Javanmardi](authors/najmeh-javanmardi), [P. Borja](authors/luis-pablo-borja), [M.J. Yazdanpanah](authors/mohammad-javad-yazdanpanah), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[N. Javanmardi](authors/najmeh_javanmardi), [P. Borja](authors/luis_pablo_borja), [M.J. Yazdanpanah](authors/mohammad_javad_yazdanpanah), [J.M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 This paper investigates a distributed formation tracking control law for large-scale networks of mechanical systems. In particular, the formation network is represented by a directed communication graph with leaders and followers, where each agent is described as a port-Hamiltonian system with a constant mass matrix. Moreover, we adopt a distributed parameter approach to prove the scalable asymptotic stability of the network formation, i.e., the scalability with respect to the network size and the specific formation preservation. A simulation case illustrates the effectiveness of the proposed control approach.
@@ -26,7 +33,7 @@ Autonomous systems; Cooperative control; Networked control systems; Large-scale 
 - **Pages:** 294--299
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.07.275](https://doi.org/10.1016/j.ifacol.2022.07.275)
-- **Note:** 9th IFAC Conference on Networked Systems NECSYS 2022- Zürich, Switzerland, 5–7 July 2022
+- **Event:** 9th IFAC Conference on Networked Systems NECSYS 2022- Zürich, Switzerland, 5–7 July 2022
  
 ## BibTeX
 {% highlight bibtex %}

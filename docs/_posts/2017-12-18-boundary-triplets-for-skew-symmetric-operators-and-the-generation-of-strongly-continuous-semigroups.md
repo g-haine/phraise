@@ -5,12 +5,20 @@ date: 2017-12-18 00:00:00 +0100
 permalink: boundary-triplets-for-skew-symmetric-operators-and-the-generation-of-strongly-continuous-semigroups
 year: 2017
 authors: S.-A. Wegner
-category: journal-article
-tag: boundary triplet; C-semigroup; dissipative extension; port-Hamiltonian system; 47D06; 35G15; 47B44
+category:
+  - articles
+tags:
+  - boundary triplet
+  - c-semigroup
+  - dissipative extension
+  - port-hamiltonian system
+  - 47d06
+  - 35g15
+  - 47b44
 ---
  
 ## Authors
-[S.-A. Wegner](authors/sven-ake-wegner)
+[S.-A. Wegner](authors/sven_ake_wegner)
  
 ## Abstract
 We give a self-contained and streamlined exposition of a generation theorem for C_0-semigroups based on the method of boundary triplets. We apply this theorem to port-Hamiltonian systems where we discuss recent results appearing in stability and control theory. We give detailed proofs and require only a basic knowledge of operator and semigroup theory.

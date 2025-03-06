@@ -5,12 +5,18 @@ date: 2016-11-25 00:00:00 +0100
 permalink: port-hamiltonian-observer-design-for-plasma-profile-estimation-in-tokamaks
 year: 2016
 authors: Benjamin Vincent, Nicolas Hudon, Laurent Lefèvre, Denis Dochain
-category: journal-article
-tag: Port-Hamiltonian systems; Nonlinear passive observers; Tokamaks; Distributed parameter systems; Profile estimation
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - nonlinear passive observers
+  - tokamaks
+  - distributed parameter systems
+  - profile estimation
 ---
  
 ## Authors
-[Benjamin Vincent](authors/benjamin-vincent), [Nicolas Hudon](authors/nicolas-hudon), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Dochain](authors/denis-dochain)
+[Benjamin Vincent](authors/benjamin_vincent), [Nicolas Hudon](authors/nicolas_hudon), [Laurent Lefèvre](authors/laurent_lefevre), [Denis Dochain](authors/denis_dochain)
  
 ## Abstract
 This paper considers the problem of estimating magnetic and temperature profiles in tokamaks using nonlinear port-Hamiltonian observers. Two classes of observers preserving the port-Hamiltonian structure are considered: a proportional observer; and a proportional observer with an integral action. It is shown that the proposed passive observers are stable with respect to the interconnection of the observed system and the observer. For both designs, the observation gains are chosen such that the error dynamics takes the form of a port-Hamiltonian system. Simulation results for plasma profiles estimation illustrate the proposed observers performance, including in cases where their key physical parameters are badly known.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; Nonlinear passive observers; Tokamaks; Distributed par
 - **Pages:** 93--98
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.10.761](https://doi.org/10.1016/j.ifacol.2016.10.761)
-- **Note:** 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016- Vigo, Spain, 28—30 September 2016
+- **Event:** 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016- Vigo, Spain, 28—30 September 2016
  
 ## BibTeX
 {% highlight bibtex %}

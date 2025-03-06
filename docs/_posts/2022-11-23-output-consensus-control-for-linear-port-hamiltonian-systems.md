@@ -5,12 +5,16 @@ date: 2022-11-23 00:00:00 +0100
 permalink: output-consensus-control-for-linear-port-hamiltonian-systems
 year: 2022
 authors: Shuai Feng, Yu Kawano, Michele Cucuzzella, Jacquelien M.A. Scherpen
-category: journal-article
-tag: port-Hamiltonian systems; networked systems; output consensus
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - networked systems
+  - output consensus
 ---
  
 ## Authors
-[Shuai Feng](authors/shuai-feng), [Yu Kawano](authors/yu-kawano), [Michele Cucuzzella](authors/michele-cucuzzella), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Shuai Feng](authors/shuai_feng), [Yu Kawano](authors/yu_kawano), [Michele Cucuzzella](authors/michele_cucuzzella), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 In this paper, we study output consensus of coupled linear port-Hamiltonian systems on graphs in the presence of constant disturbances, where couplings are allowed to be both static and dynamic. Utilizing port-Hamiltonian structures, we present dynamic controllers achieving output consensus where the consensus values are determined by the disturbances. Finally, the utility of the proposed controller is illustrated by applying it to current sharing of DC microgrids.
@@ -26,7 +30,7 @@ port-Hamiltonian systems; networked systems; output consensus
 - **Pages:** 230--235
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.057](https://doi.org/10.1016/j.ifacol.2022.11.057)
-- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}

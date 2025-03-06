@@ -5,12 +5,18 @@ date: 2017-10-24 00:00:00 +0100
 permalink: self-oscillations-of-a-vocal-apparatus-a-port-hamiltonian-formulation
 year: 2017
 authors: Thomas Hélie, Fabrice Silva
-category: book-chapter
-tag: Vocal Apparatus; port-Hamiltonian Systems (PHS); Open Passive Systems; Glottal Flow; Dirac Structure
+category:
+  - proceedings
+tags:
+  - vocal apparatus
+  - port-hamiltonian systems (phs)
+  - open passive systems
+  - glottal flow
+  - dirac structure
 ---
  
 ## Authors
-[Thomas Hélie](authors/thomas-helie), [Fabrice Silva](authors/fabrice-silva)
+[Thomas Hélie](authors/thomas_helie), [Fabrice Silva](authors/fabrice_silva)
  
 ## Abstract
 Port Hamiltonian systems (PHS) are open passive systems that fulfil a power balance: they correspond to dynamical systems composed of energy-storing elements, energy-dissipating elements and external ports, endowed with a geometric structure (called Dirac structure) that encodes conservative interconnections. This paper presents a minimal PHS model of the full vocal apparatus. Elementary components are: (a) an ideal subglottal pressure supply, (b) a glottal flow in a mobile channel, (c) vocal-folds, (d) an acoustic resonator reduced to a single mode. Particular attention is paid to the energetic consistency of each component, to passivity and to the conservative interconnection. Simulations are presented. They show the ability of the model to produce a variety of regimes, including self-sustained oscillations. Typical healthy or pathological configuration laryngeal configurations are explored.
@@ -22,7 +28,7 @@ Vocal Apparatus; port-Hamiltonian Systems (PHS); Open Passive Systems; Glottal F
 - **ISBN:** 9783319684444
 - **Publisher:** Springer International Publishing
 - **DOI:** [10.1007/978-3-319-68445-1_44](https://doi.org/10.1007/978-3-319-68445-1_44)
-- **Note:** International Conference on Geometric Science of Information
+- **Event:** International Conference on Geometric Science of Information
  
 ## BibTeX
 {% highlight bibtex %}

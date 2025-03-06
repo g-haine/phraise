@@ -5,12 +5,17 @@ date: 2024-01-03 00:00:00 +0100
 permalink: fixed-time-h-infty-tracking-control-of-unmanned-underwater-vehicles-with-disturbance-rejection-via-port-hamiltonian-framework
 year: 2024
 authors: Lina Jin, Shuanghe Yu, Qiang Zhao, Guoyou Shi, Xiaofeng Wu
-category: journal-article
-tag: Fixed-time; PH; IDA-PBC; UUV
+category:
+  - articles
+tags:
+  - fixed-time
+  - ph
+  - ida-pbc
+  - uuv
 ---
  
 ## Authors
-[Lina Jin](authors/lina-jin), [Shuanghe Yu](authors/shuanghe-yu), [Qiang Zhao](authors/qiang-zhao), [Guoyou Shi](authors/guoyou-shi), [Xiaofeng Wu](authors/xiaofeng-wu)
+[Lina Jin](authors/lina_jin), [Shuanghe Yu](authors/shuanghe_yu), [Qiang Zhao](authors/qiang_zhao), [Guoyou Shi](authors/guoyou_shi), [Xiaofeng Wu](authors/xiaofeng_wu)
  
 ## Abstract
 The fixed-time tracking control schemes of unmanned underwater vehicles (UUVs) are investigated in body-fixed coordinates frame based on Port-Hamiltonian (PH) model with external disturbances. The novel locally and globally fixed-time control laws via the interconnection and damping assignment passivity-based control (IDA-PBC) are designed for trajectory tracking in UUVs. The virtual desired equilibria consisted of the tracking error and the desired trajectory are established by the matching conditions. Moreover, the fixed-time stabilization of the UUV induced of variable parameter matrixes is analyzed. Compared with the traditional IDA-PBC controller, the UUV is guaranteed to achieve the reference trajectory within a fixed time regardless of initial conditions. In the presence of external disturbances, the H ∞ laws are incorporated in the fixed-time control for the UUV, which can ensure faster trajectory tracking and strong anti-disturbance. Finally, the simulation results demonstrate the effectiveness of the main schemes.

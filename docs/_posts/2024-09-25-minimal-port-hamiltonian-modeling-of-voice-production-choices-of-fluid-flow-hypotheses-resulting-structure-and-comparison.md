@@ -5,12 +5,18 @@ date: 2024-09-25 00:00:00 +0100
 permalink: minimal-port-hamiltonian-modeling-of-voice-production-choices-of-fluid-flow-hypotheses-resulting-structure-and-comparison
 year: 2024
 authors: Thomas Risse, Thomas Hélie, Fabrice Silva, Antoine Falaize
-category: journal-article
-tag: Modelling; Port-Hamiltonian systems; Distributed parameter systems; Fluid-structure interaction; Vocal apparatus
+category:
+  - proceedings
+tags:
+  - modelling
+  - port-hamiltonian systems
+  - distributed parameter systems
+  - fluid-structure interaction
+  - vocal apparatus
 ---
  
 ## Authors
-[Thomas Risse](authors/thomas-risse), [Thomas Hélie](authors/thomas-helie), [Fabrice Silva](authors/fabrice-silva), [Antoine Falaize](authors/antoine-falaize)
+[Thomas Risse](authors/thomas_risse), [Thomas Hélie](authors/thomas_helie), [Fabrice Silva](authors/fabrice_silva), [Antoine Falaize](authors/antoine_falaize)
  
 ## Abstract
 Voice production results from the interaction between expelled airflow and soft tissues in the larynx and the vocal tract. Among the large literature on this topic over the last fifty years, a few nonlinear fluid-structure interaction models have been proposed in the port-Hamiltonian framework for passivity purposes. In this paper, we examine, compare and discuss two lumped-element port-Hamiltonian models from the literature, both derived from distributed parameter descriptions and simplifying assumptions chosen to integrate the minimal relevant phenomena involved in the larynx (for self-oscillations) or the vocal tract (during articulation). These models are recalled and reformulated using common terminology and notations. This leads to equivalent circuit representations, the components and the structure of which allow direct comparison (about causality, dimension, nonlinear laws, coupling) and physical interpretation. These results highlight important properties to consider and provide guidelines for future modelling improvement to be used in simulation.
@@ -26,7 +32,7 @@ Modelling; Port-Hamiltonian systems; Distributed parameter systems; Fluid-struct
 - **Pages:** 238--243
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.287](https://doi.org/10.1016/j.ifacol.2024.08.287)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

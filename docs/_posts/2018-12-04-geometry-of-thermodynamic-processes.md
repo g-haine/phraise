@@ -5,11 +5,11 @@ date: 2018-12-04 00:00:00 +0100
 permalink: geometry-of-thermodynamic-processes
 year: 2018
 authors: Arjan Van der Schaft, Bernhard Maschke
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Arjan Van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
+[Arjan Van der Schaft](authors/arjan_van_der_schaft), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 Since the 1970s, contact geometry has been recognized as an appropriate framework for the geometric formulation of thermodynamic systems, and in particular their state properties. More recently it has been shown how the symplectization of contact manifolds provides a new vantage point; enabling, among other things, to switch easily between the energy and entropy representations of a thermodynamic system. In the present paper, this is continued towards the global geometric definition of a degenerate Riemannian metric on the homogeneous Lagrangian submanifold describing the state properties, which is overarching the locally-defined metrics of Weinhold and Ruppeiner. Next, a geometric formulation is given of non-equilibrium thermodynamic processes, in terms of Hamiltonian dynamics defined by Hamiltonian functions that are homogeneous of degree one in the co-extensive variables and zero on the homogeneous Lagrangian submanifold. The correspondence between objects in contact geometry and their homogeneous counterparts in symplectic geometry, is extended to the definition of port-thermodynamic systems and the formulation of interconnection ports. The resulting geometric framework is illustrated on a number of simple examples, already indicating its potential for analysis and control.

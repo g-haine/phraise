@@ -5,11 +5,11 @@ date: 2020-02-03 00:00:00 +0100
 permalink: energy-based-model-of-a-solar-powered-pumped-hydro-storage-system
 year: 2019
 authors: Hayden Phillips-Brenes, Roberto Pereira-Arroyo, Mauricio Munoz-Arias
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Hayden Phillips-Brenes](authors/hayden-phillips-brenes), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Mauricio Munoz-Arias](authors/mauricio-munoz-arias)
+[Hayden Phillips-Brenes](authors/hayden_phillips_brenes), [Roberto Pereira-Arroyo](authors/roberto_pereira_arroyo), [Mauricio Munoz-Arias](authors/mauricio_munoz_arias)
  
 ## Abstract
 This document presents a port-Hamiltonian model of a pumped-hydro storage system, using Photo Voltaic energy as the primary source. Matlab simulation results show that the model is functional under ideal conditions of constant solar radiation. It also graphically demonstrate the relationship between input solar power and the accumulation of energy at the upper reservoir. This work is a fundamental step towards a tool for the analysis and design of optimized and fully automated system.

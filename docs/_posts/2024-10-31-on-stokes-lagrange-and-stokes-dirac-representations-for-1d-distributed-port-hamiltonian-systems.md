@@ -5,12 +5,20 @@ date: 2024-10-31 00:00:00 +0100
 permalink: on-stokes-lagrange-and-stokes-dirac-representations-for-1d-distributed-port-hamiltonian-systems
 year: 2024
 authors: Antoine Bendimerad-Hohl, Denis Matignon, Ghislain Haine, Laurent Lefèvre
-category: journal-article
-tag: Distributed parameter systems; Implicit port-Hamiltonian systems; Constrained port-Hamiltonian systems; Dzektser equation; non-local viscous dissipation; Timoshenko beam; Euler-Bernoulli beam
+category:
+  - proceedings
+tags:
+  - distributed parameter systems
+  - implicit port-hamiltonian systems
+  - constrained port-hamiltonian systems
+  - dzektser equation
+  - non-local viscous dissipation
+  - timoshenko beam
+  - euler-bernoulli beam
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl), [Denis Matignon](authors/denis-matignon), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre)
+[Antoine Bendimerad-Hohl](authors/antoine_bendimerad-Hohl), [Denis Matignon](authors/denis_matignon), [Ghislain Haine](authors/ghislain_haine), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 Port-Hamiltonian systems were recently extended to include implicitly defined energy and energy ports thanks to a (Stokes-)Lagrange subspace. Here, we study the equivalent port-Hamiltonian representations of two systems with damping, written using either a classical Hamiltonian or a Stokes-Lagrange subspace. Then, we study the Timoshenko beam and Euler-Bernoulli models, the latter being the flow-constrained version of the former, and show how they can be written using either a Stokes-Dirac or Stokes-Lagrange subspace related by a transformation operator. Finally, it is proven that these transformations commute with the flow-constraint projection operator.
@@ -26,7 +34,7 @@ Distributed parameter systems; Implicit port-Hamiltonian systems; Constrained po
 - **Pages:** 238--243
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.10.174](https://doi.org/10.1016/j.ifacol.2024.10.174)
-- **Note:** 26th International Symposium on Mathematical Theory of Networks and Systems MTNS 2024- Cambridge, United Kingdom, August 19-23, 2024
+- **Event:** 26th International Symposium on Mathematical Theory of Networks and Systems MTNS 2024- Cambridge, United Kingdom, August 19-23, 2024
  
 ## BibTeX
 {% highlight bibtex %}

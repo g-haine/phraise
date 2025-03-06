@@ -5,12 +5,17 @@ date: 2016-05-30 00:00:00 +0100
 permalink: plasma-q-profile-control-in-tokamaks-using-a-damping-assignment-passivity-based-approach
 year: 2016
 authors: Ngoc Minh Trang Vu, Rémy Nouailletas, Laurent Lefèvre, Federico Felici
-category: journal-article
-tag: Tokamak plasma control; Distributed parameter systems; Port-Controlled Hamiltonian systems; IDA-PBC control
+category:
+  - articles
+tags:
+  - tokamak plasma control
+  - distributed parameter systems
+  - port-controlled hamiltonian systems
+  - ida-pbc control
 ---
  
 ## Authors
-[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Rémy Nouailletas](authors/remy-nouailletas), [Laurent Lefèvre](authors/laurent-lefevre), [Federico Felici](authors/federico-felici)
+[Ngoc Minh Trang Vu](authors/ngoc_minh_trang_vu), [Rémy Nouailletas](authors/remy_nouailletas), [Laurent Lefèvre](authors/laurent_lefevre), [Federico Felici](authors/federico_felici)
  
 ## Abstract
 The IDA-PBC based on PCH model for tokamak q-profile is investigated. Two scenarios are carried out. The first one is the resistive diffusion model for the magnetic poloidal flux. The second one is extended with the thermal diffusion. A feedforward control is used to ensure the compatibility with the actuator physical ability. An IDA-PBC feedback is proposed to improve the system stabilization and convergence speed. The controllers are validated in the simulation using RAPTOR code and tested in TCV, the result is analyzed and the followed discussion proposed the required improvement for the next experiments.

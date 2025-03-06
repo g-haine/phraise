@@ -5,12 +5,18 @@ date: 2015-06-17 00:00:00 +0100
 permalink: distributed-and-backstepping-boundary-controls-to-achieve-ida-pbc-design
 year: 2015
 authors: N.M. Trang VU, L. LEFÈVRE, R. NOUAILLETAS
-category: journal-article
-tag: distributed parameters systems; port-Hamiltonian systems; IDA-PBC control; back- stepping control; plasma control
+category:
+  - proceedings
+tags:
+  - distributed parameters systems
+  - port-hamiltonian systems
+  - ida-pbc control
+  - back- stepping control
+  - plasma control
 ---
  
 ## Authors
-[N.M. Trang VU](authors/ngoc-minh-trang-vu), [L. LEFÈVRE](authors/laurent-lefevre), [R. NOUAILLETAS](authors/remy-nouailletas)
+[N.M. Trang VU](authors/ngoc_minh_trang_vu), [L. LEFÈVRE](authors/laurent_lefevre), [R. NOUAILLETAS](authors/remy_nouailletas)
  
 ## Abstract
 An IDA-PBC-like control synthesis for infinite dimensional port Hamiltonian systems is investigated. As for the finite dimensional case, a feedback control transforms the original model into a closed loop target Hamiltonian model. Both distributed control and boundary control are used. The finite rank distributed control is determined to solve an average IDA-PBC matching equation. A backstepping boundary control is used to stabilize the matching error. The control model chosen to illustrate the approach is the so-called resistive diffusion equation for the radial diffusion of the poloidal magnetic flux.
@@ -26,7 +32,7 @@ distributed parameters systems; port-Hamiltonian systems; IDA-PBC control; back-
 - **Pages:** 482--487
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.05.034](https://doi.org/10.1016/j.ifacol.2015.05.034)
-- **Note:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
+- **Event:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
  
 ## BibTeX
 {% highlight bibtex %}

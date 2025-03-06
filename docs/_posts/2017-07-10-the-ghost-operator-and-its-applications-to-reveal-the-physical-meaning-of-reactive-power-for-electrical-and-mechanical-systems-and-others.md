@@ -5,14 +5,14 @@ date: 2017-07-10 00:00:00 +0100
 permalink: the-ghost-operator-and-its-applications-to-reveal-the-physical-meaning-of-reactive-power-for-electrical-and-mechanical-systems-and-others
 year: 2017
 authors: Qing-Chang Zhong
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Qing-Chang Zhong](authors/qing-chang-zhong)
+[Qing-Chang Zhong](authors/qing_chang_zhong)
  
 ## Abstract
-In science and engineering, many concepts are introduced without a clear physical meaning, e.g., imaginary numbers in mathematics and reactive power in electrical engineering. In this paper, a new operator, coined the ghost operator  \\( g \\) , is introduced to physically construct the ghost of a system. It satisfies  \\( g^{2}=-1 \\)  but is different from the imaginary operator. With the help of the port-Hamiltonian systems theory, it is proved that the ghost of a system behaves exactly in the opposite way as the original system. This brings the ghost of a system into reality and paves the way to reveal the physical meaning of some imaginary concepts. Two applications are given as an example. One is to reveal the physical meaning of reactive power in electrical systems: it is the (real) power of the ghost system, which leads to a significantly simplified instantaneous power theory called the ghost power theory. The other is to define the reactive power for mechanical systems to complete the electrical–mechanical analogy. As a matter of fact, the resulting instantaneous power theory is generic and applicable to any dynamic system that can be described by the port-Hamiltonian model.
+In science and engineering, many concepts are introduced without a clear physical meaning, e.g., imaginary numbers in mathematics and reactive power in electrical engineering. In this paper, a new operator, coined the ghost operator  \( g \) , is introduced to physically construct the ghost of a system. It satisfies  \( g^{2}=-1 \)  but is different from the imaginary operator. With the help of the port-Hamiltonian systems theory, it is proved that the ghost of a system behaves exactly in the opposite way as the original system. This brings the ghost of a system into reality and paves the way to reveal the physical meaning of some imaginary concepts. Two applications are given as an example. One is to reveal the physical meaning of reactive power in electrical systems: it is the (real) power of the ghost system, which leads to a significantly simplified instantaneous power theory called the ghost power theory. The other is to define the reactive power for mechanical systems to complete the electrical–mechanical analogy. As a matter of fact, the resulting instantaneous power theory is generic and applicable to any dynamic system that can be described by the port-Hamiltonian model.
  
 ## Citation
 - **Journal:** IEEE Access

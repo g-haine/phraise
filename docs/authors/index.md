@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Browse by authors
+title: Authors
 permalink: /authors/
 ---
 

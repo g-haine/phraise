@@ -5,12 +5,17 @@ date: 2023-11-01 00:00:00 +0100
 permalink: optimization-based-model-order-reduction-of-port-hamiltonian-descriptor-systems
 year: 2023
 authors: Paul Schwerdtner, Tim Moser, Volker Mehrmann, Matthias Voigt
-category: journal-article
-tag: Port-Hamiltonian systems; Model order reduction; Structure-preservation; Descriptor systems
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - model order reduction
+  - structure-preservation
+  - descriptor systems
 ---
  
 ## Authors
-[Paul Schwerdtner](authors/paul-schwerdtner), [Tim Moser](authors/tim-moser), [Volker Mehrmann](authors/volker-mehrmann), [Matthias Voigt](authors/matthias-voigt)
+[Paul Schwerdtner](authors/paul_schwerdtner), [Tim Moser](authors/tim_moser), [Volker Mehrmann](authors/volker_mehrmann), [Matthias Voigt](authors/matthias_voigt)
  
 ## Abstract
 We present a new optimization-based structure-preserving model order reduction (MOR) method for port-Hamiltonian differential–algebraic equations (pH-DAEs). Our method is based on a novel parameterization that allows us to represent any linear time-invariant pH-DAE of a prescribed model order. We propose two algorithms which directly optimize the parameters of a reduced model to approximate a given large-scale model with respect to either the H ∞ or the H 2 norm. This approach has several benefits. Our parameterization ensures that the reduced model is again a pH-DAE system and enables a compact representation of the algebraic part of the large-scale model, which in projection-based methods often requires a more involved treatment. The direct optimization is entirely based on transfer function evaluations of the large-scale model and is therefore independent of the structure of the system matrices. Numerical experiments are conducted to illustrate the high accuracy and small reduced model orders in comparison to other structure-preserving MOR methods.

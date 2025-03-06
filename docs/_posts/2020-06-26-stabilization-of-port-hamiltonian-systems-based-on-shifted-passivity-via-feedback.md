@@ -5,11 +5,11 @@ date: 2020-06-26 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-systems-based-on-shifted-passivity-via-feedback
 year: 2021
 authors: Chengshuai Wu, Arjan van der Schaft, Jian Chen
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Chengshuai Wu](authors/chengshuai-wu), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Jian Chen](authors/jian-chen)
+[Chengshuai Wu](authors/chengshuai_wu), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Jian Chen](authors/jian_chen)
  
 ## Abstract
 In this article, stabilization of port-Hamiltonian (pH) systems is studied in the context of shifted passivity. The pH systems, in general, are not shifted passive with respect to the given Hamiltonian and output. Therefore, we consider enforcing the property of shifted passivity by designing a state feedback, namely, shifted passivity via feedback. This introduced concept brings more insight into the stabilization of pH systems, and a set of partial differential equations is derived such that its solution specifies a state feedback achieving shifted passivity via feedback. Based on the framework of shifted passivity via feedback, a group of sufficient conditions is given such that a proposed proportional control with respect to a designed power shaping output can achieve closed-loop asymptotic stability. Some extended control design is provided to relax the required conditions.

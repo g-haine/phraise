@@ -5,11 +5,11 @@ date: 2012-06-06 00:00:00 +0100
 permalink: dirac-manifolds
 year: 2012
 authors: Theodore James Courant
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Theodore James Courant](authors/theodore-james-courant)
+[Theodore James Courant](authors/theodore_james_courant)
  
 ## Abstract
 A Dirac structure on a vector space    V V    is a subspace of    V V    with a skew form on it. It is shown that these structures correspond to subspaces of     V ⊕   V  ∗     V \oplus {V^{\ast }}    satisfying a maximality condition, and having the property that a certain symmetric form on     V ⊕   V  ∗     V \oplus {V^{\ast }}    vanishes when restricted to them. Dirac structures on a vector space are analyzed in terms of bases, and a generalized Cayley transformation is defined which takes a Dirac structure to an element of     O ( V )  O(V)   . Finally a method is given for passing a Dirac structure on a vector space to a Dirac structure on any subspace. Dirac structures on vector spaces are generalized to smooth Dirac structures on a manifold    P P   , which are defined to be smooth subbundles of the bundle     T P ⊕   T  ∗    P  TP \oplus {T^{\ast }}P    satisfying pointwise the properties of the linear case. If a bundle     L ⊂ T P ⊕   T  ∗    P  L \subset TP \oplus {T^{\ast }}P    defines a Dirac structure on    P P   , then we call    L L    a Dirac bundle over    P P   . A    3 3   -tensor is defined on Dirac bundles whose vanishing is the integrability condition of the Dirac structure. The basic examples of integrable Dirac structures are Poisson and presymplectic manifolds; in these cases the Dirac bundle is the graph of a bundle map, and the integrability tensors are     [ B , B ]  [B,B]    and     d Ω  d\Omega    respectively. A function    f f    on a Dirac manifold is called admissible if there is a vector field    X X    such that the pair     ( X , d f )  (X,df)    is a section of the Dirac bundle    L L   ; the pair     ( X , d f )  (X,df)    is called an admissible section. The set of admissible functions is shown to be a Poisson algebra. A process is given for passing Dirac structures to a submanifold    Q Q    of a Dirac manifold    P P   . The induced bracket on admissible functions on    Q Q    is in fact the Dirac bracket as defined by Dirac for constrained submanifolds.

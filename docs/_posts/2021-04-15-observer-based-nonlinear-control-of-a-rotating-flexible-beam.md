@@ -5,12 +5,18 @@ date: 2021-04-15 00:00:00 +0100
 permalink: observer-based-nonlinear-control-of-a-rotating-flexible-beam
 year: 2020
 authors: Andrea Mattioni, Jesus Toledo, Yann Le Gorrec
-category: journal-article
-tag: Distributed-parameter system; Nonlinear control; Observers; Asymptotic stability; port-Hamiltonian system
+category:
+  - proceedings
+tags:
+  - distributed-parameter system
+  - nonlinear control
+  - observers
+  - asymptotic stability
+  - port-hamiltonian system
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea-mattioni), [Jesus Toledo](authors/jesus-pablo-toledo-zucco), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Andrea Mattioni](authors/andrea_mattioni), [Jesus Toledo](authors/jesus_pablo_toledo_zucco), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper presents an observer based nonlinear control for a flexible beam clamped on a rotating inertia. The considered model is composed by a set of Partial Differential Equations (PDEs) interconnected with an Ordinary Differential Equation (ODE), with control input in the ODE. The control problem consists in orienting the beam at the desired position, maintaining the flexible vibrations as low as possible. To this end, it is presented a nonlinear controller that depends on the beam’s state. An Observer is designed to reconstruct the infinite dimensional state, and the estimated state is used in the nonlinear controller instead of the real one. Assuming well-posedness of the closed loop system, it is shown the exponential convergence of the estimated state, and the asymptotic stability of the closed loop system. Numerical simulations are presented to characterize the closed loop behaviour with different choices of observer’s parameters.
@@ -26,7 +32,7 @@ Distributed-parameter system; Nonlinear control; Observers; Asymptotic stability
 - **Pages:** 7479--7484
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1306](https://doi.org/10.1016/j.ifacol.2020.12.1306)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

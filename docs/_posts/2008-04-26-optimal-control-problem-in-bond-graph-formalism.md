@@ -5,12 +5,20 @@ date: 2008-04-26 00:00:00 +0100
 permalink: optimal-control-problem-in-bond-graph-formalism
 year: 2009
 authors: Omar Mouhib, Audrey Jardin, Wilfrid Marquis-Favre, Eric Bideaux, Daniel Thomasset
-category: journal-article
-tag: Optimal control; Dissipative energy minimization; Output error minimization; Bond graph; Pontryagin Maximum Principle; Port-Hamiltonian system; Bicausality
+category:
+  - proceedings
+tags:
+  - optimal control
+  - dissipative energy minimization
+  - output error minimization
+  - bond graph
+  - pontryagin maximum principle
+  - port-hamiltonian system
+  - bicausality
 ---
  
 ## Authors
-[Omar Mouhib](authors/omar-mouhib), [Audrey Jardin](authors/audrey-jardin), [Wilfrid Marquis-Favre](authors/wilfrid-marquis-favre), [Eric Bideaux](authors/eric-bideaux), [Daniel Thomasset](authors/daniel-thomasset)
+[Omar Mouhib](authors/omar_mouhib), [Audrey Jardin](authors/audrey_jardin), [Wilfrid Marquis-Favre](authors/wilfrid_marquis_favre), [Eric Bideaux](authors/eric_bideaux), [Daniel Thomasset](authors/daniel_thomasset)
  
 ## Abstract
 This paper presents a new way to derive an optimal control system for a specific optimisation problem, based on bond graph formalism. The procedure proposed concerns the optimal control of linear time invariant MIMO systems and can deal with both cases of the integral performance index, these correspond to dissipative energy minimization and output error minimization. An augmented bond graph model is obtained starting from the bond graph model of the system associated with the optimal control problem. This augmented bond graph, consisting of the original model representation coupled to an optimizing bond graph, supplies, by its bicausal exploitation, the set of differential-algebraic equations that analytically give the solution to the optimal control problem without the need to develop the analytical steps of Pontryagin’s method. The proof uses the Pontryagin Maximum Principle applied to the port-Hamiltonian formulation of the system.
@@ -26,7 +34,7 @@ Optimal control; Dissipative energy minimization; Output error minimization; Bon
 - **Pages:** 240--256
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.simpat.2008.04.011](https://doi.org/10.1016/j.simpat.2008.04.011)
-- **Note:** Bond Graph Modelling
+- **Event:** Bond Graph Modelling
  
 ## BibTeX
 {% highlight bibtex %}

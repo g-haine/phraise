@@ -5,12 +5,19 @@ date: 2015-11-10 00:00:00 +0100
 permalink: zero-dynamics-for-waves-on-networks
 year: 2015
 authors: Birgit Jacob, Kirsten Morris, Hans Zwart
-category: journal-article
-tag: Port-Hamiltonian system; distributed parameter systems; boundary control; zero dynamics; networks; coupled wave equations
+category:
+  - proceedings
+tags:
+  - port-hamiltonian system
+  - distributed parameter systems
+  - boundary control
+  - zero dynamics
+  - networks
+  - coupled wave equations
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Kirsten Morris](authors/kirsten-morris), [Hans Zwart](authors/hans-zwart)
+[Birgit Jacob](authors/birgit_jacob), [Kirsten Morris](authors/kirsten_morris), [Hans Zwart](authors/hans_zwart)
  
 ## Abstract
 Consider a network with linear dynamics on the edges, and observation and control in the nodes. Assume that on the edges there is no damping, and so the dynamics can be described by an infinite-dimensional, port-Hamiltonian system. For general infinite-dimensional systems, the zero dynamics can be difficult to characterize and are sometimes ill-posed. However, for this class of systems the zero dynamics are shown to be well-defined. Using the underlying structure, simple characterizations and a constructive procedure can be obtained.
@@ -26,7 +33,7 @@ Port-Hamiltonian system; distributed parameter systems; boundary control; zero d
 - **Pages:** 229--234
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.244](https://doi.org/10.1016/j.ifacol.2015.10.244)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

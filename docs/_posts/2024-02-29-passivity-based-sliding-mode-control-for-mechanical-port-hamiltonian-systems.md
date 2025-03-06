@@ -5,11 +5,11 @@ date: 2024-02-29 00:00:00 +0100
 permalink: passivity-based-sliding-mode-control-for-mechanical-port-hamiltonian-systems
 year: 2024
 authors: Naoki Sakata, Kenji Fujimoto, Ichiro Maruta
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Naoki Sakata](authors/naoki-sakata), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta)
+[Naoki Sakata](authors/naoki_sakata), [Kenji Fujimoto](authors/kenji_fujimoto), [Ichiro Maruta](authors/ichiro_maruta)
  
 ## Abstract
 In this work, we propose a new passivity-based sliding mode control (PBSMC) method for mechanical port-Hamiltonian systems. PBSMC is unification of sliding mode control and passivity-based control. It achieves sliding mode control and Lyapunov stability simultaneously by employing an energy-based Lyapunov function. The proposed method gives a family of stabilizing controllers that smoothly interpolates passivity-based control and sliding mode control with design parameters. The freedom is useful to adjust the tradeoff between robustness against external disturbances and undesired chattering vibration. In addition, this article relaxes the restrictive condition, which is required in the authors' former result. As a result, we can apply the proposed PBSMC method to trajectory tracking control problems. Furthermore, the robustness of the proposed controller against matched and unmatched disturbances is investigated. Numerical examples demonstrate the effectiveness of the proposed method.

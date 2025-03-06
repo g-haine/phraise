@@ -5,12 +5,19 @@ date: 2017-10-19 00:00:00 +0100
 permalink: parabolic-matching-of-hyperbolic-system-using-control-by-interconnection
 year: 2017
 authors: N.M. Trang Vu, V. Trenchant, H. Ramirez, L. Lefèvre, Y. Le Gorrec
-category: journal-article
-tag: Port Hamiltonian systems (PHS); distributed parameters systems (DPS); Control by Interconnection (CbI); feedback equivalence with distributed control; Interconnection; Damping Assignment Passivity Based Control (IDA-PBC)
+category:
+  - proceedings
+tags:
+  - port hamiltonian systems (phs)
+  - distributed parameters systems (dps)
+  - control by interconnection (cbi)
+  - feedback equivalence with distributed control
+  - interconnection
+  - damping assignment passivity based control (ida-pbc)
 ---
  
 ## Authors
-[N.M. Trang Vu](authors/ngoc-minh-trang-vu), [V. Trenchant](authors/vincent-trenchant), [H. Ramirez](authors/hector-ramirez), [L. Lefèvre](authors/laurent-lefevre), [Y. Le Gorrec](authors/yann-le-gorrec)
+[N.M. Trang Vu](authors/ngoc_minh_trang_vu), [V. Trenchant](authors/vincent_trenchant), [H. Ramirez](authors/hector_ramirez), [L. Lefèvre](authors/laurent_lefevre), [Y. Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 The structural difference between one-dimensional (1D) hyperbolic and parabolic port Hamiltonian system (PHS) is discussed. Then, using a Control by Interconnection (CbI) approach, a distributed state feedback is designed in order to transform an hyperbolic PHS into a parabolic one, the latter being asymptotically stable and even purely dissipative (with no oscillating modes). Distributed wave damping in 1D vibro-acoustic pipes, using piezo actuators, is considered as an illustration example for the proposed control design.
@@ -26,7 +33,7 @@ Port Hamiltonian systems (PHS); distributed parameters systems (DPS); Control by
 - **Pages:** 5574--5579
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.1101](https://doi.org/10.1016/j.ifacol.2017.08.1101)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

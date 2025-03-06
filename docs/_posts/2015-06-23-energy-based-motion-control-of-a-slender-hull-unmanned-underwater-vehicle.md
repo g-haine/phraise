@@ -5,12 +5,17 @@ date: 2015-06-23 00:00:00 +0100
 permalink: energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle
 year: 2015
 authors: Francis Valentinis, Alejandro Donaire, Tristan Perez
-category: journal-article
-tag: Unmanned underwater vehicle; Nonlinear systems; Energy-based control; Port-Hamiltonian systems
+category:
+  - articles
+tags:
+  - unmanned underwater vehicle
+  - nonlinear systems
+  - energy-based control
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Francis Valentinis](authors/francis-valentinis), [Alejandro Donaire](authors/alejandro-donaire), [Tristan Perez](authors/tristan-perez)
+[Francis Valentinis](authors/francis_valentinis), [Alejandro Donaire](authors/alejandro_donaire), [Tristan Perez](authors/tristan_perez)
  
 ## Abstract
 This paper presents a motion control system for tracking of attitude and speed of an underactuated slender-hull unmanned underwater vehicle. The feedback control strategy is developed using the Port-Hamiltonian theory. By shaping of the target dynamics (desired dynamic response in closed loop) with particular attention to the target mass matrix, the influence of the unactuated dynamics on the controlled system is suppressed. This results in achievable dynamics independent of stable uncontrolled states. Throughout the design, the insight of the physical phenomena involved is used to propose the desired target dynamics. Integral action is added to the system for robustness and to reject steady disturbances. This is achieved via a change of coordinates that result in input-to-state stable (ISS) target dynamics. As a final step in the design, an anti-windup scheme is implemented to account for limited actuator capacity, namely saturation. The performance of the design is demonstrated through simulation with a high-fidelity model.

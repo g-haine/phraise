@@ -5,12 +5,19 @@ date: 2023-11-22 00:00:00 +0100
 permalink: damping-assignment-of-boundary-controlled-port-hamiltonian-systems-with-unknown-open-loop-damping
 year: 2023
 authors: Jesus-Pablo Toledo-Zucco, Alex Dos Reis De Souza, Pierre Vuillemin, Charles Poussot-Vassal
-category: journal-article
-tag: Boundary control systems; distributed parameter systems; port-Hamiltonian systems; damping assignment; observer design; adaptive control
+category:
+  - proceedings
+tags:
+  - boundary control systems
+  - distributed parameter systems
+  - port-hamiltonian systems
+  - damping assignment
+  - observer design
+  - adaptive control
 ---
  
 ## Authors
-[Jesus-Pablo Toledo-Zucco](authors/jesus-pablo-toledo-zucco), [Alex Dos Reis De Souza](authors/alex-dos-reis-de-souza), [Pierre Vuillemin](authors/pierre-vuillemin), [Charles Poussot-Vassal](authors/charles-poussot-vassal)
+[Jesus-Pablo Toledo-Zucco](authors/jesus_pablo_toledo_zucco), [Alex Dos Reis De Souza](authors/alex_dos_reis_de_souza), [Pierre Vuillemin](authors/pierre_vuillemin), [Charles Poussot-Vassal](authors/charles_poussot_vassal)
  
 ## Abstract
 A damping assignment control law for infinite-dimensional port-Hamiltonian systems in one-dimensional space with actuators and sensors located at the spatial boundaries is proposed with the novelty that the boundary damping is unknown. This allows us to fix a desired decay of energy for the cases in which the system is over-damped, poorly damped, and even with negative damping. We propose an observer composed of an infinite-dimensional model and a finite-dimensional one for the state and parameter estimation. The asymptotic convergence of the observer is shown using LaSalle's invariance principle assuming that the trajectories are pre-compact. Finally, an observer-based adaptive output feedback controller is proposed for the damping assignment in the closed loop. The passivity of the closed-loop system is guaranteed with respect to the initial Hamiltonian of the system under the assumption that the observer is initialized identically to the current state and close enough to the parameter value. The transmission line is used to exemplify this approach.
@@ -26,7 +33,7 @@ Boundary control systems; distributed parameter systems; port-Hamiltonian system
 - **Pages:** 6807--6812
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.393](https://doi.org/10.1016/j.ifacol.2023.10.393)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

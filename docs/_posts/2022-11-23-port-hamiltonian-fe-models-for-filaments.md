@@ -5,12 +5,18 @@ date: 2022-11-23 00:00:00 +0100
 permalink: port-hamiltonian-fe-models-for-filaments
 year: 2022
 authors: Tobias Thoma, Paul Kotyczka
-category: journal-article
-tag: port-Hamiltonian systems; mixed finite elements; geometrically nonlinear mechanical systems; structure preserving discretization; filamentous bodies
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - mixed finite elements
+  - geometrically nonlinear mechanical systems
+  - structure preserving discretization
+  - filamentous bodies
 ---
  
 ## Authors
-[Tobias Thoma](authors/tobias-thoma), [Paul Kotyczka](authors/paul-kotyczka)
+[Tobias Thoma](authors/tobias_thoma), [Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 In this article, we present the port-Hamiltonian representation, the structure preserving discretization and the resulting finite-dimensional state space model of one-dimensional filaments based on a mixed finite element formulation. Due to the fact that the equations of motion of a filamentous body are based on the theory of geometrically nonlinear mechanical systems, the port-Hamiltonian formulation is expressed by means of its co-energy (effort) variables. The resulting port-Hamiltonian state space model features a quadratic Hamiltonian and the nonlinearity is reflected in the state dependence of its interconnection matrix. Numerical experiments generated with FEniCS illustrate the properties of the resulting finite element models.
@@ -26,7 +32,7 @@ port-Hamiltonian systems; mixed finite elements; geometrically nonlinear mechani
 - **Pages:** 353--358
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.078](https://doi.org/10.1016/j.ifacol.2022.11.078)
-- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}

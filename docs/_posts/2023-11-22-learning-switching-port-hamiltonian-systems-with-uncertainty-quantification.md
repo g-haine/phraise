@@ -5,12 +5,18 @@ date: 2023-11-22 00:00:00 +0100
 permalink: learning-switching-port-hamiltonian-systems-with-uncertainty-quantification
 year: 2023
 authors: Thomas Beckers, Tom Z. Jiahao, George J. Pappas
-category: journal-article
-tag: Bayesian methods; Nonparametric methods; Grey box modelling; Mechatronic systems; Uncertainty quantification
+category:
+  - proceedings
+tags:
+  - bayesian methods
+  - nonparametric methods
+  - grey box modelling
+  - mechatronic systems
+  - uncertainty quantification
 ---
  
 ## Authors
-[Thomas Beckers](authors/thomas-beckers), [Tom Z. Jiahao](authors/tom-z-jiahao), [George J. Pappas](authors/george-j-pappas)
+[Thomas Beckers](authors/thomas_beckers), [Tom Z. Jiahao](authors/tom_z_jiahao), [George J. Pappas](authors/george_j_pappas)
  
 ## Abstract
 Switching physical systems are ubiquitous in modern control applications, for instance, locomotion behavior of robots and animals, power converters with switches and diodes. The dynamics and switching conditions are often hard to obtain or even inaccessible in case of a-priori unknown environments and nonlinear components. Black-box neural networks can learn to approximately represent switching dynamics, but typically require a large amount of data, neglect the underlying axioms of physics, and lack of uncertainty quantification. We propose a Gaussian process based learning approach enhanced by switching Port-Hamiltonian systems (GP-SPHS) to learn physical plausible system dynamics and identify the switching condition. The Bayesian nature of Gaussian processes uses collected data to form a distribution over all possible switching policies and dynamics that allows for uncertainty quantification. Furthermore, the proposed approach preserves the compositional nature of Port-Hamiltonian systems. A simulation with a hopping robot validates the effectiveness of the proposed approach.
@@ -26,7 +32,7 @@ Bayesian methods; Nonparametric methods; Grey box modelling; Mechatronic systems
 - **Pages:** 525--532
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.1621](https://doi.org/10.1016/j.ifacol.2023.10.1621)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

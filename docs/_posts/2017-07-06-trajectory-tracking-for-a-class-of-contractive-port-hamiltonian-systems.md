@@ -5,11 +5,11 @@ date: 2017-07-06 00:00:00 +0100
 permalink: trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems
 year: 2017
 authors: Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Abolfazl Yaghmaei](authors/abolfazl-yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad-javad-yazdanpanah)
+[Abolfazl Yaghmaei](authors/abolfazl_yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad_javad_yazdanpanah)
  
 ## Citation
 - **Journal:** Automatica

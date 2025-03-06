@@ -5,12 +5,17 @@ date: 2024-10-31 00:00:00 +0100
 permalink: structure-preserving-discretization-and-model-order-reduction-of-boundary-controlled-1d-port-hamiltonian-systems
 year: 2024
 authors: Jesus-Pablo Toledo-Zucco, Denis Matignon, Charles Poussot-Vassal, Yann Le Gorrec
-category: journal-article
-tag: Distributed port-Hamiltonian systems; Finite element method; Loewner framework; Structure-preserving discretization methods
+category:
+  - articles
+tags:
+  - distributed port-hamiltonian systems
+  - finite element method
+  - loewner framework
+  - structure-preserving discretization methods
 ---
  
 ## Authors
-[Jesus-Pablo Toledo-Zucco](authors/jesus-pablo-toledo-zucco), [Denis Matignon](authors/denis-matignon), [Charles Poussot-Vassal](authors/charles-poussot-vassal), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Jesus-Pablo Toledo-Zucco](authors/jesus_pablo_toledo_zucco), [Denis Matignon](authors/denis_matignon), [Charles Poussot-Vassal](authors/charles_poussot_vassal), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper presents a systematic methodology for the discretization and reduction of a class of one-dimensional Partial Differential Equations (PDEs) with inputs and outputs collocated at the spatial boundaries. The class of system that we consider is known as Boundary-Controlled Port-Hamiltonian Systems (BC-PHSs) and covers a wide class of Hyperbolic PDEs with a large type of boundary inputs and outputs. This is, for instance, the case of waves and beams with Neumann, Dirichlet, or mixed boundary conditions. Based on a Partitioned Finite Element Method (PFEM), we develop a numerical scheme for the structure-preserving spatial discretization for the class of one-dimensional BC-PHSs. We show that if the initial PDE is passive (or Impedance Energy Preserving), the discretized model also is. In addition and since the discretized model or Full Order Model (FOM) can be of large dimension, we recall the standard Loewner framework for the Model Order Reduction (MOR) using frequency domain interpolation. We recall the main steps to produce a Reduced Order Model (ROM) that approaches the FOM in a given range of frequencies. We summarize the steps to follow in order to obtain a ROM that preserves the passive structure as well. Finally, we provide a constructive way to build a projector that allows to recover the physical meaning of the state variables from the ROM to the FOM. We use the one-dimensional wave equation and the Timoshenko beam as examples to show the versatility of the proposed approach.

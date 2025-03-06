@@ -5,12 +5,18 @@ date: 2021-07-24 00:00:00 +0100
 permalink: a-perturbed-port-hamiltonian-approach-for-the-stabilization-of-homogeneous-reaction-systems-via-the-control-of-vessel-extents
 year: 2021
 authors: T. Sang Nguyen, C.K. Tan, N. Ha Hoang, M.A. Hussain, D. Bonvin
-category: journal-article
-tag: Chemical reaction; Vessel extents; Disturbance compensation; Port-Hamiltonian formulation; Tracking-error passivity-based control
+category:
+  - articles
+tags:
+  - chemical reaction
+  - vessel extents
+  - disturbance compensation
+  - port-hamiltonian formulation
+  - tracking-error passivity-based control
 ---
  
 ## Authors
-[T. Sang Nguyen](authors/thanh-sang-nguyen), [C.K. Tan](authors/chee-keong-tan), [N. Ha Hoang](authors/ngoc-ha-hoang), [M.A. Hussain](authors/mohd-azlan-hussain), [D. Bonvin](authors/d-bonvin)
+[T. Sang Nguyen](authors/thanh_sang_nguyen), [C.K. Tan](authors/chee_keong_tan), [N. Ha Hoang](authors/ngoc_ha_hoang), [M.A. Hussain](authors/mohd_azlan_hussain), [D. Bonvin](authors/d_bonvin)
  
 ## Abstract
 The paper proposes a tracking-error passivity-based control scheme for the asymptotic stabilization of homogeneous reaction systems. The approach uses the concept of vessel extents in the Port-Hamiltonian (PH) framework. Concretely, the extent-based representation that is obtained by linear time-invariant transformation of the reaction model is expressed as a perturbed PH system, whereby the reaction rates constitute unmatched time-varying disturbances. Two scenarios are considered. The first one assumes that the molar numbers of all species and the reaction temperature are measured and, furthermore, the kinetic model is known, while the second scenario relaxes these assumptions and requires only the measurements of a subset of the molar numbers and of the reactor temperature, but no knowledge of reaction kinetics. For the first scenario, the passivity-based method is used to compensate the disturbances, while preserving the PH structure of the error system via simple matrix factorization of the disturbances. For the second scenario, a constructive procedure is proposed to complete the space of vessel extents with the aim of computing an appropriate damping injection for the closed-loop system. It is shown that the proposed strategies guarantee that the system trajectories converge towards the desired setpoints without the need of state observation. A reaction system exhibiting non-minimum phase behavior is used to illustrate the theoretical developments. The closed-loop performance is discussed and compared to that of a PI controller.

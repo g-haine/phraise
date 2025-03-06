@@ -2,14 +2,14 @@
 layout: post
 title: "PORT-CONTROLLED HAMILTONIAN SYSTEMS: MODELLING ORIGINS AND SYSTEMTHEORETIC PROPERTIES"
 date: 2014-06-29 00:00:00 +0100
-permalink: port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties
+permalink: port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-93
 year: 1993
 authors: B.M. Maschke, A.J. van der Schaft
-category: book-chapter
+category: chapters
 ---
  
 ## Authors
-[B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[B.M. Maschke](authors/bernhard_maschke), [A.J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 Keywords: Network dynamics, general Poisson structures, gyrators, Hamiltonian equations, observation space, minimal realizations

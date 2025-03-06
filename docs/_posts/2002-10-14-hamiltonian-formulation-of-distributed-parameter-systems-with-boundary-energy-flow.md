@@ -5,12 +5,19 @@ date: 2002-10-14 00:00:00 +0100
 permalink: hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow
 year: 2002
 authors: A.J. van der Schaft, B.M. Maschke
-category: journal-article
-tag: Distributed-parameter systems; Hamiltonian systems; Boundary variables; Dirac structures; Stokes’ theorem; Conservation laws
+category:
+  - articles
+tags:
+  - distributed-parameter systems
+  - hamiltonian systems
+  - boundary variables
+  - dirac structures
+  - stokes’ theorem
+  - conservation laws
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft), [B.M. Maschke](authors/bernhard-maschke)
+[A.J. van der Schaft](authors/arjan_van_der_schaft), [B.M. Maschke](authors/bernhard_maschke)
  
 ## Abstract
 A Hamiltonian formulation of classes of distributed-parameter systems is presented, which incorporates the energy flow through the boundary of the spatial domain of the system, and which allows to represent the system as a boundary control Hamiltonian system. The system is Hamiltonian with respect to an infinite-dimensional Dirac structure associated with the exterior derivative and based on Stokes’ theorem. The theory is applied to the telegraph equations for an ideal transmission line, Maxwell’s equations on a bounded domain with non-zero Poynting vector at its boundary, and a vibrating string with traction forces at its ends. Furthermore, the framework is extended to cover Euler’s equations for an ideal fluid on a domain with permeable boundary. Finally, some properties of the Stokes–Dirac structure are investigated, including the analysis of conservation laws.

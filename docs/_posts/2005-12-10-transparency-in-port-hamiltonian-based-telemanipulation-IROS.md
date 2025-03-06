@@ -2,14 +2,14 @@
 layout: post
 title: "Transparency in port-Hamiltonian based telemanipulation"
 date: 2005-12-10 00:00:00 +0100
-permalink: transparency-in-port-hamiltonian-based-telemanipulation
+permalink: transparency-in-port-hamiltonian-based-telemanipulation-IROS
 year: 2005
 authors: C. Secchi, S. Stramigioli, C. Fantuzzi
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[C. Secchi](authors/cristian-secchi), [S. Stramigioli](authors/stefano-stramigioli), [C. Fantuzzi](authors/cesare-fantuzzi)
+[C. Secchi](authors/cristian_secchi), [S. Stramigioli](authors/stefano_stramigioli), [C. Fantuzzi](authors/cesare_fantuzzi)
  
 ## Citation
 - **Journal:** 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems

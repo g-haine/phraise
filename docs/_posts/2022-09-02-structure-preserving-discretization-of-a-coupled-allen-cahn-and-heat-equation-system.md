@@ -5,12 +5,19 @@ date: 2022-09-02 00:00:00 +0100
 permalink: structure-preserving-discretization-of-a-coupled-allen-cahn-and-heat-equation-system
 year: 2022
 authors: Antoine Bendimerad-Hohl, Ghislain Haine, Denis Matignon, Bernhard Maschke
-category: journal-article
-tag: port-Hamiltonian systems; Partitioned Finite Element Method; Phase Field; Diffuse Interface; Solidification process; Entropy
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - partitioned finite element method
+  - phase field
+  - diffuse interface
+  - solidification process
+  - entropy
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon), [Bernhard Maschke](authors/bernhard-maschke)
+[Antoine Bendimerad-Hohl](authors/antoine_bendimerad-Hohl), [Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 Eutectic freeze crystallisation is a promising way of purifying water for it may require less energy than other methods. In order to simulate such a process, phase field models such as Allen-Cahn and Cahn-Hilliard can be used. In this paper, a port-Hamiltonian formulation of the Allen-Cahn equations is used and coupled to heat conduction, which allows for a thermodynamically consistent system to be written with the help of the entropy functional. In a second part, the Partitioned Finite Element Method, a structure-preserving spatial discretization method, is applied to the Allen-Cahn equation; it gives rise to an exact free energy balance at the discrete level. Finally some numerical results are presented.
@@ -26,7 +33,7 @@ port-Hamiltonian systems; Partitioned Finite Element Method; Phase Field; Diffus
 - **Pages:** 99--104
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.08.037](https://doi.org/10.1016/j.ifacol.2022.08.037)
-- **Note:** 4th IFAC Workshop on Thermodynamics Foundations of Mathematical Systems Theory TFMST 2022- Montreal, Canada, 25–27 July 2022
+- **Event:** 4th IFAC Workshop on Thermodynamics Foundations of Mathematical Systems Theory TFMST 2022- Montreal, Canada, 25–27 July 2022
  
 ## BibTeX
 {% highlight bibtex %}

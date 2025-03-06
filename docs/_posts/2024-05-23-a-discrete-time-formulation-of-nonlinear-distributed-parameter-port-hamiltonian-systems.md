@@ -5,11 +5,11 @@ date: 2024-05-23 00:00:00 +0100
 permalink: a-discrete-time-formulation-of-nonlinear-distributed-parameter-port-hamiltonian-systems
 year: 2024
 authors: Alessandro Macchelli
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 This letter introduces a new framework of nonlinear, discrete-time, boundary control systems (BCSs) in the port-Hamiltonian form. The contribution is twofold. We start with a discrete-time approximation of a nonlinear port-Hamiltonian BCS, i.e., a dynamical system modelled by a nonlinear partial differential equation with boundary actuation and sensing. The most important feature is that the discretisation is performed in time only so that the “distributed nature” of the state is preserved. By approximating the gradient of the Hamiltonian density with its discrete gradient, the obtained sampled dynamics inherit the passivity of the original one. Besides, we prove that, under mild conditions, it is well-posed, i.e., the “next” state always exists. The second contribution deals with control design. More precisely, we have determined sufficient conditions for the plant dynamics and a static output feedback gain to make the closed-loop system asymptotically stable.

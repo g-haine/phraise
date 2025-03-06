@@ -5,12 +5,20 @@ date: 2024-11-05 00:00:00 +0100
 permalink: exergetic-port-hamiltonian-systems-for-multibody-dynamics
 year: 2024
 authors: Markus Lohmayer, Giuseppe Capobianco, Sigrid Leyendecker
-category: journal-article
-tag: Compositionality; Modeling language; Multibody systems; Multiphysics; Rigid body dynamics; Thermodynamic consistency; Variational principle
+category:
+  - articles
+tags:
+  - compositionality
+  - modeling language
+  - multibody systems
+  - multiphysics
+  - rigid body dynamics
+  - thermodynamic consistency
+  - variational principle
 ---
  
 ## Authors
-[Markus Lohmayer](authors/markus-lohmayer), [Giuseppe Capobianco](authors/giuseppe-capobianco), [Sigrid Leyendecker](authors/sigrid-leyendecker)
+[Markus Lohmayer](authors/markus_lohmayer), [Giuseppe Capobianco](authors/giuseppe_capobianco), [Sigrid Leyendecker](authors/sigrid_leyendecker)
  
 ## Abstract
 Multibody dynamics simulation plays an important role in various fields, including mechanical engineering, robotics, and biomechanics. Setting up computational models however becomes increasingly challenging as systems grow in size and complexity. Especially the consistent combination of models across different physical domains still requires significant effort. This motivates the study of formal languages that enable a compositional approach to modeling multiphysical systems with basic guarantees. The paper shows how multibody systems, or more precisely assemblies of rigid bodies connected by lower kinematic pairs, can be described as Exergetic Port-Hamiltonian Systems (EPHS). The EPHS modeling language features a straightforward graphical syntax for expressing the energy-based interconnection of hierarchically nested subsystems. This reduces cognitive load and facilitates clearer communication among experts, nonexperts, and computational tools. Hierarchical nesting of systems enables abstraction of lower-level details and promotes the reuse of models at different levels of complexity. At the lowest level, there are three basic kinds of systems, representing energy storage and reversible/irreversible energy exchange. The structured approach guarantees fundamental properties of macroscopic systems, such as conservation of energy and nonnegative entropy production. In combination with the compositional syntax, this makes building and modifying models simpler and less error-prone.

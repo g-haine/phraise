@@ -5,12 +5,18 @@ date: 2021-11-19 00:00:00 +0100
 permalink: minimizing-the-energy-supply-of-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2021
 authors: Friedrich Philipp, Manuel Schaller, Timm Faulwasser, Bernhard Maschke, Karl Worthmann
-category: journal-article
-tag: Optimal control; port-Hamiltonian systems; turnpike properties; dissipativity; infinite-dimensional systems
+category:
+  - proceedings
+tags:
+  - optimal control
+  - port-hamiltonian systems
+  - turnpike properties
+  - dissipativity
+  - infinite-dimensional systems
 ---
  
 ## Authors
-[Friedrich Philipp](authors/friedrich-m-philipp), [Manuel Schaller](authors/manuel-schaller), [Timm Faulwasser](authors/timm-faulwasser), [Bernhard Maschke](authors/bernhard-maschke), [Karl Worthmann](authors/karl-worthmann)
+[Friedrich Philipp](authors/friedrich_m_philipp), [Manuel Schaller](authors/manuel_schaller), [Timm Faulwasser](authors/timm_faulwasser), [Bernhard Maschke](authors/bernhard_maschke), [Karl Worthmann](authors/karl_worthmann)
  
 ## Abstract
 We consider the problem of minimizing the supplied energy of infinite-dimensional linear port-Hamiltonian systems and prove that optimal trajectories exhibit the turnpike phenomenon towards certain subspaces induced by the dissipation of the dynamics. The theoretical foundations are illustrated by means of numerical examples concerning a Timoshenko beam and the heat equation.
@@ -26,7 +32,7 @@ Optimal control; port-Hamiltonian systems; turnpike properties; dissipativity; i
 - **Pages:** 155--160
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.071](https://doi.org/10.1016/j.ifacol.2021.11.071)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

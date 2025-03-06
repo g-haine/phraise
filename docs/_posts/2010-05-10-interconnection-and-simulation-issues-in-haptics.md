@@ -5,11 +5,11 @@ date: 2010-05-10 00:00:00 +0100
 permalink: interconnection-and-simulation-issues-in-haptics
 year: 2010
 authors: Gianni Borghesan, Alessandro Macchelli, Claudio Melchiorri
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Gianni Borghesan](authors/gianni-borghesan), [Alessandro Macchelli](authors/alessandro-macchelli), [Claudio Melchiorri](authors/claudio-melchiorri)
+[Gianni Borghesan](authors/gianni_borghesan), [Alessandro Macchelli](authors/alessandro_macchelli), [Claudio Melchiorri](authors/claudio_melchiorri)
  
 ## Abstract
 In this paper, three results are presented concerning certain computational/control aspects, crucial for the proper behavior of haptic devices. The first one is a novel technique for a real-time simulation of virtual environments, which is able to preserve the energetic behavior of the simulated physical system and to avoid undesired effects related to unstable behaviors of the haptic device. The proposed real-time integration method is simpler, in terms of computational complexity, than similar solutions known in the literature, and provides an additional insight when “faulty conditions” are met. Second, a new method for the energy-consistent interconnection of discrete-time physical systems, implemented by algorithms running at different frequencies (i.e., multirate systems), is illustrated. Multirate systems are very common in haptics, since the frequency, at which the control law of the haptic interface is executed, is usually higher than the frequency of the simulation of the virtual environment. Finally, the third result presented in this paper concerns the problem of energy generation due to the time discretization in the acquisition of the haptic interface position. Similarly, to the previous case, a technique for an energy-consistent analog/digital conversion is proposed. All these methodologies have been validated, both by simulations and experiments.

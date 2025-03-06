@@ -5,12 +5,23 @@ date: 2024-10-28 00:00:00 +0100
 permalink: optimal-control-of-port-hamiltonian-systems-energy-entropy-and-exergy
 year: 2024
 authors: Friedrich M. Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser, Bernhard Maschke
-category: journal-article
-tag: Energy; Entropy; Exergy; Port-Hamiltonian systems; Optimal control; Turnpike property; Manifold turnpike; Thermodynamics; Dissipativity; Passivity
+category:
+  - articles
+tags:
+  - energy
+  - entropy
+  - exergy
+  - port-hamiltonian systems
+  - optimal control
+  - turnpike property
+  - manifold turnpike
+  - thermodynamics
+  - dissipativity
+  - passivity
 ---
  
 ## Authors
-[Friedrich M. Philipp](authors/friedrich-m-philipp), [Manuel Schaller](authors/manuel-schaller), [Karl Worthmann](authors/karl-worthmann), [Timm Faulwasser](authors/timm-faulwasser), [Bernhard Maschke](authors/bernhard-maschke)
+[Friedrich M. Philipp](authors/friedrich_m_philipp), [Manuel Schaller](authors/manuel_schaller), [Karl Worthmann](authors/karl_worthmann), [Timm Faulwasser](authors/timm_faulwasser), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 We consider irreversible and coupled reversible–irreversible nonlinear port-Hamiltonian systems and the respective sets of thermodynamic equilibria. In particular, we are concerned with optimal state transitions and output stabilization on finite-time horizons. We analyze a class of optimal control problems, where the performance functional can be interpreted as a linear combination of energy supply, entropy generation, or exergy supply. Our results establish the integral turnpike property towards the set of thermodynamic equilibria providing a rigorous connection of optimal system trajectories to optimal steady states. Throughout the paper, we illustrate our findings by means of two examples: a network of heat exchangers and a gas-piston system.

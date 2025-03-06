@@ -5,12 +5,18 @@ date: 2013-10-10 00:00:00 +0100
 permalink: coupling-between-hyperbolic-and-diffusive-systems-a-port-hamiltonian-formulation
 year: 2013
 authors: Yann Le Gorrec, Denis Matignon
-category: journal-article
-tag: Energy storage; Port-Hamiltonian systems; Partial differential equations; Fractional derivatives; Diffusive representation
+category:
+  - proceedings
+tags:
+  - energy storage
+  - port-hamiltonian systems
+  - partial differential equations
+  - fractional derivatives
+  - diffusive representation
 ---
  
 ## Authors
-[Yann Le Gorrec](authors/yann-le-gorrec), [Denis Matignon](authors/denis-matignon)
+[Yann Le Gorrec](authors/yann_le_gorrec), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 The aim of this paper is to study a conservative wave equation coupled to a diffusion equation. This coupled system naturally arises in musical acoustics when viscous and thermal effects at the wall of the duct of a wind instrument are taken into account. The resulting equation, known as the Webster–Lokshin model, has variable coefficients in space, and a fractional derivative in time. This equation can be recast into the port Hamiltonian framework by using the diffusive representation of the fractional derivative in time and a multiscale state space representation. The port-Hamiltonian formalism proves adequate to reformulate this coupled system, and could enable another well-posedness analysis, using classical results from port-Hamiltonian systems theory.
@@ -26,7 +32,7 @@ Energy storage; Port-Hamiltonian systems; Partial differential equations; Fracti
 - **Pages:** 505--512
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2013.09.003](https://doi.org/10.1016/j.ejcon.2013.09.003)
-- **Note:** Lagrangian and Hamiltonian Methods for Modelling and Control
+- **Event:** Lagrangian and Hamiltonian Methods for Modelling and Control
  
 ## BibTeX
 {% highlight bibtex %}

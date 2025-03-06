@@ -5,12 +5,18 @@ date: 2023-03-24 00:00:00 +0100
 permalink: fixed-order-h-infinity-controller-design-for-port-hamiltonian-systems
 year: 2023
 authors: Paul Schwerdtner, Matthias Voigt
-category: journal-article
-tag: Port-Hamiltonian systems; Large-scale systems; Robust control; H-infinity control; Fixed-order controllers
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - large-scale systems
+  - robust control
+  - h-infinity control
+  - fixed-order controllers
 ---
  
 ## Authors
-[Paul Schwerdtner](authors/paul-schwerdtner), [Matthias Voigt](authors/matthias-voigt)
+[Paul Schwerdtner](authors/paul_schwerdtner), [Matthias Voigt](authors/matthias_voigt)
  
 ## Abstract
 We present a new fixed-order H-infinity controller design method for potentially large-scale port-Hamiltonian (pH) plants. Our method computes controllers that are also pH (and thus passive) such that the resulting closed-loop systems is again passive, which ensures closed-loop stability simply from the structure of the plant and controller matrices. In this way, we can avoid computationally expensive eigenvalue computations that would otherwise be necessary. In combination with a sample-based objective function which allows us to avoid multiple evaluations of the H-infinity norm (which is typically the main computational burden in fixed-order H-infinity controller synthesis), this makes our method well-suited for plants with a high state–space dimension. In our numerical experiments, we show that applying a passivity-enforcing post-processing step after using well-established H-infinity synthesis methods often leads to a deteriorated H-infinity performance. By contrast, our method computes pH controllers, that are automatically passive and simultaneously aim to minimize the H-infinity norm of the closed-loop transfer function. Moreover, our experiments show that for large-scale plants, our method is significantly faster than the well-established fixed-order H-infinity controller synthesis methods.

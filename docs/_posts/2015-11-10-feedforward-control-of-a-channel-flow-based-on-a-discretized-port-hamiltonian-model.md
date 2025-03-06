@@ -5,12 +5,19 @@ date: 2015-11-10 00:00:00 +0100
 permalink: feedforward-control-of-a-channel-flow-based-on-a-discretized-port-hamiltonian-model
 year: 2015
 authors: Paul Kotyczka, Antonio Blancato
-category: journal-article
-tag: Distributed-parameter systems; conservation laws; port-Hamiltonian systems; discretization; feedforward control; stable dynamic inversion
+category:
+  - proceedings
+tags:
+  - distributed-parameter systems
+  - conservation laws
+  - port-hamiltonian systems
+  - discretization
+  - feedforward control
+  - stable dynamic inversion
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul-kotyczka), [Antonio Blancato](authors/antonio-blancato)
+[Paul Kotyczka](authors/paul_kotyczka), [Antonio Blancato](authors/antonio_blancato)
  
 ## Abstract
 Systems of conservation laws can be modeled (including dissipation) in an elegant, physically insightful way within the port-Hamiltonian framework. A structure-preserving discretization renders the partial differential equations ordinary ones. In this paper, we show how the structure of the lumped-parameter state representation for two conservation laws on a one-dimensional spatial domain can be exploited to easily formulate different (inverse) models. Based thereon, a simple modular procedure for feedforward controller design is developed, using known results from the dynamic inversion of nonminimum-phase systems. The example of the shallow water equations serves to illustrate the design steps and to present simulation results.
@@ -26,7 +33,7 @@ Distributed-parameter systems; conservation laws; port-Hamiltonian systems; disc
 - **Pages:** 194--199
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.238](https://doi.org/10.1016/j.ifacol.2015.10.238)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,17 @@ date: 2021-11-19 00:00:00 +0100
 permalink: exterior-and-vector-calculus-views-of-incompressible-navier-stokes-port-hamiltonian-models
 year: 2021
 authors: Ramy Rashad, Federico Califano, Andrea Brugnoli, Frederic P. Schuller, Stefano Stramigioli
-category: journal-article
-tag: port-Hamiltonian; Navier-Stokes; exterior calculus; vector calculus
+category:
+  - proceedings
+tags:
+  - port-hamiltonian
+  - navier-stokes
+  - exterior calculus
+  - vector calculus
 ---
  
 ## Authors
-[Ramy Rashad](authors/ramy-rashad), [Federico Califano](authors/federico-califano), [Andrea Brugnoli](authors/andrea-brugnoli), [Frederic P. Schuller](authors/frederic-p-schuller), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Ramy Rashad](authors/ramy_rashad), [Federico Califano](authors/federico_califano), [Andrea Brugnoli](authors/andrea_brugnoli), [Frederic P. Schuller](authors/frederic_p_schuller), [Stefano Stramigioli](authors/stefano_stramigioli)
  
 ## Abstract
 In this paper we address the modeling of incompressible Navier-Stokes equations in the port-Hamiltonian framework. Such model not only allows describing the energy dissipation due to viscous effects but also incorporates the non-zero energy exchange through the boundary of the spatial domain for generic boundary conditions. We present in this work the coordinate-free representations of this port-Hamiltonian model using both exterior calculus and vector calculus as well as their corresponding coordinate-based descriptions.
@@ -26,7 +31,7 @@ port-Hamiltonian; Navier-Stokes; exterior calculus; vector calculus
 - **Pages:** 173--179
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.074](https://doi.org/10.1016/j.ifacol.2021.11.074)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

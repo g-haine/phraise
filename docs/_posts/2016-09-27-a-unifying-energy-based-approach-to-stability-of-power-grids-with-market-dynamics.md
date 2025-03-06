@@ -5,11 +5,11 @@ date: 2016-09-27 00:00:00 +0100
 permalink: a-unifying-energy-based-approach-to-stability-of-power-grids-with-market-dynamics
 year: 2017
 authors: Tjerk Stegink, Claudio De Persis, Arjan van der Schaft
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Tjerk Stegink](authors/tjerk-w-stegink), [Claudio De Persis](authors/claudio-de-persis), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Tjerk Stegink](authors/tjerk_w_stegink), [Claudio De Persis](authors/claudio_de_persis), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 In this paper, a unifying energy-based approach is provided to the modeling and stability analysis of power systems coupled with market dynamics. We consider a standard model of the power network with a third-order model for the synchronous generators involving voltage dynamics. By applying the primal-dual gradient method to a social welfare optimization, a distributed dynamic pricing algorithm is obtained, which can be naturally formulated in port-Hamiltonian form. By interconnection with the physical model a closed-loop port-Hamiltonian system is obtained, whose properties are exploited to prove asymptotic stability to the set of optimal points. This result is extended to the case that also general nodal power constraints are included into the social welfare problem. Additionally, the case of line congestion and power transmission costs in acyclic networks is covered. Finally, a dynamic pricing algorithm is proposed that does not require knowledge about the power supply and demand.

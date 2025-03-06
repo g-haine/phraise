@@ -5,12 +5,17 @@ date: 2022-08-06 00:00:00 +0100
 permalink: a-combined-control-by-interconnection-model-predictive-control-design-for-constrained-port-hamiltonian-systems
 year: 2022
 authors: T.H. Pham, N.M.T. Vu, I. Prodan, L. Lefèvre
-category: journal-article
-tag: Constrained Port-Hamiltonian systems; Control by Interconnection; Model Predictive Control; Primal–dual gradient method
+category:
+  - articles
+tags:
+  - constrained port-hamiltonian systems
+  - control by interconnection
+  - model predictive control
+  - primal–dual gradient method
 ---
  
 ## Authors
-[T.H. Pham](authors/thanh-hung-pham), [N.M.T. Vu](authors/ngoc-minh-trang-vu), [I. Prodan](authors/ionela-prodan), [L. Lefèvre](authors/laurent-lefevre)
+[T.H. Pham](authors/thanh_hung_pham), [N.M.T. Vu](authors/ngoc_minh_trang_vu), [I. Prodan](authors/ionela_prodan), [L. Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 This paper proposes a Control by Interconnection design, for a class of constrained Port-Hamiltonian systems, which is based on an associated Model Predictive Control optimization problem. This associated optimization problem allows to consider both state and input constraints simultaneously. Based on the first order Karush–Kuhn–Tucker optimality condition, the primal–dual gradient method is then used to build a passive feedback controller, derived from the MPC-induced optimization problem. The resulting passive controller is coupled with the original Port-Hamiltonian system through a power-preserving interconnection, in order to guarantee both the closed-loop stability and constraints satisfaction, but not the optimality anymore. Comments on parameters tuning for the proposed control design, together with validations of the approach through simulations first on a linear LC circuit, then on a nonlinear Permanent Magnet Synchronous Motor and comparisons with a classical MPC design, are provided to discuss the effectiveness of the approach.

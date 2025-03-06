@@ -5,12 +5,18 @@ date: 2012-02-11 00:00:00 +0100
 permalink: effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems
 year: 2012
 authors: Rostyslav V. Polyuga, Arjan J. van der Schaft
-category: journal-article
-tag: Port-Hamiltonian systems; Structure preserving model reduction; Dirac structure; Effort-constraint method; Flow-constraint method
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - structure preserving model reduction
+  - dirac structure
+  - effort-constraint method
+  - flow-constraint method
 ---
  
 ## Authors
-[Rostyslav V. Polyuga](authors/rostyslav-v-polyuga), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
+[Rostyslav V. Polyuga](authors/rostyslav_v_polyuga), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 The geometric formulation of general port-Hamiltonian systems is used in order to obtain two structure preserving reduction methods. The main idea is to construct a reduced-order Dirac structure corresponding to zero power flow in some of the energy-storage ports. This can be performed in two canonical ways, called the effort- and the flow-constraint methods. We show how the effort-constraint method can be regarded as a projection-based model reduction method. Both the effort- and flow-constraint reduction methods preserve the stability and passivity properties of the original system, as a consequence of preserving the port-Hamiltonian structure.

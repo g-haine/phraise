@@ -5,12 +5,19 @@ date: 2020-05-15 00:00:00 +0100
 permalink: a-review-of-structure-preserving-numerical-methods-for-engineering-applications
 year: 2020
 authors: Harsh Sharma, Mayuresh Patil, Craig Woolsey
-category: journal-article
-tag: Structure-preserving numerical methods; Engineering applications; Geometric numerical integration; Variational integrators; Energy–momentum integrators; Lie group methods
+category:
+  - articles
+tags:
+  - structure-preserving numerical methods
+  - engineering applications
+  - geometric numerical integration
+  - variational integrators
+  - energy–momentum integrators
+  - lie group methods
 ---
  
 ## Authors
-[Harsh Sharma](authors/harsh-sharma), [Mayuresh Patil](authors/mayuresh-patil), [Craig Woolsey](authors/craig-a-woolsey)
+[Harsh Sharma](authors/harsh_sharma), [Mayuresh Patil](authors/mayuresh_patil), [Craig Woolsey](authors/craig_a_woolsey)
  
 ## Abstract
 Accurate numerical simulation of dynamical systems is essential in applications ranging from particle physics to geophysical fluid flow to space hazard analysis. However, most traditional numerical methods do not account for the underlying geometric structure of the physical system, leading to simulation results that may suggest nonphysical behavior. The field of geometric numerical integration (GNI) is concerned with numerical methods that respect the fundamental physics of a problem by preserving the geometric properties of the governing differential equations. Research over the past two decades has produced GNI methods that are so accurate that they are now used for benchmarking purposes for long-time simulation of conservative dynamical systems. However, their utility for large-scale engineering problems is still an open question. This paper presents a review of structure-preserving numerical methods with focus on their engineering applications. The purpose of this paper is to provide an overview of different classes of GNI methods for mechanical systems while providing a survey of practical examples from numerical simulation of realistic engineering problems.

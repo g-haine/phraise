@@ -5,12 +5,20 @@ date: 2020-02-19 00:00:00 +0100
 permalink: infinite-dimensional-model-of-a-double-flexible-link-manipulator-the-port-hamiltonian-approach
 year: 2020
 authors: Andrea Mattioni, Yongxin Wu, Yann Le Gorrec
-category: journal-article
-tag: Flexible arms; Flexible robotics; Port-Hamiltonian systems; Distributed parameter systems; Boundary control systems; Discretization; Finite dimensional approximation
+category:
+  - articles
+tags:
+  - flexible arms
+  - flexible robotics
+  - port-hamiltonian systems
+  - distributed parameter systems
+  - boundary control systems
+  - discretization
+  - finite dimensional approximation
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea-mattioni), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Andrea Mattioni](authors/andrea_mattioni), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper proposes a modular and control oriented model of a double flexible-link manipulator that stems from the modelling of a spatial flexible robot. The model consists of the power preserving interconnection between two infinite dimensional systems describing the beam’s motion and deformation with a finite dimensional nonlinear system describing the dynamics of the actuated rotating joints. To derive the model, Timoshenko’s assumptions are made for the flexible beams. Using Hamilton’s principle, the dynamic equations of the system are derived and then written in the Port-Hamiltonian (PH) framework through a proper choice of the state variables. These so called energy variables allow to write the total energy as a quadratic form with respect to a state dependent energy matrix. The resulting model is shown to be a passive system, a convenient property for control design purposes.

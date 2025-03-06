@@ -5,12 +5,18 @@ date: 2017-10-19 00:00:00 +0100
 permalink: boundary-energy-shaping-control-of-an-ideal-compressible-isentropic-fluid-in-1-d
 year: 2017
 authors: Alessandro Macchelli, Yann Le Gorrec, Héctor Ramírez
-category: journal-article
-tag: distributed port-Hamiltonian systems; ideal compressible isentropic fluid; boundary control; energy-shaping control; stability of PDEs
+category:
+  - proceedings
+tags:
+  - distributed port-hamiltonian systems
+  - ideal compressible isentropic fluid
+  - boundary control
+  - energy-shaping control
+  - stability of pdes
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramírez](authors/hector-ramirez)
+[Alessandro Macchelli](authors/alessandro_macchelli), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramírez](authors/hector_ramirez)
  
 ## Abstract
 This paper illustrates a synthesis methodology of asymptotically stabilising, energy-based, boundary control laws for a large class of distributed port-Hamiltonian systems. The result is applied on a non-linear model of an ideal, compressible, isentropic fluid with one-dimensional spatial domain. The idea is to design at first a state feedback law able to perform the energy-shaping task, i.e. able to render the closed-loop system a port-Hamiltonian system with a new Hamiltonian with a minimum at the desired equilibrium. Then, under some assumptions on the existence of solutions and pre-compactness of trajectories, asymptotic stability is obtained via damping injection on the boundary. The result is a consequence of the La Salles Invariance Principle in infinite dimensions.
@@ -26,7 +32,7 @@ distributed port-Hamiltonian systems; ideal compressible isentropic fluid; bound
 - **Pages:** 5598--5603
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.1105](https://doi.org/10.1016/j.ifacol.2017.08.1105)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

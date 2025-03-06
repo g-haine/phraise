@@ -5,12 +5,18 @@ date: 2019-09-30 00:00:00 +0100
 permalink: pointwise-optimal-control-for-cancer-treatment-by-hyperthermia-with-thermal-wave-bioheat-transfer
 year: 2020
 authors: Ghasem Abbasi, Alaeddin Malek
-category: journal-article
-tag: Hyperthermia; Semigroups theory; Thermal wave bioheat equation; Pseudo-port Hamiltonian; Controllability
+category:
+  - articles
+tags:
+  - hyperthermia
+  - semigroups theory
+  - thermal wave bioheat equation
+  - pseudo-port hamiltonian
+  - controllability
 ---
  
 ## Authors
-[Ghasem Abbasi](authors/ghasem-abbasi), [Alaeddin Malek](authors/alaeddin-malek)
+[Ghasem Abbasi](authors/ghasem_abbasi), [Alaeddin Malek](authors/alaeddin_malek)
  
 ## Abstract
 In this paper, a novel scheme based on strongly continuous semigroup is proposed to find a pointwise optimal control function in a biological tissue. Here, mathematical model for hyperthermia therapy involves solution to the thermal wave equation as state while the control is given by the pointwise time dependent heat source. The target is the temperature at a given point within the tumor. Pointwise optimal control problem on and inside a tissue is solved subject to thermal wave model with Dirichlet and Rubin boundary conditions. The pointwise heating source induced by heating probe inserted at the tumor site as control at specific depth inside the biological body. Solutions for both thermal wave problem and its associated adjoint problem are proposed. Approximate controllability of the thermal wave problem is derived with the help of strongly continuous semigroups theory. We prove that the system is pseudo-port Hamiltonian. Pointwise time dependent optimal control problem is solved by using time discretization, conjugate gradient technique and strongly continuous semigroups theory. A set of numerical experiments concerning the design of optimal heating power strategy in cancer treatment by hyperthermia are presented.

@@ -5,12 +5,23 @@ date: 2020-06-18 00:00:00 +0100
 permalink: dirac-and-lagrange-algebraic-constraints-in-nonlinear-port-hamiltonian-systems
 year: 2020
 authors: Arjan van der Schaft, Bernhard Maschke
-category: journal-article
-tag: Differential-algebraic equations; Nonlinear control; Hamiltonian systems; Dirac structures; Lagrangian submanifolds; 34A09; 65L80; 53D12; 70B45; 93C10
+category:
+  - articles
+tags:
+  - differential-algebraic equations
+  - nonlinear control
+  - hamiltonian systems
+  - dirac structures
+  - lagrangian submanifolds
+  - 34a09
+  - 65l80
+  - 53d12
+  - 70b45
+  - 93c10
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
+[Arjan van der Schaft](authors/arjan_van_der_schaft), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 After recalling the definitions of standard port-Hamiltonian systems and their algebraic constraints, called here Dirac algebraic constraints, an extended class of port-Hamiltonian systems is introduced. This is based on replacing the Hamiltonian function by a general Lagrangian submanifold of the cotangent bundle of the state space manifold, motivated by developments in (Barbero-Linan et al., J. Geom. Mech. 11, 487–510, 2019 ) and extending the linear theory as developed in (van der Schaft and Maschke, Syst. Control Lett. 121, 31–37, 2018 ) and (Beattie et al., Math. Control Signals Syst. 30, 17, 2018 ). The resulting new type of algebraic constraints equations are called Lagrange algebraic constraints. It is shown how Dirac algebraic constraints can be converted into Lagrange algebraic constraints by the introduction of extra state variables, and, conversely, how Lagrange algebraic constraints can be converted into Dirac algebraic constraints by the use of Morse families.

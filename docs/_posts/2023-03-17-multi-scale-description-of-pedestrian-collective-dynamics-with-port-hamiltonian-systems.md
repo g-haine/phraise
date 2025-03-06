@@ -5,11 +5,11 @@ date: 2023-03-17 00:00:00 +0100
 permalink: multi-scale-description-of-pedestrian-collective-dynamics-with-port-hamiltonian-systems
 year: 2023
 authors: Antoine Tordeux, Claudia Totzeck
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Antoine Tordeux](authors/antoine-tordeux), [Claudia Totzeck](authors/claudia-totzeck)
+[Antoine Tordeux](authors/antoine_tordeux), [Claudia Totzeck](authors/claudia_totzeck)
  
 ## Abstract
 Port-Hamiltonian systems (PHS) theory is a recent but already well-established modelling approach for non-linear physical systems. Some studies have shown lately that PHS frameworks are relevant for modelling and control of swarm and multi-agent systems. We identify in this contribution a general class of microscopic force-based pedestrian models that can be formulated as a port-Hamiltonian system. The pedestrian PHS has linear structure and dissipation components. Non-linear effects come from isotropic pedestrian interactions. Simulation results on a torus with disordered initial states show that the port-Hamiltonian pedestrian model can exhibit different types of dynamics. They range from relaxed speed models with no interaction, dynamical billiards, or crystallization dynamics to realistic pedestrian collective behaviors, including lane and strip formation for counter and crossing flow. The port-Hamiltonian framework is a natural multiscale description of pedestrian dynamics as the Hamiltonian turns out to be a generic order parameter that allows us to identify specific behaviours of the dynamics from a macroscopic viewpoint. Particular cases even enable through energy balance to determine the Hamiltonian behavior without requiring the tedious computation of the microscopic dynamics. Using PHS theory, we systematically identify a critical threshold value for the Hamiltonian, which relies only on exogenous input and can be physically interpreted.

@@ -5,12 +5,18 @@ date: 2019-08-23 00:00:00 +0100
 permalink: modeling-and-control-of-an-ipmc-actuated-flexible-beam-under-the-port-hamiltonian-framework
 year: 2019
 authors: Yongxin Wu, François Lamoline, Joseph Winkin, Yann Le Gorrec
-category: journal-article
-tag: Port-Hamiltonian systems; Distributed control; LQG method; IPMC; Flexible beam
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - distributed control
+  - lqg method
+  - ipmc
+  - flexible beam
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin-wu), [François Lamoline](authors/francois-lamoline), [Joseph Winkin](authors/joseph-j-winkin), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Yongxin Wu](authors/yongxin_wu), [François Lamoline](authors/francois_lamoline), [Joseph Winkin](authors/joseph_j_winkin), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper deals with the modeling and control problem of an ionic polymer metal composites (IPMC) actuated flexible beam. The mechanical dynamic of the flexible beam and the electrical dynamic of the IPMC actuators have been taken into account in the modeling approach. Furthermore, in order to achieve the desired configuration of this IPMC actuated flexible beam, a control strategy is proposed based on the Linear quadratic Gaussian (LQG) control and damping injection. Finally, the proposed model is validated on a real experimental set-up. The effectiveness of the proposed control strategy is shown by the simulation results based on the real physical parameters of the experimental set-up.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; Distributed control; LQG method; IPMC; Flexible beam
 - **Pages:** 108--113
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.08.019](https://doi.org/10.1016/j.ifacol.2019.08.019)
-- **Note:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
+- **Event:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
  
 ## BibTeX
 {% highlight bibtex %}

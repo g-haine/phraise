@@ -5,12 +5,17 @@ date: 2019-12-20 00:00:00 +0100
 permalink: on-path-following-control-of-nonholonomic-port-hamiltonian-systems-via-generalized-canonical-transformations
 year: 2019
 authors: Ryotaro Shima, Yuki Okura, Kenji Fujimoto, Ichiro Maruta
-category: journal-article
-tag: Nonlinear control; path following; nonholonomic systems; mechanical systems
+category:
+  - proceedings
+tags:
+  - nonlinear control
+  - path following
+  - nonholonomic systems
+  - mechanical systems
 ---
  
 ## Authors
-[Ryotaro Shima](authors/ryotaro-shima), [Yuki Okura](authors/yuki-okura), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta)
+[Ryotaro Shima](authors/ryotaro_shima), [Yuki Okura](authors/yuki_okura), [Kenji Fujimoto](authors/kenji_fujimoto), [Ichiro Maruta](authors/ichiro_maruta)
  
 ## Abstract
 This paper proposes a constructive design method of a static state feedback law which makes a nonholonomic port-Hamiltonian system follow a desired path. A generalized canonical transformation connects two port-Hamiltonian systems through a pair of a feedback and a coordinate change. This paper clarifies how a generalized canonical transformation connects the plant nonholonomic port-Hamiltonian system with an error system. Stabilizing the path following error system allows one to derive a constructive path following control law for the nonholonomic port-Hamiltonian system. Finally, an example shows a concrete design procedure of the proposed method.
@@ -26,7 +31,7 @@ Nonlinear control; path following; nonholonomic systems; mechanical systems
 - **Pages:** 298--303
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.11.795](https://doi.org/10.1016/j.ifacol.2019.11.795)
-- **Note:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
+- **Event:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
  
 ## BibTeX
 {% highlight bibtex %}

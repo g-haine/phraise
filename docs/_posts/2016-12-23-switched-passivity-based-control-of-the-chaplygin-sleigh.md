@@ -5,12 +5,18 @@ date: 2016-12-23 00:00:00 +0100
 permalink: switched-passivity-based-control-of-the-chaplygin-sleigh
 year: 2016
 authors: Joel Ferguson, Alejandro Donaire, Richard H. Middleton
-category: journal-article
-tag: Constraints; Nonholonomic; Passivity Based Control; Path planning; Port-Hamiltonian
+category:
+  - proceedings
+tags:
+  - constraints
+  - nonholonomic
+  - passivity based control
+  - path planning
+  - port-hamiltonian
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire), [Richard H. Middleton](authors/richard-h-middleton)
+[Joel Ferguson](authors/joel_ferguson), [Alejandro Donaire](authors/alejandro_donaire), [Richard H. Middleton](authors/richard_h_middleton)
  
 ## Abstract
 In this paper, a switched controller for the Chaplygin Sleigh system based on passivity and energy shaping is presented. The Chaplygin sleigh cannot be asymptotically stabilised with a smooth control law, since Brockett’s necessary conditions for smooth stabilisation is not satisfied. To asymptotically stabilise the origin, two potential energy shaping control laws are developed that render the system asymptotically stable to two equilibrium manifolds, which intersect at the origin. A switching strategy between the energy shaping controllers is derived that ensures the system converges to the intersection of the equilibrium manifolds.
@@ -26,7 +32,7 @@ Constraints; Nonholonomic; Passivity Based Control; Path planning; Port-Hamilton
 - **Pages:** 1012--1017
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.10.300](https://doi.org/10.1016/j.ifacol.2016.10.300)
-- **Note:** 10th IFAC Symposium on Nonlinear Control Systems NOLCOS 2016- Monterey, California, USA, 23—25 August 2016
+- **Event:** 10th IFAC Symposium on Nonlinear Control Systems NOLCOS 2016- Monterey, California, USA, 23—25 August 2016
  
 ## BibTeX
 {% highlight bibtex %}

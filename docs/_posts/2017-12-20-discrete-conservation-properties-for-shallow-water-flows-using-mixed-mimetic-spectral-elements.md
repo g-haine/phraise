@@ -5,12 +5,18 @@ date: 2017-12-20 00:00:00 +0100
 permalink: discrete-conservation-properties-for-shallow-water-flows-using-mixed-mimetic-spectral-elements
 year: 2018
 authors: D. Lee, A. Palha, M. Gerritsma
-category: journal-article
-tag: Mimetic; Spectral elements; High order; Shallow water; Energy and potential enstrophy conservation
+category:
+  - articles
+tags:
+  - mimetic
+  - spectral elements
+  - high order
+  - shallow water
+  - energy and potential enstrophy conservation
 ---
  
 ## Authors
-[D. Lee](authors/d-lee), [A. Palha](authors/a-palha), [M. Gerritsma](authors/m-gerritsma)
+[D. Lee](authors/d_lee), [A. Palha](authors/a_palha), [M. Gerritsma](authors/m_gerritsma)
  
 ## Abstract
 A mixed mimetic spectral element method is applied to solve the rotating shallow water equations. The mixed method uses the recently developed spectral element histopolation functions, which exactly satisfy the fundamental theorem of calculus with respect to the standard Lagrange basis functions in one dimension. These are used to construct tensor product solution spaces which satisfy the generalized Stokes theorem, as well as the annihilation of the gradient operator by the curl and the curl by the divergence. This allows for the exact conservation of first order moments (mass, vorticity), as well as higher moments (energy, potential enstrophy), subject to the truncation error of the time stepping scheme. The continuity equation is solved in the strong form, such that mass conservation holds point wise, while the momentum equation is solved in the weak form such that vorticity is globally conserved. While mass, vorticity and energy conservation hold for any quadrature rule, potential enstrophy conservation is dependent on exact spatial integration. The method possesses a weak form statement of geostrophic balance due to the compatible nature of the solution spaces and arbitrarily high order spatial error convergence.

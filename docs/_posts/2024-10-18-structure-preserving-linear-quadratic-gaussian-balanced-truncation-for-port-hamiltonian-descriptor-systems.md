@@ -5,12 +5,18 @@ date: 2024-10-18 00:00:00 +0100
 permalink: structure-preserving-linear-quadratic-gaussian-balanced-truncation-for-port-hamiltonian-descriptor-systems
 year: 2025
 authors: Tobias Breiten, Philipp Schulze
-category: journal-article
-tag: Port-Hamiltonian systems; Model order reduction; LQG control design; Error bounds; Descriptor systems
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - model order reduction
+  - lqg control design
+  - error bounds
+  - descriptor systems
 ---
  
 ## Authors
-[Tobias Breiten](authors/tobias-breiten), [Philipp Schulze](authors/philipp-schulze)
+[Tobias Breiten](authors/tobias_breiten), [Philipp Schulze](authors/philipp_schulze)
  
 ## Abstract
 We present a new balancing-based structure-preserving model reduction technique for linear port-Hamiltonian descriptor systems. The proposed method relies on a modification of a set of two dual generalized algebraic Riccati equations that arise in the context of linear quadratic Gaussian balanced truncation for differential algebraic systems. We derive an a priori error bound with respect to a right coprime factorization of the underlying transfer function thereby allowing for an estimate with respect to the gap metric. We further theoretically and numerically analyze the influence of the Hamiltonian and a change thereof, respectively. With regard to this change of the Hamiltonian, we provide a novel procedure that is based on a recently introduced Kalman–Yakubovich–Popov inequality for descriptor systems. Numerical examples demonstrate how the quality of reduced-order models can significantly be improved by first computing an extremal solution to this inequality.

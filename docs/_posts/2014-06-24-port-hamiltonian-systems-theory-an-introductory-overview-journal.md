@@ -2,14 +2,14 @@
 layout: post
 title: "Port-Hamiltonian Systems Theory: An Introductory Overview"
 date: 2014-06-24 00:00:00 +0100
-permalink: port-hamiltonian-systems-theory-an-introductory-overview
+permalink: port-hamiltonian-systems-theory-an-introductory-overview-journal
 year: 2014
 authors: Arjan van der Schaft, Dimitri Jeltsema
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
+[Arjan van der Schaft](authors/arjan_van_der_schaft), [Dimitri Jeltsema](authors/dimitri_jeltsema)
  
 ## Abstract
 An up-to-date survey of the theory of port-Hamiltonian systems is given, emphasizing novel developments and relationships with other formalisms. Port-Hamiltonian systems theory yields a systematic framework for network modeling of multi-physics systems. Examples from different areas show the range of applicability. While the emphasis is on modeling and analysis, the last part provides a brief introduction to control of port-Hamiltonian systems.

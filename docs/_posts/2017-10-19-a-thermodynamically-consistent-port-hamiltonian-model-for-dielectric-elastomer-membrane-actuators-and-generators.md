@@ -5,12 +5,20 @@ date: 2017-10-19 00:00:00 +0100
 permalink: a-thermodynamically-consistent-port-hamiltonian-model-for-dielectric-elastomer-membrane-actuators-and-generators
 year: 2017
 authors: G. Rizzello, D. Naso, S. Seelecke
-category: journal-article
-tag: Dielectric Elastomers; Dielectric Electro-Active Polymers; Mechatronics; Cone Membrane; Physical models; Port-Hamiltonian; Passivity
+category:
+  - proceedings
+tags:
+  - dielectric elastomers
+  - dielectric electro-active polymers
+  - mechatronics
+  - cone membrane
+  - physical models
+  - port-hamiltonian
+  - passivity
 ---
  
 ## Authors
-[G. Rizzello](authors/gianluca-rizzello), [D. Naso](authors/david-naso), [S. Seelecke](authors/stefan-seelecke)
+[G. Rizzello](authors/gianluca_rizzello), [D. Naso](authors/david_naso), [S. Seelecke](authors/stefan_seelecke)
  
 ## Abstract
 This paper presents a port-Hamiltonian modeling formulation for a Dielectric Elastomer membrane. The model relates electrical and mechanical inputs to corresponding conjugate outputs, allowing to simulate the membrane transducer in actuation and energy harvesting application. Starting from a nonlinear, physics-based model developed in the authors’ previous works, a suitable function is initially proposed to quantify the overall electro-mechanical energy in the system. Subsequently, a complete description in terms of Hamiltonian, dissipation function, and system matrices is provided. The port-Hamiltonian formalism permits to assess the thermodynamic consistency of the model, making it a reliable tool for the prediction of energetic performance in dynamic applications. Furthermore, it opens up the possibility of applying powerful nonlinear analysis and design tools.
@@ -26,7 +34,7 @@ Dielectric Elastomers; Dielectric Electro-Active Polymers; Mechatronics; Cone Me
 - **Pages:** 4855--4862
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.974](https://doi.org/10.1016/j.ifacol.2017.08.974)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

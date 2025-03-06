@@ -5,12 +5,20 @@ date: 2015-11-10 00:00:00 +0100
 permalink: explicit-second-order-accurate-method-for-the-passive-guaranteed-simulation-of-port-hamiltonian-systems
 year: 2015
 authors: N. Lopes, T. Hélie, A. Falaize
-category: journal-article
-tag: energy storage; port-Hamiltonian systems; nonlinear model; nonlinear model; partial differential equations; passive simulation; consistency
+category:
+  - proceedings
+tags:
+  - energy storage
+  - port-hamiltonian systems
+  - nonlinear model
+  - nonlinear model
+  - partial differential equations
+  - passive simulation
+  - consistency
 ---
  
 ## Authors
-[N. Lopes](authors/n-lopes), [T. Hélie](authors/thomas-helie), [A. Falaize](authors/antoine-falaize)
+[N. Lopes](authors/n_lopes), [T. Hélie](authors/thomas_helie), [A. Falaize](authors/antoine_falaize)
  
 ## Abstract
 This paper presents a method for the passive guaranteed simulation of a class of finite-dimensional nonlinear port-Hamiltonian systems. This method combines two processes to reach both the second order accuracy and explicit computations. First, we design a one-step two- stage implicit numerical method for Port-Hamiltonian systems that preserves passivity. Second, a change of state is proposed to yield an explicit computation. It requires assumptions on the Hamiltonian variations. The complete method is illustrated on two basic examples for which these assumptions are fulfilled.
@@ -26,7 +34,7 @@ energy storage; port-Hamiltonian systems; nonlinear model; nonlinear model; part
 - **Pages:** 223--228
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.243](https://doi.org/10.1016/j.ifacol.2015.10.243)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

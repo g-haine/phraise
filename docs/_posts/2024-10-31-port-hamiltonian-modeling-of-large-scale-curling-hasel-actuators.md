@@ -5,12 +5,17 @@ date: 2024-10-31 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators
 year: 2024
 authors: Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez
-category: journal-article
-tag: Port-Hamiltonian systems; Modeling; HASEL actuator; Soft actuator
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - modeling
+  - hasel actuator
+  - soft actuator
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal-ponce), [Nelson Cisneros](authors/nelson-cisneros), [Yongxin Wu](authors/yongxin-wu), [Kanty Rabenorosoa](authors/kanty-rabenorosoa), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
+[Cristobal Ponce](authors/cristobal_ponce), [Nelson Cisneros](authors/nelson_cisneros), [Yongxin Wu](authors/yongxin_wu), [Kanty Rabenorosoa](authors/kanty_rabenorosoa), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 This paper presents a modeling methodology to enhance the dynamic performance of the mechanical component of finite-dimensional curling HASEL (Hydraulically Amplified Self-Healing Electrostatic) actuators within the port-Hamiltonian systems framework. The proposed approach entails replacing the sheet dynamics that limit deformation in a low-scale model with those derived from a large-scale discretized beam model. By making a few additional assumptions compared to the original low-scale HASEL model, the resulting interconnected system is established by aligning the states of the mechanical component in the low-scale model with those of the large-scale beam model in a straightforward manner. To validate the effectiveness of the methodology, simulated examples are provided along with a comparison to experimental results.
@@ -26,7 +31,7 @@ Port-Hamiltonian systems; Modeling; HASEL actuator; Soft actuator
 - **Pages:** 238--243
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.10.219](https://doi.org/10.1016/j.ifacol.2024.10.219)
-- **Note:** 4th IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2024- Lyon, France, September 4-6, 2024
+- **Event:** 4th IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2024- Lyon, France, September 4-6, 2024
  
 ## BibTeX
 {% highlight bibtex %}

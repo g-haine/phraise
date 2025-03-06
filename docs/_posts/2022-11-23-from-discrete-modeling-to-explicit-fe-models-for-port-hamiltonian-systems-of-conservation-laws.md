@@ -5,12 +5,20 @@ date: 2022-11-23 00:00:00 +0100
 permalink: from-discrete-modeling-to-explicit-fe-models-for-port-hamiltonian-systems-of-conservation-laws
 year: 2022
 authors: Paul Kotyczka, Tobias Thoma
-category: journal-article
-tag: Port-Hamiltonian systems; conservation laws; exterior calculus; non-uniform boundary conditions; structure-preserving discretization; mixed finite elements; weak form
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - conservation laws
+  - exterior calculus
+  - non-uniform boundary conditions
+  - structure-preserving discretization
+  - mixed finite elements
+  - weak form
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul-kotyczka), [Tobias Thoma](authors/tobias-thoma)
+[Paul Kotyczka](authors/paul_kotyczka), [Tobias Thoma](authors/tobias_thoma)
  
 ## Abstract
 Mixed finite element (FE) approaches have proven very useful for the structure-preserving discretization of port-Hamiltonian (PH) distributed parameter systems, but non-uniform boundary conditions (BCs) were treated in an implicit manner up to now. We apply our recent approach from structure mechanics, which relies on the weak imposition of both Neumann and Dirichlet BCs based on a suitable variational principle, to the class of PH systems of two conservation laws. We illustrate (a) starting with the integral conservation laws the transition to an exterior calculus representation suitable for FE approximation according to Farle et al. (2013). Based thereon, we show (b) the variational formulation with weakly imposed BCs of both types. We discuss (c) on a simple example on a quadrilateral mesh the structure and the variables of the resulting FE models compared to the equations derived from a direct discrete approach on dual cell complexes. We (d) provide the corresponding FEniCS code for download.
@@ -26,7 +34,7 @@ Port-Hamiltonian systems; conservation laws; exterior calculus; non-uniform boun
 - **Pages:** 412--417
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.088](https://doi.org/10.1016/j.ifacol.2022.11.088)
-- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}

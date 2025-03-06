@@ -5,12 +5,17 @@ date: 2021-04-15 00:00:00 +0100
 permalink: partitioned-finite-element-method-for-structured-discretization-with-mixed-boundary-conditions
 year: 2020
 authors: Andrea Brugnoli, Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Paul Kotyczka
-category: journal-article
-tag: Aeroacoustics; port-Hamiltonian systems (pHs); Partitioned Finite Element Method (PFEM); Mixed Boundary Control
+category:
+  - proceedings
+tags:
+  - aeroacoustics
+  - port-hamiltonian systems (phs)
+  - partitioned finite element method (pfem)
+  - mixed boundary control
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea-brugnoli), [Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Ghislain Haine](authors/ghislain-haine), [Paul Kotyczka](authors/paul-kotyczka)
+[Andrea Brugnoli](authors/andrea_brugnoli), [Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Ghislain Haine](authors/ghislain_haine), [Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 The propagation of acoustic waves in a 2D geometrical domain under mixed boundary control is here described by means of the port-Hamiltonian (pH) formalism. A finite element based method is employed to obtain a consistently discretized model. To construct a model with mixed boundary control, two different methodologies are detailed: one employs Lagrange multipliers, the other relies on a virtual domain decomposition to interconnect models with different causalities. The two approaches are assessed numerically, by comparing the Hamiltonian and the state variables norm for progressively refined meshes.
@@ -26,7 +31,7 @@ Aeroacoustics; port-Hamiltonian systems (pHs); Partitioned Finite Element Method
 - **Pages:** 7557--7562
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1351](https://doi.org/10.1016/j.ifacol.2020.12.1351)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

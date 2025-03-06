@@ -5,12 +5,17 @@ date: 2017-07-03 00:00:00 +0100
 permalink: consensus-dynamics-with-arbitrary-sign-preserving-nonlinearities
 year: 2017
 authors: Jieqiang Wei, Anneroos R.F. Everts, M. Kanat Camlibel, Arjan J. van der Schaft
-category: journal-article
-tag: Multi-agent systems; Consensus; Nonsmooth analysis; Port-Hamiltonian systems
+category:
+  - articles
+tags:
+  - multi-agent systems
+  - consensus
+  - nonsmooth analysis
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Jieqiang Wei](authors/jieqiang-wei), [Anneroos R.F. Everts](authors/anneroos-r-f-everts), [M. Kanat Camlibel](authors/m-kanat-camlibel), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
+[Jieqiang Wei](authors/jieqiang_wei), [Anneroos R.F. Everts](authors/anneroos_r_f_everts), [M. Kanat Camlibel](authors/m_kanat_camlibel), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 This paper studies consensus problems for multi-agent systems defined on directed graphs where the consensus dynamics involves general nonlinear and discontinuous functions. Sufficient conditions, only involving basic properties of the nonlinear functions and the topology of the underlying graph, are derived for the agents to converge to consensus.

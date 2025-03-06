@@ -5,11 +5,11 @@ date: 2023-08-13 00:00:00 +0100
 permalink: stochastic-thermodynamics-dissipativity-accumulativity-energy-storage-and-entropy-production
 year: 2023
 authors: Manuel Lanchares, Wassim M. Haddad
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Manuel Lanchares](authors/manuel-lanchares), [Wassim M. Haddad](authors/wassim-m-haddad)
+[Manuel Lanchares](authors/manuel_lanchares), [Wassim M. Haddad](authors/wassim_m_haddad)
  
 ## Abstract
 In this paper, we develop an energy-based dynamical system model driven by a Markov input process to present a unified framework for stochastic thermodynamics predicated on a stochastic dynamical systems formalism. Specifically, using a stochastic dissipativity, losslessness and accumulativity theory, we develop a nonlinear stochastic port-Hamiltonian system model characterized by energy conservation and entropy non-conservation laws that are consistent with statistical thermodynamic principles. In particular, we show that the difference between the average stored system energy and the average supplied system energy for our stochastic thermodynamic model is a martingale with respect to the system filtration, whereas the difference between average system entropy production and the average system entropy consumption is a submartingale with respect to the system filtration. This article is part of the theme issue ‘Thermodynamics 2.0: Bridging the natural and social sciences (Part 2)’.

@@ -5,12 +5,17 @@ date: 2015-06-17 00:00:00 +0100
 permalink: asymptotic-stabilisation-of-distributed-port-hamiltonian-systems-by-boundary-energy-shaping-control
 year: 2015
 authors: Alessandro Macchelli, Yann Le Gorrec, Héctor Ramirez
-category: journal-article
-tag: distributed port-Hamiltonian systems; boundary control; energy-shaping control; stability of PDEs
+category:
+  - proceedings
+tags:
+  - distributed port-hamiltonian systems
+  - boundary control
+  - energy-shaping control
+  - stability of pdes
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramirez](authors/hector-ramirez)
+[Alessandro Macchelli](authors/alessandro_macchelli), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramirez](authors/hector_ramirez)
  
 ## Abstract
 This paper illustrates a general synthesis methodology of asymptotic stabilising, energy-based, boundary control laws, that is applicable to a large class of distributed port- Hamiltonian systems. Similarly to the finite dimensional case, the idea is to design a state feedback law able to perform the energy-shaping task, i.e. able to map the open-loop port- Hamiltonian system into a new one in the same form, but characterised by a new Hamiltonian with a unique and isolated minimum at the equilibrium. Asymptotic stability is then obtained via damping injection on the boundary, and is a consequence of the La Salle's Invariance Principle in infinite dimensions. The general theory is illustrated with the help of a simple concluding example, i.e. the boundary stabilisation of a transmission line with distributed dissipation.
@@ -26,7 +31,7 @@ distributed port-Hamiltonian systems; boundary control; energy-shaping control; 
 - **Pages:** 488--493
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.05.143](https://doi.org/10.1016/j.ifacol.2015.05.143)
-- **Note:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
+- **Event:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
  
 ## BibTeX
 {% highlight bibtex %}

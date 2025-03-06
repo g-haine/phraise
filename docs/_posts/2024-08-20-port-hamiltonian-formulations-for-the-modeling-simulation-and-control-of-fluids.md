@@ -5,12 +5,19 @@ date: 2024-08-20 00:00:00 +0100
 permalink: port-hamiltonian-formulations-for-the-modeling-simulation-and-control-of-fluids
 year: 2024
 authors: Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez
-category: journal-article
-tag: Energy-based modeling; Port-Hamiltonian systems; Structure-preserving discretization; Boundary control; Shallow water equations; Incompressible Navier–Stokes equations
+category:
+  - articles
+tags:
+  - energy-based modeling
+  - port-hamiltonian systems
+  - structure-preserving discretization
+  - boundary control
+  - shallow water equations
+  - incompressible navier–stokes equations
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Ghislain Haine](authors/ghislain-haine), [Yann Le Gorrec](authors/yann-le-gorrec), [Denis Matignon](authors/denis-matignon), [Hector Ramirez](authors/hector-ramirez)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Ghislain Haine](authors/ghislain_haine), [Yann Le Gorrec](authors/yann_le_gorrec), [Denis Matignon](authors/denis_matignon), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 This paper presents a state of the art on port-Hamiltonian formulations for the modeling and numerical simulation of open fluid systems. This literature review, with the help of more than one hundred classified references, highlights the main features, the positioning with respect to seminal works from the literature on this topic, and the advantages provided by such a framework. A focus is given on the shallow water equations and the incompressible Navier–Stokes equations in 2D, including numerical simulation results. It is also shown how it opens very stimulating and promising research lines towards thermodynamically consistent modeling and structure-preserving numerical methods for the simulation of complex fluid systems in interaction with their environment.

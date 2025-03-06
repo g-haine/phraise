@@ -5,12 +5,18 @@ date: 2002-10-06 00:00:00 +0100
 permalink: global-weak-solutions-for-a-shallow-water-equation
 year: 2000
 authors: Adrian Constantin, Luc Molinet
-category: journal-article
-tag: Free Surface; Shallow Water; Weak Solution; Shallow Water Equation; Global Weak Solution
+category:
+  - articles
+tags:
+  - free surface
+  - shallow water
+  - weak solution
+  - shallow water equation
+  - global weak solution
 ---
  
 ## Authors
-[Adrian Constantin](authors/adrian-constantin), [Luc Molinet](authors/luc-molinet)
+[Adrian Constantin](authors/adrian_constantin), [Luc Molinet](authors/luc_molinet)
  
 ## Abstract
 We show the existence and uniqueness of global weak solutions for an equation describing the motion of waves at the free surface of shallow water under the influence of gravity.

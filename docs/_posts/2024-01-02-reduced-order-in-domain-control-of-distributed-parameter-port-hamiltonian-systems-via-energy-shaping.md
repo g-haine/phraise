@@ -5,12 +5,18 @@ date: 2024-01-02 00:00:00 +0100
 permalink: reduced-order-in-domain-control-of-distributed-parameter-port-hamiltonian-systems-via-energy-shaping
 year: 2024
 authors: Ning Liu, Yongxin Wu, Yann Le Gorrec, Laurent Lefèvre, Hector Ramirez
-category: journal-article
-tag: Port-Hamiltonian systems; Distributed parameter systems; Passivity-based control; Casimir function; Optimization
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - distributed parameter systems
+  - passivity-based control
+  - casimir function
+  - optimization
 ---
  
 ## Authors
-[Ning Liu](authors/ning-liu), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec), [Laurent Lefèvre](authors/laurent-lefevre), [Hector Ramirez](authors/hector-ramirez)
+[Ning Liu](authors/ning_liu), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec), [Laurent Lefèvre](authors/laurent_lefevre), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 An in-domain finite dimensional controller for a class of distributed parameter systems on a one-dimensional spatial domain formulated under the port-Hamiltonian framework is presented. Based on (Trenchant et al. 2017) where positive feedback and a late lumping approach is used, we extend the Control by Interconnection method and propose a new energy shaping methodology with an early lumping approach on the distributed spatial domain of the system. Our two main control objectives are to stabilize the closed-loop system, as well as to improve the closed-loop dynamic performances. With the early lumping approach, we investigate two cases of the controller design, the ideal case where each distributed controller acts independently on the spatial domain (fully-actuated), and the more realistic case where the control action is piecewise constant over certain intervals (under-actuated). We then analyze the asymptotic stability of the closed-loop system when the infinite dimensional plant system is connected with the finite dimensional controller. Furthermore we provide simulation results comparing the performance of the fully-actuated case and the under-actuated case with an example of an elastic vibrating string.

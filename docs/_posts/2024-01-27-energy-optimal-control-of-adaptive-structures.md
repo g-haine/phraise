@@ -5,11 +5,11 @@ date: 2024-01-27 00:00:00 +0100
 permalink: energy-optimal-control-of-adaptive-structures
 year: 2024
 authors: Manuel Schaller, Amelie Zeller, Michael Böhm, Oliver Sawodny, Cristina Tarín, Karl Worthmann
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Manuel Schaller](authors/manuel-schaller), [Amelie Zeller](authors/amelie-zeller), [Michael Böhm](authors/michael-bohm), [Oliver Sawodny](authors/oliver-sawodny), [Cristina Tarín](authors/cristina-tarin), [Karl Worthmann](authors/karl-worthmann)
+[Manuel Schaller](authors/manuel_schaller), [Amelie Zeller](authors/amelie_zeller), [Michael Böhm](authors/michael_bohm), [Oliver Sawodny](authors/oliver_sawodny), [Cristina Tarín](authors/cristina_tarín), [Karl Worthmann](authors/karl_worthmann)
  
 ## Abstract
 Adaptive structures are equipped with sensors and actuators to actively counteract external loads such as wind. This can significantly reduce resource consumption and emissions during the life cycle compared to conventional structures. A common approach for active damping is to derive a port-Hamiltonian model and to employ linear-quadratic control. However, the quadratic control penalization lacks physical interpretation and merely serves as a regularization term. Rather, we propose a controller, which achieves the goal of vibration damping while acting energy-optimal. Leveraging the port-Hamiltonian structure, we show that the optimal control is uniquely determined, even on singular arcs. Further, we prove a stable long-time behavior of optimal trajectories by means of a turnpike property. Last, the proposed controller’s efficiency is evaluated in a numerical study.

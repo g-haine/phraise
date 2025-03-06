@@ -5,12 +5,17 @@ date: 2021-11-19 00:00:00 +0100
 permalink: application-of-data-driven-realizations-to-port-hamiltonian-flexible-structures
 year: 2021
 authors: Karim Cherifi, Andrea Brugnoli
-category: journal-article
-tag: Port-Hamiltonian systems; Structural dynamics; Mixed finite elements; Data-driven systems identification
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - structural dynamics
+  - mixed finite elements
+  - data-driven systems identification
 ---
  
 ## Authors
-[Karim Cherifi](authors/karim-cherifi), [Andrea Brugnoli](authors/andrea-brugnoli)
+[Karim Cherifi](authors/karim_cherifi), [Andrea Brugnoli](authors/andrea_brugnoli)
  
 ## Abstract
 In this contribution, the validity of reduced order data-driven approaches for port-Hamiltonian systems is assessed by direct comparison with models obtained from finite element discretization. In particular, we consider examples arising from the structural dynamics of beams. Port-Hamiltonian beam models can be readily discretized by using mixed finite elements. The resulting numerical models are used to generate the input-output data. The data-driven realization is then compared to the original numerical model in terms of its bode plot and energy trend.
@@ -26,7 +31,7 @@ Port-Hamiltonian systems; Structural dynamics; Mixed finite elements; Data-drive
 - **Pages:** 180--185
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.075](https://doi.org/10.1016/j.ifacol.2021.11.075)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

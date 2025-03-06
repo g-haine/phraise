@@ -5,12 +5,19 @@ date: 2021-11-19 00:00:00 +0100
 permalink: energy-based-control-and-observer-design-for-higher-order-infinite-dimensional-port-hamiltonian-systems
 year: 2021
 authors: Tobias Malzer, Lukas Ecker, Markus Schöberl
-category: journal-article
-tag: infinite-dimensional systems; partial differential equations; boundary actuation; port-Hamiltonian systems; structural invariants; observer design
+category:
+  - proceedings
+tags:
+  - infinite-dimensional systems
+  - partial differential equations
+  - boundary actuation
+  - port-hamiltonian systems
+  - structural invariants
+  - observer design
 ---
  
 ## Authors
-[Tobias Malzer](authors/tobias-malzer), [Lukas Ecker](authors/lukas-ecker), [Markus Schöberl](authors/markus-schoberl)
+[Tobias Malzer](authors/tobias_malzer), [Lukas Ecker](authors/lukas_ecker), [Markus Schöberl](authors/markus_schoberl)
  
 ## Abstract
 In this paper, we present a control-design strategy based on the energy-Casimir method for infinite-dimensional, boundary-actuated port-Hamiltonian systems with two-dimensional spatial domain and second-order Hamiltonian. The resulting control law depends on distributed system states that cannot be measured, and therefore, we additionally design an infinite-dimensional observer by exploiting the port-Hamiltonian system representation. A Kirchhoff-Love plate serves as an example in order to demonstrate the proposed approaches.
@@ -26,7 +33,7 @@ infinite-dimensional systems; partial differential equations; boundary actuation
 - **Pages:** 44--51
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.053](https://doi.org/10.1016/j.ifacol.2021.11.053)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

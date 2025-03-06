@@ -5,12 +5,17 @@ date: 2024-10-07 00:00:00 +0100
 permalink: cooperative-formation-control-of-multiple-unmanned-surface-vessels-based-on-state-error-port-control-hamiltonian-framework
 year: 2024
 authors: Chengxing Lv, Zichen Wang, Ying Zhang, Jian Chen, Haisheng Yu
-category: journal-article
-tag: Cooperative formation control; State error port control Hamiltonian; Unmanned surface vessel; Nonlinear disturbances observer
+category:
+  - articles
+tags:
+  - cooperative formation control
+  - state error port control hamiltonian
+  - unmanned surface vessel
+  - nonlinear disturbances observer
 ---
  
 ## Authors
-[Chengxing Lv](authors/chengxing-lv), [Zichen Wang](authors/zichen-wang), [Ying Zhang](authors/ying-zhang), [Jian Chen](authors/jian-chen), [Haisheng Yu](authors/haisheng-yu)
+[Chengxing Lv](authors/chengxing_lv), [Zichen Wang](authors/zichen_wang), [Ying Zhang](authors/ying_zhang), [Jian Chen](authors/jian_chen), [Haisheng Yu](authors/haisheng_yu)
  
 ## Abstract
 A novel state error passivity-based cooperative formation controller is proposed for multiple unmanned surface vessels (MUSVs) with complete environments. An energy consumption model is constructed for the MUSVs to elucidate the energy consumption. Firstly, the multiple unmanned surface vessels model is tailored to a new dynamical model as a multiple port Hamiltonian framework. Then, a passivity-based cooperative formation controller is proposed by combining a state error port Hamiltonian controller, an improved leader–follower composite distributed protocol, and a nonlinear disturbances observer. We address the cooperative formation control of multiple USVs by using the port-Hamiltonian framework. Nonlinear disturbances observer is designed to estimate the external disturbances. A smooth function is combined to handle the system input saturation. The controller performances are illustrated by some scenario experiments. The proposed novel controller can archive the cooperative formation of the MUSVs, and effectively improve the integrated system endurance time.
@@ -64,7 +69,7 @@ Cooperative formation control; State error port control Hamiltonian; Unmanned su
 - Makar, A. Determination of the Minimum Safe Distance between a USV and a Hydro-Engineering Structure in a Restricted Water Region Sounding. Energies vol. 15 2441 (2022) -- [10.3390/en15072441](https://doi.org/10.3390/en15072441)
 - Martinsen, A. B., Lekkas, A. M. & Gros, S. Reinforcement learning-based NMPC for tracking control of ASVs: Theory and experiments. Control Engineering Practice vol. 120 105024 (2022) -- [10.1016/j.conengprac.2021.105024](https://doi.org/10.1016/j.conengprac.2021.105024)
 - Meng, X., Yu, H. & Zhang, J. An EPCH Control Strategy for Complex Nonlinear Systems with Actuator Saturation and Disturbances. Information Sciences vol. 625 639–655 (2023) -- [10.1016/j.ins.2023.01.005](https://doi.org/10.1016/j.ins.2023.01.005)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [Something went wron](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
 - Parvareh, A., Naderi Soorki, M. & Azizi, A. The Robust Adaptive Control of Leader–Follower Formation in Mobile Robots with Dynamic Obstacle Avoidance. Mathematics vol. 11 4267 (2023) -- [10.3390/math11204267](https://doi.org/10.3390/math11204267)
 - Qiu, B., Wang, G., Fan, Y., Mu, D. & Sun, X. Path Following of Underactuated Unmanned Surface Vehicle Based on Trajectory Linearization Control with Input Saturation and External Disturbances. International Journal of Control, Automation and Systems vol. 18 2108–2119 (2020) -- [10.1007/s12555-019-0659-3](https://doi.org/10.1007/s12555-019-0659-3)
 - Rodriguez, J., Castañeda, H., Gonzalez-Garcia, A. & Gordillo, J. L. Finite-time control for an Unmanned Surface Vehicle based on adaptive sliding mode strategy. Ocean Engineering vol. 254 111255 (2022) -- [10.1016/j.oceaneng.2022.111255](https://doi.org/10.1016/j.oceaneng.2022.111255)

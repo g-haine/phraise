@@ -5,14 +5,14 @@ date: 2022-01-14 00:00:00 +0100
 permalink: riemannian-optimization-model-order-reduction-method-for-general-linear-port-hamiltonian-systems
 year: 2022
 authors: Zi-Xue Li, Yao-Lin Jiang, Kang-Li Xu
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Zi-Xue Li](authors/zi-xue-li), [Yao-Lin Jiang](authors/yaolin-jiang), [Kang-Li Xu](authors/kangli-xu)
+[Zi-Xue Li](authors/zi_xue_li), [Yao-Lin Jiang](authors/yaolin_jiang), [Kang-Li Xu](authors/kangli_xu)
  
 ## Abstract
-This paper presents a Riemannian optimal model order reduction method for general linear stable port-Hamiltonian systems based on the Riemannian trust-region method. We consider the \\( \mathcal{H}_2 \\) optimal model order reduction problem of the general linear port-Hamiltonian systems. The problem is formulated as an optimization problem on the product manifold, which is composed of the set of skew symmetric matrices, the manifold of the positive definite matrices, the manifold of the positive semidefinite matrices with fixed rank and the Euclidean space. To solve the optimal problem, the Riemannian geometry of the product manifold is given. Moreover, the Riemannian gradient and the Riemannian Hessian of the objective function are derived. Furthermore, we propose the Riemannian trust-region method for the optimization problem and introduce the truncated conjugate gradient method to solve the trust-region subproblem. Finally, the numerical experiments illustrate the efficiency of the proposed method.
+This paper presents a Riemannian optimal model order reduction method for general linear stable port-Hamiltonian systems based on the Riemannian trust-region method. We consider the \( \mathcal{H}_2 \) optimal model order reduction problem of the general linear port-Hamiltonian systems. The problem is formulated as an optimization problem on the product manifold, which is composed of the set of skew symmetric matrices, the manifold of the positive definite matrices, the manifold of the positive semidefinite matrices with fixed rank and the Euclidean space. To solve the optimal problem, the Riemannian geometry of the product manifold is given. Moreover, the Riemannian gradient and the Riemannian Hessian of the objective function are derived. Furthermore, we propose the Riemannian trust-region method for the optimization problem and introduce the truncated conjugate gradient method to solve the trust-region subproblem. Finally, the numerical experiments illustrate the efficiency of the proposed method.
  
 ## Citation
 - **Journal:** IMA Journal of Mathematical Control and Information

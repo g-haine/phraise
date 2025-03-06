@@ -5,12 +5,19 @@ date: 2021-04-15 00:00:00 +0100
 permalink: energy-based-model-of-the-human-ear-canal-and-tympanic-membrane-for-sound-transmission
 year: 2020
 authors: Milka C.I. Madahana, John E.D. Ekoru, Otis O.T. Nyandoro
-category: journal-article
-tag: Port- Hamiltonian; Euler Bernoulli; tympanic membrane; Frequency; occupational; ear canal
+category:
+  - proceedings
+tags:
+  - port- hamiltonian
+  - euler bernoulli
+  - tympanic membrane
+  - frequency
+  - occupational
+  - ear canal
 ---
  
 ## Authors
-[Milka C.I. Madahana](authors/milka-c-i-madahana), [John E.D. Ekoru](authors/john-e-d-ekoru), [Otis O.T. Nyandoro](authors/otis-o-t-c-nyandoro)
+[Milka C.I. Madahana](authors/milka_c_i_madahana), [John E.D. Ekoru](authors/john_e_d_ekoru), [Otis O.T. Nyandoro](authors/otis_o_t_c_nyandoro)
  
 ## Abstract
 The objective of this paper is to present a unique energy based model of the human outer ear and the tympanic membrane. The developed model employs the Port Hamiltonian modelling approach. The tympanic membrane is modelled as an Euler-Bernoulli beam. The frequency response of the model at speech frequencies which are significant for sound transmission are found to comparable to existing results in literature. This model can also be used for investigation of tympanic membrane rupture or perforations. Future work will include modelling of the ear canal as horn shaped and inclusion of the angular motion of the tympanic membrane.
@@ -26,7 +33,7 @@ Port- Hamiltonian; Euler Bernoulli; tympanic membrane; Frequency; occupational; 
 - **Pages:** 16406--16411
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.704](https://doi.org/10.1016/j.ifacol.2020.12.704)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2021-03-01 00:00:00 +0100
 permalink: observer-design-for-a-class-of-nonlinear-systems-combining-dissipativity-with-interconnection-and-damping-assignment
 year: 2021
 authors: Bastian Biedermann, Thomas Meurer
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Bastian Biedermann](authors/bastian-biedermann), [Thomas Meurer](authors/thomas-meurer)
+[Bastian Biedermann](authors/bastian_biedermann), [Thomas Meurer](authors/thomas_meurer)
  
 ## Abstract
 A nonlinear observer design approach is proposed that exploits and combines port‐Hamiltonian systems and dissipativity theory. First, a passivity‐based observer design using interconnection and damping assignment for time variant state affine systems is presented by applying output injection to the system such that the observer error dynamics takes a port‐Hamiltonian structure. The stability of the observer error system is assured by exploiting its passivity properties. Second, this setup is extended to develop an observer design approach for a class of systems with a time varying state affine forward and a nonlinear feedback contribution. For a class of nonlinear systems, the theory of dissipative observers is adapted and combined with the results for the passivity‐based observer design using interconnection and damping assignment. The convergence of the compound observer design is determined by a linear matrix inequality. The performance of both observer approaches is analyzed in simulation examples.

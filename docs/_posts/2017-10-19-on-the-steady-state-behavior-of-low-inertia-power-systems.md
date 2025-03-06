@@ -5,12 +5,16 @@ date: 2017-10-19 00:00:00 +0100
 permalink: on-the-steady-state-behavior-of-low-inertia-power-systems
 year: 2017
 authors: Dominic Groß, Florian Dörfler
-category: journal-article
-tag: power system dynamics; steady-state behavior; port-Hamiltonian systems
+category:
+  - proceedings
+tags:
+  - power system dynamics
+  - steady-state behavior
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Dominic Groß](authors/dominic-gross), [Florian Dörfler](authors/florian-dorfler)
+[Dominic Groß](authors/dominic_gross), [Florian Dörfler](authors/florian_dorfler)
  
 ## Abstract
 Whereas conventional power systems heavily rely on bulk generation by synchronous machines, future power systems will be comprised of distributed generation based on renewable sources interfaced by power electronics. A direct consequence of retiring synchronous generators is the loss of rotational inertia, which thus far was the dominant time constant in a power system, as well as the loss of the generator controls, which are the main source of actuation of the power grid. Prompted by these paradigm shifts, we study the dynamic behavior of a nonlinear and first-principle low-inertia power system model including detailed power converter models and their interactions with the power grid. In this paper, we focus particularly on the admissible steady-state behavior of such a low-inertia power grid and derive necessary and sufficient control specifications for power converters.
@@ -26,7 +30,7 @@ power system dynamics; steady-state behavior; port-Hamiltonian systems
 - **Pages:** 10735--10741
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.2264](https://doi.org/10.1016/j.ifacol.2017.08.2264)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

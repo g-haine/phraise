@@ -5,12 +5,15 @@ date: 2023-07-31 00:00:00 +0100
 permalink: modelling-and-structure-preserving-discretization-of-the-schrodinger-as-a-port-hamiltonian-system-and-simulation-of-a-controlled-quantum-box
 year: 2023
 authors: Gabriel Verrier, Ghislain Haine, Denis Matignon
-category: book-chapter
-tag: port-Hamiltonian systems; open quantum systems
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - open quantum systems
 ---
  
 ## Authors
-[Gabriel Verrier](authors/gabriel-verrier), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
+[Gabriel Verrier](authors/gabriel_verrier), [Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 The modelling of the Schrödinger Equation as a port-Hamil-tonian system is addressed. We suggest two Hamiltonians for the model, one based on the probability of presence and the other on the energy of the quantum system in a time-independent potential. In order to simulate the evolution of the quantum system, we adapt the model to a bounded domain. The model is discretized thanks to the structure-preserving Partitioned Finite Element Method (PFEM). Simulations of Rabi oscillations to control the state of a system inside a quantum box are performed. Our numerical experiments include the transition between two levels of energy and the generation of Schrödinger cat states.
@@ -22,7 +25,7 @@ port-Hamiltonian systems; open quantum systems
 - **ISBN:** 9783031382987
 - **Publisher:** Springer Nature Switzerland
 - **DOI:** [10.1007/978-3-031-38299-4_41](https://doi.org/10.1007/978-3-031-38299-4_41)
-- **Note:** International Conference on Geometric Science of Information
+- **Event:** International Conference on Geometric Science of Information
  
 ## BibTeX
 {% highlight bibtex %}

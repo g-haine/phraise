@@ -5,12 +5,19 @@ date: 2017-10-19 00:00:00 +0100
 permalink: on-higher-order-linear-port-hamiltonian-systems-and-their-duals
 year: 2017
 authors: P. Rapisarda, J.C. Mayo Maldonado
-category: journal-article
-tag: Bilinear-; quadratic differential forms; port-Hamiltonian systems; behavioral system theory; duality; switched linear differential systems
+category:
+  - proceedings
+tags:
+  - bilinear-
+  - quadratic differential forms
+  - port-hamiltonian systems
+  - behavioral system theory
+  - duality
+  - switched linear differential systems
 ---
  
 ## Authors
-[P. Rapisarda](authors/p-rapisarda), [J.C. Mayo Maldonado](authors/j-c-mayo-maldonado)
+[P. Rapisarda](authors/p_rapisarda), [J.C. Mayo Maldonado](authors/j_c_mayo_maldonado)
  
 ## Abstract
 We formulate a behavioral approach to higher-order linear port-Hamiltonian systems. We formalize constitutive laws such as power conservation, storage and (anti-)dissipative relations, and we study several properties of such systems. We also define the dual of a given port-Hamiltonian behavior.
@@ -26,7 +33,7 @@ Bilinear-; quadratic differential forms; port-Hamiltonian systems; behavioral sy
 - **Pages:** 9236--9241
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.1283](https://doi.org/10.1016/j.ifacol.2017.08.1283)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

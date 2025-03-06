@@ -5,12 +5,18 @@ date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-based-teleoperation-of-a-multi-robot-system-on-periodic-trajectories
 year: 2015
 authors: C. Secchi, L. Sabattini, C. Fantuzzi
-category: journal-article
-tag: port-Hamiltonian systems; control; teleoperation; stability; passivity
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - control
+  - teleoperation
+  - stability
+  - passivity
 ---
  
 ## Authors
-[C. Secchi](authors/cristian-secchi), [L. Sabattini](authors/l-sabattini), [C. Fantuzzi](authors/cesare-fantuzzi)
+[C. Secchi](authors/cristian_secchi), [L. Sabattini](authors/l_sabattini), [C. Fantuzzi](authors/cesare_fantuzzi)
  
 ## Abstract
 In this paper, we exploit port-Hamiltonian systems for building a novel teleoperation architecture for a group of mobile agents that need to track a set of prede_ned trajectories. Using port-Hamiltonian system we can guarantee an intrinsically safe and passive bilateral teleoperation system while using linear regulation system we can ensure an asymptotic tracking. The performance of the teleoperation system are evaluated by means of experiments.
@@ -26,7 +32,7 @@ port-Hamiltonian systems; control; teleoperation; stability; passivity
 - **Pages:** 69--74
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.216](https://doi.org/10.1016/j.ifacol.2015.10.216)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2021-04-27 00:00:00 +0100
 permalink: limits-to-energy-conversion
 year: 2022
 authors: Arjan van der Schaft, Dimitri Jeltsema
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
+[Arjan van der Schaft](authors/arjan_van_der_schaft), [Dimitri Jeltsema](authors/dimitri_jeltsema)
  
 ## Abstract
 The Second Law of thermodynamics implies that no thermodynamic system with a single heat source at constant temperature can convert heat into mechanical work in a recurrent manner. First, we note that this is equivalent to cyclo-passivity at the mechanical port of the thermodynamic system, while the temperature at the thermal port of the system is kept constant. This leads to the question, which general systems with two power ports have similar behavior: when is a system cyclo-passive at one of its ports, while the output variable at the other port (such as the temperature in the thermodynamic case) is kept constant? This property is called “one-port cyclo-passivity,” and entails, whenever it holds, a fundamental limitation to energy transfer from one port to the other. Sufficient conditions for one-port cyclo-passivity are derived for general multiphysics systems formulated in port-Hamiltonian form. This is illustrated by a variety of examples from different (multi-)physical domains; from coupled inductors and capacitor microphones to synchronous machines.

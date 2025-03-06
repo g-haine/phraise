@@ -5,12 +5,22 @@ date: 2024-04-05 00:00:00 +0100
 permalink: nonlinear-feedback-double-bracket-dissipation-and-port-control-of-lie-poisson-systems
 year: 2024
 authors: Simon Hochgerner
-category: journal-article
-tag: Stabilization; Feedback control; Controlled Lagrangians; Port-Hamiltonian systems; 34H15; 37J25; 70H14; 76W05; 93D15
+category:
+  - articles
+tags:
+  - stabilization
+  - feedback control
+  - controlled lagrangians
+  - port-hamiltonian systems
+  - 34h15
+  - 37j25
+  - 70h14
+  - 76w05
+  - 93d15
 ---
  
 ## Authors
-[Simon Hochgerner](authors/simon-hochgerner)
+[Simon Hochgerner](authors/simon_hochgerner)
  
 ## Abstract
 Methods from controlled Lagrangians, double-bracket dissipation and interconnection and damping assignment–passivity-based control (IDA-PBC) are used to construct nonlinear feedback controls which (asymptotically) stabilize previously unstable equilibria of Lie–Poisson Hamiltonian systems. The results are applied to find an asymptotically stabilizing control for the rotor driven satellite, and a stabilizing control for Hall magnetohydrodynamic flow.

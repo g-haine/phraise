@@ -5,12 +5,18 @@ date: 2021-11-19 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-modeling-and-control-of-an-electro-thermal-microgrid
 year: 2021
 authors: Ajay Krishna, Johannes Schiffer
-category: journal-article
-tag: Passivity-based control; port-Hamiltonian systems; multi-energy microgrids; district heating systems; distributed control
+category:
+  - proceedings
+tags:
+  - passivity-based control
+  - port-hamiltonian systems
+  - multi-energy microgrids
+  - district heating systems
+  - distributed control
 ---
  
 ## Authors
-[Ajay Krishna](authors/ajay-krishna), [Johannes Schiffer](authors/johannes-schiffer)
+[Ajay Krishna](authors/ajay_krishna), [Johannes Schiffer](authors/johannes_schiffer)
  
 ## Abstract
 We address the problems of modeling and controlling multi-energy microgrids (meMGs) composed of an electrical and a thermal system, which are connected via heat pumps (HPs). At first, we model the individual subsystems in a port-Hamiltonian (pH) framework. Then, by exploiting the structural properties of pH systems, we interconnect the subsystems in a passive manner and show that the overall meMG is shifted passive with respect to the control input-output mapping. We then use this property to propose a distributed passivity based-control (PBC) that addresses frequency and temperature regulation by utilizing the resources in the meMG in a proportional fashion and renders the closed-loop equilibrium asymptotically stable.
@@ -26,7 +32,7 @@ Passivity-based control; port-Hamiltonian systems; multi-energy microgrids; dist
 - **Pages:** 287--293
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.092](https://doi.org/10.1016/j.ifacol.2021.11.092)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

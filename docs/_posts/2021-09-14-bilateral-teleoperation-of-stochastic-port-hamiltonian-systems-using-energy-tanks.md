@@ -5,14 +5,14 @@ date: 2021-09-14 00:00:00 +0100
 permalink: bilateral-teleoperation-of-stochastic-port-hamiltonian-systems-using-energy-tanks
 year: 2021
 authors: Francesco Cordoni, Luca Di Persio, Riccardo Muradore
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Francesco Cordoni](authors/francesco-giuseppe-cordoni), [Luca Di Persio](authors/luca-di-persio), [Riccardo Muradore](authors/riccardo-muradore)
+[Francesco Cordoni](authors/francesco_giuseppe_cordoni), [Luca Di Persio](authors/luca_di_persio), [Riccardo Muradore](authors/riccardo_muradore)
  
 ## Abstract
-In this article we consider the general problem of how to properly endow a stochastic port‐Hamiltonian system (SPHS) with an energy tank, that is an energy reservoir that allows to guarantee the passivity property. We show that a stochastic bilateral teleoperation system, composed by a master robot and a slave robot modeled as SPHS, can be connected in a power‐preserving manner to energy tanks. The stored energy is continuously monitored to keep the system passive despite time‐varying communication delays and interaction with unknown environment that may destabilize the overall system. We will address latter problem considering a SPHS affected by a noise composed by a linear, multiplicative component in Itô form plus an additive one. We underline that such a scenario requires the introduction of an \*ad hoc\* notion of passivity.
+In this article we consider the general problem of how to properly endow a stochastic port‐Hamiltonian system (SPHS) with an energy tank, that is an energy reservoir that allows to guarantee the passivity property. We show that a stochastic bilateral teleoperation system, composed by a master robot and a slave robot modeled as SPHS, can be connected in a power‐preserving manner to energy tanks. The stored energy is continuously monitored to keep the system passive despite time‐varying communication delays and interaction with unknown environment that may destabilize the overall system. We will address latter problem considering a SPHS affected by a noise composed by a linear, multiplicative component in Itô form plus an additive one. We underline that such a scenario requires the introduction of an *ad hoc* notion of passivity.
  
 ## Citation
 - **Journal:** International Journal of Robust and Nonlinear Control

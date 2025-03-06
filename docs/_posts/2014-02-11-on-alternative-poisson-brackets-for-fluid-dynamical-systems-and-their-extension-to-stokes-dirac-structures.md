@@ -5,12 +5,15 @@ date: 2014-02-11 00:00:00 +0100
 permalink: on-alternative-poisson-brackets-for-fluid-dynamical-systems-and-their-extension-to-stokes-dirac-structures
 year: 2013
 authors: B. Maschke, A.J. van der Schaft
-category: journal-article
-tag: Five to ten keywords; preferably chosen from the IFAC keyword list
+category:
+  - proceedings
+tags:
+  - five to ten keywords
+  - preferably chosen from the ifac keyword list
 ---
  
 ## Authors
-[B. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[B. Maschke](authors/bernhard_maschke), [A.J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 In this paper we shall consider the Hamiltonian formulation of one-dimensional models of fluid dynamical systems such as the Korteweg de Vries equation and the Boussinesq equation and their extension to port-Hamiltonian systems. We consider the Korteweg de Vries equation and recall its bi-Hamiltonian structure, either formulated as a single conservation law or formulated with respect to Magri's bracket. In both cases we give an extension of the associated Hamiltonian operators to a Stokes-Dirac structure. Then we consider the Boussinesq equation and recall the two Hamiltonian representations either with respect to the canonical Hamiltonian operator associated with a system of two coupled conservation laws or with respect to a third order Hamiltonian operator. In this case we shall suggest a third Hamiltonian operator for which an extension to a Dirac structure is derived.
@@ -26,7 +29,7 @@ Five to ten keywords; preferably chosen from the IFAC keyword list
 - **Pages:** 109--114
 - **Publisher:** Elsevier BV
 - **DOI:** [10.3182/20130925-3-FR-4043.00083](https://doi.org/10.3182/20130925-3-FR-4043.00083)
-- **Note:** 1st IFAC Workshop on Control of Systems Governed by Partial Differential Equations
+- **Event:** 1st IFAC Workshop on Control of Systems Governed by Partial Differential Equations
  
 ## BibTeX
 {% highlight bibtex %}

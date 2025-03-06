@@ -5,12 +5,17 @@ date: 2024-09-25 00:00:00 +0100
 permalink: energy-based-modeling-and-robust-position-control-of-a-dielectric-elastomer-cardiac-assist-device
 year: 2024
 authors: Amal Hammoud, Ning Liu, Yann Le Gorrec, Yoan Civet, Yves Perriard
-category: journal-article
-tag: Dielectric elastomer actuators; port-Hamiltonian systems; passivity-based control; integral action
+category:
+  - proceedings
+tags:
+  - dielectric elastomer actuators
+  - port-hamiltonian systems
+  - passivity-based control
+  - integral action
 ---
  
 ## Authors
-[Amal Hammoud](authors/amal-hammoud), [Ning Liu](authors/ning-liu), [Yann Le Gorrec](authors/yann-le-gorrec), [Yoan Civet](authors/yoan-civet), [Yves Perriard](authors/yves-perriard)
+[Amal Hammoud](authors/amal_hammoud), [Ning Liu](authors/ning_liu), [Yann Le Gorrec](authors/yann_le_gorrec), [Yoan Civet](authors/yoan_civet), [Yves Perriard](authors/yves_perriard)
  
 ## Abstract
 This paper is concerned with the port Hamiltonian modeling and control of a dielectric elastomer actuator used for a cardiac assistance device. The proposed non-linear model is identified under different applied voltages and pressures, and validated against experimental results with relative errors of less than 0.3%. Subsequently, two passivity-based controllers are designed to stabilize the actuator at a desired position. The first controller is designed using control by interconnection. The second one considers additional integral action to reject disturbances while preserving the passivity of the closed-loop system.
@@ -26,7 +31,7 @@ Dielectric elastomer actuators; port-Hamiltonian systems; passivity-based contro
 - **Pages:** 25--30
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.251](https://doi.org/10.1016/j.ifacol.2024.08.251)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

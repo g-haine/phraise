@@ -5,11 +5,11 @@ date: 2019-08-15 00:00:00 +0100
 permalink: topological-geometric-extension-of-stokes-dirac-structures-for-global-energy-flows
 year: 2019
 authors: Gou Nishida, Bernhard Maschke
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Gou Nishida](authors/gou-nishida), [Bernhard Maschke](authors/bernhard-maschke)
+[Gou Nishida](authors/gou_nishida), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 This paper proposes an extended Stokes-Dirac structure for describing a global structure of port-Hamiltonian systems defined on manifolds with non-trivial topology under consistent boundary conditions. For the aim, the relationship between the Stokes-Dirac structure and the topological geometry of the manifolds is clarified in terms of harmonic differential forms.

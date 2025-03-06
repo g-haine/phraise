@@ -5,11 +5,11 @@ date: 2020-10-07 00:00:00 +0100
 permalink: energy-based-fluid-structure-model-of-the-vocal-folds
 year: 2021
 authors: Luis A Mora, Hector Ramirez, Juan I Yuz, Yann Le Gorec, Matías Zañartu
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Luis A Mora](authors/luis-a-mora), [Hector Ramirez](authors/hector-ramirez), [Juan I Yuz](authors/juan-i-yuz), [Yann Le Gorec](authors/yann-le-gorrec), [Matías Zañartu](authors/matias-zanartu)
+[Luis A Mora](authors/luis_a_mora), [Hector Ramirez](authors/hector_ramirez), [Juan I Yuz](authors/juan_i_yuz), [Yann Le Gorec](authors/yann_le_gorrec), [Matías Zañartu](authors/matias_zanartu)
  
 ## Abstract
 Lumped elements models of vocal folds are relevant research tools that can enhance the understanding of the pathophysiology of many voice disorders. In this paper, we use the port-Hamiltonian framework to obtain an energy-based model for the fluid–structure interactions between the vocal folds and the airflow in the glottis. The vocal fold behavior is represented by a three-mass model and the airflow is described as a fluid with irrotational flow. The proposed approach allows to go beyond the usual quasi-steady one-dimensional flow assumption in lumped mass models. The simulation results show that the proposed energy-based model successfully reproduces the oscillations of the vocal folds, including the collision phenomena, and it is useful to analyze the energy exchange between the airflow and the vocal folds.

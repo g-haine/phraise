@@ -5,12 +5,17 @@ date: 2007-06-14 00:00:00 +0100
 permalink: new-energy-based-nonlinear-controller-for-hydraulic-piston-actuators
 year: 2004
 authors: Andreas Kugi, Wolfgang Kemmetmüller
-category: journal-article
-tag: Energy-based Controller Design; Hydraulic Piston Actuator; Nonlinear Control; PortHamiltonian System
+category:
+  - articles
+tags:
+  - energy-based controller design
+  - hydraulic piston actuator
+  - nonlinear control
+  - porthamiltonian system
 ---
  
 ## Authors
-[Andreas Kugi](authors/andreas-kugi), [Wolfgang Kemmetmüller](authors/wolfgang-kemmetmuller)
+[Andreas Kugi](authors/andreas_kugi), [Wolfgang Kemmetmüller](authors/wolfgang_kemmetmuller)
  
 ## Abstract
 A new nonlinear controller for a general class of hydraulic piston actuators is derived. The controller design is founded on an energy-based formulation of the mathematical model, taking into account the fundamental relations of an isentropic fluid. The control law guarantees that the errors of the piston position, the velocity and the piston force asymptotically approach zero and that the desired equilibrium of the overall closed-loop system is stable. By means of an industrial simulation software for hydraulic systems extensive simulation tests have been performed, also considering the robustness with respect to parameter variations and measurement noise. In all cases, the results prove the feasibility and the practical usefulness of the concept being proposed.

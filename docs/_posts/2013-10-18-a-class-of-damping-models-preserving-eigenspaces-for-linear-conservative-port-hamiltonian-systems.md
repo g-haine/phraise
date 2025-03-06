@@ -5,12 +5,20 @@ date: 2013-10-18 00:00:00 +0100
 permalink: a-class-of-damping-models-preserving-eigenspaces-for-linear-conservative-port-hamiltonian-systems
 year: 2013
 authors: Denis Matignon, Thomas Hélie
-category: journal-article
-tag: Energy storage; Port-Hamiltonian systems; Eigenfunctions; Damping; Caughey series; Partial differential equations; Fractional Laplacian
+category:
+  - proceedings
+tags:
+  - energy storage
+  - port-hamiltonian systems
+  - eigenfunctions
+  - damping
+  - caughey series
+  - partial differential equations
+  - fractional laplacian
 ---
  
 ## Authors
-[Denis Matignon](authors/denis-matignon), [Thomas Hélie](authors/thomas-helie)
+[Denis Matignon](authors/denis_matignon), [Thomas Hélie](authors/thomas_helie)
  
 ## Abstract
 For conservative mechanical systems, the so-called Caughey series are known to define the class of damping matrices that preserve eigenspaces. In particular, for finite-dimensional systems, these matrices prove to be a polynomial of one reduced matrix, which depends on the mass and stiffness matrices. Damping is ensured whatever the eigenvalues of the conservative problem if and only if the polynomial is positive for positive scalar values.This paper first recasts this result in the port-Hamiltonian framework by introducing a port variable corresponding to internal energy dissipation (resistive element). Moreover, this formalism naturally allows to cope with systems including gyroscopic effects (gyrators).Second, generalizations to the infinite-dimensional case are considered. They consist of extending the previous polynomial class to rational functions and more general functions of operators (instead of matrices), once the appropriate functional framework has been defined. In this case, the resistive element is modelled by a given static operator, such as an elliptic PDE. These results are illustrated on several PDE examples: the Webster horn equation, the Bernoulli beam equation; the damping models under consideration are fluid, structural, rational and generalized fractional Laplacian or bi-Laplacian.
@@ -26,7 +34,7 @@ Energy storage; Port-Hamiltonian systems; Eigenfunctions; Damping; Caughey serie
 - **Pages:** 486--494
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2013.10.003](https://doi.org/10.1016/j.ejcon.2013.10.003)
-- **Note:** Lagrangian and Hamiltonian Methods for Modelling and Control
+- **Event:** Lagrangian and Hamiltonian Methods for Modelling and Control
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2020-02-07 00:00:00 +0100
 permalink: power-sharing-control-in-microgrids-an-approach-guaranteeing-large-signal-stability
 year: 2019
 authors: Marco Cupelli, Sriram Karthik Gurumurthy, Siddharth Bhanderi, Lisette Cupelli, Antonello Monti
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Marco Cupelli](authors/marco-cupelli), [Sriram Karthik Gurumurthy](authors/sriram-karthik-gurumurthy), [Siddharth Bhanderi](authors/siddharth-bhanderi), [Lisette Cupelli](authors/lisette-cupelli), [Antonello Monti](authors/antonello-monti)
+[Marco Cupelli](authors/marco_cupelli), [Sriram Karthik Gurumurthy](authors/sriram_karthik_gurumurthy), [Siddharth Bhanderi](authors/siddharth_bhanderi), [Lisette Cupelli](authors/lisette_cupelli), [Antonello Monti](authors/antonello_monti)
  
 ## Abstract
 This paper presents a control scheme for the secondary level voltage control in DC Microgrids consisting of parallel operated converters and Constant Power Loads (CPLs). CPLs might cause a destabilizing effect on the DC bus voltage. The proposed control law uses the Port-Hamiltonian modelling framework applied to the Line Regulating Converters (LRCs) and filters and compensates the deviations of the voltage from its nominal value. This controller uses the concept of energy shaping and passivity; the idea behind this concept is to shape the energy in such way that the resulting closed loop system is Port-Hamiltonian. It is shown that the resulting Port-Controlled Hamiltonian (PCH) systems can be interconnected and large signal stability for all possible operating points can be guaranteed. Simulation results on a Microgrid test system display the good performance and stability of the proposed control scheme.

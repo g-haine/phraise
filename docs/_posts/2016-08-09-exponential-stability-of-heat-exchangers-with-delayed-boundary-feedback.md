@@ -5,12 +5,18 @@ date: 2016-08-09 00:00:00 +0100
 permalink: exponential-stability-of-heat-exchangers-with-delayed-boundary-feedback
 year: 2016
 authors: Hideki Sano
-category: journal-article
-tag: hyperbolic equation; boundary feedback; time lag; stability; semigroup
+category:
+  - proceedings
+tags:
+  - hyperbolic equation
+  - boundary feedback
+  - time lag
+  - stability
+  - semigroup
 ---
  
 ## Authors
-[Hideki Sano](authors/hideki-sano)
+[Hideki Sano](authors/hideki_sano)
  
 ## Abstract
 This paper is concerned with the exponential stability of heat exchangers with delayed boundary feedback. Especially, heat exchangers of counter-flow type/parallel-flow type are treated, where they are respectively described by a coupled hyperbolic equations with time lag in the boundary feedback loop. When time lag does not exist, the exponential stability has been shown for counter-flow type by using the port Hamiltonian approach as well as the spectral analysis, and the conditions for the exponential stability to be assured are given. In this paper, time lag is expressed by using a transport equation, and the port Hamiltonian approach is applied to the whole system. A condition for the system with time lag to be exponentially stable is derived for counter-flow type and parallel-flow type.
@@ -26,7 +32,7 @@ hyperbolic equation; boundary feedback; time lag; stability; semigroup
 - **Pages:** 43--47
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.07.416](https://doi.org/10.1016/j.ifacol.2016.07.416)
-- **Note:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
+- **Event:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
  
 ## BibTeX
 {% highlight bibtex %}

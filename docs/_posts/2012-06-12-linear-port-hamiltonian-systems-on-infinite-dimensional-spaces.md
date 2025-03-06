@@ -5,11 +5,11 @@ date: 2012-06-12 00:00:00 +0100
 permalink: linear-port-hamiltonian-systems-on-infinite-dimensional-spaces
 year: 2012
 authors: Birgit Jacob, Hans J. Zwart
-category: book
+category: books
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-zwart)
+[Birgit Jacob](authors/birgit_jacob), [Hans J. Zwart](authors/hans_zwart)
  
 ## Citation
 - **ISBN:** 9783034803984

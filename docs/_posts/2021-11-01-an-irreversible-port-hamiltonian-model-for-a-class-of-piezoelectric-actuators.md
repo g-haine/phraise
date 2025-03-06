@@ -5,12 +5,18 @@ date: 2021-11-01 00:00:00 +0100
 permalink: an-irreversible-port-hamiltonian-model-for-a-class-of-piezoelectric-actuators
 year: 2021
 authors: Javier Caballeria, Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Port-Hamiltonian system; Piezoelectric Actuator; Non-linear systems; Irreversible Thermodynamics; Hysteresis
+category:
+  - proceedings
+tags:
+  - port-hamiltonian system
+  - piezoelectric actuator
+  - non-linear systems
+  - irreversible thermodynamics
+  - hysteresis
 ---
  
 ## Authors
-[Javier Caballeria](authors/javier-caballeria), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Javier Caballeria](authors/javier_caballeria), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 An irreversible port-Hamiltonian system formulation of a class of piezoelectric actuator with non-negligible entropy increase is proposed. The proposed model encompasses the hysteresis and the irreversible thermodynamic changes due to mechanical friction, electrical resistance and heat exchange between the actuator and the environment. The electromechanical dynamic of the actuator is modeled using a non-linear resistive-capacitive-inductor circuit coupled with a mass-spring-damper system, while the non-linear hysteresis is characterized using hysterons. The thermodynamic behavior of the model is constructed by making the electromechanical coupling temperature dependent, and by characterizing the entropy produced by the irreversible phenomena. By means of numerical simulations it is shown that the proposed model is capable of reproducing the expected behaviors and is in line with reported experimental results.
@@ -26,7 +32,7 @@ Port-Hamiltonian system; Piezoelectric Actuator; Non-linear systems; Irreversibl
 - **Pages:** 436--441
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.10.393](https://doi.org/10.1016/j.ifacol.2021.10.393)
-- **Note:** 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2021- Tokyo, Japan, 15-17 September 2021
+- **Event:** 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2021- Tokyo, Japan, 15-17 September 2021
  
 ## BibTeX
 {% highlight bibtex %}

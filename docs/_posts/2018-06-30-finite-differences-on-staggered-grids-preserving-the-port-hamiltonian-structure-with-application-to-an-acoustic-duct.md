@@ -5,12 +5,19 @@ date: 2018-06-30 00:00:00 +0100
 permalink: finite-differences-on-staggered-grids-preserving-the-port-hamiltonian-structure-with-application-to-an-acoustic-duct
 year: 2018
 authors: Vincent Trenchant, Hector Ramirez, Yann Le Gorrec, Paul Kotyczka
-category: journal-article
-tag: Distributed port-Hamiltonian systems; Wave equation; Staggered grids; Finite-difference method; Midpoint rule; Structured mesh
+category:
+  - articles
+tags:
+  - distributed port-hamiltonian systems
+  - wave equation
+  - staggered grids
+  - finite-difference method
+  - midpoint rule
+  - structured mesh
 ---
  
 ## Authors
-[Vincent Trenchant](authors/vincent-trenchant), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Paul Kotyczka](authors/paul-kotyczka)
+[Vincent Trenchant](authors/vincent_trenchant), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 A finite-difference spatial discretization scheme that preserves the port-Hamiltonian structure of infinite dimensional systems governed by the wave equation is proposed. The scheme is based on the use of staggered grids for the discretization of different variables of the system. The discretization is given in 2D for rectilinear and regular triangular meshes. The proposed method is completed with the midpoint rule for time integration and numerical results are provided, including considerations for interconnection and closed loop behaviors and isotropy comparison between the proposed meshes.

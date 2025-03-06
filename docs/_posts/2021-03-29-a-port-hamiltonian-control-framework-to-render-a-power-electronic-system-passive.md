@@ -5,11 +5,11 @@ date: 2021-03-29 00:00:00 +0100
 permalink: a-port-hamiltonian-control-framework-to-render-a-power-electronic-system-passive
 year: 2022
 authors: Qing-Chang Zhong, Marcio Stefanello
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Qing-Chang Zhong](authors/qing-chang-zhong), [Marcio Stefanello](authors/marcio-stefanello)
+[Qing-Chang Zhong](authors/qing_chang_zhong), [Marcio Stefanello](authors/marcio_stefanello)
  
 ## Abstract
 In this article, a control framework is proposed to render a power electronic system passive by adopting the port-Hamiltonian (pH) systems theory. The system has a power electronic converter, either grid-tied or islanded. The control framework consists of a lossless interconnection block and three control channels. It makes the power converter behave as a virtual synchronous machine (VSM). The three channels are designed to, respectively, generate the frequency and the flux of the VSM and a third quantity that is necessary for forming the lossless interconnection. It is proven that the closed-loop system is passive without the need of assuming constant frequency, constant voltage, and/or constant loads. It is sufficient to only assume that the load can be described as a passive pH model. Hence, the proposed control framework is very generic.

@@ -5,12 +5,17 @@ date: 2021-06-22 00:00:00 +0100
 permalink: decoding-and-realising-flapping-flight-with-port-hamiltonian-system-theory
 year: 2021
 authors: Federico Califano, Ramy Rashad, Alexander Dijkshoorn, Luuk Groot Koerkamp, Riccardo Sneep, Andrea Brugnoli, Stefano Stramigioli
-category: journal-article
-tag: Port-Hamiltonian system; Flapping flight; Energy aware robotics; Fluid–solid interaction
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - flapping flight
+  - energy aware robotics
+  - fluid–solid interaction
 ---
  
 ## Authors
-[Federico Califano](authors/federico-califano), [Ramy Rashad](authors/ramy-rashad), [Alexander Dijkshoorn](authors/alexander-dijkshoorn), [Luuk Groot Koerkamp](authors/luuk-groot-koerkamp), [Riccardo Sneep](authors/riccardo-sneep), [Andrea Brugnoli](authors/andrea-brugnoli), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Federico Califano](authors/federico_califano), [Ramy Rashad](authors/ramy_rashad), [Alexander Dijkshoorn](authors/alexander_dijkshoorn), [Luuk Groot Koerkamp](authors/luuk_groot_koerkamp), [Riccardo Sneep](authors/riccardo_sneep), [Andrea Brugnoli](authors/andrea_brugnoli), [Stefano Stramigioli](authors/stefano_stramigioli)
  
 ## Abstract
 In this paper we envision how to tackle a particularly challenging problem which presents highly interdisciplinary features, ranging from biology to engineering: the dynamic description and technological realisation of flapping flight. This document explains why, in order to gain new insights into this topic, we chose to employ port-Hamiltonian theory. We discuss how the physically unifying character of the framework is able to describe flapping dynamics in all its important aspects. The technological and theoretical challenges of flapping flight are discussed by considering the interplay between different topics. First of all, the formal conceptualisation of the problem is analysed. Second, the features and capabilities of port-Hamiltonian framework as the underneath mathematical language are presented. Subsequently, the discretisation of the resulting model by means of structure-preserving strategies is addressed. Once a reliable numerical model is available, we discuss how control actions can be computed based on high-level specifications aiming at increasing the flight performances. In the last part, the technological tools needed to validate experimentally the models and to equip a robotic bird prototype with the necessary sensing and actuation devices are discussed.

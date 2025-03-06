@@ -5,12 +5,17 @@ date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-model-for-dc-microgrid-lift-systems
 year: 2015
 authors: T. Hung Pham, I. Prodan, D. Genon-Catalot, L. Lefévre
-category: journal-article
-tag: DC microgrid; autonomous lifts; port-Hamiltonian systems; load balancing
+category:
+  - proceedings
+tags:
+  - dc microgrid
+  - autonomous lifts
+  - port-hamiltonian systems
+  - load balancing
 ---
  
 ## Authors
-[T. Hung Pham](authors/thanh-hung-pham), [I. Prodan](authors/ionela-prodan), [D. Genon-Catalot](authors/denis-genon-catalot), [L. Lefévre](authors/laurent-lefevre)
+[T. Hung Pham](authors/thanh_hung_pham), [I. Prodan](authors/ionela_prodan), [D. Genon-Catalot](authors/denis_genon_catalot), [L. Lefévre](authors/laurent_lefevre)
  
 ## Abstract
 This paper considers the problem of modeling a multi-source lift system where power balancing - realized through a power DC bus - should be optimally controlled. The system includes the mechanical part, a Salient Permanent Magnet Synchronous Machine (SPMSM), a battery energy storage unit, a super-capacitor, a solar panel (PV) generation unit as well as the corresponding converters to DC-links. This microgrid is connected to a three-phase utility (external) grid. A port-Hamiltonian model is proposed for the system. It includes the descriptions of nonlinear characteristics and the limitations for each components as well as some typical operation demands.
@@ -26,7 +31,7 @@ DC microgrid; autonomous lifts; port-Hamiltonian systems; load balancing
 - **Pages:** 117--122
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.224](https://doi.org/10.1016/j.ifacol.2015.10.224)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

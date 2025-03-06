@@ -5,12 +5,17 @@ date: 2002-10-14 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems
 year: 2002
 authors: Romeo Ortega, Arjan van der Schaft, Bernhard Maschke, Gerardo Escobar
-category: journal-article
-tag: Nonlinear control; Passivity; Stabilization of nonlinear systems; Hamiltonian systems
+category:
+  - articles
+tags:
+  - nonlinear control
+  - passivity
+  - stabilization of nonlinear systems
+  - hamiltonian systems
 ---
  
 ## Authors
-[Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke), [Gerardo Escobar](authors/gerardo-escobar)
+[Romeo Ortega](authors/romeo_ortega), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Bernhard Maschke](authors/bernhard_maschke), [Gerardo Escobar](authors/gerardo_escobar)
  
 ## Abstract
 Passivity-based control (PBC) is a well-established technique that has shown to be very powerful to design robust controllers for physical systems described by Euler–Lagrange (EL) equations of motion. For regulation problems of mechanical systems, which can be stabilized “shaping” only the potential energy, PBC preserves the EL structure and furthermore assigns a closed-loop energy function equal to the difference between the energy of the system and the energy supplied by the controller. Thus, we say that stabilization is achieved via energy balancing. Unfortunately, these nice properties of EL–PBC are lost when used in other applications which require shaping of the total energy, for instance, in electrical or electromechanical systems, or even some underactuated mechanical devices. Our main objective in this paper is to develop a new PBC theory which extends to a broader class of systems the aforementioned energy-balancing stabilization mechanism and the structure invariance. Towards this end, we depart from the EL description of the systems and consider instead port-controlled Hamiltonian models, which result from the network modelling of energy-conserving lumped-parameter physical systems with independent storage elements, and strictly contain the class of EL models.

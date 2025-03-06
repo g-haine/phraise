@@ -5,12 +5,18 @@ date: 2018-06-18 00:00:00 +0100
 permalink: virtual-differential-passivity-based-control-for-tracking-of-flexible-joints-robots
 year: 2018
 authors: Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana
-category: journal-article
-tag: Differential passivity; contraction analysis; virtual systems; port-Hamiltonian systems; flexible-joints robots.
+category:
+  - proceedings
+tags:
+  - differential passivity
+  - contraction analysis
+  - virtual systems
+  - port-hamiltonian systems
+  - flexible-joints robots.
 ---
  
 ## Authors
-[Rodolfo Reyes-Báez](authors/rodolfo-reyes-baez), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bayu Jayawardhana](authors/bayu-jayawardhana)
+[Rodolfo Reyes-Báez](authors/rodolfo_reyes_baez), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Bayu Jayawardhana](authors/bayu_jayawardhana)
  
 ## Abstract
 Based on recent advances in contraction methods in systems and control, in this paper we present the virtual differential passivity based control (v-dPBC) technique. This is a constructive design method that combines the concept of virtual systems and of differential passivity. We apply the method to the tracking control problem of flexible joints robots (FJRs) which are formulated in the port-Hamiltonian (pH) framework. Simulations on a two degrees of freedom FJR are presented to show the performance of a controller obtained with this approach.
@@ -26,7 +32,7 @@ Differential passivity; contraction analysis; virtual systems; port-Hamiltonian 
 - **Pages:** 169--174
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.048](https://doi.org/10.1016/j.ifacol.2018.06.048)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

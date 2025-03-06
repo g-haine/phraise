@@ -5,11 +5,11 @@ date: 2021-10-21 00:00:00 +0100
 permalink: port-hamiltonian-mathematical-model-of-a-fluid-ring-attitude-system
 year: 2021
 authors: Juan Cristobal Alcaraz Tapia, Carlos E. Castañeda, Héctor Vargas-Rodríguez
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Juan Cristobal Alcaraz Tapia](authors/juan-cristobal-alcaraz-tapia), [Carlos E. Castañeda](authors/carlos-e-castaneda), [Héctor Vargas-Rodríguez](authors/hector-vargas-rodriguez)
+[Juan Cristobal Alcaraz Tapia](authors/juan_cristobal_alcaraz_tapia), [Carlos E. Castañeda](authors/carlos_e_castaneda), [Héctor Vargas-Rodríguez](authors/hector_vargas_rodriguez)
  
 ## Abstract
 In this article, we propose a mathematical model using the port-Hamiltonian formalism for a satellite’s three-axis attitude system comprising fluid rings. Fluid rings are an alternative to reaction wheels used for the same purpose, since, for the same mass, they can exert a greater torque than a reaction wheel as the fluid can circulate the periphery of the satellite. The port-Hamiltonian representation lays the foundation for a posterior controller that is feasible, stable, and robust based on the interconnection of the system to energy shaping and/or damping injection components, and by adding energy routing controllers. The torques exerted by the fluid rings are modeled using linear regression analysis on the experimental data got from a prototype of a fluid ring. Since the dynamics of turbulent flows is complex, the torques obtained by the prototype lead to a simpler first approach, leaving its uncertainties to a controller. Thus, the attitude system model could be tested in a future prototype before considering a spatial environment.

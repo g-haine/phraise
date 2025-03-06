@@ -5,11 +5,11 @@ date: 2014-08-26 00:00:00 +0100
 permalink: reinforcement-learning-for-port-hamiltonian-systems
 year: 2015
 authors: Olivier Sprangers, Robert Babuska, Subramanya P. Nageshrao, Gabriel A. D. Lopes
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Olivier Sprangers](authors/olivier-sprangers), [Robert Babuska](authors/robert-babuska), [Subramanya P. Nageshrao](authors/subramanya-p-nageshrao), [Gabriel A. D. Lopes](authors/gabriel-a-d-lopes)
+[Olivier Sprangers](authors/olivier_sprangers), [Robert Babuska](authors/robert_babuska), [Subramanya P. Nageshrao](authors/subramanya_p_nageshrao), [Gabriel A. D. Lopes](authors/gabriel_a_d_lopes)
  
 ## Abstract
 Passivity-based control (PBC) for port-Hamiltonian systems provides an intuitive way of achieving stabilization by rendering a system passive with respect to a desired storage function. However, in most instances the control law is obtained without any performance considerations and it has to be calculated by solving a complex partial differential equation (PDE). In order to address these issues we introduce a reinforcement learning (RL) approach into the energy-balancing passivity-based control (EB-PBC) method, which is a form of PBC in which the closed-loop energy is equal to the difference between the stored and supplied energies. We propose a technique to parameterize EB-PBC that preserves the systems's PDE matching conditions, does not require the specification of a global desired Hamiltonian, includes performance criteria, and is robust. The parameters of the control law are found by using actor-critic (AC) RL, enabling the search for near-optimal control policies satisfying a desired closed-loop energy landscape. The advantage is that the solutions learned can be interpreted in terms of energy shaping and damping injection, which makes it possible to numerically assess stability using passivity theory. From the RL perspective, our proposal allows for the class of port-Hamiltonian systems to be incorporated in the AC framework, speeding up the learning thanks to the resulting parameterization of the policy. The method has been successfully applied to the pendulum swing-up problem in simulations and real-life experiments.

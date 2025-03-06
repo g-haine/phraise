@@ -5,12 +5,18 @@ date: 2022-05-13 00:00:00 +0100
 permalink: symplectic-hamiltonian-finite-element-methods-for-electromagnetics
 year: 2022
 authors: Manuel A. Sánchez, Shukai Du, Bernardo Cockburn, Ngoc-Cuong Nguyen, Jaime Peraire
-category: journal-article
-tag: Time-dependent Maxwell’s equations; Symplectic Hamiltonian finite element methods; Mixed methods; Discontinuous Galerkin methods; Hybridizable discontinuous Galerkin methods
+category:
+  - articles
+tags:
+  - time-dependent maxwell’s equations
+  - symplectic hamiltonian finite element methods
+  - mixed methods
+  - discontinuous galerkin methods
+  - hybridizable discontinuous galerkin methods
 ---
  
 ## Authors
-[Manuel A. Sánchez](authors/manuel-a-sanchez), [Shukai Du](authors/shukai-du), [Bernardo Cockburn](authors/bernardo-cockburn), [Ngoc-Cuong Nguyen](authors/ngoc-cuong-nguyen), [Jaime Peraire](authors/jaime-peraire)
+[Manuel A. Sánchez](authors/manuel_a_sanchez), [Shukai Du](authors/shukai_du), [Bernardo Cockburn](authors/bernardo_cockburn), [Ngoc-Cuong Nguyen](authors/ngoc_cuong_nguyen), [Jaime Peraire](authors/jaime_peraire)
  
 ## Abstract
 We present several high-order accurate finite element methods for the Maxwell’s equations which provide time-invariant, non-drifting approximations to the total electric and magnetic charges, and to the total energy. We devise these methods by taking advantage of the Hamiltonian structures of the Maxwell’s equations as follows. First, we introduce spatial discretizations of the Maxwell’s equations using mixed finite element, discontinuous Galerkin, and hybridizable discontinuous Galerkin methods to obtain a semi-discrete system of equations which display discrete versions of the Hamiltonian structure of the Maxwell’s equations. Then we discretize the resulting semi-discrete system in time by using a symplectic integrator. This ensures the conservation properties of the fully discrete system of equations. For the Symplectic Hamiltonian HDG method, we present numerical experiments which confirm its optimal orders of convergence for all variables and its conservation properties for the total linear and angular momenta, as well as the total energy. Finally, we discuss the extension of our results to other boundary conditions and to numerical schemes defined by different weak formulations.

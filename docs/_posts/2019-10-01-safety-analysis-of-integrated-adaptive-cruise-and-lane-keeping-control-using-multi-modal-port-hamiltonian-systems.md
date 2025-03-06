@@ -5,12 +5,19 @@ date: 2019-10-01 00:00:00 +0100
 permalink: safety-analysis-of-integrated-adaptive-cruise-and-lane-keeping-control-using-multi-modal-port-hamiltonian-systems
 year: 2020
 authors: Siyuan Dai, Xenofon Koutsoukos
-category: journal-article
-tag: Passivity; Safety analysis; Port-Hamiltonian systems; Automotive systems; Discretization; Quantization
+category:
+  - articles
+tags:
+  - passivity
+  - safety analysis
+  - port-hamiltonian systems
+  - automotive systems
+  - discretization
+  - quantization
 ---
  
 ## Authors
-[Siyuan Dai](authors/siyuan-dai), [Xenofon Koutsoukos](authors/xenofon-koutsoukos)
+[Siyuan Dai](authors/siyuan_dai), [Xenofon Koutsoukos](authors/xenofon_koutsoukos)
  
 ## Abstract
 A modern vehicle can be viewed as a complex cyber–physical system (CPS) where the vehicle dynamics interact with the software control systems. Adaptive cruise control (ACC) and lane keeping control (LKC), in particular, are foundational features for semi-autonomous and autonomous driving. Safety analysis of such systems is extremely important for realizing vehicle autonomy. Ensuring safety in such complex CPS is very challenging, especially in the presence of interactions between multiple subsystems, nonlinearities, hybrid dynamics, and disturbances. This paper presents an approach for safety analysis of automotive control systems using multi-modal port-Hamiltonian systems. The approach uses the Hamiltonian function as a barrier between the energy levels of the safe and unsafe states and employs passivity to prove that trajectories cannot cross this barrier. The approach is applied to the safety analysis of a vehicle dynamics composed with ACC and LKC. The goal is to ensure that the host vehicle will not collide with a lead vehicle and will not skid off of the road. The control design is implemented and evaluated using a hardware-in-the-loop simulation platform. The experimental results demonstrate the safety analysis approach including the impact of implementation effects such as discretization and quantization.

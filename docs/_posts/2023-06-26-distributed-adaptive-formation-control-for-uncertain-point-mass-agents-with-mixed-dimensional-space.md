@@ -5,11 +5,11 @@ date: 2023-06-26 00:00:00 +0100
 permalink: distributed-adaptive-formation-control-for-uncertain-point-mass-agents-with-mixed-dimensional-space
 year: 2023
 authors: M. R. Rosa, B. Jayawardhana
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[M. R. Rosa](authors/m-r-rosa), [B. Jayawardhana](authors/bayu-jayawardhana)
+[M. R. Rosa](authors/m_r_rosa), [B. Jayawardhana](authors/bayu_jayawardhana)
  
 ## Abstract
 We propose distance-based distributed adaptive formation control of point mass agents in port-Hamiltonian (pH) framework that can deal with parameter uncertainties and with mixed dimensional space (2D, 3D or mixed 2D/3D). Adaptive control mechanism is subsequently proposed to maintain formation of uncertain pH systems with unknown damping parameters. Numerical simulations are presented for both known and uncertain point mass agents in mixed 2D/3D space.

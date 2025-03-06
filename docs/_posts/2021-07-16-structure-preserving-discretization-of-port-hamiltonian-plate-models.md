@@ -5,12 +5,18 @@ date: 2021-07-16 00:00:00 +0100
 permalink: structure-preserving-discretization-of-port-hamiltonian-plate-models
 year: 2021
 authors: Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon
-category: journal-article
-tag: Port-Hamiltonian systems; Kirchhoff Plate; Mindlin-Reissner Plate; Mixed Finite Element Method; Numerical convergence
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - kirchhoff plate
+  - mindlin-reissner plate
+  - mixed finite element method
+  - numerical convergence
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea-brugnoli), [Daniel Alazard](authors/daniel-alazard), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger), [Denis Matignon](authors/denis-matignon)
+[Andrea Brugnoli](authors/andrea_brugnoli), [Daniel Alazard](authors/daniel_alazard), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 Methods for discretizing port-Hamiltonian systems are of interest both for simulation and control purposes. Despite the large literature on mixed finite elements, no rigorous analysis of the connections between mixed elements and port-Hamiltonian systems has been carried out. In this paper we demonstrate how existing methods can be employed to discretize dynamical plate problems in a structure-preserving way. Based on convergence results of existing schemes, new error estimates are conjectured; numerical simulations confirm the expected behaviors.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; Kirchhoff Plate; Mindlin-Reissner Plate; Mixed Finite 
 - **Pages:** 359--364
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.06.094](https://doi.org/10.1016/j.ifacol.2021.06.094)
-- **Note:** 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020- Cambridge, United Kingdom
+- **Event:** 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020- Cambridge, United Kingdom
  
 ## BibTeX
 {% highlight bibtex %}

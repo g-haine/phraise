@@ -5,12 +5,17 @@ date: 2015-11-10 00:00:00 +0100
 permalink: complexification-of-dirac-structures-and-generalised-kirchhoff-operators
 year: 2015
 authors: Dimitri Jeltsema, Arjan van der Schaft
-category: journal-article
-tag: Dirac structure; port-Hamiltonian systems; Tellegen's theorem; Kirchhoff operators
+category:
+  - proceedings
+tags:
+  - dirac structure
+  - port-hamiltonian systems
+  - tellegen's theorem
+  - kirchhoff operators
 ---
  
 ## Authors
-[Dimitri Jeltsema](authors/dimitri-jeltsema), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Dimitri Jeltsema](authors/dimitri_jeltsema), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 In the context of port-Hamiltonian systems, Dirac structures are usually defined in terms of a set of effort and flows such that their product exhibits the units of power. On the other hand, power-based Dirac structures can be naturally generalised by the use of operators in a similar fashion as Tellegen's theorem is generalised by the use of so-called Kirchhoff voltage and current operators. The purpose of such operators is to derive, from one set of efforts and ows that belong to a given Dirac structure, another set of quantities that also belong to the same Dirac structure. Examples of such operators are differentiation and integration with respect to time, Fourier and Laplace transform, or replacing the efforts and ows by their complex-valued analytical signal representations. Hence, many different representations of the same Dirac structure are possible. This opens up the possibility to formalise a whole new family of port-Hamiltonian representations beyond the usual time-domain and power-based setting.
@@ -26,7 +31,7 @@ Dirac structure; port-Hamiltonian systems; Tellegen's theorem; Kirchhoff operato
 - **Pages:** 75--80
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.217](https://doi.org/10.1016/j.ifacol.2015.10.217)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2018-11-29 00:00:00 +0100
 permalink: robust-port-hamiltonian-representations-of-passive-systems
 year: 2019
 authors: Christopher A. Beattie, Volker Mehrmann, Paul Van Dooren
-category: journal-article
-tag: Port-Hamiltonian system; Positive real system; Stability radius; Passivity radius; Linear matrix inequality
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - positive real system
+  - stability radius
+  - passivity radius
+  - linear matrix inequality
 ---
  
 ## Authors
-[Christopher A. Beattie](authors/christopher-beattie), [Volker Mehrmann](authors/volker-mehrmann), [Paul Van Dooren](authors/paul-m-van-dooren)
+[Christopher A. Beattie](authors/christopher_beattie), [Volker Mehrmann](authors/volker_mehrmann), [Paul Van Dooren](authors/paul_m_van_dooren)
  
 ## Abstract
 We discuss robust representations of stable, passive systems in particular coordinate systems, focussing especially on port-Hamiltonian representations. Such representations are typically not unique and the degrees of freedom associated with nonuniqueness are related to the solution set of the Kalman–Yakubovich–Popov linear matrix inequality (LMI). In this paper we analyze robustness measures for different possible port-Hamiltonian representations and relate it to quality functions defined in terms of eigenvalues of the matrix solution of the LMI. In particular, we look at the analytic center of this LMI. Within this framework, we derive inequalities for the passivity radius of the given model representation.

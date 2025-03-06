@@ -5,11 +5,11 @@ date: 2022-03-29 00:00:00 +0100
 permalink: telegraph-systems-on-networks-and-port-hamiltonians-iii-explicit-representation-and-long-term-behaviour
 year: 2022
 authors: Jacek Banasiak, Adam Błoch
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jacek Banasiak](authors/jacek-banasiak), [Adam Błoch](authors/adam-bloch)
+[Jacek Banasiak](authors/jacek_banasiak), [Adam Błoch](authors/adam_bloch)
  
 ## Abstract
 In this paper we present an explicit formula for the semigroup governing the solution to hyperbolic systems on a metric graph, satisfying general linear Kirchhoff's type boundary conditions. Further, we use this representation to establish the long term behaviour of the solutions. The crucial role is played by the spectral decomposition of the boundary matrix.

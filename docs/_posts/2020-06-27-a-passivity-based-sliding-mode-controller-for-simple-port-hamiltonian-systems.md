@@ -5,11 +5,11 @@ date: 2020-06-27 00:00:00 +0100
 permalink: a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems
 year: 2021
 authors: Kenji Fujimoto, Naoki Sakata, Ichiro Maruta, Joel Ferguson
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Kenji Fujimoto](authors/kenji-fujimoto), [Naoki Sakata](authors/naoki-sakata), [Ichiro Maruta](authors/ichiro-maruta), [Joel Ferguson](authors/joel-ferguson)
+[Kenji Fujimoto](authors/kenji_fujimoto), [Naoki Sakata](authors/naoki_sakata), [Ichiro Maruta](authors/ichiro_maruta), [Joel Ferguson](authors/joel_ferguson)
  
 ## Abstract
 This letter proposes a novel framework to design a passivity based sliding mode controller for mechanical systems described by simple port-Hamiltonian systems. For this class of systems, passivity based control is often used to design a stabilizing controller which employs a physical energy of the plant system as a Lyapunov function candidate. This letter proves that there exist a special class of passivity based controllers which coincide with sliding mode ones. This approach enables us to obtain sliding mode control systems with explicit energy based Lyapunov functions. The proposed approach requires a kind of matching condition under which the two control schemes coincide with each other. How to relax the condition is also discussed. Furthermore, a numerical example demonstrates how the proposed method works.

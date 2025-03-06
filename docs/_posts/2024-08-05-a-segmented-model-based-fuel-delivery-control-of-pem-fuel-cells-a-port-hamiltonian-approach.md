@@ -5,12 +5,17 @@ date: 2024-08-05 00:00:00 +0100
 permalink: a-segmented-model-based-fuel-delivery-control-of-pem-fuel-cells-a-port-hamiltonian-approach
 year: 2024
 authors: Lalitesh Kumar, Jian Chen, Chengshuai Wu, Yuzhu Chen, Arjan van der Schaft
-category: journal-article
-tag: PEM fuel cells; Port-Hamiltonian systems; Segmented model; Sliding mode observer
+category:
+  - articles
+tags:
+  - pem fuel cells
+  - port-hamiltonian systems
+  - segmented model
+  - sliding mode observer
 ---
  
 ## Authors
-[Lalitesh Kumar](authors/lalitesh-kumar), [Jian Chen](authors/jian-chen), [Chengshuai Wu](authors/chengshuai-wu), [Yuzhu Chen](authors/yuzhu-chen), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Lalitesh Kumar](authors/lalitesh_kumar), [Jian Chen](authors/jian_chen), [Chengshuai Wu](authors/chengshuai_wu), [Yuzhu Chen](authors/yuzhu_chen), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 This paper proposes an extended interconnection and damping assignment passivity-based control technique to control the pressure dynamics in the fuel delivery subsystem of proton exchange membrane fuel cells. The fuel cell stack is a distributed parameter model which can be modeled by partial differential equations. In this paper, the segmentation concept is used to approximate the partial differential equations model by ordinary differential equations model. Therefore, each segment is having multiple ordinary differential equations to obtain the lump-sum model of the segments. Subsequently, a generalized multi-input multi-output lumped parameters model is developed in port-Hamiltonian framework based on mass balance to minimize the modeling error. The modeling errors arise due to the difference between spatially distributed pressures in the segments, and also due to the difference between the actual stack pressure and the measured output pressure of the anode. The segments interconnection feasibility is ensured by maintaining passivity of each segment. With consideration of re-circulation and bleeding of the anode in the modeling, an extended energy-shaping and output tracking state-feedback controller is proposed to control the spatially distributed pressure dynamics in the anode. Furthermore, a sliding mode observer of high order is designed to estimate the unmeasurable pressures with known disturbances. Performance recovery of output feedback control is accomplished with explicit stability analysis. The effectiveness of the proposed control approach is validated by the simulation results.

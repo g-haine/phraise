@@ -5,11 +5,11 @@ date: 2014-08-19 00:00:00 +0100
 permalink: a-kernel-representation-of-dirac-structures-for-infinite-dimensional-systems
 year: 2014
 authors: O.V. Iftime, M. Roman, A. Sandovici
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[O.V. Iftime](authors/o-v-iftime), [M. Roman](authors/m-roman), [A. Sandovici](authors/a-sandovici)
+[O.V. Iftime](authors/o_v_iftime), [M. Roman](authors/m_roman), [A. Sandovici](authors/a_sandovici)
  
 ## Abstract
 Dirac structures are used as the underlying structure to mathematically formalize port-Hamiltonian systems. This note approaches the Dirac structures for infinite-dimensional systems using the theory of linear relations on Hilbert spaces. First, a kernel representation for a Dirac structure is proposed. The one-to-one correspondence between Dirac structures and unitary operators is revisited. Further, the proposed kernel representation and a scattering representation are constructively related. Several illustrative examples are also presented in the paper.

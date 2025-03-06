@@ -5,12 +5,16 @@ date: 2024-09-25 00:00:00 +0100
 permalink: simulation-and-control-of-interactions-in-multi-physics-a-python-package-for-port-hamiltonian-systems
 year: 2024
 authors: Giuseppe Ferraro, Michel Fournié, Ghislain Haine
-category: journal-article
-tag: Port-Hamiltonian systems; Structure-preserving discretization; Python package
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - structure-preserving discretization
+  - python package
 ---
  
 ## Authors
-[Giuseppe Ferraro](authors/giuseppe-ferraro), [Michel Fournié](authors/michel-fournie), [Ghislain Haine](authors/ghislain-haine)
+[Giuseppe Ferraro](authors/giuseppe_ferraro), [Michel Fournié](authors/michel_fournie), [Ghislain Haine](authors/ghislain_haine)
  
 ## Abstract
 The Python package SCRIMP (Simulation and ContRol of Interactions in Multi-Physics) is presented through a collection of port-Hamiltonian systems (pHs) of increasing complexity, stemming from mechanics and thermodynamics. A focus is made on the syntax of SCRIMP allowing the user to easily describe a distributed pHs and its discretization method using the Partitioned Finite Element Method (PFEM) in space, together with the Differential Algebraic Equation (DAE) solver to use. A Graphical User Interface (GUI) is presented.
@@ -26,7 +30,7 @@ Port-Hamiltonian systems; Structure-preserving discretization; Python package
 - **Pages:** 119--124
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.267](https://doi.org/10.1016/j.ifacol.2024.08.267)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

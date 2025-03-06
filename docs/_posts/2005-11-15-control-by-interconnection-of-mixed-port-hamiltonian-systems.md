@@ -5,11 +5,11 @@ date: 2005-11-15 00:00:00 +0100
 permalink: control-by-interconnection-of-mixed-port-hamiltonian-systems
 year: 2005
 authors: A. Macchelli, C. Melchiorri
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro-macchelli), [C. Melchiorri](authors/claudio-melchiorri)
+[A. Macchelli](authors/alessandro_macchelli), [C. Melchiorri](authors/claudio_melchiorri)
  
 ## Abstract
 In this note, the regulation problem for mixed finite and infinite dimensional port Hamiltonian systems (m-pH systems) is discussed. A m-pH system results from the power conserving interconnection of finite and infinite dimensional systems in port Hamiltonian form. In particular, the system given by the interconnection of two finite dimensional systems, one of which is the controller, by means of an infinite dimensional connection is studied. The proposed control methodology is a generalization to the infinite dimensional case of a well-established passivity-based control technique for finite-dimensional port Hamiltonian systems, the control by interconnection and energy shaping, according to which the open-loop energy function is shaped so that a minimum in the desired configuration is introduced. This procedure is possible once the state variable of the controller is related to the state variable of the plant by constraining the state of the closed-loop system on a structural invariant (defined by a set of Casimir functions). In this way, the energy function of the controller, which is freely assignable, becomes a function of the configuration of the plant and, then, it can be easily shaped in order to solve the regulation problem.

@@ -5,12 +5,16 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-simple-robust-controller-for-port-hamiltonian-systems
 year: 2018
 authors: Lassi Paunonen, Yann Le Gorrec, Héctor Ramírez
-category: journal-article
-tag: Port-Hamiltonian system; robust output regulation; controller design
+category:
+  - proceedings
+tags:
+  - port-hamiltonian system
+  - robust output regulation
+  - controller design
 ---
  
 ## Authors
-[Lassi Paunonen](authors/lassi-paunonen), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramírez](authors/hector-ramirez)
+[Lassi Paunonen](authors/lassi_paunonen), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramírez](authors/hector_ramirez)
  
 ## Abstract
 We consider robust output regulation of passive infinite-dimensional linear port-Hamiltonian systems. As the main result, we present a Lyapunov-based proof to show that a passive internal model based low-gain controller solves the control problem for stable port-Hamiltonian systems. The theoretic results are used to construct a controller controller for robust output tracking of a piezoelectric tube model.
@@ -26,7 +30,7 @@ Port-Hamiltonian system; robust output regulation; controller design
 - **Pages:** 92--96
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.024](https://doi.org/10.1016/j.ifacol.2018.06.024)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

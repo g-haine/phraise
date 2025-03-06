@@ -5,11 +5,11 @@ date: 2021-04-28 00:00:00 +0100
 permalink: hamilton-based-stability-criterion-and-attraction-region-estimation-for-grid-tied-inverters-under-large-signal-disturbances
 year: 2022
 authors: Zhen Tian, Yingjie Tang, Xiaoming Zha, Jianjun Sun, Meng Huang, Xikun Fu, Fei Liu
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Zhen Tian](authors/zhen-tian), [Yingjie Tang](authors/yingjie-tang), [Xiaoming Zha](authors/xiaoming-zha), [Jianjun Sun](authors/jianjun-sun), [Meng Huang](authors/meng-huang), [Xikun Fu](authors/xikun-fu), [Fei Liu](authors/fei-liu)
+[Zhen Tian](authors/zhen_tian), [Yingjie Tang](authors/yingjie_tang), [Xiaoming Zha](authors/xiaoming_zha), [Jianjun Sun](authors/jianjun_sun), [Meng Huang](authors/meng_huang), [Xikun Fu](authors/xikun_fu), [Fei Liu](authors/fei_liu)
  
 ## Abstract
 As the crucial interface of renewable energy integration, the stable operation of power converters under grid faults and external disturbances has become much more important. However, synchronization instability of grid-tied inverters has been found caused by the phase-locked loop (PLL) under some critical operating conditions, such as the grid voltage sag, current surge, and transmission line faults. Due to the strong nonlinearity, transient stability analysis of inverters with PLL becomes much more complicated under large-signal perturbations and weak grid conditions. In this article, the large-signal synchronization stability of grid-tied inverters is investigated from the energy perspective. Based on the structural resemblance between the PLL and synchronous generator, the energy function is constructed to establish a port-Hamiltonian model for the grid-tied inverter. For the nonlinear inverter system, an explicit Hamilton-based stability criterion is developed for grid-tied converters according to the concept of dissipativity and LaSalle’s theorem. Moreover, the analytical stability boundary is acquired based on the proposed stability criterion and attraction region estimation, covering both controller parameters and grid parameters. To verify the effectiveness of the proposed analysis approach, extensive simulation and experimental results are presented. Compared with the conventional large-signal methods, the proposed Hamilton-based approach has explicit physical meaning and high accuracy.

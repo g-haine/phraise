@@ -5,11 +5,11 @@ date: 2018-07-20 00:00:00 +0100
 permalink: new-insights-in-the-geometry-and-interconnection-of-port-hamiltonian-systems
 year: 2018
 authors: M Barbero-Liñán, H Cendra, E García-Toraño Andrés, D Martín de Diego
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[M Barbero-Liñán](authors/m-barbero-linan), [H Cendra](authors/h-cendra), [E García-Toraño Andrés](authors/e-garcia-torano-andres), [D Martín de Diego](authors/d-martin-de-diego)
+[M Barbero-Liñán](authors/m_barbero_linan), [H Cendra](authors/h_cendra), [E García-Toraño Andrés](authors/e_garcia_torano_andres), [D Martín de Diego](authors/d_martin_de_diego)
  
 ## Abstract
 We discuss a new geometric construction of port-Hamiltonian systems. Using this framework, we revisit the notion of interconnection providing it with an intrinsic description. Special emphasis on theoretical and applied examples is given throughout the paper to show the applicability and the novel contributions of the proposed framework.

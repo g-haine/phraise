@@ -5,12 +5,20 @@ date: 2021-04-15 00:00:00 +0100
 permalink: motion-planning-for-a-class-of-boundary-controlled-1d-port-hamiltonian-systems
 year: 2020
 authors: Bastian Biedermann, Thomas Meurer
-category: journal-article
-tag: Motion Planning; Port-Hamiltonian System; Boundary Control; Trajectory Planning; Distributed Parameter System; Partial Differential Equation; Wave Equation
+category:
+  - proceedings
+tags:
+  - motion planning
+  - port-hamiltonian system
+  - boundary control
+  - trajectory planning
+  - distributed parameter system
+  - partial differential equation
+  - wave equation
 ---
  
 ## Authors
-[Bastian Biedermann](authors/bastian-biedermann), [Thomas Meurer](authors/thomas-meurer)
+[Bastian Biedermann](authors/bastian_biedermann), [Thomas Meurer](authors/thomas_meurer)
  
 ## Abstract
 A flatness-based approach for motion planning for a class of boundary controlled port-Hamiltonian systems with distributed parameters is presented. The goal is to achieve open-loop output tracking or finite-time transitions between steady states or operating profiles. Introducing new (fictious) boundary conditions in terms of so-called flat outputs, the port-Hamiltonian system is reformulated as a Cauchy problem in the spatial domain. The parametrization of any system variable and input by the flat output is computed using two different solution approaches. By assigning a suitable desired trajectory for the flat output, the input parametrization yields the feed forward control law to solve the motion planning task. The presented theory is applied to the wave equation with spatially varying parameters and is evaluated by numerical calculations and simulations.
@@ -26,7 +34,7 @@ Motion Planning; Port-Hamiltonian System; Boundary Control; Trajectory Planning;
 - **Pages:** 7710--7715
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1516](https://doi.org/10.1016/j.ifacol.2020.12.1516)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

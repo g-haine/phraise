@@ -5,11 +5,11 @@ date: 2007-01-19 00:00:00 +0100
 permalink: position-drift-compensation-in-port-hamiltonian-based-telemanipulation
 year: 2006
 authors: Cristian Secchi, Stefano Stramigioli, Cesare Fantuzzi
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Cristian Secchi](authors/cristian-secchi), [Stefano Stramigioli](authors/stefano-stramigioli), [Cesare Fantuzzi](authors/cesare-fantuzzi)
+[Cristian Secchi](authors/cristian_secchi), [Stefano Stramigioli](authors/stefano_stramigioli), [Cesare Fantuzzi](authors/cesare_fantuzzi)
  
 ## Abstract
 Passivity based bilateral telemanipulation schemes are often subject to a position drift between master and slave if the communication channel is implemented using scattering variables. The magnitude of this position mismatch can be significant during interaction tasks. In this paper we propose a passivity preserving scheme for compensating the position drift arising during contact tasks in port-Hamiltonian based telemanipulation improving the kinematic perception of the remote environment felt by the human operator

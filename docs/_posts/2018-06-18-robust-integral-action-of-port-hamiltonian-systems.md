@@ -5,12 +5,17 @@ date: 2018-06-18 00:00:00 +0100
 permalink: robust-integral-action-of-port-hamiltonian-systems
 year: 2018
 authors: Joel Ferguson, Alejandro Donaire, Romeo Ortega, Richard H. Middleton
-category: journal-article
-tag: Disturbance rejection; Lagrangian and Hamiltonian systems; Robust control applications; Passivity-based control
+category:
+  - proceedings
+tags:
+  - disturbance rejection
+  - lagrangian and hamiltonian systems
+  - robust control applications
+  - passivity-based control
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire), [Romeo Ortega](authors/romeo-ortega), [Richard H. Middleton](authors/richard-h-middleton)
+[Joel Ferguson](authors/joel_ferguson), [Alejandro Donaire](authors/alejandro_donaire), [Romeo Ortega](authors/romeo_ortega), [Richard H. Middleton](authors/richard_h_middleton)
  
 ## Abstract
 Interconnection and damping assignment, passivity-based control (IDA-PBC) has proven to be a successful control technique for the stabilisation of many nonlinear systems. In this paper, we propose a method to robustify a system which has been stabilised using IDA-PBC with respect to constant, matched disturbances via the addition of integral action. The proposed controller extends previous work on the topic by being robust against uncertainty in the damping structure of the system, a quantity which may not be known in many applications.
@@ -26,7 +31,7 @@ Disturbance rejection; Lagrangian and Hamiltonian systems; Robust control applic
 - **Pages:** 181--186
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.050](https://doi.org/10.1016/j.ifacol.2018.06.050)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

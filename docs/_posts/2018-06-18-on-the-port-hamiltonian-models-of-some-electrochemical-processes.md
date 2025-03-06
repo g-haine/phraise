@@ -5,12 +5,16 @@ date: 2018-06-18 00:00:00 +0100
 permalink: on-the-port-hamiltonian-models-of-some-electrochemical-processes
 year: 2018
 authors: Daniel Sbarbaro
-category: journal-article
-tag: Electrochemical reactions; port Hamiltonian; Modeling
+category:
+  - proceedings
+tags:
+  - electrochemical reactions
+  - port hamiltonian
+  - modeling
 ---
  
 ## Authors
-[Daniel Sbarbaro](authors/daniel-sbarbaro)
+[Daniel Sbarbaro](authors/daniel_sbarbaro)
  
 ## Abstract
 Electrochemical processes play an important role in many natural and technological processes; such as, mineral refining, water purification, energy storage and generation. The port-Hamiltonian framework has been widely used for modeling and control design of mechanical and electro-mechanical systems. It has demonstrated to be an important tool to analyze and integrate models of different domains. This work discusses the modeling of isothermal electrochemical processes as port-Hamiltonian systems. Port-Hamiltonian models based on the Gibbs energy function are derived for two examples. They illustrate the main steps to obtain a port-Hamiltonian representation from molar and charge balance equations. Further work will consider non isothermal reactions and the analysis of system considering also diffusion phenomena.
@@ -26,7 +30,7 @@ Electrochemical reactions; port Hamiltonian; Modeling
 - **Pages:** 38--43
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.010](https://doi.org/10.1016/j.ifacol.2018.06.010)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

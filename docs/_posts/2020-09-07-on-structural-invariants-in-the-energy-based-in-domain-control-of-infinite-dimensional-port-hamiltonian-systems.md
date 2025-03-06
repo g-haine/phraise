@@ -5,12 +5,19 @@ date: 2020-09-07 00:00:00 +0100
 permalink: on-structural-invariants-in-the-energy-based-in-domain-control-of-infinite-dimensional-port-hamiltonian-systems
 year: 2020
 authors: Tobias Malzer, Hubert Rams, Markus Schöberl
-category: journal-article
-tag: Infinite-dimensional systems; Partial-differential equations; Differential geometry; Port-Hamiltonian systems; In-domain actuation; Structural invariants
+category:
+  - articles
+tags:
+  - infinite-dimensional systems
+  - partial-differential equations
+  - differential geometry
+  - port-hamiltonian systems
+  - in-domain actuation
+  - structural invariants
 ---
  
 ## Authors
-[Tobias Malzer](authors/tobias-malzer), [Hubert Rams](authors/hubert-rams), [Markus Schöberl](authors/markus-schoberl)
+[Tobias Malzer](authors/tobias_malzer), [Hubert Rams](authors/hubert_rams), [Markus Schöberl](authors/markus_schoberl)
  
 ## Abstract
 This contribution deals with energy-based in-domain control of systems governed by partial differential equations with spatial domain up to dimension two. We exploit a port-Hamiltonian system description based on an underlying jet-bundle formalism, where we restrict ourselves to systems with 2nd-order Hamiltonian. A certain power-conserving interconnection enables the application of a dynamic control law based on structural invariants. Furthermore, we use various examples such as beams and plates with in-domain actuation to demonstrate the capability of our approach.

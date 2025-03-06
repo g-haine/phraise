@@ -5,14 +5,14 @@ date: 2018-04-17 00:00:00 +0100
 permalink: finding-the-nearest-positive-real-system
 year: 2018
 authors: Nicolas Gillis, Punit Sharma
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Nicolas Gillis](authors/nicolas-gillis), [Punit Sharma](authors/punit-sharma)
+[Nicolas Gillis](authors/nicolas_gillis), [Punit Sharma](authors/punit_sharma)
  
 ## Abstract
-The notion of positive realness for linear time-invariant (LTI) dynamical systems, equivalent to passivity, is one of the oldest in system and control theory. In this paper, we consider the problem of finding the nearest positive real (PR) system to a non-PR system: given an LTI control system defined by \\( E \dot{x}=Ax+Bu \\) and \\( y=Cx+Du \\), minimize the Frobenius norm of \\( (\Delta_E,\Delta_A,\Delta_B,\Delta_C,\Delta_D) \\) such that \\( (E+\Delta_E,A+\Delta_A,B+\Delta_B,C+\Delta_C,D+\Delta_D) \\) is a PR system. We first show that a system is extended strictly PR if and only if it can be written as a strict port-Hamiltonian system. This allows us to reformulate the nearest PR system problem into an optimization problem with a simple convex feasible set. We then use a fast gradient method to obtain a nearby PR system to a given non-PR system and illustrate the behavior of our algorithm with several examples. This is, to the best of our knowledge, the first algorithm that computes a nearby PR system to a given non-PR sys...
+The notion of positive realness for linear time-invariant (LTI) dynamical systems, equivalent to passivity, is one of the oldest in system and control theory. In this paper, we consider the problem of finding the nearest positive real (PR) system to a non-PR system: given an LTI control system defined by \( E \dot{x}=Ax+Bu \) and \( y=Cx+Du \), minimize the Frobenius norm of \( (\Delta_E,\Delta_A,\Delta_B,\Delta_C,\Delta_D) \) such that \( (E+\Delta_E,A+\Delta_A,B+\Delta_B,C+\Delta_C,D+\Delta_D) \) is a PR system. We first show that a system is extended strictly PR if and only if it can be written as a strict port-Hamiltonian system. This allows us to reformulate the nearest PR system problem into an optimization problem with a simple convex feasible set. We then use a fast gradient method to obtain a nearby PR system to a given non-PR system and illustrate the behavior of our algorithm with several examples. This is, to the best of our knowledge, the first algorithm that computes a nearby PR system to a given non-PR sys...
  
 ## Citation
 - **Journal:** SIAM Journal on Numerical Analysis

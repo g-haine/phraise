@@ -5,11 +5,11 @@ date: 2019-08-15 00:00:00 +0100
 permalink: ida-pbc-for-underactuated-mechanical-systems-in-implicit-port-hamiltonian-representation
 year: 2019
 authors: Oscar B. Cieza, Johann Reger
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Oscar B. Cieza](authors/oscar-b-cieza), [Johann Reger](authors/johann-reger)
+[Oscar B. Cieza](authors/oscar_b_cieza), [Johann Reger](authors/johann_reger)
  
 ## Abstract
 Partial differential equations (PDEs) persist to be a stumbling block in Interconnection and Damping Assignment Passivity-Based Control (IDA-PBC). Lately, for a class of mechanical systems an energy shaping controller has been investigated that avoids PDEs by exploiting implicit port-Hamiltonian representations. Following the same research line, in this paper we generalize the total energy shaping IDA-PBC for underactuated mechanical systems in the implicit framework and propose an algebraic solution for a class of systems. Besides, under some additional conditions we are also able to produce a respective output feedback. A reduction of the closed loop system in explicit coordinates is presented. We test our results on the inclined cart-pole system and portal crane.

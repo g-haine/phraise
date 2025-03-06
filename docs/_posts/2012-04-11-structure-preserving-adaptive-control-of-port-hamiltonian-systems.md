@@ -5,11 +5,11 @@ date: 2012-04-11 00:00:00 +0100
 permalink: structure-preserving-adaptive-control-of-port-hamiltonian-systems
 year: 2012
 authors: Daniel A. Dirksz, Jacquelien M. A. Scherpen
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Daniel A. Dirksz](authors/daniel_a_dirksz), [Jacquelien M. A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 In this technical note, an adaptive control scheme is presented for general port-Hamiltonian systems. Adaptive control is used to compensate for control errors that are caused by unknown or uncertain parameter values of a system. The adaptive control is also combined with canonical transformation theory for port-Hamiltonian systems. This allows for the adaptive control to be applied on a large class of systems and for being included in the port-Hamiltonian framework.

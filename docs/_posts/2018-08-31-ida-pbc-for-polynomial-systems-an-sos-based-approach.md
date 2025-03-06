@@ -5,12 +5,17 @@ date: 2018-08-31 00:00:00 +0100
 permalink: ida-pbc-for-polynomial-systems-an-sos-based-approach
 year: 2018
 authors: Oscar B. Cieza, Johann Reger
-category: journal-article
-tag: Port-Hamiltonian Systems; IDA-PBC; Polynomial Systems; Sum of Squares
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - ida-pbc
+  - polynomial systems
+  - sum of squares
 ---
  
 ## Authors
-[Oscar B. Cieza](authors/oscar-b-cieza), [Johann Reger](authors/johann-reger)
+[Oscar B. Cieza](authors/oscar_b_cieza), [Johann Reger](authors/johann_reger)
  
 ## Abstract
 Algebraic solutions for the Interconnection and Damping Assignment Passivity-Based Control (IDA-PBC) problem are introduced for a class of affine polynomial systems. These classes do not involve to solve partial differential equations for the matching condition. The proposed procedure leads to conditions that may be solved by using sum of squares (SOS) and semidefinite programming (SDP). Furthermore, some special parametrizations for the desired Hamiltonian function are analyzed and respective reductions into SOS inequalities are provided. Results are validated on a polynomial second order system and the well-known cart-pole system.
@@ -26,7 +31,7 @@ Port-Hamiltonian Systems; IDA-PBC; Polynomial Systems; Sum of Squares
 - **Pages:** 366--371
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.07.306](https://doi.org/10.1016/j.ifacol.2018.07.306)
-- **Note:** 2nd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2018- Guadalajara, Jalisco, Mexico, 20–22 June 2018
+- **Event:** 2nd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2018- Guadalajara, Jalisco, Mexico, 20–22 June 2018
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,16 @@ date: 2017-10-19 00:00:00 +0100
 permalink: eigenstructure-assignment-for-the-position-regulation-of-a-fully-actuated-marine-craft
 year: 2017
 authors: Christina Kazantzidou, Tristan Perez, Francis Valentinis
-category: journal-article
-tag: Marine Control Systems; Port-Hamiltonian Systems; Eigenstructure Assignment
+category:
+  - proceedings
+tags:
+  - marine control systems
+  - port-hamiltonian systems
+  - eigenstructure assignment
 ---
  
 ## Authors
-[Christina Kazantzidou](authors/christina-kazantzidou), [Tristan Perez](authors/tristan-perez), [Francis Valentinis](authors/francis-valentinis)
+[Christina Kazantzidou](authors/christina_kazantzidou), [Tristan Perez](authors/tristan_perez), [Francis Valentinis](authors/francis_valentinis)
  
 ## Abstract
 In this paper, we adopt eigenstructure assignment in order to assist with the tuning of a nonlinear energy-based regulator for the positioning of a marine craft in the horizontal plane. The control law is designed using interconnection and damping assignment passivity-based control (IDA-PBC), which results in passive target dynamics that can be expressed as a port-Hamiltonian system (PHS). IDA-PBC has been applied before with success in a number of different applications. To date, however, there has been minimal development in either tuning tools or techniques that can analytically aid the designer in achieving the desired response characteristics. Good results can be achieved only with intuitive and meticulous manual tuning. By linearising the nonlinear target dynamics in PHS form, we demonstrate that the analysis of the eigenstructure, and consequently its assignment can significantly aid the tuning process. The approach provides a mechanism for simultaneously considering the frequency domain characteristics at a point of linearisation, as well as the time domain characteristics. A demonstration of the method is provided in the form of a design study for position regulation of an underwater vehicle in the horizontal plane.
@@ -26,7 +30,7 @@ Marine Control Systems; Port-Hamiltonian Systems; Eigenstructure Assignment
 - **Pages:** 12398--12403
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.2506](https://doi.org/10.1016/j.ifacol.2017.08.2506)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2020-06-10 00:00:00 +0100
 permalink: modelling-and-control-of-an-ipmc-actuated-flexible-structure-a-lumped-port-hamiltonian-approach
 year: 2020
 authors: Andrea Mattioni, Yongxin Wu, Hector Ramirez, Yann Le Gorrec, Alessandro Macchelli
-category: journal-article
-tag: EAP actuator; IDA-PBC; Passivity based control; Parameter identification; Anti-damping injection
+category:
+  - articles
+tags:
+  - eap actuator
+  - ida-pbc
+  - passivity based control
+  - parameter identification
+  - anti-damping injection
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea-mattioni), [Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Alessandro Macchelli](authors/alessandro-macchelli)
+[Andrea Mattioni](authors/andrea_mattioni), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 This paper deals with the finite dimensional modelling and control of an electro-active polymer (EAP) actuated flexible structure. This model reproduces the basic mechanical properties of a class of one dimensional flexible endoscope. The flexible structure and the EAP actuator are both modelled as port-Hamiltonian systems. The EAP actuator is interconnected with the flexible structure in a power preserving manner such that the global system is again a PHS. Using the obtained model, two passivity based control strategies are applied to derive the controllers which achieve a desired equilibrium configuration with desired dynamic behaviour. An experimental benchmark composed of the Ionic Polymer Metal Composites patches glued to a flexible beam is used to validate the proposed model and control law.

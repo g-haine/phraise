@@ -5,12 +5,17 @@ date: 2021-04-15 00:00:00 +0100
 permalink: robust-output-regulation-of-a-flexible-satellite
 year: 2020
 authors: Thavamani Govindaraj, Jukka-Pekka Humaloja, Lassi Paunonen
-category: journal-article
-tag: Port-Hamiltonian system; stability analysis; output regulation; distributed parameter systems
+category:
+  - proceedings
+tags:
+  - port-hamiltonian system
+  - stability analysis
+  - output regulation
+  - distributed parameter systems
 ---
  
 ## Authors
-[Thavamani Govindaraj](authors/thavamani-govindaraj), [Jukka-Pekka Humaloja](authors/jukka-pekka-humaloja), [Lassi Paunonen](authors/lassi-paunonen)
+[Thavamani Govindaraj](authors/thavamani_govindaraj), [Jukka-Pekka Humaloja](authors/jukka_pekka_humaloja), [Lassi Paunonen](authors/lassi_paunonen)
  
 ## Abstract
 We consider a PDE-ODE model of a satellite and robust output regulation of the corresponding model. The satellite is composed of two flexible solar panels and a rigid center body. Exponential stability of the model is proved using passivity and resolvent estimates in the port-Hamiltonian framework. In addition, we construct a simple low-gain controller for robust output regulation of the satellite model.
@@ -26,7 +31,7 @@ Port-Hamiltonian system; stability analysis; output regulation; distributed para
 - **Pages:** 7795--7800
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1871](https://doi.org/10.1016/j.ifacol.2020.12.1871)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2021-12-16 00:00:00 +0100
 permalink: impedance-control-for-a-flexible-robot-enhanced-with-energy-tanks-in-the-port-hamiltonian-framework
 year: 2021
 authors: Martin Mujica, Alejandro Donaire, Mourad Benoussaad, Jean-Yves Fourquet
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Martin Mujica](authors/martin-mujica), [Alejandro Donaire](authors/alejandro-donaire), [Mourad Benoussaad](authors/mourad-benoussaad), [Jean-Yves Fourquet](authors/jean-yves-fourquet)
+[Martin Mujica](authors/martin_mujica), [Alejandro Donaire](authors/alejandro_donaire), [Mourad Benoussaad](authors/mourad_benoussaad), [Jean-Yves Fourquet](authors/jean_yves_fourquet)
  
 ## Abstract
 In modern robotics, the manipulators are no longer isolated under fully controlled conditions but rather conceived to work in unconstrained environments. Under these operations, compliant control and passivity properties of the robot are of great importance, and thus the system’s energy function plays a crucial role in the control design. In this work, we propose a new design of cartesian impedance control for a flexible robot whose dynamics is represented within the port-Hamiltonian framework. To improve the performance of the system and maximize the capabilities of the robot, the robotic control system is enhanced with energy tanks that allow for temporarily non-passive operations, but ensure the passivity of the extended system. In addition, a secondary controller is designed using the port-Hamiltonian approach to cover the case of redundant robotic manipulators. The performance of the full control system is tested via simulations of the Kuka iiwa manipulator in closed loop with the proposed passivity-based controller. The results show a satisfactory performance of the control system for set-point regulation, external forces, time-varying reference trajectories, and parametric uncertainty.

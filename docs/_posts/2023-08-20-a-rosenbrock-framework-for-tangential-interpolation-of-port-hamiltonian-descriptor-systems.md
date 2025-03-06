@@ -5,11 +5,11 @@ date: 2023-08-20 00:00:00 +0100
 permalink: a-rosenbrock-framework-for-tangential-interpolation-of-port-hamiltonian-descriptor-systems
 year: 2023
 authors: Tim Moser, Boris Lohmann
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Tim Moser](authors/tim-moser), [Boris Lohmann](authors/boris-lohmann)
+[Tim Moser](authors/tim_moser), [Boris Lohmann](authors/boris_lohmann)
  
 ## Abstract
  We present a new structure-preserving model order reduction (MOR) framework for large-scale port-Hamiltonian descriptor systems (pH-DAEs). Our method exploits the structural properties of the Rosenbrock system matrix for this system class and utilizes condensed forms which often arise in applications and reveal the solution behaviour of a system. Provided that the original system has such a form, our method produces reduced-order models (ROMs) of minimal dimension, which tangentially interpolate the original model’s transfer function and are guaranteed to be again in pH-DAE form. This allows the ROM to be safely coupled with other dynamical systems when modelling large system networks, which is useful, for instance, in electric circuit simulation.

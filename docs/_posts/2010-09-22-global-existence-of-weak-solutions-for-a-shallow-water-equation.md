@@ -5,12 +5,17 @@ date: 2010-09-22 00:00:00 +0100
 permalink: global-existence-of-weak-solutions-for-a-shallow-water-equation
 year: 2010
 authors: Zheng Yin, Shaoyong Lai, Yunxi Guo
-category: journal-article
-tag: Global existence; Blow-up; Shallow water model; Local well-posedness
+category:
+  - articles
+tags:
+  - global existence
+  - blow-up
+  - shallow water model
+  - local well-posedness
 ---
  
 ## Authors
-[Zheng Yin](authors/zheng-yin), [Shaoyong Lai](authors/shaoyong-lai), [Yunxi Guo](authors/yunxi-guo)
+[Zheng Yin](authors/zheng_yin), [Shaoyong Lai](authors/shaoyong_lai), [Yunxi Guo](authors/yunxi_guo)
  
 ## Abstract
 A nonlinear shallow water equation, which includes the famous Camassa–Holm (CH) and Degasperis–Procesi (DP) equations as special cases, is investigated. Provided that initial value u 0 ∈ H s ( 1 ≤ s ≤ 3 2 ) , u 0 ∈ L 1 ( R ) and ( 1 − ∂ x 2 ) u 0 does not change sign, it is shown that there exists a unique global weak solution to the equation.

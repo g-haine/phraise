@@ -5,11 +5,11 @@ date: 2023-09-15 00:00:00 +0100
 permalink: discrete-nonlinear-elastodynamics-in-a-port-hamiltonian-framework
 year: 2023
 authors: Philipp L. Kinon, Tobias Thoma, Peter Betsch, Paul Kotyczka
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Philipp L. Kinon](authors/philipp-l-kinon), [Tobias Thoma](authors/tobias-thoma), [Peter Betsch](authors/peter-betsch), [Paul Kotyczka](authors/paul-kotyczka)
+[Philipp L. Kinon](authors/philipp_l_kinon), [Tobias Thoma](authors/tobias_thoma), [Peter Betsch](authors/peter_betsch), [Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 We provide a fully nonlinear port‐Hamiltonian formulation for discrete elastodynamical systems as well as a structure‐preserving time discretization. The governing equations are obtained in a variational manner and represent index‐1 differential algebraic equations. Performing an index reduction, one obtains the port‐Hamiltonian state space model, which features the nonlinear strains as an independent state next to position and velocity. Moreover, hyperelastic material behavior is captured in terms of a nonlinear stored energy function. The model exhibits passivity and losslessness and has an underlying symmetry yielding the conservation of angular momentum. We perform temporal discretization using the midpoint discrete gradient, such that the beneficial properties are inherited by the developed time stepping scheme in a discrete sense. The numerical results obtained in a representative example are demonstrated to validate the findings.

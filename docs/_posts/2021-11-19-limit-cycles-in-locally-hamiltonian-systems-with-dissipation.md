@@ -5,12 +5,19 @@ date: 2021-11-19 00:00:00 +0100
 permalink: limit-cycles-in-locally-hamiltonian-systems-with-dissipation
 year: 2021
 authors: Fernando Castaños, Dmitry Gromov
-category: journal-article
-tag: Port-Hamiltonian systems; passivity; symplectic systems; locally Hamiltonian systems; discontinuous Hamiltonian; limit cycles
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - passivity
+  - symplectic systems
+  - locally hamiltonian systems
+  - discontinuous hamiltonian
+  - limit cycles
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando-castanos), [Dmitry Gromov](authors/dmitry-gromov)
+[Fernando Castaños](authors/fernando_castanos), [Dmitry Gromov](authors/dmitry_gromov)
  
 ## Abstract
 We consider systems that possess a local but non-global port-Hamiltonian representation. We show that non-globality is a consequence of the phase-space topology and that local port-Hamiltonian systems may transgress the dissipation inequality satisfied by their global counterparts. Far from being a defect, non-globality extends the modeling power of port-Hamiltonian systems by providing a framework to model cyclic physical processes for energy conversion and extraction.
@@ -26,7 +33,7 @@ Port-Hamiltonian systems; passivity; symplectic systems; locally Hamiltonian sys
 - **Pages:** 192--197
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.077](https://doi.org/10.1016/j.ifacol.2021.11.077)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

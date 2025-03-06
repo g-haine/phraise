@@ -5,12 +5,18 @@ date: 2018-06-18 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-reduction-of-a-burning-plasma-system
 year: 2018
 authors: Benjamin Vincent, Trang Vu, Nicolas Hudon, Laurent Lefèvre, Denis Dochain
-category: journal-article
-tag: Port-Hamiltonian systems; Tokamak reactors; Modeling; Model reduction; Irreversible thermodynamics
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - tokamak reactors
+  - modeling
+  - model reduction
+  - irreversible thermodynamics
 ---
  
 ## Authors
-[Benjamin Vincent](authors/benjamin-vincent), [Trang Vu](authors/ngoc-minh-trang-vu), [Nicolas Hudon](authors/nicolas-hudon), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Dochain](authors/denis-dochain)
+[Benjamin Vincent](authors/benjamin_vincent), [Trang Vu](authors/ngoc_minh_trang_vu), [Nicolas Hudon](authors/nicolas_hudon), [Laurent Lefèvre](authors/laurent_lefevre), [Denis Dochain](authors/denis_dochain)
  
 ## Abstract
 In this contribution, we develop a structured port-Hamiltonian model for a class of irreversible distributed parameter systems and exploit the obtained formulation for model reduction from dimension 3 to dimension 1 in space. The proposed methodology is motivated by the control of burning plasma profiles in Tokamak reactors. The burning plasma is viewed as a multi-physics system built on Maxwell equations and total mass, species, momentum, energies, and entropy balance equations. Moreover, the system presents nonlinear couplings, especially through transport coefficients, and its dynamic evolves over multiple time scales. The main couplings considered here are the Joule effect, the Lorentz forces, and the fusion reaction kinetics. The port-based modeling formulation and reduction rely on the use of the Gibbs relation, Onsager linear transport theory, Stokes–Dirac structures, and energy preserving geometric reduction.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; Tokamak reactors; Modeling; Model reduction; Irreversi
 - **Pages:** 68--73
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.017](https://doi.org/10.1016/j.ifacol.2018.06.017)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

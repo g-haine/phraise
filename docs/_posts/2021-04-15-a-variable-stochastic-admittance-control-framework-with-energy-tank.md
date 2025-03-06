@@ -5,12 +5,17 @@ date: 2021-04-15 00:00:00 +0100
 permalink: a-variable-stochastic-admittance-control-framework-with-energy-tank
 year: 2020
 authors: Francesco Cordoni, Luca Di Persio, Riccardo Muradore
-category: journal-article
-tag: Variable admittance control; Stochastic port–Hamiltonian systems; Passivity; Ultimately stochastic passive
+category:
+  - proceedings
+tags:
+  - variable admittance control
+  - stochastic port–hamiltonian systems
+  - passivity
+  - ultimately stochastic passive
 ---
  
 ## Authors
-[Francesco Cordoni](authors/francesco-giuseppe-cordoni), [Luca Di Persio](authors/luca-di-persio), [Riccardo Muradore](authors/riccardo-muradore)
+[Francesco Cordoni](authors/francesco_giuseppe_cordoni), [Luca Di Persio](authors/luca_di_persio), [Riccardo Muradore](authors/riccardo_muradore)
  
 ## Abstract
 In this paper we address the problem of implementing a stochastic variable admittance control. Both the variable part of the admittance control and the noise affecting the system may concur to the instability of the system. We propose an energy tank approach, based on the theory of stochastic port–Hamiltonian systems and weak passivity, where the energy dissipated by the stochastic system, if any, is stored into the tank to implement the desired actions. As we consider a non–vanishing noise, we need to consider weaker notion of passivity and convergence. We will show how the notion of weak passivity can be properly defined so that equipping a stochastic system with a suitable energy tank, variable admittance control can be efficiently implemented. We prove that the overall system is weakly passive and it converges toward an invariant measure. Simulation results show the effectiveness of the derived theoretical framework.
@@ -26,7 +31,7 @@ Variable admittance control; Stochastic port–Hamiltonian systems; Passivity; U
 - **Pages:** 9986--9991
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.2716](https://doi.org/10.1016/j.ifacol.2020.12.2716)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

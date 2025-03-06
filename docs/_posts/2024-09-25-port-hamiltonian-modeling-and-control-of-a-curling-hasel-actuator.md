@@ -5,12 +5,17 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-control-of-a-curling-hasel-actuator
 year: 2024
 authors: Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec
-category: journal-article
-tag: Soft actuator; HASEL actuator; Port-Hamiltonian systems; IDA-PBC design
+category:
+  - proceedings
+tags:
+  - soft actuator
+  - hasel actuator
+  - port-hamiltonian systems
+  - ida-pbc design
 ---
  
 ## Authors
-[Nelson Cisneros](authors/nelson-cisneros), [Yongxin Wu](authors/yongxin-wu), [Kanty Rabenorosoa](authors/kanty-rabenorosoa), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Nelson Cisneros](authors/nelson_cisneros), [Yongxin Wu](authors/yongxin_wu), [Kanty Rabenorosoa](authors/kanty_rabenorosoa), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper is concerned with the modeling and control of a curling Hydraulically Amplified Self-healing Electrostatic (HASEL) actuator using the port-Hamiltonian (PH) approach. For that purpose, we use a modular approach and consider the HASEL actuator as an interconnection of elementary subsystems. Each subsystem is modeled by an electrical component consisting of a capacitor in parallel with an inductor connected through the conservation of volume of the moving liquid to a mechanical structure based on inertia, linear, and torsional springs. The parameters are then identified, and the model is validated on the experimental setup. Position control is achieved by using Interconnection and Damping Assignment-Passivity Based Control (IDA-PBC) with integral action (IA) for disturbance rejection. Simulation results show the Efficiency of the proposed controller.
@@ -26,7 +31,7 @@ Soft actuator; HASEL actuator; Port-Hamiltonian systems; IDA-PBC design
 - **Pages:** 143--148
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.271](https://doi.org/10.1016/j.ifacol.2024.08.271)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

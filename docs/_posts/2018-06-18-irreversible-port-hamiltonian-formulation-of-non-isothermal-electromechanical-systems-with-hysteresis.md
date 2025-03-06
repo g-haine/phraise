@@ -5,12 +5,17 @@ date: 2018-06-18 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-formulation-of-non-isothermal-electromechanical-systems-with-hysteresis
 year: 2018
 authors: Hector Ramirez, Yann Le Gorrec, Nandish Calchand
-category: journal-article
-tag: Port-Hamiltonian system; irreversible thermodynamics; hysteresis; micro-mechatronics
+category:
+  - proceedings
+tags:
+  - port-hamiltonian system
+  - irreversible thermodynamics
+  - hysteresis
+  - micro-mechatronics
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Nandish Calchand](authors/nandish-calchand)
+[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Nandish Calchand](authors/nandish_calchand)
  
 ## Abstract
 An irreversible port-Hamiltonian system (IPHS) representation of non-isothermal electromechanical systems with hysteresis is proposed. By representing the hysterisis through hysterons interconnected with the mechanical and electrical components, it is shown that the hysteresis behaves as an irreversible process. This is elegantly captured by the IPHS structure and makes it possible to isolate the different irreversible phenomena of the overall system. Furthermore, it is shown that in general an electromechanical system with hysteresis corresponds to a reversible-IPHS, i.e., the combination of a conservative Hamiltonian system with an irreversible one defined with respect to the same Hamiltonian. A micro-mechatronic example is used to illustrate the approach.
@@ -26,7 +31,7 @@ Port-Hamiltonian system; irreversible thermodynamics; hysteresis; micro-mechatro
 - **Pages:** 19--24
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.005](https://doi.org/10.1016/j.ifacol.2018.06.005)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

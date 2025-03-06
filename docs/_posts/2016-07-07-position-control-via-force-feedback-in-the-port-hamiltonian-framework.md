@@ -5,11 +5,11 @@ date: 2016-07-07 00:00:00 +0100
 permalink: position-control-via-force-feedback-in-the-port-hamiltonian-framework
 year: 2017
 authors: Mauricio Muñoz-Arias, Jacquelien M. A. Scherpen, Daniel A. Dirksz
-category: book-chapter
+category: chapters
 ---
  
 ## Authors
-[Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen), [Daniel A. Dirksz](authors/daniel-a-dirksz)
+[Mauricio Muñoz-Arias](authors/mauricio_munoz_arias), [Jacquelien M. A. Scherpen](authors/jacquelien_m_a_scherpen), [Daniel A. Dirksz](authors/daniel_a_dirksz)
  
 ## Abstract
 In this chapter, position control strategies via force feedback are presented for standard mechanical systems in the port-Hamiltonian framework. The presented control strategies require a set of coordinate transformations, since force feedback in the port-Hamiltonian framework is not straightforward. With the coordinate transformations force feedback can be realized while preserving the port-Hamiltonian structure. The port-Hamiltonian formalism offers a modeling framework with a clear physical structure and other properties that can often be exploited for control design purposes, which is why we believe it is important to preserve the structure. The proposed control strategies offer an alternative solution to position control with more tuning freedom and exploit knowledge of the system dynamics.

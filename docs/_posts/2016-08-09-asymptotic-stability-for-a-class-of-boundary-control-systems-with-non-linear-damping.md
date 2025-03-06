@@ -5,12 +5,17 @@ date: 2016-08-09 00:00:00 +0100
 permalink: asymptotic-stability-for-a-class-of-boundary-control-systems-with-non-linear-damping
 year: 2016
 authors: Hans Zwart, Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Boundary control systems; infinite-dimensional port Hamiltonian systems; asymptotic stability; non-linear control
+category:
+  - proceedings
+tags:
+  - boundary control systems
+  - infinite-dimensional port hamiltonian systems
+  - asymptotic stability
+  - non-linear control
 ---
  
 ## Authors
-[Hans Zwart](authors/hans-zwart), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Hans Zwart](authors/hans_zwart), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 The asymptotic stability of boundary controlled port-Hamiltonian systems defined on a 1D spatial domain interconnected to a class of non-linear boundary damping is addressed. It is shown that if the port-Hamiltonian system is approximately observable, then any boundary damping which behaves linear for small velocities asymptotically stabilizes the system.
@@ -26,7 +31,7 @@ Boundary control systems; infinite-dimensional port Hamiltonian systems; asympto
 - **Pages:** 304--308
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.07.458](https://doi.org/10.1016/j.ifacol.2016.07.458)
-- **Note:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
+- **Event:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
  
 ## BibTeX
 {% highlight bibtex %}

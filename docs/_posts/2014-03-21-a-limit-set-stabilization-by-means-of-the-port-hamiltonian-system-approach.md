@@ -5,14 +5,14 @@ date: 2014-03-21 00:00:00 +0100
 permalink: a-limit-set-stabilization-by-means-of-the-port-hamiltonian-system-approach
 year: 2015
 authors: Carlos Aguilar‐Ibañez, Julio A. Mendoza‐Mendoza, Juan C. Martinez, Jose de Jesus Rubio, Miguel S. Suarez‐Castanon
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Carlos Aguilar‐Ibañez](authors/carlos-aguilar-ibanez), [Julio A. Mendoza‐Mendoza](authors/julio-a-mendoza-mendoza), [Juan C. Martinez](authors/juan-c-martinez), [Jose de Jesus Rubio](authors/jose-de-jesus-rubio), [Miguel S. Suarez‐Castanon](authors/miguel-s-suarez-castanon)
+[Carlos Aguilar‐Ibañez](authors/carlos_aguilar_ibanez), [Julio A. Mendoza‐Mendoza](authors/julio_a_mendoza_mendoza), [Juan C. Martinez](authors/juan_c_martinez), [Jose de Jesus Rubio](authors/jose_de_jesus_rubio), [Miguel S. Suarez‐Castanon](authors/miguel_s_suarez_castanon)
  
 ## Abstract
-A solution to the stabilization problem of a compact set by means of the Interconnection and Damping Assignment Passivity‐Based Control methodology, for an affine nonlinear system, was introduced. To this end, we expressed the closed‐loop system as a Port Hamiltonian system, having the property of almost all their trajectories asymptotically converge to a convenient limit set, except for a set of measure zero. It was carried out by solving a partial differential equation (PDE) or single matching condition, which allows the desired energy level or limit set \*E\* to be shaped explicitly. The control strategy was tested using the magnetic beam balance system and the pendulum actuated by a direct current motor (DC‐motor), having obtained satisfactory results. Copyright © 2014 John Wiley &amp; Sons, Ltd.
+A solution to the stabilization problem of a compact set by means of the Interconnection and Damping Assignment Passivity‐Based Control methodology, for an affine nonlinear system, was introduced. To this end, we expressed the closed‐loop system as a Port Hamiltonian system, having the property of almost all their trajectories asymptotically converge to a convenient limit set, except for a set of measure zero. It was carried out by solving a partial differential equation (PDE) or single matching condition, which allows the desired energy level or limit set *E* to be shaped explicitly. The control strategy was tested using the magnetic beam balance system and the pendulum actuated by a direct current motor (DC‐motor), having obtained satisfactory results. Copyright © 2014 John Wiley &amp; Sons, Ltd.
  
 ## Citation
 - **Journal:** International Journal of Robust and Nonlinear Control

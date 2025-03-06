@@ -5,12 +5,18 @@ date: 2015-11-10 00:00:00 +0100
 permalink: formation-control-of-nonholonomic-wheeled-robots-in-the-presence-of-matched-input-disturbances
 year: 2015
 authors: Ewoud Vos, Matin Jafarian, Claudio De Persis, Jacquelien M.A. Scherpen, Arjan J. van der Schaft
-category: journal-article
-tag: Disturbance rejection; formation control; nonholonomic systems; port-Hamiltonian systems; internal model control
+category:
+  - proceedings
+tags:
+  - disturbance rejection
+  - formation control
+  - nonholonomic systems
+  - port-hamiltonian systems
+  - internal model control
 ---
  
 ## Authors
-[Ewoud Vos](authors/ewoud-vos), [Matin Jafarian](authors/matin-jafarian), [Claudio De Persis](authors/claudio-de-persis), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
+[Ewoud Vos](authors/ewoud_vos), [Matin Jafarian](authors/matin_jafarian), [Claudio De Persis](authors/claudio_de_persis), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 This paper presents a new approach for formation keeping control of a network of nonholonomic wheeled robots within the port-Hamiltonian framework in the presence of matched input disturbances. The formation keeping controller drives the network towards a desired formation by assigning virtual couplings between the robots, while an internal-modelbased controller is designed to locally compensate the disturbance for each of the robots.
@@ -26,7 +32,7 @@ Disturbance rejection; formation control; nonholonomic systems; port-Hamiltonian
 - **Pages:** 63--68
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.215](https://doi.org/10.1016/j.ifacol.2015.10.215)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

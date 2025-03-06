@@ -5,12 +5,18 @@ date: 2013-06-12 00:00:00 +0100
 permalink: families-of-moment-matching-based-structure-preserving-approximations-for-linear-port-hamiltonian-systems
 year: 2013
 authors: Tudor C. Ionescu, Alessandro Astolfi
-category: journal-article
-tag: Model approximation; Model reduction; Physical models; Markov parameters; System order reduction
+category:
+  - articles
+tags:
+  - model approximation
+  - model reduction
+  - physical models
+  - markov parameters
+  - system order reduction
 ---
  
 ## Authors
-[Tudor C. Ionescu](authors/tudor-c-ionescu), [Alessandro Astolfi](authors/alessandro-astolfi)
+[Tudor C. Ionescu](authors/tudor_c_ionescu), [Alessandro Astolfi](authors/alessandro_astolfi)
  
 ## Abstract
 In this paper we propose a solution to the problem of moment matching with preservation of the port Hamiltonian structure, in the framework of time-domain moment matching. We characterize several families of parameterized port Hamiltonian models that match the moments of a given port Hamiltonian system, at a set of finite interpolation points. We also discuss the problem of Markov parameters matching for linear systems as a moment matching problem for descriptor representations associated with the given system, at zero interpolation points. Solving this problem yields families of parameterized reduced order models that achieve Markov parameter matching. Finally, we apply these results to the port Hamiltonian case, resulting in families of parameterized reduced order port Hamiltonian approximations.

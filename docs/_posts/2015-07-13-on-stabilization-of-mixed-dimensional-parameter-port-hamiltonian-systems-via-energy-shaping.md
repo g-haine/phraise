@@ -5,12 +5,18 @@ date: 2015-07-13 00:00:00 +0100
 permalink: on-stabilization-of-mixed-dimensional-parameter-port-hamiltonian-systems-via-energy-shaping
 year: 2015
 authors: H. Rodríguez-Cortés
-category: book-chapter
-tag: Aerodynamic Force; Dirac Structure; Casimir Function; Dissipative Element; Total Energy Function
+category:
+  - chapters
+tags:
+  - aerodynamic force
+  - dirac structure
+  - casimir function
+  - dissipative element
+  - total energy function
 ---
  
 ## Authors
-[H. Rodríguez-Cortés](authors/h-rodriguez-cortes)
+[H. Rodríguez-Cortés](authors/h_rodriguez_cortes)
  
 ## Abstract
 For systems described by Port-Hamiltonian (PH) equations, the Control by Interconnection method, based on the existence of Casimir functions, provides a simple and elegant procedure for stabilization of nonlinear systems with finite dissipation. This work explores the possibility of extending this technique to the case where the plant contains an infinite-dimensional subsystem. Conditions for the existence of Casimir functions reveal the constraints for the application of the design procedure. A simple example of an RLC circuit coupled with an infinite-dimensional transmission line illustrates the main ideas of this paper.

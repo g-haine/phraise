@@ -5,12 +5,19 @@ date: 2021-01-18 00:00:00 +0100
 permalink: a-coupled-incompressible-sph-hamiltonian-sph-solver-for-hydroelastic-fsi-corresponding-to-composite-structures
 year: 2021
 authors: Abbas Khayyer, Yuma Shimizu, Hitoshi Gotoh, Ken Nagashima
-category: journal-article
-tag: Composite structures; Fluid-Structure Interaction; Smoothed Particle Hydrodynamics; Incompressible SPH; Hamiltonian SPH; Hydroelasticity
+category:
+  - articles
+tags:
+  - composite structures
+  - fluid-structure interaction
+  - smoothed particle hydrodynamics
+  - incompressible sph
+  - hamiltonian sph
+  - hydroelasticity
 ---
  
 ## Authors
-[Abbas Khayyer](authors/abbas-khayyer), [Yuma Shimizu](authors/yuma-shimizu), [Hitoshi Gotoh](authors/hitoshi-gotoh), [Ken Nagashima](authors/ken-nagashima)
+[Abbas Khayyer](authors/abbas_khayyer), [Yuma Shimizu](authors/yuma_shimizu), [Hitoshi Gotoh](authors/hitoshi_gotoh), [Ken Nagashima](authors/ken_nagashima)
  
 ## Abstract
 The paper presents a fully Lagrangian meshfree projection-based hydroelastic FSI (Fluid-Structure Interaction) solver for simulation of incompressible fluid flows interacting with laminated composite elastic structures. The presented computational method is configured within the SPH (Smoothed Particle Hydrodynamics) framework. An enhanced version of Incompressible SPH (ISPH) is adopted as the fluid model and a structure model in the context of Hamiltonian SPH (HSPH) is coded for stable, accurate and conservative simulations of laminated composite elastic structures. The fluid-structure coupling is conducted by either the Fluid-Structure Acceleration-based (FSA) or the Pressure Integration (PI) coupling scheme with careful considerations of interface boundary conditions and numerical stability with respect to the discontinuities in densities of constituent laminates of considered composite structures. A distinct superiority of the proposed solver corresponds to absence of any artificial stabilizers or artificial smoothing of material properties at material interfaces. Verifications are coherently performed by conducting several benchmark test cases with exact analytical solutions, first for structures and then for fluid-structure systems. Finally, to portray the potential applicability of the solver for practical engineering applications, a challenging simulation of water slamming on a sandwich hull, comprising of large discontinuities in structural material properties is conducted. To the best knowledge of authors, this paper presents the first hydroelastic FSI solver corresponding to composite structures in the context of SPH.

@@ -5,11 +5,11 @@ date: 2017-10-06 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-control-dc-dc-power-converters
 year: 2017
 authors: David NAVARRO, Domingo CORTES, Martha GALAZ-LARIOS
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[David NAVARRO](authors/david-navarro), [Domingo CORTES](authors/domingo-cortes), [Martha GALAZ-LARIOS](authors/martha-galaz-larios)
+[David NAVARRO](authors/david_navarro), [Domingo CORTES](authors/domingo_cortes), [Martha GALAZ-LARIOS](authors/martha_galaz_larios)
  
 ## Abstract
 Port-Hamiltonian system is a modeling and control methodology developed in recent decades. It is focused on energy transfer among different parts of a system and between systems. Power converters on the other hand are devices that process the electrical energy at its input to deliver energy with the required characteristic at its output. Hence, a Port-Hamiltonian model is especially attractive for control of power converters. Based on previous published results, in this paper, a Port-Hamiltonian approach is proposed for the control of DC-DC power converters. A particular characteristic of the controller here proposed is that a time variable inductor current is employed. As a result a faster and lower overshoot closed loop response is obtained for both the start-up condition and the load disturbance.

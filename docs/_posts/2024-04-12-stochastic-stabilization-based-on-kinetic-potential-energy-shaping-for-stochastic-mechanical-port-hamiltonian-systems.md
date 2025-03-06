@@ -5,11 +5,11 @@ date: 2024-04-12 00:00:00 +0100
 permalink: stochastic-stabilization-based-on-kinetic-potential-energy-shaping-for-stochastic-mechanical-port-hamiltonian-systems
 year: 2024
 authors: Satoshi Satoh, Kenji Fujimoto
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Satoshi Satoh](authors/satoshi-satoh), [Kenji Fujimoto](authors/kenji-fujimoto)
+[Satoshi Satoh](authors/satoshi_satoh), [Kenji Fujimoto](authors/kenji_fujimoto)
  
 ## Abstract
 This paper extends a kinetic-potential energy shaping method to stochastic mechanical port-Hamiltonian systems. The kinetic-potential energy shaping brings a new class of Lyapunov function candidates involving a cross term of the position and the momentum without solving partial differential equations for deterministic port-Hamiltonian systems. However, the conventional kinetic-potential energy shaping does not necessarily work for stochastic port-Hamiltonian systems due to energy increase by stochastic noise. Therefore, we first provide a modification properly compensated by using stochastic generalized canonical transformations. Then, two stochastic stability results are presented. The first result shows a necessary condition for stochastic asymptotic stability for an equilibrium state. The other one shows a necessary condition for stochastic bounded stability for a target state, which is not necessarily an equilibrium point. GRAPHICAL 

@@ -5,12 +5,16 @@ date: 2024-09-25 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-a-coupled-heat-wave-system-formulated-as-an-irreversible-port-hamiltonian-system
 year: 2024
 authors: Antoine Bendimerad-Hohl
-category: journal-article
-tag: Port-Hamiltonian systems; irreversibility; structure-preserving discretization
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - irreversibility
+  - structure-preserving discretization
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl)
+[Antoine Bendimerad-Hohl](authors/antoine_bendimerad-Hohl)
  
 ## Abstract
 The port-Hamiltonian (pH) framework allows one to properly model, interconnect, simulate and control various types of systems. Yet, properly modeling irreversibility remains a challenge as one has to include a nonlinear relation between flows and efforts, leading to a nonlinear Dirac structure. In this work, we will focus on the modelling of a distributed coupling of the heat and wave equations as pH systems. In particular, the representation of the coupled dynamics as an irreversible pH system is presented and its properties discussed. A discretization in space which preserves both the second and first principles of thermodynamics is detailed. Finally some numerical results are presented.
@@ -26,7 +30,7 @@ Port-Hamiltonian systems; irreversibility; structure-preserving discretization
 - **Pages:** 107--112
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.265](https://doi.org/10.1016/j.ifacol.2024.08.265)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

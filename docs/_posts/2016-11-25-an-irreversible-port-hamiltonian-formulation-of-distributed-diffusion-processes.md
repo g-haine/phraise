@@ -5,12 +5,16 @@ date: 2016-11-25 00:00:00 +0100
 permalink: an-irreversible-port-hamiltonian-formulation-of-distributed-diffusion-processes
 year: 2016
 authors: Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Port-Hamiltonian systems; irreversible thermodynamics; infinite dimensional systems
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - irreversible thermodynamics
+  - infinite dimensional systems
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 An infinite dimensional formulation of IPHS is proposed for a general class of mass and heat diffusion processes. The structure of the system is derived from the expression of the internal entropy creation, and just as for the lumped case the IPHS structure is expressed as a function of the distributed thermodynamic driving forces and a positive definite function containing the thermodynamic parameters of the different diffusion processes. The distributed thermodynamic driving forces are expressed as the evaluation of the internal energy density and entropy density on a pseudo-Poisson bracket defined by the skew-adjoint differential operator defining the coupling between the different energy domains. This is analogous to the case of lumped IPHS, where the pseudo-Poisson bracket is defined not by differential operators but by constant (canonical) skew-symmetric matrices.
@@ -26,7 +30,7 @@ Port-Hamiltonian systems; irreversible thermodynamics; infinite dimensional syst
 - **Pages:** 46--51
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.10.752](https://doi.org/10.1016/j.ifacol.2016.10.752)
-- **Note:** 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016- Vigo, Spain, 28—30 September 2016
+- **Event:** 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016- Vigo, Spain, 28—30 September 2016
  
 ## BibTeX
 {% highlight bibtex %}

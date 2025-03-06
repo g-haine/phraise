@@ -5,12 +5,18 @@ date: 2022-11-23 00:00:00 +0100
 permalink: ephs-a-port-hamiltonian-modelling-language
 year: 2022
 authors: Markus Lohmayer, Sigrid Leyendecker
-category: journal-article
-tag: compositionality; applied category theory; operad; multiphysics; thermodynamics
+category:
+  - proceedings
+tags:
+  - compositionality
+  - applied category theory
+  - operad
+  - multiphysics
+  - thermodynamics
 ---
  
 ## Authors
-[Markus Lohmayer](authors/markus-lohmayer), [Sigrid Leyendecker](authors/sigrid-leyendecker)
+[Markus Lohmayer](authors/markus_lohmayer), [Sigrid Leyendecker](authors/sigrid_leyendecker)
  
 ## Abstract
 A prevalent theme throughout science and engineering is the ongoing paradigm shift from isolated systems to open and interconnected systems. Port-Hamiltonian theory developed as a synthesis of geometric mechanics and network theory. The possibility to model complex multiphysical systems via interconnection of simpler components is often advertised as one of its most attractive features. The development of a port-Hamiltonian modelling language however remains a topic which has not been sufficiently addressed. We report on recent progress towards the formalization and implementation of a modelling language for exergetic port-Hamiltonian systems. Its diagrammatic syntax is the operad of undirected wiring diagrams with an interpretation akin to bond graphs. Together with a port-Hamiltonian semantics defined as an operad functor, this enables a modular and hierarchical approach to model specification.
@@ -26,7 +32,7 @@ compositionality; applied category theory; operad; multiphysics; thermodynamics
 - **Pages:** 347--352
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.077](https://doi.org/10.1016/j.ifacol.2022.11.077)
-- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}

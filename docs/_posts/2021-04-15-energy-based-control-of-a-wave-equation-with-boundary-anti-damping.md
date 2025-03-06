@@ -5,12 +5,17 @@ date: 2021-04-15 00:00:00 +0100
 permalink: energy-based-control-of-a-wave-equation-with-boundary-anti-damping
 year: 2020
 authors: A. Macchelli, Y. Le Gorrec, Y. Wu, H. Ramírez
-category: journal-article
-tag: distributed parameter systems; port-Hamiltonian systems; unstable wave equation; passivity-based control
+category:
+  - proceedings
+tags:
+  - distributed parameter systems
+  - port-hamiltonian systems
+  - unstable wave equation
+  - passivity-based control
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro-macchelli), [Y. Le Gorrec](authors/yann-le-gorrec), [Y. Wu](authors/yongxin-wu), [H. Ramírez](authors/hector-ramirez)
+[A. Macchelli](authors/alessandro_macchelli), [Y. Le Gorrec](authors/yann_le_gorrec), [Y. Wu](authors/yongxin_wu), [H. Ramírez](authors/hector_ramirez)
  
 ## Abstract
 In this paper, we consider the asymptotic boundary stabilisation of a one-dimensional wave equation subject to anti-damping at its free end and with control at the opposite one. The control action, implemented through a state feedback or a dynamic controller, is derived by using the port-Hamiltonian framework. More precisely, the standard energy-shaping approach plus damping assignment is adapted to cope with infinite dimensional systems with anti-damping boundary conditions. It is shown how to modify the equivalent dynamic controller to account for the instability propagation along the domain.
@@ -26,7 +31,7 @@ distributed parameter systems; port-Hamiltonian systems; unstable wave equation;
 - **Pages:** 7740--7745
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1527](https://doi.org/10.1016/j.ifacol.2020.12.1527)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

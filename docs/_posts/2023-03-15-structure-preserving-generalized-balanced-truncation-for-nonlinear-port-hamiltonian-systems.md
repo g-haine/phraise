@@ -5,12 +5,18 @@ date: 2023-03-15 00:00:00 +0100
 permalink: structure-preserving-generalized-balanced-truncation-for-nonlinear-port-hamiltonian-systems
 year: 2023
 authors: Arijit Sarkar, Jacquelien M.A. Scherpen
-category: journal-article
-tag: Balancing; Generalized controllability function and generalized observability function; Port-Hamiltonian systems; Structure-preserving model reduction; Nonlinear systems
+category:
+  - articles
+tags:
+  - balancing
+  - generalized controllability function and generalized observability function
+  - port-hamiltonian systems
+  - structure-preserving model reduction
+  - nonlinear systems
 ---
  
 ## Authors
-[Arijit Sarkar](authors/arijit-sarkar), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Arijit Sarkar](authors/arijit_sarkar), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 In this paper, we introduce the notions of generalized controllability and observability functions for stable continuous-time nonlinear systems. We propose a balanced realization for nonlinear port-Hamiltonian systems in which the generalized energy functions are balanced and at the same time the Hamiltonian of the corresponding system is in diagonal form. The reduced order model obtained by truncation of states in the balanced coordinates preserves the port-Hamiltonian structure. For a special case of nonlinear port-Hamiltonian systems with quadratic Hamiltonian, the approach of generalized balanced truncation boils down to a feasibility problem of matrix inequalities. We illustrate the results with an example of a mass–spring–damper system with Coulomb friction.

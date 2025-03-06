@@ -5,12 +5,18 @@ date: 2021-04-15 00:00:00 +0100
 permalink: explicit-port-hamiltonian-formulation-of-bond-graphs-with-dependent-storages
 year: 2020
 authors: Martin Pfeifer, Sven Caspart, Charles Muller, Silja Pfeiffer, Stefan Krebs, Sören Hohmann
-category: journal-article
-tag: Port-Hamiltonian systems; bond graphs; dependent storages; state-space models; model generation
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - bond graphs
+  - dependent storages
+  - state-space models
+  - model generation
 ---
  
 ## Authors
-[Martin Pfeifer](authors/martin-pfeifer), [Sven Caspart](authors/sven-caspart), [Charles Muller](authors/charles-muller), [Silja Pfeiffer](authors/silja-pfeiffer), [Stefan Krebs](authors/stefan-krebs), [Sören Hohmann](authors/soren-hohmann)
+[Martin Pfeifer](authors/martin_pfeifer), [Sven Caspart](authors/sven_caspart), [Charles Muller](authors/charles_muller), [Silja Pfeiffer](authors/silja_pfeiffer), [Stefan Krebs](authors/stefan_krebs), [Sören Hohmann](authors/soren_hohmann)
  
 ## Abstract
 Explicit port-Hamiltonian systems (PHSs) are the starting point for many powerful controller and observer design methods. It is well-known that explicit PHSs can be formulated on the basis of bond graphs. Indeed, the port-Hamiltonian formulation of bond graphs without dependent storages has been well investigated. However, little effort has been made towards bond graphs with dependent storages. This is a problem as dependent storages frequently occur in models from many engineering fields. In this paper, we address the explicit port-Hamiltonian formulation of bond graphs with dependent storages. Our idea is to express the port-Hamiltonian dynamics and output as functions of only the system inputs and independent storages. The main result is a rigorous and constructive method to formulate bond graphs containing dependent storages as explicit PHSs. An acadamic example illustrates and verifies our method.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; bond graphs; dependent storages; state-space models; m
 - **Pages:** 5579--5585
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1570](https://doi.org/10.1016/j.ifacol.2020.12.1570)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

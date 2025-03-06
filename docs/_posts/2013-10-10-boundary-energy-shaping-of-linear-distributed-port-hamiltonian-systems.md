@@ -5,12 +5,17 @@ date: 2013-10-10 00:00:00 +0100
 permalink: boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems
 year: 2013
 authors: Alessandro Macchelli
-category: journal-article
-tag: Distributed port-Hamiltonian systems; Passivity-based control; Energy-Casimir method; Stabilisation
+category:
+  - proceedings
+tags:
+  - distributed port-hamiltonian systems
+  - passivity-based control
+  - energy-casimir method
+  - stabilisation
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 This paper deals with the energy-balancing passivity-based control of linear, lossless, distributed port-Hamiltonian systems. Once inputs and outputs have been chosen to obtain a well-defined boundary control system, the problem is tackled by determining, at first, the class of energy functions that can be employed in the energy-shaping procedure, together with the corresponding boundary state-feedback control actions. To verify the existence of solutions for the closed-loop system, the equivalence between energy-balancing and energy-Casimir methods is shown. For the latter approach, the conditions for having a particular set of Casimir functions in closed-loop are given, and then the existence of the associated semigroup is studied. Since both the methods provide the same control action, the existence result determined for the energy-Casimir method is valid also for the energy-balancing controller. Simple stability is obtained by shaping the open-loop Hamiltonian, while asymptotic stability is ensured if proper “pervasive” (boundary) damping is present. In this respect, a stability criterion is discussed. The methodology is illustrated with the help of a simple example, i.e. a Timoshenko beam with full-actuation on one side, and an inertia on the other side.
@@ -26,7 +31,7 @@ Distributed port-Hamiltonian systems; Passivity-based control; Energy-Casimir me
 - **Pages:** 521--528
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2013.10.002](https://doi.org/10.1016/j.ejcon.2013.10.002)
-- **Note:** Lagrangian and Hamiltonian Methods for Modelling and Control
+- **Event:** Lagrangian and Hamiltonian Methods for Modelling and Control
  
 ## BibTeX
 {% highlight bibtex %}

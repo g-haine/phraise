@@ -5,12 +5,19 @@ date: 2018-05-03 00:00:00 +0100
 permalink: passivity-analysis-and-port-hamiltonian-formulation-of-the-muller-achenbach-seelecke-model-for-shape-memory-alloys-the-isothermal-case
 year: 2018
 authors: gianluca Rizzello, David Naso, Stefan Seelecke
-category: journal-article
-tag: Shape Memory Alloy; SMA; Müller-Achenbach-Seelecke Model; Passivity; Port-Hamiltonian Systems; Hysteresis
+category:
+  - proceedings
+tags:
+  - shape memory alloy
+  - sma
+  - müller-achenbach-seelecke model
+  - passivity
+  - port-hamiltonian systems
+  - hysteresis
 ---
  
 ## Authors
-[gianluca Rizzello](authors/gianluca-rizzello), [David Naso](authors/david-naso), [Stefan Seelecke](authors/stefan-seelecke)
+[gianluca Rizzello](authors/gianluca_rizzello), [David Naso](authors/david_naso), [Stefan Seelecke](authors/stefan_seelecke)
  
 ## Abstract
 In this work we investigate passivity of the Müller-Achenbach-Seelecke Model for shape memory alloy (SMA) wires. Such a model represents an effective control-oriented tool to describe the hysteretic dynamics of SMAs, but its highly complex structure makes it difficult to analyze fundamental properties such as energetic consistency, i.e., passivity. Focusing on the isothermal case, we propose a suitable storage function which permits to analyze passivity of the SMA model and to quantify energy dissipation due to hysteresis. In addition, a port-Hamiltonian representation of the resulting passive model is developed. This result permits to quantitatively assess energetic performance of SMAs when operating, e.g., as passive non-viscous dampers, and opens up the possibility of using powerful tools from port-Hamiltonian theory to analyze and design control systems for SMA actuators.
@@ -26,7 +33,7 @@ Shape Memory Alloy; SMA; Müller-Achenbach-Seelecke Model; Passivity; Port-Hamil
 - **Pages:** 713--718
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.03.121](https://doi.org/10.1016/j.ifacol.2018.03.121)
-- **Note:** 9th Vienna International Conference on Mathematical Modelling
+- **Event:** 9th Vienna International Conference on Mathematical Modelling
  
 ## BibTeX
 {% highlight bibtex %}

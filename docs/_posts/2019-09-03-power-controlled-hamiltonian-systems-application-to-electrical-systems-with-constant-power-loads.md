@@ -5,12 +5,17 @@ date: 2019-09-03 00:00:00 +0100
 permalink: power-controlled-hamiltonian-systems-application-to-electrical-systems-with-constant-power-loads
 year: 2019
 authors: Pooya Monshizadeh, Juan E. Machado, Romeo Ortega, Arjan van der Schaft
-category: journal-article
-tag: Port-Hamiltonian systems; Passivity theory; Stability of nonlinear systems; Constant power loads
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - passivity theory
+  - stability of nonlinear systems
+  - constant power loads
 ---
  
 ## Authors
-[Pooya Monshizadeh](authors/pooya-monshizadeh), [Juan E. Machado](authors/juan-e-machado), [Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Pooya Monshizadeh](authors/pooya_monshizadeh), [Juan E. Machado](authors/juan_e_machado), [Romeo Ortega](authors/romeo_ortega), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 We study a type of port-Hamiltonian system in which the controller or disturbance is not applied to the flow variables, but to the systems power balance equation—a scenario that appears in many practical applications. A suitable framework is provided to model these systems and to investigate their shifted passivity properties, based on which a stability analysis is carried out. The applicability of the results is illustrated with the important problem of stability analysis of electrical circuits with constant power loads.

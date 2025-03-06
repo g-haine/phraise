@@ -5,11 +5,11 @@ date: 2011-09-28 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-systems-with-memory
 year: 2012
 authors: Dimitri Jeltsema, Arnau Doria-Cerezo
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Dimitri Jeltsema](authors/dimitri-jeltsema), [Arnau Doria-Cerezo](authors/arnau-doria-cerezo)
+[Dimitri Jeltsema](authors/dimitri_jeltsema), [Arnau Doria-Cerezo](authors/arnau_doria_cerezo)
  
 ## Abstract
 In this paper, we consider memristors, meminductors, and memcapacitors and their properties as port-Hamiltonian systems. The port-Hamiltonian formalism naturally arises from network modeling of physical systems in a variety of domains. Exposing the relation between the energy storage, dissipation, and interconnection structure, this framework underscores the physics of the system. One of the strong aspects of the port-Hamiltonian formalism is that a power-preserving interconnection between port-Hamiltonian systems results in another port-Hamiltonian system with composite energy, dissipation, and interconnection structure. This feature can advantageously be used to model, analyze, and simulate networks consisting of complex interconnections of both conventional and memory circuit elements. Furthermore, the port-Hamiltonian formalism naturally extends the fundamental properties of the memory elements beyond the realm of electrical circuits.

@@ -5,12 +5,18 @@ date: 2007-11-27 00:00:00 +0100
 permalink: bond-graph-formulation-of-an-optimal-control-problem-for-linear-time-invariant-systems
 year: 2008
 authors: Wilfrid Marquis-Favre, Omar Mouhib, Bogdan Chereji, Daniel Thomasset, Jérôme Pousin, Martine Picq
-category: journal-article
-tag: Optimal control; Bond graph; Pontryagin maximum principle; Port-Hamiltonian system; Bicausality
+category:
+  - articles
+tags:
+  - optimal control
+  - bond graph
+  - pontryagin maximum principle
+  - port-hamiltonian system
+  - bicausality
 ---
  
 ## Authors
-[Wilfrid Marquis-Favre](authors/wilfrid-marquis-favre), [Omar Mouhib](authors/omar-mouhib), [Bogdan Chereji](authors/bogdan-chereji), [Daniel Thomasset](authors/daniel-thomasset), [Jérôme Pousin](authors/jerome-pousin), [Martine Picq](authors/martine-picq)
+[Wilfrid Marquis-Favre](authors/wilfrid_marquis_favre), [Omar Mouhib](authors/omar_mouhib), [Bogdan Chereji](authors/bogdan_chereji), [Daniel Thomasset](authors/daniel_thomasset), [Jérôme Pousin](authors/jerome_pousin), [Martine Picq](authors/martine_picq)
  
 ## Abstract
 A recent communication has proposed a conjectural procedure for representing a category of optimal control problems in bond graph language [W. Marquis-Favre, B. Chereji, D. Thomasset, S. Scavarda, Bond graph representation of an optimal control problem: the dc motor example, in: ICBGM’05 International Conference of Bond Graph Modelling and Simulation, New Orleans, USA, January 23–27, 2005, pp. 239–244]. This paper aims at providing a fundamental theory for proving the effectiveness of this procedure. The class of problem that the procedure can deal with has been extended. Its application was formerly restricted to linear time invariant siso system. The systems considered now are linear time invariant mimo systems. The optimization objective is the minimization of dissipation and input. The developments concerning the optimal control problem are based on the Pontryagin maximum principle and the proof of the effectiveness of the procedure makes a broad use of the port-Hamiltonian concept. As a result, the bond graph representation of the given optimization problem enables the analytical system, which provides the optimal solution, to be derived. The work presented in this paper is the first step in research with perspectives towards formulating dynamic optimization problems in bond graph and, towards coupling this formulation with a sizing methodology using bond graph language and a state-space inverse model approach. This sizing methodology, however, is not the topic of this paper and thus is not presented here.

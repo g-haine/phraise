@@ -5,12 +5,18 @@ date: 2023-09-28 00:00:00 +0100
 permalink: port-hamiltonian-framework-in-power-systems-domain-a-survey
 year: 2023
 authors: Maris Tõnso, Vadim Kaparin, Juri Belikov
-category: journal-article
-tag: Port-Hamiltonian systems; Power systems; Microgrids; Passivity based control; Interconnection and damping assignment
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - power systems
+  - microgrids
+  - passivity based control
+  - interconnection and damping assignment
 ---
  
 ## Authors
-[Maris Tõnso](authors/maris-tonso), [Vadim Kaparin](authors/vadim-kaparin), [Juri Belikov](authors/juri-belikov)
+[Maris Tõnso](authors/maris_tonso), [Vadim Kaparin](authors/vadim_kaparin), [Juri Belikov](authors/juri_belikov)
  
 ## Abstract
 Many nonlinear physical phenomena, including various power systems, can be modeled, analyzed, and controlled using the framework of port-Hamiltonian systems. Moreover, this framework can offer more advanced methods to cope with modern challenges in the energy sector. This paper presents a comprehensive and systematic survey of recent studies on the application of the port-Hamiltonian approach to power systems. Over a hundred of relevant research works are reviewed to show the vast capabilities of this approach and point out its possible gaps. The works are classified according to the type of power systems under study. The analysis of the articles shows that the vast majority of them are dedicated to controller design, a much smaller part of the works deals with the modeling and stability issues, and only a few consider the problem of optimal control. Moreover, the paper discusses current challenges and future trends in this direction.

@@ -5,12 +5,19 @@ date: 2022-08-04 00:00:00 +0100
 permalink: a-3d-sph-based-entirely-lagrangian-meshfree-hydroelastic-fsi-solver-for-anisotropic-composite-structures
 year: 2022
 authors: Abbas Khayyer, Yuma Shimizu, Hitoshi Gotoh, Shunsuke Hattori
-category: journal-article
-tag: Hydroelastic fluid-structure interaction; Incompressible sph; Hamiltonian sph; Anisotropic materials; Composite structures; Three-dimensional simulations
+category:
+  - articles
+tags:
+  - hydroelastic fluid-structure interaction
+  - incompressible sph
+  - hamiltonian sph
+  - anisotropic materials
+  - composite structures
+  - three-dimensional simulations
 ---
  
 ## Authors
-[Abbas Khayyer](authors/abbas-khayyer), [Yuma Shimizu](authors/yuma-shimizu), [Hitoshi Gotoh](authors/hitoshi-gotoh), [Shunsuke Hattori](authors/shunsuke-hattori)
+[Abbas Khayyer](authors/abbas_khayyer), [Yuma Shimizu](authors/yuma_shimizu), [Hitoshi Gotoh](authors/hitoshi_gotoh), [Shunsuke Hattori](authors/shunsuke_hattori)
  
 ## Abstract
 This paper presents the first 3D entirely Lagrangian meshfree hydroelastic FSI (Fluid-Structure Interaction) solver for reproduction of incompressible fluid flows interacting with anisotropic/isotropic composite elastic structures as well as the first Hamiltonian SPH for anisotropic structures. To achieve this development, we have carefully (i) reformulated the HSPH (Hamiltonian Smoothed Particle Hydrodynamics) isotropic structure model with consideration of material anisotropy of structures, (ii) extended the 2D HSPH structure model and corresponding ISPH-HSPH FSI solver for 3D composite structures and their interactions with incompressible fluids. Regarding the advancement (i), the reformulation from isotropic to anisotropic structure model has been conducted through a careful revisit on the basis of stress-strain responses. The fourth-order elasticity tensor and transformation (rotation) of coordinate systems are considered for development of the anisotropic HSPH structure model. Then, the 3D HSPH structure model for anisotropic/composite structures is coupled with a refined projection-based Incompressible SPH (ISPH) fluid model. The proposed structure model and FSI solver are capable of handling large material anisotropies and discontinuities at material interfaces without use of any artificial stabilizers/smoothing schemes. Validations are conducted coherently. First, the newly proposed anisotropic HSPH structure model is verified through both 2D/3D classical benchmark tests with exact theoretical solutions. Then, followed by validations of HSPH for 3D composites, the corresponding coupled ISPH-HSPH FSI solver is applied to two hydroelastic FSI tests including slamming of an anisotropic composite hull.

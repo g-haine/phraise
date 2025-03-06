@@ -5,11 +5,11 @@ date: 2016-07-27 00:00:00 +0100
 permalink: on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems
 year: 2017
 authors: Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez, Hans Zwart
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez), [Hans Zwart](authors/hans-zwart)
+[Alessandro Macchelli](authors/alessandro_macchelli), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez), [Hans Zwart](authors/hans_zwart)
  
 ## Abstract
 This paper is concerned with the energy shaping of 1-D linear boundary controlled port-Hamiltonian systems. The energy-Casimir method is first proposed to deal with power preserving systems. It is shown how to use finite dimensional dynamic boundary controllers and closed-loop structural invariants to partially shape the closed-loop energy function and how such controller finally reduces to a state feedback. When dissipative port-Hamiltonian systems are considered, the Casimir functions do not exist anymore (dissipation obstacle) and the immersion (via a dynamic controller)/reduction (through invariants) method cannot be applied. The main contribution of this paper is to show how to use the same ideas and state functions to shape the closed-loop energy function of dissipative systems through direct state feedback i.e. without relying on a dynamic controller and a reduction step. In both cases, the existence of solution and the asymptotic stability (by additional damping injection) of the closed-loop system are proven. The general theory and achievable closed-loop performances are illustrated with the help of a concluding example, the boundary stabilization of a longitudinal beam vibrations.

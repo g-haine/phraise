@@ -5,12 +5,18 @@ date: 2007-10-05 00:00:00 +0100
 permalink: an-internal-model-approach-to-implicit-fault-tolerant-control-for-port-hamiltonian-systems
 year: 2007
 authors: Luca Gentili, Andrea Paoli, Claudio Bonivento
-category: book-chapter
-tag: Internal Model; Global Asymptotical Stability; Control System Technology; Exogenous Disturbance; Sylvester Equation
+category:
+  - chapters
+tags:
+  - internal model
+  - global asymptotical stability
+  - control system technology
+  - exogenous disturbance
+  - sylvester equation
 ---
  
 ## Authors
-[Luca Gentili](authors/luca-gentili), [Andrea Paoli](authors/andrea-paoli), [Claudio Bonivento](authors/claudio-bonivento)
+[Luca Gentili](authors/luca_gentili), [Andrea Paoli](authors/andrea_paoli), [Claudio Bonivento](authors/claudio_bonivento)
  
 ## Abstract
 In this paper an internal model based approach to implicit Fault Tolerant Control for port-Hamiltonian systems is presented: the main idea is to cast the problem into a regulation problem in presence of input disturbances representing exogenous effects of possible faults; this can be solved following an adaptive internal model based approach. The theoretical machinery exploited is specialized for the energy-based port-Hamiltonian formalism in order to prove the global asymptotical stability of the solution. Finally an application example is presented in order to deeply point out the effectiveness of the design procedure presented: a Fault Tolerant Control problem is solved for a magnetic levitation system affected by periodic voltage disturbances.

@@ -5,12 +5,19 @@ date: 2018-06-18 00:00:00 +0100
 permalink: dirac-structures-in-nonequilibrium-thermodynamics
 year: 2018
 authors: Hiroaki Yoshimura, François Gay-Balmaz
-category: journal-article
-tag: Nonequilibrium thermodynamics; Dirac structures; nonlinear nonholonomic constraints; irreversible processes; Lagrange-Dirac systems; Hamilton-Dirac systems
+category:
+  - proceedings
+tags:
+  - nonequilibrium thermodynamics
+  - dirac structures
+  - nonlinear nonholonomic constraints
+  - irreversible processes
+  - lagrange-dirac systems
+  - hamilton-dirac systems
 ---
  
 ## Authors
-[Hiroaki Yoshimura](authors/hiroaki-yoshimura), [François Gay-Balmaz](authors/francois-gay-balmaz)
+[Hiroaki Yoshimura](authors/hiroaki_yoshimura), [François Gay-Balmaz](authors/francois_gay_balmaz)
  
 ## Abstract
 In this paper, it is shown that the evolution equations for nonequilibrium thermodynamics admit an intrinsic formulation in terms of Dirac structures, both on the Lagrangian and the Hamiltonian settings. The Dirac structures are constructed on the Pontryagin bundle P = TQ ⊕ T⁎Q, where Q = Q × ℝ is the thermodynamic configuration manifold. In particular, it is illustrated how one can develop Dirac structures that include nonlinear nonholonomic constraints originated from the entropy production in each irreversible process. Lastly, we also present the induced Dirac structure on N = T⁎Q × ℝ together with the associated Lagrange-Dirac and Hamilton-Dirac dynamical formulations in analogy with nonholonomic mechanics.
@@ -26,7 +33,7 @@ Nonequilibrium thermodynamics; Dirac structures; nonlinear nonholonomic constrai
 - **Pages:** 31--37
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.009](https://doi.org/10.1016/j.ifacol.2018.06.009)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

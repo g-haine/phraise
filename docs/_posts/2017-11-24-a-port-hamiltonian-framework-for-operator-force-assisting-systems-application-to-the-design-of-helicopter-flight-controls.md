@@ -5,12 +5,18 @@ date: 2017-11-24 00:00:00 +0100
 permalink: a-port-hamiltonian-framework-for-operator-force-assisting-systems-application-to-the-design-of-helicopter-flight-controls
 year: 2018
 authors: Matthieu Touron, Jean-Yves Dieulot, Julien Gomand, Pierre-Jean Barre
-category: journal-article
-tag: Port-Hamiltonian; Helicopter; Flight-axis control; Assisting system; Passivity
+category:
+  - articles
+tags:
+  - port-hamiltonian
+  - helicopter
+  - flight-axis control
+  - assisting system
+  - passivity
 ---
  
 ## Authors
-[Matthieu Touron](authors/matthieu-touron), [Jean-Yves Dieulot](authors/jean-yves-dieulot), [Julien Gomand](authors/julien-gomand), [Pierre-Jean Barre](authors/pierre-jean-barre)
+[Matthieu Touron](authors/matthieu_touron), [Jean-Yves Dieulot](authors/jean_yves_dieulot), [Julien Gomand](authors/julien_gomand), [Pierre-Jean Barre](authors/pierre_jean_barre)
  
 ## Abstract
 An energetic representation of helicopter flight controls, viewed as an Operator Assisting System, is proposed within the Port-Hamiltonian framework. The assisting controller modifies the dynamical behavior between the pilot stick and the swashplate, linked through a Continuous Variable Transmission, by enforcing force scaling and providing appropriate force feedback to the operator. Generic sufficient conditions are given on the assistance location and structure which allow the assisted system to be dissipative, hence providing nice stability and power scaling properties. Results are applied to the design of an assistance for a simplified flight control system. Simulations show the relevance of the method and are compared to real-life results.

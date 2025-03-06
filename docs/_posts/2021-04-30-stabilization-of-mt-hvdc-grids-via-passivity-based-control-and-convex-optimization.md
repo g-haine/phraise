@@ -5,12 +5,19 @@ date: 2021-04-30 00:00:00 +0100
 permalink: stabilization-of-mt-hvdc-grids-via-passivity-based-control-and-convex-optimization
 year: 2021
 authors: Oscar Danilo Montoya, Walter Gil-González, Alejandro Garces, Federico Serra, Jesus C. Hernández
-category: journal-article
-tag: Convex optimization; Direct-current networks; Passivity-based control; Hierarchical control; Port-Hamiltonian formulation; Stabilization of electrical networks
+category:
+  - articles
+tags:
+  - convex optimization
+  - direct-current networks
+  - passivity-based control
+  - hierarchical control
+  - port-hamiltonian formulation
+  - stabilization of electrical networks
 ---
  
 ## Authors
-[Oscar Danilo Montoya](authors/oscar-danilo-montoya), [Walter Gil-González](authors/walter-gil-gonzale), [Alejandro Garces](authors/alejandro-garces-ruiz), [Federico Serra](authors/federico-m-serra), [Jesus C. Hernández](authors/jesus-c-hernandez)
+[Oscar Danilo Montoya](authors/oscar_danilo_montoya), [Walter Gil-González](authors/walter_gil_gonzale), [Alejandro Garces](authors/alejandro_garces_ruiz), [Federico Serra](authors/federico_m_serra), [Jesus C. Hernández](authors/jesus_c_hernandez)
  
 ## Abstract
 This paper presents a model for stabilizing multi-terminal high voltage direct-current (MT-HVDC) networks with constant power terminals (CPTs) interfaced with power electronic converters. A hierarchical structure of hierarchical control is developed, which guarantees a stable operation under load variations. This structure includes a port-Hamiltonian formulation representing the network dynamics and a passivity-based control (PBC) for the primary control. This control guarantees stability according to Lyapunov’s theory. Next, a convex optimal power flow formulation based on semidefinite programming (SDP) defines the control’s set point in the secondary/tertiary control. The proposed stabilization scheme is general for both point-to-point HVDC systems and MT-HVDC grids. Simulation results in MATLAB/Simulink demonstrate the stability of the primary control and the optimal performance of the secondary/tertiary control, considering three simulation scenarios on a reduced version of the CIGRE MT-HVDC test system: (i) variation of generation and load, (ii) short-circuit events with different fault resistances and (iii) grid topology variation. These simulations prove the applicability and efficiency of the proposed approach.

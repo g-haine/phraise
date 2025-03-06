@@ -2,14 +2,14 @@
 layout: post
 title: "Boundary \\( L^2 \\)-gain stabilisation of a distributed Port-Hamiltonian system with rectangular domain"
 date: 2016-02-29 00:00:00 +0100
-permalink: boundary-l-2-gain-stabilisation-of-a-distributed-port-hamiltonian-system-with-rectangular-domain
+permalink: boundary-l-lt-inf-gt-2-lt-inf-gt-gain-stabilisation-of-a-distributed-port-hamiltonian-system-with-rectangular-domain
 year: 2015
 authors: Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
+[Alessandro Macchelli](authors/alessandro_macchelli), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 The main contribution of this paper is the development of a boundary control law for a class of distributed port-Hamiltonian systems with rectangular spatial domain that is able not only to shape the closed-loop Hamiltonian, but also to achieve a specific L2-gain between a pair of input and output signals of interest. The energy-shaping control action is based on the so-called control by interconnection and Casimir generation methodology (energy-Casimir method), here extended to deal with distributed port-Hamiltonian systems with 2D domain. On the other hand, the L2-gain property is obtained via damping injection by modulating a gain associated to a dissipative relation. Such approach takes inspiration from the Passivity Observer / Passivity Controller (PO / PC) technique originally developed for telemanipulation systems. Even if the proposed framework is quite abstract and general, possible target applications deal with the stabilisation of flexible structures, or with the stabilisation and attenuation of sound propagation in rectangular cavities.

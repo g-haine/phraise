@@ -5,11 +5,11 @@ date: 2013-10-21 00:00:00 +0100
 permalink: a-port-hamiltonian-finite-element-formulation-for-the-maxwell-equations
 year: 2013
 authors: O. Farle, D. Klis, M. Jochum, O. Floch, R. Dyczij-Edlinger
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[O. Farle](authors/ortwin-farle), [D. Klis](authors/d-klis), [M. Jochum](authors/m-jochum), [O. Floch](authors/o-floch), [R. Dyczij-Edlinger](authors/romanus-dyczij-edlinger)
+[O. Farle](authors/ortwin_farle), [D. Klis](authors/d_klis), [M. Jochum](authors/m_jochum), [O. Floch](authors/o_floch), [R. Dyczij-Edlinger](authors/romanus_dyczij_edlinger)
  
 ## Abstract
 A new port-Hamiltonian formulation for Maxwell's equations is presented. In contrast to previous approaches for distributed-parameter systems, it is directly applicable to the finite-element method. For this purpose, the dual complex has been eliminated from the underlying Dirac structure. The discretization step preserves the port-Hamiltonian structure and important conservation laws.

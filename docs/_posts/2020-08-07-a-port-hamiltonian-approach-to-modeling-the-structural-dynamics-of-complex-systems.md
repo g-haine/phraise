@@ -5,12 +5,18 @@ date: 2020-08-07 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems
 year: 2021
 authors: Alexander Warsewa, Michael Böhm, Oliver Sawodny, Cristina Tarín
-category: journal-article
-tag: Port-Hamiltonian systems; Modeling; Finite element; Structural dynamics; Adaptive structures
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - modeling
+  - finite element
+  - structural dynamics
+  - adaptive structures
 ---
  
 ## Authors
-[Alexander Warsewa](authors/alexander-warsewa), [Michael Böhm](authors/michael-bohm), [Oliver Sawodny](authors/oliver-sawodny), [Cristina Tarín](authors/cristina-tarin)
+[Alexander Warsewa](authors/alexander_warsewa), [Michael Böhm](authors/michael_bohm), [Oliver Sawodny](authors/oliver_sawodny), [Cristina Tarín](authors/cristina_tarín)
  
 ## Abstract
 With this contribution, we give a complete and comprehensive framework for modeling the dynamics of complex mechanical structures as port-Hamiltonian systems. This is motivated by research on the potential of lightweight construction using active load-bearing elements integrated into the structure. Such adaptive structures are of high complexity and very heterogeneous in nature. Port-Hamiltonian systems theory provides a promising approach for their modeling and control. Subsystem dynamics can be formulated in a domain-independent way and interconnected by means of power flows. The modular approach is also suitable for robust decentralized control schemes. Starting from a distributed-parameter port-Hamiltonian formulation of beam dynamics, we show the application of an existing structure-preserving mixed finite element method to arrive at finite-dimensional approximations. In contrast to the modeling of single bodies with a single boundary, we consider complex structures composed of many simple elements interconnected at the boundary. This is analogous to the usual way of modeling civil engineering structures which has not been transferred to port-Hamiltonian systems before. A block diagram representation of the interconnected systems is used to generate coupling constraints which leads to differential algebraic equations of index one. After the elimination of algebraic constraints, systems in input-state-output (ISO) port-Hamiltonian form are obtained. Port-Hamiltonian system models for the considered class of systems can also be constructed from the mass and stiffness matrices obtained via conventional finite element methods. We show how this relates to the presented approach and discuss the differences, promoting a better understanding across engineering disciplines. A Matlab framework is available on http://github.com/awarsewa/ph_fem/ to facilitate the application of the methods to different problems.

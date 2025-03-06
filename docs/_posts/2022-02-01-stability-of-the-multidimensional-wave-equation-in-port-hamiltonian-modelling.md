@@ -5,11 +5,11 @@ date: 2022-02-01 00:00:00 +0100
 permalink: stability-of-the-multidimensional-wave-equation-in-port-hamiltonian-modelling
 year: 2021
 authors: Birgit Jacob, Nathanael Skrepek
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Nathanael Skrepek](authors/nathanael-skrepek)
+[Birgit Jacob](authors/birgit_jacob), [Nathanael Skrepek](authors/nathanael_skrepek)
  
 ## Abstract
 We investigate the stability of the wave equation with spatial dependent coefficients on a bounded multidimensional domain. The system is stabilized via a scattering passive feedback law. We formulate the wave equation in a port-Hamiltonian fashion and show that the system is semi-uniformly stable, which is a stability concept between exponential stability and strong stability. Hence, this also implies strong stability of the system. In particular, classical solutions are uniformly stable. This will be achieved by showing that the spectrum of the port-Hamiltonian operator is contained in the left half plane C− and the port-Hamiltonian operator generates a contraction semigroup. Moreover, we show that the spectrum consists of eigenvalues only and the port-Hamiltonian operator has a compact resolvent.

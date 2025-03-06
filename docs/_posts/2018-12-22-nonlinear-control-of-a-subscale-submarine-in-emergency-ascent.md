@@ -5,12 +5,20 @@ date: 2018-12-22 00:00:00 +0100
 permalink: nonlinear-control-of-a-subscale-submarine-in-emergency-ascent
 year: 2019
 authors: Francis Valentinis, Craig Woolsey
-category: journal-article
-tag: Submarine dynamics; Submarine control; Underactuated; Non-neutral buoyancy; Nonlinear systems; Energy-based control; Port-Hamiltonian systems
+category:
+  - articles
+tags:
+  - submarine dynamics
+  - submarine control
+  - underactuated
+  - non-neutral buoyancy
+  - nonlinear systems
+  - energy-based control
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Francis Valentinis](authors/francis-valentinis), [Craig Woolsey](authors/craig-a-woolsey)
+[Francis Valentinis](authors/francis_valentinis), [Craig Woolsey](authors/craig_a_woolsey)
  
 ## Abstract
 This paper presents a nonlinear parametric model and proof-of-concept motion control system for a scale model submarine undertaking an emergency ascent. An energy-based model is presented that represents the underactuated submarine in a non-neutrally buoyant state. This model is then used to synthesize a control law using Port-Hamiltonian theory and interconnection and damping assignment passivity-based control. Lyapunov analysis is used to demonstrate stability of the closed-loop system, and a simulation-based study is presented to demonstrate performance of the control law. The results demonstrate that a closed loop non-linear controller is able to improve the quality of emergency rise by automatically compensating for some parasitic effects in the hydrodynamics that can compromise ascent performance.

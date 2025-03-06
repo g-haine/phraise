@@ -5,12 +5,16 @@ date: 2007-06-14 00:00:00 +0100
 permalink: port-based-modeling-of-spatial-visco-elastic-contacts
 year: 2004
 authors: Stefano Stramigioli, Vincent Duindam
-category: journal-article
-tag: Contacts; Geometry; Port-Hamiltonian
+category:
+  - articles
+tags:
+  - contacts
+  - geometry
+  - port-hamiltonian
 ---
  
 ## Authors
-[Stefano Stramigioli](authors/stefano-stramigioli), [Vincent Duindam](authors/vincent-duindam)
+[Stefano Stramigioli](authors/stefano_stramigioli), [Vincent Duindam](authors/vincent_duindam)
  
 ## Abstract
 In this paper, the geometrical description of viscoelastic contacts is described using physical modeling concepts based on energy conservation and network theory. The proposed model is on one side simple enough to be used in real time applications and on the other captures the geometrical features and coupling of a complete spatial geometric unisotropical contact.

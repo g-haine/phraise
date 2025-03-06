@@ -5,11 +5,11 @@ date: 2010-02-02 00:00:00 +0100
 permalink: control-by-interconnection-of-distributed-port-hamiltonian-systems-based-on-finite-elements-approximation
 year: 2009
 authors: Alessandro Macchelli, Claudio Melchiorri
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Claudio Melchiorri](authors/claudio-melchiorri)
+[Alessandro Macchelli](authors/alessandro_macchelli), [Claudio Melchiorri](authors/claudio_melchiorri)
  
 ## Abstract
 The main contribution of this paper is a procedure for the control by energy shaping via Casimir generation of high-order port-Hamiltonian systems obtained from the spatial discretization of infinite dimensional dynamics. Beside the intrinsic difficulties related to the large number of state variables, the finite element model is generally given in terms of a Dirac structure and is completely a-causal, which implies that the plant dynamics is not given in standard input-state-output form, but as a set of DAEs. Consequently, the classical energy-Casimir method has to be extended in order to deal with dynamical systems with constraints, usually appearing in the form of Lagrangian multipliers. The methodology is illustrated with reference to a particular example, i.e. an hinged-hinged Timoshenko beam with torque actuators at both sides.

@@ -5,11 +5,11 @@ date: 2020-07-09 00:00:00 +0100
 permalink: twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review
 year: 2020
 authors: Ramy Rashad, Federico Califano, Arjan J van der Schaft, Stefano Stramigioli
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ramy Rashad](authors/ramy-rashad), [Federico Califano](authors/federico-califano), [Arjan J van der Schaft](authors/arjan-van-der-schaft), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Ramy Rashad](authors/ramy_rashad), [Federico Califano](authors/federico_califano), [Arjan J van der Schaft](authors/arjan_van_der_schaft), [Stefano Stramigioli](authors/stefano_stramigioli)
  
 ## Abstract
 The port-Hamiltonian (pH) theory for distributed parameter systems has developed greatly in the past two decades. The theory has been successfully extended from finite-dimensional to infinite-dimensional systems through a lot of research efforts. This article collects the different research studies carried out for distributed pH systems. We classify over a hundred and fifty studies based on different research focuses ranging from modeling, discretization, control and theoretical foundations. This literature review highlights the wide applicability of the pH systems theory to complex systems with multi-physical domains using the same tools and language. We also supplement this article with a bibliographical database including all papers reviewed in this paper classified in their respective groups.

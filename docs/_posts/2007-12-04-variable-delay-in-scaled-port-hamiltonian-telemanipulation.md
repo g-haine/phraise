@@ -5,12 +5,16 @@ date: 2007-12-04 00:00:00 +0100
 permalink: variable-delay-in-scaled-port-hamiltonian-telemanipulation
 year: 2008
 authors: Cristian Secchi, Stefano Stramigioli, Cesare Fantuzzi
-category: journal-article
-tag: Telemanipulation; Port-Hamiltonian systems; Variable delay
+category:
+  - proceedings
+tags:
+  - telemanipulation
+  - port-hamiltonian systems
+  - variable delay
 ---
  
 ## Authors
-[Cristian Secchi](authors/cristian-secchi), [Stefano Stramigioli](authors/stefano-stramigioli), [Cesare Fantuzzi](authors/cesare-fantuzzi)
+[Cristian Secchi](authors/cristian_secchi), [Stefano Stramigioli](authors/stefano_stramigioli), [Cesare Fantuzzi](authors/cesare_fantuzzi)
  
 ## Abstract
 In several applications involving bilateral telemanipulation, master and slave robots act at different power scales (e.g. telesurgery, micromanipulation). Scaling forces and velocities means scaling the power that is exchanged between master and slave sides through the communication channel. In this paper we show how it is possible to embed power scaling in the scattering based communication channel used in port-Hamiltonian based telemanipulation. Furthermore, a strategy for passively dealing with variable communication delay is proposed in order to allow scaled teleoperation over packet switched networks as Internet.
@@ -26,7 +30,7 @@ Telemanipulation; Port-Hamiltonian systems; Variable delay
 - **Pages:** 357--363
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.mechatronics.2007.09.003](https://doi.org/10.1016/j.mechatronics.2007.09.003)
-- **Note:** Special Section of Revised Papers from the 8th International IFAC Symposium on Robot Control
+- **Event:** Special Section of Revised Papers from the 8th International IFAC Symposium on Robot Control
  
 ## BibTeX
 {% highlight bibtex %}

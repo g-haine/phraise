@@ -5,12 +5,18 @@ date: 2007-06-14 00:00:00 +0100
 permalink: physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems
 year: 2004
 authors: F. Gómez-Estern, A.J. Van der Schaft
-category: journal-article
-tag: Energy Shaping; Passivity; Physical Damping; Port-Hamiltonian Systems; Mechanical Systems
+category:
+  - articles
+tags:
+  - energy shaping
+  - passivity
+  - physical damping
+  - port-hamiltonian systems
+  - mechanical systems
 ---
  
 ## Authors
-[F. Gómez-Estern](authors/f-gomez-estern), [A.J. Van der Schaft](authors/arjan-van-der-schaft)
+[F. Gómez-Estern](authors/f_gomez_estern), [A.J. Van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 Energy shaping and passivity-based control designs have proven to be effective in solving control problems for underactuated mechanical systems. In recent works, interconnection and damping assignment passivitybased control (IDA-PBC) has been successfully applied to open-loop conservative models, that is, with no physical damping (e.g. friction) present. In a number of cases, in particular when IDA-PBC control only involves potential energy shaping, the actual presence of physical damping will not compromise the achieved closed-loop stability. However, when IDAPBC control also includes the shaping of the kinetic energy, closed-loop stability or even passivity for the model without physical damping may be lost if physical damping is present. This raises two fundamental questions. First, in which cases is the IDA-PBC controlled system designed on the basis of the undamped model still stable and passive when physical damping is present? Second, if this is not the case, when is it possible to redesign the IDA-PBC control law for the undamped systems such that stability and passivity are regained? This paper provides necessary and sufficient conditions for the existence of such a control redesign for a particular choice of the closed-loop energy function. Furthermore, if these conditions are satisfied then two methods for redesign are presented, which can be chosen depending on the problem structure and the parameter uncertainties. Finally, even in the cases where the addition of physical damping does not hamper the stability properties of the IDA-PBC design based on the undamped model, we show that the aforementioned redesign is still useful in order to reduce the mathematical complexity in exponential and asymptotic stability analysis.

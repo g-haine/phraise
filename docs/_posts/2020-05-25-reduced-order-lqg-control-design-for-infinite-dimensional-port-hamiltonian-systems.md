@@ -5,11 +5,11 @@ date: 2020-05-25 00:00:00 +0100
 permalink: reduced-order-lqg-control-design-for-infinite-dimensional-port-hamiltonian-systems
 year: 2021
 authors: Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin-wu), [Boussad Hamroun](authors/boussad-hamroun), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke)
+[Yongxin Wu](authors/yongxin_wu), [Boussad Hamroun](authors/boussad_hamroun), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 This article proposes a method that combines linear quadratic Gaussian (LQG) control design and structure preserving model reduction for the reduced order control of infinite dimensional port Hamiltonian systems (IDPHS).For that purpose the weighting operators used in LQG control design are chosen such that the resulting dynamic controller is passive and the closed-loop system equivalent to control by interconnection. The method of Petrov–Galerkin is then used to approximate the balanced realization of the IDPHS by a finite dimensional port Hamiltonian system and to provide the associated reduced order LQG controller. The main advantages of the proposed method are that, first, both control and reduction are driven by closed-loop performances and that, second, due to the passivity properties of the controller the closed-loop stability is guaranteed when the finite dimensional controller is applied to the infinite dimensional system.

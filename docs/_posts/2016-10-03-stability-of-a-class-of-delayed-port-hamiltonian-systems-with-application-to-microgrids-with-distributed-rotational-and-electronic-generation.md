@@ -5,12 +5,20 @@ date: 2016-10-03 00:00:00 +0100
 permalink: stability-of-a-class-of-delayed-port-hamiltonian-systems-with-application-to-microgrids-with-distributed-rotational-and-electronic-generation
 year: 2016
 authors: Johannes Schiffer, Emilia Fridman, Romeo Ortega, Jörg Raisch
-category: journal-article
-tag: Microgrid control; Microgrid stability; Smart grid applications; Droop control; port-Hamiltonian systems; Time delay systems; Lyapunov–Krasovskii functionals
+category:
+  - articles
+tags:
+  - microgrid control
+  - microgrid stability
+  - smart grid applications
+  - droop control
+  - port-hamiltonian systems
+  - time delay systems
+  - lyapunov–krasovskii functionals
 ---
  
 ## Authors
-[Johannes Schiffer](authors/johannes-schiffer), [Emilia Fridman](authors/emilia-fridman), [Romeo Ortega](authors/romeo-ortega), [Jörg Raisch](authors/jorg-raisch)
+[Johannes Schiffer](authors/johannes_schiffer), [Emilia Fridman](authors/emilia_fridman), [Romeo Ortega](authors/romeo_ortega), [Jörg Raisch](authors/jorg_raisch)
  
 ## Abstract
 Motivated by the problem of stability in droop-controlled microgrids with delays, we consider a class of port-Hamiltonian systems with delayed interconnection matrices. For this class of systems, delay-dependent stability conditions are derived via the Lyapunov–Krasovskii method. The theoretical results are applied to an exemplary microgrid with distributed rotational and electronic generation and illustrated via a simulation example. The stability analysis is complemented by providing an estimate of the region of attraction of a microgrid with delays.

@@ -5,12 +5,18 @@ date: 2018-05-03 00:00:00 +0100
 permalink: structure-preserving-finite-differences-in-polar-coordinates-for-heat-and-wave-equations
 year: 2018
 authors: Vincent Trenchant, Weiwei Hu, Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Distributed port-Hamiltonian systems; staggered grids; finite difference method; wave equation; heat equation
+category:
+  - proceedings
+tags:
+  - distributed port-hamiltonian systems
+  - staggered grids
+  - finite difference method
+  - wave equation
+  - heat equation
 ---
  
 ## Authors
-[Vincent Trenchant](authors/vincent-trenchant), [Weiwei Hu](authors/weiwei-hu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Vincent Trenchant](authors/vincent_trenchant), [Weiwei Hu](authors/weiwei_hu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper proposes a finite difference spatial discretization that preserves the geometrical structure, i.e. the Dirac structure, underlying 2D heat and wave equations in cylindrical coordinates. These equations are shown to rely on Dirac structures for a particular set of boundary conditions. The discretization is completed with time integration based on Stormer-Verlet method.
@@ -26,7 +32,7 @@ Distributed port-Hamiltonian systems; staggered grids; finite difference method;
 - **Pages:** 571--576
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.03.096](https://doi.org/10.1016/j.ifacol.2018.03.096)
-- **Note:** 9th Vienna International Conference on Mathematical Modelling
+- **Event:** 9th Vienna International Conference on Mathematical Modelling
  
 ## BibTeX
 {% highlight bibtex %}

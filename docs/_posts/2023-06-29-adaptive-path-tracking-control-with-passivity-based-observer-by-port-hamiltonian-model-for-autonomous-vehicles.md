@@ -5,11 +5,11 @@ date: 2023-06-29 00:00:00 +0100
 permalink: adaptive-path-tracking-control-with-passivity-based-observer-by-port-hamiltonian-model-for-autonomous-vehicles
 year: 2023
 authors: Yan Ma, Liang He, Ting Song, Danwei Wang
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Yan Ma](authors/yan-ma), [Liang He](authors/liang-he), [Ting Song](authors/ting-song), [Danwei Wang](authors/danwei-wang)
+[Yan Ma](authors/yan_ma), [Liang He](authors/liang_he), [Ting Song](authors/ting_song), [Danwei Wang](authors/danwei_wang)
  
 ## Abstract
 A port-Hamiltonian model is suitable to represent the dynamics of many physical processes, which has an essential feature of underscoring a significance of an energy function, an interconnection pattern, and a dissipation for physical systems. Hence, adaptive path-tracking control with a passivity-based observer is designed by the port-Hamiltonian model for autonomous vehicles in this article. Firstly, a passivity-based observer of lateral velocity is established by designing a gain matrix to assign the interconnection and damping parts, which makes an observation error system transform into a desired port-Hamiltonian system and renders the observer passive. At the same time, it's convergence and stability analysis is given. Then, a port-Hamiltonian model with perturbations and actuator saturations is constructed to describe lateral vehicle dynamics in terms of tracking errors for path-tracking, and an L2-gain disturbance attenuation strategy is developed to overcome the adverse influence caused of external disturbances. Furthermore, the robust stability of the controller is proved in the presence of observation errors and external disturbances. Finally, simulations and experiments are performed to demonstrate the effectiveness of the proposed control strategy.

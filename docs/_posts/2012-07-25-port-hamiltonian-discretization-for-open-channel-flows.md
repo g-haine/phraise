@@ -5,12 +5,17 @@ date: 2012-07-25 00:00:00 +0100
 permalink: port-hamiltonian-discretization-for-open-channel-flows
 year: 2012
 authors: R. Pasumarthy, V.R. Ambati, A.J. van der Schaft
-category: journal-article
-tag: Shallow water equations; Port-Hamiltonian; Stokes–Dirac structure; Numerical discretization
+category:
+  - articles
+tags:
+  - shallow water equations
+  - port-hamiltonian
+  - stokes–dirac structure
+  - numerical discretization
 ---
  
 ## Authors
-[R. Pasumarthy](authors/ramkrishna-pasumarthy), [V.R. Ambati](authors/v-r-ambati), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[R. Pasumarthy](authors/ramkrishna_pasumarthy), [V.R. Ambati](authors/v_r_ambati), [A.J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 A finite-dimensional Port-Hamiltonian formulation for the dynamics of smooth open channel flows is presented. A numerical scheme based on this formulation is developed for both the linear and nonlinear shallow water equations. The scheme is verified against exact solutions and has the advantage of conservation of mass and energy to the discrete level.

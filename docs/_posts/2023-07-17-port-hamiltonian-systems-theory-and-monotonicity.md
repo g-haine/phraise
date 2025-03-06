@@ -5,11 +5,11 @@ date: 2023-07-17 00:00:00 +0100
 permalink: port-hamiltonian-systems-theory-and-monotonicity
 year: 2023
 authors: M. K. Camlibel, A. J. van der Schaft
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[M. K. Camlibel](authors/m-kanat-camlibel), [A. J. van der Schaft](authors/arjan-van-der-schaft)
+[M. K. Camlibel](authors/m_kanat_camlibel), [A. J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

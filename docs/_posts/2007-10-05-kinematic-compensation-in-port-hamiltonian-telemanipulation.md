@@ -5,12 +5,18 @@ date: 2007-10-05 00:00:00 +0100
 permalink: kinematic-compensation-in-port-hamiltonian-telemanipulation
 year: 2007
 authors: Cristian Secchi, Stefano Stramigioli, Cesare Fantuzzi
-category: book-chapter
-tag: Elastic Element; Dirac Structure; Interconnection Structure; Remote Environment; Slave Robot
+category:
+  - chapters
+tags:
+  - elastic element
+  - dirac structure
+  - interconnection structure
+  - remote environment
+  - slave robot
 ---
  
 ## Authors
-[Cristian Secchi](authors/cristian-secchi), [Stefano Stramigioli](authors/stefano-stramigioli), [Cesare Fantuzzi](authors/cesare-fantuzzi)
+[Cristian Secchi](authors/cristian_secchi), [Stefano Stramigioli](authors/stefano_stramigioli), [Cesare Fantuzzi](authors/cesare_fantuzzi)
  
 ## Abstract
 A bilateral telemanipulator is a robotic system that allows the interaction with remote environments and it is composed by a controlled local robot (the master) and a controlled remote robot (the slave) interconnected through a communication channel. The motion imposed to the master by the human is transmitted to the slave which moves accordingly; when the slave interacts with a remote environment, the interaction force is fed back to the master side in order to improve the perception of the remote environment felt by the user. Passivity theory is a very suitable tool for the implementation of bilateral telemanipulation schemes over delayed communication channels. In passivity based telemanipulation, both master and slave are controlled by means of passive impedance controllers and master and slave sides are interconnected through a scattering based communication channel [ 1 , 8 ] which allows an exchange of information which is passive independently of any constant communication delay. In this way, the overall telemanipulation system is passive and, consequently, its behavior is stable both in case of free motion and in case of interaction with any passive environment. In [ 12 , 11 ], a generic framework for geometric telemanipulation of port-Hamiltonian systems [ 13 ] has been proposed; master and slave are interconnected through intrinsically passive port-Hamiltonian impedance controllers which allow to shape the energetic behavior of the robots and to achieve desired dynamic properties at master and slave sides. Local and remote sides are interconnected through a scattering based communication channel that allows a lossless exchange of energy.

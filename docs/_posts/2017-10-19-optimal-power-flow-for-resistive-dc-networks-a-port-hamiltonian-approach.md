@@ -5,12 +5,18 @@ date: 2017-10-19 00:00:00 +0100
 permalink: optimal-power-flow-for-resistive-dc-networks-a-port-hamiltonian-approach
 year: 2017
 authors: Ernest Benedito, Dunstano del Puerto-Flores, Arnau Dòria-Cerezo, Jacquelien M.A. Scherpen
-category: journal-article
-tag: Optimal power flow; port-Hamiltonian systems; gradient method; DC networks; cyclic networks
+category:
+  - proceedings
+tags:
+  - optimal power flow
+  - port-hamiltonian systems
+  - gradient method
+  - dc networks
+  - cyclic networks
 ---
  
 ## Authors
-[Ernest Benedito](authors/ernest-benedito), [Dunstano del Puerto-Flores](authors/dunstano-del-puerto-flores), [Arnau Dòria-Cerezo](authors/arnau-doria-cerezo), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Ernest Benedito](authors/ernest_benedito), [Dunstano del Puerto-Flores](authors/dunstano_del_puerto_flores), [Arnau Dòria-Cerezo](authors/arnau_doria_cerezo), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 This paper studies the optimal power flow problem for resistive DC networks. The gradient method algorithm is written in a port-Hamiltonian form and the stability of the resulting dynamics is studied. Stability conditions are provided for general cyclic networks and a solution, when these conditions fail, is proposed. In addition, the results are exemplified by means of numerical simulations.
@@ -26,7 +32,7 @@ Optimal power flow; port-Hamiltonian systems; gradient method; DC networks; cycl
 - **Pages:** 25--30
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.005](https://doi.org/10.1016/j.ifacol.2017.08.005)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

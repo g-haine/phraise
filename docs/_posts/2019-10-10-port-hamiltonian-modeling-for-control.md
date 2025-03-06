@@ -5,11 +5,11 @@ date: 2019-10-10 00:00:00 +0100
 permalink: port-hamiltonian-modeling-for-control
 year: 2020
 authors: Arjan van der Schaft
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
  This article provides a concise summary of the basic ideas and concepts in port-Hamiltonian systems theory and its use in analysis and control of complex multiphysics systems. It gives special attention to new and unexplored research directions and relations with other mathematical frameworks. Emergent control paradigms and open problems are indicated, including the relation with thermodynamics and the question of uniting the energy-processing view of control, as emphasized by port-Hamiltonian systems theory, with a complementary information-processing viewpoint. 

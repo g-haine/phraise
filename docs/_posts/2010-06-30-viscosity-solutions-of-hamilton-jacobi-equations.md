@@ -5,14 +5,14 @@ date: 2010-06-30 00:00:00 +0100
 permalink: viscosity-solutions-of-hamilton-jacobi-equations
 year: 2010
 authors: Michael G. Crandall, Pierre-Louis Lions
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Michael G. Crandall](authors/michael-g-crandall), [Pierre-Louis Lions](authors/pierre-louis-lions)
+[Michael G. Crandall](authors/michael_g_crandall), [Pierre-Louis Lions](authors/pierre_louis_lions)
  
 ## Abstract
-Problems involving Hamilton-Jacobi equations—which we take to be either of the stationary form \\( H(x,u,Du) = 0 \\) or of the evolution form \\( u_{t} + H(x,t,u,Du) = 0 \\), where \\( Du \\) is the spatial gradient of \\( u \\)—arise in many contexts. Classical analysis of associated problems under boundary and/or initial conditions by the method of characteristics is limited to local considerations owing to the crossing of characteristics. Global analysis of these problems has been hindered by the lack of an appropriate notion of solution for which one has the desired existence and uniqueness properties. In this work a notion of solution is proposed which allows, for example, solutions to be nowhere differentiable but for which strong uniqueness theorems, stability theorems and general existence theorems, as discussed herein, are all valid.
+Problems involving Hamilton-Jacobi equations—which we take to be either of the stationary form \( H(x,u,Du) = 0 \) or of the evolution form \( u_{t} + H(x,t,u,Du) = 0 \), where \( Du \) is the spatial gradient of \( u \)—arise in many contexts. Classical analysis of associated problems under boundary and/or initial conditions by the method of characteristics is limited to local considerations owing to the crossing of characteristics. Global analysis of these problems has been hindered by the lack of an appropriate notion of solution for which one has the desired existence and uniqueness properties. In this work a notion of solution is proposed which allows, for example, solutions to be nowhere differentiable but for which strong uniqueness theorems, stability theorems and general existence theorems, as discussed herein, are all valid.
  
 ## Citation
 - **Journal:** Transactions of the American Mathematical Society

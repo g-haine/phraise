@@ -5,11 +5,11 @@ date: 2022-04-22 00:00:00 +0100
 permalink: automatisierte-erzeugung-von-modellen-und-beobachtern-fur-physikalisch-vernetzte-systeme
 year: 2022
 authors: Martin Pfeifer
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Martin Pfeifer](authors/martin-pfeifer)
+[Martin Pfeifer](authors/martin_pfeifer)
  
 ## Abstract
 Diese Arbeit befasst sich mit der Automatisierung der physikorientierten Modellbildung und des darauf basierenden Beobachterentwurfs. Hierzu werden Port-Hamiltonsche Methoden entwickelt, die erstmals eine durchgängige Automatisierung der Modellbildung und des Beobachterentwurfs für eine große Klasse physikalisch vernetzter Systeme ermöglichen.

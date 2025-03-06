@@ -5,12 +5,18 @@ date: 2024-09-25 00:00:00 +0100
 permalink: generalized-maxwell-viscoelasticity-for-geometrically-exact-strings-nonlinear-port-hamiltonian-formulation-and-structure-preserving-discretization
 year: 2024
 authors: P.L. Kinon, T. Thoma, P. Betsch, P. Kotyczka
-category: journal-article
-tag: Nonlinear port-Hamiltonian systems; generalized Maxwell model; structure-preserving discretization; mixed finite elements; discrete gradients
+category:
+  - proceedings
+tags:
+  - nonlinear port-hamiltonian systems
+  - generalized maxwell model
+  - structure-preserving discretization
+  - mixed finite elements
+  - discrete gradients
 ---
  
 ## Authors
-[P.L. Kinon](authors/philipp-l-kinon), [T. Thoma](authors/tobias-thoma), [P. Betsch](authors/peter-betsch), [P. Kotyczka](authors/paul-kotyczka)
+[P.L. Kinon](authors/philipp_l_kinon), [T. Thoma](authors/tobias_thoma), [P. Betsch](authors/peter_betsch), [P. Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 This contribution proposes a nonlinear and dissipative infinite-dimensional port-Hamiltonian (PH) model for the dynamics of geometrically exact strings. The mechanical model provides a description of large deformations including finite elastic and inelastic strains in a generalized Maxwell model. It is shown that the overall system results from a power-preserving interconnection of PH subsystems. By using a structure-preserving mixed finite element approach, a finite-dimensional PH model is derived. Eventually, midpoint discrete derivatives are employed to deduce an energy-consistent time-stepping method, which inherits discrete-time dissipativity for the irreversible system. An example simulation illustrates the numerical properties of the present approach.
@@ -26,7 +32,7 @@ Nonlinear port-Hamiltonian systems; generalized Maxwell model; structure-preserv
 - **Pages:** 101--106
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.264](https://doi.org/10.1016/j.ifacol.2024.08.264)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2011-07-28 00:00:00 +0100
 permalink: stability-preserving-parametric-model-reduction-by-matrix-interpolation
 year: 2011
 authors: Rudy Eid, Rosa Castañé-Selga, Heiko Panzer, Thomas Wolf, Boris Lohmann
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Rudy Eid](authors/rudy-eid), [Rosa Castañé-Selga](authors/rosa-castane-selga), [Heiko Panzer](authors/heiko-k-f-panzer), [Thomas Wolf](authors/thomas-wolf), [Boris Lohmann](authors/boris-lohmann)
+[Rudy Eid](authors/rudy_eid), [Rosa Castañé-Selga](authors/rosa_castane_selga), [Heiko Panzer](authors/heiko_k_f_panzer), [Thomas Wolf](authors/thomas_wolf), [Boris Lohmann](authors/boris_lohmann)
  
 ## Abstract
 In this article, a method to preserve stability in parametric model reduction by matrix interpolation is presented. Based on the matrix measure approach, sufficient conditions on the original system matrices are derived. Once they are fulfilled, the stability of each of the reduced models is guaranteed as well as that of the parametric model resulting from interpolation. In addition, it is shown that these sufficient conditions are met by port-Hamiltonian systems and by a relevant set of second-order systems obtained by the finite element method. The new approach is illustrated by two numerical examples.

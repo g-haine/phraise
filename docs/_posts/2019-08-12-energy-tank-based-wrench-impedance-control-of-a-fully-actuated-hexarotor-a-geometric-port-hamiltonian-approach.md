@@ -5,11 +5,11 @@ date: 2019-08-12 00:00:00 +0100
 permalink: energy-tank-based-wrench-impedance-control-of-a-fully-actuated-hexarotor-a-geometric-port-hamiltonian-approach
 year: 2019
 authors: Ramy Rashad, Johan B. C. Engelen, Stefano Stramigioli
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Ramy Rashad](authors/ramy-rashad), [Johan B. C. Engelen](authors/johan-b-c-engelen), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Ramy Rashad](authors/ramy_rashad), [Johan B. C. Engelen](authors/johan_b_c_engelen), [Stefano Stramigioli](authors/stefano_stramigioli)
  
 ## Abstract
 In this work, we show how the interactive behavior of an aerial robot can be modeled and controlled effectively and elegantly in the port-Hamiltonian framework. We present an observer-based wrench/impedance controller for a fully-actuated hexarotor. The analysis and control are performed in a geometrically consistent manner on the configuration manifold of the special Euclidean group SE (3) such that the UAV’s nonlinear geometric structure is exploited. The controller uses a wrench observer to estimate the interaction wrench without the use of a force/torque sensor. Moreover, the concept of energy tanks is used to guarantee the system’s overall contact stability to arbitrary passive environments. The reliability and robustness of the proposed approach is validated through simulation and experiment.

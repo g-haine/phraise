@@ -5,12 +5,19 @@ date: 2016-11-23 00:00:00 +0100
 permalink: discontinuous-galerkin-methods-for-hamiltonian-odes-and-pdes
 year: 2017
 authors: Wensheng Tang, Yajuan Sun, Wenjun Cai
-category: journal-article
-tag: Discontinuous Galerkin method; Hamiltonian systems; Continuous-stage PRK method; Symplectic PRK scheme; Multi-symplectic PRK scheme; Conservation laws
+category:
+  - articles
+tags:
+  - discontinuous galerkin method
+  - hamiltonian systems
+  - continuous-stage prk method
+  - symplectic prk scheme
+  - multi-symplectic prk scheme
+  - conservation laws
 ---
  
 ## Authors
-[Wensheng Tang](authors/wensheng-tang), [Yajuan Sun](authors/yajuan-sun), [Wenjun Cai](authors/wenjun-cai)
+[Wensheng Tang](authors/wensheng_tang), [Yajuan Sun](authors/yajuan_sun), [Wenjun Cai](authors/wenjun_cai)
  
 ## Abstract
 In this article, we present a unified framework of discontinuous Galerkin (DG) discretizations for Hamiltonian ODEs and PDEs. We show that with appropriate numerical fluxes the numerical algorithms deduced from DG discretizations can be combined with the symplectic methods in time to derive the multi-symplectic PRK schemes. The resulting numerical discretizations are applied to the linear and nonlinear Schrödinger equations. Some conservative properties of the numerical schemes are investigated and confirmed in the numerical experiments.

@@ -5,14 +5,14 @@ date: 2021-10-15 00:00:00 +0100
 permalink: model-order-reduction-of-rlc-circuit-system-modeled-by-port-hamiltonian-structure
 year: 2022
 authors: Yao Huang, Yao-Lin Jiang, Kang-Li Xu
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Yao Huang](authors/yao-huang), [Yao-Lin Jiang](authors/yaolin-jiang), [Kang-Li Xu](authors/kangli-xu)
+[Yao Huang](authors/yao_huang), [Yao-Lin Jiang](authors/yaolin_jiang), [Kang-Li Xu](authors/kangli_xu)
  
 ## Abstract
-In this brief, we consider the port-Hamiltonian (PH) modeling of general RLC circuits, then explore the model order reduction (MOR) of corresponding port-Hamiltonian differential algebra equation (PH-DAE) systems. Specifically, by directed graphs, the general RLC circuits are firstly modeled as PH-DAE systems which imply the important passivity property. Based on \\( \varepsilon  \\) -embedding and parametric moment matching techniques, MOR is implemented to the PH-DAE system, and the corresponding reduced system preserves PH-DAE structure and then preserves the passivity property. In addition, we prove that the reduced parametric PH system obtained by only one-side projection can preserve three times moments which indicates better accuracy in theory, and the error estimation between PH-DAE system and parametric PH system is also provided.
+In this brief, we consider the port-Hamiltonian (PH) modeling of general RLC circuits, then explore the model order reduction (MOR) of corresponding port-Hamiltonian differential algebra equation (PH-DAE) systems. Specifically, by directed graphs, the general RLC circuits are firstly modeled as PH-DAE systems which imply the important passivity property. Based on \( \varepsilon  \) -embedding and parametric moment matching techniques, MOR is implemented to the PH-DAE system, and the corresponding reduced system preserves PH-DAE structure and then preserves the passivity property. In addition, we prove that the reduced parametric PH system obtained by only one-side projection can preserve three times moments which indicates better accuracy in theory, and the error estimation between PH-DAE system and parametric PH system is also provided.
  
 ## Citation
 - **Journal:** IEEE Transactions on Circuits and Systems II: Express Briefs

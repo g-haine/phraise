@@ -5,14 +5,14 @@ date: 2023-10-04 00:00:00 +0100
 permalink: riemannian-geometric-nonlinear-conjugate-gradient-model-order-reduction-of-linear-port-hamiltonian-systems-on-finite-frequency-intervals
 year: 2024
 authors: Kang-Li Xu, Yao-Lin Jiang
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Kang-Li Xu](authors/kangli-xu), [Yao-Lin Jiang](authors/yaolin-jiang)
+[Kang-Li Xu](authors/kangli_xu), [Yao-Lin Jiang](authors/yaolin_jiang)
  
 ## Abstract
-In this article, we propose a new frequency-limited Riemannian geometric-nonlinear conjugate gradient model order reduction (MOR) method with the modified Armijo step-size control to solve the frequency-limited \\( \mathcal {H}_{2} \\) optimal MOR problem of linear port-Hamiltonian systems. This problem is formulated as a Riemannian optimization problem on the product of several manifolds. Based on the geometric properties of the product manifold, the Riemannian gradient of the cost function is derived. Further, by scaling the vector transport of the product manifold, we design a new Riemannian spectral conjugate gradient direction, which is always descent for the cost function and is independent of the line search used and the convexity of the cost function. Meanwhile, a new modified Armijo step-size control strategy is presented. The resulting reduced system can preserve the port-Hamiltonian structure and the passivity of the original system. Two numerical examples are simulated to demonstrate the efficiency of the proposed method.
+In this article, we propose a new frequency-limited Riemannian geometric-nonlinear conjugate gradient model order reduction (MOR) method with the modified Armijo step-size control to solve the frequency-limited \( \mathcal {H}_{2} \) optimal MOR problem of linear port-Hamiltonian systems. This problem is formulated as a Riemannian optimization problem on the product of several manifolds. Based on the geometric properties of the product manifold, the Riemannian gradient of the cost function is derived. Further, by scaling the vector transport of the product manifold, we design a new Riemannian spectral conjugate gradient direction, which is always descent for the cost function and is independent of the line search used and the convexity of the cost function. Meanwhile, a new modified Armijo step-size control strategy is presented. The resulting reduced system can preserve the port-Hamiltonian structure and the passivity of the original system. Two numerical examples are simulated to demonstrate the efficiency of the proposed method.
  
 ## Citation
 - **Journal:** IEEE Transactions on Automatic Control

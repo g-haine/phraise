@@ -5,12 +5,16 @@ date: 2023-03-16 00:00:00 +0100
 permalink: on-the-interconnection-of-irreversible-port-hamiltonian-systems
 year: 2023
 authors: Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Irreversible port-Hamiltonian systems; passivity; irreversible thermodynamics
+category:
+  - proceedings
+tags:
+  - irreversible port-hamiltonian systems
+  - passivity
+  - irreversible thermodynamics
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 Different from mechanic or reversible systems, such as port-Hamiltonian systems (PHS), which preserves the energy or the Hamiltonian, irreversible PHS (IPHS) also satisfy the second law of Thermodynamics, i.e., the internal entropy production of the system is always greater or equal to zero. Hence, when considering the interconnection of IPHS, it must be so that the first and second laws of Thermodynamics are satisfied, implying that the interconnection must be power-preserving and entropy-increasing. In this work the conditions for a thermodynamic admissible interconnection of IPHS have been studied and characterized. The interconnection law is given by a state modulated input-output feedback, in which each modulating function is related and defined by the corresponding irreversible thermodynamic driving force induced by the interconnection. The interconnection law also encompasses the reversible interactions, and can be interpreted as a generalization of a power-preserving interconnection to deal with thermodynamic systems. The result has been illustrated on the abstract interconnection of purely thermodynamic and thermo-mechanic systems, and on the examples of an ideal heat-exchanger and a gas-piston system.
@@ -26,7 +30,7 @@ Irreversible port-Hamiltonian systems; passivity; irreversible thermodynamics
 - **Pages:** 114--119
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.02.020](https://doi.org/10.1016/j.ifacol.2023.02.020)
-- **Note:** 12th IFAC Symposium on Nonlinear Control Systems NOLCOS 2022- Canberra, Australia, January 4-6, 2023
+- **Event:** 12th IFAC Symposium on Nonlinear Control Systems NOLCOS 2022- Canberra, Australia, January 4-6, 2023
  
 ## BibTeX
 {% highlight bibtex %}

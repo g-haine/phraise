@@ -5,11 +5,11 @@ date: 2015-11-10 00:00:00 +0100
 permalink: stability-condition-of-discrete-time-linear-hamiltonian-systems-with-time-varying-delay-feedback-interconnection
 year: 2015
 authors: Said Aoues, Warody Lombardi, Damien Eberard, Michael Di-Loreto
-category: journal-article
+category: proceedings
 ---
  
 ## Authors
-[Said Aoues](authors/said-aoues), [Warody Lombardi](authors/warody-lombardi), [Damien Eberard](authors/damien-eberard), [Michael Di-Loreto](authors/michael-di-loreto)
+[Said Aoues](authors/said_aoues), [Warody Lombardi](authors/warody_lombardi), [Damien Eberard](authors/damien_eberard), [Michael Di-Loreto](authors/michael_di_loreto)
  
 ## Abstract
 This paper is concerned with stability analysis of delay feedback structures within discrete port-Hamiltonian framework. We introduce a discrete dynamics that approximates linear port-Hamiltonian systems and is passive relatively to the same storage and dissipation functions. Stability of interconnected discrete systems is then addressed when considering time-varying delay feedback interconnection structure. A delay bounds-dependent stability condition is derived for variable and bounded delayed interconnection, reducing to a delay-independent condition for constant delay. A sufficient condition is formulated in terms of a feasibility problem under LinearMatrix Inequality (LMI) constraints. It is noticeable that the LMI parameters linearly depend on the network characteristics (damping and input matrices). Moreover, computing and storing past history of the discrete flow is no longer required. A numerical example illustrates the feasibility of the approach.
@@ -22,7 +22,7 @@ This paper is concerned with stability analysis of delay feedback structures wit
 - **Pages:** 7--12
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.206](https://doi.org/10.1016/j.ifacol.2015.10.206)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

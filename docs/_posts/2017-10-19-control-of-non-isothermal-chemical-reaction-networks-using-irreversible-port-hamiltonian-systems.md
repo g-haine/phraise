@@ -5,12 +5,16 @@ date: 2017-10-19 00:00:00 +0100
 permalink: control-of-non-isothermal-chemical-reaction-networks-using-irreversible-port-hamiltonian-systems
 year: 2017
 authors: Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Irreversible port-Hamiltonian systems; non-isothermal reaction networks; passivity based control
+category:
+  - proceedings
+tags:
+  - irreversible port-hamiltonian systems
+  - non-isothermal reaction networks
+  - passivity based control
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 In this work irreversible port-Hamiltonian systems are used to derive a passivity based controller which shapes the total energy of a non-isothermal reaction network and renders it asymptotically stable with respect to a desired dynamic equilibrium configuration. The closed-loop system is in IPHS form, hence it can be identified with a desired reaction network and the control parameters are related with thermodynamic variables, such as the reaction rates. A complex reaction network is used to illustrate the approach: the van der Vusse reaction mechanism.
@@ -26,7 +30,7 @@ Irreversible port-Hamiltonian systems; non-isothermal reaction networks; passivi
 - **Pages:** 576--581
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.079](https://doi.org/10.1016/j.ifacol.2017.08.079)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

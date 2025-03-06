@@ -5,11 +5,11 @@ date: 2013-12-20 00:00:00 +0100
 permalink: towards-port-hamiltonian-approach-for-modeling-and-control-of-two-wheeled-wheelchair
 year: 2013
 authors: A Aula, R Akmeliawati, S Ahmad, T M Altalmas, S N Sidek
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[A Aula](authors/a-aula), [R Akmeliawati](authors/r-akmeliawati), [S Ahmad](authors/s-ahmad), [T M Altalmas](authors/t-m-altalmas), [S N Sidek](authors/s-n-sidek)
+[A Aula](authors/a_aula), [R Akmeliawati](authors/r_akmeliawati), [S Ahmad](authors/s_ahmad), [T M Altalmas](authors/t_m_altalmas), [S N Sidek](authors/s_n_sidek)
  
 ## Abstract
 This paper introduces the modeling and control design of a two-wheeled wheelchair (TWW) based on structure-preserving port-Hamiltonian concept. In this paper, a model of TWW with features, including space-saving, four to two-wheel transformation, and adjustable seat height is proposed to increased mobility and independence of the user. Then, the mathematical model of a TWW in its balanced mode is derived. The model is based on the total energy in the system. The system is divided into subsystems whereby the interconnections which exist are utilized. The nonlinearity of the model is preserved using port-controlled Hamiltonian (PCH) system and made to advantage. The proposed controlled is designed based on the idea of PCH such that the energy balance in the system can be achieved while stabilizing the system.

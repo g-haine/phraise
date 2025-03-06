@@ -8,7 +8,7 @@ layout: base
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        Creation on CrossRef: {{ page.date | date: date_format }}
+      Collection: <a href="{{ site.baseurl }}/categories/{{ page.category }}">{{ page.category | capitalize }}</a> - Creation on CrossRef: {{ page.date | date: date_format }}
       </time>
       {%- if page.modified_date -%}
         ~ 

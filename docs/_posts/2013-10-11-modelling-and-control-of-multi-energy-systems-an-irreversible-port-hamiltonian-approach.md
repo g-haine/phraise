@@ -5,12 +5,17 @@ date: 2013-10-11 00:00:00 +0100
 permalink: modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach
 year: 2013
 authors: Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro
-category: journal-article
-tag: Irreversible thermodynamics; Port-Hamiltonian system; Control; Multi-energy systems
+category:
+  - proceedings
+tags:
+  - irreversible thermodynamics
+  - port-hamiltonian system
+  - control
+  - multi-energy systems
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Bernhard Maschke](authors/bernhard-maschke), [Daniel Sbarbaro](authors/daniel-sbarbaro)
+[Hector Ramirez](authors/hector_ramirez), [Bernhard Maschke](authors/bernhard_maschke), [Daniel Sbarbaro](authors/daniel_sbarbaro)
  
 ## Abstract
 In recent work a class of quasi port Hamiltonian system expressing the first and second principle of thermodynamics as a structural property has been defined: Irreversible port-Hamiltonian system. These systems are very much like port-Hamiltonian systems but differ in that their structure matrices are modulated by a non-linear function that precisely expresses the irreversibility of the system. In a first instance irreversible port-Hamiltonian systems are extended to encompass coupled mechanical and thermodynamical systems, leading to the definition of reversible–irreversible port Hamiltonian systems. In a second instance, the formalism is used to suggest a class of passivity based controllers for thermodynamic systems based on interconnection and Casimir functions. However, the extension of the Casimir method to irreversible port-Hamiltonian systems is not so straightforward due to the “interconnection obstacle”. The heat exchanger, a gas-piston system and the non-isothermal CSTR are used to illustrate the formalism.
@@ -26,7 +31,7 @@ Irreversible thermodynamics; Port-Hamiltonian system; Control; Multi-energy syst
 - **Pages:** 513--520
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2013.09.009](https://doi.org/10.1016/j.ejcon.2013.09.009)
-- **Note:** Lagrangian and Hamiltonian Methods for Modelling and Control
+- **Event:** Lagrangian and Hamiltonian Methods for Modelling and Control
  
 ## BibTeX
 {% highlight bibtex %}

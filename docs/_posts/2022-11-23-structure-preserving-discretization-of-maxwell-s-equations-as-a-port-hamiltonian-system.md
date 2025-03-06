@@ -5,12 +5,18 @@ date: 2022-11-23 00:00:00 +0100
 permalink: structure-preserving-discretization-of-maxwell-s-equations-as-a-port-hamiltonian-system
 year: 2022
 authors: Ghislain Haine, Denis Matignon, Florian Monteghetti
-category: journal-article
-tag: Port-Hamiltonian systems; Structure-preserving method; Maxwell's equations; Charge preservation; Impedance boundary condition
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - structure-preserving method
+  - maxwell's equations
+  - charge preservation
+  - impedance boundary condition
 ---
  
 ## Authors
-[Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon), [Florian Monteghetti](authors/florian-monteghetti)
+[Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon), [Florian Monteghetti](authors/florian_monteghetti)
  
 ## Abstract
 This work demonstrates the discretization of the boundary-controlled Maxwell equations, recast as a port-Hamiltonian system (pHs). After a reminder on the Stokes-Dirac structure associated with the Maxwell system, we introduce different partitioned weak formulations that preserve the pHs structure, and its associated power balance, at the semi-discrete level. These weak formulations are compared through numerical applications to closed non-perfectly conducting cavities and open waveguides under transverse approximation.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; Structure-preserving method; Maxwell's equations; Char
 - **Pages:** 424--429
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.090](https://doi.org/10.1016/j.ifacol.2022.11.090)
-- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}

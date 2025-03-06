@@ -5,12 +5,18 @@ date: 2019-06-24 00:00:00 +0100
 permalink: direct-power-control-of-electrical-energy-storage-systems-a-passivity-based-pi-approach
 year: 2019
 authors: Walter Gil–-González, Oscar Danilo Montoya, Alejandro Garces
-category: journal-article
-tag: Direct power model; Electrical energy storage system; PI passivity-based control; Port-Hamiltonian formulation; A low-voltage microgrid
+category:
+  - articles
+tags:
+  - direct power model
+  - electrical energy storage system
+  - pi passivity-based control
+  - port-hamiltonian formulation
+  - a low-voltage microgrid
 ---
  
 ## Authors
-[Walter Gil–-González](authors/walter-gil-gonzale), [Oscar Danilo Montoya](authors/oscar-danilo-montoya), [Alejandro Garces](authors/alejandro-garces-ruiz)
+[Walter Gil–-González](authors/walter_gil_gonzale), [Oscar Danilo Montoya](authors/oscar_danilo_montoya), [Alejandro Garces](authors/alejandro_garces_ruiz)
  
 ## Abstract
 This paper proposes a direct power control for electrical energy storage systems (EESS) in ac microgrids. This strategy allows managing instantaneous active and reactive power without using a conventional inner-loop current regulator and without a phase-locked loop, increasing the reliability of the system while reducing investment costs. PI passivity-based control (PI-PBC) is selected to control the direct power model of EESS. This is because their models exhibit a port-Hamiltonian formulation in open-loop, and PI-PBC exploits this formulation to design a PI controller, which guarantees global asymptotically stability in closed-loop in the sense of Lyapunov. Simulations tested the proposed model in a microgrid and compared with conventional vector oriented controls in a dq reference frame and a direct power model controlled via feedback linearization (FL). PI-PBC has a better performance than other two controllers in all considered scenarios. Simulation results have conducted through MATLAB/SIMULINK software by using the SimPowerSystem toolbox.

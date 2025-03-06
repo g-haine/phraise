@@ -5,12 +5,18 @@ date: 2021-11-19 00:00:00 +0100
 permalink: incompressible-navier-stokes-equation-as-port-hamiltonian-systems-velocity-formulation-versus-vorticity-formulation
 year: 2021
 authors: Ghislain Haine, Denis Matignon
-category: journal-article
-tag: Navier-Stokes Equations (NSE); Port-Hamiltonian systems (pHs); Incompressible fluid; vorticity; Partitioned Finite Element Method (PFEM)
+category:
+  - proceedings
+tags:
+  - navier-stokes equations (nse)
+  - port-hamiltonian systems (phs)
+  - incompressible fluid
+  - vorticity
+  - partitioned finite element method (pfem)
 ---
  
 ## Authors
-[Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
+[Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 Starting from the description of the isentropic compressible viscous fluid as port-Hamiltonian system in [Mora & al., 2020], the special cases of irrotational or incompressible cases in 2D or 3D are investigated. For the incompressible fluid, the non-linear Navier-Stokes equations are first presented with velocity as energy variable, then analyzed as a modulated port-Hamiltonian system with the help of the vorticity as energy variable. Finally, the structure-preserving numerical scheme provided by the Partitioned Finite Element Method (PFEM) of [Serhani & al., 2019] is applied to the incompressible dissipative fluid in 2D.
@@ -26,7 +32,7 @@ Navier-Stokes Equations (NSE); Port-Hamiltonian systems (pHs); Incompressible fl
 - **Pages:** 161--166
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.072](https://doi.org/10.1016/j.ifacol.2021.11.072)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

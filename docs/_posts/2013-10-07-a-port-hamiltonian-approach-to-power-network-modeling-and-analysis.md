@@ -5,12 +5,17 @@ date: 2013-10-07 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-power-network-modeling-and-analysis
 year: 2013
 authors: S. Fiaz, D. Zonetti, R. Ortega, J.M.A. Scherpen, A.J. van der Schaft
-category: journal-article
-tag: Power networks; Modeling; Port-Hamiltonian systems; Stability analysis
+category:
+  - proceedings
+tags:
+  - power networks
+  - modeling
+  - port-hamiltonian systems
+  - stability analysis
 ---
  
 ## Authors
-[S. Fiaz](authors/s-fiaz), [D. Zonetti](authors/daniele-zonetti), [R. Ortega](authors/romeo-ortega), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[S. Fiaz](authors/s_fiaz), [D. Zonetti](authors/daniele_zonetti), [R. Ortega](authors/romeo_ortega), [J.M.A. Scherpen](authors/jacquelien_m_a_scherpen), [A.J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 In this paper we present a systematic framework for modeling of power networks. The basic idea is to view the complete power network as a port-Hamiltonian system on a graph where edges correspond to components of the power network and nodes are buses. The interconnection constraints are given by the graph incidence matrix which captures the interconnection structure of the network. As a special case we focus on the system obtained by interconnecting a synchronous generator with a resistive load. We use Park's state transformation to decouple the dynamics of the state variables from the dynamics of the rotor angle, resulting in a quotient system admitting equilibria. We analyze the stability of the quotient system when it is given constant input mechanical torque and electrical excitation.
@@ -26,7 +31,7 @@ Power networks; Modeling; Port-Hamiltonian systems; Stability analysis
 - **Pages:** 477--485
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2013.09.002](https://doi.org/10.1016/j.ejcon.2013.09.002)
-- **Note:** Lagrangian and Hamiltonian Methods for Modelling and Control
+- **Event:** Lagrangian and Hamiltonian Methods for Modelling and Control
  
 ## BibTeX
 {% highlight bibtex %}

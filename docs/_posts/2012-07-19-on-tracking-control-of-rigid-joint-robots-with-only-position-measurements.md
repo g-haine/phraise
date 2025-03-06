@@ -5,11 +5,11 @@ date: 2012-07-19 00:00:00 +0100
 permalink: on-tracking-control-of-rigid-joint-robots-with-only-position-measurements
 year: 2013
 authors: Daniel A. Dirksz, Jacquelien M. A. Scherpen
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Daniel A. Dirksz](authors/daniel_a_dirksz), [Jacquelien M. A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 In this letter, we present tracking control with only position measurements for rigid-joint robots, by applying the canonical transformation theory for port-Hamiltonian systems. We show that besides giving the same results as presented in the literature for Euler-Lagrange systems, the canonical transformation theory also justifies a Coriolis matrix based on the desired velocities. Furthermore, we show how the initial conditions of the controller can be tuned in order to improve transient performance. Finally, we validate our results on a simple experimental setup.

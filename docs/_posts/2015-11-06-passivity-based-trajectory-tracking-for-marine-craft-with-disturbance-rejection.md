@@ -5,12 +5,16 @@ date: 2015-11-06 00:00:00 +0100
 permalink: passivity-based-trajectory-tracking-for-marine-craft-with-disturbance-rejection
 year: 2015
 authors: Alejandro Donaire, Jose Guadalupe Romero, Tristan Perez
-category: journal-article
-tag: Marine systems; Port-Hamiltonian Systems; Nonlinear control
+category:
+  - proceedings
+tags:
+  - marine systems
+  - port-hamiltonian systems
+  - nonlinear control
 ---
  
 ## Authors
-[Alejandro Donaire](authors/alejandro-donaire), [Jose Guadalupe Romero](authors/jose-guadalupe-romero), [Tristan Perez](authors/tristan-perez)
+[Alejandro Donaire](authors/alejandro_donaire), [Jose Guadalupe Romero](authors/jose_guadalupe_romero), [Tristan Perez](authors/tristan_perez)
  
 ## Abstract
 This paper presents a Hamiltonian model of marine vehicle dynamics in six degrees of freedom in both body-fixed and inertial momentum coordinates. The model in body-fixed coordinates presents a particular structure of the mass matrix that allows the adaptation and application of passivity-based control interconnection and damping assignment design methodologies developed for robust stabilisation of mechanical systems in terms of generalised coordinates. As an example of application, we follow this methodology to design a passivity-based tracking controller with integral action for fully actuated vehicles in six degrees of freedom. We also describe a momentum transformation that allows an alternative model representation that resembles general port-Hamiltonian mechanical systems with a coordinate dependent mass matrix. This can be seen as an enabling step towards the adaptation of the theory of control of port-Hamiltonian systems developed in robotic manipulators and multi-body mechanical systems to the case of marine craft dynamics.
@@ -26,7 +30,7 @@ Marine systems; Port-Hamiltonian Systems; Nonlinear control
 - **Pages:** 19--24
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.252](https://doi.org/10.1016/j.ifacol.2015.10.252)
-- **Note:** 10th IFAC Conference on Manoeuvring and Control of Marine Craft MCMC 2015- Copenhagen, 24–26 August 2015
+- **Event:** 10th IFAC Conference on Manoeuvring and Control of Marine Craft MCMC 2015- Copenhagen, 24–26 August 2015
  
 ## BibTeX
 {% highlight bibtex %}

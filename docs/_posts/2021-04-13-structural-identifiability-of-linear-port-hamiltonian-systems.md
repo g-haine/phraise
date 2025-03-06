@@ -5,12 +5,19 @@ date: 2021-04-13 00:00:00 +0100
 permalink: structural-identifiability-of-linear-port-hamiltonian-systems
 year: 2021
 authors: Silviu Medianu, Laurent Lefèvre
-category: journal-article
-tag: Port Hamiltonian systems; LTI systems; Structural identifiability; Port-observability; Global–local identifiability; Port-identifiability
+category:
+  - articles
+tags:
+  - port hamiltonian systems
+  - lti systems
+  - structural identifiability
+  - port-observability
+  - global–local identifiability
+  - port-identifiability
 ---
  
 ## Authors
-[Silviu Medianu](authors/silviu-medianu), [Laurent Lefèvre](authors/laurent-lefevre)
+[Silviu Medianu](authors/silviu_medianu), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 This paper, puts in discussion the structural identifiability of LTI Port-Controlled Hamiltonian (PCH) systems, in order to develop a specific identification and control theory. This is due to their remarkable properties of power conservation and stability under power preserving interconnection. The main part of the paper, presents a power based identifiability approach, with specific propositions and definitions. It is based on the power knowledge associated with the system ports, interconnected by a Dirac structure, for selected input signals. In a preliminary section, corresponding transfer functions, system outputs, Markov parameters, observability conditions, port-observability or infinite Grammians are defined for each port. Beside this, a port-identifiability concept is introduced for the identifiability analysis of one port. It is proved that between the input and system ports, a specific model can be determined for identification analysis, preserving in the same time the PCH structure. As examples to demonstrate the theory, a controlled LC circuit and a DC motor are selected for the lossless and lossy cases, respectively.

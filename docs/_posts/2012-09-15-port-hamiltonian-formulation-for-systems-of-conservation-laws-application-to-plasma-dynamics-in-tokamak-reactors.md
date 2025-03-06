@@ -5,11 +5,11 @@ date: 2012-09-15 00:00:00 +0100
 permalink: port-hamiltonian-formulation-for-systems-of-conservation-laws-application-to-plasma-dynamics-in-tokamak-reactors
 year: 2012
 authors: Ngoc Minh Trang VU, Laurent LEFEVRE, Bernhard MASCHKE
-category: journal-article
+category: proceedings
 ---
  
 ## Authors
-[Ngoc Minh Trang VU](authors/ngoc-minh-trang-vu), [Laurent LEFEVRE](authors/laurent-lefevre), [Bernhard MASCHKE](authors/bernhard-maschke)
+[Ngoc Minh Trang VU](authors/ngoc_minh_trang_vu), [Laurent LEFEVRE](authors/laurent_lefevre), [Bernhard MASCHKE](authors/bernhard_maschke)
  
 ## Abstract
 A port-Hamiltonian model is derived for the thermo-magneto-hydro dynamics of plasma in tokamaks. Magnetohydrodynamic and energy balance equations are expressed in their covariant form and written in the port-Hamiltonian formalism using Dirac structures. This Dirac structure is established as the interconnection of Stokes-Dirac structures with a specific interconnection structure representing the magneto-hydrodynamical coupling. Finally the problem of current density profile control is defined and potential approaches are discussed.
@@ -22,7 +22,7 @@ A port-Hamiltonian model is derived for the thermo-magneto-hydro dynamics of pla
 - **Pages:** 108--113
 - **Publisher:** Elsevier BV
 - **DOI:** [10.3182/20120829-3-IT-4022.00016](https://doi.org/10.3182/20120829-3-IT-4022.00016)
-- **Note:** 4th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control
+- **Event:** 4th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control
  
 ## BibTeX
 {% highlight bibtex %}

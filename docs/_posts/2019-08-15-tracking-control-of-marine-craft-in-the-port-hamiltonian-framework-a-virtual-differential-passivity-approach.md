@@ -5,11 +5,11 @@ date: 2019-08-15 00:00:00 +0100
 permalink: tracking-control-of-marine-craft-in-the-port-hamiltonian-framework-a-virtual-differential-passivity-approach
 year: 2019
 authors: Rodolfo Reyes-Baez, Arjan van der Schaft, Bayu Jayawardhana, Alejandro Donaire, Tristan Perez
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Rodolfo Reyes-Baez](authors/rodolfo-reyes-baez), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bayu Jayawardhana](authors/bayu-jayawardhana), [Alejandro Donaire](authors/alejandro-donaire), [Tristan Perez](authors/tristan-perez)
+[Rodolfo Reyes-Baez](authors/rodolfo_reyes_baez), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Bayu Jayawardhana](authors/bayu_jayawardhana), [Alejandro Donaire](authors/alejandro_donaire), [Tristan Perez](authors/tristan_perez)
  
 ## Abstract
 In this work we propose a virtual contraction-based control (v-CBC) design approach to the tracking problem in marine craft modeled as port-Hamiltonian (pH) systems. The design method consists of three main steps: i) construct a virtual control system which has all the original marine craft pH model's solutions embedded; ii) design a control law that makes the virtual control system contracting with a desired steady-state trajectory; iii) close the loop of the original marine craft pH model with above controllers. Due to the rigid body nature of marine craft, two v-CBC schemes are proposed; one in a body frame and another in an inertial frame. We show how the intrinsic structure of pH models and their workless forces can be exploited to construct virtual control systems for marine craft in both frames. The closed-loop system's performance is evaluated on simulations.

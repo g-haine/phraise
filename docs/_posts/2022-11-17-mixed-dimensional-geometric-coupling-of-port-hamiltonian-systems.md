@@ -5,12 +5,17 @@ date: 2022-11-17 00:00:00 +0100
 permalink: mixed-dimensional-geometric-coupling-of-port-hamiltonian-systems
 year: 2023
 authors: Jens Jäschke, Nathanael Skrepek, Matthias Ehrhardt
-category: journal-article
-tag: Port-Hamiltonian system; Coupled systems; Geometric coupling; Infinite dimensional systems
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - coupled systems
+  - geometric coupling
+  - infinite dimensional systems
 ---
  
 ## Authors
-[Jens Jäschke](authors/jens-jaschke), [Nathanael Skrepek](authors/nathanael-skrepek), [Matthias Ehrhardt](authors/matthias-ehrhardt)
+[Jens Jäschke](authors/jens_jaschke), [Nathanael Skrepek](authors/nathanael_skrepek), [Matthias Ehrhardt](authors/matthias_ehrhardt)
  
 ## Abstract
 We propose a new interconnection relation for infinite-dimensional port-Hamiltonian systems that enables the coupling of ports with different spatial dimensions by integrating over the surplus dimensions. To show the practical relevance, we apply this interconnection to a model system of an actively cooled gas turbine blade. We also show that this interconnection relation behaves well with respect to a discretization in finite element space, ensuring its usability for practical applications.

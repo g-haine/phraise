@@ -5,11 +5,11 @@ date: 2013-09-11 00:00:00 +0100
 permalink: symplectic-integrators-for-index-1-constraints
 year: 2013
 authors: Robert I. McLachlan, Klas Modin, Olivier Verdier, Matt Wilkins
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Robert I. McLachlan](authors/robert-i-mclachlan), [Klas Modin](authors/klas-modin), [Olivier Verdier](authors/olivier-verdier), [Matt Wilkins](authors/matt-wilkins)
+[Robert I. McLachlan](authors/robert_i_mclachlan), [Klas Modin](authors/klas_modin), [Olivier Verdier](authors/olivier_verdier), [Matt Wilkins](authors/matt_wilkins)
  
 ## Abstract
 We show that symplectic Runge-Kutta methods provide effective symplectic integrators for Hamiltonian systems with index one constraints. These include the Hamiltonian description of variational problems subject to position and velocity constraints nondegenerate in the velocities, such as those arising in sub-Riemannian geometry and control theory.

@@ -5,11 +5,11 @@ date: 2021-07-01 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-the-vocal-folds-using-bond-graph-representation
 year: 2021
 authors: Javier G. Fontanet, Juan I. Yuz, Javier A. Torres, Marco A. Gordon, Hector Ramirez
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Javier G. Fontanet](authors/javier-g-fontanet), [Juan I. Yuz](authors/juan-i-yuz), [Javier A. Torres](authors/javier-a-torres), [Marco A. Gordon](authors/marco-a-gordon), [Hector Ramirez](authors/hector-ramirez)
+[Javier G. Fontanet](authors/javier_g_fontanet), [Juan I. Yuz](authors/juan_i_yuz), [Javier A. Torres](authors/javier_a_torres), [Marco A. Gordon](authors/marco_a_gordon), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 In this work we obtain the bond-graph representation of the vocal folds, to then obtain a port-Hamiltonian model. This model is based on the mechanical elements that represent the folds in the body cover model (BCM). The obtained port-Hamiltonian system is then discretised using a truncated Taylor series expansion. State and parameter estimation for this discretised model is then performed using an Extended Kalman Filter and Maximum Likelihood, respectively.

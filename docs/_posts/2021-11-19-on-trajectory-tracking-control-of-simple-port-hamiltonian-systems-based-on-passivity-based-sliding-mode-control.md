@@ -5,12 +5,16 @@ date: 2021-11-19 00:00:00 +0100
 permalink: on-trajectory-tracking-control-of-simple-port-hamiltonian-systems-based-on-passivity-based-sliding-mode-control
 year: 2021
 authors: N. Sakata, K. Fujimoto, I. Maruta
-category: journal-article
-tag: Passivity-based control; Nonlinear control; Robust Control
+category:
+  - proceedings
+tags:
+  - passivity-based control
+  - nonlinear control
+  - robust control
 ---
  
 ## Authors
-[N. Sakata](authors/naoki-sakata), [K. Fujimoto](authors/kenji-fujimoto), [I. Maruta](authors/ichiro-maruta)
+[N. Sakata](authors/naoki_sakata), [K. Fujimoto](authors/kenji_fujimoto), [I. Maruta](authors/ichiro_maruta)
  
 ## Abstract
 In this work, the passivity-based sliding mode control technique is applied to trajectory tracking control problems. This method unifies two methods, sliding mode control and passivity-based control, and has the advantages of both control methods. This paper proposes a pair of a pre-coordinate transformation and a state feedback so that we obtain a desired error port-Hamiltonian system that describes the dynamics of the tracking error. This approach enables us to obtain appropriate design parameters satisfying a kind of matching condition to realize sliding mode control with a Lyapunov function. The effectiveness of the proposed method is demonstrated by a numerical simulation.
@@ -26,7 +30,7 @@ Passivity-based control; Nonlinear control; Robust Control
 - **Pages:** 38--43
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.052](https://doi.org/10.1016/j.ifacol.2021.11.052)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

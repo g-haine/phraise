@@ -5,12 +5,17 @@ date: 2021-11-19 00:00:00 +0100
 permalink: angle-formation-of-double-integrator-with-bearing-and-velocity-information
 year: 2021
 authors: Ningbo Li, Pablo Borja, Arjan van der Schaft, Jacquelien M.A. Scherpen, Liangming Chen
-category: journal-article
-tag: Angle formation; double integrator; port-Hamiltonian; distance estimator
+category:
+  - proceedings
+tags:
+  - angle formation
+  - double integrator
+  - port-hamiltonian
+  - distance estimator
 ---
  
 ## Authors
-[Ningbo Li](authors/ningbo-li), [Pablo Borja](authors/luis-pablo-borja), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Liangming Chen](authors/liangming-chen)
+[Ningbo Li](authors/ningbo_li), [Pablo Borja](authors/luis_pablo_borja), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Liangming Chen](authors/liangming_chen)
  
 ## Abstract
 This paper proposes a passivity-based approach using bearing and velocity information for a triangular formation control with the interaction topology constrained by angles. The controller framework is designed using virtual couplings on the relative measurements related to the edges. The different measurements associated with the edges are mapped by the measurement Jacobian, which is calculated by the time-evolution of the measurement. To avoid unavailable distance measurements in the control law, an estimator is designed based on port-Hamiltonian theory using bearing and velocity measurements. The stability analysis of the closed-loop system is provided and simulations are performed to illustrate the effectiveness of the approach.
@@ -26,7 +31,7 @@ Angle formation; double integrator; port-Hamiltonian; distance estimator
 - **Pages:** 217--222
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.081](https://doi.org/10.1016/j.ifacol.2021.11.081)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

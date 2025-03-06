@@ -5,12 +5,16 @@ date: 2015-06-17 00:00:00 +0100
 permalink: lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems
 year: 2015
 authors: M. Schöberl, K. Schlacher
-category: journal-article
-tag: Differential geometric methods; Lagrangian and Hamiltonian Systems; Partial differential equations
+category:
+  - proceedings
+tags:
+  - differential geometric methods
+  - lagrangian and hamiltonian systems
+  - partial differential equations
 ---
  
 ## Authors
-[M. Schöberl](authors/markus-schoberl), [K. Schlacher](authors/kurt-schlacher)
+[M. Schöberl](authors/markus_schoberl), [K. Schlacher](authors/kurt_schlacher)
  
 ## Abstract
 In this paper we consider distributed-parameter systems that allow for a Lagrangian or port-Hamiltonian formulation. We will distinguish the case where the Lagrangian or the Hamiltonian depend on derivative variables (jet-variables) of first-order and the case where second-order derivatives appear. This distinction will be important for the correct determination of the boundary conditions in the Lagrangian scenario and for the investigation of possible boundary ports in the Hamiltonian picture. The derivation of the partial differential equations and the boundary terms/ports will be accomplished in a geometric fashion by using the so-called Cartan-form. We visualize our results by mechanical examples such as beams and plates.
@@ -26,7 +30,7 @@ Differential geometric methods; Lagrangian and Hamiltonian Systems; Partial diff
 - **Pages:** 610--615
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
-- **Note:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
+- **Event:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
  
 ## BibTeX
 {% highlight bibtex %}

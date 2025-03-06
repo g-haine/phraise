@@ -5,12 +5,18 @@ date: 2023-11-22 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-modelling-of-3d-compressible-fluids
 year: 2023
 authors: Luis A. Mora, Yann Le Gorrec, Denis Matignon, Hector Ramirez
-category: journal-article
-tag: Boundary control systems; infinite-dimensional port-Hamiltonian systems; asymptotic stability; non-linear control; irreversible thermodynamics
+category:
+  - proceedings
+tags:
+  - boundary control systems
+  - infinite-dimensional port-hamiltonian systems
+  - asymptotic stability
+  - non-linear control
+  - irreversible thermodynamics
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis-a-mora), [Yann Le Gorrec](authors/yann-le-gorrec), [Denis Matignon](authors/denis-matignon), [Hector Ramirez](authors/hector-ramirez)
+[Luis A. Mora](authors/luis_a_mora), [Yann Le Gorrec](authors/yann_le_gorrec), [Denis Matignon](authors/denis_matignon), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 Boundary controlled irreversible port-Hamiltonian systems (BC-IPHS) defined on 1, 2 and 3-dimensional spatial domains are defined by extending the formulation of reversible BC-PHS to irreversible thermodynamic systems controlled at the boundaries of their spatial domain. The structure of BC-IPHS has a clear physical interpretation, characterizing the coupling between energy storing and energy dissipating elements. By extending the definition of boundary port variables of BC-PHS to deal with the irreversible energy dissipation, a set of boundary port variables is defined so that BC-IPHS are passive with respect to a given set of conjugated inputs and outputs. As for finite-dimensional IPHS and 1-D infinite-dimensional IPHS recently defined in [Ramirez et al., Chem. Eng. Sci. (2022)], the first and second laws of Thermodynamics are satisfied as a structural property of the system. As a common thread, the 3D compressible fluid example is worked out to illustrate the proposed approach: both the reversible case of the isentropic fluid and the irreversible case of the non-isentropic fluid are presented.
@@ -26,7 +32,7 @@ Boundary control systems; infinite-dimensional port-Hamiltonian systems; asympto
 - **Pages:** 6394--6399
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.836](https://doi.org/10.1016/j.ifacol.2023.10.836)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

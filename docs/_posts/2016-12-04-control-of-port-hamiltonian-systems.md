@@ -5,11 +5,11 @@ date: 2016-12-04 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems
 year: 2017
 authors: Arjan van der Schaft
-category: book-chapter
+category: chapters
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 In this chapter, we will exploit the port-Hamiltonian structure for control, going beyond passivity. We will mainly concentrate on the problem of set-point stabilization . Section  7.1 focusses on control by interconnection , by attaching a controller port-Hamiltonian system to the plant port-Hamiltonian system. Section  7.2 takes a different perspective by emphasizing direct shaping of the Hamiltonian and the structure matrices by state feedback. Other control opportunities will be indicated in Sect.  7.3 ; see also the Notes at the end of this chapter.

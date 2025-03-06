@@ -5,12 +5,17 @@ date: 2011-05-22 00:00:00 +0100
 permalink: energy-shaping-of-distributed-parameter-port-hamiltonian-systems-based-on-finite-element-approximation
 year: 2011
 authors: Alessandro Macchelli
-category: journal-article
-tag: Passivity-based control; Energy shaping control; Port-Hamiltonian systems; Casimir functions
+category:
+  - articles
+tags:
+  - passivity-based control
+  - energy shaping control
+  - port-hamiltonian systems
+  - casimir functions
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 The main contribution of this paper is a procedure for the control by energy shaping via Casimir generation of infinite dimensional port-Hamiltonian systems based on a particular finite element approximation. The proposed approach is justified by the fact that the adopted spatial discretization technique is able to preserve Casimir functions in the closed-loop system when going from the distributed to the (approximated) lumped parameter system. Besides the intrinsic difficulties related to the large number of state variables, the finite element model is generally given in terms of a Dirac structure and is completely a -causal, which implies that the plant dynamics is not given in standard input-state-output form, but as a set of DAEs. Consequently, the classical energy Casimir method has to be extended in order to deal with dynamical systems with constraints, usually appearing in the form of Lagrangian multipliers. The general methodology is illustrated with the help of an example in which the distributed parameter system is a lossless transmission line.

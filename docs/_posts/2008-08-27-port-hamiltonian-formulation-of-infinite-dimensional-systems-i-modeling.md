@@ -5,11 +5,11 @@ date: 2008-08-27 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling
 year: 2004
 authors: A. Macchelli, A.J. van der Schaft, C. Melchiorri
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro-macchelli), [A.J. van der Schaft](authors/arjan-van-der-schaft), [C. Melchiorri](authors/claudio-melchiorri)
+[A. Macchelli](authors/alessandro_macchelli), [A.J. van der Schaft](authors/arjan_van_der_schaft), [C. Melchiorri](authors/claudio_melchiorri)
  
 ## Abstract
 In this paper, some new results concerning the modeling of distributed parameter systems in port Hamiltonian form are presented. The classical finite dimensional port Hamiltonian formulation of a dynamical system is generalized in order to cope with the distributed parameter and multivariable case. The resulting class of infinite dimensional systems is quite general, thus allowing the description of several physical phenomena, such as heat conduction, piezoelectricity and elasticity. Furthermore, classical PDEs can be rewritten within this framework. The key point is the generalization of the notion of finite dimensional Dirac structure in order to deal with an infinite dimensional space of power variables.

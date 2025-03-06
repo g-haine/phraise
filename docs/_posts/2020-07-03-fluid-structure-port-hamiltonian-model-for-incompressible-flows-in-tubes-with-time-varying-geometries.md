@@ -5,11 +5,11 @@ date: 2020-07-03 00:00:00 +0100
 permalink: fluid-structure-port-hamiltonian-model-for-incompressible-flows-in-tubes-with-time-varying-geometries
 year: 2020
 authors: Luis A. Mora, Le Gorrec Yann, Hector Ramirez, Juan Yuz
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis-a-mora), [Le Gorrec Yann](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez), [Juan Yuz](authors/juan-i-yuz)
+[Luis A. Mora](authors/luis_a_mora), [Le Gorrec Yann](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez), [Juan Yuz](authors/juan_i_yuz)
  
 ## Abstract
  A simple and scalable finite-dimensional model based on the port-Hamiltonian framework is proposed to describe the fluid–structure interaction in tubes with time-varying geometries. For this purpose, the moving tube wall is described by a set of mass-spring-damper systems while the fluid is considered as a one-dimensional incompressible flow described by the average momentum dynamics in a set of incompressible flow sections. To couple these flow sections small compressible volumes are defined to describe the pressure between two adjacent fluid sections. The fluid-structure coupling is done through a power-preserving interconnection between velocities and forces. The resultant model includes external inputs for the fluid and inputs for external forces over the mechanical part that can be used for control or interconnection purposes. Numerical examples show the accordance of this simplified model with finite-element models reported in the literature.

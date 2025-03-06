@@ -5,12 +5,18 @@ date: 2019-05-25 00:00:00 +0100
 permalink: port-hamiltonian-formulation-and-symplectic-discretization-of-plate-models-part-i-mindlin-model-for-thick-plates
 year: 2019
 authors: Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon
-category: journal-article
-tag: Port-Hamiltonian systems; Mindlin–Reissner plate; Partitioned Finite Element Method; Geometric spatial discretization; Boundary control
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - mindlin–reissner plate
+  - partitioned finite element method
+  - geometric spatial discretization
+  - boundary control
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea-brugnoli), [Daniel Alazard](authors/daniel-alazard), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger), [Denis Matignon](authors/denis-matignon)
+[Andrea Brugnoli](authors/andrea_brugnoli), [Daniel Alazard](authors/daniel_alazard), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 The port-Hamiltonian formulation is a powerful method for modeling and interconnecting systems of different natures. In this paper, the port-Hamiltonian formulation in tensorial form of a thick plate described by the Mindlin–Reissner model is presented. Boundary control and observation are taken into account. Thanks to tensorial calculus, it can be seen that the Mindlin plate model mimics the interconnection structure of its one-dimensional counterpart, i.e. the Timoshenko beam. The Partitioned Finite Element Method (PFEM) is then extended to both the vectorial and tensorial formulations in order to obtain a suitable, i.e. structure-preserving, finite-dimensional port-Hamiltonian system (PHs), which preserves the structure and properties of the original distributed parameter system. Mixed boundary conditions are finally handled by introducing some algebraic constraints. Numerical examples are finally presented to validate this approach.

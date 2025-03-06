@@ -5,11 +5,11 @@ date: 2020-09-10 00:00:00 +0100
 permalink: simulation-of-an-ondes-martenot-circuit
 year: 2020
 authors: Judy Najnudel, Thomas Helie, David Roze, Henri Boutin
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Judy Najnudel](authors/judy-najnudel), [Thomas Helie](authors/thomas-helie), [David Roze](authors/david-roze), [Henri Boutin](authors/henri-boutin)
+[Judy Najnudel](authors/judy_najnudel), [Thomas Helie](authors/thomas_helie), [David Roze](authors/david_roze), [Henri Boutin](authors/henri_boutin)
  
 ## Abstract
 The ondes Martenot is a classic electronic musical instrument based on heterodyning processing. This article proposes a power-balanced simulation of its circuit, in order to synthesize the sound it produces. To this end, the proposed approach consists in formulating the circuit as a Port-Hamiltonian System, for which power-balanced numerical methods are available. Observations on numerical experiments based upon this formulation allow simplifications of the circuit in order to achieve real-time computation in home-studio conditions.

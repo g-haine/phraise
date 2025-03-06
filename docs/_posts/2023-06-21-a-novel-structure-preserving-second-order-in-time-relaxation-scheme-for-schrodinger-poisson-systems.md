@@ -5,11 +5,11 @@ date: 2023-06-21 00:00:00 +0100
 permalink: a-novel-structure-preserving-second-order-in-time-relaxation-scheme-for-schrodinger-poisson-systems
 year: 2023
 authors: Agissilaos Athanassoulis, Theodoros Katsaounis, Irene Kyza, Stephen Metcalfe
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Agissilaos Athanassoulis](authors/agissilaos-athanassoulis), [Theodoros Katsaounis](authors/theodoros-katsaounis), [Irene Kyza](authors/irene-kyza), [Stephen Metcalfe](authors/stephen-metcalfe)
+[Agissilaos Athanassoulis](authors/agissilaos_athanassoulis), [Theodoros Katsaounis](authors/theodoros_katsaounis), [Irene Kyza](authors/irene_kyza), [Stephen Metcalfe](authors/stephen_metcalfe)
  
 ## Citation
 - **Journal:** Journal of Computational Physics

@@ -5,12 +5,17 @@ date: 2023-11-22 00:00:00 +0100
 permalink: port-hamiltonian-modelling-for-analysis-and-control-of-gas-networks
 year: 2023
 authors: Albertus J. Malan, Lukas Rausche, Felix Strehle, Sören Hohmann
-category: journal-article
-tag: electrical analogy; gas pipeline; network modeling; port-Hamiltonian modeling
+category:
+  - proceedings
+tags:
+  - electrical analogy
+  - gas pipeline
+  - network modeling
+  - port-hamiltonian modeling
 ---
  
 ## Authors
-[Albertus J. Malan](authors/albertus-johannes-malan), [Lukas Rausche](authors/lukas-rausche), [Felix Strehle](authors/felix-strehle), [Sören Hohmann](authors/soren-hohmann)
+[Albertus J. Malan](authors/albertus_johannes_malan), [Lukas Rausche](authors/lukas_rausche), [Felix Strehle](authors/felix_strehle), [Sören Hohmann](authors/soren_hohmann)
  
 ## Abstract
 In this paper, we present finite-dimensional port-Hamiltonian system (PHS) models of a gas pipeline and a network comprising several pipelines for the purpose of control design and stability analysis. Starting from the partial differential Euler equations describing the dynamical flow of gas in a pipeline, the method of lines is employed to obtain a lumped-parameter model, which simplifies to a nonlinear third-order PHS. Parallels between gas networks and power systems are drawn by showing that the obtained pipeline PHS model has the same π-representation as electrical transmission lines. Moreover, to assist future control design, additional passivity properties of the pipeline PHS model are analysed and discussed. By comparing the proposed PHS models against other models in a standard simulation, we show that the simplifying assumptions have no material effect on the model fidelity. The proposed pipeline and network models can serve as a basis for passivity-based control and analysis while the power system parallels facilitate the transfer of existing methods.
@@ -26,7 +31,7 @@ electrical analogy; gas pipeline; network modeling; port-Hamiltonian modeling
 - **Pages:** 5431--5437
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.193](https://doi.org/10.1016/j.ifacol.2023.10.193)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

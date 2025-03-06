@@ -5,12 +5,17 @@ date: 2019-03-29 00:00:00 +0100
 permalink: stabilization-of-lagrange-points-in-circular-restricted-three-body-problem-a-port-hamiltonian-approach
 year: 2019
 authors: Chang Liu, Lu Dong
-category: journal-article
-tag: Lagrange points; Circular Restricted Three-Body Problem; Port-Hamiltonian; Global stability
+category:
+  - articles
+tags:
+  - lagrange points
+  - circular restricted three-body problem
+  - port-hamiltonian
+  - global stability
 ---
  
 ## Authors
-[Chang Liu](authors/chang-liu), [Lu Dong](authors/lu-dong)
+[Chang Liu](authors/chang_liu), [Lu Dong](authors/lu_dong)
  
 ## Abstract
 Current station keeping strategies target periodic orbits around the unstable Lagrange points. These control strategies are based on the Circular Restricted Three-Body Problem (CRTBP) linearized around an equilibrium point and cannot ensure global stability. In this paper, we use the port-Hamiltonian approach to reformulate the CRTBP with input, which preserves the original nonlinear dynamics. Designing a control strategy based on energy shaping and dissipation injection, we obtain the closed-loop Hamiltonian as the candidate of Lyapunov function, which guarantees asymptotic stability. The control strategy designed here is successfully applied to the stabilization of Lagrange points in CRTBP. Furthermore, the designed control approach shows global stability within the application region of CRTBP model, and it is applicable to set arbitrary equilibrium points. The current framework is also stable against error in the thrust and still works when the third body moves beyond the region of applicability of the linearized dynamics, where the linear controller may fail. Finally, this method has potential to be extended to the three-dimensional CRTBP, where both the perturbation and the thrust out of the plane are considered.

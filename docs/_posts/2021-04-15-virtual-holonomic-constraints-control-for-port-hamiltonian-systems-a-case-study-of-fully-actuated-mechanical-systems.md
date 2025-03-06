@@ -5,12 +5,17 @@ date: 2021-04-15 00:00:00 +0100
 permalink: virtual-holonomic-constraints-control-for-port-hamiltonian-systems-a-case-study-of-fully-actuated-mechanical-systems
 year: 2020
 authors: Yuki Okura, Kenji Fujimoto, Chiaki Kojima
-category: journal-article
-tag: nonlinear control; port-Hamiltonian systems; tracking control; mechanical systems
+category:
+  - proceedings
+tags:
+  - nonlinear control
+  - port-hamiltonian systems
+  - tracking control
+  - mechanical systems
 ---
  
 ## Authors
-[Yuki Okura](authors/yuki-okura), [Kenji Fujimoto](authors/kenji-fujimoto), [Chiaki Kojima](authors/chiaki-kojima)
+[Yuki Okura](authors/yuki_okura), [Kenji Fujimoto](authors/kenji_fujimoto), [Chiaki Kojima](authors/chiaki_kojima)
  
 ## Abstract
 In this paper, virtual holonomic constraints control of port-Hamiltonian systems is proposed. In this research we especially focus on controller design for fully actuated mechanical systems as a case study. A virtual holonomic constraint force is calculated as a nonlinear feedback input by introducing the coordinate transformation. When some assumptions hold, this feedback successfully converts the original mechanical system into the reduced order port-Hamiltonian system with desired holonomic constraints. A numerical example shows the effectiveness and the property of the proposed virtual holonominc control.
@@ -26,7 +31,7 @@ nonlinear control; port-Hamiltonian systems; tracking control; mechanical system
 - **Pages:** 5598--5603
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1573](https://doi.org/10.1016/j.ifacol.2020.12.1573)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2021-11-05 00:00:00 +0100
 permalink: correction-to-theory-and-implementation-of-coupled-port-hamiltonian-continuum-and-lumped-parameter-models
 year: 2021
 authors: Finbar J. Argus, Chris P. Bradley, Peter J. Hunter
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Finbar J. Argus](authors/finbar-j-argus), [Chris P. Bradley](authors/chris-p-bradley), [Peter J. Hunter](authors/peter-j-hunter)
+[Finbar J. Argus](authors/finbar_j_argus), [Chris P. Bradley](authors/chris_p_bradley), [Peter J. Hunter](authors/peter_j_hunter)
  
 ## Citation
 - **Journal:** Journal of Elasticity

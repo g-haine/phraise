@@ -5,12 +5,17 @@ date: 2016-11-25 00:00:00 +0100
 permalink: structure-preserving-collocation-method-for-parabolic-systems-application-to-a-diffusion-process
 year: 2016
 authors: F. Couenne, B. Hamroun
-category: journal-article
-tag: port Hamiltonian modeling; model reduction; infinite dimensional systems; transport phenomena
+category:
+  - proceedings
+tags:
+  - port hamiltonian modeling
+  - model reduction
+  - infinite dimensional systems
+  - transport phenomena
 ---
  
 ## Authors
-[F. Couenne](authors/francoise-couenne), [B. Hamroun](authors/boussad-hamroun)
+[F. Couenne](authors/francoise_couenne), [B. Hamroun](authors/boussad_hamroun)
  
 ## Abstract
 In this contribution we present the reduced port Hamiltonian model of a parabolic system obtained by a structure preserving collocation method. It is applied to a nonlinear diffusion process involving two species in gas phase at constant pressure and temperature.
@@ -26,7 +31,7 @@ port Hamiltonian modeling; model reduction; infinite dimensional systems; transp
 - **Pages:** 82--86
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.10.759](https://doi.org/10.1016/j.ifacol.2016.10.759)
-- **Note:** 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016- Vigo, Spain, 28—30 September 2016
+- **Event:** 2th IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2016- Vigo, Spain, 28—30 September 2016
  
 ## BibTeX
 {% highlight bibtex %}

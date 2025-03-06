@@ -5,11 +5,11 @@ date: 2020-03-13 00:00:00 +0100
 permalink: port-hamiltonian-modeling-discretization-and-feedback-control-of-a-circular-water-tank
 year: 2019
 authors: Flavio Luiz Cardoso-Ribeiro, Andrea Brugnoli, Denis Matignon, Laurent Lefevre
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Flavio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Andrea Brugnoli](authors/andrea-brugnoli), [Denis Matignon](authors/denis-matignon), [Laurent Lefevre](authors/laurent-lefevre)
+[Flavio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Andrea Brugnoli](authors/andrea_brugnoli), [Denis Matignon](authors/denis_matignon), [Laurent Lefevre](authors/laurent_lefevre)
  
 ## Abstract
 This work presents the development of the nonlinear 2D Shallow Water Equations (SWE) in polar coordinates as a boundary port controlled Hamiltonian system. A geometric reduction by symmetry is obtained, simplifying the system to one-dimension. The recently developed Partitioned Finite Element Method is applied to semi-discretize the equations, preserving the boundary power-product of both the original 2D and the reduced 1D system. The main advantage of this power-preserving semi-discretization method is that it can be applied using well-established finite element software. In this work, we use FEniCS to solve the variational formulation, including the nonlinearity provided by the non-quadratic Hamiltonian of the SWE. A passive output-feedback controller using damping injection is used to dissipate the water waves.

@@ -5,12 +5,19 @@ date: 2020-06-07 00:00:00 +0100
 permalink: dissipative-extensions-and-port-hamiltonian-operators-on-networks
 year: 2020
 authors: Marcus Waurick, Sven-Ake Wegner
-category: journal-article
-tag: C 0 -semigroup; Port-Hamiltonian PDEs with singular weights; Maximal dissipative operators; Differential equations on infinite networks; Boundary triple(t); Quantum Graphs with vanishing edge lengths
+category:
+  - articles
+tags:
+  - c 0 -semigroup
+  - port-hamiltonian pdes with singular weights
+  - maximal dissipative operators
+  - differential equations on infinite networks
+  - boundary triple(t)
+  - quantum graphs with vanishing edge lengths
 ---
  
 ## Authors
-[Marcus Waurick](authors/marcus-waurick), [Sven-Ake Wegner](authors/sven-ake-wegner)
+[Marcus Waurick](authors/marcus_waurick), [Sven-Ake Wegner](authors/sven_ake_wegner)
  
 ## Abstract
 In this article we study port-Hamiltonian partial differential equations on certain one-dimensional manifolds. We classify those boundary conditions that give rise to contraction semigroups. As an application we study port-Hamiltonian operators on networks whose edges can have finite or infinite length. In particular, we discuss possibly infinite networks in which the edge lengths can accumulate zero and port-Hamiltonian operators with Hamiltonians that neither are bounded nor bounded away from zero. We achieve this, by first providing a new description for maximal dissipative extensions of skew-symmetric operators. The main technical tool used for this is the notion of boundary systems. The latter generalizes the classical notion of boundary triple(t)s and allows to treat skew-symmetric operators with unequal deficiency indices. In order to deal with fairly general variable coefficients, we develop a theory of possibly unbounded, non-negative, injective weights on an abstract Hilbert space.

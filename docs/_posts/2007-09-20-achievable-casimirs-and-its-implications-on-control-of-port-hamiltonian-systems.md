@@ -5,11 +5,11 @@ date: 2007-09-20 00:00:00 +0100
 permalink: achievable-casimirs-and-its-implications-on-control-of-port-hamiltonian-systems
 year: 2007
 authors: R. Pasumarthy, A. J. van der Schaft
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[R. Pasumarthy](authors/ramkrishna-pasumarthy), [A. J. van der Schaft](authors/arjan-van-der-schaft)
+[R. Pasumarthy](authors/ramkrishna_pasumarthy), [A. J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 In this paper we extend results on interconnections of port-Hamiltonian systems to infinite-dimensional port-Hamiltonian systems and to mixed finite and infinite dimensional port-Hamiltonian systems. The problem of achievable Dirac structures is now studied for systems with dissipation, in the finite-dimensional, infinite-dimensional and the mixed finite and infinite-dimensional case. We also characterize the set of achievable Casimirs and study its application for the control of port-Hamiltonian systems.

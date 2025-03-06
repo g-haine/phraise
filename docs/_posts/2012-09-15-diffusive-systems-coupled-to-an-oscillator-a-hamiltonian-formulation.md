@@ -5,12 +5,18 @@ date: 2012-09-15 00:00:00 +0100
 permalink: diffusive-systems-coupled-to-an-oscillator-a-hamiltonian-formulation
 year: 2012
 authors: Y. Le Gorrec, D. Matignon
-category: journal-article
-tag: energy storage; port-Hamiltonian systems; partial differential equations; fractional derivatives; diffusive representation
+category:
+  - proceedings
+tags:
+  - energy storage
+  - port-hamiltonian systems
+  - partial differential equations
+  - fractional derivatives
+  - diffusive representation
 ---
  
 ## Authors
-[Y. Le Gorrec](authors/yann-le-gorrec), [D. Matignon](authors/denis-matignon)
+[Y. Le Gorrec](authors/yann_le_gorrec), [D. Matignon](authors/denis_matignon)
  
 ## Abstract
 The aim of this paper is to study a conservative wave equation coupled to a diffusion equation : this coupled system naturally arises in musical acoustics when viscous and thermal effects at the wall of the duct of a wind instrument are taken into account. The resulting equation, known as Webster-Lokshin model, has variable coefficients in space, and a fractional derivative in time. The port-Hamiltonian formalism proves adequate to reformulate this coupled system, and could enable another well-posedness analysis, using classical results from port-Hamiltonian systems theory.First, an equivalent formulation of fractional derivatives is obtained thanks to so-called diffusive representations: this is the reason why we first concentrate on rewriting these diffusive representations into the port-Hamiltonian formalism; two cases must be studied separately, the fractional integral operator as a low-pass filter, and the fractional derivative operator as a high-pass filter.Second, a standard finite-dimensional mechanical oscillator coupled to both types of dampings, either low-pass or high-pass, is studied as a coupled pHs. The more general PDE system of a wave equation coupled with the diffusion equation is then found to have the same structure as before, but in an appropriate infinite-dimensional setting, which is fully detailed.
@@ -26,7 +32,7 @@ energy storage; port-Hamiltonian systems; partial differential equations; fracti
 - **Pages:** 254--259
 - **Publisher:** Elsevier BV
 - **DOI:** [10.3182/20120829-3-IT-4022.00037](https://doi.org/10.3182/20120829-3-IT-4022.00037)
-- **Note:** 4th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control
+- **Event:** 4th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control
  
 ## BibTeX
 {% highlight bibtex %}

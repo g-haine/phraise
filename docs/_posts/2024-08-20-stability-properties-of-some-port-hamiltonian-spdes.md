@@ -5,11 +5,11 @@ date: 2024-08-20 00:00:00 +0100
 permalink: stability-properties-of-some-port-hamiltonian-spdes
 year: 2024
 authors: Peter Kuchling, Barbara Rüdiger, Baris Ugurcan
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Peter Kuchling](authors/peter-kuchling), [Barbara Rüdiger](authors/barbara-rudiger), [Baris Ugurcan](authors/baris-e-ugurcan)
+[Peter Kuchling](authors/peter_kuchling), [Barbara Rüdiger](authors/barbara_rudiger), [Baris Ugurcan](authors/baris_e_ugurcan)
  
 ## Abstract
 We examine the existence and uniqueness of invariant measures of a class of stochastic partial differential equations with Gaussian and Poissonian noise and its exponential convergence. This class especially includes a case of stochastic port-Hamiltonian equations.

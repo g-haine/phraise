@@ -5,12 +5,17 @@ date: 2024-09-25 00:00:00 +0100
 permalink: on-the-control-by-interconnection-interpretation-of-integral-control-for-port-hamiltonian-systems
 year: 2024
 authors: Joel Ferguson, Lihua Zhou, Saeed Ahmed, Jacquelien M.A. Scherpen
-category: journal-article
-tag: Disturbance rejection; output regulation; passivity-based control; bond graph
+category:
+  - proceedings
+tags:
+  - disturbance rejection
+  - output regulation
+  - passivity-based control
+  - bond graph
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel-ferguson), [Lihua Zhou](authors/lihua-zhou), [Saeed Ahmed](authors/saeed-ahmed), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Joel Ferguson](authors/joel_ferguson), [Lihua Zhou](authors/lihua_zhou), [Saeed Ahmed](authors/saeed_ahmed), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 Integral control is often added to control systems to ensure robustness against unmodelled dynamics and external disturbances. This paper considers the Control-by-Interconnection interpretation of integral control when applied to port-Hamiltonian systems. The interpretation allows the integral controller to be described as a port-Hamiltonian system independent of the plant dynamics. Using this interpretation, we present physical realizations of integral control for a mechanical and an electro-mechanical system.
@@ -26,7 +31,7 @@ Disturbance rejection; output regulation; passivity-based control; bond graph
 - **Pages:** 1--6
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.247](https://doi.org/10.1016/j.ifacol.2024.08.247)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

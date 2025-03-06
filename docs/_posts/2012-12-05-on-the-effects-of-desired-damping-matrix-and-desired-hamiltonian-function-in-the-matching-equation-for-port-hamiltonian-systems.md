@@ -5,12 +5,17 @@ date: 2012-12-05 00:00:00 +0100
 permalink: on-the-effects-of-desired-damping-matrix-and-desired-hamiltonian-function-in-the-matching-equation-for-port-hamiltonian-systems
 year: 2013
 authors: Liangcheng Cai, Yong He, Min Wu
-category: journal-article
-tag: Port–Hamiltonian systems; Desired damping matrix; Matching equations; Convergence speed
+category:
+  - articles
+tags:
+  - port–hamiltonian systems
+  - desired damping matrix
+  - matching equations
+  - convergence speed
 ---
  
 ## Authors
-[Liangcheng Cai](authors/liangcheng-cai), [Yong He](authors/yong-he), [Min Wu](authors/min-wu)
+[Liangcheng Cai](authors/liangcheng_cai), [Yong He](authors/yong_he), [Min Wu](authors/min_wu)
  
 ## Abstract
 This paper investigates the effects of desired damping matrix and desired Hamiltonian function in the matching equation for Port–Hamiltonian (PH) systems. Once the desired Hamiltonian function is chosen, if the desired damping matrix is large enough, the convergence speed of the control law asymptotically stabilizing the PH system works more quickly. On the other hand, the desired Hamiltonian function can be replaced by a new desired energy function, which is also effective in energy-shaping. Finally, a three-phase synchronous generator example is given to show the correctness of the above contents.

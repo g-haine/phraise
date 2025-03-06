@@ -5,12 +5,17 @@ date: 2021-04-15 00:00:00 +0100
 permalink: port-hamiltonian-sliding-mode-observer-design-for-a-counter-current-heat-exchanger
 year: 2020
 authors: Jacques Kadima Kazaku, Denis Dochain, Joseph Winkin, Moïse Mukepe Kahilu, Jimmy Kalenga Kaunde Kasongo
-category: journal-article
-tag: Heat exchanger; SMO; port-Hamiltonian systems; state estimation
+category:
+  - proceedings
+tags:
+  - heat exchanger
+  - smo
+  - port-hamiltonian systems
+  - state estimation
 ---
  
 ## Authors
-[Jacques Kadima Kazaku](authors/jacques-kadima-kazaku), [Denis Dochain](authors/denis-dochain), [Joseph Winkin](authors/joseph-j-winkin), [Moïse Mukepe Kahilu](authors/moise-mukepe-kahilu), [Jimmy Kalenga Kaunde Kasongo](authors/jimmy-kalenga-kaunde-kasongo)
+[Jacques Kadima Kazaku](authors/jacques_kadima_kazaku), [Denis Dochain](authors/denis_dochain), [Joseph Winkin](authors/joseph_j_winkin), [Moïse Mukepe Kahilu](authors/moise_mukepe_kahilu), [Jimmy Kalenga Kaunde Kasongo](authors/jimmy_kalenga_kaunde_kasongo)
  
 ## Abstract
 This paper presents a sliding mode observer (SMO) for estimating temperatures in a heat exchanger. First a port-Hamiltonian formulation for a countercurrent heat exchanger is proposed. It is so as to guarantee convergence of the observer. It is shown that the Stokes-Dirac structure obtained by opening only the dissipation ports due to the convection phenomenon, is conservative. Secondly, a SMO based on an interconnected structure of port-Hamiltonian systems is designed. The convergence of the dynamics of the estimation error is proven. The simulation results illustrate the effectiveness of this estimation strategy.
@@ -26,7 +31,7 @@ Heat exchanger; SMO; port-Hamiltonian systems; state estimation
 - **Pages:** 4910--4915
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1066](https://doi.org/10.1016/j.ifacol.2020.12.1066)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2021-07-16 00:00:00 +0100
 permalink: energy-based-in-domain-control-and-observer-design-for-infinite-dimensional-port-hamiltonian-systems
 year: 2021
 authors: Tobias Malzer, Jesús Toledo, Yann Le Gorrec, Markus Schöberl
-category: journal-article
-tag: infinite-dimensional systems; partial differential equations; in-domain actuation; port-Hamiltonian systems; structural invariants
+category:
+  - proceedings
+tags:
+  - infinite-dimensional systems
+  - partial differential equations
+  - in-domain actuation
+  - port-hamiltonian systems
+  - structural invariants
 ---
  
 ## Authors
-[Tobias Malzer](authors/tobias-malzer), [Jesús Toledo](authors/jesus-pablo-toledo-zucco), [Yann Le Gorrec](authors/yann-le-gorrec), [Markus Schöberl](authors/markus-schoberl)
+[Tobias Malzer](authors/tobias_malzer), [Jesús Toledo](authors/jesus_pablo_toledo_zucco), [Yann Le Gorrec](authors/yann_le_gorrec), [Markus Schöberl](authors/markus_schoberl)
  
 ## Abstract
 In this paper, we consider infinite-dimensional port-Hamiltonian systems with in-domain actuation by means of an approach based on Stokes-Dirac structures as well as in a framework that exploits an underlying jet-bundle structure. In both frameworks, a dynamic controller based on the energy-Casimir method is derived in order to stabilise certain equilibrias. Moreover, we propose distributed-parameter observers deduced by exploiting damping injection for the observer error. Finally, we compare the approaches by means of an in-domain actuated vibrating string and show the equivalence of the control schemes derived in both frameworks.
@@ -26,7 +32,7 @@ infinite-dimensional systems; partial differential equations; in-domain actuatio
 - **Pages:** 468--475
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.06.104](https://doi.org/10.1016/j.ifacol.2021.06.104)
-- **Note:** 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020- Cambridge, United Kingdom
+- **Event:** 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020- Cambridge, United Kingdom
  
 ## BibTeX
 {% highlight bibtex %}

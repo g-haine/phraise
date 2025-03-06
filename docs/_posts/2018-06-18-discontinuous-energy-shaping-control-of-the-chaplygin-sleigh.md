@@ -5,12 +5,17 @@ date: 2018-06-18 00:00:00 +0100
 permalink: discontinuous-energy-shaping-control-of-the-chaplygin-sleigh
 year: 2018
 authors: Joel Ferguson, Alejandro Donaire, Richard H. Middleton
-category: journal-article
-tag: Nonholonomic systems; port-Hamiltonian systems; discontinuous control; robust control
+category:
+  - proceedings
+tags:
+  - nonholonomic systems
+  - port-hamiltonian systems
+  - discontinuous control
+  - robust control
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire), [Richard H. Middleton](authors/richard-h-middleton)
+[Joel Ferguson](authors/joel_ferguson), [Alejandro Donaire](authors/alejandro_donaire), [Richard H. Middleton](authors/richard_h_middleton)
  
 ## Abstract
 In this paper we present an energy shaping control law for set-point regulation of the Chaplygin sleigh. It is well known that nonholonomic mechanical systems cannot be asymptotically stabilised using smooth control laws as they do no satisfy Brockett’s necessary condition for smooth stabilisation. Here, we propose a discontinuous control law that can be interpreted as a potential energy shaping and damping injection controller. The proposed controller is shown to be robust against the parameters of both the inertia matrix and the damping structure of the open-loop system.
@@ -26,7 +31,7 @@ Nonholonomic systems; port-Hamiltonian systems; discontinuous control; robust co
 - **Pages:** 211--216
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.056](https://doi.org/10.1016/j.ifacol.2018.06.056)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

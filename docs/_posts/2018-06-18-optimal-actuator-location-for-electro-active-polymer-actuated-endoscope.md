@@ -5,12 +5,17 @@ date: 2018-06-18 00:00:00 +0100
 permalink: optimal-actuator-location-for-electro-active-polymer-actuated-endoscope
 year: 2018
 authors: Yongxin Wu, Yann Le Gorrec
-category: journal-article
-tag: Medical endoscope; optimal actuator location; linear quadratic optimization; port Hamiltonian system
+category:
+  - proceedings
+tags:
+  - medical endoscope
+  - optimal actuator location
+  - linear quadratic optimization
+  - port hamiltonian system
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper deals with optimal actuator location for a medical endoscope controlled by electro-active polymer (EAP). The inner tube of the endoscope is a flexible structure that can be represented by a Timoshenko beam. Actuators are patches of EAP. There is freedom in the choice of EAP actuators location. In this paper, we first propose a port Hamiltonian model of the endoscope. In order to choose the optimal location for the EAP actuators, we consider the linear quadratic (LQ) performance as the optimal performance objective. At last, some numerical simulation results are given based on the real experimental setup parameters.
@@ -26,7 +31,7 @@ Medical endoscope; optimal actuator location; linear quadratic optimization; por
 - **Pages:** 199--204
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.053](https://doi.org/10.1016/j.ifacol.2018.06.053)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

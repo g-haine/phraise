@@ -5,11 +5,11 @@ date: 2016-12-23 00:00:00 +0100
 permalink: model-reduction-of-a-flexible-joint-robot-a-port-hamiltonian-approach
 year: 2016
 authors: H. Jardón-Kojakhmetov, M. Muñoz-Arias, Jacquelien M.A. Scherpen
-category: journal-article
+category: proceedings
 ---
  
 ## Authors
-[H. Jardón-Kojakhmetov](authors/h-jardon-kojakhmetov), [M. Muñoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[H. Jardón-Kojakhmetov](authors/h_jardon_kojakhmetov), [M. Muñoz-Arias](authors/mauricio_munoz_arias), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 In this paper we explore the methodology of model order reduction based on singular perturbations for a flexible-joint robot within the port-Hamiltonian framework. We show that a flexible-joint robot has a port-Hamiltonian representation which is also a singularly perturbed ordinary differential equation. Moreover, the associated reduced slow subsystem corresponds to a port-Hamiltonian model of a rigid-joint robot. To exploit the usefulness of the reduced models, we provide a numerical example where an existing controller for a rigid robot is implemented.
@@ -22,7 +22,7 @@ In this paper we explore the methodology of model order reduction based on singu
 - **Pages:** 832--837
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.10.269](https://doi.org/10.1016/j.ifacol.2016.10.269)
-- **Note:** 10th IFAC Symposium on Nonlinear Control Systems NOLCOS 2016- Monterey, California, USA, 23—25 August 2016
+- **Event:** 10th IFAC Symposium on Nonlinear Control Systems NOLCOS 2016- Monterey, California, USA, 23—25 August 2016
  
 ## BibTeX
 {% highlight bibtex %}

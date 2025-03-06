@@ -5,11 +5,11 @@ date: 2020-01-15 00:00:00 +0100
 permalink: optimal-robustness-of-port-hamiltonian-systems
 year: 2020
 authors: Volker Mehrmann, Paul M. Van Dooren
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Volker Mehrmann](authors/volker-mehrmann), [Paul M. Van Dooren](authors/paul-m-van-dooren)
+[Volker Mehrmann](authors/volker_mehrmann), [Paul M. Van Dooren](authors/paul_m_van_dooren)
  
 ## Abstract
 We construct optimally robust port-Hamiltonian realizations of a given rational transfer function that represents a passive system. We show that the realization with a maximal passivity radius is a normalized port-Hamiltonian one. Its computation is linked to a particular solution of a linear matrix inequality that defines passivity of the transfer function, and we provide an algorithm to construct this optimal solution. We also consider the problem of finding the nearest passive system to a given non-passive one and provide a simple but suboptimal solution.

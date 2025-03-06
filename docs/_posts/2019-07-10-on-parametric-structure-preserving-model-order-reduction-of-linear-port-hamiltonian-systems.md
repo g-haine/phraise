@@ -5,11 +5,11 @@ date: 2019-07-10 00:00:00 +0100
 permalink: on-parametric-structure-preserving-model-order-reduction-of-linear-port-hamiltonian-systems
 year: 2019
 authors: Tobias M. Scheuermann, Paul Kotyczka, Boris Lohmann
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Tobias M. Scheuermann](authors/tobias-m-scheuermann), [Paul Kotyczka](authors/paul-kotyczka), [Boris Lohmann](authors/boris-lohmann)
+[Tobias M. Scheuermann](authors/tobias_m_scheuermann), [Paul Kotyczka](authors/paul_kotyczka), [Boris Lohmann](authors/boris_lohmann)
  
 ## Abstract
 We present a procedure for the parametric order reduction of explicit port-Hamiltonian systems, which extends previous results. The approach is illustrated and discussed on the example of a ladder network.

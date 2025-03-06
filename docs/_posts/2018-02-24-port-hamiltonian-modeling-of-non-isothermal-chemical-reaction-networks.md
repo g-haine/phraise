@@ -5,12 +5,17 @@ date: 2018-02-24 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-non-isothermal-chemical-reaction-networks
 year: 2018
 authors: Li Wang, Bernhard Maschke, Arjan van der Schaft
-category: journal-article
-tag: Chemical reaction networks; Port-Hamiltonian systems; Network dynamics; Irreversible thermodynamic systems
+category:
+  - articles
+tags:
+  - chemical reaction networks
+  - port-hamiltonian systems
+  - network dynamics
+  - irreversible thermodynamic systems
 ---
  
 ## Authors
-[Li Wang](authors/li-wang), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Li Wang](authors/li_wang), [Bernhard Maschke](authors/bernhard_maschke), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 Motivated by recent progress on the port-Hamiltonian formulation of isothermal chemical reaction networks and of the continuous stirred tank reactor, the present paper aims to develop a port-Hamiltonian formulation of chemical reaction networks in the non-isothermal case, and to exploit this for equilibrium and stability analysis.

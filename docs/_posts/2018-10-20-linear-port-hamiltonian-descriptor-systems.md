@@ -5,12 +5,26 @@ date: 2018-10-20 00:00:00 +0100
 permalink: linear-port-hamiltonian-descriptor-systems
 year: 2018
 authors: Christopher Beattie, Volker Mehrmann, Hongguo Xu, Hans Zwart
-category: journal-article
-tag: Port-Hamiltonian system; Descriptor system; Differential-algebraic equation; Passivity; Stability; System transformation; Differentiation index; Strangeness-index; Skew-adjoint operator; 93A30; 65L80; 93B17; 93B11
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - descriptor system
+  - differential-algebraic equation
+  - passivity
+  - stability
+  - system transformation
+  - differentiation index
+  - strangeness-index
+  - skew-adjoint operator
+  - 93a30
+  - 65l80
+  - 93b17
+  - 93b11
 ---
  
 ## Authors
-[Christopher Beattie](authors/christopher-beattie), [Volker Mehrmann](authors/volker-mehrmann), [Hongguo Xu](authors/hongguo-xu), [Hans Zwart](authors/hans-zwart)
+[Christopher Beattie](authors/christopher_beattie), [Volker Mehrmann](authors/volker_mehrmann), [Hongguo Xu](authors/hongguo_xu), [Hans Zwart](authors/hans_zwart)
  
 ## Abstract
 The modeling framework of port-Hamiltonian systems is systematically extended to linear constrained dynamical systems (descriptor systems, differential-algebraic equations) of arbitrary index and with time-varying constraints. A new algebraically and geometrically defined system structure is derived. It is shown that this structure is invariant under equivalence transformations, and that it is adequate also for the modeling of high-index descriptor systems. The regularization procedure for descriptor systems to make them suitable for simulation and control is modified to preserve the port-Hamiltonian form. The relevance of the new structure is demonstrated with several examples.

@@ -5,12 +5,20 @@ date: 2014-07-24 00:00:00 +0100
 permalink: a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations
 year: 2014
 authors: Mónika Polner, J.J.W. van der Vegt
-category: journal-article
-tag: Compressible Euler equations; Hamiltonian formulation; de Rham complex; Hodge decomposition; Stokes–Dirac structures; Vorticity; Dilatation
+category:
+  - articles
+tags:
+  - compressible euler equations
+  - hamiltonian formulation
+  - de rham complex
+  - hodge decomposition
+  - stokes–dirac structures
+  - vorticity
+  - dilatation
 ---
  
 ## Authors
-[Mónika Polner](authors/monika-polner), [J.J.W. van der Vegt](authors/jaap-j-w-van-der-vegt)
+[Mónika Polner](authors/monika_polner), [J.J.W. van der Vegt](authors/jaap_j_w_van_der_vegt)
  
 ## Abstract
 Using the Hodge decomposition on bounded domains the compressible Euler equations of gas dynamics are reformulated using a density weighted vorticity and dilatation as primary variables, together with the entropy and density. This formulation is an extension to compressible flows of the well-known vorticity–stream function formulation of the incompressible Euler equations. The Hamiltonian and associated Poisson bracket for this new formulation of the compressible Euler equations are derived and extensive use is made of differential forms to highlight the mathematical structure of the equations. In order to deal with domains with boundaries also the Stokes–Dirac structure and the port-Hamiltonian formulation of the Euler equations in density weighted vorticity and dilatation variables are obtained.

@@ -5,12 +5,20 @@ date: 2015-11-10 00:00:00 +0100
 permalink: nonlinear-damping-models-for-linear-conservative-mechanical-systems-with-preserved-eigenspaces-a-port-hamiltonian-formulation
 year: 2015
 authors: Thomas Hélie, Denis Matignon
-category: journal-article
-tag: energy storage; port-Hamiltonian systems; eigenfunctions; damping; nonlinear model; partial differential equations; sound synthesis
+category:
+  - proceedings
+tags:
+  - energy storage
+  - port-hamiltonian systems
+  - eigenfunctions
+  - damping
+  - nonlinear model
+  - partial differential equations
+  - sound synthesis
 ---
  
 ## Authors
-[Thomas Hélie](authors/thomas-helie), [Denis Matignon](authors/denis-matignon)
+[Thomas Hélie](authors/thomas_helie), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 This paper introduces linear and nonlinear damping models, which preserve the eigenspaces of conservative linear mechanical problems. After some recalls on the finite dimensional case and on Caughey's linear dampings, an extension to a nonlinear class is introduced. These results are recast in the port-Hamiltonian framework and generalized to infinite dimensional systems. They are applied to an Euler-Bernoulli beam, excited by a distributed force. Simulations yield sounds of xylophone, glockenspiel (etc) and some interpolations for nonlinear dampings.
@@ -26,7 +34,7 @@ energy storage; port-Hamiltonian systems; eigenfunctions; damping; nonlinear mod
 - **Pages:** 200--205
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.239](https://doi.org/10.1016/j.ifacol.2015.10.239)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

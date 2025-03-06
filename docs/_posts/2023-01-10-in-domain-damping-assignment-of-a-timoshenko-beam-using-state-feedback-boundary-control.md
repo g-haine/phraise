@@ -5,11 +5,11 @@ date: 2023-01-10 00:00:00 +0100
 permalink: in-domain-damping-assignment-of-a-timoshenko-beam-using-state-feedback-boundary-control
 year: 2022
 authors: Jeanne Redaud, Jean Auriol, Yann Le Gorrec
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Jeanne Redaud](authors/jeanne-redaud), [Jean Auriol](authors/jean-auriol), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Jeanne Redaud](authors/jeanne_redaud), [Jean Auriol](authors/jean_auriol), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 In this paper, we combine the backstepping methodology and the port Hamiltonian framework to design a boundary full-state feedback controller that modifies the closed-loop in-domain damping of a Timoshenko beam. The beam under consideration is clamped in one end of its spatial domain and actuated at the opposite one. The port Hamiltonian formulation is used to derive several boundedly invertible transformations that map the original system into an exponentially stable closed-loop target system with additional in-domain damping terms. The proposed methodology allows the introduction of tuning parameters with clear physical interpretations for achievable closed-loop behavior. Simulations illustrate the performances of the controller.

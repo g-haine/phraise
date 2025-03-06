@@ -5,11 +5,11 @@ date: 2014-01-17 00:00:00 +0100
 permalink: bounded-stabilisation-of-stochastic-port-hamiltonian-systems
 year: 2014
 authors: Satoshi Satoh, Masami Saeki
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Satoshi Satoh](authors/satoshi-satoh), [Masami Saeki](authors/masami-saeki)
+[Satoshi Satoh](authors/satoshi_satoh), [Masami Saeki](authors/masami_saeki)
  
 ## Abstract
 This paper proposes a stochastic bounded stabilisation method for a class of stochastic port-Hamiltonian systems. Both full-actuated and underactuated mechanical systems in the presence of noise are considered in this class. The proposed method gives conditions for the controller gain and design parameters under which the state remains bounded in probability. The bounded region and achieving probability are both assignable, and a stochastic Lyapunov function is explicitly provided based on a Hamiltonian structure. Although many conventional stabilisation methods assume that the noise vanishes at the origin, the proposed method is applicable to systems under persistent disturbances.

@@ -5,12 +5,27 @@ date: 2021-07-13 00:00:00 +0100
 permalink: theory-and-implementation-of-coupled-port-hamiltonian-continuum-and-lumped-parameter-models
 year: 2021
 authors: Finbar J. Argus, Chris P. Bradley, Peter J. Hunter
-category: journal-article
-tag: Port-Hamiltonian; Modelling; PDE; FEniCS; Hamiltonian; Finite element; Galerkin; Symplectic; Lumped parameter; Continuum; Monolithic; Bond graph; 65P10; 35L05, 74F99, 65M60
+category:
+  - articles
+tags:
+  - port-hamiltonian
+  - modelling
+  - pde
+  - fenics
+  - hamiltonian
+  - finite element
+  - galerkin
+  - symplectic
+  - lumped parameter
+  - continuum
+  - monolithic
+  - bond graph
+  - 65p10
+  - 35l05, 74f99, 65m60
 ---
  
 ## Authors
-[Finbar J. Argus](authors/finbar-j-argus), [Chris P. Bradley](authors/chris-p-bradley), [Peter J. Hunter](authors/peter-j-hunter)
+[Finbar J. Argus](authors/finbar_j_argus), [Chris P. Bradley](authors/chris_p_bradley), [Peter J. Hunter](authors/peter_j_hunter)
  
 ## Abstract
 A continuous Galerkin finite element method that allows mixed boundary conditions without the need for Lagrange multipliers or user-defined parameters is developed. A mixed coupling of Lagrange and Raviart-Thomas basis functions are used. The method is proven to have a Hamiltonian-conserving spatial discretisation and a symplectic time discretisation. The energy residual is therefore guaranteed to be bounded for general problems and exactly conserved for linear problems. The linear 2D wave equation is discretised and modelled by making use of a port-Hamiltonian framework. This model is verified against an analytic solution and shown to have standard order of convergence for the temporal and spatial discretisation. The error growth over time is shown to grow linearly for this symplectic method, which agrees with theoretical results. A modal analysis is performed which verifies that the eigenvalues of the model accurately converge to the exact eigenvalues, as the mesh is refined. The port-Hamiltonian framework allows boundary coupling with bond-graph or, more generally, lumped parameter models, therefore unifying the two fields of lumped parameter modelling and continuum modelling of Hamiltonian systems. The wave domain discretisation is shown to be equivalent to a coupling of canonical port-Hamiltonian forms. This feature allows the model to have mixed boundary conditions as well as to have mixed causality interconnections with other port-Hamiltonian models. A model of the 2D wave equation is coupled, in a monolithic manner, with a lumped parameter model of an electromechanical linear actuator. The combined model is also verified to conserve energy exactly.

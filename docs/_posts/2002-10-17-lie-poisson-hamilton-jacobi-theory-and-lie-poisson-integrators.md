@@ -5,11 +5,11 @@ date: 2002-10-17 00:00:00 +0100
 permalink: lie-poisson-hamilton-jacobi-theory-and-lie-poisson-integrators
 year: 1988
 authors: Ge Zhong, Jerrold E. Marsden
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ge Zhong](authors/ge-zhong), [Jerrold E. Marsden](authors/jerrold-e-marsden)
+[Ge Zhong](authors/ge_zhong), [Jerrold E. Marsden](authors/jerrold_e_marsden)
  
 ## Abstract
 We present results on numerical integrators that exactly preserve momentum maps and Poisson brackets, thereby inducing integrators that preserve the natural Lie-Poisson structure on the duals of Lie algebras. The techniques are baseda on time-stepping with the generating function obtained as an approximate solution to the Hamilton-Jacobi equation, following ideas of deVogelaére, Channel,, and Feng. To accomplish this, the Hamilton-Jacobi theory is reduced from T∗G to g∗, where g is the Lie algebra of a Lie group G. The algorithms exactly preserve any additional conserved quantities in the problem. An explicit algorithm is given for any semi-simple group and in particular for the Euler equation of rigid body dynamics.

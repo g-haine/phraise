@@ -5,12 +5,18 @@ date: 2022-09-16 00:00:00 +0100
 permalink: dual-field-structure-preserving-discretization-of-port-hamiltonian-systems-using-finite-element-exterior-calculus
 year: 2022
 authors: Andrea Brugnoli, Ramy Rashad, Stefano Stramigioli
-category: journal-article
-tag: Port-Hamiltonian systems; Structure preserving discretization; Finite element exterior calculus; de Rham complex; Dual field representation
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - structure preserving discretization
+  - finite element exterior calculus
+  - de rham complex
+  - dual field representation
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea-brugnoli), [Ramy Rashad](authors/ramy-rashad), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Andrea Brugnoli](authors/andrea_brugnoli), [Ramy Rashad](authors/ramy_rashad), [Stefano Stramigioli](authors/stefano_stramigioli)
  
 ## Abstract
 In this paper we propose a novel approach to discretize linear port-Hamiltonian systems while preserving the underlying structure. We present a finite element exterior calculus formulation that is able to mimetically represent conservation laws and cope with mixed open boundary conditions using a single computational mesh. The possibility of including open boundary conditions allows for modular composition of complex multi-physical systems whereas the exterior calculus formulation provides a coordinate-free treatment. Our approach relies on a dual-field representation of the physical system that is redundant at the continuous level but eliminates the need of mimicking the Hodge star operator at the discrete level. By considering the Stokes-Dirac structure representing the system together with its adjoint, which embeds the metric information directly in the codifferential, the need for an explicit discrete Hodge star is avoided altogether. By imposing the boundary conditions in a strong manner, the power balance characterizing the Stokes-Dirac structure is then retrieved at the discrete level via symplectic Runge-Kutta integrators based on Gauss-Legendre collocation points. Numerical experiments validate the convergence of the method and the conservation properties in terms of energy balance both for the wave and Maxwell equations in a three dimensional domain. For the latter example, the magnetic and electric fields preserve their divergence free nature at the discrete level.

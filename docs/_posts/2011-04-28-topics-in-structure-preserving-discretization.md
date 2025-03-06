@@ -5,11 +5,11 @@ date: 2011-04-28 00:00:00 +0100
 permalink: topics-in-structure-preserving-discretization
 year: 2011
 authors: Snorre H. Christiansen, Hans Z. Munthe-Kaas, Brynjulf Owren
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Snorre H. Christiansen](authors/snorre-h-christiansen), [Hans Z. Munthe-Kaas](authors/hans-z-munthe-kaas), [Brynjulf Owren](authors/brynjulf-owren)
+[Snorre H. Christiansen](authors/snorre_h_christiansen), [Hans Z. Munthe-Kaas](authors/hans_z_munthe_kaas), [Brynjulf Owren](authors/brynjulf_owren)
  
 ## Abstract
 In the last few decades the concepts of structure-preserving discretization, geometric integration and compatible discretizations have emerged as subfields in the numerical approximation of ordinary and partial differential equations. The article discusses certain selected topics within these areas; discretization techniques both in space and time are considered. Lie group integrators are discussed with particular focus on the application to partial differential equations, followed by a discussion of how time integrators can be designed to preserve first integrals in the differential equation using discrete gradients and discrete variational derivatives.\n Lie group integrators depend crucially on fast and structure-preserving algorithms for computing matrix exponentials. Preservation of domain symmetries is of particular interest in the application of Lie group integrators to PDEs. The equivariance of linear operators and Fourier transforms on non-commutative groups is used to construct fast structure-preserving algorithms for computing exponentials. The theory of Weyl groups is employed in the construction of high-order spectral element discretizations, based on multivariate Chebyshev polynomials on triangles, simplexes and simplicial complexes.\n The theory of mixed finite elements is developed in terms of special inverse systems of complexes of differential forms, where the inclusion of cells corresponds to pullback of forms. The theory covers, for instance, composite piecewise polynomial finite elements of variable order over polyhedral grids. Under natural algebraic and metric conditions, interpolators and smoothers are constructed, which commute with the exterior derivative and whose product is uniformly stable in Lebesgue spaces. As a consequence we obtain not only eigenpair approximation for the Hodge–Laplacian in mixed form, but also variants of Sobolev injections and translation estimates adapted to variational discretizations.

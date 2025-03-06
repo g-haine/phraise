@@ -210,7 +210,7 @@ while IFS= read -r doi; do
             json_scopus=$(fetch_metadata_scopus "$doi")
             abstract=$(abstract_from_scopus "$json_scopus")
             keywords=$(keywords_from_scopus "$json_scopus")
-            event=$(event_from_scopus "$json_scopus")
+            event=$(event_from_scopus "$json_scopus" | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/"/\\"/g')
         fi
         
         # Update si springer
@@ -218,7 +218,7 @@ while IFS= read -r doi; do
             json_springer=$(fetch_metadata_springer "$doi")
             abstract=$(abstract_from_springer "$json_springer")
             keywords=$(keywords_from_springer "$json_springer")
-            event=$(event_from_springer "$json_springer")
+            event=$(event_from_springer "$json_springer" | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/"/\\"/g')
         fi
         
         # Complement pour l'abstract
@@ -242,12 +242,12 @@ while IFS= read -r doi; do
         echo "    \"type\": \"$type\"," >> $output_json
         echo "    \"title\": \"$title\"," >> $output_json
         echo "    \"authors\": $authors," >> $output_json
-        echo "    \"abstract\": \"$abstract\","  >> $output_json
+        echo "    \"abstract\": \"$abstract\"," >> $output_json
         echo "    \"journal\": \"$journal\"," >> $output_json
         echo "    \"year\": \"$year\"," >> $output_json
         echo "    \"volume\": \"$volume\"," >> $output_json
         echo "    \"issue\": \"$issue\"," >> $output_json
-        echo "    \"event\": \"$event\"," | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' >> $output_json
+        echo "    \"event\": \"$event\"," >> $output_json
         echo "    \"isbn\": \"$isbn\"," >> $output_json
         echo "    \"pages\": \"$pages\"," >> $output_json
         echo "    \"publisher\": \"$publisher\"," >> $output_json

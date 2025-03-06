@@ -5,12 +5,17 @@ date: 2016-07-20 00:00:00 +0100
 permalink: a-constructive-procedure-for-energy-shaping-of-port-hamiltonian-systems
 year: 2016
 authors: Pablo Borja, Rafael Cisneros, Romeo Ortega
-category: journal-article
-tag: Passivity; Nonlinear systems; Passivity-based control; Hamiltonian systems
+category:
+  - articles
+tags:
+  - passivity
+  - nonlinear systems
+  - passivity-based control
+  - hamiltonian systems
 ---
  
 ## Authors
-[Pablo Borja](authors/luis-pablo-borja), [Rafael Cisneros](authors/rafael-cisneros), [Romeo Ortega](authors/romeo-ortega)
+[Pablo Borja](authors/luis_pablo_borja), [Rafael Cisneros](authors/rafael_cisneros), [Romeo Ortega](authors/romeo_ortega)
  
 ## Abstract
 Equilibrium stabilization of nonlinear systems via energy shaping is a well-established, robust, passivity-based controller design technique. Unfortunately, its application is often stymied by the need to solve partial differential equations, which is usually a difficult task. In this paper a new, fully constructive, procedure to shape the energy for a class of port-Hamiltonian systems that obviates the solution of partial differential equations is proposed. Proceeding from the well-known passive, power shaping output we propose a nonlinear static state-feedback that preserves passivity of this output but with a new storage function. A suitable selection of a controller gain makes this function positive definite, hence it is a suitable Lyapunov function for the closed-loop. The resulting controller may be interpreted as a classical PI—connections with other standard passivity-based controllers are also identified.

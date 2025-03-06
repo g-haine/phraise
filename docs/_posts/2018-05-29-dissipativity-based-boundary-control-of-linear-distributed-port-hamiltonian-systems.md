@@ -5,12 +5,17 @@ date: 2018-05-29 00:00:00 +0100
 permalink: dissipativity-based-boundary-control-of-linear-distributed-port-hamiltonian-systems
 year: 2018
 authors: Alessandro Macchelli, Federico Califano
-category: journal-article
-tag: Distributed-parameter systems; Stabilisation methods; Linear (control) systems; Partial differential equations
+category:
+  - articles
+tags:
+  - distributed-parameter systems
+  - stabilisation methods
+  - linear (control) systems
+  - partial differential equations
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Federico Califano](authors/federico-califano)
+[Alessandro Macchelli](authors/alessandro_macchelli), [Federico Califano](authors/federico_califano)
  
 ## Abstract
 The main contribution of this paper is a general synthesis methodology of exponentially stabilising control laws for a class of boundary control systems in port-Hamiltonian form that are dissipative with respect to a quadratic supply rate, being the total energy the storage function. More precisely, general conditions that a linear regulator has to satisfy to have, at first, a well-posed and, secondly, an exponentially stable closed-loop system are presented. The methodology is illustrated with reference to two specific stabilisation scenarios, namely when the (distributed parameter) plant is in impedance or in scattering form. Moreover, it is also shown how these techniques can be employed in the analysis of more general systems that are described by coupled partial and ordinary differential equations. In particular, the repetitive control scheme is studied, and conditions on the (finite dimensional) linear plant to have asymptotic tracking of generic periodic reference signals are determined.

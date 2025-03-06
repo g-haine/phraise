@@ -5,12 +5,17 @@ date: 2019-12-20 00:00:00 +0100
 permalink: stokes-dirac-operator-for-laplacian
 year: 2019
 authors: Gou Nishida, Bernhard Maschke
-category: journal-article
-tag: Port-Hamiltonian systems; Stokes-Dirac structures; Partial differential equations; Differential forms
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - stokes-dirac structures
+  - partial differential equations
+  - differential forms
 ---
  
 ## Authors
-[Gou Nishida](authors/gou-nishida), [Bernhard Maschke](authors/bernhard-maschke)
+[Gou Nishida](authors/gou_nishida), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 This paper proposes a particular type of Stokes-Dirac structure for describing a Laplacian used in Poisson’s equations on topologically non-trivial manifolds, i.e., not Euclidian. The operator matrix representation of the structure includes not only exterior differential operators, but also codifferential operators in the sense of the dual of the pairing between differential forms. Since the successive operation of the matrix is equivalent to the Laplace-Beltrami operator, we call it a Stokes-Dirac operator. Furthermore, the Stokes-Dirac operator is augmented by harmonic differential forms that reflect the topological geometry of manifolds. The extension enable us to describe a power balance of particular boundary energy flows on manifolds with a non-trivial shape.
@@ -26,7 +31,7 @@ Port-Hamiltonian systems; Stokes-Dirac structures; Partial differential equation
 - **Pages:** 430--435
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.11.818](https://doi.org/10.1016/j.ifacol.2019.11.818)
-- **Note:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
+- **Event:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
  
 ## BibTeX
 {% highlight bibtex %}

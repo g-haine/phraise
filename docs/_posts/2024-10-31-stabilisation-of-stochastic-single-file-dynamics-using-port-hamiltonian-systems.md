@@ -5,12 +5,16 @@ date: 2024-10-31 00:00:00 +0100
 permalink: stabilisation-of-stochastic-single-file-dynamics-using-port-hamiltonian-systems
 year: 2024
 authors: Julia Ackermann, Matthias Ehrhardt, Thomas Kruse, Antoine Tordeux
-category: journal-article
-tag: Port-Hamiltonian Systems; Stability; Stochastic Modeling and Stochastic Systems Theory
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - stability
+  - stochastic modeling and stochastic systems theory
 ---
  
 ## Authors
-[Julia Ackermann](authors/julia-ackermann), [Matthias Ehrhardt](authors/matthias-ehrhardt), [Thomas Kruse](authors/thomas-kruse), [Antoine Tordeux](authors/antoine-tordeux)
+[Julia Ackermann](authors/julia_ackermann), [Matthias Ehrhardt](authors/matthias_ehrhardt), [Thomas Kruse](authors/thomas_kruse), [Antoine Tordeux](authors/antoine_tordeux)
  
 ## Abstract
 This study revisits a recently proposed symmetric port-Hamiltonian single-file model in one dimension. The uniform streaming solutions are stable in the deterministic model. However, the introduction of white noise into the dynamics causes the model to exhibit divergence. In response, we add a relaxation term that draws the agents’ speed to a desired constant speed and plays the role of the input in the port-Hamiltonian framework. Our results show that this relaxation term effectively stabilises the dynamics even in the presence of stochastic noise.
@@ -26,7 +30,7 @@ Port-Hamiltonian Systems; Stability; Stochastic Modeling and Stochastic Systems 
 - **Pages:** 145--150
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.10.128](https://doi.org/10.1016/j.ifacol.2024.10.128)
-- **Note:** 26th International Symposium on Mathematical Theory of Networks and Systems MTNS 2024- Cambridge, United Kingdom, August 19-23, 2024
+- **Event:** 26th International Symposium on Mathematical Theory of Networks and Systems MTNS 2024- Cambridge, United Kingdom, August 19-23, 2024
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,16 @@ date: 2022-02-17 00:00:00 +0100
 permalink: energetic-decomposition-of-distributed-systems-with-moving-material-domains-the-port-hamiltonian-model-of-fluid-structure-interaction
 year: 2022
 authors: Federico Califano, Ramy Rashad, Frederic P. Schuller, Stefano Stramigioli
-category: journal-article
-tag: Port-Hamiltonian system; Geometric fluid-mechanics; Fluid structure interaction
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - geometric fluid-mechanics
+  - fluid structure interaction
 ---
  
 ## Authors
-[Federico Califano](authors/federico-califano), [Ramy Rashad](authors/ramy-rashad), [Frederic P. Schuller](authors/frederic-p-schuller), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Federico Califano](authors/federico_califano), [Ramy Rashad](authors/ramy_rashad), [Frederic P. Schuller](authors/frederic_p_schuller), [Stefano Stramigioli](authors/stefano_stramigioli)
  
 ## Abstract
 We introduce the geometric structure underlying the port-Hamiltonian models for distributed parameter systems exhibiting moving material domains. The first part of the paper aims at introducing the differential geometric tools needed to represent infinite-dimensional systems on time–varying spatial domains in a port–based framework. A throughout description on the way we extend the structure presented in the seminal work [25], where only fixed spatial domains were considered, is carried through. As application of the proposed structure, we show how to model in a completely coordinate-free way the 3D fluid–structure interaction model for a rigid body immersed in an incompressible viscous flow as an interconnection of open dynamical subsystems.

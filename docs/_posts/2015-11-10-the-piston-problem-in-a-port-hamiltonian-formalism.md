@@ -5,12 +5,15 @@ date: 2015-11-10 00:00:00 +0100
 permalink: the-piston-problem-in-a-port-hamiltonian-formalism
 year: 2015
 authors: Julien Lequeurre, Marius Tucsnak
-category: journal-article
-tag: Distributed parameters systems; port-Hamiltonian systems
+category:
+  - proceedings
+tags:
+  - distributed parameters systems
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Julien Lequeurre](authors/julien-lequeurre), [Marius Tucsnak](authors/marius-tucsnak)
+[Julien Lequeurre](authors/julien_lequeurre), [Marius Tucsnak](authors/marius_tucsnak)
  
 ## Abstract
 The aim of this paper is to write two simple fluid-structure interaction coupled systems as wellposed port-Hamiltonian systems. Moreover, we investigate the stabilization of the system Burgers/piston thanks to a very simple feedback law.
@@ -26,7 +29,7 @@ Distributed parameters systems; port-Hamiltonian systems
 - **Pages:** 212--216
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.241](https://doi.org/10.1016/j.ifacol.2015.10.241)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

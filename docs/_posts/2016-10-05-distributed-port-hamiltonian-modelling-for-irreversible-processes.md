@@ -5,11 +5,11 @@ date: 2016-10-05 00:00:00 +0100
 permalink: distributed-port-hamiltonian-modelling-for-irreversible-processes
 year: 2017
 authors: W. Zhou, B. Hamroun, F. Couenne, Y. Le Gorrec
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[W. Zhou](authors/weijun-zhou), [B. Hamroun](authors/boussad-hamroun), [F. Couenne](authors/francoise-couenne), [Y. Le Gorrec](authors/yann-le-gorrec)
+[W. Zhou](authors/weijun_zhou), [B. Hamroun](authors/boussad_hamroun), [F. Couenne](authors/francoise_couenne), [Y. Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
  Infinite-dimensional port-Hamiltonian representation of irreversible processes accounting for the thermal energy domain is presented. Two examples are studied: the transmission line and a non-isothermal reaction diffusion process. The proposed approach uses thermodynamic variables in order to define the infinite-dimensional interconnection structure linking the different phenomena. A presentation is given for one-dimensional spatial domain. For the transmission line, the Hamiltonian is the total energy and for the reaction diffusion process it is the enthalpy or the opposite of entropy.

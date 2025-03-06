@@ -5,11 +5,11 @@ date: 2012-12-20 00:00:00 +0100
 permalink: on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems
 year: 2013
 authors: Markus Schoberl, Andreas Siuka
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Markus Schoberl](authors/markus-schoberl), [Andreas Siuka](authors/andreas-siuka)
+[Markus Schoberl](authors/markus_schoberl), [Andreas Siuka](authors/andreas_siuka)
  
 ## Abstract
 We consider infinite-dimensional port-Hamiltonian systems with respect to control issues. In contrast to the well-established representation relying on Stokes-Dirac structures that are based on skew-adjoint differential operators and the use of energy variables, we employ a different port-Hamiltonian framework. Based on this system representation conditions for Casimir functionals will be derived where in this context the variational derivative plays an extraordinary role. Furthermore the coupling of finite- and infinite-dimensional systems will be analyzed in the spirit of the control by interconnection problem.

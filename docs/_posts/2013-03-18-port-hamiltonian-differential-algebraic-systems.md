@@ -5,12 +5,27 @@ date: 2013-03-18 00:00:00 +0100
 permalink: port-hamiltonian-differential-algebraic-systems
 year: 2013
 authors: A. J. van der Schaft
-category: book-chapter
-tag: Port-Hamiltonian systems; Passivity; Algebraic constraints; Kinematic constraints; Casimirs; Switching systems; Dirac structure; Interconnection; 34A09; 37J05; 70G45; 93B10; 93B27; 93C10
+category:
+  - chapters
+tags:
+  - port-hamiltonian systems
+  - passivity
+  - algebraic constraints
+  - kinematic constraints
+  - casimirs
+  - switching systems
+  - dirac structure
+  - interconnection
+  - 34a09
+  - 37j05
+  - 70g45
+  - 93b10
+  - 93b27
+  - 93c10
 ---
  
 ## Authors
-[A. J. van der Schaft](authors/arjan-van-der-schaft)
+[A. J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 The basic starting point of port-Hamiltonian systems theory is network modeling ; considering the overall physical system as the interconnection of simple subsystems, mutually influencing each other via energy flow. As a result of the interconnections algebraic constraints between the state variables commonly arise. This leads to the description of the system by differential-algebraic equations (DAEs), i.e., a combination of ordinary differential equations with algebraic constraints. The basic point of view put forward in this survey paper is that the differential-algebraic equations that arise are not just arbitrary, but are endowed with a special mathematical structure; in particular with an underlying geometric structure known as a Dirac structure. It will be discussed how this knowledge can be exploited for analysis and control.

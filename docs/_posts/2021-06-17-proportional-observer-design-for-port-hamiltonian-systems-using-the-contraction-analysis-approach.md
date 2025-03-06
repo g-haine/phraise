@@ -5,12 +5,18 @@ date: 2021-06-17 00:00:00 +0100
 permalink: proportional-observer-design-for-port-hamiltonian-systems-using-the-contraction-analysis-approach
 year: 2022
 authors: Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab
-category: journal-article
-tag: Port Hamiltonian systems; Observer design; Contraction analysis; Lyapunov equation; Quadratic Hamiltonian function
+category:
+  - articles
+tags:
+  - port hamiltonian systems
+  - observer design
+  - contraction analysis
+  - lyapunov equation
+  - quadratic hamiltonian function
 ---
  
 ## Authors
-[Saida Zenfari](authors/saida-zenfari), [Mohamed Laabissi](authors/mohamed-laabissi), [Mohammed Elarbi Achhab](authors/mohammed-elarbi-achhab)
+[Saida Zenfari](authors/saida_zenfari), [Mohamed Laabissi](authors/mohamed_laabissi), [Mohammed Elarbi Achhab](authors/mohammed_elarbi_achhab)
  
 ## Abstract
 A simple proportional observer design method is presented for a class of linear port Hamiltonian systems. This observer design approach is based on the use of a powerful tool derived from continuum mechanics and differential geometry, known as contraction analysis. Under two verifiable assumptions, it is shown that error dynamics between the plant and the observer states converges exponentially to zero. Finally, our design method is applied to two physical systems arising from different domains: The DC motor and the RLC circuit.

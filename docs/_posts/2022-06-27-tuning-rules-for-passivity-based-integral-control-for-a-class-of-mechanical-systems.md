@@ -5,11 +5,11 @@ date: 2022-06-27 00:00:00 +0100
 permalink: tuning-rules-for-passivity-based-integral-control-for-a-class-of-mechanical-systems
 year: 2023
 authors: Carmen Chan-Zheng, Mauricio Munoz-Arias, Jacquelien M.A. Scherpen
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Carmen Chan-Zheng](authors/carmen-chan-zheng), [Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Carmen Chan-Zheng](authors/carmen_chan_zheng), [Mauricio Munoz-Arias](authors/mauricio_munoz_arias), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Citation
 - **Journal:** IEEE Control Systems Letters

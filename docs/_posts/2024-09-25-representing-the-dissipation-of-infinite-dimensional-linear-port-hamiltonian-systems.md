@@ -5,12 +5,18 @@ date: 2024-09-25 00:00:00 +0100
 permalink: representing-the-dissipation-of-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2024
 authors: Friedrich M. Philipp
-category: journal-article
-tag: Port-Hamiltonian systems; infinite-dimensional systems; dissipation; real part; domain
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - infinite-dimensional systems
+  - dissipation
+  - real part
+  - domain
 ---
  
 ## Authors
-[Friedrich M. Philipp](authors/friedrich-m-philipp)
+[Friedrich M. Philipp](authors/friedrich_m_philipp)
  
 ## Abstract
 It is well known that linear and non-linear dissipative port-Hamiltonian systems in finite dimensions admit an energy balance, relating the energy increase in the system with the supplied energy and the dissipated energy. The integrand in the dissipation term is then a function of the state variable. In this note, we answer the question of when this is possible for linear port-Hamiltonian systems in infinite dimensions.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; infinite-dimensional systems; dissipation; real part; 
 - **Pages:** 304--308
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.298](https://doi.org/10.1016/j.ifacol.2024.08.298)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

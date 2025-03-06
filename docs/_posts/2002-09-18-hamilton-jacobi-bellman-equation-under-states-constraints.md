@@ -5,11 +5,11 @@ date: 2002-09-18 00:00:00 +0100
 permalink: hamilton-jacobi-bellman-equation-under-states-constraints
 year: 2000
 authors: Kyung-Eung Kim
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Kyung-Eung Kim](authors/kyung-eung-kim)
+[Kyung-Eung Kim](authors/kyung_eung_kim)
  
 ## Abstract
 This paper is devoted to the uniqueness of discontinuous solutions to the Hamilton–Jacobi–Bellman (HJB) equation arising in Mayer's problem under state constraints. We use two types of discontinuous solutions, bilateral solution and contingent solution, and show that they coincide with the value function for state constraints that are backward invariant and forward viable.

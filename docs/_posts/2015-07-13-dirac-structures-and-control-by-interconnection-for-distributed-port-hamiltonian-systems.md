@@ -5,12 +5,18 @@ date: 2015-07-13 00:00:00 +0100
 permalink: dirac-structures-and-control-by-interconnection-for-distributed-port-hamiltonian-systems
 year: 2015
 authors: Alessandro Macchelli
-category: book-chapter
-tag: Resistive Structure; Shallow Water Equation; Resistive Relation; Structural Invariant; Dirac Structure
+category:
+  - chapters
+tags:
+  - resistive structure
+  - shallow water equation
+  - resistive relation
+  - structural invariant
+  - dirac structure
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 The aim of this work is to show how the Dirac structure properties can be exploited in the development of energy-based boundary control laws for distributed port-Hamiltonian systems. Stabilisation of non-zero equilibria has been achieved by looking at, or generating, a set of structural invariants, namely Casimir functions, in closed-loop, and geometric conditions for the problem to be solved are determined. However, it is well known that this method fails when an infinite amount of energy is required at the equilibrium (dissipation obstacle). So, a novel approach that enlarges the class of stabilising controllers within the control by interconnection paradigm is also discussed. In this respect, it is shown how to determine a different control port that is instrumental for removing the intrinsic constraints imposed by the dissipative structure of the system. The general theory is illustrated with the help of two related examples, namely the boundary stabilisation of the shallow water equation with and without distributed dissipation.

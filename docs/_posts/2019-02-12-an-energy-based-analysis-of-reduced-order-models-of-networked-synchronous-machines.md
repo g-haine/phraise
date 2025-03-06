@@ -5,11 +5,11 @@ date: 2019-02-12 00:00:00 +0100
 permalink: an-energy-based-analysis-of-reduced-order-models-of-networked-synchronous-machines
 year: 2019
 authors: T. W. Stegink, C. De Persis, A. J. Van Der Schaft
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[T. W. Stegink](authors/tjerk-w-stegink), [C. De Persis](authors/claudio-de-persis), [A. J. Van Der Schaft](authors/arjan-van-der-schaft)
+[T. W. Stegink](authors/tjerk_w_stegink), [C. De Persis](authors/claudio_de_persis), [A. J. Van Der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
  Stability of power networks is an increasingly important topic because of the high penetration of renewable distributed generation units. This requires the development of advanced techniques for the analysis and controller design of power networks. Although there are widely accepted reduced-order models to describe the power network dynamics, they are commonly presented without details about the reduction procedure. The present article aims to provide a modular model derivation of multi-machine power networks. Starting from first-principle fundamental physics, we present detailed dynamical models of synchronous machines and clearly state the underlying assumptions which lead to some of the standard reduced-order multi-machine models. In addition, the energy functions for these models are derived, which allows to represent the multi-machine systems as port-Hamiltonian systems. Moreover, the systems are proven to be shifted passive, which permits for a power-preserving interconnection with other passive components. Graphical 

@@ -5,11 +5,11 @@ date: 2021-11-19 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-modelling-of-1d-compressible-fluids
 year: 2021
 authors: Luis A. Mora, Yann Le Gorrec, Héctor Ramírez, Bernhard Maschke
-category: journal-article
+category: proceedings
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis-a-mora), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramírez](authors/hector-ramirez), [Bernhard Maschke](authors/bernhard-maschke)
+[Luis A. Mora](authors/luis_a_mora), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramírez](authors/hector_ramirez), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 In this paper, an irreversible port-Hamiltonian formulation for 1D compressible Newtonian fluids is presented. We separate the fluid dynamics into reversible and irreversible parts. Given the compressibility assumption, we define a state-dependent matrix that modulates the skew-symmetric operators that describe the irreversible part of the fluid dynamics. As a result, we obtain an energy-based formulation that reflects appropriately the first and second laws of Thermodynamics.
@@ -22,7 +22,7 @@ In this paper, an irreversible port-Hamiltonian formulation for 1D compressible 
 - **Pages:** 64--69
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.056](https://doi.org/10.1016/j.ifacol.2021.11.056)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2019-08-23 00:00:00 +0100
 permalink: partitioned-finite-element-method-for-the-mindlin-plate-as-a-port-hamiltonian-system
 year: 2019
 authors: Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon
-category: journal-article
-tag: Port-Hamiltonian systems (pHs); Geometric Discretization; Mindlin-Reissner Plate; Partitioned Finite Element Method (PFEM); Symplectic Integration
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems (phs)
+  - geometric discretization
+  - mindlin-reissner plate
+  - partitioned finite element method (pfem)
+  - symplectic integration
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea-brugnoli), [Daniel Alazard](authors/daniel-alazard), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger), [Denis Matignon](authors/denis-matignon)
+[Andrea Brugnoli](authors/andrea_brugnoli), [Daniel Alazard](authors/daniel_alazard), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 The port-Hamiltonian framework allows for a structured representation and interconnection of distributed parameter systems described by Partial Differential Equations (PDE) from different realms. Here, the Mindlin-Reissner model of a thick plate is presented in a tensorial formulation. Taking into account collocated boundary control and observation gives rise to an infinite-dimensional port-Hamiltonian system (pHs). The Partitioned Finite Element Method (PFEM), already presented in our previous work, allows obtaining a structure-preserving finite-dimensional port-Hamiltonian system, and accounting for boundary control in a straightforward manner. In order to illustrate the flexibility of PFEM, both types of boundary controls can be dealt with: either through forces and momenta, or through kinematic variables. The discrete model is easily implementable by using the FEniCS platform. Computation of eigenfrequencies and vibration modes, together with time-domain simulation results demonstrate the consistency of the proposed approach.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems (pHs); Geometric Discretization; Mindlin-Reissner Plate
 - **Pages:** 88--95
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.08.016](https://doi.org/10.1016/j.ifacol.2019.08.016)
-- **Note:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
+- **Event:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,17 @@ date: 2018-12-03 00:00:00 +0100
 permalink: passivity-based-control-and-stability-analysis-for-hydro-turbine-governing-systems
 year: 2019
 authors: Walter Gil-González, Alejandro Garces, Andrés Escobar
-category: journal-article
-tag: Hydro-turbine governing systems; Interconnection and damping assignment passivity-based control; Port-Hamiltonian; Single machine infinite bus
+category:
+  - articles
+tags:
+  - hydro-turbine governing systems
+  - interconnection and damping assignment passivity-based control
+  - port-hamiltonian
+  - single machine infinite bus
 ---
  
 ## Authors
-[Walter Gil-González](authors/walter-gil-gonzale), [Alejandro Garces](authors/alejandro-garces-ruiz), [Andrés Escobar](authors/andres-escobar)
+[Walter Gil-González](authors/walter_gil_gonzale), [Alejandro Garces](authors/alejandro_garces_ruiz), [Andrés Escobar](authors/andres_escobar)
  
 ## Abstract
 Low-frequency oscillations can occur in hydropower systems under in the new context of power system and the classical controller for hydro-turbine governing systems need to be enhanced with the purpose of improving its stability. We propose a controller based on passivity theory with the aim of damping oscillations in a power system. Passivity-based control arises as a natural choice for hydro-turbine governing system since its open-loop dynamic has a port-Hamiltonian structure, which allows designing a controller that preserves the passive structure in closed-loop via interconnection and damping reassignment. The proposed controller considers the complete non-linear model of the system and guarantees global asymptotic stability in the sense of Lyapunov. Time-domain simulations demonstrate the robustness and proper performance of the proposed methodology under different operative conditions when is compared with the classical controllers.

@@ -5,12 +5,19 @@ date: 2021-11-19 00:00:00 +0100
 permalink: passivity-based-stability-analysis-of-hydraulic-equilibria-in-4th-generation-district-heating-networks
 year: 2021
 authors: Felix Strehle, Jonathan Vieth, Martin Pfeifer, Sören Hohmann
-category: journal-article
-tag: port-Hamiltonian systems; district heating systems; stability analysis; asymptotic stability; pressure control; decentralized control design
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - district heating systems
+  - stability analysis
+  - asymptotic stability
+  - pressure control
+  - decentralized control design
 ---
  
 ## Authors
-[Felix Strehle](authors/felix-strehle), [Jonathan Vieth](authors/jonathan-vieth), [Martin Pfeifer](authors/martin-pfeifer), [Sören Hohmann](authors/soren-hohmann)
+[Felix Strehle](authors/felix_strehle), [Jonathan Vieth](authors/jonathan_vieth), [Martin Pfeifer](authors/martin_pfeifer), [Sören Hohmann](authors/soren_hohmann)
  
 ## Abstract
 In this paper, we analyze the stability of hydraulic, i.e. pressure and flow, equilibria in 4th generation district heating networks (DHNs). We consider the hydraulic behavior of a general class of DHNs with an arbitrary number of distributed heat generation units (DGUs) and end-users connected through a network of pipes. For each subsystem, we first derive a model in form of an explicit port-Hamiltonian system with nonlinear resistive structure. Based on these models and with methods from equilibrium-independent passivity (EIP), we prove the stability of the DHN’s hydraulic equilibria. From our results, we deduce requirements for a plug-and-play control of DHNs and draw conclusions for future work.
@@ -26,7 +33,7 @@ port-Hamiltonian systems; district heating systems; stability analysis; asymptot
 - **Pages:** 261--266
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.088](https://doi.org/10.1016/j.ifacol.2021.11.088)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

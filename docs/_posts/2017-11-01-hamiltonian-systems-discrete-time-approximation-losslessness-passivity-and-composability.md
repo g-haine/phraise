@@ -5,12 +5,18 @@ date: 2017-11-01 00:00:00 +0100
 permalink: hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability
 year: 2017
 authors: Said Aoues, Michael Di Loreto, Damien Eberard, Wilfrid Marquis-Favre
-category: journal-article
-tag: Hamiltonian difference scheme; Energetic integrator; Passive integrator; Dirac structure; Composability
+category:
+  - articles
+tags:
+  - hamiltonian difference scheme
+  - energetic integrator
+  - passive integrator
+  - dirac structure
+  - composability
 ---
  
 ## Authors
-[Said Aoues](authors/said-aoues), [Michael Di Loreto](authors/michael-di-loreto), [Damien Eberard](authors/damien-eberard), [Wilfrid Marquis-Favre](authors/wilfrid-marquis-favre)
+[Said Aoues](authors/said_aoues), [Michael Di Loreto](authors/michael_di_loreto), [Damien Eberard](authors/damien_eberard), [Wilfrid Marquis-Favre](authors/wilfrid_marquis_favre)
  
 ## Abstract
 In this paper a passive integrator dedicated to input/output Hamiltonian systems approximation is presented. In a first step, a discrete Hamiltonian framework endowed with a Lie derivative-like formula is introduced. It is shown that the discrete dynamics encodes energy conservation and passivity. Additionally, the characterization of the discrete dynamics in terms of Dirac structure is shown to be invariant by interconnection. The class is thus composable: networked systems belong to the class. In a second step, the discrete dynamics is considered as a one-step integration method. The method is shown to be convergent and provides a discrete-time approximation of an input/output Hamiltonian system. Accordingly, the discrete dynamics inherits intrinsic energetic characteristics (storage function and dissipation rate) from the original system. The method is thus tagged as passive integrator. As an illustration, the closed-loop behavior of interconnected subsystems and the stabilization of a rigid body spinning around its center of mass are presented.

@@ -5,12 +5,18 @@ date: 2021-09-12 00:00:00 +0100
 permalink: energy-shaping-dynamic-tube-mpc-for-underactuated-mechanical-systems
 year: 2021
 authors: Guaraci Bastos, Enrico Franco
-category: journal-article
-tag: Underactuated systems; Port-Hamiltonian systems; Robust control; IDA-PBC; Dynamic tube-MPC
+category:
+  - articles
+tags:
+  - underactuated systems
+  - port-hamiltonian systems
+  - robust control
+  - ida-pbc
+  - dynamic tube-mpc
 ---
  
 ## Authors
-[Guaraci Bastos](authors/guaraci-bastos), [Enrico Franco](authors/enrico-franco)
+[Guaraci Bastos](authors/guaraci_bastos), [Enrico Franco](authors/enrico_franco)
  
 ## Abstract
 This work investigates the tracking control problem for underactuated mechanical systems. To this end, we develop an extension of the dynamic tube Model Predictive Control (MPC) approach by combining an MPC design, an ancillary energy shaping controller constructed with the Interconnection and Damping Assignment Passivity-Based Control methodology, and an analytical expression of the dynamic tube. In addition, we extend the proposed approach by including the adaptive compensation of a class of unknown disturbances. The stability analysis is presented by employing a Lyapunov approach. The effectiveness of the proposed controller is demonstrated with simulations on two underactuated systems: a two-mass-spring-damper system with uncertain damping and either linear or nonlinear spring; an inertia-wheel-pendulum with unmodeled disturbances.

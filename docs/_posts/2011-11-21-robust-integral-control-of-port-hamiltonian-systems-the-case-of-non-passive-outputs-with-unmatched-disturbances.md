@@ -5,12 +5,16 @@ date: 2011-11-21 00:00:00 +0100
 permalink: robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances
 year: 2012
 authors: Romeo Ortega, Jose Guadalupe Romero
-category: journal-article
-tag: Nonlinear control; Port-Hamiltonian systems; Integral control
+category:
+  - articles
+tags:
+  - nonlinear control
+  - port-hamiltonian systems
+  - integral control
 ---
  
 ## Authors
-[Romeo Ortega](authors/romeo-ortega), [Jose Guadalupe Romero](authors/jose-guadalupe-romero)
+[Romeo Ortega](authors/romeo_ortega), [Jose Guadalupe Romero](authors/jose_guadalupe_romero)
  
 ## Abstract
 Regulation of passive outputs of nonlinear systems can be easily achieved with an integral control (IC). In many applications, however, the signal of interest is not a passive output and ensuring its regulation remains an open problem. Also, IC of passive systems rejects constant input disturbances, but no similar property can be ensured if the disturbance is not matched. In this paper we address the aforementioned problems and propose a procedure to design robust ICs for port-Hamiltonian models, that characterize the behavior of a large class of physical systems. Necessary and sufficient conditions for the solvability of the problem, in terms of some rank and controllability properties of the linearized system, are provided. For a class of fully actuated mechanical systems, a globally asymptotically stabilizing solution is given. Simulations of the classical pendulum system illustrate the good performance of the scheme.

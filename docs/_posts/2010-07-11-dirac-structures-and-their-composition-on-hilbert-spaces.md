@@ -5,12 +5,19 @@ date: 2010-07-11 00:00:00 +0100
 permalink: dirac-structures-and-their-composition-on-hilbert-spaces
 year: 2010
 authors: Mikael Kurula, Hans Zwart, Arjan van der Schaft, Jussi Behrndt
-category: journal-article
-tag: Dirac structure; Composition; Boundary triplet; Boundary colligation; Impedance conservative; Kreĭn space
+category:
+  - articles
+tags:
+  - dirac structure
+  - composition
+  - boundary triplet
+  - boundary colligation
+  - impedance conservative
+  - kreĭn space
 ---
  
 ## Authors
-[Mikael Kurula](authors/mikael-kurula), [Hans Zwart](authors/hans-zwart), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Jussi Behrndt](authors/jussi-behrndt)
+[Mikael Kurula](authors/mikael_kurula), [Hans Zwart](authors/hans_zwart), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Jussi Behrndt](authors/jussi_behrndt)
  
 ## Abstract
 Dirac structures appear naturally in the study of certain classes of physical models described by partial differential equations and they can be regarded as the underlying power conserving structures. We study these structures and their properties from an operator-theoretic point of view. In particular, we find necessary and sufficient conditions for the composition of two Dirac structures to be a Dirac structure and we show that they can be seen as Lagrangian (hyper-maximal neutral) subspaces of Kreĭn spaces. Moreover, special emphasis is laid on Dirac structures associated with operator colligations. It turns out that this class of Dirac structures is linked to boundary triplets and that this class is closed under composition.

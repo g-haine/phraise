@@ -5,11 +5,11 @@ date: 2020-12-17 00:00:00 +0100
 permalink: distributed-frequency-regulation-for-heterogeneous-microgrids-via-steady-state-optimal-control
 year: 2020
 authors: Lukas Kolsch, Manuel Dupuis, Kirtan Bhatt, Stefan Krebs, Soren Hohmann
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Lukas Kolsch](authors/lukas-kolsch), [Manuel Dupuis](authors/manuel-dupuis), [Kirtan Bhatt](authors/kirtan-bhatt), [Stefan Krebs](authors/stefan-krebs), [Soren Hohmann](authors/soren-hohmann)
+[Lukas Kolsch](authors/lukas_kolsch), [Manuel Dupuis](authors/manuel_dupuis), [Kirtan Bhatt](authors/kirtan_bhatt), [Stefan Krebs](authors/stefan_krebs), [Soren Hohmann](authors/soren_hohmann)
  
 ## Abstract
 In this paper, we present a model-based frequency controller for microgrids with nonzero line resistances based on a port-Hamiltonian formulation of the microgrid model and real-time dynamic pricing. The controller is applicable for conventional generation with synchronous machines as well as for power electronics interfaced sources and it is robust against power fluctuations from uncontrollable loads or volatile regenerative sources. The price-based formulation allows additional requirements such as active power sharing to be met. The capability and effectiveness of our procedure is demonstrated by means of an 18-node exemplary grid.

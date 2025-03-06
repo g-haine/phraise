@@ -5,12 +5,19 @@ date: 2017-10-19 00:00:00 +0100
 permalink: reduced-order-controller-design-for-timoshenko-beam-a-port-hamiltonian-approach
 year: 2017
 authors: Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke
-category: journal-article
-tag: Port Hamiltonian systems; distributed control; Hyperbolic PDEs; LQG method; passivity preserving reduction; reduced order control design
+category:
+  - proceedings
+tags:
+  - port hamiltonian systems
+  - distributed control
+  - hyperbolic pdes
+  - lqg method
+  - passivity preserving reduction
+  - reduced order control design
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin-wu), [Boussad Hamroun](authors/boussad-hamroun), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke)
+[Yongxin Wu](authors/yongxin_wu), [Boussad Hamroun](authors/boussad_hamroun), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 This paper deals with the structure and passivity preserving model reduction and the reduced order controller design for a class of distributed controlled port Hamiltonian systems - Timoshenko beam. The boundary conditions of the beam lead to physical constraints which are hardly considered in the reduction procedure. In this work we propose to use the descriptor system realization of port Hamiltonian system to conserve the physical constraints. A passive LQG control design method is proposed for this type of system. This LQG method defines a balanced coordinate which allows us to reduce the system. Using the obtained reduced model, a reduced order passive controller which stabilizes the full order system is designed using the LQG method. At last we give the numerical simulations to show the effectiveness of the proposed reduced passive controller.
@@ -26,7 +33,7 @@ Port Hamiltonian systems; distributed control; Hyperbolic PDEs; LQG method; pass
 - **Pages:** 7121--7126
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.547](https://doi.org/10.1016/j.ifacol.2017.08.547)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

@@ -2,14 +2,14 @@
 layout: post
 title: "Structural Aspects of Electromagneto-Quasistatic Field Formulations of Darwin-Type Derived in the Port-Hamiltonian System Framework"
 date: 2024-11-14 00:00:00 +0100
-permalink: structural-aspects-of-electromagneto-quasistatic-field-formulations-of-darwin-type-derived-in-the-port-hamiltonian-system-framework
+permalink: structural-aspects-of-electromagneto-quasistatic-field-formulations-of-darwin-type-derived-in-the-port-hamiltonian-system-framework-journal
 year: 2025
 authors: Markus Clemens, Marvin-Lucas Henkel, Fotios Kasolis, Michael Günther
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Markus Clemens](authors/markus-clemens), [Marvin-Lucas Henkel](authors/marvin-lucas-henkel), [Fotios Kasolis](authors/fotios-kasolis), [Michael Günther](authors/michael-gunther)
+[Markus Clemens](authors/markus_clemens), [Marvin-Lucas Henkel](authors/marvin_lucas_henkel), [Fotios Kasolis](authors/fotios_kasolis), [Michael Günther](authors/michael_gunther)
  
 ## Abstract
 Electromagneto-quasistatic (EMQS) field formulations allow to model resistive, capacitive, and inductive field effects while neglecting wave propagation. These field formulations are based on the Darwin–Ampére equation and yield different approximations of the full set of Maxwell’s equations depending on the choice of additional equations. Various discrete EMQS formulations are analyzed using the port-Hamiltonian system framework. It is shown that several symmetric EMQS formulations, e.g., combinations of the Darwin–Ampére equation and the Maxwell continuity equation, yield port-Hamiltonian differential-algebraic equation (pH-DAE) systems, which implies their numerical stability, energy conservation related to a specific EMQS variant of the Hamiltonian and dissipativity results.

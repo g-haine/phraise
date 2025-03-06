@@ -5,11 +5,11 @@ date: 2009-01-20 00:00:00 +0100
 permalink: a-structure-preserving-minimal-representation-of-a-nonlinear-port-hamiltonian-system
 year: 2008
 authors: Jacquelien M.A. Scherpen, Arjan J. van der Schaft
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
+[Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 In this paper an approach to reduce nonlinear non-observable and non-strongly accessible port-Hamiltonian systems to an observable and strongly accessible port-Hamiltonian system, respectively, is treated. A local state decomposition (the nonlinear version of the Kalman decomposition) is instrumental for the approach that preserves the port-Hamiltonian structure. The strongly accessible reduction scheme goes along similar lines as the linear scheme. However, the observable reduction scheme is somewhat more involved. Under some additional assumptions, the reduction can be performed along the lines of the linear scheme. If these assumptions are not fulfilled, a reduction scheme for a zero-observable representation using duality in the co-energy coordinates is developed. Finally, the possibilities to apply the approaches of this paper to approximate order reduction by e.g., use of balancing procedures, is discussed.

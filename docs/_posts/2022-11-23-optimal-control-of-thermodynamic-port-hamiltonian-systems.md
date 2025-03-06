@@ -5,12 +5,17 @@ date: 2022-11-23 00:00:00 +0100
 permalink: optimal-control-of-thermodynamic-port-hamiltonian-systems
 year: 2022
 authors: Bernhard Maschke, Friedrich Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser
-category: journal-article
-tag: port-Hamiltonian systems; irreversible thermodynamic systems; optimal control; manifold turnpike
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - irreversible thermodynamic systems
+  - optimal control
+  - manifold turnpike
 ---
  
 ## Authors
-[Bernhard Maschke](authors/bernhard-maschke), [Friedrich Philipp](authors/friedrich-m-philipp), [Manuel Schaller](authors/manuel-schaller), [Karl Worthmann](authors/karl-worthmann), [Timm Faulwasser](authors/timm-faulwasser)
+[Bernhard Maschke](authors/bernhard_maschke), [Friedrich Philipp](authors/friedrich_m_philipp), [Manuel Schaller](authors/manuel_schaller), [Karl Worthmann](authors/karl_worthmann), [Timm Faulwasser](authors/timm_faulwasser)
  
 ## Abstract
 We consider the problem of minimizing the entropy, energy, or exergy production for state transitions of irreversible port-Hamiltonian systems subject to control constraints. Via a dissipativity-based analysis we show that optimal solutions exhibit the manifold turnpike phenomenon with respect to the manifold of thermodynamic equilibria. We illustrate our analytical findings via numerical results for a heat exchanger.
@@ -26,7 +31,7 @@ port-Hamiltonian systems; irreversible thermodynamic systems; optimal control; m
 - **Pages:** 55--60
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.028](https://doi.org/10.1016/j.ifacol.2022.11.028)
-- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}

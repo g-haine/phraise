@@ -5,12 +5,16 @@ date: 2014-10-26 00:00:00 +0100
 permalink: passivity-based-control-for-multi-vehicle-systems-subject-to-string-constraints
 year: 2014
 authors: Steffi Knorn, Alejandro Donaire, Juan C. Agüero, Richard H. Middleton
-category: journal-article
-tag: Hamiltonian systems; String stability; Multi-vehicle systems
+category:
+  - articles
+tags:
+  - hamiltonian systems
+  - string stability
+  - multi-vehicle systems
 ---
  
 ## Authors
-[Steffi Knorn](authors/steffi-knorn), [Alejandro Donaire](authors/alejandro-donaire), [Juan C. Agüero](authors/juan-c-aguero), [Richard H. Middleton](authors/richard-h-middleton)
+[Steffi Knorn](authors/steffi_knorn), [Alejandro Donaire](authors/alejandro_donaire), [Juan C. Agüero](authors/juan_c_aguero), [Richard H. Middleton](authors/richard_h_middleton)
  
 ## Abstract
 In this paper, we show how heterogeneous bidirectional vehicle strings can be modelled as port-Hamiltonian systems. Analysis of stability and string stability within this framework is straightforward and leads to a better understanding of the underlying problem. Nonlinear local control and additional integral action is introduced to design a suitable control law guaranteeing l 2 string stability of the system with respect to bounded disturbances.

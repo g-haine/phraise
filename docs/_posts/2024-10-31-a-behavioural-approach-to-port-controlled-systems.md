@@ -5,12 +5,17 @@ date: 2024-10-31 00:00:00 +0100
 permalink: a-behavioural-approach-to-port-controlled-systems
 year: 2024
 authors: Jonas Kirchhoff
-category: journal-article
-tag: port-Hamiltonian systems; metriplectic system; behavioural theory; categorical systems theory
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - metriplectic system
+  - behavioural theory
+  - categorical systems theory
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas-kirchhoff)
+[Jonas Kirchhoff](authors/jonas_kirchhoff)
  
 ## Abstract
 We give insight in the structure of port-Hamiltonian systems as control systems in between two closed Hamiltonian systems. Using the language of category theory, we identify systems with their behavioural representation and view a port-control structure with desired structural properties on a given closed system as an extension of this system which itself may be embedded in a “larger” closed system. The latter system describes the nature of the ports (e.g. Hamiltonian, metriplectic etc.). This point of view allows us to describe meaningful port-control structures for a large family of systems, which is illustrated with Hamiltonian and metriplectic systems.
@@ -26,7 +31,7 @@ port-Hamiltonian systems; metriplectic system; behavioural theory; categorical s
 - **Pages:** 244--249
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.10.220](https://doi.org/10.1016/j.ifacol.2024.10.220)
-- **Note:** 4th IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2024- Lyon, France, September 4-6, 2024
+- **Event:** 4th IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2024- Lyon, France, September 4-6, 2024
  
 ## BibTeX
 {% highlight bibtex %}

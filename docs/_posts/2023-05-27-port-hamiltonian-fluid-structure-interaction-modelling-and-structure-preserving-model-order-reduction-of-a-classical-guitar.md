@@ -5,11 +5,11 @@ date: 2023-05-27 00:00:00 +0100
 permalink: port-hamiltonian-fluid-structure-interaction-modelling-and-structure-preserving-model-order-reduction-of-a-classical-guitar
 year: 2023
 authors: Johannes Rettberg, Dominik Wittwar, Patrick Buchfink, Alexander Brauchler, Pascal Ziegler, Jörg Fehr, Bernard Haasdonk
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Johannes Rettberg](authors/johannes-rettberg), [Dominik Wittwar](authors/dominik-wittwar), [Patrick Buchfink](authors/patrick-buchfink), [Alexander Brauchler](authors/alexander-brauchler), [Pascal Ziegler](authors/pascal-ziegler), [Jörg Fehr](authors/jorg-fehr), [Bernard Haasdonk](authors/bernard-haasdonk)
+[Johannes Rettberg](authors/johannes_rettberg), [Dominik Wittwar](authors/dominik_wittwar), [Patrick Buchfink](authors/patrick_buchfink), [Alexander Brauchler](authors/alexander_brauchler), [Pascal Ziegler](authors/pascal_ziegler), [Jörg Fehr](authors/jorg_fehr), [Bernard Haasdonk](authors/bernard_haasdonk)
  
 ## Abstract
  A fluid–structure interaction model in a port-Hamiltonian representation is derived for a classical guitar. After discretization, we combine the laws of continuum mechanics for solids and fluids within a unified port-Hamiltonian (pH) modelling approach by adapting the equations through an appropriate coordinate transformation on the second-order level. The high-dimensionality of the resulting system is reduced by model order reduction. The article focuses on pH-systems in different state transformations, a variety of basis generation techniques as well as structure-preserving model order reduction approaches that are independent from the projection basis. As main contribution, a thorough comparison of these method combinations is conducted. In contrast to typical frequency-based simulations in acoustics, transient time simulations of the system are presented. The approach is embedded into a straightforward workflow of sophisticated commercial software modelling and flexible in-house software for multi-physics coupling and model order reduction.

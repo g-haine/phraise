@@ -5,11 +5,11 @@ date: 2023-08-01 00:00:00 +0100
 permalink: port-hamiltonian-observer-for-state-feedback-control-design
 year: 2023
 authors: N.M.T Vu, T.H. Pham, I. Prodan, L. Lefèvre
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[N.M.T Vu](authors/ngoc-minh-trang-vu), [T.H. Pham](authors/thanh-hung-pham), [I. Prodan](authors/ionela-prodan), [L. Lefèvre](authors/laurent-lefevre)
+[N.M.T Vu](authors/ngoc_minh_trang_vu), [T.H. Pham](authors/thanh_hung_pham), [I. Prodan](authors/ionela_prodan), [L. Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 This paper extends the authors’ previous work on Control by Interconnection - Model Predictive Control (CbI - MPC) design for constrained port-Hamiltonian systems to deal with the unmeasurable system states. The first contribution resides in the CbI-oriented formulation of the augmented system, including the plant and the observer. It explicitly supplies observed states as output, which serves to freely design any state-feedback controller. Then, for the second contribution, the CbI-MPC control design is adapted to take into account this augmented PH system. Hence, a new controller input matrix is proposed with corresponding matching conditions. The proposed control method is validated through simulation results for a 3-phase Permanent Magnet Synchronous Motor with input and state constraints.

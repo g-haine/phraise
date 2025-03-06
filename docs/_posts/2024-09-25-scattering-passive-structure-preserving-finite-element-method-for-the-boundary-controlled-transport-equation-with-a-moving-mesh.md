@@ -5,12 +5,17 @@ date: 2024-09-25 00:00:00 +0100
 permalink: scattering-passive-structure-preserving-finite-element-method-for-the-boundary-controlled-transport-equation-with-a-moving-mesh
 year: 2024
 authors: Jesus-Pablo Toledo-Zucco, Denis Matignon, Charles Poussot-Vassal
-category: journal-article
-tag: Transport phenomena; Finite Element Method; Boundary Control; Moving mesh
+category:
+  - proceedings
+tags:
+  - transport phenomena
+  - finite element method
+  - boundary control
+  - moving mesh
 ---
  
 ## Authors
-[Jesus-Pablo Toledo-Zucco](authors/jesus-pablo-toledo-zucco), [Denis Matignon](authors/denis-matignon), [Charles Poussot-Vassal](authors/charles-poussot-vassal)
+[Jesus-Pablo Toledo-Zucco](authors/jesus_pablo_toledo_zucco), [Denis Matignon](authors/denis_matignon), [Charles Poussot-Vassal](authors/charles_poussot_vassal)
  
 ## Abstract
 A structure-preserving Finite Element Method (FEM) for the transport equation in one- and two-dimensional domains is presented. This Distributed Parameter System (DPS) has non-collocated boundary control and observation, and reveals a scattering-energy preserving structure. We show that the discretized model preserves the aforementioned structure from the original infinite-dimensional system. Moreover, we analyse the case of moving meshes for the one-dimensional case. The moving mesh requires less states than the fixed one to produce solutions with a comparable accuracy, and it can also reduce the overshoot and oscillations of Gibbs phenomenon produced when using the FEM. Numerical simulations are provided for the case of a one-dimensional transport equation with fixed and moving meshes.
@@ -26,7 +31,7 @@ Transport phenomena; Finite Element Method; Boundary Control; Moving mesh
 - **Pages:** 292--297
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.296](https://doi.org/10.1016/j.ifacol.2024.08.296)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

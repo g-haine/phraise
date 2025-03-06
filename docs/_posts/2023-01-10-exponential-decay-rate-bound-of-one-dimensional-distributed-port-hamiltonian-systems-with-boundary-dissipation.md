@@ -5,11 +5,11 @@ date: 2023-01-10 00:00:00 +0100
 permalink: exponential-decay-rate-bound-of-one-dimensional-distributed-port-hamiltonian-systems-with-boundary-dissipation
 year: 2022
 authors: Luis A. Mora, Kirsten Morris
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis-a-mora), [Kirsten Morris](authors/kirsten-morris)
+[Luis A. Mora](authors/luis_a_mora), [Kirsten Morris](authors/kirsten_morris)
  
 ## Abstract
 Distributed port-Hamiltonian systems with boundary damping and possible internal dissipation are considered. The multiplier method is used to show exponential decay Me−αt with an expression for M and α in terms of the system parameters. The exponential stability of port-Hamiltonian systems has been studied in the literature, but previous results did not provide an explicit bound on the decay rate. This result is illustrated by the boundary stabilization of a Timoshenko beam.

@@ -5,12 +5,20 @@ date: 2019-08-23 00:00:00 +0100
 permalink: energy-based-in-domain-control-of-a-piezo-actuated-euler-bernoulli-beam
 year: 2019
 authors: Tobias Malzer, Hubert Rams, Markus Schöberl
-category: journal-article
-tag: infinite-dimensional systems; partial differential equations; in-domain actuation; differential geometry; port-Hamiltonian systems; structural invariants; dynamic controllers
+category:
+  - proceedings
+tags:
+  - infinite-dimensional systems
+  - partial differential equations
+  - in-domain actuation
+  - differential geometry
+  - port-hamiltonian systems
+  - structural invariants
+  - dynamic controllers
 ---
  
 ## Authors
-[Tobias Malzer](authors/tobias-malzer), [Hubert Rams](authors/hubert-rams), [Markus Schöberl](authors/markus-schoberl)
+[Tobias Malzer](authors/tobias_malzer), [Hubert Rams](authors/hubert_rams), [Markus Schöberl](authors/markus_schoberl)
  
 ## Abstract
 The main contribution of this paper is the extension of the well-known boundary-control strategy based on structural invariants to the control of infinite-dimensional systems with in-domain actuation. The systems under consideration, governed by partial differential equations, are described in a port-Hamiltonian setting making heavy use of the underlying jet-bundle structure, where we restrict ourselves to systems with 1-dimensional spatial domain and 2nd-order Hamiltonian. To show the applicability of the proposed approach, we develop a dynamic controller for an Euler-Bernoulli beam actuated with a pair of piezoelectric patches and conclude the article with simulation results.
@@ -26,7 +34,7 @@ infinite-dimensional systems; partial differential equations; in-domain actuatio
 - **Pages:** 144--149
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.08.025](https://doi.org/10.1016/j.ifacol.2019.08.025)
-- **Note:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
+- **Event:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
  
 ## BibTeX
 {% highlight bibtex %}

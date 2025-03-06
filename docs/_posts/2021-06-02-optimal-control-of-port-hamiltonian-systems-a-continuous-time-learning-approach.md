@@ -5,12 +5,17 @@ date: 2021-06-02 00:00:00 +0100
 permalink: optimal-control-of-port-hamiltonian-systems-a-continuous-time-learning-approach
 year: 2021
 authors: Lukas Kölsch, Pol Jané Soneira, Felix Strehle, Sören Hohmann
-category: journal-article
-tag: Port-Hamiltonian systems; Optimization-based controller synthesis; Adaptive control; Dynamic optimization problem
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - optimization-based controller synthesis
+  - adaptive control
+  - dynamic optimization problem
 ---
  
 ## Authors
-[Lukas Kölsch](authors/lukas-kolsch), [Pol Jané Soneira](authors/pol-jane-soneira), [Felix Strehle](authors/felix-strehle), [Sören Hohmann](authors/soren-hohmann)
+[Lukas Kölsch](authors/lukas_kolsch), [Pol Jané Soneira](authors/pol_jane_soneira), [Felix Strehle](authors/felix_strehle), [Sören Hohmann](authors/soren_hohmann)
  
 ## Abstract
 In this paper, we propose a continuous-time adaptive feedback controller for the optimal control of input-state-output port-Hamiltonian systems with respect to general Lagrangian performance indices. The proposed control law implements an online learning procedure which uses the Hamiltonian of the system as an initial value function candidate. The continuous-time learning of the value function is achieved by means of a certain Lagrange multiplier that allows to evaluate the optimality of the current solution. In particular, constructive conditions for stabilizing initial value function candidates are stated and asymptotic stability of the closed-loop equilibrium is proven. Simulations of an exemplary nonlinear optimal control problem demonstrate the performance of the controller resulting from the proposed online learning procedure.

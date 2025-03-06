@@ -5,11 +5,11 @@ date: 2018-06-22 00:00:00 +0100
 permalink: structure-preserving-observer-design-for-port-hamiltonian-systems
 year: 2019
 authors: Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Abolfazl Yaghmaei](authors/abolfazl-yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad-javad-yazdanpanah)
+[Abolfazl Yaghmaei](authors/abolfazl_yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad_javad_yazdanpanah)
  
 ## Abstract
 In this paper, a full-order observer design method is proposed for port-Hamiltonian systems. The proposed method is based on the notion of contractive port-Hamiltonian systems. It is the first structure preserving observer design for a broad class of input-state-output port-Hamiltonian systems. The design procedure consists of solving a matching equation, similar to the Interconnection and Damping Assignment Passivity-Based Control (IDA-PBC) for controller design. The matching equation, as shown in the paper, has some closed-form solutions for general class of mechanical and electromechanical systems. As another feature of the proposed method, it is shown that the existence of solution of the corresponding matching equation for a linear port-Hamiltonian system is equivalent to the detectability property of that system. Upon these facts, the proposed method can be considered as a counterpart of IDA-PBC for observer design. Simulations for some benchmark examples, including ball and beam, magnetic levitation, and permanent magnetic synchronous motor, show the potency and applicability of the method.

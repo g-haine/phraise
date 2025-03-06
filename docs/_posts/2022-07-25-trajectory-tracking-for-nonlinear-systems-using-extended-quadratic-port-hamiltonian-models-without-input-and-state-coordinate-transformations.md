@@ -5,12 +5,17 @@ date: 2022-07-25 00:00:00 +0100
 permalink: trajectory-tracking-for-nonlinear-systems-using-extended-quadratic-port-hamiltonian-models-without-input-and-state-coordinate-transformations
 year: 2022
 authors: N.H. Hoang, T.S. Nguyen, T.K.P. Le, T.T.H. Phan, M.A. Hussain, D. Dochain
-category: journal-article
-tag: Quadratic port-Hamiltonian systems; Tracking control; Proportional–Integral control; Nonlinear systems
+category:
+  - articles
+tags:
+  - quadratic port-hamiltonian systems
+  - tracking control
+  - proportional–integral control
+  - nonlinear systems
 ---
  
 ## Authors
-[N.H. Hoang](authors/ngoc-ha-hoang), [T.S. Nguyen](authors/thanh-sang-nguyen), [T.K.P. Le](authors/t-k-p-le), [T.T.H. Phan](authors/thanh-hung-pham), [M.A. Hussain](authors/mohd-azlan-hussain), [D. Dochain](authors/denis-dochain)
+[N.H. Hoang](authors/ngoc_ha_hoang), [T.S. Nguyen](authors/thanh_sang_nguyen), [T.K.P. Le](authors/t_k_p_le), [T.T.H. Phan](authors/thanh_hung_pham), [M.A. Hussain](authors/mohd_azlan_hussain), [D. Dochain](authors/denis_dochain)
  
 ## Abstract
 In this note, an enhanced trajectory tracking (or equivalently, tracking-error) approach is developed for the control of nonlinear systems whenever the stage of feedback passivation design prior to synthesizing state feedback controllers is impossible. To achieve this purpose while using the original state vector to retain its interpretation, it is possible without the use of input and state coordinate transformations to combine the system dynamics with the so-called extended quadratic port-Hamiltonian (PH) models (including possibly the quadratic pseudo PH models) which are then divided into non-relaxing and relaxing ones for further study on control benefits. Interestingly, both cases are associated to a unifying quadratic Hamiltonian storage function similar to that of electrical, mechanical, or electromechanical systems with a specific insight. Sufficient conditions for the global asymptotic or exponential convergence of the system trajectory to the reference one are shown. In addition, a Proportional–Integral action can be added to the tracking control for improving the closed-loop performance and robustness. The proposed approach is illustrated via two case studies, including the non-minimum phase Van de Vusse reaction system and the 3-DOF SCARA robot.

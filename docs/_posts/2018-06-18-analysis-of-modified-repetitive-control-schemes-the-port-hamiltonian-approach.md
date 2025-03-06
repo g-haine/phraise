@@ -5,12 +5,17 @@ date: 2018-06-18 00:00:00 +0100
 permalink: analysis-of-modified-repetitive-control-schemes-the-port-hamiltonian-approach
 year: 2018
 authors: Federico Califano, Alessandro Macchelli, Claudio Melchiorri
-category: journal-article
-tag: Repetitive Control; Port-Hamiltonian Systems; Exponential Stability; PDE
+category:
+  - proceedings
+tags:
+  - repetitive control
+  - port-hamiltonian systems
+  - exponential stability
+  - pde
 ---
  
 ## Authors
-[Federico Califano](authors/federico-califano), [Alessandro Macchelli](authors/alessandro-macchelli), [Claudio Melchiorri](authors/claudio-melchiorri)
+[Federico Califano](authors/federico_califano), [Alessandro Macchelli](authors/alessandro_macchelli), [Claudio Melchiorri](authors/claudio_melchiorri)
  
 ## Abstract
 Repetitive Control (RC) schemes are described by systems of coupled PDEs and ODEs and, in this paper, their stability analysis relies on the modularity of the port-Hamiltonian framework to characterise a family of linear plants for which this control technique can be successfully applied. To achieve this, the regulator, that is in fact an infinite dimensional system, is treated as a boundary control system in port-Hamiltonian form, and novel results dealing with the exponential stabilisation of this class of infinite dimensional systems are exploited. The focus here is on plants that are strictly proper and, as a consequence, on Modified Repetitive Control (MRC) schemes, i.e. RC schemes in which a low-pass filter is in series with the pure delay block. The result is a characterisation of a class of linear systems for which MRC schemes converge.
@@ -26,7 +31,7 @@ Repetitive Control; Port-Hamiltonian Systems; Exponential Stability; PDE
 - **Pages:** 107--112
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.030](https://doi.org/10.1016/j.ifacol.2018.06.030)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

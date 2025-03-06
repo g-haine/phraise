@@ -5,11 +5,11 @@ date: 2020-06-25 00:00:00 +0100
 permalink: exponential-stabilization-of-port-hamiltonian-boundary-control-systems-via-energy-shaping
 year: 2020
 authors: Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
+[Alessandro Macchelli](authors/alessandro_macchelli), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 This article is concerned with the exponential stabilization of a class of linear boundary control systems (BCSs) in port-Hamiltonian form through energy shaping. Starting from a first feedback loop that is in charge of modifying the Hamiltonian function of the plant, a second control loop that guarantees exponential convergence to the equilibrium is designed. In this way, a major limitation of standard energy shaping plus damping injection control laws applied to linear port-Hamiltonian BCSs, namely the fact that only asymptotic convergence is assured, has been removed.

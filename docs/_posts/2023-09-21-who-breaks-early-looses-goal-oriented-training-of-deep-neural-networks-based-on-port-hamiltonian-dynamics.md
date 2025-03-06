@@ -5,12 +5,17 @@ date: 2023-09-21 00:00:00 +0100
 permalink: who-breaks-early-looses-goal-oriented-training-of-deep-neural-networks-based-on-port-hamiltonian-dynamics
 year: 2023
 authors: Julian Burghoff, Marc Heinrich Monells, Hanno Gottschalk
-category: book-chapter
-tag: neural nets; momentum; goal oriented search; port Hamilton systems
+category:
+  - proceedings
+tags:
+  - neural nets
+  - momentum
+  - goal oriented search
+  - port hamilton systems
 ---
  
 ## Authors
-[Julian Burghoff](authors/julian-burghoff), [Marc Heinrich Monells](authors/marc-heinrich-monells), [Hanno Gottschalk](authors/hanno-gottschalk)
+[Julian Burghoff](authors/julian_burghoff), [Marc Heinrich Monells](authors/marc_heinrich_monells), [Hanno Gottschalk](authors/hanno_gottschalk)
  
 ## Abstract
 The highly structured energy landscape of the loss as a function of parameters for deep neural networks makes it necessary to use sophisticated optimization strategies in order to discover (local) minima that guarantee reasonable performance. Overcoming less suitable local minima is an important prerequisite and often momentum methods are employed to achieve this. As in other non local optimization procedures, this however creates the necessity to balance between exploration and exploitation. In this work, we suggest an event based control mechanism for switching from exploration to exploitation based on reaching a predefined reduction of the loss function. As we give the momentum method a port Hamiltonian interpretation, we apply the ’heavy ball with friction’ interpretation and trigger breaking (or friction) when achieving certain goals. We benchmark our method against standard stochastic gradient descent and provide experimental evidence for improved performance of deep neural networks when our strategy is applied.
@@ -22,7 +27,7 @@ neural nets; momentum; goal oriented search; port Hamilton systems
 - **ISBN:** 9783031442032
 - **Publisher:** Springer Nature Switzerland
 - **DOI:** [10.1007/978-3-031-44204-9_38](https://doi.org/10.1007/978-3-031-44204-9_38)
-- **Note:** International Conference on Artificial Neural Networks
+- **Event:** International Conference on Artificial Neural Networks
  
 ## BibTeX
 {% highlight bibtex %}

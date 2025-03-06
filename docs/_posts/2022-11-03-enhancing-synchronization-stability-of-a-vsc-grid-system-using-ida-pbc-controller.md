@@ -5,11 +5,11 @@ date: 2022-11-03 00:00:00 +0100
 permalink: enhancing-synchronization-stability-of-a-vsc-grid-system-using-ida-pbc-controller
 year: 2022
 authors: Sai Sowmya Nagam, Bikash C. Pal
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Sai Sowmya Nagam](authors/sai-sowmya-nagam), [Bikash C. Pal](authors/bikash-c-pal)
+[Sai Sowmya Nagam](authors/sai_sowmya_nagam), [Bikash C. Pal](authors/bikash_c_pal)
  
 ## Abstract
 A low-inertial power system allows rapid fluctuations in frequency and phase under disturbances. These fluctuations can destabilize the entire system if not accounted for while estimating the control action. Therefore, fast and accurate synchronization is necessary to ensure inertial stability. However, there is a limit on the response time of synchronization controllers like a phase-locked loop (PLL) to ensure harmonic suppression and stability against a weak grid. In this context, a passivity-based controller is proposed as an alternative, which can enable fast current control and PLL response while maintaining stability and power quality. The results are compared with a proportional-integral (PI) controller while accounting for control and modulation delay.

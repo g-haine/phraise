@@ -5,12 +5,16 @@ date: 2016-11-02 00:00:00 +0100
 permalink: on-the-steady-state-behavior-of-a-nonlinear-power-network-model
 year: 2016
 authors: Catalin Arghir, Dominic Groß, Florian Dörfler
-category: journal-article
-tag: power system dynamics; steady-state behavior; port-Hamiltonian systems
+category:
+  - proceedings
+tags:
+  - power system dynamics
+  - steady-state behavior
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Catalin Arghir](authors/catalin-arghir), [Dominic Groß](authors/dominic-gross), [Florian Dörfler](authors/florian-dorfler)
+[Catalin Arghir](authors/catalin_arghir), [Dominic Groß](authors/dominic_gross), [Florian Dörfler](authors/florian_dorfler)
  
 ## Abstract
 In this paper, we consider a dynamic model of a three-phase power system including nonlinear generator dynamics and transmission line dynamics. We derive conditions under which the power system admits a steady-state behavior characterized by an operation of the grid at a synchronous frequency as well as a power balance for each single device. Based on this, we specify a set on which the dynamics of the power grid match the desired steady-state behavior and show that this set is control-invariant if and only if the control inputs to the generators are constant. Moreover, we constructively obtain network balance equations typically encountered in power flow analysis and subsequently show that the power system can be operated at the desired steady-state if and only if the network balance equations can be solved.
@@ -26,7 +30,7 @@ power system dynamics; steady-state behavior; port-Hamiltonian systems
 - **Pages:** 61--66
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.10.373](https://doi.org/10.1016/j.ifacol.2016.10.373)
-- **Note:** 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems NECSYS 2016- Tokyo, Japan, 8—9 September 2016
+- **Event:** 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems NECSYS 2016- Tokyo, Japan, 8—9 September 2016
  
 ## BibTeX
 {% highlight bibtex %}

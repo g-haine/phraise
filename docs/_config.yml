@@ -53,6 +53,11 @@ minima:
       url: "http://www.phsys.eu/"
 header_pages:
   - search.md
+  - keywords.md
+  - categories/articles.md
+  - categories/books.md
+  - categories/chapters.md
+  - categories/proceedings.md
   - authors/index.md
   - years/index.md
   - about.md

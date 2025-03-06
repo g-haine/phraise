@@ -5,11 +5,11 @@ date: 2022-08-18 00:00:00 +0100
 permalink: optimal-energy-shaping-via-neural-approximators
 year: 2022
 authors: Stefano Massaroli, Michael Poli, Federico Califano, Jinkyoo Park, Atsushi Yamashita, Hajime Asama
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Stefano Massaroli](authors/stefano-massaroli), [Michael Poli](authors/michael-poli), [Federico Califano](authors/federico-califano), [Jinkyoo Park](authors/jinkyoo-park), [Atsushi Yamashita](authors/atsushi-yamashita), [Hajime Asama](authors/hajime-asama)
+[Stefano Massaroli](authors/stefano_massaroli), [Michael Poli](authors/michael_poli), [Federico Califano](authors/federico_califano), [Jinkyoo Park](authors/jinkyoo_park), [Atsushi Yamashita](authors/atsushi_yamashita), [Hajime Asama](authors/hajime_asama)
  
 ## Abstract
 We introduce optimal energy shaping as an enhancement of classical passivity-based control methods. A promising feature of passivity theory, alongside stability, has traditionally been claimed to be intuitive performance tuning along the execution of a given task. However, a systematic approach to adjust performance within a passive control framework has yet to be developed, as each method relies on few and problem-specific practical insights. Here, we cast the classic energy-shaping control design process in an optimal control framework; once a task-dependent performance metric is defined, an optimal solution is systematically obtained through an iterative procedure relying on neural networks and gradient-based optimization. The proposed method is validated on state-regulation tasks.

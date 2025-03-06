@@ -5,12 +5,16 @@ date: 2006-03-30 00:00:00 +0100
 permalink: dirac-structures-in-lagrangian-mechanics-part-i-implicit-lagrangian-systems
 year: 2006
 authors: Hiroaki Yoshimura, Jerrold E. Marsden
-category: journal-article
-tag: Dirac structures; Implicit Lagrangian systems; Nonholonomic systems
+category:
+  - articles
+tags:
+  - dirac structures
+  - implicit lagrangian systems
+  - nonholonomic systems
 ---
  
 ## Authors
-[Hiroaki Yoshimura](authors/hiroaki-yoshimura), [Jerrold E. Marsden](authors/jerrold-e-marsden)
+[Hiroaki Yoshimura](authors/hiroaki_yoshimura), [Jerrold E. Marsden](authors/jerrold_e_marsden)
  
 ## Abstract
 This paper develops the notion of implicit Lagrangian systems and presents some of their basic properties in the context of Dirac structures. This setting includes degenerate Lagrangian systems and systems with both holonomic and nonholonomic constraints, as well as networks of Lagrangian mechanical systems. The definition of implicit Lagrangian systems with a configuration space Q makes use of Dirac structures on T ∗ Q that are induced from a constraint distribution on Q as well as natural symplectomorphisms between the spaces T ∗ T Q , T T ∗ Q , and T ∗ T ∗ Q . Two illustrative examples are presented; the first is a nonholonomic system, namely a vertical disk rolling on a plane, and the second is an L–C circuit, a degenerate Lagrangian system with holonomic constraints.

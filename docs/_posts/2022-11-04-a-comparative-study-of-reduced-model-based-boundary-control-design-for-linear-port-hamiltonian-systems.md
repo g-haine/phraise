@@ -5,12 +5,18 @@ date: 2022-11-04 00:00:00 +0100
 permalink: a-comparative-study-of-reduced-model-based-boundary-control-design-for-linear-port-hamiltonian-systems
 year: 2022
 authors: Cristobal Ponce, Hector Ramirez, Yann Le Gorrec, Francisco Vargas
-category: journal-article
-tag: Infinite dimensional system; port-Hamiltonian systems; passivity-based control; spatial discretization; model reduction
+category:
+  - proceedings
+tags:
+  - infinite dimensional system
+  - port-hamiltonian systems
+  - passivity-based control
+  - spatial discretization
+  - model reduction
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal-ponce), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Francisco Vargas](authors/francisco-vargas)
+[Cristobal Ponce](authors/cristobal_ponce), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Francisco Vargas](authors/francisco_vargas)
  
 ## Abstract
 A comparative study of passivity based boundary control design for a class of infinite dimensional port-Hamiltonian system using two different model reduction approaches is presented. The first approach is based on a direct low order structure preserving discretization while the second approach arise from the structure preserving model reduction of a high order discretzed model. Two passivity-based control techniques, namely control by interconnection and damping injection, are used to change the equilibrium point and the convergence rate of the closed-loop system. An Euler-Bernoulli beam example is used to illustrate the findings by means of discussion and numerical simulations.
@@ -26,7 +32,7 @@ Infinite dimensional system; port-Hamiltonian systems; passivity-based control; 
 - **Pages:** 107--112
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.10.385](https://doi.org/10.1016/j.ifacol.2022.10.385)
-- **Note:** 4th IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2022- Kiel, Germany, September 5-7, 2022
+- **Event:** 4th IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2022- Kiel, Germany, September 5-7, 2022
  
 ## BibTeX
 {% highlight bibtex %}

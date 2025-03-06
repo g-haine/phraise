@@ -5,12 +5,18 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-macroscopic-modelling-based-on-the-homogenisation-method-case-of-an-acoustic-pipe-with-a-porous-wall
 year: 2024
 authors: Alexis Thibault, Thomas Hélie, Henri Boutin, Juliette Chabassier
-category: journal-article
-tag: Modelling; Homogenisation method; Port-Hamiltonian systems; Distributed parameter systems; Acoustics
+category:
+  - proceedings
+tags:
+  - modelling
+  - homogenisation method
+  - port-hamiltonian systems
+  - distributed parameter systems
+  - acoustics
 ---
  
 ## Authors
-[Alexis Thibault](authors/alexis-thibault), [Thomas Hélie](authors/thomas-helie), [Henri Boutin](authors/henri-boutin), [Juliette Chabassier](authors/juliette-chabassier)
+[Alexis Thibault](authors/alexis_thibault), [Thomas Hélie](authors/thomas_helie), [Henri Boutin](authors/henri_boutin), [Juliette Chabassier](authors/juliette_chabassier)
  
 ## Abstract
 This paper addresses linear propagation in an acoustic pipe with a porous wall, a common scenario in wooden wind instruments. First, a scale separation technique is proposed for dissipative propagation within the wall: the material is modelled as a periodic assembly of identical microscopic cells, forming a network of channels filled with air. It is shown that the resulting PDE admits a port-Hamiltonian formulation, of which the state, flow, effort, Hamiltonian, and Differential connection operator are structured using powers of the scale parameter. The resulting macroscopic description, derived from the governing equations at the two lowest orders, manifests as a constrained port-Hamiltonian system involving a Lagrange multiplier. As an example, using an academic cell geometry, we determine the effective wavenumber and dissipation coefficient of a straight tube with a porous wall.
@@ -26,7 +32,7 @@ Modelling; Homogenisation method; Port-Hamiltonian systems; Distributed paramete
 - **Pages:** 244--249
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.288](https://doi.org/10.1016/j.ifacol.2024.08.288)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

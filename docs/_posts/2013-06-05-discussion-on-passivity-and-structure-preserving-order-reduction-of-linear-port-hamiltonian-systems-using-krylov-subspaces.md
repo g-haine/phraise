@@ -5,11 +5,11 @@ date: 2013-06-05 00:00:00 +0100
 permalink: discussion-on-passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces
 year: 2010
 authors: Rostyslav V. Polyuga
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Rostyslav V. Polyuga](authors/rostyslav-v-polyuga)
+[Rostyslav V. Polyuga](authors/rostyslav_v_polyuga)
  
 ## Citation
 - **Journal:** European Journal of Control

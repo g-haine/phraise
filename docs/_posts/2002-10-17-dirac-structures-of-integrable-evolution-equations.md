@@ -5,11 +5,11 @@ date: 2002-10-17 00:00:00 +0100
 permalink: dirac-structures-of-integrable-evolution-equations
 year: 1987
 authors: Irene Ya. Dorfman
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Irene Ya. Dorfman](authors/irene-ya-dorfman)
+[Irene Ya. Dorfman](authors/irene_ya_dorfman)
  
 ## Abstract
 An algebraic theory of Dirac structures is presented, enclosing finite-dimensional pre-symplectic and Poisson structures, as well as their infinite-dimensional analogs determined by local operators. The generalized Lenard scheme of integrability is considered together with examples of its action.

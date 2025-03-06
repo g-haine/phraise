@@ -5,11 +5,11 @@ date: 2016-09-01 00:00:00 +0100
 permalink: a-new-load-frequency-control-method-of-multi-area-power-system-via-the-viewpoints-of-port-hamiltonian-system-and-cascade-system
 year: 2017
 authors: Liangcheng Cai, Zhengyou He, Haitao Hu
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Liangcheng Cai](authors/liangcheng-cai), [Zhengyou He](authors/zhengyou-he), [Haitao Hu](authors/haitao-hu)
+[Liangcheng Cai](authors/liangcheng_cai), [Zhengyou He](authors/zhengyou_he), [Haitao Hu](authors/haitao_hu)
  
 ## Abstract
 The existed control methods of the multi-area load frequency control (LFC) system fail to decouple the total tie-line power flow. This defect can be addressed as a problem on how to effectively utilize the total tie-line power flow. To improve that defect, the energy and structure of multi-area LFC system have been carefully studied, such that, the energy goes through the systemic cascade parts and the systemic structure matrix is partially skew symmetry. Namely, the energy and structural properties of the multi-area LFC system are similar to the properties of Port-Hamiltonian (PH) system and cascade system. Inspired by the above properties, a new method based on the PH system and cascade system that is proposed to design some PID control laws for the multi-area LFC system successfully works out the aforementioned problem. Compared with the existed PID methods for the multi-area LFC system, the proposed method has two advantages, which are the decoupling of total tie-line power flow and the robust disturbance rejection. At last, simulations results demonstrate the validity and advantages of the proposed method.

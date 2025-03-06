@@ -5,12 +5,17 @@ date: 2023-11-22 00:00:00 +0100
 permalink: on-the-synthesis-of-discrete-time-energy-based-regulators-for-port-hamiltonian-systems
 year: 2023
 authors: Alessandro Macchelli
-category: journal-article
-tag: sampled-data control; passivity-based control; digital implementation; port-Hamiltonian systems
+category:
+  - proceedings
+tags:
+  - sampled-data control
+  - passivity-based control
+  - digital implementation
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 This paper aims at describing a synthesis procedure of discrete-time, energy-based regulators for continuous-time port-Hamiltonian systems. The methodology consists of three steps. The first twos deal with the definition of a discrete-time approximation of the plant to be successively employed in the development of the control law. Here, the focus is mainly on the last step, i.e. on how to interconnect digital controller and plant. The coupling is implemented via a zero-order hold and relies on the solution of an optimisation problem that determines the “best” and “minimal” correction to be applied to the nominal action to achieve the same performances obtained when the regulator is in closed-loop with the discrete-time model of the plant. This is the reference scenario used by the designer to develop and tune the control law. The procedure (time-discretisation, control design and coupling implementation) is illustrated in an example.
@@ -26,7 +31,7 @@ sampled-data control; passivity-based control; digital implementation; port-Hami
 - **Pages:** 2889--2894
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.1407](https://doi.org/10.1016/j.ifacol.2023.10.1407)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

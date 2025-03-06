@@ -5,12 +5,17 @@ date: 2024-03-01 00:00:00 +0100
 permalink: passivity-techniques-and-hamiltonian-structures-in-discrete-time
 year: 2024
 authors: Dorothée Normand-Cyrot, Salvatore Monaco, Mattia Mattioni, Alessio Moreschini
-category: book-chapter
-tag: Discrete-time systems; Port-Hamiltonian structures; Passivity based control; Energy-based control
+category:
+  - proceedings
+tags:
+  - discrete-time systems
+  - port-hamiltonian structures
+  - passivity based control
+  - energy-based control
 ---
  
 ## Authors
-[Dorothée Normand-Cyrot](authors/dorothee-normand-cyrot), [Salvatore Monaco](authors/salvatore-monaco), [Mattia Mattioni](authors/mattia-mattioni), [Alessio Moreschini](authors/alessio-moreschini)
+[Dorothée Normand-Cyrot](authors/dorothee_normand_cyrot), [Salvatore Monaco](authors/salvatore_monaco), [Mattia Mattioni](authors/mattia_mattioni), [Alessio Moreschini](authors/alessio_moreschini)
  
 ## Abstract
 The object of this paper is to show the impact of representing discrete-time dynamics as two coupled difference/differential equations in establishing passivity properties and describing port-Hamiltonian structures as well as the related energy-based control strategies.
@@ -22,7 +27,7 @@ Discrete-time systems; Port-Hamiltonian structures; Passivity based control; Ene
 - **ISBN:** 9783031510489
 - **Publisher:** Springer International Publishing
 - **DOI:** [10.1007/978-3-031-51049-6_15](https://doi.org/10.1007/978-3-031-51049-6_15)
-- **Note:** International Conference on Difference Equations and Applications
+- **Event:** International Conference on Difference Equations and Applications
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2021-09-29 00:00:00 +0100
 permalink: port-hamiltonian-neural-networks-for-learning-explicit-time-dependent-dynamical-systems
 year: 2021
 authors: Shaan A. Desai, Marios Mattheakis, David Sondak, Pavlos Protopapas, Stephen J. Roberts
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Shaan A. Desai](authors/shaan-a-desai), [Marios Mattheakis](authors/marios-mattheakis), [David Sondak](authors/david-sondak), [Pavlos Protopapas](authors/pavlos-protopapas), [Stephen J. Roberts](authors/stephen-j-roberts)
+[Shaan A. Desai](authors/shaan_a_desai), [Marios Mattheakis](authors/marios_mattheakis), [David Sondak](authors/david_sondak), [Pavlos Protopapas](authors/pavlos_protopapas), [Stephen J. Roberts](authors/stephen_j_roberts)
  
 ## Abstract
 Accurately learning the temporal behavior of dynamical systems requires models with well-chosen learning biases. Recent innovations embed the Hamiltonian and Lagrangian formalisms into neural networks and demonstrate a significant improvement over other approaches in predicting trajectories of physical systems. These methods generally tackle autonomous systems that depend implicitly on time or systems for which a control signal is known a priori. Despite this success, many real world dynamical systems are nonautonomous, driven by time-dependent forces and experience energy dissipation. In this study, we address the challenge of learning from such nonautonomous systems by embedding the port-Hamiltonian formalism into neural networks, a versatile framework that can capture energy dissipation and time-dependent control forces. We show that the proposed port-Hamiltonian neural network can efficiently learn the dynamics of nonlinear physical systems of practical interest and accurately recover the underlying stationary Hamiltonian, time-dependent force, and dissipative coefficient. A promising outcome of our network is its ability to learn and predict chaotic systems such as the Duffing equation, for which the trajectories are typically hard to learn.

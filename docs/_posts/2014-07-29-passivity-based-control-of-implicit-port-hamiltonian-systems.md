@@ -5,11 +5,11 @@ date: 2014-07-29 00:00:00 +0100
 permalink: passivity-based-control-of-implicit-port-hamiltonian-systems
 year: 2014
 authors: Alessandro Macchelli
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 The main contribution of this paper is the generalisation of well-known energy-based control techniques (i.e., energy-balancing passivity-based control and passivity-based control with state modulated source), to the case in which the plant is a port-Hamiltonian system in implicit form. A typical situation is when (part of) the system is obtained from the spatial discretization of an infinite dimensional port-Hamiltonian system: in this case, the dynamics is not given in standard input-state-output form, but as a set of DAEs. Consequently, the control by energy-shaping has to be extended to deal with dynamical systems with constraints. The general methodology is discussed with the help of a simple but illustrative example, i.e. a transmission line interconnected with an RLC circuit.

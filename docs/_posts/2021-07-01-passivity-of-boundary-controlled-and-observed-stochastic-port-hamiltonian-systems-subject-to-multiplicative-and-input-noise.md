@@ -5,12 +5,19 @@ date: 2021-07-01 00:00:00 +0100
 permalink: passivity-of-boundary-controlled-and-observed-stochastic-port-hamiltonian-systems-subject-to-multiplicative-and-input-noise
 year: 2021
 authors: Francois Lamoline
-category: journal-article
-tag: Boundary control; Boundary observation; Port-Hamiltonian systems; Stochastic partial differential equations; Infinite-dimensional systems; Passivity
+category:
+  - proceedings
+tags:
+  - boundary control
+  - boundary observation
+  - port-hamiltonian systems
+  - stochastic partial differential equations
+  - infinite-dimensional systems
+  - passivity
 ---
  
 ## Authors
-[Francois Lamoline](authors/francois-lamoline)
+[Francois Lamoline](authors/francois_lamoline)
  
 ## Abstract
 We study infinite-dimensional stochastic port-Hamiltonian systems (SPHSs) having multiplicative and boundary input noise. Using Itô and Stratonovich integrals on Hilbert spaces, a formal mathematical description of this specific class of stochastic systems is presented, and some properties, including almost sure and weak passivity, are investigated. By considering dissipative effects, we derive a condition for SPHSs to be weakly passive. Finally, the stochastic port-Hamiltonian framework and the passivity concepts are illustrated on the example of an inhomogeneous vibrating string subject to random damping and state noises.
@@ -26,7 +33,7 @@ Boundary control; Boundary observation; Port-Hamiltonian systems; Stochastic par
 - **Pages:** 41--46
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2021.06.010](https://doi.org/10.1016/j.ejcon.2021.06.010)
-- **Note:** 2021 European Control Conference Special Issue
+- **Event:** 2021 European Control Conference Special Issue
  
 ## BibTeX
 {% highlight bibtex %}

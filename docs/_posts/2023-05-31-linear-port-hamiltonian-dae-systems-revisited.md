@@ -5,12 +5,18 @@ date: 2023-05-31 00:00:00 +0100
 permalink: linear-port-hamiltonian-dae-systems-revisited
 year: 2023
 authors: Arjan van der Schaft, Volker Mehrmann
-category: journal-article
-tag: Port-Hamiltonian system; Differential–algebraic equation; Lagrange structure; Dirac structure; Maximally monotone structure
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - differential–algebraic equation
+  - lagrange structure
+  - dirac structure
+  - maximally monotone structure
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Volker Mehrmann](authors/volker-mehrmann)
+[Arjan van der Schaft](authors/arjan_van_der_schaft), [Volker Mehrmann](authors/volker_mehrmann)
  
 ## Abstract
 Port-Hamiltonian systems theory provides a systematic methodology for the modeling, simulation and control of multi-physics systems. The incorporation of algebraic constraints has led to a multitude of definitions of port-Hamiltonian differential–algebraic equations (DAE) systems in the literature. This paper presents extensions of results obtained in Gernandt et al. (2021); Mehrmann and van der Schaft (2023) in the context of maximally monotone structures, and shows that any such structure can be written as the composition of a Dirac and a resistive structure. This yields an alternative, but equivalent, definition of linear port-Hamiltonian DAE systems with certain advantages. In particular, it leads to simpler coordinate representations, as well as to explicit expressions for the associated transfer functions.

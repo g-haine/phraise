@@ -5,11 +5,11 @@ date: 2022-12-08 00:00:00 +0100
 permalink: a-two-dimensional-port-hamiltonian-model-for-coupled-heat-transfer
 year: 2022
 authors: Jens Jäschke, Matthias Ehrhardt, Michael Günther, Birgit Jacob
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jens Jäschke](authors/jens-jaschke), [Matthias Ehrhardt](authors/matthias-ehrhardt), [Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob)
+[Jens Jäschke](authors/jens_jaschke), [Matthias Ehrhardt](authors/matthias_ehrhardt), [Michael Günther](authors/michael_gunther), [Birgit Jacob](authors/birgit_jacob)
  
 ## Abstract
 In this paper, we construct a highly simplified mathematical model for studying the problem of conjugate heat transfer in gas turbine blades and their cooling ducts. Our simple model focuses on the relevant coupling structures and aims to reduce the unrelated complexity as much as possible. Then, we apply the port-Hamiltonian formalism to this model and its subsystems and investigate the interconnections. Finally, we apply a simple spatial discretization to the system to investigate the properties of the resulting finite-dimensional port-Hamiltonian system and to determine whether the order of coupling and discretization affect the resulting semi-discrete system.

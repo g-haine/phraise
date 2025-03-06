@@ -5,12 +5,19 @@ date: 2015-11-10 00:00:00 +0100
 permalink: alternative-passive-maps-for-infinite-dimensional-systems-using-mixed-potential-functions
 year: 2015
 authors: Krishna Chaitanya Kosaraju, Ramkrishna Pasumarthy, Dimitri Jeltsema
-category: journal-article
-tag: Distributed-parameter systems; infinite-dimensional systems; Brayton-Moser equations; gradient systems; passivity; port-Hamiltonian systems
+category:
+  - proceedings
+tags:
+  - distributed-parameter systems
+  - infinite-dimensional systems
+  - brayton-moser equations
+  - gradient systems
+  - passivity
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Krishna Chaitanya Kosaraju](authors/krishna-chaitanya-kosaraju), [Ramkrishna Pasumarthy](authors/ramkrishna-pasumarthy), [Dimitri Jeltsema](authors/dimitri-jeltsema)
+[Krishna Chaitanya Kosaraju](authors/krishna_chaitanya_kosaraju), [Ramkrishna Pasumarthy](authors/ramkrishna_pasumarthy), [Dimitri Jeltsema](authors/dimitri_jeltsema)
  
 ## Abstract
 This paper aims at developing a Brayton-Moser analogue of an infinite-dimensional system in the port-Hamiltonian framework, defined with respect to a Stokes-Dirac structure. It is shown that such a formulation leads to defining alternative passive maps, which differ from those in the port-Hamiltonian framework via a “power-like” function called the mixed-potential function. This mixed-potential function can also be used for stability analysis. We present our results for a general port-Hamiltonian system, with Maxwell's equations and the transmission line, with nonzero boundary conditions, as examples.
@@ -26,7 +33,7 @@ Distributed-parameter systems; infinite-dimensional systems; Brayton-Moser equat
 - **Pages:** 1--6
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.205](https://doi.org/10.1016/j.ifacol.2015.10.205)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

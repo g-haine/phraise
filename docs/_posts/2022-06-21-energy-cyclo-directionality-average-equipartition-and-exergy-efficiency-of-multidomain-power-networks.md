@@ -5,11 +5,11 @@ date: 2022-06-21 00:00:00 +0100
 permalink: energy-cyclo-directionality-average-equipartition-and-exergy-efficiency-of-multidomain-power-networks
 year: 2022
 authors: Hanz Richter
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Hanz Richter](authors/hanz-richter)
+[Hanz Richter](authors/hanz_richter)
  
 ## Abstract
 A recent formalization of thermodynamics under a dynamical systems approach introduces an axiom restricting the direction of power transmission between two subsystems, reflecting heat transfer from hot to cold bodies. This axiom enables precise results paralleling the statements of classical thermodynamics, including its second law, which places a limit on the amount of work that may be transferred to across system boundaries beyond that imposed by energy conservation. Systems exhibiting non-diffusive power transfer, including those with Hamiltonian dynamics are ruled out. Given that power networks with Hamiltonian dynamics fail the directionality axiom, are they still subject to limitations on their ability to perform work on the surroundings? This letter shows that such systems can satisfy a version of the above axiom involving averages over periodic regimes, revealing limitations on external power transfer and allowing a definition of second-law efficiency and a cyclic interpretation of energy equipartition. Focus is on a class of linear port-Hamiltonian systems, with frequency-domain methods used to describe the pertinent average quantities. The ability to establish an order relationship between the weighted average kinetic and potential energies has a central role. We show that this can be cast as a generalized eigenvalue problem.

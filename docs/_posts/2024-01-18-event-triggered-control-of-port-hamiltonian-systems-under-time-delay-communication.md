@@ -5,11 +5,11 @@ date: 2024-01-18 00:00:00 +0100
 permalink: event-triggered-control-of-port-hamiltonian-systems-under-time-delay-communication
 year: 2024
 authors: Ernesto Aranda-Escolástico, Leonardo J. Colombo, María Guinaldo, Antonio Visioli
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ernesto Aranda-Escolástico](authors/ernesto-aranda-escolastico), [Leonardo J. Colombo](authors/leonardo-j-colombo), [María Guinaldo](authors/maria-guinaldo), [Antonio Visioli](authors/antonio-visioli)
+[Ernesto Aranda-Escolástico](authors/ernesto_aranda_escolastico), [Leonardo J. Colombo](authors/leonardo_j_colombo), [María Guinaldo](authors/maria_guinaldo), [Antonio Visioli](authors/antonio_visioli)
  
 ## Abstract
 We study the problem of periodic event-triggered control of interconnected port-Hamiltonian systems subject to time-varying delays in their communication. In particular, we design a threshold parameter for the event-triggering condition, a sampling period, and a maximum allowable delay such that interconnected port-Hamiltonian control systems with periodic event-triggering mechanism under a time-delayed communication are able to achieve asymptotically stable behaviour. Simulation results are presented to validate the theory.

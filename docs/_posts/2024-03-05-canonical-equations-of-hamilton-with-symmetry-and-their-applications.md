@@ -5,11 +5,11 @@ date: 2024-03-05 00:00:00 +0100
 permalink: canonical-equations-of-hamilton-with-symmetry-and-their-applications
 year: 2024
 authors: Guo Liang, Xiangwei Chen, Zhanmei Ren, Qi Guo
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Guo Liang](authors/guo-liang), [Xiangwei Chen](authors/xiangwei-chen), [Zhanmei Ren](authors/zhanmei-ren), [Qi Guo](authors/qi-guo)
+[Guo Liang](authors/guo_liang), [Xiangwei Chen](authors/xiangwei_chen), [Zhanmei Ren](authors/zhanmei_ren), [Qi Guo](authors/qi_guo)
  
 ## Abstract
 Two systems of mathematical physics are defined by us, which are the first-order differential system (FODS) and the second-order differential system (SODS). Basing on the conventional Legendre transformation, we obtain a new kind of canonical equations of Hamilton (CEH) with some kind of symmetry. We show that the FODS can only be expressed by the new CEH, but do not by the conventional CEH, while the SODS can be done by both the new and the conventional CEHs, on basis of the same conventional Legendre transformation. As an example, we prove that the nonlinear Schrödinger equation can be expressed with the new CEH in a consistent way. Based on the new CEH, the approximate soliton solution of the nonlocal nonlinear Schrödinger equation is obtained, and the soliton stability is analysed analytically as well. Furthermore, because the symmetry of a system is closely connected with certain conservation theorem of the system, the new CEH may be useful in some complicated systems when the symmetry considerations are used.

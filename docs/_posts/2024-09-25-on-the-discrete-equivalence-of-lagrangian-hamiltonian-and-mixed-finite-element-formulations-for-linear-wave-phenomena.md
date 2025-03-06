@@ -5,12 +5,16 @@ date: 2024-09-25 00:00:00 +0100
 permalink: on-the-discrete-equivalence-of-lagrangian-hamiltonian-and-mixed-finite-element-formulations-for-linear-wave-phenomena
 year: 2024
 authors: A. Brugnoli, V. Mehrmann
-category: journal-article
-tag: Hamiltonian formulation; Lagrangian formulation; mixed finite elements
+category:
+  - proceedings
+tags:
+  - hamiltonian formulation
+  - lagrangian formulation
+  - mixed finite elements
 ---
  
 ## Authors
-[A. Brugnoli](authors/andrea-brugnoli), [V. Mehrmann](authors/volker-mehrmann)
+[A. Brugnoli](authors/andrea_brugnoli), [V. Mehrmann](authors/volker_mehrmann)
  
 ## Abstract
 It is well known that the Lagrangian and Hamiltonian descriptions of field theories are equivalent at the discrete time level when variational integrators are used. Besides the symplectic Hamiltonian structure, many physical systems exhibit a Hamiltonian structure when written in mixed form. In this contribution, the discrete equivalence of Lagrangian, symplectic Hamiltonian and mixed formulations is investigated for linear wave propagation phenomena. Under compatibility conditions between the finite elements, the Lagrangian and mixed formulations are indeed equivalent. For the time discretization the leapfrog scheme and the implicit midpoint rule are considered. In mixed methods applied to wave problems the primal variable (e.g. the displacement in mechanics or the magnetic potential in electromagnetism) is not an unknown of the problem and is reconstructed a posteriori from its time derivative. When this reconstruction is performed via the trapezoidal rule, then these time-discretization methods lead to equivalent formulations.
@@ -26,7 +30,7 @@ Hamiltonian formulation; Lagrangian formulation; mixed finite elements
 - **Pages:** 95--100
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.263](https://doi.org/10.1016/j.ifacol.2024.08.263)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

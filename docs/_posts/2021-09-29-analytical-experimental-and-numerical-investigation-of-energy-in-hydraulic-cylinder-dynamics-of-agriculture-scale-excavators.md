@@ -5,11 +5,11 @@ date: 2021-09-29 00:00:00 +0100
 permalink: analytical-experimental-and-numerical-investigation-of-energy-in-hydraulic-cylinder-dynamics-of-agriculture-scale-excavators
 year: 2021
 authors: Ryo Arai, Satoru Sakai, Akihiro Tatsuoka, Qin Zhang
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ryo Arai](authors/ryo-arai), [Satoru Sakai](authors/satoru-sakai), [Akihiro Tatsuoka](authors/akihiro-tatsuoka), [Qin Zhang](authors/qin-zhang)
+[Ryo Arai](authors/ryo_arai), [Satoru Sakai](authors/satoru_sakai), [Akihiro Tatsuoka](authors/akihiro_tatsuoka), [Qin Zhang](authors/qin_zhang)
  
 ## Abstract
 This paper discusses energy behaviors in hydraulic cylinder dynamics, which are important for model-based control of agriculture scale excavators. First, we review hydraulic cylinder dynamics and update our physical parameter identification method to agriculture scale experimental excavators in order to construct a nominal numerical simulator. Second, we analyze the energy behaviors from the port-Hamiltonian point of view which provides many links to model-based control at laboratory scale at least. At agriculture scale, even though the nominal numerical simulator is much simpler than an experimental excavator, the analytical, experimental, and numerical energy behaviors are very close to each other. This implies that the port-Hamiltonian point of view will be applicable in agriculture scale against modeling errors.

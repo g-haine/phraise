@@ -5,11 +5,11 @@ date: 2024-03-26 00:00:00 +0100
 permalink: modeling-of-a-six-bar-tensegrity-robot-using-the-port-hamiltonian-framework-and-experimental-validation
 year: 2024
 authors: Songyuan Liu, Qingkai Yang, Jingshuo Lv, Hao Fang
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Songyuan Liu](authors/songyuan-liu), [Qingkai Yang](authors/qingkai-yang), [Jingshuo Lv](authors/jingshuo-lv), [Hao Fang](authors/hao-fang)
+[Songyuan Liu](authors/songyuan_liu), [Qingkai Yang](authors/qingkai_yang), [Jingshuo Lv](authors/jingshuo_lv), [Hao Fang](authors/hao_fang)
  
 ## Abstract
 Existing tensegrity robot modeling predominantly relies on cable length as the primary control input, making it intractable for implementation on motor-driven physical systems. In addition, the current models lack precise formulations for intricate environmental interactions, such as ground contact forces during deformation and rolling maneuvers. To bridge these gaps, our study proposes a practicable modeling approach tailored for six-bar tensegrity robots within the Port-Hamiltonian framework. We address the internal forces stemming from interconnected bars and cables by elegantly formulating them as Hamiltonian expressions. Central to our modeling is the versatile “port”, encompassing contact and friction forces, and motor-driven propulsion. These considerations exhibit a broad applicability to cable-driven tensegrity robots, facilitating the straightforward deployment of controllers on real-world robotic platforms. The system parameters are identified via experiments on our prototype tensegrity robot, with results aligning closely with theoretical analyses. In summary, our work offers a refined modeling perspective overcoming challenges in control inputs and environmental interactions, validated through prototype experiments.

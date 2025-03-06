@@ -5,14 +5,14 @@ date: 2024-01-19 00:00:00 +0100
 permalink: the-collective-dynamics-of-a-stochastic-port-hamiltonian-self-driven-agent-model-in-one-dimension
 year: 2024
 authors: Matthias Ehrhardt, Thomas Kruse, Antoine Tordeux
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Matthias Ehrhardt](authors/matthias-ehrhardt), [Thomas Kruse](authors/thomas-kruse), [Antoine Tordeux](authors/antoine-tordeux)
+[Matthias Ehrhardt](authors/matthias_ehrhardt), [Thomas Kruse](authors/thomas_kruse), [Antoine Tordeux](authors/antoine_tordeux)
  
 ## Abstract
-This paper studies the collective motion of self-driven agents in a one-dimensional space with periodic boundaries, using a stochastic Port-Hamiltonian system (PHS) with symmetric nearest-neighbor interactions and additive Brownian noise as an external input. In the case of a quadratic potential the PHS is an Ornstein-Uhlenbeck process for which we explicitly determine the distribution for any time \*t\* ≥ 0 and in the limit \*t\* → \*∞\*. In particular, we characterize the collective motion by showing that the agents’ positions tend to build exactly one cluster. This is confirmed in simulations that show rapid and coordinated motion among agents, driven by noise, despite the absence of a preferred direction of motion in the model. Remarkably, the theoretical properties observed in the Ornstein-Uhlenbeck process also emerge in simulations of the nonlinear model incorporating a general interaction potential.
+This paper studies the collective motion of self-driven agents in a one-dimensional space with periodic boundaries, using a stochastic Port-Hamiltonian system (PHS) with symmetric nearest-neighbor interactions and additive Brownian noise as an external input. In the case of a quadratic potential the PHS is an Ornstein-Uhlenbeck process for which we explicitly determine the distribution for any time *t* ≥ 0 and in the limit *t* → *∞*. In particular, we characterize the collective motion by showing that the agents’ positions tend to build exactly one cluster. This is confirmed in simulations that show rapid and coordinated motion among agents, driven by noise, despite the absence of a preferred direction of motion in the model. Remarkably, the theoretical properties observed in the Ornstein-Uhlenbeck process also emerge in simulations of the nonlinear model incorporating a general interaction potential.
  
 ## Citation
 - **Journal:** ESAIM: Mathematical Modelling and Numerical Analysis

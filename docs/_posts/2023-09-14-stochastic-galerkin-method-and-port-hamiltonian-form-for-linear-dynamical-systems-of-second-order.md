@@ -5,12 +5,19 @@ date: 2023-09-14 00:00:00 +0100
 permalink: stochastic-galerkin-method-and-port-hamiltonian-form-for-linear-dynamical-systems-of-second-order
 year: 2024
 authors: Roland Pulch
-category: journal-article
-tag: Ordinary differential equation; Port-Hamiltonian system; Hamiltonian function; Stochastic Galerkin method; Model order reduction; Uncertainty quantification
+category:
+  - articles
+tags:
+  - ordinary differential equation
+  - port-hamiltonian system
+  - hamiltonian function
+  - stochastic galerkin method
+  - model order reduction
+  - uncertainty quantification
 ---
  
 ## Authors
-[Roland Pulch](authors/roland-pulch)
+[Roland Pulch](authors/roland_pulch)
  
 ## Abstract
 We investigate linear dynamical systems of second order. Uncertainty quantification is applied, where physical parameters are substituted by random variables. A stochastic Galerkin method yields a linear dynamical system of second order with high dimensionality. A structure-preserving model order reduction (MOR) produces a small linear dynamical system of second order again. We arrange an associated port-Hamiltonian (pH) formulation of first order for the second-order systems. Each pH system implies a Hamiltonian function describing an internal energy. We examine the properties of the Hamiltonian function for the stochastic Galerkin systems. We show numerical results using a test example, where both the stochastic Galerkin method and structure-preserving MOR are applied.

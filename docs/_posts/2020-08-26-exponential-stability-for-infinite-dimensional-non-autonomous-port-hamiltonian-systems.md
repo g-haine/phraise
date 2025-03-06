@@ -5,12 +5,18 @@ date: 2020-08-26 00:00:00 +0100
 permalink: exponential-stability-for-infinite-dimensional-non-autonomous-port-hamiltonian-systems
 year: 2020
 authors: Björn Augner, Hafida Laasri
-category: journal-article
-tag: Infinite-dimensional port-Hamiltonian system; Non-autonomous Cauchy problem; Evolution family; Well-posedness; Uniform exponential stability
+category:
+  - articles
+tags:
+  - infinite-dimensional port-hamiltonian system
+  - non-autonomous cauchy problem
+  - evolution family
+  - well-posedness
+  - uniform exponential stability
 ---
  
 ## Authors
-[Björn Augner](authors/bjorn-augner), [Hafida Laasri](authors/hafida-laasri)
+[Björn Augner](authors/bjorn_augner), [Hafida Laasri](authors/hafida_laasri)
  
 ## Abstract
 We study the non-autonomous version of an infinite-dimensional linear port-Hamiltonian system on an interval [ a , b ] . Employing abstract results on evolution families, we show C 1 -well-posedness of the corresponding Cauchy problem, and thereby existence and uniqueness of classical solutions for sufficiently regular initial data. Further, we demonstrate that a dissipation condition in the style of the dissipation condition sufficient for uniform exponential stability in the autonomous case also leads to a uniform exponential decay rate of the energy in this non-autonomous setting.

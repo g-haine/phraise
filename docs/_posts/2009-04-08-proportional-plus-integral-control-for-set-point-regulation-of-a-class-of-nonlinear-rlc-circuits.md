@@ -5,12 +5,18 @@ date: 2009-04-08 00:00:00 +0100
 permalink: proportional-plus-integral-control-for-set-point-regulation-of-a-class-of-nonlinear-rlc-circuits
 year: 2009
 authors: Fernando Castaños, Bayu Jayawardhana, Romeo Ortega, Eloísa García-Canseco
-category: journal-article
-tag: Nonlinear networks; Passivity; Port-Hamiltonian systems; Stability; Stabilization
+category:
+  - articles
+tags:
+  - nonlinear networks
+  - passivity
+  - port-hamiltonian systems
+  - stability
+  - stabilization
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando-castanos), [Bayu Jayawardhana](authors/bayu-jayawardhana), [Romeo Ortega](authors/romeo-ortega), [Eloísa García-Canseco](authors/eloisa-garcia-canseco)
+[Fernando Castaños](authors/fernando_castanos), [Bayu Jayawardhana](authors/bayu_jayawardhana), [Romeo Ortega](authors/romeo_ortega), [Eloísa García-Canseco](authors/eloisa_garcia_canseco)
  
 ## Abstract
 In this paper we identify graph-theoretic conditions which allow us to write a nonlinear RLC circuit as port-Hamiltonian with constant input matrices. We show that under additional monotonicity conditions on the network’s components, the circuit enjoys the property of relative passivity, an extended notion of classical passivity. The property of relative passivity is then used to build simple, yet robust and globally stable, proportional plus integral controllers.

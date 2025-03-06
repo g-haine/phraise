@@ -5,12 +5,20 @@ date: 2024-09-25 00:00:00 +0100
 permalink: passive-guaranteed-modeling-and-simulation-of-a-finite-element-nonlinear-string-model
 year: 2024
 authors: David Roze, Mathis Raibaud, Thibault Geoffroy
-category: journal-article
-tag: Distributed parameter systems; Numerical Methods; Hamiltonian dynamics; Port-Hamiltonian systems; Quadratization; Nonlinear string model; Finite elements method
+category:
+  - proceedings
+tags:
+  - distributed parameter systems
+  - numerical methods
+  - hamiltonian dynamics
+  - port-hamiltonian systems
+  - quadratization
+  - nonlinear string model
+  - finite elements method
 ---
  
 ## Authors
-[David Roze](authors/david-roze), [Mathis Raibaud](authors/mathis-raibaud), [Thibault Geoffroy](authors/thibault-geoffroy)
+[David Roze](authors/david_roze), [Mathis Raibaud](authors/mathis_raibaud), [Thibault Geoffroy](authors/thibault_geoffroy)
  
 ## Abstract
 This paper proposes to solve the dynamics of the Kirchhoff-Carrier nonlinear string model using the finite elements method. In order to ensure the power balance of the resulting finite dimensional model it is rewritten in the Port-Hamiltonian System (PHS) formalism. Using a discrete gradient and a quadratization of the Hamiltonian, an explicit power-preserving numerical scheme is proposed. Results of simulation are presented.
@@ -26,7 +34,7 @@ Distributed parameter systems; Numerical Methods; Hamiltonian dynamics; Port-Ham
 - **Pages:** 226--231
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.285](https://doi.org/10.1016/j.ifacol.2024.08.285)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

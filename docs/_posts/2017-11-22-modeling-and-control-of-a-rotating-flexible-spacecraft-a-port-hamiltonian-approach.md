@@ -5,11 +5,11 @@ date: 2017-11-22 00:00:00 +0100
 permalink: modeling-and-control-of-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach
 year: 2019
 authors: Said Aoues, Flavio Luiz Cardoso-Ribeiro, Denis Matignon, Daniel Alazard
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Said Aoues](authors/said-aoues), [Flavio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Daniel Alazard](authors/daniel-alazard)
+[Said Aoues](authors/said_aoues), [Flavio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Daniel Alazard](authors/daniel_alazard)
  
 ## Abstract
 In this brief, we develop a mathematical model of a flexible spacecraft system composed of a hub and two symmetrical beams using the port-Hamiltonian framework. This class of system has favorable properties, such as passivity for controller synthesis and stability analysis, where the global Hamiltonian plays the role of a Lyapunov function candidate. The spacecraft model is viewed as a power-conserving interconnection between an infinite (beam) and finite (hub) dimensional system. We show that the interconnection result has a port-Hamiltonian structure and is passive. The introduction of a nonlinear feedback term, which takes into account the beam’s flexibility, is developed using the control by an interconnection approach. The closed-loop stability is proven; then, through explicitly solving the partial differential equations of the system, asymptotic stability is obtained. Finally, the experimental results are carried out to assess the validity of the proposed design methodology.

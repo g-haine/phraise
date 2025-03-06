@@ -5,12 +5,19 @@ date: 2013-09-16 00:00:00 +0100
 permalink: material-balance-and-closure-equations-for-plasmas-in-tokamaks
 year: 2013
 authors: Ngoc Minh Trang Vu, Laurent Lefèvre
-category: journal-article
-tag: plasma dynamics; port Hamiltonian systems; thermo-magneto-hydrodynamics; distributed parameters systems; kinetic theory; thermodynamics
+category:
+  - proceedings
+tags:
+  - plasma dynamics
+  - port hamiltonian systems
+  - thermo-magneto-hydrodynamics
+  - distributed parameters systems
+  - kinetic theory
+  - thermodynamics
 ---
  
 ## Authors
-[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Laurent Lefèvre](authors/laurent-lefevre)
+[Ngoc Minh Trang Vu](authors/ngoc_minh_trang_vu), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 A port-Hamiltonian model is derived for the thermo-magneto-hydrodynamics (TMHD) of plasma in tokamaks. This paper focuses on the balance and closure equations in the material domain. First a kinetic theory point of view is adopted and transport equations are derived from the Boltzmann equation. Then material derivatives are introduced to derive macroscopic balance equations of the TMHD fluid model from these kinetic transport equations. Finally, the Gibbs-Duhem equation is used to compute the irreversible entropy source term and to define the interdomain ℛ - field of the model.
@@ -26,7 +33,7 @@ plasma dynamics; port Hamiltonian systems; thermo-magneto-hydrodynamics; distrib
 - **Pages:** 60--65
 - **Publisher:** Elsevier BV
 - **DOI:** [10.3182/20130714-3-FR-4040.00006](https://doi.org/10.3182/20130714-3-FR-4040.00006)
-- **Note:** 1st IFAC Workshop on Thermodynamic Foundations of Mathematical Systems Theory
+- **Event:** 1st IFAC Workshop on Thermodynamic Foundations of Mathematical Systems Theory
  
 ## BibTeX
 {% highlight bibtex %}

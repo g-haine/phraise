@@ -5,12 +5,17 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-a-geometrically-nonlinear-hyperelastic-beam
 year: 2024
 authors: Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez
-category: journal-article
-tag: Port-Hamiltonian systems; Modeling; Timoshenko beam; Nonlinear systems
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - modeling
+  - timoshenko beam
+  - nonlinear systems
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal-ponce), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
+[Cristobal Ponce](authors/cristobal_ponce), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 This paper is concerned with the port-Hamiltonian modeling of a Timoshenko beam subject geometric nonlinearities through von Kármán strains, material nonlinearity considering hyperelasticity with the assumption of neo-Hookean or Mooney-Rivlin material, in addition to the incompressible deformation constraint that corresponds to the preservation of volume. The model is suitable for representing the behavior of rubber like beams within the range of moderate deformations and rotations. Numerical simulations are carried out to illustrate the accuracy of the proposed model.
@@ -26,7 +31,7 @@ Port-Hamiltonian systems; Modeling; Timoshenko beam; Nonlinear systems
 - **Pages:** 309--314
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.299](https://doi.org/10.1016/j.ifacol.2024.08.299)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

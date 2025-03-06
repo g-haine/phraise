@@ -5,12 +5,18 @@ date: 2011-02-08 00:00:00 +0100
 permalink: control-by-interconnection-and-energy-shaping-methods-of-port-hamiltonian-models-application-to-the-shallow-water-equations
 year: 2010
 authors: Boussad Hamroun, Alexandru Dimofte, Laurent Lefèvre, Eduardo Mendes
-category: journal-article
-tag: Nonlinear systems; Shallow water equations; Passivity based control; Port-Hamiltonian distributed parameters models; Geometric reduction methods
+category:
+  - articles
+tags:
+  - nonlinear systems
+  - shallow water equations
+  - passivity based control
+  - port-hamiltonian distributed parameters models
+  - geometric reduction methods
 ---
  
 ## Authors
-[Boussad Hamroun](authors/boussad-hamroun), [Alexandru Dimofte](authors/alexandru-dimofte), [Laurent Lefèvre](authors/laurent-lefevre), [Eduardo Mendes](authors/eduardo-mendes)
+[Boussad Hamroun](authors/boussad_hamroun), [Alexandru Dimofte](authors/alexandru_dimofte), [Laurent Lefèvre](authors/laurent_lefevre), [Eduardo Mendes](authors/eduardo_mendes)
  
 ## Abstract
 In this article a control algorithm for the reduced port-Controlled Hamiltonian model (PCH) of the shallow water equations partial differential equations (PDEs) is developed. This control is developed using the Interconnection and Damping Assignment Passivity Based Control (IDAPBC) method on the reduced PCH model without the natural dissipation. It allows to assign desired structure and energy function to the closed-loop system. The same control law is then derived using an energy-shaping method based on Casimir's invariants, associated with a particular conservative interconnection between the boundary variables. This gives a physical interpretation for the designed controller. Finally, a stability analysis of the dissipative system in closed loop with the designed control is done using LaSalle's invariance principle. Simulation results and an experimental validation of the control algorithm on an a micro-canal platform are presented showing the effectiveness of the control law.

@@ -5,11 +5,11 @@ date: 2023-02-20 00:00:00 +0100
 permalink: port-hamiltonian-formulations-of-some-elastodynamics-theories-of-isotropic-and-linearly-elastic-shells-naghdi-reissner-s-moderately-thick-shells
 year: 2023
 authors: Miguel Charlotte, Ignacio Fernandez Núnez, Yves Gourinat, Denis Matignon
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Miguel Charlotte](authors/miguel-charlotte), [Ignacio Fernandez Núnez](authors/ignacio-fernandez-nunez), [Yves Gourinat](authors/yves-gourinat), [Denis Matignon](authors/denis-matignon)
+[Miguel Charlotte](authors/miguel_charlotte), [Ignacio Fernandez Núnez](authors/ignacio_fernandez_nunez), [Yves Gourinat](authors/yves_gourinat), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 The port-Hamiltonian system approach is intended to be an innovative and unifying way of modeling multiphysics systems, by expressing all of them as systems of conservation laws. Indeed, the increasing developments in recent years allow finding better control and coupling strategies. This work aimed to apply such an approach to Naghdi–Reissner’s five-kinematic-field shell model in linear elasticity, while including often-neglected higher-order intrinsic geometric coupling effects, therefore preparing the theoretical background required for the coupling (or interconnection) with an acoustic fluid model and the different types of interactions that can arise among them. The model derived thusly can be used for controller design in a wide variety of applications such as inflatable space structures, launcher tank vibration damping, payload vibration protection using smart materials, and many other related applications.

@@ -5,12 +5,16 @@ date: 2021-11-01 00:00:00 +0100
 permalink: dissipative-port-hamiltonian-formulation-of-maxwell-viscoelastic-fluids
 year: 2021
 authors: Luis A. Mora, Yann Le Gorrec, Hector Ramirez, Juan Yuz, Bernhard Maschke
-category: journal-article
-tag: Port-Hamiltonian systems; Non-Newtonian Fluids; Maxwell’s viscoelasticity
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - non-newtonian fluids
+  - maxwell’s viscoelasticity
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis-a-mora), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez), [Juan Yuz](authors/juan-i-yuz), [Bernhard Maschke](authors/bernhard-maschke)
+[Luis A. Mora](authors/luis_a_mora), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez), [Juan Yuz](authors/juan_i_yuz), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 In this paper we consider general port-Hamiltonian formulations of multidimensional Maxwell’s viscoelastic fluids. Two different cases are considered to describe the energy fluxes in isentropic compressible and incompressible fluids. In the compressible case, the viscoelastic effects of shear and dilatational strains on the stress tensor are described individually through the corresponding constitutive equations. In the incompressible case, an approach based on the bulk modulus definition is proposed in order to obtain an appropriate characterization, from the port-Hamiltonian point of view, of the pressure and nonlinear terms in the momentum equation, associated with both dynamic pressure and vorticity of the flow.
@@ -26,7 +30,7 @@ Port-Hamiltonian systems; Non-Newtonian Fluids; Maxwell’s viscoelasticity
 - **Pages:** 430--435
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.10.392](https://doi.org/10.1016/j.ifacol.2021.10.392)
-- **Note:** 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2021- Tokyo, Japan, 15-17 September 2021
+- **Event:** 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2021- Tokyo, Japan, 15-17 September 2021
  
 ## BibTeX
 {% highlight bibtex %}

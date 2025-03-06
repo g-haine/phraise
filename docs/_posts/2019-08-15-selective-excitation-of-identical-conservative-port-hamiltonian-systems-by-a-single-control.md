@@ -5,11 +5,11 @@ date: 2019-08-15 00:00:00 +0100
 permalink: selective-excitation-of-identical-conservative-port-hamiltonian-systems-by-a-single-control
 year: 2019
 authors: Dmitry Gromov, Alexander L. Fradkov, Mikhail S. Ananyevskiy
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Dmitry Gromov](authors/dmitry-gromov), [Alexander L. Fradkov](authors/alexander-l-fradkov), [Mikhail S. Ananyevskiy](authors/mikhail-s-ananyevskiy)
+[Dmitry Gromov](authors/dmitry_gromov), [Alexander L. Fradkov](authors/alexander_l_fradkov), [Mikhail S. Ananyevskiy](authors/mikhail_s_ananyevskiy)
  
 ## Abstract
 A generalization of the results obtained earlier in M. S. Ananyevskiy, A. L. Fradkov, and H. Nijmeijer; Control of mechanical systems with constraints: two pendulums case study, IFAC Proceedings Volumes, vol. 41, no. 2, pp. 7690–7694, 2008. is presented. Three control problems for complex systems consisting of port-Hamiltonian subsystems are formulated. In particular, the problem of exciting a number of identical port-Hamiltonian systems to given (not necessarily equal) energy levels while ensuring strict bounds on the energy levels of remaining systems is studied. Solvability conditions based on speed-gradient control are established. The obtained results are illustrated by numerical simulations.

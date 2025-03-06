@@ -5,12 +5,18 @@ date: 2017-01-07 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-approach-to-modeling-and-analyzing-of-non-isothermal-chemical-reaction-networks
 year: 2016
 authors: Li Wang, Bernhard Maschke, Arjan van der Schaft
-category: journal-article
-tag: Chemical reaction network; Irreversible port Hamiltonian systems; Equilibrium; Lyapunov function; Asymptotic stability
+category:
+  - proceedings
+tags:
+  - chemical reaction network
+  - irreversible port hamiltonian systems
+  - equilibrium
+  - lyapunov function
+  - asymptotic stability
 ---
  
 ## Authors
-[Li Wang](authors/li-wang), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Li Wang](authors/li_wang), [Bernhard Maschke](authors/bernhard_maschke), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 Inspired by great advances on the mathematical structure of chemical reaction networks governed by mass action kinetics and by one of the main features of Irreversible port-Hamiltonian formulation that the thermodynamic principles could be presented clearly and directly in its structure, the aim of our work is to utilize the Irreversible port-Hamiltonian formulation to study chemical reaction networks in non-isothermal case, including modeling, equilibrium and asymptotic stability.
@@ -26,7 +32,7 @@ Chemical reaction network; Irreversible port Hamiltonian systems; Equilibrium; L
 - **Pages:** 134--139
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.12.115](https://doi.org/10.1016/j.ifacol.2016.12.115)
-- **Note:** Foundations of Systems Biology in Engineering - FOSBE 2016- Magdeburg, Germany, 9—12 October 2016
+- **Event:** Foundations of Systems Biology in Engineering - FOSBE 2016- Magdeburg, Germany, 9—12 October 2016
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,19 @@ date: 2021-04-15 00:00:00 +0100
 permalink: multistable-energy-shaping-of-passive-linear-systems-with-hybrid-mode-selector
 year: 2020
 authors: Stefano Massaroli, Federico Califano, Angela Faragasso, Atsushi Yamashita, Hajime Asama
-category: journal-article
-tag: linear systems; nonlinear control; port–Hamiltonian systems; hybrid systems; multistability; passivity–based control
+category:
+  - proceedings
+tags:
+  - linear systems
+  - nonlinear control
+  - port–hamiltonian systems
+  - hybrid systems
+  - multistability
+  - passivity–based control
 ---
  
 ## Authors
-[Stefano Massaroli](authors/stefano-massaroli), [Federico Califano](authors/federico-califano), [Angela Faragasso](authors/angela-faragasso), [Atsushi Yamashita](authors/atsushi-yamashita), [Hajime Asama](authors/hajime-asama)
+[Stefano Massaroli](authors/stefano_massaroli), [Federico Califano](authors/federico_califano), [Angela Faragasso](authors/angela_faragasso), [Atsushi Yamashita](authors/atsushi_yamashita), [Hajime Asama](authors/hajime_asama)
  
 ## Abstract
 This paper presents a novel control strategy for stable linear time–invariant systems operating with a finite number of set points. Inspired by the theory of passivity-based control, the proposed method aims at simultaneously and asymptotically stabilize all the desired working modes by means of a static nonlinear state feedback law. An asynchronous external signal is then employed to trigger a hybrid controller in order to switch between the different working modes. The proposed approach is validated by means of simulations performed on the ubiquitous mass-spring-damper system.
@@ -26,7 +33,7 @@ linear systems; nonlinear control; port–Hamiltonian systems; hybrid systems; m
 - **Pages:** 9118--9124
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.2151](https://doi.org/10.1016/j.ifacol.2020.12.2151)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

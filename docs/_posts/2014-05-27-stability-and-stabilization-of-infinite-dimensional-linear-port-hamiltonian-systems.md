@@ -5,11 +5,11 @@ date: 2014-05-27 00:00:00 +0100
 permalink: stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2014
 authors: Björn Augner, Birgit Jacob
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Björn Augner](authors/bjorn-augner), [Birgit Jacob](authors/birgit-jacob)
+[Björn Augner](authors/bjorn_augner), [Birgit Jacob](authors/birgit_jacob)
  
 ## Abstract
 Stability and stabilization of linear port-Hamiltonian systems on infinite-dimensional spaces are investigated. This class is general enough to include models of beams and waves as well as transport and Schr\"odinger equations with boundary control and observation. The analysis is based on the frequency domain method which gives new results for second order port-Hamiltonian systems and hybrid systems. Stabilizing controllers with colocated input and output are designed. The obtained results are applied to the Euler-Bernoulli beam.

@@ -5,12 +5,18 @@ date: 2020-07-08 00:00:00 +0100
 permalink: explicit-port-hamiltonian-formulation-of-multi-bond-graphs-for-an-automated-model-generation
 year: 2020
 authors: Martin Pfeifer, Sven Caspart, Silja Hampel, Charles Muller, Stefan Krebs, Sören Hohmann
-category: journal-article
-tag: Port-Hamiltonian systems; Bond graphs; Automated modelling; State-space models; Model generation
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - bond graphs
+  - automated modelling
+  - state-space models
+  - model generation
 ---
  
 ## Authors
-[Martin Pfeifer](authors/martin-pfeifer), [Sven Caspart](authors/sven-caspart), [Silja Hampel](authors/silja-hampel), [Charles Muller](authors/charles-muller), [Stefan Krebs](authors/stefan-krebs), [Sören Hohmann](authors/soren-hohmann)
+[Martin Pfeifer](authors/martin_pfeifer), [Sven Caspart](authors/sven_caspart), [Silja Hampel](authors/silja_hampel), [Charles Muller](authors/charles_muller), [Stefan Krebs](authors/stefan_krebs), [Sören Hohmann](authors/soren_hohmann)
  
 ## Abstract
 Port-Hamiltonian system theory is a well-known framework for the control of complex physical systems. The majority of port-Hamiltonian control design methods base on an explicit input-state-output port-Hamiltonian model for the system under consideration. However in the literature, little effort has been made towards a systematic, automatable derivation of such explicit models. In this paper, we present a constructive, formally rigorous method for an explicit port-Hamiltonian formulation of multi-bond graphs. Two conditions, one necessary and one sufficient, for the existence of an explicit port-Hamiltonian formulation of a multi-bond graph are given. We summarise our approach in an algorithm for the automated generation of an explicit port-Hamiltonian model from a given multi-bond graph. An academic example illustrates the results of this paper.

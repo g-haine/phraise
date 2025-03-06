@@ -5,12 +5,18 @@ date: 2014-04-12 00:00:00 +0100
 permalink: dirac-structures-on-hilbert-spaces-and-boundary-control-of-distributed-port-hamiltonian-systems
 year: 2014
 authors: Alessandro Macchelli
-category: journal-article
-tag: Distributed port-Hamiltonian systems; Passivity-based boundary control; Dirac structures; Dissipation obstacle; Stability analysis
+category:
+  - articles
+tags:
+  - distributed port-hamiltonian systems
+  - passivity-based boundary control
+  - dirac structures
+  - dissipation obstacle
+  - stability analysis
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli)
+[Alessandro Macchelli](authors/alessandro_macchelli)
  
 ## Abstract
 Aim of this paper is to show how the Dirac structure properties can be exploited in the development of energy-based boundary control laws for distributed port-Hamiltonian systems. Usually, stabilization of non-zero equilibria has been achieved by looking at, or generating, a set of structural invariants, namely Casimir functions, in closed-loop. Since this approach fails when an infinite amount of energy is required at the equilibrium (dissipation obstacle), this paper illustrates a novel approach that enlarges the class of stabilizing controllers. The starting point is the parametrization of the dynamics provided by the image representation of the Dirac structure, that is able to show the effects of the boundary inputs on the state evolution. In this way, energy-balancing and control by state-modulated source methodologies are extended to the distributed parameter scenario, and a geometric interpretation of these control techniques is provided. The theoretical results are discussed with the help of a simple but illustrative example, i.e. a transmission line with an RLC load in both serial and parallel configurations. In the latter case, energy-balancing controllers are not able to stabilize non-zero equilibria because of the dissipation obstacle. The problem is solved thanks to a (boundary) state-modulated source.

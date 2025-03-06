@@ -5,12 +5,16 @@ date: 2021-04-15 00:00:00 +0100
 permalink: linear-boundary-port-hamiltonian-systems-defined-on-lagrangian-submanifolds
 year: 2020
 authors: Bernhard Maschke, Arjan van der Schaft
-category: journal-article
-tag: Port Hamiltonian systems; Dirac structures; Lagrangian subspaces
+category:
+  - proceedings
+tags:
+  - port hamiltonian systems
+  - dirac structures
+  - lagrangian subspaces
 ---
  
 ## Authors
-[Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Bernhard Maschke](authors/bernhard_maschke), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 Recently Port Hamiltonian systems have been extended to encompass an implicit definition of the energy function of the system, by defining it in terms of a Lagrangian submanifold. In this paper, we extend the definition of Port Hamiltonian systems defined with respect to Lagrangian submanifold to a class of infinite-dimensional systems where the Lagrangian submanifold is defined by first-order differential operators. We show that this adds some port boundary variables and derive the energy balance equation. This construction is illustrated on the model of a flexible nanorod made of composite material.
@@ -26,7 +30,7 @@ Port Hamiltonian systems; Dirac structures; Lagrangian subspaces
 - **Pages:** 7734--7739
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1526](https://doi.org/10.1016/j.ifacol.2020.12.1526)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

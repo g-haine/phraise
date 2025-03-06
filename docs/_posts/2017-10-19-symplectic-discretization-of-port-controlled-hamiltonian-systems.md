@@ -5,12 +5,18 @@ date: 2017-10-19 00:00:00 +0100
 permalink: symplectic-discretization-of-port-controlled-hamiltonian-systems
 year: 2017
 authors: Laurent Lefevre, Silviu Medianu
-category: journal-article
-tag: symplectic discretization; Port Controlled Hamiltonian systems; discrete-time systems; linear systems; nonlinear systems
+category:
+  - proceedings
+tags:
+  - symplectic discretization
+  - port controlled hamiltonian systems
+  - discrete-time systems
+  - linear systems
+  - nonlinear systems
 ---
  
 ## Authors
-[Laurent Lefevre](authors/laurent-lefevre), [Silviu Medianu](authors/silviu-medianu)
+[Laurent Lefevre](authors/laurent_lefevre), [Silviu Medianu](authors/silviu_medianu)
  
 ## Abstract
 In this paper, a time-discretization framework is proposed for Port Controlled Hamiltonian (PCH) systems using combined discretization rules for the flows and efforts, which preserves the continuous-time structure. As examples for this formulation, three symplectic time-discretization schemes are presented, using classic discretization rules (implicit/explicit Euler, implicit mid-point and implicit trapezoidal), for the flows and efforts. As continuous-time model for exemplification using this framework, a linear capacitor microphone circuit is selected.
@@ -26,7 +32,7 @@ symplectic discretization; Port Controlled Hamiltonian systems; discrete-time sy
 - **Pages:** 3629--3634
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.708](https://doi.org/10.1016/j.ifacol.2017.08.708)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

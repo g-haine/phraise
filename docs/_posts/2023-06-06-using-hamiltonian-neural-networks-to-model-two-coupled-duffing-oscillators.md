@@ -5,12 +5,17 @@ date: 2023-06-06 00:00:00 +0100
 permalink: using-hamiltonian-neural-networks-to-model-two-coupled-duffing-oscillators
 year: 2023
 authors: Gordei Pribõtkin, Stefania Tomasiello
-category: journal-article
-tag: Port-Hamiltonian Neural Network; Hamiltonian Neural Network; Forced system; Damped system
+category:
+  - articles
+tags:
+  - port-hamiltonian neural network
+  - hamiltonian neural network
+  - forced system
+  - damped system
 ---
  
 ## Authors
-[Gordei Pribõtkin](authors/gordei-pribotkin), [Stefania Tomasiello](authors/stefania-tomasiello)
+[Gordei Pribõtkin](authors/gordei_pribotkin), [Stefania Tomasiello](authors/stefania_tomasiello)
  
 ## Abstract
 In this short note, the performance of two kinds of physics-guided computing schemes, namely the Hamiltonian Neural Network and the Port-Hamiltonian Neural Network, are discussed through the predicted dynamics of two coupled Duffing oscillators. First, we propose a new error bound which holds for both types of networks. Then, we numerically investigate some alternative activation functions in terms of prediction accuracy. The numerical results show the potential of the approaches when compared to the standard neural networks in the transient regime.

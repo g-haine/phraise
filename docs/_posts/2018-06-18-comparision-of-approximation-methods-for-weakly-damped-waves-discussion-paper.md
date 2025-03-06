@@ -5,12 +5,20 @@ date: 2018-06-18 00:00:00 +0100
 permalink: comparision-of-approximation-methods-for-weakly-damped-waves-discussion-paper
 year: 2018
 authors: Kirsten Morris
-category: journal-article
-tag: approximation; discretization; port-Hamiltonian; energy; distributed parameter systems; infinite-dimensional systems; controller design
+category:
+  - proceedings
+tags:
+  - approximation
+  - discretization
+  - port-hamiltonian
+  - energy
+  - distributed parameter systems
+  - infinite-dimensional systems
+  - controller design
 ---
  
 ## Authors
-[Kirsten Morris](authors/kirsten-morris)
+[Kirsten Morris](authors/kirsten_morris)
  
 ## Abstract
 A number of applications involving wave propagation are asymptotically stable, but the decay rate of the mode does not increase with increasing wave number. Applications include electrical transmission, acoustic waves and water waves. There are many different approximation methods for these systems that are fine for simulation. But the qualitative behaviour of the approximated eigenvalues can be quite different. Controller and estimator design with different approximations can yield different results. A number of partial differential equations (PDEs) are derived using Hamilton’s principle. This provides information about the energy of the system that can be a guideline in establishing well-posedness on an appropriate state space. Recent work on a port-Hamiltonian approach to approximation shows promise in obtaining finite-dimensional approximations that are useful for control and estimation. A key feature of the port-Hamiltonian approach is careful attention to how the energy in the system is modelled and approximated. How does this approach compare to more traditional approaches to scientific computation? In particular, what are the similarities and what are the differences? These questions will be examined in the talk, and in discussion, through several relatively simple examples.
@@ -26,7 +34,7 @@ approximation; discretization; port-Hamiltonian; energy; distributed parameter s
 - **Pages:** 97--100
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.027](https://doi.org/10.1016/j.ifacol.2018.06.027)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

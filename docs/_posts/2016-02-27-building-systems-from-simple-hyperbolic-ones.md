@@ -5,12 +5,16 @@ date: 2016-02-27 00:00:00 +0100
 permalink: building-systems-from-simple-hyperbolic-ones
 year: 2016
 authors: H. Zwart, Y. Le Gorrec, B. Maschke
-category: journal-article
-tag: Infinite-dimensional systems theory; Partial differential equation; Impedance passive
+category:
+  - articles
+tags:
+  - infinite-dimensional systems theory
+  - partial differential equation
+  - impedance passive
 ---
  
 ## Authors
-[H. Zwart](authors/hans-zwart), [Y. Le Gorrec](authors/yann-le-gorrec), [B. Maschke](authors/bernhard-maschke)
+[H. Zwart](authors/hans_zwart), [Y. Le Gorrec](authors/yann_le_gorrec), [B. Maschke](authors/bernhard_maschke)
  
 ## Abstract
 In this article we introduce a technique that derives from the existence and uniqueness of solutions to a simple hyperbolic partial differential equation (p.d.e.) the existence and uniqueness of solutions to hyperbolic and parabolic p.d.e.’s. Among others, we show that starting with an impedance passive system associated to the undamped wave equation, we can obtain an impedance passive system associated to the heat conduction equation.

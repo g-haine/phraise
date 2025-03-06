@@ -5,12 +5,18 @@ date: 2012-06-30 00:00:00 +0100
 permalink: on-an-intrinsic-formulation-of-time-variant-port-hamiltonian-systems
 year: 2012
 authors: Markus Schöberl, Kurt Schlacher
-category: journal-article
-tag: Nonlinear control systems; Differential geometric methods; Mathematical systems theory; Tracking applications; Mechanical systems
+category:
+  - articles
+tags:
+  - nonlinear control systems
+  - differential geometric methods
+  - mathematical systems theory
+  - tracking applications
+  - mechanical systems
 ---
  
 ## Authors
-[Markus Schöberl](authors/markus-schoberl), [Kurt Schlacher](authors/kurt-schlacher)
+[Markus Schöberl](authors/markus_schoberl), [Kurt Schlacher](authors/kurt_schlacher)
  
 ## Abstract
 In this contribution we present an intrinsic description of time-variant Port Hamiltonian systems as they appear in modeling and control theory. This formulation is based on the splitting of the state bundle and the use of appropriate covariant derivatives, which guarantees that the structure of the equations is invariant with respect to time-variant coordinate transformations. In particular, we will interpret our covariant system representation in the context of control theoretic problems. Typical examples are time-variant error systems related to trajectory tracking problems which allow for a Hamiltonian formulation. Furthermore we will analyze the concept of collocation and the balancing/interaction of power flows in an intrinsic fashion.

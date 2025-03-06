@@ -5,12 +5,20 @@ date: 2022-10-01 00:00:00 +0100
 permalink: stochastic-port-hamiltonian-systems
 year: 2022
 authors: Francesco Cordoni, Luca Di Persio, Riccardo Muradore
-category: journal-article
-tag: Stochastic geometric mechanics; Port-Hamiltonian systems; Stochastic equations on manifold; Dirac manifold; 34G20; 34F05; 37N35
+category:
+  - articles
+tags:
+  - stochastic geometric mechanics
+  - port-hamiltonian systems
+  - stochastic equations on manifold
+  - dirac manifold
+  - 34g20
+  - 34f05
+  - 37n35
 ---
  
 ## Authors
-[Francesco Cordoni](authors/francesco-giuseppe-cordoni), [Luca Di Persio](authors/luca-di-persio), [Riccardo Muradore](authors/riccardo-muradore)
+[Francesco Cordoni](authors/francesco_giuseppe_cordoni), [Luca Di Persio](authors/luca_di_persio), [Riccardo Muradore](authors/riccardo_muradore)
  
 ## Abstract
 In the present work we formally extend the theory of port-Hamiltonian systems to include random perturbations. In particular, suitably choosing the space of flow and effort variables we will show how several elements coming from possibly different physical domains can be interconnected in order to describe a dynamic system perturbed by general continuous semimartingale. Relevant enough, the noise does not enter into the system solely as an external random perturbation, since each port is itself intrinsically stochastic. Coherently to the classical deterministic setting, we will show how such an approach extends existing literature of stochastic Hamiltonian systems on pseudo-Poisson and pre-symplectic manifolds. Moreover, we will prove that a power-preserving interconnection of stochastic port-Hamiltonian systems is a stochastic port-Hamiltonian system as well.

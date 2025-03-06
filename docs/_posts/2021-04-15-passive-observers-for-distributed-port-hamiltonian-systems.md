@@ -5,12 +5,15 @@ date: 2021-04-15 00:00:00 +0100
 permalink: passive-observers-for-distributed-port-hamiltonian-systems
 year: 2020
 authors: Jesús Toledo, Héctor Ramirez, Yongxin Wu, Yann Le Gorrec
-category: journal-article
-tag: Observer design; port-Hamiltonian distributed parameter systems
+category:
+  - proceedings
+tags:
+  - observer design
+  - port-hamiltonian distributed parameter systems
 ---
  
 ## Authors
-[Jesús Toledo](authors/jesus-pablo-toledo-zucco), [Héctor Ramirez](authors/hector-ramirez), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Jesús Toledo](authors/jesus_pablo_toledo_zucco), [Héctor Ramirez](authors/hector_ramirez), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 The observer design for 1D boundary controlled infinite-dimensional systems is addressed using the port-Hamiltonian approach. The observer is defined by the same partial differential equations as the original system and the boundary conditions depend on the available information from sensors and actuators. The convergence of the observers is proved to be asymptotically or exponentially under some conditions. The vibrating string and the Timoshenko beam are used to illustrate the observer convergence in different scenarios.
@@ -26,7 +29,7 @@ Observer design; port-Hamiltonian distributed parameter systems
 - **Pages:** 7587--7592
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1356](https://doi.org/10.1016/j.ifacol.2020.12.1356)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

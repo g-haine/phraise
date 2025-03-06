@@ -5,11 +5,11 @@ date: 2024-07-23 00:00:00 +0100
 permalink: air-supply-control-for-pem-fuel-cells-under-hamiltonian-framework-a-segmentation-approach
 year: 2024
 authors: Lalitesh Kumar, Jian Chen, Xinyu Li, Zhongliang Li
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Lalitesh Kumar](authors/lalitesh-kumar), [Jian Chen](authors/jian-chen), [Xinyu Li](authors/xinyu-li), [Zhongliang Li](authors/zhongliang-li)
+[Lalitesh Kumar](authors/lalitesh_kumar), [Jian Chen](authors/jian_chen), [Xinyu Li](authors/xinyu_li), [Zhongliang Li](authors/zhongliang_li)
  
 ## Abstract
 In this paper, a novel multi-input multi-output nonlinear model of proton exchange membrane fuel cells air supply subsystem under port-Hamiltonian framework is proposed-based on the segmentation of the cathode flow channel. The model consists of inlet valve, cathode flow channel, and back pressure valve to regulate the air supply. In this model, the valve openings are regarded to be inputs to the air-supply subsystem, and the valve orifices are modeled as a linear approximation from the characteristics curves of the solenoid valves. In addition, the developed model’s energy balance, dissipativity, and passivity properties are proved and discussed in details in this work. Furthermore, a passivity-based control action is designed to track the desired pressures trajectories in port-Hamiltonian framework with explicit stability analysis. Finally, the designed control action can minimize the tracking error of distributed pressures in the segments and also prove the effectiveness of the proposed model, as depicted with simulation results.

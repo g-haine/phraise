@@ -5,11 +5,11 @@ date: 2005-12-10 00:00:00 +0100
 permalink: power-scaling-in-port-hamiltonian-based-telemanipulation
 year: 2005
 authors: C. Secchi, S. Straimgioli, C. Fantuzzi
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[C. Secchi](authors/cristian-secchi), [S. Straimgioli](authors/stefano-stramigioli), [C. Fantuzzi](authors/cesare-fantuzzi)
+[C. Secchi](authors/cristian_secchi), [S. Straimgioli](authors/stefano_stramigioli), [C. Fantuzzi](authors/cesare_fantuzzi)
  
 ## Abstract
 In several applications involving bilateral telemanipulation, master and slave robots act at different power scales (e.g. telesurgery). The aim of this paper is to embed power scaling into port-Hamiltonian based bilateral telemanipulation schemes, In order to deal with nonnegligible transmission delays we propose a novel scattering based communication strategy to properly scale the power exchanged by master and slave while preserving a stable behavior of the overall scheme.

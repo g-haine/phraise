@@ -5,12 +5,17 @@ date: 2023-11-22 00:00:00 +0100
 permalink: structure-preserving-discontinuous-galerkin-approximation-of-one-dimensional-port-hamiltonian-systems
 year: 2023
 authors: Tobias Thoma, Paul Kotyczka
-category: journal-article
-tag: port-Hamiltonian systems; conservation laws; structure preserving discretization; discontinuous Galerkin
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - conservation laws
+  - structure preserving discretization
+  - discontinuous galerkin
 ---
  
 ## Authors
-[Tobias Thoma](authors/tobias-thoma), [Paul Kotyczka](authors/paul-kotyczka)
+[Tobias Thoma](authors/tobias_thoma), [Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 In this article, we present the structure preserving discretization of linear one-dimensional port-Hamiltonian (PH) systems of two conservation laws using discontinuous Galerkin (DG) methods. We recall the DG discretization procedure which is based on a subdivision of the computational domain, an elementwise weak formulation with up to two integrations by parts, and the interconnection of the elements using different numerical fluxes. We present the interconnection of the element models, which is power preserving in the case of conservative (unstabilized) numerical fluxes, and we set up the resulting global PH state space model. We discuss the properties of the obtained models, including the effect of the flux stabilization parameter on the spectrum. Finally, we show simulations with different parameters for a boundary controlled linear hyperbolic system.
@@ -26,7 +31,7 @@ port-Hamiltonian systems; conservation laws; structure preserving discretization
 - **Pages:** 6783--6788
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.386](https://doi.org/10.1016/j.ifacol.2023.10.386)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

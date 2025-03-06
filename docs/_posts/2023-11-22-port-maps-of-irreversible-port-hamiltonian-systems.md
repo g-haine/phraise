@@ -5,12 +5,18 @@ date: 2023-11-22 00:00:00 +0100
 permalink: port-maps-of-irreversible-port-hamiltonian-systems
 year: 2023
 authors: Bernhard Maschke, Jonas Kirchhoff
-category: journal-article
-tag: Port Hamiltonian Systems; Nonlinear Systems; Irreversible Thermodynamics; Energy and Entropy based Modelling; Geometrical Methods
+category:
+  - proceedings
+tags:
+  - port hamiltonian systems
+  - nonlinear systems
+  - irreversible thermodynamics
+  - energy and entropy based modelling
+  - geometrical methods
 ---
  
 ## Authors
-[Bernhard Maschke](authors/bernhard-maschke), [Jonas Kirchhoff](authors/jonas-kirchhoff)
+[Bernhard Maschke](authors/bernhard_maschke), [Jonas Kirchhoff](authors/jonas_kirchhoff)
  
 ## Abstract
 Irreversible Port Hamiltonian Systems are a deviation from Port Hamiltonian Systems which embeds the definition of the irreversible phenomena taking place in the system. They are defined with respect to a quasi-Poisson bracket which ensures the positiveness of the entropy generation and is expressed in terms of the total entropy of the system. The port maps, however, associated with the conjugated port variables, were poorly justified and lacked any physical characterization. In this paper, we suggest a novel definition of the port maps which allows to recover not only the energy balance equation (when the Hamiltonian equals the total energy of the system) but also a entropy balance equation including the irreversible entropy creation term at the interface (the port) of the system in addition to the entropy creation term due to internal irreversible phenomena.
@@ -26,7 +32,7 @@ Port Hamiltonian Systems; Nonlinear Systems; Irreversible Thermodynamics; Energy
 - **Pages:** 6796--6800
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.388](https://doi.org/10.1016/j.ifacol.2023.10.388)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

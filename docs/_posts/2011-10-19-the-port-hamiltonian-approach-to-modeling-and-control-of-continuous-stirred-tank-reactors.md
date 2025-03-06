@@ -5,12 +5,18 @@ date: 2011-10-19 00:00:00 +0100
 permalink: the-port-hamiltonian-approach-to-modeling-and-control-of-continuous-stirred-tank-reactors
 year: 2011
 authors: H. Hoang, F. Couenne, C. Jallut, Y. Le Gorrec
-category: journal-article
-tag: Port Hamiltonian systems; Lyapunov stability; Thermodynamics; IDA-PBC control; Chemical reactors
+category:
+  - proceedings
+tags:
+  - port hamiltonian systems
+  - lyapunov stability
+  - thermodynamics
+  - ida-pbc control
+  - chemical reactors
 ---
  
 ## Authors
-[H. Hoang](authors/h-hoang), [F. Couenne](authors/francoise-couenne), [C. Jallut](authors/c-jallut), [Y. Le Gorrec](authors/yann-le-gorrec)
+[H. Hoang](authors/h_hoang), [F. Couenne](authors/francoise_couenne), [C. Jallut](authors/c_jallut), [Y. Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper proposes a thermodynamical pseudo-Hamiltonian formulation of Continuous Stirred Tank Reactor model in which takes place some chemical reaction. This is done both in the isothermal and non isothermal cases. It is shown that the Gibbs free energy and the opposite of entropy can be chosen as Hamiltonian function respectively. For the non isothermal case, the so-called Interconnection and Damping Assignment Passivity Based Control method is applied to stabilize the system at a desired state. For this general reaction scheme, the control problem is shown to be easy to solve as soon as the closed loop Hamiltonian function is chosen to be proportional to the so-called thermodynamic availability function. Simulation results based on a simple first order reaction and operating conditions leading to multiple steady states of the CSTR are given to validate the proposed control design procedure.
@@ -26,7 +32,7 @@ Port Hamiltonian systems; Lyapunov stability; Thermodynamics; IDA-PBC control; C
 - **Pages:** 1449--1458
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.jprocont.2011.06.014](https://doi.org/10.1016/j.jprocont.2011.06.014)
-- **Note:** Special Issue:Selected Papers From Two Joint IFAC Conferences: 9th International Symposium on Dynamics and Control of Process Systems and the 11th International Symposium on Computer Applications in Biotechnology, Leuven, Belgium, July 5-9, 2010.
+- **Event:** Special Issue:Selected Papers From Two Joint IFAC Conferences: 9th International Symposium on Dynamics and Control of Process Systems and the 11th International Symposium on Computer Applications in Biotechnology, Leuven, Belgium, July 5-9, 2010.
  
 ## BibTeX
 {% highlight bibtex %}

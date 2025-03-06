@@ -5,12 +5,18 @@ date: 2021-04-15 00:00:00 +0100
 permalink: explicit-and-implicit-ida-pbc-design-and-implementation-for-a-portal-crane
 year: 2020
 authors: Enrique J. Vidal, Oscar B. Cieza, Johann Reger
-category: journal-article
-tag: IDA-PBC; Port-Hamiltonian systems; Implicit systems; Passivity; Portal crane
+category:
+  - proceedings
+tags:
+  - ida-pbc
+  - port-hamiltonian systems
+  - implicit systems
+  - passivity
+  - portal crane
 ---
  
 ## Authors
-[Enrique J. Vidal](authors/enrique-j-vidal), [Oscar B. Cieza](authors/oscar-b-cieza), [Johann Reger](authors/johann-reger)
+[Enrique J. Vidal](authors/enrique_j_vidal), [Oscar B. Cieza](authors/oscar_b_cieza), [Johann Reger](authors/johann_reger)
  
 ## Abstract
 The interconnection and damping assignment passivity-based control (IDA-PBC) is well-known for regulating the behavior of nonlinear systems. In underactuated mechanical systems (UMSs), its application requires the satisfaction of matching conditions, which in many cases demands to solve partial differential equations (PDEs). Only recently, the IDA-PBC method has been extended to UMSs in implicit representation, where the system dynamics are described by a set of differential-algebraic equations. In some system classes, this implicit model allows to circumvent the PDE obstacle and to construct an output-feedback law. This paper discusses the design and real-system implementation of the total energy shaping IDA-PBC with an optimal local performance for a portal crane system in implicit port-Hamiltonian representation. The implicit controller is compared with the simplified (explicit) IDA-PBC, introduced by Xue and Zhiyong (2017), which also shapes the total energy and avoids PDEs.
@@ -26,7 +32,7 @@ IDA-PBC; Port-Hamiltonian systems; Implicit systems; Passivity; Portal crane
 - **Pages:** 5592--5597
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1572](https://doi.org/10.1016/j.ifacol.2020.12.1572)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

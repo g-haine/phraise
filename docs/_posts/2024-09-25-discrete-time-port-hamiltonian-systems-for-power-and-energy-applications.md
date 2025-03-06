@@ -5,12 +5,18 @@ date: 2024-09-25 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-for-power-and-energy-applications
 year: 2024
 authors: Alejandro Garcés-Ruiz, Sofia Avila-Becerril, Gerardo Espinosa-Perez
-category: journal-article
-tag: Port-hamiltonian systems; pasivity-based control; power systems dynamics; control; power electronic converters
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - pasivity-based control
+  - power systems dynamics
+  - control
+  - power electronic converters
 ---
  
 ## Authors
-[Alejandro Garcés-Ruiz](authors/alejandro-garces-ruiz), [Sofia Avila-Becerril](authors/sofia-avila-becerril), [Gerardo Espinosa-Perez](authors/gerardo-espinosa-perez)
+[Alejandro Garcés-Ruiz](authors/alejandro_garces_ruiz), [Sofia Avila-Becerril](authors/sofia_avila_becerril), [Gerardo Espinosa-Perez](authors/gerardo_espinosa_perez)
  
 ## Abstract
 The Port-Hamiltonian formalism has demonstrated to be useful in different applications, allowing to explore structural properties to obtain stable controls. A common approach is to design controls in a continuous domain although, in practice, they are implemented in discrete time. However, the study of discrete-time port-Hamiltonian systems is challenging since the system may lose structural properties such as passivity after discretization. This paper shows that passivity is conserved for the backward Euler discretization method when the Hamiltonian is convex, and its gradient is Lipschitz. This result is relevant for power systems applications such as the control of two-area systems, high-voltage direct-current transmission, and microgrids. Although our method is simple and preserves passivity, it does not preserve the symplectic structure of the hamiltonian.
@@ -26,7 +32,7 @@ Port-hamiltonian systems; pasivity-based control; power systems dynamics; contro
 - **Pages:** 166--171
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.275](https://doi.org/10.1016/j.ifacol.2024.08.275)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

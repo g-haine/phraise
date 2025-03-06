@@ -5,12 +5,18 @@ date: 2011-07-28 00:00:00 +0100
 permalink: port-hamiltonian-modelling-and-energy-based-control-of-the-timoshenko-beam
 year: 2011
 authors: Andreas Siuka, Markus Schöberl, Kurt Schlacher
-category: journal-article
-tag: Timoshenko Beam; Dirac Structure; Casimir Function; Timoshenko Theory; Hamiltonian System Class
+category:
+  - articles
+tags:
+  - timoshenko beam
+  - dirac structure
+  - casimir function
+  - timoshenko theory
+  - hamiltonian system class
 ---
  
 ## Authors
-[Andreas Siuka](authors/andreas-siuka), [Markus Schöberl](authors/markus-schoberl), [Kurt Schlacher](authors/kurt-schlacher)
+[Andreas Siuka](authors/andreas_siuka), [Markus Schöberl](authors/markus_schoberl), [Kurt Schlacher](authors/kurt_schlacher)
  
 ## Abstract
 This contribution deals with the port-Hamiltonian modelling and energy-based control of infinite-dimensional mechanical systems. Motivated by the physical interpretation offered by the port-controlled Hamiltonian system class in the finite-dimensional case, we analyse an extension of this framework to the infinite-dimensional scenario on the basis of the so-called evolutionary approach which is used for the port-Hamiltonian formulation of flexible beams modelled according to the Timoshenko theory. Furthermore, we adapt the well-known control via structural invariants method with respect to the presented port-Hamiltonian description such that this method is applied to the boundary control of the Timoshenko beam.

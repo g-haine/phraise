@@ -5,12 +5,17 @@ date: 2021-11-19 00:00:00 +0100
 permalink: from-statistical-physics-to-macroscopic-port-hamiltonian-systems-a-roadmap
 year: 2021
 authors: Judy Najnudel, Thomas Hélie, David Roze, Rémy Müller
-category: journal-article
-tag: physical modeling; statistical physics; thermodynamics; port-Hamiltonian systems
+category:
+  - proceedings
+tags:
+  - physical modeling
+  - statistical physics
+  - thermodynamics
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Judy Najnudel](authors/judy-najnudel), [Thomas Hélie](authors/thomas-helie), [David Roze](authors/david-roze), [Rémy Müller](authors/remy-muller)
+[Judy Najnudel](authors/judy_najnudel), [Thomas Hélie](authors/thomas_helie), [David Roze](authors/david_roze), [Rémy Müller](authors/remy_muller)
  
 ## Abstract
 This paper addresses the power-balanced modeling of physical systems with numerous degrees of freedom. The proposed approach combines statistical physics and port-Hamiltonian formulation, to produce macroscopic power balanced systems with reduced complexity. Thermodynamic variables are explicitly taken into account in the modeling to ensure thermodynamic consistency. The method is illustrated on two applications: an ideal gas in a thermostat, and a ferromagnet in a thermostat.
@@ -26,7 +31,7 @@ physical modeling; statistical physics; thermodynamics; port-Hamiltonian systems
 - **Pages:** 70--75
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.057](https://doi.org/10.1016/j.ifacol.2021.11.057)
-- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}

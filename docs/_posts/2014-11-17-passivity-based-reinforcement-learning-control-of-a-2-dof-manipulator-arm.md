@@ -5,12 +5,17 @@ date: 2014-11-17 00:00:00 +0100
 permalink: passivity-based-reinforcement-learning-control-of-a-2-dof-manipulator-arm
 year: 2014
 authors: S.P. Nageshrao, G.A.D. Lopes, D. Jeltsema, R. Babuška
-category: journal-article
-tag: Passivity-based control; Port-Hamiltonian systems; Reinforcement learning; Robotics
+category:
+  - articles
+tags:
+  - passivity-based control
+  - port-hamiltonian systems
+  - reinforcement learning
+  - robotics
 ---
  
 ## Authors
-[S.P. Nageshrao](authors/subramanya-p-nageshrao), [G.A.D. Lopes](authors/gabriel-a-d-lopes), [D. Jeltsema](authors/dimitri-jeltsema), [R. Babuška](authors/robert-babuska)
+[S.P. Nageshrao](authors/subramanya_p_nageshrao), [G.A.D. Lopes](authors/gabriel_a_d_lopes), [D. Jeltsema](authors/dimitri_jeltsema), [R. Babuška](authors/robert_babuska)
  
 ## Abstract
 Passivity-based control (PBC) is commonly used for the stabilization of port-Hamiltonian (PH) systems. The PH framework is suitable for multi-domain systems, for example mechatronic devices or micro-electro-mechanical systems. Passivity-based control synthesis for PH systems involves solving partial differential equations, which can be cumbersome. Rather than explicitly solving these equations, in our approach the control law is parameterized and the unknown parameter vector is learned using an actor–critic reinforcement learning algorithm. The key advantages of combining learning with PBC are: (i) the complexity of the control design procedure is reduced, (ii) prior knowledge about the system, given in the form of a PH model, speeds up the learning process, (iii) physical meaning can be attributed to the learned control law. In this paper we extended the learning-based PBC method to a regulation problem and present the experimental results for a two-degree-of-freedom manipulator. We show that the learning algorithm is capable of achieving feedback regulation in the presence of model uncertainties.

@@ -5,12 +5,18 @@ date: 2017-10-19 00:00:00 +0100
 permalink: tracking-control-of-fully-actuated-port-hamiltonian-mechanical-systems-via-sliding-manifolds-and-contraction-analysis
 year: 2017
 authors: Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana
-category: journal-article
-tag: Trajectory tracking control; port-Hamiltonian systems; sliding manifold; differential Lyapunov theory; contraction analysis
+category:
+  - proceedings
+tags:
+  - trajectory tracking control
+  - port-hamiltonian systems
+  - sliding manifold
+  - differential lyapunov theory
+  - contraction analysis
 ---
  
 ## Authors
-[Rodolfo Reyes-Báez](authors/rodolfo-reyes-baez), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bayu Jayawardhana](authors/bayu-jayawardhana)
+[Rodolfo Reyes-Báez](authors/rodolfo_reyes_baez), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Bayu Jayawardhana](authors/bayu_jayawardhana)
  
 ## Abstract
 In this paper, we propose a trajectory tracking controller for fully-actuated port-Hamiltonian (pH) mechanical systems, which is based on recent advances in contraction analysis and differential Lyapunov theory. The tracking problem is solved by defining a suitable invariant sliding manifold which provides a desired steady state behavior. The manifold is then made attractive via contraction techniques. Finally, we present numerical simulation results where a SCARA robot is commanded by the proposed tracking control law.
@@ -26,7 +32,7 @@ Trajectory tracking control; port-Hamiltonian systems; sliding manifold; differe
 - **Pages:** 8256--8261
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.1395](https://doi.org/10.1016/j.ifacol.2017.08.1395)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

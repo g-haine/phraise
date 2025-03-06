@@ -5,11 +5,11 @@ date: 2012-03-06 00:00:00 +0100
 permalink: stability-analysis-of-interconnected-hamiltonian-systems-under-time-delays
 year: 2012
 authors: C.-Y. Kao, R. Pasumarthy
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[C.-Y. Kao](authors/chung-yao-kao), [R. Pasumarthy](authors/ramkrishna-pasumarthy)
+[C.-Y. Kao](authors/chung_yao_kao), [R. Pasumarthy](authors/ramkrishna_pasumarthy)
  
 ## Abstract
 Sufficient conditions are derived for checking whether interconnected port-Hamiltonian systems are stable in the presence of time delays. It is assumed that the time delay parameters are unknown time-varying functions for which the only available information is about the upper bounds on their magnitude and/or variation. The stability conditions proposed here are established by constructing Lyapunov–Krasovskii stability certificates, based on the Hamiltonians of the individual port-Hamiltonian systems. The forms of the Lyapunov–Krasovskii functionals vary according to the information available on the delay parameter. It is shown how different informations on the delay are utilised to construct stability certificates.

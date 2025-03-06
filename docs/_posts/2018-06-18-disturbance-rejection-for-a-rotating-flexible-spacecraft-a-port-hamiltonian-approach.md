@@ -5,12 +5,17 @@ date: 2018-06-18 00:00:00 +0100
 permalink: disturbance-rejection-for-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach
 year: 2018
 authors: Daniel Alazard, Saïd Aoues, Flávio Luiz Cardoso-Ribeiro, Denis Matignon
-category: journal-article
-tag: Port-Hamiltonian systems; passivity-based control; flexible spacecraft; Lyapunov stability
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - passivity-based control
+  - flexible spacecraft
+  - lyapunov stability
 ---
  
 ## Authors
-[Daniel Alazard](authors/daniel-alazard), [Saïd Aoues](authors/said-aoues), [Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon)
+[Daniel Alazard](authors/daniel_alazard), [Saïd Aoues](authors/said_aoues), [Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon)
  
 ## Abstract
 In this paper, the mathematical model of a flexible spacecraft system composed of a hub and two symmetrical beams loaded with tip masses is reconsidered to design a control law for internal disturbance rejection. This model has a port-Hamiltonian structure and is passive. The disturbance rejection is performed by a feedback control law using the angular rates at the two tips of a beam. The closed-loop asymptotic stability of such a collocated / non-collocated control is analyzed through explicitly solving the Partial Differential Equations (PDE) of the system. Finally, the experimental results are carried out to assess the validity of the proposed control methodology.
@@ -26,7 +31,7 @@ Port-Hamiltonian systems; passivity-based control; flexible spacecraft; Lyapunov
 - **Pages:** 113--118
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.031](https://doi.org/10.1016/j.ifacol.2018.06.031)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2017-05-03 00:00:00 +0100
 permalink: disturbance-scaling-in-bidirectional-vehicle-platoons-with-different-asymmetry-in-position-and-velocity-coupling
 year: 2017
 authors: Ivo Herman, Steffi Knorn, Anders Ahlén
-category: journal-article
-tag: Port-Hamiltonian systems; Vehicular platoons; Multi-vehicle systems; Scaling; Asymmetry
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - vehicular platoons
+  - multi-vehicle systems
+  - scaling
+  - asymmetry
 ---
  
 ## Authors
-[Ivo Herman](authors/ivo-herman), [Steffi Knorn](authors/steffi-knorn), [Anders Ahlén](authors/anders-ahlen)
+[Ivo Herman](authors/ivo_herman), [Steffi Knorn](authors/steffi_knorn), [Anders Ahlén](authors/anders_ahlen)
  
 ## Abstract
 This paper considers a string of vehicles where the local control law uses the states of the vehicle’s immediate predecessor and follower. The coupling towards the preceding vehicle can be chosen different to the coupling with the following vehicle, which is referred to as an asymmetric bidirectional string. Further, the asymmetry for the velocity coupling can be chosen differently to the asymmetry in the position coupling. It is investigated how the effect of the disturbance on the control errors in the string depends on the string length. It is shown, that in case of symmetric position coupling and asymmetric velocity coupling, linear scaling can be achieved. For symmetric interactions, the errors scale quadratically in the number of vehicles. When the coupling in position is asymmetric, exponential scaling may occur or the system might even become unstable. The paper thus gives a comprehensive overview of the achievable performance in linear, asymmetric, bidirectional platoons. The results reveal that symmetry in the position coupling and asymmetry in velocity coupling qualitatively improve the performance of the string. Extensive numerical results illustrate the theoretical findings.

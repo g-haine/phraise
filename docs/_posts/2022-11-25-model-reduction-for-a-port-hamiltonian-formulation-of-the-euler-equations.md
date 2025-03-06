@@ -5,11 +5,11 @@ date: 2022-11-25 00:00:00 +0100
 permalink: model-reduction-for-a-port-hamiltonian-formulation-of-the-euler-equations
 year: 2022
 authors: Sarah-Alexa Hauschild, Nicole Marheineke
-category: book-chapter
+category: proceedings
 ---
  
 ## Authors
-[Sarah-Alexa Hauschild](authors/sarah-alexa-hauschild), [Nicole Marheineke](authors/nicole-marheineke)
+[Sarah-Alexa Hauschild](authors/sarah_alexa_hauschild), [Nicole Marheineke](authors/nicole_marheineke)
  
 ## Abstract
 The port-Hamiltonian (pH) formulation of partial-differential equations and their numerical treatment have been elaborately studied lately. This energy-based formulation encodes physical principles in the system structure and the pH-character is inherited during coupling. Considering a non-isothermal compressible fluid flow in a pipe, we propose a pH-model on PDE-level, which is advantageous for structure-preserving approximations. Based on Galerkin projection with compatible finite dimensional spaces we preserve the pH-structure during space discretization and model reduction. Numerical results support our theoretical findings.
@@ -18,7 +18,7 @@ The port-Hamiltonian (pH) formulation of partial-differential equations and thei
 - **ISBN:** 9783031118173
 - **Publisher:** Springer International Publishing
 - **DOI:** [10.1007/978-3-031-11818-0_1](https://doi.org/10.1007/978-3-031-11818-0_1)
-- **Note:** European Consortium for Mathematics in Industry
+- **Event:** European Consortium for Mathematics in Industry
  
 ## BibTeX
 {% highlight bibtex %}

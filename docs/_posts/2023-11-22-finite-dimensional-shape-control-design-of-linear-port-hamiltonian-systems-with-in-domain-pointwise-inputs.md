@@ -5,12 +5,17 @@ date: 2023-11-22 00:00:00 +0100
 permalink: finite-dimensional-shape-control-design-of-linear-port-hamiltonian-systems-with-in-domain-pointwise-inputs
 year: 2023
 authors: Cristobal Ponce, Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Port Hamiltonian distributed parameter systems; passivity-based control; spatial discretization; shape control
+category:
+  - proceedings
+tags:
+  - port hamiltonian distributed parameter systems
+  - passivity-based control
+  - spatial discretization
+  - shape control
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal-ponce), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Cristobal Ponce](authors/cristobal_ponce), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper is concerned with shape control of a class of infinite-dimensional port-Hamiltonian system, using an early lumping approach, i.e. the dynamic controller synthesized from a low-order discretized version of the system. The approach provides an optimal criterion for choosing a free parameter of the controller so that the closed-loop system converges to the best approximation of the desired imposed shape. The methodology is based on the so called control by interconnection method and structural invariant from which an analytical expression is obtained for the shapes that the system can actually achieve. An Euler-Bernoulli beam model with pointwise inputs is used as example to illustrate the proposed methodology.
@@ -26,7 +31,7 @@ Port Hamiltonian distributed parameter systems; passivity-based control; spatial
 - **Pages:** 6777--6782
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.385](https://doi.org/10.1016/j.ifacol.2023.10.385)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

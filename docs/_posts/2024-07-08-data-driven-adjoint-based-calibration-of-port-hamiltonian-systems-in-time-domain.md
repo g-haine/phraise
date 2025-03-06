@@ -5,12 +5,30 @@ date: 2024-07-08 00:00:00 +0100
 permalink: data-driven-adjoint-based-calibration-of-port-hamiltonian-systems-in-time-domain
 year: 2024
 authors: Michael Günther, Birgit Jacob, Claudia Totzeck
-category: journal-article
-tag: Port-Hamiltonian systems; Data-driven approach; Optimal control; Adjoint-based calibration; Time domain; Coupled dynamical systems; Structure preservation; 37J06; 37M99; 49J15; 49K15; 49M29; 49Q12; 65P10; 93A30; 93B30; 93C05
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - data-driven approach
+  - optimal control
+  - adjoint-based calibration
+  - time domain
+  - coupled dynamical systems
+  - structure preservation
+  - 37j06
+  - 37m99
+  - 49j15
+  - 49k15
+  - 49m29
+  - 49q12
+  - 65p10
+  - 93a30
+  - 93b30
+  - 93c05
 ---
  
 ## Authors
-[Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob), [Claudia Totzeck](authors/claudia-totzeck)
+[Michael Günther](authors/michael_gunther), [Birgit Jacob](authors/birgit_jacob), [Claudia Totzeck](authors/claudia_totzeck)
  
 ## Abstract
 We present a gradient-based calibration algorithm to identify the system matrices of a linear port-Hamiltonian system from given input–output time data. Aiming for a direct structure-preserving approach, we employ techniques from optimal control with ordinary differential equations and define a constrained optimization problem. The input-to-state stability is discussed which is the key step towards the existence of optimal controls. Further, we derive the first-order optimality system taking into account the port-Hamiltonian structure. Indeed, the proposed method preserves the skew symmetry and positive (semi)-definiteness of the system matrices throughout the optimization iterations. Numerical results with perturbed and unperturbed synthetic data, as well as an example from the PHS benchmark collection [ 17 ] demonstrate the feasibility of the approach.

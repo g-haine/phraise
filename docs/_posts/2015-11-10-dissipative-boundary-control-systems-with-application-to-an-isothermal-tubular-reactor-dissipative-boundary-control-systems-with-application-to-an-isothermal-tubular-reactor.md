@@ -5,12 +5,16 @@ date: 2015-11-10 00:00:00 +0100
 permalink: dissipative-boundary-control-systems-with-application-to-an-isothermal-tubular-reactor-dissipative-boundary-control-systems-with-application-to-an-isothermal-tubular-reactor
 year: 2015
 authors: W. Zhou, B. Hamroun, Y. Le Gorrec, F. Couenne
-category: journal-article
-tag: Port Hamiltonian Systems; Distributed Systems; Irreversible Thermodynamics
+category:
+  - proceedings
+tags:
+  - port hamiltonian systems
+  - distributed systems
+  - irreversible thermodynamics
 ---
  
 ## Authors
-[W. Zhou](authors/weijun-zhou), [B. Hamroun](authors/boussad-hamroun), [Y. Le Gorrec](authors/yann-le-gorrec), [F. Couenne](authors/francoise-couenne)
+[W. Zhou](authors/weijun_zhou), [B. Hamroun](authors/boussad_hamroun), [Y. Le Gorrec](authors/yann_le_gorrec), [F. Couenne](authors/francoise_couenne)
  
 ## Abstract
 In this discussion paper we present two different parametrizations of the differential operator and their associated closure relations describing a model of an isothermal tubular reactor. From these two parametrizations we derive the boundary port variables of the system and check the existence of solutions in the case of Dankwert boundary conditions. We show that existence of solution can be derived from both the coercivity condition on the closure relations and some inequality condition on the input matrix mapping. Even if in the case of constant parameters these two approaches are equivalent, the canonical factorization is the only one that can be applied when some of the parameters depends on the spatial variable. This property is of major interest when linearized non isothermal tubular reactors are considered.
@@ -26,7 +30,7 @@ Port Hamiltonian Systems; Distributed Systems; Irreversible Thermodynamics
 - **Pages:** 150--153
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.230](https://doi.org/10.1016/j.ifacol.2015.10.230)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

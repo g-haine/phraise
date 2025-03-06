@@ -5,14 +5,14 @@ date: 2005-12-26 00:00:00 +0100
 permalink: dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators
 year: 2005
 authors: Y. Le Gorrec, H. Zwart, B. Maschke
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Y. Le Gorrec](authors/yann-le-gorrec), [H. Zwart](authors/hans-zwart), [B. Maschke](authors/bernhard-maschke)
+[Y. Le Gorrec](authors/yann_le_gorrec), [H. Zwart](authors/hans_zwart), [B. Maschke](authors/bernhard_maschke)
  
 ## Abstract
-Associated with a skew-symmetric linear operator on the spatial domain \\( [a,b] \\) we define a Dirac structure which includes the port variables on the boundary of this spatial domain. This Dirac structure is a subspace of a Hilbert space. Naturally, associated with this Dirac structure is an infinite-dimensional system. We parameterize the boundary port variables for which the \( C_{0} \)-semigroup associated with this system is contractive or unitary. Furthermore, this parameterization is used to split the boundary port variables into inputs and outputs. Similarly, we define a linear port controlled Hamiltonian system associated with the previously defined Dirac structure and a symmetric positive operator defining the energy of the system. We illustrate this theory on the example of the Timoshenko beam.
+Associated with a skew-symmetric linear operator on the spatial domain \( [a,b] \) we define a Dirac structure which includes the port variables on the boundary of this spatial domain. This Dirac structure is a subspace of a Hilbert space. Naturally, associated with this Dirac structure is an infinite-dimensional system. We parameterize the boundary port variables for which the \( C_{0} \)-semigroup associated with this system is contractive or unitary. Furthermore, this parameterization is used to split the boundary port variables into inputs and outputs. Similarly, we define a linear port controlled Hamiltonian system associated with the previously defined Dirac structure and a symmetric positive operator defining the energy of the system. We illustrate this theory on the example of the Timoshenko beam.
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

@@ -5,12 +5,21 @@ date: 2015-10-08 00:00:00 +0100
 permalink: modeling-and-control-of-hvdc-transmission-systems-from-theory-to-practice-and-back
 year: 2015
 authors: Daniele Zonetti, Romeo Ortega, Abdelkrim Benchaib
-category: journal-article
-tag: Multi-terminal HVDC transmission systems; Passivity-based control; Port-Hamiltonian systems; PI control; Nonminimum-phase systems; PQ and DC voltage control; Performance limitations; Power flow equations
+category:
+  - articles
+tags:
+  - multi-terminal hvdc transmission systems
+  - passivity-based control
+  - port-hamiltonian systems
+  - pi control
+  - nonminimum-phase systems
+  - pq and dc voltage control
+  - performance limitations
+  - power flow equations
 ---
  
 ## Authors
-[Daniele Zonetti](authors/daniele-zonetti), [Romeo Ortega](authors/romeo-ortega), [Abdelkrim Benchaib](authors/abdelkrim-benchaib)
+[Daniele Zonetti](authors/daniele_zonetti), [Romeo Ortega](authors/romeo_ortega), [Abdelkrim Benchaib](authors/abdelkrim_benchaib)
  
 ## Abstract
 The problem of modeling and control of multi-terminal high-voltage direct-current transmission systems is addressed in this paper, which contains five main contributions. First, to propose a unified, physically motivated, modeling framework — based on port-Hamiltonian representations — of the various network topologies used in this application. Second, to prove that the system can be globally asymptotically stabilized with a decentralized PI control that exploits its passivity properties. Close connections between the proposed PI and the popular Akagi's PQ instantaneous power method are also established. Third, to reveal the transient performance limitations of the proposed controller that, interestingly, is shown to be intrinsic to PI passivity-based control. Fourth, motivated by the latter, an outer-loop that overcomes the aforementioned limitations is proposed. The performance limitation of the PI, and its drastic improvement using outer-loop controls, is verified via simulations on a three-terminal benchmark example. A final contribution is a novel formulation of the power flow equations for the centralized references calculation.

@@ -5,11 +5,11 @@ date: 2023-07-12 00:00:00 +0100
 permalink: port-hamiltonian-dynamic-mode-decomposition
 year: 2023
 authors: Riccardo Morandin, Jonas Nicodemus, Benjamin Unger
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Riccardo Morandin](authors/riccardo-morandin), [Jonas Nicodemus](authors/jonas-nicodemus), [Benjamin Unger](authors/benjamin-unger)
+[Riccardo Morandin](authors/riccardo_morandin), [Jonas Nicodemus](authors/jonas_nicodemus), [Benjamin Unger](authors/benjamin_unger)
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

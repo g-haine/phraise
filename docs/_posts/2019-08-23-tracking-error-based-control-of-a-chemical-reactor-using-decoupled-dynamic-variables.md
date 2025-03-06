@@ -5,12 +5,18 @@ date: 2019-08-23 00:00:00 +0100
 permalink: tracking-error-based-control-of-a-chemical-reactor-using-decoupled-dynamic-variables
 year: 2019
 authors: Thanh Sang Nguyen, Chee Keong Tan, Ngoc Ha Hoang, Mohd Azlan Hussain
-category: journal-article
-tag: Tracking-error-based control; port-Hamiltonian system; chemical reactors; reaction variants; reaction invariants
+category:
+  - proceedings
+tags:
+  - tracking-error-based control
+  - port-hamiltonian system
+  - chemical reactors
+  - reaction variants
+  - reaction invariants
 ---
  
 ## Authors
-[Thanh Sang Nguyen](authors/thanh-sang-nguyen), [Chee Keong Tan](authors/chee-keong-tan), [Ngoc Ha Hoang](authors/ngoc-ha-hoang), [Mohd Azlan Hussain](authors/mohd-azlan-hussain)
+[Thanh Sang Nguyen](authors/thanh_sang_nguyen), [Chee Keong Tan](authors/chee_keong_tan), [Ngoc Ha Hoang](authors/ngoc_ha_hoang), [Mohd Azlan Hussain](authors/mohd_azlan_hussain)
  
 ## Abstract
 This work proposes an advanced control strategy for an open non-isothermal homogeneous reactor by integrating alternative model of the system dynamics based on variant and invariant states with the tracking-error-based control method in the framework of port-Hamiltonian representation. More precisely, a linear transformation is used to transform the original dynamics into a new model, where the enthalpy, reaction variant and reaction invariant are the state variables. Then, the transformed model is formulated into the port-Hamiltonian structure before the tracking-error-based approach is applied to design the controllers for the purpose of stabilization. The numerical simulations for the first order reaction modelled with the continuous stirred tank reactor having the multiplicity behavior subsequently show that the proposed feedback law is able to stabilize the system at the desirable equilibrium point.
@@ -26,7 +32,7 @@ Tracking-error-based control; port-Hamiltonian system; chemical reactors; reacti
 - **Pages:** 74--79
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.07.013](https://doi.org/10.1016/j.ifacol.2019.07.013)
-- **Note:** 3rd IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2019- Louvain-la-Neuve, Belgium, 3–5 July 2019
+- **Event:** 3rd IFAC Workshop on Thermodynamic Foundations for a Mathematical Systems Theory TFMST 2019- Louvain-la-Neuve, Belgium, 3–5 July 2019
  
 ## BibTeX
 {% highlight bibtex %}

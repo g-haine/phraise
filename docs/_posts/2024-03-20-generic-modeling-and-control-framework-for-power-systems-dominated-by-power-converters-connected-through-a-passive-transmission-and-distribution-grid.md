@@ -5,11 +5,11 @@ date: 2024-03-20 00:00:00 +0100
 permalink: generic-modeling-and-control-framework-for-power-systems-dominated-by-power-converters-connected-through-a-passive-transmission-and-distribution-grid
 year: 2024
 authors: Qing-Chang Zhong, Marcio Stefanello
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Qing-Chang Zhong](authors/qing-chang-zhong), [Marcio Stefanello](authors/marcio-stefanello)
+[Qing-Chang Zhong](authors/qing_chang_zhong), [Marcio Stefanello](authors/marcio_stefanello)
  
 ## Citation
 - **Journal:** CSEE Journal of Power and Energy Systems

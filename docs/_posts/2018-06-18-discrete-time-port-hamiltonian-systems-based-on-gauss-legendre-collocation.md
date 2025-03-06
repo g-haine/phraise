@@ -5,12 +5,18 @@ date: 2018-06-18 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-based-on-gauss-legendre-collocation
 year: 2018
 authors: Paul Kotyczka, Laurent Lefèvre
-category: journal-article
-tag: Port-Hamiltonian systems; Dirac structures; discrete-time systems; geometric numerical integration; symplectic methods
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - dirac structures
+  - discrete-time systems
+  - geometric numerical integration
+  - symplectic methods
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul-kotyczka), [Laurent Lefèvre](authors/laurent-lefevre)
+[Paul Kotyczka](authors/paul_kotyczka), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 We introduce a family of discrete-time lossless input-state-output port-Hamiltonian systems based on numerical time integration with symplectic collocation schemes. For systems with non-zero input, symplecticity extends to the conservation of a discrete energy balance, based on which a discrete-time Dirac structure is defined. Using Gauss-Legendre collocation, the corresponding quadrature formula allows to quantify the discretization error for the supplied energy. On a linear example, backward error analysis and numerical experiments are performed in order to illustrate the accuracy of the resulting structure-preserving integration schemes.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; Dirac structures; discrete-time systems; geometric num
 - **Pages:** 125--130
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.035](https://doi.org/10.1016/j.ifacol.2018.06.035)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

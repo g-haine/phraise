@@ -5,12 +5,16 @@ date: 2015-06-17 00:00:00 +0100
 permalink: infinite-dimensional-port-hamiltonian-representation-of-reaction-diffusion-processes
 year: 2015
 authors: W. Zhou, B. Hamroun, Y. Le Gorrec, F. Couenne
-category: journal-article
-tag: Port Hamiltonian Systems; Distributed Systems; Irreversible Thermodynamics
+category:
+  - proceedings
+tags:
+  - port hamiltonian systems
+  - distributed systems
+  - irreversible thermodynamics
 ---
  
 ## Authors
-[W. Zhou](authors/weijun-zhou), [B. Hamroun](authors/boussad-hamroun), [Y. Le Gorrec](authors/yann-le-gorrec), [F. Couenne](authors/francoise-couenne)
+[W. Zhou](authors/weijun_zhou), [B. Hamroun](authors/boussad_hamroun), [Y. Le Gorrec](authors/yann_le_gorrec), [F. Couenne](authors/francoise_couenne)
  
 ## Abstract
 In this paper is proposed a thermodynamically consistent port Hamiltonian formulation of non isothermal reaction diffusion processes. The use of appropriate thermodynamic variables for the definition of the state and the co-state vectors allows to highlight the inherent infinite dimensional interconnection structure linking the different thermodynamic phenomena (entropy production, diffusion, conduction) that is suitable for control purposes. The presentation is given for systems defined on one dimensional spatial domain.
@@ -26,7 +30,7 @@ Port Hamiltonian Systems; Distributed Systems; Irreversible Thermodynamics
 - **Pages:** 476--481
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.05.119](https://doi.org/10.1016/j.ifacol.2015.05.119)
-- **Note:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
+- **Event:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
  
 ## BibTeX
 {% highlight bibtex %}

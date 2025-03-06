@@ -5,12 +5,16 @@ date: 2019-10-17 00:00:00 +0100
 permalink: on-contraction-of-time-varying-port-hamiltonian-systems
 year: 2019
 authors: Nikita Barabanov, Romeo Ortega, Anton Pyrkin
-category: journal-article
-tag: Nonlinear systems; Contraction theory; port-Hamiltonian systems
+category:
+  - articles
+tags:
+  - nonlinear systems
+  - contraction theory
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Nikita Barabanov](authors/nikita-barabanov), [Romeo Ortega](authors/romeo-ortega), [Anton Pyrkin](authors/anton-pyrkin)
+[Nikita Barabanov](authors/nikita_barabanov), [Romeo Ortega](authors/romeo_ortega), [Anton Pyrkin](authors/anton_pyrkin)
  
 ## Abstract
 In this paper we identify classes of port-Hamiltonian systems which are contracting. Our motivation in this study is two-fold, on one hand, it is well-known that many physical systems are described by port-Hamiltonian models. On the other hand, contraction is a fundamental property that has been efficiently exploited for the design of observers, as well as tracking, adaptive and multi-agent controllers for nonlinear systems. The conditions for contraction are given in terms of feasibility of linear matrix inequalities, hence their verification is computationally efficient.

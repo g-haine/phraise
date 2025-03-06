@@ -5,12 +5,17 @@ date: 2015-11-10 00:00:00 +0100
 permalink: power-preserving-model-reduction-of-2d-vibro-acoustic-system-a-port-hamiltonian-approach
 year: 2015
 authors: Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke
-category: journal-article
-tag: Mixed elements finite method; Spatial discretization; Port Hamiltonian system; 2D vibro-acoustic system
+category:
+  - proceedings
+tags:
+  - mixed elements finite method
+  - spatial discretization
+  - port hamiltonian system
+  - 2d vibro-acoustic system
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin-wu), [Boussad Hamroun](authors/boussad-hamroun), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke)
+[Yongxin Wu](authors/yongxin_wu), [Boussad Hamroun](authors/boussad_hamroun), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 In this paper we consider a geometric discretization so called mixed elements finite method to 2D vibro-acoustic system modeling by the port Hamiltonian approach. By using this method, the Hamiltonian structure and passivity of the system are preserved. At last, numerical simulations is given to illustrate the effectiveness of proposed discretization scheme.
@@ -26,7 +31,7 @@ Mixed elements finite method; Spatial discretization; Port Hamiltonian system; 2
 - **Pages:** 206--211
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.240](https://doi.org/10.1016/j.ifacol.2015.10.240)
-- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}

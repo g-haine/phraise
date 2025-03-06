@@ -5,12 +5,17 @@ date: 2014-09-08 00:00:00 +0100
 permalink: a-characterization-of-boundary-conditions-yielding-maximal-monotone-operators
 year: 2014
 authors: Sascha Trostorff
-category: journal-article
-tag: Maximal monotone operators; Nonlinear boundary conditions; Port–Hamiltonian systems; Frictional boundary conditions
+category:
+  - articles
+tags:
+  - maximal monotone operators
+  - nonlinear boundary conditions
+  - port–hamiltonian systems
+  - frictional boundary conditions
 ---
  
 ## Authors
-[Sascha Trostorff](authors/sascha-trostorff)
+[Sascha Trostorff](authors/sascha_trostorff)
  
 ## Abstract
 We provide a characterization for maximal monotone realizations for a certain class of (nonlinear) operators in terms of their corresponding boundary data spaces. The operators under consideration naturally arise in the study of evolutionary problems in mathematical physics. We apply our abstract characterization result to Port–Hamiltonian systems and a class of frictional boundary conditions in the theory of contact problems in visco-elasticity.

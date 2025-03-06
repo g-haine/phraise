@@ -5,11 +5,11 @@ date: 2022-01-27 00:00:00 +0100
 permalink: energy-based-modeling-and-hamiltonian-lqg-control-of-a-flexible-beam-actuated-by-ipmc-actuators
 year: 2022
 authors: Weijun Zhou, Ning Liu, Yongxin Wu, Hector Ramirez, Yann Le Gorrec
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Weijun Zhou](authors/weijun-zhou), [Ning Liu](authors/ning-liu), [Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Weijun Zhou](authors/weijun_zhou), [Ning Liu](authors/ning_liu), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 The control of a flexible beam using ionic polymer metal composites (IPMCs) is investigated in this paper. The mechanical flexible dynamics are modelled as a Timoshenko beam. The electric dynamics of the IPMCs are considered in the model. The port-Hamiltonian framework is used to propose an interconnected control model of the mechanical flexible beam and IPMC actuator. Furthermore, a passive and Hamiltonian structure-preserving linear quadratic Gaussian (LQG) controller is used to achieve the desired configuration of the system, and the asymptotic stability of the closed-loop system is shown using damping injection. An experimental setup is built using a flexible beam actuated by two IPMC patches to validate the proposed model and show the performance of the proposed control law.

@@ -5,12 +5,18 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-lagrangian-variational-formulation-for-nonequilibrium-thermodynamics
 year: 2018
 authors: F. Gay-Balmaz, H. Yoshimura
-category: journal-article
-tag: Nonequilibrium thermodynamics; Lagrangian system; variational principle; irreversible process; constraints
+category:
+  - proceedings
+tags:
+  - nonequilibrium thermodynamics
+  - lagrangian system
+  - variational principle
+  - irreversible process
+  - constraints
 ---
  
 ## Authors
-[F. Gay-Balmaz](authors/francois-gay-balmaz), [H. Yoshimura](authors/hiroaki-yoshimura)
+[F. Gay-Balmaz](authors/francois_gay_balmaz), [H. Yoshimura](authors/hiroaki_yoshimura)
  
 ## Abstract
 We present a variational formulation for nonequilibrium thermodynamics which extends the Hamilton principle of mechanics to include irreversible processes. The variational formulation is based on the introduction of the concept of thermodynamic displacement. This concept makes possible the definition of a nonlinear nonholonomic constraint given by the expression of the entropy production associated to the irreversible processes involved, to which is naturally associated a variational constraint to be used in the variational formulation. We consider both discrete (i.e., finite dimensional) and continuum systems and illustrate the variational formulation with the example of the piston problem and the heat conducting viscous fluid.
@@ -26,7 +32,7 @@ Nonequilibrium thermodynamics; Lagrangian system; variational principle; irrever
 - **Pages:** 25--30
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.006](https://doi.org/10.1016/j.ifacol.2018.06.006)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

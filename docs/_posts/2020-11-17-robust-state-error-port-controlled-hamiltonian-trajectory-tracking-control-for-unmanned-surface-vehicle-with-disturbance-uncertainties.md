@@ -5,11 +5,11 @@ date: 2020-11-17 00:00:00 +0100
 permalink: robust-state-error-port-controlled-hamiltonian-trajectory-tracking-control-for-unmanned-surface-vehicle-with-disturbance-uncertainties
 year: 2022
 authors: Chengxing Lv, Haisheng Yu, Na Zhao, Jieru Chi, Hailin Liu, Lei Li
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Chengxing Lv](authors/chengxing-lv), [Haisheng Yu](authors/haisheng-yu), [Na Zhao](authors/na-zhao), [Jieru Chi](authors/jieru-chi), [Hailin Liu](authors/hailin-liu), [Lei Li](authors/lei-li)
+[Chengxing Lv](authors/chengxing_lv), [Haisheng Yu](authors/haisheng_yu), [Na Zhao](authors/na_zhao), [Jieru Chi](authors/jieru_chi), [Hailin Liu](authors/hailin_liu), [Lei Li](authors/lei_li)
  
 ## Abstract
 This paper proposed a novel disturbance observer‐based control state‐error port‐controlled Hamiltonian (DOBC‐SEPCH) control strategy for optimization of energy consumption and enhancement of tracking performance for unmanned surface vehicle (USV) with unknown environmental disturbances via the PCH system techniques. Firstly, an observer is constructed to estimate disturbances. Then, an energy‐based controller is constructed by using the SEPCH system method. In addition, the SEPCH controller provided that the tracking errors converged exponentially to zero. The SEPCH technique is augmented by a disturbance observer. Due to the controller need to be designed in two stages, the stability of the whole system will be difficult to be discussed. We give the proof of the stability of the desired target dynamic system. The robustness and control performance of the system are enhanced. The simulation and comparison results illustrate the performance of this controller.

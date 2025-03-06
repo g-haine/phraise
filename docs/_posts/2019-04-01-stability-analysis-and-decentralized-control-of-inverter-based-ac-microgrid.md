@@ -5,12 +5,20 @@ date: 2019-04-01 00:00:00 +0100
 permalink: stability-analysis-and-decentralized-control-of-inverter-based-ac-microgrid
 year: 2019
 authors: Mehdi Farokhian Firuzi, Alireza Roosta, Mohsen Gitizadeh
-category: journal-article
-tag: Decentralized control; Inverter-based micro-grid; Frequency and voltage control; Active and reactive power sharing; Incremental passivity; Port-Hamiltonian framework; Shifted-energy function
+category:
+  - articles
+tags:
+  - decentralized control
+  - inverter-based micro-grid
+  - frequency and voltage control
+  - active and reactive power sharing
+  - incremental passivity
+  - port-hamiltonian framework
+  - shifted-energy function
 ---
  
 ## Authors
-[Mehdi Farokhian Firuzi](authors/mehdi-farokhian-firuzi), [Alireza Roosta](authors/alireza-roosta), [Mohsen Gitizadeh](authors/mohsen-gitizadeh)
+[Mehdi Farokhian Firuzi](authors/mehdi_farokhian_firuzi), [Alireza Roosta](authors/alireza_roosta), [Mohsen Gitizadeh](authors/mohsen_gitizadeh)
  
 ## Abstract
 This work considers the problem of decentralized control of inverter-based ac micro-grid in different operation modes. The main objectives are to (i) design decentralized frequency and voltage controllers, to gather with power sharing, without information exchange between microsources (ii) design passive dynamic controllers which ensure stability of the entire microgrid system (iii) capture nonlinear, interconnected and large-scale dynamic of the micro-grid system with meshed topology as a port-Hamiltonian formulation (iv) expand the property of shifted-energy function in the context of decentralized control of ac micro-grid (v) analysis of system stability in large signal point of view. More precisely, to deal with nonlinear, interconnected and large-scale structure of micro-grid systems, the port-Hamiltonian formulation is used to capture the dynamic of micro-grid components including microsource, distribution line and load dynamics as well as interconnection controllers. Furthermore, to deal with large signal stability problem of the microgrid system in the grid-connected and islanded conditions, the shifted-Hamiltonian energy function is served as a storage function to ensure incremental passivity and stability of the microgrid system. Moreover, it is shown that the aggregating of the microgrid dynamic and the decentralized controller dynamics satisfies the incremental passivity. Finally, the effectiveness of the proposed controllers is evaluated through simulation studies. The different scenarios including grid-connected and islanded modes as well as transition between both modes are simulated. The simulation conforms that the decentralized control dynamics are suited to achieve the desired objective of frequency synchronization, voltage control and power sharing in the grid-connected and islanded modes. The simulation results demonstrate the effectiveness of the proposed control strategy.

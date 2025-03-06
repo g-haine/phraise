@@ -5,12 +5,15 @@ date: 2023-09-20 00:00:00 +0100
 permalink: operator-splitting-based-dynamic-iteration-for-linear-differential-algebraic-port-hamiltonian-systems
 year: 2023
 authors: Andreas Bartel, Michael Günther, Birgit Jacob, Timo Reis
-category: journal-article
-tag: 37Jxx; 34A09
+category:
+  - articles
+tags:
+  - 37jxx
+  - 34a09
 ---
  
 ## Authors
-[Andreas Bartel](authors/andreas-bartel), [Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob), [Timo Reis](authors/timo-reis)
+[Andreas Bartel](authors/andreas_bartel), [Michael Günther](authors/michael_gunther), [Birgit Jacob](authors/birgit_jacob), [Timo Reis](authors/timo_reis)
  
 ## Abstract
 A dynamic iteration scheme for linear differential-algebraic port-Hamiltonian systems based on Lions–Mercier-type operator splitting methods is developed. The dynamic iteration is monotone in the sense that the error is decreasing and no stability conditions are required. The developed iteration scheme is even new for linear port-Hamiltonian systems governed by ODEs. The obtained algorithm is applied to a multibody system and an electrical network.

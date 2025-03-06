@@ -5,12 +5,19 @@ date: 2019-12-19 00:00:00 +0100
 permalink: meshed-dc-microgrid-hierarchical-control-a-differential-flatness-approach
 year: 2020
 authors: I. Zafeiratou, I. Prodan, L. Lefèvre, L. Piétrac
-category: journal-article
-tag: DC microgrid; Meshed topology; Port-Hamiltonian systems; Differential flatness; Hierarchical control; Power balancing
+category:
+  - articles
+tags:
+  - dc microgrid
+  - meshed topology
+  - port-hamiltonian systems
+  - differential flatness
+  - hierarchical control
+  - power balancing
 ---
  
 ## Authors
-[I. Zafeiratou](authors/i-zafeiratou), [I. Prodan](authors/ionela-prodan), [L. Lefèvre](authors/laurent-lefevre), [L. Piétrac](authors/l-pietrac)
+[I. Zafeiratou](authors/i_zafeiratou), [I. Prodan](authors/ionela_prodan), [L. Lefèvre](authors/laurent_lefevre), [L. Piétrac](authors/l_pietrac)
  
 ## Abstract
 In this paper, a meshed DC microgrid control architecture whose goal is to manage load balancing and efficient power distribution is introduced. A novel combination of port-Hamiltonian (PH) modeling with differential flatness and B-splines parametrization is introduced and shown to improve the microgrid's performance. A three layer supervision structure is considered: (i) B-spline parametrized flat output provide continuous profiles for load balancing and price reduction (high level); (ii) the profiles are tracked through a MPC implementation with stability guarantees (medium level); (iii) explicit switching laws applied to the DC/DC converters ensure appropriate power injection. Each level functions at a different time-scale (from slow to fast), and the control laws are chosen appropriately. The effectiveness of the proposed approach is evaluated by simulations over a DC microgrid composed by a collection of solar panels (PV), an energy storage system (ES), a utility grid (UG) and a consumers’ demand.

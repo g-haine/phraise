@@ -5,12 +5,18 @@ date: 2012-03-27 00:00:00 +0100
 permalink: adaptive-pi-stabilisation-of-switched-power-converters-described-by-port-hamiltonian-models
 year: 2012
 authors: Michael Hernandez-Gomez, Romeo Ortega, Françoise Lamnabhi-Lagarrigue, Gerardo Escobar
-category: book-chapter
-tag: Switching Power Converters; port-Hamiltonian Model; Passive Output; Power Factor Compensation; Load Resistance
+category:
+  - chapters
+tags:
+  - switching power converters
+  - port-hamiltonian model
+  - passive output
+  - power factor compensation
+  - load resistance
 ---
  
 ## Authors
-[Michael Hernandez-Gomez](authors/michael-hernandez-gomez), [Romeo Ortega](authors/romeo-ortega), [Françoise Lamnabhi-Lagarrigue](authors/francoise-lamnabhi-lagarrigue), [Gerardo Escobar](authors/gerardo-escobar)
+[Michael Hernandez-Gomez](authors/michael_hernandez_gomez), [Romeo Ortega](authors/romeo_ortega), [Françoise Lamnabhi-Lagarrigue](authors/francoise_lamnabhi_lagarrigue), [Gerardo Escobar](authors/gerardo_escobar)
  
 ## Abstract
 A methodology to design linear proportional–integral (PI) controllers used in power converter applications and ensuring asymptotic stability was proposed. The technique relied on the basic fact that if an affine system can be rendered passive with a constant control, then it is stabilisable with a PI. A structural condition was imposed then on the power converter to satisfy the former property with a passive output generated as a linear combination of the states. This condition is technical and has no clear physical interpretation. This result is extended in three directions: first, the aforementioned condition is removed; second, a larger class of converters (with switching external sources) is considered; third, the load resistance is assumed unknown, and an adaptive PI controller (with three different estimators) is proposed. The methodology is applied to the problem of power factor compensation of a three-phase voltage source rectifier, with simulation results presented and discussed. Also, a stable adaptive PI is designed for the output voltage regulation of a quadratic boost converter showing the performance by means of experimental result.

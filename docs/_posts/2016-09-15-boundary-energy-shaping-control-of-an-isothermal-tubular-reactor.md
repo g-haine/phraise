@@ -5,11 +5,11 @@ date: 2016-09-15 00:00:00 +0100
 permalink: boundary-energy-shaping-control-of-an-isothermal-tubular-reactor
 year: 2017
 authors: Alessandro Macchelli, Yann Le Gorrec, Héctor Ramírez
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramírez](authors/hector-ramirez)
+[Alessandro Macchelli](authors/alessandro_macchelli), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramírez](authors/hector_ramirez)
  
 ## Abstract
  This paper illustrates a general synthesis methodology of asymptotic stabilizing, energy-based, boundary control laws that are applicable to a large class of distributed port-Hamiltonian systems. The methodological results are applied on a simplified model of an isothermal tubular reactor. Due to the presence of diffusion and convection, such example, even if relatively easy from a computational point of view, is not trivial. The idea here is to design a state feedback law able to perform the energy-shaping task, i.e. able to render the closed-loop system a port-Hamiltonian system with the same structure, but characterized by a new Hamiltonian with a unique and isolated minimum at the equilibrium. Asymptotic stability is then obtained via damping injection on the boundary and is a consequence of the LaSalle’s Invariance Principle in infinite dimensions.

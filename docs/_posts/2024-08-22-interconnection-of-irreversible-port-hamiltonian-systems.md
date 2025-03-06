@@ -5,12 +5,18 @@ date: 2024-08-22 00:00:00 +0100
 permalink: interconnection-of-irreversible-port-hamiltonian-systems
 year: 2024
 authors: Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Port-Hamiltonian systems; Irreversible thermodynamics; Thermo-mechanical systems; Port-based modeling; State modulated output feedback
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - irreversible thermodynamics
+  - thermo-mechanical systems
+  - port-based modeling
+  - state modulated output feedback
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper shows how the interconnection of two controlled Irreversible port Hamiltonian Systems has to be state and co-state modulated in order to ensure the closed-loop Irreversible port Hamiltonian structure, satisfying the first and second laws of Thermodynamics. It proposes a precise parametrization of this modulation from the open-loop systems structures in order to guarantee the consistency of the closed loop energy and entropy balance equations. The results are illustrated by means of the examples of a heat-exchanger, a gas-piston system and a chemical reaction.

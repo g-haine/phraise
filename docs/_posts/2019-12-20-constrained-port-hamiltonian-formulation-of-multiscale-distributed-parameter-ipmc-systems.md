@@ -5,12 +5,18 @@ date: 2019-12-20 00:00:00 +0100
 permalink: constrained-port-hamiltonian-formulation-of-multiscale-distributed-parameter-ipmc-systems
 year: 2019
 authors: Ning Liu, Yongxin Wu, Yann Le Gorrec
-category: journal-article
-tag: Constrained port Hamiltonian system; infinite dimensional system; multi-scale modeling; model reduction; IPMC actuator
+category:
+  - proceedings
+tags:
+  - constrained port hamiltonian system
+  - infinite dimensional system
+  - multi-scale modeling
+  - model reduction
+  - ipmc actuator
 ---
  
 ## Authors
-[Ning Liu](authors/ning-liu), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Ning Liu](authors/ning_liu), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 In this paper, a constrained distributed parameter port-Hamiltonian model of the ionic polymer metal composite actuator is proposed. This model describes the multiscale structure of the system. Submodels are coupled by boundary multi-scale elements. In order to preserve the causality of the system, Lagrangian multipliers are introduced to deal with the coupling between the electro-stress diffusion in the polymer and the flexible beam structure of the actuator. Finally, a structure-preserving discretization scheme and some appropriate projections are used to derive an explicit model suitable for simulation. The accuracy of the model is verified using experimental data.
@@ -26,7 +32,7 @@ Constrained port Hamiltonian system; infinite dimensional system; multi-scale mo
 - **Pages:** 495--500
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.11.724](https://doi.org/10.1016/j.ifacol.2019.11.724)
-- **Note:** 8th IFAC Symposium on Mechatronic Systems MECHATRONICS 2019- Vienna, Austria, 4–6 September 2019
+- **Event:** 8th IFAC Symposium on Mechatronic Systems MECHATRONICS 2019- Vienna, Austria, 4–6 September 2019
  
 ## BibTeX
 {% highlight bibtex %}

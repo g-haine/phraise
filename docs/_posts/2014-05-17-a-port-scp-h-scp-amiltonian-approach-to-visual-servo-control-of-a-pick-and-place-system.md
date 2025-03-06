@@ -5,11 +5,11 @@ date: 2014-05-17 00:00:00 +0100
 permalink: a-port-scp-h-scp-amiltonian-approach-to-visual-servo-control-of-a-pick-and-place-system
 year: 2014
 authors: Daniel A. Dirksz, Jacquelien M.A. Scherpen, Maarten Steinbuch
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Maarten Steinbuch](authors/maarten-steinbuch)
+[Daniel A. Dirksz](authors/daniel_a_dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Maarten Steinbuch](authors/maarten_steinbuch)
  
 ## Abstract
 In this paper, we take a port‐Hamiltonian approach to address the problem of image‐based visual servo control of a pick and place system. Through a coordinate transformation and a passive interconnection between mechanical system and camera dynamics we realize a closed‐loop system that is port‐Hamiltonian. The resulting control strategy depends only on the camera states and it can be proven that the closed‐loop system is also asymptotically stable. Furthermore, a region of attraction is defined for which asymptotic stability holds.

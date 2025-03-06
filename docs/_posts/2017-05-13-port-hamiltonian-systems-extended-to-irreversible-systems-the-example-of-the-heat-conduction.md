@@ -5,12 +5,16 @@ date: 2017-05-13 00:00:00 +0100
 permalink: port-hamiltonian-systems-extended-to-irreversible-systems-the-example-of-the-heat-conduction
 year: 2004
 authors: D. Eberard, B. Maschke
-category: journal-article
-tag: Nonlinear systems theory; Port Hamiltonian systems; Irreversible Thermodynamics
+category:
+  - proceedings
+tags:
+  - nonlinear systems theory
+  - port hamiltonian systems
+  - irreversible thermodynamics
 ---
  
 ## Authors
-[D. Eberard](authors/damien-eberard), [B. Maschke](authors/bernhard-maschke)
+[D. Eberard](authors/damien_eberard), [B. Maschke](authors/bernhard_maschke)
  
 ## Abstract
 In previous work we have proposed a port Hamiltonian formulation of distributed parameter systems with boundary energy flow. These port Hamiltonian systems are defined with respect to a Dirac structure, called Stokes-Dirac structure, in some product space of exterior differential forms. In this paper we show how to extend this formulation to irreversible thermodynamic systems on the example of the heat conduction model. The geometric structure defining the dynamics is shown to be constituted by a Dirac structure constrained on some on its port variables by nonlinear relations associated with the irreversible entropy creation in the system.
@@ -26,7 +30,7 @@ Nonlinear systems theory; Port Hamiltonian systems; Irreversible Thermodynamics
 - **Pages:** 243--248
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/S1474-6670(17)31230-2](https://doi.org/10.1016/S1474-6670(17)31230-2)
-- **Note:** 6th IFAC Symposium on Nonlinear Control Systems 2004 (NOLCOS 2004), Stuttgart, Germany, 1-3 September, 2004
+- **Event:** 6th IFAC Symposium on Nonlinear Control Systems 2004 (NOLCOS 2004), Stuttgart, Germany, 1-3 September, 2004
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2020-02-28 00:00:00 +0100
 permalink: passive-modelling-of-the-electrodynamic-loudspeaker-from-the-thiele-small-model-to-nonlinear-port-hamiltonian-systems
 year: 2020
 authors: Antoine Falaize, Thomas Hélie
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Antoine Falaize](authors/antoine-falaize), [Thomas Hélie](authors/thomas-helie)
+[Antoine Falaize](authors/antoine_falaize), [Thomas Hélie](authors/thomas_helie)
  
 ## Abstract
 The electrodynamic loudspeaker couples mechanical, magnetic, electric and thermodynamic phenomena. The Thiele/Small (TS) model provides a low frequency approximation, combining passive linear (multiphysical or electric-equivalent) components. This is commonly used by manufacturers as a reference to specify basic parameters and characteristic transfer functions. This paper presents more refined nonlinear models of electric, magnetic and mechanical phenomena, for which fundamental properties such as passivity and causality are guaranteed. More precisely, multiphysical models of the driver are formulated in the core class of port-Hamiltonian systems (PHS), which satisfies a power balance decomposed into conservative, dissipative and source parts. First, the TS model is reformulated as a linear PHS. Then, refinements are introduced, step-by-step, benefiting from the component-based approach allowed by the PHS formalism. Guaranteed-passive simulations are proposed, based on a numerical scheme that preserves the power balance. Numerical experiments that qualitatively comply with measured behaviors available in the literature are presented throughout the paper.
@@ -81,6 +81,6 @@ The electrodynamic loudspeaker couples mechanical, magnetic, electric and thermo
 - Sabatier J., Agrawal O.P., Tenreiro Machado J.A.: Advances in Fractional Calculus, Vol. 4. Springer, 2007. -- [10.1007/978-1-4020-6042-7](https://doi.org/10.1007/978-1-4020-6042-7)
 - Schäfer, I. & Krüger, K. Modelling of lossy coils using fractional derivatives. Journal of Physics D: Applied Physics vol. 41 045001 (2008) -- [10.1088/0022-3727/41/4/045001](https://doi.org/10.1088/0022-3727/41/4/045001)
 - Brunet, P. & Shafai, B. Identification of Loudspeakers Using Fractional Derivatives. Journal of the Audio Engineering Society vol. 62 505–515 (2014) -- [10.17743/jaes.2014.0028](https://doi.org/10.17743/jaes.2014.0028)
-- Itoh, T. & Abe, K. Hamiltonian-conserving discrete canonical equations based on variational difference quotients. Journal of Computational Physics vol. 76 85–102 (1988) -- [10.1016/0021-9991(88)90132-5](https://doi.org/10.1016/0021-9991(88)90132-5)
+- DOI exists but metadata could not be retrieved - contact info@doi.org for help with thi -- [10.1016/0021-9991(88)90132-5](https://doi.org/10.1016/0021-9991(88)90132-5)
 - [Lopes, N., Hélie, T. & Falaize, A. Explicit second-order accurate method for the passive guaranteed simulation of port-Hamiltonian systems. IFAC-PapersOnLine vol. 48 223–228 (2015)](explicit-second-order-accurate-method-for-the-passive-guaranteed-simulation-of-port-hamiltonian-systems) -- [10.1016/j.ifacol.2015.10.243](https://doi.org/10.1016/j.ifacol.2015.10.243)
 

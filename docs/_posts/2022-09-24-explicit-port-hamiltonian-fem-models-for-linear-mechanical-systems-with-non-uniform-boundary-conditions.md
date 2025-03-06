@@ -5,12 +5,20 @@ date: 2022-09-24 00:00:00 +0100
 permalink: explicit-port-hamiltonian-fem-models-for-linear-mechanical-systems-with-non-uniform-boundary-conditions
 year: 2022
 authors: Tobias Thoma, Paul Kotyczka
-category: journal-article
-tag: port-Hamiltonian systems; elastodynamics; non-uniform boundary conditions; structure-preserving discretization; mixed finite elements; weak form; principle of virtual power
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - elastodynamics
+  - non-uniform boundary conditions
+  - structure-preserving discretization
+  - mixed finite elements
+  - weak form
+  - principle of virtual power
 ---
  
 ## Authors
-[Tobias Thoma](authors/tobias-thoma), [Paul Kotyczka](authors/paul-kotyczka)
+[Tobias Thoma](authors/tobias_thoma), [Paul Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 In this contribution, we present how to obtain explicit state space models in port-Hamiltonian form when a mixed finite element method is applied to a linear mechanical system with non-uniform boundary conditions. The key is to express the variational problem based on the principle of virtual power, with both the Dirichlet (velocity) and Neumann (stress) boundary conditions imposed in a weak sense. As a consequence, the formal skew-adjointness of the system operator becomes directly visible after integration by parts, and, after compatible FE discretization, the boundary degrees of freedom of both causalities appear as explicit inputs in the resulting state space model. The rationale behind our formulation is illustrated using a lumped parameter example, and numerical experiments on a one-dimensional rod show the properties of the approach in practice.
@@ -26,7 +34,7 @@ port-Hamiltonian systems; elastodynamics; non-uniform boundary conditions; struc
 - **Pages:** 499--504
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.09.144](https://doi.org/10.1016/j.ifacol.2022.09.144)
-- **Note:** 10th Vienna International Conference on Mathematical Modelling MATHMOD 2022- Vienna Austria, 27–29 July 2022
+- **Event:** 10th Vienna International Conference on Mathematical Modelling MATHMOD 2022- Vienna Austria, 27–29 July 2022
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2021-04-15 00:00:00 +0100
 permalink: a-human-inner-ear-model-for-assessment-of-noise-induced-hearing-loss-via-energy-methods
 year: 2020
 authors: Milka C.I. Madahana, Otis T.C. Nyandoro, John E.D. Ekoru
-category: journal-article
-tag: Port Hamiltonian; Euler Bernoulli; Noise; frequency; Cochlear
+category:
+  - proceedings
+tags:
+  - port hamiltonian
+  - euler bernoulli
+  - noise
+  - frequency
+  - cochlear
 ---
  
 ## Authors
-[Milka C.I. Madahana](authors/milka-c-i-madahana), [Otis T.C. Nyandoro](authors/otis-o-t-c-nyandoro), [John E.D. Ekoru](authors/john-e-d-ekoru)
+[Milka C.I. Madahana](authors/milka_c_i_madahana), [Otis T.C. Nyandoro](authors/otis_o_t_c_nyandoro), [John E.D. Ekoru](authors/john_e_d_ekoru)
  
 ## Abstract
 The main objective of this paper is to present a novel Port-Hamiltonian based model of the human inner ear. This model can be used in the assessment and diagnosis of the human inner ear diseases, for instance, Noise Induced Hearing Loss. It may also be used for understanding of sound transmission in the inner ear. The Cochlear Partition is modelled as a pair of Euler-Bernoulli beams coupled together by a linear massless distributed spring. The fluids in the Scala Vestibuli and Scala Tympani are also included in the model. The Cochlear displacement velocity is mainly enhanced by the Outer Hair Cells activities. For frequencies greater than 1 KHz the enhancements become very significant. The developed model also includes the outer hair cells. The model was validated against existing inner ear models and the results were found to be comparable. Future improvements to the model would involve inclusion of the auditory nerve to the model.
@@ -26,7 +32,7 @@ Port Hamiltonian; Euler Bernoulli; Noise; frequency; Cochlear
 - **Pages:** 16424--16429
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.727](https://doi.org/10.1016/j.ifacol.2020.12.727)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

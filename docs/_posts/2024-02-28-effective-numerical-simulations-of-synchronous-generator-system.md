@@ -5,11 +5,11 @@ date: 2024-02-28 00:00:00 +0100
 permalink: effective-numerical-simulations-of-synchronous-generator-system
 year: 2024
 authors: Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jiawei Zhang](authors/jiawei-zhang), [Aiqing Zhu](authors/aiqing-zhu), [Feng Ji](authors/feng-ji), [Chang Lin](authors/chang-lin), [Yifa Tang](authors/yifa-tang)
+[Jiawei Zhang](authors/jiawei_zhang), [Aiqing Zhu](authors/aiqing_zhu), [Feng Ji](authors/feng_ji), [Chang Lin](authors/chang_lin), [Yifa Tang](authors/yifa_tang)
  
 ## Abstract
  Synchronous generator system is a complicated dynamic system for energy transmission, which plays an important role in modern industrial production. In this article, we propose some predictor-corrector methods and structure-preserving methods for a generator system based on the first benchmark model of subsynchronous resonance, among which the structure-preserving methods preserve a Dirac structure associated with the so-called port-Hamiltonian descriptor systems. To illustrate this, the simplified generator system in the form of index-1 differential-algebraic equations has been derived. Our analyses provide the global error estimates for a special class of structure-preserving methods called Gauss methods, which guarantee their superior performance over the PSCAD/EMTDC and the predictor-corrector methods in terms of computational stability. Numerical simulations are implemented to verify the effectiveness and advantages of our methods. 

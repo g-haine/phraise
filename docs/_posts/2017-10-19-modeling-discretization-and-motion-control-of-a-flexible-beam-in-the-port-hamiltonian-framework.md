@@ -5,12 +5,19 @@ date: 2017-10-19 00:00:00 +0100
 permalink: modeling-discretization-and-motion-control-of-a-flexible-beam-in-the-port-hamiltonian-framework
 year: 2017
 authors: M. Wang, A. Bestler, P. Kotyczka
-category: journal-article
-tag: Flexible robot arm; port-Hamiltonian systems; distributed parameter systems; pseudo-spectral method; geometric discretization; inversion-based feedforward control
+category:
+  - proceedings
+tags:
+  - flexible robot arm
+  - port-hamiltonian systems
+  - distributed parameter systems
+  - pseudo-spectral method
+  - geometric discretization
+  - inversion-based feedforward control
 ---
  
 ## Authors
-[M. Wang](authors/mei-wang), [A. Bestler](authors/a-bestler), [P. Kotyczka](authors/paul-kotyczka)
+[M. Wang](authors/mei_wang), [A. Bestler](authors/a_bestler), [P. Kotyczka](authors/paul_kotyczka)
  
 ## Abstract
 In this paper, we present an approach to solve the feedforward motion control problem for a flexible beam, modeled with linear Timoshenko beam theory. The originality lies in the fact that all design steps, from modeling, over discretization to feedforward control are executed within the port-Hamiltonian (PH) framework. To obtain a finite-dimensional PH model which is suitable for inversion-based feedforward control design, a geometric pseudo-spectral discretization is performed. The feedforward control is tested with a plant model implemented in standard FEM software. The results of this paper will be amended by feedback control to achieve highly dynamic motion control on a lab test rig which is currently under construction.
@@ -26,7 +33,7 @@ Flexible robot arm; port-Hamiltonian systems; distributed parameter systems; pse
 - **Pages:** 6799--6806
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.2511](https://doi.org/10.1016/j.ifacol.2017.08.2511)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

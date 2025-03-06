@@ -5,12 +5,18 @@ date: 2016-12-08 00:00:00 +0100
 permalink: passive-simulation-of-the-nonlinear-port-hamiltonian-modeling-of-a-rhodes-piano
 year: 2017
 authors: Antoine Falaize, Thomas Hélie
-category: journal-article
-tag: Passive modeling; Numerical methods; Port-Hamiltonian systems; Multiphysics system; Time domain simulation
+category:
+  - articles
+tags:
+  - passive modeling
+  - numerical methods
+  - port-hamiltonian systems
+  - multiphysics system
+  - time domain simulation
 ---
  
 ## Authors
-[Antoine Falaize](authors/antoine-falaize), [Thomas Hélie](authors/thomas-helie)
+[Antoine Falaize](authors/antoine_falaize), [Thomas Hélie](authors/thomas_helie)
  
 ## Abstract
 This paper deals with the time-domain simulation of an electro-mechanical piano: the Fender Rhodes. A simplified description of this multi-physical system is considered. It is composed of a hammer (nonlinear mechanical component), a cantilever beam (linear damped vibrating component) and a pickup (nonlinear magneto-electronic transducer). The approach is to propose a power-balanced formulation of the complete system, from which a guaranteed-passive simulation is derived to generate physically-based realistic sound synthesis. Theses issues are addressed in four steps. First, a class of Port-Hamiltonian Systems is introduced: these input-to-output systems fulfill a power balance that can be decomposed into conservative, dissipative and source parts. Second, physical models are proposed for each component and are recast in the port-Hamiltonian formulation. In particular, a finite-dimensional model of the cantilever beam is derived, based on a standard modal decomposition applied to the Euler-Bernoulli model. Third, these systems are interconnected, providing a nonlinear finite-dimensional Port-Hamiltonian System of the piano. Fourth, a passive-guaranteed numerical method is proposed. This method is built to preserve the power balance in the discrete-time domain, and more precisely, its decomposition structured into conservative, dissipative and source parts. Finally, simulations are performed for a set of physical parameters, based on empirical but realistic values. They provide a variety of audio signals which are perceptively relevant and qualitatively similar to some signals measured on a real instrument.
@@ -30,17 +36,12 @@ Passive modeling; Numerical methods; Port-Hamiltonian systems; Multiphysics syst
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Falaize_2017,
-  title={{Passive simulation of the nonlinear port-Hamiltonian modeling of a Rhodes Piano}},
-  volume={390},
-  ISSN={0022-460X},
-  DOI={10.1016/j.jsv.2016.11.008},
-  journal={Journal of Sound and Vibration},
-  publisher={Elsevier BV},
-  author={Falaize, Antoine and Hélie, Thomas},
-  year={2017},
-  pages={289--309}
-}
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

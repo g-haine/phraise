@@ -5,12 +5,16 @@ date: 2023-11-22 00:00:00 +0100
 permalink: further-result-on-fast-search-method-for-nmpcs-by-mixed-objective-physical-nondimensionalizations-for-mechatonic-systems
 year: 2023
 authors: Satoru Sakai, Takumu Takagi, Kohei Sawada, Tomoya Yokogawa, Ryo Arai
-category: journal-article
-tag: nondimensionalization; nonlinear model predictive control; port-Hamiltonian modeling
+category:
+  - proceedings
+tags:
+  - nondimensionalization
+  - nonlinear model predictive control
+  - port-hamiltonian modeling
 ---
  
 ## Authors
-[Satoru Sakai](authors/satoru-sakai), [Takumu Takagi](authors/takumu-takagi), [Kohei Sawada](authors/kohei-sawada), [Tomoya Yokogawa](authors/tomoya-yokogawa), [Ryo Arai](authors/ryo-arai)
+[Satoru Sakai](authors/satoru_sakai), [Takumu Takagi](authors/takumu_takagi), [Kohei Sawada](authors/kohei_sawada), [Tomoya Yokogawa](authors/tomoya_yokogawa), [Ryo Arai](authors/ryo_arai)
  
 ## Abstract
 Many nonlinear model predictive controls (NMPCs) are suffering from the computational cost as well as the stability for mechatonic systems in several situations. The paper proposes a simple but general fast search method of design parameters for stable NMPCs. The computational cost is reduced, that is, each closed-loop simulation runs faster and the number of the (stable or unstable) closed-loop simulations is decreased. First, we introduce dimensions (SI units) for the objective function which is usually dimensionless unlike the physical dynamics and constraints. Second, we propose a fast search method by mixing a nondimensionalization for the objective function and another nondimensionalization for the physical dynamics and constraints. Finally, the effectiveness of the proposed method is confirmed by a numerical experiment via an actual hydraulic cylinder. Almost 20% reduction of the computational cost is achieved to find good design parameters for the stable NMPCs. Remarkably, the proposed method is generally applicable to many NMPCs and is not restricted to a specific one.
@@ -26,7 +30,7 @@ nondimensionalization; nonlinear model predictive control; port-Hamiltonian mode
 - **Pages:** 7529--7535
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.652](https://doi.org/10.1016/j.ifacol.2023.10.652)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

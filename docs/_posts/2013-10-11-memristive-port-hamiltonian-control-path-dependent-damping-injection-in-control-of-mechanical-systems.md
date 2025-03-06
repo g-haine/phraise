@@ -5,12 +5,16 @@ date: 2013-10-11 00:00:00 +0100
 permalink: memristive-port-hamiltonian-control-path-dependent-damping-injection-in-control-of-mechanical-systems
 year: 2013
 authors: A. Dòria-Cerezo, L. van der Heijden, J.M.A. Scherpen
-category: journal-article
-tag: Memristor; Passivity-based control; Port-Hamiltonian systems
+category:
+  - proceedings
+tags:
+  - memristor
+  - passivity-based control
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[A. Dòria-Cerezo](authors/arnau-doria-cerezo), [L. van der Heijden](authors/l-van-der-heijden), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[A. Dòria-Cerezo](authors/arnau_doria_cerezo), [L. van der Heijden](authors/l_van_der_heijden), [J.M.A. Scherpen](authors/jacquelien_m_a_scherpen)
  
 ## Abstract
 This paper presents the use of the memristor as a new element for designing passivity-based controllers. From the port-Hamiltonian description of the electrical circuits with memristors, a target dynamics is assigned to the matching equation proposed by the methodology known as Interconnection and Damping Assignment-Passivity-Based Control. The inclusion of the memristor element extends the closed-loop dynamics and it results in an extra term in the control algorithm that can be seen as a state-modulated gain. Two mechanical examples, in the form of position control systems, are included to show possible applications.
@@ -26,7 +30,7 @@ Memristor; Passivity-based control; Port-Hamiltonian systems
 - **Pages:** 454--460
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ejcon.2013.09.006](https://doi.org/10.1016/j.ejcon.2013.09.006)
-- **Note:** Lagrangian and Hamiltonian Methods for Modelling and Control
+- **Event:** Lagrangian and Hamiltonian Methods for Modelling and Control
  
 ## BibTeX
 {% highlight bibtex %}

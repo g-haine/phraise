@@ -5,11 +5,11 @@ date: 2006-10-04 00:00:00 +0100
 permalink: port-based-modelling-and-control-of-the-mindlin-plate
 year: 2006
 authors: A. Macchelli, C. Melchiorri, L. Bassi
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro-macchelli), [C. Melchiorri](authors/claudio-melchiorri), [L. Bassi](authors/luca-bassi)
+[A. Macchelli](authors/alessandro_macchelli), [C. Melchiorri](authors/claudio_melchiorri), [L. Bassi](authors/luca_bassi)
  
 ## Abstract
 The purpose of this paper is to show how the Mindlin model of a plate can be fruitfully described within the framework of distributed port Hamiltonian systems (dpH systems) so that rather simple and elegant considerations can be drawn regarding both the modeling and control of this mechanical system. Once the distributed port Hamiltonian (dpH) model of the plate is introduced, a simple boundary or distributed control methodology based on damping injection is discussed.

@@ -5,11 +5,11 @@ date: 2020-09-01 00:00:00 +0100
 permalink: dissipation-in-suspension-system-augmented-by-piezoelectric-stack-port-hamiltonian-approach
 year: 2020
 authors: Rafael Tavares, Michael Ruderman
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Rafael Tavares](authors/rafael-tavares), [Michael Ruderman](authors/michael-ruderman)
+[Rafael Tavares](authors/rafael_tavares), [Michael Ruderman](authors/michael_ruderman)
  
 ## Abstract
 Analysis of damping in semi-active and active suspension systems is prerequisite for an advanced control and, eventually, energy harvesting functions. This paper addresses the damping in suspension system augmented by the piezoelectric (PE) stack. The Hamiltonian system approach with port-power modeling of single subsystems is used for describing and studying the dissipative properties of piezoelectric stack element, integrated in series with a standard quarter-car suspension. The slightly improved, compared to the underlying passive suspension system, frequency response of the sprung mass acceleration is demonstrated. Moreover, the overall power flow in the system, caused by the disturbing road profile, and the dissipated power due to PE-augmented suspension are analyzed and discussed in detail. The results of dissipation analysis provide helpful tools for further developments towards PE-based energy harvesting.

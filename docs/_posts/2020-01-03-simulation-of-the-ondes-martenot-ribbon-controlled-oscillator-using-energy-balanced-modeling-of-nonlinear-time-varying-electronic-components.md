@@ -5,11 +5,11 @@ date: 2020-01-03 00:00:00 +0100
 permalink: simulation-of-the-ondes-martenot-ribbon-controlled-oscillator-using-energy-balanced-modeling-of-nonlinear-time-varying-electronic-components
 year: 2020
 authors: Judy Najnudel, Thomas Hélie, David Roze
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Judy Najnudel](authors/judy-najnudel), [Thomas Hélie](authors/thomas-helie), [David Roze](authors/david-roze)
+[Judy Najnudel](authors/judy_najnudel), [Thomas Hélie](authors/thomas_helie), [David Roze](authors/david_roze)
  
 ## Abstract
 HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. Simulation of the Ondes Martenot Ribbon-Controlled Oscillator Using Energy-Balanced Modeling of Nonlinear Time-Varying Electronic Components Judy Najnudel, Thomas Hélie, David Roze

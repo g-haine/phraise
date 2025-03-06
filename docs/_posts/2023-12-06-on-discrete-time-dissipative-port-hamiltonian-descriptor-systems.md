@@ -5,12 +5,26 @@ date: 2023-12-06 00:00:00 +0100
 permalink: on-discrete-time-dissipative-port-hamiltonian-descriptor-systems
 year: 2024
 authors: Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann
-category: journal-article
-tag: Port-Hamiltonian system; Differential-algebraic equation; Descriptor system; Discrete-time system; Scattering passive system; Impedance passive system; Positive real system; Bounded real system; Kalman–Yakubovich–Popov inequality; Primary 34A09; 93C05; 93C55; Secondary 15A39
+category:
+  - articles
+tags:
+  - port-hamiltonian system
+  - differential-algebraic equation
+  - descriptor system
+  - discrete-time system
+  - scattering passive system
+  - impedance passive system
+  - positive real system
+  - bounded real system
+  - kalman–yakubovich–popov inequality
+  - primary 34a09
+  - 93c05
+  - 93c55
+  - secondary 15a39
 ---
  
 ## Authors
-[Karim Cherifi](authors/karim-cherifi), [Hannes Gernandt](authors/hannes-gernandt), [Dorothea Hinsen](authors/dorothea-hinsen), [Volker Mehrmann](authors/volker-mehrmann)
+[Karim Cherifi](authors/karim_cherifi), [Hannes Gernandt](authors/hannes_gernandt), [Dorothea Hinsen](authors/dorothea_hinsen), [Volker Mehrmann](authors/volker_mehrmann)
  
 ## Abstract
 Port-Hamiltonian (pH) systems have been studied extensively for linear continuous-time dynamical systems. This manuscript presents a discrete-time pH descriptor formulation for linear, completely causal, scattering passive dynamical systems based on the system coefficients. The relation of this formulation to positive and bounded real systems and the characterization via positive semidefinite solutions of Kalman–Yakubovich–Popov inequalities is also studied.

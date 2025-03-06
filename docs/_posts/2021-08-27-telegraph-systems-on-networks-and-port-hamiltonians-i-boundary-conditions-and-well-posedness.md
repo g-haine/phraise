@@ -5,11 +5,11 @@ date: 2021-08-27 00:00:00 +0100
 permalink: telegraph-systems-on-networks-and-port-hamiltonians-i-boundary-conditions-and-well-posedness
 year: 2022
 authors: Jacek Banasiak, Adam Błoch
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jacek Banasiak](authors/jacek-banasiak), [Adam Błoch](authors/adam-bloch)
+[Jacek Banasiak](authors/jacek_banasiak), [Adam Błoch](authors/adam_bloch)
  
 ## Abstract
 The paper is concerned with a system of linear hyperbolic differential equations on a network coupled through general transmission conditions of Kirchhoff's-type at the nodes. We discuss the reduction of such a problem to a system of 1-dimensional hyperbolic problems for the associated Riemann invariants and provide a semigroup-theoretic proof of its well-posedness. A number of examples showing the relation of our results with recent research is also provided.

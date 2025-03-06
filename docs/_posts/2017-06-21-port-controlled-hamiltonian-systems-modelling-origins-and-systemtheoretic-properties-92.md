@@ -2,15 +2,22 @@
 layout: post
 title: "Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties"
 date: 2017-06-21 00:00:00 +0100
-permalink: port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties
+permalink: port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-92
 year: 1992
 authors: B.M. Maschke, A.J. van der Schaft
-category: journal-article
-tag: Network dynamics; general Poisson structures; gyrators; Hamiltonian equations; observation space; minimal realizations
+category:
+  - proceedings
+tags:
+  - network dynamics
+  - general poisson structures
+  - gyrators
+  - hamiltonian equations
+  - observation space
+  - minimal realizations
 ---
  
 ## Authors
-[B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[B.M. Maschke](authors/bernhard_maschke), [A.J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 It is shown that the network representation (as obtained through the generalized bond graph formalism) of non-resistive physical systems in interaction with their environment leads to a well- defined class of (nonlinear) control systems, called port-controlled Hamiltonian systems.A first basic feature of these systems is that their internal dynamics is Hamiltonian with respect to a Poisson structure determined by the topology of the network and to a Hamiltonian given by the stored energy. Secondly the network representation provides automatically (intrinsically to the notation) to every port-control variable (input) a port-conjugated variable as output. This definition of port-conjugated input and output variables, based on energy considerations, is shown to have important consequences for the observability and controllability properties, as well as the external characterization of port- controlled Hamiltonian systems.
@@ -26,7 +33,7 @@ Network dynamics; general Poisson structures; gyrators; Hamiltonian equations; o
 - **Pages:** 359--365
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/S1474-6670(17)52308-3](https://doi.org/10.1016/S1474-6670(17)52308-3)
-- **Note:** 2nd IFAC Symposium on Nonlinear Control Systems Design 1992, Bordeaux, France, 24-26 June
+- **Event:** 2nd IFAC Symposium on Nonlinear Control Systems Design 1992, Bordeaux, France, 24-26 June
  
 ## BibTeX
 {% highlight bibtex %}

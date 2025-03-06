@@ -5,12 +5,21 @@ date: 2006-01-27 00:00:00 +0100
 permalink: hybrid-port-hamiltonian-systems-from-parameterized-incidence-matrices-to-hybrid-automata
 year: 2006
 authors: C. Valentin, M. Magos, B. Maschke
-category: journal-article
-tag: Hybrid dynamical systems; Modeling; Hybrid automata; Dynamic network graph; Incidence matrix; Analysis; Admissible configurations; Constrained configurations
+category:
+  - proceedings
+tags:
+  - hybrid dynamical systems
+  - modeling
+  - hybrid automata
+  - dynamic network graph
+  - incidence matrix
+  - analysis
+  - admissible configurations
+  - constrained configurations
 ---
  
 ## Authors
-[C. Valentin](authors/claire-valentin), [M. Magos](authors/miguel-magos), [B. Maschke](authors/bernhard-maschke)
+[C. Valentin](authors/claire_valentin), [M. Magos](authors/miguel_magos), [B. Maschke](authors/bernhard_maschke)
  
 ## Abstract
 This paper shows how to formally design a hybrid automaton model for a wide class of dissipative physical systems with sources and switching topology. This method is based on a mathematical representation of the dynamic network graph and of its dual graph, using the hybrid incidence matrix, and on a constructive method for analyzing admissible and constrained configurations. The port–Hamiltonian representation associated with the set of hybrid system configurations, parameterized by the discrete state of the switches, is synthesized to be part of the hybrid automaton of the system. This is a further step towards a generic control synthesis for physical switching systems.
@@ -26,7 +35,7 @@ Hybrid dynamical systems; Modeling; Hybrid automata; Dynamic network graph; Inci
 - **Pages:** 1106--1122
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.na.2005.12.013](https://doi.org/10.1016/j.na.2005.12.013)
-- **Note:** Hybrid Systems and Applications (5)
+- **Event:** Hybrid Systems and Applications (5)
  
 ## BibTeX
 {% highlight bibtex %}

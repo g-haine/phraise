@@ -5,12 +5,17 @@ date: 2022-11-23 00:00:00 +0100
 permalink: exponential-decay-rate-of-port-hamiltonian-systems-with-one-side-boundary-damping
 year: 2022
 authors: Luis A. Mora, Kirsten Morris
-category: journal-article
-tag: Exponential decay rate; port-Hamiltonian systems; boundary control; damping injection
+category:
+  - proceedings
+tags:
+  - exponential decay rate
+  - port-hamiltonian systems
+  - boundary control
+  - damping injection
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis-a-mora), [Kirsten Morris](authors/kirsten-morris)
+[Luis A. Mora](authors/luis_a_mora), [Kirsten Morris](authors/kirsten_morris)
  
 ## Abstract
 The multiplier approach is applied to a class of port-Hamiltonian systems with boundary dissipation to establish exponential decay . The exponential stability of port-Hamiltonian systems has been studied and sufficient conditions obtained. Here the decay rate Me-αt is established with M and α are in terms of system parameters. This approach is illustrated by several examples, in particular, boundary stabilization of a piezoelectric beam with magnetic effects.
@@ -26,7 +31,7 @@ Exponential decay rate; port-Hamiltonian systems; boundary control; damping inje
 - **Pages:** 400--405
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.086](https://doi.org/10.1016/j.ifacol.2022.11.086)
-- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}

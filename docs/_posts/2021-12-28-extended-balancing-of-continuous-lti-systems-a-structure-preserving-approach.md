@@ -5,11 +5,11 @@ date: 2021-12-28 00:00:00 +0100
 permalink: extended-balancing-of-continuous-lti-systems-a-structure-preserving-approach
 year: 2023
 authors: Pablo Borja, Jacquelien M. A. Scherpen, Kenji Fujimoto
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Pablo Borja](authors/luis-pablo-borja), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen), [Kenji Fujimoto](authors/kenji-fujimoto)
+[Pablo Borja](authors/luis_pablo_borja), [Jacquelien M. A. Scherpen](authors/jacquelien_m_a_scherpen), [Kenji Fujimoto](authors/kenji_fujimoto)
  
 ## Abstract
 In this article, we treat extended balancing for continuous-time linear time-invariant systems. We take a dissipativity perspective, thus, resulting in a characterization in terms of linear matrix inequalities. This perspective is useful for determining a priori error bounds. In addition, we address the problem of structure-preserving model reduction of the subclass of port-Hamiltonian systems. We establish sufficient conditions to ensure that the reduced-order model preserves a port-Hamiltonian structure. Moreover, we show that the use of extended Gramians can be exploited to get a small error bound and, possibly, to preserve a physical interpretation for the reduced-order model. We illustrate the results with a large-scale mechanical system example. Furthermore, we show how to interpret a reduced-order model of an electrical circuit again as a lower dimensional electrical circuit.

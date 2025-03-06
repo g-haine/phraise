@@ -5,12 +5,16 @@ date: 2017-10-19 00:00:00 +0100
 permalink: power-balancing-in-a-dc-microgrid-elevator-system-through-constrained-optimization
 year: 2017
 authors: T. Hung Pham, I. Prodan, D. Genon-Catalot, L. Lefèvre
-category: journal-article
-tag: DC microgrid; Port-Hamiltonian systems on graphs; MPC (Model Predictive Control)
+category:
+  - proceedings
+tags:
+  - dc microgrid
+  - port-hamiltonian systems on graphs
+  - mpc (model predictive control)
 ---
  
 ## Authors
-[T. Hung Pham](authors/thanh-hung-pham), [I. Prodan](authors/ionela-prodan), [D. Genon-Catalot](authors/denis-genon-catalot), [L. Lefèvre](authors/laurent-lefevre)
+[T. Hung Pham](authors/thanh_hung_pham), [I. Prodan](authors/ionela_prodan), [D. Genon-Catalot](authors/denis_genon_catalot), [L. Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 This paper considers the problem of power balancing in a DC microgrid. A PH (port Hamiltonian) formalism is used to describe the system components and interconnections. Energy and power conservation are kept for the discretized model. An economic model predictive controller is used for scheduling the microgrid power management. The proposed approach is validated through simulation results on a particular DC microgrid elevator system.
@@ -26,7 +30,7 @@ DC microgrid; Port-Hamiltonian systems on graphs; MPC (Model Predictive Control)
 - **Pages:** 19--24
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.004](https://doi.org/10.1016/j.ifacol.2017.08.004)
-- **Note:** 20th IFAC World Congress
+- **Event:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}

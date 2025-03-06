@@ -5,12 +5,18 @@ date: 2022-11-04 00:00:00 +0100
 permalink: observer-design-for-1-d-boundary-controlled-port-hamiltonian-systems-with-different-boundary-measurements
 year: 2022
 authors: Jesus Toledo, Yongxin Wu, Hector Ramirez, Yann Le Gorrec
-category: journal-article
-tag: Distributed port-Hamiltonian systems; Observer design; Boundary measurements; Exponential stability; Asymptotic stability
+category:
+  - proceedings
+tags:
+  - distributed port-hamiltonian systems
+  - observer design
+  - boundary measurements
+  - exponential stability
+  - asymptotic stability
 ---
  
 ## Authors
-[Jesus Toledo](authors/jesus-pablo-toledo-zucco), [Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Jesus Toledo](authors/jesus_pablo_toledo_zucco), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 This paper investigates the observer design for the 1D boundary controlled port-Hamiltonian systems (BC-PHS) using the late lumping approach. Different observers are proposed for BC-PHS with different measured boundary variables. Based on the passivity propriety of the BC-PHS, sufficient conditions of the observer error convergence are provided for the different proposed observers. The wave equation is used to illustrate the effectiveness of the proposed observers with different boundary sensing.
@@ -26,7 +32,7 @@ Distributed port-Hamiltonian systems; Observer design; Boundary measurements; Ex
 - **Pages:** 95--100
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.10.383](https://doi.org/10.1016/j.ifacol.2022.10.383)
-- **Note:** 4th IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2022- Kiel, Germany, September 5-7, 2022
+- **Event:** 4th IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2022- Kiel, Germany, September 5-7, 2022
  
 ## BibTeX
 {% highlight bibtex %}

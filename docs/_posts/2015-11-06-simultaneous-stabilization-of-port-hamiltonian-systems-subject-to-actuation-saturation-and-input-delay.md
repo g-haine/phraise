@@ -5,12 +5,18 @@ date: 2015-11-06 00:00:00 +0100
 permalink: simultaneous-stabilization-of-port-hamiltonian-systems-subject-to-actuation-saturation-and-input-delay
 year: 2021
 authors: Liang-Cheng Cai
-category: journal-article
-tag: Port-Hamiltonian system (PH); simultaneous stabilization; actuator saturation; input delay; Lyapunov-Krasovskii function
+category:
+  - articles
+tags:
+  - port-hamiltonian system (ph)
+  - simultaneous stabilization
+  - actuator saturation
+  - input delay
+  - lyapunov-krasovskii function
 ---
  
 ## Authors
-[Liang-Cheng Cai](authors/liangcheng-cai)
+[Liang-Cheng Cai](authors/liangcheng_cai)
  
 ## Abstract
 This paper investigates the simultaneous stabilization of Port-Hamiltonian (PH) systems subject to actuation saturation (AS) and input delay. Firstly, two parallel connecting PH systems subject to the AS and input delay are proposed. Secondly, a simultaneous stabilization control law is designed by a difference between the two feedback control laws containing the input delay. Thirdly, computing a Lyapunov-Krasovskii function assures the simultaneous stabilization of the above systems. Finally, simulation is given to show the correctness of the proposed contents.

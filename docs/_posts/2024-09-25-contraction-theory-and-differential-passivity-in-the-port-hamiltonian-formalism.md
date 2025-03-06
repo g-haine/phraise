@@ -5,12 +5,18 @@ date: 2024-09-25 00:00:00 +0100
 permalink: contraction-theory-and-differential-passivity-in-the-port-hamiltonian-formalism
 year: 2024
 authors: Mario Spirito, Bernhard Maschke, Yann Le Gorrec
-category: journal-article
-tag: Contractive systems; Differential passivity; port-Hamiltonian systems; dissipative Hamiltonian systems; dissipative Differential Hamiltonian system
+category:
+  - proceedings
+tags:
+  - contractive systems
+  - differential passivity
+  - port-hamiltonian systems
+  - dissipative hamiltonian systems
+  - dissipative differential hamiltonian system
 ---
  
 ## Authors
-[Mario Spirito](authors/mario-spirito), [Bernhard Maschke](authors/bernhard-maschke), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Mario Spirito](authors/mario_spirito), [Bernhard Maschke](authors/bernhard_maschke), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 In this work, we recall the concept of contractive dynamics and its natural extension to the notion of Differential dissipativity/passivity via the use of the so-called prolonged (or extended) system dynamics, obtained by lifting the system to the tangent bundle of the underlying manifold. The new concept of dissipative Differential Hamiltonian dynamics is proposed providing a weaker notion of contractive dynamical system. Furthermore, the Differential Hamiltonian notion is extended to the definition of Differentially passive port-Hamiltonian system. We describe explicit conditions to exploit the ‘natural’ Differential Hamiltonian function as differential storage function for the port-Hamiltonian system dynamics.
@@ -26,7 +32,7 @@ Contractive systems; Differential passivity; port-Hamiltonian systems; dissipati
 - **Pages:** 184--189
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.278](https://doi.org/10.1016/j.ifacol.2024.08.278)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,16 @@ date: 2007-06-14 00:00:00 +0100
 permalink: port-based-asymptotic-curve-tracking-for-mechanical-systems
 year: 2004
 authors: Vincent Duindam, Stefano Stramigioli
-category: journal-article
-tag: Hamiltonian Control Systems; Mechanical Systems; Nonlinear Control
+category:
+  - articles
+tags:
+  - hamiltonian control systems
+  - mechanical systems
+  - nonlinear control
 ---
  
 ## Authors
-[Vincent Duindam](authors/vincent-duindam), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Vincent Duindam](authors/vincent_duindam), [Stefano Stramigioli](authors/stefano_stramigioli)
  
 ## Abstract
 We examine the control problem of curve-tracking for a fully actuated mechanical system. Using a coordinate transformation on the momentum variables, we split the kinetic energy of the system in a desired and an undesired part, and then design an (intrinsically passive) controller as an interconnection of port- Hamiltonian subsystems, in such a way that asymptotic convergence to the desired curve is obtained. We illustrate the performance in a simulation.

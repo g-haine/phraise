@@ -5,11 +5,11 @@ date: 2022-11-25 00:00:00 +0100
 permalink: discrete-port-hamiltonian-coupled-heat-transfer
 year: 2022
 authors: Jens Jäschke, Matthias Ehrhardt, Michael Günther, Birgit Jacob
-category: book-chapter
+category: proceedings
 ---
  
 ## Authors
-[Jens Jäschke](authors/jens-jaschke), [Matthias Ehrhardt](authors/matthias-ehrhardt), [Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob)
+[Jens Jäschke](authors/jens_jaschke), [Matthias Ehrhardt](authors/matthias_ehrhardt), [Michael Günther](authors/michael_gunther), [Birgit Jacob](authors/birgit_jacob)
  
 ## Abstract
 Heat transfer and cooling solutions play an important role in the design of gas turbine blades. However, the underlying mathematical coupling structures have not been thoroughly investigated. In a previous work, we successfully modelled a simplified version of this problem as an infinite-dimensional system. Here, we construct a spatial discretization for the above problem and investigate its properties. We show that the discrete system is less restrictive than the original infinite-dimensional system, suggesting something like a regularization effect due to discretization.
@@ -18,7 +18,7 @@ Heat transfer and cooling solutions play an important role in the design of gas 
 - **ISBN:** 9783031118173
 - **Publisher:** Springer International Publishing
 - **DOI:** [10.1007/978-3-031-11818-0_57](https://doi.org/10.1007/978-3-031-11818-0_57)
-- **Note:** European Consortium for Mathematics in Industry
+- **Event:** European Consortium for Mathematics in Industry
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,19 @@ date: 2016-11-02 00:00:00 +0100
 permalink: a-distributed-passivity-based-control-of-autonomous-mobile-sensors-in-an-underwater-acoustic-network
 year: 2016
 authors: F. Fabiani, D. Fenucci, T. Fabbri, A. Caiti
-category: journal-article
-tag: Autonomous vehicles; Co-operation; Co-ordination; Distributed control; Passivity; Port-Hamiltonian
+category:
+  - proceedings
+tags:
+  - autonomous vehicles
+  - co-operation
+  - co-ordination
+  - distributed control
+  - passivity
+  - port-hamiltonian
 ---
  
 ## Authors
-[F. Fabiani](authors/filippo-fabiani), [D. Fenucci](authors/davide-fenucci), [T. Fabbri](authors/t-fabbri), [A. Caiti](authors/andrea-caiti)
+[F. Fabiani](authors/filippo_fabiani), [D. Fenucci](authors/davide_fenucci), [T. Fabbri](authors/t_fabbri), [A. Caiti](authors/andrea_caiti)
  
 ## Abstract
 This paper presents a cooperative and distributed control law for multiple Autonomous Underwater Vehicles (AUVs) executing a mission while meeting mutual communication constraints. Virtual couplings define interaction control forces between neighbouring vehicles. Moreover, the couplings are designed to enforce a desired vehicle-vehicle and vehicle-target spacing. The whole network is modelled in the passive, energy-based, port-Hamiltonian framework. Such framework allows to prove closed-loop stability using the whole system kinetic and virtual potential energy by constructing a suitable Lyapunov function. Furthermore, the robustness to communication delays is also demonstrated. Simulation results are given to illustrate the effectiveness of the proposed approach.
@@ -26,7 +33,7 @@ Autonomous vehicles; Co-operation; Co-ordination; Distributed control; Passivity
 - **Pages:** 367--372
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.10.432](https://doi.org/10.1016/j.ifacol.2016.10.432)
-- **Note:** 10th IFAC Conference on Control Applications in Marine SystemsCAMS 2016- Trondheim, Norway, 13—16 September 2016
+- **Event:** 10th IFAC Conference on Control Applications in Marine SystemsCAMS 2016- Trondheim, Norway, 13—16 September 2016
  
 ## BibTeX
 {% highlight bibtex %}

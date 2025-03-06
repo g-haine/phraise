@@ -5,11 +5,11 @@ date: 2023-06-16 00:00:00 +0100
 permalink: structure-preserving-model-reduction-for-port-hamiltonian-systems-based-on-separable-nonlinear-approximation-ansatzes
 year: 2023
 authors: Philipp Schulze
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Philipp Schulze](authors/philipp-schulze)
+[Philipp Schulze](authors/philipp_schulze)
  
 ## Abstract
 We discuss structure-preserving model order reduction for port-Hamiltonian systems based on a nonlinear approximation ansatz which is linear with respect to a part of the state variables of the reduced-order model. In recent years, such nonlinear approximation ansatzes have gained more and more attention especially due to their effectiveness in the context of model reduction for transport-dominated systems which are challenging for classical linear model reduction techniques. We demonstrate that port-Hamiltonian reduced-order models can often be obtained by a residual minimization approach where a suitable weighted norm is used for the residual. Moreover, we discuss sufficient conditions for the resulting reduced-order models to be stable. Finally, the methodology is illustrated by means of two transport-dominated numerical test cases, where the ansatz functions are determined based on snapshot data of the full-order state.

@@ -5,12 +5,19 @@ date: 2014-09-11 00:00:00 +0100
 permalink: equal-distribution-of-satellite-constellations-on-circular-target-orbits
 year: 2014
 authors: Ewoud Vos, Jacquelien M.A. Scherpen, Arjan J. van der Schaft
-category: journal-article
-tag: Multi-agent systems; Asymptotic stabilization; Guidance, navigation and control of vehicles; Mission control and operations; Port-Hamiltonian systems; Distributed control
+category:
+  - articles
+tags:
+  - multi-agent systems
+  - asymptotic stabilization
+  - guidance, navigation and control of vehicles
+  - mission control and operations
+  - port-hamiltonian systems
+  - distributed control
 ---
  
 ## Authors
-[Ewoud Vos](authors/ewoud-vos), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
+[Ewoud Vos](authors/ewoud_vos), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 This paper addresses the problem of equal distribution of satellite constellations on circular target orbits. The control goal is to make the constellation converge to a circular target orbit, while spatially distributing the satellites at equal inter-satellite distances. The solution is defined in the port-Hamiltonian framework, which gives a clear physical interpretation of the obtained control laws, insight into the energy consumption and complete stability proofs. The controller consists of two parts: the internal control system steers each individual satellite to the target orbit, the external control system equally distributes the satellite constellation. Numerical simulation results are given to illustrate the effectiveness of the approach.

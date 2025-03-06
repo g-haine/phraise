@@ -5,11 +5,11 @@ date: 2020-03-13 00:00:00 +0100
 permalink: structure-preserving-discretization-for-port-hamiltonian-descriptor-systems
 year: 2019
 authors: Volker Mehrmann, Riccardo Morandin
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Volker Mehrmann](authors/volker-mehrmann), [Riccardo Morandin](authors/riccardo-morandin)
+[Volker Mehrmann](authors/volker_mehrmann), [Riccardo Morandin](authors/riccardo_morandin)
  
 ## Abstract
 We extend the modeling framework of port-Hamiltonian descriptor systems to include under- and overdetermined systems and arbitrary differentiable Hamiltonian functions. This structure is associated with a Dirac structure that encloses its energy balance properties. In particular, port-Hamiltonian systems are naturally passive and Lyapunov stable, because the Hamiltonian defines a Lyapunov function. The explicit representation of input and dissipation in the structure make these systems particularly suitable for output feedback control. It is shown that this structure is invariant under a wide class of nonlinear transformations, and that it can be naturally modularized, making it adequate for automated modeling. We investigate then the application of time-discretization schemes to these systems and we show that, under certain assumptions on the Hamiltonian, structure preservation is achieved for some methods. Relevant examples are provided.

@@ -5,12 +5,17 @@ date: 2018-05-03 00:00:00 +0100
 permalink: towards-port-hamiltonian-modeling-of-multi-carrier-energy-systems-a-case-study-for-a-coupled-electricity-and-gas-distribution-system
 year: 2018
 authors: Felix Strehle, Martin Pfeifer, Lukas Kölsch, Charlotte Degünther, Johannes Ruf, Lisa Andresen, Sören Hohmann
-category: journal-article
-tag: Modeling; Multi-Carrier Energy Systems; Port-Hamiltonian Systems; Bond Graphs
+category:
+  - proceedings
+tags:
+  - modeling
+  - multi-carrier energy systems
+  - port-hamiltonian systems
+  - bond graphs
 ---
  
 ## Authors
-[Felix Strehle](authors/felix-strehle), [Martin Pfeifer](authors/martin-pfeifer), [Lukas Kölsch](authors/lukas-kolsch), [Charlotte Degünther](authors/charlotte-degunther), [Johannes Ruf](authors/johannes-ruf), [Lisa Andresen](authors/lisa-andresen), [Sören Hohmann](authors/soren-hohmann)
+[Felix Strehle](authors/felix_strehle), [Martin Pfeifer](authors/martin_pfeifer), [Lukas Kölsch](authors/lukas_kolsch), [Charlotte Degünther](authors/charlotte_degunther), [Johannes Ruf](authors/johannes_ruf), [Lisa Andresen](authors/lisa_andresen), [Sören Hohmann](authors/soren_hohmann)
  
 ## Abstract
 Multi-carrier energy systems have been identified as a major concept for future energy supply. For their operation, model-based control methods are necessary whose design requires modular, multi-physical control-oriented models. In literature, there exists no control design model which combines the variables of the networks and system dynamics that go beyond ideal storage elements. Port-Hamiltonian systems represent a promising approach for the scalable modeling and control of multi-carrier energy systems. In this publication we present a case study which illustrates the port-Hamiltonian modeling of an exemplary coupled electricity and gas distribution system. Simulations indicate the plausibility of the presented model.
@@ -26,7 +31,7 @@ Modeling; Multi-Carrier Energy Systems; Port-Hamiltonian Systems; Bond Graphs
 - **Pages:** 463--468
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.03.078](https://doi.org/10.1016/j.ifacol.2018.03.078)
-- **Note:** 9th Vienna International Conference on Mathematical Modelling
+- **Event:** 9th Vienna International Conference on Mathematical Modelling
  
 ## BibTeX
 {% highlight bibtex %}

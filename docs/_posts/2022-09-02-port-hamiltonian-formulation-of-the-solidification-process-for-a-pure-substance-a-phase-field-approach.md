@@ -5,12 +5,18 @@ date: 2022-09-02 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-the-solidification-process-for-a-pure-substance-a-phase-field-approach
 year: 2022
 authors: Mohammed Yaghi, Françoise Couenne, Aurélie Galfré, Laurent Lefèvre, Bernhard Maschke
-category: journal-article
-tag: Port Hamiltonian systems on Lagrange subspaces; Phase Field; Diffuse interface; Solidification process; Thermodynamical properties
+category:
+  - proceedings
+tags:
+  - port hamiltonian systems on lagrange subspaces
+  - phase field
+  - diffuse interface
+  - solidification process
+  - thermodynamical properties
 ---
  
 ## Authors
-[Mohammed Yaghi](authors/mohammed-yaghi), [Françoise Couenne](authors/francoise-couenne), [Aurélie Galfré](authors/aurelie-galfre), [Laurent Lefèvre](authors/laurent-lefevre), [Bernhard Maschke](authors/bernhard-maschke)
+[Mohammed Yaghi](authors/mohammed_yaghi), [Françoise Couenne](authors/francoise_couenne), [Aurélie Galfré](authors/aurelie_galfre), [Laurent Lefèvre](authors/laurent_lefevre), [Bernhard Maschke](authors/bernhard_maschke)
  
 ## Abstract
 In this paper we suggest a Port Hamiltonian model of the solidification process of water, using the phase field approach. Firstly, the Port Hamiltonian formulation of the dynamics of the phase field variable, governed by the Allen-Cahn equation, is recalled. It is based on adding to the phase field variable, its gradient, and extending the system with its dynamics. Secondly, the model is completed by the energy balance equation for the heat conduction and the complete Port Hamiltonian model is derived. Thirdly an Algebro-differential Port Hamiltonian representation is suggested, where the Port Hamiltonian system is defined on a Lagrangian submanifold, allowing to use directly the variables defining the thermodynamical data.
@@ -26,7 +32,7 @@ Port Hamiltonian systems on Lagrange subspaces; Phase Field; Diffuse interface; 
 - **Pages:** 93--98
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.08.036](https://doi.org/10.1016/j.ifacol.2022.08.036)
-- **Note:** 4th IFAC Workshop on Thermodynamics Foundations of Mathematical Systems Theory TFMST 2022- Montreal, Canada, 25–27 July 2022
+- **Event:** 4th IFAC Workshop on Thermodynamics Foundations of Mathematical Systems Theory TFMST 2022- Montreal, Canada, 25–27 July 2022
  
 ## BibTeX
 {% highlight bibtex %}

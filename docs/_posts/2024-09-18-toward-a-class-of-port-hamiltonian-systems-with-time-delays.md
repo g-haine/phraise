@@ -5,11 +5,11 @@ date: 2024-09-18 00:00:00 +0100
 permalink: toward-a-class-of-port-hamiltonian-systems-with-time-delays
 year: 2024
 authors: Tobias Breiten, Dorothea Hinsen, Benjamin Unger
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Tobias Breiten](authors/tobias-breiten), [Dorothea Hinsen](authors/dorothea-hinsen), [Benjamin Unger](authors/benjamin-unger)
+[Tobias Breiten](authors/tobias_breiten), [Dorothea Hinsen](authors/dorothea_hinsen), [Benjamin Unger](authors/benjamin_unger)
  
 ## Abstract
 The framework of port-Hamiltonian (pH) systems is a powerful and broadly applicable modeling paradigm. In this article, we extend the scope of pH systems to time-delay systems. Our definition of a delay pH system is motivated by investigating the Kalman–Yakubovich–Popov inequality on the corresponding infinite-dimensional operator equation. Moreover, we show that delay pH systems are passive and closed under interconnection. We describe an explicit way to construct a Lyapunov–Krasovskii functional and discuss implications for delayed feedback.

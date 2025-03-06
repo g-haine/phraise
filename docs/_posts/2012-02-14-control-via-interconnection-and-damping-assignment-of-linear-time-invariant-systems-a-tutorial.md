@@ -5,11 +5,11 @@ date: 2012-02-14 00:00:00 +0100
 permalink: control-via-interconnection-and-damping-assignment-of-linear-time-invariant-systems-a-tutorial
 year: 2012
 authors: Romeo Ortega, Zhitao Liu, Hongye Su
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Romeo Ortega](authors/romeo-ortega), [Zhitao Liu](authors/zhitao-liu), [Hongye Su](authors/hongye-su)
+[Romeo Ortega](authors/romeo_ortega), [Zhitao Liu](authors/zhitao_liu), [Hongye Su](authors/hongye_su)
  
 ## Abstract
 Interconnection and damping assignment is a controller design methodology that regulates the behaviour of dynamical systems assigning a desired port-Hamiltonian structure to the closed-loop. A key step for the application of the method is the solution of the so-called matching equation that, in the case of nonlinear systems, is a partial differential equation. It has recently been shown that for linear systems the problem boils down to the solution of a linear matrix inequality that, moreover, is feasible if and only if the system is stabilisable – making the method universally applicable. It has also been shown that if we narrow the class of assignable structures – e.g. to mechanical instead of the larger port-Hamiltonian – the problem is still translated to a linear matrix inequality, but now stabilisability is not sufficient to ensure its feasibility. It is additionally required that the uncontrolled modes are simple and lie on the jω axis, which is consistent with the considered scenario of mechanical systems without friction. The purpose of this article is to present these important results in a tutorial, self-contained form – invoking only basic linear algebra methods.

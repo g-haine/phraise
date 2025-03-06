@@ -5,12 +5,17 @@ date: 2024-06-05 00:00:00 +0100
 permalink: a-systematic-methodology-for-port-hamiltonian-modeling-of-multidimensional-flexible-linear-mechanical-systems
 year: 2024
 authors: Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez
-category: journal-article
-tag: Infinite-dimensional systems; Port-Hamiltonian systems; Modeling; Hamilton's principle
+category:
+  - articles
+tags:
+  - infinite-dimensional systems
+  - port-hamiltonian systems
+  - modeling
+  - hamilton's principle
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal-ponce), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
+[Cristobal Ponce](authors/cristobal_ponce), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
  
 ## Abstract
 This article introduces a novel systematic methodology for modeling a class of multidimensional linear mechanical systems that directly allows to obtain their infinite-dimensional port-Hamiltonian representation. While the approach is tailored to systems governed by specific kinematic assumptions, it encompasses a wide range of models found in current literature, including ℓ-dimensional elasticity models (where ℓ = 1, 2, 3), vibrating strings, torsion in circular bars, classical beam and plate models, among others. The methodology involves formulating the displacement field using primary generalized coordinates via a linear algebraic relation. The non-zero components of the strain tensor are then calculated and expressed using secondary generalized coordinates, enabling the characterization of the skew-adjoint differential operator associated with the port-Hamiltonian representation. By applying Hamilton's principle and employing a specially developed integration by parts formula for the considered class of differential operators, the port-Hamiltonian model is directly obtained, along with the definition of boundary inputs and outputs. To illustrate the methodology, the plate modeling process based on Reddy's third-order shear deformation theory is presented as an example. To the best of our knowledge, this is the first time that a port-Hamiltonian representation of this system is presented in the literature.

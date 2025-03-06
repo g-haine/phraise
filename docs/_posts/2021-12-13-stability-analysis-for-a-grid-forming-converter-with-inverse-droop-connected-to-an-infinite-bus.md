@@ -5,14 +5,14 @@ date: 2021-12-13 00:00:00 +0100
 permalink: stability-analysis-for-a-grid-forming-converter-with-inverse-droop-connected-to-an-infinite-bus
 year: 2021
 authors: Alejandro Garces, Walter Gil-Gonzalez
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Alejandro Garces](authors/alejandro-garces-ruiz), [Walter Gil-Gonzalez](authors/walter-gil-gonzale)
+[Alejandro Garces](authors/alejandro_garces_ruiz), [Walter Gil-Gonzalez](authors/walter_gil_gonzale)
  
 ## Abstract
-Modern power systems require grid-forming converters to maintain the stability of the grid. These converters are designed to emulate the transient behavior of the synchronous machines in high-power applications. However, low-power applications present different dynamics, especially in microgrids where the ratio \\( r \\) / \\( x \\) is high. Therefore, it is necessary to analyze a grid-forming converter with inverse droops to guarantee stability in those applications. This paper studies the stability of this type of device for a single converter connected to an infinite bus. The small-signal and transient stability is analyzed under realistic assumptions. Numerical experiments complement the theoretical analysis
+Modern power systems require grid-forming converters to maintain the stability of the grid. These converters are designed to emulate the transient behavior of the synchronous machines in high-power applications. However, low-power applications present different dynamics, especially in microgrids where the ratio \( r \) / \( x \) is high. Therefore, it is necessary to analyze a grid-forming converter with inverse droops to guarantee stability in those applications. This paper studies the stability of this type of device for a single converter connected to an infinite bus. The small-signal and transient stability is analyzed under realistic assumptions. Numerical experiments complement the theoretical analysis
  
 ## Citation
 - **Journal:** 2021 IEEE 5th Colombian Conference on Automatic Control (CCAC)

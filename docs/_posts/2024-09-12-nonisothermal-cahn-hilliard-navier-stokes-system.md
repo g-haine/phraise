@@ -5,11 +5,11 @@ date: 2024-09-12 00:00:00 +0100
 permalink: nonisothermal-cahn-hilliard-navier-stokes-system
 year: 2024
 authors: Aaron Brunk, Dennis Schumann
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Aaron Brunk](authors/aaron-brunk), [Dennis Schumann](authors/dennis-schumann)
+[Aaron Brunk](authors/aaron_brunk), [Dennis Schumann](authors/dennis_schumann)
  
 ## Abstract
 In this research, we introduce and investigate an approximation method that preserves the structural integrity of the non‐isothermal Cahn–Hilliard–Navier–Stokes system. Our approach extends a previously proposed technique by Brunk and Schumann, which utilizes conforming (inf‐sup stable) finite elements in space, coupled with implicit time discretization employing convex‐concave splitting. Expanding upon this method, we incorporate the unstable pair for the Navier–Stokes contributions, integrating Brezzi–Pitkäranta stabilization. Additionally, we improve the enforcement of incompressibility conditions through grad–div stabilization. While these techniques are well‐established for Navier–Stokes equations, it becomes apparent that for non‐isothermal models, they introduce additional coupling terms to the equation governing internal energy. To ensure the conservation of total energy and maintain entropy production, these stabilization terms are appropriately integrated into the internal energy equation.

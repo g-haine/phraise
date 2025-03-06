@@ -5,12 +5,20 @@ date: 2021-04-15 00:00:00 +0100
 permalink: modelling-and-structure-preserving-discretization-of-maxwell-s-equations-as-port-hamiltonian-system
 year: 2020
 authors: Gabriel Payen, Denis Matignon, Ghislain Haine
-category: journal-article
-tag: Maxwell’s equations; port-Hamiltonian system; Partitioned Finite Element Method; Dirac structure; impedance; boundary control; observation
+category:
+  - proceedings
+tags:
+  - maxwell’s equations
+  - port-hamiltonian system
+  - partitioned finite element method
+  - dirac structure
+  - impedance
+  - boundary control
+  - observation
 ---
  
 ## Authors
-[Gabriel Payen](authors/gabriel-payen), [Denis Matignon](authors/denis-matignon), [Ghislain Haine](authors/ghislain-haine)
+[Gabriel Payen](authors/gabriel_payen), [Denis Matignon](authors/denis_matignon), [Ghislain Haine](authors/ghislain_haine)
  
 ## Abstract
 The modelling and discretization of the boundary controlled 3D Maxwell’s equations as a port-Hamiltonian system is addressed. The proposed scheme, based on the Partitioned Finite Element Method (PFEM), originally proposed in Cardoso-Ribeiro et al. (2018), preserves the Dirac structure at the discrete level. Two types of damping phenomena are taken into account: Joule’s effect, and a matrix-valued impedance at the boundary, both being preserved by PFEM, as presented in Serhani et al. (2019a).
@@ -26,7 +34,7 @@ Maxwell’s equations; port-Hamiltonian system; Partitioned Finite Element Metho
 - **Pages:** 7581--7586
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1355](https://doi.org/10.1016/j.ifacol.2020.12.1355)
-- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2024-08-23 00:00:00 +0100
 permalink: abstract-dissipative-hamiltonian-differential-algebraic-equations-are-everywhere
 year: 2024
 authors: Hans Zwart, Volker Mehrmann
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Hans Zwart](authors/hans-zwart), [Volker Mehrmann](authors/volker-mehrmann)
+[Hans Zwart](authors/hans_zwart), [Volker Mehrmann](authors/volker_mehrmann)
  
 ## Abstract
 In this paper we study the representation of partial differential equations (PDEs) as abstract differential-algebraic equations (DAEs) with dissipative Hamiltonian structure (adHDAEs). We show that these systems not only arise when there are constraints coming from the underlying physics, but many standard PDE models can be seen as an adHDAE on an extended state space. This reflects the fact that models often include closure relations and structural properties. We present a unifying operator theoretic approach to analyze the properties of such operator equations and illustrate this by several applications.

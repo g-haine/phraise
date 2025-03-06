@@ -5,11 +5,11 @@ date: 2022-09-13 00:00:00 +0100
 permalink: a-reversible-hydropump-turbine-system
 year: 2022
 authors: Luis Miguel Esquivel-Sancho, Mauricio Muñoz-Arias, Hayden Phillips-Brenes, Roberto Pereira-Arroyo
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Luis Miguel Esquivel-Sancho](authors/luis-miguel-esquivel-sancho), [Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Hayden Phillips-Brenes](authors/hayden-phillips-brenes), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo)
+[Luis Miguel Esquivel-Sancho](authors/luis_miguel_esquivel_sancho), [Mauricio Muñoz-Arias](authors/mauricio_munoz_arias), [Hayden Phillips-Brenes](authors/hayden_phillips_brenes), [Roberto Pereira-Arroyo](authors/roberto_pereira_arroyo)
  
 ## Abstract
 Water-pumped storage systems have become an ideal alternative to regulate the intermittent power delivered by renewable energy sources. For small-scale operations, a type of centrifugal pump coupled to asynchronous machines represents an adequate solution due to their techno-economic feasibility in addition to their ability to operate as reversible systems. This work provides a novel port-Hamiltonian modelling approach to an integrated reversible hydropump–turbine system, that can be switched from motor pump to turbine-generator by employing a conventional hydraulic switch. Our modelling strategy provides a clear physical interpretation of the energy flow from the mechanical to electrical domains. Then, the model was built with multi-domain storing and dissipating elements and the interconnection of well-defined input–output port pairs. The system’s internal energy, i.e., Hamiltonian function, can be exploited for energy-shaping control strategies. The performance of our modelling approach is validated via numerical simulations.

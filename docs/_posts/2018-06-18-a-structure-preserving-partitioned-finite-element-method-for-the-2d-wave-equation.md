@@ -5,12 +5,18 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-structure-preserving-partitioned-finite-element-method-for-the-2d-wave-equation
 year: 2018
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Laurent Lefèvre
-category: journal-article
-tag: Distributed Parameter systems; Port-Hamiltonian systems; Finite Element Method; Geometric Discretization Methods; 2D Wave equation
+category:
+  - proceedings
+tags:
+  - distributed parameter systems
+  - port-hamiltonian systems
+  - finite element method
+  - geometric discretization methods
+  - 2d wave equation
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Laurent Lefèvre](authors/laurent-lefevre)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 Discretizing open systems of conservation laws while preserving the power-balance at the discrete level can be achieved using a new Partitioned Finite Element Method (PFEM), where an integration by parts is performed only on a subset of the variables in the weak formulation. Moreover, since boundary control and observation appear naturally in this formulation, the method is suitable both for simulation and control of infinite-dimensional port-Hamiltonian systems. The method can be applied using FEM software, and comes along with worked-out test cases on the 2D wave equation in different geometries and coordinate systems.
@@ -26,7 +32,7 @@ Distributed Parameter systems; Port-Hamiltonian systems; Finite Element Method; 
 - **Pages:** 119--124
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.033](https://doi.org/10.1016/j.ifacol.2018.06.033)
-- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,12 +5,18 @@ date: 2023-11-22 00:00:00 +0100
 permalink: model-reduction-for-linear-port-hamiltonian-systems-in-the-loewner-framework
 year: 2023
 authors: Alessio Moreschini, Joel D. Simard, Alessandro Astolfi
-category: journal-article
-tag: Model reduction; Lagrangian and Hamiltonian systems; Networked systems; Realization theory; Energy systems
+category:
+  - proceedings
+tags:
+  - model reduction
+  - lagrangian and hamiltonian systems
+  - networked systems
+  - realization theory
+  - energy systems
 ---
  
 ## Authors
-[Alessio Moreschini](authors/alessio-moreschini), [Joel D. Simard](authors/joel-d-simard), [Alessandro Astolfi](authors/alessandro-astolfi)
+[Alessio Moreschini](authors/alessio_moreschini), [Joel D. Simard](authors/joel_d_simard), [Alessandro Astolfi](authors/alessandro_astolfi)
  
 ## Abstract
 The problem of model order reduction with assignment and preservation of port-Hamiltonian structure in the reduced order model is tackled in the Loewner framework. Given a set of right-tangential interpolation data, the (subset of) left-tangential interpolation data that allow for the construction of an interpolant possessing port-Hamiltonian structure is characterized. Conditions under which an interpolant retains the underlying port-Hamiltonian structure of the system generating the data are given by requiring a particular structure of the generalized observability matrix.
@@ -26,7 +32,7 @@ Model reduction; Lagrangian and Hamiltonian systems; Networked systems; Realizat
 - **Pages:** 9493--9498
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.246](https://doi.org/10.1016/j.ifacol.2023.10.246)
-- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}

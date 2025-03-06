@@ -5,12 +5,18 @@ date: 2017-01-11 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows
 year: 2017
 authors: R. Altmann, P. Schulze
-category: journal-article
-tag: Reactive flow; Port-Hamiltonian formulation; Navier–Stokes equations; Hamiltonian formulation; Energy-Based modeling
+category:
+  - articles
+tags:
+  - reactive flow
+  - port-hamiltonian formulation
+  - navier–stokes equations
+  - hamiltonian formulation
+  - energy-based modeling
 ---
  
 ## Authors
-[R. Altmann](authors/r-altmann), [P. Schulze](authors/philipp-schulze)
+[R. Altmann](authors/r_altmann), [P. Schulze](authors/philipp_schulze)
  
 ## Abstract
 We consider the problem of finding an energy-based formulation of the Navier–Stokes equations for reactive flows. These equations occur in various applications, e. g., in combustion engines or chemical reactors. After modeling, discretization, and model reduction, important system properties as the energy conservation are usually lost which may lead to unphysical simulation results. In this paper, we introduce a port-Hamiltonian formulation of the one-dimensional Navier–Stokes equations for reactive flows. The port-Hamiltonian structure is directly associated with an energy balance, which ensures that a temporal change of the total energy is only due to energy flows through the boundary. Furthermore, the boundary ports may be used for control purposes.

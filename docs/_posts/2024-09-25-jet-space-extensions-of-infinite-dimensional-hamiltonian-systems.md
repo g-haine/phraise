@@ -5,12 +5,16 @@ date: 2024-09-25 00:00:00 +0100
 permalink: jet-space-extensions-of-infinite-dimensional-hamiltonian-systems
 year: 2024
 authors: Till Preuster, Bernhard Maschke, Manuel Schaller
-category: journal-article
-tag: port-Hamiltonian systems; jet spaces; distributed parameter systems
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - jet spaces
+  - distributed parameter systems
 ---
  
 ## Authors
-[Till Preuster](authors/till-preuster), [Bernhard Maschke](authors/bernhard-maschke), [Manuel Schaller](authors/manuel-schaller)
+[Till Preuster](authors/till_preuster), [Bernhard Maschke](authors/bernhard_maschke), [Manuel Schaller](authors/manuel_schaller)
  
 ## Abstract
 We analyze infinite-dimensional Hamiltonian systems corresponding to partial Differential equations on one-dimensional spatial domains formulated with formally skew-adjoint Hamiltonian operators and non-quadratic Hamiltonian density. In various applications, the Hamiltonian density can depend on spatial derivatives of the state such that these systems can not straightforwardly be formulated as boundary port-Hamiltonian system using a Stokes-Dirac structure. In this work, we show that any Hamiltonian system of the above class can be reformulated as a Hamiltonian system on the jet space, in which the Hamiltonian density only depends on the extended state variable itself and not on its derivatives. Consequently, well-known geometric formulations with Stokes-Dirac structures are applicable. Additionally, we provide a similar result for dissipative systems. We illustrate the developed theory by means of the the Boussinesq equation, the dynamics of an elastic rod and the Allen-Cahn equation.
@@ -26,7 +30,7 @@ port-Hamiltonian systems; jet spaces; distributed parameter systems
 - **Pages:** 298--303
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.297](https://doi.org/10.1016/j.ifacol.2024.08.297)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

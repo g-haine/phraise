@@ -5,11 +5,11 @@ date: 2014-07-03 00:00:00 +0100
 permalink: strukturerhaltende-diskretisierung-verteilt-parametrischer-port-hamiltonscher-systeme-mittels-finiter-elemente
 year: 2014
 authors: Ortwin Farle, Rolf-Björn Baltes, Romanus Dyczij-Edlinger
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ortwin Farle](authors/ortwin-farle), [Rolf-Björn Baltes](authors/rolf-bjorn-baltes), [Romanus Dyczij-Edlinger](authors/romanus-dyczij-edlinger)
+[Ortwin Farle](authors/ortwin_farle), [Rolf-Björn Baltes](authors/rolf_bjorn_baltes), [Romanus Dyczij-Edlinger](authors/romanus_dyczij_edlinger)
  
 ## Abstract
 Dieser Beitrag präsentiert ein Rahmenwerk für die Finite-Elemente-Approximation verteilt-parametrischer Port-Hamiltonscher Systeme. Das vorgeschlagene Diskretisierungsverfahren erhält nicht nur die Port-Hamiltonsche Struktur, sondern auch wichtige Erhaltungseigenschaften des zugrundeliegenden infinit-dimensionalen Systems. Als Anwendungen werden eine Übertragungsleitung und ein randgespeistes Maxwellsches System betrachtet. Numerische Experimente zeigen, dass die Finite-Elemente-Methode durch Verwendung von Formfunktionen höherer Ordnung höhere Konvergenzraten als bestehende Ansätze zur strukturerhaltenden Diskretisierung Port-Hamiltonscher Systeme erzielt. Bei vorgegebener Fehlertoleranz führt das vorgeschlagene Verfahren daher zu einer beträchtlichen Reduktion der Dimension des finit-dimensionalen Modells.

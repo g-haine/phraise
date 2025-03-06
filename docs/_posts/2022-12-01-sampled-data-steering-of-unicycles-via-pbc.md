@@ -5,11 +5,11 @@ date: 2022-12-01 00:00:00 +0100
 permalink: sampled-data-steering-of-unicycles-via-pbc
 year: 2023
 authors: Mattia Mattioni, Alessio Moreschini, Salvatore Monaco, Dorothee Normand-Cyrot
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Mattia Mattioni](authors/mattia-mattioni), [Alessio Moreschini](authors/alessio-moreschini), [Salvatore Monaco](authors/salvatore-monaco), [Dorothee Normand-Cyrot](authors/dorothee-normand-cyrot)
+[Mattia Mattioni](authors/mattia_mattioni), [Alessio Moreschini](authors/alessio_moreschini), [Salvatore Monaco](authors/salvatore_monaco), [Dorothee Normand-Cyrot](authors/dorothee_normand_cyrot)
  
 ## Abstract
 In this letter, on the basis of a recently proposed discrete-time port-Hamiltonian representation of sampled-data dynamics, we propose a new time-varying digital feedback for steering mobile robots. The quality of the proposed passivity-based control is validated and compared through simulations with the existing literature and the continuous-time implementation using the unicycle as a case study.

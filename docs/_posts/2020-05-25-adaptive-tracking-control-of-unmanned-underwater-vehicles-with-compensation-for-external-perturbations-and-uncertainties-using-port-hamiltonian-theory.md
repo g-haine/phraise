@@ -5,12 +5,18 @@ date: 2020-05-25 00:00:00 +0100
 permalink: adaptive-tracking-control-of-unmanned-underwater-vehicles-with-compensation-for-external-perturbations-and-uncertainties-using-port-hamiltonian-theory
 year: 2020
 authors: Zehua Jia, Lei Qiao, Weidong Zhang
-category: journal-article
-tag: Unmanned underwater vehicles; Adaptive control; Trajectory tracking control; Passivity-based control; Port-Hamiltonian theory
+category:
+  - articles
+tags:
+  - unmanned underwater vehicles
+  - adaptive control
+  - trajectory tracking control
+  - passivity-based control
+  - port-hamiltonian theory
 ---
  
 ## Authors
-[Zehua Jia](authors/zehua-jia), [Lei Qiao](authors/lei-qiao), [Weidong Zhang](authors/weidong-zhang)
+[Zehua Jia](authors/zehua_jia), [Lei Qiao](authors/lei_qiao), [Weidong Zhang](authors/weidong_zhang)
  
 ## Abstract
 This paper addresses the tracking control problem of unmanned underwater vehicles under the condition of external disturbances and unmodeled dynamics using Port-Hamiltonian theory. By introducing Port-Hamiltonian theory, conventional UUVs dynamics can be transformed into Port-Hamiltonian form with insightful expressions. Then, combined with a structure preserving adaptive method, unmodeled dynamics and unknown disturbances can be addressed simultaneously without destroying the interconnection structure of the Hamiltonian system. Finally, based on interconnection and damping assignment passivity-based control, the controller is designed in an intuitive way. The dissipation property of Port-Hamiltonian theory is utilized to prove the stability. Compared with other methods that come from the view of signal processing, the proposed scheme has the advantages of better potential and physical interpretation of engineering applications. Simulations and comparisons are conducted to demonstrate the effectiveness of the proposed method.

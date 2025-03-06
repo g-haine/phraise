@@ -5,12 +5,18 @@ date: 2019-09-06 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration
 year: 2019
 authors: Paul Kotyczka, Laurent Lefèvre
-category: journal-article
-tag: Port-Hamiltonian systems; Dirac structures; Discrete-time systems; Geometric numerical integration; Symplectic methods
+category:
+  - articles
+tags:
+  - port-hamiltonian systems
+  - dirac structures
+  - discrete-time systems
+  - geometric numerical integration
+  - symplectic methods
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul-kotyczka), [Laurent Lefèvre](authors/laurent-lefevre)
+[Paul Kotyczka](authors/paul_kotyczka), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 We introduce a new definition of discrete-time port-Hamiltonian (PH) systems, which results from structure-preserving discretization of explicit PH systems in time. We discretize the underlying continuous-time Dirac structure with the collocation method and add discrete-time dynamics by the use of symplectic numerical integration schemes. The conservation of a structural discrete-time energy balance – expressed in terms of the discrete-time Dirac structure – extends the notion of symplecticity of geometric integration schemes to open systems. We discuss the energy approximation errors in the context of the presented definition and show that their order for linear PH systems is consistent with the order of the numerical integration scheme. Implicit Gauss–Legendre methods and Lobatto IIIA/IIIB pairs for partitioned systems are examples for integration schemes that are covered by our definition. The statements on the numerical energy errors are illustrated by elementary numerical experiments.

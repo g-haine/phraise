@@ -5,12 +5,17 @@ date: 2024-01-18 00:00:00 +0100
 permalink: in-domain-dissipation-assignment-of-boundary-controlled-port-hamiltonian-systems-using-backstepping
 year: 2024
 authors: Jeanne Redaud, Jean Auriol, Yann Le Gorrec
-category: journal-article
-tag: Backstepping-based control design; Hyperbolic PDE systems; Distributed parameter systems; Port-hamiltonian systems
+category:
+  - articles
+tags:
+  - backstepping-based control design
+  - hyperbolic pde systems
+  - distributed parameter systems
+  - port-hamiltonian systems
 ---
  
 ## Authors
-[Jeanne Redaud](authors/jeanne-redaud), [Jean Auriol](authors/jean-auriol), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Jeanne Redaud](authors/jeanne_redaud), [Jean Auriol](authors/jean_auriol), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 In this paper, we develop a systematic approach to stabilize a general class of hyperbolic systems while assigning them a specified closed-loop behavior with a clear energy interpretation. More precisely, we address in-domain dissipation assignment for boundary-controlled Port Hamiltonian systems. The controller is designed so that the closed-loop system behaves like a target system with a specified energy decay rate. The PHS framework is used to take advantage of the natural physical properties of the system to define well-posed, exponentially stable, and easily parametrizable target system candidates, thus resulting in modular controllers. Under some generic structural assumptions, we rewrite the considered Port Hamiltonian system in the Riemann coordinates. The control approach is then based on the backstepping methodology. We combine classical Volterra transformations with an innovative time-affine transform to map the original system to the desired target system. The proposed approach is applied to two test cases: a clamped string and a clamped Timoshenko beam. Both are illustrated in numerical simulations.

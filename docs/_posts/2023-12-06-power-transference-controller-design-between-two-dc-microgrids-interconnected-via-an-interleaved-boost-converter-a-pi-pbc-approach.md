@@ -5,11 +5,11 @@ date: 2023-12-06 00:00:00 +0100
 permalink: power-transference-controller-design-between-two-dc-microgrids-interconnected-via-an-interleaved-boost-converter-a-pi-pbc-approach
 year: 2023
 authors: Oscar Danilo Montoya, César Leonardo Trujillo, Walter Gil-González
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Oscar Danilo Montoya](authors/oscar-danilo-montoya), [César Leonardo Trujillo](authors/cesar-leonardo-trujillo), [Walter Gil-González](authors/walter-gil-gonzale)
+[Oscar Danilo Montoya](authors/oscar_danilo_montoya), [César Leonardo Trujillo](authors/cesar_leonardo_trujillo), [Walter Gil-González](authors/walter_gil_gonzale)
  
 ## Abstract
 This paper deals with the output voltage regulation problem in a direct current (DC) microgrid interfaced through an interleaved boost converter while the power transference is indirectly controlled. The interleaved boost converter is modeled using the averaging modeling theory to obtain a continuous bilinear dynamical model using a port-Hamiltonian (pH) representation. The pH representation is used to design an efficient controller with proportional and integral action that preserves the passive structure of the model during the closed-loop operation via passivity-based control theory (i.e., a PI-PBC design). At the same time, stability properties in the sense of Lyapunov are ensured. The proposed PI-PBC controller is compared against a nonlinear one based on the exact feedback control (EFC) theory. Numerical simulations in the PLECs software for MATLAB/Simulink reveal the effectiveness of the proposed EFL control in comparison with the EFC design when voltage and power variations are simultaneously tested.

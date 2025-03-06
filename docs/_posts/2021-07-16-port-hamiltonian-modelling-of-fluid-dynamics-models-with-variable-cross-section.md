@@ -5,12 +5,20 @@ date: 2021-07-16 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-fluid-dynamics-models-with-variable-cross-section
 year: 2021
 authors: Harshit Bansal, Hans Zwart, Laura Iapichino, Wil Schilders, Nathan van de Wouw
-category: journal-article
-tag: multi-phase; non-linear; evolutionary equations; varying cross-sections; port-Hamiltonian; Stokes-Dirac structure; dissipation inequality
+category:
+  - proceedings
+tags:
+  - multi-phase
+  - non-linear
+  - evolutionary equations
+  - varying cross-sections
+  - port-hamiltonian
+  - stokes-dirac structure
+  - dissipation inequality
 ---
  
 ## Authors
-[Harshit Bansal](authors/harshit-bansal), [Hans Zwart](authors/hans-zwart), [Laura Iapichino](authors/laura-iapichino), [Wil Schilders](authors/wils-h-a-schilders), [Nathan van de Wouw](authors/nathan-van-de-wouw)
+[Harshit Bansal](authors/harshit_bansal), [Hans Zwart](authors/hans_zwart), [Laura Iapichino](authors/laura_iapichino), [Wil Schilders](authors/wils_h_a_schilders), [Nathan van de Wouw](authors/nathan_van_de_wouw)
  
 ## Abstract
 Many single- and multi-phase fluid dynamical systems are governed by non-linear evolutionary equations. A key aspect of these systems is that the fluid typically flows across spatially and temporally varying cross-sections. We, first, show that not any choice of state-variables may be apt for obtaining a port-Hamiltonian realization under spatially varying cross-section. We propose a modified choice of the state-variables and then represent fluid dynamical systems in port-Hamiltonian representations. We define these port-Hamiltonian representations under spatial variation in the cross-section with respect to a new proposed state-dependent and extended Stokes- Dirac structure. Finally, we account for temporal variations in the cross-section and obtain a suitable structure that respects key properties, such as, for instance, the property of dissipation inequality.
@@ -26,7 +34,7 @@ multi-phase; non-linear; evolutionary equations; varying cross-sections; port-Ha
 - **Pages:** 365--372
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.06.095](https://doi.org/10.1016/j.ifacol.2021.06.095)
-- **Note:** 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020- Cambridge, United Kingdom
+- **Event:** 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020- Cambridge, United Kingdom
  
 ## BibTeX
 {% highlight bibtex %}

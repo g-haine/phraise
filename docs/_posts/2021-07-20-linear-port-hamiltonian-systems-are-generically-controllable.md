@@ -5,11 +5,11 @@ date: 2021-07-20 00:00:00 +0100
 permalink: linear-port-hamiltonian-systems-are-generically-controllable
 year: 2022
 authors: Jonas Kirchhoff
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas-kirchhoff)
+[Jonas Kirchhoff](authors/jonas_kirchhoff)
  
 ## Abstract
 The new concept of relative generic subsets is introduced. It is shown that the set of controllable linear finite-dimensional port-Hamiltonian systems is a relative generic subset of the set of all linear finite-dimensional port-Hamiltonian systems. This implies that a random, continuously distributed port-Hamiltonian system is almost surely controllable.

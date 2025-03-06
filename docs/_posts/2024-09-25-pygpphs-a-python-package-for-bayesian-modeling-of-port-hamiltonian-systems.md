@@ -5,12 +5,16 @@ date: 2024-09-25 00:00:00 +0100
 permalink: pygpphs-a-python-package-for-bayesian-modeling-of-port-hamiltonian-systems
 year: 2024
 authors: Peilun Li, Kaiyuan Tan, Thomas Beckers
-category: journal-article
-tag: port-Hamiltonian systems; physics-informed learning; Gaussian processes
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - physics-informed learning
+  - gaussian processes
 ---
  
 ## Authors
-[Peilun Li](authors/peilun-li), [Kaiyuan Tan](authors/kaiyuan-tan), [Thomas Beckers](authors/thomas-beckers)
+[Peilun Li](authors/peilun_li), [Kaiyuan Tan](authors/kaiyuan_tan), [Thomas Beckers](authors/thomas_beckers)
  
 ## Abstract
 PyGpPHs is a Python toolbox for physics-informed learning of physical systems. Compared to pure data-driven approaches, it relies on solid physics priors based on the Gaussian process port-Hamiltonian systems (GP-PHS) framework. This foundation guarantees that the learning procedure adheres to the fundamental physical laws governing real-world systems. Utilizing the Bayesian learning method, PyGpPHs enables physics-informed predictions with uncertainty quantification, which are based on the posterior distribution over Hamiltonians. The PyGpPHs toolbox is designed to make Bayesian learning with physics prior accessible to the learning and control community. PyGpPHs can be installed through an open-source link 1.
@@ -26,7 +30,7 @@ port-Hamiltonian systems; physics-informed learning; Gaussian processes
 - **Pages:** 54--59
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.256](https://doi.org/10.1016/j.ifacol.2024.08.256)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

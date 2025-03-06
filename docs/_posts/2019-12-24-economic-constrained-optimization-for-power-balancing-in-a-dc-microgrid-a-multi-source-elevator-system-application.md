@@ -5,12 +5,16 @@ date: 2019-12-24 00:00:00 +0100
 permalink: economic-constrained-optimization-for-power-balancing-in-a-dc-microgrid-a-multi-source-elevator-system-application
 year: 2020
 authors: Thanh Hung Pham, Ionela Prodan, Denis Genon-Catalot, Laurent Lefèvre
-category: journal-article
-tag: DC microgrid; Port-Hamiltonian systems on graphs; Model Predictive Control
+category:
+  - articles
+tags:
+  - dc microgrid
+  - port-hamiltonian systems on graphs
+  - model predictive control
 ---
  
 ## Authors
-[Thanh Hung Pham](authors/thanh-hung-pham), [Ionela Prodan](authors/ionela-prodan), [Denis Genon-Catalot](authors/denis-genon-catalot), [Laurent Lefèvre](authors/laurent-lefevre)
+[Thanh Hung Pham](authors/thanh_hung_pham), [Ionela Prodan](authors/ionela_prodan), [Denis Genon-Catalot](authors/denis_genon_catalot), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 This paper considers a discrete-time scheduling method for the power balancing of a continuous-time DC microgrid system. A high-order dynamics and a resistor network are used for modelling the electrical storage unit and the DC bus of the centralized microgrid system, respectively. A PH (Port-Hamiltonian) formulation on graphs is employed to explicitly describe the microgrid topology. This modelling approach allows us to derive a discrete-time model which preserves the power and energy balance of the physical system. Next, a constrained economic MPC (Model Predictive Control) using the proposed control model is formulated for efficiently managing the microgrid operation. The systematic combination of the network modelling method and optimization-based control allows us to generate the appropriate power profiles. Finally, the benefits of the proposed approach are validated through simulation and comparison results over a particular DC microgrid elevator system under different scenarios and using real numerical data.

@@ -5,12 +5,18 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-systems-with-energy-and-power-ports
 year: 2024
 authors: Kaja Krhač, Bernhard Maschke, Arjan van der Schaft
-category: journal-article
-tag: Port-Hamiltonian systems; constrained Hamiltonian systems; input-output systems; Morse families; Lagrangian submanifolds
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - constrained hamiltonian systems
+  - input-output systems
+  - morse families
+  - lagrangian submanifolds
 ---
  
 ## Authors
-[Kaja Krhač](authors/kaja-krhac), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Kaja Krhač](authors/kaja_krhac), [Bernhard Maschke](authors/bernhard_maschke), [Arjan van der Schaft](authors/arjan_van_der_schaft)
  
 ## Abstract
 We extend the port-Hamiltonian framework defined with respect to a Lagrangian submanifold and a Dirac structure by augmenting the Lagrangian submanifold with the space of external variables. The new pair of conjugated variables is called energy port. We show that in the most general case, the extension describes constrained Hamiltonian systems whose Hamiltonian function depends on inputs.
@@ -26,7 +32,7 @@ Port-Hamiltonian systems; constrained Hamiltonian systems; input-output systems;
 - **Pages:** 280--285
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.294](https://doi.org/10.1016/j.ifacol.2024.08.294)
-- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}

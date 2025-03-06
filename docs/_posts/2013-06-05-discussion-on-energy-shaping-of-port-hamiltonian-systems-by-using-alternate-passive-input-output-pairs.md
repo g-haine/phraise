@@ -5,11 +5,11 @@ date: 2013-06-05 00:00:00 +0100
 permalink: discussion-on-energy-shaping-of-port-hamiltonian-systems-by-using-alternate-passive-input-output-pairs
 year: 2010
 authors: Fernando Castaños
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando-castanos)
+[Fernando Castaños](authors/fernando_castanos)
  
 ## Citation
 - **Journal:** European Journal of Control

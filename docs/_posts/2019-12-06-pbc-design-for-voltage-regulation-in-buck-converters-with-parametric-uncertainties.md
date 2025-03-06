@@ -5,11 +5,11 @@ date: 2019-12-06 00:00:00 +0100
 permalink: pbc-design-for-voltage-regulation-in-buck-converters-with-parametric-uncertainties
 year: 2019
 authors: Oscar Danilo Montoya, J. L. Villa, Walter Gil-Gonzale
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[Oscar Danilo Montoya](authors/oscar-danilo-montoya), [J. L. Villa](authors/j-l-villa), [Walter Gil-Gonzale](authors/walter-gil-gonzale)
+[Oscar Danilo Montoya](authors/oscar_danilo_montoya), [J. L. Villa](authors/j_l_villa), [Walter Gil-Gonzale](authors/walter_gil_gonzale)
  
 ## Abstract
 This paper addresses the problem of voltage output regulation in DC Buck converters from the passivity-based control (PBC) point of view. The PBC takes advantage of the natural port-Hamiltonian representation of dynamic equations of the buck converter, to design a feedback controller with proportionalintegral gains, that allows to guarantee stability conditions in the sense of Lyapunov for closed-loop operation. The design of the controller is based on the incremental dynamic model of the buck converter. The PBC approach considers unknown resistive loads in the controller design without degrading the dynamic performance of the controller. In addition, the proposed approach allows to design a controller regardless the buck parameters (capacitance and inductance) which makes it robust to parametric uncertainties. Sliding planes and classical PI control methods are used for comparing the proposed PBC method. All simulations have been performed in MATLAB software by using SymPowerSystems library.

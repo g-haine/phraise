@@ -5,11 +5,11 @@ date: 2020-12-02 00:00:00 +0100
 permalink: a-partitioned-finite-element-method-for-power-preserving-discretization-of-open-systems-of-conservation-laws
 year: 2021
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Laurent Lefèvre
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Laurent Lefèvre](authors/laurent-lefevre)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Laurent Lefèvre](authors/laurent_lefevre)
  
 ## Abstract
 This paper presents a structure-preserving spatial discretization method for distributed parameter port-Hamiltonian systems. The class of considered systems are hyperbolic systems of two conservation laws in arbitrary spatial dimension and geometries. For these systems, a partitioned finite element method (PFEM) is derived, based on the integration by parts of one of the two conservation laws written in weak form. The non-linear one-dimensional shallow-water equation (SWE) is first considered as a motivation example. Then, the method is investigated on the example of the non-linear two-dimensional SWE. Complete derivation of the reduced finite-dimensional port-Hamiltonian system (pHs) is provided and numerical experiments are performed. Extensions to curvilinear (polar) coordinate systems, space-varying coefficients and higher-order pHs (Euler–Bernoulli beam equation) are provided.

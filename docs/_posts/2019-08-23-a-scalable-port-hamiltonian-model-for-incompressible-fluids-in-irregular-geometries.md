@@ -5,12 +5,17 @@ date: 2019-08-23 00:00:00 +0100
 permalink: a-scalable-port-hamiltonian-model-for-incompressible-fluids-in-irregular-geometries
 year: 2019
 authors: Luis A. Mora, Héctor Ramírez, Juan I. Yuz, Yann Le Gorrec
-category: journal-article
-tag: Port-Hamiltonian systems; PDE; approximation of PDEs; computational methods
+category:
+  - proceedings
+tags:
+  - port-hamiltonian systems
+  - pde
+  - approximation of pdes
+  - computational methods
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis-a-mora), [Héctor Ramírez](authors/hector-ramirez), [Juan I. Yuz](authors/juan-i-yuz), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Luis A. Mora](authors/luis_a_mora), [Héctor Ramírez](authors/hector_ramirez), [Juan I. Yuz](authors/juan_i_yuz), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 The behavior of a fluid in pipes with irregular geometries is studied. Departing from the partial differential equations that describe mass and momentum balances a scalable lumped-parameter model is proposed. To this end the framework of port-Hamiltonian systems is instrumental to derive a modular system which upon interconnection describes segments with different cross sections and dissipation effects. In order to perform the interconnection between different segments the incompressibility hypothesis is relaxed in some infinitesimal section to admit density variations and energy transference between segments. Numerical simulations are performed in order to illustrate the model.
@@ -26,7 +31,7 @@ Port-Hamiltonian systems; PDE; approximation of PDEs; computational methods
 - **Pages:** 102--107
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.08.018](https://doi.org/10.1016/j.ifacol.2019.08.018)
-- **Note:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
+- **Event:** 3rd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2019- Oaxaca, Mexico, 20–24 May 2019
  
 ## BibTeX
 {% highlight bibtex %}

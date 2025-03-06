@@ -5,11 +5,11 @@ date: 2015-01-12 00:00:00 +0100
 permalink: notch-filters-for-port-hamiltonian-systems
 year: 2015
 authors: D. A. Dirksz, J. M. A. Scherpen, A. J. van der Schaft, M. Steinbuch
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[D. A. Dirksz](authors/daniel-a-dirksz), [J. M. A. Scherpen](authors/jacquelien-m-a-scherpen), [A. J. van der Schaft](authors/arjan-van-der-schaft), [M. Steinbuch](authors/maarten-steinbuch)
+[D. A. Dirksz](authors/daniel_a_dirksz), [J. M. A. Scherpen](authors/jacquelien_m_a_scherpen), [A. J. van der Schaft](authors/arjan_van_der_schaft), [M. Steinbuch](authors/maarten_steinbuch)
  
 ## Abstract
 Many powerful tools exist for control design in the frequency domain, but are theoretically only justified for linear systems. On the other hand, nonlinear control deals with control design methodologies that are theoretically justified for a larger and more realistic class of systems, but primarily dealing with stability and to a lesser extent with performance. In this technical note a standard linear notch filter is modeled in the port-Hamiltonian (PH) framework, thereby proving that the notch filter is a passive system. The notch filter can then be interconnected with any other (nonlinear) PH system, while preserving the overall passivity property. By doing so, we can combine a frequency-based control method to improve performance, the notch filter, with the nonlinear control methodology of passivity-based control.

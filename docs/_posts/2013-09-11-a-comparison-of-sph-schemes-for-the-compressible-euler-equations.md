@@ -5,12 +5,16 @@ date: 2013-09-11 00:00:00 +0100
 permalink: a-comparison-of-sph-schemes-for-the-compressible-euler-equations
 year: 2014
 authors: Kunal Puri, Prabhu Ramachandran
-category: journal-article
-tag: SPH; Particle method; Euler equations
+category:
+  - articles
+tags:
+  - sph
+  - particle method
+  - euler equations
 ---
  
 ## Authors
-[Kunal Puri](authors/kunal-puri), [Prabhu Ramachandran](authors/prabhu-ramachandran)
+[Kunal Puri](authors/kunal_puri), [Prabhu Ramachandran](authors/prabhu_ramachandran)
  
 ## Abstract
 We review the current state-of-the-art Smoothed Particle Hydrodynamics (SPH) schemes for the compressible Euler equations. We identify three prototypical schemes and apply them to a suite of test problems in one and two dimensions. The schemes are in order, standard SPH with an adaptive density kernel estimation (ADKE) technique introduced Sigalotti et al. (2008) [44], the variational SPH formulation of Price (2012) [33] (referred herein as the MPM scheme) and the Godunov type SPH (GSPH) scheme of Inutsuka (2002) [12]. The tests investigate the accuracy of the inviscid discretizations, shock capturing ability and the particle settling behavior. The schemes are found to produce nearly identical results for the 1D shock tube problems with the MPM and GSPH schemes being the most robust. The ADKE scheme requires parameter values which must be tuned to the problem at hand. We propose an addition of an artificial heating term to the GSPH scheme to eliminate unphysical spikes in the thermal energy at the contact discontinuity. The resulting modification is simple and can be readily incorporated in existing codes. In two dimensions, the differences between the schemes is more evident with the quality of results determined by the particle distribution. In particular, the ADKE scheme shows signs of particle clumping and irregular motion for the 2D strong shock and Sedov point explosion tests. The noise in particle data is linked with the particle distribution which remains regular for the Hamiltonian formulations (MPM and GSPH) and becomes irregular for the ADKE scheme. In the interest of reproducibility, we make available our implementation of the algorithms and test problems discussed in this work.

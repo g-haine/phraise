@@ -5,11 +5,11 @@ date: 2019-05-28 00:00:00 +0100
 permalink: well-posedness-and-stability-of-infinite-dimensional-linear-port-hamiltonian-systems-with-nonlinear-boundary-feedback
 year: 2019
 authors: Björn Augner
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Björn Augner](authors/bjorn-augner)
+[Björn Augner](authors/bjorn_augner)
  
 ## Abstract
 Boundary feedback stabilisation of linear port-Hamiltonian systems on an interval is considered. Generation and stability results already known for linear feedback are extended to nonlinear dissipative feedback, both to static feedback control and dynamic control via an (exponentially stabilising) nonlinear controller. A design method for nonlinear controllers of linear port-Hamiltonian systems is introduced. As a special case the Euler-Bernoulli beam is considered.

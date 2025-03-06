@@ -5,11 +5,11 @@ date: 2006-07-10 00:00:00 +0100
 permalink: port-based-modelling-of-manipulators-with-flexible-links
 year: 2006
 authors: A. Macchelli, S. Stramigioli, C. Melchiorri
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro-macchelli), [S. Stramigioli](authors/stefano-stramigioli), [C. Melchiorri](authors/claudio-melchiorri)
+[A. Macchelli](authors/alessandro_macchelli), [S. Stramigioli](authors/stefano_stramigioli), [C. Melchiorri](authors/claudio_melchiorri)
  
 ## Abstract
 In this paper, the port Hamiltonian model of a manipulator is presented as the result of the power-conserving interconnection of a set of main components (rigid bodies, flexible links and kinematic pairs). Since rigid bodies and flexible links are described within the port Hamiltonian formalism, their interconnection is possible once a proper relation between the power conjugated port variables is deduced. These relations are the analogous of the Kirchoff laws of circuit theory. The final model is a mixed port Hamiltonian system because of the presence of a finite dimensional subsystem modelling the rigid bodies and of an infinite dimensional one describing the flexible links. The intrinsic modularity of the approach simplifies the model deduction and simulation, while the Hamiltonian description suggests the development of energy-based controllers

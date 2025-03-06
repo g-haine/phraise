@@ -5,11 +5,11 @@ date: 2015-07-20 00:00:00 +0100
 permalink: port-hamiltonian-systems-in-adaptive-and-learning-control-a-survey
 year: 2016
 authors: Subramanya P. Nageshrao, Gabriel A. D. Lopes, Dimitri Jeltsema, Robert Babuska
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Subramanya P. Nageshrao](authors/subramanya-p-nageshrao), [Gabriel A. D. Lopes](authors/gabriel-a-d-lopes), [Dimitri Jeltsema](authors/dimitri-jeltsema), [Robert Babuska](authors/robert-babuska)
+[Subramanya P. Nageshrao](authors/subramanya_p_nageshrao), [Gabriel A. D. Lopes](authors/gabriel_a_d_lopes), [Dimitri Jeltsema](authors/dimitri_jeltsema), [Robert Babuska](authors/robert_babuska)
  
 ## Abstract
 Port-Hamiltonian (PH) theory is a novel, but well established modeling framework for nonlinear physical systems. Due to the emphasis on the physical structure and modular framework, PH modeling has become a prime focus in system theory. This has led to a considerable research interest in the control of PH systems, resulting in numerous nonlinear control techniques. General nonlinear control methodologies are classified in a spectrum from model-based to model-free, where adaptation and learning typically lie close to the end of the range. Various articles and monographs have provided a detailed overview of model-based control techniques on PH models, but no survey is specifically dedicated to the learning and adaptive control methods that can benefit from the PH structure. To this end, we provide a comprehensive review of the current learning and adaptive control methodologies that have been adapted specifically to PH systems. After establishing the required theoretical background, we elaborate on various general machine learning, iterative learning, and adaptive control techniques and their application to PH systems. For each method we highlight the changes from the general setting due to PH model, followed by a detailed presentation of the respective control algorithm. In general, the advantages of using PH models in learning and adaptive controllers are: i) Prior knowledge in the form of PH model speeds up the learning. ii) In some instances new stability or convergence guarantees are obtained by having a PH model. iii) The resulting control laws can be interpreted in the context of physical systems. We conclude the paper with notes on open research issues.

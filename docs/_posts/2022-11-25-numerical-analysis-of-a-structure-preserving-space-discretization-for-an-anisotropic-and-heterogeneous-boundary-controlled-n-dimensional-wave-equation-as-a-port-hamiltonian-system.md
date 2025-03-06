@@ -5,11 +5,11 @@ date: 2022-11-25 00:00:00 +0100
 permalink: numerical-analysis-of-a-structure-preserving-space-discretization-for-an-anisotropic-and-heterogeneous-boundary-controlled-n-dimensional-wave-equation-as-a-port-hamiltonian-system
 year: 2022
 authors: Ghislain Haine, Denis Matignon, Anass Serhani
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon), [Anass Serhani](authors/anass-serhani)
+[Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon), [Anass Serhani](authors/anass_serhani)
  
 ## Abstract
 The anisotropic and heterogeneous N-dimensional wave equation, controlled and observed at the boundary, is considered as a port-Hamiltonian system. The recent structure-preserving Partitioned Finite Element Method is applied, leading directly to a finite-dimensional port-Hamiltonian system, and its numerical analysis is done in a general framework, under usual assumptions for finite element. Compatibility conditions are then exhibited to reach the best trade off between the convergence rate and the number of degrees of freedom for both the state error and the Hamiltonian error. Numerical simulations in 2D are performed to illustrate the optimality of the main theorems among several choices of classical finite element families.

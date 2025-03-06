@@ -5,11 +5,11 @@ date: 2010-02-02 00:00:00 +0100
 permalink: structure-preserving-model-reduction-of-complex-physical-systems
 year: 2009
 authors: A.J. van der Schaft, R.V. Polyuga
-category: proceedings-article
+category: proceedings
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft), [R.V. Polyuga](authors/rostyslav-v-polyuga)
+[A.J. van der Schaft](authors/arjan_van_der_schaft), [R.V. Polyuga](authors/rostyslav_v_polyuga)
  
 ## Abstract
 Port-based network modeling of complex physical systems naturally leads to port-Hamiltonian system models. This motivates the search for structure-preserving model reduction methods, which allow one to replace high-dimensional port-Hamiltonian system components by reduced-order ones. In this paper we treat a family of structure-preserving reduction methods for port-Hamiltonian systems, and discuss their relation with projection-based reduction methods for DAEs.

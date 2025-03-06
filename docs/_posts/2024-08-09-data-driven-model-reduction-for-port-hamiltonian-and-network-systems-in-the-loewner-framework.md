@@ -5,12 +5,18 @@ date: 2024-08-09 00:00:00 +0100
 permalink: data-driven-model-reduction-for-port-hamiltonian-and-network-systems-in-the-loewner-framework
 year: 2024
 authors: Alessio Moreschini, Joel D. Simard, Alessandro Astolfi
-category: journal-article
-tag: Model reduction; Loewner framework; Structure preservation; Port-Hamiltonian systems; Network systems
+category:
+  - articles
+tags:
+  - model reduction
+  - loewner framework
+  - structure preservation
+  - port-hamiltonian systems
+  - network systems
 ---
  
 ## Authors
-[Alessio Moreschini](authors/alessio-moreschini), [Joel D. Simard](authors/joel-d-simard), [Alessandro Astolfi](authors/alessandro-astolfi)
+[Alessio Moreschini](authors/alessio_moreschini), [Joel D. Simard](authors/joel_d_simard), [Alessandro Astolfi](authors/alessandro_astolfi)
  
 ## Abstract
 The model reduction problem in the Loewner framework for port-Hamiltonian and network systems on graphs is studied. In particular, given a set of right-tangential interpolation data, the (subset of) left-tangential interpolation data that allow constructing an interpolant possessing a port-Hamiltonian structure is characterized. In addition, conditions under which an interpolant retains the underlying port-Hamiltonian structure of the system generating the data are given by requiring a particular structure of the generalized observability matrix. Ipso facto a characterization of the reduced order model in terms of Dirac structure with the aim of relating the Dirac structure of the underlying port-Hamiltonian system with the Dirac structure of the constructed interpolant is given. This result, in turn, is used to solve the model reduction problem in the Loewner framework for network systems described by a weighted graph. The problem is first solved, for a given clustering, by giving conditions on the right- and left-tangential interpolation data that yield an interpolant possessing a network structure. Thereafter, for given tangential data obtained by sampling an underlying network system, we give conditions under which we can select a clustering and construct a reduced model preserving the network structure. Finally, the results are illustrated by means of a second order diffusively coupled system and a first order network system.

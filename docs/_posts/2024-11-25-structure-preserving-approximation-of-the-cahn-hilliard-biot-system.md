@@ -5,11 +5,11 @@ date: 2024-11-25 00:00:00 +0100
 permalink: structure-preserving-approximation-of-the-cahn-hilliard-biot-system
 year: 2025
 authors: Aaron Brunk, Marvin Fritz
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Aaron Brunk](authors/aaron-brunk), [Marvin Fritz](authors/marvin-fritz)
+[Aaron Brunk](authors/aaron_brunk), [Marvin Fritz](authors/marvin_fritz)
  
 ## Abstract
 In this work, we propose a structure‐preserving discretization for the recently studied Cahn‐Hilliard‐Biot system using conforming finite elements in space and problem‐adapted explicit‐implicit Euler time integration. We prove that the scheme is thermodynamically consistent, that is, the balance of global phase and global volumetric fluid content and the energy dissipation balance. The existence of discrete solutions is established under suitable growth conditions. Furthermore, it is shown that the algorithm can be realized as a splitting method, that is, decoupling the Cahn‐Hilliard subsystem from the poro‐elasticity subsystem, while the first one is nonlinear and the second subsystem is linear. The schemes are illustrated by numerical examples and a convergence test.

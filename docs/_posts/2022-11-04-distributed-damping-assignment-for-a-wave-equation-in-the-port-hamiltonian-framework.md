@@ -5,12 +5,16 @@ date: 2022-11-04 00:00:00 +0100
 permalink: distributed-damping-assignment-for-a-wave-equation-in-the-port-hamiltonian-framework
 year: 2022
 authors: Jeanne Redaud, Jean Auriol, Yann Le Gorrec
-category: journal-article
-tag: infinite dimensional systems; Port-Hamiltonian Systems; backstepping methodology
+category:
+  - proceedings
+tags:
+  - infinite dimensional systems
+  - port-hamiltonian systems
+  - backstepping methodology
 ---
  
 ## Authors
-[Jeanne Redaud](authors/jeanne-redaud), [Jean Auriol](authors/jean-auriol), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Jeanne Redaud](authors/jeanne_redaud), [Jean Auriol](authors/jean_auriol), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
 In this paper, we propose a full state-feedback boundary control strategy for a one-dimensional wave-like equation with spatially varying parameters and indefinite damping coefficient. We consider Dirichlet boundary conditions at one end of the spatial domain and actuation at the other end. The control design relies on the backstepping methodology and aims at assigning the distributed damping (which determines the decay rate of the solutions) of the closed-loop system. The problem is formulated using the port-Hamiltonian system framework that allows the introduction of tuning parameters with clear physical interpretations for both backstepping transformations and achievable closed-loop behavior. The overall design is carried out on the vibrating string system example. Simulations illustrate the performance of the controller.
@@ -26,7 +30,7 @@ infinite dimensional systems; Port-Hamiltonian Systems; backstepping methodology
 - **Pages:** 155--161
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.10.393](https://doi.org/10.1016/j.ifacol.2022.10.393)
-- **Note:** 4th IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2022- Kiel, Germany, September 5-7, 2022
+- **Event:** 4th IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2022- Kiel, Germany, September 5-7, 2022
  
 ## BibTeX
 {% highlight bibtex %}

@@ -5,11 +5,11 @@ date: 2024-12-09 00:00:00 +0100
 permalink: automatic-flow-control-of-water-distribution-systems
 year: 2024
 authors: Richard Perryman, Joshua A. Taylor, Bryan Karney
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Richard Perryman](authors/richard-perryman), [Joshua A. Taylor](authors/joshua-a-taylor), [Bryan Karney](authors/bryan-karney)
+[Richard Perryman](authors/richard_perryman), [Joshua A. Taylor](authors/joshua_a_taylor), [Bryan Karney](authors/bryan_karney)
  
 ## Citation
 - **Journal:** Journal of Hydraulic Research

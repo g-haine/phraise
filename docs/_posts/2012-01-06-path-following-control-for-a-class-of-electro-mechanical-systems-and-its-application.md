@@ -5,11 +5,11 @@ date: 2012-01-06 00:00:00 +0100
 permalink: path-following-control-for-a-class-of-electro-mechanical-systems-and-its-application
 year: 2012
 authors: Mitsuru Taniguchi, Kenji Fujimoto
-category: journal-article
+category: articles
 ---
  
 ## Authors
-[Mitsuru Taniguchi](authors/mitsuru-taniguchi), [Kenji Fujimoto](authors/kenji-fujimoto)
+[Mitsuru Taniguchi](authors/mitsuru_taniguchi), [Kenji Fujimoto](authors/kenji_fujimoto)
  
 ## Abstract
 This paper is devoted to path following control for electro-mechanical systems described by the port-Hamiltonian form. Path following control is investigated mainly for mechanical systems since the desired path is characterized by its ‘position’. Therefore, most of the existing results use the nature of second order differential equations since mechanical systems are described by them. The present paper proposes a new path following controller for 3rd order differential equations described by the port-Hamiltonian form. This is done by generalizing the authors’ former result on passive velocity field control for mechanical systems.
