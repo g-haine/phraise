@@ -5,11 +5,10 @@ date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-the-gradient-method-applied-to-smart-grids
 year: 2015
 authors: T.W. Stegink, C. De Persis, A.J. van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
   - gradient method
-  - port-hamiltonian
+  - port-Hamiltonian
   - passivity
   - convex optimization
   - power networks

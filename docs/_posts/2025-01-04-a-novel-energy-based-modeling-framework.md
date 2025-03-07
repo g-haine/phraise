@@ -5,15 +5,14 @@ date: 2025-01-04 00:00:00 +0100
 permalink: a-novel-energy-based-modeling-framework
 year: 2025
 authors: R. Altmann, P. Schulze
-category:
-  - articles
+category: articles
 tags:
-  - energy-based modeling
-  - dissipation
-  - structure preservation
-  - 37j06
-  - 65p10
-  - 65m60
+  - Energy-based modeling
+  - Dissipation
+  - Structure preservation
+  - 37J06
+  - 65P10
+  - 65M60
 ---
  
 ## Authors

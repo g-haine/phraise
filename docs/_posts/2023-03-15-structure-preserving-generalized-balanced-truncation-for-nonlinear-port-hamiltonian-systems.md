@@ -5,14 +5,13 @@ date: 2023-03-15 00:00:00 +0100
 permalink: structure-preserving-generalized-balanced-truncation-for-nonlinear-port-hamiltonian-systems
 year: 2023
 authors: Arijit Sarkar, Jacquelien M.A. Scherpen
-category:
-  - articles
+category: articles
 tags:
-  - balancing
-  - generalized controllability function and generalized observability function
-  - port-hamiltonian systems
-  - structure-preserving model reduction
-  - nonlinear systems
+  - Balancing
+  - Generalized controllability function and generalized observability function
+  - Port-Hamiltonian systems
+  - Structure-preserving model reduction
+  - Nonlinear systems
 ---
  
 ## Authors

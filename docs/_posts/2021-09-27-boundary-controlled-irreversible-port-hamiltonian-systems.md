@@ -5,12 +5,11 @@ date: 2021-09-27 00:00:00 +0100
 permalink: boundary-controlled-irreversible-port-hamiltonian-systems
 year: 2022
 authors: Hector Ramirez, Yann Le Gorrec, Bernhard Maschke
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - irreversible thermodynamics
-  - infinite dimensional systems
+  - Port-Hamiltonian systems
+  - Irreversible thermodynamics
+  - Infinite dimensional systems
 ---
  
 ## Authors

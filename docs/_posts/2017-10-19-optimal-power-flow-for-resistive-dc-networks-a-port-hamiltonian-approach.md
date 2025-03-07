@@ -5,13 +5,12 @@ date: 2017-10-19 00:00:00 +0100
 permalink: optimal-power-flow-for-resistive-dc-networks-a-port-hamiltonian-approach
 year: 2017
 authors: Ernest Benedito, Dunstano del Puerto-Flores, Arnau Dòria-Cerezo, Jacquelien M.A. Scherpen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - optimal power flow
-  - port-hamiltonian systems
+  - Optimal power flow
+  - port-Hamiltonian systems
   - gradient method
-  - dc networks
+  - DC networks
   - cyclic networks
 ---
  

@@ -5,14 +5,13 @@ date: 2020-07-21 00:00:00 +0100
 permalink: observer-based-boundary-control-of-distributed-port-hamiltonian-systems
 year: 2020
 authors: Jesús Toledo, Yongxin Wu, Héctor Ramírez, Yann Le Gorrec
-category:
-  - articles
+category: articles
 tags:
-  - infinite-dimensional systems
-  - port-hamiltonian systems
-  - boundary control systems
-  - luenberger observer
-  - state feedback
+  - Infinite-dimensional systems
+  - Port-Hamiltonian systems
+  - Boundary control systems
+  - Luenberger observer
+  - State feedback
 ---
  
 ## Authors

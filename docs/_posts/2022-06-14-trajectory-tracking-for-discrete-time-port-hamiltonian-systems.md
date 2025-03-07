@@ -5,8 +5,7 @@ date: 2022-06-14 00:00:00 +0100
 permalink: trajectory-tracking-for-discrete-time-port-hamiltonian-systems
 year: 2022
 authors: Alessandro Macchelli
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

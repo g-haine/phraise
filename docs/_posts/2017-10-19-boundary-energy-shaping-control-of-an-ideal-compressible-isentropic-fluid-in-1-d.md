@@ -5,14 +5,13 @@ date: 2017-10-19 00:00:00 +0100
 permalink: boundary-energy-shaping-control-of-an-ideal-compressible-isentropic-fluid-in-1-d
 year: 2017
 authors: Alessandro Macchelli, Yann Le Gorrec, Héctor Ramírez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed port-hamiltonian systems
+  - distributed port-Hamiltonian systems
   - ideal compressible isentropic fluid
   - boundary control
   - energy-shaping control
-  - stability of pdes
+  - stability of PDEs
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2020-10-05 00:00:00 +0100
 permalink: dynamic-iteration-schemes-and-port-hamiltonian-formulation-in-coupled-differential-algebraic-equation-circuit-simulation
 year: 2021
 authors: Michael Günther, Andreas Bartel, Birgit Jacob, Timo Reis
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

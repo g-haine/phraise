@@ -5,8 +5,7 @@ date: 2022-11-24 00:00:00 +0100
 permalink: direct-power-control-of-a-shunt-active-power-filter-using-a-modified-ida-pbc-approach-with-integral-action
 year: 2023
 authors: Federico M. Serra, Cristian H. De Angelo
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

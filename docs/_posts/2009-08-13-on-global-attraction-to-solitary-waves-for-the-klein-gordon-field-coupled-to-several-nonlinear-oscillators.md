@@ -5,14 +5,13 @@ date: 2009-08-13 00:00:00 +0100
 permalink: on-global-attraction-to-solitary-waves-for-the-klein-gordon-field-coupled-to-several-nonlinear-oscillators
 year: 2010
 authors: Alexander Komech, Andrew Komech
-category:
-  - articles
+category: articles
 tags:
-  - klein–gordon equation
-  - solitary waves
-  - u ( 1 ) -invariance
-  - solitary manifold
-  - nonlinear spectral analysis
+  - Klein–Gordon equation
+  - Solitary waves
+  - U ( 1 ) -invariance
+  - Solitary manifold
+  - Nonlinear spectral analysis
 ---
  
 ## Authors

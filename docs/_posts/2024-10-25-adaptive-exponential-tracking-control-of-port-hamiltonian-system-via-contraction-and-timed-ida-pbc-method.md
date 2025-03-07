@@ -5,14 +5,13 @@ date: 2024-10-25 00:00:00 +0100
 permalink: adaptive-exponential-tracking-control-of-port-hamiltonian-system-via-contraction-and-timed-ida-pbc-method
 year: 2024
 authors: Huimin Zhi, Yanhong Liu, Hongnian Yu
-category:
-  - articles
+category: articles
 tags:
-  - adaptive control
-  - exponential tracking
-  - contraction analysis
-  - port-hamiltonian system
-  - timed ida-pbc method
+  - Adaptive control
+  - Exponential tracking
+  - Contraction analysis
+  - Port-Hamiltonian system
+  - Timed IDA-PBC method
 ---
  
 ## Authors

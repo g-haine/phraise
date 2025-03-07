@@ -5,12 +5,11 @@ date: 2019-12-24 00:00:00 +0100
 permalink: economic-constrained-optimization-for-power-balancing-in-a-dc-microgrid-a-multi-source-elevator-system-application
 year: 2020
 authors: Thanh Hung Pham, Ionela Prodan, Denis Genon-Catalot, Laurent Lefèvre
-category:
-  - articles
+category: articles
 tags:
-  - dc microgrid
-  - port-hamiltonian systems on graphs
-  - model predictive control
+  - DC microgrid
+  - Port-Hamiltonian systems on graphs
+  - Model Predictive Control
 ---
  
 ## Authors

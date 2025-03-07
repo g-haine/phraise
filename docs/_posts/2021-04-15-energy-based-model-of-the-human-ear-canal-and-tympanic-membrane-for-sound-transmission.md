@@ -5,13 +5,12 @@ date: 2021-04-15 00:00:00 +0100
 permalink: energy-based-model-of-the-human-ear-canal-and-tympanic-membrane-for-sound-transmission
 year: 2020
 authors: Milka C.I. Madahana, John E.D. Ekoru, Otis O.T. Nyandoro
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port- hamiltonian
-  - euler bernoulli
+  - Port- Hamiltonian
+  - Euler Bernoulli
   - tympanic membrane
-  - frequency
+  - Frequency
   - occupational
   - ear canal
 ---

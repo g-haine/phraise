@@ -5,8 +5,7 @@ date: 2016-09-27 00:00:00 +0100
 permalink: a-unifying-energy-based-approach-to-stability-of-power-grids-with-market-dynamics
 year: 2017
 authors: Tjerk Stegink, Claudio De Persis, Arjan van der Schaft
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

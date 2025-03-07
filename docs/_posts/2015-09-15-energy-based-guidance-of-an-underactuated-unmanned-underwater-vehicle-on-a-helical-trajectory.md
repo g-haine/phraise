@@ -5,15 +5,14 @@ date: 2015-09-15 00:00:00 +0100
 permalink: energy-based-guidance-of-an-underactuated-unmanned-underwater-vehicle-on-a-helical-trajectory
 year: 2015
 authors: Francis Valentinis, Alejandro Donaire, Tristan Perez
-category:
-  - articles
+category: articles
 tags:
-  - unmanned underwater vehicle
-  - guidance
-  - energy routing
-  - nonlinear systems
-  - energy-based control
-  - port-hamiltonian systems
+  - Unmanned underwater vehicle
+  - Guidance
+  - Energy routing
+  - Nonlinear systems
+  - Energy-based control
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

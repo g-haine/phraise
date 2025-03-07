@@ -5,10 +5,9 @@ date: 2021-04-15 00:00:00 +0100
 permalink: robust-output-regulation-of-a-flexible-satellite
 year: 2020
 authors: Thavamani Govindaraj, Jukka-Pekka Humaloja, Lassi Paunonen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian system
+  - Port-Hamiltonian system
   - stability analysis
   - output regulation
   - distributed parameter systems

@@ -5,14 +5,13 @@ date: 2017-01-07 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-approach-to-modeling-and-analyzing-of-non-isothermal-chemical-reaction-networks
 year: 2016
 authors: Li Wang, Bernhard Maschke, Arjan van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
-  - chemical reaction network
-  - irreversible port hamiltonian systems
-  - equilibrium
-  - lyapunov function
-  - asymptotic stability
+  - Chemical reaction network
+  - Irreversible port Hamiltonian systems
+  - Equilibrium
+  - Lyapunov function
+  - Asymptotic stability
 ---
  
 ## Authors

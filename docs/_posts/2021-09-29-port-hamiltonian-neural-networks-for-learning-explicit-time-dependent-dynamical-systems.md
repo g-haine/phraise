@@ -5,8 +5,7 @@ date: 2021-09-29 00:00:00 +0100
 permalink: port-hamiltonian-neural-networks-for-learning-explicit-time-dependent-dynamical-systems
 year: 2021
 authors: Shaan A. Desai, Marios Mattheakis, David Sondak, Pavlos Protopapas, Stephen J. Roberts
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

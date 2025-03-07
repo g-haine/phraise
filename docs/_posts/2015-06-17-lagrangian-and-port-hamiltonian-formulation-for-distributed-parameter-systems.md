@@ -5,12 +5,11 @@ date: 2015-06-17 00:00:00 +0100
 permalink: lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems
 year: 2015
 authors: M. Schöberl, K. Schlacher
-category:
-  - proceedings
+category: proceedings
 tags:
-  - differential geometric methods
-  - lagrangian and hamiltonian systems
-  - partial differential equations
+  - Differential geometric methods
+  - Lagrangian and Hamiltonian Systems
+  - Partial differential equations
 ---
  
 ## Authors

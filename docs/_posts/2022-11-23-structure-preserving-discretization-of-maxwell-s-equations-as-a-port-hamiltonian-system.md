@@ -5,14 +5,13 @@ date: 2022-11-23 00:00:00 +0100
 permalink: structure-preserving-discretization-of-maxwell-s-equations-as-a-port-hamiltonian-system
 year: 2022
 authors: Ghislain Haine, Denis Matignon, Florian Monteghetti
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - structure-preserving method
-  - maxwell's equations
-  - charge preservation
-  - impedance boundary condition
+  - Port-Hamiltonian systems
+  - Structure-preserving method
+  - Maxwell's equations
+  - Charge preservation
+  - Impedance boundary condition
 ---
  
 ## Authors

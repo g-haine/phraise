@@ -5,8 +5,7 @@ date: 2024-03-05 00:00:00 +0100
 permalink: canonical-equations-of-hamilton-with-symmetry-and-their-applications
 year: 2024
 authors: Guo Liang, Xiangwei Chen, Zhanmei Ren, Qi Guo
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

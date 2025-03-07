@@ -5,14 +5,13 @@ date: 2018-10-16 00:00:00 +0100
 permalink: generalized-port-hamiltonian-dae-systems
 year: 2018
 authors: Arjan van der Schaft, Bernhard Maschke
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - algebraic constraint
-  - dirac structure
-  - lagrangian subspace
-  - dae system
+  - Port-Hamiltonian system
+  - Algebraic constraint
+  - Dirac structure
+  - Lagrangian subspace
+  - DAE system
 ---
  
 ## Authors

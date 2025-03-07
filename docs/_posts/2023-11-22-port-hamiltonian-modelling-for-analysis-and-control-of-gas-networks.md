@@ -5,13 +5,12 @@ date: 2023-11-22 00:00:00 +0100
 permalink: port-hamiltonian-modelling-for-analysis-and-control-of-gas-networks
 year: 2023
 authors: Albertus J. Malan, Lukas Rausche, Felix Strehle, Sören Hohmann
-category:
-  - proceedings
+category: proceedings
 tags:
   - electrical analogy
   - gas pipeline
   - network modeling
-  - port-hamiltonian modeling
+  - port-Hamiltonian modeling
 ---
  
 ## Authors

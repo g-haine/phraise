@@ -5,14 +5,13 @@ date: 2019-08-23 00:00:00 +0100
 permalink: partitioned-finite-element-method-for-the-mindlin-plate-as-a-port-hamiltonian-system
 year: 2019
 authors: Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems (phs)
-  - geometric discretization
-  - mindlin-reissner plate
-  - partitioned finite element method (pfem)
-  - symplectic integration
+  - Port-Hamiltonian systems (pHs)
+  - Geometric Discretization
+  - Mindlin-Reissner Plate
+  - Partitioned Finite Element Method (PFEM)
+  - Symplectic Integration
 ---
  
 ## Authors

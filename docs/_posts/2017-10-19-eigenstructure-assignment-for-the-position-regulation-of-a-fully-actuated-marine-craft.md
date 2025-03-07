@@ -5,12 +5,11 @@ date: 2017-10-19 00:00:00 +0100
 permalink: eigenstructure-assignment-for-the-position-regulation-of-a-fully-actuated-marine-craft
 year: 2017
 authors: Christina Kazantzidou, Tristan Perez, Francis Valentinis
-category:
-  - proceedings
+category: proceedings
 tags:
-  - marine control systems
-  - port-hamiltonian systems
-  - eigenstructure assignment
+  - Marine Control Systems
+  - Port-Hamiltonian Systems
+  - Eigenstructure Assignment
 ---
  
 ## Authors

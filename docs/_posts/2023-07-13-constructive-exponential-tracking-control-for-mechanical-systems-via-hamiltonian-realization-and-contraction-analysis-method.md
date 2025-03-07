@@ -5,15 +5,14 @@ date: 2023-07-13 00:00:00 +0100
 permalink: constructive-exponential-tracking-control-for-mechanical-systems-via-hamiltonian-realization-and-contraction-analysis-method
 year: 2023
 authors: Huimin Zhi, Jumei Wei, Yanhong Liu, Shuai Ding, David H. Owens
-category:
-  - articles
+category: articles
 tags:
-  - trajectory tracking control
-  - port-hamiltonian system
-  - hamiltonian realization
-  - contraction analysis
-  - manipulator system
-  - double inverted pendulum system
+  - Trajectory tracking control
+  - Port-Hamiltonian system
+  - Hamiltonian realization
+  - Contraction analysis
+  - Manipulator system
+  - Double inverted pendulum system
 ---
  
 ## Authors

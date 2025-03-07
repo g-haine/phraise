@@ -5,14 +5,13 @@ date: 2021-11-19 00:00:00 +0100
 permalink: incompressible-navier-stokes-equation-as-port-hamiltonian-systems-velocity-formulation-versus-vorticity-formulation
 year: 2021
 authors: Ghislain Haine, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - navier-stokes equations (nse)
-  - port-hamiltonian systems (phs)
-  - incompressible fluid
+  - Navier-Stokes Equations (NSE)
+  - Port-Hamiltonian systems (pHs)
+  - Incompressible fluid
   - vorticity
-  - partitioned finite element method (pfem)
+  - Partitioned Finite Element Method (PFEM)
 ---
  
 ## Authors

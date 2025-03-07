@@ -5,8 +5,7 @@ date: 2012-09-11 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-image-based-visual-servo-control-for-dynamic-systems
 year: 2012
 authors: Robert Mahony, Stefano Stramigioli
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

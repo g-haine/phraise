@@ -5,8 +5,7 @@ date: 2015-01-12 00:00:00 +0100
 permalink: notch-filters-for-port-hamiltonian-systems
 year: 2015
 authors: D. A. Dirksz, J. M. A. Scherpen, A. J. van der Schaft, M. Steinbuch
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

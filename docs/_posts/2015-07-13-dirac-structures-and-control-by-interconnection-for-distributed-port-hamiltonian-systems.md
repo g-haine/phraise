@@ -5,14 +5,13 @@ date: 2015-07-13 00:00:00 +0100
 permalink: dirac-structures-and-control-by-interconnection-for-distributed-port-hamiltonian-systems
 year: 2015
 authors: Alessandro Macchelli
-category:
-  - chapters
+category: chapters
 tags:
-  - resistive structure
-  - shallow water equation
-  - resistive relation
-  - structural invariant
-  - dirac structure
+  - Resistive Structure
+  - Shallow Water Equation
+  - Resistive Relation
+  - Structural Invariant
+  - Dirac Structure
 ---
  
 ## Authors

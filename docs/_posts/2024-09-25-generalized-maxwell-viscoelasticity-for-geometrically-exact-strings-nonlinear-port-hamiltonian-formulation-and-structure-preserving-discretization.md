@@ -5,11 +5,10 @@ date: 2024-09-25 00:00:00 +0100
 permalink: generalized-maxwell-viscoelasticity-for-geometrically-exact-strings-nonlinear-port-hamiltonian-formulation-and-structure-preserving-discretization
 year: 2024
 authors: P.L. Kinon, T. Thoma, P. Betsch, P. Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - nonlinear port-hamiltonian systems
-  - generalized maxwell model
+  - Nonlinear port-Hamiltonian systems
+  - generalized Maxwell model
   - structure-preserving discretization
   - mixed finite elements
   - discrete gradients

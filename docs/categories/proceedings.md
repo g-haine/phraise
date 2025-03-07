@@ -1,8 +1,7 @@
 ---
 layout: category
 title: Proceedings
-category:
-  - proceedings
+category: proceedings
 permalink: /categories/proceedings
 ---
 

@@ -5,13 +5,12 @@ date: 2015-11-10 00:00:00 +0100
 permalink: power-preserving-model-reduction-of-2d-vibro-acoustic-system-a-port-hamiltonian-approach
 year: 2015
 authors: Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - mixed elements finite method
-  - spatial discretization
-  - port hamiltonian system
-  - 2d vibro-acoustic system
+  - Mixed elements finite method
+  - Spatial discretization
+  - Port Hamiltonian system
+  - 2D vibro-acoustic system
 ---
  
 ## Authors

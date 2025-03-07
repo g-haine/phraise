@@ -5,13 +5,12 @@ date: 2019-08-18 00:00:00 +0100
 permalink: a-partitioned-finite-element-method-for-the-structure-preserving-discretization-of-damped-infinite-dimensional-port-hamiltonian-systems-with-boundary-control
 year: 2019
 authors: Anass Serhani, Denis Matignon, Ghislain Haine
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - dissipation
-  - structure preserving method
-  - partitioned finite element method
+  - Port-Hamiltonian systems
+  - Dissipation
+  - Structure preserving method
+  - Partitioned Finite Element Method
 ---
  
 ## Authors

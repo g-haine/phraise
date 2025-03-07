@@ -5,10 +5,9 @@ date: 2022-11-23 00:00:00 +0100
 permalink: port-hamiltonian-fe-models-for-filaments
 year: 2022
 authors: Tobias Thoma, Paul Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - mixed finite elements
   - geometrically nonlinear mechanical systems
   - structure preserving discretization

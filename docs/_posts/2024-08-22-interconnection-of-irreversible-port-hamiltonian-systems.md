@@ -5,14 +5,13 @@ date: 2024-08-22 00:00:00 +0100
 permalink: interconnection-of-irreversible-port-hamiltonian-systems
 year: 2024
 authors: Hector Ramirez, Yann Le Gorrec
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - irreversible thermodynamics
-  - thermo-mechanical systems
-  - port-based modeling
-  - state modulated output feedback
+  - Port-Hamiltonian systems
+  - Irreversible thermodynamics
+  - Thermo-mechanical systems
+  - Port-based modeling
+  - State modulated output feedback
 ---
  
 ## Authors

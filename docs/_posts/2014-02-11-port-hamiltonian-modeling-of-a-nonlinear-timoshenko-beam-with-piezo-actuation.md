@@ -5,8 +5,7 @@ date: 2014-02-11 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-a-nonlinear-timoshenko-beam-with-piezo-actuation
 year: 2014
 authors: Thomas Voß, Jacquelien M. A. Scherpen
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,10 +5,9 @@ date: 2022-11-23 00:00:00 +0100
 permalink: optimal-control-of-thermodynamic-port-hamiltonian-systems
 year: 2022
 authors: Bernhard Maschke, Friedrich Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - irreversible thermodynamic systems
   - optimal control
   - manifold turnpike

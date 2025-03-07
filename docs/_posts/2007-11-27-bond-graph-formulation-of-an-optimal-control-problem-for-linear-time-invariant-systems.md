@@ -5,14 +5,13 @@ date: 2007-11-27 00:00:00 +0100
 permalink: bond-graph-formulation-of-an-optimal-control-problem-for-linear-time-invariant-systems
 year: 2008
 authors: Wilfrid Marquis-Favre, Omar Mouhib, Bogdan Chereji, Daniel Thomasset, Jérôme Pousin, Martine Picq
-category:
-  - articles
+category: articles
 tags:
-  - optimal control
-  - bond graph
-  - pontryagin maximum principle
-  - port-hamiltonian system
-  - bicausality
+  - Optimal control
+  - Bond graph
+  - Pontryagin maximum principle
+  - Port-Hamiltonian system
+  - Bicausality
 ---
  
 ## Authors

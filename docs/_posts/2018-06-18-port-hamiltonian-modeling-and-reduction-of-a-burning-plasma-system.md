@@ -5,14 +5,13 @@ date: 2018-06-18 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-reduction-of-a-burning-plasma-system
 year: 2018
 authors: Benjamin Vincent, Trang Vu, Nicolas Hudon, Laurent Lefèvre, Denis Dochain
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - tokamak reactors
-  - modeling
-  - model reduction
-  - irreversible thermodynamics
+  - Port-Hamiltonian systems
+  - Tokamak reactors
+  - Modeling
+  - Model reduction
+  - Irreversible thermodynamics
 ---
  
 ## Authors

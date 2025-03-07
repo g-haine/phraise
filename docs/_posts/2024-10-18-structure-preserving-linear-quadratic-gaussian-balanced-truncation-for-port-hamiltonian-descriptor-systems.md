@@ -5,14 +5,13 @@ date: 2024-10-18 00:00:00 +0100
 permalink: structure-preserving-linear-quadratic-gaussian-balanced-truncation-for-port-hamiltonian-descriptor-systems
 year: 2025
 authors: Tobias Breiten, Philipp Schulze
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - model order reduction
-  - lqg control design
-  - error bounds
-  - descriptor systems
+  - Port-Hamiltonian systems
+  - Model order reduction
+  - LQG control design
+  - Error bounds
+  - Descriptor systems
 ---
  
 ## Authors

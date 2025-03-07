@@ -5,15 +5,14 @@ date: 2021-04-13 00:00:00 +0100
 permalink: structural-identifiability-of-linear-port-hamiltonian-systems
 year: 2021
 authors: Silviu Medianu, Laurent Lefèvre
-category:
-  - articles
+category: articles
 tags:
-  - port hamiltonian systems
-  - lti systems
-  - structural identifiability
-  - port-observability
-  - global–local identifiability
-  - port-identifiability
+  - Port Hamiltonian systems
+  - LTI systems
+  - Structural identifiability
+  - Port-observability
+  - Global–local identifiability
+  - Port-identifiability
 ---
  
 ## Authors

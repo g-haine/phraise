@@ -5,11 +5,10 @@ date: 2018-06-18 00:00:00 +0100
 permalink: modelling-and-control-of-a-class-of-lumped-beam-with-distributed-control
 year: 2018
 authors: Andrea Mattioni, Yongxin Wu, Hector Ramirez, Yann Le Gorrec, Alessandro Macchelli
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian system
-  - ida-pbc
+  - Port-Hamiltonian system
+  - IDA-PBC
   - medical endoscope
   - actuated beam
 ---

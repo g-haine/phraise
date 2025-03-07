@@ -5,12 +5,11 @@ date: 2014-10-26 00:00:00 +0100
 permalink: passivity-based-control-for-multi-vehicle-systems-subject-to-string-constraints
 year: 2014
 authors: Steffi Knorn, Alejandro Donaire, Juan C. Agüero, Richard H. Middleton
-category:
-  - articles
+category: articles
 tags:
-  - hamiltonian systems
-  - string stability
-  - multi-vehicle systems
+  - Hamiltonian systems
+  - String stability
+  - Multi-vehicle systems
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2023-11-22 00:00:00 +0100
 permalink: further-result-on-fast-search-method-for-nmpcs-by-mixed-objective-physical-nondimensionalizations-for-mechatonic-systems
 year: 2023
 authors: Satoru Sakai, Takumu Takagi, Kohei Sawada, Tomoya Yokogawa, Ryo Arai
-category:
-  - proceedings
+category: proceedings
 tags:
   - nondimensionalization
   - nonlinear model predictive control
-  - port-hamiltonian modeling
+  - port-Hamiltonian modeling
 ---
  
 ## Authors

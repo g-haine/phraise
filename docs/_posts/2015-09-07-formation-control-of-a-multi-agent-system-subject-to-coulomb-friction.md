@@ -5,13 +5,12 @@ date: 2015-09-07 00:00:00 +0100
 permalink: formation-control-of-a-multi-agent-system-subject-to-coulomb-friction
 year: 2015
 authors: Matin Jafarian, Ewoud Vos, Claudio De Persis, Arjan J. van der Schaft, Jacquelien M.A. Scherpen
-category:
-  - articles
+category: articles
 tags:
-  - discontinuous dynamical systems
-  - nonsmooth analysis
-  - multi-agent systems
-  - port-hamiltonian systems
+  - Discontinuous dynamical systems
+  - Nonsmooth analysis
+  - Multi-agent systems
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

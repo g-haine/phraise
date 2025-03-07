@@ -5,8 +5,7 @@ date: 2025-01-20 00:00:00 +0100
 permalink: hidden-regularity-in-singular-optimal-control-of-port-hamiltonian-systems
 year: 2025
 authors: Timm Faulwasser, Jonas Kirchhoff, Volker Mehrmann, Friedrich Philipp, Manuel Schaller, Karl Worthmann
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

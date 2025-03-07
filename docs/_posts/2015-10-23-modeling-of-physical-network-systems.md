@@ -5,14 +5,13 @@ date: 2015-10-23 00:00:00 +0100
 permalink: modeling-of-physical-network-systems
 year: 2017
 authors: Arjan van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
-  - physical network
-  - laplacian matrix
-  - matrix tree theorem
-  - port-hamiltonian system
-  - available storage
+  - Physical network
+  - Laplacian matrix
+  - Matrix Tree theorem
+  - Port-Hamiltonian system
+  - Available storage
 ---
  
 ## Authors

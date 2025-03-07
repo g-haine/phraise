@@ -5,11 +5,10 @@ date: 2024-09-25 00:00:00 +0100
 permalink: remarks-on-the-geometric-structure-of-port-hamiltonian-systems
 year: 2024
 authors: Jonas Kirchhoff, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dirac structures
-  - port-hamiltonian systems
+  - Dirac structures
+  - port-Hamiltonian systems
   - nonlinear systems
   - geometrical methods
 ---

@@ -5,8 +5,7 @@ date: 2020-05-12 00:00:00 +0100
 permalink: on-matched-disturbance-suppression-for-port-hamiltonian-systems
 year: 2020
 authors: Joel Ferguson, Dongjun Wu, Romeo Ortega
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

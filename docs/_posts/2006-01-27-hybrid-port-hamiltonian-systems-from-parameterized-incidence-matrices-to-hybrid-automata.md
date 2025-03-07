@@ -5,17 +5,16 @@ date: 2006-01-27 00:00:00 +0100
 permalink: hybrid-port-hamiltonian-systems-from-parameterized-incidence-matrices-to-hybrid-automata
 year: 2006
 authors: C. Valentin, M. Magos, B. Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - hybrid dynamical systems
-  - modeling
-  - hybrid automata
-  - dynamic network graph
-  - incidence matrix
-  - analysis
-  - admissible configurations
-  - constrained configurations
+  - Hybrid dynamical systems
+  - Modeling
+  - Hybrid automata
+  - Dynamic network graph
+  - Incidence matrix
+  - Analysis
+  - Admissible configurations
+  - Constrained configurations
 ---
  
 ## Authors

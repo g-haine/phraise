@@ -5,13 +5,12 @@ date: 2010-11-22 00:00:00 +0100
 permalink: passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces
 year: 2010
 authors: Thomas Wolf, Boris Lohmann, Rudy Eid, Paul Kotyczka
-category:
-  - articles
+category: articles
 tags:
-  - order reduction
-  - port-hamiltonian systems
-  - structure preserving
-  - moment matching
+  - Order reduction
+  - Port-Hamiltonian systems
+  - Structure preserving
+  - Moment matching
 ---
  
 ## Authors

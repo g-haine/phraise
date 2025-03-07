@@ -5,15 +5,14 @@ date: 2024-09-25 00:00:00 +0100
 permalink: time-space-formulation-of-a-conservative-string-subject-to-finite-transformations
 year: 2024
 authors: David Roze, Thomas Hélie, Emmanuelle Rouhaud
-category:
-  - proceedings
+category: proceedings
 tags:
-  - string vibrations
-  - finite-transformations
-  - conservation laws
-  - hamiltonian dynamics
-  - geometric mechanics
-  - time-space formulation
+  - String vibrations
+  - Finite-transformations
+  - Conservation laws
+  - Hamiltonian dynamics
+  - Geometric mechanics
+  - Time-space formulation
 ---
  
 ## Authors

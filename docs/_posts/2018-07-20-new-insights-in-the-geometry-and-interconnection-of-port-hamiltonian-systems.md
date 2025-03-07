@@ -5,8 +5,7 @@ date: 2018-07-20 00:00:00 +0100
 permalink: new-insights-in-the-geometry-and-interconnection-of-port-hamiltonian-systems
 year: 2018
 authors: M Barbero-Liñán, H Cendra, E García-Toraño Andrés, D Martín de Diego
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

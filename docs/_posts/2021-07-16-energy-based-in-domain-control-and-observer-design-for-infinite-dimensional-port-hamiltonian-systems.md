@@ -5,13 +5,12 @@ date: 2021-07-16 00:00:00 +0100
 permalink: energy-based-in-domain-control-and-observer-design-for-infinite-dimensional-port-hamiltonian-systems
 year: 2021
 authors: Tobias Malzer, Jesús Toledo, Yann Le Gorrec, Markus Schöberl
-category:
-  - proceedings
+category: proceedings
 tags:
   - infinite-dimensional systems
   - partial differential equations
   - in-domain actuation
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - structural invariants
 ---
  

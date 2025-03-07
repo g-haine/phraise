@@ -5,10 +5,9 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-simple-robust-controller-for-port-hamiltonian-systems
 year: 2018
 authors: Lassi Paunonen, Yann Le Gorrec, Héctor Ramírez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian system
+  - Port-Hamiltonian system
   - robust output regulation
   - controller design
 ---

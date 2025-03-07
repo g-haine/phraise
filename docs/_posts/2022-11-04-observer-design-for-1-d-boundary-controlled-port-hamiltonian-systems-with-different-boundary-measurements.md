@@ -5,14 +5,13 @@ date: 2022-11-04 00:00:00 +0100
 permalink: observer-design-for-1-d-boundary-controlled-port-hamiltonian-systems-with-different-boundary-measurements
 year: 2022
 authors: Jesus Toledo, Yongxin Wu, Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed port-hamiltonian systems
-  - observer design
-  - boundary measurements
-  - exponential stability
-  - asymptotic stability
+  - Distributed port-Hamiltonian systems
+  - Observer design
+  - Boundary measurements
+  - Exponential stability
+  - Asymptotic stability
 ---
  
 ## Authors

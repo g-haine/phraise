@@ -5,15 +5,14 @@ date: 2022-08-04 00:00:00 +0100
 permalink: a-3d-sph-based-entirely-lagrangian-meshfree-hydroelastic-fsi-solver-for-anisotropic-composite-structures
 year: 2022
 authors: Abbas Khayyer, Yuma Shimizu, Hitoshi Gotoh, Shunsuke Hattori
-category:
-  - articles
+category: articles
 tags:
-  - hydroelastic fluid-structure interaction
-  - incompressible sph
-  - hamiltonian sph
-  - anisotropic materials
-  - composite structures
-  - three-dimensional simulations
+  - Hydroelastic fluid-structure interaction
+  - Incompressible sph
+  - Hamiltonian sph
+  - Anisotropic materials
+  - Composite structures
+  - Three-dimensional simulations
 ---
  
 ## Authors

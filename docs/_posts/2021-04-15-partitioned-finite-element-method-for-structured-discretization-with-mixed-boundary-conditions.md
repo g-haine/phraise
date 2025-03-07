@@ -5,13 +5,12 @@ date: 2021-04-15 00:00:00 +0100
 permalink: partitioned-finite-element-method-for-structured-discretization-with-mixed-boundary-conditions
 year: 2020
 authors: Andrea Brugnoli, Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Paul Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - aeroacoustics
-  - port-hamiltonian systems (phs)
-  - partitioned finite element method (pfem)
-  - mixed boundary control
+  - Aeroacoustics
+  - port-Hamiltonian systems (pHs)
+  - Partitioned Finite Element Method (PFEM)
+  - Mixed Boundary Control
 ---
  
 ## Authors

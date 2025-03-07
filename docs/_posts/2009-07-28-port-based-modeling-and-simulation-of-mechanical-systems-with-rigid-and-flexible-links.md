@@ -5,8 +5,7 @@ date: 2009-07-28 00:00:00 +0100
 permalink: port-based-modeling-and-simulation-of-mechanical-systems-with-rigid-and-flexible-links
 year: 2009
 authors: A. Macchelli, C. Melchiorri, S. Stramigioli
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

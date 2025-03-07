@@ -5,13 +5,12 @@ date: 2012-07-25 00:00:00 +0100
 permalink: port-hamiltonian-discretization-for-open-channel-flows
 year: 2012
 authors: R. Pasumarthy, V.R. Ambati, A.J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - shallow water equations
-  - port-hamiltonian
-  - stokes–dirac structure
-  - numerical discretization
+  - Shallow water equations
+  - Port-Hamiltonian
+  - Stokes–Dirac structure
+  - Numerical discretization
 ---
  
 ## Authors

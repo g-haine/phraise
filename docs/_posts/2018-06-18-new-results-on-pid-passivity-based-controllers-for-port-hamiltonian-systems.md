@@ -5,11 +5,10 @@ date: 2018-06-18 00:00:00 +0100
 permalink: new-results-on-pid-passivity-based-controllers-for-port-hamiltonian-systems
 year: 2018
 authors: Pablo Borja, Romeo Ortega, Emmanuel Nuño
-category:
-  - proceedings
+category: proceedings
 tags:
-  - passivity-based control
-  - port-hamiltonian systems
+  - Passivity-based control
+  - port-Hamiltonian systems
   - stabilization
   - nonlinear systems
 ---

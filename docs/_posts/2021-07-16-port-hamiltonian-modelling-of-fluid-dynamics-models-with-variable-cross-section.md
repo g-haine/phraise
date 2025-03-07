@@ -5,15 +5,14 @@ date: 2021-07-16 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-fluid-dynamics-models-with-variable-cross-section
 year: 2021
 authors: Harshit Bansal, Hans Zwart, Laura Iapichino, Wil Schilders, Nathan van de Wouw
-category:
-  - proceedings
+category: proceedings
 tags:
   - multi-phase
   - non-linear
   - evolutionary equations
   - varying cross-sections
-  - port-hamiltonian
-  - stokes-dirac structure
+  - port-Hamiltonian
+  - Stokes-Dirac structure
   - dissipation inequality
 ---
  

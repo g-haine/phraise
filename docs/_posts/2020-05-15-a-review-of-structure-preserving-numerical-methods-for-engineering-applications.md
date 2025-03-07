@@ -5,15 +5,14 @@ date: 2020-05-15 00:00:00 +0100
 permalink: a-review-of-structure-preserving-numerical-methods-for-engineering-applications
 year: 2020
 authors: Harsh Sharma, Mayuresh Patil, Craig Woolsey
-category:
-  - articles
+category: articles
 tags:
-  - structure-preserving numerical methods
-  - engineering applications
-  - geometric numerical integration
-  - variational integrators
-  - energy–momentum integrators
-  - lie group methods
+  - Structure-preserving numerical methods
+  - Engineering applications
+  - Geometric numerical integration
+  - Variational integrators
+  - Energy–momentum integrators
+  - Lie group methods
 ---
  
 ## Authors

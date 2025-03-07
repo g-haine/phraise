@@ -5,15 +5,14 @@ date: 2018-04-05 00:00:00 +0100
 permalink: a-distributed-passivity-approach-to-auv-teams-control-in-cooperating-potential-games
 year: 2018
 authors: Filippo Fabiani, Davide Fenucci, Andrea Caiti
-category:
-  - articles
+category: articles
 tags:
-  - autonomous vehicles
-  - cooperation
-  - distributed control
-  - passivity
-  - port-hamiltonian
-  - potential games
+  - Autonomous vehicles
+  - Cooperation
+  - Distributed control
+  - Passivity
+  - Port-Hamiltonian
+  - Potential games
 ---
  
 ## Authors

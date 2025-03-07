@@ -5,12 +5,11 @@ date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-formulation-for-higher-order-pdes
 year: 2015
 authors: M. Schöberl, K. Schlacher
-category:
-  - proceedings
+category: proceedings
 tags:
-  - differential geometric methods
-  - hamiltonian systems
-  - partial differential equations
+  - Differential geometric methods
+  - Hamiltonian Systems
+  - Partial differential equations
 ---
  
 ## Authors

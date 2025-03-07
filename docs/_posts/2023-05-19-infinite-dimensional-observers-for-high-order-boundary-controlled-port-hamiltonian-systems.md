@@ -5,15 +5,14 @@ date: 2023-05-19 00:00:00 +0100
 permalink: infinite-dimensional-observers-for-high-order-boundary-controlled-port-hamiltonian-systems
 year: 2023
 authors: Jesus-Pablo Toledo-Zucco, Yongxin Wu, Hector Ramirez, Yann Le Gorrec
-category:
-  - articles
+category: articles
 ---
  
 ## Authors
 [Jesus-Pablo Toledo-Zucco](authors/jesus_pablo_toledo_zucco), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
  
 ## Abstract
-This letter investigates the design of a class of infinite-dimensional observers for one dimensional (1D) boundary controlled port-Hamiltonian systems (BC-PHS) defined by differential operators of order  \( N \geq 1 \) . The convergence of the proposed observer depends on the number and location of available boundary measurements. Asymptotic convergence is assured for  \( N\geq 1 \) , and provided that enough boundary measurements are available, exponential convergence can be assured for the cases  \( N=1 \)  and  \( N=2 \) . Furthermore, in the case of partitioned BC-PHS with  \( N=2 \) , such as the Euler-Bernoulli beam, it is shown that exponential convergence can be assured considering less available measurements. The Euler-Bernoulli beam model is used to illustrate the design of the proposed observers and to perform numerical simulations.
+This letter investigates the design of a class of infinite-dimensional observers for one dimensional (1D) boundary controlled port-Hamiltonian systems (BC-PHS) defined by differential operators of order  \\( N \geq 1 \\) . The convergence of the proposed observer depends on the number and location of available boundary measurements. Asymptotic convergence is assured for  \\( N\geq 1 \\) , and provided that enough boundary measurements are available, exponential convergence can be assured for the cases  \\( N=1 \\)  and  \\( N=2 \\) . Furthermore, in the case of partitioned BC-PHS with  \\( N=2 \\) , such as the Euler-Bernoulli beam, it is shown that exponential convergence can be assured considering less available measurements. The Euler-Bernoulli beam model is used to illustrate the design of the proposed observers and to perform numerical simulations.
  
 ## Citation
 - **Journal:** IEEE Control Systems Letters

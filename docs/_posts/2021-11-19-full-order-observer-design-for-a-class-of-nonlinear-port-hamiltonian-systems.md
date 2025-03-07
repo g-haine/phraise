@@ -5,10 +5,9 @@ date: 2021-11-19 00:00:00 +0100
 permalink: full-order-observer-design-for-a-class-of-nonlinear-port-hamiltonian-systems
 year: 2021
 authors: Martin Pfeifer, Sven Caspart, Felix Strehle, Sören Hohmann
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - observer design
   - nonlinear systems
   - state estimation

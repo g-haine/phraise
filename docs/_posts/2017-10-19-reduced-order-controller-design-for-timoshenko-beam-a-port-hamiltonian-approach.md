@@ -5,13 +5,12 @@ date: 2017-10-19 00:00:00 +0100
 permalink: reduced-order-controller-design-for-timoshenko-beam-a-port-hamiltonian-approach
 year: 2017
 authors: Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian systems
+  - Port Hamiltonian systems
   - distributed control
-  - hyperbolic pdes
-  - lqg method
+  - Hyperbolic PDEs
+  - LQG method
   - passivity preserving reduction
   - reduced order control design
 ---

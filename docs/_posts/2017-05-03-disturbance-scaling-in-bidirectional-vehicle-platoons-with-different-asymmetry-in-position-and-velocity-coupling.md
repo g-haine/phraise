@@ -5,14 +5,13 @@ date: 2017-05-03 00:00:00 +0100
 permalink: disturbance-scaling-in-bidirectional-vehicle-platoons-with-different-asymmetry-in-position-and-velocity-coupling
 year: 2017
 authors: Ivo Herman, Steffi Knorn, Anders Ahlén
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - vehicular platoons
-  - multi-vehicle systems
-  - scaling
-  - asymmetry
+  - Port-Hamiltonian systems
+  - Vehicular platoons
+  - Multi-vehicle systems
+  - Scaling
+  - Asymmetry
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2011-10-08 00:00:00 +0100
 permalink: stabilization-and-shape-control-of-a-1d-piezoelectric-timoshenko-beam
 year: 2011
 authors: T. Voß, J.M.A. Scherpen
-category:
-  - articles
+category: articles
 tags:
-  - infinite dimensional systems
-  - port-hamiltonian
-  - passivity-based control
-  - piezoelectric beam
+  - Infinite dimensional systems
+  - Port-Hamiltonian
+  - Passivity-based control
+  - Piezoelectric beam
 ---
  
 ## Authors

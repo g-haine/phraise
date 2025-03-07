@@ -5,8 +5,7 @@ date: 2005-04-01 00:00:00 +0100
 permalink: multi-variable-port-hamiltonian-model-of-piezoelectric-material
 year: 2005
 authors: A. Macchelli, A.J. van der Schaft, C. Melchiorri
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

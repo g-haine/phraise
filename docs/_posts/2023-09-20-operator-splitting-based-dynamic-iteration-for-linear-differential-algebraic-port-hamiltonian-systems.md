@@ -5,11 +5,10 @@ date: 2023-09-20 00:00:00 +0100
 permalink: operator-splitting-based-dynamic-iteration-for-linear-differential-algebraic-port-hamiltonian-systems
 year: 2023
 authors: Andreas Bartel, Michael Günther, Birgit Jacob, Timo Reis
-category:
-  - articles
+category: articles
 tags:
-  - 37jxx
-  - 34a09
+  - 37Jxx
+  - 34A09
 ---
  
 ## Authors

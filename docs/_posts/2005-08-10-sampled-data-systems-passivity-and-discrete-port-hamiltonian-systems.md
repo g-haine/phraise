@@ -5,8 +5,7 @@ date: 2005-08-10 00:00:00 +0100
 permalink: sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems
 year: 2005
 authors: S. Stramigioli, C. Secchi, A.J. van der Schaft, C. Fantuzzi
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

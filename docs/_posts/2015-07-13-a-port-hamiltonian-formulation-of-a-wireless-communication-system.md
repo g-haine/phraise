@@ -5,14 +5,13 @@ date: 2015-07-13 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-a-wireless-communication-system
 year: 2015
 authors: Viswanath Talasila, Ramkrishna Pasumarthy
-category:
-  - chapters
+category: chapters
 tags:
-  - traffic flow
-  - buffer size
-  - congestion control
-  - transmitted packet
-  - wireless communication system
+  - Traffic Flow
+  - Buffer Size
+  - Congestion Control
+  - Transmitted Packet
+  - Wireless Communication System
 ---
  
 ## Authors

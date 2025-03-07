@@ -5,14 +5,13 @@ date: 2019-03-29 00:00:00 +0100
 permalink: an-invitation-to-multisymplectic-geometry
 year: 2019
 authors: Leonid Ryvkin, Tilmann Wurzbacher
-category:
-  - articles
+category: articles
 tags:
-  - multisymplectic geometry
-  - lagrangian and hamiltonian field theories
-  - darboux-type theorems
-  - groups of multisymplectic diffeomorphisms
-  - homotopy comoment
+  - Multisymplectic geometry
+  - Lagrangian and Hamiltonian field theories
+  - Darboux-type theorems
+  - Groups of multisymplectic diffeomorphisms
+  - Homotopy comoment
 ---
  
 ## Authors

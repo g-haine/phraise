@@ -5,13 +5,12 @@ date: 2018-06-18 00:00:00 +0100
 permalink: virtual-differential-passivity-based-control-for-tracking-of-flexible-joints-robots
 year: 2018
 authors: Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana
-category:
-  - proceedings
+category: proceedings
 tags:
-  - differential passivity
+  - Differential passivity
   - contraction analysis
   - virtual systems
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - flexible-joints robots.
 ---
  

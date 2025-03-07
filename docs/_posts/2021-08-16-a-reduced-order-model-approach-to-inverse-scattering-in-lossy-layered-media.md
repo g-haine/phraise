@@ -5,17 +5,16 @@ date: 2021-08-16 00:00:00 +0100
 permalink: a-reduced-order-model-approach-to-inverse-scattering-in-lossy-layered-media
 year: 2021
 authors: Liliana Borcea, Vladimir Druskin, Jörn Zimmerling
-category:
-  - articles
+category: articles
 tags:
-  - inverse scattering
-  - data driven reduced order model
-  - passive
-  - port-hamiltonian dynamical system
-  - 37n30
-  - 65n21
-  - 65l09
-  - 86a22
+  - Inverse scattering
+  - Data driven reduced order model
+  - Passive
+  - Port-Hamiltonian dynamical system
+  - 37N30
+  - 65N21
+  - 65L09
+  - 86A22
 ---
  
 ## Authors

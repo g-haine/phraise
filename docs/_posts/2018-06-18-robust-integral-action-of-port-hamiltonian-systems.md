@@ -5,13 +5,12 @@ date: 2018-06-18 00:00:00 +0100
 permalink: robust-integral-action-of-port-hamiltonian-systems
 year: 2018
 authors: Joel Ferguson, Alejandro Donaire, Romeo Ortega, Richard H. Middleton
-category:
-  - proceedings
+category: proceedings
 tags:
-  - disturbance rejection
-  - lagrangian and hamiltonian systems
-  - robust control applications
-  - passivity-based control
+  - Disturbance rejection
+  - Lagrangian and Hamiltonian systems
+  - Robust control applications
+  - Passivity-based control
 ---
  
 ## Authors

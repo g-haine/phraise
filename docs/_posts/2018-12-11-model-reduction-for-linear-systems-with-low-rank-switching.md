@@ -5,8 +5,7 @@ date: 2018-12-11 00:00:00 +0100
 permalink: model-reduction-for-linear-systems-with-low-rank-switching
 year: 2018
 authors: Philipp Schulze, Benjamin Unger
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

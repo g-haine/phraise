@@ -5,15 +5,14 @@ date: 2022-02-05 00:00:00 +0100
 permalink: model-order-reduction-of-port-hamiltonian-systems-with-inhomogeneous-initial-conditions-via-approximate-finite-time-gramians
 year: 2022
 authors: Yanpeng Li, Yaolin Jiang, Ping Yang
-category:
-  - articles
+category: articles
 tags:
-  - model order reduction
-  - port-hamiltonian systems
-  - structure-preserving
-  - inhomogeneous initial conditions
-  - finite-time gramians
-  - shifted legendre polynomials
+  - Model order reduction
+  - Port-Hamiltonian systems
+  - Structure-preserving
+  - Inhomogeneous initial conditions
+  - Finite-time Gramians
+  - Shifted Legendre polynomials
 ---
  
 ## Authors

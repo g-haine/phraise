@@ -5,8 +5,7 @@ date: 2024-01-27 00:00:00 +0100
 permalink: energy-optimal-control-of-adaptive-structures
 year: 2024
 authors: Manuel Schaller, Amelie Zeller, Michael Böhm, Oliver Sawodny, Cristina Tarín, Karl Worthmann
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

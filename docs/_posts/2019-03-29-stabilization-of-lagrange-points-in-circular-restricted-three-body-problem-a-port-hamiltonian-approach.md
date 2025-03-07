@@ -5,13 +5,12 @@ date: 2019-03-29 00:00:00 +0100
 permalink: stabilization-of-lagrange-points-in-circular-restricted-three-body-problem-a-port-hamiltonian-approach
 year: 2019
 authors: Chang Liu, Lu Dong
-category:
-  - articles
+category: articles
 tags:
-  - lagrange points
-  - circular restricted three-body problem
-  - port-hamiltonian
-  - global stability
+  - Lagrange points
+  - Circular Restricted Three-Body Problem
+  - Port-Hamiltonian
+  - Global stability
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2020-12-02 00:00:00 +0100
 permalink: robust-trajectory-tracking-control-for-fully-actuated-marine-surface-vehicle
 year: 2020
 authors: Francisco Del-Rio-Rivera, Victor M. Ramirez-Rivera, Alejandro Donaire, Joel Ferguson
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

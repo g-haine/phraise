@@ -5,13 +5,12 @@ date: 2018-06-18 00:00:00 +0100
 permalink: disturbance-rejection-for-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach
 year: 2018
 authors: Daniel Alazard, Saïd Aoues, Flávio Luiz Cardoso-Ribeiro, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - passivity-based control
   - flexible spacecraft
-  - lyapunov stability
+  - Lyapunov stability
 ---
  
 ## Authors

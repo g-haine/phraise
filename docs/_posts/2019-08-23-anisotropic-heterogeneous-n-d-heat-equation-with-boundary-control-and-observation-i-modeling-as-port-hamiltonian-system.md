@@ -5,13 +5,12 @@ date: 2019-08-23 00:00:00 +0100
 permalink: anisotropic-heterogeneous-n-d-heat-equation-with-boundary-control-and-observation-i-modeling-as-port-hamiltonian-system
 year: 2019
 authors: Anass Serhani, Ghislain Haine, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian system
-  - heat equation
-  - thermodynamics
-  - boundary control
+  - Port-Hamiltonian System
+  - Heat Equation
+  - Thermodynamics
+  - Boundary Control
 ---
  
 ## Authors

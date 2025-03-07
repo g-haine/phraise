@@ -5,13 +5,12 @@ date: 2024-10-31 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators
 year: 2024
 authors: Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - modeling
-  - hasel actuator
-  - soft actuator
+  - Port-Hamiltonian systems
+  - Modeling
+  - HASEL actuator
+  - Soft actuator
 ---
  
 ## Authors

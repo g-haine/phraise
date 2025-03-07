@@ -5,10 +5,9 @@ date: 2024-09-25 00:00:00 +0100
 permalink: learning-the-optimal-energy-based-control-strategy-for-port-hamiltonian-systems
 year: 2024
 authors: Riccardo Zanella, Alessandro Macchelli, Stefano Stramigioli
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - passivity-based control
   - reinforcement learning
 ---

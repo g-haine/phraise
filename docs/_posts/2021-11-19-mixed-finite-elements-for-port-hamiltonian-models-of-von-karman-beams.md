@@ -5,12 +5,11 @@ date: 2021-11-19 00:00:00 +0100
 permalink: mixed-finite-elements-for-port-hamiltonian-models-of-von-karman-beams
 year: 2021
 authors: Andrea Brugnoli, Ramy Rashad, Federico Califano, Stefano Stramigioli, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - von kármán beams
-  - mixed finite elements
+  - Port-Hamiltonian systems
+  - von Kármán beams
+  - Mixed Finite Elements
 ---
  
 ## Authors

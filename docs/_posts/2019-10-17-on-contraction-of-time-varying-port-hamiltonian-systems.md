@@ -5,12 +5,11 @@ date: 2019-10-17 00:00:00 +0100
 permalink: on-contraction-of-time-varying-port-hamiltonian-systems
 year: 2019
 authors: Nikita Barabanov, Romeo Ortega, Anton Pyrkin
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear systems
-  - contraction theory
-  - port-hamiltonian systems
+  - Nonlinear systems
+  - Contraction theory
+  - port-Hamiltonian systems
 ---
  
 ## Authors

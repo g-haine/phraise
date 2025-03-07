@@ -5,12 +5,11 @@ date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-modelling-for-buckling-control-of-a-vertical-flexible-beam-with-actuation-at-the-bottom
 year: 2015
 authors: Megha V. Trivedi, Ravi N. Banavar, Paul Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - nonlinear beam model
+  - Nonlinear beam model
   - distributed-parameter systems
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - boundary conditions
   - buckling
 ---

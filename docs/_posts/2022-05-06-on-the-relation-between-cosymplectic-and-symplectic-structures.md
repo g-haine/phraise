@@ -5,15 +5,14 @@ date: 2022-05-06 00:00:00 +0100
 permalink: on-the-relation-between-cosymplectic-and-symplectic-structures
 year: 2022
 authors: Mohammad Shafiee
-category:
-  - articles
+category: articles
 tags:
-  - symplectic structure
-  - cosymplectic structure
-  - b-symplectic structure
-  - symplectic capacity
-  - cosymplectic capacity
-  - fixed point
+  - Symplectic structure
+  - Cosymplectic structure
+  - B-symplectic structure
+  - Symplectic capacity
+  - Cosymplectic capacity
+  - Fixed point
 ---
  
 ## Authors

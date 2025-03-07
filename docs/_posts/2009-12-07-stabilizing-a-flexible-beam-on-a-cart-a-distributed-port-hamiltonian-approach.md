@@ -5,12 +5,11 @@ date: 2009-12-07 00:00:00 +0100
 permalink: stabilizing-a-flexible-beam-on-a-cart-a-distributed-port-hamiltonian-approach
 year: 2010
 authors: Ravi Banavar, Biswadip Dey
-category:
-  - articles
+category: articles
 tags:
-  - stabilization of mixed systems
-  - hamiltonian systems
-  - energy-casimir technique
+  - Stabilization of mixed systems
+  - Hamiltonian systems
+  - Energy-Casimir technique
   - 53
 ---
  

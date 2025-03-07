@@ -5,8 +5,7 @@ date: 2010-07-22 00:00:00 +0100
 permalink: multi-dimensional-passive-sampled-port-hamiltonian-systems
 year: 2010
 authors: Michel Fran, Rob Reilink, Sarthak Misra, Stefano Stramigioli
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2009-01-20 00:00:00 +0100
 permalink: a-structure-preserving-minimal-representation-of-a-nonlinear-port-hamiltonian-system
 year: 2008
 authors: Jacquelien M.A. Scherpen, Arjan J. van der Schaft
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

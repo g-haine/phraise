@@ -5,8 +5,7 @@ date: 2022-02-01 00:00:00 +0100
 permalink: on-energy-conversion-in-port-hamiltonian-systems
 year: 2021
 authors: Arjan van der Schaft, Dimitri Jeltsema
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

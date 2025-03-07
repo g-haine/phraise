@@ -5,8 +5,7 @@ date: 2018-11-01 00:00:00 +0100
 permalink: time-varying-impedance-control-of-port-hamiltonian-system-with-a-new-energy-storing-tank
 year: 2018
 authors: Min Zheng, Tangqing Yuan, Tao Huang
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

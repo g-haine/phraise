@@ -5,12 +5,11 @@ date: 2018-06-18 00:00:00 +0100
 permalink: comparision-of-approximation-methods-for-weakly-damped-waves-discussion-paper
 year: 2018
 authors: Kirsten Morris
-category:
-  - proceedings
+category: proceedings
 tags:
   - approximation
   - discretization
-  - port-hamiltonian
+  - port-Hamiltonian
   - energy
   - distributed parameter systems
   - infinite-dimensional systems

@@ -5,13 +5,12 @@ date: 2012-05-28 00:00:00 +0100
 permalink: stability-and-passivity-preserving-petrov-galerkin-approximation-of-linear-infinite-dimensional-systems
 year: 2012
 authors: Christian Harkort, Joachim Deutscher
-category:
-  - articles
+category: articles
 tags:
-  - structure preservation
-  - system approximation
-  - port hamiltonian systems
-  - linear infinite-dimensional systems
+  - Structure preservation
+  - System approximation
+  - Port Hamiltonian systems
+  - Linear infinite-dimensional systems
 ---
  
 ## Authors

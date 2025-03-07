@@ -5,15 +5,14 @@ date: 2017-10-19 00:00:00 +0100
 permalink: parabolic-matching-of-hyperbolic-system-using-control-by-interconnection
 year: 2017
 authors: N.M. Trang Vu, V. Trenchant, H. Ramirez, L. Lefèvre, Y. Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian systems (phs)
-  - distributed parameters systems (dps)
-  - control by interconnection (cbi)
+  - Port Hamiltonian systems (PHS)
+  - distributed parameters systems (DPS)
+  - Control by Interconnection (CbI)
   - feedback equivalence with distributed control
-  - interconnection
-  - damping assignment passivity based control (ida-pbc)
+  - Interconnection
+  - Damping Assignment Passivity Based Control (IDA-PBC)
 ---
  
 ## Authors

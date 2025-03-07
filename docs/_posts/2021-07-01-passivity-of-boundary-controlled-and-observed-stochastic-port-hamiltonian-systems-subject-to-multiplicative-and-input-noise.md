@@ -5,15 +5,14 @@ date: 2021-07-01 00:00:00 +0100
 permalink: passivity-of-boundary-controlled-and-observed-stochastic-port-hamiltonian-systems-subject-to-multiplicative-and-input-noise
 year: 2021
 authors: Francois Lamoline
-category:
-  - proceedings
+category: proceedings
 tags:
-  - boundary control
-  - boundary observation
-  - port-hamiltonian systems
-  - stochastic partial differential equations
-  - infinite-dimensional systems
-  - passivity
+  - Boundary control
+  - Boundary observation
+  - Port-Hamiltonian systems
+  - Stochastic partial differential equations
+  - Infinite-dimensional systems
+  - Passivity
 ---
  
 ## Authors

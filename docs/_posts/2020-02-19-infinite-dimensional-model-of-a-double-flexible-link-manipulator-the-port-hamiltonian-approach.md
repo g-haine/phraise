@@ -5,16 +5,15 @@ date: 2020-02-19 00:00:00 +0100
 permalink: infinite-dimensional-model-of-a-double-flexible-link-manipulator-the-port-hamiltonian-approach
 year: 2020
 authors: Andrea Mattioni, Yongxin Wu, Yann Le Gorrec
-category:
-  - articles
+category: articles
 tags:
-  - flexible arms
-  - flexible robotics
-  - port-hamiltonian systems
-  - distributed parameter systems
-  - boundary control systems
-  - discretization
-  - finite dimensional approximation
+  - Flexible arms
+  - Flexible robotics
+  - Port-Hamiltonian systems
+  - Distributed parameter systems
+  - Boundary control systems
+  - Discretization
+  - Finite dimensional approximation
 ---
  
 ## Authors

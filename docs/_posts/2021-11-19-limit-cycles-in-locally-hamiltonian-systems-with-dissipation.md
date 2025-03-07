@@ -5,14 +5,13 @@ date: 2021-11-19 00:00:00 +0100
 permalink: limit-cycles-in-locally-hamiltonian-systems-with-dissipation
 year: 2021
 authors: Fernando Castaños, Dmitry Gromov
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - passivity
   - symplectic systems
-  - locally hamiltonian systems
-  - discontinuous hamiltonian
+  - locally Hamiltonian systems
+  - discontinuous Hamiltonian
   - limit cycles
 ---
  

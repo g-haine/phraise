@@ -5,11 +5,10 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-port-hamiltonian-fluid-structure-interaction-model-for-the-vocal-folds
 year: 2018
 authors: Luis A. Mora, Juan I. Yuz, Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dynamic modeling
-  - port-hamiltonian model
+  - Dynamic modeling
+  - port-Hamiltonian model
   - fluid-structure interaction
   - vocal folds
 ---

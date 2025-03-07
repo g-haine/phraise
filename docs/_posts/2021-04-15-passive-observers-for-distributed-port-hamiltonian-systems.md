@@ -5,11 +5,10 @@ date: 2021-04-15 00:00:00 +0100
 permalink: passive-observers-for-distributed-port-hamiltonian-systems
 year: 2020
 authors: Jesús Toledo, Héctor Ramirez, Yongxin Wu, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - observer design
-  - port-hamiltonian distributed parameter systems
+  - Observer design
+  - port-Hamiltonian distributed parameter systems
 ---
  
 ## Authors

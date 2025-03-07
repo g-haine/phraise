@@ -5,20 +5,19 @@ date: 2020-10-10 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-district-heating-networks
 year: 2020
 authors: Sarah-Alexa Hauschild, Nicole Marheineke, Volker Mehrmann, Jan Mohring, Arbi Moses Badlyan, Markus Rein, Martin Schmidt
-category:
-  - chapters
+category: chapters
 tags:
-  - partial differential equations on networks
-  - port-hamiltonian model framework
-  - energy-based formulation
-  - district heating network
-  - thermodynamic fluid flow
-  - turbulent pipe flow
-  - euler-like equations
-  - 93a30
-  - 35q31
-  - 37d35
-  - 76-xx
+  - Partial differential equations on networks
+  - Port-Hamiltonian model framework
+  - Energy-based formulation
+  - District heating network
+  - Thermodynamic fluid flow
+  - Turbulent pipe flow
+  - Euler-like equations
+  - 93A30
+  - 35Q31
+  - 37D35
+  - 76-XX
 ---
  
 ## Authors

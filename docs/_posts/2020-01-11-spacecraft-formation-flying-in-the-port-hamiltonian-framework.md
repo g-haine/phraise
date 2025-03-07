@@ -5,13 +5,12 @@ date: 2020-01-11 00:00:00 +0100
 permalink: spacecraft-formation-flying-in-the-port-hamiltonian-framework
 year: 2020
 authors: Najmeh Javanmardi, Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah
-category:
-  - articles
+category: articles
 tags:
-  - spacecraft formation flying
-  - port-hamiltonian systems
-  - trajectory tracking
-  - timed ida-pbc technique
+  - Spacecraft formation flying
+  - Port-Hamiltonian systems
+  - Trajectory tracking
+  - Timed IDA-PBC technique
 ---
  
 ## Authors

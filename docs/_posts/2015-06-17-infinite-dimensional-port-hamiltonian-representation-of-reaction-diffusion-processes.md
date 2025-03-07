@@ -5,12 +5,11 @@ date: 2015-06-17 00:00:00 +0100
 permalink: infinite-dimensional-port-hamiltonian-representation-of-reaction-diffusion-processes
 year: 2015
 authors: W. Zhou, B. Hamroun, Y. Le Gorrec, F. Couenne
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian systems
-  - distributed systems
-  - irreversible thermodynamics
+  - Port Hamiltonian Systems
+  - Distributed Systems
+  - Irreversible Thermodynamics
 ---
  
 ## Authors

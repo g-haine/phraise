@@ -5,23 +5,22 @@ date: 2013-03-18 00:00:00 +0100
 permalink: port-hamiltonian-differential-algebraic-systems
 year: 2013
 authors: A. J. van der Schaft
-category:
-  - chapters
+category: chapters
 tags:
-  - port-hamiltonian systems
-  - passivity
-  - algebraic constraints
-  - kinematic constraints
-  - casimirs
-  - switching systems
-  - dirac structure
-  - interconnection
-  - 34a09
-  - 37j05
-  - 70g45
-  - 93b10
-  - 93b27
-  - 93c10
+  - Port-Hamiltonian systems
+  - Passivity
+  - Algebraic constraints
+  - Kinematic constraints
+  - Casimirs
+  - Switching systems
+  - Dirac structure
+  - Interconnection
+  - 34A09
+  - 37J05
+  - 70G45
+  - 93B10
+  - 93B27
+  - 93C10
 ---
  
 ## Authors

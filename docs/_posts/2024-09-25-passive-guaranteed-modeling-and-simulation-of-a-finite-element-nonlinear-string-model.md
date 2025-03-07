@@ -5,16 +5,15 @@ date: 2024-09-25 00:00:00 +0100
 permalink: passive-guaranteed-modeling-and-simulation-of-a-finite-element-nonlinear-string-model
 year: 2024
 authors: David Roze, Mathis Raibaud, Thibault Geoffroy
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed parameter systems
-  - numerical methods
-  - hamiltonian dynamics
-  - port-hamiltonian systems
-  - quadratization
-  - nonlinear string model
-  - finite elements method
+  - Distributed parameter systems
+  - Numerical Methods
+  - Hamiltonian dynamics
+  - Port-Hamiltonian systems
+  - Quadratization
+  - Nonlinear string model
+  - Finite elements method
 ---
  
 ## Authors

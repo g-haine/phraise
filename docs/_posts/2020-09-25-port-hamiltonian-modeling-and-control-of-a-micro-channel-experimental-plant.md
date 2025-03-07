@@ -5,8 +5,7 @@ date: 2020-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-control-of-a-micro-channel-experimental-plant
 year: 2020
 authors: Nelson Cisneros, Alejandro Jose Rojas, Hector Ramirez
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

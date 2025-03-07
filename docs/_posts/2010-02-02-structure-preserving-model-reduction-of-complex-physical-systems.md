@@ -5,8 +5,7 @@ date: 2010-02-02 00:00:00 +0100
 permalink: structure-preserving-model-reduction-of-complex-physical-systems
 year: 2009
 authors: A.J. van der Schaft, R.V. Polyuga
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

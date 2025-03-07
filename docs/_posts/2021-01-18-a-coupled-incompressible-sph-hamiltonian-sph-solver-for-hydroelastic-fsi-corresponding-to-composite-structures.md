@@ -5,15 +5,14 @@ date: 2021-01-18 00:00:00 +0100
 permalink: a-coupled-incompressible-sph-hamiltonian-sph-solver-for-hydroelastic-fsi-corresponding-to-composite-structures
 year: 2021
 authors: Abbas Khayyer, Yuma Shimizu, Hitoshi Gotoh, Ken Nagashima
-category:
-  - articles
+category: articles
 tags:
-  - composite structures
-  - fluid-structure interaction
-  - smoothed particle hydrodynamics
-  - incompressible sph
-  - hamiltonian sph
-  - hydroelasticity
+  - Composite structures
+  - Fluid-Structure Interaction
+  - Smoothed Particle Hydrodynamics
+  - Incompressible SPH
+  - Hamiltonian SPH
+  - Hydroelasticity
 ---
  
 ## Authors

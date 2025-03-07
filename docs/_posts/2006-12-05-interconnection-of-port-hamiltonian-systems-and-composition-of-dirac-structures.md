@@ -5,14 +5,13 @@ date: 2006-12-05 00:00:00 +0100
 permalink: interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures
 year: 2007
 authors: J. Cervera, A.J. van der Schaft, A. Baños
-category:
-  - articles
+category: articles
 tags:
-  - network modeling
-  - composition
-  - scattering
-  - star product
-  - casimirs
+  - Network modeling
+  - Composition
+  - Scattering
+  - Star product
+  - Casimirs
 ---
  
 ## Authors

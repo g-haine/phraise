@@ -5,16 +5,15 @@ date: 2019-05-07 00:00:00 +0100
 permalink: well-posedness-of-infinite-dimensional-linear-systems-with-nonlinear-feedback
 year: 2019
 authors: Anthony Hastir, Federico Califano, Hans Zwart
-category:
-  - articles
+category: articles
 tags:
-  - well-posedness
-  - passive infinite-dimensional systems
-  - nonlinear feedback
-  - boundary feedback
-  - port-hamiltonian systems
-  - vibrating string
-  - nonlinear damping
+  - Well-posedness
+  - Passive infinite-dimensional systems
+  - Nonlinear feedback
+  - Boundary feedback
+  - port-Hamiltonian systems
+  - Vibrating string
+  - Nonlinear damping
 ---
  
 ## Authors

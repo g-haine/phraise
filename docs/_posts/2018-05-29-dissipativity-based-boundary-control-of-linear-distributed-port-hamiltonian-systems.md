@@ -5,13 +5,12 @@ date: 2018-05-29 00:00:00 +0100
 permalink: dissipativity-based-boundary-control-of-linear-distributed-port-hamiltonian-systems
 year: 2018
 authors: Alessandro Macchelli, Federico Califano
-category:
-  - articles
+category: articles
 tags:
-  - distributed-parameter systems
-  - stabilisation methods
-  - linear (control) systems
-  - partial differential equations
+  - Distributed-parameter systems
+  - Stabilisation methods
+  - Linear (control) systems
+  - Partial differential equations
 ---
  
 ## Authors

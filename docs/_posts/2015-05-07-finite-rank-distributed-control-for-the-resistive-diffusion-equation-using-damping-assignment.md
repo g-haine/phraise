@@ -5,8 +5,7 @@ date: 2015-05-07 00:00:00 +0100
 permalink: finite-rank-distributed-control-for-the-resistive-diffusion-equation-using-damping-assignment
 year: 2015
 authors: Ngoc Minh Trang Vu, Laurent Lefèvre
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

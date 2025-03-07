@@ -5,14 +5,13 @@ date: 2021-04-23 00:00:00 +0100
 permalink: asymptotic-stability-of-port-hamiltonian-systems-with-constant-inputs
 year: 2021
 authors: Liangcheng Cai
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - constant inputs
-  - integral action
-  - compare principle
-  - asymptotic stability
+  - Port-Hamiltonian systems
+  - Constant inputs
+  - Integral action
+  - Compare principle
+  - Asymptotic stability
 ---
  
 ## Authors

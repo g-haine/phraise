@@ -5,13 +5,12 @@ date: 2013-10-11 00:00:00 +0100
 permalink: modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach
 year: 2013
 authors: Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro
-category:
-  - proceedings
+category: proceedings
 tags:
-  - irreversible thermodynamics
-  - port-hamiltonian system
-  - control
-  - multi-energy systems
+  - Irreversible thermodynamics
+  - Port-Hamiltonian system
+  - Control
+  - Multi-energy systems
 ---
  
 ## Authors

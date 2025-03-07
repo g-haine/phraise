@@ -5,12 +5,11 @@ date: 2021-04-15 00:00:00 +0100
 permalink: multistable-energy-shaping-of-passive-linear-systems-with-hybrid-mode-selector
 year: 2020
 authors: Stefano Massaroli, Federico Califano, Angela Faragasso, Atsushi Yamashita, Hajime Asama
-category:
-  - proceedings
+category: proceedings
 tags:
   - linear systems
   - nonlinear control
-  - port–hamiltonian systems
+  - port–Hamiltonian systems
   - hybrid systems
   - multistability
   - passivity–based control

@@ -5,8 +5,7 @@ date: 2021-03-29 00:00:00 +0100
 permalink: a-port-hamiltonian-control-framework-to-render-a-power-electronic-system-passive
 year: 2022
 authors: Qing-Chang Zhong, Marcio Stefanello
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

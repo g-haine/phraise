@@ -5,15 +5,14 @@ date: 2021-07-06 00:00:00 +0100
 permalink: finite-time-disturbance-reconstruction-and-robust-fractional-order-controller-design-for-hybrid-port-hamiltonian-dynamics-of-biped-robots
 year: 2021
 authors: Yousef Farid, Fabio Ruggiero
-category:
-  - articles
+category: articles
 tags:
-  - bipedal robots
-  - hybrid systems
-  - port-hamiltonian dynamics
-  - fractional sliding surface
-  - finite-time control
-  - disturbance estimator
+  - Bipedal robots
+  - Hybrid systems
+  - Port-Hamiltonian dynamics
+  - Fractional sliding surface
+  - Finite-time control
+  - Disturbance estimator
 ---
  
 ## Authors

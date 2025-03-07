@@ -5,15 +5,14 @@ date: 2014-09-11 00:00:00 +0100
 permalink: equal-distribution-of-satellite-constellations-on-circular-target-orbits
 year: 2014
 authors: Ewoud Vos, Jacquelien M.A. Scherpen, Arjan J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - multi-agent systems
-  - asymptotic stabilization
-  - guidance, navigation and control of vehicles
-  - mission control and operations
-  - port-hamiltonian systems
-  - distributed control
+  - Multi-agent systems
+  - Asymptotic stabilization
+  - Guidance, navigation and control of vehicles
+  - Mission control and operations
+  - Port-Hamiltonian systems
+  - Distributed control
 ---
  
 ## Authors

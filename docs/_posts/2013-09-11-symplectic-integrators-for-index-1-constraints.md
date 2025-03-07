@@ -5,8 +5,7 @@ date: 2013-09-11 00:00:00 +0100
 permalink: symplectic-integrators-for-index-1-constraints
 year: 2013
 authors: Robert I. McLachlan, Klas Modin, Olivier Verdier, Matt Wilkins
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

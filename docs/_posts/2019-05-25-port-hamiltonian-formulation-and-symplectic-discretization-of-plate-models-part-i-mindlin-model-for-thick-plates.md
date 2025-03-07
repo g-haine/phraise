@@ -5,14 +5,13 @@ date: 2019-05-25 00:00:00 +0100
 permalink: port-hamiltonian-formulation-and-symplectic-discretization-of-plate-models-part-i-mindlin-model-for-thick-plates
 year: 2019
 authors: Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - mindlin–reissner plate
-  - partitioned finite element method
-  - geometric spatial discretization
-  - boundary control
+  - Port-Hamiltonian systems
+  - Mindlin–Reissner plate
+  - Partitioned Finite Element Method
+  - Geometric spatial discretization
+  - Boundary control
 ---
  
 ## Authors

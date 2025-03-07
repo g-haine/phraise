@@ -5,13 +5,12 @@ date: 2019-12-20 00:00:00 +0100
 permalink: stokes-dirac-operator-for-laplacian
 year: 2019
 authors: Gou Nishida, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - stokes-dirac structures
-  - partial differential equations
-  - differential forms
+  - Port-Hamiltonian systems
+  - Stokes-Dirac structures
+  - Partial differential equations
+  - Differential forms
 ---
  
 ## Authors

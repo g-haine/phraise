@@ -5,12 +5,11 @@ date: 2006-03-30 00:00:00 +0100
 permalink: dirac-structures-in-lagrangian-mechanics-part-i-implicit-lagrangian-systems
 year: 2006
 authors: Hiroaki Yoshimura, Jerrold E. Marsden
-category:
-  - articles
+category: articles
 tags:
-  - dirac structures
-  - implicit lagrangian systems
-  - nonholonomic systems
+  - Dirac structures
+  - Implicit Lagrangian systems
+  - Nonholonomic systems
 ---
  
 ## Authors

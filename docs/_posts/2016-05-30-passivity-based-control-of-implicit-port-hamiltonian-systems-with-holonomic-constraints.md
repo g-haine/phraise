@@ -5,15 +5,14 @@ date: 2016-05-30 00:00:00 +0100
 permalink: passivity-based-control-of-implicit-port-hamiltonian-systems-with-holonomic-constraints
 year: 2016
 authors: Fernando Castaños, Dmitry Gromov
-category:
-  - articles
+category: articles
 tags:
-  - hamiltonian dynamics
-  - holonomic constraints
-  - implicit models
-  - passivity
-  - pendulum
-  - swing-up
+  - Hamiltonian dynamics
+  - Holonomic constraints
+  - Implicit models
+  - Passivity
+  - Pendulum
+  - Swing-up
 ---
  
 ## Authors

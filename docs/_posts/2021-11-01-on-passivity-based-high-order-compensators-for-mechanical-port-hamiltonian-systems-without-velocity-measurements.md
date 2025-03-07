@@ -5,11 +5,10 @@ date: 2021-11-01 00:00:00 +0100
 permalink: on-passivity-based-high-order-compensators-for-mechanical-port-hamiltonian-systems-without-velocity-measurements
 year: 2021
 authors: Kiyoshi Hamada, Pablo Borja, Kenji Fujimoto, Ichiro Maruta, Jacquelien M.A. Scherpen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - control of nonlinear systems
-  - control with limited information
+  - Control of Nonlinear Systems
+  - Control with Limited Information
 ---
  
 ## Authors

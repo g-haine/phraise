@@ -5,12 +5,11 @@ date: 2022-11-23 00:00:00 +0100
 permalink: explicit-structure-preserving-discretization-of-port-hamiltonian-systems-with-mixed-boundary-control
 year: 2022
 authors: Andrea Brugnoli, Ghislain Haine, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems (phs)
-  - partitioned finite element method (pfem)
-  - mixed boundary control
+  - Port-Hamiltonian systems (pHs)
+  - Partitioned Finite Element Method (PFEM)
+  - Mixed Boundary Control
 ---
  
 ## Authors

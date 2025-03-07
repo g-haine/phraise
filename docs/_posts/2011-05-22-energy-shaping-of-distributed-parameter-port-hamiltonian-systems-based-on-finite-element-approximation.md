@@ -5,13 +5,12 @@ date: 2011-05-22 00:00:00 +0100
 permalink: energy-shaping-of-distributed-parameter-port-hamiltonian-systems-based-on-finite-element-approximation
 year: 2011
 authors: Alessandro Macchelli
-category:
-  - articles
+category: articles
 tags:
-  - passivity-based control
-  - energy shaping control
-  - port-hamiltonian systems
-  - casimir functions
+  - Passivity-based control
+  - Energy shaping control
+  - Port-Hamiltonian systems
+  - Casimir functions
 ---
  
 ## Authors

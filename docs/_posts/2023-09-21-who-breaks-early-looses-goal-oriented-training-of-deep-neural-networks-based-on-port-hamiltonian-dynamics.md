@@ -5,13 +5,12 @@ date: 2023-09-21 00:00:00 +0100
 permalink: who-breaks-early-looses-goal-oriented-training-of-deep-neural-networks-based-on-port-hamiltonian-dynamics
 year: 2023
 authors: Julian Burghoff, Marc Heinrich Monells, Hanno Gottschalk
-category:
-  - proceedings
+category: proceedings
 tags:
   - neural nets
   - momentum
   - goal oriented search
-  - port hamilton systems
+  - port Hamilton systems
 ---
  
 ## Authors

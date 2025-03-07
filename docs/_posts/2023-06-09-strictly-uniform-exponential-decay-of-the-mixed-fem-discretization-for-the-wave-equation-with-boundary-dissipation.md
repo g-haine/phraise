@@ -5,8 +5,7 @@ date: 2023-06-09 00:00:00 +0100
 permalink: strictly-uniform-exponential-decay-of-the-mixed-fem-discretization-for-the-wave-equation-with-boundary-dissipation
 year: 2023
 authors: David C. Del Rey Fernández, Luis A. Mora, Kirsten Morris
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

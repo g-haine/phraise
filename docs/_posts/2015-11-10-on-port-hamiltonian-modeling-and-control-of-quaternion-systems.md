@@ -5,10 +5,9 @@ date: 2015-11-10 00:00:00 +0100
 permalink: on-port-hamiltonian-modeling-and-control-of-quaternion-systems
 year: 2015
 authors: Kenji Fujimoto, Tomoya Takeuchi, Yuki Matsumoto
-category:
-  - proceedings
+category: proceedings
 tags:
-  - passivity based control
+  - Passivity based control
   - quaternions
   - aerospace systems
 ---

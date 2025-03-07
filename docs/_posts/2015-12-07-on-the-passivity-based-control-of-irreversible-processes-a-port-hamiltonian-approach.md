@@ -5,13 +5,12 @@ date: 2015-12-07 00:00:00 +0100
 permalink: on-the-passivity-based-control-of-irreversible-processes-a-port-hamiltonian-approach
 year: 2016
 authors: Héctor Ramírez, Yann Le Gorrec, Bernhard Maschke, Françoise Couenne
-category:
-  - articles
+category: articles
 tags:
-  - passivity based control
-  - port-hamiltonian systems
-  - irreversible thermodynamics
-  - cstr
+  - Passivity based control
+  - Port-Hamiltonian systems
+  - Irreversible thermodynamics
+  - CSTR
 ---
  
 ## Authors

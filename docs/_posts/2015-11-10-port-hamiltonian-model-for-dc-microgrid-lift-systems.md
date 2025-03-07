@@ -5,12 +5,11 @@ date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-model-for-dc-microgrid-lift-systems
 year: 2015
 authors: T. Hung Pham, I. Prodan, D. Genon-Catalot, L. Lefévre
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dc microgrid
+  - DC microgrid
   - autonomous lifts
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - load balancing
 ---
  

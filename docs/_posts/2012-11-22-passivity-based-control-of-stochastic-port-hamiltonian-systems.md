@@ -5,8 +5,7 @@ date: 2012-11-22 00:00:00 +0100
 permalink: passivity-based-control-of-stochastic-port-hamiltonian-systems
 year: 2013
 authors: Satoshi Satoh, Kenji Fujimoto
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

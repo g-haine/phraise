@@ -5,14 +5,13 @@ date: 2017-01-11 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows
 year: 2017
 authors: R. Altmann, P. Schulze
-category:
-  - articles
+category: articles
 tags:
-  - reactive flow
-  - port-hamiltonian formulation
-  - navier–stokes equations
-  - hamiltonian formulation
-  - energy-based modeling
+  - Reactive flow
+  - Port-Hamiltonian formulation
+  - Navier–Stokes equations
+  - Hamiltonian formulation
+  - Energy-Based modeling
 ---
  
 ## Authors

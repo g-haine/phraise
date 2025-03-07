@@ -5,12 +5,11 @@ date: 2008-01-07 00:00:00 +0100
 permalink: an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes
 year: 2007
 authors: D. Eberard, B.M. Maschke, A.J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
   - irreversible thermodynamics
   - contact structure
-  - hamiltonian systems
+  - Hamiltonian systems
 ---
  
 ## Authors

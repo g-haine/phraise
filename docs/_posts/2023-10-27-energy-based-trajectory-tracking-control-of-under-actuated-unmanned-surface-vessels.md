@@ -5,13 +5,12 @@ date: 2023-10-27 00:00:00 +0100
 permalink: energy-based-trajectory-tracking-control-of-under-actuated-unmanned-surface-vessels
 year: 2023
 authors: Weijun Zhou, Zishi Xu, Yongxin Wu, Ji Xiang, Yanjun Li
-category:
-  - articles
+category: articles
 tags:
-  - energy based control
-  - port-hamiltonian system
-  - trajectory tracking control
-  - under-actuated usv
+  - Energy based control
+  - Port-Hamiltonian system
+  - Trajectory tracking control
+  - Under-actuated USV
 ---
  
 ## Authors

@@ -5,11 +5,10 @@ date: 2005-12-08 00:00:00 +0100
 permalink: discrete-port-hamiltonian-systems
 year: 2006
 authors: V. Talasila, J. Clemente-Gallardo, A.J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - discrete mechanics
-  - port hamiltonian systems
+  - Discrete mechanics
+  - Port Hamiltonian systems
 ---
  
 ## Authors

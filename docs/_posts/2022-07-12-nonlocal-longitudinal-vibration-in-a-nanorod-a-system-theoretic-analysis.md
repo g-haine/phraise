@@ -5,8 +5,7 @@ date: 2022-07-12 00:00:00 +0100
 permalink: nonlocal-longitudinal-vibration-in-a-nanorod-a-system-theoretic-analysis
 year: 2022
 authors: Hanif Heidari, Hans Zwart
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

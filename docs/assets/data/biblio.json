@@ -35,6 +35,43 @@
   }
 ,
   {
+    "doi": "10.1016/j.sysconle.2023.105493",
+    "type": "journal-article",
+    "title": "Structure-preserving $H^\\\\infty$ control for port-Hamiltonian systems",
+    "authors": [
+  {
+    "given": "Tobias",
+    "family": "Breiten",
+    "sequence": "first",
+    "affiliation": []
+  },
+  {
+    "ORCID": "https://orcid.org/0000-0001-9905-433X",
+    "authenticated-orcid": false,
+    "given": "Attila",
+    "family": "Karsai",
+    "sequence": "additional",
+    "affiliation": []
+  }
+],
+    "abstract": "We study $H^\\infty$ control design for linear time-invariant port-Hamiltonian systems. By a modification of the two central algebraic Riccati equations, we ensure that the resulting controller will be port-Hamiltonian. Using these modified equations, we proceed to show that a corresponding balanced truncation approach preserves port-Hamiltonian structure. We illustrate the theoretical findings using numerical examples and observe that the chosen representation of the port-Hamiltonian system can have an influence on the approximation qualities of the reduced order model.",
+    "journal": "Systems &amp; Control Letters",
+    "year": "2023",
+    "volume": "174",
+    "issue": "",
+    "event": "",
+    "isbn": "",
+    "pages": "105493",
+    "publisher": "Elsevier BV",
+    "keywords": "Port-Hamiltonian systems; $H^\\infty$ control design; Model order reduction",
+    "dateY": "2023",
+    "dateM": "3",
+    "dateD": "20",
+    "permalink": "structure-preserving-h-infty-control-for-port-hamiltonian-systems",
+    "references": [{"doi":"10.1115/1.3658902","title":""},{"doi":"10.1109/9.29425","title":""},{"doi":"10.1109/TAC.1978.1101812","title":""},{"doi":"10.1561/2600000002","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1109/9.16419","title":""},{"doi":"10.1016/j.sysconle.2011.12.008","title":""},{"doi":"","title":""},{"doi":"10.1016/j.automatica.2012.05.052","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/j.automatica.2010.01.018","title":""},{"doi":"","title":""},{"doi":"10.1109/9.7263","title":""},{"doi":"10.1007/s40435-019-00550-9","title":""},{"doi":"10.1109/TAC.1968.1098910","title":""},{"doi":"10.1016/j.laa.2010.09.005","title":""},{"doi":"10.1007/BF00276494","title":""},{"doi":"","title":""},{"doi":"10.1137/0305011","title":""},{"doi":"10.1109/TAC.1971.1099831","title":""},{"doi":"10.1016/j.laa.2013.09.032","title":""},{"doi":"10.1137/0329065","title":""},{"doi":"10.1016/j.automatica.2018.11.013","title":""},{"doi":"10.1137/16M1067330","title":""},{"doi":"10.2514/3.56100","title":""},{"doi":"","title":""},{"doi":"10.1109/TAC.1981.1102603","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1109/9.86941","title":""},{"doi":"10.1007/BF01218397","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1109/TAC.1987.1104569","title":""}]
+  }
+,
+  {
     "doi": "10.1109/TAC.2011.2128650",
     "type": "journal-article",
     "title": "Structure Preserving Moment Matching for Port-Hamiltonian Systems: Arnoldi and Lanczos",
@@ -997,43 +1034,6 @@
     "dateD": "22",
     "permalink": "port-hamiltonian-description-and-analysis-of-the-lugre-friction-model",
     "references": [{"doi":"10.1016/0005-1098(94)90209-7","title":""},{"doi":"10.1109/9.847131","title":""},{"doi":"10.1016/0043-1648(82)90223-X","title":""},{"doi":"10.1002/(SICI)1099-1115(199702)11:1<65::AID-ACS395>3.0.CO;2-3","title":""},{"doi":"10.1109/9.376053","title":""},{"doi":"10.1076/vesd.39.3.189.14152","title":""},{"doi":"10.21236/ADA041920","title":"P. Dahl, A Solid Friction Model, The Aerospace Corporation, CA, Tech. Rep. TOR-0158(3107-18), 1968."},{"doi":"10.1080/00423110412331282887","title":""},{"doi":"","title":""},{"doi":"10.1109/TCST.2008.2010501","title":""},{"doi":"10.1109/87.784422","title":""},{"doi":"10.1016/S0005-1098(01)00192-3","title":""},{"doi":"10.1016/j.automatica.2004.04.007","title":""},{"doi":"10.1016/j.simpat.2010.11.008","title":"J.J. Koopman, D. Jeltsema, M. Verhaegen, Port-Hamiltonian description and analysis of the LuGre friction model, in: Proc. of the 47th IEEE Conference on Decision and Control. Cancun, Mexico, December 9–11, 2008, pp. 3181–3186."},{"doi":"","title":"H. Olsson, Control Systems with Friction. PhD thesis, Lund Inst. of Technology, 1996."},{"doi":"10.1016/S0005-1098(01)00278-3","title":""},{"doi":"10.1109/9.847103","title":""},{"doi":"","title":""},{"doi":"","title":"A.J. van der Schaft, Beyond Passivity, Port-Hamiltonian Systems, NOLCOS 2007, Pretoria, Semi-plenary talk."},{"doi":"10.1109/ACC.1997.609019","title":"P. Vedagarbha, D.M. Dawson, M. Feemster, Tracking Control of Mechanical Systems in the Presence of Nonlinear Dynamic Friction Effects, in: Proc. of the American Control Conference. Albuquerque, NM, September 1997."},{"doi":"","title":"E. Velenis, P. Tsiotras, C. Canudas-de-Wit, Extension of the LuGre dynamic tire friction model to 2D motion, in: Proc. of the 10th IEEE Mediterranean Conference on Control and Automation – MED2002, July 9–12, 2002, Lisbon, Portugal."},{"doi":"10.1007/BF00276493","title":""}]
-  }
-,
-  {
-    "doi": "10.1016/j.sysconle.2023.105493",
-    "type": "journal-article",
-    "title": "Structure-preserving $H^\\\\infty$ control for port-Hamiltonian systems",
-    "authors": [
-  {
-    "given": "Tobias",
-    "family": "Breiten",
-    "sequence": "first",
-    "affiliation": []
-  },
-  {
-    "ORCID": "https://orcid.org/0000-0001-9905-433X",
-    "authenticated-orcid": false,
-    "given": "Attila",
-    "family": "Karsai",
-    "sequence": "additional",
-    "affiliation": []
-  }
-],
-    "abstract": "We study $H^\\infty$ control design for linear time-invariant port-Hamiltonian systems. By a modification of the two central algebraic Riccati equations, we ensure that the resulting controller will be port-Hamiltonian. Using these modified equations, we proceed to show that a corresponding balanced truncation approach preserves port-Hamiltonian structure. We illustrate the theoretical findings using numerical examples and observe that the chosen representation of the port-Hamiltonian system can have an influence on the approximation qualities of the reduced order model.",
-    "journal": "Systems &amp; Control Letters",
-    "year": "2023",
-    "volume": "174",
-    "issue": "",
-    "event": "",
-    "isbn": "",
-    "pages": "105493",
-    "publisher": "Elsevier BV",
-    "keywords": "Port-Hamiltonian systems; $H^\\infty$ control design; Model order reduction",
-    "dateY": "2023",
-    "dateM": "3",
-    "dateD": "20",
-    "permalink": "structure-preserving-h-infty-control-for-port-hamiltonian-systems",
-    "references": [{"doi":"10.1115/1.3658902","title":""},{"doi":"10.1109/9.29425","title":""},{"doi":"10.1109/TAC.1978.1101812","title":""},{"doi":"10.1561/2600000002","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1109/9.16419","title":""},{"doi":"10.1016/j.sysconle.2011.12.008","title":""},{"doi":"","title":""},{"doi":"10.1016/j.automatica.2012.05.052","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1016/j.automatica.2010.01.018","title":""},{"doi":"","title":""},{"doi":"10.1109/9.7263","title":""},{"doi":"10.1007/s40435-019-00550-9","title":""},{"doi":"10.1109/TAC.1968.1098910","title":""},{"doi":"10.1016/j.laa.2010.09.005","title":""},{"doi":"10.1007/BF00276494","title":""},{"doi":"","title":""},{"doi":"10.1137/0305011","title":""},{"doi":"10.1109/TAC.1971.1099831","title":""},{"doi":"10.1016/j.laa.2013.09.032","title":""},{"doi":"10.1137/0329065","title":""},{"doi":"10.1016/j.automatica.2018.11.013","title":""},{"doi":"10.1137/16M1067330","title":""},{"doi":"10.2514/3.56100","title":""},{"doi":"","title":""},{"doi":"10.1109/TAC.1981.1102603","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1109/9.86941","title":""},{"doi":"10.1007/BF01218397","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"","title":""},{"doi":"10.1109/TAC.1987.1104569","title":""}]
   }
 ,
   {

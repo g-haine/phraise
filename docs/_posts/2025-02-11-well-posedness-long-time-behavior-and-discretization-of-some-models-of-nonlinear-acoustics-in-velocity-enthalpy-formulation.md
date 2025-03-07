@@ -5,8 +5,7 @@ date: 2025-02-11 00:00:00 +0100
 permalink: well-posedness-long-time-behavior-and-discretization-of-some-models-of-nonlinear-acoustics-in-velocity-enthalpy-formulation
 year: 2025
 authors: Herbert Egger, Marvin Fritz
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

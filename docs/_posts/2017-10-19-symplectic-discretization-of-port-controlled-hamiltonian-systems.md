@@ -5,11 +5,10 @@ date: 2017-10-19 00:00:00 +0100
 permalink: symplectic-discretization-of-port-controlled-hamiltonian-systems
 year: 2017
 authors: Laurent Lefevre, Silviu Medianu
-category:
-  - proceedings
+category: proceedings
 tags:
   - symplectic discretization
-  - port controlled hamiltonian systems
+  - Port Controlled Hamiltonian systems
   - discrete-time systems
   - linear systems
   - nonlinear systems

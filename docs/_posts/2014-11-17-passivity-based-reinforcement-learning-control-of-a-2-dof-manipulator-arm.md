@@ -5,13 +5,12 @@ date: 2014-11-17 00:00:00 +0100
 permalink: passivity-based-reinforcement-learning-control-of-a-2-dof-manipulator-arm
 year: 2014
 authors: S.P. Nageshrao, G.A.D. Lopes, D. Jeltsema, R. Babuška
-category:
-  - articles
+category: articles
 tags:
-  - passivity-based control
-  - port-hamiltonian systems
-  - reinforcement learning
-  - robotics
+  - Passivity-based control
+  - Port-Hamiltonian systems
+  - Reinforcement learning
+  - Robotics
 ---
  
 ## Authors

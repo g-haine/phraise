@@ -5,14 +5,13 @@ date: 2024-09-25 00:00:00 +0100
 permalink: contraction-theory-and-differential-passivity-in-the-port-hamiltonian-formalism
 year: 2024
 authors: Mario Spirito, Bernhard Maschke, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - contractive systems
-  - differential passivity
-  - port-hamiltonian systems
-  - dissipative hamiltonian systems
-  - dissipative differential hamiltonian system
+  - Contractive systems
+  - Differential passivity
+  - port-Hamiltonian systems
+  - dissipative Hamiltonian systems
+  - dissipative Differential Hamiltonian system
 ---
  
 ## Authors

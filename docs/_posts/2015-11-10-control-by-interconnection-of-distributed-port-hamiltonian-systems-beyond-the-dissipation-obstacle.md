@@ -5,10 +5,9 @@ date: 2015-11-10 00:00:00 +0100
 permalink: control-by-interconnection-of-distributed-port-hamiltonian-systems-beyond-the-dissipation-obstacle
 year: 2015
 authors: Alessandro Macchelli, Luis Pablo Borja, Romeo Ortega
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed port-hamiltonian systems
+  - distributed port-Hamiltonian systems
   - control by interconnection
   - boundary control
   - passivity-based control

@@ -5,10 +5,9 @@ date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-based-teleoperation-of-a-multi-robot-system-on-periodic-trajectories
 year: 2015
 authors: C. Secchi, L. Sabattini, C. Fantuzzi
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - control
   - teleoperation
   - stability

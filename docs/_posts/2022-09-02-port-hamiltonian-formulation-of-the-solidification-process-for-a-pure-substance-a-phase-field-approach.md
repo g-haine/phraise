@@ -5,14 +5,13 @@ date: 2022-09-02 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-the-solidification-process-for-a-pure-substance-a-phase-field-approach
 year: 2022
 authors: Mohammed Yaghi, Françoise Couenne, Aurélie Galfré, Laurent Lefèvre, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian systems on lagrange subspaces
-  - phase field
-  - diffuse interface
-  - solidification process
-  - thermodynamical properties
+  - Port Hamiltonian systems on Lagrange subspaces
+  - Phase Field
+  - Diffuse interface
+  - Solidification process
+  - Thermodynamical properties
 ---
  
 ## Authors

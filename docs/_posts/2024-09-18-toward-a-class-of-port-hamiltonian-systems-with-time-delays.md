@@ -5,8 +5,7 @@ date: 2024-09-18 00:00:00 +0100
 permalink: toward-a-class-of-port-hamiltonian-systems-with-time-delays
 year: 2024
 authors: Tobias Breiten, Dorothea Hinsen, Benjamin Unger
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

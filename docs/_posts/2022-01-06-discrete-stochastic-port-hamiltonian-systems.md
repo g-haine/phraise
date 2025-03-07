@@ -5,12 +5,11 @@ date: 2022-01-06 00:00:00 +0100
 permalink: discrete-stochastic-port-hamiltonian-systems
 year: 2022
 authors: Francesco Giuseppe Cordoni, Luca Di Persio, Riccardo Muradore
-category:
-  - articles
+category: articles
 tags:
-  - stochastic port-hamiltonian systems
-  - passivity
-  - stochastic variational integrators
+  - Stochastic port-Hamiltonian systems
+  - Passivity
+  - Stochastic variational integrators
 ---
  
 ## Authors

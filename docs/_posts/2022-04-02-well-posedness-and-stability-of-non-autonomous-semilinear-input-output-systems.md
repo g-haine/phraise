@@ -5,8 +5,7 @@ date: 2022-04-02 00:00:00 +0100
 permalink: well-posedness-and-stability-of-non-autonomous-semilinear-input-output-systems
 year: 2022
 authors: Jochen Schmid
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

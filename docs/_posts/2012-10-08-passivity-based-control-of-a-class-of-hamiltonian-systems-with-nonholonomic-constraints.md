@@ -5,12 +5,11 @@ date: 2012-10-08 00:00:00 +0100
 permalink: passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints
 year: 2012
 authors: Kenji Fujimoto, Satoru Sakai, Toshiharu Sugie
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - nonholonomic systems
-  - stabilization
+  - Port-Hamiltonian systems
+  - Nonholonomic systems
+  - Stabilization
 ---
  
 ## Authors

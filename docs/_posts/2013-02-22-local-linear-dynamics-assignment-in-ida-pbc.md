@@ -5,14 +5,13 @@ date: 2013-02-22 00:00:00 +0100
 permalink: local-linear-dynamics-assignment-in-ida-pbc
 year: 2013
 authors: Paul Kotyczka
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - passivity
-  - nonlinear control
-  - controller parameterization
-  - dynamics assignment
+  - Port-Hamiltonian systems
+  - Passivity
+  - Nonlinear control
+  - Controller parameterization
+  - Dynamics assignment
 ---
  
 ## Authors

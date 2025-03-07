@@ -5,15 +5,14 @@ date: 2016-05-11 00:00:00 +0100
 permalink: perspectives-in-modeling-for-control-of-power-networks
 year: 2016
 authors: Arjan van der Schaft, Tjerk Stegink
-category:
-  - articles
+category: articles
 tags:
-  - synchronous generator
-  - port-hamiltonian system
-  - stability
-  - shifted passivity
-  - swing equation
-  - networks
+  - Synchronous generator
+  - Port-Hamiltonian system
+  - Stability
+  - Shifted passivity
+  - Swing equation
+  - Networks
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2019-11-18 00:00:00 +0100
 permalink: model-reduction-techniques-for-port-hamiltonian-differential-algebraic-systems
 year: 2019
 authors: Sarah-Alexa Hauschild, Nicole Marheineke, Volker Mehrmann
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

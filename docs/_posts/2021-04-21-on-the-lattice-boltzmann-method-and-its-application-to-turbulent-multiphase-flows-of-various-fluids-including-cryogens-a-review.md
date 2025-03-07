@@ -5,8 +5,7 @@ date: 2021-04-21 00:00:00 +0100
 permalink: on-the-lattice-boltzmann-method-and-its-application-to-turbulent-multiphase-flows-of-various-fluids-including-cryogens-a-review
 year: 2021
 authors: K. J. Petersen, J. R. Brinkerhoff
-category:
-  - articles
+category: articles
 ---
  
 ## Authors
@@ -204,7 +203,7 @@ Cryogenic fluids are used in a myriad of different applications not limited to g
 - Bala, N., Pepona, M., Karlin, I., Kusumaatmaja, H. & Semprebon, C. Wetting boundaries for a ternary high-density-ratio lattice Boltzmann method. Physical Review E vol. 100 (2019) -- [10.1103/PhysRevE.100.013308](https://doi.org/10.1103/PhysRevE.100.013308)
 - Bao, J. & Schaefer, L. Lattice Boltzmann equation model for multi-component multi-phase flow with high density ratios. Applied Mathematical Modelling vol. 37 1860–1871 (2013) -- [10.1016/j.apm.2012.04.048](https://doi.org/10.1016/j.apm.2012.04.048)
 - Liang, H., Shi, B. C. & Chai, Z. H. Lattice Boltzmann modeling of three-phase incompressible flows. Physical Review E vol. 93 (2016) -- [10.1103/PhysRevE.93.013308](https://doi.org/10.1103/PhysRevE.93.013308)
-- Something went wron -- [10.1103/PhysRevE.93.033305](https://doi.org/10.1103/PhysRevE.93.033305)
+- Semprebon, C., Krüger, T. & Kusumaatmaja, H. Ternary free-energy lattice Boltzmann model with tunable surface tensions and contact angles. Physical Review E vol. 93 (2016) -- [10.1103/PhysRevE.93.033305](https://doi.org/10.1103/PhysRevE.93.033305)
 - Boyer, F. & Lapuerta, C. Study of a three component Cahn-Hilliard flow model. ESAIM: Mathematical Modelling and Numerical Analysis vol. 40 653–687 (2006) -- [10.1051/m2an:2006028](https://doi.org/10.1051/m2an:2006028)
 - Haghani Hassan Abadi, R., Rahimian, M. H. & Fakhari, A. Conservative phase-field lattice-Boltzmann model for ternary fluids. Journal of Computational Physics vol. 374 668–691 (2018) -- [10.1016/j.jcp.2018.07.045](https://doi.org/10.1016/j.jcp.2018.07.045)
 - Allen, S. M. & Cahn, J. W. Mechanisms of phase transformations within the miscibility gap of Fe-rich Fe-Al alloys. Acta Metallurgica vol. 24 425–437 (1976) -- [10.1016/0001-6160(76)90063-8](https://doi.org/10.1016/0001-6160(76)90063-8)

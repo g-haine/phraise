@@ -5,15 +5,14 @@ date: 2024-08-20 00:00:00 +0100
 permalink: port-hamiltonian-formulations-for-the-modeling-simulation-and-control-of-fluids
 year: 2024
 authors: Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez
-category:
-  - articles
+category: articles
 tags:
-  - energy-based modeling
-  - port-hamiltonian systems
-  - structure-preserving discretization
-  - boundary control
-  - shallow water equations
-  - incompressible navier–stokes equations
+  - Energy-based modeling
+  - Port-Hamiltonian systems
+  - Structure-preserving discretization
+  - Boundary control
+  - Shallow water equations
+  - Incompressible Navier–Stokes equations
 ---
  
 ## Authors

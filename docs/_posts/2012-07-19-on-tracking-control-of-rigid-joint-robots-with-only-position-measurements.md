@@ -5,8 +5,7 @@ date: 2012-07-19 00:00:00 +0100
 permalink: on-tracking-control-of-rigid-joint-robots-with-only-position-measurements
 year: 2013
 authors: Daniel A. Dirksz, Jacquelien M. A. Scherpen
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

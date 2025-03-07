@@ -5,12 +5,11 @@ date: 2023-11-22 00:00:00 +0100
 permalink: an-iss-property-of-mechanical-port-hamiltonian-systems-with-kpes-for-output-feedback-control
 year: 2023
 authors: N. Sakata, T. Kato, K. Fujimoto, I. Maruta
-category:
-  - proceedings
+category: proceedings
 tags:
-  - input-to-state stability
-  - lagrangian and hamiltonian systems
-  - output feedback control
+  - Input-to-state stability
+  - Lagrangian and Hamiltonian systems
+  - Output feedback control
 ---
  
 ## Authors

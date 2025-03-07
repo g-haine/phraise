@@ -5,15 +5,14 @@ date: 2019-02-25 00:00:00 +0100
 permalink: zero-dynamics-for-networks-of-waves
 year: 2019
 authors: Birgit Jacob, Kirsten A. Morris, Hans Zwart
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - distributed parameter systems
-  - boundary control
-  - zero dynamics
-  - networks
-  - coupled wave equations
+  - Port-Hamiltonian system
+  - Distributed parameter systems
+  - Boundary control
+  - Zero dynamics
+  - Networks
+  - Coupled wave equations
 ---
  
 ## Authors

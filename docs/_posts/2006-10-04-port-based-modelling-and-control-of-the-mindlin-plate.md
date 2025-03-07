@@ -5,8 +5,7 @@ date: 2006-10-04 00:00:00 +0100
 permalink: port-based-modelling-and-control-of-the-mindlin-plate
 year: 2006
 authors: A. Macchelli, C. Melchiorri, L. Bassi
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

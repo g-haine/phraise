@@ -5,13 +5,12 @@ date: 2023-11-22 00:00:00 +0100
 permalink: on-the-synthesis-of-discrete-time-energy-based-regulators-for-port-hamiltonian-systems
 year: 2023
 authors: Alessandro Macchelli
-category:
-  - proceedings
+category: proceedings
 tags:
   - sampled-data control
   - passivity-based control
   - digital implementation
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2019-09-30 00:00:00 +0100
 permalink: pointwise-optimal-control-for-cancer-treatment-by-hyperthermia-with-thermal-wave-bioheat-transfer
 year: 2020
 authors: Ghasem Abbasi, Alaeddin Malek
-category:
-  - articles
+category: articles
 tags:
-  - hyperthermia
-  - semigroups theory
-  - thermal wave bioheat equation
-  - pseudo-port hamiltonian
-  - controllability
+  - Hyperthermia
+  - Semigroups theory
+  - Thermal wave bioheat equation
+  - Pseudo-port Hamiltonian
+  - Controllability
 ---
  
 ## Authors

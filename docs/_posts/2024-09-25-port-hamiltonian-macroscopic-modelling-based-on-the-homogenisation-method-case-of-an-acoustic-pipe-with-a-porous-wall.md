@@ -5,14 +5,13 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-macroscopic-modelling-based-on-the-homogenisation-method-case-of-an-acoustic-pipe-with-a-porous-wall
 year: 2024
 authors: Alexis Thibault, Thomas Hélie, Henri Boutin, Juliette Chabassier
-category:
-  - proceedings
+category: proceedings
 tags:
-  - modelling
-  - homogenisation method
-  - port-hamiltonian systems
-  - distributed parameter systems
-  - acoustics
+  - Modelling
+  - Homogenisation method
+  - Port-Hamiltonian systems
+  - Distributed parameter systems
+  - Acoustics
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2019-08-23 00:00:00 +0100
 permalink: anisotropic-heterogeneous-n-d-heat-equation-with-boundary-control-and-observation-ii-structure-preserving-discretization
 year: 2019
 authors: Anass Serhani, Ghislain Haine, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian differential algebraic system
-  - heat equation
-  - structure preserving discretization
-  - partitionned finite element method (pfem)
-  - boundary control
+  - Port-Hamiltonian Differential Algebraic System
+  - Heat Equation
+  - Structure Preserving Discretization
+  - Partitionned Finite Element Method (PFEM)
+  - Boundary Control
 ---
  
 ## Authors

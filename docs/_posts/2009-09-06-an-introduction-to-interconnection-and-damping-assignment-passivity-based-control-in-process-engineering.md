@@ -5,14 +5,13 @@ date: 2009-09-06 00:00:00 +0100
 permalink: an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering
 year: 2009
 authors: Florian Dörfler, Jørgen K. Johnsen, Frank Allgöwer
-category:
-  - articles
+category: articles
 tags:
-  - process control
-  - nonlinear control
-  - passivity-based control
-  - port-hamiltonian systems
-  - ida-pbc
+  - Process control
+  - Nonlinear control
+  - Passivity-based control
+  - Port-Hamiltonian systems
+  - IDA-PBC
 ---
  
 ## Authors

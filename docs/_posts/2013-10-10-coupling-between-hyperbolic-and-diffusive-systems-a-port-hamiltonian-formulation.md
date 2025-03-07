@@ -5,14 +5,13 @@ date: 2013-10-10 00:00:00 +0100
 permalink: coupling-between-hyperbolic-and-diffusive-systems-a-port-hamiltonian-formulation
 year: 2013
 authors: Yann Le Gorrec, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - energy storage
-  - port-hamiltonian systems
-  - partial differential equations
-  - fractional derivatives
-  - diffusive representation
+  - Energy storage
+  - Port-Hamiltonian systems
+  - Partial differential equations
+  - Fractional derivatives
+  - Diffusive representation
 ---
  
 ## Authors

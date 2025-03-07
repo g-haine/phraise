@@ -5,15 +5,14 @@ date: 2023-11-22 00:00:00 +0100
 permalink: physically-consistent-neural-odes-for-learning-multi-physics-systems
 year: 2023
 authors: M. Zakwan, L. Di Natale, B. Svetozarevic, P. Heer, C.N. Jones, G. Ferrari Trecate
-category:
-  - proceedings
+category: proceedings
 tags:
-  - machine learning
-  - neural networks
-  - multi-physics
-  - thermodynamics
-  - data-driven modelling
-  - irreversible port-hamiltonian systems
+  - Machine Learning
+  - Neural networks
+  - Multi-physics
+  - Thermodynamics
+  - Data-driven Modelling
+  - Irreversible port-Hamiltonian systems
 ---
  
 ## Authors

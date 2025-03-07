@@ -5,8 +5,7 @@ date: 2021-10-21 00:00:00 +0100
 permalink: port-hamiltonian-formulations-of-poroelastic-network-models
 year: 2021
 authors: R. Altmann, V. Mehrmann, B. Unger
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

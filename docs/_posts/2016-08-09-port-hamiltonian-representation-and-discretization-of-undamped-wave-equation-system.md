@@ -5,12 +5,11 @@ date: 2016-08-09 00:00:00 +0100
 permalink: port-hamiltonian-representation-and-discretization-of-undamped-wave-equation-system
 year: 2016
 authors: Qingqing Xu, Stevan Dubljevic
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian
-  - exact discretization
-  - undamped wave equation system
+  - Port-Hamiltonian
+  - Exact Discretization
+  - Undamped Wave Equation System
 ---
  
 ## Authors

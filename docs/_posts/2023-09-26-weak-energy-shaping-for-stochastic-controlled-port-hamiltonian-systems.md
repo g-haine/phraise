@@ -5,8 +5,7 @@ date: 2023-09-26 00:00:00 +0100
 permalink: weak-energy-shaping-for-stochastic-controlled-port-hamiltonian-systems
 year: 2023
 authors: Francesco Cordoni, Luca Di Persio, Riccardo Muradore
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

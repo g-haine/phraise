@@ -5,8 +5,7 @@ date: 2019-01-23 00:00:00 +0100
 permalink: opinion-behavior-analysis-in-social-networks-under-the-influence-of-coopetitive-media
 year: 2020
 authors: Dong Xue, Sandra Hirche, Ming Cao
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

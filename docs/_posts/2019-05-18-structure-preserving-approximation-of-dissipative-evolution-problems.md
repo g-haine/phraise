@@ -5,13 +5,12 @@ date: 2019-05-18 00:00:00 +0100
 permalink: structure-preserving-approximation-of-dissipative-evolution-problems
 year: 2019
 authors: H. Egger
-category:
-  - articles
+category: articles
 tags:
-  - 37k05
-  - 37l65
-  - 47j35
-  - 65j08
+  - 37K05
+  - 37L65
+  - 47J35
+  - 65J08
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2017-10-19 00:00:00 +0100
 permalink: power-balancing-in-a-dc-microgrid-elevator-system-through-constrained-optimization
 year: 2017
 authors: T. Hung Pham, I. Prodan, D. Genon-Catalot, L. Lefèvre
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dc microgrid
-  - port-hamiltonian systems on graphs
-  - mpc (model predictive control)
+  - DC microgrid
+  - Port-Hamiltonian systems on graphs
+  - MPC (Model Predictive Control)
 ---
  
 ## Authors

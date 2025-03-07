@@ -5,8 +5,7 @@ date: 2017-10-31 00:00:00 +0100
 permalink: pi-simultaneous-stabilization-and-set-point-output-regulation-of-port-hamiltonian-systems
 year: 2017
 authors: Meng Zhang, Zhitao Liu, Hongye Su, Jianping Cai, Longhua Ma
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2010-07-11 00:00:00 +0100
 permalink: dirac-structures-and-their-composition-on-hilbert-spaces
 year: 2010
 authors: Mikael Kurula, Hans Zwart, Arjan van der Schaft, Jussi Behrndt
-category:
-  - articles
+category: articles
 tags:
-  - dirac structure
-  - composition
-  - boundary triplet
-  - boundary colligation
-  - impedance conservative
-  - kreĭn space
+  - Dirac structure
+  - Composition
+  - Boundary triplet
+  - Boundary colligation
+  - Impedance conservative
+  - Kreĭn space
 ---
  
 ## Authors

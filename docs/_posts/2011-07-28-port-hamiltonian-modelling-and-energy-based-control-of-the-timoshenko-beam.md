@@ -5,14 +5,13 @@ date: 2011-07-28 00:00:00 +0100
 permalink: port-hamiltonian-modelling-and-energy-based-control-of-the-timoshenko-beam
 year: 2011
 authors: Andreas Siuka, Markus Schöberl, Kurt Schlacher
-category:
-  - articles
+category: articles
 tags:
-  - timoshenko beam
-  - dirac structure
-  - casimir function
-  - timoshenko theory
-  - hamiltonian system class
+  - Timoshenko Beam
+  - Dirac Structure
+  - Casimir Function
+  - Timoshenko Theory
+  - Hamiltonian System Class
 ---
  
 ## Authors

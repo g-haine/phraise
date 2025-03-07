@@ -5,16 +5,15 @@ date: 2018-12-22 00:00:00 +0100
 permalink: nonlinear-control-of-a-subscale-submarine-in-emergency-ascent
 year: 2019
 authors: Francis Valentinis, Craig Woolsey
-category:
-  - articles
+category: articles
 tags:
-  - submarine dynamics
-  - submarine control
-  - underactuated
-  - non-neutral buoyancy
-  - nonlinear systems
-  - energy-based control
-  - port-hamiltonian systems
+  - Submarine dynamics
+  - Submarine control
+  - Underactuated
+  - Non-neutral buoyancy
+  - Nonlinear systems
+  - Energy-based control
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

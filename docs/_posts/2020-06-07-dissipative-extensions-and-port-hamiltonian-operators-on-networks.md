@@ -5,15 +5,14 @@ date: 2020-06-07 00:00:00 +0100
 permalink: dissipative-extensions-and-port-hamiltonian-operators-on-networks
 year: 2020
 authors: Marcus Waurick, Sven-Ake Wegner
-category:
-  - articles
+category: articles
 tags:
-  - c 0 -semigroup
-  - port-hamiltonian pdes with singular weights
-  - maximal dissipative operators
-  - differential equations on infinite networks
-  - boundary triple(t)
-  - quantum graphs with vanishing edge lengths
+  - C 0 -semigroup
+  - Port-Hamiltonian PDEs with singular weights
+  - Maximal dissipative operators
+  - Differential equations on infinite networks
+  - Boundary triple(t)
+  - Quantum Graphs with vanishing edge lengths
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2018-06-18 00:00:00 +0100
 permalink: analysis-of-modified-repetitive-control-schemes-the-port-hamiltonian-approach
 year: 2018
 authors: Federico Califano, Alessandro Macchelli, Claudio Melchiorri
-category:
-  - proceedings
+category: proceedings
 tags:
-  - repetitive control
-  - port-hamiltonian systems
-  - exponential stability
-  - pde
+  - Repetitive Control
+  - Port-Hamiltonian Systems
+  - Exponential Stability
+  - PDE
 ---
  
 ## Authors

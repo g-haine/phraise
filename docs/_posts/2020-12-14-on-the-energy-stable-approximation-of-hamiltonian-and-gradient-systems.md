@@ -5,8 +5,7 @@ date: 2020-12-14 00:00:00 +0100
 permalink: on-the-energy-stable-approximation-of-hamiltonian-and-gradient-systems
 year: 2021
 authors: Herbert Egger, Oliver Habrich, Vsevolod Shashkov
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2018-02-17 00:00:00 +0100
 permalink: on-the-steady-state-behavior-of-a-nonlinear-power-system-model
 year: 2018
 authors: Dominic Groß, Catalin Arghir, Florian Dörfler
-category:
-  - articles
+category: articles
 tags:
-  - power system dynamics
-  - steady-state behavior
-  - port-hamiltonian systems
+  - Power system dynamics
+  - Steady-state behavior
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

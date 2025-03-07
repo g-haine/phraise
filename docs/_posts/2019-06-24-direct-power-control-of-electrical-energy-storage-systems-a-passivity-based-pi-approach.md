@@ -5,14 +5,13 @@ date: 2019-06-24 00:00:00 +0100
 permalink: direct-power-control-of-electrical-energy-storage-systems-a-passivity-based-pi-approach
 year: 2019
 authors: Walter Gil–-González, Oscar Danilo Montoya, Alejandro Garces
-category:
-  - articles
+category: articles
 tags:
-  - direct power model
-  - electrical energy storage system
-  - pi passivity-based control
-  - port-hamiltonian formulation
-  - a low-voltage microgrid
+  - Direct power model
+  - Electrical energy storage system
+  - PI passivity-based control
+  - Port-Hamiltonian formulation
+  - A low-voltage microgrid
 ---
  
 ## Authors

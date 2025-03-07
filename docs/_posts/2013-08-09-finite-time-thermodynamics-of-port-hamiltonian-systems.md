@@ -5,14 +5,13 @@ date: 2013-08-09 00:00:00 +0100
 permalink: finite-time-thermodynamics-of-port-hamiltonian-systems
 year: 2014
 authors: Jean-Charles Delvenne, Henrik Sandberg
-category:
-  - proceedings
+category: proceedings
 tags:
-  - hamiltonian systems
-  - statistical mechanics
-  - thermodynamics
-  - optimal control theory
-  - stochastic control theory
+  - Hamiltonian systems
+  - Statistical mechanics
+  - Thermodynamics
+  - Optimal control theory
+  - Stochastic control theory
 ---
  
 ## Authors

@@ -5,17 +5,16 @@ date: 2024-06-24 00:00:00 +0100
 permalink: port-hamiltonian-descriptor-systems-are-relative-generically-controllable-and-stabilizable
 year: 2025
 authors: Achim Ilchmann, Jonas Kirchhoff, Manuel Schaller
-category:
-  - articles
+category: articles
 tags:
-  - differential-algebraic equation
-  - port-hamiltonian system
-  - controllability
-  - stabilizability
-  - genericity
-  - relative genericity
-  - 34a09
-  - 93b05
+  - Differential-algebraic equation
+  - Port-Hamiltonian system
+  - Controllability
+  - Stabilizability
+  - Genericity
+  - Relative genericity
+  - 34A09
+  - 93B05
 ---
  
 ## Authors

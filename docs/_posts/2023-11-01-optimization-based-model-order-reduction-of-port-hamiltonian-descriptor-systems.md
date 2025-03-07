@@ -5,13 +5,12 @@ date: 2023-11-01 00:00:00 +0100
 permalink: optimization-based-model-order-reduction-of-port-hamiltonian-descriptor-systems
 year: 2023
 authors: Paul Schwerdtner, Tim Moser, Volker Mehrmann, Matthias Voigt
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - model order reduction
-  - structure-preservation
-  - descriptor systems
+  - Port-Hamiltonian systems
+  - Model order reduction
+  - Structure-preservation
+  - Descriptor systems
 ---
  
 ## Authors

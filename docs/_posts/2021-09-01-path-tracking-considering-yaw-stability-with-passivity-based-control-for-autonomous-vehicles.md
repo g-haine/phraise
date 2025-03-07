@@ -5,8 +5,7 @@ date: 2021-09-01 00:00:00 +0100
 permalink: path-tracking-considering-yaw-stability-with-passivity-based-control-for-autonomous-vehicles
 year: 2022
 authors: Yan Ma, Jian Chen, Junmin Wang, Yanchuan Xu, Yuexuan Wang
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

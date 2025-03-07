@@ -5,11 +5,10 @@ date: 2021-11-19 00:00:00 +0100
 permalink: exterior-and-vector-calculus-views-of-incompressible-navier-stokes-port-hamiltonian-models
 year: 2021
 authors: Ramy Rashad, Federico Califano, Andrea Brugnoli, Frederic P. Schuller, Stefano Stramigioli
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian
-  - navier-stokes
+  - port-Hamiltonian
+  - Navier-Stokes
   - exterior calculus
   - vector calculus
 ---

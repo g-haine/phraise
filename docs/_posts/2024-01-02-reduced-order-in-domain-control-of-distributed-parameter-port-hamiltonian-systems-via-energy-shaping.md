@@ -5,14 +5,13 @@ date: 2024-01-02 00:00:00 +0100
 permalink: reduced-order-in-domain-control-of-distributed-parameter-port-hamiltonian-systems-via-energy-shaping
 year: 2024
 authors: Ning Liu, Yongxin Wu, Yann Le Gorrec, Laurent Lefèvre, Hector Ramirez
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - distributed parameter systems
-  - passivity-based control
-  - casimir function
-  - optimization
+  - Port-Hamiltonian systems
+  - Distributed parameter systems
+  - Passivity-based control
+  - Casimir function
+  - Optimization
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2024-11-07 00:00:00 +0100
 permalink: on-the-velocity-stress-formulation-for-geometrically-nonlinear-elastodynamics-and-its-structure-preserving-discretization
 year: 2024
 authors: Tobias Thoma, Paul Kotyczka, Herbert Egger
-category:
-  - articles
+category: articles
 ---
  
 ## Authors
@@ -61,8 +60,8 @@ We consider the dynamics of an elastic continuum under large deformation but sma
 - [Falaize, A. & Hélie, T. Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach. Applied Sciences vol. 6 273 (2016)](passive-guaranteed-simulation-of-analog-audio-circuits-a-port-hamiltonian-approach) -- [10.3390/app6100273](https://doi.org/10.3390/app6100273)
 - [Farle, O., Klis, D., Jochum, M., Floch, O. & Dyczij-Edlinger, R. A port-hamiltonian finite-element formulation for the maxwell equations. 2013 International Conference on Electromagnetics in Advanced Applications (ICEAA) 324–327 (2013) doi:10.1109/iceaa.2013.6632246](a-port-hamiltonian-finite-element-formulation-for-the-maxwell-equations) -- [10.1109/ICEAA.2013.6632246](https://doi.org/10.1109/ICEAA.2013.6632246)
 - Festa, G. & Vilotte, J.-P. The Newmark scheme as velocity-stress time-staggering: an efficient PML implementation for spectral element simulations of elastodynamics. Geophysical Journal International vol. 161 789–812 (2005) -- [10.1111/j.1365-246X.2005.02601.x](https://doi.org/10.1111/j.1365-246X.2005.02601.x)
-- Geveci, T. On the application of mixed finite element methods to the wave equations. ESAIM: Mathematical Modelling and Numerical Analysis vol. 22 243–250 (1988) -- [10.1051/m2an/1988220202431](https://doi.org/10.1051/m2an/1988220202431)
-- [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
+- Something went wrong contacting R -- [10.1051/m2an/1988220202431](https://doi.org/10.1051/m2an/1988220202431)
+- [Something went wrong contacting R](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - Jacob B, Zwart HJ. 2012. Linear port-Hamiltonian systems on infinite-dimensional spaces. Operator Theory: Adv And Appl. 223. Birkhäuser/Springer, Basel.
 - Joly, P. Variational Methods for Time-Dependent Wave Propagation Problems. Lecture Notes in Computational Science and Engineering 201–264 (2003) doi:10.1007/978-3-642-55483-4_6 -- [10.1007/978-3-642-55483-4_6](https://doi.org/10.1007/978-3-642-55483-4_6)
 - Kinon PL, Thoma T, Betsch P, Kotyczka P. 2023. Port-Hamiltonian formulation and structure-preserving discretization of hyperelastic strings. ECCOMAS Thematic Conference on Multibody Dynamics, Lisboa.

@@ -5,13 +5,12 @@ date: 2010-09-22 00:00:00 +0100
 permalink: global-existence-of-weak-solutions-for-a-shallow-water-equation
 year: 2010
 authors: Zheng Yin, Shaoyong Lai, Yunxi Guo
-category:
-  - articles
+category: articles
 tags:
-  - global existence
-  - blow-up
-  - shallow water model
-  - local well-posedness
+  - Global existence
+  - Blow-up
+  - Shallow water model
+  - Local well-posedness
 ---
  
 ## Authors

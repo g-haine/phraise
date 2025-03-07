@@ -5,13 +5,12 @@ date: 2021-11-19 00:00:00 +0100
 permalink: adaptive-sampling-for-structure-preserving-model-order-reduction-of-port-hamiltonian-systems
 year: 2021
 authors: Paul Schwerdtner, Matthias Voigt
-category:
-  - proceedings
+category: proceedings
 tags:
   - model reduction
-  - h-infinity optimization
+  - H-infinity optimization
   - structured systems
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - structure-preserving methods
 ---
  

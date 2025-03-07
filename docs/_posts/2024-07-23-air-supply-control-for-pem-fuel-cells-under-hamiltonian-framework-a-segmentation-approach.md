@@ -5,8 +5,7 @@ date: 2024-07-23 00:00:00 +0100
 permalink: air-supply-control-for-pem-fuel-cells-under-hamiltonian-framework-a-segmentation-approach
 year: 2024
 authors: Lalitesh Kumar, Jian Chen, Xinyu Li, Zhongliang Li
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2024-01-06 00:00:00 +0100
 permalink: port-hamiltonian-formulations-of-the-incompressible-euler-equations-with-a-free-surface
 year: 2024
 authors: Xiaoyu Cheng, J.J.W. Van der Vegt, Yan Xu, H.J. Zwart
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian formulation
-  - dirac structure
-  - poisson bracket
-  - incompressible euler equations
-  - vorticity equation
-  - free surface problems
+  - Port-Hamiltonian formulation
+  - Dirac structure
+  - Poisson bracket
+  - Incompressible Euler equations
+  - Vorticity equation
+  - Free surface problems
 ---
  
 ## Authors

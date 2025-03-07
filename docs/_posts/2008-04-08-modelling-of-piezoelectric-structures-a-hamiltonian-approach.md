@@ -5,8 +5,7 @@ date: 2008-04-08 00:00:00 +0100
 permalink: modelling-of-piezoelectric-structures-a-hamiltonian-approach
 year: 2008
 authors: M. Schöberl, H. Ennsbrunner, K. Schlacher
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

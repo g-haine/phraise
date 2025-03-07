@@ -5,10 +5,9 @@ date: 2024-09-25 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-a-coupled-heat-wave-system-formulated-as-an-irreversible-port-hamiltonian-system
 year: 2024
 authors: Antoine Bendimerad-Hohl
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - irreversibility
   - structure-preserving discretization
 ---

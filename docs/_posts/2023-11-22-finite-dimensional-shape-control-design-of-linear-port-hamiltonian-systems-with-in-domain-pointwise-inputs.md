@@ -5,10 +5,9 @@ date: 2023-11-22 00:00:00 +0100
 permalink: finite-dimensional-shape-control-design-of-linear-port-hamiltonian-systems-with-in-domain-pointwise-inputs
 year: 2023
 authors: Cristobal Ponce, Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian distributed parameter systems
+  - Port Hamiltonian distributed parameter systems
   - passivity-based control
   - spatial discretization
   - shape control

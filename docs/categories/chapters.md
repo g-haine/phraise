@@ -1,8 +1,7 @@
 ---
 layout: category
 title: Chapters
-category:
-  - chapters
+category: chapters
 permalink: /categories/chapters
 ---
 

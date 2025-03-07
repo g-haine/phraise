@@ -5,14 +5,13 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-systems-with-energy-and-power-ports
 year: 2024
 authors: Kaja Krhač, Bernhard Maschke, Arjan van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - constrained hamiltonian systems
+  - Port-Hamiltonian systems
+  - constrained Hamiltonian systems
   - input-output systems
-  - morse families
-  - lagrangian submanifolds
+  - Morse families
+  - Lagrangian submanifolds
 ---
  
 ## Authors

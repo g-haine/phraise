@@ -5,14 +5,13 @@ date: 2023-09-08 00:00:00 +0100
 permalink: cooperative-control-of-lq-feedback-linearization-and-error-port-hamiltonian-system-for-pmsm-with-ndob
 year: 2024
 authors: Youyuan Chen, Haisheng Yu, Xiangxiang Meng, Hao Ding, Xunkai Gao
-category:
-  - articles
+category: articles
 tags:
-  - permanent magnet synchronous motor
-  - feedback linearization
-  - eph
-  - cooperative control
-  - ndob
+  - Permanent magnet synchronous motor
+  - Feedback linearization
+  - EPH
+  - Cooperative control
+  - NDOB
 ---
  
 ## Authors

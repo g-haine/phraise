@@ -5,15 +5,14 @@ date: 2024-12-19 00:00:00 +0100
 permalink: a-stability-guaranteed-variable-admittance-control-architecture-for-complex-physical-interaction-tasks-with-multiple-scenarios
 year: 2025
 authors: Hao Zhou, Xin Zhang, Jinguo Liu, Zhaojie Ju
-category:
-  - articles
+category: articles
 ---
  
 ## Authors
 [Hao Zhou](authors/hao_zhou), [Xin Zhang](authors/xin_zhang), [Jinguo Liu](authors/jinguo_liu), [Zhaojie Ju](authors/zhaojie_ju)
  
 ## Abstract
-Interaction stability is an important concern in variable admittance control, and it is a prerequisite for achieving the desired compliant interaction with humans or uncertain environments. Different variable admittance controllers with essential stability analyses are required for multiple interaction scenarios in a complex task, where stability analysis is the major difficulty. In this article, we propose a unified stability-guaranteed variable admittance control architecture to decrease the control system complexity, in which we represent the admittance control model as a port-Hamiltonian (pH) system and design an energy tank with the optimization theory. The advantages of the proposed architecture are reflected in several aspects: 1) compatibility with common strategies; 2) perturbation resistance; and 3) passivity as a natural property. As the dissipated energy from the pH system is injected into the energy tank while the energy in the tank is used to support the interaction and perturbation resistance, the best passive approximation of the desired behaviors is generated, which can avoid the control signal failure (control signal failure denotes that the unexpected input \( u=0 \) occurs due to a lack of energy in the tank). Three different groups of experiments are conducted to verify the feasibility, perturbation resistance, and practicality of the proposed architecture.
+Interaction stability is an important concern in variable admittance control, and it is a prerequisite for achieving the desired compliant interaction with humans or uncertain environments. Different variable admittance controllers with essential stability analyses are required for multiple interaction scenarios in a complex task, where stability analysis is the major difficulty. In this article, we propose a unified stability-guaranteed variable admittance control architecture to decrease the control system complexity, in which we represent the admittance control model as a port-Hamiltonian (pH) system and design an energy tank with the optimization theory. The advantages of the proposed architecture are reflected in several aspects: 1) compatibility with common strategies; 2) perturbation resistance; and 3) passivity as a natural property. As the dissipated energy from the pH system is injected into the energy tank while the energy in the tank is used to support the interaction and perturbation resistance, the best passive approximation of the desired behaviors is generated, which can avoid the control signal failure (control signal failure denotes that the unexpected input \\( u=0 \\) occurs due to a lack of energy in the tank). Three different groups of experiments are conducted to verify the feasibility, perturbation resistance, and practicality of the proposed architecture.
  
 ## Citation
 - **Journal:** IEEE Transactions on Systems, Man, and Cybernetics: Systems

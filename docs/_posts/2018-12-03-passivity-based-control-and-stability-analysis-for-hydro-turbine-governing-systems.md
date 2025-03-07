@@ -5,13 +5,12 @@ date: 2018-12-03 00:00:00 +0100
 permalink: passivity-based-control-and-stability-analysis-for-hydro-turbine-governing-systems
 year: 2019
 authors: Walter Gil-González, Alejandro Garces, Andrés Escobar
-category:
-  - articles
+category: articles
 tags:
-  - hydro-turbine governing systems
-  - interconnection and damping assignment passivity-based control
-  - port-hamiltonian
-  - single machine infinite bus
+  - Hydro-turbine governing systems
+  - Interconnection and damping assignment passivity-based control
+  - Port-Hamiltonian
+  - Single machine infinite bus
 ---
  
 ## Authors

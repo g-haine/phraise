@@ -5,8 +5,7 @@ date: 2019-08-12 00:00:00 +0100
 permalink: energy-tank-based-wrench-impedance-control-of-a-fully-actuated-hexarotor-a-geometric-port-hamiltonian-approach
 year: 2019
 authors: Ramy Rashad, Johan B. C. Engelen, Stefano Stramigioli
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2024-06-05 00:00:00 +0100
 permalink: a-systematic-methodology-for-port-hamiltonian-modeling-of-multidimensional-flexible-linear-mechanical-systems
 year: 2024
 authors: Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez
-category:
-  - articles
+category: articles
 tags:
-  - infinite-dimensional systems
-  - port-hamiltonian systems
-  - modeling
-  - hamilton's principle
+  - Infinite-dimensional systems
+  - Port-Hamiltonian systems
+  - Modeling
+  - Hamilton's principle
 ---
  
 ## Authors

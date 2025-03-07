@@ -5,13 +5,12 @@ date: 2024-08-05 00:00:00 +0100
 permalink: a-segmented-model-based-fuel-delivery-control-of-pem-fuel-cells-a-port-hamiltonian-approach
 year: 2024
 authors: Lalitesh Kumar, Jian Chen, Chengshuai Wu, Yuzhu Chen, Arjan van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - pem fuel cells
-  - port-hamiltonian systems
-  - segmented model
-  - sliding mode observer
+  - PEM fuel cells
+  - Port-Hamiltonian systems
+  - Segmented model
+  - Sliding mode observer
 ---
  
 ## Authors

@@ -5,17 +5,16 @@ date: 2022-07-16 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-dynamical-chemical-process-systems-network-modeling-and-analysis
 year: 2022
 authors: Dereje Tamiru Tefera, Stevan Dubljevic, Vinay Prasad
-category:
-  - articles
+category: articles
 tags:
-  - port hamiltonian systems
-  - process systems modeling
-  - irreversible thermodynamic systems
-  - entropy
-  - chemical reactor
-  - process systems network
-  - heat exchanger
-  - reactive distillation
+  - Port Hamiltonian systems
+  - Process systems modeling
+  - Irreversible thermodynamic systems
+  - Entropy
+  - Chemical reactor
+  - Process Systems Network
+  - Heat exchanger
+  - Reactive distillation
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2022-08-06 00:00:00 +0100
 permalink: a-combined-control-by-interconnection-model-predictive-control-design-for-constrained-port-hamiltonian-systems
 year: 2022
 authors: T.H. Pham, N.M.T. Vu, I. Prodan, L. Lefèvre
-category:
-  - articles
+category: articles
 tags:
-  - constrained port-hamiltonian systems
-  - control by interconnection
-  - model predictive control
-  - primal–dual gradient method
+  - Constrained Port-Hamiltonian systems
+  - Control by Interconnection
+  - Model Predictive Control
+  - Primal–dual gradient method
 ---
  
 ## Authors

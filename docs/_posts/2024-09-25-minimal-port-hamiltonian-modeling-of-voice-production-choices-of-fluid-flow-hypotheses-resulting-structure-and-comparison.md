@@ -5,14 +5,13 @@ date: 2024-09-25 00:00:00 +0100
 permalink: minimal-port-hamiltonian-modeling-of-voice-production-choices-of-fluid-flow-hypotheses-resulting-structure-and-comparison
 year: 2024
 authors: Thomas Risse, Thomas Hélie, Fabrice Silva, Antoine Falaize
-category:
-  - proceedings
+category: proceedings
 tags:
-  - modelling
-  - port-hamiltonian systems
-  - distributed parameter systems
-  - fluid-structure interaction
-  - vocal apparatus
+  - Modelling
+  - Port-Hamiltonian systems
+  - Distributed parameter systems
+  - Fluid-structure interaction
+  - Vocal apparatus
 ---
  
 ## Authors

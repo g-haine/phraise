@@ -5,13 +5,12 @@ date: 2021-06-22 00:00:00 +0100
 permalink: decoding-and-realising-flapping-flight-with-port-hamiltonian-system-theory
 year: 2021
 authors: Federico Califano, Ramy Rashad, Alexander Dijkshoorn, Luuk Groot Koerkamp, Riccardo Sneep, Andrea Brugnoli, Stefano Stramigioli
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - flapping flight
-  - energy aware robotics
-  - fluid–solid interaction
+  - Port-Hamiltonian system
+  - Flapping flight
+  - Energy aware robotics
+  - Fluid–solid interaction
 ---
  
 ## Authors

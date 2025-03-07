@@ -5,15 +5,14 @@ date: 2012-12-10 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr
 year: 2013
 authors: Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro
-category:
-  - articles
+category: articles
 tags:
-  - irreversible thermodynamics
-  - entropy
-  - port-hamiltonian system
-  - contact structure
-  - system theory
-  - chemical reactor
+  - Irreversible thermodynamics
+  - Entropy
+  - Port-Hamiltonian system
+  - Contact structure
+  - System theory
+  - Chemical reactor
 ---
  
 ## Authors

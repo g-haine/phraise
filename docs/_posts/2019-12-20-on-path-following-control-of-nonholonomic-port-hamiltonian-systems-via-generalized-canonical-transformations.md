@@ -5,10 +5,9 @@ date: 2019-12-20 00:00:00 +0100
 permalink: on-path-following-control-of-nonholonomic-port-hamiltonian-systems-via-generalized-canonical-transformations
 year: 2019
 authors: Ryotaro Shima, Yuki Okura, Kenji Fujimoto, Ichiro Maruta
-category:
-  - proceedings
+category: proceedings
 tags:
-  - nonlinear control
+  - Nonlinear control
   - path following
   - nonholonomic systems
   - mechanical systems

@@ -5,14 +5,13 @@ date: 2022-05-13 00:00:00 +0100
 permalink: symplectic-hamiltonian-finite-element-methods-for-electromagnetics
 year: 2022
 authors: Manuel A. Sánchez, Shukai Du, Bernardo Cockburn, Ngoc-Cuong Nguyen, Jaime Peraire
-category:
-  - articles
+category: articles
 tags:
-  - time-dependent maxwell’s equations
-  - symplectic hamiltonian finite element methods
-  - mixed methods
-  - discontinuous galerkin methods
-  - hybridizable discontinuous galerkin methods
+  - Time-dependent Maxwell’s equations
+  - Symplectic Hamiltonian finite element methods
+  - Mixed methods
+  - Discontinuous Galerkin methods
+  - Hybridizable discontinuous Galerkin methods
 ---
  
 ## Authors

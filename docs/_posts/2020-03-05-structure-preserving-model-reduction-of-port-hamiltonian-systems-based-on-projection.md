@@ -5,8 +5,7 @@ date: 2020-03-05 00:00:00 +0100
 permalink: structure-preserving-model-reduction-of-port-hamiltonian-systems-based-on-projection
 year: 2021
 authors: Yao Huang, Yao‐Lin Jiang, Kang‐Li Xu
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2022-11-16 00:00:00 +0100
 permalink: port-hamiltonian-based-control-of-water-distribution-networks
 year: 2022
 authors: Richard Perryman, Joshua A. Taylor, Bryan Karney
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - nonlinear systems
-  - passivity
-  - incremental models
+  - Port-Hamiltonian systems
+  - Nonlinear systems
+  - Passivity
+  - Incremental models
 ---
  
 ## Authors

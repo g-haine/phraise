@@ -5,14 +5,13 @@ date: 2017-11-24 00:00:00 +0100
 permalink: a-port-hamiltonian-framework-for-operator-force-assisting-systems-application-to-the-design-of-helicopter-flight-controls
 year: 2018
 authors: Matthieu Touron, Jean-Yves Dieulot, Julien Gomand, Pierre-Jean Barre
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian
-  - helicopter
-  - flight-axis control
-  - assisting system
-  - passivity
+  - Port-Hamiltonian
+  - Helicopter
+  - Flight-axis control
+  - Assisting system
+  - Passivity
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2002-10-17 00:00:00 +0100
 permalink: dirac-structures-of-integrable-evolution-equations
 year: 1987
 authors: Irene Ya. Dorfman
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2021-07-13 00:00:00 +0100
 permalink: structure-preserving-discretization-of-a-coupled-heat-wave-system-as-interconnected-port-hamiltonian-systems
 year: 2021
 authors: Ghislain Haine, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - partitioned finite element method
-  - long time asymptotics
+  - Port-Hamiltonian Systems
+  - Partitioned finite element method
+  - Long time asymptotics
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2019-08-23 00:00:00 +0100
 permalink: a-scalable-port-hamiltonian-model-for-incompressible-fluids-in-irregular-geometries
 year: 2019
 authors: Luis A. Mora, Héctor Ramírez, Juan I. Yuz, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - pde
-  - approximation of pdes
+  - Port-Hamiltonian systems
+  - PDE
+  - approximation of PDEs
   - computational methods
 ---
  

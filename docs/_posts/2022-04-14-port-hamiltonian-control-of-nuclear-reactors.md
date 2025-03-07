@@ -5,8 +5,7 @@ date: 2022-04-14 00:00:00 +0100
 permalink: port-hamiltonian-control-of-nuclear-reactors
 year: 2022
 authors: Zhe Dong, Bowen Li, Junyi Li, Xiaojin Huang, Yujie Dong, Yajun Zhang, Zuoyi Zhang
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

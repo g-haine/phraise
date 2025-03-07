@@ -5,8 +5,7 @@ date: 2023-06-26 00:00:00 +0100
 permalink: distributed-adaptive-formation-control-for-uncertain-point-mass-agents-with-mixed-dimensional-space
 year: 2023
 authors: M. R. Rosa, B. Jayawardhana
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

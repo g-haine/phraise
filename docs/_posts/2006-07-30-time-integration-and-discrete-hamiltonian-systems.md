@@ -5,14 +5,13 @@ date: 2006-07-30 00:00:00 +0100
 permalink: time-integration-and-discrete-hamiltonian-systems
 year: 1996
 authors: O. Gonzalez
-category:
-  - articles
+category: articles
 tags:
-  - hamiltonian system
-  - discrete system
-  - relative equilibrium
-  - symplectic structure
-  - reduce phase space
+  - Hamiltonian System
+  - Discrete System
+  - Relative Equilibrium
+  - Symplectic Structure
+  - Reduce Phase Space
 ---
  
 ## Authors

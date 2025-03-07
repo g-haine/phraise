@@ -5,13 +5,12 @@ date: 2021-04-15 00:00:00 +0100
 permalink: port-hamiltonian-systems-with-moving-interface-a-phase-field-approach
 year: 2020
 authors: Benjamin Vincent, Françoise Couenne, Laurent Lefèvre, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - boundary control systems
-  - port hamiltonian systems
-  - phase fields
-  - solidification
+  - Boundary control systems
+  - Port Hamiltonian systems
+  - Phase fields
+  - Solidification
 ---
  
 ## Authors

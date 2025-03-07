@@ -5,16 +5,15 @@ date: 2019-04-01 00:00:00 +0100
 permalink: stability-analysis-and-decentralized-control-of-inverter-based-ac-microgrid
 year: 2019
 authors: Mehdi Farokhian Firuzi, Alireza Roosta, Mohsen Gitizadeh
-category:
-  - articles
+category: articles
 tags:
-  - decentralized control
-  - inverter-based micro-grid
-  - frequency and voltage control
-  - active and reactive power sharing
-  - incremental passivity
-  - port-hamiltonian framework
-  - shifted-energy function
+  - Decentralized control
+  - Inverter-based micro-grid
+  - Frequency and voltage control
+  - Active and reactive power sharing
+  - Incremental passivity
+  - Port-Hamiltonian framework
+  - Shifted-energy function
 ---
  
 ## Authors

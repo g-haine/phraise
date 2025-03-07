@@ -5,8 +5,7 @@ date: 2010-11-10 00:00:00 +0100
 permalink: adaptive-tracking-control-of-fully-actuated-port-hamiltonian-mechanical-systems
 year: 2010
 authors: D.A. Dirksz, J.M.A. Scherp
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

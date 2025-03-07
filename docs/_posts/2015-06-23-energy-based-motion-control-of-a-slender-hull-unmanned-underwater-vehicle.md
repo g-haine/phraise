@@ -5,13 +5,12 @@ date: 2015-06-23 00:00:00 +0100
 permalink: energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle
 year: 2015
 authors: Francis Valentinis, Alejandro Donaire, Tristan Perez
-category:
-  - articles
+category: articles
 tags:
-  - unmanned underwater vehicle
-  - nonlinear systems
-  - energy-based control
-  - port-hamiltonian systems
+  - Unmanned underwater vehicle
+  - Nonlinear systems
+  - Energy-based control
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

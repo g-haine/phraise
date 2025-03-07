@@ -5,13 +5,12 @@ date: 2004-03-06 00:00:00 +0100
 permalink: hamiltonian-discretization-of-boundary-control-systems
 year: 2004
 authors: Goran Golo, Viswanath Talasila, Arjan van der Schaft, Bernhard Maschke
-category:
-  - articles
+category: articles
 tags:
-  - boundary control
-  - spatial discretization
-  - finite elements
-  - port-hamiltonian systems
+  - Boundary control
+  - Spatial discretization
+  - Finite elements
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2021-03-01 00:00:00 +0100
 permalink: control-design-for-linear-port-hamiltonian-boundary-control-systems-an-overview
 year: 2021
 authors: A. Macchelli, Y. Le Gorrec, H. Ramírez, H. Zwart, F. Califano
-category:
-  - chapters
+category: chapters
 ---
  
 ## Authors

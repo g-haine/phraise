@@ -5,12 +5,11 @@ date: 2021-11-19 00:00:00 +0100
 permalink: angle-formation-of-double-integrator-with-bearing-and-velocity-information
 year: 2021
 authors: Ningbo Li, Pablo Borja, Arjan van der Schaft, Jacquelien M.A. Scherpen, Liangming Chen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - angle formation
+  - Angle formation
   - double integrator
-  - port-hamiltonian
+  - port-Hamiltonian
   - distance estimator
 ---
  

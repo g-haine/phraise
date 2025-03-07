@@ -5,14 +5,13 @@ date: 2021-07-10 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems-with-minimal-energy-supply
 year: 2021
 authors: Manuel Schaller, Friedrich Philipp, Timm Faulwasser, Karl Worthmann, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dissipativity
-  - minimal energy supply
-  - optimal control
-  - port-hamiltonian systems
-  - turnpike property
+  - Dissipativity
+  - Minimal energy supply
+  - Optimal control
+  - Port-Hamiltonian systems
+  - Turnpike property
 ---
  
 ## Authors

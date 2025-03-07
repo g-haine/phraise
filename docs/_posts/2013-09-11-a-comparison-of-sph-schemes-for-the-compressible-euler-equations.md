@@ -5,12 +5,11 @@ date: 2013-09-11 00:00:00 +0100
 permalink: a-comparison-of-sph-schemes-for-the-compressible-euler-equations
 year: 2014
 authors: Kunal Puri, Prabhu Ramachandran
-category:
-  - articles
+category: articles
 tags:
-  - sph
-  - particle method
-  - euler equations
+  - SPH
+  - Particle method
+  - Euler equations
 ---
  
 ## Authors

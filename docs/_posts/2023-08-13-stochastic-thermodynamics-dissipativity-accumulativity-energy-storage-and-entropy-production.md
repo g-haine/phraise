@@ -5,8 +5,7 @@ date: 2023-08-13 00:00:00 +0100
 permalink: stochastic-thermodynamics-dissipativity-accumulativity-energy-storage-and-entropy-production
 year: 2023
 authors: Manuel Lanchares, Wassim M. Haddad
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

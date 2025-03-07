@@ -5,14 +5,13 @@ date: 2021-04-15 00:00:00 +0100
 permalink: observer-based-nonlinear-control-of-a-rotating-flexible-beam
 year: 2020
 authors: Andrea Mattioni, Jesus Toledo, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed-parameter system
-  - nonlinear control
-  - observers
-  - asymptotic stability
-  - port-hamiltonian system
+  - Distributed-parameter system
+  - Nonlinear control
+  - Observers
+  - Asymptotic stability
+  - port-Hamiltonian system
 ---
  
 ## Authors

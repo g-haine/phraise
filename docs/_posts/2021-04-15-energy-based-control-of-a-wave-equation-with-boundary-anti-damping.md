@@ -5,11 +5,10 @@ date: 2021-04-15 00:00:00 +0100
 permalink: energy-based-control-of-a-wave-equation-with-boundary-anti-damping
 year: 2020
 authors: A. Macchelli, Y. Le Gorrec, Y. Wu, H. Ramírez
-category:
-  - proceedings
+category: proceedings
 tags:
   - distributed parameter systems
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - unstable wave equation
   - passivity-based control
 ---

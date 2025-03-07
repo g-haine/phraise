@@ -5,8 +5,7 @@ date: 2020-01-03 00:00:00 +0100
 permalink: port-hamiltonian-modelling-and-control-of-a-micro-channel
 year: 2019
 authors: Nelson Cisneros, Hector Ramirez, Alejandro J. Rojas
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

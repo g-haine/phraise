@@ -5,15 +5,14 @@ date: 2016-11-02 00:00:00 +0100
 permalink: a-distributed-passivity-based-control-of-autonomous-mobile-sensors-in-an-underwater-acoustic-network
 year: 2016
 authors: F. Fabiani, D. Fenucci, T. Fabbri, A. Caiti
-category:
-  - proceedings
+category: proceedings
 tags:
-  - autonomous vehicles
-  - co-operation
-  - co-ordination
-  - distributed control
-  - passivity
-  - port-hamiltonian
+  - Autonomous vehicles
+  - Co-operation
+  - Co-ordination
+  - Distributed control
+  - Passivity
+  - Port-Hamiltonian
 ---
  
 ## Authors

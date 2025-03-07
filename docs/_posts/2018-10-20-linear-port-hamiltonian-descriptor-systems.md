@@ -5,22 +5,21 @@ date: 2018-10-20 00:00:00 +0100
 permalink: linear-port-hamiltonian-descriptor-systems
 year: 2018
 authors: Christopher Beattie, Volker Mehrmann, Hongguo Xu, Hans Zwart
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - descriptor system
-  - differential-algebraic equation
-  - passivity
-  - stability
-  - system transformation
-  - differentiation index
-  - strangeness-index
-  - skew-adjoint operator
-  - 93a30
-  - 65l80
-  - 93b17
-  - 93b11
+  - Port-Hamiltonian system
+  - Descriptor system
+  - Differential-algebraic equation
+  - Passivity
+  - Stability
+  - System transformation
+  - Differentiation index
+  - Strangeness-index
+  - Skew-adjoint operator
+  - 93A30
+  - 65L80
+  - 93B17
+  - 93B11
 ---
  
 ## Authors

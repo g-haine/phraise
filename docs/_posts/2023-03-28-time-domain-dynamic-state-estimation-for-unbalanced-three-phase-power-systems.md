@@ -5,8 +5,7 @@ date: 2023-03-28 00:00:00 +0100
 permalink: time-domain-dynamic-state-estimation-for-unbalanced-three-phase-power-systems
 year: 2023
 authors: Martin Pfeifer, Felicitas Mueller, Steven de Jongh, Frederik Gielnik, Thomas Leibfried, Soren Hohmann
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

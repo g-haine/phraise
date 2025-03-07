@@ -5,14 +5,13 @@ date: 2022-05-03 00:00:00 +0100
 permalink: stabilization-of-a-class-of-mixed-ode-pde-port-hamiltonian-systems-with-strong-dissipation-feedback
 year: 2022
 authors: Andrea Mattioni, Yongxin Wu, Yann Le Gorrec, Hans Zwart
-category:
-  - articles
+category: articles
 tags:
-  - distributed-parameter system
-  - strong feedback control
-  - asymptotic stability
-  - numerical simulations
-  - port-hamiltonian systems
+  - Distributed-parameter system
+  - Strong feedback control
+  - Asymptotic stability
+  - Numerical simulations
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

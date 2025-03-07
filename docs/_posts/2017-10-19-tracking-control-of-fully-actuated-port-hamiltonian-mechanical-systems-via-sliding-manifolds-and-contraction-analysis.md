@@ -5,13 +5,12 @@ date: 2017-10-19 00:00:00 +0100
 permalink: tracking-control-of-fully-actuated-port-hamiltonian-mechanical-systems-via-sliding-manifolds-and-contraction-analysis
 year: 2017
 authors: Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana
-category:
-  - proceedings
+category: proceedings
 tags:
-  - trajectory tracking control
-  - port-hamiltonian systems
+  - Trajectory tracking control
+  - port-Hamiltonian systems
   - sliding manifold
-  - differential lyapunov theory
+  - differential Lyapunov theory
   - contraction analysis
 ---
  

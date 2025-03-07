@@ -5,8 +5,7 @@ date: 2023-01-10 00:00:00 +0100
 permalink: exponential-decay-rate-bound-of-one-dimensional-distributed-port-hamiltonian-systems-with-boundary-dissipation
 year: 2022
 authors: Luis A. Mora, Kirsten Morris
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

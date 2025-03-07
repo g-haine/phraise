@@ -5,10 +5,9 @@ date: 2015-11-10 00:00:00 +0100
 permalink: modeling-of-a-fluid-structure-coupled-system-using-port-hamiltonian-formulation
 year: 2015
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - fluid-structure interactions
   - mixed finite-element method
 ---

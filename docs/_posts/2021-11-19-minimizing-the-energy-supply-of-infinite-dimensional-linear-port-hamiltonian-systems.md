@@ -5,11 +5,10 @@ date: 2021-11-19 00:00:00 +0100
 permalink: minimizing-the-energy-supply-of-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2021
 authors: Friedrich Philipp, Manuel Schaller, Timm Faulwasser, Bernhard Maschke, Karl Worthmann
-category:
-  - proceedings
+category: proceedings
 tags:
-  - optimal control
-  - port-hamiltonian systems
+  - Optimal control
+  - port-Hamiltonian systems
   - turnpike properties
   - dissipativity
   - infinite-dimensional systems

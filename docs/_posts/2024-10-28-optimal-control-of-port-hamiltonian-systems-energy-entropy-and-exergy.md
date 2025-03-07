@@ -5,19 +5,18 @@ date: 2024-10-28 00:00:00 +0100
 permalink: optimal-control-of-port-hamiltonian-systems-energy-entropy-and-exergy
 year: 2024
 authors: Friedrich M. Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser, Bernhard Maschke
-category:
-  - articles
+category: articles
 tags:
-  - energy
-  - entropy
-  - exergy
-  - port-hamiltonian systems
-  - optimal control
-  - turnpike property
-  - manifold turnpike
-  - thermodynamics
-  - dissipativity
-  - passivity
+  - Energy
+  - Entropy
+  - Exergy
+  - Port-Hamiltonian systems
+  - Optimal control
+  - Turnpike property
+  - Manifold turnpike
+  - Thermodynamics
+  - Dissipativity
+  - Passivity
 ---
  
 ## Authors

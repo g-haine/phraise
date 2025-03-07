@@ -5,8 +5,7 @@ date: 2023-01-10 00:00:00 +0100
 permalink: gaussian-process-port-hamiltonian-systems-bayesian-learning-with-physics-prior
 year: 2022
 authors: Thomas Beckers, Jacob Seidman, Paris Perdikaris, George J. Pappas
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

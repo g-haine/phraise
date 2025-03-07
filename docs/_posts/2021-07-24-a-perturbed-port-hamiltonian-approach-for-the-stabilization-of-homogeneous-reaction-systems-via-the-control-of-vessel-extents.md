@@ -5,14 +5,13 @@ date: 2021-07-24 00:00:00 +0100
 permalink: a-perturbed-port-hamiltonian-approach-for-the-stabilization-of-homogeneous-reaction-systems-via-the-control-of-vessel-extents
 year: 2021
 authors: T. Sang Nguyen, C.K. Tan, N. Ha Hoang, M.A. Hussain, D. Bonvin
-category:
-  - articles
+category: articles
 tags:
-  - chemical reaction
-  - vessel extents
-  - disturbance compensation
-  - port-hamiltonian formulation
-  - tracking-error passivity-based control
+  - Chemical reaction
+  - Vessel extents
+  - Disturbance compensation
+  - Port-Hamiltonian formulation
+  - Tracking-error passivity-based control
 ---
  
 ## Authors

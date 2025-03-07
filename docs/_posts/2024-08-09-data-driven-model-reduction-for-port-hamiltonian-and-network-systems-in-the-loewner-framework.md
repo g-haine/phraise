@@ -5,14 +5,13 @@ date: 2024-08-09 00:00:00 +0100
 permalink: data-driven-model-reduction-for-port-hamiltonian-and-network-systems-in-the-loewner-framework
 year: 2024
 authors: Alessio Moreschini, Joel D. Simard, Alessandro Astolfi
-category:
-  - articles
+category: articles
 tags:
-  - model reduction
-  - loewner framework
-  - structure preservation
-  - port-hamiltonian systems
-  - network systems
+  - Model reduction
+  - Loewner framework
+  - Structure preservation
+  - Port-Hamiltonian systems
+  - Network systems
 ---
  
 ## Authors

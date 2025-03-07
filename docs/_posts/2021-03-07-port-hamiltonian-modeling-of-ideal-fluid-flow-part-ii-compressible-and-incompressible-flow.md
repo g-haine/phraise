@@ -5,13 +5,12 @@ date: 2021-03-07 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-ideal-fluid-flow-part-ii-compressible-and-incompressible-flow
 year: 2021
 authors: Ramy Rashad, Federico Califano, Frederic P. Schuller, Stefano Stramigioli
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian
-  - ideal fluid flow
-  - stokes–dirac structures
-  - geometric fluid dynamics
+  - Port-Hamiltonian
+  - Ideal fluid flow
+  - Stokes–Dirac structures
+  - Geometric fluid dynamics
 ---
  
 ## Authors

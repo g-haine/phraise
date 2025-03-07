@@ -5,8 +5,7 @@ date: 2023-01-10 00:00:00 +0100
 permalink: neural-energy-casimir-control-for-port-hamiltonian-systems
 year: 2022
 authors: Liang Xu, Muhammad Zakwan, Giancarlo Ferrari-Trecate
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

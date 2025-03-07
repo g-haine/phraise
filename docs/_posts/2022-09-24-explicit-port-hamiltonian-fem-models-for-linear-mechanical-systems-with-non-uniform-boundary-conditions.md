@@ -5,10 +5,9 @@ date: 2022-09-24 00:00:00 +0100
 permalink: explicit-port-hamiltonian-fem-models-for-linear-mechanical-systems-with-non-uniform-boundary-conditions
 year: 2022
 authors: Tobias Thoma, Paul Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - elastodynamics
   - non-uniform boundary conditions
   - structure-preserving discretization

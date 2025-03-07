@@ -5,16 +5,15 @@ date: 2014-09-01 00:00:00 +0100
 permalink: conditions-for-stability-of-droop-controlled-inverter-based-microgrids
 year: 2014
 authors: Johannes Schiffer, Romeo Ortega, Alessandro Astolfi, Jörg Raisch, Tevfik Sezi
-category:
-  - articles
+category: articles
 tags:
-  - microgrid control
-  - microgrid stability
-  - smart grid applications
-  - inverters
-  - droop control
-  - port-hamiltonian systems
-  - power sharing
+  - Microgrid control
+  - Microgrid stability
+  - Smart grid applications
+  - Inverters
+  - Droop control
+  - Port-Hamiltonian systems
+  - Power sharing
 ---
  
 ## Authors

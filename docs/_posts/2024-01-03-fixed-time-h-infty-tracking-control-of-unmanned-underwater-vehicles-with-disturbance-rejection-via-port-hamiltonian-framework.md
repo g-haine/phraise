@@ -5,13 +5,12 @@ date: 2024-01-03 00:00:00 +0100
 permalink: fixed-time-h-infty-tracking-control-of-unmanned-underwater-vehicles-with-disturbance-rejection-via-port-hamiltonian-framework
 year: 2024
 authors: Lina Jin, Shuanghe Yu, Qiang Zhao, Guoyou Shi, Xiaofeng Wu
-category:
-  - articles
+category: articles
 tags:
-  - fixed-time
-  - ph
-  - ida-pbc
-  - uuv
+  - Fixed-time
+  - PH
+  - IDA-PBC
+  - UUV
 ---
  
 ## Authors

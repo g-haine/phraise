@@ -5,14 +5,13 @@ date: 2013-06-12 00:00:00 +0100
 permalink: families-of-moment-matching-based-structure-preserving-approximations-for-linear-port-hamiltonian-systems
 year: 2013
 authors: Tudor C. Ionescu, Alessandro Astolfi
-category:
-  - articles
+category: articles
 tags:
-  - model approximation
-  - model reduction
-  - physical models
-  - markov parameters
-  - system order reduction
+  - Model approximation
+  - Model reduction
+  - Physical models
+  - Markov parameters
+  - System order reduction
 ---
  
 ## Authors

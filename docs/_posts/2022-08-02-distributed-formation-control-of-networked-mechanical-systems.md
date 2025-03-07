@@ -5,15 +5,14 @@ date: 2022-08-02 00:00:00 +0100
 permalink: distributed-formation-control-of-networked-mechanical-systems
 year: 2022
 authors: N. Javanmardi, P. Borja, M.J. Yazdanpanah, J.M.A. Scherpen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - autonomous systems
-  - cooperative control
-  - networked control systems
-  - large-scale systems
-  - port-hamiltonian systems
-  - scalability
+  - Autonomous systems
+  - Cooperative control
+  - Networked control systems
+  - Large-scale systems
+  - Port-Hamiltonian systems
+  - Scalability
 ---
  
 ## Authors

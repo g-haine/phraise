@@ -5,10 +5,9 @@ date: 2017-10-19 00:00:00 +0100
 permalink: control-of-non-isothermal-chemical-reaction-networks-using-irreversible-port-hamiltonian-systems
 year: 2017
 authors: Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - irreversible port-hamiltonian systems
+  - Irreversible port-Hamiltonian systems
   - non-isothermal reaction networks
   - passivity based control
 ---

@@ -5,13 +5,12 @@ date: 2011-02-08 00:00:00 +0100
 permalink: energy-shaping-of-port-hamiltonian-systems-by-using-alternate-passive-input-output-pairs
 year: 2010
 authors: Aneesh Venkatraman, Arjan van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian
-  - dirac structures
-  - passivity
-  - casimirs
+  - Port-Hamiltonian
+  - Dirac structures
+  - Passivity
+  - Casimirs
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2020-09-07 00:00:00 +0100
 permalink: on-structural-invariants-in-the-energy-based-in-domain-control-of-infinite-dimensional-port-hamiltonian-systems
 year: 2020
 authors: Tobias Malzer, Hubert Rams, Markus Schöberl
-category:
-  - articles
+category: articles
 tags:
-  - infinite-dimensional systems
-  - partial-differential equations
-  - differential geometry
-  - port-hamiltonian systems
-  - in-domain actuation
-  - structural invariants
+  - Infinite-dimensional systems
+  - Partial-differential equations
+  - Differential geometry
+  - Port-Hamiltonian systems
+  - In-domain actuation
+  - Structural invariants
 ---
  
 ## Authors

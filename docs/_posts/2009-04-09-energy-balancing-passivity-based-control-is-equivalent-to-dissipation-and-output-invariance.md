@@ -5,13 +5,12 @@ date: 2009-04-09 00:00:00 +0100
 permalink: energy-balancing-passivity-based-control-is-equivalent-to-dissipation-and-output-invariance
 year: 2009
 authors: Fernando Castaños, Romeo Ortega
-category:
-  - articles
+category: articles
 tags:
-  - passivity-based control
-  - port–hamiltonian systems
-  - energy-balance
-  - interconnection and damping assignment
+  - Passivity-based control
+  - Port–Hamiltonian systems
+  - Energy-balance
+  - Interconnection and damping assignment
 ---
  
 ## Authors

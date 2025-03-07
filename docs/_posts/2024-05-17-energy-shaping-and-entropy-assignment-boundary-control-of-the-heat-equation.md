@@ -5,13 +5,12 @@ date: 2024-05-17 00:00:00 +0100
 permalink: energy-shaping-and-entropy-assignment-boundary-control-of-the-heat-equation
 year: 2024
 authors: Luis A. Mora, Yann Le Gorrec, Hector Ramirez
-category:
-  - articles
+category: articles
 tags:
-  - irreversible port-hamiltonian systems
-  - heat equation
-  - boundary control
-  - passivity-based control
+  - Irreversible port-Hamiltonian systems
+  - Heat equation
+  - Boundary control
+  - Passivity-based control
 ---
  
 ## Authors

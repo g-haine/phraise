@@ -5,14 +5,13 @@ date: 2021-11-01 00:00:00 +0100
 permalink: an-irreversible-port-hamiltonian-model-for-a-class-of-piezoelectric-actuators
 year: 2021
 authors: Javier Caballeria, Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian system
-  - piezoelectric actuator
-  - non-linear systems
-  - irreversible thermodynamics
-  - hysteresis
+  - Port-Hamiltonian system
+  - Piezoelectric Actuator
+  - Non-linear systems
+  - Irreversible Thermodynamics
+  - Hysteresis
 ---
  
 ## Authors

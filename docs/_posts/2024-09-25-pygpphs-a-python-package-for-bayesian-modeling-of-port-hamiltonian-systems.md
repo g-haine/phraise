@@ -5,12 +5,11 @@ date: 2024-09-25 00:00:00 +0100
 permalink: pygpphs-a-python-package-for-bayesian-modeling-of-port-hamiltonian-systems
 year: 2024
 authors: Peilun Li, Kaiyuan Tan, Thomas Beckers
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - physics-informed learning
-  - gaussian processes
+  - Gaussian processes
 ---
  
 ## Authors

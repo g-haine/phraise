@@ -5,8 +5,7 @@ date: 2023-11-10 00:00:00 +0100
 permalink: exponential-decay-rate-of-linear-port-hamiltonian-systems-a-multiplier-approach
 year: 2024
 authors: Luis A. Mora, Kirsten Morris
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

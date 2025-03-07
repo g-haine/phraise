@@ -5,15 +5,14 @@ date: 2018-06-18 00:00:00 +0100
 permalink: dirac-structures-in-nonequilibrium-thermodynamics
 year: 2018
 authors: Hiroaki Yoshimura, François Gay-Balmaz
-category:
-  - proceedings
+category: proceedings
 tags:
-  - nonequilibrium thermodynamics
-  - dirac structures
+  - Nonequilibrium thermodynamics
+  - Dirac structures
   - nonlinear nonholonomic constraints
   - irreversible processes
-  - lagrange-dirac systems
-  - hamilton-dirac systems
+  - Lagrange-Dirac systems
+  - Hamilton-Dirac systems
 ---
  
 ## Authors

@@ -5,24 +5,23 @@ date: 2022-05-13 00:00:00 +0100
 permalink: passivity-preserving-model-reduction-via-spectral-factorization
 year: 2022
 authors: Tobias Breiten, Benjamin Unger
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - structure-preserving model-order reduction
-  - passivity
-  - spectral factorization
-  - \( h^2 \)-optimal
+  - Port-Hamiltonian systems
+  - Structure-preserving model-order reduction
+  - Passivity
+  - Spectral factorization
+  - \\( H^2 \\)-optimal
 ---
  
 ## Authors
 [Tobias Breiten](authors/tobias_breiten), [Benjamin Unger](authors/benjamin_unger)
  
 ## Abstract
-We present a novel model-order reduction (MOR) method for linear time-invariant systems that preserves passivity and is thus suited for structure-preserving MOR for port-Hamiltonian (pH) systems. Our algorithm exploits the well-known spectral factorization of the Popov function by a solution of the Kalman–Yakubovich–Popov (KYP) inequality. It performs MOR directly on the spectral factor inheriting the original system’s sparsity enabling MOR in a large-scale context. Our analysis reveals that the spectral factorization corresponding to the minimal solution of an associated algebraic Riccati equation is preferable from a model reduction perspective and benefits pH-preserving MOR methods such as a modified version of the iterative rational Krylov algorithm (IRKA). Numerical examples demonstrate that our approach can produce high-fidelity reduced-order models close to (unstructured) \( H^2 \)-optimal reduced-order models.
+We present a novel model-order reduction (MOR) method for linear time-invariant systems that preserves passivity and is thus suited for structure-preserving MOR for port-Hamiltonian (pH) systems. Our algorithm exploits the well-known spectral factorization of the Popov function by a solution of the Kalman–Yakubovich–Popov (KYP) inequality. It performs MOR directly on the spectral factor inheriting the original system’s sparsity enabling MOR in a large-scale context. Our analysis reveals that the spectral factorization corresponding to the minimal solution of an associated algebraic Riccati equation is preferable from a model reduction perspective and benefits pH-preserving MOR methods such as a modified version of the iterative rational Krylov algorithm (IRKA). Numerical examples demonstrate that our approach can produce high-fidelity reduced-order models close to (unstructured) \\( H^2 \\)-optimal reduced-order models.
  
 ## Keywords
-Port-Hamiltonian systems; Structure-preserving model-order reduction; Passivity; Spectral factorization; \( H^2 \)-optimal
+Port-Hamiltonian systems; Structure-preserving model-order reduction; Passivity; Spectral factorization; \\( H^2 \\)-optimal
  
 ## Citation
 - **Journal:** Automatica

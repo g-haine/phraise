@@ -5,8 +5,7 @@ date: 2019-08-15 00:00:00 +0100
 permalink: topological-geometric-extension-of-stokes-dirac-structures-for-global-energy-flows
 year: 2019
 authors: Gou Nishida, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

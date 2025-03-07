@@ -5,8 +5,7 @@ date: 2021-06-22 00:00:00 +0100
 permalink: a-linear-relation-approach-to-port-hamiltonian-differential-algebraic-equations
 year: 2021
 authors: Hannes Gernandt, Frédéric Enrico Haller, Timo Reis
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2020-04-13 00:00:00 +0100
 permalink: new-results-on-stabilization-of-port-hamiltonian-systems-via-pid-passivity-based-control
 year: 2021
 authors: Pablo Borja, Romeo Ortega, Jacquelien M. A. Scherpen
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

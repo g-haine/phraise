@@ -1,8 +1,7 @@
 ---
 layout: category
 title: Books
-category:
- - books
+category: books
 permalink: /categories/books
 ---
 

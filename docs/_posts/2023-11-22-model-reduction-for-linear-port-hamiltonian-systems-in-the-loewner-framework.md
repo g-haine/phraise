@@ -5,14 +5,13 @@ date: 2023-11-22 00:00:00 +0100
 permalink: model-reduction-for-linear-port-hamiltonian-systems-in-the-loewner-framework
 year: 2023
 authors: Alessio Moreschini, Joel D. Simard, Alessandro Astolfi
-category:
-  - proceedings
+category: proceedings
 tags:
-  - model reduction
-  - lagrangian and hamiltonian systems
-  - networked systems
-  - realization theory
-  - energy systems
+  - Model reduction
+  - Lagrangian and Hamiltonian systems
+  - Networked systems
+  - Realization theory
+  - Energy systems
 ---
  
 ## Authors

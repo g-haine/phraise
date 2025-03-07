@@ -5,12 +5,11 @@ date: 2024-09-25 00:00:00 +0100
 permalink: passivity-based-second-order-sliding-mode-control-via-the-homogeneous-lyapunov-approach-for-mechanical-port-hamiltonian-systems
 year: 2024
 authors: K. Masutani, N. Sakata, K. Fujimoto, I. Maruta
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - passivity-based control
-  - nonlinear control
+  - Port-Hamiltonian systems
+  - Passivity-based control
+  - Nonlinear control
 ---
  
 ## Authors

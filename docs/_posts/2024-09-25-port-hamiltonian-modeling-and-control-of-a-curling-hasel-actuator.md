@@ -5,13 +5,12 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-control-of-a-curling-hasel-actuator
 year: 2024
 authors: Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - soft actuator
-  - hasel actuator
-  - port-hamiltonian systems
-  - ida-pbc design
+  - Soft actuator
+  - HASEL actuator
+  - Port-Hamiltonian systems
+  - IDA-PBC design
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2021-04-15 00:00:00 +0100
 permalink: on-the-flat-representation-for-a-particular-class-of-port-hamiltonian-systems
 year: 2020
 authors: I. Zafeiratou, I. Prodan, L. Lefèvre
-category:
-  - proceedings
+category: proceedings
 tags:
-  - flatness
-  - bond graphs
-  - bicausality
-  - port-hamiltonian systems
-  - electrical storage
+  - Flatness
+  - Bond graphs
+  - Bicausality
+  - Port-Hamiltonian systems
+  - Electrical storage
 ---
  
 ## Authors

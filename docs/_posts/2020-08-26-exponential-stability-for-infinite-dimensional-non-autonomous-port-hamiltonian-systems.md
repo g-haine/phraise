@@ -5,14 +5,13 @@ date: 2020-08-26 00:00:00 +0100
 permalink: exponential-stability-for-infinite-dimensional-non-autonomous-port-hamiltonian-systems
 year: 2020
 authors: Björn Augner, Hafida Laasri
-category:
-  - articles
+category: articles
 tags:
-  - infinite-dimensional port-hamiltonian system
-  - non-autonomous cauchy problem
-  - evolution family
-  - well-posedness
-  - uniform exponential stability
+  - Infinite-dimensional port-Hamiltonian system
+  - Non-autonomous Cauchy problem
+  - Evolution family
+  - Well-posedness
+  - Uniform exponential stability
 ---
  
 ## Authors

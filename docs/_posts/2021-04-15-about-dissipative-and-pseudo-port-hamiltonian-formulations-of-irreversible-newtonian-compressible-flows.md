@@ -5,14 +5,13 @@ date: 2021-04-15 00:00:00 +0100
 permalink: about-dissipative-and-pseudo-port-hamiltonian-formulations-of-irreversible-newtonian-compressible-flows
 year: 2020
 authors: Luis A. Mora, Yann Le Gorrec, Denis Matignon, Hector Ramirez, Juan I. Yuz
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - compressible fluids
-  - entropy
-  - newtonian fluids
-  - vorticity
+  - Port-Hamiltonian systems
+  - Compressible Fluids
+  - Entropy
+  - Newtonian fluids
+  - Vorticity
 ---
  
 ## Authors

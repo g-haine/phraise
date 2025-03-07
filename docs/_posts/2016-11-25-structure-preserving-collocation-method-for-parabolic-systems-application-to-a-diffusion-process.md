@@ -5,10 +5,9 @@ date: 2016-11-25 00:00:00 +0100
 permalink: structure-preserving-collocation-method-for-parabolic-systems-application-to-a-diffusion-process
 year: 2016
 authors: F. Couenne, B. Hamroun
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian modeling
+  - port Hamiltonian modeling
   - model reduction
   - infinite dimensional systems
   - transport phenomena

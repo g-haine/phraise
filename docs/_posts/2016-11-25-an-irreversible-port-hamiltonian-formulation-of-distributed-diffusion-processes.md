@@ -5,10 +5,9 @@ date: 2016-11-25 00:00:00 +0100
 permalink: an-irreversible-port-hamiltonian-formulation-of-distributed-diffusion-processes
 year: 2016
 authors: Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - irreversible thermodynamics
   - infinite dimensional systems
 ---

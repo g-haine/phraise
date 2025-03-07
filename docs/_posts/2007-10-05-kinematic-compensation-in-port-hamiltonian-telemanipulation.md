@@ -5,14 +5,13 @@ date: 2007-10-05 00:00:00 +0100
 permalink: kinematic-compensation-in-port-hamiltonian-telemanipulation
 year: 2007
 authors: Cristian Secchi, Stefano Stramigioli, Cesare Fantuzzi
-category:
-  - chapters
+category: chapters
 tags:
-  - elastic element
-  - dirac structure
-  - interconnection structure
-  - remote environment
-  - slave robot
+  - Elastic Element
+  - Dirac Structure
+  - Interconnection Structure
+  - Remote Environment
+  - Slave Robot
 ---
  
 ## Authors

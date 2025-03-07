@@ -5,8 +5,7 @@ date: 2007-10-05 00:00:00 +0100
 permalink: an-algorithm-to-discretize-one-dimensional-distributed-port-hamiltonian-systems
 year: 2007
 authors: Luca Bassi, Alessandro Macchelli, Claudio Melchiorri
-category:
-  - chapters
+category: chapters
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2023-06-16 00:00:00 +0100
 permalink: structure-preserving-model-reduction-for-port-hamiltonian-systems-based-on-separable-nonlinear-approximation-ansatzes
 year: 2023
 authors: Philipp Schulze
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2007-06-14 00:00:00 +0100
 permalink: port-based-modeling-of-spatial-visco-elastic-contacts
 year: 2004
 authors: Stefano Stramigioli, Vincent Duindam
-category:
-  - articles
+category: articles
 tags:
-  - contacts
-  - geometry
-  - port-hamiltonian
+  - Contacts
+  - Geometry
+  - Port-Hamiltonian
 ---
  
 ## Authors

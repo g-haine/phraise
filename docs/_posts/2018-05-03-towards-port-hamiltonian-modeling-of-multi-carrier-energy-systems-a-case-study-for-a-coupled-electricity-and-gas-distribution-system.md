@@ -5,13 +5,12 @@ date: 2018-05-03 00:00:00 +0100
 permalink: towards-port-hamiltonian-modeling-of-multi-carrier-energy-systems-a-case-study-for-a-coupled-electricity-and-gas-distribution-system
 year: 2018
 authors: Felix Strehle, Martin Pfeifer, Lukas Kölsch, Charlotte Degünther, Johannes Ruf, Lisa Andresen, Sören Hohmann
-category:
-  - proceedings
+category: proceedings
 tags:
-  - modeling
-  - multi-carrier energy systems
-  - port-hamiltonian systems
-  - bond graphs
+  - Modeling
+  - Multi-Carrier Energy Systems
+  - Port-Hamiltonian Systems
+  - Bond Graphs
 ---
  
 ## Authors

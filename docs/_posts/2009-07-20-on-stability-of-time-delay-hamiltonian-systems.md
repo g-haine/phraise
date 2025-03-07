@@ -5,8 +5,7 @@ date: 2009-07-20 00:00:00 +0100
 permalink: on-stability-of-time-delay-hamiltonian-systems
 year: 2009
 authors: Ramkrishna Pasumarthy, Chung-Yao Kao
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

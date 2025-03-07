@@ -5,15 +5,14 @@ date: 2021-04-30 00:00:00 +0100
 permalink: stabilization-of-mt-hvdc-grids-via-passivity-based-control-and-convex-optimization
 year: 2021
 authors: Oscar Danilo Montoya, Walter Gil-González, Alejandro Garces, Federico Serra, Jesus C. Hernández
-category:
-  - articles
+category: articles
 tags:
-  - convex optimization
-  - direct-current networks
-  - passivity-based control
-  - hierarchical control
-  - port-hamiltonian formulation
-  - stabilization of electrical networks
+  - Convex optimization
+  - Direct-current networks
+  - Passivity-based control
+  - Hierarchical control
+  - Port-Hamiltonian formulation
+  - Stabilization of electrical networks
 ---
  
 ## Authors

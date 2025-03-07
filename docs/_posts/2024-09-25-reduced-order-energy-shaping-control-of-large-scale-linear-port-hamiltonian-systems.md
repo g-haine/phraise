@@ -5,13 +5,12 @@ date: 2024-09-25 00:00:00 +0100
 permalink: reduced-order-energy-shaping-control-of-large-scale-linear-port-hamiltonian-systems
 year: 2025
 authors: Cristobal Ponce, Hector Ramirez, Yann Le Gorrec
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - passivity-based control
-  - model order reduction
-  - shape control
+  - Port-Hamiltonian systems
+  - Passivity-based control
+  - Model order reduction
+  - Shape control
 ---
  
 ## Authors

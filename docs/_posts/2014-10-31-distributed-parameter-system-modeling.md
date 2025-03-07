@@ -5,13 +5,12 @@ date: 2014-10-31 00:00:00 +0100
 permalink: distributed-parameter-system-modeling
 year: 2014
 authors: Kentaro Takagi, Gou Nishida, Bernhard Maschke, Kinji Asaka
-category:
-  - chapters
+category: chapters
 tags:
-  - distributed port-hamiltonian system
-  - ionic polymer-metal composite
-  - simulation
-  - state space equation
+  - Distributed port-Hamiltonian system
+  - Ionic polymer-metal composite
+  - Simulation
+  - State space equation
 ---
  
 ## Authors

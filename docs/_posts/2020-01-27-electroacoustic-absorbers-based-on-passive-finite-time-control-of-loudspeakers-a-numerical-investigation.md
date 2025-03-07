@@ -5,12 +5,11 @@ date: 2020-01-27 00:00:00 +0100
 permalink: electroacoustic-absorbers-based-on-passive-finite-time-control-of-loudspeakers-a-numerical-investigation
 year: 2020
 authors: Tristan Lebrun, Marc Wijnand, Thomas Hélie, David Roze, Brigitte d’Andréa-Novel
-category:
-  - chapters
+category: chapters
 tags:
-  - finite-time control
-  - port-hamiltonian systems
-  - electroacoustic transducer
+  - Finite-time control
+  - Port-Hamiltonian systems
+  - Electroacoustic transducer
 ---
  
 ## Authors

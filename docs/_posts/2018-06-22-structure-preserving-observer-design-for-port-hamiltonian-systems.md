@@ -5,8 +5,7 @@ date: 2018-06-22 00:00:00 +0100
 permalink: structure-preserving-observer-design-for-port-hamiltonian-systems
 year: 2019
 authors: Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

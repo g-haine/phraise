@@ -5,14 +5,13 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-structure-preserving-partitioned-finite-element-method-for-the-2d-wave-equation
 year: 2018
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Laurent Lefèvre
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed parameter systems
-  - port-hamiltonian systems
-  - finite element method
-  - geometric discretization methods
-  - 2d wave equation
+  - Distributed Parameter systems
+  - Port-Hamiltonian systems
+  - Finite Element Method
+  - Geometric Discretization Methods
+  - 2D Wave equation
 ---
  
 ## Authors

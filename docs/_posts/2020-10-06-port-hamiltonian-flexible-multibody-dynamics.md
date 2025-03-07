@@ -5,14 +5,13 @@ date: 2020-10-06 00:00:00 +0100
 permalink: port-hamiltonian-flexible-multibody-dynamics
 year: 2021
 authors: Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - floating frame formulation
-  - flexible multibody systems
-  - structure-preserving discretization
-  - substructuring
+  - Port-Hamiltonian systems
+  - Floating frame formulation
+  - Flexible multibody systems
+  - Structure-preserving discretization
+  - Substructuring
 ---
  
 ## Authors

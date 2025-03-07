@@ -5,12 +5,11 @@ date: 2024-04-09 00:00:00 +0100
 permalink: manifold-turnpikes-of-nonlinear-port-hamiltonian-descriptor-systems-under-minimal-energy-supply
 year: 2024
 authors: Attila Karsai
-category:
-  - articles
+category: articles
 tags:
-  - turnpike phenomenon
-  - nonlinear systems
-  - port-hamiltonian systems
+  - Turnpike phenomenon
+  - Nonlinear systems
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

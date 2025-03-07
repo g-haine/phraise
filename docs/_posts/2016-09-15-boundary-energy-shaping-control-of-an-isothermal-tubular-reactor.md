@@ -5,8 +5,7 @@ date: 2016-09-15 00:00:00 +0100
 permalink: boundary-energy-shaping-control-of-an-isothermal-tubular-reactor
 year: 2017
 authors: Alessandro Macchelli, Yann Le Gorrec, Héctor Ramírez
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

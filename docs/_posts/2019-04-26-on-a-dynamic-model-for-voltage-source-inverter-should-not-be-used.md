@@ -5,8 +5,7 @@ date: 2019-04-26 00:00:00 +0100
 permalink: on-a-dynamic-model-for-voltage-source-inverter-should-not-be-used
 year: 2019
 authors: Elham Tajik, Thordur Runolfsson
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

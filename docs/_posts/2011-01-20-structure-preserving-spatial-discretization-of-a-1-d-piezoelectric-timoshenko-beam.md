@@ -5,8 +5,7 @@ date: 2011-01-20 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam
 year: 2011
 authors: T. Voss, J. M. A. Scherpen
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2020-12-17 00:00:00 +0100
 permalink: distributed-frequency-regulation-for-heterogeneous-microgrids-via-steady-state-optimal-control
 year: 2020
 authors: Lukas Kolsch, Manuel Dupuis, Kirtan Bhatt, Stefan Krebs, Soren Hohmann
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

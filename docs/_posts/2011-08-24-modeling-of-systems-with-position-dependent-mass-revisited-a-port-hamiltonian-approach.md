@@ -5,8 +5,7 @@ date: 2011-08-24 00:00:00 +0100
 permalink: modeling-of-systems-with-position-dependent-mass-revisited-a-port-hamiltonian-approach
 year: 2011
 authors: Dimitri Jeltsema, Arnau Dòria-Cerezo
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

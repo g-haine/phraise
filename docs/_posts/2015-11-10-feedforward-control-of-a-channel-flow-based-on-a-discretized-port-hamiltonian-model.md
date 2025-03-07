@@ -5,12 +5,11 @@ date: 2015-11-10 00:00:00 +0100
 permalink: feedforward-control-of-a-channel-flow-based-on-a-discretized-port-hamiltonian-model
 year: 2015
 authors: Paul Kotyczka, Antonio Blancato
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed-parameter systems
+  - Distributed-parameter systems
   - conservation laws
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - discretization
   - feedforward control
   - stable dynamic inversion

@@ -5,12 +5,11 @@ date: 2018-06-18 00:00:00 +0100
 permalink: on-the-port-hamiltonian-models-of-some-electrochemical-processes
 year: 2018
 authors: Daniel Sbarbaro
-category:
-  - proceedings
+category: proceedings
 tags:
-  - electrochemical reactions
-  - port hamiltonian
-  - modeling
+  - Electrochemical reactions
+  - port Hamiltonian
+  - Modeling
 ---
  
 ## Authors

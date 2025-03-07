@@ -5,11 +5,10 @@ date: 2019-08-23 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-formulation-of-some-non-isothermal-electrochemical-processes
 year: 2019
 authors: Hector Ramirez, Daniel Sbarbaro, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - electrochemical reactions
-  - port-hamiltonian systems
+  - Electrochemical reactions
+  - port-Hamiltonian systems
   - irreversible thermodynamics
   - modeling
 ---

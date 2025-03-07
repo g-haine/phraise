@@ -5,8 +5,7 @@ date: 2021-03-01 00:00:00 +0100
 permalink: observer-design-for-a-class-of-nonlinear-systems-combining-dissipativity-with-interconnection-and-damping-assignment
 year: 2021
 authors: Bastian Biedermann, Thomas Meurer
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

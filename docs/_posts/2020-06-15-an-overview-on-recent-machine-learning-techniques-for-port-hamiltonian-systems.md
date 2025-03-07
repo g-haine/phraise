@@ -5,14 +5,13 @@ date: 2020-06-15 00:00:00 +0100
 permalink: an-overview-on-recent-machine-learning-techniques-for-port-hamiltonian-systems
 year: 2020
 authors: Karim Cherifi
-category:
-  - articles
+category: articles
 tags:
-  - physical modelling
-  - control theory
-  - machine learning
-  - dynamical systems
-  - port hamiltonian systems
+  - Physical modelling
+  - Control theory
+  - Machine learning
+  - Dynamical systems
+  - Port Hamiltonian systems
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2021-09-08 00:00:00 +0100
 permalink: nonlinear-state-feedback-control-design-for-port-hamiltonian-systems-with-unstructured-component
 year: 2021
 authors: Seyedabbas Alavi, Nicolas Hudon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dynamic feedback control
-  - stabilization
-  - port-hamiltonian systems
-  - lyapunove stability
+  - Dynamic feedback control
+  - Stabilization
+  - port-Hamiltonian systems
+  - Lyapunove stability
 ---
  
 ## Authors

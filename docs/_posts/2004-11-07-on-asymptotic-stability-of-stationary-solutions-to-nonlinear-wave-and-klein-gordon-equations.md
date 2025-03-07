@@ -5,14 +5,13 @@ date: 2004-11-07 00:00:00 +0100
 permalink: on-asymptotic-stability-of-stationary-solutions-to-nonlinear-wave-and-klein-gordon-equations
 year: 1996
 authors: A. Komech, B. Vainberg
-category:
-  - articles
+category: articles
 tags:
-  - neural network
-  - partial differential equation
-  - wave equation
-  - stationary solution
-  - asymptotic expansion
+  - Neural Network
+  - Partial Differential Equation
+  - Wave Equation
+  - Stationary Solution
+  - Asymptotic Expansion
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2014-01-04 00:00:00 +0100
 permalink: jet-bundle-formulation-of-infinite-dimensional-port-hamiltonian-systems-using-differential-operators
 year: 2014
 authors: Markus Schöberl, Andreas Siuka
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - differential geometry
-  - infinite-dimensional systems
-  - partial differential equations
-  - system theory
+  - Port-Hamiltonian systems
+  - Differential geometry
+  - Infinite-dimensional systems
+  - Partial differential equations
+  - System theory
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2022-09-02 00:00:00 +0100
 permalink: structure-preserving-discretization-of-a-coupled-allen-cahn-and-heat-equation-system
 year: 2022
 authors: Antoine Bendimerad-Hohl, Ghislain Haine, Denis Matignon, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - partitioned finite element method
-  - phase field
-  - diffuse interface
-  - solidification process
-  - entropy
+  - port-Hamiltonian systems
+  - Partitioned Finite Element Method
+  - Phase Field
+  - Diffuse Interface
+  - Solidification process
+  - Entropy
 ---
  
 ## Authors

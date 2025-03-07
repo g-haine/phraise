@@ -5,12 +5,11 @@ date: 2011-11-21 00:00:00 +0100
 permalink: robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances
 year: 2012
 authors: Romeo Ortega, Jose Guadalupe Romero
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear control
-  - port-hamiltonian systems
-  - integral control
+  - Nonlinear control
+  - Port-Hamiltonian systems
+  - Integral control
 ---
  
 ## Authors

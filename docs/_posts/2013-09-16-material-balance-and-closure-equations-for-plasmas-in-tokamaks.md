@@ -5,11 +5,10 @@ date: 2013-09-16 00:00:00 +0100
 permalink: material-balance-and-closure-equations-for-plasmas-in-tokamaks
 year: 2013
 authors: Ngoc Minh Trang Vu, Laurent Lefèvre
-category:
-  - proceedings
+category: proceedings
 tags:
   - plasma dynamics
-  - port hamiltonian systems
+  - port Hamiltonian systems
   - thermo-magneto-hydrodynamics
   - distributed parameters systems
   - kinetic theory

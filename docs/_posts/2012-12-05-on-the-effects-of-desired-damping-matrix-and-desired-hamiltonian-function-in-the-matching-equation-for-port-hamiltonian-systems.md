@@ -5,13 +5,12 @@ date: 2012-12-05 00:00:00 +0100
 permalink: on-the-effects-of-desired-damping-matrix-and-desired-hamiltonian-function-in-the-matching-equation-for-port-hamiltonian-systems
 year: 2013
 authors: Liangcheng Cai, Yong He, Min Wu
-category:
-  - articles
+category: articles
 tags:
-  - port–hamiltonian systems
-  - desired damping matrix
-  - matching equations
-  - convergence speed
+  - Port–Hamiltonian systems
+  - Desired damping matrix
+  - Matching equations
+  - Convergence speed
 ---
  
 ## Authors

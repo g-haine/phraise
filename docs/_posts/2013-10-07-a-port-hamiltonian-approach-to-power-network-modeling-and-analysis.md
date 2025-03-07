@@ -5,13 +5,12 @@ date: 2013-10-07 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-power-network-modeling-and-analysis
 year: 2013
 authors: S. Fiaz, D. Zonetti, R. Ortega, J.M.A. Scherpen, A.J. van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
-  - power networks
-  - modeling
-  - port-hamiltonian systems
-  - stability analysis
+  - Power networks
+  - Modeling
+  - Port-Hamiltonian systems
+  - Stability analysis
 ---
  
 ## Authors

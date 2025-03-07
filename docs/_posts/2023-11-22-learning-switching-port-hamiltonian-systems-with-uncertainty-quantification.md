@@ -5,14 +5,13 @@ date: 2023-11-22 00:00:00 +0100
 permalink: learning-switching-port-hamiltonian-systems-with-uncertainty-quantification
 year: 2023
 authors: Thomas Beckers, Tom Z. Jiahao, George J. Pappas
-category:
-  - proceedings
+category: proceedings
 tags:
-  - bayesian methods
-  - nonparametric methods
-  - grey box modelling
-  - mechatronic systems
-  - uncertainty quantification
+  - Bayesian methods
+  - Nonparametric methods
+  - Grey box modelling
+  - Mechatronic systems
+  - Uncertainty quantification
 ---
  
 ## Authors

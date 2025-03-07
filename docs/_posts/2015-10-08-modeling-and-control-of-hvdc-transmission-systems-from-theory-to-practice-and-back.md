@@ -5,17 +5,16 @@ date: 2015-10-08 00:00:00 +0100
 permalink: modeling-and-control-of-hvdc-transmission-systems-from-theory-to-practice-and-back
 year: 2015
 authors: Daniele Zonetti, Romeo Ortega, Abdelkrim Benchaib
-category:
-  - articles
+category: articles
 tags:
-  - multi-terminal hvdc transmission systems
-  - passivity-based control
-  - port-hamiltonian systems
-  - pi control
-  - nonminimum-phase systems
-  - pq and dc voltage control
-  - performance limitations
-  - power flow equations
+  - Multi-terminal HVDC transmission systems
+  - Passivity-based control
+  - Port-Hamiltonian systems
+  - PI control
+  - Nonminimum-phase systems
+  - PQ and DC voltage control
+  - Performance limitations
+  - Power flow equations
 ---
  
 ## Authors

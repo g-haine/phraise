@@ -5,8 +5,7 @@ date: 2007-09-20 00:00:00 +0100
 permalink: achievable-casimirs-and-its-implications-on-control-of-port-hamiltonian-systems
 year: 2007
 authors: R. Pasumarthy, A. J. van der Schaft
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

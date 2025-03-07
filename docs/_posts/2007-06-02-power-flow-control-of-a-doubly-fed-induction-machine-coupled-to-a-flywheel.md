@@ -5,13 +5,12 @@ date: 2007-06-02 00:00:00 +0100
 permalink: power-flow-control-of-a-doubly-fed-induction-machine-coupled-to-a-flywheel
 year: 2005
 authors: Carles Batlle, Arnau Dòria-Cerezo, Romeo Ortega
-category:
-  - articles
+category: articles
 tags:
-  - doubly-fed induction machine
-  - passivitybased control
-  - port-hamiltonian models
-  - power flow control
+  - Doubly-Fed Induction Machine
+  - Passivitybased Control
+  - Port-Hamiltonian Models
+  - Power Flow Control
 ---
  
 ## Authors

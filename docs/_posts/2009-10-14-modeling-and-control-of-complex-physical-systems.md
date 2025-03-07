@@ -5,8 +5,7 @@ date: 2009-10-14 00:00:00 +0100
 permalink: modeling-and-control-of-complex-physical-systems
 year: 2009
 authors: Vincent Duindam, Alessandro Macchelli, Stefano Stramigioli, Herman Bruyninckx
-category:
-  - books
+category: books
 ---
  
 ## Authors

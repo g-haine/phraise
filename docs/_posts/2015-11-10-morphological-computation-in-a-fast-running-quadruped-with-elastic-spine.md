@@ -5,14 +5,13 @@ date: 2015-11-10 00:00:00 +0100
 permalink: morphological-computation-in-a-fast-running-quadruped-with-elastic-spine
 year: 2015
 authors: Gerrit A. Folkertsma, Arjan J. van der Schaft, Stefano Stramigioli
-category:
-  - proceedings
+category: proceedings
 tags:
-  - robot dynamics
-  - control by interconnection
-  - locomotion
-  - numerical simulation
-  - port-hamiltonian systems
+  - Robot dynamics
+  - Control by interconnection
+  - Locomotion
+  - Numerical simulation
+  - Port-Hamiltonian Systems
 ---
  
 ## Authors

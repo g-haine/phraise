@@ -5,13 +5,12 @@ date: 2024-09-25 00:00:00 +0100
 permalink: a-port-hamiltonian-model-of-airplane-longitudinal-dynamics
 year: 2024
 authors: João Erick de Mattos Fernandes, Flávio Luiz Cardoso-Ribeiro, Mauricio Andrés Varela Morales
-category:
-  - proceedings
+category: proceedings
 tags:
-  - aerospace
-  - port-hamiltonian systems
-  - vehicle dynamic
-  - flight dynamics
+  - Aerospace
+  - Port-Hamiltonian systems
+  - Vehicle dynamic
+  - Flight dynamics
 ---
  
 ## Authors

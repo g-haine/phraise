@@ -5,8 +5,7 @@ date: 2023-07-20 00:00:00 +0100
 permalink: a-lyapunov-approach-for-the-exponential-stability-of-a-damped-timoshenko-beam
 year: 2023
 authors: Andrea Mattioni, Yongxin Wu, Yann Le Gorrec
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

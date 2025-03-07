@@ -5,8 +5,7 @@ date: 2021-09-14 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-ida-pbc-control-of-an-ipmc-actuated-flexible-beam
 year: 2021
 authors: Weijun Zhou, Yongxin Wu, Haiqiang Hu, Yanjun Li, Yu Wang
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

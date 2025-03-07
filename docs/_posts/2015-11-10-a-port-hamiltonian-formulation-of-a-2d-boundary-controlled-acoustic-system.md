@@ -5,10 +5,9 @@ date: 2015-11-10 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-a-2d-boundary-controlled-acoustic-system
 year: 2015
 authors: Vincent Trenchant, Yassine Fares, Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed port-hamiltonian systems
+  - Distributed Port-Hamiltonian systems
   - passivity based control
   - wave propagation
 ---

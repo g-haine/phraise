@@ -5,13 +5,12 @@ date: 2024-01-18 00:00:00 +0100
 permalink: in-domain-dissipation-assignment-of-boundary-controlled-port-hamiltonian-systems-using-backstepping
 year: 2024
 authors: Jeanne Redaud, Jean Auriol, Yann Le Gorrec
-category:
-  - articles
+category: articles
 tags:
-  - backstepping-based control design
-  - hyperbolic pde systems
-  - distributed parameter systems
-  - port-hamiltonian systems
+  - Backstepping-based control design
+  - Hyperbolic PDE systems
+  - Distributed parameter systems
+  - Port-hamiltonian systems
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2012-03-27 00:00:00 +0100
 permalink: adaptive-pi-stabilisation-of-switched-power-converters-described-by-port-hamiltonian-models
 year: 2012
 authors: Michael Hernandez-Gomez, Romeo Ortega, Françoise Lamnabhi-Lagarrigue, Gerardo Escobar
-category:
-  - chapters
+category: chapters
 tags:
-  - switching power converters
-  - port-hamiltonian model
-  - passive output
-  - power factor compensation
-  - load resistance
+  - Switching Power Converters
+  - port-Hamiltonian Model
+  - Passive Output
+  - Power Factor Compensation
+  - Load Resistance
 ---
  
 ## Authors

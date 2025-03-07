@@ -5,11 +5,10 @@ date: 2022-11-04 00:00:00 +0100
 permalink: distributed-damping-assignment-for-a-wave-equation-in-the-port-hamiltonian-framework
 year: 2022
 authors: Jeanne Redaud, Jean Auriol, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
   - infinite dimensional systems
-  - port-hamiltonian systems
+  - Port-Hamiltonian Systems
   - backstepping methodology
 ---
  

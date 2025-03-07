@@ -5,15 +5,14 @@ date: 2020-10-02 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-nonlinear-electrical-circuits
 year: 2021
 authors: H. Gernandt, F.E. Haller, T. Reis, A.J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - electrical circuit
-  - graph
-  - dirac structure
-  - lagrangian submanifold
-  - resistive relation
+  - Port-Hamiltonian system
+  - Electrical circuit
+  - Graph
+  - Dirac structure
+  - Lagrangian submanifold
+  - Resistive relation
 ---
  
 ## Authors

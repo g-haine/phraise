@@ -5,11 +5,10 @@ date: 2017-10-19 00:00:00 +0100
 permalink: modeling-discretization-and-motion-control-of-a-flexible-beam-in-the-port-hamiltonian-framework
 year: 2017
 authors: M. Wang, A. Bestler, P. Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - flexible robot arm
-  - port-hamiltonian systems
+  - Flexible robot arm
+  - port-Hamiltonian systems
   - distributed parameter systems
   - pseudo-spectral method
   - geometric discretization

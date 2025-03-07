@@ -5,13 +5,12 @@ date: 2023-06-15 00:00:00 +0100
 permalink: observer-design-for-a-class-of-discrete-port-hamiltonian-systems
 year: 2023
 authors: Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab
-category:
-  - articles
+category: articles
 tags:
-  - discrete port hamiltonian systems
-  - observer design
-  - contraction analysis
-  - lyapunov equation
+  - Discrete port Hamiltonian systems
+  - Observer design
+  - Contraction analysis
+  - Lyapunov equation
 ---
  
 ## Authors

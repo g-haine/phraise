@@ -5,8 +5,7 @@ date: 2003-06-11 00:00:00 +0100
 permalink: on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems
 year: 1998
 authors: Morten Dalsmo, Arjan van der Schaft
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

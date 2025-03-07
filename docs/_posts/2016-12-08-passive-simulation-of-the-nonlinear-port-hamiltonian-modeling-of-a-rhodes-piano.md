@@ -5,14 +5,13 @@ date: 2016-12-08 00:00:00 +0100
 permalink: passive-simulation-of-the-nonlinear-port-hamiltonian-modeling-of-a-rhodes-piano
 year: 2017
 authors: Antoine Falaize, Thomas Hélie
-category:
-  - articles
+category: articles
 tags:
-  - passive modeling
-  - numerical methods
-  - port-hamiltonian systems
-  - multiphysics system
-  - time domain simulation
+  - Passive modeling
+  - Numerical methods
+  - Port-Hamiltonian systems
+  - Multiphysics system
+  - Time domain simulation
 ---
  
 ## Authors
@@ -36,12 +35,17 @@ Passive modeling; Numerical methods; Port-Hamiltonian systems; Multiphysics syst
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body>
-<center><h1>504 Gateway Time-out</h1></center>
-</body>
-</html>
+@article{Falaize_2017,
+  title={{Passive simulation of the nonlinear port-Hamiltonian modeling of a Rhodes Piano}},
+  volume={390},
+  ISSN={0022-460X},
+  DOI={10.1016/j.jsv.2016.11.008},
+  journal={Journal of Sound and Vibration},
+  publisher={Elsevier BV},
+  author={Falaize, Antoine and Hélie, Thomas},
+  year={2017},
+  pages={289--309}
+}
 {% endraw %}
 {% endhighlight %}
  

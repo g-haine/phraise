@@ -5,13 +5,12 @@ date: 2007-06-14 00:00:00 +0100
 permalink: new-energy-based-nonlinear-controller-for-hydraulic-piston-actuators
 year: 2004
 authors: Andreas Kugi, Wolfgang Kemmetmüller
-category:
-  - articles
+category: articles
 tags:
-  - energy-based controller design
-  - hydraulic piston actuator
-  - nonlinear control
-  - porthamiltonian system
+  - Energy-based Controller Design
+  - Hydraulic Piston Actuator
+  - Nonlinear Control
+  - PortHamiltonian System
 ---
  
 ## Authors

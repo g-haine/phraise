@@ -5,8 +5,7 @@ date: 2008-01-28 00:00:00 +0100
 permalink: port-based-modelling-and-geometric-reduction-for-open-channel-irrigation-systems
 year: 2007
 authors: Boussad Hamroun, Laurent Lefevre, Eduardo Mendes
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

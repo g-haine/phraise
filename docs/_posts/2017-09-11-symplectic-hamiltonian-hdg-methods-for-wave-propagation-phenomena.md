@@ -5,16 +5,15 @@ date: 2017-09-11 00:00:00 +0100
 permalink: symplectic-hamiltonian-hdg-methods-for-wave-propagation-phenomena
 year: 2017
 authors: M.A. Sánchez, C. Ciuca, N.C. Nguyen, J. Peraire, B. Cockburn
-category:
-  - articles
+category: articles
 tags:
-  - finite element methods
-  - discontinuous galerkin methods
-  - hybrid/mixed methods
-  - acoustic wave equation
-  - hamiltonian systems
-  - symplectic time integrators
-  - energy conservation
+  - Finite element methods
+  - Discontinuous Galerkin methods
+  - Hybrid/mixed methods
+  - Acoustic wave equation
+  - Hamiltonian systems
+  - Symplectic time integrators
+  - Energy conservation
 ---
  
 ## Authors

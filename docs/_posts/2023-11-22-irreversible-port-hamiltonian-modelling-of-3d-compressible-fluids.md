@@ -5,11 +5,10 @@ date: 2023-11-22 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-modelling-of-3d-compressible-fluids
 year: 2023
 authors: Luis A. Mora, Yann Le Gorrec, Denis Matignon, Hector Ramirez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - boundary control systems
-  - infinite-dimensional port-hamiltonian systems
+  - Boundary control systems
+  - infinite-dimensional port-Hamiltonian systems
   - asymptotic stability
   - non-linear control
   - irreversible thermodynamics

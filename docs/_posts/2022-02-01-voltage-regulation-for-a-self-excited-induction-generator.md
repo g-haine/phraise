@@ -5,8 +5,7 @@ date: 2022-02-01 00:00:00 +0100
 permalink: voltage-regulation-for-a-self-excited-induction-generator
 year: 2021
 authors: Luis Miguel Esquivel-Sancho, Roberto Pereira-Arroyo, Mauricio Munoz-Arias
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

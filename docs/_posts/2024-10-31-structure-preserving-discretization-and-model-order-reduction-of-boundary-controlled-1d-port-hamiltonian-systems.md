@@ -5,13 +5,12 @@ date: 2024-10-31 00:00:00 +0100
 permalink: structure-preserving-discretization-and-model-order-reduction-of-boundary-controlled-1d-port-hamiltonian-systems
 year: 2024
 authors: Jesus-Pablo Toledo-Zucco, Denis Matignon, Charles Poussot-Vassal, Yann Le Gorrec
-category:
-  - articles
+category: articles
 tags:
-  - distributed port-hamiltonian systems
-  - finite element method
-  - loewner framework
-  - structure-preserving discretization methods
+  - Distributed port-Hamiltonian systems
+  - Finite element method
+  - Loewner framework
+  - Structure-preserving discretization methods
 ---
  
 ## Authors

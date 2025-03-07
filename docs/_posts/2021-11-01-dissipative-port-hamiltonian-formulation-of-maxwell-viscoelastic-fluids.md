@@ -5,12 +5,11 @@ date: 2021-11-01 00:00:00 +0100
 permalink: dissipative-port-hamiltonian-formulation-of-maxwell-viscoelastic-fluids
 year: 2021
 authors: Luis A. Mora, Yann Le Gorrec, Hector Ramirez, Juan Yuz, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - non-newtonian fluids
-  - maxwell’s viscoelasticity
+  - Port-Hamiltonian systems
+  - Non-Newtonian Fluids
+  - Maxwell’s viscoelasticity
 ---
  
 ## Authors

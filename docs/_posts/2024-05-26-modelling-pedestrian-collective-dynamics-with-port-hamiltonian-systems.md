@@ -5,13 +5,12 @@ date: 2024-05-26 00:00:00 +0100
 permalink: modelling-pedestrian-collective-dynamics-with-port-hamiltonian-systems
 year: 2024
 authors: Antoine Tordeux, Claudia Totzeck, Sylvain Lassarre, Jean-Patrick Lebacque
-category:
-  - proceedings
+category: proceedings
 tags:
-  - pedestrian dynamics
-  - port-hamiltonian system
-  - forcebased model
-  - collective dynamics
+  - Pedestrian dynamics
+  - Port-Hamiltonian system
+  - Forcebased model
+  - Collective dynamics
 ---
  
 ## Authors

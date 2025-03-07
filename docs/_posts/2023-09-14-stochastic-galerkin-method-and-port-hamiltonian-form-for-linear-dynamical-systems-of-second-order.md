@@ -5,15 +5,14 @@ date: 2023-09-14 00:00:00 +0100
 permalink: stochastic-galerkin-method-and-port-hamiltonian-form-for-linear-dynamical-systems-of-second-order
 year: 2024
 authors: Roland Pulch
-category:
-  - articles
+category: articles
 tags:
-  - ordinary differential equation
-  - port-hamiltonian system
-  - hamiltonian function
-  - stochastic galerkin method
-  - model order reduction
-  - uncertainty quantification
+  - Ordinary differential equation
+  - Port-Hamiltonian system
+  - Hamiltonian function
+  - Stochastic Galerkin method
+  - Model order reduction
+  - Uncertainty quantification
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2020-09-30 00:00:00 +0100
 permalink: a-scalable-port-hamiltonian-approach-to-plug-and-play-voltage-stabilization-in-dc-microgrids
 year: 2020
 authors: Felix Strehle, Martin Pfeifer, Albertus Johannes Malan, Stefan Krebs, Soren Hohmann
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

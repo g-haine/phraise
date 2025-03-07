@@ -5,11 +5,10 @@ date: 2016-12-23 00:00:00 +0100
 permalink: an-energy-based-approach-for-the-control-of-a-micro-robotic-contact-scenario
 year: 2016
 authors: Hector Ramirez, Bilal Komati, Yann Le Gorrec, Cédric Clévy
-category:
-  - proceedings
+category: proceedings
 tags:
-  - passivity based control
-  - port-hamiltonian systems
+  - Passivity based control
+  - port-Hamiltonian systems
   - non-linear control
   - micro-mechatronics
 ---

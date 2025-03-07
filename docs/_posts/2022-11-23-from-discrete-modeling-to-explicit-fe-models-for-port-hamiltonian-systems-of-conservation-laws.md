@@ -5,10 +5,9 @@ date: 2022-11-23 00:00:00 +0100
 permalink: from-discrete-modeling-to-explicit-fe-models-for-port-hamiltonian-systems-of-conservation-laws
 year: 2022
 authors: Paul Kotyczka, Tobias Thoma
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - conservation laws
   - exterior calculus
   - non-uniform boundary conditions

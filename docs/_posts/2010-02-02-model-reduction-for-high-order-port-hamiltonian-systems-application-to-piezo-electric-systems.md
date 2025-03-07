@@ -5,8 +5,7 @@ date: 2010-02-02 00:00:00 +0100
 permalink: model-reduction-for-high-order-port-hamiltonian-systems-application-to-piezo-electric-systems
 year: 2009
 authors: Luca Gentili, Luca Bassi, Alessandro Macchelli, Claudio Melchiorri, Roberto Borsari
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

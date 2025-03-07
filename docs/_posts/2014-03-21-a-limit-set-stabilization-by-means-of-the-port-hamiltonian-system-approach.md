@@ -5,8 +5,7 @@ date: 2014-03-21 00:00:00 +0100
 permalink: a-limit-set-stabilization-by-means-of-the-port-hamiltonian-system-approach
 year: 2015
 authors: Carlos Aguilar‐Ibañez, Julio A. Mendoza‐Mendoza, Juan C. Martinez, Jose de Jesus Rubio, Miguel S. Suarez‐Castanon
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

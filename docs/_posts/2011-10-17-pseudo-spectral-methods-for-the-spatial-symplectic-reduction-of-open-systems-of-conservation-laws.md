@@ -5,16 +5,15 @@ date: 2011-10-17 00:00:00 +0100
 permalink: pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws
 year: 2012
 authors: R. Moulla, L. Lefévre, B. Maschke
-category:
-  - articles
+category: articles
 tags:
-  - symplectic methods
-  - spatial reduction
-  - pseudo-spectral methods
-  - hamiltonian systems
-  - dirac structures
-  - systems of conservation laws
-  - open systems
+  - Symplectic methods
+  - Spatial reduction
+  - Pseudo-spectral methods
+  - Hamiltonian systems
+  - Dirac structures
+  - Systems of conservation laws
+  - Open systems
 ---
  
 ## Authors

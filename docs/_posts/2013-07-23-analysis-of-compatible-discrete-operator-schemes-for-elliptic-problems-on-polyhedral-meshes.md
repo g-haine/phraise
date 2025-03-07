@@ -5,8 +5,7 @@ date: 2013-07-23 00:00:00 +0100
 permalink: analysis-of-compatible-discrete-operator-schemes-for-elliptic-problems-on-polyhedral-meshes
 year: 2014
 authors: Jérôme Bonelle, Alexandre Ern
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

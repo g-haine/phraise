@@ -5,14 +5,13 @@ date: 2019-06-13 00:00:00 +0100
 permalink: robust-trajectory-tracking-for-incrementally-passive-nonlinear-systems
 year: 2019
 authors: Chengshuai Wu, Arjan van der Schaft, Jian Chen
-category:
-  - articles
+category: articles
 tags:
-  - incremental passivity
-  - trajectory tracking
-  - robust control
-  - port-hamiltonian systems
-  - asymptotic stability
+  - Incremental passivity
+  - Trajectory tracking
+  - Robust control
+  - Port-Hamiltonian systems
+  - Asymptotic stability
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2023-11-22 00:00:00 +0100
 permalink: damping-assignment-of-boundary-controlled-port-hamiltonian-systems-with-unknown-open-loop-damping
 year: 2023
 authors: Jesus-Pablo Toledo-Zucco, Alex Dos Reis De Souza, Pierre Vuillemin, Charles Poussot-Vassal
-category:
-  - proceedings
+category: proceedings
 tags:
-  - boundary control systems
+  - Boundary control systems
   - distributed parameter systems
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - damping assignment
   - observer design
   - adaptive control

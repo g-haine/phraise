@@ -5,8 +5,7 @@ date: 2022-06-21 00:00:00 +0100
 permalink: energy-cyclo-directionality-average-equipartition-and-exergy-efficiency-of-multidomain-power-networks
 year: 2022
 authors: Hanz Richter
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

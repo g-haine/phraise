@@ -5,15 +5,14 @@ date: 2007-05-24 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-physical-switching-systems-with-varying-constraints
 year: 2007
 authors: Claire Valentin, Miguel Magos, Bernhard Maschke
-category:
-  - articles
+category: articles
 tags:
-  - modeling
-  - port-hamiltonian systems
-  - network graph
-  - family of geometric interconnection structures
-  - incidence matrix
-  - energy exchanges
+  - Modeling
+  - Port-Hamiltonian systems
+  - Network graph
+  - Family of geometric interconnection structures
+  - Incidence matrix
+  - Energy exchanges
 ---
  
 ## Authors

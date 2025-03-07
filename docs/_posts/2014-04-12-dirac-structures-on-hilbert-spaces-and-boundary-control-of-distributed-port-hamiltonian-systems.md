@@ -5,14 +5,13 @@ date: 2014-04-12 00:00:00 +0100
 permalink: dirac-structures-on-hilbert-spaces-and-boundary-control-of-distributed-port-hamiltonian-systems
 year: 2014
 authors: Alessandro Macchelli
-category:
-  - articles
+category: articles
 tags:
-  - distributed port-hamiltonian systems
-  - passivity-based boundary control
-  - dirac structures
-  - dissipation obstacle
-  - stability analysis
+  - Distributed port-Hamiltonian systems
+  - Passivity-based boundary control
+  - Dirac structures
+  - Dissipation obstacle
+  - Stability analysis
 ---
  
 ## Authors

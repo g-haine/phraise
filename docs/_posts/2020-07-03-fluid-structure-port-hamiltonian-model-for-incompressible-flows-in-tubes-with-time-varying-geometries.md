@@ -5,8 +5,7 @@ date: 2020-07-03 00:00:00 +0100
 permalink: fluid-structure-port-hamiltonian-model-for-incompressible-flows-in-tubes-with-time-varying-geometries
 year: 2020
 authors: Luis A. Mora, Le Gorrec Yann, Hector Ramirez, Juan Yuz
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

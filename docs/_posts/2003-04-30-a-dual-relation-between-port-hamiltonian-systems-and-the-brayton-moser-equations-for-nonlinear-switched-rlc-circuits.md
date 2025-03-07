@@ -5,14 +5,13 @@ date: 2003-04-30 00:00:00 +0100
 permalink: a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits
 year: 2003
 authors: Dimitri Jeltsema, Jacquelien M.A. Scherpen
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear networks
-  - brayton–moser equations
-  - hamiltonian systems
-  - power converters
-  - switched-mode circuits
+  - Nonlinear networks
+  - Brayton–Moser equations
+  - Hamiltonian systems
+  - Power converters
+  - Switched-mode circuits
 ---
  
 ## Authors

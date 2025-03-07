@@ -5,13 +5,12 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-a-geometrically-nonlinear-hyperelastic-beam
 year: 2024
 authors: Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - modeling
-  - timoshenko beam
-  - nonlinear systems
+  - Port-Hamiltonian systems
+  - Modeling
+  - Timoshenko beam
+  - Nonlinear systems
 ---
  
 ## Authors

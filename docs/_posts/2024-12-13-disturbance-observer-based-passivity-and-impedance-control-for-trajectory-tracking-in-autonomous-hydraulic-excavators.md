@@ -5,13 +5,12 @@ date: 2024-12-13 00:00:00 +0100
 permalink: disturbance-observer-based-passivity-and-impedance-control-for-trajectory-tracking-in-autonomous-hydraulic-excavators
 year: 2025
 authors: Junjie Gong, Jian Chen, Dengsheng Cai, Wei Wei, Yu Long
-category:
-  - articles
+category: articles
 tags:
-  - autonomous hydraulic excavator
-  - passivity-based control
-  - impedance control
-  - disturbance observer
+  - Autonomous hydraulic excavator
+  - Passivity-based control
+  - Impedance control
+  - Disturbance observer
 ---
  
 ## Authors

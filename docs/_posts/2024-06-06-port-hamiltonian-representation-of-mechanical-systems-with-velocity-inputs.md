@@ -5,8 +5,7 @@ date: 2024-06-06 00:00:00 +0100
 permalink: port-hamiltonian-representation-of-mechanical-systems-with-velocity-inputs
 year: 2024
 authors: Joel Ferguson, Christopher Renton
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

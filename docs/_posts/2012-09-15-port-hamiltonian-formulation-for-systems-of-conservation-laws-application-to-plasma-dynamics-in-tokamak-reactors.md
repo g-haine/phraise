@@ -5,8 +5,7 @@ date: 2012-09-15 00:00:00 +0100
 permalink: port-hamiltonian-formulation-for-systems-of-conservation-laws-application-to-plasma-dynamics-in-tokamak-reactors
 year: 2012
 authors: Ngoc Minh Trang VU, Laurent LEFEVRE, Bernhard MASCHKE
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

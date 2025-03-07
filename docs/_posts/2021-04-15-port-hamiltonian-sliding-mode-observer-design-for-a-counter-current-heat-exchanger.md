@@ -5,12 +5,11 @@ date: 2021-04-15 00:00:00 +0100
 permalink: port-hamiltonian-sliding-mode-observer-design-for-a-counter-current-heat-exchanger
 year: 2020
 authors: Jacques Kadima Kazaku, Denis Dochain, Joseph Winkin, Moïse Mukepe Kahilu, Jimmy Kalenga Kaunde Kasongo
-category:
-  - proceedings
+category: proceedings
 tags:
-  - heat exchanger
-  - smo
-  - port-hamiltonian systems
+  - Heat exchanger
+  - SMO
+  - port-Hamiltonian systems
   - state estimation
 ---
  

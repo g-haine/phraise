@@ -5,14 +5,13 @@ date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-complex-non-linear-systems-application-to-a-liquid-propelled-rocket-engine
 year: 2024
 authors: J. Gibart, H. Piet-Lahanier, F. Farago
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian
-  - modelling
-  - non-linear
-  - aerospace
-  - rocket engine
+  - Port-Hamiltonian
+  - Modelling
+  - Non-linear
+  - Aerospace
+  - Rocket Engine
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2022-09-16 00:00:00 +0100
 permalink: dual-field-structure-preserving-discretization-of-port-hamiltonian-systems-using-finite-element-exterior-calculus
 year: 2022
 authors: Andrea Brugnoli, Ramy Rashad, Stefano Stramigioli
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - structure preserving discretization
-  - finite element exterior calculus
-  - de rham complex
-  - dual field representation
+  - Port-Hamiltonian systems
+  - Structure preserving discretization
+  - Finite element exterior calculus
+  - de Rham complex
+  - Dual field representation
 ---
  
 ## Authors

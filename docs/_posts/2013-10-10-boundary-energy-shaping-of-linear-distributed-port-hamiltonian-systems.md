@@ -5,13 +5,12 @@ date: 2013-10-10 00:00:00 +0100
 permalink: boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems
 year: 2013
 authors: Alessandro Macchelli
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed port-hamiltonian systems
-  - passivity-based control
-  - energy-casimir method
-  - stabilisation
+  - Distributed port-Hamiltonian systems
+  - Passivity-based control
+  - Energy-Casimir method
+  - Stabilisation
 ---
  
 ## Authors

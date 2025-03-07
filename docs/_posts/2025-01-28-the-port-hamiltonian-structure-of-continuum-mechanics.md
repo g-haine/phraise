@@ -5,13 +5,12 @@ date: 2025-01-28 00:00:00 +0100
 permalink: the-port-hamiltonian-structure-of-continuum-mechanics
 year: 2025
 authors: Ramy Rashad, Stefano Stramigioli
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian
-  - dirac structures
-  - bundle-valued forms
-  - exterior calculus
+  - Port-Hamiltonian
+  - Dirac structures
+  - Bundle-valued forms
+  - Exterior calculus
 ---
  
 ## Authors

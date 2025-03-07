@@ -5,11 +5,10 @@ date: 2021-04-15 00:00:00 +0100
 permalink: virtual-holonomic-constraints-control-for-port-hamiltonian-systems-a-case-study-of-fully-actuated-mechanical-systems
 year: 2020
 authors: Yuki Okura, Kenji Fujimoto, Chiaki Kojima
-category:
-  - proceedings
+category: proceedings
 tags:
   - nonlinear control
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - tracking control
   - mechanical systems
 ---

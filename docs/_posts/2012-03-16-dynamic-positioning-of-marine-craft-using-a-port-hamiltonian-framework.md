@@ -5,14 +5,13 @@ date: 2012-03-16 00:00:00 +0100
 permalink: dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework
 year: 2012
 authors: Alejandro Donaire, Tristan Perez
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - marine control systems
-  - dynamic positioning
-  - integral action
-  - input saturation
+  - Port-Hamiltonian systems
+  - Marine control systems
+  - Dynamic positioning
+  - Integral action
+  - Input saturation
 ---
  
 ## Authors

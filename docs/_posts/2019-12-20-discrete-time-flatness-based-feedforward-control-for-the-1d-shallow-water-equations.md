@@ -5,10 +5,9 @@ date: 2019-12-20 00:00:00 +0100
 permalink: discrete-time-flatness-based-feedforward-control-for-the-1d-shallow-water-equations
 year: 2019
 authors: Paul Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - nonlinear conservation laws
   - structure-preserving discretization
   - geometric integration

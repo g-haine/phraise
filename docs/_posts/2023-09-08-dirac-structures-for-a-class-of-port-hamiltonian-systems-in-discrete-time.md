@@ -5,8 +5,7 @@ date: 2023-09-08 00:00:00 +0100
 permalink: dirac-structures-for-a-class-of-port-hamiltonian-systems-in-discrete-time
 year: 2024
 authors: Alessio Moreschini, Salvatore Monaco, Dorothée Normand-Cyrot
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

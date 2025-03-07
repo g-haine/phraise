@@ -5,12 +5,11 @@ date: 2015-06-17 00:00:00 +0100
 permalink: distributed-and-backstepping-boundary-controls-to-achieve-ida-pbc-design
 year: 2015
 authors: N.M. Trang VU, L. LEFÈVRE, R. NOUAILLETAS
-category:
-  - proceedings
+category: proceedings
 tags:
   - distributed parameters systems
-  - port-hamiltonian systems
-  - ida-pbc control
+  - port-Hamiltonian systems
+  - IDA-PBC control
   - back- stepping control
   - plasma control
 ---

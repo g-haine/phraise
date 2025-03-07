@@ -5,14 +5,13 @@ date: 2023-09-28 00:00:00 +0100
 permalink: port-hamiltonian-framework-in-power-systems-domain-a-survey
 year: 2023
 authors: Maris Tõnso, Vadim Kaparin, Juri Belikov
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - power systems
-  - microgrids
-  - passivity based control
-  - interconnection and damping assignment
+  - Port-Hamiltonian systems
+  - Power systems
+  - Microgrids
+  - Passivity based control
+  - Interconnection and damping assignment
 ---
  
 ## Authors

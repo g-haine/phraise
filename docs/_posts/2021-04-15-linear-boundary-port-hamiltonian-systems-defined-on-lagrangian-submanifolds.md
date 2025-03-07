@@ -5,12 +5,11 @@ date: 2021-04-15 00:00:00 +0100
 permalink: linear-boundary-port-hamiltonian-systems-defined-on-lagrangian-submanifolds
 year: 2020
 authors: Bernhard Maschke, Arjan van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian systems
-  - dirac structures
-  - lagrangian subspaces
+  - Port Hamiltonian systems
+  - Dirac structures
+  - Lagrangian subspaces
 ---
  
 ## Authors

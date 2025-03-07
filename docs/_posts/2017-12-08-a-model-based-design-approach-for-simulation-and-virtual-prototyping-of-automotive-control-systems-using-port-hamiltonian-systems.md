@@ -5,14 +5,13 @@ date: 2017-12-08 00:00:00 +0100
 permalink: a-model-based-design-approach-for-simulation-and-virtual-prototyping-of-automotive-control-systems-using-port-hamiltonian-systems
 year: 2019
 authors: Siyuan Dai, Zhenkai Zhang, Xenofon Koutsoukos
-category:
-  - articles
+category: articles
 tags:
-  - cyber–physical systems
-  - model-based design
-  - port-hamiltonian systems
-  - passivity
-  - automotive control software
+  - Cyber–physical systems
+  - Model-based design
+  - Port-Hamiltonian systems
+  - Passivity
+  - Automotive control software
 ---
  
 ## Authors

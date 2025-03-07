@@ -5,10 +5,9 @@ date: 2024-09-25 00:00:00 +0100
 permalink: jet-space-extensions-of-infinite-dimensional-hamiltonian-systems
 year: 2024
 authors: Till Preuster, Bernhard Maschke, Manuel Schaller
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - jet spaces
   - distributed parameter systems
 ---

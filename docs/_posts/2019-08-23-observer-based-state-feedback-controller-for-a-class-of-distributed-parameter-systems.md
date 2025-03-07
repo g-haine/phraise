@@ -5,12 +5,11 @@ date: 2019-08-23 00:00:00 +0100
 permalink: observer-based-state-feedback-controller-for-a-class-of-distributed-parameter-systems
 year: 2019
 authors: Jesus Toledo, Yongxin Wu, Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems (phs)
-  - boundary control systems (bcs)
-  - linear matrix inequalities (lmi)
+  - Port-Hamiltonian Systems (PHS)
+  - Boundary Control Systems (BCS)
+  - Linear Matrix Inequalities (LMI)
 ---
  
 ## Authors

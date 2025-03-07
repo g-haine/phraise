@@ -5,14 +5,13 @@ date: 2023-03-22 00:00:00 +0100
 permalink: tracking-control-design-for-fractional-order-systems-a-passivity-based-port-hamiltonian-framework
 year: 2023
 authors: Lalitesh Kumar, Sukhwinder Singh Dhillon
-category:
-  - articles
+category: articles
 tags:
-  - port-controlled hamiltonian systems
-  - fractional order systems
-  - tracking control
-  - energy balancing
-  - passivity
+  - Port-controlled Hamiltonian systems
+  - Fractional order systems
+  - Tracking control
+  - Energy balancing
+  - Passivity
 ---
  
 ## Authors

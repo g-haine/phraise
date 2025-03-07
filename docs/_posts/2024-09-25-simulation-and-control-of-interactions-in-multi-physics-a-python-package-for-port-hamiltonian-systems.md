@@ -5,12 +5,11 @@ date: 2024-09-25 00:00:00 +0100
 permalink: simulation-and-control-of-interactions-in-multi-physics-a-python-package-for-port-hamiltonian-systems
 year: 2024
 authors: Giuseppe Ferraro, Michel Fournié, Ghislain Haine
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - structure-preserving discretization
-  - python package
+  - Port-Hamiltonian systems
+  - Structure-preserving discretization
+  - Python package
 ---
  
 ## Authors

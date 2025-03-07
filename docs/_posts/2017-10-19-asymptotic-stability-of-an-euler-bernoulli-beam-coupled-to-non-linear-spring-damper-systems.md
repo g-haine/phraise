@@ -5,11 +5,10 @@ date: 2017-10-19 00:00:00 +0100
 permalink: asymptotic-stability-of-an-euler-bernoulli-beam-coupled-to-non-linear-spring-damper-systems
 year: 2017
 authors: Yann Le Gorrec, Hans Zwart, Hector Ramirez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - boundary control systems
-  - infinite-dimensional port hamiltonian systems
+  - Boundary control systems
+  - infinite-dimensional port Hamiltonian systems
   - asymptotic stability
   - non-linear control
 ---

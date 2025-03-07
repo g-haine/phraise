@@ -5,16 +5,15 @@ date: 2008-04-26 00:00:00 +0100
 permalink: optimal-control-problem-in-bond-graph-formalism
 year: 2009
 authors: Omar Mouhib, Audrey Jardin, Wilfrid Marquis-Favre, Eric Bideaux, Daniel Thomasset
-category:
-  - proceedings
+category: proceedings
 tags:
-  - optimal control
-  - dissipative energy minimization
-  - output error minimization
-  - bond graph
-  - pontryagin maximum principle
-  - port-hamiltonian system
-  - bicausality
+  - Optimal control
+  - Dissipative energy minimization
+  - Output error minimization
+  - Bond graph
+  - Pontryagin Maximum Principle
+  - Port-Hamiltonian system
+  - Bicausality
 ---
  
 ## Authors

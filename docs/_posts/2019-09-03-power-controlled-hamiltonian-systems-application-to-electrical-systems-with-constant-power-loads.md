@@ -5,13 +5,12 @@ date: 2019-09-03 00:00:00 +0100
 permalink: power-controlled-hamiltonian-systems-application-to-electrical-systems-with-constant-power-loads
 year: 2019
 authors: Pooya Monshizadeh, Juan E. Machado, Romeo Ortega, Arjan van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - passivity theory
-  - stability of nonlinear systems
-  - constant power loads
+  - Port-Hamiltonian systems
+  - Passivity theory
+  - Stability of nonlinear systems
+  - Constant power loads
 ---
  
 ## Authors

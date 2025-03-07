@@ -5,13 +5,12 @@ date: 2014-09-08 00:00:00 +0100
 permalink: a-characterization-of-boundary-conditions-yielding-maximal-monotone-operators
 year: 2014
 authors: Sascha Trostorff
-category:
-  - articles
+category: articles
 tags:
-  - maximal monotone operators
-  - nonlinear boundary conditions
-  - port–hamiltonian systems
-  - frictional boundary conditions
+  - Maximal monotone operators
+  - Nonlinear boundary conditions
+  - Port–Hamiltonian systems
+  - Frictional boundary conditions
 ---
  
 ## Authors

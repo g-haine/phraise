@@ -5,10 +5,9 @@ date: 2022-11-23 00:00:00 +0100
 permalink: output-consensus-control-for-linear-port-hamiltonian-systems
 year: 2022
 authors: Shuai Feng, Yu Kawano, Michele Cucuzzella, Jacquelien M.A. Scherpen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - networked systems
   - output consensus
 ---

@@ -5,13 +5,12 @@ date: 2021-06-02 00:00:00 +0100
 permalink: optimal-control-of-port-hamiltonian-systems-a-continuous-time-learning-approach
 year: 2021
 authors: Lukas Kölsch, Pol Jané Soneira, Felix Strehle, Sören Hohmann
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - optimization-based controller synthesis
-  - adaptive control
-  - dynamic optimization problem
+  - Port-Hamiltonian systems
+  - Optimization-based controller synthesis
+  - Adaptive control
+  - Dynamic optimization problem
 ---
  
 ## Authors

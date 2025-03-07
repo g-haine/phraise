@@ -5,13 +5,12 @@ date: 2017-07-03 00:00:00 +0100
 permalink: consensus-dynamics-with-arbitrary-sign-preserving-nonlinearities
 year: 2017
 authors: Jieqiang Wei, Anneroos R.F. Everts, M. Kanat Camlibel, Arjan J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - multi-agent systems
-  - consensus
-  - nonsmooth analysis
-  - port-hamiltonian systems
+  - Multi-agent systems
+  - Consensus
+  - Nonsmooth analysis
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

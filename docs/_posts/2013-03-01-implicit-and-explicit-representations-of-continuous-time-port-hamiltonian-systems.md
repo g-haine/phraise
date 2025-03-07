@@ -5,12 +5,11 @@ date: 2013-03-01 00:00:00 +0100
 permalink: implicit-and-explicit-representations-of-continuous-time-port-hamiltonian-systems
 year: 2013
 authors: Fernando Castaños, Dmitry Gromov, Vincent Hayward, Hannah Michalska
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - nonlinear implicit systems
-  - modeling of physical systems
+  - Port-Hamiltonian systems
+  - Nonlinear implicit systems
+  - Modeling of physical systems
 ---
  
 ## Authors

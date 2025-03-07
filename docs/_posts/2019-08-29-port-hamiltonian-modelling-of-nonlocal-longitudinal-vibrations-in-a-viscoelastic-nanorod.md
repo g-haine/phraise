@@ -5,8 +5,7 @@ date: 2019-08-29 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-nonlocal-longitudinal-vibrations-in-a-viscoelastic-nanorod
 year: 2019
 authors: Hanif Heidari, H. Zwart
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

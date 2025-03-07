@@ -5,8 +5,7 @@ date: 2019-08-23 00:00:00 +0100
 permalink: brayton-moser-formulation-of-high-order-distributed-port-hamiltonian-systems-with-one-dimensional-spatial-domain
 year: 2019
 authors: Alessandro Macchelli
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

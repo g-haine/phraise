@@ -5,23 +5,22 @@ date: 2021-07-13 00:00:00 +0100
 permalink: theory-and-implementation-of-coupled-port-hamiltonian-continuum-and-lumped-parameter-models
 year: 2021
 authors: Finbar J. Argus, Chris P. Bradley, Peter J. Hunter
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian
-  - modelling
-  - pde
-  - fenics
-  - hamiltonian
-  - finite element
-  - galerkin
-  - symplectic
-  - lumped parameter
-  - continuum
-  - monolithic
-  - bond graph
-  - 65p10
-  - 35l05, 74f99, 65m60
+  - Port-Hamiltonian
+  - Modelling
+  - PDE
+  - FEniCS
+  - Hamiltonian
+  - Finite element
+  - Galerkin
+  - Symplectic
+  - Lumped parameter
+  - Continuum
+  - Monolithic
+  - Bond graph
+  - 65P10
+  - 35L05, 74F99, 65M60
 ---
  
 ## Authors

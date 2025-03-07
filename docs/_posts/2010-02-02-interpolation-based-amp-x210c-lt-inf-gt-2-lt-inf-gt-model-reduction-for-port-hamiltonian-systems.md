@@ -5,8 +5,7 @@ date: 2010-02-02 00:00:00 +0100
 permalink: interpolation-based-amp-x210c-lt-inf-gt-2-lt-inf-gt-model-reduction-for-port-hamiltonian-systems
 year: 2009
 authors: S. Gugercin, R.V. Polyuga, C.A. Beattie, A.J. van der Schaft
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

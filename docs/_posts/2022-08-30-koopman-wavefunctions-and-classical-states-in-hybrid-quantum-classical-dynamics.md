@@ -5,8 +5,7 @@ date: 2022-08-30 00:00:00 +0100
 permalink: koopman-wavefunctions-and-classical-states-in-hybrid-quantum-classical-dynamics
 year: 2022
 authors: François Gay-Balmaz, Cesare Tronci
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

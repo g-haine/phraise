@@ -5,12 +5,11 @@ date: 2023-11-22 00:00:00 +0100
 permalink: port-hamiltonian-based-model-for-platooning-applications-including-air-drag-effects
 year: 2023
 authors: Fernando Sanhueza, Francisco Vargas, Hector Ramirez, Andrés Peters
-category:
-  - proceedings
+category: proceedings
 tags:
-  - vehicle platooning
-  - aerodynamic drag
-  - port-hamiltonian modeling
+  - Vehicle platooning
+  - Aerodynamic drag
+  - Port-Hamiltonian modeling
 ---
  
 ## Authors

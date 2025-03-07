@@ -5,8 +5,7 @@ date: 2006-07-10 00:00:00 +0100
 permalink: port-based-modelling-of-manipulators-with-flexible-links
 year: 2006
 authors: A. Macchelli, S. Stramigioli, C. Melchiorri
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

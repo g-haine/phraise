@@ -5,15 +5,14 @@ date: 2008-02-29 00:00:00 +0100
 permalink: discontinuous-hamiltonian-finite-element-method-for-linear-hyperbolic-systems
 year: 2008
 authors: Yan Xu, Jaap J. W. van der Vegt, Onno Bokhove
-category:
-  - articles
+category: articles
 tags:
-  - rotating shallow water equations
-  - acoustic equations
-  - maxwell equations
-  - hamiltonian dynamics
-  - discontinuous galerkin method
-  - numerical flux
+  - Rotating shallow water equations
+  - Acoustic equations
+  - Maxwell equations
+  - Hamiltonian dynamics
+  - Discontinuous Galerkin method
+  - Numerical flux
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2022-11-17 00:00:00 +0100
 permalink: mixed-dimensional-geometric-coupling-of-port-hamiltonian-systems
 year: 2023
 authors: Jens Jäschke, Nathanael Skrepek, Matthias Ehrhardt
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - coupled systems
-  - geometric coupling
-  - infinite dimensional systems
+  - Port-Hamiltonian system
+  - Coupled systems
+  - Geometric coupling
+  - Infinite dimensional systems
 ---
  
 ## Authors

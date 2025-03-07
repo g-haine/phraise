@@ -5,12 +5,11 @@ date: 2021-06-29 00:00:00 +0100
 permalink: discrete-conservation-laws-for-finite-element-discretisations-of-multisymplectic-pdes
 year: 2021
 authors: Elena Celledoni, James Jackaman
-category:
-  - articles
+category: articles
 tags:
-  - parabolic multisymplectic pdes
-  - space-time finite element methods
-  - conservative algorithms
+  - Parabolic multisymplectic PDEs
+  - Space-time finite element methods
+  - Conservative algorithms
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2019-08-23 00:00:00 +0100
 permalink: energy-based-in-domain-control-of-a-piezo-actuated-euler-bernoulli-beam
 year: 2019
 authors: Tobias Malzer, Hubert Rams, Markus Schöberl
-category:
-  - proceedings
+category: proceedings
 tags:
   - infinite-dimensional systems
   - partial differential equations
   - in-domain actuation
   - differential geometry
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - structural invariants
   - dynamic controllers
 ---

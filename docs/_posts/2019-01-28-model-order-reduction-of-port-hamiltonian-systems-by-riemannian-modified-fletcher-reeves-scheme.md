@@ -5,8 +5,7 @@ date: 2019-01-28 00:00:00 +0100
 permalink: model-order-reduction-of-port-hamiltonian-systems-by-riemannian-modified-fletcher-reeves-scheme
 year: 2019
 authors: Yao-Lin Jiang, Kang-Li Xu
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

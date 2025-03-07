@@ -5,13 +5,12 @@ date: 2021-11-19 00:00:00 +0100
 permalink: energy-based-control-and-observer-design-for-higher-order-infinite-dimensional-port-hamiltonian-systems
 year: 2021
 authors: Tobias Malzer, Lukas Ecker, Markus Schöberl
-category:
-  - proceedings
+category: proceedings
 tags:
   - infinite-dimensional systems
   - partial differential equations
   - boundary actuation
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - structural invariants
   - observer design
 ---

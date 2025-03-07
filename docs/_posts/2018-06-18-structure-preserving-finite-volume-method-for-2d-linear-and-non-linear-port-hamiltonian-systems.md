@@ -5,14 +5,13 @@ date: 2018-06-18 00:00:00 +0100
 permalink: structure-preserving-finite-volume-method-for-2d-linear-and-non-linear-port-hamiltonian-systems
 year: 2018
 authors: Anass Serhani, Denis Matignon, Ghislain Haine
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems (phs)
-  - distributed-parameter system (dps)
+  - Port-Hamiltonian systems (pHs)
+  - distributed-parameter system (DPS)
   - systems of conservation laws
   - structure-preserving discretization
-  - finite volume method (fvm)
+  - finite volume method (FVM)
   - symplectic integration
 ---
  

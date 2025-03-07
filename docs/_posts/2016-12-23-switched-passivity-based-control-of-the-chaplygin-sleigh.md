@@ -5,14 +5,13 @@ date: 2016-12-23 00:00:00 +0100
 permalink: switched-passivity-based-control-of-the-chaplygin-sleigh
 year: 2016
 authors: Joel Ferguson, Alejandro Donaire, Richard H. Middleton
-category:
-  - proceedings
+category: proceedings
 tags:
-  - constraints
-  - nonholonomic
-  - passivity based control
-  - path planning
-  - port-hamiltonian
+  - Constraints
+  - Nonholonomic
+  - Passivity Based Control
+  - Path planning
+  - Port-Hamiltonian
 ---
  
 ## Authors

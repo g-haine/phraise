@@ -5,11 +5,10 @@ date: 2015-11-10 00:00:00 +0100
 permalink: nonlinear-damping-models-for-linear-conservative-mechanical-systems-with-preserved-eigenspaces-a-port-hamiltonian-formulation
 year: 2015
 authors: Thomas Hélie, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
   - energy storage
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - eigenfunctions
   - damping
   - nonlinear model

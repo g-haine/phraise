@@ -5,12 +5,11 @@ date: 2015-09-09 00:00:00 +0100
 permalink: long-term-analysis-of-the-stormer-verlet-method-for-hamiltonian-systems-with-a-solution-dependent-high-frequency
 year: 2016
 authors: Ernst Hairer, Christian Lubich
-category:
-  - articles
+category: articles
 tags:
-  - 65p10
-  - 65l05
-  - 34e13
+  - 65P10
+  - 65L05
+  - 34E13
 ---
  
 ## Authors

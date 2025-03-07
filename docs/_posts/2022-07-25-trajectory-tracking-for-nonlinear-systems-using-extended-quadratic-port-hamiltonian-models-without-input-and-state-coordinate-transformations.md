@@ -5,13 +5,12 @@ date: 2022-07-25 00:00:00 +0100
 permalink: trajectory-tracking-for-nonlinear-systems-using-extended-quadratic-port-hamiltonian-models-without-input-and-state-coordinate-transformations
 year: 2022
 authors: N.H. Hoang, T.S. Nguyen, T.K.P. Le, T.T.H. Phan, M.A. Hussain, D. Dochain
-category:
-  - articles
+category: articles
 tags:
-  - quadratic port-hamiltonian systems
-  - tracking control
-  - proportional–integral control
-  - nonlinear systems
+  - Quadratic port-Hamiltonian systems
+  - Tracking control
+  - Proportional–Integral control
+  - Nonlinear systems
 ---
  
 ## Authors

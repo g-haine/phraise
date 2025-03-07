@@ -5,14 +5,13 @@ date: 2024-11-18 00:00:00 +0100
 permalink: the-definition-of-entropy-production-metric-with-application-in-passivity-based-control-of-thermodynamic-systems
 year: 2025
 authors: Zhe Dong, Junyi Li, Zuoyi Zhang, Yujie Dong, Xiaojin Huang
-category:
-  - articles
+category: articles
 tags:
-  - thermodynamic system
-  - entropy production metric
-  - passivity-based control
-  - port-hamiltonian form
-  - nuclear
+  - Thermodynamic system
+  - Entropy production metric
+  - Passivity-based control
+  - Port-Hamiltonian form
+  - Nuclear
 ---
  
 ## Authors

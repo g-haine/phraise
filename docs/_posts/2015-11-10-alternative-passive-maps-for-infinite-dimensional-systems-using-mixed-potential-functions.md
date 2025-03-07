@@ -5,15 +5,14 @@ date: 2015-11-10 00:00:00 +0100
 permalink: alternative-passive-maps-for-infinite-dimensional-systems-using-mixed-potential-functions
 year: 2015
 authors: Krishna Chaitanya Kosaraju, Ramkrishna Pasumarthy, Dimitri Jeltsema
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed-parameter systems
+  - Distributed-parameter systems
   - infinite-dimensional systems
-  - brayton-moser equations
+  - Brayton-Moser equations
   - gradient systems
   - passivity
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
 ---
  
 ## Authors

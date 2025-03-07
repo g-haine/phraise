@@ -5,14 +5,13 @@ date: 2022-04-09 00:00:00 +0100
 permalink: virtual-contractivity-based-control-of-fully-actuated-mechanical-systems-in-the-port-hamiltonian-framework
 year: 2022
 authors: Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - trajectory tracking
-  - virtual systems
-  - contraction analysis
-  - mechanical systems
+  - Port-Hamiltonian systems
+  - Trajectory tracking
+  - Virtual systems
+  - Contraction analysis
+  - Mechanical systems
 ---
  
 ## Authors

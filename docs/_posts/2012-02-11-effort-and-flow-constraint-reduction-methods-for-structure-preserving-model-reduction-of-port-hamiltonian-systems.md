@@ -5,14 +5,13 @@ date: 2012-02-11 00:00:00 +0100
 permalink: effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems
 year: 2012
 authors: Rostyslav V. Polyuga, Arjan J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - structure preserving model reduction
-  - dirac structure
-  - effort-constraint method
-  - flow-constraint method
+  - Port-Hamiltonian systems
+  - Structure preserving model reduction
+  - Dirac structure
+  - Effort-constraint method
+  - Flow-constraint method
 ---
  
 ## Authors

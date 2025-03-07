@@ -5,8 +5,7 @@ date: 2020-06-27 00:00:00 +0100
 permalink: a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems
 year: 2021
 authors: Kenji Fujimoto, Naoki Sakata, Ichiro Maruta, Joel Ferguson
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

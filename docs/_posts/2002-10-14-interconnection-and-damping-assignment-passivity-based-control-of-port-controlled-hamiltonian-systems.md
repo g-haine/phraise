@@ -5,13 +5,12 @@ date: 2002-10-14 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems
 year: 2002
 authors: Romeo Ortega, Arjan van der Schaft, Bernhard Maschke, Gerardo Escobar
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear control
-  - passivity
-  - stabilization of nonlinear systems
-  - hamiltonian systems
+  - Nonlinear control
+  - Passivity
+  - Stabilization of nonlinear systems
+  - Hamiltonian systems
 ---
  
 ## Authors

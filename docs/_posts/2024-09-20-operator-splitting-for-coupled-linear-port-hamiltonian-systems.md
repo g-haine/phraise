@@ -5,12 +5,11 @@ date: 2024-09-20 00:00:00 +0100
 permalink: operator-splitting-for-coupled-linear-port-hamiltonian-systems
 year: 2025
 authors: Jan Lorenz, Tom Zwerschke, Michael Günther, Kevin Schäfers
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - operator splitting
-  - multiple time stepping
+  - Port-Hamiltonian systems
+  - Operator splitting
+  - Multiple time stepping
 ---
  
 ## Authors

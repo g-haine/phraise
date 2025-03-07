@@ -5,8 +5,7 @@ date: 2020-12-22 00:00:00 +0100
 permalink: energy-based-output-regulation-for-stochastic-port-hamiltonian-systems
 year: 2021
 authors: Song Xu, Wei Wang, Shengyuan Chen
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2017-05-13 00:00:00 +0100
 permalink: port-hamiltonian-systems-extended-to-irreversible-systems-the-example-of-the-heat-conduction
 year: 2004
 authors: D. Eberard, B. Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - nonlinear systems theory
-  - port hamiltonian systems
-  - irreversible thermodynamics
+  - Nonlinear systems theory
+  - Port Hamiltonian systems
+  - Irreversible Thermodynamics
 ---
  
 ## Authors

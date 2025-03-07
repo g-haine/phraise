@@ -5,15 +5,14 @@ date: 2016-11-23 00:00:00 +0100
 permalink: discontinuous-galerkin-methods-for-hamiltonian-odes-and-pdes
 year: 2017
 authors: Wensheng Tang, Yajuan Sun, Wenjun Cai
-category:
-  - articles
+category: articles
 tags:
-  - discontinuous galerkin method
-  - hamiltonian systems
-  - continuous-stage prk method
-  - symplectic prk scheme
-  - multi-symplectic prk scheme
-  - conservation laws
+  - Discontinuous Galerkin method
+  - Hamiltonian systems
+  - Continuous-stage PRK method
+  - Symplectic PRK scheme
+  - Multi-symplectic PRK scheme
+  - Conservation laws
 ---
  
 ## Authors

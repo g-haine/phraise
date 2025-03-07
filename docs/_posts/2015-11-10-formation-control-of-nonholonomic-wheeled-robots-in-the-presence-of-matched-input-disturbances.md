@@ -5,13 +5,12 @@ date: 2015-11-10 00:00:00 +0100
 permalink: formation-control-of-nonholonomic-wheeled-robots-in-the-presence-of-matched-input-disturbances
 year: 2015
 authors: Ewoud Vos, Matin Jafarian, Claudio De Persis, Jacquelien M.A. Scherpen, Arjan J. van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
-  - disturbance rejection
+  - Disturbance rejection
   - formation control
   - nonholonomic systems
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - internal model control
 ---
  

@@ -5,8 +5,7 @@ date: 2020-06-17 00:00:00 +0100
 permalink: well-posedness-of-infinite-dimensional-non-autonomous-passive-boundary-control-systems
 year: 2021
 authors: Birgit Jacob, Hafida Laasri
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

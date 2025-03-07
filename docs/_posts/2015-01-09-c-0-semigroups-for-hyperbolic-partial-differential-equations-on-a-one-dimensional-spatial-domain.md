@@ -5,12 +5,11 @@ date: 2015-01-09 00:00:00 +0100
 permalink: c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain
 year: 2015
 authors: Birgit Jacob, Kirsten Morris, Hans Zwart
-category:
-  - articles
+category: articles
 tags:
-  - \( c_0 \)-semigroups
-  - hyperbolic partial differential equations
-  - port-hamiltonian differential equations
+  - \\( C_0 \\)-semigroups
+  - Hyperbolic partial differential equations
+  - Port-Hamiltonian differential equations
 ---
  
 ## Authors
@@ -20,7 +19,7 @@ tags:
 Hyperbolic partial differential equations on a one-dimensional spatial domain are studied. This class of systems includes models of beams and waves as well as the transport equation and networks of non-homogeneous transmission lines. The main result of this paper is a simple test for C _0-semigroup generation in terms of the boundary conditions. The result is illustrated with several examples.
  
 ## Keywords
-\( C_0 \)-semigroups; Hyperbolic partial differential equations; Port-Hamiltonian differential equations
+\\( C_0 \\)-semigroups; Hyperbolic partial differential equations; Port-Hamiltonian differential equations
  
 ## Citation
 - **Journal:** Journal of Evolution Equations

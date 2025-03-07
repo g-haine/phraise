@@ -5,16 +5,15 @@ date: 2022-09-02 00:00:00 +0100
 permalink: exergetic-port-hamiltonian-systems-navier-stokes-fourier-fluid
 year: 2022
 authors: Markus Lohmayer, Sigrid Leyendecker
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - geometric fluid mechanics
   - thermodynamics
   - exergy
   - compositionality
   - bond graphs
-  - generic
+  - GENERIC
   - exterior calculus
 ---
  

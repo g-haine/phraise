@@ -5,13 +5,12 @@ date: 2021-11-19 00:00:00 +0100
 permalink: from-statistical-physics-to-macroscopic-port-hamiltonian-systems-a-roadmap
 year: 2021
 authors: Judy Najnudel, Thomas Hélie, David Roze, Rémy Müller
-category:
-  - proceedings
+category: proceedings
 tags:
   - physical modeling
   - statistical physics
   - thermodynamics
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
 ---
  
 ## Authors

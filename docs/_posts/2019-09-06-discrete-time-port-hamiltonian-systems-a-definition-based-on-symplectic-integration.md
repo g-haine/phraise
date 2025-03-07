@@ -5,14 +5,13 @@ date: 2019-09-06 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration
 year: 2019
 authors: Paul Kotyczka, Laurent Lefèvre
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - dirac structures
-  - discrete-time systems
-  - geometric numerical integration
-  - symplectic methods
+  - Port-Hamiltonian systems
+  - Dirac structures
+  - Discrete-time systems
+  - Geometric numerical integration
+  - Symplectic methods
 ---
  
 ## Authors

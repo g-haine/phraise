@@ -5,12 +5,11 @@ date: 2024-10-31 00:00:00 +0100
 permalink: stabilisation-of-stochastic-single-file-dynamics-using-port-hamiltonian-systems
 year: 2024
 authors: Julia Ackermann, Matthias Ehrhardt, Thomas Kruse, Antoine Tordeux
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - stability
-  - stochastic modeling and stochastic systems theory
+  - Port-Hamiltonian Systems
+  - Stability
+  - Stochastic Modeling and Stochastic Systems Theory
 ---
  
 ## Authors

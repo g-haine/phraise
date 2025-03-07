@@ -5,10 +5,9 @@ date: 2016-08-09 00:00:00 +0100
 permalink: finite-volume-structure-preserving-discretization-of-1d-distributed-parameter-port-hamiltonian-systems
 year: 2016
 authors: Paul Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - systems of conservation laws
   - distributed-parameter systems
   - semi-discretiziation

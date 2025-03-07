@@ -5,15 +5,14 @@ date: 2024-09-11 00:00:00 +0100
 permalink: improved-a-posteriori-error-bounds-for-reduced-port-hamiltonian-systems
 year: 2024
 authors: Johannes Rettberg, Dominik Wittwar, Patrick Buchfink, Robin Herkert, Jörg Fehr, Bernard Haasdonk
-category:
-  - articles
+category: articles
 tags:
-  - structure-preserving model order reduction
-  - a posteriori error control
-  - port-hamiltonian system
-  - fluid–structure interaction
-  - 65l70
-  - 34c20
+  - Structure-preserving model order reduction
+  - A posteriori error control
+  - Port-Hamiltonian system
+  - Fluid–structure interaction
+  - 65L70
+  - 34C20
 ---
  
 ## Authors

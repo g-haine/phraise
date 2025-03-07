@@ -5,19 +5,18 @@ date: 2020-06-18 00:00:00 +0100
 permalink: dirac-and-lagrange-algebraic-constraints-in-nonlinear-port-hamiltonian-systems
 year: 2020
 authors: Arjan van der Schaft, Bernhard Maschke
-category:
-  - articles
+category: articles
 tags:
-  - differential-algebraic equations
-  - nonlinear control
-  - hamiltonian systems
-  - dirac structures
-  - lagrangian submanifolds
-  - 34a09
-  - 65l80
-  - 53d12
-  - 70b45
-  - 93c10
+  - Differential-algebraic equations
+  - Nonlinear control
+  - Hamiltonian systems
+  - Dirac structures
+  - Lagrangian submanifolds
+  - 34A09
+  - 65L80
+  - 53D12
+  - 70B45
+  - 93C10
 ---
  
 ## Authors

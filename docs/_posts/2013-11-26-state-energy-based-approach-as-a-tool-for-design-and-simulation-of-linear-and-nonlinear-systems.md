@@ -5,17 +5,16 @@ date: 2013-11-26 00:00:00 +0100
 permalink: state-energy-based-approach-as-a-tool-for-design-and-simulation-of-linear-and-nonlinear-systems
 year: 2013
 authors: Milan Stork, Josef Hrusak, Daniel Mayer
-category:
-  - chapters
+category: chapters
 tags:
-  - chaoticity
-  - conservativity
-  - convergence
-  - dissipativity
-  - port hamiltonian
-  - stability
-  - state space energy
-  - tellegen’s principle
+  - Chaoticity
+  - Conservativity
+  - Convergence
+  - Dissipativity
+  - Port Hamiltonian
+  - Stability
+  - State space energy
+  - Tellegen’s principle
 ---
  
 ## Authors

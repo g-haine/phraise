@@ -5,8 +5,7 @@ date: 2016-04-12 00:00:00 +0100
 permalink: safety-analysis-of-automotive-control-systems-using-multi-modal-port-hamiltonian-systems
 year: 2016
 authors: Siyuan Dai, Xenofon Koutsoukos
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

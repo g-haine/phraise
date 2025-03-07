@@ -5,11 +5,10 @@ date: 2015-11-10 00:00:00 +0100
 permalink: explicit-second-order-accurate-method-for-the-passive-guaranteed-simulation-of-port-hamiltonian-systems
 year: 2015
 authors: N. Lopes, T. Hélie, A. Falaize
-category:
-  - proceedings
+category: proceedings
 tags:
   - energy storage
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - nonlinear model
   - nonlinear model
   - partial differential equations

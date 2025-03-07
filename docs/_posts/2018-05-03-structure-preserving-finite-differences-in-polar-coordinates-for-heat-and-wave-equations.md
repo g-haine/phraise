@@ -5,10 +5,9 @@ date: 2018-05-03 00:00:00 +0100
 permalink: structure-preserving-finite-differences-in-polar-coordinates-for-heat-and-wave-equations
 year: 2018
 authors: Vincent Trenchant, Weiwei Hu, Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed port-hamiltonian systems
+  - Distributed port-Hamiltonian systems
   - staggered grids
   - finite difference method
   - wave equation

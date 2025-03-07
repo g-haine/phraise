@@ -5,12 +5,11 @@ date: 2021-01-14 00:00:00 +0100
 permalink: energy-shaping-control-with-integral-action-for-soft-continuum-manipulators
 year: 2021
 authors: Enrico Franco, Arnau Garriga Casanovas, Alejandro Donaire
-category:
-  - articles
+category: articles
 tags:
-  - soft continuum robots
-  - underactuated systems
-  - port-hamiltonian systems
+  - Soft continuum robots
+  - Underactuated systems
+  - Port-hamiltonian systems
 ---
  
 ## Authors

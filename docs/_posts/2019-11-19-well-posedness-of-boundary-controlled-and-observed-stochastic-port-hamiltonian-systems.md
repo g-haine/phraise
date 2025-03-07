@@ -5,8 +5,7 @@ date: 2019-11-19 00:00:00 +0100
 permalink: well-posedness-of-boundary-controlled-and-observed-stochastic-port-hamiltonian-systems
 year: 2020
 authors: Francois Lamoline, Joseph J. Winkin
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

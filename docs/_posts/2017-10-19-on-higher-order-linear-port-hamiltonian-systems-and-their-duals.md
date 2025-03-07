@@ -5,12 +5,11 @@ date: 2017-10-19 00:00:00 +0100
 permalink: on-higher-order-linear-port-hamiltonian-systems-and-their-duals
 year: 2017
 authors: P. Rapisarda, J.C. Mayo Maldonado
-category:
-  - proceedings
+category: proceedings
 tags:
-  - bilinear-
+  - Bilinear-
   - quadratic differential forms
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - behavioral system theory
   - duality
   - switched linear differential systems

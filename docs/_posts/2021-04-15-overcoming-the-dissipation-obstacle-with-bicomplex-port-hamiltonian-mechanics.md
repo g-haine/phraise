@@ -5,13 +5,12 @@ date: 2021-04-15 00:00:00 +0100
 permalink: overcoming-the-dissipation-obstacle-with-bicomplex-port-hamiltonian-mechanics
 year: 2020
 authors: Coen Hutters, Max Mendel
-category:
-  - proceedings
+category: proceedings
 tags:
   - dissipation obstacle
-  - energy-casimir method
-  - port-hamiltonian systems
-  - hamiltonian mechanics
+  - energy-Casimir method
+  - port-Hamiltonian systems
+  - Hamiltonian mechanics
   - energy shaping
 ---
  

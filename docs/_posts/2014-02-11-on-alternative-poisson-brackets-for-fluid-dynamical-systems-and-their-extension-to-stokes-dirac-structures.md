@@ -5,11 +5,10 @@ date: 2014-02-11 00:00:00 +0100
 permalink: on-alternative-poisson-brackets-for-fluid-dynamical-systems-and-their-extension-to-stokes-dirac-structures
 year: 2013
 authors: B. Maschke, A.J. van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
-  - five to ten keywords
-  - preferably chosen from the ifac keyword list
+  - Five to ten keywords
+  - preferably chosen from the IFAC keyword list
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2018-06-30 00:00:00 +0100
 permalink: finite-differences-on-staggered-grids-preserving-the-port-hamiltonian-structure-with-application-to-an-acoustic-duct
 year: 2018
 authors: Vincent Trenchant, Hector Ramirez, Yann Le Gorrec, Paul Kotyczka
-category:
-  - articles
+category: articles
 tags:
-  - distributed port-hamiltonian systems
-  - wave equation
-  - staggered grids
-  - finite-difference method
-  - midpoint rule
-  - structured mesh
+  - Distributed port-Hamiltonian systems
+  - Wave equation
+  - Staggered grids
+  - Finite-difference method
+  - Midpoint rule
+  - Structured mesh
 ---
  
 ## Authors

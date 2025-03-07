@@ -5,16 +5,15 @@ date: 2017-10-19 00:00:00 +0100
 permalink: a-thermodynamically-consistent-port-hamiltonian-model-for-dielectric-elastomer-membrane-actuators-and-generators
 year: 2017
 authors: G. Rizzello, D. Naso, S. Seelecke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dielectric elastomers
-  - dielectric electro-active polymers
-  - mechatronics
-  - cone membrane
-  - physical models
-  - port-hamiltonian
-  - passivity
+  - Dielectric Elastomers
+  - Dielectric Electro-Active Polymers
+  - Mechatronics
+  - Cone Membrane
+  - Physical models
+  - Port-Hamiltonian
+  - Passivity
 ---
  
 ## Authors

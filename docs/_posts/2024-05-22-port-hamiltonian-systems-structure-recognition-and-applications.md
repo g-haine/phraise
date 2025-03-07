@@ -5,12 +5,11 @@ date: 2024-05-22 00:00:00 +0100
 permalink: port-hamiltonian-systems-structure-recognition-and-applications
 year: 2024
 authors: V. Salnikov
-category:
-  - articles
+category: articles
 tags:
   - geometrization of mechanics
-  - port-hamiltonian systems
-  - and machine learning methods for odes
+  - port-Hamiltonian systems
+  - and machine learning methods for ODEs
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2011-04-12 00:00:00 +0100
 permalink: mastering-the-complexity-of-an-ultrasonic-sealing-system-the-port-hamiltonian-approach
 year: 2011
 authors: Luca Gentili, Alessandro Macchelli, Claudio Melchiorri, Alberto Mameli
-category:
-  - articles
+category: articles
 tags:
-  - model reduction
-  - port-hamiltonian systems
-  - piezo-electric devices
-  - modeling
-  - simulation
+  - Model reduction
+  - Port-Hamiltonian systems
+  - Piezo-electric devices
+  - Modeling
+  - Simulation
 ---
  
 ## Authors

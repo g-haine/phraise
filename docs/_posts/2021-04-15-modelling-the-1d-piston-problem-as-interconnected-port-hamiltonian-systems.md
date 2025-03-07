@@ -5,14 +5,13 @@ date: 2021-04-15 00:00:00 +0100
 permalink: modelling-the-1d-piston-problem-as-interconnected-port-hamiltonian-systems
 year: 2020
 authors: Anne-Sophie Treton, Ghislain Haine, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - piston problem
-  - port-hamiltonian system
-  - dirac structure
+  - Piston problem
+  - port-Hamiltonian system
+  - Dirac structure
   - free boundary
-  - non-linear pde
+  - non-linear PDE
   - fluid-structure-thermal interactions
   - control
   - observation

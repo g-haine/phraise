@@ -5,19 +5,18 @@ date: 2014-10-23 00:00:00 +0100
 permalink: symplectic-mixed-finite-element-approximation-of-linear-acoustic-wave-equations
 year: 2015
 authors: Robert C. Kirby, Thinh Tri Kieu
-category:
-  - articles
+category: articles
 tags:
-  - 65m60
-  - 65m12
-  - 65p10
+  - 65M60
+  - 65M12
+  - 65P10
 ---
  
 ## Authors
 [Robert C. Kirby](authors/robert_c_kirby), [Thinh Tri Kieu](authors/thinh_tri_kieu)
  
 ## Abstract
-We apply mixed finite element approximations to the first-order form of the acoustic wave equation. The semidiscrete method exactly conserves the system energy. A fully discrete method employing the symplectic Euler time method in time exactly conserves a positive-definite pertubed energy functional that is equivalent to the actual energy under a CFL condition. In addition to proving optimal-order \(  \)L^\\infty (L^2)\(  \) L ∞ ( L 2 ) estimates, we also develop a bootstrap technique that allows us to derive stability and error bounds for the time derivatives and divergence of the vector variable beyond the standard under some additional regularity assumptions.
+We apply mixed finite element approximations to the first-order form of the acoustic wave equation. The semidiscrete method exactly conserves the system energy. A fully discrete method employing the symplectic Euler time method in time exactly conserves a positive-definite pertubed energy functional that is equivalent to the actual energy under a CFL condition. In addition to proving optimal-order \\(  \\)L^\\infty (L^2)\\(  \\) L ∞ ( L 2 ) estimates, we also develop a bootstrap technique that allows us to derive stability and error bounds for the time derivatives and divergence of the vector variable beyond the standard under some additional regularity assumptions.
  
 ## Keywords
 65M60; 65M12; 65P10

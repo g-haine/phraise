@@ -5,16 +5,15 @@ date: 2022-10-01 00:00:00 +0100
 permalink: stochastic-port-hamiltonian-systems
 year: 2022
 authors: Francesco Cordoni, Luca Di Persio, Riccardo Muradore
-category:
-  - articles
+category: articles
 tags:
-  - stochastic geometric mechanics
-  - port-hamiltonian systems
-  - stochastic equations on manifold
-  - dirac manifold
-  - 34g20
-  - 34f05
-  - 37n35
+  - Stochastic geometric mechanics
+  - Port-Hamiltonian systems
+  - Stochastic equations on manifold
+  - Dirac manifold
+  - 34G20
+  - 34F05
+  - 37N35
 ---
  
 ## Authors

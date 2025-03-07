@@ -5,13 +5,12 @@ date: 2024-09-25 00:00:00 +0100
 permalink: scattering-passive-structure-preserving-finite-element-method-for-the-boundary-controlled-transport-equation-with-a-moving-mesh
 year: 2024
 authors: Jesus-Pablo Toledo-Zucco, Denis Matignon, Charles Poussot-Vassal
-category:
-  - proceedings
+category: proceedings
 tags:
-  - transport phenomena
-  - finite element method
-  - boundary control
-  - moving mesh
+  - Transport phenomena
+  - Finite Element Method
+  - Boundary Control
+  - Moving mesh
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2015-09-04 00:00:00 +0100
 permalink: further-deleterious-effects-of-the-dissipation-obstacle-in-control-by-interconnection-of-port-hamiltonian-systems
 year: 2015
 authors: Meng Zhang, Romeo Ortega, Dimitri Jeltsema, Hongye Su
-category:
-  - articles
+category: articles
 tags:
-  - dissipation obstacle
-  - energy-shaping
-  - control-by-interconnection
-  - port-hamiltonian systems
-  - casimir functions
-  - passivity-based control
+  - Dissipation obstacle
+  - Energy-shaping
+  - Control-by-interconnection
+  - Port-Hamiltonian systems
+  - Casimir functions
+  - Passivity-based control
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2013-12-29 00:00:00 +0100
 permalink: port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems
 year: 2004
 authors: A. J. Schaft
-category:
-  - chapters
+category: chapters
 tags:
-  - hamiltonian system
-  - multibody system
-  - kinematic constraint
-  - dirac structure
-  - bond graph
+  - Hamiltonian System
+  - Multibody System
+  - Kinematic Constraint
+  - Dirac Structure
+  - Bond Graph
 ---
  
 ## Authors

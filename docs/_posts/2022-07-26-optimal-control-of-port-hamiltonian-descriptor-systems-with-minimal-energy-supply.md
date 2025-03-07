@@ -5,8 +5,7 @@ date: 2022-07-26 00:00:00 +0100
 permalink: optimal-control-of-port-hamiltonian-descriptor-systems-with-minimal-energy-supply
 year: 2022
 authors: Timm Faulwasser, Bernhard Maschke, Friedrich Philipp, Manuel Schaller, Karl Worthmann
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

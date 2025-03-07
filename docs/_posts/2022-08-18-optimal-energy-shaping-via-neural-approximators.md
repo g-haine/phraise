@@ -5,8 +5,7 @@ date: 2022-08-18 00:00:00 +0100
 permalink: optimal-energy-shaping-via-neural-approximators
 year: 2022
 authors: Stefano Massaroli, Michael Poli, Federico Califano, Jinkyoo Park, Atsushi Yamashita, Hajime Asama
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

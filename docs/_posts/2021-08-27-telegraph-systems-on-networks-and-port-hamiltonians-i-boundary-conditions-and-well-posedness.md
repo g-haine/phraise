@@ -5,8 +5,7 @@ date: 2021-08-27 00:00:00 +0100
 permalink: telegraph-systems-on-networks-and-port-hamiltonians-i-boundary-conditions-and-well-posedness
 year: 2022
 authors: Jacek Banasiak, Adam Błoch
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2021-04-15 00:00:00 +0100
 permalink: a-human-inner-ear-model-for-assessment-of-noise-induced-hearing-loss-via-energy-methods
 year: 2020
 authors: Milka C.I. Madahana, Otis T.C. Nyandoro, John E.D. Ekoru
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian
-  - euler bernoulli
-  - noise
+  - Port Hamiltonian
+  - Euler Bernoulli
+  - Noise
   - frequency
-  - cochlear
+  - Cochlear
 ---
  
 ## Authors

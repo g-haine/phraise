@@ -5,8 +5,7 @@ date: 2017-02-09 00:00:00 +0100
 permalink: exponential-stability-of-port-hamiltonian-systems-via-energy-shaped-method
 year: 2017
 authors: Liangcheng Cai, Yong He
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

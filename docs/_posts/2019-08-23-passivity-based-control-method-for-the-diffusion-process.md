@@ -5,13 +5,12 @@ date: 2019-08-23 00:00:00 +0100
 permalink: passivity-based-control-method-for-the-diffusion-process
 year: 2019
 authors: Saida Zenfari, Mohamed Laabissi, Mohammed Elarbi Achhab
-category:
-  - proceedings
+category: proceedings
 tags:
   - distributed irreversible port hamiltonian systems
   - diffusion process
-  - availability energy
-  - la salle’s invariance principle
+  - Availability energy
+  - La Salle’s invariance principle
   - passivity based control
 ---
  

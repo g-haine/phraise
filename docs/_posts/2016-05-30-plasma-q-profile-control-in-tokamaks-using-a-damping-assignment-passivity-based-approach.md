@@ -5,13 +5,12 @@ date: 2016-05-30 00:00:00 +0100
 permalink: plasma-q-profile-control-in-tokamaks-using-a-damping-assignment-passivity-based-approach
 year: 2016
 authors: Ngoc Minh Trang Vu, Rémy Nouailletas, Laurent Lefèvre, Federico Felici
-category:
-  - articles
+category: articles
 tags:
-  - tokamak plasma control
-  - distributed parameter systems
-  - port-controlled hamiltonian systems
-  - ida-pbc control
+  - Tokamak plasma control
+  - Distributed parameter systems
+  - Port-Controlled Hamiltonian systems
+  - IDA-PBC control
 ---
  
 ## Authors

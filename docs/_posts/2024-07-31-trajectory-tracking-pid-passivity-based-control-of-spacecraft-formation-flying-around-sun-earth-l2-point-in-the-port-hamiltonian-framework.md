@@ -5,14 +5,13 @@ date: 2024-07-31 00:00:00 +0100
 permalink: trajectory-tracking-pid-passivity-based-control-of-spacecraft-formation-flying-around-sun-earth-l2-point-in-the-port-hamiltonian-framework
 year: 2024
 authors: Jiaming Wang, Qingrui Zhou, Wei Zheng, Jingdong Diao
-category:
-  - articles
+category: articles
 tags:
-  - sel2
-  - formation flight
-  - nonlinear dynamic
-  - port-hamiltonian system
-  - passivity-based control
+  - SEL2
+  - Formation flight
+  - Nonlinear dynamic
+  - Port-Hamiltonian system
+  - Passivity-based control
 ---
  
 ## Authors

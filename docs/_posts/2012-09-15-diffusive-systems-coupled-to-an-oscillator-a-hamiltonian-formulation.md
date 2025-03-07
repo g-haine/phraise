@@ -5,11 +5,10 @@ date: 2012-09-15 00:00:00 +0100
 permalink: diffusive-systems-coupled-to-an-oscillator-a-hamiltonian-formulation
 year: 2012
 authors: Y. Le Gorrec, D. Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
   - energy storage
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - partial differential equations
   - fractional derivatives
   - diffusive representation

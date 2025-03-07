@@ -5,8 +5,7 @@ date: 2019-05-27 00:00:00 +0100
 permalink: towards-more-energy-efficient-pneumatic-soft-actuators-using-a-port-hamiltonian-approach
 year: 2019
 authors: Ho-Tak D. Chun, Jamie O. Roberts, Mohammed E. Sayed, Simona Aracri, Adam A. Stokes
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2016-08-09 00:00:00 +0100
 permalink: piezoelectric-beam-with-distributed-control-ports-a-power-preserving-discretization-using-weak-formulation
 year: 2016
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger
-category:
-  - proceedings
+category: proceedings
 tags:
-  - model reduction for control
-  - port-hamiltonian systems
-  - piezoelectric materials
+  - Model Reduction for Control
+  - Port-Hamiltonian systems
+  - Piezoelectric materials
 ---
  
 ## Authors

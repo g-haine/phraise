@@ -5,8 +5,7 @@ date: 2018-02-13 00:00:00 +0100
 permalink: on-structure-preserving-model-reduction-for-damped-wave-propagation-in-transport-networks
 year: 2018
 authors: H. Egger, T. Kugler, B. Liljegren-Sailer, N. Marheineke, V. Mehrmann
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

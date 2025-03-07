@@ -5,13 +5,12 @@ date: 2019-06-28 00:00:00 +0100
 permalink: lq-optimal-control-of-boundary-control-systems
 year: 2020
 authors: Dongmei Liu, Liu Liu, Yufeng Lu
-category:
-  - articles
+category: articles
 tags:
-  - boundary control systems
-  - lq-optimal control
-  - output optimal control
-  - port-hamiltonian systems
+  - Boundary control systems
+  - LQ-optimal control
+  - Output optimal control
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

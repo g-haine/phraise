@@ -5,11 +5,10 @@ date: 2018-06-18 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-based-on-gauss-legendre-collocation
 year: 2018
 authors: Paul Kotyczka, Laurent Lefèvre
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - dirac structures
+  - Port-Hamiltonian systems
+  - Dirac structures
   - discrete-time systems
   - geometric numerical integration
   - symplectic methods

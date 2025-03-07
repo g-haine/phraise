@@ -5,11 +5,10 @@ date: 2016-08-09 00:00:00 +0100
 permalink: asymptotic-stability-for-a-class-of-boundary-control-systems-with-non-linear-damping
 year: 2016
 authors: Hans Zwart, Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - boundary control systems
-  - infinite-dimensional port hamiltonian systems
+  - Boundary control systems
+  - infinite-dimensional port Hamiltonian systems
   - asymptotic stability
   - non-linear control
 ---

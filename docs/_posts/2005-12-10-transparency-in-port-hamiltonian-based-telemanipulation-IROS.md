@@ -5,8 +5,7 @@ date: 2005-12-10 00:00:00 +0100
 permalink: transparency-in-port-hamiltonian-based-telemanipulation-IROS
 year: 2005
 authors: C. Secchi, S. Stramigioli, C. Fantuzzi
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

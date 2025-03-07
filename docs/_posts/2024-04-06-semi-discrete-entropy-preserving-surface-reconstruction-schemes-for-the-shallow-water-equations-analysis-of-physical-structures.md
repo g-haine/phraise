@@ -5,13 +5,12 @@ date: 2024-04-06 00:00:00 +0100
 permalink: semi-discrete-entropy-preserving-surface-reconstruction-schemes-for-the-shallow-water-equations-analysis-of-physical-structures
 year: 2024
 authors: Jian Dong, Xu Qian
-category:
-  - articles
+category: articles
 tags:
-  - riemann-state reconstructions
-  - saint-venant systems
-  - entropy conditions
-  - physical-structure-preserving
+  - Riemann-state reconstructions
+  - Saint-Venant systems
+  - Entropy conditions
+  - Physical-structure-preserving
 ---
  
 ## Authors

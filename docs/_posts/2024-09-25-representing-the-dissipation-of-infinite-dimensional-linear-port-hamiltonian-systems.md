@@ -5,10 +5,9 @@ date: 2024-09-25 00:00:00 +0100
 permalink: representing-the-dissipation-of-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2024
 authors: Friedrich M. Philipp
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - infinite-dimensional systems
   - dissipation
   - real part

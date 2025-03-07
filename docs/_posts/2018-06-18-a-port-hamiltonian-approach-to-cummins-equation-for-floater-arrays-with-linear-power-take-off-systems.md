@@ -5,14 +5,13 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-cummins-equation-for-floater-arrays-with-linear-power-take-off-systems
 year: 2018
 authors: M.Z. Almuzakki, J.J. Barradas-Berglind, Y. Wei, M. Muñoz-Arias, A.I. Vakis, B. Jayawardhana
-category:
-  - proceedings
+category: proceedings
 tags:
-  - wave energy
-  - wave-structure interaction
-  - wave energy converter
-  - wec array
-  - port-hamiltonian modeling
+  - Wave energy
+  - Wave-structure interaction
+  - Wave energy converter
+  - WEC array
+  - port-Hamiltonian modeling
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2021-05-06 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-linear-thermoelasticity-and-its-mixed-finite-element-discretization
 year: 2021
 authors: A. Brugnoli, D. Alazard, V. Pommier-Budinger, D. Matignon
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

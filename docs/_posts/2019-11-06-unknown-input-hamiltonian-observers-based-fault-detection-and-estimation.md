@@ -5,8 +5,7 @@ date: 2019-11-06 00:00:00 +0100
 permalink: unknown-input-hamiltonian-observers-based-fault-detection-and-estimation
 year: 2019
 authors: Manel Atitallah, Rafika El Harabi, Mohamed Naceur Abdelkrim
-category:
-  - chapters
+category: chapters
 ---
  
 ## Authors

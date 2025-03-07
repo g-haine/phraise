@@ -5,13 +5,12 @@ date: 2021-11-19 00:00:00 +0100
 permalink: some-notes-on-port-hamiltonian-systems-on-banach-spaces
 year: 2021
 authors: Timo Reis
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - partial differential-algebraic systems
-  - dirac structures
-  - banach manifold
+  - Dirac structures
+  - Banach manifold
   - infinite dimensional systems
 ---
  

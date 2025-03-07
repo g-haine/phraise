@@ -5,11 +5,10 @@ date: 2022-11-23 00:00:00 +0100
 permalink: exponential-decay-rate-of-port-hamiltonian-systems-with-one-side-boundary-damping
 year: 2022
 authors: Luis A. Mora, Kirsten Morris
-category:
-  - proceedings
+category: proceedings
 tags:
-  - exponential decay rate
-  - port-hamiltonian systems
+  - Exponential decay rate
+  - port-Hamiltonian systems
   - boundary control
   - damping injection
 ---

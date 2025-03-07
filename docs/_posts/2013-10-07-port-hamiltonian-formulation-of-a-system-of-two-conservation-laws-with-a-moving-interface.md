@@ -5,13 +5,12 @@ date: 2013-10-07 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-a-system-of-two-conservation-laws-with-a-moving-interface
 year: 2013
 authors: Mamadou Diagne, Bernhard Maschke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - boundary port hamiltonian systems
-  - pde's
-  - moving interface
-  - dirac structure
+  - Boundary port Hamiltonian systems
+  - PDE's
+  - Moving interface
+  - Dirac structure
 ---
  
 ## Authors

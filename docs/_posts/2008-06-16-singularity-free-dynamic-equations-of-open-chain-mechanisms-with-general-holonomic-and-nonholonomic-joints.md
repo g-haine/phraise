@@ -5,8 +5,7 @@ date: 2008-06-16 00:00:00 +0100
 permalink: singularity-free-dynamic-equations-of-open-chain-mechanisms-with-general-holonomic-and-nonholonomic-joints
 year: 2008
 authors: Vincent Duindam, Stefano Stramigioli
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

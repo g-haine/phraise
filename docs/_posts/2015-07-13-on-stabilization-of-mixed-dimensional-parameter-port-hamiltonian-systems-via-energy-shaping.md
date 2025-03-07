@@ -5,14 +5,13 @@ date: 2015-07-13 00:00:00 +0100
 permalink: on-stabilization-of-mixed-dimensional-parameter-port-hamiltonian-systems-via-energy-shaping
 year: 2015
 authors: H. Rodríguez-Cortés
-category:
-  - chapters
+category: chapters
 tags:
-  - aerodynamic force
-  - dirac structure
-  - casimir function
-  - dissipative element
-  - total energy function
+  - Aerodynamic Force
+  - Dirac Structure
+  - Casimir Function
+  - Dissipative Element
+  - Total Energy Function
 ---
  
 ## Authors

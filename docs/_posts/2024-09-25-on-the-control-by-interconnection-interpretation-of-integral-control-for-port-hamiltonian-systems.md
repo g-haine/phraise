@@ -5,10 +5,9 @@ date: 2024-09-25 00:00:00 +0100
 permalink: on-the-control-by-interconnection-interpretation-of-integral-control-for-port-hamiltonian-systems
 year: 2024
 authors: Joel Ferguson, Lihua Zhou, Saeed Ahmed, Jacquelien M.A. Scherpen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - disturbance rejection
+  - Disturbance rejection
   - output regulation
   - passivity-based control
   - bond graph

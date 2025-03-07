@@ -5,8 +5,7 @@ date: 2020-02-07 00:00:00 +0100
 permalink: a-stochastic-nonlinear-excitation-controller-for-transient-stabilization-in-a-power-system
 year: 2019
 authors: Yan Xu, Fushuan Wen, Ivo Palu, Zeng Yang, Minghui Chen, Hongwei Zhao, Huiyu Shang
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

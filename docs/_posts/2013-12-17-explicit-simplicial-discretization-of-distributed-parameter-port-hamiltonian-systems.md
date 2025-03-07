@@ -5,14 +5,13 @@ date: 2013-12-17 00:00:00 +0100
 permalink: explicit-simplicial-discretization-of-distributed-parameter-port-hamiltonian-systems
 year: 2014
 authors: Marko Seslija, Jacquelien M.A. Scherpen, Arjan van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - dirac structures
-  - distributed-parameter systems
-  - structure-preserving discretization
-  - discrete geometry
+  - Port-Hamiltonian systems
+  - Dirac structures
+  - Distributed-parameter systems
+  - Structure-preserving discretization
+  - Discrete geometry
 ---
  
 ## Authors

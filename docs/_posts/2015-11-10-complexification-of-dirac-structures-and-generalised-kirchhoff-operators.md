@@ -5,13 +5,12 @@ date: 2015-11-10 00:00:00 +0100
 permalink: complexification-of-dirac-structures-and-generalised-kirchhoff-operators
 year: 2015
 authors: Dimitri Jeltsema, Arjan van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dirac structure
-  - port-hamiltonian systems
-  - tellegen's theorem
-  - kirchhoff operators
+  - Dirac structure
+  - port-Hamiltonian systems
+  - Tellegen's theorem
+  - Kirchhoff operators
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2018-05-29 00:00:00 +0100
 permalink: reduced-order-lqg-control-design-for-port-hamiltonian-systems
 year: 2018
 authors: Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke
-category:
-  - articles
+category: articles
 tags:
-  - port hamiltonian system
-  - passive control design
-  - control by interconnection
-  - lqg control problem
-  - closed loop system reduction
-  - reduced controller design
+  - Port Hamiltonian system
+  - Passive control design
+  - Control by interconnection
+  - LQG control problem
+  - Closed loop system reduction
+  - Reduced controller design
 ---
  
 ## Authors

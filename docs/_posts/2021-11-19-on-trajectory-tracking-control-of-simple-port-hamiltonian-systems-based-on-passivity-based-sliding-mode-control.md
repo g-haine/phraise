@@ -5,12 +5,11 @@ date: 2021-11-19 00:00:00 +0100
 permalink: on-trajectory-tracking-control-of-simple-port-hamiltonian-systems-based-on-passivity-based-sliding-mode-control
 year: 2021
 authors: N. Sakata, K. Fujimoto, I. Maruta
-category:
-  - proceedings
+category: proceedings
 tags:
-  - passivity-based control
-  - nonlinear control
-  - robust control
+  - Passivity-based control
+  - Nonlinear control
+  - Robust Control
 ---
  
 ## Authors

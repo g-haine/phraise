@@ -5,16 +5,15 @@ date: 2021-04-15 00:00:00 +0100
 permalink: motion-planning-for-a-class-of-boundary-controlled-1d-port-hamiltonian-systems
 year: 2020
 authors: Bastian Biedermann, Thomas Meurer
-category:
-  - proceedings
+category: proceedings
 tags:
-  - motion planning
-  - port-hamiltonian system
-  - boundary control
-  - trajectory planning
-  - distributed parameter system
-  - partial differential equation
-  - wave equation
+  - Motion Planning
+  - Port-Hamiltonian System
+  - Boundary Control
+  - Trajectory Planning
+  - Distributed Parameter System
+  - Partial Differential Equation
+  - Wave Equation
 ---
  
 ## Authors

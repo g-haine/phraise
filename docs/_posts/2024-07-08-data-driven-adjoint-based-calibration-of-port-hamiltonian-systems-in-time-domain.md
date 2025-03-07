@@ -5,26 +5,25 @@ date: 2024-07-08 00:00:00 +0100
 permalink: data-driven-adjoint-based-calibration-of-port-hamiltonian-systems-in-time-domain
 year: 2024
 authors: Michael Günther, Birgit Jacob, Claudia Totzeck
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - data-driven approach
-  - optimal control
-  - adjoint-based calibration
-  - time domain
-  - coupled dynamical systems
-  - structure preservation
-  - 37j06
-  - 37m99
-  - 49j15
-  - 49k15
-  - 49m29
-  - 49q12
-  - 65p10
-  - 93a30
-  - 93b30
-  - 93c05
+  - Port-Hamiltonian systems
+  - Data-driven approach
+  - Optimal control
+  - Adjoint-based calibration
+  - Time domain
+  - Coupled dynamical systems
+  - Structure preservation
+  - 37J06
+  - 37M99
+  - 49J15
+  - 49K15
+  - 49M29
+  - 49Q12
+  - 65P10
+  - 93A30
+  - 93B30
+  - 93C05
 ---
  
 ## Authors

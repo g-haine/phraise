@@ -5,15 +5,14 @@ date: 2013-09-07 00:00:00 +0100
 permalink: load-balancing-of-dynamical-distribution-networks-with-flow-constraints-and-unknown-in-outflows
 year: 2013
 authors: J. Wei, A.J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - pi controllers
-  - flow constraints
-  - directed graphs
-  - port-hamiltonian systems
-  - consensus algorithms
-  - lyapunov stability
+  - PI controllers
+  - Flow constraints
+  - Directed graphs
+  - Port-Hamiltonian systems
+  - Consensus algorithms
+  - Lyapunov stability
 ---
  
 ## Authors

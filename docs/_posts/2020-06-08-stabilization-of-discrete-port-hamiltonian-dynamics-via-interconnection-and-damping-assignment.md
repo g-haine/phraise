@@ -5,8 +5,7 @@ date: 2020-06-08 00:00:00 +0100
 permalink: stabilization-of-discrete-port-hamiltonian-dynamics-via-interconnection-and-damping-assignment
 year: 2021
 authors: Alessio Moreschini, Mattia Mattioni, Salvatore Monaco, Dorothee Normand-Cyrot
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

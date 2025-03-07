@@ -5,15 +5,14 @@ date: 2019-12-19 00:00:00 +0100
 permalink: meshed-dc-microgrid-hierarchical-control-a-differential-flatness-approach
 year: 2020
 authors: I. Zafeiratou, I. Prodan, L. Lefèvre, L. Piétrac
-category:
-  - articles
+category: articles
 tags:
-  - dc microgrid
-  - meshed topology
-  - port-hamiltonian systems
-  - differential flatness
-  - hierarchical control
-  - power balancing
+  - DC microgrid
+  - Meshed topology
+  - Port-Hamiltonian systems
+  - Differential flatness
+  - Hierarchical control
+  - Power balancing
 ---
  
 ## Authors

@@ -5,12 +5,11 @@ date: 2010-02-06 00:00:00 +0100
 permalink: full-order-observer-design-for-a-class-of-port-hamiltonian-systems
 year: 2010
 authors: A. Venkatraman, A.J. van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - observer design
-  - passivity
+  - Port-Hamiltonian systems
+  - Observer design
+  - Passivity
 ---
  
 ## Authors

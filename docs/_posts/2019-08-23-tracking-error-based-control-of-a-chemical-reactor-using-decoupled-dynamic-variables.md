@@ -5,11 +5,10 @@ date: 2019-08-23 00:00:00 +0100
 permalink: tracking-error-based-control-of-a-chemical-reactor-using-decoupled-dynamic-variables
 year: 2019
 authors: Thanh Sang Nguyen, Chee Keong Tan, Ngoc Ha Hoang, Mohd Azlan Hussain
-category:
-  - proceedings
+category: proceedings
 tags:
-  - tracking-error-based control
-  - port-hamiltonian system
+  - Tracking-error-based control
+  - port-Hamiltonian system
   - chemical reactors
   - reaction variants
   - reaction invariants

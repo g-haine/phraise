@@ -5,14 +5,13 @@ date: 2017-10-19 00:00:00 +0100
 permalink: towards-ocean-grazer-s-modular-power-take-off-system-modeling-a-port-hamiltonian-approach
 year: 2017
 authors: J.J. Barradas-Berglind, M. Muñoz-Arias, Y. Wei, W.A. Prins, A.I. Vakis, B. Jayawardhana
-category:
-  - proceedings
+category: proceedings
 tags:
-  - wave energy
-  - ocean energy
-  - power take-off system
-  - point-absorbers
-  - passivity
+  - Wave energy
+  - Ocean energy
+  - Power take-off system
+  - Point-absorbers
+  - Passivity
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2024-12-16 00:00:00 +0100
 permalink: commutator-based-operator-splitting-for-linear-port-hamiltonian-systems
 year: 2025
 authors: Marius Mönch, Nicole Marheineke
-category:
-  - articles
+category: articles
 tags:
-  - operator splitting schemes
-  - port-hamiltonian systems
-  - dissipation inequality
-  - commutator-based methods
-  - force gradient
-  - structure-preservation
+  - Operator splitting schemes
+  - Port-Hamiltonian systems
+  - Dissipation inequality
+  - Commutator-based methods
+  - Force gradient
+  - Structure-preservation
 ---
  
 ## Authors

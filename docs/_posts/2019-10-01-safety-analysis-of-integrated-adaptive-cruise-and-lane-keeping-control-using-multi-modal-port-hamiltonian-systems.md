@@ -5,15 +5,14 @@ date: 2019-10-01 00:00:00 +0100
 permalink: safety-analysis-of-integrated-adaptive-cruise-and-lane-keeping-control-using-multi-modal-port-hamiltonian-systems
 year: 2020
 authors: Siyuan Dai, Xenofon Koutsoukos
-category:
-  - articles
+category: articles
 tags:
-  - passivity
-  - safety analysis
-  - port-hamiltonian systems
-  - automotive systems
-  - discretization
-  - quantization
+  - Passivity
+  - Safety analysis
+  - Port-Hamiltonian systems
+  - Automotive systems
+  - Discretization
+  - Quantization
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2002-10-06 00:00:00 +0100
 permalink: global-weak-solutions-for-a-shallow-water-equation
 year: 2000
 authors: Adrian Constantin, Luc Molinet
-category:
-  - articles
+category: articles
 tags:
-  - free surface
-  - shallow water
-  - weak solution
-  - shallow water equation
-  - global weak solution
+  - Free Surface
+  - Shallow Water
+  - Weak Solution
+  - Shallow Water Equation
+  - Global Weak Solution
 ---
  
 ## Authors

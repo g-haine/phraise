@@ -5,8 +5,7 @@ date: 2024-06-27 00:00:00 +0100
 permalink: trajectory-tracking-control-of-heavy-haul-train-in-whole-operation-procedure
 year: 2024
 authors: Liangcheng Cai, Deqing Huang
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

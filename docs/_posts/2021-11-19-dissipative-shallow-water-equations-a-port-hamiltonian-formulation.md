@@ -5,13 +5,12 @@ date: 2021-11-19 00:00:00 +0100
 permalink: dissipative-shallow-water-equations-a-port-hamiltonian-formulation
 year: 2021
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Laurent Lefèvre
-category:
-  - proceedings
+category: proceedings
 tags:
-  - shallow water equations (swe)
-  - port-hamiltonian systems (phs)
-  - dissipative pdes
-  - partitioned finite element method (pfem)
+  - Shallow Water Equations (SWE)
+  - Port-Hamiltonian systems (pHs)
+  - Dissipative PDEs
+  - Partitioned Finite Element Method (PFEM)
 ---
  
 ## Authors

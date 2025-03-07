@@ -5,10 +5,9 @@ date: 2021-11-19 00:00:00 +0100
 permalink: distributed-control-for-infinite-dimensional-port-hamiltonian-systems
 year: 2021
 authors: Alessandro Macchelli
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - passivity-based control
   - stability analisys
 ---

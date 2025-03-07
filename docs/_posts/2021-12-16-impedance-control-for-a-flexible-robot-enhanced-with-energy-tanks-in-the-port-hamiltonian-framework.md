@@ -5,8 +5,7 @@ date: 2021-12-16 00:00:00 +0100
 permalink: impedance-control-for-a-flexible-robot-enhanced-with-energy-tanks-in-the-port-hamiltonian-framework
 year: 2021
 authors: Martin Mujica, Alejandro Donaire, Mourad Benoussaad, Jean-Yves Fourquet
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

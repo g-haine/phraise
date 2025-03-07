@@ -5,8 +5,7 @@ date: 2014-06-24 00:00:00 +0100
 permalink: port-hamiltonian-systems-theory-an-introductory-overview-journal
 year: 2014
 authors: Arjan van der Schaft, Dimitri Jeltsema
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

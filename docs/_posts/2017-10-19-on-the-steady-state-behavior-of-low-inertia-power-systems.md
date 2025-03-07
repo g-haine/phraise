@@ -5,12 +5,11 @@ date: 2017-10-19 00:00:00 +0100
 permalink: on-the-steady-state-behavior-of-low-inertia-power-systems
 year: 2017
 authors: Dominic Groß, Florian Dörfler
-category:
-  - proceedings
+category: proceedings
 tags:
   - power system dynamics
   - steady-state behavior
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
 ---
  
 ## Authors

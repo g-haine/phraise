@@ -5,11 +5,10 @@ date: 2023-11-22 00:00:00 +0100
 permalink: symplectic-discrete-time-krasovskii-passivity-based-control-for-output-consensus
 year: 2023
 authors: Yu Kawano, Alessio Moreschini, Michele Cucuzzella
-category:
-  - proceedings
+category: proceedings
 tags:
-  - sampled-data control
-  - port-hamiltonian systems
+  - Sampled-data control
+  - port-Hamiltonian systems
   - passivity
   - output consensus
 ---

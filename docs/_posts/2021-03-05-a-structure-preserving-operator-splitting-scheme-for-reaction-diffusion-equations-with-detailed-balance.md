@@ -5,15 +5,14 @@ date: 2021-03-05 00:00:00 +0100
 permalink: a-structure-preserving-operator-splitting-scheme-for-reaction-diffusion-equations-with-detailed-balance
 year: 2021
 authors: Chun Liu, Cheng Wang, Yiwei Wang
-category:
-  - articles
+category: articles
 tags:
-  - reaction-diffusion system
-  - energetic variational approach (envara)
-  - logarithmic energy potential
-  - operator splitting
-  - positivity preserving
-  - energy stability
+  - Reaction-diffusion system
+  - Energetic variational approach (EnVarA)
+  - Logarithmic energy potential
+  - Operator splitting
+  - Positivity preserving
+  - Energy stability
 ---
  
 ## Authors

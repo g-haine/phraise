@@ -5,11 +5,10 @@ date: 2021-11-19 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-modeling-and-control-of-an-electro-thermal-microgrid
 year: 2021
 authors: Ajay Krishna, Johannes Schiffer
-category:
-  - proceedings
+category: proceedings
 tags:
-  - passivity-based control
-  - port-hamiltonian systems
+  - Passivity-based control
+  - port-Hamiltonian systems
   - multi-energy microgrids
   - district heating systems
   - distributed control

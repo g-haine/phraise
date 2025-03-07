@@ -5,16 +5,15 @@ date: 2014-07-24 00:00:00 +0100
 permalink: a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations
 year: 2014
 authors: Mónika Polner, J.J.W. van der Vegt
-category:
-  - articles
+category: articles
 tags:
-  - compressible euler equations
-  - hamiltonian formulation
-  - de rham complex
-  - hodge decomposition
-  - stokes–dirac structures
-  - vorticity
-  - dilatation
+  - Compressible Euler equations
+  - Hamiltonian formulation
+  - de Rham complex
+  - Hodge decomposition
+  - Stokes–Dirac structures
+  - Vorticity
+  - Dilatation
 ---
  
 ## Authors

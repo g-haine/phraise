@@ -5,14 +5,13 @@ date: 2021-04-15 00:00:00 +0100
 permalink: explicit-and-implicit-ida-pbc-design-and-implementation-for-a-portal-crane
 year: 2020
 authors: Enrique J. Vidal, Oscar B. Cieza, Johann Reger
-category:
-  - proceedings
+category: proceedings
 tags:
-  - ida-pbc
-  - port-hamiltonian systems
-  - implicit systems
-  - passivity
-  - portal crane
+  - IDA-PBC
+  - Port-Hamiltonian systems
+  - Implicit systems
+  - Passivity
+  - Portal crane
 ---
  
 ## Authors

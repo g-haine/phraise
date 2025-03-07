@@ -5,13 +5,12 @@ date: 2016-04-20 00:00:00 +0100
 permalink: a-dual-user-teleoperation-system-with-adaptive-authority-adjustment-for-haptic-training
 year: 2016
 authors: Fei Liu, Arnaud Lelevé, Damien Eberard, Tanneguy Redarce
-category:
-  - chapters
+category: chapters
 tags:
-  - dual-user teleoperation
-  - port-hamiltonian
-  - adaptive authority adjustment (aaa)
-  - shared control
+  - Dual-user teleoperation
+  - Port-Hamiltonian
+  - Adaptive Authority Adjustment (AAA)
+  - Shared control
 ---
  
 ## Authors

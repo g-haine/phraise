@@ -5,14 +5,13 @@ date: 2007-10-05 00:00:00 +0100
 permalink: an-internal-model-approach-to-implicit-fault-tolerant-control-for-port-hamiltonian-systems
 year: 2007
 authors: Luca Gentili, Andrea Paoli, Claudio Bonivento
-category:
-  - chapters
+category: chapters
 tags:
-  - internal model
-  - global asymptotical stability
-  - control system technology
-  - exogenous disturbance
-  - sylvester equation
+  - Internal Model
+  - Global Asymptotical Stability
+  - Control System Technology
+  - Exogenous Disturbance
+  - Sylvester Equation
 ---
  
 ## Authors

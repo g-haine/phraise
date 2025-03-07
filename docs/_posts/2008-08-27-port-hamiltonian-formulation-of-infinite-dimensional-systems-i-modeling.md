@@ -5,8 +5,7 @@ date: 2008-08-27 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling
 year: 2004
 authors: A. Macchelli, A.J. van der Schaft, C. Melchiorri
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2017-11-01 00:00:00 +0100
 permalink: hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability
 year: 2017
 authors: Said Aoues, Michael Di Loreto, Damien Eberard, Wilfrid Marquis-Favre
-category:
-  - articles
+category: articles
 tags:
-  - hamiltonian difference scheme
-  - energetic integrator
-  - passive integrator
-  - dirac structure
-  - composability
+  - Hamiltonian difference scheme
+  - Energetic integrator
+  - Passive integrator
+  - Dirac structure
+  - Composability
 ---
  
 ## Authors

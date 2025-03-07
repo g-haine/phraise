@@ -5,13 +5,12 @@ date: 2021-09-02 00:00:00 +0100
 permalink: error-bounds-for-port-hamiltonian-model-and-controller-reduction-based-on-system-balancing
 year: 2022
 authors: Tobias Breiten, Riccardo Morandin, Philipp Schulze
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - model order reduction
-  - lqg control design
-  - error bounds
+  - Port-Hamiltonian systems
+  - Model order reduction
+  - LQG control design
+  - Error bounds
 ---
  
 ## Authors

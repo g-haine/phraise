@@ -5,8 +5,7 @@ date: 2011-02-22 00:00:00 +0100
 permalink: a-symmetric-structure-of-variational-and-adjoint-systems-of-stochastic-hamiltonian-systems
 year: 2010
 authors: Satoshi Satoh, Kenji Fujimoto
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

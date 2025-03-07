@@ -5,12 +5,11 @@ date: 2022-02-17 00:00:00 +0100
 permalink: energetic-decomposition-of-distributed-systems-with-moving-material-domains-the-port-hamiltonian-model-of-fluid-structure-interaction
 year: 2022
 authors: Federico Califano, Ramy Rashad, Frederic P. Schuller, Stefano Stramigioli
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - geometric fluid-mechanics
-  - fluid structure interaction
+  - Port-Hamiltonian system
+  - Geometric fluid-mechanics
+  - Fluid structure interaction
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2010-11-22 00:00:00 +0100
 permalink: port-hamiltonian-description-and-analysis-of-the-lugre-friction-model
 year: 2011
 authors: Johan Koopman, Dimitri Jeltsema, Michel Verhaegen
-category:
-  - articles
+category: articles
 tags:
-  - friction
-  - modelling
-  - nonlinear systems
-  - port-hamiltonian systems
+  - Friction
+  - Modelling
+  - Nonlinear systems
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

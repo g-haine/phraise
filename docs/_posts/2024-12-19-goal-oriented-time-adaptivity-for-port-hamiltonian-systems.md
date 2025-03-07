@@ -5,12 +5,11 @@ date: 2024-12-19 00:00:00 +0100
 permalink: goal-oriented-time-adaptivity-for-port-hamiltonian-systems
 year: 2025
 authors: Andreas Bartel, Manuel Schaller
-category:
-  - articles
+category: articles
 tags:
-  - goal-oriented grid adaptivity
-  - port-hamiltonian systems
-  - energy balance
+  - Goal-oriented grid adaptivity
+  - Port-Hamiltonian systems
+  - Energy balance
 ---
  
 ## Authors

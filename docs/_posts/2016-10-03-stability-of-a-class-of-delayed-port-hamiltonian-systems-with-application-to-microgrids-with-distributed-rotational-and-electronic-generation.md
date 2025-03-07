@@ -5,16 +5,15 @@ date: 2016-10-03 00:00:00 +0100
 permalink: stability-of-a-class-of-delayed-port-hamiltonian-systems-with-application-to-microgrids-with-distributed-rotational-and-electronic-generation
 year: 2016
 authors: Johannes Schiffer, Emilia Fridman, Romeo Ortega, Jörg Raisch
-category:
-  - articles
+category: articles
 tags:
-  - microgrid control
-  - microgrid stability
-  - smart grid applications
-  - droop control
-  - port-hamiltonian systems
-  - time delay systems
-  - lyapunov–krasovskii functionals
+  - Microgrid control
+  - Microgrid stability
+  - Smart grid applications
+  - Droop control
+  - port-Hamiltonian systems
+  - Time delay systems
+  - Lyapunov–Krasovskii functionals
 ---
  
 ## Authors

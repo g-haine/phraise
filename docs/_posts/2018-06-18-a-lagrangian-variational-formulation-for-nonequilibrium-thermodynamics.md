@@ -5,11 +5,10 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-lagrangian-variational-formulation-for-nonequilibrium-thermodynamics
 year: 2018
 authors: F. Gay-Balmaz, H. Yoshimura
-category:
-  - proceedings
+category: proceedings
 tags:
-  - nonequilibrium thermodynamics
-  - lagrangian system
+  - Nonequilibrium thermodynamics
+  - Lagrangian system
   - variational principle
   - irreversible process
   - constraints

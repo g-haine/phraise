@@ -5,12 +5,11 @@ date: 2016-02-27 00:00:00 +0100
 permalink: building-systems-from-simple-hyperbolic-ones
 year: 2016
 authors: H. Zwart, Y. Le Gorrec, B. Maschke
-category:
-  - articles
+category: articles
 tags:
-  - infinite-dimensional systems theory
-  - partial differential equation
-  - impedance passive
+  - Infinite-dimensional systems theory
+  - Partial differential equation
+  - Impedance passive
 ---
  
 ## Authors

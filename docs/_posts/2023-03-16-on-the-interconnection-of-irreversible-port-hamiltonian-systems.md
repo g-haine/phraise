@@ -5,10 +5,9 @@ date: 2023-03-16 00:00:00 +0100
 permalink: on-the-interconnection-of-irreversible-port-hamiltonian-systems
 year: 2023
 authors: Hector Ramirez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - irreversible port-hamiltonian systems
+  - Irreversible port-Hamiltonian systems
   - passivity
   - irreversible thermodynamics
 ---

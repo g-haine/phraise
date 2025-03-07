@@ -5,8 +5,7 @@ date: 2018-07-14 00:00:00 +0100
 permalink: zur-erhaltung-von-struktur-und-flachheit-bei-der-torbasierten-ortsdiskretisierung
 year: 2018
 authors: Paul Kotyczka
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

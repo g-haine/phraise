@@ -5,8 +5,7 @@ date: 2022-08-26 00:00:00 +0100
 permalink: energy-based-modeling-and-control-of-a-piezotube-actuated-optical-fiber
 year: 2023
 authors: Edgar Perez Ayala, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

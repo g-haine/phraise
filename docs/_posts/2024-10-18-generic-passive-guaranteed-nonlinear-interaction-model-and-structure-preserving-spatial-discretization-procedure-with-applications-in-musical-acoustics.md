@@ -5,13 +5,12 @@ date: 2024-10-18 00:00:00 +0100
 permalink: generic-passive-guaranteed-nonlinear-interaction-model-and-structure-preserving-spatial-discretization-procedure-with-applications-in-musical-acoustics
 year: 2025
 authors: Antoine Falaize, David Roze
-category:
-  - articles
+category: articles
 tags:
-  - port hamiltonian system
-  - order reduction
-  - friction
-  - collision
+  - Port Hamiltonian system
+  - Order reduction
+  - Friction
+  - Collision
 ---
  
 ## Authors

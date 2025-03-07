@@ -5,13 +5,12 @@ date: 2021-04-15 00:00:00 +0100
 permalink: a-variable-stochastic-admittance-control-framework-with-energy-tank
 year: 2020
 authors: Francesco Cordoni, Luca Di Persio, Riccardo Muradore
-category:
-  - proceedings
+category: proceedings
 tags:
-  - variable admittance control
-  - stochastic port–hamiltonian systems
-  - passivity
-  - ultimately stochastic passive
+  - Variable admittance control
+  - Stochastic port–Hamiltonian systems
+  - Passivity
+  - Ultimately stochastic passive
 ---
  
 ## Authors

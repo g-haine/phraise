@@ -5,10 +5,9 @@ date: 2015-11-10 00:00:00 +0100
 permalink: zero-dynamics-for-waves-on-networks
 year: 2015
 authors: Birgit Jacob, Kirsten Morris, Hans Zwart
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian system
+  - Port-Hamiltonian system
   - distributed parameter systems
   - boundary control
   - zero dynamics

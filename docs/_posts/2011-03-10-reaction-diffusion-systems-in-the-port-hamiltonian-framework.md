@@ -5,8 +5,7 @@ date: 2011-03-10 00:00:00 +0100
 permalink: reaction-diffusion-systems-in-the-port-hamiltonian-framework
 year: 2010
 authors: Marko Šešlija, Arjan van der Schaft, Jacquelien M.A. Scherpen
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

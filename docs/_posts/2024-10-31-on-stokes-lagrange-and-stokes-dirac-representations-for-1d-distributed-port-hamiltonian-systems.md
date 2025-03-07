@@ -5,16 +5,15 @@ date: 2024-10-31 00:00:00 +0100
 permalink: on-stokes-lagrange-and-stokes-dirac-representations-for-1d-distributed-port-hamiltonian-systems
 year: 2024
 authors: Antoine Bendimerad-Hohl, Denis Matignon, Ghislain Haine, Laurent Lefèvre
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed parameter systems
-  - implicit port-hamiltonian systems
-  - constrained port-hamiltonian systems
-  - dzektser equation
+  - Distributed parameter systems
+  - Implicit port-Hamiltonian systems
+  - Constrained port-Hamiltonian systems
+  - Dzektser equation
   - non-local viscous dissipation
-  - timoshenko beam
-  - euler-bernoulli beam
+  - Timoshenko beam
+  - Euler-Bernoulli beam
 ---
  
 ## Authors

@@ -5,10 +5,9 @@ date: 2024-09-25 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-for-power-and-energy-applications
 year: 2024
 authors: Alejandro Garcés-Ruiz, Sofia Avila-Becerril, Gerardo Espinosa-Perez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-hamiltonian systems
   - pasivity-based control
   - power systems dynamics
   - control

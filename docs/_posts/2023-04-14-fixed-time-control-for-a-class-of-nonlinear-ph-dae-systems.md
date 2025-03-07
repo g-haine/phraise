@@ -5,15 +5,14 @@ date: 2023-04-14 00:00:00 +0100
 permalink: fixed-time-control-for-a-class-of-nonlinear-ph-dae-systems
 year: 2023
 authors: Xinggui Liu, Xiaofeng Liao
-category:
-  - articles
+category: articles
 ---
  
 ## Authors
 [Xinggui Liu](authors/xinggui_liu), [Xiaofeng Liao](authors/xiaofeng_liao)
  
 ## Abstract
-The globally fixed-time stabilization and  \( H_{\infty } \)  control for the port-Hamiltonian differential algebraic equation (PH-DAE) is addressed by applying the structural properties of the port-Hamiltonian (PH) systems, and the interconnection and damping assignment passivity-based control (IDA-PBC) technique. For fixed-time control design of the differential algebraic equation systems, the main obstacle lies that the algebraic variables are hidden in the system and their dynamics are ambiguous. We propose an available and effective approach to overcome this obstacle. The system variables are decomposed into differential component and the algebraic component, and the explicit representation of the dynamics of algebraic component is obtained. Fist, we investigate the locally fixed-time stabilization control as well as globally attractive for PH-DAE. Second, we focus on solving the globally fixed-time stabilization and  \( H_{\infty } \)  control problems by jointly taking advantage of the locally fixed-time stabilization control for the origin and the globally fixed-time attractivity control for a predeterminate region. Finally, in order to address fixed-time stabilization control and  \( H_{\infty } \)  control for PH-DAE, new controllers are designed. Moreover, the convergence time of systems can be easily estimated after external disturbance vanishes. The efficiency of the theoretical results acquired in present article is verified via two examples with numerical simulation.
+The globally fixed-time stabilization and  \\( H_{\infty } \\)  control for the port-Hamiltonian differential algebraic equation (PH-DAE) is addressed by applying the structural properties of the port-Hamiltonian (PH) systems, and the interconnection and damping assignment passivity-based control (IDA-PBC) technique. For fixed-time control design of the differential algebraic equation systems, the main obstacle lies that the algebraic variables are hidden in the system and their dynamics are ambiguous. We propose an available and effective approach to overcome this obstacle. The system variables are decomposed into differential component and the algebraic component, and the explicit representation of the dynamics of algebraic component is obtained. Fist, we investigate the locally fixed-time stabilization control as well as globally attractive for PH-DAE. Second, we focus on solving the globally fixed-time stabilization and  \\( H_{\infty } \\)  control problems by jointly taking advantage of the locally fixed-time stabilization control for the origin and the globally fixed-time attractivity control for a predeterminate region. Finally, in order to address fixed-time stabilization control and  \\( H_{\infty } \\)  control for PH-DAE, new controllers are designed. Moreover, the convergence time of systems can be easily estimated after external disturbance vanishes. The efficiency of the theoretical results acquired in present article is verified via two examples with numerical simulation.
  
 ## Citation
 - **Journal:** IEEE Transactions on Systems, Man, and Cybernetics: Systems

@@ -5,14 +5,13 @@ date: 2018-11-29 00:00:00 +0100
 permalink: conditions-on-shifted-passivity-of-port-hamiltonian-systems
 year: 2019
 authors: Nima Monshizadeh, Pooya Monshizadeh, Romeo Ortega, Arjan van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - passivity
-  - shifted passivity
-  - incremental passivity
-  - port-hamiltonian systems
-  - stability theory
+  - Passivity
+  - Shifted passivity
+  - Incremental passivity
+  - Port-Hamiltonian systems
+  - Stability theory
 ---
  
 ## Authors

@@ -5,8 +5,7 @@ date: 2018-11-14 00:00:00 +0100
 permalink: output-control-design-and-separation-principle-for-a-class-of-port-hamiltonian-systems
 year: 2019
 authors: Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

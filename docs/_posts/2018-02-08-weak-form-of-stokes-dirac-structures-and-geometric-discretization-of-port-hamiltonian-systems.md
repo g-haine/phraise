@@ -5,14 +5,13 @@ date: 2018-02-08 00:00:00 +0100
 permalink: weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems
 year: 2018
 authors: Paul Kotyczka, Bernhard Maschke, Laurent Lefèvre
-category:
-  - articles
+category: articles
 tags:
-  - systems of conservation laws with boundary energy flows
-  - port-hamiltonian systems
-  - mixed galerkin methods
-  - geometric spatial discretization
-  - structure-preserving discretization
+  - Systems of conservation laws with boundary energy flows
+  - Port-Hamiltonian systems
+  - Mixed Galerkin methods
+  - Geometric spatial discretization
+  - Structure-preserving discretization
 ---
  
 ## Authors

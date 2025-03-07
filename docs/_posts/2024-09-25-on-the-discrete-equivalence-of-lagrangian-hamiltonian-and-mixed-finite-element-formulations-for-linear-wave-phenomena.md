@@ -5,11 +5,10 @@ date: 2024-09-25 00:00:00 +0100
 permalink: on-the-discrete-equivalence-of-lagrangian-hamiltonian-and-mixed-finite-element-formulations-for-linear-wave-phenomena
 year: 2024
 authors: A. Brugnoli, V. Mehrmann
-category:
-  - proceedings
+category: proceedings
 tags:
-  - hamiltonian formulation
-  - lagrangian formulation
+  - Hamiltonian formulation
+  - Lagrangian formulation
   - mixed finite elements
 ---
  

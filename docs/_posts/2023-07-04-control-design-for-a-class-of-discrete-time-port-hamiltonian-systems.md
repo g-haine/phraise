@@ -5,8 +5,7 @@ date: 2023-07-04 00:00:00 +0100
 permalink: control-design-for-a-class-of-discrete-time-port-hamiltonian-systems
 year: 2023
 authors: Alessandro Macchelli
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

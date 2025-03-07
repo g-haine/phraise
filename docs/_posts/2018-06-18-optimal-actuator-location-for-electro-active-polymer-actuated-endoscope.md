@@ -5,13 +5,12 @@ date: 2018-06-18 00:00:00 +0100
 permalink: optimal-actuator-location-for-electro-active-polymer-actuated-endoscope
 year: 2018
 authors: Yongxin Wu, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - medical endoscope
+  - Medical endoscope
   - optimal actuator location
   - linear quadratic optimization
-  - port hamiltonian system
+  - port Hamiltonian system
 ---
  
 ## Authors

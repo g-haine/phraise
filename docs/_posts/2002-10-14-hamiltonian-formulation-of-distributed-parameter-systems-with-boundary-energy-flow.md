@@ -5,15 +5,14 @@ date: 2002-10-14 00:00:00 +0100
 permalink: hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow
 year: 2002
 authors: A.J. van der Schaft, B.M. Maschke
-category:
-  - articles
+category: articles
 tags:
-  - distributed-parameter systems
-  - hamiltonian systems
-  - boundary variables
-  - dirac structures
-  - stokes’ theorem
-  - conservation laws
+  - Distributed-parameter systems
+  - Hamiltonian systems
+  - Boundary variables
+  - Dirac structures
+  - Stokes’ theorem
+  - Conservation laws
 ---
  
 ## Authors

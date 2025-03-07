@@ -5,13 +5,12 @@ date: 2022-07-30 00:00:00 +0100
 permalink: an-implicit-sph-based-structure-model-for-accurate-fluid-structure-interaction-simulations-with-hourglass-control-scheme
 year: 2022
 authors: Yuma Shimizu, Abbas Khayyer, Hitoshi Gotoh
-category:
-  - articles
+category: articles
 tags:
-  - smoothed particle hydrodynamics
-  - implicit structure model
-  - hourglass control
-  - fluid–structure interaction
+  - Smoothed Particle Hydrodynamics
+  - Implicit structure model
+  - Hourglass control
+  - Fluid–Structure Interaction
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2020-06-10 00:00:00 +0100
 permalink: modelling-and-control-of-an-ipmc-actuated-flexible-structure-a-lumped-port-hamiltonian-approach
 year: 2020
 authors: Andrea Mattioni, Yongxin Wu, Hector Ramirez, Yann Le Gorrec, Alessandro Macchelli
-category:
-  - articles
+category: articles
 tags:
-  - eap actuator
-  - ida-pbc
-  - passivity based control
-  - parameter identification
-  - anti-damping injection
+  - EAP actuator
+  - IDA-PBC
+  - Passivity based control
+  - Parameter identification
+  - Anti-damping injection
 ---
  
 ## Authors

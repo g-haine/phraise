@@ -5,13 +5,12 @@ date: 2023-03-27 00:00:00 +0100
 permalink: port-metriplectic-neural-networks-thermodynamics-informed-machine-learning-of-complex-physical-systems
 year: 2023
 authors: Quercus Hernández, Alberto Badías, Francisco Chinesta, Elías Cueto
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian
-  - thermodynamics
-  - scientific machine learning
-  - inductive biases
+  - Port-Hamiltonian
+  - Thermodynamics
+  - Scientific machine learning
+  - Inductive biases
 ---
  
 ## Authors

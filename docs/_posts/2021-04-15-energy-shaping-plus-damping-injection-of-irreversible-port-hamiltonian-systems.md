@@ -5,14 +5,13 @@ date: 2021-04-15 00:00:00 +0100
 permalink: energy-shaping-plus-damping-injection-of-irreversible-port-hamiltonian-systems
 year: 2020
 authors: Ignacio Villalobos, Hector Ramírez, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - irreversible thermodynamics
-  - passivity based control
-  - control by interconnection
-  - damping injection
+  - Port-Hamiltonian systems
+  - Irreversible thermodynamics
+  - Passivity based control
+  - Control by interconnection
+  - Damping injection
 ---
  
 ## Authors

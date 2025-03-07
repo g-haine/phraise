@@ -5,16 +5,15 @@ date: 2014-01-03 00:00:00 +0100
 permalink: hamiltonian-perspective-on-compartmental-reaction-diffusion-networks
 year: 2014
 authors: Marko Seslija, Arjan van der Schaft, Jacquelien M.A. Scherpen
-category:
-  - articles
+category: articles
 tags:
-  - reaction networks
-  - reaction–diffusion systems
-  - distributed-parameter systems
-  - structure-preserving discretization
-  - weighted laplacian matrix
-  - interconnection
-  - consensus
+  - Reaction networks
+  - Reaction–diffusion systems
+  - Distributed-parameter systems
+  - Structure-preserving discretization
+  - Weighted Laplacian matrix
+  - Interconnection
+  - Consensus
 ---
  
 ## Authors

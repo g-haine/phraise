@@ -5,11 +5,10 @@ date: 2015-11-10 00:00:00 +0100
 permalink: the-piston-problem-in-a-port-hamiltonian-formalism
 year: 2015
 authors: Julien Lequeurre, Marius Tucsnak
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed parameters systems
-  - port-hamiltonian systems
+  - Distributed parameters systems
+  - port-Hamiltonian systems
 ---
  
 ## Authors

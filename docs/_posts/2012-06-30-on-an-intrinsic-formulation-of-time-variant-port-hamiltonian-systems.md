@@ -5,14 +5,13 @@ date: 2012-06-30 00:00:00 +0100
 permalink: on-an-intrinsic-formulation-of-time-variant-port-hamiltonian-systems
 year: 2012
 authors: Markus Schöberl, Kurt Schlacher
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear control systems
-  - differential geometric methods
-  - mathematical systems theory
-  - tracking applications
-  - mechanical systems
+  - Nonlinear control systems
+  - Differential geometric methods
+  - Mathematical systems theory
+  - Tracking applications
+  - Mechanical systems
 ---
  
 ## Authors

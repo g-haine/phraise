@@ -5,13 +5,12 @@ date: 2016-07-20 00:00:00 +0100
 permalink: a-constructive-procedure-for-energy-shaping-of-port-hamiltonian-systems
 year: 2016
 authors: Pablo Borja, Rafael Cisneros, Romeo Ortega
-category:
-  - articles
+category: articles
 tags:
-  - passivity
-  - nonlinear systems
-  - passivity-based control
-  - hamiltonian systems
+  - Passivity
+  - Nonlinear systems
+  - Passivity-based control
+  - Hamiltonian systems
 ---
  
 ## Authors

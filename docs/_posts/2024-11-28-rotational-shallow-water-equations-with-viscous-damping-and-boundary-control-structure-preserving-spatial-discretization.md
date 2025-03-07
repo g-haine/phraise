@@ -5,16 +5,15 @@ date: 2024-11-28 00:00:00 +0100
 permalink: rotational-shallow-water-equations-with-viscous-damping-and-boundary-control-structure-preserving-spatial-discretization
 year: 2024
 authors: Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Laurent Lefèvre, Denis Matignon
-category:
-  - articles
+category: articles
 tags:
-  - shallow water equations (swe)
-  - port-hamiltonian systems (phs)
-  - viscous damping
-  - partitioned finite element method (pfem)
-  - 76d55
-  - 35q35
-  - 76m10
+  - Shallow water equations (SWE)
+  - Port-Hamiltonian systems (pHs)
+  - Viscous damping
+  - Partitioned finite element method (PFEM)
+  - 76D55
+  - 35Q35
+  - 76M10
 ---
  
 ## Authors

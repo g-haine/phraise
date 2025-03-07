@@ -5,10 +5,9 @@ date: 2021-11-19 00:00:00 +0100
 permalink: passivity-based-stability-analysis-of-hydraulic-equilibria-in-4th-generation-district-heating-networks
 year: 2021
 authors: Felix Strehle, Jonathan Vieth, Martin Pfeifer, Sören Hohmann
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - district heating systems
   - stability analysis
   - asymptotic stability

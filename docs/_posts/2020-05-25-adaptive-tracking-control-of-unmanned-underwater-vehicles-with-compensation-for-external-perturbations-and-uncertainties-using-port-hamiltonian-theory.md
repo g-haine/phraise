@@ -5,14 +5,13 @@ date: 2020-05-25 00:00:00 +0100
 permalink: adaptive-tracking-control-of-unmanned-underwater-vehicles-with-compensation-for-external-perturbations-and-uncertainties-using-port-hamiltonian-theory
 year: 2020
 authors: Zehua Jia, Lei Qiao, Weidong Zhang
-category:
-  - articles
+category: articles
 tags:
-  - unmanned underwater vehicles
-  - adaptive control
-  - trajectory tracking control
-  - passivity-based control
-  - port-hamiltonian theory
+  - Unmanned underwater vehicles
+  - Adaptive control
+  - Trajectory tracking control
+  - Passivity-based control
+  - Port-Hamiltonian theory
 ---
  
 ## Authors

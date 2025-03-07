@@ -5,14 +5,13 @@ date: 2020-08-07 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems
 year: 2021
 authors: Alexander Warsewa, Michael Böhm, Oliver Sawodny, Cristina Tarín
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - modeling
-  - finite element
-  - structural dynamics
-  - adaptive structures
+  - Port-Hamiltonian systems
+  - Modeling
+  - Finite element
+  - Structural dynamics
+  - Adaptive structures
 ---
  
 ## Authors

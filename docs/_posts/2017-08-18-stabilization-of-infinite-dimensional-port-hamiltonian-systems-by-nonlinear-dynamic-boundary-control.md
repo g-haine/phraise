@@ -5,14 +5,13 @@ date: 2017-08-18 00:00:00 +0100
 permalink: stabilization-of-infinite-dimensional-port-hamiltonian-systems-by-nonlinear-dynamic-boundary-control
 year: 2017
 authors: Hector Ramirez, Hans Zwart, Yann Le Gorrec
-category:
-  - articles
+category: articles
 tags:
-  - boundary control systems
-  - port-hamiltonian systems
-  - nonlinear control
-  - existence of solutions
-  - stabilization
+  - Boundary control systems
+  - Port-Hamiltonian systems
+  - Nonlinear control
+  - Existence of solutions
+  - Stabilization
 ---
  
 ## Authors

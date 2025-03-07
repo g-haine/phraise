@@ -105,8 +105,7 @@ format_authors () {
 # Remplace les $ par les balises markdwon de mathjax dans le titre
 mathjaxify_title () {
     title=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
-    title=$(echo "$title" | sed -e 's/\\/\\\\/g') # dans "title", jekyll demande un escape de \
-    title=$(echo "$title" | sed -e 's/\*/\\\*/g') # idem pour *
+    title=$(echo "$title" | sed -e 's/\*/\\\*/g') # dans "title", jekyll demande un escape de *
     title=$(echo "$title" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
     title=$(echo "$title" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
     # Mathjax \( ... \) avec les escape nécessaires
@@ -148,10 +147,10 @@ mathjaxify () {
             c = substr($0, i, 1);
             if (c == "$") {
                 if (in_math == 0) {
-                    printf "\\( ";
+                    printf "\\\\( ";
                     in_math = 1;
                 } else {
-                    printf " \\)";
+                    printf " \\\\)";
                     in_math = 0;
                 }
             } else {
@@ -217,15 +216,14 @@ create_markdown_post () {
     echo "authors: $(format_authors "$authors" false)" >> "$output_md"
     type_ref=$(echo "$data" | jq -r .type)
     event=$(echo "$data" | jq -r .event)
-    echo "category:" >> "$output_md"
-    echo "  - $(identify_category "$type_ref" "$event")" >> "$output_md"
+    echo "category: $(identify_category "$type_ref" "$event")" >> "$output_md"
     keywords=$(echo "$data" | jq -r .keywords)
     keywords=$(mathjaxify "$keywords")
     if [ -n "$keywords" ]; then
         echo "tags:" >> "$output_md"
         IFS=";" read -ra words <<< "$keywords"
         for word in "${words[@]}"; do
-            echo "$(echo "  - $word" | sed 's/^ *//;s/ *$//')"
+            echo "  - $(echo "$word" | sed 's/^ *//;s/ *$//')" >> "$output_md"
         done
     fi
     echo "---" >> "$output_md"

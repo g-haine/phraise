@@ -5,8 +5,7 @@ date: 2023-02-20 00:00:00 +0100
 permalink: port-hamiltonian-formulations-of-some-elastodynamics-theories-of-isotropic-and-linearly-elastic-shells-naghdi-reissner-s-moderately-thick-shells
 year: 2023
 authors: Miguel Charlotte, Ignacio Fernandez Núnez, Yves Gourinat, Denis Matignon
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

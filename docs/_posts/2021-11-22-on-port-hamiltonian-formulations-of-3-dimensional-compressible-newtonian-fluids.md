@@ -5,8 +5,7 @@ date: 2021-11-22 00:00:00 +0100
 permalink: on-port-hamiltonian-formulations-of-3-dimensional-compressible-newtonian-fluids
 year: 2021
 authors: Luis A. Mora, Yann Le Gorrec, Denis Matignon, Hector Ramirez, Juan I. Yuz
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

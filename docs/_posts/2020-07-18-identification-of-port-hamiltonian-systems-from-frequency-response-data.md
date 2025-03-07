@@ -5,13 +5,12 @@ date: 2020-07-18 00:00:00 +0100
 permalink: identification-of-port-hamiltonian-systems-from-frequency-response-data
 year: 2020
 authors: Peter Benner, Pawan Goyal, Paul Van Dooren
-category:
-  - articles
+category: articles
 tags:
-  - passive systems
-  - port-hamiltonian system
-  - identification
-  - tangential interpolation
+  - Passive systems
+  - Port-Hamiltonian system
+  - Identification
+  - Tangential interpolation
 ---
  
 ## Authors

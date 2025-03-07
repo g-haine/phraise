@@ -5,13 +5,12 @@ date: 2018-08-31 00:00:00 +0100
 permalink: ida-pbc-for-polynomial-systems-an-sos-based-approach
 year: 2018
 authors: Oscar B. Cieza, Johann Reger
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - ida-pbc
-  - polynomial systems
-  - sum of squares
+  - Port-Hamiltonian Systems
+  - IDA-PBC
+  - Polynomial Systems
+  - Sum of Squares
 ---
  
 ## Authors

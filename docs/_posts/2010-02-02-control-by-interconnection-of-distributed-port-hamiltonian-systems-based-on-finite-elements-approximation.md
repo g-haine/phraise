@@ -5,8 +5,7 @@ date: 2010-02-02 00:00:00 +0100
 permalink: control-by-interconnection-of-distributed-port-hamiltonian-systems-based-on-finite-elements-approximation
 year: 2009
 authors: Alessandro Macchelli, Claudio Melchiorri
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

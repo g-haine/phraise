@@ -5,14 +5,13 @@ date: 2019-02-04 00:00:00 +0100
 permalink: geometric-spatial-reduction-for-port-hamiltonian-systems
 year: 2019
 authors: Ngoc Minh Trang Vu, Laurent Lefèvre, Bernhard Maschke
-category:
-  - articles
+category: articles
 tags:
-  - geometric reduction
-  - distributed parameters systems
-  - port hamiltonian systems
-  - tokamak plasma control
-  - vibro-acoustic system
+  - Geometric reduction
+  - Distributed parameters systems
+  - Port Hamiltonian systems
+  - Tokamak plasma control
+  - Vibro-acoustic system
 ---
  
 ## Authors

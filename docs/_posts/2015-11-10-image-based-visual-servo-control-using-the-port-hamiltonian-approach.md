@@ -5,13 +5,12 @@ date: 2015-11-10 00:00:00 +0100
 permalink: image-based-visual-servo-control-using-the-port-hamiltonian-approach
 year: 2015
 authors: Mauricio Munoz-Arias, Mohamed I. El-Hawwary, Jacquelien M.A. Scherpen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - robotics
-  - port-hamiltonian systems
-  - vision control
-  - mechanical systems
+  - Robotics
+  - port-Hamiltonian systems
+  - Vision control
+  - Mechanical systems
 ---
  
 ## Authors

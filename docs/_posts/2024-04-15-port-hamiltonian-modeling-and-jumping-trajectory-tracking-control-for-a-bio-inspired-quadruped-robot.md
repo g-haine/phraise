@@ -5,13 +5,12 @@ date: 2024-04-15 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-jumping-trajectory-tracking-control-for-a-bio-inspired-quadruped-robot
 year: 2024
 authors: Chi Zhang, Wei Zou, Liping Ma, Ningbo Cheng
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian with dissipation(phd)
-  - bio-inspired jumping robot
-  - dynamic modeling
-  - interconnection and damping assignment passivity-based control(ida-pbc)
+  - Port-Hamiltonian with dissipation(pHd)
+  - Bio-inspired jumping robot
+  - Dynamic modeling
+  - Interconnection and damping assignment passivity-based control(IDA-PBC)
 ---
  
 ## Authors

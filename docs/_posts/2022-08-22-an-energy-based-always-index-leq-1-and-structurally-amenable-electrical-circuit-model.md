@@ -5,8 +5,7 @@ date: 2022-08-22 00:00:00 +0100
 permalink: an-energy-based-always-index-leq-1-and-structurally-amenable-electrical-circuit-model
 year: 2022
 authors: Nedialko Nedialkov, John D. Pryce, Lena Scholz
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

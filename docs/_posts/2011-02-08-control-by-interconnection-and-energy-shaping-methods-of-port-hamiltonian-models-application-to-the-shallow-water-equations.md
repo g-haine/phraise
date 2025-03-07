@@ -5,14 +5,13 @@ date: 2011-02-08 00:00:00 +0100
 permalink: control-by-interconnection-and-energy-shaping-methods-of-port-hamiltonian-models-application-to-the-shallow-water-equations
 year: 2010
 authors: Boussad Hamroun, Alexandru Dimofte, Laurent Lefèvre, Eduardo Mendes
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear systems
-  - shallow water equations
-  - passivity based control
-  - port-hamiltonian distributed parameters models
-  - geometric reduction methods
+  - Nonlinear systems
+  - Shallow water equations
+  - Passivity based control
+  - Port-Hamiltonian distributed parameters models
+  - Geometric reduction methods
 ---
  
 ## Authors

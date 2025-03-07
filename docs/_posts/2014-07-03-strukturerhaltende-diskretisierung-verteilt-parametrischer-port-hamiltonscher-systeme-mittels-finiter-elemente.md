@@ -5,8 +5,7 @@ date: 2014-07-03 00:00:00 +0100
 permalink: strukturerhaltende-diskretisierung-verteilt-parametrischer-port-hamiltonscher-systeme-mittels-finiter-elemente
 year: 2014
 authors: Ortwin Farle, Rolf-Björn Baltes, Romanus Dyczij-Edlinger
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

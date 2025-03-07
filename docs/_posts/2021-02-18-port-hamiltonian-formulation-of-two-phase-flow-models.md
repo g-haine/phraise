@@ -5,15 +5,14 @@ date: 2021-02-18 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-two-phase-flow-models
 year: 2021
 authors: H. Bansal, P. Schulze, M.H. Abbasi, H. Zwart, L. Iapichino, W.H.A. Schilders, N. van de Wouw
-category:
-  - articles
+category: articles
 tags:
-  - two-fluid model
-  - drift flux model
-  - non-quadratic hamiltonian
-  - skew-adjoint
-  - stokes–dirac structures
-  - port-hamiltonian
+  - Two-Fluid Model
+  - Drift Flux Model
+  - Non-quadratic Hamiltonian
+  - Skew-adjoint
+  - Stokes–Dirac structures
+  - Port-Hamiltonian
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2011-10-19 00:00:00 +0100
 permalink: the-port-hamiltonian-approach-to-modeling-and-control-of-continuous-stirred-tank-reactors
 year: 2011
 authors: H. Hoang, F. Couenne, C. Jallut, Y. Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian systems
-  - lyapunov stability
-  - thermodynamics
-  - ida-pbc control
-  - chemical reactors
+  - Port Hamiltonian systems
+  - Lyapunov stability
+  - Thermodynamics
+  - IDA-PBC control
+  - Chemical reactors
 ---
  
 ## Authors

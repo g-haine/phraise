@@ -5,13 +5,12 @@ date: 2009-06-10 00:00:00 +0100
 permalink: on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems
 year: 2009
 authors: Alejandro Donaire, Sergio Junco
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear control
-  - port-hamiltonian systems
-  - integral control
-  - permanent-magnet synchronous motor control
+  - Nonlinear control
+  - Port-Hamiltonian systems
+  - Integral control
+  - Permanent-magnet synchronous motor control
 ---
  
 ## Authors

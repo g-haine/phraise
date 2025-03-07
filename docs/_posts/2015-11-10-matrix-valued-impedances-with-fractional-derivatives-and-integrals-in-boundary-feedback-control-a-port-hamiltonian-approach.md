@@ -5,8 +5,7 @@ date: 2015-11-10 00:00:00 +0100
 permalink: matrix-valued-impedances-with-fractional-derivatives-and-integrals-in-boundary-feedback-control-a-port-hamiltonian-approach
 year: 2015
 authors: Yann Le Gorrec, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
   - fractional differential equations
   - diffusive systems
@@ -14,7 +13,7 @@ tags:
   - hereditary mechanics
   - stability
   - numerical methods
-  - boundary control of pdes
+  - boundary control of PDEs
 ---
  
 ## Authors

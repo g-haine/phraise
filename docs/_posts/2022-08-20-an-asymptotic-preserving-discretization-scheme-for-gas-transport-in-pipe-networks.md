@@ -5,8 +5,7 @@ date: 2022-08-20 00:00:00 +0100
 permalink: an-asymptotic-preserving-discretization-scheme-for-gas-transport-in-pipe-networks
 year: 2023
 authors: H Egger, J Giesselmann, T Kunkel, N Philippi
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

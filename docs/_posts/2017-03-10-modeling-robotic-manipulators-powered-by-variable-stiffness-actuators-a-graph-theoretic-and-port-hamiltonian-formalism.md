@@ -5,8 +5,7 @@ date: 2017-03-10 00:00:00 +0100
 permalink: modeling-robotic-manipulators-powered-by-variable-stiffness-actuators-a-graph-theoretic-and-port-hamiltonian-formalism
 year: 2017
 authors: Stefan S. Groothuis, Stefano Stramigioli, Raffaella Carloni
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

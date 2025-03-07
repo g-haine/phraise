@@ -5,12 +5,11 @@ date: 2007-06-14 00:00:00 +0100
 permalink: port-based-asymptotic-curve-tracking-for-mechanical-systems
 year: 2004
 authors: Vincent Duindam, Stefano Stramigioli
-category:
-  - articles
+category: articles
 tags:
-  - hamiltonian control systems
-  - mechanical systems
-  - nonlinear control
+  - Hamiltonian Control Systems
+  - Mechanical Systems
+  - Nonlinear Control
 ---
  
 ## Authors

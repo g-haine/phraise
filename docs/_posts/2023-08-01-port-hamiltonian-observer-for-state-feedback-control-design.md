@@ -5,8 +5,7 @@ date: 2023-08-01 00:00:00 +0100
 permalink: port-hamiltonian-observer-for-state-feedback-control-design
 year: 2023
 authors: N.M.T Vu, T.H. Pham, I. Prodan, L. Lefèvre
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

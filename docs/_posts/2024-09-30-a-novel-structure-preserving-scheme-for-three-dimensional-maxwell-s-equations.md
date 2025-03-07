@@ -5,8 +5,7 @@ date: 2024-09-30 00:00:00 +0100
 permalink: a-novel-structure-preserving-scheme-for-three-dimensional-maxwell-s-equations
 year: 2024
 authors: Chaolong Jiang, Wenjun Cai, Yushun Wang, Haochen Li
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

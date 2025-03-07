@@ -5,19 +5,18 @@ date: 2023-11-11 00:00:00 +0100
 permalink: the-difference-between-port-hamiltonian-passive-and-positive-real-descriptor-systems
 year: 2024
 authors: Karim Cherifi, Hannes Gernandt, Dorothea Hinsen
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - differential-algebraic equations
-  - minimal realizations
-  - passive systems
-  - positive real systems
-  - kalman–yakubovich–popov inequality
-  - primary 34a09
-  - 93c05
-  - secondary 93b20
-  - 15a39
+  - Port-Hamiltonian systems
+  - Differential-algebraic equations
+  - Minimal realizations
+  - Passive systems
+  - Positive real systems
+  - Kalman–Yakubovich–Popov inequality
+  - Primary 34A09
+  - 93C05
+  - Secondary 93B20
+  - 15A39
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2023-10-31 00:00:00 +0100
 permalink: stability-of-transient-coupled-multi-model-discrete-electromagnetic-field-formulations-using-the-port-hamiltonian-system-framework
 year: 2023
 authors: Markus Clemens, Michael Günther
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors
 [Markus Clemens](authors/markus_clemens), [Michael Günther](authors/michael_gunther)
  
 ## Abstract
-The port-Hamiltonian system (pHS) framework established for coupled system formulations in multi-model and multi-physics problems considers physical model formulations either in a continuous setting as sets of partial differential equations or, alternatively, in discrete variants as pH differential-algebraic equations (pH-DAEs) [1]. The key to pHS formulations is that they are established with respect to energy conservation and dissipation inequalities. A typical \( \mathrm{pH}-\mathrm{DAE} \) is given in the form
+The port-Hamiltonian system (pHS) framework established for coupled system formulations in multi-model and multi-physics problems considers physical model formulations either in a continuous setting as sets of partial differential equations or, alternatively, in discrete variants as pH differential-algebraic equations (pH-DAEs) [1]. The key to pHS formulations is that they are established with respect to energy conservation and dissipation inequalities. A typical \\( \mathrm{pH}-\mathrm{DAE} \\) is given in the form
  
 ## Citation
 - **Journal:** 2023 International Conference on Electromagnetics in Advanced Applications (ICEAA)

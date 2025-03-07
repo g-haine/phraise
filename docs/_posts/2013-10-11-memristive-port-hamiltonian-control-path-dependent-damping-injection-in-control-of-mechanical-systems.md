@@ -5,12 +5,11 @@ date: 2013-10-11 00:00:00 +0100
 permalink: memristive-port-hamiltonian-control-path-dependent-damping-injection-in-control-of-mechanical-systems
 year: 2013
 authors: A. Dòria-Cerezo, L. van der Heijden, J.M.A. Scherpen
-category:
-  - proceedings
+category: proceedings
 tags:
-  - memristor
-  - passivity-based control
-  - port-hamiltonian systems
+  - Memristor
+  - Passivity-based control
+  - Port-Hamiltonian systems
 ---
  
 ## Authors

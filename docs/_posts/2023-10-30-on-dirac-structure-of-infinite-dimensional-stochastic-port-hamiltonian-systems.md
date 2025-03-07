@@ -5,13 +5,12 @@ date: 2023-10-30 00:00:00 +0100
 permalink: on-dirac-structure-of-infinite-dimensional-stochastic-port-hamiltonian-systems
 year: 2024
 authors: François Lamoline, Anthony Hastir
-category:
-  - articles
+category: articles
 tags:
-  - infinite-dimensional systems
-  - stochastic partial differential equations
-  - dirac structures
-  - boundary control
+  - Infinite-dimensional systems
+  - Stochastic partial differential equations
+  - Dirac structures
+  - Boundary control
 ---
  
 ## Authors

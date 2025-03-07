@@ -5,13 +5,12 @@ date: 2019-08-23 00:00:00 +0100
 permalink: partitioned-finite-element-method-for-port-hamiltonian-systems-with-boundary-damping-anisotropic-heterogeneous-2d-wave-equations
 year: 2019
 authors: Anass Serhani, Denis Matignon, Ghislain Haine
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems (phs)
-  - distributed-parameter system (dps)
+  - Port-Hamiltonian systems (pHs)
+  - distributed-parameter system (DPS)
   - structure preserving discretization
-  - partitioned finite element method (pfem)
+  - partitioned finite element method (PFEM)
   - boundary damping
 ---
  

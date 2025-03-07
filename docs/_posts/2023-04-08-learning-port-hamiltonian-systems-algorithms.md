@@ -5,12 +5,11 @@ date: 2023-04-08 00:00:00 +0100
 permalink: learning-port-hamiltonian-systems-algorithms
 year: 2023
 authors: V. Salnikov, A. Falaize, D. Lozienko
-category:
-  - articles
+category: articles
 tags:
   - symplectic structures
-  - poisson geometry
-  - port-hamiltonian systems
+  - Poisson geometry
+  - port-Hamiltonian systems
 ---
  
 ## Authors

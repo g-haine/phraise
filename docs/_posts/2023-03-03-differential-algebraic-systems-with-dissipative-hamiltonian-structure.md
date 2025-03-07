@@ -5,15 +5,14 @@ date: 2023-03-03 00:00:00 +0100
 permalink: differential-algebraic-systems-with-dissipative-hamiltonian-structure
 year: 2023
 authors: Volker Mehrmann, Arjan van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - dissipative hamiltonian system
-  - differential–algebraic equation
-  - lagrange structure
-  - dirac structure
-  - matrix pencil
+  - Port-Hamiltonian system
+  - Dissipative Hamiltonian system
+  - Differential–algebraic equation
+  - Lagrange structure
+  - Dirac structure
+  - Matrix pencil
 ---
  
 ## Authors

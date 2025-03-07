@@ -5,14 +5,13 @@ date: 2002-07-25 00:00:00 +0100
 permalink: practical-symplectic-partitioned-runge-kutta-and-runge-kutta-nystrom-methods
 year: 2002
 authors: S. Blanes, P.C. Moan
-category:
-  - articles
+category: articles
 tags:
-  - differential equations
-  - geometric integrators
-  - partitioned runge–kutta
-  - runge–kutta–nyström
-  - optimised efficiency
+  - Differential equations
+  - Geometric integrators
+  - Partitioned Runge–Kutta
+  - Runge–Kutta–Nyström
+  - Optimised efficiency
 ---
  
 ## Authors

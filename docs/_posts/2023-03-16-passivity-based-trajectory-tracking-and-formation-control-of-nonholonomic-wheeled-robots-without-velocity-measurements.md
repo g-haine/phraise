@@ -5,8 +5,7 @@ date: 2023-03-16 00:00:00 +0100
 permalink: passivity-based-trajectory-tracking-and-formation-control-of-nonholonomic-wheeled-robots-without-velocity-measurements
 year: 2023
 authors: Ningbo Li, Pablo Borja, Jacquelien M. A. Scherpen, Arjan van der Schaft, Robert Mahony
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

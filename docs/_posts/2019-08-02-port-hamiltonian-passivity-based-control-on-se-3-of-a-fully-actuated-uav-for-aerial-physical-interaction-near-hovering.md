@@ -5,8 +5,7 @@ date: 2019-08-02 00:00:00 +0100
 permalink: port-hamiltonian-passivity-based-control-on-se-3-of-a-fully-actuated-uav-for-aerial-physical-interaction-near-hovering
 year: 2019
 authors: Ramy Rashad, Federico Califano, Stefano Stramigioli
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2007-06-14 00:00:00 +0100
 permalink: physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems
 year: 2004
 authors: F. Gómez-Estern, A.J. Van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - energy shaping
-  - passivity
-  - physical damping
-  - port-hamiltonian systems
-  - mechanical systems
+  - Energy Shaping
+  - Passivity
+  - Physical Damping
+  - Port-Hamiltonian Systems
+  - Mechanical Systems
 ---
  
 ## Authors

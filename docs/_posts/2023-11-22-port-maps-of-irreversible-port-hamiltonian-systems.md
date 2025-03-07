@@ -5,14 +5,13 @@ date: 2023-11-22 00:00:00 +0100
 permalink: port-maps-of-irreversible-port-hamiltonian-systems
 year: 2023
 authors: Bernhard Maschke, Jonas Kirchhoff
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian systems
-  - nonlinear systems
-  - irreversible thermodynamics
-  - energy and entropy based modelling
-  - geometrical methods
+  - Port Hamiltonian Systems
+  - Nonlinear Systems
+  - Irreversible Thermodynamics
+  - Energy and Entropy based Modelling
+  - Geometrical Methods
 ---
  
 ## Authors

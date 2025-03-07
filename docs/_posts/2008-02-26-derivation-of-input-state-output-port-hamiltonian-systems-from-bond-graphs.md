@@ -5,12 +5,11 @@ date: 2008-02-26 00:00:00 +0100
 permalink: derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs
 year: 2009
 authors: Alejandro Donaire, Sergio Junco
-category:
-  - proceedings
+category: proceedings
 tags:
-  - bond graphs
-  - state-input-output port-hamiltonian systems
-  - model equivalences
+  - Bond graphs
+  - State-Input-Output Port-Hamiltonian Systems
+  - Model equivalences
 ---
  
 ## Authors

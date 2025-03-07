@@ -5,13 +5,12 @@ date: 2021-04-15 00:00:00 +0100
 permalink: modelling-and-structure-preserving-discretization-of-maxwell-s-equations-as-port-hamiltonian-system
 year: 2020
 authors: Gabriel Payen, Denis Matignon, Ghislain Haine
-category:
-  - proceedings
+category: proceedings
 tags:
-  - maxwell’s equations
-  - port-hamiltonian system
-  - partitioned finite element method
-  - dirac structure
+  - Maxwell’s equations
+  - port-Hamiltonian system
+  - Partitioned Finite Element Method
+  - Dirac structure
   - impedance
   - boundary control
   - observation

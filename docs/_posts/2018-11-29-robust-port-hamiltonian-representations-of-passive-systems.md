@@ -5,14 +5,13 @@ date: 2018-11-29 00:00:00 +0100
 permalink: robust-port-hamiltonian-representations-of-passive-systems
 year: 2019
 authors: Christopher A. Beattie, Volker Mehrmann, Paul Van Dooren
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - positive real system
-  - stability radius
-  - passivity radius
-  - linear matrix inequality
+  - Port-Hamiltonian system
+  - Positive real system
+  - Stability radius
+  - Passivity radius
+  - Linear matrix inequality
 ---
  
 ## Authors

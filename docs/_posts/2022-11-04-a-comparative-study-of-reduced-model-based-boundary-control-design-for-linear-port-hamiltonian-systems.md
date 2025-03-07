@@ -5,11 +5,10 @@ date: 2022-11-04 00:00:00 +0100
 permalink: a-comparative-study-of-reduced-model-based-boundary-control-design-for-linear-port-hamiltonian-systems
 year: 2022
 authors: Cristobal Ponce, Hector Ramirez, Yann Le Gorrec, Francisco Vargas
-category:
-  - proceedings
+category: proceedings
 tags:
-  - infinite dimensional system
-  - port-hamiltonian systems
+  - Infinite dimensional system
+  - port-Hamiltonian systems
   - passivity-based control
   - spatial discretization
   - model reduction

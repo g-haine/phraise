@@ -5,13 +5,12 @@ date: 2015-06-17 00:00:00 +0100
 permalink: asymptotic-stabilisation-of-distributed-port-hamiltonian-systems-by-boundary-energy-shaping-control
 year: 2015
 authors: Alessandro Macchelli, Yann Le Gorrec, Héctor Ramirez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - distributed port-hamiltonian systems
+  - distributed port-Hamiltonian systems
   - boundary control
   - energy-shaping control
-  - stability of pdes
+  - stability of PDEs
 ---
  
 ## Authors

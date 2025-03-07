@@ -5,10 +5,9 @@ date: 2021-04-15 00:00:00 +0100
 permalink: explicit-port-hamiltonian-formulation-of-bond-graphs-with-dependent-storages
 year: 2020
 authors: Martin Pfeifer, Sven Caspart, Charles Muller, Silja Pfeiffer, Stefan Krebs, Sören Hohmann
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - Port-Hamiltonian systems
   - bond graphs
   - dependent storages
   - state-space models

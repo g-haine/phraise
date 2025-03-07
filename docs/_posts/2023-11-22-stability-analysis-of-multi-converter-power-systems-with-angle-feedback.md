@@ -5,12 +5,11 @@ date: 2023-11-22 00:00:00 +0100
 permalink: stability-analysis-of-multi-converter-power-systems-with-angle-feedback
 year: 2023
 authors: Alejandro Garcés, Sofía Avila-Becerril, Gerardo Espinosa-Pérez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - stability analysis
+  - Stability analysis
   - inverter-based renewable resources
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - droop control
   - multi-converter power system
 ---

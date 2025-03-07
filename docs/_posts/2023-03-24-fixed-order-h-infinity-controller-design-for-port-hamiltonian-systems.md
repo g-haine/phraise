@@ -5,14 +5,13 @@ date: 2023-03-24 00:00:00 +0100
 permalink: fixed-order-h-infinity-controller-design-for-port-hamiltonian-systems
 year: 2023
 authors: Paul Schwerdtner, Matthias Voigt
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - large-scale systems
-  - robust control
-  - h-infinity control
-  - fixed-order controllers
+  - Port-Hamiltonian systems
+  - Large-scale systems
+  - Robust control
+  - H-infinity control
+  - Fixed-order controllers
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2020-07-08 00:00:00 +0100
 permalink: explicit-port-hamiltonian-formulation-of-multi-bond-graphs-for-an-automated-model-generation
 year: 2020
 authors: Martin Pfeifer, Sven Caspart, Silja Hampel, Charles Muller, Stefan Krebs, Sören Hohmann
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - bond graphs
-  - automated modelling
-  - state-space models
-  - model generation
+  - Port-Hamiltonian systems
+  - Bond graphs
+  - Automated modelling
+  - State-space models
+  - Model generation
 ---
  
 ## Authors

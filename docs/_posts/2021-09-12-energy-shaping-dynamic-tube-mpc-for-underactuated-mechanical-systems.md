@@ -5,14 +5,13 @@ date: 2021-09-12 00:00:00 +0100
 permalink: energy-shaping-dynamic-tube-mpc-for-underactuated-mechanical-systems
 year: 2021
 authors: Guaraci Bastos, Enrico Franco
-category:
-  - articles
+category: articles
 tags:
-  - underactuated systems
-  - port-hamiltonian systems
-  - robust control
-  - ida-pbc
-  - dynamic tube-mpc
+  - Underactuated systems
+  - Port-Hamiltonian systems
+  - Robust control
+  - IDA-PBC
+  - Dynamic tube-MPC
 ---
  
 ## Authors

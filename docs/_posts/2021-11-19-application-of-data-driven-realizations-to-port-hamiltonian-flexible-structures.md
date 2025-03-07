@@ -5,13 +5,12 @@ date: 2021-11-19 00:00:00 +0100
 permalink: application-of-data-driven-realizations-to-port-hamiltonian-flexible-structures
 year: 2021
 authors: Karim Cherifi, Andrea Brugnoli
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - structural dynamics
-  - mixed finite elements
-  - data-driven systems identification
+  - Port-Hamiltonian systems
+  - Structural dynamics
+  - Mixed finite elements
+  - Data-driven systems identification
 ---
  
 ## Authors

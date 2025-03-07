@@ -5,8 +5,7 @@ date: 2020-11-17 00:00:00 +0100
 permalink: robust-state-error-port-controlled-hamiltonian-trajectory-tracking-control-for-unmanned-surface-vehicle-with-disturbance-uncertainties
 year: 2022
 authors: Chengxing Lv, Haisheng Yu, Na Zhao, Jieru Chi, Hailin Liu, Lei Li
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

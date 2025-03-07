@@ -5,8 +5,7 @@ date: 2025-01-09 00:00:00 +0100
 permalink: structured-optimization-based-model-order-reduction-for-parametric-systems
 year: 2025
 authors: Paul Schwerdtner, Manuel Schaller
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

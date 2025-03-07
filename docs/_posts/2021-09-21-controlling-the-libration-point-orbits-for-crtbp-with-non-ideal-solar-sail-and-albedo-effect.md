@@ -5,14 +5,13 @@ date: 2021-09-21 00:00:00 +0100
 permalink: controlling-the-libration-point-orbits-for-crtbp-with-non-ideal-solar-sail-and-albedo-effect
 year: 2021
 authors: Arun Kumar Yadav, Badam Singh Kushvah, Uday Dolas
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian method
-  - non-ideal solar sail
-  - energy shaping
-  - dissipation injection
-  - albedo effect
+  - Port-Hamiltonian method
+  - Non-ideal solar sail
+  - Energy shaping
+  - Dissipation injection
+  - Albedo effect
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2019-08-23 00:00:00 +0100
 permalink: modeling-and-control-of-an-ipmc-actuated-flexible-beam-under-the-port-hamiltonian-framework
 year: 2019
 authors: Yongxin Wu, François Lamoline, Joseph Winkin, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - distributed control
-  - lqg method
-  - ipmc
-  - flexible beam
+  - Port-Hamiltonian systems
+  - Distributed control
+  - LQG method
+  - IPMC
+  - Flexible beam
 ---
  
 ## Authors

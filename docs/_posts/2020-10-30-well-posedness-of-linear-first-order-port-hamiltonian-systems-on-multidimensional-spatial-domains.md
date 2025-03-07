@@ -5,15 +5,14 @@ date: 2020-10-30 00:00:00 +0100
 permalink: well-posedness-of-linear-first-order-port-hamiltonian-systems-on-multidimensional-spatial-domains
 year: 2021
 authors: Nathanael Skrepek
-category:
-  - articles
+category: articles
 ---
  
 ## Authors
 [Nathanael Skrepek](authors/nathanael_skrepek)
  
 ## Abstract
-We consider a port-Hamiltonian system on an open spatial domain \(  \Omega \subseteq \mathbb{R}^n  \) with bounded Lipschitz boundary. We show that there is a boundary triple associated to this system. Hence, we can characterize all boundary conditions that provide unique solutions that are non-increasing in the Hamiltonian. As a by-product we develop the theory of quasi Gelfand triples. Adding "natural" boundary controls and boundary observations yields scattering/impedance passive boundary control systems. This framework will be applied to the wave equation, Maxwell's equations and Mindlin plate model. Probably, there are even more applications.
+We consider a port-Hamiltonian system on an open spatial domain \\(  \Omega \subseteq \mathbb{R}^n  \\) with bounded Lipschitz boundary. We show that there is a boundary triple associated to this system. Hence, we can characterize all boundary conditions that provide unique solutions that are non-increasing in the Hamiltonian. As a by-product we develop the theory of quasi Gelfand triples. Adding "natural" boundary controls and boundary observations yields scattering/impedance passive boundary control systems. This framework will be applied to the wave equation, Maxwell's equations and Mindlin plate model. Probably, there are even more applications.
  
 ## Citation
 - **Journal:** Evolution Equations &amp; Control Theory

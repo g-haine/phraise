@@ -5,14 +5,13 @@ date: 2017-10-24 00:00:00 +0100
 permalink: self-oscillations-of-a-vocal-apparatus-a-port-hamiltonian-formulation
 year: 2017
 authors: Thomas Hélie, Fabrice Silva
-category:
-  - proceedings
+category: proceedings
 tags:
-  - vocal apparatus
-  - port-hamiltonian systems (phs)
-  - open passive systems
-  - glottal flow
-  - dirac structure
+  - Vocal Apparatus
+  - port-Hamiltonian Systems (PHS)
+  - Open Passive Systems
+  - Glottal Flow
+  - Dirac Structure
 ---
  
 ## Authors

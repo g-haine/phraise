@@ -5,10 +5,9 @@ date: 2018-06-18 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-a-cable-driven-robot
 year: 2018
 authors: Christian Schenk, Burak Yüksel, Cristian Secchi, Heinrich H. Bülthoff
-category:
-  - proceedings
+category: proceedings
 tags:
-  - cable-driven parallel robots
+  - Cable-Driven parallel robots
   - finite-element modelling
   - hybrid/switching systems
   - elasticity

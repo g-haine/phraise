@@ -5,13 +5,12 @@ date: 2013-10-10 00:00:00 +0100
 permalink: on-the-equivalence-of-two-nonlinear-control-approaches-immersion-and-invariance-and-ida-pbc
 year: 2013
 authors: Paul Kotyczka, Ioannis Sarras
-category:
-  - proceedings
+category: proceedings
 tags:
-  - underactuated mechanical systems
-  - port-hamiltonian systems
-  - passivity based control
-  - immersion and invariance
+  - Underactuated mechanical systems
+  - Port-Hamiltonian systems
+  - Passivity based control
+  - Immersion and invariance
 ---
  
 ## Authors

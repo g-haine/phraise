@@ -5,12 +5,11 @@ date: 2007-12-04 00:00:00 +0100
 permalink: variable-delay-in-scaled-port-hamiltonian-telemanipulation
 year: 2008
 authors: Cristian Secchi, Stefano Stramigioli, Cesare Fantuzzi
-category:
-  - proceedings
+category: proceedings
 tags:
-  - telemanipulation
-  - port-hamiltonian systems
-  - variable delay
+  - Telemanipulation
+  - Port-Hamiltonian systems
+  - Variable delay
 ---
  
 ## Authors

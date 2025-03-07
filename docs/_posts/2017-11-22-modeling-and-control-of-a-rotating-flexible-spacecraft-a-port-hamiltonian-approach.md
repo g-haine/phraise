@@ -5,8 +5,7 @@ date: 2017-11-22 00:00:00 +0100
 permalink: modeling-and-control-of-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach
 year: 2019
 authors: Said Aoues, Flavio Luiz Cardoso-Ribeiro, Denis Matignon, Daniel Alazard
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

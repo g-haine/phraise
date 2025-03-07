@@ -5,8 +5,7 @@ date: 2021-01-05 00:00:00 +0100
 permalink: structured-backward-errors-for-eigenvalues-of-linear-port-hamiltonian-descriptor-systems
 year: 2021
 authors: Volker Mehrmann, Paul Van Dooren
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

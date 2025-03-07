@@ -5,16 +5,15 @@ date: 2024-11-05 00:00:00 +0100
 permalink: exergetic-port-hamiltonian-systems-for-multibody-dynamics
 year: 2024
 authors: Markus Lohmayer, Giuseppe Capobianco, Sigrid Leyendecker
-category:
-  - articles
+category: articles
 tags:
-  - compositionality
-  - modeling language
-  - multibody systems
-  - multiphysics
-  - rigid body dynamics
-  - thermodynamic consistency
-  - variational principle
+  - Compositionality
+  - Modeling language
+  - Multibody systems
+  - Multiphysics
+  - Rigid body dynamics
+  - Thermodynamic consistency
+  - Variational principle
 ---
  
 ## Authors

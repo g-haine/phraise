@@ -5,12 +5,11 @@ date: 2012-02-18 00:00:00 +0100
 permalink: discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems
 year: 2012
 authors: Marko Seslija, Arjan van der Schaft, Jacquelien M.A. Scherpen
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian system
-  - dirac structure
-  - structure-preserving discretization
+  - Port-Hamiltonian system
+  - Dirac structure
+  - Structure-preserving discretization
 ---
  
 ## Authors

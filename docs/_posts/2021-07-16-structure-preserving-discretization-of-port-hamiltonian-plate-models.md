@@ -5,14 +5,13 @@ date: 2021-07-16 00:00:00 +0100
 permalink: structure-preserving-discretization-of-port-hamiltonian-plate-models
 year: 2021
 authors: Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - kirchhoff plate
-  - mindlin-reissner plate
-  - mixed finite element method
-  - numerical convergence
+  - Port-Hamiltonian systems
+  - Kirchhoff Plate
+  - Mindlin-Reissner Plate
+  - Mixed Finite Element Method
+  - Numerical convergence
 ---
  
 ## Authors

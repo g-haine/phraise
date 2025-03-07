@@ -5,12 +5,11 @@ date: 2008-07-18 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems-by-dissipative-devices-and-its-application-to-improve-the-semi-active-suspension-behaviour
 year: 2008
 authors: Riccardo Morselli, Roberto Zanasi
-category:
-  - proceedings
+category: proceedings
 tags:
-  - nonlinear control
-  - automotive control
-  - semi-active suspension
+  - Nonlinear control
+  - Automotive control
+  - Semi-active suspension
 ---
  
 ## Authors

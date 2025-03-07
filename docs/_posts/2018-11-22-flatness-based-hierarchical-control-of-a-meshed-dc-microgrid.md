@@ -5,15 +5,14 @@ date: 2018-11-22 00:00:00 +0100
 permalink: flatness-based-hierarchical-control-of-a-meshed-dc-microgrid
 year: 2018
 authors: I. Zafeiratou, D.V.A. Nguyen, I. Prodan, L. Lefèvre, L. Piétrac
-category:
-  - proceedings
+category: proceedings
 tags:
-  - meshed dc microgrid
-  - port-hamiltonian formalism
-  - differential flatness
-  - b-splines parametrization
-  - power balancing
-  - model predictive control
+  - Meshed DC microgrid
+  - Port-Hamiltonian formalism
+  - Differential flatness
+  - B-splines parametrization
+  - Power balancing
+  - Model Predictive Control
 ---
  
 ## Authors

@@ -5,16 +5,15 @@ date: 2013-10-18 00:00:00 +0100
 permalink: a-class-of-damping-models-preserving-eigenspaces-for-linear-conservative-port-hamiltonian-systems
 year: 2013
 authors: Denis Matignon, Thomas Hélie
-category:
-  - proceedings
+category: proceedings
 tags:
-  - energy storage
-  - port-hamiltonian systems
-  - eigenfunctions
-  - damping
-  - caughey series
-  - partial differential equations
-  - fractional laplacian
+  - Energy storage
+  - Port-Hamiltonian systems
+  - Eigenfunctions
+  - Damping
+  - Caughey series
+  - Partial differential equations
+  - Fractional Laplacian
 ---
  
 ## Authors

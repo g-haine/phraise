@@ -5,14 +5,13 @@ date: 2016-10-11 00:00:00 +0100
 permalink: a-mass-energy-enstrophy-and-vorticity-conserving-meevc-mimetic-spectral-element-discretization-for-the-2d-incompressible-navier-stokes-equations
 year: 2017
 authors: A. Palha, M. Gerritsma
-category:
-  - articles
+category: articles
 tags:
-  - energy conserving discretization
-  - mimetic discretization
-  - enstrophy conserving discretization
-  - spectral element method
-  - incompressible navier–stokes equations
+  - Energy conserving discretization
+  - Mimetic discretization
+  - Enstrophy conserving discretization
+  - Spectral element method
+  - Incompressible Navier–Stokes equations
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2024-03-01 00:00:00 +0100
 permalink: passivity-techniques-and-hamiltonian-structures-in-discrete-time
 year: 2024
 authors: Dorothée Normand-Cyrot, Salvatore Monaco, Mattia Mattioni, Alessio Moreschini
-category:
-  - proceedings
+category: proceedings
 tags:
-  - discrete-time systems
-  - port-hamiltonian structures
-  - passivity based control
-  - energy-based control
+  - Discrete-time systems
+  - Port-Hamiltonian structures
+  - Passivity based control
+  - Energy-based control
 ---
  
 ## Authors

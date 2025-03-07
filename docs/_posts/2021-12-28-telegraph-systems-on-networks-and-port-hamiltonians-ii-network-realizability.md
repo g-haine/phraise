@@ -5,15 +5,14 @@ date: 2021-12-28 00:00:00 +0100
 permalink: telegraph-systems-on-networks-and-port-hamiltonians-ii-network-realizability
 year: 2022
 authors: Jacek Banasiak, Adam Błoch
-category:
-  - articles
+category: articles
 ---
  
 ## Authors
 [Jacek Banasiak](authors/jacek_banasiak), [Adam Błoch](authors/adam_bloch)
  
 ## Abstract
-Hyperbolic systems on networks often can be written as systems of first order equations on an interval, coupled by transmission conditions at the endpoints, also called port-Hamiltonians. However, general results for the latter have been difficult to interpret in the network language. The aim of this paper is to derive conditions under which a port-Hamiltonian with general linear Kirchhoff's boundary conditions can be written as a system of \(  2\times 2  \) hyperbolic equations on a metric graph \(  \Gamma  \). This is achieved by interpreting the matrix of the boundary conditions as a potential map of vertex connections of \(  \Gamma  \) and then showing that, under the derived assumptions, that matrix can be used to determine the adjacency matrix of \(  \Gamma  \)
+Hyperbolic systems on networks often can be written as systems of first order equations on an interval, coupled by transmission conditions at the endpoints, also called port-Hamiltonians. However, general results for the latter have been difficult to interpret in the network language. The aim of this paper is to derive conditions under which a port-Hamiltonian with general linear Kirchhoff's boundary conditions can be written as a system of \\(  2\times 2  \\) hyperbolic equations on a metric graph \\(  \Gamma  \\). This is achieved by interpreting the matrix of the boundary conditions as a potential map of vertex connections of \\(  \Gamma  \\) and then showing that, under the derived assumptions, that matrix can be used to determine the adjacency matrix of \\(  \Gamma  \\)
  
 ## Citation
 - **Journal:** Networks and Heterogeneous Media

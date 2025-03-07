@@ -5,8 +5,7 @@ date: 2020-01-03 00:00:00 +0100
 permalink: simulation-of-the-ondes-martenot-ribbon-controlled-oscillator-using-energy-balanced-modeling-of-nonlinear-time-varying-electronic-components
 year: 2020
 authors: Judy Najnudel, Thomas Hélie, David Roze
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

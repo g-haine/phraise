@@ -5,10 +5,9 @@ date: 2018-10-08 00:00:00 +0100
 permalink: tracking-error-plus-damping-injection-control-of-non-minimum-phase-processes
 year: 2018
 authors: T. Sang Nguyen, N. Ha Hoang, M.A. Hussain
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian framework
+  - Port-Hamiltonian framework
   - chemical process systems
   - non-minimum phase system
   - passivity

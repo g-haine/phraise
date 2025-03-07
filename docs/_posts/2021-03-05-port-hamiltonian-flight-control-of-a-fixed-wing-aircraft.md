@@ -5,8 +5,7 @@ date: 2021-03-05 00:00:00 +0100
 permalink: port-hamiltonian-flight-control-of-a-fixed-wing-aircraft
 year: 2022
 authors: Jean-Michel Fahmi, Craig A. Woolsey
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

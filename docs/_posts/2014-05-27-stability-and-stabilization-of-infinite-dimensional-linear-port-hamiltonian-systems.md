@@ -5,8 +5,7 @@ date: 2014-05-27 00:00:00 +0100
 permalink: stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems
 year: 2014
 authors: Björn Augner, Birgit Jacob
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

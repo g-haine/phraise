@@ -5,13 +5,12 @@ date: 2018-06-18 00:00:00 +0100
 permalink: representation-of-heat-exchanger-networks-using-graph-formalism
 year: 2018
 authors: B. Zitte, B. Hamroun, F. Couenne, I. Pitault
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port hamiltonian systems
-  - thermal systems
-  - network
-  - passivity
+  - Port Hamiltonian systems
+  - Thermal systems
+  - Network
+  - Passivity
 ---
  
 ## Authors

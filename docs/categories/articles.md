@@ -1,8 +1,7 @@
 ---
 layout: category
 title: Articles
-category:
-  - articles
+category: articles
 permalink: /categories/articles
 ---
 

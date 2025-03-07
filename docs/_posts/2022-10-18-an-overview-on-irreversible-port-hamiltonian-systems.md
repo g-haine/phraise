@@ -5,8 +5,7 @@ date: 2022-10-18 00:00:00 +0100
 permalink: an-overview-on-irreversible-port-hamiltonian-systems
 year: 2022
 authors: Hector Ramirez, Yann Le Gorrec
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

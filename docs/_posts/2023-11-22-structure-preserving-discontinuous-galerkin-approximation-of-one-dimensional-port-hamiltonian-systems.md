@@ -5,13 +5,12 @@ date: 2023-11-22 00:00:00 +0100
 permalink: structure-preserving-discontinuous-galerkin-approximation-of-one-dimensional-port-hamiltonian-systems
 year: 2023
 authors: Tobias Thoma, Paul Kotyczka
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
+  - port-Hamiltonian systems
   - conservation laws
   - structure preserving discretization
-  - discontinuous galerkin
+  - discontinuous Galerkin
 ---
  
 ## Authors

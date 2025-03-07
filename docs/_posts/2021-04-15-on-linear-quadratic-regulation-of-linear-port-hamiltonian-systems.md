@@ -5,14 +5,13 @@ date: 2021-04-15 00:00:00 +0100
 permalink: on-linear-quadratic-regulation-of-linear-port-hamiltonian-systems
 year: 2020
 authors: Javier Caballeria, Francisco Vargas, Hector Ramirez, Yongxin Wu, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - linear quadratic regulator
-  - passivity based control
-  - control by interconnection
-  - damping injection
+  - Port-Hamiltonian systems
+  - Linear Quadratic Regulator
+  - Passivity based control
+  - Control by interconnection
+  - Damping injection
 ---
  
 ## Authors

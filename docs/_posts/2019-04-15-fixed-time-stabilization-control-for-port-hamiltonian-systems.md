@@ -5,13 +5,12 @@ date: 2019-04-15 00:00:00 +0100
 permalink: fixed-time-stabilization-control-for-port-hamiltonian-systems
 year: 2019
 authors: Xinggui Liu, Xiaofeng Liao
-category:
-  - articles
+category: articles
 tags:
-  - fixed-time stability region
-  - port-hamiltonian systems
-  - fixed-time attractivity
-  - stability boundary at infinity
+  - Fixed-time stability region
+  - Port-Hamiltonian systems
+  - Fixed-time attractivity
+  - Stability boundary at infinity
 ---
  
 ## Authors

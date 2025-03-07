@@ -5,8 +5,7 @@ date: 2022-11-25 00:00:00 +0100
 permalink: model-reduction-for-a-port-hamiltonian-formulation-of-the-euler-equations
 year: 2022
 authors: Sarah-Alexa Hauschild, Nicole Marheineke
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

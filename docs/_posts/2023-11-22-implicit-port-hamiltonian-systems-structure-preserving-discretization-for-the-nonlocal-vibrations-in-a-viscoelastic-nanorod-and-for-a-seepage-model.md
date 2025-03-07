@@ -5,14 +5,13 @@ date: 2023-11-22 00:00:00 +0100
 permalink: implicit-port-hamiltonian-systems-structure-preserving-discretization-for-the-nonlocal-vibrations-in-a-viscoelastic-nanorod-and-for-a-seepage-model
 year: 2023
 authors: Antoine Bendimerad-Hohl, Ghislain Haine, Laurent Lefèvre, Denis Matignon
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - structure-preserving discretization
-  - partitioned finite element method
-  - implicit port-hamiltonian systems
-  - nonlocal dynamics
+  - port-Hamiltonian systems
+  - Structure-Preserving Discretization
+  - Partitioned Finite Element Method
+  - Implicit port-Hamiltonian systems
+  - Nonlocal dynamics
 ---
  
 ## Authors

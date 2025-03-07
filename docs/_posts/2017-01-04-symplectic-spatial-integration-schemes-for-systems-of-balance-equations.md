@@ -5,14 +5,13 @@ date: 2017-01-04 00:00:00 +0100
 permalink: symplectic-spatial-integration-schemes-for-systems-of-balance-equations
 year: 2017
 authors: Ngoc Minh Trang Vu, Laurent Lefèvre, Rémy Nouailletas, Sylvain Brémond
-category:
-  - articles
+category: articles
 tags:
-  - symplectic spatial integration
-  - pseudo-spectral methods
-  - balance equations
-  - port-hamiltonian systems
-  - resistive diffusion equation
+  - Symplectic spatial integration
+  - Pseudo-spectral methods
+  - Balance equations
+  - Port-Hamiltonian systems
+  - Resistive diffusion equation
 ---
  
 ## Authors

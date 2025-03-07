@@ -5,13 +5,12 @@ date: 2018-06-18 00:00:00 +0100
 permalink: a-connection-between-optimal-control-and-ida-pbc-design
 year: 2018
 authors: N.M. Trang Vu, L. Lefèvre
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-controlled hamiltonian (pch) systems
-  - interconnection
-  - damping assignment passivity based control (ida-pbc) parameterization
-  - linear quadratic (lq) optimal control
+  - Port-Controlled Hamiltonian (PCH) systems
+  - Interconnection
+  - Damping Assignment Passivity Based Control (IDA-PBC) parameterization
+  - linear quadratic (LQ) optimal control
 ---
  
 ## Authors

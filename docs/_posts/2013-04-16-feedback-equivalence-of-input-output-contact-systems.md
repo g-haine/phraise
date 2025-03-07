@@ -5,13 +5,12 @@ date: 2013-04-16 00:00:00 +0100
 permalink: feedback-equivalence-of-input-output-contact-systems
 year: 2013
 authors: Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear control
-  - input–output contact systems
-  - contact geometry
-  - irreversible thermodynamics
+  - Nonlinear control
+  - Input–output contact systems
+  - Contact geometry
+  - Irreversible Thermodynamics
 ---
  
 ## Authors

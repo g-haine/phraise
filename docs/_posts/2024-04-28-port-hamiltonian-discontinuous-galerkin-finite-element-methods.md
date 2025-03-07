@@ -5,8 +5,7 @@ date: 2024-04-28 00:00:00 +0100
 permalink: port-hamiltonian-discontinuous-galerkin-finite-element-methods
 year: 2025
 authors: Nishant Kumar, J J W van der Vegt, H J Zwart
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

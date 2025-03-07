@@ -5,8 +5,7 @@ date: 2020-01-20 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-chaotic-systems-with-hidden-attractors-by-adaptive-terminal-sliding-mode-control
 year: 2020
 authors: Ahmad Taher Azar, Fernando E. Serrano
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

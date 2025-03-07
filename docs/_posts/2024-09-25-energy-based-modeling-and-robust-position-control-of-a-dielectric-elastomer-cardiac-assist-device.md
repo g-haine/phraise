@@ -5,11 +5,10 @@ date: 2024-09-25 00:00:00 +0100
 permalink: energy-based-modeling-and-robust-position-control-of-a-dielectric-elastomer-cardiac-assist-device
 year: 2024
 authors: Amal Hammoud, Ning Liu, Yann Le Gorrec, Yoan Civet, Yves Perriard
-category:
-  - proceedings
+category: proceedings
 tags:
-  - dielectric elastomer actuators
-  - port-hamiltonian systems
+  - Dielectric elastomer actuators
+  - port-Hamiltonian systems
   - passivity-based control
   - integral action
 ---

@@ -5,15 +5,14 @@ date: 2018-05-03 00:00:00 +0100
 permalink: passivity-analysis-and-port-hamiltonian-formulation-of-the-muller-achenbach-seelecke-model-for-shape-memory-alloys-the-isothermal-case
 year: 2018
 authors: gianluca Rizzello, David Naso, Stefan Seelecke
-category:
-  - proceedings
+category: proceedings
 tags:
-  - shape memory alloy
-  - sma
-  - müller-achenbach-seelecke model
-  - passivity
-  - port-hamiltonian systems
-  - hysteresis
+  - Shape Memory Alloy
+  - SMA
+  - Müller-Achenbach-Seelecke Model
+  - Passivity
+  - Port-Hamiltonian Systems
+  - Hysteresis
 ---
  
 ## Authors

@@ -5,13 +5,12 @@ date: 2009-04-16 00:00:00 +0100
 permalink: asymptotic-stabilization-via-control-by-interconnection-of-port-hamiltonian-systems
 year: 2009
 authors: Fernando Castaños, Romeo Ortega, Arjan van der Schaft, Alessandro Astolfi
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear control systems
-  - port-hamiltonian systems
-  - asymptotic stability
-  - passivity-based control
+  - Nonlinear control systems
+  - Port-Hamiltonian systems
+  - Asymptotic stability
+  - Passivity-based control
 ---
  
 ## Authors

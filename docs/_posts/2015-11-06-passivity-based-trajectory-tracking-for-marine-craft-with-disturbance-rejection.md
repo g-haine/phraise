@@ -5,12 +5,11 @@ date: 2015-11-06 00:00:00 +0100
 permalink: passivity-based-trajectory-tracking-for-marine-craft-with-disturbance-rejection
 year: 2015
 authors: Alejandro Donaire, Jose Guadalupe Romero, Tristan Perez
-category:
-  - proceedings
+category: proceedings
 tags:
-  - marine systems
-  - port-hamiltonian systems
-  - nonlinear control
+  - Marine systems
+  - Port-Hamiltonian Systems
+  - Nonlinear control
 ---
  
 ## Authors

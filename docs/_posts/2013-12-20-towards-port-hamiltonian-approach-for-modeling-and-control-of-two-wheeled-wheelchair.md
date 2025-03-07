@@ -5,8 +5,7 @@ date: 2013-12-20 00:00:00 +0100
 permalink: towards-port-hamiltonian-approach-for-modeling-and-control-of-two-wheeled-wheelchair
 year: 2013
 authors: A Aula, R Akmeliawati, S Ahmad, T M Altalmas, S N Sidek
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

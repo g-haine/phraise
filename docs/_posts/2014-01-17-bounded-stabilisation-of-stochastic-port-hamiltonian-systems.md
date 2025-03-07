@@ -5,8 +5,7 @@ date: 2014-01-17 00:00:00 +0100
 permalink: bounded-stabilisation-of-stochastic-port-hamiltonian-systems
 year: 2014
 authors: Satoshi Satoh, Masami Saeki
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

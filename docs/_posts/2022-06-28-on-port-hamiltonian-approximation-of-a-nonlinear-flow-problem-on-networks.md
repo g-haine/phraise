@@ -5,8 +5,7 @@ date: 2022-06-28 00:00:00 +0100
 permalink: on-port-hamiltonian-approximation-of-a-nonlinear-flow-problem-on-networks
 year: 2022
 authors: Björn Liljegren-Sailer, Nicole Marheineke
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

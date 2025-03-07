@@ -5,8 +5,7 @@ date: 2014-08-19 00:00:00 +0100
 permalink: a-kernel-representation-of-dirac-structures-for-infinite-dimensional-systems
 year: 2014
 authors: O.V. Iftime, M. Roman, A. Sandovici
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

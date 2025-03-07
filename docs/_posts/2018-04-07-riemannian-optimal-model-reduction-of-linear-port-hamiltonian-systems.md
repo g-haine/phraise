@@ -5,12 +5,11 @@ date: 2018-04-07 00:00:00 +0100
 permalink: riemannian-optimal-model-reduction-of-linear-port-hamiltonian-systems
 year: 2018
 authors: Kazuhiro Sato
-category:
-  - articles
+category: articles
 tags:
-  - \( h^2 \) optimal model reduction
-  - linear port-hamiltonian system
-  - riemannian optimization
+  - \\( H^2 \\) optimal model reduction
+  - Linear port-Hamiltonian system
+  - Riemannian optimization
 ---
  
 ## Authors
@@ -20,7 +19,7 @@ tags:
 In this paper, we describe the development of a Riemannian optimal model reduction method for linear stable port-Hamiltonian systems. This development is motivated by the fact that there remains room for improvement in existing methods. The model reduction problem is formulated as an optimization problem on the product manifold of the set of skew symmetric matrices, the manifold of the symmetric positive definite matrices, and Euclidean space. The reduced systems constructed using the optimal solutions to the problem preserve the original structure, i.e., stability, passivity, and the port-Hamiltonian form. The Riemannian gradient is derived to relate our problem to another problem in some studies, and the Hessian is also derived to solve our problem using a Riemannian trust region method. The initial point in the proposed method is chosen by using the output of the iterative rational Krylov algorithm for linear port-Hamiltonian systems (IRKA-PH). A numerical experiment illustrates that the proposed method considerably improves the results of IRKA-PH when the reduced-model dimension is small.
  
 ## Keywords
-\( H^2 \) optimal model reduction; Linear port-Hamiltonian system; Riemannian optimization
+\\( H^2 \\) optimal model reduction; Linear port-Hamiltonian system; Riemannian optimization
  
 ## Citation
 - **Journal:** Automatica

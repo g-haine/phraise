@@ -5,14 +5,13 @@ date: 2016-11-25 00:00:00 +0100
 permalink: port-hamiltonian-observer-design-for-plasma-profile-estimation-in-tokamaks
 year: 2016
 authors: Benjamin Vincent, Nicolas Hudon, Laurent Lefèvre, Denis Dochain
-category:
-  - proceedings
+category: proceedings
 tags:
-  - port-hamiltonian systems
-  - nonlinear passive observers
-  - tokamaks
-  - distributed parameter systems
-  - profile estimation
+  - Port-Hamiltonian systems
+  - Nonlinear passive observers
+  - Tokamaks
+  - Distributed parameter systems
+  - Profile estimation
 ---
  
 ## Authors

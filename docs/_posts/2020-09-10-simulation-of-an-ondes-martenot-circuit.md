@@ -5,8 +5,7 @@ date: 2020-09-10 00:00:00 +0100
 permalink: simulation-of-an-ondes-martenot-circuit
 year: 2020
 authors: Judy Najnudel, Thomas Helie, David Roze, Henri Boutin
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

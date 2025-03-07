@@ -5,14 +5,13 @@ date: 2009-04-08 00:00:00 +0100
 permalink: proportional-plus-integral-control-for-set-point-regulation-of-a-class-of-nonlinear-rlc-circuits
 year: 2009
 authors: Fernando Castaños, Bayu Jayawardhana, Romeo Ortega, Eloísa García-Canseco
-category:
-  - articles
+category: articles
 tags:
-  - nonlinear networks
-  - passivity
-  - port-hamiltonian systems
-  - stability
-  - stabilization
+  - Nonlinear networks
+  - Passivity
+  - Port-Hamiltonian systems
+  - Stability
+  - Stabilization
 ---
  
 ## Authors

@@ -5,11 +5,10 @@ date: 2018-06-18 00:00:00 +0100
 permalink: discontinuous-energy-shaping-control-of-the-chaplygin-sleigh
 year: 2018
 authors: Joel Ferguson, Alejandro Donaire, Richard H. Middleton
-category:
-  - proceedings
+category: proceedings
 tags:
-  - nonholonomic systems
-  - port-hamiltonian systems
+  - Nonholonomic systems
+  - port-Hamiltonian systems
   - discontinuous control
   - robust control
 ---

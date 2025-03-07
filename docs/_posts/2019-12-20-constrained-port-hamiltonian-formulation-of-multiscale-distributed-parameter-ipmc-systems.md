@@ -5,14 +5,13 @@ date: 2019-12-20 00:00:00 +0100
 permalink: constrained-port-hamiltonian-formulation-of-multiscale-distributed-parameter-ipmc-systems
 year: 2019
 authors: Ning Liu, Yongxin Wu, Yann Le Gorrec
-category:
-  - proceedings
+category: proceedings
 tags:
-  - constrained port hamiltonian system
+  - Constrained port Hamiltonian system
   - infinite dimensional system
   - multi-scale modeling
   - model reduction
-  - ipmc actuator
+  - IPMC actuator
 ---
  
 ## Authors

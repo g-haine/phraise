@@ -5,15 +5,14 @@ date: 2010-02-20 00:00:00 +0100
 permalink: structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity
 year: 2010
 authors: Rostyslav V. Polyuga, Arjan van der Schaft
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - model reduction
-  - krylov methods
-  - arnoldi method, lanczos method
-  - structure preservation
-  - markov parameters
+  - Port-Hamiltonian systems
+  - Model reduction
+  - Krylov methods
+  - Arnoldi method, Lanczos method
+  - Structure preservation
+  - Markov parameters
 ---
  
 ## Authors

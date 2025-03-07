@@ -5,8 +5,7 @@ date: 2019-07-10 00:00:00 +0100
 permalink: on-parametric-structure-preserving-model-order-reduction-of-linear-port-hamiltonian-systems
 year: 2019
 authors: Tobias M. Scheuermann, Paul Kotyczka, Boris Lohmann
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

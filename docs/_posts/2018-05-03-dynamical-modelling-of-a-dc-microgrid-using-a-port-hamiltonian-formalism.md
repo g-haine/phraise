@@ -5,12 +5,11 @@ date: 2018-05-03 00:00:00 +0100
 permalink: dynamical-modelling-of-a-dc-microgrid-using-a-port-hamiltonian-formalism
 year: 2018
 authors: I. Zafeiratou, I. Prodan, L. Lefèvre, L. Piétrac
-category:
-  - proceedings
+category: proceedings
 tags:
-  - bond graph
-  - port-hamiltonian formulation
-  - meshed dc microgrid
+  - Bond graph
+  - port-Hamiltonian formulation
+  - meshed DC microgrid
   - load balancing
 ---
  

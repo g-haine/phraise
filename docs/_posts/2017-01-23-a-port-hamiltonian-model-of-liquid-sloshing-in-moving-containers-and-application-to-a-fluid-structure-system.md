@@ -5,15 +5,14 @@ date: 2017-01-23 00:00:00 +0100
 permalink: a-port-hamiltonian-model-of-liquid-sloshing-in-moving-containers-and-application-to-a-fluid-structure-system
 year: 2017
 authors: Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger
-category:
-  - articles
+category: articles
 tags:
-  - port-hamiltonian systems
-  - shallow-water sloshing
-  - moving container
-  - dynamic coupling
-  - interconnection of systems
-  - active control
+  - Port-Hamiltonian systems
+  - Shallow-water sloshing
+  - Moving container
+  - Dynamic coupling
+  - Interconnection of systems
+  - Active control
 ---
  
 ## Authors

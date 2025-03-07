@@ -5,11 +5,10 @@ date: 2017-10-19 00:00:00 +0100
 permalink: stabilization-of-structure-preserving-power-networks-with-market-dynamics
 year: 2017
 authors: Tjerk W. Stegink, Claudio De Persis, Arjan J. van der Schaft
-category:
-  - proceedings
+category: proceedings
 tags:
   - electric power systems
-  - lyapunov stability
+  - Lyapunov stability
   - distributed control
   - nonlinear systems
   - optimal power flow

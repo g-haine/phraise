@@ -5,8 +5,7 @@ date: 2023-01-10 00:00:00 +0100
 permalink: physics-guided-and-energy-based-learning-of-interconnected-systems-from-lagrangian-to-port-hamiltonian-systems
 year: 2022
 authors: Yajie Bao, Vaishnavi Thesma, Atul Kelkar, Javad Mohammadpour Velni
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

@@ -5,14 +5,13 @@ date: 2018-11-20 00:00:00 +0100
 permalink: port-hamiltonian-based-optimal-power-flow-algorithm-for-multi-terminal-dc-networks
 year: 2019
 authors: Ernest Benedito, Dunstano del Puerto-Flores, Arnau Dòria-Cerezo, Jacquelien M.A. Scherpen
-category:
-  - articles
+category: articles
 tags:
-  - optimal power flow
-  - port-hamiltonian systems
-  - gradient method
-  - dc networks
-  - cyclic networks
+  - Optimal power flow
+  - Port-Hamiltonian systems
+  - Gradient method
+  - DC networks
+  - Cyclic networks
 ---
  
 ## Authors

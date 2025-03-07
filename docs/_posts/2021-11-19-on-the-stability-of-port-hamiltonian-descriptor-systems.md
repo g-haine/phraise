@@ -5,15 +5,14 @@ date: 2021-11-19 00:00:00 +0100
 permalink: on-the-stability-of-port-hamiltonian-descriptor-systems
 year: 2021
 authors: Hannes Gernandt, Frédéric E. Haller
-category:
-  - proceedings
+category: proceedings
 tags:
-  - descriptor systems
-  - port-hamiltonian systems
+  - Descriptor systems
+  - port-Hamiltonian systems
   - stability
   - differential-algebraic equations
   - linear matrix inequalities
-  - dirac structure
+  - Dirac structure
 ---
  
 ## Authors

@@ -5,15 +5,14 @@ date: 2024-06-03 00:00:00 +0100
 permalink: generic-observability-for-port-hamiltonian-descriptor-systems
 year: 2024
 authors: Jonas Kirchhoff
-category:
-  - articles
+category: articles
 tags:
-  - differential-algebraic equation
-  - port-hamiltonian system
-  - controllability
-  - stabilizability
-  - genericity
-  - relative-genericity
+  - Differential-algebraic equation
+  - Port-Hamiltonian system
+  - Controllability
+  - Stabilizability
+  - Genericity
+  - Relative-genericity
 ---
  
 ## Authors

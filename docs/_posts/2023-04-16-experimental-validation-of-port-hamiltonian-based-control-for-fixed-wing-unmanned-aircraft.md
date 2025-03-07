@@ -5,8 +5,7 @@ date: 2023-04-16 00:00:00 +0100
 permalink: experimental-validation-of-port-hamiltonian-based-control-for-fixed-wing-unmanned-aircraft
 year: 2023
 authors: Jean-Michel W. Fahmi, James L. Gresham, Craig A. Woolsey
-category:
-  - articles
+category: articles
 ---
  
 ## Authors

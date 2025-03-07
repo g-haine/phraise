@@ -5,8 +5,7 @@ date: 2023-08-01 00:00:00 +0100
 permalink: data-driven-port-hamiltonian-structured-identification-for-non-strictly-passive-systems
 year: 2023
 authors: Charles Poussot-Vassal, Denis Matignon, Ghilslain Haine, Pierre Vuillemin
-category:
-  - proceedings
+category: proceedings
 ---
  
 ## Authors

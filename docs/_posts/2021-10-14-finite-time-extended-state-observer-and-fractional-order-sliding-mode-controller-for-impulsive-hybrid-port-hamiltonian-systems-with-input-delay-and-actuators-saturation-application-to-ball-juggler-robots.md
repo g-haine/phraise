@@ -5,15 +5,14 @@ date: 2021-10-14 00:00:00 +0100
 permalink: finite-time-extended-state-observer-and-fractional-order-sliding-mode-controller-for-impulsive-hybrid-port-hamiltonian-systems-with-input-delay-and-actuators-saturation-application-to-ball-juggler-robots
 year: 2022
 authors: Yousef Farid, Fabio Ruggiero
-category:
-  - articles
+category: articles
 tags:
-  - impulsive hybrid systems
-  - port-hamiltonian dynamics
-  - extended state observer
-  - fractional sliding surface
-  - finite-time control
-  - input delay
+  - Impulsive hybrid systems
+  - Port-Hamiltonian dynamics
+  - Extended state observer
+  - Fractional sliding surface
+  - Finite-time control
+  - Input delay
 ---
  
 ## Authors
