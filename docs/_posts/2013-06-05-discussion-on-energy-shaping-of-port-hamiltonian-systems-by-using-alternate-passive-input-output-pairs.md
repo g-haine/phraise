@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando_castanos)
+[Fernando Castaños](authors/fernando-castanos)
  
 ## Citation
 - **Journal:** European Journal of Control

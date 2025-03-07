@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Christian Harkort](authors/christian_harkort), [Joachim Deutscher](authors/joachim_deutscher)
+[Christian Harkort](authors/christian-harkort), [Joachim Deutscher](authors/joachim-deutscher)
  
 ## Abstract
 This contribution presents two approximation methods for linear infinite-dimensional systems that ensure the preservation of stability and passivity. The first approach allows one to approximate internal source free infinite-dimensional systems such that the resulting approximation is a port-controlled Hamiltonian system with dissipation. The second method deals with the class of systems that are not required to have conjugated outputs but only a dissipative system operator. It yields approximations with a dissipative system matrix for which bounds of their stability margin are provided. Both approaches are based on a state space formulation of the infinite-dimensional system. This makes it possible to use the Petrov–Galerkin approximation whose free parameters are partly used for achieving the structure preservation. Since still free parameters remain, further application specific objectives, such as, e.g., moment matching, can be achieved. Both approaches are applied to the approximation of an Euler–Bernoulli beam.

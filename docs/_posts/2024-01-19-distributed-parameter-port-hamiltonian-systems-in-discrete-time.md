@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli)
+[Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 This paper presents a design framework of discrete-time regulators for linear, port-Hamiltonian, boundary control systems. The contribution is twofold. At first, a discrete-time approximation of the plant dynamics originally described by a linear PDE with boundary actuation is introduced. The discretisation is performed in time only. Thus, the “distributed nature” of the state is maintained. Such a system inherits the passivity of the original one and is well-posed, namely the “next” state always exists. The second result is the characterisation of discrete-time, linear controllers in the port-Hamiltonian form that render the closed-loop dynamics asymptotically stable. A numerical example illustrates the effectiveness of the proposed framework.

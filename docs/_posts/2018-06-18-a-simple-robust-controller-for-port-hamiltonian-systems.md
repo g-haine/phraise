@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Lassi Paunonen](authors/lassi_paunonen), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramírez](authors/hector_ramirez)
+[Lassi Paunonen](authors/lassi-paunonen), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramírez](authors/hector-ramirez)
  
 ## Abstract
 We consider robust output regulation of passive infinite-dimensional linear port-Hamiltonian systems. As the main result, we present a Lyapunov-based proof to show that a passive internal model based low-gain controller solves the control problem for stable port-Hamiltonian systems. The theoretic results are used to construct a controller controller for robust output tracking of a piezoelectric tube model.

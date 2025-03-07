@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[P. Rapisarda](authors/p_rapisarda), [J.C. Mayo Maldonado](authors/j_c_mayo_maldonado)
+[P. Rapisarda](authors/p-rapisarda), [J.C. Mayo Maldonado](authors/j-c-mayo-maldonado)
  
 ## Abstract
 We formulate a behavioral approach to higher-order linear port-Hamiltonian systems. We formalize constitutive laws such as power conservation, storage and (anti-)dissipative relations, and we study several properties of such systems. We also define the dual of a given port-Hamiltonian behavior.

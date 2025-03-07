@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[H. Gernandt](authors/hannes_gernandt), [F.E. Haller](authors/frederic_enrico_haller), [T. Reis](authors/timo_reis), [A.J. van der Schaft](authors/arjan_van_der_schaft)
+[H. Gernandt](authors/hannes-gernandt), [F.E. Haller](authors/frederic-enrico-haller), [T. Reis](authors/timo-reis), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 We consider nonlinear electrical circuits for which we derive a port-Hamiltonian formulation. After recalling a framework for nonlinear port-Hamiltonian systems, we model each circuit component as an individual port-Hamiltonian system. The overall circuit model is then derived by considering a port-Hamiltonian interconnection of the components. We further compare this modeling approach with standard formulations of nonlinear electrical circuits.

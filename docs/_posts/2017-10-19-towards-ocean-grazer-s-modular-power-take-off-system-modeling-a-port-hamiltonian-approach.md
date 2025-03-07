@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[J.J. Barradas-Berglind](authors/j_j_barradas_berglind), [M. Muñoz-Arias](authors/mauricio_munoz_arias), [Y. Wei](authors/y_wei), [W.A. Prins](authors/w_a_prins), [A.I. Vakis](authors/a_i_vakis), [B. Jayawardhana](authors/bayu_jayawardhana)
+[J.J. Barradas-Berglind](authors/j-j-barradas-berglind), [M. Muñoz-Arias](authors/mauricio-munoz-arias), [Y. Wei](authors/y-wei), [W.A. Prins](authors/w-a-prins), [A.I. Vakis](authors/a-i-vakis), [B. Jayawardhana](authors/bayu-jayawardhana)
  
 ## Abstract
 This paper presents a modular modeling framework for the Ocean Grazer’s Power Take-Off (PTO) system, which operates as an array of point-absorber type devices connected to a hydraulic system. The modeling is based on the port-Hamiltonian (PH) framework that enables energy-based analysis and control of the PTO system. Firstly, a modular model of a point-absorber hydraulic system, which represents the main building block of the PTO, is presented. The model consists of wave-mechanical and hydraulic subsystems that are interconnected with a transformer-type interconnection. Secondly, we show passivity of the point-absorber hydraulic element and the accumulation of potential energy, which is due to the novel pumping mechanism of the point-absorber. Finally, we illustrate these properties through simulation results.

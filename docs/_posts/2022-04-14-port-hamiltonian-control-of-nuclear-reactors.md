@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Zhe Dong](authors/zhe_dong), [Bowen Li](authors/bowen_li), [Junyi Li](authors/junyi_li), [Xiaojin Huang](authors/xiaojin_huang), [Yujie Dong](authors/yujie_dong), [Yajun Zhang](authors/yajun_zhang), [Zuoyi Zhang](authors/zuoyi_zhang)
+[Zhe Dong](authors/zhe-dong), [Bowen Li](authors/bowen-li), [Junyi Li](authors/junyi-li), [Xiaojin Huang](authors/xiaojin-huang), [Yujie Dong](authors/yujie-dong), [Yajun Zhang](authors/yajun-zhang), [Zuoyi Zhang](authors/zuoyi-zhang)
  
 ## Abstract
 The port-Hamiltonian form (PHF) of nuclear reactor dynamics is first given with the corresponding Hamiltonian function determined by the shifted-ectropies of neutron kinetics and reactor thermal-hydraulics. Then, a passivity-based control (PBC) is proposed by adding extra damping injections to the PHF, and it is shown by theoretical analysis that satisfactory closed-loop stability can be guaranteed. The newly designed control law is applied to a nuclear heating reactor, and the simulation results not only verify the theoretical analysis but also show the satisfactory reactor power-level control performance.

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 An infinite dimensional formulation of IPHS is proposed for a general class of mass and heat diffusion processes. The structure of the system is derived from the expression of the internal entropy creation, and just as for the lumped case the IPHS structure is expressed as a function of the distributed thermodynamic driving forces and a positive definite function containing the thermodynamic parameters of the different diffusion processes. The distributed thermodynamic driving forces are expressed as the evaluation of the internal energy density and entropy density on a pseudo-Poisson bracket defined by the skew-adjoint differential operator defining the coupling between the different energy domains. This is analogous to the case of lumped IPHS, where the pseudo-Poisson bracket is defined not by differential operators but by constant (canonical) skew-symmetric matrices.

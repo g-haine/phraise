@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Meng Zhang](authors/meng_zhang), [Romeo Ortega](authors/romeo_ortega), [Dimitri Jeltsema](authors/dimitri_jeltsema), [Hongye Su](authors/hongye_su)
+[Meng Zhang](authors/meng-zhang), [Romeo Ortega](authors/romeo-ortega), [Dimitri Jeltsema](authors/dimitri-jeltsema), [Hongye Su](authors/hongye-su)
  
 ## Abstract
 The presence of dissipation hampers our ability to shape the energy of port-Hamiltonian systems using control-by-interconnection methods—a phenomenon called the dissipation obstacle. In particular, the Casimir functions that are used to shift the energy function cannot depend on the coordinates where dissipation is present if we use passive controllers. Recently, it was proposed to relax the latter condition using non-passive controllers that inject energy into the system to be able to create the required Casimir functions. In this note we prove that, alas, even if the Casimirs can be created with active controllers the dissipation obstacle stymies the possibility to assign an energy function with the minimum at an equilibrium point. As a corollary we prove that the deleterious effect of pervasive dissipation does not only stem from the inability of the controller to inject the (infinite) energy required for stabilization—as it was stated in earlier publications.

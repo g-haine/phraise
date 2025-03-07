@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ning Liu](authors/ning_liu), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Ning Liu](authors/ning-liu), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 In this paper, a constrained distributed parameter port-Hamiltonian model of the ionic polymer metal composite actuator is proposed. This model describes the multiscale structure of the system. Submodels are coupled by boundary multi-scale elements. In order to preserve the causality of the system, Lagrangian multipliers are introduced to deal with the coupling between the electro-stress diffusion in the polymer and the flexible beam structure of the actuator. Finally, a structure-preserving discretization scheme and some appropriate projections are used to derive an explicit model suitable for simulation. The accuracy of the model is verified using experimental data.

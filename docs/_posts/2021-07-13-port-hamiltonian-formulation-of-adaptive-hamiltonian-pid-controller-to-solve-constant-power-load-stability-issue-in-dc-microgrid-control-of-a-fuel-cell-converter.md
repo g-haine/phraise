@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Phatiphat Thounthong](authors/phatiphat_thounthong)
+[Phatiphat Thounthong](authors/phatiphat-thounthong)
  
 ## Abstract
 Speedy progresses in dc microgrid networks and hydrogen energy have expanded the applications of dc/dc boost power circuits in dc voltage stabilization. It is clear that the cascade interconnection of power electronic converters may introduce large oscillation or risk instability due to the fact that power electronic circuits performing as loads have a constant power load (CPL) actions. This article presents the dc link voltage regulation of a boost converter supplied by a fuel cell/reformer engine feeding a CPL. The construction of the feedback controller is based on the new Hamiltonian function in sense of a proportional, integral and derivative terms (PID). It is certified through the design that the desired fixed point is (locally) asymptotically stable. The technique is authenticated via digital simulations and experimental test bench of a 2.5 kW fuel cell/reformer system.

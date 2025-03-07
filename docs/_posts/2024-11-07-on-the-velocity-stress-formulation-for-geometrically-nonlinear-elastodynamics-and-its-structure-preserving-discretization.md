@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Tobias Thoma](authors/tobias_thoma), [Paul Kotyczka](authors/paul_kotyczka), [Herbert Egger](authors/herbert_egger)
+[Tobias Thoma](authors/tobias-thoma), [Paul Kotyczka](authors/paul-kotyczka), [Herbert Egger](authors/herbert-egger)
  
 ## Abstract
 We consider the dynamics of an elastic continuum under large deformation but small strain. Such systems can be described by the equations of geometrically nonlinear elastodynamics in combination with the St. Venant-Kirchhoff material law. The velocity-stress formulation of the problem turns out to have a formal port-Hamiltonian structure. In contrast to the linear case, the operators of the problem are modulated by the displacement field which can be handled as a passive variable and integrated along with the velocities. A weak formulation of the problem is derived and essential boundary conditions are incorporated via Lagrange multipliers. This variational formulation explicitly encodes the transfer between kinetic and potential energy in the interior as well as across the boundary, thus leading to a global power balance and ensuring passivity of the system. The particular geometric structure of the weak formulation can be preserved under Galerkin approximation via appropriate mixed finite elements. In addition, a fully discrete power balance can be obtained by appropriate time discretization. The main properties of the system and its discretization are shown theoretically and demonstrated by numerical tests.

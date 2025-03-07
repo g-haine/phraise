@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Ramy Rashad](authors/ramy_rashad), [Federico Califano](authors/federico_califano), [Frederic P. Schuller](authors/frederic_p_schuller), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Ramy Rashad](authors/ramy-rashad), [Federico Califano](authors/federico-califano), [Frederic P. Schuller](authors/frederic-p-schuller), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 Part I of this paper presented a systematic derivation of the Stokes–Dirac structure underlying the port-Hamiltonian model of ideal fluid flow on Riemannian manifolds. Starting from the group of diffeomorphisms as a configuration space for the fluid, the Stokes–Dirac structure is derived by Poisson reduction and then augmented by boundary ports and distributed ports. The additional boundary ports have been shown to appear naturally as surface terms in the pairings of dual maps, always neglected in standard Hamiltonian theory. The port-Hamiltonian model presented in Part I corresponded only to the kinetic energy of the fluid and how its energy variables evolve such that the energy is conserved. In Part II, we utilize the distributed port of the kinetic energy port-Hamiltonian system for representing a number of fluid-dynamical systems. By adding internal energy we model compressible flow, both adiabatic and isentropic, and by adding constraint forces we model incompressible flow. The key tools used are the interconnection maps relating the dynamics of fluid motion to the dynamics of advected quantities.

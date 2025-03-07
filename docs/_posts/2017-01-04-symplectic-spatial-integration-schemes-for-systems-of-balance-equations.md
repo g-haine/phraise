@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ngoc Minh Trang Vu](authors/ngoc_minh_trang_vu), [Laurent Lefèvre](authors/laurent_lefevre), [Rémy Nouailletas](authors/remy_nouailletas), [Sylvain Brémond](authors/sylvain_bremond)
+[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Laurent Lefèvre](authors/laurent-lefevre), [Rémy Nouailletas](authors/remy-nouailletas), [Sylvain Brémond](authors/sylvain-bremond)
  
 ## Abstract
 A method to generate geometric pseudo-spectral spatial discretization schemes for hyperbolic or parabolic partial differential equations is presented. It applies to the spatial discretization of systems of conservation laws with boundary energy flows and/or distributed source terms. The symplecticity of the proposed spatial discretization schemes is defined with respect to the natural power pairing (form) used to define the port-Hamiltonian formulation for the considered systems of balance equations. The method is applied to the resistive diffusion model, a parabolic equation describing the plasma dynamics in tokamaks. A symplectic Galerkin scheme with Bessel conjugated bases is derived from the usual Galerkin method, using the proposed method. Besides the spectral and energetic properties expected from the symplecticity of the method, it is shown that more accurate approximation of eigenfunctions and reduced numerical oscillations result from this choice of conjugated approximation bases. Finally, the obtained numerical results are validated against experimental data from the tokamak Tore Supra facility.

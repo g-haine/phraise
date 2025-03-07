@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Youyuan Chen](authors/youyuan_chen), [Haisheng Yu](authors/haisheng_yu), [Xiangxiang Meng](authors/xiangxiang_meng), [Hao Ding](authors/hao_ding), [Xunkai Gao](authors/xunkai_gao)
+[Youyuan Chen](authors/youyuan-chen), [Haisheng Yu](authors/haisheng-yu), [Xiangxiang Meng](authors/xiangxiang-meng), [Hao Ding](authors/hao-ding), [Xunkai Gao](authors/xunkai-gao)
  
 ## Abstract
 In this paper, a novel cooperative controller combining Linear Quadratic optimal control based on feedback linearization (LQ-FL) and state error port-Hamiltonian (EPH) with integral term is proposed for permanent magnet synchronous motor. Firstly, the LQ-FL is presented to ensure rapid dynamic performance, and the EPH method makes up for the shortcomings of the system in steady-state performance. The integral term is utilized to eliminate the position tracking steady-state error. Secondly, the Gaussian function is utilized to coordinate the two controllers and make them play their respective superiorities. Then, a nonlinear disturbance observer is used to resolve the total disturbance caused by parameter changes, modeling errors and external disturbance. Finally, the effectiveness and robustness of the proposed controller are verified by simulation and experiments.

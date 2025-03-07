@@ -18,7 +18,7 @@ tags:
 ---
  
 ## Authors
-[Dereje Tamiru Tefera](authors/dereje_tamiru_tefera), [Stevan Dubljevic](authors/stevan_dubljevic), [Vinay Prasad](authors/vinay_prasad)
+[Dereje Tamiru Tefera](authors/dereje-tamiru-tefera), [Stevan Dubljevic](authors/stevan-dubljevic), [Vinay Prasad](authors/vinay-prasad)
  
 ## Abstract
 This work focuses on the investigation of the applicability of port Hamiltonian systems (PHS) approach to model chemical process plant systems and the generalization of the PHS originally proposed for reversible thermodynamic systems to irreversible thermodynamic system characterized by coupled physicochemical phenomenon and significant irreversible entropy generation. To this end, the first part of this work presents a definition and analysis of the proposed generalized class of conservative pseudo port Hamiltonian system for general open multi-input multi-output (MIMO) irreversible thermodynamic system. In the second part of the work, the generalized PHS approach is applied to multiphase process systems with coupled irreversible entropy generation. The proposed modeling framework is extended to model chemical process systems network with recycle, which is prevalent in chemical process plants.

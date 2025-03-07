@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Hannes Gernandt](authors/hannes_gernandt), [Frédéric Enrico Haller](authors/frederic_enrico_haller), [Timo Reis](authors/timo_reis)
+[Hannes Gernandt](authors/hannes-gernandt), [Frédéric Enrico Haller](authors/frederic-enrico-haller), [Timo Reis](authors/timo-reis)
  
 ## Abstract
 We consider linear port-Hamiltonian differential-algebraic equations (pH-DAEs). Inspired by the geometric approach of Maschke and van der Schaft and the linear algebraic approach of Mehl, Mehrmann and Wojtylak, we present another view by using the theory of linear relations. We show that this allows to elaborate the differences and mutualities of the geometric and linear algebraic views, and we introduce a class of DAEs which comprises these two approaches. We further study the properties of matrix pencils arising from our approach via linear relations.

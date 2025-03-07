@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Michael Günther](authors/michael_gunther), [Andreas Bartel](authors/andreas_bartel), [Birgit Jacob](authors/birgit_jacob), [Timo Reis](authors/timo_reis)
+[Michael Günther](authors/michael-gunther), [Andreas Bartel](authors/andreas-bartel), [Birgit Jacob](authors/birgit-jacob), [Timo Reis](authors/timo-reis)
  
 ## Abstract
 Electric circuits are usually described by charge/flux‐oriented modified nodal analysis. Here, we derive models as port‐Hamiltonian systems on several levels: overall systems, multiply coupled systems, and systems within dynamic iteration procedures. To this end, we introduce new classes of port‐Hamiltonian differential‐algebraic equations. Thereby, we additionally allow for nonlinear dissipation on a subspace of the state space. Both, each subsystem and the overall system possess a port‐Hamiltonian structure. A structural analysis is performed for the new setups. Dynamic iteration schemes are investigated, and we show that the Jacobi approach as well as an adapted Gauss‐Seidel approach lead to port‐Hamiltonian differential‐algebraic equations.

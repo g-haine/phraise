@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Johan Koopman](authors/johan_koopman), [Dimitri Jeltsema](authors/dimitri_jeltsema), [Michel Verhaegen](authors/michel_verhaegen)
+[Johan Koopman](authors/johan-koopman), [Dimitri Jeltsema](authors/dimitri-jeltsema), [Michel Verhaegen](authors/michel-verhaegen)
  
 ## Abstract
 A port-Hamiltonian formulation of the LuGre friction model is presented that can be used as a building block in the physical modelling of systems with friction. Based on the dissipation structure matrix of this port-Hamiltonian LuGre model, an alternative proof can be given for the passivity conditions that are known in the literature. As a specific example, the interconnection of a mass with the port-Hamiltonian LuGre model is presented. It is shown that the lossless-interconnection structure and dissipation structure of the port-Hamiltonian LuGre model are consistent with those of this interconnection. As an additional example, the port-Hamiltonian formulation of a quarter-car system with a LuGre-based tyre model is presented.

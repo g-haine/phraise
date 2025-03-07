@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Markus Lohmayer](authors/markus_lohmayer), [Paul Kotyczka](authors/paul_kotyczka), [Sigrid Leyendecker](authors/sigrid_leyendecker)
+[Markus Lohmayer](authors/markus-lohmayer), [Paul Kotyczka](authors/paul-kotyczka), [Sigrid Leyendecker](authors/sigrid-leyendecker)
  
 ## Abstract
  Port-Hamiltonian systems theory provides a structured approach to modelling, optimization and control of multiphysical systems. Yet, its relationship to thermodynamics seems to be unclear. The Hamiltonian is traditionally thought of as energy, although its meaning is exergy. This insight yields benefits: 1. Links to the GENERIC structure are identified, making it relatively easy to borrow ideas from a popular nonequilibrium thermodynamics framework. 2. The port-Hamiltonian structure combined with a bond-graph syntax is expected to become a main ingredient in thermodynamic optimization methods akin to exergy analysis and beyond. The intuitive nature of exergy and diagrammatic language facilitates interdisciplinary communication that is necessary for implementing sustainable energy systems and processes. Port-Hamiltonian systems are cyclo-passive, meaning that a power-balance equation immediately follows from their definition. For exergetic port-Hamiltonian systems, cyclo-passivity is synonymous with degradation of energy and follows from the first and the second law of thermodynamics being encoded as structural properties.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Liangcheng Cai](authors/liangcheng_cai), [Yong He](authors/yong_he)
+[Liangcheng Cai](authors/liangcheng-cai), [Yong He](authors/yong-he)
  
 ## Abstract
 The traditional energy-shaped method of Port-Hamiltonian system that is based on solving partial differential equations influences the accuracy and realizability of controller. To overcome those defects, a new energy-shaped method based on the cyclo-passivity is proposed to avoid solving partial differential equations. Due to the proposed method, the exponential stability of Port-Hamiltonian has been worked out. Besides that, a relationship between the guaranteed cost control and dissipation is established for the Port-Hamiltonian system, which presents an explicit form of dissipative energy. At last, examples show the validity of the proposed contents.

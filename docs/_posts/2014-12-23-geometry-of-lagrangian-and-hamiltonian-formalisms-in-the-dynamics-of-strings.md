@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Janusz Grabowski](authors/janusz_grabowski), [Katarzyna Grabowska](authors/katarzyna_grabowska), [Paweł Urbański](authors/paweł_urbanski)
+[Janusz Grabowski](authors/janusz-grabowski), [Katarzyna Grabowska](authors/katarzyna-grabowska), [Paweł Urbański](authors/paweł-urbanski)
  
 ## Abstract
 The Lagrangian description of mechanical systems and the Legendre Transformation (considered as a passage from the Lagrangian to the Hamiltonian formulation of the dynamics) for point-like objects, for which the infinitesimal configuration space is \\( T M \\), is based on the existence of canonical symplectic isomorphisms of double vector bundles \\( T^* TM \\), \\( T^*T^* M \\), and \\( TT^* M \\), where the symplectic structure on \\( TT^* M \\) is the tangent lift of the canonical symplectic structure \\( T^* M \\). We show that there exists an analogous picture in the dynamics of objects for which the configuration space is \\( \wedge^n T M \\), if we make use of certain structures of graded bundles of degree \\( n \\), i.e. objects generalizing vector bundles (for which \\( n=1 \\)). For instance, the role of \\( TT^*M \\) is played in our approach by the manifold \\( \wedge^nT M\wedge^nT^*M \\), which is canonically a graded bundle of degree \\( n \\) over \\( \wedge^nT M \\). Dynamics of strings and the Plateau problem in statics are particular cases of this framework.

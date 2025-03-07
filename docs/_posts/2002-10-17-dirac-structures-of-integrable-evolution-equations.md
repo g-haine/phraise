@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Irene Ya. Dorfman](authors/irene_ya_dorfman)
+[Irene Ya. Dorfman](authors/irene-ya-dorfman)
  
 ## Abstract
 An algebraic theory of Dirac structures is presented, enclosing finite-dimensional pre-symplectic and Poisson structures, as well as their infinite-dimensional analogs determined by local operators. The generalized Lenard scheme of integrability is considered together with examples of its action.

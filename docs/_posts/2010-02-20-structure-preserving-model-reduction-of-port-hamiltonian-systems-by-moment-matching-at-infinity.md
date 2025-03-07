@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Rostyslav V. Polyuga](authors/rostyslav_v_polyuga), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Rostyslav V. Polyuga](authors/rostyslav-v-polyuga), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 Model reduction of port-Hamiltonian systems by means of the Krylov methods is considered, aiming at port-Hamiltonian structure preservation. It is shown how to employ the Arnoldi method for model reduction in a particular coordinate system in order to preserve not only a specific number of the Markov parameters but also the port-Hamiltonian structure for the reduced order model. Furthermore it is shown how the Lanczos method can be applied in a structure preserving manner to a subclass of port-Hamiltonian systems which is characterized by an algebraic condition. In fact, for the same subclass of port-Hamiltonian systems the Arnoldi method and the Lanczos method turn out to be equivalent in the sense of producing reduced order port-Hamiltonian models with the same transfer function.

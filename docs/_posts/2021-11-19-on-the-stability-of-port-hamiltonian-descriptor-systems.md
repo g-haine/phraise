@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Hannes Gernandt](authors/hannes_gernandt), [Frédéric E. Haller](authors/frederic_enrico_haller)
+[Hannes Gernandt](authors/hannes-gernandt), [Frédéric E. Haller](authors/frederic-enrico-haller)
  
 ## Abstract
 We characterize stable differential-algebraic equations (DAEs) using a generalized Lyapunov inequality. The solution of this inequality is then used to rewrite stable DAEs as dissipative Hamiltonian (dH) DAEs on the subspace where the solutions evolve. Conversely, we give sufficient conditions guaranteeing stability of dH DAEs. Further, for stabilizable descriptor systems we construct solutions of generalized algebraic Bernoulli equations which can then be used to rewrite these systems as pH descriptor systems. Furthermore, we show how to describe the stable and stabilizable systems using Dirac and Lagrange structures.

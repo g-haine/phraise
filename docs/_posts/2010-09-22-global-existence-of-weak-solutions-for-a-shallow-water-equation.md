@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Zheng Yin](authors/zheng_yin), [Shaoyong Lai](authors/shaoyong_lai), [Yunxi Guo](authors/yunxi_guo)
+[Zheng Yin](authors/zheng-yin), [Shaoyong Lai](authors/shaoyong-lai), [Yunxi Guo](authors/yunxi-guo)
  
 ## Abstract
 A nonlinear shallow water equation, which includes the famous Camassa–Holm (CH) and Degasperis–Procesi (DP) equations as special cases, is investigated. Provided that initial value u 0 ∈ H s ( 1 ≤ s ≤ 3 2 ) , u 0 ∈ L 1 ( R ) and ( 1 − ∂ x 2 ) u 0 does not change sign, it is shown that there exists a unique global weak solution to the equation.

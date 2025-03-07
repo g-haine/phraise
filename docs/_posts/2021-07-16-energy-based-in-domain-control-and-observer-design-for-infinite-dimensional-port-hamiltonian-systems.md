@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Malzer](authors/tobias_malzer), [Jesús Toledo](authors/jesus_pablo_toledo_zucco), [Yann Le Gorrec](authors/yann_le_gorrec), [Markus Schöberl](authors/markus_schoberl)
+[Tobias Malzer](authors/tobias-malzer), [Jesús Toledo](authors/jesus-pablo-toledo-zucco), [Yann Le Gorrec](authors/yann-le-gorrec), [Markus Schöberl](authors/markus-schoberl)
  
 ## Abstract
 In this paper, we consider infinite-dimensional port-Hamiltonian systems with in-domain actuation by means of an approach based on Stokes-Dirac structures as well as in a framework that exploits an underlying jet-bundle structure. In both frameworks, a dynamic controller based on the energy-Casimir method is derived in order to stabilise certain equilibrias. Moreover, we propose distributed-parameter observers deduced by exploiting damping injection for the observer error. Finally, we compare the approaches by means of an in-domain actuated vibrating string and show the equivalence of the control schemes derived in both frameworks.

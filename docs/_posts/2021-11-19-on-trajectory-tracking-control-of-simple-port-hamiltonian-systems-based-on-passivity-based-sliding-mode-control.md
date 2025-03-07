@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[N. Sakata](authors/naoki_sakata), [K. Fujimoto](authors/kenji_fujimoto), [I. Maruta](authors/ichiro_maruta)
+[N. Sakata](authors/naoki-sakata), [K. Fujimoto](authors/kenji-fujimoto), [I. Maruta](authors/ichiro-maruta)
  
 ## Abstract
 In this work, the passivity-based sliding mode control technique is applied to trajectory tracking control problems. This method unifies two methods, sliding mode control and passivity-based control, and has the advantages of both control methods. This paper proposes a pair of a pre-coordinate transformation and a state feedback so that we obtain a desired error port-Hamiltonian system that describes the dynamics of the tracking error. This approach enables us to obtain appropriate design parameters satisfying a kind of matching condition to realize sliding mode control with a Lyapunov function. The effectiveness of the proposed method is demonstrated by a numerical simulation.

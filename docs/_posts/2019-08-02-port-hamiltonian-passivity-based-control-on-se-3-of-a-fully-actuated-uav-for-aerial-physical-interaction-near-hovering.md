@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Ramy Rashad](authors/ramy_rashad), [Federico Califano](authors/federico_califano), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Ramy Rashad](authors/ramy-rashad), [Federico Califano](authors/federico-califano), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 In this work, we approach the control problem of fully-actuated UAVs in a geometric port-Hamiltonian framework. The UAV is modeled as a floating rigid body on the special Euclidean group SE(3). A unified near-hovering motion and impedance controller is derived by the energy-balancing passivity-based control technique. A detailed analysis of the closed-loop system's behavior is presented for both the free-flight stability and contact stability of the UAV. The robustness of the control system to uncertainties is validated by several experiments, in which the UAV is controlled near its actuator limits. The experiments show the ability of the UAV to hover at its maximum allowed roll angle and apply its maximum allowed normal force to a surface, without the input saturation destabilizing the system.

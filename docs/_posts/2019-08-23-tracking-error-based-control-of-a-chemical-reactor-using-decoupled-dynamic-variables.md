@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Thanh Sang Nguyen](authors/thanh_sang_nguyen), [Chee Keong Tan](authors/chee_keong_tan), [Ngoc Ha Hoang](authors/ngoc_ha_hoang), [Mohd Azlan Hussain](authors/mohd_azlan_hussain)
+[Thanh Sang Nguyen](authors/thanh-sang-nguyen), [Chee Keong Tan](authors/chee-keong-tan), [Ngoc Ha Hoang](authors/ngoc-ha-hoang), [Mohd Azlan Hussain](authors/mohd-azlan-hussain)
  
 ## Abstract
 This work proposes an advanced control strategy for an open non-isothermal homogeneous reactor by integrating alternative model of the system dynamics based on variant and invariant states with the tracking-error-based control method in the framework of port-Hamiltonian representation. More precisely, a linear transformation is used to transform the original dynamics into a new model, where the enthalpy, reaction variant and reaction invariant are the state variables. Then, the transformed model is formulated into the port-Hamiltonian structure before the tracking-error-based approach is applied to design the controllers for the purpose of stabilization. The numerical simulations for the first order reaction modelled with the continuous stirred tank reactor having the multiplicity behavior subsequently show that the proposed feedback law is able to stabilize the system at the desirable equilibrium point.

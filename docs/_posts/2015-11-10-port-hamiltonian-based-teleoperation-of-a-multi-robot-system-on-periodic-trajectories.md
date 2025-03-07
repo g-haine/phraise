@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[C. Secchi](authors/cristian_secchi), [L. Sabattini](authors/l_sabattini), [C. Fantuzzi](authors/cesare_fantuzzi)
+[C. Secchi](authors/cristian-secchi), [L. Sabattini](authors/l-sabattini), [C. Fantuzzi](authors/cesare-fantuzzi)
  
 ## Abstract
 In this paper, we exploit port-Hamiltonian systems for building a novel teleoperation architecture for a group of mobile agents that need to track a set of prede_ned trajectories. Using port-Hamiltonian system we can guarantee an intrinsically safe and passive bilateral teleoperation system while using linear regulation system we can ensure an asymptotic tracking. The performance of the teleoperation system are evaluated by means of experiments.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Enrico Franco](authors/enrico_franco), [Mutaz Ryalat](authors/mutaz_ryalat)
+[Enrico Franco](authors/enrico-franco), [Mutaz Ryalat](authors/mutaz-ryalat)
  
 ## Abstract
 This work investigates the passivity‐based control of a class of underactuated mechanical systems subject to constant matched and unmatched disturbances, for which the momenta are not measured. The main contribution is a new design of the integral interconnection‐and‐damping assignment passivity‐based control that only relies on position feedback. Numerical simulations on a disk‐on‐disk system, on an Acrobot system, and on a rigid‐link model representative of a soft continuum manipulator demonstrate the effectiveness of the new controller.

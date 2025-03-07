@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Héctor Ramírez](authors/hector_ramirez), [Juan I. Yuz](authors/juan_i_yuz), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Luis A. Mora](authors/luis-a-mora), [Héctor Ramírez](authors/hector-ramirez), [Juan I. Yuz](authors/juan-i-yuz), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 The behavior of a fluid in pipes with irregular geometries is studied. Departing from the partial differential equations that describe mass and momentum balances a scalable lumped-parameter model is proposed. To this end the framework of port-Hamiltonian systems is instrumental to derive a modular system which upon interconnection describes segments with different cross sections and dissipation effects. In order to perform the interconnection between different segments the incompressibility hypothesis is relaxed in some infinitesimal section to admit density variations and energy transference between segments. Numerical simulations are performed in order to illustrate the model.

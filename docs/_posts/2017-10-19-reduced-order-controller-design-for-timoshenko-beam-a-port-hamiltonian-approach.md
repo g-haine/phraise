@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin_wu), [Boussad Hamroun](authors/boussad_hamroun), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke)
+[Yongxin Wu](authors/yongxin-wu), [Boussad Hamroun](authors/boussad-hamroun), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 This paper deals with the structure and passivity preserving model reduction and the reduced order controller design for a class of distributed controlled port Hamiltonian systems - Timoshenko beam. The boundary conditions of the beam lead to physical constraints which are hardly considered in the reduction procedure. In this work we propose to use the descriptor system realization of port Hamiltonian system to conserve the physical constraints. A passive LQG control design method is proposed for this type of system. This LQG method defines a balanced coordinate which allows us to reduce the system. Using the obtained reduced model, a reduced order passive controller which stabilizes the full order system is designed using the LQG method. At last we give the numerical simulations to show the effectiveness of the proposed reduced passive controller.

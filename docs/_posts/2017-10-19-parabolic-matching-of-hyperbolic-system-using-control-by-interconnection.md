@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[N.M. Trang Vu](authors/ngoc_minh_trang_vu), [V. Trenchant](authors/vincent_trenchant), [H. Ramirez](authors/hector_ramirez), [L. Lefèvre](authors/laurent_lefevre), [Y. Le Gorrec](authors/yann_le_gorrec)
+[N.M. Trang Vu](authors/ngoc-minh-trang-vu), [V. Trenchant](authors/vincent-trenchant), [H. Ramirez](authors/hector-ramirez), [L. Lefèvre](authors/laurent-lefevre), [Y. Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 The structural difference between one-dimensional (1D) hyperbolic and parabolic port Hamiltonian system (PHS) is discussed. Then, using a Control by Interconnection (CbI) approach, a distributed state feedback is designed in order to transform an hyperbolic PHS into a parabolic one, the latter being asymptotically stable and even purely dissipative (with no oscillating modes). Distributed wave damping in 1D vibro-acoustic pipes, using piezo actuators, is considered as an illustration example for the proposed control design.

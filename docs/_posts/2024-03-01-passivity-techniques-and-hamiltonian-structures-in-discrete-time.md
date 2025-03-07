@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Dorothée Normand-Cyrot](authors/dorothee_normand_cyrot), [Salvatore Monaco](authors/salvatore_monaco), [Mattia Mattioni](authors/mattia_mattioni), [Alessio Moreschini](authors/alessio_moreschini)
+[Dorothée Normand-Cyrot](authors/dorothee-normand-cyrot), [Salvatore Monaco](authors/salvatore-monaco), [Mattia Mattioni](authors/mattia-mattioni), [Alessio Moreschini](authors/alessio-moreschini)
  
 ## Abstract
 The object of this paper is to show the impact of representing discrete-time dynamics as two coupled difference/differential equations in establishing passivity properties and describing port-Hamiltonian structures as well as the related energy-based control strategies.

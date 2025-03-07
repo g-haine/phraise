@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Abolfazl Yaghmaei](authors/abolfazl_yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad_javad_yazdanpanah)
+[Abolfazl Yaghmaei](authors/abolfazl-yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad-javad-yazdanpanah)
  
 ## Citation
 - **Journal:** Automatica

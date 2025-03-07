@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Laurent Lefevre](authors/laurent_lefevre), [Silviu Medianu](authors/silviu_medianu)
+[Laurent Lefevre](authors/laurent-lefevre), [Silviu Medianu](authors/silviu-medianu)
  
 ## Abstract
 In this paper, a time-discretization framework is proposed for Port Controlled Hamiltonian (PCH) systems using combined discretization rules for the flows and efforts, which preserves the continuous-time structure. As examples for this formulation, three symplectic time-discretization schemes are presented, using classic discretization rules (implicit/explicit Euler, implicit mid-point and implicit trapezoidal), for the flows and efforts. As continuous-time model for exemplification using this framework, a linear capacitor microphone circuit is selected.

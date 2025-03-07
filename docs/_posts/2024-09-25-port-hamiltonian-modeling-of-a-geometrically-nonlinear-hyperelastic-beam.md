@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal_ponce), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
+[Cristobal Ponce](authors/cristobal-ponce), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
  
 ## Abstract
 This paper is concerned with the port-Hamiltonian modeling of a Timoshenko beam subject geometric nonlinearities through von Kármán strains, material nonlinearity considering hyperelasticity with the assumption of neo-Hookean or Mooney-Rivlin material, in addition to the incompressible deformation constraint that corresponds to the preservation of volume. The model is suitable for representing the behavior of rubber like beams within the range of moderate deformations and rotations. Numerical simulations are carried out to illustrate the accuracy of the proposed model.

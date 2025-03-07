@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Stefano Massaroli](authors/stefano_massaroli), [Federico Califano](authors/federico_califano), [Angela Faragasso](authors/angela_faragasso), [Atsushi Yamashita](authors/atsushi_yamashita), [Hajime Asama](authors/hajime_asama)
+[Stefano Massaroli](authors/stefano-massaroli), [Federico Califano](authors/federico-califano), [Angela Faragasso](authors/angela-faragasso), [Atsushi Yamashita](authors/atsushi-yamashita), [Hajime Asama](authors/hajime-asama)
  
 ## Abstract
 This paper presents a novel control strategy for stable linear time–invariant systems operating with a finite number of set points. Inspired by the theory of passivity-based control, the proposed method aims at simultaneously and asymptotically stabilize all the desired working modes by means of a static nonlinear state feedback law. An asynchronous external signal is then employed to trigger a hybrid controller in order to switch between the different working modes. The proposed approach is validated by means of simulations performed on the ubiquitous mass-spring-damper system.

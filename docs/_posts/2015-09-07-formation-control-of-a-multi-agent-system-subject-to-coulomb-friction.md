@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Matin Jafarian](authors/matin_jafarian), [Ewoud Vos](authors/ewoud_vos), [Claudio De Persis](authors/claudio_de_persis), [Arjan J. van der Schaft](authors/arjan_van_der_schaft), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Matin Jafarian](authors/matin-jafarian), [Ewoud Vos](authors/ewoud-vos), [Claudio De Persis](authors/claudio-de-persis), [Arjan J. van der Schaft](authors/arjan-van-der-schaft), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 This paper considers the formation control problem for a network of point masses which are subject to Coulomb friction. A dynamical model including the planar discontinuous friction force is presented in the port-Hamiltonian framework. Moreover, continuous and discontinuous controllers are designed in order to achieve a desired prescribed formation. The main results are derived using tools from nonsmooth Lyapunov analysis. It is shown that the continuous static feedback controller fails to achieve the exact formation, while the discontinuous controller achieves the desired task exactly. Numerical simulations are provided to illustrate the effectiveness of the approach.

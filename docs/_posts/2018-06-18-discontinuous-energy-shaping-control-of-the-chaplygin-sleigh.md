@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel_ferguson), [Alejandro Donaire](authors/alejandro_donaire), [Richard H. Middleton](authors/richard_h_middleton)
+[Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire), [Richard H. Middleton](authors/richard-h-middleton)
  
 ## Abstract
 In this paper we present an energy shaping control law for set-point regulation of the Chaplygin sleigh. It is well known that nonholonomic mechanical systems cannot be asymptotically stabilised using smooth control laws as they do no satisfy Brockett’s necessary condition for smooth stabilisation. Here, we propose a discontinuous control law that can be interpreted as a potential energy shaping and damping injection controller. The proposed controller is shown to be robust against the parameters of both the inertia matrix and the damping structure of the open-loop system.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Rodolfo Reyes-Báez](authors/rodolfo_reyes_baez), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Bayu Jayawardhana](authors/bayu_jayawardhana)
+[Rodolfo Reyes-Báez](authors/rodolfo-reyes-baez), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bayu Jayawardhana](authors/bayu-jayawardhana)
  
 ## Abstract
 Based on recent advances in contraction methods in systems and control, in this paper we present the virtual differential passivity based control (v-dPBC) technique. This is a constructive design method that combines the concept of virtual systems and of differential passivity. We apply the method to the tracking control problem of flexible joints robots (FJRs) which are formulated in the port-Hamiltonian (pH) framework. Simulations on a two degrees of freedom FJR are presented to show the performance of a controller obtained with this approach.

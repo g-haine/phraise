@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Thomas Risse](authors/thomas_risse), [Thomas Hélie](authors/thomas_helie), [Fabrice Silva](authors/fabrice_silva), [Antoine Falaize](authors/antoine_falaize)
+[Thomas Risse](authors/thomas-risse), [Thomas Hélie](authors/thomas-helie), [Fabrice Silva](authors/fabrice-silva), [Antoine Falaize](authors/antoine-falaize)
  
 ## Abstract
 Voice production results from the interaction between expelled airflow and soft tissues in the larynx and the vocal tract. Among the large literature on this topic over the last fifty years, a few nonlinear fluid-structure interaction models have been proposed in the port-Hamiltonian framework for passivity purposes. In this paper, we examine, compare and discuss two lumped-element port-Hamiltonian models from the literature, both derived from distributed parameter descriptions and simplifying assumptions chosen to integrate the minimal relevant phenomena involved in the larynx (for self-oscillations) or the vocal tract (during articulation). These models are recalled and reformulated using common terminology and notations. This leads to equivalent circuit representations, the components and the structure of which allow direct comparison (about causality, dimension, nonlinear laws, coupling) and physical interpretation. These results highlight important properties to consider and provide guidelines for future modelling improvement to be used in simulation.

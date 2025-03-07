@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka)
+[Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 Flatness of given outputs for quasilinear 1D hyperbolic systems is conserved under an appropriate port-Hamiltonian spatial discretization. Combining the spatial with a structure-preserving temporal scheme leads to a fully discretized control model of the infinite-dimensional system, which can be exploited for discrete-time trajectory planning. We show that with a suitable approximation of the continuous nonlinear equations, a stable explicit numerical scheme is obtained for flatness-based feedforward control of quasilinear hyperbolic systems. As an example, we consider the 1D shallow water equations and the inverse flow routing problem, i. e. the computation of the upstream discharge trajectory from a given downstream hydrograph. We compare our approach with known results based on the method of characteristics.

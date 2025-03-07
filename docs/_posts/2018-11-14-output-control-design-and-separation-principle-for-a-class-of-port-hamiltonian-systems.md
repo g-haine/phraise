@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Abolfazl Yaghmaei](authors/abolfazl_yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad_javad_yazdanpanah)
+[Abolfazl Yaghmaei](authors/abolfazl-yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad-javad-yazdanpanah)
  
 ## Abstract
 Using a structure preserving observer, a dynamic output controller is proposed for a class of port‐Hamiltonian systems. The core of this method is based on the notion of contractive port‐Hamiltonian systems. The proposed method utilizes an extended form of IDA‐PBC (interconnection and damping assignment passivity‐based control), a well‐known controller design method for port‐Hamiltonian systems and paves the way for using IDA‐PBC in output control design of challenging control objectives, such as output tracking for underactuated mechanical systems. In the line of output control design, a useful separation principle for a class of port‐Hamiltonian systems is achieved, which is valuable in the field of nonlinear systems. Some simulations on magnetic levitation and ball on wheel testbeds show the potency and applicability of the proposed method.

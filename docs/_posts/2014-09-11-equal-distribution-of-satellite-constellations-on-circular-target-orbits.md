@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Ewoud Vos](authors/ewoud_vos), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
+[Ewoud Vos](authors/ewoud-vos), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 This paper addresses the problem of equal distribution of satellite constellations on circular target orbits. The control goal is to make the constellation converge to a circular target orbit, while spatially distributing the satellites at equal inter-satellite distances. The solution is defined in the port-Hamiltonian framework, which gives a clear physical interpretation of the obtained control laws, insight into the energy consumption and complete stability proofs. The controller consists of two parts: the internal control system steers each individual satellite to the target orbit, the external control system equally distributes the satellite constellation. Numerical simulation results are given to illustrate the effectiveness of the approach.

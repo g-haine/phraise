@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Boussad Hamroun](authors/boussad_hamroun), [Alexandru Dimofte](authors/alexandru_dimofte), [Laurent Lefèvre](authors/laurent_lefevre), [Eduardo Mendes](authors/eduardo_mendes)
+[Boussad Hamroun](authors/boussad-hamroun), [Alexandru Dimofte](authors/alexandru-dimofte), [Laurent Lefèvre](authors/laurent-lefevre), [Eduardo Mendes](authors/eduardo-mendes)
  
 ## Abstract
 In this article a control algorithm for the reduced port-Controlled Hamiltonian model (PCH) of the shallow water equations partial differential equations (PDEs) is developed. This control is developed using the Interconnection and Damping Assignment Passivity Based Control (IDAPBC) method on the reduced PCH model without the natural dissipation. It allows to assign desired structure and energy function to the closed-loop system. The same control law is then derived using an energy-shaping method based on Casimir's invariants, associated with a particular conservative interconnection between the boundary variables. This gives a physical interpretation for the designed controller. Finally, a stability analysis of the dissipative system in closed loop with the designed control is done using LaSalle's invariance principle. Simulation results and an experimental validation of the control algorithm on an a micro-canal platform are presented showing the effectiveness of the control law.

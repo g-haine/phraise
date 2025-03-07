@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel_ferguson), [Alejandro Donaire](authors/alejandro_donaire), [Romeo Ortega](authors/romeo_ortega), [Richard H. Middleton](authors/richard_h_middleton)
+[Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire), [Romeo Ortega](authors/romeo-ortega), [Richard H. Middleton](authors/richard-h-middleton)
  
 ## Abstract
 Interconnection and damping assignment, passivity-based control (IDA-PBC) has proven to be a successful control technique for the stabilisation of many nonlinear systems. In this paper, we propose a method to robustify a system which has been stabilised using IDA-PBC with respect to constant, matched disturbances via the addition of integral action. The proposed controller extends previous work on the topic by being robust against uncertainty in the damping structure of the system, a quantity which may not be known in many applications.

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Vincent Trenchant](authors/vincent_trenchant), [Yassine Fares](authors/yassine_fares), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Vincent Trenchant](authors/vincent-trenchant), [Yassine Fares](authors/yassine-fares), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper deals with the port Hamiltonian formulation of a 2D boundary controlled acoustic system. The system under consideration consits of an acoustic wave traveling in a tube equipped with a network of microphones/loudspeakers. The purpose of this smart skin is to damp the acoustic wave and reduce its effect at the output of the tube. It is first commented how the original 3D system can be reduced to a 2D system by considering symmetries. Then, the boundary port variables associated with the wave equation are parametrized in order to define a Dirac structure in two dimensions, compatible with the interconnection at the boundaries with the actuation system. The overall system (wave+actuators/sensors) is finally expressed as a port Hamiltonian control system and a first stabilizing distributed control law is proposed.

@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka), [Tobias Thoma](authors/tobias_thoma)
+[Paul Kotyczka](authors/paul-kotyczka), [Tobias Thoma](authors/tobias-thoma)
  
 ## Abstract
 Mixed finite element (FE) approaches have proven very useful for the structure-preserving discretization of port-Hamiltonian (PH) distributed parameter systems, but non-uniform boundary conditions (BCs) were treated in an implicit manner up to now. We apply our recent approach from structure mechanics, which relies on the weak imposition of both Neumann and Dirichlet BCs based on a suitable variational principle, to the class of PH systems of two conservation laws. We illustrate (a) starting with the integral conservation laws the transition to an exterior calculus representation suitable for FE approximation according to Farle et al. (2013). Based thereon, we show (b) the variational formulation with weakly imposed BCs of both types. We discuss (c) on a simple example on a quadrilateral mesh the structure and the variables of the resulting FE models compared to the equations derived from a direct discrete approach on dual cell complexes. We (d) provide the corresponding FEniCS code for download.

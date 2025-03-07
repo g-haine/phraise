@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Nishant Kumar](authors/nishant_kumar), [J J W van der Vegt](authors/jaap_j_w_van_der_vegt), [H J Zwart](authors/hans_zwart)
+[Nishant Kumar](authors/nishant-kumar), [J J W van der Vegt](authors/jaap-j-w-van-der-vegt), [H J Zwart](authors/hans-zwart)
  
 ## Abstract
 A port-Hamiltonian (pH) system formulation is a geometrical notion used to formulate conservation laws for various physical systems. The distributed parameter port-Hamiltonian formulation models infinite dimensional Hamiltonian dynamical systems that have a nonzero energy flow through the boundaries. In this paper, we propose a novel framework for discontinuous Galerkin (DG) discretizations of pH-systems. Linking DG methods with pH-systems gives rise to compatible structure preserving semidiscrete finite element discretizations along with flexibility in terms of geometry and function spaces of the variables involved. Moreover, the port-Hamiltonian formulation makes boundary ports explicit, which makes the choice of structure and power preserving numerical fluxes easier. We state the Discontinuous Finite Element Stokes–Dirac structure with a power preserving coupling between elements, which provides the mathematical framework for a large class of pH discontinuous Galerkin discretizations. We also provide an a priori error analysis for the port-Hamiltonian discontinuous Galerkin Finite Element Method (pH-DGFEM). The port-Hamiltonian discontinuous Galerkin finite element method is demonstrated for the scalar wave equation showing optimal rates of convergence.

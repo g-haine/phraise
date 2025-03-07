@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Luca Gentili](authors/luca_gentili), [Luca Bassi](authors/luca_bassi), [Alessandro Macchelli](authors/alessandro_macchelli), [Claudio Melchiorri](authors/claudio_melchiorri), [Roberto Borsari](authors/roberto_borsari)
+[Luca Gentili](authors/luca-gentili), [Luca Bassi](authors/luca-bassi), [Alessandro Macchelli](authors/alessandro-macchelli), [Claudio Melchiorri](authors/claudio-melchiorri), [Roberto Borsari](authors/roberto-borsari)
  
 ## Abstract
 This paper illustrates a novel model reduction procedure for port-Hamiltonian systems able to preserve the frequency behavior of the original system in a neighborhood of a predefined set of frequencies of interest. This research is part of a wider activity carried out in collaboration with Tetra Pak concerning the modelling and simulation of the Ultrasonic Sealing System (USTS). Due to the presence of a Compact Transducer (CT) that can be modelled only by means of commercial finite element CAE software, which provide extremely high-order dynamical systems, it is not possible to perform a simulation of the complete system to test the validity of the controller and perform the diagnosis of the sealing process in detail. The proposed procedure drastically reduces the simulation time without loosing the essential dynamical information. The model reduction algorithm is validated, at first, by means of a simple benchmark (a beam with a pair of piezo-electric actuators on both sides) and then applied to one piezo-electric actuator of the CT. The application to the whole system is still under development.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Richard Perryman](authors/richard_perryman), [Joshua A. Taylor](authors/joshua_a_taylor), [Bryan Karney](authors/bryan_karney)
+[Richard Perryman](authors/richard-perryman), [Joshua A. Taylor](authors/joshua-a-taylor), [Bryan Karney](authors/bryan-karney)
  
 ## Citation
 - **Journal:** Journal of Hydraulic Research

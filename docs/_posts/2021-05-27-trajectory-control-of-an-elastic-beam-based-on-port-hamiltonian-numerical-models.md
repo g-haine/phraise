@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Mei Wang](authors/mei_wang), [Paul Kotyczka](authors/paul_kotyczka)
+[Mei Wang](authors/mei-wang), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 We present a systematic approach to realize the precise observer-based trajectory tracking of the tip of a flexible beam using the energy-based port-Hamiltonian (PH) system representation. The first design steps are the structure-preserving spatial discretization by means of a pseudo-spectral method and the structure-preserving order reduction. The model structure is exploited for inversion-based feedforward control, and the control loop is closed via an observer for the friction torque and the state difference. Experimental results for the reference input and the disturbance response illustrate the quality of the design.

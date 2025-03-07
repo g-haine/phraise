@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Bernhard Maschke](authors/bernhard_maschke), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 Recently Port Hamiltonian systems have been extended to encompass an implicit definition of the energy function of the system, by defining it in terms of a Lagrangian submanifold. In this paper, we extend the definition of Port Hamiltonian systems defined with respect to Lagrangian submanifold to a class of infinite-dimensional systems where the Lagrangian submanifold is defined by first-order differential operators. We show that this adds some port boundary variables and derive the energy balance equation. This construction is illustrated on the model of a flexible nanorod made of composite material.

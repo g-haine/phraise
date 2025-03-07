@@ -18,7 +18,7 @@ tags:
 ---
  
 ## Authors
-[Achim Ilchmann](authors/achim_ilchmann), [Jonas Kirchhoff](authors/jonas_kirchhoff), [Manuel Schaller](authors/manuel_schaller)
+[Achim Ilchmann](authors/achim-ilchmann), [Jonas Kirchhoff](authors/jonas-kirchhoff), [Manuel Schaller](authors/manuel-schaller)
  
 ## Abstract
 The present work is a successor of Ilchmann and Kirchhoff (Math Control Signals Syst 33:359–377, 2021) on generic controllability and of Ilchmann and Kirchhoff (Math Control Signals Syst 35:45–76, 2022) on relative generic controllability of linear differential-algebraic equations. We extend the result from general, unstructured differential-algebraic equations to differential-algebraic equations of port-Hamiltonian type. We derive results on relative genericity. These findings are the basis for characterizing relative generic controllability of port-Hamiltonian systems in terms of dimensions. A similar result is proved for relative generic stabilizability.

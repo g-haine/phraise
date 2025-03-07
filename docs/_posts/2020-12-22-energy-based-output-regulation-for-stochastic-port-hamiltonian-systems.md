@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Song Xu](authors/song_xu), [Wei Wang](authors/wei_wang), [Shengyuan Chen](authors/shengyuan_chen)
+[Song Xu](authors/song-xu), [Wei Wang](authors/wei-wang), [Shengyuan Chen](authors/shengyuan-chen)
  
 ## Abstract
 This article investigates the output regulation for stochastic port‐Hamiltonian systems (SPHSs) subject to sinusoidal disturbances. An energy‐based regulation scheme with an internal model unit is proposed by exploiting the stochastic Hamiltonian structure, which drives the tracking error to the origin while maintaining asymptotical stability in probability of the closed‐loop system. An energy‐based robust regulation scheme as well as an alternative condition is then developed without solving Hamilton–Jacobi–Issacs inequalities. The proposed regulators preserve the stochastic Hamiltonian structure of the disturbed SPHS by coordinate transformation. Hence the output regulation problems fall into the stabilization framework for SPHSs and there is no need to solve regulator equations. These results cover the stabilization of SPHSs and the output regulation of deterministic port‐Hamiltonian systems. Simulations on an inverted pendulum show the effectiveness of the proposed methods.

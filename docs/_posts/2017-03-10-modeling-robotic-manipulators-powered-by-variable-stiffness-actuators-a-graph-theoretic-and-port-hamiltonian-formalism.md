@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Stefan S. Groothuis](authors/stefan_s_groothuis), [Stefano Stramigioli](authors/stefano_stramigioli), [Raffaella Carloni](authors/raffaella_carloni)
+[Stefan S. Groothuis](authors/stefan-s-groothuis), [Stefano Stramigioli](authors/stefano-stramigioli), [Raffaella Carloni](authors/raffaella-carloni)
  
 ## Abstract
 This paper proposes a modeling method for generic compliant robotic manipulators. It is based on graph theory and the port-Hamiltonian formalism, which allows a modular approach to the interconnection of rigid bodies with compliant actuators by means of kinematic pairs. This modularity enables a simple and straight-forward adaption the model when a manipulator's actuator morphology is changed. An example of a spatial three degree-of-freedom manipulator shows that this modeling method is more suitable for modeling changes in actuator placement than the traditional Euler–Lagrange method.

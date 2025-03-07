@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Rodolfo Reyes-Báez](authors/rodolfo_reyes_baez), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Bayu Jayawardhana](authors/bayu_jayawardhana)
+[Rodolfo Reyes-Báez](authors/rodolfo-reyes-baez), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Bayu Jayawardhana](authors/bayu-jayawardhana)
  
 ## Abstract
 In this paper, we propose a trajectory tracking controller for fully-actuated port-Hamiltonian (pH) mechanical systems, which is based on recent advances in contraction analysis and differential Lyapunov theory. The tracking problem is solved by defining a suitable invariant sliding manifold which provides a desired steady state behavior. The manifold is then made attractive via contraction techniques. Finally, we present numerical simulation results where a SCARA robot is commanded by the proposed tracking control law.

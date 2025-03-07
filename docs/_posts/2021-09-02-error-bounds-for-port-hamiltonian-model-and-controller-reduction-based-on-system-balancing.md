@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Breiten](authors/tobias_breiten), [Riccardo Morandin](authors/riccardo_morandin), [Philipp Schulze](authors/philipp_schulze)
+[Tobias Breiten](authors/tobias-breiten), [Riccardo Morandin](authors/riccardo-morandin), [Philipp Schulze](authors/philipp-schulze)
  
 ## Abstract
 We study linear quadratic Gaussian (LQG) control design for linear port-Hamiltonian systems. To this end, we exploit the freedom in choosing the weighting matrices and propose a specific choice which leads to an LQG controller which is port-Hamiltonian and, thus, in particular stable and passive. Furthermore, we construct a reduced-order controller via balancing and subsequent truncation. This approach is closely related to classical LQG balanced truncation and shares a similar a priori error bound with respect to the gap metric. By exploiting the non-uniqueness of the Hamiltonian, we are able to determine an optimal pH representation of the full-order system in the sense that the error bound is minimized. In addition, we discuss consequences for pH-preserving balanced truncation model reduction which results in two different classicalH∞-error bounds. Finally, we illustrate the theoretical findings by means of two numerical examples.

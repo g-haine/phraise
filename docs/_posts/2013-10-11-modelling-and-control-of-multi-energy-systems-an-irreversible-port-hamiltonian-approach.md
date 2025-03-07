@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Bernhard Maschke](authors/bernhard_maschke), [Daniel Sbarbaro](authors/daniel_sbarbaro)
+[Hector Ramirez](authors/hector-ramirez), [Bernhard Maschke](authors/bernhard-maschke), [Daniel Sbarbaro](authors/daniel-sbarbaro)
  
 ## Abstract
 In recent work a class of quasi port Hamiltonian system expressing the first and second principle of thermodynamics as a structural property has been defined: Irreversible port-Hamiltonian system. These systems are very much like port-Hamiltonian systems but differ in that their structure matrices are modulated by a non-linear function that precisely expresses the irreversibility of the system. In a first instance irreversible port-Hamiltonian systems are extended to encompass coupled mechanical and thermodynamical systems, leading to the definition of reversible–irreversible port Hamiltonian systems. In a second instance, the formalism is used to suggest a class of passivity based controllers for thermodynamic systems based on interconnection and Casimir functions. However, the extension of the Casimir method to irreversible port-Hamiltonian systems is not so straightforward due to the “interconnection obstacle”. The heat exchanger, a gas-piston system and the non-isothermal CSTR are used to illustrate the formalism.

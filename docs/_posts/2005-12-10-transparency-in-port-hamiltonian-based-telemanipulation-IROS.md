@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[C. Secchi](authors/cristian_secchi), [S. Stramigioli](authors/stefano_stramigioli), [C. Fantuzzi](authors/cesare_fantuzzi)
+[C. Secchi](authors/cristian-secchi), [S. Stramigioli](authors/stefano-stramigioli), [C. Fantuzzi](authors/cesare-fantuzzi)
  
 ## Citation
 - **Journal:** 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems

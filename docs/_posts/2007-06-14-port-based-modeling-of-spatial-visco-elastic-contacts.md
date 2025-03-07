@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Stefano Stramigioli](authors/stefano_stramigioli), [Vincent Duindam](authors/vincent_duindam)
+[Stefano Stramigioli](authors/stefano-stramigioli), [Vincent Duindam](authors/vincent-duindam)
  
 ## Abstract
 In this paper, the geometrical description of viscoelastic contacts is described using physical modeling concepts based on energy conservation and network theory. The proposed model is on one side simple enough to be used in real time applications and on the other captures the geometrical features and coupling of a complete spatial geometric unisotropical contact.

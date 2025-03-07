@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas_kirchhoff), [Bernhard Maschke](authors/bernhard_maschke)
+[Jonas Kirchhoff](authors/jonas-kirchhoff), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 We study the geometric structure of port-Hamiltonian systems. Starting with the intuitive understanding that port-Hamiltonian systems are “in between” certain closed Hamiltonian systems, the geometric structure of port-Hamiltonian systems must be “in between” the geometric structures of the latter systems. These are Courant algebroids; and hence the geometric structures should be related by Courant algebroid morphisms. Using this idea, we propose a definition of an intrinsic geometric structure and show that it is unique, if it exists.

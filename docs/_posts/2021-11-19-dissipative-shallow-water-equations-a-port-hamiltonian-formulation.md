@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Laurent Lefèvre](authors/laurent_lefevre)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 The dissipative Shallow Water Equations (DSWEs) are investigated as port-Hamiltonian systems. Dissipation models of different types are considered: either as nonlinear bounded operators, or as linear unbounded operators involving a classical diffusion term in 1D, or the vectorial Laplacian in 2D. In order to recast the dissipative SWE into the framework of pHs with dissipation, a physically meaningful factorization of the vectorial Laplacian is being used, which nicely separates the divergent and the rotational components of the velocity field. Finally, the structure-preserving numerical scheme provided by the Partitioned Finite Element Method (PFEM) is applied to the nonlinear bounded dissipative fluid models. For the linear unbounded cases, a change of variables is highlighted, to transform the DSWEs into a new pHs with a polynomial structure, which proves more suitable for numerics.

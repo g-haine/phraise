@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Manuel Schaller](authors/manuel_schaller), [Friedrich Philipp](authors/friedrich_m_philipp), [Timm Faulwasser](authors/timm_faulwasser), [Karl Worthmann](authors/karl_worthmann), [Bernhard Maschke](authors/bernhard_maschke)
+[Manuel Schaller](authors/manuel-schaller), [Friedrich Philipp](authors/friedrich-m-philipp), [Timm Faulwasser](authors/timm-faulwasser), [Karl Worthmann](authors/karl-worthmann), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 We investigate optimal control of linear port-Hamiltonian systems with control constraints, in which one aims to perform a state transition with minimal energy supply. Decomposing the state space into dissipative and non-dissipative (i.e. conservative) subspaces, we show that the set of reachable states is bounded w.r.t. the dissipative subspace. We prove that the optimal control problem exhibits the turnpike property with respect to the non-dissipative subspace, i.e., for varying initial conditions and time horizons optimal state trajectories evolve close to the conservative subspace most of the time. We analyze the corresponding steady-state optimization problem and prove that all optimal steady states lie in the non-dissipative subspace. We conclude this paper by illustrating these results by a numerical example from mechanics.

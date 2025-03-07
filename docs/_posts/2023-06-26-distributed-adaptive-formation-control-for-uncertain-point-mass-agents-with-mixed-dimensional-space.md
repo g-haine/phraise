@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[M. R. Rosa](authors/m_r_rosa), [B. Jayawardhana](authors/bayu_jayawardhana)
+[M. R. Rosa](authors/m-r-rosa), [B. Jayawardhana](authors/bayu-jayawardhana)
  
 ## Abstract
 We propose distance-based distributed adaptive formation control of point mass agents in port-Hamiltonian (pH) framework that can deal with parameter uncertainties and with mixed dimensional space (2D, 3D or mixed 2D/3D). Adaptive control mechanism is subsequently proposed to maintain formation of uncertain pH systems with unknown damping parameters. Numerical simulations are presented for both known and uncertain point mass agents in mixed 2D/3D space.

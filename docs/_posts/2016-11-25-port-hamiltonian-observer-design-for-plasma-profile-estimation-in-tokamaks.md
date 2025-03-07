@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Benjamin Vincent](authors/benjamin_vincent), [Nicolas Hudon](authors/nicolas_hudon), [Laurent Lefèvre](authors/laurent_lefevre), [Denis Dochain](authors/denis_dochain)
+[Benjamin Vincent](authors/benjamin-vincent), [Nicolas Hudon](authors/nicolas-hudon), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Dochain](authors/denis-dochain)
  
 ## Abstract
 This paper considers the problem of estimating magnetic and temperature profiles in tokamaks using nonlinear port-Hamiltonian observers. Two classes of observers preserving the port-Hamiltonian structure are considered: a proportional observer; and a proportional observer with an integral action. It is shown that the proposed passive observers are stable with respect to the interconnection of the observed system and the observer. For both designs, the observation gains are chosen such that the error dynamics takes the form of a port-Hamiltonian system. Simulation results for plasma profiles estimation illustrate the proposed observers performance, including in cases where their key physical parameters are badly known.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Thavamani Govindaraj](authors/thavamani_govindaraj), [Jukka-Pekka Humaloja](authors/jukka_pekka_humaloja), [Lassi Paunonen](authors/lassi_paunonen)
+[Thavamani Govindaraj](authors/thavamani-govindaraj), [Jukka-Pekka Humaloja](authors/jukka-pekka-humaloja), [Lassi Paunonen](authors/lassi-paunonen)
  
 ## Abstract
 We consider a PDE-ODE model of a satellite and robust output regulation of the corresponding model. The satellite is composed of two flexible solar panels and a rigid center body. Exponential stability of the model is proved using passivity and resolvent estimates in the port-Hamiltonian framework. In addition, we construct a simple low-gain controller for robust output regulation of the satellite model.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Markus Schöberl](authors/markus_schoberl)
+[Markus Schöberl](authors/markus-schoberl)
  
 ## Abstract
 In diesem Beitrag wird gezeigt, wie man ausgehend von geometrischen Strukturen, welche man Tor-basierten Hamilton'schen Systemen im finit-dimensionalen Szenario zugrundelegen kann, durch deren Verallgemeinerung unterschiedliche Tor-basierte Hamilton'sche Darstellungen im Rahmen partieller Differentialgleichungen gewinnt. Diese unterschiedlichen Systemdarstellungen werden anhand eines mechanischen Beispiels, dem Timoshenko Balken, gegenübergestellt und diskutiert. Hauptaugenmerk liegt auf der Analyse von strukturellen Eigenschaften der Differentialgleichungen, welche dann aus regelungstechnischer Sicht von Bedeutung sind.

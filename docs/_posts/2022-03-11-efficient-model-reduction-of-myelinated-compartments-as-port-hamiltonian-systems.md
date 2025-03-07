@@ -9,7 +9,7 @@ category: chapters
 ---
  
 ## Authors
-[Ruxandra Barbulescu](authors/ruxandra_barbulescu), [Gabriela Ciuprina](authors/gabriela_ciuprina), [Tudor Ionescu](authors/tudor_c_ionescu), [Daniel Ioan](authors/daniel_ioan), [Luis Miguel Silveira](authors/luis_miguel_silveira)
+[Ruxandra Barbulescu](authors/ruxandra-barbulescu), [Gabriela Ciuprina](authors/gabriela-ciuprina), [Tudor Ionescu](authors/tudor-c-ionescu), [Daniel Ioan](authors/daniel-ioan), [Luis Miguel Silveira](authors/luis-miguel-silveira)
  
 ## Abstract
 The information is transmitted in neurons through axons, many of whom have myelin-covered sections, whose main purpose is to increase the speed of electrical signal transmission. Modeling the myelinated axons in a realistic way, by maintaining the physical meaning of components may lead to complex systems, described by high-dimensional systems of PDEs, whose solution is computationally demanding. Analysis of larger neuronal circuits including multiple myelinated axons therefore requires the generation of equivalent low-order models to control complexity. Such models must preserve the physical interpretation and properties of the original system including its passivity and stability. The axons’ port-based structure makes them suitable to be modeled as port-Hamiltonian systems. This paper uses a structure-preserving reduction method for port-Hamiltonian systems to reduce the description of a myelinated compartment into a model with comparable accuracy with the previously used vector fitting technique. The reduced system is synthesized into an equivalent passive circuit with no controlled sources and only positive elements, amenable for inclusion in standard neuronal simulators.

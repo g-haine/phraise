@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Kyung-Eung Kim](authors/kyung_eung_kim)
+[Kyung-Eung Kim](authors/kyung-eung-kim)
  
 ## Abstract
 This paper is devoted to the uniqueness of discontinuous solutions to the Hamilton–Jacobi–Bellman (HJB) equation arising in Mayer's problem under state constraints. We use two types of discontinuous solutions, bilateral solution and contingent solution, and show that they coincide with the value function for state constraints that are backward invariant and forward viable.

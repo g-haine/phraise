@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Felix Strehle](authors/felix_strehle), [Jonathan Vieth](authors/jonathan_vieth), [Martin Pfeifer](authors/martin_pfeifer), [Sören Hohmann](authors/soren_hohmann)
+[Felix Strehle](authors/felix-strehle), [Jonathan Vieth](authors/jonathan-vieth), [Martin Pfeifer](authors/martin-pfeifer), [Sören Hohmann](authors/soren-hohmann)
  
 ## Abstract
 In this paper, we analyze the stability of hydraulic, i.e. pressure and flow, equilibria in 4th generation district heating networks (DHNs). We consider the hydraulic behavior of a general class of DHNs with an arbitrary number of distributed heat generation units (DGUs) and end-users connected through a network of pipes. For each subsystem, we first derive a model in form of an explicit port-Hamiltonian system with nonlinear resistive structure. Based on these models and with methods from equilibrium-independent passivity (EIP), we prove the stability of the DHN’s hydraulic equilibria. From our results, we deduce requirements for a plug-and-play control of DHNs and draw conclusions for future work.

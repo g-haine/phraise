@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[G. Nishida](authors/gou_nishida), [M. Yamakita](authors/masaki_yamakita)
+[G. Nishida](authors/gou-nishida), [M. Yamakita](authors/masaki-yamakita)
  
 ## Abstract
 In this paper, a decomposition of a disturbance structure for distributed-parameter port-Hamiltonian systems is presented. A Stokes-Dirac structure can be extended to an externally supplied distributed energy besides an energy exchange through the boundary. First, we show that any disturbance can be decomposed into a boundary energy structure and a distributed energy structure. Next, the system representation is given by the decomposed structures. Finally, two examples are presented.

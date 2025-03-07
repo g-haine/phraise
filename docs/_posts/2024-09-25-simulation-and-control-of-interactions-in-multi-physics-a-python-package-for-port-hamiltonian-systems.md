@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Giuseppe Ferraro](authors/giuseppe_ferraro), [Michel Fournié](authors/michel_fournie), [Ghislain Haine](authors/ghislain_haine)
+[Giuseppe Ferraro](authors/giuseppe-ferraro), [Michel Fournié](authors/michel-fournie), [Ghislain Haine](authors/ghislain-haine)
  
 ## Abstract
 The Python package SCRIMP (Simulation and ContRol of Interactions in Multi-Physics) is presented through a collection of port-Hamiltonian systems (pHs) of increasing complexity, stemming from mechanics and thermodynamics. A focus is made on the syntax of SCRIMP allowing the user to easily describe a distributed pHs and its discretization method using the Partitioned Finite Element Method (PFEM) in space, together with the Differential Algebraic Equation (DAE) solver to use. A Graphical User Interface (GUI) is presented.

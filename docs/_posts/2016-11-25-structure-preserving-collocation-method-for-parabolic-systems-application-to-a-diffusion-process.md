@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[F. Couenne](authors/francoise_couenne), [B. Hamroun](authors/boussad_hamroun)
+[F. Couenne](authors/francoise-couenne), [B. Hamroun](authors/boussad-hamroun)
  
 ## Abstract
 In this contribution we present the reduced port Hamiltonian model of a parabolic system obtained by a structure preserving collocation method. It is applied to a nonlinear diffusion process involving two species in gas phase at constant pressure and temperature.

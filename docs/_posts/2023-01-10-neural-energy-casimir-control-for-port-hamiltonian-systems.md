@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Liang Xu](authors/liang_xu), [Muhammad Zakwan](authors/muhammad_zakwan), [Giancarlo Ferrari-Trecate](authors/giancarlo_ferrari_trecate)
+[Liang Xu](authors/liang-xu), [Muhammad Zakwan](authors/muhammad-zakwan), [Giancarlo Ferrari-Trecate](authors/giancarlo-ferrari-trecate)
  
 ## Abstract
 The energy Casimir method is an effective controller design approach to stabilize port-Hamiltonian systems at a desired equilibrium. However, its application relies on the availability of suitable Casimir and Lyapunov functions, whose computation are generally intractable. In this paper, we propose a neural network-based framework to learn these functions. We show how to achieve equilibrium assignment by adding suitable regularization terms in the training cost. We also propose a parameterization of Casimir functions for reducing the training complexity. Moreover, the distance between the equilibrium of the learned Lyapunov function and the desired equilibrium is analyzed, which indicates that for small suboptimality gaps, the distance decreases linearly with respect to the training loss. Our methods are backed up by simulations on a pendulum system.

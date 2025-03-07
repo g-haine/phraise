@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Milka C.I. Madahana](authors/milka_c_i_madahana), [John E.D. Ekoru](authors/john_e_d_ekoru), [Otis O.T. Nyandoro](authors/otis_o_t_c_nyandoro)
+[Milka C.I. Madahana](authors/milka-c-i-madahana), [John E.D. Ekoru](authors/john-e-d-ekoru), [Otis O.T. Nyandoro](authors/otis-o-t-c-nyandoro)
  
 ## Abstract
 The objective of this paper is to present a unique energy based model of the human outer ear and the tympanic membrane. The developed model employs the Port Hamiltonian modelling approach. The tympanic membrane is modelled as an Euler-Bernoulli beam. The frequency response of the model at speech frequencies which are significant for sound transmission are found to comparable to existing results in literature. This model can also be used for investigation of tympanic membrane rupture or perforations. Future work will include modelling of the ear canal as horn shaped and inclusion of the angular motion of the tympanic membrane.

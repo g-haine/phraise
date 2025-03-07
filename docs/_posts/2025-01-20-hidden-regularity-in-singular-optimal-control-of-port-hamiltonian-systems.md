@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Timm Faulwasser](authors/timm_faulwasser), [Jonas Kirchhoff](authors/jonas_kirchhoff), [Volker Mehrmann](authors/volker_mehrmann), [Friedrich Philipp](authors/friedrich_m_philipp), [Manuel Schaller](authors/manuel_schaller), [Karl Worthmann](authors/karl_worthmann)
+[Timm Faulwasser](authors/timm-faulwasser), [Jonas Kirchhoff](authors/jonas-kirchhoff), [Volker Mehrmann](authors/volker-mehrmann), [Friedrich Philipp](authors/friedrich-m-philipp), [Manuel Schaller](authors/manuel-schaller), [Karl Worthmann](authors/karl-worthmann)
  
 ## Abstract
 We study the problem of state transition on a finite time interval with minimal energy supply for linear port-Hamiltonian systems. While the cost functional of minimal energy supply is intrinsic to the port-Hamiltonian structure, the necessary conditions of optimality resulting from Pontryagin's maximum principle may yield singular arcs. The underlying reason is the linear dependence on the control, which makes the problem of determining the optimal control as a function of the state and the adjoint more complicated or even impossible. To resolve this issue, we fully characterize regularity of the (differential-algebraic) optimality system by using the interplay of the cost functional and the dynamics. In case of the optimality DAE being characterized by a regular matrix pencil, we fully determine the control on the singular arc. In case of singular matrix pencils of the optimality system, we propose an approach to compute rank-minimal quadratic perturbations of the objective such that the optimal control problem becomes regular. We illustrate the applicability of our results by a general second-order mechanical system and a discretized boundary-controlled heat equation.

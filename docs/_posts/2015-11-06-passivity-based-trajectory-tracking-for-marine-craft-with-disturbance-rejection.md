@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Alejandro Donaire](authors/alejandro_donaire), [Jose Guadalupe Romero](authors/jose_guadalupe_romero), [Tristan Perez](authors/tristan_perez)
+[Alejandro Donaire](authors/alejandro-donaire), [Jose Guadalupe Romero](authors/jose-guadalupe-romero), [Tristan Perez](authors/tristan-perez)
  
 ## Abstract
 This paper presents a Hamiltonian model of marine vehicle dynamics in six degrees of freedom in both body-fixed and inertial momentum coordinates. The model in body-fixed coordinates presents a particular structure of the mass matrix that allows the adaptation and application of passivity-based control interconnection and damping assignment design methodologies developed for robust stabilisation of mechanical systems in terms of generalised coordinates. As an example of application, we follow this methodology to design a passivity-based tracking controller with integral action for fully actuated vehicles in six degrees of freedom. We also describe a momentum transformation that allows an alternative model representation that resembles general port-Hamiltonian mechanical systems with a coordinate dependent mass matrix. This can be seen as an enabling step towards the adaptation of the theory of control of port-Hamiltonian systems developed in robotic manipulators and multi-body mechanical systems to the case of marine craft dynamics.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Francesco Cordoni](authors/francesco_giuseppe_cordoni), [Luca Di Persio](authors/luca_di_persio), [Riccardo Muradore](authors/riccardo_muradore)
+[Francesco Cordoni](authors/francesco-giuseppe-cordoni), [Luca Di Persio](authors/luca-di-persio), [Riccardo Muradore](authors/riccardo-muradore)
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

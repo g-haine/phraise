@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Thomas Hélie](authors/thomas_helie), [Denis Matignon](authors/denis_matignon)
+[Thomas Hélie](authors/thomas-helie), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 This paper introduces linear and nonlinear damping models, which preserve the eigenspaces of conservative linear mechanical problems. After some recalls on the finite dimensional case and on Caughey's linear dampings, an extension to a nonlinear class is introduced. These results are recast in the port-Hamiltonian framework and generalized to infinite dimensional systems. They are applied to an Euler-Bernoulli beam, excited by a distributed force. Simulations yield sounds of xylophone, glockenspiel (etc) and some interpolations for nonlinear dampings.

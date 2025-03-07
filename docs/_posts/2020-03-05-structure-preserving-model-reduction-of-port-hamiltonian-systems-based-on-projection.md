@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Yao Huang](authors/yao_huang), [Yao‐Lin Jiang](authors/yaolin_jiang), [Kang‐Li Xu](authors/kangli_xu)
+[Yao Huang](authors/yao-huang), [Yao‐Lin Jiang](authors/yaolin-jiang), [Kang‐Li Xu](authors/kangli-xu)
  
 ## Abstract
 In this paper, we consider structure‐preserving model reduction for multi‐input multi‐output port‐Hamiltonian systems based on projection. Specifically, we prove that the reduced system, the projection matrix of which is constructed by solving specific Sylvester equations, satisfies the right (or left) tangential interpolation condition and retains the port‐Hamiltonian structure; hence it remains passive. Based on the tangential interpolation, we propose two structure‐preserving model reduction algorithms for port‐Hamiltonian systems and present several numerical examples to illustrate their effectiveness.

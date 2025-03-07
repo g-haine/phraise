@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Kenji Fujimoto](authors/kenji_fujimoto), [Satoru Sakai](authors/satoru_sakai), [Toshiharu Sugie](authors/toshiharu_sugie)
+[Kenji Fujimoto](authors/kenji-fujimoto), [Satoru Sakai](authors/satoru-sakai), [Toshiharu Sugie](authors/toshiharu-sugie)
  
 ## Abstract
 This paper is concerned with state and output feedback stabilization of a class of port-Hamiltonian systems with nonholonomic constraints. First we study canonical forms for port-Hamiltonian systems with nonholonomic constraints. Second, we give a new state feedback stabilization method by using non-smooth Hamiltonian functions via generalized canonical transformations. Third, we propose a dynamic output feedback stabilization method without measuring the velocity based on the corresponding state feedback result. Numerical examples demonstrate the effectiveness of the proposed method.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Chang Liu](authors/chang_liu), [Lu Dong](authors/lu_dong)
+[Chang Liu](authors/chang-liu), [Lu Dong](authors/lu-dong)
  
 ## Abstract
 Control theory usually finds no suitable place in the education of physics. The port-Hamiltonian framework, which generalizes the formalism of Hamiltonian mechanics, provides a physics-based control strategy. This framework is also promising in the education of physicists in control theory. In this paper, we use the port-Hamiltonian framework to reformulate a physics system and introduce the physics-based control strategy, including the energy, dissipation, and structure assignments. The closed-loop Hamiltonian is a candidate of the Lyapunov function, which guarantees the global stability of the closed-loop system. These physics-based control strategies are illustrated using the Duffing oscillator and the Lorenz system. We also provide port-Hamiltonian descriptions for two examples in celestial mechanics.

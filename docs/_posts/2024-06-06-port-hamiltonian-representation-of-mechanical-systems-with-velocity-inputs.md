@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel_ferguson), [Christopher Renton](authors/christopher_renton)
+[Joel Ferguson](authors/joel-ferguson), [Christopher Renton](authors/christopher-renton)
  
 ## Abstract
 In this note, we propose a method for describing the dynamics of mechanical systems with velocity-based inputs within the port-Hamiltonian framework. Canonical representations of mechanical systems assume force/torque inputs. Many commonly used actuators, however, have internal dynamics that cause the output velocity to quickly converge to a specified reference velocity. In such cases, it is more meaningful from a modeling and control perspective to define models that admit a velocity input. This is achieved in this letter by performing a momentum transformation and state reduction, resulting in a reduced-order model where the relevant velocity is a causal input. The reduced-order model preserves the passivity of the original port-Hamiltonian system. The results are demonstrated by applying a velocity-input control signal to the classical cart-pole system.

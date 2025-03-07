@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Denis Matignon](authors/denis_matignon), [Thomas Hélie](authors/thomas_helie)
+[Denis Matignon](authors/denis-matignon), [Thomas Hélie](authors/thomas-helie)
  
 ## Abstract
 For conservative mechanical systems, the so-called Caughey series are known to define the class of damping matrices that preserve eigenspaces. In particular, for finite-dimensional systems, these matrices prove to be a polynomial of one reduced matrix, which depends on the mass and stiffness matrices. Damping is ensured whatever the eigenvalues of the conservative problem if and only if the polynomial is positive for positive scalar values.This paper first recasts this result in the port-Hamiltonian framework by introducing a port variable corresponding to internal energy dissipation (resistive element). Moreover, this formalism naturally allows to cope with systems including gyroscopic effects (gyrators).Second, generalizations to the infinite-dimensional case are considered. They consist of extending the previous polynomial class to rational functions and more general functions of operators (instead of matrices), once the appropriate functional framework has been defined. In this case, the resistive element is modelled by a given static operator, such as an elliptic PDE. These results are illustrated on several PDE examples: the Webster horn equation, the Bernoulli beam equation; the damping models under consideration are fluid, structural, rational and generalized fractional Laplacian or bi-Laplacian.

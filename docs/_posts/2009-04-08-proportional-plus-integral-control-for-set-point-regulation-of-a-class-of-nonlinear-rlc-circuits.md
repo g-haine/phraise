@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando_castanos), [Bayu Jayawardhana](authors/bayu_jayawardhana), [Romeo Ortega](authors/romeo_ortega), [Eloísa García-Canseco](authors/eloisa_garcia_canseco)
+[Fernando Castaños](authors/fernando-castanos), [Bayu Jayawardhana](authors/bayu-jayawardhana), [Romeo Ortega](authors/romeo-ortega), [Eloísa García-Canseco](authors/eloisa-garcia-canseco)
  
 ## Abstract
 In this paper we identify graph-theoretic conditions which allow us to write a nonlinear RLC circuit as port-Hamiltonian with constant input matrices. We show that under additional monotonicity conditions on the network’s components, the circuit enjoys the property of relative passivity, an extended notion of classical passivity. The property of relative passivity is then used to build simple, yet robust and globally stable, proportional plus integral controllers.

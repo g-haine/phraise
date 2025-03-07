@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea_brugnoli), [Daniel Alazard](authors/daniel_alazard), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger), [Denis Matignon](authors/denis_matignon)
+[Andrea Brugnoli](authors/andrea-brugnoli), [Daniel Alazard](authors/daniel-alazard), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 The mechanical model of a thin plate with boundary control and observation is presented as a port-Hamiltonian system (PHs 1 1 PHs stands for port-Hamiltonian systems. ), both in vectorial and tensorial forms: the Kirchhoff-Love model of a plate is described by using a Stokes-Dirac structure and this represents a novelty with respect to the existing literature. This formulation is carried out both in vectorial and tensorial forms. Thanks to tensorial calculus, this model is found to mimic the interconnection structure of its one-dimensional counterpart, i.e. the Euler-Bernoulli beam. The Partitioned Finite Element Method (PFEM 2 2 PFEM stands for partitioned finite element method. ) is then extended to obtain a suitable, i.e. structure-preserving, weak form. The discretization procedure, performed on the vectorial formulation, leads to a finite-dimensional port-Hamiltonian system. This part II of the companion paper extends part I, dedicated to the Mindlin model for thick plates. The thin plate model comes along with additional difficulties, because of the higher order of the differential operator under consideration.

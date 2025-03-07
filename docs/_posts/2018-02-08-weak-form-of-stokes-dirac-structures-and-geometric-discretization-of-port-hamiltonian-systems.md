@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka), [Bernhard Maschke](authors/bernhard_maschke), [Laurent Lefèvre](authors/laurent_lefevre)
+[Paul Kotyczka](authors/paul-kotyczka), [Bernhard Maschke](authors/bernhard-maschke), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 We present the mixed Galerkin discretization of distributed parameter port-Hamiltonian systems. On the prototypical example of hyperbolic systems of two conservation laws in arbitrary spatial dimension, we derive the main contributions: (i) A weak formulation of the underlying geometric (Stokes–Dirac) structure with a segmented boundary according to the causality of the boundary ports. (ii) The geometric approximation of the Stokes–Dirac structure by a finite-dimensional Dirac structure is realized using a mixed Galerkin approach and power-preserving linear maps, which define minimal discrete power variables. (iii) With a consistent approximation of the Hamiltonian, we obtain finite-dimensional port-Hamiltonian state space models. By the degrees of freedom in the power-preserving maps, the resulting family of structure-preserving schemes allows for trade-offs between centered approximations and upwinding. We illustrate the method on the example of Whitney finite elements on a 2D simplicial triangulation and compare the eigenvalue approximation in 1D with a related approach.

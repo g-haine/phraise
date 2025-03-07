@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli)
+[Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 This paper aims at describing a synthesis procedure of discrete-time, energy-based regulators for continuous-time port-Hamiltonian systems. The methodology consists of three steps. The first twos deal with the definition of a discrete-time approximation of the plant to be successively employed in the development of the control law. Here, the focus is mainly on the last step, i.e. on how to interconnect digital controller and plant. The coupling is implemented via a zero-order hold and relies on the solution of an optimisation problem that determines the “best” and “minimal” correction to be applied to the nominal action to achieve the same performances obtained when the regulator is in closed-loop with the discrete-time model of the plant. This is the reference scenario used by the designer to develop and tune the control law. The procedure (time-discretisation, control design and coupling implementation) is illustrated in an example.

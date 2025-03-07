@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Anthony Hastir](authors/anthony_hastir), [Federico Califano](authors/federico_califano), [Hans Zwart](authors/hans_zwart)
+[Anthony Hastir](authors/anthony-hastir), [Federico Califano](authors/federico-califano), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
 We study existence of solutions, and in particular well-posedness, for a class of inhomogeneous, nonlinear partial differential equations (PDE’s). The main idea is to use system theory to write the nonlinear PDE as a well-posed infinite-dimensional linear system interconnected with a static nonlinearity. By a simple example, it is shown that in general well-posedness of the closed-loop system is not guaranteed. We show that well-posedness of the closed-loop system is guaranteed for linear systems whose input to output map is coercive for small times interconnected to monotone nonlinearities. This work generalizes the results presented in [1], where only globally Lipschitz continuous nonlinearities were considered. Furthermore, it is shown that a general class of linear port-Hamiltonian systems satisfies the conditions asked on the open-loop system. The result is applied to show well-posedness of a system consisting of a vibrating string with nonlinear damping at the boundary.

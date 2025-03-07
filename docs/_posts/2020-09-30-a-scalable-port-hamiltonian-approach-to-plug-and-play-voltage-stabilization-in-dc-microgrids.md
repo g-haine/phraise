@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Felix Strehle](authors/felix_strehle), [Martin Pfeifer](authors/martin_pfeifer), [Albertus Johannes Malan](authors/albertus_johannes_malan), [Stefan Krebs](authors/stefan_krebs), [Soren Hohmann](authors/soren_hohmann)
+[Felix Strehle](authors/felix-strehle), [Martin Pfeifer](authors/martin-pfeifer), [Albertus Johannes Malan](authors/albertus-johannes-malan), [Stefan Krebs](authors/stefan-krebs), [Soren Hohmann](authors/soren-hohmann)
  
 ## Abstract
 One of the major challenges of voltage stabilization in converter-based DC microgrids are the multiple interacting units displaying intermittent supply behavior. In this paper, we address this by a decentralized scalable, plug-and-play voltage controller for voltage-source converters (VSCs) at primary level. In contrast to existing approaches, we follow a systematic and constructive design based on port-Hamiltonian systems (PHSs) which does neither require the heuristic proposition of a Lyapunov function nor the computation of auxilliary variables such as time-derivatives. By employing the Hamiltonian naturally obtained from the PHS approach as Lyapunov function and using the modularity of passive systems, we provide sufficient conditions under which the designed VSC controllers achieve microgrid-wide asymptotic voltage stability. Integral action (IA), which preserves the passive PHS structure, robustifies the design against unknown disturbances and ensures zero voltage errors in the steady-state. Numerical simulations illustrate the functionality of the proposed voltage controller.

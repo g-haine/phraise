@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Marius Mönch](authors/marius_monch), [Nicole Marheineke](authors/nicole_marheineke)
+[Marius Mönch](authors/marius-monch), [Nicole Marheineke](authors/nicole-marheineke)
  
 ## Abstract
 In this paper, we develop high-order splitting methods for linear port-Hamiltonian systems, focusing on preserving their intrinsic structure, particularly the dissipation inequality. Port-Hamiltonian systems are characterized by their ability to describe energy-conserving and dissipative processes, which is essential for the accurate simulation of physical systems. For autonomous systems, we introduce an energy-associated decomposition that exploits the system's energy properties. We present splitting schemes up to order six. In the non-autonomous case, we employ a port-based splitting. This special technique makes it possible to set up methods of arbitrary even order. Both splitting approaches are based on the properties of the commutator and ensure that the numerical schemes not only preserve the structure of the system but also faithfully fulfill the dissipation inequality. The proposed approaches are validated through theoretical analysis and numerical experiments.

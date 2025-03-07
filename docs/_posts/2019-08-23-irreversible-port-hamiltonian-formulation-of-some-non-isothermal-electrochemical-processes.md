@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Daniel Sbarbaro](authors/daniel_sbarbaro), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Hector Ramirez](authors/hector-ramirez), [Daniel Sbarbaro](authors/daniel-sbarbaro), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 Electrochemical processes have been developed for a wide range of applications such as, mineral refining, water purification, energy storage and generation. The development of models to describe these processes is very important for their analysis, optimization and operation. The framework of irreversible port-Hamiltonian systems has proven to be an important tool to analyze and integrate thermal models with models of different domains. This work discusses the modeling of non-isothermal electrochemical processes as irreversible port-Hamiltonian systems. An irreversible port-Hamiltonian model based on the internal energy function is derived for a simple but general example. The irreversible model is obtained from the molar and charge balance equations combined with the entropy balance equation. The resulting model can be interpreted as a thermodynamic system and aspects such as entropy production, thermodynamic driving forces and intensive/extensive variables are encoded in the representation. An electrochemical process with two simultaneous reactions is considered to illustrate the approach. The interconnection with a resistive load is also considered to illustrate the benefit of the port-based formulation of the model.

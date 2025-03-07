@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando_castanos), [Dmitry Gromov](authors/dmitry_gromov), [Vincent Hayward](authors/vincent_hayward), [Hannah Michalska](authors/hannah_michalska)
+[Fernando Castaños](authors/fernando-castanos), [Dmitry Gromov](authors/dmitry-gromov), [Vincent Hayward](authors/vincent-hayward), [Hannah Michalska](authors/hannah-michalska)
  
 ## Abstract
 Implicit and explicit representations of smooth, finite-dimensional port-Hamiltonian systems are studied from the perspective of their use in numerical simulation and control design. Implicit representations arise when a system is modeled in Cartesian coordinates and when the system constraints are applied in the form of additional algebraic equations. Explicit representations are derived when generalized coordinates are used. A relationship between the phase spaces for both system representations is derived in this article, justifying the equivalence of the representations in the sense of preserving their Hamiltonian functions as well as their Hamiltonian symplectic forms, ultimately resulting in the same Hamiltonian flow.

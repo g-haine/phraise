@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Amal Hammoud](authors/amal_hammoud), [Ning Liu](authors/ning_liu), [Yann Le Gorrec](authors/yann_le_gorrec), [Yoan Civet](authors/yoan_civet), [Yves Perriard](authors/yves_perriard)
+[Amal Hammoud](authors/amal-hammoud), [Ning Liu](authors/ning-liu), [Yann Le Gorrec](authors/yann-le-gorrec), [Yoan Civet](authors/yoan-civet), [Yves Perriard](authors/yves-perriard)
  
 ## Abstract
 This paper is concerned with the port Hamiltonian modeling and control of a dielectric elastomer actuator used for a cardiac assistance device. The proposed non-linear model is identified under different applied voltages and pressures, and validated against experimental results with relative errors of less than 0.3%. Subsequently, two passivity-based controllers are designed to stabilize the actuator at a desired position. The first controller is designed using control by interconnection. The second one considers additional integral action to reject disturbances while preserving the passivity of the closed-loop system.

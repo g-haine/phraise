@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Tim Moser](authors/tim_moser), [Julius Durmann](authors/julius_durmann), [Maximilian Bonauer](authors/maximilian_bonauer), [Boris Lohmann](authors/boris_lohmann)
+[Tim Moser](authors/tim-moser), [Julius Durmann](authors/julius-durmann), [Maximilian Bonauer](authors/maximilian-bonauer), [Boris Lohmann](authors/boris-lohmann)
  
 ## Abstract
 We present a novel software toolbox MORpH for the efficient storage, analysis, interconnection and structure-preserving model order reduction (MOR) of linear port-Hamiltonian differential-algebraic equation systems (pH-DAEs). The model class of pH-DAEs enables energy-based modeling and a flexible coupling of models across different physical domains. This makes them particularly suited for the simulation and control of complex technical systems. To promote the use of recent theoretical findings in engineering practice, efficient software solutions are required. In this work, we illustrate how possibly large-scale pH-DAEs can be efficiently stored and interconnected in MATLAB in an object-oriented way. We discuss three structure-preserving MOR strategies that are supported by MORpH and demonstrate the application and performance of selected MOR algorithms by means of two benchmark examples.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Dong Xue](authors/dong_xue), [Sandra Hirche](authors/sandra_hirche), [Ming Cao](authors/ming_cao)
+[Dong Xue](authors/dong-xue), [Sandra Hirche](authors/sandra-hirche), [Ming Cao](authors/ming-cao)
  
 ## Abstract
 Both interpersonal communication and media contact are important information sources and play a significant role in shaping public opinions of large populations. In this paper, we investigate how the opinion-forming process evolves over social networks under the media influence. In addition to being affected by the opinions of their connected peers, the media cooperate and/or compete mutually with each other. Networks with mixed cooperative and competitive interactions are said to be coopetitive. In this endeavor, a novel mathematical model of opinion dynamics is introduced, which captures the information diffusion process under consideration, makes use of the community-based network structure, and takes into account personalized biases among individuals in social networks. By employing port-Hamiltonian system theory to analyze the modeled opinion dynamics, we predict how public opinions evolve in the long run through social entities and find applications in political strategy science. A key technical observation is that as a result of the port-Hamiltonian formulation, the mathematical passivity property of individuals’ self-dynamics facilitates the convergence analysis of opinion evolution. We explain how to steer public opinions towards consensus, polarity, or neutrality, and investigate how an autocratic media coalition might emerge regardless of public views. We also assess the role of interpersonal communication and media exposure, which in itself is an essential topic in mathematical sociology.

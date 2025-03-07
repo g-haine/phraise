@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Friedrich Philipp](authors/friedrich_m_philipp), [Manuel Schaller](authors/manuel_schaller), [Timm Faulwasser](authors/timm_faulwasser), [Bernhard Maschke](authors/bernhard_maschke), [Karl Worthmann](authors/karl_worthmann)
+[Friedrich Philipp](authors/friedrich-m-philipp), [Manuel Schaller](authors/manuel-schaller), [Timm Faulwasser](authors/timm-faulwasser), [Bernhard Maschke](authors/bernhard-maschke), [Karl Worthmann](authors/karl-worthmann)
  
 ## Abstract
 We consider the problem of minimizing the supplied energy of infinite-dimensional linear port-Hamiltonian systems and prove that optimal trajectories exhibit the turnpike phenomenon towards certain subspaces induced by the dissipation of the dynamics. The theoretical foundations are illustrated by means of numerical examples concerning a Timoshenko beam and the heat equation.

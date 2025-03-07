@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[A. Palha](authors/a_palha), [M. Gerritsma](authors/m_gerritsma)
+[A. Palha](authors/a-palha), [M. Gerritsma](authors/m-gerritsma)
  
 ## Abstract
 In this work we present a mimetic spectral element discretization for the 2D incompressible Navier–Stokes equations that in the limit of vanishing dissipation exactly preserves mass, kinetic energy, enstrophy and total vorticity on unstructured triangular grids. The essential ingredients to achieve this are: (i) a velocity–vorticity formulation in rotational form, (ii) a sequence of function spaces capable of exactly satisfying the divergence free nature of the velocity field, and (iii) a conserving time integrator. Proofs for the exact discrete conservation properties are presented together with numerical test cases on highly irregular triangular grids.

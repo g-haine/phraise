@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Mamadou Diagne](authors/mamadou_diagne), [Bernhard Maschke](authors/bernhard_maschke)
+[Mamadou Diagne](authors/mamadou-diagne), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 In this paper we consider the port Hamiltonian formulation of systems of two conservation laws defined on two complementary intervals of some interval of the real line and coupled by some moving interface. We recall first how two port Hamiltonian systems coupled by an interface may be expressed as an port Hamiltonian systems augmented with two variables being the characteristic functions of the two spatial domains. Then we consider the case of a moving interface and show that it may be expressed as the previous port Hamiltonian system augmented with an input, being the velocity of the interface and its conjugated output variable. We then discuss the interface relations defining the dynamics of the displacement of the interface and give an illustration with the simple example of two gases coupled by a moving piston.

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Qingqing Xu](authors/qingqing_xu), [Stevan Dubljevic](authors/stevan_dubljevic)
+[Qingqing Xu](authors/qingqing-xu), [Stevan Dubljevic](authors/stevan-dubljevic)
  
 ## Abstract
 The port-Hamiltonian representation of undamped wave equation system captures the essential energy and dynamical features in an unified framework. In this paper, an undamped wave equation system is given in the port-Hamiltonian formulation. The important issue of obtaining discrete version of the port-Hamiltonian system representation is explored. The exact discretization method is applied to the port-Hamiltonian system which transforms the system from a continuous to a discrete state space setting. The development of the discretized port Hamiltonian system formulation is necessary foundation for the discrete and computer based regulator and model realizations. The results are illustrated by numerical simulations.

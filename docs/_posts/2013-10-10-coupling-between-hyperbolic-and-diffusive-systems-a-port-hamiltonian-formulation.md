@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Yann Le Gorrec](authors/yann_le_gorrec), [Denis Matignon](authors/denis_matignon)
+[Yann Le Gorrec](authors/yann-le-gorrec), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 The aim of this paper is to study a conservative wave equation coupled to a diffusion equation. This coupled system naturally arises in musical acoustics when viscous and thermal effects at the wall of the duct of a wind instrument are taken into account. The resulting equation, known as the Webster–Lokshin model, has variable coefficients in space, and a fractional derivative in time. This equation can be recast into the port Hamiltonian framework by using the diffusive representation of the fractional derivative in time and a multiscale state space representation. The port-Hamiltonian formalism proves adequate to reformulate this coupled system, and could enable another well-posedness analysis, using classical results from port-Hamiltonian systems theory.

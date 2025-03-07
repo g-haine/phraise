@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Vincent Trenchant](authors/vincent_trenchant), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Paul Kotyczka](authors/paul_kotyczka)
+[Vincent Trenchant](authors/vincent-trenchant), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 This paper proposes a finite difference spatial discretization scheme that preserve the port-Hamiltonian structure of 1D and 2D infinite dimensional hyperbolic systems. This scheme is based on the use of staggered grids for the discretization of the state and co state variables of the system. It is shown that, by an appropriate choice of the boundary port variables, the underlying geometric structure of the infinite-dimensional system, i.e. its Dirac structure, is preserved during the discretization step. The consistency of the spatial discretization scheme is evaluated and its accuracy is validated with numerical results.

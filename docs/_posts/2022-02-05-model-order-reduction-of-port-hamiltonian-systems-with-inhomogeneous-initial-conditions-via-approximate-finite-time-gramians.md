@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Yanpeng Li](authors/yanpeng_li), [Yaolin Jiang](authors/yaolin_jiang), [Ping Yang](authors/ping_yang)
+[Yanpeng Li](authors/yanpeng-li), [Yaolin Jiang](authors/yaolin-jiang), [Ping Yang](authors/ping-yang)
  
 ## Abstract
 Based on the approximate finite-time Gramians, this paper studies model order reduction method of port-Hamiltonian systems with inhomogeneous initial conditions. The approximate controllability and observability Gramians on the finite-time interval [ T 1 , T 2 ] ( 0 ≤ T 1 < T 2 < ∞ ) can be obtained by the shifted Legendre polynomials and the reduced port-Hamiltonian system is constructed by the union of dominant eigenspaces. Since the port-Hamiltonian system is square, the cross Gramian on the time interval [ T 1 , T 2 ] can also be approximated by using the shifted Legendre polynomials. Then, the truncated singular value decomposition of the approximate finite-time cross Gramian is carried out to obtain the projection matrix. Finally, the proposed methods are verified by two numerical examples.

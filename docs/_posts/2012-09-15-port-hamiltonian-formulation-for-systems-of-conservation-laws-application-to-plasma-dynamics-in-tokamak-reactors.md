@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Ngoc Minh Trang VU](authors/ngoc_minh_trang_vu), [Laurent LEFEVRE](authors/laurent_lefevre), [Bernhard MASCHKE](authors/bernhard_maschke)
+[Ngoc Minh Trang VU](authors/ngoc-minh-trang-vu), [Laurent LEFEVRE](authors/laurent-lefevre), [Bernhard MASCHKE](authors/bernhard-maschke)
  
 ## Abstract
 A port-Hamiltonian model is derived for the thermo-magneto-hydro dynamics of plasma in tokamaks. Magnetohydrodynamic and energy balance equations are expressed in their covariant form and written in the port-Hamiltonian formalism using Dirac structures. This Dirac structure is established as the interconnection of Stokes-Dirac structures with a specific interconnection structure representing the magneto-hydrodynamical coupling. Finally the problem of current density profile control is defined and potential approaches are discussed.

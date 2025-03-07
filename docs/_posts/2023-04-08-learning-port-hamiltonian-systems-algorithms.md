@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[V. Salnikov](authors/v_salnikov), [A. Falaize](authors/antoine_falaize), [D. Lozienko](authors/d_lozienko)
+[V. Salnikov](authors/v-salnikov), [A. Falaize](authors/antoine-falaize), [D. Lozienko](authors/d-lozienko)
  
 ## Abstract
  In this article we study the possibilities of recovering the structure of port-Hamiltonian systems starting from “unlabelled” ordinary differential equations describing mechanical systems. The algorithm we suggest solves the problem in two phases. It starts by constructing the connectivity structure of the system using machine learning methods – producing thus a graph of interconnected subsystems. Then this graph is enhanced by recovering the Hamiltonian structure of each subsystem as well as the corresponding ports. This second phase relies heavily on results from symplectic and Poisson geometry that we briefly sketch. And the precise solutions can be constructed using methods of computer algebra and symbolic computations. The algorithm permits to extend the port-Hamiltonian formalism to generic ordinary differential equations, hence introducing eventually a new concept of normal forms of ODEs.

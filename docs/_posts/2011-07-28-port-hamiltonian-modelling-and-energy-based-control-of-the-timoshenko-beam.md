@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Andreas Siuka](authors/andreas_siuka), [Markus Schöberl](authors/markus_schoberl), [Kurt Schlacher](authors/kurt_schlacher)
+[Andreas Siuka](authors/andreas-siuka), [Markus Schöberl](authors/markus-schoberl), [Kurt Schlacher](authors/kurt-schlacher)
  
 ## Abstract
 This contribution deals with the port-Hamiltonian modelling and energy-based control of infinite-dimensional mechanical systems. Motivated by the physical interpretation offered by the port-controlled Hamiltonian system class in the finite-dimensional case, we analyse an extension of this framework to the infinite-dimensional scenario on the basis of the so-called evolutionary approach which is used for the port-Hamiltonian formulation of flexible beams modelled according to the Timoshenko theory. Furthermore, we adapt the well-known control via structural invariants method with respect to the presented port-Hamiltonian description such that this method is applied to the boundary control of the Timoshenko beam.

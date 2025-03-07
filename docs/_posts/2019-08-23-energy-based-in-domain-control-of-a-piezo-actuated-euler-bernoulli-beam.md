@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Malzer](authors/tobias_malzer), [Hubert Rams](authors/hubert_rams), [Markus Schöberl](authors/markus_schoberl)
+[Tobias Malzer](authors/tobias-malzer), [Hubert Rams](authors/hubert-rams), [Markus Schöberl](authors/markus-schoberl)
  
 ## Abstract
 The main contribution of this paper is the extension of the well-known boundary-control strategy based on structural invariants to the control of infinite-dimensional systems with in-domain actuation. The systems under consideration, governed by partial differential equations, are described in a port-Hamiltonian setting making heavy use of the underlying jet-bundle structure, where we restrict ourselves to systems with 1-dimensional spatial domain and 2nd-order Hamiltonian. To show the applicability of the proposed approach, we develop a dynamic controller for an Euler-Bernoulli beam actuated with a pair of piezoelectric patches and conclude the article with simulation results.

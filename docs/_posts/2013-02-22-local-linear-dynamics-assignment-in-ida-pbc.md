@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka)
+[Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 In this paper, the technique of local linear dynamics assignment is presented, which complements the powerful Interconnection and Damping Assignment Passivity Based Control (IDA-PBC) methodology. In IDA-PBC, nonlinear state feedback controllers are designed by matching the system’s dynamics with a desired Port-Hamiltonian (PH) state representation. The latter consists of an energy function, which serves as the closed-loop Lyapunov function, as well as matrices, describing the virtual internal exchange and dissipation of the energy. A major difficulty in IDA-PBC is how to determine reasonable values for the large number of free design parameters. Local linear dynamics assignment offers a solution to this problem with a number of advantages. (i) Invoking the closed-loop Jacobian linearization to fix the parameter values provides transparency with respect to the resulting local dynamic behavior. (ii) An appropriate state transformation isolates the coordinates available for energy shaping. (iii) A related local linear state transformation makes the resulting system of design equations linear. (iv) Assigning a Hurwitz closed-loop Jacobian and ensuring positive semi-definiteness of the closed-loop dissipation matrix, the tedious definiteness check of the energy is omitted. The design steps are illustrated with the Ball on Wheel example.

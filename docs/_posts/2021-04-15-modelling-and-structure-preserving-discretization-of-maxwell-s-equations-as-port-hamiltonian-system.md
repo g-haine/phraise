@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Gabriel Payen](authors/gabriel_payen), [Denis Matignon](authors/denis_matignon), [Ghislain Haine](authors/ghislain_haine)
+[Gabriel Payen](authors/gabriel-payen), [Denis Matignon](authors/denis-matignon), [Ghislain Haine](authors/ghislain-haine)
  
 ## Abstract
 The modelling and discretization of the boundary controlled 3D Maxwell’s equations as a port-Hamiltonian system is addressed. The proposed scheme, based on the Partitioned Finite Element Method (PFEM), originally proposed in Cardoso-Ribeiro et al. (2018), preserves the Dirac structure at the discrete level. Two types of damping phenomena are taken into account: Joule’s effect, and a matrix-valued impedance at the boundary, both being preserved by PFEM, as presented in Serhani et al. (2019a).

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Daniel Sbarbaro](authors/daniel_sbarbaro)
+[Daniel Sbarbaro](authors/daniel-sbarbaro)
  
 ## Abstract
 Electrochemical processes play an important role in many natural and technological processes; such as, mineral refining, water purification, energy storage and generation. The port-Hamiltonian framework has been widely used for modeling and control design of mechanical and electro-mechanical systems. It has demonstrated to be an important tool to analyze and integrate models of different domains. This work discusses the modeling of isothermal electrochemical processes as port-Hamiltonian systems. Port-Hamiltonian models based on the Gibbs energy function are derived for two examples. They illustrate the main steps to obtain a port-Hamiltonian representation from molar and charge balance equations. Further work will consider non isothermal reactions and the analysis of system considering also diffusion phenomena.

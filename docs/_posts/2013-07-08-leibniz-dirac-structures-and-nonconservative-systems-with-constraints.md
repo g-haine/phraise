@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Ünver Çiftçi](authors/unver_ciftci)
+[Ünver Çiftçi](authors/unver-ciftci)
  
 ## Abstract
 Although conservative Hamiltonian systems with constraints can be formulated in terms of Dirac structures, a more general framework is necessary to cover also dissipative systems such as gradient and metriplectic systems with constraints. We define Leibniz-Dirac structures which lead to a natural generalization of Dirac and Riemannian structures, for instance. From modeling point of view, Leibniz-Dirac structures make it easy to formulate implicit dissipative Hamiltonian systems. We give their exact characterization in terms of vector bundle maps from the tangent bundle to the cotangent bundle and vice verse. Physical systems which can be formulated in terms of Leibniz-Dirac structures are discussed.

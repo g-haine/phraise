@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[M. Zakwan](authors/muhammad_zakwan), [L. Di Natale](authors/l_di_natale), [B. Svetozarevic](authors/b_svetozarevic), [P. Heer](authors/p_heer), [C.N. Jones](authors/c_n_jones), [G. Ferrari Trecate](authors/g_ferrari_trecate)
+[M. Zakwan](authors/muhammad-zakwan), [L. Di Natale](authors/l-di-natale), [B. Svetozarevic](authors/b-svetozarevic), [P. Heer](authors/p-heer), [C.N. Jones](authors/c-n-jones), [G. Ferrari Trecate](authors/g-ferrari-trecate)
  
 ## Abstract
 Despite the immense success of neural networks in modeling system dynamics from data, they often remain physics-agnostic black boxes. In the particular case of physical systems, they might consequently make physically inconsistent predictions, which makes them unreliable in practice. In this paper, we leverage the framework of Irreversible port-Hamiltonian Systems (IPHS), which can describe most multi-physics systems, and rely on Neural Ordinary Differential Equations (NODEs) to learn their parameters from data. Since IPHS models are consistent with the first and second principles of thermodynamics by design, so are the proposed Physically Consistent NODEs (PC-NODEs). Furthermore, the NODE training procedure allows us to seamlessly incorporate prior knowledge of the system properties in the learned dynamics. We demonstrate the effectiveness of the proposed method by learning the thermodynamics of a building from the real-world measurements and the dynamics of a simulated gas-piston system. Thanks to the modularity and flexibility of the IPHS framework, PC-NODEs can be extended to learn physically consistent models of multi-physics distributed systems.

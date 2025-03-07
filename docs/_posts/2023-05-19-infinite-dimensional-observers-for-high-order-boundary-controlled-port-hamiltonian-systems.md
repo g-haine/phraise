@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Jesus-Pablo Toledo-Zucco](authors/jesus_pablo_toledo_zucco), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Jesus-Pablo Toledo-Zucco](authors/jesus-pablo-toledo-zucco), [Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This letter investigates the design of a class of infinite-dimensional observers for one dimensional (1D) boundary controlled port-Hamiltonian systems (BC-PHS) defined by differential operators of order  \\( N \geq 1 \\) . The convergence of the proposed observer depends on the number and location of available boundary measurements. Asymptotic convergence is assured for  \\( N\geq 1 \\) , and provided that enough boundary measurements are available, exponential convergence can be assured for the cases  \\( N=1 \\)  and  \\( N=2 \\) . Furthermore, in the case of partitioned BC-PHS with  \\( N=2 \\) , such as the Euler-Bernoulli beam, it is shown that exponential convergence can be assured considering less available measurements. The Euler-Bernoulli beam model is used to illustrate the design of the proposed observers and to perform numerical simulations.

@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Kirsten Morris](authors/kirsten_morris)
+[Kirsten Morris](authors/kirsten-morris)
  
 ## Abstract
 A number of applications involving wave propagation are asymptotically stable, but the decay rate of the mode does not increase with increasing wave number. Applications include electrical transmission, acoustic waves and water waves. There are many different approximation methods for these systems that are fine for simulation. But the qualitative behaviour of the approximated eigenvalues can be quite different. Controller and estimator design with different approximations can yield different results. A number of partial differential equations (PDEs) are derived using Hamilton’s principle. This provides information about the energy of the system that can be a guideline in establishing well-posedness on an appropriate state space. Recent work on a port-Hamiltonian approach to approximation shows promise in obtaining finite-dimensional approximations that are useful for control and estimation. A key feature of the port-Hamiltonian approach is careful attention to how the energy in the system is modelled and approximated. How does this approach compare to more traditional approaches to scientific computation? In particular, what are the similarities and what are the differences? These questions will be examined in the talk, and in discussion, through several relatively simple examples.

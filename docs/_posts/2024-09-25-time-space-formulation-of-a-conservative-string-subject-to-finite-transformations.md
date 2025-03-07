@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[David Roze](authors/david_roze), [Thomas Hélie](authors/thomas_helie), [Emmanuelle Rouhaud](authors/emmanuelle_rouhaud)
+[David Roze](authors/david-roze), [Thomas Hélie](authors/thomas-helie), [Emmanuelle Rouhaud](authors/emmanuelle-rouhaud)
  
 ## Abstract
 This paper investigates power-balanced descriptions of the conservative vibrating string. First, the hypotheses of continuum mechanics are recalled for the case of infinitesimal transformations. The string is described by classical partial differential equations (PDEs) and reformulated as a port Hamiltonian system (PHS). Second, the case of finite (possibly large) transformations is considered, for which the time variation of the elastic energy appears to be no longer the elastic power. To naturally solve this difficulty and ensure the invariance of the elastic power with respect to the superposition of rigid body motion, the problem is here addressed in the framework of a time-space formulation. Eulerian and Lagrangian conservative formulations are proposed in the context of non relativistic velocities. This work also yields perspectives for a time-space representation of a port-Hamiltonian vibrating string invariant to the change of observer in a relativistic context.

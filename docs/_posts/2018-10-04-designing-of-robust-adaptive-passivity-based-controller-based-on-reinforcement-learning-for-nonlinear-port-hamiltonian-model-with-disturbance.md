@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[A. Gheibi](authors/a_gheibi), [A. R. Ghiasi](authors/a_r_ghiasi), [S. Ghaemi](authors/s_ghaemi), [M. A. Badamchizadeh](authors/m_a_badamchizadeh)
+[A. Gheibi](authors/a-gheibi), [A. R. Ghiasi](authors/a-r-ghiasi), [S. Ghaemi](authors/s-ghaemi), [M. A. Badamchizadeh](authors/m-a-badamchizadeh)
  
 ## Abstract
  The passivity-based control (PBC) is not robust and it relies upon the system model. Moreover, partial differential equations (PDE) are encountered during its designing process which are difficult to be solved and in some cases unfeasible. In this article, reinforcement learning (RL) designs the PBC parameters via solving PDE online. RL and adaptive control are employed in order to make the nonlinear closed-loop system robust against the disturbance and model uncertainty. Through the utilisation of adaptive control technique, the passivity-based controller design along with learning could be executed as though the disturbance within the system could also be eliminated. The simulations and the comparison made with the previous methods manifest the greater advantage and superiority of the proposed method.

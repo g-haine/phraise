@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Jorgen K. Johnsen](authors/jorgen_k_johnsen), [Florian Dorfler](authors/florian_dorfler), [Frank Allgower](authors/frank_allgower)
+[Jorgen K. Johnsen](authors/jorgen-k-johnsen), [Florian Dorfler](authors/florian-dorfler), [Frank Allgower](authors/frank-allgower)
  
 ## Abstract
 We consider the Lscr2-gain of nonlinear Port-Hamiltonian systems. Using the Hamiltonian and an additional scaling matrix, we show that an upper bound on the Lscr2-gain can be computed by solving a matrix inequality. The Lscr2-gain is typically used in combination with the small-gain theorem. In particular it can be used to guarantee robust stability with respect to gain-bounded model uncertainties. This application of the Lscr2-gain is demonstrated with a biochemical fermentation process where the specific cell growth rate is unknown but contained in a parameter interval.

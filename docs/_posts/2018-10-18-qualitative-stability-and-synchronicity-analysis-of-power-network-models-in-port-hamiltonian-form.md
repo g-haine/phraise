@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Volker Mehrmann](authors/volker_mehrmann), [Riccardo Morandin](authors/riccardo_morandin), [Simona Olmi](authors/simona_olmi), [Eckehard Schöll](authors/eckehard_scholl)
+[Volker Mehrmann](authors/volker-mehrmann), [Riccardo Morandin](authors/riccardo-morandin), [Simona Olmi](authors/simona-olmi), [Eckehard Schöll](authors/eckehard-scholl)
  
 ## Abstract
 In view of highly decentralized and diversified power generation concepts, in particular with renewable energies, the analysis and control of the stability and the synchronization of power networks is an important topic that requires different levels of modeling detail for different tasks. A frequently used qualitative approach relies on simplified nonlinear network models like the Kuramoto model with inertia. The usual formulation in the form of a system of coupled ordinary differential equations is not always adequate. We present a new energy-based formulation of the Kuramoto model with inertia as a polynomial port-Hamiltonian system of differential-algebraic equations, with a quadratic Hamiltonian function including a generalized order parameter. This leads to a robust representation of the system with respect to disturbances: it encodes the underlying physics, such as the dissipation inequality or the deviation from synchronicity, directly in the structure of the equations, and it explicitly displays all possible constraints and allows for robust simulation methods. The model is immersed into a system of model hierarchies that will be helpful for applying adaptive simulations in future works. We illustrate the advantages of the modified modeling approach with analytics and numerical results.

@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Marko Seslija](authors/marko_seslija), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Marko Seslija](authors/marko-seslija), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 Inspired by the recent developments in modeling and analysis of reaction networks, we provide a geometric formulation of the reversible reaction networks under the influence of diffusion. Using the graph knowledge of the underlying reaction network, the obtained reaction–diffusion system is a distributed-parameter port-Hamiltonian system on a compact spatial domain. Motivated by the need for computer-based design, we offer a spatially consistent discretization of the PDE system and, in a systematic manner, recover a compartmental ODE model on a simplicial triangulation of the spatial domain. Exploring the properties of a balanced weighted Laplacian matrix of the reaction network and the Laplacian of the simplicial complex, we characterize the space of equilibrium points and provide a simple stability analysis on the state space modulo the space of equilibrium points. The paper rules out the possibility of the persistence of spatial patterns for the compartmental balanced reaction–diffusion networks.

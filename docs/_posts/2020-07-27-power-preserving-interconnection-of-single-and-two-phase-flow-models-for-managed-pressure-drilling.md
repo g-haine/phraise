@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[M.H. Abbasi](authors/m_h_abbasi), [H. Bansal](authors/harshit_bansal), [H. Zwart](authors/hans_zwart), [L. Iapichino](authors/laura_iapichino), [W.H.A. Schilders](authors/wils_h_a_schilders), [N. van de Wouw](authors/nathan_van_de_wouw)
+[M.H. Abbasi](authors/m-h-abbasi), [H. Bansal](authors/harshit-bansal), [H. Zwart](authors/hans-zwart), [L. Iapichino](authors/laura-iapichino), [W.H.A. Schilders](authors/wils-h-a-schilders), [N. van de Wouw](authors/nathan-van-de-wouw)
  
 ## Abstract
 Many complex systems are modeled by a network of different subsystems, each having their underlying mathematical model representations. Energy-based modeling of each of these subsystems can yield a port-Hamiltonian (pH) representation. In this paper, a single-phase flow model, a dissipative mathematical component and a two-phase flow model are interconnected to model hydraulics for Managed Pressure Drilling (MPD) applications. These subsystems are interconnected in a power-preserving manner to build an aggregated pH system for real-life MPD scenarios. We prove that the interconnection junction connecting the single- and two-phase flow models is conditionally power-preserving.

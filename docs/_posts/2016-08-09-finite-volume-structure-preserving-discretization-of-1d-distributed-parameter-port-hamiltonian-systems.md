@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka)
+[Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 A family of finite-dimensional approximate models is proposed which preserves the port-Hamiltonian structure of a class of open systems of conservation laws. The approach is based on conservative generalized leapfrog schemes with given consistency orders in terms of their stencil. The finite volume perspective fits naturally to the formulation of the conservation laws on staggered grids. Some observations on current structure-preserving discretization methods are discussed and related to the proposed approach. A frequently used benchmark example highlights some of the method’s properties and differences to existing structure-preserving schemes.

@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper deals with the stabilizing control design for a class of micro-grippers for DNA manipulation using boundary controlled infinite-dimensional port-Hamiltonian systems. In practical applications, the controllers are implemented as finite-dimensional systems actuating at the boundaries of an infinite-dimensional system. The design of the finite-dimensional controllers is still a challenge, especially for hyperbolic PDEs. For this purpose, the LQG balancing reduction method is suitable for the reduced order control design since it considers the closed loop behavior in the reduction procedure. This paper presents the application of this recently proposed method combined with integral action in order to improve the robustness of the closed-loop system. It is shown by means of simulation that the addition of integral action effectively rejects constant perturbations while assuring global closed-loop stability.

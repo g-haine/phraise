@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Fernando Sanhueza](authors/fernando_sanhueza), [Francisco Vargas](authors/francisco_vargas), [Hector Ramirez](authors/hector_ramirez), [Andrés Peters](authors/andres_peters)
+[Fernando Sanhueza](authors/fernando-sanhueza), [Francisco Vargas](authors/francisco-vargas), [Hector Ramirez](authors/hector-ramirez), [Andrés Peters](authors/andres-peters)
  
 ## Abstract
 This paper deals with platooning modeling considering the force provoked by the air drag in each vehicle. The proposed model is derived using a port-Hamiltonian approach in order to ensure the passivity of the whole system. The relation between the desired platooning formation and its implication on the air drag effect is highlighted. Simulation results illustrate the effect of air drag on the platoon behavior. The results of this work could serve as a basis for a platooning control scheme that explicitly includes the air drag force, as a function of the desired inter-vehicle distance, in the control loop.

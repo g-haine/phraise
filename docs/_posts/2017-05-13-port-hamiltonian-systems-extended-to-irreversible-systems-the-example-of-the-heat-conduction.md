@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[D. Eberard](authors/damien_eberard), [B. Maschke](authors/bernhard_maschke)
+[D. Eberard](authors/damien-eberard), [B. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 In previous work we have proposed a port Hamiltonian formulation of distributed parameter systems with boundary energy flow. These port Hamiltonian systems are defined with respect to a Dirac structure, called Stokes-Dirac structure, in some product space of exterior differential forms. In this paper we show how to extend this formulation to irreversible thermodynamic systems on the example of the heat conduction model. The geometric structure defining the dynamics is shown to be constituted by a Dirac structure constrained on some on its port variables by nonlinear relations associated with the irreversible entropy creation in the system.

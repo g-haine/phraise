@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Gou Nishida](authors/gou_nishida), [Kenji Fujimoto](authors/kenji_fujimoto), [Daiji Ichishima](authors/daiji_ichishima)
+[Gou Nishida](authors/gou-nishida), [Kenji Fujimoto](authors/kenji-fujimoto), [Daiji Ichishima](authors/daiji-ichishima)
  
 ## Abstract
 This paper derives a scalable reduction of an elastic continuum for boundary energy control methods in terms of the statistical identification of coarse-grained molecular dynamics. Such an identified molecular dynamics, called renormalized molecular dynamics, is used for fast numerical calculations as well as for modeling large targets, even though the numerical molecular dynamics calculations are very time-consuming. The coarse graining can be described as a parameter scaling in the Hamiltonian system of renormalized molecular dynamics, and thus a renormalized Hamiltonian system can be defined by the scalable Hamiltonian. At the inverse limit of the coarse graining, the renormalized Hamiltonian system can be transformed into a distributed port-Hamiltonian system that is a formal representation of partial differential equations for boundary controls based on energy flows. By introducing the concept of the controls to each coarse graining level, the renormalized Hamiltonian systems can be used as a scalabl...

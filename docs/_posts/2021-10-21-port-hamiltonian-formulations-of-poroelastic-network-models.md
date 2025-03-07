@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[R. Altmann](authors/r_altmann), [V. Mehrmann](authors/volker_mehrmann), [B. Unger](authors/benjamin_unger)
+[R. Altmann](authors/r-altmann), [V. Mehrmann](authors/volker-mehrmann), [B. Unger](authors/benjamin-unger)
  
 ## Abstract
  We investigate an energy-based formulation of the two-field poroelasticity model and the related multiple-network model as they appear in geosciences or medical applications. We propose a port-Hamiltonian formulation of the system equations, which is beneficial for preserving important system properties after discretization or model-order reduction. For this, we include the commonly omitted second-order term and consider the corresponding first-order formulation. The port-Hamiltonian formulation of the quasi-static case is then obtained by (formally) setting the second-order term zero. Further, we interpret the poroelastic equations as an interconnection of a network of submodels with internal energies, adding a control-theoretic understanding of the poroelastic equations.

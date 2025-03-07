@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Juan I. Yuz](authors/juan_i_yuz), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Luis A. Mora](authors/luis-a-mora), [Juan I. Yuz](authors/juan-i-yuz), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 Fluid-structure interaction models are of special interest for studying the energy transfer between the moving fluid and the mechanical structure in contact. The vocal folds are an example of a fluid-structure system, where the mechanical structure is usually modeled as a mass-spring-damper system. In particular, the estimation of the collision forces of the vocal folds is of high interest in the diagnosis of phonotraumatic voice pathologies. In this context, the port-Hamiltonian modeling framework focuses on the energy flux in the model and the interacting forces. In this paper, we develop a port-Hamiltonian fluid-structure interaction model based on the interconnection methodology proposed by Lopes and Hélie (2016).

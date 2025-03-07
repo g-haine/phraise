@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Jesus Toledo](authors/jesus_pablo_toledo_zucco), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Jesus Toledo](authors/jesus-pablo-toledo-zucco), [Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper investigates the observer design for the 1D boundary controlled port-Hamiltonian systems (BC-PHS) using the late lumping approach. Different observers are proposed for BC-PHS with different measured boundary variables. Based on the passivity propriety of the BC-PHS, sufficient conditions of the observer error convergence are provided for the different proposed observers. The wave equation is used to illustrate the effectiveness of the proposed observers with different boundary sensing.

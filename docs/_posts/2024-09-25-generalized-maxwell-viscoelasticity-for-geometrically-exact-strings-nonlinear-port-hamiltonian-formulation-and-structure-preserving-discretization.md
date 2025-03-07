@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[P.L. Kinon](authors/philipp_l_kinon), [T. Thoma](authors/tobias_thoma), [P. Betsch](authors/peter_betsch), [P. Kotyczka](authors/paul_kotyczka)
+[P.L. Kinon](authors/philipp-l-kinon), [T. Thoma](authors/tobias-thoma), [P. Betsch](authors/peter-betsch), [P. Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 This contribution proposes a nonlinear and dissipative infinite-dimensional port-Hamiltonian (PH) model for the dynamics of geometrically exact strings. The mechanical model provides a description of large deformations including finite elastic and inelastic strains in a generalized Maxwell model. It is shown that the overall system results from a power-preserving interconnection of PH subsystems. By using a structure-preserving mixed finite element approach, a finite-dimensional PH model is derived. Eventually, midpoint discrete derivatives are employed to deduce an energy-consistent time-stepping method, which inherits discrete-time dissipativity for the irreversible system. An example simulation illustrates the numerical properties of the present approach.

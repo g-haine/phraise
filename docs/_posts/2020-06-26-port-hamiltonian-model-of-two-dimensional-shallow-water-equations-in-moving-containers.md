@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger)
  
 ## Abstract
 The free surface motion in moving containers is an important physical phenomenon for many engineering applications. One way to model the free surface motion is by employing shallow water equations (SWEs). The port-Hamiltonian systems formulation is a powerful tool that can be used for modeling complex systems in a modular way. In this work, we extend previous work on SWEs using the port-Hamiltonian formulation, by considering the two-dimensional equations under rigid body motions. The resulting equations consist of a mixed-port-Hamiltonian system, with finite and infinite-dimensional energy variables and ports. 2000 Math Subject Classification: 34K30, 35K57, 35Q80, 92D25

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Weijun Zhou](authors/weijun_zhou), [Zishi Xu](authors/zishi_xu), [Yongxin Wu](authors/yongxin_wu), [Ji Xiang](authors/ji_xiang), [Yanjun Li](authors/yanjun_li)
+[Weijun Zhou](authors/weijun-zhou), [Zishi Xu](authors/zishi-xu), [Yongxin Wu](authors/yongxin-wu), [Ji Xiang](authors/ji-xiang), [Yanjun Li](authors/yanjun-li)
  
 ## Abstract
 In this paper, a novel energy-based trajectory tracking control strategy for under-actuated unmanned surface vessels (USVs) in the presence of unknown environmental disturbances is presented. The port-Hamiltonian framework is utilized to propose a passivity-based control model in body-fixed coordinates of the USVs. An adaptive disturbance estimation method is detailed and used to accurately estimate the environmental disturbances affecting USV motion. Furthermore, a passive and Hamiltonian structure-preserving controller is employed to achieve the desired trajectory of the USV system, and the stability of the desired target dynamic system is rigorously proven. The effectiveness of the proposed controller is demonstrated through simulations and experiments on a USV experimental platform, showcasing its capability of trajectory tracking performance and mitigating the effects of disturbances.

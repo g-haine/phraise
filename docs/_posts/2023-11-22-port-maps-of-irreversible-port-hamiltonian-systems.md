@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Bernhard Maschke](authors/bernhard_maschke), [Jonas Kirchhoff](authors/jonas_kirchhoff)
+[Bernhard Maschke](authors/bernhard-maschke), [Jonas Kirchhoff](authors/jonas-kirchhoff)
  
 ## Abstract
 Irreversible Port Hamiltonian Systems are a deviation from Port Hamiltonian Systems which embeds the definition of the irreversible phenomena taking place in the system. They are defined with respect to a quasi-Poisson bracket which ensures the positiveness of the entropy generation and is expressed in terms of the total entropy of the system. The port maps, however, associated with the conjugated port variables, were poorly justified and lacked any physical characterization. In this paper, we suggest a novel definition of the port maps which allows to recover not only the energy balance equation (when the Hamiltonian equals the total energy of the system) but also a entropy balance equation including the irreversible entropy creation term at the interface (the port) of the system in addition to the entropy creation term due to internal irreversible phenomena.

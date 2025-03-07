@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Nelson Cisneros](authors/nelson_cisneros), [Yongxin Wu](authors/yongxin_wu), [Kanty Rabenorosoa](authors/kanty_rabenorosoa), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Nelson Cisneros](authors/nelson-cisneros), [Yongxin Wu](authors/yongxin-wu), [Kanty Rabenorosoa](authors/kanty-rabenorosoa), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper is concerned with the modeling and control of a curling Hydraulically Amplified Self-healing Electrostatic (HASEL) actuator using the port-Hamiltonian (PH) approach. For that purpose, we use a modular approach and consider the HASEL actuator as an interconnection of elementary subsystems. Each subsystem is modeled by an electrical component consisting of a capacitor in parallel with an inductor connected through the conservation of volume of the moving liquid to a mechanical structure based on inertia, linear, and torsional springs. The parameters are then identified, and the model is validated on the experimental setup. Position control is achieved by using Interconnection and Damping Assignment-Passivity Based Control (IDA-PBC) with integral action (IA) for disturbance rejection. Simulation results show the Efficiency of the proposed controller.

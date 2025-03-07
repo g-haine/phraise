@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Alejandro Donaire](authors/alejandro_donaire), [Sergio Junco](authors/sergio_junco)
+[Alejandro Donaire](authors/alejandro-donaire), [Sergio Junco](authors/sergio-junco)
  
 ## Abstract
 This paper presents methods to obtain models in the form of Input-State-Output Port-Hamiltonian Systems from causal nonlinear bond graph models. This is done first establishing equivalences among key variables in both domains through the comparison of the expressions of the stored system energy in both formalisms. Later, with the help of the general field-representation of bond graphs and its associated standard implicit form, the functions characterizing this class of Port-Hamiltonian Systems, i.e., interconnection, dissipation and input/output matrices, as well as their properties, are immediately expressed in terms of bond graphs parameters. Under suitable assumptions, the method supports the direct derivation of Input-State-Output Port-Hamiltonian Systems – which is an explicit type of PHS – even from bond graphs having causally coupled dissipators and storages in derivative causality, which are known to imply algebraic and implicit differential equations. The methods are illustrated with some application examples covering different causal situations. Besides its intrinsic interest as a technique for model conversion, the contribution is seen as a useful step towards implementing Port-Hamiltonian based control system design methods with the support of BG techniques.

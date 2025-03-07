@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Benjamin Vincent](authors/benjamin_vincent), [Françoise Couenne](authors/francoise_couenne), [Laurent Lefèvre](authors/laurent_lefevre), [Bernhard Maschke](authors/bernhard_maschke)
+[Benjamin Vincent](authors/benjamin-vincent), [Françoise Couenne](authors/francoise-couenne), [Laurent Lefèvre](authors/laurent-lefevre), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 In this paper, we give a formulation of distributed parameter systems with a moving diffuse interface using the Port Hamiltonian formalism. For this purpose, we suggest to use the phase field modeling approach. In the first part we recall the phase field models, in particular the Cahn–Hilliard and Allen–Cahn equations, and show that they may be expressed in terms of a dissipative Hamiltonian system. In the second part we show how this Hamiltonian model may be extended to a Boundary Port Hamiltonian System and illustrate the construction on the example of crystallization.

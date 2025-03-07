@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Omar Mouhib](authors/omar_mouhib), [Audrey Jardin](authors/audrey_jardin), [Wilfrid Marquis-Favre](authors/wilfrid_marquis_favre), [Eric Bideaux](authors/eric_bideaux), [Daniel Thomasset](authors/daniel_thomasset)
+[Omar Mouhib](authors/omar-mouhib), [Audrey Jardin](authors/audrey-jardin), [Wilfrid Marquis-Favre](authors/wilfrid-marquis-favre), [Eric Bideaux](authors/eric-bideaux), [Daniel Thomasset](authors/daniel-thomasset)
  
 ## Abstract
 This paper presents a new way to derive an optimal control system for a specific optimisation problem, based on bond graph formalism. The procedure proposed concerns the optimal control of linear time invariant MIMO systems and can deal with both cases of the integral performance index, these correspond to dissipative energy minimization and output error minimization. An augmented bond graph model is obtained starting from the bond graph model of the system associated with the optimal control problem. This augmented bond graph, consisting of the original model representation coupled to an optimizing bond graph, supplies, by its bicausal exploitation, the set of differential-algebraic equations that analytically give the solution to the optimal control problem without the need to develop the analytical steps of Pontryagin’s method. The proof uses the Pontryagin Maximum Principle applied to the port-Hamiltonian formulation of the system.

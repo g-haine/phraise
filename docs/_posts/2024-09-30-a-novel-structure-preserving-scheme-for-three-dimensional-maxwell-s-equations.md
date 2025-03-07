@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Chaolong Jiang](authors/chaolong_jiang), [Wenjun Cai](authors/wenjun_cai), [Yushun Wang](authors/yushun_wang), [Haochen Li](authors/haochen_li)
+[Chaolong Jiang](authors/chaolong-jiang), [Wenjun Cai](authors/wenjun-cai), [Yushun Wang](authors/yushun-wang), [Haochen Li](authors/haochen-li)
  
 ## Citation
 - **Journal:** CSIAM Transactions on Applied Mathematics

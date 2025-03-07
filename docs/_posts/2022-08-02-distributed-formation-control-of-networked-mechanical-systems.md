@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[N. Javanmardi](authors/najmeh_javanmardi), [P. Borja](authors/luis_pablo_borja), [M.J. Yazdanpanah](authors/mohammad_javad_yazdanpanah), [J.M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[N. Javanmardi](authors/najmeh-javanmardi), [P. Borja](authors/luis-pablo-borja), [M.J. Yazdanpanah](authors/mohammad-javad-yazdanpanah), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 This paper investigates a distributed formation tracking control law for large-scale networks of mechanical systems. In particular, the formation network is represented by a directed communication graph with leaders and followers, where each agent is described as a port-Hamiltonian system with a constant mass matrix. Moreover, we adopt a distributed parameter approach to prove the scalable asymptotic stability of the network formation, i.e., the scalability with respect to the network size and the specific formation preservation. A simulation case illustrates the effectiveness of the proposed control approach.

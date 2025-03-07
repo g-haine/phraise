@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Mohammad Shafiee](authors/mohammad_shafiee)
+[Mohammad Shafiee](authors/mohammad-shafiee)
  
 ## Abstract
 In this paper we study some aspects of the relationship between cosymplectic and symplectic structures. In particular, we show that similar to the symplectic case, one can prove a nonsqueezing theorem for cosymplectomorphisms onR2m+1. Using this nonsqueezing theorem, we can define the concept of “cosymplectic capacity”. We show that the set of all cosymplectic capacities on cosymplectic manifolds of dimension2m+1has a close relationship with the set of all symplectic capacities on symplectic manifolds of dimension 2m. Furthermore, we study the relationship between fixed points of cosymplectomorphisms and symplectomorphisms.

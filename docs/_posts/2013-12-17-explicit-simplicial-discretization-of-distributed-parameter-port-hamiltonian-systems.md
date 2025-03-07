@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Marko Seslija](authors/marko_seslija), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Marko Seslija](authors/marko-seslija), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 Simplicial Dirac structures as finite analogues of the canonical Stokes–Dirac structure, capturing the topological laws of the system, are defined on simplicial manifolds in terms of primal and dual cochains related by the coboundary operators. These finite-dimensional Dirac structures offer a framework for the formulation of standard input–output finite-dimensional port-Hamiltonian systems that emulate the behavior of distributed-parameter port-Hamiltonian systems. This paper elaborates on the matrix representations of simplicial Dirac structures and the resulting port-Hamiltonian systems on simplicial manifolds. Employing these representations, we consider the existence of structural invariants and demonstrate how they pertain to the energy shaping of port-Hamiltonian systems on simplicial manifolds.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel_ferguson), [Alejandro Donaire](authors/alejandro_donaire), [Richard H. Middleton](authors/richard_h_middleton)
+[Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire), [Richard H. Middleton](authors/richard-h-middleton)
  
 ## Abstract
 In this paper we present a method for the addition of integral action to nonpassive outputs of a class of port-Hamiltonian (pH) systems. The proposed integral controller is a dynamic extension, constructed from the open-loop system, such that the closed loop preserves the pH form. It is shown that the controller is able to reject the effects of both matched and unmatched disturbances, preserving the regulation of the nonpassive outputs. Previous solutions to this problem have relied on a change of coordinates whereas the presented solution is developed using the original state vector and, therefore, retains its physical interpretation. In addition, the resulting closed-loop dynamics have a natural interpretation as a control by interconnection scheme.

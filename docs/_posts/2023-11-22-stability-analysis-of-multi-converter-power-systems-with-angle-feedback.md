@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Alejandro Garcés](authors/alejandro_garces_ruiz), [Sofía Avila-Becerril](authors/sofia_avila_becerril), [Gerardo Espinosa-Pérez](authors/gerardo_espinosa_perez)
+[Alejandro Garcés](authors/alejandro-garces-ruiz), [Sofía Avila-Becerril](authors/sofia-avila-becerril), [Gerardo Espinosa-Pérez](authors/gerardo-espinosa-perez)
  
 ## Abstract
 This paper presents a stability analysis for inverter-based renewable resources in multi-converter power systems. Stability conditions are obtained based on the port-Hamiltonian structure of the droop control in grid-forming converters. We show that conventional grid-forming converters have a port-Hamiltonian structure in the multi-converter power system. A simple and direct estimation of the region of attraction is obtained. In addition, we proposed droop control with an angle feedback that ties two converters in order to improve transient response. This control maintains the port-Hamiltonian structure and hence the stability properties of the conventional droop. Numerical experiments show the accuracy of the model and the superior performance of the proposed control.

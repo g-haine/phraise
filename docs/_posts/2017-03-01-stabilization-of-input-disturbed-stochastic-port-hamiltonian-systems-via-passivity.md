@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Zhou Fang](authors/zhou_fang), [Chuanhou Gao](authors/chuanhou_gao)
+[Zhou Fang](authors/zhou-fang), [Chuanhou Gao](authors/chuanhou-gao)
  
 ## Abstract
 It is a universal phenomenon that the inputs of a real stochastic process are disturbed. However, this phenomenon is often ignored when stochastic port-Hamiltonian system (SPHS) is used for modeling, in which only the disturbance on the states is considered. For this reason, an extension of SPHS, named input-disturbed SPHS (Id-SPHS), is proposed to describe the inputs disturbance as well as the states one. The definition and some properties of Id-SPHS, including structure invariance and stochastic passivity, are presented one by one to construct the basic framework of Id-SPHS. Based on this framework, a passivity-based controller is further developed to stabilize Id-SPHS at its steady state. The control strategy is demonstrated in a thermodynamic heat conduction process with the results supporting strongly the proposed Id-SPHS theory.

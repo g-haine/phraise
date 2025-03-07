@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Chengxing Lv](authors/chengxing_lv), [Zichen Wang](authors/zichen_wang), [Ying Zhang](authors/ying_zhang), [Jian Chen](authors/jian_chen), [Haisheng Yu](authors/haisheng_yu)
+[Chengxing Lv](authors/chengxing-lv), [Zichen Wang](authors/zichen-wang), [Ying Zhang](authors/ying-zhang), [Jian Chen](authors/jian-chen), [Haisheng Yu](authors/haisheng-yu)
  
 ## Abstract
 A novel state error passivity-based cooperative formation controller is proposed for multiple unmanned surface vessels (MUSVs) with complete environments. An energy consumption model is constructed for the MUSVs to elucidate the energy consumption. Firstly, the multiple unmanned surface vessels model is tailored to a new dynamical model as a multiple port Hamiltonian framework. Then, a passivity-based cooperative formation controller is proposed by combining a state error port Hamiltonian controller, an improved leader–follower composite distributed protocol, and a nonlinear disturbances observer. We address the cooperative formation control of multiple USVs by using the port-Hamiltonian framework. Nonlinear disturbances observer is designed to estimate the external disturbances. A smooth function is combined to handle the system input saturation. The controller performances are illustrated by some scenario experiments. The proposed novel controller can archive the cooperative formation of the MUSVs, and effectively improve the integrated system endurance time.

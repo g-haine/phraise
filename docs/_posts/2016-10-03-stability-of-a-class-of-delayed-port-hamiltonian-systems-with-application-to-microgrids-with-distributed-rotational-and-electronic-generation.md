@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Johannes Schiffer](authors/johannes_schiffer), [Emilia Fridman](authors/emilia_fridman), [Romeo Ortega](authors/romeo_ortega), [Jörg Raisch](authors/jorg_raisch)
+[Johannes Schiffer](authors/johannes-schiffer), [Emilia Fridman](authors/emilia-fridman), [Romeo Ortega](authors/romeo-ortega), [Jörg Raisch](authors/jorg-raisch)
  
 ## Abstract
 Motivated by the problem of stability in droop-controlled microgrids with delays, we consider a class of port-Hamiltonian systems with delayed interconnection matrices. For this class of systems, delay-dependent stability conditions are derived via the Lyapunov–Krasovskii method. The theoretical results are applied to an exemplary microgrid with distributed rotational and electronic generation and illustrated via a simulation example. The stability analysis is complemented by providing an estimate of the region of attraction of a microgrid with delays.

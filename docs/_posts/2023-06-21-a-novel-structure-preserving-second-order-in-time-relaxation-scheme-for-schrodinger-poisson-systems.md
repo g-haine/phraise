@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Agissilaos Athanassoulis](authors/agissilaos_athanassoulis), [Theodoros Katsaounis](authors/theodoros_katsaounis), [Irene Kyza](authors/irene_kyza), [Stephen Metcalfe](authors/stephen_metcalfe)
+[Agissilaos Athanassoulis](authors/agissilaos-athanassoulis), [Theodoros Katsaounis](authors/theodoros-katsaounis), [Irene Kyza](authors/irene-kyza), [Stephen Metcalfe](authors/stephen-metcalfe)
  
 ## Citation
 - **Journal:** Journal of Computational Physics

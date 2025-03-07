@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Volker Mehrmann](authors/volker_mehrmann), [Paul Van Dooren](authors/paul_m_van_dooren)
+[Volker Mehrmann](authors/volker-mehrmann), [Paul Van Dooren](authors/paul-m-van-dooren)
  
 ## Abstract
 When computing the eigenstructure of matrix pencils associated with the passivity analysis of perturbed port-Hamiltonian descriptor system using a structured generalized eigenvalue method, one should make sure that the computed spectrum satisfies the symmetries that corresponds to this structure and the underlying physical system. We perform a backward error analysis and show that for matrix pencils associated with port-Hamiltonian descriptor systems and a given computed eigenstructure with the correct symmetry structure there always exists a nearby port-Hamiltonian descriptor system with exactly that eigenstructure. We also derive bounds for how near this system is and show that the stability radius of the system plays a role in that bound.

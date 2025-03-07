@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Edgar Perez Ayala](authors/edgar_perez_ayala), [Yongxin Wu](authors/yongxin_wu), [Kanty Rabenorosoa](authors/kanty_rabenorosoa), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Edgar Perez Ayala](authors/edgar-perez-ayala), [Yongxin Wu](authors/yongxin-wu), [Kanty Rabenorosoa](authors/kanty-rabenorosoa), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This article presents an energy-based modeling and control design method for a piezotube actuated optical fiber. A nonlinear infinite dimensional port Hamiltonian (pH) formulation of the 3-D flexible optical fiber is derived from the Cosserat rod dynamical equations. Then, the proposed infinite dimensional model is discretized using a pH structure and passivity preserving discretization method for the simulation and control design. This model is then validated against experimental data obtained using a built-in experimental setup equipped with a MEMS Analyzer. A complete pH formulation of the piezotube actuated optical fiber is proposed, combining the Cosserat rod model and actuator dynamics. This model is used for the end-point path control design using an interconnection and damping assignment passivity based control (IDA-PBC) method. Both the proposed pH model of the overall system and the controller are validated in simulation and against experimental results.

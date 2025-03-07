@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Ngoc Minh Trang Vu](authors/ngoc_minh_trang_vu), [Laurent Lefèvre](authors/laurent_lefevre), [Bernhard Maschke](authors/bernhard_maschke)
+[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Laurent Lefèvre](authors/laurent-lefevre), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
  A thermo-magneto-hydrodynamics port-Hamiltonian model is derived for the plasmas in tokamaks. Electromagnetic field and material domain balance equations are expressed in covariant forms, together with the magneto-hydrodynamics interconnection structure connecting them together. The balance equations for the entropy, mass and momentum, as well as closure equations in the material domain, are derived from the Boltzmann equation (kinetic theory). The Gibbs–Duhem equation is used to compute the irreversible entropy source term and to define the interdomain ℜ-field of the model. All derived interdomain couplings in the material domain are represented using Dirac and Stokes–Dirac structures and the resistivity ℜ-field structure. The complete model is summarized in a Bond Graph.

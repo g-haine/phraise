@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit_jacob), [Kirsten A. Morris](authors/kirsten_morris), [Hans Zwart](authors/hans_zwart)
+[Birgit Jacob](authors/birgit-jacob), [Kirsten A. Morris](authors/kirsten-morris), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
 The zero dynamics of infinite-dimensional systems can be difficult to characterize. The zero dynamics of boundary control systems are particularly problematic. In this paper the zero dynamics of port-Hamiltonian systems are studied. A complete characterization of the zero dynamics for port-Hamiltonian systems with invertible feedthrough as another port-Hamiltonian system on the same state space is given. It is shown that the zero dynamics for any port-Hamiltonian system with commensurate wave speeds are a well-posed system, and are also a port-Hamiltonian system. Examples include wave equations with uniform wave speed on a network. A constructive procedure for calculation of the zero dynamics that can be used for very large system order is provided.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Rostyslav V. Polyuga](authors/rostyslav_v_polyuga)
+[Rostyslav V. Polyuga](authors/rostyslav-v-polyuga)
  
 ## Citation
 - **Journal:** European Journal of Control

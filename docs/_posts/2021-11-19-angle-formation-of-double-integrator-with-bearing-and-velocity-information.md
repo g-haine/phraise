@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Ningbo Li](authors/ningbo_li), [Pablo Borja](authors/luis_pablo_borja), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Liangming Chen](authors/liangming_chen)
+[Ningbo Li](authors/ningbo-li), [Pablo Borja](authors/luis-pablo-borja), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Liangming Chen](authors/liangming-chen)
  
 ## Abstract
 This paper proposes a passivity-based approach using bearing and velocity information for a triangular formation control with the interaction topology constrained by angles. The controller framework is designed using virtual couplings on the relative measurements related to the edges. The different measurements associated with the edges are mapped by the measurement Jacobian, which is calculated by the time-evolution of the measurement. To avoid unavailable distance measurements in the control law, an estimator is designed based on port-Hamiltonian theory using bearing and velocity measurements. The stability analysis of the closed-loop system is provided and simulations are performed to illustrate the effectiveness of the approach.

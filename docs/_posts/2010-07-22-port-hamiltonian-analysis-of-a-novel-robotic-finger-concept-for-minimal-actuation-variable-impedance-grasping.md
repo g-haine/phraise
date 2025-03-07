@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Martin Wassink](authors/martin_wassink), [Raffaella Carloni](authors/raffaella_carloni), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Martin Wassink](authors/martin-wassink), [Raffaella Carloni](authors/raffaella-carloni), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 This paper introduces a novel robotic finger concept for variable impedance grasping in unstructured tasks. A brief literature survey reveals the need for minimal component designs and the benefits of impedance control schemes for interaction tasks such as grasping. The novel robotic finger concept supports these insights by combining three key features: minimal actuation, variable mechanical compliance and full manipulability. This combination of features allows for a minimal component design, while reducing control complexity and still providing required dexterity and grasping capabilities. The conceptual properties (such as variable compliance) are studied in a port-Hamiltonian framework. The framework proved to be suitable in analyzing and understanding the finger properties, which will be used for future controller design.

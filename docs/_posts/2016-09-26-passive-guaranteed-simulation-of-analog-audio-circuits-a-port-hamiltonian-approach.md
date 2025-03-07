@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Antoine Falaize](authors/antoine_falaize), [Thomas Hélie](authors/thomas_helie)
+[Antoine Falaize](authors/antoine-falaize), [Thomas Hélie](authors/thomas-helie)
  
 ## Abstract
 We present a method that generates passive-guaranteed stable simulations of analog audio circuits from electronic schematics for real-time issues. On one hand, this method is based on a continuous-time power-balanced state-space representation structured into its energy-storing parts, dissipative parts, and external sources. On the other hand, a numerical scheme is especially designed to preserve this structure and the power balance. These state-space structures define the class of port-Hamiltonian systems. The derivation of this structured system associated with the electronic circuit is achieved by an automated analysis of the interconnection network combined with a dictionary of models for each elementary component. The numerical scheme is based on the combination of finite differences applied on the state (with respect to the time variable) and on the total energy (with respect to the state). This combination provides a discrete-time version of the power balance. This set of algorithms is valid for both the linear and nonlinear case. Finally, three applications of increasing complexities are given: a diode clipper, a common-emitter bipolar-junction transistor amplifier, and a wah pedal. The results are compared to offline simulations obtained from a popular circuit simulator.

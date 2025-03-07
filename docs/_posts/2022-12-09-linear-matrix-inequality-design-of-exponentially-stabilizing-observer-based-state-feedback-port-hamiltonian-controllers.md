@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Jesus Pablo Toledo Zucco](authors/jesus_pablo_toledo_zucco), [Hector Ramirez](authors/hector_ramirez), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Jesus Pablo Toledo Zucco](authors/jesus-pablo-toledo-zucco), [Hector Ramirez](authors/hector-ramirez), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 The design of an observer-based state feedback controller with guaranteed passivity properties for port-Hamiltonian systems (PHS) is addressed using linear matrix inequalities (LMIs). The observer gain is freely chosen and the LMIs conditions such that the state feedback is equivalent to control by interconnection with an input strictly passive and/or an output strictly passive and zero-state detectable port-Hamiltonian controller are established. It is shown that the proposed controller exponentially stabilizes a class of infinite-dimensional PHS and asymptotically stabilizes a class of finite-dimensional nonlinear PHS. A Timoshenko beam model and a microelectromechanical system are used to illustrate the proposed approach.

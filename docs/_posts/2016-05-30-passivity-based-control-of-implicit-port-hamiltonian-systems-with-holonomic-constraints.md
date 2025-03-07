@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando_castanos), [Dmitry Gromov](authors/dmitry_gromov)
+[Fernando Castaños](authors/fernando-castanos), [Dmitry Gromov](authors/dmitry-gromov)
  
 ## Abstract
 Implicit port-Hamiltonian representations of mechanical systems are considered from a control perspective. Energy shaping is used for the purpose of stabilizing a desired equilibrium. When using implicit models, the problem turns out to be a simple quadratic programming problem (as opposed to the partial differential equations that need to be solved when using explicit representations). The described approach is generalized to address the problem of stabilization of homoclinic orbits thus leading to the formulation of swing-up strategies for underactuated systems.

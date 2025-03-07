@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Xiaoyu Cheng](authors/xiaoyu_cheng), [J.J.W. Van der Vegt](authors/jaap_j_w_van_der_vegt), [Yan Xu](authors/yan_xu), [H.J. Zwart](authors/hans_zwart)
+[Xiaoyu Cheng](authors/xiaoyu-cheng), [J.J.W. Van der Vegt](authors/jaap-j-w-van-der-vegt), [Yan Xu](authors/yan-xu), [H.J. Zwart](authors/hans-zwart)
  
 ## Abstract
 In this paper, we present port-Hamiltonian formulations of the incompressible Euler equations with a free surface governed by surface tension and gravity forces, modelling e.g. capillary and gravity waves and the evolution of droplets in air. Three sets of variables are considered, namely ( v , Σ ) , ( η , ϕ ∂ , Σ ) and ( ω , ϕ ∂ , Σ ) , with v the velocity, η the solenoidal velocity, ϕ ∂ a potential, ω the vorticity, and Σ the free surface, resulting in the incompressible Euler equations in primitive variables and the vorticity equation. First, the Hamiltonian formulation for the incompressible Euler equations in a domain with a free surface combined with a fixed boundary surface with a homogeneous boundary condition will be derived in the proper Sobolev spaces of differential forms. Next, these results will be extended to port-Hamiltonian formulations allowing inhomogeneous boundary conditions and a non-zero energy flow through the boundaries. Our main results are the construction and proof of Dirac structures in suitable Sobolev spaces of differential forms for each variable set, which provides the core of any port-Hamiltonian formulation. Finally, it is proven that the state dependent Dirac structures are related to Poisson brackets that are linear, skew-symmetric and satisfy the Jacobi identity.

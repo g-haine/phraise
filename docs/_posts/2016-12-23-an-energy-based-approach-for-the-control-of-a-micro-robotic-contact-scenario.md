@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Bilal Komati](authors/bilal_komati), [Yann Le Gorrec](authors/yann_le_gorrec), [Cédric Clévy](authors/cedric_clevy)
+[Hector Ramirez](authors/hector-ramirez), [Bilal Komati](authors/bilal-komati), [Yann Le Gorrec](authors/yann-le-gorrec), [Cédric Clévy](authors/cedric-clevy)
  
 ## Abstract
 Energy based approaches have proven to be specially well suited for the modeling and control of mechanical systems. Among these approaches the port-Hamiltonian framework presents interesting properties for the structural modeling of complex systems and for the design of non-linear controllers using passivity In this paper we use this framework to model a typical micro-robotic contact scenario and to propose a simple but effective globally stabilizing controller. The model and the controller take into account the transitions from a non-contact to a contact state (and the inverse) by the introduction of a non-linear (switching) contact element. A one degree of freedom experimental micro-robotic setup is used to test and illustrate the results.

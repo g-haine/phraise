@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli), [Claudio Melchiorri](authors/claudio_melchiorri)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Claudio Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 In this paper, the dynamical control of a mixed finite and infinite dimensional mechanical system is approached within the framework of port Hamiltonian systems. In particular, a flexible beam, modeled according to the Timoshenko theory and in distributed port Hamiltonian form, with a mass under gravity field connected at a free end, is considered. The control problem is approached by generalization of the concept of structural invariant (Casimir function) to the infinite dimensional case and the so-called control by interconnection technique is extended to the infinite dimensional case. In this way, finite dimensional passive controllers can stabilize distributed parameter systems by shaping their total energy, i.e., by assigning a new minimum in the desired equilibrium configuration that can be reached if a dissipation effect is introduced.

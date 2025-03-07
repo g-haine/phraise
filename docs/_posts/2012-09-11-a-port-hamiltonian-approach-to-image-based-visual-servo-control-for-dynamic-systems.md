@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Robert Mahony](authors/robert_mahony), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Robert Mahony](authors/robert-mahony), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
  This paper introduces a port-Hamiltonian framework for the design of image-based visual servo control for dynamic mechanical systems. The approach taken introduces the concept of an image effort and provides an interpretation of energy exchange between the dynamics of the physical system and virtual potentials or ‘image Hamiltonians’ posed in the image space. The port-Hamiltonian framework leads to an elegant algorithm to estimate unknown image depth on-line even when the translational velocity of the camera is not measured. 

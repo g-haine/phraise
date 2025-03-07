@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Ramy Rashad](authors/ramy_rashad), [Federico Califano](authors/federico_califano), [Andrea Brugnoli](authors/andrea_brugnoli), [Frederic P. Schuller](authors/frederic_p_schuller), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Ramy Rashad](authors/ramy-rashad), [Federico Califano](authors/federico-califano), [Andrea Brugnoli](authors/andrea-brugnoli), [Frederic P. Schuller](authors/frederic-p-schuller), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 In this paper we address the modeling of incompressible Navier-Stokes equations in the port-Hamiltonian framework. Such model not only allows describing the energy dissipation due to viscous effects but also incorporates the non-zero energy exchange through the boundary of the spatial domain for generic boundary conditions. We present in this work the coordinate-free representations of this port-Hamiltonian model using both exterior calculus and vector calculus as well as their corresponding coordinate-based descriptions.

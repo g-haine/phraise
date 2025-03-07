@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Francisco Del-Rio-Rivera](authors/francisco_del_rio_rivera), [Victor M. Ramirez-Rivera](authors/victor_m_ramirez_rivera), [Alejandro Donaire](authors/alejandro_donaire), [Joel Ferguson](authors/joel_ferguson)
+[Francisco Del-Rio-Rivera](authors/francisco-del-rio-rivera), [Victor M. Ramirez-Rivera](authors/victor-m-ramirez-rivera), [Alejandro Donaire](authors/alejandro-donaire), [Joel Ferguson](authors/joel-ferguson)
  
 ## Abstract
 In this paper we present a robust trajectory tracking control for a fully actuated marine surface vehicle. The tracking controller is obtained using a port-Hamiltonian model of the marine craft and includes an integral action to compensate for constant disturbances. The proposed approach adds damping into both the position and integrator coordinates, leading to input-to-state stability with respect to time-varying disturbances. We exemplify this controller with a simulation for an unmanned surface vehicle subjected to constant and time-varying wind disturbances. The tracking controller rejects the disturbances achieving global exponential stability for constant disturbances and input state stability for time-varying disturbances.

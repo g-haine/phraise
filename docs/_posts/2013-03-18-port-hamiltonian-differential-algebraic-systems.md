@@ -24,7 +24,7 @@ tags:
 ---
  
 ## Authors
-[A. J. van der Schaft](authors/arjan_van_der_schaft)
+[A. J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 The basic starting point of port-Hamiltonian systems theory is network modeling ; considering the overall physical system as the interconnection of simple subsystems, mutually influencing each other via energy flow. As a result of the interconnections algebraic constraints between the state variables commonly arise. This leads to the description of the system by differential-algebraic equations (DAEs), i.e., a combination of ordinary differential equations with algebraic constraints. The basic point of view put forward in this survey paper is that the differential-algebraic equations that arise are not just arbitrary, but are endowed with a special mathematical structure; in particular with an underlying geometric structure known as a Dirac structure. It will be discussed how this knowledge can be exploited for analysis and control.

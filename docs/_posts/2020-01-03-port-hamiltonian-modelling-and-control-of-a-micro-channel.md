@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Nelson Cisneros](authors/nelson_cisneros), [Hector Ramirez](authors/hector_ramirez), [Alejandro J. Rojas](authors/alejandro_jose_rojas)
+[Nelson Cisneros](authors/nelson-cisneros), [Hector Ramirez](authors/hector-ramirez), [Alejandro J. Rojas](authors/alejandro-jose-rojas)
  
 ## Abstract
 This paper presents the model of a micro-channel using a port-Hamiltonian system approach. The model is represented by a series of tanks and pipes interconnected in series. These hydraulic elements can be interpreted as basic elements equivalent to electric components such as capacitors, inductance and resistors. Based on this model we design a controller using the total hydraulic-mechanical energy as a local Lyapunov function. The objective is to control the level of the micro-channel in some arbitrary point inside the channel.

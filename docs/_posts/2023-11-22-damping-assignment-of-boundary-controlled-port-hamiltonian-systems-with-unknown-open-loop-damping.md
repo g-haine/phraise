@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Jesus-Pablo Toledo-Zucco](authors/jesus_pablo_toledo_zucco), [Alex Dos Reis De Souza](authors/alex_dos_reis_de_souza), [Pierre Vuillemin](authors/pierre_vuillemin), [Charles Poussot-Vassal](authors/charles_poussot_vassal)
+[Jesus-Pablo Toledo-Zucco](authors/jesus-pablo-toledo-zucco), [Alex Dos Reis De Souza](authors/alex-dos-reis-de-souza), [Pierre Vuillemin](authors/pierre-vuillemin), [Charles Poussot-Vassal](authors/charles-poussot-vassal)
  
 ## Abstract
 A damping assignment control law for infinite-dimensional port-Hamiltonian systems in one-dimensional space with actuators and sensors located at the spatial boundaries is proposed with the novelty that the boundary damping is unknown. This allows us to fix a desired decay of energy for the cases in which the system is over-damped, poorly damped, and even with negative damping. We propose an observer composed of an infinite-dimensional model and a finite-dimensional one for the state and parameter estimation. The asymptotic convergence of the observer is shown using LaSalle's invariance principle assuming that the trajectories are pre-compact. Finally, an observer-based adaptive output feedback controller is proposed for the damping assignment in the closed loop. The passivity of the closed-loop system is guaranteed with respect to the initial Hamiltonian of the system under the assumption that the observer is initialized identically to the current state and close enough to the parameter value. The transmission line is used to exemplify this approach.

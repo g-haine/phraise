@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Volker Mehrmann](authors/volker_mehrmann), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Volker Mehrmann](authors/volker-mehrmann), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 Different representations of linear dissipative Hamiltonian and port-Hamiltonian differential–algebraic equations (DAE) systems are presented and compared. Using global geometric and algebraic points of view, translations between different representations are presented. Characterizations are also derived when a general DAE system can be transformed into one of these structured representations. Approaches for computing the structural information and the described transformations are derived that can be directly implemented as numerical methods. The results are demonstrated with a large number of examples.

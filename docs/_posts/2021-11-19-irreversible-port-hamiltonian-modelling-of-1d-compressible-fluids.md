@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramírez](authors/hector_ramirez), [Bernhard Maschke](authors/bernhard_maschke)
+[Luis A. Mora](authors/luis-a-mora), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramírez](authors/hector-ramirez), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 In this paper, an irreversible port-Hamiltonian formulation for 1D compressible Newtonian fluids is presented. We separate the fluid dynamics into reversible and irreversible parts. Given the compressibility assumption, we define a state-dependent matrix that modulates the skew-symmetric operators that describe the irreversible part of the fluid dynamics. As a result, we obtain an energy-based formulation that reflects appropriately the first and second laws of Thermodynamics.

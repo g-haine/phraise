@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Barbara Rüdiger](authors/barbara_rudiger), [Antoine Tordeux](authors/antoine_tordeux), [Baris E Ugurcan](authors/baris_e_ugurcan)
+[Barbara Rüdiger](authors/barbara-rudiger), [Antoine Tordeux](authors/antoine-tordeux), [Baris E Ugurcan](authors/baris-e-ugurcan)
  
 ## Abstract
 Port-Hamiltonian systems are pertinent representations of many nonlinear physical systems. In this study, we formulate and analyse a general class of stochastic car-following models with a systematic port-Hamiltonian structure. The model class is a generalisation of classical car-following approaches, including the *optimal velocity model* of Bando *et al* (1995 *Phys. Rev.* E **51** 1035), the *full velocity difference model* of Jiang *et al* (2001 *Phys. Rev.* E **64** 017101), and recent stochastic following models based on the Ornstein–Uhlenbeck process. In contrast to traditional models where the interaction is totally asymmetric (i.e. depending only on the speed and distance to the predecessor), the port-Hamiltonian car-following model also depends on the distance to the follower. We determine the exact stability condition of the finite system with *N* vehicles and periodic boundaries. The stable system is ergodic with a unique Gaussian invariant measure. Other properties of the model are studied using numerical simulation. It turns out that the Hamiltonian component improves the flow stability and reduces the total energy in the system. Furthermore, it prevents the problematic formation of stop-and-go waves with oscillatory dynamics, even in the presence of stochastic perturbations.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Rostyslav V. Polyuga](authors/rostyslav_v_polyuga), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Rostyslav V. Polyuga](authors/rostyslav-v-polyuga), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 Structure preserving model reduction of single-input single-output port-Hamiltonian systems is considered by employing the rational Krylov methods. The rational Arnoldi method is shown to preserve (for the reduced order model) not only a specific number of the moments at an arbitrary point in the complex plane but also the port-Hamiltonian structure. Furthermore, it is shown how the rational Lanczos method applied to a subclass of port-Hamiltonian systems, characterized by an algebraic condition, preserves the port-Hamiltonian structure. In fact, for the same subclass of port-Hamiltonian systems the rational Arnoldi method and the rational Lanczos method turn out to be equivalent in the sense of producing reduced order port-Hamiltonian models with the same transfer function.

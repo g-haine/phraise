@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Jean-Michel Fahmi](authors/jean_michel_w_fahmi), [Craig A. Woolsey](authors/craig_a_woolsey)
+[Jean-Michel Fahmi](authors/jean-michel-w-fahmi), [Craig A. Woolsey](authors/craig-a-woolsey)
  
 ## Abstract
 This brief addresses the problem of stabilizing steady, wing level flight of a fixed-wing aircraft to a specified inertial velocity (speed, course, and climb angle). The aircraft is modeled as a port-Hamiltonian system and the passivity of this system is leveraged in devising the nonlinear control law. The aerodynamic force model in the port-Hamiltonian formulation is quite general; the static, state feedback control scheme requires only basic assumptions concerning lift, side force, and drag. Following an energy-shaping approach, the static state feedback control law is designed to leverage the open-loop system’s port-Hamiltonian structure in order to construct a control Lyapunov function. Asymptotic stability of the desired flight condition is guaranteed within a large region of attraction. Simulations comparing the proposed flight controller with dynamic inversion suggest it is more robust to uncertainty in aerodynamics.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Richard Perryman](authors/richard_perryman), [Joshua A. Taylor](authors/joshua_a_taylor), [Bryan Karney](authors/bryan_karney)
+[Richard Perryman](authors/richard-perryman), [Joshua A. Taylor](authors/joshua-a-taylor), [Bryan Karney](authors/bryan-karney)
  
 ## Abstract
 We design controllers for a nonlinear model of a water distribution network (WDN). Most existing approaches to the control of WDNs model the pumps as simple pressure gains. We show that a commonly used empirical model of a pump leads to a port-Hamiltonian (pH) and hence stable system. We use standard arguments to show that WDNs are incrementally pH, and show that local PI controllers preserve stability. These controllers are robust in that they do not require specific knowledge of the equilibrium input. We further show that controllers based on physical feedback that WDN operators usually rely on have merit in the pH framework. All of these controllers are shown to be useful in mitigating disturbances and tracking setpoints corresponding to assignable equilibria.

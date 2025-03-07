@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Mehmet Erbay](authors/mehmet_erbay), [Birgit Jacob](authors/birgit_jacob), [Kirsten Morris](authors/kirsten_morris)
+[Mehmet Erbay](authors/mehmet-erbay), [Birgit Jacob](authors/birgit-jacob), [Kirsten Morris](authors/kirsten-morris)
  
 ## Abstract
 The solvability for infinite-dimensional differential algebraic equations possessing a resolvent index and a Weierstraß form is studied. In particular, the concept of integrated semigroups is used to determine a subset on which solutions exist and are unique. This information is later used for a important class of systems, namely, port-Hamiltonian differential algebraic equations.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Zhe Dong](authors/zhe_dong), [Junyi Li](authors/junyi_li), [Zuoyi Zhang](authors/zuoyi_zhang), [Yujie Dong](authors/yujie_dong), [Xiaojin Huang](authors/xiaojin_huang)
+[Zhe Dong](authors/zhe-dong), [Junyi Li](authors/junyi-li), [Zuoyi Zhang](authors/zuoyi-zhang), [Yujie Dong](authors/yujie-dong), [Xiaojin Huang](authors/xiaojin-huang)
  
 ## Abstract
 Thermodynamic system dynamics exhibit strong nonlinearity and high uncertainty. If a simple control law can effectively regulate the thermodynamic systems, it will substantially reduce the complexity of engineering implementation, commissioning, and maintenance. While passivity-based control has been successfully applied to mechanical, electrical, and electromagnetic systems using energy as a storage function, thermodynamic systems require a different approach due to the non-convex characteristics of their internal energy function. This research defines the entropy production metric and proposes the port-Hamilton realization of the thermodynamic system dynamics. By using the second-order difference of entropy production metric as the storage function, the extended-state passivity-based control is proposed. The control leverages the principle of irreversible thermodynamics that entropy production reaches a minimum at the steady state, ensuring the asymptotic stability of the closed-loop system. The method is applied to design the power-level control law of high-temperature gas-cooled reactors, providing a new perspective on managing thermodynamic system dynamics. Furthermore, the research reveals the impact of control gain on control performance, offering insights for control strategy optimization.

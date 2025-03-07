@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit_jacob), [Julia T. Kaiser](authors/julia_t_kaiser), [Hans Zwart](authors/hans_zwart)
+[Birgit Jacob](authors/birgit-jacob), [Julia T. Kaiser](authors/julia-t-kaiser), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
 The location of the spectrum and the Riesz basis property of well-posed homogeneous infinite-dimensional linear port-Hamiltonian systems on a 1D spatial domain are studied. It is shown that the Riesz basis property is equivalent to the fact that system operator generates a strongly continuous group. Moreover, in this situation the spectrum consists of eigenvalues only, located in a strip parallel to the imaginary axis and they can decomposed into finitely many sets having each a uniform gap.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Maris Tõnso](authors/maris_tonso), [Vadim Kaparin](authors/vadim_kaparin), [Juri Belikov](authors/juri_belikov)
+[Maris Tõnso](authors/maris-tonso), [Vadim Kaparin](authors/vadim-kaparin), [Juri Belikov](authors/juri-belikov)
  
 ## Abstract
 Many nonlinear physical phenomena, including various power systems, can be modeled, analyzed, and controlled using the framework of port-Hamiltonian systems. Moreover, this framework can offer more advanced methods to cope with modern challenges in the energy sector. This paper presents a comprehensive and systematic survey of recent studies on the application of the port-Hamiltonian approach to power systems. Over a hundred of relevant research works are reviewed to show the vast capabilities of this approach and point out its possible gaps. The works are classified according to the type of power systems under study. The analysis of the articles shows that the vast majority of them are dedicated to controller design, a much smaller part of the works deals with the modeling and stability issues, and only a few consider the problem of optimal control. Moreover, the paper discusses current challenges and future trends in this direction.

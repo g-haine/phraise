@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Ning Liu](authors/ning_liu), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez), [Laurent Lefèvre](authors/laurent_lefevre)
+[Ning Liu](authors/ning-liu), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 This paper deals with the structure-preserving discretization and control of a two-dimensional vibro-acoustic tube using the port-Hamiltonian framework. A discretization scheme is proposed, and a set of precise basis functions are given in order to obtain a structure-preserving finite-dimensional port- Hamiltonian approximation of the two-dimensional vibro-acoustic system. Using the closed-loop structural invariants of the approximated system an energy-Casimir controller is derived. The performance of the proposed discretization scheme and the controller is shown by means of numerical simulations.

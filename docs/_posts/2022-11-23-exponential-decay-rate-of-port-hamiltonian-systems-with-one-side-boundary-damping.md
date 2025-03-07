@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Kirsten Morris](authors/kirsten_morris)
+[Luis A. Mora](authors/luis-a-mora), [Kirsten Morris](authors/kirsten-morris)
  
 ## Abstract
 The multiplier approach is applied to a class of port-Hamiltonian systems with boundary dissipation to establish exponential decay . The exponential stability of port-Hamiltonian systems has been studied and sufficient conditions obtained. Here the decay rate Me-αt is established with M and α are in terms of system parameters. This approach is illustrated by several examples, in particular, boundary stabilization of a piezoelectric beam with magnetic effects.

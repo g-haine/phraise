@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Hiroaki Yoshimura](authors/hiroaki_yoshimura), [François Gay-Balmaz](authors/francois_gay_balmaz)
+[Hiroaki Yoshimura](authors/hiroaki-yoshimura), [François Gay-Balmaz](authors/francois-gay-balmaz)
  
 ## Abstract
 In this paper, it is shown that the evolution equations for nonequilibrium thermodynamics admit an intrinsic formulation in terms of Dirac structures, both on the Lagrangian and the Hamiltonian settings. The Dirac structures are constructed on the Pontryagin bundle P = TQ ⊕ T⁎Q, where Q = Q × ℝ is the thermodynamic configuration manifold. In particular, it is illustrated how one can develop Dirac structures that include nonlinear nonholonomic constraints originated from the entropy production in each irreversible process. Lastly, we also present the induced Dirac structure on N = T⁎Q × ℝ together with the associated Lagrange-Dirac and Hamilton-Dirac dynamical formulations in analogy with nonholonomic mechanics.

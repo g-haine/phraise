@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Riccardo Morandin](authors/riccardo_morandin), [Jonas Nicodemus](authors/jonas_nicodemus), [Benjamin Unger](authors/benjamin_unger)
+[Riccardo Morandin](authors/riccardo-morandin), [Jonas Nicodemus](authors/jonas-nicodemus), [Benjamin Unger](authors/benjamin-unger)
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

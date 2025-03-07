@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[J. Wei](authors/jieqiang_wei), [A.J. van der Schaft](authors/arjan_van_der_schaft)
+[J. Wei](authors/jieqiang-wei), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 We consider a basic model of a dynamical distribution network, modeled as a directed graph with storage variables corresponding to every vertex and flow inputs corresponding to every edge, subject to unknown but constant inflows and outflows. As a preparatory result it is shown how a distributed proportional–integral controller structure, associating with every edge of the graph a controller state, will regulate the state variables of the vertices, irrespective of the unknown constant inflows and outflows, in the sense that the storage variables converge to the same value (load balancing or consensus). This will be proved by identifying the closed-loop system as a port-Hamiltonian system, and modifying the Hamiltonian function into a Lyapunov function, dependent on the value of the vector of constant inflows and outflows. In the main part of the paper the same problem will be addressed for the case that the input flow variables are constrained to take value in an arbitrary interval. We will derive sufficient and necessary conditions for load balancing, which only depend on the structure of the network in relation with the flow constraints.

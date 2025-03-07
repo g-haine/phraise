@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Martin Pfeifer](authors/martin_pfeifer), [Sven Caspart](authors/sven_caspart), [Charles Muller](authors/charles_muller), [Silja Pfeiffer](authors/silja_pfeiffer), [Stefan Krebs](authors/stefan_krebs), [Sören Hohmann](authors/soren_hohmann)
+[Martin Pfeifer](authors/martin-pfeifer), [Sven Caspart](authors/sven-caspart), [Charles Muller](authors/charles-muller), [Silja Pfeiffer](authors/silja-pfeiffer), [Stefan Krebs](authors/stefan-krebs), [Sören Hohmann](authors/soren-hohmann)
  
 ## Abstract
 Explicit port-Hamiltonian systems (PHSs) are the starting point for many powerful controller and observer design methods. It is well-known that explicit PHSs can be formulated on the basis of bond graphs. Indeed, the port-Hamiltonian formulation of bond graphs without dependent storages has been well investigated. However, little effort has been made towards bond graphs with dependent storages. This is a problem as dependent storages frequently occur in models from many engineering fields. In this paper, we address the explicit port-Hamiltonian formulation of bond graphs with dependent storages. Our idea is to express the port-Hamiltonian dynamics and output as functions of only the system inputs and independent storages. The main result is a rigorous and constructive method to formulate bond graphs containing dependent storages as explicit PHSs. An acadamic example illustrates and verifies our method.

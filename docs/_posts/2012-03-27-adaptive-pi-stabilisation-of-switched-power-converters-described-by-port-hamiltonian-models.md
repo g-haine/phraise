@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Michael Hernandez-Gomez](authors/michael_hernandez_gomez), [Romeo Ortega](authors/romeo_ortega), [Françoise Lamnabhi-Lagarrigue](authors/francoise_lamnabhi_lagarrigue), [Gerardo Escobar](authors/gerardo_escobar)
+[Michael Hernandez-Gomez](authors/michael-hernandez-gomez), [Romeo Ortega](authors/romeo-ortega), [Françoise Lamnabhi-Lagarrigue](authors/francoise-lamnabhi-lagarrigue), [Gerardo Escobar](authors/gerardo-escobar)
  
 ## Abstract
 A methodology to design linear proportional–integral (PI) controllers used in power converter applications and ensuring asymptotic stability was proposed. The technique relied on the basic fact that if an affine system can be rendered passive with a constant control, then it is stabilisable with a PI. A structural condition was imposed then on the power converter to satisfy the former property with a passive output generated as a linear combination of the states. This condition is technical and has no clear physical interpretation. This result is extended in three directions: first, the aforementioned condition is removed; second, a larger class of converters (with switching external sources) is considered; third, the load resistance is assumed unknown, and an adaptive PI controller (with three different estimators) is proposed. The methodology is applied to the problem of power factor compensation of a three-phase voltage source rectifier, with simulation results presented and discussed. Also, a stable adaptive PI is designed for the output voltage regulation of a quadratic boost converter showing the performance by means of experimental result.

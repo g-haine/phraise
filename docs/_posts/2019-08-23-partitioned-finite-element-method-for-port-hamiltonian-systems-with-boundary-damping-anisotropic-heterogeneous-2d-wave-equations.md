@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Anass Serhani](authors/anass_serhani), [Denis Matignon](authors/denis_matignon), [Ghislain Haine](authors/ghislain_haine)
+[Anass Serhani](authors/anass-serhani), [Denis Matignon](authors/denis-matignon), [Ghislain Haine](authors/ghislain-haine)
  
 ## Abstract
 A 2D wave equation with boundary damping of impedance type can be recast into an infinite-dimensional port-Hamiltonian system (pHs) with an appropriate feedback law, where the structure operator J is formally skew-symmetric. It is known that the underlying semigroup proves dissipative, even though no dissipation operator R is to be found in the pHs model. The Partitioned Finite Element Method (PFEM) introduced in Cardoso-Ribeiro et al. (2018), is structure-preserving and provides a natural way to discretize such systems. It gives rise to a non null symmetric matrix R. Moreover, since this matrix accounts for boundary damping, its rank is very low: only the basis functions at the boundary have an influence. Lastly, this matrix can be factorized out when considering the boundary condition as a feedback law for the pHs, involving the impedance parameter. Note that pHs - as open system - is used here as a tool to accurately discretize the wave equation with boundary damping as a closed system. In the worked-out numerical examples in 2D, the isotropic and homogeneous case is presented and the influence of the impedance is assessed; then, an anisotropic and heterogeneous wave equation with space-varying impedance at the boundary is investigated.

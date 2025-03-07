@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Yu Yeh](authors/yu_yeh), [Nelson Cisneros](authors/nelson_cisneros), [Yongxin Wu](authors/yongxin_wu), [Kanty Rabenorosoa](authors/kanty_rabenorosoa), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Yu Yeh](authors/yu-yeh), [Nelson Cisneros](authors/nelson-cisneros), [Yongxin Wu](authors/yongxin-wu), [Kanty Rabenorosoa](authors/kanty-rabenorosoa), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper deals with the modeling and control problem of a Hydraulically Amplified Self-healing Electrostatic (HASEL) actuator based on the port-Hamiltonian framework. A nonlinear spring-damper system is used to approximate the mechanical deformation of the actuator due to the motion of the fluid while a nonlinear capacitance is used to approximate the electric behavior of the system. The actuator position control strategy is investigated based on the Interconnection Damping Assignment-Passivity Based Control (IDA-PBC) method, with further Integral Actions (IA) added to cope with load uncertainties. The proposed model and control laws are validated on an experimental benchmark. The experimental tests demonstrate that the proposed model is accurate up to 94% of fitness. The controllers allow assigning the actuator position with ramp and sinusoidal references with the relative error less than 5%. At last, the robustness of the proposed IDA-PBC controller with IA has been shown with the experimental result for the unknown load disturbance rejection.

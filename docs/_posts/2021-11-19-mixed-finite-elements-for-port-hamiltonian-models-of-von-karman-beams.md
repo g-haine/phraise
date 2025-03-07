@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea_brugnoli), [Ramy Rashad](authors/ramy_rashad), [Federico Califano](authors/federico_califano), [Stefano Stramigioli](authors/stefano_stramigioli), [Denis Matignon](authors/denis_matignon)
+[Andrea Brugnoli](authors/andrea-brugnoli), [Ramy Rashad](authors/ramy-rashad), [Federico Califano](authors/federico-califano), [Stefano Stramigioli](authors/stefano-stramigioli), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 A port-Hamiltonian formulation of von Kármán beams is presented. The variables selection lead to a non linear interconnection operator, while the constitutive laws are linear. The model can be readily discretized by exploiting a coenergy formulation and a mixed finite element method. The mixed formulation does not demand the H 2 regularity requirement typical of standard Galerkin discretization of thin structures. A numerical test is performed to assess the convergence rate of the solution.

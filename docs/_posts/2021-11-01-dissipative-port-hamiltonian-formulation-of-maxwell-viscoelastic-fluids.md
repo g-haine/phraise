@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez), [Juan Yuz](authors/juan_i_yuz), [Bernhard Maschke](authors/bernhard_maschke)
+[Luis A. Mora](authors/luis-a-mora), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez), [Juan Yuz](authors/juan-i-yuz), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 In this paper we consider general port-Hamiltonian formulations of multidimensional Maxwell’s viscoelastic fluids. Two different cases are considered to describe the energy fluxes in isentropic compressible and incompressible fluids. In the compressible case, the viscoelastic effects of shear and dilatational strains on the stress tensor are described individually through the corresponding constitutive equations. In the incompressible case, an approach based on the bulk modulus definition is proposed in order to obtain an appropriate characterization, from the port-Hamiltonian point of view, of the pressure and nonlinear terms in the momentum equation, associated with both dynamic pressure and vorticity of the flow.

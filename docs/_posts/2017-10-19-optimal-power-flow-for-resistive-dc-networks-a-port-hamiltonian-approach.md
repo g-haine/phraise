@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ernest Benedito](authors/ernest_benedito), [Dunstano del Puerto-Flores](authors/dunstano_del_puerto_flores), [Arnau Dòria-Cerezo](authors/arnau_doria_cerezo), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Ernest Benedito](authors/ernest-benedito), [Dunstano del Puerto-Flores](authors/dunstano-del-puerto-flores), [Arnau Dòria-Cerezo](authors/arnau-doria-cerezo), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 This paper studies the optimal power flow problem for resistive DC networks. The gradient method algorithm is written in a port-Hamiltonian form and the stability of the resulting dynamics is studied. Stability conditions are provided for general cyclic networks and a solution, when these conditions fail, is proposed. In addition, the results are exemplified by means of numerical simulations.

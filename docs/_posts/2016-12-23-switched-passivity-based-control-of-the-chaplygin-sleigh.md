@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel_ferguson), [Alejandro Donaire](authors/alejandro_donaire), [Richard H. Middleton](authors/richard_h_middleton)
+[Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire), [Richard H. Middleton](authors/richard-h-middleton)
  
 ## Abstract
 In this paper, a switched controller for the Chaplygin Sleigh system based on passivity and energy shaping is presented. The Chaplygin sleigh cannot be asymptotically stabilised with a smooth control law, since Brockett’s necessary conditions for smooth stabilisation is not satisfied. To asymptotically stabilise the origin, two potential energy shaping control laws are developed that render the system asymptotically stable to two equilibrium manifolds, which intersect at the origin. A switching strategy between the energy shaping controllers is derived that ensures the system converges to the intersection of the equilibrium manifolds.

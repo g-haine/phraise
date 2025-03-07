@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan_van_der_schaft), [Volker Mehrmann](authors/volker_mehrmann)
+[Arjan van der Schaft](authors/arjan-van-der-schaft), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Citation
 - **Journal:** SSRN Electronic Journal

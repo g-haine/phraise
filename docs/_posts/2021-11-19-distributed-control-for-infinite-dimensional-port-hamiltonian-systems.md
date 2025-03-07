@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli)
+[Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 The aim of the paper is twofold. At first, a class of autonomous port-Hamiltonian systems whose dynamic is described by coupled PDEs and (nonlinear) ODEs is presented, and some properties (i.e., well-posedness and asymptotic stability of the origin) investigated. Secondly, an energy-based control design methodology is discussed. The finite-dimensional subsystem is equipped with an input, and a procedure for designing a state-feedback control action that maps the open-loop dynamic to a target one still in port-Hamiltonian form is illustrated. The idea is that the corresponding error system meets the requirements regarding the asymptotic stability of the origin stated in the first part of the paper. In this way, asymptotic convergence of the trajectories to the desired equilibrium configuration can be proved.

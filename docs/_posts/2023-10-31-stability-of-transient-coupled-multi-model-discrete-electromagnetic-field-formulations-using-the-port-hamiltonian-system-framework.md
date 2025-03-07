@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Markus Clemens](authors/markus_clemens), [Michael Günther](authors/michael_gunther)
+[Markus Clemens](authors/markus-clemens), [Michael Günther](authors/michael-gunther)
  
 ## Abstract
 The port-Hamiltonian system (pHS) framework established for coupled system formulations in multi-model and multi-physics problems considers physical model formulations either in a continuous setting as sets of partial differential equations or, alternatively, in discrete variants as pH differential-algebraic equations (pH-DAEs) [1]. The key to pHS formulations is that they are established with respect to energy conservation and dissipation inequalities. A typical \\( \mathrm{pH}-\mathrm{DAE} \\) is given in the form

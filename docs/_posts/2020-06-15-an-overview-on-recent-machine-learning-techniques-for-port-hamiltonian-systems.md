@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Karim Cherifi](authors/karim_cherifi)
+[Karim Cherifi](authors/karim-cherifi)
  
 ## Abstract
 Port Hamiltonian systems have grown in interest in recent years due to their modular property, close relation with physical modelling and the interesting properties arising from that. In this paper, we aim at providing an overview of the application of machine learning for port Hamiltonian systems in terms of modelling and control. After an introduction to Port Hamiltonian systems framework, recent results on Hamiltonian systems modelling are presented. Some results on minimal realization and model reduction are then overviewed. Finally, the most important results on the control of Port Hamiltonian systems based machine learning are discussed including adaptive control, iterative control and reinforcement learning. The results presented in this paper are a motivation for the potential of applying machine learning methods to dynamical systems in general and port Hamiltonian systems in particular.

@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[S.-A. Wegner](authors/sven_ake_wegner)
+[S.-A. Wegner](authors/sven-ake-wegner)
  
 ## Abstract
 We give a self-contained and streamlined exposition of a generation theorem for C_0-semigroups based on the method of boundary triplets. We apply this theorem to port-Hamiltonian systems where we discuss recent results appearing in stability and control theory. We give detailed proofs and require only a basic knowledge of operator and semigroup theory.

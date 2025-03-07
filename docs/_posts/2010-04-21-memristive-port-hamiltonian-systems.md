@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Dimitri Jeltsema](authors/dimitri_jeltsema), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
+[Dimitri Jeltsema](authors/dimitri-jeltsema), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 The port-Hamiltonian modelling framework is extended to a class of systems containing memristive elements and phenomena. First, the concept of memristance is generalised to the same generic level as the port-Hamiltonian framework. Second, the underlying Dirac structure is augmented with a memristive port. The inclusion of memristive elements in the port-Hamiltonian framework turns out to be almost as straightforward as the inclusion of resistive elements. Although a memristor is a resistive element, it is also a dynamic element since the associated Ohmian laws are rather expressed in terms of differential equations. This means that the state space manifold, as naturally defined by the storage elements, is augmented by the states associated with the memristive elements. Hence the order of complexity is, in general, defined by the number of storage elements plus the number of memristors in the system. Apart from enlarging our repertoire of modelling building blocks, the inclusion of memristive elements in the existing port-Hamiltonian formalism possibly opens up new ideas for controller synthesis and design.

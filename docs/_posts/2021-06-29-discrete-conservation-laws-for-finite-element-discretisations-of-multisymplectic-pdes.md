@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Elena Celledoni](authors/elena_celledoni), [James Jackaman](authors/james_jackaman)
+[Elena Celledoni](authors/elena-celledoni), [James Jackaman](authors/james-jackaman)
  
 ## Abstract
 In this work we propose a new, arbitrary order space-time finite element discretisation for Hamiltonian PDEs in multisymplectic formulation. We show that the new method which is obtained by using both continuous and discontinuous discretisations in space, admits a local and global conservation law of energy. We also show existence and uniqueness of solutions of the discrete equations. Further, we illustrate the error behaviour and the conservation properties of the proposed discretisation in extensive numerical experiments on the linear and nonlinear wave equation and the nonlinear Schrödinger equation.

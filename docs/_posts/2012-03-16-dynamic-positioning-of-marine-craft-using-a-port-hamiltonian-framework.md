@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Alejandro Donaire](authors/alejandro_donaire), [Tristan Perez](authors/tristan_perez)
+[Alejandro Donaire](authors/alejandro-donaire), [Tristan Perez](authors/tristan-perez)
  
 ## Abstract
 Dynamic positioning of marine craft refers to the use of the propulsion system to regulate the vessel position and heading. This type of motion control is commonly used in the offshore industry for surface vessels, and it is also used for some underwater vehicles. In this paper, we use a port-Hamiltonian framework to design a novel nonlinear set-point-regulation controller with integral action. The controller handles input saturation and guarantees internal stability, rejection of unknown constant disturbances, and (integral-)input-to-state stability.

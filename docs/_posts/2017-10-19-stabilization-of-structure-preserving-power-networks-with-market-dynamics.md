@@ -19,7 +19,7 @@ tags:
 ---
  
 ## Authors
-[Tjerk W. Stegink](authors/tjerk_w_stegink), [Claudio De Persis](authors/claudio_de_persis), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
+[Tjerk W. Stegink](authors/tjerk-w-stegink), [Claudio De Persis](authors/claudio-de-persis), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 This paper studies the problem of maximizing the social welfare while stabilizing both the physical power network as well as the market dynamics. For the physical power grid a third-order structure-preserving model is considered involving both frequency and voltage dynamics. By applying the primal-dual gradient method to the social welfare problem, a distributed dynamic pricing algorithm in port-Hamiltonian form is obtained. After interconnection with the physical system a closed-loop port-Hamiltonian system of differential-algebraic equations is obtained, whose properties are exploited to prove local asymptotic stability of the optimal point.

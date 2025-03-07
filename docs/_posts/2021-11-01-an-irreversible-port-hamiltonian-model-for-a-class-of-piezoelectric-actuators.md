@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Javier Caballeria](authors/javier_caballeria), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Javier Caballeria](authors/javier-caballeria), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 An irreversible port-Hamiltonian system formulation of a class of piezoelectric actuator with non-negligible entropy increase is proposed. The proposed model encompasses the hysteresis and the irreversible thermodynamic changes due to mechanical friction, electrical resistance and heat exchange between the actuator and the environment. The electromechanical dynamic of the actuator is modeled using a non-linear resistive-capacitive-inductor circuit coupled with a mass-spring-damper system, while the non-linear hysteresis is characterized using hysterons. The thermodynamic behavior of the model is constructed by making the electromechanical coupling temperature dependent, and by characterizing the entropy produced by the irreversible phenomena. By means of numerical simulations it is shown that the proposed model is capable of reproducing the expected behaviors and is in line with reported experimental results.

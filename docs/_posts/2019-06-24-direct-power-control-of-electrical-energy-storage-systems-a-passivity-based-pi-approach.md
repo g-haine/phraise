@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Walter Gil–-González](authors/walter_gil_gonzale), [Oscar Danilo Montoya](authors/oscar_danilo_montoya), [Alejandro Garces](authors/alejandro_garces_ruiz)
+[Walter Gil–-González](authors/walter-gil-gonzale), [Oscar Danilo Montoya](authors/oscar-danilo-montoya), [Alejandro Garces](authors/alejandro-garces-ruiz)
  
 ## Abstract
 This paper proposes a direct power control for electrical energy storage systems (EESS) in ac microgrids. This strategy allows managing instantaneous active and reactive power without using a conventional inner-loop current regulator and without a phase-locked loop, increasing the reliability of the system while reducing investment costs. PI passivity-based control (PI-PBC) is selected to control the direct power model of EESS. This is because their models exhibit a port-Hamiltonian formulation in open-loop, and PI-PBC exploits this formulation to design a PI controller, which guarantees global asymptotically stability in closed-loop in the sense of Lyapunov. Simulations tested the proposed model in a microgrid and compared with conventional vector oriented controls in a dq reference frame and a direct power model controlled via feedback linearization (FL). PI-PBC has a better performance than other two controllers in all considered scenarios. Simulation results have conducted through MATLAB/SIMULINK software by using the SimPowerSystem toolbox.

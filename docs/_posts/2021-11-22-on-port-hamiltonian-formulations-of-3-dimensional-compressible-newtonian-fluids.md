@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Yann Le Gorrec](authors/yann_le_gorrec), [Denis Matignon](authors/denis_matignon), [Hector Ramirez](authors/hector_ramirez), [Juan I. Yuz](authors/juan_i_yuz)
+[Luis A. Mora](authors/luis-a-mora), [Yann Le Gorrec](authors/yann-le-gorrec), [Denis Matignon](authors/denis-matignon), [Hector Ramirez](authors/hector-ramirez), [Juan I. Yuz](authors/juan-i-yuz)
  
 ## Abstract
 In this manuscript, a general formulation of 3-dimensional compressible fluids based on the port-Hamiltonian framework is presented, both for isentropic and non-isentropic assumptions, describing the energy flux between the mechanical, chemical, and thermal domains, with an explicit characterization of the first and the second law of thermodynamics. For isentropic fluids, the conversion of kinetic energy into heat by viscous friction is considered as energy dissipation associated with the rotation and compression of the fluid. A dissipative port-Hamiltonian formulation is derived for this class of fluids, including vorticity boundary conditions in the port variables. For non-isentropic fluids, we consider a fluid mixture with multiple chemical reactions. To describe the energy fluxes, we propose a pseudo port-Hamiltonian formulation, which includes the rate of irreversible entropy creation by heat flux, chemical reaction, diffusion of matter, and viscous friction.

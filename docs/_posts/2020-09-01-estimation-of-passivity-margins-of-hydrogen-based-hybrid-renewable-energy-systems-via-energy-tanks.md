@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Solene Houria Chaabna](authors/solene_houria_chaabna), [Jean-Yves Dieulot](authors/jean_yves_dieulot), [Sumit Sood](authors/sumit_sood)
+[Solene Houria Chaabna](authors/solene-houria-chaabna), [Jean-Yves Dieulot](authors/jean-yves-dieulot), [Sumit Sood](authors/sumit-sood)
  
 ## Abstract
 This paper proposes new tools to design models and controllers for power systems. Within the port-Hamiltonian modeling framework, concepts that extend passivity margins and energy tanks are used to estimate power reserves in Hybrid Renewable Energy Systems. The methodology is applied to multi-source cells with renewable energy dedicated to the production of clean hydrogen. This work can be extended to more complex networked power systems, with the aim to increase the reliability of standalone networks by fitting the power demands while avoiding damage and extending lifetime of the equipment.

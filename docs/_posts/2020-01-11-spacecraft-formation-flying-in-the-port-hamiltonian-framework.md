@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Najmeh Javanmardi](authors/najmeh_javanmardi), [Abolfazl Yaghmaei](authors/abolfazl_yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad_javad_yazdanpanah)
+[Najmeh Javanmardi](authors/najmeh-javanmardi), [Abolfazl Yaghmaei](authors/abolfazl-yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad-javad-yazdanpanah)
  
 ## Abstract
 The problem of controlling the relative position and velocity in multi-spacecraft formation flying in the planetary orbits is an enabling technology for current and future research. This paper proposes a family of tracking controllers for different dynamics of Spacecraft Formation Flying (SFF) in the framework of port-Hamiltonian (pH) systems through application of timed Interconnection and Damping Assignment Passivity-Based Control (IDA-PBC). The leader–multi-follower architecture is used to address this problem. In this regard, first we model the spacecraft motion in the pH framework in the Earth Centered Inertial frame and then transform it to the Hill frame which is a special local coordinate system. By this technique, we may present a unified structure which encompasses linear/nonlinear dynamics, with/without perturbation. Then, using the timed IDA-PBC method and the contraction analysis, a new method for controlling a family of SFF dynamics is developed. The numerical simulations show the efficiency of the approach in two different cases of missions.

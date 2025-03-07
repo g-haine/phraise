@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Federico M. Serra](authors/federico_m_serra), [Cristian H. De Angelo](authors/cristian_h_de_angelo)
+[Federico M. Serra](authors/federico-m-serra), [Cristian H. De Angelo](authors/cristian-h-de-angelo)
  
 ## Abstract
 A direct power based controller designed using a modified interconnection and damping assignment passivity-based control (IDA-PBC) with integral action is proposed in this brief for a shunt active power filter (SAPF). A power based model of the SAPF is proposed and it is described as a port-Hamiltonian model. Then, an extended port Hamiltonian system is proposed including an integral action to compensate for parameter errors and unmodeled uncertainties. From this model, a complete matching equation for the extended system is proposed, and a modified IDA-PBC with integral action is employed to design a power-based controller for a SAPF.

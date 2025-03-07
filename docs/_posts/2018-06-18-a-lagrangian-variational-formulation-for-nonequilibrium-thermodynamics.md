@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[F. Gay-Balmaz](authors/francois_gay_balmaz), [H. Yoshimura](authors/hiroaki_yoshimura)
+[F. Gay-Balmaz](authors/francois-gay-balmaz), [H. Yoshimura](authors/hiroaki-yoshimura)
  
 ## Abstract
 We present a variational formulation for nonequilibrium thermodynamics which extends the Hamilton principle of mechanics to include irreversible processes. The variational formulation is based on the introduction of the concept of thermodynamic displacement. This concept makes possible the definition of a nonlinear nonholonomic constraint given by the expression of the entropy production associated to the irreversible processes involved, to which is naturally associated a variational constraint to be used in the variational formulation. We consider both discrete (i.e., finite dimensional) and continuum systems and illustrate the variational formulation with the example of the piston problem and the heat conducting viscous fluid.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea_mattioni), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Andrea Mattioni](authors/andrea-mattioni), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 In this technical note, we consider the stability properties of a viscously damped Timoshenko beam equations with spatially varying parameters. With the help of the port-Hamiltonian framework, we first prove the existence of solutions and show, by the use of an appropriate Lyapunov function, that the system is exponentially stable and has an explicit decay rate. The explicit exponential bound is computed for an illustrative example for which we provide some numerical simulations.

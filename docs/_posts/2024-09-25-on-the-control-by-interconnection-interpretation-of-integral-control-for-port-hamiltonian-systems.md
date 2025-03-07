@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel_ferguson), [Lihua Zhou](authors/lihua_zhou), [Saeed Ahmed](authors/saeed_ahmed), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Joel Ferguson](authors/joel-ferguson), [Lihua Zhou](authors/lihua-zhou), [Saeed Ahmed](authors/saeed-ahmed), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 Integral control is often added to control systems to ensure robustness against unmodelled dynamics and external disturbances. This paper considers the Control-by-Interconnection interpretation of integral control when applied to port-Hamiltonian systems. The interpretation allows the integral controller to be described as a port-Hamiltonian system independent of the plant dynamics. Using this interpretation, we present physical realizations of integral control for a mechanical and an electro-mechanical system.

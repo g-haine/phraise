@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Jan Lorenz](authors/jan_lorenz), [Tom Zwerschke](authors/tom_zwerschke), [Michael Günther](authors/michael_gunther), [Kevin Schäfers](authors/kevin_schafers)
+[Jan Lorenz](authors/jan-lorenz), [Tom Zwerschke](authors/tom-zwerschke), [Michael Günther](authors/michael-gunther), [Kevin Schäfers](authors/kevin-schafers)
  
 ## Abstract
 Operator splitting methods tailored to coupled linear port-Hamiltonian systems are developed. We present algorithms that are able to exploit scalar coupling, as well as multirate potential of these coupled systems. The obtained algorithms preserve the dissipative structure of the overall system and are convergent of second order. Numerical results for coupled mass–spring–damper chains illustrate the computational efficiency of the splitting methods compared to a straight-forward application of the implicit midpoint rule to the overall system.

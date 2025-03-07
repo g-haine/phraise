@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Duo Wang](authors/duo_wang)
+[Duo Wang](authors/duo-wang)
  
 ## Abstract
 In this paper, a grid-forming (GFM) control is developed based on the nonlinear Port-Hamiltonian (PH) system theory to systematically achieve tracking control and Lyapunov-based stability by considering the power flow dynamic, voltage and current dynamics of voltage source converters (VSCs) system. The proposed controller is robust to both matched constant and periodic disturbances (e.g., grid voltage/frequency fluctuation, load change, voltage harmonics) and nonlinearities due to structural model uncertainties (e.g., output/line impedance variation, coupling effect). Compared to the conventional linear proportional resonant (PR)-based controller, the proposed PH-based nonlinear controller has uniform transient dynamic performance among different operating conditions in large disturbance rejection scenarios, resulted from the ensured closed-loop (semi)globally stable and uniform error dynamics with design facilitated configurable interconnection and damping matrices fixed by initial settings. Experimental results are presented to demonstrate the effectiveness of the proposed control framework in various working conditions.

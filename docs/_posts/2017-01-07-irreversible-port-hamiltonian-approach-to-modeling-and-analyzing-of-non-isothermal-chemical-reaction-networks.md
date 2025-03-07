@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Li Wang](authors/li_wang), [Bernhard Maschke](authors/bernhard_maschke), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Li Wang](authors/li-wang), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 Inspired by great advances on the mathematical structure of chemical reaction networks governed by mass action kinetics and by one of the main features of Irreversible port-Hamiltonian formulation that the thermodynamic principles could be presented clearly and directly in its structure, the aim of our work is to utilize the Irreversible port-Hamiltonian formulation to study chemical reaction networks in non-isothermal case, including modeling, equilibrium and asymptotic stability.

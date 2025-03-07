@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Jesus Toledo](authors/jesus_pablo_toledo_zucco), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Jesus Toledo](authors/jesus-pablo-toledo-zucco), [Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper aims to propose a finite-dimensional observer-based state feedback controller to stabilize a class of boundary controlled system. To this end, we propose to use an early-lumping approach, where the infinite-dimensional port-Hamiltonian system is first discretized using a structure-preserving method. Then, we build a passive observed-based controller using a Linear Matrix Inequality (LMI) and finally, the controller is interconnected with the infinite-dimensional system in a passive way. Due to its passivity and Hamiltonian structure, this observer-based controller can stabilize not only the discretized lumped parameter system but also the original distributed parameter system. This approach avoids the intrinsic drawback of early lumping approach and spillover effects. Finally, the boundary controlled undamped wave equation is used to illustrate the effectiveness of the proposed controller.

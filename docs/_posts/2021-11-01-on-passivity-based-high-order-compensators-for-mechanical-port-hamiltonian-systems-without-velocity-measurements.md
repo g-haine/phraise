@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[Kiyoshi Hamada](authors/kiyoshi_hamada), [Pablo Borja](authors/luis_pablo_borja), [Kenji Fujimoto](authors/kenji_fujimoto), [Ichiro Maruta](authors/ichiro_maruta), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Kiyoshi Hamada](authors/kiyoshi-hamada), [Pablo Borja](authors/luis-pablo-borja), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this work, we propose passivity-based control techniques, where the resulting controllers include the entire class of dynamic output feedback controllers that preserve the port-Hamiltonian structure. The proposed methodology considers a dynamic output feedback controller such that the linearized relationship between the control inputs and the outputs of interest can be interpreted as a high-order compensator. Accordingly, the controllers are studied in the framework of the transfer functions, and the control gains can be tuned through a frequency analysis approach while ensuring the stability of the closed-loop system. Additionally, the controllers have the advantage that they do not require velocity measurements. We illustrate the applicability of the proposed methodology through a numerical example.

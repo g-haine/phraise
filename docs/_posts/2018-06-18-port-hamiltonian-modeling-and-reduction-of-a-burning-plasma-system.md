@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Benjamin Vincent](authors/benjamin_vincent), [Trang Vu](authors/ngoc_minh_trang_vu), [Nicolas Hudon](authors/nicolas_hudon), [Laurent Lefèvre](authors/laurent_lefevre), [Denis Dochain](authors/denis_dochain)
+[Benjamin Vincent](authors/benjamin-vincent), [Trang Vu](authors/ngoc-minh-trang-vu), [Nicolas Hudon](authors/nicolas-hudon), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Dochain](authors/denis-dochain)
  
 ## Abstract
 In this contribution, we develop a structured port-Hamiltonian model for a class of irreversible distributed parameter systems and exploit the obtained formulation for model reduction from dimension 3 to dimension 1 in space. The proposed methodology is motivated by the control of burning plasma profiles in Tokamak reactors. The burning plasma is viewed as a multi-physics system built on Maxwell equations and total mass, species, momentum, energies, and entropy balance equations. Moreover, the system presents nonlinear couplings, especially through transport coefficients, and its dynamic evolves over multiple time scales. The main couplings considered here are the Joule effect, the Lorentz forces, and the fusion reaction kinetics. The port-based modeling formulation and reduction rely on the use of the Gibbs relation, Onsager linear transport theory, Stokes–Dirac structures, and energy preserving geometric reduction.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Alejandro Garcés-Ruiz](authors/alejandro_garces_ruiz), [Sofia Avila-Becerril](authors/sofia_avila_becerril), [Gerardo Espinosa-Perez](authors/gerardo_espinosa_perez)
+[Alejandro Garcés-Ruiz](authors/alejandro-garces-ruiz), [Sofia Avila-Becerril](authors/sofia-avila-becerril), [Gerardo Espinosa-Perez](authors/gerardo-espinosa-perez)
  
 ## Abstract
 The Port-Hamiltonian formalism has demonstrated to be useful in different applications, allowing to explore structural properties to obtain stable controls. A common approach is to design controls in a continuous domain although, in practice, they are implemented in discrete time. However, the study of discrete-time port-Hamiltonian systems is challenging since the system may lose structural properties such as passivity after discretization. This paper shows that passivity is conserved for the backward Euler discretization method when the Hamiltonian is convex, and its gradient is Lipschitz. This result is relevant for power systems applications such as the control of two-area systems, high-voltage direct-current transmission, and microgrids. Although our method is simple and preserves passivity, it does not preserve the symplectic structure of the hamiltonian.

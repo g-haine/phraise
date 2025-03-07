@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Christian Schenk](authors/christian_schenk), [Burak Yüksel](authors/burak_yuksel), [Cristian Secchi](authors/cristian_secchi), [Heinrich H. Bülthoff](authors/heinrich_h_bulthoff)
+[Christian Schenk](authors/christian-schenk), [Burak Yüksel](authors/burak-yuksel), [Cristian Secchi](authors/cristian-secchi), [Heinrich H. Bülthoff](authors/heinrich-h-bulthoff)
  
 ## Abstract
 In this paper we present a generic Port-Hamiltonian (PH) model that includes cable dynamics (in particular elasticity and couplings with the platform and all cables among each other) of a cable-driven parallel robot (CDPR), which is used as a motion simulator. Moreover we consider changes in the cable parameters, i.e. it’s elasticity, mass and length when the cables are wound/unwound from the winches. To the best of our knowledge nobody considered such a detailed and generic model of a CDPR in PH structure before. Since motion simulators are built to mimic systems with different physical properties, PH modeling can pave the way for physics-shaping controllers.

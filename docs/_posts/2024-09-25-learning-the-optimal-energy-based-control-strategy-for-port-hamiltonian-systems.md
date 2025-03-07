@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Riccardo Zanella](authors/riccardo_zanella), [Alessandro Macchelli](authors/alessandro_macchelli), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Riccardo Zanella](authors/riccardo-zanella), [Alessandro Macchelli](authors/alessandro-macchelli), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 This paper describes a synthesis and tuning procedure of discrete-time, energy-based regulators for port-Hamiltonian systems. Based on a discrete-time approximation of the plant, the control system is designed within the energy-shaping plus damping injection paradigm. This approach guarantees asymptotic stability, but it is not able “as is” to meet other requirements, such as task performance optimisation. The contribution is integrating the power of artificial neural networks as parametric function approximators and passivity-based control to enhance the performance of an asymptotically stable controlled system. The idea is to employ artificial neural networks that are optimally shaped to enhance the performances during task execution through the solution of an optimisation problem.

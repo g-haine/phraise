@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Francis Valentinis](authors/francis_valentinis), [Alejandro Donaire](authors/alejandro_donaire), [Tristan Perez](authors/tristan_perez)
+[Francis Valentinis](authors/francis-valentinis), [Alejandro Donaire](authors/alejandro-donaire), [Tristan Perez](authors/tristan-perez)
  
 ## Abstract
 This paper presents a motion control system for guidance of an underactuated Unmanned Underwater Vehicle (UUV) on a helical trajectory. The control strategy is developed using Port-Hamiltonian theory and interconnection and damping assignment passivity-based control. Using energy routing, the trajectory of a virtual fully actuated plant is guided onto a vector field. A tracking controller is then used that commands the underactuated plant to follow the velocity of the virtual plant. An integral control is inserted between the two control layers, which adds robustness and disturbance rejection to the design.

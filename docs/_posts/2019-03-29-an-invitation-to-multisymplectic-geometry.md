@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Leonid Ryvkin](authors/leonid_ryvkin), [Tilmann Wurzbacher](authors/tilmann_wurzbacher)
+[Leonid Ryvkin](authors/leonid-ryvkin), [Tilmann Wurzbacher](authors/tilmann-wurzbacher)
  
 ## Abstract
 In this article we study multisymplectic geometry, i.e., the geometry of manifolds with a non-degenerate, closed differential form. First we describe the transition from Lagrangian to Hamiltonian classical field theories, and then we reformulate the latter in “multisymplectic terms”. Furthermore, we investigate basic questions on normal forms of multisymplectic manifolds, notably the questions whether and when Darboux-type theorems hold, and “how many” diffeomorphisms certain, important classes of multisymplectic manifolds possess. Finally, we survey recent advances in the area of symmetries and conserved quantities on multisymplectic manifolds.

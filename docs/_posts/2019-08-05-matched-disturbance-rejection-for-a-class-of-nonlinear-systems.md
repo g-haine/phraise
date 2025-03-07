@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Joel Ferguson](authors/joel_ferguson), [Alejandro Donaire](authors/alejandro_donaire), [Romeo Ortega](authors/romeo_ortega), [Richard H. Middleton](authors/richard_h_middleton)
+[Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire), [Romeo Ortega](authors/romeo-ortega), [Richard H. Middleton](authors/richard-h-middleton)
  
 ## Abstract
 In this paper, we present a method to robustify asymptotically stable nonlinear systems by adding an integral action that rejects unknown additive disturbances. The proposed approach uses a port-Hamiltonian (pH) representation of the open-loop dynamics, which, relying on the asymptotic stability property, is guaranteed to exist. The integral action controller preserves the pH structure, and, by adding a suitable cross term between the plant and the controller states to the closed-loop energy function, it avoids the unnatural coordinate transformation used in the past. The controller is shown to be robust against some common types of modeling uncertainty, including unknown friction dynamics in mechanical systems.

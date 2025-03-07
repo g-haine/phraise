@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas_kirchhoff), [Bernhard Maschke](authors/bernhard_maschke)
+[Jonas Kirchhoff](authors/jonas-kirchhoff), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 We study the geometric structure of the drift dynamics of Irreversible port-Hamiltonian systems. This drift dynamics is defined with respect to a product of Poisson brackets, reflecting the interconnection structure and the constitutive relations of the irreversible phenomena occuring in the system. We characterise this product of Poisson brackets using a covariant 4-tensor and an associated function. We derive various conditions for which this 4-tensor and the associated function may be reduced to a product of almost Poisson brackets.

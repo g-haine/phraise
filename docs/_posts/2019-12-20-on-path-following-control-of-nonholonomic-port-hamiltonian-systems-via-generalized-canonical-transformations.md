@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Ryotaro Shima](authors/ryotaro_shima), [Yuki Okura](authors/yuki_okura), [Kenji Fujimoto](authors/kenji_fujimoto), [Ichiro Maruta](authors/ichiro_maruta)
+[Ryotaro Shima](authors/ryotaro-shima), [Yuki Okura](authors/yuki-okura), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta)
  
 ## Abstract
 This paper proposes a constructive design method of a static state feedback law which makes a nonholonomic port-Hamiltonian system follow a desired path. A generalized canonical transformation connects two port-Hamiltonian systems through a pair of a feedback and a coordinate change. This paper clarifies how a generalized canonical transformation connects the plant nonholonomic port-Hamiltonian system with an error system. Stabilizing the path following error system allows one to derive a constructive path following control law for the nonholonomic port-Hamiltonian system. Finally, an example shows a concrete design procedure of the proposed method.

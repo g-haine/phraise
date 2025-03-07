@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Florian Dörfler](authors/florian_dorfler), [Jørgen K. Johnsen](authors/jorgen_k_johnsen), [Frank Allgöwer](authors/frank_allgower)
+[Florian Dörfler](authors/florian-dorfler), [Jørgen K. Johnsen](authors/jorgen-k-johnsen), [Frank Allgöwer](authors/frank-allgower)
  
 ## Abstract
 In recent years so-called Port-Hamiltonian systems became popular in the literature. This is mainly due to the passivity properties and the evident system structure of Port-Hamiltonian systems that allow an energy interpretation of this system class. Based on these properties Port-Hamiltonian systems constitute an active research area and several control design methods for Port-Hamiltonian systems have been developed. Especially the Interconnection and Damping Assignment Passivity-Based Control (IDA-PBC) method has been proven to be very successful. In the application of IDA-PBC and other Port-Hamiltonian system techniques to real-world examples so far mainly electro-mechanical systems have been considered, because for those examples Port-Hamiltonian systems are the standard modeling framework. This paper gives an introduction to the framework of Port-Hamiltonian systems and the IDA-PBC design and shows with different examples that it is also applicable in process control.

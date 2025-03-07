@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Boussad Hamroun](authors/boussad_hamroun), [Laurent Lefevre](authors/laurent_lefevre), [Eduardo Mendes](authors/eduardo_mendes)
+[Boussad Hamroun](authors/boussad-hamroun), [Laurent Lefevre](authors/laurent-lefevre), [Eduardo Mendes](authors/eduardo-mendes)
  
 ## Abstract
 A port based model for the water flows and levels dynamics in open channel systems is derived. It is structured into dissipative and conservative sub-systems related through a symplectic geometric structure which expresses instantaneous power conservation. This model is equivalent to the classical Saint-Venant equations (nonlinear PDEs also called shallow water equations) but trivially exhibits some interesting properties (passivity, stability, stored energy, entropy production) which may be useful for analysis or control purposes. Therefore the paper then focuses on a reduction scheme which preserves the geometric symplectic structure of the infinite dimensional model. This reduction scheme leads to a reduced port-controlled Hamiltonian finite-dimensional system which is compared with the infinite dimensional model and with other classical reduced models both in terms of spectral and energetic properties.

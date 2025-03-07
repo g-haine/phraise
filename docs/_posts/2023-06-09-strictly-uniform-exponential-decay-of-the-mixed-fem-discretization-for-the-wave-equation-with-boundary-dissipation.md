@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[David C. Del Rey Fernández](authors/david_c_del_rey_fernandez), [Luis A. Mora](authors/luis_a_mora), [Kirsten Morris](authors/kirsten_morris)
+[David C. Del Rey Fernández](authors/david-c-del-rey-fernandez), [Luis A. Mora](authors/luis-a-mora), [Kirsten Morris](authors/kirsten-morris)
  
 ## Abstract
 Uniform preservation of stability in approximations of wave equations is a long-standing issue. In this letter, a one-dimensional wave equation with a partially reflective boundary is approximated using a first-order mixed finite element method. The multiplier method is used to prove that the approximated systems are exponentially stable with a decay rate independent of the mesh size. Upper bounds on the exponential decay are obtained in terms of the physical parameters.

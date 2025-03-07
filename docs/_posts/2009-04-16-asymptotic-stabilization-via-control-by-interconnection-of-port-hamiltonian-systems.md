@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando_castanos), [Romeo Ortega](authors/romeo_ortega), [Arjan van der Schaft](authors/arjan_van_der_schaft), [Alessandro Astolfi](authors/alessandro_astolfi)
+[Fernando Castaños](authors/fernando-castanos), [Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Alessandro Astolfi](authors/alessandro-astolfi)
  
 ## Abstract
 We study the asymptotic properties of control by interconnection, a passivity-based controller design methodology for stabilization of port-Hamiltonian systems. It is well-known that the method, in its basic form, imposes some unnatural controller initialization to yield asymptotic stability of the desired equilibrium. We propose two different ways to overcome this restriction, one based on adaptation ideas, and the other one adding an extra damping injection to the controller. The analysis and design principles are illustrated through an academic example.

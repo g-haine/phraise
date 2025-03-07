@@ -27,7 +27,7 @@ tags:
 ---
  
 ## Authors
-[Michael Günther](authors/michael_gunther), [Birgit Jacob](authors/birgit_jacob), [Claudia Totzeck](authors/claudia_totzeck)
+[Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob), [Claudia Totzeck](authors/claudia-totzeck)
  
 ## Abstract
 We present a gradient-based calibration algorithm to identify the system matrices of a linear port-Hamiltonian system from given input–output time data. Aiming for a direct structure-preserving approach, we employ techniques from optimal control with ordinary differential equations and define a constrained optimization problem. The input-to-state stability is discussed which is the key step towards the existence of optimal controls. Further, we derive the first-order optimality system taking into account the port-Hamiltonian structure. Indeed, the proposed method preserves the skew symmetry and positive (semi)-definiteness of the system matrices throughout the optimization iterations. Numerical results with perturbed and unperturbed synthetic data, as well as an example from the PHS benchmark collection [ 17 ] demonstrate the feasibility of the approach.

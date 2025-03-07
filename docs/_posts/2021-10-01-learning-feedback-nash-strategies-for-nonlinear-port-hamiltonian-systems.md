@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Lukas Kölsch](authors/lukas_kolsch), [Pol Jané Soneira](authors/pol_jane_soneira), [Albertus Johannes Malan](authors/albertus_johannes_malan), [Sören Hohmann](authors/soren_hohmann)
+[Lukas Kölsch](authors/lukas-kolsch), [Pol Jané Soneira](authors/pol-jane-soneira), [Albertus Johannes Malan](authors/albertus-johannes-malan), [Sören Hohmann](authors/soren-hohmann)
  
 ## Abstract
 This paper presents an adaptive control strategy for solving multi-player noncooperative differential games with dynamics modelled as general nonlinear input-state-output port-Hamiltonian systems. The proposed controller is obtained by extending an existing single-player feedback Nash strategy to N players and by using the Hamiltonian of the port-Hamiltonian system as an admissible control-Lyapunov function for each player. Necessary and sufficient conditions for the stability of the resulting controlled system are provided by employing Lyapunov stability theory. Furthermore, the N player feedback strategy is extended by adaptively weighting the individual value functions to ensure convergence to the Nash solution. Finally, numerical simulations demonstrate the effectiveness of the proposed explicit control laws.

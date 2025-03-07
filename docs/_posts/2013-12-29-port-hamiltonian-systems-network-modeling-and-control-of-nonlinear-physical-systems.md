@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[A. J. Schaft](authors/arjan_van_der_schaft)
+[A. J. Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 It is shown how port-based modeling of lumped-parameter complex physical systems (multi-body systems, electrical circuits, electromechanical systems,..) naturally leads to a geometrically defined class of systems, called port-Hamiltonian systems. These are Hamiltonian systems defined with respect to a power-conserving geometric structure capturing the basic interconnection laws, and a Hamiltonian function given by the total stored energy. The structural properties of port-Hamiltonian systems are discussed, in particular the existence of Casimir functions and its implications for stability and stabilization. Furthermore it is shown how passivity-based control results from interconnecting the plant port-Hamiltonian system with a controller port-Hamiltonian system, leading to a closed-loop port-Hamiltonian system. Finally, extensions to the distributed-parameter case are provided by formulating boundary control systems as infinite-dimensional port-Hamiltonian systems.

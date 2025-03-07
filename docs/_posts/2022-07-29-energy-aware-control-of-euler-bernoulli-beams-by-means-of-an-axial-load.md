@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Federico Califano](authors/federico_califano), [Alexander Dijkshoorn](authors/alexander_dijkshoorn), [Sander Roodink](authors/sander_roodink), [Stefano Stramigioli](authors/stefano_stramigioli), [Gijs Krijnen](authors/gijs_krijnen)
+[Federico Califano](authors/federico-califano), [Alexander Dijkshoorn](authors/alexander-dijkshoorn), [Sander Roodink](authors/sander-roodink), [Stefano Stramigioli](authors/stefano-stramigioli), [Gijs Krijnen](authors/gijs-krijnen)
  
 ## Abstract
 In this article, we present a novel energy-based control architecture on Euler–Bernoulli beams equipped with a variable stiffness mechanism. To proof the methodological validity of the approach, two control laws are developed using the power balance of the system, explicitly encoded in its infinite-dimensional port-Hamiltonian formulation. The laws are designed to stabilize the beam and to induce limit cycles on it, respectively, increasing damping by removing energy from the system and countering damping by injecting energy into the system. The variable stiffness mechanism is realized through a distributed axial load, applied by means of a wire on a winch, and is able to achieve effective stiffness variation due to softening. An experimental setup is designed to validate the theory. 3-D-printed, embedded, piezoresistive strain gauges are used as sensing units for closed-loop control. We show how the developed approach conveniently deals with such sensors, overcoming potential problems arising from their nonideal response. Experimental results show the validity and the robustness of the proposed control laws. High speed videos are used to validate the measurements.

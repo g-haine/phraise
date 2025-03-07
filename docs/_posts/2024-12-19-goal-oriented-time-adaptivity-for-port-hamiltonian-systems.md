@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Andreas Bartel](authors/andreas_bartel), [Manuel Schaller](authors/manuel_schaller)
+[Andreas Bartel](authors/andreas-bartel), [Manuel Schaller](authors/manuel-schaller)
  
 ## Abstract
 Port-Hamiltonian systems provide an energy-based modeling paradigm for dynamical input-state-output systems. At their core, they fulfill an energy balance relating stored, dissipated and supplied energy. To accurately resolve this energy balance in time discretizations, we propose an adaptive grid refinement technique based on a posteriori error estimation. The evaluation of the error estimator includes the computation of adjoint sensitivities. To interpret this adjoint equation as a backwards-in-time equation, we show piecewise weak differentiability of the dual variable. Then, leveraging dissipativity of the port-Hamiltonian dynamics, we present a parallelizable approximation of the underlying adjoint system in the spirit of a block-Jacobi method to efficiently compute error indicators. We illustrate the performance of the proposed scheme by means of numerical experiments showing that it yields a smaller violation of the energy balance when compared to uniform refinements and traditional step size controlled time stepping.

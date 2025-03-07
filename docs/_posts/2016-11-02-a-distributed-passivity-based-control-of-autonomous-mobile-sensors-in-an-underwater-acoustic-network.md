@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[F. Fabiani](authors/filippo_fabiani), [D. Fenucci](authors/davide_fenucci), [T. Fabbri](authors/t_fabbri), [A. Caiti](authors/andrea_caiti)
+[F. Fabiani](authors/filippo-fabiani), [D. Fenucci](authors/davide-fenucci), [T. Fabbri](authors/t-fabbri), [A. Caiti](authors/andrea-caiti)
  
 ## Abstract
 This paper presents a cooperative and distributed control law for multiple Autonomous Underwater Vehicles (AUVs) executing a mission while meeting mutual communication constraints. Virtual couplings define interaction control forces between neighbouring vehicles. Moreover, the couplings are designed to enforce a desired vehicle-vehicle and vehicle-target spacing. The whole network is modelled in the passive, energy-based, port-Hamiltonian framework. Such framework allows to prove closed-loop stability using the whole system kinetic and virtual potential energy by constructing a suitable Lyapunov function. Furthermore, the robustness to communication delays is also demonstrated. Simulation results are given to illustrate the effectiveness of the proposed approach.

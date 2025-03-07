@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[A. Venkatraman](authors/aneesh_venkatraman), [A.J. van der Schaft](authors/arjan_van_der_schaft)
+[A. Venkatraman](authors/aneesh-venkatraman), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 We consider a special class of port-Hamiltonian systems for which we propose a design methodology for constructing globally exponentially stable full-order observers using a passivity based approach. The essential idea is to make the augmented system consisting of the plant and the observer dynamics to become strictly passive with respect to an invariant manifold defined on the extended state-space, on which the state estimation error is zero. We first introduce the concept of passivity of a system with respect to a manifold by defining a new input and output on the extended state-space and then perform a partial state feedback passivation which leads to the construction of the observer. We then illustrate this observer design procedure on two physical examples, the magnetic levitation system and the inverted pendulum on the cart system.

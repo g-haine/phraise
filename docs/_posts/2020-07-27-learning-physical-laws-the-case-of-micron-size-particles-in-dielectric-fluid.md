@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Ion Matei](authors/ion_matei), [Maksym Zhenirovskyy](authors/maksym_zhenirovskyy), [Johan de Kleer](authors/johan_de_kleer), [Christoforos Somarakis](authors/christoforos_somarakis), [John S. Baras](authors/john_s_baras)
+[Ion Matei](authors/ion-matei), [Maksym Zhenirovskyy](authors/maksym-zhenirovskyy), [Johan de Kleer](authors/johan-de-kleer), [Christoforos Somarakis](authors/christoforos-somarakis), [John S. Baras](authors/john-s-baras)
  
 ## Abstract
 We address the problem of learning laws governing the behavior of physical systems. As a use case we choose the discovery of the dynamics of micron-scale chiplets in dielectric fluid whose motion is controlled by a set of electric potential. We use the port-Hamiltonian formalism as a high level model structure that is continuously refined based on our understanding of the physical process. In addition, we use machine learning inspired models as low level representations. Representation structure is key in learning generalizable models, as shown by the learning results.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Lalitesh Kumar](authors/lalitesh_kumar), [Sukhwinder Singh Dhillon](authors/sukhwinder_singh_dhillon)
+[Lalitesh Kumar](authors/lalitesh-kumar), [Sukhwinder Singh Dhillon](authors/sukhwinder-singh-dhillon)
  
 ## Abstract
 This article focuses on the design of tracking control for chaotic fractional order systems subjected to perturbations in a port-Hamiltonian framework. The fractional order systems of general form are modeled into port-controlled Hamiltonian form. Then, the extended results on the dissipativity, energy balance, and passivity of the fractional order systems are proved and presented in this paper. The port-controlled Hamiltonian form of the fractional order systems are proved to be asymptotically stable via energy balancing concept. Furthermore, a tracking controller is designed for the fractional order port-controlled Hamiltonian form by utilizing the matching conditions of the port-Hamiltonian systems. Stability of the system is established and analyzed explicitly for the closed-loop system with the help of direct Lyapunov method. Finally, an application example is solved with simulation results and discussions to prove the effectiveness of the propounded control design approach.

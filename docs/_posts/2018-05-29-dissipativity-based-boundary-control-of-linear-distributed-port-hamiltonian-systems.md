@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli), [Federico Califano](authors/federico_califano)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Federico Califano](authors/federico-califano)
  
 ## Abstract
 The main contribution of this paper is a general synthesis methodology of exponentially stabilising control laws for a class of boundary control systems in port-Hamiltonian form that are dissipative with respect to a quadratic supply rate, being the total energy the storage function. More precisely, general conditions that a linear regulator has to satisfy to have, at first, a well-posed and, secondly, an exponentially stable closed-loop system are presented. The methodology is illustrated with reference to two specific stabilisation scenarios, namely when the (distributed parameter) plant is in impedance or in scattering form. Moreover, it is also shown how these techniques can be employed in the analysis of more general systems that are described by coupled partial and ordinary differential equations. In particular, the repetitive control scheme is studied, and conditions on the (finite dimensional) linear plant to have asymptotic tracking of generic periodic reference signals are determined.

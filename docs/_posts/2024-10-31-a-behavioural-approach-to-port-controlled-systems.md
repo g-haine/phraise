@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas_kirchhoff)
+[Jonas Kirchhoff](authors/jonas-kirchhoff)
  
 ## Abstract
 We give insight in the structure of port-Hamiltonian systems as control systems in between two closed Hamiltonian systems. Using the language of category theory, we identify systems with their behavioural representation and view a port-control structure with desired structural properties on a given closed system as an extension of this system which itself may be embedded in a “larger” closed system. The latter system describes the nature of the ports (e.g. Hamiltonian, metriplectic etc.). This point of view allows us to describe meaningful port-control structures for a large family of systems, which is illustrated with Hamiltonian and metriplectic systems.

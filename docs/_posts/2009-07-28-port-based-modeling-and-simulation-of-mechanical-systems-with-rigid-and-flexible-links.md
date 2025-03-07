@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro_macchelli), [C. Melchiorri](authors/claudio_melchiorri), [S. Stramigioli](authors/stefano_stramigioli)
+[A. Macchelli](authors/alessandro-macchelli), [C. Melchiorri](authors/claudio-melchiorri), [S. Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 In this paper, a systematic procedure for the definition of the dynamical model in port-Hamiltonian form of mechanical systems is presented as the result of the power-conserving interconnection of a set of basic components (rigid bodies, flexible links, and kinematic pairs). Since rigid bodies and flexible links are described within the port-Hamiltonian formalism, their interconnection is possible once a proper relation between the power-conjugated port variables is deduced. These relations are the analogous of the Kirchhoff laws of circuit theory. From the analysis of a set of oriented graphs that describe the topology of the mechanism, an automatic procedure for deriving the dynamical model of a mechanical system is illustrated. The final model is a mixed port-Hamiltonian system, because of the presence of a finite-dimensional subsystem (modeling the rigid bodies) and an infinite-dimensional one (describing the flexible links). Besides facilitating the deduction of the dynamical equations, it is shown how the intrinsic modularity of this approach also simplifies the simulation phase.

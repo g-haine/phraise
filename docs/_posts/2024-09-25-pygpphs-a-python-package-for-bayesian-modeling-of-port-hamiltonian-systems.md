@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Peilun Li](authors/peilun_li), [Kaiyuan Tan](authors/kaiyuan_tan), [Thomas Beckers](authors/thomas_beckers)
+[Peilun Li](authors/peilun-li), [Kaiyuan Tan](authors/kaiyuan-tan), [Thomas Beckers](authors/thomas-beckers)
  
 ## Abstract
 PyGpPHs is a Python toolbox for physics-informed learning of physical systems. Compared to pure data-driven approaches, it relies on solid physics priors based on the Gaussian process port-Hamiltonian systems (GP-PHS) framework. This foundation guarantees that the learning procedure adheres to the fundamental physical laws governing real-world systems. Utilizing the Bayesian learning method, PyGpPHs enables physics-informed predictions with uncertainty quantification, which are based on the posterior distribution over Hamiltonians. The PyGpPHs toolbox is designed to make Bayesian learning with physics prior accessible to the learning and control community. PyGpPHs can be installed through an open-source link 1.

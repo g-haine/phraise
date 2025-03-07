@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Nelson Cisneros](authors/nelson_cisneros), [Alejandro Jose Rojas](authors/alejandro_jose_rojas), [Hector Ramirez](authors/hector_ramirez)
+[Nelson Cisneros](authors/nelson-cisneros), [Alejandro Jose Rojas](authors/alejandro-jose-rojas), [Hector Ramirez](authors/hector-ramirez)
  
 ## Abstract
 We present a port-Hamiltonian system (PHS) model based on the interconnection between basic hydraulic elements equivalent to electrical components such as capacitors, inductors, and resistors to represent the dynamics of a water micro-channel experimental plant. We compare the fluid-structured interconnected PHS model with the data obtained from a micro-channel experimental plant. We then implement a controller using the total hydraulic-mechanical energy as a local Lyapunov function. Finally, we apply an integral action controller (IAC) to correct for modeling errors and load disturbances. The IAC is easy to design given the proposed interconnected model.

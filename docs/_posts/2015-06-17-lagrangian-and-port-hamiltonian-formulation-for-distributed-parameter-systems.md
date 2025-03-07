@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[M. Schöberl](authors/markus_schoberl), [K. Schlacher](authors/kurt_schlacher)
+[M. Schöberl](authors/markus-schoberl), [K. Schlacher](authors/kurt-schlacher)
  
 ## Abstract
 In this paper we consider distributed-parameter systems that allow for a Lagrangian or port-Hamiltonian formulation. We will distinguish the case where the Lagrangian or the Hamiltonian depend on derivative variables (jet-variables) of first-order and the case where second-order derivatives appear. This distinction will be important for the correct determination of the boundary conditions in the Lagrangian scenario and for the investigation of possible boundary ports in the Hamiltonian picture. The derivation of the partial differential equations and the boundary terms/ports will be accomplished in a geometric fashion by using the so-called Cartan-form. We visualize our results by mechanical examples such as beams and plates.

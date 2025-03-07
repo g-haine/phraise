@@ -18,7 +18,7 @@ tags:
 ---
  
 ## Authors
-[Markus Lohmayer](authors/markus_lohmayer), [Sigrid Leyendecker](authors/sigrid_leyendecker)
+[Markus Lohmayer](authors/markus-lohmayer), [Sigrid Leyendecker](authors/sigrid-leyendecker)
  
 ## Abstract
 The Exergetic Port-Hamiltonian Systems modeling language combines a graphical syntax inspired by bond graphs with a port-Hamiltonian semantics akin to the GENERIC formalism. The syntax enables the modular and hierarchical specification of the composition pattern of lumped and distributed-parameter models. The semantics reflects the first and second law of thermodynamics as structural properties. Interconnected and hierarchically defined models of multiphysical thermodynamic systems can thus be expressed in a formal language accessible to humans and computers alike. We discuss a composed model of the Navier-Stokes-Fourier fluid on a fixed spatial domain as an example of an open distributed-parameter system. At the top level, the system comprises five subsystems which model kinetic energy storage, internal energy storage, thermal conduction, bulk viscosity, and shear viscosity.

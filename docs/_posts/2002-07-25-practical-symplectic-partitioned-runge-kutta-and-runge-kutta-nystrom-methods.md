@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[S. Blanes](authors/s_blanes), [P.C. Moan](authors/p_c_moan)
+[S. Blanes](authors/s-blanes), [P.C. Moan](authors/p-c-moan)
  
 ## Abstract
 We present new symmetric fourth and sixth-order symplectic partitioned Runge–Kutta and Runge–Kutta–Nyström methods. We studied compositions using several extra stages, optimising the efficiency. An effective error, E f , is defined and an extensive search is carried out using the extra parameters. The new methods have smaller values of E f than other methods found in the literature. When applied to several examples they perform up to two orders of magnitude better than previously known method, which is in very good agreement with the values of E f .

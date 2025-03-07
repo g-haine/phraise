@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[I. Zafeiratou](authors/i_zafeiratou), [I. Prodan](authors/ionela_prodan), [L. Lefèvre](authors/laurent_lefevre), [L. Piétrac](authors/l_pietrac)
+[I. Zafeiratou](authors/i-zafeiratou), [I. Prodan](authors/ionela-prodan), [L. Lefèvre](authors/laurent-lefevre), [L. Piétrac](authors/l-pietrac)
  
 ## Abstract
 This paper presents the dynamical model of a DC microgrid, composed by a solar panel, an energy storage system, a utility grid and a group of interconnected loads, such as housing-office equipment and electrical vehicles. The transmission lines connect the energy sources with the loads through the corresponding switching DC/DC converters. The novelty resides in the port-Hamiltonian formulations developed for the physical model which is first described through a Bond Graph. An extended architecture of the system with a meshed topology is presented. The proposed architecture has the ability to reduce the power losses within the DC microgrid system by increasing the different transmission line paths among the sources and the loads. The global dynamical model of the system is finally converted into a state-space representation. Furthermore, in view of system control and optimization we formulate the load balancing problem of the DC microgrid in order to stabilize the power flow within the DC bus. The model is validated with some primary simulations.

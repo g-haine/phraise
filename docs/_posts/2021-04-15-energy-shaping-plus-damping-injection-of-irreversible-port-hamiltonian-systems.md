@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ignacio Villalobos](authors/ignacio_villalobos), [Hector Ramírez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Ignacio Villalobos](authors/ignacio-villalobos), [Hector Ramírez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 Irreversible port-Hamiltonian systems (IPHS) are an extension of port-Hamiltonian systems (PHS) for irreversible thermodynamics which encompass a large class of thermodynamic systems that may contain reversible and irreversible phenomena. Energy shaping and damping injection are standard structure preserving passivity based control approaches which have proven to be very successful for the stabilization of PHS. However, in the case of irreversible thermodynamics, the non-linear nature of the systems make it non-trivial to apply these approaches for stabilization. In this paper we propose a systematic procedure to perform, in a first control loop, energy shaping by state modulated interconnection with a controller in IPHS form. Then, a second control loop guarantees asymptotic stability by the feedback of a new closed-loop passive output. The approach allows to stabilize IPHS while preserving the IPHS structure in closed-loop, allowing to interpret the closed-loop system as a desired thermodynamic system. The example of the continuous stirred tank reactor is used to illustrate the approach.

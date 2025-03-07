@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea_mattioni), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Alessandro Macchelli](authors/alessandro_macchelli)
+[Andrea Mattioni](authors/andrea-mattioni), [Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 This paper deals with the finite dimensional modelling and control of an electro-active polymer (EAP) actuated flexible structure. This model reproduces the basic mechanical properties of a class of one dimensional flexible endoscope. The flexible structure and the EAP actuator are both modelled as port-Hamiltonian systems. The EAP actuator is interconnected with the flexible structure in a power preserving manner such that the global system is again a PHS. Using the obtained model, two passivity based control strategies are applied to derive the controllers which achieve a desired equilibrium configuration with desired dynamic behaviour. An experimental benchmark composed of the Ionic Polymer Metal Composites patches glued to a flexible beam is used to validate the proposed model and control law.

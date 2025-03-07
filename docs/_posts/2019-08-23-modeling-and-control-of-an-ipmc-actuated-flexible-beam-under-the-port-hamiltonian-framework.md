@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin_wu), [François Lamoline](authors/francois_lamoline), [Joseph Winkin](authors/joseph_j_winkin), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Yongxin Wu](authors/yongxin-wu), [François Lamoline](authors/francois-lamoline), [Joseph Winkin](authors/joseph-j-winkin), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper deals with the modeling and control problem of an ionic polymer metal composites (IPMC) actuated flexible beam. The mechanical dynamic of the flexible beam and the electrical dynamic of the IPMC actuators have been taken into account in the modeling approach. Furthermore, in order to achieve the desired configuration of this IPMC actuated flexible beam, a control strategy is proposed based on the Linear quadratic Gaussian (LQG) control and damping injection. Finally, the proposed model is validated on a real experimental set-up. The effectiveness of the proposed control strategy is shown by the simulation results based on the real physical parameters of the experimental set-up.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Friedrich M. Philipp](authors/friedrich_m_philipp)
+[Friedrich M. Philipp](authors/friedrich-m-philipp)
  
 ## Abstract
 It is well known that linear and non-linear dissipative port-Hamiltonian systems in finite dimensions admit an energy balance, relating the energy increase in the system with the supplied energy and the dissipated energy. The integrand in the dissipation term is then a function of the state variable. In this note, we answer the question of when this is possible for linear port-Hamiltonian systems in infinite dimensions.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Andreas Siuka](authors/andreas_siuka), [Markus Schöberl](authors/markus_schoberl), [Karl Rieger](authors/karl_rieger), [Kurt Schlacher](authors/kurt_schlacher)
+[Andreas Siuka](authors/andreas-siuka), [Markus Schöberl](authors/markus-schoberl), [Karl Rieger](authors/karl-rieger), [Kurt Schlacher](authors/kurt-schlacher)
  
 ## Abstract
 Dieser Beitrag behandelt die Modellierung und Regelung von räumlich eindimensionalen, verteilt-parametrischen Tor-basierten Hamiltonschen Systemen. Motiviert durch die physikalische Interpretation der Tor-basierten Hamiltonschen Systembeschreibung im konzentriert-parametrischen Fall wird eine Erweiterung dieser Systemklasse auf den verteilt-parametrischen Fall vorgeschlagen, welche auf dem klassischen evolutionären Zugang basiert. Weiters wird die aus dem konzentriert-parametrischen Fall bekannte Methode “Regelung auf Basis struktureller Invarianten” auf die vorgestellte verteilt-parametrische Hamiltonsche Darstellung übertragen. Die Effektivität dieser Methode wird anhand der energiebasierten Regelung des Timoshenko Balkens mit Randeingriff gezeigt.

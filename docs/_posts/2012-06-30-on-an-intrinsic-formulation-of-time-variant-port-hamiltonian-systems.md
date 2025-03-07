@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Markus Schöberl](authors/markus_schoberl), [Kurt Schlacher](authors/kurt_schlacher)
+[Markus Schöberl](authors/markus-schoberl), [Kurt Schlacher](authors/kurt-schlacher)
  
 ## Abstract
 In this contribution we present an intrinsic description of time-variant Port Hamiltonian systems as they appear in modeling and control theory. This formulation is based on the splitting of the state bundle and the use of appropriate covariant derivatives, which guarantees that the structure of the equations is invariant with respect to time-variant coordinate transformations. In particular, we will interpret our covariant system representation in the context of control theoretic problems. Typical examples are time-variant error systems related to trajectory tracking problems which allow for a Hamiltonian formulation. Furthermore we will analyze the concept of collocation and the balancing/interaction of power flows in an intrinsic fashion.

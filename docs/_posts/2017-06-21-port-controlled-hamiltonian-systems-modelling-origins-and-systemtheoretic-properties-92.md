@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[B.M. Maschke](authors/bernhard_maschke), [A.J. van der Schaft](authors/arjan_van_der_schaft)
+[B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 It is shown that the network representation (as obtained through the generalized bond graph formalism) of non-resistive physical systems in interaction with their environment leads to a well- defined class of (nonlinear) control systems, called port-controlled Hamiltonian systems.A first basic feature of these systems is that their internal dynamics is Hamiltonian with respect to a Poisson structure determined by the topology of the network and to a Hamiltonian given by the stored energy. Secondly the network representation provides automatically (intrinsically to the notation) to every port-control variable (input) a port-conjugated variable as output. This definition of port-conjugated input and output variables, based on energy considerations, is shown to have important consequences for the observability and controllability properties, as well as the external characterization of port- controlled Hamiltonian systems.

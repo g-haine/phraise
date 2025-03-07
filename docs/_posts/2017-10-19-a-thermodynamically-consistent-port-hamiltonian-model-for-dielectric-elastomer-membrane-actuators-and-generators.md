@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[G. Rizzello](authors/gianluca_rizzello), [D. Naso](authors/david_naso), [S. Seelecke](authors/stefan_seelecke)
+[G. Rizzello](authors/gianluca-rizzello), [D. Naso](authors/david-naso), [S. Seelecke](authors/stefan-seelecke)
  
 ## Abstract
 This paper presents a port-Hamiltonian modeling formulation for a Dielectric Elastomer membrane. The model relates electrical and mechanical inputs to corresponding conjugate outputs, allowing to simulate the membrane transducer in actuation and energy harvesting application. Starting from a nonlinear, physics-based model developed in the authors’ previous works, a suitable function is initially proposed to quantify the overall electro-mechanical energy in the system. Subsequently, a complete description in terms of Hamiltonian, dissipation function, and system matrices is provided. The port-Hamiltonian formalism permits to assess the thermodynamic consistency of the model, making it a reliable tool for the prediction of energetic performance in dynamic applications. Furthermore, it opens up the possibility of applying powerful nonlinear analysis and design tools.

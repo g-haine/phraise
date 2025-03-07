@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Francois Lamoline](authors/francois_lamoline), [Joseph J. Winkin](authors/joseph_j_winkin)
+[Francois Lamoline](authors/francois-lamoline), [Joseph J. Winkin](authors/joseph-j-winkin)
  
 ## Abstract
 In this article, Stochastic port-Hamiltonian systems (SPHS) on infinite-dimensional spaces governed by Itô stochastic differential equations (SDEs) are introduced, and some properties of this new class of systems are studied. They are an extension of SPHSs defined on a finite-dimensional state space. The concept of well-posedness in the sense of Weiss and Salamon is generalized to the stochastic context. Under this extended definition, SPHSs are shown to be well posed. The theory is illustrated on an example of a vibrating string subject to a Hilbert space-valued Gaussian white noise process.

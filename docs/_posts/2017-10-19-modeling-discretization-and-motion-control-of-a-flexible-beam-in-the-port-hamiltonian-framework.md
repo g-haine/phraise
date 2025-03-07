@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[M. Wang](authors/mei_wang), [A. Bestler](authors/a_bestler), [P. Kotyczka](authors/paul_kotyczka)
+[M. Wang](authors/mei-wang), [A. Bestler](authors/a-bestler), [P. Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 In this paper, we present an approach to solve the feedforward motion control problem for a flexible beam, modeled with linear Timoshenko beam theory. The originality lies in the fact that all design steps, from modeling, over discretization to feedforward control are executed within the port-Hamiltonian (PH) framework. To obtain a finite-dimensional PH model which is suitable for inversion-based feedforward control design, a geometric pseudo-spectral discretization is performed. The feedforward control is tested with a plant model implemented in standard FEM software. The results of this paper will be amended by feedback control to achieve highly dynamic motion control on a lab test rig which is currently under construction.

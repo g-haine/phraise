@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[H. Egger](authors/herbert_egger), [T. Kugler](authors/t_kugler), [B. Liljegren-Sailer](authors/bjorn_liljegren_sailer), [N. Marheineke](authors/nicole_marheineke), [V. Mehrmann](authors/volker_mehrmann)
+[H. Egger](authors/herbert-egger), [T. Kugler](authors/t-kugler), [B. Liljegren-Sailer](authors/bjorn-liljegren-sailer), [N. Marheineke](authors/nicole-marheineke), [V. Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
 We consider the discretization and subsequent model reduction of a system of partial differential-algebraic equations describing the propagation of pressure waves in a pipeline network. Important properties like conservation of mass, dissipation of energy, passivity, existence of steady states, and exponential stability can be preserved by an appropriate semidiscretization in space via a mixed finite element method and also during the further dimension reduction by structure- preserving Galerkin projection, which is the main focus of this paper. Krylov subspace methods are employed for the construction of the reduced models, and we discuss certain modifications needed to satisfy some algebraic compatibility conditions which are required to ensure the well-posedness of the reduced models and the preservation of the key properties. Our arguments are based on a careful analysis of the underlying infinite dimensional problem and its Galerkin approximations. The proposed algorithms therefore have a direct inte...

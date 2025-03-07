@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Jiaming Wang](authors/jiaming_wang), [Qingrui Zhou](authors/qingrui_zhou), [Wei Zheng](authors/wei_zheng), [Jingdong Diao](authors/jingdong_diao)
+[Jiaming Wang](authors/jiaming-wang), [Qingrui Zhou](authors/qingrui-zhou), [Wei Zheng](authors/wei-zheng), [Jingdong Diao](authors/jingdong-diao)
  
 ## Abstract
 Spacecraft formation flying for interferometric observations around the 2nd Lagrange point in the Sun-Earth system (SEL2) is currently focal point in deep space exploration research, which demands high precision in relative position control of spacecraft. This paper proposes the relative motion dynamics of satellite formations around the L2 point in the port-Hamiltonian framework, and establishes a high-precision nonlinear dynamics model. PID passivity-based control (PID-PBC) is widely used in engineering. However, existing methods of PID-PBC cannot address the trajectory tracking issues in port-Hamiltonian systems. Utilizing the contraction properties of the port-Hamiltonian system, this paper proposes the trajectory tracking PID-PBC (tPID-PBC) approach, effectively resolving trajectory tracking issues for formation dynamics around L2 point in port-Hamiltonian framework. The paper details explicit solutions of the Partial Differential Equations (PDE) for the tPID-PBC method and its controller structure, and references the trajectories of interferometric observation formations, to verify the method’s effectiveness through numerical simulation. The presented control approach is applicable across generic port-Hamiltonian systems, offering substantial theoretical value.

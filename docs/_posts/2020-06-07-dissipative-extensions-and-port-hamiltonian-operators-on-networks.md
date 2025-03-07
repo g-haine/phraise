@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Marcus Waurick](authors/marcus_waurick), [Sven-Ake Wegner](authors/sven_ake_wegner)
+[Marcus Waurick](authors/marcus-waurick), [Sven-Ake Wegner](authors/sven-ake-wegner)
  
 ## Abstract
 In this article we study port-Hamiltonian partial differential equations on certain one-dimensional manifolds. We classify those boundary conditions that give rise to contraction semigroups. As an application we study port-Hamiltonian operators on networks whose edges can have finite or infinite length. In particular, we discuss possibly infinite networks in which the edge lengths can accumulate zero and port-Hamiltonian operators with Hamiltonians that neither are bounded nor bounded away from zero. We achieve this, by first providing a new description for maximal dissipative extensions of skew-symmetric operators. The main technical tool used for this is the notion of boundary systems. The latter generalizes the classical notion of boundary triple(t)s and allows to treat skew-symmetric operators with unequal deficiency indices. In order to deal with fairly general variable coefficients, we develop a theory of possibly unbounded, non-negative, injective weights on an abstract Hilbert space.

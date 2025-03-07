@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[G. Nishida](authors/gou_nishida), [M. Yamakita](authors/masaki_yamakita)
+[G. Nishida](authors/gou-nishida), [M. Yamakita](authors/masaki-yamakita)
  
 ## Abstract
 This paper studies an extension of a Stokes-Dirac structure which is treated in a port-Hamiltonian formulation of distributed-parameter systems for a higher order. The extended structure does not only use exterior derivative operators but Hodge star operators and their composite operators to relate flows with efforts. The structure represents a differential relation between energy variables and it shows clearly some geometric properties.

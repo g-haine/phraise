@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Thomas Beckers](authors/thomas_beckers), [Jacob Seidman](authors/jacob_seidman), [Paris Perdikaris](authors/paris_perdikaris), [George J. Pappas](authors/george_j_pappas)
+[Thomas Beckers](authors/thomas-beckers), [Jacob Seidman](authors/jacob-seidman), [Paris Perdikaris](authors/paris-perdikaris), [George J. Pappas](authors/george-j-pappas)
  
 ## Abstract
 Data-driven approaches achieve remarkable results for the modeling of complex dynamics based on collected data. However, these models often neglect basic physical principles which determine the behavior of any real-world system. This omission is unfavorable in two ways: The models are not as data-efficient as they could be by incorporating physical prior knowledge, and the model itself might not be physically correct. We propose Gaussian Process Port-Hamiltonian systems (GPPHS) as a physics-informed Bayesian learning approach with uncertainty quantification. The Bayesian nature of GP-PHS uses collected data to form a distribution over all possible Hamiltonians instead of a single point estimate. Due to the underlying physics model, a GP-PHS generates passive systems with respect to designated inputs and outputs. Further, the proposed approach preserves the compositional nature of Port-Hamiltonian systems.

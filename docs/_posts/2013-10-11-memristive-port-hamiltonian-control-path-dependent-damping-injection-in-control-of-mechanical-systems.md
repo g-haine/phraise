@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[A. Dòria-Cerezo](authors/arnau_doria_cerezo), [L. van der Heijden](authors/l_van_der_heijden), [J.M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[A. Dòria-Cerezo](authors/arnau-doria-cerezo), [L. van der Heijden](authors/l-van-der-heijden), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 This paper presents the use of the memristor as a new element for designing passivity-based controllers. From the port-Hamiltonian description of the electrical circuits with memristors, a target dynamics is assigned to the matching equation proposed by the methodology known as Interconnection and Damping Assignment-Passivity-Based Control. The inclusion of the memristor element extends the closed-loop dynamics and it results in an extra term in the control algorithm that can be seen as a state-modulated gain. Two mechanical examples, in the form of position control systems, are included to show possible applications.

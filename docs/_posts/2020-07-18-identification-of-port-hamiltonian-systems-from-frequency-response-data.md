@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Peter Benner](authors/peter_benner), [Pawan Goyal](authors/pawan_goyal), [Paul Van Dooren](authors/paul_m_van_dooren)
+[Peter Benner](authors/peter-benner), [Pawan Goyal](authors/pawan-goyal), [Paul Van Dooren](authors/paul-m-van-dooren)
  
 ## Abstract
 In this paper, we study the identification problem of strictly passive systems from frequency response data. We present a simple construction approach based on the Mayo–Antoulas generalized realization theory that automatically yields a port-Hamiltonian realization for every strictly passive system with simple spectral zeros. Furthermore, we discuss the construction of a frequency-limited port-Hamiltonian realization. We illustrate the proposed method by means of several examples.

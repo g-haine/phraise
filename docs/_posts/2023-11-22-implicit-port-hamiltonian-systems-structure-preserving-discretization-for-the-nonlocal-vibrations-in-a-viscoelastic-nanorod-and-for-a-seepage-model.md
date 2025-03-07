@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine_bendimerad-Hohl), [Ghislain Haine](authors/ghislain_haine), [Laurent Lefèvre](authors/laurent_lefevre), [Denis Matignon](authors/denis_matignon)
+[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-Hohl), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 A structure-preserving partitioned finite element method (PFEM), for the semi-discretization of infinite-dimensional explicit port-Hamiltonian systems (pHs), is extended to those pHs of implicit type, leading to port-Hamiltonian differential Algebraic Equations (pH-DAE). Two examples are dealt with: the nonlocal vibrations in a viscoelastic nanorod in 1D, and the dynamics of a fluid filtration model, the Dzektser seepage model in 2D, for which illustrative numerical simulations are provided.

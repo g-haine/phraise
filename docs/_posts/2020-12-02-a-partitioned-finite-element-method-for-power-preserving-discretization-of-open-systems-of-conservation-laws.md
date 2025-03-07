@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Laurent Lefèvre](authors/laurent_lefevre)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 This paper presents a structure-preserving spatial discretization method for distributed parameter port-Hamiltonian systems. The class of considered systems are hyperbolic systems of two conservation laws in arbitrary spatial dimension and geometries. For these systems, a partitioned finite element method (PFEM) is derived, based on the integration by parts of one of the two conservation laws written in weak form. The non-linear one-dimensional shallow-water equation (SWE) is first considered as a motivation example. Then, the method is investigated on the example of the non-linear two-dimensional SWE. Complete derivation of the reduced finite-dimensional port-Hamiltonian system (pHs) is provided and numerical experiments are performed. Extensions to curvilinear (polar) coordinate systems, space-varying coefficients and higher-order pHs (Euler–Bernoulli beam equation) are provided.

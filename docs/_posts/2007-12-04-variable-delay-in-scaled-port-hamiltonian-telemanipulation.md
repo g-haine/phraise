@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Cristian Secchi](authors/cristian_secchi), [Stefano Stramigioli](authors/stefano_stramigioli), [Cesare Fantuzzi](authors/cesare_fantuzzi)
+[Cristian Secchi](authors/cristian-secchi), [Stefano Stramigioli](authors/stefano-stramigioli), [Cesare Fantuzzi](authors/cesare-fantuzzi)
  
 ## Abstract
 In several applications involving bilateral telemanipulation, master and slave robots act at different power scales (e.g. telesurgery, micromanipulation). Scaling forces and velocities means scaling the power that is exchanged between master and slave sides through the communication channel. In this paper we show how it is possible to embed power scaling in the scattering based communication channel used in port-Hamiltonian based telemanipulation. Furthermore, a strategy for passively dealing with variable communication delay is proposed in order to allow scaled teleoperation over packet switched networks as Internet.

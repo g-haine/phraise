@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Dmitry Gromov](authors/dmitry_gromov), [Alexander L. Fradkov](authors/alexander_l_fradkov), [Mikhail S. Ananyevskiy](authors/mikhail_s_ananyevskiy)
+[Dmitry Gromov](authors/dmitry-gromov), [Alexander L. Fradkov](authors/alexander-l-fradkov), [Mikhail S. Ananyevskiy](authors/mikhail-s-ananyevskiy)
  
 ## Abstract
 A generalization of the results obtained earlier in M. S. Ananyevskiy, A. L. Fradkov, and H. Nijmeijer; Control of mechanical systems with constraints: two pendulums case study, IFAC Proceedings Volumes, vol. 41, no. 2, pp. 7690–7694, 2008. is presented. Three control problems for complex systems consisting of port-Hamiltonian subsystems are formulated. In particular, the problem of exciting a number of identical port-Hamiltonian systems to given (not necessarily equal) energy levels while ensuring strict bounds on the energy levels of remaining systems is studied. Solvability conditions based on speed-gradient control are established. The obtained results are illustrated by numerical simulations.

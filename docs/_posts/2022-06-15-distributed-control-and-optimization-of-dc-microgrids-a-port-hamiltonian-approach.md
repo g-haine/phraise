@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Babak Abdolmaleki](authors/babak_abdolmaleki), [Gilbert Bergna-Diaz](authors/gilbert_bergna_diaz)
+[Babak Abdolmaleki](authors/babak-abdolmaleki), [Gilbert Bergna-Diaz](authors/gilbert-bergna-diaz)
  
 ## Abstract
 This article proposes a distributed secondary control scheme that drives a dc microgrid to an equilibrium point where the generators share optimal currents, and their voltages have a weighted average of nominal value. The scheme does not rely on the electric system topology nor its specifications; it guarantees plug-and-play design and functionality of the generators. First, the incremental model of the microgrid system with constant impedance, current, and power devices is shown to admit a port-Hamiltonian (pH) representation, and its passive output is determined. The economic dispatch problem is then solved by the Lagrange multipliers method; the Karush-Kuhn-Tucker conditions and weighted-average formation of voltages are then formulated as the control objectives. We propose a control scheme that is based on the Control by Interconnection design philosophy, where the consensus-based controller is viewed as a virtual pH system to be interconnected with the physical one. We prove the regional asymptotic stability of the closed-loop system using Lyapunov and LaSalle theorems. Equilibrium analysis is also conducted based on the concepts of graph theory and economic dispatch. Finally, the effectiveness of the presented scheme for different case studies is validated with a test microgrid system, simulated in both MATLAB/Simulink and OPAL-RT environments.

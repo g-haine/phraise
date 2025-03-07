@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Ramkrishna Pasumarthy](authors/ramkrishna_pasumarthy), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Ramkrishna Pasumarthy](authors/ramkrishna-pasumarthy), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 We look into the problem of approximating a distributed parameter port-Hamiltonian system which is represented by a non-constant Stokes-Dirac structure. We here employ the idea where we use different finite elements for the approximation of geometric variables (forms) describing an infinite-dimensional system, to spatially discretize the system and obtain a finite-dimensional port-Hamiltonian system. In particular we take the example of a special case of the shallow water equations

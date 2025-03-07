@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Federico Califano](authors/federico_califano), [Ramy Rashad](authors/ramy_rashad), [Frederic P. Schuller](authors/frederic_p_schuller), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Federico Califano](authors/federico-califano), [Ramy Rashad](authors/ramy-rashad), [Frederic P. Schuller](authors/frederic-p-schuller), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 A port-Hamiltonian model for compressible Newtonian fluid dynamics is presented in entirely coordinate-independent geometric fashion. This is achieved by the use of tensor-valued differential forms that allow us to describe the interconnection of the power preserving structure which underlies the motion of perfect fluids to a dissipative port which encodes Newtonian constitutive relations of shear and bulk stresses. The relevant diffusion and the boundary terms characterizing the Navier–Stokes equations on a general Riemannian manifold arise naturally from the proposed construction.

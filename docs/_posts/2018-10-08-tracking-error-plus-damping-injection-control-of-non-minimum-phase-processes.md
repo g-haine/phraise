@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[T. Sang Nguyen](authors/thanh_sang_nguyen), [N. Ha Hoang](authors/ngoc_ha_hoang), [M.A. Hussain](authors/mohd_azlan_hussain)
+[T. Sang Nguyen](authors/thanh-sang-nguyen), [N. Ha Hoang](authors/ngoc-ha-hoang), [M.A. Hussain](authors/mohd-azlan-hussain)
  
 ## Abstract
 This work proposes a passivity-based approach to deal with the output-tracking-error problem for a large class of nonlinear chemical processes including non-minimum phase systems. More precisely, in that framework, the system dynamics is firstly written into the relaxing (pseudo) port-Hamiltonian representation which does not necessarily require the positive semi-definite property of the damping matrix. Then, a reference trajectory associated with a certain structure passing through a desired equilibrium point (i.e., the set-point) is chosen so that the error dynamics can be globally asymptotically stabilized at the origin thanks to the assignment of an appropriate damping injection. This method is subsequently illustrated for a benchmark of multiple reactions systems, namely Van de Vusse reaction system. The numerical simulations show the applications of the proposed approach.

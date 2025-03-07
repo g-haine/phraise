@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Ngoc Minh Trang Vu](authors/ngoc_minh_trang_vu), [Laurent Lefèvre](authors/laurent_lefevre), [Rémy Nouailletas](authors/remy_nouailletas)
+[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Laurent Lefèvre](authors/laurent-lefevre), [Rémy Nouailletas](authors/remy-nouailletas)
  
 ## Abstract
  A geometric spatial reduction for the port-Hamiltonian models is presented in this paper. It is based on the projection which makes use of the symmetries and on the preservation of the ‘natural’ power pairing for the considered system. Thanks to this reduction, an Interconnection and Damping Assignment Passivity Based Control (IDA-PBC-like) synthesis for infinite dimensional port-Hamiltonian systems is investigated. As for the finite dimensional case, a feedback control transforms the original model into a closed-loop target Hamiltonian model. Both distributed control and boundary control are used. The finite rank distributed control is determined to solve an average IDA-PBC matching equation. A backstepping boundary control is used to stabilize the matching error. The control model chosen to illustrate the approach is the so-called resistive diffusion equation for the radial diffusion of the poloidal magnetic flux.

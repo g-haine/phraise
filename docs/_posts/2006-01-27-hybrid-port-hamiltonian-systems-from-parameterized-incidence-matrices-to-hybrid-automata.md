@@ -18,7 +18,7 @@ tags:
 ---
  
 ## Authors
-[C. Valentin](authors/claire_valentin), [M. Magos](authors/miguel_magos), [B. Maschke](authors/bernhard_maschke)
+[C. Valentin](authors/claire-valentin), [M. Magos](authors/miguel-magos), [B. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 This paper shows how to formally design a hybrid automaton model for a wide class of dissipative physical systems with sources and switching topology. This method is based on a mathematical representation of the dynamic network graph and of its dual graph, using the hybrid incidence matrix, and on a constructive method for analyzing admissible and constrained configurations. The port–Hamiltonian representation associated with the set of hybrid system configurations, parameterized by the discrete state of the switches, is synthesized to be part of the hybrid automaton of the system. This is a further step towards a generic control synthesis for physical switching systems.

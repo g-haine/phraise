@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Satoshi Satoh](authors/satoshi_satoh), [Kenji Fujimoto](authors/kenji_fujimoto)
+[Satoshi Satoh](authors/satoshi-satoh), [Kenji Fujimoto](authors/kenji-fujimoto)
  
 ## Abstract
 The authors have extended deterministic port-Hamiltonian systems into stochastic dynamical systems which are described by stochastic differential equations written in the sense of Itô, called stochastic port-Hamiltonian systems. This paper introduces variational systems and their adjoint ones for the stochastic port-Hamiltonian systems. We also reveal some of their properties, particularly an extension of a self-adjoint property of deterministic Hamiltonian systems, which plays an important role in learning optimal control for the deterministic Hamiltonian systems.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Julian Burghoff](authors/julian_burghoff), [Marc Heinrich Monells](authors/marc_heinrich_monells), [Hanno Gottschalk](authors/hanno_gottschalk)
+[Julian Burghoff](authors/julian-burghoff), [Marc Heinrich Monells](authors/marc-heinrich-monells), [Hanno Gottschalk](authors/hanno-gottschalk)
  
 ## Abstract
 The highly structured energy landscape of the loss as a function of parameters for deep neural networks makes it necessary to use sophisticated optimization strategies in order to discover (local) minima that guarantee reasonable performance. Overcoming less suitable local minima is an important prerequisite and often momentum methods are employed to achieve this. As in other non local optimization procedures, this however creates the necessity to balance between exploration and exploitation. In this work, we suggest an event based control mechanism for switching from exploration to exploitation based on reaching a predefined reduction of the loss function. As we give the momentum method a port Hamiltonian interpretation, we apply the ’heavy ball with friction’ interpretation and trigger breaking (or friction) when achieving certain goals. We benchmark our method against standard stochastic gradient descent and provide experimental evidence for improved performance of deep neural networks when our strategy is applied.

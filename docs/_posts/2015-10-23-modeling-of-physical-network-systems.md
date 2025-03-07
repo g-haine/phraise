@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 Conservation laws and balance equations for physical network systems typically can be described with the aid of the incidence matrix of a directed graph, and an associated symmetric Laplacian matrix. Some basic examples are discussed, and the extension to k -complexes is indicated. Physical distribution networks often involve a non-symmetric Laplacian matrix. It is shown how, in case the connected components of the graph are strongly connected, such systems can be converted into a form with balanced Laplacian matrix by constructive use of Kirchhoff’s Matrix Tree theorem, giving rise to a port-Hamiltonian description. Application to the dual case of asymmetric consensus algorithms is given. Finally it is shown how the minimal storage function for physical network systems with controlled flows can be explicitly computed.

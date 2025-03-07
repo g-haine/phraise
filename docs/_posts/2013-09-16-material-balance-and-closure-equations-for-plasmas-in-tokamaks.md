@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Ngoc Minh Trang Vu](authors/ngoc_minh_trang_vu), [Laurent Lefèvre](authors/laurent_lefevre)
+[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 A port-Hamiltonian model is derived for the thermo-magneto-hydrodynamics (TMHD) of plasma in tokamaks. This paper focuses on the balance and closure equations in the material domain. First a kinetic theory point of view is adopted and transport equations are derived from the Boltzmann equation. Then material derivatives are introduced to derive macroscopic balance equations of the TMHD fluid model from these kinetic transport equations. Finally, the Gibbs-Duhem equation is used to compute the irreversible entropy source term and to define the interdomain ℛ - field of the model.

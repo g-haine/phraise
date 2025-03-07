@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Xinggui Liu](authors/xinggui_liu), [Mei Zhao](authors/mei_zhao)
+[Xinggui Liu](authors/xinggui-liu), [Mei Zhao](authors/mei-zhao)
  
 ## Abstract
 The memristor is added to the port‐Hamiltonian systems to improve the disturbance suppression performance in this paper. The concepts of locally fixed‐time stability and locally fixed‐time control of port‐Hamiltonian systems are presented. From this starting point, two novel memristor‐based locally fixed‐time controllers are designed to suppress the external disturbance of port‐Hamiltonian systems via the interconnection and damping assignment passivity‐based control technique. Comparing with the classical interconnection and damping assignment passivity‐based control methodology without memristor, there are some advantages. First, the settling‐time related to the memristor‐based controllers in stabilizing the same port‐Hamiltonian systems are shorter. Second, the memristor‐based controllers can make the oscillation in the case of the strong periodic disturbance be better suppressed. Theoretical analysis shows that the memristor‐based controller possesses good disturbance rejection performance owing to it can make the system states in a neighbourhood accelerate convergence to the desired equilibrium point. Two illustrative examples show that the theoretical results and the controllers designed in this paper work very well.

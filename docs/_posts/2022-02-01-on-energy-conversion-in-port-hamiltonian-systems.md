@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan_van_der_schaft), [Dimitri Jeltsema](authors/dimitri_jeltsema)
+[Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
  
 ## Abstract
 Port-Hamiltonian systems with two external ports are studied, together with the strategies and obstructions for conversion of energy from one port to the other. Apart from the cyclo-passivity properties, this turns out to be intimately related to the interconnection topology of the system. A prime source of motivation for energy conversion is thermodynamics, in particular the Carnot-Clausius heat engine theory about conversion of thermal into mechanical energy. This classical theory is extended to general port-Hamiltonian systems satisfying structural conditions on their topology. In particular, the operation of Carnot cycles is generalized. This is illustrated by the examples of a precursor to the Stirling engine and an electro-mechanical actuator. Finally, alternative energy conversion schemes for general port-Hamiltonian systems, such as energy-routers, are discussed from the same vantage point.

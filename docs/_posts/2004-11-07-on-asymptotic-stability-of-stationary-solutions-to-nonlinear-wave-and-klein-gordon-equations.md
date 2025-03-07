@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[A. Komech](authors/alexander_komech), [B. Vainberg](authors/b_vainberg)
+[A. Komech](authors/alexander-komech), [B. Vainberg](authors/b-vainberg)
  
 ## Abstract
 We consider nonlinear wave and Klein-Gordon equations with general nonlinear terms, localized in space. Conditions are found which provide asymptotic stability of stationary solutions in local energy norms. These conditions are formulated in terms of spectral properties of the Schrödinger operator corresponding to the linearized problem. They are natural extensions to partial differential equations of the known Lyapunov condition. For the nonlinear wave equation in three-dimensional space we find asymptotic expansions, as t →∞, of the solutions which are close enough to a stationary asymptotically stable solution.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ernest Benedito](authors/ernest_benedito), [Dunstano del Puerto-Flores](authors/dunstano_del_puerto_flores), [Arnau Dòria-Cerezo](authors/arnau_doria_cerezo), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Ernest Benedito](authors/ernest-benedito), [Dunstano del Puerto-Flores](authors/dunstano-del-puerto-flores), [Arnau Dòria-Cerezo](authors/arnau-doria-cerezo), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this paper an algorithm for solving the Optimal Power Flow problem for multi-terminal DC networks based on the gradient method is proposed. The aim is seeking the optimal point subject to voltage, current and power constraints. The algorithm is described by a continuous-time port-Hamiltonian model, and the inequality constrains are included by the use of barrier functions. The dynamics of the algorithm is studied and stability conditions are obtained. Finally, the method is used for the offshore wind integration grid in the North Sea and the interconnection with the network dynamics is tested by means of numerical simulations.

@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Krishna Chaitanya Kosaraju](authors/krishna_chaitanya_kosaraju), [Ramkrishna Pasumarthy](authors/ramkrishna_pasumarthy), [Dimitri Jeltsema](authors/dimitri_jeltsema)
+[Krishna Chaitanya Kosaraju](authors/krishna-chaitanya-kosaraju), [Ramkrishna Pasumarthy](authors/ramkrishna-pasumarthy), [Dimitri Jeltsema](authors/dimitri-jeltsema)
  
 ## Abstract
 This paper aims at developing a Brayton-Moser analogue of an infinite-dimensional system in the port-Hamiltonian framework, defined with respect to a Stokes-Dirac structure. It is shown that such a formulation leads to defining alternative passive maps, which differ from those in the port-Hamiltonian framework via a “power-like” function called the mixed-potential function. This mixed-potential function can also be used for stability analysis. We present our results for a general port-Hamiltonian system, with Maxwell's equations and the transmission line, with nonzero boundary conditions, as examples.

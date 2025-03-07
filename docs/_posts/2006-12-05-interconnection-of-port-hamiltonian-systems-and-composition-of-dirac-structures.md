@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[J. Cervera](authors/j_cervera), [A.J. van der Schaft](authors/arjan_van_der_schaft), [A. Baños](authors/a_banos)
+[J. Cervera](authors/j-cervera), [A.J. van der Schaft](authors/arjan-van-der-schaft), [A. Baños](authors/a-banos)
  
 ## Abstract
 Port-based network modeling of physical systems leads to a model class of nonlinear systems known as port-Hamiltonian systems. Port-Hamiltonian systems are defined with respect to a geometric structure on the state space, called a Dirac structure. Interconnection of port-Hamiltonian systems results in another port-Hamiltonian system with Dirac structure defined by the composition of the Dirac structures of the subsystems. In this paper the composition of Dirac structures is being studied, both in power variables and in wave variables (scattering) representation. This latter case is shown to correspond to the Redheffer star product of unitary mappings. An equational representation of the composed Dirac structure is derived. Furthermore, the regularity of the composition is being studied. Necessary and sufficient conditions are given for the achievability of a Dirac structure arising from the standard feedback interconnection of a plant port-Hamiltonian system and a controller port-Hamiltonian system, and an explicit description of the class of achievable Casimir functions is derived.

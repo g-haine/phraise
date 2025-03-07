@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Bernhard Maschke](authors/bernhard_maschke), [Daniel Sbarbaro](authors/daniel_sbarbaro)
+[Hector Ramirez](authors/hector-ramirez), [Bernhard Maschke](authors/bernhard-maschke), [Daniel Sbarbaro](authors/daniel-sbarbaro)
  
 ## Abstract
 Control contact systems represent controlled (or open) irreversible processes which allow us to represent simultaneously the energy conservation and the irreversible creation of entropy. Such systems systematically arise in models established in Chemical Engineering. The differential-geometric of these systems is a contact form in the same manner as the symplectic 2-form is associated to Hamiltonian models of mechanics. In this paper we study the feedback preserving the geometric structure of controlled contact systems and render the closed-loop system again as a contact system. It is shown that only a constant control preserves the canonical contact form, hence a state feedback necessarily changes the closed-loop contact form. For strict contact systems, arising from the modelling of thermodynamic systems, a class of state feedback that shapes the closed-loop contact form and contact Hamiltonian function is proposed. The state feedback is given by the composition of an arbitrary function and the control contact Hamiltonian function. The similarity with structure preserving feedback of input–output Hamiltonian systems leads to the definition of input–output contact systems and to the characterization of the feedback equivalence of input–output contact systems. An irreversible thermodynamic process, namely the heat exchanger, is used to illustrate the results.

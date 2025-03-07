@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal_ponce), [Nelson Cisneros](authors/nelson_cisneros), [Yongxin Wu](authors/yongxin_wu), [Kanty Rabenorosoa](authors/kanty_rabenorosoa), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
+[Cristobal Ponce](authors/cristobal-ponce), [Nelson Cisneros](authors/nelson-cisneros), [Yongxin Wu](authors/yongxin-wu), [Kanty Rabenorosoa](authors/kanty-rabenorosoa), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
  
 ## Abstract
 This paper presents a modeling methodology to enhance the dynamic performance of the mechanical component of finite-dimensional curling HASEL (Hydraulically Amplified Self-Healing Electrostatic) actuators within the port-Hamiltonian systems framework. The proposed approach entails replacing the sheet dynamics that limit deformation in a low-scale model with those derived from a large-scale discretized beam model. By making a few additional assumptions compared to the original low-scale HASEL model, the resulting interconnected system is established by aligning the states of the mechanical component in the low-scale model with those of the large-scale beam model in a straightforward manner. To validate the effectiveness of the methodology, simulated examples are provided along with a comparison to experimental results.

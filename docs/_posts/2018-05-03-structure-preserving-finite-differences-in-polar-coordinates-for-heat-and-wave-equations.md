@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Vincent Trenchant](authors/vincent_trenchant), [Weiwei Hu](authors/weiwei_hu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Vincent Trenchant](authors/vincent-trenchant), [Weiwei Hu](authors/weiwei-hu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper proposes a finite difference spatial discretization that preserves the geometrical structure, i.e. the Dirac structure, underlying 2D heat and wave equations in cylindrical coordinates. These equations are shown to rely on Dirac structures for a particular set of boundary conditions. The discretization is completed with time integration based on Stormer-Verlet method.

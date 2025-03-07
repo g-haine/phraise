@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Markus Lohmayer](authors/markus_lohmayer), [Sigrid Leyendecker](authors/sigrid_leyendecker)
+[Markus Lohmayer](authors/markus-lohmayer), [Sigrid Leyendecker](authors/sigrid-leyendecker)
  
 ## Abstract
 A prevalent theme throughout science and engineering is the ongoing paradigm shift from isolated systems to open and interconnected systems. Port-Hamiltonian theory developed as a synthesis of geometric mechanics and network theory. The possibility to model complex multiphysical systems via interconnection of simpler components is often advertised as one of its most attractive features. The development of a port-Hamiltonian modelling language however remains a topic which has not been sufficiently addressed. We report on recent progress towards the formalization and implementation of a modelling language for exergetic port-Hamiltonian systems. Its diagrammatic syntax is the operad of undirected wiring diagrams with an interpretation akin to bond graphs. Together with a port-Hamiltonian semantics defined as an operad functor, this enables a modular and hierarchical approach to model specification.

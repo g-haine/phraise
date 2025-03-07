@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Björn Augner](authors/bjorn_augner)
+[Björn Augner](authors/bjorn-augner)
  
 ## Abstract
 Boundary feedback stabilisation of linear port-Hamiltonian systems on an interval is considered. Generation and stability results already known for linear feedback are extended to nonlinear dissipative feedback, both to static feedback control and dynamic control via an (exponentially stabilising) nonlinear controller. A design method for nonlinear controllers of linear port-Hamiltonian systems is introduced. As a special case the Euler-Bernoulli beam is considered.

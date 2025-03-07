@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[T. Hung Pham](authors/thanh_hung_pham), [I. Prodan](authors/ionela_prodan), [D. Genon-Catalot](authors/denis_genon_catalot), [L. Lefévre](authors/laurent_lefevre)
+[T. Hung Pham](authors/thanh-hung-pham), [I. Prodan](authors/ionela-prodan), [D. Genon-Catalot](authors/denis-genon-catalot), [L. Lefévre](authors/laurent-lefevre)
  
 ## Abstract
 This paper considers the problem of modeling a multi-source lift system where power balancing - realized through a power DC bus - should be optimally controlled. The system includes the mechanical part, a Salient Permanent Magnet Synchronous Machine (SPMSM), a battery energy storage unit, a super-capacitor, a solar panel (PV) generation unit as well as the corresponding converters to DC-links. This microgrid is connected to a three-phase utility (external) grid. A port-Hamiltonian model is proposed for the system. It includes the descriptions of nonlinear characteristics and the limitations for each components as well as some typical operation demands.

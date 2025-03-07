@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro_macchelli), [A.J. van der Schaft](authors/arjan_van_der_schaft), [C. Melchiorri](authors/claudio_melchiorri)
+[A. Macchelli](authors/alessandro-macchelli), [A.J. van der Schaft](authors/arjan-van-der-schaft), [C. Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 In this paper, some new results concerning the boundary control of distributed parameter systems in port Hamiltonian form are presented. The classical finite dimensional port Hamiltonian formulation of a dynamical system has been generalized to the distributed parameter and multivariable case by extending the notion of finite dimensional Dirac structure in order to deal with an infinite dimensional space of power variables. Consequently, it seems natural that also finite dimensional control methodologies developed for finite dimensional port Hamiltonian systems can be extended in order to cope with infinite dimensional systems. In this paper, the control by interconnection and energy shaping methodology is applied to the stabilization problem of a distributed parameter system by means of a finite dimensional controller. The key point is the generalization of the definition of Casimir function to the hybrid case, i.e. when the dynamical system to be considered results from the power conserving interconnection of an infinite and a finite dimensional part. A simple application concerning the stabilization of the one-dimensional heat equation is presented.

@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas_kirchhoff)
+[Jonas Kirchhoff](authors/jonas-kirchhoff)
  
 ## Abstract
 The present work is a successor of Ilchmann and Kirchhoff (Math Control Signals Syst 33:359–377, 2021. https://doi.org/10.1007/s00498-021-00287-x ), Ilchmann and Kirchhoff (Math Control Signals Syst 35:45–76, 2023. https://doi.org/10.1007/s00498-021-00287-x ) on (relative) generic controllability of unstructured linear differential-algebraic systems and of Ilchmann et al. (Port-Hamiltonian descriptor systems are generically controllable and stabilizable. Submitted to Mathematics of Control, Signals and Systems, 2023. https://arxiv.org/abs/2302.05156 ) on (relative) generic controllability of port-Hamiltonian descriptor systems. We extend their results to (relative) genericity of observability. For unstructured differential-algebraic systems, criteria for (relative) generic observability are derived from Ilchmann and Kirchhoff (Math Control Signals Syst 35:45–76, 2023. https://doi.org/10.1007/s00498-021-00287-x ) using duality. This is not possible for port-Hamiltonian systems. Hence, we tweak the results of Ilchmann et al. (Port-Hamiltonian descriptor systems are generically controllable and stabilizable. Submitted to Mathematics of Control, Signals and Systems, 2023. https://arxiv.org/abs/2302.05156 ) and derive similar criteria as for the unstructured case. Additionally, we consider certain rank constraints on the system matrices.

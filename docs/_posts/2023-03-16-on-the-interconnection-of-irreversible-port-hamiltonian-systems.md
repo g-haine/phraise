@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 Different from mechanic or reversible systems, such as port-Hamiltonian systems (PHS), which preserves the energy or the Hamiltonian, irreversible PHS (IPHS) also satisfy the second law of Thermodynamics, i.e., the internal entropy production of the system is always greater or equal to zero. Hence, when considering the interconnection of IPHS, it must be so that the first and second laws of Thermodynamics are satisfied, implying that the interconnection must be power-preserving and entropy-increasing. In this work the conditions for a thermodynamic admissible interconnection of IPHS have been studied and characterized. The interconnection law is given by a state modulated input-output feedback, in which each modulating function is related and defined by the corresponding irreversible thermodynamic driving force induced by the interconnection. The interconnection law also encompasses the reversible interactions, and can be interpreted as a generalization of a power-preserving interconnection to deal with thermodynamic systems. The result has been illustrated on the abstract interconnection of purely thermodynamic and thermo-mechanic systems, and on the examples of an ideal heat-exchanger and a gas-piston system.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Philipp Schulze](authors/philipp_schulze), [Benjamin Unger](authors/benjamin_unger)
+[Philipp Schulze](authors/philipp-schulze), [Benjamin Unger](authors/benjamin-unger)
  
 ## Abstract
 We introduce a novel model order reduction (MOR) method for large-scale linear switched systems (LSS) where the coefficient matrices are affected by a low-rank switching. The key idea is to replace the LSS by a nonswitched system with extended input and output vectors---called the envelope system---which is able to reproduce the dynamical behavior of the original LSS by applying a certain feedback law. The envelope system can be reduced using standard MOR schemes and then transformed back into an LSS. Furthermore, we present an upper bound for the output error of the reduced-order LSS and show how to preserve quadratic Lyapunov stability. The approach is tested by means of a numerical example demonstrating the efficacy of the presented method.

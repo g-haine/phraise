@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[I. Zafeiratou](authors/i_zafeiratou), [I. Prodan](authors/ionela_prodan), [L. Lefèvre](authors/laurent_lefevre)
+[I. Zafeiratou](authors/i-zafeiratou), [I. Prodan](authors/ionela-prodan), [L. Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 This paper pertains to the flat representation of a class of port-Hamiltonian (PH) systems and advocates the use of bicausality of Bond graphs for finding appropriate flat outputs. Systems which are differentially flat have several useful properties which can be exploited to generate, for example, optimal trajectories/profiles which ensure constraints satisfaction. For the special case of PH systems combining the power preserving property with the flatness properties leads to effective control strategies for multi-physical systems. Hence, the purpose of this paper is to explore the implications and features of a particular class of PH systems (which can be retrieved from a Bond Graph representation) in finding their flat output representation. We concentrate on the example of an electrical storage system of a DC microgrid to illustrate the proposed theory.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Lukas Ecker](authors/lukas_ecker), [Tobias Malzer](authors/tobias_malzer), [Arne Wahrburg](authors/arne_wahrburg), [Markus Schöberl](authors/markus_schoberl)
+[Lukas Ecker](authors/lukas-ecker), [Tobias Malzer](authors/tobias-malzer), [Arne Wahrburg](authors/arne-wahrburg), [Markus Schöberl](authors/markus-schoberl)
  
 ## Abstract
 This contribution is concerned with the design of observers for a single mast stacker crane, which is used, e. g., for storage and removal of loads in automated warehouses. As the mast of such stacker cranes is typically a lightweight construction, the system under consideration is described by ordinary as well as partial differential equations, i. e., the system exhibits a mixed finite-/infinite-dimensional character. We will present two different observer designs, an Extended Kalman Filter based on a finite-dimensional system approximation, using the Rayleigh-Ritz method and an approach exploiting the port-Hamiltonian system representation for the mixed finite-/infinite-dimensional scenario where in particular the observer-error system should be formulated in the port-Hamiltonian framework. The mixed-dimensional observer and the Kalman Filter are employed to estimate the deflection of the beam based on signals acquired by an inertial measurement unit at the beam tip. Such an approach considerably simplifies mechatronic integration as it renders strain-gauges at the base of the mast obsolete. Finally, measurement results demonstrate the capability of these approaches for monitoring and vibration-rejection purposes.

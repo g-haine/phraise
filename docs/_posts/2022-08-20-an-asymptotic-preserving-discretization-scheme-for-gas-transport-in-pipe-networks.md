@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[H Egger](authors/herbert_egger), [J Giesselmann](authors/jan_giesselmann), [T Kunkel](authors/t_kunkel), [N Philippi](authors/n_philippi)
+[H Egger](authors/herbert-egger), [J Giesselmann](authors/jan-giesselmann), [T Kunkel](authors/t-kunkel), [N Philippi](authors/n-philippi)
  
 ## Abstract
 We consider the simulation of barotropic flow of gas in long pipes and pipe networks. Based on a Hamiltonian reformulation of the governing system, a fully discrete approximation scheme is proposed using mixed finite elements in space and an implicit Euler method in time. Assuming the existence of a smooth subsonic solution bounded away from vacuum, a full convergence analysis is presented based on relative energy estimates. Particular attention is paid to establishing error bounds that are uniform in the friction parameter. As a consequence, the method and results also cover the parabolic problem arising in the asymptotic large friction limit. The error estimates are derived in detail for a single pipe, but using appropriate coupling conditions and the particular structure of the problem and its discretization, the main results directly generalize to pipe networks. Numerical tests are presented for illustration.

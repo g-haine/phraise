@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Yu Kawano](authors/yu_kawano), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Yu Kawano](authors/yu-kawano), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this paper, we present a novel balancing method for nonlinear port Hamiltonian systems based on the Hamiltonian and the controllability function. This corresponding balanced truncation method results in a reduced-order model that is still in port Hamiltonian form in contrast to the traditional balanced truncation method based on the controllability and observability functions.

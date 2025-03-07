@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Francois Lamoline](authors/francois_lamoline)
+[Francois Lamoline](authors/francois-lamoline)
  
 ## Abstract
 We study infinite-dimensional stochastic port-Hamiltonian systems (SPHSs) having multiplicative and boundary input noise. Using Itô and Stratonovich integrals on Hilbert spaces, a formal mathematical description of this specific class of stochastic systems is presented, and some properties, including almost sure and weak passivity, are investigated. By considering dissipative effects, we derive a condition for SPHSs to be weakly passive. Finally, the stochastic port-Hamiltonian framework and the passivity concepts are illustrated on the example of an inhomogeneous vibrating string subject to random damping and state noises.

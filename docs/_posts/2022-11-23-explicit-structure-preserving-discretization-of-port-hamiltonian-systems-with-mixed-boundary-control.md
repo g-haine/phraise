@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea_brugnoli), [Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon)
+[Andrea Brugnoli](authors/andrea-brugnoli), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 In this contribution, port-Hamiltonian systems with non-homogeneous mixed boundary conditions are discretized in a structure-preserving fashion by means of the Partitioned FEM. This means that the power balance and the port-Hamiltonian structure of the continuous equations is preserved at the discrete level. The general construction relies on a weak imposition of the boundary conditions by means of the Hellinger-Reissner variational principle, as recently proposed in [Thoma et al., 2021]. The case of linear hyperbolic wave-like systems, including the elastodynamic problem and the Maxwell equations in 3D, is then illustrated in detail. A numerical example is worked out on the case of the wave equation.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Yu Kawano](authors/yu_kawano), [Alessio Moreschini](authors/alessio_moreschini), [Michele Cucuzzella](authors/michele_cucuzzella)
+[Yu Kawano](authors/yu-kawano), [Alessio Moreschini](authors/alessio-moreschini), [Michele Cucuzzella](authors/michele-cucuzzella)
  
 ## Abstract
 In this paper, we design a sampled-data distributed output feedback controller to achieve output consensus for linear continuous-time port-Hamiltonian systems in presence of unknown disturbances. The key idea is borrowed from Krasovskii passivity-based output consensus control for continuous-time dynamics. To conceptualise this rationale to sampled control systems, we deal with a discrete-time system arising from a symplectic discretization of a continuous-time linear port-Hamiltonian system, such as the implicit midpoint method. As a preliminary step, we introduce the concept of Krasovskii passivity for discrete-time systems and further show that a discretized linear port-Hamiltonian system is Krasovskii passive in the discrete-time sense. Then, based on the discrete-time version of Krasovskii passivity, we develop a sampled-data output feedback controller to achieve output consensus. The proposed sampled-data controller can be understood as a symplectic discretization of the continuous-time output consensus controller. Finally, we illustrate the effectiveness of the main result by achieving current sharing in a DC power network.

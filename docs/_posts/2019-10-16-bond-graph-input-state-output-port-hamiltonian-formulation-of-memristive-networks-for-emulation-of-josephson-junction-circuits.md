@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Israa Badr Nasser Al-Mashhadani](authors/israa_badr_nasser_al_mashhadani), [Sillas Hadjiloucas](authors/sillas_hadjiloucas)
+[Israa Badr Nasser Al-Mashhadani](authors/israa-badr-nasser-al-mashhadani), [Sillas Hadjiloucas](authors/sillas-hadjiloucas)
  
 ## Abstract
 A bond graph Input-State-Output Port-Hamiltonian formulation of memristive networks for Josephson junction circuits in state space is presented. The methodology has applications to the modeling of SQUIDs and other non-linear transducers and enables the formulation of input-output models of complex components embedded in non-linear networks.

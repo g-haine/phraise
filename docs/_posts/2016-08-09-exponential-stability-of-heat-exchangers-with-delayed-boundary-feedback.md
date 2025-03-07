@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Hideki Sano](authors/hideki_sano)
+[Hideki Sano](authors/hideki-sano)
  
 ## Abstract
 This paper is concerned with the exponential stability of heat exchangers with delayed boundary feedback. Especially, heat exchangers of counter-flow type/parallel-flow type are treated, where they are respectively described by a coupled hyperbolic equations with time lag in the boundary feedback loop. When time lag does not exist, the exponential stability has been shown for counter-flow type by using the port Hamiltonian approach as well as the spectral analysis, and the conditions for the exponential stability to be assured are given. In this paper, time lag is expressed by using a transport equation, and the port Hamiltonian approach is applied to the whole system. A condition for the system with time lag to be exponentially stable is derived for counter-flow type and parallel-flow type.

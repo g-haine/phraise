@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[T. Hung Pham](authors/thanh_hung_pham), [I. Prodan](authors/ionela_prodan), [D. Genon-Catalot](authors/denis_genon_catalot), [L. Lefèvre](authors/laurent_lefevre)
+[T. Hung Pham](authors/thanh-hung-pham), [I. Prodan](authors/ionela-prodan), [D. Genon-Catalot](authors/denis-genon-catalot), [L. Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 This paper considers the problem of power balancing in a DC microgrid. A PH (port Hamiltonian) formalism is used to describe the system components and interconnections. Energy and power conservation are kept for the discretized model. An economic model predictive controller is used for scheduling the microgrid power management. The proposed approach is validated through simulation results on a particular DC microgrid elevator system.

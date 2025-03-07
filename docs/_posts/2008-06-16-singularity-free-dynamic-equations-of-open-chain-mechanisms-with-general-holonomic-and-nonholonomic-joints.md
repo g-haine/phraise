@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Vincent Duindam](authors/vincent_duindam), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Vincent Duindam](authors/vincent-duindam), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 This is a correction to [Duindam and Stramigioli, “Singularity-free dynamic equations of open-chain mechanisms with general holonomic and nonholonomic joints,” IEEE Trans. Robot., vol. 24, no. 3, pp. 527-526, Jun. 2008] where the singularity-free dynamic equations of mechanical systems with Euclidean or non-Euclidean configuration spaces are presented. We present the correct explicit expressions of the equations presented in the above referenced paper.

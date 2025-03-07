@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[T. Voß](authors/thomas_voss), [J.M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[T. Voß](authors/thomas-voss), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this paper we show how to perform stabilization and shape control for a finite dimensional model that recasts the dynamics of an inflatable space reflector in port-Hamiltonian (pH) form. We show how to derive a decentralized passivity-based controller which can be used to stabilize a 1D piezoelectric Timoshenko beam around a desired shape. Furthermore, we present simulation results obtained for the proposed decentralized control approach.

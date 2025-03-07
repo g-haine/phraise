@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Paul Schwerdtner](authors/paul_schwerdtner), [Manuel Schaller](authors/manuel_schaller)
+[Paul Schwerdtner](authors/paul-schwerdtner), [Manuel Schaller](authors/manuel-schaller)
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

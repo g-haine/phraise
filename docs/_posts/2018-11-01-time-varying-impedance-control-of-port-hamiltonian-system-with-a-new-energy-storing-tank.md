@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Min Zheng](authors/min_zheng), [Tangqing Yuan](authors/tangqing_yuan), [Tao Huang](authors/tao_huang)
+[Min Zheng](authors/min-zheng), [Tangqing Yuan](authors/tangqing-yuan), [Tao Huang](authors/tao-huang)
  
 ## Abstract
 In order to guarantee the passivity of a kind of conservative system, the port Hamiltonian framework combined with a new energy tank is proposed in this paper. A time‐varying impedance controller is designed based on this new framework. The time‐varying impedance control method is an extension of conventional impedance control and overcomes the singularity problem that existed in the traditional form of energy tank. The validity of the controller designed in this paper is shown by numerical examples. The simulation results show that the proposed controller can not only eliminate the singularity problem but can also improve the control performance.

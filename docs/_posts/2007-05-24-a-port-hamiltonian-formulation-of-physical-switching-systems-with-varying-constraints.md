@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Claire Valentin](authors/claire_valentin), [Miguel Magos](authors/miguel_magos), [Bernhard Maschke](authors/bernhard_maschke)
+[Claire Valentin](authors/claire-valentin), [Miguel Magos](authors/miguel-magos), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 This paper extends a generic method to design a port-Hamiltonian formulation modeling all geometric interconnection structures of a physical switching system with varying constraints. A non-minimal kernel representation of this family of structures (named Dirac structures) is presented. It is derived from the parameterized incidence matrices which are a mathematical representation of the primal and dual dynamic network graphs associated with the system. This representation has the advantage of making it possible to model complex physical switching systems with varying constraints and to fall within the framework of passivity-based control.

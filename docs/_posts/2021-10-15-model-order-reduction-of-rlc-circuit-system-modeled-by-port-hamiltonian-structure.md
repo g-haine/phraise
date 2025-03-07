@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Yao Huang](authors/yao_huang), [Yao-Lin Jiang](authors/yaolin_jiang), [Kang-Li Xu](authors/kangli_xu)
+[Yao Huang](authors/yao-huang), [Yao-Lin Jiang](authors/yaolin-jiang), [Kang-Li Xu](authors/kangli-xu)
  
 ## Abstract
 In this brief, we consider the port-Hamiltonian (PH) modeling of general RLC circuits, then explore the model order reduction (MOR) of corresponding port-Hamiltonian differential algebra equation (PH-DAE) systems. Specifically, by directed graphs, the general RLC circuits are firstly modeled as PH-DAE systems which imply the important passivity property. Based on \\( \varepsilon  \\) -embedding and parametric moment matching techniques, MOR is implemented to the PH-DAE system, and the corresponding reduced system preserves PH-DAE structure and then preserves the passivity property. In addition, we prove that the reduced parametric PH system obtained by only one-side projection can preserve three times moments which indicates better accuracy in theory, and the error estimation between PH-DAE system and parametric PH system is also provided.

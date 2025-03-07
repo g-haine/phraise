@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Enrico Franco](authors/enrico_franco), [Arnau Garriga Casanovas](authors/arnau_garriga_casanovas), [Alejandro Donaire](authors/alejandro_donaire)
+[Enrico Franco](authors/enrico-franco), [Arnau Garriga Casanovas](authors/arnau-garriga-casanovas), [Alejandro Donaire](authors/alejandro-donaire)
  
 ## Abstract
 This paper investigates the control problem for soft continuum manipulators that operate on a plane and that are subject to unknown disturbances. In general, soft continuum manipulators have more degrees-of-freedom than control inputs and are characterised by nonlinear dynamics. Thus, achieving high position accuracy with these systems in the presence of disturbances is a challenging task. In this paper we present the design of a new partial-state feedback controller by using the port-Hamiltonian formulation and we develop a variation of the Integral Interconnection and Damping Assignment Passivity Based Control methodology for a class of soft continuum manipulators. The system dynamics on the bending plane is described by using a rigid-link underactuated model with n elastic virtual joints. The proposed control law regulates the tip rotation to the desired value while compensating unmodelled disturbances and only depends on the tip rotation, which is measurable, hence it is implementable. The effectiveness of the controller is demonstrated with simulations and with experiments on a soft continuum manipulator prototype that employs pneumatic actuation.

@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Yoash Levron](authors/yoash_levron), [Vadim Kaparin](authors/vadim_kaparin), [Juri Belikov](authors/juri_belikov)
+[Yoash Levron](authors/yoash-levron), [Vadim Kaparin](authors/vadim-kaparin), [Juri Belikov](authors/juri-belikov)
  
 ## Abstract
 Many open challenges are associated with the nonlinear behavior of large-scale power systems, especially when such systems include small distributed generators and fast power electronics based devices. To better understand the complex dynamics of power systems, several authors suggest that such systems may be analyzed using port-Hamiltonian representations. In this work we extend this approach, and propose a port-Hamiltonian description for transmission networks which are modeled based on dq0 quantities. We present several results that show how to analyze the system stability and the behavior of the Hamiltonian. The results are demonstrated in several test cases.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka), [Bernhard Maschke](authors/bernhard_maschke)
+[Paul Kotyczka](authors/paul-kotyczka), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 We discuss the discrete formulation of systems of conservation laws in port-Hamiltonian form on dual chaincomplexes. Based on integral balance equations and topological information, this representation is exact and qualifies asa control model. The finite-dimensional approximation requires an energy discretization that yields discrete constitutiveequations. We give (i) a brief overview of discrete modeling of conservation laws on \\( n \\)-complexes and (ii) extendexisting results by allowing for mixed physical types of boundary inputs. This requires the construction of a primal anda dual complex based on the underlying staggered grids and the localization of the inputs on the system boundary. Finally,(iii) we discuss the properties of the resulting structure-preserving discretization scheme based on a consistencyanalysis for the 2D nonlinear shallow water equations.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Thai Duong](authors/thai_duong), [Abdullah Altawaitan](authors/abdullah_altawaitan), [Jason Stanley](authors/jason_stanley), [Nikolay Atanasov](authors/nikolay_atanasov)
+[Thai Duong](authors/thai-duong), [Abdullah Altawaitan](authors/abdullah-altawaitan), [Jason Stanley](authors/jason-stanley), [Nikolay Atanasov](authors/nikolay-atanasov)
  
 ## Abstract
 Accurate models of robot dynamics are critical for safe and stable control and generalization to novel operational conditions. Hand-designed models, however, may be insufficiently accurate, even after careful parameter tuning. This motivates the use of machine learning techniques to approximate the robot dynamics over a training set of state-control trajectories. The dynamics of many robots are described in terms of their generalized coordinates on a matrix Lie group, e.g., on \\( \text{SE}(3) \\) for ground, aerial, and underwater vehicles, and generalized velocity, and satisfy conservation of energy principles. This article proposes a port-Hamiltonian formulation over a Lie group of the structure of a neural ordinary differential equation (ODE) network to approximate the robot dynamics. In contrast to a black-box ODE network, our formulation embeds energy conservation principle and Lie group's constraints in the dynamics model and explicitly accounts for energy-dissipation effect such as friction and drag forces in the dynamics model. We develop energy shaping and damping injection control for the learned, potentially under-actuated Hamiltonian dynamics to enable a unified approach for stabilization and trajectory tracking with various robot platforms.

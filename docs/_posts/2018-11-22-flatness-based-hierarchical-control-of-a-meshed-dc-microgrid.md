@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[I. Zafeiratou](authors/i_zafeiratou), [D.V.A. Nguyen](authors/d_v_a_nguyen), [I. Prodan](authors/ionela_prodan), [L. Lefèvre](authors/laurent_lefevre), [L. Piétrac](authors/l_pietrac)
+[I. Zafeiratou](authors/i-zafeiratou), [D.V.A. Nguyen](authors/d-v-a-nguyen), [I. Prodan](authors/ionela-prodan), [L. Lefèvre](authors/laurent-lefevre), [L. Piétrac](authors/l-pietrac)
  
 ## Abstract
 This paper proposes a meshed DC microgrid architecture supervised by a multilayer optimization based control. Its dynamical analysis is described through the Bond Graph notion and the port-Hamiltonian formalism. A multiscale supervision scheduling is developed to handle the load balancing problem for the proper energy distribution within the transmission network. The control architecture considers three control layers. These are implemented via a combination of differential flatness and MPC (Model Predictive Conctrol).

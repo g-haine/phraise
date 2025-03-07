@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Song Xu](authors/song_xu), [Wei Wang](authors/wei_wang), [Sheng-Yuan Chen](authors/shengyuan_chen)
+[Song Xu](authors/song-xu), [Wei Wang](authors/wei-wang), [Sheng-Yuan Chen](authors/shengyuan-chen)
  
 ## Abstract
 Exploiting the stochastic Hamiltonian structure, this paper investigates the robust fault-tolerant control (FTC) for stochastic port-Hamiltonian systems (SPHSs) with actuator faults. First, an energy-based robust FT controller is developed for SPHSs against the loss of actuator effectiveness. Then, an alternative condition, as well as its corresponding controller are given to extend the application of the proposed controller. Unlike the existing FT controllers, they are continuous, and there is no need to solve the Lyapunov function and Hamilton–Jacobi–Isaacs (HJI) inequalities associated with the nominal systems. Finally, an energy-based robust adaptive FT controller is presented for the faulty SPHSs to deal with parameter perturbations, and an alternative condition with its corresponding controller is also given. Both the adaptive controllers preserve the main stochastic Hamiltonian structure of the faulty systems. Compared to the existing adaptive controller, simulations on synchronous generators show the effectiveness of the proposed methods.

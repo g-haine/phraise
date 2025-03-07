@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Thanh Hung Pham](authors/thanh_hung_pham), [Ionela Prodan](authors/ionela_prodan), [Denis Genon-Catalot](authors/denis_genon_catalot), [Laurent Lefèvre](authors/laurent_lefevre)
+[Thanh Hung Pham](authors/thanh-hung-pham), [Ionela Prodan](authors/ionela-prodan), [Denis Genon-Catalot](authors/denis-genon-catalot), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 This paper considers a discrete-time scheduling method for the power balancing of a continuous-time DC microgrid system. A high-order dynamics and a resistor network are used for modelling the electrical storage unit and the DC bus of the centralized microgrid system, respectively. A PH (Port-Hamiltonian) formulation on graphs is employed to explicitly describe the microgrid topology. This modelling approach allows us to derive a discrete-time model which preserves the power and energy balance of the physical system. Next, a constrained economic MPC (Model Predictive Control) using the proposed control model is formulated for efficiently managing the microgrid operation. The systematic combination of the network modelling method and optimization-based control allows us to generate the appropriate power profiles. Finally, the benefits of the proposed approach are validated through simulation and comparison results over a particular DC microgrid elevator system under different scenarios and using real numerical data.

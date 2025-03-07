@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Jacques Kadima Kazaku](authors/jacques_kadima_kazaku), [Denis Dochain](authors/denis_dochain), [Joseph Winkin](authors/joseph_j_winkin), [Moïse Mukepe Kahilu](authors/moise_mukepe_kahilu), [Jimmy Kalenga Kaunde Kasongo](authors/jimmy_kalenga_kaunde_kasongo)
+[Jacques Kadima Kazaku](authors/jacques-kadima-kazaku), [Denis Dochain](authors/denis-dochain), [Joseph Winkin](authors/joseph-j-winkin), [Moïse Mukepe Kahilu](authors/moise-mukepe-kahilu), [Jimmy Kalenga Kaunde Kasongo](authors/jimmy-kalenga-kaunde-kasongo)
  
 ## Abstract
 This paper presents a sliding mode observer (SMO) for estimating temperatures in a heat exchanger. First a port-Hamiltonian formulation for a countercurrent heat exchanger is proposed. It is so as to guarantee convergence of the observer. It is shown that the Stokes-Dirac structure obtained by opening only the dissipation ports due to the convection phenomenon, is conservative. Secondly, a SMO based on an interconnected structure of port-Hamiltonian systems is designed. The convergence of the dynamics of the estimation error is proven. The simulation results illustrate the effectiveness of this estimation strategy.

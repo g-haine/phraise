@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea_brugnoli), [Daniel Alazard](authors/daniel_alazard), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger), [Denis Matignon](authors/denis_matignon)
+[Andrea Brugnoli](authors/andrea-brugnoli), [Daniel Alazard](authors/daniel-alazard), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 The port-Hamiltonian framework allows for a structured representation and interconnection of distributed parameter systems described by Partial Differential Equations (PDE) from different realms. Here, the Mindlin-Reissner model of a thick plate is presented in a tensorial formulation. Taking into account collocated boundary control and observation gives rise to an infinite-dimensional port-Hamiltonian system (pHs). The Partitioned Finite Element Method (PFEM), already presented in our previous work, allows obtaining a structure-preserving finite-dimensional port-Hamiltonian system, and accounting for boundary control in a straightforward manner. In order to illustrate the flexibility of PFEM, both types of boundary controls can be dealt with: either through forces and momenta, or through kinematic variables. The discrete model is easily implementable by using the FEniCS platform. Computation of eigenfrequencies and vibration modes, together with time-domain simulation results demonstrate the consistency of the proposed approach.

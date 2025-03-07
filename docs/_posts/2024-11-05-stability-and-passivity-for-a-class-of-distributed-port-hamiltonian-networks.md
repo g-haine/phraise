@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Hannes Gernandt](authors/hannes_gernandt), [Dorothea Hinsen](authors/dorothea_hinsen)
+[Hannes Gernandt](authors/hannes-gernandt), [Dorothea Hinsen](authors/dorothea-hinsen)
  
 ## Abstract
 We consider a class of infinite dimensional (distributed) pH systems which is invariant under Kirchhoff-type interconnections and prove exponential stability and a power balance equation for classical solutions. The results are illustrated for power networks that incorporate distributed transmission line models based on the telegraph equations.

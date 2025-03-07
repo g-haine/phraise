@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea_brugnoli), [Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Ghislain Haine](authors/ghislain_haine), [Paul Kotyczka](authors/paul_kotyczka)
+[Andrea Brugnoli](authors/andrea-brugnoli), [Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Ghislain Haine](authors/ghislain-haine), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 The propagation of acoustic waves in a 2D geometrical domain under mixed boundary control is here described by means of the port-Hamiltonian (pH) formalism. A finite element based method is employed to obtain a consistently discretized model. To construct a model with mixed boundary control, two different methodologies are detailed: one employs Lagrange multipliers, the other relies on a virtual domain decomposition to interconnect models with different causalities. The two approaches are assessed numerically, by comparing the Hamiltonian and the state variables norm for progressively refined meshes.

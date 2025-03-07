@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli)
+[Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 This article aims at extending the continuous-time energy-shaping plus damping injection control design technique to deal with a class of nonlinear, discrete-time port-Hamiltonian systems. For such systems, the gradient of the Hamiltonian function in the continuous-time dynamics is replaced by a discrete gradient, thus leading to a state equation in implicit form. Its well-posedness is studied both in the autonomous and nonautonomous cases to determine when the dynamical equation admits a solution for the next state. Based on this analysis, the extension of the energy-shaping plus damping injection control methodology is discussed. At first, it is supposed that the control action depends on the discrete gradient of an energy function. Then, this hypothesis is removed, and an algebraic solution to the matching equation is proposed to enlarge the class of stabilizing controllers.

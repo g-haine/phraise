@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper deals with modelling and control of an endoscope actuated by Ionic Polymer Metal Composites (IPMC) patches. The endoscope is modelled by a nonlinear partial differential equation (PDE) capable to describe large deformations. The dynamics of the flexible structure and of the IPMC patches are in port-Hamiltonian form, with the actuators interconnected to the mechanical device in power-conserving way. Thus, the complete model is a port-Hamiltonian system in which a PDE with fixed boundary conditions is coupled with a set of ordinary differential equations. The control inputs are the voltages applied to the patches, and the feedback law is designed within the Interconnection and Damping Assignment Passivity-based Control (IDA-PBC) framework. The asymptotic stability of the closed-loop system is proved, and the effectiveness of the design procedure is illustrated by a numerical example.

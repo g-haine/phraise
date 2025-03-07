@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Pablo Borja](authors/luis_pablo_borja), [Romeo Ortega](authors/romeo_ortega), [Emmanuel Nuño](authors/emmanuel_nuno)
+[Pablo Borja](authors/luis-pablo-borja), [Romeo Ortega](authors/romeo-ortega), [Emmanuel Nuño](authors/emmanuel-nuno)
  
 ## Abstract
 In this note we study the problem of stabilization of port-Hamiltonian (pH) systems via proportional-integral-derivative passivity-based controllers (PID-PBC). Using a general parameterization of the passive outputs for pH systems, we give necessary conditions to construct PID-PBCs and carry-out the stability analysis of the desired equilibrium point in closed-loop. The main results are the inclusion of additional degrees of freedom for the solution of the partial differential equation that is necessary to complete the controller design and the novel construction of PID-PBCs using passive outputs with relative degree zero.

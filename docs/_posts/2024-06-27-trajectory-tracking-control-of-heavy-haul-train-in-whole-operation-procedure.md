@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Liangcheng Cai](authors/liangcheng_cai), [Deqing Huang](authors/deqing_huang)
+[Liangcheng Cai](authors/liangcheng-cai), [Deqing Huang](authors/deqing-huang)
  
 ## Abstract
 In whole operation procedure, trajectory tracking control for heavy haul train with the time-varying desired speed is investigated in this paper. Taking full advantage of the heavy haul train's facilities, a proportional-integral (PI) control method based on the real-time speed error and the real-time displacement is proposed to represent the dynamic model of heavy haul train as port-Hamiltonian (PH) system framework, which implements the interactive feature of the in-train force and the damping feature of the basic resistance force effectively. Due to the proposed method, the real-time speed of heavy haul train asymptotically tracks the time-varying desired speed and the real-time displacement is small in whole operation procedure. Since the basic resistance force is utilized to construct the non-negative definite matrix and heavy haul train is represented as PH system, the proposed method is also effective for trajectory tracking control of heavy haul train subjected to the uncertain and time-varying basic resistances without parameter adaption or estimation. In short, a universal tracking control scheme is presented for heavy haul train subjected to the aforementioned different operative conditions. Finally, simulations confirm the validity and advantage of the proposed method.

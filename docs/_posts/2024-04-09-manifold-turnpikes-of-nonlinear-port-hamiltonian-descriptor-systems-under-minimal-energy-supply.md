@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Attila Karsai](authors/attila_karsai)
+[Attila Karsai](authors/attila-karsai)
  
 ## Abstract
 Turnpike phenomena of nonlinear port-Hamiltonian descriptor systems under minimal energy supply are studied. Under assumptions on the smoothness of the system nonlinearities, it is shown that the optimal control problem is dissipative with respect to a manifold. Then, under controllability assumptions, it is shown that the optimal control problem exhibits a manifold turnpike property.

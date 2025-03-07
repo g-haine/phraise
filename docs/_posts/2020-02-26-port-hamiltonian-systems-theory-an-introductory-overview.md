@@ -9,7 +9,7 @@ category: books
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan_van_der_schaft), [Dimitri Jeltsema](authors/dimitri_jeltsema)
+[Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
  
 ## Citation
 - **Journal:** null

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ghislain Haine](authors/ghislain_haine), [Denis Matignon](authors/denis_matignon), [Florian Monteghetti](authors/florian_monteghetti)
+[Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon), [Florian Monteghetti](authors/florian-monteghetti)
  
 ## Abstract
 This work demonstrates the discretization of the boundary-controlled Maxwell equations, recast as a port-Hamiltonian system (pHs). After a reminder on the Stokes-Dirac structure associated with the Maxwell system, we introduce different partitioned weak formulations that preserve the pHs structure, and its associated power balance, at the semi-discrete level. These weak formulations are compared through numerical applications to closed non-perfectly conducting cavities and open waveguides under transverse approximation.

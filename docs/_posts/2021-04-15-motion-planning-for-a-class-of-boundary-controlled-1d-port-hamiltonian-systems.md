@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Bastian Biedermann](authors/bastian_biedermann), [Thomas Meurer](authors/thomas_meurer)
+[Bastian Biedermann](authors/bastian-biedermann), [Thomas Meurer](authors/thomas-meurer)
  
 ## Abstract
 A flatness-based approach for motion planning for a class of boundary controlled port-Hamiltonian systems with distributed parameters is presented. The goal is to achieve open-loop output tracking or finite-time transitions between steady states or operating profiles. Introducing new (fictious) boundary conditions in terms of so-called flat outputs, the port-Hamiltonian system is reformulated as a Cauchy problem in the spatial domain. The parametrization of any system variable and input by the flat output is computed using two different solution approaches. By assigning a suitable desired trajectory for the flat output, the input parametrization yields the feed forward control law to solve the motion planning task. The presented theory is applied to the wave equation with spatially varying parameters and is evaluated by numerical calculations and simulations.

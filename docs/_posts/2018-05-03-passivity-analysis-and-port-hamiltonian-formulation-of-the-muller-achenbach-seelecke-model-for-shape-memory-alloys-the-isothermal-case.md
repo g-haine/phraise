@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[gianluca Rizzello](authors/gianluca_rizzello), [David Naso](authors/david_naso), [Stefan Seelecke](authors/stefan_seelecke)
+[gianluca Rizzello](authors/gianluca-rizzello), [David Naso](authors/david-naso), [Stefan Seelecke](authors/stefan-seelecke)
  
 ## Abstract
 In this work we investigate passivity of the Müller-Achenbach-Seelecke Model for shape memory alloy (SMA) wires. Such a model represents an effective control-oriented tool to describe the hysteretic dynamics of SMAs, but its highly complex structure makes it difficult to analyze fundamental properties such as energetic consistency, i.e., passivity. Focusing on the isothermal case, we propose a suitable storage function which permits to analyze passivity of the SMA model and to quantify energy dissipation due to hysteresis. In addition, a port-Hamiltonian representation of the resulting passive model is developed. This result permits to quantitatively assess energetic performance of SMAs when operating, e.g., as passive non-viscous dampers, and opens up the possibility of using powerful tools from port-Hamiltonian theory to analyze and design control systems for SMA actuators.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[François Lamoline](authors/francois_lamoline), [Anthony Hastir](authors/anthony_hastir)
+[François Lamoline](authors/francois-lamoline), [Anthony Hastir](authors/anthony-hastir)
  
 ## Abstract
 Stochastic infinite-dimensional port-Hamiltonian systems (SPHSs) with multiplicative Gaussian white noise are considered. In this article we extend the notion of Dirac structure for deterministic distributed parameter port-Hamiltonian systems to a stochastic ones by adding some additional stochastic ports. Using the Stratonovich formalism of the stochastic integral, the proposed extended interconnection of ports for SPHSs is proved to still form a Dirac structure. This constitutes our main contribution. We then deduce that the interconnection between (stochastic) Dirac structures is again a (stochastic) Dirac structure under some assumptions. These interconnection results are applied on a system composed of a stochastic vibrating string actuated at the boundary by a mass–spring system with external input and output. This work is motivated by the problem of boundary control of SPHSs and will serve as a foundation to the development of stabilizing methods.

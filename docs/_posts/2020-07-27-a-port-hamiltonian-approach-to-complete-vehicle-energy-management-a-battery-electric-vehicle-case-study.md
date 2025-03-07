@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[G. P. Padilla](authors/g_p_padilla), [J. C. Flores Paredes](authors/j_c_flores_paredes), [M. C. F. Donkers](authors/m_c_f_donkers)
+[G. P. Padilla](authors/g-p-padilla), [J. C. Flores Paredes](authors/j-c-flores-paredes), [M. C. F. Donkers](authors/m-c-f-donkers)
  
 ## Abstract
 In this paper, we present a modelling approach to vehicle energy management based on Port-Hamiltonian systems representations. We consider a network of interconnected port-Hamiltonian systems that describes the powertrain components and auxiliaries in the vehicle. This description is suitable to obtain a systematic approach to formulate a decomposable optimal control problem for Complete Vehicle Energy Management. A physically insightful cost function that describes the total energy consumption of the vehicle is proposed in terms of internal energy and losses of each system connected to the network. Taking advantage of the modularity of the proposed formulation, we present a distributed optimization algorithm to find solutions to the energy management problem. To illustrate this modelling methodology, we consider a case study in which the energy consumption of a battery electric vehicle is optimized.

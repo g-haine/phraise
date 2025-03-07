@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Dimitri Jeltsema](authors/dimitri_jeltsema), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Dimitri Jeltsema](authors/dimitri-jeltsema), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In the last decades, several researchers have concentrated on the dynamic modeling of nonlinear electrical circuits from an energy-based perspective. A recent perspective is based on the concept of port-Hamiltonian (PH) systems. In this paper, we discuss the relations between the classical Brayton–Moser (BM) equations—stemming from the early sixties—and PH models for topologically complete nonlinear RLC circuits, with and without controllable switches. It will be shown that PH systems precisely dualize the BM equations, leading to possible advantages at the level of controller design. Consequently, useful and important properties of the one framework can be translated to the other. Control designs for the PH model cannot be directly implemented since they require observation of flux and charges, which are not directly available through standard sensors, while the BM models require only observation of currents and voltages. The introduced duality allows to pull back PH designs to the space of currents and voltages. This offers the possibility to exchange several different techniques, available in the literature, for modeling, analysis and controller design for RLC circuits. Illustrative examples are provided to emphasize the duality between both frameworks.

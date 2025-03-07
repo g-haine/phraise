@@ -9,7 +9,7 @@ category: chapters
 ---
  
 ## Authors
-[Manel Atitallah](authors/manel_atitallah), [Rafika El Harabi](authors/rafika_el_harabi), [Mohamed Naceur Abdelkrim](authors/mohamed_naceur_abdelkrim)
+[Manel Atitallah](authors/manel-atitallah), [Rafika El Harabi](authors/rafika-el-harabi), [Mohamed Naceur Abdelkrim](authors/mohamed-naceur-abdelkrim)
  
 ## Citation
 - **ISBN:** 9783110591729

@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Malzer](authors/tobias_malzer), [Lukas Ecker](authors/lukas_ecker), [Markus Schöberl](authors/markus_schoberl)
+[Tobias Malzer](authors/tobias-malzer), [Lukas Ecker](authors/lukas-ecker), [Markus Schöberl](authors/markus-schoberl)
  
 ## Abstract
 In this paper, we present a control-design strategy based on the energy-Casimir method for infinite-dimensional, boundary-actuated port-Hamiltonian systems with two-dimensional spatial domain and second-order Hamiltonian. The resulting control law depends on distributed system states that cannot be measured, and therefore, we additionally design an infinite-dimensional observer by exploiting the port-Hamiltonian system representation. A Kirchhoff-Love plate serves as an example in order to demonstrate the proposed approaches.

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[N. Sakata](authors/naoki_sakata), [T. Kato](authors/t_kato), [K. Fujimoto](authors/kenji_fujimoto), [I. Maruta](authors/ichiro_maruta)
+[N. Sakata](authors/naoki-sakata), [T. Kato](authors/t-kato), [K. Fujimoto](authors/kenji-fujimoto), [I. Maruta](authors/ichiro-maruta)
  
 ## Abstract
 This paper proves a stability property of mechanical port-Hamiltonian systems with kinetic potential energy shaping (KPES) with respect to external disturbances using the input-to-state stability (ISS) characterization. Such analysis is quite useful when constructing an output feedback controller consisting of a KPES state feedback controller and a state observer, since the stability of the resulting output feedback closed-loop system can be guaranteed by such stability by regarding the estimation error of the observer as the external disturbance to the KPES state feedback system. If this state feedback system is ISS with respect to the state estimation error and if this error is asymptotically stable, then the origin of the closed-loop system is asymptotically stable. Therefore, it is possible to obtain an output feedback controller consisting of a KPES state feedback controller with any asymptotic state observer. Numerical simulations verify the ISS property of the KPES state feedback system.

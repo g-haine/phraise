@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Timm Faulwasser](authors/timm_faulwasser), [Bernhard Maschke](authors/bernhard_maschke), [Friedrich Philipp](authors/friedrich_m_philipp), [Manuel Schaller](authors/manuel_schaller), [Karl Worthmann](authors/karl_worthmann)
+[Timm Faulwasser](authors/timm-faulwasser), [Bernhard Maschke](authors/bernhard-maschke), [Friedrich Philipp](authors/friedrich-m-philipp), [Manuel Schaller](authors/manuel-schaller), [Karl Worthmann](authors/karl-worthmann)
  
 ## Abstract
 We consider the singular optimal control problem of minimizing the energy supply of linear dissipative port-Hamiltonian descriptor systems subject to control and terminal state constraints. To this end, after reducing the problem to an ODE with feed-through term, we derive an input-state turnpike towards a subspace for optimal control of generalized port-Hamiltonian ordinary differential equations. We study the reachability properties of the system and prove that optimal states exhibit a turnpike behavior with respect to the conservative subspace. By means of the port-Hamiltonian structure, we show that, despite control constraints, this turnpike property is global in the initial state. Further, we characterize the class of dissipative Hamiltonian matrices and pencils.

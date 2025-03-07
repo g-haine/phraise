@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Yann Le Gorrec](authors/yann_le_gorrec), [Denis Matignon](authors/denis_matignon)
+[Yann Le Gorrec](authors/yann-le-gorrec), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 This paper discusses the passivity of the port-Hamiltonian formulation of a multivariable impedance matching boundary feedback of fractional order, expressed through diffusive representation. It is first shown in the 1D-wave equation case that the impedance matching boundary feedback can be written as a passive feedback on the boundary port variables. In the Euler-Bernoulli case, the impedance matching feedback matrix involves fractional derivatives and integrals. It is shown that the usual diffusive representation of such feedback is not formally a dissipative port-Hamiltonian system, even if from a frequency point of view this feedback proves passive.

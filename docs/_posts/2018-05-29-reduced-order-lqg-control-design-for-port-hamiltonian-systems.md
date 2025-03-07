@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin_wu), [Boussad Hamroun](authors/boussad_hamroun), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke)
+[Yongxin Wu](authors/yongxin-wu), [Boussad Hamroun](authors/boussad-hamroun), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 The aim of this paper is to propose a reduced order control design method for large scale port Hamiltonian systems. To this end, a structure preserving reduction method and a modified LQG control design are combined to derive a reduced order model suitable for control purposes. We first recall the structure preserving reduction method for port Hamiltonian systems called effort constraint method and characterize the error bound associated to this reduction method. We then give sufficient conditions for non-standard LQG design which allow to design a passive controller equivalent to the control by interconnection of port Hamiltonian systems. This LQG method allows to define an LQG balanced realization by computing the LQG Gramians, the effort-constraint method is then used to derive a reduced order port Hamiltonian system and to design a reduced order passive LQG controller. Finally, the method is illustrated in simulation on a mass–spring–damper system. The performances of the reduced order controller are compared to the results obtained with a full order passive LQG controller.

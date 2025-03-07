@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[M. Schöberl](authors/markus_schoberl), [K. Schlacher](authors/kurt_schlacher)
+[M. Schöberl](authors/markus-schoberl), [K. Schlacher](authors/kurt-schlacher)
  
 ## Abstract
 In this paper we consider partial differential equations in a port-Hamiltonian setting. A crucial property of this system class, especially for control purposes, is the property to be able to link a power balance relation to the structure of the equations. However, to derive this power balance relation one has to take into account also the effects of energy flows via the boundary. This can be handled in a straightforward manner when the Hamiltonian depends on derivative variables of first order, e.g. by using integration by parts. If higher-order derivatives appear (higher-order field theory) then integration by parts cannot be used without due care, thus we suggest an approach by using the so-called Cartan-form. In this paper we concentrate on second-order theories in a port-Hamiltonian framework and we visualize the derivation of a power balance relation by using mechanical examples such as plates modeled as a first-order and as second-order field theory.

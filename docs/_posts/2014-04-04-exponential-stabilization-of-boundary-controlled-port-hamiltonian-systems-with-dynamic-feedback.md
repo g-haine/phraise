@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Alessandro Macchelli](authors/alessandro_macchelli), [Hans Zwart](authors/hans_zwart)
+[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Alessandro Macchelli](authors/alessandro-macchelli), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
 It is shown that a strictly-input passive linear finite dimensional controller exponentially stabilizes a large class of partial differential equations actuated at the boundary of a one dimensional spatial domain. This follows since the controller imposes exponential dissipation of the total energy. The result can by use for control synthesis and for the stability analysis of complex systems modeled by sets of coupled PDE's and ODE's. The result is specialized to port-Hamiltonian control systems and a simplified DNA-manipulation process is used to illustrate the result.

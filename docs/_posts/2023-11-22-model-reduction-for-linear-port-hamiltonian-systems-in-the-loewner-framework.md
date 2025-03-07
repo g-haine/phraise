@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Alessio Moreschini](authors/alessio_moreschini), [Joel D. Simard](authors/joel_d_simard), [Alessandro Astolfi](authors/alessandro_astolfi)
+[Alessio Moreschini](authors/alessio-moreschini), [Joel D. Simard](authors/joel-d-simard), [Alessandro Astolfi](authors/alessandro-astolfi)
  
 ## Abstract
 The problem of model order reduction with assignment and preservation of port-Hamiltonian structure in the reduced order model is tackled in the Loewner framework. Given a set of right-tangential interpolation data, the (subset of) left-tangential interpolation data that allow for the construction of an interpolant possessing port-Hamiltonian structure is characterized. Conditions under which an interpolant retains the underlying port-Hamiltonian structure of the system generating the data are given by requiring a particular structure of the generalized observability matrix.

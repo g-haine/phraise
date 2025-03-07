@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Thoma](authors/tobias_thoma), [Paul Kotyczka](authors/paul_kotyczka)
+[Tobias Thoma](authors/tobias-thoma), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 In this article, we present the structure preserving discretization of linear one-dimensional port-Hamiltonian (PH) systems of two conservation laws using discontinuous Galerkin (DG) methods. We recall the DG discretization procedure which is based on a subdivision of the computational domain, an elementwise weak formulation with up to two integrations by parts, and the interconnection of the elements using different numerical fluxes. We present the interconnection of the element models, which is power preserving in the case of conservative (unstabilized) numerical fluxes, and we set up the resulting global PH state space model. We discuss the properties of the obtained models, including the effect of the flux stabilization parameter on the spectrum. Finally, we show simulations with different parameters for a boundary controlled linear hyperbolic system.

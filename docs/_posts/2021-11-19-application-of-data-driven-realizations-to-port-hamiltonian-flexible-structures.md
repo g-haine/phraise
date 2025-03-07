@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Karim Cherifi](authors/karim_cherifi), [Andrea Brugnoli](authors/andrea_brugnoli)
+[Karim Cherifi](authors/karim-cherifi), [Andrea Brugnoli](authors/andrea-brugnoli)
  
 ## Abstract
 In this contribution, the validity of reduced order data-driven approaches for port-Hamiltonian systems is assessed by direct comparison with models obtained from finite element discretization. In particular, we consider examples arising from the structural dynamics of beams. Port-Hamiltonian beam models can be readily discretized by using mixed finite elements. The resulting numerical models are used to generate the input-output data. The data-driven realization is then compared to the original numerical model in terms of its bode plot and energy trend.

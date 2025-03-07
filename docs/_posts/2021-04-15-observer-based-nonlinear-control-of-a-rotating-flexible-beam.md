@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea_mattioni), [Jesus Toledo](authors/jesus_pablo_toledo_zucco), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Andrea Mattioni](authors/andrea-mattioni), [Jesus Toledo](authors/jesus-pablo-toledo-zucco), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper presents an observer based nonlinear control for a flexible beam clamped on a rotating inertia. The considered model is composed by a set of Partial Differential Equations (PDEs) interconnected with an Ordinary Differential Equation (ODE), with control input in the ODE. The control problem consists in orienting the beam at the desired position, maintaining the flexible vibrations as low as possible. To this end, it is presented a nonlinear controller that depends on the beam’s state. An Observer is designed to reconstruct the infinite dimensional state, and the estimated state is used in the nonlinear controller instead of the real one. Assuming well-posedness of the closed loop system, it is shown the exponential convergence of the estimated state, and the asymptotic stability of the closed loop system. Numerical simulations are presented to characterize the closed loop behaviour with different choices of observer’s parameters.

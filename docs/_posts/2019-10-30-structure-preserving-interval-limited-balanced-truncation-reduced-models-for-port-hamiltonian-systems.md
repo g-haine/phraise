@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Kangli Xu](authors/kangli_xu), [Yaolin Jiang](authors/yaolin_jiang)
+[Kangli Xu](authors/kangli-xu), [Yaolin Jiang](authors/yaolin-jiang)
  
 ## Abstract
 In this study, the authors propose structure‐preserving balanced truncation methods of port‐Hamiltonian systems over the frequency and time intervals. First, the port‐Hamiltonian system is reduced based on the frequency‐interval controllability and observability Gramians. In order to reduce the computational cost, the frequency‐interval cross Gramian is utilised to yield the frequency‐interval balanced truncation method. For the symmetric port‐Hamiltonian systems, the authors prove that these two methods can generate equivalent reduced systems. Additionally, they are also devoted in exploring two structure‐preserving balanced truncation methods over time intervals, where one is based on the time interval controllability and observability Gramians and the other is based on the time interval cross Gramian. All the resulting reduced systems have port‐Hamiltonian structure, and as a consequence, they are passive. Two numerical examples are simulated to demonstrate the efficiency of the proposed methods.

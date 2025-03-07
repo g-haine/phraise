@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Arun Kumar Yadav](authors/arun_kumar_yadav), [Badam Singh Kushvah](authors/badam_singh_kushvah), [Uday Dolas](authors/uday_dolas)
+[Arun Kumar Yadav](authors/arun-kumar-yadav), [Badam Singh Kushvah](authors/badam-singh-kushvah), [Uday Dolas](authors/uday-dolas)
  
 ## Abstract
 Libration point orbits around collinear points present numerous properties which are worthwhile for space missions. Because orbits around these points are exponentially unstable, station-keeping strategies aim for periodic motion.This paper considers the problem of Lagrangian point stabilisation in the Sun-Jupiter system with non-ideal solar sail and albedo effect. Energy shaping and dissipation injection are used to stabilize the Lagrangian points, which are originally unstable. Through shaping of Hamiltonian (energy) and dissipation injection at the designed equilibrium point, we obtained that a closed-loop system is stable and asymptotic stable respectively. We discover that the orbits are stable under port- Hamiltonian control using best fit results.

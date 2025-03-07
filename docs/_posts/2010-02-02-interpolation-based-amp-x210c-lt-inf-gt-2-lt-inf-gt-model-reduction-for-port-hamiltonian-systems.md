@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[S. Gugercin](authors/serkan_gugercin), [R.V. Polyuga](authors/rostyslav_v_polyuga), [C.A. Beattie](authors/christopher_beattie), [A.J. van der Schaft](authors/arjan_van_der_schaft)
+[S. Gugercin](authors/serkan-gugercin), [R.V. Polyuga](authors/rostyslav-v-polyuga), [C.A. Beattie](authors/christopher-beattie), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 Port network modeling of physical systems leads directly to an important class of passive state space systems: port-Hamiltonian systems. We consider here methods for model reduction of large scale port-Hamiltonian systems that preserve port-Hamiltonian structure and are capable of yielding reduced order models that satisfy first-order optimality conditions with respect to an H2 system error metric. The methods we consider are closely related to rational Krylov methods and variants are described using both energy and co-energy system coordinates. The resulting reduced models have port-Hamiltonian structure and therefore are guaranteed passive, while still retaining the flexibility to interpolate the true system transfer function at any (complex) frequency points that are desired.

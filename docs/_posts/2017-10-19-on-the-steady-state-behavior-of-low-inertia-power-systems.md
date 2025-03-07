@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Dominic Groß](authors/dominic_gross), [Florian Dörfler](authors/florian_dorfler)
+[Dominic Groß](authors/dominic-gross), [Florian Dörfler](authors/florian-dorfler)
  
 ## Abstract
 Whereas conventional power systems heavily rely on bulk generation by synchronous machines, future power systems will be comprised of distributed generation based on renewable sources interfaced by power electronics. A direct consequence of retiring synchronous generators is the loss of rotational inertia, which thus far was the dominant time constant in a power system, as well as the loss of the generator controls, which are the main source of actuation of the power grid. Prompted by these paradigm shifts, we study the dynamic behavior of a nonlinear and first-principle low-inertia power system model including detailed power converter models and their interactions with the power grid. In this paper, we focus particularly on the admissible steady-state behavior of such a low-inertia power grid and derive necessary and sufficient control specifications for power converters.

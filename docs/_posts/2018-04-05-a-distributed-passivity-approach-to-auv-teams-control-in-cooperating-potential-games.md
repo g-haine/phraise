@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Filippo Fabiani](authors/filippo_fabiani), [Davide Fenucci](authors/davide_fenucci), [Andrea Caiti](authors/andrea_caiti)
+[Filippo Fabiani](authors/filippo-fabiani), [Davide Fenucci](authors/davide-fenucci), [Andrea Caiti](authors/andrea-caiti)
  
 ## Abstract
 The paper proposes a general framework to manage a team of Autonomous Underwater Vehicles (AUVs), while keeping the communication constraints, during missions execution. Virtual spring-damper couplings (passive by definition) define the distributed interaction forces between neighbouring vehicles. In this way, through passivity theory, a suitable Lyapunov function for the closed loop system is built to ensure stable convergence of the network vehicles to an equilibrium point, also providing robustness in presence of communication fading and delays, very common in the marine environment. Simulations of typical missions show the effectiveness of the proposed approach. An equivalence between this typical port-Hamiltonian framework and a specific class of potential games, the Bilateral Symmetric Interaction (BSI) one, is also established. Hence, modelling the network with passive elements, it is possible to shape the transient behaviour of the players and the reached equilibria at the end of the game.

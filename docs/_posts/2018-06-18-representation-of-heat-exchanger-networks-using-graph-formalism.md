@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[B. Zitte](authors/b_zitte), [B. Hamroun](authors/boussad_hamroun), [F. Couenne](authors/francoise_couenne), [I. Pitault](authors/i_pitault)
+[B. Zitte](authors/b-zitte), [B. Hamroun](authors/boussad-hamroun), [F. Couenne](authors/francoise-couenne), [I. Pitault](authors/i-pitault)
  
 ## Abstract
 This contribution addressed the systematic representation of heat exchanger networks thanks to graph formalism. The energy representation of one heat exchanger is presented based on the incidence matrices of the graph related to heat transfer and the graph of the heat convection. Then the global heat exchanger network is obtained from the heat exchanger graph models as well as the incidence matrices of the interconnection obtained by adding additional vertices corresponding to the connector elements. The Port Hamiltonian representation of the heat network exchanger is given in the case of constant pressure. Then we show the incremental passivity of one compartment of the heat exchanger.

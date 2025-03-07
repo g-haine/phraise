@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 In this work irreversible port-Hamiltonian systems are used to derive a passivity based controller which shapes the total energy of a non-isothermal reaction network and renders it asymptotically stable with respect to a desired dynamic equilibrium configuration. The closed-loop system is in IPHS form, hence it can be identified with a desired reaction network and the control parameters are related with thermodynamic variables, such as the reaction rates. A complex reaction network is used to illustrate the approach: the van der Vusse reaction mechanism.

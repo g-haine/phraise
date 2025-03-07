@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Sascha Trostorff](authors/sascha_trostorff)
+[Sascha Trostorff](authors/sascha-trostorff)
  
 ## Abstract
 We provide a characterization for maximal monotone realizations for a certain class of (nonlinear) operators in terms of their corresponding boundary data spaces. The operators under consideration naturally arise in the study of evolutionary problems in mathematical physics. We apply our abstract characterization result to Port–Hamiltonian systems and a class of frictional boundary conditions in the theory of contact problems in visco-elasticity.

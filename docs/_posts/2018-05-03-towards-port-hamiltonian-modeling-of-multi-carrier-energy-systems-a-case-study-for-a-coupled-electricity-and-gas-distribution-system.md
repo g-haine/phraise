@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Felix Strehle](authors/felix_strehle), [Martin Pfeifer](authors/martin_pfeifer), [Lukas Kölsch](authors/lukas_kolsch), [Charlotte Degünther](authors/charlotte_degunther), [Johannes Ruf](authors/johannes_ruf), [Lisa Andresen](authors/lisa_andresen), [Sören Hohmann](authors/soren_hohmann)
+[Felix Strehle](authors/felix-strehle), [Martin Pfeifer](authors/martin-pfeifer), [Lukas Kölsch](authors/lukas-kolsch), [Charlotte Degünther](authors/charlotte-degunther), [Johannes Ruf](authors/johannes-ruf), [Lisa Andresen](authors/lisa-andresen), [Sören Hohmann](authors/soren-hohmann)
  
 ## Abstract
 Multi-carrier energy systems have been identified as a major concept for future energy supply. For their operation, model-based control methods are necessary whose design requires modular, multi-physical control-oriented models. In literature, there exists no control design model which combines the variables of the networks and system dynamics that go beyond ideal storage elements. Port-Hamiltonian systems represent a promising approach for the scalable modeling and control of multi-carrier energy systems. In this publication we present a case study which illustrates the port-Hamiltonian modeling of an exemplary coupled electricity and gas distribution system. Simulations indicate the plausibility of the presented model.

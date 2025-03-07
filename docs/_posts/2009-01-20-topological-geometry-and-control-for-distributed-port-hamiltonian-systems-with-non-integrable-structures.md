@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Gou Nishida](authors/gou_nishida), [Bernhard Maschke](authors/bernhard_maschke), [Masaki Yamakita](authors/masaki_yamakita)
+[Gou Nishida](authors/gou-nishida), [Bernhard Maschke](authors/bernhard-maschke), [Masaki Yamakita](authors/masaki-yamakita)
  
 ## Abstract
 This paper discusses topological geometrical aspects and a control strategy for a distributed port-Hamiltonian system with a non-integrable structure called a distributed energy structure. First, we show a geometrical structure of port variables determined by differential forms. Next, we state the necessary condition for regarding the distributed energy structure as a boundary energy structure which is boundary integrable. From these results, we define the fundamental form that generates the distributed port-Hamiltonian system with distributed energy structures in a variational problem. Finally, we present a new concept of boundary controls for the distributed port-Hamiltonian system with distributed energy structures in space-time coordinates.

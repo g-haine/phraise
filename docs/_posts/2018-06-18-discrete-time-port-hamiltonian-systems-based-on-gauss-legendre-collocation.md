@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka), [Laurent Lefèvre](authors/laurent_lefevre)
+[Paul Kotyczka](authors/paul-kotyczka), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 We introduce a family of discrete-time lossless input-state-output port-Hamiltonian systems based on numerical time integration with symplectic collocation schemes. For systems with non-zero input, symplecticity extends to the conservation of a discrete energy balance, based on which a discrete-time Dirac structure is defined. Using Gauss-Legendre collocation, the corresponding quadrature formula allows to quantify the discretization error for the supplied energy. On a linear example, backward error analysis and numerical experiments are performed in order to illustrate the accuracy of the resulting structure-preserving integration schemes.

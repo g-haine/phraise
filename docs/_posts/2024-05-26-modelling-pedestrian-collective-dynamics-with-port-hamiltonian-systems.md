@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Antoine Tordeux](authors/antoine_tordeux), [Claudia Totzeck](authors/claudia_totzeck), [Sylvain Lassarre](authors/sylvain_lassarre), [Jean-Patrick Lebacque](authors/jean_patrick_lebacque)
+[Antoine Tordeux](authors/antoine-tordeux), [Claudia Totzeck](authors/claudia-totzeck), [Sylvain Lassarre](authors/sylvain-lassarre), [Jean-Patrick Lebacque](authors/jean-patrick-lebacque)
  
 ## Abstract
 Port-Hamiltonian systems (PHS) are increasingly popular modelling approaches for nonlinear physical systems. In this contribution, we identify a general class of microscopic force-based pedestrian models that can be formulated as a port-Hamiltonian system. The port-Hamiltonian paradigm allows for identification of new fundamental physical modelling components of pedestrian dynamics. The skew-symmetric term specific to the conservative Hamiltonian structure of the PHS corresponds to pedestrian isotropic interaction forces. The dissipation to the input port accounts for the pedestrian’s desired velocity and sensitivity, the input acting in the PHS as a feedback control. Some simulations of counter-flow are performed on a torus. Interestingly, a phase transition from disorder dynamics to self-organising lane formation occurs as the conservative forces become weak relative to the dissipation and control forces. A critical parameter setting for lane formation can then be identified using the Hamiltonian as an order parameter.

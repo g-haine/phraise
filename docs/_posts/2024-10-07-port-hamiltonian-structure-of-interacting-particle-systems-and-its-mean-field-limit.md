@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit_jacob), [Claudia Totzeck](authors/claudia_totzeck)
+[Birgit Jacob](authors/birgit-jacob), [Claudia Totzeck](authors/claudia-totzeck)
  
 ## Abstract
 We derive a minimal port-Hamiltonian formulation of a general class of interacting particle systems driven by alignment and potential-based force dynamics which include the Cucker-Smale model with potential interaction and the second order Kuramoto model. The port-Hamiltonian structure allows to characterize conserved quantities such as Casimir functions as well as the long-time behaviour using a LaSalle-type argument on the particle level. It is then shown that the port-Hamiltonian structure is preserved in the mean-field limit and an analogue of the LaSalle invariance principle is studied in the space of probability measures equipped with the 2-Wasserstein-metric. The results on the particle and mean-field limit yield a new perspective on uniform stability of general interacting particle systems. Moreover, as the minimal port-Hamiltonian formulation is closed we identify the ports of the subsystems which admit generalized mass-spring-damper structure modelling the binary interaction of two particles. Using the information of ports we discuss the coupling of difference species in a port-Hamiltonian preserving manner.

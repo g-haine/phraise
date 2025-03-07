@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Kirsten Morris](authors/kirsten_morris)
+[Luis A. Mora](authors/luis-a-mora), [Kirsten Morris](authors/kirsten-morris)
  
 ## Abstract
 Distributed port-Hamiltonian systems with boundary damping and possible internal dissipation are considered. The multiplier method is used to show exponential decay Me−αt with an expression for M and α in terms of the system parameters. The exponential stability of port-Hamiltonian systems has been studied in the literature, but previous results did not provide an explicit bound on the decay rate. This result is illustrated by the boundary stabilization of a Timoshenko beam.

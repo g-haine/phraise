@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Yann Le Gorrec](authors/yann_le_gorrec), [Denis Matignon](authors/denis_matignon), [Hector Ramirez](authors/hector_ramirez), [Juan I. Yuz](authors/juan_i_yuz)
+[Luis A. Mora](authors/luis-a-mora), [Yann Le Gorrec](authors/yann-le-gorrec), [Denis Matignon](authors/denis-matignon), [Hector Ramirez](authors/hector-ramirez), [Juan I. Yuz](authors/juan-i-yuz)
  
 ## Abstract
 In this paper we consider the physical-based modeling of 3D and 2D Newtonian fluids including thermal effects in order to cope with the first and second principles of thermodynamics. To describe the energy fluxes of non-isentropic fluids we propose a pseudo port-Hamiltonian formulation, which includes the rate of irreversible entropy creation by heat flux. For isentropic fluids, the conversion of kinetic energy into heat by viscous friction is considered as an energy dissipation associated with the rotation and compression of the fluid. Then, a dissipative port-Hamiltonian formulation is derived for this class of fluids. In the 2D case we modify the vorticity operators in order to preserve the structure of the proposed models. Moreover, we show that a description for inviscid or irrotational fluids can be derived from the proposed models under the corresponding assumptions leading to a pseudo or dissipative port-Hamiltonian structures.

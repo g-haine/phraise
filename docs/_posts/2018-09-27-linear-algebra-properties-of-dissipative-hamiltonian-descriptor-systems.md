@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[C. Mehl](authors/c_mehl), [V. Mehrmann](authors/volker_mehrmann), [M. Wojtylak](authors/m_wojtylak)
+[C. Mehl](authors/c-mehl), [V. Mehrmann](authors/volker-mehrmann), [M. Wojtylak](authors/m-wojtylak)
  
 ## Abstract
 A wide class of matrix pencils connected with dissipative Hamiltonian descriptor systems is investigated. In particular, the following properties are shown: all eigenvalues are in the closed left half plane, the nonzero finite eigenvalues on the imaginary axis are semisimple, the index is at most two, and there are restrictions for the possible left and right minimal indices. For the case that the eigenvalue zero is not semisimple, a structure-preserving method is presented that perturbs the given system into a Lyapunov stable system.

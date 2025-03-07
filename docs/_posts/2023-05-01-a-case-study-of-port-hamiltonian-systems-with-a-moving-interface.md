@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Alexander Kilian](authors/alexander_kilian), [Bernhard Maschke](authors/bernhard_maschke), [Andrii Mironchenko](authors/andrii_mironchenko), [Fabian Wirth](authors/fabian_wirth)
+[Alexander Kilian](authors/alexander-kilian), [Bernhard Maschke](authors/bernhard-maschke), [Andrii Mironchenko](authors/andrii-mironchenko), [Fabian Wirth](authors/fabian-wirth)
  
 ## Abstract
 We model two systems of two conservation laws defined on complementary spatial intervals and coupled by a moving interface as a single non-autonomous port-Hamiltonian system, and provide sufficient conditions for its Kato-stability. An example shows that these conditions are quite restrictive. The more general question under which conditions an evolution family is generated remains open.

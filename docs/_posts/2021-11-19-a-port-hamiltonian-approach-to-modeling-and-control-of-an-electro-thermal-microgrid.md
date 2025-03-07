@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ajay Krishna](authors/ajay_krishna), [Johannes Schiffer](authors/johannes_schiffer)
+[Ajay Krishna](authors/ajay-krishna), [Johannes Schiffer](authors/johannes-schiffer)
  
 ## Abstract
 We address the problems of modeling and controlling multi-energy microgrids (meMGs) composed of an electrical and a thermal system, which are connected via heat pumps (HPs). At first, we model the individual subsystems in a port-Hamiltonian (pH) framework. Then, by exploiting the structural properties of pH systems, we interconnect the subsystems in a passive manner and show that the overall meMG is shifted passive with respect to the control input-output mapping. We then use this property to propose a distributed passivity based-control (PBC) that addresses frequency and temperature regulation by utilizing the resources in the meMG in a proportional fashion and renders the closed-loop equilibrium asymptotically stable.

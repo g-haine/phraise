@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Hayden Phillips-Brenes](authors/hayden_phillips_brenes), [Mauricio Muñoz-Arias](authors/mauricio_munoz_arias), [Roberto Pereira-Arroyo](authors/roberto_pereira_arroyo), [Luis Miguel Esquivel-Sancho](authors/luis_miguel_esquivel_sancho), [Renato Rimolo-Donadio](authors/renato_rimolo_donadio)
+[Hayden Phillips-Brenes](authors/hayden-phillips-brenes), [Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Luis Miguel Esquivel-Sancho](authors/luis-miguel-esquivel-sancho), [Renato Rimolo-Donadio](authors/renato-rimolo-donadio)
  
 ## Citation
 - **Journal:** IEEE Transactions on Control Systems Technology

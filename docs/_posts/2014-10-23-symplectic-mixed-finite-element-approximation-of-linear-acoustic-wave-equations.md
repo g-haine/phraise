@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Robert C. Kirby](authors/robert_c_kirby), [Thinh Tri Kieu](authors/thinh_tri_kieu)
+[Robert C. Kirby](authors/robert-c-kirby), [Thinh Tri Kieu](authors/thinh-tri-kieu)
  
 ## Abstract
 We apply mixed finite element approximations to the first-order form of the acoustic wave equation. The semidiscrete method exactly conserves the system energy. A fully discrete method employing the symplectic Euler time method in time exactly conserves a positive-definite pertubed energy functional that is equivalent to the actual energy under a CFL condition. In addition to proving optimal-order \\(  \\)L^\\infty (L^2)\\(  \\) L ∞ ( L 2 ) estimates, we also develop a bootstrap technique that allows us to derive stability and error bounds for the time derivatives and divergence of the vector variable beyond the standard under some additional regularity assumptions.

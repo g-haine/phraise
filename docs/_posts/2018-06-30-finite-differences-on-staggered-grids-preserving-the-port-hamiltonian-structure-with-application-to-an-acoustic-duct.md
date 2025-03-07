@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Vincent Trenchant](authors/vincent_trenchant), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Paul Kotyczka](authors/paul_kotyczka)
+[Vincent Trenchant](authors/vincent-trenchant), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 A finite-difference spatial discretization scheme that preserves the port-Hamiltonian structure of infinite dimensional systems governed by the wave equation is proposed. The scheme is based on the use of staggered grids for the discretization of different variables of the system. The discretization is given in 2D for rectilinear and regular triangular meshes. The proposed method is completed with the midpoint rule for time integration and numerical results are provided, including considerations for interconnection and closed loop behaviors and isotropy comparison between the proposed meshes.

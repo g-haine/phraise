@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Martin Pfeifer](authors/martin_pfeifer), [Sven Caspart](authors/sven_caspart), [Felix Strehle](authors/felix_strehle), [Sören Hohmann](authors/soren_hohmann)
+[Martin Pfeifer](authors/martin-pfeifer), [Sven Caspart](authors/sven-caspart), [Felix Strehle](authors/felix-strehle), [Sören Hohmann](authors/soren-hohmann)
  
 ## Abstract
 In this paper, we present a simple method to design a full-order observer for a class of nonlinear port-Hamiltonian systems (PHSs). We provide a sufficient condition for the observer to be globally exponentially convergent. This condition exploits the natural damping of the system. The observer and its design are illustrated by means of an academic example system. Numerical simulations verify the convergence of the reconstructions towards the unknown system variables.

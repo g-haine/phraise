@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Gou Nishida](authors/gou_nishida), [Bernhard Maschke](authors/bernhard_maschke)
+[Gou Nishida](authors/gou-nishida), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 This paper proposes a particular type of Stokes-Dirac structure for describing a Laplacian used in Poisson’s equations on topologically non-trivial manifolds, i.e., not Euclidian. The operator matrix representation of the structure includes not only exterior differential operators, but also codifferential operators in the sense of the dual of the pairing between differential forms. Since the successive operation of the matrix is equivalent to the Laplace-Beltrami operator, we call it a Stokes-Dirac operator. Furthermore, the Stokes-Dirac operator is augmented by harmonic differential forms that reflect the topological geometry of manifolds. The extension enable us to describe a power balance of particular boundary energy flows on manifolds with a non-trivial shape.

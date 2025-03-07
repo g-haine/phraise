@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Yousef Farid](authors/yousef_farid), [Fabio Ruggiero](authors/fabio_ruggiero)
+[Yousef Farid](authors/yousef-farid), [Fabio Ruggiero](authors/fabio-ruggiero)
  
 ## Abstract
 This paper addresses the robust control problem of mechanical systems with hybrid dynamics in port-Hamiltonian form. It is assumed that only the position states are measurable, and time-delay and saturation constraint affect the control signal. An extended state observer is designed after a coordinate transformation. The effect of the time delay in the control signal is neutralized by applying Padé approximant and augmenting the system states. An assistant system with faster convergence is developed to handle actuators saturation. Fractional-order sliding mode controller acts as a centralized controller and compensates for the undesired effects of unknown external disturbance and parameter uncertainties using the observer estimation results. Stability analysis shows that the closed-loop system states, such as the observer tracking error, and the position/velocity tracking errors, are finite-time stable. Simulation studies on a two ball-playing juggler robot with three degrees of freedom validate the theoretical results’ effectiveness.

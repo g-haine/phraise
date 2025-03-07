@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Rainer H. Picard](authors/rainer_h_picard), [Sascha Trostorff](authors/sascha_trostorff), [Bruce Watson](authors/bruce_watson), [Marcus Waurick](authors/marcus_waurick)
+[Rainer H. Picard](authors/rainer-h-picard), [Sascha Trostorff](authors/sascha-trostorff), [Bruce Watson](authors/bruce-watson), [Marcus Waurick](authors/marcus-waurick)
  
 ## Abstract
 We study port-Hamiltonian systems on a familiy of intervals and characterise all boundary conditions leading to \\( m \\)-accretive realisations of the port-Hamiltonian operator and thus to generators of contractive semigroups. The proofs are based on a structural observation that the port-Hamiltonian operator can be transformed to the derivative on a familiy of reference intervals by suitable congruence relations allowing for studying the simpler case of a transport equation. Moreover, we provide well-posedness results for associated control problems without assuming any additional regularity of the operators involved.

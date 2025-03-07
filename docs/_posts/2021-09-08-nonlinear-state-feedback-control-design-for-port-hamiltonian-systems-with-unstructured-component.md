@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Seyedabbas Alavi](authors/seyedabbas_alavi), [Nicolas Hudon](authors/nicolas_hudon)
+[Seyedabbas Alavi](authors/seyedabbas-alavi), [Nicolas Hudon](authors/nicolas-hudon)
  
 ## Abstract
 This paper considers the problem of state feedback controller design to stabilize generalized Hamiltonian systems with an unstructured component. This class of models enable one to exploit the structure of port-Hamiltonian systems for feedback control design while relaxing the constraint of deriving an exact structured port-Hamiltonian representation. For a given stabilizable nonlinear system, and with some assumptions on the unstructured part of the dynamics, a stabilizing control law is designed and asymptotic stability of a desired equilibrium of the system is demonstrated. A numerical illustration of the proposed approach is presented to demonstrate the design method.

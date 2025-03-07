@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Ramkrishna Pasumarthy](authors/ramkrishna_pasumarthy), [Chung-Yao Kao](authors/chung_yao_kao)
+[Ramkrishna Pasumarthy](authors/ramkrishna-pasumarthy), [Chung-Yao Kao](authors/chung-yao-kao)
  
 ## Abstract
 Stability of a class of nonlinear systems, called port-Hamiltonian systems, in the presence of time delay in the communication between the plant and controller is studied. The delay parameter is an unknown function which varies with time and for which the upper bounds on the magnitude and variation are known. The presence of delay may destroy the port-Hamiltonian structure of the system. Because of this, stability of the time delay systems is not obvious. We thus propose a theory to test the stability of port-Hamiltonian systems with time delay. The stability problem considered here, relies on the construction of a Lyapunov-Krasovskii (LK) functional based on the Hamiltonian of the port-Hamiltonian system. Based on the LK functional, we derive some sufficient conditions for the system to be asymptotically stable in presence of uncertain delays.

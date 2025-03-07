@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro_macchelli), [C. Melchiorri](authors/claudio_melchiorri), [S. Stramigioli](authors/stefano_stramigioli)
+[A. Macchelli](authors/alessandro-macchelli), [C. Melchiorri](authors/claudio-melchiorri), [S. Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 In this paper, a simple way to model flexible robotic links is presented. This is different from classical approaches and from the Euler-Bernoulli or Timoshenko theory, in that the proposed model is able to describe large deflections in 3D space and does not rely on any finite-dimensional approximation (e.g., modal approximation). The model has been formulated within the port Hamiltonian formalism because intuitive considerations on the geometric behavior of the elastic link naturally define a Stokes-Dirac structure, the kernel of a port Hamiltonian system. Moreover, port Hamiltonian systems can be easily interconnected, thus allowing the description of complex systems as a composition of parts in an object-oriented way. By combining rigid bodies, springs, dampers, joints and, finally, flexible links, it is virtually possible to model and mathematically describe whatever complex mechanical structure formed by beams. In order to demonstrate the dynamical properties of the model and how complex mechanisms can be obtained by port interconnection, simulations of 1-DoF and 2-DoF serial manipulators and of a 2-DoF flexible closed kinematic chain are presented.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Hans Zwart](authors/hans_zwart), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Hector Ramirez](authors/hector-ramirez), [Hans Zwart](authors/hans-zwart), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 The conditions for existence of solutions and stability, asymptotic and exponential, of a large class of boundary controlled systems on a 1D spatial domain subject to nonlinear dynamic boundary actuation are given. The consideration of such class of control systems is motivated by the use of actuators and sensors with nonlinear behavior in many engineering applications. These nonlinearities are usually associated to large deformations or the use of smart materials such as piezo actuators and memory shape alloys. Including them in the controller model results in passive dynamic controllers with nonlinear potential energy function and/or nonlinear damping forces. First it is shown that under very natural assumptions the solutions of the partial differential equation with the nonlinear dynamic boundary conditions exist globally. Secondly, when energy dissipation is present in the controller, then it globally asymptotically stabilizes the partial differential equation. Finally, it is shown that assuming some additional conditions on the interconnection and on the passivity properties of the controller (consistent with physical applications) global exponential stability of the closed-loop system is achieved.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli), [Yann Le Gorrec](authors/yann_le_gorrec), [Héctor Ramírez](authors/hector_ramirez)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Yann Le Gorrec](authors/yann-le-gorrec), [Héctor Ramírez](authors/hector-ramirez)
  
 ## Abstract
 This paper illustrates a synthesis methodology of asymptotically stabilising, energy-based, boundary control laws for a large class of distributed port-Hamiltonian systems. The result is applied on a non-linear model of an ideal, compressible, isentropic fluid with one-dimensional spatial domain. The idea is to design at first a state feedback law able to perform the energy-shaping task, i.e. able to render the closed-loop system a port-Hamiltonian system with a new Hamiltonian with a minimum at the desired equilibrium. Then, under some assumptions on the existence of solutions and pre-compactness of trajectories, asymptotic stability is obtained via damping injection on the boundary. The result is a consequence of the La Salles Invariance Principle in infinite dimensions.

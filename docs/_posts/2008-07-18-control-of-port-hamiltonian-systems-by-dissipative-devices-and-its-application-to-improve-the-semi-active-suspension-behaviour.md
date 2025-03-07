@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Riccardo Morselli](authors/riccardo_morselli), [Roberto Zanasi](authors/roberto_zanasi)
+[Riccardo Morselli](authors/riccardo-morselli), [Roberto Zanasi](authors/roberto-zanasi)
  
 ## Abstract
 The port Hamiltonian framework is a powerful tool for modeling a wide class of nonlinear systems such as robots and, more generally, mechatronic systems. The standard approaches used for the control of the port Hamiltonian systems are not applicable to a wide variety of mechatronic systems. This happens, for example, when the input control variable acts directly on some dissipative components of the system. In these cases the controlled devices can only dissipate power and the problem is to find a proper control law in order to meet the control requirements. This paper proposes four control laws for the controlled dissipative components which allow to satisfy a set of control requirements by acting on the energy stored in a subsection of the given system or by controlling the power flowing through a physical section of the system. Although some important issues remain open, the example of the semi-active suspension shows that some positive results can be achieved by applying the proposed approach.

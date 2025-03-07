@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Luis A. Mora](authors/luis_a_mora), [Kirsten Morris](authors/kirsten_morris)
+[Luis A. Mora](authors/luis-a-mora), [Kirsten Morris](authors/kirsten-morris)
  
 ## Abstract
 In this work, the multiplier method is extended to obtain a general lower bound on the exponential decay rate for port-Hamiltonian systems in one space dimension with boundary dissipation. The physical parameters of the system may be spatially varying. It is shown that, under assumptions of boundary or internal dissipation, the system is exponentially stable. This is established through a Lyapunov function defined through a general multiplier function. Furthermore, an explicit bound on the decay rate in terms of the physical parameters is obtained. The method is applied to a number of examples.

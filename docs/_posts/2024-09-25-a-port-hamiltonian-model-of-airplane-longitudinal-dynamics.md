@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[João Erick de Mattos Fernandes](authors/joao_erick_de_mattos_fernandes), [Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Mauricio Andrés Varela Morales](authors/mauricio_andres_varela_morales)
+[João Erick de Mattos Fernandes](authors/joao-erick-de-mattos-fernandes), [Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Mauricio Andrés Varela Morales](authors/mauricio-andres-varela-morales)
  
 ## Abstract
 This paper contributes to the application of port-Hamiltonian systems (pHs) theory in the context of fixed-wing airplanes, an area challenged by the difficulty of introducing aerodynamics in this framework. Expanding on recent initiatives that applied pHs theory to fixed-wing airplane dynamics - a move that simplified thrust and aerodynamics - our study introduces a comprehensive longitudinal dynamics formulation. This approach not only clarifies these earlier models by aligning more closely with traditional airplane dynamics equations but also integrates physical parameters from an A300 airplane model. By addressing and enhancing the thrust and aerodynamic representations, our formulation achieves a more accurate depiction of airplane dynamics. This work marks a step forward in the ongoing efforts to adapt pHs theory for aerospace engineering, laying the groundwork for more effective modeling and control strategies in this field.

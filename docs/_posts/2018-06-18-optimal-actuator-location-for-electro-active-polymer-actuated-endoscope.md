@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper deals with optimal actuator location for a medical endoscope controlled by electro-active polymer (EAP). The inner tube of the endoscope is a flexible structure that can be represented by a Timoshenko beam. Actuators are patches of EAP. There is freedom in the choice of EAP actuators location. In this paper, we first propose a port Hamiltonian model of the endoscope. In order to choose the optimal location for the EAP actuators, we consider the linear quadratic (LQ) performance as the optimal performance objective. At last, some numerical simulation results are given based on the real experimental setup parameters.

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[V. Salnikov](authors/v_salnikov)
+[V. Salnikov](authors/v-salnikov)
  
 ## Abstract
  In this paper, we continue to consider the problem of recovering the port-Hamiltonian structure for an arbitrary system of differential equations. We complement our previous study on this topic by explaining the choice of machine learning algorithms and discussing some details of their application. We also consider the possibility provided by this approach for a potentially new definition of canonical forms and classification of systems of differential equations.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Mohammad Yaghoub Abdollahzadeh Jamalabadi](authors/mohammad_yaghoub_abdollahzadeh_jamalabadi)
+[Mohammad Yaghoub Abdollahzadeh Jamalabadi](authors/mohammad-yaghoub-abdollahzadeh-jamalabadi)
  
 ## Abstract
 The fluid–solid interaction is an interesting topic in numerous engineering applications. In this paper, the fluid–solid interaction is considered in a vessel attached to the free tip of a cantilever beam. Governing coupled equations of the system include the Euler–Bernoulli equation for bending of a beam, torsion of a beam, 2-D motion of the rigid vessel, and rotating shallow water equation of fluid sloshing in the vessel. As an essential portion in the numerical simulation of the vibration control of this fluid–plate system is the accurate modeling of sloshing; the partial differential equations of the system are modified by approximation of velocity profile. The suggested method is validated by experimental results of a piezoelectric actuated clamped rectangular plate holding a cylindrical vessel. These sloshing interactions with elastic test cases illustrate the mass conservative characteristics of the method as well as its stability in a prompt change of the vessel situations.

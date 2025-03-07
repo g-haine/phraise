@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke)
+[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 Boundary controlled irreversible port-Hamiltonian systems (BC-IPHS) defined on a 1-dimensional spatial domain are defined by extending the formulation of reversible BC-PHS to irreversible thermodynamic systems controlled at the boundaries of their spatial domain. The structure of BC-IPHS has clear physical interpretation, characterizing the coupling between energy storing and energy dissipating elements. By extending the definition of boundary port variables of BC-PHS to deal with the irreversible energy dissipation, a set of boundary port variables are defined such that BC-IPHS are passive with respect to a given set of conjugated inputs and outputs. As for finite dimensional IPHS, the first and second laws of Thermodynamics are satisfied as a structural property of the system. Several examples are given to illustrate the proposed approach.

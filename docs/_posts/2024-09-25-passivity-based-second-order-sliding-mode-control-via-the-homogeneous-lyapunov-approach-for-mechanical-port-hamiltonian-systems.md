@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[K. Masutani](authors/k_masutani), [N. Sakata](authors/naoki_sakata), [K. Fujimoto](authors/kenji_fujimoto), [I. Maruta](authors/ichiro_maruta)
+[K. Masutani](authors/k-masutani), [N. Sakata](authors/naoki-sakata), [K. Fujimoto](authors/kenji-fujimoto), [I. Maruta](authors/ichiro-maruta)
  
 ## Abstract
 In this work, a new second-order sliding mode controller for mechanical port-Hamiltonian systems is proposed. The authors’ former paper proposed a passivity-based sliding mode controller based on the kinetic-potential energy shaping (KPES). This controller is able to achieve only first-order sliding mode control since the KPES allows us to embed a subsystem, whose dimension is the same as that of the input, into the closed-loop system. The present paper extends the KPES to incorporate a higher-order subsystem in the closed-loop system, which enables us to obtain the subsystem that can realize second-order sliding mode control. The proposed controller is a unification of a passivity-based controller and a second-order sliding mode controller which does not cause undesirable chattering phenomena. It ensures finite-time convergence of the subsystem and asymptotic stability of the entire closed-loop system by utilizing two Lyapunov functions. A numerical example demonstrates the effectiveness of the proposed method.

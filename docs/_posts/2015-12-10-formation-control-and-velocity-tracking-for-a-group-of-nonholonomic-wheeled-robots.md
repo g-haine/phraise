@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Ewoud Vos](authors/ewoud_vos), [Arjan J. van der Schaft](authors/arjan_van_der_schaft), [Jacquelien M. A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Ewoud Vos](authors/ewoud-vos), [Arjan J. van der Schaft](authors/arjan-van-der-schaft), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 This technical note presents an integrated approach for formation control and velocity tracking of a group of nonholonomic wheeled robots. The solution is defined within the port-Hamiltonian framework, providing a clear interpretation of the results. The controller consists of a local nonlinear heading and velocity tracking controller combined with a distributed formation controller. The formation controller achieves formations by assigning virtual couplings in between the robots. Experimental results are provided to illustrate the effectiveness of the approach.

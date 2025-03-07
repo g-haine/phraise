@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Antoine Falaize](authors/antoine_falaize), [Thomas Hélie](authors/thomas_helie)
+[Antoine Falaize](authors/antoine-falaize), [Thomas Hélie](authors/thomas-helie)
  
 ## Abstract
 The electrodynamic loudspeaker couples mechanical, magnetic, electric and thermodynamic phenomena. The Thiele/Small (TS) model provides a low frequency approximation, combining passive linear (multiphysical or electric-equivalent) components. This is commonly used by manufacturers as a reference to specify basic parameters and characteristic transfer functions. This paper presents more refined nonlinear models of electric, magnetic and mechanical phenomena, for which fundamental properties such as passivity and causality are guaranteed. More precisely, multiphysical models of the driver are formulated in the core class of port-Hamiltonian systems (PHS), which satisfies a power balance decomposed into conservative, dissipative and source parts. First, the TS model is reformulated as a linear PHS. Then, refinements are introduced, step-by-step, benefiting from the component-based approach allowed by the PHS formalism. Guaranteed-passive simulations are proposed, based on a numerical scheme that preserves the power balance. Numerical experiments that qualitatively comply with measured behaviors available in the literature are presented throughout the paper.

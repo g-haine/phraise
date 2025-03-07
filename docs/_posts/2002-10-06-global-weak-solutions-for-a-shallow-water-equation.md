@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Adrian Constantin](authors/adrian_constantin), [Luc Molinet](authors/luc_molinet)
+[Adrian Constantin](authors/adrian-constantin), [Luc Molinet](authors/luc-molinet)
  
 ## Abstract
 We show the existence and uniqueness of global weak solutions for an equation describing the motion of waves at the free surface of shallow water under the influence of gravity.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Jesus-Pablo Toledo-Zucco](authors/jesus_pablo_toledo_zucco), [Denis Matignon](authors/denis_matignon), [Charles Poussot-Vassal](authors/charles_poussot_vassal)
+[Jesus-Pablo Toledo-Zucco](authors/jesus-pablo-toledo-zucco), [Denis Matignon](authors/denis-matignon), [Charles Poussot-Vassal](authors/charles-poussot-vassal)
  
 ## Abstract
 A structure-preserving Finite Element Method (FEM) for the transport equation in one- and two-dimensional domains is presented. This Distributed Parameter System (DPS) has non-collocated boundary control and observation, and reveals a scattering-energy preserving structure. We show that the discretized model preserves the aforementioned structure from the original infinite-dimensional system. Moreover, we analyse the case of moving meshes for the one-dimensional case. The moving mesh requires less states than the fixed one to produce solutions with a comparable accuracy, and it can also reduce the overshoot and oscillations of Gibbs phenomenon produced when using the FEM. Numerical simulations are provided for the case of a one-dimensional transport equation with fixed and moving meshes.

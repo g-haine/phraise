@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Matin Jafarian](authors/matin_jafarian), [Ewoud Vos](authors/ewoud_vos), [Claudio De Persis](authors/claudio_de_persis), [Jacquelien Scherpen](authors/jacquelien_m_a_scherpen), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Matin Jafarian](authors/matin-jafarian), [Ewoud Vos](authors/ewoud-vos), [Claudio De Persis](authors/claudio-de-persis), [Jacquelien Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 This paper presents the results of formation keeping control of a group of nonholonomic wheeled robots within the port‐Hamiltonian framework and in the presence of matched input disturbances. Two scenarios on the internal damping of the dynamics of the robots are considered: strictly output passive and loss less robots. For strictly output passive robots, the distributed formation keeping controllers drive the robots towards a desired formation, while internal‐model‐based controllers locally compensate the harmonic input disturbance for each of the robots. Moreover, the effect of constant input disturbances is studied considering internal‐model‐based controllers. For lossless robots, results on formation keeping control are presented. Simulation results illustrate the effectiveness of the approach. Copyright © 2016 John Wiley & Sons, Ltd.

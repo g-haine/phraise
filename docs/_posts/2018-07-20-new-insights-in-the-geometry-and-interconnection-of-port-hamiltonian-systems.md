@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[M Barbero-Liñán](authors/m_barbero_linan), [H Cendra](authors/h_cendra), [E García-Toraño Andrés](authors/e_garcia_torano_andres), [D Martín de Diego](authors/d_martin_de_diego)
+[M Barbero-Liñán](authors/m-barbero-linan), [H Cendra](authors/h-cendra), [E García-Toraño Andrés](authors/e-garcia-torano-andres), [D Martín de Diego](authors/d-martin-de-diego)
  
 ## Abstract
 We discuss a new geometric construction of port-Hamiltonian systems. Using this framework, we revisit the notion of interconnection providing it with an intrinsic description. Special emphasis on theoretical and applied examples is given throughout the paper to show the applicability and the novel contributions of the proposed framework.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Héctor Ramírez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke), [Françoise Couenne](authors/francoise_couenne)
+[Héctor Ramírez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke), [Françoise Couenne](authors/francoise-couenne)
  
 ## Abstract
 Irreversible port-Hamiltonian systems (IPHS) have recently been proposed for the modelling of irreversible thermodynamic systems. On the other hand, a classical result on the use of the second law of thermodynamics for the stabilization of irreversible processes is the celebrated thermodynamic availability function. These frameworks are combined to propose a class of Passivity Based Controller (PBC) for irreversible processes. An alternative formulation of the availability function in terms of internal energy is proposed. Using IPHS a matching-condition, which is interpreted in terms of energy-shaping, is derived and a specific solution that permits to assign a desired closed-loop structure and entropy rate is proposed. The approach can be compared with Interconnection and Damping Assignment-PBC, this method however leads in general to thermodynamically non-coherent closed-loop systems. In this paper a system theoretic approach is employed to derive a constructive method for the control design. The closed-loop system is in IPHS form, hence it can be identified with a thermodynamic system and the control parameters related with thermodynamic variables, such as the reaction rates in the case of chemical reactions. A generic non-linear non-isothermal continuous stirred tank reactor is used to illustrate the approach.

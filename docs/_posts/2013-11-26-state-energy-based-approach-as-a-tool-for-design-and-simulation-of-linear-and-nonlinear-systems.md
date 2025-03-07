@@ -18,7 +18,7 @@ tags:
 ---
  
 ## Authors
-[Milan Stork](authors/milan_stork), [Josef Hrusak](authors/josef_hrusak), [Daniel Mayer](authors/daniel_mayer)
+[Milan Stork](authors/milan-stork), [Josef Hrusak](authors/josef-hrusak), [Daniel Mayer](authors/daniel-mayer)
  
 ## Abstract
 This chapter deals with a new problem of physical correctness detection in the area of strictly causal system representations. The starting point is energy and the assumption that a system can be represented by a proper interconnection. The interconnection or, better, the interaction between physical systems can be described in terms of power exchange through power ports. The proposed approach to the problem solution is based on generalization of Tellegen’s theorem well known from electrical engineering. Consequently, mathematically as well as physically correct results are obtained. The contribution is mainly concerned with presentation of a new structural approach to analysis and synthesis of linear and nonlinear causal systems. It has been proven that complete analysis of system behavior reduces to two independent tests: the monotonicity test of abstract state space energy and that of complete state observability, eventually of its dual, i.e., complete state controllability property. For comparison, the example of port-Hamiltonian approach is also presented.

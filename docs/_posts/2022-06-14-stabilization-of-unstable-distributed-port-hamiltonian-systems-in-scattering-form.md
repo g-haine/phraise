@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli), [Yann Le Gorrec](authors/yann_le_gorrec), [Hector Ramirez](authors/hector_ramirez)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Yann Le Gorrec](authors/yann-le-gorrec), [Hector Ramirez](authors/hector-ramirez)
  
 ## Abstract
 In this letter, we consider the exponential stabilization of a distributed parameter port-Hamiltonian system interconnected with an unstable finite-dimensional linear system at its free end and control input at the opposite one. The infinite-dimensional system can also have in-domain anti-damping. The control design passes through the definition of a finite-dimensional linear system that “embeds” the response of the distributed parameter model, and that can be stabilized by acting on the available control input. The conditions that link the exponential stability of the latter system with the exponential stability of the original one are obtained thanks to a Lyapunov analysis. Simulations are presented to show the pros and cons of the proposed synthesis methodology.

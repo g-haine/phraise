@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[B. Maschke](authors/bernhard_maschke), [A.J. van der Schaft](authors/arjan_van_der_schaft)
+[B. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 In this paper we shall consider the Hamiltonian formulation of one-dimensional models of fluid dynamical systems such as the Korteweg de Vries equation and the Boussinesq equation and their extension to port-Hamiltonian systems. We consider the Korteweg de Vries equation and recall its bi-Hamiltonian structure, either formulated as a single conservation law or formulated with respect to Magri's bracket. In both cases we give an extension of the associated Hamiltonian operators to a Stokes-Dirac structure. Then we consider the Boussinesq equation and recall the two Hamiltonian representations either with respect to the canonical Hamiltonian operator associated with a system of two coupled conservation laws or with respect to a third order Hamiltonian operator. In this case we shall suggest a third Hamiltonian operator for which an extension to a Dirac structure is derived.

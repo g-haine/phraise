@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Dominic Groß](authors/dominic_gross), [Catalin Arghir](authors/catalin_arghir), [Florian Dörfler](authors/florian_dorfler)
+[Dominic Groß](authors/dominic-gross), [Catalin Arghir](authors/catalin-arghir), [Florian Dörfler](authors/florian-dorfler)
  
 ## Abstract
 In this article, we consider a dynamic model of a three-phase power system including nonlinear generator dynamics, transmission line dynamics, and static nonlinear loads. We define a synchronous steady-state behavior which corresponds to the desired nominal operating point of a power system and obtain necessary and sufficient conditions on the control inputs, load model, and transmission network, under which the power system admits this steady-state behavior. We arrive at a separation between the steady-state conditions of the transmission network and generators, which allows us to recover the steady-state of the entire power system solely from a prescribed operating point of the transmission network. Moreover, we constructively obtain necessary and sufficient steady-state conditions based on network balance equations typically encountered in power flow analysis. Our analysis results in several necessary conditions that any power system control strategy needs to satisfy.

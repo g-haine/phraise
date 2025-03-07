@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Robert I. McLachlan](authors/robert_i_mclachlan), [Klas Modin](authors/klas_modin), [Olivier Verdier](authors/olivier_verdier), [Matt Wilkins](authors/matt_wilkins)
+[Robert I. McLachlan](authors/robert-i-mclachlan), [Klas Modin](authors/klas-modin), [Olivier Verdier](authors/olivier-verdier), [Matt Wilkins](authors/matt-wilkins)
  
 ## Abstract
 We show that symplectic Runge-Kutta methods provide effective symplectic integrators for Hamiltonian systems with index one constraints. These include the Hamiltonian description of variational problems subject to position and velocity constraints nondegenerate in the velocities, such as those arising in sub-Riemannian geometry and control theory.

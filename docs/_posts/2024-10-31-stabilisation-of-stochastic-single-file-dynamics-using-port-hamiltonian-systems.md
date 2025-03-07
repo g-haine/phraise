@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Julia Ackermann](authors/julia_ackermann), [Matthias Ehrhardt](authors/matthias_ehrhardt), [Thomas Kruse](authors/thomas_kruse), [Antoine Tordeux](authors/antoine_tordeux)
+[Julia Ackermann](authors/julia-ackermann), [Matthias Ehrhardt](authors/matthias-ehrhardt), [Thomas Kruse](authors/thomas-kruse), [Antoine Tordeux](authors/antoine-tordeux)
  
 ## Abstract
 This study revisits a recently proposed symmetric port-Hamiltonian single-file model in one dimension. The uniform streaming solutions are stable in the deterministic model. However, the introduction of white noise into the dynamics causes the model to exhibit divergence. In response, we add a relaxation term that draws the agents’ speed to a desired constant speed and plays the role of the input in the port-Hamiltonian framework. Our results show that this relaxation term effectively stabilises the dynamics even in the presence of stochastic noise.

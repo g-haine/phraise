@@ -19,7 +19,7 @@ tags:
 ---
  
 ## Authors
-[Simon Hochgerner](authors/simon_hochgerner)
+[Simon Hochgerner](authors/simon-hochgerner)
  
 ## Abstract
 Methods from controlled Lagrangians, double-bracket dissipation and interconnection and damping assignment–passivity-based control (IDA-PBC) are used to construct nonlinear feedback controls which (asymptotically) stabilize previously unstable equilibria of Lie–Poisson Hamiltonian systems. The results are applied to find an asymptotically stabilizing control for the rotor driven satellite, and a stabilizing control for Hall magnetohydrodynamic flow.

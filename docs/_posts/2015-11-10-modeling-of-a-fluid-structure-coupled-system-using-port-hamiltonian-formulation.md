@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger)
  
 ## Abstract
 The interactions between fluid and structural dynamics are an important subject of study in several engineering applications. In airplanes, for example, these coupled vibrations can lead to structural fatigue, noise and even instability. At ISAE, we have an experimental device that consists of a cantilevered plate with a fluid tank near the free tip. This device is being used for model validation and active control studies. This work uses the port-Hamiltonian systems formulation for modeling this experimental device. Structural dynamics and fluid dynamics are independently modeled as infinite-dimensional systems. The plate is approximated as a beam. Shallow water equations are used for representing the fluid in the moving tank. The global system is coupled and spatial discretization of the infinite-dimensional systems using mixed finite-element method allows to obtain a finite-dimensional system that is still Hamiltonian.

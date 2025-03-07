@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Abolfazl Yaghmaei](authors/abolfazl_yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad_javad_yazdanpanah)
+[Abolfazl Yaghmaei](authors/abolfazl-yaghmaei), [Mohammad Javad Yazdanpanah](authors/mohammad-javad-yazdanpanah)
  
 ## Abstract
 In this article, for the input-state-output class of port-Hamiltonian systems, the contraction property is characterized. Recently, some results on contraction of port-Hamiltonian systems with constant interconnection and damping matrices have been published. This article extends these results for state-modulated interconnection and damping matrices. In this regard, the powerful method of interconnection and damping assignment passivity-based control is extended for tracking designs. Controller design for underactuated mechanical systems with nonconstant mass matrices usually leads to nonconstant (state-modulated) interconnection and damping matrices for the closed-loop system. Therefore, the result of this article can be used for tracking controller design for underactuated mechanical systems. To show the potency of proposed results, a tracking controller for cart–pole system is designed and simulated.

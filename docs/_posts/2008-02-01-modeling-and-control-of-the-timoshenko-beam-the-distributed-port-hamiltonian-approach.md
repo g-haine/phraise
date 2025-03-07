@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli), [Claudio Melchiorri](authors/claudio_melchiorri)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Claudio Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 The purpose of this paper is to show how the Timoshenko beam can be fruitfully described within the framework of distributed port Hamiltonian (dpH) systems so that rather simple and elegant considerations can be drawn regarding both the modeling and control of this mechanical system. After the dpH model of the beam is introduced, the control problem is discussed. In particular, it is shown how control approaches already presented in the literature can be unified, and a new control methodology is presented and discussed. This control methodology relies on the generalization to infinite dimensions of the concept of structural invariant (Casimir function) and on the extension to distributed systems of the so-called control by interconnection methodology. In this way, finite dimensional passive controllers can stabilize distributed parameter systems by shaping their total energy, i.e., by assigning a new minimum in the desired equilibrium configuration that can be reached if a dissipative effect is introduced.

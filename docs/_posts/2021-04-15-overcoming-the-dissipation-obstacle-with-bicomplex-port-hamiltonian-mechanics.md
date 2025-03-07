@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Coen Hutters](authors/coen_hutters), [Max Mendel](authors/max_mendel)
+[Coen Hutters](authors/coen-hutters), [Max Mendel](authors/max-mendel)
  
 ## Abstract
 The dissipation obstacle refers to the problem that there is no general solution to shape the energy of dissipative port-Hamiltonian (pH) systems with the method of Casimir functions. This paper argues that it is caused by lack of a strictly symplectic structure of a dissipative port-Hamiltonian system. We develop a method of bicomplex pH systems that is strictly symplectic and we show how it overcomes the obstacle and allows one to systematically use Casimir functions to shape the energy.

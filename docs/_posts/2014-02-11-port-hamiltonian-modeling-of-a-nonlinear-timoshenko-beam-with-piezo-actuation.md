@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Thomas Voß](authors/thomas_voss), [Jacquelien M. A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Thomas Voß](authors/thomas-voss), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this paper we develop a mathematical model for the dynamics of a nonlinear Timoshenko beam with piezoelectric actuation. This model can then be used to design controllers with the goal of achieving a desired shape of the beam. The control scheme can be used for several applications, e.g., vibration control in structures or shape control for high-precision structures like inflatable space reflectors. The starting point of the control design is modeling for control. We do this in the framework of port-Hamiltonian (pH) modeling, which has favorable properties, such as passivity and a Hamiltonian representing the energy and serving as a Lyapunov function, that can be exploited for controller design. An important property of the pH modeling framework is that it facilitates modeling multiphysics systems or systems which consist of several subsystems, where all parts are modeled separately and then can be interconnected easily. This is possible because any interconnection of finite dimensional pH systems yiel...

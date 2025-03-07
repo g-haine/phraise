@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Christopher A. Beattie](authors/christopher_beattie), [Volker Mehrmann](authors/volker_mehrmann), [Paul Van Dooren](authors/paul_m_van_dooren)
+[Christopher A. Beattie](authors/christopher-beattie), [Volker Mehrmann](authors/volker-mehrmann), [Paul Van Dooren](authors/paul-m-van-dooren)
  
 ## Abstract
 We discuss robust representations of stable, passive systems in particular coordinate systems, focussing especially on port-Hamiltonian representations. Such representations are typically not unique and the degrees of freedom associated with nonuniqueness are related to the solution set of the Kalman–Yakubovich–Popov linear matrix inequality (LMI). In this paper we analyze robustness measures for different possible port-Hamiltonian representations and relate it to quality functions defined in terms of eigenvalues of the matrix solution of the LMI. In particular, we look at the analytic center of this LMI. Within this framework, we derive inequalities for the passivity radius of the given model representation.

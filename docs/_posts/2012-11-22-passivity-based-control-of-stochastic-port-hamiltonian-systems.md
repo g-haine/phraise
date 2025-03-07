@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Satoshi Satoh](authors/satoshi_satoh), [Kenji Fujimoto](authors/kenji_fujimoto)
+[Satoshi Satoh](authors/satoshi-satoh), [Kenji Fujimoto](authors/kenji-fujimoto)
  
 ## Abstract
 This paper introduces stochastic port-Hamiltonian systems and clarifies some of their properties. Stochastic port-Hamiltonian systems are extension of port-Hamiltonian systems which are used to express various deterministic passive systems. Some properties such as passivity of port-Hamiltonian systems do not generally hold for the stochastic port-Hamiltonian systems. Firstly, we show a necessary and sufficient condition to preserve the stochastic Hamiltonian structure of the original system under time-invariant coordinate transformations. Secondly, we derive a condition to maintain stochastic passivity of the system. Finally, we introduce stochastic generalized canonical transformations and propose a stabilization method based on stochastic passivity.

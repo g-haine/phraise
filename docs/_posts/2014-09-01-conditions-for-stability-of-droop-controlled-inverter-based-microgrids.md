@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Johannes Schiffer](authors/johannes_schiffer), [Romeo Ortega](authors/romeo_ortega), [Alessandro Astolfi](authors/alessandro_astolfi), [Jörg Raisch](authors/jorg_raisch), [Tevfik Sezi](authors/tevfik_sezi)
+[Johannes Schiffer](authors/johannes-schiffer), [Romeo Ortega](authors/romeo-ortega), [Alessandro Astolfi](authors/alessandro-astolfi), [Jörg Raisch](authors/jorg-raisch), [Tevfik Sezi](authors/tevfik-sezi)
  
 ## Abstract
 We consider the problem of stability analysis for droop-controlled inverter-based microgrids with meshed topologies. The inverter models include variable frequencies as well as voltage amplitudes. Conditions on the tuning gains and setpoints for frequency and voltage stability, together with desired active power sharing, are derived in the paper. First, we prove that for all practical choices of these parameters global boundedness of trajectories is ensured. Subsequently, assuming the microgrid is lossless, a port-Hamiltonian description is derived, from which sufficient conditions for stability are given. Finally, we propose for generic lossy microgrids a design criterion for the controller gains and setpoints such that a desired steady-state active power distribution is achieved. The analysis is validated via simulation on a microgrid based on the CIGRE (Conseil International des Grands Réseaux Electriques) benchmark medium voltage distribution network.

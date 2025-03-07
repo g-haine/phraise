@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Thoma](authors/tobias_thoma), [Paul Kotyczka](authors/paul_kotyczka)
+[Tobias Thoma](authors/tobias-thoma), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 In this contribution, we present how to obtain explicit state space models in port-Hamiltonian form when a mixed finite element method is applied to a linear mechanical system with non-uniform boundary conditions. The key is to express the variational problem based on the principle of virtual power, with both the Dirichlet (velocity) and Neumann (stress) boundary conditions imposed in a weak sense. As a consequence, the formal skew-adjointness of the system operator becomes directly visible after integration by parts, and, after compatible FE discretization, the boundary degrees of freedom of both causalities appear as explicit inputs in the resulting state space model. The rationale behind our formulation is illustrated using a lumped parameter example, and numerical experiments on a one-dimensional rod show the properties of the approach in practice.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[R. Pasumarthy](authors/ramkrishna_pasumarthy), [V.R. Ambati](authors/v_r_ambati), [A.J. van der Schaft](authors/arjan_van_der_schaft)
+[R. Pasumarthy](authors/ramkrishna-pasumarthy), [V.R. Ambati](authors/v-r-ambati), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 A finite-dimensional Port-Hamiltonian formulation for the dynamics of smooth open channel flows is presented. A numerical scheme based on this formulation is developed for both the linear and nonlinear shallow water equations. The scheme is verified against exact solutions and has the advantage of conservation of mass and energy to the discrete level.

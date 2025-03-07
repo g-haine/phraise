@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Tobias M. Scheuermann](authors/tobias_m_scheuermann), [Paul Kotyczka](authors/paul_kotyczka), [Boris Lohmann](authors/boris_lohmann)
+[Tobias M. Scheuermann](authors/tobias-m-scheuermann), [Paul Kotyczka](authors/paul-kotyczka), [Boris Lohmann](authors/boris-lohmann)
  
 ## Abstract
 We present a procedure for the parametric order reduction of explicit port-Hamiltonian systems, which extends previous results. The approach is illustrated and discussed on the example of a ladder network.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Thoma](authors/tobias_thoma), [Paul Kotyczka](authors/paul_kotyczka)
+[Tobias Thoma](authors/tobias-thoma), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 In this article, we present the port-Hamiltonian representation, the structure preserving discretization and the resulting finite-dimensional state space model of one-dimensional filaments based on a mixed finite element formulation. Due to the fact that the equations of motion of a filamentous body are based on the theory of geometrically nonlinear mechanical systems, the port-Hamiltonian formulation is expressed by means of its co-energy (effort) variables. The resulting port-Hamiltonian state space model features a quadratic Hamiltonian and the nonlinearity is reflected in the state dependence of its interconnection matrix. Numerical experiments generated with FEniCS illustrate the properties of the resulting finite element models.

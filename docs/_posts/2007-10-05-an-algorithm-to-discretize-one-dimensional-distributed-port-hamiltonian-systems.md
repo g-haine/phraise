@@ -9,7 +9,7 @@ category: chapters
 ---
  
 ## Authors
-[Luca Bassi](authors/luca_bassi), [Alessandro Macchelli](authors/alessandro_macchelli), [Claudio Melchiorri](authors/claudio_melchiorri)
+[Luca Bassi](authors/luca-bassi), [Alessandro Macchelli](authors/alessandro-macchelli), [Claudio Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 A key issue when dealing with distributed parameter systems is the solution of the set of partial differential equations that compose the system model. Even if we restrict our analysis to the linear case, it is often impossible to find a closedform solution for this kind of equations, especially in control applications, where the forcing action on the system generates time-varying boundary conditions. Therefore, numerical solvers play a key role as support tools for the analysis of this kind of systems.

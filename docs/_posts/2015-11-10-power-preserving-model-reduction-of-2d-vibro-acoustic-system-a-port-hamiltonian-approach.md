@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Yongxin Wu](authors/yongxin_wu), [Boussad Hamroun](authors/boussad_hamroun), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke)
+[Yongxin Wu](authors/yongxin-wu), [Boussad Hamroun](authors/boussad-hamroun), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 In this paper we consider a geometric discretization so called mixed elements finite method to 2D vibro-acoustic system modeling by the port Hamiltonian approach. By using this method, the Hamiltonian structure and passivity of the system are preserved. At last, numerical simulations is given to illustrate the effectiveness of proposed discretization scheme.

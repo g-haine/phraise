@@ -20,7 +20,7 @@ tags:
 ---
  
 ## Authors
-[Friedrich M. Philipp](authors/friedrich_m_philipp), [Manuel Schaller](authors/manuel_schaller), [Karl Worthmann](authors/karl_worthmann), [Timm Faulwasser](authors/timm_faulwasser), [Bernhard Maschke](authors/bernhard_maschke)
+[Friedrich M. Philipp](authors/friedrich-m-philipp), [Manuel Schaller](authors/manuel-schaller), [Karl Worthmann](authors/karl-worthmann), [Timm Faulwasser](authors/timm-faulwasser), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 We consider irreversible and coupled reversible–irreversible nonlinear port-Hamiltonian systems and the respective sets of thermodynamic equilibria. In particular, we are concerned with optimal state transitions and output stabilization on finite-time horizons. We analyze a class of optimal control problems, where the performance functional can be interpreted as a linear combination of energy supply, entropy generation, or exergy supply. Our results establish the integral turnpike property towards the set of thermodynamic equilibria providing a rigorous connection of optimal system trajectories to optimal steady states. Throughout the paper, we illustrate our findings by means of two examples: a network of heat exchangers and a gas-piston system.

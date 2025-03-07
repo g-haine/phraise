@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan_van_der_schaft), [Tjerk Stegink](authors/tjerk_w_stegink)
+[Arjan van der Schaft](authors/arjan-van-der-schaft), [Tjerk Stegink](authors/tjerk-w-stegink)
  
 ## Abstract
 Increasing integration of renewable energy sources in the power grid leads to a complete re-thinking of its operation. This necessitates the consideration of new modeling and analysis approaches, which can serve as natural starting points for robust and scalable control and design strategies. In this ‘vision’ paper we will highlight two topics within the broad area of power networks: the modeling and analysis of the synchronous generator, and the modeling and analysis of power networks using the swing equation as an approximate model for the generator. In both cases we will discuss a port-Hamiltonian formulation, which reflects the underlying physics of power flow and energy storage. Although the port-Hamiltonian model of the synchronous generator reveals a clear structure it still poses fundamental challenges for its non-zero steady state stability analysis. It is shown how the swing equation can be directly deduced from the power balance of the port-Hamiltonian model of the synchronous generator. Under the phasor assumption, this leads to a port-Hamiltonian model of power networks of generators, which enables a straightforward stability analysis and provides a starting point for control.

@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli)
+[Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 For a class of distributed port-Hamiltonian systems with dissipation characterised by high-order differential operators, one-dimensional domain, and boundary actuation and sensing, an equivalent Brayton-Moser formulation is obtained. The result is that the state evolution is described by a gradient equation with respect to a storage function, the “mixed-potential,” that has the dimensions of power. This is the main difference with respect to the port-Hamiltonian form, where the dynamic depends on the derivatives up to a certain order and with respect to the spatial coordinate of the gradient of the Hamiltonian function, i.e. of the total energy.

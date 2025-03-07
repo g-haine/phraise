@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Paul Schwerdtner](authors/paul_schwerdtner), [Matthias Voigt](authors/matthias_voigt)
+[Paul Schwerdtner](authors/paul-schwerdtner), [Matthias Voigt](authors/matthias-voigt)
  
 ## Abstract
 We present an adaptive sampling strategy for the optimization-based structure-preserving model order reduction (MOR) algorithm developed in [Schwerdtner, P. and Voigt, M. (2020). Structure-preserving model order reduction by parameter optimization, Preprint arXiv:2011.07567]. This strategy reduces the computational demand and the required a priori knowledge about the given full-order model, while at the same time retaining a high accuracy compared to other structure-preserving but also unstructured MOR algorithms. A numerical study with a port-Hamiltonian benchmark system demonstrates the effectiveness of our method when combined with this new adaptive sampling strategy. We also investigate the distribution of the sample points.

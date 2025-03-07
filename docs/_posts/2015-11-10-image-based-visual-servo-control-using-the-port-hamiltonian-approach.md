@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Mauricio Munoz-Arias](authors/mauricio_munoz_arias), [Mohamed I. El-Hawwary](authors/mohamed_i_el_hawwary), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Mohamed I. El-Hawwary](authors/mohamed-i-el-hawwary), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 This work is devoted to an image-based visual servo control strategy for standard mechanical systems in the port-Hamiltonian framework. We utilize a change of variables that transforms the port-Hamiltonian system into one with constant mass-inertia matrix, and we use an interaction matrix that includes the depth information together with the image features variables of the image plane. We develop a control strategy that renders a closed-loop system that is port-Hamiltonian. The introduced approach is applied to a two degrees of freedom robot arm problem, and simulation results are provided.

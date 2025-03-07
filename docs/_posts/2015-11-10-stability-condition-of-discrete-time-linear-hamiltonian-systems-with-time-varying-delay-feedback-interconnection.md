@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Said Aoues](authors/said_aoues), [Warody Lombardi](authors/warody_lombardi), [Damien Eberard](authors/damien_eberard), [Michael Di-Loreto](authors/michael_di_loreto)
+[Said Aoues](authors/said-aoues), [Warody Lombardi](authors/warody-lombardi), [Damien Eberard](authors/damien-eberard), [Michael Di-Loreto](authors/michael-di-loreto)
  
 ## Abstract
 This paper is concerned with stability analysis of delay feedback structures within discrete port-Hamiltonian framework. We introduce a discrete dynamics that approximates linear port-Hamiltonian systems and is passive relatively to the same storage and dissipation functions. Stability of interconnected discrete systems is then addressed when considering time-varying delay feedback interconnection structure. A delay bounds-dependent stability condition is derived for variable and bounded delayed interconnection, reducing to a delay-independent condition for constant delay. A sufficient condition is formulated in terms of a feasibility problem under LinearMatrix Inequality (LMI) constraints. It is noticeable that the LMI parameters linearly depend on the network characteristics (damping and input matrices). Moreover, computing and storing past history of the discrete flow is no longer required. A numerical example illustrates the feasibility of the approach.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Mohammed Yaghi](authors/mohammed_yaghi), [Françoise Couenne](authors/francoise_couenne), [Aurélie Galfré](authors/aurelie_galfre), [Laurent Lefèvre](authors/laurent_lefevre), [Bernhard Maschke](authors/bernhard_maschke)
+[Mohammed Yaghi](authors/mohammed-yaghi), [Françoise Couenne](authors/francoise-couenne), [Aurélie Galfré](authors/aurelie-galfre), [Laurent Lefèvre](authors/laurent-lefevre), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 In this paper we suggest a Port Hamiltonian model of the solidification process of water, using the phase field approach. Firstly, the Port Hamiltonian formulation of the dynamics of the phase field variable, governed by the Allen-Cahn equation, is recalled. It is based on adding to the phase field variable, its gradient, and extending the system with its dynamics. Secondly, the model is completed by the energy balance equation for the heat conduction and the complete Port Hamiltonian model is derived. Thirdly an Algebro-differential Port Hamiltonian representation is suggested, where the Port Hamiltonian system is defined on a Lagrangian submanifold, allowing to use directly the variables defining the thermodynamical data.

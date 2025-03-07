@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Saida Zenfari](authors/saida_zenfari), [Mohamed Laabissi](authors/mohamed_laabissi), [Mohammed Elarbi Achhab](authors/mohammed_elarbi_achhab)
+[Saida Zenfari](authors/saida-zenfari), [Mohamed Laabissi](authors/mohamed-laabissi), [Mohammed Elarbi Achhab](authors/mohammed-elarbi-achhab)
  
 ## Abstract
 A simple proportional observer design method is presented for a class of linear port Hamiltonian systems. This observer design approach is based on the use of a powerful tool derived from continuum mechanics and differential geometry, known as contraction analysis. Under two verifiable assumptions, it is shown that error dynamics between the plant and the observer states converges exponentially to zero. Finally, our design method is applied to two physical systems arising from different domains: The DC motor and the RLC circuit.

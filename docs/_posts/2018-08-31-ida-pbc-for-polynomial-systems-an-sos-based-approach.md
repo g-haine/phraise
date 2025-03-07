@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Oscar B. Cieza](authors/oscar_b_cieza), [Johann Reger](authors/johann_reger)
+[Oscar B. Cieza](authors/oscar-b-cieza), [Johann Reger](authors/johann-reger)
  
 ## Abstract
 Algebraic solutions for the Interconnection and Damping Assignment Passivity-Based Control (IDA-PBC) problem are introduced for a class of affine polynomial systems. These classes do not involve to solve partial differential equations for the matching condition. The proposed procedure leads to conditions that may be solved by using sum of squares (SOS) and semidefinite programming (SDP). Furthermore, some special parametrizations for the desired Hamiltonian function are analyzed and respective reductions into SOS inequalities are provided. Results are validated on a polynomial second order system and the well-known cart-pole system.

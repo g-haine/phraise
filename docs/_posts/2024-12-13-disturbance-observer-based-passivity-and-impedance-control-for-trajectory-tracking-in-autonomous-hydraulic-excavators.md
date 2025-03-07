@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Junjie Gong](authors/junjie_gong), [Jian Chen](authors/jian_chen), [Dengsheng Cai](authors/dengsheng_cai), [Wei Wei](authors/wei_wei), [Yu Long](authors/yu_long)
+[Junjie Gong](authors/junjie-gong), [Jian Chen](authors/jian-chen), [Dengsheng Cai](authors/dengsheng-cai), [Wei Wei](authors/wei-wei), [Yu Long](authors/yu-long)
  
 ## Abstract
 Trajectory tracking control is pivotal for achieving autonomous operation in hydraulic excavators. This paper proposes a robust control scheme, merging passivity-based and impedance control, enhancing robustness and stability. First, the excavator’s coupled nonlinear dynamics are transformed into an open-loop port Hamiltonian model with disturbances. Through an energy shaping method, this model becomes an ideal closed-loop port Hamiltonian system, stabilized asymptotically by damping injection. An improved robust disturbance observer estimates system disturbances, guiding control compensation term design. Hydraulic cylinder forces and displacements are calculated from the closed-loop port Hamiltonian system’s matching equations. By integrating passivity and impedance control, a flow controller resolves electrohydraulic servo system nonlinearity. Comparative analysis with existing methodologies demonstrates the proposed robust controller’s superior tracking accuracy, even in the presence of shock disturbances.

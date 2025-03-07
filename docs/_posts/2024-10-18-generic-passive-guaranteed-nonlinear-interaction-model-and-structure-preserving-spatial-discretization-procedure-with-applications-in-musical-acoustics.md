@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Antoine Falaize](authors/antoine_falaize), [David Roze](authors/david_roze)
+[Antoine Falaize](authors/antoine-falaize), [David Roze](authors/david-roze)
  
 ## Abstract
 In musical acoustics, the production of sound is usually described by the nonlinear interaction of the musician with a resonator (the instrument). For example a string (resonator) can be bowed or hit by a piano hammer (nonlinear interactions). The aim of this paper is to provide a stable (passive-guaranteed) simulation of such interaction systems. Our approach consists in first defining a generic passive-guaranteed structure for the interaction (finite dimensional) and for the resonator (infinite dimensional) and second constructing a generic procedure for the discretization of the resonator. This is achieved in the Port-Hamiltonian systems framework that decomposes a physical model into a network of energy-storing components, dissipative components and inputs-outputs, thus guaranteeing the passivity of the proposed models. Finally, a well established structure preserving time discretization method is used to provide numerical models which prove to fulfill a discrete power balance, hence the numerical stability. This generic procedure is applied to the sound synthesis of a bowed string and of a string hit by a piano hammer.

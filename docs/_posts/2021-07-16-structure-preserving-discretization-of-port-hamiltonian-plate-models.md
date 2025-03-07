@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Brugnoli](authors/andrea_brugnoli), [Daniel Alazard](authors/daniel_alazard), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger), [Denis Matignon](authors/denis_matignon)
+[Andrea Brugnoli](authors/andrea-brugnoli), [Daniel Alazard](authors/daniel-alazard), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 Methods for discretizing port-Hamiltonian systems are of interest both for simulation and control purposes. Despite the large literature on mixed finite elements, no rigorous analysis of the connections between mixed elements and port-Hamiltonian systems has been carried out. In this paper we demonstrate how existing methods can be employed to discretize dynamical plate problems in a structure-preserving way. Based on convergence results of existing schemes, new error estimates are conjectured; numerical simulations confirm the expected behaviors.

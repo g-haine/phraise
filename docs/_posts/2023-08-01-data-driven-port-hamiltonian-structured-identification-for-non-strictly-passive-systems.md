@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Charles Poussot-Vassal](authors/charles_poussot_vassal), [Denis Matignon](authors/denis_matignon), [Ghilslain Haine](authors/ghislain_haine), [Pierre Vuillemin](authors/pierre_vuillemin)
+[Charles Poussot-Vassal](authors/charles-poussot-vassal), [Denis Matignon](authors/denis-matignon), [Ghilslain Haine](authors/ghislain-haine), [Pierre Vuillemin](authors/pierre-vuillemin)
  
 ## Abstract
 In this work, we detail a procedure to construct a reduced order model on the basis of frequency-domain data, that preserves the non-strictly passive property and the port-Hamiltonian structure. The proposed scheme is based on Benner et al. contribution [1], which has been adapted (i) to handle non-strictly passive model, and (ii) to handle numerical issues observed when applying the Loewner framework on complex configurations. We validate the proposed scheme on a very complex two-dimensional wave equation, for which the discretized version preserves the port-Hamiltoninan form.

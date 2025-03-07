@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Meng Zhang](authors/meng_zhang), [Pablo Borja](authors/luis_pablo_borja), [Romeo Ortega](authors/romeo_ortega), [Zhitao Liu](authors/zhitao_liu), [Hongye Su](authors/hongye_su)
+[Meng Zhang](authors/meng-zhang), [Pablo Borja](authors/luis-pablo-borja), [Romeo Ortega](authors/romeo-ortega), [Zhitao Liu](authors/zhitao-liu), [Hongye Su](authors/hongye-su)
  
 ## Abstract
 In this note, we address the problem of stabilization of port-Hamiltonian systems via the ubiquitous proportional-integral-derivative (PID) controller. The design is based on passivity theory, hence the first step is to identify all passive outputs of the system, which is the first contribution of the paper. Adding a PID around this signal ensures that the closed-loop system is  \\( {\mathcal L}_2 \\)-stable for all positive PID gains. Global stability (and/or global attractivity) of a desired constant equilibrium is also guaranteed for a new class of systems for which a Lyapunov function can be constructed. A second contribution is to prove that this class—that is identified via some easily verifiable integrability conditions—is strictly larger than the ones previously reported in the literature. Comparisons of the proposed PID controller with control-by-interconnection passivity-based control are also discussed.

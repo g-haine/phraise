@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[M. K. Camlibel](authors/m_kanat_camlibel), [A. J. van der Schaft](authors/arjan_van_der_schaft)
+[M. K. Camlibel](authors/m-kanat-camlibel), [A. J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

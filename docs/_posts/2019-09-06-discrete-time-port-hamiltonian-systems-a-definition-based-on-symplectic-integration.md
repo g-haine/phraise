@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka), [Laurent Lefèvre](authors/laurent_lefevre)
+[Paul Kotyczka](authors/paul-kotyczka), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 We introduce a new definition of discrete-time port-Hamiltonian (PH) systems, which results from structure-preserving discretization of explicit PH systems in time. We discretize the underlying continuous-time Dirac structure with the collocation method and add discrete-time dynamics by the use of symplectic numerical integration schemes. The conservation of a structural discrete-time energy balance – expressed in terms of the discrete-time Dirac structure – extends the notion of symplecticity of geometric integration schemes to open systems. We discuss the energy approximation errors in the context of the presented definition and show that their order for linear PH systems is consistent with the order of the numerical integration scheme. Implicit Gauss–Legendre methods and Lobatto IIIA/IIIB pairs for partitioned systems are examples for integration schemes that are covered by our definition. The statements on the numerical energy errors are illustrated by elementary numerical experiments.

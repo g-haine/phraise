@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli), [Luis Pablo Borja](authors/luis_pablo_borja), [Romeo Ortega](authors/romeo_ortega)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Luis Pablo Borja](authors/luis-pablo-borja), [Romeo Ortega](authors/romeo-ortega)
  
 ## Abstract
 The main contribution of this paper is a general methodology for the definition of a new passive output that is instrumental for the stabilisation of a large class of distributed port-Hamiltonian systems defined on a one-dimensional spatial domain. This new output is in fact employed within the control by interconnection via Casimir generation paradigm for the synthesis of boundary stabilising control laws. It is well-known that this control technique is limited by the so-called \dissipation obstacle" when the passive controller is interconnected to the natural input/output port of the plant. When it is the case, it is impossible to shape the energy of the system along the directions in which dissipation is present. In this paper, it is shown how these limitations can be removed by interconnecting the boundary controller to the new passive output of the system, and then how the control by interconnection can easily deal with the dissipation obstacle. The general theory is illustrated with the help of a concluding example, the boundary stabilization of the shallow water equation.

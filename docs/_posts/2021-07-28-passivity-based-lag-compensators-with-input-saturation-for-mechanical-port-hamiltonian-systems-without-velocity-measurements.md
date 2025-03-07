@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Kiyoshi Hamada](authors/kiyoshi_hamada), [Pablo Borja](authors/luis_pablo_borja), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Kenji Fujimoto](authors/kenji_fujimoto), [Ichiro Maruta](authors/ichiro_maruta)
+[Kiyoshi Hamada](authors/kiyoshi-hamada), [Pablo Borja](authors/luis-pablo-borja), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta)
  
 ## Citation
 - **Journal:** 2021 American Control Conference (ACC)

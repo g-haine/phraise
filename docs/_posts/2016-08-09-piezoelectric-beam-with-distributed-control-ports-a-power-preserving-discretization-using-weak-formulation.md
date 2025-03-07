@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Flávio Luiz Cardoso-Ribeiro](authors/flavio_luiz_cardoso_ribeiro), [Denis Matignon](authors/denis_matignon), [Valérie Pommier-Budinger](authors/valerie_pommier_budinger)
+[Flávio Luiz Cardoso-Ribeiro](authors/flavio-luiz-cardoso-ribeiro), [Denis Matignon](authors/denis-matignon), [Valérie Pommier-Budinger](authors/valerie-pommier-budinger)
  
 ## Abstract
 A model reduction method for infinite-dimensional port-Hamiltonian systems with distributed ports is presented. The method is applied to the Euler-Bernoulli equation with piezoelectric patches. The voltage is considered as an external input of the system. This gives rise to an unbounded input operator. A weak formulation is used to overcome this difficulty. It also allows defining a discretization method which leads to a finite-dimensional port-Hamiltonian system; the energy flow of the original system is preserved. Numerical results are compared to experimental ones to validate the method. Further work should use this model to couple the approximated equations with a more complex system, and to design active control laws.

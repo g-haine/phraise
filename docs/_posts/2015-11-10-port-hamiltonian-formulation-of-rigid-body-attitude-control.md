@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Paolo Forni](authors/paolo_forni), [Dimitri Jeltsema](authors/dimitri_jeltsema), [Gabriel A.D. Lopes](authors/gabriel_a_d_lopes)
+[Paolo Forni](authors/paolo-forni), [Dimitri Jeltsema](authors/dimitri-jeltsema), [Gabriel A.D. Lopes](authors/gabriel-a-d-lopes)
  
 ## Abstract
 The aim of this paper is to present a port-Hamiltonian (pH) formulation of the rigidbody attitude control problem, therefore enhancing the set of available tools for its modeling and control. First, a pH formulation of both dynamics and kinematics equations is presented. Second, a standard energy-balancing passivity-based controller (EB-PBC) is used for set-point tracking. Third, the controlled system is endowed with a dynamical extension to achieve set-point tracking without measuring the angular velocities. As a conclusive remark, it is showed under specific assumptions that these three results can be achieved regardless the coordinate representation in use. Additional examples follow to motivate the adoption of the pH formulation.

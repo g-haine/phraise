@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Till Preuster](authors/till_preuster), [Bernhard Maschke](authors/bernhard_maschke), [Manuel Schaller](authors/manuel_schaller)
+[Till Preuster](authors/till-preuster), [Bernhard Maschke](authors/bernhard-maschke), [Manuel Schaller](authors/manuel-schaller)
  
 ## Abstract
 We analyze infinite-dimensional Hamiltonian systems corresponding to partial Differential equations on one-dimensional spatial domains formulated with formally skew-adjoint Hamiltonian operators and non-quadratic Hamiltonian density. In various applications, the Hamiltonian density can depend on spatial derivatives of the state such that these systems can not straightforwardly be formulated as boundary port-Hamiltonian system using a Stokes-Dirac structure. In this work, we show that any Hamiltonian system of the above class can be reformulated as a Hamiltonian system on the jet space, in which the Hamiltonian density only depends on the extended state variable itself and not on its derivatives. Consequently, well-known geometric formulations with Stokes-Dirac structures are applicable. Additionally, we provide a similar result for dissipative systems. We illustrate the developed theory by means of the the Boussinesq equation, the dynamics of an elastic rod and the Allen-Cahn equation.

@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul_kotyczka), [Antonio Blancato](authors/antonio_blancato)
+[Paul Kotyczka](authors/paul-kotyczka), [Antonio Blancato](authors/antonio-blancato)
  
 ## Abstract
 Systems of conservation laws can be modeled (including dissipation) in an elegant, physically insightful way within the port-Hamiltonian framework. A structure-preserving discretization renders the partial differential equations ordinary ones. In this paper, we show how the structure of the lumped-parameter state representation for two conservation laws on a one-dimensional spatial domain can be exploited to easily formulate different (inverse) models. Based thereon, a simple modular procedure for feedforward controller design is developed, using known results from the dynamic inversion of nonminimum-phase systems. The example of the shallow water equations serves to illustrate the design steps and to present simulation results.

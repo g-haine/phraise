@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Jonas Kirchhoff](authors/jonas_kirchhoff)
+[Jonas Kirchhoff](authors/jonas-kirchhoff)
  
 ## Abstract
 The new concept of relative generic subsets is introduced. It is shown that the set of controllable linear finite-dimensional port-Hamiltonian systems is a relative generic subset of the set of all linear finite-dimensional port-Hamiltonian systems. This implies that a random, continuously distributed port-Hamiltonian system is almost surely controllable.

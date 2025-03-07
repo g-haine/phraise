@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Jukka-Pekka Humaloja](authors/jukka_pekka_humaloja), [Lassi Paunonen](authors/lassi_paunonen)
+[Jukka-Pekka Humaloja](authors/jukka-pekka-humaloja), [Lassi Paunonen](authors/lassi-paunonen)
  
 ## Abstract
 We will give general sufficient conditions under which a controller achieves robust regulation for a boundary control and observation system. Utilizing these conditions, we construct a minimal-order robust controller for an arbitrary order impedance passive linear port-Hamiltonian system. The theoretical results are illustrated with a numerical example where we implement a controller for a 1-D Euler–Bernoulli beam with boundary controls and boundary observations.

@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Luis Miguel Esquivel-Sancho](authors/luis_miguel_esquivel_sancho), [Roberto Pereira-Arroyo](authors/roberto_pereira_arroyo), [Mauricio Munoz-Arias](authors/mauricio_munoz_arias)
+[Luis Miguel Esquivel-Sancho](authors/luis-miguel-esquivel-sancho), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Mauricio Munoz-Arias](authors/mauricio-munoz-arias)
  
 ## Abstract
 The self-excited induction generator presents important advantages for isolated generation systems ranging from low cost to simplicity of construction, operation, and maintenance. The complexity of the output voltage regulation problem for the generator is due to the nonlinear dynamics effects in presence of variable systems loads. The main contribution of the current work is first a generalization of the modeling approach to the self-exited squirrel-cage induction generator which is based on a stationary d-q frame of reference. The modeling approach is done via an energy-based strategy, more specifically, the port-Hamiltonian framework. Furthermore, we present here a novel control law based on a trajectory tracking strategy in order to attain asymptotic stability on a time-variant desired voltage at the output of the generator. The control action based on a so-called error system approach is focused on an exerted torque on the generator’s shaft. The performance of our modeling and control approach is validated via numerical simulations.

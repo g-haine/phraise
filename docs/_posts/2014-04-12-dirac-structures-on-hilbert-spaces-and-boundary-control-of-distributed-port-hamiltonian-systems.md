@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro_macchelli)
+[Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 Aim of this paper is to show how the Dirac structure properties can be exploited in the development of energy-based boundary control laws for distributed port-Hamiltonian systems. Usually, stabilization of non-zero equilibria has been achieved by looking at, or generating, a set of structural invariants, namely Casimir functions, in closed-loop. Since this approach fails when an infinite amount of energy is required at the equilibrium (dissipation obstacle), this paper illustrates a novel approach that enlarges the class of stabilizing controllers. The starting point is the parametrization of the dynamics provided by the image representation of the Dirac structure, that is able to show the effects of the boundary inputs on the state evolution. In this way, energy-balancing and control by state-modulated source methodologies are extended to the distributed parameter scenario, and a geometric interpretation of these control techniques is provided. The theoretical results are discussed with the help of a simple but illustrative example, i.e. a transmission line with an RLC load in both serial and parallel configurations. In the latter case, energy-balancing controllers are not able to stabilize non-zero equilibria because of the dissipation obstacle. The problem is solved thanks to a (boundary) state-modulated source.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Alexander Komech](authors/alexander_komech), [Andrew Komech](authors/andrew_komech)
+[Alexander Komech](authors/alexander-komech), [Andrew Komech](authors/andrew-komech)
  
 ## Abstract
 The global attraction is established for the U ( 1 ) -invariant Klein–Gordon equation in one dimension coupled to a finite number of nonlinear oscillators. Each finite energy solution is shown to converge as t → ± ∞ to the set of all solitary waves which are the “nonlinear eigenfunctions” of the form ϕ ( x ) e − i ω t , under the conditions that all oscillators are strictly nonlinear and polynomial and the distances between neighboring oscillators are small. Our approach is based on the spectral analysis of omega-limit trajectories. We apply the Titchmarsh Convolution Theorem to prove that the time spectrum of each omega-limit trajectory consists of one point. Physically, the convergence to solitary waves is caused by the nonlinear energy transfer from lower harmonics to the continuous spectrum and subsequent dispersive radiation. The Titchmarsh Theorem implies that such a radiation is absent only for the solitary waves. To demonstrate the sharpness of our conditions, we construct counterexamples showing that the global attractor can contain “multifrequency solitary waves” if the distance between oscillators is large or if some oscillators are linear.

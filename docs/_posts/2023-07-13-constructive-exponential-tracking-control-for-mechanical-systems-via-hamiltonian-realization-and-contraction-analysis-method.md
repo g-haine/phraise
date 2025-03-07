@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Huimin Zhi](authors/huimin_zhi), [Jumei Wei](authors/jumei_wei), [Yanhong Liu](authors/yanhong_liu), [Shuai Ding](authors/shuai_ding), [David H. Owens](authors/david_h_owens)
+[Huimin Zhi](authors/huimin-zhi), [Jumei Wei](authors/jumei-wei), [Yanhong Liu](authors/yanhong-liu), [Shuai Ding](authors/shuai-ding), [David H. Owens](authors/david-h-owens)
  
 ## Abstract
 The conventional tracking control of mechanical systems is generally based on the stabilization of error dynamics and most of the results can only guarantee asymptotic tracking of the desired trajectories. Since error dynamics are generally time-varying, it is very difficult to find appropriate Lyapunov functions or control Lyapunov functions to complete stability analysis and controller design. To address this limitation, the novel constructive exponential tracking control method is proposed to mechanical systems by utilizing the Hamiltonian realization and contraction analysis in this paper. Firstly, based on the Hamiltonian realization and use the structural characteristics of port-Hamiltonian systems, the exponential tracking controllers are constructed for fully actuated and under-actuated mechanical systems by combining the pre-feedback with feedback control. The proposed tracking control strategies can be used to discuss fully actuated and under-actuated mechanical systems in a unified framework. Then the exponential decay-rate of tracking controllers and procedure for selecting control parameters for fully actuated and under-actuated mechanical systems are given. Finally, comparative simulations and experiments are carried out to illustrate the effectiveness and robustness of the proposed control strategy.

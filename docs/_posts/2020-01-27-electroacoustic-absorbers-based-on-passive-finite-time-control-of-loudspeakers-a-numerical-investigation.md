@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Tristan Lebrun](authors/tristan_lebrun), [Marc Wijnand](authors/marc_wijnand), [Thomas Hélie](authors/thomas_helie), [David Roze](authors/david_roze), [Brigitte d’Andréa-Novel](authors/brigitte_d_andrea_novel)
+[Tristan Lebrun](authors/tristan-lebrun), [Marc Wijnand](authors/marc-wijnand), [Thomas Hélie](authors/thomas-helie), [David Roze](authors/david-roze), [Brigitte d’Andréa-Novel](authors/brigitte-d-andrea-novel)
  
 ## Abstract
 This paper proposes a numerical investigation of a controlled loudspeaker designed to absorb acoustic plane waves at a duct termination. More precisely, a nonlinear control for a current-driven loudspeaker is presented, that relies on (1) measurements of velocity and acoustic pressure at the membrane, (2) a linear electroacoustic loudspeaker model and (3) a nonlinear finite-time control method. Numerical tests are carried out by a passive-guaranteed simulation of the loudspeaker dynamics in the port-Hamiltonian systems formalism. The sound absorption efficiency is evaluated up to 300 Hz by computing the reflected pressure at the membrane. The results are compared with a similar control architecture: the finite-time control for sound absorption proves effective, especially in the low frequency range.

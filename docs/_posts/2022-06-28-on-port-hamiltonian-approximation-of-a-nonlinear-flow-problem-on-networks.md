@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Björn Liljegren-Sailer](authors/bjorn_liljegren_sailer), [Nicole Marheineke](authors/nicole_marheineke)
+[Björn Liljegren-Sailer](authors/bjorn-liljegren-sailer), [Nicole Marheineke](authors/nicole-marheineke)
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

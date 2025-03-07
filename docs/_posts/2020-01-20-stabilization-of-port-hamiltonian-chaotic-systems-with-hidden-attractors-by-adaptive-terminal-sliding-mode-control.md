@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Ahmad Taher Azar](authors/ahmad_taher_azar), [Fernando E. Serrano](authors/fernando_e_serrano)
+[Ahmad Taher Azar](authors/ahmad-taher-azar), [Fernando E. Serrano](authors/fernando-e-serrano)
  
 ## Abstract
 In this study, the design of an adaptive terminal sliding mode controller for the stabilization of port Hamiltonian chaotic systems with hidden attractors is proposed. This study begins with the design methodology of a chaotic oscillator with a hidden attractor implementing the topological framework for its respective design. With this technique it is possible to design a 2-D chaotic oscillator, which is then converted into port-Hamiltonia to track and analyze these models for the stabilization of the hidden chaotic attractors created by this analysis. Adaptive terminal sliding mode controllers (ATSMC) are built when a Hamiltonian system has a chaotic behavior and a hidden attractor is detected. A Lyapunov approach is used to formulate the adaptive device controller by creating a control law and the adaptive law, which are used online to make the system states stable while at the same time suppressing its chaotic behavior. The empirical tests obtaining the discussion and conclusions of this thesis should verify the theoretical findings.

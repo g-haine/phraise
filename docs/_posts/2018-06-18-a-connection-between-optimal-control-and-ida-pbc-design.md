@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[N.M. Trang Vu](authors/ngoc_minh_trang_vu), [L. Lefèvre](authors/laurent_lefevre)
+[N.M. Trang Vu](authors/ngoc-minh-trang-vu), [L. Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 This paper discusses the relations between Interconnection and Damping Assignment - Passivity Based Control (IDA-PBC) design and Linear Quadratic (LQ) optimal control. It is first investigated how a given optimal control affect the closed-loop system design and, on the other hand, how an optimal criterion may be used as a guideline for IDA-PBC parameters design. The case of a trivial relation between the optimal control gain and the desired total power in the IDA-PBC design is investigated in this work while some other choices could be further considered. The proposed method is successfully illustrated via the example of a linearized pendulum.

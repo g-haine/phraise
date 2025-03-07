@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Kaja Krhač](authors/kaja_krhac), [Bernhard Maschke](authors/bernhard_maschke), [Arjan van der Schaft](authors/arjan_van_der_schaft)
+[Kaja Krhač](authors/kaja-krhac), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 We extend the port-Hamiltonian framework defined with respect to a Lagrangian submanifold and a Dirac structure by augmenting the Lagrangian submanifold with the space of external variables. The new pair of conjugated variables is called energy port. We show that in the most general case, the extension describes constrained Hamiltonian systems whose Hamiltonian function depends on inputs.

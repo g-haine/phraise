@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Huimin Zhi](authors/huimin_zhi), [Yanhong Liu](authors/yanhong_liu), [Hongnian Yu](authors/hongnian_yu)
+[Huimin Zhi](authors/huimin-zhi), [Yanhong Liu](authors/yanhong-liu), [Hongnian Yu](authors/hongnian-yu)
  
 ## Abstract
 The adaptive tracking control for nonlinear systems often relies on stabilizing error dynamics, and the majority of these methods only achieve asymptotic tracking. However, since the time-varying feature of error system, it is challenging to construct a suitable Lyapunov function to accomplish the controller design and stability analysis. To tackle above limitations, an adaptive exponential tracking control strategy is proposed to port-Hamiltonian system (PHS) under the parameter uncertainties. First, a tracking controller is designed that can preserve the structural characteristics of closed-loop PHS by utilizing the timed Interconnection and Damping Assignment Passivity Based Control (IDA-PBC) method. Then using the contraction method to design a differential energy function, the parameter update law of the PHS is obtained and the contractility of the closed-loop system is proved by leveraging the structure properties of PHS. Moreover, the exponential decay rate of tracking controllers is provided and the impact of parameters on system performance is analyzed. The proposed method not only handles time-varying and time-invariant systems in a unified way but also has the advantages of easier energy function construction and relatively simpler stability analysis than the conventional Lyapunov method. Finally, to validate the effectiveness and robustness of proposed tracking strategy, comparative simulations and experiments are performed on uncertain mechanical systems.

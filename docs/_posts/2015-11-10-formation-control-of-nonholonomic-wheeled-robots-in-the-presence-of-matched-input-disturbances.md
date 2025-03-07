@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ewoud Vos](authors/ewoud_vos), [Matin Jafarian](authors/matin_jafarian), [Claudio De Persis](authors/claudio_de_persis), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen), [Arjan J. van der Schaft](authors/arjan_van_der_schaft)
+[Ewoud Vos](authors/ewoud-vos), [Matin Jafarian](authors/matin-jafarian), [Claudio De Persis](authors/claudio-de-persis), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 This paper presents a new approach for formation keeping control of a network of nonholonomic wheeled robots within the port-Hamiltonian framework in the presence of matched input disturbances. The formation keeping controller drives the network towards a desired formation by assigning virtual couplings between the robots, while an internal-modelbased controller is designed to locally compensate the disturbance for each of the robots.

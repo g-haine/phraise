@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Breiten](authors/tobias_breiten), [Attila Karsai](authors/attila_karsai)
+[Tobias Breiten](authors/tobias-breiten), [Attila Karsai](authors/attila-karsai)
  
 ## Abstract
 We study \\( H^\infty \\) control design for linear time-invariant port-Hamiltonian systems. By a modification of the two central algebraic Riccati equations, we ensure that the resulting controller will be port-Hamiltonian. Using these modified equations, we proceed to show that a corresponding balanced truncation approach preserves port-Hamiltonian structure. We illustrate the theoretical findings using numerical examples and observe that the chosen representation of the port-Hamiltonian system can have an influence on the approximation qualities of the reduced order model.

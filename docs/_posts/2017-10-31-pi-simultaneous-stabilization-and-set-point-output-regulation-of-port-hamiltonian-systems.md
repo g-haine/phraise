@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Meng Zhang](authors/meng_zhang), [Zhitao Liu](authors/zhitao_liu), [Hongye Su](authors/hongye_su), [Jianping Cai](authors/jianping_cai), [Longhua Ma](authors/longhua_ma)
+[Meng Zhang](authors/meng-zhang), [Zhitao Liu](authors/zhitao-liu), [Hongye Su](authors/hongye-su), [Jianping Cai](authors/jianping-cai), [Longhua Ma](authors/longhua-ma)
  
 ## Abstract
 This paper is concerned with the problems of simultaneous stabilization and set-point output regulation of N Port-Hamiltonian (PH) systems. First, incremental models of PH systems are constructed and the passivity of incremental systems is established with some reasonable assumptions. Then a proportional plus integral (PI) controller is proposed to simultaneously stabilize incremental systems, and the stability of the closed-loop system is proved by Lyapunov function approach. The simple case with two PH systems is studied emphatically, and the obtained results are also naturally extended to the general case of N PH systems. Finally, the validity and applicability of the proposed PI controller is verified through an illustrative example.

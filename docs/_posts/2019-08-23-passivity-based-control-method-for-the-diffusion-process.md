@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Saida Zenfari](authors/saida_zenfari), [Mohamed Laabissi](authors/mohamed_laabissi), [Mohammed Elarbi Achhab](authors/mohammed_elarbi_achhab)
+[Saida Zenfari](authors/saida-zenfari), [Mohamed Laabissi](authors/mohamed-laabissi), [Mohammed Elarbi Achhab](authors/mohammed-elarbi-achhab)
  
 ## Abstract
 A passivity based control method is presented for the diffusion process by the use of the concept of available storage and irreversible thermodynamics. A convex extension using the internal energy as generating function will be employed to define a Lyapunov functional for the distributed irreversible port Hamiltonian system (the diffusion process). The latter functional, will be used to suggest a Lyapunov stability condition by applying the so called La Salle’s Invariance principle for infinite dimensional systems on the heat and mass diffusion process.

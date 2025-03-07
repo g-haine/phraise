@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Fernando Castaños](authors/fernando_castanos), [Dmitry Gromov](authors/dmitry_gromov)
+[Fernando Castaños](authors/fernando-castanos), [Dmitry Gromov](authors/dmitry-gromov)
  
 ## Abstract
 We consider systems that possess a local but non-global port-Hamiltonian representation. We show that non-globality is a consequence of the phase-space topology and that local port-Hamiltonian systems may transgress the dissipation inequality satisfied by their global counterparts. Far from being a defect, non-globality extends the modeling power of port-Hamiltonian systems by providing a framework to model cyclic physical processes for energy conversion and extraction.

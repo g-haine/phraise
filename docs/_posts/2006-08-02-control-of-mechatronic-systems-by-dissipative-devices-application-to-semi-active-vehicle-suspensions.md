@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[R. Morselli](authors/riccardo_morselli), [R. Zanasi](authors/roberto_zanasi)
+[R. Morselli](authors/riccardo-morselli), [R. Zanasi](authors/roberto-zanasi)
  
 ## Abstract
 A wide variety of mechatronic systems are controlled by operating dissipative components such as variable resistors, variable dampers, clutches, some electro-valves and more. Facing the limitation that the controlled devices can only dissipate power, the issue is to find a proper control law to satisfy the control requirements. The mechatronic systems can usually be divided into two or more subsystems that are connected by a power preserving connections. This paper proposes to choose the control inputs to lead the power towards a certain subsystems in order to satisfy the requirements by controlling the energy stored or the power dissipated in that subsystem. To this aim, the port Hamiltonian framework is used to model the mechatronic systems. A slight extension of the definition of port Hamiltonian system is proposed to allow the description of a larger set of mechatronic systems and to obtain an explicit representation of the energy flowing to a subsystem. Some of the control laws presented in literature about the control of semi-active suspensions are derived again by following the proposed approach and adding an energetic interpretation

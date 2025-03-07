@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Kazuhiro Sato](authors/kazuhiro_sato)
+[Kazuhiro Sato](authors/kazuhiro-sato)
  
 ## Abstract
 In this paper, we describe the development of a Riemannian optimal model reduction method for linear stable port-Hamiltonian systems. This development is motivated by the fact that there remains room for improvement in existing methods. The model reduction problem is formulated as an optimization problem on the product manifold of the set of skew symmetric matrices, the manifold of the symmetric positive definite matrices, and Euclidean space. The reduced systems constructed using the optimal solutions to the problem preserve the original structure, i.e., stability, passivity, and the port-Hamiltonian form. The Riemannian gradient is derived to relate our problem to another problem in some studies, and the Hessian is also derived to solve our problem using a Riemannian trust region method. The initial point in the proposed method is chosen by using the output of the iterative rational Krylov algorithm for linear port-Hamiltonian systems (IRKA-PH). A numerical experiment illustrates that the proposed method considerably improves the results of IRKA-PH when the reduced-model dimension is small.

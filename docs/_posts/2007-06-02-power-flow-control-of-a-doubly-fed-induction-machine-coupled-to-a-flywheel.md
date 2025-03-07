@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Carles Batlle](authors/carles_batlle), [Arnau Dòria-Cerezo](authors/arnau_doria_cerezo), [Romeo Ortega](authors/romeo_ortega)
+[Carles Batlle](authors/carles-batlle), [Arnau Dòria-Cerezo](authors/arnau-doria-cerezo), [Romeo Ortega](authors/romeo-ortega)
  
 ## Abstract
 We consider a doubly-fed induction machine – controlled through the rotor voltage and connected to a variable local load – that acts as an energy-switching device between a local prime mover (a flywheel) and the electrical power network. The control objective is to optimally regulate the power flow, and this is achieved by commuting between different steady-state regimes. We first show that the zero dynamics of the system is only marginally stable; thus, complicating its control via feedback linearization. Instead, we apply the energy-based Interconnection and Damping Assignment Passivity-Based Control technique that does not require stable invertibility. It is shown that the partial differential equation that appears in this method can be circumvented by fixing the desired closed-loop total energy and adding new terms to the interconnection structure. Furthermore, to obtain a globally defined control law we introduce a state-dependent damping term that has the nice interpretation of effectively decoupling the electrical and mechanical parts of the system. This results in a globally convergent controller parameterized by two degrees of freedom, which can be used to implement the power management policy The controller is simulated and shown to work satisfactorily for various realistic load changes.

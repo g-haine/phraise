@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Gou Nishida](authors/gou_nishida), [Bernhard Maschke](authors/bernhard_maschke)
+[Gou Nishida](authors/gou-nishida), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 This paper proposes an extended Stokes-Dirac structure for describing a global structure of port-Hamiltonian systems defined on manifolds with non-trivial topology under consistent boundary conditions. For the aim, the relationship between the Stokes-Dirac structure and the topological geometry of the manifolds is clarified in terms of harmonic differential forms.

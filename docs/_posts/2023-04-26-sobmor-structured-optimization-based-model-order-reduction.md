@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Paul Schwerdtner](authors/paul_schwerdtner), [Matthias Voigt](authors/matthias_voigt)
+[Paul Schwerdtner](authors/paul-schwerdtner), [Matthias Voigt](authors/matthias-voigt)
  
 ## Abstract
 Model order reduction (MOR) methods that are designed to preserve structural features of a given full order model (FOM) often suffer from a lower accuracy when compared to their non-structure-preserving counterparts. In this paper, we present a framework for structure-preserving MOR, which allows to compute structured reduced order models (ROMs) with a much higher accuracy. The framework is based on parameter optimization, i.e., the elements of the system matrices of the ROM are iteratively varied to minimize an objective functional that measures the difference between the FOM and the ROM. The structural constraints can be encoded in the parametrization of the ROM. The method only depends on frequency response data and can thus be applied to a wide range of dynamical systems. We illustrate the effectiveness of our method on a port-Hamiltonian and on a symmetric second-order system in a comparison with other structure-preserving MOR algorithms.

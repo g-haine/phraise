@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper shows how the interconnection of two controlled Irreversible port Hamiltonian Systems has to be state and co-state modulated in order to ensure the closed-loop Irreversible port Hamiltonian structure, satisfying the first and second laws of Thermodynamics. It proposes a precise parametrization of this modulation from the open-loop systems structures in order to guarantee the consistency of the closed loop energy and entropy balance equations. The results are illustrated by means of the examples of a heat-exchanger, a gas-piston system and a chemical reaction.

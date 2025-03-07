@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Tobias Breiten](authors/tobias_breiten), [Benjamin Unger](authors/benjamin_unger)
+[Tobias Breiten](authors/tobias-breiten), [Benjamin Unger](authors/benjamin-unger)
  
 ## Abstract
 We present a novel model-order reduction (MOR) method for linear time-invariant systems that preserves passivity and is thus suited for structure-preserving MOR for port-Hamiltonian (pH) systems. Our algorithm exploits the well-known spectral factorization of the Popov function by a solution of the Kalman–Yakubovich–Popov (KYP) inequality. It performs MOR directly on the spectral factor inheriting the original system’s sparsity enabling MOR in a large-scale context. Our analysis reveals that the spectral factorization corresponding to the minimal solution of an associated algebraic Riccati equation is preferable from a model reduction perspective and benefits pH-preserving MOR methods such as a modified version of the iterative rational Krylov algorithm (IRKA). Numerical examples demonstrate that our approach can produce high-fidelity reduced-order models close to (unstructured) \\( H^2 \\)-optimal reduced-order models.

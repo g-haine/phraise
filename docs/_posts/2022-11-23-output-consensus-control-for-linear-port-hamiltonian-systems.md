@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Shuai Feng](authors/shuai_feng), [Yu Kawano](authors/yu_kawano), [Michele Cucuzzella](authors/michele_cucuzzella), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Shuai Feng](authors/shuai-feng), [Yu Kawano](authors/yu-kawano), [Michele Cucuzzella](authors/michele-cucuzzella), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this paper, we study output consensus of coupled linear port-Hamiltonian systems on graphs in the presence of constant disturbances, where couplings are allowed to be both static and dynamic. Utilizing port-Hamiltonian structures, we present dynamic controllers achieving output consensus where the consensus values are determined by the disturbances. Finally, the utility of the proposed controller is illustrated by applying it to current sharing of DC microgrids.

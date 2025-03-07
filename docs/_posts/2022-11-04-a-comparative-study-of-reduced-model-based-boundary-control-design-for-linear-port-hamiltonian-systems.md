@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal_ponce), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Francisco Vargas](authors/francisco_vargas)
+[Cristobal Ponce](authors/cristobal-ponce), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Francisco Vargas](authors/francisco-vargas)
  
 ## Abstract
 A comparative study of passivity based boundary control design for a class of infinite dimensional port-Hamiltonian system using two different model reduction approaches is presented. The first approach is based on a direct low order structure preserving discretization while the second approach arise from the structure preserving model reduction of a high order discretzed model. Two passivity-based control techniques, namely control by interconnection and damping injection, are used to change the equilibrium point and the convergence rate of the closed-loop system. An Euler-Bernoulli beam example is used to illustrate the findings by means of discussion and numerical simulations.

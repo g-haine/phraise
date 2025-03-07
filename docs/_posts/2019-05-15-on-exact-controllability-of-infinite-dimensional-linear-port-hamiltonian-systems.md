@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit_jacob), [Julia T. Kaiser](authors/julia_t_kaiser)
+[Birgit Jacob](authors/birgit-jacob), [Julia T. Kaiser](authors/julia-t-kaiser)
  
 ## Abstract
 Infinite-dimensional linear port-Hamiltonian systems on a 1-D spatial domain with full boundary control and without internal damping are studied. This class of systems includes models of beams and waves as well as the transport equation and networks of nonhomogeneous transmission lines. The main result shows that well-posed port-Hamiltonian systems, with state space  \\( L^{2}{(}{(}0{,}1{)}{;}~\mathbb C^{n}{)} \\)  and input space  \\( \mathbb C^{n} \\) , are exactly controllable.

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Jesús Toledo](authors/jesus_pablo_toledo_zucco), [Yongxin Wu](authors/yongxin_wu), [Héctor Ramírez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Jesús Toledo](authors/jesus-pablo-toledo-zucco), [Yongxin Wu](authors/yongxin-wu), [Héctor Ramírez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 An observer-based boundary controller for infinite-dimensional port-Hamiltonian systems defined on 1D spatial domains is proposed. The design is based on an early-lumping approach in which a finite-dimensional approximation of the infinite-dimensional system derived by spatial discretization is used to design the observer and the controller. As long as the finite-dimensional approximation approaches the infinite-dimensional model, the performances also do. The main contribution is a constructive method which guarantees that the interconnection between the controller and the infinite-dimensional system is asymptotically stable. A Timoshenko beam model has been used to illustrate the approach.

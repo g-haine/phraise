@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Jean-Charles Delvenne](authors/jean_charles_delvenne), [Henrik Sandberg](authors/henrik_sandberg)
+[Jean-Charles Delvenne](authors/jean-charles-delvenne), [Henrik Sandberg](authors/henrik-sandberg)
  
 ## Abstract
 In this paper, we identify a class of time-varying port-Hamiltonian systems that is suitable for studying problems at the intersection of statistical mechanics and control of physical systems. Those port-Hamiltonian systems are able to modify their internal structure as well as their interconnection with the environment over time. The framework allows us to prove the First and Second Laws of thermodynamics, but also lets us apply results from optimal and stochastic control theory to physical systems. In particular, we show how to use linear control theory to optimally extract work from a single heat source over a finite time interval in the manner of Maxwell’s demon. Furthermore, the optimal controller is a time-varying port-Hamiltonian system, which can be physically implemented as a variable linear capacitor and transformer. We also use the theory to design a heat engine operating between two heat sources in finite-time Carnot-like cycles of maximum power, and we compare those two heat engines.

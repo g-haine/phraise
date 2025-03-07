@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Ngoc Minh Trang Vu](authors/ngoc_minh_trang_vu), [Laurent Lefèvre](authors/laurent_lefevre), [Bernhard Maschke](authors/bernhard_maschke)
+[Ngoc Minh Trang Vu](authors/ngoc-minh-trang-vu), [Laurent Lefèvre](authors/laurent-lefevre), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 A geometric spatial reduction method is presented in this paper. It applies to port Hamiltonian models for open systems of balance equations. It is based on projections which make use of the spatial symmetries in the model and preserve the “natural” power pairing. Reductions from 3D to 2D and 1D domains are illustrated via two examples. The first one is a vibro-acoustic system with cylindrical symmetry where 3D–2D reduction is applied. The second one is the system of two coupled parabolic equations describing the poloidal magnetic flux diffusion and heat radial transport in tokamak reactors. In this latter example the toroidal symmetry allows to perform a 3D–1D reduction. Obtained reduced models are compared with the common control models found in the literature for these two examples.

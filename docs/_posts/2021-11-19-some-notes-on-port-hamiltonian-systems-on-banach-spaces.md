@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Timo Reis](authors/timo_reis)
+[Timo Reis](authors/timo-reis)
  
 ## Abstract
 We consider port-Hamiltonian systems from a functional analytic perspective. Dirac structures and Hamiltonians on Banach spaces are introduced, and an energy balance is proven. Further, we consider port-Hamiltonian systems on Banach manifolds, and we present some physical examples that fit into the presented theory.

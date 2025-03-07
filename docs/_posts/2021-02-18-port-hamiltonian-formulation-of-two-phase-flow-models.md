@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[H. Bansal](authors/harshit_bansal), [P. Schulze](authors/philipp_schulze), [M.H. Abbasi](authors/m_h_abbasi), [H. Zwart](authors/hans_zwart), [L. Iapichino](authors/laura_iapichino), [W.H.A. Schilders](authors/wils_h_a_schilders), [N. van de Wouw](authors/nathan_van_de_wouw)
+[H. Bansal](authors/harshit-bansal), [P. Schulze](authors/philipp-schulze), [M.H. Abbasi](authors/m-h-abbasi), [H. Zwart](authors/hans-zwart), [L. Iapichino](authors/laura-iapichino), [W.H.A. Schilders](authors/wils-h-a-schilders), [N. van de Wouw](authors/nathan-van-de-wouw)
  
 ## Abstract
 Two-phase flows are frequently modelled and simulated using the Two-Fluid Model (TFM) and the Drift Flux Model (DFM). This paper proposes Stokes–Dirac structures with respect to which port-Hamiltonian representations for such two-phase flow models can be obtained. We introduce a non-quadratic candidate Hamiltonian function and present dissipative Hamiltonian representations for both models. We then use the structure of the corresponding formally skew-adjoint operator to derive a Stokes–Dirac structure for the two variants of multi-phase flow models. Moreover, we discuss the difficulties in deriving a port-Hamiltonian formulation of the DFM with general slip conditions, and argue why this model may not be energy-consistent.

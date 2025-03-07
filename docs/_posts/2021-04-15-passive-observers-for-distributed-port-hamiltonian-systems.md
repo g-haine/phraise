@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[Jesús Toledo](authors/jesus_pablo_toledo_zucco), [Héctor Ramirez](authors/hector_ramirez), [Yongxin Wu](authors/yongxin_wu), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Jesús Toledo](authors/jesus-pablo-toledo-zucco), [Héctor Ramirez](authors/hector-ramirez), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 The observer design for 1D boundary controlled infinite-dimensional systems is addressed using the port-Hamiltonian approach. The observer is defined by the same partial differential equations as the original system and the boundary conditions depend on the available information from sensors and actuators. The convergence of the observers is proved to be asymptotically or exponentially under some conditions. The vibrating string and the Timoshenko beam are used to illustrate the observer convergence in different scenarios.

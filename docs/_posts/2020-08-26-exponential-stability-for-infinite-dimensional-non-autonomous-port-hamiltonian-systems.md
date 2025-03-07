@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Björn Augner](authors/bjorn_augner), [Hafida Laasri](authors/hafida_laasri)
+[Björn Augner](authors/bjorn-augner), [Hafida Laasri](authors/hafida-laasri)
  
 ## Abstract
 We study the non-autonomous version of an infinite-dimensional linear port-Hamiltonian system on an interval [ a , b ] . Employing abstract results on evolution families, we show C 1 -well-posedness of the corresponding Cauchy problem, and thereby existence and uniqueness of classical solutions for sufficiently regular initial data. Further, we demonstrate that a dissipation condition in the style of the dissipation condition sufficient for uniform exponential stability in the autonomous case also leads to a uniform exponential decay rate of the energy in this non-autonomous setting.

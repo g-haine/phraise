@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Le Kong](authors/le_kong), [Yaosuo Xue](authors/yaosuo_xue), [Liang Qiao](authors/liang_qiao), [Fei Wang](authors/fei_wang)
+[Le Kong](authors/le-kong), [Yaosuo Xue](authors/yaosuo-xue), [Liang Qiao](authors/liang-qiao), [Fei Wang](authors/fei-wang)
  
 ## Abstract
 This article presents a modified dispatchable virtual oscillator control approach for achieving the passivity of grid-forming inverters (GFMs), without assuming constant voltage and constant frequency. The proposed control framework utilizes the port-Hamiltonian (PH)–based structure that mimics the behaviors of coupled harmonic oscillators, along with an energy “pumping-or-damping” block and the control by interconnection technique, to render the inverter passive. Once passivity is achieved, the transient stability of the system will be guaranteed. The proposed control framework is composed of three loops: an outer power dispatching loop that generates the voltage and frequency references, a virtual oscillator loop that emulates the spontaneous synchronization of oscillators, and an inductor current loop that maintains lossless interconnection in PH systems. The study shows that the proposed control approach ensures the passivity of GFMs, facilitating the transient stability design of multi-inverter systems, as interconnections of passive systems remain passive and stable.

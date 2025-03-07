@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Ravi Banavar](authors/ravi_n_banavar), [Biswadip Dey](authors/biswadip_dey)
+[Ravi Banavar](authors/ravi-n-banavar), [Biswadip Dey](authors/biswadip-dey)
  
 ## Abstract
 Motion planning and stabilization of the inverted pendulum on a cart is a much-studied problem in the control community. We focus our attention on asymptotically stabilizing a vertically upright flexible beam fixed on a moving cart. The flexibility of the beam is restricted only to the direction along the traverse of the cart. The control objective is to attenuate the effect of disturbances on the vertically upright profile of the beam. The control action available is the motion of the cart. By regulating this motion, we seek to regulate the shape of the beam. The problem presents a combination of a system described by a partial differential equation (PDE) and a cart modeled as an ordinary differential equation (ODE) as well as a controller which we restrict to an ODE. We set our problem in the port-controlled Hamiltonian framework. The interconnection of the flexible beam to the cart is viewed as a power-conserving interconnection of an infinite-dimensional system to a finite-dimensional system. The energy-Casimir method is employed to obtain the controller. In this method, we look for some constants of motion that are invariant of the choice of controller Hamiltonian. These Casimirs relate the controller states to the states of the system. We finally prove the stability of the equilibrium configuration of the closed-loop system.

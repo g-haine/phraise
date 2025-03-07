@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[David Roze](authors/david_roze), [Mathis Raibaud](authors/mathis_raibaud), [Thibault Geoffroy](authors/thibault_geoffroy)
+[David Roze](authors/david-roze), [Mathis Raibaud](authors/mathis-raibaud), [Thibault Geoffroy](authors/thibault-geoffroy)
  
 ## Abstract
 This paper proposes to solve the dynamics of the Kirchhoff-Carrier nonlinear string model using the finite elements method. In order to ensure the power balance of the resulting finite dimensional model it is rewritten in the Port-Hamiltonian System (PHS) formalism. Using a discrete gradient and a quadratization of the Hamiltonian, an explicit power-preserving numerical scheme is proposed. Results of simulation are presented.

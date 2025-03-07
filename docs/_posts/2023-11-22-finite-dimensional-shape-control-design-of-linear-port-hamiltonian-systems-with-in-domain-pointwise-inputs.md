@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal_ponce), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Cristobal Ponce](authors/cristobal-ponce), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper is concerned with shape control of a class of infinite-dimensional port-Hamiltonian system, using an early lumping approach, i.e. the dynamic controller synthesized from a low-order discretized version of the system. The approach provides an optimal criterion for choosing a free parameter of the controller so that the closed-loop system converges to the best approximation of the desired imposed shape. The methodology is based on the so called control by interconnection method and structural invariant from which an analytical expression is obtained for the shapes that the system can actually achieve. An Euler-Bernoulli beam model with pointwise inputs is used as example to illustrate the proposed methodology.

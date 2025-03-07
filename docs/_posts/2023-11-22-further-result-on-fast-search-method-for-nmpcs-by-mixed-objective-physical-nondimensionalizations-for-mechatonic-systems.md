@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Satoru Sakai](authors/satoru_sakai), [Takumu Takagi](authors/takumu_takagi), [Kohei Sawada](authors/kohei_sawada), [Tomoya Yokogawa](authors/tomoya_yokogawa), [Ryo Arai](authors/ryo_arai)
+[Satoru Sakai](authors/satoru-sakai), [Takumu Takagi](authors/takumu-takagi), [Kohei Sawada](authors/kohei-sawada), [Tomoya Yokogawa](authors/tomoya-yokogawa), [Ryo Arai](authors/ryo-arai)
  
 ## Abstract
 Many nonlinear model predictive controls (NMPCs) are suffering from the computational cost as well as the stability for mechatonic systems in several situations. The paper proposes a simple but general fast search method of design parameters for stable NMPCs. The computational cost is reduced, that is, each closed-loop simulation runs faster and the number of the (stable or unstable) closed-loop simulations is decreased. First, we introduce dimensions (SI units) for the objective function which is usually dimensionless unlike the physical dynamics and constraints. Second, we propose a fast search method by mixing a nondimensionalization for the objective function and another nondimensionalization for the physical dynamics and constraints. Finally, the effectiveness of the proposed method is confirmed by a numerical experiment via an actual hydraulic cylinder. Almost 20% reduction of the computational cost is achieved to find good design parameters for the stable NMPCs. Remarkably, the proposed method is generally applicable to many NMPCs and is not restricted to a specific one.

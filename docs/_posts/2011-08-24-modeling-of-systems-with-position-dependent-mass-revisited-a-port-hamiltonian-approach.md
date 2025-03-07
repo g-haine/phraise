@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Dimitri Jeltsema](authors/dimitri_jeltsema), [Arnau Dòria-Cerezo](authors/arnau_doria_cerezo)
+[Dimitri Jeltsema](authors/dimitri-jeltsema), [Arnau Dòria-Cerezo](authors/arnau-doria-cerezo)
  
 ## Abstract
 It is known that straightforward application of the classical Lagrangian and Hamiltonian formalism to systems with mass varying explicitly with position may lead to discrepancies in the formulation of the equations of motion. Systems with mass varying explicitly with position often arise from situations where the partitioning of a closed system of constant mass leads to open subsystems that exchange mass among themselves. One possible solution is to introduce additional nonconservative generalized forces that account for these effects. However, it remains unclear how to systematically interconnect the Lagrangian or Hamiltonian subsystems. In this note, systems with mass varying explicitly with position and their properties are studied in the port-Hamiltonian modeling framework. The port-Hamiltonian formalism combines the classical Lagrangian and Hamiltonian approach with network modeling and is applicable to various engineering domains. One of the strong aspects of the port-Hamiltonian formalism is that power-preserving interconnections between port-Hamiltonian subsystems results in another port-Hamiltonian system with composite energy and interconnection structure. The motion of a heavy cable being deployed from a reel by the action of gravity is used as an example.

@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Javier Andres Villegas](authors/javier_andres_villegas), [Hans Zwart](authors/hans_zwart), [Yann Le Gorrec](authors/yann_le_gorrec), [Bernhard Maschke](authors/bernhard_maschke)
+[Javier Andres Villegas](authors/javier-andres-villegas), [Hans Zwart](authors/hans-zwart), [Yann Le Gorrec](authors/yann-le-gorrec), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 We study a class of partial differential equations (with variable coefficients) on a one dimensional spatial domain with control and observation at the boundary. For this class of systems we provide simple tools to check exponential stability. This class is general enough to include models of flexible structures, traveling waves, heat exchangers, and bioreactors among others. The result is based on the use of a generating function (the energy for physical systems) and an inequality condition at the boundary. Furthermore, based on the port Hamiltonian approach, we give a constructive method to reduce this inequality to a simple matrix inequality.

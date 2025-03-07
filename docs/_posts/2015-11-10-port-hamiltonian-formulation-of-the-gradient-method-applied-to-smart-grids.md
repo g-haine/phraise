@@ -18,7 +18,7 @@ tags:
 ---
  
 ## Authors
-[T.W. Stegink](authors/tjerk_w_stegink), [C. De Persis](authors/claudio_de_persis), [A.J. van der Schaft](authors/arjan_van_der_schaft)
+[T.W. Stegink](authors/tjerk-w-stegink), [C. De Persis](authors/claudio-de-persis), [A.J. van der Schaft](authors/arjan-van-der-schaft)
  
 ## Abstract
 The gradient method is a well-known tool for solving convex optimization problems. This paper shows that the gradient method admits a Brayton-Moser and a port-Hamiltonian representation. In fact, its dynamics can be interpreted as a interconnection of multiple (port-Hamiltonian) passive systems, which plays a key role in proving asymptotic stability of the method. As an application to smart grids, this paper studies the problem of frequency regulation in power grids, while maximizing the social welfare. By applying the gradient method, we obtain a real-time dynamic pricing model in port-Hamiltonian form. By coupling with the port-Hamiltonian description of the physical network we obtain a closed-loop port-Hamiltonian system, which properties are exploited to prove asymptotic stability to the set of optimal points.

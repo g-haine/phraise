@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Catalin Arghir](authors/catalin_arghir), [Dominic Groß](authors/dominic_gross), [Florian Dörfler](authors/florian_dorfler)
+[Catalin Arghir](authors/catalin-arghir), [Dominic Groß](authors/dominic-gross), [Florian Dörfler](authors/florian-dorfler)
  
 ## Abstract
 In this paper, we consider a dynamic model of a three-phase power system including nonlinear generator dynamics and transmission line dynamics. We derive conditions under which the power system admits a steady-state behavior characterized by an operation of the grid at a synchronous frequency as well as a power balance for each single device. Based on this, we specify a set on which the dynamics of the power grid match the desired steady-state behavior and show that this set is control-invariant if and only if the control inputs to the generators are constant. Moreover, we constructively obtain network balance equations typically encountered in power flow analysis and subsequently show that the power system can be operated at the desired steady-state if and only if the network balance equations can be solved.

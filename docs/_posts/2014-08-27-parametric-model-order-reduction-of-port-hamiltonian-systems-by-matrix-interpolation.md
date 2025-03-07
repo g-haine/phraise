@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Markus Giftthaler](authors/markus_giftthaler), [Thomas Wolf](authors/thomas_wolf), [Heiko K. F. Panzer](authors/heiko_k_f_panzer), [Boris Lohmann](authors/boris_lohmann)
+[Markus Giftthaler](authors/markus-giftthaler), [Thomas Wolf](authors/thomas-wolf), [Heiko K. F. Panzer](authors/heiko-k-f-panzer), [Boris Lohmann](authors/boris-lohmann)
  
 ## Abstract
 In this paper, parametric model order reduction of linear time-invariant systems by matrix interpolation is adapted to large-scale systems in port-Hamiltonian form. A new weighted matrix interpolation of locally reduced models is introduced in order to preserve the port-Hamiltonian structure, which guarantees the passivity and stability of the interpolated system. The performance of the new method is demonstrated by technical examples.

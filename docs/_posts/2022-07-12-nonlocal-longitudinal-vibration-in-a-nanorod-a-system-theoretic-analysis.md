@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Hanif Heidari](authors/hanif_heidari), [Hans Zwart](authors/hans_zwart)
+[Hanif Heidari](authors/hanif-heidari), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
 Analysis of longitudinal vibration in a nanorod is an important subject in science and engineering due to its vast application in nanotechnology. This paper introduces a port-Hamiltonian formulation for the longitudinal vibrations in a nanorod, which shows that this model is essentially hyperbolic. Furthermore, it investigates the spectral properties of the associated system operator. Standard distributed control and feedback are shown not to be controllable nor stabilizing.

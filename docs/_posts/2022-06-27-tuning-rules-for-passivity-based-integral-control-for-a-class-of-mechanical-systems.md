@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Carmen Chan-Zheng](authors/carmen_chan_zheng), [Mauricio Munoz-Arias](authors/mauricio_munoz_arias), [Jacquelien M.A. Scherpen](authors/jacquelien_m_a_scherpen)
+[Carmen Chan-Zheng](authors/carmen-chan-zheng), [Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Citation
 - **Journal:** IEEE Control Systems Letters

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[N.M. Trang VU](authors/ngoc_minh_trang_vu), [L. LEFÈVRE](authors/laurent_lefevre), [R. NOUAILLETAS](authors/remy_nouailletas)
+[N.M. Trang VU](authors/ngoc-minh-trang-vu), [L. LEFÈVRE](authors/laurent-lefevre), [R. NOUAILLETAS](authors/remy-nouailletas)
  
 ## Abstract
 An IDA-PBC-like control synthesis for infinite dimensional port Hamiltonian systems is investigated. As for the finite dimensional case, a feedback control transforms the original model into a closed loop target Hamiltonian model. Both distributed control and boundary control are used. The finite rank distributed control is determined to solve an average IDA-PBC matching equation. A backstepping boundary control is used to stabilize the matching error. The control model chosen to illustrate the approach is the so-called resistive diffusion equation for the radial diffusion of the poloidal magnetic flux.

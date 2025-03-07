@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea_mattioni), [Yongxin Wu](authors/yongxin_wu), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec), [Alessandro Macchelli](authors/alessandro_macchelli)
+[Andrea Mattioni](authors/andrea-mattioni), [Yongxin Wu](authors/yongxin-wu), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 A simple lumped port-Hamiltonian model for an actuated flexible beam is proposed. The flexible beam is modelled as a n-DOF actuated beam, and the port-Hamiltonian model is constructed by a systematic interconnection of the links of the beam. The proposed model is then instrumental to derive a stabilizing controller using interconnection and damping assignment - passivity based control considering an underactuated scenario. The work has been developed motivated by the practical application to a medical endoscope with distributed actuation by electro-active polymers. The lumped parameter model offers the possibility of having input/output ports in every joint between successive links, this permits to easily model the action of the actuators as an input force applied to a specific joint.

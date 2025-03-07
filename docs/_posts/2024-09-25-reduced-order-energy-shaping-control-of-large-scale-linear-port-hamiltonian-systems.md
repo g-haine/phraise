@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Cristobal Ponce](authors/cristobal_ponce), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Cristobal Ponce](authors/cristobal-ponce), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper is concerned with reduced-order control design for a class of high dimensional linear port-Hamiltonian systems stemming from the modeling of large-scale systems networks or from the discretization of distributed parameter systems. A class of dynamic controllers synthesized from low-dimensional and reduced-order models of the system are proposed. First, the controller structure and the criteria for asymptotic stability are established for a controller based on the full-order model. Then, using structural invariants, two design methods are proposed and compared: one based on a low-dimensional model of the system and the other on a reduced-order model based on modal truncation. With applications in shape control in mind, the system’s equilibrium points are parametrized using the controller parameters. It allows to establish an optimal criterion to minimize the norm of the error between the intended and achievable closed-loop equilibrium configurations. An asymptotic stability margin in terms of the full and low/reduced order models stiffness matrices is provided and related with the closed-loop transient performances. Mindlin plate with specific inputs is used to show how dynamic shape control can be achieved using the proposed approach.

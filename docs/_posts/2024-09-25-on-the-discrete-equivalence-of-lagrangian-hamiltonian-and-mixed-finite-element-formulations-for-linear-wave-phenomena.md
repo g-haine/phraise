@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[A. Brugnoli](authors/andrea_brugnoli), [V. Mehrmann](authors/volker_mehrmann)
+[A. Brugnoli](authors/andrea-brugnoli), [V. Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
 It is well known that the Lagrangian and Hamiltonian descriptions of field theories are equivalent at the discrete time level when variational integrators are used. Besides the symplectic Hamiltonian structure, many physical systems exhibit a Hamiltonian structure when written in mixed form. In this contribution, the discrete equivalence of Lagrangian, symplectic Hamiltonian and mixed formulations is investigated for linear wave propagation phenomena. Under compatibility conditions between the finite elements, the Lagrangian and mixed formulations are indeed equivalent. For the time discretization the leapfrog scheme and the implicit midpoint rule are considered. In mixed methods applied to wave problems the primal variable (e.g. the displacement in mechanics or the magnetic potential in electromagnetism) is not an unknown of the problem and is reconstructed a posteriori from its time derivative. When this reconstruction is performed via the trapezoidal rule, then these time-discretization methods lead to equivalent formulations.

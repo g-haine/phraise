@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Karim Cherifi](authors/karim_cherifi), [Pawan Goyal](authors/pawan_goyal), [Peter Benner](authors/peter_benner)
+[Karim Cherifi](authors/karim-cherifi), [Pawan Goyal](authors/pawan-goyal), [Peter Benner](authors/peter-benner)
  
 ## Abstract
 Port-Hamiltonian systems have gained a lot of attention in recent years due to their inherent valuable properties in modeling and control. In this paper, we are interested in constructing linear port-Hamiltonian systems from time-domain input-output data. We discuss a non-intrusive methodology that is comprised of two main ingredients -- (a) inferring frequency response data from time-domain data, and (b) constructing an underlying port-Hamiltonian realization using the inferred frequency response data. The proposed method is illustrated by means of two numerical examples.

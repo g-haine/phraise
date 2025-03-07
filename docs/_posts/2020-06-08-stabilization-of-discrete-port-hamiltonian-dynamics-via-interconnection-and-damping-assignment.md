@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Alessio Moreschini](authors/alessio_moreschini), [Mattia Mattioni](authors/mattia_mattioni), [Salvatore Monaco](authors/salvatore_monaco), [Dorothee Normand-Cyrot](authors/dorothee_normand_cyrot)
+[Alessio Moreschini](authors/alessio-moreschini), [Mattia Mattioni](authors/mattia-mattioni), [Salvatore Monaco](authors/salvatore-monaco), [Dorothee Normand-Cyrot](authors/dorothee-normand-cyrot)
  
 ## Abstract
 This letter deals with interconnection and damping assignment for discrete-time port-Hamiltonian systems. Based on a novel state representation, suitably shaped to address energy-based control design, the nonlinear discrete-time controller is characterized and the solution is explicitly computed in the linear case. The design worked out on the exact sampled-data model of a mechanical system confirms the effectiveness of the controller.

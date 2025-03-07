@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Hans Zwart](authors/hans_zwart), [Hector Ramirez](authors/hector_ramirez), [Yann Le Gorrec](authors/yann_le_gorrec)
+[Hans Zwart](authors/hans-zwart), [Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 The asymptotic stability of boundary controlled port-Hamiltonian systems defined on a 1D spatial domain interconnected to a class of non-linear boundary damping is addressed. It is shown that if the port-Hamiltonian system is approximately observable, then any boundary damping which behaves linear for small velocities asymptotically stabilizes the system.

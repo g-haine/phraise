@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Albertus J. Malan](authors/albertus_johannes_malan), [Lukas Rausche](authors/lukas_rausche), [Felix Strehle](authors/felix_strehle), [Sören Hohmann](authors/soren_hohmann)
+[Albertus J. Malan](authors/albertus-johannes-malan), [Lukas Rausche](authors/lukas-rausche), [Felix Strehle](authors/felix-strehle), [Sören Hohmann](authors/soren-hohmann)
  
 ## Abstract
 In this paper, we present finite-dimensional port-Hamiltonian system (PHS) models of a gas pipeline and a network comprising several pipelines for the purpose of control design and stability analysis. Starting from the partial differential Euler equations describing the dynamical flow of gas in a pipeline, the method of lines is employed to obtain a lumped-parameter model, which simplifies to a nonlinear third-order PHS. Parallels between gas networks and power systems are drawn by showing that the obtained pipeline PHS model has the same π-representation as electrical transmission lines. Moreover, to assist future control design, additional passivity properties of the pipeline PHS model are analysed and discussed. By comparing the proposed PHS models against other models in a standard simulation, we show that the simplifying assumptions have no material effect on the model fidelity. The proposed pipeline and network models can serve as a basis for passivity-based control and analysis while the power system parallels facilitate the transfer of existing methods.

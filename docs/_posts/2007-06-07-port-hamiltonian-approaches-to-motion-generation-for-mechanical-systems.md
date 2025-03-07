@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Satoru Sakai](authors/satoru_sakai), [Stefano Stramigioli](authors/stefano_stramigioli)
+[Satoru Sakai](authors/satoru-sakai), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 This paper gives new motion generation methods for mechanical port-Hamiltonian systems. First, we propose a generation method based on an asymptotic stabilization method without damping assignment. This asymptotic stabilization method preserves the Hamiltonian structure in the closed-loop system although the controller itself is not a port-Hamiltonian system. Second, we propose another method based on an adaptive asymptotic stabilization method for unknown damping. This adaptive asymptotic stabilizer does not use the value and the sign of the damping at all. Finally, we confirm the effectiveness of our techniques in some numerical simulation.

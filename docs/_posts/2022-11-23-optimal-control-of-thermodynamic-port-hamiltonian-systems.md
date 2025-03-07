@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Bernhard Maschke](authors/bernhard_maschke), [Friedrich Philipp](authors/friedrich_m_philipp), [Manuel Schaller](authors/manuel_schaller), [Karl Worthmann](authors/karl_worthmann), [Timm Faulwasser](authors/timm_faulwasser)
+[Bernhard Maschke](authors/bernhard-maschke), [Friedrich Philipp](authors/friedrich-m-philipp), [Manuel Schaller](authors/manuel-schaller), [Karl Worthmann](authors/karl-worthmann), [Timm Faulwasser](authors/timm-faulwasser)
  
 ## Abstract
 We consider the problem of minimizing the entropy, energy, or exergy production for state transitions of irreversible port-Hamiltonian systems subject to control constraints. Via a dissipativity-based analysis we show that optimal solutions exhibit the manifold turnpike phenomenon with respect to the manifold of thermodynamic equilibria. We illustrate our analytical findings via numerical results for a heat exchanger.

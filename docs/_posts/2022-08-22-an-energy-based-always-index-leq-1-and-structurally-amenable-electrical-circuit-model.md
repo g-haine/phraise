@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Nedialko Nedialkov](authors/nedialko_nedialkov), [John D. Pryce](authors/john_d_pryce), [Lena Scholz](authors/lena_scholz)
+[Nedialko Nedialkov](authors/nedialko-nedialkov), [John D. Pryce](authors/john-d-pryce), [Lena Scholz](authors/lena-scholz)
  
 ## Abstract
 Combining three themes: port-Hamiltonian energy-based modelling, structural analysis as used in the circuit world, and structural analysis of general differential-algebraic equations, we form a new model for electrical circuits, the compact port-Hamiltonian equations. They have remarkable simplicity and symmetry, and always have index at most 1 and other good numerical properties. The method has been implemented in Matlab. We give proofs and numerical results.

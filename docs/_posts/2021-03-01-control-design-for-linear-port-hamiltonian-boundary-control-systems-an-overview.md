@@ -9,7 +9,7 @@ category: chapters
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro_macchelli), [Y. Le Gorrec](authors/yann_le_gorrec), [H. Ramírez](authors/hector_ramirez), [H. Zwart](authors/hans_zwart), [F. Califano](authors/federico_califano)
+[A. Macchelli](authors/alessandro-macchelli), [Y. Le Gorrec](authors/yann-le-gorrec), [H. Ramírez](authors/hector-ramirez), [H. Zwart](authors/hans-zwart), [F. Califano](authors/federico-califano)
  
 ## Abstract
 In this paper, we provide an overview of some control synthesis methodologies for boundary control systems (BCS) in port-Hamiltonian form. At first, it is shown how to design a state-feedback control action able to shape the energy function to move its minimum at the desired equilibrium, and how to achieve asymptotic stability via damping injection. Secondly, general conditions that a linear regulator has to satisfy to have a well-posed and exponentially stable closed-loop system are presented. This second methodology is illustrated with reference to two specific stabilisation scenarios, namely when the plant is in impedance or in scattering form. It is also shown how these techniques can be employed in the analysis of more general systems described by coupled PDEs and ODEs. As an example, the repetitive control scheme is studied, and conditions to have asymptotic tracking of generic periodic reference signals are presented.

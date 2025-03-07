@@ -9,7 +9,7 @@ category: books
 ---
  
 ## Authors
-[Vincent Duindam](authors/vincent_duindam), [Alessandro Macchelli](authors/alessandro_macchelli), [Stefano Stramigioli](authors/stefano_stramigioli), [Herman Bruyninckx](authors/herman_bruyninckx)
+[Vincent Duindam](authors/vincent-duindam), [Alessandro Macchelli](authors/alessandro-macchelli), [Stefano Stramigioli](authors/stefano-stramigioli), [Herman Bruyninckx](authors/herman-bruyninckx)
  
 ## Citation
 - **ISBN:** 9783642031953

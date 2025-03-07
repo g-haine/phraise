@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Yan Xu](authors/yan_xu), [Jaap J. W. van der Vegt](authors/jaap_j_w_van_der_vegt), [Onno Bokhove](authors/onno_bokhove)
+[Yan Xu](authors/yan-xu), [Jaap J. W. van der Vegt](authors/jaap-j-w-van-der-vegt), [Onno Bokhove](authors/onno-bokhove)
  
 ## Abstract
 We develop a Hamiltonian discontinuous finite element discretization of a generalized Hamiltonian system for linear hyperbolic systems, which include the rotating shallow water equations, the acoustic and Maxwell equations. These equations have a Hamiltonian structure with a bilinear Poisson bracket, and as a consequence the phase-space structure, “mass” and energy are preserved. We discretize the bilinear Poisson bracket in each element with discontinuous elements and introduce numerical fluxes via integration by parts while preserving the skew-symmetry of the bracket. This automatically results in a mass and energy conservative discretization. When combined with a symplectic time integration method, energy is approximately conserved and shows no drift. For comparison, the discontinuous Galerkin method for this problem is also used. A variety numerical examples is shown to illustrate the accuracy and capability of the new method.
