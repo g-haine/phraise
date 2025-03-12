@@ -30,7 +30,7 @@ Port-Hamiltonian Systems; IDA-PBC; Polynomial Systems; Sum of Squares
 - **Pages:** 366--371
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.07.306](https://doi.org/10.1016/j.ifacol.2018.07.306)
-- **Event:** 2nd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2018- Guadalajara, Jalisco, Mexico, 20–22 June 2018
+- **Note:** 2nd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2018- Guadalajara, Jalisco, Mexico, 20–22 June 2018
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,25 +50,28 @@ Port-Hamiltonian Systems; IDA-PBC; Polynomial Systems; Sum of Squares
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/ida-pbc-for-polynomial-systems-an-sos-based-approach.bib)
+ 
 ## References
-- Acosta, J. and Astolfi, A. (2009). On the PDEs arising in IDA-PBC. In IEEE Conference on Decision and Control and Chinese Control Conference, 2232–2137. -- [10.1109/CDC.2009.5400580](https://doi.org/10.1109/CDC.2009.5400580)
+- Acosta, J. A. & Astolfi, A. On the PDEs arising in IDA-PBC. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 2132–2137 (2009) doi:10.1109/cdc.2009.5400580 -- [10.1109/cdc.2009.5400580](https://doi.org/10.1109/cdc.2009.5400580)
 - Astolfi, A., Ortega, R. & Sepulchre, R. Stabilization and Disturbance Attenuation of Nonlinear Systems Using Dissipativity Theory. European Journal of Control vol. 8 408–431 (2002) -- [10.3166/ejc.8.408-431](https://doi.org/10.3166/ejc.8.408-431)
 - Batlle, C., Dòria-Cerezo, A., Espinosa-Pérez, G. & Ortega, R. Simultaneous Interconnection and Damping Assignment Passivity-Based Control: Two Practical Examples. Lecture Notes in Control and Information Sciences 157–169 doi:10.1007/978-3-540-73890-9_12 -- [10.1007/978-3-540-73890-9_12](https://doi.org/10.1007/978-3-540-73890-9_12)
 - [Borja, P., Cisneros, R. & Ortega, R. A constructive procedure for energy shaping of port—Hamiltonian systems. Automatica vol. 72 230–234 (2016)](a-constructive-procedure-for-energy-shaping-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2016.05.028](https://doi.org/10.1016/j.automatica.2016.05.028)
 - [Castaños, F. & Gromov, D. Passivity-based control of implicit port-Hamiltonian systems with holonomic constraints. Systems &amp; Control Letters vol. 94 11–18 (2016)](passivity-based-control-of-implicit-port-hamiltonian-systems-with-holonomic-constraints) -- [10.1016/j.sysconle.2016.04.004](https://doi.org/10.1016/j.sysconle.2016.04.004)
-- Donaire, A. et al. Shaping the Energy of Mechanical Systems Without Solving Partial Differential Equations. IEEE Transactions on Automatic Control vol. 61 1051–1056 (2016) -- [10.1109/TAC.2015.2458091](https://doi.org/10.1109/TAC.2015.2458091)
+- Delgado, Overcoming the Dissipation Condition in Passivity-based Control for a class of mechanical systems (2014)
+- Donaire, A. et al. Shaping the Energy of Mechanical Systems Without Solving Partial Differential Equations. IEEE Transactions on Automatic Control vol. 61 1051–1056 (2016) -- [10.1109/tac.2015.2458091](https://doi.org/10.1109/tac.2015.2458091)
 - Donaire, A., Ortega, R. & Romero, J. G. Simultaneous interconnection and damping assignment passivity-based control of mechanical systems using dissipative forces. Systems &amp; Control Letters vol. 94 118–126 (2016) -- [10.1016/j.sysconle.2016.05.006](https://doi.org/10.1016/j.sysconle.2016.05.006)
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control vol. 10 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
-- Ichihara, H. Optimal Control for Polynomial Systems Using Matrix Sum of Squares Relaxations. IEEE Transactions on Automatic Control vol. 54 1048–1053 (2009) -- [10.1109/TAC.2009.2017159](https://doi.org/10.1109/TAC.2009.2017159)
-- Jennawasin, T., Narikiyo, T., and Kawanishi, M. (2010). An improved SOS-based stabilization condition for uncertain polynomial systems. In SICE Annual Conference 2010, 3030-3034.
-- Löfberg, J. and Parrilo, P.A. (2004). From coefficients to samples: A new approach to SOS optimization. IEEE Conference on Decision and Control, 3154-3159. -- [10.1109/CDC.2004.1428957](https://doi.org/10.1109/CDC.2004.1428957)
-- Nunna, K., Sassano, M. & Astolfi, A. Constructive Interconnection and Damping Assignment for Port-Controlled Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 60 2350–2361 (2015) -- [10.1109/TAC.2015.2400663](https://doi.org/10.1109/TAC.2015.2400663)
+- Ichihara, H. Optimal Control for Polynomial Systems Using Matrix Sum of Squares Relaxations. IEEE Transactions on Automatic Control vol. 54 1048–1053 (2009) -- [10.1109/tac.2009.2017159](https://doi.org/10.1109/tac.2009.2017159)
+- Lofberg, J. & Parrilo, P. A. From coefficients to samples: a new approach to SOS optimization. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 3154–3159 (2004) doi:10.1109/cdc.2004.1428957 -- [10.1109/cdc.2004.1428957](https://doi.org/10.1109/cdc.2004.1428957)
+- Nunna, K., Sassano, M. & Astolfi, A. Constructive Interconnection and Damping Assignment for Port-Controlled Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 60 2350–2361 (2015) -- [10.1109/tac.2015.2400663](https://doi.org/10.1109/tac.2015.2400663)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - [Ortega, R., Liu, Z. & Su, H. Control via interconnection and damping assignment of linear time-invariant systems: a tutorial. International Journal of Control vol. 85 603–611 (2012)](control-via-interconnection-and-damping-assignment-of-linear-time-invariant-systems-a-tutorial) -- [10.1080/00207179.2012.660734](https://doi.org/10.1080/00207179.2012.660734)
-- Parrilo, P.A. (2000). Structured Semidefinite Programs and Semialgebraic Geometry Methods in Robustness and Optimization. Ph.D. thesis, California Institute of Technology.
-- Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters vol. 45 371–385 (2002) -- [10.1016/S0167-6911(01)00195-5](https://doi.org/10.1016/S0167-6911(01)00195-5)
+- Papachristodoulou, SOSTOOLS: Sum of squares optimization toolbox for MATLAB. User’s guide (2016)
+- Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters vol. 45 371–385 (2002) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
+- Romero, Global Stabilisation of Underactuated Mechanical Systems via PID Passivity-Based Control. 20th IF AC World Congress (2017)
 - Scherer, C. W. & Hol, C. W. J. Matrix Sum-of-Squares Relaxations for Robust Semi-Definite Programs. Mathematical Programming vol. 107 189–211 (2005) -- [10.1007/s10107-005-0684-2](https://doi.org/10.1007/s10107-005-0684-2)
-- Valmorbida, G., Tarbouriech, S. & Garcia, G. Design of Polynomial Control Laws for Polynomial Systems Subject to Actuator Saturation. IEEE Transactions on Automatic Control vol. 58 1758–1770 (2013) -- [10.1109/TAC.2013.2248256](https://doi.org/10.1109/TAC.2013.2248256)
-- Viola, G., Ortega, R., Banavar, R., Acosta, J. A. & Astolfi, A. Total Energy Shaping Control of Mechanical Systems: Simplifying the Matching Equations Via Coordinate Changes. IEEE Transactions on Automatic Control vol. 52 1093–1099 (2007) -- [10.1109/TAC.2007.899064](https://doi.org/10.1109/TAC.2007.899064)
-- Zhu, Y., Zhao, D., Yang, X. & Zhang, Q. Policy Iteration for $H_\infty $ Optimal Control of Polynomial Nonlinear Systems via Sum of Squares Programming. IEEE Transactions on Cybernetics vol. 48 500–509 (2018) -- [10.1109/TCYB.2016.2643687](https://doi.org/10.1109/TCYB.2016.2643687)
+- Valmorbida, G., Tarbouriech, S. & Garcia, G. Design of Polynomial Control Laws for Polynomial Systems Subject to Actuator Saturation. IEEE Transactions on Automatic Control vol. 58 1758–1770 (2013) -- [10.1109/tac.2013.2248256](https://doi.org/10.1109/tac.2013.2248256)
+- Viola, G., Ortega, R., Banavar, R., Acosta, J. A. & Astolfi, A. Total Energy Shaping Control of Mechanical Systems: Simplifying the Matching Equations Via Coordinate Changes. IEEE Transactions on Automatic Control vol. 52 1093–1099 (2007) -- [10.1109/tac.2007.899064](https://doi.org/10.1109/tac.2007.899064)
+- Zhu, Y., Zhao, D., Yang, X. & Zhang, Q. Policy Iteration for $H_\infty $ Optimal Control of Polynomial Nonlinear Systems via Sum of Squares Programming. IEEE Transactions on Cybernetics vol. 48 500–509 (2018) -- [10.1109/tcyb.2016.2643687](https://doi.org/10.1109/tcyb.2016.2643687)
 

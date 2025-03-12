@@ -49,16 +49,17 @@ Port-Hamiltonian system; Algebraic constraint; Dirac structure; Lagrangian subsp
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/generalized-port-hamiltonian-dae-systems.bib)
+ 
 ## References
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- C.A. Beattie, V. Mehrmann, H. Xu, H. Zwart, Port-Hamiltonian descriptor systems. Preprint 06-2017, Institüt für Mathematik, TU Berlin, 2017, arXiv:1705.09081.
-- V. Mehrmann, C. Mehl, M. Wojtylak, Linear algebra properties of dissipative Hamiltonian descriptor systems, arXiv:1801.02214.
-- Mehl, C., Mehrmann, V. & Sharma, P. Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM Journal on Matrix Analysis and Applications vol. 37 1625–1654 (2016) -- [10.1137/16M1067330](https://doi.org/10.1137/16M1067330)
-- C.A. Beattie, V. Mehrmann, P. Van Dooren, Robust port-Hamiltonian representations of passive systems, arXiv:1801.05018.
-- L. Scholz, Condensed forms for linear port-Hamiltonian descriptor systems. Preprint 09-2017, Institüt für Mathematik, TU Berlin, 2017.
-- M. Barbero-Linan, H. Cendra, E. Garcia-Torano Andres, D. Martin de Diego, Morse families and Dirac systems, arXiv:1804.04949v1.
-- H. Zwart, handwritten notes.
-- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- Golo, Hamiltonian formulation of bond graphs. (2003)
+- van der Schaft, Port-Hamiltonian differential–algebraic systems. (2013)
+- van der Schaft, (2017)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [Mehl, C., Mehrmann, V. & Sharma, P. Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM Journal on Matrix Analysis and Applications vol. 37 1625–1654 (2016)](stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations) -- [10.1137/16m1067330](https://doi.org/10.1137/16m1067330)
+- van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Übertrag.tech. (1995)
+- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- Bloch, Representation of Dirac structures on vector spaces and nonlinear lcv-circuits. (1999)
 

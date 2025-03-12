@@ -40,3 +40,5 @@ Motivated by the structure which arises in the port-Hamiltonian formulation of c
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/condensed-forms-for-linear-port-hamiltonian-descriptor-systems.bib)
+ 

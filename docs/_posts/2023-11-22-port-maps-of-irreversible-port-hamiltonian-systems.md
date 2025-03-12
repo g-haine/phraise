@@ -31,7 +31,7 @@ Port Hamiltonian Systems; Nonlinear Systems; Irreversible Thermodynamics; Energy
 - **Pages:** 6796--6800
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.388](https://doi.org/10.1016/j.ifacol.2023.10.388)
-- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,16 +51,21 @@ Port Hamiltonian Systems; Nonlinear Systems; Irreversible Thermodynamics; Energy
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-maps-of-irreversible-port-hamiltonian-systems.bib)
+ 
 ## References
 - Zárate-Navarro, M. A., García-Sandoval, J. P. & Hudon, N. A saturated feedforward/cascade controller for passive continuous reacting systems using entropy production shaping. European Journal of Control vol. 49 53–61 (2019) -- [10.1016/j.ejcon.2019.01.006](https://doi.org/10.1016/j.ejcon.2019.01.006)
-- Grmela, M. & Öttinger, H. C. Dynamics and thermodynamics of complex fluids.  I. Development of a general formalism. Physical Review E vol. 56 6620–6632 (1997) -- [10.1103/PhysRevE.56.6620](https://doi.org/10.1103/PhysRevE.56.6620)
+- Grmela, M. & Öttinger, H. C. Dynamics and thermodynamics of complex fluids.  I. Development of a general formalism. Physical Review E vol. 56 6620–6632 (1997) -- [10.1103/physreve.56.6620](https://doi.org/10.1103/physreve.56.6620)
+- Kirchhoff, On the generating functions of Irreversible Port Hamiltonian Systems. (2022)
 - [Kotyczka, P. & Maschke, B. Discrete port-Hamiltonian formulation and numerical approximation for systems of two conservation laws. at - Automatisierungstechnik vol. 65 308–322 (2017)](discrete-port-hamiltonian-formulation-and-numerical-approximation-for-systems-of-two-conservation-laws) -- [10.1515/auto-2016-0098](https://doi.org/10.1515/auto-2016-0098)
+- Libermann, (1987)
 - [Maschke, B., Philipp, F., Schaller, M., Worthmann, K. & Faulwasser, T. Optimal control of thermodynamic port-Hamiltonian Systems. IFAC-PapersOnLine vol. 55 55–60 (2022)](optimal-control-of-thermodynamic-port-hamiltonian-systems) -- [10.1016/j.ifacol.2022.11.028](https://doi.org/10.1016/j.ifacol.2022.11.028)
 - Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
-- [Maschke, B. and van der Schaft, A. (1993). Port-controlled Hamiltonian Systems: Modelling Origins and System-theoretic Properties. In M. FLIESS (ed.), Nonlinear Control Systems Design 1992, IFAC Symposia Series, 359–365. Pergamon, Oxford. doi: https://doi.org/10.1016/B978-0-08-041901-5.50064-6.](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-93) -- [10.1016/B978-0-08-041901-5.50064-6](https://doi.org/10.1016/B978-0-08-041901-5.50064-6)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/S0016-0032(92)90049-M](https://doi.org/10.1016/S0016-0032(92)90049-M)
+- Maschke, B. M. & van der Schaft, A. J. PORT-CONTROLLED HAMILTONIAN SYSTEMS: MODELLING ORIGINS AND SYSTEMTHEORETIC PROPERTIES. Nonlinear Control Systems Design 1992 359–365 (1993) doi:10.1016/b978-0-08-041901-5.50064-6 -- [10.1016/b978-0-08-041901-5.50064-6](https://doi.org/10.1016/b978-0-08-041901-5.50064-6)
+- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- Maschke, An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. (1995)
 - Morrison, P. J. A paradigm for joined Hamiltonian and dissipative systems. Physica D: Nonlinear Phenomena vol. 18 410–419 (1986) -- [10.1016/0167-2789(86)90209-5](https://doi.org/10.1016/0167-2789(86)90209-5)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Ramirez, H. & Le Gorrec, Y. An Overview on Irreversible Port-Hamiltonian Systems. Entropy vol. 24 1478 (2022)](an-overview-on-irreversible-port-hamiltonian-systems) -- [10.3390/e24101478](https://doi.org/10.3390/e24101478)
 - [Ramírez, H., Le Gorrec, Y., Maschke, B. & Couenne, F. On the passivity based control of irreversible processes: A port-Hamiltonian approach. Automatica vol. 64 105–111 (2016)](on-the-passivity-based-control-of-irreversible-processes-a-port-hamiltonian-approach) -- [10.1016/j.automatica.2015.07.002](https://doi.org/10.1016/j.automatica.2015.07.002)
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR. Chemical Engineering Science vol. 89 223–234 (2013)](irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr) -- [10.1016/j.ces.2012.12.002](https://doi.org/10.1016/j.ces.2012.12.002)

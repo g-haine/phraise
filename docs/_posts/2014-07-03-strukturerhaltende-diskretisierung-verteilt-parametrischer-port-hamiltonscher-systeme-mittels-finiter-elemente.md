@@ -41,3 +41,5 @@ Dieser Beitrag präsentiert ein Rahmenwerk für die Finite-Elemente-Approximatio
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/strukturerhaltende-diskretisierung-verteilt-parametrischer-port-hamiltonscher-systeme-mittels-finiter-elemente.bib)
+ 

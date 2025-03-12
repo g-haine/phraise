@@ -30,7 +30,7 @@ Sampled-data control; port-Hamiltonian systems; passivity; output consensus
 - **Pages:** 8562--8567
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.017](https://doi.org/10.1016/j.ifacol.2023.10.017)
-- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,16 +50,23 @@ Sampled-data control; port-Hamiltonian systems; passivity; output consensus
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/symplectic-discrete-time-krasovskii-passivity-based-control-for-output-consensus.bib)
+ 
 ## References
-- Arcak, M. Passivity as a Design Tool for Group Coordination. IEEE Transactions on Automatic Control vol. 52 1380–1390 (2007) -- [10.1109/TAC.2007.902733](https://doi.org/10.1109/TAC.2007.902733)
-- Cucuzzella, M. et al. A Robust Consensus Algorithm for Current Sharing and Voltage Regulation in DC Microgrids. IEEE Transactions on Control Systems Technology vol. 27 1583–1595 (2019) -- [10.1109/TCST.2018.2834878](https://doi.org/10.1109/TCST.2018.2834878)
-- Kawano, Y., Kosaraju, K. C. & Scherpen, J. M. A. Krasovskii and Shifted Passivity-Based Control. IEEE Transactions on Automatic Control vol. 66 4926–4932 (2021) -- [10.1109/TAC.2020.3040252](https://doi.org/10.1109/TAC.2020.3040252)
-- Kosaraju, K. C., Cucuzzella, M., Scherpen, J. M. A. & Pasumarthy, R. Differentiation and Passivity for Control of Brayton–Moser Systems. IEEE Transactions on Automatic Control vol. 66 1087–1101 (2021) -- [10.1109/TAC.2020.2994317](https://doi.org/10.1109/TAC.2020.2994317)
+- Arcak, M. Passivity as a Design Tool for Group Coordination. IEEE Transactions on Automatic Control vol. 52 1380–1390 (2007) -- [10.1109/tac.2007.902733](https://doi.org/10.1109/tac.2007.902733)
+- Cucuzzella, Robust Passivity-Based Control of Boost Converters in DC Microgrids. (2019)
+- Cucuzzella, M. et al. A Robust Consensus Algorithm for Current Sharing and Voltage Regulation in DC Microgrids. IEEE Transactions on Control Systems Technology vol. 27 1583–1595 (2019) -- [10.1109/tcst.2018.2834878](https://doi.org/10.1109/tcst.2018.2834878)
+- Feng, Output consensus control for linear port-Hamiltonian systems. (2022)
+- Hairer, (2006)
+- Kawano, Krasovskii and shifted passivity based output consensus. arXiv preprint (2022)
+- Kawano, Y., Kosaraju, K. C. & Scherpen, J. M. A. Krasovskii and Shifted Passivity-Based Control. IEEE Transactions on Automatic Control vol. 66 4926–4932 (2021) -- [10.1109/tac.2020.3040252](https://doi.org/10.1109/tac.2020.3040252)
+- Kosaraju, K. C., Cucuzzella, M., Scherpen, J. M. A. & Pasumarthy, R. Differentiation and Passivity for Control of Brayton–Moser Systems. IEEE Transactions on Automatic Control vol. 66 1087–1101 (2021) -- [10.1109/tac.2020.2994317](https://doi.org/10.1109/tac.2020.2994317)
 - Kotyczka, P. & Lefèvre, L. Discrete-Time Control Design Based on Symplectic Integration: Linear Systems. IFAC-PapersOnLine vol. 53 7563–7568 (2020) -- [10.1016/j.ifacol.2020.12.1352](https://doi.org/10.1016/j.ifacol.2020.12.1352)
 - Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems &amp; Control Letters vol. 55 673–680 (2006) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
 - McLachlan, R. I., Quispel, G. R. W. & Robidoux, N. Geometric integration using discrete gradients. Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences vol. 357 1021–1045 (1999) -- [10.1098/rsta.1999.0363](https://doi.org/10.1098/rsta.1999.0363)
-- Monaco, S., Normand-Cyrot, D., Mattioni, M. & Moreschini, A. Nonlinear Hamiltonian Systems Under Sampling. IEEE Transactions on Automatic Control vol. 67 4598–4613 (2022) -- [10.1109/TAC.2022.3164985](https://doi.org/10.1109/TAC.2022.3164985)
+- [Monaco, S., Normand-Cyrot, D., Mattioni, M. & Moreschini, A. Nonlinear Hamiltonian Systems Under Sampling. IEEE Transactions on Automatic Control vol. 67 4598–4613 (2022)](nonlinear-hamiltonian-systems-under-sampling) -- [10.1109/tac.2022.3164985](https://doi.org/10.1109/tac.2022.3164985)
 - Moreschini, A., Monaco, S. & Normand-Cyrot, D. Gradient and Hamiltonian dynamics under sampling. IFAC-PapersOnLine vol. 52 472–477 (2019) -- [10.1016/j.ifacol.2019.12.006](https://doi.org/10.1016/j.ifacol.2019.12.006)
-- Scardovi, L., Arcak, M. & Sontag, E. D. Synchronization of Interconnected Systems With Applications to Biochemical Networks: An Input-Output Approach. IEEE Transactions on Automatic Control vol. 55 1367–1379 (2010) -- [10.1109/TAC.2010.2041974](https://doi.org/10.1109/TAC.2010.2041974)
+- Scardovi, L., Arcak, M. & Sontag, E. D. Synchronization of Interconnected Systems With Applications to Biochemical Networks: An Input-Output Approach. IEEE Transactions on Automatic Control vol. 55 1367–1379 (2010) -- [10.1109/tac.2010.2041974](https://doi.org/10.1109/tac.2010.2041974)
+- van der Schaft, (2017)
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 

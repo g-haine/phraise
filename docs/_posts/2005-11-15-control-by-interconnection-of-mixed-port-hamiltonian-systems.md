@@ -21,7 +21,7 @@ In this note, the regulation problem for mixed finite and infinite dimensional p
 - **Issue:** 11
 - **Pages:** 1839--1844
 - **Publisher:** Institute of Electrical and Electronics Engineers (IEEE)
-- **DOI:** [10.1109/TAC.2005.858656](https://doi.org/10.1109/TAC.2005.858656)
+- **DOI:** [10.1109/tac.2005.858656](https://doi.org/10.1109/tac.2005.858656)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -41,16 +41,23 @@ In this note, the regulation problem for mixed finite and infinite dimensional p
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/control-by-interconnection-of-mixed-port-hamiltonian-systems.bib)
+ 
 ## References
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136 -- [10.1109/CDC.2001.980086](https://doi.org/10.1109/CDC.2001.980086)
+- ortega, energy&#821shaping of port&#821controlled hamiltonian systems by interconnection. Proc IEEE Conf Decision and Control (1999)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136 -- [10.1109/cdc.2001.980086](https://doi.org/10.1109/cdc.2001.980086)
+- stramigioli, creating artificial damping by means of damping injection. Proc ASME Dynamic Systems and Control Division (1996)
+- swaters, Introduction to Hamiltonian Fluid Dynamics and Stability Theory (2000)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- macchelli, Port Hamiltonian systems A unified approach for modeling and control finite and infinite dimensional physical systems (2003)
 - Luo, Z.-H., Guo, B.-Z. & Morgul, O. Stability and Stabilization of Infinite Dimensional Systems with Applications. Communications and Control Engineering (Springer London, 1999). doi:10.1007/978-1-4471-0419-3 -- [10.1007/978-1-4471-0419-3](https://doi.org/10.1007/978-1-4471-0419-3)
 - Marsden, J. E. & Ratiu, T. S. Introduction to Mechanics and Symmetry. Texts in Applied Mathematics (Springer New York, 1994). doi:10.1007/978-1-4612-2682-6 -- [10.1007/978-1-4612-2682-6](https://doi.org/10.1007/978-1-4612-2682-6)
-- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
-- Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502 -- [10.1109/CDC.2001.980911](https://doi.org/10.1109/CDC.2001.980911)
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
+- Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502 -- [10.1109/cdc.2001.980911](https://doi.org/10.1109/cdc.2001.980911)
+- maschke, port controlled hamiltonian systems: modeling origins and system theoretic properties. Proc 3rd Conf Nonlinear Control Systems (NOLCOS) (1992)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Transactions on Automatic Control vol. 45 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 

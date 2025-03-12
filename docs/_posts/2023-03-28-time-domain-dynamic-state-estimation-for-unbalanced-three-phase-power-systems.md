@@ -18,7 +18,7 @@ category: articles
 - **Issue:** 2
 - **Pages:** 446--454
 - **Publisher:** Journal of Modern Power Systems and Clean Energy
-- **DOI:** [10.35833/MPCE.2021.000761](https://doi.org/10.35833/MPCE.2021.000761)
+- **DOI:** [10.35833/mpce.2021.000761](https://doi.org/10.35833/mpce.2021.000761)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -37,4 +37,6 @@ category: articles
 }
 {% endraw %}
 {% endhighlight %}
+ 
+[Download the bib file]({{ site.baseurl }}/assets/bib/time-domain-dynamic-state-estimation-for-unbalanced-three-phase-power-systems.bib)
  

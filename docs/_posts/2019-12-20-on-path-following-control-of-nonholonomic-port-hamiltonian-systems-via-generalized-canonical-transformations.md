@@ -30,7 +30,7 @@ Nonlinear control; path following; nonholonomic systems; mechanical systems
 - **Pages:** 298--303
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.11.795](https://doi.org/10.1016/j.ifacol.2019.11.795)
-- **Event:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
+- **Note:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,15 +50,20 @@ Nonlinear control; path following; nonholonomic systems; mechanical systems
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-path-following-control-of-nonholonomic-port-hamiltonian-systems-via-generalized-canonical-transformations.bib)
+ 
 ## References
-- Duindam, V., Stramigioli, S. & Scherpen, J. M. A. Passive Compensation of Nonlinear Robot Dynamics. IEEE Transactions on Robotics and Automation vol. 20 480–487 (2004) -- [10.1109/TRA.2004.824693](https://doi.org/10.1109/TRA.2004.824693)
-- Ferguson, J., Donaire, A., Renton, C, and Middle-ton, R.H. (2018). A port-hamiltonian approach to the control of nonholonomic systems. arXiv preprint arXiv:1801.06954.
+- Duindam, V., Stramigioli, S. & Scherpen, J. M. A. Passive Compensation of Nonlinear Robot Dynamics. IEEE Transactions on Robotics and Automation vol. 20 480–487 (2004) -- [10.1109/tra.2004.824693](https://doi.org/10.1109/tra.2004.824693)
 - Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control vol. 10 421–431 (2004) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
-- [Fujimoto, K. & Taniguchi, M. Passive path following control for port-Hamiltonian systems. 2008 47th IEEE Conference on Decision and Control 1285–1290 (2008) doi:10.1109/cdc.2008.4739242](passive-path-following-control-for-port-hamiltonian-systems) -- [10.1109/CDC.2008.4739242](https://doi.org/10.1109/CDC.2008.4739242)
+- Fujimoto, (1999)
+- [Fujimoto, K. & Taniguchi, M. Passive path following control for port-Hamiltonian systems. 2008 47th IEEE Conference on Decision and Control 1285–1290 (2008) doi:10.1109/cdc.2008.4739242](passive-path-following-control-for-port-hamiltonian-systems) -- [10.1109/cdc.2008.4739242](https://doi.org/10.1109/cdc.2008.4739242)
 - Zhong-Ping Jiang & Nijmeijer, H. A recursive technique for tracking control of nonholonomic systems in chained form. IEEE Transactions on Automatic Control vol. 44 265–279 (1999) -- [10.1109/9.746253](https://doi.org/10.1109/9.746253)
-- Kapitanyuk, Y. A., Proskurnikov, A. V. & Cao, M. A Guiding Vector-Field Algorithm for Path-Following Control of Nonholonomic Mobile Robots. IEEE Transactions on Control Systems Technology vol. 26 1372–1385 (2018) -- [10.1109/TCST.2017.2705059](https://doi.org/10.1109/TCST.2017.2705059)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Kapitanyuk, Y. A., Proskurnikov, A. V. & Cao, M. A Guiding Vector-Field Algorithm for Path-Following Control of Nonholonomic Mobile Robots. IEEE Transactions on Control Systems Technology vol. 26 1372–1385 (2018) -- [10.1109/tcst.2017.2705059](https://doi.org/10.1109/tcst.2017.2705059)
+- Mazur, (2007)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Plaskonka, (2012)
 - Sordalen, O. J. & Egeland, O. Exponential stabilization of nonholonomic chained systems. IEEE Transactions on Automatic Control vol. 40 35–49 (1995) -- [10.1109/9.362901](https://doi.org/10.1109/9.362901)
-- [Zhang, M., Borja, P., Ortega, R., Liu, Z. & Su, H. PID Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 63 1032–1044 (2018)](pid-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2017.2732283](https://doi.org/10.1109/TAC.2017.2732283)
+- van der Schaft, (2017)
+- [Zhang, M., Borja, P., Ortega, R., Liu, Z. & Su, H. PID Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 63 1032–1044 (2018)](pid-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2017.2732283](https://doi.org/10.1109/tac.2017.2732283)
 

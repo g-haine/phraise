@@ -12,5 +12,6 @@ permalink: /authors/tobias-thoma
 <li><span class='post-meta'>2022 -- Paul Kotyczka, Tobias Thoma</span><h3><a class='post-link' href="{{ site.baseurl }}/from-discrete-modeling-to-explicit-fe-models-for-port-hamiltonian-systems-of-conservation-laws">From discrete modeling to explicit FE models for port-Hamiltonian systems of conservation laws</a></h3></li>
 <li><span class='post-meta'>2022 -- Tobias Thoma, Paul Kotyczka</span><h3><a class='post-link' href="{{ site.baseurl }}/explicit-port-hamiltonian-fem-models-for-linear-mechanical-systems-with-non-uniform-boundary-conditions">Explicit Port-Hamiltonian FEM-Models for Linear Mechanical Systems with Non-Uniform Boundary Conditions</a></h3></li>
 <li><span class='post-meta'>2022 -- Tobias Thoma, Paul Kotyczka</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-fe-models-for-filaments">Port-Hamiltonian FE models for filaments</a></h3></li>
+<li><span class='post-meta'>2021 -- Paul Kotyczka, Tobias Thoma</span><h3><a class='post-link' href="{{ site.baseurl }}/symplectic-discrete-time-energy-based-control-for-nonlinear-mechanical-systems">Symplectic discrete-time energy-based control for nonlinear mechanical systems</a></h3></li>
 
 </ul>

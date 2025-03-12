@@ -51,23 +51,29 @@ Port-Hamiltonian systems; Model reduction; Krylov methods; Arnoldi method, Lancz
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity.bib)
+ 
 ## References
+- Antoulas, (2005)
 - Antoulas, A. C. A new result on passivity preserving model reduction. Systems &amp; Control Letters vol. 54 361–374 (2005) -- [10.1016/j.sysconle.2004.07.007](https://doi.org/10.1016/j.sysconle.2004.07.007)
+- Gallivan, Model reduction of large-scale systems: Rational Krylov versus balancing techniques. (1999)
+- Golub, (1996)
 - Gragg, W. B. & Lindquist, A. On the partial realization problem. Linear Algebra and its Applications vol. 50 277–319 (1983) -- [10.1016/0024-3795(83)90059-9](https://doi.org/10.1016/0024-3795(83)90059-9)
-- Grimme, E. (1997). Krylov projection methods for model reduction. Ph.D. thesis. Coordinated Science Laboratory, University of Illinois at Urbana-Champaign.
-- Grimme, E., Gallivan, K., & Van Dooren, P. M. (1998). On some recent developments in projection-based model reduction. ENUMATH-97 (pp. 98–113).
 - Gugercin, S., Antoulas, A. C. & Beattie, C. $\mathcal{H}_2$ Model Reduction for Large-Scale Linear Dynamical Systems. SIAM Journal on Matrix Analysis and Applications vol. 30 609–638 (2008) -- [10.1137/060666123](https://doi.org/10.1137/060666123)
-- Hartmann, C., Vulcanov, V. -M., & Schütte, Ch. (2010). Balanced truncation of linear second-order systems: A Hamiltonian approach. Multiscale Modelling and Simulation (in press). Available from http://proteomics-berlin.de/28/. -- [10.1137/080732717](https://doi.org/10.1137/080732717)
-- Ionutiu, R., Rommes, J. & Antoulas, A. C. Passivity-Preserving Model Reduction Using Dominant Spectral-Zero Interpolation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems vol. 27 2250–2263 (2008) -- [10.1109/TCAD.2008.2006160](https://doi.org/10.1109/TCAD.2008.2006160)
-- Lall, S., Krysl, P. & Marsden, J. E. Structure-preserving model reduction for mechanical systems. Physica D: Nonlinear Phenomena vol. 184 304–318 (2003) -- [10.1016/S0167-2789(03)00227-6](https://doi.org/10.1016/S0167-2789(03)00227-6)
-- Lehoucq, R. B. (1995). Analysis and implementation of an implicitly restarted arnoldi iteration. Ph.D. thesis. Rice University.
-- Mehrmann, V. & Xu, H. Numerical methods in control. Journal of Computational and Applied Mathematics vol. 123 371–394 (2000) -- [10.1016/S0377-0427(00)00392-7](https://doi.org/10.1016/S0377-0427(00)00392-7)
-- Moore, B. Principal component analysis in linear systems: Controllability, observability, and model reduction. IEEE Transactions on Automatic Control vol. 26 17–32 (1981) -- [10.1109/TAC.1981.1102568](https://doi.org/10.1109/TAC.1981.1102568)
+- Gutknecht, The Lanczos process and Padé approximation. (1994)
+- Hartmann, Balancing of dissipative Hamiltonian systems. (2009)
+- Hartmann, C., Vulcanov, V.-M. & Schütte, C. Balanced Truncation of Linear Second-Order Systems: A Hamiltonian Approach. Multiscale Modeling &amp; Simulation vol. 8 1348–1367 (2010) -- [10.1137/080732717](https://doi.org/10.1137/080732717)
+- Ionutiu, R., Rommes, J. & Antoulas, A. C. Passivity-Preserving Model Reduction Using Dominant Spectral-Zero Interpolation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems vol. 27 2250–2263 (2008) -- [10.1109/tcad.2008.2006160](https://doi.org/10.1109/tcad.2008.2006160)
+- Komzsik, (2003)
+- Lall, S., Krysl, P. & Marsden, J. E. Structure-preserving model reduction for mechanical systems. Physica D: Nonlinear Phenomena vol. 184 304–318 (2003) -- [10.1016/s0167-2789(03)00227-6](https://doi.org/10.1016/s0167-2789(03)00227-6)
+- Mehrmann, V. & Xu, H. Numerical methods in control. Journal of Computational and Applied Mathematics vol. 123 371–394 (2000) -- [10.1016/s0377-0427(00)00392-7](https://doi.org/10.1016/s0377-0427(00)00392-7)
+- Moore, B. Principal component analysis in linear systems: Controllability, observability, and model reduction. IEEE Transactions on Automatic Control vol. 26 17–32 (1981) -- [10.1109/tac.1981.1102568](https://doi.org/10.1109/tac.1981.1102568)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Polyuga, R. V., & van der Schaft, A. J. (2008). Structure preserving model reduction of port-Hamiltonian systems. In Proceedings of the 18th international symposium on mathematical theory of networks and systems, Blacksburg, Virginia, USA, July 28–August 1.
-- Polyuga, R. V., & van der Schaft, A. J. (2009). Moment matching for linear port-Hamiltonian systems. In Proceedings of the European control conference 2009 (pp. 4715–4720) Budapest, Hungary, August 23–26. -- [10.23919/ECC.2009.7075145](https://doi.org/10.23919/ECC.2009.7075145)
-- Polyuga, R. V., & van der Schaft, A. J. (2010). Structure preserving port-Hamiltonian model reduction of electrical circuits. In P. Benner, M. Hinze, and J. ter Maten (Eds.), Lecture notes in electrical engineering. Model reduction for circuit simulation. Berlin/Heidelberg: Springer-Verlag (in press).
+- Polyuga, R. V. & van der Schaft, A. Moment matching for linear port-Hamiltonian systems. 2009 European Control Conference (ECC) 4715–4720 (2009) doi:10.23919/ecc.2009.7075145 -- [10.23919/ecc.2009.7075145](https://doi.org/10.23919/ecc.2009.7075145)
+- Schilders, (2008)
 - Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems &amp; Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
-- Van Dooren, P. M. (1995). The Lanczos algorithm and Padé approximations. In Benelux meeting on systems and control, Houthalen, Belgium.
-- Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/BF00276493](https://doi.org/10.1007/BF00276493)
+- van der Schaft, (2000)
+- van der Schaft, Port-controlled Hamiltonian systems: Towards a theory for control and design of nonlinear physical systems. Journal of the Society of Instrument and Control Engineers of Japan (SICE) (2000)
+- van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
+- Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 

@@ -31,7 +31,7 @@ Port-hamiltonian systems; pasivity-based control; power systems dynamics; contro
 - **Pages:** 166--171
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.275](https://doi.org/10.1016/j.ifacol.2024.08.275)
-- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,19 +51,24 @@ Port-hamiltonian systems; pasivity-based control; power systems dynamics; contro
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/discrete-time-port-hamiltonian-systems-for-power-and-energy-applications.bib)
+ 
 ## References
 - [Aoues, S., Di Loreto, M., Eberard, D. & Marquis-Favre, W. Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability. Systems &amp; Control Letters vol. 110 9–14 (2017)](hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability) -- [10.1016/j.sysconle.2017.10.003](https://doi.org/10.1016/j.sysconle.2017.10.003)
 - Avila-Becerril, S., Espinosa-Pérez, G. & Machado, J. E. A Hamiltonian control approach for electric microgrids with dynamic power flow solution. Automatica vol. 139 110192 (2022) -- [10.1016/j.automatica.2022.110192](https://doi.org/10.1016/j.automatica.2022.110192)
 - Bezanson, J., Edelman, A., Karpinski, S. & Shah, V. B. Julia: A Fresh Approach to Numerical Computing. SIAM Review vol. 59 65–98 (2017) -- [10.1137/141000671](https://doi.org/10.1137/141000671)
-- Garcés-Ruiz, A. (2024). Sistemas hamiltonianos con-trolados por puertos en forma discreta. github project:. https://github.com/alejandrogarces/JuliaScripts/tree/main/DiscretePH.
-- Garcés-Ruiz, A., Riffo, S., González-Castaño, C. & Restrepo, C. Model Predictive Control With Stability Guarantee for Second-Order DC/DC Converters. IEEE Transactions on Industrial Electronics vol. 71 5157–5165 (2024) -- [10.1109/TIE.2023.3283706](https://doi.org/10.1109/TIE.2023.3283706)
+- Boyd, (2004)
+- Butcher, (2008)
+- Garcés-Ruiz, A., Riffo, S., González-Castaño, C. & Restrepo, C. Model Predictive Control With Stability Guarantee for Second-Order DC/DC Converters. IEEE Transactions on Industrial Electronics vol. 71 5157–5165 (2024) -- [10.1109/tie.2023.3283706](https://doi.org/10.1109/tie.2023.3283706)
 - [Kotyczka, P. & Lefèvre, L. Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters vol. 133 104530 (2019)](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
 - Lin, W. & Byrnes, C. I. KYP lemma, state feedback and dynamic output feedback in discrete-time bilinear systems. Systems &amp; Control Letters vol. 23 127–136 (1994) -- [10.1016/0167-6911(94)90042-6](https://doi.org/10.1016/0167-6911(94)90042-6)
-- [Macchelli, A. Control Design for a Class of Discrete-Time Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 68 8224–8231 (2023)](control-design-for-a-class-of-discrete-time-port-hamiltonian-systems) -- [10.1109/TAC.2023.3292180](https://doi.org/10.1109/TAC.2023.3292180)
+- Loomis, (2014)
+- [Macchelli, A. Control Design for a Class of Discrete-Time Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 68 8224–8231 (2023)](control-design-for-a-class-of-discrete-time-port-hamiltonian-systems) -- [10.1109/tac.2023.3292180](https://doi.org/10.1109/tac.2023.3292180)
 - Moreschini, A., Bin, M., Astolfi, A. & Parisini, T. On ϱ-passivity. IFAC-PapersOnLine vol. 56 8556–8561 (2023) -- [10.1016/j.ifacol.2023.10.016](https://doi.org/10.1016/j.ifacol.2023.10.016)
-- [Moreschini, A., Monaco, S., and Normand-Cyrot, D. (2023b). Dirac structures for a class of port-hamiltonian systems in discrete time. IEEE Transactions on Automatic Control, 1–8. doi:10.1109/TAC.2023.3313327.](dirac-structures-for-a-class-of-port-hamiltonian-systems-in-discrete-time) -- [10.1109/TAC.2023.3313327](https://doi.org/10.1109/TAC.2023.3313327)
+- [Moreschini, A., Monaco, S. & Normand-Cyrot, D. Dirac Structures for a Class of Port-Hamiltonian Systems in Discrete Time. IEEE Transactions on Automatic Control vol. 69 1999–2006 (2024)](dirac-structures-for-a-class-of-port-hamiltonian-systems-in-discrete-time) -- [10.1109/tac.2023.3313327](https://doi.org/10.1109/tac.2023.3313327)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - Riis, E. S., Ehrhardt, M. J., Quispel, G. R. W. & Schönlieb, C.-B. A Geometric Integration Approach to Nonsmooth, Nonconvex Optimisation. Foundations of Computational Mathematics vol. 22 1351–1394 (2021) -- [10.1007/s10208-020-09489-2](https://doi.org/10.1007/s10208-020-09489-2)
 - Sakamoto, K. et al. Development of a control system for a high-performance self-commutated AC/DC converter. IEEE Transactions on Power Delivery vol. 13 225–232 (1998) -- [10.1109/61.660882](https://doi.org/10.1109/61.660882)
-- Shores, T.S. (2018). Applied linear algebra and matrix analysis. Springer, NY, 2 edition. -- [10.1007/978-3-319-74748-4](https://doi.org/10.1007/978-3-319-74748-4)
+- Shores, T. S. Applied Linear Algebra and Matrix Analysis. Undergraduate Texts in Mathematics (Springer International Publishing, 2018). doi:10.1007/978-3-319-74748-4 -- [10.1007/978-3-319-74748-4](https://doi.org/10.1007/978-3-319-74748-4)
+- van der Schaft, (2014)
 

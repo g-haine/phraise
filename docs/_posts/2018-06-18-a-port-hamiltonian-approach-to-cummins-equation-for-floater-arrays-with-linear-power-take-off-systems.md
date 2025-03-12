@@ -31,7 +31,7 @@ Wave energy; Wave-structure interaction; Wave energy converter; WEC array; port-
 - **Pages:** 155--160
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.043](https://doi.org/10.1016/j.ifacol.2018.06.043)
-- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,18 +51,21 @@ Wave energy; Wave-structure interaction; Wave energy converter; WEC array; port-
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-port-hamiltonian-approach-to-cummins-equation-for-floater-arrays-with-linear-power-take-off-systems.bib)
+ 
 ## References
-- Babarit, A. and Delhommeau, G. (2015). Theoretical and numerical aspects of the open source BEM solver NEMOH. In Proc. of the EWTEC2015 Conf.
-- Barradas-Berglind, J., Meijer, H., van Rooij, M., Clemente-Pinol, S., Galvan-Garcia, B., Prins, W., Vakis, A., and Jayawardhana, B. (2016). Energy capture optimization for an adaptive wave energy converter. In Proc. of the RENEW2016 Conf., 171–178. -- [10.1201/9781315229256-22](https://doi.org/10.1201/9781315229256-22)
-- Barradas-Berglind, J., Munoz-Arias, M., Wei, Y., Prins, W., Vakis, A., and Jayawardhana, B. (2017). Towards Ocean Grazer’s modular power take-off system modeling: a port-Hamiltonian approach. In Proc. of the IFAC 2017 World Congress, 16233–16239.
+- Barradas-Berglind, J. et al. Energy capture optimization for an adaptive wave energy converter. Progress in Renewable Energies Offshore 171–178 (2016) doi:10.1201/9781315229256-22 -- [10.1201/9781315229256-22](https://doi.org/10.1201/9781315229256-22)
+- Cummins, (1962)
+- Duindam, (2009)
 - Faedo, N., Olaya, S. & Ringwood, J. V. Optimal control, MPC and MPC-like algorithms for wave energy systems: An overview. IFAC Journal of Systems and Control vol. 1 37–56 (2017) -- [10.1016/j.ifacsc.2017.07.001](https://doi.org/10.1016/j.ifacsc.2017.07.001)
-- Hansen, R. and Kramer, M. (2011). Modelling and control of the Wavestar prototype. In Proc. of EWTEC2011.
 - Henderson, R. Design, simulation, and testing of a novel hydraulic power take-off system for the Pelamis wave energy converter. Renewable Energy vol. 31 271–283 (2006) -- [10.1016/j.renene.2005.08.021](https://doi.org/10.1016/j.renene.2005.08.021)
-- Löfberg, J. (2004). YALMIP : A toolbox for modeling and optimization in MATLAB. In Proc. of the CACSD2004 Conf. -- [10.1109/CACSD.2004.1393890](https://doi.org/10.1109/CACSD.2004.1393890)
-- Maschke, B. and van der Schaft, A. (1992). Port-controlled Hamiltonian systems: modeling origins and system-theoretic properties. In Proc. of the IFAC Symposium on Nonlinear Control Systems, 282–288. Bordeaux, France.
+- Korde, (2016)
+- Lagoun, Ocean wave converters: State of the art and current status. In Proc. of IEEE EnergyCon (2010)
+- Lofberg, J. YALMIP : a toolbox for modeling and optimization in MATLAB. 2004 IEEE International Conference on Robotics and Automation (IEEE Cat. No.04CH37508) 284–289 doi:10.1109/cacsd.2004.1393890 -- [10.1109/cacsd.2004.1393890](https://doi.org/10.1109/cacsd.2004.1393890)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Perez, T. & Fossen, T. I. A Matlab Toolbox for Parametric Identification of Radiation-Force Models of Ships and Offshore Structures. Modeling, Identification and Control: A Norwegian Research Bulletin vol. 30 1–15 (2009) -- [10.4173/mic.2009.1.1](https://doi.org/10.4173/mic.2009.1.1)
-- Energy-Maximizing Control of Wave-Energy Converters: The Development of Control System Technology to Optimize Their Operation. IEEE Control Systems vol. 34 30–55 (2014) -- [10.1109/MCS.2014.2333253](https://doi.org/10.1109/MCS.2014.2333253)
-- Ruehl, K., Michelen, C., Kanner, S., Lawson, M., and Yu, Y.H. (2014). Preliminary verification and validation of WEC-Sim, an open-source wave energy converter design tool. In Proc. of the OMAE2014 Conf. -- [10.1115/OMAE2014-24312](https://doi.org/10.1115/OMAE2014-24312)
+- Energy-Maximizing Control of Wave-Energy Converters: The Development of Control System Technology to Optimize Their Operation. IEEE Control Systems vol. 34 30–55 (2014) -- [10.1109/mcs.2014.2333253](https://doi.org/10.1109/mcs.2014.2333253)
+- Ruehl, K., Michelen, C., Kanner, S., Lawson, M. & Yu, Y.-H. Preliminary Verification and Validation of WEC-Sim, an Open-Source Wave Energy Converter Design Tool. Volume 9B: Ocean Renewable Energy (2014) doi:10.1115/omae2014-24312 -- [10.1115/omae2014-24312](https://doi.org/10.1115/omae2014-24312)
 - Vakis, A. I. & Anagnostopoulos, J. S. Mechanical design and modeling of a single-piston pump for the novel power take-off system of a wave energy converter. Renewable Energy vol. 96 531–547 (2016) -- [10.1016/j.renene.2016.04.076](https://doi.org/10.1016/j.renene.2016.04.076)
+- van der Schaft, (2000)
 

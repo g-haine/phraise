@@ -29,7 +29,7 @@ Differential geometric methods; Hamiltonian Systems; Partial differential equati
 - **Pages:** 244--249
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.247](https://doi.org/10.1016/j.ifacol.2015.10.247)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,13 +49,22 @@ Differential geometric methods; Hamiltonian Systems; Partial differential equati
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-formulation-for-higher-order-pdes.bib)
+ 
 ## References
-- Ennsbrunner H. 2006 nfinite-dimensional Euler-Lagrange and Port Hamiltonian Systems. University Linz, PhD-Thesis.
-- Ennsbrunner, H., Schlacher, K., 2005. On the geometrical representation and interconnection of infinite dimensional port controlled hamiltonian systems. In Proceedings IEEE Conference on Decision and Control and European Control Conference (CDC-ECC), 52635268. -- [10.1109/CDC.2005.1582998](https://doi.org/10.1109/CDC.2005.1582998)
-- Maschke, B., van der Schaft, A., 2005. Compositional Modelling of Distributed-Parameter Systems, 115-154, Advanced Topics in Control Systems Theory. Springer Lecture Notes in Control and Information Sciences, London. -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
+- Ennsbrunner, H. & Schlacher, K. On the geometrical representation and interconnection of infinite dimensional port controlled Hamiltonian systems. Proceedings of the 44th IEEE Conference on Decision and Control 5263–5268 doi:10.1109/cdc.2005.1582998 -- [10.1109/cdc.2005.1582998](https://doi.org/10.1109/cdc.2005.1582998)
+- Giachetta, (1997)
+- Macchelli, Port based modelling and control of the mindlin plate. (2005)
+- Macchelli, Port hamiltonian formulation of infinite dimensional systems i. modeling. (2004)
+- Macchelli, Port hamiltonian formulation of infinite dimensional systems ii. boundary control by interconnection. (2004)
+- Maschke, B. & van der Schaft, A. 4 Compositional Modelling of Distributed-Parameter Systems. Lecture Notes in Control and Information Sciences 115–154 (2005) doi:10.1007/11334774_4 -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
+- Olver, (1986)
+- Saunders, (1989)
 - Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
-- [Schöberl, M., and Schlacher, K., 2015. Lagrangian and port-hamiltonian formulation for distributed-parameter systems. In Proceedings, 8th Mathmod Conference, Vienna, Austria, accepted.](lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems) -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
-- [Schoberl, M. & Siuka, A. On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems. IEEE Transactions on Automatic Control vol. 58 1823–1828 (2013)](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/TAC.2012.2235739](https://doi.org/10.1109/TAC.2012.2235739)
+- [Schöberl, M. & Schlacher, K. Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems. IFAC-PapersOnLine vol. 48 610–615 (2015)](lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems) -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
+- Schöberl, On the port-hamiltonian representation of systems described by partial differential equations. (2012)
+- Schöberl, Analysis and comparison of port-hamiltonian formulations for field theories - demonstrated by means of the mindlin plate. (2013)
+- [Schoberl, M. & Siuka, A. On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems. IEEE Transactions on Automatic Control vol. 58 1823–1828 (2013)](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/tac.2012.2235739](https://doi.org/10.1109/tac.2012.2235739)
 - [Schöberl, M. & Siuka, A. Jet bundle formulation of infinite-dimensional port-Hamiltonian systems using differential operators. Automatica vol. 50 607–613 (2014)](jet-bundle-formulation-of-infinite-dimensional-port-hamiltonian-systems-using-differential-operators) -- [10.1016/j.automatica.2013.11.035](https://doi.org/10.1016/j.automatica.2013.11.035)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

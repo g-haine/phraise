@@ -8,31 +8,36 @@ This site is a **bibliographic survey** dedicated to research on **port-Hamilton
 
 The site is **updated at regular intervals** to reflect newly published works.
 
+## **How to Contribute?**
+Contributions are welcome in the form of **DOI submissions**. You can:
+- Submit a **pull request** with new DOIs in the `newDOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
+- Send [**an email**](mailto:ghislain.haine@isae.fr) with a list of new DOIs.
+
+**Automated contributions are not possible** due to API rate limitations. The metadata compilation will be manually performed before each update, but the site itself is automatically rebuilt with [Jekyll](https://jekyllrb.com/) after each push.
+
 ## **Scope & Methodology**
 
 ### **Why DOIs?**
-Maintaining a large database manually is challenging. To ensure a sustainable and automated process, we **restrict** this survey to **published works with a DOI**. This guarantees easy updates and avoids manually managing metadata.
+Maintaining a large database manually is challenging. To ensure a sustainable and (almost) automated process, we **restrict** this survey to **published works with a DOI**. This guarantees easy updates and avoids manually managing metadata.
 
-While the scripts used for collecting metadata are **publicly available**, they will primarily be run by the site maintainer.
+While the scripts used for collecting metadata are **publicly available** on the [**GitHub repository**](https://github.com/g-haine/phraise), they will primarily be run by the site maintainer.
 
 ### **Data Sources**
-The metadata is retrieved using a hierarchical approach using the following API:
-1. [**CrossRef**](https://www.crossref.org/documentation/retrieve-metadata/rest-api/): primary source, ensuring completeness of minimal metadata;
+The metadata is retrieved using a hierarchical approach using the following APIs:
+1. [**CrossRef**](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) and [**DOI Foundation**](https://www.doi.org/): primary sources, ensuring completeness of minimal metadata;
 2. [**Scopus**](https://dev.elsevier.com/documentation/SCOPUSSearchAPI.wadl): for abstracts and keywords, when available via Elsevier;
 3. [**Springer Meta API**](https://dev.springernature.com/docs/api-endpoints/meta-api/): for abstracts and keywords from Springer;
 4. [**OpenAlex**](https://docs.openalex.org/how-to-use-the-api/api-overview) & [**Semantic Scholar**](https://www.semanticscholar.org/product/api): as fallback sources for missing abstracts and keywords.
 
-Currently, **only metadata and abstracts** are collected—**full texts are not included**.
+Currently, **only metadata and abstracts** are collected: **full texts are not included**.
 
-## **How to Contribute?**
-Contributions are welcome in the form of **DOI submissions**. You can:
-- Submit a **pull request** with new DOIs in the `newDOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
-- Send [**an email**](mailto:ghislain.haine@isae.fr) with new DOIs list.
+The resulting database is [available for download]({{ site.baseurl }}/assets/data/bilbio.json) (a JSON file).
 
-**Automated contributions are not possible** due to API rate limitations. The metadata compilation will be manually performed before each update, but the site itself is automatically rebuilt with Jekyll after each push.
+### **Handling Author's names**
+The [Author pages]({{ site.baseurl }}/authors/) need a management to take care of the different ways an author can appear in a publication. This can be a source of errors, so please do not hesitate to suggest corrections. You may want to take a look at [the array managing name variations]({{ site.baseurl }}/assets/data/author_mappings.json) (a JSON file).
 
 ### **Curation Process**
-No additional **peer review** is conducted—the survey relies on **CrossRef's metadata**, assuming that all indexed works have already undergone editorial scrutiny.
+No additional **peer review** is conducted; the survey relies on **CrossRef's metadata**, assuming that all indexed works have already undergone editorial scrutiny.
 
 ## **Useful Links**
 

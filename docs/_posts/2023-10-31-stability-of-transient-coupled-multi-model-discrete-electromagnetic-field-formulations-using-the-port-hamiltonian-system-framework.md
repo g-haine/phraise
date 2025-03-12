@@ -21,7 +21,7 @@ The port-Hamiltonian system (pHS) framework established for coupled system formu
 - **Issue:** 
 - **Pages:** 1--1
 - **Publisher:** IEEE
-- **DOI:** [10.1109/ICEAA57318.2023.10297842](https://doi.org/10.1109/ICEAA57318.2023.10297842)
+- **DOI:** [10.1109/iceaa57318.2023.10297842](https://doi.org/10.1109/iceaa57318.2023.10297842)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,6 +38,10 @@ The port-Hamiltonian system (pHS) framework established for coupled system formu
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/stability-of-transient-coupled-multi-model-discrete-electromagnetic-field-formulations-using-the-port-hamiltonian-system-framework.bib)
+ 
 ## References
-- WEILAND, T. TIME DOMAIN ELECTROMAGNETIC FIELD COMPUTATION WITH FINITE DIFFERENCE METHODS. International Journal of Numerical Modelling: Electronic Networks, Devices and Fields vol. 9 295–319 (1996) -- [10.1002/(SICI)1099-1204(199607)9:4<295::AID-JNM240>3.0.CO;2-8](https://doi.org/10.1002/(SICI)1099-1204(199607)9:4<295::AID-JNM240>3.0.CO;2-8)
+- Jeltsema, Port-Hamiltonian systems theory: An introductory overview. Control (2014)
+- WEILAND, T. TIME DOMAIN ELECTROMAGNETIC FIELD COMPUTATION WITH FINITE DIFFERENCE METHODS. International Journal of Numerical Modelling: Electronic Networks, Devices and Fields vol. 9 295–319 (1996) -- [10.1002/(sici)1099-1204(199607)9:4<295::aid-jnm240>3.0.co;2-8](https://doi.org/10.1002/(sici)1099-1204(199607)9:4<295::aid-jnm240>3.0.co;2-8)
+- Weiland, On the unique numerical solution of Maxwellian eigenvalue problems in three dimensions. 2023 IEEE (1984)
 

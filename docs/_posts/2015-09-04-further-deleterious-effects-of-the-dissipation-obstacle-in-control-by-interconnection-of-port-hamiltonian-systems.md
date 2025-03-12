@@ -50,12 +50,19 @@ Dissipation obstacle; Energy-shaping; Control-by-interconnection; Port-Hamiltoni
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/further-deleterious-effects-of-the-dissipation-obstacle-in-control-by-interconnection-of-port-hamiltonian-systems.bib)
+ 
 ## References
 - [Castaños, F. & Ortega, R. Energy-balancing passivity-based control is equivalent to dissipation and output invariance. Systems &amp; Control Letters vol. 58 553–560 (2009)](energy-balancing-passivity-based-control-is-equivalent-to-dissipation-and-output-invariance) -- [10.1016/j.sysconle.2009.03.007](https://doi.org/10.1016/j.sysconle.2009.03.007)
-- Koopman, J.J., & Jeltsema, D. (2012). Casimir-based control beyond the dissipation obstacle. In Proc. IFAC workshop on lagrangian and Hamiltonian methods for nonlinear control, Bertinoro, Italy. -- [10.3182/20120829-3-IT-4022.00046](https://doi.org/10.3182/20120829-3-IT-4022.00046)
+- Dalsmo, On representations and integrability of mathematical structures in energy-conserving physical systems. SIAM Journal on Control and Optimization (1999)
+- (2009)
+- Koopman, J. & Jeltsema, D. Casimir-Based Control Beyond the Dissipation Obstacle. IFAC Proceedings Volumes vol. 45 173–177 (2012) -- [10.3182/20120829-3-it-4022.00046](https://doi.org/10.3182/20120829-3-it-4022.00046)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Ortega, R., & Borja, L.P. (2014). New results on control-by-interconnection and energy–balancing passivity–based control of port-Hamiltonian systems. In 53rd IEEE conference on decision and control December 15–17, Los Angeles, California, USA. -- [10.1109/CDC.2014.7039746](https://doi.org/10.1109/CDC.2014.7039746)
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
-- Sanchez, S., Ortega, R., Grino, R., Bergna, G. & Molinas, M. Conditions for Existence of Equilibria of Systems With Constant Power Loads. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 61 2204–2211 (2014) -- [10.1109/TCSI.2013.2295953](https://doi.org/10.1109/TCSI.2013.2295953)
-- Venkataraman, A., & van der Schaft, A. (2009). Energy shaping of port-Hamiltonian systems by using alternate passive outputs. In European control conference 2009 23–26 August, Budapest, Hungary. -- [10.23919/ECC.2009.7074727](https://doi.org/10.23919/ECC.2009.7074727)
+- Ortega, R. & Borja, L. P. New results on Control by Interconnection and Energy-Balancing Passivity-Based Control of port-hamiltonian systems. 53rd IEEE Conference on Decision and Control 2346–2351 (2014) doi:10.1109/cdc.2014.7039746 -- [10.1109/cdc.2014.7039746](https://doi.org/10.1109/cdc.2014.7039746)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
+- [Sanchez, S., Ortega, R., Grino, R., Bergna, G. & Molinas, M. Conditions for Existence of Equilibria of Systems With Constant Power Loads. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 61 2204–2211 (2014)](conditions-for-existence-of-equilibria-of-systems-with-constant-power-loads) -- [10.1109/tcsi.2013.2295953](https://doi.org/10.1109/tcsi.2013.2295953)
+- Secchi, (2007)
+- van~der Schaft, (1999)
+- van~der Schaft, Port-Hamiltonian systems theory: an introductory overview. (2014)
+- Venkatraman, A. & van der Schaft, A. Energy shaping of port-Hamiltonian systems by using alternate passive outputs. 2009 European Control Conference (ECC) 2175–2180 (2009) doi:10.23919/ecc.2009.7074727 -- [10.23919/ecc.2009.7074727](https://doi.org/10.23919/ecc.2009.7074727)
 

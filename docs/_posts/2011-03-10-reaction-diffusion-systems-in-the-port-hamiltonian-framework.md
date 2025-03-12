@@ -21,8 +21,8 @@ Reaction-diffusion systems model the evolution of the constituents distributed i
 - **Issue:** 14
 - **Pages:** 837--842
 - **Publisher:** Elsevier BV
-- **DOI:** [10.3182/20100901-3-IT-2016.00116](https://doi.org/10.3182/20100901-3-IT-2016.00116)
-- **Event:** 8th IFAC Symposium on Nonlinear Control Systems
+- **DOI:** [10.3182/20100901-3-it-2016.00116](https://doi.org/10.3182/20100901-3-it-2016.00116)
+- **Note:** 8th IFAC Symposium on Nonlinear Control Systems
  
 ## BibTeX
 {% highlight bibtex %}
@@ -42,9 +42,20 @@ Reaction-diffusion systems model the evolution of the constituents distributed i
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/reaction-diffusion-systems-in-the-port-hamiltonian-framework.bib)
+ 
 ## References
-- Fitzgibbon, W. B., Hollis, S. L. & Morgan, J. J. Stability and Lyapunov Functions for Reaction-Diffusion Systems. SIAM Journal on Mathematical Analysis vol. 28 595–610 (1997) -- [10.1137/S0036141094272241](https://doi.org/10.1137/S0036141094272241)
-- Oster, G. F. & Perelson, A. S. Chemical reaction dynamics. Archive for Rational Mechanics and Analysis vol. 55 230–274 (1974) -- [10.1007/BF00281751](https://doi.org/10.1007/BF00281751)
-- Perelson, A. S. & Oster, G. F. Chemical reaction dynamics part II: Reaction networks. Archive for Rational Mechanics and Analysis vol. 57 31–98 (1974) -- [10.1007/BF00287096](https://doi.org/10.1007/BF00287096)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Fitzgibbon, W. B., Hollis, S. L. & Morgan, J. J. Stability and Lyapunov Functions for Reaction-Diffusion Systems. SIAM Journal on Mathematical Analysis vol. 28 595–610 (1997) -- [10.1137/s0036141094272241](https://doi.org/10.1137/s0036141094272241)
+- Jacquez, (1972)
+- Jovanovic, A passivity-based approach to stability of spatially distributed systems with a cyclic interconnection structure. IEEE Transactions on Circuits and Systems, Special Issue on Systems Biology (2008)
+- Nicolis, (1977)
+- Oster, G. F. & Perelson, A. S. Chemical reaction dynamics. Archive for Rational Mechanics and Analysis vol. 55 230–274 (1974) -- [10.1007/bf00281751](https://doi.org/10.1007/bf00281751)
+- Perelson, A. S. & Oster, G. F. Chemical reaction dynamics part II: Reaction networks. Archive for Rational Mechanics and Analysis vol. 57 31–98 (1974) -- [10.1007/bf00287096](https://doi.org/10.1007/bf00287096)
+- van der Schaft, (2000)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- van der Schaft, Conservation laws and open systems on higherdimensional networks. (2008)
+- Smoller, (1994)
+- Taylor, (1996)
+- Temam, (1997)
+- Turing, The chemical basis of morphogenesis. Philosophical trasactions of Royal Society of London, Series B, Biological Sciences (1952)
 

@@ -29,7 +29,7 @@ Distributed Port-Hamiltonian systems; passivity based control; wave propagation
 - **Pages:** 235--240
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.245](https://doi.org/10.1016/j.ifacol.2015.10.245)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,17 +49,19 @@ Distributed Port-Hamiltonian systems; passivity based control; wave propagation
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-port-hamiltonian-formulation-of-a-2d-boundary-controlled-acoustic-system.bib)
+ 
 ## References
-- Collet, M., David, P., and Berthillier, M. (2009). Active acoustical impedance using distributed electrodynamical transducers. The Journal of the Acoustical Society of America, 125(2), 882 - 894. -- [10.1121/1.3026329](https://doi.org/10.1121/1.3026329)
-- Collet, M., Ouisse, M., Ichchou, M., and Ohayon, R. (2011). Semi-active optimization of 2d waves dispersion into shunted piezocomposite systems for controlling acoustic interaction. In ASME 2011 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, 79 - 87. American Society of Mechanical Engineers. -- [10.1115/SMASIS2011-5018](https://doi.org/10.1115/SMASIS2011-5018)
-- David, P., Collet, M., and Cote, J.M. (2010). Experimental implementation of acoustic impedance control by a 2d network of distributed smart cells. Smart Materials and Structures, 19(3), 035 - 028. -- [10.1088/0964-1726/19/3/035028](https://doi.org/10.1088/0964-1726/19/3/035028)
+- Collet, M., David, P. & Berthillier, M. Active acoustical impedance using distributed electrodynamical transducers. The Journal of the Acoustical Society of America vol. 125 882–894 (2009) -- [10.1121/1.3026329](https://doi.org/10.1121/1.3026329)
+- Collet, M., Ouisse, M., Ichchou, M. & Ohayon, R. Semi-Active Optimization of 2D Wave’s Dispersion Into Shunted Piezocomposite Systems for Controlling Acoustic Interaction. ASME 2011 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, Volume 1 79–87 (2011) doi:10.1115/smasis2011-5018 -- [10.1115/smasis2011-5018](https://doi.org/10.1115/smasis2011-5018)
+- David, P., Collet, M. & Cote, J.-M. Experimental implementation of acoustic impedance control by a 2D network of distributed smart cells. Smart Materials and Structures vol. 19 035028 (2010) -- [10.1088/0964-1726/19/3/035028](https://doi.org/10.1088/0964-1726/19/3/035028)
 - Kinsler, L.E., Frey, A.R., Coppens, A.B., and Sanders, J.V. (1999). Fundamentals of acoustics. Fundamentals of Acoustics, 4th Edition, by Lawrence E. Kinsler, Austin R. Frey, Alan B. Coppens, James V. Sanders, pp. 560. ISBN 0-471-84789-5. Wiley-VCH, December 1999., 1.
-- [Le Gorrec, Y., Zwart, H., and Maschke, B. (2005). Dirac structures and boundary control systems associated with skew-symmetric differential operators. SIAM Journal on Control and Optimization, 44(5), 1864-1892.](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Macchelli, A. and Maschke, B.M. (2009). Modeling and Control of Complex Physical Systems - The Port-Hamiltonian Approach, chapter Infinite-Dimensional Port-Hamiltonian Systems, 211-271. Springer-Verlag, Berlin, Germany.
 - Maschke, B. and van der Schaft, A. (1992). Port controlled Hamiltonian systems: modeling origins and system the-oretic properties. In Proceedings of the 3rd IFAC Symposium on Nonlinear Control Systems, NOLCOS'92, 282- 288. Bordeaux, France.
-- [Ortega, R., van der Schaft, A., Maschke, B., and Escobar, G. (2002). Interconnection and damping assignment passivity based control of port-controlled Hamiltonian systems. Automatica, 38, 585-596.](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [Ramirez, H., Le Gorrec, Y., Macchelli, A., and Zwart, H. (2014). Exponential stabilization of boundary controlled port-Hamiltonian systems with dynamic feedback. Automatic Control, IEEE Transactions on, 59(10), 2849- 2855.](exponential-stabilization-of-boundary-controlled-port-hamiltonian-systems-with-dynamic-feedback) -- [10.1109/TAC.2014.2315754](https://doi.org/10.1109/TAC.2014.2315754)
-- van der Schaft, A.J. (2000). L2-Gain and Passivity Techniques in Nonlinear Control. -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [van der Schaft, A. and Maschke, B. (2002). Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics, 42(12), 166 - 194.](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- [Ramirez, H., Le Gorrec, Y., Macchelli, A. & Zwart, H. Exponential Stabilization of Boundary Controlled Port-Hamiltonian Systems With Dynamic Feedback. IEEE Transactions on Automatic Control vol. 59 2849–2855 (2014)](exponential-stabilization-of-boundary-controlled-port-hamiltonian-systems-with-dynamic-feedback) -- [10.1109/tac.2014.2315754](https://doi.org/10.1109/tac.2014.2315754)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Villegas, J.A. (2007). A port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, Universiteit Twente.
 

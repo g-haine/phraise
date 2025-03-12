@@ -41,13 +41,16 @@ Mechanical ventilation is a life-saving treatment for critically ill patients wh
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-novel-mixed-finite-infinite-dimensional-port-hamiltonian-model-of-a-mechanical-ventilator.bib)
+ 
 ## References
 - Rubio, J. et al. COVOX: Providing oxygen during the COVID-19 health emergency. HardwareX vol. 13 e00383 (2023) -- [10.1016/j.ohx.2022.e00383](https://doi.org/10.1016/j.ohx.2022.e00383)
 - HICKLING, K. G. The Pressure–Volume Curve Is Greatly Modified  by Recruitment. American Journal of Respiratory and Critical Care Medicine vol. 158 194–202 (1998) -- [10.1164/ajrccm.158.1.9708049](https://doi.org/10.1164/ajrccm.158.1.9708049)
-- Bates, J.H.T. (2009). Lung Mechanics: An Inverse Modeling Approach, Cambridge University Press. -- [10.1017/CBO9780511627156](https://doi.org/10.1017/CBO9780511627156)
-- Maury, B. (2013). The Respiratory System in Equations, Springer. [1st ed.]. MS&A—Modeling, Simulation and Applications. -- [10.1007/978-88-470-5214-7](https://doi.org/10.1007/978-88-470-5214-7)
+- Bates, J. H. T. Lung Mechanics. (2009) doi:10.1017/cbo9780511627156 -- [10.1017/cbo9780511627156](https://doi.org/10.1017/cbo9780511627156)
+- Maury, B. The Respiratory System in Equations. (Springer Milan, 2013). doi:10.1007/978-88-470-5214-7 -- [10.1007/978-88-470-5214-7](https://doi.org/10.1007/978-88-470-5214-7)
 - Burrowes, K. S., Hunter, P. J. & Tawhai, M. H. Anatomically based finite element models of the human pulmonary arterial and venous trees including supernumerary vessels. Journal of Applied Physiology vol. 99 731–738 (2005) -- [10.1152/japplphysiol.01033.2004](https://doi.org/10.1152/japplphysiol.01033.2004)
 - Tawhai, M. H. & Bates, J. H. T. Multi-scale lung modeling. Journal of Applied Physiology vol. 110 1466–1472 (2011) -- [10.1152/japplphysiol.01289.2010](https://doi.org/10.1152/japplphysiol.01289.2010)
+- Berger, Understanding the Interdependence Between Parenchymal Deformation and Ventilation In Obstructive Lung Disease. B30. Dynamics of Airway Narrowing in Asthma: Still Misunderstood? (2014)
 - Roth, C. J., Yoshihara, L., Ismail, M. & Wall, W. A. Computational modelling of the respiratory system: Discussion of coupled modelling approaches and two recent extensions. Computer Methods in Applied Mechanics and Engineering vol. 314 473–493 (2017) -- [10.1016/j.cma.2016.08.010](https://doi.org/10.1016/j.cma.2016.08.010)
 - Tran, A. S., Thinh Ngo, H. Q., Dong, V. K. & Vo, A. H. Design, Control, Modeling, and Simulation of Mechanical Ventilator for Respiratory Support. Mathematical Problems in Engineering vol. 2021 1–15 (2021) -- [10.1155/2021/2499804](https://doi.org/10.1155/2021/2499804)
 - El-Hadj, A. et al. Design and simulation of mechanical ventilators. Chaos, Solitons &amp; Fractals vol. 150 111169 (2021) -- [10.1016/j.chaos.2021.111169](https://doi.org/10.1016/j.chaos.2021.111169)
@@ -59,14 +62,12 @@ Mechanical ventilation is a life-saving treatment for critically ill patients wh
 - Giri, J., Kshirsagar, N. & Wanjari, A. Design and simulation of AI-based low-cost mechanical ventilator: An approach. Materials Today: Proceedings vol. 47 5886–5891 (2021) -- [10.1016/j.matpr.2021.04.369](https://doi.org/10.1016/j.matpr.2021.04.369)
 - Hannon, D. M. et al. Modeling Mechanical Ventilation In Silico—Potential and Pitfalls. Seminars in Respiratory and Critical Care Medicine vol. 43 335–345 (2022) -- [10.1055/s-0042-1744446](https://doi.org/10.1055/s-0042-1744446)
 - Mehedi, I. M., Shah, H. S. M., Al-Saggaf, U. M., Mansouri, R. & Bettayeb, M. Fuzzy PID Control for Respiratory Systems. Journal of Healthcare Engineering vol. 2021 1–6 (2021) -- [10.1155/2021/7118711](https://doi.org/10.1155/2021/7118711)
-- [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica vol. 32 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/S0962492922000083](https://doi.org/10.1017/S0962492922000083)
+- [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica vol. 32 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)
 - [van der Schaft, A. Port-Hamiltonian Modeling for Control. Annual Review of Control, Robotics, and Autonomous Systems vol. 3 393–416 (2020)](port-hamiltonian-modeling-for-control) -- [10.1146/annurev-control-081219-092250](https://doi.org/10.1146/annurev-control-081219-092250)
-- Villegas, J.A. (2007). A Port-Hamiltonian Approach to Distributed Parameter Systems. [Ph.D. Thesis, Department of Applied Mathematics, Faculty EWI, Universiteit Twente].
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- Anderson, J. (1995). Computational Fluid Dynamics: The Basics with Applications, McGraw-Hill Inc.. McGraw-Hill International Editions: Mechanical Engineering.
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Kamiński, Z. A simplified lumped parameter model for pneumatic tubes. Mathematical and Computer Modelling of Dynamical Systems vol. 23 523–535 (2017) -- [10.1080/13873954.2017.1280512](https://doi.org/10.1080/13873954.2017.1280512)
 - Albanese, A., Cheng, L., Ursino, M. & Chbat, N. W. An integrated mathematical model of the human cardiopulmonary system: model development. American Journal of Physiology-Heart and Circulatory Physiology vol. 310 H899–H921 (2016) -- [10.1152/ajpheart.00230.2014](https://doi.org/10.1152/ajpheart.00230.2014)
-- Bondy, J.A., and Murty, U.S.R. (1976). Graph Theory with Applications, The Macmillan Press Ltd. -- [10.1007/978-1-349-03521-2](https://doi.org/10.1007/978-1-349-03521-2)
+- Bondy, J. A. & Murty, U. S. R. Graph Theory with Applications. (Macmillan Education UK, 1976). doi:10.1007/978-1-349-03521-2 -- [10.1007/978-1-349-03521-2](https://doi.org/10.1007/978-1-349-03521-2)
 - Taghizadeh, M., Ghaffari, A. & Najafi, F. Modeling and identification of a solenoid valve for PWM control applications. Comptes Rendus. Mécanique vol. 337 131–140 (2009) -- [10.1016/j.crme.2009.03.009](https://doi.org/10.1016/j.crme.2009.03.009)
 

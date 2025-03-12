@@ -31,7 +31,7 @@ Stability analysis; inverter-based renewable resources; port-Hamiltonian systems
 - **Pages:** 2293--2298
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.1196](https://doi.org/10.1016/j.ifacol.2023.10.1196)
-- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,17 +51,22 @@ Stability analysis; inverter-based renewable resources; port-Hamiltonian systems
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/stability-analysis-of-multi-converter-power-systems-with-angle-feedback.bib)
+ 
 ## References
-- Chen, M. et al. Generalized Multivariable Grid-Forming Control Design for Power Converters. IEEE Transactions on Smart Grid vol. 13 2873–2885 (2022) -- [10.1109/TSG.2022.3161608](https://doi.org/10.1109/TSG.2022.3161608)
-- D’Arco, S. & Suul, J. A. Equivalence of Virtual Synchronous Machines and Frequency-Droops for Converter-Based MicroGrids. IEEE Transactions on Smart Grid vol. 5 394–395 (2014) -- [10.1109/TSG.2013.2288000](https://doi.org/10.1109/TSG.2013.2288000)
-- Dorfler, F. & Bullo, F. Kron Reduction of Graphs With Applications to Electrical Networks. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 60 150–163 (2013) -- [10.1109/TCSI.2012.2215780](https://doi.org/10.1109/TCSI.2012.2215780)
-- Dragicevic, T., Vazquez, S. & Wheeler, P. Advanced Control Methods for Power Converters in DG Systems and Microgrids. IEEE Transactions on Industrial Electronics vol. 68 5847–5862 (2021) -- [10.1109/TIE.2020.2994857](https://doi.org/10.1109/TIE.2020.2994857)
+- Maruf, Small-signal voltage stability analysis for droop controlled inverter-based microgrids: an algebraic graph theory perspective. (2021)
+- Chen, M. et al. Generalized Multivariable Grid-Forming Control Design for Power Converters. IEEE Transactions on Smart Grid vol. 13 2873–2885 (2022) -- [10.1109/tsg.2022.3161608](https://doi.org/10.1109/tsg.2022.3161608)
+- D’Arco, S. & Suul, J. A. Equivalence of Virtual Synchronous Machines and Frequency-Droops for Converter-Based MicroGrids. IEEE Transactions on Smart Grid vol. 5 394–395 (2014) -- [10.1109/tsg.2013.2288000](https://doi.org/10.1109/tsg.2013.2288000)
+- Dorfler, F. & Bullo, F. Kron Reduction of Graphs With Applications to Electrical Networks. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 60 150–163 (2013) -- [10.1109/tcsi.2012.2215780](https://doi.org/10.1109/tcsi.2012.2215780)
+- Dragicevic, T., Vazquez, S. & Wheeler, P. Advanced Control Methods for Power Converters in DG Systems and Microgrids. IEEE Transactions on Industrial Electronics vol. 68 5847–5862 (2021) -- [10.1109/tie.2020.2994857](https://doi.org/10.1109/tie.2020.2994857)
 - Eberlein, S. & Rudion, K. Small-signal stability modelling, sensitivity analysis and optimization of droop controlled inverters in LV microgrids. International Journal of Electrical Power &amp; Energy Systems vol. 125 106404 (2021) -- [10.1016/j.ijepes.2020.106404](https://doi.org/10.1016/j.ijepes.2020.106404)
-- Lasseter, R. H., Chen, Z. & Pattabiraman, D. Grid-Forming Inverters: A Critical Asset for the Power Grid. IEEE Journal of Emerging and Selected Topics in Power Electronics vol. 8 925–935 (2020) -- [10.1109/JESTPE.2019.2959271](https://doi.org/10.1109/JESTPE.2019.2959271)
+- Lasseter, R. H., Chen, Z. & Pattabiraman, D. Grid-Forming Inverters: A Critical Asset for the Power Grid. IEEE Journal of Emerging and Selected Topics in Power Electronics vol. 8 925–935 (2020) -- [10.1109/jestpe.2019.2959271](https://doi.org/10.1109/jestpe.2019.2959271)
+- Milano, Foundations and challenges of low-inertia systems (invited paper). (2018)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
 - [Schiffer, J., Ortega, R., Astolfi, A., Raisch, J. & Sezi, T. Conditions for stability of droop-controlled inverter-based microgrids. Automatica vol. 50 2457–2469 (2014)](conditions-for-stability-of-droop-controlled-inverter-based-microgrids) -- [10.1016/j.automatica.2014.08.009](https://doi.org/10.1016/j.automatica.2014.08.009)
-- Shivakumar, P. N., Williams, J. J., Ye, Q. & Marinov, C. A. On Two-Sided Bounds Related to Weakly Diagonally Dominant M-Matrices with Application to Digital Circuit Dynamics. SIAM Journal on Matrix Analysis and Applications vol. 17 298–312 (1996) -- [10.1137/S0895479894276370](https://doi.org/10.1137/S0895479894276370)
+- Shivakumar, P. N., Williams, J. J., Ye, Q. & Marinov, C. A. On Two-Sided Bounds Related to Weakly Diagonally Dominant M-Matrices with Application to Digital Circuit Dynamics. SIAM Journal on Matrix Analysis and Applications vol. 17 298–312 (1996) -- [10.1137/s0895479894276370](https://doi.org/10.1137/s0895479894276370)
 - Simpson-Porco, J. W., Dörfler, F. & Bullo, F. Synchronization and power sharing for droop-controlled inverters in islanded microgrids. Automatica vol. 49 2603–2611 (2013) -- [10.1016/j.automatica.2013.05.018](https://doi.org/10.1016/j.automatica.2013.05.018)
-- Sun, Y. et al. New Perspectives on Droop Control in AC Microgrid. IEEE Transactions on Industrial Electronics vol. 64 5741–5745 (2017) -- [10.1109/TIE.2017.2677328](https://doi.org/10.1109/TIE.2017.2677328)
+- Sun, Y. et al. New Perspectives on Droop Control in AC Microgrid. IEEE Transactions on Industrial Electronics vol. 64 5741–5745 (2017) -- [10.1109/tie.2017.2677328](https://doi.org/10.1109/tie.2017.2677328)
 - Tielens, P. & Van Hertem, D. The relevance of inertia in power systems. Renewable and Sustainable Energy Reviews vol. 55 999–1009 (2016) -- [10.1016/j.rser.2015.11.016](https://doi.org/10.1016/j.rser.2015.11.016)
+- Vittal, (2019)
 

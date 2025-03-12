@@ -41,3 +41,5 @@ The anisotropic and heterogeneous N-dimensional wave equation, controlled and ob
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/numerical-analysis-of-a-structure-preserving-space-discretization-for-an-anisotropic-and-heterogeneous-boundary-controlled-n-dimensional-wave-equation-as-a-port-hamiltonian-system.bib)
+ 

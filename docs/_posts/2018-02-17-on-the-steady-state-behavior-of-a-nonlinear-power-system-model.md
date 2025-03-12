@@ -47,17 +47,20 @@ Power system dynamics; Steady-state behavior; Port-Hamiltonian systems
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-the-steady-state-behavior-of-a-nonlinear-power-system-model.bib)
+ 
 ## References
-- Barabanov, N., Schiffer, J., Ortega, R. & Efimov, D. Conditions for Almost Global Attractivity of a Synchronous Generator Connected to an Infinite Bus. IEEE Transactions on Automatic Control vol. 62 4905–4916 (2017) -- [10.1109/TAC.2017.2671026](https://doi.org/10.1109/TAC.2017.2671026)
-- Caliskan, S. Y. & Tabuada, P. Compositional Transient Stability Analysis of Multimachine Power Networks. IEEE Transactions on Control of Network Systems vol. 1 4–14 (2014) -- [10.1109/TCNS.2014.2304868](https://doi.org/10.1109/TCNS.2014.2304868)
-- Caliskan, S. Y., & Tabuada, P. (2015). Uses and abuses of the swing equation model. In IEEE conference on decision and control (pp. 6662–6667). -- [10.1109/CDC.2015.7403268](https://doi.org/10.1109/CDC.2015.7403268)
-- Caliskan, S. Y. & Tabuada, P. Correction to “Compositional Transient Stability Analysis of Multimachine Power Networks”. IEEE Transactions on Control of Network Systems vol. 4 676–677 (2017) -- [10.1109/TCNS.2016.2524986](https://doi.org/10.1109/TCNS.2016.2524986)
-- Dib, W., Barabanov, A. E., Ortega, R. & Lamnabhi-Lagarrigue, F. An Explicit Solution of the Power Balance Equations of Structure Preserving Power System Models. IEEE Transactions on Power Systems vol. 24 759–765 (2009) -- [10.1109/TPWRS.2008.2012191](https://doi.org/10.1109/TPWRS.2008.2012191)
+- Barabanov, N., Schiffer, J., Ortega, R. & Efimov, D. Conditions for Almost Global Attractivity of a Synchronous Generator Connected to an Infinite Bus. IEEE Transactions on Automatic Control vol. 62 4905–4916 (2017) -- [10.1109/tac.2017.2671026](https://doi.org/10.1109/tac.2017.2671026)
+- Caliskan, S. Y. & Tabuada, P. Compositional Transient Stability Analysis of Multimachine Power Networks. IEEE Transactions on Control of Network Systems vol. 1 4–14 (2014) -- [10.1109/tcns.2014.2304868](https://doi.org/10.1109/tcns.2014.2304868)
+- Caliskan, S. Y. & Tabuada, P. Uses and abuses of the swing equation model. 2015 54th IEEE Conference on Decision and Control (CDC) 6662–6667 (2015) doi:10.1109/cdc.2015.7403268 -- [10.1109/cdc.2015.7403268](https://doi.org/10.1109/cdc.2015.7403268)
+- Caliskan, S. Y. & Tabuada, P. Correction to “Compositional Transient Stability Analysis of Multimachine Power Networks”. IEEE Transactions on Control of Network Systems vol. 4 676–677 (2017) -- [10.1109/tcns.2016.2524986](https://doi.org/10.1109/tcns.2016.2524986)
+- Clarke, (1943)
+- Dib, W., Barabanov, A. E., Ortega, R. & Lamnabhi-Lagarrigue, F. An Explicit Solution of the Power Balance Equations of Structure Preserving Power System Models. IEEE Transactions on Power Systems vol. 24 759–765 (2009) -- [10.1109/tpwrs.2008.2012191](https://doi.org/10.1109/tpwrs.2008.2012191)
 - [Fiaz, S., Zonetti, D., Ortega, R., Scherpen, J. M. A. & van der Schaft, A. J. A port-Hamiltonian approach to power network modeling and analysis. European Journal of Control vol. 19 477–485 (2013)](a-port-hamiltonian-approach-to-power-network-modeling-and-analysis) -- [10.1016/j.ejcon.2013.09.002](https://doi.org/10.1016/j.ejcon.2013.09.002)
-- Groß, D., & Dörfler, F. (2017). On the steady-state behavior of low-inertia power systems. In IFAC world congress (pp. 11222–11228).
-- Jouini, T., Arghir, C., & Dörfler, F. (2017). Grid-forming control for power converters based on matching of synchronous machines, submitted for publication, arXiv:1706.09495.
-- Monshizadeh, P., De Persis, C., Monshizadeh, N., & van der Schaft, A. (2016). Nonlinear analysis of an improved swing equation. In IEEE conference on decision and control (pp. 4116–4121). -- [10.1109/CDC.2016.7798893](https://doi.org/10.1109/CDC.2016.7798893)
-- Natarajan, V., & Weiss, G. (2014). Almost global asymptotic stability of a constant field current synchronous machine connected to an infinite bus. In IEEE conference on decision and control (pp. 3272–3279). -- [10.1109/CDC.2014.7039895](https://doi.org/10.1109/CDC.2014.7039895)
-- Stegink, T., Persis, C. D., & van der Schaft, A. (2016). Optimal power dispatch in networks of high-dimensional models of synchronous machines. In IEEE conference on decision and control (pp. 4110–4115). -- [10.1109/CDC.2016.7798892](https://doi.org/10.1109/CDC.2016.7798892)
+- Kundur, (1994)
+- Monshizadeh, P., De Persis, C., Monshizadeh, N. & van der Schaft, A. J. Nonlinear analysis of an improved swing equation. 2016 IEEE 55th Conference on Decision and Control (CDC) 4116–4121 (2016) doi:10.1109/cdc.2016.7798893 -- [10.1109/cdc.2016.7798893](https://doi.org/10.1109/cdc.2016.7798893)
+- Natarajan, V. & Weiss, G. Almost global asymptotic stability of a constant field current synchronous machine connected to an infinite bus. 53rd IEEE Conference on Decision and Control 3272–3279 (2014) doi:10.1109/cdc.2014.7039895 -- [10.1109/cdc.2014.7039895](https://doi.org/10.1109/cdc.2014.7039895)
+- Sauer, (1998)
+- Stegink, T., De Persis, C. & van der Schaft, A. Optimal power dispatch in networks of high-dimensional models of synchronous machines. 2016 IEEE 55th Conference on Decision and Control (CDC) 4110–4115 (2016) doi:10.1109/cdc.2016.7798892 -- [10.1109/cdc.2016.7798892](https://doi.org/10.1109/cdc.2016.7798892)
 - [van der Schaft, A. & Stegink, T. Perspectives in modeling for control of power networks. Annual Reviews in Control vol. 41 119–132 (2016)](perspectives-in-modeling-for-control-of-power-networks) -- [10.1016/j.arcontrol.2016.04.017](https://doi.org/10.1016/j.arcontrol.2016.04.017)
 

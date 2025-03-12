@@ -13,6 +13,9 @@ if [[ ! -f "$BIBLIO_FILE" ]]; then
     exit 1
 fi
 
+# Extraction des auteurs sous "Prénom Nom" exact depuis `_data/biblio.json`
+AUTHORS=$(jq -r '.[] | .authors[]? | select(.family) | "\(.given) \(.family)"' "$BIBLIO_FILE")
+
 if [[ ! -f "$MAPPINGS_FILE" ]]; then
     echo "Erreur : fichier $MAPPINGS_FILE introuvable."
     exit 1
@@ -22,8 +25,8 @@ slugify () {
     echo "$1" |
     iconv -t ascii//TRANSLIT |
     tr '[:upper:]' '[:lower:]' |
-    tr -cs 'a-z0-9' '_' |
-    sed -E 's/^_+|_+$//g'
+    tr -cs 'a-z0-9' '-' |
+    sed -E 's/^-+|-+$//g'
 }
 
 declare -A author_to_slug
@@ -41,11 +44,8 @@ done < <(jq -c 'to_entries[]' "$MAPPINGS_FILE")
 echo "Vérification des auteurs dans _data/author_mappings.json..."
 echo ""
 
-# Extraction des auteurs sous "Prénom Nom" exact depuis `_data/biblio.json`
-AUTHORS=$(jq -r '.[] | .authors[]? | select(.family) | "\(.given) \(.family)"' "$BIBLIO_FILE")
-
 sorted_pairs=()
-k=$(( 0 ))
+k=0
 # Vérification des correspondances
 while IFS= read -r author; do
     found=false
@@ -78,7 +78,7 @@ while IFS= read -r author; do
         to_add="  \"$slug\": [ \"$author\" ]"
         echo "Not found: $author"
         sorted_pairs+=("$normalized_last_name	$to_add")  # Tabulation pour séparer proprement
-        k=$(( k+1 ))
+        (( k+=1 ))
     fi
 done <<< "$AUTHORS"
 

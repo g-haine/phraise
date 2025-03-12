@@ -21,7 +21,7 @@ This paper presents a unified controller design method for \\( H^2 \\) optimal c
 - **Issue:** 12
 - **Pages:** 6575--6581
 - **Publisher:** Institute of Electrical and Electronics Engineers (IEEE)
-- **DOI:** [10.1109/TAC.2017.2712905](https://doi.org/10.1109/TAC.2017.2712905)
+- **DOI:** [10.1109/tac.2017.2712905](https://doi.org/10.1109/tac.2017.2712905)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -41,19 +41,27 @@ This paper presents a unified controller design method for \\( H^2 \\) optimal c
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/riemannian-optimal-control-and-model-matching-of-linear-port-hamiltonian-systems.bib)
+ 
 ## References
-- Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters vol. 45 371–385 (2002) -- [10.1016/S0167-6911(01)00195-5](https://doi.org/10.1016/S0167-6911(01)00195-5)
+- Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters vol. 45 371–385 (2002) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
 - Campos-Delgado, D. U. & Zhou, K. H/sub ∞/ strong stabilization. IEEE Transactions on Automatic Control vol. 46 1968–1972 (2001) -- [10.1109/9.975502](https://doi.org/10.1109/9.975502)
 - Youla, D. C., Bongiorno, J. J., Jr. & Lu, C. N. Single-loop feedback-stabilization of linear multivariable dynamical plants. Automatica vol. 10 159–173 (1974) -- [10.1016/0005-1098(74)90021-1](https://doi.org/10.1016/0005-1098(74)90021-1)
 - Pennec, X., Fillard, P. & Ayache, N. A Riemannian Framework for Tensor Computing. International Journal of Computer Vision vol. 66 41–66 (2006) -- [10.1007/s11263-005-3222-z](https://doi.org/10.1007/s11263-005-3222-z)
+- sato, Structure preserving $H^2$ optimal model reduction based on Riemannian trust-region method. IEEE Trans Autom Control (0)
+- absil, Optimization Algorithms on Matrix Manifolds (2009)
+- boumal, Manopt, a matlab toolbox for optimization on manifolds.. J Mach Learn Res (2014)
 - [Koopman, J., Jeltsema, D. & Verhaegen, M. Port-Hamiltonian description and analysis of the LuGre friction model. Simulation Modelling Practice and Theory vol. 19 959–968 (2011)](port-hamiltonian-description-and-analysis-of-the-lugre-friction-model) -- [10.1016/j.simpat.2010.11.008](https://doi.org/10.1016/j.simpat.2010.11.008)
-- [van der Schaft, A. J. & Polyuga, R. V. Structure-preserving model reduction of complex physical systems. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 4322–4327 (2009) doi:10.1109/cdc.2009.5399669](structure-preserving-model-reduction-of-complex-physical-systems) -- [10.1109/CDC.2009.5399669](https://doi.org/10.1109/CDC.2009.5399669)
+- kotyczka, Discretized models for networks of distributed parameter port-hamiltonian systems. Proceedings of the 8th International Workshop on Multidimensional Systems (2013)
+- [van der Schaft, A. J. & Polyuga, R. V. Structure-preserving model reduction of complex physical systems. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 4322–4327 (2009) doi:10.1109/cdc.2009.5399669](structure-preserving-model-reduction-of-complex-physical-systems) -- [10.1109/cdc.2009.5399669](https://doi.org/10.1109/cdc.2009.5399669)
 - [Harkort, C. & Deutscher, J. Stability and passivity preserving Petrov–Galerkin approximation of linear infinite-dimensional systems. Automatica vol. 48 1347–1352 (2012)](stability-and-passivity-preserving-petrov-galerkin-approximation-of-linear-infinite-dimensional-systems) -- [10.1016/j.automatica.2012.04.010](https://doi.org/10.1016/j.automatica.2012.04.010)
+- villegas, A Port-Hamiltonian Approach to Distributed Parameter Systems (2007)
 - [Dörfler, F., Johnsen, J. K. & Allgöwer, F. An introduction to interconnection and damping assignment passivity-based control in process engineering. Journal of Process Control vol. 19 1413–1426 (2009)](an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering) -- [10.1016/j.jprocont.2009.07.015](https://doi.org/10.1016/j.jprocont.2009.07.015)
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
-- [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-92) -- [10.1016/S1474-6670(17)52308-3](https://doi.org/10.1016/S1474-6670(17)52308-3)
+- [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties) -- [10.1016/s1474-6670(17)52308-3](https://doi.org/10.1016/s1474-6670(17)52308-3)
+- van der schaft, L2-Gain and Passivity Techniques in Nonlinear Control (2012)
 - Dullerud, G. E. & Paganini, F. A Course in Robust Control Theory. Texts in Applied Mathematics (Springer New York, 2000). doi:10.1007/978-1-4757-3290-0 -- [10.1007/978-1-4757-3290-0](https://doi.org/10.1007/978-1-4757-3290-0)
 

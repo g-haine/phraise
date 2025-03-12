@@ -41,9 +41,21 @@ We present results on numerical integrators that exactly preserve momentum maps 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/lie-poisson-hamilton-jacobi-theory-and-lie-poisson-integrators.bib)
+ 
 ## References
+- DeVogelaére, (1956)
+- Channell, Symplectic integration algorithms. Los Alamos National Laboratory Report AT-6: ATN-83-9 (1983)
+- Feng Kang, J. Comput. Math. (1986)
+- Channell, (1988)
+- Abraham, (1978)
+- Ge Zhong, (1986)
 - Chorin, A. J., Hughes, T. J. R., McCracken, M. F. & Marsden, J. E. Product formulas and numerical algorithms. Communications on Pure and Applied Mathematics vol. 31 205–256 (1978) -- [10.1002/cpa.3160310205](https://doi.org/10.1002/cpa.3160310205)
-- Xie Zhi-Yun, Conservative numerical schemes for hamiltonian systems, J. Comput. Phys., to be published.
+- Stofer, Some geometric and numerical methods for perturbed integrable systems. Thesis (1987)
+- Greenspan, (1974)
+- J. Comput. Phys. (1984)
+- Ge Zhong, (1988)
+- Marsden, Atti Accad. Sci. Torino (1983)
 - Lewis, D., Marsden, J., Montgomery, R. & Ratiu, T. The Hamiltonian structure for dynamic free boundary problems. Physica D: Nonlinear Phenomena vol. 18 391–404 (1986) -- [10.1016/0167-2789(86)90207-1](https://doi.org/10.1016/0167-2789(86)90207-1)
 - Marsden, J. & Weinstein, A. Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids. Physica D: Nonlinear Phenomena vol. 7 305–323 (1983) -- [10.1016/0167-2789(83)90134-3](https://doi.org/10.1016/0167-2789(83)90134-3)
 

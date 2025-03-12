@@ -41,21 +41,28 @@ In this paper we present a dynamic model of marine vehicles in both body-fixed a
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/trajectory-tracking-passivity-based-control-for-marine-vehicles-subject-to-disturbances.bib)
+ 
 ## References
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- T.I. Fossen, S.P. Berge, Nonlinear vectorial backstepping design for global exponential tracking of marine vessels in the presence of actuator dynamics, in: IEEE Conference on Decission and Control, San Diego, 1997, pp. 4237–4242. -- [10.1109/CDC.1997.649499](https://doi.org/10.1109/CDC.1997.649499)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- van der Schaft, (2000)
+- Fossen, T. I. & Berge, S. P. Nonlinear vectorial backstepping design for global exponential tracking of marine vessels in the presence of actuator dynamics. Proceedings of the 36th IEEE Conference on Decision and Control vol. 5 4237–4242 -- [10.1109/cdc.1997.649499](https://doi.org/10.1109/cdc.1997.649499)
+- Fossen, (2011)
+- Ortega, (1998)
 - Sørensen, A. J. & Egeland, O. Design of ride control system for surface effect ships using dissipative control. Automatica vol. 31 183–199 (1995) -- [10.1016/0005-1098(94)00090-6](https://doi.org/10.1016/0005-1098(94)00090-6)
-- A. Woolsey, C. & E. Leonard, N. Stabilizing underwater vehicle motion using internal rotors. Automatica vol. 38 2053–2062 (2002) -- [10.1016/S0005-1098(02)00136-X](https://doi.org/10.1016/S0005-1098(02)00136-X)
-- A. Donaire, T. Perez, Port-Hamiltonian theory of motion control for marine craft, in: 8th IFAC Conference on Control Applications in Marine Systems, Rostock, Germany, 2010. -- [10.3182/20100915-3-DE-3008.00054](https://doi.org/10.3182/20100915-3-DE-3008.00054)
-- A. Donaire, T. Perez, C. Renton, Manoeuvring control of fully-actuated marine vehicles — a port-Hamiltonian system approach to tracking, in: Australian Control Conference, Melbourne, Australia, 2011.
+- A. Woolsey, C. & E. Leonard, N. Stabilizing underwater vehicle motion using internal rotors. Automatica vol. 38 2053–2062 (2002) -- [10.1016/s0005-1098(02)00136-x](https://doi.org/10.1016/s0005-1098(02)00136-x)
+- Donaire, A. & Perez, T. Port-Hamiltonian Theory of Motion Control for Marine Craft. IFAC Proceedings Volumes vol. 43 201–206 (2010) -- [10.3182/20100915-3-de-3008.00054](https://doi.org/10.3182/20100915-3-de-3008.00054)
 - [Donaire, A. & Perez, T. Dynamic positioning of marine craft using a port-Hamiltonian framework. Automatica vol. 48 851–856 (2012)](dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework) -- [10.1016/j.automatica.2012.02.022](https://doi.org/10.1016/j.automatica.2012.02.022)
-- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/S0167-6911(01)00176-1](https://doi.org/10.1016/S0167-6911(01)00176-1)
-- F. Valentinis, A. Donaire, T. Perez, Control of an underactuated-slender-hull unmanned underwater vehicle using port-Hamiltonian theory, in: IEEE/ASME International Conference on Advanced Intelligent Mechatronics, Wollongong, Australia, 2013. -- [10.1109/AIM.2013.6584315](https://doi.org/10.1109/AIM.2013.6584315)
+- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
+- Valentinis, F., Donaire, A. & Perez, T. Control of an underactuated-slender-hull unmanned underwater vehicle using Port-Hamiltonian theory. 2013 IEEE/ASME International Conference on Advanced Intelligent Mechatronics 1546–1551 (2013) doi:10.1109/aim.2013.6584315 -- [10.1109/aim.2013.6584315](https://doi.org/10.1109/aim.2013.6584315)
 - Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems &amp; Control Letters vol. 62 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
-- J.G. Romero, D. Navarro-Alarcon, E. Panteley, Robust globally exponentially stable control for mechanical systems in free/constrained-motion tasks, in: IEEE Conference on Decision and Control, Firenze, Italy, 2013. -- [10.1109/CDC.2013.6760350](https://doi.org/10.1109/CDC.2013.6760350)
-- [A. Donaire, J.G. Romero, T. Perez, Passivity-based trajectory-tracking for marine craft with disturbance rejection, in: IFAC Conference on Manouvring and Control of Marine Craft, Copenhagen, Denmark, 2015.](passivity-based-trajectory-tracking-for-marine-craft-with-disturbance-rejection) -- [10.1016/j.ifacol.2015.10.252](https://doi.org/10.1016/j.ifacol.2015.10.252)
-- [A. van der Schaft, Port-Hamiltonian systems: an introductory survey, in: Proceeding of the International Congress of Mathematicians, vol. 3, 2006, pp. 1339–1365.](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
+- Romero, J. G., Navarro-Alarcon, D. & Panteley, E. Robust globally exponentially stable control for mechanical systems in free/constrained-motion tasks. 52nd IEEE Conference on Decision and Control 3067–3072 (2013) doi:10.1109/cdc.2013.6760350 -- [10.1109/cdc.2013.6760350](https://doi.org/10.1109/cdc.2013.6760350)
+- [Donaire, A., Guadalupe Romero, J. & Perez, T. Passivity-based Trajectory-tracking for Marine Craft with Disturbance Rejection. IFAC-PapersOnLine vol. 48 19–24 (2015)](passivity-based-trajectory-tracking-for-marine-craft-with-disturbance-rejection) -- [10.1016/j.ifacol.2015.10.252](https://doi.org/10.1016/j.ifacol.2015.10.252)
+- Lanczos, (1986)
+- [van der Schaft, A. Port-Hamiltonian systems: an introductory survey. Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006 1339–1365 (2007) doi:10.4171/022-3/65](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
-- A. van der Schaft, Port-Hamiltonian systems: an introductory survey, in: International Congress of Mathematicians, Madrid, Spain, 2006.
-- Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
+- Fossen, Marine control systems. Navigation and Control of Ships, Rigs and Underwater Vehicles, Marine Cybernetics, Trondheim (2002)
+- Greenwood, (2003)
+- Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/tac.2010.2042010](https://doi.org/10.1109/tac.2010.2042010)
+- Khalil, (2000)
 

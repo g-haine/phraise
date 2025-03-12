@@ -30,7 +30,7 @@ port-Hamiltonian systems; conservation laws; structure preserving discretization
 - **Pages:** 6783--6788
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.386](https://doi.org/10.1016/j.ifacol.2023.10.386)
-- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,10 +50,21 @@ port-Hamiltonian systems; conservation laws; structure preserving discretization
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/structure-preserving-discontinuous-galerkin-approximation-of-one-dimensional-port-hamiltonian-systems.bib)
+ 
 ## References
+- Cardoso-Ribeiro, Port-Hamiltonian modeling, discretization and feedback control of a circular water tank. (2019)
 - [Cardoso-Ribeiro, F. L., Matignon, D. & Lefèvre, L. A partitioned finite element method for power-preserving discretization of open systems of conservation laws. IMA Journal of Mathematical Control and Information vol. 38 493–533 (2020)](a-partitioned-finite-element-method-for-power-preserving-discretization-of-open-systems-of-conservation-laws) -- [10.1093/imamci/dnaa038](https://doi.org/10.1093/imamci/dnaa038)
+- Chowdhury, (2018)
+- Duindam, (2009)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
+- Hesthaven, (2008)
+- Jacob, (2012)
+- Kitamura, (2020)
+- Kotyczka, (2019)
+- Logg, (2012)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
 - [Trenchant, V., Hu, W., Ramirez, H. & Gorrec, Y. L. Structure Preserving Finite Differences in Polar Coordinates for Heat and Wave Equations. IFAC-PapersOnLine vol. 51 571–576 (2018)](structure-preserving-finite-differences-in-polar-coordinates-for-heat-and-wave-equations) -- [10.1016/j.ifacol.2018.03.096](https://doi.org/10.1016/j.ifacol.2018.03.096)
 - [Xu, Y., van der Vegt, J. J. W. & Bokhove, O. Discontinuous Hamiltonian Finite Element Method for Linear Hyperbolic Systems. Journal of Scientific Computing vol. 35 241–265 (2008)](discontinuous-hamiltonian-finite-element-method-for-linear-hyperbolic-systems) -- [10.1007/s10915-008-9191-y](https://doi.org/10.1007/s10915-008-9191-y)
+- Zienkiewicz, (2005)
 

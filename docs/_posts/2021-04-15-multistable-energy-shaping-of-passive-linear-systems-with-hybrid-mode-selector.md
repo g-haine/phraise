@@ -32,7 +32,7 @@ linear systems; nonlinear control; port–Hamiltonian systems; hybrid systems; m
 - **Pages:** 9118--9124
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.2151](https://doi.org/10.1016/j.ifacol.2020.12.2151)
-- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}
@@ -52,13 +52,20 @@ linear systems; nonlinear control; port–Hamiltonian systems; hybrid systems; m
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/multistable-energy-shaping-of-passive-linear-systems-with-hybrid-mode-selector.bib)
+ 
 ## References
 - Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Transactions on Automatic Control vol. 36 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
+- Duindam, Alessandro Macchelli, Stefano Strami-gioli, and Herman Bruyninckx. (2009)
 - Efimov, D. Global Lyapunov Analysis of Multistable Nonlinear Systems. SIAM Journal on Control and Optimization vol. 50 3132–3154 (2012) -- [10.1137/090767509](https://doi.org/10.1137/090767509)
-- Goebel, R., Sanfelice, R. G. & Teel, A. R. Hybrid dynamical systems. IEEE Control Systems vol. 29 28–93 (2009) -- [10.1109/MCS.2008.931718](https://doi.org/10.1109/MCS.2008.931718)
-- R. Ortega and I. Mareels. Energy-balancing passivity-based control. In Proceedings of the 2000 American Control Conference. ACC, volume 2,pages vol. 2,1265-1270, June 2000. -- [10.1109/ACC.2000.876703](https://doi.org/10.1109/ACC.2000.876703)
+- Goebel, R., Sanfelice, R. G. & Teel, A. R. Hybrid dynamical systems. IEEE Control Systems vol. 29 28–93 (2009) -- [10.1109/mcs.2008.931718](https://doi.org/10.1109/mcs.2008.931718)
+- Maschke, Port-controlled hamiltonian systems: Modelling origins and systemthe-oretic properties. IFAC Proceedings (1992)
+- Ortega, R. & Mareels, I. Energy-balancing passivity-based control. Proceedings of the 2000 American Control Conference. ACC (IEEE Cat. No.00CH36334) 1265–1270 vol.2 (2000) doi:10.1109/acc.2000.876703 -- [10.1109/acc.2000.876703](https://doi.org/10.1109/acc.2000.876703)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - Pisarchik, A. N. & Feudel, U. Control of multistability. Physics Reports vol. 540 167–218 (2014) -- [10.1016/j.physrep.2014.02.007](https://doi.org/10.1016/j.physrep.2014.02.007)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Secchi, (2007)
+- Sontag, Input to state stability: Basic concepts and results. (2008)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Van Der Schaft, (2000)
 

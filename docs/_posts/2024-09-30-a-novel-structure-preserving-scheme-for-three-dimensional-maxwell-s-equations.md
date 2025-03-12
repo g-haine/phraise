@@ -18,7 +18,7 @@ category: articles
 - **Issue:** 4
 - **Pages:** 788--834
 - **Publisher:** Global Science Press
-- **DOI:** [10.4208/csiam-am.SO-2023-0047](https://doi.org/10.4208/csiam-am.SO-2023-0047)
+- **DOI:** [10.4208/csiam-am.so-2023-0047](https://doi.org/10.4208/csiam-am.so-2023-0047)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -37,4 +37,6 @@ category: articles
 }
 {% endraw %}
 {% endhighlight %}
+ 
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-novel-structure-preserving-scheme-for-three-dimensional-maxwell-s-equations.bib)
  

@@ -6,10 +6,22 @@ permalink: an-improved-riemann-sph-hamiltonian-sph-coupled-solver-for-hydroelast
 year: 2024
 authors: Abbas Khayyer, Hitoshi Gotoh, Yuma Shimizu, Takafumi Gotoh
 category: articles
+tags:
+  - Smoothed particle hydrodynamics
+  - Riemann SPH
+  - Hamiltonian SPH
+  - Fluid-structure interaction
+  - Enhanced schemes
 ---
  
 ## Authors
 [Abbas Khayyer](authors/abbas-khayyer), [Hitoshi Gotoh](authors/hitoshi-gotoh), [Yuma Shimizu](authors/yuma-shimizu), [Takafumi Gotoh](authors/takafumi-gotoh)
+ 
+## Abstract
+The paper presents a novel Lagrangian meshfree computational solver for simulation of hydroelastic fluid-elastic structure interaction (FSI) problems. An explicit Smoothed Particle Hydrodynamics (SPH) method, referred to as Riemann SPH, is adopted as the fluid model, and a SPH method within the Hamiltonian framework, namely Hamiltonian SPH (HSPH), is considered as the structure model. A two-way coupling between fluid and structure models is performed in a consistent manner, resulting in a coupled RSPH-HSPH hydroelastic FSI solver. For enhancement of accuracy and robustness of the proposed FSI solver, four refined schemes are incorporated for the fluid and structure models. These four refined schemes include (i) a novel dissipation limiter in the fluid's continuity equation for enforcing the volume conservation, (ii) a refined reconstruction of the quantities in Riemann SPH in the presence of a potential field, (iii) a modified velocity-divergence error mitigation term in the fluid's momentum equation for enhanced satisfaction of the incompressibility condition, and (iv) a Riemann diffusion term in the structural momentum equation for enhanced stability and robustness. Validations of the proposed FSI solver are carried out through a series of fluid, structure and FSI benchmark tests.
+ 
+## Keywords
+Smoothed particle hydrodynamics; Riemann SPH; Hamiltonian SPH; Fluid-structure interaction; Enhanced schemes
  
 ## Citation
 - **Journal:** Engineering Analysis with Boundary Elements
@@ -37,11 +49,13 @@ category: articles
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/an-improved-riemann-sph-hamiltonian-sph-coupled-solver-for-hydroelastic-fluid-structure-interactions.bib)
+ 
 ## References
 - KOSHIZUKA, S. Current Achievements and Future Perspectives on Particle Simulation Technologies for Fluid Dynamics and Heat Transfer. Journal of Nuclear Science and Technology vol. 48 155–168 (2011) -- [10.1080/18811248.2011.9711690](https://doi.org/10.1080/18811248.2011.9711690)
 - Gotoh, H. & Khayyer, A. On the state-of-the-art of particle methods for coastal and ocean engineering. Coastal Engineering Journal vol. 60 79–103 (2018) -- [10.1080/21664250.2018.1436243](https://doi.org/10.1080/21664250.2018.1436243)
 - Gingold, R. A. & Monaghan, J. J. Smoothed particle hydrodynamics: theory and application to non-spherical stars. Monthly Notices of the Royal Astronomical Society vol. 181 375–389 (1977) -- [10.1093/mnras/181.3.375](https://doi.org/10.1093/mnras/181.3.375)
-- Koshizuka, S. & Oka, Y. Moving-Particle Semi-Implicit Method for Fragmentation of Incompressible Fluid. Nuclear Science and Engineering vol. 123 421–434 (1996) -- [10.13182/NSE96-A24205](https://doi.org/10.13182/NSE96-A24205)
+- Koshizuka, S. & Oka, Y. Moving-Particle Semi-Implicit Method for Fragmentation of Incompressible Fluid. Nuclear Science and Engineering vol. 123 421–434 (1996) -- [10.13182/nse96-a24205](https://doi.org/10.13182/nse96-a24205)
 - Ye, T., Pan, D., Huang, C. & Liu, M. Smoothed particle hydrodynamics (SPH) for complex fluid flows: Recent developments in methodology and applications. Physics of Fluids vol. 31 (2019) -- [10.1063/1.5068697](https://doi.org/10.1063/1.5068697)
 - Lyu, H.-G. et al. SPHydro: Promoting smoothed particle hydrodynamics method toward extensive applications in ocean engineering. Physics of Fluids vol. 35 (2023) -- [10.1063/5.0133782](https://doi.org/10.1063/5.0133782)
 - Luo, M., Khayyer, A. & Lin, P. Particle methods in ocean and coastal engineering. Applied Ocean Research vol. 114 102734 (2021) -- [10.1016/j.apor.2021.102734](https://doi.org/10.1016/j.apor.2021.102734)
@@ -67,9 +81,9 @@ category: articles
 - Liu, M. & Zhang, Z. Smoothed particle hydrodynamics (SPH) for modeling fluid-structure interactions. Science China Physics, Mechanics &amp; Astronomy vol. 62 (2019) -- [10.1007/s11433-018-9357-0](https://doi.org/10.1007/s11433-018-9357-0)
 - Marrone, S. et al. δ-SPH model for simulating violent impact flows. Computer Methods in Applied Mechanics and Engineering vol. 200 1526–1542 (2011) -- [10.1016/j.cma.2010.12.016](https://doi.org/10.1016/j.cma.2010.12.016)
 - Inutsuka, S. Reformulation of Smoothed Particle Hydrodynamics with Riemann Solver. Journal of Computational Physics vol. 179 238–267 (2002) -- [10.1006/jcph.2002.7053](https://doi.org/10.1006/jcph.2002.7053)
-- Shao, S. & Lo, E. Y. M. Incompressible SPH method for simulating Newtonian and non-Newtonian flows with a free surface. Advances in Water Resources vol. 26 787–800 (2003) -- [10.1016/S0309-1708(03)00030-7](https://doi.org/10.1016/S0309-1708(03)00030-7)
+- Shao, S. & Lo, E. Y. M. Incompressible SPH method for simulating Newtonian and non-Newtonian flows with a free surface. Advances in Water Resources vol. 26 787–800 (2003) -- [10.1016/s0309-1708(03)00030-7](https://doi.org/10.1016/s0309-1708(03)00030-7)
 - Rafiee, A. & Thiagarajan, K. P. An SPH projection method for simulating fluid-hypoelastic structure interaction. Computer Methods in Applied Mechanics and Engineering vol. 198 2785–2795 (2009) -- [10.1016/j.cma.2009.04.001](https://doi.org/10.1016/j.cma.2009.04.001)
-- Gray, J. P., Monaghan, J. J. & Swift, R. P. SPH elastic dynamics. Computer Methods in Applied Mechanics and Engineering vol. 190 6641–6662 (2001) -- [10.1016/S0045-7825(01)00254-7](https://doi.org/10.1016/S0045-7825(01)00254-7)
+- Gray, J. P., Monaghan, J. J. & Swift, R. P. SPH elastic dynamics. Computer Methods in Applied Mechanics and Engineering vol. 190 6641–6662 (2001) -- [10.1016/s0045-7825(01)00254-7](https://doi.org/10.1016/s0045-7825(01)00254-7)
 - Bonet, J. & Kulasegaram, S. Alternative Total Lagrangian Formulations for Corrected Smooth Particle Hydrodynamics (CSPH) Methods in Large Strain Dynamic Problems. Revue Européenne des Éléments Finis vol. 11 893–912 (2002) -- [10.3166/reef.11.893-912](https://doi.org/10.3166/reef.11.893-912)
 - [Khayyer, A., Shimizu, Y., Gotoh, H. & Nagashima, K. A coupled incompressible SPH-Hamiltonian SPH solver for hydroelastic FSI corresponding to composite structures. Applied Mathematical Modelling vol. 94 242–271 (2021)](a-coupled-incompressible-sph-hamiltonian-sph-solver-for-hydroelastic-fsi-corresponding-to-composite-structures) -- [10.1016/j.apm.2021.01.011](https://doi.org/10.1016/j.apm.2021.01.011)
 - Rider, W. J. A review of approximate riemann solvers with Godunov’s method in lagrangian coordinates. Computers &amp; Fluids vol. 23 397–413 (1994) -- [10.1016/0045-7930(94)90047-7](https://doi.org/10.1016/0045-7930(94)90047-7)
@@ -80,13 +94,14 @@ category: articles
 - Meng, Z.-F., Wang, P.-P., Zhang, A.-M., Ming, F.-R. & Sun, P.-N. A multiphase SPH model based on Roe’s approximate Riemann solver for hydraulic flows with complex interface. Computer Methods in Applied Mechanics and Engineering vol. 365 112999 (2020) -- [10.1016/j.cma.2020.112999](https://doi.org/10.1016/j.cma.2020.112999)
 - Suzuki, Y. & Koshizuka, S. A Hamiltonian particle method for non‐linear elastodynamics. International Journal for Numerical Methods in Engineering vol. 74 1344–1373 (2007) -- [10.1002/nme.2222](https://doi.org/10.1002/nme.2222)
 - Khayyer, A., Gotoh, H., Shimizu, Y. & Nishijima, Y. A 3D Lagrangian meshfree projection-based solver for hydroelastic Fluid–Structure​ Interactions. Journal of Fluids and Structures vol. 105 103342 (2021) -- [10.1016/j.jfluidstructs.2021.103342](https://doi.org/10.1016/j.jfluidstructs.2021.103342)
+- O'connor, A fluid-structure interaction model for free-surface flows and flexible structures using smoothed particle hydrodynamics on a GPU. J Fluid Struct (2021)
 - Zhan, L., Peng, C., Zhang, B. & Wu, W. A stabilized TL–WC SPH approach with GPU acceleration for three-dimensional fluid–structure interaction. Journal of Fluids and Structures vol. 86 329–353 (2019) -- [10.1016/j.jfluidstructs.2019.02.002](https://doi.org/10.1016/j.jfluidstructs.2019.02.002)
 - Khayyer, A., Shimizu, Y., Gotoh, H. & Hattori, S. Multi-resolution ISPH-SPH for accurate and efficient simulation of hydroelastic fluid-structure interactions in ocean engineering. Ocean Engineering vol. 226 108652 (2021) -- [10.1016/j.oceaneng.2021.108652](https://doi.org/10.1016/j.oceaneng.2021.108652)
-- Belytschko, T., Guo, Y., Kam Liu, W. & Ping Xiao, S. A unified stability analysis of meshless particle methods. International Journal for Numerical Methods in Engineering vol. 48 1359–1400 (2000) -- [10.1002/1097-0207(20000730)48:9<1359::AID-NME829>3.0.CO;2-U](https://doi.org/10.1002/1097-0207(20000730)48:9<1359::AID-NME829>3.0.CO;2-U)
-- Vignjevic, R., Campbell, J. & Libersky, L. A treatment of zero-energy modes in the smoothed particle hydrodynamics method. Computer Methods in Applied Mechanics and Engineering vol. 184 67–85 (2000) -- [10.1016/S0045-7825(99)00441-7](https://doi.org/10.1016/S0045-7825(99)00441-7)
+- Belytschko, T., Guo, Y., Kam Liu, W. & Ping Xiao, S. A unified stability analysis of meshless particle methods. International Journal for Numerical Methods in Engineering vol. 48 1359–1400 (2000) -- [10.1002/1097-0207(20000730)48:9<1359::aid-nme829>3.0.co;2-u](https://doi.org/10.1002/1097-0207(20000730)48:9<1359::aid-nme829>3.0.co;2-u)
+- Vignjevic, R., Campbell, J. & Libersky, L. A treatment of zero-energy modes in the smoothed particle hydrodynamics method. Computer Methods in Applied Mechanics and Engineering vol. 184 67–85 (2000) -- [10.1016/s0045-7825(99)00441-7](https://doi.org/10.1016/s0045-7825(99)00441-7)
 - Monaghan, J. J. & Gingold, R. A. Shock simulation by the particle method SPH. Journal of Computational Physics vol. 52 374–389 (1983) -- [10.1016/0021-9991(83)90036-0](https://doi.org/10.1016/0021-9991(83)90036-0)
 - Tsuruta, N., Khayyer, A. & Gotoh, H. A short note on Dynamic Stabilization of Moving Particle Semi-implicit method. Computers &amp; Fluids vol. 82 158–164 (2013) -- [10.1016/j.compfluid.2013.05.001](https://doi.org/10.1016/j.compfluid.2013.05.001)
-- Wendland, H. Piecewise polynomial, positive definite and compactly supported radial functions of minimal degree. Advances in Computational Mathematics vol. 4 389–396 (1995) -- [10.1007/BF02123482](https://doi.org/10.1007/BF02123482)
+- Wendland, H. Piecewise polynomial, positive definite and compactly supported radial functions of minimal degree. Advances in Computational Mathematics vol. 4 389–396 (1995) -- [10.1007/bf02123482](https://doi.org/10.1007/bf02123482)
 - Antuono, M., Colagrossi, A. & Marrone, S. Numerical diffusive terms in weakly-compressible SPH schemes. Computer Physics Communications vol. 183 2570–2580 (2012) -- [10.1016/j.cpc.2012.07.006](https://doi.org/10.1016/j.cpc.2012.07.006)
 - Monaghan, J. J. Simulating Free Surface Flows with SPH. Journal of Computational Physics vol. 110 399–406 (1994) -- [10.1006/jcph.1994.1034](https://doi.org/10.1006/jcph.1994.1034)
 - Shimizu, Y., Khayyer, A. & Gotoh, H. An SPH-based fully-Lagrangian meshfree implicit FSI solver with high-order discretization terms. Engineering Analysis with Boundary Elements vol. 137 160–181 (2022) -- [10.1016/j.enganabound.2021.10.023](https://doi.org/10.1016/j.enganabound.2021.10.023)
@@ -114,6 +129,7 @@ category: articles
 - Meng, Z.-F., Zhang, A.-M., Yan, J.-L., Wang, P.-P. & Khayyer, A. A hydroelastic fluid–structure interaction solver based on the Riemann-SPH method. Computer Methods in Applied Mechanics and Engineering vol. 390 114522 (2022) -- [10.1016/j.cma.2021.114522](https://doi.org/10.1016/j.cma.2021.114522)
 - Fourey, G., Hermange, C., Le Touzé, D. & Oger, G. An efficient FSI coupling strategy between Smoothed Particle Hydrodynamics and Finite Element methods. Computer Physics Communications vol. 217 66–81 (2017) -- [10.1016/j.cpc.2017.04.005](https://doi.org/10.1016/j.cpc.2017.04.005)
 - Liao, K., Hu, C. & Sueyoshi, M. Free surface flow impacting on an elastic structure: Experiment versus numerical simulation. Applied Ocean Research vol. 50 192–208 (2015) -- [10.1016/j.apor.2015.02.002](https://doi.org/10.1016/j.apor.2015.02.002)
+- Liao, Numerical simulation of free surface flow impacting on an elastic plate. (2014)
 - Idelsohn, S. R., Marti, J., Souto-Iglesias, A. & Oñate, E. Interaction between an elastic structure and free-surface flows: experimental versus numerical comparisons using the PFEM. Computational Mechanics vol. 43 125–132 (2008) -- [10.1007/s00466-008-0245-7](https://doi.org/10.1007/s00466-008-0245-7)
 - Cercos-Pita, J. L., Dalrymple, R. A. & Herault, A. Diffusive terms for the conservation of mass equation in SPH. Applied Mathematical Modelling vol. 40 8722–8736 (2016) -- [10.1016/j.apm.2016.05.016](https://doi.org/10.1016/j.apm.2016.05.016)
 - Ren, Y., Khayyer, A., Lin, P. & Hu, X. Numerical modeling of sloshing flow interaction with an elastic baffle using SPHinXsys. Ocean Engineering vol. 267 113110 (2023) -- [10.1016/j.oceaneng.2022.113110](https://doi.org/10.1016/j.oceaneng.2022.113110)
@@ -121,8 +137,10 @@ category: articles
 - Sun, Y. et al. A conservative particle splitting and merging technique with dynamic pattern and minimum density error. Engineering Analysis with Boundary Elements vol. 150 246–258 (2023) -- [10.1016/j.enganabound.2023.02.018](https://doi.org/10.1016/j.enganabound.2023.02.018)
 - Zhang, C., Rezavand, M. & Hu, X. Dual-criteria time stepping for weakly compressible smoothed particle hydrodynamics. Journal of Computational Physics vol. 404 109135 (2020) -- [10.1016/j.jcp.2019.109135](https://doi.org/10.1016/j.jcp.2019.109135)
 - Zhang, G. et al. A<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1106" altimg="si210.svg"><mml:mi>δ</mml:mi></mml:math>SPH–SPIM coupled method for fluid–structure interaction problems. Journal of Fluids and Structures vol. 101 103210 (2021) -- [10.1016/j.jfluidstructs.2020.103210](https://doi.org/10.1016/j.jfluidstructs.2020.103210)
+- Szymczak, Energy-losses in nonclassical free-surface flows. Fluid Mec A (1994)
 - Meringolo, D. D., Colagrossi, A., Marrone, S. & Aristodemo, F. On the filtering of acoustic components in weakly-compressible SPH simulations. Journal of Fluids and Structures vol. 70 1–23 (2017) -- [10.1016/j.jfluidstructs.2017.01.005](https://doi.org/10.1016/j.jfluidstructs.2017.01.005)
 - Martínez-Estévez, I. et al. Coupling an SPH-based solver with an FEA structural solver to simulate free surface flows interacting with flexible structures. Computer Methods in Applied Mechanics and Engineering vol. 410 115989 (2023) -- [10.1016/j.cma.2023.115989](https://doi.org/10.1016/j.cma.2023.115989)
+- Greco, A two-dimensional study of green-water loading. (2001)
 - Paik, K.-J. & Carrica, P. M. Fluid–structure interaction for an elastic structure interacting with free surface in a rolling tank. Ocean Engineering vol. 84 201–212 (2014) -- [10.1016/j.oceaneng.2014.04.016](https://doi.org/10.1016/j.oceaneng.2014.04.016)
 - Lind, S. J., Xu, R., Stansby, P. K. & Rogers, B. D. Incompressible smoothed particle hydrodynamics for free-surface flows: A generalised diffusion-based algorithm for stability and validations for impulsive flows and propagating waves. Journal of Computational Physics vol. 231 1499–1523 (2012) -- [10.1016/j.jcp.2011.10.027](https://doi.org/10.1016/j.jcp.2011.10.027)
 - Khayyer, A., Gotoh, H. & Shimizu, Y. Comparative study on accuracy and conservation properties of two particle regularization schemes and proposal of an optimized particle shifting scheme in ISPH context. Journal of Computational Physics vol. 332 236–256 (2017) -- [10.1016/j.jcp.2016.12.005](https://doi.org/10.1016/j.jcp.2016.12.005)

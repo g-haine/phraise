@@ -41,3 +41,5 @@ In this paper, we investigate the stability of port-Hamiltonian systems with mix
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/stability-of-port-hamiltonian-systems-with-mixed-time-delays-subject-to-input-saturation.bib)
+ 

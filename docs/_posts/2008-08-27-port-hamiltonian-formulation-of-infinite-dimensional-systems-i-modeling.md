@@ -21,7 +21,7 @@ In this paper, some new results concerning the modeling of distributed parameter
 - **Issue:** 
 - **Pages:** 3762--3767 Vol.4
 - **Publisher:** IEEE
-- **DOI:** [10.1109/CDC.2004.1429324](https://doi.org/10.1109/CDC.2004.1429324)
+- **DOI:** [10.1109/cdc.2004.1429324](https://doi.org/10.1109/cdc.2004.1429324)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,14 +38,22 @@ In this paper, some new results concerning the modeling of distributed parameter
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling.bib)
+ 
 ## References
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- swaters, Introduction to Hamiltonian Fluid Dynamics and Stability Theory (2000)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- paynter, Analysis and Design of Engineering Systems (1961)
+- renardy, An Introduction to Partial Differential Equations (2004)
+- golo, A Hamiltonian formulation of the Timoshenko beam model. Proc Mechatronics 2002 (2002)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.2307/2001258](https://doi.org/10.2307/2001258)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1993). doi:10.1007/978-1-4612-4350-2 -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
-- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
+- maschke, Port controlled Hamiltonian systems: Modeling origins and system theoretic properties. Proc Third Conf on Nonlinear Control Systems (NOLCOS) (1992)
+- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
+- ingarden, Classical Electrodynamics (1985)
 - Gomberoff, A. & Hojman, S. A. Non-standard construction of Hamiltonian structures. Journal of Physics A: Mathematical and General vol. 30 5077–5084 (1997) -- [10.1088/0305-4470/30/14/018](https://doi.org/10.1088/0305-4470/30/14/018)
-- Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502 -- [10.1109/CDC.2001.980911](https://doi.org/10.1109/CDC.2001.980911)
-- Maschke, B. M. & van der Schaft, A. J. Interconnection of systems: the network paradigm. Proceedings of 35th IEEE Conference on Decision and Control vol. 1 207–212 -- [10.1109/CDC.1996.574297](https://doi.org/10.1109/CDC.1996.574297)
+- Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502 -- [10.1109/cdc.2001.980911](https://doi.org/10.1109/cdc.2001.980911)
+- Maschke, B. M. & van der Schaft, A. J. Interconnection of systems: the network paradigm. Proceedings of 35th IEEE Conference on Decision and Control vol. 1 207–212 -- [10.1109/cdc.1996.574297](https://doi.org/10.1109/cdc.1996.574297)
 

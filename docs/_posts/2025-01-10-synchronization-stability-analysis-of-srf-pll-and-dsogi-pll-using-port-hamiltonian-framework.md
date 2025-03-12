@@ -18,7 +18,7 @@ category: articles
 - **Issue:** 
 - **Pages:** 1--11
 - **Publisher:** Institute of Electrical and Electronics Engineers (IEEE)
-- **DOI:** [10.1109/TCST.2024.3523711](https://doi.org/10.1109/TCST.2024.3523711)
+- **DOI:** [10.1109/tcst.2024.3523711](https://doi.org/10.1109/tcst.2024.3523711)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -35,4 +35,6 @@ category: articles
 }
 {% endraw %}
 {% endhighlight %}
+ 
+[Download the bib file]({{ site.baseurl }}/assets/bib/synchronization-stability-analysis-of-srf-pll-and-dsogi-pll-using-port-hamiltonian-framework.bib)
  

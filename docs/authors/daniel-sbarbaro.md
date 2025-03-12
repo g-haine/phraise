@@ -10,5 +10,7 @@ permalink: /authors/daniel-sbarbaro
 <li><span class='post-meta'>2013 -- Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro</span><h3><a class='post-link' href="{{ site.baseurl }}/feedback-equivalence-of-input-output-contact-systems">Feedback equivalence of input–output contact systems</a></h3></li>
 <li><span class='post-meta'>2013 -- Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro</span><h3><a class='post-link' href="{{ site.baseurl }}/irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr">Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR</a></h3></li>
 <li><span class='post-meta'>2013 -- Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro</span><h3><a class='post-link' href="{{ site.baseurl }}/modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach">Modelling and control of multi-energy systems: An irreversible port-Hamiltonian approach</a></h3></li>
+<li><span class='post-meta'>2010 -- Hector Ramirez, Bernhard Maschke, Daniel Sbarbaro</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-hamiltonian-formulation-of-the-cstr">On the Hamiltonian formulation of the CSTR</a></h3></li>
+<li><span class='post-meta'>2009 -- Héctor Ramírez, Daniel Sbarbaro, Romeo Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-control-of-non-linear-processes-an-ida-pbc-approach">On the control of non-linear processes: An IDA–PBC approach</a></h3></li>
 
 </ul>

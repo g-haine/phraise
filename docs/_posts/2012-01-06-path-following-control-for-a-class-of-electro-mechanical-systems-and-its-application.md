@@ -21,7 +21,7 @@ This paper is devoted to path following control for electro-mechanical systems d
 - **Issue:** 
 - **Pages:** 501--506
 - **Publisher:** Trans Tech Publications, Ltd.
-- **DOI:** [10.4028/www.scientific.net/AEF.2-3.501](https://doi.org/10.4028/www.scientific.net/AEF.2-3.501)
+- **DOI:** [10.4028/www.scientific.net/aef.2-3.501](https://doi.org/10.4028/www.scientific.net/aef.2-3.501)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -40,13 +40,15 @@ This paper is devoted to path following control for electro-mechanical systems d
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/path-following-control-for-a-class-of-electro-mechanical-systems-and-its-application.bib)
+ 
 ## References
-- M. Sampei, T. Tamura, T. Kobayashi, and N. Shibui, Arbitrary path tracking control of articulated vehicles using nonlinear control theory, IEEE Transaction on Control Systems Technology, (1995). -- [10.1109/87.370718](https://doi.org/10.1109/87.370718)
-- H. C. Ho, J. Y. Yen, and S. S. Lu, A decoupled path-following control algorithm based upon the decomposed trajectory error, International Journal of Machine Tolls & Manufacture, vol. 39, no. 10, p.1619–1630, (1999). -- [10.1016/s0890-6955(98)00095-9](https://doi.org/10.1016/s0890-6955(98)00095-9)
-- J. K. Salisbury, Active stiffness control of a manipulator in Cartesian coordinates, in Proc. 19th IEEE Conf. on Decision and Control, (1980). -- [10.1109/cdc.1980.272026](https://doi.org/10.1109/cdc.1980.272026)
+- Sampei, M., Tamura, T., Kobayashi, T. & Shibui, N. Arbitrary path tracking control of articulated vehicles using nonlinear control theory. IEEE Transactions on Control Systems Technology vol. 3 125–131 (1995) -- [10.1109/87.370718](https://doi.org/10.1109/87.370718)
+- Ho, H.-C., Yen, J.-Y. & Lu, S.-S. A decoupled path-following control algorithm based upon the decomposed trajectory error. International Journal of Machine Tools and Manufacture vol. 39 1619–1630 (1999) -- [10.1016/s0890-6955(98)00095-9](https://doi.org/10.1016/s0890-6955(98)00095-9)
+- Salisbury, J. Active stiffness control of a manipulator in cartesian coordinates. 1980 19th IEEE Conference on Decision and Control including the Symposium on Adaptive Processes (1980) doi:10.1109/cdc.1980.272026 -- [10.1109/cdc.1980.272026](https://doi.org/10.1109/cdc.1980.272026)
 - N. Hogan, Impedance contro: An approach to manipulation, Trans. ASME, J. Dyn. Syst., Meas., Control, vol. 107, no. 1, p.1–24, (1985).
-- P. Y. Li and R. Horowitz, Passive velocity field control of mechanical manipulators, IEEE Trans. Robotics and Automation, vol. 15, no. 4, p.751–763, (1999). -- [10.1109/70.782030](https://doi.org/10.1109/70.782030)
-- V. Duindam and S. Stramigioli, Passive asymptotic curve tracking, in Proc. IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control, 2003, p.229–234. -- [10.1016/S1474-6670(17)38891-2](https://doi.org/10.1016/S1474-6670(17)38891-2)
-- M. Taniguchi and K. Fujimoto, Passive trajectory control for port-hamiltonian systems, in Proc. European Control Conference 2009, 2009, p.236–241. -- [10.23919/ECC.2009.7074410](https://doi.org/10.23919/ECC.2009.7074410)
-- M. Taniguchi and K. Fujimoto, Time-varying path following control for port-hamiltonian systems, in Proc. 48th IEEE Conf. on Decision and Control, 2009, p.3323–3328. -- [10.1109/cdc.2009.5400011](https://doi.org/10.1109/cdc.2009.5400011)
+- Li, P. Y. & Horowitz, R. Passive velocity field control of mechanical manipulators. IEEE Transactions on Robotics and Automation vol. 15 751–763 (1999) -- [10.1109/70.782030](https://doi.org/10.1109/70.782030)
+- Duindam, V. & Stramigioli, S. Passive Asymptotic Curve Tracking. IFAC Proceedings Volumes vol. 36 199–204 (2003) -- [10.1016/s1474-6670(17)38891-2](https://doi.org/10.1016/s1474-6670(17)38891-2)
+- Taniguchi, M. & Fujimoto, K. Asymptotic path following and velocity control of port-Hamiltonian systems. 2009 European Control Conference (ECC) 236–241 (2009) doi:10.23919/ecc.2009.7074410 -- [10.23919/ecc.2009.7074410](https://doi.org/10.23919/ecc.2009.7074410)
+- [Taniguchi, M. & Fujimoto, K. Time-varying path following control for port-Hamiltonian systems. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 3323–3328 (2009) doi:10.1109/cdc.2009.5400011](time-varying-path-following-control-for-port-hamiltonian-systems) -- [10.1109/cdc.2009.5400011](https://doi.org/10.1109/cdc.2009.5400011)
 

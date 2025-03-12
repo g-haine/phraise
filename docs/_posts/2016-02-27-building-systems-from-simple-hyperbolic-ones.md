@@ -47,10 +47,18 @@ Infinite-dimensional systems theory; Partial differential equation; Impedance pa
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/building-systems-from-simple-hyperbolic-ones.bib)
+ 
 ## References
+- Curtain, (1995)
+- Staffans, (2005)
+- Duindam, (2009)
 - Staffans, O. J. & Weiss, G. A Physically Motivated Class of Scattering Passive Linear Systems. SIAM Journal on Control and Optimization vol. 50 3083–3112 (2012) -- [10.1137/110846403](https://doi.org/10.1137/110846403)
 - Weiss, G. & Staffans, O. J. Maxwell’s Equations as a Scattering Passive Linear System. SIAM Journal on Control and Optimization vol. 51 3722–3756 (2013) -- [10.1137/120869444](https://doi.org/10.1137/120869444)
 - Kurula, M. & Zwart, H. Feedback theory extended for proving generation of contraction semigroups. Journal of Evolution Equations vol. 16 617–647 (2016) -- [10.1007/s00028-015-0315-1](https://doi.org/10.1007/s00028-015-0315-1)
+- Engel, (2000)
+- Jacob, (2012)
+- Villegas, (2007)
 - Staffans, O. J. Passive and Conservative Continuous-Time Impedance and Scattering Systems. Part I: Well-Posed Systems. Mathematics of Control, Signals, and Systems (MCSS) vol. 15 291–315 (2002) -- [10.1007/s004980200012](https://doi.org/10.1007/s004980200012)
 - Zwart, H., Le  Gorrec, Y. & Maschke, B. Relating systems properties of the wave and the Schrödinger equation. Evolution Equations &amp; Control Theory vol. 4 233–240 (2015) -- [10.3934/eect.2015.4.233](https://doi.org/10.3934/eect.2015.4.233)
 - Schwenninger, F. L. & Zwart, H. Generators with a closure relation. Operators and Matrices 157–165 (2014) doi:10.7153/oam-08-08 -- [10.7153/oam-08-08](https://doi.org/10.7153/oam-08-08)

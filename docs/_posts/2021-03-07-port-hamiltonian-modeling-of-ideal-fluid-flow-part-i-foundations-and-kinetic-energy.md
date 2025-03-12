@@ -48,16 +48,27 @@ Port-Hamiltonian; Ideal fluid flow; Stokes-Dirac structures; Geometric fluid dyn
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-modeling-of-ideal-fluid-flow-part-i-foundations-and-kinetic-energy.bib)
+ 
 ## References
+- Abraham, (1988)
 - [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- Arnold, Sur la géométrie différentielle des groupes de Lie de dimension infinie et ses applications à l’hydrodynamique des fluides parfaits. (1966)
+- Breedveld, (1984)
+- Duindam, (2009)
 - Ebin, D. G. & Marsden, J. Groups of Diffeomorphisms and the Motion of an Incompressible Fluid. The Annals of Mathematics vol. 92 102 (1970) -- [10.2307/1970699](https://doi.org/10.2307/1970699)
+- Frankel, (2011)
 - Holm, D. D., Marsden, J. E. & Ratiu, T. S. The Euler–Poincaré Equations and Semidirect Products with Applications to Continuum Theories. Advances in Mathematics vol. 137 1–81 (1998) -- [10.1006/aima.1998.1721](https://doi.org/10.1006/aima.1998.1721)
+- Holm, (2009)
+- Marsden, Hamiltonian mechanics on Lie groups and hydrodynamics. (1970)
 - Marsden, J. E., Ratiu, T. & Weinstein, A. Reduction and Hamiltonian structures on duals of semidirect product Lie algebras. Contemporary Mathematics 55–100 (1984) doi:10.1090/conm/028/751975 -- [10.1090/conm/028/751975](https://doi.org/10.1090/conm/028/751975)
-- Marsden, J. E., Raţiu, T. & Weinstein, A. Semidirect products and reduction in mechanics. Transactions of the American Mathematical Society vol. 281 147–177 (1984) -- [10.1090/S0002-9947-1984-0719663-1](https://doi.org/10.1090/S0002-9947-1984-0719663-1)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/S0016-0032(92)90049-M](https://doi.org/10.1016/S0016-0032(92)90049-M)
+- Marsden, J. E., Raţiu, T. & Weinstein, A. Semidirect products and reduction in mechanics. Transactions of the American Mathematical Society vol. 281 147–177 (1984) -- [10.1090/s0002-9947-1984-0719663-1](https://doi.org/10.1090/s0002-9947-1984-0719663-1)
+- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Modin, K., Perlmutter, M., Marsland, S. & McLachlan, R. On Euler–Arnold equations and totally geodesic subgroups. Journal of Geometry and Physics vol. 61 1446–1461 (2011) -- [10.1016/j.geomphys.2011.03.007](https://doi.org/10.1016/j.geomphys.2011.03.007)
-- Morrison, P. J. Hamiltonian description of the ideal fluid. Reviews of Modern Physics vol. 70 467–521 (1998) -- [10.1103/RevModPhys.70.467](https://doi.org/10.1103/RevModPhys.70.467)
+- Morrison, P. J. Hamiltonian description of the ideal fluid. Reviews of Modern Physics vol. 70 467–521 (1998) -- [10.1103/revmodphys.70.467](https://doi.org/10.1103/revmodphys.70.467)
 - [Polner, M. & van der Vegt, J. J. W. A Hamiltonian vorticity–dilatation formulation of the compressible Euler equations. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 109 113–135 (2014)](a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations) -- [10.1016/j.na.2014.07.005](https://doi.org/10.1016/j.na.2014.07.005)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Van Der Schaft, Fluid dynamical systems as Hamiltonian boundary control systems. (2001)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- Vankerschaver, Stokes-Dirac structures through reduction of infinite-dimensional Dirac structures. (2010)
 

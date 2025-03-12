@@ -30,7 +30,7 @@ Nonholonomic systems; port-Hamiltonian systems; discontinuous control; robust co
 - **Pages:** 211--216
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.056](https://doi.org/10.1016/j.ifacol.2018.06.056)
-- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,13 +50,19 @@ Nonholonomic systems; port-Hamiltonian systems; discontinuous control; robust co
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/discontinuous-energy-shaping-control-of-the-chaplygin-sleigh.bib)
+ 
 ## References
+- Astolfi, Discontinuous control of nonholonomic systems. Systems & Control Letters (1996)
 - Astolfi, A., Ortega, R. & Venkatraman, A. A globally exponentially convergent immersion and invariance speed observer for mechanical systems with non-holonomic constraints. Automatica vol. 46 182–189 (2010) -- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
+- Bloch, (2003)
 - Bloch, A. M., Reyhanoglu, M. & McClamroch, N. H. Control and stabilization of nonholonomic dynamic systems. IEEE Transactions on Automatic Control vol. 37 1746–1757 (1992) -- [10.1109/9.173144](https://doi.org/10.1109/9.173144)
-- Ferguson, J., Donaire, A., and Middleton, R.H. (2016). Switched PassivityBased Control of the Chaplygin Sleigh. In Proc. IFAC Symposium on Nonlinear Control Systems, 1012–1017. Elsevier B.V., Monterey, California.
+- Brockett, Asymptotic stability and feedback stabilization. (1983)
 - [Fujimoto, K., Sakai, S. & Sugie, T. Passivity based control of a class of Hamiltonian systems with nonholonomic constraints. Automatica vol. 48 3054–3063 (2012)](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
+- Goldstein, (1980)
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control vol. 10 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
-- Lee, D. (2007). Passivity-Based Switching Control for Stabilization of Wheeled Mobile Robots. In Proc. Robotics: Science and Systems, 8. -- [10.15607/RSS.2007.III.008](https://doi.org/10.15607/RSS.2007.III.008)
-- Tian, Y.P. and Li, S. (2002). Exponential stabilization of nonholonomic dynamic systems by smooth time-varying control. Automatica. -- [10.1016/S0005-1098(01)00303-X](https://doi.org/10.1016/S0005-1098(01)00303-X)
+- Lee, D. Passivity-Based Switching Control for Stabilization of Wheeled Mobile Robots. Robotics: Science and Systems III (2007) doi:10.15607/rss.2007.iii.008 -- [10.15607/rss.2007.iii.008](https://doi.org/10.15607/rss.2007.iii.008)
+- Lieb, (2001)
+- Tian, Y.-P. & Li, S. Exponential stabilization of nonholonomic dynamic systems by smooth time-varying control. Automatica vol. 38 1139–1146 (2002) -- [10.1016/s0005-1098(01)00303-x](https://doi.org/10.1016/s0005-1098(01)00303-x)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics vol. 34 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 

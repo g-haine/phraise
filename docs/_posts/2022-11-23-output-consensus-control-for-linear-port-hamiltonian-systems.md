@@ -29,7 +29,7 @@ port-Hamiltonian systems; networked systems; output consensus
 - **Pages:** 230--235
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.11.057](https://doi.org/10.1016/j.ifacol.2022.11.057)
-- **Event:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
+- **Note:** 25th International Symposium on Mathematical Theory of Networks and Systems MTNS 2022- Bayreuth, Germany, September 12-16, 2022
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,14 +49,19 @@ port-Hamiltonian systems; networked systems; output consensus
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/output-consensus-control-for-linear-port-hamiltonian-systems.bib)
+ 
 ## References
-- Monshizadeh, N. & De Persis, C. Agreeing in networks: Unmatched disturbances, algebraic constraints and optimality. Automatica vol. 75 63–74 (2017) -- [10.1016/j.automatica.2016.09.008](https://doi.org/10.1016/j.automatica.2016.09.008)
-- Olfati-Saber, R., Fax, J. A. & Murray, R. M. Consensus and Cooperation in Networked Multi-Agent Systems. Proceedings of the IEEE vol. 95 215–233 (2007) -- [10.1109/JPROC.2006.887293](https://doi.org/10.1109/JPROC.2006.887293)
-- Olfati-Saber, R. & Murray, R. M. Consensus Problems in Networks of Agents With Switching Topology and Time-Delays. IEEE Transactions on Automatic Control vol. 49 1520–1533 (2004) -- [10.1109/TAC.2004.834113](https://doi.org/10.1109/TAC.2004.834113)
+- Li, Consensus of multiagent systems and synchronization of complex networks: A unified viewpoint. IEEE Transactions on Circuits and Systems I: Regular Papers (2009)
+- [Monshizadeh, N. & De Persis, C. Agreeing in networks: Unmatched disturbances, algebraic constraints and optimality. Automatica vol. 75 63–74 (2017)](agreeing-in-networks-unmatched-disturbances-algebraic-constraints-and-optimality) -- [10.1016/j.automatica.2016.09.008](https://doi.org/10.1016/j.automatica.2016.09.008)
+- Olfati-Saber, R., Fax, J. A. & Murray, R. M. Consensus and Cooperation in Networked Multi-Agent Systems. Proceedings of the IEEE vol. 95 215–233 (2007) -- [10.1109/jproc.2006.887293](https://doi.org/10.1109/jproc.2006.887293)
+- Olfati-Saber, R. & Murray, R. M. Consensus Problems in Networks of Agents With Switching Topology and Time-Delays. IEEE Transactions on Automatic Control vol. 49 1520–1533 (2004) -- [10.1109/tac.2004.834113](https://doi.org/10.1109/tac.2004.834113)
 - Ran, M. & Xie, L. Practical output consensus of nonlinear heterogeneous multi-agent systems with limited data rate. Automatica vol. 129 109624 (2021) -- [10.1016/j.automatica.2021.109624](https://doi.org/10.1016/j.automatica.2021.109624)
-- Trip, S., Cucuzzella, M., Cheng, X. & Scherpen, J. Distributed Averaging Control for Voltage Regulation and Current Sharing in DC Microgrids. IEEE Control Systems Letters vol. 3 174–179 (2019) -- [10.1109/LCSYS.2018.2857559](https://doi.org/10.1109/LCSYS.2018.2857559)
+- Trip, S., Cucuzzella, M., Cheng, X. & Scherpen, J. Distributed Averaging Control for Voltage Regulation and Current Sharing in DC Microgrids. IEEE Control Systems Letters vol. 3 174–179 (2019) -- [10.1109/lcsys.2018.2857559](https://doi.org/10.1109/lcsys.2018.2857559)
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- van der Schaft, Port-hamiltonian systems: an introductory survey. Proceedings of the international congress of mathematicians (2006)
 - [Vos, E., Scherpen, J. M. A. & van der Schaft, A. J. Equal distribution of satellite constellations on circular target orbits. Automatica vol. 50 2641–2647 (2014)](equal-distribution-of-satellite-constellations-on-circular-target-orbits) -- [10.1016/j.automatica.2014.08.027](https://doi.org/10.1016/j.automatica.2014.08.027)
-- [Vos, E., van der Schaft, A. J. & Scherpen, J. M. A. Formation Control and Velocity Tracking for a Group of Nonholonomic Wheeled Robots. IEEE Transactions on Automatic Control vol. 61 2702–2707 (2016)](formation-control-and-velocity-tracking-for-a-group-of-nonholonomic-wheeled-robots) -- [10.1109/TAC.2015.2504547](https://doi.org/10.1109/TAC.2015.2504547)
-- Ferguson, J., Cucuzzella, M. & Scherpen, J. M. A. Exponential Stability and Local ISS for DC Networks. IEEE Control Systems Letters vol. 5 893–898 (2021) -- [10.1109/LCSYS.2020.3007222](https://doi.org/10.1109/LCSYS.2020.3007222)
+- [Vos, E., van der Schaft, A. J. & Scherpen, J. M. A. Formation Control and Velocity Tracking for a Group of Nonholonomic Wheeled Robots. IEEE Transactions on Automatic Control vol. 61 2702–2707 (2016)](formation-control-and-velocity-tracking-for-a-group-of-nonholonomic-wheeled-robots) -- [10.1109/tac.2015.2504547](https://doi.org/10.1109/tac.2015.2504547)
+- [Ferguson, J., Cucuzzella, M. & Scherpen, J. M. A. Exponential Stability and Local ISS for DC Networks. IEEE Control Systems Letters vol. 5 893–898 (2021)](exponential-stability-and-local-iss-for-dc-networks) -- [10.1109/lcsys.2020.3007222](https://doi.org/10.1109/lcsys.2020.3007222)
+- Kawano, Krasovskii and shifted passivity based output consensus. arXiv (2022)
 

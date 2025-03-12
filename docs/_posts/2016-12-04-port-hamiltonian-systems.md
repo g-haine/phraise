@@ -36,3 +36,5 @@ As described in the previous Chaps.  3 and 4 , (cyclo-)passive systems are defi
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-systems.bib)
+ 

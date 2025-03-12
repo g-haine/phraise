@@ -31,7 +31,7 @@ Port-Hamiltonian systems; Tokamak reactors; Modeling; Model reduction; Irreversi
 - **Pages:** 68--73
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.017](https://doi.org/10.1016/j.ifacol.2018.06.017)
-- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,12 +51,18 @@ Port-Hamiltonian systems; Tokamak reactors; Modeling; Model reduction; Irreversi
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-modeling-and-reduction-of-a-burning-plasma-system.bib)
+ 
 ## References
+- Blum, (1989)
 - Boozer, A. H. Onsager symmetry of transport in toroidal plasmas. Physics of Fluids B: Plasma Physics vol. 4 2845–2853 (1992) -- [10.1063/1.860159](https://doi.org/10.1063/1.860159)
+- Braginskii, (1965)
+- Duindam, (2009)
 - Felici, F. et al. Real-time physics-model-based simulation of the current density profile in tokamak plasmas. Nuclear Fusion vol. 51 083052 (2011) -- [10.1088/0029-5515/51/8/083052](https://doi.org/10.1088/0029-5515/51/8/083052)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Marsden, (2001)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Vincent, B., Hudon, N., Lefèvre, L. & Dochain, D. Burning magneto-hydrodynamics plasmas model: A port-based modelling approach. IFAC-PapersOnLine vol. 50 13038–13043 (2017) -- [10.1016/j.ifacol.2017.08.2002](https://doi.org/10.1016/j.ifacol.2017.08.2002)
 - [Vu, N. M. T., Lefèvre, L. & Maschke, B. A structured control model for the thermo-magneto-hydrodynamics of plasmas in tokamaks. Mathematical and Computer Modelling of Dynamical Systems vol. 22 181–206 (2016)](a-structured-control-model-for-the-thermo-magneto-hydrodynamics-of-plasmas-in-tokamaks) -- [10.1080/13873954.2016.1154874](https://doi.org/10.1080/13873954.2016.1154874)
-- Vu, N.M.T., Lefèvre, L., Nouailletas, R., and Brémond, S. (2014). Structure preserving reduction for thermo-magneto plasma control model. In Proceedings of the 21st International Symposium on Mathematical Theory of Networks and Systems (MTNS), 716–723. Groningen, Netherlands.
-- Vu, N.M.T., Nouailletas, R., Maljaars, E., Felici, F., and Sauter, O. (2017). Plasma internal profile control using IDA-PBC: Application to TCV. Fusion Engineering and Design. doi:10.1016/j.fusengdes.2017.02.074. In Press. -- [10.1016/j.fusengdes.2017.02.074](https://doi.org/10.1016/j.fusengdes.2017.02.074)
+- Vu, N. M. T., Nouailletas, R., Maljaars, E., Felici, F. & Sauter, O. Plasma internal profile control using IDA-PBC: Application to TCV. Fusion Engineering and Design vol. 123 624–627 (2017) -- [10.1016/j.fusengdes.2017.02.074](https://doi.org/10.1016/j.fusengdes.2017.02.074)
+- Wesson, (2004)
 

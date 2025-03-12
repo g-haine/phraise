@@ -21,7 +21,7 @@ We look into the problem of approximating a distributed parameter port-Hamiltoni
 - **Issue:** 
 - **Pages:** 3984--3989
 - **Publisher:** IEEE
-- **DOI:** [10.1109/CDC.2006.377022](https://doi.org/10.1109/CDC.2006.377022)
+- **DOI:** [10.1109/cdc.2006.377022](https://doi.org/10.1109/cdc.2006.377022)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,8 +38,15 @@ We look into the problem of approximating a distributed parameter port-Hamiltoni
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-finite-dimensional-approximation-of-the-shallow-water-equations-the-port-hamiltonian-approach.bib)
+ 
 ## References
-- Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502 -- [10.1109/CDC.2001.980911](https://doi.org/10.1109/CDC.2001.980911)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- pasumarthy, On interconnections of infinite dimensional port-Hamiltonian systems. Proceedings 16th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2004) (2004)
+- (0)
+- (0)
+- Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502 -- [10.1109/cdc.2001.980911](https://doi.org/10.1109/cdc.2001.980911)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- (0)
+- pedlosky, Geophysical Fluid Dynamics (1986)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 

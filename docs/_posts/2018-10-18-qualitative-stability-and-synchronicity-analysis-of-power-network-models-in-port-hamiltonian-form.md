@@ -40,23 +40,28 @@ In view of highly decentralized and diversified power generation concepts, in pa
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/qualitative-stability-and-synchronicity-analysis-of-power-network-models-in-port-hamiltonian-form.bib)
+ 
 ## References
 - Filatrella, G., Nielsen, A. H. & Pedersen, N. F. Analysis of a power grid using a Kuramoto-like model. The European Physical Journal B vol. 61 485–491 (2008) -- [10.1140/epjb/e2008-00098-8](https://doi.org/10.1140/epjb/e2008-00098-8)
-- Olmi, S., Navas, A., Boccaletti, S. & Torcini, A. Hysteretic transitions in the Kuramoto model with inertia. Physical Review E vol. 90 (2014) -- [10.1103/PhysRevE.90.042905](https://doi.org/10.1103/PhysRevE.90.042905)
-- Salam, F., Marsden, J. & Varaiya, P. Arnold diffusion in the swing equations of a power system. IEEE Transactions on Circuits and Systems vol. 31 673–688 (1984) -- [10.1109/TCS.1984.1085570](https://doi.org/10.1109/TCS.1984.1085570)
+- Power System Stability and Control (1994)
+- Olmi, S., Navas, A., Boccaletti, S. & Torcini, A. Hysteretic transitions in the Kuramoto model with inertia. Physical Review E vol. 90 (2014) -- [10.1103/physreve.90.042905](https://doi.org/10.1103/physreve.90.042905)
+- Salam, F., Marsden, J. & Varaiya, P. Arnold diffusion in the swing equations of a power system. IEEE Transactions on Circuits and Systems vol. 31 673–688 (1984) -- [10.1109/tcs.1984.1085570](https://doi.org/10.1109/tcs.1984.1085570)
 - Nishikawa, T. & Motter, A. E. Comparative analysis of existing models for power-grid synchronization. New Journal of Physics vol. 17 015012 (2015) -- [10.1088/1367-2630/17/1/015012](https://doi.org/10.1088/1367-2630/17/1/015012)
-- Rohden, M., Sorge, A., Timme, M. & Witthaut, D. Self-Organized Synchronization in Decentralized Power Grids. Physical Review Letters vol. 109 (2012) -- [10.1103/PhysRevLett.109.064101](https://doi.org/10.1103/PhysRevLett.109.064101)
+- Rohden, M., Sorge, A., Timme, M. & Witthaut, D. Self-Organized Synchronization in Decentralized Power Grids. Physical Review Letters vol. 109 (2012) -- [10.1103/physrevlett.109.064101](https://doi.org/10.1103/physrevlett.109.064101)
 - Dörfler, F., Chertkov, M. & Bullo, F. Synchronization in complex oscillator networks and smart grids. Proceedings of the National Academy of Sciences vol. 110 2005–2010 (2013) -- [10.1073/pnas.1212134110](https://doi.org/10.1073/pnas.1212134110)
-- Monshizadeh, N., De Persis, C., van der Schaft, A. J. & Scherpen, J. M. A. A Novel Reduced Model for Electrical Networks With Constant Power Loads. IEEE Transactions on Automatic Control vol. 63 1288–1299 (2018) -- [10.1109/TAC.2017.2747763](https://doi.org/10.1109/TAC.2017.2747763)
+- Monshizadeh, N., De Persis, C., van der Schaft, A. J. & Scherpen, J. M. A. A Novel Reduced Model for Electrical Networks With Constant Power Loads. IEEE Transactions on Automatic Control vol. 63 1288–1299 (2018) -- [10.1109/tac.2017.2747763](https://doi.org/10.1109/tac.2017.2747763)
 - [van der Schaft, A. & Stegink, T. Perspectives in modeling for control of power networks. Annual Reviews in Control vol. 41 119–132 (2016)](perspectives-in-modeling-for-control-of-power-networks) -- [10.1016/j.arcontrol.2016.04.017](https://doi.org/10.1016/j.arcontrol.2016.04.017)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Advanced Dynamics and Control of Structures and Machines (2004)
+- Modeling and Simulation of Dynamic Systems Using Bond Graphs (2008)
 - [van der Schaft, A. J. Port-Hamiltonian Differential-Algebraic Systems. Surveys in Differential-Algebraic Equations I 173–226 (2013) doi:10.1007/978-3-642-34928-7_5](port-hamiltonian-differential-algebraic-systems) -- [10.1007/978-3-642-34928-7_5](https://doi.org/10.1007/978-3-642-34928-7_5)
-- C. Beattie, V. Mehrmann, H. Xu, and H. Zwart, preprint arXiv:1705.09081 (2017).
 - Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Transactions on Automatic Control vol. 36 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - [Fiaz, S., Zonetti, D., Ortega, R., Scherpen, J. M. A. & van der Schaft, A. J. A port-Hamiltonian approach to power network modeling and analysis. European Journal of Control vol. 19 477–485 (2013)](a-port-hamiltonian-approach-to-power-network-modeling-and-analysis) -- [10.1016/j.ejcon.2013.09.002](https://doi.org/10.1016/j.ejcon.2013.09.002)
 - Schröder, M., Timme, M. & Witthaut, D. A universal order parameter for synchrony in networks of limit cycle oscillators. Chaos: An Interdisciplinary Journal of Nonlinear Science vol. 27 (2017) -- [10.1063/1.4995963](https://doi.org/10.1063/1.4995963)
-- V. Mehrmann, R. Morandin, S. Olmi, and E. Schöll, preprint arXiv:1712.03160 (2017).
-- FORTUNA, L., FRASCA, M. & SARRA FIORE, A. A NETWORK OF OSCILLATORS EMULATING THE ITALIAN HIGH-VOLTAGE POWER GRID. International Journal of Modern Physics B vol. 26 1246011 (2012) -- [10.1142/S0217979212460113](https://doi.org/10.1142/S0217979212460113)
+- Line Integral Methods for Conservative Problems (2015)
+- Differential-Algebraic Equations: Analysis and Numerical Solution (2006)
+- FORTUNA, L., FRASCA, M. & SARRA FIORE, A. A NETWORK OF OSCILLATORS EMULATING THE ITALIAN HIGH-VOLTAGE POWER GRID. International Journal of Modern Physics B vol. 26 1246011 (2012) -- [10.1142/s0217979212460113](https://doi.org/10.1142/s0217979212460113)
 

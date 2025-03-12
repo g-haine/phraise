@@ -28,7 +28,7 @@ Control of Nonlinear Systems; Control with Limited Information
 - **Pages:** 287--292
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.10.367](https://doi.org/10.1016/j.ifacol.2021.10.367)
-- **Event:** 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2021- Tokyo, Japan, 15-17 September 2021
+- **Note:** 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems MICNON 2021- Tokyo, Japan, 15-17 September 2021
  
 ## BibTeX
 {% highlight bibtex %}
@@ -48,14 +48,22 @@ Control of Nonlinear Systems; Control with Limited Information
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-passivity-based-high-order-compensators-for-mechanical-port-hamiltonian-systems-without-velocity-measurements.bib)
+ 
 ## References
-- Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/TAC.2005.860292](https://doi.org/10.1109/TAC.2005.860292)
-- Dirksz, D.A. and Scherpen, J.M.A. (2013). Tuning of dynamic feedback control for nonlinear mechanical systems. In 2013 European Control Conference (ECC), 173–178. -- [10.23919/ECC.2013.6669346](https://doi.org/10.23919/ECC.2013.6669346)
-- [Dirksz, D. A., Scherpen, J. M. A., van der Schaft, A. J. & Steinbuch, M. Notch Filters for Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 60 2440–2445 (2015)](notch-filters-for-port-hamiltonian-systems) -- [10.1109/TAC.2015.2390552](https://doi.org/10.1109/TAC.2015.2390552)
+- Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
+- Chan-Zheng, Tuning rules for a class of passivity-based controllers for mechanical systems. IEEE Control Systems Letters (2020)
+- Dirksz, D. A. & Scherpen, J. M. A. Tuning of dynamic feedback control for nonlinear mechanical systems. 2013 European Control Conference (ECC) 173–178 (2013) doi:10.23919/ecc.2013.6669346 -- [10.23919/ecc.2013.6669346](https://doi.org/10.23919/ecc.2013.6669346)
+- [Dirksz, D. A., Scherpen, J. M. A., van der Schaft, A. J. & Steinbuch, M. Notch Filters for Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 60 2440–2445 (2015)](notch-filters-for-port-hamiltonian-systems) -- [10.1109/tac.2015.2390552](https://doi.org/10.1109/tac.2015.2390552)
+- Duindam, (2009)
 - [Fujimoto, K., Sakai, S. & Sugie, T. Passivity based control of a class of Hamiltonian systems with nonholonomic constraints. Automatica vol. 48 3054–3063 (2012)](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
-- [Hamada, K., Borja, P., Scherpen, J. M. A., Fujimoto, K. & Maruta, I. Passivity-Based Lag-Compensators With Input Saturation for Mechanical Port-Hamiltonian Systems Without Velocity Measurements. IEEE Control Systems Letters vol. 5 1285–1290 (2021)](passivity-based-lag-compensators-with-input-saturation-for-mechanical-port-hamiltonian-systems-without-velocity-measurements-journal) -- [10.1109/LCSYS.2020.3032890](https://doi.org/10.1109/LCSYS.2020.3032890)
-- Jeltsema, D. & Scherpen, J. M. A. Tuning of Passivity-Preserving Controllers for Switched-Mode Power Converters. IEEE Transactions on Automatic Control vol. 49 1333–1344 (2004) -- [10.1109/TAC.2004.832236](https://doi.org/10.1109/TAC.2004.832236)
-- Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Transactions on Automatic Control vol. 47 1218–1233 (2002) -- [10.1109/TAC.2002.800770](https://doi.org/10.1109/TAC.2002.800770)
+- [Hamada, K., Borja, P., Scherpen, J. M. A., Fujimoto, K. & Maruta, I. Passivity-Based Lag-Compensators With Input Saturation for Mechanical Port-Hamiltonian Systems Without Velocity Measurements. IEEE Control Systems Letters vol. 5 1285–1290 (2021)](passivity-based-lag-compensators-with-input-saturation-for-mechanical-port-hamiltonian-systems-without-velocity-measurements0) -- [10.1109/lcsys.2020.3032890](https://doi.org/10.1109/lcsys.2020.3032890)
+- Jeltsema, D. & Scherpen, J. M. A. Tuning of Passivity-Preserving Controllers for Switched-Mode Power Converters. IEEE Transactions on Automatic Control vol. 49 1333–1344 (2004) -- [10.1109/tac.2004.832236](https://doi.org/10.1109/tac.2004.832236)
+- Khalil, (2002)
+- Ortega, (2013)
+- Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Transactions on Automatic Control vol. 47 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems &amp; Control Letters vol. 62 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
 - Romero, J. G., Donaire, A., Ortega, R. & Borja, P. Global stabilisation of underactuated mechanical systems via PID passivity-based control. Automatica vol. 96 178–185 (2018) -- [10.1016/j.automatica.2018.06.040](https://doi.org/10.1016/j.automatica.2018.06.040)
+- Sakai, (2009)
+- van der Schaft, Port-Hamiltonian Systems Theory: An Introductory Overview (2014)
 

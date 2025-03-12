@@ -30,7 +30,7 @@ Port-Hamiltonian systems; Stokes-Dirac structures; Partial differential equation
 - **Pages:** 430--435
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.11.818](https://doi.org/10.1016/j.ifacol.2019.11.818)
-- **Event:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
+- **Note:** 11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019- Vienna, Austria, 4–6 September 2019
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,14 +50,18 @@ Port-Hamiltonian systems; Stokes-Dirac structures; Partial differential equation
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/stokes-dirac-operator-for-laplacian.bib)
+ 
 ## References
-- A. J. van der Schaft, L2-Gain and Passivity Techniques in Nonlinear Control, 2nd revised and enlarged edition, Springer-Verlag, London, 2000. -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- A. Macchelli and B.M. Maschke, Modeling and Control of Complex Physical Systems - The Port-Hamiltonian Approach, chapter Infinite-dimensional Port-Hamiltonian Systems, pp. 211-272, Springer, 2009. ISBN 978-3-642-03195-3.
-- [T. J. Courant, “Dirac Manifolds”, Trans. of American Mathematical Society, Vol. 319, No. 2, June, 1990.](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- Nishida, G., Maschke, B. & Ikeura, R. Boundary Integrability of Multiple Stokes--Dirac Structures. SIAM Journal on Control and Optimization vol. 53 800–815 (2015) -- [10.1137/110856058](https://doi.org/10.1137/110856058)
-- BRIDGES, T. J., HYDON, P. E. & LAWSON, J. K. Multisymplectic structures and the variational bicomplex. Mathematical Proceedings of the Cambridge Philosophical Society vol. 148 159–178 (2009) -- [10.1017/S0305004109990259](https://doi.org/10.1017/S0305004109990259)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- van der Schaft, “The Hamilto-nian Formulation of Energy Conserving Physical Systems with External Ports”. Archiv für Elektronik und Übertragungstechnik (1995)
+- Kotyczka, (2018)
+- [Nishida, G., Maschke, B. & Ikeura, R. Boundary Integrability of Multiple Stokes--Dirac Structures. SIAM Journal on Control and Optimization vol. 53 800–815 (2015)](boundary-integrability-of-multiple-stokes-dirac-structures) -- [10.1137/110856058](https://doi.org/10.1137/110856058)
+- BRIDGES, T. J., HYDON, P. E. & LAWSON, J. K. Multisymplectic structures and the variational bicomplex. Mathematical Proceedings of the Cambridge Philosophical Society vol. 148 159–178 (2009) -- [10.1017/s0305004109990259](https://doi.org/10.1017/s0305004109990259)
 - Bridges, T. J. Canonical multi-symplectic structure on the total exterior algebra bundle. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences vol. 462 1531–1551 (2006) -- [10.1098/rspa.2005.1629](https://doi.org/10.1098/rspa.2005.1629)
 - Anderson, I. M. Introduction to the variational bicomplex. Contemporary Mathematics 51–73 (1992) doi:10.1090/conm/132/1188434 -- [10.1090/conm/132/1188434](https://doi.org/10.1090/conm/132/1188434)
-- G. Nishida and M. Yamakita, “A Higher Order Stokes-Dirac Structure for Distributed-Parameter Port-Hamiltonian Systems”, 2004 American Control Conference, Jul, pp.5004-5009, 2004.
+- Morita, (2001)
+- Schwarz, (1995)
 

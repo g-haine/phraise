@@ -40,3 +40,5 @@ Port-Hamiltonian systems have gained a lot of attention in recent years due to t
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-non-intrusive-method-to-inferring-linear-port-hamiltonian-realizations-using-time-domain-data.bib)
+ 

@@ -21,7 +21,7 @@ In this paper, some new results concerning the boundary control of distributed p
 - **Issue:** 
 - **Pages:** 3768--3773 Vol.4
 - **Publisher:** IEEE
-- **DOI:** [10.1109/CDC.2004.1429325](https://doi.org/10.1109/CDC.2004.1429325)
+- **DOI:** [10.1109/cdc.2004.1429325](https://doi.org/10.1109/cdc.2004.1429325)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,13 +38,21 @@ In this paper, some new results concerning the boundary control of distributed p
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-formulation-of-infinite-dimensional-systems-ii-boundary-control-by-interconnection.bib)
+ 
 ## References
-- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
-- Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136 -- [10.1109/CDC.2001.980086](https://doi.org/10.1109/CDC.2001.980086)
-- [Macchelli, A., van der Schaft, A. J. & Melchiorri, C. Port Hamiltonian formulation of infinite dimensional systems I. Modeling. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 3762-3767 Vol.4 (2004) doi:10.1109/cdc.2004.1429324](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/CDC.2004.1429324](https://doi.org/10.1109/CDC.2004.1429324)
+- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
+- renardy, An Introduction to Partial Differential Equations (2004)
+- Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136 -- [10.1109/cdc.2001.980086](https://doi.org/10.1109/cdc.2001.980086)
+- macchelli, Control by interconnection and energy shaping of the Timoshenko beam. Mathematical and Computer Modelling of Dynamical Systems (2003)
+- [Macchelli, A., van der Schaft, A. J. & Melchiorri, C. Port Hamiltonian formulation of infinite dimensional systems I. Modeling. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 3762-3767 Vol.4 (2004) doi:10.1109/cdc.2004.1429324](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/cdc.2004.1429324](https://doi.org/10.1109/cdc.2004.1429324)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- maschke, Port controlled Hamiltonian systems: Modeling origins and system theoretic properties. Proceedings of the Third Conference on Nonlinear Control Systems (NOLCOS) (1992)
+- macchelli, Port Hamiltonian systems A unified approach for modeling and control finite and infinite dimensional physical systems (2003)
 - Marsden, J. E. & Ratiu, T. S. Introduction to Mechanics and Symmetry. Texts in Applied Mathematics (Springer New York, 1994). doi:10.1007/978-1-4612-2682-6 -- [10.1007/978-1-4612-2682-6](https://doi.org/10.1007/978-1-4612-2682-6)
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
+- stramigioli, Creating artificial damping by means of damping injection. Proceedings of the ASME Dynamic Systems and Control Division (1996)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- ortega, Energy-shaping of port-controlled Hamiltonian systems by interconnection. Proc IEEE Conf Dec and Control (1999)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 

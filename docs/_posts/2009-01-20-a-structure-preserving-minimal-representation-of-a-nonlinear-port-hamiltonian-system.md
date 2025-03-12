@@ -21,7 +21,7 @@ In this paper an approach to reduce nonlinear non-observable and non-strongly ac
 - **Issue:** 
 - **Pages:** 4885--4890
 - **Publisher:** IEEE
-- **DOI:** [10.1109/CDC.2008.4739266](https://doi.org/10.1109/CDC.2008.4739266)
+- **DOI:** [10.1109/cdc.2008.4739266](https://doi.org/10.1109/cdc.2008.4739266)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,15 +38,18 @@ In this paper an approach to reduce nonlinear non-observable and non-strongly ac
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-structure-preserving-minimal-representation-of-a-nonlinear-port-hamiltonian-system.bib)
+ 
 ## References
-- Hill, D. & Moylan, P. The stability of nonlinear dissipative systems. IEEE Transactions on Automatic Control vol. 21 708–711 (1976) -- [10.1109/TAC.1976.1101352](https://doi.org/10.1109/TAC.1976.1101352)
-- Fujimoto, K., Scherpen, J. M. A. & Gray, W. S. Hamiltonian realizations of nonlinear adjoint operators. Automatica vol. 38 1769–1775 (2002) -- [10.1016/S0005-1098(02)00079-1](https://doi.org/10.1016/S0005-1098(02)00079-1)
+- Hill, D. & Moylan, P. The stability of nonlinear dissipative systems. IEEE Transactions on Automatic Control vol. 21 708–711 (1976) -- [10.1109/tac.1976.1101352](https://doi.org/10.1109/tac.1976.1101352)
+- Fujimoto, K., Scherpen, J. M. A. & Gray, W. S. Hamiltonian realizations of nonlinear adjoint operators. Automatica vol. 38 1769–1775 (2002) -- [10.1016/s0005-1098(02)00079-1](https://doi.org/10.1016/s0005-1098(02)00079-1)
 - Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems &amp; Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
+- freund, structure-preserving model order reduction of rcl circuit equations. (2007)
 - [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica vol. 46 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
 - Nijmeijer, H. & van der Schaft, A. Nonlinear Dynamical Control Systems. (Springer New York, 1990). doi:10.1007/978-1-4757-2101-0 -- [10.1007/978-1-4757-2101-0](https://doi.org/10.1007/978-1-4757-2101-0)
 - Meyer, D. G. & Srinivasan, S. Balancing and model reduction for second-order form linear systems. IEEE Transactions on Automatic Control vol. 41 1632–1644 (1996) -- [10.1109/9.544000](https://doi.org/10.1109/9.544000)
 - Isidori, A. Nonlinear Control Systems. Communications and Control Engineering (Springer London, 1995). doi:10.1007/978-1-84628-615-5 -- [10.1007/978-1-84628-615-5](https://doi.org/10.1007/978-1-84628-615-5)
 - Gray, W. S. & Scherpen, J. M. A. Minimality and local state decompositions of a nonlinear state space realization using energy functions. IEEE Transactions on Automatic Control vol. 45 2079–2086 (2000) -- [10.1109/9.887630](https://doi.org/10.1109/9.887630)
-- Scherpen, J. M. A. Balancing for nonlinear systems. Systems &amp; Control Letters vol. 21 143–153 (1993) -- [10.1016/0167-6911(93)90117-O](https://doi.org/10.1016/0167-6911(93)90117-O)
+- Scherpen, J. M. A. Balancing for nonlinear systems. Systems &amp; Control Letters vol. 21 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
 - van der Schaft, A. J. L/sub 2/-gain analysis of nonlinear systems and nonlinear state-feedback H/sub infinity / control. IEEE Transactions on Automatic Control vol. 37 770–784 (1992) -- [10.1109/9.256331](https://doi.org/10.1109/9.256331)
 

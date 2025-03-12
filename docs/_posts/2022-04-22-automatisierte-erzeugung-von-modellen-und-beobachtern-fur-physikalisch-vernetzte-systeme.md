@@ -41,3 +41,5 @@ Diese Arbeit befasst sich mit der Automatisierung der physikorientierten Modellb
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/automatisierte-erzeugung-von-modellen-und-beobachtern-fur-physikalisch-vernetzte-systeme.bib)
+ 

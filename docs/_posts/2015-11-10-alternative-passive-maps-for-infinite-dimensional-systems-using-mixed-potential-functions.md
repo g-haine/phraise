@@ -32,7 +32,7 @@ Distributed-parameter systems; infinite-dimensional systems; Brayton-Moser equat
 - **Pages:** 1--6
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.205](https://doi.org/10.1016/j.ifacol.2015.10.205)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -52,16 +52,18 @@ Distributed-parameter systems; infinite-dimensional systems; Brayton-Moser equat
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/alternative-passive-maps-for-infinite-dimensional-systems-using-mixed-potential-functions.bib)
+ 
 ## References
-- Abraham, R., Marsden, J., and Ratiu, T. (1988). Manifolds, Tensor Analysis, and Applications, 2nd Ed. Springer-Verlag, Berlin. -- [10.1007/978-1-4612-1029-0](https://doi.org/10.1007/978-1-4612-1029-0)
-- Brayton, R.K. and Miranker., W.L. (1964). A stability theory for nonlinear mixed initial boundary value problems. Arch. Rat. Mech. Anal., 17(5). -- [10.1007/BF00250472](https://doi.org/10.1007/BF00250472)
-- Brayton, R.K. and Moser., J.K. (1964a). A theory of nonlinear networks i. Q. Appl. Math., 22(1), 1-33. -- [10.1090/qam/169746](https://doi.org/10.1090/qam/169746)
-- Brayton, R.K. and Moser., J.K. (1964b). A theory of nonlinear networks ii. Q. Appl. Math., 22(2), 81-104. -- [10.1090/qam/169747](https://doi.org/10.1090/qam/169747)
-- [Duindam, V., Macchelli, A., Stramigioli, S., and H. Bryuninckx, E. (2009). Modeling and Control of Complex Physical Systems: The port-Hamiltonian approach. Springer, Berlin.](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
-- Jeltsema, D., Ortega, R., and Scherpen, J.M.A. (2003). On passivity and power-balance inequalities of nonlinear rlc circuits. IEEE Transactions on Circuits and Systems-I: Fundamental Theory and Applications, 50, 1174-1179. -- [10.1109/TCSI.2003.816332](https://doi.org/10.1109/TCSI.2003.816332)
+- Abraham, R., Marsden, J. E. & Ratiu, T. Manifolds, Tensor Analysis, and Applications. Applied Mathematical Sciences (Springer New York, 1988). doi:10.1007/978-1-4612-1029-0 -- [10.1007/978-1-4612-1029-0](https://doi.org/10.1007/978-1-4612-1029-0)
+- Brayton, R. K. & Miranker, W. L. A stability theory for nonlinear mixed initial boundary value problems. Archive for Rational Mechanics and Analysis vol. 17 358–376 (1964) -- [10.1007/bf00250472](https://doi.org/10.1007/bf00250472)
+- Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. I. Quarterly of Applied Mathematics vol. 22 1–33 (1964) -- [10.1090/qam/169746](https://doi.org/10.1090/qam/169746)
+- Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. II. Quarterly of Applied Mathematics vol. 22 81–104 (1964) -- [10.1090/qam/169747](https://doi.org/10.1090/qam/169747)
+- [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
+- Jeltsema, D., Ortega, R. & Scherpen, J. M. A. On passivity and power-balance inequalities of nonlinear rlc circuits. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 50 1174–1179 (2003) -- [10.1109/tcsi.2003.816332](https://doi.org/10.1109/tcsi.2003.816332)
 - Jeltsema, D. and Scherpen, J.M.A. (2009). Multidomain modeling of nonlinear networks and systems. IEEE Control System Magazine.
-- Jeltsema, D. and van der Schaft, A. (2007). Pseudogradient and lagrangian boundary control system formulation of electromagnetic field. Journal of Physics A : Mathematical and Theoretical, 40, 1-17. -- [10.1088/1751-8113/40/38/013](https://doi.org/10.1088/1751-8113/40/38/013)
+- Jeltsema, D. & Schaft, A. van der. Pseudo-gradient and Lagrangian boundary control system formulation of electromagnetic fields. Journal of Physics A: Mathematical and Theoretical vol. 40 11627–11643 (2007) -- [10.1088/1751-8113/40/38/013](https://doi.org/10.1088/1751-8113/40/38/013)
 - Pasumarthy, R. and Kosaraju, K.C. (2015). Power based methods for infinite-dimensional systems. In M.K. Camlibel, A.A. Julius, R. Pasumarthy, and J.M.A. Scherpen (eds.), Mathematical Control theory I: Nonlinear and Hybrid Control systems. Springer, In Press.
 - Pasumarthy, R., Kosaraju, K.C., and Chandrasekar, A. (2014). On power balancing and stabilization for a class of infinite-dimensional systems. Proc. Mathematical Theory of Networks and Systems.
-- [van der Schaft, A. and Maschke, B. (2002). Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics, 42, 166-194.](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

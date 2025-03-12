@@ -41,15 +41,24 @@ category: articles
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/distributed-and-backstepping-boundary-controls-for-port-hamiltonian-systems-with-symmetries.bib)
+ 
 ## References
-- B. Maschke and A.J. van der Schaft,Compositional Modelling of Distributed-Parameter Systems, inAdvanced Topics in Control Systems Theory, F Lamnabhi-Lagarrigue, A Loría and E Panteley, eds.Lecture Notes from FAP 2004, Lecture Notes on Control and Information Sciences, Springer-Verlag, London, 2005, pp. 115–154. -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
-- [Schoberl, M. & Siuka, A. On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems. IEEE Transactions on Automatic Control vol. 58 1823–1828 (2013)](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/TAC.2012.2235739](https://doi.org/10.1109/TAC.2012.2235739)
+- Zwart H., ESAIM Control Optim. Calc. Var. (2009)
+- Maschke, B. & van der Schaft, A. 4 Compositional Modelling of Distributed-Parameter Systems. Lecture Notes in Control and Information Sciences 115–154 (2005) doi:10.1007/11334774_4 -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
+- [Schoberl, M. & Siuka, A. On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems. IEEE Transactions on Automatic Control vol. 58 1823–1828 (2013)](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/tac.2012.2235739](https://doi.org/10.1109/tac.2012.2235739)
 - [Macchelli, A. Boundary energy shaping of linear distributed port-Hamiltonian systems. European Journal of Control vol. 19 521–528 (2013)](boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.002](https://doi.org/10.1016/j.ejcon.2013.10.002)
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
+- Ortega R., Eur. J. Control (2003)
+- Wesson J., Tokamaks (2004)
+- Argomedo F.B., IEEE Trans. Autom. Control (2012)
 - [Vu, N. M. T., Lefèvre, L. & Maschke, B. A structured control model for the thermo-magneto-hydrodynamics of plasmas in tokamaks. Mathematical and Computer Modelling of Dynamical Systems vol. 22 181–206 (2016)](a-structured-control-model-for-the-thermo-magneto-hydrodynamics-of-plasmas-in-tokamaks) -- [10.1080/13873954.2016.1154874](https://doi.org/10.1080/13873954.2016.1154874)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Blum J., Numerical Simulation and Optimal Control in Plasma Physics (1989)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
+- Vu T.N.M., IFAC Workshop Thermodyn. Found. Math. Sys. Theory, IFAC Proceedings Volumes 46 (14) (2013)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Swaters G.E., Introduction to Hamiltonian Fluid Dynamics and Stability Theory (2000)
 - Felici, F. et al. Real-time physics-model-based simulation of the current density profile in tokamak plasmas. Nuclear Fusion vol. 51 083052 (2011) -- [10.1088/0029-5515/51/8/083052](https://doi.org/10.1088/0029-5515/51/8/083052)
 - [Minh Trang Vu, N. & Lefèvre, L. Finite rank distributed control for the resistive diffusion equation using damping assignment. Evolution Equations &amp; Control Theory vol. 4 205–220 (2015)](finite-rank-distributed-control-for-the-resistive-diffusion-equation-using-damping-assignment) -- [10.3934/eect.2015.4.205](https://doi.org/10.3934/eect.2015.4.205)
 

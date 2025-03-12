@@ -41,15 +41,17 @@ We present a procedure for the parametric order reduction of explicit port-Hamil
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-parametric-structure-preserving-model-order-reduction-of-linear-port-hamiltonian-systems.bib)
+ 
 ## References
 - Christopher Beattie, et al. Port-Hamiltonian descriptor systems, (2017). arXiv: http://arxiv.org/abs/1705.09081v2 [math.OC].
-- [Saifon Chaturantabut, Chris Beattie and Serkan Gugercin. Structure-preserving model reduction for nonlinear port-Hamiltonian systems, SIAM Journal on Scientific Computing 38 (2016), B837–B865.10.1137/15M1055085](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems) -- [10.1137/15M1055085](https://doi.org/10.1137/15M1055085)
+- [Chaturantabut, S., Beattie, C. & Gugercin, S. Structure-Preserving Model Reduction for Nonlinear Port-Hamiltonian Systems. SIAM Journal on Scientific Computing vol. 38 B837–B865 (2016)](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems) -- [10.1137/15m1055085](https://doi.org/10.1137/15m1055085)
 - Rudy Eid. Time Domain Model Reduction by Moment Matching, Ph.D. thesis, Technische Universität München, München, 2009.
-- Matthias Geuß. A Black-Box Method for Parametric Model Order Reduction based on Matrix Interpolation with Application to Simulation and Control, Ph.D. thesis, Technische Universität München, München, 2015. -- [10.1515/auto-2016-0093](https://doi.org/10.1515/auto-2016-0093)
-- [Markus Giftthaler, et al. Parametric Model Order Reduction of Port-Hamiltonian Systems by Matrix Interpolation, at – Automatisierungstechnik (2014).](parametric-model-order-reduction-of-port-hamiltonian-systems-by-matrix-interpolation) -- [10.1515/auto-2013-1072](https://doi.org/10.1515/auto-2013-1072)
-- Serkan Gugercin, Athanasios C. Antoulas and Christopher Beattie, H2{\mathcal{H}_{2}} Model Reduction for Large-Scale Linear Dynamical Systems, SIAM Journal on Matrix Analysis and Applications 30 (2008), 609–638.10.1137/060666123 -- [10.1137/060666123](https://doi.org/10.1137/060666123)
-- [Serkan Gugercin, et al. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian Systems, Automatica (2012).](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
-- Heiko Panzer, et al. Parametric Model Order Reduction by Matrix Interpolation, at – Automatisierungstechnik 58 (2010), 475–484. -- [10.1524/auto.2010.0863](https://doi.org/10.1524/auto.2010.0863)
+- Geuß, M. A Black-Box method for parametric model order reduction based on matrix interpolation with application to simulation and control. at - Automatisierungstechnik vol. 64 774–775 (2016) -- [10.1515/auto-2016-0093](https://doi.org/10.1515/auto-2016-0093)
+- [Giftthaler, M., Wolf, T., Panzer, H. K. F. & Lohmann, B. Parametric Model Order Reduction of Port-Hamiltonian Systems by Matrix Interpolation. at - Automatisierungstechnik vol. 62 619–628 (2014)](parametric-model-order-reduction-of-port-hamiltonian-systems-by-matrix-interpolation) -- [10.1515/auto-2013-1072](https://doi.org/10.1515/auto-2013-1072)
+- Gugercin, S., Antoulas, A. C. & Beattie, C. $\mathcal{H}_2$ Model Reduction for Large-Scale Linear Dynamical Systems. SIAM Journal on Matrix Analysis and Applications vol. 30 609–638 (2008) -- [10.1137/060666123](https://doi.org/10.1137/060666123)
+- [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
+- Panzer, H., Mohring, J., Eid, R. & Lohmann, B. Parametric Model Order Reduction by Matrix Interpolation. auto vol. 58 475–484 (2010) -- [10.1524/auto.2010.0863](https://doi.org/10.1524/auto.2010.0863)
 - Rostyslav Valentynovych Polyuga, Model reduction of port-Hamiltonian systems, Ph.D. thesis, 2010.
-- Arjan van der Schaft, L2-Gain and Passivity Techniques in Nonlinear Control, Springer International Publishing, 2017. -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 

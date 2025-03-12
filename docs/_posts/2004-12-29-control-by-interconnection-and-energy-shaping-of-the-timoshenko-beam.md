@@ -41,3 +41,5 @@ In this paper, the dynamical control of a mixed finite and infinite dimensional 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam.bib)
+ 

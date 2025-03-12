@@ -30,7 +30,7 @@ distributed port-Hamiltonian systems; boundary control; energy-shaping control; 
 - **Pages:** 488--493
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.05.143](https://doi.org/10.1016/j.ifacol.2015.05.143)
-- **Event:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
+- **Note:** 8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,20 +50,31 @@ distributed port-Hamiltonian systems; boundary control; energy-shaping control; 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/asymptotic-stabilisation-of-distributed-port-hamiltonian-systems-by-boundary-energy-shaping-control.bib)
+ 
 ## References
+- Curtain, (1995)
+- Duindam, (2009)
+- Jacob, (2012)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- Macchelli, A. (2014a) Towards a port-based formulation of macroeconomic systems. Journal of the Franklin Institute, 351 (12):5235-5249. -- [10.1016/j.jfranklin.2014.09.009](https://doi.org/10.1016/j.jfranklin.2014.09.009)
+- Luo, (1999)
+- [Macchelli, A. Towards a port-based formulation of macro-economic systems. Journal of the Franklin Institute vol. 351 5235–5249 (2014)](towards-a-port-based-formulation-of-macro-economic-systems) -- [10.1016/j.jfranklin.2014.09.009](https://doi.org/10.1016/j.jfranklin.2014.09.009)
 - [Macchelli, A. Passivity-Based Control of Implicit Port-Hamiltonian Systems. SIAM Journal on Control and Optimization vol. 52 2422–2448 (2014)](passivity-based-control-of-implicit-port-hamiltonian-systems) -- [10.1137/130918228](https://doi.org/10.1137/130918228)
 - [Macchelli, A. Dirac structures on Hilbert spaces and boundary control of distributed port-Hamiltonian systems. Systems &amp; Control Letters vol. 68 43–50 (2014)](dirac-structures-on-hilbert-spaces-and-boundary-control-of-distributed-port-hamiltonian-systems) -- [10.1016/j.sysconle.2014.03.005](https://doi.org/10.1016/j.sysconle.2014.03.005)
-- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
-- [Macchelli, A. & Melchiorri, C. Control by interconnection of mixed port Hamiltonian systems. IEEE Transactions on Automatic Control vol. 50 1839–1844 (2005)](control-by-interconnection-of-mixed-port-hamiltonian-systems) -- [10.1109/TAC.2005.858656](https://doi.org/10.1109/TAC.2005.858656)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Macchelli, (2009)
+- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
+- [Macchelli, A. & Melchiorri, C. Control by interconnection of mixed port Hamiltonian systems. IEEE Transactions on Automatic Control vol. 50 1839–1844 (2005)](control-by-interconnection-of-mixed-port-hamiltonian-systems) -- [10.1109/tac.2005.858656](https://doi.org/10.1109/tac.2005.858656)
+- Maschke, Port controlled Hamiltonian systems: modeling origins and system theoretic properties. Nonlinear Control Systems (NOL- COS 1992). Proceedings of the 3rd IF AC Symposium on (1992)
+- Ortega, Putting energy back in control. Control Systems Magazine, IEEE (2001)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Pasumarthy, R. & van der Schaft, A. J. Achievable Casimirs and its implications on control of port-Hamiltonian systems. International Journal of Control vol. 80 1421–1438 (2007)](achievable-casimirs-and-its-implications-on-control-of-port-hamiltonian-systems) -- [10.1080/00207170701361273](https://doi.org/10.1080/00207170701361273)
-- [Ramirez, H., Le Gorrec, Y., Macchelli, A. & Zwart, H. Exponential Stabilization of Boundary Controlled Port-Hamiltonian Systems With Dynamic Feedback. IEEE Transactions on Automatic Control vol. 59 2849–2855 (2014)](exponential-stabilization-of-boundary-controlled-port-hamiltonian-systems-with-dynamic-feedback) -- [10.1109/TAC.2014.2315754](https://doi.org/10.1109/TAC.2014.2315754)
-- [Schoberl, M. & Siuka, A. On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems. IEEE Transactions on Automatic Control vol. 58 1823–1828 (2013)](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/TAC.2012.2235739](https://doi.org/10.1109/TAC.2012.2235739)
+- [Ramirez, H., Le Gorrec, Y., Macchelli, A. & Zwart, H. Exponential Stabilization of Boundary Controlled Port-Hamiltonian Systems With Dynamic Feedback. IEEE Transactions on Automatic Control vol. 59 2849–2855 (2014)](exponential-stabilization-of-boundary-controlled-port-hamiltonian-systems-with-dynamic-feedback) -- [10.1109/tac.2014.2315754](https://doi.org/10.1109/tac.2014.2315754)
+- Rodriguez, On stabilization of nonlinear distributed parameter port- controlled Hamiltonian systems via energy shaping. Decision and Control (CDC 2001). Proceedings of the 40th IEEE Conference on (2001)
+- [Schoberl, M. & Siuka, A. On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems. IEEE Transactions on Automatic Control vol. 58 1823–1828 (2013)](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/tac.2012.2235739](https://doi.org/10.1109/tac.2012.2235739)
 - [Siuka, A., Schöberl, M. & Schlacher, K. Port-Hamiltonian modelling and energy-based control of the Timoshenko beam. Acta Mechanica vol. 222 69–89 (2011)](port-hamiltonian-modelling-and-energy-based-control-of-the-timoshenko-beam) -- [10.1007/s00707-011-0510-2](https://doi.org/10.1007/s00707-011-0510-2)
+- Swaters, (2000)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 

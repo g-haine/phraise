@@ -33,7 +33,7 @@ Dielectric Elastomers; Dielectric Electro-Active Polymers; Mechatronics; Cone Me
 - **Pages:** 4855--4862
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.974](https://doi.org/10.1016/j.ifacol.2017.08.974)
-- **Event:** 20th IFAC World Congress
+- **Note:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}
@@ -53,19 +53,22 @@ Dielectric Elastomers; Dielectric Electro-Active Polymers; Mechatronics; Cone Me
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-thermodynamically-consistent-port-hamiltonian-model-for-dielectric-elastomer-membrane-actuators-and-generators.bib)
+ 
 ## References
-- Berselli, G., Vertechy, R., Babič, M. & Parenti Castelli, V. Dynamic modeling and experimental evaluation of a constant-force dielectric elastomer actuator. Journal of Intelligent Material Systems and Structures vol. 24 779–791 (2012) -- [10.1177/1045389X12457251](https://doi.org/10.1177/1045389X12457251)
-- Boyd, S., El Ghaoui, L., Feron, E., and Balakrishnan, V. Linear Matrix Inequalities in System and Control Theory. SIAM.
-- Calchand, N., Hubert, A., and Le Gorrec, Y. (2012). Port hamiltonian modeling of MSMA based actuator: Toward a thermodynamically consistent formulation. IFAC Proceedings, 260-264. -- [10.3182/20120829-3-IT-4022.00044](https://doi.org/10.3182/20120829-3-IT-4022.00044)
-- Carpi, F., Menon, C. & De Rossi, D. Electroactive Elastomeric Actuator for All-Polymer Linear Peristaltic Pumps. IEEE/ASME Transactions on Mechatronics vol. 15 460–470 (2010) -- [10.1109/TMECH.2009.2028884](https://doi.org/10.1109/TMECH.2009.2028884)
+- Berselli, G., Vertechy, R., Babič, M. & Parenti Castelli, V. Dynamic modeling and experimental evaluation of a constant-force dielectric elastomer actuator. Journal of Intelligent Material Systems and Structures vol. 24 779–791 (2012) -- [10.1177/1045389x12457251](https://doi.org/10.1177/1045389x12457251)
+- Calchand, N., Hubert, A. & Le Gorrec, Y. Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation* *The contribution of authors has been done within the context of the French National Research Agency sponsored project HAMECMOPSYS number ANR-11-BS03-0002. Further information is available at www.hamecmopsys.ens2m.fr/. IFAC Proceedings Volumes vol. 45 260–264 (2012) -- [10.3182/20120829-3-it-4022.00044](https://doi.org/10.3182/20120829-3-it-4022.00044)
+- Carpi, F., Menon, C. & De Rossi, D. Electroactive Elastomeric Actuator for All-Polymer Linear Peristaltic Pumps. IEEE/ASME Transactions on Mechatronics vol. 15 460–470 (2010) -- [10.1109/tmech.2009.2028884](https://doi.org/10.1109/tmech.2009.2028884)
+- Carpi, (2011)
+- Duindam, (2009)
 - Chiang Foo, C., Cai, S., Jin Adrian Koh, S., Bauer, S. & Suo, Z. Model of dissipative dielectric elastomers. Journal of Applied Physics vol. 111 (2012) -- [10.1063/1.3680878](https://doi.org/10.1063/1.3680878)
 - Hoffstadt, T. & Maas, J. Analytical modeling and optimization of DEAP-based multilayer stack-transducers. Smart Materials and Structures vol. 24 094001 (2015) -- [10.1088/0964-1726/24/9/094001](https://doi.org/10.1088/0964-1726/24/9/094001)
-- [Macchelli, A., Van Der Schaft, A., and Melchiorri, C. (2004). Multi-variable port Hamiltonian model of piezoelectric material. IEEE/RSJ Int. Conf. Intell. Robot. Syst, 897-902.](multi-variable-port-hamiltonian-model-of-piezoelectric-material) -- [10.1109/IROS.2004.1389466](https://doi.org/10.1109/IROS.2004.1389466)
-- Nishida, G., Takagi, K., Maschke, B., and Luo, Z. (2008). Multi-Scale Distributed Port-Hamiltonian Representation of Ionic Polymer-Metal Composite. IFAC Proceedings, 23000-2305. -- [10.3182/20080706-5-KR-1001.00388](https://doi.org/10.3182/20080706-5-KR-1001.00388)
-- Pei, Q., and Rosenthal, M. (2003). Multifunctional electroelastomer roll actuators and their application for biomimetic walking robots. Smart Structures and Materials, 281–290. -- [10.1117/12.484392](https://doi.org/10.1117/12.484392)
+- [Macchelli, A., van der Schaft, A. J. & Melchiorri, C. Multi-variable port Hamiltonian model of piezoelectric material. 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No.04CH37566) vol. 1 897–902](multi-variable-port-hamiltonian-model-of-piezoelectric-material) -- [10.1109/iros.2004.1389466](https://doi.org/10.1109/iros.2004.1389466)
+- Nishida, G., Takagi, K., Maschke, B. & Luo, Z. Multi-Scale Distributed Port-Hamiltonian Representation of Ionic Polymer-Metal Composite. IFAC Proceedings Volumes vol. 41 2300–2305 (2008) -- [10.3182/20080706-5-kr-1001.00388](https://doi.org/10.3182/20080706-5-kr-1001.00388)
+- Pei, Q., Rosenthal, M. A., Pelrine, R., Stanford, S. & Kornbluh, R. D. Multifunctional electroelastomer roll actuators and their application for biomimetic walking robots. SPIE Proceedings vol. 5051 281 (2003) -- [10.1117/12.484392](https://doi.org/10.1117/12.484392)
 - Rizzello, G., Hodgins, M., Naso, D., York, A. & Seelecke, S. Modeling of the effects of the electrical dynamics on the electromechanical response of a DEAP circular actuator with a mass–spring load. Smart Materials and Structures vol. 24 094003 (2015) -- [10.1088/0964-1726/24/9/094003](https://doi.org/10.1088/0964-1726/24/9/094003)
-- Rizzello, G., Naso, D., York, A. & Seelecke, S. Modeling, Identification, and Control of a Dielectric Electro-Active Polymer Positioning System. IEEE Transactions on Control Systems Technology vol. 23 632–643 (2015) -- [10.1109/TCST.2014.2338356](https://doi.org/10.1109/TCST.2014.2338356)
-- Rizzello, G., Naso, D., Turchiano, B., and Seelecke, S. (2016). Robust Position Control of Dielectric Elastomer Actuators Based on LMI Optimization. IEEE Trans. Control Syst. Technol., early access. -- [10.1109/TCST.2016.2519839](https://doi.org/10.1109/TCST.2016.2519839)
-- Vertechy, R., Fontana, M., Papini, G.P.R., and Bergamasco, M. (2013). Oscillating-water-column wave-energy-converter based on dielectric elastomer generator. SPIE Smart Structures and Materials+ Nondestructive Evaluation and Health Monitoring, 86870I. -- [10.1117/12.2012016](https://doi.org/10.1117/12.2012016)
+- Rizzello, G., Naso, D., York, A. & Seelecke, S. Modeling, Identification, and Control of a Dielectric Electro-Active Polymer Positioning System. IEEE Transactions on Control Systems Technology vol. 23 632–643 (2015) -- [10.1109/tcst.2014.2338356](https://doi.org/10.1109/tcst.2014.2338356)
+- Rizzello, G., Naso, D., Turchiano, B. & Seelecke, S. Robust Position Control of Dielectric Elastomer Actuators Based on LMI Optimization. IEEE Transactions on Control Systems Technology vol. 24 1909–1921 (2016) -- [10.1109/tcst.2016.2519839](https://doi.org/10.1109/tcst.2016.2519839)
+- Vertechy, R., Fontana, M., Rosati Papini, G. P. & Bergamasco, M. Oscillating-water-column wave-energy-converter based on dielectric elastomer generator. SPIE Proceedings (2013) doi:10.1117/12.2012016 -- [10.1117/12.2012016](https://doi.org/10.1117/12.2012016)
 - Wissler, M. & Mazza, E. Modeling of a pre-strained circular actuator made of dielectric elastomers. Sensors and Actuators A: Physical vol. 120 184–192 (2005) -- [10.1016/j.sna.2004.11.015](https://doi.org/10.1016/j.sna.2004.11.015)
 

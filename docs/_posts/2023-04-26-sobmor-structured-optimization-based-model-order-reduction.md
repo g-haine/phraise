@@ -21,7 +21,7 @@ Model order reduction (MOR) methods that are designed to preserve structural fea
 - **Issue:** 2
 - **Pages:** A502--A529
 - **Publisher:** Society for Industrial & Applied Mathematics (SIAM)
-- **DOI:** [10.1137/20M1380235](https://doi.org/10.1137/20M1380235)
+- **DOI:** [10.1137/20m1380235](https://doi.org/10.1137/20m1380235)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -41,8 +41,10 @@ Model order reduction (MOR) methods that are designed to preserve structural fea
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/sobmor-structured-optimization-based-model-order-reduction.bib)
+ 
 ## References
-- Aliyev, N., Benner, P., Mengi, E., Schwerdtner, P. & Voigt, M. Large-Scale Computation of $\mathcal{L}_\infty$-Norms by a Greedy Subspace Method. SIAM Journal on Matrix Analysis and Applications vol. 38 1496–1516 (2017) -- [10.1137/16M1086200](https://doi.org/10.1137/16M1086200)
+- Aliyev, N., Benner, P., Mengi, E., Schwerdtner, P. & Voigt, M. Large-Scale Computation of $\mathcal{L}_\infty$-Norms by a Greedy Subspace Method. SIAM Journal on Matrix Analysis and Applications vol. 38 1496–1516 (2017) -- [10.1137/16m1086200](https://doi.org/10.1137/16m1086200)
 - Antoulas, A. C. Approximation of Large-Scale Dynamical Systems. (2005) doi:10.1137/1.9780898718713 -- [10.1137/1.9780898718713](https://doi.org/10.1137/1.9780898718713)
 - Antoulas, A. C., Beattie, C. A. & Güğercin, S. Interpolatory Methods for Model Reduction. (Society for Industrial and Applied Mathematics, 2020). doi:10.1137/1.9781611976083 -- [10.1137/1.9781611976083](https://doi.org/10.1137/1.9781611976083)
 - Bai, Z. & Su, Y. Dimension Reduction of Large-Scale Second-Order Dynamical Systems via a Second-Order Arnoldi Method. SIAM Journal on Scientific Computing vol. 26 1692–1709 (2005) -- [10.1137/040605552](https://doi.org/10.1137/040605552)

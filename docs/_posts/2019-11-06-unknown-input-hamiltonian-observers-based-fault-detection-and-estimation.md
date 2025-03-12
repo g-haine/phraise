@@ -32,3 +32,5 @@ category: chapters
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/unknown-input-hamiltonian-observers-based-fault-detection-and-estimation.bib)
+ 

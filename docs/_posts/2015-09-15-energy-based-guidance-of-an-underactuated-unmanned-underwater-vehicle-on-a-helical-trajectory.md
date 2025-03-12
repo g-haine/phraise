@@ -50,21 +50,25 @@ Unmanned underwater vehicle; Guidance; Energy routing; Nonlinear systems; Energy
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/energy-based-guidance-of-an-underactuated-unmanned-underwater-vehicle-on-a-helical-trajectory.bib)
+ 
 ## References
-- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/S0167-6911(01)00176-1](https://doi.org/10.1016/S0167-6911(01)00176-1)
+- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
+- Brogliato, (2007)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
-- Donaire, A., & Perez, T. (2010). Port-Hamiltonian theory of motion control for marine craft. In Proceedings of the IFAC conference on control applications in marine systems. Rostock, Germany. -- [10.3182/20100915-3-DE-3008.00054](https://doi.org/10.3182/20100915-3-DE-3008.00054)
+- Donaire, A. & Perez, T. Port-Hamiltonian Theory of Motion Control for Marine Craft. IFAC Proceedings Volumes vol. 43 201–206 (2010) -- [10.3182/20100915-3-de-3008.00054](https://doi.org/10.3182/20100915-3-de-3008.00054)
 - [Donaire, A. & Perez, T. Dynamic positioning of marine craft using a port-Hamiltonian framework. Automatica vol. 48 851–856 (2012)](dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework) -- [10.1016/j.automatica.2012.02.022](https://doi.org/10.1016/j.automatica.2012.02.022)
-- Donaire, A., Perez, T., & Renton, C. (2011). Manoeuvring control of fully-actuated marine vehicles—a port-Hamiltonian system approach to tracking. In The Australian control conference AUCC. Melbourne Victoria, September 2011.
-- Duindam, V. (2006). Port-based modeling and control for efficient bipedal walking robots [Ph.D. thesis]. University of Twente. Twente, The Netherlands.
-- From, P. J., Pettersen, K. Y., & Gravdahl, J. T. (2010). Singularity-free dynamic equations of auv-manipulator systems. In Proceedings of symposium on intelligent autonomous vehicles. -- [10.3182/20100906-3-IT-2019.00008](https://doi.org/10.3182/20100906-3-IT-2019.00008)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
-- Gertler, M., & Hagen, G. (1967). Standard equations of motion for submarine simulation. Technical Report 2510. David Taylor Naval Ship Research and Development Center. -- [10.21236/AD0653861](https://doi.org/10.21236/AD0653861)
+- Egeland, (2002)
+- Faltinsen, (1990)
+- Fossen, (1994)
+- Fossen, (2011)
+- From, P. J., Pettersen, K. Y. & Gravdahl, J. T. Singularity-Free Dynamic Equations of AUV-Manipulator Systems. IFAC Proceedings Volumes vol. 43 31–36 (2010) -- [10.3182/20100906-3-it-2019.00008](https://doi.org/10.3182/20100906-3-it-2019.00008)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Gertler, M. & Hagen, G. R. STANDARD EQUATIONS OF MOTION FOR SUBMARINE SIMULATION. http://dx.doi.org/10.21236/AD0653861 (1967) doi:10.21236/ad0653861 -- [10.21236/ad0653861](https://doi.org/10.21236/ad0653861)
 - Hogan, N. Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control vol. 107 1–7 (1985) -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- Salisbury, J. (1980). Active stiffness control of a manipulator in cartesian coordinates. In Proceedings of the IEEE conference on decision and control (pp. 95–100). -- [10.1109/CDC.1980.272026](https://doi.org/10.1109/CDC.1980.272026)
-- van der Schaft, A. (2000). L2-gain and passivity techniques in nonlinear control. In Communications and control engineering. London: Springer-Verlag. -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- van der Schaft, A. (2006). Port-Hamiltonian systems: an introductory survey. In Proceeding of the international congress of mathematicians.
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Salisbury, J. Active stiffness control of a manipulator in cartesian coordinates. 1980 19th IEEE Conference on Decision and Control including the Symposium on Adaptive Processes (1980) doi:10.1109/cdc.1980.272026 -- [10.1109/cdc.1980.272026](https://doi.org/10.1109/cdc.1980.272026)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control vol. 103 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
 - [Valentinis, F., Donaire, A. & Perez, T. Energy-based motion control of a slender hull unmanned underwater vehicle. Ocean Engineering vol. 104 604–616 (2015)](energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle) -- [10.1016/j.oceaneng.2015.05.014](https://doi.org/10.1016/j.oceaneng.2015.05.014)
 

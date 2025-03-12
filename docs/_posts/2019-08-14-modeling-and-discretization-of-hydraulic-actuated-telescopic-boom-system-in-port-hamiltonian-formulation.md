@@ -38,3 +38,5 @@ The hydraulic actuated telescopic boom system is the primary operation actuator 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/modeling-and-discretization-of-hydraulic-actuated-telescopic-boom-system-in-port-hamiltonian-formulation.bib)
+ 

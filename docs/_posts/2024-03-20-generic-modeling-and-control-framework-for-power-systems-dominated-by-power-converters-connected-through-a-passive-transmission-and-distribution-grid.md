@@ -18,7 +18,7 @@ category: articles
 - **Issue:** 
 - **Pages:** 
 - **Publisher:** Power System Technology Press
-- **DOI:** [10.17775/CSEEJPES.2023.06400](https://doi.org/10.17775/CSEEJPES.2023.06400)
+- **DOI:** [10.17775/cseejpes.2023.06400](https://doi.org/10.17775/cseejpes.2023.06400)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -31,4 +31,6 @@ category: articles
 }
 {% endraw %}
 {% endhighlight %}
+ 
+[Download the bib file]({{ site.baseurl }}/assets/bib/generic-modeling-and-control-framework-for-power-systems-dominated-by-power-converters-connected-through-a-passive-transmission-and-distribution-grid.bib)
  

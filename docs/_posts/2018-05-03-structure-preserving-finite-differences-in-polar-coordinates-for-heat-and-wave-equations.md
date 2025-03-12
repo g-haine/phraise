@@ -31,7 +31,7 @@ Distributed port-Hamiltonian systems; staggered grids; finite difference method;
 - **Pages:** 571--576
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.03.096](https://doi.org/10.1016/j.ifacol.2018.03.096)
-- **Event:** 9th Vienna International Conference on Mathematical Modelling
+- **Note:** 9th Vienna International Conference on Mathematical Modelling
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,15 +51,18 @@ Distributed port-Hamiltonian systems; staggered grids; finite difference method;
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/structure-preserving-finite-differences-in-polar-coordinates-for-heat-and-wave-equations.bib)
+ 
 ## References
-- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- Duindam, (2009)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
+- Hairer, (2006)
 - ISERLES, A. Generalized Leapfrog Methods. IMA Journal of Numerical Analysis vol. 6 381–392 (1986) -- [10.1093/imanum/6.4.381](https://doi.org/10.1093/imanum/6.4.381)
-- Jacob, B. and Zwart, H. (2012). Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces, volume 223 of Operator Theory: Advances and Applications. Birkhäuser, Basel, Switzerland.
-- Kantorovich, L.V. (1958). Approximate methods of higher analysis.
+- Kotyczka, Finite volume structure-preserving discretization of 1d distributed-parameter port-hamiltonian systems. In Proc. 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations, Bertinoro, Italy (2016)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- Maschke, B. and van der Schaft, A. (1992). Port controlled Hamiltonian systems: modeling origins and system theoretic properties. In Proceedings of the 3rd IFAC Symposium on Nonlinear Control Systems, NOLCOS’92, 282– 288. Bordeaux, France.
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
 - [Trenchant, V., Fares, Y., Ramirez, H. & Le Gorrec, Y. A port-Hamiltonian formulation of a 2D boundary controlled acoustic system. IFAC-PapersOnLine vol. 48 235–240 (2015)](a-port-hamiltonian-formulation-of-a-2d-boundary-controlled-acoustic-system) -- [10.1016/j.ifacol.2015.10.245](https://doi.org/10.1016/j.ifacol.2015.10.245)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Trenchant, Structure preserving spatial discretization of 2d hyperbolic systems using staggered grids finite difference. In American Control Conference (ACC) (2017)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

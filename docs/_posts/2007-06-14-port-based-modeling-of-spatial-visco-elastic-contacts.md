@@ -48,12 +48,29 @@ Contacts; Geometry; Port-Hamiltonian
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-based-modeling-of-spatial-visco-elastic-contacts.bib)
+ 
 ## References
+- Bloch, Representation of dirac structures on vector spaces and nonlinear lcv-circuits. (1999)
 - Armstrong-Hélouvry, B., Dupont, P. & De Wit, C. C. A survey of models, analysis tools and compensation methods for the control of machines with friction. Automatica vol. 30 1083–1138 (1994) -- [10.1016/0005-1098(94)90209-7](https://doi.org/10.1016/0005-1098(94)90209-7)
-- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- Bicchi, Robotic grasping and contact: a review. (2000)
+- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Cutkosky, M. R. & Wright, P. K. Friction, Stability and the Design of Robotic Fingers. The International Journal of Robotics Research vol. 5 20–37 (1986) -- [10.1177/027836498600500402](https://doi.org/10.1177/027836498600500402)
+- Duindam, Modeling the kinematics and dynamics of compliant contact. (2003)
+- Harris, (1990)
+- Howard, On the 6×6 stiffness matrix for three dimensional motions. (1995)
+- Hunt, Coefficient of restitution interpreted as damping in vibroimpact. ASMEJAM (1975)
+- Landzettel, Rokviss verification of advanced tele-presence concepts for future space missions. (2002)
 - Marhefka, D. W. & Orin, D. E. A compliant contact model with nonlinear damping for simulation of robotic systems. IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans vol. 29 566–572 (1999) -- [10.1109/3468.798060](https://doi.org/10.1109/3468.798060)
 - Marigo, A. & Bicchi, A. Rolling bodies with regular surface: controllability theory and applications. IEEE Transactions on Automatic Control vol. 45 1586–1599 (2000) -- [10.1109/9.880610](https://doi.org/10.1109/9.880610)
 - Montana, D. J. The Kinematics of Contact and Grasp. The International Journal of Robotics Research vol. 7 17–32 (1988) -- [10.1177/027836498800700302](https://doi.org/10.1177/027836498800700302)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Montana, The kinematics of contact with compliance. (1989)
+- Paynter, (1960)
+- Stramigioli, (2001)
+- Tellegen, A general network theorem, with applications. Philips Res Rep (1952)
+- van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Ubertragungstechnik (1995)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- van der Schaft, Mathematical structures in the network representation of energy-conserving physical systems. (1996)
+- Visser, Screw bondgraph contact dynamics. (2002)
+- Zefran, Affine connections for the Cartesian stiffness matrix. (1997)
 

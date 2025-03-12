@@ -31,7 +31,7 @@ port-Hamiltonian systems; partial differential-algebraic systems; Dirac structur
 - **Pages:** 223--229
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.082](https://doi.org/10.1016/j.ifacol.2021.11.082)
-- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,13 +51,23 @@ port-Hamiltonian systems; partial differential-algebraic systems; Dirac structur
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/some-notes-on-port-hamiltonian-systems-on-banach-spaces.bib)
+ 
 ## References
+- Alt, (2016)
 - Arendt, W. & Kreuter, M. Mapping theorems for Sobolev spaces of vector-valued functions. Studia Mathematica vol. 240 275–299 (2018) -- [10.4064/sm8757-4-2017](https://doi.org/10.4064/sm8757-4-2017)
 - Barbu, V. Nonlinear Differential Equations of Monotone Types in Banach Spaces. Springer Monographs in Mathematics (Springer New York, 2010). doi:10.1007/978-1-4419-5542-5 -- [10.1007/978-1-4419-5542-5](https://doi.org/10.1007/978-1-4419-5542-5)
-- [Kurula, M., Zwart, H., van der Schaft, A. & Behrndt, J. Dirac structures and their composition on Hilbert spaces. Journal of Mathematical Analysis and Applications vol. 372 402–422 (2010)](dirac-structures-and-their-composition-on-hilbert-spaces) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
+- Kurula, M., Zwart, H., van der Schaft, A. & Behrndt, J. Dirac structures and their composition on Hilbert spaces. Journal of Mathematical Analysis and Applications vol. 372 402–422 (2010) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
-- Chill, R., Reis, T., and Stykel, T. (2021). Analysis of a quasilinear coupled magneto-quasistatic model. Part I: Solvability and regularity of solutions. Hamburger Beiträge zur Angewandten Mathematik 2021-1, Univer-sität Hamburg.
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Cortes Garcia, Systems of differential algebraic equations in computational electromagnetics. (2018)
+- Gernandt, A linear relation approach to port-Hamiltonian differential-algebraic equations. (2020)
+- Gernandt, Port-Hamiltonian formulation of nonlinear electrical circuits. J. Geom. Phys. (2020)
+- Jacob, (2012)
+- Jeltsema, Port-Hamiltonian systems theory: An introductory overview. Foundations and Trends in Systems and Control (2014)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
-- [Mehl, C., Mehrmann, V. & Wojtylak, M. Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems. SIAM Journal on Matrix Analysis and Applications vol. 39 1489–1519 (2018)](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18M1164275](https://doi.org/10.1137/18M1164275)
+- [Mehl, C., Mehrmann, V. & Wojtylak, M. Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems. SIAM Journal on Matrix Analysis and Applications vol. 39 1489–1519 (2018)](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18m1164275](https://doi.org/10.1137/18m1164275)
+- Reis, Analysis of a quasilin-ear coupled magneto-quasistatic model. Part II: Passivity, port-Hamiltonian formulation and solution estimates. (2021)
+- Zeidler, (1986)
+- Zeidler, (1986)
 

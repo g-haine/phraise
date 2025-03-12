@@ -31,7 +31,7 @@ Constrained port Hamiltonian system; infinite dimensional system; multi-scale mo
 - **Pages:** 495--500
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2019.11.724](https://doi.org/10.1016/j.ifacol.2019.11.724)
-- **Event:** 8th IFAC Symposium on Mechatronic Systems MECHATRONICS 2019- Vienna, Austria, 4–6 September 2019
+- **Note:** 8th IFAC Symposium on Mechatronic Systems MECHATRONICS 2019- Vienna, Austria, 4–6 September 2019
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,17 +51,22 @@ Constrained port Hamiltonian system; infinite dimensional system; multi-scale mo
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/constrained-port-hamiltonian-formulation-of-multiscale-distributed-parameter-ipmc-systems.bib)
+ 
 ## References
-- Branco, P. J. C., Lopes, B. & Dente, J. A. Nonuniformly Charged Ionic Polymer–Metal Composite Actuators: Electromechanical Modeling and Experimental Validation. IEEE Transactions on Industrial Electronics vol. 59 1105–1113 (2012) -- [10.1109/TIE.2011.2162710](https://doi.org/10.1109/TIE.2011.2162710)
+- Bao, (2002)
+- Branco, P. J. C., Lopes, B. & Dente, J. A. Nonuniformly Charged Ionic Polymer–Metal Composite Actuators: Electromechanical Modeling and Experimental Validation. IEEE Transactions on Industrial Electronics vol. 59 1105–1113 (2012) -- [10.1109/tie.2011.2162710](https://doi.org/10.1109/tie.2011.2162710)
 - Gennes, P. G. de, Okumura, K., Shahinpoor, M. & Kim, K. J. Mechanoelectric effects in ionic gels. Europhysics Letters (EPL) vol. 50 513–518 (2000) -- [10.1209/epl/i2000-00299-3](https://doi.org/10.1209/epl/i2000-00299-3)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-92) -- [10.1016/S1474-6670(17)52308-3](https://doi.org/10.1016/S1474-6670(17)52308-3)
-- Nishida, G., Takagi, K., Maschke, B., and Luo, Z.w. (2008). Multi-scale distributed port-hamiltonian representation of ionic polymer-metal composite. In Proceedings of the 17th IFAC World Congress, volume 17. -- [10.3182/20080706-5-KR-1001.00388](https://doi.org/10.3182/20080706-5-KR-1001.00388)
-- Nishida, G., Takagi, K., Maschke, B. & Osada, T. Multi-scale distributed parameter modeling of ionic polymer-metal composite soft actuator. Control Engineering Practice vol. 19 321–334 (2011) -- [10.1016/j.conengprac.2010.10.005](https://doi.org/10.1016/j.conengprac.2010.10.005)
+- [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties) -- [10.1016/s1474-6670(17)52308-3](https://doi.org/10.1016/s1474-6670(17)52308-3)
+- Nishida, G., Takagi, K., Maschke, B. & Luo, Z. Multi-Scale Distributed Port-Hamiltonian Representation of Ionic Polymer-Metal Composite. IFAC Proceedings Volumes vol. 41 2300–2305 (2008) -- [10.3182/20080706-5-kr-1001.00388](https://doi.org/10.3182/20080706-5-kr-1001.00388)
+- [Nishida, G., Takagi, K., Maschke, B. & Osada, T. Multi-scale distributed parameter modeling of ionic polymer-metal composite soft actuator. Control Engineering Practice vol. 19 321–334 (2011)](multi-scale-distributed-parameter-modeling-of-ionic-polymer-metal-composite-soft-actuator) -- [10.1016/j.conengprac.2010.10.005](https://doi.org/10.1016/j.conengprac.2010.10.005)
 - Park, K., Yoon, M.-K., Lee, S., Choi, J. & Thubrikar, M. Effects of electrode degradation and solvent evaporation on the performance of ionic-polymer–metal composite sensors. Smart Materials and Structures vol. 19 075002 (2010) -- [10.1088/0964-1726/19/7/075002](https://doi.org/10.1088/0964-1726/19/7/075002)
-- Shahinpoor, M. (ed.) (2016). Ionic Polymer Metal Composites (IPMCs), volume 1 of Smart Materials Series. The Royal Society of Chemistry. doi: 10.1039/9781782622581. -- [10.1039/9781782622581](https://doi.org/10.1039/9781782622581)
+- Ionic Polymer Metal Composites (IPMCs). (2015) doi:10.1039/9781782622581 -- [10.1039/9781782622581](https://doi.org/10.1039/9781782622581)
 - [Trenchant, V., Ramirez, H., Le Gorrec, Y. & Kotyczka, P. Finite differences on staggered grids preserving the port-Hamiltonian structure with application to an acoustic duct. Journal of Computational Physics vol. 373 673–697 (2018)](finite-differences-on-staggered-grids-preserving-the-port-hamiltonian-structure-with-application-to-an-acoustic-duct) -- [10.1016/j.jcp.2018.06.051](https://doi.org/10.1016/j.jcp.2018.06.051)
-- Wu, Y., Hamroun, B., Gorrec, Y. L. & Maschke, B. Port Hamiltonian System in Descriptor Form for Balanced Reduction: Application to a Nanotweezer. IFAC Proceedings Volumes vol. 47 11404–11409 (2014) -- [10.3182/20140824-6-ZA-1003.01579](https://doi.org/10.3182/20140824-6-ZA-1003.01579)
+- Villegas, (2007)
+- Wu, Y., Hamroun, B., Gorrec, Y. L. & Maschke, B. Port Hamiltonian System in Descriptor Form for Balanced Reduction: Application to a Nanotweezer. IFAC Proceedings Volumes vol. 47 11404–11409 (2014) -- [10.3182/20140824-6-za-1003.01579](https://doi.org/10.3182/20140824-6-za-1003.01579)
+- Xiao, (2001)
 - Yamaue, T., Mukai, H., Asaka, K. & Doi, M. Electrostress Diffusion Coupling Model for Polyelectrolyte Gels. Macromolecules vol. 38 1349–1356 (2005) -- [10.1021/ma047944j](https://doi.org/10.1021/ma047944j)
-- Zhu, Z., Chen, H., Wang, Y., and Li, B. (2012). Multi-physical modeling for electro-transport and deformation of ionic polymer metal composites. In Electroactive Polymer Actuators and Devices (EAPAD), volume 8340. Int. Soc. for Optics and Photonics. -- [10.1117/12.913020](https://doi.org/10.1117/12.913020)
+- Zhu, Z., Chen, H., Wang, Y. & Li, B. Multi-physical modeling for electro-transport and deformation of ionic polymer metal composites. SPIE Proceedings vol. 8340 83400Q (2012) -- [10.1117/12.913020](https://doi.org/10.1117/12.913020)
 

@@ -45,19 +45,20 @@ Switching Power Converters; port-Hamiltonian Model; Passive Output; Power Factor
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/adaptive-pi-stabilisation-of-switched-power-converters-described-by-port-hamiltonian-models.bib)
+ 
 ## References
-- Astolfi, A., Karagiannis, D., Ortega, R.: Nonlinear and Adaptive Control with Applications. Springer, Berlin (2007)
-- Desoer, C.A., Vidyasagar, M.: Feedback Systems: Input–Output Properties. Academic Press, New York (1975)
-- Escobar, G., van Der Schaft, A.J., Ortega, R.: A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35(3), 445–452 (1999) -- [10.1016/S0005-1098(98)00196-4](https://doi.org/10.1016/S0005-1098(98)00196-4)
-- Hernandez-Gomez, M., Ortega, R., Lamnabhi-Lagarrigue, F., Escobar, G.: Adaptive PI stabilization of switched power converters. IEEE Trans. Control Syst. Technol. 18(3), 688–698 (2010) -- [10.1109/TCST.2009.2023669](https://doi.org/10.1109/TCST.2009.2023669)
-- Jayawardhana, B., Ortega, R., Garcia-Canseco, E., Castan̋os, F.C.: Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Syst. Control Lett. 56(9–10), 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
+- A. Astolfi. Astolfi, A., Karagiannis, D., Ortega, R.: Nonlinear and Adaptive Control with Applications. Springer, Berlin (2007) (2007)
+- C.A. Desoer. Desoer, C.A., Vidyasagar, M.: Feedback Systems: Input–Output Properties. Academic Press, New York (1975) (1975)
+- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- Hernandez-Gomez, M., Ortega, R., Lamnabhi-Lagarrigue, F. & Escobar, G. Adaptive PI Stabilization of Switched Power Converters. IEEE Transactions on Control Systems Technology vol. 18 688–698 (2010) -- [10.1109/tcst.2009.2023669](https://doi.org/10.1109/tcst.2009.2023669)
+- Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Jeltsema, D.: Input–output passivity of switched power converters. Technical report (2006)
-- Kassakian, J., Schlecht, M., Verghese, G.: Principles of Power Electronics. Wesley, Reading (1991)
-- Khalil, H.K.: Nonlinear Systems, 3rd edn. Prentice Hall, Upper Saddle River (2002)
-- Perez, M., Ortega, R., Espinoza, J.: Passivity-based PI control of switched power converters. IEEE Trans. Control Syst. Technol. 12(6), 881–890 (2004) -- [10.1109/TCST.2004.833628](https://doi.org/10.1109/TCST.2004.833628)
-- Sanders, S., Verghese, G.C.: Lyapunov-based control for switched power converters. IEEE Trans. Power Electron. 7(1), 17–24 (1992) -- [10.1109/63.124573](https://doi.org/10.1109/63.124573)
-- Sastry, S., Bodson, M.: Adaptive Control: Stability, Convergence, and Robustness. Prentice Hall, Englewood Cliffs (1989)
-- van der Schaft, A.: L
- 2-Gain and Passivity Techniques in Nonlinear Control. Springer, London (2000) -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- Zainea, M., van der Schaft, A., Buisson, J.: Stabilizing control for power converters connected to transmission lines. In: Proc. of the American Control Conference, New York, USA, pp. 3476–3481 (2007) -- [10.1109/ACC.2007.4282325](https://doi.org/10.1109/ACC.2007.4282325)
+- J. Kassakian. Kassakian, J., Schlecht, M., Verghese, G.: Principles of Power Electronics. Wesley, Reading (1991) (1991)
+- H.K. Khalil. Khalil, H.K.: Nonlinear Systems, 3rd edn. Prentice Hall, Upper Saddle River (2002) (2002)
+- Perez, M., Ortega, R. & Espinoza, J. Passivity-Based PI Control of Switched Power Converters. IEEE Transactions on Control Systems Technology vol. 12 881–890 (2004) -- [10.1109/tcst.2004.833628](https://doi.org/10.1109/tcst.2004.833628)
+- Sanders, S. R. & Verghese, G. C. Lyapunov-based control for switched power converters. IEEE Transactions on Power Electronics vol. 7 17–24 (1992) -- [10.1109/63.124573](https://doi.org/10.1109/63.124573)
+- S. Sastry. Sastry, S., Bodson, M.: Adaptive Control: Stability, Convergence, and Robustness. Prentice Hall, Englewood Cliffs (1989) (1989)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Zainea, M., van der Schaft, A. & Buisson, J. Stabilizing control for power converters connected to transmission lines. 2007 American Control Conference 3476–3481 (2007) doi:10.1109/acc.2007.4282325 -- [10.1109/acc.2007.4282325](https://doi.org/10.1109/acc.2007.4282325)
 

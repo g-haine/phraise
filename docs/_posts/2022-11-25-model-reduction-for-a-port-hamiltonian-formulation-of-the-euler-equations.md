@@ -18,7 +18,7 @@ The port-Hamiltonian (pH) formulation of partial-differential equations and thei
 - **ISBN:** 9783031118173
 - **Publisher:** Springer International Publishing
 - **DOI:** [10.1007/978-3-031-11818-0_1](https://doi.org/10.1007/978-3-031-11818-0_1)
-- **Event:** European Consortium for Mathematics in Industry
+- **Note:** European Consortium for Mathematics in Industry
  
 ## BibTeX
 {% highlight bibtex %}
@@ -37,10 +37,12 @@ The port-Hamiltonian (pH) formulation of partial-differential equations and thei
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/model-reduction-for-a-port-hamiltonian-formulation-of-the-euler-equations.bib)
+ 
 ## References
 - H. Egger. A mixed variational discretization for non-isothermal compressible flow in pipelines. arXiv:1611.03368, 2016.
-- [H. Egger, T. Kugler, B. Liljegren-Sailer, N. Marheineke, and V. Mehrmann. On structure-preserving model reduction for damped wave propagation in transport networks. SIAM J. Sci. Comput., 40(1), 2018.](on-structure-preserving-model-reduction-for-damped-wave-propagation-in-transport-networks) -- [10.1137/17M1125303](https://doi.org/10.1137/17M1125303)
-- S.-A. Hauschild and N. Marheineke. Structure-preserving discretization of a port-Hamiltonian formulation of the non-isothermal Euler equations. PAMM, 20(1):e202000014, 2021. -- [10.1002/pamm.202000014](https://doi.org/10.1002/pamm.202000014)
-- [B. Liljegren-Sailer and N. Marheineke. On port-Hamiltonian approximation of a nonlinear flow problem on networks. arXiv:2009.11216, 2021.](on-port-hamiltonian-approximation-of-a-nonlinear-flow-problem-on-networks) -- [10.1137/21M1443480](https://doi.org/10.1137/21M1443480)
-- [V. Mehrmann and R. Morandin. Structure-preserving discretization for port-Hamiltonian descriptor systems. In: 58th IEEE Conference on Decision and Control, CDC 2019, Nice, France, December 11–13, 2019, pages 6863–6868. IEEE, 2019.](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/CDC40024.2019.9030180](https://doi.org/10.1109/CDC40024.2019.9030180)
+- [Egger, H., Kugler, T., Liljegren-Sailer, B., Marheineke, N. & Mehrmann, V. On Structure-Preserving Model Reduction for Damped Wave Propagation in Transport Networks. SIAM Journal on Scientific Computing vol. 40 A331–A365 (2018)](on-structure-preserving-model-reduction-for-damped-wave-propagation-in-transport-networks) -- [10.1137/17m1125303](https://doi.org/10.1137/17m1125303)
+- Hauschild, S.-A. & Marheineke, N. Structure‐preserving discretization of a port‐Hamiltonian formulation of the non‐isothermal Euler equations. PAMM vol. 20 (2021) -- [10.1002/pamm.202000014](https://doi.org/10.1002/pamm.202000014)
+- [Liljegren-Sailer, B. & Marheineke, N. On Port-Hamiltonian Approximation of a Nonlinear Flow Problem on Networks. SIAM Journal on Scientific Computing vol. 44 B834–B859 (2022)](on-port-hamiltonian-approximation-of-a-nonlinear-flow-problem-on-networks) -- [10.1137/21m1443480](https://doi.org/10.1137/21m1443480)
+- Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180 -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 

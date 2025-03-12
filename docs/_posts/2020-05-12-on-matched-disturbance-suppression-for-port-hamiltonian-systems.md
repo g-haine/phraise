@@ -21,7 +21,7 @@ In this letter, we consider the robustification of port-Hamiltonian systems with
 - **Issue:** 4
 - **Pages:** 892--897
 - **Publisher:** Institute of Electrical and Electronics Engineers (IEEE)
-- **DOI:** [10.1109/LCSYS.2020.2994262](https://doi.org/10.1109/LCSYS.2020.2994262)
+- **DOI:** [10.1109/lcsys.2020.2994262](https://doi.org/10.1109/lcsys.2020.2994262)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -41,17 +41,20 @@ In this letter, we consider the robustification of port-Hamiltonian systems with
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-matched-disturbance-suppression-for-port-hamiltonian-systems.bib)
+ 
 ## References
-- Astolfi, A., Isidori, A. & Marconi, L. A Note on Disturbance Suppression for Hamiltonian Systems by State Feedback. IFAC Proceedings Volumes vol. 36 211–216 (2003) -- [10.1016/S1474-6670(17)38893-6](https://doi.org/10.1016/S1474-6670(17)38893-6)
-- Gentili, L. & van der Schaft, A. Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems 1. IFAC Proceedings Volumes vol. 36 205–210 (2003) -- [10.1016/S1474-6670(17)38892-4](https://doi.org/10.1016/S1474-6670(17)38892-4)
+- Astolfi, A., Isidori, A. & Marconi, L. A Note on Disturbance Suppression for Hamiltonian Systems by State Feedback. IFAC Proceedings Volumes vol. 36 211–216 (2003) -- [10.1016/s1474-6670(17)38893-6](https://doi.org/10.1016/s1474-6670(17)38893-6)
+- Gentili, L. & van der Schaft, A. Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems 1. IFAC Proceedings Volumes vol. 36 205–210 (2003) -- [10.1016/s1474-6670(17)38892-4](https://doi.org/10.1016/s1474-6670(17)38892-4)
+- gentili, Input Disturbance Suppression for Port-Hamiltonian Systems An Internal Model Approach (2007)
 - Li, C. & Wang, Y. Input disturbance suppression for port-controlled hamiltonian system via the internal model method. International Journal of Control, Automation and Systems vol. 11 268–276 (2013) -- [10.1007/s12555-011-0175-6](https://doi.org/10.1007/s12555-011-0175-6)
 - Liu Hsu, Ortega, R. & Damm, G. A globally convergent frequency estimator. IEEE Transactions on Automatic Control vol. 44 698–713 (1999) -- [10.1109/9.754808](https://doi.org/10.1109/9.754808)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
-- [Ferguson, J., Donaire, A. & Middleton, R. H. Integral Control of Port-Hamiltonian Systems: Nonpassive Outputs Without Coordinate Transformation. IEEE Transactions on Automatic Control vol. 62 5947–5953 (2017)](integral-control-of-port-hamiltonian-systems-nonpassive-outputs-without-coordinate-transformation) -- [10.1109/TAC.2017.2700995](https://doi.org/10.1109/TAC.2017.2700995)
+- [Ferguson, J., Donaire, A. & Middleton, R. H. Integral Control of Port-Hamiltonian Systems: Nonpassive Outputs Without Coordinate Transformation. IEEE Transactions on Automatic Control vol. 62 5947–5953 (2017)](integral-control-of-port-hamiltonian-systems-nonpassive-outputs-without-coordinate-transformation) -- [10.1109/tac.2017.2700995](https://doi.org/10.1109/tac.2017.2700995)
 - [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems &amp; Control Letters vol. 61 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
 - Bobtsov, A. A. New approach to the problem of globally convergent frequency estimator. International Journal of Adaptive Control and Signal Processing vol. 22 306–317 (2007) -- [10.1002/acs.971](https://doi.org/10.1002/acs.971)
-- [Ferguson, J., Donaire, A., Ortega, R. & Middleton, R. H. Matched Disturbance Rejection for a Class of Nonlinear Systems. IEEE Transactions on Automatic Control vol. 65 1710–1715 (2020)](matched-disturbance-rejection-for-a-class-of-nonlinear-systems) -- [10.1109/TAC.2019.2933398](https://doi.org/10.1109/TAC.2019.2933398)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [Ferguson, J., Donaire, A., Ortega, R. & Middleton, R. H. Matched Disturbance Rejection for a Class of Nonlinear Systems. IEEE Transactions on Automatic Control vol. 65 1710–1715 (2020)](matched-disturbance-rejection-for-a-class-of-nonlinear-systems) -- [10.1109/tac.2019.2933398](https://doi.org/10.1109/tac.2019.2933398)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Aranovskiy, S., Bobtsov, A., Kremlev, A., Nikolaev, N. & Slita, O. Identification of Frequency of Biased Harmonic Signal. European Journal of Control vol. 16 129–139 (2010) -- [10.3166/ejc.16.129-139](https://doi.org/10.3166/ejc.16.129-139)
 

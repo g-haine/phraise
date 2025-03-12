@@ -31,7 +31,7 @@ Flatness; Bond graphs; Bicausality; Port-Hamiltonian systems; Electrical storage
 - **Pages:** 13143--13148
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.2505](https://doi.org/10.1016/j.ifacol.2020.12.2505)
-- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,11 +51,16 @@ Flatness; Bond graphs; Bicausality; Port-Hamiltonian systems; Electrical storage
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-the-flat-representation-for-a-particular-class-of-port-hamiltonian-systems.bib)
+ 
 ## References
-- Franke, M. and Robenack, K. (2013). On the computation of flat outputs for nonlinear control systems. In Control Conference (ECC), 2013 European, 167–172. IEEE. -- [10.23919/ECC.2013.6669771](https://doi.org/10.23919/ECC.2013.6669771)
-- Hervagault, Y., Prodan, I., and Lefèvre, L. (2019). Motion planning for usvs with communication guarantees: an experimental setup. In 2019 18th European Control Conference (ECC), 3984–3989. IEEE. -- [10.23919/ECC.2019.8796221](https://doi.org/10.23919/ECC.2019.8796221)
-- Ngwompo, R. F. & Gawthrop, P. J. Bond graph-based simulation of non-linear inverse systems using physical performance specifications. Journal of the Franklin Institute vol. 336 1225–1247 (1999) -- [10.1016/S0016-0032(99)00032-0](https://doi.org/10.1016/S0016-0032(99)00032-0)
-- [Pham, T.H., Prodan, I., Genon-Catalot, D., and Lef‘evre, L. (2015). Port-Hamiltonian model and load balancing for DC-microgrid lift systems. Ph.D. thesis, LCIS, Grenoble-INP.](port-hamiltonian-model-for-dc-microgrid-lift-systems) -- [10.1016/j.ifacol.2015.10.224](https://doi.org/10.1016/j.ifacol.2015.10.224)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Franke, M. & Robenack, K. On the computation of flat outputs for nonlinear control systems. 2013 European Control Conference (ECC) 167–172 (2013) doi:10.23919/ecc.2013.6669771 -- [10.23919/ecc.2013.6669771](https://doi.org/10.23919/ecc.2013.6669771)
+- Hervagault, Y., Prodan, I. & Lefevre, L. Motion planning for USVs with communication guarantees: an experimental setup. 2019 18th European Control Conference (ECC) 3984–3989 (2019) doi:10.23919/ecc.2019.8796221 -- [10.23919/ecc.2019.8796221](https://doi.org/10.23919/ecc.2019.8796221)
+- Karnopp, (2012)
+- Levine, (2009)
+- Ngwompo, R. F. & Gawthrop, P. J. Bond graph-based simulation of non-linear inverse systems using physical performance specifications. Journal of the Franklin Institute vol. 336 1225–1247 (1999) -- [10.1016/s0016-0032(99)00032-0](https://doi.org/10.1016/s0016-0032(99)00032-0)
+- [Pham, T. H., Prodan, I., Genon-Catalot, D. & Lefévre, L. Port-Hamiltonian model for DC-microgrid lift systems. IFAC-PapersOnLine vol. 48 117–122 (2015)](port-hamiltonian-model-for-dc-microgrid-lift-systems) -- [10.1016/j.ifacol.2015.10.224](https://doi.org/10.1016/j.ifacol.2015.10.224)
+- Richard, Analysis of flatness using bond graphs and bicausality. IFAC Proceedings (2002)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [Zafeiratou, I., Nguyen, D. V. A., Prodan, I., Lefèvre, L. & Piétrac, L. Flatness-based hierarchical control of a meshed DC microgrid. IFAC-PapersOnLine vol. 51 222–227 (2018)](flatness-based-hierarchical-control-of-a-meshed-dc-microgrid) -- [10.1016/j.ifacol.2018.11.017](https://doi.org/10.1016/j.ifacol.2018.11.017)
 

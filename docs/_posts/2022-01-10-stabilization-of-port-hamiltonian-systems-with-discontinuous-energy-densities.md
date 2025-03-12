@@ -41,23 +41,25 @@ We establish an exponential stabilization result for linear port-Hamiltonian sys
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/stabilization-of-port-hamiltonian-systems-with-discontinuous-energy-densities.bib)
+ 
 ## References
 - R. A. Adams and J. J. F. Fournier, <i>Sobolev Spaces</i>, 2nd edition. Elsevier, 2003.
-- H. Amann and J. Escher, <i>Analysis I, II, III</i>, Birkhäuser, 2005, 2008, 2009. -- [10.1007/978-3-7643-7480-8](https://doi.org/10.1007/978-3-7643-7480-8)
-- B. Augner, <i>Stabilisation of Infinite-Dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback</i>, PhD thesis. Available at <a href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/augner/dc1613.pdf" target="_blank">http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/augner/dc1613.pdf</a>.
-- [B. Augner, B. Jacob.Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems, <i>Evol. Equ. Contr. Th.</i>, <b>3</b> (2014), 207-229.](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
-- S. Cox, E. Zuazua.The rate at which energy decays in a string damped at one end, <i>Indiana Univ. Math. J.</i>, <b>44</b> (1995), 545-573. -- [10.1512/iumj.1995.44.2001](https://doi.org/10.1512/iumj.1995.44.2001)
+- Amann, H. & Escher, J. Analysis III. (Birkhäuser Basel, 2009). doi:10.1007/978-3-7643-7480-8 -- [10.1007/978-3-7643-7480-8](https://doi.org/10.1007/978-3-7643-7480-8)
+- B. Augner, <i>Stabilisation of Infinite-Dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback</i>, PhD thesis.
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- Cox, S. & Zuazua, E. The rate at which energy decays in a string damped at one end. Indiana University Mathematics Journal vol. 44 0–0 (1995) -- [10.1512/iumj.1995.44.2001](https://doi.org/10.1512/iumj.1995.44.2001)
 - K.-J. Engel and R. Nagel, <i>One-Parameter Semigroups for Linear Evolution Equations</i>, Springer, 2000.
 - G. B. Folland, <i>Real Analysis</i>, 2nd edition, Wiley, 1999.
 - E. Hille and R. S. Phillips, <i>Functional Analysis and Semi-Groups</i>, American Mathematical Society Colloquium Publications, 1957.
-- [B. Jacob, K. Morris, H. Zwart.$C_0$-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain, <i>J. Evol. Equ.</i>, <b>15</b> (2015), 493-502.](c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain) -- [10.1007/s00028-014-0271-1](https://doi.org/10.1007/s00028-014-0271-1)
-- [B. Jacob and H. J. Zwart, <i>Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces</i>, Birkhäuser, 2012.](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- [Jacob, B., Morris, K. & Zwart, H. C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain. Journal of Evolution Equations vol. 15 493–502 (2015)](c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain) -- [10.1007/s00028-014-0271-1](https://doi.org/10.1007/s00028-014-0271-1)
+- [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - W. Rudin, <i>Real and Complex Analysis</i>, 3rd edition. McGraw-Hill, 1987.
-- [J. Schmid and H. Zwart, Stabilization of port-Hamiltonian systems by nonlinear boundary control in the presence of disturbances, <i>ESAIM Contr. Optim. Calc. Var.</i>, <b>27</b> (2021), Paper No. 53, 37 pp.](stabilization-of-port-hamiltonian-systems-by-nonlinear-boundary-control-in-the-presence-of-disturbances) -- [10.1051/cocv/2021051](https://doi.org/10.1051/cocv/2021051)
-- W. Sierpiński.Sur un problème concernant les ensembles mésurables superficiellement, <i>Fund. Math.</i>, <b>1</b> (1920), 112-115. -- [10.4064/fm-1-1-112-115](https://doi.org/10.4064/fm-1-1-112-115)
-- W. Sierpiński.Sur les rapports entre l'existence des intégrales $\int_0^1f(x, y)dx$, $\int_0^1f(x, y)dy$ et $\int_0^1dx\int_0^1f(x, y)dy$, <i>Fund. Math.</i>, <b>1</b> (1920), 142-147. -- [10.4064/fm-1-1-142-147](https://doi.org/10.4064/fm-1-1-142-147)
-- E. D. Sontag, <i>Mathematical Control Theory. Deterministic Finite-Dimensional Systems</i>, 2nd edition, Springer, 1998. -- [10.1007/978-1-4612-0577-7](https://doi.org/10.1007/978-1-4612-0577-7)
-- M. Tucsnak, G. Weiss.Well-posed systems – the LTI case and beyond, <i>Automatica</i>, <b>50</b> (2014), 1757-1779. -- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
+- [Schmid, J. & Zwart, H. Stabilization of port-Hamiltonian systems by nonlinear boundary control in the presence of disturbances. ESAIM: Control, Optimisation and Calculus of Variations vol. 27 53 (2021)](stabilization-of-port-hamiltonian-systems-by-nonlinear-boundary-control-in-the-presence-of-disturbances) -- [10.1051/cocv/2021051](https://doi.org/10.1051/cocv/2021051)
+- Sierpiński, W. Sur un problème concernant les ensembles mesurables superficiellement. Fundamenta Mathematicae vol. 1 112–115 (1920) -- [10.4064/fm-1-1-112-115](https://doi.org/10.4064/fm-1-1-112-115)
+- Sierpiński, W. Sur les rapports entre l’existence des intégrales $∫_0^1f(x,y)dx$, $∫_0^1f(x,y)dy$ et $∫_0^1dx∫_0^1f(x,y)dy$. Fundamenta Mathematicae vol. 1 142–147 (1920) -- [10.4064/fm-1-1-142-147](https://doi.org/10.4064/fm-1-1-142-147)
+- Sontag, E. D. Mathematical Control Theory. Texts in Applied Mathematics (Springer New York, 1998). doi:10.1007/978-1-4612-0577-7 -- [10.1007/978-1-4612-0577-7](https://doi.org/10.1007/978-1-4612-0577-7)
+- Tucsnak, M. & Weiss, G. Well-posed systems—The LTI case and beyond. Automatica vol. 50 1757–1779 (2014) -- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
 - J. Villegas, <i>A Port-Hamiltonian Approach to Distributed-Parameter Systems</i>, Ph.D. thesis, Universiteit Twente, 2007.
-- [J. A. Villegas, H. Zwart, Y. Le Gorrec, B. Maschke.Exponential stability of a class of boundary control systems, <i>IEEE Trans. Autom. Contr.</i>, <b>54</b> (2009), 142-147.](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
+- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 

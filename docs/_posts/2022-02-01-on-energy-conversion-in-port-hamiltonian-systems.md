@@ -21,7 +21,7 @@ Port-Hamiltonian systems with two external ports are studied, together with the 
 - **Issue:** 
 - **Pages:** 2421--2427
 - **Publisher:** IEEE
-- **DOI:** [10.1109/CDC45484.2021.9683292](https://doi.org/10.1109/CDC45484.2021.9683292)
+- **DOI:** [10.1109/cdc45484.2021.9683292](https://doi.org/10.1109/cdc45484.2021.9683292)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,14 +38,22 @@ Port-Hamiltonian systems with two external ports are studied, together with the 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-energy-conversion-in-port-hamiltonian-systems.bib)
+ 
 ## References
-- van der Schaft, A. Cyclo-Dissipativity Revisited. IEEE Transactions on Automatic Control vol. 66 2920–2924 (2021) -- [10.1109/TAC.2020.3013941](https://doi.org/10.1109/TAC.2020.3013941)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- van der Schaft, A. Cyclo-Dissipativity Revisited. IEEE Transactions on Automatic Control vol. 66 2920–2924 (2021) -- [10.1109/tac.2020.3013941](https://doi.org/10.1109/tac.2020.3013941)
+- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- van der schaft, Limits to Energy Conversion. IEEE Trans Aut Contr (2021)
 - Mueller-Roemer, C. & Caines, P. E. An Isothermal Energy Function State Space Model of a Stirling Engine. IFAC-PapersOnLine vol. 48 634–639 (2015) -- [10.1016/j.ifacol.2015.09.258](https://doi.org/10.1016/j.ifacol.2015.09.258)
-- Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/BF00276493](https://doi.org/10.1007/BF00276493)
+- Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
+- willems, Qualitative Behavior of Interconnected Systems. Annals of Systems Research (1973)
 - Hill, D. J. & Moylan, P. J. Dissipative Dynamical Systems: Basic Input-Output and State Properties. Journal of the Franklin Institute vol. 309 327–357 (1980) -- [10.1016/0016-0032(80)90026-5](https://doi.org/10.1016/0016-0032(80)90026-5)
-- Dynamic Energy Router. IEEE Control Systems vol. 30 72–80 (2010) -- [10.1109/MCS.2010.938096](https://doi.org/10.1109/MCS.2010.938096)
+- hill, Cyclo-Dissipativeness, Dissipativeness, and Losslessness for Nonlinear Dynamical Systems. Technical Report No EE7526 Univ of Newcastle (1975)
+- lanczos, The Variational Principles of Mechanics (1986)
+- kondepudi, Modern Thermodynamics From Heat Engines to Dissipative Structures (2015)
+- Dynamic Energy Router. IEEE Control Systems vol. 30 72–80 (2010) -- [10.1109/mcs.2010.938096](https://doi.org/10.1109/mcs.2010.938096)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- fermi, Thermodynamics (1937)
 - [Duindam, V. & Stramigioli, S. Port-Based Asymptotic Curve Tracking for Mechanical Systems. European Journal of Control vol. 10 411–420 (2004)](port-based-asymptotic-curve-tracking-for-mechanical-systems) -- [10.3166/ejc.10.411-420](https://doi.org/10.3166/ejc.10.411-420)
 - van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 

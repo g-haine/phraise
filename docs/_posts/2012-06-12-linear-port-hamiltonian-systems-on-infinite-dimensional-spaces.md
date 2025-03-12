@@ -30,3 +30,5 @@ category: books
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/linear-port-hamiltonian-systems-on-infinite-dimensional-spaces.bib)
+ 

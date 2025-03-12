@@ -32,7 +32,7 @@ infinite-dimensional systems; partial differential equations; boundary actuation
 - **Pages:** 44--51
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.053](https://doi.org/10.1016/j.ifacol.2021.11.053)
-- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}
@@ -52,17 +52,21 @@ infinite-dimensional systems; partial differential equations; boundary actuation
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/energy-based-control-and-observer-design-for-higher-order-infinite-dimensional-port-hamiltonian-systems.bib)
+ 
 ## References
 - [Brugnoli, A., Alazard, D., Pommier-Budinger, V. & Matignon, D. Port-Hamiltonian formulation and symplectic discretization of plate models Part II: Kirchhoff model for thin plates. Applied Mathematical Modelling vol. 75 961–981 (2019)](port-hamiltonian-formulation-and-symplectic-discretization-of-plate-models-part-ii-kirchhoff-model-for-thin-plates) -- [10.1016/j.apm.2019.04.036](https://doi.org/10.1016/j.apm.2019.04.036)
-- Ennsbrunner, H. and Schlacher, K. (2005). On the Geometrical Representation and Interconnection of Infinite Dimensional Port Controlled Hamiltonian Systems. Proceedings of the 44th IEEE Conference on Decision and Control and the European Control Conf., (5263–5268). -- [10.1109/CDC.2005.1582998](https://doi.org/10.1109/CDC.2005.1582998)
-- [Macchelli, A., Le Gorrec, Y., Ramirez, H. & Zwart, H. On the Synthesis of Boundary Control Laws for Distributed Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 62 1700–1713 (2017)](on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems) -- [10.1109/TAC.2016.2595263](https://doi.org/10.1109/TAC.2016.2595263)
-- Malzer, T., Rams, H., Kolar, B. & Schoberl, M. Stability Analysis of the Observer Error of an In-Domain Actuated Vibrating String. IEEE Control Systems Letters vol. 5 1237–1242 (2021) -- [10.1109/LCSYS.2020.3025414](https://doi.org/10.1109/LCSYS.2020.3025414)
-- Malzer, T., Rams, H., and Schöberl, M. (2018). Energy-Based Control of Nonlinear Infinite-Dimensional Port-Hamiltonian Systems with Dissipation. In Proceedings of the IEEE Conference on Decision and Control (CDC). -- [10.1109/CDC.2018.8619380](https://doi.org/10.1109/CDC.2018.8619380)
+- Ennsbrunner, H. & Schlacher, K. On the geometrical representation and interconnection of infinite dimensional port controlled Hamiltonian systems. Proceedings of the 44th IEEE Conference on Decision and Control 5263–5268 doi:10.1109/cdc.2005.1582998 -- [10.1109/cdc.2005.1582998](https://doi.org/10.1109/cdc.2005.1582998)
+- [Macchelli, A., Le Gorrec, Y., Ramirez, H. & Zwart, H. On the Synthesis of Boundary Control Laws for Distributed Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 62 1700–1713 (2017)](on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems) -- [10.1109/tac.2016.2595263](https://doi.org/10.1109/tac.2016.2595263)
+- [Malzer, T., Rams, H., Kolar, B. & Schoberl, M. Stability Analysis of the Observer Error of an In-Domain Actuated Vibrating String. IEEE Control Systems Letters vol. 5 1237–1242 (2021)](stability-analysis-of-the-observer-error-of-an-in-domain-actuated-vibrating-string) -- [10.1109/lcsys.2020.3025414](https://doi.org/10.1109/lcsys.2020.3025414)
+- Malzer, T., Rams, H. & Schoberl, M. Energy-Based Control of Nonlinear Infinite-Dimensional Port-Hamiltonian Systems with Dissipation. 2018 IEEE Conference on Decision and Control (CDC) 3746–3751 (2018) doi:10.1109/cdc.2018.8619380 -- [10.1109/cdc.2018.8619380](https://doi.org/10.1109/cdc.2018.8619380)
+- Malzer, On structural invariants in the energy-based in-domain control of infinite-dimensional port-Hamiltonian systems. Systems & Control Letters (2020)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- Rams, H. (2018). Contributions to the Analysis and Control of Higher-Order Infinite-Dimensional Systems. Ph.D. thesis, JKU Linz.
-- Rams, H. and Schöberl, M. (2017). On Structural Invariants in the Energy Based Control of Port-Hamiltonian Systems with Second-Order Hamiltonian. In Proceedings of the American Control Conference (ACC), 1139–1144. -- [10.23919/ACC.2017.7963106](https://doi.org/10.23919/ACC.2017.7963106)
-- [Schöberl, M. and Schlacher, K. (2015). Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems. In Proceedings of the 8th Vienna International Conference on Mathematical Modelling, volume 48, issue 1 of IFAC-PapersOnLine, 610–615.](lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems) -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
+- Meirovitch, (1997)
+- Rams, H. & Schoberl, M. On structural invariants in the energy based control of port-Hamiltonian systems with second-order Hamiltonian. 2017 American Control Conference (ACC) 1139–1144 (2017) doi:10.23919/acc.2017.7963106 -- [10.23919/acc.2017.7963106](https://doi.org/10.23919/acc.2017.7963106)
+- Saunders, (1989)
+- [Schöberl, M. & Schlacher, K. Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems. IFAC-PapersOnLine vol. 48 610–615 (2015)](lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems) -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
 - Schöberl, M. & Schlacher, K. On the extraction of the boundary conditions and the boundary ports in second-order field theories. Journal of Mathematical Physics vol. 59 (2018) -- [10.1063/1.5024847](https://doi.org/10.1063/1.5024847)
-- [Toledo, J., Ramirez, H., Wu, Y., and Le Gorrec, Y. (2020). Passive observers for distributed port-Hamiltonian systems. In Proceedings of the 21st IFAC World Congress, Berlin, Germany.](passive-observers-for-distributed-port-hamiltonian-systems) -- [10.1016/j.ifacol.2020.12.1356](https://doi.org/10.1016/j.ifacol.2020.12.1356)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Toledo, J., Ramirez, H., Wu, Y. & Gorrec, Y. L. Passive observers for distributed port-Hamiltonian systems. IFAC-PapersOnLine vol. 53 7587–7592 (2020)](passive-observers-for-distributed-port-hamiltonian-systems) -- [10.1016/j.ifacol.2020.12.1356](https://doi.org/10.1016/j.ifacol.2020.12.1356)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

@@ -41,3 +41,5 @@ In this paper, parametric model order reduction of linear time-invariant systems
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/parametric-model-order-reduction-of-port-hamiltonian-systems-by-matrix-interpolation.bib)
+ 

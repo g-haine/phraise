@@ -51,15 +51,25 @@ Compressible Euler equations; Hamiltonian formulation; de Rham complex; Hodge de
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations.bib)
+ 
 ## References
-- Morrison, P. J. Hamiltonian description of the ideal fluid. Reviews of Modern Physics vol. 70 467–521 (1998) -- [10.1103/RevModPhys.70.467](https://doi.org/10.1103/RevModPhys.70.467)
-- Morrison, P. J. & Greene, J. M. Noncanonical Hamiltonian Density Formulation of Hydrodynamics and Ideal Magnetohydrodynamics. Physical Review Letters vol. 45 790–794 (1980) -- [10.1103/PhysRevLett.45.790](https://doi.org/10.1103/PhysRevLett.45.790)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- Arnold, D. N., Falk, R. S. & Winther, R. Finite element exterior calculus, homological techniques, and applications. Acta Numerica vol. 15 1–155 (2006) -- [10.1017/S0962492906210018](https://doi.org/10.1017/S0962492906210018)
-- Arnold, D., Falk, R. & Winther, R. Finite element exterior calculus: from Hodge theory to numerical stability. Bulletin of the American Mathematical Society vol. 47 281–354 (2010) -- [10.1090/S0273-0979-10-01278-4](https://doi.org/10.1090/S0273-0979-10-01278-4)
+- Novotný, (2004)
+- Morrison, P. J. Hamiltonian description of the ideal fluid. Reviews of Modern Physics vol. 70 467–521 (1998) -- [10.1103/revmodphys.70.467](https://doi.org/10.1103/revmodphys.70.467)
+- Morrison, P. J. & Greene, J. M. Noncanonical Hamiltonian Density Formulation of Hydrodynamics and Ideal Magnetohydrodynamics. Physical Review Letters vol. 45 790–794 (1980) -- [10.1103/physrevlett.45.790](https://doi.org/10.1103/physrevlett.45.790)
+- Feistauer, (2003)
+- Arnold, (1999)
+- Cottet, (2000)
+- Schwarz, (1995)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- Arnold, D. N., Falk, R. S. & Winther, R. Finite element exterior calculus, homological techniques, and applications. Acta Numerica vol. 15 1–155 (2006) -- [10.1017/s0962492906210018](https://doi.org/10.1017/s0962492906210018)
+- Arnold, D., Falk, R. & Winther, R. Finite element exterior calculus: from Hodge theory to numerical stability. Bulletin of the American Mathematical Society vol. 47 281–354 (2010) -- [10.1090/s0273-0979-10-01278-4](https://doi.org/10.1090/s0273-0979-10-01278-4)
 - [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics vol. 62 1509–1531 (2012)](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
-- A.J. van der Schaft, B.M. Maschke, Fluid dynamical systems as Hamiltonian boundary control systems, in: Proc. 40th IEEE Conf. on Decision and Control, Orlando, Florida, 2001, pp. 4497–4502.
-- Bru¨ning, J. & Lesch, M. Hilbert complexes. Journal of Functional Analysis vol. 108 88–132 (1992) -- [10.1016/0022-1236(92)90147-B](https://doi.org/10.1016/0022-1236(92)90147-B)
+- Bru¨ning, J. & Lesch, M. Hilbert complexes. Journal of Functional Analysis vol. 108 88–132 (1992) -- [10.1016/0022-1236(92)90147-b](https://doi.org/10.1016/0022-1236(92)90147-b)
+- Gross, (2004)
+- Brenner, (1994)
+- Marsden, (1994)
+- Golo, Hamiltonian discretization of the Telegrapher’s equation. Automatica (2004)
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
 - Baaiu, A., Couenne, F., Lefevre, L., Le Gorrec, Y. & Tayakout, M. Structure-preserving infinite dimensional model reduction: Application to adsorption processes. Journal of Process Control vol. 19 394–404 (2009) -- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
 

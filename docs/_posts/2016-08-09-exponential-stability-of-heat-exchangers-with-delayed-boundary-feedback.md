@@ -31,13 +31,13 @@ hyperbolic equation; boundary feedback; time lag; stability; semigroup
 - **Pages:** 43--47
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.07.416](https://doi.org/10.1016/j.ifacol.2016.07.416)
-- **Event:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
+- **Note:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
  
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
 @article{Sano_2016,
-  title={{Exponential Stability of Heat Exchangers with Delayed Boundary Feedback**This research is supported by KAKENHI (Grant-in-Aid for Scientific Research (C), No. 15K04999), Japan Society for the Promotion of Science.}},
+  title={{Exponential Stability of Heat Exchangers with Delayed Boundary Feedback}},
   volume={49},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2016.07.416},
@@ -51,7 +51,14 @@ hyperbolic equation; boundary feedback; time lag; stability; semigroup
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/exponential-stability-of-heat-exchangers-with-delayed-boundary-feedback.bib)
+ 
 ## References
+- Curtain, (1995)
+- Huang, Characteristic conditions for exponential stability of linear dynamical systems in Hilbert spaces. Ann. Differential Equations (1985)
+- Krstic, (2008)
 - Kunimatsu, N. Stability analysis of heat-exchanger equations with boundary feedbacks. IMA Journal of Mathematical Control and Information vol. 15 317–330 (1998) -- [10.1093/imamci/15.4.317](https://doi.org/10.1093/imamci/15.4.317)
-- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
+- Pazy, (1983)
+- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
+- Xu, Exponential stability of the heat exchanger equation. Proc. the Second European Control Conference (1993)
 

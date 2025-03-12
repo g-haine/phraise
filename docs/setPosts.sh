@@ -48,28 +48,6 @@ pad_zero () {
     printf "%02d" "$1"
 }
 
-# Une fonctione qui récupère le bibtex depuis crossref
-print_bib () {
-    local doi=$1
-    crossrefEndpoint="http://api.crossref.org/works/$doi/transform/application/x-bibtex"
-    crossrefBib="$(curl -s $crossrefEndpoint)"
-    bibtex="$(echo "$crossrefBib" \
-        | sed -e 's/ @/@/g' \
-        | sed -e 's/},/},\n /g' \
-        | sed -e 's/, series/,\n  series/g' \
-        | sed -e 's/, pages/,\n  pages/g' \
-        | sed -e 's/, title/,\n  title/g' \
-        | sed -e '/title/s/={/={{/g' \
-        | sed -e '/title/s/},/}},/g' \
-        | sed -e 's/ }/\n}/g' \
-        | sed -e 's/, }/\n}/g' \
-        | sed -e '/pages/s/–/--/g' \
-        | sed -e '/month/d' \
-        | sed -e '/url/d' \
-        | tac | sed -e '2 s/,//g' | tac)"
-    echo "$bibtex"
-}
-
 # Charger les correspondances "Prénom Nom" → "slug"
 echo $(date -Iseconds)" Load names -> slugs table..."
 declare -A author_to_slug
@@ -105,6 +83,7 @@ format_authors () {
 # Remplace les $ par les balises markdwon de mathjax dans le titre
 mathjaxify_title () {
     title=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
+    title=$(echo "$title" | sed -e 's/\\/\\\\/g') # dans "title", jekyll demande un escape de \
     title=$(echo "$title" | sed -e 's/\*/\\\*/g') # dans "title", jekyll demande un escape de *
     title=$(echo "$title" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
     title=$(echo "$title" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
@@ -163,25 +142,24 @@ mathjaxify () {
     echo "$text"
 }
 
-# Get citation from DOI
-get_citation () {
-    local doi=$1
-    citation=$(curl -s https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US | tail -n 1)
-    echo "$citation" | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'
-}
-
 # Identifie la catégorie du post
 identify_category () {
     local type_ref=$1
     local event=$2
     # Proceedings
-    if [ "$type_ref" = "proceedings-article" ] || [ -n "$event" ]; then
+    if [ "$type_ref" = "proceedings-article" ]; then
         echo "proceedings"
         exit 0
     fi
-    # Book
-    if [ "$type_ref" = "book" ] || [ "$type_ref" = "monograph" ]; then
-        echo "books"
+    if [ -n "$event" ]; then
+        if echo $event | grep -q -e "Conference" -e "Workshop" -e "Symposium" -e "Congress" -e "Proceeding" -e "Consortium"; then
+            echo "proceedings"
+            exit 0
+        fi
+    fi
+    # Article
+    if [ "$type_ref" = "journal-article" ]; then
+        echo "articles"
         exit 0
     fi
     # Chapter
@@ -189,18 +167,22 @@ identify_category () {
         echo "chapters"
         exit 0
     fi
-    # Article
-    if [ "$type_ref" = "journal-article" ]; then
-        echo "articles"
+    # Book
+    if [ "$type_ref" = "book" ] || [ "$type_ref" = "monograph" ]; then
+        echo "books"
         exit 0
     fi
+    
+    echo "unknown"
 }
 
 # Génération de fichiers Markdown pour chaque DOI (différencié selon le type, et avec cross-ref à l'intérieur du site)
 create_markdown_post () {
     local data=$1
     date=$(echo "$data" | jq -r .dateY)-$(pad_zero $(echo "$data" | jq -r .dateM))-$(pad_zero $(echo "$data" | jq -r .dateD))
-    local output_md="_posts/$date-$(echo "$data" | jq -r .permalink).md"
+    permalink=$(echo "$data" | jq -r .permalink)
+    local output_md="_posts/$date-$permalink.md"
+    local bibtex="assets/bib/$permalink.bib"
 
     echo $(date -Iseconds)" Post under creation: $output_md"
 
@@ -210,7 +192,7 @@ create_markdown_post () {
     title=$(mathjaxify_title "$title")
     echo "title: \"$title\"" >> "$output_md"
     echo "date: $date 00:00:00 +0100" >> "$output_md"
-    echo "permalink: $(echo "$data" | jq -r .permalink)" >> "$output_md"
+    echo "permalink: $permalink" >> "$output_md"
     echo "year: $(echo "$data" | jq -r .year)" >> "$output_md"
     authors=$(echo "$data" | jq -r .authors 2>/dev/null)
     echo "authors: $(format_authors "$authors" false)" >> "$output_md"
@@ -260,39 +242,38 @@ create_markdown_post () {
     doi=$(echo "$data" | jq -r .doi)
     echo "- **DOI:** [$doi](https://doi.org/$doi)" >> "$output_md"
     if [ -n "$event" ]; then
-        echo "- **Event:** $event" >> "$output_md"
+        echo "- **Note:** $event" >> "$output_md"
     fi
     echo " " >> "$output_md"
     
     echo "## BibTeX" >> "$output_md"
     echo "{% highlight bibtex %}" >> "$output_md"
     echo "{% raw %}" >> "$output_md"
-    echo "$(print_bib "$doi")" >> "$output_md"
+    cat "$bibtex" >> "$output_md"
     echo "{% endraw %}" >> "$output_md"
     echo "{% endhighlight %}" >> "$output_md"
+    echo " " >> "$output_md"
+    echo "[Download the bib file]({{ site.baseurl }}/assets/bib/$permalink.bib)" >> "$output_md"
     echo " " >> "$output_md"
 
     references=""
     references_json=$(echo "$data" | jq -c '.references' 2>/dev/null)
     while IFS= read -r ref; do
         title_ref=$(echo "$ref" | jq -r .title 2>/dev/null)
-        doi_ref=$(echo "$ref" | jq -r .doi 2>/dev/null)
-        # Si on a seulement un DOI, on récupère un titre
-        if [ -z "$title_ref" ] && [ -n "$doi_ref" ]; then
-            title_ref=$(get_citation $doi_ref)
-        fi
-        # Si on a un titre et un DOI, on formatte
-        if [ -n "$title_ref" ] && [ -n "$doi_ref" ]; then
+        doi_ref=$(echo "$ref" | jq -r .doi 2>/dev/null | tr '[:upper:]' '[:lower:]')
+        # Si on a un DOI (alors on a récupéré un titre), on formatte
+        if [[ "$doi_ref" != "null" ]]; then
             # Si le DOI est connu, on lie avec la page correspondante
             if [[ " ${known_dois[@]} " =~ " $doi_ref " ]] && [ -n "${doi_keywords[$doi_ref]}" ]; then
-                title_ref="[$title_ref](${doi_keywords[$doi_ref]})"
+                title_ref=$(echo "[$title_ref](${doi_keywords[$doi_ref]})")
             fi
             # On ajoute la réf
             references+="- $title_ref -- [$doi_ref](https://doi.org/$doi_ref)\\n"
-        fi
-        # Si on a seulement un titre, on ajoute la réf par son titre seulement
-        if [ -n "$title_ref" ] && [ -z "$doi_ref" ]; then
-            references+="- $title_ref\\n"
+        # Si on a seulement un titre
+        else
+            if [[ $title_ref != "" ]]; then
+                references+=$(echo "- $title_ref\\n")
+            fi
         fi
     done < <(echo "$references_json" | jq -c '.[]' 2>/dev/null)
 

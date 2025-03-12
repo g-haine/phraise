@@ -45,17 +45,19 @@ Aerodynamic Force; Dirac Structure; Casimir Function; Dissipative Element; Total
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-stabilization-of-mixed-dimensional-parameter-port-hamiltonian-systems-via-energy-shaping.bib)
+ 
 ## References
-- S. Arimoto, M. Takegaki, A new feedback method for dynamic control of manipulators. J. Dyn. Syst. Meas. Control 102, 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
-- [M. Dalsmo, A. van der Schaft, On representations and integrability of mathematical structures in energy-conserving physical systems. SIAM J. Control Optim. 37(1), 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control vol. 103 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - D.C. Karnnop, D.L. Margolis, R. Rosenberg. System dynamics (Wiley, New York, 2000)
 - D.G. Luenberger, Optimization by Vector Space Methods (Wiley, New York, 1968)
-- J.E. Marsden, T.S. Ratiu, Introduction to Mechanics and Symmetry: A Basic Exposition of Classical Mechanical Systems, vol. 17 (Springer Science & Business Media, 1999) -- [10.1007/978-0-387-21792-5](https://doi.org/10.1007/978-0-387-21792-5)
-- B.M.J. Maschke, A.J. van der Schaft, Port Controlled Hamiltonian Representation of Distributed Parameter Systems (2000) -- [10.1016/S1474-6670(17)35543-X](https://doi.org/10.1016/S1474-6670(17)35543-X)
-- R. Ortega, A. Loria, P.J. Nicklasson, H. Sira-Ramirez, Passivity-based Control of Euler-lagrange Systems: Mechanical, Electrical and Electromechanical Applications (Springer Science & Business Media, 1998) -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
+- Marsden, J. E. & Ratiu, T. S. Introduction to Mechanics and Symmetry. Texts in Applied Mathematics (Springer New York, 1999). doi:10.1007/978-0-387-21792-5 -- [10.1007/978-0-387-21792-5](https://doi.org/10.1007/978-0-387-21792-5)
+- Maschke, B. M. J. & van der Schaft, A. J. Port Controlled Hamiltonian Representation of Distributed Parameter Systems. IFAC Proceedings Volumes vol. 33 27–37 (2000) -- [10.1016/s1474-6670(17)35543-x](https://doi.org/10.1016/s1474-6670(17)35543-x)
+- Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - R. Ortega, A. van der Schaft, B. Maschke, G. Escobar, Energy-shaping of Port-controlled Hamiltonian Systems by Interconnection, in Proceedings of the 38th IEEE Conference on Decision and Control, vol. 2, IEEE, 1999, pp. 1646–1651
-- [R. Ortega, A. van der Schaft, B. Maschke, G. Escobar, Interconnection and damping assignment passivity-based control of port-controlled hamiltonian systems. Automatica 38(4), 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - H. Rodríguez, A.J. van der Schaft, R. Ortega, On Stabilization of Nonlinear Distributed Parameter Port-controlled Hamiltonian Systems via Energy Shaping, in Proceedings of the 40th IEEE Conference on Decision and Control, vol. 1, IEEE, 2001, pp. 131–136
 - G.E. Swaters, Introduction to Hamiltonian Fluid Dynamics and Stability Theory, vol. 102 (CRC Press, 1999)
-- A. van der Schaft, A.J. Schaft. L2-gain and Passivity in Nonlinear Control (Springer, New York Inc, 1999) -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 

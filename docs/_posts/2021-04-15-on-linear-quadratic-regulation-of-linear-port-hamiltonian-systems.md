@@ -31,7 +31,7 @@ Port-Hamiltonian systems; Linear Quadratic Regulator; Passivity based control; C
 - **Pages:** 6857--6862
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.343](https://doi.org/10.1016/j.ifacol.2020.12.343)
-- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,7 +51,16 @@ Port-Hamiltonian systems; Linear Quadratic Regulator; Passivity based control; C
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-linear-quadratic-regulation-of-linear-port-hamiltonian-systems.bib)
+ 
 ## References
-- Ortega, R., Van der Schaft, A., Maschke, B., and Escobar, G. (1999). Energy-shaping of port-controlled hamilto-nian systems by interconnection. In Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No. 99CH36304), volume 2, 1646–1651. IEEE. -- [10.1109/CDC.1999.830260](https://doi.org/10.1109/CDC.1999.830260)
+- Anderson, (2007)
+- Duindam, (2009)
+- Goodwin, (2001)
+- Khalil, (2002)
+- Kwakernaak, (1972)
+- Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Energy-shaping of port-controlled Hamiltonian systems by interconnection. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 2 1646–1651 -- [10.1109/cdc.1999.830260](https://doi.org/10.1109/cdc.1999.830260)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- van der Shaft, (2017)
+- van der Shaft, (2014)
 

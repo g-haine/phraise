@@ -41,12 +41,19 @@ This contribution is dedicated to the geometric description of infinite-dimensio
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/modelling-of-piezoelectric-structures-a-hamiltonian-approach.bib)
+ 
 ## References
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Macchelli A.. Port Hamiltonian Systems – A unified approach for modeling and control (2002)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Ennsbrunner, H. and Schlacher, K. 2005. On the geometrical representation and interconnection of infinite dimensional port controlled Hamiltonian systems. 44th IEEE, Conference on Decision and Control and European Control Conference. 2005, Sevilla, Spain.
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1986). doi:10.1007/978-1-4684-0274-2 -- [10.1007/978-1-4684-0274-2](https://doi.org/10.1007/978-1-4684-0274-2)
-- Saunders, D. J. The Geometry of Jet Bundles. (1989) doi:10.1017/cbo9780511526411 -- [10.1017/CBO9780511526411](https://doi.org/10.1017/CBO9780511526411)
+- Giachetta G.. New Lagrangian and Hamiltonian Methods in Field Theory (1994)
+- Saunders, D. J. The Geometry of Jet Bundles. (1989) doi:10.1017/cbo9780511526411 -- [10.1017/cbo9780511526411](https://doi.org/10.1017/cbo9780511526411)
+- Boothby W. M.. An Introduction to Differentiable Manifolds and Riemanian Geometry (1986)
+- Pommaret J. F.. Systems of Partial Differential Equations and Lie Pseudogroups (1978)
+- Kugi A.. Non-linear Control Based on Physical Models (2001)
 - [Macchelli, A. & Melchiorri, C. Control by Interconnection and Energy Shaping of the Timoshenko Beam. Mathematical and Computer Modelling of Dynamical Systems vol. 10 231–251 (2004)](control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam) -- [10.1080/13873950412331335243](https://doi.org/10.1080/13873950412331335243)
 - Hebey, E. Nonlinear Analysis on Manifolds: Sobolev Spaces and Inequalities. Courant Lecture Notes (2000) doi:10.1090/cln/005 -- [10.1090/cln/005](https://doi.org/10.1090/cln/005)
 - Zeidler, E. Applied Functional Analysis. Applied Mathematical Sciences (Springer New York, 1995). doi:10.1007/978-1-4612-0815-0 -- [10.1007/978-1-4612-0815-0](https://doi.org/10.1007/978-1-4612-0815-0)

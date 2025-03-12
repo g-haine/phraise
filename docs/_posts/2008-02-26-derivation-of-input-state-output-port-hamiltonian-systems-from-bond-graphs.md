@@ -5,7 +5,7 @@ date: 2008-02-26 00:00:00 +0100
 permalink: derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs
 year: 2009
 authors: Alejandro Donaire, Sergio Junco
-category: proceedings
+category: articles
 tags:
   - Bond graphs
   - State-Input-Output Port-Hamiltonian Systems
@@ -29,7 +29,7 @@ Bond graphs; State-Input-Output Port-Hamiltonian Systems; Model equivalences
 - **Pages:** 137--151
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.simpat.2008.02.007](https://doi.org/10.1016/j.simpat.2008.02.007)
-- **Event:** Bond Graph Modelling
+- **Note:** Bond Graph Modelling
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,19 +49,30 @@ Bond graphs; State-Input-Output Port-Hamiltonian Systems; Model equivalences
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs.bib)
+ 
 ## References
-- P. Borne, G. Dauphin-Tanguy, J.P. Richard, F. Rotella, I. Zambettakis, Modélisation et Indentification des Processus, T2, Editions Technip, Paris, 1992.
-- Dauphin-Tanguy, G., Rahmani, A. & Sueur, C. Bond graph aided design of controlled systems. Simulation Practice and Theory vol. 7 493–513 (1999) -- [10.1016/S0928-4869(99)00009-9](https://doi.org/10.1016/S0928-4869(99)00009-9)
-- Delgado, M. & Sira-Ramı́rez, H. A bond graph approach to the modeling and simulation of switch regulated DC-to-DC power supplies. Simulation Practice and Theory vol. 6 631–646 (1998) -- [10.1016/S0928-4869(98)00011-1](https://doi.org/10.1016/S0928-4869(98)00011-1)
+- Achir, Bond graph and flatness based backstepping control of a salient permanent magnet synchronous motor. Journal of System and Control Engineering Part I (2005)
+- Borutzky, (2004)
+- Dauphin-Tanguy, G., Rahmani, A. & Sueur, C. Bond graph aided design of controlled systems. Simulation Practice and Theory vol. 7 493–513 (1999) -- [10.1016/s0928-4869(99)00009-9](https://doi.org/10.1016/s0928-4869(99)00009-9)
+- Delgado, M. & Sira-Ramı́rez, H. A bond graph approach to the modeling and simulation of switch regulated DC-to-DC power supplies. Simulation Practice and Theory vol. 6 631–646 (1998) -- [10.1016/s0928-4869(98)00011-1](https://doi.org/10.1016/s0928-4869(98)00011-1)
+- Donaire, Energy shaping and interconnection and damping assignment control in the bond graph domain. (2006)
 - Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory vol. 17 152–174 (2009) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
 - Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Gawthrop, P. J. Physical model-based control: A bond graph approach. Journal of the Franklin Institute vol. 332 285–305 (1995) -- [10.1016/0016-0032(95)00044-5](https://doi.org/10.1016/0016-0032(95)00044-5)
+- Golo, Hamiltonian Formulation of Bond Graphs, Nonlinear and Hybrid Systems in Automotive Control. (2003)
 - Huang, S. Y. & Youcef-Toumi, K. Zero Dynamics of Physical Systems From Bond Graph Models—Part I: SISO Systems. Journal of Dynamic Systems, Measurement, and Control vol. 121 10–17 (1999) -- [10.1115/1.2802426](https://doi.org/10.1115/1.2802426)
-- S. Junco, Stability analysis and stabilizing control synthesis via Lyapunov’s second method directly on bond graph of nonlinear systems, in: Proceedings of the International Conference on Industrial Electronics, Control and Instrumentation IECON’93, vol. 3, Maui, HI, USA, 1993, pp. 2065–2069. -- [10.1109/IECON.1993.339394](https://doi.org/10.1109/IECON.1993.339394)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Junco, S. Stability analysis and stabilizing control synthesis via Lyapunov’s second method directly on bond graphs of nonlinear systems. Proceedings of IECON ’93 - 19th Annual Conference of IEEE Industrial Electronics 2065–2069 doi:10.1109/iecon.1993.339394 -- [10.1109/iecon.1993.339394](https://doi.org/10.1109/iecon.1993.339394)
+- Junco, Speed control of series dc-motor: a bond graph based backstepping design. (2002)
+- Junco, Virtual prototyping of bond graphs models for controller synthesis through energy and power shaping. (2004)
+- Karnopp, (2000)
+- Lanczos, (1960)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ould Bouamama, B., Medjaher, K., Samantaray, A. K. & Staroswiecki, M. Supervision of an industrial steam generator. Part I: Bond graph modelling. Control Engineering Practice vol. 14 71–83 (2006) -- [10.1016/j.conengprac.2005.01.004](https://doi.org/10.1016/j.conengprac.2005.01.004)
-- Sueur, C. & Dauphin-Tanguy, G. Bond-graph approach for structural analysis of MIMO linear systems. Journal of the Franklin Institute vol. 328 55–70 (1991) -- [10.1016/0016-0032(91)90006-O](https://doi.org/10.1016/0016-0032(91)90006-O)
-- [A. van der Schaft, Port-Hamiltonian Systems: an introductory survey, in: Proceedings of the International Congress of Mathematicians ICM, vol. 3, Madrid, Spain, 2006, pp. 1339–1365.](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
-- Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/BF00276493](https://doi.org/10.1007/BF00276493)
-- Yeh, T.-J. Backstepping control in the physical domain. Journal of the Franklin Institute vol. 338 455–479 (2001) -- [10.1016/S0016-0032(01)00015-1](https://doi.org/10.1016/S0016-0032(01)00015-1)
+- Sueur, C. & Dauphin-Tanguy, G. Bond-graph approach for structural analysis of MIMO linear systems. Journal of the Franklin Institute vol. 328 55–70 (1991) -- [10.1016/0016-0032(91)90006-o](https://doi.org/10.1016/0016-0032(91)90006-o)
+- van der Schaft, (2000)
+- [van der Schaft, A. Port-Hamiltonian systems: an introductory survey. Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006 1339–1365 (2007) doi:10.4171/022-3/65](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
+- Wells, (1967)
+- Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
+- Yeh, T.-J. Backstepping control in the physical domain. Journal of the Franklin Institute vol. 338 455–479 (2001) -- [10.1016/s0016-0032(01)00015-1](https://doi.org/10.1016/s0016-0032(01)00015-1)
 

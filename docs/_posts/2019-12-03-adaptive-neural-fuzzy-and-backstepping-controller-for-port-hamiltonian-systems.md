@@ -18,7 +18,7 @@ category: articles
 - **Issue:** 1
 - **Pages:** 1
 - **Publisher:** Inderscience Publishers
-- **DOI:** [10.1504/IJCAT.2020.103894](https://doi.org/10.1504/IJCAT.2020.103894)
+- **DOI:** [10.1504/ijcat.2020.103894](https://doi.org/10.1504/ijcat.2020.103894)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -37,4 +37,6 @@ category: articles
 }
 {% endraw %}
 {% endhighlight %}
+ 
+[Download the bib file]({{ site.baseurl }}/assets/bib/adaptive-neural-fuzzy-and-backstepping-controller-for-port-hamiltonian-systems.bib)
  

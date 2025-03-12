@@ -30,7 +30,7 @@ Neural Network; Partial Differential Equation; Wave Equation; Stationary Solutio
 - **Issue:** 3
 - **Pages:** 227--248
 - **Publisher:** Springer Science and Business Media LLC
-- **DOI:** [10.1007/BF00379535](https://doi.org/10.1007/BF00379535)
+- **DOI:** [10.1007/bf00379535](https://doi.org/10.1007/bf00379535)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,41 +50,42 @@ Neural Network; Partial Differential Equation; Wave Equation; Stationary Solutio
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-asymptotic-stability-of-stationary-solutions-to-nonlinear-wave-and-klein-gordon-equations.bib)
+ 
 ## References
-- H. Berestycki & P.-L. Lions, Nonlinear scalar field equations I, II, Arch. Rational Mech. Anal. 82 (1983), 313?345, 347?375. -- [10.1007/BF00250555](https://doi.org/10.1007/BF00250555)
-- H. Brezis & E. Lieb, Minimum action solutions of some vector field equations, Comm. Math. Physics 96 (1984), 91?113. -- [10.1007/BF01217349](https://doi.org/10.1007/BF01217349)
-- J. M. Chadam, Asymptotics for $$\square u$$ = m 2 u + G(x, t, u, u x , u t ), I, II. Ann. Scuola Norm. Sup. Pisa Fis. Mat. 26 (1972), 33?65, 67?95.
-- J. Ginibre & G. Velo, Time decay of finite energy solutions of the nonlinear Klein-Gordon and Schrodinger equations, Ann. Inst. Henri Poincare 43 (1985), 399?442.
-- J. Ginibre & G. Velo, Scattering theory in the energy space for a class of non-linear wave equations, Comm. Math. Phys. 123 (1989), 535?573. -- [10.1007/BF01218585](https://doi.org/10.1007/BF01218585)
-- R. T. Glassey & W. A. Strauss, Decay of classical Yang-Mills fields, Comm. Math. Phys. 65 (1979), 1?13. -- [10.1007/BF01940957](https://doi.org/10.1007/BF01940957)
-- R. T. Glassey & W. A. Strauss, Decay of Yang-Mills field coupled to a scalar field, Comm. Math. Phys. 67 (1979), 51?67. -- [10.1007/BF01223200](https://doi.org/10.1007/BF01223200)
-- M. Grillakis, J. Shatah, & W. A. Strauss, Stability theory of solitary waves in the presence of symmetry, I, II, J. Func. Anal. 74 (1987), 160?197; 94 (1990), 308?348. -- [10.1016/0022-1236(87)90044-9](https://doi.org/10.1016/0022-1236(87)90044-9)
-- L. Hörmander, On the fully nonlinear Cauchy problem with small data, in: Microlocal analysis and nonlinear waves, IMA Vols. Math. Appl., 30, Springer, New York, 1991.
-- S. Klainerman, Long-time behavior of solutions to nonlinear evolution equations, Arch. Rational Mech. Anal. 78 (1982), 73?98. -- [10.1007/BF00253225](https://doi.org/10.1007/BF00253225)
-- A. I. Komech, On the stabilization of the interaction of a string with an oscillator, Russian Math. Surv. 46 (1991), 179?180. -- [10.1070/RM1991v046n04ABEH002825](https://doi.org/10.1070/RM1991v046n04ABEH002825)
-- A. I. Komech, Stabilization of the interaction of a string with a nonlinear oscillator, Moscow Univ. Math. Bull. 46 (1991), 34?39.
-- A. I. Komech, On stabilization of string-nonlinear oscillator interaction, J. Math. Anal. Appls. 196 (1995), 384?409. -- [10.1006/jmaa.1995.1415](https://doi.org/10.1006/jmaa.1995.1415)
-- A. I. Komech, On stabilization of string-oscillators interaction, Russian J. Math. Phys. 3 (1995), 227?248
-- P. D. Lax, C. S. Morawetz & R. S. Phillips, Exponential decay of solutions of the wave equation in the exterior of a star-shaped obstacle, Comm. Pure Appl. Math. 16 (1963), 477?486. -- [10.1002/cpa.3160160407](https://doi.org/10.1002/cpa.3160160407)
-- P. D. Lax & R. S. Phillips, Scattering Theory, Academic Press, New York, London, 1967.
-- P. D. Lax & R. S. Phillips, Scattering theory, Rocky Mountain J. Math. 1 (1967), 173?223. -- [10.1216/RMJ-1971-1-1-173](https://doi.org/10.1216/RMJ-1971-1-1-173)
-- J. L. Lions, Quelques méthodes de résolution des problèmes aux limites non linéaires, Paris, Dunod, 1969.
-- C. S. Morawetz, The decay of solutions to exterior initial-boundary value problem for the wave equation, Comm. Pure Appl. Math. 14 (1961), 561?568. -- [10.1002/cpa.3160140327](https://doi.org/10.1002/cpa.3160140327)
-- C. S. Morawetz, Exponential decay of solutions of the wave equation, Comm. Pure Appl. Math. 19 (1966), 439?444. -- [10.1002/cpa.3160190407](https://doi.org/10.1002/cpa.3160190407)
-- C. S. Morawetz & W. A. Strauss, Decay and scattering of solutions of a nonlinear relativistic wave equation, Comm. Pure and Appl. Math. 25 (1972), 1?31. -- [10.1002/cpa.3160250103](https://doi.org/10.1002/cpa.3160250103)
-- L. E. Payne & D. H. Sattinger, Saddle points and instability of nonlinear hyperbolic equations, Israel J. Math. 22 (1975), 272?303. -- [10.1007/BF02761595](https://doi.org/10.1007/BF02761595)
-- R. Racke, Zur existenz globaler Lösungen nichtlinearer Wellengleichungen, Jahresber. Deutsch. Math.-Verein. 94 (1992), 63?97.
-- M. Reed, Abstract Non-Linear Wave Equations, Springer Lecture Notes in Mathematics 507 (1976), 1?128. -- [10.1007/BFb0079272](https://doi.org/10.1007/BFb0079272)
-- I. Segal, Dispersion for nonlinear relativistic wave equations, Ann. Sci. Ecole Norm. Sup. 1 (1968), 459?497. -- [10.24033/asens.1170](https://doi.org/10.24033/asens.1170)
-- J. Shatah, Stable standing waves of nonlinear Klein-Gordon equations, Comm. Math. Phys. 91 (1983), 313?327. -- [10.1007/BF01208779](https://doi.org/10.1007/BF01208779)
-- J. Shatah, Unstable ground state of nonlinear Klein-Gordon equations, Trans. Amer. Math. Soc. 290 (1985), 701?710. -- [10.1090/S0002-9947-1985-0792821-7](https://doi.org/10.1090/S0002-9947-1985-0792821-7)
-- J. Shatah & W. A. Strauss, Instability of nonlinear bound states, Comm. Math. Phys. 100 (1985), 173?190. -- [10.1007/BF01212446](https://doi.org/10.1007/BF01212446)
-- W. A. Strauss, Decay and asymptotics for $$\square u$$ = F(u), J. Funct. Anal. 2 (1968), 409?457. -- [10.1016/0022-1236(68)90004-9](https://doi.org/10.1016/0022-1236(68)90004-9)
-- W. A. Strauss, Nonlinear invariant wave equations, Springer Lecture Notes in Phys. 73 (1978), 197?249. -- [10.1007/BFb0032334](https://doi.org/10.1007/BFb0032334)
-- B. R. Vainberg, On the analytical properties of the resolvent for a certain class of operator-pencils, Math. USSR Sbornik 6 (1968), 241?273. -- [10.1070/SM1968v006n02ABEH001062](https://doi.org/10.1070/SM1968v006n02ABEH001062)
-- B. R. Vainberg, Behavior of the solution of the Cauchy problem for hyperbolic equations as t??, Math. USSR Sbornik 7 (1969), 533?567. -- [10.1070/SM1969v007n04ABEH001578](https://doi.org/10.1070/SM1969v007n04ABEH001578)
-- B. R. Vainberg, Behavior for large time of solutions of the Klein-Gordon equation, Trans. Moscow Math. Soc. 30 (1974), 139?158.
-- B. R. Vainberg, On the short-wave asymptotics behavior of solutions of stationary problems and the asymptotic behavior as t?? of solutions of nonstationary problems, Russian Math. Surveys 30 (1975), 1?58. -- [10.1070/RM1975v030n02ABEH001406](https://doi.org/10.1070/RM1975v030n02ABEH001406)
-- B. R. Vainberg, Asymptotic behavior as t?? of solutions of exterior mixed problems for hyperbolic equations and quasiclassics, Encyclopedia of Mathematical Sciences, VINITI-Springer Publishers, 34 (1989), 57?92 (in Russian).
-- B. R. Vainberg, Asymptotic Methods in Equations of Mathematical Physics, Gordon and Breach, New York, London, Paris, 1989.
+- Berestycki, H. & Lions, P.-L. Nonlinear scalar field equations, I existence of a ground state. Archive for Rational Mechanics and Analysis vol. 82 313–345 (1983) -- [10.1007/bf00250555](https://doi.org/10.1007/bf00250555)
+- Brezis, H. & Lieb, E. H. Minimum action solutions of some vector field equations. Communications in Mathematical Physics vol. 96 97–113 (1984) -- [10.1007/bf01217349](https://doi.org/10.1007/bf01217349)
+- J. M. Chadam, Ann. Scuola Norm. Sup. Pisa Fis. Mat. (1972)
+- J. Ginibre, Ann. Inst. Henri Poincare (1985)
+- Ginibre, J. & Velo, G. Scattering theory in the energy space for a class of non-linear wave equations. Communications in Mathematical Physics vol. 123 535–573 (1989) -- [10.1007/bf01218585](https://doi.org/10.1007/bf01218585)
+- Glassey, R. T. & Strauss, W. A. Decay of classical Yang-Mills fields. Communications in Mathematical Physics vol. 65 1–13 (1979) -- [10.1007/bf01940957](https://doi.org/10.1007/bf01940957)
+- Glassey, R. T. & Strauss, W. A. Decay of a Yang-Mills field coupled to a scalar field. Communications in Mathematical Physics vol. 67 51–67 (1979) -- [10.1007/bf01223200](https://doi.org/10.1007/bf01223200)
+- Grillakis, M., Shatah, J. & Strauss, W. Stability theory of solitary waves in the presence of symmetry, I. Journal of Functional Analysis vol. 74 160–197 (1987) -- [10.1016/0022-1236(87)90044-9](https://doi.org/10.1016/0022-1236(87)90044-9)
+- L. Hörmander, Microlocal analysis and nonlinear waves (1991)
+- Klainerman, S. Long-time behavior of solutions to nonlinear evolution equations. Archive for Rational Mechanics and Analysis vol. 78 73–98 (1982) -- [10.1007/bf00253225](https://doi.org/10.1007/bf00253225)
+- Kruglikov, B. S. Topological classification of Leggett systems in an integrable case for3He–A. Russian Mathematical Surveys vol. 46 179–181 (1991) -- [10.1070/rm1991v046n04abeh002825](https://doi.org/10.1070/rm1991v046n04abeh002825)
+- A. I. Komech, Moscow Univ. Math. Bull. (1991)
+- Komech, A. I. On Stabilization of String-Nonlinear Oscillator Interaction. Journal of Mathematical Analysis and Applications vol. 196 384–409 (1995) -- [10.1006/jmaa.1995.1415](https://doi.org/10.1006/jmaa.1995.1415)
+- A. I. Komech, Russian J. Math. Phys. (1995)
+- Lax, P. D., Morawetz, C. S. & Phillips, R. S. Exponential decay of solutions of the wave equation in the exterior of a star‐shaped obstacle. Communications on Pure and Applied Mathematics vol. 16 477–486 (1963) -- [10.1002/cpa.3160160407](https://doi.org/10.1002/cpa.3160160407)
+- P. D. Lax, Scattering Theory (1967)
+- Lax, P. D. & Phillips, R. S. Scattering Theory. Rocky Mountain Journal of Mathematics vol. 1 (1971) -- [10.1216/rmj-1971-1-1-173](https://doi.org/10.1216/rmj-1971-1-1-173)
+- Morawetz, C. S. The decay of solutions of the exterior initial‐boundary value problem for the wave equation. Communications on Pure and Applied Mathematics vol. 14 561–568 (1961) -- [10.1002/cpa.3160140327](https://doi.org/10.1002/cpa.3160140327)
+- Morawetz, C. S. Exponential decay of solutions of the wave equation. Communications on Pure and Applied Mathematics vol. 19 439–444 (1966) -- [10.1002/cpa.3160190407](https://doi.org/10.1002/cpa.3160190407)
+- Morawetz, C. S. & Strauss, W. A. Decay and scattering of solutions of a nonlinear relativistic wave equation. Communications on Pure and Applied Mathematics vol. 25 1–31 (1972) -- [10.1002/cpa.3160250103](https://doi.org/10.1002/cpa.3160250103)
+- Payne, L. E. & Sattinger, D. H. Saddle points and instability of nonlinear hyperbolic equations. Israel Journal of Mathematics vol. 22 273–303 (1975) -- [10.1007/bf02761595](https://doi.org/10.1007/bf02761595)
+- R. Racke, Jahresber. Deutsch. Math.-Verein. (1992)
+- Reed, M. C. Introduction. Lecture Notes in Mathematics 1–4 (1976) doi:10.1007/bfb0079272 -- [10.1007/bfb0079272](https://doi.org/10.1007/bfb0079272)
+- Segal, I. Dispersion for non-linear relativistic equations. II. Annales scientifiques de l’École normale supérieure vol. 1 459–497 (1968) -- [10.24033/asens.1170](https://doi.org/10.24033/asens.1170)
+- Shatah, J. Stable standing waves of nonlinear Klein-Gordon equations. Communications in Mathematical Physics vol. 91 313–327 (1983) -- [10.1007/bf01208779](https://doi.org/10.1007/bf01208779)
+- Shatah, J. Unstable ground state of nonlinear Klein-Gordon equations. Transactions of the American Mathematical Society vol. 290 701–710 (1985) -- [10.1090/s0002-9947-1985-0792821-7](https://doi.org/10.1090/s0002-9947-1985-0792821-7)
+- Shatah, J. & Strauss, W. Instability of nonlinear bound states. Communications in Mathematical Physics vol. 100 173–190 (1985) -- [10.1007/bf01212446](https://doi.org/10.1007/bf01212446)
+- Strauss, W. A. Decay and asymptotics for □u = F(u). Journal of Functional Analysis vol. 2 409–457 (1968) -- [10.1016/0022-1236(68)90004-9](https://doi.org/10.1016/0022-1236(68)90004-9)
+- Strauss, W. A. Nonlinear invariant wave equations. Lecture Notes in Physics 197–249 doi:10.1007/bfb0032334 -- [10.1007/bfb0032334](https://doi.org/10.1007/bfb0032334)
+- Vaĭnberg, B. R. ON THE ANALYTICAL PROPERTIES OF THE RESOLVENT FOR A CERTAIN CLASS OF OPERATOR-PENCILS. Mathematics of the USSR-Sbornik vol. 6 241–273 (1968) -- [10.1070/sm1968v006n02abeh001062](https://doi.org/10.1070/sm1968v006n02abeh001062)
+- Vaĭnberg, B. R. BEHAVIOR OF THE SOLUTION OF THE CAUCHY PROBLEM FOR A HYPERBOLIC EQUATION ASt→∞. Mathematics of the USSR-Sbornik vol. 7 533–567 (1969) -- [10.1070/sm1969v007n04abeh001578](https://doi.org/10.1070/sm1969v007n04abeh001578)
+- B. R. Vainberg, Trans. Moscow Math. Soc. (1974)
+- Vainberg, B. R. ON THE SHORT WAVE ASYMPTOTIC BEHAVIOUR OF SOLUTIONS OF STATIONARY PROBLEMS AND THE ASYMPTOTIC BEHAVIOUR ASt→ ∞ OF SOLUTIONS OF NON-STATIONARY PROBLEMS. Russian Mathematical Surveys vol. 30 1–58 (1975) -- [10.1070/rm1975v030n02abeh001406](https://doi.org/10.1070/rm1975v030n02abeh001406)
+- B. R. Vainberg, Encyclopedia of Mathematical Sciences, VINITI-Springer Publishers (1989)
+- B. R. Vainberg, Asymptotic Methods in Equations of Mathematical Physics (1989)
 

@@ -30,7 +30,7 @@ Aeroacoustics; port-Hamiltonian systems (pHs); Partitioned Finite Element Method
 - **Pages:** 7557--7562
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1351](https://doi.org/10.1016/j.ifacol.2020.12.1351)
-- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,15 +50,21 @@ Aeroacoustics; port-Hamiltonian systems (pHs); Partitioned Finite Element Method
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/partitioned-finite-element-method-for-structured-discretization-with-mixed-boundary-conditions.bib)
+ 
 ## References
 - [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
-- [F. L. Cardoso-Ribeiro, D. Matignon, and L. Lefèvre. A partitioned finite element method for power-preserving discretization of open systems of conservation laws. arXiv preprint arXiv:1906.05965, 2019.](a-partitioned-finite-element-method-for-power-preserving-discretization-of-open-systems-of-conservation-laws) -- [10.1093/imamci/dnaa038](https://doi.org/10.1093/imamci/dnaa038)
-- P. Grisvard. Elliptic Problems in Nonsmooth Domains. Society for Industrial and Applied Mathematics, 2011. doi: 10.1137/1.9781611972030. -- [10.1137/1.9781611972030](https://doi.org/10.1137/1.9781611972030)
+- [Cardoso-Ribeiro, F. L., Matignon, D. & Lefèvre, L. A partitioned finite element method for power-preserving discretization of open systems of conservation laws. IMA Journal of Mathematical Control and Information vol. 38 493–533 (2020)](a-partitioned-finite-element-method-for-power-preserving-discretization-of-open-systems-of-conservation-laws) -- [10.1093/imamci/dnaa038](https://doi.org/10.1093/imamci/dnaa038)
+- Duindam, (2009)
+- Gatica, (2014)
+- Grisvard, P. Elliptic Problems in Nonsmooth Domains. (2011) doi:10.1137/1.9781611972030 -- [10.1137/1.9781611972030](https://doi.org/10.1137/1.9781611972030)
+- Jacob, (2012)
 - [Kotyczka, P., Maschke, B. & Lefèvre, L. Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics vol. 361 442–476 (2018)](weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems) -- [10.1016/j.jcp.2018.02.006](https://doi.org/10.1016/j.jcp.2018.02.006)
+- Logg, (2012)
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
-- [A. Serhani, D. Matignon, and G. Haine. Anisotropic heterogeneous n-d heat equation with boundary control and observation: I. Modeling as port-Hamiltonian system. 3rd IFAC workshop on Thermodynamical Foundation of Mathematical Systems Theory (TFMST), 2019a.](anisotropic-heterogeneous-n-d-heat-equation-with-boundary-control-and-observation-i-modeling-as-port-hamiltonian-system) -- [10.1016/j.ifacol.2019.07.009](https://doi.org/10.1016/j.ifacol.2019.07.009)
-- [A. Serhani, D. Matignon, and G. Haine. Anisotropic heterogeneous n-d heat equation with boundary control and observation: II. Structure-preserving discretization. 3rd IFAC workshop on Thermodynamical Foundation of Mathematical Systems Theory (TFMST), 2019b.](anisotropic-heterogeneous-n-d-heat-equation-with-boundary-control-and-observation-ii-structure-preserving-discretization) -- [10.1016/j.ifacol.2019.07.010](https://doi.org/10.1016/j.ifacol.2019.07.010)
+- [Serhani, A., Haine, G. & Matignon, D. Anisotropic heterogeneous n-D heat equation with boundary control and observation: I. Modeling as port-Hamiltonian system. IFAC-PapersOnLine vol. 52 51–56 (2019)](anisotropic-heterogeneous-n-d-heat-equation-with-boundary-control-and-observation-i-modeling-as-port-hamiltonian-system) -- [10.1016/j.ifacol.2019.07.009](https://doi.org/10.1016/j.ifacol.2019.07.009)
+- [Serhani, A., Haine, G. & Matignon, D. Anisotropic heterogeneous n-D heat equation with boundary control and observation: II. Structure-preserving discretization. IFAC-PapersOnLine vol. 52 57–62 (2019)](anisotropic-heterogeneous-n-d-heat-equation-with-boundary-control-and-observation-ii-structure-preserving-discretization) -- [10.1016/j.ifacol.2019.07.010](https://doi.org/10.1016/j.ifacol.2019.07.010)
 - [Trenchant, V., Ramirez, H., Le Gorrec, Y. & Kotyczka, P. Finite differences on staggered grids preserving the port-Hamiltonian structure with application to an acoustic duct. Journal of Computational Physics vol. 373 673–697 (2018)](finite-differences-on-staggered-grids-preserving-the-port-hamiltonian-structure-with-application-to-an-acoustic-duct) -- [10.1016/j.jcp.2018.06.051](https://doi.org/10.1016/j.jcp.2018.06.051)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Wu, Y., Hamroun, B., Gorrec, Y. L. & Maschke, B. Power preserving model reduction of 2D vibro-acoustic system: A port Hamiltonian approach. IFAC-PapersOnLine vol. 48 206–211 (2015)](power-preserving-model-reduction-of-2d-vibro-acoustic-system-a-port-hamiltonian-approach) -- [10.1016/j.ifacol.2015.10.240](https://doi.org/10.1016/j.ifacol.2015.10.240)
 

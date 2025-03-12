@@ -51,18 +51,21 @@ Multi-agent systems; Asymptotic stabilization; Guidance, navigation and control 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/equal-distribution-of-satellite-constellations-on-circular-target-orbits.bib)
+ 
 ## References
+- Alfriend, (2010)
+- Bollobás, (1998)
 - Chung, S.-J., Ahsun, U. & Slotine, J.-J. E. Application of Synchronization to Formation Flying Spacecraft: Lagrangian Approach. Journal of Guidance, Control, and Dynamics vol. 32 512–526 (2009) -- [10.2514/1.37261](https://doi.org/10.2514/1.37261)
-- Das, A., & Cobb, R. (1998). Techsat 21-space missions using collaborating constellations of satellites. In Proceeding of the 12th annual AIAA/USU conference on small satellites. Logan, UT. Vol. 31 (pp. 125–129).
+- Duindam, (2009)
 - Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Kristiansen, R. & Nicklasson, P. J. Spacecraft formation flying: A review and new results on state feedback control. Acta Astronautica vol. 65 1537–1552 (2009) -- [10.1016/j.actaastro.2009.04.014](https://doi.org/10.1016/j.actaastro.2009.04.014)
 - McInnes, C. R. Autonomous ring formation for a planar constellation of satellites. Journal of Guidance, Control, and Dynamics vol. 18 1215–1217 (1995) -- [10.2514/3.21531](https://doi.org/10.2514/3.21531)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Scharf, D. P., Ploen, S. R., & Hadaegh, F. Y. (2003). A survey of spacecraft formation flying guidance and control (part i): guidance. In American control conference. -- [10.1109/ACC.2003.1239845](https://doi.org/10.1109/ACC.2003.1239845)
-- Shaik, F., Zonetti, D., Ortega, R., Scherpen, J. M. A., & van der Schaft, A. J. (2012). Port-Hamiltonian modeling of power networks. In International symposium on mathematical theory of networks and systems.
+- Scharf, A survey of spacecraft formation flying guidance and control (part ii): control. (2004)
+- Scharf, D. P., Hadaegh, F. Y. & Ploen, S. R. A survey of spacecraft formation flying guidance and control (part 1): guidance. Proceedings of the 2003 American Control Conference, 2003. vol. 2 1733–1739 -- [10.1109/acc.2003.1239845](https://doi.org/10.1109/acc.2003.1239845)
 - Ulybyshev, Y. Long-Term Formation Keeping of Satellite Constellation Using Linear-Quadratic Controller. Journal of Guidance, Control, and Dynamics vol. 21 109–115 (1998) -- [10.2514/2.4204](https://doi.org/10.2514/2.4204)
+- van der Schaft, (2000)
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
-- Vos, E., Scherpen, J. M. A., & van der Schaft, A. J. (2013). Spatial distribution of satellite constellations on circular orbits. In IEEE conference on decision and control. Florence, Italy, 10–13 December.
-- Vos, E., Shaik, F., Scherpen, J. M. A., & van der Schaft, A. J. (2013). Control for formation flying of satellites: port-Hamiltonian approach. In International workshop on satellite constellations and formation flying. Lisbon, Portugal, 13–15 March. Organized by IAF Astrodynamics Committee. Paper ID: IWSCFF-2013–02-02.
 

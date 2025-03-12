@@ -29,7 +29,7 @@ port-Hamiltonian systems; passivity-based control; stability analisys
 - **Pages:** 52--57
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2021.11.054](https://doi.org/10.1016/j.ifacol.2021.11.054)
-- **Event:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
+- **Note:** 7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021- Berlin, Germany, 11-13 October 2021
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,11 +49,18 @@ port-Hamiltonian systems; passivity-based control; stability analisys
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/distributed-control-for-infinite-dimensional-port-hamiltonian-systems.bib)
+ 
 ## References
+- Curtain, (1995)
+- Jacob, (2012)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- [Maschke, B. and van der Schaft, A. (1992). Port controlled Hamiltonian systems: modeling origins and system theoretic properties. In Nonlinear Control Systems (NOL-COS 1992). Proceedings of the 3rd IFAC Symposium on, 282–288. Bordeaux, France.](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-93) -- [10.1016/B978-0-08-041901-5.50064-6](https://doi.org/10.1016/B978-0-08-041901-5.50064-6)
-- [Mattioni, A., Wu, Y., Ramírez, H., Le Gorrec, Y., and Macchelli, A. (2018). Modelling and control of a class of lumped beam with distributed control. In H. Ramírez (ed.), 6th IFAC Workshop on Lagrangian and Hamil-tonian Methods for Nonlinear Control LHMNC 2018, 217–222. Valparaíso, Chile.](modelling-and-control-of-a-class-of-lumped-beam-with-distributed-control) -- [10.1016/j.ifacol.2018.06.057](https://doi.org/10.1016/j.ifacol.2018.06.057)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Luo, (1999)
+- Maschke, B. M. & van der Schaft, A. J. PORT-CONTROLLED HAMILTONIAN SYSTEMS: MODELLING ORIGINS AND SYSTEMTHEORETIC PROPERTIES. Nonlinear Control Systems Design 1992 359–365 (1993) doi:10.1016/b978-0-08-041901-5.50064-6 -- [10.1016/b978-0-08-041901-5.50064-6](https://doi.org/10.1016/b978-0-08-041901-5.50064-6)
+- [Mattioni, A., Wu, Y., Ramirez, H., Gorrec, Y. L. & Macchelli, A. Modelling and control of a class of lumped beam with distributed control. IFAC-PapersOnLine vol. 51 217–222 (2018)](modelling-and-control-of-a-class-of-lumped-beam-with-distributed-control) -- [10.1016/j.ifacol.2018.06.057](https://doi.org/10.1016/j.ifacol.2018.06.057)
+- Olver, (1993)
+- Ortega, Putting energy back in control. (2001)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Ramirez, H., Zwart, H. & Le Gorrec, Y. Stabilization of infinite dimensional port-Hamiltonian systems by nonlinear dynamic boundary control. Automatica vol. 85 61–69 (2017)](stabilization-of-infinite-dimensional-port-hamiltonian-systems-by-nonlinear-dynamic-boundary-control) -- [10.1016/j.automatica.2017.07.045](https://doi.org/10.1016/j.automatica.2017.07.045)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

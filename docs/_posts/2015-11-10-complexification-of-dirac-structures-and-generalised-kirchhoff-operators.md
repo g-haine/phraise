@@ -30,7 +30,7 @@ Dirac structure; port-Hamiltonian systems; Tellegen's theorem; Kirchhoff operato
 - **Pages:** 75--80
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.217](https://doi.org/10.1016/j.ifacol.2015.10.217)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,16 +50,18 @@ Dirac structure; port-Hamiltonian systems; Tellegen's theorem; Kirchhoff operato
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/complexification-of-dirac-structures-and-generalised-kirchhoff-operators.bib)
+ 
 ## References
-- [T.J. Courant, “Dirac manifolds”, Trans. AMS, vol. 319, no. 2, pp. 631-661, 1990.](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
+- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - G. Chateigner, M. Boes, J. Chopin, and D. Verkindére, “Puissances, facteur de puissance et théoréme de Boucherot”, Technolgie, vol. 158, Novembre-Décembre 2008.
 - C.A. Desoer and E.S. Kuh, Basic Circuit Theory, McGraw-Hill, 1984.
 - A. Papoulis, Fourier Integral and its Applications. New York: McGraw- Hill, 1962.
 - P. Penfield Jr., R. Spence, and S. Duinker, Tellegen's Theorem and Electrical Networks. Research Monograph No. 58, MIT Press, 1970.
 - A.J. van der Schaft and B. Maschke, “The Hamiltonian formulation of energy conserving physical systems with external ports”, Archiv für Elektronik und Ubertragungstechnik, vol. 49, pp. 362-371, 1995.
-- A.J. van der Schaft, L2-Gain and Passivity Techniques in Nonlinear Control, Springer Communications and Control Engineering series. Springer-Verlag, London, 2nd revised and enlarged edition, 2000. -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- [A.J. van der Schaft and B. Maschke, “Port-Hamiltonian systems on graphs”, SIAM J. Control Optim., 51(2), 906-937, 2013.](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
-- [A.J. van der Schaft and D. Jeltsema. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends in Systems and Control, Now Publishers Inc., 2014.](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - B.D.H. Tellegen, “A general network theorem, with applications”, Proc. Inst. Radio Engs., Australia, Vol. 14, pp. 265-270, November 1953.
 - D. Vakman, Signals, Oscillations, and Waves. A Modern Approach. Artech House Inc., 1998.
 

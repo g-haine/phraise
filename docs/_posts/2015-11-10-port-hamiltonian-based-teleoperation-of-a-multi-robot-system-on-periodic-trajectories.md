@@ -31,7 +31,7 @@ port-Hamiltonian systems; control; teleoperation; stability; passivity
 - **Pages:** 69--74
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.216](https://doi.org/10.1016/j.ifacol.2015.10.216)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,14 +51,26 @@ port-Hamiltonian systems; control; teleoperation; stability; passivity
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-based-teleoperation-of-a-multi-robot-system-on-periodic-trajectories.bib)
+ 
 ## References
-- Interacting with Networks: How Does Structure Relate to Controllability in Single-Leader, Consensus Networks? IEEE Control Systems vol. 32 66–73 (2012) -- [10.1109/MCS.2012.2195411](https://doi.org/10.1109/MCS.2012.2195411)
-- Franchi, A., Secchi, C., Hyoung Il Son, Bulthoff, H. H. & Giordano, P. R. Bilateral Teleoperation of Groups of Mobile Robots With Time-Varying Topology. IEEE Transactions on Robotics vol. 28 1019–1033 (2012) -- [10.1109/TRO.2012.2196304](https://doi.org/10.1109/TRO.2012.2196304)
-- Franken, M., Stramigioli, S., Misra, S., Secchi, C. & Macchelli, A. Bilateral Telemanipulation With Time Delays: A Two-Layer Approach Combining Passivity and Transparency. IEEE Transactions on Robotics vol. 27 741–756 (2011) -- [10.1109/TRO.2011.2142430](https://doi.org/10.1109/TRO.2011.2142430)
-- Lee, D. et al. Semiautonomous Haptic Teleoperation Control Architecture of Multiple Unmanned Aerial Vehicles. IEEE/ASME Transactions on Mechatronics vol. 18 1334–1345 (2013) -- [10.1109/TMECH.2013.2263963](https://doi.org/10.1109/TMECH.2013.2263963)
-- Dongjun Lee & Ke Huang. Passive-Set-Position-Modulation Framework for Interactive Robotic Systems. IEEE Transactions on Robotics vol. 26 354–369 (2010) -- [10.1109/TRO.2010.2041877](https://doi.org/10.1109/TRO.2010.2041877)
+- Cocetti, Decentralized control strategy for the implementation of cooperative dynamic behaviors in networked systems. (2013)
+- Interacting with Networks: How Does Structure Relate to Controllability in Single-Leader, Consensus Networks? IEEE Control Systems vol. 32 66–73 (2012) -- [10.1109/mcs.2012.2195411](https://doi.org/10.1109/mcs.2012.2195411)
+- Franchi, A., Secchi, C., Hyoung Il Son, Bulthoff, H. H. & Giordano, P. R. Bilateral Teleoperation of Groups of Mobile Robots With Time-Varying Topology. IEEE Transactions on Robotics vol. 28 1019–1033 (2012) -- [10.1109/tro.2012.2196304](https://doi.org/10.1109/tro.2012.2196304)
+- Franken, M., Stramigioli, S., Misra, S., Secchi, C. & Macchelli, A. Bilateral Telemanipulation With Time Delays: A Two-Layer Approach Combining Passivity and Transparency. IEEE Transactions on Robotics vol. 27 741–756 (2011) -- [10.1109/tro.2011.2142430](https://doi.org/10.1109/tro.2011.2142430)
+- Franklin, (1993)
+- Lee, Semi-autonomous teleoperation of multiple wheeled robots over the internet. (2008)
+- Lee, D. et al. Semiautonomous Haptic Teleoperation Control Architecture of Multiple Unmanned Aerial Vehicles. IEEE/ASME Transactions on Mechatronics vol. 18 1334–1345 (2013) -- [10.1109/tmech.2013.2263963](https://doi.org/10.1109/tmech.2013.2263963)
+- Dongjun Lee & Ke Huang. Passive-Set-Position-Modulation Framework for Interactive Robotic Systems. IEEE Transactions on Robotics vol. 26 354–369 (2010) -- [10.1109/tro.2010.2041877](https://doi.org/10.1109/tro.2010.2041877)
+- Mohammadi, Phansim: A simulink toolkit for the sensable PHANToM haptic devices. (2011)
 - Murray, R. M. Recent Research in Cooperative Control of Multivehicle Systems. Journal of Dynamic Systems, Measurement, and Control vol. 129 571–583 (2007) -- [10.1115/1.2766721](https://doi.org/10.1115/1.2766721)
+- Palafox, Bilateral teleoperation of a formation of nonholonomic mobile robots under constant time delay. (2009)
 - Robuffo Giordano, P., Franchi, A., Secchi, C. & Bülthoff, H. H. A passivity-based decentralized strategy for generalized connectivity maintenance. The International Journal of Robotics Research vol. 32 299–323 (2013) -- [10.1177/0278364912469671](https://doi.org/10.1177/0278364912469671)
-- Rodriguez-Seda, E. J. et al. Bilateral Teleoperation of Multiple Mobile Agents: Coordinated Motion and Collision Avoidance. IEEE Transactions on Control Systems Technology vol. 18 984–992 (2010) -- [10.1109/TCST.2009.2030176](https://doi.org/10.1109/TCST.2009.2030176)
-- [Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Transactions on Robotics vol. 21 574–587 (2005)](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/TRO.2004.842330](https://doi.org/10.1109/TRO.2004.842330)
+- Rodriguez-Seda, E. J. et al. Bilateral Teleoperation of Multiple Mobile Agents: Coordinated Motion and Collision Avoidance. IEEE Transactions on Control Systems Technology vol. 18 984–992 (2010) -- [10.1109/tcst.2009.2030176](https://doi.org/10.1109/tcst.2009.2030176)
+- Sabattini, Implementation of arbitrary periodic dynamic behaviors in networked systems. (2014)
+- Sabattini, Controllability and observability preservation for networked systems with time varying topologies. (2014)
+- Sabattini, Cooperative dynamic behaviors in networked systems with decentralized state estimation. (2014)
+- Saberi, (2000)
+- Secchi, (2007)
+- [Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Transactions on Robotics vol. 21 574–587 (2005)](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/tro.2004.842330](https://doi.org/10.1109/tro.2004.842330)
 

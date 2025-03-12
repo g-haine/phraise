@@ -5,7 +5,6 @@ permalink: /authors/friedrich-m-philipp
 ---
 
 <ul class="post-list">
-<li><span class='post-meta'>2025 -- Timm Faulwasser, Jonas Kirchhoff, Volker Mehrmann, Friedrich Philipp, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/hidden-regularity-in-singular-optimal-control-of-port-hamiltonian-systems">Hidden Regularity in Singular Optimal Control of port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Friedrich M. Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-control-of-port-hamiltonian-systems-energy-entropy-and-exergy">Optimal control of port-Hamiltonian systems: Energy, entropy, and exergy</a></h3></li>
 <li><span class='post-meta'>2024 -- Friedrich M. Philipp</span><h3><a class='post-link' href="{{ site.baseurl }}/representing-the-dissipation-of-infinite-dimensional-linear-port-hamiltonian-systems">Representing the dissipation of infinite-dimensional linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2022 -- Bernhard Maschke, Friedrich Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-control-of-thermodynamic-port-hamiltonian-systems">Optimal control of thermodynamic port-Hamiltonian Systems</a></h3></li>

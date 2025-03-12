@@ -29,7 +29,7 @@ power system dynamics; steady-state behavior; port-Hamiltonian systems
 - **Pages:** 10735--10741
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.2264](https://doi.org/10.1016/j.ifacol.2017.08.2264)
-- **Event:** 20th IFAC World Congress
+- **Note:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,19 +49,18 @@ power system dynamics; steady-state behavior; port-Hamiltonian systems
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-the-steady-state-behavior-of-low-inertia-power-systems.bib)
+ 
 ## References
-- Arghir, C., Groß, D., and Dörfler, F. (2016). On the steady-state behavior of a nonlinear power network model. In Proc. IFAC Workshop on Distributed Estimation and Control in Networked Systems.
-- Caliskan, S. Y. & Tabuada, P. Compositional Transient Stability Analysis of Multimachine Power Networks. IEEE Transactions on Control of Network Systems vol. 1 4–14 (2014) -- [10.1109/TCNS.2014.2304868](https://doi.org/10.1109/TCNS.2014.2304868)
-- Caliskan, S.Y. and Tabuada, P. (2015). Uses and abuses of the swing equation model. In Proc. IEEE Conference on Decision and Control, 6662–6667. -- [10.1109/CDC.2015.7403268](https://doi.org/10.1109/CDC.2015.7403268)
-- D’Arco, S. and Suul, J.A. (2013). Virtual synchronous machines - classification of implementations and analysis of equivalence to droop controllers for microgrids. In Proc. IEEE PowerTech. -- [10.1109/PTC.2013.6652456](https://doi.org/10.1109/PTC.2013.6652456)
-- Dorfler, F., Simpson-Porco, J. W. & Bullo, F. Breaking the Hierarchy: Distributed Control and Economic Optimality in Microgrids. IEEE Transactions on Control of Network Systems vol. 3 241–253 (2016) -- [10.1109/TCNS.2015.2459391](https://doi.org/10.1109/TCNS.2015.2459391)
+- Caliskan, S. Y. & Tabuada, P. Compositional Transient Stability Analysis of Multimachine Power Networks. IEEE Transactions on Control of Network Systems vol. 1 4–14 (2014) -- [10.1109/tcns.2014.2304868](https://doi.org/10.1109/tcns.2014.2304868)
+- Caliskan, S. Y. & Tabuada, P. Uses and abuses of the swing equation model. 2015 54th IEEE Conference on Decision and Control (CDC) 6662–6667 (2015) doi:10.1109/cdc.2015.7403268 -- [10.1109/cdc.2015.7403268](https://doi.org/10.1109/cdc.2015.7403268)
+- D’Arco, S. & Suul, J. A. Virtual synchronous machines &amp;#x2014; Classification of implementations and analysis of equivalence to droop controllers for microgrids. 2013 IEEE Grenoble Conference (2013) doi:10.1109/ptc.2013.6652456 -- [10.1109/ptc.2013.6652456](https://doi.org/10.1109/ptc.2013.6652456)
+- Dorfler, F., Simpson-Porco, J. W. & Bullo, F. Breaking the Hierarchy: Distributed Control and Economic Optimality in Microgrids. IEEE Transactions on Control of Network Systems vol. 3 241–253 (2016) -- [10.1109/tcns.2015.2459391](https://doi.org/10.1109/tcns.2015.2459391)
 - [Fiaz, S., Zonetti, D., Ortega, R., Scherpen, J. M. A. & van der Schaft, A. J. A port-Hamiltonian approach to power network modeling and analysis. European Journal of Control vol. 19 477–485 (2013)](a-port-hamiltonian-approach-to-power-network-modeling-and-analysis) -- [10.1016/j.ejcon.2013.09.002](https://doi.org/10.1016/j.ejcon.2013.09.002)
-- Groß, D., Arghir, C., and Dörfler, F. (2016). On the steady-state behavior of a nonlinear power system model. arXiv preprint, arXiv:1607.01575.
-- Jouini, T., Arghir, C., and Dörfler, F. (2016). Grid-friendly matching of synchronous machines by tapping into the DC storage. In Proc. IFAC Workshop on Distributed Estimation and Control in Networked Systems.
-- Sinha, M., Dörfler, F., Johnson, B., and Dhople, S. (2015). Uncovering droop control laws embedded within the nonlinear dynamics of van der pol oscillators. IEEE Trans. on Control of Network Systems, In Press.
-- Tabesh, A. & Iravani, R. Multivariable Dynamic Model and Robust Control of a Voltage-Source Converter for Power System Applications. IEEE Transactions on Power Delivery vol. 24 462–471 (2009) -- [10.1109/TPWRD.2008.923531](https://doi.org/10.1109/TPWRD.2008.923531)
+- Sauer, (1998)
+- Tabesh, A. & Iravani, R. Multivariable Dynamic Model and Robust Control of a Voltage-Source Converter for Power System Applications. IEEE Transactions on Power Delivery vol. 24 462–471 (2009) -- [10.1109/tpwrd.2008.923531](https://doi.org/10.1109/tpwrd.2008.923531)
 - Tielens, P. & Van Hertem, D. The relevance of inertia in power systems. Renewable and Sustainable Energy Reviews vol. 55 999–1009 (2016) -- [10.1016/j.rser.2015.11.016](https://doi.org/10.1016/j.rser.2015.11.016)
-- Venezian, E. and Weiss, G. (2016). A warning about the use of reduced models of synchronous generators. In International Conference on the Science of Electrical Engineering. -- [10.1109/ICSEE.2016.7806190](https://doi.org/10.1109/ICSEE.2016.7806190)
-- Winter, W., Elkington, K., Bareux, G. & Kostevc, J. Pushing the Limits: Europe’s New Grid: Innovative Tools to Combat Transmission Bottlenecks and Reduced Inertia. IEEE Power and Energy Magazine vol. 13 60–74 (2015) -- [10.1109/MPE.2014.2363534](https://doi.org/10.1109/MPE.2014.2363534)
-- Zhong, Q.-C. & Weiss, G. Synchronverters: Inverters That Mimic Synchronous Generators. IEEE Transactions on Industrial Electronics vol. 58 1259–1267 (2011) -- [10.1109/TIE.2010.2048839](https://doi.org/10.1109/TIE.2010.2048839)
+- Venezian, E. & Weiss, G. A warning about the use of reduced models of synchronous generators. 2016 IEEE International Conference on the Science of Electrical Engineering (ICSEE) 1–5 (2016) doi:10.1109/icsee.2016.7806190 -- [10.1109/icsee.2016.7806190](https://doi.org/10.1109/icsee.2016.7806190)
+- Winter, W., Elkington, K., Bareux, G. & Kostevc, J. Pushing the Limits: Europe’s New Grid: Innovative Tools to Combat Transmission Bottlenecks and Reduced Inertia. IEEE Power and Energy Magazine vol. 13 60–74 (2015) -- [10.1109/mpe.2014.2363534](https://doi.org/10.1109/mpe.2014.2363534)
+- Zhong, Q.-C. & Weiss, G. Synchronverters: Inverters That Mimic Synchronous Generators. IEEE Transactions on Industrial Electronics vol. 58 1259–1267 (2011) -- [10.1109/tie.2010.2048839](https://doi.org/10.1109/tie.2010.2048839)
 

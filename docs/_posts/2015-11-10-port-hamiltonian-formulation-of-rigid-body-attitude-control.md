@@ -29,7 +29,7 @@ Attitude control; port-Hamiltonian systems; nonlinear control systems
 - **Pages:** 164--169
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.233](https://doi.org/10.1016/j.ifacol.2015.10.233)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,9 +49,15 @@ Attitude control; port-Hamiltonian systems; nonlinear control systems
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-formulation-of-rigid-body-attitude-control.bib)
+ 
 ## References
-- Rigid-Body Attitude Control. IEEE Control Systems vol. 31 30–51 (2011) -- [10.1109/MCS.2011.940459](https://doi.org/10.1109/MCS.2011.940459)
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- Baker, (2002)
+- Bullo, (2004)
+- Rigid-Body Attitude Control. IEEE Control Systems vol. 31 30–51 (2011) -- [10.1109/mcs.2011.940459](https://doi.org/10.1109/mcs.2011.940459)
+- Dirksz, Interconnection and damping assignment passivity-based control for port-hamiltonian mechanical systems with only position measurements. (2008)
+- Duindam, (2009)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

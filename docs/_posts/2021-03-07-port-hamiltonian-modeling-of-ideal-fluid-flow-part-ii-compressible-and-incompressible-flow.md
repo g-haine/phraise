@@ -48,12 +48,19 @@ Port-Hamiltonian; Ideal fluid flow; Stokes–Dirac structures; Geometric fluid d
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-modeling-of-ideal-fluid-flow-part-ii-compressible-and-incompressible-flow.bib)
+ 
 ## References
+- Abraham, (1988)
+- Arnold, (1998)
 - Ebin, D. G. & Marsden, J. Groups of Diffeomorphisms and the Motion of an Incompressible Fluid. The Annals of Mathematics vol. 92 102 (1970) -- [10.2307/1970699](https://doi.org/10.2307/1970699)
 - Marsden, J. E. Well-posedness of the equations of a non-homogeneous perfect fluid. Communications in Partial Differential Equations vol. 1 215–230 (1976) -- [10.1080/03605307608820010](https://doi.org/10.1080/03605307608820010)
-- Marsden, J. E., Raţiu, T. & Weinstein, A. Semidirect products and reduction in mechanics. Transactions of the American Mathematical Society vol. 281 147–177 (1984) -- [10.1090/S0002-9947-1984-0719663-1](https://doi.org/10.1090/S0002-9947-1984-0719663-1)
+- Marsden, Diffeomorphism groups, hydrodynamics, and relativity. (1972)
+- Marsden, J. E., Raţiu, T. & Weinstein, A. Semidirect products and reduction in mechanics. Transactions of the American Mathematical Society vol. 281 147–177 (1984) -- [10.1090/s0002-9947-1984-0719663-1](https://doi.org/10.1090/s0002-9947-1984-0719663-1)
 - Modin, K., Perlmutter, M., Marsland, S. & McLachlan, R. On Euler–Arnold equations and totally geodesic subgroups. Journal of Geometry and Physics vol. 61 1446–1461 (2011) -- [10.1016/j.geomphys.2011.03.007](https://doi.org/10.1016/j.geomphys.2011.03.007)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Van Der Schaft, Fluid dynamical systems as Hamiltonian boundary control systems. (2001)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics vol. 62 1509–1531 (2012)](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
+- Šešlija, A discrete exterior approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. (2011)
 

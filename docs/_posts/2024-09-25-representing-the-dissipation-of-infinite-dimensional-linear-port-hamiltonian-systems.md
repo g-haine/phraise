@@ -31,7 +31,7 @@ Port-Hamiltonian systems; infinite-dimensional systems; dissipation; real part; 
 - **Pages:** 304--308
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2024.08.298](https://doi.org/10.1016/j.ifacol.2024.08.298)
-- **Event:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
+- **Note:** 8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2024- Besançon, France, June 10 – 12, 2024
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,18 +51,22 @@ Port-Hamiltonian systems; infinite-dimensional systems; dissipation; real part; 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/representing-the-dissipation-of-infinite-dimensional-linear-port-hamiltonian-systems.bib)
+ 
 ## References
-- Angerer, M., Music, S. & Hirche, S. Port-Hamiltonian based control for human-robot team interaction. 2017 IEEE International Conference on Robotics and Automation (ICRA) 2292–2299 (2017) doi:10.1109/icra.2017.7989264 -- [10.1109/ICRA.2017.7989264](https://doi.org/10.1109/ICRA.2017.7989264)
+- Angerer, M., Music, S. & Hirche, S. Port-Hamiltonian based control for human-robot team interaction. 2017 IEEE International Conference on Robotics and Automation (ICRA) 2292–2299 (2017) doi:10.1109/icra.2017.7989264 -- [10.1109/icra.2017.7989264](https://doi.org/10.1109/icra.2017.7989264)
 - Arlinskiĭ, Y. & Tretter, C. Everything is possible for the domain intersection dom T ∩ dom T⁎. Advances in Mathematics vol. 374 107383 (2020) -- [10.1016/j.aim.2020.107383](https://doi.org/10.1016/j.aim.2020.107383)
-- [Augner, B. Well-Posedness and Stability of Infinite-Dimensional Linear Port-Hamiltonian Systems with Nonlinear Boundary Feedback. SIAM Journal on Control and Optimization vol. 57 1818–1844 (2019)](well-posedness-and-stability-of-infinite-dimensional-linear-port-hamiltonian-systems-with-nonlinear-boundary-feedback) -- [10.1137/15M1024901](https://doi.org/10.1137/15M1024901)
-- [Jacob, B. & Kaiser, J. T. On Exact Controllability of Infinite-Dimensional Linear Port-Hamiltonian Systems. IEEE Control Systems Letters vol. 3 661–666 (2019)](on-exact-controllability-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.1109/LCSYS.2019.2916814](https://doi.org/10.1109/LCSYS.2019.2916814)
+- [Augner, B. Well-Posedness and Stability of Infinite-Dimensional Linear Port-Hamiltonian Systems with Nonlinear Boundary Feedback. SIAM Journal on Control and Optimization vol. 57 1818–1844 (2019)](well-posedness-and-stability-of-infinite-dimensional-linear-port-hamiltonian-systems-with-nonlinear-boundary-feedback) -- [10.1137/15m1024901](https://doi.org/10.1137/15m1024901)
+- Engel, (2000)
+- [Jacob, B. & Kaiser, J. T. On Exact Controllability of Infinite-Dimensional Linear Port-Hamiltonian Systems. IEEE Control Systems Letters vol. 3 661–666 (2019)](on-exact-controllability-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.1109/lcsys.2019.2916814](https://doi.org/10.1109/lcsys.2019.2916814)
+- Jacob, (2012)
 - [Jäschke, J., Skrepek, N. & Ehrhardt, M. Mixed-dimensional geometric coupling of port-Hamiltonian systems. Applied Mathematics Letters vol. 137 108508 (2023)](mixed-dimensional-geometric-coupling-of-port-hamiltonian-systems) -- [10.1016/j.aml.2022.108508](https://doi.org/10.1016/j.aml.2022.108508)
-- Philipp, F., Reis, T., and Schaller, M. (2023). Infinite-dimensional port-Hamiltonian systems—a system node approach. Preprint, arXiv:2302.05168.
+- Kato, (1995)
 - [Philipp, F., Schaller, M., Faulwasser, T., Maschke, B. & Worthmann, K. Minimizing the energy supply of infinite-dimensional linear port-Hamiltonian systems. IFAC-PapersOnLine vol. 54 155–160 (2021)](minimizing-the-energy-supply-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.1016/j.ifacol.2021.11.071](https://doi.org/10.1016/j.ifacol.2021.11.071)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
 - [Schaller, M. et al. Energy-optimal control of adaptive structures. at - Automatisierungstechnik vol. 72 107–119 (2024)](energy-optimal-control-of-adaptive-structures) -- [10.1515/auto-2023-0090](https://doi.org/10.1515/auto-2023-0090)
 - [Skrepek, N. Well-posedness of linear first order port-Hamiltonian Systems on multidimensional spatial domains. Evolution Equations &amp; Control Theory vol. 10 965 (2021)](well-posedness-of-linear-first-order-port-hamiltonian-systems-on-multidimensional-spatial-domains) -- [10.3934/eect.2020098](https://doi.org/10.3934/eect.2020098)
+- Staffans, (2005)
 - [Tõnso, M., Kaparin, V. & Belikov, J. Port-Hamiltonian framework in power systems domain: A survey. Energy Reports vol. 10 2918–2930 (2023)](port-hamiltonian-framework-in-power-systems-domain-a-survey) -- [10.1016/j.egyr.2023.09.077](https://doi.org/10.1016/j.egyr.2023.09.077)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- Villegas, J. (2007). A Port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, University of Twente.
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

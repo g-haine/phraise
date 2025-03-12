@@ -36,3 +36,5 @@ In this chapter, we will exploit the port-Hamiltonian structure for control, goi
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/control-of-port-hamiltonian-systems.bib)
+ 

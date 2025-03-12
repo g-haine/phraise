@@ -29,7 +29,7 @@ DC microgrid; Port-Hamiltonian systems on graphs; MPC (Model Predictive Control)
 - **Pages:** 19--24
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.004](https://doi.org/10.1016/j.ifacol.2017.08.004)
-- **Event:** 20th IFAC World Congress
+- **Note:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,11 +49,14 @@ DC microgrid; Port-Hamiltonian systems on graphs; MPC (Model Predictive Control)
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/power-balancing-in-a-dc-microgrid-elevator-system-through-constrained-optimization.bib)
+ 
 ## References
 - Biegler, L. T. & Zavala, V. M. Large-scale nonlinear programming using IPOPT: An integrating framework for enterprise-wide dynamic optimization. Computers &amp; Chemical Engineering vol. 33 575–582 (2009) -- [10.1016/j.compchemeng.2008.08.006](https://doi.org/10.1016/j.compchemeng.2008.08.006)
 - Lagorse, J., Paire, D. & Miraoui, A. A multi-agent system for energy management of distributed power sources. Renewable Energy vol. 35 174–182 (2010) -- [10.1016/j.renene.2009.02.029](https://doi.org/10.1016/j.renene.2009.02.029)
-- Lifshitz, D. & Weiss, G. Optimal Control of a Capacitor-Type Energy Storage System. IEEE Transactions on Automatic Control vol. 60 216–220 (2015) -- [10.1109/TAC.2014.2323136](https://doi.org/10.1109/TAC.2014.2323136)
+- Lifshitz, D. & Weiss, G. Optimal Control of a Capacitor-Type Energy Storage System. IEEE Transactions on Automatic Control vol. 60 216–220 (2015) -- [10.1109/tac.2014.2323136](https://doi.org/10.1109/tac.2014.2323136)
 - Lifshitz, D. & Weiss, G. Optimal energy management for grid-connected storage systems. Optimal Control Applications and Methods vol. 36 447–462 (2014) -- [10.1002/oca.2119](https://doi.org/10.1002/oca.2119)
+- Löfberg, YALMIP: A toolbox for modeling and optimization in MATLAB. (2004)
 - Parisio, A., Rikos, E. & Glielmo, L. Stochastic model predictive control for economic/environmental operation management of microgrids: An experimental case study. Journal of Process Control vol. 43 24–37 (2016) -- [10.1016/j.jprocont.2016.04.008](https://doi.org/10.1016/j.jprocont.2016.04.008)
 - Prodan, I., Zio, E. & Stoican, F. Fault tolerant predictive control design for reliable microgrid energy management under uncertainties. Energy vol. 91 20–34 (2015) -- [10.1016/j.energy.2015.08.009](https://doi.org/10.1016/j.energy.2015.08.009)
 - Schiffer, J. et al. A survey on modeling of microgrids—From fundamental physics to phasors and voltage sources. Automatica vol. 74 135–150 (2016) -- [10.1016/j.automatica.2016.07.036](https://doi.org/10.1016/j.automatica.2016.07.036)

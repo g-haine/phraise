@@ -51,22 +51,24 @@ Differential-algebraic equation; Port-Hamiltonian system; Controllability; Stabi
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/generic-observability-for-port-hamiltonian-descriptor-systems.bib)
+ 
 ## References
-- Berger T, Reis T, Trenn S (2017) Observability of Linear Differential-Algebraic Systems: A Survey. In: Ilchmann A, Reis T (eds) Surveys in Differential-Algebraic Equations IV. Springer, Berlin, pp 161–219 -- [10.1007/978-3-319-46618-7_4](https://doi.org/10.1007/978-3-319-46618-7_4)
-- Fischer G (2010) Lineare Algebra, 17th edn. Vieweg+Teubner, Wiesbaden -- [10.1007/978-3-8348-9365-9](https://doi.org/10.1007/978-3-8348-9365-9)
-- [Faulwasser T, Maschke B, Philipp F, Schaller M, Worthmann K (2022) Optimal control of port-Hamiltonian descriptor systems with minimal energy supply. SIAM J Control Optim 60(4):2132–2158](optimal-control-of-port-hamiltonian-descriptor-systems-with-minimal-energy-supply) -- [10.1137/21M1427723](https://doi.org/10.1137/21M1427723)
+- Berger, T., Reis, T. & Trenn, S. Observability of Linear Differential-Algebraic Systems: A Survey. Differential-Algebraic Equations Forum 161–219 (2017) doi:10.1007/978-3-319-46618-7_4 -- [10.1007/978-3-319-46618-7_4](https://doi.org/10.1007/978-3-319-46618-7_4)
+- Fischer, G. Lineare Algebra. (Vieweg+Teubner, 2010). doi:10.1007/978-3-8348-9365-9 -- [10.1007/978-3-8348-9365-9](https://doi.org/10.1007/978-3-8348-9365-9)
+- [Faulwasser, T., Maschke, B., Philipp, F., Schaller, M. & Worthmann, K. Optimal Control of Port-Hamiltonian Descriptor Systems with Minimal Energy Supply. SIAM Journal on Control and Optimization vol. 60 2132–2158 (2022)](optimal-control-of-port-hamiltonian-descriptor-systems-with-minimal-energy-supply) -- [10.1137/21m1427723](https://doi.org/10.1137/21m1427723)
 - Horn RA, Johnson CR (2013) Matrix Analysis, 2nd edn. Cambridge University Press, Cambridge
-- Ilchmann A, Kirchhoff J (2021) Differential-algebraic systems are generically controllable and stabilizable. Math Control Signals Syst 33:359–377. https://doi.org/10.1007/s00498-021-00287-x -- [10.1007/s00498-021-00287-x](https://doi.org/10.1007/s00498-021-00287-x)
-- Ilchmann A, Kirchhoff J (2023) Correction to: Relative genericity of controllablity and stabilizability for differential-algebraic systems. Math Control Signals Syst. https://doi.org/10.1007/s00498-023-00355-4. (Electronically published) -- [10.1007/s00498-023-00355-4](https://doi.org/10.1007/s00498-023-00355-4)
-- Ilchmann A, Kirchhoff J (2023) Relative genericity of controllablity and stabilizability for differential-algebraic systems. Math Control Signals Syst 35:45–76. https://doi.org/10.1007/s00498-021-00287-x -- [10.1007/s00498-021-00287-x](https://doi.org/10.1007/s00498-021-00287-x)
-- [Ilchmann A, Kirchhoff J, Schaller M (2023) Port-Hamiltonian descriptor systems are generically controllable and stabilizable. Submitted to Mathematics of Control, Signals and Systems. Preprint: https://arxiv.org/abs/2302.05156](port-hamiltonian-descriptor-systems-are-relative-generically-controllable-and-stabilizable) -- [10.1007/s00498-024-00392-7](https://doi.org/10.1007/s00498-024-00392-7)
-- [Kirchhoff J (2022) Linear port-Hamiltonian systems are generically controllable. IEEE Trans. Autom. Control 67:3220–3222](linear-port-hamiltonian-systems-are-generically-controllable) -- [10.1109/TAC.2021.3098176](https://doi.org/10.1109/TAC.2021.3098176)
+- Ilchmann, A. & Kirchhoff, J. Differential-algebraic systems are generically controllable and stabilizable. Mathematics of Control, Signals, and Systems vol. 33 359–377 (2021) -- [10.1007/s00498-021-00287-x](https://doi.org/10.1007/s00498-021-00287-x)
+- Ilchmann, A. & Kirchhoff, J. Correction to: Relative genericity of controllability and stabilizability for differential-algebraic systems. Mathematics of Control, Signals, and Systems vol. 35 951–955 (2023) -- [10.1007/s00498-023-00355-4](https://doi.org/10.1007/s00498-023-00355-4)
+- Ilchmann, A. & Kirchhoff, J. Differential-algebraic systems are generically controllable and stabilizable. Mathematics of Control, Signals, and Systems vol. 33 359–377 (2021) -- [10.1007/s00498-021-00287-x](https://doi.org/10.1007/s00498-021-00287-x)
+- [Ilchmann, A., Kirchhoff, J. & Schaller, M. Port-Hamiltonian descriptor systems are relative generically controllable and stabilizable. Mathematics of Control, Signals, and Systems vol. 37 23–59 (2024)](port-hamiltonian-descriptor-systems-are-relative-generically-controllable-and-stabilizable) -- [10.1007/s00498-024-00392-7](https://doi.org/10.1007/s00498-024-00392-7)
+- [Kirchhoff, J. Linear Port-Hamiltonian Systems Are Generically Controllable. IEEE Transactions on Automatic Control vol. 67 3220–3222 (2022)](linear-port-hamiltonian-systems-are-generically-controllable) -- [10.1109/tac.2021.3098176](https://doi.org/10.1109/tac.2021.3098176)
 - Lee EB, Markus L (1967) Foundations of Optimal Control Theory. Wiley, New York
-- Lobry C (1973) Dynamical Polysystems and Control Theory. In: Mayne DQ, Brocket RW (eds) Geometric Methods in System Theory. D. Reidel Publishing Company, Dordrecht, pp 1–42 -- [10.1007/978-94-010-2675-8_1](https://doi.org/10.1007/978-94-010-2675-8_1)
-- Milnor J (1968) Singular Points of Complex Hypersurfaces. Princeton University Press, Princeton -- [10.1515/9781400881819](https://doi.org/10.1515/9781400881819)
-- Mumford D (1999) The Red Book of Varieties and Schemes. Springer, Berlin -- [10.1007/b62130](https://doi.org/10.1007/b62130)
+- Lobry, C. Dynamical Polysystems and Control Theory. Geometric Methods in System Theory 1–42 (1973) doi:10.1007/978-94-010-2675-8_1 -- [10.1007/978-94-010-2675-8_1](https://doi.org/10.1007/978-94-010-2675-8_1)
+- Milnor, J. Singular Points of Complex Hypersurfaces. (AM-61). (1969) doi:10.1515/9781400881819 -- [10.1515/9781400881819](https://doi.org/10.1515/9781400881819)
+- Mumford, D. The Red Book of Varieties and Schemes. Lecture Notes in Mathematics (Springer Berlin Heidelberg, 1999). doi:10.1007/b62130 -- [10.1007/b62130](https://doi.org/10.1007/b62130)
 - Reid M (1998) Undergraduate Algebraic Geometry. Cambridge University Press, Cambridge
-- Tchoń K (1983) On generic properties of linear systems: an overview. Kybernetika 19(6):467–474
-- Trentelman HL, Stoorvogel AA, Hautus M (2001) Control Theory for Linear Systems. Springer, London -- [10.1007/978-1-4471-0339-4](https://doi.org/10.1007/978-1-4471-0339-4)
+- K Tchoń. Tchoń K (1983) On generic properties of linear systems: an overview. Kybernetika 19(6):467–474 (1983)
+- Trentelman, H. L., Stoorvogel, A. A. & Hautus, M. Control Theory for Linear Systems. Communications and Control Engineering (Springer London, 2001). doi:10.1007/978-1-4471-0339-4 -- [10.1007/978-1-4471-0339-4](https://doi.org/10.1007/978-1-4471-0339-4)
 - Wonham WM (1979) Linear Multivariable Control, 2nd edn. Springer, New York
 

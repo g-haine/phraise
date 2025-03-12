@@ -21,7 +21,7 @@ This letter proposes a novel framework to design a passivity based sliding mode 
 - **Issue:** 3
 - **Pages:** 839--844
 - **Publisher:** Institute of Electrical and Electronics Engineers (IEEE)
-- **DOI:** [10.1109/LCSYS.2020.3005327](https://doi.org/10.1109/LCSYS.2020.3005327)
+- **DOI:** [10.1109/lcsys.2020.3005327](https://doi.org/10.1109/lcsys.2020.3005327)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -41,18 +41,21 @@ This letter proposes a novel framework to design a passivity based sliding mode 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-passivity-based-sliding-mode-controller-for-simple-port-hamiltonian-systems.bib)
+ 
 ## References
-- Ferguson, J., Donaire, A. & Middleton, R. H. Kinetic-Potential Energy Shaping for Mechanical Systems With Applications to Tracking. IEEE Control Systems Letters vol. 3 960–965 (2019) -- [10.1109/LCSYS.2019.2919842](https://doi.org/10.1109/LCSYS.2019.2919842)
-- Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/TAC.2010.2042010](https://doi.org/10.1109/TAC.2010.2042010)
-- Romero, J. G., Ortega, R. & Sarras, I. A Globally Exponentially Stable Tracking Controller for Mechanical Systems Using Position Feedback. IEEE Transactions on Automatic Control vol. 60 818–823 (2015) -- [10.1109/TAC.2014.2330701](https://doi.org/10.1109/TAC.2014.2330701)
+- Ferguson, J., Donaire, A. & Middleton, R. H. Kinetic-Potential Energy Shaping for Mechanical Systems With Applications to Tracking. IEEE Control Systems Letters vol. 3 960–965 (2019) -- [10.1109/lcsys.2019.2919842](https://doi.org/10.1109/lcsys.2019.2919842)
+- Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/tac.2010.2042010](https://doi.org/10.1109/tac.2010.2042010)
+- [Romero, J. G., Ortega, R. & Sarras, I. A Globally Exponentially Stable Tracking Controller for Mechanical Systems Using Position Feedback. IEEE Transactions on Automatic Control vol. 60 818–823 (2015)](a-globally-exponentially-stable-tracking-controller-for-mechanical-systems-using-position-feedback) -- [10.1109/tac.2014.2330701](https://doi.org/10.1109/tac.2014.2330701)
 - Polyakov, A. & Fridman, L. Stability notions and Lyapunov functions for sliding mode control systems. Journal of the Franklin Institute vol. 351 1831–1865 (2014) -- [10.1016/j.jfranklin.2014.01.002](https://doi.org/10.1016/j.jfranklin.2014.01.002)
-- Levant, A. Quasi-continuous high-order sliding-mode controllers. 42nd IEEE International Conference on Decision and Control (IEEE Cat. No.03CH37475) 4605–4610 doi:10.1109/cdc.2003.1272286 -- [10.1109/CDC.2003.1272286](https://doi.org/10.1109/CDC.2003.1272286)
+- Levant, A. Quasi-continuous high-order sliding-mode controllers. 42nd IEEE International Conference on Decision and Control (IEEE Cat. No.03CH37475) 4605–4610 doi:10.1109/cdc.2003.1272286 -- [10.1109/cdc.2003.1272286](https://doi.org/10.1109/cdc.2003.1272286)
 - Brogliato, B. Nonsmooth Mechanics. Communications and Control Engineering (Springer London, 1999). doi:10.1007/978-1-4471-0557-2 -- [10.1007/978-1-4471-0557-2](https://doi.org/10.1007/978-1-4471-0557-2)
 - [Fujimoto, K., Sakai, S. & Sugie, T. Passivity based control of a class of Hamiltonian systems with nonholonomic constraints. Automatica vol. 48 3054–3063 (2012)](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
 - Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- Multidomain modeling of nonlinear networks and systems. IEEE Control Systems vol. 29 28–59 (2009) -- [10.1109/MCS.2009.932927](https://doi.org/10.1109/MCS.2009.932927)
-- [Zhang, M., Borja, P., Ortega, R., Liu, Z. & Su, H. PID Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 63 1032–1044 (2018)](pid-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2017.2732283](https://doi.org/10.1109/TAC.2017.2732283)
-- Trip, S., Cucuzzella, M., De Persis, C., van der Schaft, A. & Ferrara, A. Passivity-Based Design of Sliding Modes for Optimal Load Frequency Control. IEEE Transactions on Control Systems Technology vol. 27 1893–1906 (2019) -- [10.1109/TCST.2018.2841844](https://doi.org/10.1109/TCST.2018.2841844)
+- Multidomain modeling of nonlinear networks and systems. IEEE Control Systems vol. 29 28–59 (2009) -- [10.1109/mcs.2009.932927](https://doi.org/10.1109/mcs.2009.932927)
+- slotine, Applied nonlinear control (1991)
+- [Zhang, M., Borja, P., Ortega, R., Liu, Z. & Su, H. PID Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 63 1032–1044 (2018)](pid-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2017.2732283](https://doi.org/10.1109/tac.2017.2732283)
+- Trip, S., Cucuzzella, M., De Persis, C., van der Schaft, A. & Ferrara, A. Passivity-Based Design of Sliding Modes for Optimal Load Frequency Control. IEEE Transactions on Control Systems Technology vol. 27 1893–1906 (2019) -- [10.1109/tcst.2018.2841844](https://doi.org/10.1109/tcst.2018.2841844)
 - Ferrara, A., Incremona, G. P. & Cucuzzella, M. Advanced and Optimization Based Sliding Mode Control: Theory and Applications. (2019) doi:10.1137/1.9781611975840 -- [10.1137/1.9781611975840](https://doi.org/10.1137/1.9781611975840)
 - Brogliato, B., Lozano, R., Maschke, B. & Egeland, O. Dissipative Systems Analysis and Control. Communications and Control Engineering (Springer International Publishing, 2020). doi:10.1007/978-3-030-19420-8 -- [10.1007/978-3-030-19420-8](https://doi.org/10.1007/978-3-030-19420-8)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)

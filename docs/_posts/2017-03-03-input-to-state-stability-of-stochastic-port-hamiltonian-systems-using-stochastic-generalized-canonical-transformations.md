@@ -41,3 +41,5 @@ As a practically important class of nonlinear stochastic systems, this paper con
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/input-to-state-stability-of-stochastic-port-hamiltonian-systems-using-stochastic-generalized-canonical-transformations.bib)
+ 

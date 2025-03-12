@@ -21,7 +21,7 @@ This paper studies an extension of a Stokes-Dirac structure which is treated in 
 - **Issue:** 
 - **Pages:** 5004--5009 vol.6
 - **Publisher:** IEEE
-- **DOI:** [10.23919/ACC.2004.1384643](https://doi.org/10.23919/ACC.2004.1384643)
+- **DOI:** [10.23919/acc.2004.1384643](https://doi.org/10.23919/acc.2004.1384643)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -37,4 +37,6 @@ This paper studies an extension of a Stokes-Dirac structure which is treated in 
 }
 {% endraw %}
 {% endhighlight %}
+ 
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-higher-order-stokes-dirac-structure-for-distributed-parameter-port-hamiltonian-systems.bib)
  

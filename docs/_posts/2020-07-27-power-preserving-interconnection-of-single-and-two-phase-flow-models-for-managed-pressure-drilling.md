@@ -38,16 +38,23 @@ Many complex systems are modeled by a network of different subsystems, each havi
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/power-preserving-interconnection-of-single-and-two-phase-flow-models-for-managed-pressure-drilling.bib)
+ 
 ## References
-- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
+- macchelli, Boundary energyshaping control of an ideal compressible isentropic fluid in 1-d. IFACPapersOnLine (2017)
+- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
 - Meyer, C., Rösch, A. & Tröltzsch, F. Optimal Control of PDEs with Regularized Pointwise State Constraints. Computational Optimization and Applications vol. 33 209–228 (2005) -- [10.1007/s10589-005-3056-1](https://doi.org/10.1007/s10589-005-3056-1)
-- Lordejani, S. N. et al. Modeling and Numerical Implementation of Managed-Pressure-Drilling Systems for the Assessment of Pressure-Control Systems. SPE Drilling &amp; Completion vol. 35 598–619 (2020) -- [10.2118/201108-PA](https://doi.org/10.2118/201108-PA)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Lordejani, S. N. et al. Modeling and Numerical Implementation of Managed-Pressure-Drilling Systems for the Assessment of Pressure-Control Systems. SPE Drilling &amp; Completion vol. 35 598–619 (2020) -- [10.2118/201108-pa](https://doi.org/10.2118/201108-pa)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- tiselj, Second order numerical method for two-fluid model of air-water flow (1995)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- de wilde, Port-Hamiltonian discretization of gas pipeline networks. MSc Thesis Applied Mathematics (2015)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - Evje, S. & Flåtten, T. On the Wave Structure of Two‐Phase Flow Models. SIAM Journal on Applied Mathematics vol. 67 487–511 (2007) -- [10.1137/050633482](https://doi.org/10.1137/050633482)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - Krstic, M. & Smyshlyaev, A. Boundary Control of PDEs. (2008) doi:10.1137/1.9780898718607 -- [10.1137/1.9780898718607](https://doi.org/10.1137/1.9780898718607)
 - Figueiredo, A. B., Baptista, R. M., Freitas Rachid, F. B. de & Bodstein, G. C. R. Numerical simulation of stratified-pattern two-phase flow in gas pipelines using a two-fluid model. International Journal of Multiphase Flow vol. 88 30–49 (2017) -- [10.1016/j.ijmultiphaseflow.2016.09.016](https://doi.org/10.1016/j.ijmultiphaseflow.2016.09.016)
-- LeVeque, R. J. Finite Volume Methods for Hyperbolic Problems. (2002) doi:10.1017/cbo9780511791253 -- [10.1017/CBO9780511791253](https://doi.org/10.1017/CBO9780511791253)
+- bansal, Port-Hamiltonian formulation of two-phase flow models. (2020)
+- aarsnes, Modeling of two-phase flow for estimation and control of drilling operations. PhD thesis (2016)
+- LeVeque, R. J. Finite Volume Methods for Hyperbolic Problems. (2002) doi:10.1017/cbo9780511791253 -- [10.1017/cbo9780511791253](https://doi.org/10.1017/cbo9780511791253)
 

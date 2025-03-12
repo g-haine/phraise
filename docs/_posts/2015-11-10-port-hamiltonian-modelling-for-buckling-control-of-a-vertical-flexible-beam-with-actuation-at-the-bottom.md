@@ -31,7 +31,7 @@ Nonlinear beam model; distributed-parameter systems; port-Hamiltonian systems; b
 - **Pages:** 31--38
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.210](https://doi.org/10.1016/j.ifacol.2015.10.210)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,23 +51,25 @@ Nonlinear beam model; distributed-parameter systems; port-Hamiltonian systems; b
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-modelling-for-buckling-control-of-a-vertical-flexible-beam-with-actuation-at-the-bottom.bib)
+ 
 ## References
-- Q. S. Wang. Active buckling control of beams using piezoelectric actuators and strain gauge sensors Smart Materials Structures, IOP Publishing, 19, pages 065022065030, 2010. -- [10.1088/0964-1726/19/6/065022](https://doi.org/10.1088/0964-1726/19/6/065022)
+- Wang, Q. S. Active buckling control of beams using piezoelectric actuators and strain gauge sensors. Smart Materials and Structures vol. 19 065022 (2010) -- [10.1088/0964-1726/19/6/065022](https://doi.org/10.1088/0964-1726/19/6/065022)
 - R. R. Craig, and A. J. Kurdila. Fundamentals of Structural Dynamics John Wiley & Sons, Second edition, page 179, 2006.
-- D. H. Hodges, R. A. Ormiston, and D. A. Peters. On the Nonlinear Deformation Geometry of Euler-Bernoulli Beams NASA Technical paper 1566, Technical report 80-A-1, 1980. -- [10.21236/ADA083191](https://doi.org/10.21236/ADA083191)
-- T. Voß, J.M.A. Scherpen, P.R. Onck. Modeling for control of an inatable space reector, the nonlinear 1-D case. Proceedings of the 47th IEEE Conference on Decision and Control Cancun, Mexico, pages 1777-1782, 2008. -- [10.1109/CDC.2008.4739177](https://doi.org/10.1109/CDC.2008.4739177)
-- T. Meressi, B. Paden. Buckling Control of a Flexible Beam Using Piezoelectric Actuators. Journal of Guidance, Control, and Dynamics, Volume 16, Number 5, pages 977-980, 1993. -- [10.2514/3.21113](https://doi.org/10.2514/3.21113)
-- S. P. Thompson, J. Loughlan. The Active buckling control of some composite column strip using piezoceramic actuators Composite Structures, 32, pages 59-67, 1995. -- [10.1016/0263-8223(95)00048-8](https://doi.org/10.1016/0263-8223(95)00048-8)
-- H. M. Ma, X. L. Gao, J.N. Reddy. A microstructuredependent Timoshenko beam model based on a modified couple stress theory. Journal of the Mechanics and Physics of Solids, 56, pages 3379-3391, 2008. -- [10.1016/j.jmps.2008.09.007](https://doi.org/10.1016/j.jmps.2008.09.007)
-- [R. N. Banavar, B. Dey. Stabilizing a exible beam on a cart: a distributed port-hamiltonian approach, Journal of Nonlinear Science, Volume 20, Issue 2, pages 131-151, 2010.](stabilizing-a-flexible-beam-on-a-cart-a-distributed-port-hamiltonian-approach) -- [10.1007/s00332-009-9054-1](https://doi.org/10.1007/s00332-009-9054-1)
+- Hodges, D. H., Ormiston, R. A. & Peters, D. A. On the Nonlinear Deformation Geometry of Euler-Bernoulli Beams. http://dx.doi.org/10.21236/ADA083191 (1980) doi:10.21236/ada083191 -- [10.21236/ada083191](https://doi.org/10.21236/ada083191)
+- [Voss, T., Scherpen, J. M. A. & Onck, P. R. Modeling for control of an inflatable space reflector, the nonlinear 1-D case. 2008 47th IEEE Conference on Decision and Control 1777–1782 (2008) doi:10.1109/cdc.2008.4739177](modeling-for-control-of-an-inflatable-space-reflector-the-nonlinear-1-d-case) -- [10.1109/cdc.2008.4739177](https://doi.org/10.1109/cdc.2008.4739177)
+- Meressi, T. & Paden, B. Buckling control of a flexible beam using piezoelectric actuators. Journal of Guidance, Control, and Dynamics vol. 16 977–980 (1993) -- [10.2514/3.21113](https://doi.org/10.2514/3.21113)
+- Thompson, S. P. & Loughlan, J. The active buckling control of some composite column strips using piezoceramic actuators. Composite Structures vol. 32 59–67 (1995) -- [10.1016/0263-8223(95)00048-8](https://doi.org/10.1016/0263-8223(95)00048-8)
+- MA, H., GAO, X. & REDDY, J. A microstructure-dependent Timoshenko beam model based on a modified couple stress theory. Journal of the Mechanics and Physics of Solids vol. 56 3379–3391 (2008) -- [10.1016/j.jmps.2008.09.007](https://doi.org/10.1016/j.jmps.2008.09.007)
+- [Banavar, R. & Dey, B. Stabilizing a Flexible Beam on a Cart: A Distributed Port-Hamiltonian Approach. Journal of Nonlinear Science vol. 20 131–151 (2009)](stabilizing-a-flexible-beam-on-a-cart-a-distributed-port-hamiltonian-approach) -- [10.1007/s00332-009-9054-1](https://doi.org/10.1007/s00332-009-9054-1)
 - D. Osita, I. Nwokah, Y. Hurmuzlu. The Mechanical systems design handbook: modelling, measurement, and control. CRC Press, 2001.
-- [A. Macchelli and C. Melchiorri. Modeling and control of the Timoshenko beam: the distributed port Hamiltonian approach. SIAM Journal on Control and Optimization, 43(2), pages 743-767, 2004.](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
-- [A. Macchelli and C. Melchiorri. Control by interconnection and energy shaping of the Timoshenko beam. Taylor and Francis, Mathematical and Computer Modelling of Dynamical Systems, 10(3,4), pages 231-251, 2004.](control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam) -- [10.1080/13873950412331335243](https://doi.org/10.1080/13873950412331335243)
-- G. Nishida, M. Yamakita. Distributed Port Hamiltonian formulation of Flexible beams under Large Deformation. Proceedings of the 2005 IEEE Conference on Control Applications, Toronto, Canada, pages 589-594, 2005. -- [10.1109/CCA.2005.1507190](https://doi.org/10.1109/CCA.2005.1507190)
-- J. N. Reddy, P. Mahaffey. Generalised beam theories accounting for von Karman nonlinear strains with application to buckling. Journal of Coupled Systems and Multiscale Dynamics, Vol.1(1), 2330-152X, pages 120-135, 2013. -- [10.1166/jcsmd.2013.1006](https://doi.org/10.1166/jcsmd.2013.1006)
-- A. H. Nayfeh, S. A. Emam. Exact solution and stability of postbuckling configurations of beams. Nonlinear Dynamics, Springer, pages 395-408, 2008. -- [10.1007/s11071-008-9338-2](https://doi.org/10.1007/s11071-008-9338-2)
-- J. N. Reddy. An Introduction to Nonlinear Finite Element Analysis: With Applications to Heat Transfer, Fluid Mechanics, and Solid Mechanics. Oxford University Press, Second edition, page 57, 2015. -- [10.1093/acprof:oso/9780199641758.001.0001](https://doi.org/10.1093/acprof:oso/9780199641758.001.0001)
-- O. Patil and P. Gandhi. On the Dynamics and Multiple Equilibria of an Inverted Flexible Pendulum With Tip Mass on a Cart, Journal of Dynamic Systems, Measurement, and Control, Vol. 136, pages 041017-1 - 041017-9, 2014. -- [10.1115/1.4026831](https://doi.org/10.1115/1.4026831)
-- M. I. Friswell, S. F. Ali, O. Bilgen, S. Adhikari, Lees A. W. and Litak G. Non-linear piezoelectric vibration energy harvesting from a vertical cantilever beam with tip mass. Journal of Intelligent Material Systems and Structures, 23(13), pages 1505-1521, 2012. -- [10.1177/1045389X12455722](https://doi.org/10.1177/1045389X12455722)
+- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
+- [Macchelli, A. & Melchiorri, C. Control by Interconnection and Energy Shaping of the Timoshenko Beam. Mathematical and Computer Modelling of Dynamical Systems vol. 10 231–251 (2004)](control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam) -- [10.1080/13873950412331335243](https://doi.org/10.1080/13873950412331335243)
+- Gou Nishida & Yamakita, M. Distributed port hamiltonian formulation of flexible beams under large deformations. Proceedings of 2005 IEEE Conference on Control Applications, 2005. CCA 2005. 589–594 doi:10.1109/cca.2005.1507190 -- [10.1109/cca.2005.1507190](https://doi.org/10.1109/cca.2005.1507190)
+- Reddy, J. N. & Mahaffey, P. Generalized beam theories accounting for von Kármán nonlinear strains with application to buckling. Journal of Coupled Systems and Multiscale Dynamics vol. 1 120–134 (2013) -- [10.1166/jcsmd.2013.1006](https://doi.org/10.1166/jcsmd.2013.1006)
+- Nayfeh, A. H. & Emam, S. A. Exact solution and stability of postbuckling configurations of beams. Nonlinear Dynamics vol. 54 395–408 (2008) -- [10.1007/s11071-008-9338-2](https://doi.org/10.1007/s11071-008-9338-2)
+- Reddy, J. N. An Introduction to Nonlinear Finite Element Analysis, 2nd Edn. (2014) doi:10.1093/acprof:oso/9780199641758.001.0001 -- [10.1093/acprof:oso/9780199641758.001.0001](https://doi.org/10.1093/acprof:oso/9780199641758.001.0001)
+- Patil, O. & Gandhi, P. On the Dynamics and Multiple Equilibria of an Inverted Flexible Pendulum With Tip Mass on a Cart. Journal of Dynamic Systems, Measurement, and Control vol. 136 (2014) -- [10.1115/1.4026831](https://doi.org/10.1115/1.4026831)
+- Friswell, M. I. et al. Non-linear piezoelectric vibration energy harvesting from a vertical cantilever beam with tip mass. Journal of Intelligent Material Systems and Structures vol. 23 1505–1521 (2012) -- [10.1177/1045389x12455722](https://doi.org/10.1177/1045389x12455722)
 - H.K. Khalil. Nonlinear Systems. Second edition, Printice Hall, NJ, page 98, 1996.
 

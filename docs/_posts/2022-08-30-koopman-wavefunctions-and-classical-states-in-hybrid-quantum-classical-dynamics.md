@@ -41,3 +41,5 @@ We deal with the reversible dynamics of coupled quantum and classical systems. B
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/koopman-wavefunctions-and-classical-states-in-hybrid-quantum-classical-dynamics.bib)
+ 

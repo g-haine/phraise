@@ -30,7 +30,7 @@ Passivity-based control; port-Hamiltonian systems; stabilization; nonlinear syst
 - **Pages:** 175--180
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.06.049](https://doi.org/10.1016/j.ifacol.2018.06.049)
-- **Event:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
+- **Note:** 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2018
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,21 +50,27 @@ Passivity-based control; port-Hamiltonian systems; stabilization; nonlinear syst
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/new-results-on-pid-passivity-based-controllers-for-port-hamiltonian-systems.bib)
+ 
 ## References
 - [Borja, P., Cisneros, R. & Ortega, R. A constructive procedure for energy shaping of port—Hamiltonian systems. Automatica vol. 72 230–234 (2016)](a-constructive-procedure-for-energy-shaping-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2016.05.028](https://doi.org/10.1016/j.automatica.2016.05.028)
 - Bregman, L. M. The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming. USSR Computational Mathematics and Mathematical Physics vol. 7 200–217 (1967) -- [10.1016/0041-5553(67)90040-7](https://doi.org/10.1016/0041-5553(67)90040-7)
 - Cisneros, R. et al. Global tracking passivity-based PI control of bilinear systems: Application to the interleaved boost and modular multilevel converters. Control Engineering Practice vol. 43 109–119 (2015) -- [10.1016/j.conengprac.2015.07.002](https://doi.org/10.1016/j.conengprac.2015.07.002)
-- Donaire, A. et al. Shaping the Energy of Mechanical Systems Without Solving Partial Differential Equations. IEEE Transactions on Automatic Control vol. 61 1051–1056 (2016) -- [10.1109/TAC.2015.2458091](https://doi.org/10.1109/TAC.2015.2458091)
-- Ferguson, J., Middleton, R., and Donaire, A. (2015). Disturbance rejection via control by interconnection of port-Hamiltonian systems. In 54th IEEE Conference on Decision and Control, 507–512. -- [10.1109/CDC.2015.7402279](https://doi.org/10.1109/CDC.2015.7402279)
+- Donaire, A. et al. Shaping the Energy of Mechanical Systems Without Solving Partial Differential Equations. IEEE Transactions on Automatic Control vol. 61 1051–1056 (2016) -- [10.1109/tac.2015.2458091](https://doi.org/10.1109/tac.2015.2458091)
+- Duindam, (2009)
+- Ferguson, J., Middleton, R. H. & Donaire, A. Disturbance rejection via control by interconnection of port-Hamiltonian systems. 2015 54th IEEE Conference on Decision and Control (CDC) 507–512 (2015) doi:10.1109/cdc.2015.7402279 -- [10.1109/cdc.2015.7402279](https://doi.org/10.1109/cdc.2015.7402279)
 - Gandhi, P. S., Borja, P. & Ortega, R. Energy shaping control of an inverted flexible pendulum fixed to a cart. Control Engineering Practice vol. 56 27–36 (2016) -- [10.1016/j.conengprac.2016.07.010](https://doi.org/10.1016/j.conengprac.2016.07.010)
-- Hernandez-Gomez, M., Ortega, R., Lamnabhi-Lagarrigue, F. & Escobar, G. Adaptive PI Stabilization of Switched Power Converters. IEEE Transactions on Control Systems Technology vol. 18 688–698 (2010) -- [10.1109/TCST.2009.2023669](https://doi.org/10.1109/TCST.2009.2023669)
+- Hernandez-Gomez, M., Ortega, R., Lamnabhi-Lagarrigue, F. & Escobar, G. Adaptive PI Stabilization of Switched Power Converters. IEEE Transactions on Control Systems Technology vol. 18 688–698 (2010) -- [10.1109/tcst.2009.2023669](https://doi.org/10.1109/tcst.2009.2023669)
 - Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
-- Meng, Z., Borja, P., and Ortega, R. (2017). PID Passivity-based control of port-Hamiltonian systems. IEEE Transactions Automatic Control.
-- Ortega, R. and Borja, P. (2014). New results on control by interconnection and energy-balancing Passivity-based control of port-Hamiltonian systems. In Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 2346–2351. -- [10.1109/CDC.2014.7039746](https://doi.org/10.1109/CDC.2014.7039746)
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
-- Romero, J., Donaire, A., Ortega, R., and Borja, P. (2017). Global stabilisation of underactuated mechanical systems via PID passivity-based control. Automatica, (To appear). -- [10.1016/j.ifacol.2017.08.1674](https://doi.org/10.1016/j.ifacol.2017.08.1674)
+- Khalil, (2002)
+- Meng, Further deleterious effects of the dissipation obstacle in control by interconnetction of port-Hamiltonian systems. Automatica (2015)
+- Meza, Lyapunov-based control scheme for single-phase grid-connected PV central inverters. IEEE Control Systems Magazine (2012)
+- Ortega, R. & Borja, L. P. New results on Control by Interconnection and Energy-Balancing Passivity-Based Control of port-hamiltonian systems. 53rd IEEE Conference on Decision and Control 2346–2351 (2014) doi:10.1109/cdc.2014.7039746 -- [10.1109/cdc.2014.7039746](https://doi.org/10.1109/cdc.2014.7039746)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
+- Romero, J. G., Donaire, A., Ortega, R. & Borja, P. Global Stabilisation of Underactuated Mechanical Systems via PID Passivity-Based Control. IFAC-PapersOnLine vol. 50 9577–9582 (2017) -- [10.1016/j.ifacol.2017.08.1674](https://doi.org/10.1016/j.ifacol.2017.08.1674)
 - SAKAI, S., KURIYAMA, K. & NONAMI, K. A Novel Passivity Based Control of Active Magnetic Bearing Systems without Conventional Cross-Feedback. Journal of System Design and Dynamics vol. 3 540–550 (2009) -- [10.1299/jsdd.3.540](https://doi.org/10.1299/jsdd.3.540)
 - Sanders, S. R. & Verghese, G. C. Lyapunov-based control for switched power converters. IEEE Transactions on Power Electronics vol. 7 17–24 (1992) -- [10.1109/63.124573](https://doi.org/10.1109/63.124573)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- Venkatraman, A. & van der Schaft, A. Energy Shaping of Port-Hamiltonian Systems by Using Alternate Passive Input-Output Pairs. European Journal of Control vol. 16 665–677 (2010) -- [10.3166/ejc.16.665-677](https://doi.org/10.3166/ejc.16.665-677)
+- van der Schaft, (2016)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [Venkatraman, A. & van der Schaft, A. Energy Shaping of Port-Hamiltonian Systems by Using Alternate Passive Input-Output Pairs. European Journal of Control vol. 16 665–677 (2010)](energy-shaping-of-port-hamiltonian-systems-by-using-alternate-passive-input-output-pairs) -- [10.3166/ejc.16.665-677](https://doi.org/10.3166/ejc.16.665-677)
 

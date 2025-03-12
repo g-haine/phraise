@@ -41,12 +41,16 @@ We show that symplectic Runge-Kutta methods provide effective symplectic integra
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/symplectic-integrators-for-index-1-constraints.bib)
+ 
 ## References
 - Benito, R. & Martín de Diego, D. Discrete vakonomic mechanics. Journal of Mathematical Physics vol. 46 (2005) -- [10.1063/1.2008214](https://doi.org/10.1063/1.2008214)
 - Burrage, K. & Butcher, J. C. Stability Criteria for Implicit Runge–Kutta Methods. SIAM Journal on Numerical Analysis vol. 16 46–57 (1979) -- [10.1137/0716004](https://doi.org/10.1137/0716004)
 - E. Fernandez, O. et al. Variational Integrators for Hamiltonizable Nonholonomic Systems. Journal of Geometric Mechanics vol. 4 137–163 (2012) -- [10.3934/jgm.2012.4.137](https://doi.org/10.3934/jgm.2012.4.137)
+- Hairer E., NJ (1993)
 - Martı́nez, S., Cortés, J. & de León, M. The geometrical theory of constraints applied to the dynamics of vakonomic mechanical systems: The vakonomic bracket. Journal of Mathematical Physics vol. 41 2090–2120 (2000) -- [10.1063/1.533229](https://doi.org/10.1063/1.533229)
 - McLachlan, R. & Perlmutter, M. Integrators for Nonholonomic Mechanical Systems. Journal of Nonlinear Science vol. 16 283–328 (2006) -- [10.1007/s00332-005-0698-1](https://doi.org/10.1007/s00332-005-0698-1)
 - Modin, K. & Verdier, O. Integrability of nonholonomically coupled oscillators. Discrete &amp; Continuous Dynamical Systems - A vol. 34 1121–1130 (2014) -- [10.3934/dcds.2014.34.1121](https://doi.org/10.3934/dcds.2014.34.1121)
 - Leimkuhler, B. J. & Skeel, R. D. Symplectic Numerical Integrators in Constrained Hamiltonian Systems. Journal of Computational Physics vol. 112 117–125 (1994) -- [10.1006/jcph.1994.1085](https://doi.org/10.1006/jcph.1994.1085)
+- Vershik A. M., Berlin (1994)
 

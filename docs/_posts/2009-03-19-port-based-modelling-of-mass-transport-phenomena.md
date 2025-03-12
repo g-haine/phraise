@@ -41,19 +41,40 @@ The goal of this article is to present an extension of the port-based modelling 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-based-modelling-of-mass-transport-phenomena.bib)
+ 
 ## References
+- Karnopp D., System Dynamics: Modeling and Simulation of Mechatronic Systems (2006)
+- Ingrim M., A discrete network representation of thermomechanical processes in continuous media
 - Ingrim, M. E. & Masada, G. Y. The Extended Bond Graph Notation. Journal of Dynamic Systems, Measurement, and Control vol. 113 113–117 (1991) -- [10.1115/1.2896334](https://doi.org/10.1115/1.2896334)
+- Yen C., Extended Bond Graphs with moving reference frames for flexible multibody dynamics (1992)
+- Granda J., Proceedings of the Int. Conf. Bond Graph Modeling ICBGM, '93
+- Granda J., Proceedings of the Int. Conf. Bond Graph Modeling ICBGM'93
 - Lebrun, M. The Use of Modal Analysis Concepts in the Simulation of Pipeline Transients. Journal of the Franklin Institute vol. 319 137–156 (1985) -- [10.1016/0016-0032(85)90070-5](https://doi.org/10.1016/0016-0032(85)90070-5)
 - Samanta, B. & Mukherjee, A. Analysis of Acoustoelastic Systems Using Modal Bond Graphs. Journal of Dynamic Systems, Measurement, and Control vol. 112 108–115 (1990) -- [10.1115/1.2894126](https://doi.org/10.1115/1.2894126)
+- Buyl F., Proceedings of the Int. Conf. Bond Graph Modeling ICBGM'93
 - Yen, C., Masada, G. Y. & Ingrim, M. E. Model of a hyperelastic thin plate using the extended bond graph method. Journal of the Franklin Institute vol. 328 765–780 (1991) -- [10.1016/0016-0032(91)90053-6](https://doi.org/10.1016/0016-0032(91)90053-6)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Doblaré M., Proceedings of the Int. Conf. Bond Graph Modeling ICBGM'95
+- Maschke B., Proceedings of the ASME Int. Mechanical Engineering Congress and Exposition
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
-- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
+- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
+- Hamroun H., Trans. Fluid Mech. (2006)
 - Longoria, R. G. Wave-scattering formalisms for multiport energetic systems. Journal of the Franklin Institute vol. 333 539–564 (1996) -- [10.1016/0016-0032(96)00019-1](https://doi.org/10.1016/0016-0032(96)00019-1)
 - Marquardt, W. Trends in computer-aided process modeling. Computers &amp; Chemical Engineering vol. 20 591–609 (1996) -- [10.1016/0098-1354(95)00195-6](https://doi.org/10.1016/0098-1354(95)00195-6)
-- Mangold, M., Motz, S. & Gilles, E. D. A network theory for the structured modelling of chemical processes. Chemical Engineering Science vol. 57 4099–4116 (2002) -- [10.1016/S0009-2509(02)00372-X](https://doi.org/10.1016/S0009-2509(02)00372-X)
-- Lakatos, B. G. Multilevel modelling of heterogeneous catalytic reactors. Chemical Engineering Science vol. 56 659–666 (2001) -- [10.1016/S0009-2509(00)00273-6](https://doi.org/10.1016/S0009-2509(00)00273-6)
+- Mangold, M., Motz, S. & Gilles, E. D. A network theory for the structured modelling of chemical processes. Chemical Engineering Science vol. 57 4099–4116 (2002) -- [10.1016/s0009-2509(02)00372-x](https://doi.org/10.1016/s0009-2509(02)00372-x)
+- Baaiu A., Proceeding of the IFAC symposium on Advanced Control of Chemical Processes (ADCHEM'06)
+- Baaiu A., Proceeding of the 5th MathMod (2006)
+- Franco A. A., Proceeding of the 5th MathMod
+- Golo G., Interconnection structures in port-based modelling: tools for analysis and simulation (2002)
+- Lakatos, B. G. Multilevel modelling of heterogeneous catalytic reactors. Chemical Engineering Science vol. 56 659–666 (2001) -- [10.1016/s0009-2509(00)00273-6](https://doi.org/10.1016/s0009-2509(00)00273-6)
+- Bird R. B., Transport Phenomena (2002)
+- de Groot S. R., Non-Equilibrium Thermodynamics (1984)
+- Flanders H., Differential Forms With Applications to the Physical Sciences (1989)
+- Frankel T., The Geometry of Physics: An Introduction (2004)
+- Dorfman I., Dirac Structures and integrability of Nonlinear Evolution Equations (1993)
 - Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.2307/2001258](https://doi.org/10.2307/2001258)
-- Krishna, R. & Wesselingh, J. A. The Maxwell-Stefan approach to mass transfer. Chemical Engineering Science vol. 52 861–911 (1997) -- [10.1016/S0009-2509(96)00458-7](https://doi.org/10.1016/S0009-2509(96)00458-7)
-- Alonso, A. A., Ydstie, B. E. & Banga, J. R. From irreversible thermodynamics to a robust control theory for distributed process systems. Journal of Process Control vol. 12 507–517 (2002) -- [10.1016/S0959-1524(01)00017-8](https://doi.org/10.1016/S0959-1524(01)00017-8)
+- Krishna, R. & Wesselingh, J. A. The Maxwell-Stefan approach to mass transfer. Chemical Engineering Science vol. 52 861–911 (1997) -- [10.1016/s0009-2509(96)00458-7](https://doi.org/10.1016/s0009-2509(96)00458-7)
+- Ruthven D. M., Pressure Swing Adsorption (1994)
+- Alonso, A. A., Ydstie, B. E. & Banga, J. R. From irreversible thermodynamics to a robust control theory for distributed process systems. Journal of Process Control vol. 12 507–517 (2002) -- [10.1016/s0959-1524(01)00017-8](https://doi.org/10.1016/s0959-1524(01)00017-8)
 

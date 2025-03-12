@@ -51,17 +51,23 @@ PI controllers; Flow constraints; Directed graphs; Port-Hamiltonian systems; Con
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/load-balancing-of-dynamical-distribution-networks-with-flow-constraints-and-unknown-in-outflows.bib)
+ 
 ## References
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
-- A.J. van der Schaft, B.M. Maschke, Conservation laws on higher-dimensional networks, in: Proc. 47th IEEE Conf. on Decision and Control, 2008, pp. 799–804. -- [10.1109/CDC.2008.4738952](https://doi.org/10.1109/CDC.2008.4738952)
-- A.J. van der Schaft, B.M. Maschke, Port-Hamiltonian dynamics on graphs: consensus and coordination control algorithms, in: Proc. 2nd IFAC Workshop on Distributed Estimation and Control in Networked Systems, Annecy, France, 2010, pp. 175–178. -- [10.3182/20100913-2-FR-4014.00012](https://doi.org/10.3182/20100913-2-FR-4014.00012)
-- M. Bürger, D. Zelazo, F. Allgöwer, Network clustering: a dynamical systems and saddle-point perspective, in: IEEE Conference on Decision and Control, 2011, pp. 7825–7830. -- [10.1109/CDC.2011.6161045](https://doi.org/10.1109/CDC.2011.6161045)
-- Zelazo, D. & Mesbahi, M. Edge Agreement: Graph-Theoretic Performance Bounds and Passivity Analysis. IEEE Transactions on Automatic Control vol. 56 544–555 (2011) -- [10.1109/TAC.2010.2056730](https://doi.org/10.1109/TAC.2010.2056730)
-- A.J. van der Schaft, J. Wei, A Hamiltonian perspective on the control of dynamical distribution networks, in: 4th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control, 2012, pp. 24–29. -- [10.3182/20120829-3-IT-4022.00033](https://doi.org/10.3182/20120829-3-IT-4022.00033)
-- J.G. Romero, A. Donaire, R. Ortega, Robustifying energy shaping control of mechanical systems, in: 51st IEEE Conference on Decision and Control, 2012, pp. 4424–4429. -- [10.1109/CDC.2012.6425923](https://doi.org/10.1109/CDC.2012.6425923)
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
+- van der Schaft, A. J. & Maschke, B. M. Conservation laws and open systems on higher-dimensional networks. 2008 47th IEEE Conference on Decision and Control 799–804 (2008) doi:10.1109/cdc.2008.4738952 -- [10.1109/cdc.2008.4738952](https://doi.org/10.1109/cdc.2008.4738952)
+- van der Schaft, (2009)
+- van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Dynamics on Graphs: Consensus and Coordination Control Algorithms. IFAC Proceedings Volumes vol. 43 175–178 (2010) -- [10.3182/20100913-2-fr-4014.00012](https://doi.org/10.3182/20100913-2-fr-4014.00012)
+- Burger, M., Zelazo, D. & Allgower, F. Network clustering: A dynamical systems and saddle-point perspective. IEEE Conference on Decision and Control and European Control Conference 7825–7830 (2011) doi:10.1109/cdc.2011.6161045 -- [10.1109/cdc.2011.6161045](https://doi.org/10.1109/cdc.2011.6161045)
+- Zelazo, D. & Mesbahi, M. Edge Agreement: Graph-Theoretic Performance Bounds and Passivity Analysis. IEEE Transactions on Automatic Control vol. 56 544–555 (2011) -- [10.1109/tac.2010.2056730](https://doi.org/10.1109/tac.2010.2056730)
+- van der Schaft, A. J. & Wei, J. A Hamiltonian perspective on the control of dynamical distribution networks. IFAC Proceedings Volumes vol. 45 24–29 (2012) -- [10.3182/20120829-3-it-4022.00033](https://doi.org/10.3182/20120829-3-it-4022.00033)
+- Bollobas, (1998)
+- van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
+- van der Schaft, (1996)
+- Romero, J. G., Donaire, A. & Ortega, R. Robustifying energy shaping control of mechanical systems. 2012 IEEE 51st IEEE Conference on Decision and Control (CDC) 4424–4429 (2012) doi:10.1109/cdc.2012.6425923 -- [10.1109/cdc.2012.6425923](https://doi.org/10.1109/cdc.2012.6425923)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Blanchini, F., Miani, S. & Ukovich, W. Control of production-distribution systems with unknown inputs and system failures. IEEE Transactions on Automatic Control vol. 45 1072–1081 (2000) -- [10.1109/9.863593](https://doi.org/10.1109/9.863593)
-- Ren, W. On Consensus Algorithms for Double-Integrator Dynamics. IEEE Transactions on Automatic Control vol. 53 1503–1509 (2008) -- [10.1109/TAC.2008.924961](https://doi.org/10.1109/TAC.2008.924961)
-- C.D. Persis, Balancing time-varying demand-supply in distribution networks: an internal model approach, in: ECC 2013 Zurich Proceedings. -- [10.23919/ECC.2013.6669480](https://doi.org/10.23919/ECC.2013.6669480)
+- Ren, W. On Consensus Algorithms for Double-Integrator Dynamics. IEEE Transactions on Automatic Control vol. 53 1503–1509 (2008) -- [10.1109/tac.2008.924961](https://doi.org/10.1109/tac.2008.924961)
+- De Persis, C. Balancing time-varying demand-supply in distribution networks: An internal model approach. 2013 European Control Conference (ECC) 748–753 (2013) doi:10.23919/ecc.2013.6669480 -- [10.23919/ecc.2013.6669480](https://doi.org/10.23919/ecc.2013.6669480)
 

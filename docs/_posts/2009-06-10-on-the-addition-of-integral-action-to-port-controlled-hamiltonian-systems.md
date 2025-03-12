@@ -49,14 +49,21 @@ Nonlinear control; Port-Hamiltonian systems; Integral control; Permanent-magnet 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems.bib)
+ 
 ## References
-- Batlle, C., Doria-Cerezo, A., & Fossas, E. (2006). Robust Hamiltonian passive control for higher relative degree outputs, Technical Report IOC-DT-P-2006-25, Institut d’Organització i Control de Sistemes Industrials, E-Prints UPC, Universitat Politècnica de Catalunya
-- Blankenstein, G. Geometric modeling of nonlinear RLC circuits. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 52 396–404 (2005) -- [10.1109/TCSI.2004.840481](https://doi.org/10.1109/TCSI.2004.840481)
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- Batlle, Simultaneous interconnection and damping assignment passivity based control: Two practical examples. (2007)
+- Blankenstein, G. Geometric modeling of nonlinear RLC circuits. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 52 396–404 (2005) -- [10.1109/tcsi.2004.840481](https://doi.org/10.1109/tcsi.2004.840481)
+- Borutzky, (2004)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory vol. 17 152–174 (2009) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
 - Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- Khalil, (1996)
+- Lanczos, (1960)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - Petrovic, V., Ortega, R. & Stankovi, A. M. Interconnection and damping assignment approach to control of PM synchronous motors. IEEE Transactions on Control Systems Technology vol. 9 811–820 (2001) -- [10.1109/87.960344](https://doi.org/10.1109/87.960344)
-- Xu, J.-X., Panda, S. K., Pan, Y.-J., Lee, T. H. & Lam, B. H. A Modular Control Scheme for PMSM Speed Control With Pulsating Torque Minimization. IEEE Transactions on Industrial Electronics vol. 51 526–536 (2004) -- [10.1109/TIE.2004.825365](https://doi.org/10.1109/TIE.2004.825365)
+- van der Schaft, (2000)
+- van der Schaft, Port-Hamiltonian systems: An introductory survey. (2006)
+- Xu, J.-X., Panda, S. K., Pan, Y.-J., Lee, T. H. & Lam, B. H. A Modular Control Scheme for PMSM Speed Control With Pulsating Torque Minimization. IEEE Transactions on Industrial Electronics vol. 51 526–536 (2004) -- [10.1109/tie.2004.825365](https://doi.org/10.1109/tie.2004.825365)
 

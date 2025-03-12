@@ -51,6 +51,15 @@ Well-posedness; Passive infinite-dimensional systems; Nonlinear feedback; Bounda
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/well-posedness-of-infinite-dimensional-linear-systems-with-nonlinear-feedback.bib)
+ 
 ## References
 - Tucsnak, M. & Weiss, G. Well-posed systems—The LTI case and beyond. Automatica vol. 50 1757–1779 (2014) -- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
+- Staffans, (2005)
+- Tucsnak, (2009)
+- Zwart, Using system theory to prove existence of non-linear PDE’s. (2013)
+- Augner, Well-posedness and stability of linear port-Hamiltonian systems with nonlinear boundary feedback. SIAM J. Control Optim. (2016)
+- Curtain, (1995)
+- Miyadera, (1992)
+- Jacob, (2012)
 

@@ -41,3 +41,5 @@ In diesem Beitrag wird gezeigt, wie man ausgehend von geometrischen Strukturen, 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/differentialgeometrische-beschreibung-und-analyse-tor-basierter-hamilton-scher-systeme.bib)
+ 

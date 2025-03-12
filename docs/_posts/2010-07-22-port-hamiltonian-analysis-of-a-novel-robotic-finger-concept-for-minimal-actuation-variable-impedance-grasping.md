@@ -21,7 +21,7 @@ This paper introduces a novel robotic finger concept for variable impedance gras
 - **Issue:** 
 - **Pages:** 771--776
 - **Publisher:** IEEE
-- **DOI:** [10.1109/ROBOT.2010.5509871](https://doi.org/10.1109/ROBOT.2010.5509871)
+- **DOI:** [10.1109/robot.2010.5509871](https://doi.org/10.1109/robot.2010.5509871)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,26 +38,34 @@ This paper introduces a novel robotic finger concept for variable impedance gras
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-analysis-of-a-novel-robotic-finger-concept-for-minimal-actuation-variable-impedance-grasping.bib)
+ 
 ## References
-- Montana, D. J. The condition for contact grasp stability. Proceedings. 1991 IEEE International Conference on Robotics and Automation 412–417 doi:10.1109/robot.1991.131612 -- [10.1109/ROBOT.1991.131612](https://doi.org/10.1109/ROBOT.1991.131612)
+- Montana, D. J. The condition for contact grasp stability. Proceedings. 1991 IEEE International Conference on Robotics and Automation 412–417 doi:10.1109/robot.1991.131612 -- [10.1109/robot.1991.131612](https://doi.org/10.1109/robot.1991.131612)
 - Cutkosky, M. R. & Kao, I. Computing and controlling compliance of a robotic hand. IEEE Transactions on Robotics and Automation vol. 5 151–165 (1989) -- [10.1109/70.88036](https://doi.org/10.1109/70.88036)
 - Kao, I., Cutkosky, M. R. & Johansson, R. S. Robotic stiffness control and calibration as applied to human grasping tasks. IEEE Transactions on Robotics and Automation vol. 13 557–566 (1997) -- [10.1109/70.611319](https://doi.org/10.1109/70.611319)
-- Salisbury, J. Active stiffness control of a manipulator in cartesian coordinates. 1980 19th IEEE Conference on Decision and Control including the Symposium on Adaptive Processes (1980) doi:10.1109/cdc.1980.272026 -- [10.1109/CDC.1980.272026](https://doi.org/10.1109/CDC.1980.272026)
+- Salisbury, J. Active stiffness control of a manipulator in cartesian coordinates. 1980 19th IEEE Conference on Decision and Control including the Symposium on Adaptive Processes (1980) doi:10.1109/cdc.1980.272026 -- [10.1109/cdc.1980.272026](https://doi.org/10.1109/cdc.1980.272026)
 - Hogan, N. Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control vol. 107 1–7 (1985) -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
-- Wimbock, T., Ott, C. & Hirzinger, G. Analysis and experimental evaluation of the Intrinsically Passive Controller (IPC) for multifingered hands. 2008 IEEE International Conference on Robotics and Automation 278–284 (2008) doi:10.1109/robot.2008.4543221 -- [10.1109/ROBOT.2008.4543221](https://doi.org/10.1109/ROBOT.2008.4543221)
-- Laurin-Kovitz, K. F., Colgate, J. E. & Carnes, S. D. R. Design of components for programmable passive impedance. Proceedings. 1991 IEEE International Conference on Robotics and Automation 1476–1481 doi:10.1109/robot.1991.131824 -- [10.1109/ROBOT.1991.131824](https://doi.org/10.1109/ROBOT.1991.131824)
-- Wimbock, T., Ott, C., Albu-Schaffer, A., Kugi, A. & Hirzinger, G. Impedance control for variable stiffness mechanisms with nonlinear joint coupling. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems 3796–3803 (2008) doi:10.1109/iros.2008.4651079 -- [10.1109/IROS.2008.4651079](https://doi.org/10.1109/IROS.2008.4651079)
-- Wolf, S. & Hirzinger, G. A new variable stiffness design: Matching requirements of the next robot generation. 2008 IEEE International Conference on Robotics and Automation (2008) doi:10.1109/robot.2008.4543452 -- [10.1109/ROBOT.2008.4543452](https://doi.org/10.1109/ROBOT.2008.4543452)
-- Jacobsen, S., Iversen, E., Knutti, D., Johnson, R. & Biggers, K. Design of the Utah/M.I.T. Dextrous Hand. Proceedings. 1986 IEEE International Conference on Robotics and Automation (1986) doi:10.1109/robot.1986.1087395 -- [10.1109/ROBOT.1986.1087395](https://doi.org/10.1109/ROBOT.1986.1087395)
-- Kargov, A. et al. Development of an Anthropomorphic Hand for a Mobile Assistive Robot. 9th International Conference on Rehabilitation Robotics, 2005. ICORR 2005. 182–186 doi:10.1109/icorr.2005.1501080 -- [10.1109/ICORR.2005.1501080](https://doi.org/10.1109/ICORR.2005.1501080)
-- Yamano, I. & Maeno, T. Five-fingered Robot Hand using Ultrasonic Motors and Elastic Elements. Proceedings of the 2005 IEEE International Conference on Robotics and Automation 2673–2678 doi:10.1109/robot.2005.1570517 -- [10.1109/ROBOT.2005.1570517](https://doi.org/10.1109/ROBOT.2005.1570517)
+- stramigioli, A passivity-based control scheme for robotic grasping and manipulation. Proc 38th Conf on Decision & Control (1999)
+- Wimbock, T., Ott, C. & Hirzinger, G. Analysis and experimental evaluation of the Intrinsically Passive Controller (IPC) for multifingered hands. 2008 IEEE International Conference on Robotics and Automation 278–284 (2008) doi:10.1109/robot.2008.4543221 -- [10.1109/robot.2008.4543221](https://doi.org/10.1109/robot.2008.4543221)
+- Laurin-Kovitz, K. F., Colgate, J. E. & Carnes, S. D. R. Design of components for programmable passive impedance. Proceedings. 1991 IEEE International Conference on Robotics and Automation 1476–1481 doi:10.1109/robot.1991.131824 -- [10.1109/robot.1991.131824](https://doi.org/10.1109/robot.1991.131824)
+- Wimbock, T., Ott, C., Albu-Schaffer, A., Kugi, A. & Hirzinger, G. Impedance control for variable stiffness mechanisms with nonlinear joint coupling. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems 3796–3803 (2008) doi:10.1109/iros.2008.4651079 -- [10.1109/iros.2008.4651079](https://doi.org/10.1109/iros.2008.4651079)
+- Wolf, S. & Hirzinger, G. A new variable stiffness design: Matching requirements of the next robot generation. 2008 IEEE International Conference on Robotics and Automation (2008) doi:10.1109/robot.2008.4543452 -- [10.1109/robot.2008.4543452](https://doi.org/10.1109/robot.2008.4543452)
+- mouri, Anthropomorphic robot hand: Gifu hand iii. Proc Int Conf ICCAS (2002)
+- stramigioli, Modeling and IPC Control of Interactive Mechanical Systems, A Coordinate-Free Approach. (2001)
+- Jacobsen, S., Iversen, E., Knutti, D., Johnson, R. & Biggers, K. Design of the Utah/M.I.T. Dextrous Hand. Proceedings. 1986 IEEE International Conference on Robotics and Automation (1986) doi:10.1109/robot.1986.1087395 -- [10.1109/robot.1986.1087395](https://doi.org/10.1109/robot.1986.1087395)
+- Kargov, A. et al. Development of an Anthropomorphic Hand for a Mobile Assistive Robot. 9th International Conference on Rehabilitation Robotics, 2005. ICORR 2005. 182–186 doi:10.1109/icorr.2005.1501080 -- [10.1109/icorr.2005.1501080](https://doi.org/10.1109/icorr.2005.1501080)
+- lotti, Ubh 3: A biologically inspired robotic hand. IEEE Int Conf on Intelligent Manipulation and Grasping (2004)
+- Yamano, I. & Maeno, T. Five-fingered Robot Hand using Ultrasonic Motors and Elastic Elements. Proceedings of the 2005 IEEE International Conference on Robotics and Automation 2673–2678 doi:10.1109/robot.2005.1570517 -- [10.1109/robot.2005.1570517](https://doi.org/10.1109/robot.2005.1570517)
+- butterfaß, Dlr-hand ii: Next generation of a dextrous robot hand. IEEE Int Conf Robot Autom (2001)
 - Salisbury, J. K. & Craig, J. J. Articulated Hands. The International Journal of Robotics Research vol. 1 4–17 (1982) -- [10.1177/027836498200100102](https://doi.org/10.1177/027836498200100102)
+- duindam, Modeling and Control of Complex Physical Systems - The Port-Hamiltonian Approach. (2009)
 - Bicchi, A. Hands for dexterous manipulation and robust grasping: a difficult road toward simplicity. IEEE Transactions on Robotics and Automation vol. 16 652–662 (2000) -- [10.1109/70.897777](https://doi.org/10.1109/70.897777)
-- Grebenstein, M. & van der Smagt, P. Antagonism for a Highly Anthropomorphic Hand–Arm System. Advanced Robotics vol. 22 39–55 (2008) -- [10.1163/156855308X291836](https://doi.org/10.1163/156855308X291836)
-- Rothling, F., Haschke, R., Steil, J. J. & Ritter, H. Platform portable anthropomorphic grasping with the bielefeld 20-DOF shadow and 9-DOF TUM hand. 2007 IEEE/RSJ International Conference on Intelligent Robots and Systems 2951–2956 (2007) doi:10.1109/iros.2007.4398963 -- [10.1109/IROS.2007.4398963](https://doi.org/10.1109/IROS.2007.4398963)
+- Grebenstein, M. & van der Smagt, P. Antagonism for a Highly Anthropomorphic Hand–Arm System. Advanced Robotics vol. 22 39–55 (2008) -- [10.1163/156855308x291836](https://doi.org/10.1163/156855308x291836)
+- Rothling, F., Haschke, R., Steil, J. J. & Ritter, H. Platform portable anthropomorphic grasping with the bielefeld 20-DOF shadow and 9-DOF TUM hand. 2007 IEEE/RSJ International Conference on Intelligent Robots and Systems 2951–2956 (2007) doi:10.1109/iros.2007.4398963 -- [10.1109/iros.2007.4398963](https://doi.org/10.1109/iros.2007.4398963)
 - Price, A. D., Jnifene, A. & Naguib, H. E. Design and control of a shape memory alloy based dexterous robot hand. Smart Materials and Structures vol. 16 1401–1414 (2007) -- [10.1088/0964-1726/16/4/055](https://doi.org/10.1088/0964-1726/16/4/055)
-- Hirose, S. & Umetani, Y. The development of soft gripper for the versatile robot hand. Mechanism and Machine Theory vol. 13 351–359 (1978) -- [10.1016/0094-114X(78)90059-9](https://doi.org/10.1016/0094-114X(78)90059-9)
-- Koganezawa, K. & Ishizuka, Y. Novel mechanism of artificial finger using double planetary gear system. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems 3184–3191 (2008) doi:10.1109/iros.2008.4650589 -- [10.1109/IROS.2008.4650589](https://doi.org/10.1109/IROS.2008.4650589)
-- Pavlovic, N., Keimer, R. & Franke, H.-J. Adaptronic Revolute Joints for Parallel Robots Based on Simultaneous Quasi-Statical Axial and Radial Clearance Adjustment. Volume 2: 32nd Mechanisms and Robotics Conference, Parts A and B 797–804 (2008) doi:10.1115/detc2008-49263 -- [10.1115/DETC2008-49263](https://doi.org/10.1115/DETC2008-49263)
-- Massa, B., Roccella, S., Carrozza, M. C. & Dario, P. Design and development of an underactuated prosthetic hand. Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292) vol. 4 3374–3379 -- [10.1109/ROBOT.2002.1014232](https://doi.org/10.1109/ROBOT.2002.1014232)
+- Hirose, S. & Umetani, Y. The development of soft gripper for the versatile robot hand. Mechanism and Machine Theory vol. 13 351–359 (1978) -- [10.1016/0094-114x(78)90059-9](https://doi.org/10.1016/0094-114x(78)90059-9)
+- Koganezawa, K. & Ishizuka, Y. Novel mechanism of artificial finger using double planetary gear system. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems 3184–3191 (2008) doi:10.1109/iros.2008.4650589 -- [10.1109/iros.2008.4650589](https://doi.org/10.1109/iros.2008.4650589)
+- Pavlovic, N., Keimer, R. & Franke, H.-J. Adaptronic Revolute Joints for Parallel Robots Based on Simultaneous Quasi-Statical Axial and Radial Clearance Adjustment. Volume 2: 32nd Mechanisms and Robotics Conference, Parts A and B 797–804 (2008) doi:10.1115/detc2008-49263 -- [10.1115/detc2008-49263](https://doi.org/10.1115/detc2008-49263)
+- Massa, B., Roccella, S., Carrozza, M. C. & Dario, P. Design and development of an underactuated prosthetic hand. Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292) vol. 4 3374–3379 -- [10.1109/robot.2002.1014232](https://doi.org/10.1109/robot.2002.1014232)
 

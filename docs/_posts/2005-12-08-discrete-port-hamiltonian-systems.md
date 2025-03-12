@@ -47,17 +47,19 @@ Discrete mechanics; Port Hamiltonian systems
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/discrete-port-hamiltonian-systems.bib)
+ 
 ## References
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - [Zhong, G. & Marsden, J. E. Lie-Poisson Hamilton-Jacobi theory and Lie-Poisson integrators. Physics Letters A vol. 133 134–139 (1988)](lie-poisson-hamilton-jacobi-theory-and-lie-poisson-integrators) -- [10.1016/0375-9601(88)90773-6](https://doi.org/10.1016/0375-9601(88)90773-6)
-- R. Hiptmair, Discrete hodge-operators: an algebraic perspective, in: F.L. Teixeira (Ed.), Geometric Methods for Computational Electromagnetics, EMW Publishing, 2001. -- [10.2528/PIER00080110](https://doi.org/10.2528/PIER00080110)
-- A. Hirani, Discrete exterior calculus. Ph.D. Thesis, California Institute of Technology, 2003.
-- J. Marsden, M. West, Discrete mechanics and variational integrators, Acta Numerica (2001) 357–514. -- [10.1017/S096249290100006X](https://doi.org/10.1017/S096249290100006X)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/S0016-0032(92)90049-M](https://doi.org/10.1016/S0016-0032(92)90049-M)
-- Nesic, D. & Teel, A. R. A Framework for Stabilization of Nonlinear Sampled-Data Systems Based on Their Approximate Discrete-Time Models. IEEE Transactions on Automatic Control vol. 49 1103–1122 (2004) -- [10.1109/TAC.2004.831175](https://doi.org/10.1109/TAC.2004.831175)
+- Hiptmair, R. Discrete Hodge-Operators: An Algebraic Perspective. Progress In Electromagnetics Research vol. 32 247–269 (2001) -- [10.2528/pier00080110](https://doi.org/10.2528/pier00080110)
+- Marsden, J. E. & West, M. Discrete mechanics and variational integrators. Acta Numerica vol. 10 357–514 (2001) -- [10.1017/s096249290100006x](https://doi.org/10.1017/s096249290100006x)
+- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- Nesic, D. & Teel, A. R. A Framework for Stabilization of Nonlinear Sampled-Data Systems Based on Their Approximate Discrete-Time Models. IEEE Transactions on Automatic Control vol. 49 1103–1122 (2004) -- [10.1109/tac.2004.831175](https://doi.org/10.1109/tac.2004.831175)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Sanz-Serna, (1994)
 - Talasila, V., Clemente-Gallardo, J. & Schaft, A. J. van der. Geometry and Hamiltonian mechanics on discrete spaces. Journal of Physics A: Mathematical and General vol. 37 9705–9734 (2004) -- [10.1088/0305-4470/37/41/008](https://doi.org/10.1088/0305-4470/37/41/008)
-- V. Talasila, J. Clemente-Gallardo, A.J. van der Schaft, Hamiltonian mechanics on discrete manifolds, Proceedings of the Sixteenth International Symposium on Mathematical Theory of Networks and Systems, Katholieke Universiteit Leuven, Belgium.
-- V. Talasila, J. Clemente-Gallardo, A.J. van der Schaft, Discrete port Hamiltonian systems, Proceedings of I.F.A.C., Prague 2005. -- [10.3182/20050703-6-CZ-1902.00737](https://doi.org/10.3182/20050703-6-CZ-1902.00737)
-- A.J. van der Schaft, Cervera, Interconnection of port-Hamiltonian systems and composition of Dirac structures, submitted for publication.
+- Talasila, V., Clemente-Gallardo, J. & van der Schaft, A. J. DISCRETE PORT HAMILTONIAN SYSTEMS. IFAC Proceedings Volumes vol. 38 495–500 (2005) -- [10.3182/20050703-6-cz-1902.00737](https://doi.org/10.3182/20050703-6-cz-1902.00737)
+- van der Schaft, Interconnection and geometry. (1999)
+- van der Schaft, (2000)
 

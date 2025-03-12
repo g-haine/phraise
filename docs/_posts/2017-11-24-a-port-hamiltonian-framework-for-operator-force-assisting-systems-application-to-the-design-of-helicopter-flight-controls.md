@@ -49,13 +49,17 @@ Port-Hamiltonian; Helicopter; Flight-axis control; Assisting system; Passivity
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-port-hamiltonian-framework-for-operator-force-assisting-systems-application-to-the-design-of-helicopter-flight-controls.bib)
+ 
 ## References
+- Bao, (2007)
 - Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Transactions on Automatic Control vol. 36 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
+- Chikhaoui, Complementary use of BG and EMR formalisms for multiphysics systems analysis and control. (2012)
 - Crasta, N., Ortega, R. & Pillai, H. K. On the matching equations of energy shaping controllers for mechanical systems. International Journal of Control vol. 88 1757–1765 (2015) -- [10.1080/00207179.2015.1016453](https://doi.org/10.1080/00207179.2015.1016453)
-- Dauphin-Tanguy, G., Rahmani, A. & Sueur, C. Bond graph aided design of controlled systems. Simulation Practice and Theory vol. 7 493–513 (1999) -- [10.1016/S0928-4869(99)00009-9](https://doi.org/10.1016/S0928-4869(99)00009-9)
+- Dauphin-Tanguy, G., Rahmani, A. & Sueur, C. Bond graph aided design of controlled systems. Simulation Practice and Theory vol. 7 493–513 (1999) -- [10.1016/s0928-4869(99)00009-9](https://doi.org/10.1016/s0928-4869(99)00009-9)
 - De Santis, A., Siciliano, B., De Luca, A. & Bicchi, A. An atlas of physical human–robot interaction. Mechanism and Machine Theory vol. 43 253–270 (2008) -- [10.1016/j.mechmachtheory.2007.03.003](https://doi.org/10.1016/j.mechmachtheory.2007.03.003)
 - [Donaire, A. & Perez, T. Dynamic positioning of marine craft using a port-Hamiltonian framework. Automatica vol. 48 851–856 (2012)](dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework) -- [10.1016/j.automatica.2012.02.022](https://doi.org/10.1016/j.automatica.2012.02.022)
-- Ferraguti, F. et al. An Energy Tank-Based Interactive Control Architecture for Autonomous and Teleoperated Robotic Surgery. IEEE Transactions on Robotics vol. 31 1073–1088 (2015) -- [10.1109/TRO.2015.2455791](https://doi.org/10.1109/TRO.2015.2455791)
+- Ferraguti, F. et al. An Energy Tank-Based Interactive Control Architecture for Autonomous and Teleoperated Robotic Surgery. IEEE Transactions on Robotics vol. 31 1073–1088 (2015) -- [10.1109/tro.2015.2455791](https://doi.org/10.1109/tro.2015.2455791)
 - Friedman, C. & Rand, O. Robust trim procedure for rotorcraft configurations. Aerospace Science and Technology vol. 45 442–448 (2015) -- [10.1016/j.ast.2015.06.007](https://doi.org/10.1016/j.ast.2015.06.007)
 - Hannaford, B. A design framework for teleoperators with kinesthetic feedback. IEEE Transactions on Robotics and Automation vol. 5 426–434 (1989) -- [10.1109/70.88057](https://doi.org/10.1109/70.88057)
 - Hogan, N. Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control vol. 107 1–7 (1985) -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
@@ -66,12 +70,15 @@ Port-Hamiltonian; Helicopter; Flight-axis control; Assisting system; Passivity
 - Lacevic, B. & Rocco, P. Closed-Form Solution to Controller Design for Human-Robot Interaction. Journal of Dynamic Systems, Measurement, and Control vol. 133 (2011) -- [10.1115/1.4003260](https://doi.org/10.1115/1.4003260)
 - Lee, S., Ha, C. & Kim, B. S. Adaptive nonlinear control system design for helicopter robust command augmentation. Aerospace Science and Technology vol. 9 241–251 (2005) -- [10.1016/j.ast.2004.12.007](https://doi.org/10.1016/j.ast.2004.12.007)
 - Li, P. Y. & Ngwompo, R. F. Power Scaling Bond Graph Approach to the Passification of Mechatronic Systems— with Application to Electrohydraulic Valves. Journal of Dynamic Systems, Measurement, and Control vol. 127 633–641 (2005) -- [10.1115/1.2101848](https://doi.org/10.1115/1.2101848)
-- McKillip, R. M. & Perri, T. A. Helicopter Flight Control System Design and Evaluation Using Controller Inversion Techniques. Journal of the American Helicopter Society vol. 37 66–74 (1992) -- [10.4050/JAHS.37.66](https://doi.org/10.4050/JAHS.37.66)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- McKillip, R. M. & Perri, T. A. Helicopter Flight Control System Design and Evaluation Using Controller Inversion Techniques. Journal of the American Helicopter Society vol. 37 66–74 (1992) -- [10.4050/jahs.37.66](https://doi.org/10.4050/jahs.37.66)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Raletz, (2010)
 - Richter, H. A Framework for Control of Robots With Energy Regeneration. Journal of Dynamic Systems, Measurement, and Control vol. 137 (2015) -- [10.1115/1.4030391](https://doi.org/10.1115/1.4030391)
-- [Secchi, C., Stramigioli, S. & Fantuzzi, C. Transparency in Port-Hamiltonian-Based Telemanipulation. IEEE Transactions on Robotics vol. 24 903–910 (2008)](transparency-in-port-hamiltonian-based-telemanipulation) -- [10.1109/TRO.2008.924941](https://doi.org/10.1109/TRO.2008.924941)
+- Secchi, (2007)
+- [Secchi, C., Stramigioli, S. & Fantuzzi, C. Transparency in Port-Hamiltonian-Based Telemanipulation. IEEE Transactions on Robotics vol. 24 903–910 (2008)](transparency-in-port-hamiltonian-based-telemanipulation) -- [10.1109/tro.2008.924941](https://doi.org/10.1109/tro.2008.924941)
 - Simplício, P., Pavel, M. D., van Kampen, E. & Chu, Q. P. An acceleration measurements-based approach for helicopter nonlinear flight control using Incremental Nonlinear Dynamic Inversion. Control Engineering Practice vol. 21 1065–1077 (2013) -- [10.1016/j.conengprac.2013.03.009](https://doi.org/10.1016/j.conengprac.2013.03.009)
 - Tod, G., Pavel, M. D., Malburet, F., Gomand, J. & Barre, P.-J. Understanding pilot biodynamical feedthrough coupling in helicopter adverse roll axis instability via lateral cyclic feedback control. Aerospace Science and Technology vol. 59 18–31 (2016) -- [10.1016/j.ast.2016.10.003](https://doi.org/10.1016/j.ast.2016.10.003)
+- Torenbeek, Helicopter flight mechanics. (2009)
 - Wang, H. & Xie, Y. Task-Space Framework for Bilateral Teleoperation With Time Delays. Journal of Dynamic Systems, Measurement, and Control vol. 134 (2012) -- [10.1115/1.4006215](https://doi.org/10.1115/1.4006215)
 - Worsnopp, T., Peshkin, M., Lynch, K. & Colgate, J. E. Controlling the Apparent Inertia of Passive Human-Interactive Robots. Journal of Dynamic Systems, Measurement, and Control vol. 128 44–52 (2005) -- [10.1115/1.2168165](https://doi.org/10.1115/1.2168165)
 - Zhu, D., Zhou, D., Zhou, J. & Teo, K. L. Synchronization Control for a Class of Underactuated Mechanical Systems via Energy Shaping. Journal of Dynamic Systems, Measurement, and Control vol. 134 (2012) -- [10.1115/1.4006073](https://doi.org/10.1115/1.4006073)

@@ -31,7 +31,7 @@ Port-Hamiltonian systems; bond graphs; dependent storages; state-space models; m
 - **Pages:** 5579--5585
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1570](https://doi.org/10.1016/j.ifacol.2020.12.1570)
-- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,17 +51,20 @@ Port-Hamiltonian systems; bond graphs; dependent storages; state-space models; m
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/explicit-port-hamiltonian-formulation-of-bond-graphs-with-dependent-storages.bib)
+ 
 ## References
-- Breedveld, P.C. (2018). Bond-graph-based symbolic conversion of a DAE model of a planar multibody system into an ODE model. In 13th International Conference on Bond Graph Modeling (ICBGM). Society for Modeling & Simulation International (SCS), Bordeaux, France.
-- Deuflhard, P. and Hohmann, A. (1995). Numerical analysis. -- [10.1515/9783110891997](https://doi.org/10.1515/9783110891997)
+- Borutzky, (2010)
+- Deuflhard, P. & Hohmann, A. Numerical Analysis. (1995) doi:10.1515/9783110891997 -- [10.1515/9783110891997](https://doi.org/10.1515/9783110891997)
 - [Donaire, A. & Junco, S. Derivation of Input-State-Output Port-Hamiltonian Systems from bond graphs. Simulation Modelling Practice and Theory vol. 17 137–151 (2009)](derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs) -- [10.1016/j.simpat.2008.02.007](https://doi.org/10.1016/j.simpat.2008.02.007)
 - [Dörfler, F., Johnsen, J. K. & Allgöwer, F. An introduction to interconnection and damping assignment passivity-based control in process engineering. Journal of Process Control vol. 19 1413–1426 (2009)](an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering) -- [10.1016/j.jprocont.2009.07.015](https://doi.org/10.1016/j.jprocont.2009.07.015)
-- Falaize, A. and Hélie, T. (2019). PyPHS. https://github.com/pyphs/pyphs. Accessed: 2019-07-03.
-- Lopes, N. (2016). Approche passive pour la modélisation, la simulation et l’étude d’un banc de test robotisé pour les instruments de type cuivre. Ph.D. thesis, Université Pierre et Marie Curie, Paris.
-- Lu, T.-T. & Shiou, S.-H. Inverses of 2 × 2 block matrices. Computers &amp; Mathematics with Applications vol. 43 119–129 (2002) -- [10.1016/S0898-1221(01)00278-4](https://doi.org/10.1016/S0898-1221(01)00278-4)
-- Najnudel, J., Hélie, T., Boutin, H., Roze, D., Maniguet, T., and Vaiedelich, S. (2018). Analog circuits and port-Hamiltonian realizability issues: a resolution method for simulations via equivalent vomponents. In 145th Audio Engineering Society Convention. New York.
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/TAC.2008.2006930](https://doi.org/10.1109/TAC.2008.2006930)
-- Pfeifer, M., Caspart, S., Pfeiffer, S., Muller, C., Krebs, S., and Hohmann, S. (2019). Automated generation of explicit port-hamiltonian models from multi-bond graphs. arXiv preprint arXiv:1909.02848.
+- (2009)
+- Golo, Hamiltonian formulation of bond graphs. (2003)
+- Karnopp, (2012)
+- Lu, T.-T. & Shiou, S.-H. Inverses of 2 × 2 block matrices. Computers &amp; Mathematics with Applications vol. 43 119–129 (2002) -- [10.1016/s0898-1221(01)00278-4](https://doi.org/10.1016/s0898-1221(01)00278-4)
+- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
+- van der Schaft, (2016)
 - [Venkatraman, A. & van der Schaft, A. J. Full-order observer design for a class of port-Hamiltonian systems. Automatica vol. 46 555–561 (2010)](full-order-observer-design-for-a-class-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2010.01.019](https://doi.org/10.1016/j.automatica.2010.01.019)
 - [Vincent, B., Hudon, N., Lefèvre, L. & Dochain, D. Port-Hamiltonian observer design for plasma profile estimation in tokamaks. IFAC-PapersOnLine vol. 49 93–98 (2016)](port-hamiltonian-observer-design-for-plasma-profile-estimation-in-tokamaks) -- [10.1016/j.ifacol.2016.10.761](https://doi.org/10.1016/j.ifacol.2016.10.761)
+- Wellstead, (1979)
 

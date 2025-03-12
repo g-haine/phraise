@@ -31,7 +31,7 @@ Optimal power flow; port-Hamiltonian systems; gradient method; DC networks; cycl
 - **Pages:** 25--30
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2017.08.005](https://doi.org/10.1016/j.ifacol.2017.08.005)
-- **Event:** 20th IFAC World Congress
+- **Note:** 20th IFAC World Congress
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,15 +51,19 @@ Optimal power flow; port-Hamiltonian systems; gradient method; DC networks; cycl
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/optimal-power-flow-for-resistive-dc-networks-a-port-hamiltonian-approach.bib)
+ 
 ## References
-- Benedito, E., del Puerto-Flores, D., D‘oria-Cerezo, A., van der Feltz, O., and J.M.A. Scherpen (2016). Strictly convex loss functions for port-hamiltonian based optimization algorithm for MTDC networks. In Proc. 55th Conference on Decision and Control. -- [10.1109/CDC.2016.7799425](https://doi.org/10.1109/CDC.2016.7799425)
-- Cherukuri, A. and Cortés, J. (2015). Asymptotic stability of saddle points under the saddle-point dynamics. In Proc. American Control Conference 2015. -- [10.1109/ACC.2015.7171030](https://doi.org/10.1109/ACC.2015.7171030)
+- Arrow, (1958)
+- Benedito, E., del Puerto-Flores, D., Doria-Cerezo, A., van der Feltz, O. & Scherpen, J. M. A. Strictly convex loss functions for port-Hamiltonian based optimization algorithm for MTDC networks. 2016 IEEE 55th Conference on Decision and Control (CDC) 7483–7488 (2016) doi:10.1109/cdc.2016.7799425 -- [10.1109/cdc.2016.7799425](https://doi.org/10.1109/cdc.2016.7799425)
+- Biggs, (1974)
+- Cherukuri, A. & Cortés, J. Asymptotic stability of saddle points under the saddle-point dynamics. 2015 American Control Conference (ACC) 2020–2025 (2015) doi:10.1109/acc.2015.7171030 -- [10.1109/acc.2015.7171030](https://doi.org/10.1109/acc.2015.7171030)
 - Feijer, D. & Paganini, F. Stability of primal–dual gradient dynamics and applications to network optimization. Automatica vol. 46 1974–1981 (2010) -- [10.1016/j.automatica.2010.08.011](https://doi.org/10.1016/j.automatica.2010.08.011)
-- Gavriluta, C., Candela, I., Luna, A., Gomez-Exposito, A. & Rodriguez, P. Hierarchical Control of HV-MTDC Systems With Droop-Based Primary and OPF-Based Secondary. IEEE Transactions on Smart Grid vol. 6 1502–1510 (2015) -- [10.1109/TSG.2014.2365854](https://doi.org/10.1109/TSG.2014.2365854)
-- Shivakumar, A., Normark, B., and Welsch, M. (2015). Household DC networks: State of the art and future prospects. InsightE, Rapid Response Energy Brief.
-- Stegink, T., de Persis, C., and van der Schaft, A. (In press). A unifying energy-based approach to stability of power grids with market dynamics. IEEE Trans. on Automatic Control.
-- [T.W. Stegink, de Persis, C., and A.J. van der Schaft (2015). Port-Hamiltonian formulation of the gradient method applied to smart grids. In Proc. 5th IFAC Workshop in Lagrangian and Hamiltonian Methods for Non Linear Control.](port-hamiltonian-formulation-of-the-gradient-method-applied-to-smart-grids) -- [10.1016/j.ifacol.2015.10.207](https://doi.org/10.1016/j.ifacol.2015.10.207)
+- Gavriluta, C., Candela, I., Luna, A., Gomez-Exposito, A. & Rodriguez, P. Hierarchical Control of HV-MTDC Systems With Droop-Based Primary and OPF-Based Secondary. IEEE Transactions on Smart Grid vol. 6 1502–1510 (2015) -- [10.1109/tsg.2014.2365854](https://doi.org/10.1109/tsg.2014.2365854)
+- Rosen, A new network theorem. Journal IEE (1924)
+- [Stegink, T. W., Persis, C. D. & van der Schaft, A. J. Port-Hamiltonian Formulation of the Gradient Method Applied to Smart Grids. IFAC-PapersOnLine vol. 48 13–18 (2015)](port-hamiltonian-formulation-of-the-gradient-method-applied-to-smart-grids) -- [10.1016/j.ifacol.2015.10.207](https://doi.org/10.1016/j.ifacol.2015.10.207)
 - van der Schaft, A. Characterization and partial synthesis of the behavior of resistive circuits at their terminals. Systems &amp; Control Letters vol. 59 423–428 (2010) -- [10.1016/j.sysconle.2010.05.005](https://doi.org/10.1016/j.sysconle.2010.05.005)
 - Van Hertem, D. & Ghandhari, M. Multi-terminal VSC HVDC for the European supergrid: Obstacles. Renewable and Sustainable Energy Reviews vol. 14 3156–3163 (2010) -- [10.1016/j.rser.2010.07.068](https://doi.org/10.1016/j.rser.2010.07.068)
-- Chung Wang & Tokad, Y. Polygon to Star Transformations. IRE Transactions on Circuit Theory vol. 8 489–491 (1961) -- [10.1109/TCT.1961.1086831](https://doi.org/10.1109/TCT.1961.1086831)
+- Chung Wang & Tokad, Y. Polygon to Star Transformations. IRE Transactions on Circuit Theory vol. 8 489–491 (1961) -- [10.1109/tct.1961.1086831](https://doi.org/10.1109/tct.1961.1086831)
+- Zhang, A real-time control framework for smart power networks: Design methodology and stability. Automatica (2015)
 

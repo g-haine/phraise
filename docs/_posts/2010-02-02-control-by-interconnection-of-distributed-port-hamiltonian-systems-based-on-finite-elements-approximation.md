@@ -21,7 +21,7 @@ The main contribution of this paper is a procedure for the control by energy sha
 - **Issue:** 
 - **Pages:** 5133--5138
 - **Publisher:** IEEE
-- **DOI:** [10.1109/CDC.2009.5400872](https://doi.org/10.1109/CDC.2009.5400872)
+- **DOI:** [10.1109/cdc.2009.5400872](https://doi.org/10.1109/cdc.2009.5400872)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,17 +38,23 @@ The main contribution of this paper is a procedure for the control by energy sha
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/control-by-interconnection-of-distributed-port-hamiltonian-systems-based-on-finite-elements-approximation.bib)
+ 
 ## References
+- ortega, Energy-shaping of port-controlled Hamiltonian systems by intercon-nection. Decision and Control (CDC 1988) Proceedings of the 27th IEEE Conference on (1988)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- macchelli, Distributed port-Hamiltonian formulation of infinite dimensional systems. Mathematical Theory of Networks and Systems (MTNS 2004) Proceedings of the 16th International Symposium on (2004)
 - Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- golo, A Hamiltonian formulation of the Timoshenko beam model. 8th Mechatronics Forum (2002)
 - [Pasumarthy, R. & van der Schaft, A. J. Achievable Casimirs and its implications on control of port-Hamiltonian systems. International Journal of Control vol. 80 1421–1438 (2007)](achievable-casimirs-and-its-implications-on-control-of-port-hamiltonian-systems) -- [10.1080/00207170701361273](https://doi.org/10.1080/00207170701361273)
-- Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136 -- [10.1109/CDC.2001.980086](https://doi.org/10.1109/CDC.2001.980086)
-- [Macchelli, A. & Melchiorri, C. Control by interconnection of mixed port Hamiltonian systems. IEEE Transactions on Automatic Control vol. 50 1839–1844 (2005)](control-by-interconnection-of-mixed-port-hamiltonian-systems) -- [10.1109/TAC.2005.858656](https://doi.org/10.1109/TAC.2005.858656)
+- Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136 -- [10.1109/cdc.2001.980086](https://doi.org/10.1109/cdc.2001.980086)
+- [Macchelli, A. & Melchiorri, C. Control by interconnection of mixed port Hamiltonian systems. IEEE Transactions on Automatic Control vol. 50 1839–1844 (2005)](control-by-interconnection-of-mixed-port-hamiltonian-systems) -- [10.1109/tac.2005.858656](https://doi.org/10.1109/tac.2005.858656)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
+- swaters, Introduction to Hamiltonian Fluid Dynamics and Stability Theory (2000)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - [Bassi, L., Macchelli, A. & Melchiorri, C. An Algorithm to Discretize One-Dimensional Distributed Port Hamiltonian Systems. Lecture Notes in Control and Information Sciences 61–73 doi:10.1007/978-3-540-73890-9_4](an-algorithm-to-discretize-one-dimensional-distributed-port-hamiltonian-systems) -- [10.1007/978-3-540-73890-9_4](https://doi.org/10.1007/978-3-540-73890-9_4)
-- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/S0363012903429530](https://doi.org/10.1137/S0363012903429530)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 

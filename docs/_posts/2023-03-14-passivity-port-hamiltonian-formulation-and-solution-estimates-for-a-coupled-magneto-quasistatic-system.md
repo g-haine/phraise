@@ -41,3 +41,5 @@ We study a~quasilinear coupled magneto-quasistatic model from a~systems theoreti
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/passivity-port-hamiltonian-formulation-and-solution-estimates-for-a-coupled-magneto-quasistatic-system.bib)
+ 

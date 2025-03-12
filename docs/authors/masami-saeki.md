@@ -5,6 +5,7 @@ permalink: /authors/masami-saeki
 ---
 
 <ul class="post-list">
+<li><span class='post-meta'>2017 -- Satoshi Satoh, Ryusuke Ebimoto, Masami Saeki</span><h3><a class='post-link' href="{{ site.baseurl }}/a-force-regulation-guaranteeing-input-to-state-stability-for-a-robot-manipulator-in-a-potential-field">A force regulation guaranteeing input‐to‐state stability for a robot manipulator in a potential field</a></h3></li>
 <li><span class='post-meta'>2014 -- Satoshi Satoh, Masami Saeki</span><h3><a class='post-link' href="{{ site.baseurl }}/bounded-stabilisation-of-stochastic-port-hamiltonian-systems">Bounded stabilisation of stochastic port-Hamiltonian systems</a></h3></li>
 
 </ul>

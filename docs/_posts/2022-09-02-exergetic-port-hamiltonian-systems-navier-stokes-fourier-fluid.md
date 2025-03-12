@@ -34,7 +34,7 @@ port-Hamiltonian systems; geometric fluid mechanics; thermodynamics; exergy; com
 - **Pages:** 74--80
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2022.08.033](https://doi.org/10.1016/j.ifacol.2022.08.033)
-- **Event:** 4th IFAC Workshop on Thermodynamics Foundations of Mathematical Systems Theory TFMST 2022- Montreal, Canada, 25–27 July 2022
+- **Note:** 4th IFAC Workshop on Thermodynamics Foundations of Mathematical Systems Theory TFMST 2022- Montreal, Canada, 25–27 July 2022
  
 ## BibTeX
 {% highlight bibtex %}
@@ -54,14 +54,21 @@ port-Hamiltonian systems; geometric fluid mechanics; thermodynamics; exergy; com
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/exergetic-port-hamiltonian-systems-navier-stokes-fourier-fluid.bib)
+ 
 ## References
+- Abraham, (1978)
+- Badlyan, Open physical systems: from GENERIC to port-Hamiltonian systems. (2018)
 - [Califano, F., Rashad, R., Schuller, F. P. & Stramigioli, S. Geometric and energy-aware decomposition of the Navier–Stokes equations: A port-Hamiltonian approach. Physics of Fluids vol. 33 (2021)](geometric-and-energy-aware-decomposition-of-the-navier-stokes-equations-a-port-hamiltonian-approach) -- [10.1063/5.0048359](https://doi.org/10.1063/5.0048359)
-- Grmela, M. & Öttinger, H. C. Dynamics and thermodynamics of complex fluids.  I. Development of a general formalism. Physical Review E vol. 56 6620–6632 (1997) -- [10.1103/PhysRevE.56.6620](https://doi.org/10.1103/PhysRevE.56.6620)
+- Grmela, M. & Öttinger, H. C. Dynamics and thermodynamics of complex fluids.  I. Development of a general formalism. Physical Review E vol. 56 6620–6632 (1997) -- [10.1103/physreve.56.6620](https://doi.org/10.1103/physreve.56.6620)
+- Hirani, (2003)
 - Kanso, E. et al. On the geometric character of stress in continuum mechanics. Zeitschrift für angewandte Mathematik und Physik vol. 58 843–856 (2007) -- [10.1007/s00033-007-6141-8](https://doi.org/10.1007/s00033-007-6141-8)
 - [Lohmayer, M., Kotyczka, P. & Leyendecker, S. Exergetic port-Hamiltonian systems: modelling basics. Mathematical and Computer Modelling of Dynamical Systems vol. 27 489–521 (2021)](exergetic-port-hamiltonian-systems-modelling-basics) -- [10.1080/13873954.2021.1979592](https://doi.org/10.1080/13873954.2021.1979592)
-- Lohmayer, M. and Leyendecker, S. (2022). EPHS: A Port-Hamiltonian Modelling Language. doi: 10.48550/ARXIV.2202.00377.
 - Marsden, J. E., Ratiu, T. & Weinstein, A. Reduction and Hamiltonian structures on duals of semidirect product Lie algebras. Contemporary Mathematics 55–100 (1984) doi:10.1090/conm/028/751975 -- [10.1090/conm/028/751975](https://doi.org/10.1090/conm/028/751975)
-- Marsden, J. E., Raţiu, T. & Weinstein, A. Semidirect products and reduction in mechanics. Transactions of the American Mathematical Society vol. 281 147–177 (1984) -- [10.1090/S0002-9947-1984-0719663-1](https://doi.org/10.1090/S0002-9947-1984-0719663-1)
+- Marsden, J. E., Raţiu, T. & Weinstein, A. Semidirect products and reduction in mechanics. Transactions of the American Mathematical Society vol. 281 147–177 (1984) -- [10.1090/s0002-9947-1984-0719663-1](https://doi.org/10.1090/s0002-9947-1984-0719663-1)
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR. Chemical Engineering Science vol. 89 223–234 (2013)](irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr) -- [10.1016/j.ces.2012.12.002](https://doi.org/10.1016/j.ces.2012.12.002)
+- Rashad, Port-Hamiltonian modeling of ideal fluid flow: Part I. Foundations and kinetic energy. Journal of Geometry and Physics (2021)
+- Rashad, Port-Hamiltonian modeling of ideal fluid flow: Part II. Compressible and incompressible flow. Journal of Geometry and Physics (2021)
+- van der Schaft, Fluid dynamical systems as Hamiltonian boundary control systems. (2001)
 - [Van der Schaft, A. & Maschke, B. Geometry of Thermodynamic Processes. Entropy vol. 20 925 (2018)](geometry-of-thermodynamic-processes) -- [10.3390/e20120925](https://doi.org/10.3390/e20120925)
 

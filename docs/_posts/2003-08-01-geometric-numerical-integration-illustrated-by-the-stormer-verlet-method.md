@@ -12,7 +12,7 @@ category: articles
 [Ernst Hairer](authors/ernst-hairer), [Christian Lubich](authors/christian-lubich), [Gerhard Wanner](authors/gerhard-wanner)
  
 ## Abstract
-The subject of geometric numerical integration deals with numerical integrators that preserve geometric properties of the flow of a differential equation, and it explains how structure preservation leads to improved long-time behaviour. This article illustrates concepts and results of geometric numerical integration on the important example of the Störmer–Verlet method. It thus presents a cross-section of the recent monograph by the authors, enriched by some additional material.\n After an introduction to the Newton–Störmer–Verlet–leapfrog method and its various interpretations, there follows a discussion of geometric properties: reversibility, symplecticity, volume preservation, and conservation of first integrals. The extension to Hamiltonian systems on manifolds is also described. The theoretical foundation relies on a backward error analysis, which translates the geometric properties of the method into the structure of a modified differential equation, whose flow is nearly identical to the numerical method. Combined with results from perturbation theory, this explains the excellent long-time behaviour of the method: long-time energy conservation, linear error growth and preservation of invariant tori in near-integrable systems, a discrete virial theorem, and preservation of adiabatic invariants.
+The subject of geometric numerical integration deals with numerical integrators that preserve geometric properties of the flow of a differential equation, and it explains how structure preservation leads to improved long-time behaviour. This article illustrates concepts and results of geometric numerical integration on the important example of the Störmer–Verlet method. It thus presents a cross-section of the recent monograph by the authors, enriched by some additional material.After an introduction to the Newton–Störmer–Verlet–leapfrog method and its various interpretations, there follows a discussion of geometric properties: reversibility, symplecticity, volume preservation, and conservation of first integrals. The extension to Hamiltonian systems on manifolds is also described. The theoretical foundation relies on a backward error analysis, which translates the geometric properties of the method into the structure of a modified differential equation, whose flow is nearly identical to the numerical method. Combined with results from perturbation theory, this explains the excellent long-time behaviour of the method: long-time energy conservation, linear error growth and preservation of invariant tori in near-integrable systems, a discrete virial theorem, and preservation of adiabatic invariants.
  
 ## Citation
 - **Journal:** Acta Numerica
@@ -21,7 +21,7 @@ The subject of geometric numerical integration deals with numerical integrators 
 - **Issue:** 
 - **Pages:** 399--450
 - **Publisher:** Cambridge University Press (CUP)
-- **DOI:** [10.1017/S0962492902000144](https://doi.org/10.1017/S0962492902000144)
+- **DOI:** [10.1017/s0962492902000144](https://doi.org/10.1017/s0962492902000144)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -39,4 +39,6 @@ The subject of geometric numerical integration deals with numerical integrators 
 }
 {% endraw %}
 {% endhighlight %}
+ 
+[Download the bib file]({{ site.baseurl }}/assets/bib/geometric-numerical-integration-illustrated-by-the-stormer-verlet-method.bib)
  

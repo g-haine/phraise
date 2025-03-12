@@ -32,7 +32,7 @@ Distributed-parameter systems; conservation laws; port-Hamiltonian systems; disc
 - **Pages:** 194--199
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.238](https://doi.org/10.1016/j.ifacol.2015.10.238)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -52,12 +52,24 @@ Distributed-parameter systems; conservation laws; port-Hamiltonian systems; disc
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/feedforward-control-of-a-channel-flow-based-on-a-discretized-port-hamiltonian-model.bib)
+ 
 ## References
+- Bassi, An algorithm to discretize one-dimensional distributed port Hamiltonian systems.. (2007)
+- Bastin, Boundary control for exact cancellation of boundary disturbances in hyperbolic systems of conservation laws.. (2005)
 - Devasia, S., Degang Chen & Paden, B. Nonlinear inversion-based output tracking. IEEE Transactions on Automatic Control vol. 41 930–942 (1996) -- [10.1109/9.508898](https://doi.org/10.1109/9.508898)
+- Duindam, (2009)
 - [Farle, O., Baltes, R.-B. & Dyczij-Edlinger, R. Strukturerhaltende Diskretisierung verteilt-parametrischer Port-Hamiltonscher Systeme mittels finiter Elemente. at - Automatisierungstechnik vol. 62 500–511 (2014)](strukturerhaltende-diskretisierung-verteilt-parametrischer-port-hamiltonscher-systeme-mittels-finiter-elemente) -- [10.1515/auto-2014-1093](https://doi.org/10.1515/auto-2014-1093)
+- Golo, Hamiltonian discretization of boundary control systems. Auto-matica (2004)
 - Graichen, K., Hagenmeyer, V. & Zeitz, M. A new approach to inversion-based feedforward control design for nonlinear systems. Automatica vol. 41 2033–2041 (2005) -- [10.1016/j.automatica.2005.06.008](https://doi.org/10.1016/j.automatica.2005.06.008)
-- Hamroun, B., Dimofte, A., Lefèvre, L. & Mendes, E. Control by Interconnection and Energy-Shaping Methods of Port Hamiltonian Models. Application to the Shallow Water Equations. European Journal of Control vol. 16 545–563 (2010) -- [10.3166/ejc.16.545-563](https://doi.org/10.3166/ejc.16.545-563)
+- [Hamroun, B., Dimofte, A., Lefèvre, L. & Mendes, E. Control by Interconnection and Energy-Shaping Methods of Port Hamiltonian Models. Application to the Shallow Water Equations. European Journal of Control vol. 16 545–563 (2010)](control-by-interconnection-and-energy-shaping-methods-of-port-hamiltonian-models-application-to-the-shallow-water-equations) -- [10.3166/ejc.16.545-563](https://doi.org/10.3166/ejc.16.545-563)
+- Knüppel, Flatness-based trajectory planning for the shallow water equations. (2010)
+- Kotyczka, Inversion-based feedforward control for discretized port-Hamiltonian systems. (2014)
+- Kotyczka, Discretized models for networks of distributed parameter port-Hamiltonian systems. (2013)
+- Lax, Hyperbolic systems of conservation laws and the mathematical theory of shock. waves (1973)
+- LeVeque, (1992)
 - [Macchelli, A. Energy shaping of distributed parameter port-Hamiltonian systems based on finite element approximation. Systems &amp; Control Letters vol. 60 579–589 (2011)](energy-shaping-of-distributed-parameter-port-hamiltonian-systems-based-on-finite-element-approximation) -- [10.1016/j.sysconle.2011.04.016](https://doi.org/10.1016/j.sysconle.2011.04.016)
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- Vu, IDA-PBC control for the coupled plasma poloidal magnetic flux and heat radial diffusion equations in tokamaks.. In World Congress, (2014)
 

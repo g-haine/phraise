@@ -29,7 +29,7 @@ Port-Hamiltonian; Exact Discretization; Undamped Wave Equation System
 - **Pages:** 309--314
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2016.07.459](https://doi.org/10.1016/j.ifacol.2016.07.459)
-- **Event:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
+- **Note:** 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations CPDE 2016- Bertinoro, Italy, 13—15 June 2016
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,17 +49,22 @@ Port-Hamiltonian; Exact Discretization; Undamped Wave Equation System
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-representation-and-discretization-of-undamped-wave-equation-system.bib)
+ 
 ## References
-- [Bassi, L., Macchelli, A., and Melchiorri, C. (2007). An algorithm to discretize one-dimensional distributed port hamiltonian systems. In Lagrangian and Hamiltonian Methods for Nonlinear Control 2006, 61–73. Springer.](an-algorithm-to-discretize-one-dimensional-distributed-port-hamiltonian-systems) -- [10.1007/978-3-540-73890-9_4](https://doi.org/10.1007/978-3-540-73890-9_4)
+- [Bassi, L., Macchelli, A. & Melchiorri, C. An Algorithm to Discretize One-Dimensional Distributed Port Hamiltonian Systems. Lecture Notes in Control and Information Sciences 61–73 doi:10.1007/978-3-540-73890-9_4](an-algorithm-to-discretize-one-dimensional-distributed-port-hamiltonian-systems) -- [10.1007/978-3-540-73890-9_4](https://doi.org/10.1007/978-3-540-73890-9_4)
+- Duindam, (2009)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - Havu, V. & Malinen, J. The Cayley Transform as a Time Discretization Scheme. Numerical Functional Analysis and Optimization vol. 28 825–851 (2007) -- [10.1080/01630560701493321](https://doi.org/10.1080/01630560701493321)
-- [Jacob, B. and Zwart, H. (2012). Linear port-Hamiltonian systems on infinite-dimensional spaces, volume 223. Springer Science & Business Media.](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
-- Kazantzis, N. & Kravaris, C. Time-discretization of nonlinear control systems via Taylor methods. Computers &amp; Chemical Engineering vol. 23 763–784 (1999) -- [10.1016/S0098-1354(99)00007-1](https://doi.org/10.1016/S0098-1354(99)00007-1)
+- [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- Kazantzis, N. & Kravaris, C. Time-discretization of nonlinear control systems via Taylor methods. Computers &amp; Chemical Engineering vol. 23 763–784 (1999) -- [10.1016/s0098-1354(99)00007-1](https://doi.org/10.1016/s0098-1354(99)00007-1)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
-- Maschke, B. and van der Schaft, A. (2005). 4 compositional modelling of distributed-parameter systems. In Advanced topics in control systems theory, 115–154. Springer. -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
-- [Maschke, B. and Van der Schaft, A. (1991). Port-controlled hamiltonian systems: modelling origins and systemtheoretic properties.](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties-92) -- [10.1016/S1474-6670(17)52308-3](https://doi.org/10.1016/S1474-6670(17)52308-3)
+- Maschke, B. & van der Schaft, A. 4 Compositional Modelling of Distributed-Parameter Systems. Lecture Notes in Control and Information Sciences 115–154 (2005) doi:10.1007/11334774_4 -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
+- [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties) -- [10.1016/s1474-6670(17)52308-3](https://doi.org/10.1016/s1474-6670(17)52308-3)
 - Alizadeh Moghadam, A., Aksikas, I., Dubljevic, S. & Forbes, J. F. Boundary optimal (LQ) control of coupled hyperbolic PDEs and ODEs. Automatica vol. 49 526–533 (2013) -- [10.1016/j.automatica.2012.11.016](https://doi.org/10.1016/j.automatica.2012.11.016)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics vol. 62 1509–1531 (2012)](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Staffans, (2005)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- Zwart, (1995)
 

@@ -41,3 +41,5 @@ HAL is a multi-disciplinary open access archive for the deposit and disseminatio
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/simulation-of-the-ondes-martenot-ribbon-controlled-oscillator-using-energy-balanced-modeling-of-nonlinear-time-varying-electronic-components.bib)
+ 

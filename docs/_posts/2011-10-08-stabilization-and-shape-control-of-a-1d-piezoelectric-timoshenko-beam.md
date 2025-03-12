@@ -49,15 +49,17 @@ Infinite dimensional systems; Port-Hamiltonian; Passivity-based control; Piezoel
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/stabilization-and-shape-control-of-a-1d-piezoelectric-timoshenko-beam.bib)
+ 
 ## References
+- Ahlberg, (1967)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
+- Jenkins, (2001)
+- Khalil, (2001)
 - [Macchelli, A. & Melchiorri, C. Control by Interconnection and Energy Shaping of the Timoshenko Beam. Mathematical and Computer Modelling of Dynamical Systems vol. 10 231–251 (2004)](control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam) -- [10.1080/13873950412331335243](https://doi.org/10.1080/13873950412331335243)
-- [Macchelli, A., van der Schaft, A. J., & Melchiorri, C. (2004). Multi-variable port Hamiltonian model of piezoelectric material. In 2004 IEEE/RSJ international conference on intelligent robots and systems. IROS 2004. Proceedings. Vol. 1.](multi-variable-port-hamiltonian-model-of-piezoelectric-material) -- [10.1109/IROS.2004.1389466](https://doi.org/10.1109/IROS.2004.1389466)
+- [Macchelli, A., van der Schaft, A. J. & Melchiorri, C. Multi-variable port Hamiltonian model of piezoelectric material. 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No.04CH37566) vol. 1 897–902](multi-variable-port-hamiltonian-model-of-piezoelectric-material) -- [10.1109/iros.2004.1389466](https://doi.org/10.1109/iros.2004.1389466)
+- Ortega, (1998)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- Vinogradov, A., Ji, S., Jenkins, C., & Bar-Cohen, Y. (2005). State-of-the-art developments in the field of electro active polymers. In Materials research society fall meeting. November.
-- Voß, Thomas (2010). Port-Hamiltonian modeling and control of piezoelectric beams and plates: application to inflatable space structures. Ph.D. thesis. University of Groningen.
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Voss, T. & Scherpen, J. M. A. Structure Preserving Spatial Discretization of a 1-D Piezoelectric Timoshenko Beam. Multiscale Modeling &amp; Simulation vol. 9 129–154 (2011)](structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam) -- [10.1137/100789038](https://doi.org/10.1137/100789038)
-- Voß, T., & Scherpen, J. M. A. (2009). Structure preserving port-Hamiltonian discretization of a 1-D inflatable space reflector. In Proceedings of the 10th European control conferences.
-- Voß, T., Scherpen, J.M.A., & Onck, P.R. (2008). Modeling for control of an inflatable space reflector, the nonlinear 1-D case. In 47th IEEE conference on decision and control (pp. 1777–1782).
 

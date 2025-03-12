@@ -50,3 +50,5 @@ Free Surface; Shallow Water; Weak Solution; Shallow Water Equation; Global Weak 
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/global-weak-solutions-for-a-shallow-water-equation.bib)
+ 

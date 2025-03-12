@@ -40,10 +40,12 @@ Port‐based network modeling of multi‐physics problems leads naturally to a f
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/model-reduction-techniques-for-port-hamiltonian-differential-algebraic-systems.bib)
+ 
 ## References
-- [C.Beattie V.Mehrmann H.Xu andH.Zwart Math. Control Signals Sys. 30(4) 1–27 (2018).](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
-- [A.van der SchaftandD.Jeltsema Foundations and Trends in Systems and Control 1(2-3) 173–378 (2014).](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- [S.Hauschild N.Marheineke andV.Mehrmann Model reduction techniques for linear constant coefficient port-Hamiltonian differential-algebraic systems Preprint arXiv:1901.10242(2019).](model-reduction-techniques-for-port-hamiltonian-differential-algebraic-systems) -- [10.1002/pamm.201900040](https://doi.org/10.1002/pamm.201900040)
-- [C.Mehl V.Mehrmann andM.Wojtylak SIAM J. Matrix Anal. Appl. 39(3) 1489–1519 (2018).](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18M1164275](https://doi.org/10.1137/18M1164275)
-- [R. V.PolyugaandA.van der Schaft Syst. Control Lett. 61(3) 412–421 (2012).](effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.sysconle.2011.12.008](https://doi.org/10.1016/j.sysconle.2011.12.008)
+- [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [Hauschild, S.-A., Marheineke, N. & Mehrmann, V. Model reduction techniques for port‐Hamiltonian differential‐algebraic systems. PAMM vol. 19 (2019)](model-reduction-techniques-for-port-hamiltonian-differential-algebraic-systems) -- [10.1002/pamm.201900040](https://doi.org/10.1002/pamm.201900040)
+- [Mehl, C., Mehrmann, V. & Wojtylak, M. Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems. SIAM Journal on Matrix Analysis and Applications vol. 39 1489–1519 (2018)](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18m1164275](https://doi.org/10.1137/18m1164275)
+- [Polyuga, R. V. & van der Schaft, A. J. Effort- and flow-constraint reduction methods for structure preserving model reduction of port-Hamiltonian systems. Systems &amp; Control Letters vol. 61 412–421 (2012)](effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.sysconle.2011.12.008](https://doi.org/10.1016/j.sysconle.2011.12.008)
 

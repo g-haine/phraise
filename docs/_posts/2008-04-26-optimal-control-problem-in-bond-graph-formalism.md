@@ -5,7 +5,7 @@ date: 2008-04-26 00:00:00 +0100
 permalink: optimal-control-problem-in-bond-graph-formalism
 year: 2009
 authors: Omar Mouhib, Audrey Jardin, Wilfrid Marquis-Favre, Eric Bideaux, Daniel Thomasset
-category: proceedings
+category: articles
 tags:
   - Optimal control
   - Dissipative energy minimization
@@ -33,7 +33,7 @@ Optimal control; Dissipative energy minimization; Output error minimization; Bon
 - **Pages:** 240--256
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.simpat.2008.04.011](https://doi.org/10.1016/j.simpat.2008.04.011)
-- **Event:** Bond Graph Modelling
+- **Note:** Bond Graph Modelling
  
 ## BibTeX
 {% highlight bibtex %}
@@ -53,17 +53,20 @@ Optimal control; Dissipative energy minimization; Output error minimization; Bon
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/optimal-control-problem-in-bond-graph-formalism.bib)
+ 
 ## References
 - Breedveld, P. C. Multibond graph elements in physical systems theory. Journal of the Franklin Institute vol. 319 1–36 (1985) -- [10.1016/0016-0032(85)90062-6](https://doi.org/10.1016/0016-0032(85)90062-6)
-- B. Chereji, O. Mouhib, W. Marquis-Favre, D. Thomasset, J. Pousin, M. Picq, An optimal control problem: bond graph representation and solver implementation, in: 5th MATHMOD, 8–10 February 2006, Vienna.
-- R. Fotsu-Ngwompo, Contribution au Dimensionnement des Systèmes sur des Critères Dynamiques et Energétiques – Approche par Bond Graph, Ph.D. Thesis, Institut National des Sciences Appliquées de Lyon, 1997.
-- Ngwompo, R. F. & Scavarda, S. Dimensioning problems in system design using bicausal bond graphs. Simulation Practice and Theory vol. 7 577–587 (1999) -- [10.1016/S0928-4869(99)00013-0](https://doi.org/10.1016/S0928-4869(99)00013-0)
-- Gawthrop, P. J. Physical interpretation of inverse dynamics using bicausal bond graphs. Journal of the Franklin Institute vol. 337 743–769 (2000) -- [10.1016/S0016-0032(00)00051-X](https://doi.org/10.1016/S0016-0032(00)00051-X)
-- W. Marquis-Favre, B. Chereji, D. Thomasset, S. Scavarda, Bond graph representation of an optimal control problem: the DC motor example, in: Proceedings of the 7th ICBGM, 2005, New-Orleans, USA.
-- B. Maschke, A.J. van der Schaft, Port-controlled Hamiltonian systems: modelling origins and system-theoretic properties, in: Proceedings of 2nd IFAC NOLCOS, Bordeaux, 1992, pp. 282–288.
-- O. Mouhib, B. Chereji, W. Marquis-Favre, D. Thomasset, J. Pousin, M. Picq, Procedure for the bond graph construction of an optimal control problem, in: International Journal of Tomography & Statistics, Special Issue on: Control Applications of Optimisation – control and aeronautics, optimal control, control of partial differential equations, vol. 5, Winter 2007.
-- O. Mouhib, B. Chereji, W. Marquis-Favre, E. Bideaux, D. Thomasset, Bond graph representation of an optimal control problem for output error minimization, in: Proceedings of the 8th ICBGM 15–17 January 2007, San Diego, CA.
-- A.J. van der Schaft, B. Maschke, Hamiltonian formulation of bond graphs, Ecole d’t d’Automatique de Grenoble, Session 22, Brogliato, B., 17–21 September 2001.
-- P. Dolcini, C. Canudas de Wit, H. Bchart, Improved optimal control of dry clutch engagement, in: Proceedings of the 16th IFAC World Congress, Prague, Czech Republic, 4–8 July 2005, p. 6.
-- MS1, <http://www.lorsim.be>, 2004.
+- Breedveld, A definition of the multibond graph language. (1986)
+- Dauphin-Tanguy, (2000)
+- Ngwompo, R. F. & Scavarda, S. Dimensioning problems in system design using bicausal bond graphs. Simulation Practice and Theory vol. 7 577–587 (1999) -- [10.1016/s0928-4869(99)00013-0](https://doi.org/10.1016/s0928-4869(99)00013-0)
+- Fotsu-Ngwompo, Physical model-based inversion in control systems design using bond graph representation. Part 1: Theory. Proceedings of the imeche Part I. Journal of Systems and Control Engineering (2001)
+- Fotsu-Ngwompo, Physical model-based inversion in control systems design using bond graph representation. Part 2: Applications. Proceedings of the imeche Part I. Journal of Systems and Control Engineering (2001)
+- Gawthrop, Bicausal Bond Graphs. (1995)
+- Gawthrop, P. J. Physical interpretation of inverse dynamics using bicausal bond graphs. Journal of the Franklin Institute vol. 337 743–769 (2000) -- [10.1016/s0016-0032(00)00051-x](https://doi.org/10.1016/s0016-0032(00)00051-x)
+- Karnopp, (2000)
+- Kirk, (1970)
+- Agrawal, (1999)
+- Foulard, Commande et rgulation par calculateur numrique. Editions Eyrolles (1979)
+- Moler, Nineteen dubious ways to compute the exponential of a matrix, twenty-five years later. Society for Industrial and Applied Mathematics Review (2003)
 

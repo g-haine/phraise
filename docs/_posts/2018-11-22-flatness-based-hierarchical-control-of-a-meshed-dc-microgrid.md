@@ -32,7 +32,7 @@ Meshed DC microgrid; Port-Hamiltonian formalism; Differential flatness; B-spline
 - **Pages:** 222--227
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.11.017](https://doi.org/10.1016/j.ifacol.2018.11.017)
-- **Event:** 6th IFAC Conference on Nonlinear Model Predictive Control NMPC 2018- Madison, Wisconsin, USA, 19–22 August 2018
+- **Note:** 6th IFAC Conference on Nonlinear Model Predictive Control NMPC 2018- Madison, Wisconsin, USA, 19–22 August 2018
  
 ## BibTeX
 {% highlight bibtex %}
@@ -52,12 +52,14 @@ Meshed DC microgrid; Port-Hamiltonian formalism; Differential flatness; B-spline
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/flatness-based-hierarchical-control-of-a-meshed-dc-microgrid.bib)
+ 
 ## References
 - Drgoňa, J., Picard, D., Kvasnica, M. & Helsen, L. Approximate model predictive building control via machine learning. Applied Energy vol. 218 199–216 (2018) -- [10.1016/j.apenergy.2018.02.156](https://doi.org/10.1016/j.apenergy.2018.02.156)
-- Franke, M. and Robenack, K. (2013). On the computation of flat outputs for nonlinear control systems. In Control Conference (ECC), 2013 European, 167–172. IEEE. -- [10.23919/ECC.2013.6669771](https://doi.org/10.23919/ECC.2013.6669771)
-- Parisio, A., Rikos, E. & Glielmo, L. A Model Predictive Control Approach to Microgrid Operation Optimization. IEEE Transactions on Control Systems Technology vol. 22 1813–1827 (2014) -- [10.1109/TCST.2013.2295737](https://doi.org/10.1109/TCST.2013.2295737)
-- Stoican, F., Prodan, I., Popescu, D., and Ichim, L. (2017). Constrained trajectory generation for uav systems using a b-spline parametrization. In Control and Automation (MED), 2017 25th Mediterranean Conference on, 613– 618. IEEE. -- [10.1109/MED.2017.7984185](https://doi.org/10.1109/MED.2017.7984185)
-- Suryawan, F. (2012). Constrained Trajectory Generation and Fault Tolerant Control Based on Differential Flatness and B-splines. Ph.D. thesis, School of Electrical Engineering and Computer Science, The University of Newcastle, Australia.
+- Franke, M. & Robenack, K. On the computation of flat outputs for nonlinear control systems. 2013 European Control Conference (ECC) 167–172 (2013) doi:10.23919/ecc.2013.6669771 -- [10.23919/ecc.2013.6669771](https://doi.org/10.23919/ecc.2013.6669771)
+- Levine, Analysis and control of nonlinear systems: A flatness-based approach. Springer Science & Business Media (2009)
+- Parisio, A., Rikos, E. & Glielmo, L. A Model Predictive Control Approach to Microgrid Operation Optimization. IEEE Transactions on Control Systems Technology vol. 22 1813–1827 (2014) -- [10.1109/tcst.2013.2295737](https://doi.org/10.1109/tcst.2013.2295737)
+- Stoican, F., Prodan, I., Popescu, D. & Ichim, L. Constrained trajectory generation for UAV systems using a B-spline parametrization. 2017 25th Mediterranean Conference on Control and Automation (MED) 613–618 (2017) doi:10.1109/med.2017.7984185 -- [10.1109/med.2017.7984185](https://doi.org/10.1109/med.2017.7984185)
 - Velarde, P., Valverde, L., Maestre, J. M., Ocampo-Martinez, C. & Bordons, C. On the comparison of stochastic model predictive control strategies applied to a hydrogen-based microgrid. Journal of Power Sources vol. 343 161–173 (2017) -- [10.1016/j.jpowsour.2017.01.015](https://doi.org/10.1016/j.jpowsour.2017.01.015)
-- [Zafeiratou, I., Prodan, I., Lefèvre, L., and Piétrac, L. (2018). Dynamical modelling of a dc microgrid using a port-hamiltonian formalism. 9th Vienna International Conference on Mathematical Modelling, IFAC.](dynamical-modelling-of-a-dc-microgrid-using-a-port-hamiltonian-formalism) -- [10.1016/j.ifacol.2018.03.079](https://doi.org/10.1016/j.ifacol.2018.03.079)
+- [Zafeiratou, I., Prodan, I., Lefèvre, L. & Piétrac, L. Dynamical modelling of a DC microgrid using a port-Hamiltonian formalism. IFAC-PapersOnLine vol. 51 469–474 (2018)](dynamical-modelling-of-a-dc-microgrid-using-a-port-hamiltonian-formalism) -- [10.1016/j.ifacol.2018.03.079](https://doi.org/10.1016/j.ifacol.2018.03.079)
 

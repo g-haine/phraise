@@ -21,7 +21,7 @@ In this article, for the input-state-output class of port-Hamiltonian systems, t
 - **Issue:** 1
 - **Pages:** 622--628
 - **Publisher:** Institute of Electrical and Electronics Engineers (IEEE)
-- **DOI:** [10.1109/TAC.2023.3273394](https://doi.org/10.1109/TAC.2023.3273394)
+- **DOI:** [10.1109/tac.2023.3273394](https://doi.org/10.1109/tac.2023.3273394)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -41,16 +41,21 @@ In this article, for the input-state-output class of port-Hamiltonian systems, t
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-contractive-port-hamiltonian-systems-with-state-modulated-interconnection-and-damping-matrices.bib)
+ 
 ## References
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Ortega. Eur. J. Control (2004)
 - Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - [Yaghmaei, A. & Yazdanpanah, M. J. Trajectory tracking for a class of contractive port Hamiltonian systems. Automatica vol. 83 331–336 (2017)](trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems) -- [10.1016/j.automatica.2017.06.039](https://doi.org/10.1016/j.automatica.2017.06.039)
-- [Yaghmaei, A. & Yazdanpanah, M. J. Structure Preserving Observer Design for Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 64 1214–1220 (2019)](structure-preserving-observer-design-for-port-hamiltonian-systems) -- [10.1109/TAC.2018.2847904](https://doi.org/10.1109/TAC.2018.2847904)
+- [Yaghmaei, A. & Yazdanpanah, M. J. Structure Preserving Observer Design for Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 64 1214–1220 (2019)](structure-preserving-observer-design-for-port-hamiltonian-systems) -- [10.1109/tac.2018.2847904](https://doi.org/10.1109/tac.2018.2847904)
+- Barabanov. Syst. Control Lett. (2019)
 - LOHMILLER, W. & SLOTINE, J.-J. E. On Contraction Analysis for Non-linear Systems. Automatica vol. 34 683–696 (1998) -- [10.1016/s0005-1098(98)00019-3](https://doi.org/10.1016/s0005-1098(98)00019-3)
 - Wang, W. & Slotine, J.-J. E. On partial contraction analysis for coupled nonlinear oscillators. Biological Cybernetics vol. 92 38–53 (2004) -- [10.1007/s00422-004-0527-x](https://doi.org/10.1007/s00422-004-0527-x)
 - Lancaster, P. & Rodman, L. Algebraic Riccati Equations. (1995) doi:10.1093/oso/9780198537953.001.0001 -- [10.1093/oso/9780198537953.001.0001](https://doi.org/10.1093/oso/9780198537953.001.0001)
+- Abou-Kandil. Matrix Riccati Equ. in Control and Syst. Theory (2012)
 - Bernstein, D. S. Matrix Mathematics. (2009) doi:10.1515/9781400833344 -- [10.1515/9781400833344](https://doi.org/10.1515/9781400833344)
-- Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/TAC.2005.860292](https://doi.org/10.1109/TAC.2005.860292)
+- Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
 

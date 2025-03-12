@@ -49,20 +49,31 @@ Structure preservation; System approximation; Port Hamiltonian systems; Linear i
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/stability-and-passivity-preserving-petrov-galerkin-approximation-of-linear-infinite-dimensional-systems.bib)
+ 
 ## References
 - Baaiu, A., Couenne, F., Lefevre, L., Le Gorrec, Y. & Tayakout, M. Structure-preserving infinite dimensional model reduction: Application to adsorption processes. Journal of Process Control vol. 19 394–404 (2009) -- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
-- Balas, M. J. The galerkin method and feedback control of linear distributed parameter systems. Journal of Mathematical Analysis and Applications vol. 91 527–546 (1983) -- [10.1016/0022-247X(83)90167-1](https://doi.org/10.1016/0022-247X(83)90167-1)
+- Balas, M. J. The galerkin method and feedback control of linear distributed parameter systems. Journal of Mathematical Analysis and Applications vol. 91 527–546 (1983) -- [10.1016/0022-247x(83)90167-1](https://doi.org/10.1016/0022-247x(83)90167-1)
+- Bassi, An algorithm to discretize one-dimensional distributed port Hamiltonian systems. (2007)
+- Curtain, (1995)
+- Engel, (2000)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
-- Harkort, C. & Deutscher, J. Krylov Subspace Methods for Linear Infinite-Dimensional Systems. IEEE Transactions on Automatic Control vol. 56 441–447 (2011) -- [10.1109/TAC.2010.2090063](https://doi.org/10.1109/TAC.2010.2090063)
+- Harkort, C. & Deutscher, J. Krylov Subspace Methods for Linear Infinite-Dimensional Systems. IEEE Transactions on Automatic Control vol. 56 441–447 (2011) -- [10.1109/tac.2010.2090063](https://doi.org/10.1109/tac.2010.2090063)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- Liu, (1999)
+- Luo, (1999)
 - Malinen, J. & Staffans, O. J. Impedance Passive and Conservative Boundary Control Systems. Complex Analysis and Operator Theory vol. 1 279–300 (2007) -- [10.1007/s11785-006-0009-3](https://doi.org/10.1007/s11785-006-0009-3)
 - [Moulla, R., Lefèvre, L. & Maschke, B. Geometric pseudospectral method for spatial integration of dynamical systems. Mathematical and Computer Modelling of Dynamical Systems vol. 17 85–104 (2011)](geometric-pseudospectral-method-for-spatial-integration-of-dynamical-systems) -- [10.1080/13873954.2010.537524](https://doi.org/10.1080/13873954.2010.537524)
+- Naylor, (1982)
 - [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica vol. 46 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
 - Reis, T. & Stykel, T. Lyapunov Balancing for Passivity-Preserving Model Reduction of RC Circuits. SIAM Journal on Applied Dynamical Systems vol. 10 1–34 (2011) -- [10.1137/090779802](https://doi.org/10.1137/090779802)
 - Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/TAC.2008.2007176](https://doi.org/10.1109/TAC.2008.2007176)
-- Voß, T., & Scherpen, J.M.A. (2009). Structure preserving port-Hamiltonian discretization of a 1-D inflatable space reflector. In Proceedings of the 10th European Control Conference (pp. 850–855).
+- Tucsnak, (2009)
+- van der Schaft, (2000)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - [Voss, T. & Scherpen, J. M. A. Structure Preserving Spatial Discretization of a 1-D Piezoelectric Timoshenko Beam. Multiscale Modeling &amp; Simulation vol. 9 129–154 (2011)](structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam) -- [10.1137/100789038](https://doi.org/10.1137/100789038)
-- Wolf, T., Lohmann, B., Eid, R. & Kotyczka, P. Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces. European Journal of Control vol. 16 401–406 (2010) -- [10.3166/ejc.16.401-406](https://doi.org/10.3166/ejc.16.401-406)
+- Weiss, The representation of regular linear systems on Hilbert spaces. (1989)
+- [Wolf, T., Lohmann, B., Eid, R. & Kotyczka, P. Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces. European Journal of Control vol. 16 401–406 (2010)](passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces) -- [10.3166/ejc.16.401-406](https://doi.org/10.3166/ejc.16.401-406)
+- Zwart, Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations (2009)
 

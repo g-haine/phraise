@@ -21,7 +21,7 @@ This paper illustrates a novel model reduction procedure for port-Hamiltonian sy
 - **Issue:** 
 - **Pages:** 7285--7290
 - **Publisher:** IEEE
-- **DOI:** [10.1109/CDC.2009.5400573](https://doi.org/10.1109/CDC.2009.5400573)
+- **DOI:** [10.1109/cdc.2009.5400573](https://doi.org/10.1109/cdc.2009.5400573)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,14 +38,27 @@ This paper illustrates a novel model reduction procedure for port-Hamiltonian sy
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/model-reduction-for-high-order-port-hamiltonian-systems-application-to-piezo-electric-systems.bib)
+ 
 ## References
-- van der Schaft, A. Balancing of Lossless and Passive Systems. IEEE Transactions on Automatic Control vol. 53 2153–2157 (2008) -- [10.1109/TAC.2008.930192](https://doi.org/10.1109/TAC.2008.930192)
+- van der Schaft, A. Balancing of Lossless and Passive Systems. IEEE Transactions on Automatic Control vol. 53 2153–2157 (2008) -- [10.1109/tac.2008.930192](https://doi.org/10.1109/tac.2008.930192)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics vol. 34 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - Krysl, P., Lall, S. & Marsden, J. E. Dimensional model reduction in non‐linear finite element dynamics of solids and structures. International Journal for Numerical Methods in Engineering vol. 51 479–504 (2001) -- [10.1002/nme.167](https://doi.org/10.1002/nme.167)
 - Lall, S., Marsden, J. E. & Glavaški, S. A subspace approach to balanced truncation for model reduction of nonlinear control systems. International Journal of Robust and Nonlinear Control vol. 12 519–535 (2002) -- [10.1002/rnc.657](https://doi.org/10.1002/rnc.657)
-- Lall, S., Krysl, P. & Marsden, J. E. Structure-preserving model reduction for mechanical systems. Physica D: Nonlinear Phenomena vol. 184 304–318 (2003) -- [10.1016/S0167-2789(03)00227-6](https://doi.org/10.1016/S0167-2789(03)00227-6)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Lall, S., Krysl, P. & Marsden, J. E. Structure-preserving model reduction for mechanical systems. Physica D: Nonlinear Phenomena vol. 184 304–318 (2003) -- [10.1016/s0167-2789(03)00227-6](https://doi.org/10.1016/s0167-2789(03)00227-6)
+- polyuga, Structure preserving model reduction for port-Hamiltonian systems. Mathematical Theory of Networks and Systems (MTNS 2008) Proceedings of the 18th International Symposium on Blacksburg (2008)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
-- Moore, B. Principal component analysis in linear systems: Controllability, observability, and model reduction. IEEE Transactions on Automatic Control vol. 26 17–32 (1981) -- [10.1109/TAC.1981.1102568](https://doi.org/10.1109/TAC.1981.1102568)
+- bassi, Lagrangian and Hamiltonian Methods For Nonlinear Control 2006. ch An Algorithm to Discretize One-Dimensional Distributed Port Hamiltonian Systems (2007)
+- Abaqus Unified FEA. SIMUL (2008)
+- fritzson, Principles of Object-Oriented Modeling and Simulation with Modelica 2.1. (2004)
+- paynter, Analysis and design of engineering systems. (1961)
+- dynasim, Dymola. (2008)
+- Open Modelica. The Open Source Modelica Consortium (OSMC) (2008)
+- Moore, B. Principal component analysis in linear systems: Controllability, observability, and model reduction. IEEE Transactions on Automatic Control vol. 26 17–32 (1981) -- [10.1109/tac.1981.1102568](https://doi.org/10.1109/tac.1981.1102568)
+- 20-Sim. Control Lab Products (2006)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- maschke, Port controlled Hamiltonian systems: modeling origins and system theoretic properties. Nonlinear Control Systems (NOLCOS 1992) Proceedings of the 3rd IFAC Symposium on (1992)
+- scherpen, Balancing for nonlinear systems. (1994)
+- piefort, Finite element modelling of piezoelectric active structures. (2001)
 

@@ -30,3 +30,5 @@ category: books
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/modeling-and-control-of-complex-physical-systems.bib)
+ 

@@ -42,3 +42,5 @@ stabilization of systems of two conservation laws},
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-hamiltonian-perspective-to-the-stabilization-of-systems-of-two-conservation-laws.bib)
+ 

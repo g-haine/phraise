@@ -49,16 +49,23 @@ Boundary control; Spatial discretization; Finite elements; Port-Hamiltonian syst
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/hamiltonian-discretization-of-boundary-control-systems.bib)
+ 
 ## References
-- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/S0002-9947-1990-0998124-1](https://doi.org/10.1090/S0002-9947-1990-0998124-1)
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/S0363012996312039](https://doi.org/10.1137/S0363012996312039)
-- Golo, G., van der Schaft, A. J., & Stramigioli, S., 2003. Hamiltonian formulation of planar beams. Second IFAC workshop on Lagrangian and Hamiltonian methods for nonlinear control, Seville (pp. 169–174). -- [10.1016/S1474-6670(17)38882-1](https://doi.org/10.1016/S1474-6670(17)38882-1)
-- Golo, G., Talasila, V., & van der Schaft, A.J., 2002. Approximation of the telegrapher's equations. 41st IEEE conference on decision and control, Las Vegas (pp. 4567–4572). -- [10.1109/CDC.2002.1185099](https://doi.org/10.1109/CDC.2002.1185099)
-- Maschke, B. M., & van der Schaft, A. J. (2000). Port controlled Hamiltonian representation of distributed parameter systems In N. E. Leonard, R. Ortega (Eds.), Proceedings of IFAC workshop on Lagrangian and Hamiltonian methods for nonlinear control, Princeton University (pp. 28–38). -- [10.1016/S1474-6670(17)35543-X](https://doi.org/10.1016/S1474-6670(17)35543-X)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/S0016-0032(92)90049-M](https://doi.org/10.1016/S0016-0032(92)90049-M)
+- Bossavit, Differential forms and the computation of fields and forces in electromagnetism. European Journal of Mechanics, B/Fluids (1991)
+- Bossavit, (1998)
+- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
+- Dorfman, (1993)
+- Golo, G., van der Schaft, A. & Stramigioli, S. Hamiltonian Formulation of Planar Beams. IFAC Proceedings Volumes vol. 36 147–152 (2003) -- [10.1016/s1474-6670(17)38882-1](https://doi.org/10.1016/s1474-6670(17)38882-1)
+- Golo, G., Talasila, V. & van der Schaft, A. J. Approximation of the Telegrapher’s equations. Proceedings of the 41st IEEE Conference on Decision and Control, 2002. vol. 4 4587–4592 -- [10.1109/cdc.2002.1185099](https://doi.org/10.1109/cdc.2002.1185099)
+- Maschke, B. M. J. & van der Schaft, A. J. Port Controlled Hamiltonian Representation of Distributed Parameter Systems. IFAC Proceedings Volumes vol. 33 27–37 (2000) -- [10.1016/s1474-6670(17)35543-x](https://doi.org/10.1016/s1474-6670(17)35543-x)
+- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- Olver, (1993)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- van der Schaft, A. J. (1999). The mathematics of systems and control: From intelligent control to behavioral systems, Interconnection and Geometry. Groningen: Foundation Systems and Control.
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
-- Talasila, V., Golo, G., & van der Schaft, A. J., 2002. The wave equation as a port-Hamiltonian system and a finite dimensional approximation. In D.S. Gilliam, J. Rosenthal (Eds.), Proceedings of 15th international symposium mathematical theory of networks and systems (MTNS), South Bend.
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- van der Schaft, (2000)
+- van der Schaft, Implicit port-controlled Hamiltonian systems. Journal of Society of Instrument and Control Engineers of Japan (2000)
+- van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv fur Electronik und Ubertragungstechnik (1995)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

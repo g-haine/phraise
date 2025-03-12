@@ -2,6 +2,8 @@
 
 # Ce fichier prenant une liste de DOI en argument permet de générer :
 # * Un fichier .json unique qui permettra de créer les posts et de faciliter la recherche sur le site
+#
+# Il regroupe tous les appels aux différentes API pour les minimiser.
 
 # Vérifie si un fichier d'entrée est fourni
 if [ "$#" -ne 1 ]; then
@@ -22,7 +24,10 @@ doi_file=$1
 input_file="DOIuniq.txt"
 
 # Les entrées doivent être unique dans le fichier & ne pas être dans DOI.txt
-awk '!seen[$0]++' $doi_file > $input_file
+echo $(date -Iseconds)" Check unicity of DOIs..."
+tmp_file=$(mktemp)
+cat $doi_file | tr '[:upper:]' '[:lower:]' > $tmp_file
+awk '!seen[$0]++' $tmp_file > $input_file
 grep -avf "DOI.txt" $input_file > $doi_file
 input_file=$doi_file
 
@@ -30,7 +35,7 @@ input_file=$doi_file
 
 # Une fonction de slugify des titres
 slugify () {
-    echo "$1" |
+    echo "${1:0:240}" |
     iconv -t ascii//TRANSLIT |
     tr '[:upper:]' '[:lower:]' |
     tr -cs 'a-z0-9' '-' |
@@ -44,7 +49,7 @@ fetch_metadata_crossref () {
     http=${request: -3}
     response=${request:: -3}
     if [[ "$http" -eq 200 ]]; then
-        echo $response
+        echo "$response"
     else
         echo '{"status":"error"}'
     fi
@@ -159,12 +164,43 @@ fetch_abstract_complement () {
     echo "$abstract"
 }
 
+# Récupère la citation formattée d'après un DOI
+get_citation () {
+    local doi=$1
+    citation=$(curl -s https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US | tail -n 1)
+    echo "$citation" | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'
+}
+
+# Une fonctione qui récupère le bibtex et le formatte depuis crossref
+print_bib () {
+    local doi=$1
+    local bibflie=$2
+    crossrefEndpoint="http://api.crossref.org/works/$doi/transform/application/x-bibtex"
+    crossrefBib="$(curl -s $crossrefEndpoint)"
+    bibtex="$(echo "$crossrefBib" \
+        | sed -e 's/ @/@/g' \
+        | sed -e 's/},/},\n /g' \
+        | sed -e 's/, series/,\n  series/g' \
+        | sed -e 's/, pages/,\n  pages/g' \
+        | sed -e 's/, title/,\n  title/g' \
+        | sed -e '/title/s/={/={{/g' \
+        | sed -e '/title/s/},/}},/g' \
+        | sed -e 's/ }/\n}/g' \
+        | sed -e 's/, }/\n}/g' \
+        | sed -e '/pages/s/–/--/g' \
+        | sed -e '/month/d' \
+        | sed -e '/url/d' \
+        | tac | sed -e '2 s/,//g' | tac)"
+    echo "$bibtex" > $bibfile
+}
+
 # Maintenant la boucle sur les DOI
 
 # Le fichier .json créé
 output_json="assets/data/biblio.json"
 
 # Sauve les précédentes extractions de données
+echo $(date -Iseconds)" Start .json database creation..."
 mv $output_json "assets/data/biblio-"$(date -Iseconds)".json"
 
 echo "[" > $output_json
@@ -173,29 +209,64 @@ echo "[" > $output_json
 first=true
 
 # Boucle sur les DOIs
+k=0
 while IFS= read -r doi; do
+    (( k+=1 ))
+    echo $(date -Iseconds)" DOI $k: $doi"
     # Extraction des données
     response=$(fetch_metadata_crossref "$doi")
     status=$(echo "$response" | jq -r '.status')
 
     if [[ "$status" == "ok" ]]; then
-        title=$(echo $response | jq -r '.message.title // [""] | .[0]')
-        authors=$(echo $response | jq -r '.message.author')
-        type=$(echo $response | jq -r '.message.type // ""')
-        abstract=$(echo $response | jq -r '.message.abstract // ""')
-        journal=$(echo $response | jq -r '.message["container-title"] // [""] | .[0]')
-        year=$(echo $response | jq -r '.message["published-print"]["date-parts"][0][0] // ""')
-        volume=$(echo $response | jq -r '.message.volume // ""')
-        issue=$(echo $response | jq -r '.message.issue // ""')
+        # Récupère les data
+        title=$(echo "$response" | jq -r '.message.title // [""] | .[0]')
+        authors=$(echo "$response" | jq -r '.message.author')
+        type=$(echo "$response" | jq -r '.message.type // ""')
+        abstract=$(echo "$response" | jq -r '.message.abstract // ""')
+        journal=$(echo "$response" | jq -r '.message["container-title"] // [""] | .[0]')
+        year=$(echo "$response" | jq -r '.message["published-print"]["date-parts"][0][0] // ""')
+        volume=$(echo "$response" | jq -r '.message.volume // ""')
+        issue=$(echo "$response" | jq -r '.message.issue // ""')
         event=""
-        isbn=$(echo $response | jq -r '.message["isbn-type"][0]["value"] // ""')
-        pages=$(echo $response | jq -r '.message.page // "" | gsub("-"; "--")')
-        publisher=$(echo $response | jq -r '.message.publisher // ""')
-        keywords=$(echo $response | jq -r '.message.subject // [] | join(", ")')
-        dateY=$(echo $response | jq -r '.message.created["date-parts"][0][0] // ""')
-        dateM=$(echo $response | jq -r '.message.created["date-parts"][0][1] // ""')
-        dateD=$(echo $response | jq -r '.message.created["date-parts"][0][2] // ""')
-        references=$(echo $response | jq -c '[.message.reference[]? | {doi: (.DOI // ""), title: (.unstructured // "")}]')
+        isbn=$(echo "$response" | jq -r '.message["isbn-type"][0]["value"] // ""')
+        pages=$(echo "$response" | jq -r '.message.page // "" | gsub("-"; "--")')
+        publisher=$(echo "$response" | jq -r '.message.publisher // ""')
+        keywords=$(echo "$response" | jq -r '.message.subject // [] | join(", ")')
+        dateY=$(echo "$response" | jq -r '.message.created["date-parts"][0][0] // ""')
+        dateM=$(echo "$response" | jq -r '.message.created["date-parts"][0][1] // ""')
+        dateD=$(echo "$response" | jq -r '.message.created["date-parts"][0][2] // ""')
+        
+        # Génère le slug, vérifie son unicité grâce aux bib existants, puis génère le .bib associé
+        slug=$(slugify "$title")
+        bibfile="assets/bib/$slug.bib"
+        while [ -f $bibfile ]; do
+            slug+="0"
+            bibfile="assets/bib/$slug.bib"
+        done
+        $(print_bib "$doi" "$bibfile")
+        
+        # Formate les références
+        references="["
+        while IFS= read -r ref; do
+            d_ref=$(echo "$ref" | jq -r .DOI 2>/dev/null)
+            if echo "$d_ref" | grep -q "10."; then
+                ti_ref=$(get_citation "$d_ref" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
+            else
+                ti_ref=$(echo "$ref" | jq -r '
+                    [
+                        (if .author then .author + "," else empty end),
+                        (if .["article-title"] then .["article-title"] + "." else empty end),
+                        (if .["journal-title"] then .["journal-title"] else empty end),
+                        (if .["volume-title"] then .["volume-title"] else empty end),
+                        (if .year then "(" + (.year|tostring) + ")" else empty end)
+                    ] | map(select(. != "")) | join(" ")' | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
+            fi
+            references+='{"doi": "'$d_ref'", "title": "'$ti_ref'"},'
+        done < <(echo "$response" | jq -c '.message.reference[]' 2>/dev/null)
+        if [ "$references" != "[" ]; then
+            references=${references::-1}
+        fi
+        references+="]"
         
         # Year from creation if not published-print
         if [ -z "$year" ]; then
@@ -210,7 +281,7 @@ while IFS= read -r doi; do
             json_scopus=$(fetch_metadata_scopus "$doi")
             abstract=$(abstract_from_scopus "$json_scopus")
             keywords=$(keywords_from_scopus "$json_scopus")
-            event=$(event_from_scopus "$json_scopus" | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/"/\\"/g')
+            event=$(event_from_scopus "$json_scopus" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
         fi
         
         # Update si springer
@@ -218,7 +289,7 @@ while IFS= read -r doi; do
             json_springer=$(fetch_metadata_springer "$doi")
             abstract=$(abstract_from_springer "$json_springer")
             keywords=$(keywords_from_springer "$json_springer")
-            event=$(event_from_springer "$json_springer" | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/"/\\"/g')
+            event=$(event_from_springer "$json_springer" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
         fi
         
         # Complement pour l'abstract
@@ -228,7 +299,7 @@ while IFS= read -r doi; do
         fi
 
         # Nettoyage de l'abstract
-        abstract=$(echo $abstract | tr -d '\000-\031' | sed -E 's/\\/\\\\/g' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/"/\\"/g')
+        abstract=$(echo $abstract | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
         
         if [ "$first" = true ]; then
             first=false
@@ -255,7 +326,7 @@ while IFS= read -r doi; do
         echo "    \"dateY\": \"$dateY\"," >> $output_json
         echo "    \"dateM\": \"$dateM\"," >> $output_json
         echo "    \"dateD\": \"$dateD\"," >> $output_json
-        echo "    \"permalink\": \"$(slugify "$title")\"," >> $output_json
+        echo "    \"permalink\": \"$slug\"," >> $output_json
         echo "    \"references\": $references" >> $output_json
         echo "  }" >> $output_json
     else
@@ -265,6 +336,11 @@ while IFS= read -r doi; do
 done < "$input_file"
 
 echo "]" >> $output_json
+
+# On "beautifie" le json
+tmp_file=$(mktemp)
+jq --indent 2 . $output_json > $tmp_file
+mv $tmp_file $output_json
 
 # Tout s'est bien passé !
 echo "Données récupérées avec succès !"

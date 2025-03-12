@@ -31,7 +31,7 @@ dissipation obstacle; energy-Casimir method; port-Hamiltonian systems; Hamiltoni
 - **Pages:** 5573--5578
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2020.12.1569](https://doi.org/10.1016/j.ifacol.2020.12.1569)
-- **Event:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
+- **Note:** 21st IFAC World Congress- Berlin, Germany, 11–17 July 2020
  
 ## BibTeX
 {% highlight bibtex %}
@@ -51,11 +51,18 @@ dissipation obstacle; energy-Casimir method; port-Hamiltonian systems; Hamiltoni
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/overcoming-the-dissipation-obstacle-with-bicomplex-port-hamiltonian-mechanics.bib)
+ 
 ## References
 - Allison, A., Pearce, C. E. M. & Abbott, D. A Variational Approach to the Analysis of Dissipative Electromechanical Systems. PLoS ONE vol. 9 e77190 (2014) -- [10.1371/journal.pone.0077190](https://doi.org/10.1371/journal.pone.0077190)
-- Novaes, M. Some basics of su(1,1). Revista Brasileira de Ensino de Física vol. 26 351–357 (2004) -- [10.1590/S1806-11172004000400008](https://doi.org/10.1590/S1806-11172004000400008)
+- Arnol’d, (1989)
+- Goldstein, (1980)
+- Marsden, (2002)
+- Novaes, M. Some basics of su(1,1). Revista Brasileira de Ensino de Física vol. 26 351–357 (2004) -- [10.1590/s1806-11172004000400008](https://doi.org/10.1590/s1806-11172004000400008)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Riewe, F. Mechanics with fractional derivatives. Physical Review E vol. 55 3581–3592 (1997) -- [10.1103/PhysRevE.55.3581](https://doi.org/10.1103/PhysRevE.55.3581)
-- Rim, D. (2015). An elementary proof that symplec-tic matrices have determinant one. arXiv e-prints, arXiv:1505.04240.
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Riewe, F. Mechanics with fractional derivatives. Physical Review E vol. 55 3581–3592 (1997) -- [10.1103/physreve.55.3581](https://doi.org/10.1103/physreve.55.3581)
+- Shankar, (1994)
+- Singer, (2001)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Van der Schaft, (2017)
 

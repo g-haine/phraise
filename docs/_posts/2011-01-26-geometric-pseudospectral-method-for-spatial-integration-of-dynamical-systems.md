@@ -41,21 +41,34 @@ A reduction method that preserves geometric structure and energetic properties o
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/geometric-pseudospectral-method-for-spatial-integration-of-dynamical-systems.bib)
+ 
 ## References
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/S0393-0440(01)00083-3](https://doi.org/10.1016/S0393-0440(01)00083-3)
+- Karnopp D., System Dynamics: Modeling and Simulation of Mechatronic Systems (2006)
+- Stramigioli S., Volume 266: Lecture Notes in Control and Information Science (2001)
+- Kugi A., Volume 260: Lecture Notes in Control and Information Science (2000)
+- Stramigioli S., Modeling and Control of Complex Physical Systems–The Port-Hamiltonian Approach (2009)
+- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
+- Macchelli A., Modeling and control of the Timoshenko beam : the distributed port Hamiltonian approach (2004)
+- Hamroun H., Port-based modelling for open channel irrigation systems (2006)
 - [Baaiu, A. et al. Port-based modelling of mass transport phenomena. Mathematical and Computer Modelling of Dynamical Systems vol. 15 233–254 (2009)](port-based-modelling-of-mass-transport-phenomena) -- [10.1080/13873950902808578](https://doi.org/10.1080/13873950902808578)
-- Franco, A.A., Schott, P., Jallut, C. and B.M. Maschke. Multi-scale bond graph model of the electrochemical dynamics in a fuel cell. Proceeding of the 5th MathMod Conference. Vienna.
-- Nishida, G., Takagi, K. and Maschke, B.M. Multiscale distributed port-Hamiltonian Êrepresentation of ionic polymer-metal composite (IPMC). Proceedings of IFAC World Congress 2008. July6–11, Seoul, Korea. pp.2300–2305. -- [10.3182/20080706-5-KR-1001.00388](https://doi.org/10.3182/20080706-5-KR-1001.00388)
+- Nishida, G., Takagi, K., Maschke, B. & Luo, Z. Multi-Scale Distributed Port-Hamiltonian Representation of Ionic Polymer-Metal Composite. IFAC Proceedings Volumes vol. 41 2300–2305 (2008) -- [10.3182/20080706-5-kr-1001.00388](https://doi.org/10.3182/20080706-5-kr-1001.00388)
+- Bossavit A., Computational Electromagnetism (1998)
 - Baaiu, A., Couenne, F., Lefevre, L., Le Gorrec, Y. & Tayakout, M. Structure-preserving infinite dimensional model reduction: Application to adsorption processes. Journal of Process Control vol. 19 394–404 (2009) -- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
-- Hamroun, H., Lefevre, L. and Mendes, E. Port-based modelling and geometric reduction for open channel irrigation systems. Proceedings of IEEE Conference on Decision and Control CDC’07. New Orleans, LA, USA.
-- Fornberg, B. A Practical Guide to Pseudospectral Methods. (1996) doi:10.1017/cbo9780511626357 -- [10.1017/CBO9780511626357](https://doi.org/10.1017/CBO9780511626357)
-- Ouarit, H., Lefèvre, L. and Georges, D. Robust optimal control of one-reach open-channels. Proceedings of European Control Conference ECC’2003. Cambridge, UK. -- [10.23919/ECC.2003.7085328](https://doi.org/10.23919/ECC.2003.7085328)
-- Courant, T.J. and Weinstein, A. 1988.Beyond Poisson structures, 39–49. Hermann, Paris: séminaire Sud-Rhodanien de geométrie, Travaux en cours 27.
-- Serre, D. Systems of Conservation Laws 1. (1999) doi:10.1017/cbo9780511612374 -- [10.1017/CBO9780511612374](https://doi.org/10.1017/CBO9780511612374)
+- Fornberg, B. A Practical Guide to Pseudospectral Methods. (1996) doi:10.1017/cbo9780511626357 -- [10.1017/cbo9780511626357](https://doi.org/10.1017/cbo9780511626357)
+- Ouarit, H., Lefevre, L. & Georges, D. Robust optimal control of one-reach open-channels. 2003 European Control Conference (ECC) 2413–2417 (2003) doi:10.23919/ecc.2003.7085328 -- [10.23919/ecc.2003.7085328](https://doi.org/10.23919/ecc.2003.7085328)
+- Maschke B., Lecture Notes on Control and Information Sciences (2005)
+- van der Schaft A.J., Archiv für Elektronik und Übertragungstechnik, (1995)
+- Abraham R., Foundations of Mechanics (1987)
+- Golo G., Interconnection structures in port-based modelling: tools for analysis and simulation (2002)
+- Serre, D. Systems of Conservation Laws 1. (1999) doi:10.1017/cbo9780511612374 -- [10.1017/cbo9780511612374](https://doi.org/10.1017/cbo9780511612374)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1993). doi:10.1007/978-1-4612-4350-2 -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
-- Le Gorrec, Y., Maschke, B.M., Zwart, H. and Villegas, J.A. Dissipative boundary control systems with application to distributed parameters reactors. Proceedings of IEEE International Conference on Control Applications. October4–6, Munich, Germany. pp.668–673.
+- Gorrec, Y., Maschke, B., Villegas, J. A. & Zwart, H. Dissipative boundary control systems with application to distributed parameters reactors. 2006 IEEE International Conference on Control Applications 668–673 (2006) doi:10.1109/cca.2006.285949 -- [10.1109/cca.2006.285949](https://doi.org/10.1109/cca.2006.285949)
 - Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.2307/2001258](https://doi.org/10.2307/2001258)
-- Lefèvre, L., Dochain, D., Feyo de Azevedo, S. & Magnus, A. Optimal selection of orthogonal polynomials applied to the integration of chemical reactor equations by collocation methods. Computers &amp; Chemical Engineering vol. 24 2571–2588 (2000) -- [10.1016/S0098-1354(00)00597-4](https://doi.org/10.1016/S0098-1354(00)00597-4)
+- Lefèvre, L., Dochain, D., Feyo de Azevedo, S. & Magnus, A. Optimal selection of orthogonal polynomials applied to the integration of chemical reactor equations by collocation methods. Computers &amp; Chemical Engineering vol. 24 2571–2588 (2000) -- [10.1016/s0098-1354(00)00597-4](https://doi.org/10.1016/s0098-1354(00)00597-4)
+- Dalsmo M., On representation and integrability of mathematical structures in energy-conserving physical systems, SIAM J. Control Optim. (2008)
+- Talasila V., Discrete port-Hamiltonian systems (2006)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- Brogliato B., Communications and Control Engineering Series (2007)
 

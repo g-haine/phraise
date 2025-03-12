@@ -35,3 +35,5 @@ The theory of port-Hamiltonian systems provides a framework for the geometric de
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-systems-an-introductory-survey.bib)
+ 

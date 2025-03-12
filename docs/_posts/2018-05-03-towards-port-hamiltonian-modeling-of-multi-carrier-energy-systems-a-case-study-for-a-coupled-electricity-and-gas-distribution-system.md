@@ -30,7 +30,7 @@ Modeling; Multi-Carrier Energy Systems; Port-Hamiltonian Systems; Bond Graphs
 - **Pages:** 463--468
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2018.03.078](https://doi.org/10.1016/j.ifacol.2018.03.078)
-- **Event:** 9th Vienna International Conference on Mathematical Modelling
+- **Note:** 9th Vienna International Conference on Mathematical Modelling
  
 ## BibTeX
 {% highlight bibtex %}
@@ -50,21 +50,25 @@ Modeling; Multi-Carrier Energy Systems; Port-Hamiltonian Systems; Bond Graphs
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/towards-port-hamiltonian-modeling-of-multi-carrier-energy-systems-a-case-study-for-a-coupled-electricity-and-gas-distribution-system.bib)
+ 
 ## References
-- Beattie, C., Mehrmann, V., Xu, H., and Zwart, H. (2017). Port-hamiltonian descriptor systems. arXiv preprint arXiv:1705.09081.
-- Cerbe, G. (2004). Grundlagen der Gastechnik: Gasbeschaf-fung, Gasverteilung, Gasverwendung. Carl Hanser Ver-lag, München Wien, 6 edition.
+- Arnold, Model-based predictive control applied to multi-carrier energy systems. In Proc. IEEE PES Gen. Meet (2009)
 - Gonzalez de Durana, J. M., Barambones, O., Kremers, E. & Varga, L. Agent based modeling of energy networks. Energy Conversion and Management vol. 82 308–319 (2014) -- [10.1016/j.enconman.2014.03.018](https://doi.org/10.1016/j.enconman.2014.03.018)
 - Dörfler, F. & Bullo, F. Synchronization and Transient Stability in Power Networks and Nonuniform Kuramoto Oscillators. SIAM Journal on Control and Optimization vol. 50 1616–1642 (2012) -- [10.1137/110851584](https://doi.org/10.1137/110851584)
+- Duindam, (2009)
 - [Fiaz, S., Zonetti, D., Ortega, R., Scherpen, J. M. A. & van der Schaft, A. J. A port-Hamiltonian approach to power network modeling and analysis. European Journal of Control vol. 19 477–485 (2013)](a-port-hamiltonian-approach-to-power-network-modeling-and-analysis) -- [10.1016/j.ejcon.2013.09.002](https://doi.org/10.1016/j.ejcon.2013.09.002)
-- Geidl, M. and Andersson, G. (2005). A modeling and optimization approach for multiple energy carrier power flow. In 2005 IEEE Power Tech, 1–7. IEEE. -- [10.1109/PTC.2005.4524640](https://doi.org/10.1109/PTC.2005.4524640)
-- Heuck, K., Dettmann, K.D., and Schulz, D. (2010). Elektrische Energieversorgung. Vieweg+Teubner, Wiesbaden. -- [10.1007/978-3-8348-9761-9](https://doi.org/10.1007/978-3-8348-9761-9)
-- Hohmann, S., Maaß, H., Mieth, C., Pfeifer, M., Wagner, D., and Wegner, F. (2017). Graph-theoretic model for observability in multi-carrier energy distribution networks. Computer Science-Research and Development.
+- Geidl, M. & Andersson, G. A modeling and optimization approach for multiple energy carrier power flow. 2005 IEEE Russia Power Tech 1–7 (2005) doi:10.1109/ptc.2005.4524640 -- [10.1109/ptc.2005.4524640](https://doi.org/10.1109/ptc.2005.4524640)
+- Hackl, Modellierung und Regelung von Windkraftanlagen. (2015)
+- Heuck, K., Dettmann, K.-D. & Schulz, D. Elektrische Energieversorgung. (Vieweg+Teubner, 2010). doi:10.1007/978-3-8348-9761-9 -- [10.1007/978-3-8348-9761-9](https://doi.org/10.1007/978-3-8348-9761-9)
 - Jansen, L. & Tischendorf, C. A Unified (P)DAE Modeling Approach for Flow Networks. Differential-Algebraic Equations Forum 127–151 (2014) doi:10.1007/978-3-662-44926-4_7 -- [10.1007/978-3-662-44926-4_7](https://doi.org/10.1007/978-3-662-44926-4_7)
+- Lurie, (2008)
 - Mancarella, P. MES (multi-energy systems): An overview of concepts and evaluation models. Energy vol. 65 1–17 (2014) -- [10.1016/j.energy.2013.10.041](https://doi.org/10.1016/j.energy.2013.10.041)
-- Martinez-Mares, A. & Fuerte-Esquivel, C. R. A Unified Gas and Power Flow Analysis in Natural Gas and Electricity Coupled Networks. IEEE Transactions on Power Systems vol. 27 2156–2166 (2012) -- [10.1109/TPWRS.2012.2191984](https://doi.org/10.1109/TPWRS.2012.2191984)
+- Martinez-Mares, A. & Fuerte-Esquivel, C. R. A Unified Gas and Power Flow Analysis in Natural Gas and Electricity Coupled Networks. IEEE Transactions on Power Systems vol. 27 2156–2166 (2012) -- [10.1109/tpwrs.2012.2191984](https://doi.org/10.1109/tpwrs.2012.2191984)
+- Núñez Hernández, Analysis of electrical networks using phasors: a bond graph approach. International Journal of Electrical, Robotics, Electronics and Communications Engineering (2014)
 - Rehtanz, C. Energie- und Informationsnetze. at - Automatisierungstechnik vol. 62 313–314 (2014) -- [10.1515/auto-2014-1097](https://doi.org/10.1515/auto-2014-1097)
-- Rüdiger, J. (2009). Gasnetzsimulation durch Potentialanalyse. Dissertation, Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg.
 - Schiffer, J. et al. A survey on modeling of microgrids—From fundamental physics to phasors and voltage sources. Automatica vol. 74 135–150 (2016) -- [10.1016/j.automatica.2016.07.036](https://doi.org/10.1016/j.automatica.2016.07.036)
+- Schulze, Optimization modeling in energy storage applied to a multi-carrier system. In Proc. IEEE PES Gen. Meet (2010)
 - SIRVENT, M., KANELAKIS, N., GEIßLER, B. & BISKAS, P. Linearized model for optimization of coupled electricity and natural gas systems. Journal of Modern Power Systems and Clean Energy vol. 5 364–374 (2017) -- [10.1007/s40565-017-0275-2](https://doi.org/10.1007/s40565-017-0275-2)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

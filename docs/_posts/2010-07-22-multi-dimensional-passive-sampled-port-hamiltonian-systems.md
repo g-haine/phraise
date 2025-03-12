@@ -21,7 +21,7 @@ Passivity of virtual environments running in discrete time is a sufficient condi
 - **Issue:** 
 - **Pages:** 1320--1326
 - **Publisher:** IEEE
-- **DOI:** [10.1109/ROBOT.2010.5509268](https://doi.org/10.1109/ROBOT.2010.5509268)
+- **DOI:** [10.1109/robot.2010.5509268](https://doi.org/10.1109/robot.2010.5509268)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,13 +38,22 @@ Passivity of virtual environments running in discrete time is a sufficient condi
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/multi-dimensional-passive-sampled-port-hamiltonian-systems.bib)
+ 
 ## References
-- Ryu, J.-H., Kwon, D.-S. & Hannaford, B. Stable Teleoperation With Time-Domain Passivity Control. IEEE Transactions on Robotics and Automation vol. 20 365–373 (2004) -- [10.1109/TRA.2004.824689](https://doi.org/10.1109/TRA.2004.824689)
-- Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. A novel theory for sampled data system passivity. IEEE/RSJ International Conference on Intelligent Robots and System vol. 2 1936–1941 -- [10.1109/IRDS.2002.1044039](https://doi.org/10.1109/IRDS.2002.1044039)
-- [Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Transactions on Robotics vol. 21 574–587 (2005)](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/TRO.2004.842330](https://doi.org/10.1109/TRO.2004.842330)
-- Franken, M., Stramigioli, S., Reilink, R., Secchi, C. & Macchelli, A. Bridging the gap between passivity and transparency. Robotics: Science and Systems V (2009) doi:10.15607/rss.2009.v.036 -- [10.15607/RSS.2009.V.036](https://doi.org/10.15607/RSS.2009.V.036)
-- Franken, M. & Stramigioli, S. Internal dissipation in passive sampled haptic feedback systems. 2009 IEEE/RSJ International Conference on Intelligent Robots and Systems 1755–1760 (2009) doi:10.1109/iros.2009.5353981 -- [10.1109/IROS.2009.5353981](https://doi.org/10.1109/IROS.2009.5353981)
-- Hayward, V. & Maclean, K. E. Do it yourself haptics: part I. IEEE Robotics &amp; Automation Magazine vol. 14 88–104 (2007) -- [10.1109/M-RA.2007.907921](https://doi.org/10.1109/M-RA.2007.907921)
-- Colgate, J. E. & Schenkel, G. Passivity of a class of sampled-data systems: application to haptic interfaces. Proceedings of 1994 American Control Conference - ACC ’94 vol. 3 3236–3240 -- [10.1109/ACC.1994.735172](https://doi.org/10.1109/ACC.1994.735172)
-- Mahvash, M. & Hayward, V. High-fidelity passive force-reflecting virtual environments. IEEE Transactions on Robotics vol. 21 38–46 (2005) -- [10.1109/TRO.2004.833819](https://doi.org/10.1109/TRO.2004.833819)
+- Freedom 6S Force Feedback Hand Controller. (2009)
+- paynter, Analysis and Design of Engineering Systems (1961)
+- Ryu, J.-H., Kwon, D.-S. & Hannaford, B. Stable Teleoperation With Time-Domain Passivity Control. IEEE Transactions on Robotics and Automation vol. 20 365–373 (2004) -- [10.1109/tra.2004.824689](https://doi.org/10.1109/tra.2004.824689)
+- secchi, Control of Interactive Robotic Interfaces ser Springer Tracts in Advanced Robotics (2006)
+- Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. A novel theory for sampled data system passivity. IEEE/RSJ International Conference on Intelligent Robots and System vol. 2 1936–1941 -- [10.1109/irds.2002.1044039](https://doi.org/10.1109/irds.2002.1044039)
+- [Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Transactions on Robotics vol. 21 574–587 (2005)](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/tro.2004.842330](https://doi.org/10.1109/tro.2004.842330)
+- Franken, M., Stramigioli, S., Reilink, R., Secchi, C. & Macchelli, A. Bridging the gap between passivity and transparency. Robotics: Science and Systems V (2009) doi:10.15607/rss.2009.v.036 -- [10.15607/rss.2009.v.036](https://doi.org/10.15607/rss.2009.v.036)
+- Franken, M. & Stramigioli, S. Internal dissipation in passive sampled haptic feedback systems. 2009 IEEE/RSJ International Conference on Intelligent Robots and Systems 1755–1760 (2009) doi:10.1109/iros.2009.5353981 -- [10.1109/iros.2009.5353981](https://doi.org/10.1109/iros.2009.5353981)
+- gillespie, Stable user-specific rendering of the virtual wall. Proc ASME Int Mechanical Eng Conf and Exposition (1996)
+- fung, Biomechanics Mechanical properties of living tissues (1993)
+- kim, Stable haptic interaction control using energy bounding algorithm. Proc IEEE/RSJ Int Conf Intelligent Robots and Systems (2004)
+- Hayward, V. & Maclean, K. E. Do it yourself haptics: part I. IEEE Robotics &amp; Automation Magazine vol. 14 88–104 (2007) -- [10.1109/m-ra.2007.907921](https://doi.org/10.1109/m-ra.2007.907921)
+- 20-sim version 4.1. (2009)
+- Colgate, J. E. & Schenkel, G. Passivity of a class of sampled-data systems: application to haptic interfaces. Proceedings of 1994 American Control Conference - ACC ’94 vol. 3 3236–3240 -- [10.1109/acc.1994.735172](https://doi.org/10.1109/acc.1994.735172)
+- Mahvash, M. & Hayward, V. High-fidelity passive force-reflecting virtual environments. IEEE Transactions on Robotics vol. 21 38–46 (2005) -- [10.1109/tro.2004.833819](https://doi.org/10.1109/tro.2004.833819)
 

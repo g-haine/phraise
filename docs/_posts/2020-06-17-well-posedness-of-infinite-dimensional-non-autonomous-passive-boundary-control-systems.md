@@ -41,3 +41,5 @@ We study a class of non-autonomous boundary control and observation linear syste
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/well-posedness-of-infinite-dimensional-non-autonomous-passive-boundary-control-systems.bib)
+ 

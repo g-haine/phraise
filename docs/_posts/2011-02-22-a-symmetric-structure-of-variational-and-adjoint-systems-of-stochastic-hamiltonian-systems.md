@@ -21,7 +21,7 @@ The authors have extended deterministic port-Hamiltonian systems into stochastic
 - **Issue:** 
 - **Pages:** 1423--1428
 - **Publisher:** IEEE
-- **DOI:** [10.1109/CDC.2010.5718033](https://doi.org/10.1109/CDC.2010.5718033)
+- **DOI:** [10.1109/cdc.2010.5718033](https://doi.org/10.1109/cdc.2010.5718033)
  
 ## BibTeX
 {% highlight bibtex %}
@@ -38,16 +38,25 @@ The authors have extended deterministic port-Hamiltonian systems into stochastic
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/a-symmetric-structure-of-variational-and-adjoint-systems-of-stochastic-hamiltonian-systems.bib)
+ 
 ## References
 - Yong, J. & Zhou, X. Y. Stochastic Controls. (Springer New York, 1999). doi:10.1007/978-1-4612-1466-3 -- [10.1007/978-1-4612-1466-3](https://doi.org/10.1007/978-1-4612-1466-3)
-- Fujimoto, K., Scherpen, J. M. A. & Gray, W. S. Hamiltonian realizations of nonlinear adjoint operators. Automatica vol. 38 1769–1775 (2002) -- [10.1016/S0005-1098(02)00079-1](https://doi.org/10.1016/S0005-1098(02)00079-1)
-- Kushner, H. J. On the stochastic maximum principle: Fixed time of control. Journal of Mathematical Analysis and Applications vol. 11 78–92 (1965) -- [10.1016/0022-247X(65)90070-3](https://doi.org/10.1016/0022-247X(65)90070-3)
+- Fujimoto, K., Scherpen, J. M. A. & Gray, W. S. Hamiltonian realizations of nonlinear adjoint operators. Automatica vol. 38 1769–1775 (2002) -- [10.1016/s0005-1098(02)00079-1](https://doi.org/10.1016/s0005-1098(02)00079-1)
+- øksendal, Stochastic differential equations, An introduction with applications. (1998)
+- Kushner, H. J. On the stochastic maximum principle: Fixed time of control. Journal of Mathematical Analysis and Applications vol. 11 78–92 (1965) -- [10.1016/0022-247x(65)90070-3](https://doi.org/10.1016/0022-247x(65)90070-3)
 - Peng, S. A General Stochastic Maximum Principle for Optimal Control Problems. SIAM Journal on Control and Optimization vol. 28 966–979 (1990) -- [10.1137/0328054](https://doi.org/10.1137/0328054)
 - Bismut, J.-M. An Introductory Approach to Duality in Optimal Stochastic Control. SIAM Review vol. 20 62–78 (1978) -- [10.1137/1020004](https://doi.org/10.1137/1020004)
-- Satoh, S., Fujimoto, K. & Hyon, S.-H. A framework for optimal gait generation via learning optimal control using virtual constraint. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems 3426–3432 (2008) doi:10.1109/iros.2008.4650860 -- [10.1109/IROS.2008.4650860](https://doi.org/10.1109/IROS.2008.4650860)
-- Fujimoto, K. & Sugie, T. Iterative learning control of hamiltonian systems: I/O based optimal control approach. IEEE Transactions on Automatic Control vol. 48 1756–1761 (2003) -- [10.1109/TAC.2003.817908](https://doi.org/10.1109/TAC.2003.817908)
+- karoui, Backward Stochastic Differential Equations. (1997)
+- satoh, Biped gait generation via iterative learning control including discrete state transitions. Proc 17th IFAC World Congress (2008)
+- Satoh, S., Fujimoto, K. & Hyon, S.-H. A framework for optimal gait generation via learning optimal control using virtual constraint. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems 3426–3432 (2008) doi:10.1109/iros.2008.4650860 -- [10.1109/iros.2008.4650860](https://doi.org/10.1109/iros.2008.4650860)
+- Fujimoto, K. & Sugie, T. Iterative learning control of hamiltonian systems: I/O based optimal control approach. IEEE Transactions on Automatic Control vol. 48 1756–1761 (2003) -- [10.1109/tac.2003.817908](https://doi.org/10.1109/tac.2003.817908)
+- van der schaft, Mathematical modeling of constrained Hamiltonian systems. Proc 3rd IFAC Symp Nonlinear Control Systems (1995)
+- ikeda, Stochastic differential equations and diffusion processes. (1989)
 - Arimoto, S., Kawamura, S. & Miyazaki, F. Bettering operation of Robots by learning. Journal of Robotic Systems vol. 1 123–140 (1984) -- [10.1002/rob.4620010203](https://doi.org/10.1002/rob.4620010203)
-- [Satoh, S. & Fujimoto, K. On passivity based control of stochastic port-Hamiltonian systems. 2008 47th IEEE Conference on Decision and Control 4951–4956 (2008) doi:10.1109/cdc.2008.4738733](on-passivity-based-control-of-stochastic-port-hamiltonian-systems) -- [10.1109/CDC.2008.4738733](https://doi.org/10.1109/CDC.2008.4738733)
-- Florchinger, P. A Passive System Approach to Feedback Stabilization of Nonlinear Control Stochastic Systems. SIAM Journal on Control and Optimization vol. 37 1848–1864 (1999) -- [10.1137/S0363012997317478](https://doi.org/10.1137/S0363012997317478)
-- Variational and Hamiltonian Control Systems. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1987). doi:10.1007/bfb0042858 -- [10.1007/BFb0042858](https://doi.org/10.1007/BFb0042858)
+- satoh, Stabilization of time-varying stochastic port-Hamiltonian systems based on stochastic passivity. Proc IFAC Symp Nonlinear Control Systems (2010)
+- [Satoh, S. & Fujimoto, K. On passivity based control of stochastic port-Hamiltonian systems. 2008 47th IEEE Conference on Decision and Control 4951–4956 (2008) doi:10.1109/cdc.2008.4738733](on-passivity-based-control-of-stochastic-port-hamiltonian-systems) -- [10.1109/cdc.2008.4738733](https://doi.org/10.1109/cdc.2008.4738733)
+- maschke, Port-controlled Hamiltonian systems: modelling origins and system theoretic properties. Proc 2nd IFAC Symp Nonlinear Control Systems (1992)
+- Florchinger, P. A Passive System Approach to Feedback Stabilization of Nonlinear Control Stochastic Systems. SIAM Journal on Control and Optimization vol. 37 1848–1864 (1999) -- [10.1137/s0363012997317478](https://doi.org/10.1137/s0363012997317478)
+- Variational and Hamiltonian Control Systems. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1987). doi:10.1007/bfb0042858 -- [10.1007/bfb0042858](https://doi.org/10.1007/bfb0042858)
 

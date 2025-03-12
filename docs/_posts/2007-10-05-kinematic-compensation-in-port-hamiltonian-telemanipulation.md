@@ -43,19 +43,21 @@ Elastic Element; Dirac Structure; Interconnection Structure; Remote Environment;
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/kinematic-compensation-in-port-hamiltonian-telemanipulation.bib)
+ 
 ## References
-- R. Anderson and M. Spong. Bilateral control of teleoperators with time delay. IEEE Transactions on Automatic Control, 34(5):494–501, 1989. -- [10.1109/9.24201](https://doi.org/10.1109/9.24201)
+- Anderson, R. J. & Spong, M. W. Bilateral control of teleoperators with time delay. IEEE Transactions on Automatic Control vol. 34 494–501 (1989) -- [10.1109/9.24201](https://doi.org/10.1109/9.24201)
 - P. Arcara and C. Melchiorri. Position drift compensation for a passivity-based telemanipulation control scheme. In Proceedings to Mechatronics Conference, Enschede, The Netherlands, June 2002.
-- N. Chopra, M.W. Spong, S. Hirche, and M. Buss. Bilateral teleoperation over the internet: the time varying delay problem. In Proceedings of American Control Conference, volume 1, Denver, Colorado, USA, June 2003. -- [10.1109/ACC.2003.1238930](https://doi.org/10.1109/ACC.2003.1238930)
-- D. Eberard, B. Maschke, and A.J. van der Schaft. Port contact systems for irreversible thermodynamical systems. In Proceedings of IEEE Conference on Decision and Control, Seville, Spain, December 2005. -- [10.1109/CDC.2005.1583118](https://doi.org/10.1109/CDC.2005.1583118)
+- Chopra, N., Spong, M. W., Hirche, S. & Buss, M. Bilateral teleoperation over the internet: the time varying delay problem. Proceedings of the 2003 American Control Conference, 2003. vol. 1 155–160 -- [10.1109/acc.2003.1238930](https://doi.org/10.1109/acc.2003.1238930)
+- Eberard, D., Maschke, B. M. & van der Schaft, A. J. Port contact systems for irreversible thermodynamical systems. Proceedings of the 44th IEEE Conference on Decision and Control 5977–5982 doi:10.1109/cdc.2005.1583118 -- [10.1109/cdc.2005.1583118](https://doi.org/10.1109/cdc.2005.1583118)
 - D. Eberard, B. Maschke, and A.J. van der Schaft. Energy conserving formulation of RLC-circuits with linear resistors. In Proceedings of the international symposium on mathematical theory of networks and systems, Kyoto, Japan, July 2006.
-- D. Lee and M.W. Spong. Passive bilateral control of teleoperators under constant time-delay. In Proceedings of IFAC world Congress, Prague, Czech Republic, July 2005. -- [10.3182/20050703-6-CZ-1902.01288](https://doi.org/10.3182/20050703-6-CZ-1902.01288)
-- G. Niemeyer and J. Slotine. Stable adaptive teleoperation. IEEE Journal of Oceanic Engineering, 16(1):152–162, 1991. -- [10.1109/48.64895](https://doi.org/10.1109/48.64895)
-- J.-J. Niemeyer, G. ans Slotine. Telemanipulation with Time Delays. International Journal of Robotics Research, 23(9):873–890, September 2004. -- [10.1177/0278364904045563](https://doi.org/10.1177/0278364904045563)
+- Lee, D. & Spong, M. W. PASSIVE BILATERAL CONTROL OF TELEOPERATORS UNDER CONSTANT TIME-DELAY. IFAC Proceedings Volumes vol. 38 109–114 (2005) -- [10.3182/20050703-6-cz-1902.01288](https://doi.org/10.3182/20050703-6-cz-1902.01288)
+- Niemeyer, G. & Slotine, J.-J. E. Stable adaptive teleoperation. IEEE Journal of Oceanic Engineering vol. 16 152–162 (1991) -- [10.1109/48.64895](https://doi.org/10.1109/48.64895)
+- Niemeyer, G. & Slotine, J.-J. E. Telemanipulation with Time Delays. The International Journal of Robotics Research vol. 23 873–890 (2004) -- [10.1177/0278364904045563](https://doi.org/10.1177/0278364904045563)
 - C. Secchi. Interactive Robotic Interfaces: a port-Hamiltonian Approach. PhD thesis, University of Modena and Reggio Emilia, 2004. available at http://www.dismi.unimore.it/download/thesis.pdf .
 - J.-J. Slotine and W. Li. Applied Nonlinear Control. Prentice Hall, 1991.
-- [S. Stramigioli, C. Secchi, A.J. van der Schaft, and C. Fantuzzi. Sampled data systems passivity and discrete port-hamiltonian systems. IEEE Transactions on Robotics, 21(4):574–587, 2005.](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/TRO.2004.842330](https://doi.org/10.1109/TRO.2004.842330)
-- S. Stramigioli, A. van der Schaft, B. Maschke, and C. Melchiorri. Geometric scattering in robotic telemanipulation. IEEE Transactions on Robotics and Automation, 18(4), 2002. -- [10.1109/TRA.2002.802200](https://doi.org/10.1109/TRA.2002.802200)
-- A.J. van der Schaft. L 2-Gain and Passivity Techniques in Nonlinear Control. Communication and Control Engineering. Springer Verlag, 2000. -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- Y. Yokokohji, T. Tsujioka, and T. Yoshikawa. Bilateral control with time-varying delay including communication blackout. In Proceedings of the 10th Symposyum on Haptic Interfaces for Virtual Environments and Teleoperator Systems, 2002. -- [10.1109/HAPTIC.2002.998970](https://doi.org/10.1109/HAPTIC.2002.998970)
+- [Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Transactions on Robotics vol. 21 574–587 (2005)](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/tro.2004.842330](https://doi.org/10.1109/tro.2004.842330)
+- [Stramigioli, S., van der Schaft, A., Maschke, B. & Melchiorri, C. Geometric scattering in robotic telemanipulation. IEEE Transactions on Robotics and Automation vol. 18 588–596 (2002)](geometric-scattering-in-robotic-telemanipulation) -- [10.1109/tra.2002.802200](https://doi.org/10.1109/tra.2002.802200)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Yokokohji, Y., Tsujioka, T. & Yoshikawa, T. Bilateral control with time-varying delay including communication blackout. Proceedings 10th Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems. HAPTICS 2002 285–292 doi:10.1109/haptic.2002.998970 -- [10.1109/haptic.2002.998970](https://doi.org/10.1109/haptic.2002.998970)
 

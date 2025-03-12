@@ -38,3 +38,5 @@ category: articles
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/correction-to-theory-and-implementation-of-coupled-port-hamiltonian-continuum-and-lumped-parameter-models.bib)
+ 

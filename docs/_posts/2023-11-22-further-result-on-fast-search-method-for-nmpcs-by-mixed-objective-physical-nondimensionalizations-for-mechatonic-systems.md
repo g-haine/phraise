@@ -29,7 +29,7 @@ nondimensionalization; nonlinear model predictive control; port-Hamiltonian mode
 - **Pages:** 7529--7535
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2023.10.652](https://doi.org/10.1016/j.ifacol.2023.10.652)
-- **Event:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
+- **Note:** 22nd IFAC World Congress- Yokohama, Japan, July 9-14, 2023
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,19 +49,32 @@ nondimensionalization; nonlinear model predictive control; port-Hamiltonian mode
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/further-result-on-fast-search-method-for-nmpcs-by-mixed-objective-physical-nondimensionalizations-for-mechatonic-systems.bib)
+ 
 ## References
 - Using a scale testbed: Controller design and evaluation. IEEE Control Systems vol. 21 15–26 (2001) -- [10.1109/37.924794](https://doi.org/10.1109/37.924794)
 - Siano, D. B. Orientational analysis, tensor analysis and the group properties of the SI supplementary units—II. Journal of the Franklin Institute vol. 320 285–302 (1985) -- [10.1016/0016-0032(85)90032-8](https://doi.org/10.1016/0016-0032(85)90032-8)
+- Buckingham, On physically similar systems. Physics review (1931)
 - Curtis, W. D., Logan, J. D. & Parker, W. A. Dimensional analysis and the pi theorem. Linear Algebra and its Applications vol. 47 117–126 (1982) -- [10.1016/0024-3795(82)90229-4](https://doi.org/10.1016/0024-3795(82)90229-4)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Ghanekar, M., Wang, D. W. L. & Heppler, G. R. Scaling laws for linear controllers of flexible link manipulators characterized by nondimensional groups. IEEE Transactions on Robotics and Automation vol. 13 117–127 (1997) -- [10.1109/70.554352](https://doi.org/10.1109/70.554352)
-- Heybroek, K. & Sjoberg, J. Model Predictive Control of a Hydraulic Multichamber Actuator: A Feasibility Study. IEEE/ASME Transactions on Mechatronics vol. 23 1393–1403 (2018) -- [10.1109/TMECH.2018.2823695](https://doi.org/10.1109/TMECH.2018.2823695)
-- Huang, J. et al. Model Predictive Trajectory Tracking Control of Electro-Hydraulic Actuator in Legged Robot With Multi-Scale Online Estimator. IEEE Access vol. 8 95918–95933 (2020) -- [10.1109/ACCESS.2020.2995701](https://doi.org/10.1109/ACCESS.2020.2995701)
+- Grabmair, Energy-based nonlinear control of hydraulically actuated mechanical systems. (2005)
+- Hailu, Use of dimensional analysis to reduce the parametric space for gain-scheduling. (2005)
+- Heybroek, K. & Sjoberg, J. Model Predictive Control of a Hydraulic Multichamber Actuator: A Feasibility Study. IEEE/ASME Transactions on Mechatronics vol. 23 1393–1403 (2018) -- [10.1109/tmech.2018.2823695](https://doi.org/10.1109/tmech.2018.2823695)
+- Huang, J. et al. Model Predictive Trajectory Tracking Control of Electro-Hydraulic Actuator in Legged Robot With Multi-Scale Online Estimator. IEEE Access vol. 8 95918–95933 (2020) -- [10.1109/access.2020.2995701](https://doi.org/10.1109/access.2020.2995701)
 - [Kugi, A. & Kemmetmüller, W. New Energy-based Nonlinear Controller for Hydraulic Piston Actuators. European Journal of Control vol. 10 163–173 (2004)](new-energy-based-nonlinear-controller-for-hydraulic-piston-actuators) -- [10.3166/ejc.10.163-173](https://doi.org/10.3166/ejc.10.163-173)
-- Mattila, J., Koivumaki, J., Caldwell, D. G. & Semini, C. A Survey on Control of Hydraulic Robotic Manipulators With Projection to Future Trends. IEEE/ASME Transactions on Mechatronics vol. 22 669–680 (2017) -- [10.1109/TMECH.2017.2668604](https://doi.org/10.1109/TMECH.2017.2668604)
-- Morari, M. & H. Lee, J. Model predictive control: past, present and future. Computers &amp; Chemical Engineering vol. 23 667–682 (1999) -- [10.1016/S0098-1354(98)00301-9](https://doi.org/10.1016/S0098-1354(98)00301-9)
-- Sakai, S., Osuka, K., Maekawa, T. & Umeda, M. Robust Control Systems of a Heavy Material Handling Agricultural Robot: A Case Study for Initial Cost Problem. IEEE Transactions on Control Systems Technology vol. 15 1038–1048 (2007) -- [10.1109/TCST.2007.899710](https://doi.org/10.1109/TCST.2007.899710)
-- Sakai, S. & Stramigioli, S. Visualization of Hydraulic Cylinder Dynamics by a Structure Preserving Nondimensionalization. IEEE/ASME Transactions on Mechatronics vol. 23 2196–2206 (2018) -- [10.1109/TMECH.2018.2854751](https://doi.org/10.1109/TMECH.2018.2854751)
-- Summers, S., Jones, C. N., Lygeros, J. & Morari, M. A Multiresolution Approximation Method for Fast Explicit Model Predictive Control. IEEE Transactions on Automatic Control vol. 56 2530–2541 (2011) -- [10.1109/TAC.2011.2146990](https://doi.org/10.1109/TAC.2011.2146990)
-- Wang, Y. & Boyd, S. Fast Model Predictive Control Using Online Optimization. IEEE Transactions on Control Systems Technology vol. 18 267–278 (2010) -- [10.1109/TCST.2009.2017934](https://doi.org/10.1109/TCST.2009.2017934)
+- Mattila, J., Koivumaki, J., Caldwell, D. G. & Semini, C. A Survey on Control of Hydraulic Robotic Manipulators With Projection to Future Trends. IEEE/ASME Transactions on Mechatronics vol. 22 669–680 (2017) -- [10.1109/tmech.2017.2668604](https://doi.org/10.1109/tmech.2017.2668604)
+- Morari, M. & H. Lee, J. Model predictive control: past, present and future. Computers &amp; Chemical Engineering vol. 23 667–682 (1999) -- [10.1016/s0098-1354(98)00301-9](https://doi.org/10.1016/s0098-1354(98)00301-9)
+- Nezu, (1993)
+- Ohtsuka, A continuation/GMRES method for fast computation of nonlinear receding horizon control. Auto-matica (2004)
+- Sakai, Fast computation by simplification of a class of hydro-mechanical system. (2012)
+- Sakai, Casimir based fast computation for hydraulic robot optimizations. (2013)
+- Sakai, A new method for parameter identification for n-dof hydraulic robots. (2014)
+- Sakai, S., Osuka, K., Maekawa, T. & Umeda, M. Robust Control Systems of a Heavy Material Handling Agricultural Robot: A Case Study for Initial Cost Problem. IEEE Transactions on Control Systems Technology vol. 15 1038–1048 (2007) -- [10.1109/tcst.2007.899710](https://doi.org/10.1109/tcst.2007.899710)
+- Sakai, Fast search method for stable nmpc by objective nondimensionalizations of mechatonic systems. (2022)
+- Sakai, S. & Stramigioli, S. Visualization of Hydraulic Cylinder Dynamics by a Structure Preserving Nondimensionalization. IEEE/ASME Transactions on Mechatronics vol. 23 2196–2206 (2018) -- [10.1109/tmech.2018.2854751](https://doi.org/10.1109/tmech.2018.2854751)
+- Summers, S., Jones, C. N., Lygeros, J. & Morari, M. A Multiresolution Approximation Method for Fast Explicit Model Predictive Control. IEEE Transactions on Automatic Control vol. 56 2530–2541 (2011) -- [10.1109/tac.2011.2146990](https://doi.org/10.1109/tac.2011.2146990)
+- van der Schaft, Port-Hamiltonian systems: an introductory survery. (2006)
+- Wang, Y. & Boyd, S. Fast Model Predictive Control Using Online Optimization. IEEE Transactions on Control Systems Technology vol. 18 267–278 (2010) -- [10.1109/tcst.2009.2017934](https://doi.org/10.1109/tcst.2009.2017934)
+- Zohuri, (2015)
 

@@ -38,13 +38,18 @@ Soft pneumatic actuators are very popular in the soft robotic community due to t
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/towards-more-energy-efficient-pneumatic-soft-actuators-using-a-port-hamiltonian-approach.bib)
+ 
 ## References
 - Wehner, M. et al. Pneumatic Energy Sources for Autonomous and Wearable Soft Robotics. Soft Robotics vol. 1 263–274 (2014) -- [10.1089/soro.2014.0018](https://doi.org/10.1089/soro.2014.0018)
 - Nemiroski, A. et al. Arthrobots. Soft Robotics vol. 4 183–190 (2017) -- [10.1089/soro.2016.0043](https://doi.org/10.1089/soro.2016.0043)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview-journal) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- Visser, L. C., Carloni, R. & Stramigioli, S. Energy-Efficient Variable Stiffness Actuators. IEEE Transactions on Robotics vol. 27 865–875 (2011) -- [10.1109/TRO.2011.2150430](https://doi.org/10.1109/TRO.2011.2150430)
-- Ross, D., Nemitz, M. P. & Stokes, A. A. Controlling and Simulating Soft Robotic Systems: Insights from a Thermodynamic Perspective. Soft Robotics vol. 3 170–176 (2016) -- [10.1089/soro.2016.0010](https://doi.org/10.1089/soro.2016.0010)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Visser, L. C., Carloni, R. & Stramigioli, S. Energy-Efficient Variable Stiffness Actuators. IEEE Transactions on Robotics vol. 27 865–875 (2011) -- [10.1109/tro.2011.2150430](https://doi.org/10.1109/tro.2011.2150430)
+- [Ross, D., Nemitz, M. P. & Stokes, A. A. Controlling and Simulating Soft Robotic Systems: Insights from a Thermodynamic Perspective. Soft Robotics vol. 3 170–176 (2016)](controlling-and-simulating-soft-robotic-systems-insights-from-a-thermodynamic-perspective) -- [10.1089/soro.2016.0010](https://doi.org/10.1089/soro.2016.0010)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
+- holman, Experimental Methods for Engineers (2001)
+- jmp, Guide to Experimental Designs (0)
+- Ecoflex 00-30 compared with ecoflex 00-50 (2018)
 - Connolly, F., Walsh, C. J. & Bertoldi, K. Automatic design of fiber-reinforced soft actuators for trajectory matching. Proceedings of the National Academy of Sciences vol. 114 51–56 (2016) -- [10.1073/pnas.1615140114](https://doi.org/10.1073/pnas.1615140114)
 - Shepherd, R. F. et al. Multigait soft robot. Proceedings of the National Academy of Sciences vol. 108 20400–20403 (2011) -- [10.1073/pnas.1116564108](https://doi.org/10.1073/pnas.1116564108)
 - Whitesides, G. M. Soft Robotics. Angewandte Chemie International Edition vol. 57 4258–4273 (2018) -- [10.1002/anie.201800907](https://doi.org/10.1002/anie.201800907)
@@ -54,10 +59,10 @@ Soft pneumatic actuators are very popular in the soft robotic community due to t
 - Wehner, M. et al. An integrated design and fabrication strategy for entirely soft, autonomous robots. Nature vol. 536 451–455 (2016) -- [10.1038/nature19100](https://doi.org/10.1038/nature19100)
 - Ilievski, F., Mazzeo, A. D., Shepherd, R. F., Chen, X. & Whitesides, G. M. Soft Robotics for Chemists. Angewandte Chemie vol. 123 1930–1935 (2011) -- [10.1002/ange.201006464](https://doi.org/10.1002/ange.201006464)
 - Rus, D. & Tolley, M. T. Design, fabrication and control of soft robots. Nature vol. 521 467–475 (2015) -- [10.1038/nature14543](https://doi.org/10.1038/nature14543)
-- Yi Sun, Yun Seong Song & Paik, J. Characterization of silicone rubber based soft pneumatic actuators. 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (2013) doi:10.1109/iros.2013.6696995 -- [10.1109/IROS.2013.6696995](https://doi.org/10.1109/IROS.2013.6696995)
-- Galloway, K. C., Polygerinos, P., Walsh, C. J. & Wood, R. J. Mechanically programmable bend radius for fiber-reinforced soft actuators. 2013 16th International Conference on Advanced Robotics (ICAR) 1–6 (2013) doi:10.1109/icar.2013.6766586 -- [10.1109/ICAR.2013.6766586](https://doi.org/10.1109/ICAR.2013.6766586)
-- Park, Y.-L., Santos, J., Galloway, K. G., Goldfield, E. C. & Wood, R. J. A soft wearable robotic device for active knee motions using flat pneumatic artificial muscles. 2014 IEEE International Conference on Robotics and Automation (ICRA) 4805–4810 (2014) doi:10.1109/icra.2014.6907562 -- [10.1109/ICRA.2014.6907562](https://doi.org/10.1109/ICRA.2014.6907562)
-- Wang, B., Aw, K. C., Biglari-Abhari, M. & McDaid, A. Design and fabrication of a fiber-reinforced pneumatic bending actuator. 2016 IEEE International Conference on Advanced Intelligent Mechatronics (AIM) 83–88 (2016) doi:10.1109/aim.2016.7576747 -- [10.1109/AIM.2016.7576747](https://doi.org/10.1109/AIM.2016.7576747)
+- Yi Sun, Yun Seong Song & Paik, J. Characterization of silicone rubber based soft pneumatic actuators. 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (2013) doi:10.1109/iros.2013.6696995 -- [10.1109/iros.2013.6696995](https://doi.org/10.1109/iros.2013.6696995)
+- Galloway, K. C., Polygerinos, P., Walsh, C. J. & Wood, R. J. Mechanically programmable bend radius for fiber-reinforced soft actuators. 2013 16th International Conference on Advanced Robotics (ICAR) 1–6 (2013) doi:10.1109/icar.2013.6766586 -- [10.1109/icar.2013.6766586](https://doi.org/10.1109/icar.2013.6766586)
+- Park, Y.-L., Santos, J., Galloway, K. G., Goldfield, E. C. & Wood, R. J. A soft wearable robotic device for active knee motions using flat pneumatic artificial muscles. 2014 IEEE International Conference on Robotics and Automation (ICRA) 4805–4810 (2014) doi:10.1109/icra.2014.6907562 -- [10.1109/icra.2014.6907562](https://doi.org/10.1109/icra.2014.6907562)
+- Wang, B., Aw, K. C., Biglari-Abhari, M. & McDaid, A. Design and fabrication of a fiber-reinforced pneumatic bending actuator. 2016 IEEE International Conference on Advanced Intelligent Mechatronics (AIM) 83–88 (2016) doi:10.1109/aim.2016.7576747 -- [10.1109/aim.2016.7576747](https://doi.org/10.1109/aim.2016.7576747)
 - Nakajima, K., Hauser, H., Li, T. & Pfeifer, R. Exploiting the Dynamics of Soft Materials for Machine Learning. Soft Robotics vol. 5 339–347 (2018) -- [10.1089/soro.2017.0075](https://doi.org/10.1089/soro.2017.0075)
 - [Macchelli, A. & Melchiorri, C. Control by Interconnection and Energy Shaping of the Timoshenko Beam. Mathematical and Computer Modelling of Dynamical Systems vol. 10 231–251 (2004)](control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam) -- [10.1080/13873950412331335243](https://doi.org/10.1080/13873950412331335243)
 

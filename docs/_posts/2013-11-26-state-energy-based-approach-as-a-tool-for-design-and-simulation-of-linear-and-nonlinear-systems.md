@@ -48,3 +48,5 @@ Chaoticity; Conservativity; Convergence; Dissipativity; Port Hamiltonian; Stabil
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/state-energy-based-approach-as-a-tool-for-design-and-simulation-of-linear-and-nonlinear-systems.bib)
+ 

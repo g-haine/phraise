@@ -29,7 +29,7 @@ Passivity based control; quaternions; aerospace systems
 - **Pages:** 39--44
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.ifacol.2015.10.211](https://doi.org/10.1016/j.ifacol.2015.10.211)
-- **Event:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
+- **Note:** 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2015- Lyon, France, 4–7 July 2015
  
 ## BibTeX
 {% highlight bibtex %}
@@ -49,24 +49,26 @@ Passivity based control; quaternions; aerospace systems
 {% endraw %}
 {% endhighlight %}
  
+[Download the bib file]({{ site.baseurl }}/assets/bib/on-port-hamiltonian-modeling-and-control-of-quaternion-systems.bib)
+ 
 ## References
 - Arimoto, S. (1996). Control Theory of Non-linear Me-chanical Systems: Passivity-based and Circuit-theoretic Approach. Clarendon Press, Oxford.
 - Dirksz, D.A. and Scherpen, J.M.A. (2010). Adaptive tracking control of fully actuated port-Hamiltonian me- chanical systems. In Proc. IEEE Conf. on Control Applications, 1678-1683.
-- [Duindam, V. and Stramigioli, S. (2004). Port-based asymptotic curve tracking for mechanical systems. European Journal of Control, 10(5), 411-420.](port-based-asymptotic-curve-tracking-for-mechanical-systems) -- [10.3166/ejc.10.411-420](https://doi.org/10.3166/ejc.10.411-420)
-- Fujimoto, K. and Nishiyama, T. (2014). On trajectroy tracking control of port-hamiltonian systems with quaternions. In Proc. 53rd IEEE Conf. on Decision and Control, 4820-4825. -- [10.1109/CDC.2014.7040141](https://doi.org/10.1109/CDC.2014.7040141)
-- Fujimoto, K., Sakurama, K., and Sugie, T. (2003). Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica, 39(12), 2059-2069. -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- Fujimoto, K., Sakurama, K., and Sugie, T. (2004). Trajectory tracking control of nonholonomic Hamiltonian systems via generalized canonical transformations. European Journal of Control, 10(5), 421-431. -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
-- Fujimoto, K. and Sugie, T. (2001). Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters, 42(3), 217-227. -- [10.1016/S0167-6911(00)00091-8](https://doi.org/10.1016/S0167-6911(00)00091-8)
+- [Duindam, V. & Stramigioli, S. Port-Based Asymptotic Curve Tracking for Mechanical Systems. European Journal of Control vol. 10 411–420 (2004)](port-based-asymptotic-curve-tracking-for-mechanical-systems) -- [10.3166/ejc.10.411-420](https://doi.org/10.3166/ejc.10.411-420)
+- Fujimoto, K. & Nishiyama, T. On trajectory tracking control of port-Hamiltonian systems with quaternions. 53rd IEEE Conference on Decision and Control 4820–4825 (2014) doi:10.1109/cdc.2014.7040141 -- [10.1109/cdc.2014.7040141](https://doi.org/10.1109/cdc.2014.7040141)
+- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control vol. 10 421–431 (2004) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Golo, G., Talasila, V., van der Schaft, A.J., and Maschke, B.M. (2005). Hamiltonian discretization of boundary control systems. Automatica, 40(7), 757-771.
 - Hughes, P.C. (1986). Spacecraft Atitude Dynamics. Wiley, New York.
-- Jeltsema, D. and Scherpen, J. (2009). Multi-domain modeling of nonlinear networks and systems: energyand power-based perspectives. IEEE Control Systems Magazine, (8), 28-59. -- [10.1109/MCS.2009.932927](https://doi.org/10.1109/MCS.2009.932927)
-- Joshi, S.M., Kelkar, A.G., and Wen, J.T.Y. (2014). Robust attitude stabilization of spacecraft using nonlinear quaternion feedback. IEEE Trans. Autom. Contr., 40(10), 1800-1803. -- [10.1109/9.467669](https://doi.org/10.1109/9.467669)
+- Multidomain modeling of nonlinear networks and systems. IEEE Control Systems vol. 29 28–59 (2009) -- [10.1109/mcs.2009.932927](https://doi.org/10.1109/mcs.2009.932927)
+- Joshi, S. M., Kelkar, A. G. & Wen, J. T.-Y. Robust attitude stabilization of spacecraft using nonlinear quaternion feedback. IEEE Transactions on Automatic Control vol. 40 1800–1803 (1995) -- [10.1109/9.467669](https://doi.org/10.1109/9.467669)
 - Kuipers, J.B. (2002). Quaternions and Rotation Sequence: A Primer with Application to Orbits, Aerospace, and Virtual Relity. Princeton University Press, Princeton.
-- Ortega, R., Loría, A., Nicklasson, P.J., and Sira-Rmírez, H. (1998). Passivity-based Control of Euler-Lagrange Systems. Springer-Verlag, London. -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
-- [Ortega, R., van der Schaft, A.J., Maschke, B.M.J., and Escobar, G. (2002). Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica, 38(4), 585-596.](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/S0005-1098(01)00278-3](https://doi.org/10.1016/S0005-1098(01)00278-3)
-- [Taniguchi, M. and Fujimoto, K. (2009). Time-varying path following control for port-hamiltonian systems. In Proc. 48th IEEE Conf. on Decision and Control, 3323-3328.](time-varying-path-following-control-for-port-hamiltonian-systems) -- [10.1109/CDC.2009.5400011](https://doi.org/10.1109/CDC.2009.5400011)
-- van der Schaft, A.J. (2000). L2-Gain and Passivity Techniques in Nonlinear Control. Springer-Verlag, London. -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- Wie, B. (2008). Space Vehicle Dynamics and Control. AIAA, Reston, 2nd edition. -- [10.2514/4.860119](https://doi.org/10.2514/4.860119)
-- Wie, B. and Barba, P.M. (1985). Quaternion feedback for spacecraft large angle maneuvers. Journal of Guidance, Control, and Dynamics, 8(3), 360-365. -- [10.2514/3.19988](https://doi.org/10.2514/3.19988)
-- Zenkov, D.V., Bloch, A.M., and Marsden, J.E. (2003). Controlled lagrangian methods and tracking of accelerated motions. In Proc. 42nd IEEE Conf. on Decision and Control, 533-538. -- [10.1109/CDC.2003.1272618](https://doi.org/10.1109/CDC.2003.1272618)
+- Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- [Taniguchi, M. & Fujimoto, K. Time-varying path following control for port-Hamiltonian systems. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 3323–3328 (2009) doi:10.1109/cdc.2009.5400011](time-varying-path-following-control-for-port-hamiltonian-systems) -- [10.1109/cdc.2009.5400011](https://doi.org/10.1109/cdc.2009.5400011)
+- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Wie, B. Space Vehicle Dynamics and Control, Second Edition. (2008) doi:10.2514/4.860119 -- [10.2514/4.860119](https://doi.org/10.2514/4.860119)
+- Wie, B. & Barba, P. M. Quaternion feedback for spacecraft large angle maneuvers. Journal of Guidance, Control, and Dynamics vol. 8 360–365 (1985) -- [10.2514/3.19988](https://doi.org/10.2514/3.19988)
+- Zenkov, D. V., Bloch, A. M. & Marsden, J. E. Controlled lagrangian methods and tracking of accelerated motions. 42nd IEEE International Conference on Decision and Control (IEEE Cat. No.03CH37475) vol. 1 533–538 -- [10.1109/cdc.2003.1272618](https://doi.org/10.1109/cdc.2003.1272618)
 
