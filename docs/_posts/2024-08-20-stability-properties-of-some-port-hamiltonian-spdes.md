@@ -61,7 +61,7 @@ We examine the existence and uniqueness of invariant measures of a class of stoc
 - Peszat, S. & Zabczyk, J. Stochastic Partial Differential Equations with Levy Noise. (2007) doi:10.1017/cbo9780511721373 -- [10.1017/cbo9780511721373](https://doi.org/10.1017/cbo9780511721373)
 - Prüss J.. J. Prüss and M. Wilke, Gewöhnliche Differentialgleichungen Und Dynamische Systeme, Birkhäuser, Basel, 2010. (2010)
 - van der Schaft A.. A. van der Schaft, Port-Hamiltonian Systems: An Introductory Survey, European Mathematical Society (EMS), Zürich, 2006, pp. 1339–1365. ISBN: 978-3-03719-022-7. (2006)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - O. van Gaans Invariant measures for stochastic evolution equations with Hilbert space valued Lévy noise preprint (2005) Available at https://www.math.leidenuniv.nl/vangaans/gaansrep1.pdf.
 - Villani, C. Optimal Transport. Grundlehren der mathematischen Wissenschaften (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-540-71050-9 -- [10.1007/978-3-540-71050-9](https://doi.org/10.1007/978-3-540-71050-9)
 

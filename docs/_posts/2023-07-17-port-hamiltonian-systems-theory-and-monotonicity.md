@@ -43,7 +43,7 @@ category: articles
 ## References
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - van der Schaft A. J., -Gain and Passivity Techniques in Nonlinear Control, Communications and Control Engineering (2017)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - Desoer, C. A. & Vidyasagar, M. Feedback Systems. (2009) doi:10.1137/1.9780898719055 -- [10.1137/1.9780898719055](https://doi.org/10.1137/1.9780898719055)
 - Parikh N., Proximal Algorithms (2013)
 - Brézis H., Operateurs Maximaux Monotones (1973)

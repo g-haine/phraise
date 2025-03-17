@@ -42,7 +42,7 @@ Port-Hamiltonian systems with two external ports are studied, together with the 
  
 ## References
 - van der Schaft, A. Cyclo-Dissipativity Revisited. IEEE Transactions on Automatic Control vol. 66 2920–2924 (2021) -- [10.1109/tac.2020.3013941](https://doi.org/10.1109/tac.2020.3013941)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - van der schaft, Limits to Energy Conversion. IEEE Trans Aut Contr (2021)
 - Mueller-Roemer, C. & Caines, P. E. An Isothermal Energy Function State Space Model of a Stirling Engine. IFAC-PapersOnLine vol. 48 634–639 (2015) -- [10.1016/j.ifacol.2015.09.258](https://doi.org/10.1016/j.ifacol.2015.09.258)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)

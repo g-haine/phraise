@@ -76,7 +76,7 @@ As the crucial interface of renewable energy integration, the stable operation o
 - Zonetti. arXiv:2101.05047 (2021)
 - Weaver, W. W., Robinett, R. D., Wilson, D. G. & Matthews, R. C. Metastability of Pulse Power Loads Using the Hamiltonian Surface Shaping Method. IEEE Transactions on Energy Conversion vol. 32 820–828 (2017) -- [10.1109/tec.2017.2652980](https://doi.org/10.1109/tec.2017.2652980)
 - Bravo, M., Garces, A., Montoya, O. D. & Baier, C. R. Nonlinear Analysis for the Three-Phase PLL: A New Look for a Classical Problem. 2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL) 1–6 (2018) doi:10.1109/compel.2018.8460081 -- [10.1109/compel.2018.8460081](https://doi.org/10.1109/compel.2018.8460081)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - Golestan, S., Guerrero, J. M. & Vasquez, J. C. Three-Phase PLLs: A Review of Recent Advances. IEEE Transactions on Power Electronics vol. 32 1894–1907 (2017) -- [10.1109/tpel.2016.2565642](https://doi.org/10.1109/tpel.2016.2565642)
 - Khalil. Noninear System (1996)
 - Khan, O., Acharya, S., Al Hosani, M. & El Moursi, M. S. Hill Climbing Power Flow Algorithm for Hybrid DC/AC Microgrids. IEEE Transactions on Power Electronics vol. 33 5532–5537 (2018) -- [10.1109/tpel.2017.2779238](https://doi.org/10.1109/tpel.2017.2779238)

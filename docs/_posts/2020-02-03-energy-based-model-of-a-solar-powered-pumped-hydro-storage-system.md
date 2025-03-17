@@ -54,7 +54,7 @@ This document presents a port-Hamiltonian model of a pumped-hydro storage system
 - wright, Estudio del potencial solar en Costa Rica. Uniciencia (2009)
 - Paish, O. Small hydro power: technology and current status. Renewable and Sustainable Energy Reviews vol. 6 537–556 (2002) -- [10.1016/s1364-0321(02)00006-0](https://doi.org/10.1016/s1364-0321(02)00006-0)
 - Bueno, C. & Carta, J. A. Wind powered pumped hydro storage systems, a means of increasing the penetration of renewable energy in the Canary Islands. Renewable and Sustainable Energy Reviews vol. 10 312–340 (2006) -- [10.1016/j.rser.2004.09.005](https://doi.org/10.1016/j.rser.2004.09.005)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - marshall, Costa Rica bids to go carbon neutral. United Kingdom (2008)
 - brackett, For 300 Days Costa Rica Generated Electricity from Renewable Sources Alone (2018)

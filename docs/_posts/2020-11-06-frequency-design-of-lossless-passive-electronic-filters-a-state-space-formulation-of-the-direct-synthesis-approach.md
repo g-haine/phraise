@@ -49,7 +49,7 @@ This paper deals with the frequency design of lossless passive electronic filter
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 42 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - van der schaft, Port-Hamiltonian Systems A Theory for Modeling Simulation and Control of Complex Physical Systems (2003)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - van der schaft, Port-Hamiltonian Differential-Algebraic Systems (2013)
 - anderson, Network Analysis and Synthesis A Modern Systems Theory Approach (1973)
 - [Montoya, O. D., Gil-Gonzalez, W. & Serra, F. M. PBC Approach for SMES Devices in Electric Distribution Networks. IEEE Transactions on Circuits and Systems II: Express Briefs vol. 65 2003–2007 (2018)](pbc-approach-for-smes-devices-in-electric-distribution-networks) -- [10.1109/tcsii.2018.2805774](https://doi.org/10.1109/tcsii.2018.2805774)

@@ -75,5 +75,5 @@ We study a class of models for nonlinear acoustics, including the well‐known W
 - From Finite to Infinite Dimensional Dynamical Systems. NATO Science Series II: Mathematics, Physics and Chemistry (Springer Netherlands, 2001). doi:10.1007/978-94-010-0732-0 -- [10.1007/978-94-010-0732-0](https://doi.org/10.1007/978-94-010-0732-0)
 - Qin, Y. Analytic Inequalities and Their Applications in PDEs. Operator Theory: Advances and Applications (Springer International Publishing, 2017). doi:10.1007/978-3-319-00831-8 -- [10.1007/978-3-319-00831-8](https://doi.org/10.1007/978-3-319-00831-8)
 - [Egger, H. Structure preserving approximation of dissipative evolution problems. Numerische Mathematik vol. 143 85–106 (2019)](structure-preserving-approximation-of-dissipative-evolution-problems) -- [10.1007/s00211-019-01050-w](https://doi.org/10.1007/s00211-019-01050-w)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 

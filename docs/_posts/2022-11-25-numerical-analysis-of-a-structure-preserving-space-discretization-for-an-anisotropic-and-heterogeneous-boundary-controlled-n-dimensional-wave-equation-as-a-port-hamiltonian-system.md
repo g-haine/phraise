@@ -26,7 +26,7 @@ The anisotropic and heterogeneous N-dimensional wave equation, controlled and ob
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Ghislain_Haine_2023,
+@article{Haine_2023,
   title={{Numerical Analysis of a Structure-Preserving Space-Discretization for an Anisotropic and Heterogeneous Boundary Controlled $N$-Dimensional Wave Equation as a Port-Hamiltonian System}},
   volume={20},
   ISSN={1705-5105},
@@ -34,7 +34,7 @@ The anisotropic and heterogeneous N-dimensional wave equation, controlled and ob
   number={1},
   journal={International Journal of Numerical Analysis and Modeling},
   publisher={Global Science Press},
-  author={Ghislain Haine, Ghislain Haine and Denis Matignon, Denis Matignon and Anass Serhani, Anass Serhani},
+  author={Haine, Ghislain and Matignon, Denis and Serhani, Anass},
   year={2023},
   pages={92--133}
 }

@@ -86,7 +86,7 @@ In this article, a passivity-based virtual oscillator control strategy with enha
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Zhong, Q. Power Electronics‐Enabled Autonomous Power Systems. (2020) doi:10.1002/9781118803516 -- [10.1002/9781118803516](https://doi.org/10.1002/9781118803516)
 - Fu, X. et al. Large-Signal Stability of Grid-Forming and Grid-Following Controls in Voltage Source Converter: A Comparative Study. IEEE Transactions on Power Electronics vol. 36 7832–7840 (2021) -- [10.1109/tpel.2020.3047480](https://doi.org/10.1109/tpel.2020.3047480)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - Pan, D., Wang, X., Liu, F. & Shi, R. Transient Stability of Voltage-Source Converters With Grid-Forming Control: A Design-Oriented Study. IEEE Journal of Emerging and Selected Topics in Power Electronics vol. 8 1019–1033 (2020) -- [10.1109/jestpe.2019.2946310](https://doi.org/10.1109/jestpe.2019.2946310)
 - khalil, Nonlinear Systems (2002)
 

@@ -66,7 +66,7 @@ category: articles
 - Sch M.. 1889–1896 (2010)
 - [Cardoso-Ribeiro, F. L., Matignon, D. & Pommier-Budinger, V. A port-Hamiltonian model of liquid sloshing in moving containers and application to a fluid-structure system. Journal of Fluids and Structures vol. 69 402–427 (2017)](a-port-hamiltonian-model-of-liquid-sloshing-in-moving-containers-and-application-to-a-fluid-structure-system) -- [10.1016/j.jfluidstructs.2016.12.007](https://doi.org/10.1016/j.jfluidstructs.2016.12.007)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
-- van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877 -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. (2014) doi:10.1561/9781601987877](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1986). doi:10.1007/978-1-4684-0274-2 -- [10.1007/978-1-4684-0274-2](https://doi.org/10.1007/978-1-4684-0274-2)
 - Bird R.B.. Introductory Transport Phenomena (2015)
 - P. M. Gresho and R. L. Sani, Incompressible Flow and the Finite Element Method, Volume 1: Advection-Diffusion and Isothermal Laminar Flow, John Wiley & Sons, Inc,  New York, USA, 1998.
