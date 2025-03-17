@@ -31,7 +31,7 @@ The metadata is retrieved using a hierarchical approach using the following APIs
 
 Currently, **only metadata and abstracts** are collected: **full texts are not included**.
 
-The resulting database is [available for download]({{ site.baseurl }}/assets/data/bilbio.json) (a JSON file).
+The resulting database is [available for download]({{ site.baseurl }}/assets/data/biblio.json) (a JSON file).
 
 ### **Handling Author's names**
 The [Author pages]({{ site.baseurl }}/authors/) need a management to take care of the different ways an author can appear in a publication. This can be a source of errors, so please do not hesitate to suggest corrections. You may want to take a look at [the array managing name variations]({{ site.baseurl }}/assets/data/author_mappings.json) (a JSON file).
