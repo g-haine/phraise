@@ -229,7 +229,7 @@ create_markdown_post () {
     fi
 
     echo "## Citation" >> "$output_md"
-    if echo $type_ref | grep -q "book"; then
+    if echo $type_ref | grep -q "book\|monograph"; then
         echo "- **ISBN:** $(echo "$data" | jq -r .isbn)" >> "$output_md"
     else
         echo "- **Journal:** $(echo "$data" | jq -r .journal)" >> "$output_md"

@@ -15,11 +15,7 @@ category: books
 The authors explain in this work a new approach to observing and controlling linear systems whose inputs and outputs are not fixed in advance. They cover a class of linear time-invariant state/signal system that is general enough to include most of the standard classes of linear time-invariant dynamical systems, but simple enough that it is easy to understand the fundamental principles. They begin by explaining the basic theory of finite-dimensional and bounded systems in a way suitable for graduate courses in systems theory and control. They then proceed to the more advanced infinite-dimensional setting, opening up new ways for researchers to study distributed parameter systems, including linear port-Hamiltonian systems and boundary triplets. They include the general non-passive part of the theory in continuous and discrete time, and provide a short introduction to the passive situation. Numerous examples from circuit theory are used to illustrate the theory.
  
 ## Citation
-- **Journal:** null
-- **Year:** 2022
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **ISBN:** 9781009024921
 - **Publisher:** Cambridge University Press
 - **DOI:** [10.1017/9781009024921](https://doi.org/10.1017/9781009024921)
  

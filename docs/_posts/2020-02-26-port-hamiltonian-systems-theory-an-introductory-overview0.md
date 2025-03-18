@@ -12,11 +12,7 @@ category: books
 [Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
  
 ## Citation
-- **Journal:** null
-- **Year:** 2014
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **ISBN:** 9781601987877
 - **Publisher:** now Publishers Inc
 - **DOI:** [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
  
