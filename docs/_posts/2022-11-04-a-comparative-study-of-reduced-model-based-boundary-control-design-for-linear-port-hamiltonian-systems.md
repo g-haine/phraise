@@ -55,7 +55,7 @@ Infinite dimensional system; port-Hamiltonian systems; passivity-based control; 
  
 ## References
 - [Brugnoli, A., Alazard, D., Pommier-Budinger, V. & Matignon, D. Port-Hamiltonian formulation and symplectic discretization of plate models Part II: Kirchhoff model for thin plates. Applied Mathematical Modelling vol. 75 961–981 (2019)](port-hamiltonian-formulation-and-symplectic-discretization-of-plate-models-part-ii-kirchhoff-model-for-thin-plates) -- [10.1016/j.apm.2019.04.036](https://doi.org/10.1016/j.apm.2019.04.036)
-- [Cardoso-Ribeiro, F. L., Matignon, D. & Lefèvre, L. A structure-preserving Partitioned Finite Element Method for the 2D wave equation ⁎ ⁎This work is supported by the project ANR-16-CE92-0028, entitled Interconnected Infinite-Dimensional systems for Heterogeneous Media, INFIDHEM, financed by the French National Research Agency (ANR). Further information is available at https://websites.isae-supaero.fr/infidhem/the-project/. IFAC-PapersOnLine vol. 51 119–124 (2018)](a-structure-preserving-partitioned-finite-element-method-for-the-2d-wave-equation) -- [10.1016/j.ifacol.2018.06.033](https://doi.org/10.1016/j.ifacol.2018.06.033)
+- [Cardoso-Ribeiro, F. L., Matignon, D. & Lefèvre, L. A structure-preserving Partitioned Finite Element Method for the 2D wave equation. IFAC-PapersOnLine vol. 51 119–124 (2018)](a-structure-preserving-partitioned-finite-element-method-for-the-2d-wave-equation) -- [10.1016/j.ifacol.2018.06.033](https://doi.org/10.1016/j.ifacol.2018.06.033)
 - Cook, (2007)
 - Duindam, (2009)
 - Golo, Hamiltonian discretization of boundary control systems. Auto-matica (2004)

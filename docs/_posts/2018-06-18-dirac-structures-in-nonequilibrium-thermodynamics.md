@@ -38,7 +38,7 @@ Nonequilibrium thermodynamics; Dirac structures; nonlinear nonholonomic constrai
 {% highlight bibtex %}
 {% raw %}
 @article{Yoshimura_2018,
-  title={{Dirac structures in nonequilibrium thermodynamics ⁎ ⁎H.Y. is partially supported by JSPS Grant-in-Aid for Scientific Research (26400408, 16KT0024, 24224004), Waseda University Grant for Special Research Project (2017K-167), and the MEXT “Top Global University Project”; F.G.B. is partially supported by the ANR project GEOMFLUID, ANR-14-CE23-0002-01.}},
+  title={{Dirac structures in nonequilibrium thermodynamics}},
   volume={51},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2018.06.009},

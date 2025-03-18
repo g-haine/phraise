@@ -65,7 +65,7 @@ Piston problem; port-Hamiltonian system; Dirac structure; free boundary; non-lin
 - Duindam, (2009)
 - Kurula, M., Zwart, H., van der Schaft, A. & Behrndt, J. Dirac structures and their composition on Hilbert spaces. Journal of Mathematical Analysis and Applications vol. 372 402–422 (2010) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
 - Le Gorrec, (2004)
-- [Lequeurre, J. & Tucsnak, M. The piston problem in a port-Hamiltonian formalism∗∗This work is supported by the ANR HAMECMOPSYS. IFAC-PapersOnLine vol. 48 212–216 (2015)](the-piston-problem-in-a-port-hamiltonian-formalism) -- [10.1016/j.ifacol.2015.10.241](https://doi.org/10.1016/j.ifacol.2015.10.241)
+- [Lequeurre, J. & Tucsnak, M. The piston problem in a port-Hamiltonian formalism. IFAC-PapersOnLine vol. 48 212–216 (2015)](the-piston-problem-in-a-port-hamiltonian-formalism) -- [10.1016/j.ifacol.2015.10.241](https://doi.org/10.1016/j.ifacol.2015.10.241)
 - Maity, D., Takahashi, T. & Tucsnak, M. Analysis of a system modelling the motion of a piston in a viscous gas. Journal of Mathematical Fluid Mechanics vol. 19 551–579 (2016) -- [10.1007/s00021-016-0293-2](https://doi.org/10.1007/s00021-016-0293-2)
 - Malinen, J., Staffans, O. & Weiss, G. When is a linear system conservative? Quarterly of Applied Mathematics vol. 64 61–91 (2006) -- [10.1090/s0033-569x-06-00994-7](https://doi.org/10.1090/s0033-569x-06-00994-7)
 - Ndanou, S., Favrie, N. & Gavrilyuk, S. The piston problem in hyperelasticity with the stored energy in separable form. Mathematics and Mechanics of Solids vol. 22 101–113 (2016) -- [10.1177/1081286514566707](https://doi.org/10.1177/1081286514566707)

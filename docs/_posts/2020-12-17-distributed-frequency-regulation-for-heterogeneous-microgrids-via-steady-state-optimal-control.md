@@ -42,7 +42,7 @@ In this paper, we present a model-based frequency controller for microgrids with
  
 ## References
 - boldea, Synchronous generators. The electric generators handbook (2006)
-- Jouini, T., Arghir, C. & Dörfler, F. Grid-Friendly Matching of Synchronous Machines by Tapping into the DC Storage**This research is supported by ETH funds and the SNF Assistant Professor Energy Grant #160573. IFAC-PapersOnLine vol. 49 192–197 (2016) -- [10.1016/j.ifacol.2016.10.395](https://doi.org/10.1016/j.ifacol.2016.10.395)
+- Jouini, T., Arghir, C. & Dörfler, F. Grid-Friendly Matching of Synchronous Machines by Tapping into the DC Storage. IFAC-PapersOnLine vol. 49 192–197 (2016) -- [10.1016/j.ifacol.2016.10.395](https://doi.org/10.1016/j.ifacol.2016.10.395)
 - beattie, Port-Hamiltonian descriptor systems. ArXiv e-prints (2017)
 - van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Trip, S., Bürger, M. & De Persis, C. An internal model approach to (optimal) frequency regulation in power grids with time-varying voltages. Automatica vol. 64 240–253 (2016) -- [10.1016/j.automatica.2015.11.021](https://doi.org/10.1016/j.automatica.2015.11.021)
