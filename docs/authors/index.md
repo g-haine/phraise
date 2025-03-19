@@ -605,6 +605,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/nishant-kumar'>Nishant Kumar</a>
 <a href='{{ site.baseurl }}/authors/peter-kunkel'>Peter Kunkel</a>
 <a href='{{ site.baseurl }}/authors/t-kunkel'>T Kunkel</a>
+<a href='{{ site.baseurl }}/authors/julian-kunze'>Julian Kunze</a>
 <a href='{{ site.baseurl }}/authors/mikael-kurula'>Mikael Kurula</a>
 <a href='{{ site.baseurl }}/authors/badam-singh-kushvah'>Badam Singh Kushvah</a>
 <a href='{{ site.baseurl }}/authors/rostyslav-ivan-kuzyk'>Rostyslav-Ivan Kuzyk</a>
@@ -790,6 +791,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/hans-z-munthe-kaas'>Hans Z. Munthe-Kaas</a>
 <a href='{{ site.baseurl }}/authors/riccardo-muradore'>Riccardo Muradore</a>
 <a href='{{ site.baseurl }}/authors/george-mylonas'>George Mylonas</a>
+<a href='{{ site.baseurl }}/authors/thulasi-mylvaganam'>Thulasi Mylvaganam</a>
 </div>
 ## N
 <div class='grid'>
@@ -981,6 +983,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/valerie-dos-santos'>Valérie Dos Santos</a>
 <a href='{{ site.baseurl }}/authors/arijit-sarkar'>Arijit Sarkar</a>
 <a href='{{ site.baseurl }}/authors/ioannis-sarras'>Ioannis Sarras</a>
+<a href='{{ site.baseurl }}/authors/mario-sassano'>Mario Sassano</a>
 <a href='{{ site.baseurl }}/authors/kazuhiro-sato'>Kazuhiro Sato</a>
 <a href='{{ site.baseurl }}/authors/satoshi-satoh'>Satoshi Satoh</a>
 <a href='{{ site.baseurl }}/authors/kohei-sawada'>Kohei Sawada</a>
@@ -1233,6 +1236,7 @@ permalink: /authors/
 ## X
 <div class='grid'>
 <a href='{{ site.baseurl }}/authors/ji-xiang'>Ji Xiang</a>
+<a href='{{ site.baseurl }}/authors/haibo-xie'>Haibo Xie</a>
 <a href='{{ site.baseurl }}/authors/hongguo-xu'>Hongguo Xu</a>
 <a href='{{ site.baseurl }}/authors/kangli-xu'>Kangli Xu</a>
 <a href='{{ site.baseurl }}/authors/liang-xu'>Liang Xu</a>
@@ -1302,6 +1306,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/xin-zhang'>Xin Zhang</a>
 <a href='{{ site.baseurl }}/authors/xinyi-zhang'>Xinyi Zhang</a>
 <a href='{{ site.baseurl }}/authors/yajun-zhang'>Yajun Zhang</a>
+<a href='{{ site.baseurl }}/authors/yi-zhang'>Yi Zhang</a>
 <a href='{{ site.baseurl }}/authors/ying-zhang'>Ying Zhang</a>
 <a href='{{ site.baseurl }}/authors/yufeng-zhang'>Yufeng Zhang</a>
 <a href='{{ site.baseurl }}/authors/zhenkai-zhang'>Zhenkai Zhang</a>

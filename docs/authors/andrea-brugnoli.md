@@ -5,6 +5,7 @@ permalink: /authors/andrea-brugnoli
 ---
 
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Andrea Brugnoli, Ramy Rashad, Yi Zhang, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-element-hybridization-of-port-hamiltonian-systems">Finite element hybridization of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- A. Brugnoli, V. Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-discrete-equivalence-of-lagrangian-hamiltonian-and-mixed-finite-element-formulations-for-linear-wave-phenomena">On the discrete equivalence of Lagrangian, Hamiltonian and mixed finite element formulations for linear wave phenomena</a></h3></li>
 <li><span class='post-meta'>2023 -- Andrea Brugnoli, Ghislain Haine, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/stokes-dirac-structures-for-distributed-parameter-port-hamiltonian-systems-an-analytical-viewpoint">Stokes-Dirac structures for distributed parameter port-Hamiltonian systems: An analytical viewpoint</a></h3></li>
 <li><span class='post-meta'>2022 -- Andrea Brugnoli, Ghislain Haine, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/explicit-structure-preserving-discretization-of-port-hamiltonian-systems-with-mixed-boundary-control">Explicit structure-preserving discretization of port-Hamiltonian systems with mixed boundary control</a></h3></li>

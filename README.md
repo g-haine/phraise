@@ -17,10 +17,9 @@ You need API keys for Scopus and Springer.
 - 2- ./setAuthorMapping.sh
 - 3- Correction of biblio.json entries <-> ./setAuthorMapping.sh
 - 4- Add new name variations or new entry to author_mappings.json
-- 5- Concatenate biblio.json with the old one (the backup is done at assets/data/biblio-{date}.json)
-- 6- Concatenate newDOI.txt within DOI.txt, then newDOI.txt should be freed
-- 7- ./setPosts.sh (potential need for another correction of biblio.json entries)
-- 8- ./setPages.sh (potential need for another correction of biblio.json entries)
-- 9- bundle exec jekyll serve --watch (for verification of the building process, last corrections)
-- 10- commit & push !
-- 11- verify if it deploys correctly on github pages
+- 5- ./concatenate.sh
+- 6- ./setPosts.sh (potential need for another correction of biblio.json entries)
+- 7- ./setPages.sh (potential need for another correction of biblio.json entries)
+- 8- bundle exec jekyll serve --watch (for verification of the building process, last corrections)
+- 9- commit & push !
+- 10- verify if it deploys correctly on github pages

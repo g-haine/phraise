@@ -5,6 +5,7 @@ permalink: /authors/stefano-stramigioli
 ---
 
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Andrea Brugnoli, Ramy Rashad, Yi Zhang, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-element-hybridization-of-port-hamiltonian-systems">Finite element hybridization of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Ramy Rashad, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/the-port-hamiltonian-structure-of-continuum-mechanics">The Port-Hamiltonian Structure of Continuum Mechanics</a></h3></li>
 <li><span class='post-meta'>2024 -- Riccardo Zanella, Alessandro Macchelli, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/learning-the-optimal-energy-based-control-strategy-for-port-hamiltonian-systems">Learning the Optimal Energy-based Control Strategy for Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2022 -- Andrea Brugnoli, Ramy Rashad, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/dual-field-structure-preserving-discretization-of-port-hamiltonian-systems-using-finite-element-exterior-calculus">Dual field structure-preserving discretization of port-Hamiltonian systems using finite element exterior calculus</a></h3></li>

@@ -4,7 +4,9 @@ title: Search
 permalink: /search/
 ---
 
-This search tool filters publications with your entries. Click "Search" to start.
+This search tool filters publications based on your input. Click 'Search' to begin.
+
+*Please note that the first search may take a moment, as the database is quite large!*
 
 <input type="text" id="search-input" placeholder="Search by title, author, year, abstract, keyword, event, journal, DOI...">
 <button id="search-button">Search</button>

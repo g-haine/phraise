@@ -5,6 +5,7 @@ permalink: /authors/ramy-rashad
 ---
 
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Andrea Brugnoli, Ramy Rashad, Yi Zhang, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-element-hybridization-of-port-hamiltonian-systems">Finite element hybridization of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Ramy Rashad, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/the-port-hamiltonian-structure-of-continuum-mechanics">The Port-Hamiltonian Structure of Continuum Mechanics</a></h3></li>
 <li><span class='post-meta'>2022 -- Andrea Brugnoli, Ramy Rashad, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/dual-field-structure-preserving-discretization-of-port-hamiltonian-systems-using-finite-element-exterior-calculus">Dual field structure-preserving discretization of port-Hamiltonian systems using finite element exterior calculus</a></h3></li>
 <li><span class='post-meta'>2022 -- Federico Califano, Ramy Rashad, Frederic P. Schuller, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/energetic-decomposition-of-distributed-systems-with-moving-material-domains-the-port-hamiltonian-model-of-fluid-structure-interaction">Energetic decomposition of distributed systems with moving material domains: The port-Hamiltonian model of fluid-structure interaction</a></h3></li>
