@@ -123,6 +123,7 @@ for author in "${!authors[@]}"; do
     
     # Normaliser le dernier mot en ASCII
     normalized_last_name=$(echo "$last_name" | iconv -f UTF-8 -t ASCII//TRANSLIT | sed -E "
+        s/d'//;
         s/Ü/U/;
         s/Ç/C/;
         s/Š/S/;
@@ -133,7 +134,7 @@ for author in "${!authors[@]}"; do
         s/Ø/O/;
         s/Æ/A/;
         s/Œ/OE/")
-        
+    
     sorted_pairs+=("$normalized_last_name	$author")  # Tabulation pour séparer proprement
 done
 

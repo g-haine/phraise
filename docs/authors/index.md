@@ -41,6 +41,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/william-tadeo-amin'>William Tadeo Amin</a>
 <a href='{{ site.baseurl }}/authors/farid-amirouche'>Farid Amirouche</a>
 <a href='{{ site.baseurl }}/authors/mikhail-s-ananyevskiy'>Mikhail S. Ananyevskiy</a>
+<a href='{{ site.baseurl }}/authors/brigitte-d-andrea-novel'>Brigitte d’Andréa-Novel</a>
 <a href='{{ site.baseurl }}/authors/e-garcia-torano-andres'>E García-Toraño Andrés</a>
 <a href='{{ site.baseurl }}/authors/lisa-andresen'>Lisa Andresen</a>
 <a href='{{ site.baseurl }}/authors/cristian-h-de-angelo'>Cristian H. De Angelo</a>
@@ -1340,8 +1341,4 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/jelle-zult'>Jelle Zult</a>
 <a href='{{ site.baseurl }}/authors/hans-zwart'>Hans Zwart</a>
 <a href='{{ site.baseurl }}/authors/tom-zwerschke'>Tom Zwerschke</a>
-</div>
-## D
-<div class='grid'>
-<a href='{{ site.baseurl }}/authors/brigitte-d-andrea-novel'>Brigitte d’Andréa-Novel</a>
 </div>
