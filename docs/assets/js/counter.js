@@ -6,4 +6,7 @@ fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
 .then(res => res.json())
 .then(data => {
   document.getElementById("hit-counter").innerText = `Visits: ${data.value}`;
+.catch(err => {
+  console.error("Hit counter error:", err);
+  document.getElementById("hit-counter").innerText = `Visits: unavailable`;
 });
