@@ -26,8 +26,6 @@
           {%- endif %}
         </ul>
       {%- endif %}
-      <br />
-      <div id="hit-counter" class="odometer">Visits: <span id="visits-digits"></span></div>
       </div>
       <div class="footer-col">
         <p id="logos">
@@ -51,5 +49,8 @@
 <!-- Scroll to top button -->
 <script src="/phraise/assets/js/scroll-to-top.js"></script>
 <!-- Counter views -->
-{% include counter-js.html %}
+<script data-goatcounter="https://ghaine.goatcounter.com/count"
+        data-goatcounter-settings='{"path": "/{% if page.permalink %}{{ page.permalink | remove: "/" }}{% else %}home{% endif %}"}'
+        async src="https://gc.zgo.at/count.js"></script>
+
 </footer>
