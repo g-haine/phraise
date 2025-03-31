@@ -1,0 +1,21 @@
+<script>
+  const namespace = "phraise";
+  const key = "{{ page.url | slugify }}"; // Jekyll will process this per page
+
+  fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
+    .then(res => res.json())
+    .then(data => {
+      const counter = document.getElementById("hit-counter");
+      if (counter) {
+        counter.innerText = `Visits: ${data.value}`;
+      }
+    })
+    .catch(err => {
+      console.error("Hit counter error:", err);
+      const counter = document.getElementById("hit-counter");
+      if (counter) {
+        counter.innerText = "Visits: unavailable";
+      }
+    });
+</script>
+
