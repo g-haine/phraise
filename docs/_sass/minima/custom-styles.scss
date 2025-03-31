@@ -103,6 +103,45 @@ figure.highlight > button:hover {
   text-align: center;
 }
 
+.digit-container {
+  display: inline-block;
+  height: 1em;
+  overflow: hidden;
+  position: relative;
+  width: 0.6em;
+  animation: rollDigit 1s ease-out forwards;
+}
+
+.digit-container .digit {
+  display: block;
+  height: 1em;
+  line-height: 1em;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1em;
+}
+
+@keyframes rollDigit {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(calc(var(--final-digit) * -1em));
+  }
+}
+
+.comma {
+  display: inline-block;
+  width: 0.3em;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1em;
+}
+
+.contact-list {
+  text-align: center;
+}
+
 .tags-list a {
   margin-right: 0.5em;
   opacity: 0.75;

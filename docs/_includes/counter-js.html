@@ -1,13 +1,50 @@
 <script>
   const namespace = "phraise";
-  const key = "{{ page.url | slugify }}"; // Jekyll will process this per page
+  const key = "{{ page.url | slugify }}";
+
+  function createDigitElement(finalDigit) {
+    const container = document.createElement("span");
+    container.className = "digit-container";
+
+    for (let i = 0; i <= 9; i++) {
+      const digit = document.createElement("span");
+      digit.className = "digit";
+      digit.innerText = i;
+      container.appendChild(digit);
+    }
+
+    container.style.setProperty('--final-digit', finalDigit);
+    return container;
+  }
+
+  function createCommaElement() {
+    const comma = document.createElement("span");
+    comma.className = "comma";
+    comma.innerText = ",";
+    return comma;
+  }
+
+  function renderRollingNumber(value, container) {
+    container.innerHTML = ""; // Clear existing content
+
+    const digits = value.toString().split("").reverse(); // Right to left
+    let count = 0;
+
+    digits.forEach((char, index) => {
+      if (count && count % 3 === 0) {
+        container.prepend(createCommaElement());
+      }
+      container.prepend(createDigitElement(parseInt(char)));
+      count++;
+    });
+  }
 
   fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
     .then(res => res.json())
     .then(data => {
-      const counter = document.getElementById("hit-counter");
-      if (counter) {
-        counter.innerText = `Visits: ${data.value}`;
+      const digitsContainer = document.getElementById("visits-digits");
+      if (digitsContainer) {
+        renderRollingNumber(data.value, digitsContainer);
       }
     })
     .catch(err => {
