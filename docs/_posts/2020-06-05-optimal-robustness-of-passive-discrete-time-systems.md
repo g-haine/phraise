@@ -51,7 +51,7 @@ We study different representations of a given rational transfer function that re
 - Boyd, S., El Ghaoui, L., Feron, E. & Balakrishnan, V. Linear Matrix Inequalities in System and Control Theory. (1994) doi:10.1137/1.9781611970777 -- [10.1137/1.9781611970777](https://doi.org/10.1137/1.9781611970777)
 - Byers, Symplectic, BVD, and palindromic eigenvalue problems and their relation to discrete-time control problems. Collection of Papers Dedicated to the 60-th Anniversary of Mihail Konstantinov (2009)
 - Freiling, G., Mehrmann, V. & Xu, H. Existence, Uniqueness, and Parametrization of Lagrangian Invariant Subspaces. SIAM Journal on Matrix Analysis and Applications vol. 23 1045–1069 (2002) -- [10.1137/s0895479800377228](https://doi.org/10.1137/s0895479800377228)
-- Gillis, N., Mehrmann, V. & Sharma, P. Computing the nearest stable matrix pairs. Numerical Linear Algebra with Applications vol. 25 (2018) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
+- [Gillis, N., Mehrmann, V. & Sharma, P. Computing the nearest stable matrix pairs. Numerical Linear Algebra with Applications vol. 25 (2018)](computing-the-nearest-stable-matrix-pairs) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
 - Gillis, N. & Sharma, P. On computing the distance to stability for matrices using linear dissipative Hamiltonian systems. Automatica vol. 85 113–121 (2017) -- [10.1016/j.automatica.2017.07.047](https://doi.org/10.1016/j.automatica.2017.07.047)
 - Higham, N. J. Computing the Polar Decomposition—with Applications. SIAM Journal on Scientific and Statistical Computing vol. 7 1160–1174 (1986) -- [10.1137/0907079](https://doi.org/10.1137/0907079)
 - Kotyczka, Discrete-time port-Hamiltonian systems based on Gauss–Legendre collocation. Syst. Control Lett.

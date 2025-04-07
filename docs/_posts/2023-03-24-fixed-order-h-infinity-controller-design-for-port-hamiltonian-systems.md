@@ -79,7 +79,7 @@ Port-Hamiltonian systems; Large-scale systems; Robust control; H-infinity contro
 - Khalil, (2002)
 - Kunkel, (2006)
 - Leibfritz, (2004)
-- Mehl, C., Mehrmann, V. & Wojtylak, M. Distance problems for dissipative Hamiltonian systems and related matrix polynomials. Linear Algebra and its Applications vol. 623 335–366 (2021) -- [10.1016/j.laa.2020.05.026](https://doi.org/10.1016/j.laa.2020.05.026)
+- [Mehl, C., Mehrmann, V. & Wojtylak, M. Distance problems for dissipative Hamiltonian systems and related matrix polynomials. Linear Algebra and its Applications vol. 623 335–366 (2021)](distance-problems-for-dissipative-hamiltonian-systems-and-related-matrix-polynomials) -- [10.1016/j.laa.2020.05.026](https://doi.org/10.1016/j.laa.2020.05.026)
 - [Mehrmann, V., Morandin, R., Olmi, S. & Schöll, E. Qualitative stability and synchronicity analysis of power network models in port-Hamiltonian form. Chaos: An Interdisciplinary Journal of Nonlinear Science vol. 28 (2018)](qualitative-stability-and-synchronicity-analysis-of-power-network-models-in-port-hamiltonian-form) -- [10.1063/1.5054850](https://doi.org/10.1063/1.5054850)
 - [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica vol. 32 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)
 - Mitchell, T. & Overton, M. L. Fixed Low-Order Controller Design and H∞Optimization for Large-Scale Dynamical Systems. IFAC-PapersOnLine vol. 48 25–30 (2015) -- [10.1016/j.ifacol.2015.09.428](https://doi.org/10.1016/j.ifacol.2015.09.428)

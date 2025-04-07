@@ -61,7 +61,7 @@ Port-Hamiltonian system; Differential-algebraic equation; Descriptor system; Dis
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-discrete-time-dissipative-port-hamiltonian-descriptor-systems.bib)
  
 ## References
-- Achleitner, F., Arnold, A. & Mehrmann, V. Hypocoercivity and hypocontractivity concepts for linear dynamical systems. The Electronic Journal of Linear Algebra vol. 39 33–61 (2023) -- [10.13001/ela.2023.7531](https://doi.org/10.13001/ela.2023.7531)
+- [Achleitner, F., Arnold, A. & Mehrmann, V. Hypocoercivity and hypocontractivity concepts for linear dynamical systems. The Electronic Journal of Linear Algebra vol. 39 33–61 (2023)](hypocoercivity-and-hypocontractivity-concepts-for-linear-dynamical-systems) -- [10.13001/ela.2023.7531](https://doi.org/10.13001/ela.2023.7531)
 - CHUANG, K. A Study of State Spaces and Conditional Probability Distributions of a Class of Distributed Parameter Stochastic Systems. International Journal of Control vol. 5 171–177 (1967) -- [10.1080/00207176708921753](https://doi.org/10.1080/00207176708921753)
 - Bankmann, D. & Voigt, M. On linear-quadratic optimal control of implicit difference equations. IMA Journal of Mathematical Control and Information vol. 36 779–833 (2018) -- [10.1093/imamci/dny007](https://doi.org/10.1093/imamci/dny007)
 - [Beattie, C. A., Mehrmann, V. & Van Dooren, P. Robust port-Hamiltonian representations of passive systems. Automatica vol. 100 182–186 (2019)](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)

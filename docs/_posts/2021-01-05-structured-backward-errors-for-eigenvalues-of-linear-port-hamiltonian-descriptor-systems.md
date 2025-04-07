@@ -54,7 +54,7 @@ When computing the eigenstructure of matrix pencils associated with the passivit
 - Dopico, F. M., Lawrence, P. W., Pérez, J. & Dooren, P. V. Block Kronecker linearizations of matrix polynomials and their backward errors. Numerische Mathematik vol. 140 373–426 (2018) -- [10.1007/s00211-018-0969-z](https://doi.org/10.1007/s00211-018-0969-z)
 - Du N. H., Berlin (2013)
 - Freund, R. W. & Jarre, F. An extension of the positive real lemma to descriptor systems. Optimization Methods and Software vol. 19 69–87 (2004) -- [10.1080/10556780410001654232](https://doi.org/10.1080/10556780410001654232)
-- Gillis, N., Mehrmann, V. & Sharma, P. Computing the nearest stable matrix pairs. Numerical Linear Algebra with Applications vol. 25 (2018) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
+- [Gillis, N., Mehrmann, V. & Sharma, P. Computing the nearest stable matrix pairs. Numerical Linear Algebra with Applications vol. 25 (2018)](computing-the-nearest-stable-matrix-pairs) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
 - Gillis, N. & Sharma, P. On computing the distance to stability for matrices using linear dissipative Hamiltonian systems. Automatica vol. 85 113–121 (2017) -- [10.1016/j.automatica.2017.07.047](https://doi.org/10.1016/j.automatica.2017.07.047)
 - Gillis N., SIAM J. Matrix Anal. Appl. (2018)
 - Grivet-Talocia, S. Passivity Enforcement via Perturbation of Hamiltonian Matrices. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 51 1755–1769 (2004) -- [10.1109/tcsi.2004.834527](https://doi.org/10.1109/tcsi.2004.834527)

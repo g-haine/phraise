@@ -219,7 +219,7 @@ while IFS= read -r doi; do
 
     if [[ "$status" == "ok" ]]; then
         # Récupère les data
-        title=$(echo "$response" | jq -r '.message.title // [""] | .[0]')
+        title=$(echo "$response" | jq -r '.message.title // [""] | .[0]' | sed -E 's/<[^>]*mml[^>]*>//g' | sed -E 's/"/\\"/g')
         authors=$(echo "$response" | jq -r '.message.author')
         type=$(echo "$response" | jq -r '.message.type // ""')
         abstract=$(echo "$response" | jq -r '.message.abstract // ""')
@@ -259,7 +259,7 @@ while IFS= read -r doi; do
                         (if .["journal-title"] then .["journal-title"] else empty end),
                         (if .["volume-title"] then .["volume-title"] else empty end),
                         (if .year then "(" + (.year|tostring) + ")" else empty end)
-                    ] | map(select(. != "")) | join(" ")' | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
+                    ] | map(select(. != "")) | join(" ")' | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
             fi
             references+='{"doi": "'$d_ref'", "title": "'$ti_ref'"},'
         done < <(echo "$response" | jq -c '.message.reference[]' 2>/dev/null)
@@ -281,7 +281,7 @@ while IFS= read -r doi; do
             json_scopus=$(fetch_metadata_scopus "$doi")
             abstract=$(abstract_from_scopus "$json_scopus")
             keywords=$(keywords_from_scopus "$json_scopus")
-            event=$(event_from_scopus "$json_scopus" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
+            event=$(event_from_scopus "$json_scopus" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
         fi
         
         # Update si springer
@@ -289,7 +289,7 @@ while IFS= read -r doi; do
             json_springer=$(fetch_metadata_springer "$doi")
             abstract=$(abstract_from_springer "$json_springer")
             keywords=$(keywords_from_springer "$json_springer")
-            event=$(event_from_springer "$json_springer" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
+            event=$(event_from_springer "$json_springer" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
         fi
         
         # Complement pour l'abstract
@@ -299,7 +299,7 @@ while IFS= read -r doi; do
         fi
 
         # Nettoyage de l'abstract
-        abstract=$(echo $abstract | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g')
+        abstract=$(echo $abstract | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g' | sed -E 's/summary//Ig' | sed -E 's/abstract//Ig')
         
         if [ "$first" = true ]; then
             first=false

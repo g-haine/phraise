@@ -53,7 +53,7 @@ We construct optimally robust port-Hamiltonian realizations of a given rational 
 - Coelho C., New Orleans (1999)
 - Freiling, G., Mehrmann, V. & Xu, H. Existence, Uniqueness, and Parametrization of Lagrangian Invariant Subspaces. SIAM Journal on Matrix Analysis and Applications vol. 23 1045–1069 (2002) -- [10.1137/s0895479800377228](https://doi.org/10.1137/s0895479800377228)
 - Freund, R. W. & Jarre, F. An extension of the positive real lemma to descriptor systems. Optimization Methods and Software vol. 19 69–87 (2004) -- [10.1080/10556780410001654232](https://doi.org/10.1080/10556780410001654232)
-- Gillis, N., Mehrmann, V. & Sharma, P. Computing the nearest stable matrix pairs. Numerical Linear Algebra with Applications vol. 25 (2018) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
+- [Gillis, N., Mehrmann, V. & Sharma, P. Computing the nearest stable matrix pairs. Numerical Linear Algebra with Applications vol. 25 (2018)](computing-the-nearest-stable-matrix-pairs) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
 - Gillis, N. & Sharma, P. On computing the distance to stability for matrices using linear dissipative Hamiltonian systems. Automatica vol. 85 113–121 (2017) -- [10.1016/j.automatica.2017.07.047](https://doi.org/10.1016/j.automatica.2017.07.047)
 - Grivet-Talocia, S. Passivity Enforcement via Perturbation of Hamiltonian Matrices. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 51 1755–1769 (2004) -- [10.1109/tcsi.2004.834527](https://doi.org/10.1109/tcsi.2004.834527)
 - Gustavsen, B. & Semlyen, A. Enforcing passivity for admittance matrices approximated by rational functions. IEEE Transactions on Power Systems vol. 16 97–104 (2001) -- [10.1109/59.910786](https://doi.org/10.1109/59.910786)

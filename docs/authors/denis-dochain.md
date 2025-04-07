@@ -5,6 +5,7 @@ permalink: /authors/denis-dochain
 ---
 
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- N. Ha Hoang, Denis Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-contact-hamiltonian-functions-of-conservative-contact-systems">On the contact Hamiltonian functions of conservative contact systems</a></h3></li>
 <li><span class='post-meta'>2022 -- N.H. Hoang, T.S. Nguyen, T.K.P. Le, T.T.H. Phan, M.A. Hussain, D. Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-for-nonlinear-systems-using-extended-quadratic-port-hamiltonian-models-without-input-and-state-coordinate-transformations">Trajectory tracking for nonlinear systems using extended quadratic port-Hamiltonian models without input and state coordinate transformations</a></h3></li>
 <li><span class='post-meta'>2020 -- Jacques Kadima Kazaku, Denis Dochain, Joseph Winkin, Moïse Mukepe Kahilu, Jimmy Kalenga Kaunde Kasongo</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-sliding-mode-observer-design-for-a-counter-current-heat-exchanger">Port-Hamiltonian Sliding Mode Observer Design for a Counter-current Heat Exchanger</a></h3></li>
 <li><span class='post-meta'>2018 -- Benjamin Vincent, Trang Vu, Nicolas Hudon, Laurent Lefèvre, Denis Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-and-reduction-of-a-burning-plasma-system">Port-Hamiltonian modeling and reduction of a burning plasma system</a></h3></li>
