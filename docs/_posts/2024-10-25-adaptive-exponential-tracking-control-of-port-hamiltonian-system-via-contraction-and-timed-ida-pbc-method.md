@@ -3,7 +3,7 @@ layout: post
 title: "Adaptive exponential tracking control of port-Hamiltonian system via contraction and timed IDA-PBC method"
 date: 2024-10-25 00:00:00 +0100
 permalink: adaptive-exponential-tracking-control-of-port-hamiltonian-system-via-contraction-and-timed-ida-pbc-method
-year: 2024
+year: 2025
 authors: Huimin Zhi, Yanhong Liu, Hongnian Yu
 category: articles
 tags:
@@ -25,10 +25,10 @@ Adaptive control; Exponential tracking; Contraction analysis; Port-Hamiltonian s
  
 ## Citation
 - **Journal:** Nonlinear Dynamics
-- **Year:** 2024
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Year:** 2025
+- **Volume:** 113
+- **Issue:** 7
+- **Pages:** 6879--6891
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s11071-024-10473-6](https://doi.org/10.1007/s11071-024-10473-6)
  
@@ -37,12 +37,15 @@ Adaptive control; Exponential tracking; Contraction analysis; Port-Hamiltonian s
 {% raw %}
 @article{Zhi_2024,
   title={{Adaptive exponential tracking control of port-Hamiltonian system via contraction and timed IDA-PBC method}},
+  volume={113},
   ISSN={1573-269X},
   DOI={10.1007/s11071-024-10473-6},
+  number={7},
   journal={Nonlinear Dynamics},
   publisher={Springer Science and Business Media LLC},
   author={Zhi, Huimin and Liu, Yanhong and Yu, Hongnian},
-  year={2024}
+  year={2024},
+  pages={6879--6891}
 }
 {% endraw %}
 {% endhighlight %}
@@ -92,5 +95,5 @@ Adaptive control; Exponential tracking; Contraction analysis; Port-Hamiltonian s
 - [Zhi, H., Wei, J., Liu, Y., Ding, S. & Owens, D. H. Constructive exponential tracking control for mechanical systems via Hamiltonian realization and contraction analysis method. ISA Transactions vol. 142 573–584 (2023)](constructive-exponential-tracking-control-for-mechanical-systems-via-hamiltonian-realization-and-contraction-analysis-method) -- [10.1016/j.isatra.2023.07.011](https://doi.org/10.1016/j.isatra.2023.07.011)
 - Yuzhen Wang & Shuzhi Sam Ge. Augmented Hamiltonian Formulation and Energy-Based Control Design of Uncertain Mechanical Systems. IEEE Transactions on Control Systems Technology vol. 16 202–213 (2008) -- [10.1109/tcst.2007.903367](https://doi.org/10.1109/tcst.2007.903367)
 - Wei, A., Wang, Z., Mu, R. & Zhang, X. Finite‐time adaptive control for port‐controlled Hamiltonian systems with parametric perturbations. International Journal of Adaptive Control and Signal Processing vol. 36 802–817 (2022) -- [10.1002/acs.3373](https://doi.org/10.1002/acs.3373)
-- Wang, Y., Feng, G., Cheng, D. & Liu, Y. Adaptive $L^2$ disturbance attenuation control of multi-machine power systems with SMES units. Automatica vol. 42 1121–1132 (2006) -- [10.1016/j.automatica.2006.03.014](https://doi.org/10.1016/j.automatica.2006.03.014)
+- Wang, Y., Feng, G., Cheng, D. & Liu, Y. Adaptive <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.gif" display="inline" overflow="scroll"><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> disturbance attenuation control of multi-machine power systems with SMES units. Automatica vol. 42 1121–1132 (2006) -- [10.1016/j.automatica.2006.03.014](https://doi.org/10.1016/j.automatica.2006.03.014)
 

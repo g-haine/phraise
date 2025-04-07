@@ -12,7 +12,7 @@ category: articles
 [Hanif Heidari](authors/hanif-heidari), [H. Zwart](authors/hans-zwart)
  
 ## Abstract
- Analysis of nonlocal axial vibration in a nanorod is a crucial subject in science and engineering because of its wide applications in nanoelectromechanical systems. The aim of this paper is to show how these vibrations can be modelled within the framework of port-Hamiltonian systems. It turns out that two port-Hamiltonian descriptions in physical variables are possible. The first one is in descriptor form, whereas the second one has a non-local Hamiltonian density. In addition, it is shown that under appropriate boundary conditions these models possess a unique solution which is non-increasing in the corresponding ‘energy’, i.e., the associated infinitesimal generator generates a contraction semigroup on a Hilbert space, whose norm is directly linked to the Hamiltonian.
+ABSTRACT Analysis of nonlocal axial vibration in a nanorod is a crucial subject in science and engineering because of its wide applications in nanoelectromechanical systems. The aim of this paper is to show how these vibrations can be modelled within the framework of port-Hamiltonian systems. It turns out that two port-Hamiltonian descriptions in physical variables are possible. The first one is in descriptor form, whereas the second one has a non-local Hamiltonian density. In addition, it is shown that under appropriate boundary conditions these models possess a unique solution which is non-increasing in the corresponding ‘energy’, i.e., the associated infinitesimal generator generates a contraction semigroup on a Hilbert space, whose norm is directly linked to the Hamiltonian.
  
 ## Citation
 - **Journal:** Mathematical and Computer Modelling of Dynamical Systems

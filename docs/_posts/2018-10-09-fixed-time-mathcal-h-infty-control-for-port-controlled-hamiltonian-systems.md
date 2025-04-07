@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fixed-Time \\( \\mathcal {H}_{\\infty } \\) Control for Port-Controlled Hamiltonian Systems"
+title: "Fixed-Time \\\\( \\mathcal {H}_{\\infty } \\\\) Control for Port-Controlled Hamiltonian Systems"
 date: 2018-10-09 00:00:00 +0100
 permalink: fixed-time-mathcal-h-infty-control-for-port-controlled-hamiltonian-systems
 year: 2019

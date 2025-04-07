@@ -12,7 +12,7 @@ category: articles
 [Birgit Jacob](authors/birgit-jacob), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
-In this survey we use an operator theoretic approach to infinite‐dimensional systems theory. As this research field is quite rich, we restrict ourselves to the class of infinite‐dimensional linear port‐Hamiltonian systems and we will focus on topics such as well‐posedness, stability and stabilizability. We combine the abstract operator theoretic approach with the more physical approach based on Hamiltonians. This enables us to derive easy verifiable conditions for well‐posedness and stability.
+<jats:p>In this survey we use an operator theoretic approach to infinite‐dimensional systems theory. As this research field is quite rich, we restrict ourselves to the class of infinite‐dimensional linear port‐Hamiltonian systems and we will focus on topics such as well‐posedness, stability and stabilizability. We combine the abstract operator theoretic approach with the more physical approach based on Hamiltonians. This enables us to derive easy verifiable conditions for well‐posedness and stability.</jats:p>
  
 ## Citation
 - **Journal:** GAMM-Mitteilungen

@@ -12,7 +12,7 @@ category: articles
 [Jens Jäschke](authors/jens-jaschke), [Matthias Ehrhardt](authors/matthias-ehrhardt), [Michael Günther](authors/michael-gunther), [Birgit Jacob](authors/birgit-jacob)
  
 ## Abstract
- Heat transfer and cooling solutions play an important role in the design of gas turbine blades. However, the underlying mathematical coupling structures have not been thoroughly investigated. In this work, the port-Hamiltonian formalism is applied to the conjugate heat transfer problem in gas turbine blades. A mathematical model based on common engineering simplifications is constructed and further simplified to reduce complexity and focus on the coupling structures of interest. The model is then cast as a port-Hamiltonian system and examined for stability and well posedness.
+ABSTRACT Heat transfer and cooling solutions play an important role in the design of gas turbine blades. However, the underlying mathematical coupling structures have not been thoroughly investigated. In this work, the port-Hamiltonian formalism is applied to the conjugate heat transfer problem in gas turbine blades. A mathematical model based on common engineering simplifications is constructed and further simplified to reduce complexity and focus on the coupling structures of interest. The model is then cast as a port-Hamiltonian system and examined for stability and well posedness.
  
 ## Citation
 - **Journal:** Mathematical and Computer Modelling of Dynamical Systems

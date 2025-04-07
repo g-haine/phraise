@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Numerical Analysis of a Structure-Preserving Space-Discretization for an Anisotropic and Heterogeneous Boundary Controlled \\( N \\)-Dimensional Wave Equation as a Port-Hamiltonian System"
+title: "Numerical Analysis of a Structure-Preserving Space-Discretization for an Anisotropic and Heterogeneous Boundary Controlled \\\\( N \\\\)-Dimensional Wave Equation as a Port-Hamiltonian System"
 date: 2022-11-25 00:00:00 +0100
 permalink: numerical-analysis-of-a-structure-preserving-space-discretization-for-an-anisotropic-and-heterogeneous-boundary-controlled-n-dimensional-wave-equation-as-a-port-hamiltonian-system
 year: 2022

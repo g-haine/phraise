@@ -12,7 +12,7 @@ category: articles
 [A. Brugnoli](authors/andrea-brugnoli), [D. Alazard](authors/daniel-alazard), [V. Pommier-Budinger](authors/valerie-pommier-budinger), [D. Matignon](authors/denis-matignon)
  
 ## Abstract
- A port-Hamiltonian formulation for general linear coupled thermoelasticity and for the thermoelastic bending of thin structures is presented. The construction exploits the intrinsic modularity of port-Hamiltonian systems to obtain a formulation of linear thermoelasticity as an interconnection of the elastodynamics and heat equations. The derived model can be readily discretized by using mixed finite elements. The discretization is structure-preserving, since the main features of the system are retained at a discrete level. The proposed model and discretization strategy are validated against a benchmark problem of thermoelasticity, the Danilovskaya problem.
+Abstract A port-Hamiltonian formulation for general linear coupled thermoelasticity and for the thermoelastic bending of thin structures is presented. The construction exploits the intrinsic modularity of port-Hamiltonian systems to obtain a formulation of linear thermoelasticity as an interconnection of the elastodynamics and heat equations. The derived model can be readily discretized by using mixed finite elements. The discretization is structure-preserving, since the main features of the system are retained at a discrete level. The proposed model and discretization strategy are validated against a benchmark problem of thermoelasticity, the Danilovskaya problem.
  
 ## Citation
 - **Journal:** Journal of Thermal Stresses

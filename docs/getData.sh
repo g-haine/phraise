@@ -19,6 +19,14 @@ else
     exit 1
 fi
 
+# Les fonctions communes
+if [ -f .utils ]; then
+    source .utils
+else
+    echo "Erreur : fichier .utils introuvable !" >&2
+    exit 1
+fi
+
 # S'assurer de ne pas rechercher de doublon
 doi_file=$1
 input_file="DOIuniq.txt"
