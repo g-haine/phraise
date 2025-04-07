@@ -12,7 +12,7 @@ slugify () {
 # Une fonctione qui récupère le bibtex et le formatte depuis crossref
 print_bib () {
     local doi=$1
-    local bibflie=$2
+    local bibfile=$2
     crossrefEndpoint="http://api.crossref.org/works/$doi/transform/application/x-bibtex"
     crossrefBib="$(curl -s $crossrefEndpoint)"
     bibtex="$(echo "$crossrefBib" \
