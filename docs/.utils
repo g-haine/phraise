@@ -1,0 +1,63 @@
+# Ce fichier contient les différentes fonctions utiles à plusieurs scripts à la fois
+
+# Une fonction de slugify des titres
+slugify () {
+    echo "${1:0:240}" |
+    iconv -t ascii//TRANSLIT |
+    tr '[:upper:]' '[:lower:]' |
+    tr -cs 'a-z0-9' '-' |
+    sed -E 's/^-+|-+$//g'
+}
+
+# Une fonctione qui récupère le bibtex et le formatte depuis crossref
+print_bib () {
+    local doi=$1
+    local bibflie=$2
+    crossrefEndpoint="http://api.crossref.org/works/$doi/transform/application/x-bibtex"
+    crossrefBib="$(curl -s $crossrefEndpoint)"
+    bibtex="$(echo "$crossrefBib" \
+        | sed -e 's/ @/@/g' \
+        | sed -e 's/},/},\n /g' \
+        | sed -e 's/, series/,\n  series/g' \
+        | sed -e 's/, pages/,\n  pages/g' \
+        | sed -e 's/, title/,\n  title/g' \
+        | sed -e '/title/s/={/={{/g' \
+        | sed -e '/title/s/},/}},/g' \
+        | sed -e 's/ }/\n}/g' \
+        | sed -e 's/, }/\n}/g' \
+        | sed -e '/pages/s/–/--/g' \
+        | sed -e '/month/d' \
+        | sed -e '/url/d' \
+        | tac | sed -e '2 s/,//g' | tac)"
+    echo "$bibtex" > $bibfile
+}
+
+# Remplace les $ par les balises markdwon de mathjax
+mathjaxify () {
+    text=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
+    text=$(echo "$text" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
+    text=$(echo "$text" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
+    # Mathjax \( ... \) avec les escape nécessaires
+    text=$(echo "$text" \
+    | awk '{
+        in_math = 0;
+        for (i=1; i<=length($0); i++) {
+            c = substr($0, i, 1);
+            if (c == "$") {
+                if (in_math == 0) {
+                    printf "\\\\( ";
+                    in_math = 1;
+                } else {
+                    printf " \\\\)";
+                    in_math = 0;
+                }
+            } else {
+                printf "%s", c;
+            }
+        }
+        printf "\n";
+    }')
+    
+    echo "$text"
+}
+
