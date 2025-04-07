@@ -32,39 +32,13 @@ if [[ ! -f "$BIBLIO_JSON" || ! -f "$MAPPINGS_FILE" ]]; then
     exit 1
 fi
 
-# Fonction pour slugifier un texte
-slugify() {
-    echo "$1" | iconv -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed -E 's/^-+|-+$//g'
-}
-
-# Remplace les $ par les balises markdwon de mathjax dans les titre
-mathjaxify () {
-    title=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
-    title=$(echo "$title" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
-    title=$(echo "$title" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
-    # Mathjax \( ... \) avec les escape nécessaires
-    title=$(echo "$title" \
-    | awk '{
-        in_math = 0;
-        for (i=1; i<=length($0); i++) {
-            c = substr($0, i, 1);
-            if (c == "$") {
-                if (in_math == 0) {
-                    printf "\\( ";
-                    in_math = 1;
-                } else {
-                    printf " \\)";
-                    in_math = 0;
-                }
-            } else {
-                printf "%s", c;
-            }
-        }
-        printf "\n";
-    }')
-    
-    echo "$title"
-}
+# Les fonctions communes
+if [ -f .utils ]; then
+    source .utils
+else
+    echo "Erreur : fichier .utils introuvable !" >&2
+    exit 1
+fi
 
 # Charger les correspondances "Prénom Nom" → "slug"
 echo $(date -Iseconds)" Load names <-> slugs tables..."
@@ -155,7 +129,7 @@ EOF
 
 echo "<h3>There is $(( $(find assets/bib -maxdepth 1 -type f | wc -l) -1)) authors referenced.</h3>" >> "$AUTHORS_DIR/index.md"
 
-echo "<p id='info-authors'>For <a href='../about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the <strong>S</strong> letter, and <i>Yann Le Gorrec</i> under the <strong>G</strong> letter.</p>" >> "$AUTHORS_DIR/index.md"
+echo "<p id='info-authors'>For <a href='../about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>" >> "$AUTHORS_DIR/index.md"
 
 echo "<hr />" >> "$AUTHORS_DIR/index.md"
 

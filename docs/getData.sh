@@ -30,17 +30,9 @@ cat $doi_file | tr '[:upper:]' '[:lower:]' > $tmp_file
 awk '!seen[$0]++' $tmp_file > $input_file
 grep -avf "DOI.txt" $input_file > $doi_file
 input_file=$doi_file
+rm "DOIuniq.txt"
 
 # D'abord quelques fonctions
-
-# Une fonction de slugify des titres
-slugify () {
-    echo "${1:0:240}" |
-    iconv -t ascii//TRANSLIT |
-    tr '[:upper:]' '[:lower:]' |
-    tr -cs 'a-z0-9' '-' |
-    sed -E 's/^-+|-+$//g'
-}
 
 # Appel à l'API de crossref
 fetch_metadata_crossref () {
@@ -169,29 +161,6 @@ get_citation () {
     local doi=$1
     citation=$(curl -s https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US | tail -n 1)
     echo "$citation" | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'
-}
-
-# Une fonctione qui récupère le bibtex et le formatte depuis crossref
-print_bib () {
-    local doi=$1
-    local bibflie=$2
-    crossrefEndpoint="http://api.crossref.org/works/$doi/transform/application/x-bibtex"
-    crossrefBib="$(curl -s $crossrefEndpoint)"
-    bibtex="$(echo "$crossrefBib" \
-        | sed -e 's/ @/@/g' \
-        | sed -e 's/},/},\n /g' \
-        | sed -e 's/, series/,\n  series/g' \
-        | sed -e 's/, pages/,\n  pages/g' \
-        | sed -e 's/, title/,\n  title/g' \
-        | sed -e '/title/s/={/={{/g' \
-        | sed -e '/title/s/},/}},/g' \
-        | sed -e 's/ }/\n}/g' \
-        | sed -e 's/, }/\n}/g' \
-        | sed -e '/pages/s/–/--/g' \
-        | sed -e '/month/d' \
-        | sed -e '/url/d' \
-        | tac | sed -e '2 s/,//g' | tac)"
-    echo "$bibtex" > $bibfile
 }
 
 # Maintenant la boucle sur les DOI

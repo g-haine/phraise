@@ -21,13 +21,13 @@ if [[ ! -f "$MAPPINGS_FILE" ]]; then
     exit 1
 fi
 
-slugify () {
-    echo "$1" |
-    iconv -t ascii//TRANSLIT |
-    tr '[:upper:]' '[:lower:]' |
-    tr -cs 'a-z0-9' '-' |
-    sed -E 's/^-+|-+$//g'
-}
+# Les fonctions communes
+if [ -f .utils ]; then
+    source .utils
+else
+    echo "Erreur : fichier .utils introuvable !" >&2
+    exit 1
+fi
 
 declare -A author_to_slug
 

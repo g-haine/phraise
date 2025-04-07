@@ -43,6 +43,14 @@ while IFS= read -r line; do
     doi_keywords["$key"]="$value"
 done < <(jq -c '.[]' "$BIBLIO_JSON")
 
+# Les fonctions communes
+if [ -f .utils ]; then
+    source .utils
+else
+    echo "Erreur : fichier .utils introuvable !" >&2
+    exit 1
+fi
+
 # Ajoute un zéro si le mois ou le jour est entre 1 et 9
 pad_zero () {
     printf "%02d" "$1"
@@ -78,68 +86,6 @@ format_authors () {
         fi
     done < <(echo $1 | jq -rc '.[] | select(.family) | "\(.given) \(.family)"')
     echo "$authors"
-}
-
-# Remplace les $ par les balises markdwon de mathjax dans le titre
-mathjaxify_title () {
-    title=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
-    title=$(echo "$title" | sed -e 's/\\/\\\\/g') # dans "title", jekyll demande un escape de \
-    title=$(echo "$title" | sed -e 's/\*/\\\*/g') # dans "title", jekyll demande un escape de *
-    title=$(echo "$title" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
-    title=$(echo "$title" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
-    # Mathjax \( ... \) avec les escape nécessaires
-    title=$(echo "$title" \
-    | awk '{
-        in_math = 0;
-        for (i=1; i<=length($0); i++) {
-            c = substr($0, i, 1);
-            if (c == "$") {
-                if (in_math == 0) {
-                    printf "\\\\( ";
-                    in_math = 1;
-                } else {
-                    printf " \\\\)";
-                    in_math = 0;
-                }
-            } else {
-                printf "%s", c;
-            }
-        }
-        printf "\n";
-    }')
-    
-    echo "$title"
-}
-
-# Idem pour l'abstract / les keywords et mathjax
-mathjaxify () {
-    text=$(echo "$1" | sed -e 's/$$/$/g') # au cas où il y aurait des double $
-    title=$(echo "$title" | sed -e 's/{{/{[[:space:]]{/g') # Pour éviter les conflits avec jekyll
-    title=$(echo "$title" | sed -e 's/}}/}[[:space:]]}/g') # Pour éviter les conflits avec jekyll
-    text=$(echo "$text" \
-    | sed -e 's/<[^>]*>//g' \
-    | sed -e 's/Abstract//g' \
-    | sed -e 's/ABSTRACT//g' \
-    | awk '{
-        in_math = 0;
-        for (i=1; i<=length($0); i++) {
-            c = substr($0, i, 1);
-            if (c == "$") {
-                if (in_math == 0) {
-                    printf "\\\\( ";
-                    in_math = 1;
-                } else {
-                    printf " \\\\)";
-                    in_math = 0;
-                }
-            } else {
-                printf "%s", c;
-            }
-        }
-        printf "\n";
-    }')
-    
-    echo "$text"
 }
 
 # Identifie la catégorie du post
@@ -189,7 +135,7 @@ create_markdown_post () {
     echo "---" > "$output_md"
     echo "layout: post" >> "$output_md"
     title=$(echo "$data" | jq -r .title)
-    title=$(mathjaxify_title "$title")
+    title=$(mathjaxify "$title" | sed -e 's/\\/\\\\/g')
     echo "title: \"$title\"" >> "$output_md"
     echo "date: $date 00:00:00 +0100" >> "$output_md"
     echo "permalink: $permalink" >> "$output_md"
