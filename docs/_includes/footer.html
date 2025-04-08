@@ -29,13 +29,13 @@
       </div>
       <div class="footer-col">
         <p id="logos">
-          <img class="logo" id="logo-isae" src="/phraise/assets/img/logo-isae.webp" /> &nbsp;
-          <img class="logo" id="logo" src="/phraise/assets/img/logo.webp" />
+          <img class="logo" id="logo-isae" src="{{ site.baseurl }}/assets/img/logo-isae.webp" /> &nbsp;
+          <img class="logo" id="logo" src="{{ site.baseurl }}/assets/img/logo.webp" />
         </p>
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
-        <p id="cookies"><i class="fa-solid fa-cookie-bite" alt="Cookies"></i> This website does not use cookies! <i class="fa-solid fa-cookie-bite" alt="Cookies"></i></p>
+        <p id="cookies"><i class="fa-solid fa-cookie-bite" alt="Cookies"></i> This website does not use <a href="{{ site.baseurl }}/about/#gdpr-policy">cookies</a>! <i class="fa-solid fa-cookie-bite" alt="Cookies"></i></p>
       </div>
     </div>
 
@@ -45,11 +45,13 @@
 
   </div>
 <!-- Copy-to-clipboard BibTeX -->
-<script src="/phraise/assets/js/copy-to-clipboard.js"></script>
+<script src="{{ site.baseurl }}/assets/js/copy-to-clipboard.js"></script>
 <!-- Scroll to top button -->
-<script src="/phraise/assets/js/scroll-to-top.js"></script>
+<script src="{{ site.baseurl }}/assets/js/scroll-to-top.js"></script>
 <!-- Counter views -->
 <script data-goatcounter="https://phraise.goatcounter.com/count"
         data-goatcounter-settings='{"path": "{% if page.permalink %}{{ page.permalink }}{% else %}home{% endif %}"}'
         async src="https://gc.zgo.at/count.js"></script>
+<!-- MathJax -->
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </footer>

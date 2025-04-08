@@ -46,6 +46,7 @@ minima:
       icon: plus
       url: "http://www.phsys.eu/"
 header_pages:
+  - arXiv.md
   - search.md
   - categories/articles.md
   - categories/books.md

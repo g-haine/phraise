@@ -1,0 +1,76 @@
+
+<script>
+    function convertLatexToMathJax(text) {
+        // Remplace les blocs $$...$$ par \[...\]
+        let blockParts = text.split('$$');
+        for (let i = 1; i < blockParts.length; i += 2) {
+            blockParts[i] = `\\[${blockParts[i]}\\]`;
+        }
+        text = blockParts.join('');
+
+        // Remplace les inline $...$ par \(...\)
+        let inlineParts = text.split('$');
+        for (let i = 1; i < inlineParts.length; i += 2) {
+            inlineParts[i] = `\\(${inlineParts[i]}\\)`;
+        }
+        return inlineParts.join('');
+    }
+
+    async function fetchPortHamiltonianPapers() {
+        const loader = document.getElementById("arxiv-loader");
+        loader.style.display = "block"; // avant le fetch
+        const query = encodeURIComponent('all:port+AND+Hamiltonian');
+        const arxivUrl = `https://export.arxiv.org/api/query?search_query=${query}&start=0&max_results=25&sortBy=lastUpdatedDate&sortOrder=descending`;
+        const proxyUrl = `https://corsproxy.io/?${arxivUrl}`;
+
+        try {
+            const response = await fetch(proxyUrl);
+            const xmlText = await response.text();
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlText, "application/xml");
+            const entries = xmlDoc.getElementsByTagName("entry");
+
+            const list = document.getElementById("arxiv-list");
+            list.innerHTML = ""; // reset content
+
+            for (let entry of entries) {
+                const rawTitle = entry.getElementsByTagName("title")[0].textContent.trim();
+                const rawSummary = entry.getElementsByTagName("summary")[0].textContent.trim();
+                const title = convertLatexToMathJax(rawTitle);
+                const summary = convertLatexToMathJax(rawSummary);
+                const link = entry.getElementsByTagName("id")[0].textContent;
+                const authors = entry.getElementsByTagName("author");
+                const updated = entry.getElementsByTagName("updated")[0].textContent.split("T")[0];
+
+                // Concatène tous les noms d’auteurs
+                let authorList = [];
+                for (let author of authors) {
+                    const name = author.getElementsByTagName("name")[0].textContent;
+                    authorList.push(name);
+                }
+
+                const li = document.createElement("li");
+                li.innerHTML = `
+                  <span class="post-meta">${updated} -- ${authorList.join(", ")}</span>
+                  <h3>
+                    <a class="post-link" href="${link}" target="_blank" rel="noopener">
+                      ${title}
+                    </a>
+                  </h3>
+                  <p><strong>Abstract:</strong> ${summary}</p>
+                `;
+                list.appendChild(li);
+            }
+            loader.style.display = "none"; // après avoir injecté les articles ou dans le catch
+            if (window.MathJax && MathJax.typeset) {
+                MathJax.typeset();
+            }
+        } catch (error) {
+            console.error("API arXiv error:", error);
+            loader.style.display = "none"; // après avoir injecté les articles ou dans le catch
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", fetchPortHamiltonianPapers);
+</script>
+

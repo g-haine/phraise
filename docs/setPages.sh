@@ -129,7 +129,7 @@ EOF
 
 echo "<h3>There is ${#authors[@]} authors referenced.</h3>" >> "$AUTHORS_DIR/index.md"
 
-echo "<p id='info-authors'>For <a href='../about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>" >> "$AUTHORS_DIR/index.md"
+echo "<p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>" >> "$AUTHORS_DIR/index.md"
 
 echo "<hr />" >> "$AUTHORS_DIR/index.md"
 
