@@ -33,8 +33,6 @@ Currently, **only metadata and abstracts** are collected: **full texts are not i
 
 The resulting database is [available for download]({{ site.baseurl }}/assets/data/biblio.json) (a JSON file).
 
-Avec plaisir ! Voici une version corrigée et fluide de ta section en anglais, avec un style clair et professionnel :
-
 ### **arXiv**
 To stay as up to date as possible, we use the [arXiv API](https://info.arxiv.org/help/api/user-manual.html) to retrieve the latest preprints related to port-Hamiltonian systems.
 
