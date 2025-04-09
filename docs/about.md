@@ -46,12 +46,17 @@ No additional **peer review** is conducted; the survey relies on **CrossRef's me
 
 ## **Useful Links**
 
+### Community
+
 - [**PHSys**](https://www.phsys.eu): Community website for researchers in **port-Hamiltonian Systems** (PHS).
 - [**PH-Seminar**](https://www.fan.uni-wuppertal.de/en/research/ph-seminar/): Monthly seminar, usually first Wednesday, 4 pm (CET) via Zoom.
 - [**EMS-TAG on PHS**](https://ems-phs.uni-wuppertal.de/en/): A thematic activity group related to PHS.
 - [**French-Dutch-German Doctoral College**](https://www.epc.ed.tum.de/en/rt/cdfa-phs/): “Port-Hamiltonian Systems: Modeling, Numerics and Control” supported by the Franco-Bavarian University Cooperation Center BayFrance, coordinated by P. Kotyczka, B. Maschke and J. Scherpen.
 
+### Softwares
+
 - [**SCRIMP**](https://g-haine.github.io/scrimp/): A finite element framework for **port-Hamiltonian PDE simulations**.
+- [**EPHS**](https://markuslohmayer.github.io/EPHS.jl/dev/): A compositional, energy-based (software) framework for modeling mechanical, electromagnetic, and thermodynamic systems in [Julia](http://julialang.org/).
 - [**port-Hamiltonian Benchmark**](https://algopaul.github.io/PortHamiltonianBenchmarkSystems/): A repository collecting various port-Hamiltonian systems for numerical benchmarking.
 - [**PyPHS**](https://pyphs.github.io/pyphs/): A Python software (Py) dedicated to the simulation of multi-physical Port-Hamiltonian Systems (PHS) described by graph structures.
 
