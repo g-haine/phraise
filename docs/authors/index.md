@@ -1268,7 +1268,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/joseph-j-winkin'>Joseph J. Winkin</a>
 <a href='{{ site.baseurl }}/authors/fabian-wirth'>Fabian Wirth</a>
 <a href='{{ site.baseurl }}/authors/dominik-wittwar'>Dominik Wittwar</a>
-<a href='{{ site.baseurl }}/authors/m-wojtylak'>M. Wojtylak</a>
+<a href='{{ site.baseurl }}/authors/michal-wojtylak'>Michał Wojtylak</a>
 <a href='{{ site.baseurl }}/authors/thomas-wolf'>Thomas Wolf</a>
 <a href='{{ site.baseurl }}/authors/craig-a-woolsey'>Craig A. Woolsey</a>
 <a href='{{ site.baseurl }}/authors/karl-worthmann'>Karl Worthmann</a>

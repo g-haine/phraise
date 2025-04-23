@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[C. Mehl](authors/christian-mehl), [V. Mehrmann](authors/volker-mehrmann), [M. Wojtylak](authors/m-wojtylak)
+[C. Mehl](authors/christian-mehl), [V. Mehrmann](authors/volker-mehrmann), [M. Wojtylak](authors/michal-wojtylak)
  
 ## Abstract
 We study the characterization of several distance problems for linear differential-algebraic systems with dissipative Hamiltonian structure. Since all models are only approximations of reality and data are always inaccurate, it is an important question whether a given model is close to a ‘bad’ model that could be considered as ill-posed or singular. This is usually done by computing a distance to the nearest model with such properties. We will discuss the distance to singularity, the distance to the nearest high index problem, and the distance to instability for dissipative Hamiltonian systems. While for general unstructured differential-algebraic systems the characterization of these distances are partially open problems, we will show that for dissipative Hamiltonian systems and related matrix polynomials there exist explicit characterizations that can be implemented numerically.

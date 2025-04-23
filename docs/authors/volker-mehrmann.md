@@ -5,6 +5,7 @@ permalink: /authors/volker-mehrmann
 ---
 
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Christian Mehl, Volker Mehrmann, Michał Wojtylak</span><h3><a class='post-link' href="{{ site.baseurl }}/spectral-theory-of-infinite-dimensional-dissipative-hamiltonian-systems">Spectral Theory of Infinite Dimensional Dissipative Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- F. Achleitner, A. Arnold, V. Mehrmann, E.A. Nigsch</span><h3><a class='post-link' href="{{ site.baseurl }}/hypocoercivity-in-hilbert-spaces">Hypocoercivity in Hilbert spaces</a></h3></li>
 <li><span class='post-meta'>2025 -- Hannes Gernandt, Bernardo Severino, Xinyi Zhang, Volker Mehrmann, Kai Strunz</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-and-control-of-electric-vehicle-charging-stations">Port-Hamiltonian Modeling and Control of Electric Vehicle Charging Stations</a></h3></li>
 <li><span class='post-meta'>2025 -- Timm Faulwasser, Jonas Kirchhoff, Volker Mehrmann, Friedrich Philipp, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/hidden-regularity-in-singular-optimal-control-of-port-hamiltonian-systems">Hidden Regularity in Singular Optimal Control of port-Hamiltonian Systems</a></h3></li>

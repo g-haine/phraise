@@ -25,7 +25,7 @@ Photogalvanic effect; BeP2 monolayer; Photodetector; High sensitivity
 ## Citation
 - **Journal:** Chemical Physics Letters
 - **Year:** 2025
-- **Volume:** 
+- **Volume:** 870
 - **Issue:** 
 - **Pages:** 142076
 - **Publisher:** Elsevier BV
@@ -36,6 +36,7 @@ Photogalvanic effect; BeP2 monolayer; Photodetector; High sensitivity
 {% raw %}
 @article{Fu_2025,
   title={{Exploring the photogalvanic effect based on three BeP2 monolayers: Towards high-performance optoelectronic devices}},
+  volume={870},
   ISSN={0009-2614},
   DOI={10.1016/j.cplett.2025.142076},
   journal={Chemical Physics Letters},

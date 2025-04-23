@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[C. Mehl](authors/christian-mehl), [V. Mehrmann](authors/volker-mehrmann), [M. Wojtylak](authors/m-wojtylak)
+[C. Mehl](authors/christian-mehl), [V. Mehrmann](authors/volker-mehrmann), [M. Wojtylak](authors/michal-wojtylak)
  
 ## Abstract
 We analyze when an arbitrary matrix pencil is equivalent to a dissipative Hamiltonian pencil and show that this heavily restricts the spectral properties. In order to relax the spectral properties, we introduce matrix pencils with coefficients that have positive semidefinite Hermitian parts. We will make a detailed analysis of their spectral properties and their numerical range. In particular, we relate the Kronecker structure of these pencils to that of an underlying skew-Hermitian pencil and discuss their regularity, index, numerical range, and location of eigenvalues. Further, we study matrix polynomials with positive semidefinite Hermitian coefficients and use linearizations with positive semidefinite Hermitian parts to derive sufficient conditions for a spectrum in the left half plane and derive bounds on the index.

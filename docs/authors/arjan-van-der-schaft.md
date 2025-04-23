@@ -5,6 +5,7 @@ permalink: /authors/arjan-van-der-schaft
 ---
 
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-nonlinear-systems">Port-Hamiltonian Nonlinear Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/reciprocity-of-nonlinear-systems">Reciprocity of Nonlinear Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Kaja Krhač, Bernhard Maschke, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems-with-energy-and-power-ports">Port-Hamiltonian systems with energy and power ports</a></h3></li>
 <li><span class='post-meta'>2024 -- Lalitesh Kumar, Jian Chen, Chengshuai Wu, Yuzhu Chen, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/a-segmented-model-based-fuel-delivery-control-of-pem-fuel-cells-a-port-hamiltonian-approach">A segmented model based fuel delivery control of PEM fuel cells: A port-Hamiltonian approach</a></h3></li>
