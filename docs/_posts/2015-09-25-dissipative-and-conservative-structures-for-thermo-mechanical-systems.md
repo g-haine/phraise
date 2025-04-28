@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[J.P. García-Sandoval](authors/j-p-garcia-sandoval), [D. Dochain](authors/denis-dochain), [N. Hudon](authors/nicolas-hudon)
+[J.P. García-Sandoval](authors/j-paulo-garcia-sandoval), [D. Dochain](authors/denis-dochain), [N. Hudon](authors/nicolas-hudon)
  
 ## Abstract
 On this work is shown how to derive a structural representation of a class of thermo-mechanical systems in the Port Hamiltonian framework in order to express explicitly the dissipation along the trajectories of the dynamics. To achieve this goal the entropy is used as the storage function. The dissipation structures are correlated with irreversible processes, while the conservative processes are correlated with reversible or isentropic processes. Finally, three study cases are presented: the first one is an adiabatic gas-piston system, the second is an adiabatic two chambers gas-piston-gas system and the last one is an adiabatic liquid-pendulum system.
