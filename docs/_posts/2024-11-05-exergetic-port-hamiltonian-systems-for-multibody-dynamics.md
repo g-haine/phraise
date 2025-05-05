@@ -20,7 +20,7 @@ tags:
 [Markus Lohmayer](authors/markus-lohmayer), [Giuseppe Capobianco](authors/giuseppe-capobianco), [Sigrid Leyendecker](authors/sigrid-leyendecker)
  
 ## Abstract
-Multibody dynamics simulation plays an important role in various fields, including mechanical engineering, robotics, and biomechanics. Setting up computational models however becomes increasingly challenging as systems grow in size and complexity. Especially the consistent combination of models across different physical domains still requires significant effort. This motivates the study of formal languages that enable a compositional approach to modeling multiphysical systems with basic guarantees. The paper shows how multibody systems, or more precisely assemblies of rigid bodies connected by lower kinematic pairs, can be described as Exergetic Port-Hamiltonian Systems (EPHS). The EPHS modeling language features a straightforward graphical syntax for expressing the energy-based interconnection of hierarchically nested subsystems. This reduces cognitive load and facilitates clearer communication among experts, nonexperts, and computational tools. Hierarchical nesting of systems enables abstraction of lower-level details and promotes the reuse of models at different levels of complexity. At the lowest level, there are three basic kinds of systems, representing energy storage and reversible/irreversible energy exchange. The structured approach guarantees fundamental properties of macroscopic systems, such as conservation of energy and nonnegative entropy production. In combination with the compositional syntax, this makes building and modifying models simpler and less error-prone.
+Multibody dynamics simulation plays an important role in various fields, including mechanical engineering, robotics, and biomechanics. Setting up computational models however becomes increasingly challenging as systems grow in size and complexity. Especially the consistent combination of models across different physical domains still requires significant effort. This motivates the study of formal languages that enable a compositional approach to modeling multiphysical systems with basic guarantees. The paper shows how multibody systems, or more precisely assemblies of rigid bodies connected by lower kinematic pairs, can be described as Exergetic Port-Hamiltonian Systems (EPHS). The EPHS modeling language features a straightforward graphical syntax for expressing the energy-based interconnection of hierarchically nested subsystems. This reduces cognitive load and facilitates clearer communication among experts, nonexperts, and computational tools. Hierarchical nesting of systems enables ion of lower-level details and promotes the reuse of models at different levels of complexity. At the lowest level, there are three basic kinds of systems, representing energy storage and reversible/irreversible energy exchange. The structured approach guarantees fundamental properties of macroscopic systems, such as conservation of energy and nonnegative entropy production. In combination with the compositional syntax, this makes building and modifying models simpler and less error-prone.
  
 ## Keywords
 Compositionality; Modeling language; Multibody systems; Multiphysics; Rigid body dynamics; Thermodynamic consistency; Variational principle
@@ -37,15 +37,12 @@ Compositionality; Modeling language; Multibody systems; Multiphysics; Rigid body
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Lohmayer_2024,
-  title={{Exergetic port-Hamiltonian systems for multibody dynamics}},
-  ISSN={1573-272X},
-  DOI={10.1007/s11044-024-10038-w},
-  journal={Multibody System Dynamics},
-  publisher={Springer Science and Business Media LLC},
-  author={Lohmayer, Markus and Capobianco, Giuseppe and Leyendecker, Sigrid},
-  year={2024}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -54,7 +51,6 @@ Compositionality; Modeling language; Multibody systems; Multiphysics; Rigid body
 ## References
 - Lohmayer, M., Lynch, O. & Leyendecker, S. Exergetic Port-Hamiltonian Systems Modeling Language. Preprint at https://doi.org/10.48550/ARXIV.2402.17640 (2024) -- [10.48550/arxiv.2402.17640](https://doi.org/10.48550/arxiv.2402.17640)
 - Sonneville, V. & Brüls, O. A Formulation on the Special Euclidean Group for Dynamic Analysis of Multibody Systems. Journal of Computational and Nonlinear Dynamics vol. 9 (2014) -- [10.1115/1.4026569](https://doi.org/10.1115/1.4026569)
-- Sonneville, V.: A geometric local frame approach for flexible multibody systems. Ph.D. thesis, Université de Liège (2015)
 - Modeling and IPC Control of Interactive Mechanical Systems — A Coordinate-Free Approach. Lecture Notes in Control and Information Sciences (Springer London, 2001). doi:10.1007/bfb0110400 -- [10.1007/bfb0110400](https://doi.org/10.1007/bfb0110400)
 - Macchelli, A. & Melchiorri, C. Port-based Simulation of Flexible Multi-body Systems. IFAC Proceedings Volumes vol. 41 15672–15677 (2008) -- [10.3182/20080706-5-kr-1001.02650](https://doi.org/10.3182/20080706-5-kr-1001.02650)
 - Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part II: Variational structures. Journal of Geometry and Physics vol. 57 209–250 (2006) -- [10.1016/j.geomphys.2006.02.012](https://doi.org/10.1016/j.geomphys.2006.02.012)

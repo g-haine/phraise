@@ -26,17 +26,12 @@ For the classes of finite‐dimensional linear time‐invariant semi‐dissipati
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Achleitner_2021,
-  title={{Hypocoercivity and controllability in linear semi‐dissipative Hamiltonian ordinary differential equations and differential‐algebraic equations}},
-  volume={103},
-  ISSN={1521-4001},
-  DOI={10.1002/zamm.202100171},
-  number={7},
-  journal={ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik},
-  publisher={Wiley},
-  author={Achleitner, Franz and Arnold, Anton and Mehrmann, Volker},
-  year={2021}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

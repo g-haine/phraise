@@ -26,17 +26,12 @@ In this manuscript, a general formulation of 3-dimensional compressible fluids b
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Mora_2021,
-  title={{On port-Hamiltonian formulations of 3-dimensional compressible Newtonian fluids}},
-  volume={33},
-  ISSN={1089-7666},
-  DOI={10.1063/5.0067784},
-  number={11},
-  journal={Physics of Fluids},
-  publisher={AIP Publishing},
-  author={Mora, Luis A. and Le Gorrec, Yann and Matignon, Denis and Ramirez, Hector and Yuz, Juan I.},
-  year={2021}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

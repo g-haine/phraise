@@ -26,15 +26,12 @@ We study a class of models for nonlinear acoustics, including the well‐known W
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Egger_2025,
-  title={{Well‐Posedness, Long‐Time Behavior, and Discretization of Some Models of Nonlinear Acoustics in Velocity–Enthalpy Formulation}},
-  ISSN={1099-1476},
-  DOI={10.1002/mma.10753},
-  journal={Mathematical Methods in the Applied Sciences},
-  publisher={Wiley},
-  author={Egger, Herbert and Fritz, Marvin},
-  year={2025}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -67,7 +64,7 @@ We study a class of models for nonlinear acoustics, including the well‐known W
 - Kaltenbacher, B. & Lehner, P. A first order in time wave equation modeling nonlinear acoustics. Journal of Mathematical Analysis and Applications vol. 543 128933 (2025) -- [10.1016/j.jmaa.2024.128933](https://doi.org/10.1016/j.jmaa.2024.128933)
 - Kaltenbacher, B., Nikolic, V. & Thalhammer, M. Efficient time integration methods based on operator splitting and application to the Westervelt equation. IMA Journal of Numerical Analysis vol. 35 1092–1124 (2014) -- [10.1093/imanum/dru029](https://doi.org/10.1093/imanum/dru029)
 - Kaltenbacher B., Convergence of Implicit Runge‐Kutta Time Discretisation Methods for Fundamental Models in Nonlinear Acoustics. Journal of Applied & Numerical Optimization (2021)
-- Nikolić, V. Asymptotic-preserving finite element analysis of Westervelt-type wave equations. Analysis and Applications 1–29 (2024) doi:10.1142/s0219530524500404 -- [10.1142/s0219530524500404](https://doi.org/10.1142/s0219530524500404)
+- Nikolić, V. Asymptotic-preserving finite element analysis of Westervelt-type wave equations. Analysis and Applications vol. 23 577–605 (2024) -- [10.1142/s0219530524500404](https://doi.org/10.1142/s0219530524500404)
 - Wloka, J. Partial Differential Equations. (1987) doi:10.1017/cbo9781139171755 -- [10.1017/cbo9781139171755](https://doi.org/10.1017/cbo9781139171755)
 - Evans, L. Partial Differential Equations. Graduate Studies in Mathematics (2010) doi:10.1090/gsm/019 -- [10.1090/gsm/019](https://doi.org/10.1090/gsm/019)
 - Boyer F., Mathematical Tools for the Study of the Incompressible Navier‐Stokes Equations and Related Models (2012)

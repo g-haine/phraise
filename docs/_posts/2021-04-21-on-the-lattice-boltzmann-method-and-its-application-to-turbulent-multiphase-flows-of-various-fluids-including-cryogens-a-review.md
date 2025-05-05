@@ -12,7 +12,7 @@ category: articles
 [K. J. Petersen](authors/k-j-petersen), [J. R. Brinkerhoff](authors/j-r-brinkerhoff)
  
 ## Abstract
-<jats:p>Cryogenic fluids are used in a myriad of different applications not limited to green fuels, medical devices, spacecraft, and cryoelectronics. In this review, we elaborate on these applications and synthesize recent lattice Boltzmann methods (LBMs) including collision operators, boundary conditions, grid-refinement techniques, and multiphase models that have enabled the simulation of turbulence, thermodynamic phase change, and non-isothermal effects in a wide array of fluids, including cryogens. The LBM has reached a mature state over the last three decades and become a strong alternative to the conventional Navier–Stokes equations for simulating complex, rarefied, thermal, multiphase fluid systems. Moreover, the method's scalability boosts the efficiency of large-scale fluid flow computations on parallel clusters, including heterogeneous clusters with graphics card-based accelerators. Despite this maturity, the LBM has only recently experienced limited use in the study of cryogenic fluid systems. Therefore, it is fitting to emphasize the usefulness of the LBM for simulating computationally prohibitive, complex cryogenic flows. We expect that the method will be employed more extensively in the future owing to its simple representation of molecular interaction and consequently thermodynamic changes of state, surface tension effects, non-ideal effects, and boundary treatments, among others.</jats:p>
+Cryogenic fluids are used in a myriad of different applications not limited to green fuels, medical devices, spacecraft, and cryoelectronics. In this review, we elaborate on these applications and synthesize recent lattice Boltzmann methods (LBMs) including collision operators, boundary conditions, grid-refinement techniques, and multiphase models that have enabled the simulation of turbulence, thermodynamic phase change, and non-isothermal effects in a wide array of fluids, including cryogens. The LBM has reached a mature state over the last three decades and become a strong alternative to the conventional Navier–Stokes equations for simulating complex, rarefied, thermal, multiphase fluid systems. Moreover, the method's scalability boosts the efficiency of large-scale fluid flow computations on parallel clusters, including heterogeneous clusters with graphics card-based accelerators. Despite this maturity, the LBM has only recently experienced limited use in the study of cryogenic fluid systems. Therefore, it is fitting to emphasize the usefulness of the LBM for simulating computationally prohibitive, complex cryogenic flows. We expect that the method will be employed more extensively in the future owing to its simple representation of molecular interaction and consequently thermodynamic changes of state, surface tension effects, non-ideal effects, and boundary treatments, among others.
  
 ## Citation
 - **Journal:** Physics of Fluids
@@ -26,17 +26,12 @@ category: articles
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Petersen_2021,
-  title={{On the lattice Boltzmann method and its application to turbulent, multiphase flows of various fluids including cryogens: A review}},
-  volume={33},
-  ISSN={1089-7666},
-  DOI={10.1063/5.0046938},
-  number={4},
-  journal={Physics of Fluids},
-  publisher={AIP Publishing},
-  author={Petersen, K. J. and Brinkerhoff, J. R.},
-  year={2021}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

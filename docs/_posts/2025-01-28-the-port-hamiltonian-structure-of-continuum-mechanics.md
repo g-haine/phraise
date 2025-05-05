@@ -34,17 +34,12 @@ Port-Hamiltonian; Dirac structures; Bundle-valued forms; Exterior calculus
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Rashad_2025,
-  title={{The Port-Hamiltonian Structure of Continuum Mechanics}},
-  volume={35},
-  ISSN={1432-1467},
-  DOI={10.1007/s00332-025-10130-1},
-  number={2},
-  journal={Journal of Nonlinear Science},
-  publisher={Springer Science and Business Media LLC},
-  author={Rashad, Ramy and Stramigioli, Stefano},
-  year={2025}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -64,19 +59,15 @@ Port-Hamiltonian; Dirac structures; Bundle-valued forms; Exterior calculus
 - [Cheng, X., Van der Vegt, J. J. W., Xu, Y. & Zwart, H. J. Port-Hamiltonian formulations of the incompressible Euler equations with a free surface. Journal of Geometry and Physics vol. 197 105097 (2024)](port-hamiltonian-formulations-of-the-incompressible-euler-equations-with-a-free-surface) -- [10.1016/j.geomphys.2023.105097](https://doi.org/10.1016/j.geomphys.2023.105097)
 - Fiala, Z. Geometrical setting of solid mechanics. Annals of Physics vol. 326 1983–1997 (2011) -- [10.1016/j.aop.2011.02.010](https://doi.org/10.1016/j.aop.2011.02.010)
 - Fiala, Z. Geometry of finite deformations and time-incremental analysis. International Journal of Non-Linear Mechanics vol. 81 230–244 (2016) -- [10.1016/j.ijnonlinmec.2016.01.019](https://doi.org/10.1016/j.ijnonlinmec.2016.01.019)
-- Frankel: The geometry of physics. (2019)
 - Gay-Balmaz, F., Marsden, J. E. & Ratiu, T. S. Reduced Variational Formulations in Free Boundary Continuum Mechanics. Journal of Nonlinear Science vol. 22 463–497 (2012) -- [10.1007/s00332-012-9143-4](https://doi.org/10.1007/s00332-012-9143-4)
 - Gilbert, A. D. & Vanneste, J. A Geometric Look at Momentum Flux and Stress in Fluid Mechanics. Journal of Nonlinear Science vol. 33 (2023) -- [10.1007/s00332-023-09887-0](https://doi.org/10.1007/s00332-023-09887-0)
-- Holm, D. D., Marsden, J. E., Ratiu, T. S.: The Hamiltonian structure of continuum mechanics in material, inverse material, spatial and convective representations, (1986)
 - Holm, D. D., Schmah, T., Stoica, C. & Ellis, D. C. P. Geometric Mechanics and Symmetry. (2009) doi:10.1093/oso/9780199212903.001.0001 -- [10.1093/oso/9780199212903.001.0001](https://doi.org/10.1093/oso/9780199212903.001.0001)
 - Holm, D. D., Marsden, J. E. & Ratiu, T. S. The Euler–Poincaré Equations and Semidirect Products with Applications to Continuum Theories. Advances in Mathematics vol. 137 1–81 (1998) -- [10.1006/aima.1998.1721](https://doi.org/10.1006/aima.1998.1721)
 - Kanso, E. et al. On the geometric character of stress in continuum mechanics. Zeitschrift für angewandte Mathematik und Physik vol. 58 843–856 (2007) -- [10.1007/s00033-007-6141-8](https://doi.org/10.1007/s00033-007-6141-8)
-- Kolev, B., Desmorat, R.: Objective rates as covariant derivatives on the manifold of Riemannian metrics, pp 1–39, (2021)
 - Lewis, D., Marsden, J., Montgomery, R. & Ratiu, T. The Hamiltonian structure for dynamic free boundary problems. Physica D: Nonlinear Phenomena vol. 18 391–404 (1986) -- [10.1016/0167-2789(86)90207-1](https://doi.org/10.1016/0167-2789(86)90207-1)
 - Málek, J. & Průša, V. Derivation of Equations for Continuum Mechanics and Thermodynamics of Fluids. Handbook of Mathematical Analysis in Mechanics of Viscous Fluids 3–72 (2018) doi:10.1007/978-3-319-13344-7_1 -- [10.1007/978-3-319-13344-7_1](https://doi.org/10.1007/978-3-319-13344-7_1)
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
-- Marsden, J.E., Hughes, T. J. R.: Mathematical Foundations of Elasticity. (1994)
-- JE Marsden. Marsden, J.E., Ratiu, T.S.: Introduction to Mechanics and Symmetry: A Basic Exposition of Classical Mechanical Systems, vol. 17. Springer Science & Business Media, Berlin (2013) (2013)
+- JE Marsden, Introduction to Mechanics and Symmetry: A Basic Exposition of Classical Mechanical Systems (2013)
 - Marsden, J. & Weinstein, A. Reduction of symplectic manifolds with symmetry. Reports on Mathematical Physics vol. 5 121–130 (1974) -- [10.1016/0034-4877(74)90021-4](https://doi.org/10.1016/0034-4877(74)90021-4)
 - Marsden, J. E. & Weinstein, A. The Hamiltonian structure of the Maxwell-Vlasov equations. Physica D: Nonlinear Phenomena vol. 4 394–406 (1982) -- [10.1016/0167-2789(82)90043-4](https://doi.org/10.1016/0167-2789(82)90043-4)
 - Marsden, J. & Weinstein, A. Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids. Physica D: Nonlinear Phenomena vol. 7 305–323 (1983) -- [10.1016/0167-2789(83)90134-3](https://doi.org/10.1016/0167-2789(83)90134-3)

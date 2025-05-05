@@ -26,18 +26,12 @@ In order to guarantee the passivity of a kind of conservative system, the port H
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Zheng_2018,
-  title={{Time‐Varying Impedance Control of Port Hamiltonian System with a New Energy‐Storing Tank}},
-  volume={2018},
-  ISSN={1099-0526},
-  DOI={10.1155/2018/8134230},
-  number={1},
-  journal={Complexity},
-  publisher={Wiley},
-  author={Zheng, Min and Yuan, Tangqing and Huang, Tao},
-  editor={Zhou, Yimin},
-  year={2018}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -62,7 +56,6 @@ In order to guarantee the passivity of a kind of conservative system, the port H
 - Buchli, J., Theodorou, E., Stulp, F. & Schaal, S. Variable Impedance Control - A Reinforcement Learning Approach. Robotics: Science and Systems VI (2010) doi:10.15607/rss.2010.vi.020 -- [10.15607/rss.2010.vi.020](https://doi.org/10.15607/rss.2010.vi.020)
 - Tsumugiwa, T., Yokogawa, R. & Hara, K. Variable impedance control based on estimation of human arm stiffness for human-robot cooperative calligraphic task. Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292) vol. 1 644–650 -- [10.1109/robot.2002.1013431](https://doi.org/10.1109/robot.2002.1013431)
 - Kordasz, M., Kuczkowski, K. & Sauer, P. Study on possible control algorithms for lower limb rehabilitation system. 2011 IEEE International Conference on Rehabilitation Robotics 1–6 (2011) doi:10.1109/icorr.2011.5975450 -- [10.1109/icorr.2011.5975450](https://doi.org/10.1109/icorr.2011.5975450)
-- FeioJ. MartinsJ. M. andda CostaJ. S. Variable impedance control of manipulator robots applied to orthopedic surgery 7th Workshop on Advanced Control and Diagnosis 2009 Zielona Gra Poland 1–6.
 - Ferraguti, F., Secchi, C. & Fantuzzi, C. A tank-based approach to impedance control with variable stiffness. 2013 IEEE International Conference on Robotics and Automation 4948–4953 (2013) doi:10.1109/icra.2013.6631284 -- [10.1109/icra.2013.6631284](https://doi.org/10.1109/icra.2013.6631284)
 - Ferraguti, F. et al. An Energy Tank-Based Interactive Control Architecture for Autonomous and Teleoperated Robotic Surgery. IEEE Transactions on Robotics vol. 31 1073–1088 (2015) -- [10.1109/tro.2015.2455791](https://doi.org/10.1109/tro.2015.2455791)
 - Franken, M., Stramigioli, S., Misra, S., Secchi, C. & Macchelli, A. Bilateral Telemanipulation With Time Delays: A Two-Layer Approach Combining Passivity and Transparency. IEEE Transactions on Robotics vol. 27 741–756 (2011) -- [10.1109/tro.2011.2142430](https://doi.org/10.1109/tro.2011.2142430)

@@ -26,15 +26,12 @@ This work investigates the passivity‐based control of a class of underactuated
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Franco_2025,
-  title={{Position‐Feedback Integral IDA‐PBC for Constant Matched and Unmatched Disturbances}},
-  ISSN={1099-1239},
-  DOI={10.1002/rnc.7870},
-  journal={International Journal of Robust and Nonlinear Control},
-  publisher={Wiley},
-  author={Franco, Enrico and Ryalat, Mutaz},
-  year={2025}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -43,7 +40,7 @@ This work investigates the passivity‐based control of a class of underactuated
 ## References
 - Liu, Y. & Yu, H. A survey of underactuated mechanical systems. IET Control Theory &amp; Applications vol. 7 921–935 (2013) -- [10.1049/iet-cta.2012.0505](https://doi.org/10.1049/iet-cta.2012.0505)
 - Gutiérrez‐Oribio, D., Mercado‐Uribe, J. A., Moreno, J. A. & Fridman, L. Robust global stabilization of a class of underactuated mechanical systems of two degrees of freedom. International Journal of Robust and Nonlinear Control vol. 31 3908–3928 (2020) -- [10.1002/rnc.5176](https://doi.org/10.1002/rnc.5176)
-- Bastos, G., Jr. & Franco, E. Dynamic tube model predictive control for a class of soft manipulators with fluidic actuation. International Journal of Robust and Nonlinear Control (2023) doi:10.1002/rnc.6598 -- [10.1002/rnc.6598](https://doi.org/10.1002/rnc.6598)
+- Bastos, G., Jr. & Franco, E. Dynamic tube model predictive control for a class of soft manipulators with fluidic actuation. International Journal of Robust and Nonlinear Control vol. 35 2780–2799 (2023) -- [10.1002/rnc.6598](https://doi.org/10.1002/rnc.6598)
 - Yang, Y., Pan, Y., Xu, C.-Z. & Wunsch, D. C. Hamiltonian-Driven Adaptive Dynamic Programming With Efficient Experience Replay. IEEE Transactions on Neural Networks and Learning Systems vol. 35 3278–3290 (2024) -- [10.1109/tnnls.2022.3213566](https://doi.org/10.1109/tnnls.2022.3213566)
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Transactions on Automatic Control vol. 47 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - Nunna, K., Sassano, M. & Astolfi, A. Constructive Interconnection and Damping Assignment for Port-Controlled Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 60 2350–2361 (2015) -- [10.1109/tac.2015.2400663](https://doi.org/10.1109/tac.2015.2400663)

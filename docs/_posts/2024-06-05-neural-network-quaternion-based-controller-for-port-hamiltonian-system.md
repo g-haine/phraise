@@ -12,7 +12,7 @@ category: articles
 [Fawaz E. Alsaadi](authors/fawaz-e-alsaadi), [Fernando E. Serrano](authors/fernando-e-serrano), [Larissa M. Batrancea](authors/larissa-m-batrancea)
  
 ## Abstract
-In this research article, a control approach for port-Hamiltonian PH systems based in a neural network (NN) quaternion-based control strategy is presented. First, the dynamics is converted by the implementation of a Poisson bracket in order to facilitate the mathematical model in order to obtain a feasible formulation for the controller design based on quaternion NNs. In this study, two controllers for this kind of of system are presented: the first one consists in the controller design for a PH system about its equilibrium points taking into consideration the position and momentum. This mean is achieved by dividing the quaternion neural controller into scalar and vectorial parts to facilitate the controller derivation by selecting a Lyapunov functional. The second control strategy consists in designing the trajectory tracking controller, in which a reference moment is considered in order to drive this variable to the final desired position according to a reference variable; again, a Lyapunov functional is implemented to obtain the desired control law. It is important to mention that both controllers take into advantage that the energy consideration and that the representation of many physical systems could be implemented in quaternions. Besides the angular velocity, trajectory tracking of a three-phase induction motor is presented as a third numerical experiment. Two numerical experiments are presented to validate the theoretical results evinced in this study. Finally, a discussion and conclusion section is provided.
+ In this research article, a control approach for port-Hamiltonian PH systems based in a neural network (NN) quaternion-based control strategy is presented. First, the dynamics is converted by the implementation of a Poisson bracket in order to facilitate the mathematical model in order to obtain a feasible formulation for the controller design based on quaternion NNs. In this study, two controllers for this kind of of system are presented: the first one consists in the controller design for a PH system about its equilibrium points taking into consideration the position and momentum. This mean is achieved by dividing the quaternion neural controller into scalar and vectorial parts to facilitate the controller derivation by selecting a Lyapunov functional. The second control strategy consists in designing the trajectory tracking controller, in which a reference moment is considered in order to drive this variable to the final desired position according to a reference variable; again, a Lyapunov functional is implemented to obtain the desired control law. It is important to mention that both controllers take into advantage that the energy consideration and that the representation of many physical systems could be implemented in quaternions. Besides the angular velocity, trajectory tracking of a three-phase induction motor is presented as a third numerical experiment. Two numerical experiments are presented to validate the theoretical results evinced in this study. Finally, a discussion and conclusion section is provided.
  
 ## Citation
 - **Journal:** Demonstratio Mathematica
@@ -26,17 +26,12 @@ In this research article, a control approach for port-Hamiltonian PH systems bas
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Alsaadi_2024,
-  title={{Neural network quaternion-based controller for port-Hamiltonian system}},
-  volume={57},
-  ISSN={2391-4661},
-  DOI={10.1515/dema-2023-0131},
-  number={1},
-  journal={Demonstratio Mathematica},
-  publisher={Walter de Gruyter GmbH},
-  author={Alsaadi, Fawaz E. and Serrano, Fernando E. and Batrancea, Larissa M.},
-  year={2024}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -111,5 +106,4 @@ In this research article, a control approach for port-Hamiltonian PH systems bas
 - Nguyen, S. & Turski, Ł. A. Examples of the Dirac approach to dynamics of systems with constraints. Physica A: Statistical Mechanics and its Applications vol. 290 431–444 (2001) -- [10.1016/s0378-4371(00)00449-0](https://doi.org/10.1016/s0378-4371(00)00449-0)
 - Chandre, C. Incomplete Dirac reduction of constrained Hamiltonian systems. Annals of Physics vol. 361 1–13 (2015) -- [10.1016/j.aop.2015.06.011](https://doi.org/10.1016/j.aop.2015.06.011)
 - [Borja, P., Ortega, R. & Nuño, E. New results on PID passivity-based controllers for port-Hamiltonian systems. IFAC-PapersOnLine vol. 51 175–180 (2018)](new-results-on-pid-passivity-based-controllers-for-port-hamiltonian-systems) -- [10.1016/j.ifacol.2018.06.049](https://doi.org/10.1016/j.ifacol.2018.06.049)
-- R. Krishnan, Electric Motor Drives, Modeling, Analysis and Control, Prentice Hall, New Delhi, 2006.
 

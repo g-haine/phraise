@@ -26,17 +26,12 @@ This paper is concerned with the compliant force regulation for a robot manipula
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Satoh_2017,
-  title={{A force regulation guaranteeing input‐to‐state stability for a robot manipulator in a potential field}},
-  volume={12},
-  ISSN={1931-4981},
-  DOI={10.1002/tee.22565},
-  number={S2},
-  journal={IEEJ Transactions on Electrical and Electronic Engineering},
-  publisher={Wiley},
-  author={Satoh, Satoshi and Ebimoto, Ryusuke and Saeki, Masami},
-  year={2017}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -48,7 +43,6 @@ This paper is concerned with the compliant force regulation for a robot manipula
 - Chiaverini, S., Siciliano, B. & Villani, L. Force/position regulation of compliant robot manipulators. IEEE Transactions on Automatic Control vol. 39 647–652 (1994) -- [10.1109/9.280780](https://doi.org/10.1109/9.280780)
 - Arimoto, S., Han, H.-Y., Cheah, C. C. & Kawamura, S. Extension of impedance matching to nonlinear dynamics of robotic tasks. Systems &amp; Control Letters vol. 36 109–119 (1999) -- [10.1016/s0167-6911(98)00084-x](https://doi.org/10.1016/s0167-6911(98)00084-x)
 - [Navarro-Alarcon, D., Liu, Y.-H., Romero, J. G. & Li, P. Energy Shaping Methods for Asymptotic Force Regulation of Compliant Mechanical Systems. IEEE Transactions on Control Systems Technology vol. 22 2376–2383 (2014)](energy-shaping-methods-for-asymptotic-force-regulation-of-compliant-mechanical-systems) -- [10.1109/tcst.2014.2309659](https://doi.org/10.1109/tcst.2014.2309659)
-- MaschkeB van derSchaftAJ.Port‐controlled Hamiltonian systems: modelling origins and system theoretic properties. InProceedings of the 2nd IFAC Symposium Nonlinear Control Systems 1992; 282–288.
 - Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1996). doi:10.1007/3-540-76074-1 -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
 - Arnold, V. I. Mathematical Methods of Classical Mechanics. Graduate Texts in Mathematics (Springer New York, 1989). doi:10.1007/978-1-4757-2063-1 -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
@@ -57,8 +51,8 @@ This paper is concerned with the compliant force regulation for a robot manipula
 - Sontag, E. D. Input to State Stability: Basic Concepts and Results. Lecture Notes in Mathematics 163–220 (2008) doi:10.1007/978-3-540-77653-6_3 -- [10.1007/978-3-540-77653-6_3](https://doi.org/10.1007/978-3-540-77653-6_3)
 - Romero, J. G., Navarro-Alarcon, D. & Panteley, E. Robust globally exponentially stable control for mechanical systems in free/constrained-motion tasks. 52nd IEEE Conference on Decision and Control 3067–3072 (2013) doi:10.1109/cdc.2013.6760350 -- [10.1109/cdc.2013.6760350](https://doi.org/10.1109/cdc.2013.6760350)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
-- Khalil HK. Nonlinear Systems (1996)
+- Khalil HK, Nonlinear Systems (1996)
 - Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/tac.2010.2042010](https://doi.org/10.1109/tac.2010.2042010)
-- Yoshizawa T. Stability Theory by Lyapunov's Second Method (1966)
+- Yoshizawa T, Stability Theory by Lyapunov's Second Method (1966)
 - LaSalle, J. P. Stability theory for ordinary differential equations. Journal of Differential Equations vol. 4 57–65 (1968) -- [10.1016/0022-0396(68)90048-x](https://doi.org/10.1016/0022-0396(68)90048-x)
 

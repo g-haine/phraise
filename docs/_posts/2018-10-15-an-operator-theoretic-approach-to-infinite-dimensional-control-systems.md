@@ -12,7 +12,7 @@ category: articles
 [Birgit Jacob](authors/birgit-jacob), [Hans Zwart](authors/hans-zwart)
  
 ## Abstract
-<jats:p>In this survey we use an operator theoretic approach to infinite‐dimensional systems theory. As this research field is quite rich, we restrict ourselves to the class of infinite‐dimensional linear port‐Hamiltonian systems and we will focus on topics such as well‐posedness, stability and stabilizability. We combine the abstract operator theoretic approach with the more physical approach based on Hamiltonians. This enables us to derive easy verifiable conditions for well‐posedness and stability.</jats:p>
+In this survey we use an operator theoretic approach to infinite‐dimensional systems theory. As this research field is quite rich, we restrict ourselves to the class of infinite‐dimensional linear port‐Hamiltonian systems and we will focus on topics such as well‐posedness, stability and stabilizability. We combine the  operator theoretic approach with the more physical approach based on Hamiltonians. This enables us to derive easy verifiable conditions for well‐posedness and stability.
  
 ## Citation
 - **Journal:** GAMM-Mitteilungen
@@ -26,17 +26,12 @@ category: articles
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Jacob_2018,
-  title={{An operator theoretic approach to infinite‐dimensional control systems}},
-  volume={41},
-  ISSN={1522-2608},
-  DOI={10.1002/gamm.201800010},
-  number={4},
-  journal={GAMM-Mitteilungen},
-  publisher={Wiley},
-  author={Jacob, Birgit and Zwart, Hans},
-  year={2018}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

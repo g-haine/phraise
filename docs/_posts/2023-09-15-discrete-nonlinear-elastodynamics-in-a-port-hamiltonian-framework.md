@@ -12,7 +12,7 @@ category: articles
 [Philipp L. Kinon](authors/philipp-l-kinon), [Tobias Thoma](authors/tobias-thoma), [Peter Betsch](authors/peter-betsch), [Paul Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
-<jats:title>Abstract</jats:title><jats:p>We provide a fully nonlinear port‐Hamiltonian formulation for discrete elastodynamical systems as well as a structure‐preserving time discretization. The governing equations are obtained in a variational manner and represent index‐1 differential algebraic equations. Performing an index reduction, one obtains the port‐Hamiltonian state space model, which features the nonlinear strains as an independent state next to position and velocity. Moreover, hyperelastic material behavior is captured in terms of a nonlinear stored energy function. The model exhibits passivity and losslessness and has an underlying symmetry yielding the conservation of angular momentum. We perform temporal discretization using the midpoint discrete gradient, such that the beneficial properties are inherited by the developed time stepping scheme in a discrete sense. The numerical results obtained in a representative example are demonstrated to validate the findings.</jats:p>
+We provide a fully nonlinear port‐Hamiltonian formulation for discrete elastodynamical systems as well as a structure‐preserving time discretization. The governing equations are obtained in a variational manner and represent index‐1 differential algebraic equations. Performing an index reduction, one obtains the port‐Hamiltonian state space model, which features the nonlinear strains as an independent state next to position and velocity. Moreover, hyperelastic material behavior is captured in terms of a nonlinear stored energy function. The model exhibits passivity and losslessness and has an underlying symmetry yielding the conservation of angular momentum. We perform temporal discretization using the midpoint discrete gradient, such that the beneficial properties are inherited by the developed time stepping scheme in a discrete sense. The numerical results obtained in a representative example are demonstrated to validate the findings.
  
 ## Citation
 - **Journal:** PAMM
@@ -26,17 +26,12 @@ category: articles
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Kinon_2023,
-  title={{Discrete nonlinear elastodynamics in a port‐Hamiltonian framework}},
-  volume={23},
-  ISSN={1617-7061},
-  DOI={10.1002/pamm.202300144},
-  number={3},
-  journal={PAMM},
-  publisher={Wiley},
-  author={Kinon, Philipp L. and Thoma, Tobias and Betsch, Peter and Kotyczka, Paul},
-  year={2023}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -51,7 +46,7 @@ category: articles
 - Marsden, J. E. & Ratiu, T. S. Introduction to Mechanics and Symmetry. Texts in Applied Mathematics (Springer New York, 1999). doi:10.1007/978-0-387-21792-5 -- [10.1007/978-0-387-21792-5](https://doi.org/10.1007/978-0-387-21792-5)
 - Livens, G. H. IX. — On Hamilton’s Principle and the Modified Function in Analytical Dynamics. Proceedings of the Royal Society of Edinburgh vol. 39 113–119 (1920) -- [10.1017/s0370164600018617](https://doi.org/10.1017/s0370164600018617)
 - Kinon, P. L., Betsch, P. & Schneider, S. The GGL variational principle for constrained mechanical systems. Multibody System Dynamics vol. 57 211–236 (2023) -- [10.1007/s11044-023-09889-6](https://doi.org/10.1007/s11044-023-09889-6)
-- DOI not foun -- [10.1007/s11071‐023‐08522‐7](https://doi.org/10.1007/s11071‐023‐08522‐7)
+-  -- [10.1007/s11071‐023‐08522‐7](https://doi.org/10.1007/s11071‐023‐08522‐7)
 - Ströhle, T. & Betsch, P. A simultaneous space‐time discretization approach to the inverse dynamics of geometrically exact strings. International Journal for Numerical Methods in Engineering vol. 123 2573–2609 (2022) -- [10.1002/nme.6951](https://doi.org/10.1002/nme.6951)
 - Betsch, P. & Janz, A. An energy–momentum consistent method for transient simulations with mixed finite elements developed in the framework of geometrically exact shells. International Journal for Numerical Methods in Engineering vol. 108 423–455 (2016) -- [10.1002/nme.5217](https://doi.org/10.1002/nme.5217)
 - [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)

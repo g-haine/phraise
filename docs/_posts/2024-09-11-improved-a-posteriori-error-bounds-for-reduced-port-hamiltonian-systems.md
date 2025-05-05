@@ -36,17 +36,12 @@ Structure-preserving model order reduction; A posteriori error control; Port-Ham
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Rettberg_2024,
-  title={{Improved a posteriori error bounds for reduced port-Hamiltonian systems}},
-  volume={50},
-  ISSN={1572-9044},
-  DOI={10.1007/s10444-024-10195-8},
-  number={5},
-  journal={Advances in Computational Mathematics},
-  publisher={Springer Science and Business Media LLC},
-  author={Rettberg, Johannes and Wittwar, Dominik and Buchfink, Patrick and Herkert, Robin and Fehr, Jörg and Haasdonk, Bernard},
-  year={2024}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -56,7 +51,6 @@ Structure-preserving model order reduction; A posteriori error control; Port-Ham
 - [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica vol. 32 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - [Rettberg, J. et al. Port-Hamiltonian fluid–structure interaction modelling and structure-preserving model order reduction of a classical guitar. Mathematical and Computer Modelling of Dynamical Systems vol. 29 116–148 (2023)](port-hamiltonian-fluid-structure-interaction-modelling-and-structure-preserving-model-order-reduction-of-a-classical-guitar) -- [10.1080/13873954.2023.2173238](https://doi.org/10.1080/13873954.2023.2173238)
-- Haasdonk, B., Ohlberger, M.: Space-adaptive reduced basis simulation for time-dependent problems. In: MATHMOD, 6th Vienna International Conference on Mathematical Modelling, Vienna, Austria, pp. 718–723 (2009). https://www.argesim.org/fileadmin/user_upload_argesim/ARGESIM_Publications_OA/MATHMOD_Publications_OA/MATHMOD_2009_AR34_35/full_papers/184.pdf
 - Haasdonk, B., Kleikamp, H., Ohlberger, M., Schindler, F. & Wenzel, T. A New Certified Hierarchical and Adaptive RB-ML-ROM Surrogate Model for Parametrized PDEs. SIAM Journal on Scientific Computing vol. 45 A1039–A1065 (2023) -- [10.1137/22m1493318](https://doi.org/10.1137/22m1493318)
 - Haasdonk, B. & Ohlberger, M. Efficient reduced models anda posteriorierror estimation for parametrized dynamical systems by offline/online decomposition. Mathematical and Computer Modelling of Dynamical Systems vol. 17 145–161 (2011) -- [10.1080/13873954.2010.514703](https://doi.org/10.1080/13873954.2010.514703)
 - Hain, S., Ohlberger, M., Radic, M. & Urban, K. A hierarchical a posteriori error estimator for the Reduced Basis Method. Advances in Computational Mathematics vol. 45 2191–2214 (2019) -- [10.1007/s10444-019-09675-z](https://doi.org/10.1007/s10444-019-09675-z)
@@ -74,7 +68,6 @@ Structure-preserving model order reduction; A posteriori error control; Port-Ham
 - DOI not foun -- [10.1002/nla.2153.e2153nla.2153](https://doi.org/10.1002/nla.2153.e2153nla.2153)
 - [Mehl, C., Mehrmann, V. & Sharma, P. Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM Journal on Matrix Analysis and Applications vol. 37 1625–1654 (2016)](stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations) -- [10.1137/16m1067330](https://doi.org/10.1137/16m1067330)
 - [Mehl, C., Mehrmann, V. & Sharma, P. Stability radii for real linear Hamiltonian systems with perturbed dissipation. BIT Numerical Mathematics vol. 57 811–843 (2017)](stability-radii-for-real-linear-hamiltonian-systems-with-perturbed-dissipation) -- [10.1007/s10543-017-0654-0](https://doi.org/10.1007/s10543-017-0654-0)
-- Liljegren-Sailer, B.: On port-Hamiltonian modeling and structure-preserving model reduction. Doctoral thesis, Universität Trier (2020). https://nbn-resolving.org/urn:nbn:de:hbz:385-1-14498
 - [Beattie, C., Gugercin, S. & Mehrmann, V. Structure-Preserving Interpolatory Model Reduction for Port-Hamiltonian Differential-Algebraic Systems. Realization and Model Reduction of Dynamical Systems 235–254 (2022) doi:10.1007/978-3-030-95157-3_13](structure-preserving-interpolatory-model-reduction-for-port-hamiltonian-differential-algebraic-systems) -- [10.1007/978-3-030-95157-3_13](https://doi.org/10.1007/978-3-030-95157-3_13)
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - [Breiten, T. & Unger, B. Passivity preserving model reduction via spectral factorization. Automatica vol. 142 110368 (2022)](passivity-preserving-model-reduction-via-spectral-factorization) -- [10.1016/j.automatica.2022.110368](https://doi.org/10.1016/j.automatica.2022.110368)
@@ -114,5 +107,4 @@ Structure-preserving model order reduction; A posteriori error control; Port-Ham
 - Peng, L. & Mohseni, K. Symplectic Model Reduction of Hamiltonian Systems. SIAM Journal on Scientific Computing vol. 38 A1–A27 (2016) -- [10.1137/140978922](https://doi.org/10.1137/140978922)
 - Buchfink, P., Bhatt, A. & Haasdonk, B. Symplectic Model Order Reduction with Non-Orthonormal Bases. Mathematical and Computational Applications vol. 24 43 (2019) -- [10.3390/mca24020043](https://doi.org/10.3390/mca24020043)
 - Chellappa, S., Feng, L., de la Rubia, V. & Benner, P. Inf-Sup-Constant-Free State Error Estimator for Model Order Reduction of Parametric Systems in Electromagnetics. IEEE Transactions on Microwave Theory and Techniques vol. 71 4762–4777 (2023) -- [10.1109/tmtt.2023.3288642](https://doi.org/10.1109/tmtt.2023.3288642)
-- Buchfink, P., Haasdonk, B., Rave, S.: PSD-Greedy basis generation for structure-preserving model order reduction of Hamiltonian systems. In: Frolkovič, P., Mikula, K., Ševčovič, D. (eds.) Proceedings of the Conference Algoritmy 2020, pp. 151–160. Vydavateľstvo SPEKTRUM, Vysoke Tatry, Podbanske (2020). http://www.iam.fmph.uniba.sk/amuc/ojs/index.php/algoritmy/article/view/1577/829
 

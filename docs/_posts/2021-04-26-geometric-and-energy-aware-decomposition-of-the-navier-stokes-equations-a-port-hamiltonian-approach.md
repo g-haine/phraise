@@ -26,17 +26,12 @@ A port-Hamiltonian model for compressible Newtonian fluid dynamics is presented 
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Califano_2021,
-  title={{Geometric and energy-aware decomposition of the Navier–Stokes equations: A port-Hamiltonian approach}},
-  volume={33},
-  ISSN={1089-7666},
-  DOI={10.1063/5.0048359},
-  number={4},
-  journal={Physics of Fluids},
-  publisher={AIP Publishing},
-  author={Califano, Federico and Rashad, Ramy and Schuller, Frederic P. and Stramigioli, Stefano},
-  year={2021}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

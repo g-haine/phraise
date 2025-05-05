@@ -26,16 +26,12 @@ We study the problem of state transition on a finite time interval with minimal 
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Faulwasser_2025,
-  title={{Hidden Regularity in Singular Optimal Control of port-Hamiltonian Systems}},
-  volume={3},
-  ISSN={2939-9084},
-  DOI={10.52825/dae-p.v3i.960},
-  journal={DAE Panel},
-  publisher={TIB Open Publishing},
-  author={Faulwasser, Timm and Kirchhoff, Jonas and Mehrmann, Volker and Philipp, Friedrich and Schaller, Manuel and Worthmann, Karl},
-  year={2025}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -78,6 +74,7 @@ We study the problem of state transition on a finite time interval with minimal 
 - [Schöberl, M., Ennsbrunner, H. & Schlacher, K. Modelling of piezoelectric structures–a Hamiltonian approach. Mathematical and Computer Modelling of Dynamical Systems vol. 14 179–193 (2008)](modelling-of-piezoelectric-structures-a-hamiltonian-approach) -- [10.1080/13873950701844824](https://doi.org/10.1080/13873950701844824)
 - [Siuka, A., Schöberl, M. & Schlacher, K. Port-Hamiltonian modelling and energy-based control of the Timoshenko beam. Acta Mechanica vol. 222 69–89 (2011)](port-hamiltonian-modelling-and-energy-based-control-of-the-timoshenko-beam) -- [10.1007/s00707-011-0510-2](https://doi.org/10.1007/s00707-011-0510-2)
 - Strikwerda, J. C. Finite Difference Schemes and Partial Differential Equations, Second Edition. (2004) doi:10.1137/1.9780898717938 -- [10.1137/1.9780898717938](https://doi.org/10.1137/1.9780898717938)
+- Tröltzsch, F. Optimal control of semilinear parabolic equations. Graduate Studies in Mathematics 265–321 (2010) doi:10.1090/gsm/112/05 -- [10.1090/gsm/112/05](https://doi.org/10.1090/gsm/112/05)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [Warsewa, A., Böhm, M., Sawodny, O. & Tarín, C. A port-Hamiltonian approach to modeling the structural dynamics of complex systems. Applied Mathematical Modelling vol. 89 1528–1546 (2021)](a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems) -- [10.1016/j.apm.2020.07.038](https://doi.org/10.1016/j.apm.2020.07.038)
 - Wong, K.-T. The eigenvalue problem λTx + Sx. Journal of Differential Equations vol. 16 270–280 (1974) -- [10.1016/0022-0396(74)90014-x](https://doi.org/10.1016/0022-0396(74)90014-x)

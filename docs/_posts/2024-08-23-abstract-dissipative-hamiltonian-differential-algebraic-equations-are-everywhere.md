@@ -12,7 +12,7 @@ category: articles
 [Hans Zwart](authors/hans-zwart), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
-<jats:p>In this paper we study the representation of partial differential equations (PDEs) as abstract differential-algebraic equations (DAEs) with dissipative Hamiltonian structure (adHDAEs). We show that these systems not only arise when there are constraints coming from the underlying physics, but many standard PDE models can be seen as an adHDAE on an extended state space. This reflects the fact that models often include closure relations and structural properties. We present a unifying operator theoretic approach to analyze the properties of such operator equations and illustrate this by several applications.</jats:p>
+In this paper we study the representation of partial differential equations (PDEs) as  differential-algebraic equations (DAEs) with dissipative Hamiltonian structure (adHDAEs). We show that these systems not only arise when there are constraints coming from the underlying physics, but many standard PDE models can be seen as an adHDAE on an extended state space. This reflects the fact that models often include closure relations and structural properties. We present a unifying operator theoretic approach to analyze the properties of such operator equations and illustrate this by several applications.
  
 ## Citation
 - **Journal:** DAE Panel
@@ -26,16 +26,12 @@ category: articles
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Zwart_2024,
-  title={{Abstract Dissipative Hamiltonian Differential-Algebraic Equations Are Everywhere}},
-  volume={2},
-  ISSN={2939-9084},
-  DOI={10.52825/dae-p.v2i.957},
-  journal={DAE Panel},
-  publisher={TIB Open Publishing},
-  author={Zwart, Hans and Mehrmann, Volker},
-  year={2024}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

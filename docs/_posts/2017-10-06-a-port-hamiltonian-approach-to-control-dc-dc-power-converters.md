@@ -26,17 +26,12 @@ Port-Hamiltonian system is a modeling and control methodology developed in recen
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{NAVARRO_2017,
-  title={{A Port-Hamiltonian Approach to Control DC-DC Power Converters}},
-  volume={26},
-  ISSN={1841-429X},
-  DOI={10.24846/v26i3y201702},
-  number={3},
-  journal={Studies in Informatics and Control},
-  publisher={ICI Bucharest},
-  author={NAVARRO, David and CORTES, Domingo and GALAZ-LARIOS, Martha},
-  year={2017}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

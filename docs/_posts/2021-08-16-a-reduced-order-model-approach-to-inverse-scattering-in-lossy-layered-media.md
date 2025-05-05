@@ -38,17 +38,12 @@ Inverse scattering; Data driven reduced order model; Passive; Port-Hamiltonian d
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Borcea_2021,
-  title={{A Reduced Order Model Approach to Inverse Scattering in Lossy Layered Media}},
-  volume={89},
-  ISSN={1573-7691},
-  DOI={10.1007/s10915-021-01616-7},
-  number={1},
-  journal={Journal of Scientific Computing},
-  publisher={Springer Science and Business Media LLC},
-  author={Borcea, Liliana and Druskin, Vladimir and Zimmerling, Jörn},
-  year={2021}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
@@ -65,21 +60,20 @@ Inverse scattering; Data driven reduced order model; Passive; Port-Hamiltonian d
 - Bruckstein, A. M., Levy, B. C. & Kailath, T. Differential Methods in Inverse Scattering. SIAM Journal on Applied Mathematics vol. 45 312–335 (1985) -- [10.1137/0145017](https://doi.org/10.1137/0145017)
 - Buterin, S. A. & Yurko, V. A. Inverse problems for second-order differential pencils with Dirichlet boundary conditions. jiip vol. 20 855–881 (2012) -- [10.1515/jip-2012-0062](https://doi.org/10.1515/jip-2012-0062)
 - Chu, M. & Golub, G. Inverse Eigenvalue Problems. (2005) doi:10.1093/acprof:oso/9780198566649.001.0001 -- [10.1093/acprof:oso/9780198566649.001.0001](https://doi.org/10.1093/acprof:oso/9780198566649.001.0001)
-- E Coddington. Coddington, E., Levinson, N.: Theory of Ordinary Differentail Equations. Differential Equations, pp. 16–1022. McGraw-Hill, New York (1955) (1955)
+- E Coddington, Theory of Ordinary Differentail Equations (1955)
 - Druskin, V., Mamonov, A. V., Thaler, A. E. & Zaslavsky, M. Direct, Nonlinear Inversion Algorithm for Hyperbolic Problems via Projection-Based Model Reduction. SIAM Journal on Imaging Sciences vol. 9 684–747 (2016) -- [10.1137/15m1039432](https://doi.org/10.1137/15m1039432)
-- G Freiling. Freiling, G., Yurko, V.A.: Inverse Sturm-Liouville Problems and Their Applications. NOVA Science Publishers, New York (2001) (2001)
+- G Freiling, Inverse Sturm-Liouville Problems and Their Applications (2001)
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - Gustavsen, B. & Semlyen, A. Rational approximation of frequency domain responses by vector fitting. IEEE Transactions on Power Delivery vol. 14 1052–1061 (1999) -- [10.1109/61.772353](https://doi.org/10.1109/61.772353)
 - Gustavsen, B. & Semlyen, A. Enforcing passivity for admittance matrices approximated by rational functions. IEEE Transactions on Power Systems vol. 16 97–104 (2001) -- [10.1109/59.910786](https://doi.org/10.1109/59.910786)
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - Jaulent, M. The inverse scattering problem for                                                       G transmission lines. Journal of Mathematical Physics vol. 23 2286–2290 (1982) -- [10.1063/1.525307](https://doi.org/10.1063/1.525307)
 - Joubert, W. Lanczos Methods for the Solution of Nonsymmetric Systems of Linear Equations. SIAM Journal on Matrix Analysis and Applications vol. 13 926–943 (1992) -- [10.1137/0613056](https://doi.org/10.1137/0613056)
-- T Kato. Kato, T.: Perturbation Theory for Linear Operators, vol. 132. Springer, Berlin (2013) (2013)
+- T Kato, Perturbation Theory for Linear Operators (2013)
 - Lanczos, C. An iteration method for the solution of the eigenvalue problem of linear differential and integral operators. Journal of Research of the National Bureau of Standards vol. 45 255 (1950) -- [10.6028/jres.045.026](https://doi.org/10.6028/jres.045.026)
 - Markus, A. Introduction to the Spectral Theory o                    Polynomial Operator Pencils. Translations of Mathematica                        Monographs (2012) doi:10.1090/mmono/071 -- [10.1090/mmono/071](https://doi.org/10.1090/mmono/071)
 - Marshall, T. Synthesis of RLC Ladder Networks by Matrix Tridiagonalization. IEEE Transactions on Circuit Theory vol. 16 39–46 (1969) -- [10.1109/tct.1969.1082885](https://doi.org/10.1109/tct.1969.1082885)
 - Morgan, M. A., Groves, W. M. & Boyd, T. A. Reflectionless Filter Topologies Supporting Arbitrary Low-Pass Ladder Prototypes. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 66 594–604 (2019) -- [10.1109/tcsi.2018.2872424](https://doi.org/10.1109/tcsi.2018.2872424)
-- Pronska, N.: Spectral Properties of Sturm-liouville Equations with Singular Energy-dependent Potentials. arXiv preprint arXiv:1212.6671 (2012)
 - Pronska, N. Reconstruction of Energy-Dependent Sturm–Liouville Equations from two Spectra. Integral Equations and Operator Theory vol. 76 403–419 (2013) -- [10.1007/s00020-013-2035-7](https://doi.org/10.1007/s00020-013-2035-7)
 - Saad, Y. The Lanczos Biorthogonalization Algorithm and Other Oblique Projection Methods for Solving Large Unsymmetric Systems. SIAM Journal on Numerical Analysis vol. 19 485–506 (1982) -- [10.1137/0719031](https://doi.org/10.1137/0719031)
 - Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems &amp; Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)

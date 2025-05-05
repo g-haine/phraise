@@ -38,15 +38,12 @@ Hypocoercivity (index); Dissipative systems; Constrained PDEs; Oseen equation; P
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Achleitner_2023,
-  title={{Hypocoercivity in Algebraically Constrained Partial Differential Equations with Application to Oseen Equations}},
-  ISSN={1572-9222},
-  DOI={10.1007/s10884-023-10327-6},
-  journal={Journal of Dynamics and Differential Equations},
-  publisher={Springer Science and Business Media LLC},
-  author={Achleitner, Franz and Arnold, Anton and Mehrmann, Volker},
-  year={2023}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

@@ -12,7 +12,7 @@ category: articles
 [John Z. Shi](authors/john-z-shi)
  
 ## Abstract
-<jats:p>Qian (Tsien) Jian (1939–2018), a Chinese theoretical physicist and fluid dynamicist, devoted the second part of his scientific life to the physical understanding of small-scale turbulence to the exclusion of all else. To place Qian's contribution in an appropriate position in the field of small-scale turbulence, a historical overview and a state-of-the art review are attempted. Qian developed his own statistical theory of small-scale turbulence based on the Liouville [“Sur l'équation aux différences partielles,” J. Math. Pures Appl. 18, 71–72 (1853)] equation and a perturbation variational approach to non-equilibrium statistical mechanics, which is compatible with the Kolmogorov–Oboukhov energy spectrum. Qian's statistical theory of small-scale turbulence, which appears mathematically and physically valid, successfully led to his contributions to (i) the closure problem of turbulence; (ii) one-dimensional turbulence; (iii) two-dimensional turbulence; (iv) the turbulent passive scalar field; (v) the cascade model of turbulence; (vi) the universal equilibrium range of turbulence; (vii) a simple model of the bump phenomenon; (viii) universal constants of turbulence; (ix) the intermittency of turbulence; and perhaps most importantly, and (x) the effect of the Taylor microscale Reynolds number (Rλ) on both the width of the inertial range of finite Rλ turbulence and the scaling exponents of velocity structure functions. In particular, Qian found that the inertial range cannot exist when Rλ≪2000. In contrast to the prevailing intermittency models, he discovered that normal scaling is valid in the real Kolmogorov inertial range when Rλ approaches infinity while the anomalous scaling observed in experiments reflects the finite Rλ effect (Qe). He then made a correction to the famous Kolmogorov [“Dissipation of energy in the locally isotropic turbulence,” Dokl. Akad. Nauk SSSR 32(1), 19–21 (1941c) (in Russian); reprinted in Proc. R. Soc. London A 434, 15–17 (1991)] equation and obtained the finite Rλ effect equation or the Kolmogorov–Novikov–Qian equation. He also independently derived the decay law of the finite Rλ effect. Qian steered all of us along the right path to an improved understanding of small-scale turbulence and solutions to its problems. Qian is credited with his contribution to enhanced knowledge about the finite Rλ effect of turbulence, which has profoundly shaped and stimulated thinking about the K41 turbulence, the K62 turbulence, and the finite Rλ turbulence.</jats:p>
+Qian (Tsien) Jian (1939–2018), a Chinese theoretical physicist and fluid dynamicist, devoted the second part of his scientific life to the physical understanding of small-scale turbulence to the exclusion of all else. To place Qian's contribution in an appropriate position in the field of small-scale turbulence, a historical overview and a state-of-the art review are attempted. Qian developed his own statistical theory of small-scale turbulence based on the Liouville [“Sur l'équation aux différences partielles,” J. Math. Pures Appl. 18, 71–72 (1853)] equation and a perturbation variational approach to non-equilibrium statistical mechanics, which is compatible with the Kolmogorov–Oboukhov energy spectrum. Qian's statistical theory of small-scale turbulence, which appears mathematically and physically valid, successfully led to his contributions to (i) the closure problem of turbulence; (ii) one-dimensional turbulence; (iii) two-dimensional turbulence; (iv) the turbulent passive scalar field; (v) the cascade model of turbulence; (vi) the universal equilibrium range of turbulence; (vii) a simple model of the bump phenomenon; (viii) universal constants of turbulence; (ix) the intermittency of turbulence; and perhaps most importantly, and (x) the effect of the Taylor microscale Reynolds number (Rλ) on both the width of the inertial range of finite Rλ turbulence and the scaling exponents of velocity structure functions. In particular, Qian found that the inertial range cannot exist when Rλ≪2000. In contrast to the prevailing intermittency models, he discovered that normal scaling is valid in the real Kolmogorov inertial range when Rλ approaches infinity while the anomalous scaling observed in experiments reflects the finite Rλ effect (Qe). He then made a correction to the famous Kolmogorov [“Dissipation of energy in the locally isotropic turbulence,” Dokl. Akad. Nauk SSSR 32(1), 19–21 (1941c) (in Russian); reprinted in Proc. R. Soc. London A 434, 15–17 (1991)] equation and obtained the finite Rλ effect equation or the Kolmogorov–Novikov–Qian equation. He also independently derived the decay law of the finite Rλ effect. Qian steered all of us along the right path to an improved understanding of small-scale turbulence and solutions to its problems. Qian is credited with his contribution to enhanced knowledge about the finite Rλ effect of turbulence, which has profoundly shaped and stimulated thinking about the K41 turbulence, the K62 turbulence, and the finite Rλ turbulence.
  
 ## Citation
 - **Journal:** Physics of Fluids
@@ -26,17 +26,12 @@ category: articles
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Shi_2021,
-  title={{Qian Jian (1939–2018) and his contribution to small-scale turbulence studies}},
-  volume={33},
-  ISSN={1089-7666},
-  DOI={10.1063/5.0043566},
-  number={4},
-  journal={Physics of Fluids},
-  publisher={AIP Publishing},
-  author={Shi, John Z.},
-  year={2021}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

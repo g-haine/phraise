@@ -26,17 +26,12 @@ This paper presents a method for using reset control as an alternative way of ob
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Raim_ndez_2011,
-  title={{Damping Injection by Reset Control}},
-  volume={134},
-  ISSN={1528-9028},
-  DOI={10.1115/1.4005369},
-  number={2},
-  journal={Journal of Dynamic Systems, Measurement, and Control},
-  publisher={ASME International},
-  author={Raimúndez, Cesáreo and Barreiro, Antonio and Villaverde, Alejandro F.},
-  year={2011}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

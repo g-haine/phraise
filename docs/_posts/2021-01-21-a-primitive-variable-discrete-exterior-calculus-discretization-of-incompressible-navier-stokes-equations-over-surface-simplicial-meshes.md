@@ -12,7 +12,7 @@ category: articles
 [Pankaj Jagad](authors/pankaj-jagad), [Abdullah Abukhwejah](authors/abdullah-abukhwejah), [Mamdouh Mohamed](authors/mamdouh-mohamed), [Ravi Samtaney](authors/ravi-samtaney)
  
 ## Abstract
-<jats:p>A conservative primitive variable discrete exterior calculus (DEC) discretization of the Navier–Stokes equations is performed. An existing DEC method [M. S. Mohamed, A. N. Hirani, and R. Samtaney, “Discrete exterior calculus discretization of incompressible Navier–Stokes equations over surface simplicial meshes,” J. Comput. Phys. 312, 175–191 (2016)] is modified to this end and is extended to include the energy-preserving time integration and the Coriolis force to enhance its applicability to investigate the late-time behavior of flows on rotating surfaces, i.e., that of the planetary flows. The simulation experiments show second order accuracy of the scheme for the structured-triangular meshes and first order accuracy for the otherwise unstructured meshes. The method exhibits a second order kinetic energy relative error convergence rate with mesh size for inviscid flows. The test case of flow on a rotating sphere demonstrates that the method preserves the stationary state and conserves the inviscid invariants over an extended period of time.</jats:p>
+A conservative primitive variable discrete exterior calculus (DEC) discretization of the Navier–Stokes equations is performed. An existing DEC method [M. S. Mohamed, A. N. Hirani, and R. Samtaney, “Discrete exterior calculus discretization of incompressible Navier–Stokes equations over surface simplicial meshes,” J. Comput. Phys. 312, 175–191 (2016)] is modified to this end and is extended to include the energy-preserving time integration and the Coriolis force to enhance its applicability to investigate the late-time behavior of flows on rotating surfaces, i.e., that of the planetary flows. The simulation experiments show second order accuracy of the scheme for the structured-triangular meshes and first order accuracy for the otherwise unstructured meshes. The method exhibits a second order kinetic energy relative error convergence rate with mesh size for inviscid flows. The test case of flow on a rotating sphere demonstrates that the method preserves the stationary state and conserves the inviscid invariants over an extended period of time.
  
 ## Citation
 - **Journal:** Physics of Fluids
@@ -26,17 +26,12 @@ category: articles
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Jagad_2021,
-  title={{A primitive variable discrete exterior calculus discretization of incompressible Navier–Stokes equations over surface simplicial meshes}},
-  volume={33},
-  ISSN={1089-7666},
-  DOI={10.1063/5.0035981},
-  number={1},
-  journal={Physics of Fluids},
-  publisher={AIP Publishing},
-  author={Jagad, Pankaj and Abukhwejah, Abdullah and Mohamed, Mamdouh and Samtaney, Ravi},
-  year={2021}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  

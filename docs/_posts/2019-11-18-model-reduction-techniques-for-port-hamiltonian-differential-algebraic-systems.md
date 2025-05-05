@@ -12,7 +12,7 @@ category: articles
 [Sarah-Alexa Hauschild](authors/sarah-alexa-hauschild), [Nicole Marheineke](authors/nicole-marheineke), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
-<jats:title>Abstract</jats:title><jats:p>Port‐based network modeling of multi‐physics problems leads naturally to a formulation as port‐Hamiltonian differential‐algebraic systems (pHDAEs). In this way, the physical properties are directly encoded in the structure of the model. Since the state space dimension of such systems may be very large, in particular when the model is a space‐discretized partial differential‐algebraic system, in optimization and control there is a need for model reduction methods that preserve the port‐Hamiltonian (pH) structure while keeping the algebraic constraints unchanged. To combine model reduction for differential‐algebraic equations (DEAs) with port‐Hamiltonian structure preservation, we adapt power conservation based techniques from port‐Hamiltonian systems of ordinary differential equations (pHODEs) to pHDAEs. The performance of the methods is investigated for benchmark examples originating from semi‐discretized flow problems.</jats:p>
+Port‐based network modeling of multi‐physics problems leads naturally to a formulation as port‐Hamiltonian differential‐algebraic systems (pHDAEs). In this way, the physical properties are directly encoded in the structure of the model. Since the state space dimension of such systems may be very large, in particular when the model is a space‐discretized partial differential‐algebraic system, in optimization and control there is a need for model reduction methods that preserve the port‐Hamiltonian (pH) structure while keeping the algebraic constraints unchanged. To combine model reduction for differential‐algebraic equations (DEAs) with port‐Hamiltonian structure preservation, we adapt power conservation based techniques from port‐Hamiltonian systems of ordinary differential equations (pHODEs) to pHDAEs. The performance of the methods is investigated for benchmark examples originating from semi‐discretized flow problems.
  
 ## Citation
 - **Journal:** PAMM
@@ -26,17 +26,12 @@ category: articles
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Hauschild_2019,
-  title={{Model reduction techniques for port‐Hamiltonian differential‐algebraic systems}},
-  volume={19},
-  ISSN={1617-7061},
-  DOI={10.1002/pamm.201900040},
-  number={1},
-  journal={PAMM},
-  publisher={Wiley},
-  author={Hauschild, Sarah-Alexa and Marheineke, Nicole and Mehrmann, Volker},
-  year={2019}
-}
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
 {% endraw %}
 {% endhighlight %}
  
