@@ -314,11 +314,6 @@ done < "$input_file"
 
 echo "]" >> $output_json
 
-# On "beautifie" le json
-tmp_file=$(mktemp)
-jq --indent 2 . $output_json > $tmp_file
-mv $tmp_file $output_json
-
 # Tout s'est bien passé !
 echo "Données récupérées avec succès !"
 exit 0

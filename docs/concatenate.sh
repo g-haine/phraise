@@ -28,5 +28,10 @@ else
     echo "You need a backup biblio file!"
 fi
 
+# 4. On "beautifie" le json final
+tmp_file=$(mktemp)
+jq --indent 2 . $BIBLIO_FILE > $tmp_file
+mv $tmp_file $BIBLIO_FILE
+
 echo "Update OK!"
 

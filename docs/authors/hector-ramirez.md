@@ -4,6 +4,7 @@ title: Publications by Hector Ramirez
 permalink: /authors/hector-ramirez
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/reduced-order-energy-shaping-control-of-large-scale-linear-port-hamiltonian-systems">Reduced-order energy shaping control of large-scale linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators">Port-Hamiltonian modeling of large-scale curling HASEL actuators</a></h3></li>
@@ -77,3 +78,4 @@ permalink: /authors/hector-ramirez
 <li><span class='post-meta'>2009 -- Héctor Ramírez, Daniel Sbarbaro, Romeo Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-control-of-non-linear-processes-an-ida-pbc-approach">On the control of non-linear processes: An IDA–PBC approach</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

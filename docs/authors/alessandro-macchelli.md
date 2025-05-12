@@ -4,6 +4,7 @@ title: Publications by Alessandro Macchelli
 permalink: /authors/alessandro-macchelli
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Alessandro Macchelli</span><h3><a class='post-link' href="{{ site.baseurl }}/a-discrete-time-formulation-of-nonlinear-distributed-parameter-port-hamiltonian-systems">A Discrete-Time Formulation of Nonlinear Distributed-Parameter Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Riccardo Zanella, Alessandro Macchelli, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/learning-the-optimal-energy-based-control-strategy-for-port-hamiltonian-systems">Learning the Optimal Energy-based Control Strategy for Port-Hamiltonian Systems</a></h3></li>
@@ -55,3 +56,4 @@ permalink: /authors/alessandro-macchelli
 <li><span class='post-meta'>2004 -- Alessandro Macchelli, Claudio Melchiorri</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach">Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

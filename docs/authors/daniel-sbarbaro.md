@@ -4,6 +4,7 @@ title: Publications by Daniel Sbarbaro
 permalink: /authors/daniel-sbarbaro
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Hector Ramirez, Daniel Sbarbaro, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/irreversible-port-hamiltonian-formulation-of-some-non-isothermal-electrochemical-processes">Irreversible Port-Hamiltonian Formulation of some Non-isothermal Electrochemical Processes</a></h3></li>
 <li><span class='post-meta'>2018 -- Daniel Sbarbaro</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-port-hamiltonian-models-of-some-electrochemical-processes">On the Port-Hamiltonian Models of some Electrochemical Processes</a></h3></li>
@@ -14,3 +15,4 @@ permalink: /authors/daniel-sbarbaro
 <li><span class='post-meta'>2009 -- Héctor Ramírez, Daniel Sbarbaro, Romeo Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-control-of-non-linear-processes-an-ida-pbc-approach">On the control of non-linear processes: An IDA–PBC approach</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

@@ -26,12 +26,6 @@ This article proposes port-Hamiltonian (pH) stability analysis of synchronous re
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
 {% endraw %}
 {% endhighlight %}
  

@@ -4,6 +4,7 @@ title: Publications by Ionela Prodan
 permalink: /authors/ionela-prodan
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- N.M.T Vu, T.H. Pham, I. Prodan, L. Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-observer-for-state-feedback-control-design">Port-Hamiltonian observer for state-feedback control design</a></h3></li>
 <li><span class='post-meta'>2022 -- T.H. Pham, N.M.T. Vu, I. Prodan, L. Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/a-combined-control-by-interconnection-model-predictive-control-design-for-constrained-port-hamiltonian-systems">A combined Control by Interconnection—Model Predictive Control design for constrained Port-Hamiltonian systems</a></h3></li>
@@ -16,3 +17,4 @@ permalink: /authors/ionela-prodan
 <li><span class='post-meta'>2015 -- T. Hung Pham, I. Prodan, D. Genon-Catalot, L. Lefévre</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-model-for-dc-microgrid-lift-systems">Port-Hamiltonian model for DC-microgrid lift systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

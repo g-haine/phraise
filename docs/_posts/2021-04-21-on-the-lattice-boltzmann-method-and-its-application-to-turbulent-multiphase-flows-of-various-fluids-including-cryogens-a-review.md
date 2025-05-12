@@ -26,12 +26,17 @@ Cryogenic fluids are used in a myriad of different applications not limited to g
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Petersen_2021,
+  title={{On the lattice Boltzmann method and its application to turbulent, multiphase flows of various fluids including cryogens: A review}},
+  volume={33},
+  ISSN={1089-7666},
+  DOI={10.1063/5.0046938},
+  number={4},
+  journal={Physics of Fluids},
+  publisher={AIP Publishing},
+  author={Petersen, K. J. and Brinkerhoff, J. R.},
+  year={2021}
+}
 {% endraw %}
 {% endhighlight %}
  

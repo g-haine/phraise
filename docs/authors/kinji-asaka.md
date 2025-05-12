@@ -4,7 +4,9 @@ title: Publications by Kinji Asaka
 permalink: /authors/kinji-asaka
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2014 -- Kentaro Takagi, Gou Nishida, Bernhard Maschke, Kinji Asaka</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-parameter-system-modeling">Distributed Parameter System Modeling</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

@@ -36,12 +36,15 @@ Energy-based modeling; Dissipation; Structure preservation; 37J06; 65P10; 65M60
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Altmann_2025,
+  title={{A novel energy-based modeling framework}},
+  ISSN={1435-568X},
+  DOI={10.1007/s00498-024-00405-5},
+  journal={Mathematics of Control, Signals, and Systems},
+  publisher={Springer Science and Business Media LLC},
+  author={Altmann, R. and Schulze, P.},
+  year={2025}
+}
 {% endraw %}
 {% endhighlight %}
  

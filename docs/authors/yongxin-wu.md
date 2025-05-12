@@ -4,6 +4,7 @@ title: Publications by Yongxin Wu
 permalink: /authors/yongxin-wu
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Luke Ma, Siyi Pang, Yao He, Yongxin Wu, Yanjun Li, Weijun Zhou</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-sliding-mode-control-for-the-robust-trajectory-tracking-of-unmanned-surface-vessels-under-external-disturbances-and-model-uncertainty">Passivity-Based Sliding Mode Control for the Robust Trajectory Tracking of Unmanned Surface Vessels Under External Disturbances and Model Uncertainty</a></h3></li>
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators">Port-Hamiltonian modeling of large-scale curling HASEL actuators</a></h3></li>
@@ -44,3 +45,4 @@ permalink: /authors/yongxin-wu
 <li><span class='post-meta'>2015 -- Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/power-preserving-model-reduction-of-2d-vibro-acoustic-system-a-port-hamiltonian-approach">Power preserving model reduction of 2D vibro-acoustic system: A port Hamiltonian approach</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

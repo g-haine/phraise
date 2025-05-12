@@ -4,6 +4,7 @@ title: Publications by David Roze
 permalink: /authors/david-roze
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Antoine Falaize, David Roze</span><h3><a class='post-link' href="{{ site.baseurl }}/generic-passive-guaranteed-nonlinear-interaction-model-and-structure-preserving-spatial-discretization-procedure-with-applications-in-musical-acoustics">Generic passive-guaranteed nonlinear interaction model and structure-preserving spatial discretization procedure with applications in musical acoustics</a></h3></li>
 <li><span class='post-meta'>2024 -- David Roze, Mathis Raibaud, Thibault Geoffroy</span><h3><a class='post-link' href="{{ site.baseurl }}/passive-guaranteed-modeling-and-simulation-of-a-finite-element-nonlinear-string-model">Passive-guaranteed modeling and simulation of a finite element nonlinear string model</a></h3></li>
@@ -15,3 +16,4 @@ permalink: /authors/david-roze
 <li><span class='post-meta'>2020 -- Tristan Lebrun, Marc Wijnand, Thomas Hélie, David Roze, Brigitte d’Andréa-Novel</span><h3><a class='post-link' href="{{ site.baseurl }}/electroacoustic-absorbers-based-on-passive-finite-time-control-of-loudspeakers-a-numerical-investigation">Electroacoustic Absorbers Based on Passive Finite-Time Control of Loudspeakers: A Numerical Investigation</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

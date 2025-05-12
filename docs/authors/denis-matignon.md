@@ -4,7 +4,9 @@ title: Publications by Denis Matignon
 permalink: /authors/denis-matignon
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Antoine Bendimerad-Hohl, Ghislain Haine, Laurent Lefèvre, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/stokes-lagrange-and-stokes-dirac-representations-of-n-dimensional-port-hamiltonian-systems-for-modeling-and-control">Stokes-Lagrange and Stokes-Dirac representations of \(  N  \)-dimensional port-Hamiltonian systems for modeling and control</a></h3></li>
 <li><span class='post-meta'>2024 -- Antoine Bendimerad-Hohl, Denis Matignon, Ghislain Haine, Laurent Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/on-stokes-lagrange-and-stokes-dirac-representations-for-1d-distributed-port-hamiltonian-systems">On Stokes-Lagrange and Stokes-Dirac representations for 1D distributed port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Laurent Lefèvre, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/rotational-shallow-water-equations-with-viscous-damping-and-boundary-control-structure-preserving-spatial-discretization">Rotational shallow water equations with viscous damping and boundary control: structure-preserving spatial discretization</a></h3></li>
 <li><span class='post-meta'>2024 -- Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulations-for-the-modeling-simulation-and-control-of-fluids">Port-Hamiltonian formulations for the modeling, simulation and control of fluids</a></h3></li>
@@ -57,3 +59,4 @@ permalink: /authors/denis-matignon
 <li><span class='post-meta'>2012 -- Y. Le Gorrec, D. Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/diffusive-systems-coupled-to-an-oscillator-a-hamiltonian-formulation">Diffusive systems coupled to an oscillator: a Hamiltonian formulation</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

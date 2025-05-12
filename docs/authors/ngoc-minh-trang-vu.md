@@ -4,6 +4,7 @@ title: Publications by Ngoc Minh Trang Vu
 permalink: /authors/ngoc-minh-trang-vu
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- N.M.T Vu, T.H. Pham, I. Prodan, L. Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-observer-for-state-feedback-control-design">Port-Hamiltonian observer for state-feedback control design</a></h3></li>
 <li><span class='post-meta'>2022 -- T.H. Pham, N.M.T. Vu, I. Prodan, L. Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/a-combined-control-by-interconnection-model-predictive-control-design-for-constrained-port-hamiltonian-systems">A combined Control by Interconnection—Model Predictive Control design for constrained Port-Hamiltonian systems</a></h3></li>
@@ -21,3 +22,4 @@ permalink: /authors/ngoc-minh-trang-vu
 <li><span class='post-meta'>2012 -- Ngoc Minh Trang VU, Laurent LEFEVRE, Bernhard MASCHKE</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-for-systems-of-conservation-laws-application-to-plasma-dynamics-in-tokamak-reactors">Port-Hamiltonian formulation for systems of conservation laws: application to plasma dynamics in Tokamak reactors</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

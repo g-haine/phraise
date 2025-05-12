@@ -4,6 +4,7 @@ title: Publications by Nelson Cisneros
 permalink: /authors/nelson-cisneros
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators">Port-Hamiltonian modeling of large-scale curling HASEL actuators</a></h3></li>
 <li><span class='post-meta'>2024 -- Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-and-control-of-a-curling-hasel-actuator">Port-Hamiltonian modeling and control of a curling HASEL actuator</a></h3></li>
@@ -12,3 +13,4 @@ permalink: /authors/nelson-cisneros
 <li><span class='post-meta'>2019 -- Nelson Cisneros, Hector Ramirez, Alejandro J. Rojas</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modelling-and-control-of-a-micro-channel">Port Hamiltonian modelling and control of a micro-channel</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

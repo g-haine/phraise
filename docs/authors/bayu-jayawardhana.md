@@ -4,6 +4,7 @@ title: Publications by Bayu Jayawardhana
 permalink: /authors/bayu-jayawardhana
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- M. R. Rosa, B. Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-adaptive-formation-control-for-uncertain-point-mass-agents-with-mixed-dimensional-space">Distributed Adaptive Formation Control for Uncertain Point Mass Agents With Mixed Dimensional Space</a></h3></li>
 <li><span class='post-meta'>2022 -- Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/virtual-contractivity-based-control-of-fully-actuated-mechanical-systems-in-the-port-hamiltonian-framework">Virtual contractivity-based control of fully-actuated mechanical systems in the port-Hamiltonian framework</a></h3></li>
@@ -17,3 +18,4 @@ permalink: /authors/bayu-jayawardhana
 <li><span class='post-meta'>2009 -- Fernando Castaños, Bayu Jayawardhana, Romeo Ortega, Eloísa García-Canseco</span><h3><a class='post-link' href="{{ site.baseurl }}/proportional-plus-integral-control-for-set-point-regulation-of-a-class-of-nonlinear-rlc-circuits">Proportional Plus Integral Control for Set-Point Regulation of a Class of Nonlinear RLC Circuits</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

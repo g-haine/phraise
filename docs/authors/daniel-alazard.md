@@ -4,6 +4,7 @@ title: Publications by Daniel Alazard
 permalink: /authors/daniel-alazard
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- A. Brugnoli, D. Alazard, V. Pommier-Budinger, D. Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-formulation-of-linear-thermoelasticity-and-its-mixed-finite-element-discretization">A Port-Hamiltonian formulation of linear thermoelasticity and its mixed finite element discretization</a></h3></li>
 <li><span class='post-meta'>2021 -- Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-flexible-multibody-dynamics">Port-Hamiltonian flexible multibody dynamics</a></h3></li>
@@ -16,3 +17,4 @@ permalink: /authors/daniel-alazard
 <li><span class='post-meta'>2015 -- Said Aoues, Denis Matignon, Daniel Alazard</span><h3><a class='post-link' href="{{ site.baseurl }}/control-of-a-flexible-spacecraft-using-discrete-ida-pbc-design">Control of a flexible spacecraft using discrete IDA-PBC design</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

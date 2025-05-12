@@ -4,6 +4,7 @@ title: Publications by Juan I. Yuz
 permalink: /authors/juan-i-yuz
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Javier G. Fontanet, Juan I. Yuz, Javier A. Torres, Marco A. Gordon, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-the-vocal-folds-using-bond-graph-representation">Port-Hamiltonian modeling of the vocal folds using bond-graph representation</a></h3></li>
 <li><span class='post-meta'>2021 -- Luis A Mora, Hector Ramirez, Juan I Yuz, Yann Le Gorec, Matías Zañartu</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-fluid-structure-model-of-the-vocal-folds">Energy-based fluid–structure model of the vocal folds</a></h3></li>
@@ -15,3 +16,4 @@ permalink: /authors/juan-i-yuz
 <li><span class='post-meta'>2018 -- Luis A. Mora, Juan I. Yuz, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-fluid-structure-interaction-model-for-the-vocal-folds">A port-Hamiltonian Fluid-Structure Interaction Model for the Vocal folds</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

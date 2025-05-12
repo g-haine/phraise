@@ -26,12 +26,17 @@ Although Hamiltonian Monte Carlo has proven an empirical success, the lack of a 
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Betancourt_2017,
+  title={{The geometric foundations of Hamiltonian Monte Carlo}},
+  volume={23},
+  ISSN={1350-7265},
+  DOI={10.3150/16-bej810},
+  number={4A},
+  journal={Bernoulli},
+  publisher={Bernoulli Society for Mathematical Statistics and Probability},
+  author={Betancourt, Michael and Byrne, Simon and Livingstone, Sam and Girolami, Mark},
+  year={2017}
+}
 {% endraw %}
 {% endhighlight %}
  

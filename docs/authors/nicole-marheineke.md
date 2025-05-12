@@ -4,6 +4,7 @@ title: Publications by Nicole Marheineke
 permalink: /authors/nicole-marheineke
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Andreas Bartel, Malak Diab, Andreas Frommer, Michael Günther, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/splitting-techniques-for-daes-with-port-hamiltonian-applications">Splitting techniques for DAEs with port-Hamiltonian applications</a></h3></li>
 <li><span class='post-meta'>2025 -- Marius Mönch, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/commutator-based-operator-splitting-for-linear-port-hamiltonian-systems">Commutator-based operator splitting for linear port-Hamiltonian systems</a></h3></li>
@@ -14,3 +15,4 @@ permalink: /authors/nicole-marheineke
 <li><span class='post-meta'>2018 -- H. Egger, T. Kugler, B. Liljegren-Sailer, N. Marheineke, V. Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/on-structure-preserving-model-reduction-for-damped-wave-propagation-in-transport-networks">On Structure-Preserving Model Reduction for Damped Wave Propagation in Transport Networks</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

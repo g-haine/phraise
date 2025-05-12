@@ -4,6 +4,7 @@ title: Publications by Jonas Kirchhoff
 permalink: /authors/jonas-kirchhoff
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Achim Ilchmann, Jonas Kirchhoff, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-descriptor-systems-are-relative-generically-controllable-and-stabilizable">Port-Hamiltonian descriptor systems are relative generically controllable and stabilizable</a></h3></li>
 <li><span class='post-meta'>2025 -- Timm Faulwasser, Jonas Kirchhoff, Volker Mehrmann, Friedrich Philipp, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/hidden-regularity-in-singular-optimal-control-of-port-hamiltonian-systems">Hidden Regularity in Singular Optimal Control of port-Hamiltonian Systems</a></h3></li>
@@ -15,3 +16,4 @@ permalink: /authors/jonas-kirchhoff
 <li><span class='post-meta'>2022 -- Jonas Kirchhoff</span><h3><a class='post-link' href="{{ site.baseurl }}/linear-port-hamiltonian-systems-are-generically-controllable">Linear Port-Hamiltonian Systems Are Generically Controllable</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

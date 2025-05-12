@@ -4,6 +4,7 @@ title: Publications by Claudio Melchiorri
 permalink: /authors/claudio-melchiorri
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2018 -- Federico Califano, Alessandro Macchelli, Claudio Melchiorri</span><h3><a class='post-link' href="{{ site.baseurl }}/analysis-of-modified-repetitive-control-schemes-the-port-hamiltonian-approach">Analysis of Modified Repetitive Control Schemes: the Port-Hamiltonian Approach</a></h3></li>
 <li><span class='post-meta'>2011 -- Luca Gentili, Alessandro Macchelli, Claudio Melchiorri, Alberto Mameli</span><h3><a class='post-link' href="{{ site.baseurl }}/mastering-the-complexity-of-an-ultrasonic-sealing-system-the-port-hamiltonian-approach">Mastering the complexity of an Ultrasonic Sealing System: The port-Hamiltonian approach</a></h3></li>
@@ -25,3 +26,4 @@ permalink: /authors/claudio-melchiorri
 <li><span class='post-meta'>2002 -- S. Stramigioli, A. van der Schaft, B. Maschke, C. Melchiorri</span><h3><a class='post-link' href="{{ site.baseurl }}/geometric-scattering-in-robotic-telemanipulation">Geometric scattering in robotic telemanipulation</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

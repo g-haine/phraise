@@ -4,8 +4,10 @@ title: Publications by Bernhard Maschke
 permalink: /authors/bernhard-maschke
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Alexander Kilian, Bernhard Maschke, Andrii Mironchenko, Fabian Wirth</span><h3><a class='post-link' href="{{ site.baseurl }}/infinite-dimensional-port-hamiltonian-systems-with-a-stationary-interface">Infinite-dimensional port-Hamiltonian systems with a stationary interface</a></h3></li>
+<li><span class='post-meta'>2025 -- Mario Spirito, Bernhard Maschke, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/beyond-singular-perturbation-for-linear-port-hamiltonian-systems">Beyond Singular Perturbation for linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Friedrich M. Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-control-of-port-hamiltonian-systems-energy-entropy-and-exergy">Optimal control of port-Hamiltonian systems: Energy, entropy, and exergy</a></h3></li>
 <li><span class='post-meta'>2024 -- Jonas Kirchhoff, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/remarks-on-the-geometric-structure-of-port-hamiltonian-systems">Remarks on the geometric structure of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Kaja Krhač, Bernhard Maschke, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems-with-energy-and-power-ports">Port-Hamiltonian systems with energy and power ports</a></h3></li>
@@ -73,3 +75,4 @@ permalink: /authors/bernhard-maschke
 <li><span class='post-meta'>1992 -- B.M. Maschke, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties">Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

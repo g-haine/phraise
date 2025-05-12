@@ -4,6 +4,7 @@ title: Publications by Kangli Xu
 permalink: /authors/kangli-xu
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Kang-Li Xu, Yao-Lin Jiang</span><h3><a class='post-link' href="{{ site.baseurl }}/riemannian-geometric-nonlinear-conjugate-gradient-model-order-reduction-of-linear-port-hamiltonian-systems-on-finite-frequency-intervals">Riemannian Geometric-Nonlinear Conjugate Gradient Model Order Reduction of Linear Port-Hamiltonian Systems on Finite Frequency Intervals</a></h3></li>
 <li><span class='post-meta'>2022 -- Yao Huang, Yao-Lin Jiang, Kang-Li Xu</span><h3><a class='post-link' href="{{ site.baseurl }}/model-order-reduction-of-rlc-circuit-system-modeled-by-port-hamiltonian-structure">Model Order Reduction of RLC Circuit System Modeled by Port-Hamiltonian Structure</a></h3></li>
@@ -13,3 +14,4 @@ permalink: /authors/kangli-xu
 <li><span class='post-meta'>2019 -- Yao-Lin Jiang, Kang-Li Xu</span><h3><a class='post-link' href="{{ site.baseurl }}/model-order-reduction-of-port-hamiltonian-systems-by-riemannian-modified-fletcher-reeves-scheme">Model Order Reduction of Port-Hamiltonian Systems by Riemannian Modified Fletcher–Reeves Scheme</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

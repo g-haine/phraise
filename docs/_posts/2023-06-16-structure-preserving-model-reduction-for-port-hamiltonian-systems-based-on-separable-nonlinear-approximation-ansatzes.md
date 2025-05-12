@@ -26,12 +26,16 @@ We discuss structure-preserving model order reduction for port-Hamiltonian syste
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Schulze_2023,
+  title={{Structure-preserving model reduction for port-Hamiltonian systems based on separable nonlinear approximation ansatzes}},
+  volume={9},
+  ISSN={2297-4687},
+  DOI={10.3389/fams.2023.1160250},
+  journal={Frontiers in Applied Mathematics and Statistics},
+  publisher={Frontiers Media SA},
+  author={Schulze, Philipp},
+  year={2023}
+}
 {% endraw %}
 {% endhighlight %}
  

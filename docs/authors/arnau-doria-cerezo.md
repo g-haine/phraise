@@ -4,6 +4,7 @@ title: Publications by Arnau Dòria-Cerezo
 permalink: /authors/arnau-doria-cerezo
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Ernest Benedito, Dunstano del Puerto-Flores, Arnau Dòria-Cerezo, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-based-optimal-power-flow-algorithm-for-multi-terminal-dc-networks">Port-Hamiltonian based Optimal Power Flow algorithm for multi-terminal DC networks</a></h3></li>
 <li><span class='post-meta'>2017 -- Ernest Benedito, Dunstano del Puerto-Flores, Arnau Dòria-Cerezo, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-power-flow-for-resistive-dc-networks-a-port-hamiltonian-approach">Optimal Power Flow for resistive DC Networks: a Port-Hamiltonian approach</a></h3></li>
@@ -16,3 +17,4 @@ permalink: /authors/arnau-doria-cerezo
 <li><span class='post-meta'>2005 -- Carles Batlle, Arnau Dòria-Cerezo, Romeo Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/power-flow-control-of-a-doubly-fed-induction-machine-coupled-to-a-flywheel">Power Flow Control of a Doubly-Fed Induction Machine Coupled to a Flywheel</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

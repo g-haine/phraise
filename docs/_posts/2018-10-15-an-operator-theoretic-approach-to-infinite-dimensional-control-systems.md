@@ -26,12 +26,17 @@ In this survey we use an operator theoretic approach to infinite‐dimensional s
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Jacob_2018,
+  title={{An operator theoretic approach to infinite‐dimensional control systems}},
+  volume={41},
+  ISSN={1522-2608},
+  DOI={10.1002/gamm.201800010},
+  number={4},
+  journal={GAMM-Mitteilungen},
+  publisher={Wiley},
+  author={Jacob, Birgit and Zwart, Hans},
+  year={2018}
+}
 {% endraw %}
 {% endhighlight %}
  

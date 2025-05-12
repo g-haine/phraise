@@ -4,8 +4,10 @@ title: Publications by Jacquelien M. A. Scherpen
 permalink: /authors/jacquelien-m-a-scherpen
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Najmeh Javanmardi, Pablo Borja, Mohammad Javad Yazdanpanah, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-approaches-for-weakly-coupled-electromechanical-systems">Energy-based control approaches for weakly coupled electromechanical systems</a></h3></li>
+<li><span class='post-meta'>2025 -- Ningbo Li, Zhiyong Sun, Arjan van der Schaft, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-framework-for-displacement-based-and-rigid-formation-tracking">A port-Hamiltonian framework for displacement-based and rigid formation tracking</a></h3></li>
 <li><span class='post-meta'>2024 -- Joel Ferguson, Lihua Zhou, Saeed Ahmed, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-control-by-interconnection-interpretation-of-integral-control-for-port-hamiltonian-systems">On the Control-by-Interconnection interpretation of integral control for port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Arijit Sarkar, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-generalized-balanced-truncation-for-nonlinear-port-hamiltonian-systems">Structure-preserving generalized balanced truncation for nonlinear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Carmen Chan-Zheng, Mauricio Munoz-Arias, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/tuning-rules-for-passivity-based-integral-control-for-a-class-of-mechanical-systems">Tuning Rules for Passivity-Based Integral Control for a Class of Mechanical Systems</a></h3></li>
@@ -61,3 +63,4 @@ permalink: /authors/jacquelien-m-a-scherpen
 <li><span class='post-meta'>2003 -- Dimitri Jeltsema, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits">A dual relation between port-Hamiltonian systems and the Brayton–Moser equations for nonlinear switched RLC circuits</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

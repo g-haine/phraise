@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There is 1326 authors referenced.</h3>
+<h3>There are 1330 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <hr />
 <p id='links-letters'><a href='#a'>A</a> - <a href='#b'>B</a> - <a href='#c'>C</a> - <a href='#d'>D</a> - <a href='#e'>E</a> - <a href='#f'>F</a> - <a href='#g'>G</a> - <a href='#h'>H</a> - <a href='#i'>I</a> - <a href='#j'>J</a> - <a href='#k'>K</a> - <a href='#l'>L</a> - <a href='#m'>M</a> - <a href='#n'>N</a> - <a href='#o'>O</a> - <a href='#p'>P</a> - <a href='#q'>Q</a> - <a href='#r'>R</a> - <a href='#s'>S</a> - <a href='#t'>T</a> - <a href='#u'>U</a> - <a href='#v'>V</a> - <a href='#w'>W</a> - <a href='#x'>X</a> - <a href='#y'>Y</a> - <a href='#z'>Z</a></p>
@@ -397,6 +397,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/roghayeh-gavagsaz-ghoachani'>Roghayeh Gavagsaz-Ghoachani</a>
 <a href='{{ site.baseurl }}/authors/p-gawthrop'>P. Gawthrop</a>
 <a href='{{ site.baseurl }}/authors/francois-gay-balmaz'>François Gay-Balmaz</a>
+<a href='{{ site.baseurl }}/authors/yuwei-geng'>Yuwei Geng</a>
 <a href='{{ site.baseurl }}/authors/denis-genon-catalot'>Denis Genon-Catalot</a>
 <a href='{{ site.baseurl }}/authors/luca-gentili'>Luca Gentili</a>
 <a href='{{ site.baseurl }}/authors/thibault-geoffroy'>Thibault Geoffroy</a>
@@ -566,6 +567,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/jorgen-k-johnsen'>Jørgen K. Johnsen</a>
 <a href='{{ site.baseurl }}/authors/c-n-jones'>C.N. Jones</a>
 <a href='{{ site.baseurl }}/authors/steven-de-jongh'>Steven de Jongh</a>
+<a href='{{ site.baseurl }}/authors/lili-ju'>Lili Ju</a>
 <a href='{{ site.baseurl }}/authors/long-ju'>Long Ju</a>
 <a href='{{ site.baseurl }}/authors/zhaojie-ju'>Zhaojie Ju</a>
 <a href='{{ site.baseurl }}/authors/sergio-junco'>Sergio Junco</a>
@@ -620,6 +622,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/krishna-chaitanya-kosaraju'>Krishna Chaitanya Kosaraju</a>
 <a href='{{ site.baseurl }}/authors/paul-kotyczka'>Paul Kotyczka</a>
 <a href='{{ site.baseurl }}/authors/xenofon-koutsoukos'>Xenofon Koutsoukos</a>
+<a href='{{ site.baseurl }}/authors/boris-kramer'>Boris Kramer</a>
 <a href='{{ site.baseurl }}/authors/stefan-krebs'>Stefan Krebs</a>
 <a href='{{ site.baseurl }}/authors/kaja-krhac'>Kaja Krhač</a>
 <a href='{{ site.baseurl }}/authors/gijs-krijnen'>Gijs Krijnen</a>
@@ -1110,7 +1113,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/a-m-stankovic'>A.M. Stanković</a>
 <a href='{{ site.baseurl }}/authors/jason-stanley'>Jason Stanley</a>
 <a href='{{ site.baseurl }}/authors/alexander-j-stasik'>Alexander J. Stasik</a>
-<a href='{{ site.baseurl }}/authors/marcio-stefanello'>Marcio Stefanello</a>
+<a href='{{ site.baseurl }}/authors/marcio-stefanello'>Márcio Stefanello</a>
 <a href='{{ site.baseurl }}/authors/tjerk-w-stegink'>Tjerk W. Stegink</a>
 <a href='{{ site.baseurl }}/authors/maarten-steinbuch'>Maarten Steinbuch</a>
 <a href='{{ site.baseurl }}/authors/camilla-sterud'>Camilla Sterud</a>
@@ -1132,6 +1135,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/siyi-sun'>Siyi Sun</a>
 <a href='{{ site.baseurl }}/authors/yajuan-sun'>Yajuan Sun</a>
 <a href='{{ site.baseurl }}/authors/zhijian-sun'>Zhijian Sun</a>
+<a href='{{ site.baseurl }}/authors/zhiyong-sun'>Zhiyong Sun</a>
 <a href='{{ site.baseurl }}/authors/b-svetozarevic'>B. Svetozarevic</a>
 <a href='{{ site.baseurl }}/authors/daniel-b-szyld'>Daniel B. Szyld</a>
 </div>

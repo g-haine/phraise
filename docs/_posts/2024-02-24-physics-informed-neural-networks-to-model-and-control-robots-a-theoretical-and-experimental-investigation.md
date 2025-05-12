@@ -26,12 +26,17 @@ This work concerns the application of physics‐informed neural networks to the 
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Liu_2024,
+  title={{Physics‐Informed Neural Networks to Model and Control Robots: A Theoretical and Experimental Investigation}},
+  volume={6},
+  ISSN={2640-4567},
+  DOI={10.1002/aisy.202300385},
+  number={5},
+  journal={Advanced Intelligent Systems},
+  publisher={Wiley},
+  author={Liu, Jingyue and Borja, Pablo and Della Santina, Cosimo},
+  year={2024}
+}
 {% endraw %}
 {% endhighlight %}
  

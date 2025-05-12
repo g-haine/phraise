@@ -4,6 +4,7 @@ title: Publications by Antoine Falaize
 permalink: /authors/antoine-falaize
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Antoine Falaize, David Roze</span><h3><a class='post-link' href="{{ site.baseurl }}/generic-passive-guaranteed-nonlinear-interaction-model-and-structure-preserving-spatial-discretization-procedure-with-applications-in-musical-acoustics">Generic passive-guaranteed nonlinear interaction model and structure-preserving spatial discretization procedure with applications in musical acoustics</a></h3></li>
 <li><span class='post-meta'>2024 -- Thomas Risse, Thomas Hélie, Fabrice Silva, Antoine Falaize</span><h3><a class='post-link' href="{{ site.baseurl }}/minimal-port-hamiltonian-modeling-of-voice-production-choices-of-fluid-flow-hypotheses-resulting-structure-and-comparison">Minimal port-Hamiltonian modeling of voice production: choices of fluid flow hypotheses, resulting structure and comparison</a></h3></li>
@@ -14,3 +15,4 @@ permalink: /authors/antoine-falaize
 <li><span class='post-meta'>2015 -- N. Lopes, T. Hélie, A. Falaize</span><h3><a class='post-link' href="{{ site.baseurl }}/explicit-second-order-accurate-method-for-the-passive-guaranteed-simulation-of-port-hamiltonian-systems">Explicit second-order accurate method for the passive guaranteed simulation of port-Hamiltonian systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

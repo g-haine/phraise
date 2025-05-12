@@ -4,6 +4,7 @@ title: Publications by Tobias Thoma
 permalink: /authors/tobias-thoma
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- P.L. Kinon, T. Thoma, P. Betsch, P. Kotyczka</span><h3><a class='post-link' href="{{ site.baseurl }}/generalized-maxwell-viscoelasticity-for-geometrically-exact-strings-nonlinear-port-hamiltonian-formulation-and-structure-preserving-discretization">Generalized Maxwell viscoelasticity for geometrically exact strings: Nonlinear port-Hamiltonian formulation and structure-preserving discretization</a></h3></li>
 <li><span class='post-meta'>2024 -- Tobias Thoma, Paul Kotyczka, Herbert Egger</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-velocity-stress-formulation-for-geometrically-nonlinear-elastodynamics-and-its-structure-preserving-discretization">On the velocity-stress formulation for geometrically nonlinear elastodynamics and its structure-preserving discretization</a></h3></li>
@@ -15,3 +16,4 @@ permalink: /authors/tobias-thoma
 <li><span class='post-meta'>2021 -- Paul Kotyczka, Tobias Thoma</span><h3><a class='post-link' href="{{ site.baseurl }}/symplectic-discrete-time-energy-based-control-for-nonlinear-mechanical-systems">Symplectic discrete-time energy-based control for nonlinear mechanical systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

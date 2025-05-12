@@ -4,6 +4,7 @@ title: Publications by Timo Reis
 permalink: /authors/timo-reis
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Timo Reis, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/linear-quadratic-optimal-control-for-infinite-dimensional-input-state-output-systems">Linear-quadratic optimal control for infinite-dimensional input-state-output systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Timo Reis, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-of-oseen-flows">Port-Hamiltonian Formulation of Oseen Flows</a></h3></li>
@@ -15,3 +16,4 @@ permalink: /authors/timo-reis
 <li><span class='post-meta'>2021 -- Timo Reis</span><h3><a class='post-link' href="{{ site.baseurl }}/some-notes-on-port-hamiltonian-systems-on-banach-spaces">Some notes on port-Hamiltonian systems on Banach spaces</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

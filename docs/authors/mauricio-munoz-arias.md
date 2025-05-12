@@ -4,6 +4,7 @@ title: Publications by Mauricio Munoz-Arias
 permalink: /authors/mauricio-munoz-arias
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Hayden Phillips-Brenes, Mauricio Muñoz-Arias, Roberto Pereira-Arroyo, Luis Miguel Esquivel-Sancho, Renato Rimolo-Donadio</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-approach-for-photovoltaic-dc-dc-conversion-and-output-voltage-regulation">Passivity-Based Control Approach for Photovoltaic DC-DC Conversion and Output Voltage Regulation</a></h3></li>
 <li><span class='post-meta'>2024 -- Haojun Ma, Mauricio Muñoz-Arias, Peng Han, Jianhua Zheng, Dong Gao</span><h3><a class='post-link' href="{{ site.baseurl }}/an-energy-based-approach-to-the-nonlinear-modeling-and-drag-free-control-system-design-of-space-borne-gravitational-wave-detectors">An Energy-Based Approach to the Nonlinear Modeling and Drag-Free Control System Design of Space-Borne Gravitational Wave Detectors</a></h3></li>
@@ -19,3 +20,4 @@ permalink: /authors/mauricio-munoz-arias
 <li><span class='post-meta'>2015 -- Mauricio Munoz-Arias, Mohamed I. El-Hawwary, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/image-based-visual-servo-control-using-the-port-hamiltonian-approach">Image-based visual servo control using the port-Hamiltonian approach</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

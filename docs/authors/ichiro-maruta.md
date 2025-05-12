@@ -4,6 +4,7 @@ title: Publications by Ichiro Maruta
 permalink: /authors/ichiro-maruta
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- K. Masutani, N. Sakata, K. Fujimoto, I. Maruta</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-second-order-sliding-mode-control-via-the-homogeneous-lyapunov-approach-for-mechanical-port-hamiltonian-systems">Passivity-based second-order sliding mode control via the homogeneous Lyapunov approach for mechanical port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Naoki Sakata, Kenji Fujimoto, Ichiro Maruta</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-sliding-mode-control-for-mechanical-port-hamiltonian-systems">Passivity-Based Sliding Mode Control for Mechanical Port-Hamiltonian Systems</a></h3></li>
@@ -18,3 +19,4 @@ permalink: /authors/ichiro-maruta
 <li><span class='post-meta'>2019 -- Ryotaro Shima, Yuki Okura, Kenji Fujimoto, Ichiro Maruta</span><h3><a class='post-link' href="{{ site.baseurl }}/on-path-following-control-of-nonholonomic-port-hamiltonian-systems-via-generalized-canonical-transformations">On path following control of nonholonomic port-Hamiltonian systems via generalized canonical transformations</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

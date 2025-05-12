@@ -26,12 +26,17 @@ Port‐based network modeling of multi‐physics problems leads naturally to a f
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Hauschild_2019,
+  title={{Model reduction techniques for port‐Hamiltonian differential‐algebraic systems}},
+  volume={19},
+  ISSN={1617-7061},
+  DOI={10.1002/pamm.201900040},
+  number={1},
+  journal={PAMM},
+  publisher={Wiley},
+  author={Hauschild, Sarah-Alexa and Marheineke, Nicole and Mehrmann, Volker},
+  year={2019}
+}
 {% endraw %}
 {% endhighlight %}
  

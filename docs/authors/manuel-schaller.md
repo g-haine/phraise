@@ -4,6 +4,7 @@ title: Publications by Manuel Schaller
 permalink: /authors/manuel-schaller
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Achim Ilchmann, Jonas Kirchhoff, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-descriptor-systems-are-relative-generically-controllable-and-stabilizable">Port-Hamiltonian descriptor systems are relative generically controllable and stabilizable</a></h3></li>
 <li><span class='post-meta'>2025 -- Andreas Bartel, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/goal-oriented-time-adaptivity-for-port-hamiltonian-systems">Goal-oriented time adaptivity for port-Hamiltonian systems</a></h3></li>
@@ -22,3 +23,4 @@ permalink: /authors/manuel-schaller
 <li><span class='post-meta'>2021 -- Manuel Schaller, Friedrich Philipp, Timm Faulwasser, Karl Worthmann, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/control-of-port-hamiltonian-systems-with-minimal-energy-supply">Control of port-Hamiltonian systems with minimal energy supply</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

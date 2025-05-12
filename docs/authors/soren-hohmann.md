@@ -4,6 +4,7 @@ title: Publications by Sören Hohmann
 permalink: /authors/soren-hohmann
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Albertus J. Malan, Lukas Rausche, Felix Strehle, Sören Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modelling-for-analysis-and-control-of-gas-networks">Port-Hamiltonian Modelling for Analysis and Control of Gas Networks</a></h3></li>
 <li><span class='post-meta'>2023 -- Lukas Kölsch, Pol Jané Soneira, Albertus Johannes Malan, Sören Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/learning-feedback-nash-strategies-for-nonlinear-port-hamiltonian-systems">Learning feedback Nash strategies for nonlinear port-Hamiltonian systems</a></h3></li>
@@ -21,3 +22,4 @@ permalink: /authors/soren-hohmann
 <li><span class='post-meta'>2018 -- Felix Strehle, Martin Pfeifer, Lukas Kölsch, Charlotte Degünther, Johannes Ruf, Lisa Andresen, Sören Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/towards-port-hamiltonian-modeling-of-multi-carrier-energy-systems-a-case-study-for-a-coupled-electricity-and-gas-distribution-system">Towards Port-Hamiltonian Modeling of Multi-Carrier Energy Systems: A Case Study for a Coupled Electricity and Gas Distribution System</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

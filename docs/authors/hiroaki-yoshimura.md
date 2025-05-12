@@ -4,6 +4,7 @@ title: Publications by Hiroaki Yoshimura
 permalink: /authors/hiroaki-yoshimura
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2020 -- François Gay-Balmaz, Hiroaki Yoshimura</span><h3><a class='post-link' href="{{ site.baseurl }}/dirac-structures-and-variational-formulation-of-port-dirac-systems-in-nonequilibrium-thermodynamics">Dirac structures and variational formulation of port-Dirac systems in nonequilibrium thermodynamics</a></h3></li>
 <li><span class='post-meta'>2018 -- F. Gay-Balmaz, H. Yoshimura</span><h3><a class='post-link' href="{{ site.baseurl }}/a-lagrangian-variational-formulation-for-nonequilibrium-thermodynamics">A Lagrangian variational formulation for nonequilibrium thermodynamics</a></h3></li>
@@ -13,3 +14,4 @@ permalink: /authors/hiroaki-yoshimura
 <li><span class='post-meta'>2006 -- Hiroaki Yoshimura, Jerrold E. Marsden</span><h3><a class='post-link' href="{{ site.baseurl }}/dirac-structures-in-lagrangian-mechanics-part-i-implicit-lagrangian-systems">Dirac structures in Lagrangian mechanics Part I: Implicit Lagrangian systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

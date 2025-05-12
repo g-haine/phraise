@@ -26,12 +26,17 @@ In this paper, we study the nearest stable matrix pair problem: given a square m
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Gillis_2018,
+  title={{Computing the nearest stable matrix pairs}},
+  volume={25},
+  ISSN={1099-1506},
+  DOI={10.1002/nla.2153},
+  number={5},
+  journal={Numerical Linear Algebra with Applications},
+  publisher={Wiley},
+  author={Gillis, Nicolas and Mehrmann, Volker and Sharma, Punit},
+  year={2018}
+}
 {% endraw %}
 {% endhighlight %}
  

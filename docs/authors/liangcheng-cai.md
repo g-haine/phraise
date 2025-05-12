@@ -4,6 +4,7 @@ title: Publications by Liangcheng Cai
 permalink: /authors/liangcheng-cai
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Liangcheng Cai, Deqing Huang</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-control-of-heavy-haul-train-in-whole-operation-procedure">Trajectory Tracking Control of Heavy Haul Train in Whole Operation Procedure</a></h3></li>
 <li><span class='post-meta'>2021 -- Liang-Cheng Cai</span><h3><a class='post-link' href="{{ site.baseurl }}/simultaneous-stabilization-of-port-hamiltonian-systems-subject-to-actuation-saturation-and-input-delay">Simultaneous stabilization of Port-Hamiltonian systems subject to actuation saturation and input delay</a></h3></li>
@@ -14,3 +15,4 @@ permalink: /authors/liangcheng-cai
 <li><span class='post-meta'>2013 -- Liangcheng Cai, Yong He, Min Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-effects-of-desired-damping-matrix-and-desired-hamiltonian-function-in-the-matching-equation-for-port-hamiltonian-systems">On the effects of desired damping matrix and desired Hamiltonian function in the matching equation for Port–Hamiltonian systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

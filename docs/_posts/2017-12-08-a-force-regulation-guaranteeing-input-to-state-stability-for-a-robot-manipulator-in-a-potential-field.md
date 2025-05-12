@@ -26,12 +26,17 @@ This paper is concerned with the compliant force regulation for a robot manipula
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Satoh_2017,
+  title={{A force regulation guaranteeing input‐to‐state stability for a robot manipulator in a potential field}},
+  volume={12},
+  ISSN={1931-4981},
+  DOI={10.1002/tee.22565},
+  number={S2},
+  journal={IEEJ Transactions on Electrical and Electronic Engineering},
+  publisher={Wiley},
+  author={Satoh, Satoshi and Ebimoto, Ryusuke and Saeki, Masami},
+  year={2017}
+}
 {% endraw %}
 {% endhighlight %}
  

@@ -26,12 +26,17 @@ A conservative primitive variable discrete exterior calculus (DEC) discretizatio
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Jagad_2021,
+  title={{A primitive variable discrete exterior calculus discretization of incompressible Navier–Stokes equations over surface simplicial meshes}},
+  volume={33},
+  ISSN={1089-7666},
+  DOI={10.1063/5.0035981},
+  number={1},
+  journal={Physics of Fluids},
+  publisher={AIP Publishing},
+  author={Jagad, Pankaj and Abukhwejah, Abdullah and Mohamed, Mamdouh and Samtaney, Ravi},
+  year={2021}
+}
 {% endraw %}
 {% endhighlight %}
  

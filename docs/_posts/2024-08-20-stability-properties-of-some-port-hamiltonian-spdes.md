@@ -26,12 +26,16 @@ We examine the existence and uniqueness of invariant measures of a class of stoc
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Kuchling_2024,
+  title={{Stability properties of some port-Hamiltonian SPDEs}},
+  ISSN={1744-2516},
+  DOI={10.1080/17442508.2024.2387773},
+  journal={Stochastics},
+  publisher={Informa UK Limited},
+  author={Kuchling, Peter and Rüdiger, Barbara and Ugurcan, Baris},
+  year={2024},
+  pages={1--15}
+}
 {% endraw %}
 {% endhighlight %}
  

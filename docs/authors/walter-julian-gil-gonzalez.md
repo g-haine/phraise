@@ -4,6 +4,7 @@ title: Publications by Walter Julián Gil González
 permalink: /authors/walter-julian-gil-gonzalez
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Alejandro Garcés-Ruiz, Walter Julián Gil González</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-model-predictive-control-for-the-permanent-magnet-synchronous-machine">Passivity-Based Model-Predictive Control for the Permanent Magnet Synchronous Machine</a></h3></li>
 <li><span class='post-meta'>2023 -- Oscar Danilo Montoya, César Leonardo Trujillo, Walter Gil-González</span><h3><a class='post-link' href="{{ site.baseurl }}/power-transference-controller-design-between-two-dc-microgrids-interconnected-via-an-interleaved-boost-converter-a-pi-pbc-approach">Power Transference Controller Design between two DC Microgrids Interconnected via an Interleaved Boost Converter: A PI-PBC Approach</a></h3></li>
@@ -23,3 +24,4 @@ permalink: /authors/walter-julian-gil-gonzalez
 <li><span class='post-meta'>2018 -- O. D. Montoya, W. Gil-Gonzalez, F. M. Serra</span><h3><a class='post-link' href="{{ site.baseurl }}/pbc-approach-for-smes-devices-in-electric-distribution-networks">PBC Approach for SMES Devices in Electric Distribution Networks</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

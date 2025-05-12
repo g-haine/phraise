@@ -4,6 +4,7 @@ title: Publications by Denis Dochain
 permalink: /authors/denis-dochain
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- N. Ha Hoang, Denis Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-contact-hamiltonian-functions-of-conservative-contact-systems">On the contact Hamiltonian functions of conservative contact systems</a></h3></li>
 <li><span class='post-meta'>2022 -- N.H. Hoang, T.S. Nguyen, T.K.P. Le, T.T.H. Phan, M.A. Hussain, D. Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-for-nonlinear-systems-using-extended-quadratic-port-hamiltonian-models-without-input-and-state-coordinate-transformations">Trajectory tracking for nonlinear systems using extended quadratic port-Hamiltonian models without input and state coordinate transformations</a></h3></li>
@@ -13,3 +14,4 @@ permalink: /authors/denis-dochain
 <li><span class='post-meta'>2015 -- J.P. García-Sandoval, D. Dochain, N. Hudon</span><h3><a class='post-link' href="{{ site.baseurl }}/dissipative-and-conservative-structures-for-thermo-mechanical-systems">Dissipative and conservative structures for thermo-mechanical systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

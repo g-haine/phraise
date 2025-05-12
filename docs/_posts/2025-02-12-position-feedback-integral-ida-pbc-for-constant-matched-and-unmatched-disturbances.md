@@ -26,12 +26,15 @@ This work investigates the passivity‐based control of a class of underactuated
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Franco_2025,
+  title={{Position‐Feedback Integral IDA‐PBC for Constant Matched and Unmatched Disturbances}},
+  ISSN={1099-1239},
+  DOI={10.1002/rnc.7870},
+  journal={International Journal of Robust and Nonlinear Control},
+  publisher={Wiley},
+  author={Franco, Enrico and Ryalat, Mutaz},
+  year={2025}
+}
 {% endraw %}
 {% endhighlight %}
  

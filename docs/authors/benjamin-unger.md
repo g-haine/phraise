@@ -4,6 +4,7 @@ title: Publications by Benjamin Unger
 permalink: /authors/benjamin-unger
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Tobias Breiten, Dorothea Hinsen, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/toward-a-class-of-port-hamiltonian-systems-with-time-delays">Toward a Class of Port-Hamiltonian Systems With Time-Delays</a></h3></li>
 <li><span class='post-meta'>2023 -- Riccardo Morandin, Jonas Nicodemus, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-dynamic-mode-decomposition">Port-Hamiltonian Dynamic Mode Decomposition</a></h3></li>
@@ -13,3 +14,4 @@ permalink: /authors/benjamin-unger
 <li><span class='post-meta'>2018 -- Philipp Schulze, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/model-reduction-for-linear-systems-with-low-rank-switching">Model Reduction for Linear Systems with Low-Rank Switching</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

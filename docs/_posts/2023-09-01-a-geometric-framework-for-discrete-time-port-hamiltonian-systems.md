@@ -26,12 +26,17 @@ Port‐Hamiltonian systems provide an energy‐based formulation with a model cl
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Cherifi_2023,
+  title={{A geometric framework for discrete time port‐Hamiltonian systems}},
+  volume={23},
+  ISSN={1617-7061},
+  DOI={10.1002/pamm.202300149},
+  number={2},
+  journal={PAMM},
+  publisher={Wiley},
+  author={Cherifi, Karim and Gernandt, Hannes and Hinsen, Dorothea and Mehrmann, Volker},
+  year={2023}
+}
 {% endraw %}
 {% endhighlight %}
  

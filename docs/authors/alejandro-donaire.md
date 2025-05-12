@@ -4,6 +4,7 @@ title: Publications by Alejandro Donaire
 permalink: /authors/alejandro-donaire
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Pierluigi Arpenti, Alejandro Donaire, Fabio Ruggiero, Vincenzo Lippiello</span><h3><a class='post-link' href="{{ site.baseurl }}/uniform-global-exponential-stabilizing-passivity-based-tracking-controller-applied-to-planar-biped-robots">Uniform Global Exponential Stabilizing Passivity-Based Tracking Controller Applied to Planar Biped Robots</a></h3></li>
 <li><span class='post-meta'>2021 -- Christina Kazantzidou, Tristan Perez, Francis Valentinis, Alejandro Donaire</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-tuning-of-a-nonlinear-energy-based-regulator-for-the-positioning-of-a-fully-actuated-surface-marine-craft">On the tuning of a nonlinear energy‐based regulator for the positioning of a fully actuated surface marine craft</a></h3></li>
@@ -29,3 +30,4 @@ permalink: /authors/alejandro-donaire
 <li><span class='post-meta'>2009 -- Alejandro Donaire, Sergio Junco</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems">On the addition of integral action to port-controlled Hamiltonian systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

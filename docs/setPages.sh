@@ -127,7 +127,7 @@ permalink: /authors/
 
 EOF
 
-echo "<h3>There is ${#authors[@]} authors referenced.</h3>" >> "$AUTHORS_DIR/index.md"
+echo "<h3>There are ${#authors[@]} authors referenced.</h3>" >> "$AUTHORS_DIR/index.md"
 
 echo "<p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>" >> "$AUTHORS_DIR/index.md"
 
@@ -167,9 +167,11 @@ permalink: /authors/$sanitized_slug
 ---
 
 EOF
+    echo '<h3 id="number-posts">There are ... items referenced.</h3>' >> "$AUTHORS_DIR/$sanitized_slug.md"
     echo '<ul class="post-list">' >> "$AUTHORS_DIR/$sanitized_slug.md"
     echo -e "${authors[$author]}" | sort -t'|' -k1,1r | cut -d'|' -f2 | iconv -t UTF-8 >> "$AUTHORS_DIR/$sanitized_slug.md"
     echo "</ul>" >> "$AUTHORS_DIR/$sanitized_slug.md"
+    echo "{% include count-posts.html %}" >> "$AUTHORS_DIR/$sanitized_slug.md"
 done
 
 echo "</div>" >> "$AUTHORS_DIR/index.md"
@@ -208,9 +210,11 @@ permalink: /years/$year
 ---
 
 EOF
+    echo '<h3 id="number-posts">There are ... items referenced.</h3>' >> "$YEARS_DIR/$year.md"
     echo '<ul class="post-list">' >> "$YEARS_DIR/$year.md"
     echo -e "${years[$year]}" >> "$YEARS_DIR/$year.md"
     echo "</ul>" >> "$YEARS_DIR/$year.md"
+    echo "{% include count-posts.html %}" >> "$YEARS_DIR/$year.md"
 done
 
 echo "Pages generated!"

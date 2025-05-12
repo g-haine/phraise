@@ -26,12 +26,16 @@ Time-domain simulation of woodwind instruments typically involves the developmen
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Darabundit_2025,
+  title={{Discrete port-Hamiltonian system model of a single-reed woodwind instrument}},
+  volume={5},
+  ISSN={2673-8198},
+  DOI={10.3389/frsip.2025.1519450},
+  journal={Frontiers in Signal Processing},
+  publisher={Frontiers Media SA},
+  author={Darabundit, Champ C. and Scavone, Gary},
+  year={2025}
+}
 {% endraw %}
 {% endhighlight %}
  

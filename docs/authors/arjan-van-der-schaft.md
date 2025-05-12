@@ -4,8 +4,10 @@ title: Publications by Arjan J. van der Schaft
 permalink: /authors/arjan-van-der-schaft
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-nonlinear-systems">Port-Hamiltonian Nonlinear Systems</a></h3></li>
+<li><span class='post-meta'>2025 -- Ningbo Li, Zhiyong Sun, Arjan van der Schaft, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-framework-for-displacement-based-and-rigid-formation-tracking">A port-Hamiltonian framework for displacement-based and rigid formation tracking</a></h3></li>
 <li><span class='post-meta'>2024 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/reciprocity-of-nonlinear-systems">Reciprocity of Nonlinear Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Kaja Krhač, Bernhard Maschke, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems-with-energy-and-power-ports">Port-Hamiltonian systems with energy and power ports</a></h3></li>
 <li><span class='post-meta'>2024 -- Lalitesh Kumar, Jian Chen, Chengshuai Wu, Yuzhu Chen, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/a-segmented-model-based-fuel-delivery-control-of-pem-fuel-cells-a-port-hamiltonian-approach">A segmented model based fuel delivery control of PEM fuel cells: A port-Hamiltonian approach</a></h3></li>
@@ -98,3 +100,4 @@ permalink: /authors/arjan-van-der-schaft
 <li><span class='post-meta'>1992 -- B.M. Maschke, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties">Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

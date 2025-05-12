@@ -26,12 +26,17 @@ Introduction. This paper presents a robust nonlinear control of the DC-DC boost 
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Baazouzi_2022,
+  title={{Passivity voltage based control of the boost power converter used in photovoltaic system}},
+  ISSN={2074-272X},
+  DOI={10.20998/2074-272x.2022.2.02},
+  number={2},
+  journal={Electrical Engineering &amp; Electromechanics},
+  publisher={National Technical University Kharkiv Polytechnic Institute},
+  author={Baazouzi, K. and Bensalah, A. D. and Drid, S. and Chrifi-Alaoui, L.},
+  year={2022},
+  pages={11--17}
+}
 {% endraw %}
 {% endhighlight %}
  

@@ -4,6 +4,7 @@ title: Publications by Michele Cucuzzella
 permalink: /authors/michele-cucuzzella
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Edoardo Vacchini, Michele Cucuzzella, Pablo Borja, Antonella Ferrara</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-voltage-regulation-for-dc-microgrids-via-passivity-based-sliding-mode-control">Robust Voltage Regulation for DC Microgrids via Passivity-Based Sliding Mode Control</a></h3></li>
 <li><span class='post-meta'>2023 -- Joel Ferguson, Michele Cucuzzella, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/increasing-the-region-of-attraction-in-dc-microgrids">Increasing the region of attraction in DC microgrids</a></h3></li>
@@ -14,3 +15,4 @@ permalink: /authors/michele-cucuzzella
 <li><span class='post-meta'>2021 -- Joel Ferguson, Michele Cucuzzella, Jacquelien M. A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/exponential-stability-and-local-iss-for-dc-networks">Exponential Stability and Local ISS for DC Networks</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

@@ -4,6 +4,7 @@ title: Publications by Christian Mehl
 permalink: /authors/christian-mehl
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Christian Mehl, Volker Mehrmann, Michał Wojtylak</span><h3><a class='post-link' href="{{ site.baseurl }}/spectral-theory-of-infinite-dimensional-dissipative-hamiltonian-systems">Spectral Theory of Infinite Dimensional Dissipative Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2022 -- C. Mehl, V. Mehrmann, M. Wojtylak</span><h3><a class='post-link' href="{{ site.baseurl }}/matrix-pencils-with-coefficients-that-have-positive-semidefinite-hermitian-parts">Matrix Pencils with Coefficients that have Positive Semidefinite Hermitian Parts</a></h3></li>
@@ -13,3 +14,4 @@ permalink: /authors/christian-mehl
 <li><span class='post-meta'>2016 -- Christian Mehl, Volker Mehrmann, Punit Sharma</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations">Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

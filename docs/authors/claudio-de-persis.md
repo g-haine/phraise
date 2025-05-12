@@ -4,6 +4,7 @@ title: Publications by Claudio De Persis
 permalink: /authors/claudio-de-persis
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- T. W. Stegink, C. De Persis, A. J. Van Der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/an-energy-based-analysis-of-reduced-order-models-of-networked-synchronous-machines">An energy-based analysis of reduced-order models of (networked) synchronous machines</a></h3></li>
 <li><span class='post-meta'>2017 -- Nima Monshizadeh, Claudio De Persis</span><h3><a class='post-link' href="{{ site.baseurl }}/agreeing-in-networks-unmatched-disturbances-algebraic-constraints-and-optimality">Agreeing in networks: Unmatched disturbances, algebraic constraints and optimality</a></h3></li>
@@ -16,3 +17,4 @@ permalink: /authors/claudio-de-persis
 <li><span class='post-meta'>2015 -- T.W. Stegink, C. De Persis, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-of-the-gradient-method-applied-to-smart-grids">Port-Hamiltonian Formulation of the Gradient Method Applied to Smart Grids</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

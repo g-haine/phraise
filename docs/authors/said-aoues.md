@@ -4,6 +4,7 @@ title: Publications by Saïd Aoues
 permalink: /authors/said-aoues
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Said Aoues, Flavio Luiz Cardoso-Ribeiro, Denis Matignon, Daniel Alazard</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-and-control-of-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach">Modeling and Control of a Rotating Flexible Spacecraft: A Port-Hamiltonian Approach</a></h3></li>
 <li><span class='post-meta'>2018 -- Daniel Alazard, Saïd Aoues, Flávio Luiz Cardoso-Ribeiro, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/disturbance-rejection-for-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach">Disturbance rejection for a rotating flexible spacecraft: a port-Hamiltonian approach</a></h3></li>
@@ -12,3 +13,4 @@ permalink: /authors/said-aoues
 <li><span class='post-meta'>2015 -- Said Aoues, Warody Lombardi, Damien Eberard, Michael Di-Loreto</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-condition-of-discrete-time-linear-hamiltonian-systems-with-time-varying-delay-feedback-interconnection">Stability condition of discrete-time linear Hamiltonian systems with time-varying delay feedback interconnection</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

@@ -4,6 +4,7 @@ title: Publications by Joel Ferguson
 permalink: /authors/joel-ferguson
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Joel Ferguson, Christopher Renton</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-representation-of-mechanical-systems-with-velocity-inputs">Port-Hamiltonian Representation of Mechanical Systems With Velocity Inputs</a></h3></li>
 <li><span class='post-meta'>2024 -- Joel Ferguson, Lihua Zhou, Saeed Ahmed, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-control-by-interconnection-interpretation-of-integral-control-for-port-hamiltonian-systems">On the Control-by-Interconnection interpretation of integral control for port-Hamiltonian systems</a></h3></li>
@@ -21,3 +22,4 @@ permalink: /authors/joel-ferguson
 <li><span class='post-meta'>2016 -- Joel Ferguson, Alejandro Donaire, Richard H. Middleton</span><h3><a class='post-link' href="{{ site.baseurl }}/switched-passivity-based-control-of-the-chaplygin-sleigh">Switched Passivity—Based Control of the Chaplygin Sleigh</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

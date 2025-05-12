@@ -4,6 +4,7 @@ title: Publications by Birgit Jacob
 permalink: /authors/birgit-jacob
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Birgit Jacob, Claudia Totzeck</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-structure-of-interacting-particle-systems-and-its-mean-field-limit">Port-Hamiltonian Structure of Interacting Particle Systems and Its Mean-Field Limit</a></h3></li>
 <li><span class='post-meta'>2024 -- Jochen Glück, Birgit Jacob, Annika Meyer, Christian Wyss, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-via-closure-relations-with-applications-to-dissipative-and-port-hamiltonian-systems">Stability via closure relations with applications to dissipative and port-Hamiltonian systems</a></h3></li>
@@ -28,3 +29,4 @@ permalink: /authors/birgit-jacob
 <li><span class='post-meta'>2012 -- Birgit Jacob, Hans J. Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/linear-port-hamiltonian-systems-on-infinite-dimensional-spaces">Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

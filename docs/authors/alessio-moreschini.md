@@ -4,6 +4,7 @@ title: Publications by Alessio Moreschini
 permalink: /authors/alessio-moreschini
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Alessio Moreschini, Joel D. Simard, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/data-driven-model-reduction-for-port-hamiltonian-and-network-systems-in-the-loewner-framework">Data-driven model reduction for port-Hamiltonian and network systems in the Loewner framework</a></h3></li>
 <li><span class='post-meta'>2024 -- Alessio Moreschini, Salvatore Monaco, Dorothée Normand-Cyrot</span><h3><a class='post-link' href="{{ site.baseurl }}/dirac-structures-for-a-class-of-port-hamiltonian-systems-in-discrete-time">Dirac Structures for a Class of Port-Hamiltonian Systems in Discrete Time</a></h3></li>
@@ -15,3 +16,4 @@ permalink: /authors/alessio-moreschini
 <li><span class='post-meta'>2021 -- Alessio Moreschini, Mattia Mattioni, Salvatore Monaco, Dorothee Normand-Cyrot</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-discrete-port-hamiltonian-dynamics-via-interconnection-and-damping-assignment">Stabilization of Discrete Port-Hamiltonian Dynamics via Interconnection and Damping Assignment</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

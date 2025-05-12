@@ -4,6 +4,7 @@ title: Publications by Luis Pablo Borja
 permalink: /authors/luis-pablo-borja
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Mattia Mattioni, Pablo Borja</span><h3><a class='post-link' href="{{ site.baseurl }}/digital-passivity-based-control-of-underactuated-mechanical-systems">Digital passivity-based control of underactuated mechanical systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Najmeh Javanmardi, Pablo Borja, Mohammad Javad Yazdanpanah, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-approaches-for-weakly-coupled-electromechanical-systems">Energy-based control approaches for weakly coupled electromechanical systems</a></h3></li>
@@ -28,3 +29,4 @@ permalink: /authors/luis-pablo-borja
 <li><span class='post-meta'>2015 -- Alessandro Macchelli, Luis Pablo Borja, Romeo Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/control-by-interconnection-of-distributed-port-hamiltonian-systems-beyond-the-dissipation-obstacle">Control by Interconnection of Distributed Port-Hamiltonian Systems Beyond the Dissipation Obstacle</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

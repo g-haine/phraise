@@ -4,6 +4,7 @@ title: Publications by Kurt Schlacher
 permalink: /authors/kurt-schlacher
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2018 -- Hubert Rams, Markus Schoberl, Kurt Schlacher</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-motion-planning-and-energy-based-control-of-a-single-mast-stacker-crane">Optimal Motion Planning and Energy-Based Control of a Single Mast Stacker Crane</a></h3></li>
 <li><span class='post-meta'>2015 -- M. Schöberl, K. Schlacher</span><h3><a class='post-link' href="{{ site.baseurl }}/lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems">Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems</a></h3></li>
@@ -14,3 +15,4 @@ permalink: /authors/kurt-schlacher
 <li><span class='post-meta'>2008 -- M. Schöberl, H. Ennsbrunner, K. Schlacher</span><h3><a class='post-link' href="{{ site.baseurl }}/modelling-of-piezoelectric-structures-a-hamiltonian-approach">Modelling of piezoelectric structures–a Hamiltonian approach</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

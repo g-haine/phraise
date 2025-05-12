@@ -4,7 +4,9 @@ title: Publications by Toshiharu Sugie
 permalink: /authors/toshiharu-sugie
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2012 -- Kenji Fujimoto, Satoru Sakai, Toshiharu Sugie</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints">Passivity based control of a class of Hamiltonian systems with nonholonomic constraints</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

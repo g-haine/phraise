@@ -4,6 +4,7 @@ title: Publications by Federico M. Serra
 permalink: /authors/federico-m-serra
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Oscar Danilo Montoya, Federico M. Serra, Gerardo Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-equivalence-between-pi-pbc-and-ioc-designs-an-application-involving-three-phase-front-end-converters">On the Equivalence Between PI-PBC and IOC Designs: An Application Involving Three-Phase Front-End Converters</a></h3></li>
 <li><span class='post-meta'>2023 -- Federico M. Serra, Cristian H. De Angelo</span><h3><a class='post-link' href="{{ site.baseurl }}/direct-power-control-of-a-shunt-active-power-filter-using-a-modified-ida-pbc-approach-with-integral-action">Direct Power Control of a Shunt Active Power Filter Using a Modified IDA–PBC Approach With Integral Action</a></h3></li>
@@ -13,3 +14,4 @@ permalink: /authors/federico-m-serra
 <li><span class='post-meta'>2018 -- O. D. Montoya, W. Gil-Gonzalez, F. M. Serra</span><h3><a class='post-link' href="{{ site.baseurl }}/pbc-approach-for-smes-devices-in-electric-distribution-networks">PBC Approach for SMES Devices in Electric Distribution Networks</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

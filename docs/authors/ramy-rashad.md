@@ -4,6 +4,7 @@ title: Publications by Ramy Rashad
 permalink: /authors/ramy-rashad
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Andrea Brugnoli, Ramy Rashad, Yi Zhang, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-element-hybridization-of-port-hamiltonian-systems">Finite element hybridization of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Ramy Rashad, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/the-port-hamiltonian-structure-of-continuum-mechanics">The Port-Hamiltonian Structure of Continuum Mechanics</a></h3></li>
@@ -21,3 +22,4 @@ permalink: /authors/ramy-rashad
 <li><span class='post-meta'>2019 -- Ramy Rashad, Johan B. C. Engelen, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-tank-based-wrench-impedance-control-of-a-fully-actuated-hexarotor-a-geometric-port-hamiltonian-approach">Energy Tank-Based Wrench/Impedance Control of a Fully-Actuated Hexarotor: A Geometric Port-Hamiltonian Approach</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

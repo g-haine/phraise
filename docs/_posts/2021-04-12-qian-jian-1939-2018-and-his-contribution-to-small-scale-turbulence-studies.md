@@ -26,12 +26,17 @@ Qian (Tsien) Jian (1939–2018), a Chinese theoretical physicist and fluid dynam
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Shi_2021,
+  title={{Qian Jian (1939–2018) and his contribution to small-scale turbulence studies}},
+  volume={33},
+  ISSN={1089-7666},
+  DOI={10.1063/5.0043566},
+  number={4},
+  journal={Physics of Fluids},
+  publisher={AIP Publishing},
+  author={Shi, John Z.},
+  year={2021}
+}
 {% endraw %}
 {% endhighlight %}
  

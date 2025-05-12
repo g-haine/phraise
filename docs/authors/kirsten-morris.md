@@ -4,6 +4,7 @@ title: Publications by Kirsten Morris
 permalink: /authors/kirsten-morris
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Luis A. Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/exponential-decay-rate-of-linear-port-hamiltonian-systems-a-multiplier-approach">Exponential Decay Rate of Linear Port-Hamiltonian Systems: A Multiplier Approach</a></h3></li>
 <li><span class='post-meta'>2024 -- Mehmet Erbay, Birgit Jacob, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-weierstrass-form-of-infinite-dimensional-differential-algebraic-equations">On the Weierstraß form of infinite-dimensional differential algebraic equations</a></h3></li>
@@ -16,3 +17,4 @@ permalink: /authors/kirsten-morris
 <li><span class='post-meta'>2015 -- Birgit Jacob, Kirsten Morris, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/zero-dynamics-for-waves-on-networks">Zero dynamics for waves on networks</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

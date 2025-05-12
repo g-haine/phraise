@@ -4,6 +4,7 @@ title: Publications by Alejandro Garcés-Ruiz
 permalink: /authors/alejandro-garces-ruiz
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Alejandro Garcés-Ruiz, Sofia Avila-Becerril, Gerardo Espinosa-Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-time-port-hamiltonian-systems-for-power-and-energy-applications">Discrete-Time Port-Hamiltonian Systems for Power and Energy Applications</a></h3></li>
 <li><span class='post-meta'>2024 -- Alejandro Garcés-Ruiz, Walter Julián Gil González</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-model-predictive-control-for-the-permanent-magnet-synchronous-machine">Passivity-Based Model-Predictive Control for the Permanent Magnet Synchronous Machine</a></h3></li>
@@ -19,3 +20,4 @@ permalink: /authors/alejandro-garces-ruiz
 <li><span class='post-meta'>2018 -- Oscar Danilo Montoya Giraldo, Alejandro Garcés Ruiz, Isaac Ortega Velázquez, Gerardo René Espinosa Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-for-battery-charging-discharging-applications-by-using-a-buck-boost-dc-dc-converter">Passivity-Based Control for Battery Charging/Discharging Applications by Using a Buck-Boost DC-DC Converter</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

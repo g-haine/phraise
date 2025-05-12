@@ -26,12 +26,17 @@ category: articles
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Wu_2025,
+  title={{Effective numerical simulation of fault transient system}},
+  volume={16},
+  ISSN={1793-9615},
+  DOI={10.1142/s1793962325500291},
+  number={02},
+  journal={International Journal of Modeling, Simulation, and Scientific Computing},
+  publisher={World Scientific Pub Co Pte Ltd},
+  author={Wu, Sixu and Ji, Feng and Gao, Lu and Zhang, Ruili and Tang, Cunwei and Tang, Yifa},
+  year={2025}
+}
 {% endraw %}
 {% endhighlight %}
  

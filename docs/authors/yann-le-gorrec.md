@@ -4,8 +4,10 @@ title: Publications by Yann Le Gorrec
 permalink: /authors/yann-le-gorrec
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/reduced-order-energy-shaping-control-of-large-scale-linear-port-hamiltonian-systems">Reduced-order energy shaping control of large-scale linear port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2025 -- Mario Spirito, Bernhard Maschke, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/beyond-singular-perturbation-for-linear-port-hamiltonian-systems">Beyond Singular Perturbation for linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Amal Hammoud, Ning Liu, Yann Le Gorrec, Yoan Civet, Yves Perriard</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-modeling-and-robust-position-control-of-a-dielectric-elastomer-cardiac-assist-device">Energy-based modeling and robust position control of a dielectric elastomer cardiac assist device</a></h3></li>
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators">Port-Hamiltonian modeling of large-scale curling HASEL actuators</a></h3></li>
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/a-systematic-methodology-for-port-hamiltonian-modeling-of-multidimensional-flexible-linear-mechanical-systems">A systematic methodology for port-Hamiltonian modeling of multidimensional flexible linear mechanical systems</a></h3></li>
@@ -107,3 +109,4 @@ permalink: /authors/yann-le-gorrec
 <li><span class='post-meta'>2005 -- Y. Le Gorrec, H. Zwart, B. Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators">Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

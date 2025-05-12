@@ -4,6 +4,7 @@ title: Publications by Dimitri Jeltsema
 permalink: /authors/dimitri-jeltsema
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Arjan van der Schaft, Dimitri Jeltsema</span><h3><a class='post-link' href="{{ site.baseurl }}/limits-to-energy-conversion">Limits to Energy Conversion</a></h3></li>
 <li><span class='post-meta'>2021 -- Arjan van der Schaft, Dimitri Jeltsema</span><h3><a class='post-link' href="{{ site.baseurl }}/on-energy-conversion-in-port-hamiltonian-systems">On Energy Conversion in Port-Hamiltonian Systems</a></h3></li>
@@ -27,3 +28,4 @@ permalink: /authors/dimitri-jeltsema
 <li><span class='post-meta'>2003 -- Dimitri Jeltsema, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits">A dual relation between port-Hamiltonian systems and the Brayton–Moser equations for nonlinear switched RLC circuits</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

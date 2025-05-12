@@ -26,12 +26,17 @@ Accurately learning the temporal behavior of dynamical systems requires models w
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Desai_2021,
+  title={{Port-Hamiltonian neural networks for learning explicit time-dependent dynamical systems}},
+  volume={104},
+  ISSN={2470-0053},
+  DOI={10.1103/physreve.104.034312},
+  number={3},
+  journal={Physical Review E},
+  publisher={American Physical Society (APS)},
+  author={Desai, Shaan A. and Mattheakis, Marios and Sondak, David and Protopapas, Pavlos and Roberts, Stephen J.},
+  year={2021}
+}
 {% endraw %}
 {% endhighlight %}
  

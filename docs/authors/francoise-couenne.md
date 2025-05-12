@@ -4,6 +4,7 @@ title: Publications by Françoise Couenne
 permalink: /authors/francoise-couenne
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Mohammed Yaghi, Françoise Couenne, Aurélie Galfré, Laurent Lefèvre, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-of-the-solidification-process-for-a-pure-substance-a-phase-field-approach">Port Hamiltonian formulation of the solidification process for a pure substance: A phase field approach</a></h3></li>
 <li><span class='post-meta'>2020 -- Benjamin Vincent, Françoise Couenne, Laurent Lefèvre, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems-with-moving-interface-a-phase-field-approach">Port Hamiltonian systems with moving interface: a phase field approach</a></h3></li>
@@ -18,3 +19,4 @@ permalink: /authors/francoise-couenne
 <li><span class='post-meta'>2009 -- A. Baaiu, F. Couenne, D. Eberard, C. Jallut, L. Lefevre, Y. Legorrec, B. Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/port-based-modelling-of-mass-transport-phenomena">Port-based modelling of mass transport phenomena</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

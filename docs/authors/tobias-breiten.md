@@ -4,6 +4,7 @@ title: Publications by Tobias Breiten
 permalink: /authors/tobias-breiten
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Tobias Breiten, Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-linear-quadratic-gaussian-balanced-truncation-for-port-hamiltonian-descriptor-systems">Structure-preserving linear quadratic Gaussian balanced truncation for port-Hamiltonian descriptor systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Tobias Breiten, Dorothea Hinsen, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/toward-a-class-of-port-hamiltonian-systems-with-time-delays">Toward a Class of Port-Hamiltonian Systems With Time-Delays</a></h3></li>
@@ -12,3 +13,4 @@ permalink: /authors/tobias-breiten
 <li><span class='post-meta'>2022 -- Tobias Breiten, Riccardo Morandin, Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/error-bounds-for-port-hamiltonian-model-and-controller-reduction-based-on-system-balancing">Error bounds for port-Hamiltonian model and controller reduction based on system balancing</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

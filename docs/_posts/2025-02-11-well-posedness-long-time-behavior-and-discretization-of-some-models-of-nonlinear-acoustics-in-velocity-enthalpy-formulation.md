@@ -26,12 +26,18 @@ We study a class of models for nonlinear acoustics, including the well‐known W
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Egger_2025,
+  title={{Well‐Posedness, Long‐Time Behavior, and Discretization of Some Models of Nonlinear Acoustics in Velocity–Enthalpy Formulation}},
+  volume={48},
+  ISSN={1099-1476},
+  DOI={10.1002/mma.10753},
+  number={8},
+  journal={Mathematical Methods in the Applied Sciences},
+  publisher={Wiley},
+  author={Egger, Herbert and Fritz, Marvin},
+  year={2025},
+  pages={8793--8805}
+}
 {% endraw %}
 {% endhighlight %}
  

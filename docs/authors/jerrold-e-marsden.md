@@ -4,6 +4,7 @@ title: Publications by Jerrold E. Marsden
 permalink: /authors/jerrold-e-marsden
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2014 -- Jerrold E. Marsden, Hong Wang, Zhenxing Zhang</span><h3><a class='post-link' href="{{ site.baseurl }}/regular-reduction-of-controlled-hamiltonian-system-with-symplectic-structure-and-symmetry">Regular reduction of controlled Hamiltonian system with symplectic structure and symmetry</a></h3></li>
 <li><span class='post-meta'>2010 -- Joris Vankerschaver, Hiroaki Yoshimura, Melvin Leok, Jerrold E. Marsden</span><h3><a class='post-link' href="{{ site.baseurl }}/stokes-dirac-structures-through-reduction-of-infinite-dimensional-dirac-structures">Stokes-Dirac structures through reduction of infinite-dimensional Dirac structures</a></h3></li>
@@ -11,3 +12,4 @@ permalink: /authors/jerrold-e-marsden
 <li><span class='post-meta'>1988 -- Ge Zhong, Jerrold E. Marsden</span><h3><a class='post-link' href="{{ site.baseurl }}/lie-poisson-hamilton-jacobi-theory-and-lie-poisson-integrators">Lie-Poisson Hamilton-Jacobi theory and Lie-Poisson integrators</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

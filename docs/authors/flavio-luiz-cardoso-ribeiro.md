@@ -4,6 +4,7 @@ title: Publications by Flávio Luiz Cardoso-Ribeiro
 permalink: /authors/flavio-luiz-cardoso-ribeiro
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Laurent Lefèvre, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/rotational-shallow-water-equations-with-viscous-damping-and-boundary-control-structure-preserving-spatial-discretization">Rotational shallow water equations with viscous damping and boundary control: structure-preserving spatial discretization</a></h3></li>
 <li><span class='post-meta'>2024 -- Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulations-for-the-modeling-simulation-and-control-of-fluids">Port-Hamiltonian formulations for the modeling, simulation and control of fluids</a></h3></li>
@@ -21,3 +22,4 @@ permalink: /authors/flavio-luiz-cardoso-ribeiro
 <li><span class='post-meta'>2015 -- Flávio Luiz Cardoso-Ribeiro, Denis Matignon, Valérie Pommier-Budinger</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-of-a-fluid-structure-coupled-system-using-port-hamiltonian-formulation">Modeling of a Fluid-structure coupled system using port-Hamiltonian formulation</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

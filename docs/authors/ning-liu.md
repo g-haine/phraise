@@ -4,6 +4,7 @@ title: Publications by Ning Liu
 permalink: /authors/ning-liu
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Amal Hammoud, Ning Liu, Yann Le Gorrec, Yoan Civet, Yves Perriard</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-modeling-and-robust-position-control-of-a-dielectric-elastomer-cardiac-assist-device">Energy-based modeling and robust position control of a dielectric elastomer cardiac assist device</a></h3></li>
 <li><span class='post-meta'>2024 -- Ning Liu, Yongxin Wu, Yann Le Gorrec, Laurent Lefèvre, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/reduced-order-in-domain-control-of-distributed-parameter-port-hamiltonian-systems-via-energy-shaping">Reduced order in domain control of distributed parameter port-Hamiltonian systems via energy shaping</a></h3></li>
@@ -13,3 +14,4 @@ permalink: /authors/ning-liu
 <li><span class='post-meta'>2019 -- Ning Liu, Yongxin Wu, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/constrained-port-hamiltonian-formulation-of-multiscale-distributed-parameter-ipmc-systems">Constrained port Hamiltonian formulation of multiscale distributed parameter IPMC systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

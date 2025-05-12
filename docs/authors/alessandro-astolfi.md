@@ -4,6 +4,7 @@ title: Publications by Alessandro Astolfi
 permalink: /authors/alessandro-astolfi
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Mario Sassano, Thulasi Mylvaganam, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/ol-ne-for-lq-differential-games-a-port-controlled-hamiltonian-system-perspective-and-some-computational-strategies">OL-NE for LQ differential games: A Port-Controlled Hamiltonian system perspective and some computational strategies</a></h3></li>
 <li><span class='post-meta'>2024 -- Alessio Moreschini, Joel D. Simard, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/data-driven-model-reduction-for-port-hamiltonian-and-network-systems-in-the-loewner-framework">Data-driven model reduction for port-Hamiltonian and network systems in the Loewner framework</a></h3></li>
@@ -19,3 +20,4 @@ permalink: /authors/alessandro-astolfi
 <li><span class='post-meta'>2008 -- Romeo Ortega, Arjan van der Schaft, Fernando Castanos, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems">Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

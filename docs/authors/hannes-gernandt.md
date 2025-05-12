@@ -4,6 +4,7 @@ title: Publications by Hannes Gernandt
 permalink: /authors/hannes-gernandt
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Hannes Gernandt, Bernardo Severino, Xinyi Zhang, Volker Mehrmann, Kai Strunz</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-and-control-of-electric-vehicle-charging-stations">Port-Hamiltonian Modeling and Control of Electric Vehicle Charging Stations</a></h3></li>
 <li><span class='post-meta'>2025 -- Hannes Gernandt, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-structures-in-infinite-dimensional-optimal-control-primal-dual-gradient-method-and-control-by-interconnection">Port-Hamiltonian structures in infinite-dimensional optimal control: Primal–Dual gradient method and control-by-interconnection</a></h3></li>
@@ -17,3 +18,4 @@ permalink: /authors/hannes-gernandt
 <li><span class='post-meta'>2021 -- Hannes Gernandt, Frédéric Enrico Haller, Timo Reis</span><h3><a class='post-link' href="{{ site.baseurl }}/a-linear-relation-approach-to-port-hamiltonian-differential-algebraic-equations">A Linear Relation Approach to Port-Hamiltonian Differential-Algebraic Equations</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

@@ -4,6 +4,7 @@ title: Publications by Rémy Nouailletas
 permalink: /authors/remy-nouailletas
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- Ngoc Minh Trang Vu, Laurent Lefèvre, Rémy Nouailletas, Sylvain Brémond</span><h3><a class='post-link' href="{{ site.baseurl }}/symplectic-spatial-integration-schemes-for-systems-of-balance-equations">Symplectic spatial integration schemes for systems of balance equations</a></h3></li>
 <li><span class='post-meta'>2017 -- Ngoc Minh Trang Vu, Laurent Lefèvre, Rémy Nouailletas</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-and-backstepping-boundary-controls-for-port-hamiltonian-systems-with-symmetries">Distributed and backstepping boundary controls for port-Hamiltonian systems with symmetries</a></h3></li>
@@ -11,3 +12,4 @@ permalink: /authors/remy-nouailletas
 <li><span class='post-meta'>2015 -- N.M. Trang VU, L. LEFÈVRE, R. NOUAILLETAS</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-and-backstepping-boundary-controls-to-achieve-ida-pbc-design">Distributed and backstepping boundary controls to achieve IDA-PBC design</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

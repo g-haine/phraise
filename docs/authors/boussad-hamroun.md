@@ -4,6 +4,7 @@ title: Publications by Boussad Hamroun
 permalink: /authors/boussad-hamroun
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/reduced-order-lqg-control-design-for-infinite-dimensional-port-hamiltonian-systems">Reduced Order LQG Control Design for Infinite Dimensional Port Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2018 -- B. Zitte, B. Hamroun, F. Couenne, I. Pitault</span><h3><a class='post-link' href="{{ site.baseurl }}/representation-of-heat-exchanger-networks-using-graph-formalism">Representation of heat exchanger networks using graph formalism</a></h3></li>
@@ -17,3 +18,4 @@ permalink: /authors/boussad-hamroun
 <li><span class='post-meta'>2010 -- Boussad Hamroun, Alexandru Dimofte, Laurent Lefèvre, Eduardo Mendes</span><h3><a class='post-link' href="{{ site.baseurl }}/control-by-interconnection-and-energy-shaping-methods-of-port-hamiltonian-models-application-to-the-shallow-water-equations">Control by Interconnection and Energy-Shaping Methods of Port Hamiltonian Models. Application to the Shallow Water Equations</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

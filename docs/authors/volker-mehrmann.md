@@ -4,6 +4,7 @@ title: Publications by Volker Mehrmann
 permalink: /authors/volker-mehrmann
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Christian Mehl, Volker Mehrmann, Michał Wojtylak</span><h3><a class='post-link' href="{{ site.baseurl }}/spectral-theory-of-infinite-dimensional-dissipative-hamiltonian-systems">Spectral Theory of Infinite Dimensional Dissipative Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- F. Achleitner, A. Arnold, V. Mehrmann, E.A. Nigsch</span><h3><a class='post-link' href="{{ site.baseurl }}/hypocoercivity-in-hilbert-spaces">Hypocoercivity in Hilbert spaces</a></h3></li>
@@ -43,3 +44,4 @@ permalink: /authors/volker-mehrmann
 <li><span class='post-meta'>2016 -- Christian Mehl, Volker Mehrmann, Punit Sharma</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations">Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

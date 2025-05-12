@@ -39,12 +39,17 @@ Stabilization; Feedback control; Controlled Lagrangians; Port-Hamiltonian system
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Hochgerner_2024,
+  title={{Nonlinear Feedback, Double-bracket Dissipation and Port Control of Lie–Poisson Systems}},
+  volume={34},
+  ISSN={1432-1467},
+  DOI={10.1007/s00332-024-10031-9},
+  number={3},
+  journal={Journal of Nonlinear Science},
+  publisher={Springer Science and Business Media LLC},
+  author={Hochgerner, Simon},
+  year={2024}
+}
 {% endraw %}
 {% endhighlight %}
  

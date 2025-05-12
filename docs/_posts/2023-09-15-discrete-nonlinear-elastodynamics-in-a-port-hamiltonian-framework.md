@@ -26,12 +26,17 @@ We provide a fully nonlinear port‐Hamiltonian formulation for discrete elastod
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Kinon_2023,
+  title={{Discrete nonlinear elastodynamics in a port‐Hamiltonian framework}},
+  volume={23},
+  ISSN={1617-7061},
+  DOI={10.1002/pamm.202300144},
+  number={3},
+  journal={PAMM},
+  publisher={Wiley},
+  author={Kinon, Philipp L. and Thoma, Tobias and Betsch, Peter and Kotyczka, Paul},
+  year={2023}
+}
 {% endraw %}
 {% endhighlight %}
  

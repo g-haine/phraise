@@ -37,12 +37,15 @@ Shallow water equations (SWE); Port-Hamiltonian systems (pHs); Viscous damping; 
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-<html>
-<head><title>301 Moved Permanently</title></head>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-</body>
-</html>
+@article{Cardoso_Ribeiro_2024,
+  title={{Rotational shallow water equations with viscous damping and boundary control: structure-preserving spatial discretization}},
+  ISSN={1435-568X},
+  DOI={10.1007/s00498-024-00404-6},
+  journal={Mathematics of Control, Signals, and Systems},
+  publisher={Springer Science and Business Media LLC},
+  author={Cardoso-Ribeiro, Flávio Luiz and Haine, Ghislain and Lefèvre, Laurent and Matignon, Denis},
+  year={2024}
+}
 {% endraw %}
 {% endhighlight %}
  

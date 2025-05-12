@@ -4,6 +4,7 @@ title: Publications by Fernando Castaños
 permalink: /authors/fernando-castanos
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Fernando Castaños, Dmitry Gromov</span><h3><a class='post-link' href="{{ site.baseurl }}/limit-cycles-in-locally-hamiltonian-systems-with-dissipation">Limit Cycles in Locally Hamiltonian Systems with Dissipation</a></h3></li>
 <li><span class='post-meta'>2017 -- Dmitry Gromov, Fernando Castaños</span><h3><a class='post-link' href="{{ site.baseurl }}/the-geometric-structure-of-interconnected-thermo-mechanical-systems">The geometric structure of interconnected thermo-mechanical systems.</a></h3></li>
@@ -16,3 +17,4 @@ permalink: /authors/fernando-castanos
 <li><span class='post-meta'>2008 -- Romeo Ortega, Arjan van der Schaft, Fernando Castanos, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems">Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

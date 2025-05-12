@@ -4,6 +4,7 @@ title: Publications by Karl Worthmann
 permalink: /authors/karl-worthmann
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Timm Faulwasser, Jonas Kirchhoff, Volker Mehrmann, Friedrich Philipp, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/hidden-regularity-in-singular-optimal-control-of-port-hamiltonian-systems">Hidden Regularity in Singular Optimal Control of port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Friedrich M. Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-control-of-port-hamiltonian-systems-energy-entropy-and-exergy">Optimal control of port-Hamiltonian systems: Energy, entropy, and exergy</a></h3></li>
@@ -14,3 +15,4 @@ permalink: /authors/karl-worthmann
 <li><span class='post-meta'>2021 -- Manuel Schaller, Friedrich Philipp, Timm Faulwasser, Karl Worthmann, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/control-of-port-hamiltonian-systems-with-minimal-energy-supply">Control of port-Hamiltonian systems with minimal energy supply</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

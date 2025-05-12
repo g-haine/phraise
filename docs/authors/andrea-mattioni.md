@@ -4,6 +4,7 @@ title: Publications by Andrea Mattioni
 permalink: /authors/andrea-mattioni
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Andrea Mattioni, Yongxin Wu, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/a-lyapunov-approach-for-the-exponential-stability-of-a-damped-timoshenko-beam">A Lyapunov Approach for the Exponential Stability of a Damped Timoshenko Beam</a></h3></li>
 <li><span class='post-meta'>2022 -- Andrea Mattioni, Yongxin Wu, Yann Le Gorrec, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-a-class-of-mixed-ode-pde-port-hamiltonian-systems-with-strong-dissipation-feedback">Stabilization of a class of mixed ODE–PDE port-Hamiltonian systems with strong dissipation feedback</a></h3></li>
@@ -15,3 +16,4 @@ permalink: /authors/andrea-mattioni
 <li><span class='post-meta'>2018 -- Andrea Mattioni, Yongxin Wu, Hector Ramirez, Yann Le Gorrec, Alessandro Macchelli</span><h3><a class='post-link' href="{{ site.baseurl }}/modelling-and-control-of-a-class-of-lumped-beam-with-distributed-control">Modelling and control of a class of lumped beam with distributed control</a></h3></li>
 
 </ul>
+{% include count-posts.html %}

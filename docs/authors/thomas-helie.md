@@ -4,6 +4,7 @@ title: Publications by Thomas Hélie
 permalink: /authors/thomas-helie
 ---
 
+<h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Alexis Thibault, Thomas Hélie, Henri Boutin, Juliette Chabassier</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-macroscopic-modelling-based-on-the-homogenisation-method-case-of-an-acoustic-pipe-with-a-porous-wall">Port-Hamiltonian Macroscopic Modelling based on the Homogenisation Method: case of an acoustic pipe with a porous wall</a></h3></li>
 <li><span class='post-meta'>2024 -- David Roze, Thomas Hélie, Emmanuelle Rouhaud</span><h3><a class='post-link' href="{{ site.baseurl }}/time-space-formulation-of-a-conservative-string-subject-to-finite-transformations">Time-space formulation of a conservative string subject to finite transformations</a></h3></li>
@@ -23,3 +24,4 @@ permalink: /authors/thomas-helie
 <li><span class='post-meta'>2013 -- Denis Matignon, Thomas Hélie</span><h3><a class='post-link' href="{{ site.baseurl }}/a-class-of-damping-models-preserving-eigenspaces-for-linear-conservative-port-hamiltonian-systems">A class of damping models preserving eigenspaces for linear conservative port-Hamiltonian systems</a></h3></li>
 
 </ul>
+{% include count-posts.html %}
