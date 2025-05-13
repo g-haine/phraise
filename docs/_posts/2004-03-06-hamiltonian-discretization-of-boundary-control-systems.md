@@ -54,7 +54,7 @@ Boundary control; Spatial discretization; Finite elements; Port-Hamiltonian syst
 ## References
 - Bossavit, Differential forms and the computation of fields and forces in electromagnetism. European Journal of Mechanics, B/Fluids (1991)
 - Bossavit, (1998)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Dorfman, (1993)
 - Golo, G., van der Schaft, A. & Stramigioli, S. Hamiltonian Formulation of Planar Beams. IFAC Proceedings Volumes vol. 36 147–152 (2003) -- [10.1016/s1474-6670(17)38882-1](https://doi.org/10.1016/s1474-6670(17)38882-1)

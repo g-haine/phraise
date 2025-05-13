@@ -71,7 +71,7 @@ In this paper, we present the physical foundations and the development of the th
 - Wagner, W. & Pruß, A. The IAPWS Formulation 1995 for the Thermodynamic Properties of Ordinary Water Substance for General and Scientific Use. Journal of Physical and Chemical Reference Data vol. 31 387–535 (2002) -- [10.1063/1.1461829](https://doi.org/10.1063/1.1461829)
 - Wagner, W. et al. The IAPWS Industrial Formulation 1997 for the Thermodynamic Properties of Water and Steam. Journal of Engineering for Gas Turbines and Power vol. 122 150–184 (2000) -- [10.1115/1.483186](https://doi.org/10.1115/1.483186)
 - cellier, The Modelica bond braph library. Proc 4th Int Modelica Conf (2005)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - paynter, Analysis and Design of Engineering Systems (1961)
 - de groot, Non-equilibrium thermodynamics (1962)
 - de la Calle, A., Cellier, F. E., Yebra, L. J. & Dormido, S. Improvements in BondLib, the Modelica Bond Graph Library. 2013 8th EUROSIM Congress on Modelling and Simulation 282–287 (2013) doi:10.1109/eurosim.2013.58 -- [10.1109/eurosim.2013.58](https://doi.org/10.1109/eurosim.2013.58)

@@ -75,7 +75,7 @@ Port-Hamiltonian systems; Large-scale systems; Robust control; H-infinity contro
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - Guglielmi, N., Gürbüzbalaban, M. & Overton, M. L. Fast Approximation of the $H_\infty$ Norm via Optimization over Spectral Value Sets. SIAM Journal on Matrix Analysis and Applications vol. 34 709–737 (2013) -- [10.1137/120875752](https://doi.org/10.1137/120875752)
 - Gustavsen, B. & Semlyen, A. Enforcing passivity for admittance matrices approximated by rational functions. IEEE Transactions on Power Systems vol. 16 97–104 (2001) -- [10.1109/59.910786](https://doi.org/10.1109/59.910786)
-- Hauschild, S.-A. et al. Port-Hamiltonian Modeling of District Heating Networks. Differential-Algebraic Equations Forum 333–355 (2020) doi:10.1007/978-3-030-53905-4_11 -- [10.1007/978-3-030-53905-4_11](https://doi.org/10.1007/978-3-030-53905-4_11)
+- [Hauschild, S.-A. et al. Port-Hamiltonian Modeling of District Heating Networks. Differential-Algebraic Equations Forum 333–355 (2020) doi:10.1007/978-3-030-53905-4_11](port-hamiltonian-modeling-of-district-heating-networks) -- [10.1007/978-3-030-53905-4_11](https://doi.org/10.1007/978-3-030-53905-4_11)
 - Khalil, (2002)
 - Kunkel, (2006)
 - Leibfritz, (2004)

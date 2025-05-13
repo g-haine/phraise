@@ -78,7 +78,7 @@ Regular controlled Hamiltonian system; Symplectic structure; Momentum map; Regul
 - Meyer, Symmetries and integrals in mechanics. (1973)
 - Nijmeijer, (1990)
 - Ortega, Momentum Maps and Hamiltonian Reduction. (2004)
-- Schaft, A. J. Hamiltonian dynamics with external forces and observations. Mathematical Systems Theory vol. 15 145–168 (1981) -- [10.1007/bf01786977](https://doi.org/10.1007/bf01786977)
+- [Schaft, A. J. Hamiltonian dynamics with external forces and observations. Mathematical Systems Theory vol. 15 145–168 (1981)](hamiltonian-dynamics-with-external-forces-and-observations) -- [10.1007/bf01786977](https://doi.org/10.1007/bf01786977)
 - van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 10 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. AEÜ, Arch. Elektron. Übertrag.tech. (1995)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)

@@ -56,7 +56,7 @@ Modeling; Port-Hamiltonian systems; Network graph; Family of geometric interconn
 ## References
 - Bloch, Representation of dirac structures on vector spaces and nonlinear LC circuits. (1999)
 - Buisson, J. Analysis of switching devices with bond graphs. Journal of the Franklin Institute vol. 330 1165–1175 (1993) -- [10.1016/0016-0032(93)90070-b](https://doi.org/10.1016/0016-0032(93)90070-b)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Haddad, W. M., Nersesov, S. G. & Chellaboina, V. Energy-based control for hybrid port-controlled Hamiltonian systems. Automatica vol. 39 1425–1435 (2003) -- [10.1016/s0005-1098(03)00113-4](https://doi.org/10.1016/s0005-1098(03)00113-4)

@@ -54,7 +54,7 @@ Network modeling; Composition; Scattering; Star product; Casimirs
  
 ## References
 - Cervera, On composition of Dirac structures and its implications for control by interconnection. (2002)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Dorfman, (1993)
 - Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
@@ -67,7 +67,7 @@ Network modeling; Composition; Scattering; Star product; Casimirs
 - Ortega, Putting energy back in control. Control Systems Magazine (2001)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Redheffer, R. M. On a Certain Linear Fractional Transformation. Journal of Mathematics and Physics vol. 39 269–286 (1960) -- [10.1002/sapm1960391269](https://doi.org/10.1002/sapm1960391269)
-- van der Schaft, A. J. Implicit Hamiltonian systems with symmetry. Reports on Mathematical Physics vol. 41 203–221 (1998) -- [10.1016/s0034-4877(98)80176-6](https://doi.org/10.1016/s0034-4877(98)80176-6)
+- [van der Schaft, A. J. Implicit Hamiltonian systems with symmetry. Reports on Mathematical Physics vol. 41 203–221 (1998)](implicit-hamiltonian-systems-with-symmetry) -- [10.1016/s0034-4877(98)80176-6](https://doi.org/10.1016/s0034-4877(98)80176-6)
 - van der Schaft, Interconnection and Geometry. (1999)
 - van der Schaft, (2000)
 - van der Schaft, Composition of Dirac structures and control of port-Hamiltonian systems. (2002)

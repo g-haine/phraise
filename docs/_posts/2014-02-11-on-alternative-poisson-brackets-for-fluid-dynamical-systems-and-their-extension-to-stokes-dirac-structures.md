@@ -53,7 +53,7 @@ Five to ten keywords; preferably chosen from the IFAC keyword list
 ## References
 - Arnold, V. I. Mathematical Methods of Classical Mechanics. Graduate Texts in Mathematics (Springer New York, 1989). doi:10.1007/978-1-4757-2063-1 -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
 - Arnold, (1998)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Courant, Beyond Poisson structures. In Séminaire Sud-Rhodanien de Géométrie, volume 8 of. (1988)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - [Dos Santos, V., Maschke, B. & Le Gorrec, Y. A Hamiltonian perspective to thstabilization of systems of two conservation laws. Networks &amp; Heterogeneous Media vol. 4 249–266 (2009)](a-hamiltonian-perspective-to-the-stabilization-of-systems-of-two-conservation-laws) -- [10.3934/nhm.2009.4.249](https://doi.org/10.3934/nhm.2009.4.249)
@@ -67,7 +67,7 @@ Five to ten keywords; preferably chosen from the IFAC keyword list
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
 - Nishida, G., Maschke, B. & Ikeura, R. Discretized Hamiltonian Systems with Distributed Energy Flows on Divisible Meshes. IFAC Proceedings Volumes vol. 44 13474–13479 (2011) -- [10.3182/20110828-6-it-1002.03219](https://doi.org/10.3182/20110828-6-it-1002.03219)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1993). doi:10.1007/978-1-4612-4350-2 -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
-- Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
+- [Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008)](mathematical-modeling-for-nonlinear-control-a-hamiltonian-approach) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
 - van der Schaft, L. (1996)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)

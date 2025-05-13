@@ -56,7 +56,7 @@ port Hamiltonian modeling; model reduction; infinite dimensional systems; transp
 - Baaiu, A., Couenne, F., Lefevre, L., Le Gorrec, Y. & Tayakout, M. Structure-preserving infinite dimensional model reduction: Application to adsorption processes. Journal of Process Control vol. 19 394–404 (2009) -- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
 - Bossavit, (1998)
 - Callen, (1985)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Dorfman, (1993)
 - Duindam, (2009)
 - Flanders, (1989)

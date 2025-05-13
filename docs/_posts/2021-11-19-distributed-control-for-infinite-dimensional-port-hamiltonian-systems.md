@@ -56,7 +56,7 @@ port-Hamiltonian systems; passivity-based control; stability analisys
 - Jacob, (2012)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Luo, (1999)
-- Maschke, B. M. & van der Schaft, A. J. PORT-CONTROLLED HAMILTONIAN SYSTEMS: MODELLING ORIGINS AND SYSTEMTHEORETIC PROPERTIES. Nonlinear Control Systems Design 1992 359–365 (1993) doi:10.1016/b978-0-08-041901-5.50064-6 -- [10.1016/b978-0-08-041901-5.50064-6](https://doi.org/10.1016/b978-0-08-041901-5.50064-6)
+- [Maschke, B. M. & van der Schaft, A. J. PORT-CONTROLLED HAMILTONIAN SYSTEMS: MODELLING ORIGINS AND SYSTEMTHEORETIC PROPERTIES. Nonlinear Control Systems Design 1992 359–365 (1993) doi:10.1016/b978-0-08-041901-5.50064-6](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties0) -- [10.1016/b978-0-08-041901-5.50064-6](https://doi.org/10.1016/b978-0-08-041901-5.50064-6)
 - [Mattioni, A., Wu, Y., Ramirez, H., Gorrec, Y. L. & Macchelli, A. Modelling and control of a class of lumped beam with distributed control. IFAC-PapersOnLine vol. 51 217–222 (2018)](modelling-and-control-of-a-class-of-lumped-beam-with-distributed-control) -- [10.1016/j.ifacol.2018.06.057](https://doi.org/10.1016/j.ifacol.2018.06.057)
 - Olver, (1993)
 - Ortega, Putting energy back in control. (2001)

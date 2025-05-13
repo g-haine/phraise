@@ -62,7 +62,7 @@ Nonlinear systems; Shallow water equations; Passivity based control; Port-Hamilt
 - Clemmens, A. J., Bautista, E., Wahlin, B. T. & Strand, R. J. Simulation of Automatic Canal Control Systems. Journal of Irrigation and Drainage Engineering vol. 131 324–335 (2005) -- [10.1061/(asce)0733-9437(2005)131:4(324)](https://doi.org/10.1061/(asce)0733-9437(2005)131:4(324))
 - Coron, A Lyapunov approach to control irrigation canals modeled by Saint-Venant equations. (1999)
 - Coron, J.-M., Bastin, G. & d’Andréa-Novel, B. Dissipative Boundary Conditions for One-Dimensional Nonlinear Hyperbolic Systems. SIAM Journal on Control and Optimization vol. 47 1460–1498 (2008) -- [10.1137/070706847](https://doi.org/10.1137/070706847)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Cunge, (1980)
 - Dimofte, Boundary control of nonlinear distributed parameters port-Hamiltonian models for the shallow water dynamics. Int Rev Autom Control (2009)
 - Dulhoste, Nonlinear control of water flow dynamics by input-output linearization based on collocation model. (2001)

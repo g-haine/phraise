@@ -62,7 +62,7 @@ Differential geometric methods; Lagrangian and Hamiltonian Systems; Partial diff
 - Meirovitch, (1997)
 - Olver, (1986)
 - Saunders, (1989)
-- Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
+- [Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008)](mathematical-modeling-for-nonlinear-control-a-hamiltonian-approach) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
 - [Schöberl, M., Ennsbrunner, H. & Schlacher, K. Modelling of piezoelectric structures–a Hamiltonian approach. Mathematical and Computer Modelling of Dynamical Systems vol. 14 179–193 (2008)](modelling-of-piezoelectric-structures-a-hamiltonian-approach) -- [10.1080/13873950701844824](https://doi.org/10.1080/13873950701844824)
 - Schöberl, Analysis and comparison of port-hamiltonian formulations for field theories - demonstrated by means of the mindlin plate. (2013)
 - [Schoberl, M. & Siuka, A. On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems. IEEE Transactions on Automatic Control vol. 58 1823–1828 (2013)](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/tac.2012.2235739](https://doi.org/10.1109/tac.2012.2235739)

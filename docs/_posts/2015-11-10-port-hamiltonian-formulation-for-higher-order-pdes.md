@@ -52,7 +52,7 @@ Differential geometric methods; Hamiltonian Systems; Partial differential equati
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-formulation-for-higher-order-pdes.bib)
  
 ## References
-- Ennsbrunner, H. & Schlacher, K. On the geometrical representation and interconnection of infinite dimensional port controlled Hamiltonian systems. Proceedings of the 44th IEEE Conference on Decision and Control 5263–5268 doi:10.1109/cdc.2005.1582998 -- [10.1109/cdc.2005.1582998](https://doi.org/10.1109/cdc.2005.1582998)
+- [Ennsbrunner, H. & Schlacher, K. On the geometrical representation and interconnection of infinite dimensional port controlled Hamiltonian systems. Proceedings of the 44th IEEE Conference on Decision and Control 5263–5268 doi:10.1109/cdc.2005.1582998](on-the-geometrical-representation-and-interconnection-of-infinite-dimensional-port-controlled-hamiltonian-systems) -- [10.1109/cdc.2005.1582998](https://doi.org/10.1109/cdc.2005.1582998)
 - Giachetta, (1997)
 - Macchelli, Port based modelling and control of the mindlin plate. (2005)
 - Macchelli, Port hamiltonian formulation of infinite dimensional systems i. modeling. (2004)
@@ -60,7 +60,7 @@ Differential geometric methods; Hamiltonian Systems; Partial differential equati
 - Maschke, B. & van der Schaft, A. 4 Compositional Modelling of Distributed-Parameter Systems. Lecture Notes in Control and Information Sciences 115–154 (2005) doi:10.1007/11334774_4 -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
 - Olver, (1986)
 - Saunders, (1989)
-- Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
+- [Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008)](mathematical-modeling-for-nonlinear-control-a-hamiltonian-approach) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
 - [Schöberl, M. & Schlacher, K. Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems. IFAC-PapersOnLine vol. 48 610–615 (2015)](lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems) -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
 - Schöberl, On the port-hamiltonian representation of systems described by partial differential equations. (2012)
 - Schöberl, Analysis and comparison of port-hamiltonian formulations for field theories - demonstrated by means of the mindlin plate. (2013)

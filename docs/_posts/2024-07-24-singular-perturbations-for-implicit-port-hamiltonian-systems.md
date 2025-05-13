@@ -41,7 +41,7 @@ In this work, we present the standard Singular Perturbations technique applied t
 [Download the bib file]({{ site.baseurl }}/assets/bib/singular-perturbations-for-implicit-port-hamiltonian-systems.bib)
  
 ## References
-- Maschke, B. M. & van der Schaft, A. J. PORT-CONTROLLED HAMILTONIAN SYSTEMS: MODELLING ORIGINS AND SYSTEMTHEORETIC PROPERTIES. Nonlinear Control Systems Design 1992 359–365 (1993) doi:10.1016/b978-0-08-041901-5.50064-6 -- [10.1016/b978-0-08-041901-5.50064-6](https://doi.org/10.1016/b978-0-08-041901-5.50064-6)
+- [Maschke, B. M. & van der Schaft, A. J. PORT-CONTROLLED HAMILTONIAN SYSTEMS: MODELLING ORIGINS AND SYSTEMTHEORETIC PROPERTIES. Nonlinear Control Systems Design 1992 359–365 (1993) doi:10.1016/b978-0-08-041901-5.50064-6](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties0) -- [10.1016/b978-0-08-041901-5.50064-6](https://doi.org/10.1016/b978-0-08-041901-5.50064-6)
 - Van Der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. AEU International journal of electronics and communications (1995)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)

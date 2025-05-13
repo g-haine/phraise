@@ -52,7 +52,7 @@ Port-Hamiltonian systems; Nonlinear implicit systems; Modeling of physical syste
  
 ## References
 - Singer, (2001)
-- Schaft, A. J. Hamiltonian dynamics with external forces and observations. Mathematical Systems Theory vol. 15 145–168 (1981) -- [10.1007/bf01786977](https://doi.org/10.1007/bf01786977)
+- [Schaft, A. J. Hamiltonian dynamics with external forces and observations. Mathematical Systems Theory vol. 15 145–168 (1981)](hamiltonian-dynamics-with-external-forces-and-observations) -- [10.1007/bf01786977](https://doi.org/10.1007/bf01786977)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Rheinboldt, W. C. Differential-algebraic systems as differential equations on manifolds. Mathematics of Computation vol. 43 473–482 (1984) -- [10.1090/s0025-5718-1984-0758195-5](https://doi.org/10.1090/s0025-5718-1984-0758195-5)
 - Reich, S. On a geometrical interpretation of differential-algebraic equations. Circuits Systems and Signal Processing vol. 9 367–382 (1990) -- [10.1007/bf01189332](https://doi.org/10.1007/bf01189332)

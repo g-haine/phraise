@@ -56,6 +56,6 @@ We present results on numerical integrators that exactly preserve momentum maps 
 - J. Comput. Phys. (1984)
 - Ge Zhong, (1988)
 - Marsden, Atti Accad. Sci. Torino (1983)
-- Lewis, D., Marsden, J., Montgomery, R. & Ratiu, T. The Hamiltonian structure for dynamic free boundary problems. Physica D: Nonlinear Phenomena vol. 18 391–404 (1986) -- [10.1016/0167-2789(86)90207-1](https://doi.org/10.1016/0167-2789(86)90207-1)
+- [Lewis, D., Marsden, J., Montgomery, R. & Ratiu, T. The Hamiltonian structure for dynamic free boundary problems. Physica D: Nonlinear Phenomena vol. 18 391–404 (1986)](the-hamiltonian-structure-for-dynamic-free-boundary-problems) -- [10.1016/0167-2789(86)90207-1](https://doi.org/10.1016/0167-2789(86)90207-1)
 - Marsden, J. & Weinstein, A. Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids. Physica D: Nonlinear Phenomena vol. 7 305–323 (1983) -- [10.1016/0167-2789(83)90134-3](https://doi.org/10.1016/0167-2789(83)90134-3)
 

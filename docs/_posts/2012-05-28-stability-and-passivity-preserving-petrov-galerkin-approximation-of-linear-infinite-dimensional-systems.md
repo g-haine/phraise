@@ -67,7 +67,7 @@ Structure preservation; System approximation; Port Hamiltonian systems; Linear i
 - Naylor, (1982)
 - [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica vol. 46 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
 - Reis, T. & Stykel, T. Lyapunov Balancing for Passivity-Preserving Model Reduction of RC Circuits. SIAM Journal on Applied Dynamical Systems vol. 10 1–34 (2011) -- [10.1137/090779802](https://doi.org/10.1137/090779802)
-- Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
+- [Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008)](mathematical-modeling-for-nonlinear-control-a-hamiltonian-approach) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
 - Tucsnak, (2009)
 - van der Schaft, (2000)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)

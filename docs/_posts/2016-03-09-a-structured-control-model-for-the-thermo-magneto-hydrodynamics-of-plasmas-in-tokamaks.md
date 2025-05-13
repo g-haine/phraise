@@ -49,7 +49,7 @@ ABSTRACT A thermo-magneto-hydrodynamics port-Hamiltonian model is derived for th
 - Fusion, tokamaks, and plasma control: an introduction and tutorial. IEEE Control Systems vol. 25 30–43 (2005) -- [10.1109/mcs.2005.1512794](https://doi.org/10.1109/mcs.2005.1512794)
 - Emerging applications in tokamak plasma control. IEEE Control Systems vol. 26 35–63 (2006) -- [10.1109/mcs.2006.1615272](https://doi.org/10.1109/mcs.2006.1615272)
 - Blum J., Numerical Simulation and Optimal Control in Plasma Physics (1989)
-- Marsden, J. E. & Weinstein, A. The Hamiltonian structure of the Maxwell-Vlasov equations. Physica D: Nonlinear Phenomena vol. 4 394–406 (1982) -- [10.1016/0167-2789(82)90043-4](https://doi.org/10.1016/0167-2789(82)90043-4)
+- [Marsden, J. E. & Weinstein, A. The Hamiltonian structure of the Maxwell-Vlasov equations. Physica D: Nonlinear Phenomena vol. 4 394–406 (1982)](the-hamiltonian-structure-of-the-maxwell-vlasov-equations) -- [10.1016/0167-2789(82)90043-4](https://doi.org/10.1016/0167-2789(82)90043-4)
 - Morrison, P. J. & Greene, J. M. Noncanonical Hamiltonian Density Formulation of Hydrodynamics and Ideal Magnetohydrodynamics. Physical Review Letters vol. 45 790–794 (1980) -- [10.1103/physrevlett.45.790](https://doi.org/10.1103/physrevlett.45.790)
 - Tassi, E., Morrison, P. J., Waelbroeck, F. L. & Grasso, D. Hamiltonian formulation and analysis of a collisionless fluid reconnection model. Plasma Physics and Controlled Fusion vol. 50 085014 (2008) -- [10.1088/0741-3335/50/8/085014](https://doi.org/10.1088/0741-3335/50/8/085014)
 - Witrant, E. et al. A control-oriented model of the current profile in tokamak plasma. Plasma Physics and Controlled Fusion vol. 49 1075–1105 (2007) -- [10.1088/0741-3335/49/7/009](https://doi.org/10.1088/0741-3335/49/7/009)
@@ -78,7 +78,7 @@ ABSTRACT A thermo-magneto-hydrodynamics port-Hamiltonian model is derived for th
 - Choquet-Bruhat Y., Analysis Manifolds and Physics (1982)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1993). doi:10.1007/978-1-4612-4350-2 -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
 - Maschke B., Advanced topics in control systems theory, in Chapter Compositional Modelling of Distributed Parameter Systems
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - van der Schaft A.J., Archiv für Elektronik und Übertragungstechnik (1995)
 - Jamiolkowski A., Classical Electrodynamics (1985)

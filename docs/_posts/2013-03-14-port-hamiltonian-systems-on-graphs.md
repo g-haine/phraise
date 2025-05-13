@@ -49,7 +49,7 @@ In this paper we present a unifying geometric and compositional framework for mo
 - Bürger M., Orlando, FL (2011)
 - Camlibel M. K., The Netherlands (2012)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Davies, T. H. Mechanical networks—I Passivity and redundancy. Mechanism and Machine Theory vol. 18 95–101 (1983) -- [10.1016/0094-114x(83)90100-3](https://doi.org/10.1016/0094-114x(83)90100-3)
 - De Persis, C. & Kallesoe, C. S. Pressure Regulation in Nonlinear Hydraulic Networks by Positive and Quantized Controls. IEEE Transactions on Control Systems Technology vol. 19 1371–1383 (2011) -- [10.1109/tcst.2010.2094619](https://doi.org/10.1109/tcst.2010.2094619)

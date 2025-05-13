@@ -54,7 +54,7 @@ Port-Hamiltonian systems; Dirac structures; Distributed-parameter systems; Struc
  
 ## References
 - Bossavit, (1998)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Desbrun, (2002)
 - Desbrun, M., Kanso, E. & Tong, Y. Discrete Differential Forms for Computational Modeling. Oberwolfach Seminars 287–324 doi:10.1007/978-3-7643-8621-4_16 -- [10.1007/978-3-7643-8621-4_16](https://doi.org/10.1007/978-3-7643-8621-4_16)
 - Dorfman, (1993)
@@ -62,7 +62,7 @@ Port-Hamiltonian systems; Dirac structures; Distributed-parameter systems; Struc
 - Hiptmair, Finite elements in computational electromagnetism. (2002)
 - [Macchelli, A. Energy shaping of distributed parameter port-Hamiltonian systems based on finite element approximation. Systems &amp; Control Letters vol. 60 579–589 (2011)](energy-shaping-of-distributed-parameter-port-hamiltonian-systems-based-on-finite-element-approximation) -- [10.1016/j.sysconle.2011.04.016](https://doi.org/10.1016/j.sysconle.2011.04.016)
 - Munkres, (1984)
-- Schöberl, M. & Schlacher, K. First-order Hamiltonian field theory and mechanics. Mathematical and Computer Modelling of Dynamical Systems vol. 17 105–121 (2011) -- [10.1080/13873954.2010.537526](https://doi.org/10.1080/13873954.2010.537526)
+- [Schöberl, M. & Schlacher, K. First-order Hamiltonian field theory and mechanics. Mathematical and Computer Modelling of Dynamical Systems vol. 17 105–121 (2011)](first-order-hamiltonian-field-theory-and-mechanics) -- [10.1080/13873954.2010.537526](https://doi.org/10.1080/13873954.2010.537526)
 - Seslija, M., Scherpen, J. M. A. & van der Schaft, A. A discrete exterior approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. IEEE Conference on Decision and Control and European Control Conference 7003–7008 (2011) doi:10.1109/cdc.2011.6160579 -- [10.1109/cdc.2011.6160579](https://doi.org/10.1109/cdc.2011.6160579)
 - [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics vol. 62 1509–1531 (2012)](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
 - van der Schaft, A. & Schumacher, H. An Introduction to Hybrid Dynamical Systems. Lecture Notes in Control and Information Sciences (Springer London, 2000). doi:10.1007/bfb0109998 -- [10.1007/bfb0109998](https://doi.org/10.1007/bfb0109998)

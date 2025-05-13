@@ -48,7 +48,7 @@ In the present paper we elaborate on the underlying Hamiltonian structure of int
 - Abraham, R., Marsden, J. E. & Ratiu, T. Manifolds, Tensor Analysis, and Applications. Applied Mathematical Sciences (Springer New York, 1988). doi:10.1007/978-1-4612-1029-0 -- [10.1007/978-1-4612-1029-0](https://doi.org/10.1007/978-1-4612-1029-0)
 - Bloch, A. M. & Crouch, P. E. Nonholonomic Control Systems on Riemannian Manifolds. SIAM Journal on Control and Optimization vol. 33 126–148 (1995) -- [10.1137/s036301299223533x](https://doi.org/10.1137/s036301299223533x)
 - Bloch, A. M., Krishnaprasad, P. S., Marsden, J. E. & Murray, R. M. Nonholonomic mechanical systems with symmetry. Archive for Rational Mechanics and Analysis vol. 136 21–99 (1996) -- [10.1007/bf02199365](https://doi.org/10.1007/bf02199365)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dorfman, I. Ya. Dirac structures of integrable evolution equations. Physics Letters A vol. 125 240–246 (1987)](dirac-structures-of-integrable-evolution-equations) -- [10.1016/0375-9601(87)90201-5](https://doi.org/10.1016/0375-9601(87)90201-5)
 - Dorfman Irene, Dirac structures and integrability of nonlinear evolution equations (1993)
 - Dirac, P. A. M. Generalized Hamiltonian Dynamics. Canadian Journal of Mathematics vol. 2 129–148 (1950) -- [10.4153/cjm-1950-012-1](https://doi.org/10.4153/cjm-1950-012-1)

@@ -59,7 +59,7 @@ Boundary control systems; infinite-dimensional port Hamiltonian systems; asympto
 - Curtain, (1995)
 - Curtain, R. & Zwart, H. Stabilization of collocated systems by nonlinear boundary control. Systems &amp; Control Letters vol. 96 11–14 (2016) -- [10.1016/j.sysconle.2016.06.014](https://doi.org/10.1016/j.sysconle.2016.06.014)
 - Jacob, (2012)
-- Kurula, M. & Zwart, H. Linear wave systems onn-D spatial domains. International Journal of Control 1–24 (2014) doi:10.1080/00207179.2014.993337 -- [10.1080/00207179.2014.993337](https://doi.org/10.1080/00207179.2014.993337)
+- [Kurula, M. & Zwart, H. Linear wave systems onn-D spatial domains. International Journal of Control 1–24 (2014) doi:10.1080/00207179.2014.993337](linear-wave-systems-on-i-n-i-d-spatial-domains) -- [10.1080/00207179.2014.993337](https://doi.org/10.1080/00207179.2014.993337)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Luo, (1999)
 - Miletic, M., Sturzer, D., Arnold, A. & Kugi, A. Stability of an Euler-Bernoulli Beam With a Nonlinear Dynamic Feedback System. IEEE Transactions on Automatic Control vol. 61 2782–2795 (2016) -- [10.1109/tac.2015.2499604](https://doi.org/10.1109/tac.2015.2499604)

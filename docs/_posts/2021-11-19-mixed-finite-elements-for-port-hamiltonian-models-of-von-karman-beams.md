@@ -75,5 +75,5 @@ Port-Hamiltonian systems; von Kármán beams; Mixed Finite Elements
 - [Rashad, R., Califano, F., Schuller, F. P. & Stramigioli, S. Port-Hamiltonian modeling of ideal fluid flow: Part II. Compressible and incompressible flow. Journal of Geometry and Physics vol. 164 104199 (2021)](port-hamiltonian-modeling-of-ideal-fluid-flow-part-ii-compressible-and-incompressible-flow) -- [10.1016/j.geomphys.2021.104199](https://doi.org/10.1016/j.geomphys.2021.104199)
 - Rathgeber, F. et al. Firedrake. ACM Transactions on Mathematical Software vol. 43 1–27 (2016) -- [10.1145/2998441](https://doi.org/10.1145/2998441)
 - Reddy, (2010)
-- Simo, J. C., Marsden, J. E. & Krishnaprasad, P. S. The Hamiltonian structure of nonlinear elasticity: The material and convective representations of solids, rods, and plates. Archive for Rational Mechanics and Analysis vol. 104 125–183 (1988) -- [10.1007/bf00251673](https://doi.org/10.1007/bf00251673)
+- [Simo, J. C., Marsden, J. E. & Krishnaprasad, P. S. The Hamiltonian structure of nonlinear elasticity: The material and convective representations of solids, rods, and plates. Archive for Rational Mechanics and Analysis vol. 104 125–183 (1988)](the-hamiltonian-structure-of-nonlinear-elasticity-the-material-and-convective-representations-of-solids-rods-and-plates) -- [10.1007/bf00251673](https://doi.org/10.1007/bf00251673)
 

@@ -77,6 +77,6 @@ Energy storage; Port-Hamiltonian systems; Eigenfunctions; Damping; Caughey serie
 - Rayleigh, (1896)
 - Trefethen, (2005)
 - van der Schaft, (2001)
-- Schaft, A. J. Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems. Advanced Dynamics and Control of Structures and Machines 127–167 (2004) doi:10.1007/978-3-7091-2774-2_9 -- [10.1007/978-3-7091-2774-2_9](https://doi.org/10.1007/978-3-7091-2774-2_9)
+- [Schaft, A. J. Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems. Advanced Dynamics and Control of Structures and Machines 127–167 (2004) doi:10.1007/978-3-7091-2774-2_9](port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems) -- [10.1007/978-3-7091-2774-2_9](https://doi.org/10.1007/978-3-7091-2774-2_9)
 - Webster, A. G. Acoustical Impedance and the Theory of Horns and of the Phonograph. Proceedings of the National Academy of Sciences vol. 5 275–282 (1919) -- [10.1073/pnas.5.7.275](https://doi.org/10.1073/pnas.5.7.275)
 

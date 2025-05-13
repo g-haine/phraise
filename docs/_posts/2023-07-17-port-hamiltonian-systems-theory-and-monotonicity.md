@@ -54,7 +54,7 @@ category: articles
 - Bürger, M., Zelazo, D. & Allgöwer, F. Duality and network theory in passivity-based cooperative control. Automatica vol. 50 2051–2061 (2014) -- [10.1016/j.automatica.2014.06.002](https://doi.org/10.1016/j.automatica.2014.06.002)
 - Hines, G. H., Arcak, M. & Packard, A. K. Equilibrium-independent passivity: A new definition and numerical certification. Automatica vol. 47 1949–1956 (2011) -- [10.1016/j.automatica.2011.05.011](https://doi.org/10.1016/j.automatica.2011.05.011)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - van der Schaft A. J., Archiv für Elektronik und Übertragungstechnik (1995)
 - Mehrmann V., Math. Control Signals Systems (2023)
 - [van der Schaft, A. & Mehrmann, V. Linear port-Hamiltonian DAE systems revisited. Systems &amp; Control Letters vol. 177 105564 (2023)](linear-port-hamiltonian-dae-systems-revisited) -- [10.1016/j.sysconle.2023.105564](https://doi.org/10.1016/j.sysconle.2023.105564)

@@ -54,7 +54,7 @@ Dirac structures; port-Hamiltonian systems; nonlinear systems; geometrical metho
  
 ## References
 - Conlon, L. Topological Manifolds. Differentiable Manifolds 1–24 (1993) doi:10.1007/978-1-4757-2284-0_1 -- [10.1007/978-1-4757-2284-0_1](https://doi.org/10.1007/978-1-4757-2284-0_1)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Higgins, P. J. & Mackenzie, K. Algebraic constructions in the category of lie algebroids. Journal of Algebra vol. 129 194–230 (1990) -- [10.1016/0021-8693(90)90246-k](https://doi.org/10.1016/0021-8693(90)90246-k)
 - Jotz Lean, M. Dorfman connections and Courant algebroids. Journal de Mathématiques Pures et Appliquées vol. 116 1–39 (2018) -- [10.1016/j.matpur.2018.06.016](https://doi.org/10.1016/j.matpur.2018.06.016)
 - Kolár, (1993)

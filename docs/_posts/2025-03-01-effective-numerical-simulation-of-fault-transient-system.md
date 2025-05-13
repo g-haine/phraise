@@ -49,7 +49,7 @@ category: articles
 - Feng K., Proc. 1984 Beijing Symp. Differential Geometry and Differential Equations (1985)
 - Ji F., Proc. CSEE (2022)
 - Horn R. A., Matrix Analysis (2013)
-- Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180 -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
+- [Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 - Dong Y., Proc. CSEE (2018)
 - Zhang, Y., Gole, A. M., Wu, W., Zhang, B. & Sun, H. Development and Analysis of Applicability of a Hybrid Transient Simulation Platform Combining TSA and EMT Elements. IEEE Transactions on Power Systems vol. 28 357–366 (2013) -- [10.1109/tpwrs.2012.2196450](https://doi.org/10.1109/tpwrs.2012.2196450)
 - Watson N., Power Systems Electromagnetic Transients Simulation (2019)

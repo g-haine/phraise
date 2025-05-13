@@ -13,14 +13,14 @@ Contributions are welcome in the form of **DOI submissions**. You can:
 
 You need API keys for Scopus and Springer.
 
-- 0- ./looking4Update.sh (to update *e.g.* volume, issue, etc.)
+- 0- ./looking4Update.sh (to update, *e.g.*, volume, issue, etc.)
 - 1- ./getData.sh newDOI.txt
-- 2- ./setAuthorMapping.sh
-- 3- Correction of biblio.json entries <-> ./setAuthorMapping.sh
-- 4- Add new name variations or new entry to author_mappings.json
-- 5- ./concatenate.sh
-- 6- ./setPosts.sh (potential need for another correction of biblio.json entries)
-- 7- ./setPages.sh (potential need for another correction of biblio.json entries)
+- 2- ./setAuthorMapping.sh <-> Correction of biblio.json entries
+- 3- Add new name variations or new entry to author_mappings.json
+- 4- ./concatenate.sh
+- 5- ./checkDuplicate.sh
+- 6- ./setPosts.sh
+- 7- ./setPages.sh
 - 8- bundle exec jekyll serve --watch (for verification of the building process, last corrections)
 - 9- commit & push !
 - 10- verify if it deploys correctly on github pages

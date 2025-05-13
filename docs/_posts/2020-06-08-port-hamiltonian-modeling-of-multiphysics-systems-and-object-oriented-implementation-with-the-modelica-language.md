@@ -58,7 +58,7 @@ In this article we present the implementation in Modelica language of a library 
 - tellegen, The network element. Philips Res Rep (1948)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - chua, The genesis of Chua&#x2019;s circuit. Int J Electron Commun (1992)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - dai, Compositional design of cyber-physical systems using port-Hamiltonian systems. (2016)
 - Dai, S., Lattmann, Z. & Koutsoukos, X. Compositional Design of Cyber-Physical Systems Using Port-Hamiltonian Systems. Cyber-Physical Systems 33–59 (2015) doi:10.1201/b19290-4 -- [10.1201/b19290-4](https://doi.org/10.1201/b19290-4)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)

@@ -54,7 +54,7 @@ Contacts; Geometry; Port-Hamiltonian
 - Bloch, Representation of dirac structures on vector spaces and nonlinear lcv-circuits. (1999)
 - Armstrong-Hélouvry, B., Dupont, P. & De Wit, C. C. A survey of models, analysis tools and compensation methods for the control of machines with friction. Automatica vol. 30 1083–1138 (1994) -- [10.1016/0005-1098(94)90209-7](https://doi.org/10.1016/0005-1098(94)90209-7)
 - Bicchi, Robotic grasping and contact: a review. (2000)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Cutkosky, M. R. & Wright, P. K. Friction, Stability and the Design of Robotic Fingers. The International Journal of Robotics Research vol. 5 20–37 (1986) -- [10.1177/027836498600500402](https://doi.org/10.1177/027836498600500402)
 - Duindam, Modeling the kinematics and dynamics of compliant contact. (2003)
 - Harris, (1990)

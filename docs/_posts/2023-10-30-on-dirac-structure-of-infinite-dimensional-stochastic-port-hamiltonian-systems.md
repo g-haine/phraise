@@ -65,7 +65,7 @@ Infinite-dimensional systems; Stochastic partial differential equations; Dirac s
 - Haddad, W. M., Rajpurohit, T. & Jin, X. Energy-based feedback control for stochastic port-controlled Hamiltonian systems. Automatica vol. 97 134–142 (2018) -- [10.1016/j.automatica.2018.07.031](https://doi.org/10.1016/j.automatica.2018.07.031)
 - Iftime, Interconnection of Dirac structures via kernel/image representation. (2011)
 - Jacob, (2012)
-- Kurula, M., Zwart, H., van der Schaft, A. & Behrndt, J. Dirac structures and their composition on Hilbert spaces. Journal of Mathematical Analysis and Applications vol. 372 402–422 (2010) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
+- [Kurula, M., Zwart, H., van der Schaft, A. & Behrndt, J. Dirac structures and their composition on Hilbert spaces. Journal of Mathematical Analysis and Applications vol. 372 402–422 (2010)](dirac-structures-and-their-composition-on-hilbert-spaces) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
 - Lamoline, (2019)
 - [Lamoline, F. Passivity of boundary controlled and observed stochastic port-Hamiltonian systems subject to multiplicative and input noise. European Journal of Control vol. 62 41–46 (2021)](passivity-of-boundary-controlled-and-observed-stochastic-port-hamiltonian-systems-subject-to-multiplicative-and-input-noise) -- [10.1016/j.ejcon.2021.06.010](https://doi.org/10.1016/j.ejcon.2021.06.010)
 - Lamoline, F. & Winkin, J. J. On stochastic port-hamiltonian systems with boundary control and observation. 2017 IEEE 56th Annual Conference on Decision and Control (CDC) 2492–2497 (2017) doi:10.1109/cdc.2017.8264015 -- [10.1109/cdc.2017.8264015](https://doi.org/10.1109/cdc.2017.8264015)

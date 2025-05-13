@@ -65,6 +65,6 @@ Nonlinear control; Passivity; Stabilization of nonlinear systems; Hamiltonian sy
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - Ortega, R., Petrovic, V. & Stankovic, A. Extending passivity-based control beyond mechanics: a synchronous motor example. auto vol. 48 106 (2000) -- [10.1524/auto.2000.48.3.106](https://doi.org/10.1524/auto.2000.48.3.106)
 - Rodriguez, H., Ortega, R., Escobar, G. & Barabanov, N. A robustly stable output feedback saturated controller for the boost DC-to-DC converter. Systems &amp; Control Letters vol. 40 1–8 (2000) -- [10.1016/s0167-6911(99)00113-9](https://doi.org/10.1016/s0167-6911(99)00113-9)
-- Stramigioli, S., Maschke, B. & van der Schaft, A. Passive Output Feedback and Port Interconnection. IFAC Proceedings Volumes vol. 31 591–596 (1998) -- [10.1016/s1474-6670(17)40401-0](https://doi.org/10.1016/s1474-6670(17)40401-0)
+- [Stramigioli, S., Maschke, B. & van der Schaft, A. Passive Output Feedback and Port Interconnection. IFAC Proceedings Volumes vol. 31 591–596 (1998)](passive-output-feedback-and-port-interconnection) -- [10.1016/s1474-6670(17)40401-0](https://doi.org/10.1016/s1474-6670(17)40401-0)
 - van der Schaft, (1999)
 

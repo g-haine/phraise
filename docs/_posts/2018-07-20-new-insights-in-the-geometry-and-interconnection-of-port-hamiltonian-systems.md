@@ -54,7 +54,7 @@ We discuss a new geometric construction of port-Hamiltonian systems. Using this 
 - Cendra H, (2017)
 - Cervera, J., Schaft, A. J. & Baños, A. On composition of Dirac structures and its implications for control by interconnection. Lecture Notes in Control and Information Sciences 55–63 doi:10.1007/3-540-45802-6_5 -- [10.1007/3-540-45802-6_5](https://doi.org/10.1007/3-540-45802-6_5)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Courant T, Action Hamiltoniennes de Groupes. Troisième théorème de Lie (Lyon, 1986) (1988)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Dorfman I, Nonlinear Science: Theory and Applications (1993)

@@ -67,7 +67,7 @@ Port-Hamiltonian system; Dirac structure; Structure-preserving discretization
 - Vankerschaver, J. & Cantrijn, F. Discrete Lagrangian field theories on Lie groupoids. Journal of Geometry and Physics vol. 57 665–689 (2007) -- [10.1016/j.geomphys.2006.05.006](https://doi.org/10.1016/j.geomphys.2006.05.006)
 - Seslija, M., Scherpen, J. M. A. & van der Schaft, A. A discrete exterior approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. IEEE Conference on Decision and Control and European Control Conference 7003–7008 (2011) doi:10.1109/cdc.2011.6160579 -- [10.1109/cdc.2011.6160579](https://doi.org/10.1109/cdc.2011.6160579)
 - Courant, Beyond Poisson structures. (1988)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Dorfman, (1993)
 - [Vankerschaver, J., Yoshimura, H., Leok, M. & Marsden, J. E. Stokes-Dirac structures through reduction of infinite-dimensional Dirac structures. 49th IEEE Conference on Decision and Control (CDC) 6265–6270 (2010) doi:10.1109/cdc.2010.5717698](stokes-dirac-structures-through-reduction-of-infinite-dimensional-dirac-structures) -- [10.1109/cdc.2010.5717698](https://doi.org/10.1109/cdc.2010.5717698)
 - Hatcher, (2001)

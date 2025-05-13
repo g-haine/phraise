@@ -63,7 +63,7 @@ The port-Hamiltonian (pH) theory for distributed parameter systems has developed
 - Clemente-Gallardo, Proceedings of the 41st IEEE Conference on Decision and Control (2002)
 - [Diagne, M. & Maschke, B. Port Hamiltonian formulation of a system of two conservation laws with a moving interface. European Journal of Control vol. 19 495–504 (2013)](port-hamiltonian-formulation-of-a-system-of-two-conservation-laws-with-a-moving-interface) -- [10.1016/j.ejcon.2013.09.001](https://doi.org/10.1016/j.ejcon.2013.09.001)
 - Eberard, Proceedings of 2005 International Conference Physics and Control (2005)
-- Eberard, D. & Maschke, B. Port hamiltonian systems extended to irreversible systems : The example of the heat conduction. IFAC Proceedings Volumes vol. 37 243–248 (2004) -- [10.1016/s1474-6670(17)31230-2](https://doi.org/10.1016/s1474-6670(17)31230-2)
+- [Eberard, D. & Maschke, B. Port hamiltonian systems extended to irreversible systems : The example of the heat conduction. IFAC Proceedings Volumes vol. 37 243–248 (2004)](port-hamiltonian-systems-extended-to-irreversible-systems-the-example-of-the-heat-conduction) -- [10.1016/s1474-6670(17)31230-2](https://doi.org/10.1016/s1474-6670(17)31230-2)
 - Eberard, PAMM: Proceedings in Applied Mathematics and Mechanics (2007)
 - Ennsbrunner, Proceedings of the 44th IEEE Conference on Decision and Control (2005)
 - [Falaize, A. & Hélie, T. Passive simulation of the nonlinear port-Hamiltonian modeling of a Rhodes Piano. Journal of Sound and Vibration vol. 390 289–309 (2017)](passive-simulation-of-the-nonlinear-port-hamiltonian-modeling-of-a-rhodes-piano) -- [10.1016/j.jsv.2016.11.008](https://doi.org/10.1016/j.jsv.2016.11.008)

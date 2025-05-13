@@ -52,7 +52,7 @@ We consider the concept of Stokes-Dirac structures in boundary control theory pr
 - Yoshimura, H. & Marsden, J. E. Reduction of Dirac structures and the Hamilton-Pontryagin principle. Reports on Mathematical Physics vol. 60 381–426 (2007) -- [10.1016/s0034-4877(08)00004-9](https://doi.org/10.1016/s0034-4877(08)00004-9)
 - Blankenstein, G. & van der Schaft, A. J. Symmetry and reduction in implicit generalized Hamiltonian systems. Reports on Mathematical Physics vol. 47 57–100 (2001) -- [10.1016/s0034-4877(01)90006-0](https://doi.org/10.1016/s0034-4877(01)90006-0)
 - Arnold, V. I. & Khesin, B. A. Topological Methods in Hydrodynamics. Applied Mathematical Sciences (Springer New York, 1998). doi:10.1007/b97593 -- [10.1007/b97593](https://doi.org/10.1007/b97593)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - bossavit, Computational electromagnetism. ser Electromagnetism (1998)
 - gotay, Momentum Maps and Classical Relativistic Fields, Part II. (1999)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)

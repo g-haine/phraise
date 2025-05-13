@@ -44,7 +44,7 @@ Abstract In this paper, we discuss the possibility of using computer algebra too
 [Download the bib file]({{ site.baseurl }}/assets/bib/differential-geometry-and-mechanics-a-source-for-computer-algebra-problems.bib)
  
 ## References
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part I: Implicit Lagrangian systems. Journal of Geometry and Physics vol. 57 133–156 (2006)](dirac-structures-in-lagrangian-mechanics-part-i-implicit-lagrangian-systems) -- [10.1016/j.geomphys.2006.02.009](https://doi.org/10.1016/j.geomphys.2006.02.009)
 - Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part II: Variational structures. Journal of Geometry and Physics vol. 57 209–250 (2006) -- [10.1016/j.geomphys.2006.02.012](https://doi.org/10.1016/j.geomphys.2006.02.012)
 - Salnikov, V. & Hamdouni, A. From modelling of systems with constraints to generalized geometry and back to numerics. ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik vol. 99 (2019) -- [10.1002/zamm.201800218](https://doi.org/10.1002/zamm.201800218)

@@ -45,7 +45,7 @@ In this note, we address the problem of stabilization of <italic>port-Hamiltonia
  
 ## References
 - venkatraman, Energy shaping of port-Hamiltonian systems by using alternate passive outputs. Proc Eur Control Conf (2009)
-- van der Schaft, A. Interconnections of input-output Hamiltonian systems with dissipation. 2016 IEEE 55th Conference on Decision and Control (CDC) 4686–4691 (2016) doi:10.1109/cdc.2016.7798983 -- [10.1109/cdc.2016.7798983](https://doi.org/10.1109/cdc.2016.7798983)
+- [van der Schaft, A. Interconnections of input-output Hamiltonian systems with dissipation. 2016 IEEE 55th Conference on Decision and Control (CDC) 4686–4691 (2016) doi:10.1109/cdc.2016.7798983](interconnections-of-input-output-hamiltonian-systems-with-dissipation) -- [10.1109/cdc.2016.7798983](https://doi.org/10.1109/cdc.2016.7798983)
 - van der schaft, Port-Hamiltonian Systems Theory An Introductory Overview (2014)
 - van der schaft, Gain and Passivity Techniques in Nonlinear Control (2016)
 - [Zhang, M., Ortega, R., Jeltsema, D. & Su, H. Further deleterious effects of the dissipation obstacle in control-by-interconnection of port-Hamiltonian systems. Automatica vol. 61 227–231 (2015)](further-deleterious-effects-of-the-dissipation-obstacle-in-control-by-interconnection-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2015.08.010](https://doi.org/10.1016/j.automatica.2015.08.010)

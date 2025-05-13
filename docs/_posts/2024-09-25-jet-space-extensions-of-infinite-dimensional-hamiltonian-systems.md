@@ -53,7 +53,7 @@ port-Hamiltonian systems; jet spaces; distributed parameter systems
  
 ## References
 - [Bendimerad-Hohl, A., Haine, G., Matignon, D. & Maschke, B. Structure-preserving discretization of a coupled Allen-Cahn and heat equation system. IFAC-PapersOnLine vol. 55 99–104 (2022)](structure-preserving-discretization-of-a-coupled-allen-cahn-and-heat-equation-system) -- [10.1016/j.ifacol.2022.08.037](https://doi.org/10.1016/j.ifacol.2022.08.037)
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Courant, (1988)
 - Jacob, (2012)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)

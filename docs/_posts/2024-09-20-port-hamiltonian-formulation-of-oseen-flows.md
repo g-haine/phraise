@@ -67,7 +67,7 @@ Port-Hamiltonian systems; Flow problems; System nodes; Boundary control
 - Jacob, B. & Morris, K. On Solvability of Dissipative Partial Differential-Algebraic Equations. IEEE Control Systems Letters vol. 6 3188–3193 (2022) -- [10.1109/lcsys.2022.3183479](https://doi.org/10.1109/lcsys.2022.3183479)
 - D Jeltsema, Found. Trends Syst. Control (2014)
 - M Marion, Handbook Numer. Anal. (1998)
-- Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180 -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
+- [Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 - Monniaux, S. Navier-Stokes equations in arbitrary domains : the Fujita-Kato scheme. Mathematical Research Letters vol. 13 455–461 (2006) -- [10.4310/mrl.2006.v13.n3.a9](https://doi.org/10.4310/mrl.2006.v13.n3.a9)
 - [Mora, L. A., Gorrec, Y. L., Matignon, D., Ramirez, H. & Yuz, J. I. About Dissipative and Pseudo Port-Hamiltonian Formulations of Irreversible Newtonian Compressible Flows. IFAC-PapersOnLine vol. 53 11521–11526 (2020)](about-dissipative-and-pseudo-port-hamiltonian-formulations-of-irreversible-newtonian-compressible-flows) -- [10.1016/j.ifacol.2020.12.604](https://doi.org/10.1016/j.ifacol.2020.12.604)
 - A Quarteroni, Numerical Approximation of Partial Differential Equations (2008)

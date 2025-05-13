@@ -53,7 +53,7 @@ Dirac structure; port-Hamiltonian systems; Tellegen's theorem; Kirchhoff operato
 [Download the bib file]({{ site.baseurl }}/assets/bib/complexification-of-dirac-structures-and-generalised-kirchhoff-operators.bib)
  
 ## References
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - G. Chateigner, M. Boes, J. Chopin, and D. Verkindére, “Puissances, facteur de puissance et théoréme de Boucherot”, Technolgie, vol. 158, Novembre-Décembre 2008.
 - C.A. Desoer and E.S. Kuh, Basic Circuit Theory, McGraw-Hill, 1984.
 - A. Papoulis, Fourier Integral and its Applications. New York: McGraw- Hill, 1962.

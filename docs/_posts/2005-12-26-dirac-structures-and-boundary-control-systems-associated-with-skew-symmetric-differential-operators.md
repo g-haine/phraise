@@ -44,7 +44,7 @@ Associated with a skew-symmetric linear operator on the spatial domain \\( [a,b]
 [Download the bib file]({{ site.baseurl }}/assets/bib/dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators.bib)
  
 ## References
-- Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Curtain, R. F. & Zwart, H. An Introduction to Infinite-Dimensional Linear Systems Theory. Texts in Applied Mathematics (Springer New York, 1995). doi:10.1007/978-1-4612-4224-6 -- [10.1007/978-1-4612-4224-6](https://doi.org/10.1007/978-1-4612-4224-6)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Dorfman Irene, Dirac structures and integrability of nonlinear evolution equations (1993)

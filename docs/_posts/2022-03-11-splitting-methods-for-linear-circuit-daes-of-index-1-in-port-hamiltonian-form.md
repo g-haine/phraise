@@ -51,7 +51,7 @@ Operator splitting is a powerful method for numerical investigation of complex m
 - Hochbruck, M., Jahnke, T. & Schnaubelt, R. Convergence of an ADI splitting for Maxwell’s equations. Numerische Mathematik vol. 129 535–561 (2014) -- [10.1007/s00211-014-0642-0](https://doi.org/10.1007/s00211-014-0642-0)
 - Holden, H., Karlsen, K. H., Lie, K.-A. & Risebro, N. H. Splitting Methods for Partial Differential Equations with Rough Solutions. EMS Series of Lectures in Mathematics (2010) doi:10.4171/078 -- [10.4171/078](https://doi.org/10.4171/078)
 - Hundsdorfer, W. & Verwer, J. G. A note on splitting errors for advection-reaction equations. Applied Numerical Mathematics vol. 18 191–199 (1995) -- [10.1016/0168-9274(95)00069-7](https://doi.org/10.1016/0168-9274(95)00069-7)
-- Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180 -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
+- [Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 - Riaza, R. Differential-Algebraic Systems. (2008) doi:10.1142/6746 -- [10.1142/6746](https://doi.org/10.1142/6746)
 - C. Tischendorf, R. Lamour, R. März, Differential-Algebraic Equations. A Projector Based Analysis (Springer, Hamburg, 2012)
 

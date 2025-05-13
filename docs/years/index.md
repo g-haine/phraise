@@ -5,9 +5,14 @@ permalink: /years/
 ---
 
 <div class="grid">
+<a href='{{ site.baseurl }}/years/1981'>1981</a>
+<a href='{{ site.baseurl }}/years/1982'>1982</a>
+<a href='{{ site.baseurl }}/years/1986'>1986</a>
 <a href='{{ site.baseurl }}/years/1987'>1987</a>
 <a href='{{ site.baseurl }}/years/1988'>1988</a>
+<a href='{{ site.baseurl }}/years/1989'>1989</a>
 <a href='{{ site.baseurl }}/years/1992'>1992</a>
+<a href='{{ site.baseurl }}/years/1993'>1993</a>
 <a href='{{ site.baseurl }}/years/1996'>1996</a>
 <a href='{{ site.baseurl }}/years/1998'>1998</a>
 <a href='{{ site.baseurl }}/years/2000'>2000</a>
