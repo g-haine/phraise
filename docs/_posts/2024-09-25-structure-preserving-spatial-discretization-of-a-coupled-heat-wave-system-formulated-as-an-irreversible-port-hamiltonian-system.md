@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-Hohl)
+[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl)
  
 ## Abstract
 The port-Hamiltonian (pH) framework allows one to properly model, interconnect, simulate and control various types of systems. Yet, properly modeling irreversibility remains a challenge as one has to include a nonlinear relation between flows and efforts, leading to a nonlinear Dirac structure. In this work, we will focus on the modelling of a distributed coupling of the heat and wave equations as pH systems. In particular, the representation of the coupled dynamics as an irreversible pH system is presented and its properties discussed. A discretization in space which preserves both the second and first principles of thermodynamics is detailed. Finally some numerical results are presented.

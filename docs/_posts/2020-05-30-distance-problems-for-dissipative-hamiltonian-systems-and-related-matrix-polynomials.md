@@ -71,7 +71,7 @@ Distance to singularity; Distance to high index problem; Distance to instability
 - Freund, The SPRIM algorithm for structure-preserving order reduction of general RCL circuits. (2011)
 - Gantmacher, (1959)
 - [Gillis, N., Mehrmann, V. & Sharma, P. Computing the nearest stable matrix pairs. Numerical Linear Algebra with Applications vol. 25 (2018)](computing-the-nearest-stable-matrix-pairs) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
-- Gillis, N. & Sharma, P. On computing the distance to stability for matrices using linear dissipative Hamiltonian systems. Automatica vol. 85 113–121 (2017) -- [10.1016/j.automatica.2017.07.047](https://doi.org/10.1016/j.automatica.2017.07.047)
+- [Gillis, N. & Sharma, P. On computing the distance to stability for matrices using linear dissipative Hamiltonian systems. Automatica vol. 85 113–121 (2017)](on-computing-the-distance-to-stability-for-matrices-using-linear-dissipative-hamiltonian-systems) -- [10.1016/j.automatica.2017.07.047](https://doi.org/10.1016/j.automatica.2017.07.047)
 - Gillis, Finding the nearest positive-real system. SIAM J. Matrix Anal. Appl. (2018)
 - Gohberg, I., Kaashoek, M. A. & Lancaster, P. General theory of regular matrix polynomials and band Toeplitz operators. Integral Equations and Operator Theory vol. 11 776–882 (1988) -- [10.1007/bf01208810](https://doi.org/10.1007/bf01208810)
 - Gräbner, N., Mehrmann, V., Quraishi, S., Schröder, C. & von Wagner, U. Numerical methods for parametric model reduction in the simulation of disk brake squeal. ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik vol. 96 1388–1405 (2016) -- [10.1002/zamm.201500217](https://doi.org/10.1002/zamm.201500217)

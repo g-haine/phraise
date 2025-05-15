@@ -61,6 +61,7 @@ permalink: /authors/jacquelien-m-a-scherpen
 <li><span class='post-meta'>2008 -- Jacquelien M.A. Scherpen, Arjan J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/a-structure-preserving-minimal-representation-of-a-nonlinear-port-hamiltonian-system">A structure preserving minimal representation of a nonlinear port-Hamiltonian system</a></h3></li>
 <li><span class='post-meta'>2008 -- T. Voss, J.M.A. Scherpen, P.R. Onck</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-for-control-of-an-inflatable-space-reflector-the-nonlinear-1-d-case">Modeling for control of an inflatable space reflector, the nonlinear 1-D case</a></h3></li>
 <li><span class='post-meta'>2003 -- Dimitri Jeltsema, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits">A dual relation between port-Hamiltonian systems and the Brayton–Moser equations for nonlinear switched RLC circuits</a></h3></li>
+<li><span class='post-meta'>2003 -- Ricardo Lopezlena, Jacquelien M.A. Scherpen, Kenji Fujimoto</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-storage-balanced-reduction-of-port-hamiltonian-systems">Energy-Storage Balanced Reduction of Port-Hamiltonian Systems</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -30,6 +30,7 @@ permalink: /authors/kenji-fujimoto
 <li><span class='post-meta'>2009 -- Mitsuru Taniguchi, Kenji Fujimoto</span><h3><a class='post-link' href="{{ site.baseurl }}/time-varying-path-following-control-for-port-hamiltonian-systems">Time-varying path following control for port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2008 -- Kenji Fujimoto, Mitsuru Taniguchi</span><h3><a class='post-link' href="{{ site.baseurl }}/passive-path-following-control-for-port-hamiltonian-systems">Passive path following control for port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2008 -- Satoshi Satoh, Kenji Fujimoto</span><h3><a class='post-link' href="{{ site.baseurl }}/on-passivity-based-control-of-stochastic-port-hamiltonian-systems">On passivity based control of stochastic port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2003 -- Ricardo Lopezlena, Jacquelien M.A. Scherpen, Kenji Fujimoto</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-storage-balanced-reduction-of-port-hamiltonian-systems">Energy-Storage Balanced Reduction of Port-Hamiltonian Systems</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

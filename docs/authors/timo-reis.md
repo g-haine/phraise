@@ -6,6 +6,7 @@ permalink: /authors/timo-reis
 
 <h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Friedrich M. Philipp, Timo Reis, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/infinite-dimensional-port-hamiltonian-systems-a-system-node-approach">Infinite-dimensional port-Hamiltonian systems: a system node approach</a></h3></li>
 <li><span class='post-meta'>2025 -- Timo Reis, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/linear-quadratic-optimal-control-for-infinite-dimensional-input-state-output-systems">Linear-quadratic optimal control for infinite-dimensional input-state-output systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Timo Reis, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-of-oseen-flows">Port-Hamiltonian Formulation of Oseen Flows</a></h3></li>
 <li><span class='post-meta'>2023 -- Andreas Bartel, Michael Günther, Birgit Jacob, Timo Reis</span><h3><a class='post-link' href="{{ site.baseurl }}/operator-splitting-based-dynamic-iteration-for-linear-differential-algebraic-port-hamiltonian-systems">Operator splitting based dynamic iteration for linear differential-algebraic port-Hamiltonian systems</a></h3></li>

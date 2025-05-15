@@ -1,14 +1,18 @@
 #!/bin/bash
 
-# Ce script cherche les dois pour lesquels il manque des infos (mais qui étaient déjà online) :
+# Ce script cherche :
+#   * les nouveaux dois de crossref qui comportent "port-Hamiltonian" dans le titre ou l'abstract
+#   * les dois pour lesquels il manque des infos (mais qui étaient déjà online) :
 # /!\ Il ne fait PAS la mise à jour /!\
 # Il identifie dans le assets/data/biblio.json les articles (uniquement !) incomplets
 # Il vérifie les bibtex de crossref pour voir s'ils sont différents
 # Il les déplace dans un dossier "trash" (en les retirant du DOI.txt, du .json, et des bibtex)
-# Il génère un fichier updateDOI.txt
+# Il complète le fichier newDOI.txt
 # Ensuite, il faut lancer la procédure d'update habituelle avec newDOI.txt
 # Puis annuler certains changements  avec "trash" /!\ certaines données en ligne ayant des soucis
 # Et enfin, supprimer "trash"
+
+#!/bin/bash
 
 # Fichier DOI source
 DOI_SOURCE="DOI.txt"
@@ -31,6 +35,32 @@ else
     exit 1
 fi
 
+# On commence par une recherche d'update dans crossref
+echo $(date -Iseconds)" Looking for news on CrossRef."
+QUERY="port-Hamiltonian"
+TMP_JSON="crossref_results.json"
+TMP_DOIS="temp_dois.txt"
+
+# Récupérer les 1000 publications les plus récentes contenant le mot-clé
+curl -s "https://api.crossref.org/works?query=${QUERY}&rows=1000&sort=published&order=desc" -o "$TMP_JSON"
+
+# Extraire les DOI uniques
+jq -r '.message.items[] | select(
+                                  ((.title[0] // "") | test("port-Hamiltonian"; "i")) or
+                                  ((.abstract // "") | test("port-Hamiltonian"; "i"))
+                                ) | .DOI' "$TMP_JSON" | sort -u > "$TMP_DOIS"
+
+# Conserver uniquement les DOI non présents dans DOI.txt
+comm -23 "$TMP_DOIS" <(sort "$DOI_SOURCE") >> "$DOI_FILE"
+
+# On vérifie que les titres parlent bien de systèmes Hamiltoniens
+while IFS= read -r doi; do
+    # Échapper les slashs pour rechercher proprement dans le JSON
+    title=$(jq -r --arg doi "$doi" '.message.items[] | select(.DOI == $doi) | .title[0]' "$TMP_JSON")
+    printf "• %s\n  %s\n\n" "$doi: " "$title"
+done < "$DOI_FILE"
+
+# On va maintenant regarder dans notre database ce qu'il faut mettre à jour
 echo $(date -Iseconds)" Identification of incomplete publications starts."
 mkdir $TRASH_DIR
 trash="$TRASH_DIR$TRASH_JSON"
@@ -79,8 +109,6 @@ while IFS= read -r line; do
     jq --arg DOI "$doi" '[.[] | select(.doi != $DOI)]' "$BIBLIO_JSON" > tmp_file && mv tmp_file "$BIBLIO_JSON"
 done < <(jq -c '.[]' "$trash")
 
-rm "$bibcurrent"
-
 # Boucle sur les DOI qui n'ont PAS d'entrées dans le biblio.json
 while IFS= read -r doi; do
     if ! jq -e --arg DOI "$doi" '.[] | select(.doi == $DOI)' $BIBLIO_JSON > /dev/null; then
@@ -89,6 +117,10 @@ while IFS= read -r doi; do
         sed -i -e "\|$doi|Id" "$DOI_SOURCE"
     fi
 done < $DOI_SOURCE
+
+# Nettoyage
+rm -f "$TMP_JSON" "$TMP_DOIS"
+rm "$bibcurrent"
 
 # Tout s'est bien passé !
 echo $(date -Iseconds)" Search for update successful!"

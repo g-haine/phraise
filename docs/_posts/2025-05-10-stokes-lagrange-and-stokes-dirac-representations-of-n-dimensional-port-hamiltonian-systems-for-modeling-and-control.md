@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-Hohl), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Matignon](authors/denis-matignon)
+[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 In this paper, we extended the port-Hamiltonian framework by introducing the concept of Stokes-Lagrange structure, which enables the implicit definition of a Hamiltonian over an \\( N \\)-dimensional domain and incorporates energy ports into the system. This new framework parallels the existing Dirac and Stokes-Dirac structures. We proposed the Stokes-Lagrange structure as a specific case where the subspace is explicitly defined via differential operators that satisfy an integration-by-parts formula. By examining various examples through the lens of the Stokes-Lagrange structure, we demonstrated the existence of multiple equivalent system representations. These representations provide significant advantages for both numerical simulation and control design, offering additional tools for the modeling and control of port-Hamiltonian systems.

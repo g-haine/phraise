@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-Hohl), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
+[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon)
  
 ## Abstract
 The structure-preserving discretization of the Cahn-Hillard equation, a phase field model describing phase separation with diffuse interface, is proposed using the Partitioned Finite Element Method. The discrete counter-part of the power balance is proved and a sufficient condition for the phase preservation is provided.

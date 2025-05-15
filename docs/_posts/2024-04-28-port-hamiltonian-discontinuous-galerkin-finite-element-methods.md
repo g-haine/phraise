@@ -71,7 +71,7 @@ A port-Hamiltonian (pH) system formulation is a geometrical notion used to formu
 - [Kotyczka, P., Maschke, B. & Lefèvre, L. Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics vol. 361 442–476 (2018)](weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems) -- [10.1016/j.jcp.2018.02.006](https://doi.org/10.1016/j.jcp.2018.02.006)
 - Kumar, Stokes–Dirac structure on Sobolev spaces.
 - Loday, Cyclic Homology (2013)
-- Lopezlena, R., Scherpen, J. M. A. & Fujimoto, K. Energy-Storage Balanced Reduction of Port-Hamiltonian Systems. IFAC Proceedings Volumes vol. 36 69–74 (2003) -- [10.1016/s1474-6670(17)38869-9](https://doi.org/10.1016/s1474-6670(17)38869-9)
+- [Lopezlena, R., Scherpen, J. M. A. & Fujimoto, K. Energy-Storage Balanced Reduction of Port-Hamiltonian Systems. IFAC Proceedings Volumes vol. 36 69–74 (2003)](energy-storage-balanced-reduction-of-port-hamiltonian-systems) -- [10.1016/s1474-6670(17)38869-9](https://doi.org/10.1016/s1474-6670(17)38869-9)
 - Marsden, Introduction to Mechanics and Symmetry: A Basic Exposition of Classical Mechanical Systems (2013)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
 - Rivière, B. Discontinuous Galerkin Methods for Solving Elliptic and Parabolic Equations. (2008) doi:10.1137/1.9780898717440 -- [10.1137/1.9780898717440](https://doi.org/10.1137/1.9780898717440)

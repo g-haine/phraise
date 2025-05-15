@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-Hohl), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon), [Bernhard Maschke](authors/bernhard-maschke)
+[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl), [Ghislain Haine](authors/ghislain-haine), [Denis Matignon](authors/denis-matignon), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 Eutectic freeze crystallisation is a promising way of purifying water for it may require less energy than other methods. In order to simulate such a process, phase field models such as Allen-Cahn and Cahn-Hilliard can be used. In this paper, a port-Hamiltonian formulation of the Allen-Cahn equations is used and coupled to heat conduction, which allows for a thermodynamically consistent system to be written with the help of the entropy functional. In a second part, the Partitioned Finite Element Method, a structure-preserving spatial discretization method, is applied to the Allen-Cahn equation; it gives rise to an exact free energy balance at the discrete level. Finally some numerical results are presented.

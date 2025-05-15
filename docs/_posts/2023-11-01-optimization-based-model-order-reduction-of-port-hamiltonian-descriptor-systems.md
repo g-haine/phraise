@@ -99,7 +99,7 @@ Port-Hamiltonian systems; Model order reduction; Structure-preservation; Descrip
 - [Sato, K. Riemannian optimal model reduction of linear port-Hamiltonian systems. Automatica vol. 93 428–434 (2018)](riemannian-optimal-model-reduction-of-linear-port-hamiltonian-systems) -- [10.1016/j.automatica.2018.03.051](https://doi.org/10.1016/j.automatica.2018.03.051)
 - Jiang, Model order reduction of port-Hamiltonian systems by Riemannian modified Fletcher–Reeves scheme. IEEE Trans. Circuits Syst. II Express Briefs (2019)
 - van der Schaft, (2022)
-- Gillis, N. & Sharma, P. On computing the distance to stability for matrices using linear dissipative Hamiltonian systems. Automatica vol. 85 113–121 (2017) -- [10.1016/j.automatica.2017.07.047](https://doi.org/10.1016/j.automatica.2017.07.047)
+- [Gillis, N. & Sharma, P. On computing the distance to stability for matrices using linear dissipative Hamiltonian systems. Automatica vol. 85 113–121 (2017)](on-computing-the-distance-to-stability-for-matrices-using-linear-dissipative-hamiltonian-systems) -- [10.1016/j.automatica.2017.07.047](https://doi.org/10.1016/j.automatica.2017.07.047)
 - [Hauschild, S.-A., Marheineke, N. & Mehrmann, V. Model reduction techniques for port‐Hamiltonian differential‐algebraic systems. PAMM vol. 19 (2019)](model-reduction-techniques-for-port-hamiltonian-differential-algebraic-systems) -- [10.1002/pamm.201900040](https://doi.org/10.1002/pamm.201900040)
 - Freund, The SPRIM algorithm for structure-preserving order reduction of general RCL circuits. (2011)
 - Trefethen, L. N. Rational Chebyshev approximation on the unit disk. Numerische Mathematik vol. 37 297–320 (1981) -- [10.1007/bf01398258](https://doi.org/10.1007/bf01398258)

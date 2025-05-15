@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 1345 authors referenced.</h3>
+<h3>There are 1348 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <hr />
 <p id='links-letters'><a href='#a'>A</a> - <a href='#b'>B</a> - <a href='#c'>C</a> - <a href='#d'>D</a> - <a href='#e'>E</a> - <a href='#f'>F</a> - <a href='#g'>G</a> - <a href='#h'>H</a> - <a href='#i'>I</a> - <a href='#j'>J</a> - <a href='#k'>K</a> - <a href='#l'>L</a> - <a href='#m'>M</a> - <a href='#n'>N</a> - <a href='#o'>O</a> - <a href='#p'>P</a> - <a href='#q'>Q</a> - <a href='#r'>R</a> - <a href='#s'>S</a> - <a href='#t'>T</a> - <a href='#u'>U</a> - <a href='#v'>V</a> - <a href='#w'>W</a> - <a href='#x'>X</a> - <a href='#y'>Y</a> - <a href='#z'>Z</a></p>
@@ -222,6 +222,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/francisco-chinesta'>Francisco Chinesta</a>
 <a href='{{ site.baseurl }}/authors/l-chrifi-alaoui'>L. Chrifi-Alaoui</a>
 <a href='{{ site.baseurl }}/authors/snorre-h-christiansen'>Snorre H. Christiansen</a>
+<a href='{{ site.baseurl }}/authors/delin-chu'>Delin Chu</a>
 <a href='{{ site.baseurl }}/authors/ho-tak-d-chun'>Ho-Tak D. Chun</a>
 <a href='{{ site.baseurl }}/authors/oscar-b-cieza'>Oscar B. Cieza</a>
 <a href='{{ site.baseurl }}/authors/unver-ciftci'>Ünver Çiftçi</a>
@@ -321,6 +322,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/gerardo-espinosa-perez'>Gerardo Espinosa-Pérez</a>
 <a href='{{ site.baseurl }}/authors/p-esquivel'>P. Esquivel</a>
 <a href='{{ site.baseurl }}/authors/luis-miguel-esquivel-sancho'>Luis Miguel Esquivel-Sancho</a>
+<a href='{{ site.baseurl }}/authors/simon-r-eugster'>Simon R. Eugster</a>
 <a href='{{ site.baseurl }}/authors/anneroos-r-f-everts'>Anneroos R.F. Everts</a>
 </div>
 ## F
@@ -737,6 +739,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/gabriel-a-d-lopes'>Gabriel A. D. Lopes</a>
 <a href='{{ site.baseurl }}/authors/nicolas-lopes'>Nicolas Lopes</a>
 <a href='{{ site.baseurl }}/authors/k-lopez-rodriguez'>K. Lopez-Rodriguez</a>
+<a href='{{ site.baseurl }}/authors/ricardo-lopezlena'>Ricardo Lopezlena</a>
 <a href='{{ site.baseurl }}/authors/jan-lorenz'>Jan Lorenz</a>
 <a href='{{ site.baseurl }}/authors/michael-di-loreto'>Michael Di Loreto</a>
 <a href='{{ site.baseurl }}/authors/haithem-louati'>Haithem Louati</a>

@@ -17,7 +17,7 @@ tags:
 ---
  
 ## Authors
-[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-Hohl), [Denis Matignon](authors/denis-matignon), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre)
+[Antoine Bendimerad-Hohl](authors/antoine-bendimerad-hohl), [Denis Matignon](authors/denis-matignon), [Ghislain Haine](authors/ghislain-haine), [Laurent Lefèvre](authors/laurent-lefevre)
  
 ## Abstract
 Port-Hamiltonian systems were recently extended to include implicitly defined energy and energy ports thanks to a (Stokes-)Lagrange subspace. Here, we study the equivalent port-Hamiltonian representations of two systems with damping, written using either a classical Hamiltonian or a Stokes-Lagrange subspace. Then, we study the Timoshenko beam and Euler-Bernoulli models, the latter being the flow-constrained version of the former, and show how they can be written using either a Stokes-Dirac or Stokes-Lagrange subspace related by a transformation operator. Finally, it is proven that these transformations commute with the flow-constraint projection operator.

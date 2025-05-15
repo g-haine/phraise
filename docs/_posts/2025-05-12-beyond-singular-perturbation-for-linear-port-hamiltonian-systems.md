@@ -77,7 +77,7 @@ Model Order Reduction; Beyond Singular Perturbation; Port-Hamiltonian systems; L
 - [Kawano, Y. & Scherpen, J. M. A. Structure Preserving Truncation of Nonlinear Port Hamiltonian Systems. IEEE Trans. Automat. Contr. 63, 4286–4293 (2018)](structure-preserving-truncation-of-nonlinear-port-hamiltonian-systems) -- [10.1109/tac.2018.2811787](https://doi.org/10.1109/tac.2018.2811787)
 - Kokotović, (1999)
 - Kumar, R. & Ezhilarasi, D. A state-of-the-art survey of model order reduction techniques for large-scale coupled dynamical systems. Int. J. Dynam. Control 11, 900–916 (2022) -- [10.1007/s40435-022-00985-7](https://doi.org/10.1007/s40435-022-00985-7)
-- Lopezlena, R., Scherpen, J. M. A. & Fujimoto, K. Energy-Storage Balanced Reduction of Port-Hamiltonian Systems. IFAC Proceedings Volumes 36, 69–74 (2003) -- [10.1016/s1474-6670(17)38869-9](https://doi.org/10.1016/s1474-6670(17)38869-9)
+- [Lopezlena, R., Scherpen, J. M. A. & Fujimoto, K. Energy-Storage Balanced Reduction of Port-Hamiltonian Systems. IFAC Proceedings Volumes 36, 69–74 (2003)](energy-storage-balanced-reduction-of-port-hamiltonian-systems) -- [10.1016/s1474-6670(17)38869-9](https://doi.org/10.1016/s1474-6670(17)38869-9)
 - Mamunuzzaman, (2022)
 - Maschke, Port-controlled Hamiltonian systems: modelling origins and systemtheoretic properties. (1993)
 - [Mehl, C., Mehrmann, V. & Sharma, P. Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM J. Matrix Anal. &amp; Appl. 37, 1625–1654 (2016)](stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations) -- [10.1137/16m1067330](https://doi.org/10.1137/16m1067330)
