@@ -46,7 +46,7 @@ We discuss a new geometric construction of port-Hamiltonian systems. Using this 
 ## References
 - Abraham R, Foundations of Mechanics (1978)
 - Barbero-Liñán M, (2018)
-- Batlle, C., Massana, I. & Simo, E. Representation of a general composition of Dirac structures. IEEE Conference on Decision and Control and European Control Conference 5199–5204 (2011) doi:10.1109/cdc.2011.6160588 -- [10.1109/cdc.2011.6160588](https://doi.org/10.1109/cdc.2011.6160588)
+- [Batlle, C., Massana, I. & Simo, E. Representation of a general composition of Dirac structures. IEEE Conference on Decision and Control and European Control Conference 5199–5204 (2011) doi:10.1109/cdc.2011.6160588](representation-of-a-general-composition-of-dirac-structures) -- [10.1109/cdc.2011.6160588](https://doi.org/10.1109/cdc.2011.6160588)
 - Blankenstein, G. & van der Schaft, A. J. Symmetry and reduction in implicit generalized Hamiltonian systems. Reports on Mathematical Physics vol. 47 57–100 (2001) -- [10.1016/s0034-4877(01)90006-0](https://doi.org/10.1016/s0034-4877(01)90006-0)
 - Bursztyn, H. A brief introduction to Dirac manifolds. Geometric and Topological Methods for Quantum Field Theory 4–38 (2013) doi:10.1017/cbo9781139208642.002 -- [10.1017/cbo9781139208642.002](https://doi.org/10.1017/cbo9781139208642.002)
 - Bursztyn, H. & Radko, O. Gauge equivalence of Dirac structures and symplectic groupoids. Annales de l’institut Fourier vol. 53 309–337 (2003) -- [10.5802/aif.1945](https://doi.org/10.5802/aif.1945)

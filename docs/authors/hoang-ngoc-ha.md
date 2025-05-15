@@ -6,6 +6,7 @@ permalink: /authors/hoang-ngoc-ha
 
 <h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
+<li><span class='post-meta'>2024 -- Hoang Ngoc Ha, Ho Phuoc Tien</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-of-an-electrical-circuit-using-different-kinds-of-states">Port-hamiltonian formulation of an electrical circuit using different kinds of states</a></h3></li>
 <li><span class='post-meta'>2020 -- Nguyen Thanh Sang, Tan Chee Keong, Hoang Ngoc Ha, Mohd Azlan Hussain</span><h3><a class='post-link' href="{{ site.baseurl }}/control-of-reaction-systems-using-decoupled-dynamics-via-perturbed-hamiltonian-formulation">Control of reaction systems using decoupled dynamics via perturbed Hamiltonian formulation</a></h3></li>
 
 </ul>

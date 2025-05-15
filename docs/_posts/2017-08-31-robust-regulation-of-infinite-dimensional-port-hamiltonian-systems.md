@@ -44,7 +44,7 @@ We will give general sufficient conditions under which a controller achieves rob
 [Download the bib file]({{ site.baseurl }}/assets/bib/robust-regulation-of-infinite-dimensional-port-hamiltonian-systems.bib)
  
 ## References
-- Humaloja, J.-P., Paunonen, L. & Pohjolainen, S. Robust regulation for first-order port-hamiltonian systems. 2016 European Control Conference (ECC) 2203–2208 (2016) doi:10.1109/ecc.2016.7810618 -- [10.1109/ecc.2016.7810618](https://doi.org/10.1109/ecc.2016.7810618)
+- [Humaloja, J.-P., Paunonen, L. & Pohjolainen, S. Robust regulation for first-order port-hamiltonian systems. 2016 European Control Conference (ECC) 2203–2208 (2016) doi:10.1109/ecc.2016.7810618](robust-regulation-for-first-order-port-hamiltonian-systems) -- [10.1109/ecc.2016.7810618](https://doi.org/10.1109/ecc.2016.7810618)
 - humaloja, Robust regulation for port-Hamiltonian systems of even order. Proc Int Symp Math Theory Netw Syst (2016)
 - [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - [Macchelli, A., Le Gorrec, Y., Ramirez, H. & Zwart, H. On the Synthesis of Boundary Control Laws for Distributed Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 62 1700–1713 (2017)](on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems) -- [10.1109/tac.2016.2595263](https://doi.org/10.1109/tac.2016.2595263)

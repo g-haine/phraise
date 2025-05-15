@@ -50,7 +50,7 @@ Infinite Dimensional Systems; port-Hamiltonian Systems; Dirac Structure; Storage
 ## References
 - Abraham, R., Marsden, J. E. & Ratiu, T. Manifolds, Tensor Analysis, and Applications. Applied Mathematical Sciences (Springer New York, 1988). doi:10.1007/978-1-4612-1029-0 -- [10.1007/978-1-4612-1029-0](https://doi.org/10.1007/978-1-4612-1029-0)
 - Blankenstein, G. Geometric modeling of nonlinear RLC circuits. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 52 396–404 (2005) -- [10.1109/tcsi.2004.840481](https://doi.org/10.1109/tcsi.2004.840481)
-- Blankenstein, G. Power balancing for a new class of non-linear systems and stabilization of RLC circuits. International Journal of Control vol. 78 159–171 (2005) -- [10.1080/00207170500036191](https://doi.org/10.1080/00207170500036191)
+- [Blankenstein, G. Power balancing for a new class of non-linear systems and stabilization of RLC circuits. International Journal of Control vol. 78 159–171 (2005)](power-balancing-for-a-new-class-of-non-linear-systems-and-stabilization-of-rlc-circuits) -- [10.1080/00207170500036191](https://doi.org/10.1080/00207170500036191)
 - Brayton, R. K. & Miranker, W. L. A stability theory for nonlinear mixed initial boundary value problems. Archive for Rational Mechanics and Analysis vol. 17 358–376 (1964) -- [10.1007/bf00250472](https://doi.org/10.1007/bf00250472)
 - Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. I. Quarterly of Applied Mathematics vol. 22 1–33 (1964) -- [10.1090/qam/169746](https://doi.org/10.1090/qam/169746)
 - Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. II. Quarterly of Applied Mathematics vol. 22 81–104 (1964) -- [10.1090/qam/169747](https://doi.org/10.1090/qam/169747)

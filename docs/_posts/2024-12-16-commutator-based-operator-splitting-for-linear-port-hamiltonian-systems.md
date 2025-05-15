@@ -79,7 +79,7 @@ Operator splitting schemes; Port-Hamiltonian systems; Dissipation inequality; Co
 - Faou, E., Ostermann, A. & Schratz, K. Analysis of exponential splitting methods for inhomogeneous parabolic equations. IMA Journal of Numerical Analysis vol. 35 161–178 (2014) -- [10.1093/imanum/dru002](https://doi.org/10.1093/imanum/dru002)
 - Ostermann, A. & Schratz, K. Error analysis of splitting methods for inhomogeneous evolution equations. Applied Numerical Mathematics vol. 62 1436–1446 (2012) -- [10.1016/j.apnum.2012.06.002](https://doi.org/10.1016/j.apnum.2012.06.002)
 - McLachlan, R. I. On the Numerical Integration of Ordinary Differential Equations by Symmetric Composition Methods. SIAM Journal on Scientific Computing vol. 16 151–168 (1995) -- [10.1137/0916010](https://doi.org/10.1137/0916010)
-- Mönch, M. & Marheineke, N. Fourth‐order force‐gradient splitting for linear port‐Hamiltonian systems. PAMM vol. 24 (2024) -- [10.1002/pamm.202400132](https://doi.org/10.1002/pamm.202400132)
+- [Mönch, M. & Marheineke, N. Fourth‐order force‐gradient splitting for linear port‐Hamiltonian systems. PAMM vol. 24 (2024)](fourth-order-force-gradient-splitting-for-linear-port-hamiltonian-systems) -- [10.1002/pamm.202400132](https://doi.org/10.1002/pamm.202400132)
 - Suzuki, M. General theory of fractal path integrals with applications to many-body theories and statistical physics. Journal of Mathematical Physics vol. 32 400–407 (1991) -- [10.1063/1.529425](https://doi.org/10.1063/1.529425)
 - Virtanen, P. et al. SciPy 1.0: fundamental algorithms for scientific computing in Python. Nature Methods vol. 17 261–272 (2020) -- [10.1038/s41592-019-0686-2](https://doi.org/10.1038/s41592-019-0686-2)
 - Maier, (2024)

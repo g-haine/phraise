@@ -69,7 +69,7 @@ In this paper, we develop an energy-based dynamical system model driven by a Mar
 - Fleming WH, Controlled Markov processes and viscosity solutions (2006)
 - Billingsley P, Probability and measure (2012)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics vol. 34 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
-- Haddad, W. M., Rajpurohit, T. & Jin, X. Energy-based feedback control for stochastic port-controlled Hamiltonian systems. Automatica vol. 97 134–142 (2018) -- [10.1016/j.automatica.2018.07.031](https://doi.org/10.1016/j.automatica.2018.07.031)
+- [Haddad, W. M., Rajpurohit, T. & Jin, X. Energy-based feedback control for stochastic port-controlled Hamiltonian systems. Automatica vol. 97 134–142 (2018)](energy-based-feedback-control-for-stochastic-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2018.07.031](https://doi.org/10.1016/j.automatica.2018.07.031)
 - [Cordoni, F., Di Persio, L. & Muradore, R. Stochastic Port-Hamiltonian Systems. Journal of Nonlinear Science vol. 32 (2022)](stochastic-port-hamiltonian-systems) -- [10.1007/s00332-022-09853-2](https://doi.org/10.1007/s00332-022-09853-2)
 - van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Haddad, W. M., Chellaboina, V. & Hui, Q. Nonnegative and Compartmental Dynamical Systems. (Princeton University Press, 2010). doi:10.1515/9781400832248 -- [10.1515/9781400832248](https://doi.org/10.1515/9781400832248)

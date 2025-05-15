@@ -60,7 +60,7 @@ Port-Hamiltonian system; Descriptor system; Differential-algebraic equation; Pas
 [Download the bib file]({{ site.baseurl }}/assets/bib/linear-port-hamiltonian-descriptor-systems.bib)
  
 ## References
-- Beattie, C. & Gugercin, S. Structure-preserving model reduction for nonlinear port-Hamiltonian systems. IEEE Conference on Decision and Control and European Control Conference 6564–6569 (2011) doi:10.1109/cdc.2011.6161504 -- [10.1109/cdc.2011.6161504](https://doi.org/10.1109/cdc.2011.6161504)
+- [Beattie, C. & Gugercin, S. Structure-preserving model reduction for nonlinear port-Hamiltonian systems. IEEE Conference on Decision and Control and European Control Conference 6564–6569 (2011) doi:10.1109/cdc.2011.6161504](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems0) -- [10.1109/cdc.2011.6161504](https://doi.org/10.1109/cdc.2011.6161504)
 - PC Breedveld, Modeling and simulation of dynamic systems using bond graphs (2008)
 - KE Brenan, Numerical solution of initial-value problems in differential algebraic equations (1996)
 - Bunse-Gerstner, A., Byers, R., Mehrmann, V. & Nichols, N. K. Feedback design for regularizing descriptor systems. Linear Algebra and its Applications vol. 299 119–151 (1999) -- [10.1016/s0024-3795(99)00167-6](https://doi.org/10.1016/s0024-3795(99)00167-6)

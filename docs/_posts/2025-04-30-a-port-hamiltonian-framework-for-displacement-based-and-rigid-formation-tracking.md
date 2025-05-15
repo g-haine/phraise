@@ -67,7 +67,7 @@ Port-Hamiltonian; Displacement-based formation; Rigidity; Formation tracking
 - Duindam, (2009)
 - Eren, T. Formation shape control based on bearing rigidity. International Journal of Control 85, 1361–1379 (2012) -- [10.1080/00207179.2012.685183](https://doi.org/10.1080/00207179.2012.685183)
 - Fang, Integrated relative-measurement-based network localization and formation maneuver control. IEEE Transactions on Automatic Control (2023)
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Hendrickson, B. Conditions for Unique Graph Realizations. SIAM J. Comput. 21, 65–84 (1992) -- [10.1137/0221008](https://doi.org/10.1137/0221008)
 - Hernandez, Consensus-based formation control of nonholonomic robots without velocity measurements. (2020)
 - Jing, G., Zhang, G., Lee, H. W. J. & Wang, L. Angle-based shape determination theory of planar graphs with application to formation stabilization. Automatica 105, 117–129 (2019) -- [10.1016/j.automatica.2019.03.026](https://doi.org/10.1016/j.automatica.2019.03.026)

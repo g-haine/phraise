@@ -6,6 +6,7 @@ permalink: /authors/remy-nouailletas
 
 <h3 id="number-posts">There are ... items referenced.</h3>
 <ul class="post-list">
+<li><span class='post-meta'>2019 -- Benjamin Vincent, Remy Nouailletas, Jean-Francois Artaud, Nicolas Hudon, Laurent Lefevre, Denis Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/lumped-port-hamiltonian-burning-plasma-control-model">Lumped port–Hamiltonian burning plasma control model</a></h3></li>
 <li><span class='post-meta'>2017 -- Ngoc Minh Trang Vu, Laurent Lefèvre, Rémy Nouailletas, Sylvain Brémond</span><h3><a class='post-link' href="{{ site.baseurl }}/symplectic-spatial-integration-schemes-for-systems-of-balance-equations">Symplectic spatial integration schemes for systems of balance equations</a></h3></li>
 <li><span class='post-meta'>2017 -- Ngoc Minh Trang Vu, Laurent Lefèvre, Rémy Nouailletas</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-and-backstepping-boundary-controls-for-port-hamiltonian-systems-with-symmetries">Distributed and backstepping boundary controls for port-Hamiltonian systems with symmetries</a></h3></li>
 <li><span class='post-meta'>2016 -- Ngoc Minh Trang Vu, Rémy Nouailletas, Laurent Lefèvre, Federico Felici</span><h3><a class='post-link' href="{{ site.baseurl }}/plasma-q-profile-control-in-tokamaks-using-a-damping-assignment-passivity-based-approach">Plasma q-profile control in tokamaks using a damping assignment passivity-based approach</a></h3></li>

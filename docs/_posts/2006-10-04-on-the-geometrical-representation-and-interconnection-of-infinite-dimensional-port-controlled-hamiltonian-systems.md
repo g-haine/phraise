@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[H. Ennsbrunner](authors/h-ennsbrunner), [K. Schlacher](authors/kurt-schlacher)
+[H. Ennsbrunner](authors/helmut-ennsbrunner), [K. Schlacher](authors/kurt-schlacher)
  
 ## Abstract
 This contribution is dedicated to the geometrical representation of infinite dimensional port controlled Hamiltonian systems. After an introduction of the used mathematical framework, a review on a well established geometrical representation of finite dimensional port controlled Hamiltonian systems is given. These results are in the subsequent analysis extended to the infinite dimensional case. After that the interconnection properties of the proposed description is under investigation. Additionally the developed theory is applied to the derivation of a PCH representation of a membrane interconnected with a string. Finally some concluding remarks are given and future interests are defined.

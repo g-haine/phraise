@@ -44,7 +44,7 @@ We look into the problem of approximating a distributed parameter port-Hamiltoni
 - pasumarthy, On interconnections of infinite dimensional port-Hamiltonian systems. Proceedings 16th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2004) (2004)
 - (0)
 - (0)
-- Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502 -- [10.1109/cdc.2001.980911](https://doi.org/10.1109/cdc.2001.980911)
+- [Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502](fluid-dynamical-systems-as-hamiltonian-boundary-control-systems0) -- [10.1109/cdc.2001.980911](https://doi.org/10.1109/cdc.2001.980911)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - (0)
 - pedlosky, Geophysical Fluid Dynamics (1986)

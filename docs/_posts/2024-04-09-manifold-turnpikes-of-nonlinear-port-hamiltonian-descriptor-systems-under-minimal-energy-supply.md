@@ -65,7 +65,7 @@ Turnpike phenomenon; Nonlinear systems; Port-Hamiltonian systems
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Moser T, Lohmann B (2022) Rosenbrock framework for tangential interpolation of port-Hamiltonian descriptor systems. https://arxiv.org/abs/2210.16071
 - Lamoline F, Hastir A (2022) On Dirac structure of infinite-dimensional stochastic port-Hamiltonian systems. https://arxiv.org/abs/2210.06358
-- van der Schaft, A. & Mehrmann, V. Linear Port-Hamiltonian DAE Systems Revisited. SSRN Electronic Journal (2022) doi:10.2139/ssrn.4292998 -- [10.2139/ssrn.4292998](https://doi.org/10.2139/ssrn.4292998)
+- [van der Schaft, A. & Mehrmann, V. Linear Port-Hamiltonian DAE Systems Revisited. SSRN Electronic Journal (2022) doi:10.2139/ssrn.4292998](linear-port-hamiltonian-dae-systems-revisited0) -- [10.2139/ssrn.4292998](https://doi.org/10.2139/ssrn.4292998)
 - Breiten T, Hinsen D, Unger B (2022) Towards a modeling class for port-Hamiltonian systems with time-delay. https://arxiv.org/abs/2211.10687
 - Gernandt H, Hinsen D (2022) Stability and passivity for a class of infinite dimensional port-Hamiltonian networks with application to power grids. https://arxiv.org/abs/2212.02792
 - [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica vol. 32 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)

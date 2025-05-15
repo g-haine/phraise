@@ -44,7 +44,7 @@ This paper presents a unified controller design method for \\( H^2 \\) optimal c
 [Download the bib file]({{ site.baseurl }}/assets/bib/riemannian-optimal-control-and-model-matching-of-linear-port-hamiltonian-systems.bib)
  
 ## References
-- Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters vol. 45 371–385 (2002) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
+- [Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters vol. 45 371–385 (2002)](an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
 - Campos-Delgado, D. U. & Zhou, K. H/sub ∞/ strong stabilization. IEEE Transactions on Automatic Control vol. 46 1968–1972 (2001) -- [10.1109/9.975502](https://doi.org/10.1109/9.975502)
 - Youla, D. C., Bongiorno, J. J., Jr. & Lu, C. N. Single-loop feedback-stabilization of linear multivariable dynamical plants. Automatica vol. 10 159–173 (1974) -- [10.1016/0005-1098(74)90021-1](https://doi.org/10.1016/0005-1098(74)90021-1)
 - Pennec, X., Fillard, P. & Ayache, N. A Riemannian Framework for Tensor Computing. International Journal of Computer Vision vol. 66 41–66 (2006) -- [10.1007/s11263-005-3222-z](https://doi.org/10.1007/s11263-005-3222-z)

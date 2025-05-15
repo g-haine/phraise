@@ -54,9 +54,9 @@ Nonlinear control systems; Differential geometric methods; Mathematical systems 
  
 ## References
 - Abraham, (1978)
-- Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
+- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Giachetta, (1997)
 - Gotay, M. J. A multisymplectic framework for classical field theory and the calculus of variations II: space + time decomposition. Differential Geometry and its Applications vol. 1 375–390 (1991) -- [10.1016/0926-2245(91)90014-z](https://doi.org/10.1016/0926-2245(91)90014-z)
 - Kanatchikov, I. V. Canonical structure of classical field theory in the polymomentum phase space. Reports on Mathematical Physics vol. 41 49–90 (1998) -- [10.1016/s0034-4877(98)80182-1](https://doi.org/10.1016/s0034-4877(98)80182-1)

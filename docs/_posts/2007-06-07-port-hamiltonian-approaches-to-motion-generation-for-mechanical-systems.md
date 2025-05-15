@@ -42,7 +42,7 @@ This paper gives new motion generation methods for mechanical port-Hamiltonian s
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-approaches-to-motion-generation-for-mechanical-systems.bib)
  
 ## References
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Khennouf, H., Canudas de Wit, C. & van der Schaft, A. J. Preliminary results on asymptotic stabilization of Hamiltonian systems with nonholonomic constraints. Proceedings of 1995 34th IEEE Conference on Decision and Control vol. 4 4305–4310 -- [10.1109/cdc.1995.478917](https://doi.org/10.1109/cdc.1995.478917)
 - Maschke, Port-controlled Hamiltonian systems: modeling origins and system-theoretic properties. In IFAC Symp. Nonlinear Control Systems

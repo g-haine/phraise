@@ -1,0 +1,13 @@
+---
+layout: page
+title: Publications by Jin Liu
+permalink: /authors/jin-liu
+---
+
+<h3 id="number-posts">There are ... items referenced.</h3>
+<ul class="post-list">
+<li><span class='post-meta'>2010 -- Haisheng Yu, Xiaochen Wei, Jin Liu</span><h3><a class='post-link' href="{{ site.baseurl }}/speed-control-of-induction-motors-based-on-energy-shaping-and-signal-transformation-principle">Speed control of induction motors based on energy-shaping and signal transformation principle</a></h3></li>
+<li><span class='post-meta'>2010 -- Haisheng Yu, null Shanshan Yu, null Jin Liu, null Jinpeng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/l2-gain-disturbance-attenuation-of-pmsm-based-on-hamiltonian-systems-control-theory">L2 gain disturbance attenuation of PMSM based on Hamiltonian systems control theory</a></h3></li>
+
+</ul>
+{% include count-posts.html %}

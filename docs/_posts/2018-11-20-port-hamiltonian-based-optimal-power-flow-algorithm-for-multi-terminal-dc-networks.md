@@ -54,7 +54,7 @@ Optimal power flow; Port-Hamiltonian systems; Gradient method; DC networks; Cycl
 ## References
 - Aragüés-Peñalba, M., Egea-Àlvarez, A., Gomis-Bellmunt, O. & Sumper, A. Optimum voltage control for loss minimization in HVDC multi-terminal transmission systems for large offshore wind farms. Electric Power Systems Research vol. 89 54–63 (2012) -- [10.1016/j.epsr.2012.02.006](https://doi.org/10.1016/j.epsr.2012.02.006)
 - Arrow, (1958)
-- Benedito, E., del Puerto-Flores, D., Doria-Cerezo, A., van der Feltz, O. & Scherpen, J. M. A. Strictly convex loss functions for port-Hamiltonian based optimization algorithm for MTDC networks. 2016 IEEE 55th Conference on Decision and Control (CDC) 7483–7488 (2016) doi:10.1109/cdc.2016.7799425 -- [10.1109/cdc.2016.7799425](https://doi.org/10.1109/cdc.2016.7799425)
+- [Benedito, E., del Puerto-Flores, D., Doria-Cerezo, A., van der Feltz, O. & Scherpen, J. M. A. Strictly convex loss functions for port-Hamiltonian based optimization algorithm for MTDC networks. 2016 IEEE 55th Conference on Decision and Control (CDC) 7483–7488 (2016) doi:10.1109/cdc.2016.7799425](strictly-convex-loss-functions-for-port-hamiltonian-based-optimization-algorithm-for-mtdc-networks) -- [10.1109/cdc.2016.7799425](https://doi.org/10.1109/cdc.2016.7799425)
 - [Benedito, E., Puerto-Flores, D. del, Dòria-Cerezo, A. & Scherpen, J. M. A. Optimal Power Flow for resistive DC Networks: a Port-Hamiltonian approach. IFAC-PapersOnLine vol. 50 25–30 (2017)](optimal-power-flow-for-resistive-dc-networks-a-port-hamiltonian-approach) -- [10.1016/j.ifacol.2017.08.005](https://doi.org/10.1016/j.ifacol.2017.08.005)
 - Biggs, (1974)
 - Boyd, (2004)

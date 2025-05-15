@@ -45,8 +45,8 @@ This paper deals with repetitive control (RC). More specifically, a parametrised
 [Download the bib file]({{ site.baseurl }}/assets/bib/a-stability-analysis-based-on-dissipativity-of-linear-and-nonlinear-repetitive-control.bib)
  
 ## References
-- Califano, F., Bin, M., Macchelli, A. & Melchiorri, C. Stability Analysis of Nonlinear Repetitive Control Schemes. IEEE Control Systems Letters vol. 2 773–778 (2018) -- [10.1109/lcsys.2018.2849617](https://doi.org/10.1109/lcsys.2018.2849617)
-- Califano, F., Macchelli, A. & Melchiorri, C. Stability analysis of repetitive control: The port-Hamiltonian approach. 2017 IEEE 56th Annual Conference on Decision and Control (CDC) 1894–1899 (2017) doi:10.1109/cdc.2017.8263926 -- [10.1109/cdc.2017.8263926](https://doi.org/10.1109/cdc.2017.8263926)
+- [Califano, F., Bin, M., Macchelli, A. & Melchiorri, C. Stability Analysis of Nonlinear Repetitive Control Schemes. IEEE Control Systems Letters vol. 2 773–778 (2018)](stability-analysis-of-nonlinear-repetitive-control-schemes) -- [10.1109/lcsys.2018.2849617](https://doi.org/10.1109/lcsys.2018.2849617)
+- [Califano, F., Macchelli, A. & Melchiorri, C. Stability analysis of repetitive control: The port-Hamiltonian approach. 2017 IEEE 56th Annual Conference on Decision and Control (CDC) 1894–1899 (2017) doi:10.1109/cdc.2017.8263926](stability-analysis-of-repetitive-control-the-port-hamiltonian-approach) -- [10.1109/cdc.2017.8263926](https://doi.org/10.1109/cdc.2017.8263926)
 - Curtain, (1995)
 - Hara, S., Yamamoto, Y., Omata, T. & Nakano, M. Repetitive control system: a new type servo system for periodic exogenous signals. IEEE Transactions on Automatic Control vol. 33 659–668 (1988) -- [10.1109/9.1274](https://doi.org/10.1109/9.1274)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)

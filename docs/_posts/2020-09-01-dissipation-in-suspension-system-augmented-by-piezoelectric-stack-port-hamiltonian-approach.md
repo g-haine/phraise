@@ -41,7 +41,7 @@ Analysis of damping in semi-active and active suspension systems is prerequisite
 [Download the bib file]({{ site.baseurl }}/assets/bib/dissipation-in-suspension-system-augmented-by-piezoelectric-stack-port-hamiltonian-approach.bib)
  
 ## References
-- Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Energy-shaping of port-controlled Hamiltonian systems by interconnection. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 2 1646–1651 -- [10.1109/cdc.1999.830260](https://doi.org/10.1109/cdc.1999.830260)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Energy-shaping of port-controlled Hamiltonian systems by interconnection. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 2 1646–1651](energy-shaping-of-port-controlled-hamiltonian-systems-by-interconnection) -- [10.1109/cdc.1999.830260](https://doi.org/10.1109/cdc.1999.830260)
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control vol. 10 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
 - Meurer, T. & Kugi, A. Tracking control design for a wave equation with dynamic boundary conditions modeling a piezoelectric stack actuator. International Journal of Robust and Nonlinear Control vol. 21 542–562 (2011) -- [10.1002/rnc.1611](https://doi.org/10.1002/rnc.1611)
 - Tavares, R. & Ruderman, M. Energy harvesting using piezoelectric transducers for suspension systems. Mechatronics vol. 65 102294 (2020) -- [10.1016/j.mechatronics.2019.102294](https://doi.org/10.1016/j.mechatronics.2019.102294)

@@ -54,7 +54,7 @@ Port-Hamiltonian system; IDA-PBC; medical endoscope; actuated beam
  
 ## References
 - Chikhaoui, (2014)
-- Dòria-Cerezo, A., Batlle, C. & Espinosa-Pérez, G. Passivity-based control of a wound-rotor synchronous motor. IET Control Theory &amp; Applications vol. 4 2049–2057 (2010) -- [10.1049/iet-cta.2009.0641](https://doi.org/10.1049/iet-cta.2009.0641)
+- [Dòria-Cerezo, A., Batlle, C. & Espinosa-Pérez, G. Passivity-based control of a wound-rotor synchronous motor. IET Control Theory &amp; Applications vol. 4 2049–2057 (2010)](passivity-based-control-of-a-wound-rotor-synchronous-motor) -- [10.1049/iet-cta.2009.0641](https://doi.org/10.1049/iet-cta.2009.0641)
 - Duindam, (2009)
 - [Falaize, A. & Hélie, T. Passive simulation of the nonlinear port-Hamiltonian modeling of a Rhodes Piano. Journal of Sound and Vibration vol. 390 289–309 (2017)](passive-simulation-of-the-nonlinear-port-hamiltonian-modeling-of-a-rhodes-piano) -- [10.1016/j.jsv.2016.11.008](https://doi.org/10.1016/j.jsv.2016.11.008)
 - Jacob, (2012)

@@ -56,7 +56,7 @@ Port- Hamiltonian; Euler Bernoulli; tympanic membrane; Frequency; occupational; 
  
 ## References
 - Alvord, Anatomy and orientation of the human external ear. Journal of the American Academy of Audiology (1997)
-- Angerer, M., Music, S. & Hirche, S. Port-Hamiltonian based control for human-robot team interaction. 2017 IEEE International Conference on Robotics and Automation (ICRA) 2292–2299 (2017) doi:10.1109/icra.2017.7989264 -- [10.1109/icra.2017.7989264](https://doi.org/10.1109/icra.2017.7989264)
+- [Angerer, M., Music, S. & Hirche, S. Port-Hamiltonian based control for human-robot team interaction. 2017 IEEE International Conference on Robotics and Automation (ICRA) 2292–2299 (2017) doi:10.1109/icra.2017.7989264](port-hamiltonian-based-control-for-human-robot-team-interaction) -- [10.1109/icra.2017.7989264](https://doi.org/10.1109/icra.2017.7989264)
 - Crittenden, (2012)
 - De Paolis, A. et al. Analytical and numerical modeling of the hearing system: Advances towards the assessment of hearing damage. Hearing Research vol. 349 111–128 (2017) -- [10.1016/j.heares.2017.01.015](https://doi.org/10.1016/j.heares.2017.01.015)
 - Everest, (2001)

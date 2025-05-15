@@ -80,7 +80,7 @@ Port-Hamiltonian systems; Modeling; Finite element; Structural dynamics; Adaptiv
 - Schnell, (2006)
 - Van der Schaft, Port-Hamiltonian differential-algebraic systems. (2013)
 - Cardoso Ribeiro, (2016)
-- Wu, Y., Hamroun, B., Gorrec, Y. L. & Maschke, B. Port Hamiltonian System in Descriptor Form for Balanced Reduction: Application to a Nanotweezer. IFAC Proceedings Volumes vol. 47 11404–11409 (2014) -- [10.3182/20140824-6-za-1003.01579](https://doi.org/10.3182/20140824-6-za-1003.01579)
+- [Wu, Y., Hamroun, B., Gorrec, Y. L. & Maschke, B. Port Hamiltonian System in Descriptor Form for Balanced Reduction: Application to a Nanotweezer. IFAC Proceedings Volumes vol. 47 11404–11409 (2014)](port-hamiltonian-system-in-descriptor-form-for-balanced-reduction-application-to-a-nanotweezer) -- [10.3182/20140824-6-za-1003.01579](https://doi.org/10.3182/20140824-6-za-1003.01579)
 - Böhm, Input modeling for active structural elements extending the established FE-workflow for modeling of adaptive structures. (2020)
 - [Kugi, A. & Kemmetmüller, W. New Energy-based Nonlinear Controller for Hydraulic Piston Actuators. European Journal of Control vol. 10 163–173 (2004)](new-energy-based-nonlinear-controller-for-hydraulic-piston-actuators) -- [10.3166/ejc.10.163-173](https://doi.org/10.3166/ejc.10.163-173)
 - Kugi, Energy based modelling of lumped-parameter hydraulic systems. (2003)

@@ -55,7 +55,7 @@ Optimal power flow; port-Hamiltonian systems; gradient method; DC networks; cycl
  
 ## References
 - Arrow, (1958)
-- Benedito, E., del Puerto-Flores, D., Doria-Cerezo, A., van der Feltz, O. & Scherpen, J. M. A. Strictly convex loss functions for port-Hamiltonian based optimization algorithm for MTDC networks. 2016 IEEE 55th Conference on Decision and Control (CDC) 7483–7488 (2016) doi:10.1109/cdc.2016.7799425 -- [10.1109/cdc.2016.7799425](https://doi.org/10.1109/cdc.2016.7799425)
+- [Benedito, E., del Puerto-Flores, D., Doria-Cerezo, A., van der Feltz, O. & Scherpen, J. M. A. Strictly convex loss functions for port-Hamiltonian based optimization algorithm for MTDC networks. 2016 IEEE 55th Conference on Decision and Control (CDC) 7483–7488 (2016) doi:10.1109/cdc.2016.7799425](strictly-convex-loss-functions-for-port-hamiltonian-based-optimization-algorithm-for-mtdc-networks) -- [10.1109/cdc.2016.7799425](https://doi.org/10.1109/cdc.2016.7799425)
 - Biggs, (1974)
 - Cherukuri, A. & Cortés, J. Asymptotic stability of saddle points under the saddle-point dynamics. 2015 American Control Conference (ACC) 2020–2025 (2015) doi:10.1109/acc.2015.7171030 -- [10.1109/acc.2015.7171030](https://doi.org/10.1109/acc.2015.7171030)
 - Feijer, D. & Paganini, F. Stability of primal–dual gradient dynamics and applications to network optimization. Automatica vol. 46 1974–1981 (2010) -- [10.1016/j.automatica.2010.08.011](https://doi.org/10.1016/j.automatica.2010.08.011)

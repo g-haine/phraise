@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Oscar Montoya](authors/oscar-danilo-montoya), [Walter Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [Federico Serra](authors/federico-m-serra), [Juan Dominguez](authors/juan-dominguez), [Javier Campillo](authors/javier-campillo), [J.C. Hernandez](authors/jesus-c-hernandez)
+[Oscar Montoya](authors/oscar-danilo-montoya), [Walter Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [Federico Serra](authors/federico-m-serra), [Juan Dominguez](authors/juan-dominguez), [Javier Campillo](authors/javier-e-campillo), [J.C. Hernandez](authors/jesus-c-hernandez)
  
 ## Abstract
 This paper explores the controller's design for charging batteries for electric vehicle applications using the direct power representation of the system. These controllers' design is made via passivity-based control (PBC) theory by considering the open-loop port-Hamiltonian representation of the converter. The usage of PBC theory allows designing controllers for closed-loop operation, guaranteeing stability operation in the sense of Lyapunov. Two different PBC methods are explored in this contribution; these are i) interconnection and damping assignment PBC, and ii) proportional-integral design. These methods work over the system's incremental model for reaching a control law that ensures asymptotic stability. Numerical validations show that both controllers allow controlling active and reactive power independently in four-quadrants. This is important due to allow using batteries as dynamic energy compensators if it is needed. All the simulations are conducted in MATLAB simulink via SymPowerSystems library.

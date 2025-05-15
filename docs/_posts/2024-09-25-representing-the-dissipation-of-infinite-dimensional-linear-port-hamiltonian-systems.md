@@ -54,7 +54,7 @@ Port-Hamiltonian systems; infinite-dimensional systems; dissipation; real part; 
 [Download the bib file]({{ site.baseurl }}/assets/bib/representing-the-dissipation-of-infinite-dimensional-linear-port-hamiltonian-systems.bib)
  
 ## References
-- Angerer, M., Music, S. & Hirche, S. Port-Hamiltonian based control for human-robot team interaction. 2017 IEEE International Conference on Robotics and Automation (ICRA) 2292–2299 (2017) doi:10.1109/icra.2017.7989264 -- [10.1109/icra.2017.7989264](https://doi.org/10.1109/icra.2017.7989264)
+- [Angerer, M., Music, S. & Hirche, S. Port-Hamiltonian based control for human-robot team interaction. 2017 IEEE International Conference on Robotics and Automation (ICRA) 2292–2299 (2017) doi:10.1109/icra.2017.7989264](port-hamiltonian-based-control-for-human-robot-team-interaction) -- [10.1109/icra.2017.7989264](https://doi.org/10.1109/icra.2017.7989264)
 - Arlinskiĭ, Y. & Tretter, C. Everything is possible for the domain intersection dom T ∩ dom T⁎. Advances in Mathematics vol. 374 107383 (2020) -- [10.1016/j.aim.2020.107383](https://doi.org/10.1016/j.aim.2020.107383)
 - [Augner, B. Well-Posedness and Stability of Infinite-Dimensional Linear Port-Hamiltonian Systems with Nonlinear Boundary Feedback. SIAM Journal on Control and Optimization vol. 57 1818–1844 (2019)](well-posedness-and-stability-of-infinite-dimensional-linear-port-hamiltonian-systems-with-nonlinear-boundary-feedback) -- [10.1137/15m1024901](https://doi.org/10.1137/15m1024901)
 - Engel, (2000)

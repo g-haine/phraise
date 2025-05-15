@@ -60,7 +60,7 @@ distributed port-Hamiltonian systems; ideal compressible isentropic fluid; bound
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Luo, (1999)
 - [Macchelli, A. Boundary energy shaping of linear distributed port-Hamiltonian systems. European Journal of Control vol. 19 521–528 (2013)](boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.002](https://doi.org/10.1016/j.ejcon.2013.10.002)
-- Macchelli, A. Stabilisation of a Nonlinear Flexible Beam in Port-Hamiltonian Form. IFAC Proceedings Volumes vol. 46 412–417 (2013) -- [10.3182/20130904-3-fr-2041.00115](https://doi.org/10.3182/20130904-3-fr-2041.00115)
+- [Macchelli, A. Stabilisation of a Nonlinear Flexible Beam in Port-Hamiltonian Form. IFAC Proceedings Volumes vol. 46 412–417 (2013)](stabilisation-of-a-nonlinear-flexible-beam-in-port-hamiltonian-form) -- [10.3182/20130904-3-fr-2041.00115](https://doi.org/10.3182/20130904-3-fr-2041.00115)
 - [Macchelli, A. Dirac structures on Hilbert spaces and boundary control of distributed port-Hamiltonian systems. Systems &amp; Control Letters vol. 68 43–50 (2014)](dirac-structures-on-hilbert-spaces-and-boundary-control-of-distributed-port-hamiltonian-systems) -- [10.1016/j.sysconle.2014.03.005](https://doi.org/10.1016/j.sysconle.2014.03.005)
 - Macchelli, (2016)
 - Macchelli, (2015)

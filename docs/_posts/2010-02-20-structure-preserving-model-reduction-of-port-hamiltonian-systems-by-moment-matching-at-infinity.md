@@ -69,7 +69,7 @@ Port-Hamiltonian systems; Model reduction; Krylov methods; Arnoldi method, Lancz
 - Mehrmann, V. & Xu, H. Numerical methods in control. Journal of Computational and Applied Mathematics vol. 123 371–394 (2000) -- [10.1016/s0377-0427(00)00392-7](https://doi.org/10.1016/s0377-0427(00)00392-7)
 - Moore, B. Principal component analysis in linear systems: Controllability, observability, and model reduction. IEEE Transactions on Automatic Control vol. 26 17–32 (1981) -- [10.1109/tac.1981.1102568](https://doi.org/10.1109/tac.1981.1102568)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Polyuga, R. V. & van der Schaft, A. Moment matching for linear port-Hamiltonian systems. 2009 European Control Conference (ECC) 4715–4720 (2009) doi:10.23919/ecc.2009.7075145 -- [10.23919/ecc.2009.7075145](https://doi.org/10.23919/ecc.2009.7075145)
+- [Polyuga, R. V. & van der Schaft, A. Moment matching for linear port-Hamiltonian systems. 2009 European Control Conference (ECC) 4715–4720 (2009) doi:10.23919/ecc.2009.7075145](moment-matching-for-linear-port-hamiltonian-systems0) -- [10.23919/ecc.2009.7075145](https://doi.org/10.23919/ecc.2009.7075145)
 - Schilders, (2008)
 - Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems &amp; Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
 - van der Schaft, (2000)

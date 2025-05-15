@@ -5,23 +5,37 @@
 ,
   "m-h-abbasi": [ "M.H. Abbasi" ]
 ,
+  "karim-abbaszadeh": [ "Karim Abbaszadeh" ]
+,
+  "afef-abdelkrim": [ "Afef Abdelkrim" ]
+,
+  "benali-abdelkrim": [ "Benali Abdelkrim" ]
+,
   "mohamed-naceur-abdelkrim": [ "Mohamed Naceur Abdelkrim" ]
 ,
   "mahmoud-abdelrahim": [ "Mahmoud Abdelrahim" ]
+,
+  "tadjeddine-ali-abderrazak": [ "Tadjeddine Ali Abderrazak" ]
 ,
   "babak-abdolmaleki": [ "Babak Abdolmaleki" ]
 ,
   "abdullah-abukhwejah": [ "Abdullah Abukhwejah" ]
 ,
+  "r-achar": [ "R. Achar" ]
+,
   "mohammed-elarbi-achhab": [ "Mohammed Elarbi Achhab" ]
 ,
   "franz-achleitner": [ "Franz Achleitner", "F. Achleitner" ]
+,
+  "abdelyazid-achour": [ "Abdelyazid Achour" ]
 ,
   "julia-ackermann": [ "Julia Ackermann" ]
 ,
   "j-a-acosta": [ "J.A. Acosta", "J.Á. Acosta" ]
 ,
   "aliyyi-adem": [ "Aliyyi Adem" ]
+,
+  "mahya-adibi": [ "Mahya Adibi" ]
 ,
   "babak-maboudi-afkham": [ "Babak Maboudi Afkham" ]
 ,
@@ -35,11 +49,21 @@
 ,
   "saeed-ahmed": [ "Saeed Ahmed" ]
 ,
+  "hyo-sung-ahn": [ "Hyo-Sung Ahn", "Hyo‐Sung Ahn" ]
+,
+  "null-wei-airong": [ "null Wei Airong" ]
+,
+  "m-ait-ahmed": [ "M. Ait-Ahmed" ]
+,
   "ashok-ajoy": [ "Ashok Ajoy" ]
 ,
   "takanori-akamatsu": [ "Takanori Akamatsu" ]
 ,
   "ahmad-akbari": [ "Ahmad Akbari" ]
+,
+  "hamdi-akhsan": [ "Hamdi Akhsan" ]
+,
+  "yuki-akiyama": [ "Yuki Akiyama" ]
 ,
   "r-akmeliawati": [ "R Akmeliawati" ]
 ,
@@ -51,7 +75,11 @@
 ,
   "antonio-t-alexandridis": [ "Antonio T. Alexandridis" ]
 ,
+  "mohammed-alkrunz": [ "Mohammed Alkrunz" ]
+,
   "frank-allgower": [ "Frank Allgöwer", "Frank Allgower" ]
+,
+  "nagham-al-madi": [ "Nagham Al-Madi" ]
 ,
   "israa-badr-nasser-al-mashhadani": [ "Israa Badr Nasser Al-Mashhadani" ]
 ,
@@ -65,21 +93,39 @@
 ,
   "r-altmann": [ "R. Altmann" ]
 ,
+  "raimundez-alvarez": [ "Raimúndez Álvarez" ]
+,
+  "luis-alvarez-icaza": [ "Luis Alvarez-Icaza" ]
+,
+  "ricardo-alvarez-salas": [ "Ricardo Alvarez-Salas" ]
+,
   "v-r-ambati": [ "V.R. Ambati" ]
 ,
   "william-tadeo-amin": [ "William Tadeo Amin" ]
 ,
   "farid-amirouche": [ "Farid Amirouche" ]
 ,
+  "ravel-ammerman": [ "Ravel Ammerman" ]
+,
+  "hong-an": [ "Hong An" ]
+,
   "mikhail-s-ananyevskiy": [ "Mikhail S. Ananyevskiy" ]
+,
+  "palle-andersen": [ "Palle Andersen" ]
 ,
   "e-garcia-torano-andres": [ "E García-Toraño Andrés" ]
 ,
+  "s-andreotti": [ "S. Andreotti" ]
+,
   "lisa-andresen": [ "Lisa Andresen" ]
 ,
-  "cristian-h-de-angelo": [ "Cristian H. De Angelo", "C. H. De Angelo" ]
+  "cristian-h-de-angelo": [ "Cristian H. De Angelo", "Cristian De Angelo", "C. H. De Angelo" ]
+,
+  "martin-angerer": [ "Martin Angerer" ]
 ,
   "javad-ansari": [ "Javad Ansari" ]
+,
+  "m-antkowiak": [ "M. Antkowiak" ]
 ,
   "panos-j-antsaklis": [ "Panos J. Antsaklis" ]
 ,
@@ -91,7 +137,17 @@
 ,
   "ernesto-aranda-escolastico": [ "Ernesto Aranda-Escolástico" ]
 ,
+  "s-aranovskiy": [ "S. Aranovskiy" ]
+,
+  "m-aranzana": [ "M. Aranzana" ]
+,
   "catalin-arghir": [ "Catalin Arghir" ]
+,
+  "finbar-j-argus": [ "Finbar J. Argus" ]
+,
+  "ryo-ariizumi": [ "Ryo Ariizumi" ]
+,
+  "melly-ariska": [ "Melly Ariska" ]
 ,
   "lars-arneborg": [ "Lars Arneborg" ]
 ,
@@ -101,11 +157,19 @@
 ,
   "pierluigi-arpenti": [ "Pierluigi Arpenti" ]
 ,
+  "jean-francois-artaud": [ "Jean-Francois Artaud" ]
+,
+  "toru-asai": [ "Toru Asai" ]
+,
   "kinji-asaka": [ "Kinji Asaka" ]
 ,
   "hajime-asama": [ "Hajime Asama" ]
 ,
   "e-m-asensio": [ "E. M. Asensio" ]
+,
+  "y-ashir": [ "Y. Ashir" ]
+,
+  "alan-aspuru-guzik": [ "Alán Aspuru-Guzik" ]
 ,
   "alessandro-astolfi": [ "Alessandro Astolfi", "A. Astolfi" ]
 ,
@@ -119,7 +183,9 @@
 ,
   "manel-atitallah": [ "Manel Atitallah" ]
 ,
-  "finbar-j-argus": [ "Finbar J. Argus" ]
+  "samareh-attarsharghi": [ "Samareh Attarsharghi" ]
+,
+  "raghda-a-m-attia": [ "Raghda A. M. Attia" ]
 ,
   "bjorn-augner": [ "Björn Augner" ]
 ,
@@ -131,11 +197,21 @@
 ,
   "sofia-avila-becerril": [ "Sofía Avila-Becerril", "Sofia Avila-Becerril" ]
 ,
+  "m-y-ayad": [ "M.Y. Ayad", "M. Ayad" ]
+,
   "edgar-perez-ayala": [ "Edgar Perez Ayala" ]
 ,
   "tutla-ayatullah": [ "Tutla Ayatullah" ]
 ,
+  "timur-aydemir": [ "Timur AYDEMIR" ]
+,
   "ahmad-taher-azar": [ "Ahmad Taher Azar" ]
+,
+  "seyed-mohammad-azimi": [ "Seyed Mohammad Azimi" ]
+,
+  "naziha-ahmad-azli": [ "Naziha Ahmad Azli", "N. A. Azli" ]
+,
+  "shun-ichi-azuma": [ "Shun-ichi Azuma" ]
 ,
   "a-baaiu": [ "A. Baaiu" ]
 ,
@@ -143,7 +219,9 @@
 ,
   "takahiro-baba": [ "Takahiro Baba" ]
 ,
-  "robert-babuska": [ "Robert Babuska", "R. Babuška" ]
+  "mohammad-babakmehr": [ "Mohammad Babakmehr" ]
+,
+  "robert-babuska": [ "Robert Babuska", "R. Babuška", "R. Babuska" ]
 ,
   "faouzi-bacha": [ "Faouzi Bacha" ]
 ,
@@ -154,6 +232,12 @@
   "arbi-moses-badlyan": [ "Arbi Moses Badlyan" ]
 ,
   "ferdinando-rodriguez-y-baena": [ "Ferdinando Rodriguez y Baena", "F. Rodriguez y Baena" ]
+,
+  "milad-bahrami-fard": [ "Milad Bahrami-Fard", "Milad Bahrami" ]
+,
+  "xiaoping-bai": [ "Xiaoping Bai" ]
+,
+  "mohit-bajaj": [ "Mohit Bajaj" ]
 ,
   "tom-e-baldock": [ "Tom E. Baldock" ]
 ,
@@ -167,9 +251,13 @@
 ,
   "ravi-n-banavar": [ "Ravi N. Banavar", "Ravi Banavar" ]
 ,
+  "mai-bando": [ "Mai Bando" ]
+,
   "a-banos": [ "A. Baños" ]
 ,
   "harshit-bansal": [ "Harshit Bansal", "H. Bansal" ]
+,
+  "xueyu-bao": [ "Xueyu Bao" ]
 ,
   "yajie-bao": [ "Yajie Bao" ]
 ,
@@ -178,6 +266,8 @@
   "john-s-baras": [ "John S. Baras" ]
 ,
   "m-barbero-linan": [ "M Barbero-Liñán" ]
+,
+  "karina-a-barbosa": [ "Karina A. Barbosa" ]
 ,
   "ruxandra-barbulescu": [ "Ruxandra Barbulescu" ]
 ,
@@ -191,7 +281,11 @@
 ,
   "luca-bassi": [ "Luca Bassi","L. Bassi" ]
 ,
+  "g-bastin": [ "G. Bastin" ]
+,
   "guaraci-bastos": [ "Guaraci Bastos" ]
+,
+  "saurabh-basu": [ "Saurabh Basu" ]
 ,
   "ushoshi-basumallick": [ "Ushoshi Basumallick" ]
 ,
@@ -201,33 +295,65 @@
 ,
   "thomas-battista": [ "Thomas Battista" ]
 ,
+  "h-de-battista": [ "H. De Battista" ]
+,
   "robab-ebrahimi-bavili": [ "Robab Ebrahimi Bavili" ]
 ,
   "christopher-beattie": [ "Christopher Beattie", "C. Beattie", "Christopher A. Beattie", "C.A. Beattie" ]
 ,
   "jussi-behrndt": [ "Jussi Behrndt" ]
 ,
+  "gerardo-becerra": [ "Gerardo Becerra", "G. Becerra" ]
+,
+  "mohamed-becherif": [ "Mohamed Becherif", "M. Becherif" ]
+,
   "thomas-beckers": [ "Thomas Beckers" ]
+,
+  "ramon-beivide": [ "Ramon Beivide" ]
+,
+  "safya-belghith": [ "Safya Belghith" ]
 ,
   "jamel-belhadj": [ "Jamel Belhadj" ]
 ,
   "juri-belikov": [ "Juri Belikov" ]
 ,
+  "youcef-belkhier": [ "Youcef Belkhier" ]
+,
+  "leonardo-belpassi": [ "Leonardo Belpassi" ]
+,
+  "madhu-n-belur": [ "Madhu N. Belur" ]
+,
+  "evert-josue-guajardo-benavides": [ "Evert Josue Guajardo Benavides" ]
+,
   "abdelkrim-benchaib": [ "Abdelkrim Benchaib" ]
+,
+  "mohammed-sofiane-bendelhoum": [ "Mohammed Sofiane Bendelhoum" ]
 ,
   "antoine-bendimerad-hohl": [ "Antoine Bendimerad-Hohl" ]
 ,
+  "thomas-bendokat": [ "Thomas Bendokat" ]
+,
+  "jan-dimon-bendtsen": [ "Jan Dimon Bendtsen" ]
+,
   "ernest-benedito": [ "Ernest Benedito" ]
+,
+  "oscar-rodriguez-benitez": [ "Oscar Rodríguez Benítez" ]
 ,
   "peter-benner": [ "Peter Benner" ]
 ,
   "mourad-benoussaad": [ "Mourad Benoussaad" ]
 ,
-  "a-d-bensalah": [ "A. D. Bensalah" ]
+  "a-d-bensalah": [ "A-D. Bensalah", "A. D. Bensalah" ]
+,
+  "brahim-berbaoui": [ "Brahim Berbaoui" ]
+,
+  "jordan-m-berg": [ "Jordan M. Berg" ]
 ,
   "r-c-bergmayr": [ "R.C. Bergmayr" ]
 ,
   "gilbert-bergna-diaz": [ "Gilbert Bergna-Diaz", "Gilbert Bergna" ]
+,
+  "gildas-besancon": [ "Gildas Besancon" ]
 ,
   "a-bestler": [ "A. Bestler" ]
 ,
@@ -235,15 +361,31 @@
 ,
   "peter-betsch": [ "Peter Betsch", "P. Betsch" ]
 ,
-  "siddharth-bhanderi": [ "Siddharth Bhanderi" ]
+  "monika-bhagwat": [ "Monika Bhagwat" ]
+,
+  "siddharth-kiranbhai-bhanderi": [ "Siddharth Kiranbhai Bhanderi", "Siddharth Bhanderi", "Siddharth K. Bhanderi" ]
 ,
   "kirtan-bhatt": [ "Kirtan Bhatt" ]
+,
+  "r-k-p-bhatt": [ "R. K. P. Bhatt" ]
+,
+  "s-bhuvaneswari": [ "S Bhuvaneswari" ]
 ,
   "davide-bicego": [ "Davide Bicego" ]
 ,
   "eric-bideaux": [ "Eric Bideaux" ]
 ,
   "bastian-biedermann": [ "Bastian Biedermann" ]
+,
+  "stefan-bilbao": [ "Stefan Bilbao" ]
+,
+  "yurii-o-biletskyi": [ "Yurii O. Biletskyi", "Yuriy O. Biletskyi", "Yurii Biletskyi" ]
+,
+  "anusak-bilsalam": [ "Anusak Bilsalam" ]
+,
+  "michelangelo-bin": [ "Michelangelo Bin" ]
+,
+  "tahereh-binazadeh": [ "Tahereh Binazadeh", "T. Binazadeh" ]
 ,
   "nicu-bizon": [ "Nicu Bizon" ]
 ,
@@ -253,7 +395,17 @@
 ,
   "s-blanes": [ "S. Blanes" ]
 ,
+  "mogens-blanke": [ "Mogens Blanke" ]
+,
+  "guido-blankenstein": [ "Guido Blankenstein", "G. Blankenstein" ]
+,
   "adam-bloch": [ "Adam Błoch" ]
+,
+  "xu-bo": [ "Xu Bo", "Xu BO", "null Xu Bo" ]
+,
+  "yang-bo": [ "Yang Bo" ]
+,
+  "sara-yulieth-bocanegra": [ "Sara Yulieth Bocanegra" ]
 ,
   "michael-bohm": [ "Michael Böhm" ]
 ,
@@ -264,6 +416,8 @@
   "maximilian-bonauer": [ "Maximilian Bonauer" ]
 ,
   "jerome-bonelle": [ "Jérôme Bonelle" ]
+,
+  "dolores-amada-gualli-bonilla": [ "Dolores Amada Gualli Bonilla" ]
 ,
   "claudio-bonivento": [ "Claudio Bonivento" ]
 ,
@@ -277,11 +431,21 @@
 ,
   "roberto-borsari": [ "Roberto Borsari" ]
 ,
+  "b-bose": [ "B. Bose" ]
+,
+  "mohammed-boura": [ "Mohammed Boura" ]
+,
   "henri-boutin": [ "Henri Boutin" ]
+,
+  "mohsen-bozorgmehrian": [ "Mohsen Bozorgmehrian" ]
 ,
   "chris-p-bradley": [ "Chris P. Bradley" ]
 ,
   "ammar-touati-brahim": [ "Ammar Touati Brahim" ]
+,
+  "edward-branford": [ "Edward Branford" ]
+,
+  "manuel-bravo-lopez": [ "Manuel Bravo-López" ]
 ,
   "alexander-brauchler": [ "Alexander Brauchler" ]
 ,
@@ -295,6 +459,12 @@
 ,
   "j-r-brinkerhoff": [ "J. R. Brinkerhoff" ]
 ,
+  "b-broeg": [ "B. Broeg" ]
+,
+  "bernard-brogliato": [ "Bernard Brogliato" ]
+,
+  "r-brown": [ "R. Brown" ]
+,
   "andrea-brugnoli": [ "Andrea Brugnoli", "A. Brugnoli" ]
 ,
   "aaron-brunk": [ "Aaron Brunk" ]
@@ -303,7 +473,11 @@
 ,
   "herman-bruyninckx": [ "Herman Bruyninckx" ]
 ,
+  "wachiravit-buaket": [ "Wachiravit Buaket" ]
+,
   "patrick-buchfink": [ "Patrick Buchfink" ]
+,
+  "maximiliano-bueno-lopez": [ "Maximiliano Bueno-López" ]
 ,
   "francesco-bullo": [ "Francesco Bullo" ]
 ,
@@ -311,9 +485,13 @@
 ,
   "luca-rosario-buonocore": [ "Luca Rosario Buonocore" ]
 ,
+  "miroslav-bures": [ "Miroslav Bures" ]
+,
   "julian-burghoff": [ "Julian Burghoff" ]
 ,
   "piyabut-burikham": [ "Piyabut Burikham" ]
+,
+  "p-g-burke": [ "P G Burke" ]
 ,
   "simon-byrne": [ "Simon Byrne" ]
 ,
@@ -323,6 +501,8 @@
 ,
   "dengsheng-cai": [ "Dengsheng Cai" ]
 ,
+  "hegao-cai": [ "Hegao Cai" ]
+,
   "jianping-cai": [ "Jianping Cai" ]
 ,
   "liangcheng-cai": [ "Liangcheng Cai", "Liang-Cheng Cai" ]
@@ -331,25 +511,37 @@
 ,
   "xiu-shan-cai": [ "Xiu‐Shan Cai" ]
 ,
+  "zhiyang-cai": [ "Zhiyang Cai" ]
+,
+  "zili-cai": [ "Zili Cai" ]
+,
   "andrea-caiti": [ "Andrea Caiti", "A. Caiti" ]
 ,
-  "nandish-calchand": [ "Nandish Calchand" ]
+  "nandish-calchand": [ "Nandish Calchand", "N. Calchand" ]
 ,
   "federico-califano": [ "Federico Califano", "F. Califano" ]
 ,
-  "m-kanat-camlibel": [ "M. Kanat Camlibel", "M. K. Camlibel" ]
+  "m-kanat-camlibel": [ "M. Kanat Camlibel", "M. K. Camlibel", "M.K. Camlibel" ]
 ,
-  "javier-campillo": [ "Javier Campillo" ]
+  "javier-e-campillo": [ "Javier Campillo", "J. E. Campillo" ]
+,
+  "f-g-canavero": [  "F.G. Canavero", "F. G. Canavero", "F. Canavero" ]
 ,
   "gui-zhou-cao": [ "Gui‐Zhou Cao" ]
 ,
   "ming-cao": [ "Ming Cao" ]
 ,
+  "zhaojin-cao": [ "Zhaojin Cao" ]
+,
+  "zhong-cao": [ "Zhong Cao" ]
+,
   "giuseppe-capobianco": [ "Giuseppe Capobianco" ]
 ,
   "flavio-luiz-cardoso-ribeiro": [ "Flávio Luiz Cardoso-Ribeiro", "Flavio Luiz Cardoso-Ribeiro" ]
 ,
-  "raffaella-carloni": [ "Raffaella Carloni" ]
+  "ricardo-carelli": [ "Ricardo Carelli" ]
+,
+  "raffaella-carloni": [ "Raffaella Carloni", "R Carloni", "R. Carloni" ]
 ,
   "sven-caspart": [ "Sven Caspart" ]
 ,
@@ -357,7 +549,7 @@
 ,
   "rosa-castane-selga": [ "Rosa Castañé-Selga" ]
 ,
-  "fernando-castanos": [ "Fernando Castaños", "Fernando Castanos" ]
+  "fernando-castanos": [ "Fernando Castaños", "Fernando Castanos", "Fetnando Castanos" ]
 ,
   "elena-celledoni": [ "Elena Celledoni" ]
 ,
@@ -367,11 +559,19 @@
 ,
   "j-cervera": [ "J. Cervera" ]
 ,
+  "jose-cesareo": [ "José Cesáreo" ]
+,
   "solene-houria-chaabna": [ "Solene Houria Chaabna" ]
 ,
   "juliette-chabassier": [ "Juliette Chabassier" ]
 ,
   "carmen-chan-zheng": [ "Carmen Chan-Zheng" ]
+,
+  "dong-eui-chang": [ "Dong Eui Chang", "null Dong Eui Chang" ]
+,
+  "h-jonathan-chao": [ "H. Jonathan Chao" ]
+,
+  "hu-chao": [ "Hu Chao" ]
 ,
   "miguel-charlotte": [ "Miguel Charlotte" ]
 ,
@@ -379,9 +579,19 @@
 ,
   "s-chaturantabut": [ "S. Chaturantabut" ]
 ,
+  "vijaysekhar-chellaboina": [ "VijaySekhar Chellaboina", "V. Chellaboina" ]
+,
   "krishnan-chemmangat": [ "Krishnan Chemmangat" ]
 ,
+  "ahmed-chemori": [ "Ahmed Chemori" ]
+,
+  "chenyue-chen": [ "Chenyue Chen" ]
+,
   "c-l-chen": [ "C.L. Chen" ]
+,
+  "diyi-chen": [ "Diyi Chen" ]
+,
+  "fan-chen": [ "Fan Chen" ]
 ,
   "jian-chen": [ "Jian Chen" ]
 ,
@@ -389,17 +599,33 @@
 ,
   "jingyang-chen": [ "Jingyang Chen" ]
 ,
+  "junshi-chen": [ "Junshi Chen" ]
+,
   "liangming-chen": [ "Liangming Chen" ]
+,
+  "long-chen": [ "Long Chen" ]
 ,
   "minghui-chen": [ "Minghui Chen" ]
 ,
   "qifeng-chen": [ "Qifeng Chen" ]
 ,
+  "shen-chen": [ "Shen Chen", "null Shen Chen" ]
+,
   "shengyuan-chen": [ "Shengyuan Chen", "Sheng-Yuan Chen" ]
+,
+  "x-chen": [ "X. Chen" ]
 ,
   "xi-chen": [ "Xi Chen" ]
 ,
+  "x-h-chen": [ "X H Chen" ]
+,
+  "xiangyu-chen": [ "Xiangyu Chen" ]
+,
   "xiangwei-chen": [ "Xiangwei Chen" ]
+,
+  "xiaoqiang-chen": [ "Xiaoqiang Chen" ]
+,
+  "ying-chen": [ "Ying Chen" ]
 ,
   "youyuan-chen": [ "Youyuan Chen" ]
 ,
@@ -407,9 +633,17 @@
 ,
   "yuzhu-chen": [ "Yuzhu Chen" ]
 ,
+  "zhonghua-chen": [ "Zhonghua Chen" ]
+,
+  "daizhan-cheng": [ "Daizhan Cheng", "null Daizhan Cheng" ]
+,
   "ningbo-cheng": [ "Ningbo Cheng" ]
 ,
   "xiaoyu-cheng": [ "Xiaoyu Cheng" ]
+,
+  "xinxin-cheng": [ "Xinxin Cheng" ]
+,
+  "zhiping-cheng": [ "Zhiping Cheng" ]
 ,
   "bogdan-chereji": [ "Bogdan Chereji" ]
 ,
@@ -417,17 +651,31 @@
 ,
   "karim-cherifi": [ "Karim Cherifi" ]
 ,
+  "shyh-chain-chern": [ "Shyh-Chain Chern", "null Shyh-Chain Chern" ]
+,
   "jieru-chi": [ "Jieru Chi" ]
 ,
   "francisco-chinesta": [ "Francisco Chinesta" ]
 ,
+  "jung-wan-cho": [ "Jung Wan Cho", "null Jung Wan Cho" ]
+,
   "l-chrifi-alaoui": [ "L. Chrifi-Alaoui" ]
+,
+  "c-f-christiansen": [ "C. F. Christiansen" ]
 ,
   "snorre-h-christiansen": [ "Snorre H. Christiansen" ]
 ,
+  "d-n-christodoulides": [ "D. N. Christodoulides" ]
+,
   "delin-chu": [ "Delin Chu" ]
 ,
+  "l-o-chua": [ "L.O. Chua" ]
+,
+  "derek-chun": [ "Derek Chun" ]
+,
   "ho-tak-d-chun": [ "Ho-Tak D. Chun" ]
+,
+  "chung-choo-chung": [ "Chung Choo Chung", "null Chung Choo Chung" ]
 ,
   "oscar-b-cieza": [ "Oscar B. Cieza" ]
 ,
@@ -437,15 +685,21 @@
 ,
   "rafael-cisneros": [ "Rafael Cisneros" ]
 ,
+  "r-cisneros": [ "R. Cisneros" ]
+,
   "c-ciuca": [ "C. Ciuca" ]
 ,
   "gabriela-ciuprina": [ "Gabriela Ciuprina" ]
 ,
   "yoan-civet": [ "Yoan Civet" ]
 ,
+  "matthew-a-clark": [ "Matthew A. Clark" ]
+,
   "markus-clemens": [ "Markus Clemens" ]
 ,
   "cedric-clevy": [ "Cédric Clévy" ]
+,
+  "antonio-j-cobarrubia": [ "Antonio J. Cobarrubia" ]
 ,
   "bernardo-cockburn": [ "Bernardo Cockburn", "B. Cockburn" ]
 ,
@@ -457,9 +711,13 @@
 ,
   "daniela-constantinescu": [ "Daniela Constantinescu" ]
 ,
+  "j-copeland": [ "J. Copeland" ]
+,
   "francesco-giuseppe-cordoni": [ "Francesco Giuseppe Cordoni", "Francesco Cordoni" ]
 ,
   "peter-corke": [ "Peter Corke" ]
+,
+  "cecilia-cornejo": [ "Cecilia Cornejo" ]
 ,
   "domingo-cortes": [ "Domingo CORTES" ]
 ,
@@ -469,9 +727,19 @@
 ,
   "michael-g-crandall": [ "Michael G. Crandall" ]
 ,
+  "andrea-cristofaro": [ "Andrea Cristofaro" ]
+,
+  "jorge-alberto-estopier-de-la-cruz": [ "Jorge Alberto Estopier de la Cruz" ]
+,
   "michele-cucuzzella": [ "Michele Cucuzzella" ]
 ,
   "elias-cueto": [ "Elías Cueto" ]
+,
+  "jiankuo-cui": [ "Jiankuo Cui" ]
+,
+  "yong-cui": [ "Yong Cui" ]
+,
+  "leandro-rodrigues-cunha": [ "Leandro Rodrigues Cunha" ]
 ,
   "truong-ngoc-cuong": [ "Truong Ngoc Cuong" ]
 ,
@@ -479,21 +747,35 @@
 ,
   "marco-cupelli": [ "Marco Cupelli" ]
 ,
+  "c-m-dai": [ "C. M. Dai" ]
+,
   "siyuan-dai": [ "Siyuan Dai" ]
 ,
   "morten-dalsmo": [ "Morten Dalsmo" ]
 ,
-  "brigitte-d-andrea-novel": [ "Brigitte d’Andréa-Novel" ]
+  "brigitte-d-andrea-novel": [ "Brigitte d'Andrea-Novel", "Brigitte d’Andréa-Novel" ]
+,
+  "masoud-daneshtalab": [ "Masoud Daneshtalab" ]
+,
+  "mohammed-danish": [ "Mohammed Danish" ]
 ,
   "champ-c-darabundit": [ "Champ C. Darabundit" ]
 ,
+  "salvatore-d-arco": [ "Salvatore D’Arco" ]
+,
   "jean-baptiste-david": [ "Jean-Baptiste David" ]
+,
+  "w-p-dayawansa": [ "W. P. Dayawansa" ]
 ,
   "charlotte-degunther": [ "Charlotte Degünther" ]
 ,
   "francisco-del-rio-rivera": [ "Francisco Del-Rio-Rivera" ]
 ,
+  "sergio-delgado-l": [ "Sergio Delgado‐L." ]
+,
   "jean-charles-delvenne": [ "Jean-Charles Delvenne" ]
+,
+  "yuwen-deng": [ "Yuwen Deng" ]
 ,
   "shaan-a-desai": [ "Shaan A. Desai" ]
 ,
@@ -509,6 +791,8 @@
 ,
   "jingdong-diao": [ "Jingdong Diao" ]
 ,
+  "wissam-dib": [ "Wissam Dib" ]
+,
   "nguyen-quang-dich": [ "Nguyen Quang Dich" ]
 ,
   "david-martin-de-diego": [ "David Martín de Diego", "D Martín de Diego" ]
@@ -521,27 +805,43 @@
 ,
   "alexandru-dimofte": [ "Alexandru Dimofte" ]
 ,
+  "danmei-ding": [ "Danmei Ding" ]
+,
   "hao-ding": [ "Hao Ding" ]
+,
+  "shichuan-ding": [ "Shichuan Ding" ]
 ,
   "shuai-ding": [ "Shuai Ding" ]
 ,
   "daniel-a-dirksz": [ "Daniel A. Dirksz", "D. A. Dirksz", "D.A. Dirksz" ]
 ,
+  "nikhil-v-divekar": [ "Nikhil V. Divekar" ]
+,
   "paul-v-djaba": [ "Paul V. Djaba" ]
 ,
+  "a-djerdir": [ "A. Djerdir" ]
+,
+  "larbi-djilali": [ "Larbi Djilali" ]
+,
   "denis-dochain": [ "Denis Dochain", "D. Dochain" ]
+,
+  "onur-tanil-doganay": [ "Onur Tanil Doganay" ]
 ,
   "uday-dolas": [ "Uday Dolas" ]
 ,
   "juan-dominguez": [ "Juan Dominguez" ]
 ,
-  "alejandro-donaire": [ "Alejandro Donaire" ]
+  "alejandro-donaire": [ "Alejandro Donaire", "Alejando Donaire", "A. Donaire" ]
+,
+  "rik-w-de-doncker": [ "Rik W. De Doncker" ]
 ,
   "jian-dong": [ "Jian Dong" ]
 ,
   "lu-dong": [ "Lu Dong" ]
 ,
   "shuonan-dong": [ "Shuonan Dong" ]
+,
+  "ting-ting-dong": [ "Ting Ting Dong" ]
 ,
   "yujie-dong": [ "Yujie Dong" ]
 ,
@@ -555,7 +855,7 @@
 ,
   "irene-ya-dorfman": [ "Irene Ya. Dorfman" ]
 ,
-  "arnau-doria-cerezo": [ "Arnau Dòria-Cerezo", "Arnau Dòria‐Cerezo", "Arnau Doria-Cerezo", "A. Dòria-Cerezo", "A. Doria-Cerezo" ]
+  "arnau-doria-cerezo": [ "Arnau Dòria-Cerezo", "Arnau Dòria‐Cerezo", "Arnau Doria-Cerezo", "A. Dòria-Cerezo", "A. Doria-Cerezo", "A. Dòria-Cerezo" ]
 ,
   "s-drid": [ "S. Drid" ]
 ,
@@ -563,11 +863,25 @@
 ,
   "vladimir-druskin": [ "Vladimir Druskin" ]
 ,
+  "fu-du": [ "Fu Du" ]
+,
+  "jialu-du": [ "Jialu Du" ]
+,
+  "mingyuan-du": [ "Mingyuan Du" ]
+,
   "shukai-du": [ "Shukai Du" ]
+,
+  "xiaoyu-du": [ "Xiaoyu Du" ]
+,
+  "chao-duan": [ "Chao Duan" ]
+,
+  "guangren-duan": [ "Guangren Duan" ]
 ,
   "stevan-dubljevic": [ "Stevan Dubljevic" ]
 ,
-  "vincent-duindam": [ "Vincent Duindam" ]
+  "michele-ducceschi": [ "Michele Ducceschi" ]
+,
+  "vincent-duindam": [ "Vincent Duindam", "V. Duindam" ]
 ,
   "thai-duong": [ "Thai Duong" ]
 ,
@@ -583,43 +897,69 @@
 ,
   "ryusuke-ebimoto": [ "Ryusuke Ebimoto" ]
 ,
+  "keivan-ebrahimi": [ "Keivan Ebrahimi" ]
+,
+  "masoumeh-ebrahimi": [ "Masoumeh Ebrahimi" ]
+,
   "lukas-ecker": [ "Lukas Ecker" ]
 ,
   "yoshiyuki-egami": [ "Yoshiyuki Egami" ]
 ,
+  "olav-egeland": [ "Olav Egeland" ]
+,
   "herbert-egger": [ "Herbert Egger", "H. Egger", "H Egger" ]
 ,
-  "matthias-ehrhardt": [ "Matthias Ehrhardt" ]
+  "i-l-egusquiza": [ "I. L. Egusquiza" ]
+,
+  "matthias-ehrhardt": [ "Matthias Ehrhardt", "M. Ehrhardt" ]
 ,
   "rudy-eid": [ "Rudy Eid" ]
 ,
   "solve-eidnes": [ "Sølve Eidnes" ]
 ,
+  "a-eisfeld": [ "A. Eisfeld", "A Eisfeld" ]
+,
+  "chainarin-ekkaravarodome": [ "Chainarin Ekkaravarodome" ]
+,
   "john-e-d-ekoru": [ "John E. D. Ekoru", "John E.D. Ekoru" ]
+,
+  "sami-el-ferik": [ "Sami El‐Ferik", "Sami El Ferik" ]
+,
+  "ramy-el-ganainy": [ "Ramy El-Ganainy", "R. El-Ganainy" ]
 ,
   "mohamed-i-el-hawwary": [ "Mohamed I. El-Hawwary" ]
 ,
+  "amnah-el-obaid": [ "Amnah El-Obaid" ]
+,
+  "marco-encina": [ "Marco Encina" ]
+,
   "johan-b-c-engelen": [ "Johan B. C. Engelen" ]
 ,
-  "h-ennsbrunner": [ "H. Ennsbrunner" ]
+  "helmut-ennsbrunner": [ "Helmut Ennsbrunner", "H. Ennsbrunner" ]
 ,
   "mehmet-erbay": [ "Mehmet Erbay" ]
+,
+  "alejandro-erickson": [ "Alejandro Erickson" ]
 ,
   "alexandre-ern": [ "Alexandre Ern" ]
 ,
   "andres-escobar": [ "Andrés Escobar" ]
 ,
-  "gerardo-escobar": [ "Gerardo Escobar" ]
+  "gerardo-escobar": [ "Gerardo Escobar", "G. Escobar" ]
 ,
   "andres-escobar-mejia": [ "Andres Escobar-Mejia", "A. Escobar-Mejia" ]
 ,
   "reza-mahboobi-esfanjani": [ "Reza Mahboobi Esfanjani" ]
 ,
-  "gerardo-espinosa-perez": [ "Gerardo Espinosa-Pérez", "Gerardo Espinosa-Perez", "Gerardo René Espinosa Pérez" ]
+  "eduardo-espinosa": [ "Eduardo Espinosa" ]
+,
+  "gerardo-espinosa-perez": [ "Gerardo Espinosa-Pérez", "Gerardo Espinosa-Perez", "Gerardo René Espinosa Pérez", "Gerardo Espinosa‐Pérez", "G. Espinosa-Pérez", "G. Espinosa-Pérez" ]
 ,
   "p-esquivel": [ "P. Esquivel" ]
 ,
   "luis-miguel-esquivel-sancho": [ "Luis Miguel Esquivel-Sancho" ]
+,
+  "hector-ramirez-estay": [ "Hector Ramirez Estay" ]
 ,
   "simon-r-eugster": [ "Simon R. Eugster" ]
 ,
@@ -629,11 +969,21 @@
 ,
   "filippo-fabiani": [ "Filippo Fabiani", "F. Fabiani" ]
 ,
+  "benoit-fabre": [ "Benoit Fabre" ]
+,
   "jean-michel-w-fahmi": [ "Jean-Michel W. Fahmi", "Jean-Michel Fahmi" ]
 ,
   "l-c-fai": [ "L.C. Fai" ]
 ,
   "antoine-falaize": [ "Antoine Falaize", "A. Falaize" ]
+,
+  "bo-fan": [ "Bo Fan" ]
+,
+  "jianxi-fan": [ "Jianxi Fan" ]
+,
+  "shanhui-fan": [ "Shanhui Fan" ]
+,
+  "xinming-fan": [ "Xinming Fan" ]
 ,
   "zhiyuan-fan": [ "Zhiyuan Fan" ]
 ,
@@ -659,19 +1009,41 @@
 ,
   "timm-faulwasser": [ "Timm Faulwasser" ]
 ,
+  "a-favache": [ "A. Favache" ]
+,
+  "akram-fayaz": [ "Akram Fayaz" ]
+,
   "jorg-fehr": [ "Jörg Fehr" ]
 ,
   "federico-felici": [ "Federico Felici" ]
 ,
+  "shumin-fei": [ "Shumin Fei" ]
+,
+  "olivier-van-der-feltz": [ "Olivier van der Feltz" ]
+,
+  "gang-feng": [ "Gang Feng" ]
+,
+  "liu-feng": [ "Liu Feng", "null Liu Feng" ]
+,
   "shuai-feng": [ "Shuai Feng" ]
+,
+  "shuang-feng": [ "Shuang Feng" ]
+,
+  "wenfeng-feng": [ "Wenfeng Feng" ]
+,
+  "yuanpeng-feng": [ "Yuanpeng Feng" ]
 ,
   "davide-fenucci": [ "Davide Fenucci", "D. Fenucci" ]
 ,
   "joel-ferguson": [ "Joel Ferguson" ]
 ,
+  "alejandro-fernandez": [ "Alejandro Fernández" ]
+,
   "joao-erick-de-mattos-fernandes": [ "João Erick de Mattos Fernandes" ]
 ,
   "david-c-del-rey-fernandez": [ "David C. Del Rey Fernández" ]
+,
+  "mario-fernandez": [ "Mario Fernandez" ]
 ,
   "paul-fernandez": [ "Paul Fernandez" ]
 ,
@@ -685,23 +1057,33 @@
 ,
   "giuseppe-ferraro": [ "Giuseppe Ferraro" ]
 ,
+  "g-feve": [ "G. Feve" ]
+,
   "s-fiaz": [ "S. Fiaz" ]
+,
+  "f-ficuciello": [ "F Ficuciello" ]
 ,
   "sheron-figarado": [ "Sheron Figarado" ]
 ,
   "mehdi-farokhian-firuzi": [ "Mehdi Farokhian Firuzi" ]
 ,
+  "casey-a-fitzpatrick": [ "Casey A. Fitzpatrick" ]
+,
   "o-floch": [ "O. Floch" ]
 ,
   "marco-a-flores": [ "Marco A. Flores" ]
 ,
-  "gerrit-a-folkertsma": [ "Gerrit A. Folkertsma" ]
+  "gerrit-adriaan-folkertsma": [ "Gerrit Adriaan Folkertsma", "Gerrit A. Folkertsma" ]
 ,
   "javier-g-fontanet": [ "Javier G. Fontanet" ]
 ,
+  "daniel-g-forchetti": [ "Daniel G. Forchetti", "Daniel Forchetti", "D. G. Forchetti" ]
+,
+  "jason-j-ford": [ "Jason J. Ford" ]
+,
   "paolo-forni": [ "Paolo Forni" ]
 ,
-  "enric-fossas": [ "Enric Fossas" ]
+  "enric-fossas": [ "Enric Fossas", "E. Fossas" ]
 ,
   "olav-bjarte-fosso": [ "Olav Bjarte Fosso", "Olav B. Fosso" ]
 ,
@@ -729,49 +1111,97 @@
 ,
   "andreas-frommer": [ "Andreas Frommer" ]
 ,
-  "kenji-fujimoto": [ "Kenji Fujimoto", "K. Fujimoto" ]
+  "kenji-fujimoto": [ "Kenji Fujimoto", "K. Fujimoto", "K. Fujimoto", "Kenji Fujimoto" ]
 ,
   "marvin-fritz": [ "Marvin Fritz" ]
 ,
+  "baozeng-fu": [ "Baozeng Fu" ]
+,
+  "weizhen-fu": [ "Weizhen Fu" ]
+,
   "xi-fu": [ "Xi Fu" ]
+,
+  "xujie-fu": [ "Xujie Fu" ]
 ,
   "xikun-fu": [ "Xikun Fu" ]
 ,
+  "yang-fu": [ "Yang Fu" ]
+,
   "zao-fu": [ "Zao Fu" ]
+,
+  "kenji-fujimoto": [ "Kenji Fujimoto", "Kenji FUJIMOTO", "K. Fujimoto" ]
+,
+  "shuichi-fukunaga": [ "Shuichi FUKUNAGA" ]
 ,
   "d-v-fursa": [ "D.V. Fursa" ]
 ,
   "e-gagarina": [ "E. Gagarina" ]
 ,
-  "martha-galaz-larios": [ "Martha GALAZ-LARIOS" ]
+  "reinhard-gahleitner": [ "Reinhard Gahleitner" ]
+,
+  "martha-galaz-larios": [ "Martha GALAZ-LARIOS", "Martha Galaz" ]
 ,
   "aurelie-galfre": [ "Aurélie Galfré" ]
 ,
+  "gabriel-galindo": [ "Gabriel Galindo" ]
+,
   "j-clemente-gallardo": [ "J. Clemente-Gallardo" ]
+,
+  "mitesh-r-gandhi": [ "Mitesh R. Gandhi" ]
+,
+  "chuanhou-gao": [ "Chuanhou Gao" ]
 ,
   "dong-gao": [ "Dong Gao" ]
 ,
-  "chuanhou-gao": [ "Chuanhou Gao" ]
+  "fei-gao": [ "Fei Gao" ]
 ,
   "lingchong-gao": [ "Lingchong Gao" ]
 ,
   "lu-gao": [ "Lu Gao" ]
 ,
+  "qian-gao": [ "Qian Gao" ]
+,
+  "qiang-gao": [ "Qiang Gao" ]
+,
+  "xiang-gao": [ "Xiang Gao" ]
+,
+  "xinci-gao": [ "Xinci Gao" ]
+,
   "xunkai-gao": [ "Xunkai Gao" ]
+,
+  "yan-gao": [ "Yan Gao" ]
 ,
   "yunbo-gao": [ "Yunbo Gao" ]
 ,
+  "zhengyu-gao": [ "Zhengyu Gao" ]
+,
   "dhaou-garai": [ "Dhaou Garai" ]
 ,
-  "alejandro-garces-ruiz": [ "Alejandro Garcés-Ruiz", "Alejandro Garcés Ruiz", "Alejandro Garcés", "Alejandro Garces" ]
+  "alejandro-garces-ruiz": [ "Alejandro Garcés-Ruíz", "Alejandro Garcés Ruiz", "Alejandro Garcés", "Alejandro Garces", "A. Garces", "Alejandro Garcés-Ruiz" ]
 ,
-  "eloisa-garcia-canseco": [ "Eloísa García-Canseco" ]
+  "efrain-alcorta-garcia": [ "Efrain Alcorta Garcia" ]
+,
+  "g-o-garcia": [ "G. O. Garcia" ]
+,
+  "maria-aracelia-alcorta-garcia": [ "Maria Aracelia Alcorta Garcia" ]
+,
+  "marina-garcia": [ "Marina Garcia" ]
+,
+  "y-garcia": [ "Y. Garcia" ]
+,
+  "eloisa-garcia-canseco": [ "Eloísa García-Canseco", "E. Garcia-Canseco", "Eloísa Garcia–Canseco" ]
+,
+  "juan-jose-garcia-ripoll": [ "Juan José García-Ripoll" ]
 ,
   "j-paulo-garcia-sandoval": [ "J. Paulo García-Sandoval", "J.P. García-Sandoval" ]
+,
+  "camilo-garcia-tenorio": [ "Camilo Garcia-Tenorio" ]
 ,
   "victor-manuel-garrido": [ "Victor Manuel Garrido" ]
 ,
   "arnau-garriga-casanovas": [ "Arnau Garriga-Casanovas", "Arnau Garriga Casanovas", "A. Garriga Casanovas" ]
+,
+  "j-y-gauthier": [ "J.-Y. Gauthier" ]
 ,
   "roghayeh-gavagsaz-ghoachani": [ "Roghayeh Gavagsaz-Ghoachani" ]
 ,
@@ -779,7 +1209,13 @@
 ,
   "francois-gay-balmaz": [ "François Gay-Balmaz", "F. Gay-Balmaz" ]
 ,
+  "wenjie-ge": [ "Wenjie Ge" ]
+,
+  "zhikang-ge": [ "Zhikang Ge" ]
+,
   "yuwei-geng": [ "Yuwei Geng" ]
+,
+  "zhaozhao-geng": [ "Zhaozhao Geng" ]
 ,
   "denis-genon-catalot": [ "Denis Genon-Catalot", "D. Genon-Catalot" ]
 ,
@@ -787,11 +1223,15 @@
 ,
   "thibault-geoffroy": [ "Thibault Geoffroy" ]
 ,
+  "milad-geravand": [ "Milad Geravand" ]
+,
   "hannes-gernandt": [ "Hannes Gernandt", "H. Gernandt" ]
 ,
   "m-gerritsma": [ "M. Gerritsma" ]
 ,
   "s-ghaemi": [ "S. Ghaemi" ]
+,
+  "malek-ghanes": [ "Malek Ghanes", "M. Ghanes" ]
 ,
   "chaima-ghanjati": [ "Chaima Ghanjati" ]
 ,
@@ -803,7 +1243,9 @@
 ,
   "j-gibart": [ "J. Gibart" ]
 ,
-  "frederik-gielnik": [ "Frederik Gielnik" ]
+  "frederik-gielnik": [ "Frederik Gielnik", "F. Gielnik" ]
+,
+  "javier-gimenez": [ "Javier Gimenez" ]
 ,
   "mark-girolami": [ "Mark Girolami" ]
 ,
@@ -811,7 +1253,7 @@
 ,
   "markus-giftthaler": [ "Markus Giftthaler" ]
 ,
-  "walter-julian-gil-gonzalez": [ "Walter Julián Gil González", "Walter Gil-González", "Walter Julian Gil-Gonzalez", "Walter Gil-Gonzalez", "Walter Gil–-González", "Walter Gil-Gonzale", "W. Gil-Gonzalez" ]
+  "walter-julian-gil-gonzalez": [ "Walter Julián Gil González", "Walter Gil-González", "Walter Julian Gil-Gonzalez", "Walter Gil-Gonzalez", "Walter Gil–-González", "Walter Gil-Gonzale", "W. Gil-Gonzalez", "Walter Julián Gil Gonzalez" ]
 ,
   "nicolas-gillis": [ "Nicolas Gillis" ]
 ,
@@ -819,11 +1261,27 @@
 ,
   "mohsen-gitizadeh": [ "Mohsen Gitizadeh" ]
 ,
+  "alvaro-giusto": [ "Alvaro Giusto" ]
+,
+  "edoardo-giusto": [ "Edoardo Giusto" ]
+,
+  "s-torkel-glad": [ "S. Torkel Glad" ]
+,
+  "d-h-glass": [ "D H Glass" ]
+,
   "jochen-gluck": [ "Jochen Glück" ]
+,
+  "isuru-s-godage": [ "Isuru S. Godage" ]
 ,
   "emmanuel-godoy": [ "Emmanuel Godoy" ]
 ,
+  "homayon-soltani-gohari": [ "Homayon Soltani Gohari" ]
+,
+  "p-goldsmith": [ "P. Goldsmith" ]
+,
   "goran-golo": [ "Goran Golo", "G. Golo" ]
+,
+  "ihor-golovach": [ "Ihor Golovach" ]
 ,
   "julien-gomand": [ "Julien Gomand" ]
 ,
@@ -837,9 +1295,15 @@
 ,
   "o-gonzalez": [ "O. Gonzalez" ]
 ,
+  "mario-arturo-gonzalez-garcia": [ "Mario Arturo Gonzalez-Garcia" ]
+,
+  "barun-gorain": [ "Barun Gorain" ]
+,
   "marco-a-gordon": [ "Marco A. Gordon" ]
 ,
   "yann-le-gorrec": [ "Yann Le Gorrec", "Y. Le Gorrec", "Le Gorrec Yann", "Yann Le Gorec", "Y. Legorrec" ]
+,
+  "h-p-goswami": [ "H P Goswami" ]
 ,
   "hitoshi-gotoh": [ "Hitoshi Gotoh" ]
 ,
@@ -847,37 +1311,63 @@
 ,
   "hanno-gottschalk": [ "Hanno Gottschalk" ]
 ,
+  "andreas-w-gotz": [ "Andreas W. Götz" ]
+,
   "yves-gourinat": [ "Yves Gourinat" ]
 ,
   "thavamani-govindaraj": [ "Thavamani Govindaraj" ]
 ,
   "pawan-goyal": [ "Pawan Goyal" ]
 ,
+  "g-grabmair": [ "G. Grabmair" ]
+,
   "katarzyna-grabowska": [ "Katarzyna Grabowska", "K. Grabowska" ]
 ,
   "janusz-grabowski": [ "Janusz Grabowski", "J. Grabowski" ]
 ,
+  "christian-granados-salazar": [ "Christian Granados-Salazar", "C. Granados-Salazar", "Christian Granados‐Salazar" ]
+,
   "lena-granhag": [ "Lena Granhag" ]
+,
+  "yakov-greenberg": [ "Yakov Greenberg" ]
+,
+  "a-berin-greeni": [ "A. Berin Greeni" ]
+,
+  "robert-d-gregg": [ "Robert D. Gregg" ]
 ,
   "ing-marie-gren": [ "Ing-Marie Gren" ]
 ,
   "james-l-gresham": [ "James L. Gresham" ]
 ,
-  "robert-grino": [ "Robert Grino" ]
+  "robert-grino": [ "Robert Griñó", "Robert Grino" ]
+,
+  "stefano-grivet-talocia": [ "Stefano Grivet-Talocia", "S. Grivet-Talocia" ]
 ,
   "dmitry-gromov": [ "Dmitry Gromov" ]
 ,
-  "stefan-s-groothuis": [ "Stefan S. Groothuis" ]
+  "stefan-s-groothuis": [ "Stefan S. Groothuis", "S.S. Groothuis" ]
 ,
   "dominic-gross": [ "Dominic Groß" ]
 ,
+  "sara-grundel": [ "Sara Grundel" ]
+,
+  "haiwang-gu": [ "Haiwang Gu" ]
+,
+  "j-gu": [ "J. Gu" ]
+,
   "wei-gu": [ "Wei Gu" ]
+,
+  "yu-gu": [ "Yu Gu" ]
+,
+  "lin-guan": [ "Lin Guan" ]
 ,
   "xin-guan": [ "Xin Guan" ]
 ,
   "xinping-guan": [ "Xinping Guan" ]
 ,
   "ma-guangfu": [ "MA GuangFu" ]
+,
+  "m-guay": [ "M. Guay" ]
 ,
   "candan-guducu": [ "Candan Güdücü" ]
 ,
@@ -887,21 +1377,39 @@
 ,
   "nicola-guglielmi": [ "Nicola Guglielmi" ]
 ,
+  "yonghao-gui": [ "Yonghao Gui", "null Yonghao Gui" ]
+,
   "damien-guilbert": [ "Damien Guilbert" ]
 ,
   "maria-guinaldo": [ "María Guinaldo" ]
 ,
-  "michael-gunther": [ "Michael Günther" ]
+  "xu-guizhi": [ "Xu Guizhi", "null Xu Guizhi" ]
+,
+  "michael-gunther": [ "Michael Günther", "M. Günther" ]
 ,
   "dongsheng-guo": [ "Dongsheng Guo" ]
+,
+  "lei-guo": [ "Lei Guo" ]
 ,
   "qi-guo": [ "Qi Guo" ]
 ,
   "qingkun-guo": [ "Qingkun Guo" ]
 ,
+  "rongwei-guo": [ "Rongwei Guo" ]
+,
+  "shengjie-guo": [ "Shengjie Guo" ]
+,
+  "xiaojun-guo": [ "Xiaojun Guo", "null Xiaojun Guo" ]
+,
+  "yan-nan-guo": [ "Yan-Nan Guo" ]
+,
   "yunxi-guo": [ "Yunxi Guo" ]
 ,
-  "sriram-karthik-gurumurthy": [ "Sriram Karthik Gurumurthy" ]
+  "yuqian-guo": [ "Yuqian Guo", "null Yuqian Guo" ]
+,
+  "sriram-karthik-gurumurthy": [ "Sriram Karthik Gurumurthy", "Sriram K. Gurumurthy" ]
+,
+  "b-gustavsen": [ "B. Gustavsen" ]
 ,
   "hoang-ngoc-ha": [ "Hoang Ngoc Ha" ]
 ,
@@ -909,19 +1417,29 @@
 ,
   "oliver-habrich": [ "Oliver Habrich", "O. Habrich" ]
 ,
-  "wassim-m-haddad": [ "Wassim M. Haddad" ]
+  "nahla-khraief-haddad": [ "Nahla Khraief Haddad" ]
+,
+  "wassim-m-haddad": [ "Wassim M. Haddad", "W.M. Haddad" ]
 ,
   "sillas-hadjiloucas": [ "Sillas Hadjiloucas" ]
+,
+  "n-f-a-a-hafidz": [ "N. F. A. A. Hafidz" ]
 ,
   "ghislain-haine": [ "Ghislain Haine", "Ghilslain Haine" ]
 ,
   "ernst-hairer": [ "Ernst Hairer" ]
 ,
+  "dipendu-halder": [ "Dipendu Halder" ]
+,
   "frederic-enrico-haller": [ "Frédéric Enrico Haller", "Frédéric E. Haller", "F.E. Haller" ]
+,
+  "djawad-hamache": [ "Djawad Hamache" ]
 ,
   "kiyoshi-hamada": [ "Kiyoshi Hamada" ]
 ,
   "a-hamdouni": [ "A. Hamdouni" ]
+,
+  "n-hamilton": [ "N. Hamilton" ]
 ,
   "amal-hammoud": [ "Amal Hammoud" ]
 ,
@@ -931,6 +1449,12 @@
 ,
   "peng-han": [ "Peng Han" ]
 ,
+  "yaozhen-han": [ "Yaozhen Han" ]
+,
+  "ye-han": [ "Ye Han" ]
+,
+  "zhijie-han": [ "Zhijie Han" ]
+,
   "zhongjie-han": [ "Zhongjie Han" ]
 ,
   "lina-hao": [ "Lina Hao" ]
@@ -938,6 +1462,8 @@
   "sheng-hao": [ "Sheng Hao" ]
 ,
   "wenkang-hao": [ "Wenkang Hao" ]
+,
+  "s-hara": [ "S. Hara" ]
 ,
   "rafika-el-harabi": [ "Rafika El Harabi" ]
 ,
@@ -947,13 +1473,21 @@
 ,
   "christian-harkort": [ "Christian Harkort" ]
 ,
+  "h-w-van-der-hart": [ "H W van der Hart" ]
+,
+  "saeid-aghaei-hashjin": [ "Saeid Aghaei Hashjin" ]
+,
   "anthony-hastir": [ "Anthony Hastir" ]
 ,
   "shunsuke-hattori": [ "Shunsuke Hattori" ]
 ,
-  "sarah-alexa-hauschild": [ "Sarah-Alexa Hauschild" ]
+  "sarah-alexa-hauschild": [ "Sarah-Alexa Hauschild", "Sarah‐Alexa Hauschild" ]
+,
+  "yoshikazu-hayakawa": [ "Yoshikazu HAYAKAWA", "Y. Hayakawa" ]
 ,
   "vincent-hayward": [ "Vincent Hayward" ]
+,
+  "jianming-he": [ "Jianming He" ]
 ,
   "liang-he": [ "Liang He" ]
 ,
@@ -966,6 +1500,10 @@
   "yong-he": [ "Yong He" ]
 ,
   "zhengyou-he": [ "Zhengyou He" ]
+,
+  "zhihao-he": [ "Zhihao He" ]
+,
+  "malida-o-hecht": [ "Malida O. Hecht" ]
 ,
   "p-heer": [ "P. Heer" ]
 ,
@@ -987,25 +1525,61 @@
 ,
   "michael-hernandez-gomez": [ "Michael Hernandez-Gomez" ]
 ,
+  "daniel-herrera": [ "Daniel Herrera" ]
+,
+  "a-herrera-orozco": [ "A. Herrera-Orozco" ]
+,
   "jan-s-hesthaven": [ "Jan S. Hesthaven" ]
+,
+  "afef-hfaiedh": [ "Afef Hfaiedh" ]
+,
+  "hamiani-hichem": [ "Hamiani Hichem" ]
 ,
   "dorothea-hinsen": [ "Dorothea Hinsen" ]
 ,
   "sandra-hirche": [ "Sandra Hirche" ]
 ,
+  "takashi-hikihara": [ "Takashi Hikihara" ]
+,
+  "christian-himpe": [ "Christian Himpe" ]
+,
+  "hayato-hirai": [ "Hayato Hirai" ]
+,
   "marcus-ho": [ "Marcus Ho" ]
 ,
   "h-hoang": [ "H. Hoang" ]
 ,
-  "ngoc-ha-hoang": [ "Ngoc Ha Hoang", "N. Ha Hoang", "N.H. Hoang" ]
+  "ngoc-ha-hoang": [ "Ngoc Ha Hoang", "N. Ha Hoang", "N.H. Hoang", "Ha Ngoc Hoang", "null Ngoc-Ha Hoang" ]
 ,
   "simon-hochgerner": [ "Simon Hochgerner" ]
 ,
-  "soren-hohmann": [ "Sören Hohmann", "Soren Hohmann" ]
+  "k-hoffner": [ "K. Hoffner" ]
+,
+  "felix-hofmann": [ "Felix Hofmann" ]
+,
+  "soren-hohmann": [ "Sören Hohmann", "Soren Hohmann", "S. Hohmann" ]
+,
+  "shinji-hokamoto": [ "Shinji Hokamoto" ]
 ,
   "mohamadreza-homayounzade": [ "Mohamadreza Homayounzade" ]
 ,
   "jeremy-w-hopwood": [ "Jeremy W. Hopwood" ]
+,
+  "koh-hosoda": [ "Koh Hosoda", "Koh HOSODA" ]
+,
+  "jun-hou": [ "Jun Hou", "null Jun Hou" ]
+,
+  "lijun-hou": [ "Lijun Hou" ]
+,
+  "limin-hou": [ "Limin Hou" ]
+,
+  "rui-hou": [ "Rui Hou" ]
+,
+  "xiaorong-hou": [ "Xiaorong Hou" ]
+,
+  "yuan-long-hou": [ "Yuan-long Hou", "Yuanlong Hou"  ]
+,
+  "azeddine-houari": [ "Azeddine Houari", "A. Houari" ]
 ,
   "josef-hrusak": [ "Josef Hrusak" ]
 ,
@@ -1013,31 +1587,77 @@
 ,
   "haitao-hu": [ "Haitao Hu" ]
 ,
+  "jing-lan-hu": [ "Jing-Lan Hu", "Jing-Lan 菁兰 Hu 胡" ]
+,
+  "qingwei-hu": [ "Qingwei Hu" ]
+,
+  "qingyi-hu": [ "Qingyi Hu" ]
+,
+  "wei-hu": [ "Wei Hu" ]
+,
   "weiwei-hu": [ "Weiwei Hu" ]
+,
+  "xiaoming-hu": [ "Xiaoming Hu" ]
+,
+  "xinxuan-hu": [ "Xinxuan Hu" ]
 ,
   "yihua-hu": [ "Yihua Hu" ]
 ,
+  "yinlong-hu": [ "Yinlong Hu" ]
+,
+  "zhili-hua": [ "Zhili Hua" ]
+,
+  "alex-s-huaman": [ "Alex S. Huaman" ]
+,
+  "bowen-huang": [ "Bowen Huang" ]
+,
+  "chao-huang": [ "Chao Huang", "null Chao Huang" ]
+,
   "deqing-huang": [ "Deqing Huang" ]
 ,
+  "guoxing-huang": [ "Guoxing Huang" ]
+,
+  "hong-huang": [ "Hong Huang", "null Hong Huang" ]
+,
+  "jiawei-huang": [ "Jiawei Huang" ]
+,
+  "jin-song-huang": [ "Jin-Song Huang", "Jin-Song 劲松 Huang 黄" ]
+,
   "meng-huang": [ "Meng Huang" ]
+,
+  "min-huang": [ "Min Huang" ]
 ,
   "tao-huang": [ "Tao Huang" ]
 ,
   "xiaojin-huang": [ "Xiaojin Huang" ]
 ,
+  "yanwei-huang": [ "Yanwei Huang" ]
+,
   "yao-huang": [ "Yao Huang" ]
+,
+  "yuancan-huang": [ "Yuancan Huang" ]
 ,
   "yigeng-huangfu": [ "Yigeng Huangfu" ]
 ,
+  "arnaud-hubert": [ "Arnaud Hubert", "A. Hubert" ]
+,
   "nicolas-hudon": [ "Nicolas Hudon", "N. Hudon" ]
+,
+  "qing-hui": [ "Qing Hui", "null Qing Hui" ]
+,
+  "liu-huijin": [ "Liu Huijin", "null Liu Huijin" ]
 ,
   "jukka-pekka-humaloja": [ "Jukka-Pekka Humaloja" ]
 ,
   "peter-j-hunter": [ "Peter J. Hunter" ]
 ,
+  "benyan-huo": [ "Benyan Huo" ]
+,
   "mohd-azlan-hussain": [ "Mohd Azlan Hussain", "Mohd Azlan Bin Hussain", "M. Azlan Hussain", "M.A. Hussain", "Mohd Azlan Hussain" ]
 ,
   "coen-hutters": [ "Coen Hutters" ]
+,
+  "seungtaek-hwang": [ "Seungtaek Hwang", "null Seungtaek Hwang" ]
 ,
   "laura-iapichino": [ "Laura Iapichino", "L. Iapichino" ]
 ,
@@ -1045,15 +1665,41 @@
 ,
   "o-v-iftime": [ "O.V. Iftime" ]
 ,
+  "hidetoshi-ikeda": [ "Hidetoshi Ikeda", "Hidetoshi IKEDA" ]
+,
   "ryojun-ikeura": [ "Ryojun Ikeura" ]
 ,
   "achim-ilchmann": [ "Achim Ilchmann" ]
 ,
+  "arbaoui-iliace": [ "Arbaoui Iliace" ]
+,
+  "evgeni-il-ichev": [ "Evgeni Il’ichev" ]
+,
+  "yasuhiro-imagawa": [ "Yasuhiro Imagawa" ]
+,
+  "hossein-iman-eini": [ "Hossein Iman-Eini" ]
+,
+  "paul-immanuel": [ "Paul Immanuel" ]
+,
+  "j-i-imura": [ "J.-I. Imura" ]
+,
   "daniel-ioan": [ "Daniel Ioan" ]
 ,
-  "tudor-c-ionescu": [ "Tudor C. Ionescu", "Tudor Ionescu" ]
+  "hayato-inoue": [ "Hayato INOUE" ]
+,
+  "tudor-c-ionescu": [ "Tudor C. Ionescu", "Tudor Ionescu", "T. C. Ionescu" ]
+,
+  "m-m-namazi-isfahani": [ "M.M. Namazi Isfahani" ]
+,
+  "m-ishikawa": [ "M. Ishikawa" ]
 ,
   "kazufumi-ito": [ "Kazufumi Ito" ]
+,
+  "toshihiro-iwai": [ "Toshihiro Iwai" ]
+,
+  "yuki-iwamoto": [ "Yuki IWAMOTO" ]
+,
+  "sowmya-j": [ "Sowmya J" ]
 ,
   "ali-jaafar": [ "Ali Jaafar" ]
 ,
@@ -1067,45 +1713,89 @@
 ,
   "pankaj-jagad": [ "Pankaj Jagad" ]
 ,
+  "praveen-jain": [ "Praveen Jain" ]
+,
   "c-jallut": [ "C. Jallut" ]
 ,
   "mohammad-yaghoub-abdollahzadeh-jamalabadi": [ "Mohammad Yaghoub Abdollahzadeh Jamalabadi" ]
 ,
   "mahmood-jamali": [ "Mahmood Jamali" ]
 ,
+  "hanifah-jambari": [ "Hanifah Jambari" ]
+,
+  "ikhyeon-jang": [ "Ikhyeon Jang", "null Ikhyeon Jang" ]
+,
+  "hans-karl-janssen": [ "Hans-Karl Janssen" ]
+,
   "audrey-jardin": [ "Audrey Jardin" ]
 ,
   "h-jardon-kojakhmetov": [ "H. Jardón-Kojakhmetov" ]
 ,
-  "jens-jaschke": [ "Jens Jäschke" ]
+  "jens-jaschke": [ "Jens Jäschke", "J. Jäschke" ]
 ,
   "najmeh-javanmardi": [ "Najmeh Javanmardi", "N. Javanmardi" ]
+,
+  "pramod-jayaram": [ "Pramod Jayaram" ]
 ,
   "bayu-jayawardhana": [ "Bayu Jayawardhana", "B. Jayawardhana" ]
 ,
   "dimitri-jeltsema": [ "Dimitri Jeltsema", "D. Jeltsema" ]
 ,
+  "david-jennifer": [ "David Jennifer", "null David Jennifer" ]
+,
+  "igor-jex": [ "Igor Jex" ]
+,
+  "chuan-ji": [ "Chuan Ji" ]
+,
   "feng-ji": [ "Feng Ji" ]
+,
+  "ning-ji": [ "Ning Ji" ]
+,
+  "tianyao-ji": [ "Tianyao Ji" ]
+,
+  "xingmin-ji": [ "Xingmin Ji" ]
+,
+  "xiaohua-jia": [ "Xiaohua Jia" ]
+,
+  "xin-chun-jia": [ "Xin-Chun Jia" ]
 ,
   "zehua-jia": [ "Zehua Jia" ]
 ,
   "chaolong-jiang": [ "Chaolong Jiang" ]
 ,
+  "huilue-jiang": [ "Huilue Jiang" ]
+,
+  "ping-jiang": [ "Ping Jiang" ]
+,
+  "qingcai-jiang": [ "Qingcai Jiang" ]
+,
   "yaolin-jiang": [ "Yaolin Jiang", "Yao‐Lin Jiang", "Yao-Lin Jiang" ]
+,
+  "yumeng-jiang": [ "Yumeng Jiang" ]
 ,
   "tom-z-jiahao": [ "Tom Z. Jiahao" ]
 ,
+  "liucheng-jiao": [ "Liucheng Jiao" ]
+,
   "ran-jiao": [ "Ran Jiao" ]
+,
+  "shizhe-jiao": [ "Shizhe Jiao" ]
 ,
   "mei-jie": [ "MEI Jie" ]
 ,
   "fernando-jimenez": [ "Fernando Jiménez" ]
 ,
+  "bingyi-jin": [ "Bingyi Jin" ]
+,
   "lina-jin": [ "Lina Jin" ]
+,
+  "xu-jin": [ "Xu Jin" ]
 ,
   "chai-jingxuan": [ "CHAI JingXuan" ]
 ,
   "m-jochum": [ "M. Jochum" ]
+,
+  "philipp-joebges": [ "Philipp Joebges" ]
 ,
   "lars-johanning": [ "Lars Johanning" ]
 ,
@@ -1113,7 +1803,9 @@
 ,
   "c-n-jones": [ "C.N. Jones" ]
 ,
-  "steven-de-jongh": [ "Steven de Jongh" ]
+  "steven-de-jongh": [ "Steven de Jongh", "S. de Jongh" ]
+,
+  "henning-joos": [ "Henning Joos" ]
 ,
   "lili-ju": [ "Lili Ju" ]
 ,
@@ -1121,17 +1813,45 @@
 ,
   "zhaojie-ju": [ "Zhaojie Ju" ]
 ,
-  "sergio-junco": [ "Sergio Junco" ]
+  "qiu-jun": [ "Qiu Jun" ]
+,
+  "du-juan": [ "Du Juan", "null Du Juan" ]
+,
+  "sergio-junco": [ "Sergio Junco", "S. J. Junco" ]
+,
+  "annika-junker": [ "Annika Junker" ]
+,
+  "jung-sing-jwo": [ "Jung-Sing Jwo", "null Jung-Sing Jwo" ]
+,
+  "chaiyut-kaewprapha": [ "Chaiyut Kaewprapha" ]
 ,
   "moise-mukepe-kahilu": [ "Moïse Mukepe Kahilu" ]
 ,
+  "karsten-kahl": [ "Karsten Kahl" ]
+,
   "julia-t-kaiser": [ "Julia T. Kaiser" ]
 ,
+  "hideo-kajiura": [ "Hideo Kajiura" ]
+,
+  "mohsen-kalantar": [ "Mohsen Kalantar" ]
+,
   "bjorn-kallstrom": [ "Björn Källström" ]
+,
+  "s-kalliadasis": [ "S. Kalliadasis" ]
+,
+  "salah-kamel": [ "Salah Kamel" ]
+,
+  "g-kamieniarz": [ "G. Kamieniarz" ]
 ,
   "chung-yao-kao": [ "Chung-Yao Kao", "C.-Y. Kao" ]
 ,
   "vadim-kaparin": [ "Vadim Kaparin" ]
+,
+  "i-n-kar": [ "I. N. Kar" ]
+,
+  "charif-karimi": [ "Charif Karimi" ]
+,
+  "mahsa-karimi": [ "Mahsa Karimi", "M. Karimi" ]
 ,
   "bryan-karney": [ "Bryan Karney" ]
 ,
@@ -1149,7 +1869,13 @@
 ,
   "jacques-kadima-kazaku": [ "Jacques Kadima Kazaku" ]
 ,
+  "s-karthikeyan-s": [ "S. Karthikeyan", "Karthikeyan S." ]
+,
   "christina-kazantzidou": [ "Christina Kazantzidou" ]
+,
+  "faruk-kazi": [ "Faruk Kazi" ]
+,
+  "zhiwu-ke": [ "Zhiwu Ke" ]
 ,
   "atul-kelkar": [ "Atul Kelkar" ]
 ,
@@ -1159,15 +1885,23 @@
 ,
   "r-kengne": [ "R. Kengne" ]
 ,
+  "justin-m-kennedy": [ "Justin M. Kennedy" ]
+,
   "tan-chee-keong": [ "Tan Chee Keong" ]
 ,
   "t-keviczky": [ "T. Keviczky" ]
 ,
-  "s-v-khade": [ "S.V. Khade" ]
+  "shubhangi-khade": [ "Shubhangi Khade", "S.V. Khade" ]
 ,
   "s-ahmad-khalilpour": [ "S. Ahmad Khalilpour" ]
 ,
+  "mostafa-m-a-khater": [ "Mostafa M. A. Khater" ]
+,
   "abbas-khayyer": [ "Abbas Khayyer" ]
+,
+  "nidhal-khefifi": [ "N. Khefifi", "Nidhal Khefifi" ]
+,
+  "surin-khomfoi": [ "Surin Khomfoi" ]
 ,
   "madjid-kidouche": [ "Madjid Kidouche" ]
 ,
@@ -1175,7 +1909,15 @@
 ,
   "alexander-kilian": [ "Alexander Kilian" ]
 ,
+  "chunghun-kim": [ "Chunghun Kim", "null Chunghun Kim" ]
+,
+  "hak-man-kim": [ "Hak-Man Kim" ]
+,
   "hwan-seong-kim": [ "Hwan-Seong Kim" ]
+,
+  "hyun-gon-kim": [ "Hyun Gon Kim", "null Hyun Gon Kim" ]
+,
+  "jinsoo-kim": [ "Jinsoo Kim", "null Jinsoo Kim" ]
 ,
   "kyung-eung-kim": [ "Kyung-Eung Kim" ]
 ,
@@ -1185,11 +1927,15 @@
 ,
   "jonas-kirchhoff": [ "Jonas Kirchhoff" ]
 ,
+  "kathrin-klamroth": [ "Kathrin Klamroth" ]
+,
   "michael-kleeberger": [ "Michael Kleeberger" ]
 ,
   "johan-de-kleer": [ "Johan de Kleer" ]
 ,
   "d-klis": [ "D. Klis" ]
+,
+  "tobias-kloiber": [ "Tobias Kloiber" ]
 ,
   "steffi-knorn": [ "Steffi Knorn" ]
 ,
@@ -1198,6 +1944,8 @@
   "luuk-groot-koerkamp": [ "Luuk Groot Koerkamp" ]
 ,
   "chiaki-kojima": [ "Chiaki Kojima" ]
+,
+  "ryota-kokubo": [ "Ryota KOKUBO" ]
 ,
   "bernd-kolar": [ "Bernd Kolar" ]
 ,
@@ -1211,11 +1959,15 @@
 ,
   "andrew-komech": [ "Andrew Komech" ]
 ,
+  "atsuhiro-kondo": [ "Atsuhiro Kondo" ]
+,
   "le-kong": [ "Le Kong" ]
 ,
   "johan-koopman": [ "Johan Koopman" ]
 ,
   "anton-korniienko": [ "Anton Korniienko" ]
+,
+  "axel-koslowski": [ "Axel Koslowski" ]
 ,
   "krishna-chaitanya-kosaraju": [ "Krishna Chaitanya Kosaraju", "Krishna C. Kosaraju" ]
 ,
@@ -1237,11 +1989,15 @@
 ,
   "thomas-kruse": [ "Thomas Kruse" ]
 ,
+  "l-kucharski": [ "Ł. Kucharski" ]
+,
   "peter-kuchling": [ "Peter Kuchling" ]
 ,
-  "andreas-kugi": [ "Andreas Kugi" ]
+  "andreas-kugi": [ "Andreas Kugi", "A. Kugi" ]
 ,
   "t-kugler": [ "T. Kugler" ]
+,
+  "sun-kui": [ "Sun Kui" ]
 ,
   "poom-kumam": [ "Poom Kumam" ]
 ,
@@ -1249,15 +2005,23 @@
 ,
   "nishant-kumar": [ "Nishant Kumar", "N. Kumar" ]
 ,
+  "sandeep-kumar": [ "Sandeep Kumar" ]
+,
   "peter-kunkel": [ "Peter Kunkel" ]
 ,
   "t-kunkel": [ "T Kunkel" ]
 ,
   "julian-kunze": [ "Julian Kunze" ]
 ,
+  "martin-kupper": [ "Martin Kupper" ]
+,
+  "kenta-kuriyama": [ "Kenta KURIYAMA" ]
+,
   "mikael-kurula": [ "Mikael Kurula" ]
 ,
   "badam-singh-kushvah": [ "Badam Singh Kushvah" ]
+,
+  "zeev-kustanovich": [ "Zeev Kustanovich" ]
 ,
   "david-c-kutner": [ "David C. Kutner" ]
 ,
@@ -1265,7 +2029,9 @@
 ,
   "ryo-kuzuno": [ "Ryo Kuzuno" ]
 ,
-  "rostyslav-ivan-kuzyk": [ "Rostyslav-Ivan Kuzyk" ]
+  "rostyslav-ivan-kuzyk": [ "Rostyslav-Ivan Kuzyk", "Rostyslav-Ivan V. Kuzyk" ]
+,
+  "younggeun-kwon": [ "Younggeun Kwon", "null Younggeun Kwon" ]
 ,
   "irene-kyza": [ "Irene Kyza" ]
 ,
@@ -1273,17 +2039,41 @@
 ,
   "hafida-laasri": [ "Hafida Laasri" ]
 ,
+  "aman-lachapelle": [ "Aman LaChapelle" ]
+,
+  "chih-ming-lai": [ "Chih-Ming Lai", "null Chih-Ming Lai" ]
+,
+  "jinmu-lai": [ "Jinmu Lai" ]
+,
+  "li-lai": [ "Li Lai" ]
+,
   "shaoyong-lai": [ "Shaoyong Lai" ]
+,
+  "dina-shona-laila": [ "Dina Shona Laila" ]
+,
+  "k-lakshmi": [ "K. Lakshmi", "Lakshmi K." ]
+,
+  "n-lakshminarasamma": [ "N. Lakshminarasamma" , "Lakshminarasamma N" ]
 ,
   "francoise-lamnabhi-lagarrigue": [ "Françoise Lamnabhi-Lagarrigue" ]
 ,
-  "francois-lamoline": [ "François Lamoline", "Francois Lamoline" ]
+  "francois-lamoline": [ "François Lamoline", "F. Lamoline", "Francois Lamoline" ]
+,
+  "qixun-lan": [ "Qixun Lan" ]
 ,
   "manuel-lanchares": [ "Manuel Lanchares" ]
+,
+  "bruno-lang": [ "Bruno Lang" ]
+,
+  "martin-birkelund-larsen": [ "Martin Birkelund Larsen" ]
 ,
   "sylvain-lassarre": [ "Sylvain Lassarre" ]
 ,
   "corrado-lattanzio": [ "Corrado Lattanzio" ]
+,
+  "zsolt-lattmann": [ "Zsolt Lattmann" ]
+,
+  "quyen-phuong-le": [ "Quyen Phuong Le" ]
 ,
   "t-k-p-le": [ "T.K.P. Le" ]
 ,
@@ -1291,7 +2081,13 @@
 ,
   "tristan-lebrun": [ "Tristan Lebrun" ]
 ,
+  "nicolas-lechevin": [ "Nicolas Léchevin", "Nicolas Lechevin" ]
+,
   "d-lee": [ "D. Lee" ]
+,
+  "gil-ha-lee": [ "Gil Ha Lee" ]
+,
+  "seung-ju-lee": [ "Seung-Ju Lee", "Seung‐Ju Lee" ]
 ,
   "tong-heng-lee": [ "Tong Heng Lee" ]
 ,
@@ -1299,9 +2095,17 @@
 ,
   "pierre-lefranc": [ "Pierre Lefranc" ]
 ,
-  "thomas-leibfried": [ "Thomas Leibfried" ]
+  "bangjun-lei": [ "Bangjun Lei" ]
+,
+  "jiaxing-lei": [ "Jiaxing Lei" ]
+,
+  "yong-lei": [ "Yong Lei" ]
+,
+  "thomas-leibfried": [ "Thomas Leibfried", "T. Leibfried" ]
 ,
   "arnaud-leleve": [ "Arnaud Lelevé" ]
+,
+  "r-lemanski": [ "R. Lemański" ]
 ,
   "melvin-leok": [ "Melvin Leok" ]
 ,
@@ -1311,23 +2115,61 @@
 ,
   "yoash-levron": [ "Yoash Levron" ]
 ,
+  "miguel-levy": [ "Miguel Levy" ]
+,
   "d-lewis": [ "D. Lewis" ]
+,
+  "frank-l-lewis": [ "Frank L. Lewis" ]
 ,
   "sigrid-leyendecker": [ "Sigrid Leyendecker" ]
 ,
   "bowen-li": [ "Bowen Li" ]
 ,
+  "changle-li": [ "Changle Li" ]
+,
+  "changsheng-li": [ "Changsheng Li", "Chang-Sheng LI" ]
+,
+  "chongtao-li": [ "Chongtao Li" ]
+,
+  "chunwen-li": [ "Chunwen Li", "null Chunwen Li" ]
+,
   "cuiran-li": [ "Cuiran Li" ]
+,
+  "feng-li": [ "Feng Li" ]
+,
+  "fuyun-li": [ "Fuyun Li" ]
+,
+  "hanfeng-li": [ "Hanfeng Li" ]
 ,
   "haochen-li": [ "Haochen Li" ]
 ,
   "haotian-li": [ "Haotian Li" ]
 ,
-  "jian-lin": [ "Jian Lin" ]
+  "haoyu-li": [ "Haoyu Li" ]
+,
+  "hong-li": [ "Hong Li" ]
+,
+  "huanhuan-li": [ "Huanhuan Li" ]
+,
+  "hui-li": [ "Hui Li" ]
+,
+  "hui-guang-li": [ "Hui-Guang Li", "Hui Guang Li" ]
+,
+  "huixuan-li": [ "Huixuan Li", "Huixuan LI" ]
+,
+  "jian-li": [ "Jian Li" ]
+,
+  "jianguo-li": [ "Jianguo Li" ]
+,
+  "jianyong-li": [ "Jianyong Li", "null Jianyong Li" ]
 ,
   "jie-li": [ "Jie Li" ]
 ,
+  "jing-li": [ "Jing Li" ]
+,
   "junyi-li": [ "Junyi Li" ]
+,
+  "ke-li": [ "Ke Li" ]
 ,
   "lei-li": [ "Lei Li" ]
 ,
@@ -1341,13 +2183,53 @@
 ,
   "peng-li": [ "Peng Li" ]
 ,
+  "ping-li": [ "Ping Li" ]
+,
+  "qiang-li": [ "Qiang Li" ]
+,
+  "qingkui-li": [ "Qingkui Li" ]
+,
+  "qiuming-li": [ "Qiuming Li" ]
+,
+  "shihua-li": [ "Shihua Li" ]
+,
+  "wanting-li": [ "Wanting Li" ]
+,
+  "wei-li": [ "Wei Li" ]
+,
+  "w-li": [ "W Li" ]
+,
+  "xiang-li": [ "Xiang Li" ]
+,
+  "xianling-li": [ "Xianling Li" ]
+,
+  "xiaodi-li": [ "Xiaodi Li" ]
+,
+  "xiaolin-li": [ "Xiaolin Li" ]
+,
+  "xiaopeng-li": [ "Xiaopeng Li" ]
+,
   "xilin-li": [ "Xilin Li" ]
+,
+  "xin-li": [ "Xin Li" ]
 ,
   "xinyu-li": [ "Xinyu Li" ]
 ,
+  "yan-li": [ "Yan Li" ]
+,
+  "yangman-li": [ "Yangman Li" ]
+,
   "yanjun-li": [ "Yanjun Li" ]
 ,
+  "yan-ling-li": [ "Yan-Ling Li", "Yan-Ling 艳玲 Li 李" ]
+,
   "yanpeng-li": [ "Yanpeng Li" ]
+,
+  "yong-li": [ "Yong Li" ]
+,
+  "yonggang-li": [ "Yonggang Li" ]
+,
+  "yongjing-li": [ "Yongjing Li" ]
 ,
   "zhongliang-li": [ "Zhongliang Li" ]
 ,
@@ -1358,6 +2240,10 @@
   "guo-liang": [ "Guo Liang" ]
 ,
   "wenyu-liang": [ "Wenyu Liang" ]
+,
+  "cai-liangcheng": [ "Cai Liangcheng" ]
+,
+  "shaolin-liao": [ "Shaolin Liao" ]
 ,
   "wenhu-liao": [ "Wenhu Liao" ]
 ,
@@ -1371,11 +2257,31 @@
 ,
   "connor-h-ligeikis": [ "Connor H. Ligeikis" ]
 ,
+  "pasi-liljeberg": [ "Pasi Liljeberg" ]
+,
   "bjorn-liljegren-sailer": [ "Björn Liljegren-Sailer", "B. Liljegren-Sailer" ]
 ,
   "chang-lin": [ "Chang Lin" ]
 ,
+  "gang-lin": [ "Gang Lin" ]
+,
   "hai-lin": [ "Hai Lin" ]
+,
+  "jian-lin": [ "Jian Lin" ]
+,
+  "jianping-lin": [ "Jianping Lin" ]
+,
+  "jingyang-lin": [ "Jingyang Lin" ]
+,
+  "tingjun-lin": [ "Tingjun Lin" ]
+,
+  "weiming-lin": [ "Weiming Lin", "null Weiming Lin" ]
+,
+  "xiaodong-lin": [ "Xiaodong Lin" ]
+,
+  "zongli-lin": [ "Zongli Lin" ]
+,
+  "xuefang-lin-shi": [ "Xuefang Lin-Shi", "X. Lin-Shi" ]
 ,
   "maria-barbero-linan": [ "María Barbero Liñán" ]
 ,
@@ -1385,17 +2291,39 @@
 ,
   "marek-lis": [ "Marek Lis" ]
 ,
+  "anxing-liu": [ "Anxing Liu" ]
+,
   "chang-liu": [ "Chang Liu" ]
 ,
   "chun-liu": [ "Chun Liu" ]
 ,
   "dongmei-liu": [ "Dongmei Liu" ]
 ,
+  "dongqing-liu": [ "Dongqing Liu" ]
+,
   "fei-liu": [ "Fei Liu" ]
+,
+  "feiwen-liu": [ "Feiwen Liu" ]
+,
+  "feng-liu": [ "Feng Liu" ]
+,
+  "guangjun-liu": [ "Guangjun Liu" ]
+,
+  "haifeng-liu": [ "Haifeng Liu" ]
 ,
   "hailin-liu": [ "Hailin Liu" ]
 ,
+  "hongpeng-liu": [ "Hongpeng Liu" ]
+,
+  "jia-liu": [ "Jia Liu" ]
+,
   "jianqiang-liu": [ "Jianqiang Liu" ]
+,
+  "jiayi-liu": [ "Jiayi Liu" ]
+,
+  "jiayan-liu": [ "Jiayan Liu" ]
+,
+  "jin-liu": [ "Jin Liu", "null Jin Liu" ]
 ,
   "jinguo-liu": [ "Jinguo Liu" ]
 ,
@@ -1403,23 +2331,47 @@
 ,
   "liu-liu": [ "Liu Liu" ]
 ,
+  "lu-liu": [ "Lu Liu" ]
+,
+  "meng-liu": [ "Meng Liu" ]
+,
   "ning-liu": [ "Ning Liu" ]
 ,
   "qihuai-liu": [ "Qihuai Liu" ]
 ,
+  "q-j-liu": [ "Q.J. Liu" ]
+,
+  "shan-liu": [ "Shan Liu" ]
+,
   "songyuan-liu": [ "Songyuan Liu" ]
+,
+  "steven-liu": [ "Steven Liu" ]
+,
+  "weiyang-liu": [ "Weiyang Liu" ]
 ,
   "xinggui-liu": [ "Xinggui Liu" ]
 ,
-  "yanhong-liu": [ "Yanhong Liu", "Yan‐Hong Liu" ]
+  "xudong-liu": [ "Xudong Liu", "null Xudong Liu" ]
 ,
-  "zhitao-liu": [ "Zhitao Liu" ]
+  "yanhong-liu": [ "Yanhong Liu", "Yan‐Hong Liu", "null Yanhong Liu" ]
 ,
   "yan-hong-liu": [ "Yan‐Hong Liu" ]
 ,
   "yanhui-liu": [ "Yanhui Liu" ]
 ,
-  "yun-hui-liu": [ "Yun-Hui Liu" ]
+  "yanling-liu": [ "Yanling Liu" ]
+,
+  "yi-lou-liu": [ "Yi-Lou Liu" ]
+,
+  "yongchao-liu": [ "Yongchao Liu" ]
+,
+  "yun-hui-liu": [ "Yun-Hui Liu", "Yunhui Liu" ]
+,
+  "yuntian-liu": [ "Yuntian Liu" ]
+,
+  "zhigang-liu": [ "Zhigang Liu" ]
+,
+  "zhitao-liu": [ "Zhitao Liu" ]
 ,
   "sam-livingstone": [ "Sam Livingstone" ]
 ,
@@ -1433,7 +2385,7 @@
 ,
   "yu-long": [ "Yu Long" ]
 ,
-  "gabriel-a-d-lopes": [ "Gabriel A. D. Lopes", "Gabriel A.D. Lopes", "G.A.D. Lopes" ]
+  "gabriel-a-d-lopes": [ "Gabriel A. D. Lopes", "Gabriel A.D. Lopes", "G.A.D. Lopes", "G. A. D. Lopes" ]
 ,
   "nicolas-lopes": [ "Nicolas Lopes", "N. Lopes" ]
 ,
@@ -1445,23 +2397,53 @@
 ,
   "michael-di-loreto": [ "Michael Di Loreto", "Michael Di-Loreto" ]
 ,
+  "saeed-lotfifard": [ "Saeed Lotfifard" ]
+,
   "haithem-louati": [ "Haithem Louati" ]
+,
+  "rogelio-lozano": [ "Rogelio Lozano" ]
 ,
   "d-lozienko": [ "D. Lozienko" ]
 ,
+  "bao-chun-lu": [ "Bao-chun Lu", "Baochun Lu" ]
+,
+  "dianchen-lu": [ "Dianchen Lu" ]
+,
   "hai-lu": [ "Hai Lu" ]
+,
+  "peixiang-lu": [ "Peixiang Lu" ]
+,
+  "qiang-lu": [ "Qiang Lu" ]
 ,
   "yufeng-lu": [ "Yufeng Lu" ]
 ,
+  "zhangyu-lu": [ "Zhangyu Lu" ]
+,
   "christian-lubich": [ "Christian Lubich" ]
+,
+  "alessandro-de-luca": [ "Alessandro De Luca" ]
 ,
   "enbo-luo": [ "Enbo Luo" ]
 ,
+  "guangzhao-luo": [ "Guangzhao Luo" ]
+,
   "xiaoyuan-luo": [ "Xiaoyuan Luo" ]
+,
+  "zhi-wei-luo": [ "Zhi-wei Luo", "Zhi Wei Luo", "null Zhi-wei Luo" ]
+,
+  "ciprian-lupu": [ "Ciprian Lupu" ]
 ,
   "chengxing-lv": [ "Chengxing Lv" ]
 ,
+  "ge-lv": [ "Ge Lv" ]
+,
   "jingshuo-lv": [ "Jingshuo Lv" ]
+,
+  "xingyu-lv": [ "Xingyu Lv" ]
+,
+  "dmitry-lyakhov": [ "Dmitry Lyakhov" ]
+,
+  "dazhong-ma": [ "Dazhong Ma" ]
 ,
   "haojun-ma": [ "Haojun Ma" ]
 ,
@@ -1471,7 +2453,15 @@
 ,
   "luke-ma": [ "Luke Ma" ]
 ,
+  "ruichao-ma": [ "Ruichao Ma" ]
+,
+  "xian-qin-ma": [ "Xian Qin Ma" ]
+,
+  "xiaoyu-ma": [ "Xiaoyu Ma" ]
+,
   "yan-ma": [ "Yan Ma" ]
+,
+  "yuling-ma": [ "Yuling Ma" ]
 ,
   "mohamed-a-mabrok": [ "Mohamed A. Mabrok", "Mohamed Mabrok" ]
 ,
@@ -1479,19 +2469,29 @@
 ,
   "alessandro-macchelli": [ "Alessandro Macchelli", "A. Macchelli" ]
 ,
+  "mohamed-machmoum": [ "Mohamed Machmoum", "M. Machmoum" ]
+,
   "milka-c-i-madahana": [ "Milka C. I. Madahana", "Milka C.I. Madahana" ]
+,
+  "guillermo-luciano-magaldi": [ "Guillermo Luciano Magaldi" ]
 ,
   "miguel-magos": [ "Miguel Magos", "M. Magos" ]
 ,
-  "a-d-mahindrakar": [ "A.D. Mahindrakar" ]
+  "arun-d-mahindrakar": [ "Arun D. Mahindrakar", "A.D. Mahindrakar", "Arunkumar D Mahindrakar" ]
 ,
   "robert-mahony": [ "Robert Mahony" ]
 ,
   "m-mahzoon": [ "M. Mahzoon" ]
 ,
+  "t-phong-mai": [ "T. Phong Mai" ]
+,
+  "i-a-maio": [ "I. A. Maio", "I.A. Maio" ]
+,
+  "d-h-s-maithripala": [ "D. H. S. Maithripala" ]
+,
   "kanjuro-makihara": [ "Kanjuro Makihara" ]
 ,
-  "mohit-makkar": [ "Mohit Makkar" ]
+  "mohit-makka": [ "Mohit Makka", "Mohit Makkar" ]
 ,
   "albertus-johannes-malan": [ "Albertus Johannes Malan", "Albertus J. Malan" ]
 ,
@@ -1499,11 +2499,17 @@
 ,
   "alaeddin-malek": [ "Alaeddin Malek" ]
 ,
-  "tobias-malzer": [ "Tobias Malzer" ]
+  "tobias-malzer": [ "Tobias Malzer", "T. Malzer" ]
 ,
   "alberto-mameli": [ "Alberto Mameli" ]
 ,
+  "zhihong-man": [ "Zhihong Man" ]
+,
   "narayan-suresh-manjarekar": [ "Narayan Suresh Manjarekar" ]
+,
+  "rutvika-manohar": [ "Rutvika Manohar" ]
+,
+  "r-j-mantz": [ "R. J. Mantz" ]
 ,
   "david-marchiori": [ "David Marchiori" ]
 ,
@@ -1515,15 +2521,27 @@
 ,
   "jean-philippe-martin": [ "Jean-Philippe Martin" ]
 ,
+  "v-s-dos-santos-martins": [ "V.S. Dos Santos Martins" ]
+,
   "juan-c-martinez": [ "Juan C. Martinez" ]
 ,
-  "bernhard-maschke": [ "Bernhard Maschke", "B. Maschke", "B.M. Maschke", "Bernhard MASCHKE", "B. M. Maschke" ]
+  "sonia-martinez": [ "Sonia Martínez" ]
+,
+  "daniel-sting-martinez-padron": [ "Daniel Sting Martinez-Padron" ]
+,
+  "bernhard-maschke": [ "Bernhard Maschke", "B. Maschke", "B.M. Maschke", "Bernhard MASCHKE", "B. M. Maschke", "Bernhard M. Maschke", "B.M.J. Maschke" ]
+,
+  "jonathan-mash": [ "Jonathan Mash" ]
+,
+  "imma-massana": [ "Imma Massana" ]
 ,
   "stefano-massaroli": [ "Stefano Massaroli" ]
 ,
   "paolo-roberto-massenio": [ "Paolo Roberto Massenio" ]
 ,
   "k-masutani": [ "K. Masutani" ]
+,
+  "m-t-mata": [ "M.T. Mata" ]
 ,
   "ion-matei": [ "Ion Matei" ]
 ,
@@ -1537,13 +2555,23 @@
 ,
   "denis-matignon": [ "Denis Matignon", "D. Matignon" ]
 ,
-  "yuki-matsumoto": [ "Yuki Matsumoto" ]
+  "yuki-matsumoto": [ "Yuki Matsumoto", "Yuki MATSUMOTO" ]
+,
+  "hiroki-matsunaka": [ "Hiroki Matsunaka" ]
+,
+  "ryousuke-matsushita": [ "Ryousuke MATSUSHITA" ]
 ,
   "marios-mattheakis": [ "Marios Mattheakis" ]
 ,
   "andrea-mattioni": [ "Andrea Mattioni" ]
 ,
   "mattia-mattioni": [ "Mattia Mattioni" ]
+,
+  "rakesh-maurya": [ "Rakesh Maurya" ]
+,
+  "christos-mavridis": [ "Christos Mavridis" ]
+,
+  "paul-maya-ortiz": [ "Paul Maya-Ortiz" ]
 ,
   "daniel-mayer": [ "Daniel Mayer" ]
 ,
@@ -1555,25 +2583,39 @@
 ,
   "silviu-medianu": [ "Silviu Medianu", "S. Medianu" ]
 ,
+  "ahmed-r-meghnous": [ "Ahmed R. Meghnous", "A. R. Meghnous", "A.-R. Meghnous", "A.R. Meghnous" ]
+,
   "christian-mehl": [ "Christian Mehl", "C. Mehl" ]
 ,
   "volker-mehrmann": [ "Volker Mehrmann", "V. Mehrmann", "V Mehrmann" ]
 ,
+  "shengwei-mei": [ "Shengwei Mei" ]
+,
   "wang-mei": [ "Wang Mei" ]
+,
+  "gjerrit-meinsma": [ "Gjerrit Meinsma" ]
+,
+  "a-meitrilova": [ "A Meitrilova" ]
 ,
   "claudio-melchiorri": [ "Claudio Melchiorri", "C. Melchiorri" ]
 ,
   "max-mendel": [ "Max Mendel" ]
 ,
-  "eduardo-mendes": [ "Eduardo Mendes" ]
+  "eduardo-mendes": [ "Eduardo Mendes", "E. Mendes" ]
+,
+  "j-mendez": [ "J. Mendez" ]
 ,
   "julio-a-mendoza-mendoza": [ "Julio A. Mendoza‐Mendoza" ]
 ,
   "xiangxiang-meng": [ "Xiangxiang Meng" ]
 ,
+  "yongqing-meng": [ "Yongqing Meng", "Yongqing MENG" ]
+,
   "jochen-merker": [ "Jochen Merker" ]
 ,
-  "r-v-meshram": [ "R.V. Meshram" ]
+  "abeje-y-mersha": [ "Abeje Y. Mersha" ]
+,
+  "ragini-v-meshram": [ "Ragini V. Meshram", "R.V. Meshram" ]
 ,
   "stephen-metcalfe": [ "Stephen Metcalfe" ]
 ,
@@ -1581,17 +2623,35 @@
 ,
   "annika-meyer": [ "Annika Meyer" ]
 ,
+  "changyu-miao": [ "Changyu Miao" ]
+,
+  "y-l-miao": [ "Y L Miao" ]
+,
   "hannah-michalska": [ "Hannah Michalska" ]
 ,
+  "dominik-michels": [ "Dominik Michels" ]
+,
   "richard-h-middleton": [ "Richard H. Middleton" ]
+,
+  "a-ming": [ "A. Ming" ]
+,
+  "jin-minghe": [ "Jin Minghe" ]
+,
+  "jeroen-minnema": [ "Jeroen Minnema" ]
+,
+  "abdellatif-miraoui": [ "Abdellatif Miraoui", "A. Miraoui" ]
 ,
   "andrii-mironchenko": [ "Andrii Mironchenko" ]
 ,
   "sarthak-misra": [ "Sarthak Misra" ]
 ,
+  "sanjoy-k-mitter": [ "Sanjoy K. Mitter" ]
+,
   "p-c-moan": [ "P.C. Moan" ]
 ,
   "klas-modin": [ "Klas Modin" ]
+,
+  "narges-moeini": [ "Narges Moeini" ]
 ,
   "maximilian-mogler": [ "Maximilian Mogler" ]
 ,
@@ -1599,11 +2659,17 @@
 ,
   "jan-mohring": [ "Jan Mohring" ]
 ,
+  "aslan-mojallal": [ "Aslan Mojallal" ]
+,
+  "eduardo-mojica-nava": [ "Eduardo Mojica-Nava" ]
+,
   "marta-molinas": [ "Marta Molinas" ]
 ,
   "luc-molinet": [ "Luc Molinet" ]
 ,
-  "salvatore-monaco": [ "Salvatore Monaco" ]
+  "fouad-mokhtari": [ "Fouad Mokhtari" ]
+,
+  "salvatore-monaco": [ "Salvatore Monaco", "S Monaco" ]
 ,
   "marius-monch": [ "Marius Mönch" ]
 ,
@@ -1621,7 +2687,11 @@
 ,
   "eduardo-montijano": [ "Eduardo Montijano" ]
 ,
-  "oscar-danilo-montoya": [ "Oscar Danilo Montoya", "Oscar Montoya", "O. D. Montoya" ]
+  "oscar-danilo-montoya": [ "Oscar Danilo Montoya", "Oscar Montoya", "O. D. Montoya", "Oscar Danil Montoya" ]
+,
+  "bartolomeo-montrucchio": [ "Bartolomeo Montrucchio" ]
+,
+  "s-moon": [ "S. Moon" ]
 ,
   "luis-a-mora": [ "Luis A. Mora", "Luis A Mora" ]
 ,
@@ -1631,7 +2701,9 @@
 ,
   "alessio-moreschini": [ "Alessio Moreschini" ]
 ,
-  "kirsten-morris": [ "Kirsten Morris", "Kirsten A. Morris" ]
+  "atilio-morillo": [ "Atilio Morillo" ]
+,
+  "kirsten-morris": [ "Kirsten Morris", "Kirsten A. Morris", "K. Morris" ]
 ,
   "riccardo-morselli": [ "Riccardo Morselli", "R. Morselli" ]
 ,
@@ -1641,7 +2713,13 @@
 ,
   "redha-moulla": [ "Redha Moulla", "R. Moulla" ]
 ,
-  "felicitas-mueller": [ "Felicitas Mueller" ]
+  "kun-mu": [ "Kun Mu" ]
+,
+  "rui-mu": [ "Rui Mu" ]
+,
+  "xiaobin-mu": [ "Xiaobin Mu" ]
+,
+  "felicitas-mueller": [ "Felicitas Mueller", "F. Mueller" ]
 ,
   "martin-mujica": [ "Martin Mujica" ]
 ,
@@ -1653,19 +2731,37 @@
 ,
   "mauricio-munoz-arias": [ "Mauricio Munoz-Arias", "Mauricio Muñoz-Arias", "M. Muñoz-Arias" ]
 ,
+  "k-mukherjee": [ "K Mukherjee" ]
+,
+  "pankaj-mukhija": [ "Pankaj Mukhija" ]
+,
+  "juan-ignacio-mulero-martinez": [ "Juan Ignacio Mulero-Martínez" ]
+,
+  "remy-muller": [ "Remy Muller" ]
+,
+  "carlos-munoz": [ "Carlos Muñoz" ]
+,
   "hans-z-munthe-kaas": [ "Hans Z. Munthe-Kaas" ]
 ,
   "riccardo-muradore": [ "Riccardo Muradore" ]
 ,
+  "selma-music": [ "Selma Music" ]
+,
+  "muhammad-muslim": [ "Muhammad Muslim" ]
+,
+  "evgeniya-mutsenik": [ "Evgeniya Mutsenik" ]
+,
   "george-mylonas": [ "George Mylonas" ]
 ,
-  "thulasi-mylvaganam": [ "Thulasi Mylvaganam" ]
+  "thulasi-mylvaganam": [ "Thulasi Mylvaganam", "T. Mylvaganam" ]
+,
+  "matias-nacusse": [ "Matías Nacusse" ]
 ,
   "sai-sowmya-nagam": [ "Sai Sowmya Nagam" ]
 ,
   "ken-nagashima": [ "Ken Nagashima" ]
 ,
-  "subramanya-p-nageshrao": [ "Subramanya P. Nageshrao", "S.P. Nageshrao" ]
+  "subramanya-p-nageshrao": [ "Subramanya P. Nageshrao", "S.P. Nageshrao", "S. P. Nageshrao" ]
 ,
   "pulkit-nahata": [ "Pulkit Nahata" ]
 ,
@@ -1673,9 +2769,19 @@
 ,
   "judy-najnudel": [ "Judy Najnudel" ]
 ,
+  "yoshihiro-nakabo": [ "Yoshihiro Nakabo" ]
+,
+  "hiroyasu-nakano": [ "Hiroyasu Nakano" ]
+,
+  "m-s-nakhla": [ "M. S. Nakhla" ]
+,
   "dao-phuong-nam": [ "Dao Phuong Nam" ]
 ,
   "mohammad-masoud-namazi": [ "Mohammad Masoud Namazi" ]
+,
+  "mehrzad-namvar": [ "Mehrzad Namvar" ]
+,
+  "deepak-narang": [ "Deepak Narang" ]
 ,
   "david-naso": [ "David Naso", "D. Naso" ]
 ,
@@ -1685,17 +2791,43 @@
 ,
   "aniruddha-nayak": [ "Aniruddha Nayak" ]
 ,
+  "ashwin-s-nayak": [ "Ashwin S. Nayak" ]
+,
   "nedialko-nedialkov": [ "Nedialko Nedialkov" ]
+,
+  "a-neki": [ "A. Neki" ]
 ,
   "markus-p-nemitz": [ "Markus P. Nemitz" ]
 ,
+  "kae-nemoto": [ "Kae Nemoto" ]
+,
+  "sergey-g-nersesov": [ "Sergey G. Nersesov", "S.G. Nersesov" ]
+,
+  "nigel-j-newton": [ "Nigel J. Newton" ]
+,
   "d-v-a-nguyen": [ "D.V.A. Nguyen" ]
+,
+  "chi-thuan-nguyen": [ "Chi Thuan Nguyen" ]
 ,
   "ngoc-cuong-nguyen": [ "Ngoc-Cuong Nguyen", "N.C. Nguyen" ]
 ,
+  "thai-thanh-nguyen": [ "Thai-Thanh Nguyen" ]
+,
   "thanh-sang-nguyen": [ "Thanh Sang Nguyen", "T. Sang Nguyen", "T.S. Nguyen" ]
 ,
+  "vinh-hao-nguyen": [ "Vinh-Hao Nguyen" ]
+,
+  "mohlalakoma-ngwako": [ "Mohlalakoma Ngwako" ]
+,
+  "felipe-m-nicholls": [ "Felipe M. Nicholls" ]
+,
   "jonas-nicodemus": [ "Jonas Nicodemus" ]
+,
+  "claudiu-ionel-nicola": [ "Claudiu-Ionel Nicola" ]
+,
+  "marcel-nicola": [ "Marcel Nicola" ]
+,
+  "congcong-nie": [ "Congcong Nie" ]
 ,
   "peter-nielsen": [ "Peter Nielsen" ]
 ,
@@ -1703,23 +2835,51 @@
 ,
   "henk-nijmeijer": [ "Henk Nijmeijer" ]
 ,
-  "gou-nishida": [ "Gou Nishida", "G. Nishida" ]
+  "gou-nishida": [ "Gou Nishida", "G. Nishida", "Gou NISHIDA", "null Gou Nishida" ]
 ,
   "yuki-nishimura": [ "Yûki NISHIMURA" ]
 ,
-  "dorothee-normand-cyrot": [ "Dorothée Normand-Cyrot", "Dorothee Normand-Cyrot" ]
+  "taisei-nishishita": [ "Taisei NISHISHITA" ]
 ,
-  "remy-nouailletas": [ "Rémy Nouailletas", "R. NOUAILLETAS" ]
+  "taishi-nishiyama": [ "Taishi Nishiyama" ]
+,
+  "jingkai-niu": [ "Jingkai Niu" ]
+,
+  "c-j-noble": [ "C J Noble" ]
+,
+  "kenzo-nonami": [ "Kenzo NONAMI" ]
+,
+  "norjulia-mohamad-nordin": [ "Norjulia Mohamad Nordin" ]
+,
+  "dorothee-normand-cyrot": [ "Dorothée Normand-Cyrot", "Dorothee Normand-Cyrot", "D Normand-Cyrot" ]
+,
+  "remy-nouailletas": [ "Rémy Nouailletas", "Remy Nouailletas", "R. NOUAILLETAS" ]
+,
+  "andrey-novitsky": [ "Andrey Novitsky" ]
+,
+  "denis-v-novitsky": [ "Denis V. Novitsky" ]
 ,
   "ignacio-fernandez-nunez": [ "Ignacio Fernandez Núnez" ]
 ,
+  "kameswarie-nunna": [ "Kameswarie Nunna", "K. Nunna" ]
+,
   "emmanuel-nuno": [ "Emmanuel Nuño", "Emmanuel Nuno" ]
 ,
-  "otis-o-t-c-nyandoro": [ "Otis T.C. Nyandoro", "Otis T. C. Nyandoro", "Otis O.T. Nyandoro" ]
+  "otis-o-t-c-nyandoro": [ "Otis T.C. Nyandoro", "Otis T. C. Nyandoro", "Otis O.T. Nyandoro", "Otis O. T. Nyandoro" ]
 ,
   "ian-o-connor": [ "Ian O'Connor" ]
 ,
-  "yuki-okura": [ "Yuki Okura" ]
+  "klaus-oerding": [ "Klaus Oerding" ]
+,
+  "kwang-kyo-oh": [ "Kwang‐Kyo Oh" ]
+,
+  "yuki-okura": [ "Yuki Okura", "Yuki OKURA" ]
+,
+  "diego-gonzalez-olivares": [ "Diego González Olivares" ]
+,
+  "w-d-oliver": [ "W. D. Oliver" ]
+,
+  "a-ollero": [ "A. Ollero" ]
 ,
   "simona-olmi": [ "Simona Olmi" ]
 ,
@@ -1731,15 +2891,37 @@
 ,
   "c-orozco-henao": [ "C. Orozco-Henao" ]
 ,
+  "juan-pablo-ortega": [ "Juan-Pablo Ortega" ]
+,
   "romeo-ortega": [ "Romeo Ortega", "R. Ortega" ]
+,
+  "isaac-ortega-velazquez": [ "Isaac Ortega-Velázquez", "Isaac Ortega-Velázquez", "Isaac Ortega Velázquez" ]
+,
+  "shuto-osawa": [ "Shuto Osawa" ]
+,
+  "koichi-osuka": [ "Koichi Osuka" ]
 ,
   "keisuke-otsuka": [ "Keisuke Otsuka" ]
 ,
+  "lu-ou": [ "Lu Ou" ]
+,
   "brynjulf-owren": [ "Brynjulf Owren" ]
+,
+  "clai-owens": [ "Clai Owens" ]
 ,
   "david-h-owens": [ "David H. Owens" ]
 ,
+  "necdet-sinan-ozbek": [ "Necdet Sinan OZBEK" ]
+,
+  "a-ozkan-ozer": [ "A. Ozkan Ozer" ]
+,
   "g-p-padilla": [ "G. P. Padilla" ]
+,
+  "ilaria-paglianti": [ "Ilaria Paglianti" ]
+,
+  "majid-pahlevani": [ "Majid Pahlevani" ]
+,
+  "damien-paire": [ "Damien Paire", "D. Paire" ]
 ,
   "bikash-c-pal": [ "Bikash C. Pal" ]
 ,
@@ -1749,9 +2931,19 @@
 ,
   "le-pan": [ "Le Pan" ]
 ,
+  "giuseppe-panaro": [ "Giuseppe Panaro" ]
+,
+  "shangzhi-pan": [ "Shangzhi Pan", "null Shangzhi Pan" ]
+,
+  "zhexiao-pan": [ "Zhexiao Pan" ]
+,
+  "shengzhao-pang": [ "Shengzhao Pang" ]
+,
   "siyi-pang": [ "Siyi Pang" ]
 ,
-  "e-panteley": [ "E. Panteley" ]
+  "elena-panteley": [ "Elena Panteley", "E. Panteley" ]
+,
+  "shivendra-s-panwar": [ "Shivendra S. Panwar" ]
 ,
   "heiko-k-f-panzer": [ "Heiko K. F. Panzer", "Heiko Panzer" ]
 ,
@@ -1763,15 +2955,39 @@
 ,
   "j-c-flores-paredes": [ "J. C. Flores Paredes" ]
 ,
+  "jaehyung-park": [ "Jaehyung Park", "null Jaehyung Park" ]
+,
   "jinkyoo-park": [ "Jinkyoo Park" ]
+,
+  "a-parra-rodriguez": [ "A. Parra-Rodriguez" ]
 ,
   "ramkrishna-pasumarthy": [ "Ramkrishna Pasumarthy", "R. Pasumarthy" ]
 ,
   "mayuresh-patil": [ "Mayuresh Patil" ]
 ,
+  "diego-patino": [ "Diego Patino", "D. Patino" ]
+,
+  "d-paul": [ "D. Paul" ]
+,
   "lassi-paunonen": [ "Lassi Paunonen" ]
 ,
+  "marilena-pavel": [ "Marilena Pavel" ]
+,
+  "g-a-pavliotis": [ "G. A. Pavliotis" ]
+,
+  "alexander-a-pavlov": [ "Alexander A. Pavlov" ]
+,
   "gabriel-payen": [ "Gabriel Payen" ]
+,
+  "vamsi-peddinti": [ "Vamsi Peddinti" ]
+,
+  "tom-sondergaard-pedersen": [ "Tom Søndergaard Pedersen" ]
+,
+  "angelika-peer": [ "Angelika Peer" ]
+,
+  "wenhui-pei": [ "Wenhui Pei" ]
+,
+  "andrzej-pelc": [ "Andrzej Pelc" ]
 ,
   "haijun-peng": [ "Haijun Peng" ]
 ,
@@ -1783,9 +2999,11 @@
 ,
   "roberto-pereira-arroyo": [ "Roberto Pereira-Arroyo" ]
 ,
-  "tristan-perez": [ "Tristan Perez" ]
+  "tristan-perez": [ "Tristan Perez", "T. Perez" ]
 ,
   "arthur-perodou": [ "Arthur Perodou" ]
+,
+  "borja-peropadre": [ "Borja Peropadre" ]
 ,
   "yves-perriard": [ "Yves Perriard" ]
 ,
@@ -1795,17 +3013,29 @@
 ,
   "claudio-de-persis": [ "Claudio De Persis", "C. De Persis" ]
 ,
+  "jose-eduardo-o-pessanha": [ "José Eduardo O. Pessanha" ]
+,
   "andres-peters": [ "Andrés Peters" ]
+,
+  "till-peters": [ "Till Peters" ]
 ,
   "k-j-petersen": [ "K. J. Petersen" ]
 ,
-  "martin-pfeifer": [ "Martin Pfeifer" ]
+  "antoine-petit": [ "Antoine Petit" ]
+,
+  "martin-pfeifer": [ "Martin Pfeifer", "M. Pfeifer" ]
 ,
   "silja-pfeiffer": [ "Silja Pfeiffer" ]
 ,
-  "minh-tu-pham": [ "Minh Tu Pham" ]
+  "minh-tu-pham": [ "Minh Tu Pham", "Minh T. Pham", "M. T. Pham", "M.T. Pham" ]
+,
+  "ngoc-thuy-pham": [ "Ngoc Thuy Pham" ]
 ,
   "thanh-hung-pham": [ "Thanh Hung Pham", "T.H. Pham", "T. Hung Pham", "T.T.H. Phan" ]
+,
+  "tuan-dinh-phan": [ "Tuấn Đình Phan" ]
+,
+  "van-thang-pham": [ "Van Thang Pham" ]
 ,
   "matheepot-phattanasak": [ "Matheepot Phattanasak" ]
 ,
@@ -1816,6 +3046,8 @@
   "james-r-phillips": [ "James R. Phillips" ]
 ,
   "hayden-phillips-brenes": [ "Hayden Phillips-Brenes" ]
+,
+  "teeraphon-phophongviwat": [ "Teeraphon Phophongviwat" ]
 ,
   "rainer-h-picard": [ "Rainer H. Picard", "Rainer Picard" ]
 ,
@@ -1829,23 +3061,41 @@
 ,
   "l-pietrac": [ "L. Piétrac" ]
 ,
+  "maribel-p-erez-pirela": [ "Maribel P´erez Pirela" ]
+,
   "isabelle-pitault": [ "Isabelle Pitault", "I. Pitault" ]
 ,
+  "dmitry-pitsun": [ "Dmitry Pitsun" ]
+,
+  "juha-plosila": [ "Juha Plosila" ]
+,
   "alexander-pogromsky": [ "Alexander Pogromsky" ]
+,
+  "seppo-pohjolainen": [ "Seppo Pohjolainen" ]
 ,
   "michael-poli": [ "Michael Poli" ]
 ,
   "monika-polner": [ "Mónika Polner" ]
 ,
-  "rostyslav-v-polyuga": [ "Rostyslav V. Polyuga", "R.V. Polyuga" ]
+  "rostyslav-v-polyuga": [ "Rostyslav V. Polyuga", "R.V. Polyuga", "Rostylav V. Polyuga" ]
 ,
-  "valerie-pommier-budinger": [ "Valérie Pommier-Budinger", "V. Pommier-Budinger" ]
+  "valerie-pommier-budinger": [ "Valérie Pommier-Budinger", "V. Pommier-Budinger", "Valerie Pommier-Budinger" ]
 ,
   "cristobal-ponce": [ "Cristobal Ponce" ]
+,
+  "witthawas-pongyart": [ "Witthawas Pongyart" ]
+,
+  "dumitru-popescu": [ "Dumitru Popescu" ]
+,
+  "ate-postma": [ "Ate Postma" ]
 ,
   "jerome-pousin": [ "Jérôme Pousin" ]
 ,
   "charles-poussot-vassal": [ "Charles Poussot-Vassal" ]
+,
+  "m-pradas": [ "M. Pradas" ]
+,
+  "stephen-prajna": [ "Stephen Prajna" ]
 ,
   "vinay-prasad": [ "Vinay Prasad" ]
 ,
@@ -1861,21 +3111,55 @@
 ,
   "pavlos-protopapas": [ "Pavlos Protopapas" ]
 ,
-  "john-d-pryce": [ "John D. Pryce" ]
+  "john-d-pryce": [ "John D. Pryce", "John Pryce" ]
 ,
   "dunstano-del-puerto-flores": [ "Dunstano del Puerto-Flores" ]
+,
+  "sudarshan-pulapadi": [ "Sudarshan Pulapadi" ]
 ,
   "roland-pulch": [ "Roland Pulch" ]
 ,
   "kunal-puri": [ "Kunal Puri" ]
 ,
+  "f-m-puspita": [ "F M Puspita" ]
+,
   "anton-pyrkin": [ "Anton Pyrkin" ]
 ,
+  "guoyuan-qi": [ "Guoyuan Qi" ]
+,
+  "jing-qian": [ "Jing Qian" ]
+,
   "xu-qian": [ "Xu Qian" ]
+,
+  "yanping-qian": [ "Yanping Qian", "null Yanping Qian", "Yanping Qian -" ]
+,
+  "chaoqian-qiao": [ "Chaoqian Qiao" ]
 ,
   "lei-qiao": [ "Lei Qiao" ]
 ,
   "liang-qiao": [ "Liang Qiao" ]
+,
+  "wei-qiao": [ "Wei Qiao", "null Wei Qiao" ]
+,
+  "chengzhi-qin": [ "Chengzhi Qin" ]
+,
+  "jiahui-qiu": [ "Jiahui Qiu" ]
+,
+  "jun-qiu": [ "Jun Qiu", "null Jun Qiu" ]
+,
+  "weidong-qu": [ "Weidong Qu" ]
+,
+  "xingze-qiu": [ "Xingze Qiu" ]
+,
+  "yanbin-qu": [ "YanBin Qu", "Y.B. Qu", "Yanbin Qu", "null Yanbin Qu" ]
+,
+  "nicanor-quijano": [ "Nicanor Quijano" ]
+,
+  "harry-m-quiney": [ "Harry M. Quiney" ]
+,
+  "aminuddin-qureshi": [ "Aminuddin Qureshi" ]
+,
+  "arkaitz-rabanal": [ "Arkaitz Rabanal" ]
 ,
   "kanty-rabenorosoa": [ "Kanty Rabenorosoa" ]
 ,
@@ -1885,9 +3169,13 @@
 ,
   "jorg-raisch": [ "Jörg Raisch" ]
 ,
+  "tanmay-rajpurohit": [ "Tanmay Rajpurohit" ]
+,
   "ramtin-rakhsha": [ "Ramtin Rakhsha" ]
 ,
   "prabhu-ramachandran": [ "Prabhu Ramachandran" ]
+,
+  "amin-ramezani": [ "Amin Ramezani" ]
 ,
   "hector-ramirez": [ "Hector Ramirez", "H. Ramirez", "Héctor Ramírez", "H. Ramírez", "Héctor Ramirez", "Hector Ramírez" ]
 ,
@@ -1895,7 +3183,15 @@
 ,
   "victor-m-ramirez-rivera": [ "Victor M. Ramirez-Rivera" ]
 ,
-  "hubert-rams": [ "Hubert Rams" ]
+  "nur-huda-ramlan": [ "Nur Huda Ramlan", "N. H. Ramlan" ]
+,
+  "fernanda-ramos-garcia": [ "Fernanda Ramos-García", "F. Ramos-García"  ]
+,
+  "hubert-rams": [ "Hubert Rams", "H. Rams" ]
+,
+  "yan-ran": [ "Yan Ran" ]
+,
+  "narayan-rangaraj": [ "Narayan Rangaraj" ]
 ,
   "s-rao": [ "S. Rao" ]
 ,
@@ -1903,9 +3199,17 @@
 ,
   "ramy-rashad": [ "Ramy Rashad", "R. Rashad" ]
 ,
+  "a-rashidi": [ "A. Rashidi" ]
+,
   "tudor-ratiu": [ "Tudor Ratiu", "T. Ratiu" ]
 ,
+  "sandhya-rathore": [ "Sandhya Rathore" ]
+,
   "lukas-rausche": [ "Lukas Rausche" ]
+,
+  "balaraman-ravindran": [ "Balaraman Ravindran" ]
+,
+  "philippe-raynal": [ "Philippe Raynal" ]
 ,
   "tanneguy-redarce": [ "Tanneguy Redarce" ]
 ,
@@ -1913,9 +3217,13 @@
 ,
   "johann-reger": [ "Johann Reger" ]
 ,
+  "christian-rehtanz": [ "Christian Rehtanz" ]
+,
   "rob-reilink": [ "Rob Reilink" ]
 ,
   "markus-rein": [ "Markus Rein" ]
+,
+  "diogo-j-f-reis": [ "Diogo J.F. Reis" ]
 ,
   "timo-reis": [ "Timo Reis", "T. Reis" ]
 ,
@@ -1925,11 +3233,45 @@
 ,
   "paul-reshetikhin": [ "Paul Reshetikhin" ]
 ,
+  "carlos-restrepo": [ "Carlos Restrepo" ]
+,
   "johannes-rettberg": [ "Johannes Rettberg" ]
 ,
   "rodolfo-reyes-baez": [ "Rodolfo Reyes-Báez", "Rodolfo Reyes-Baez", "Rodolfo Reyes‐Báez" ]
 ,
+  "t-risse": [ "T. Risse" ]
+,
+  "t-rittenschober": [ "T. Rittenschober" ]
+,
+  "german-rodriguez": [ "German Rodriguez" ]
+,
+  "hugo-rodriguez": [ "Hugo Rodriguez", "H. Rodriguez" ]
+,
+  "miguel-e-rodriguez": [ "Miguel E. Rodriguez", "Miguel E. Rodriguez R.y" ]
+,
+  "pedro-rodriguez": [ "Pedro Rodriguez" ]
+,
+  "suppachai-roengriang": [ "Suppachai Roengriang" ]
+,
+  "christian-a-rojas": [ "Christian A. Rojas" ]
+,
+  "michael-rojas": [ "Michael Rojas", "M. Rojas" ]
+,
+  "philippsen-roland": [ "Philippsen Roland", "null Philippsen Roland" ]
+,
+  "muhammad-zakiyullah-romdlony": [ "Muhammad Zakiyullah Romdlony" ]
+,
   "francesco-romor": [ "Francesco Romor" ]
+,
+  "san-jose-de-la-rosa-mendoza": [ "San Jose de la Rosa-Mendoza" ]
+,
+  "claudio-rosales": [ "Claudio Rosales" ]
+,
+  "philipp-rosenzweig": [ "Philipp Rosenzweig" ]
+,
+  "lionel-rosier": [ "Lionel Rosier" ]
+,
+  "t-e-roth": [ "T. E. Roth" ]
 ,
   "gianluigi-rozza": [ "Gianluigi Rozza" ]
 ,
@@ -1995,11 +3337,35 @@
 ,
   "masami-saeki": [ "Masami Saeki" ]
 ,
+  "amir-safaeinasab": [ "Amir Safaeinasab" ]
+,
+  "s-m-saghaian-nejad": [ "S.M. Saghaian-Nejad" ]
+,
   "carlos-sagues": [ "Carlos Sagüés" ]
 ,
-  "satoru-sakai": [ "Satoru Sakai", "S. Sakai" ]
+  "gourav-saha": [ "Gourav Saha" ]
+,
+  "v-sahni": [ "V. Sahni" ]
+,
+  "lakhdar-saihi": [ "Lakhdar Saihi" ]
+,
+  "abdelhakim-saim": [ "Abdelhakim Saim" ]
+,
+  "yang-sainv": [ "Yang Sainv" ]
+,
+  "akio-saito": [ "Akio Saito", "Akio SAITO" ]
+,
+  "satoru-sakai": [ "Satoru Sakai", "S. Sakai", "Satoru SAKAI" ]
+,
+  "noboru-sakamoto": [ "Noboru Sakamoto" ]
+,
+  "tomoya-sakamoto": [ "Tomoya Sakamoto" ]
 ,
   "naoki-sakata": [ "Naoki Sakata", "N. Sakata" ]
+,
+  "alexander-sakhnovich": [ "Alexander Sakhnovich" ]
+,
+  "kazunori-sakurama": [ "Kazunori Sakurama", "Kazunori SAKURAMA", "K. Sakurama" ]
 ,
   "v-salnikov": [ "V. Salnikov", "V. N. Salnikov" ]
 ,
@@ -2007,11 +3373,17 @@
 ,
   "manuel-a-sanchez": [ "Manuel A. Sánchez", "M.A. Sánchez" ]
 ,
+  "m-i-sanchez": [ "M.I. Sanchez" ]
+,
   "santiago-sanchez": [ "Santiago Sanchez" ]
+,
+  "agustin-sanchez-contreras": [ "Agustín Sánchez-Contreras" ]
 ,
   "santiago-sanchez-escalonilla": [ "Santiago Sanchez-Escalonilla" ]
 ,
   "henrik-sandberg": [ "Henrik Sandberg" ]
+,
+  "luiz-carlos-sandoval": [ "Luiz Carlos Sandoval" ]
 ,
   "a-sandovici": [ "A. Sandovici" ]
 ,
@@ -2023,17 +3395,21 @@
 ,
   "cosimo-della-santina": [ "Cosimo Della Santina" ]
 ,
+  "matteo-de-santis": [ "Matteo De Santis" ]
+,
   "valerie-dos-santos": [ "Valérie Dos Santos" ]
 ,
   "arijit-sarkar": [ "Arijit Sarkar" ]
 ,
   "ioannis-sarras": [ "Ioannis Sarras", "I. Sarras" ]
 ,
-  "mario-sassano": [ "Mario Sassano" ]
+  "mario-sassano": [ "Mario Sassano", "M. Sassano" ]
 ,
   "kazuhiro-sato": [ "Kazuhiro Sato" ]
 ,
-  "satoshi-satoh": [ "Satoshi Satoh" ]
+  "satoshi-satoh": [ "Satoshi Satoh", "Satoshi SATOH", "S. Satoh" ]
+,
+  "p-s-satsangi": [ "P.S. Satsangi" ]
 ,
   "kohei-sawada": [ "Kohei Sawada" ]
 ,
@@ -2042,6 +3418,8 @@
   "mohammed-e-sayed": [ "Mohammed E. Sayed" ]
 ,
   "daniel-sbarbaro": [ "Daniel Sbarbaro" ]
+,
+  "andrea-scarabosio": [ "Andrea Scarabosio" ]
 ,
   "l-h-scarlett": [ "L.H. Scarlett" ]
 ,
@@ -2069,7 +3447,9 @@
 ,
   "martin-schmidt": [ "Martin Schmidt" ]
 ,
-  "markus-schoberl": [ "Markus Schöberl", "M. Schöberl", "Markus Schoberl" ]
+  "m-schmuck": [ "M. Schmuck" ]
+,
+  "markus-schoberl": [ "Markus Schöberl", "M. Schöberl", "Markus Schoberl", "M. Schoberl" ]
 ,
   "eckehard-scholl": [ "Eckehard Schöll" ]
 ,
@@ -2085,7 +3465,15 @@
 ,
   "dennis-schumann": [ "Dennis Schumann" ]
 ,
+  "christian-schuster": [ "Christian Schuster" ]
+,
+  "david-i-schuster": [ "David I. Schuster" ]
+,
+  "felix-l-schwenninger": [ "Felix L. Schwenninger" ]
+,
   "paul-schwerdtner": [ "Paul Schwerdtner" ]
+,
+  "alberto-scionti": [ "Alberto Scionti" ]
 ,
   "gerard-scorletti": [ "Gerard Scorletti" ]
 ,
@@ -2101,6 +3489,12 @@
 ,
   "cooper-selco": [ "Cooper Selco" ]
 ,
+  "gokcen-devlet-sen": [ "Gökçen Devlet Şen" ]
+,
+  "alexander-v-sergienko": [ "Alexander V. Sergienko" ]
+,
+  "delgado-l-sergio": [ "Delgado L. Sergio" ]
+,
   "anass-serhani": [ "Anass Serhani" ]
 ,
   "diana-serra": [ "Diana Serra" ]
@@ -2111,27 +3505,87 @@
 ,
   "marko-seslija": [ "Marko Šešlija", "Marko Seslija" ]
 ,
+  "olivier-sete": [ "Olivier Sète", "Olivier SÃ¨te" ]
+,
+  "alexandre-seuret": [ "Alexandre Seuret" ]
+,
   "bernardo-severino": [ "Bernardo Severino" ]
 ,
   "tevfik-sezi": [ "Tevfik Sezi" ]
 ,
+  "xiao-peng-sha": [ "Xiao Peng Sha" ]
+,
   "mohammad-shafiee": [ "Mohammad Shafiee" ]
+,
+  "zahir-shah": [ "Zahir Shah" ]
+,
+  "masoud-shahabadini": [ "Masoud Shahabadini" ]
+,
+  "erfan-shahriari": [ "Erfan Shahriari" ]
+,
+  "alexander-s-shalin": [ "Alexander S. Shalin" ]
+,
+  "bing-qiang-shan": [ "Bing Qiang Shan", "Bingqiang Shan" ]
 ,
   "huiyu-shang": [ "Huiyu Shang" ]
 ,
+  "shuonan-shang": [ "Shuonan Shang" ]
+,
+  "yuliang-shang": [ "Yuliang Shang" ]
+,
+  "h-j-shan": [ "H. J. Shan" ]
+,
   "jiang-shao": [ "Jiang Shao" ]
+,
+  "nuan-shao": [ "Nuan Shao" ]
 ,
   "harsh-sharma": [ "Harsh Sharma" ]
 ,
   "punit-sharma": [ "Punit Sharma" ]
 ,
+  "shambhu-n-sharma": [ "Shambhu N. Sharma", "S.N Sharma" ]
+,
   "vsevolod-shashkov": [ "Vsevolod Shashkov", "V. Shashkov" ]
 ,
-  "ihor-shchur": [ "Ihor Shchur" ]
+  "igor-z-shchur": [ "Igor Z. Shchur", "Ihor Shchur", "Ihor Z. Shchur" ]
+,
+  "jinhua-she": [ "Jinhua She" ]
+,
+  "h-z-shen": [ "H. Z. Shen" ]
+,
+  "haixia-shen": [ "Haixia Shen" ]
+,
+  "haotian-shen": [ "Haotian Shen" ]
+,
+  "hesong-shen": [ "Hesong Shen" ]
+,
+  "jinglai-shen": [ "Jinglai Shen" ]
+,
+  "t-l-shen": [ "T.L. Shen" ]
+,
+  "tielong-shen": [ "Tielong Shen" ]
+,
+  "xuejun-shen": [ "Xuejun Shen" ]
+,
+  "yanming-shen": [ "Yanming Shen" ]
+,
+  "yujie-shen": [ "Yujie Shen" ]
+,
+  "bo-sheng": [ "Bo Sheng" ]
+,
+  "boyang-shi": [ "Boyang Shi" ]
+,
+  "f-shi": [ "F. Shi" ]
 ,
   "guoyou-shi": [ "Guoyou Shi" ]
 ,
+  "hao-shi": [ "Hao Shi" ]
+,
   "john-z-shi": [ "John Z. Shi" ]
+,
+  "wen-ting-shi": [ "Wen-Ting Shi" ]
+,
+  "xin-shi": [ "Xin Shi" ]
 ,
   "yang-shi": [ "Yang Shi" ]
 ,
@@ -2139,11 +3593,21 @@
 ,
   "yuma-shimizu": [ "Yuma Shimizu" ]
 ,
+  "m-shimojo": [ "M. Shimojo" ]
+,
+  "kumari-shipra": [ "Kumari Shipra" ]
+,
+  "tao-shui": [ "Tao Shui" ]
+,
+  "pierre-sicard": [ "Pierre Sicard" ]
+,
   "bruno-siciliano": [ "Bruno Siciliano" ]
 ,
   "s-n-sidek": [ "S N Sidek" ]
 ,
-  "fabrice-silva": [ "Fabrice Silva" ]
+  "houria-siguerdidjane": [ "Houria Siguerdidjane" ]
+,
+  "fabrice-silva": [ "Fabrice Silva", "F. Silva" ]
 ,
   "luis-miguel-silveira": [ "Luis Miguel Silveira" ]
 ,
@@ -2151,11 +3615,23 @@
 ,
   "benjamin-m-simmons": [ "Benjamin M. Simmons" ]
 ,
+  "ester-simo": [ "Ester Simo" ]
+,
   "juan-c-simo": [ "Juan C. Simo" ]
+,
+  "marcelo-g-simoes": [ "Marcelo G. Simoes" ]
+,
+  "david-s-simon": [ "David S. Simon" ]
+,
+  "jonathan-simon": [ "Jonathan Simon" ]
 ,
   "john-w-simpson-porco": [ "John W. Simpson-Porco" ]
 ,
-  "n-m-singh": [ "N.M. Singh" ]
+  "moirangthem-sailash-singh": [ "Moirangthem Sailash Singh" ]
+,
+  "navdeep-m-singh": [ "Navdeep M. Singh", "N.M. Singh", "Navdeep Singh" ]
+,
+  "andrea-siniscalco": [ "Andrea Siniscalco" ]
 ,
   "pramod-sistla": [ "Pramod Sistla" ]
 ,
@@ -2167,19 +3643,37 @@
 ,
   "riccardo-sneep": [ "Riccardo Sneep" ]
 ,
+  "igor-mayer-soares": [ "Igor Mayer Soares" ]
+,
+  "jorge-sofrony": [ "Jorge Sofrony" ]
+,
   "giovanni-soleti": [ "Giovanni Soleti" ]
 ,
   "christoforos-somarakis": [ "Christoforos Somarakis" ]
+,
+  "nattapon-somboonpanya": [ "Nattapon Somboonpanya" ]
 ,
   "david-sondak": [ "David Sondak" ]
 ,
   "pol-jane-soneira": [ "Pol Jané Soneira" ]
 ,
+  "huihui-song": [ "Huihui Song", "null Huihui Song", "H.H. Song" ]
+,
+  "qiang-song": [ "Qiang Song" ]
+,
   "ting-song": [ "Ting Song" ]
+,
+  "xiaoli-song": [ "Xiaoli Song" ]
+,
+  "y-h-song": [ "Y.H. Song" ]
 ,
   "zihao-song": [ "Zihao Song" ]
 ,
   "sumit-sood": [ "Sumit Sood" ]
+,
+  "mathias-jesper-sorensen": [ "Mathias Jesper Sørensen" ]
+,
+  "philippe-soueres": [ "Philippe Soueres" ]
 ,
   "noella-d-souza": [ "Noella D'Souza" ]
 ,
@@ -2191,9 +3685,15 @@
 ,
   "olivier-sprangers": [ "Olivier Sprangers" ]
 ,
+  "d-p-srivastava": [ "D.P. Srivastava" ]
+,
+  "geoff-stacey": [ "Geoff Stacey" ]
+,
+  "richard-stadlmayr": [ "Richard Stadlmayr" ]
+,
   "olof-j-staffans": [ "Olof J. Staffans" ]
 ,
-  "a-m-stankovic": [ "A.M. Stanković" ]
+  "aleksandar-m-stankovic": [ "Aleksandar M. Stankovic", "A.M. Stanković" ]
 ,
   "jason-stanley": [ "Jason Stanley" ]
 ,
@@ -2201,19 +3701,33 @@
 ,
   "marcio-stefanello": [ "Márcio Stefanello", "Marcio Stefanello" ]
 ,
+  "marco-de-stefano": [ "Marco De Stefano" ]
+,
+  "dan-stefanoiu": [ "Dan Stefanoiu" ]
+,
   "tjerk-w-stegink": [ "Tjerk W. Stegink", "Tjerk Stegink", "T. W. Stegink", "T.W. Stegink" ]
 ,
   "maarten-steinbuch": [ "Maarten Steinbuch", "M. Steinbuch" ]
+,
+  "stig-stenholm": [ "Stig Stenholm" ]
+,
+  "olaf-stenull": [ "Olaf Stenull" ]
 ,
   "camilla-sterud": [ "Camilla Sterud" ]
 ,
   "iain-a-stewart": [ "Iain A. Stewart" ]
 ,
+  "i-s-stievano": [ "I. S. Stievano", "I.S. Stievano" ]
+,
+  "michael-stiglmayr": [ "Michael Stiglmayr" ]
+,
   "adam-a-stokes": [ "Adam A. Stokes" ]
+,
+  "loriano-storchi": [ "Loriano Storchi" ]
 ,
   "milan-stork": [ "Milan Stork" ]
 ,
-  "stefano-stramigioli": [ "Stefano Stramigioli", "S. Stramigioli", "S. Straimgioli" ]
+  "stefano-stramigioli": [ "Stefano Stramigioli", "S. Stramigioli", "S. Straimgioli", "S Stramigioli" ]
 ,
   "felix-strehle": [ "Felix Strehle" ]
 ,
@@ -2225,27 +3739,47 @@
 ,
   "miguel-s-suarez-castanon": [ "Miguel S. Suarez‐Castanon" ]
 ,
-  "toshiharu-sugie": [ "Toshiharu Sugie" ]
+  "toshiharu-sugie": [ "Toshiharu Sugie", "Toshiharu SUGIE", "T. Sugie" ]
 ,
   "arif-sugiharto": [ "Arif Sugiharto" ]
 ,
   "motonobu-sugiura": [ "Motonobu Sugiura" ]
 ,
+  "aydar-sultanov": [ "Aydar Sultanov" ]
+,
+  "leyla-goren-sumer": [ "LEYLA GÖREN SÜMER" ]
+,
   "jianjun-sun": [ "Jianjun Sun" ]
+,
+  "jing-sun": [ "Jing Sun" ]
+,
+  "lifan-sun": [ "Lifan Sun" ]
 ,
   "miaowenhao-sun": [ "Miaowenhao Sun" ]
 ,
   "pengfei-sun": [ "Pengfei Sun" ]
 ,
+  "qiuye-sun": [ "Qiuye Sun" ]
+,
   "siyi-sun": [ "Siyi Sun" ]
 ,
+  "weiwei-sun": [ "Weiwei Sun", "Wei Wei Sun" ]
+,
   "yajuan-sun": [ "Yajuan Sun" ]
+,
+  "yuanzhang-sun": [ "Yuanzhang Sun", "Y.Z. Sun" ]
 ,
   "zhijian-sun": [ "Zhijian Sun" ]
 ,
   "zhiyong-sun": [ "Zhiyong Sun" ]
 ,
+  "kyle-m-sundqvist": [ "Kyle M. Sundqvist" ]
+,
+  "m-suriyah": [ "M. Suriyah" ]
+,
   "b-svetozarevic": [ "B. Svetozarevic" ]
+,
+  "gabor-szederkenyi": [ "Gabor Szederkenyi" ]
 ,
   "daniel-b-szyld": [ "Daniel B. Szyld" ]
 ,
@@ -2257,7 +3791,7 @@
 ,
   "takumu-takagi": [ "Takumu Takagi" ]
 ,
-  "tomoya-takeuchi": [ "Tomoya Takeuchi" ]
+  "tomoya-takeuchi": [ "Tomoya Takeuchi", "Tomoya TAKEUCHI" ]
 ,
   "noureddine-takorabet": [ "Noureddine Takorabet" ]
 ,
@@ -2269,7 +3803,15 @@
 ,
   "nguyen-duy-tan": [ "Nguyen Duy Tan" ]
 ,
+  "atushi-tanaka": [ "Atushi Tanaka" ]
+,
+  "hiroaki-tanaka": [ "Hiroaki Tanaka" ]
+,
   "cunwei-tang": [ "Cunwei Tang" ]
+,
+  "dewei-tang": [ "Dewei Tang" ]
+,
+  "fen-tang": [ "Fen Tang" ]
 ,
   "jacky-tang": [ "Jacky Tang", "J. Tang" ]
 ,
@@ -2277,17 +3819,33 @@
 ,
   "wensheng-tang": [ "Wensheng Tang" ]
 ,
+  "yaping-tang": [ "Yaping Tang" ]
+,
   "yifa-tang": [ "Yifa Tang" ]
 ,
   "yingjie-tang": [ "Yingjie Tang" ]
 ,
-  "mitsuru-taniguchi": [ "Mitsuru Taniguchi" ]
+  "yi-tang": [ "Yi Tang" ]
+,
+  "yuliang-tang": [ "Yuliang Tang", "null Yuliang Tang" ]
+,
+  "zhen-tang": [ "Zhen Tang" ]
+,
+  "mitsuru-taniguchi": [ "Mitsuru Taniguchi", "Mitsuru TANIGUCHI" ]
+,
+  "mo-tao": [ "Mo Tao" ]
 ,
   "juan-cristobal-alcaraz-tapia": [ "Juan Cristobal Alcaraz Tapia" ]
+,
+  "francesco-tarantelli": [ "Francesco Tarantelli" ]
 ,
   "cristina-tarín": [ "Cristina Tarín" ]
 ,
   "akihiro-tatsuoka": [ "Akihiro Tatsuoka" ]
+,
+  "mads-graungaard-taul": [ "Mads Graungaard Taul" ]
+,
+  "ali-reza-tavakolpour-saleh": [ "Ali Reza Tavakolpour‐Saleh" ]
 ,
   "rafael-tavares": [ "Rafael Tavares" ]
 ,
@@ -2297,17 +3855,43 @@
 ,
   "elisabetta-tedeschi": [ "Elisabetta Tedeschi" ]
 ,
+  "ainoor-teimoorzadeh": [ "Ainoor Teimoorzadeh" ]
+,
+  "qingfang-teng": [ "Qingfang Teng" ]
+,
+  "zhaobo-teng": [ "Zhaobo Teng", "Zhao Bo Teng" ]
+,
+  "hannu-tenhunen": [ "Hannu Tenhunen" ]
+,
+  "yik-ren-teo": [ "Yik Ren Teo", "Y. R. Teo" ]
+,
   "shunpei-terakawa": [ "Shunpei Terakawa" ]
+,
+  "olivier-terzo": [ "Olivier Terzo" ]
+,
+  "alexander-theilig": [ "Alexander Theilig" ]
 ,
   "vaishnavi-thesma": [ "Vaishnavi Thesma" ]
 ,
   "alexis-thibault": [ "Alexis Thibault" ]
 ,
+  "walter-thiel": [ "Walter Thiel" ]
+,
   "tobias-thoma": [ "Tobias Thoma", "T. Thoma" ]
+,
+  "ronny-thomale": [ "Ronny Thomale" ]
+,
+  "gray-c-thomas": [ "Gray C. Thomas" ]
 ,
   "daniel-thomasset": [ "Daniel Thomasset" ]
 ,
+  "walarcheth-thongrailuck": [ "Walarcheth Thongrailuck" ]
+,
   "phatiphat-thounthong": [ "Phatiphat Thounthong" ]
+,
+  "guangping-tian": [ "Guangping Tian" ]
+,
+  "min-tian": [ "Min Tian" ]
 ,
   "zhen-tian": [ "Zhen Tian" ]
 ,
@@ -2315,13 +3899,25 @@
 ,
   "a-tiedeu": [ "A. Tiedeu" ]
 ,
+  "fernando-tiefensee": [ "Fernando Tiefensee", "F Tiefensee" ]
+,
+  "ho-phuoc-tien": [ "Ho Phuoc Tien" ]
+,
+  "julia-timmermann": [ "Julia Timmermann" ]
+,
   "caren-tischendorf": [ "Caren Tischendorf" ]
 ,
   "slim-tnani": [ "Slim Tnani" ]
 ,
+  "ali-tofighi": [ "Ali Tofighi" ]
+,
   "jesus-pablo-toledo-zucco": [ "Jesus-Pablo Toledo-Zucco", "Jesús Toledo", "Jesus Toledo", "Jesus Pablo Toledo Zucco" ]
 ,
   "stefania-tomasiello": [ "Stefania Tomasiello" ]
+,
+  "juan-tomassini": [ "Juan Tomassini" ]
+,
+  "dongbing-tong": [ "Dongbing Tong" ]
 ,
   "maris-tonso": [ "Maris Tõnso" ]
 ,
@@ -2329,17 +3925,29 @@
 ,
   "eduardo-garcia-torano": [ "Eduardo García Toraño" ]
 ,
+  "mohamed-m-torbati": [ "Mohamed M. Torbati" ]
+,
   "antoine-tordeux": [ "Antoine Tordeux" ]
 ,
   "davide-torlo": [ "Davide Torlo" ]
 ,
+  "paivi-torma": [ "Päivi Törmä" ]
+,
   "javier-a-torres": [ "Javier A. Torres" ]
+,
+  "lizeth-torres": [ "Lizeth Torres" ]
 ,
   "claudia-totzeck": [ "Claudia Totzeck" ]
 ,
   "matthieu-touron": [ "Matthieu Touron" ]
 ,
+  "ansgar-trachtler": [ "Ansgar Trächtler" ]
+,
+  "minh-duc-tran": [ "Minh-Duc Tran" ]
+,
   "g-ferrari-trecate": [ "G. Ferrari Trecate" ]
+,
+  "montserrat-trejo-guerra": [ "Montserrat Trejo-Guerra" ]
 ,
   "vincent-trenchant": [ "Vincent Trenchant", "V. Trenchant" ]
 ,
@@ -2355,25 +3963,45 @@
 ,
   "cesar-leonardo-trujillo": [ "César Leonardo Trujillo" ]
 ,
+  "jochen-trumpf": [ "Jochen Trumpf" ]
+,
+  "jyh-jong-tsay": [ "Jyh-Jong Tsay", "null Jyh-Jong Tsay" ]
+,
   "a-tsolakis": [ "A. Tsolakis" ]
+,
+  "tai-ching-tuan": [ "Tai-Ching Tuan", "null Tai-Ching Tuan" ]
 ,
   "marius-tucsnak": [ "Marius Tucsnak" ]
 ,
+  "alen-turnwald": [ "Alen Turnwald" ]
+,
   "athanasios-e-tzavaras": [ "Athanasios E. Tzavaras" ]
+,
+  "a-ubolli": [ "A. Ubolli" ]
 ,
   "mitsuharu-uemoto": [ "Mitsuharu Uemoto" ]
 ,
   "baris-e-ugurcan": [ "Baris E Ugurcan", "Baris Ugurcan" ]
 ,
+  "nasim-ullah": [ "Nasim Ullah" ]
+,
   "benjamin-unger": [ "Benjamin Unger", "B. Unger" ]
 ,
   "paweł-urbanski": [ "Paweł Urbański", "P. Urbanski" ]
 ,
+  "yuki-ushiro": [ "Yuki USHIRO" ]
+,
+  "akin-uslu": [ "Akin USLU" ]
+,
   "edoardo-vacchini": [ "Edoardo Vacchini" ]
+,
+  "mihaly-a-vaghy": [ "Mihaly A. Vaghy" ]
 ,
   "sundarapandian-vaidyanathan": [ "Sundarapandian Vaidyanathan" ]
 ,
   "b-vainberg": [ "B. Vainberg" ]
+,
+  "izu-vaisman": [ "Izu Vaisman" ]
 ,
   "a-i-vakis": [ "A.I. Vakis" ]
 ,
@@ -2383,6 +4011,12 @@
 ,
   "francis-valentinis": [ "Francis Valentinis" ]
 ,
+  "mateo-valero": [ "Mateo Valero" ]
+,
+  "enrique-vallejo": [ "Enrique Vallejo" ]
+,
+  "pisit-vanichchanunt": [ "Pisit Vanichchanunt" ]
+,
   "joris-vankerschaver": [ "Joris Vankerschaver" ]
 ,
   "francisco-vargas": [ "Francisco Vargas" ]
@@ -2391,11 +4025,13 @@
 ,
   "jaap-j-w-van-der-vegt": [ "Jaap J. W. van der Vegt", "J.J.W. van der Vegt", "J J W van der Vegt", "J.J.W. Van der Vegt" ]
 ,
-  "isaac-ortega-velazquez": [ "Isaac Ortega Velázquez" ]
+  "matias-veillon": [ "Matias Veillon" ]
 ,
   "javad-mohammadpour-velni": [ "Javad Mohammadpour Velni" ]
 ,
   "aneesh-venkatraman": [ "Aneesh Venkatraman", "A. Venkatraman" ]
+,
+  "chiara-vercellino": [ "Chiara Vercellino" ]
 ,
   "olivier-verdier": [ "Olivier Verdier" ]
 ,
@@ -2408,6 +4044,8 @@
   "jonathan-vieth": [ "Jonathan Vieth" ]
 ,
   "j-l-villa": [ "J. L. Villa" ]
+,
+  "maria-fernanda-romero-villacres": [ "María Fernanda Romero Villacrés", "Mar´ıa Fernanda Romero Villacr´esx" ]
 ,
   "ignacio-villalobos": [ "Ignacio Villalobos" ]
 ,
@@ -2422,8 +4060,16 @@
   "vani-virdyawan": [ "Vani Virdyawan" ]
 ,
   "antonio-visioli": [ "Antonio Visioli" ]
+,
+  "l-c-visser": [ "L C Visser" ]
+,
+  "giacomo-vitali": [ "Giacomo Vitali" ]
+,
+  "paolo-viviani": [ "Paolo Viviani" ]
 , 
   "matthias-voigt": [ "Matthias Voigt" ]
+,
+  "alexander-volf": [ "Alexander Volf" ]
 ,
   "ewoud-vos": [ "Ewoud Vos" ]
 ,
@@ -2431,17 +4077,37 @@
 ,
   "ngoc-minh-trang-vu": [ "Ngoc Minh Trang Vu", "N.M. Trang Vu", "N.M. Trang VU", "Trang Vu", "Ngoc Minh Trang VU", "N.M.T Vu", "N.M.T. Vu" ]
 ,
+  "emeric-vuillemin": [ "Emeric Vuillemin" ]
+,
   "pierre-vuillemin": [ "Pierre Vuillemin" ]
 ,
-  "s-r-wagh": [ "S.R. Wagh" ]
+  "sushama-r-wagh": [ "Sushama R. Wagh", "S.R. Wagh" ]
 ,
   "lavoisier-wah": [ "Lavoisier Wah" ]
 ,
   "arne-wahrburg": [ "Arne Wahrburg" ]
 ,
+  "ian-d-walker": [ "Ian D. Walker" ]
+,
+  "ross-c-walker": [ "Ross C. Walker" ]
+,
+  "c-walkey": [ "C. Walkey" ]
+,
+  "mattia-walschaers": [ "Mattia Walschaers" ]
+,
   "chang-wan": [ "Chang Wan" ]
 ,
+  "lingyun-wan": [ "Lingyun Wan" ]
+,
+  "b-wang": [ "B Wang" ]
+,
+  "bing-wang": [ "Bing Wang", "Bing Wang -", "null Bing Wang" ]
+,
+  "chao-wang": [ "Chao Wang" ]
+,
   "cheng-wang": [ "Cheng Wang" ]
+,
+  "chong-wang": [ "Chong Wang" ]
 ,
   "danwei-wang": [ "Danwei Wang" ]
 ,
@@ -2449,41 +4115,125 @@
 ,
   "fei-wang": [ "Fei Wang" ]
 ,
+  "gaoran-wang": [ "Gaoran Wang" ]
+,
+  "hailiang-wang": [ "Hailiang Wang", "null Hailiang Wang" ]
+,
+  "honghua-wang": [ "Honghua Wang" ]
+,
   "hong-wang": [ "Hong Wang" ]
 ,
   "huahuan-wang": [ "Huahuan Wang" ]
 ,
+  "j-wang": [ "J. Wang" ]
+,
   "jiaming-wang": [ "Jiaming Wang" ]
+,
+  "jian-wang": [ "Jian Wang" ]
+,
+  "jianxiang-wang": [ "Jianxiang Wang" ]
+,
+  "jinsen-wang": [ "Jinsen Wang" ]
+,
+  "jiuhe-wang": [ "Jiuhe Wang", "Jiu He Wang" ]
 ,
   "junmin-wang": [ "Junmin Wang" ]
 ,
+  "kaili-wang": [ "Kaili Wang" ]
+,
+  "lei-wang": [ "Lei Wang" ]
+,
   "li-wang": [ "Li Wang" ]
 ,
-  "mei-wang": [ "Mei Wang", "M. Wang" ]
+  "m-wang": [ "M. Wang" ]
+,
+  "mei-wang": [ "Mei Wang", "null Mei Wang" ]
+,
+  "mian-wang": [ "Mian Wang" ]
+,
+  "min-wang": [ "Min Wang" ]
+,
+  "peng-wang": [ "Peng Wang" ]
+,
+  "pengcheng-wang": [ "Pengcheng Wang" ]
 ,
   "qi-wang": [ "Qi Wang" ]
 ,
+  "qingzhi-wang": [ "Qingzhi Wang" ]
+,
   "rixin-wang": [ "Rixin Wang" ]
 ,
+  "rong-lin-wang": [ "Rong-lin Wang", "Ronglin Wang" ]
+,
+  "rui-wang": [ "Rui Wang" ]
+,
+  "shixian-wang": [ "Shixian Wang" ]
+,
+  "shu-wang": [ "Shu Wang" ]
+,
   "shuopeng-wang": [ "Shuopeng Wang" ]
+,
+  "shuqing-wang": [ "Shuqing Wang" ]
 ,
   "sizhe-wang": [ "Sizhe Wang" ]
 ,
   "wei-wang": [ "Wei Wang" ]
 ,
+  "xi-wang": [ "Xi Wang" ]
+,
+  "xiangyu-wang": [ "Xiangyu Wang" ]
+,
   "xiaofeng-wang": [ "Xiaofeng Wang" ]
+,
+  "xiaoxiong-wang": [ "Xiaoxiong Wang" ]
+,
+  "xifan-wang": [ "Xifan Wang", "Xifan WANG" ]
+,
+  "xinghu-wang": [ "Xinghu Wang" ]
+,
+  "xinyu-wang": [ "Xinyu Wang" ]
+,
+  "yanjie-wang": [ "Yanjie Wang" ]
+,
+  "yaonan-wang": [ "Yaonan Wang" ]
+,
+  "yi-pu-wang": [ "Yi-Pu Wang" ]
 ,
   "yiwei-wang": [ "Yiwei Wang" ]
 ,
+  "yong-wang": [ "Yong Wang", "null Yong Wang" ]
+,
+  "yongjun-wang": [ "Yongjun Wang" ]
+,
   "yu-wang": [ "Yu Wang" ]
+,
+  "yue-wang": [ "Yue Wang" ]
 ,
   "yuexuan-wang": [ "Yuexuan Wang" ]
 ,
+  "yufei-wang": [ "Yufei Wang" ]
+,
   "yushun-wang": [ "Yushun Wang" ]
+,
+  "yuzhen-wang": [ "Yuzhen Wang", "Yu-Zhen WANG", "YuZhen Wang", "Yu Zhen Wang", "null Yuzhen Wang" ]
+,
+  "z-wang": [ "Z. Wang" ]
+,
+  "ze-wang": [ "Ze Wang" ]
+,
+  "zheng-wang": [ "Zheng Wang", "null Zheng Wang" ]
+,
+  "zhongxian-wang": [ "Zhongxian Wang" ]
 ,
   "zhu-wang": [ "Zhu Wang" ]
 ,
+  "zhuo-wang": [ "Zhuo Wang" ]
+,
   "zichen-wang": [ "Zichen Wang" ]
+,
+  "zihan-wang": [ "Zihan Wang" ]
+,
+  "zi-ming-wang": [ "Zi-Ming Wang", "Zi‐Ming Wang" ]
 ,
   "gerhard-wanner": [ "Gerhard Wanner" ]
 ,
@@ -2497,21 +4247,45 @@
 ,
   "sven-ake-wegner": [ "Sven-Ake Wegner", "S.-A. Wegner" ]
 ,
+  "airong-wei": [ "Airong Wei" ]
+,
   "caisheng-wei": [ "Caisheng Wei" ]
+,
+  "dunwen-wei": [ "Dunwen Wei" ]
 ,
   "jieqiang-wei": [ "Jieqiang Wei", "J. Wei" ]
 ,
   "jumei-wei": [ "Jumei Wei" ]
 ,
+  "lian-fu-wei": [ "Lian-Fu Wei" ]
+,
+  "lingyan-wei": [ "Lingyan Wei" ]
+,
   "wei-wei": [ "Wei Wei" ]
 ,
+  "xiaochen-wei": [ "Xiaochen Wei" ]
+,
   "y-wei": [ "Y. Wei" ]
+,
+  "s-weiland": [ "S. Weiland" ]
 ,
   "alan-weinstein": [ "Alan Weinstein" ]
 ,
   "wu-weiren": [ "WU WeiRen" ]
 ,
+  "george-weiss": [ "George Weiss", "G. Weiss" ]
+,
+  "a-weisshaar": [ "A. Weisshaar" ]
+,
   "fushuan-wen": [ "Fushuan Wen" ]
+,
+  "torben-wendt": [ "Torben Wendt" ]
+,
+  "v-wetzel": [ "V. Wetzel" ]
+,
+  "patrick-wheeler": [ "Patrick Wheeler" ]
+,
+  "s-whitlock": [ "S Whitlock" ]
 ,
   "katharina-wieninger": [ "Katharina Wieninger" ]
 ,
@@ -2519,7 +4293,7 @@
 ,
   "matt-wilkins": [ "Matt Wilkins" ]
 ,
-  "joseph-j-winkin": [ "Joseph J. Winkin", "Joseph Winkin" ]
+  "joseph-j-winkin": [ "Joseph J. Winkin", "Joseph Winkin", "J.J. Winkin" ]
 ,
   "fabian-wirth": [ "Fabian Wirth" ]
 ,
@@ -2533,6 +4307,8 @@
 ,
   "karl-worthmann": [ "Karl Worthmann" ]
 ,
+  "jacob-w-van-der-woude": [ "Jacob W. van der Woude" ]
+,
   "nathan-van-de-wouw": [ "Nathan van de Wouw", "N. van de Wouw" ]
 ,
   "chengshuai-wu": [ "Chengshuai Wu" ]
@@ -2543,29 +4319,85 @@
 ,
   "heng-wu": [ "Heng Wu" ]
 ,
+  "herong-wu": [ "Herong Wu" ]
+,
   "min-wu": [ "Min Wu" ]
 ,
+  "nianxiang-wu": [ "Nianxiang Wu" ]
+,
+  "qiuxuan-wu": [ "Qiuxuan Wu" ]
+,
   "sixu-wu": [ "Sixu Wu" ]
+,
+  "weimin-wu": [ "Weimin Wu" ]
+,
+  "wentao-wu": [ "Wentao Wu" ]
+,
+  "x-wu": [ "X. Wu" ]
+,
+  "xiaofeng-wu": [ "Xiaofeng Wu" ]
+,
+  "xin-wu": [ "Xin Wu" ]
+,
+  "xuezhi-wu": [ "Xuezhi Wu" ]
 ,
   "yan-wu": [ "Yan Wu" ]
 ,
   "yongxin-wu": [ "Yongxin Wu", "Y. Wu" ]
 ,
-  "xiaofeng-wu": [ "Xiaofeng Wu" ]
+  "zhitao-wu": [ "Zhitao Wu" ]
 ,
   "d-wunderlich": [ "D. Wünderlich" ]
 ,
   "tilmann-wurzbacher": [ "Tilmann Wurzbacher" ]
 ,
+  "s-wuster": [ "S Wüster" ]
+,
   "christian-wyss": [ "Christian Wyss" ]
+,
+  "lei-xi": [ "Lei Xi", "null Lei Xi" ]
+,
+  "yugeng-xi": [ "Yugeng Xi" ]
+,
+  "chengjun-xia": [ "Chengjun Xia" ]
+,
+  "peirong-xia": [ "Peirong Xia" ]
+,
+  "qianqian-xia": [ "Qianqian Xia" ]
+,
+  "yang-xia": [ "Yang Xia" ]
+,
+  "yu-xia": [ "Yu Xia" ]
+,
+  "guo-xiaomei": [ "Guo Xiaomei" ]
+,
+  "hao-xiang": [ "Hao Xiang" ]
 ,
   "ji-xiang": [ "Ji Xiang" ]
 ,
+  "qi-xiao": [ "Qi Xiao" ]
+,
   "haibo-xie": [ "Haibo Xie" ]
+,
+  "hongchao-xie": [ "Hongchao Xie" ]
 ,
   "suxia-xie": [ "Suxia Xie" ]
 ,
+  "xuejun-xie": [ "Xuejun Xie" ]
+,
+  "zongwu-xie": [ "Zongwu Xie" ]
+,
+  "ji-xingmin": [ "Ji Xingmin" ]
+,
+  "c-xu": [ "C. Xu" ]
+,
+  "dajun-xu": [ "Dajun Xu" ]
+,
   "hongguo-xu": [ "Hongguo Xu" ]
+,
+  "hua-xue": [ "Hua Xue" ]
+,
+  "jianying-xu": [ "Jianying Xu" ]
 ,
   "kangli-xu": [ "Kangli Xu", "Kang-Li Xu", "Kang‐Li Xu" ]
 ,
@@ -2573,13 +4405,27 @@
 ,
   "qingqing-xu": [ "Qingqing Xu" ]
 ,
+  "shengsheng-xu": [ "Shengsheng Xu" ]
+,
+  "shukai-xu": [ "Shukai Xu" ]
+,
   "song-xu": [ "Song Xu" ]
+,
+  "tao-xu": [ "Tao Xu" ]
+,
+  "tianmao-xu": [ "Tianmao Xu" ]
+,
+  "xu-xu": [ "Xu Xu" ]
 ,
   "yan-xu": [ "Yan Xu" ]
 ,
   "yanchuan-xu": [ "Yanchuan Xu" ]
 ,
+  "yuzhen-xu": [ "Yuzhen Xu", "null Yuzhen Xu" ]
+,
   "zishi-xu": [ "Zishi Xu" ]
+,
+  "zhong-hui-xu": [ "Zhong-Hui Xu", "Zhong-Hui 中辉 Xu 徐" ]
 ,
   "dong-xue": [ "Dong Xue" ]
 ,
@@ -2599,7 +4445,17 @@
 ,
   "takaharu-yaguchi": [ "Takaharu Yaguchi" ]
 ,
-  "masaki-yamakita": [ "Masaki Yamakita", "M. Yamakita" ]
+  "s-yahdin": [ "S Yahdin" ]
+,
+  "yaprak-yalcin": [ "Yaprak Yalçın", "Yaprak Yalcin", "YAPRAK YALÇIN" ]
+,
+  "katsuhiko-yamada": [ "Katsuhiko YAMADA" ]
+,
+  "kyosuke-yamaguchi": [ "Kyosuke Yamaguchi" ]
+,
+  "masaki-yamakita": [ "Masaki Yamakita", "M. Yamakita", "Masaki YAMAKITA", "null Masaki Yamakita" ]
+,
+  "y-yamamoto": [ "Y. Yamamoto" ]
 ,
   "atsushi-yamashita": [ "Atsushi Yamashita" ]
 ,
@@ -2607,9 +4463,33 @@
 ,
   "mohammad-javad-yazdanpanah": [ "Mohammad Javad Yazdanpanah" ]
 ,
+  "haotian-yan": [ "Haotian Yan" ]
+,
   "jing-yan": [ "Jing Yan" ]
 ,
+  "kejia-yan": [ "Kejia Yan" ]
+,
+  "xinhua-yan": [ "Xinhua Yan" ]
+,
+  "yan-yan": [ "Yan Yan" ]
+,
+  "bo-yang": [ "Bo Yang" ]
+,
   "can-yang": [ "Can Yang" ]
+,
+  "cheng-yang": [ "Cheng Yang" ]
+,
+  "dongying-yang": [ "Dongying Yang" ]
+,
+  "fan-yang": [ "Fan Yang" ]
+,
+  "haitao-yang": [ "Haitao Yang" ]
+,
+  "haolin-yang": [ "Haolin Yang" ]
+,
+  "jinge-yang": [ "Jinge Yang" ]
+,
+  "jun-yang": [ "Jun Yang" ]
 ,
   "ping-yang": [ "Ping Yang" ]
 ,
@@ -2617,17 +4497,43 @@
 ,
   "qingkai-yang": [ "Qingkai Yang" ]
 ,
+  "renming-yang": [ "Renming Yang" ]
+,
+  "tingting-yang": [ "Tingting Yang" ]
+,
+  "wen-xing-yang": [ "Wen-Xing Yang" ]
+,
   "xian-yang": [ "Xian Yang" ]
+,
+  "xiaofeng-yang": [ "Xiaofeng Yang" ]
+,
+  "xiaoyu-yang": [ "Xiaoyu Yang" ]
+,
+  "xingxi-yang": [ "Xingxi Yang" ]
 ,
   "zeng-yang": [ "Zeng Yang" ]
 ,
   "zhibo-yang": [ "Zhibo Yang" ]
 ,
+  "zhiqing-yang": [ "Zhiqing Yang" ]
+,
+  "zhilei-yao": [ "Zhilei Yao" ]
+,
   "mohammad-javad-yazdanpanah": [ "Mohammad Javad Yazdanpanah", "M.J. Yazdanpanah", "Mohammad Javad Yazdanpanah" ]
+,
+  "tengfei-ye": [ "Tengfei Ye" ]
+,
+  "x-x-yi": [ "X. X. Yi" ]
 ,
   "zhongkai-yi": [ "Zhongkai Yi" ]
 ,
+  "daiying-yin": [ "Daiying Yin" ]
+,
+  "hongren-yin": [ "Hongren Yin" ]
+,
   "zheng-yin": [ "Zheng Yin" ]
+,
+  "li-ying": [ "Li Ying", "null Li Ying" ]
 ,
   "b-erik-ydstie": [ "B. Erik Ydstie" ]
 ,
@@ -2635,19 +4541,41 @@
 ,
   "yu-yeh": [ "Yu Yeh" ]
 ,
+  "burin-yodwong": [ "Burin Yodwong" ]
+,
   "tomoya-yokogawa": [ "Tomoya Yokogawa" ]
 ,
+  "kazuto-yokoyama": [ "Kazuto YOKOYAMA" ]
+,
   "hiroaki-yoshimura": [ "Hiroaki Yoshimura", "H. Yoshimura" ]
+,
+  "hyunsoo-yoon": [ "Hyunsoo Yoon", "null Hyunsoo Yoon" ]
 ,
   "sam-sang-you": [ "Sam-Sang You" ]
 ,
   "gong-youmin": [ "GONG YouMin" ]
 ,
-  "haisheng-yu": [ "Haisheng Yu" ]
+  "bin-yu": [ "Bin Yu" ]
+,
+  "dehai-yu": [ "Dehai Yu", "Dehay Yu" ]
+,
+  "haisheng-yu": [ "Haisheng Yu", "Hai Sheng Yu", "null Haisheng Yu" ]
 ,
   "hongnian-yu": [ "Hongnian Yu" ]
 ,
+  "jianyang-yu": [ "Jianyang YU" ]
+,
+  "jinpeng-yu": [ "Jinpeng Yu", "null Jinpeng Yu" ]
+,
   "pan-yu": [ "Pan Yu" ]
+,
+  "peizhou-yu": [ "Peizhou Yu" ]
+,
+  "rongjiang-yu": [ "Rongjiang Yu" ]
+,
+  "rui-yu": [ "Rui Yu" ]
+,
+  "shanshan-yu": [ "Shanshan Yu", "null Shanshan Yu" ]
 ,
   "shuanghe-yu": [ "Shuanghe Yu" ]
 ,
@@ -2655,11 +4583,19 @@
 ,
   "zhiping-yu": [ "Zhiping Yu" ]
 ,
+  "cong-yuan": [ "Cong Yuan" ]
+,
   "tangqing-yuan": [ "Tangqing Yuan" ]
+,
+  "xiaofang-yuan": [ "Xiaofang Yuan" ]
+,
+  "congcong-yue": [ "Congcong Yue" ]
 ,
   "burak-yuksel": [ "Burak Yüksel" ]
 ,
   "juan-i-yuz": [ "Juan I. Yuz", "Juan Yuz", "Juan I Yuz" ]
+,
+  "wang-yuzhen": [ "Wang Yuzhen", "null Wang Yuzhen" ]
 ,
   "i-zafeiratou": [ "I. Zafeiratou" ]
 ,
@@ -2667,59 +4603,143 @@
 ,
   "m-c-zammit": [ "M.C. Zammit" ]
 ,
-  "matias-zanartu": [ "Matías Zañartu" ]
+  "matias-zanartu": [ "Matías Zañartu", "Matias Zanartu" ]
 ,
   "roberto-zanasi": [ "Roberto Zanasi", "R. Zanasi" ]
 ,
   "riccardo-zanella": [ "Riccardo Zanella" ]
 ,
+  "hechao-zang": [ "Hechao Zang" ]
+,
+  "yuanqiang-zang": [ "Yuanqiang Zang" ]
+,
   "marie-line-zanota": [ "Marie-Line Zanota" ]
 ,
   "marco-a-zarate-navarro": [ "Marco A. Zárate-Navarro" ]
 ,
+  "h-abootorabi-zarchi": [ "H. Abootorabi Zarchi" ]
+,
   "mykhailo-zarudniev": [ "Mykhailo Zarudniev" ]
+,
+  "hossam-m-zawbaa": [ "Hossam M. Zawbaa" ]
+,
+  "kurt-zehetleitner": [ "Kurt Zehetleitner" ]
 ,
   "amelie-zeller": [ "Amelie Zeller" ]
 ,
   "saida-zenfari": [ "Saida Zenfari" ]
 ,
+  "yun-zeng": [ "Yun Zeng" ]
+,
   "zhaoyou-zeng": [ "Zhaoyou Zeng" ]
 ,
+  "bai-le-zhang": [ "Bai Le Zhang" ]
+,
+  "binghua-zhang": [ "Binghua Zhang" ]
+,
+  "bo-zhang": [ "Bo Zhang" ]
+,
+  "chenghui-zhang": [ "Chenghui Zhang" ]
+,
   "chi-zhang": [ "Chi Zhang" ]
+,
+  "da-wei-zhang": [ "Da-Wei Zhang" ]
+,
+  "fengli-zhang": [ "Fengli Zhang" ]
+,
+  "gao-jian-zhang": [ "Gao-Jian Zhang" ]
+,
+  "guangyuan-zhang": [ "Guangyuan Zhang" ]
+,
+  "haitao-zhang": [ "Haitao Zhang" ]
+,
+  "haiying-zhang": [ "Haiying Zhang" ]
+,
+  "huanchen-zhang": [ "Huanchen Zhang" ]
+,
+  "jia-hao-zhang": [ "Jia-Hao Zhang" ]
 ,
   "jiawei-zhang": [ "Jiawei Zhang" ]
 ,
   "jie-zhang": [ "Jie Zhang" ]
 ,
+  "jiefu-zhang": [ "Jiefu Zhang" ]
+,
+  "jinlong-zhang": [ "Jinlong Zhang" ]
+,
+  "li-heng-zhang": [ "Li-Heng Zhang" ]
+,
+  "lijun-zhang": [ "Lijun Zhang", "null Lijun Zhang" ]
+,
+  "lixiang-zhang": [ "Lixiang Zhang" ]
+,
   "lu-zhang": [ "Lu Zhang" ]
 ,
   "meng-zhang": [ "Meng Zhang" ]
 ,
+  "pengfei-zhang": [ "Pengfei Zhang" ]
+,
+  "qi-zhang": [ "Qi Zhang" ]
+,
   "qin-zhang": [ "Qin Zhang" ]
+,
+  "qiuqiao-zhang": [ "Qiuqiao Zhang" ]
 ,
   "ruili-zhang": [ "Ruili Zhang" ]
 ,
+  "tao-zhang": [ "Tao Zhang" ]
+,
+  "wang-rui-zhang": [ "Wang-Rui Zhang" ]
+,
+  "wei-zhang": [ "Wei Zhang" ]
+,
   "weidong-zhang": [ "Weidong Zhang" ]
+,
+  "xianfu-zhang": [ "Xianfu Zhang" ]
 ,
   "xin-zhang": [ "Xin Zhang" ]
 ,
   "xinyi-zhang": [ "Xinyi Zhang" ]
 ,
+  "xizheng-zhang": [ "Xizheng Zhang" ]
+,
+  "yajing-zhang": [ "Yajing Zhang" ]
+,
   "yajun-zhang": [ "Yajun Zhang" ]
+,
+  "yi-zhang": [ "Yi Zhang" ]
+,
+  "yichuan-zhang": [ "Yichuan Zhang" ]
+,
+  "yiming-zhang": [ "Yiming Zhang", "Yiming Zhang -" ]
 ,
   "ying-zhang": [ "Ying Zhang" ]
 ,
   "yufeng-zhang": [ "Yufeng Zhang" ]
 ,
+  "zhaowen-zhang": [ "Zhaowen Zhang" ]
+,
   "zhenkai-zhang": [ "Zhenkai Zhang" ]
 ,
+  "zhe-zhang": [ "Zhe Zhang" ]
+,
   "zhenxing-zhang": [ "Zhenxing Zhang" ]
+,
+  "zhicheng-zhang": [ "Zhicheng Zhang" ]
 ,
   "zhuorui-zhang": [ "Zhuorui Zhang" ]
 ,
   "zuoyi-zhang": [ "Zuoyi Zhang" ]
 ,
+  "bingkun-zhao": [ "Bingkun Zhao" ]
+,
+  "feng-jiao-zhao": [ "Feng Jiao Zhao" ]
+,
+  "guangzhou-zhao": [ "Guangzhou Zhao", "null Guangzhou Zhao" ]
+,
   "hongwei-zhao": [ "Hongwei Zhao" ]
+,
+  "keyou-zhao": [ "Keyou Zhao", "null Keyou Zhao" ]
 ,
   "mei-zhao": [ "Mei Zhao" ]
 ,
@@ -2727,17 +4747,39 @@
 ,
   "qiang-zhao": [ "Qiang Zhao" ]
 ,
+  "tianyi-zhao": [ "Tianyi Zhao" ]
+,
+  "wenjing-zhao": [ "Wenjing Zhao" ]
+,
+  "xudong-zhao": [ "Xudong Zhao" ]
+,
+  "yang-zhao": [ "Yang Zhao" ]
+,
+  "yi-zhao": [ "Yi Zhao" ]
+,
+  "yujiao-zhao": [ "Yujiao Zhao" ]
+,
+  "zhenxing-zhao": [ "Zhenxing Zhao" ]
+,
+  "zian-zhao": [ "Zian Zhao" ]
+,
   "xiaoming-zha": [ "Xiaoming Zha" ]
 ,
-  "yi-zhang": [ "Yi Zhang" ]
+  "bin-zheng": [ "Bin Zheng" ]
 ,
   "fu-zheng": [ "Fu Zheng" ]
 ,
   "jianhua-zheng": [ "Jianhua Zheng" ]
 ,
+  "kai-zheng": [ "Kai Zheng" ]
+,
   "min-zheng": [ "Min Zheng" ]
 ,
   "wei-zheng": [ "Wei Zheng" ]
+,
+  "xuemei-zheng": [ "Xuemei Zheng" ]
+,
+  "zhang-zhenhuan": [ "Zhang Zhenhuan", "null Zhang Zhenhuan" ]
 ,
   "maksym-zhenirovskyy": [ "Maksym Zhenirovskyy" ]
 ,
@@ -2747,21 +4789,51 @@
 ,
   "qing-chang-zhong": [ "Qing-Chang Zhong" ]
 ,
+  "hangyu-zhou": [ "Hangyu Zhou" ]
+,
   "hao-zhou": [ "Hao Zhou" ]
 ,
   "jian-zhou": [ "Jian Zhou" ]
 ,
+  "jin-zhou": [ "Jin Zhou" ]
+,
   "lihua-zhou": [ "Lihua Zhou" ]
+,
+  "pei-zhou": [ "Pei Zhou" ]
 ,
   "qingrui-zhou": [ "Qingrui Zhou" ]
 ,
+  "qun-zhou": [ "Qun Zhou" ]
+,
+  "ting-zhou": [ "Ting Zhou" ]
+,
   "weijun-zhou": [ "Weijun Zhou", "W. Zhou" ]
 ,
+  "wuneng-zhou": [ "Wuneng Zhou" ]
+,
+  "yichen-zhou": [ "Yichen Zhou" ]
+,
   "aiqing-zhu": [ "Aiqing Zhu" ]
+,
+  "dalei-zhu": [ "Dalei Zhu" ]
+,
+  "he-zhu": [ "He Zhu" ]
+,
+  "jin-zhu": [ "Jin Zhu", "null Jin Zhu" ]
+,
+  "lixun-zhu": [ "Lixun Zhu" ]
+,
+  "ning-zhu": [ "Ning Zhu" ]
 ,
   "quanmin-zhu": [ "Quanmin Zhu" ]
 ,
   "xiaolei-zhu": [ "Xiaolei Zhu" ]
+,
+  "xiaoying-zhu": [ "Xiaoying Zhu" ]
+,
+  "yingwei-zhu": [ "Yingwei Zhu" ]
+,
+  "fenqiang-zhuang": [ "Fenqiang Zhuang" ]
 ,
   "pascal-ziegler": [ "Pascal Ziegler" ]
 ,
@@ -2769,13 +4841,23 @@
 ,
   "b-zitte": [ "B. Zitte" ]
 ,
+  "peter-zoller": [ "Peter Zoller" ]
+,
   "daniele-zonetti": [ "Daniele Zonetti", "D. Zonetti" ]
 ,
+  "guangdeng-zong": [ "Guangdeng Zong" ]
+,
   "wei-zou": [ "Wei Zou" ]
+,
+  "yichao-zou": [ "Yichao Zou", "Yichao ZOU" ]
+,
+  "zongwei-zou": [ "Zongwei Zou", "null Zongwei Zou" ]
 ,
   "pedro-j-zufiria": [ "Pedro J. Zufiria" ]
 ,
   "jelle-zult": [ "Jelle Zult" ]
+,
+  "wei-zuo": [ "Wei Zuo" ]
 ,
   "xuan-zuo": [ "Xuan Zuo" ]
 ,

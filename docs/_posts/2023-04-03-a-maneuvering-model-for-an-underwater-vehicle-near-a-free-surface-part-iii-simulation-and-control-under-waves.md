@@ -75,7 +75,7 @@ This article incorporates free-surface and ambient wave effects into a nonlinear
 - riedel, Model based predictive control of AUVs for station keeping in a shallow water wave environment. Proc Int Adv Robotics Program (0)
 - conway, Characterisation of suction effects on a submarine body operating near the free surface. Proc 21st Australas Fluid Mechanics Conf (0)
 - crook, An initial assessment of free surface effects on submerged bodies. (1994)
-- Donaire, A. & Perez, T. Port-Hamiltonian Theory of Motion Control for Marine Craft. IFAC Proceedings Volumes vol. 43 201–206 (2010) -- [10.3182/20100915-3-de-3008.00054](https://doi.org/10.3182/20100915-3-de-3008.00054)
+- [Donaire, A. & Perez, T. Port-Hamiltonian Theory of Motion Control for Marine Craft. IFAC Proceedings Volumes vol. 43 201–206 (2010)](port-hamiltonian-theory-of-motion-control-for-marine-craft) -- [10.3182/20100915-3-de-3008.00054](https://doi.org/10.3182/20100915-3-de-3008.00054)
 - cummins, The impulse response function and ship motions. (1962)
 - feldman, DTNSRDC revised standard submaine equations of motion. (1979)
 - Fossen, T. I. Handbook of Marine Craft Hydrodynamics and Motion Control. (2011) doi:10.1002/9781119994138 -- [10.1002/9781119994138](https://doi.org/10.1002/9781119994138)

@@ -43,7 +43,7 @@ This paper introduces Stochastic Port-Hamiltonian Systems (SPHS's), whose dynami
 ## References
 - satoh, stabilization of time-varying stochastic port-hamiltonian systems and its application to stochastic trajectory tracking control. Proc 37th SICE Symposium on Control Theory (2008)
 - Itô, K. On a Formula Concerning Stochastic Differentials. Selected Papers 169–179 (1987) doi:10.1007/978-1-4612-5370-9_11 -- [10.1007/978-1-4612-5370-9_11](https://doi.org/10.1007/978-1-4612-5370-9_11)
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - ohsumi, Introduction to Stochastic Systems (2002)
 - Willems, J. C. Dissipative dynamical systems Part II: Linear systems with quadratic supply rates. Archive for Rational Mechanics and Analysis vol. 45 352–393 (1972) -- [10.1007/bf00276494](https://doi.org/10.1007/bf00276494)

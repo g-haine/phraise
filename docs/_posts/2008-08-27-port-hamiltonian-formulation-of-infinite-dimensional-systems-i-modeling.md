@@ -54,6 +54,6 @@ In this paper, some new results concerning the modeling of distributed parameter
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
 - ingarden, Classical Electrodynamics (1985)
 - Gomberoff, A. & Hojman, S. A. Non-standard construction of Hamiltonian structures. Journal of Physics A: Mathematical and General vol. 30 5077–5084 (1997) -- [10.1088/0305-4470/30/14/018](https://doi.org/10.1088/0305-4470/30/14/018)
-- Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502 -- [10.1109/cdc.2001.980911](https://doi.org/10.1109/cdc.2001.980911)
+- [Van der Schaft, A. J. & Maschke, B. M. Fluid dynamical systems as Hamiltonian boundary control systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4497–4502](fluid-dynamical-systems-as-hamiltonian-boundary-control-systems0) -- [10.1109/cdc.2001.980911](https://doi.org/10.1109/cdc.2001.980911)
 - Maschke, B. M. & van der Schaft, A. J. Interconnection of systems: the network paradigm. Proceedings of 35th IEEE Conference on Decision and Control vol. 1 207–212 -- [10.1109/cdc.1996.574297](https://doi.org/10.1109/cdc.1996.574297)
 

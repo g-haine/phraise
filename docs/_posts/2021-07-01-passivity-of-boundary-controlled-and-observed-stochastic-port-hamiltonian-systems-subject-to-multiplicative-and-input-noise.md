@@ -62,7 +62,7 @@ Boundary control; Boundary observation; Port-Hamiltonian systems; Stochastic par
 - Duncan, T. E., Maslowski, B. & Pasik-Duncan, B. Adaptive Boundary and Point Control of Linear Stochastic Distributed Parameter Systems. SIAM Journal on Control and Optimization vol. 32 648–672 (1994) -- [10.1137/s0363012992228726](https://doi.org/10.1137/s0363012992228726)
 - [Fang, Z. & Gao, C. Stabilization of Input-Disturbed Stochastic Port-Hamiltonian Systems Via Passivity. IEEE Transactions on Automatic Control vol. 62 4159–4166 (2017)](stabilization-of-input-disturbed-stochastic-port-hamiltonian-systems-via-passivity) -- [10.1109/tac.2017.2676619](https://doi.org/10.1109/tac.2017.2676619)
 - Florchinger, P. A Passive System Approach to Feedback Stabilization of Nonlinear Control Stochastic Systems. SIAM Journal on Control and Optimization vol. 37 1848–1864 (1999) -- [10.1137/s0363012997317478](https://doi.org/10.1137/s0363012997317478)
-- Haddad, W. M., Rajpurohit, T. & Jin, X. Energy-based feedback control for stochastic port-controlled Hamiltonian systems. Automatica vol. 97 134–142 (2018) -- [10.1016/j.automatica.2018.07.031](https://doi.org/10.1016/j.automatica.2018.07.031)
+- [Haddad, W. M., Rajpurohit, T. & Jin, X. Energy-based feedback control for stochastic port-controlled Hamiltonian systems. Automatica vol. 97 134–142 (2018)](energy-based-feedback-control-for-stochastic-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2018.07.031](https://doi.org/10.1016/j.automatica.2018.07.031)
 - Jacob, (2012)
 - Lamoline, (2019)
 - Lamoline, On stochastic port-Hamiltonian systems with boundary control and observation. (2017)

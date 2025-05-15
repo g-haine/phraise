@@ -61,7 +61,7 @@ Angle formation; double integrator; port-Hamiltonian; distance estimator
 - Stacey, A passivity-based approach to formation control using partial measurements of relative position. IEEE Transactions on Automatic Control (2015)
 - Trinh, Bearing-based formation control of a group of agents with leader-first follower structure. IEEE Transactions on Automatic Control (2018)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- Vos, E., Scherpen, J. M. A., Schaft, A. J. van der & Postma, A. Formation Control of Wheeled Robots in the Port-Hamiltonian Framework. IFAC Proceedings Volumes vol. 47 6662–6667 (2014) -- [10.3182/20140824-6-za-1003.00394](https://doi.org/10.3182/20140824-6-za-1003.00394)
+- [Vos, E., Scherpen, J. M. A., Schaft, A. J. van der & Postma, A. Formation Control of Wheeled Robots in the Port-Hamiltonian Framework. IFAC Proceedings Volumes vol. 47 6662–6667 (2014)](formation-control-of-wheeled-robots-in-the-port-hamiltonian-framework) -- [10.3182/20140824-6-za-1003.00394](https://doi.org/10.3182/20140824-6-za-1003.00394)
 - Xu, M. & Liang, Y. Formation Flying on Elliptic Orbits by Hamiltonian Structure-Preserving Control. Journal of Guidance, Control, and Dynamics vol. 41 294–300 (2018) -- [10.2514/1.g002141](https://doi.org/10.2514/1.g002141)
 - Zhao, S., Li, Z. & Ding, Z. Bearing-Only Formation Tracking Control of Multiagent Systems. IEEE Transactions on Automatic Control vol. 64 4541–4554 (2019) -- [10.1109/tac.2019.2903290](https://doi.org/10.1109/tac.2019.2903290)
 

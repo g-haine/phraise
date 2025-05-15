@@ -14,6 +14,7 @@ permalink: /authors/juan-i-yuz
 <li><span class='post-meta'>2020 -- Luis A. Mora, Yann Le Gorrec, Denis Matignon, Hector Ramirez, Juan I. Yuz</span><h3><a class='post-link' href="{{ site.baseurl }}/about-dissipative-and-pseudo-port-hamiltonian-formulations-of-irreversible-newtonian-compressible-flows">About Dissipative and Pseudo Port-Hamiltonian Formulations of Irreversible Newtonian Compressible Flows</a></h3></li>
 <li><span class='post-meta'>2019 -- Luis A. Mora, Héctor Ramírez, Juan I. Yuz, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/a-scalable-port-hamiltonian-model-for-incompressible-fluids-in-irregular-geometries">A Scalable port-Hamiltonian Model for Incompressible Fluids in Irregular Geometries</a></h3></li>
 <li><span class='post-meta'>2018 -- Luis A. Mora, Juan I. Yuz, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-fluid-structure-interaction-model-for-the-vocal-folds">A port-Hamiltonian Fluid-Structure Interaction Model for the Vocal folds</a></h3></li>
+<li><span class='post-meta'>2015 -- Marco Encina, Juan Yuz, Matias Zanartu, Gabriel Galindo</span><h3><a class='post-link' href="{{ site.baseurl }}/vocal-fold-modeling-through-the-port-hamiltonian-systems-approach">Vocal fold modeling through the port-Hamiltonian systems approach</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

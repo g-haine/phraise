@@ -53,7 +53,7 @@ ABSTRACT Stability of power networks is an increasingly important topic because 
 - Machowski J., Power System Dynamics: Stability and Control (2008)
 - Kundur P., Power System Stability and Control (1993)
 - Caliskan, S. Y. & Tabuada, P. Compositional Transient Stability Analysis of Multimachine Power Networks. IEEE Transactions on Control of Network Systems vol. 1 4–14 (2014) -- [10.1109/tcns.2014.2304868](https://doi.org/10.1109/tcns.2014.2304868)
-- Transient stabilization of multimachine power systems with nontrivial transfer conductances. IEEE Transactions on Automatic Control vol. 50 60–75 (2005) -- [10.1109/tac.2004.840477](https://doi.org/10.1109/tac.2004.840477)
+- [Transient stabilization of multimachine power systems with nontrivial transfer conductances. IEEE Transactions on Automatic Control vol. 50 60–75 (2005)](transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances) -- [10.1109/tac.2004.840477](https://doi.org/10.1109/tac.2004.840477)
 - Li N., American Control Conference (2014)
 - Seungil Y., Proceeding of IEEE Conference on Decision and Control (2014)
 - Zhang, X. & Papachristodoulou, A. A real-time control framework for smart power networks: Design methodology and stability. Automatica vol. 58 43–50 (2015) -- [10.1016/j.automatica.2015.05.003](https://doi.org/10.1016/j.automatica.2015.05.003)

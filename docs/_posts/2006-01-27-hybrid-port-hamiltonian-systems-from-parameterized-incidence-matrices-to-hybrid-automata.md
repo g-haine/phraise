@@ -65,7 +65,7 @@ Hybrid dynamical systems; Modeling; Hybrid automata; Dynamic network graph; Inci
 - A phase transition model for cascading network failure. IEEE Control Systems vol. 21 40–51 (2001) -- [10.1109/37.969134](https://doi.org/10.1109/37.969134)
 - Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Frigioni, D. & Italiano, G. F. Dynamically Switching Vertices in Planar Graphs. Algorithmica vol. 28 76–103 (2000) -- [10.1007/s004530010032](https://doi.org/10.1007/s004530010032)
-- Haddad, W. M., Nersesov, S. G. & Chellaboina, V. Energy-based control for hybrid port-controlled Hamiltonian systems. Automatica vol. 39 1425–1435 (2003) -- [10.1016/s0005-1098(03)00113-4](https://doi.org/10.1016/s0005-1098(03)00113-4)
+- [Haddad, W. M., Nersesov, S. G. & Chellaboina, V. Energy-based control for hybrid port-controlled Hamiltonian systems. Automatica vol. 39 1425–1435 (2003)](energy-based-control-for-hybrid-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(03)00113-4](https://doi.org/10.1016/s0005-1098(03)00113-4)
 - Henzinger, A user guide to HYTECH. (1995)
 - [Jeltsema, D. & Scherpen, J. M. A. A dual relation between port-Hamiltonian systems and the Brayton–Moser equations for nonlinear switched RLC circuits. Automatica vol. 39 969–979 (2003)](a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits) -- [10.1016/s0005-1098(03)00070-0](https://doi.org/10.1016/s0005-1098(03)00070-0)
 - Karnopp, (1990)

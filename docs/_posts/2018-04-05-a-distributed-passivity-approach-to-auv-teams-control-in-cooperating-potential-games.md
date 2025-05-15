@@ -83,7 +83,7 @@ Autonomous vehicles; Cooperation; Distributed control; Passivity; Port-Hamiltoni
 - Stojanovic, M. On the relationship between capacity and distance in an underwater acoustic communication channel. ACM SIGMOBILE Mobile Computing and Communications Review vol. 11 34–43 (2007) -- [10.1145/1347364.1347373](https://doi.org/10.1145/1347364.1347373)
 - Ui, T. A Shapley Value Representation of Potential Games. Games and Economic Behavior vol. 31 121–135 (2000) -- [10.1006/game.1999.0729](https://doi.org/10.1006/game.1999.0729)
 - Van der Schaft, (2006)
-- Vos, E., Scherpen, J. M. A., Schaft, A. J. van der & Postma, A. Formation Control of Wheeled Robots in the Port-Hamiltonian Framework. IFAC Proceedings Volumes vol. 47 6662–6667 (2014) -- [10.3182/20140824-6-za-1003.00394](https://doi.org/10.3182/20140824-6-za-1003.00394)
+- [Vos, E., Scherpen, J. M. A., Schaft, A. J. van der & Postma, A. Formation Control of Wheeled Robots in the Port-Hamiltonian Framework. IFAC Proceedings Volumes vol. 47 6662–6667 (2014)](formation-control-of-wheeled-robots-in-the-port-hamiltonian-framework) -- [10.3182/20140824-6-za-1003.00394](https://doi.org/10.3182/20140824-6-za-1003.00394)
 - [Vos, E., Jafarian, M., Persis, C. D., Scherpen, J. M. A. & Schaft, A. J. van der. Formation control of nonholonomic wheeled robots in the presence of matched input disturbances. IFAC-PapersOnLine vol. 48 63–68 (2015)](formation-control-of-nonholonomic-wheeled-robots-in-the-presence-of-matched-input-disturbances) -- [10.1016/j.ifacol.2015.10.215](https://doi.org/10.1016/j.ifacol.2015.10.215)
 - Williams, Locally constrained connectivity control in mobile robot networks. (2013)
 - Williams, Topology-constrained flocking in locally interacting mobile networks. (2013)

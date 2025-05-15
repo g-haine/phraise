@@ -56,7 +56,7 @@ Port Hamiltonian systems; IDA-PBC (Interconnection and Damping Assignment Passiv
 - Bernstein, (2009)
 - [Dörfler, F., Johnsen, J. K. & Allgöwer, F. An introduction to interconnection and damping assignment passivity-based control in process engineering. Journal of Process Control vol. 19 1413–1426 (2009)](an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering) -- [10.1016/j.jprocont.2009.07.015](https://doi.org/10.1016/j.jprocont.2009.07.015)
 - Duindam, (2009)
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - [Kotyczka, P. Local linear dynamics assignment in IDA-PBC. Automatica vol. 49 1037–1044 (2013)](local-linear-dynamics-assignment-in-ida-pbc) -- [10.1016/j.automatica.2013.01.028](https://doi.org/10.1016/j.automatica.2013.01.028)
 - Lancaster, (1995)
 - LOHMILLER, W. & SLOTINE, J.-J. E. On Contraction Analysis for Non-linear Systems. Automatica vol. 34 683–696 (1998) -- [10.1016/s0005-1098(98)00019-3](https://doi.org/10.1016/s0005-1098(98)00019-3)
@@ -64,5 +64,5 @@ Port Hamiltonian systems; IDA-PBC (Interconnection and Damping Assignment Passiv
 - Ortega, (1998)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. International Journal of Robust and Nonlinear Control vol. 13 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
-- Yaghmaei, A. & Yazdanpanah, M. J. Trajectory tracking of a class of port Hamiltonian systems using Timed IDA-PBC technique. 2015 54th IEEE Conference on Decision and Control (CDC) 5037–5042 (2015) doi:10.1109/cdc.2015.7403007 -- [10.1109/cdc.2015.7403007](https://doi.org/10.1109/cdc.2015.7403007)
+- [Yaghmaei, A. & Yazdanpanah, M. J. Trajectory tracking of a class of port Hamiltonian systems using Timed IDA-PBC technique. 2015 54th IEEE Conference on Decision and Control (CDC) 5037–5042 (2015) doi:10.1109/cdc.2015.7403007](trajectory-tracking-of-a-class-of-port-hamiltonian-systems-using-timed-ida-pbc-technique) -- [10.1109/cdc.2015.7403007](https://doi.org/10.1109/cdc.2015.7403007)
 

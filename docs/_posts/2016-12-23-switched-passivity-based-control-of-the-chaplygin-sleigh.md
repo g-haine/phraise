@@ -58,7 +58,7 @@ Constraints; Nonholonomic; Passivity Based Control; Path planning; Port-Hamilton
 - Bloch, (2003)
 - Bloch, A. M., Reyhanoglu, M. & McClamroch, N. H. Control and stabilization of nonholonomic dynamic systems. IEEE Transactions on Automatic Control vol. 37 1746–1757 (1992) -- [10.1109/9.173144](https://doi.org/10.1109/9.173144)
 - Choset, (2005)
-- Donaire, A., Romero, J. G., Perez, T. & Ortega, R. Smooth stabilisation of nonholonomic robots subject to disturbances. 2015 IEEE International Conference on Robotics and Automation (ICRA) 4385–4390 (2015) doi:10.1109/icra.2015.7139805 -- [10.1109/icra.2015.7139805](https://doi.org/10.1109/icra.2015.7139805)
+- [Donaire, A., Romero, J. G., Perez, T. & Ortega, R. Smooth stabilisation of nonholonomic robots subject to disturbances. 2015 IEEE International Conference on Robotics and Automation (ICRA) 4385–4390 (2015) doi:10.1109/icra.2015.7139805](smooth-stabilisation-of-nonholonomic-robots-subject-to-disturbances) -- [10.1109/icra.2015.7139805](https://doi.org/10.1109/icra.2015.7139805)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - Goldstein, (1965)
 - Developments in nonholonomic control problems. IEEE Control Systems vol. 15 20–36 (1995) -- [10.1109/37.476384](https://doi.org/10.1109/37.476384)

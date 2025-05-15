@@ -50,7 +50,7 @@ In this article, Stochastic port-Hamiltonian systems (SPHS) on infinite-dimensio
 - Da Prato, G. & Zabczyk, J. Stochastic Equations in Infinite Dimensions. (2014) doi:10.1017/cbo9781107295513 -- [10.1017/cbo9781107295513](https://doi.org/10.1017/cbo9781107295513)
 - Tucsnak, M. & Weiss, G. Well-posed systems—The LTI case and beyond. Automatica vol. 50 1757–1779 (2014) -- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
 - Lü, Q. Stochastic Well-Posed Systems and Well-Posedness of Some Stochastic Partial Differential Equations with Boundary Control and Observation. SIAM Journal on Control and Optimization vol. 53 3457–3482 (2015) -- [10.1137/151002605](https://doi.org/10.1137/151002605)
-- Lamoline, F. & Winkin, J. J. On stochastic port-hamiltonian systems with boundary control and observation. 2017 IEEE 56th Annual Conference on Decision and Control (CDC) 2492–2497 (2017) doi:10.1109/cdc.2017.8264015 -- [10.1109/cdc.2017.8264015](https://doi.org/10.1109/cdc.2017.8264015)
+- [Lamoline, F. & Winkin, J. J. On stochastic port-hamiltonian systems with boundary control and observation. 2017 IEEE 56th Annual Conference on Decision and Control (CDC) 2492–2497 (2017) doi:10.1109/cdc.2017.8264015](on-stochastic-port-hamiltonian-systems-with-boundary-control-and-observation) -- [10.1109/cdc.2017.8264015](https://doi.org/10.1109/cdc.2017.8264015)
 - lamoline, Well-posedness of stochastic port-Hamiltonian systems on infinite-dimensional spaces. (2019)
 - lamoline, Analysis and LQG control of infinite-dimensional stochastic port-Hamiltonian systems. (2019)
 - lamoline, Nice port-Hamiltonian systems are Riesz-spectral systems. Preprints 20th World Congress The Int Federation Autom Control (0)

@@ -59,7 +59,7 @@ Port-Hamiltonian systems; constrained Hamiltonian systems; input-output systems;
 - Dirac, (2001)
 - Hörmander, L. Fourier integral operators. I. Acta Mathematica vol. 127 79–183 (1971) -- [10.1007/bf02392052](https://doi.org/10.1007/bf02392052)
 - Libermann, (1989)
-- van der Schaft, A. & Mehrmann, V. Linear Port-Hamiltonian DAE Systems Revisited. SSRN Electronic Journal (2022) doi:10.2139/ssrn.4292998 -- [10.2139/ssrn.4292998](https://doi.org/10.2139/ssrn.4292998)
+- [van der Schaft, A. & Mehrmann, V. Linear Port-Hamiltonian DAE Systems Revisited. SSRN Electronic Journal (2022) doi:10.2139/ssrn.4292998](linear-port-hamiltonian-dae-systems-revisited0) -- [10.2139/ssrn.4292998](https://doi.org/10.2139/ssrn.4292998)
 - [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties) -- [10.1016/s1474-6670(17)52308-3](https://doi.org/10.1016/s1474-6670(17)52308-3)
 - Pons, J. M. On Dirac’s incomplete analysis of gauge transformations. Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics vol. 36 491–518 (2005) -- [10.1016/j.shpsb.2005.04.004](https://doi.org/10.1016/j.shpsb.2005.04.004)
 - van der Schaft, (2014)

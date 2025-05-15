@@ -42,7 +42,7 @@ Recent results on counterclockwise input-output dynamics and negative-imaginary 
  
 ## References
 - Xiong, J., Petersen, I. R. & Lanzon, A. A Negative Imaginary Lemma and the Stability of Interconnections of Linear Negative Imaginary Systems. IEEE Trans. Automat. Contr. 55, 2342–2347 (2010) -- [10.1109/tac.2010.2052711](https://doi.org/10.1109/tac.2010.2052711)
-- van der Schaft, A. & Maschke, B. A Port-Hamiltonian Formulation of Open Chemical Reaction Networks. Lecture Notes in Control and Information Sciences 339–348 (2010) doi:10.1007/978-3-642-16135-3_27 -- [10.1007/978-3-642-16135-3_27](https://doi.org/10.1007/978-3-642-16135-3_27)
+- [van der Schaft, A. & Maschke, B. A Port-Hamiltonian Formulation of Open Chemical Reaction Networks. Lecture Notes in Control and Information Sciences 339–348 (2010) doi:10.1007/978-3-642-16135-3_27](a-port-hamiltonian-formulation-of-open-chemical-reaction-networks) -- [10.1007/978-3-642-16135-3_27](https://doi.org/10.1007/978-3-642-16135-3_27)
 - Wall, C. T. C. Geometric properties of generic differentiable manifolds. Lecture Notes in Mathematics 707–774 (1977) doi:10.1007/bfb0085382 -- [10.1007/bfb0085382](https://doi.org/10.1007/bfb0085382)
 - van der schaft, L2-gain and passivity techniques in nonlinear control, lect. Notes in Control & Information Sciences (1996)
 - van der schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv fu?r Elektronik und U?bertragungstechnik (1995)

@@ -53,7 +53,7 @@ Passivity-based control; Asymptotic stabilization; Lagrangian and Hamiltonian sy
  
 ## References
 - Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
-- Aoues, S., Eberard, D. & Marquis-Favre, W. Discrete IDA-PBC design for 2D port-Hamiltonian systems. IFAC Proceedings Volumes vol. 46 134–139 (2013) -- [10.3182/20130904-3-fr-2041.00088](https://doi.org/10.3182/20130904-3-fr-2041.00088)
+- [Aoues, S., Eberard, D. & Marquis-Favre, W. Discrete IDA-PBC design for 2D port-Hamiltonian systems. IFAC Proceedings Volumes vol. 46 134–139 (2013)](discrete-ida-pbc-design-for-2d-port-hamiltonian-systems) -- [10.3182/20130904-3-fr-2041.00088](https://doi.org/10.3182/20130904-3-fr-2041.00088)
 - Bloch, A. M., Dong Eui Chang, Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. II. Potential shaping. IEEE Transactions on Automatic Control vol. 46 1556–1571 (2001) -- [10.1109/9.956051](https://doi.org/10.1109/9.956051)
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Transactions on Automatic Control vol. 45 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - Bof, (2018)

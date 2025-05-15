@@ -52,7 +52,7 @@ Port-Hamiltonian systems; Bond graphs; Automated modelling; State-space models; 
 [Download the bib file]({{ site.baseurl }}/assets/bib/explicit-port-hamiltonian-formulation-of-multi-bond-graphs-for-an-automated-model-generation.bib)
  
 ## References
-- Batlle, C., Massana, I. & Simo, E. Representation of a general composition of Dirac structures. IEEE Conference on Decision and Control and European Control Conference 5199–5204 (2011) doi:10.1109/cdc.2011.6160588 -- [10.1109/cdc.2011.6160588](https://doi.org/10.1109/cdc.2011.6160588)
+- [Batlle, C., Massana, I. & Simo, E. Representation of a general composition of Dirac structures. IEEE Conference on Decision and Control and European Control Conference 5199–5204 (2011) doi:10.1109/cdc.2011.6160588](representation-of-a-general-composition-of-dirac-structures) -- [10.1109/cdc.2011.6160588](https://doi.org/10.1109/cdc.2011.6160588)
 - Bloch, Representations of Dirac structures on vector spaces and nonlinear L-C circuits. (1999)
 - Borutzky, (2010)
 - [Donaire, A. & Junco, S. Derivation of Input-State-Output Port-Hamiltonian Systems from bond graphs. Simulation Modelling Practice and Theory vol. 17 137–151 (2009)](derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs) -- [10.1016/j.simpat.2008.02.007](https://doi.org/10.1016/j.simpat.2008.02.007)

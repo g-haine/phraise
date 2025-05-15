@@ -55,7 +55,7 @@ Modelling; Port-Hamiltonian systems; Distributed parameter systems; Fluid-struct
  
 ## References
 - de Vries, M. P., Schutte, H. K., Veldman, A. E. P. & Verkerke, G. J. Glottal flow through a two-mass model: Comparison of Navier–Stokes solutions with simplified models. The Journal of the Acoustical Society of America vol. 111 1847–1853 (2002) -- [10.1121/1.1323716](https://doi.org/10.1121/1.1323716)
-- Encina, M., Yuz, J., Zanartu, M. & Galindo, G. Vocal fold modeling through the port-Hamiltonian systems approach. 2015 IEEE Conference on Control Applications (CCA) 1558–1563 (2015) doi:10.1109/cca.2015.7320832 -- [10.1109/cca.2015.7320832](https://doi.org/10.1109/cca.2015.7320832)
+- [Encina, M., Yuz, J., Zanartu, M. & Galindo, G. Vocal fold modeling through the port-Hamiltonian systems approach. 2015 IEEE Conference on Control Applications (CCA) 1558–1563 (2015) doi:10.1109/cca.2015.7320832](vocal-fold-modeling-through-the-port-hamiltonian-systems-approach) -- [10.1109/cca.2015.7320832](https://doi.org/10.1109/cca.2015.7320832)
 - Hélie, (2017)
 - Ishizaka, K. & Flanagan, J. L. Synthesis of Voiced Sounds From a Two-Mass Model of the Vocal Cords. Bell System Technical Journal vol. 51 1233–1268 (1972) -- [10.1002/j.1538-7305.1972.tb02651.x](https://doi.org/10.1002/j.1538-7305.1972.tb02651.x)
 - [Lopes, N. & Hélie, T. Energy Balanced Model of a Jet Interacting With a Brass Player’s Lip. Acta Acustica united with Acustica vol. 102 141–154 (2016)](energy-balanced-model-of-a-jet-interacting-with-a-brass-player-s-lip) -- [10.3813/aaa.918931](https://doi.org/10.3813/aaa.918931)

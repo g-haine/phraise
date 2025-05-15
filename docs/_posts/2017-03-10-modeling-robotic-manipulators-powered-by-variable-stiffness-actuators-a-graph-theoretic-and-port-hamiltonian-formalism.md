@@ -74,5 +74,5 @@ This paper proposes a modeling method for generic compliant robotic manipulators
 - stramigioli, Modeling and IPC Control of Interactive Mechanical Systems A Coordinate-Free Approach (2001)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - van der schaft, Port-Hamiltonian systems: An introductory survey. Proc Int Congr Mathematicians (2006)
-- Groothuis, S. S., Stramigioli, S. & Carloni, R. Compliant manipulators on graphs. 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 6536–6542 (2015) doi:10.1109/iros.2015.7354311 -- [10.1109/iros.2015.7354311](https://doi.org/10.1109/iros.2015.7354311)
+- [Groothuis, S. S., Stramigioli, S. & Carloni, R. Compliant manipulators on graphs. 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 6536–6542 (2015) doi:10.1109/iros.2015.7354311](compliant-manipulators-on-graphs) -- [10.1109/iros.2015.7354311](https://doi.org/10.1109/iros.2015.7354311)
 

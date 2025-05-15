@@ -61,5 +61,5 @@ Stochastic disturbances caused by renewable energy systems (e.g., wind power and
 - Wang, K. & Crow, M. L. The Fokker-Planck Equation for Power System Stability Probability Density Function Evolution. IEEE Transactions on Power Systems vol. 28 2994–3001 (2013) -- [10.1109/tpwrs.2012.2232317](https://doi.org/10.1109/tpwrs.2012.2232317)
 - Dong, Z. Y., Zhao, J. H. & Hill, D. J. Numerical Simulation for Stochastic Transient Stability Assessment. IEEE Transactions on Power Systems vol. 27 1741–1749 (2012) -- [10.1109/tpwrs.2012.2187466](https://doi.org/10.1109/tpwrs.2012.2187466)
 - Caliskan, S. Y. & Tabuada, P. Compositional Transient Stability Analysis of Multimachine Power Networks. IEEE Transactions on Control of Network Systems vol. 1 4–14 (2014) -- [10.1109/tcns.2014.2304868](https://doi.org/10.1109/tcns.2014.2304868)
-- Transient stabilization of multimachine power systems with nontrivial transfer conductances. IEEE Transactions on Automatic Control vol. 50 60–75 (2005) -- [10.1109/tac.2004.840477](https://doi.org/10.1109/tac.2004.840477)
+- [Transient stabilization of multimachine power systems with nontrivial transfer conductances. IEEE Transactions on Automatic Control vol. 50 60–75 (2005)](transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances) -- [10.1109/tac.2004.840477](https://doi.org/10.1109/tac.2004.840477)
 

@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Gerrit A. Folkertsma](authors/gerrit-a-folkertsma), [Arjan J. van der Schaft](authors/arjan-van-der-schaft), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Gerrit A. Folkertsma](authors/gerrit-adriaan-folkertsma), [Arjan J. van der Schaft](authors/arjan-van-der-schaft), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 In high-speed locomotion, control is best shared between rain" and ody": if the natural body dynamics already exhibit desired behaviour, control action can be restricted to stabilising this behaviour, or providing energy to keep it going. This morphological computation can be modelled and designed using Port-Hamiltonian systems (PHS) theory, since the basis of both is the interconnection of dynamic elements. In this paper, we explore the application of PHS to morphological computation, showing that a three degrees-of-freedom elastic spring functioning as spine in a quadrupedal robot can lead to forward locomotion|without any complicated control action whatsoever.

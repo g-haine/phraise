@@ -58,11 +58,11 @@ Dissipation obstacle; Energy-shaping; Control-by-interconnection; Port-Hamiltoni
 - (2009)
 - Koopman, J. & Jeltsema, D. Casimir-Based Control Beyond the Dissipation Obstacle. IFAC Proceedings Volumes vol. 45 173–177 (2012) -- [10.3182/20120829-3-it-4022.00046](https://doi.org/10.3182/20120829-3-it-4022.00046)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Ortega, R. & Borja, L. P. New results on Control by Interconnection and Energy-Balancing Passivity-Based Control of port-hamiltonian systems. 53rd IEEE Conference on Decision and Control 2346–2351 (2014) doi:10.1109/cdc.2014.7039746 -- [10.1109/cdc.2014.7039746](https://doi.org/10.1109/cdc.2014.7039746)
+- [Ortega, R. & Borja, L. P. New results on Control by Interconnection and Energy-Balancing Passivity-Based Control of port-hamiltonian systems. 53rd IEEE Conference on Decision and Control 2346–2351 (2014) doi:10.1109/cdc.2014.7039746](new-results-on-control-by-interconnection-and-energy-balancing-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/cdc.2014.7039746](https://doi.org/10.1109/cdc.2014.7039746)
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - [Sanchez, S., Ortega, R., Grino, R., Bergna, G. & Molinas, M. Conditions for Existence of Equilibria of Systems With Constant Power Loads. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 61 2204–2211 (2014)](conditions-for-existence-of-equilibria-of-systems-with-constant-power-loads) -- [10.1109/tcsi.2013.2295953](https://doi.org/10.1109/tcsi.2013.2295953)
 - Secchi, (2007)
 - van~der Schaft, (1999)
 - van~der Schaft, Port-Hamiltonian systems theory: an introductory overview. (2014)
-- Venkatraman, A. & van der Schaft, A. Energy shaping of port-Hamiltonian systems by using alternate passive outputs. 2009 European Control Conference (ECC) 2175–2180 (2009) doi:10.23919/ecc.2009.7074727 -- [10.23919/ecc.2009.7074727](https://doi.org/10.23919/ecc.2009.7074727)
+- [Venkatraman, A. & van der Schaft, A. Energy shaping of port-Hamiltonian systems by using alternate passive outputs. 2009 European Control Conference (ECC) 2175–2180 (2009) doi:10.23919/ecc.2009.7074727](energy-shaping-of-port-hamiltonian-systems-by-using-alternate-passive-outputs) -- [10.23919/ecc.2009.7074727](https://doi.org/10.23919/ecc.2009.7074727)
 

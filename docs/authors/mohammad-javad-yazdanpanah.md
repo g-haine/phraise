@@ -13,6 +13,7 @@ permalink: /authors/mohammad-javad-yazdanpanah
 <li><span class='post-meta'>2019 -- Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href="{{ site.baseurl }}/output-control-design-and-separation-principle-for-a-class-of-port-hamiltonian-systems">Output control design and separation principle for a class of port‐Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2019 -- Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-observer-design-for-port-hamiltonian-systems">Structure Preserving Observer Design for Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2017 -- Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems">Trajectory tracking for a class of contractive port Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2015 -- Abolfazl Yaghmaei, Mohammad Javad Yazdanpanah</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-of-a-class-of-port-hamiltonian-systems-using-timed-ida-pbc-technique">Trajectory tracking of a class of port Hamiltonian systems using Timed IDA-PBC technique</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -88,7 +88,7 @@ Distributed port-Hamiltonian systems; Wave equation; Staggered grids; Finite-dif
 - Zingg, D. W. & Lomax, H. Finite-Difference Schemes on Regular Triangular Grids. Journal of Computational Physics vol. 108 306–313 (1993) -- [10.1006/jcph.1993.1184](https://doi.org/10.1006/jcph.1993.1184)
 - Kantorovich, (1958)
 - Hairer, (2006)
-- Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems &amp; Control Letters vol. 55 673–680 (2006) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
+- [Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems &amp; Control Letters vol. 55 673–680 (2006)](construction-of-discrete-time-models-for-port-controlled-hamiltonian-systems-with-applications) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
 - [Falaize, A. & Hélie, T. Passive simulation of the nonlinear port-Hamiltonian modeling of a Rhodes Piano. Journal of Sound and Vibration vol. 390 289–309 (2017)](passive-simulation-of-the-nonlinear-port-hamiltonian-modeling-of-a-rhodes-piano) -- [10.1016/j.jsv.2016.11.008](https://doi.org/10.1016/j.jsv.2016.11.008)
 - Trenchant, Structure preserving spatial discretization of 2D hyperbolic systems using staggered grids finite difference. (2017)
 - Collet, Semi-active optimization of 2D wave's dispersion into shunted piezocomposite systems for controlling acoustic interaction. (2011)

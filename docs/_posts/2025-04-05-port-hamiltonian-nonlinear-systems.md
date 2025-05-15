@@ -63,7 +63,7 @@ Control by interconnection; Energy ports; Energy shaping; Energy-Casimir method;
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Dorfman, (1987)
 - Duindam, (2009)
-- Folkertsma, G. A. & Stramigioli, S. Energy in Robotics. Foundations and Trends® in Robotics vol. 6 140–210 (2017) -- [10.1561/2300000038](https://doi.org/10.1561/2300000038)
+- [Folkertsma, G. A. & Stramigioli, S. Energy in Robotics. Foundations and Trends® in Robotics vol. 6 140–210 (2017)](energy-in-robotics) -- [10.1561/2300000038](https://doi.org/10.1561/2300000038)
 - Golo, Hamiltonian formulation of bond graphs. (2003)
 - [Krhač, K., Maschke, B. & van der Schaft, A. Port-Hamiltonian systems with energy and power ports. IFAC-PapersOnLine vol. 58 280–285 (2024)](port-hamiltonian-systems-with-energy-and-power-ports) -- [10.1016/j.ifacol.2024.08.294](https://doi.org/10.1016/j.ifacol.2024.08.294)
 - Lanzon, A. & Petersen, I. R. Stability Robustness of a Feedback Interconnection of Systems With Negative Imaginary Frequency Response. IEEE Transactions on Automatic Control vol. 53 1042–1046 (2008) -- [10.1109/tac.2008.919567](https://doi.org/10.1109/tac.2008.919567)

@@ -11,6 +11,7 @@ permalink: /authors/carmen-chan-zheng
 <li><span class='post-meta'>2023 -- Carmen Chan-Zheng, Pablo Borja, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/dead-zone-compensation-via-passivity-based-control-for-a-class-of-mechanical-systems">Dead-zone compensation via passivity-based control for a class of mechanical systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Pablo Borja, Carmen Chan-Zheng, Jacquelien M. A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-physical-systems-via-saturated-controllers-with-partial-state-measurements">Stabilization of Physical Systems via Saturated Controllers With Partial State Measurements</a></h3></li>
 <li><span class='post-meta'>2021 -- Carmen Chan-Zheng, Pablo Borja, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-mechanical-systems-with-linear-damping-identification">Passivity-based control of mechanical systems with linear damping identification</a></h3></li>
+<li><span class='post-meta'>2021 -- Carmen Chan-Zheng, Pablo Borja, Nima Monshizadeh, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/exponential-stability-and-tuning-for-a-class-of-mechanical-systems">Exponential Stability and Tuning for a Class of Mechanical Systems</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -50,6 +50,6 @@ A new port-Hamiltonian formulation for Maxwell's equations is presented. In cont
 - Bossavit, A. Discretization of Electromagnetic Problems: The “Generalized Finite Differences” Approach. Handbook of Numerical Analysis 105–197 (2005) doi:10.1016/s1570-8659(04)13002-0 -- [10.1016/s1570-8659(04)13002-0](https://doi.org/10.1016/s1570-8659(04)13002-0)
 - [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics vol. 62 1509–1531 (2012)](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
 - Arnold, D., Falk, R. & Winther, R. Finite element exterior calculus: from Hodge theory to numerical stability. Bulletin of the American Mathematical Society vol. 47 281–354 (2010) -- [10.1090/s0273-0979-10-01278-4](https://doi.org/10.1090/s0273-0979-10-01278-4)
-- Bond-graph modeling. IEEE Control Systems vol. 27 24–45 (2007) -- [10.1109/mcs.2007.338279](https://doi.org/10.1109/mcs.2007.338279)
+- [Bond-graph modeling. IEEE Control Systems vol. 27 24–45 (2007)](bond-graph-modeling) -- [10.1109/mcs.2007.338279](https://doi.org/10.1109/mcs.2007.338279)
 - pozar, Microwave Engineering (2004)
 

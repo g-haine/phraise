@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[M. Wang](authors/mei-wang), [A. Bestler](authors/a-bestler), [P. Kotyczka](authors/paul-kotyczka)
+[M. Wang](authors/m-wang), [A. Bestler](authors/a-bestler), [P. Kotyczka](authors/paul-kotyczka)
  
 ## Abstract
 In this paper, we present an approach to solve the feedforward motion control problem for a flexible beam, modeled with linear Timoshenko beam theory. The originality lies in the fact that all design steps, from modeling, over discretization to feedforward control are executed within the port-Hamiltonian (PH) framework. To obtain a finite-dimensional PH model which is suitable for inversion-based feedforward control design, a geometric pseudo-spectral discretization is performed. The feedforward control is tested with a plant model implemented in standard FEM software. The results of this paper will be amended by feedback control to achieve highly dynamic motion control on a lab test rig which is currently under construction.
@@ -60,7 +60,7 @@ Flexible robot arm; port-Hamiltonian systems; distributed parameter systems; pse
 - Garg, An overview of three pseudospectral methods for the numerical solution of optimal control problems. Advances in the Astronautical Sciences (2009)
 - Hesthaven, J. S. From Electrostatics to Almost Optimal Nodal Sets for Polynomial Interpolation in a Simplex. SIAM Journal on Numerical Analysis vol. 35 655–676 (1998) -- [10.1137/s003614299630587x](https://doi.org/10.1137/s003614299630587x)
 - [Kotyczka, P. & Blancato, A. Feedforward control of a channel flow based on a discretized port-Hamiltonian model. IFAC-PapersOnLine vol. 48 194–199 (2015)](feedforward-control-of-a-channel-flow-based-on-a-discretized-port-hamiltonian-model) -- [10.1016/j.ifacol.2015.10.238](https://doi.org/10.1016/j.ifacol.2015.10.238)
-- Kotyczka, P. & Mei Wang. Dual observer-based compensator design for linear port-Hamiltonian systems. 2015 European Control Conference (ECC) 2908–2913 (2015) doi:10.1109/ecc.2015.7330979 -- [10.1109/ecc.2015.7330979](https://doi.org/10.1109/ecc.2015.7330979)
+- [Kotyczka, P. & Mei Wang. Dual observer-based compensator design for linear port-Hamiltonian systems. 2015 European Control Conference (ECC) 2908–2913 (2015) doi:10.1109/ecc.2015.7330979](dual-observer-based-compensator-design-for-linear-port-hamiltonian-systems) -- [10.1109/ecc.2015.7330979](https://doi.org/10.1109/ecc.2015.7330979)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Lee, J. & Schultz, W. W. Eigenvalue analysis of Timoshenko beams and axisymmetric Mindlin plates by the pseudospectral method. Journal of Sound and Vibration vol. 269 609–621 (2004) -- [10.1016/s0022-460x(03)00047-6](https://doi.org/10.1016/s0022-460x(03)00047-6)
 - Loudini, Application of Timoshenko beam theory for deriving motion equations of a lightweight elastic link robot manipulator. ICGST-ARAS Journal (2006)

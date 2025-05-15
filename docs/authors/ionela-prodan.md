@@ -15,6 +15,7 @@ permalink: /authors/ionela-prodan
 <li><span class='post-meta'>2018 -- I. Zafeiratou, I. Prodan, L. Lefèvre, L. Piétrac</span><h3><a class='post-link' href="{{ site.baseurl }}/dynamical-modelling-of-a-dc-microgrid-using-a-port-hamiltonian-formalism">Dynamical modelling of a DC microgrid using a port-Hamiltonian formalism</a></h3></li>
 <li><span class='post-meta'>2017 -- T. Hung Pham, I. Prodan, D. Genon-Catalot, L. Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/power-balancing-in-a-dc-microgrid-elevator-system-through-constrained-optimization">Power balancing in a DC microgrid elevator system through constrained optimization</a></h3></li>
 <li><span class='post-meta'>2015 -- T. Hung Pham, I. Prodan, D. Genon-Catalot, L. Lefévre</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-model-for-dc-microgrid-lift-systems">Port-Hamiltonian model for DC-microgrid lift systems</a></h3></li>
+<li><span class='post-meta'>2015 -- Thanh Hung Pham, Ionela Prodan, Denis Genon-Catalot, Laurent Lefevre</span><h3><a class='post-link' href="{{ site.baseurl }}/efficient-energy-management-for-an-elevator-system-under-a-constrained-optimization-framework">Efficient energy management for an elevator system under a constrained optimization framework</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -54,7 +54,7 @@ symplectic discretization; Port Controlled Hamiltonian systems; discrete-time sy
 [Download the bib file]({{ site.baseurl }}/assets/bib/symplectic-discretization-of-port-controlled-hamiltonian-systems.bib)
  
 ## References
-- Aoues, S., Eberard, D. & Marquis-Favre, W. Canonical interconnection of discrete linear port-Hamiltonian systems. 52nd IEEE Conference on Decision and Control 3166–3171 (2013) doi:10.1109/cdc.2013.6760366 -- [10.1109/cdc.2013.6760366](https://doi.org/10.1109/cdc.2013.6760366)
+- [Aoues, S., Eberard, D. & Marquis-Favre, W. Canonical interconnection of discrete linear port-Hamiltonian systems. 52nd IEEE Conference on Decision and Control 3166–3171 (2013) doi:10.1109/cdc.2013.6760366](canonical-interconnection-of-discrete-linear-port-hamiltonian-systems) -- [10.1109/cdc.2013.6760366](https://doi.org/10.1109/cdc.2013.6760366)
 - Aoues, Control of a flexible spacecraft using discrete IDA-PBC design, 5thIFAC Workshop on Lagrangian and Hamiltonian methods for nonlinear control (2015)
 - Hairer, (2006)
 - Marsden, Discrete mechanics and variational integrators, A cta Numerica (2001)

@@ -59,7 +59,7 @@ Discrete mechanics; Port Hamiltonian systems
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Sanz-Serna, (1994)
 - Talasila, V., Clemente-Gallardo, J. & Schaft, A. J. van der. Geometry and Hamiltonian mechanics on discrete spaces. Journal of Physics A: Mathematical and General vol. 37 9705–9734 (2004) -- [10.1088/0305-4470/37/41/008](https://doi.org/10.1088/0305-4470/37/41/008)
-- Talasila, V., Clemente-Gallardo, J. & van der Schaft, A. J. DISCRETE PORT HAMILTONIAN SYSTEMS. IFAC Proceedings Volumes vol. 38 495–500 (2005) -- [10.3182/20050703-6-cz-1902.00737](https://doi.org/10.3182/20050703-6-cz-1902.00737)
+- [Talasila, V., Clemente-Gallardo, J. & van der Schaft, A. J. DISCRETE PORT HAMILTONIAN SYSTEMS. IFAC Proceedings Volumes vol. 38 495–500 (2005)](discrete-port-hamiltonian-systems0) -- [10.3182/20050703-6-cz-1902.00737](https://doi.org/10.3182/20050703-6-cz-1902.00737)
 - van der Schaft, Interconnection and geometry. (1999)
 - van der Schaft, (2000)
 

@@ -47,5 +47,5 @@ In this paper, a decomposition of a disturbance structure for distributed-parame
 - Morita, S. Geometry of Differential Forms. Translations of Mathematica                        Monographs (2001) doi:10.1090/mmono/201 -- [10.1090/mmono/201](https://doi.org/10.1090/mmono/201)
 - flanders, Differential Forms with Applications to the Physical Sciences (1963)
 - Wyatt, J., Chua, L. & Oster, G. Nonlinear n-port decomposition via the Laplace operator. IEEE Transactions on Circuits and Systems vol. 25 741–754 (1978) -- [10.1109/tcs.1978.1084530](https://doi.org/10.1109/tcs.1978.1084530)
-- Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136 -- [10.1109/cdc.2001.980086](https://doi.org/10.1109/cdc.2001.980086)
+- [Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136](on-stabilization-of-nonlinear-distributed-parameter-port-controlled-hamiltonian-systems-via-energy-shaping0) -- [10.1109/cdc.2001.980086](https://doi.org/10.1109/cdc.2001.980086)
 

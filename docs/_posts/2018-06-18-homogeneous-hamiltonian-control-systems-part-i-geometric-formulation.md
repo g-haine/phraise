@@ -62,7 +62,7 @@ Hamiltonian systems; nonlinear control; thermodynamics; contact geometry; homoge
 - Bravetti, A., Lopez-Monsalvo, C. S. & Nettel, F. Contact symmetries and Hamiltonian thermodynamics. Annals of Physics vol. 361 377–400 (2015) -- [10.1016/j.aop.2015.07.010](https://doi.org/10.1016/j.aop.2015.07.010)
 - Brockett, (1977)
 - Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
-- Favache, A., Dos Santos Martins, V. S., Dochain, D. & Maschke, B. Some Properties of Conservative Port Contact Systems. IEEE Transactions on Automatic Control vol. 54 2341–2351 (2009) -- [10.1109/tac.2009.2028973](https://doi.org/10.1109/tac.2009.2028973)
+- [Favache, A., Dos Santos Martins, V. S., Dochain, D. & Maschke, B. Some Properties of Conservative Port Contact Systems. IEEE Transactions on Automatic Control vol. 54 2341–2351 (2009)](some-properties-of-conservative-port-contact-systems) -- [10.1109/tac.2009.2028973](https://doi.org/10.1109/tac.2009.2028973)
 - Favache, A., Dochain, D. & Maschke, B. An entropy-based formulation of irreversible processes based on contact structures. Chemical Engineering Science vol. 65 5204–5216 (2010) -- [10.1016/j.ces.2010.06.019](https://doi.org/10.1016/j.ces.2010.06.019)
 - Hermann, (1973)
 - Libermann, (1987)

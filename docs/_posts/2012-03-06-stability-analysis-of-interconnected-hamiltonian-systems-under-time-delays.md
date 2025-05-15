@@ -45,7 +45,7 @@ Sufficient conditions are derived for checking whether interconnected port-Hamil
  
 ## References
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- Garcia–Canseco, E., Pasumarthy, R., van der Schaft, A. & Ortega, R. ON CONTROL BY INTERCONNECTION OF PORT HAMILTONIAN SYSTEMS. IFAC Proceedings Volumes vol. 38 330–335 (2005) -- [10.3182/20050703-6-cz-1902.00709](https://doi.org/10.3182/20050703-6-cz-1902.00709)
+- [Garcia–Canseco, E., Pasumarthy, R., van der Schaft, A. & Ortega, R. ON CONTROL BY INTERCONNECTION OF PORT HAMILTONIAN SYSTEMS. IFAC Proceedings Volumes vol. 38 330–335 (2005)](on-control-by-interconnection-of-port-hamiltonian-systems) -- [10.3182/20050703-6-cz-1902.00709](https://doi.org/10.3182/20050703-6-cz-1902.00709)
 - Fridman, E. & Shaked, U. Delay-dependent stability and H ∞ control: Constant and time-varying delays. International Journal of Control vol. 76 48–60 (2003) -- [10.1080/0020717021000049151](https://doi.org/10.1080/0020717021000049151)
 - Fridman, E. & Shaked, U. On delay-dependent passivity. IEEE Transactions on Automatic Control vol. 47 664–669 (2002) -- [10.1109/9.995046](https://doi.org/10.1109/9.995046)
 - Gu, K., Kharitonov, V. L. & Chen, J. Stability of Time-Delay Systems. (Birkhäuser Boston, 2003). doi:10.1007/978-1-4612-0039-0 -- [10.1007/978-1-4612-0039-0](https://doi.org/10.1007/978-1-4612-0039-0)

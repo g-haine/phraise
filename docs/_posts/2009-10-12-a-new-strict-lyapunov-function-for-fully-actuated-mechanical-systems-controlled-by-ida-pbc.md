@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[J.A. Acosta](authors/j-a-acosta), [E. Panteley](authors/e-panteley), [R. Ortega](authors/romeo-ortega)
+[J.A. Acosta](authors/j-a-acosta), [E. Panteley](authors/elena-panteley), [R. Ortega](authors/romeo-ortega)
  
 ## Abstract
 In this brief note a new strict Lyapunov function for mechanical systems controlled by the well-known Passivity-based Control technique of Interconnection and Damping Assignment is proposed. The general, total energy-shaping, formulation of the control technique is considered, which yields a port-Hamiltonian closed-loop system with non-fixed symplectic structure. To construct the proposed Lyapunov function a new systematic mathematical machinery is introduced. The resulting Lyapunov function contains, as particular cases, previous functions obtained for robot manipulators controlled by potential energy-shaping (plus damping injection) schemes. An additional contribution of our work is that, in contrast with most of the existing literature on this topic that is restricted to robot manipulators with only revolute joints, our analysis is applicable to robots with both revolute and prismatic joints. As an illustration example, practical bounds for a two-link direct drive robot manipulator are computed.

@@ -70,7 +70,7 @@ We introduce optimal energy shaping as an enhancement of classical passivity-bas
 - Lutter M., Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning, preprint, https://arxiv.org/abs/1907.04490 (2019)
 - Massaroli S., 1st IFAC Workshop on Robot Control (WROCO) (2019)
 - Massaroli S., Stable Neural Flows, preprint, https://arxiv.org/abs/2003.08063 (2020)
-- Massaroli, S. et al. Port–Hamiltonian Approach to Neural Network Training. 2019 IEEE 58th Conference on Decision and Control (CDC) 6799–6806 (2019) doi:10.1109/cdc40024.2019.9030017 -- [10.1109/cdc40024.2019.9030017](https://doi.org/10.1109/cdc40024.2019.9030017)
+- [Massaroli, S. et al. Port–Hamiltonian Approach to Neural Network Training. 2019 IEEE 58th Conference on Decision and Control (CDC) 6799–6806 (2019) doi:10.1109/cdc40024.2019.9030017](port-hamiltonian-approach-to-neural-network-training) -- [10.1109/cdc40024.2019.9030017](https://doi.org/10.1109/cdc40024.2019.9030017)
 - Massaroli S., Dissecting Neural ODEs, preprint, https://arxiv.org/abs/2002.08071 (2020)
 - [Nageshrao, S. P., Lopes, G. A. D., Jeltsema, D. & Babuska, R. Port-Hamiltonian Systems in Adaptive and Learning Control: A Survey. IEEE Transactions on Automatic Control vol. 61 1223–1238 (2016)](port-hamiltonian-systems-in-adaptive-and-learning-control-a-survey) -- [10.1109/tac.2015.2458491](https://doi.org/10.1109/tac.2015.2458491)
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
@@ -86,7 +86,7 @@ We introduce optimal energy shaping as an enhancement of classical passivity-bas
 - Stramigioli S., Mathematical Control Theory I
 - Sutton R. S., Reinforcement Learning: An Introduction (2018)
 - A. J. Van der Schaft, $L_{2}$-Gain and Passivity Techniques in Nonlinear Control (2000)
-- Vos, E., Scherpen, J. M. A., Schaft, A. J. van der & Postma, A. Formation Control of Wheeled Robots in the Port-Hamiltonian Framework. IFAC Proceedings Volumes vol. 47 6662–6667 (2014) -- [10.3182/20140824-6-za-1003.00394](https://doi.org/10.3182/20140824-6-za-1003.00394)
+- [Vos, E., Scherpen, J. M. A., Schaft, A. J. van der & Postma, A. Formation Control of Wheeled Robots in the Port-Hamiltonian Framework. IFAC Proceedings Volumes vol. 47 6662–6667 (2014)](formation-control-of-wheeled-robots-in-the-port-hamiltonian-framework) -- [10.3182/20140824-6-za-1003.00394](https://doi.org/10.3182/20140824-6-za-1003.00394)
 - Zhong Y. D., Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control, preprint, https://arxiv.org/abs/1909.12077 (2019)
 - Zhong Y. D., Benchmarking Energy-Conserving Neural Networks for Learning Dynamics from Data, preprint, https://arxiv.org/abs/2012.02334 (2020)
 - Zhong Y. D., Dissipative SymODEN: Encoding Hamiltonian Dynamics with Dissipation and Control into Deep Learning, preprint, https://arxiv.org/abs/2002.08860 (2020)

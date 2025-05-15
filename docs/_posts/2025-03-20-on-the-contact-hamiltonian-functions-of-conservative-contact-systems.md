@@ -61,7 +61,7 @@ Contact structure; Irreversible thermodynamics; Conservative contact systems; At
 - De Pablo, (2014)
 - Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - Favache, A., Dochain, D. & Maschke, B. An entropy-based formulation of irreversible processes based on contact structures. Chemical Engineering Science vol. 65 5204–5216 (2010) -- [10.1016/j.ces.2010.06.019](https://doi.org/10.1016/j.ces.2010.06.019)
-- Favache, A., Dos Santos Martins, V. S., Dochain, D. & Maschke, B. Some Properties of Conservative Port Contact Systems. IEEE Transactions on Automatic Control vol. 54 2341–2351 (2009) -- [10.1109/tac.2009.2028973](https://doi.org/10.1109/tac.2009.2028973)
+- [Favache, A., Dos Santos Martins, V. S., Dochain, D. & Maschke, B. Some Properties of Conservative Port Contact Systems. IEEE Transactions on Automatic Control vol. 54 2341–2351 (2009)](some-properties-of-conservative-port-contact-systems) -- [10.1109/tac.2009.2028973](https://doi.org/10.1109/tac.2009.2028973)
 - Favache, Contact structures: application to interconnected thermodynamical systems. (2007)
 - Gibbs, (1931)
 - Goto, S. Legendre submanifolds in contact manifolds as attractors and geometric nonequilibrium thermodynamics. Journal of Mathematical Physics vol. 56 (2015) -- [10.1063/1.4927226](https://doi.org/10.1063/1.4927226)

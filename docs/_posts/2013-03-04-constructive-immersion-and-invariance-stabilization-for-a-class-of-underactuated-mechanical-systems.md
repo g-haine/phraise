@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[I. Sarras](authors/ioannis-sarras), [J.Á. Acosta](authors/j-a-acosta), [R. Ortega](authors/romeo-ortega), [A.D. Mahindrakar](authors/a-d-mahindrakar)
+[I. Sarras](authors/ioannis-sarras), [J.Á. Acosta](authors/j-a-acosta), [R. Ortega](authors/romeo-ortega), [A.D. Mahindrakar](authors/arun-d-mahindrakar)
  
 ## Abstract
 A constructive approach to stabilize a desired equilibrium for a class of underactuated mechanical systems, which obviates the solution of partial differential equations, is proposed. The Immersion & Invariance methodology is adopted, with the main result formulated in the Port-Hamiltonian framework, for both model and target dynamics. The procedure is applicable to mechanical systems with under-actuation degree larger than one, extending the results recently reported by some of the authors. The approach is successfully applied to two benchmark examples and some basic connections with the interconnection and damping assignment passivity-based control are revealed. An additional contribution of this work is the identification of a class of mechanical systems whose mechanical structure remains invariant under partial feedback linearization.

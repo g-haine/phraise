@@ -50,7 +50,7 @@ The port-Hamiltonian modelling framework is extended to a class of systems conta
 - Strukov, D. B., Snider, G. S., Stewart, D. R. & Williams, R. S. The missing memristor found. Nature vol. 453 80–83 (2008) -- [10.1038/nature06932](https://doi.org/10.1038/nature06932)
 - Oster, G. F. & Auslander, D. M. The Memristor: A New Bond Graph Element. Journal of Dynamic Systems, Measurement, and Control vol. 94 249–252 (1972) -- [10.1115/1.3426595](https://doi.org/10.1115/1.3426595)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
-- Bond-graph modeling. IEEE Control Systems vol. 27 24–45 (2007) -- [10.1109/mcs.2007.338279](https://doi.org/10.1109/mcs.2007.338279)
+- [Bond-graph modeling. IEEE Control Systems vol. 27 24–45 (2007)](bond-graph-modeling) -- [10.1109/mcs.2007.338279](https://doi.org/10.1109/mcs.2007.338279)
 - Multidomain modeling of nonlinear networks and systems. IEEE Control Systems vol. 29 28–59 (2009) -- [10.1109/mcs.2009.932927](https://doi.org/10.1109/mcs.2009.932927)
 - Breedveld, P. C. Thermodynamic Bond Graphs and the Problem of Thermal Inertance. Journal of the Franklin Institute vol. 314 15–40 (1982) -- [10.1016/0016-0032(82)90050-3](https://doi.org/10.1016/0016-0032(82)90050-3)
 - Van A.J., Schaft, -Gain and Passivity Techniques in Nonlinear Control (2000)

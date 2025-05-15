@@ -54,7 +54,7 @@ Port-Hamiltonian systems; Dirac structures; discrete-time systems; geometric num
 [Download the bib file]({{ site.baseurl }}/assets/bib/discrete-time-port-hamiltonian-systems-based-on-gauss-legendre-collocation.bib)
  
 ## References
-- Aoues, S., Eberard, D. & Marquis-Favre, W. Canonical interconnection of discrete linear port-Hamiltonian systems. 52nd IEEE Conference on Decision and Control 3166–3171 (2013) doi:10.1109/cdc.2013.6760366 -- [10.1109/cdc.2013.6760366](https://doi.org/10.1109/cdc.2013.6760366)
+- [Aoues, S., Eberard, D. & Marquis-Favre, W. Canonical interconnection of discrete linear port-Hamiltonian systems. 52nd IEEE Conference on Decision and Control 3166–3171 (2013) doi:10.1109/cdc.2013.6760366](canonical-interconnection-of-discrete-linear-port-hamiltonian-systems) -- [10.1109/cdc.2013.6760366](https://doi.org/10.1109/cdc.2013.6760366)
 - Brewer, J. Kronecker products and matrix calculus in system theory. IEEE Transactions on Circuits and Systems vol. 25 772–781 (1978) -- [10.1109/tcs.1978.1084534](https://doi.org/10.1109/tcs.1978.1084534)
 - Duindam, (2009)
 - [Falaize, A. & Hélie, T. Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach. Applied Sciences vol. 6 273 (2016)](passive-guaranteed-simulation-of-analog-audio-circuits-a-port-hamiltonian-approach) -- [10.3390/app6100273](https://doi.org/10.3390/app6100273)

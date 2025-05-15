@@ -60,7 +60,7 @@ Nonlinear control; Input–output contact systems; Contact geometry; Irreversibl
 - Hermann, (1974)
 - Mrugaa̵, R. On a special family of thermodynamic processes and their invariants. Reports on Mathematical Physics vol. 46 461–468 (2000) -- [10.1016/s0034-4877(00)90012-0](https://doi.org/10.1016/s0034-4877(00)90012-0)
 - Favache, A., Dochain, D. & Maschke, B. An entropy-based formulation of irreversible processes based on contact structures. Chemical Engineering Science vol. 65 5204–5216 (2010) -- [10.1016/j.ces.2010.06.019](https://doi.org/10.1016/j.ces.2010.06.019)
-- Favache, A., Dos Santos Martins, V. S., Dochain, D. & Maschke, B. Some Properties of Conservative Port Contact Systems. IEEE Transactions on Automatic Control vol. 54 2341–2351 (2009) -- [10.1109/tac.2009.2028973](https://doi.org/10.1109/tac.2009.2028973)
+- [Favache, A., Dos Santos Martins, V. S., Dochain, D. & Maschke, B. Some Properties of Conservative Port Contact Systems. IEEE Transactions on Automatic Control vol. 54 2341–2351 (2009)](some-properties-of-conservative-port-contact-systems) -- [10.1109/tac.2009.2028973](https://doi.org/10.1109/tac.2009.2028973)
 - van der Schaft, On feedback control of Hamiltonian systems. (1986)
 - van der Schaft, System theory and mechanics. (1989)
 - Brockett, Control theory and analytical mechanics. (1977)

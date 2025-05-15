@@ -58,7 +58,7 @@ Multi-agent systems; Asymptotic stabilization; Guidance, navigation and control 
 - Bollobás, (1998)
 - Chung, S.-J., Ahsun, U. & Slotine, J.-J. E. Application of Synchronization to Formation Flying Spacecraft: Lagrangian Approach. Journal of Guidance, Control, and Dynamics vol. 32 512–526 (2009) -- [10.2514/1.37261](https://doi.org/10.2514/1.37261)
 - Duindam, (2009)
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Kristiansen, R. & Nicklasson, P. J. Spacecraft formation flying: A review and new results on state feedback control. Acta Astronautica vol. 65 1537–1552 (2009) -- [10.1016/j.actaastro.2009.04.014](https://doi.org/10.1016/j.actaastro.2009.04.014)
 - McInnes, C. R. Autonomous ring formation for a planar constellation of satellites. Journal of Guidance, Control, and Dynamics vol. 18 1215–1217 (1995) -- [10.2514/3.21531](https://doi.org/10.2514/3.21531)

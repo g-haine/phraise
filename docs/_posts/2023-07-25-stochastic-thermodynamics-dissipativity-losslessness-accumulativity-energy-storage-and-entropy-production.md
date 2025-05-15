@@ -49,7 +49,7 @@ In this paper, we develop an energy-based dynamical system model driven by a Mar
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 - Onsager, L. Reciprocal Relations in Irreversible Processes. II. Physical Review vol. 38 2265–2279 (1931) -- [10.1103/physrev.38.2265](https://doi.org/10.1103/physrev.38.2265)
 - Onsager, L. Reciprocal Relations in Irreversible Processes. I. Physical Review vol. 37 405–426 (1931) -- [10.1103/physrev.37.405](https://doi.org/10.1103/physrev.37.405)
-- Haddad, W. M., Rajpurohit, T. & Jin, X. Energy-based feedback control for stochastic port-controlled Hamiltonian systems. Automatica vol. 97 134–142 (2018) -- [10.1016/j.automatica.2018.07.031](https://doi.org/10.1016/j.automatica.2018.07.031)
+- [Haddad, W. M., Rajpurohit, T. & Jin, X. Energy-based feedback control for stochastic port-controlled Hamiltonian systems. Automatica vol. 97 134–142 (2018)](energy-based-feedback-control-for-stochastic-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2018.07.031](https://doi.org/10.1016/j.automatica.2018.07.031)
 - peliti, Stochastic Thermodynamics: An Introduction. (2021)
 - Das Maxwellsche Gesetz der Geschwindigkeitsverteilung in der Relativtheorie. Ann Phys (1911)
 - haddad, A Dynamical Systems Theory of Thermodynamics. (2019)

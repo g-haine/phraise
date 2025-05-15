@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[Jean-Yves Dieulot](authors/jean-yves-dieulot), [Mohit Makkar](authors/mohit-makkar)
+[Jean-Yves Dieulot](authors/jean-yves-dieulot), [Mohit Makkar](authors/mohit-makka)
  
 ## Abstract
 This paper addresses the passivity of continuous bioreactors around their non-zero equilibrium point by representing the system into a port-Hamiltonian system. In case of continuous bioreactors, the steady-state values of substrate(s) and biomass are not zero, thus passivity at shifted equilibrium point becomes interesting. A general representation of bioreactors is written in a form that allows to derive very simple conditions to prove their shifted passivity, using a quadratic energy function. In addition to that, the case of enforcing shifted passivity using feedback proportional control for general representation of bioreactors is also considered. Practical conditions are given for general single microbial reactions, and an example of anaerobic digestion of volatile fatty acids illustrates the multiple microbial reactions case.

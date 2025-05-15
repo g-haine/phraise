@@ -61,7 +61,7 @@ Model Order Reduction; Beyond Singular Perturbation; Port-Hamiltonian systems; L
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica 43, 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - Duindam, (2009)
 - Fortuna, (2012)
-- FUJIMOTO, K. Balanced Realization and Model Order Reduction for Port-Hamiltonian Systems. JSDD 2, 694–702 (2008) -- [10.1299/jsdd.2.694](https://doi.org/10.1299/jsdd.2.694)
+- [FUJIMOTO, K. Balanced Realization and Model Order Reduction for Port-Hamiltonian Systems. JSDD 2, 694–702 (2008)](balanced-realization-and-model-order-reduction-for-port-hamiltonian-systems) -- [10.1299/jsdd.2.694](https://doi.org/10.1299/jsdd.2.694)
 - [Güdücü, C., Liesen, J., Mehrmann, V. & Szyld, D. B. On Non-Hermitian Positive (Semi)Definite Linear Algebraic Systems Arising from Dissipative Hamiltonian DAEs. SIAM J. Sci. Comput. 44, A2871–A2894 (2022)](on-non-hermitian-positive-semi-definite-linear-algebraic-systems-arising-from-dissipative-hamiltonian-daes) -- [10.1137/21m1458594](https://doi.org/10.1137/21m1458594)
 - Gugercin, S. An iterative SVD-Krylov based method for model reduction of large-scale dynamical systems. Linear Algebra and its Applications 428, 1964–1986 (2008) -- [10.1016/j.laa.2007.10.041](https://doi.org/10.1016/j.laa.2007.10.041)
 - Gugercin, S. & Antoulas, A. C. A Survey of Model Reduction by Balanced Truncation and Some New Results. International Journal of Control 77, 748–766 (2004) -- [10.1080/00207170410001713448](https://doi.org/10.1080/00207170410001713448)

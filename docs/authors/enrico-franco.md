@@ -18,6 +18,7 @@ permalink: /authors/enrico-franco
 <li><span class='post-meta'>2021 -- Enrico Franco, Tutla Ayatullah, Arif Sugiharto, Arnau Garriga-Casanovas, Vani Virdyawan</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-energy-based-control-of-soft-continuum-pneumatic-manipulators">Nonlinear energy-based control of soft continuum pneumatic manipulators</a></h3></li>
 <li><span class='post-meta'>2021 -- Guaraci Bastos, Enrico Franco</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-dynamic-tube-mpc-for-underactuated-mechanical-systems">Energy shaping dynamic tube-MPC for underactuated mechanical systems</a></h3></li>
 <li><span class='post-meta'>2020 -- E. Franco, J. Tang, A. Garriga Casanovas, F. Rodriguez y Baena, A. Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/position-control-of-soft-manipulators-with-dynamic-and-kinematic-uncertainties">Position Control of Soft Manipulators with Dynamic and Kinematic Uncertainties</a></h3></li>
+<li><span class='post-meta'>2020 -- Enrico Franco, Ferdinando Rodriguez y Baena, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-dynamic-state-feedback-for-underactuated-systems-with-linearly-parameterized-disturbances">Robust dynamic state feedback for underactuated systems with linearly parameterized disturbances</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

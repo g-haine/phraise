@@ -45,7 +45,7 @@ In this work, we approach the control problem of fully-actuated UAVs in a geomet
  
 ## References
 - Hogan, N. Impedance Control: An Approach to Manipulation. 1984 American Control Conference (1984) doi:10.23919/acc.1984.4788393 -- [10.23919/acc.1984.4788393](https://doi.org/10.23919/acc.1984.4788393)
-- Acosta, J. A., Sanchez, M. I. & Ollero, A. Robust control of underactuated Aerial Manipulators via IDA-PBC. 53rd IEEE Conference on Decision and Control 673–678 (2014) doi:10.1109/cdc.2014.7039459 -- [10.1109/cdc.2014.7039459](https://doi.org/10.1109/cdc.2014.7039459)
+- [Acosta, J. A., Sanchez, M. I. & Ollero, A. Robust control of underactuated Aerial Manipulators via IDA-PBC. 53rd IEEE Conference on Decision and Control 673–678 (2014) doi:10.1109/cdc.2014.7039459](robust-control-of-underactuated-aerial-manipulators-via-ida-pbc) -- [10.1109/cdc.2014.7039459](https://doi.org/10.1109/cdc.2014.7039459)
 - Yüksel, B., Secchi, C., Bülthoff, H. H. & Franchi, A. Aerial physical interaction via IDA-PBC. The International Journal of Robotics Research vol. 38 403–421 (2019) -- [10.1177/0278364919835605](https://doi.org/10.1177/0278364919835605)
 - Fasse, E. D. & Broenink, J. F. A spatial impedance controller for robotic manipulation. IEEE Transactions on Robotics and Automation vol. 13 546–556 (1997) -- [10.1109/70.611315](https://doi.org/10.1109/70.611315)
 - Fasse, E. D. On the Spatial Compliance of Robotic Manipulators. Journal of Dynamic Systems, Measurement, and Control vol. 119 839–844 (1997) -- [10.1115/1.2802402](https://doi.org/10.1115/1.2802402)

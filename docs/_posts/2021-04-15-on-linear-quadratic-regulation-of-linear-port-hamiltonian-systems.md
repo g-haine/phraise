@@ -59,7 +59,7 @@ Port-Hamiltonian systems; Linear Quadratic Regulator; Passivity based control; C
 - Goodwin, (2001)
 - Khalil, (2002)
 - Kwakernaak, (1972)
-- Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Energy-shaping of port-controlled Hamiltonian systems by interconnection. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 2 1646–1651 -- [10.1109/cdc.1999.830260](https://doi.org/10.1109/cdc.1999.830260)
+- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Energy-shaping of port-controlled Hamiltonian systems by interconnection. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 2 1646–1651](energy-shaping-of-port-controlled-hamiltonian-systems-by-interconnection) -- [10.1109/cdc.1999.830260](https://doi.org/10.1109/cdc.1999.830260)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - van der Shaft, (2017)
 - van der Shaft, (2014)

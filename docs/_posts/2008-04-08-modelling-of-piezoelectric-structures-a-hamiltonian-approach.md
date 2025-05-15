@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[M. Schöberl](authors/markus-schoberl), [H. Ennsbrunner](authors/h-ennsbrunner), [K. Schlacher](authors/kurt-schlacher)
+[M. Schöberl](authors/markus-schoberl), [H. Ennsbrunner](authors/helmut-ennsbrunner), [K. Schlacher](authors/kurt-schlacher)
  
 ## Abstract
 This contribution is dedicated to the geometric description of infinite-dimensional port Hamiltonian systems with in- and output operators. Several approaches exist, which deal with the extension of the well-known lumped parameter case to the distributed one. In this article a description has been chosen, which preserves useful properties known from the class of port controlled Hamiltonian systems with dissipation in the lumped scenario. Furthermore, the introduced in- and output maps are defined by linear differential operators. The derived theory is applied to the piezoelectric field equations to obtain their port Hamiltonian representation. In this example, the electrical field strength is assumed to act as distributed input. Finally it is shown, that distributed inputs, that are in the kernel of the input map act similarly on the system as certain boundary inputs.

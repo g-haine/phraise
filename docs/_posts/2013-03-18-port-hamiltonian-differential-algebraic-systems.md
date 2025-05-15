@@ -57,7 +57,7 @@ Port-Hamiltonian systems; Passivity; Algebraic constraints; Kinematic constraint
  
 ## References
 - R. Abraham, Foundations of Mechanics (1978)
-- Batlle, C., Massana, I. & Simo, E. Representation of a general composition of Dirac structures. IEEE Conference on Decision and Control and European Control Conference 5199–5204 (2011) doi:10.1109/cdc.2011.6160588 -- [10.1109/cdc.2011.6160588](https://doi.org/10.1109/cdc.2011.6160588)
+- [Batlle, C., Massana, I. & Simo, E. Representation of a general composition of Dirac structures. IEEE Conference on Decision and Control and European Control Conference 5199–5204 (2011) doi:10.1109/cdc.2011.6160588](representation-of-a-general-composition-of-dirac-structures) -- [10.1109/cdc.2011.6160588](https://doi.org/10.1109/cdc.2011.6160588)
 - V. Belevitch, Classical Network Theory (1968)
 - A.M. Bloch, Proceedings Symposia in Pure Mathematics, Differential Geometry and Control Theory (1999)
 - Brogliato, B. Nonsmooth Mechanics. Communications and Control Engineering (Springer London, 1999). doi:10.1007/978-1-4471-0557-2 -- [10.1007/978-1-4471-0557-2](https://doi.org/10.1007/978-1-4471-0557-2)

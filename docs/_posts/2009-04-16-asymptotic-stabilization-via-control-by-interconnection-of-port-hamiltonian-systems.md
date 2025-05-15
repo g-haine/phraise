@@ -53,7 +53,7 @@ Nonlinear control systems; Port-Hamiltonian systems; Asymptotic stability; Passi
  
 ## References
 - Barbashin, On stability of motion in the whole. Doklady Akademiya Nauk SSSR (N.S.) (1952)
-- Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
+- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
 - Fujimoto, Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Systems and Control Letters (2003)
 - error code: 50 -- [10.1016/0016-0032(80)90026-5](https://doi.org/10.1016/0016-0032(80)90026-5)
 - La Salle, (1961)
@@ -63,5 +63,5 @@ Nonlinear control systems; Port-Hamiltonian systems; Asymptotic stability; Passi
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - van der Schaft, (2000)
-- Wang, Y., Feng, G. & Cheng, D. Simultaneous stabilization of a set of nonlinear port-controlled Hamiltonian systems. Automatica vol. 43 403–415 (2007) -- [10.1016/j.automatica.2006.09.008](https://doi.org/10.1016/j.automatica.2006.09.008)
+- [Wang, Y., Feng, G. & Cheng, D. Simultaneous stabilization of a set of nonlinear port-controlled Hamiltonian systems. Automatica vol. 43 403–415 (2007)](simultaneous-stabilization-of-a-set-of-nonlinear-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2006.09.008](https://doi.org/10.1016/j.automatica.2006.09.008)
 

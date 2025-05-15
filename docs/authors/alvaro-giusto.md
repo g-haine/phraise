@@ -1,0 +1,12 @@
+---
+layout: page
+title: Publications by Alvaro Giusto
+permalink: /authors/alvaro-giusto
+---
+
+<h3 id="number-posts">There are ... items referenced.</h3>
+<ul class="post-list">
+<li><span class='post-meta'>2007 -- Alvaro Giusto</span><h3><a class='post-link' href="{{ site.baseurl }}/on-some-frequency-domain-properties-of-small-signal-models-of-a-class-of-power-systems">On some frequency domain properties of small signal models of a class of power systems</a></h3></li>
+
+</ul>
+{% include count-posts.html %}

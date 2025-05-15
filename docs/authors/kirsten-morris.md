@@ -15,6 +15,7 @@ permalink: /authors/kirsten-morris
 <li><span class='post-meta'>2018 -- Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/comparision-of-approximation-methods-for-weakly-damped-waves-discussion-paper">Comparision of approximation methods for weakly damped waves Discussion paper</a></h3></li>
 <li><span class='post-meta'>2015 -- Birgit Jacob, Kirsten Morris, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain">C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain</a></h3></li>
 <li><span class='post-meta'>2015 -- Birgit Jacob, Kirsten Morris, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/zero-dynamics-for-waves-on-networks">Zero dynamics for waves on networks</a></h3></li>
+<li><span class='post-meta'>2013 -- K. Morris, A. Ozkan Ozer</span><h3><a class='post-link' href="{{ site.baseurl }}/strong-stabilization-of-piezoelectric-beams-with-magnetic-effects">Strong stabilization of piezoelectric beams with magnetic effects</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

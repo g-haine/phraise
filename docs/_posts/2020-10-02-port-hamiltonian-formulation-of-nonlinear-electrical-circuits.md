@@ -78,6 +78,6 @@ Port-Hamiltonian system; Electrical circuit; Graph; Dirac structure; Lagrangian 
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 - Sedra, (2004)
 - [Venkatraman, A. & van der Schaft, A. Energy Shaping of Port-Hamiltonian Systems by Using Alternate Passive Input-Output Pairs. European Journal of Control vol. 16 665–677 (2010)](energy-shaping-of-port-hamiltonian-systems-by-using-alternate-passive-input-output-pairs) -- [10.3166/ejc.16.665-677](https://doi.org/10.3166/ejc.16.665-677)
-- Venkatraman, A. & van der Schaft, A. J. Interconnections of port-Hamiltonian systems: generating new passive outputs and feedback stabilization. IFAC Proceedings Volumes vol. 43 605–610 (2010) -- [10.3182/20100901-3-it-2016.00227](https://doi.org/10.3182/20100901-3-it-2016.00227)
+- [Venkatraman, A. & van der Schaft, A. J. Interconnections of port-Hamiltonian systems: generating new passive outputs and feedback stabilization. IFAC Proceedings Volumes vol. 43 605–610 (2010)](interconnections-of-port-hamiltonian-systems-generating-new-passive-outputs-and-feedback-stabilization) -- [10.3182/20100901-3-it-2016.00227](https://doi.org/10.3182/20100901-3-it-2016.00227)
 - Willems, J. Terminals and Ports. IEEE Circuits and Systems Magazine vol. 10 8–26 (2010) -- [10.1109/mcas.2010.938635](https://doi.org/10.1109/mcas.2010.938635)
 
