@@ -13,7 +13,7 @@ Contributions are welcome in the form of **DOI submissions**. You can:
 
 You need API keys for Scopus and Springer.
 
-- 0- ./looking4Update.sh (to update, *e.g.*, volume, issue, etc.)
+- 0- ./looking4Update.sh (to update, *e.g.*, volume, issue, etc., and fetch last CrossRef entries)
 - 1- ./getData.sh newDOI.txt
 - 2- ./setAuthorMapping.sh <-> Correction of biblio.json entries
 - 3- Add new name variations or new entry to author_mappings.json
