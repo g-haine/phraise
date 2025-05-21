@@ -22,6 +22,7 @@ BIBLIO_JSON="assets/data/biblio.json"
 
 # Fichier de sortie des DOI à mettre à jour
 DOI_FILE="newDOI.txt"
+DOI_BAD="badDOI.txt"
 
 # La "poubelle" (on supprimera à la main si tout va bien)
 TRASH_DIR="trash/"
@@ -70,12 +71,11 @@ sed -i '/null/d' "$TMP_DOIS_OA"
 echo $(date -Iseconds)" Check unicity of DOIs..."
 # S'assurer de ne pas rechercher de doublon
 doi_file=$TMP_DOIS_OA
-uniq_file="DOIuniq.txt"
+uniq_file=$(mktemp)
 tmp_file=$(mktemp)
 cat $doi_file | tr '[:upper:]' '[:lower:]' > $tmp_file
 awk '!seen[$0]++' $tmp_file > $uniq_file
-grep -avf $DOI_SOURCE $uniq_file > $TMP_DOIS_OA
-rm $uniq_file
+grep -avf "$DOI_SOURCE" "$uniq_file" | grep -avf "$DOI_BAD" > "$TMP_DOIS_OA"
 
 # Pas de preprint ou de supplementary material
 sed -i '/arxiv/d' $TMP_DOIS_OA
@@ -113,9 +113,11 @@ while IFS= read -r doi; do
                 echo "$doi" >> "$DOI_FILE"
             else
                 echo -e "\t Forget DOI, not port-Hamiltonian: $doi"
+                echo "$doi" >> "$DOI_BAD"
             fi
         else
             echo -e "\t Forget DOI, not the good type: $doi"
+            echo "$doi" >> "$DOI_BAD"
         fi
     else
         echo -e "\t Forget DOI, not in CrossRef: $doi"

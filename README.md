@@ -18,9 +18,8 @@ You need API keys for Scopus and Springer.
 - 2- ./setAuthorMapping.sh <-> Correction of biblio.json entries
 - 3- Add new name variations or new entry to author_mappings.json
 - 4- ./concatenate.sh
-- 5- ./checkDuplicate.sh
-- 6- ./setPosts.sh
-- 7- ./setPages.sh
-- 8- bundle exec jekyll serve --watch (for verification of the building process, last corrections)
-- 9- commit & push !
-- 10- verify if it deploys correctly on github pages
+- 5- ./setPosts.sh
+- 6- ./setPages.sh
+- 7- bundle exec jekyll serve --watch (for verification of the building process, last corrections)
+- 8- commit & push !
+- 9- verify if it deploys correctly on github pages

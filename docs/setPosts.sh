@@ -84,7 +84,8 @@ format_authors () {
         else
             authors+="$author"
         fi
-    done < <(echo $1 | jq -rc '.[] | select(.family) | "\(.given) \(.family)"')
+    done < <(echo "${1:-[]}" | jq -rc 'if type == "array" then .[] | select(.family) | "\(.given) \(.family)" else empty end')
+
     echo "$authors"
 }
 
@@ -231,12 +232,35 @@ create_markdown_post () {
 
 # Puis, la génération des posts en markdown
     
-echo $(date -Iseconds)" Start creation !"
+echo $(date -Iseconds)" Start creation!"
 # Boucle à travers toutes les entrées du JSON et génère les posts
 jq -c '.[]' "$BIBLIO_JSON" | while IFS= read -r entry; do
     create_markdown_post "$entry" &
     # Parallèlisé jusqu'à 16 processus
     [ $( jobs | wc -l ) -ge 16 ] && wait
+done
+
+sleep 5
+
+# Enfin, on supprime les fichiers .bib orphelins s'il en existe
+POST_DIR="_posts"
+BIB_DIR="assets/bib"
+TRASH_DIR="trash/"
+mkdir -p "$TRASH_DIR"
+
+echo $(date -Iseconds)" Cleaning orphan bib files..."
+
+# Génère la liste des slugs (sans date) à partir des fichiers .md
+valid_slugs=$(find "$POST_DIR" -name '*.md' | sed -E 's|.*/[0-9]{4}-[0-9]{2}-[0-9]{2}-(.*)\.md|\1|')
+
+# Pour chaque .bib dans assets/bib
+find "$BIB_DIR" -name '*.bib' | while read -r bibfile; do
+  bibname=$(basename "$bibfile" .bib)
+
+  if ! echo "$valid_slugs" | grep -Fxq "$bibname"; then
+    echo -e "\t deleting: $bibfile"
+    mv "$bibfile" "$TRASH_DIR$bibfile"
+  fi
 done
 
 # Tout s'est bien passé !

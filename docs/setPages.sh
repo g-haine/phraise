@@ -64,10 +64,14 @@ while read -r entry; do
     permalink=$(echo "$entry" | jq -r '.permalink')
     title=$(echo "$entry" | jq -r '.title')
     year=$(echo "$entry" | jq -r '.year')
-    author_names=$(echo "$entry" | jq -r '[.authors[] | select(.family) | "\(.given) \(.family)"] | join(", ")' | iconv -c -f UTF-8 -t UTF-8)
+    author_names=$(echo "$entry" | jq -r '
+      if (.authors // null) == null then
+        "No author"
+      else
+        [.authors[] | select(.family) | "\(.given) \(.family)"] | join(", ")
+      end' | iconv -c -f UTF-8 -t UTF-8)
 
-    if [[ -z "$author_names" ]]; then
-        echo "Erreur : Auteurs vides pour $title" >&2
+    if [[ "$author_names" == "No author" ]]; then
         continue
     fi
 
