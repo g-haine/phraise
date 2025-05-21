@@ -5,6 +5,8 @@ permalink: /authors/martin-pfeifer
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Martin Pfeifer, M. Pfeifer.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Martin Pfeifer, Felicitas Mueller, Steven de Jongh, Frederik Gielnik, Thomas Leibfried, Soren Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/time-domain-dynamic-state-estimation-for-unbalanced-three-phase-power-systems">Time-domain Dynamic State Estimation for Unbalanced Three-phase Power Systems</a></h3></li>
 <li><span class='post-meta'>2022 -- Martin Pfeifer</span><h3><a class='post-link' href="{{ site.baseurl }}/automatisierte-erzeugung-von-modellen-und-beobachtern-fur-physikalisch-vernetzte-systeme">Automatisierte Erzeugung von Modellen und Beobachtern für physikalisch vernetzte Systeme</a></h3></li>

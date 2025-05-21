@@ -5,6 +5,8 @@ permalink: /authors/hongye-su
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Hongye Su.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2020 -- Jia Liu, Zhitao Liu, Hongye Su</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-pi-control-for-agvs-wireless-power-transfer-system">Passivity-Based PI Control for AGVs Wireless Power Transfer System</a></h3></li>
 <li><span class='post-meta'>2018 -- Meng Zhang, Pablo Borja, Romeo Ortega, Zhitao Liu, Hongye Su</span><h3><a class='post-link' href="{{ site.baseurl }}/pid-passivity-based-control-of-port-hamiltonian-systems">PID Passivity-Based Control of Port-Hamiltonian Systems</a></h3></li>

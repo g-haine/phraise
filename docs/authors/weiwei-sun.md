@@ -5,6 +5,8 @@ permalink: /authors/weiwei-sun
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Weiwei Sun, Wei Wei Sun.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Qi Zhang, Weiwei Sun, Chaoqian Qiao</span><h3><a class='post-link' href="{{ site.baseurl }}/adaptive-fuzzy-control-of-switched-port-controlled-hamiltonian-systems-with-input-saturation">Adaptive Fuzzy Control of Switched Port-Controlled Hamiltonian Systems with Input Saturation</a></h3></li>
 <li><span class='post-meta'>2024 -- Xiangyu Chen, Weiwei Sun, Xinci Gao, Dehay Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/practical-fixed-time-stabilization-for-discrete-time-impulsive-switched-port-controlled-hamiltonian-systems">Practical fixed-time stabilization for discrete-time impulsive switched port-controlled Hamiltonian systems</a></h3></li>

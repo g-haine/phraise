@@ -5,6 +5,8 @@ permalink: /authors/yuzhen-wang
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Yuzhen Wang, Yu-Zhen WANG, YuZhen Wang, Yu Zhen Wang, null Yuzhen Wang.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2014 -- Airong Wei, Yuzhen Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/adaptive-parallel-simultaneous-stabilization-of-a-set-of-uncertain-port-controlled-hamiltonian-systems-subject-to-actuator-saturation">Adaptive parallel simultaneous stabilization of a set of uncertain port‐controlled hamiltonian systems subject to actuator saturation</a></h3></li>
 <li><span class='post-meta'>2014 -- Airong Wei, Yuzhen Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/disturbance-tolerance-and-h-control-of-port-controlled-hamiltonian-systems-in-the-presence-of-actuator-saturation">Disturbance tolerance and \( H^\infty \)-control of port-controlled hamiltonian systems in the presence of actuator saturation</a></h3></li>

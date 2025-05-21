@@ -5,6 +5,8 @@ permalink: /authors/carles-batlle
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Carles Batlle, C. Batlle.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2011 -- Carles Batlle, Imma Massana, Ester Simo</span><h3><a class='post-link' href="{{ site.baseurl }}/representation-of-a-general-composition-of-dirac-structures">Representation of a general composition of Dirac structures</a></h3></li>
 <li><span class='post-meta'>2010 -- A. Dòria-Cerezo, C. Batlle, G. Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-a-wound-rotor-synchronous-motor">Passivity-based control of a wound-rotor synchronous motor</a></h3></li>

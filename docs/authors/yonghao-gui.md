@@ -5,6 +5,8 @@ permalink: /authors/yonghao-gui
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Yonghao Gui, null Yonghao Gui.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Yonghao Gui, Yaosuo Xue</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-grid-forming-and-grid-following-converters-in-microgrids">Passivity-Based Control of Grid Forming and Grid Following Converters in Microgrids</a></h3></li>
 <li><span class='post-meta'>2020 -- Yonghao Gui, Chung Choo Chung, Frede Blaabjerg, Mads Graungaard Taul</span><h3><a class='post-link' href="{{ site.baseurl }}/dynamic-extension-algorithm-based-tracking-control-of-statcom-via-port-controlled-hamiltonian-system">Dynamic Extension Algorithm-Based Tracking Control of STATCOM Via Port-Controlled Hamiltonian System</a></h3></li>

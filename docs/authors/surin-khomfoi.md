@@ -5,6 +5,8 @@ permalink: /authors/surin-khomfoi
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Surin Khomfoi.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Nattapon Somboonpanya, Surin Khomfoi, Teeraphon Phophongviwat</span><h3><a class='post-link' href="{{ site.baseurl }}/non-isolated-onboard-ev-charger-controller-design-based-on-port-hamiltonian-approach">Non-isolated Onboard EV Charger Controller Design Based on Port-Hamiltonian Approach</a></h3></li>
 <li><span class='post-meta'>2020 -- Pongsiri Mungporn, Phatiphat Thounthong, Burin Yodwong, Chainarin Ekkaravarodome, Anusak Bilsalam, Serge Pierfederici, Damien Guilbert, Babak Nahid-Mobarakeh, Nicu Bizon, Zahir Shah, Surin Khomfoi, Poom Kumam, Piyabut Burikham</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-and-control-of-multiphase-interleaved-fuel-cell-boost-converter-based-on-hamiltonian-control-theory-for-transportation-applications">Modeling and Control of Multiphase Interleaved Fuel-Cell Boost Converter Based on Hamiltonian Control Theory for Transportation Applications</a></h3></li>

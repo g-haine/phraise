@@ -5,6 +5,8 @@ permalink: /authors/jean-philippe-martin
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Jean-Philippe Martin.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Cong Yuan, Jean-Philippe Martin, Serge Pierfederici, Emeric Vuillemin, Matheepot Phattanasak, Yigeng Huangfu</span><h3><a class='post-link' href="{{ site.baseurl }}/large-signal-stabilization-at-system-level-using-port-hamiltonian-system-theory-for-modular-islanded-dc-microgrids">Large Signal Stabilization at System Level Using Port-Hamiltonian System Theory for Modular Islanded DC Microgrids</a></h3></li>
 <li><span class='post-meta'>2024 -- Roghayeh Gavagsaz-Ghoachani, Matheepot Phattanasak, Jean-Philippe Martin, Serge Pierfederici</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-two-distributed-generations-in-dc-microgrid">Passivity Based Control of Two Distributed Generations in DC Microgrid</a></h3></li>

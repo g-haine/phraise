@@ -5,6 +5,8 @@ permalink: /authors/cristian-secchi
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Cristian Secchi, C. Secchi.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2018 -- Christian Schenk, Burak Yüksel, Cristian Secchi, Heinrich H. Bülthoff</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-a-cable-driven-robot">Port Hamiltonian Modeling of a Cable Driven Robot</a></h3></li>
 <li><span class='post-meta'>2015 -- C. Secchi, L. Sabattini, C. Fantuzzi</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-based-teleoperation-of-a-multi-robot-system-on-periodic-trajectories">Port-Hamiltonian based teleoperation of a multi-robot system on periodic trajectories</a></h3></li>

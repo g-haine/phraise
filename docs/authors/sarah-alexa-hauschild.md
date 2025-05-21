@@ -5,6 +5,8 @@ permalink: /authors/sarah-alexa-hauschild
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Sarah-Alexa Hauschild, Sarah‐Alexa Hauschild.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Sarah‐Alexa Hauschild, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-methods-for-a-coupled-port-hamiltonian-system-of-compressible-non-isothermal-fluid-flow">Structure‐preserving methods for a coupled port‐Hamiltonian system of compressible non‐isothermal fluid flow</a></h3></li>
 <li><span class='post-meta'>2022 -- Sarah-Alexa Hauschild, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/model-reduction-for-a-port-hamiltonian-formulation-of-the-euler-equations">Model Reduction for a Port-Hamiltonian Formulation of the Euler Equations</a></h3></li>

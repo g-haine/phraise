@@ -5,6 +5,8 @@ permalink: /authors/cecilia-cornejo
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Cecilia Cornejo.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2012 -- Cecilia Cornejo, Luis Alvarez-Icaza</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-under-actuated-mechanical-systems-with-nonlinear-dynamic-friction">Passivity based control of under-actuated mechanical systems with nonlinear dynamic friction</a></h3></li>
 <li><span class='post-meta'>2007 -- Cecilia Cornejo, Luis Alvarez-Icaza</span><h3><a class='post-link' href="{{ site.baseurl }}/a-nonlinear-friction-model-for-the-passivity-based-control-of-underactuated-mechanical-systems">A nonlinear friction model for the passivity-based control of underactuated mechanical systems</a></h3></li>

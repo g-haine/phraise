@@ -5,6 +5,8 @@ permalink: /authors/dmitry-gromov
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Dmitry Gromov.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Fernando Castaños, Dmitry Gromov</span><h3><a class='post-link' href="{{ site.baseurl }}/limit-cycles-in-locally-hamiltonian-systems-with-dissipation">Limit Cycles in Locally Hamiltonian Systems with Dissipation</a></h3></li>
 <li><span class='post-meta'>2019 -- Dmitry Gromov, Alexander L. Fradkov, Mikhail S. Ananyevskiy</span><h3><a class='post-link' href="{{ site.baseurl }}/selective-excitation-of-identical-conservative-port-hamiltonian-systems-by-a-single-control">Selective excitation of identical conservative port-Hamiltonian systems by a single control</a></h3></li>

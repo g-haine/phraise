@@ -5,6 +5,8 @@ permalink: /authors/alessandro-astolfi
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Alessandro Astolfi, A. Astolfi.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Mario Sassano, Thulasi Mylvaganam, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/ol-ne-for-lq-differential-games-a-port-controlled-hamiltonian-system-perspective-and-some-computational-strategies">OL-NE for LQ differential games: A Port-Controlled Hamiltonian system perspective and some computational strategies</a></h3></li>
 <li><span class='post-meta'>2024 -- Alessio Moreschini, Joel D. Simard, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/data-driven-model-reduction-for-port-hamiltonian-and-network-systems-in-the-loewner-framework">Data-driven model reduction for port-Hamiltonian and network systems in the Loewner framework</a></h3></li>

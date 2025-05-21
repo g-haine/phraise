@@ -5,6 +5,8 @@ permalink: /authors/fernanda-ramos-garcia
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Fernanda Ramos-García, F. Ramos-García.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Fernanda Ramos-García, Gerardo Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/a-speed-tracking-passivity-based-control-of-induction-motors">A Speed Tracking Passivity Based Control of Induction Motors</a></h3></li>
 <li><span class='post-meta'>2023 -- F. Ramos-García, C. Granados-Salazar, M. Rojas, G. Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/observer-based-tracking-control-for-pmsm-rooted-on-port-hamiltonian-systems-structural-properties">Observer-Based Tracking Control for PMSM Rooted on Port-Hamiltonian Systems Structural Properties</a></h3></li>

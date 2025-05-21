@@ -5,6 +5,8 @@ permalink: /authors/craig-a-woolsey
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Craig A. Woolsey, Craig Woolsey.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Francis Valentinis, Thomas Battista, Craig Woolsey</span><h3><a class='post-link' href="{{ site.baseurl }}/a-maneuvering-model-for-an-underwater-vehicle-near-a-free-surface-part-iii-simulation-and-control-under-waves">A Maneuvering Model for an Underwater Vehicle Near a Free Surface—Part III: Simulation and Control Under Waves</a></h3></li>
 <li><span class='post-meta'>2023 -- Jean-Michel W. Fahmi, James L. Gresham, Craig A. Woolsey</span><h3><a class='post-link' href="{{ site.baseurl }}/experimental-validation-of-port-hamiltonian-based-control-for-fixed-wing-unmanned-aircraft">Experimental Validation of Port-Hamiltonian-Based Control for Fixed-Wing Unmanned Aircraft</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/john-e-d-ekoru
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: John E. D. Ekoru, John E.D. Ekoru.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Milka C. I. Madahana, John E. D. Ekoru, Otis T. C. Nyandoro</span><h3><a class='post-link' href="{{ site.baseurl }}/a-novel-mixed-finite-infinite-dimensional-port-hamiltonian-model-of-a-mechanical-ventilator">A Novel Mixed Finite/Infinite Dimensional Port–Hamiltonian Model of a Mechanical Ventilator</a></h3></li>
 <li><span class='post-meta'>2021 -- Milka C. I. Madahana, Mohlalakoma Ngwako, Otis O. T. Nyandoro, John E. D. Ekoru</span><h3><a class='post-link' href="{{ site.baseurl }}/modelling-of-the-human-middle-ear-via-the-port-hamiltonian-approach">Modelling of the human middle ear via the Port Hamiltonian approach</a></h3></li>

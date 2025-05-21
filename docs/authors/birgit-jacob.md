@@ -5,6 +5,8 @@ permalink: /authors/birgit-jacob
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Birgit Jacob.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Andreas Bartel, Markus Clemens, Michael Günther, Birgit Jacob, Timo Reis</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems-modelling-in-electrical-engineering">Port-Hamiltonian Systems’ Modelling in Electrical Engineering</a></h3></li>
 <li><span class='post-meta'>2024 -- Birgit Jacob, Claudia Totzeck</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-structure-of-interacting-particle-systems-and-its-mean-field-limit">Port-Hamiltonian Structure of Interacting Particle Systems and Its Mean-Field Limit</a></h3></li>

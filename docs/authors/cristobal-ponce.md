@@ -5,6 +5,8 @@ permalink: /authors/cristobal-ponce
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Cristobal Ponce.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/reduced-order-energy-shaping-control-of-large-scale-linear-port-hamiltonian-systems">Reduced-order energy shaping control of large-scale linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators">Port-Hamiltonian modeling of large-scale curling HASEL actuators</a></h3></li>

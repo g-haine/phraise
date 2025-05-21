@@ -5,6 +5,8 @@ permalink: /authors/juan-e-machado
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Juan E. Machado.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Felix Strehle, Juan E. Machado, Michele Cucuzzella, Albertus J. Malan, Jacquelien M.A. Scherpen, Soren Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-hydraulics-in-4th-generation-district-heating-networks">Port-Hamiltonian Modeling of Hydraulics in 4th Generation District Heating Networks</a></h3></li>
 <li><span class='post-meta'>2022 -- Juan E. Machado, Saeed Ahmed, Jacquelien M. A. Scherpen, Michele Cucuzzella</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-distributed-and-optimal-control-of-smart-grids">Robust, distributed and optimal control of smart grids</a></h3></li>

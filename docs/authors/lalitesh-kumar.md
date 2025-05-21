@@ -5,6 +5,8 @@ permalink: /authors/lalitesh-kumar
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Lalitesh Kumar.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Lalitesh Kumar, Jian Chen, Chengshuai Wu, Yuzhu Chen, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/a-segmented-model-based-fuel-delivery-control-of-pem-fuel-cells-a-port-hamiltonian-approach">A segmented model based fuel delivery control of PEM fuel cells: A port-Hamiltonian approach</a></h3></li>
 <li><span class='post-meta'>2024 -- Lalitesh Kumar, Jian Chen, Xinyu Li, Zhongliang Li</span><h3><a class='post-link' href="{{ site.baseurl }}/air-supply-control-for-pem-fuel-cells-under-hamiltonian-framework-a-segmentation-approach">Air Supply Control for PEM Fuel Cells Under Hamiltonian Framework: A Segmentation Approach</a></h3></li>

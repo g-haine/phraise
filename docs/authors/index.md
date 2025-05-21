@@ -512,7 +512,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/zhou-fang'>Zhou Fang</a>
 <a href='{{ site.baseurl }}/authors/cesare-fantuzzi'>Cesare Fantuzzi</a>
 <a href='{{ site.baseurl }}/authors/angela-faragasso'>Angela Faragasso</a>
-<a href='{{ site.baseurl }}/authors/f-farago'>F. Farago</a>
+<a href='{{ site.baseurl }}/authors/francois-farago'>François Farago</a>
 <a href='{{ site.baseurl }}/authors/yassine-fares'>Yassine Fares</a>
 <a href='{{ site.baseurl }}/authors/m-farid'>M. Farid</a>
 <a href='{{ site.baseurl }}/authors/yousef-farid'>Yousef Farid</a>
@@ -632,7 +632,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/b-gharesifard'>B. Gharesifard</a>
 <a href='{{ site.baseurl }}/authors/a-gheibi'>A. Gheibi</a>
 <a href='{{ site.baseurl }}/authors/a-r-ghiasi'>A. R. Ghiasi</a>
-<a href='{{ site.baseurl }}/authors/j-gibart'>J. Gibart</a>
+<a href='{{ site.baseurl }}/authors/jules-gibart'>Jules Gibart</a>
 <a href='{{ site.baseurl }}/authors/frederik-gielnik'>Frederik Gielnik</a>
 <a href='{{ site.baseurl }}/authors/jan-giesselmann'>Jan Giesselmann</a>
 <a href='{{ site.baseurl }}/authors/markus-giftthaler'>Markus Giftthaler</a>
@@ -681,6 +681,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/james-l-gresham'>James L. Gresham</a>
 <a href='{{ site.baseurl }}/authors/robert-grino'>Robert Griñó</a>
 <a href='{{ site.baseurl }}/authors/stefano-grivet-talocia'>Stefano Grivet-Talocia</a>
+<a href='{{ site.baseurl }}/authors/miroslav-grmela'>Miroslav Grmela</a>
 <a href='{{ site.baseurl }}/authors/dmitry-gromov'>Dmitry Gromov</a>
 <a href='{{ site.baseurl }}/authors/stefan-s-groothuis'>Stefan S. Groothuis</a>
 <a href='{{ site.baseurl }}/authors/dominic-gross'>Dominic Groß</a>
@@ -1385,8 +1386,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/pankaj-mukhija'>Pankaj Mukhija</a>
 <a href='{{ site.baseurl }}/authors/juan-ignacio-mulero-martinez'>Juan Ignacio Mulero-Martínez</a>
 <a href='{{ site.baseurl }}/authors/charles-muller'>Charles Muller</a>
-<a href='{{ site.baseurl }}/authors/remy-muller'>Remy Muller</a>
-<a href='{{ site.baseurl }}/authors/'>Rémy Müller</a>
+<a href='{{ site.baseurl }}/authors/remy-muller'>Rémy Müller</a>
 <a href='{{ site.baseurl }}/authors/pongsiri-mungporn'>Pongsiri Mungporn</a>
 <a href='{{ site.baseurl }}/authors/carlos-munoz'>Carlos Muñoz</a>
 <a href='{{ site.baseurl }}/authors/mauricio-munoz-arias'>Mauricio Munoz-Arias</a>
@@ -1555,7 +1555,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/martine-picq'>Martine Picq</a>
 <a href='{{ site.baseurl }}/authors/e-y-piedrahita-echavarria'>E.Y. Piedrahita-Echavarria</a>
 <a href='{{ site.baseurl }}/authors/serge-pierfederici'>Serge Pierfederici</a>
-<a href='{{ site.baseurl }}/authors/h-piet-lahanier'>H. Piet-Lahanier</a>
+<a href='{{ site.baseurl }}/authors/helene-piet-lahanier'>Hélène Piet-Lahanier</a>
 <a href='{{ site.baseurl }}/authors/l-pietrac'>L. Piétrac</a>
 <a href='{{ site.baseurl }}/authors/maribel-p-erez-pirela'>Maribel P´erez Pirela</a>
 <a href='{{ site.baseurl }}/authors/isabelle-pitault'>Isabelle Pitault</a>

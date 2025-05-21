@@ -9,7 +9,7 @@ category: articles
 ---
  
 ## Authors
-[Judy Najnudel](authors/judy-najnudel), [Thomas Héle](authors/thomas-helie), [David Roze](authors/david-roze), [Rémy Müller](authors/)
+[Judy Najnudel](authors/judy-najnudel), [Thomas Héle](authors/thomas-helie), [David Roze](authors/david-roze), [Rémy Müller](authors/remy-muller)
  
 ## Citation
 - **Journal:** Journal of the Audio Engineering Society

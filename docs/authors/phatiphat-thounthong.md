@@ -5,6 +5,8 @@ permalink: /authors/phatiphat-thounthong
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Phatiphat Thounthong.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Phatiphat Thounthong, Pongsiri Mungporn, Serge Pierfederici, Damien Guilbert, Noureddine Takorabet, Babak Nahid-Mobarakeh, Yihua Hu, Nicu Bizon, Yigeng Huangfu, Poom Kumam, Piyabut Burikham</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-hamiltonian-energy-control-based-on-lyapunov-function-for-four-phase-parallel-fuel-cell-boost-converter-for-dc-microgrid-applications">Robust Hamiltonian Energy Control Based on Lyapunov Function for Four-Phase Parallel Fuel Cell Boost Converter for DC Microgrid Applications</a></h3></li>
 <li><span class='post-meta'>2021 -- Phatiphat Thounthong</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-of-adaptive-hamiltonian-pid-controller-to-solve-constant-power-load-stability-issue-in-dc-microgrid-control-of-a-fuel-cell-converter">Port-Hamiltonian Formulation of Adaptive Hamiltonian PID controller to Solve Constant Power Load Stability Issue in DC Microgrid: Control of a Fuel Cell Converter</a></h3></li>

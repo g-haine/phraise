@@ -5,6 +5,8 @@ permalink: /authors/michael-rojas
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Michael Rojas, M. Rojas.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Michael Rojas, Christian Granados‐Salazar, Gerardo Espinosa‐Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/full-order-observer-design-for-quadratic-port-controlled-hamiltonian-systems">Full‐order observer design for quadratic port‐controlled Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Christian Granados-Salazar, Michael Rojas, Gerardo Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/observer-design-for-a-class-of-nonlinear-hamiltonian-systems-based-on-energy-function-structure">Observer design for a class of nonlinear Hamiltonian systems based on energy function structure</a></h3></li>

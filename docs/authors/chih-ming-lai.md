@@ -5,6 +5,8 @@ permalink: /authors/chih-ming-lai
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Chih-Ming Lai, null Chih-Ming Lai.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2002 -- null Chih-Ming Lai, null Jyh-Jong Tsay</span><h3><a class='post-link' href="{{ site.baseurl }}/communication-algorithms-on-alternating-group-graphs">Communication algorithms on alternating group graphs</a></h3></li>
 

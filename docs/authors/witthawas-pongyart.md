@@ -5,6 +5,8 @@ permalink: /authors/witthawas-pongyart
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Witthawas Pongyart.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Wachiravit Buaket, Witthawas Pongyart</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-modelling-and-controller-design-approach-for-cascode-buck-boost-converter">A port-Hamiltonian Modelling and Controller Design Approach for Cascode Buck-Boost Converter</a></h3></li>
 <li><span class='post-meta'>2023 -- Walarcheth Thongrailuck, Witthawas Pongyart</span><h3><a class='post-link' href="{{ site.baseurl }}/implementation-of-energy-based-controller-for-buck-boost-converter-using-fpaa">Implementation of Energy based Controller for Buck Boost Converter using FPAA</a></h3></li>

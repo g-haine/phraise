@@ -5,6 +5,8 @@ permalink: /authors/xiaoming-hu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Xiaoming Hu.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2012 -- Airong Wei, Yuzhen Wang, Xiaoming Hu</span><h3><a class='post-link' href="{{ site.baseurl }}/adaptive-simultaneous-stabilization-of-two-port-controlled-hamiltonian-systems-subject-to-actuator-saturation">Adaptive simultaneous stabilization of two Port-Controlled Hamiltonian systems subject to actuator saturation</a></h3></li>
 <li><span class='post-meta'>2012 -- Airong Wei, Yuzhen Wang, Xiaoming Hu</span><h3><a class='post-link' href="{{ site.baseurl }}/estimate-of-domain-of-attraction-for-a-class-of-port-controlled-hamiltonian-systems-subject-to-both-actuator-saturation-and-disturbances">Estimate of Domain of Attraction for a Class of Port‐Controlled Hamiltonian Systems Subject to Both Actuator Saturation and Disturbances</a></h3></li>

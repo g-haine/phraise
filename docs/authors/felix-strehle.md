@@ -5,6 +5,8 @@ permalink: /authors/felix-strehle
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Felix Strehle.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Albertus J. Malan, Lukas Rausche, Felix Strehle, Sören Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modelling-for-analysis-and-control-of-gas-networks">Port-Hamiltonian Modelling for Analysis and Control of Gas Networks</a></h3></li>
 <li><span class='post-meta'>2022 -- Felix Strehle, Juan E. Machado, Michele Cucuzzella, Albertus J. Malan, Jacquelien M.A. Scherpen, Soren Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-hydraulics-in-4th-generation-district-heating-networks">Port-Hamiltonian Modeling of Hydraulics in 4th Generation District Heating Networks</a></h3></li>

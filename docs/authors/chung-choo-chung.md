@@ -5,6 +5,8 @@ permalink: /authors/chung-choo-chung
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Chung Choo Chung, null Chung Choo Chung.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2020 -- Yonghao Gui, Chung Choo Chung, Frede Blaabjerg, Mads Graungaard Taul</span><h3><a class='post-link' href="{{ site.baseurl }}/dynamic-extension-algorithm-based-tracking-control-of-statcom-via-port-controlled-hamiltonian-system">Dynamic Extension Algorithm-Based Tracking Control of STATCOM Via Port-Controlled Hamiltonian System</a></h3></li>
 <li><span class='post-meta'>2017 -- Yonghao Gui, Gil Ha Lee, Chunghun Kim, Chung Choo Chung</span><h3><a class='post-link' href="{{ site.baseurl }}/direct-power-control-of-grid-connected-voltage-source-inverters-using-port-controlled-hamiltonian-system">Direct power control of grid connected voltage source inverters using port-controlled Hamiltonian system</a></h3></li>

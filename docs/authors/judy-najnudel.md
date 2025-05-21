@@ -5,6 +5,8 @@ permalink: /authors/judy-najnudel
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Judy Najnudel.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Judy Najnudel, Remy Muller, Thomas Helie, David Roze</span><h3><a class='post-link' href="{{ site.baseurl }}/identification-of-nonlinear-circuits-as-port-hamiltonian-systems">Identification of Nonlinear Circuits as Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2021 -- Judy Najnudel, Thomas Héle, David Roze, Rémy Müller</span><h3><a class='post-link' href="{{ site.baseurl }}/power-balanced-modeling-of-nonlinear-coils-and-transformers-for-audio-circuits">Power-Balanced Modeling of Nonlinear Coils and Transformers for Audio Circuits</a></h3></li>

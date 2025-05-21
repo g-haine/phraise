@@ -5,6 +5,8 @@ permalink: /authors/andreas-siuka
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Andreas Siuka, A. Siuka.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2014 -- Markus Schöberl, Andreas Siuka</span><h3><a class='post-link' href="{{ site.baseurl }}/jet-bundle-formulation-of-infinite-dimensional-port-hamiltonian-systems-using-differential-operators">Jet bundle formulation of infinite-dimensional port-Hamiltonian systems using differential operators</a></h3></li>
 <li><span class='post-meta'>2013 -- Markus Schoberl, Andreas Siuka</span><h3><a class='post-link' href="{{ site.baseurl }}/analysis-and-comparison-of-port-hamiltonian-formulations-for-field-theories-demonstrated-by-means-of-the-mindlin-plate">Analysis and comparison of port-Hamiltonian formulations for field theories - demonstrated by means of the Mindlin plate</a></h3></li>

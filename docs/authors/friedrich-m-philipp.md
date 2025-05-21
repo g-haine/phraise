@@ -5,6 +5,8 @@ permalink: /authors/friedrich-m-philipp
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Friedrich M. Philipp, Friedrich Philipp.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Friedrich M. Philipp, Timo Reis, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/infinite-dimensional-port-hamiltonian-systems-a-system-node-approach">Infinite-dimensional port-Hamiltonian systems: a system node approach</a></h3></li>
 <li><span class='post-meta'>2025 -- Timm Faulwasser, Jonas Kirchhoff, Volker Mehrmann, Friedrich Philipp, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/hidden-regularity-in-singular-optimal-control-of-port-hamiltonian-systems">Hidden Regularity in Singular Optimal Control of port-Hamiltonian Systems</a></h3></li>

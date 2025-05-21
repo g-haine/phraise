@@ -5,6 +5,8 @@ permalink: /authors/philipp-schulze
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Philipp Schulze, P. Schulze.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- R. Altmann, P. Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/a-novel-energy-based-modeling-framework">A novel energy-based modeling framework</a></h3></li>
 <li><span class='post-meta'>2025 -- Tobias Breiten, Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-linear-quadratic-gaussian-balanced-truncation-for-port-hamiltonian-descriptor-systems">Structure-preserving linear quadratic Gaussian balanced truncation for port-Hamiltonian descriptor systems</a></h3></li>

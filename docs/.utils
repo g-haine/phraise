@@ -1,5 +1,13 @@
 # Ce fichier contient les différentes fonctions utiles à plusieurs scripts à la fois
 
+# Mail, Scopus key and Springer key
+if [ -f .env ]; then
+    source .env
+else
+    echo "Erreur : fichier .env introuvable !" >&2
+    exit 1
+fi
+
 # Une fonction de slugify des titres
 slugify () {
     echo "${1:0:240}" |
@@ -59,5 +67,134 @@ mathjaxify () {
     }')
     
     echo "$text"
+}
+
+# Appel à l'API de crossref
+fetch_metadata_crossref () {
+    local doi=$1
+    request=$(curl -s -w "%{http_code}" "https://api.crossref.org/works/$doi?mailto=$MAIL")
+    http=${request: -3}
+    response=${request:: -3}
+    if [[ "$http" -eq 200 ]]; then
+        echo "$response"
+    else
+        echo '{"status":"error"}'
+    fi
+}
+
+# Appel à l'API de scopus
+fetch_metadata_scopus () {
+    local doi=$1
+    echo $(curl -s -X GET "https://api.elsevier.com/content/article/doi/$doi" -H "Accept: application/json" -H "X-ELS-APIKey: $SCOPUS_API_KEY")
+}
+
+# Abstract via scopus
+abstract_from_scopus () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local scopus_abstract=$(echo "$json" | jq -r '.["full-text-retrieval-response"].coredata."dc:description" // ""')
+        [ -n "$scopus_abstract" ] && echo "$scopus_abstract"
+    fi
+}
+
+# Keywords via scopus
+keywords_from_scopus () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local scopus_keywords=$(echo "$json" | jq -r 'if .["full-text-retrieval-response"].coredata."dcterms:subject" then 
+              [.["full-text-retrieval-response"].coredata."dcterms:subject"[]["$"]] | join("; ") 
+           else 
+              "" 
+           end')
+        [ -n "$scopus_keywords" ] && echo "$scopus_keywords"
+    fi
+}
+
+# event via scopus : super pour le nom de la conf IFAC
+event_from_scopus () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local scopus_nameIssue=$(echo "$json" | jq -r '.["full-text-retrieval-response"].coredata."prism:issueName" // ""')
+        [ -n "$scopus_nameIssue" ] && echo "$scopus_nameIssue"
+    fi
+}
+
+# Appel à l'API de Springer
+fetch_metadata_springer () {
+    local doi=$1
+    echo $(curl -s -X GET "https://api.springernature.com/meta/v2/json?q=doi:$doi&api_key=$SPRINGER_API_KEY")
+}
+
+# Abstract via Springer
+abstract_from_springer () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local springer_abstract=$(echo "$json" | jq -r '.records[0].abstract // ""')
+        [ -n "$springer_abstract" ] && echo "$springer_abstract"
+    fi
+}
+
+# Keywords via Springer
+keywords_from_springer () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local springer_keywords=$(echo "$json" | jq -r 'if .records[0].keyword then 
+              [.records[0].keyword[]] | join("; ") 
+           else 
+              "" 
+           end')
+        [ -n "$springer_keywords" ] && echo "$springer_keywords"
+    fi
+}
+
+# event via springer : super pour le nom de la conf également, type GSI
+event_from_springer () {
+    local json=$1
+    if echo "$json" | jq empty 2>/dev/null; then
+        local springer_nameIssue=$(echo "$json" | jq -r '.records[0].conferenceInfo[] | select(.confSeriesName) | "\(.confSeriesName)"')
+        [ -n "$springer_nameIssue" ] && echo "$springer_nameIssue"
+    fi
+}
+
+# Optimisation avancée de la récupération des abstracts avec correction des erreurs de boucle
+fetch_abstract_complement () {
+    local doi=$1
+    local abstract="No abstract available"
+    local candidates=()
+
+    # Fonction de sécurité pour les appels API avec suivi des redirections
+    safe_curl () {
+        curl -Ls --connect-timeout 5 --retry 3 --retry-delay 2 "$1" || echo ""
+    }
+
+    # 1. Essai via OpenAlex
+    local openalex_response=$(safe_curl "https://api.openalex.org/works/https://doi.org/$doi")
+    if echo "$openalex_response" | jq empty 2>/dev/null; then
+        local openalex_abstract=$(echo "$openalex_response" | jq -r '.abstract_inverted_index | to_entries? | map(.value) | unique | join(" ") // ""')
+        [ -n "$openalex_abstract" ] && candidates+=("$openalex_abstract")
+    fi
+
+    # 2. Essai via Semantic Scholar
+    local semantics_response=$(safe_curl "https://api.semanticscholar.org/v1/paper/$doi")
+    if echo "$semantics_response" | jq empty 2>/dev/null; then
+        local semantics_abstract=$(echo "$semantics_response" | jq -r '.abstract // ""')
+        [ -n "$semantics_abstract" ] && candidates+=("$semantics_abstract")
+    fi
+
+    # 3. Sélection de l'abstract le plus long
+    for candidate in "${candidates[@]}"; do
+        if [ "${#candidate}" -gt "${#abstract}" ]; then
+            abstract="$candidate"
+        fi
+    done
+
+    echo "$abstract"
+}
+
+# Récupère la citation formattée d'après un DOI
+get_citation () {
+    local doi=$1
+    citation=$(curl -s https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US | tail -n 1)
+    echo "$citation" | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'
 }
 

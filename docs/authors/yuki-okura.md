@@ -5,6 +5,8 @@ permalink: /authors/yuki-okura
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Yuki Okura, Yuki OKURA.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2020 -- Yuki Okura, Kenji Fujimoto, Chiaki Kojima</span><h3><a class='post-link' href="{{ site.baseurl }}/virtual-holonomic-constraints-control-for-port-hamiltonian-systems-a-case-study-of-fully-actuated-mechanical-systems">Virtual Holonomic Constraints Control for port-Hamiltonian Systems: A Case Study of Fully Actuated Mechanical Systems</a></h3></li>
 <li><span class='post-meta'>2020 -- Yuki Okura, Kenji Fujimoto, Ichiro Maruta, Akio Saito, Hidetoshi Ikeda</span><h3><a class='post-link' href="{{ site.baseurl }}/bayesian-inference-for-path-following-control-of-port-hamiltonian-systems-with-training-trajectory-data">Bayesian Inference for Path Following Control of Port-Hamiltonian Systems with Training Trajectory Data</a></h3></li>

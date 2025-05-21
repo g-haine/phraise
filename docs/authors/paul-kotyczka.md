@@ -5,6 +5,8 @@ permalink: /authors/paul-kotyczka
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Paul Kotyczka, P. Kotyczka.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Maximilian Mogler, Paul Kotyczka, Laurent Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-time-control-by-interconnection-using-energy-preserving-collocation-methods">Discrete-time Control by Interconnection using energy-preserving collocation methods</a></h3></li>
 <li><span class='post-meta'>2024 -- P.L. Kinon, T. Thoma, P. Betsch, P. Kotyczka</span><h3><a class='post-link' href="{{ site.baseurl }}/generalized-maxwell-viscoelasticity-for-geometrically-exact-strings-nonlinear-port-hamiltonian-formulation-and-structure-preserving-discretization">Generalized Maxwell viscoelasticity for geometrically exact strings: Nonlinear port-Hamiltonian formulation and structure-preserving discretization</a></h3></li>

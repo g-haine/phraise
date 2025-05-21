@@ -5,6 +5,8 @@ permalink: /authors/antoine-tordeux
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Antoine Tordeux.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Antoine Tordeux, Claudia Totzeck, Sylvain Lassarre, Jean-Patrick Lebacque</span><h3><a class='post-link' href="{{ site.baseurl }}/modelling-pedestrian-collective-dynamics-with-port-hamiltonian-systems">Modelling Pedestrian Collective Dynamics with Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Barbara Rüdiger, Antoine Tordeux, Baris E Ugurcan</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-analysis-of-a-stochastic-port-hamiltonian-car-following-model">Stability analysis of a stochastic port-Hamiltonian car-following model</a></h3></li>

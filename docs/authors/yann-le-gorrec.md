@@ -5,6 +5,8 @@ permalink: /authors/yann-le-gorrec
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Yann Le Gorrec, Y. Le Gorrec, Le Gorrec Yann, Yann Le Gorec, Y. Legorrec.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/reduced-order-energy-shaping-control-of-large-scale-linear-port-hamiltonian-systems">Reduced-order energy shaping control of large-scale linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Mario Spirito, Bernhard Maschke, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/beyond-singular-perturbation-for-linear-port-hamiltonian-systems">Beyond Singular Perturbation for linear port-Hamiltonian systems</a></h3></li>

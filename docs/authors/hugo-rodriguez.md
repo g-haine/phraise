@@ -5,6 +5,8 @@ permalink: /authors/hugo-rodriguez
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Hugo Rodriguez, H. Rodriguez.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2003 -- H. Rodriguez, A.J. van der Schaft, R. Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/on-stabilization-of-nonlinear-distributed-parameter-port-controlled-hamiltonian-systems-via-energy-shaping0">On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping</a></h3></li>
 <li><span class='post-meta'>2002 -- H. Rodriguez, A.J. van der Schaft, R. Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/on-stabilization-of-nonlinear-distributed-parameter-port-controlled-hamiltonian-systems-via-energy-shaping">On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping</a></h3></li>

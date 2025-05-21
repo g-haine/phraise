@@ -5,6 +5,8 @@ permalink: /authors/ewoud-vos
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Ewoud Vos.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2016 -- Ewoud Vos, Arjan J. van der Schaft, Jacquelien M. A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/formation-control-and-velocity-tracking-for-a-group-of-nonholonomic-wheeled-robots">Formation Control and Velocity Tracking for a Group of Nonholonomic Wheeled Robots</a></h3></li>
 <li><span class='post-meta'>2016 -- Matin Jafarian, Ewoud Vos, Claudio De Persis, Jacquelien Scherpen, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/disturbance-rejection-in-formation-keeping-control-of-nonholonomic-wheeled-robots">Disturbance rejection in formation keeping control of nonholonomic wheeled robots</a></h3></li>

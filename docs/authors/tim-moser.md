@@ -5,6 +5,8 @@ permalink: /authors/tim-moser
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Tim Moser.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Paul Schwerdtner, Tim Moser, Volker Mehrmann, Matthias Voigt</span><h3><a class='post-link' href="{{ site.baseurl }}/optimization-based-model-order-reduction-of-port-hamiltonian-descriptor-systems">Optimization-based model order reduction of port-Hamiltonian descriptor systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Tim Moser, Boris Lohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/a-rosenbrock-framework-for-tangential-interpolation-of-port-hamiltonian-descriptor-systems">A Rosenbrock framework for tangential interpolation of port-Hamiltonian descriptor systems</a></h3></li>

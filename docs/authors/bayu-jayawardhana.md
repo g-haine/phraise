@@ -5,6 +5,8 @@ permalink: /authors/bayu-jayawardhana
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Bayu Jayawardhana, B. Jayawardhana.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- M. R. Rosa, B. Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-adaptive-formation-control-for-uncertain-point-mass-agents-with-mixed-dimensional-space">Distributed Adaptive Formation Control for Uncertain Point Mass Agents With Mixed Dimensional Space</a></h3></li>
 <li><span class='post-meta'>2022 -- Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/virtual-contractivity-based-control-of-fully-actuated-mechanical-systems-in-the-port-hamiltonian-framework">Virtual contractivity-based control of fully-actuated mechanical systems in the port-Hamiltonian framework</a></h3></li>

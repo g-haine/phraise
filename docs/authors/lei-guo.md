@@ -5,6 +5,8 @@ permalink: /authors/lei-guo
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Lei Guo.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Baozeng Fu, Shihua Li, Xiangyu Wang, Lei Guo</span><h3><a class='post-link' href="{{ site.baseurl }}/output-feedback-based-simultaneous-stabilization-of-two-port-controlled-hamiltonian-systems-with-disturbances">Output feedback based simultaneous stabilization of two Port-controlled Hamiltonian systems with disturbances</a></h3></li>
 <li><span class='post-meta'>2018 -- Baozeng Fu, Shihua Li, Jun Yang, Lei Guo</span><h3><a class='post-link' href="{{ site.baseurl }}/global-output-regulation-for-a-class-of-single-input-port-controlled-hamiltonian-disturbed-systems">Global output regulation for a class of single input Port-controlled Hamiltonian disturbed systems</a></h3></li>

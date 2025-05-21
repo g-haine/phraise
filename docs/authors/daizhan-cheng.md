@@ -5,6 +5,8 @@ permalink: /authors/daizhan-cheng
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Daizhan Cheng, null Daizhan Cheng.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2007 -- Yuzhen Wang, Gang Feng, Daizhan Cheng</span><h3><a class='post-link' href="{{ site.baseurl }}/simultaneous-stabilization-of-a-set-of-nonlinear-port-controlled-hamiltonian-systems">Simultaneous stabilization of a set of nonlinear port-controlled Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2006 -- Yuzhen Wang, Gang Feng, Daizhan Cheng</span><h3><a class='post-link' href="{{ site.baseurl }}/simultaneous-stabilization-of-a-collection-of-port-controlled-hamiltonian-systems-with-application-to-affine-nonlinear-systems">Simultaneous Stabilization of a Collection of Port-controlled Hamiltonian Systems with Application to Affine Nonlinear Systems</a></h3></li>

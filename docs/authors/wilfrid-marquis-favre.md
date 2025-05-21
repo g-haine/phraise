@@ -5,6 +5,8 @@ permalink: /authors/wilfrid-marquis-favre
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Wilfrid Marquis-Favre.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- Said Aoues, Michael Di Loreto, Damien Eberard, Wilfrid Marquis-Favre</span><h3><a class='post-link' href="{{ site.baseurl }}/hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability">Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability</a></h3></li>
 <li><span class='post-meta'>2015 -- Said Aoues, Damien Eberard, Wilfrid Marquis-Favre</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-ida-pbc-control-law-for-newtonian-mechanical-port-hamiltonian-systems">Discrete IDA-PBC control law for Newtonian mechanical port-Hamiltonian systems</a></h3></li>

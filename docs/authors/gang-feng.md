@@ -5,6 +5,8 @@ permalink: /authors/gang-feng
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Gang Feng.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2013 -- YuZhen Wang, Gang Feng</span><h3><a class='post-link' href="{{ site.baseurl }}/on-finite-time-stability-and-stabilization-of-nonlinear-port-controlled-hamiltonian-systems">On finite-time stability and stabilization of nonlinear port-controlled Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2008 -- null Yuzhen Wang, Gang Feng</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-time-stabilization-of-port-controlled-hamiltonian-systems-with-application-to-nonlinear-affine-systems">Finite-time stabilization of Port-Controlled Hamiltonian systems with application to nonlinear affine systems</a></h3></li>

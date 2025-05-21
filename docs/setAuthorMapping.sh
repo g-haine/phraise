@@ -14,7 +14,7 @@ if [[ ! -f "$BIBLIO_FILE" ]]; then
 fi
 
 # Extraction des auteurs sous "Prénom Nom" exact depuis `_data/biblio.json`
-AUTHORS=$(jq -r '.[] | .authors[]? | select(.family) | "\(.given) \(.family)"' "$BIBLIO_FILE")
+AUTHORS=$(jq -r '.[] | .authors[]? | select(.family) | "\(.given) \(.family)"' "$BIBLIO_FILE" | sort -u)
 
 if [[ ! -f "$MAPPINGS_FILE" ]]; then
     echo "Erreur : fichier $MAPPINGS_FILE introuvable."
@@ -31,7 +31,7 @@ fi
 
 declare -A author_to_slug
 
-# Charger `_data/author_mappings.json` en mémoire
+# Charger `assets/data/author_mappings.json` en mémoire
 while IFS= read -r entry; do
     slug=$(echo "$entry" | jq -r '.key')
     
@@ -41,7 +41,7 @@ while IFS= read -r entry; do
     done < <(jq -r ".\"$slug\"[]" "$MAPPINGS_FILE")
 done < <(jq -c 'to_entries[]' "$MAPPINGS_FILE")
 
-echo "Vérification des auteurs dans _data/author_mappings.json..."
+echo "Verifying in assets/data/author_mappings.json..."
 echo ""
 
 sorted_pairs=()
@@ -59,9 +59,29 @@ while IFS= read -r author; do
     done
 
     if [[ "$found" == false ]]; then
-    
-        last_name=$(echo "$author" | awk '{print $NF}')  # Extraire le dernier mot
-    
+        
+        # Requête OpenAlex
+        query=$(echo "$author" | sed 's/ /+/g')
+        result=$(curl -s "https://api.openalex.org/authors?search=$query&per-page=5")
+
+        # Extraction de l’auteur avec le plus haut relevance_score
+        best=$(echo "$result" | jq '.results | max_by(.relevance_score // 0) // empty')
+
+        if [[ -n "$best" && "$best" != "null" ]]; then
+            display=$(echo "$best" | jq -r '.display_name')
+            slug=$(slugify "$display")
+            to_add="  \"$slug\": [ \"$display\""
+            while IFS= read -r name; do
+                to_add+=", $name"
+            done < <(echo "$best" | jq -c '.display_name_alternatives[]' 2>/dev/null)
+            to_add+=" ] for \""$author"\","
+            last_name=$(echo "$display" | awk '{print $NF}')  # Extraire le dernier mot
+        else
+            slug=$(slugify "$author")
+            to_add="  \"$slug\": [ \"$author\" ]"
+            last_name=$(echo "$author" | awk '{print $NF}')  # Extraire le dernier mot
+        fi
+        
         # Normaliser le dernier mot en ASCII
         normalized_last_name=$(echo "$last_name" | iconv -f UTF-8 -t ASCII//TRANSLIT | sed -E '
             s/Ü/U/;
@@ -74,8 +94,7 @@ while IFS= read -r author; do
             s/Ø/O/;
             s/Æ/A/;
             s/Œ/OE/')
-        slug=$(slugify "$author")
-        to_add="  \"$slug\": [ \"$author\" ]"
+        
         echo "Not found: $author"
         sorted_pairs+=("$normalized_last_name	$to_add")  # Tabulation pour séparer proprement
         (( k+=1 ))
@@ -83,21 +102,21 @@ while IFS= read -r author; do
 done <<< "$AUTHORS"
 
 # Trier les auteurs par leur dernier mot
-IFS=$'\n' sorted_pairs=($(sort -k1 <<<"${sorted_pairs[*]}"))
+IFS=$'\n' sorted_pairs=($(sort -u -k1 <<<"${sorted_pairs[*]}"))
 unset IFS
 
 echo ""
-echo "Add to the author_mappings.json file:"
+echo "! AFTER VERIFICATION ! Add or replace/complete in author_mappings.json:"
 echo ""
 
 for pair in "${sorted_pairs[@]}"; do
-    last_name=$(echo "$pair" | cut -f1)  
-    to_add=$(echo "$pair" | cut -f2-)  
+    last_name=$(echo "$pair" | cut -f1)
+    to_add=$(echo "$pair" | cut -f2-)
     echo ","
     echo "$to_add"
     echo ""
 done
 
 echo ""
-echo "Fin de la vérification : $k entrées non-trouvées."
+echo "End: $k unknown entries."
 

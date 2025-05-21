@@ -5,6 +5,8 @@ permalink: /authors/antoine-falaize
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Antoine Falaize, A. Falaize.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Antoine Falaize, David Roze</span><h3><a class='post-link' href="{{ site.baseurl }}/generic-passive-guaranteed-nonlinear-interaction-model-and-structure-preserving-spatial-discretization-procedure-with-applications-in-musical-acoustics">Generic passive-guaranteed nonlinear interaction model and structure-preserving spatial discretization procedure with applications in musical acoustics</a></h3></li>
 <li><span class='post-meta'>2024 -- D. Lozienko, V. Salnikov, A. Falaize</span><h3><a class='post-link' href="{{ site.baseurl }}/learning-port-hamiltonian-systems-algorithms0">Learning port-Hamiltonian Systems—Algorithms</a></h3></li>

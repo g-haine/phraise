@@ -5,6 +5,8 @@ permalink: /authors/riccardo-morandin
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Riccardo Morandin.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Riccardo Morandin, Jonas Nicodemus, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-dynamic-mode-decomposition">Port-Hamiltonian Dynamic Mode Decomposition</a></h3></li>
 <li><span class='post-meta'>2022 -- Tobias Breiten, Riccardo Morandin, Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/error-bounds-for-port-hamiltonian-model-and-controller-reduction-based-on-system-balancing">Error bounds for port-Hamiltonian model and controller reduction based on system balancing</a></h3></li>

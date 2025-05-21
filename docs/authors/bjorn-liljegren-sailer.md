@@ -5,6 +5,8 @@ permalink: /authors/bjorn-liljegren-sailer
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Björn Liljegren-Sailer, B. Liljegren-Sailer.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Björn Liljegren-Sailer, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/on-port-hamiltonian-approximation-of-a-nonlinear-flow-problem-on-networks">On Port-Hamiltonian Approximation of a Nonlinear Flow Problem on Networks</a></h3></li>
 <li><span class='post-meta'>2022 -- Björn Liljegren-Sailer, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/on-snapshot-based-model-reduction-under-compatibility-conditions-for-a-nonlinear-flow-problem-on-networks">On Snapshot-Based Model Reduction Under Compatibility Conditions for a Nonlinear Flow Problem on Networks</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/mitsuru-taniguchi
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Mitsuru Taniguchi, Mitsuru TANIGUCHI.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2012 -- Mitsuru Taniguchi, Kenji Fujimoto</span><h3><a class='post-link' href="{{ site.baseurl }}/path-following-control-for-a-class-of-electro-mechanical-systems-and-its-application">Path Following Control for a Class of Electro-Mechanical Systems and its Application</a></h3></li>
 <li><span class='post-meta'>2011 -- Mitsuru TANIGUCHI, Kenji FUJIMOTO</span><h3><a class='post-link' href="{{ site.baseurl }}/time-varying-path-following-control-for-port-hamiltonian-systems0">Time-varying Path Following Control for Port-Hamiltonian Systems</a></h3></li>

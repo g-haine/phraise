@@ -5,6 +5,8 @@ permalink: /authors/baozeng-fu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Baozeng Fu.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Baozeng Fu, Qingzhi Wang, Yongchao Liu</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-port-controlled-hamiltonian-systems-subject-to-exogenous-disturbances-via-compensation-control-approach">Stabilization of Port-Controlled Hamiltonian systems subject to exogenous disturbances via compensation control approach</a></h3></li>
 <li><span class='post-meta'>2022 -- Baozeng Fu, Qingzhi Wang, Ping Li</span><h3><a class='post-link' href="{{ site.baseurl }}/correction-finite-time-stabilization-and-h-control-of-port-controlled-hamiltonian-systems-with-disturbances-and-saturation">Correction: Finite-time stabilization and H∞ control of Port-controlled Hamiltonian systems with disturbances and saturation</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/christopher-renton
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Christopher Renton.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Joel Ferguson, Christopher Renton</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-representation-of-mechanical-systems-with-velocity-inputs">Port-Hamiltonian Representation of Mechanical Systems With Velocity Inputs</a></h3></li>
 <li><span class='post-meta'>2012 -- Christopher Renton, Tristan Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/manoeuvring-control-of-underactuated-surface-vessels-using-manifold-regulation-for-port-hamiltonian-systems">Manoeuvring Control of Underactuated Surface Vessels using Manifold Regulation for Port-Hamiltonian Systems</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/ngoc-ha-hoang
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Ngoc Ha Hoang, N. Ha Hoang, N.H. Hoang, Ha Ngoc Hoang, null Ngoc-Ha Hoang.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- N. Ha Hoang, Denis Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-contact-hamiltonian-functions-of-conservative-contact-systems">On the contact Hamiltonian functions of conservative contact systems</a></h3></li>
 <li><span class='post-meta'>2022 -- N. Ha Hoang, B. Erik Ydstie</span><h3><a class='post-link' href="{{ site.baseurl }}/integration-of-inventory-control-into-the-port-hamiltonian-framework-for-dissipative-stabilization-of-chemical-reactors">Integration of inventory control into the port‐Hamiltonian framework for dissipative stabilization of chemical reactors</a></h3></li>

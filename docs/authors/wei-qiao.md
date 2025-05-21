@@ -5,6 +5,8 @@ permalink: /authors/wei-qiao
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Wei Qiao, null Wei Qiao.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Zhe Zhang, Wei Qiao, Qing Hui</span><h3><a class='post-link' href="{{ site.baseurl }}/power-system-stabilization-using-energy-dissipating-hybrid-control">Power System Stabilization Using Energy-Dissipating Hybrid Control</a></h3></li>
 <li><span class='post-meta'>2010 -- Qing Hui, Jinglai Shen, Wei Qiao</span><h3><a class='post-link' href="{{ site.baseurl }}/dynamic-security-analysis-of-electric-power-systems-passivity-based-approach-and-positive-invariance-approach">Dynamic Security Analysis of Electric Power Systems: Passivity-Based Approach and Positive Invariance Approach</a></h3></li>

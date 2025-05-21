@@ -5,6 +5,8 @@ permalink: /authors/romeo-ortega
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Romeo Ortega, R. Ortega.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Pablo Borja, Romeo Ortega, Jacquelien M. A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/new-results-on-stabilization-of-port-hamiltonian-systems-via-pid-passivity-based-control">New Results on Stabilization of Port-Hamiltonian Systems via PID Passivity-Based Control</a></h3></li>
 <li><span class='post-meta'>2020 -- Joel Ferguson, Alejandro Donaire, Romeo Ortega, Richard H. Middleton</span><h3><a class='post-link' href="{{ site.baseurl }}/matched-disturbance-rejection-for-a-class-of-nonlinear-systems">Matched Disturbance Rejection for a Class of Nonlinear Systems</a></h3></li>

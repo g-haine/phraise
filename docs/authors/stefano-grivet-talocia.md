@@ -5,6 +5,8 @@ permalink: /authors/stefano-grivet-talocia
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Stefano Grivet-Talocia, S. Grivet-Talocia.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Marco De Stefano, Stefano Grivet-Talocia, Torben Wendt, Cheng Yang, Christian Schuster</span><h3><a class='post-link' href="{{ site.baseurl }}/a-multistage-adaptive-sampling-scheme-for-passivity-characterization-of-large-scale-macromodels">A Multistage Adaptive Sampling Scheme for Passivity Characterization of Large-Scale Macromodels</a></h3></li>
 <li><span class='post-meta'>2006 -- S. Grivet-Talocia, A. Ubolli</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-generation-of-large-passive-macromodels-for-complex-interconnect-structures">On the Generation of Large Passive Macromodels for Complex Interconnect Structures</a></h3></li>

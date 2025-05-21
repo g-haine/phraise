@@ -5,6 +5,8 @@ permalink: /authors/krishna-chaitanya-kosaraju
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Krishna Chaitanya Kosaraju, Krishna C. Kosaraju.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Krishna C. Kosaraju, Yu Kawano, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/krasovskii-s-passivity">Krasovskii’s Passivity</a></h3></li>
 <li><span class='post-meta'>2019 -- Krishna Chaitanya Kosaraju, Ramkrishna Pasumarthy, Dimitri Jeltsema</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-and-boundary-control-of-infinite-dimensional-systems-in-the-brayton-moser-framework">Modeling and boundary control of infinite dimensional systems in the Brayton–Moser framework</a></h3></li>

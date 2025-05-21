@@ -5,6 +5,8 @@ permalink: /authors/filippo-fabiani
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Filippo Fabiani, F. Fabiani.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Filippo Fabiani, Andrea Caiti</span><h3><a class='post-link' href="{{ site.baseurl }}/nash-equilibrium-seeking-in-potential-games-with-double-integrator-agents">Nash equilibrium seeking in potential games with double-integrator agents</a></h3></li>
 <li><span class='post-meta'>2018 -- Filippo Fabiani, Davide Fenucci, Andrea Caiti</span><h3><a class='post-link' href="{{ site.baseurl }}/a-distributed-passivity-approach-to-auv-teams-control-in-cooperating-potential-games">A distributed passivity approach to AUV teams control in cooperating potential games</a></h3></li>

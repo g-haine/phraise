@@ -5,6 +5,8 @@ permalink: /authors/toshiharu-sugie
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Toshiharu Sugie, Toshiharu SUGIE, T. Sugie.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2012 -- Kenji Fujimoto, Satoru Sakai, Toshiharu Sugie</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints">Passivity based control of a class of Hamiltonian systems with nonholonomic constraints</a></h3></li>
 <li><span class='post-meta'>2003 -- K. Fujimoto, K. Sakurama, T. Sugie</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-control-of-port-controlled-hamiltonian-systems-and-its-application-to-a-magnetic-levitation-system">Trajectory tracking control of port-controlled Hamiltonian systems and its application to a magnetic levitation system</a></h3></li>

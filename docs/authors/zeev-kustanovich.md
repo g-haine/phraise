@@ -5,6 +5,8 @@ permalink: /authors/zeev-kustanovich
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Zeev Kustanovich.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2018 -- Zeev Kustanovich, George Weiss</span><h3><a class='post-link' href="{{ site.baseurl }}/the-stability-of-a-synchronous-generator-with-a-prime-mover-connected-to-a-resistive-load">The stability of a synchronous generator with a prime mover connected to a resistive load</a></h3></li>
 

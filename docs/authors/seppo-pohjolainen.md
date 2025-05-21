@@ -5,6 +5,8 @@ permalink: /authors/seppo-pohjolainen
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Seppo Pohjolainen.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2016 -- Jukka-Pekka Humaloja, Lassi Paunonen, Seppo Pohjolainen</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-regulation-for-first-order-port-hamiltonian-systems">Robust regulation for first-order port-hamiltonian systems</a></h3></li>
 

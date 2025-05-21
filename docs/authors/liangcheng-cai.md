@@ -5,6 +5,8 @@ permalink: /authors/liangcheng-cai
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Liangcheng Cai, Liang-Cheng Cai.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Liangcheng Cai, Deqing Huang</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-control-of-heavy-haul-train-in-whole-operation-procedure">Trajectory Tracking Control of Heavy Haul Train in Whole Operation Procedure</a></h3></li>
 <li><span class='post-meta'>2021 -- Liang-Cheng Cai</span><h3><a class='post-link' href="{{ site.baseurl }}/simultaneous-stabilization-of-port-hamiltonian-systems-subject-to-actuation-saturation-and-input-delay">Simultaneous stabilization of Port-Hamiltonian systems subject to actuation saturation and input delay</a></h3></li>

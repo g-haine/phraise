@@ -5,6 +5,8 @@ permalink: /authors/aneesh-venkatraman
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Aneesh Venkatraman, A. Venkatraman.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2010 -- A. Venkatraman, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/full-order-observer-design-for-a-class-of-port-hamiltonian-systems">Full-order observer design for a class of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2010 -- A. Venkatraman, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/interconnections-of-port-hamiltonian-systems-generating-new-passive-outputs-and-feedback-stabilization">Interconnections of port-Hamiltonian systems: generating new passive outputs and feedback stabilization</a></h3></li>

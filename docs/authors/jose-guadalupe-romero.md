@@ -5,6 +5,8 @@ permalink: /authors/jose-guadalupe-romero
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Jose Guadalupe Romero.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- Alejandro Donaire, Jose Guadalupe Romero, Tristan Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-passivity-based-control-for-marine-vehicles-subject-to-disturbances">Trajectory tracking passivity-based control for marine vehicles subject to disturbances</a></h3></li>
 <li><span class='post-meta'>2015 -- Alejandro Donaire, Jose Guadalupe Romero, Tristan Perez, Romeo Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/smooth-stabilisation-of-nonholonomic-robots-subject-to-disturbances">Smooth stabilisation of nonholonomic robots subject to disturbances</a></h3></li>

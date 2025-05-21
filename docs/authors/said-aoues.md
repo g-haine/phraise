@@ -5,6 +5,8 @@ permalink: /authors/said-aoues
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Saïd Aoues, Said Aoues.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Said Aoues, Flavio Luiz Cardoso-Ribeiro, Denis Matignon, Daniel Alazard</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-and-control-of-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach">Modeling and Control of a Rotating Flexible Spacecraft: A Port-Hamiltonian Approach</a></h3></li>
 <li><span class='post-meta'>2018 -- Daniel Alazard, Saïd Aoues, Flávio Luiz Cardoso-Ribeiro, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/disturbance-rejection-for-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach">Disturbance rejection for a rotating flexible spacecraft: a port-Hamiltonian approach</a></h3></li>

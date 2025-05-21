@@ -5,6 +5,8 @@ permalink: /authors/alessio-moreschini
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Alessio Moreschini.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Alessio Moreschini, Joel D. Simard, Alessandro Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/data-driven-model-reduction-for-port-hamiltonian-and-network-systems-in-the-loewner-framework">Data-driven model reduction for port-Hamiltonian and network systems in the Loewner framework</a></h3></li>
 <li><span class='post-meta'>2024 -- Alessio Moreschini, Salvatore Monaco, Dorothée Normand-Cyrot</span><h3><a class='post-link' href="{{ site.baseurl }}/dirac-structures-for-a-class-of-port-hamiltonian-systems-in-discrete-time">Dirac Structures for a Class of Port-Hamiltonian Systems in Discrete Time</a></h3></li>

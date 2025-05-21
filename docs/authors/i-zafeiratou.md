@@ -5,6 +5,8 @@ permalink: /authors/i-zafeiratou
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: I. Zafeiratou.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2020 -- I. Zafeiratou, I. Prodan, L. Lefèvre, L. Piétrac</span><h3><a class='post-link' href="{{ site.baseurl }}/meshed-dc-microgrid-hierarchical-control-a-differential-flatness-approach">Meshed DC microgrid hierarchical control: A differential flatness approach</a></h3></li>
 <li><span class='post-meta'>2020 -- I. Zafeiratou, I. Prodan, L. Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-flat-representation-for-a-particular-class-of-port-hamiltonian-systems">On the flat representation for a particular class of port-Hamiltonian systems</a></h3></li>

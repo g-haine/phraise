@@ -5,6 +5,8 @@ permalink: /authors/andrea-brugnoli
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Andrea Brugnoli, A. Brugnoli.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Andrea Brugnoli, Ramy Rashad, Yi Zhang, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-element-hybridization-of-port-hamiltonian-systems">Finite element hybridization of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- A. Brugnoli, V. Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-discrete-equivalence-of-lagrangian-hamiltonian-and-mixed-finite-element-formulations-for-linear-wave-phenomena">On the discrete equivalence of Lagrangian, Hamiltonian and mixed finite element formulations for linear wave phenomena</a></h3></li>

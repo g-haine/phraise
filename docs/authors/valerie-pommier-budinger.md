@@ -5,6 +5,8 @@ permalink: /authors/valerie-pommier-budinger
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Valérie Pommier-Budinger, V. Pommier-Budinger, Valerie Pommier-Budinger.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- A. Brugnoli, D. Alazard, V. Pommier-Budinger, D. Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-formulation-of-linear-thermoelasticity-and-its-mixed-finite-element-discretization">A Port-Hamiltonian formulation of linear thermoelasticity and its mixed finite element discretization</a></h3></li>
 <li><span class='post-meta'>2021 -- Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-flexible-multibody-dynamics">Port-Hamiltonian flexible multibody dynamics</a></h3></li>

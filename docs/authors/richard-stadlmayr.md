@@ -5,6 +5,8 @@ permalink: /authors/richard-stadlmayr
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Richard Stadlmayr.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2011 -- Richard Stadlmayr, Reinhard Gahleitner</span><h3><a class='post-link' href="{{ site.baseurl }}/feedforward-design-and-optimality-aspects-for-the-control-of-mechatronic-systems">Feedforward Design and Optimality Aspects for the Control of Mechatronic Systems</a></h3></li>
 <li><span class='post-meta'>2009 -- Richard Stadlmayr, Kurt Schlacher</span><h3><a class='post-link' href="{{ site.baseurl }}/an-energy-based-control-strategy-for-dc-dc-power-converters">An energy-based control strategy for dc/dc power converters</a></h3></li>

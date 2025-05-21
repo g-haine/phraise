@@ -5,6 +5,8 @@ permalink: /authors/boussad-hamroun
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Boussad Hamroun, B. Hamroun.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/reduced-order-lqg-control-design-for-infinite-dimensional-port-hamiltonian-systems">Reduced Order LQG Control Design for Infinite Dimensional Port Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2019 -- Yongxin Wu, Boussad Hamroun, Yann Le Gorrec, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/reduced-order-optimal-control-of-infinite-dimensional-port-hamiltonian-systems">Reduced order optimal control of infinite dimensional port Hamiltonian systems</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/kirsten-morris
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Kirsten Morris, Kirsten A. Morris, K. Morris.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Luis A. Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/exponential-decay-rate-of-linear-port-hamiltonian-systems-a-multiplier-approach">Exponential Decay Rate of Linear Port-Hamiltonian Systems: A Multiplier Approach</a></h3></li>
 <li><span class='post-meta'>2024 -- Mehmet Erbay, Birgit Jacob, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-weierstrass-form-of-infinite-dimensional-differential-algebraic-equations">On the Weierstraß form of infinite-dimensional differential algebraic equations</a></h3></li>

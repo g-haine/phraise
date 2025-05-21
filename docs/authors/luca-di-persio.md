@@ -5,6 +5,8 @@ permalink: /authors/luca-di-persio
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Luca Di Persio.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Francesco Cordoni, Luca Di Persio, Riccardo Muradore</span><h3><a class='post-link' href="{{ site.baseurl }}/weak-energy-shaping-for-stochastic-controlled-port-hamiltonian-systems">Weak Energy Shaping for Stochastic Controlled Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2022 -- Francesco Cordoni, Luca Di Persio, Riccardo Muradore</span><h3><a class='post-link' href="{{ site.baseurl }}/stochastic-port-hamiltonian-systems">Stochastic Port-Hamiltonian Systems</a></h3></li>

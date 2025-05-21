@@ -5,6 +5,8 @@ permalink: /authors/juan-ignacio-mulero-martinez
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Juan Ignacio Mulero-Martínez.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2008 -- Juan Ignacio Mulero-Martínez</span><h3><a class='post-link' href="{{ site.baseurl }}/canonical-transformations-used-to-derive-robot-control-laws-from-a-port-controlled-hamiltonian-system-perspective">Canonical transformations used to derive robot control laws from a port-controlled Hamiltonian system perspective</a></h3></li>
 

@@ -5,6 +5,8 @@ permalink: /authors/bing-wang
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Bing Wang, Bing Wang -, null Bing Wang.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Chengzhi Qin, Bing Wang, Shanhui Fan, Peixiang Lu</span><h3><a class='post-link' href="{{ site.baseurl }}/gauge-flux-induced-anti-pt-phase-transitions-for-extreme-control-of-channel-drop-tunneling">Gauge‐Flux‐Induced Anti‐Pt Phase Transitions for Extreme Control of Channel‐Drop Tunneling</a></h3></li>
 <li><span class='post-meta'>2020 -- Bing Wang, Zhen Tang, Weiyang Liu, Qiuqiao Zhang</span><h3><a class='post-link' href="{{ site.baseurl }}/a-distributed-cooperative-control-strategy-of-offshore-wind-turbine-groups-with-input-time-delay">A Distributed Cooperative Control Strategy of Offshore Wind Turbine Groups with Input Time Delay</a></h3></li>

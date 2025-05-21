@@ -5,6 +5,8 @@ permalink: /authors/bernhard-maschke
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Bernhard Maschke, B. Maschke, B.M. Maschke, Bernhard MASCHKE, B. M. Maschke, Bernhard M. Maschke, B.M.J. Maschke.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Alexander Kilian, Bernhard Maschke, Andrii Mironchenko, Fabian Wirth</span><h3><a class='post-link' href="{{ site.baseurl }}/infinite-dimensional-port-hamiltonian-systems-with-a-stationary-interface">Infinite-dimensional port-Hamiltonian systems with a stationary interface</a></h3></li>
 <li><span class='post-meta'>2025 -- Mario Spirito, Bernhard Maschke, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/beyond-singular-perturbation-for-linear-port-hamiltonian-systems">Beyond Singular Perturbation for linear port-Hamiltonian systems</a></h3></li>
@@ -23,6 +25,7 @@ permalink: /authors/bernhard-maschke
 <li><span class='post-meta'>2022 -- Hector Ramirez, Yann Le Gorrec, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/boundary-controlled-irreversible-port-hamiltonian-systems">Boundary controlled irreversible port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2022 -- Mohammed Yaghi, Françoise Couenne, Aurélie Galfré, Laurent Lefèvre, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-of-the-solidification-process-for-a-pure-substance-a-phase-field-approach">Port Hamiltonian formulation of the solidification process for a pure substance: A phase field approach</a></h3></li>
 <li><span class='post-meta'>2022 -- Timm Faulwasser, Bernhard Maschke, Friedrich Philipp, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-control-of-port-hamiltonian-descriptor-systems-with-minimal-energy-supply">Optimal Control of Port-Hamiltonian Descriptor Systems with Minimal Energy Supply</a></h3></li>
+<li><span class='post-meta'>2021 -- Arjan van der Schaft, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/differential-operator-dirac-structures">Differential operator Dirac structures</a></h3></li>
 <li><span class='post-meta'>2021 -- Friedrich Philipp, Manuel Schaller, Timm Faulwasser, Bernhard Maschke, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/minimizing-the-energy-supply-of-infinite-dimensional-linear-port-hamiltonian-systems">Minimizing the energy supply of infinite-dimensional linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2021 -- Luis A. Mora, Yann Le Gorrec, Hector Ramirez, Juan Yuz, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/dissipative-port-hamiltonian-formulation-of-maxwell-viscoelastic-fluids">Dissipative port-Hamiltonian Formulation of Maxwell Viscoelastic Fluids</a></h3></li>
 <li><span class='post-meta'>2021 -- Luis A. Mora, Yann Le Gorrec, Héctor Ramírez, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/irreversible-port-hamiltonian-modelling-of-1d-compressible-fluids">Irreversible port-Hamiltonian modelling of 1D compressible fluids</a></h3></li>

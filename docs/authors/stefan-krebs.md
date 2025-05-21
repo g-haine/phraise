@@ -5,6 +5,8 @@ permalink: /authors/stefan-krebs
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Stefan Krebs.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2020 -- Felix Strehle, Martin Pfeifer, Albertus Johannes Malan, Stefan Krebs, Soren Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/a-scalable-port-hamiltonian-approach-to-plug-and-play-voltage-stabilization-in-dc-microgrids">A Scalable Port-Hamiltonian Approach to Plug-and-Play Voltage Stabilization in DC Microgrids</a></h3></li>
 <li><span class='post-meta'>2020 -- Lukas Kolsch, Manuel Dupuis, Kirtan Bhatt, Stefan Krebs, Soren Hohmann</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-frequency-regulation-for-heterogeneous-microgrids-via-steady-state-optimal-control">Distributed Frequency Regulation for Heterogeneous Microgrids via Steady State Optimal Control</a></h3></li>

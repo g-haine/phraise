@@ -5,6 +5,8 @@ permalink: /authors/satoru-sakai
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Satoru Sakai, S. Sakai, Satoru SAKAI.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Satoru Sakai</span><h3><a class='post-link' href="{{ site.baseurl }}/a-casimir-based-analysis-of-a-class-of-the-general-actuator-model">A Casimir based Analysis of a Class of the General Actuator Model</a></h3></li>
 <li><span class='post-meta'>2023 -- Satoru Sakai, Takumu Takagi, Kohei Sawada, Tomoya Yokogawa, Ryo Arai</span><h3><a class='post-link' href="{{ site.baseurl }}/further-result-on-fast-search-method-for-nmpcs-by-mixed-objective-physical-nondimensionalizations-for-mechatonic-systems">Further Result on Fast Search Method for NMPCs by Mixed Objective-Physical Nondimensionalizations for Mechatonic Systems</a></h3></li>

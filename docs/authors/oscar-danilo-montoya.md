@@ -5,6 +5,8 @@ permalink: /authors/oscar-danilo-montoya
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Oscar Danilo Montoya, Oscar Montoya, O. D. Montoya, Oscar Danil Montoya.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Oscar Danilo Montoya, Federico M. Serra, Gerardo Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-equivalence-between-pi-pbc-and-ioc-designs-an-application-involving-three-phase-front-end-converters">On the Equivalence Between PI-PBC and IOC Designs: An Application Involving Three-Phase Front-End Converters</a></h3></li>
 <li><span class='post-meta'>2023 -- Oscar Danilo Montoya, César Leonardo Trujillo, Walter Gil-González</span><h3><a class='post-link' href="{{ site.baseurl }}/power-transference-controller-design-between-two-dc-microgrids-interconnected-via-an-interleaved-boost-converter-a-pi-pbc-approach">Power Transference Controller Design between two DC Microgrids Interconnected via an Interleaved Boost Converter: A PI-PBC Approach</a></h3></li>

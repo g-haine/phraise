@@ -5,6 +5,8 @@ permalink: /authors/eduardo-mendes
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Eduardo Mendes, E. Mendes.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2010 -- B. Hamroun, L. Lefèvre, E. Mendes</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-based-control-for-open-irrigation-channel-using-a-reduced-port-hamiltonian-model">Energy shaping based control for open irrigation channel using a reduced port hamiltonian model</a></h3></li>
 <li><span class='post-meta'>2010 -- Boussad Hamroun, Alexandru Dimofte, Laurent Lefèvre, Eduardo Mendes</span><h3><a class='post-link' href="{{ site.baseurl }}/control-by-interconnection-and-energy-shaping-methods-of-port-hamiltonian-models-application-to-the-shallow-water-equations">Control by Interconnection and Energy-Shaping Methods of Port Hamiltonian Models. Application to the Shallow Water Equations</a></h3></li>

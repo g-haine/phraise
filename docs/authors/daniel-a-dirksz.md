@@ -5,6 +5,8 @@ permalink: /authors/daniel-a-dirksz
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Daniel A. Dirksz, D. A. Dirksz, D.A. Dirksz.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- Mauricio Muñoz-Arias, Jacquelien M. A. Scherpen, Daniel A. Dirksz</span><h3><a class='post-link' href="{{ site.baseurl }}/position-control-via-force-feedback-in-the-port-hamiltonian-framework">Position Control via Force Feedback in the Port-Hamiltonian Framework</a></h3></li>
 <li><span class='post-meta'>2015 -- D. A. Dirksz, J. M. A. Scherpen, A. J. van der Schaft, M. Steinbuch</span><h3><a class='post-link' href="{{ site.baseurl }}/notch-filters-for-port-hamiltonian-systems">Notch Filters for Port-Hamiltonian Systems</a></h3></li>

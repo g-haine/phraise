@@ -5,6 +5,8 @@ permalink: /authors/gerardo-espinosa-perez
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Gerardo Espinosa-Pérez, Gerardo Espinosa-Perez, Gerardo René Espinosa Pérez, Gerardo Espinosa‐Pérez, G. Espinosa-Pérez, G. Espinosa-Pérez.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Fernanda Ramos-García, Gerardo Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/a-speed-tracking-passivity-based-control-of-induction-motors">A Speed Tracking Passivity Based Control of Induction Motors</a></h3></li>
 <li><span class='post-meta'>2025 -- Michael Rojas, Christian Granados‐Salazar, Gerardo Espinosa‐Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/full-order-observer-design-for-quadratic-port-controlled-hamiltonian-systems">Full‐order observer design for quadratic port‐controlled Hamiltonian systems</a></h3></li>

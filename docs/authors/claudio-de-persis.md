@@ -5,6 +5,8 @@ permalink: /authors/claudio-de-persis
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Claudio De Persis, C. De Persis.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- T. W. Stegink, C. De Persis, A. J. Van Der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/an-energy-based-analysis-of-reduced-order-models-of-networked-synchronous-machines">An energy-based analysis of reduced-order models of (networked) synchronous machines</a></h3></li>
 <li><span class='post-meta'>2017 -- Nima Monshizadeh, Claudio De Persis</span><h3><a class='post-link' href="{{ site.baseurl }}/agreeing-in-networks-unmatched-disturbances-algebraic-constraints-and-optimality">Agreeing in networks: Unmatched disturbances, algebraic constraints and optimality</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/xudong-liu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Xudong Liu, null Xudong Liu.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Xudong Liu, Haisheng Yu, Jinpeng Yu, Yang Zhao</span><h3><a class='post-link' href="{{ site.baseurl }}/a-novel-speed-control-method-based-on-port-controlled-hamiltonian-and-disturbance-observer-for-pmsm-drives">A Novel Speed Control Method Based on Port-Controlled Hamiltonian and Disturbance Observer for PMSM Drives</a></h3></li>
 <li><span class='post-meta'>2018 -- Bingkun Zhao, Haisheng Yu, Jinpeng Yu, Xudong Liu, Herong Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/port-controlled-hamiltonian-and-sliding-mode-control-of-gantry-robot-based-on-induction-motor-drives">Port-Controlled Hamiltonian and Sliding Mode Control of Gantry Robot Based on Induction Motor Drives</a></h3></li>

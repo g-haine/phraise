@@ -5,6 +5,8 @@ permalink: /authors/xudong-zhao
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Xudong Zhao.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Zi-Ming Wang, Xudong Zhao, Xiaodi Li, Xianfu Zhang, Rui Mu</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-for-switched-uncertain-port-controlled-hamiltonian-systems-with-its-application-to-rlc-circuit-systems">Energy-Based Control for Switched Uncertain Port-Controlled Hamiltonian Systems With Its Application to RLC Circuit Systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Zi-Ming Wang, Xudong Zhao, Xiaodi Li, Airong Wei</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-time-adaptive-control-for-uncertain-switched-port-controlled-hamiltonian-systems">Finite-time adaptive control for uncertain switched port-controlled Hamiltonian systems</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/salvatore-monaco
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Salvatore Monaco, S Monaco.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Alessio Moreschini, Salvatore Monaco, Dorothée Normand-Cyrot</span><h3><a class='post-link' href="{{ site.baseurl }}/dirac-structures-for-a-class-of-port-hamiltonian-systems-in-discrete-time">Dirac Structures for a Class of Port-Hamiltonian Systems in Discrete Time</a></h3></li>
 <li><span class='post-meta'>2024 -- Dorothée Normand-Cyrot, Salvatore Monaco, Mattia Mattioni, Alessio Moreschini</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-techniques-and-hamiltonian-structures-in-discrete-time">Passivity Techniques and Hamiltonian Structures in Discrete Time</a></h3></li>

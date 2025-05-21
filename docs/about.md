@@ -39,7 +39,7 @@ To stay as up to date as possible, we use the [arXiv API](https://info.arxiv.org
 However, since these preprints have not been peer-reviewed or officially published, they do not have DOIs registered in **CrossRef**. For this reason, **arXiv** entries are displayed on a separate page. These entries are dynamically fetched and are not part of the **PHRAISE** internal database. As a result, they are not included in the [search tool]({{ site.baseurl }}/search/).
 
 ### **Handling Author's names**
-The [Author pages]({{ site.baseurl }}/authors/) need a management to take care of the different ways an author can appear in a publication. This can be a source of errors, so please do not hesitate to [suggest corrections](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D). You may want to take a look at [the array managing name variations]({{ site.baseurl }}/assets/data/author_mappings.json) (a JSON file).
+The [Author pages]({{ site.baseurl }}/authors/) need a management to take care of the different ways an author can appear in a publication. We use the [OpenAlex API](https://docs.openalex.org/how-to-use-the-api/api-overview) to minimize the task. Nevertheless, this can be a source of errors, so please do not hesitate to [suggest corrections](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D). You may want to take a look at [the array managing name variations]({{ site.baseurl }}/assets/data/author_mappings.json) (a JSON file).
 
 ### **Curation Process**
 No additional **peer review** is conducted; the survey relies on **CrossRef's metadata**, assuming that all indexed works have already undergone editorial scrutiny.

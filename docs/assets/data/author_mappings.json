@@ -999,7 +999,7 @@
 ,
   "angela-faragasso": [ "Angela Faragasso" ]
 ,
-  "f-farago": [ "F. Farago" ]
+  "francois-farago": [ "François Farago", "Francois Farago", "F. Farago", "François Farago" ]
 ,
   "m-farid": [ "M. Farid" ]
 ,
@@ -1241,7 +1241,7 @@
 ,
   "a-r-ghiasi": [ "A. R. Ghiasi" ]
 ,
-  "j-gibart": [ "J. Gibart" ]
+  "jules-gibart": [ "Jules Gibart", "Jules Gibart", "J. Gibart" ]
 ,
   "frederik-gielnik": [ "Frederik Gielnik", "F. Gielnik" ]
 ,
@@ -1342,6 +1342,8 @@
   "robert-grino": [ "Robert Griñó", "Robert Grino" ]
 ,
   "stefano-grivet-talocia": [ "Stefano Grivet-Talocia", "S. Grivet-Talocia" ]
+,
+  "miroslav-grmela": [ "Miroslav Grmela", "Miroslav Grmela", "M. Grmela" ]
 ,
   "dmitry-gromov": [ "Dmitry Gromov" ]
 ,
@@ -2725,7 +2727,7 @@
 ,
   "charles-muller": [ "Charles Muller" ]
 ,
-  "remy-muller": [ "Rémy Müller" ]
+  "remy-muller": [ "Rémy Müller", "Müller Remy", "Remy Muller", "Rémy Muller", "Remy Müller", "R.C. Muller", "Rémy Müller", "Müller Remy", "Rémy Müller" ]
 ,
   "pongsiri-mungporn": [ "Pongsiri Mungporn" ]
 ,
@@ -2736,8 +2738,6 @@
   "pankaj-mukhija": [ "Pankaj Mukhija" ]
 ,
   "juan-ignacio-mulero-martinez": [ "Juan Ignacio Mulero-Martínez" ]
-,
-  "remy-muller": [ "Remy Muller" ]
 ,
   "carlos-munoz": [ "Carlos Muñoz" ]
 ,
@@ -3057,7 +3057,7 @@
 ,
   "serge-pierfederici": [ "Serge Pierfederici" ]
 ,
-  "h-piet-lahanier": [ "H. Piet-Lahanier" ]
+  "helene-piet-lahanier": [ "Hélène Piet-Lahanier", "H. Piet-Lahanier", "H. Lahanier", "Helene Piet‐Lahanier", "H.P. Lahanier", "Helène Piet‐Lahanier", "Hélène Piet‐Lahanie", "Héléne Piet‐Lahanier", "Hélène Piet‐Lahanier", "H. Piet Lahanier", "Hélène Piet Lahanier", "H. Piet‐Lahanier", "Hélène Lahanier" ]
 ,
   "l-pietrac": [ "L. Piétrac" ]
 ,
@@ -4023,7 +4023,7 @@
 ,
   "xavier-vasseur": [ "Xavier Vasseur" ]
 ,
-  "jaap-j-w-van-der-vegt": [ "Jaap J. W. van der Vegt", "J.J.W. van der Vegt", "J J W van der Vegt", "J.J.W. Van der Vegt" ]
+  "jaap-j-w-van-der-vegt": [ "Jaap J. W. van der Vegt", "J.J.W. van der Vegt", "J J W van der Vegt", "J.J.W. Van der Vegt", "J.J.W. van der Vegt", "Jaap van der Vegt", "J. J. W. Van Der Vegt", "Jacobus J.W. van der Vegt", "J J Vegt", "JACOBUS VAN DER VEGT", "Jaap J. W. Van Der Vegt", "J. J. W. Vegt", "J. VAN DER VEGT", "JAAP VAN DER VEGT", "van der Vegt", "J. van der Vegt", "Jaap J.W van der Vegt", "J. Van der Vegt", "Van der Vegt", "J. J. W. van der Vegt" ]
 ,
   "matias-veillon": [ "Matias Veillon" ]
 ,
@@ -4861,7 +4861,7 @@
 ,
   "xuan-zuo": [ "Xuan Zuo" ]
 ,
-  "hans-zwart": [ "Hans Zwart", "Hans J. Zwart", "H. Zwart", "H J Zwart", "H.J. Zwart" ]
+  "hans-zwart": [ "Hans Zwart", "H. Zwart", "Hans Zwart", "H.J Zwart", "H. J. Zwart", "Hans J. Zwart", "H J Zwart", "H.J. Zwart" ]
 ,
   "tom-zwerschke": [ "Tom Zwerschke" ]
 }

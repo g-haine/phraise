@@ -5,6 +5,8 @@ permalink: /authors/chee-keong-tan
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Chee Keong Tan, C.K. Tan.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- T. Sang Nguyen, C.K. Tan, N. Ha Hoang, M.A. Hussain, D. Bonvin</span><h3><a class='post-link' href="{{ site.baseurl }}/a-perturbed-port-hamiltonian-approach-for-the-stabilization-of-homogeneous-reaction-systems-via-the-control-of-vessel-extents">A perturbed Port-Hamiltonian approach for the stabilization of homogeneous reaction systems via the control of vessel extents</a></h3></li>
 <li><span class='post-meta'>2021 -- Thanh Sang Nguyen, Ngoc Ha Hoang, Chee Keong Tan, Mohd Azlan Bin Hussain</span><h3><a class='post-link' href="{{ site.baseurl }}/proportional-integral-passivity-based-control-design-of-perturbed-non-standard-hamiltonian-systems">Proportional-Integral passivity-based control design of perturbed non-standard Hamiltonian systems</a></h3></li>

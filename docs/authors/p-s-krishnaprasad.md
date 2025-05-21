@@ -5,6 +5,8 @@ permalink: /authors/p-s-krishnaprasad
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: P. S. Krishnaprasad.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>1988 -- Juan C. Simo, Jerrold E. Marsden, P. S. Krishnaprasad</span><h3><a class='post-link' href="{{ site.baseurl }}/the-hamiltonian-structure-of-nonlinear-elasticity-the-material-and-convective-representations-of-solids-rods-and-plates">The Hamiltonian structure of nonlinear elasticity: The material and convective representations of solids, rods, and plates</a></h3></li>
 

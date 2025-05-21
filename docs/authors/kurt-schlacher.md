@@ -5,6 +5,8 @@ permalink: /authors/kurt-schlacher
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Kurt Schlacher, K. Schlacher.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2018 -- Hubert Rams, Markus Schoberl, Kurt Schlacher</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-motion-planning-and-energy-based-control-of-a-single-mast-stacker-crane">Optimal Motion Planning and Energy-Based Control of a Single Mast Stacker Crane</a></h3></li>
 <li><span class='post-meta'>2018 -- Markus Schöberl, Kurt Schlacher</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-extraction-of-the-boundary-conditions-and-the-boundary-ports-in-second-order-field-theories">On the extraction of the boundary conditions and the boundary ports in second-order field theories</a></h3></li>

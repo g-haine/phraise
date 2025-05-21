@@ -71,7 +71,7 @@ Irreversible thermodynamics; Entropy; Port-Hamiltonian system; Contact structure
 - [Favache, A., Dos Santos Martins, V. S., Dochain, D. & Maschke, B. Some Properties of Conservative Port Contact Systems. IEEE Transactions on Automatic Control vol. 54 2341–2351 (2009)](some-properties-of-conservative-port-contact-systems) -- [10.1109/tac.2009.2028973](https://doi.org/10.1109/tac.2009.2028973)
 - Gibbs, A method of geometrical representation of the thermodynamic properties of substances by means of surfaces. Trans. Conn. Acad. (1873)
 - Grmela, M. Complex fluids subjected to external influences. Journal of Non-Newtonian Fluid Mechanics vol. 96 221–254 (2001) -- [10.1016/s0377-0257(00)00186-5](https://doi.org/10.1016/s0377-0257(00)00186-5)
-- Grmela, M. Lagrange hydrodynamics as extended Euler hydrodynamics: Hamiltonian and GENERIC structures. Physics Letters A vol. 296 97–104 (2002) -- [10.1016/s0375-9601(02)00190-1](https://doi.org/10.1016/s0375-9601(02)00190-1)
+- [Grmela, M. Lagrange hydrodynamics as extended Euler hydrodynamics: Hamiltonian and GENERIC structures. Physics Letters A vol. 296 97–104 (2002)](lagrange-hydrodynamics-as-extended-euler-hydrodynamics-hamiltonian-and-generic-structures) -- [10.1016/s0375-9601(02)00190-1](https://doi.org/10.1016/s0375-9601(02)00190-1)
 - Grmela, M. & Öttinger, H. C. Dynamics and thermodynamics of complex fluids.  I. Development of a general formalism. Physical Review E vol. 56 6620–6632 (1997) -- [10.1103/physreve.56.6620](https://doi.org/10.1103/physreve.56.6620)
 - Hangos, K. M., Bokor, J. & Szederkényi, G. Hamiltonian view on process systems. AIChE Journal vol. 47 1819–1831 (2001) -- [10.1002/aic.690470813](https://doi.org/10.1002/aic.690470813)
 - Hermann, (1973)

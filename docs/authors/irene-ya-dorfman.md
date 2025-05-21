@@ -5,6 +5,8 @@ permalink: /authors/irene-ya-dorfman
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Irene Ya. Dorfman.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>1987 -- Irene Ya. Dorfman</span><h3><a class='post-link' href="{{ site.baseurl }}/dirac-structures-of-integrable-evolution-equations">Dirac structures of integrable evolution equations</a></h3></li>
 

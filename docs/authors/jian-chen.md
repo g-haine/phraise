@@ -5,6 +5,8 @@ permalink: /authors/jian-chen
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Jian Chen.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Chengxing Lv, Ying Zhang, Zichen Wang, Jian Chen, Zhibo Yang, Haisheng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/reinforcement-learning-event-triggered-energy-based-control-for-unmanned-surface-vessel-with-disturbances">Reinforcement learning event-triggered energy-based control for unmanned surface vessel with disturbances</a></h3></li>
 <li><span class='post-meta'>2025 -- Junjie Gong, Jian Chen, Dengsheng Cai, Haibo Xie, Wei Wei, Yu Long</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-considering-model-uncertainty-with-interconnection-and-damping-assignment-passivity-based-control-for-electro-hydraulic-servo-systems">Trajectory tracking considering model uncertainty with interconnection and damping assignment passivity-based control for electro-hydraulic servo systems</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/luis-a-mora
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Luis A. Mora, Luis A Mora.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Luis A. Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/exponential-decay-rate-of-linear-port-hamiltonian-systems-a-multiplier-approach">Exponential Decay Rate of Linear Port-Hamiltonian Systems: A Multiplier Approach</a></h3></li>
 <li><span class='post-meta'>2024 -- Luis A. Mora, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-and-entropy-assignment-boundary-control-of-the-heat-equation">Energy-shaping and entropy-assignment boundary control of the heat equation</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/mattia-mattioni
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Mattia Mattioni.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Mattia Mattioni, Pablo Borja</span><h3><a class='post-link' href="{{ site.baseurl }}/digital-passivity-based-control-of-underactuated-mechanical-systems">Digital passivity-based control of underactuated mechanical systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Dorothée Normand-Cyrot, Salvatore Monaco, Mattia Mattioni, Alessio Moreschini</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-techniques-and-hamiltonian-structures-in-discrete-time">Passivity Techniques and Hamiltonian Structures in Discrete Time</a></h3></li>

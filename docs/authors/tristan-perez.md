@@ -5,6 +5,8 @@ permalink: /authors/tristan-perez
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Tristan Perez, T. Perez.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Christina Kazantzidou, Tristan Perez, Francis Valentinis, Alejandro Donaire</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-tuning-of-a-nonlinear-energy-based-regulator-for-the-positioning-of-a-fully-actuated-surface-marine-craft">On the tuning of a nonlinear energy‐based regulator for the positioning of a fully actuated surface marine craft</a></h3></li>
 <li><span class='post-meta'>2019 -- Rodolfo Reyes-Baez, Arjan van der Schaft, Bayu Jayawardhana, Alejandro Donaire, Tristan Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/tracking-control-of-marine-craft-in-the-port-hamiltonian-framework-a-virtual-differential-passivity-approach">Tracking Control of Marine Craft in the port-Hamiltonian Framework: A Virtual Differential Passivity Approach</a></h3></li>

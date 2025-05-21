@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Judy Najnudel](authors/judy-najnudel), [Thomas Hélie](authors/thomas-helie), [David Roze](authors/david-roze), [Rémy Müller](authors/)
+[Judy Najnudel](authors/judy-najnudel), [Thomas Hélie](authors/thomas-helie), [David Roze](authors/david-roze), [Rémy Müller](authors/remy-muller)
  
 ## Abstract
 This paper addresses the power-balanced modeling of physical systems with numerous degrees of freedom. The proposed approach combines statistical physics and port-Hamiltonian formulation, to produce macroscopic power balanced systems with reduced complexity. Thermodynamic variables are explicitly taken into account in the modeling to ensure thermodynamic consistency. The method is illustrated on two applications: an ideal gas in a thermostat, and a ferromagnet in a thermostat.

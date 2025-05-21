@@ -5,6 +5,8 @@ permalink: /authors/viswanath-talasila
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Viswanath Talasila, V. Talasila.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- Moirangthem Sailash Singh, Pramod Jayaram, Viswanath Talasila</span><h3><a class='post-link' href="{{ site.baseurl }}/experimental-validation-for-a-port-hamiltonian-model-of-a-802-11g-n-system">Experimental validation for a Port hamiltonian model of a 802.11g/n system</a></h3></li>
 <li><span class='post-meta'>2015 -- Viswanath Talasila, Ramkrishna Pasumarthy</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-formulation-of-a-wireless-communication-system">A Port-Hamiltonian Formulation of a Wireless Communication System</a></h3></li>

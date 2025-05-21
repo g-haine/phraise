@@ -5,6 +5,8 @@ permalink: /authors/remy-nouailletas
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Rémy Nouailletas, Remy Nouailletas, R. NOUAILLETAS.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Benjamin Vincent, Remy Nouailletas, Jean-Francois Artaud, Nicolas Hudon, Laurent Lefevre, Denis Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/lumped-port-hamiltonian-burning-plasma-control-model">Lumped port–Hamiltonian burning plasma control model</a></h3></li>
 <li><span class='post-meta'>2017 -- Ngoc Minh Trang Vu, Laurent Lefèvre, Rémy Nouailletas, Sylvain Brémond</span><h3><a class='post-link' href="{{ site.baseurl }}/symplectic-spatial-integration-schemes-for-systems-of-balance-equations">Symplectic spatial integration schemes for systems of balance equations</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/stefano-stramigioli
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Stefano Stramigioli, S. Stramigioli, S. Straimgioli, S Stramigioli.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Andrea Brugnoli, Ramy Rashad, Yi Zhang, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-element-hybridization-of-port-hamiltonian-systems">Finite element hybridization of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Ramy Rashad, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/the-port-hamiltonian-structure-of-continuum-mechanics">The Port-Hamiltonian Structure of Continuum Mechanics</a></h3></li>

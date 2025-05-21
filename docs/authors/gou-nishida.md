@@ -5,6 +5,8 @@ permalink: /authors/gou-nishida
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Gou Nishida, G. Nishida, Gou NISHIDA, null Gou Nishida.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Gou Nishida, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/stokes-dirac-operator-for-laplacian">Stokes-Dirac operator for Laplacian</a></h3></li>
 <li><span class='post-meta'>2019 -- Gou Nishida, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/topological-geometric-extension-of-stokes-dirac-structures-for-global-energy-flows">Topological geometric extension of Stokes-Dirac structures for global energy flows</a></h3></li>

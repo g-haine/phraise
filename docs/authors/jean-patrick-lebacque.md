@@ -5,6 +5,8 @@ permalink: /authors/jean-patrick-lebacque
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Jean-Patrick Lebacque.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Antoine Tordeux, Claudia Totzeck, Sylvain Lassarre, Jean-Patrick Lebacque</span><h3><a class='post-link' href="{{ site.baseurl }}/modelling-pedestrian-collective-dynamics-with-port-hamiltonian-systems">Modelling Pedestrian Collective Dynamics with Port-Hamiltonian Systems</a></h3></li>
 

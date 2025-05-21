@@ -5,6 +5,8 @@ permalink: /authors/riccardo-morselli
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Riccardo Morselli, R. Morselli.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2008 -- Riccardo Morselli, Roberto Zanasi</span><h3><a class='post-link' href="{{ site.baseurl }}/control-of-port-hamiltonian-systems-by-dissipative-devices-and-its-application-to-improve-the-semi-active-suspension-behaviour">Control of port Hamiltonian systems by dissipative devices and its application to improve the semi-active suspension behaviour</a></h3></li>
 <li><span class='post-meta'>2006 -- R. Morselli, R. Zanasi, P. Ferracin</span><h3><a class='post-link' href="{{ site.baseurl }}/dynamic-model-of-an-electro-hydraulic-three-point-hitch">Dynamic model of an electro-hydraulic three point hitch</a></h3></li>

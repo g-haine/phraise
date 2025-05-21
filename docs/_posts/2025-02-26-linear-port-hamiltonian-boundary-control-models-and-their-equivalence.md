@@ -56,7 +56,7 @@ Systems of partial differential equations often admit different Hamiltonian repr
 - [van der Schaft, A. & Maschke, B. Dirac and Lagrange Algebraic Constraints in Nonlinear Port-Hamiltonian Systems. Vietnam J. Math. 48, 929–939 (2020)](dirac-and-lagrange-algebraic-constraints-in-nonlinear-port-hamiltonian-systems) -- [10.1007/s10013-020-00419-x](https://doi.org/10.1007/s10013-020-00419-x)
 - [van der Schaft, A. & Rapisarda, P. State Maps from Integration by Parts. SIAM J. Control Optim. 49, 2415–2439 (2011)](state-maps-from-integration-by-parts) -- [10.1137/100806825](https://doi.org/10.1137/100806825)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42, 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
-- van der Schaft, A. & Maschke, B. Differential operator Dirac structures. IFAC-PapersOnLine 54, 198–203 (2021) -- [10.1016/j.ifacol.2021.11.078](https://doi.org/10.1016/j.ifacol.2021.11.078)
+- [van der Schaft, A. & Maschke, B. Differential operator Dirac structures. IFAC-PapersOnLine 54, 198–203 (2021)](differential-operator-dirac-structures) -- [10.1016/j.ifacol.2021.11.078](https://doi.org/10.1016/j.ifacol.2021.11.078)
 - Trentelman, H. L. & Rapisarda, P. New Algorithms for Polynomial J-Spectral Factorization. Math. Control Signals Systems 12, 24–61 (1999) -- [10.1007/pl00009844](https://doi.org/10.1007/pl00009844)
 - Willems, J. C. & Trentelman, H. L. On Quadratic Differential Forms. SIAM J. Control Optim. 36, 1703–1749 (1998) -- [10.1137/s0363012996303062](https://doi.org/10.1137/s0363012996303062)
 

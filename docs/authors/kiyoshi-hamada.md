@@ -5,6 +5,8 @@ permalink: /authors/kiyoshi-hamada
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Kiyoshi Hamada.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Kiyoshi Hamada, Pablo Borja, Jacquelien M. A. Scherpen, Kenji Fujimoto, Ichiro Maruta</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-lag-compensators-with-input-saturation-for-mechanical-port-hamiltonian-systems-without-velocity-measurements0">Passivity-Based Lag-Compensators With Input Saturation for Mechanical Port-Hamiltonian Systems Without Velocity Measurements</a></h3></li>
 <li><span class='post-meta'>2021 -- Kiyoshi Hamada, Pablo Borja, Jacquelien M.A. Scherpen, Kenji Fujimoto, Ichiro Maruta</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-lag-compensators-with-input-saturation-for-mechanical-port-hamiltonian-systems-without-velocity-measurements">Passivity-Based Lag-Compensators with Input Saturation for Mechanical Port-Hamiltonian Systems Without Velocity Measurements</a></h3></li>

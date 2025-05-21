@@ -5,6 +5,8 @@ permalink: /authors/ghislain-haine
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Ghislain Haine, Ghilslain Haine.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Antoine Bendimerad-Hohl, Ghislain Haine, Laurent Lefèvre, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/stokes-lagrange-and-stokes-dirac-representations-of-n-dimensional-port-hamiltonian-systems-for-modeling-and-control">Stokes-Lagrange and Stokes-Dirac representations of \(  N  \)-dimensional port-Hamiltonian systems for modeling and control</a></h3></li>
 <li><span class='post-meta'>2024 -- Antoine Bendimerad-Hohl, Denis Matignon, Ghislain Haine, Laurent Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/on-stokes-lagrange-and-stokes-dirac-representations-for-1d-distributed-port-hamiltonian-systems">On Stokes-Lagrange and Stokes-Dirac representations for 1D distributed port-Hamiltonian systems</a></h3></li>

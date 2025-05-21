@@ -5,6 +5,8 @@ permalink: /authors/benjamin-unger
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Benjamin Unger, B. Unger.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Tobias Breiten, Dorothea Hinsen, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/toward-a-class-of-port-hamiltonian-systems-with-time-delays">Toward a Class of Port-Hamiltonian Systems With Time-Delays</a></h3></li>
 <li><span class='post-meta'>2023 -- Riccardo Morandin, Jonas Nicodemus, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-dynamic-mode-decomposition">Port-Hamiltonian Dynamic Mode Decomposition</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/anass-serhani
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Anass Serhani.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Ghislain Haine, Denis Matignon, Anass Serhani</span><h3><a class='post-link' href="{{ site.baseurl }}/numerical-analysis-of-a-structure-preserving-space-discretization-for-an-anisotropic-and-heterogeneous-boundary-controlled-n-dimensional-wave-equation-as-a-port-hamiltonian-system">Numerical Analysis of a Structure-Preserving Space-Discretization for an Anisotropic and Heterogeneous Boundary Controlled \( N \)-Dimensional Wave Equation as a Port-Hamiltonian System</a></h3></li>
 <li><span class='post-meta'>2021 -- Andrea Brugnoli, Ghislain Haine, Anass Serhani, Xavier Vasseur</span><h3><a class='post-link' href="{{ site.baseurl }}/numerical-approximation-of-port-hamiltonian-systems-for-hyperbolic-or-parabolic-pdes-with-boundary-control">Numerical Approximation of Port-Hamiltonian Systems for Hyperbolic or Parabolic PDEs with Boundary Control</a></h3></li>

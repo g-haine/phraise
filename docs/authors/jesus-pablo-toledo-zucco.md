@@ -5,6 +5,8 @@ permalink: /authors/jesus-pablo-toledo-zucco
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Jesus-Pablo Toledo-Zucco, Jesús Toledo, Jesus Toledo, Jesus Pablo Toledo Zucco.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Jesus-Pablo Toledo-Zucco, Denis Matignon, Charles Poussot-Vassal, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-discretization-and-model-order-reduction-of-boundary-controlled-1d-port-hamiltonian-systems">Structure-preserving discretization and model order reduction of boundary-controlled 1D port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Jesus-Pablo Toledo-Zucco, Denis Matignon, Charles Poussot-Vassal</span><h3><a class='post-link' href="{{ site.baseurl }}/scattering-passive-structure-preserving-finite-element-method-for-the-boundary-controlled-transport-equation-with-a-moving-mesh">Scattering-Passive Structure-Preserving Finite Element Method for the Boundary Controlled Transport Equation with a Moving Mesh</a></h3></li>

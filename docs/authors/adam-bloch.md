@@ -5,6 +5,8 @@ permalink: /authors/adam-bloch
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Adam Błoch.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Jacek Banasiak, Adam Błoch</span><h3><a class='post-link' href="{{ site.baseurl }}/telegraph-systems-on-networks-and-port-hamiltonians-i-boundary-conditions-and-well-posedness">Telegraph systems on networks and port-Hamiltonians. I. Boundary conditions and well-posedness</a></h3></li>
 <li><span class='post-meta'>2022 -- Jacek Banasiak, Adam Błoch</span><h3><a class='post-link' href="{{ site.baseurl }}/telegraph-systems-on-networks-and-port-hamiltonians-ii-network-realizability">Telegraph systems on networks and port-Hamiltonians. Ⅱ. Network realizability</a></h3></li>

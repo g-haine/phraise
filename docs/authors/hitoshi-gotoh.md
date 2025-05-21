@@ -5,6 +5,8 @@ permalink: /authors/hitoshi-gotoh
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Hitoshi Gotoh.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Abbas Khayyer, Hitoshi Gotoh, Yuma Shimizu, Takafumi Gotoh</span><h3><a class='post-link' href="{{ site.baseurl }}/an-improved-riemann-sph-hamiltonian-sph-coupled-solver-for-hydroelastic-fluid-structure-interactions">An improved Riemann SPH-Hamiltonian SPH coupled solver for hydroelastic fluid-structure interactions</a></h3></li>
 <li><span class='post-meta'>2022 -- Abbas Khayyer, Yuma Shimizu, Hitoshi Gotoh, Shunsuke Hattori</span><h3><a class='post-link' href="{{ site.baseurl }}/a-3d-sph-based-entirely-lagrangian-meshfree-hydroelastic-fsi-solver-for-anisotropic-composite-structures">A 3D SPH-based entirely Lagrangian meshfree hydroelastic FSI solver for anisotropic composite structures</a></h3></li>

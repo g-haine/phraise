@@ -5,6 +5,8 @@ permalink: /authors/claudio-melchiorri
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Claudio Melchiorri, C. Melchiorri.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2018 -- Federico Califano, Alessandro Macchelli, Claudio Melchiorri</span><h3><a class='post-link' href="{{ site.baseurl }}/analysis-of-modified-repetitive-control-schemes-the-port-hamiltonian-approach">Analysis of Modified Repetitive Control Schemes: the Port-Hamiltonian Approach</a></h3></li>
 <li><span class='post-meta'>2018 -- Federico Califano, Michelangelo Bin, Alessandro Macchelli, Claudio Melchiorri</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-analysis-of-nonlinear-repetitive-control-schemes">Stability Analysis of Nonlinear Repetitive Control Schemes</a></h3></li>

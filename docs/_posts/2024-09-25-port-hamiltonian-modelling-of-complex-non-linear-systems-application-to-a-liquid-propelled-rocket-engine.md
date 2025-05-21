@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[J. Gibart](authors/j-gibart), [H. Piet-Lahanier](authors/h-piet-lahanier), [F. Farago](authors/f-farago)
+[J. Gibart](authors/jules-gibart), [H. Piet-Lahanier](authors/helene-piet-lahanier), [F. Farago](authors/francois-farago)
  
 ## Abstract
 Port-Hamiltonian (PH) systems theory is a well-established framework for modelling the dynamics of non-linear systems. It has been used extensively for complex mechanical systems. Recent developments have extended this representation to multiphysical systems. In this paper, a PH formulation of a Liquid Propelled Rocket Engine model is proposed. Starting from a classical state-space representation, a new model is derived which allows to demonstrate the global passivity feature of the system using the property of passivity inheritance by composition of several PH subsystems. The resulting representation allows to consider passivity-based control perspective for this class of complex thermodynamics system.

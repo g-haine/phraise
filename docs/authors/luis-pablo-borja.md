@@ -5,6 +5,8 @@ permalink: /authors/luis-pablo-borja
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Luis Pablo Borja, Pablo Borja, P. Borja.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Mattia Mattioni, Pablo Borja</span><h3><a class='post-link' href="{{ site.baseurl }}/digital-passivity-based-control-of-underactuated-mechanical-systems">Digital passivity-based control of underactuated mechanical systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Najmeh Javanmardi, Pablo Borja, Mohammad Javad Yazdanpanah, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-approaches-for-weakly-coupled-electromechanical-systems">Energy-based control approaches for weakly coupled electromechanical systems</a></h3></li>

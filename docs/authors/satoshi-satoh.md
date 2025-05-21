@@ -5,6 +5,8 @@ permalink: /authors/satoshi-satoh
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Satoshi Satoh, Satoshi SATOH, S. Satoh.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Satoshi Satoh, Kenji Fujimoto</span><h3><a class='post-link' href="{{ site.baseurl }}/stochastic-stabilization-based-on-kinetic-potential-energy-shaping-for-stochastic-mechanical-port-hamiltonian-systems">Stochastic stabilization based on kinetic-potential energy shaping for stochastic mechanical port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2021 -- Taisei NISHISHITA, Satoshi SATOH, Katsuhiko YAMADA</span><h3><a class='post-link' href="{{ site.baseurl }}/stochastic-bounded-stability-in-the-three-body-problem-with-probabilistic-uncertainty-using-port-hamiltonian-representation">Stochastic Bounded Stability in the Three-Body Problem with Probabilistic Uncertainty Using Port-Hamiltonian Representation</a></h3></li>

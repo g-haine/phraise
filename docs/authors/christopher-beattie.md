@@ -5,6 +5,8 @@ permalink: /authors/christopher-beattie
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Christopher Beattie, C. Beattie, Christopher A. Beattie, C.A. Beattie.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Christopher Beattie, Serkan Gugercin, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-interpolatory-model-reduction-for-port-hamiltonian-differential-algebraic-systems">Structure-Preserving Interpolatory Model Reduction for Port-Hamiltonian Differential-Algebraic Systems</a></h3></li>
 <li><span class='post-meta'>2019 -- Christopher A. Beattie, Volker Mehrmann, Paul Van Dooren</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-port-hamiltonian-representations-of-passive-systems">Robust port-Hamiltonian representations of passive systems</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/herbert-egger
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Herbert Egger, H. Egger, H Egger.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Herbert Egger, Marvin Fritz</span><h3><a class='post-link' href="{{ site.baseurl }}/well-posedness-long-time-behavior-and-discretization-of-some-models-of-nonlinear-acoustics-in-velocity-enthalpy-formulation">Well‐Posedness, Long‐Time Behavior, and Discretization of Some Models of Nonlinear Acoustics in Velocity–Enthalpy Formulation</a></h3></li>
 <li><span class='post-meta'>2024 -- Tobias Thoma, Paul Kotyczka, Herbert Egger</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-velocity-stress-formulation-for-geometrically-nonlinear-elastodynamics-and-its-structure-preserving-discretization">On the velocity-stress formulation for geometrically nonlinear elastodynamics and its structure-preserving discretization</a></h3></li>

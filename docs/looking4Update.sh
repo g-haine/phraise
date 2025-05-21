@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ce script cherche :
-#   * les nouveaux dois de crossref qui comportent "port-Hamiltonian" dans le titre ou l'abstract
+#   * les nouveaux dois de openalex vérifiés dans crossref comportant "port-Hamiltonian" quelque part
 #   * les dois pour lesquels il manque des infos (mais qui étaient déjà online) :
 # /!\ Il ne fait PAS la mise à jour /!\
 # Il identifie dans le assets/data/biblio.json les articles (uniquement !) incomplets
@@ -35,33 +35,97 @@ else
     exit 1
 fi
 
-# On commence par une recherche d'update dans crossref
-echo $(date -Iseconds)" Looking for news on CrossRef."
+# On commence par une recherche d'update dans openalex & croisement avec crossref
+echo $(date -Iseconds)" Looking in OpenAlex & verifying with CrossRef..."
+
+# Interroger OpenAlex
+TYPES_AUTORISES=("journal-article" "proceeding-article" "book-chapter" "book" "monograph")
 QUERY="port-Hamiltonian"
-TMP_JSON="crossref_results.json"
-TMP_DOIS="temp_dois.txt"
+CURSOR="*"
+MAX_PAGES=20
+PAGE_COUNT=0
+TMP_DOIS_OA="openalex_all_dois.txt"
+TMP_DIR="openalex_pages"
+mkdir -p "$TMP_DIR"
+> "$TMP_DOIS_OA"
 
-# Récupérer les 1000 publications les plus récentes contenant le mot-clé
-curl -s "https://api.crossref.org/works?query=${QUERY}&rows=1000&sort=published&order=desc" -o "$TMP_JSON"
+while [[ "$CURSOR" != "null" && $PAGE_COUNT -lt $MAX_PAGES ]]; do
+    echo $(date -Iseconds)" OpenAlex page $((PAGE_COUNT+1))..."
+    OUT_FILE="$TMP_DIR/page_$PAGE_COUNT.json"
 
-# Extraire les DOI uniques
-jq -r '.message.items[] | select(
-                                  ((.title[0] // "") | test("port-Hamiltonian"; "i")) or
-                                  ((.abstract // "") | test("port-Hamiltonian"; "i"))
-                                ) | .DOI' "$TMP_JSON" | sort -u > "$TMP_DOIS"
+    curl -s "https://api.openalex.org/works?filter=title_and_abstract.search:${QUERY// /+}&per-page=200&sort=publication_date:desc&cursor=$CURSOR" -o "$OUT_FILE"
 
-# Conserver uniquement les DOI non présents dans DOI.txt
-comm -23 "$TMP_DOIS" <(sort "$DOI_SOURCE") >> "$DOI_FILE"
+    # Extraire DOI + type
+    jq -r '.results[] | .doi' "$OUT_FILE" >> "$TMP_DOIS_OA"
 
-# On vérifie que les titres parlent bien de systèmes Hamiltoniens
+    # Obtenir le curseur pour la prochaine page
+    CURSOR=$(jq -r '.meta.next_cursor' "$OUT_FILE")
+    ((PAGE_COUNT++))
+done
+sed -i 's|^https://doi.org/||' "$TMP_DOIS_OA"
+sed -i '/^[[:space:]]*$/d' "$TMP_DOIS_OA"
+sed -i '/null/d' "$TMP_DOIS_OA"
+
+# Les entrées doivent être unique dans le fichier & ne pas être dans DOI.txt
+echo $(date -Iseconds)" Check unicity of DOIs..."
+# S'assurer de ne pas rechercher de doublon
+doi_file=$TMP_DOIS_OA
+uniq_file="DOIuniq.txt"
+tmp_file=$(mktemp)
+cat $doi_file | tr '[:upper:]' '[:lower:]' > $tmp_file
+awk '!seen[$0]++' $tmp_file > $uniq_file
+grep -avf $DOI_SOURCE $uniq_file > $TMP_DOIS_OA
+rm $uniq_file
+
+# Pas de preprint ou de supplementary material
+sed -i '/arxiv/d' $TMP_DOIS_OA
+sed -i '/zenodo/d' $TMP_DOIS_OA
+
+# Filtrer avec CrossRef pour s'assurer du type et que "port-Hamiltonian" est dans titre/abstract
+echo $(date -Iseconds)" CrossRef verification..."
+k=0
 while IFS= read -r doi; do
-    # Échapper les slashs pour rechercher proprement dans le JSON
-    title=$(jq -r --arg doi "$doi" '.message.items[] | select(.DOI == $doi) | .title[0]' "$TMP_JSON")
-    printf "• %s\n  %s\n\n" "$doi: " "$title"
-done < "$DOI_FILE"
+    # Appel CrossRef
+    response=$(fetch_metadata_crossref "$doi")
+    status=$(echo "$response" | jq -r '.status')
+
+    if [[ "$status" == "ok" ]]; then
+        title=$(echo "$response" | jq -r '.message.title // [""] | .[0]' | sed -E 's/<[^>]*mml[^>]*>//g' | sed -E 's/"/\\"/g')
+        abstract=$(echo "$response" | jq -r '.message.abstract // ""')
+        type=$(echo "$response" | jq -r '.message.type // ""')
+        
+        # Complement pour l'abstract
+        if [ -z "$abstract" ]; then
+            complement=$(fetch_abstract_complement $doi)
+            [ -n "$complement" ] && abstract="$complement"
+        fi
+
+        # Vérifie le type
+        if [[ " ${TYPES_AUTORISES[*]} " =~ " ${type} " ]]; then
+            # Vérifie si "port-Hamiltonian" est présent dans le titre ou l'abstract
+            if echo "$title $abstract" | grep -iq "port-Hamiltonian"; then
+                k=$(( $k + 1 ))
+                echo -e "\t DOI $k to fetch on CrossRef: $doi"
+                echo "$doi" >> "$DOI_FILE"
+            elif echo "$title $abstract" | grep -iq "port-controlled Hamiltonian"; then
+                k=$(( $k + 1 ))
+                echo -e "\t DOI $k to fetch on CrossRef: $doi"
+                echo "$doi" >> "$DOI_FILE"
+            else
+                echo -e "\t Forget DOI, not port-Hamiltonian: $doi"
+            fi
+        else
+            echo -e "\t Forget DOI, not the good type: $doi"
+        fi
+    else
+        echo -e "\t Forget DOI, not in CrossRef: $doi"
+    fi
+done < "$TMP_DOIS_OA"
 
 # On va maintenant regarder dans notre database ce qu'il faut mettre à jour
-echo $(date -Iseconds)" Identification of incomplete publications starts."
+echo $(date -Iseconds)" Identification of incomplete publications starts..."
+
+# On prépare une poubelle
 mkdir $TRASH_DIR
 trash="$TRASH_DIR$TRASH_JSON"
 : > $trash
@@ -110,6 +174,7 @@ while IFS= read -r line; do
 done < <(jq -c '.[]' "$trash")
 
 # Boucle sur les DOI qui n'ont PAS d'entrées dans le biblio.json
+echo $(date -Iseconds)" Identification of DOI not in the database..."
 while IFS= read -r doi; do
     if ! jq -e --arg DOI "$doi" '.[] | select(.doi == $DOI)' $BIBLIO_JSON > /dev/null; then
         echo -e "\t DOI still NOT in the database: $doi"
@@ -119,8 +184,8 @@ while IFS= read -r doi; do
 done < $DOI_SOURCE
 
 # Nettoyage
-rm -f "$TMP_JSON" "$TMP_DOIS"
-rm "$bibcurrent"
+rm -f "$TMP_DOIS_OA" "$bibcurrent"
+rm -rf "$TMP_DIR"
 
 # Tout s'est bien passé !
 echo $(date -Iseconds)" Search for update successful!"

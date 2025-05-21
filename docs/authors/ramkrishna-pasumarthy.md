@@ -5,6 +5,8 @@ permalink: /authors/ramkrishna-pasumarthy
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Ramkrishna Pasumarthy, R. Pasumarthy.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Krishna Chaitanya Kosaraju, Ramkrishna Pasumarthy, Dimitri Jeltsema</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-and-boundary-control-of-infinite-dimensional-systems-in-the-brayton-moser-framework">Modeling and boundary control of infinite dimensional systems in the Brayton–Moser framework</a></h3></li>
 <li><span class='post-meta'>2018 -- S Bhuvaneswari, Ramkrishna Pasumarthy, Balaraman Ravindran, Arun D. Mahindrakar</span><h3><a class='post-link' href="{{ site.baseurl }}/tracking-and-stabilization-of-mechanical-systems-using-reinforcement-learning">Tracking and stabilization of mechanical systems using reinforcement learning</a></h3></li>

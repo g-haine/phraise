@@ -5,6 +5,8 @@ permalink: /authors/yigeng-huangfu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Yigeng Huangfu.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Cong Yuan, Jean-Philippe Martin, Serge Pierfederici, Emeric Vuillemin, Matheepot Phattanasak, Yigeng Huangfu</span><h3><a class='post-link' href="{{ site.baseurl }}/large-signal-stabilization-at-system-level-using-port-hamiltonian-system-theory-for-modular-islanded-dc-microgrids">Large Signal Stabilization at System Level Using Port-Hamiltonian System Theory for Modular Islanded DC Microgrids</a></h3></li>
 <li><span class='post-meta'>2021 -- Phatiphat Thounthong, Pongsiri Mungporn, Serge Pierfederici, Damien Guilbert, Noureddine Takorabet, Babak Nahid-Mobarakeh, Yihua Hu, Nicu Bizon, Yigeng Huangfu, Poom Kumam, Piyabut Burikham</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-hamiltonian-energy-control-based-on-lyapunov-function-for-four-phase-parallel-fuel-cell-boost-converter-for-dc-microgrid-applications">Robust Hamiltonian Energy Control Based on Lyapunov Function for Four-Phase Parallel Fuel Cell Boost Converter for DC Microgrid Applications</a></h3></li>

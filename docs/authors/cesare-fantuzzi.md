@@ -5,6 +5,8 @@ permalink: /authors/cesare-fantuzzi
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Cesare Fantuzzi, C. Fantuzzi.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2015 -- C. Secchi, L. Sabattini, C. Fantuzzi</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-based-teleoperation-of-a-multi-robot-system-on-periodic-trajectories">Port-Hamiltonian based teleoperation of a multi-robot system on periodic trajectories</a></h3></li>
 <li><span class='post-meta'>2009 -- Cristian Secchi, Cesare Fantuzzi</span><h3><a class='post-link' href="{{ site.baseurl }}/formation-control-over-delayed-communication-network">Formation Control over Delayed Communication Network</a></h3></li>

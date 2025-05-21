@@ -5,6 +5,8 @@ permalink: /authors/arjan-van-der-schaft
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Arjan J. van der Schaft, A. van der Schaft, A. J. van der Schaft, Arjan van der Schaft, A.J. van der Schaft, Arjan J van der Schaft, Arjan Van der Schaft, A. J. Schaft, A.J. Van der Schaft, A. J. Van Der Schaft, Arjan J. van der Schaft.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-nonlinear-systems">Port-Hamiltonian Nonlinear Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Ningbo Li, Zhiyong Sun, Arjan van der Schaft, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-framework-for-displacement-based-and-rigid-formation-tracking">A port-Hamiltonian framework for displacement-based and rigid formation tracking</a></h3></li>
@@ -22,6 +24,7 @@ permalink: /authors/arjan-van-der-schaft
 <li><span class='post-meta'>2022 -- Arjan van der Schaft, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/linear-port-hamiltonian-dae-systems-revisited0">Linear Port-Hamiltonian DAE Systems Revisited</a></h3></li>
 <li><span class='post-meta'>2022 -- Ningbo Li, Jacquelien Scherpen, Arjan Van der Schaft, Zhiyong Sun</span><h3><a class='post-link' href="{{ site.baseurl }}/a-passivity-approach-in-port-hamiltonian-form-for-formation-control-and-velocity-tracking">A passivity approach in port-Hamiltonian form for formation control and velocity tracking</a></h3></li>
 <li><span class='post-meta'>2022 -- Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/virtual-contractivity-based-control-of-fully-actuated-mechanical-systems-in-the-port-hamiltonian-framework">Virtual contractivity-based control of fully-actuated mechanical systems in the port-Hamiltonian framework</a></h3></li>
+<li><span class='post-meta'>2021 -- Arjan van der Schaft, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/differential-operator-dirac-structures">Differential operator Dirac structures</a></h3></li>
 <li><span class='post-meta'>2021 -- Arjan van der Schaft, Dimitri Jeltsema</span><h3><a class='post-link' href="{{ site.baseurl }}/on-energy-conversion-in-port-hamiltonian-systems">On Energy Conversion in Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2021 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems-from-modeling-to-control0">Port-Hamiltonian Systems: From Modeling to Control</a></h3></li>
 <li><span class='post-meta'>2021 -- Chengshuai Wu, Arjan van der Schaft, Jian Chen</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-port-hamiltonian-systems-based-on-shifted-passivity-via-feedback">Stabilization of Port-Hamiltonian Systems Based on Shifted Passivity via Feedback</a></h3></li>

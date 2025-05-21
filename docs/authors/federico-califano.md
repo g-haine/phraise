@@ -5,6 +5,8 @@ permalink: /authors/federico-califano
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Federico Califano, F. Califano.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- Federico Califano</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-preserving-safety-critical-control-using-control-barrier-functions">Passivity-Preserving Safety-Critical Control Using Control Barrier Functions</a></h3></li>
 <li><span class='post-meta'>2022 -- F. Califano, R. Rashad, S. Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/a-differential-geometric-description-of-thermodynamics-in-continuum-mechanics-with-application-to-fourier-navier-stokes-fluids">A differential geometric description of thermodynamics in continuum mechanics with application to Fourier–Navier–Stokes fluids</a></h3></li>

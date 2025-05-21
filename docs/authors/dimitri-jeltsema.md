@@ -5,6 +5,8 @@ permalink: /authors/dimitri-jeltsema
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Dimitri Jeltsema, D. Jeltsema.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Arjan van der Schaft, Dimitri Jeltsema</span><h3><a class='post-link' href="{{ site.baseurl }}/limits-to-energy-conversion">Limits to Energy Conversion</a></h3></li>
 <li><span class='post-meta'>2021 -- Arjan van der Schaft, Dimitri Jeltsema</span><h3><a class='post-link' href="{{ site.baseurl }}/on-energy-conversion-in-port-hamiltonian-systems">On Energy Conversion in Port-Hamiltonian Systems</a></h3></li>

@@ -5,6 +5,8 @@ permalink: /authors/florian-dorfler
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Florian Dörfler, Florian Dorfler.</p>
+<hr />
 <ul class="post-list">
 <li><span class='post-meta'>2018 -- Dominic Groß, Catalin Arghir, Florian Dörfler</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-steady-state-behavior-of-a-nonlinear-power-system-model">On the steady-state behavior of a nonlinear power system model</a></h3></li>
 <li><span class='post-meta'>2018 -- Florian Dorfler, John W. Simpson-Porco, Francesco Bullo</span><h3><a class='post-link' href="{{ site.baseurl }}/electrical-networks-and-algebraic-graph-theory-models-properties-and-applications">Electrical Networks and Algebraic Graph Theory: Models, Properties, and Applications</a></h3></li>
