@@ -89,6 +89,6 @@ We establish well-posedness results for non-autonomous semilinear input-output s
 - Slemrod, M. Feedback stabilization of a linear control system in Hilbert space with ana priori bounded control. Mathematics of Control, Signals, and Systems vol. 2 265–285 (1989) -- [10.1007/bf02551387](https://doi.org/10.1007/bf02551387)
 - Tucsnak, M. & Weiss, G. Observation and Control for Operator Semigroups. (Birkhäuser Basel, 2009). doi:10.1007/978-3-7643-8994-9 -- [10.1007/978-3-7643-8994-9](https://doi.org/10.1007/978-3-7643-8994-9)
 - Tucsnak, M. & Weiss, G. Well-posed systems—The LTI case and beyond. Automatica vol. 50 1757–1779 (2014) -- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 

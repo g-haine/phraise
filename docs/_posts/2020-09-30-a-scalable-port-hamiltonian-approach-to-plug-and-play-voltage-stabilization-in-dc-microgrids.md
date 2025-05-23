@@ -46,7 +46,7 @@ One of the major challenges of voltage stabilization in converter-based DC micro
 - Nahata, P., Soloperto, R., Tucci, M., Martinelli, A. & Ferrari-Trecate, G. A passivity-based approach to voltage stabilization in DC microgrids with ZIP loads. Automatica vol. 113 108770 (2020) -- [10.1016/j.automatica.2019.108770](https://doi.org/10.1016/j.automatica.2019.108770)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - khalil, Nonlinear Systems (2002)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - machowski, Power System Dynamics Stability and Control (2008)
 - kundur, Power System Stability and Control (1994)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)

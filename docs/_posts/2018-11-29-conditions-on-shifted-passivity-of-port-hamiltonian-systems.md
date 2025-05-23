@@ -52,12 +52,12 @@ Passivity; Shifted passivity; Incremental passivity; Port-Hamiltonian systems; S
 [Download the bib file]({{ site.baseurl }}/assets/bib/conditions-on-shifted-passivity-of-port-hamiltonian-systems.bib)
  
 ## References
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Ortega, (2013)
 - Bai, (2011)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 - Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Bregman, L. M. The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming. USSR Computational Mathematics and Mathematical Physics vol. 7 200–217 (1967) -- [10.1016/0041-5553(67)90040-7](https://doi.org/10.1016/0041-5553(67)90040-7)
 - Alonso, A. A. & Ydstie, B. E. Stabilization of distributed systems using irreversible thermodynamics. Automatica vol. 37 1739–1755 (2001) -- [10.1016/s0005-1098(01)00140-6](https://doi.org/10.1016/s0005-1098(01)00140-6)
 - Keenan, J. H. Availability and irreversibility in thermodynamics. British Journal of Applied Physics vol. 2 183–192 (1951) -- [10.1088/0508-3443/2/7/302](https://doi.org/10.1088/0508-3443/2/7/302)

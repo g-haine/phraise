@@ -57,7 +57,7 @@ Time-varying PCH system; Geometric structure; Dissipative Hamiltonian realizatio
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Libermann, (1986)
 - Lu, (1993)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Nijmeijer, (1990)
 - Olver, (1993)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

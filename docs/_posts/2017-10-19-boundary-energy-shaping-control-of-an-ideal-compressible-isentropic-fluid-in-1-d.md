@@ -66,7 +66,7 @@ distributed port-Hamiltonian systems; ideal compressible isentropic fluid; bound
 - Macchelli, (2015)
 - Macchelli, (2016)
 - [Macchelli, A., Le Gorrec, Y., Ramirez, H. & Zwart, H. On the Synthesis of Boundary Control Laws for Distributed Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 62 1700–1713 (2017)](on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems) -- [10.1109/tac.2016.2595263](https://doi.org/10.1109/tac.2016.2595263)
-- Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Infinite-Dimensional Port-Hamiltonian Systems. Modeling and Control of Complex Physical Systems 211–271 (2009) doi:10.1007/978-3-642-03196-0_4 -- [10.1007/978-3-642-03196-0_4](https://doi.org/10.1007/978-3-642-03196-0_4)
+- [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Infinite-Dimensional Port-Hamiltonian Systems. Modeling and Control of Complex Physical Systems 211–271 (2009) doi:10.1007/978-3-642-03196-0_4](infinite-dimensional-port-hamiltonian-systems) -- [10.1007/978-3-642-03196-0_4](https://doi.org/10.1007/978-3-642-03196-0_4)
 - [Macchelli, A. & Melchiorri, C. Control by interconnection of mixed port Hamiltonian systems. IEEE Transactions on Automatic Control vol. 50 1839–1844 (2005)](control-by-interconnection-of-mixed-port-hamiltonian-systems) -- [10.1109/tac.2005.858656](https://doi.org/10.1109/tac.2005.858656)
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
 - Maschke, (1992)

@@ -57,7 +57,7 @@ Nonlinear control; Passivity; Stabilization of nonlinear systems; Hamiltonian sy
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Khalil, (1996)
 - Marsden, (1994)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Nijmeijer, (1990)
 - Ortega, R. & Spong, M. W. Adaptive motion control of rigid robots: A tutorial. Automatica vol. 25 877–888 (1989) -- [10.1016/0005-1098(89)90054-x](https://doi.org/10.1016/0005-1098(89)90054-x)
 - Ortega, R. & Spong, M. W. Stabilization of Underactuated Mechanical Systems Via Interconnection and Damping Assignment. IFAC Proceedings Volumes vol. 33 69–74 (2000) -- [10.1016/s1474-6670(17)35549-0](https://doi.org/10.1016/s1474-6670(17)35549-0)

@@ -94,6 +94,6 @@ Actuator saturation; \\( H^\infty \\)-control; multiple Lyapunov functions; port
 - Zhang, X. & Su, C. Stability Analysis and Antiwindup Design of Switched Linear Systems with Actuator Saturation. Int. J. Control Autom. Syst. 16, 1247–1253 (2018) -- [10.1007/s12555-017-0387-5](https://doi.org/10.1007/s12555-017-0387-5)
 - Wang, J. & Zhao, J. Stabilisation of switched positive systems with actuator saturation. IET Control Theory &amp;amp; Appl 10, 717–723 (2016) -- [10.1049/iet-cta.2015.0064](https://doi.org/10.1049/iet-cta.2015.0064)
 - H Li, Asian J. Control (2017)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Wang, M., Zhao, J. & Dimirovski, G. M. H∞control for a class of cascade switched nonlinear systems. Asian Journal of Control 10, 724–729 (2008) -- [10.1002/asjc.73](https://doi.org/10.1002/asjc.73)
 

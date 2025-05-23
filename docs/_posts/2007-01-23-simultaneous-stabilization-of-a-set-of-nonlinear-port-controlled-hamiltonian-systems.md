@@ -66,7 +66,7 @@ PCH System; Simultaneous stabilization; Augmented PCH structure; Zero-state dete
 - HOWITT, G. D. & LUUS, R. Simultaneous stabilization of linear single-input systems by linear state feedback control. International Journal of Control 54, 1015–1030 (1991) -- [10.1080/00207179108934197](https://doi.org/10.1080/00207179108934197)
 - Khalil, (1996)
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM J. Control Optim. 43, 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Miller, D. E. & Tongwen Chen. Simultaneous stabilization with near-optimal H∞ performance. IEEE Trans. Automat. Contr. 47, 1986–1998 (2002) -- [10.1109/tac.2002.805687](https://doi.org/10.1109/tac.2002.805687)
 - Miller, D. E. & Rossi, M. Simultaneous stabilization with near optimal LQR performance. IEEE Trans. Automat. Contr. 46, 1543–1555 (2001) -- [10.1109/9.956050](https://doi.org/10.1109/9.956050)
 - Nijmeijer, (1990)

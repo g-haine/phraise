@@ -47,7 +47,7 @@ In this article, the design of a feedback control law for DC-DC power converters
 - Kawasaki, N., Nomura, H. & Masuhiro, M. A new control law of bilinear DC-DC converters developed by direct application of Lyapunov. IEEE Trans. Power Electron. 10, 318–325 (1995) -- [10.1109/63.387997](https://doi.org/10.1109/63.387997)
 - Powers, W. F. On the order of singular optimal control problems. J Optim Theory Appl 32, 479–489 (1980) -- [10.1007/bf00934035](https://doi.org/10.1007/bf00934035)
 - ingalls, An infinite-time relaxation theorem for differential inclusions. Proceeding of the 2002 American Mathematical Society (2003)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - jeltsema, Port-Hamiltonian Modeling of Systems with Position-Dependent Mass 18th IFAC World Congress (2011)
 - riedinger, A numerical framework for optimal control of switched affine systems with state constraint. 4th IFAC Conference on Analysis and Design of Hybrid Systems (2012)
 - dhali, PWM-based sliding mode controller for Dc-Dc boost converter. International Journal of Engineering Research and Applications (2012)

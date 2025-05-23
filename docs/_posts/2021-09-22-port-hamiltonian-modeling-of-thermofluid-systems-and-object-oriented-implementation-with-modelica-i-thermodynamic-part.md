@@ -65,7 +65,7 @@ In this paper, we present the physical foundations and the development of the th
 - Jou, D. & Lebon, G. Extended Irreversible Thermodynamics. (Springer Netherlands, 2010). doi:10.1007/978-90-481-3074-0 -- [10.1007/978-90-481-3074-0](https://doi.org/10.1007/978-90-481-3074-0)
 - koga, Solution Thermodynamics and its Application to Aqueous Solutions A Differential Approach (2007)
 - Kaufman, A. N. Dissipative hamiltonian systems: A unifying principle. Physics Letters A vol. 100 419–422 (1984) -- [10.1016/0375-9601(84)90634-0](https://doi.org/10.1016/0375-9601(84)90634-0)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - [Van der Schaft, A. & Maschke, B. Geometry of Thermodynamic Processes. Entropy vol. 20 925 (2018)](geometry-of-thermodynamic-processes) -- [10.3390/e20120925](https://doi.org/10.3390/e20120925)
 - zimmer, The Modelica multi-bond graph library. Proc 5th Int Modelica Conf (2006)
 - Wagner, W. & Pruß, A. The IAPWS Formulation 1995 for the Thermodynamic Properties of Ordinary Water Substance for General and Scientific Use. Journal of Physical and Chemical Reference Data vol. 31 387–535 (2002) -- [10.1063/1.1461829](https://doi.org/10.1063/1.1461829)

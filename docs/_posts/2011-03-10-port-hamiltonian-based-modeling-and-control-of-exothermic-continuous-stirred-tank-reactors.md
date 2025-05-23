@@ -66,7 +66,7 @@ Hamiltonian formalism; Lyapunov; Thermodynamics; IDA-PBC control; CSTR
 - Hoang, (2010)
 - Jillson, K. R. & Erik Ydstie, B. Process networks with decentralized inventory and flow control. Journal of Process Control 17, 399–413 (2007) -- [10.1016/j.jprocont.2006.12.006](https://doi.org/10.1016/j.jprocont.2006.12.006)
 - Luyben, (1990)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Ramírez, H., Sbarbaro, D. & Ortega, R. On the control of non-linear processes: An IDA–PBC approach. Journal of Process Control 19, 405–414 (2009)](on-the-control-of-non-linear-processes-an-ida-pbc-approach) -- [10.1016/j.jprocont.2008.06.018](https://doi.org/10.1016/j.jprocont.2008.06.018)
 - Ruszkowski, M., Garcia‐Osorio, V. & Ydstie, B. E. Passivity based control of transport reaction systems. AIChE Journal 51, 3147–3166 (2005) -- [10.1002/aic.10543](https://doi.org/10.1002/aic.10543)

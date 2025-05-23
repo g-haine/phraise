@@ -5,7 +5,7 @@ permalink: /authors/arjan-van-der-schaft
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Arjan J. van der Schaft, A. van der Schaft, A. J. van der Schaft, Arjan van der Schaft, A.J. van der Schaft, Arjan J van der Schaft, Arjan Van der Schaft, A. J. Schaft, A.J. Van der Schaft, A. J. Van Der Schaft, Arjan J. van der Schaft.</p>
+<p id='info-authors'>Alternative author names: Arjan J. van der Schaft, A. van der Schaft, A. J. van der Schaft, Arjan van der Schaft, A.J. van der Schaft, Arjan J van der Schaft, Arjan Van der Schaft, A. J. Schaft, A.J. Van der Schaft, A. J. Van Der Schaft, Arjan J. van der Schaft, A.J. Van Der Schaft.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-nonlinear-systems">Port-Hamiltonian Nonlinear Systems</a></h3></li>
@@ -47,6 +47,7 @@ permalink: /authors/arjan-van-der-schaft
 <li><span class='post-meta'>2018 -- Li Wang, Bernhard Maschke, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-non-isothermal-chemical-reaction-networks">Port-Hamiltonian modeling of non-isothermal chemical reaction networks</a></h3></li>
 <li><span class='post-meta'>2018 -- Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/virtual-differential-passivity-based-control-for-tracking-of-flexible-joints-robots">Virtual Differential Passivity based Control for Tracking of Flexible-joints Robots</a></h3></li>
 <li><span class='post-meta'>2017 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/control-of-port-hamiltonian-systems">Control of Port-Hamiltonian Systems</a></h3></li>
+<li><span class='post-meta'>2017 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/l2-gain-and-passivity-techniques-in-nonlinear-control">L2-Gain and Passivity Techniques in Nonlinear Control</a></h3></li>
 <li><span class='post-meta'>2017 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-of-physical-network-systems">Modeling of physical network systems</a></h3></li>
 <li><span class='post-meta'>2017 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems">Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2017 -- Bernhard Maschke, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/about-the-definition-of-port-variables-for-contact-hamiltonian-systems">About the Definition of Port Variables for Contact Hamiltonian Systems</a></h3></li>
@@ -147,6 +148,7 @@ permalink: /authors/arjan-van-der-schaft
 <li><span class='post-meta'>2002 -- S. Stramigioli, A. van der Schaft, B. Maschke, S. Andreotti, C. Melchiorri</span><h3><a class='post-link' href="{{ site.baseurl }}/geometric-scattering-in-tele-manipulation-of-port-controlled-hamiltonian-systems">Geometric scattering in tele-manipulation of port controlled Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2002 -- Stephen Prajna, Arjan van der Schaft, Gjerrit Meinsma</span><h3><a class='post-link' href="{{ site.baseurl }}/an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems">An LMI approach to stabilization of linear port-controlled Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2000 -- Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/hamiltonian-systems-as-passive-systems">Hamiltonian Systems as Passive Systems</a></h3></li>
+<li><span class='post-meta'>2000 -- B. Maschke, R. Ortega, A.J. Van Der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation">Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation</a></h3></li>
 <li><span class='post-meta'>2000 -- B.M.J. Maschke, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-controlled-hamiltonian-representation-of-distributed-parameter-systems">Port Controlled Hamiltonian Representation of Distributed Parameter Systems</a></h3></li>
 <li><span class='post-meta'>2000 -- G. Blankenstein, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/symmetries-and-conservation-laws-for-implicit-port-controlled-hamiltonian-systems">Symmetries and Conservation Laws for Implicit Port-Controlled Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>1999 -- Romeo Ortega, Arjan J. van der Schaft, Bernhard M. Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing">Stabilization of port-controlled Hamiltonian systems via energy balancing</a></h3></li>

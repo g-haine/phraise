@@ -53,7 +53,7 @@ Port-Hamiltonian systems; Constant inputs; Integral action; Compare principle; A
 [Download the bib file]({{ site.baseurl }}/assets/bib/asymptotic-stability-of-port-hamiltonian-systems-with-constant-inputs.bib)
  
 ## References
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - Aranovskiy, S., Ortega, R. & Cisneros, R. A robust PI passivity-based control of nonlinear systems and its application to temperature regulation. International Journal of Robust and Nonlinear Control vol. 26 2216–2231 (2015) -- [10.1002/rnc.3404](https://doi.org/10.1002/rnc.3404)

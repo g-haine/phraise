@@ -60,7 +60,7 @@ Nonlinear control systems; Differential geometric methods; Mathematical systems 
 - Giachetta, (1997)
 - Gotay, M. J. A multisymplectic framework for classical field theory and the calculus of variations II: space + time decomposition. Differential Geometry and its Applications vol. 1 375–390 (1991) -- [10.1016/0926-2245(91)90014-z](https://doi.org/10.1016/0926-2245(91)90014-z)
 - Kanatchikov, I. V. Canonical structure of classical field theory in the polymomentum phase space. Reports on Mathematical Physics vol. 41 49–90 (1998) -- [10.1016/s0034-4877(98)80182-1](https://doi.org/10.1016/s0034-4877(98)80182-1)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Nijmeijer, (1990)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

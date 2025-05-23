@@ -48,7 +48,7 @@ We present a distributed and price-based control approach for frequency regulati
 - [Stegink, T., De Persis, C. & van der Schaft, A. A Unifying Energy-Based Approach to Stability of Power Grids With Market Dynamics. IEEE Trans. Automat. Contr. 62, 2612–2622 (2017)](a-unifying-energy-based-approach-to-stability-of-power-grids-with-market-dynamics) -- [10.1109/tac.2016.2613901](https://doi.org/10.1109/tac.2016.2613901)
 - machowski, Power System Dynamics Stability and Control (2012)
 - beattie, Port-Hamiltonian descriptor systems (2017)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Jokic, A., Lazar, M. & van den Bosch, P. On Constrained Steady-State Regulation: Dynamic KKT Controllers. IEEE Trans. Automat. Contr. 54, 2250–2254 (2009) -- [10.1109/tac.2009.2026856](https://doi.org/10.1109/tac.2009.2026856)
 - [Stegink, T. W., Persis, C. D. & van der Schaft, A. J. Port-Hamiltonian Formulation of the Gradient Method Applied to Smart Grids. IFAC-PapersOnLine 48, 13–18 (2015)](port-hamiltonian-formulation-of-the-gradient-method-applied-to-smart-grids) -- [10.1016/j.ifacol.2015.10.207](https://doi.org/10.1016/j.ifacol.2015.10.207)
 - colombino, Online optimization as a feedback controller Stability and tracking (2018)

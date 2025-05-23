@@ -135,7 +135,7 @@ echo "<h3>There are ${#authors[@]} authors referenced.</h3>" >> "$AUTHORS_DIR/in
 
 echo "<p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>" >> "$AUTHORS_DIR/index.md"
 
-echo "<p>You may want to look at [the array managing name variations]({{ site.baseurl }}/assets/data/author_mappings.json) (a JSON file) for verification/correction.</p>"
+echo "<p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>" >> "$AUTHORS_DIR/index.md"
 
 echo "<hr />" >> "$AUTHORS_DIR/index.md"
 

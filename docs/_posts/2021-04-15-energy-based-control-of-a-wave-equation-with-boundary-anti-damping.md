@@ -68,6 +68,6 @@ distributed parameter systems; port-Hamiltonian systems; unstable wave equation;
 - Ortega, Putting energy back in control. (2001)
 - Rodriguez, On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. In Decision and Control (CDC 2001). Proceedings of the 40th IEEE Conference on (2001)
 - Smyshlyaev, A. & Krstic, M. Boundary control of an anti-stable wave equation with anti-damping on the uncontrolled boundary. Systems &amp; Control Letters vol. 58 617–623 (2009) -- [10.1016/j.sysconle.2009.04.005](https://doi.org/10.1016/j.sysconle.2009.04.005)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

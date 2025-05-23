@@ -55,5 +55,5 @@ Port-Hamiltonian systems with two external ports are studied, together with the 
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - fermi, Thermodynamics (1937)
 - [Duindam, V. & Stramigioli, S. Port-Based Asymptotic Curve Tracking for Mechanical Systems. European Journal of Control vol. 10 411–420 (2004)](port-based-asymptotic-curve-tracking-for-mechanical-systems) -- [10.3166/ejc.10.411-420](https://doi.org/10.3166/ejc.10.411-420)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 

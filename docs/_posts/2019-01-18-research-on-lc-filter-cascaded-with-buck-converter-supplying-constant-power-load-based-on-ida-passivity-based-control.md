@@ -63,5 +63,5 @@ Nowadays distribution power systems are used in different applications such as a
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control 10, 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - Hou, R., Song, H., Nguyen, T.-T., Qu, Y. & Kim, H.-M. Robustness Improvement of Superconducting Magnetic Energy Storage System in Microgrids Using an Energy Shaping Passivity-Based Control Strategy. Energies 10, 671 (2017) -- [10.3390/en10050671](https://doi.org/10.3390/en10050671)
 - gil-gonzalez, IDA-Passivity-Based Control for Superconducting Magnetic Energy Storage with PWM-CSC. IEEE Green Technologies Conference (2017)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 

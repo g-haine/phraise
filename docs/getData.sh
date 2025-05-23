@@ -20,7 +20,7 @@ echo $(date -Iseconds)" Check unicity of DOIs..."
 tmp_file=$(mktemp)
 cat $doi_file | tr '[:upper:]' '[:lower:]' > $tmp_file
 awk '!seen[$0]++' $tmp_file > $input_file
-grep -avf "DOI.txt" $input_file > $doi_file
+grep -vFxf DOI.txt "$input_file" > "$doi_file"
 input_file=$doi_file
 rm "DOIuniq.txt"
 

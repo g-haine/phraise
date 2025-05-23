@@ -48,7 +48,7 @@ This paper proposes a chemical Port-Hamiltonian formulation of a well-mixed CSTR
 - Oster, G. F. & Perelson, A. S. Chemical reaction dynamics. Arch. Rational Mech. Anal. 55, 230–274 (1974) -- [10.1007/bf00281751](https://doi.org/10.1007/bf00281751)
 - ortega, Passivity-based control of euler-lagrange systems. Mechanical Electrical and Electromechanical Applications (1998)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Ortega, R. & Spong, M. W. Adaptive motion control of rigid robots: A tutorial. Automatica 25, 877–888 (1989) -- [10.1016/0005-1098(89)90054-x](https://doi.org/10.1016/0005-1098(89)90054-x)
 - Perelson, A. S. & Oster, G. F. Chemical reaction dynamics part II: Reaction networks. Arch. Rational Mech. Anal. 57, 31–98 (1974) -- [10.1007/bf00287096](https://doi.org/10.1007/bf00287096)
 - Ould-Bouamama, B., El Harabi, R., Abdelkrim, M. N. & Ben Gayed, M. K. Bond graphs for the diagnosis of chemical processes. Computers &amp; Chemical Engineering 36, 301–324 (2012) -- [10.1016/j.compchemeng.2011.07.008](https://doi.org/10.1016/j.compchemeng.2011.07.008)

@@ -53,5 +53,5 @@ We present a procedure for the parametric order reduction of explicit port-Hamil
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - Panzer, H., Mohring, J., Eid, R. & Lohmann, B. Parametric Model Order Reduction by Matrix Interpolation. auto vol. 58 475–484 (2010) -- [10.1524/auto.2010.0863](https://doi.org/10.1524/auto.2010.0863)
 - Rostyslav Valentynovych Polyuga, Model reduction of port-Hamiltonian systems, Ph.D. thesis, 2010.
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 

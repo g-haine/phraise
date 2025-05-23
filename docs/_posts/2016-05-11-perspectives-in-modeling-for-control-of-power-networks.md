@@ -64,7 +64,7 @@ Synchronous generator; Port-Hamiltonian system; Stability; Shifted passivity; Sw
 - Irving, (2004)
 - Kundur, (1993)
 - Machowski, (2008)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Natarajan, Almost global asymptotic stability of a constant field current synchronous machine connected to an infinite bus. (2014)
 - Natarajan, A method for proving the global stability of a synchronous generator connected to an infinite bus. (2014)
 - Pai, (1989)

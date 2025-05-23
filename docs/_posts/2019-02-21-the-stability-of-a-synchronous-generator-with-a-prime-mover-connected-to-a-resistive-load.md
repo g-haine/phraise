@@ -45,7 +45,7 @@ We present the stability analysis of a system which contains a synchronous gener
 - grainer, Power System Analysis (1994)
 - kimbark, Power System Stability (1956)
 - kundur, Power System Stability and Control (2004)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Natarajan, V. & Weiss, G. Almost global asymptotic stability of a constant field current synchronous machine connected to an infinite bus. 53rd IEEE Conference on Decision and Control 3272–3279 (2014) doi:10.1109/cdc.2014.7039895 -- [10.1109/cdc.2014.7039895](https://doi.org/10.1109/cdc.2014.7039895)
 - Natarajan, V. & Weiss, G. Almost global asymptotic stability of a grid-connected synchronous generator. Math. Control Signals Syst. 30, (2018) -- [10.1007/s00498-018-0216-2](https://doi.org/10.1007/s00498-018-0216-2)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)

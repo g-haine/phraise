@@ -56,7 +56,7 @@ Power system; Synchronous generator; Nonlinear models; Forced port-Hamiltonian s
 ## References
 - Kundur, (1993)
 - (2009)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - van der Schaft, A. Characterization and partial synthesis of the behavior of resistive circuits at their terminals. Systems &amp; Control Letters 59, 423–428 (2010) -- [10.1016/j.sysconle.2010.05.005](https://doi.org/10.1016/j.sysconle.2010.05.005)
 - Giusto, (2010)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)

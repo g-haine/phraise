@@ -72,6 +72,6 @@ It is well documented that shaping the energy of finite-dimensional port-Hamilto
 - Rodríguez, On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. IEEE (2001)
 - [Schoberl, M. & Siuka, A. On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems. IEEE Transactions on Automatic Control vol. 58 1823–1828 (2013)](on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems) -- [10.1109/tac.2012.2235739](https://doi.org/10.1109/tac.2012.2235739)
 - Swaters, Introduction to Hamiltonian Fluid Dynamics and Stability Theory (1999)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

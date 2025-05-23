@@ -63,7 +63,7 @@ In this work we propose a virtual contraction-based control (v-CBC) design appro
 - van der Schaft, A. J. On differential passivity. IFAC Proceedings Volumes vol. 46 21–25 (2013) -- [10.3182/20130904-3-fr-2041.00008](https://doi.org/10.3182/20130904-3-fr-2041.00008)
 - Sørensen, A. J. & Egeland, O. Design of ride control system for surface effect ships using dissipative control. Automatica vol. 31 183–199 (1995) -- [10.1016/0005-1098(94)00090-6](https://doi.org/10.1016/0005-1098(94)00090-6)
 - Wang, W. & Slotine, J.-J. E. On partial contraction analysis for coupled nonlinear oscillators. Biological Cybernetics vol. 92 38–53 (2004) -- [10.1007/s00422-004-0527-x](https://doi.org/10.1007/s00422-004-0527-x)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - A. Woolsey, C. & E. Leonard, N. Stabilizing underwater vehicle motion using internal rotors. Automatica vol. 38 2053–2062 (2002) -- [10.1016/s0005-1098(02)00136-x](https://doi.org/10.1016/s0005-1098(02)00136-x)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 

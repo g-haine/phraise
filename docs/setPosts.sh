@@ -240,7 +240,7 @@ jq -c '.[]' "$BIBLIO_JSON" | while IFS= read -r entry; do
     [ $( jobs | wc -l ) -ge 16 ] && wait
 done
 
-sleep 5
+sleep 15
 
 # Enfin, on supprime les fichiers .bib orphelins s'il en existe
 POST_DIR="_posts"

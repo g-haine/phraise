@@ -75,7 +75,7 @@ uniq_file=$(mktemp)
 tmp_file=$(mktemp)
 cat $doi_file | tr '[:upper:]' '[:lower:]' > $tmp_file
 awk '!seen[$0]++' $tmp_file > $uniq_file
-grep -avf "$DOI_SOURCE" "$uniq_file" | grep -avf "$DOI_BAD" > "$TMP_DOIS_OA"
+grep -vFxf "$DOI_SOURCE" "$uniq_file" | grep -vFxf "$DOI_BAD" > "$TMP_DOIS_OA"
 
 # Pas de preprint ou de supplementary material
 sed -i '/arxiv/d' $TMP_DOIS_OA

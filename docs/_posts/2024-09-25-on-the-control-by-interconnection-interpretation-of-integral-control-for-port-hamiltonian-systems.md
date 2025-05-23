@@ -68,5 +68,5 @@ Disturbance rejection; output regulation; passivity-based control; bond graph
 - Rugh, W. J. Design of nonlinear PID controllers. AIChE Journal vol. 33 1738–1742 (1987) -- [10.1002/aic.690331019](https://doi.org/10.1002/aic.690331019)
 - Åström, (2006)
 - Su, Y. X., Sun, D. & Duan, B. Y. Design of an enhanced nonlinear PID controller. Mechatronics vol. 15 1005–1024 (2005) -- [10.1016/j.mechatronics.2005.03.003](https://doi.org/10.1016/j.mechatronics.2005.03.003)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 

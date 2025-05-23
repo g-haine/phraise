@@ -40,7 +40,7 @@ category: articles
 [Download the bib file]({{ site.baseurl }}/assets/bib/tuning-rules-for-passivity-based-integral-control-for-a-class-of-mechanical-systems.bib)
  
 ## References
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - Brogliato, B., Maschke, B., Lozano, R. & Egeland, O. Dissipative Systems Analysis and Control. Communications and Control Engineering (Springer London, 2007). doi:10.1007/978-1-84628-517-2 -- [10.1007/978-1-84628-517-2](https://doi.org/10.1007/978-1-84628-517-2)
 - [Borja, P., Ortega, R. & Scherpen, J. M. A. New Results on Stabilization of Port-Hamiltonian Systems via PID Passivity-Based Control. IEEE Transactions on Automatic Control vol. 66 625–636 (2021)](new-results-on-stabilization-of-port-hamiltonian-systems-via-pid-passivity-based-control) -- [10.1109/tac.2020.2986731](https://doi.org/10.1109/tac.2020.2986731)

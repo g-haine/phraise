@@ -70,7 +70,7 @@ This work makes use of a passivity-based approach (PBA) and tools from Lyapunov 
 - Khalil, (2002)
 - Kravaris, C., Hahn, J. & Chu, Y. Advances and selected recent developments in state and parameter estimation. Computers &amp; Chemical Engineering vol. 51 111–123 (2013) -- [10.1016/j.compchemeng.2012.06.001](https://doi.org/10.1016/j.compchemeng.2012.06.001)
 - Luyben, (1990)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Moreno, J. A. & Dochain, D. Global observability and detectability analysis of uncertain reaction systems and observer design. International Journal of Control vol. 81 1062–1070 (2008) -- [10.1080/00207170701636534](https://doi.org/10.1080/00207170701636534)
 - P. Niemiec, M. & Kravaris, C. Nonlinear model-state feedback control for nonminimum-phase processes. Automatica vol. 39 1295–1302 (2003) -- [10.1016/s0005-1098(03)00103-1](https://doi.org/10.1016/s0005-1098(03)00103-1)
 - Ortega, R., Jeltsema, D. & Scherpen, J. M. A. Power shaping: A new paradigm for stabilization of nonlinear RLC circuits. IEEE Transactions on Automatic Control vol. 48 1762–1767 (2003) -- [10.1109/tac.2003.817918](https://doi.org/10.1109/tac.2003.817918)

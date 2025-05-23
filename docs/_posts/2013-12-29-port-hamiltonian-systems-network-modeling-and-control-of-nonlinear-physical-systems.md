@@ -62,7 +62,7 @@ Hamiltonian System; Multibody System; Kinematic Constraint; Dirac Structure; Bon
 - RS Ingarden, Classical Electrodynamics. PWN-Polish Sc. Publ. (1985)
 - Isidori, A. Nonlinear Control Systems. Communications and Control Engineering (Springer London, 1995). doi:10.1007/978-1-84628-615-5 -- [10.1007/978-1-84628-615-5](https://doi.org/10.1007/978-1-84628-615-5)
 - Marsden, J. E. & Ratiu, T. S. Introduction to Mechanics and Symmetry. Texts in Applied Mathematics (Springer New York, 1994). doi:10.1007/978-1-4612-2682-6 -- [10.1007/978-1-4612-2682-6](https://doi.org/10.1007/978-1-4612-2682-6)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - BM Maschke, Proc. ASME Int. Mech. Engg. Congress, volume 55 (1994)
 - Maschke, B. M. & van der Schaft, A. J. Interconnection of systems: the network paradigm. Proceedings of 35th IEEE Conference on Decision and Control vol. 1 207–212 -- [10.1109/cdc.1996.574297](https://doi.org/10.1109/cdc.1996.574297)
 - Maschke, B. M. J. & van der Schaft, A. J. Interconnected mechanical systems, part II: the dynamics of spatial mechanical networks. Modelling and Control of Mechanical Systems 17–30 (1997) doi:10.1142/9781848160873_0002 -- [10.1142/9781848160873_0002](https://doi.org/10.1142/9781848160873_0002)

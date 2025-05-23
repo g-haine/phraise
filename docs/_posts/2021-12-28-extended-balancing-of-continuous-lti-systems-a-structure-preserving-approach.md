@@ -67,7 +67,7 @@ In this article, we treat extended balancing for continuous-time linear time-inv
 - Sandberg, H. An Extension to Balanced Truncation With Application to Structured Model Reduction. IEEE Transactions on Automatic Control vol. 55 1038–1043 (2010) -- [10.1109/tac.2010.2041984](https://doi.org/10.1109/tac.2010.2041984)
 - Scherpen, The Control Handbook: Control System Advanced Methods, Chapter Balanced Realizations, Model Order Reduction, and the Hankel Operator (2011)
 - Scherpen, J. M. A. & Fujimoto, K. Extended balanced truncation for continuous time LTI systems. 2018 European Control Conference (ECC) 2611–2615 (2018) doi:10.23919/ecc.2018.8550152 -- [10.23919/ecc.2018.8550152](https://doi.org/10.23919/ecc.2018.8550152)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Willems, Model reduction by balancing.
 - Zhou, Robust and Optimal Control (1996)
 

@@ -72,6 +72,6 @@ port-Hamiltonian systems; passivity-based control; reinforcement learning
 - Quispel, G. R. W. & Turner, G. S. Discrete gradient methods for solving ODEs numerically while preserving a first integral. Journal of Physics A: Mathematical and General vol. 29 L341–L349 (1996) -- [10.1088/0305-4470/29/13/006](https://doi.org/10.1088/0305-4470/29/13/006)
 - Robbins, H. & Monro, S. A Stochastic Approximation Method. The Annals of Mathematical Statistics vol. 22 400–407 (1951) -- [10.1214/aoms/1177729586](https://doi.org/10.1214/aoms/1177729586)
 - Song, Y., Romero, A., Müller, M., Koltun, V. & Scaramuzza, D. Reaching the limit in autonomous racing: Optimal control versus reinforcement learning. Science Robotics vol. 8 (2023) -- [10.1126/scirobotics.adg1462](https://doi.org/10.1126/scirobotics.adg1462)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Zanella, (2024)
 

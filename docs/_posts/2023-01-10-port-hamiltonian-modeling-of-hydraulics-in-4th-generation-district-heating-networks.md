@@ -78,7 +78,7 @@ In this paper, we use elements of graph theory and port-Hamiltonian systems to d
 - Lamaison, N., Bavière, R., Cheze, D. & Paulus, C. A Multi-Criteria Analysis of Bidirectional Solar District Heating Substation Architecture. Proceedings of SWC2017/SHC2017 1–11 (2017) doi:10.18086/swc.2017.10.02 -- [10.18086/swc.2017.10.02](https://doi.org/10.18086/swc.2017.10.02)
 - Sarbu, I. & Valea, E. Energy Savings Potential for Pumping Water in District  Heating Stations. Sustainability vol. 7 5705–5719 (2015) -- [10.3390/su7055705](https://doi.org/10.3390/su7055705)
 - Aktiengesellschaft, Pump control / system automation. KSB Know-how (2006)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Stræde, Pressure oscillation in district heating installations (1995)
 - Boysen, How to avoid pressure oscillations in district heating systems (2003)
 - Machado, J. E., Cucuzzella, M., Pronk, N. & Scherpen, J. M. A. Adaptive Control for Flow and Volume Regulation in Multi-Producer District Heating Systems. IEEE Control Systems Letters vol. 6 794–799 (2022) -- [10.1109/lcsys.2021.3085702](https://doi.org/10.1109/lcsys.2021.3085702)

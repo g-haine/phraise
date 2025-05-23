@@ -44,7 +44,7 @@ In this paper, we present a model-based frequency controller for microgrids with
 - boldea, Synchronous generators. The electric generators handbook (2006)
 - Jouini, T., Arghir, C. & Dörfler, F. Grid-Friendly Matching of Synchronous Machines by Tapping into the DC Storage. IFAC-PapersOnLine vol. 49 192–197 (2016) -- [10.1016/j.ifacol.2016.10.395](https://doi.org/10.1016/j.ifacol.2016.10.395)
 - beattie, Port-Hamiltonian descriptor systems. ArXiv e-prints (2017)
-- van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5 -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Trip, S., Bürger, M. & De Persis, C. An internal model approach to (optimal) frequency regulation in power grids with time-varying voltages. Automatica vol. 64 240–253 (2016) -- [10.1016/j.automatica.2015.11.021](https://doi.org/10.1016/j.automatica.2015.11.021)
 - jokic, Price-Based Optimal Control of Electrical Power Systems (2007)
 - Jokic, A., Lazar, M. & van den Bosch, P. On Constrained Steady-State Regulation: Dynamic KKT Controllers. IEEE Transactions on Automatic Control vol. 54 2250–2254 (2009) -- [10.1109/tac.2009.2026856](https://doi.org/10.1109/tac.2009.2026856)

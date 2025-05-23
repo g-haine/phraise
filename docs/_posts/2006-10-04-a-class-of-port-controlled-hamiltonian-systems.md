@@ -40,7 +40,7 @@ In this paper, we examine a particular class of port-controlled Hamiltonian syst
 [Download the bib file]({{ site.baseurl }}/assets/bib/a-class-of-port-controlled-hamiltonian-systems.bib)
  
 ## References
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Jayawardhana, B. Tracking and disturbance rejection for passive nonlinear systems. Proceedings of the 44th IEEE Conference on Decision and Control 3333–3338 doi:10.1109/cdc.2005.1582676 -- [10.1109/cdc.2005.1582676](https://doi.org/10.1109/cdc.2005.1582676)
 - dugundji, Topology (1966)
 - showalter, Monotone Operators in Banach Space and Nonlinear Partial Differential Equations (1996)

@@ -61,6 +61,6 @@ This paper investigates the simultaneous stabilization of a collection of nonlin
 - khalil, Nonlinear Systems (1996)
 - Ho-Mock-Qai, B. & Dayawansa, W. P. Simultaneous Stabilization of Linear and Nonlinear Systems by Means of Nonlinear State Feedback. SIAM J. Control Optim. 37, 1701–1725 (1999) -- [10.1137/s0363012997315610](https://doi.org/10.1137/s0363012997315610)
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
+- [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - maschke, Port-controlled Hamiltonian systems: Modeling origins and system theoretic properties. Proc IFAC Symp NOLCOS (1992)
 

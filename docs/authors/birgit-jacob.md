@@ -32,7 +32,9 @@ permalink: /authors/birgit-jacob
 <li><span class='post-meta'>2015 -- Birgit Jacob, Kirsten Morris, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain">C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain</a></h3></li>
 <li><span class='post-meta'>2015 -- Birgit Jacob, Kirsten Morris, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/zero-dynamics-for-waves-on-networks">Zero dynamics for waves on networks</a></h3></li>
 <li><span class='post-meta'>2014 -- Björn Augner, Birgit Jacob</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems">Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2012 -- Birgit Jacob, Hans J. Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/homogeneous-port-hamiltonian-systems">Homogeneous Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2012 -- Birgit Jacob, Hans J. Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/linear-port-hamiltonian-systems-on-infinite-dimensional-spaces">Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces</a></h3></li>
+<li><span class='post-meta'>2012 -- Birgit Jacob, Hans J. Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-of-port-hamiltonian-systems">Stability of Port-Hamiltonian Systems</a></h3></li>
 
 </ul>
 {% include count-posts.html %}
