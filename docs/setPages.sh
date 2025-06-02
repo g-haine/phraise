@@ -78,11 +78,16 @@ while read -r entry; do
     # Lire chaque "Prénom Nom" sans découper sur les espaces
     while IFS= read -d ", " -r author; do
         author=$(echo "$author" | sed 's/^ *//;s/ *$//') # Supprimer espaces inutiles
-        slug="${author_to_slug[$author]}"
-        standardized_author="${slug_to_name[$slug]:-$author}"
-        sanitized_author=$(slugify "$standardized_author")
-        authors["$standardized_author"]+="
-        $year|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$(mathjaxify "$title")</a></h3></li>"
+        if [[ $author != "" ]]; then
+            slug="${author_to_slug[$author]}"
+            if [[ $slug == "" ]]; then
+                continue
+            fi
+            standardized_author="${slug_to_name[$slug]:-$author}"
+            sanitized_author=$(slugify "$standardized_author")
+            authors["$standardized_author"]+="
+            $year|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$(mathjaxify "$title")</a></h3></li>"
+        fi
     done <<< "$author_names, "
 
     years["$year"]+='
@@ -90,7 +95,6 @@ while read -r entry; do
     <span class="post-meta">'$year' -- '$author_names'</span>
     <h3><a class="post-link" href="{{ site.baseurl }}/'$permalink'">'$(mathjaxify "$title")'</a></h3>
   </li>'
-
 done < <(jq -c '.[]' "$BIBLIO_JSON")
 
 # Créer un tableau temporaire pour le tri des auteurs
@@ -147,6 +151,10 @@ echo "<div class='grid'>" >> "$AUTHORS_DIR/index.md"
 for pair in "${sorted_pairs[@]}"; do
     last_name=$(echo "$pair" | cut -f1)  
     author=$(echo "$pair" | cut -f2-)  
+    
+    if [[ $author == "" ]]; then
+        continue
+    fi
     
     # Extraire la première lettre après normalisation
     first_letter=$(echo "$last_name" | cut -c1 | tr '[:lower:]' '[:upper:]')

@@ -23,6 +23,7 @@ BIBLIO_JSON="assets/data/biblio.json"
 # Fichier de sortie des DOI à mettre à jour
 DOI_FILE="newDOI.txt"
 DOI_BAD="badDOI.txt"
+DOI_TO_CHECK="checkDOI.txt"
 
 # La "poubelle" (on supprimera à la main si tout va bien)
 TRASH_DIR="trash/"
@@ -70,6 +71,7 @@ sed -i '/null/d' "$TMP_DOIS_OA"
 # Les entrées doivent être unique dans le fichier & ne pas être dans DOI.txt
 echo $(date -Iseconds)" Check unicity of DOIs..."
 # S'assurer de ne pas rechercher de doublon
+sort -u -o "$DOI_BAD" "$DOI_BAD"
 doi_file=$TMP_DOIS_OA
 uniq_file=$(mktemp)
 tmp_file=$(mktemp)
@@ -103,26 +105,23 @@ while IFS= read -r doi; do
         # Vérifie le type
         if [[ " ${TYPES_AUTORISES[*]} " =~ " ${type} " ]]; then
             # Vérifie si "port-Hamiltonian" est présent dans le titre ou l'abstract
-            if echo "$title $abstract" | grep -iq "port-Hamiltonian"; then
-                k=$(( $k + 1 ))
-                echo -e "\t DOI $k to fetch on CrossRef: $doi"
-                echo "$doi" >> "$DOI_FILE"
-            elif echo "$title $abstract" | grep -iq "port-controlled Hamiltonian"; then
-                k=$(( $k + 1 ))
+            if echo "$title $abstract" | grep -Eiq 'port[- ](controlled )?hamiltonian'; then
+                k=$(( k + 1 ))
                 echo -e "\t DOI $k to fetch on CrossRef: $doi"
                 echo "$doi" >> "$DOI_FILE"
             else
-                echo -e "\t Forget DOI, not port-Hamiltonian: $doi"
-                echo "$doi" >> "$DOI_BAD"
+                echo -e "\t Please check, seems not port-Hamiltonian: $doi"
+                echo "$doi" >> "$DOI_TO_CHECK"
             fi
         else
-            echo -e "\t Forget DOI, not the good type: $doi"
+            echo -e "\t Forget, not the good type: $doi"
             echo "$doi" >> "$DOI_BAD"
         fi
     else
-        echo -e "\t Forget DOI, not in CrossRef: $doi"
+        echo -e "\t Forget, not in CrossRef: $doi"
     fi
 done < "$TMP_DOIS_OA"
+grep -vFxf "$DOI_BAD" "$DOI_TO_CHECK" > check.tmp && mv check.tmp "$DOI_TO_CHECK"
 
 # On va maintenant regarder dans notre database ce qu'il faut mettre à jour
 echo $(date -Iseconds)" Identification of incomplete publications starts..."
@@ -175,17 +174,27 @@ while IFS= read -r line; do
     jq --arg DOI "$doi" '[.[] | select(.doi != $DOI)]' "$BIBLIO_JSON" > tmp_file && mv tmp_file "$BIBLIO_JSON"
 done < <(jq -c '.[]' "$trash")
 
-# Boucle sur les DOI qui n'ont PAS d'entrées dans le biblio.json
+# Cherche les DOI qui n'ont PAS encore d'entrées dans le biblio.json
 echo $(date -Iseconds)" Identification of DOI not in the database..."
+
+# Extraire les DOI du JSON (en minuscules pour plus de robustesse)
+jq -r '.[].doi' "$BIBLIO_JSON" | tr '[:upper:]' '[:lower:]' | sort -u > .dois_in_db.tmp
+
+# Normaliser et trier la source
+tr '[:upper:]' '[:lower:]' < "$DOI_SOURCE" | sort -u > .dois_in_source.tmp
+
+# Comparer : ne garder que ceux qui ne sont PAS dans la base
+comm -23 .dois_in_source.tmp .dois_in_db.tmp > .dois_missing.tmp
+
+# Affichage et ajout dans $DOI_FILE
 while IFS= read -r doi; do
-    if ! jq -e --arg DOI "$doi" '.[] | select(.doi == $DOI)' $BIBLIO_JSON > /dev/null; then
-        echo -e "\t DOI still NOT in the database: $doi"
-        echo "$doi" >> $DOI_FILE
-        sed -i -e "\|$doi|Id" "$DOI_SOURCE"
-    fi
-done < $DOI_SOURCE
+    echo -e "\t DOI still NOT in the database: $doi"
+    echo "$doi" >> "$DOI_FILE"
+    sed -i -e "\|$doi|Id" "$DOI_SOURCE"
+done < .dois_missing.tmp
 
 # Nettoyage
+rm -f .dois_in_*.tmp .dois_missing.tmp
 rm -f "$TMP_DOIS_OA" "$bibcurrent"
 rm -rf "$TMP_DIR"
 

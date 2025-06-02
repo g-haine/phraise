@@ -26,7 +26,7 @@ Model Order Reduction; Beyond Singular Perturbation; Port-Hamiltonian systems; L
 ## Citation
 - **Journal:** European Journal of Control
 - **Year:** 2025
-- **Volume:** 
+- **Volume:** 84
 - **Issue:** 
 - **Pages:** 101237
 - **Publisher:** Elsevier BV
@@ -37,6 +37,7 @@ Model Order Reduction; Beyond Singular Perturbation; Port-Hamiltonian systems; L
 {% raw %}
 @article{Spirito_2025,
   title={{Beyond Singular Perturbation for linear port-Hamiltonian systems}},
+  volume={84},
   ISSN={0947-3580},
   DOI={10.1016/j.ejcon.2025.101237},
   journal={European Journal of Control},
