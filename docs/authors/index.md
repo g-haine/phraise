@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2408 authors referenced.</h3>
+<h3>There are 2411 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -798,6 +798,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/felix-hofmann'>Felix Hofmann</a>
 <a href='{{ site.baseurl }}/authors/soren-hohmann'>Sören Hohmann</a>
 <a href='{{ site.baseurl }}/authors/shinji-hokamoto'>Shinji Hokamoto</a>
+<a href='{{ site.baseurl }}/authors/tobias-holicki'>Tobias Holicki</a>
 <a href='{{ site.baseurl }}/authors/mohamadreza-homayounzade'>Mohamadreza Homayounzade</a>
 <a href='{{ site.baseurl }}/authors/jeremy-w-hopwood'>Jeremy W. Hopwood</a>
 <a href='{{ site.baseurl }}/authors/koh-hosoda'>Koh Hosoda</a>
@@ -1859,6 +1860,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/john-w-simpson-porco'>John W. Simpson-Porco</a>
 <a href='{{ site.baseurl }}/authors/moirangthem-sailash-singh'>Moirangthem Sailash Singh</a>
 <a href='{{ site.baseurl }}/authors/navdeep-m-singh'>Navdeep M. Singh</a>
+<a href='{{ site.baseurl }}/authors/vaibhav-kumar-singh'>Vaibhav Kumar Singh</a>
 <a href='{{ site.baseurl }}/authors/andrea-siniscalco'>Andrea Siniscalco</a>
 <a href='{{ site.baseurl }}/authors/pramod-sistla'>Pramod Sistla</a>
 <a href='{{ site.baseurl }}/authors/andreas-siuka'>Andreas Siuka</a>
@@ -2425,6 +2427,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/yufeng-zhang'>Yufeng Zhang</a>
 <a href='{{ site.baseurl }}/authors/zhaowen-zhang'>Zhaowen Zhang</a>
 <a href='{{ site.baseurl }}/authors/zhe-zhang'>Zhe Zhang</a>
+<a href='{{ site.baseurl }}/authors/zhenhua-zhang'>Zhenhua Zhang</a>
 <a href='{{ site.baseurl }}/authors/zhenkai-zhang'>Zhenkai Zhang</a>
 <a href='{{ site.baseurl }}/authors/zhenxing-zhang'>Zhenxing Zhang</a>
 <a href='{{ site.baseurl }}/authors/zhicheng-zhang'>Zhicheng Zhang</a>
