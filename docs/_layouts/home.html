@@ -12,9 +12,9 @@ layout: base
   <h2 class="post-list-heading">Publications</h2>
   
   {% if site.paginate %}
-    {% assign posts = paginator.posts | sort: 'year' | reverse %}
+    {% assign posts = paginator.posts | sort: 'date' | reverse %}
   {% else %}
-    {% assign posts = site.posts | sort: 'year' | reverse %}
+    {% assign posts = site.posts | sort: 'date' | reverse %}
   {% endif %}
 
 
