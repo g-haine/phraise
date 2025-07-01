@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2411 authors referenced.</h3>
+<h3>There are 2412 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -675,6 +675,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/hanno-gottschalk'>Hanno Gottschalk</a>
 <a href='{{ site.baseurl }}/authors/andreas-w-gotz'>Andreas W. Götz</a>
 <a href='{{ site.baseurl }}/authors/yves-gourinat'>Yves Gourinat</a>
+<a href='{{ site.baseurl }}/authors/matteo-gouzien'>Mattéo Gouzien</a>
 <a href='{{ site.baseurl }}/authors/thavamani-govindaraj'>Thavamani Govindaraj</a>
 <a href='{{ site.baseurl }}/authors/pawan-goyal'>Pawan Goyal</a>
 <a href='{{ site.baseurl }}/authors/g-grabmair'>G. Grabmair</a>
