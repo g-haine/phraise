@@ -3,7 +3,7 @@ layout: page
 ---
 
   {%- if site.categories[page.category].size > 0 -%}
-    {% assign posts = site.categories[page.category] | sort: 'year' | reverse %}
+    {% assign posts = site.categories[page.category] | sort: 'date' | reverse %}
 
     {%- if posts.size > 0 -%}
       <h3>There are {{ posts.size }} items referenced in this category.</h3>
