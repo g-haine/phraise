@@ -194,8 +194,7 @@ while IFS= read -r doi; do
 done < .dois_missing.tmp
 
 # Nettoyage
-rm -f .dois_in_*.tmp .dois_missing.tmp
-rm -f "$TMP_DOIS_OA" "$bibcurrent"
+rm -f *.tmp "$TMP_DOIS_OA" "$bibcurrent"
 rm -rf "$TMP_DIR"
 
 # Tout s'est bien passé !

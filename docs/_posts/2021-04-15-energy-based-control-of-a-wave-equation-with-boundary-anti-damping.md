@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro-macchelli), [Y. Le Gorrec](authors/yann-le-gorrec), [Y. Wu](authors/), [H. Ramírez](authors/hector-ramirez)
+[A. Macchelli](authors/alessandro-macchelli), [Y. Le Gorrec](authors/yann-le-gorrec), [Y. Wu](authors/yongxin-wu), [H. Ramírez](authors/hector-ramirez)
  
 ## Abstract
 In this paper, we consider the asymptotic boundary stabilisation of a one-dimensional wave equation subject to anti-damping at its free end and with control at the opposite one. The control action, implemented through a state feedback or a dynamic controller, is derived by using the port-Hamiltonian framework. More precisely, the standard energy-shaping approach plus damping assignment is adapted to cope with infinite dimensional systems with anti-damping boundary conditions. It is shown how to modify the equivalent dynamic controller to account for the instability propagation along the domain.

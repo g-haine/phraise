@@ -64,6 +64,10 @@ while read -r entry; do
     permalink=$(echo "$entry" | jq -r '.permalink')
     title=$(echo "$entry" | jq -r '.title')
     year=$(echo "$entry" | jq -r '.year')
+    dateY=$(echo "$entry" | jq -r '.dateY')
+    dateM=$(echo "$entry" | jq -r '.dateM')
+    dateD=$(echo "$entry" | jq -r '.dateD')
+    date=$dateY"-"$dateM"-"$dateD
     author_names=$(echo "$entry" | jq -r '
       if (.authors // null) == null then
         "No author"
@@ -75,9 +79,12 @@ while read -r entry; do
         continue
     fi
 
-    # Lire chaque "Prénom Nom" sans découper sur les espaces
+    POST="
+    $date|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$(mathjaxify "$title")</a></h3></li>"
+
+    # Lire chaque "Prénom Nom" pour y ajouter le post
     while IFS= read -d ", " -r author; do
-        author=$(echo "$author" | sed 's/^ *//;s/ *$//') # Supprimer espaces inutiles
+        author=$(echo "$author" | sed 's/^ *//;s/ *$//')
         if [[ $author != "" ]]; then
             slug="${author_to_slug[$author]}"
             if [[ $slug == "" ]]; then
@@ -85,16 +92,11 @@ while read -r entry; do
             fi
             standardized_author="${slug_to_name[$slug]:-$author}"
             sanitized_author=$(slugify "$standardized_author")
-            authors["$standardized_author"]+="
-            $year|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$(mathjaxify "$title")</a></h3></li>"
+            authors["$standardized_author"]+=$POST
         fi
     done <<< "$author_names, "
-
-    years["$year"]+='
-  <li>
-    <span class="post-meta">'$year' -- '$author_names'</span>
-    <h3><a class="post-link" href="{{ site.baseurl }}/'$permalink'">'$(mathjaxify "$title")'</a></h3>
-  </li>'
+    # Ajoute le post à son année
+    years["$year"]+=$POST
 done < <(jq -c '.[]' "$BIBLIO_JSON")
 
 # Créer un tableau temporaire pour le tri des auteurs
@@ -230,7 +232,7 @@ permalink: /years/$year
 EOF
     echo '<h3 id="number-posts">There are ... items referenced.</h3>' >> "$YEARS_DIR/$year.md"
     echo '<ul class="post-list">' >> "$YEARS_DIR/$year.md"
-    echo -e "${years[$year]}" >> "$YEARS_DIR/$year.md"
+    echo -e "${years[$year]}" | sort -t'|' -k1,1r | cut -d'|' -f2 | iconv -t UTF-8 >> "$YEARS_DIR/$year.md"
     echo "</ul>" >> "$YEARS_DIR/$year.md"
     echo "{% include count-posts.html %}" >> "$YEARS_DIR/$year.md"
 done

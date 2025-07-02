@@ -259,7 +259,7 @@ find "$BIB_DIR" -name '*.bib' | while read -r bibfile; do
 
   if ! echo "$valid_slugs" | grep -Fxq "$bibname"; then
     echo -e "\t deleting: $bibfile"
-    mv "$bibfile" "$TRASH_DIR$bibfile"
+    mv "$bibfile" "$TRASH_DIR$bibname.bib"
   fi
 done
 
