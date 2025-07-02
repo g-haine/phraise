@@ -51,11 +51,6 @@ else
     exit 1
 fi
 
-# Ajoute un zéro si le mois ou le jour est entre 1 et 9
-pad_zero () {
-    printf "%02d" "$1"
-}
-
 # Charger les correspondances "Prénom Nom" → "slug"
 echo $(date -Iseconds)" Load names -> slugs table..."
 declare -A author_to_slug

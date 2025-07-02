@@ -67,7 +67,7 @@ while read -r entry; do
     dateY=$(echo "$entry" | jq -r '.dateY')
     dateM=$(echo "$entry" | jq -r '.dateM')
     dateD=$(echo "$entry" | jq -r '.dateD')
-    date=$dateY"-"$dateM"-"$dateD
+    date=$dateY"-"$(pad_zero "$dateM")"-"$(pad_zero "$dateD")
     author_names=$(echo "$entry" | jq -r '
       if (.authors // null) == null then
         "No author"
