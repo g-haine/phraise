@@ -46,7 +46,7 @@ Shallow water equations (SWE); Port-Hamiltonian systems (pHs); Viscous damping; 
   journal={Mathematics of Control, Signals, and Systems},
   publisher={Springer Science and Business Media LLC},
   author={Cardoso-Ribeiro, Flávio Luiz and Haine, Ghislain and Lefèvre, Laurent and Matignon, Denis},
-  year={2024},
+  year={2025},
   pages={361--394}
 }
 {% endraw %}

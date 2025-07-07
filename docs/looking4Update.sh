@@ -178,20 +178,20 @@ done < <(jq -c '.[]' "$trash")
 echo $(date -Iseconds)" Identification of DOI not in the database..."
 
 # Extraire les DOI du JSON (en minuscules pour plus de robustesse)
-jq -r '.[].doi' "$BIBLIO_JSON" | tr '[:upper:]' '[:lower:]' | sort -u > .dois_in_db.tmp
+jq -r '.[].doi' "$BIBLIO_JSON" | tr '[:upper:]' '[:lower:]' | sort -u > dois_in_db.tmp
 
 # Normaliser et trier la source
-tr '[:upper:]' '[:lower:]' < "$DOI_SOURCE" | sort -u > .dois_in_source.tmp
+tr '[:upper:]' '[:lower:]' < "$DOI_SOURCE" | sort -u > dois_in_source.tmp
 
 # Comparer : ne garder que ceux qui ne sont PAS dans la base
-comm -23 .dois_in_source.tmp .dois_in_db.tmp > .dois_missing.tmp
+comm -23 dois_in_source.tmp dois_in_db.tmp > dois_missing.tmp
 
 # Affichage et ajout dans $DOI_FILE
 while IFS= read -r doi; do
     echo -e "\t DOI still NOT in the database: $doi"
     echo "$doi" >> "$DOI_FILE"
     sed -i -e "\|$doi|Id" "$DOI_SOURCE"
-done < .dois_missing.tmp
+done < dois_missing.tmp
 
 # Nettoyage
 rm -f *.tmp "$TMP_DOIS_OA" "$bibcurrent"

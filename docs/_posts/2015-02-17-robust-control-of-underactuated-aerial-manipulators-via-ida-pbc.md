@@ -9,7 +9,7 @@ category: proceedings
 ---
  
 ## Authors
-[J.A. Acosta](authors/j-a-acosta), [M.I. Sanchez](authors/m-i-sanchez), [A. Ollero](authors/a-ollero)
+[J.A. Acosta](authors/j-a-acosta), [M.I. Sanchez](authors/m-i-sanchez), [A. Ollero](authors/anibal-ollero)
  
 ## Abstract
 Aerial Manipulators (AMs) are a special class of underactuated mechanical systems formed by the join of Unmanned Aerial Vehicles (UAVs) and manipulators. A thorough analysis of the dynamics and a fully constructive controller design for a quadrotor plus n-link manipulator in a free-motion on an arbitrary plane is provided, via the lDA-PBC methodology. A controller is designed with the manipulator locked at any position ensuring global asymptotic stability in an open set and avoiding the AM goes upside down (autonomous). The major result of stability/robustness arises when it is proved that, additionally, the controller guarantees the boundedness of the trajectories for bounded movements of the manipulator, i.e. the robot manipulator executing planned tasks, giving rise to a non-autonomous port-controlled Hamiltonian system in closed loop. Moreover, all trajectories converge to a positive limit set, a strong result for matching-type controllers.

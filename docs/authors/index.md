@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2412 authors referenced.</h3>
+<h3>There are 2414 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -94,6 +94,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/anton-arnold'>Anton Arnold</a>
 <a href='{{ site.baseurl }}/authors/damir-z-arov'>Damir Z. Arov</a>
 <a href='{{ site.baseurl }}/authors/pierluigi-arpenti'>Pierluigi Arpenti</a>
+<a href='{{ site.baseurl }}/authors/b-c-arrue'>Begoña C. Arrue</a>
 <a href='{{ site.baseurl }}/authors/jean-francois-artaud'>Jean-Francois Artaud</a>
 <a href='{{ site.baseurl }}/authors/toru-asai'>Toru Asai</a>
 <a href='{{ site.baseurl }}/authors/kinji-asaka'>Kinji Asaka</a>
@@ -1435,6 +1436,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/ashwin-s-nayak'>Ashwin S. Nayak</a>
 <a href='{{ site.baseurl }}/authors/nedialko-nedialkov'>Nedialko Nedialkov</a>
 <a href='{{ site.baseurl }}/authors/a-neki'>A. Neki</a>
+<a href='{{ site.baseurl }}/authors/saeed-rafee-nekoo'>Saeed Rafee Nekoo</a>
 <a href='{{ site.baseurl }}/authors/markus-p-nemitz'>Markus P. Nemitz</a>
 <a href='{{ site.baseurl }}/authors/kae-nemoto'>Kae Nemoto</a>
 <a href='{{ site.baseurl }}/authors/sergey-g-nersesov'>Sergey G. Nersesov</a>
@@ -1476,7 +1478,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/yuki-okura'>Yuki Okura</a>
 <a href='{{ site.baseurl }}/authors/diego-gonzalez-olivares'>Diego González Olivares</a>
 <a href='{{ site.baseurl }}/authors/w-d-oliver'>W. D. Oliver</a>
-<a href='{{ site.baseurl }}/authors/a-ollero'>A. Ollero</a>
+<a href='{{ site.baseurl }}/authors/anibal-ollero'>Anı́bal Ollero</a>
 <a href='{{ site.baseurl }}/authors/simona-olmi'>Simona Olmi</a>
 <a href='{{ site.baseurl }}/authors/p-r-onck'>P.R. Onck</a>
 <a href='{{ site.baseurl }}/authors/tomoya-ono'>Tomoya Ono</a>
