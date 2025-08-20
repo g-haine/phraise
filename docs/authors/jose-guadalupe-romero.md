@@ -8,6 +8,7 @@ permalink: /authors/jose-guadalupe-romero
 <p id='info-authors'>Alternative author names: Jose Guadalupe Romero.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Jose Guadalupe Romero, Alejandro Donaire, Emmanuel Nuno, David Navarro-Alarcon</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-consensus-of-a-class-of-perturbed-port-hamiltonian-systems-with-time-delays">Robust Consensus of a Class of Perturbed Port-Hamiltonian Systems with Time Delays</a></h3></li>
 <li><span class='post-meta'>2017 -- Alejandro Donaire, Jose Guadalupe Romero, Tristan Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-passivity-based-control-for-marine-vehicles-subject-to-disturbances">Trajectory tracking passivity-based control for marine vehicles subject to disturbances</a></h3></li>
 <li><span class='post-meta'>2015 -- Jose Guadalupe Romero, Alejandro Donaire, David Navarro-Alarcon, Victor Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-tracking-controllers-for-mechanical-systems-with-active-disturbance-rejection">Passivity-Based Tracking Controllers for Mechanical Systems with Active Disturbance Rejection</a></h3></li>
 <li><span class='post-meta'>2015 -- Alejandro Donaire, Jose Guadalupe Romero, Tristan Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-trajectory-tracking-for-marine-craft-with-disturbance-rejection">Passivity-based Trajectory-tracking for Marine Craft with Disturbance Rejection</a></h3></li>

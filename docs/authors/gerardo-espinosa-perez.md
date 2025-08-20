@@ -8,6 +8,7 @@ permalink: /authors/gerardo-espinosa-perez
 <p id='info-authors'>Alternative author names: Gerardo Espinosa-Pérez, Gerardo Espinosa-Perez, Gerardo René Espinosa Pérez, Gerardo Espinosa‐Pérez, G. Espinosa-Pérez, G. Espinosa-Pérez.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Fernanda Ramos-García, Sofía Avila-Becerril, Gerardo Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/trajectory-tracking-control-of-a-class-of-underactuated-port-controlled-hamiltonian-systems">Trajectory tracking control of a class of underactuated port-controlled hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Michael Rojas, Christian Granados‐Salazar, Gerardo Espinosa‐Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/full-order-observer-design-for-quadratic-port-controlled-hamiltonian-systems">Full‐order observer design for quadratic port‐controlled Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Fernanda Ramos-García, Gerardo Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/a-speed-tracking-passivity-based-control-of-induction-motors">A Speed Tracking Passivity Based Control of Induction Motors</a></h3></li>
 <li><span class='post-meta'>2024 -- Alejandro Garcés-Ruiz, Sofia Avila-Becerril, Gerardo Espinosa-Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-time-port-hamiltonian-systems-for-power-and-energy-applications">Discrete-Time Port-Hamiltonian Systems for Power and Energy Applications</a></h3></li>

@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2415 authors referenced.</h3>
+<h3>There are 2418 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -825,6 +825,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/yinlong-hu'>Yinlong Hu</a>
 <a href='{{ site.baseurl }}/authors/zhili-hua'>Zhili Hua</a>
 <a href='{{ site.baseurl }}/authors/alex-s-huaman'>Alex S. Huaman</a>
+<a href='{{ site.baseurl }}/authors/biao-huang'>Biao Huang</a>
 <a href='{{ site.baseurl }}/authors/bowen-huang'>Bowen Huang</a>
 <a href='{{ site.baseurl }}/authors/chao-huang'>Chao Huang</a>
 <a href='{{ site.baseurl }}/authors/deqing-huang'>Deqing Huang</a>
@@ -1275,6 +1276,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/milka-c-i-madahana'>Milka C. I. Madahana</a>
 <a href='{{ site.baseurl }}/authors/guillermo-luciano-magaldi'>Guillermo Luciano Magaldi</a>
 <a href='{{ site.baseurl }}/authors/miguel-magos'>Miguel Magos</a>
+<a href='{{ site.baseurl }}/authors/negareh-mahboubi'>Negareh Mahboubi</a>
 <a href='{{ site.baseurl }}/authors/arun-d-mahindrakar'>Arun D. Mahindrakar</a>
 <a href='{{ site.baseurl }}/authors/robert-mahony'>Robert Mahony</a>
 <a href='{{ site.baseurl }}/authors/m-mahzoon'>M. Mahzoon</a>
@@ -2255,6 +2257,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/guo-xiaomei'>Guo Xiaomei</a>
 <a href='{{ site.baseurl }}/authors/haibo-xie'>Haibo Xie</a>
 <a href='{{ site.baseurl }}/authors/hongchao-xie'>Hongchao Xie</a>
+<a href='{{ site.baseurl }}/authors/junyao-xie'>Junyao Xie</a>
 <a href='{{ site.baseurl }}/authors/suxia-xie'>Suxia Xie</a>
 <a href='{{ site.baseurl }}/authors/xuejun-xie'>Xuejun Xie</a>
 <a href='{{ site.baseurl }}/authors/zongwu-xie'>Zongwu Xie</a>

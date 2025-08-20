@@ -197,6 +197,16 @@ done < dois_missing.tmp
 rm -f *.tmp "$TMP_DOIS_OA" "$bibcurrent"
 rm -rf "$TMP_DIR"
 
+# Unification des DOIs
+echo $(date -Iseconds)" Check unicity of DOIs..."
+uniq_file="DOIuniq.txt"
+tmp_file=$(mktemp)
+cat $DOI_FILE | tr '[:upper:]' '[:lower:]' > $tmp_file
+awk '!seen[$0]++' $tmp_file > $uniq_file
+grep -vFxf DOI.txt "$uniq_file" > "$DOI_FILE"
+rm "$uniq_file"
+cat "$DOI_FILE"
+
 # Tout s'est bien passé !
 echo $(date -Iseconds)" Search for update successful!"
 exit 0

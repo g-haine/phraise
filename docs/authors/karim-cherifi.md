@@ -8,6 +8,7 @@ permalink: /authors/karim-cherifi
 <p id='info-authors'>Alternative author names: Karim Cherifi.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann, Riccardo Morandin</span><h3><a class='post-link' href="{{ site.baseurl }}/relationship-between-dissipativity-concepts-for-linear-time-varying-port-hamiltonian-systems">Relationship between dissipativity concepts for linear time-varying port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/on-discrete-time-dissipative-port-hamiltonian-descriptor-systems">On discrete-time dissipative port-Hamiltonian (descriptor) systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen</span><h3><a class='post-link' href="{{ site.baseurl }}/the-difference-between-port-hamiltonian-passive-and-positive-real-descriptor-systems">The difference between port-Hamiltonian, passive and positive real descriptor systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/a-geometric-framework-for-discrete-time-port-hamiltonian-systems">A geometric framework for discrete time port‐Hamiltonian systems</a></h3></li>

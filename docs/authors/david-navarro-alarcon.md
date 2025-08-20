@@ -8,6 +8,7 @@ permalink: /authors/david-navarro-alarcon
 <p id='info-authors'>Alternative author names: David Navarro-Alarcon, David NAVARRO.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Jose Guadalupe Romero, Alejandro Donaire, Emmanuel Nuno, David Navarro-Alarcon</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-consensus-of-a-class-of-perturbed-port-hamiltonian-systems-with-time-delays">Robust Consensus of a Class of Perturbed Port-Hamiltonian Systems with Time Delays</a></h3></li>
 <li><span class='post-meta'>2017 -- David NAVARRO, Domingo CORTES, Martha GALAZ-LARIOS</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-approach-to-control-dc-dc-power-converters">A Port-Hamiltonian Approach to Control DC-DC Power Converters</a></h3></li>
 <li><span class='post-meta'>2015 -- Jose Guadalupe Romero, Alejandro Donaire, David Navarro-Alarcon, Victor Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-tracking-controllers-for-mechanical-systems-with-active-disturbance-rejection">Passivity-Based Tracking Controllers for Mechanical Systems with Active Disturbance Rejection</a></h3></li>
 <li><span class='post-meta'>2014 -- David Navarro-Alarcon, Yun-Hui Liu, Jose Guadalupe Romero, Peng Li</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-methods-for-asymptotic-force-regulation-of-compliant-mechanical-systems">Energy Shaping Methods for Asymptotic Force Regulation of Compliant Mechanical Systems</a></h3></li>

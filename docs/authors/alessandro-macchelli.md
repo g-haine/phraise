@@ -8,6 +8,7 @@ permalink: /authors/alessandro-macchelli
 <p id='info-authors'>Alternative author names: Alessandro Macchelli, A. Macchelli.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Alessandro Macchelli</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-boundary-control-systems-in-discrete-time-modelling-and-control-design">Port-Hamiltonian Boundary Control Systems in Discrete-Time. Modelling and Control Design</a></h3></li>
 <li><span class='post-meta'>2024 -- Riccardo Zanella, Alessandro Macchelli, Stefano Stramigioli</span><h3><a class='post-link' href="{{ site.baseurl }}/learning-the-optimal-energy-based-control-strategy-for-port-hamiltonian-systems">Learning the Optimal Energy-based Control Strategy for Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Alessandro Macchelli</span><h3><a class='post-link' href="{{ site.baseurl }}/a-discrete-time-formulation-of-nonlinear-distributed-parameter-port-hamiltonian-systems">A Discrete-Time Formulation of Nonlinear Distributed-Parameter Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Alessandro Macchelli, Yongxin Wu, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-control-design-for-an-ipmc-actuated-highly-flexible-endoscope">Port-Hamiltonian Control Design for an IPMC Actuated Highly Flexible Endoscope</a></h3></li>

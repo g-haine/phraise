@@ -8,6 +8,7 @@ permalink: /authors/dorothea-hinsen
 <p id='info-authors'>Alternative author names: Dorothea Hinsen.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann, Riccardo Morandin</span><h3><a class='post-link' href="{{ site.baseurl }}/relationship-between-dissipativity-concepts-for-linear-time-varying-port-hamiltonian-systems">Relationship between dissipativity concepts for linear time-varying port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Hannes Gernandt, Dorothea Hinsen</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-and-passivity-for-a-class-of-distributed-port-hamiltonian-networks">Stability and Passivity for a Class of Distributed Port-Hamiltonian Networks</a></h3></li>
 <li><span class='post-meta'>2024 -- Tobias Breiten, Dorothea Hinsen, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/toward-a-class-of-port-hamiltonian-systems-with-time-delays">Toward a Class of Port-Hamiltonian Systems With Time-Delays</a></h3></li>
 <li><span class='post-meta'>2024 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/on-discrete-time-dissipative-port-hamiltonian-descriptor-systems">On discrete-time dissipative port-Hamiltonian (descriptor) systems</a></h3></li>

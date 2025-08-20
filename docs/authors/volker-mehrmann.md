@@ -8,6 +8,7 @@ permalink: /authors/volker-mehrmann
 <p id='info-authors'>Alternative author names: Volker Mehrmann, V. Mehrmann, V Mehrmann.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann, Riccardo Morandin</span><h3><a class='post-link' href="{{ site.baseurl }}/relationship-between-dissipativity-concepts-for-linear-time-varying-port-hamiltonian-systems">Relationship between dissipativity concepts for linear time-varying port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Delin Chu, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-representations-of-positive-real-descriptor-systems">Port-Hamiltonian representations of positive real descriptor systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Delin Chu, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/asymptotic-stability-and-strict-passivity-of-port-hamiltonian-descriptor-systems-via-state-feedback">Asymptotic stability and strict passivity of port-Hamiltonian descriptor systems via state feedback</a></h3></li>
 <li><span class='post-meta'>2025 -- Delin Chu, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-linear-port-hamiltonian-descriptor-systems-via-output-feedback">Stabilization of Linear Port-Hamiltonian Descriptor Systems via Output Feedback</a></h3></li>

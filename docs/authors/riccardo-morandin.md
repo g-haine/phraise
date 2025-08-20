@@ -8,6 +8,7 @@ permalink: /authors/riccardo-morandin
 <p id='info-authors'>Alternative author names: Riccardo Morandin.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann, Riccardo Morandin</span><h3><a class='post-link' href="{{ site.baseurl }}/relationship-between-dissipativity-concepts-for-linear-time-varying-port-hamiltonian-systems">Relationship between dissipativity concepts for linear time-varying port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Riccardo Morandin, Jonas Nicodemus, Benjamin Unger</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-dynamic-mode-decomposition">Port-Hamiltonian Dynamic Mode Decomposition</a></h3></li>
 <li><span class='post-meta'>2022 -- Tobias Breiten, Riccardo Morandin, Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/error-bounds-for-port-hamiltonian-model-and-controller-reduction-based-on-system-balancing">Error bounds for port-Hamiltonian model and controller reduction based on system balancing</a></h3></li>
 <li><span class='post-meta'>2019 -- Volker Mehrmann, Riccardo Morandin</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-discretization-for-port-hamiltonian-descriptor-systems">Structure-preserving discretization for port-Hamiltonian descriptor systems</a></h3></li>
