@@ -26,7 +26,7 @@ Bayesian optimization; Transfer learning; Gaussian process; Port-Hamiltonian sys
 ## Citation
 - **Journal:** Computers &amp; Chemical Engineering
 - **Year:** 2025
-- **Volume:** 
+- **Volume:** 203
 - **Issue:** 
 - **Pages:** 109331
 - **Publisher:** Elsevier BV
@@ -37,6 +37,7 @@ Bayesian optimization; Transfer learning; Gaussian process; Port-Hamiltonian sys
 {% raw %}
 @article{Mahboubi_2025,
   title={{Physics-guided transfer learning for Bayesian optimization of chemical port-Hamiltonian systems}},
+  volume={203},
   ISSN={0098-1354},
   DOI={10.1016/j.compchemeng.2025.109331},
   journal={Computers &amp; Chemical Engineering},
