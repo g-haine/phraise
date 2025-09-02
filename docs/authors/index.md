@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2426 authors referenced.</h3>
+<h3>There are 2429 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -413,6 +413,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/malak-diab'>Malak Diab</a>
 <a href='{{ site.baseurl }}/authors/mamadou-diagne'>Mamadou Diagne</a>
 <a href='{{ site.baseurl }}/authors/jingdong-diao'>Jingdong Diao</a>
+<a href='{{ site.baseurl }}/authors/ignacio-diaz'>Ignacio Díaz</a>
 <a href='{{ site.baseurl }}/authors/wissam-dib'>Wissam Dib</a>
 <a href='{{ site.baseurl }}/authors/nguyen-quang-dich'>Nguyen Quang Dich</a>
 <a href='{{ site.baseurl }}/authors/david-martin-de-diego'>David Martín de Diego</a>
@@ -483,6 +484,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/ramy-el-ganainy'>Ramy El-Ganainy</a>
 <a href='{{ site.baseurl }}/authors/mohamed-i-el-hawwary'>Mohamed I. El-Hawwary</a>
 <a href='{{ site.baseurl }}/authors/amnah-el-obaid'>Amnah El-Obaid</a>
+<a href='{{ site.baseurl }}/authors/bouchra-elghazi'>Bouchra Elghazi</a>
 <a href='{{ site.baseurl }}/authors/marco-encina'>Marco Encina</a>
 <a href='{{ site.baseurl }}/authors/johan-b-c-engelen'>Johan B. C. Engelen</a>
 <a href='{{ site.baseurl }}/authors/helmut-ennsbrunner'>Helmut Ennsbrunner</a>
@@ -2077,6 +2079,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/pisit-vanichchanunt'>Pisit Vanichchanunt</a>
 <a href='{{ site.baseurl }}/authors/joris-vankerschaver'>Joris Vankerschaver</a>
 <a href='{{ site.baseurl }}/authors/francisco-vargas'>Francisco Vargas</a>
+<a href='{{ site.baseurl }}/authors/mario-vargas'>Mario Vargas</a>
 <a href='{{ site.baseurl }}/authors/hector-vargas-rodriguez'>Héctor Vargas-Rodríguez</a>
 <a href='{{ site.baseurl }}/authors/xavier-vasseur'>Xavier Vasseur</a>
 <a href='{{ site.baseurl }}/authors/jaap-j-w-van-der-vegt'>Jaap J. W. van der Vegt</a>

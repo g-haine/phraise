@@ -8,6 +8,7 @@ permalink: /authors/cristobal-ponce
 <p id='info-authors'>Alternative author names: Cristobal Ponce.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/constrained-port-hamiltonian-modeling-and-structure-preserving-discretization-of-the-rayleigh-beam">Constrained port-Hamiltonian modeling and structure-preserving discretization of the Rayleigh beam</a></h3></li>
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-discretization-of-multidimensional-linear-port-hamiltonian-systems-using-fem-approaches">Structure-preserving discretization of multidimensional linear port-Hamiltonian systems using FEM approaches</a></h3></li>
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Nelson Cisneros, Yongxin Wu, Kanty Rabenorosoa, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators">Port-Hamiltonian modeling of large-scale curling HASEL actuators</a></h3></li>
 <li><span class='post-meta'>2024 -- Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-of-a-geometrically-nonlinear-hyperelastic-beam">Port-Hamiltonian modeling of a geometrically nonlinear hyperelastic beam</a></h3></li>
