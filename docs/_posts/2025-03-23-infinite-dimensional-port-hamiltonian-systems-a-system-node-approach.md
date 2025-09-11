@@ -25,9 +25,9 @@ Port-Hamiltonian systems; Infinite-dimensional systems; System nodes; Boundary c
 ## Citation
 - **Journal:** Mathematics of Control, Signals, and Systems
 - **Year:** 2025
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 37
+- **Issue:** 3
+- **Pages:** 573--620
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s00498-025-00412-0](https://doi.org/10.1007/s00498-025-00412-0)
  
@@ -36,12 +36,15 @@ Port-Hamiltonian systems; Infinite-dimensional systems; System nodes; Boundary c
 {% raw %}
 @article{Philipp_2025,
   title={{Infinite-dimensional port-Hamiltonian systems: a system node approach}},
+  volume={37},
   ISSN={1435-568X},
   DOI={10.1007/s00498-025-00412-0},
+  number={3},
   journal={Mathematics of Control, Signals, and Systems},
   publisher={Springer Science and Business Media LLC},
   author={Philipp, Friedrich M. and Reis, Timo and Schaller, Manuel},
-  year={2025}
+  year={2025},
+  pages={573--620}
 }
 {% endraw %}
 {% endhighlight %}

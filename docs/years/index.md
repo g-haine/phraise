@@ -44,4 +44,5 @@ permalink: /years/
 <a href='{{ site.baseurl }}/years/2023'>2023</a>
 <a href='{{ site.baseurl }}/years/2024'>2024</a>
 <a href='{{ site.baseurl }}/years/2025'>2025</a>
+<a href='{{ site.baseurl }}/years/2026'>2026</a>
 </div>
