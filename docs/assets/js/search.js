@@ -3,6 +3,8 @@ class PhraiseSearch {
         this.worker = new Worker('../assets/js/search-worker.js');
         this.isDataLoaded = false;
         this.pendingQueries = [];
+        this.cacheKey = 'phraise_biblio_cache';
+        this.cacheVersion = '1.0';
         
         this.worker.onmessage = (e) => {
             const { type, data } = e.data;
@@ -21,27 +23,126 @@ class PhraiseSearch {
             }
         };
         
-        this.loadData();
+        this.loadDataWithCache();
     }
 
-    async loadData() {
+    async loadDataWithCache() {
         try {
-            const response = await fetch('../assets/data/biblio.json');
-            if (!response.ok) throw new Error('HTTP error ' + response.status);
+            // Vérifier le cache local d'abord
+            const cachedData = this.getCachedData();
             
-            const data = await response.json();
+            if (cachedData) {
+                console.log('Using cached database');
+                this.worker.postMessage({
+                    type: 'loadData',
+                    data: cachedData.data
+                });
+                return;
+            }
+
+            // Charger depuis le serveur
+            await this.loadFromServer();
             
-            this.worker.postMessage({
-                type: 'loadData',
-                data: data
-            });
         } catch (error) {
-            console.error('Loading error:', error);
+            console.error('Cached database loading error:', error);
             this.worker.postMessage({
                 type: 'error',
                 data: error.message
             });
         }
+    }
+
+    async loadFromServer() {
+        const response = await fetch('../assets/data/biblio.json', {
+            headers: {
+                'Cache-Control': 'no-cache' // Forcer la vérification du serveur
+            }
+        });
+        
+        if (!response.ok) throw new Error('HTTP error ' + response.status);
+        
+        const data = await response.json();
+        const etag = response.headers.get('ETag') || this.generateHash(JSON.stringify(data));
+        
+        // Sauvegarder en cache
+        this.saveToCache(data, etag);
+        
+        this.worker.postMessage({
+            type: 'loadData',
+            data: data
+        });
+    }
+
+    getCachedData() {
+        try {
+            const cache = localStorage.getItem(this.cacheKey);
+            if (!cache) return null;
+            
+            const parsed = JSON.parse(cache);
+            
+            // Vérifier la version du cache
+            if (parsed.version !== this.cacheVersion) {
+                console.log('Old database, reloading');
+                return null;
+            }
+            
+            console.log('Data already in cache');
+            return parsed;
+        } catch (e) {
+            console.warn('Reading cache error:', e);
+            return null;
+        }
+    }
+
+    saveToCache(data, etag) {
+        try {
+            const cacheData = {
+                data: data,
+                etag: etag,
+                timestamp: Date.now(),
+                version: this.cacheVersion,
+                size: JSON.stringify(data).length
+            };
+            
+            localStorage.setItem(this.cacheKey, JSON.stringify(cacheData));
+            console.log('Database saved in cache');
+            
+        } catch (e) {
+            console.warn('Not enough space, cleaning...');
+            this.clearOldCache();
+            // Réessayer une fois après nettoyage
+            try {
+                const cacheData = {
+                    data: data,
+                    etag: etag,
+                    timestamp: Date.now(),
+                    version: this.cacheVersion,
+                    size: JSON.stringify(data).length
+                };
+                localStorage.setItem(this.cacheKey, JSON.stringify(cacheData));
+            } catch (e2) {
+                console.error('Unable to save in cache');
+            }
+        }
+    }
+
+    clearOldCache() {
+        // Nettoyer les vieilles entrées si nécessaire
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key !== this.cacheKey) {
+                localStorage.removeItem(key);
+            }
+        }
+    }
+
+    generateHash(str) {
+        let hash = 0;
+        for (let i = 0; i < str.length; i++) {
+            hash = ((hash << 5) - hash) + str.charCodeAt(i);
+            hash |= 0;
+        }
+        return hash.toString();
     }
 
     search(query) {
@@ -86,6 +187,9 @@ class PhraiseSearch {
                 return;
             } else {
                 resultCount.textContent = `${results.length} matching item(s)`;
+                if (results.length === 50) {
+                    resultCount.textContent += `( limited to 50 results!)`;
+                }
             }
         }
 
@@ -164,8 +268,25 @@ document.addEventListener('DOMContentLoaded', function() {
     resultCount.textContent = 'Waiting for input...';
     resultCount.style.display = 'none';
     
+    // Bouton de rafraîchissement manuel
+    const refreshBtn = document.createElement('button');
+    refreshBtn.textContent = 'Reload database';
+    refreshBtn.id = 'refresh-btn';
+    refreshBtn.className = 'refresh-btn';
+    refreshBtn.title = 'Reload database';
+    refreshBtn.addEventListener('click', () => {
+        localStorage.removeItem('phraise_biblio_cache');
+        document.getElementById('loading').style.display = 'block';
+        document.getElementById('loading').textContent = 'Reloading database...';
+        resultCount.style.display = 'none';
+        search.isDataLoaded = false;
+        search.loadDataWithCache();
+    });
+    
     if (searchInput) {
-        searchInput.parentNode.insertBefore(resultCount, searchInput.nextSibling);
+        const searchContainer = searchInput.parentNode;
+        searchContainer.appendChild(refreshBtn);
+        searchContainer.insertBefore(resultCount, searchInput.nextSibling);
         
         searchInput.addEventListener('input', function(e) {
             clearTimeout(timeout);
