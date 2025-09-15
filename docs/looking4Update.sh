@@ -139,7 +139,7 @@ while IFS= read -r line; do
     slug=$(echo "$line" | jq -r '.permalink // ""')
     echo $(date -Iseconds)" Looking for DOI: $doi"
     bibfile="assets/bib/$slug.bib"
-    # Quand le DOI exists, mais que la bibtex n'a pas pu être fabriquer précédemment
+    # Quand le DOI exists, mais que le bibtex n'a pas pu être fabriquer précédemment
     if [ ! -f $bibfile ]; then
         echo -e "\t No bibtex!" >&2
         echo "$doi" >> $DOI_FILE
