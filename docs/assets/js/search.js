@@ -9,7 +9,7 @@ class PhraiseSearch {
         this.worker.onmessage = (e) => {
             const { type, data } = e.data;
             
-            if (type === 'dataLoaded') {
+            if (type === 'loadData') {
                 this.isDataLoaded = true;
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('result-count').style.display = 'block';
