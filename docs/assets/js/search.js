@@ -343,7 +343,6 @@ class PhraiseSearch {
         }
 
         resultsContainer.innerHTML = results.map(result => `
-            <div class="search-result">
                 <span class="post-meta">
                     <h3><a class="post-link" href="../${result.permalink}">${this.highlightText(result.title, query)}</a></h3>
                     
@@ -371,7 +370,6 @@ class PhraiseSearch {
                         </p>
                     ` : ''}
                 </span>
-            </div>
             <hr />
         `).join('');
     }
