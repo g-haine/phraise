@@ -5,144 +5,176 @@ class PhraiseSearch {
         this.pendingQueries = [];
         this.cacheKey = 'phraise_biblio_cache';
         this.cacheVersion = '1.0';
+        this.useCache = true; // Flag pour contrôler l'usage du cache
+        this.localData = null; // Stockage en mémoire pour fallback
         
         this.worker.onmessage = (e) => {
             const { type, data } = e.data;
             
-            if (type === 'loadData') {
+            if (type === 'dataLoaded') {
                 this.isDataLoaded = true;
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('result-count').style.display = 'block';
                 this.processPendingQueries();
-                console.log('Data loaded');
+                console.log('Data loaded successfully');
             } else if (type === 'searchResults') {
                 this.displayResults(data.results, data.query);
             } else if (type === 'error') {
-                console.error('Error:', data);
-                document.getElementById('loading').innerHTML = 'Data loading error';
+                console.error('Worker error:', data);
+                this.showError('Search error. Please try again.');
             }
         };
         
+        // Vérifier si localStorage est disponible
+        this.checkLocalStorageAvailability();
         this.loadDataWithCache();
+    }
+
+    checkLocalStorageAvailability() {
+        try {
+            const test = 'test';
+            localStorage.setItem(test, test);
+            localStorage.removeItem(test);
+            this.useCache = true;
+        } catch (e) {
+            console.warn('LocalStorage not available, disabling cache');
+            this.useCache = false;
+        }
     }
 
     async loadDataWithCache() {
         try {
-            // Vérifier le cache local d'abord
-            const cachedData = this.getCachedData();
-            
-            if (cachedData) {
-                console.log('Using cached database');
-                this.worker.postMessage({
-                    type: 'loadData',
-                    data: cachedData.data
-                });
-                return;
+            // Essayer le cache si disponible
+            if (this.useCache) {
+                const cachedData = this.getCachedData();
+                if (cachedData) {
+                    console.log('Using cached database');
+                    this.localData = cachedData.data; // Sauvegarde pour fallback
+                    this.worker.postMessage({
+                        type: 'loadData',
+                        data: cachedData.data
+                    });
+                    return;
+                }
             }
 
             // Charger depuis le serveur
             await this.loadFromServer();
             
         } catch (error) {
-            console.error('Cached database loading error:', error);
-            this.worker.postMessage({
-                type: 'error',
-                data: error.message
-            });
+            console.error('Loading error:', error);
+            this.showError('Unable to load database. Please refresh the page.');
         }
     }
 
     async loadFromServer() {
-        const response = await fetch('../assets/data/biblio.json', {
-            headers: {
-                'Cache-Control': 'no-cache' // Forcer la vérification du serveur
+        try {
+            const response = await fetch('../assets/data/biblio.json', {
+                headers: { 'Cache-Control': 'no-cache' }
+            });
+            
+            if (!response.ok) throw new Error('HTTP error ' + response.status);
+            
+            const data = await response.json();
+            this.localData = data; // Toujours stocker en mémoire
+            
+            // Sauvegarder en cache seulement si possible
+            if (this.useCache) {
+                try {
+                    const etag = response.headers.get('ETag') || this.generateHash(JSON.stringify(data));
+                    this.saveToCache(data, etag);
+                } catch (cacheError) {
+                    console.warn('Cache save failed, continuing without cache:', cacheError);
+                    this.useCache = false; // Désactiver le cache après erreur
+                }
             }
-        });
-        
-        if (!response.ok) throw new Error('HTTP error ' + response.status);
-        
-        const data = await response.json();
-        const etag = response.headers.get('ETag') || this.generateHash(JSON.stringify(data));
-        
-        // Sauvegarder en cache
-        this.saveToCache(data, etag);
-        
-        this.worker.postMessage({
-            type: 'loadData',
-            data: data
-        });
+            
+            this.worker.postMessage({
+                type: 'loadData',
+                data: data
+            });
+            
+        } catch (error) {
+            console.error('Server loading failed:', error);
+            throw error;
+        }
     }
 
     getCachedData() {
+        if (!this.useCache) return null;
+        
         try {
             const cache = localStorage.getItem(this.cacheKey);
             if (!cache) return null;
             
             const parsed = JSON.parse(cache);
             
-            // Vérifier la version du cache
-            if (parsed.version !== this.cacheVersion) {
-                console.log('Old database, reloading');
-                return null;
-            }
+            // Vérifier la version et l'âge du cache (30 jours max)
+            if (parsed.version !== this.cacheVersion) return null;
+            if (Date.now() - parsed.timestamp > 30 * 24 * 60 * 60 * 1000) return null;
             
-            console.log('Data already in cache');
+            console.log('Cache found and valid');
             return parsed;
         } catch (e) {
-            console.warn('Reading cache error:', e);
+            console.warn('Cache reading error, disabling cache:', e);
+            this.useCache = false;
             return null;
         }
     }
 
     saveToCache(data, etag) {
+        if (!this.useCache) return;
+        
         try {
             const cacheData = {
                 data: data,
                 etag: etag,
                 timestamp: Date.now(),
-                version: this.cacheVersion,
-                size: JSON.stringify(data).length
+                version: this.cacheVersion
             };
             
             localStorage.setItem(this.cacheKey, JSON.stringify(cacheData));
             console.log('Database saved in cache');
             
         } catch (e) {
-            console.warn('Not enough space, cleaning...');
-            this.clearOldCache();
-            // Réessayer une fois après nettoyage
-            try {
-                const cacheData = {
-                    data: data,
-                    etag: etag,
-                    timestamp: Date.now(),
-                    version: this.cacheVersion,
-                    size: JSON.stringify(data).length
-                };
-                localStorage.setItem(this.cacheKey, JSON.stringify(cacheData));
-            } catch (e2) {
-                console.error('Unable to save in cache');
+            if (e.name === 'QuotaExceededError') {
+                console.warn('Storage quota exceeded, clearing old data...');
+                this.clearOldCache();
+                
+                // Réessayer une fois
+                try {
+                    const cacheData = {
+                        data: data,
+                        etag: etag,
+                        timestamp: Date.now(),
+                        version: this.cacheVersion
+                    };
+                    localStorage.setItem(this.cacheKey, JSON.stringify(cacheData));
+                    console.log('Cache saved after cleanup');
+                } catch (e2) {
+                    console.warn('Still unable to save cache, disabling:', e2);
+                    this.useCache = false;
+                }
+            } else {
+                console.warn('Cache save error, disabling cache:', e);
+                this.useCache = false;
             }
         }
     }
 
     clearOldCache() {
-        // Nettoyer les vieilles entrées si nécessaire
+        // Nettoyer seulement les vieux caches similaires
+        const prefix = 'phraise_';
         for (let i = 0; i < localStorage.length; i++) {
             const key = localStorage.key(i);
-            if (key !== this.cacheKey) {
-                localStorage.removeItem(key);
+            if (key && key.startsWith(prefix) && key !== this.cacheKey) {
+                try {
+                    localStorage.removeItem(key);
+                } catch (e) {
+                    console.warn('Could not remove item:', key, e);
+                }
             }
         }
-    }
-
-    generateHash(str) {
-        let hash = 0;
-        for (let i = 0; i < str.length; i++) {
-            hash = ((hash << 5) - hash) + str.charCodeAt(i);
-            hash |= 0;
-        }
-        return hash.toString();
     }
 
     search(query) {
@@ -154,14 +186,94 @@ class PhraiseSearch {
 
         if (!this.isDataLoaded) {
             this.pendingQueries.push(trimmedQuery);
+            this.showWarning('Database still loading...');
             return;
         }
+
+        // Timeout pour fallback si worker ne répond pas
+        const fallbackTimeout = setTimeout(() => {
+            if (this.localData) {
+                console.warn('Worker timeout, using direct search');
+                this.searchDirect(trimmedQuery);
+            }
+        }, 5000);
 
         this.worker.postMessage({
             type: 'search',
             query: trimmedQuery.toLowerCase(),
             limit: 50
         });
+
+        // Annuler le timeout si le worker répond
+        setTimeout(() => clearTimeout(fallbackTimeout), 4000);
+    }
+
+    // Fallback de recherche directe
+    searchDirect(query) {
+        if (!this.localData) {
+            this.showError('No data available for search');
+            return;
+        }
+
+        try {
+            const results = this.performDirectSearch(query, this.localData);
+            this.displayResults(results, query);
+        } catch (error) {
+            console.error('Direct search error:', error);
+            this.showError('Search failed. Please try again.');
+        }
+    }
+
+    performDirectSearch(query, data) {
+        const queryTerms = query.toLowerCase().split(/\s+/).filter(term => term.length > 1);
+        const results = [];
+
+        for (const item of data) {
+            const score = this.calculateItemScore(item, queryTerms);
+            if (score > 0) {
+                results.push({ ...item, score });
+            }
+        }
+
+        return results.sort((a, b) => b.score - a.score).slice(0, 50);
+    }
+
+    calculateItemScore(item, queryTerms) {
+        let score = 0;
+        const searchText = this.createSearchableText(item).toLowerCase();
+
+        for (const term of queryTerms) {
+            const occurrences = (searchText.match(new RegExp(term, 'g')) || []).length;
+            score += occurrences * term.length;
+
+            if (item.title?.toLowerCase().includes(term)) score += 20;
+            if (this.checkAuthors(item.authors, term)) score += 15;
+            if (item.keywords?.toLowerCase().includes(term)) score += 25;
+            if (item.doi?.toLowerCase() === term) score += 50;
+        }
+
+        return score;
+    }
+
+    checkAuthors(authors, term) {
+        return authors?.some(author => 
+            author.family?.toLowerCase().includes(term) || 
+            author.given?.toLowerCase().includes(term)
+        );
+    }
+
+    createSearchableText(item) {
+        const fields = [
+            item.title,
+            item.journal,
+            item.abstract,
+            item.keywords,
+            item.year?.toString(),
+            item.doi,
+            ...(item.authors?.map(author => `${author.given} ${author.family}`) || [])
+        ];
+        
+        return fields.filter(Boolean).join(' ');
     }
 
     processPendingQueries() {
@@ -170,57 +282,105 @@ class PhraiseSearch {
         }
     }
 
+    showError(message) {
+        const errorDiv = document.getElementById('error-message') || this.createMessageDiv('error');
+        errorDiv.textContent = message;
+        errorDiv.style.display = 'block';
+        
+        // Cacher après 5 secondes
+        setTimeout(() => {
+            errorDiv.style.display = 'none';
+        }, 5000);
+    }
+
+    showWarning(message) {
+        const warningDiv = document.getElementById('warning-message') || this.createMessageDiv('warning');
+        warningDiv.textContent = message;
+        warningDiv.style.display = 'block';
+    }
+
+    createMessageDiv(type) {
+        const div = document.createElement('div');
+        div.id = `${type}-message`;
+        div.className = `message ${type}-message`;
+        document.getElementById('search-container').prepend(div);
+        return div;
+    }
+
+    generateHash(str) {
+        let hash = 0;
+        for (let i = 0; i < str.length; i++) {
+            hash = ((hash << 5) - hash) + str.charCodeAt(i);
+            hash |= 0;
+        }
+        return hash.toString();
+    }
+
     displayResults(results, query) {
         const resultsContainer = document.getElementById('search-results');
         if (!resultsContainer) return;
 
+        // Cacher les messages
+        this.hideMessages();
 
-        // Mettre à jour le compteur de résultats
         const resultCount = document.getElementById('result-count');
         if (resultCount) {
             if (!query || query.length < 2) {
-                resultCount.textContent = 'Please enter at least two caracters';
+                resultCount.textContent = 'Please enter at least two characters';
+                resultsContainer.innerHTML = '';
                 return;
             }
             if (results.length === 0) {
                 resultCount.textContent = 'No result found for "' + this.escapeHtml(query) + '"';
+                resultsContainer.innerHTML = '';
                 return;
             } else {
                 resultCount.textContent = `${results.length} matching item(s)`;
                 if (results.length === 50) {
-                    resultCount.textContent += `( limited to 50 results!)`;
+                    resultCount.textContent += ` (limited to 50 results)`;
                 }
             }
         }
 
         resultsContainer.innerHTML = results.map(result => `
-              <span class="post-meta">
-                <h3><a class="post-link" href="../${result.permalink}">${this.highlightText(result.title, query)}</a></h3>
-                
-                ${result.authors.length > 0 ? `
-                    <p><strong>Authors:</strong> ${this.highlightText(this.formatAuthors(result.authors), query)}</p>
-                ` : ''}
-                
-                ${result.journal ? `<p><strong>Journal:</strong> ${this.highlightText(result.journal, query)}</p>` : ''}
-                
-                ${result.year ? `<p><strong>Year:</strong> ${result.year}</p>` : ''}
-                
-                ${result.abstract && result.abstract !== 'No  available' ? `
-                    <p><strong>Abstract:</strong> ${this.highlightText(result.abstract, query)}</p>
-                ` : ''}
-                
-                ${result.keywords && result.keywords !== '' ? `
-                    <p><strong>Keywords:</strong> ${this.highlightText(result.keywords, query)}</p>
-                ` : ''}
-                
-                ${result.doi ? `
-                    <p><strong>DOI:</strong> 
-                        <a href="https://doi.org/${result.doi}" target="_blank" class="doi-link">
-                            ${result.doi}
-                        </a>
-                    </p>
-                ` : ''}
-        `).join('<hr />');
+            <div class="search-result">
+                <span class="post-meta">
+                    <h3><a class="post-link" href="../${result.permalink}">${this.highlightText(result.title, query)}</a></h3>
+                    
+                    ${result.authors.length > 0 ? `
+                        <p><strong>Authors:</strong> ${this.highlightText(this.formatAuthors(result.authors), query)}</p>
+                    ` : ''}
+                    
+                    ${result.journal ? `<p><strong>Journal:</strong> ${this.highlightText(result.journal, query)}</p>` : ''}
+                    
+                    ${result.year ? `<p><strong>Year:</strong> ${result.year}</p>` : ''}
+                    
+                    ${result.abstract && result.abstract !== 'No  available' ? `
+                        <p><strong>Abstract:</strong> ${this.highlightText(result.abstract, query)}</p>
+                    ` : ''}
+                    
+                    ${result.keywords && result.keywords !== '' ? `
+                        <p><strong>Keywords:</strong> ${this.highlightText(result.keywords, query)}</p>
+                    ` : ''}
+                    
+                    ${result.doi ? `
+                        <p><strong>DOI:</strong> 
+                            <a href="https://doi.org/${result.doi}" target="_blank" class="doi-link">
+                                ${result.doi}
+                            </a>
+                        </p>
+                    ` : ''}
+                </span>
+            </div>
+            <hr />
+        `).join('');
+    }
+
+    hideMessages() {
+        ['error', 'warning'].forEach(type => {
+            const element = document.getElementById(`${type}-message`);
+            if (element) element.style.display = 'none';
+        });
     }
 
     formatAuthors(authors) {
@@ -249,11 +409,6 @@ class PhraiseSearch {
     escapeRegex(string) {
         return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     }
-
-    truncateText(text, length) {
-        if (text.length <= length) return text;
-        return text.substring(0, length) + '...';
-    }
 }
 
 // Initialisation
@@ -268,24 +423,8 @@ document.addEventListener('DOMContentLoaded', function() {
     resultCount.textContent = 'Waiting for input...';
     resultCount.style.display = 'none';
     
-    // Bouton de rafraîchissement manuel
-    const refreshBtn = document.createElement('button');
-    refreshBtn.textContent = 'Reload database';
-    refreshBtn.id = 'refresh-btn';
-    refreshBtn.className = 'refresh-btn';
-    refreshBtn.title = 'Reload database';
-    refreshBtn.addEventListener('click', () => {
-        localStorage.removeItem('phraise_biblio_cache');
-        document.getElementById('loading').style.display = 'block';
-        document.getElementById('loading').textContent = 'Reloading database...';
-        resultCount.style.display = 'none';
-        search.isDataLoaded = false;
-        search.loadDataWithCache();
-    });
-    
     if (searchInput) {
         const searchContainer = searchInput.parentNode;
-        searchContainer.appendChild(refreshBtn);
         searchContainer.insertBefore(resultCount, searchInput.nextSibling);
         
         searchInput.addEventListener('input', function(e) {
@@ -295,7 +434,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 300);
         });
 
-        // Recherche aussi avec le bouton Entrée
         searchInput.addEventListener('keypress', function(e) {
             if (e.key === 'Enter') {
                 clearTimeout(timeout);
