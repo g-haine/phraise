@@ -17,7 +17,7 @@ slugify () {
     sed -E 's/^-+|-+$//g'
 }
 
-# Une fonctione qui récupère le bibtex et le formatte depuis crossref
+# Une fonctione qui récupère le bibtex et le formatte
 print_bib () {
     local doi=$1
     local bibfile=$2

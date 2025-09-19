@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2429 authors referenced.</h3>
+<h3>There are 2432 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -190,6 +190,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/a-d-bensalah'>A-D. Bensalah</a>
 <a href='{{ site.baseurl }}/authors/brahim-berbaoui'>Brahim Berbaoui</a>
 <a href='{{ site.baseurl }}/authors/jordan-m-berg'>Jordan M. Berg</a>
+<a href='{{ site.baseurl }}/authors/thomas-berger'>Thomas Berger</a>
 <a href='{{ site.baseurl }}/authors/gilbert-bergna-diaz'>Gilbert Bergna-Diaz</a>
 <a href='{{ site.baseurl }}/authors/gildas-besancon'>Gildas Besancon</a>
 <a href='{{ site.baseurl }}/authors/a-bestler'>A. Bestler</a>
@@ -798,6 +799,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/sandra-hirche'>Sandra Hirche</a>
 <a href='{{ site.baseurl }}/authors/h-hoang'>H. Hoang</a>
 <a href='{{ site.baseurl }}/authors/ngoc-ha-hoang'>Ngoc Ha Hoang</a>
+<a href='{{ site.baseurl }}/authors/rene-c-hochdahl'>René Hochdahl</a>
 <a href='{{ site.baseurl }}/authors/simon-hochgerner'>Simon Hochgerner</a>
 <a href='{{ site.baseurl }}/authors/k-hoffner'>K. Hoffner</a>
 <a href='{{ site.baseurl }}/authors/felix-hofmann'>Felix Hofmann</a>
@@ -1801,6 +1803,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/cristian-secchi'>Cristian Secchi</a>
 <a href='{{ site.baseurl }}/authors/stefan-seelecke'>Stefan Seelecke</a>
 <a href='{{ site.baseurl }}/authors/jacob-seidman'>Jacob Seidman</a>
+<a href='{{ site.baseurl }}/authors/robert-seifried'>Robert Seifried</a>
 <a href='{{ site.baseurl }}/authors/gokcen-devlet-sen'>Gökçen Devlet Şen</a>
 <a href='{{ site.baseurl }}/authors/alexander-v-sergienko'>Alexander V. Sergienko</a>
 <a href='{{ site.baseurl }}/authors/delgado-l-sergio'>Delgado L. Sergio</a>
