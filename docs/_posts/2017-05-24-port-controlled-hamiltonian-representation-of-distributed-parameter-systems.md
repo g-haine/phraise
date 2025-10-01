@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Controlled Hamiltonian Representation of Distributed Parameter Systems"
 date: 2017-05-24 00:00:00 +0100
 permalink: port-controlled-hamiltonian-representation-of-distributed-parameter-systems

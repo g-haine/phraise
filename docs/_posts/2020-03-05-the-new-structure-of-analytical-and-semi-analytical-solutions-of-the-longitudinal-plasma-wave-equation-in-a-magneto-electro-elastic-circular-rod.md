@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The new structure of analytical and semi-analytical solutions of the longitudinal plasma wave equation in a magneto-electro-elastic circular rod"
 date: 2020-03-05 00:00:00 +0100
 permalink: the-new-structure-of-analytical-and-semi-analytical-solutions-of-the-longitudinal-plasma-wave-equation-in-a-magneto-electro-elastic-circular-rod

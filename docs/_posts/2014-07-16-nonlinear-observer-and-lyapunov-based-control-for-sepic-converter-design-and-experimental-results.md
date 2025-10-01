@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear observer and Lyapunov-based control for SEPIC converter: design and experimental results"
 date: 2014-07-16 00:00:00 +0100
 permalink: nonlinear-observer-and-lyapunov-based-control-for-sepic-converter-design-and-experimental-results

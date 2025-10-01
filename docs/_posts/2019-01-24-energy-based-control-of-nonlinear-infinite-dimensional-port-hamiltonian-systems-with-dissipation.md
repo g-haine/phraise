@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based Control of Nonlinear Infinite-Dimensional Port-Hamiltonian Systems with Dissipation"
 date: 2019-01-24 00:00:00 +0100
 permalink: energy-based-control-of-nonlinear-infinite-dimensional-port-hamiltonian-systems-with-dissipation

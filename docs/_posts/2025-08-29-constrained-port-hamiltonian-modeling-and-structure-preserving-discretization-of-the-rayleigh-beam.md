@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Constrained port-Hamiltonian modeling and structure-preserving discretization of the Rayleigh beam"
 date: 2025-08-29 00:00:00 +0100
 permalink: constrained-port-hamiltonian-modeling-and-structure-preserving-discretization-of-the-rayleigh-beam

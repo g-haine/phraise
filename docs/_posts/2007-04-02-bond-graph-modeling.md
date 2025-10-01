@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bond-graph modeling"
 date: 2007-04-02 00:00:00 +0100
 permalink: bond-graph-modeling

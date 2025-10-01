@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nandish Calchand
 permalink: /authors/nandish-calchand
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianghao Chen
 permalink: /authors/jianghao-chen
 ---

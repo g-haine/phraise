@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PMSM Control with Port-Controlled Hamiltonian Theory"
 date: 2006-10-24 00:00:00 +0100
 permalink: pmsm-control-with-port-controlled-hamiltonian-theory

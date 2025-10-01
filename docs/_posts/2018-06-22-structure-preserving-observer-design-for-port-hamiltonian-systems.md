@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure Preserving Observer Design for Port-Hamiltonian Systems"
 date: 2018-06-22 00:00:00 +0100
 permalink: structure-preserving-observer-design-for-port-hamiltonian-systems

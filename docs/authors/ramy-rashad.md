@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ramy Rashad
 permalink: /authors/ramy-rashad
 ---

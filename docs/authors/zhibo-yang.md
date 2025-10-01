@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhibo Yang
 permalink: /authors/zhibo-yang
 ---

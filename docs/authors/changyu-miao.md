@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Changyu Miao
 permalink: /authors/changyu-miao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zeev Kustanovich
 permalink: /authors/zeev-kustanovich
 ---

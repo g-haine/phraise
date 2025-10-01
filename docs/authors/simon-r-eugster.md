@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Simon R. Eugster
 permalink: /authors/simon-r-eugster
 ---

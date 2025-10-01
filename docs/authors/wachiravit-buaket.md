@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wachiravit Buaket
 permalink: /authors/wachiravit-buaket
 ---

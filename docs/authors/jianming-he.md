@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianming He
 permalink: /authors/jianming-he
 ---

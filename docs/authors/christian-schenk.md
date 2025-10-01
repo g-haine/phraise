@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Schenk
 permalink: /authors/christian-schenk
 ---

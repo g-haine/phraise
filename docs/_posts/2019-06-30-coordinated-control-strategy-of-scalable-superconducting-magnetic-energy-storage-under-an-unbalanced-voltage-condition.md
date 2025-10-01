@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coordinated‐control strategy of scalable superconducting magnetic energy storage under an unbalanced voltage condition"
 date: 2019-06-30 00:00:00 +0100
 permalink: coordinated-control-strategy-of-scalable-superconducting-magnetic-energy-storage-under-an-unbalanced-voltage-condition

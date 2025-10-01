@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wei Wei
 permalink: /authors/wei-wei
 ---

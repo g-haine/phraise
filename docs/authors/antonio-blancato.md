@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antonio Blancato
 permalink: /authors/antonio-blancato
 ---

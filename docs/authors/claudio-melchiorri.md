@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Claudio Melchiorri
 permalink: /authors/claudio-melchiorri
 ---

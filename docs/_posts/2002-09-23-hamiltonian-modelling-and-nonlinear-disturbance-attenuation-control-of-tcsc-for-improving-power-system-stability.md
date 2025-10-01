@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian modelling and nonlinear disturbance attenuation control of TCSC for improving power system stability"
 date: 2002-09-23 00:00:00 +0100
 permalink: hamiltonian-modelling-and-nonlinear-disturbance-attenuation-control-of-tcsc-for-improving-power-system-stability

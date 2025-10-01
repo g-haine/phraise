@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling of the human middle ear via the Port Hamiltonian approach"
 date: 2021-12-16 00:00:00 +0100
 permalink: modelling-of-the-human-middle-ear-via-the-port-hamiltonian-approach

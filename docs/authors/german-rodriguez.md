@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by German Rodriguez
 permalink: /authors/german-rodriguez
 ---

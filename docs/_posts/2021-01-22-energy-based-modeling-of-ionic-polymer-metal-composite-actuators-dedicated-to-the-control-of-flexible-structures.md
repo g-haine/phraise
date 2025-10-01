@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based Modeling of Ionic Polymer–Metal Composite Actuators Dedicated to the Control of Flexible Structures"
 date: 2021-01-22 00:00:00 +0100
 permalink: energy-based-modeling-of-ionic-polymer-metal-composite-actuators-dedicated-to-the-control-of-flexible-structures

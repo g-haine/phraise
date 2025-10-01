@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luis A. Mora
 permalink: /authors/luis-a-mora
 ---

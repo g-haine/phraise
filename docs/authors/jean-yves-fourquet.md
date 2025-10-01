@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean-Yves Fourquet
 permalink: /authors/jean-yves-fourquet
 ---

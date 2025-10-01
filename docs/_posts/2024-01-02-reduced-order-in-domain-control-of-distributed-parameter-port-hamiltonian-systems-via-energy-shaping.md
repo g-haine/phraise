@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reduced order in domain control of distributed parameter port-Hamiltonian systems via energy shaping"
 date: 2024-01-02 00:00:00 +0100
 permalink: reduced-order-in-domain-control-of-distributed-parameter-port-hamiltonian-systems-via-energy-shaping

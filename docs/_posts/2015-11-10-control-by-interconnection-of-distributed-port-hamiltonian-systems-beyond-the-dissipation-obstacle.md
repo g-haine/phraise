@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control by Interconnection of Distributed Port-Hamiltonian Systems Beyond the Dissipation Obstacle"
 date: 2015-11-10 00:00:00 +0100
 permalink: control-by-interconnection-of-distributed-port-hamiltonian-systems-beyond-the-dissipation-obstacle

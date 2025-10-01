@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vincent Duindam
 permalink: /authors/vincent-duindam
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lijun Zhang
 permalink: /authors/lijun-zhang
 ---

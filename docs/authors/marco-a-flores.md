@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marco A. Flores
 permalink: /authors/marco-a-flores
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete-Time Port-Hamiltonian Systems for Power and Energy Applications"
 date: 2024-09-25 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-for-power-and-energy-applications

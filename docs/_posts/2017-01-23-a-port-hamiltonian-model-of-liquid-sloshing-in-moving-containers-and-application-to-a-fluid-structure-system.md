@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian model of liquid sloshing in moving containers and application to a fluid-structure system"
 date: 2017-01-23 00:00:00 +0100
 permalink: a-port-hamiltonian-model-of-liquid-sloshing-in-moving-containers-and-application-to-a-fluid-structure-system

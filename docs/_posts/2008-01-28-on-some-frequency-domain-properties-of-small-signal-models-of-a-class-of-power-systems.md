@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On some frequency domain properties of small signal models of a class of power systems"
 date: 2008-01-28 00:00:00 +0100
 permalink: on-some-frequency-domain-properties-of-small-signal-models-of-a-class-of-power-systems

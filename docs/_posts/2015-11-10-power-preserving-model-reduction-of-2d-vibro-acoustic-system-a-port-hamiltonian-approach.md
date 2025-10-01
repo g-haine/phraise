@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power preserving model reduction of 2D vibro-acoustic system: A port Hamiltonian approach"
 date: 2015-11-10 00:00:00 +0100
 permalink: power-preserving-model-reduction-of-2d-vibro-acoustic-system-a-port-hamiltonian-approach

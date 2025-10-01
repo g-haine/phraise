@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhongliang Li
 permalink: /authors/zhongliang-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dunstano del Puerto-Flores
 permalink: /authors/dunstano-del-puerto-flores
 ---

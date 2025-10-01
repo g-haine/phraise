@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mehmet Erbay
 permalink: /authors/mehmet-erbay
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yoan Civet
 permalink: /authors/yoan-civet
 ---

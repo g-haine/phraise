@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian Approach to Control DC-DC Power Converters"
 date: 2017-10-06 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-control-dc-dc-power-converters

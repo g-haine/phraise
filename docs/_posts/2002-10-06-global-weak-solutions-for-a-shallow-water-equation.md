@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global Weak Solutions for a Shallow Water Equation"
 date: 2002-10-06 00:00:00 +0100
 permalink: global-weak-solutions-for-a-shallow-water-equation

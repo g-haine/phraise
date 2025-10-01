@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jesus-Pablo Toledo-Zucco
 permalink: /authors/jesus-pablo-toledo-zucco
 ---

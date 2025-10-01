@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by E García-Toraño Andrés
 permalink: /authors/e-garcia-torano-andres
 ---

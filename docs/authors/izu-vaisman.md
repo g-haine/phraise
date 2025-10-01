@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Izu Vaisman
 permalink: /authors/izu-vaisman
 ---

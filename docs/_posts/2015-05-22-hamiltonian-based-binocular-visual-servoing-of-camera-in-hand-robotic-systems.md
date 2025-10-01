@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian-based binocular visual servoing of camera-in-hand robotic systems"
 date: 2015-05-22 00:00:00 +0100
 permalink: hamiltonian-based-binocular-visual-servoing-of-camera-in-hand-robotic-systems

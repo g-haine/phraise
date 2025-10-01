@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xuejun Shen
 permalink: /authors/xuejun-shen
 ---

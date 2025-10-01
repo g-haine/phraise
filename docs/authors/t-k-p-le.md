@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T.K.P. Le
 permalink: /authors/t-k-p-le
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuang Feng
 permalink: /authors/shuang-feng
 ---

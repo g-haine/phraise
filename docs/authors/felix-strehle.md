@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Felix Strehle
 permalink: /authors/felix-strehle
 ---

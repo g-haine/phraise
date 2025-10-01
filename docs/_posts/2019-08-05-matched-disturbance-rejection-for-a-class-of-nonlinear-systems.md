@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Matched Disturbance Rejection for a Class of Nonlinear Systems"
 date: 2019-08-05 00:00:00 +0100
 permalink: matched-disturbance-rejection-for-a-class-of-nonlinear-systems

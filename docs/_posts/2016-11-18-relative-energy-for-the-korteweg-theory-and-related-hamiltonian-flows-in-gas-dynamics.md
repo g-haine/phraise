@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Relative Energy for the Korteweg Theory and Related Hamiltonian Flows in Gas Dynamics"
 date: 2016-11-18 00:00:00 +0100
 permalink: relative-energy-for-the-korteweg-theory-and-related-hamiltonian-flows-in-gas-dynamics

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yan Gao
 permalink: /authors/yan-gao
 ---

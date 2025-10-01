@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by John D. Pryce
 permalink: /authors/john-d-pryce
 ---

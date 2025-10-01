@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-optimal control of adaptive structures"
 date: 2024-01-27 00:00:00 +0100
 permalink: energy-optimal-control-of-adaptive-structures

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marie-Line Zanota
 permalink: /authors/marie-line-zanota
 ---

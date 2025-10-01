@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling of ideal fluid flow: Part I. Foundations and kinetic energy"
 date: 2021-03-07 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-ideal-fluid-flow-part-i-foundations-and-kinetic-energy

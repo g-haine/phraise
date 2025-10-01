@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rob Reilink
 permalink: /authors/rob-reilink
 ---

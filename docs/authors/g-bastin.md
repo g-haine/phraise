@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by G. Bastin
 permalink: /authors/g-bastin
 ---

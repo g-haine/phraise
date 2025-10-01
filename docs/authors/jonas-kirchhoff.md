@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jonas Kirchhoff
 permalink: /authors/jonas-kirchhoff
 ---

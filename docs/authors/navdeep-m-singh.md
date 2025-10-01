@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Navdeep M. Singh
 permalink: /authors/navdeep-m-singh
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Diogo J.F. Reis
 permalink: /authors/diogo-j-f-reis
 ---

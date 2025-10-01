@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling of Multi Terminal VSC-HVDC links using port-Hamiltonian Systems"
 date: 2023-01-16 00:00:00 +0100
 permalink: modeling-of-multi-terminal-vsc-hvdc-links-using-port-hamiltonian-systems

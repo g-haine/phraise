@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fourth‐order force‐gradient splitting for linear port‐Hamiltonian systems"
 date: 2024-10-07 00:00:00 +0100
 permalink: fourth-order-force-gradient-splitting-for-linear-port-hamiltonian-systems

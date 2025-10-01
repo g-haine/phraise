@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qing-Chang Zhong
 permalink: /authors/qing-chang-zhong
 ---

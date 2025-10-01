@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary L&lt;inf&gt;2&lt;/inf&gt;-gain stabilisation of a distributed Port-Hamiltonian system with rectangular domain"
 date: 2016-02-29 00:00:00 +0100
 permalink: boundary-l-lt-inf-gt-2-lt-inf-gt-gain-stabilisation-of-a-distributed-port-hamiltonian-system-with-rectangular-domain

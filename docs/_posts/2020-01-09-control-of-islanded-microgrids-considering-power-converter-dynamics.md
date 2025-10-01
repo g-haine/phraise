@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of islanded microgrids considering power converter dynamics"
 date: 2020-01-09 00:00:00 +0100
 permalink: control-of-islanded-microgrids-considering-power-converter-dynamics

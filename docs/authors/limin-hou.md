@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Limin Hou
 permalink: /authors/limin-hou
 ---

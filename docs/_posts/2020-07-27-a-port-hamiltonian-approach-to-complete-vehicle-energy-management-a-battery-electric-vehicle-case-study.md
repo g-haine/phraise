@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian Approach to Complete Vehicle Energy Management: A Battery Electric Vehicle Case Study"
 date: 2020-07-27 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-complete-vehicle-energy-management-a-battery-electric-vehicle-case-study

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Evgeni Il’ichev
 permalink: /authors/evgeni-il-ichev
 ---

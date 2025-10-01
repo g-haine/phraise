@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Narayan Rangaraj
 permalink: /authors/narayan-rangaraj
 ---

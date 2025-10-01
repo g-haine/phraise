@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Controlled Hamiltonian and Sliding Mode Control of Gantry Robot Based on Induction Motor Drives"
 date: 2018-08-07 00:00:00 +0100
 permalink: port-controlled-hamiltonian-and-sliding-mode-control-of-gantry-robot-based-on-induction-motor-drives

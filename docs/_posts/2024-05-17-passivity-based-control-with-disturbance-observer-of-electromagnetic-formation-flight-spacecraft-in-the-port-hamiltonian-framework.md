@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control with Disturbance Observer of Electromagnetic Formation Flight Spacecraft in the Port-Hamiltonian Framework"
 date: 2024-05-17 00:00:00 +0100
 permalink: passivity-based-control-with-disturbance-observer-of-electromagnetic-formation-flight-spacecraft-in-the-port-hamiltonian-framework

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Distributed Event-Triggered Flocking Control of Port-Hamiltonian Systems"
 date: 2025-05-20 00:00:00 +0100
 permalink: passivity-based-distributed-event-triggered-flocking-control-of-port-hamiltonian-systems

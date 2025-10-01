@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Zur Erhaltung von Struktur und Flachheit bei der torbasierten Ortsdiskretisierung"
 date: 2018-07-14 00:00:00 +0100
 permalink: zur-erhaltung-von-struktur-und-flachheit-bei-der-torbasierten-ortsdiskretisierung

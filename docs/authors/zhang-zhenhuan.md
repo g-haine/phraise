@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhang Zhenhuan
 permalink: /authors/zhang-zhenhuan
 ---

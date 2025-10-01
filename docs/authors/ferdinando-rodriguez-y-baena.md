@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ferdinando Rodriguez y Baena
 permalink: /authors/ferdinando-rodriguez-y-baena
 ---

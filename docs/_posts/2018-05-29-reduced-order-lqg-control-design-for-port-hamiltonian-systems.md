@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reduced order LQG control design for port Hamiltonian systems"
 date: 2018-05-29 00:00:00 +0100
 permalink: reduced-order-lqg-control-design-for-port-hamiltonian-systems

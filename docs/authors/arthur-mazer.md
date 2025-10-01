@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arthur Mazer
 permalink: /authors/arthur-mazer
 ---

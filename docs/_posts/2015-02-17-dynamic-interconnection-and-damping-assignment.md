@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic Interconnection and Damping Assignment"
 date: 2015-02-17 00:00:00 +0100
 permalink: dynamic-interconnection-and-damping-assignment

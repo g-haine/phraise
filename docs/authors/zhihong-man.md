@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhihong Man
 permalink: /authors/zhihong-man
 ---

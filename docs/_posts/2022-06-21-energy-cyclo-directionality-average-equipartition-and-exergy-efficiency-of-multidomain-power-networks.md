@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Cyclo-Directionality, Average Equipartition and Exergy Efficiency of Multidomain Power Networks"
 date: 2022-06-21 00:00:00 +0100
 permalink: energy-cyclo-directionality-average-equipartition-and-exergy-efficiency-of-multidomain-power-networks

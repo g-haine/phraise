@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking-error-based control of a chemical reactor using decoupled dynamic variables"
 date: 2019-08-23 00:00:00 +0100
 permalink: tracking-error-based-control-of-a-chemical-reactor-using-decoupled-dynamic-variables

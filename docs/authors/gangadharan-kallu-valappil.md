@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gangadharan Kallu Valappil
 permalink: /authors/gangadharan-kallu-valappil
 ---

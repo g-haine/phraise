@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luis J. Yebra
 permalink: /authors/luis-j-yebra
 ---

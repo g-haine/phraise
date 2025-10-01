@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PI Passivity-Based Control and Performance Analysis of MMC Multiterminal HVDC Systems"
 date: 2018-12-21 00:00:00 +0100
 permalink: pi-passivity-based-control-and-performance-analysis-of-mmc-multiterminal-hvdc-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simultaneous stabilization of Port-Hamiltonian systems subject to actuation saturation and input delay"
 date: 2015-11-06 00:00:00 +0100
 permalink: simultaneous-stabilization-of-port-hamiltonian-systems-subject-to-actuation-saturation-and-input-delay

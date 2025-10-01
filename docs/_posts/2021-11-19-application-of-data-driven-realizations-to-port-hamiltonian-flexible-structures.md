@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Application of data-driven realizations to port-Hamiltonian flexible structures"
 date: 2021-11-19 00:00:00 +0100
 permalink: application-of-data-driven-realizations-to-port-hamiltonian-flexible-structures

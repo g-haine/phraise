@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shangzhi Pan
 permalink: /authors/shangzhi-pan
 ---

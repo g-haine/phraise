@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuki IWAMOTO
 permalink: /authors/yuki-iwamoto
 ---

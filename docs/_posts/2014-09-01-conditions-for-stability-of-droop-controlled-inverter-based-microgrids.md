@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Conditions for stability of droop-controlled inverter-based microgrids"
 date: 2014-09-01 00:00:00 +0100
 permalink: conditions-for-stability-of-droop-controlled-inverter-based-microgrids
@@ -90,7 +89,7 @@ Microgrid control; Microgrid stability; Smart grid applications; Inverters; Droo
 - Schiffer, J., Goldin, D., Raisch, J. & Sezi, T. Synchronization of droop-controlled microgrids with distributed rotational and electronic generation. 52nd IEEE Conference on Decision and Control 2334–2339 (2013) doi:10.1109/cdc.2013.6760229 -- [10.1109/cdc.2013.6760229](https://doi.org/10.1109/cdc.2013.6760229)
 - Schiffer, J., Ortega, R., Astolfi, A., Raisch, J. & Sezi, T. Stability of Synchronized Motions of Inverter–Based Microgrids Under Droop Control. IFAC Proceedings Volumes vol. 47 6361–6367 (2014) -- [10.3182/20140824-6-za-1003.00863](https://doi.org/10.3182/20140824-6-za-1003.00863)
 - Simpson-Porco, J. W., Dörfler, F. & Bullo, F. Synchronization and power sharing for droop-controlled inverters in islanded microgrids. Automatica vol. 49 2603–2611 (2013) -- [10.1016/j.automatica.2013.05.018](https://doi.org/10.1016/j.automatica.2013.05.018)
-- Simpson-Porco, J. W., Dorfler, F. & Bullo, F. Voltage stabilization in microgrids via quadratic droop control. 52nd IEEE Conference on Decision and Control 7582–7589 (2013) doi:10.1109/cdc.2013.6761093 -- [10.1109/cdc.2013.6761093](https://doi.org/10.1109/cdc.2013.6761093)
+- [Simpson-Porco, J. W., Dorfler, F. & Bullo, F. Voltage stabilization in microgrids via quadratic droop control. 52nd IEEE Conference on Decision and Control 7582–7589 (2013) doi:10.1109/cdc.2013.6761093](voltage-stabilization-in-microgrids-via-quadratic-droop-control) -- [10.1109/cdc.2013.6761093](https://doi.org/10.1109/cdc.2013.6761093)
 - Soultanis, N. L., Papathanasiou, S. A. & Hatziargyriou, N. D. A Stability Algorithm for the Dynamic Analysis of Inverter Dominated Unbalanced LV Microgrids. IEEE Transactions on Power Systems vol. 22 294–304 (2007) -- [10.1109/tpwrs.2006.887961](https://doi.org/10.1109/tpwrs.2006.887961)
 - van der Schaft, (2000)
 - Varaiya, P., Wu, F. F. & Rong-Liang Chen. Direct methods for transient stability analysis of power systems: Recent results. Proceedings of the IEEE vol. 73 1703–1715 (1985) -- [10.1109/proc.1985.13366](https://doi.org/10.1109/proc.1985.13366)

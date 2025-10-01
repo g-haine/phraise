@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Punit Sharma
 permalink: /authors/punit-sharma
 ---

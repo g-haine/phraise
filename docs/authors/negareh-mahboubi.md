@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Negareh Mahboubi
 permalink: /authors/negareh-mahboubi
 ---

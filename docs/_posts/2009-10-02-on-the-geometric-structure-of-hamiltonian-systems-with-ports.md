@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Geometric Structure of Hamiltonian Systems with Ports"
 date: 2009-10-02 00:00:00 +0100
 permalink: on-the-geometric-structure-of-hamiltonian-systems-with-ports

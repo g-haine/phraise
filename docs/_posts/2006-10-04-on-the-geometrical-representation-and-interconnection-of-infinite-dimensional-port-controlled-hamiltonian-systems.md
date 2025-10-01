@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the geometrical representation and interconnection of infinite dimensional port controlled Hamiltonian systems"
 date: 2006-10-04 00:00:00 +0100
 permalink: on-the-geometrical-representation-and-interconnection-of-infinite-dimensional-port-controlled-hamiltonian-systems

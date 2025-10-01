@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Passivity-Based Control on SE(3) of a Fully Actuated UAV for Aerial Physical Interaction Near-Hovering"
 date: 2019-08-02 00:00:00 +0100
 permalink: port-hamiltonian-passivity-based-control-on-se-3-of-a-fully-actuated-uav-for-aerial-physical-interaction-near-hovering

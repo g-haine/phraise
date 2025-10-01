@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PT-Symmetric CLLC Coreless Transformer With Magnetic Potential Balance"
 date: 2024-01-25 00:00:00 +0100
 permalink: pt-symmetric-cllc-coreless-transformer-with-magnetic-potential-balance

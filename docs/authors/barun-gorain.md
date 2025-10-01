@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Barun Gorain
 permalink: /authors/barun-gorain
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling and structure-preserving discretization of Maxwell’s equations as port-Hamiltonian system"
 date: 2021-04-15 00:00:00 +0100
 permalink: modelling-and-structure-preserving-discretization-of-maxwell-s-equations-as-port-hamiltonian-system

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiayi Liu
 permalink: /authors/jiayi-liu
 ---

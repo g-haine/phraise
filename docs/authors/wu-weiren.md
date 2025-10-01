@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by WU WeiRen
 permalink: /authors/wu-weiren
 ---

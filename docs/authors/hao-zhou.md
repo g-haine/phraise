@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hao Zhou
 permalink: /authors/hao-zhou
 ---

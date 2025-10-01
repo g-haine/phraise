@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Romeo Ortega
 permalink: /authors/romeo-ortega
 ---
@@ -15,6 +14,7 @@ permalink: /authors/romeo-ortega
 <li><span class='post-meta'>2020 -- Joel Ferguson, Alejandro Donaire, Romeo Ortega, Richard H. Middleton</span><h3><a class='post-link' href="{{ site.baseurl }}/matched-disturbance-rejection-for-a-class-of-nonlinear-systems">Matched Disturbance Rejection for a Class of Nonlinear Systems</a></h3></li>
 <li><span class='post-meta'>2019 -- Gilbert Bergna-Diaz, Daniele Zonetti, Santiago Sanchez, Romeo Ortega, Elisabetta Tedeschi</span><h3><a class='post-link' href="{{ site.baseurl }}/pi-passivity-based-control-and-performance-analysis-of-mmc-multiterminal-hvdc-systems">PI Passivity-Based Control and Performance Analysis of MMC Multiterminal HVDC Systems</a></h3></li>
 <li><span class='post-meta'>2019 -- Nima Monshizadeh, Pooya Monshizadeh, Romeo Ortega, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/conditions-on-shifted-passivity-of-port-hamiltonian-systems">Conditions on shifted passivity of port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2009 -- Fernando Castanos, Romeo Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-balancing-passivity-based-control-is-equivalent-to-dissipation-and-output-invariance0">Energy-balancing passivity-based control is equivalent to dissipation and output invariance</a></h3></li>
 <li><span class='post-meta'>2018 -- Joel Ferguson, Alejandro Donaire, Romeo Ortega, Richard H. Middleton</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-integral-action-of-port-hamiltonian-systems">Robust integral action of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2018 -- Pablo Borja, Romeo Ortega, Emmanuel Nuño</span><h3><a class='post-link' href="{{ site.baseurl }}/new-results-on-pid-passivity-based-controllers-for-port-hamiltonian-systems">New results on PID passivity-based controllers for port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2004 -- J.A. Acosta, R. Ortega, A. Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/interconnection-and-damping-assignment-passivity-based-control-of-mechanical-systems-with-underactuation-degree-one">Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one</a></h3></li>

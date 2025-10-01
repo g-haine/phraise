@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Discrete-Time Formulation of Nonlinear Distributed-Parameter Port-Hamiltonian Systems"
 date: 2024-05-23 00:00:00 +0100
 permalink: a-discrete-time-formulation-of-nonlinear-distributed-parameter-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Remarks on the geometric structure of port-Hamiltonian systems"
 date: 2024-09-25 00:00:00 +0100
 permalink: remarks-on-the-geometric-structure-of-port-hamiltonian-systems

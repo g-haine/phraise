@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Renming Yang
 permalink: /authors/renming-yang
 ---

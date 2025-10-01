@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Locally Fixed-Time Stabilization and \\\\( H_{\\infty} \\\\) Control for Memristive Port-Controlled Hamiltonian Systems"
 date: 2021-12-09 00:00:00 +0100
 permalink: locally-fixed-time-stabilization-and-h-infty-control-for-memristive-port-controlled-hamiltonian-systems

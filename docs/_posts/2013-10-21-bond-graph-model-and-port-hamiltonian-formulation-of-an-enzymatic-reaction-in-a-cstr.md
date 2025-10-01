@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bond graph model and Port-Hamiltonian formulation of an enzymatic reaction in a CSTR"
 date: 2013-10-21 00:00:00 +0100
 permalink: bond-graph-model-and-port-hamiltonian-formulation-of-an-enzymatic-reaction-in-a-cstr

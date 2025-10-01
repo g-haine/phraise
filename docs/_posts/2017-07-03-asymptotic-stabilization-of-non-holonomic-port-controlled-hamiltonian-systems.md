@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic stabilization of non-holonomic port-controlled hamiltonian systems"
 date: 2017-07-03 00:00:00 +0100
 permalink: asymptotic-stabilization-of-non-holonomic-port-controlled-hamiltonian-systems

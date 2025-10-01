@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aslan Mojallal
 permalink: /authors/aslan-mojallal
 ---

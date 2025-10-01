@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipative and conservative structures for thermo-mechanical systems"
 date: 2015-09-25 00:00:00 +0100
 permalink: dissipative-and-conservative-structures-for-thermo-mechanical-systems

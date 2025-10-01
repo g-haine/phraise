@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tom Z. Jiahao
 permalink: /authors/tom-z-jiahao
 ---

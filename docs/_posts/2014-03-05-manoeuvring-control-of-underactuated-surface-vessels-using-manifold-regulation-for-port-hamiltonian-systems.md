@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Manoeuvring Control of Underactuated Surface Vessels using Manifold Regulation for Port-Hamiltonian Systems"
 date: 2014-03-05 00:00:00 +0100
 permalink: manoeuvring-control-of-underactuated-surface-vessels-using-manifold-regulation-for-port-hamiltonian-systems

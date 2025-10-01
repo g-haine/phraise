@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yan‐Hong Liu
 permalink: /authors/yan-hong-liu
 ---

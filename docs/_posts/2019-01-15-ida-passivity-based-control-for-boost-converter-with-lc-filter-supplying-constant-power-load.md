@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-Passivity-Based Control for Boost Converter with LC Filter Supplying Constant Power Load"
 date: 2019-01-15 00:00:00 +0100
 permalink: ida-passivity-based-control-for-boost-converter-with-lc-filter-supplying-constant-power-load

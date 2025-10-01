@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling Pedestrian Collective Dynamics with Port-Hamiltonian Systems"
 date: 2024-05-26 00:00:00 +0100
 permalink: modelling-pedestrian-collective-dynamics-with-port-hamiltonian-systems

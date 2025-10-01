@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential Stability of Heat Exchangers with Delayed Boundary Feedback"
 date: 2016-08-09 00:00:00 +0100
 permalink: exponential-stability-of-heat-exchangers-with-delayed-boundary-feedback

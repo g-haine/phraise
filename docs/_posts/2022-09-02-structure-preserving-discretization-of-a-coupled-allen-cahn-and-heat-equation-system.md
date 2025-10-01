@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving discretization of a coupled Allen-Cahn and heat equation system"
 date: 2022-09-02 00:00:00 +0100
 permalink: structure-preserving-discretization-of-a-coupled-allen-cahn-and-heat-equation-system

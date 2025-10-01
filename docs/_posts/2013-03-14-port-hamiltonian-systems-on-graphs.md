@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems on Graphs"
 date: 2013-03-14 00:00:00 +0100
 permalink: port-hamiltonian-systems-on-graphs

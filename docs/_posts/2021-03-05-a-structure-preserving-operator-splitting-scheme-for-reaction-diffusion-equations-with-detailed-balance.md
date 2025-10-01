@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A structure-preserving, operator splitting scheme for reaction-diffusion equations with detailed balance"
 date: 2021-03-05 00:00:00 +0100
 permalink: a-structure-preserving-operator-splitting-scheme-for-reaction-diffusion-equations-with-detailed-balance

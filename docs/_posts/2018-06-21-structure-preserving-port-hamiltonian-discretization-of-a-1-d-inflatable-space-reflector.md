@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure preserving port-Hamiltonian discretization of a 1-D inflatable space reflector"
 date: 2018-06-21 00:00:00 +0100
 permalink: structure-preserving-port-hamiltonian-discretization-of-a-1-d-inflatable-space-reflector

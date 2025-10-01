@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaobin Mu
 permalink: /authors/xiaobin-mu
 ---

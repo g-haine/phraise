@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohamed A. Mabrok
 permalink: /authors/mohamed-a-mabrok
 ---

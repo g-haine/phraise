@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P. Esquivel
 permalink: /authors/p-esquivel
 ---

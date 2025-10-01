@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pongsiri Mungporn
 permalink: /authors/pongsiri-mungporn
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hybrid optimal control with singular arcs for DC-DC power converters"
 date: 2014-03-13 00:00:00 +0100
 permalink: hybrid-optimal-control-with-singular-arcs-for-dc-dc-power-converters

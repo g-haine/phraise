@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic stabilization via control by interconnection of port-Hamiltonian systems"
 date: 2009-04-16 00:00:00 +0100
 permalink: asymptotic-stabilization-via-control-by-interconnection-of-port-hamiltonian-systems

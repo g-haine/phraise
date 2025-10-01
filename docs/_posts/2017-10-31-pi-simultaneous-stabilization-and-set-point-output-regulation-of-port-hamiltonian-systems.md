@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PI simultaneous stabilization and set-point output regulation of Port-Hamiltonian systems"
 date: 2017-10-31 00:00:00 +0100
 permalink: pi-simultaneous-stabilization-and-set-point-output-regulation-of-port-hamiltonian-systems

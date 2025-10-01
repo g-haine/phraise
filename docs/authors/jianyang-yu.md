@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianyang YU
 permalink: /authors/jianyang-yu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Snapshot-Based Model Reduction Under Compatibility Conditions for a Nonlinear Flow Problem on Networks"
 date: 2022-07-07 00:00:00 +0100
 permalink: on-snapshot-based-model-reduction-under-compatibility-conditions-for-a-nonlinear-flow-problem-on-networks

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulation and analysis of the LuGre friction model"
 date: 2009-01-20 00:00:00 +0100
 permalink: port-hamiltonian-formulation-and-analysis-of-the-lugre-friction-model

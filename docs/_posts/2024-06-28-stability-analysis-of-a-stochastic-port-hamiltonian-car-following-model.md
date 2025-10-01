@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability analysis of a stochastic port-Hamiltonian car-following model"
 date: 2024-06-28 00:00:00 +0100
 permalink: stability-analysis-of-a-stochastic-port-hamiltonian-car-following-model

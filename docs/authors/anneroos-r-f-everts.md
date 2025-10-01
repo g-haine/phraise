@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anneroos R.F. Everts
 permalink: /authors/anneroos-r-f-everts
 ---

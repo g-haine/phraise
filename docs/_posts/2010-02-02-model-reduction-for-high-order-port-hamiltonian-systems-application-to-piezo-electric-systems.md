@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model reduction for high-order port-Hamiltonian systems. Application to piezo-electric systems"
 date: 2010-02-02 00:00:00 +0100
 permalink: model-reduction-for-high-order-port-hamiltonian-systems-application-to-piezo-electric-systems

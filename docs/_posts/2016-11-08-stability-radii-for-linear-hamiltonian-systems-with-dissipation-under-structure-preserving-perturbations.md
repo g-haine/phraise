@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations"
 date: 2016-11-08 00:00:00 +0100
 permalink: stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations

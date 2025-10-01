@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luke Ma
 permalink: /authors/luke-ma
 ---

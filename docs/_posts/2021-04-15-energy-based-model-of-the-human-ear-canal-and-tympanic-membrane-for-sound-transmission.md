@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy based model of the human Ear canal and tympanic membrane for sound transmission"
 date: 2021-04-15 00:00:00 +0100
 permalink: energy-based-model-of-the-human-ear-canal-and-tympanic-membrane-for-sound-transmission

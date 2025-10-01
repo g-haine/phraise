@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abdelkrim Benchaib
 permalink: /authors/abdelkrim-benchaib
 ---

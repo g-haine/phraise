@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Felix L. Schwenninger
 permalink: /authors/felix-l-schwenninger
 ---

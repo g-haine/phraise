@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Communication algorithms on alternating group graphs"
 date: 2002-11-22 00:00:00 +0100
 permalink: communication-algorithms-on-alternating-group-graphs

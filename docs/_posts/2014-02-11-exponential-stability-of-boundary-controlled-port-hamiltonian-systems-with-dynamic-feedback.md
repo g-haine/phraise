@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential stability of boundary controlled port Hamiltonian systems with dynamic feedback"
 date: 2014-02-11 00:00:00 +0100
 permalink: exponential-stability-of-boundary-controlled-port-hamiltonian-systems-with-dynamic-feedback

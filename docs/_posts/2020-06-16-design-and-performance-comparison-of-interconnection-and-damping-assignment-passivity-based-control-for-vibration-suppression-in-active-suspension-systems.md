@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design and performance comparison of interconnection and damping assignment passivity-based control for vibration suppression in active suspension systems"
 date: 2020-06-16 00:00:00 +0100
 permalink: design-and-performance-comparison-of-interconnection-and-damping-assignment-passivity-based-control-for-vibration-suppression-in-active-suspension-systems

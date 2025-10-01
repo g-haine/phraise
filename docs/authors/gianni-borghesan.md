@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gianni Borghesan
 permalink: /authors/gianni-borghesan
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sam-Sang You
 permalink: /authors/sam-sang-you
 ---

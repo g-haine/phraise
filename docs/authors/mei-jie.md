@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by MEI Jie
 permalink: /authors/mei-jie
 ---

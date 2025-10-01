@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Study of Hamiltonian Energy Control of Multiphase Interleaved Fuel Cell Boost Converter"
 date: 2020-02-18 00:00:00 +0100
 permalink: study-of-hamiltonian-energy-control-of-multiphase-interleaved-fuel-cell-boost-converter

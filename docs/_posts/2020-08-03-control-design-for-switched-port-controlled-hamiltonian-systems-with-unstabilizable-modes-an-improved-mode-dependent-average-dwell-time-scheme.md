@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control design for switched port-controlled Hamiltonian systems with unstabilizable modes: An improved mode-dependent average dwell time scheme"
 date: 2020-08-03 00:00:00 +0100
 permalink: control-design-for-switched-port-controlled-hamiltonian-systems-with-unstabilizable-modes-an-improved-mode-dependent-average-dwell-time-scheme

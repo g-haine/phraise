@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Danwei Wang
 permalink: /authors/danwei-wang
 ---

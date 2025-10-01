@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Economic constrained optimization for power balancing in a DC microgrid: A multi-source elevator system application"
 date: 2019-12-24 00:00:00 +0100
 permalink: economic-constrained-optimization-for-power-balancing-in-a-dc-microgrid-a-multi-source-elevator-system-application

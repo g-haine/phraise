@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vincenzo Lippiello
 permalink: /authors/vincenzo-lippiello
 ---

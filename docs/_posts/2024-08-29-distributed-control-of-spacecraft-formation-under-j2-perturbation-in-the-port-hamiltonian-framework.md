@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed control of spacecraft formation under \\\\( J2 \\\\) perturbation in the port-Hamiltonian framework"
 date: 2024-08-29 00:00:00 +0100
 permalink: distributed-control-of-spacecraft-formation-under-j2-perturbation-in-the-port-hamiltonian-framework

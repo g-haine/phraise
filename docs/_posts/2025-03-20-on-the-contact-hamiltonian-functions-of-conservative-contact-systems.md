@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the contact Hamiltonian functions of conservative contact systems"
 date: 2025-03-20 00:00:00 +0100
 permalink: on-the-contact-hamiltonian-functions-of-conservative-contact-systems

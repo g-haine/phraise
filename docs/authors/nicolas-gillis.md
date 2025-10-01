@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nicolas Gillis
 permalink: /authors/nicolas-gillis
 ---

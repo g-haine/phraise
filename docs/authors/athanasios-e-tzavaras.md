@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Athanasios E. Tzavaras
 permalink: /authors/athanasios-e-tzavaras
 ---

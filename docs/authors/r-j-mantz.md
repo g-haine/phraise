@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. J. Mantz
 permalink: /authors/r-j-mantz
 ---

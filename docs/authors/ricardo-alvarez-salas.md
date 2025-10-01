@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ricardo Alvarez-Salas
 permalink: /authors/ricardo-alvarez-salas
 ---

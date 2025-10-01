@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mostafa M. A. Khater
 permalink: /authors/mostafa-m-a-khater
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structural identifiability of linear lossy Port Controlled Hamiltonian systems"
 date: 2017-01-05 00:00:00 +0100
 permalink: structural-identifiability-of-linear-lossy-port-controlled-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pascal Ziegler
 permalink: /authors/pascal-ziegler
 ---

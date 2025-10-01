@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stig Stenholm
 permalink: /authors/stig-stenholm
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Timur AYDEMIR
 permalink: /authors/timur-aydemir
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sliding mode disturbance observer-based the port-controlled Hamiltonian control for a four-tank liquid level system subject to external disturbances"
 date: 2020-08-11 00:00:00 +0100
 permalink: sliding-mode-disturbance-observer-based-the-port-controlled-hamiltonian-control-for-a-four-tank-liquid-level-system-subject-to-external-disturbances

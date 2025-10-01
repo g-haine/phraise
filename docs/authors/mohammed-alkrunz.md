@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammed Alkrunz
 permalink: /authors/mohammed-alkrunz
 ---

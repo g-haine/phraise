@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ryota KOKUBO
 permalink: /authors/ryota-kokubo
 ---

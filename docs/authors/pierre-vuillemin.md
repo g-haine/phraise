@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pierre Vuillemin
 permalink: /authors/pierre-vuillemin
 ---

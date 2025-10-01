@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yi Tang
 permalink: /authors/yi-tang
 ---

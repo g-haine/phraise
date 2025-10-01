@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear control for PMSG wind turbine via port-controlled Hamiltonian system"
 date: 2015-09-03 00:00:00 +0100
 permalink: nonlinear-control-for-pmsg-wind-turbine-via-port-controlled-hamiltonian-system

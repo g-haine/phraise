@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Berin Greeni
 permalink: /authors/a-berin-greeni
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martin Mujica
 permalink: /authors/martin-mujica
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robustness Analysis on Joint Path-following Control of a Snake-like Robot Using Port-Hamiltonian Model"
 date: 2024-05-14 00:00:00 +0100
 permalink: robustness-analysis-on-joint-path-following-control-of-a-snake-like-robot-using-port-hamiltonian-model

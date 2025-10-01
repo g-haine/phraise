@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Naoki Sakata
 permalink: /authors/naoki-sakata
 ---

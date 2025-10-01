@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity preserving model reduction via spectral factorization"
 date: 2022-05-13 00:00:00 +0100
 permalink: passivity-preserving-model-reduction-via-spectral-factorization

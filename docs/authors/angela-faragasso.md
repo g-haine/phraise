@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Angela Faragasso
 permalink: /authors/angela-faragasso
 ---

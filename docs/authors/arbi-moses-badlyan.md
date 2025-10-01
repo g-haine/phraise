@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arbi Moses Badlyan
 permalink: /authors/arbi-moses-badlyan
 ---

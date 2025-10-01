@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control using new passivity property with differentiation at both ports"
 date: 2017-02-10 00:00:00 +0100
 permalink: control-using-new-passivity-property-with-differentiation-at-both-ports

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johannes Prechtl
 permalink: /authors/johannes-prechtl
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alen Turnwald
 permalink: /authors/alen-turnwald
 ---

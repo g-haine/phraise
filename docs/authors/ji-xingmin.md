@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ji Xingmin
 permalink: /authors/ji-xingmin
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection Schemes in Modeling and Control"
 date: 2023-06-14 00:00:00 +0100
 permalink: interconnection-schemes-in-modeling-and-control

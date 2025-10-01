@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position Control via Force Feedback in the Port-Hamiltonian Framework"
 date: 2016-07-07 00:00:00 +0100
 permalink: position-control-via-force-feedback-in-the-port-hamiltonian-framework

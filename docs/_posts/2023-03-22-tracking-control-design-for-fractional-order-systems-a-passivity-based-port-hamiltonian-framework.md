@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking control design for fractional order systems: A passivity-based port-Hamiltonian framework"
 date: 2023-03-22 00:00:00 +0100
 permalink: tracking-control-design-for-fractional-order-systems-a-passivity-based-port-hamiltonian-framework

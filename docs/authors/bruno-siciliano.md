@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bruno Siciliano
 permalink: /authors/bruno-siciliano
 ---

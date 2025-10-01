@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander Pogromsky
 permalink: /authors/alexander-pogromsky
 ---

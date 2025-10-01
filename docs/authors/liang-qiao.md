@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liang Qiao
 permalink: /authors/liang-qiao
 ---

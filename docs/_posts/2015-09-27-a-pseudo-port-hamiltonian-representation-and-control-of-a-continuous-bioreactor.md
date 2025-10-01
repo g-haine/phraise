@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A pseudo-Port-Hamiltonian Representation and Control of a Continuous Bioreactor"
 date: 2015-09-27 00:00:00 +0100
 permalink: a-pseudo-port-hamiltonian-representation-and-control-of-a-continuous-bioreactor

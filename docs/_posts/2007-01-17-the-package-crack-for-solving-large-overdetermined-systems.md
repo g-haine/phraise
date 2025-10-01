@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The package CRACK for solving large overdetermined systems"
 date: 2007-01-17 00:00:00 +0100
 permalink: the-package-crack-for-solving-large-overdetermined-systems

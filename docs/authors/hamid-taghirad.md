@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hamid Taghirad
 permalink: /authors/hamid-taghirad
 ---

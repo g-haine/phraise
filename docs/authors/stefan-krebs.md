@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stefan Krebs
 permalink: /authors/stefan-krebs
 ---

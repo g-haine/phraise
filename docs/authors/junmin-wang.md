@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Junmin Wang
 permalink: /authors/junmin-wang
 ---

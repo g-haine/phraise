@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jesus C. Hernández
 permalink: /authors/jesus-c-hernandez
 ---

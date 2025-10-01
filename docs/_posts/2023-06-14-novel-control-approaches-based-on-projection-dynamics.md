@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Novel Control Approaches Based on Projection Dynamics"
 date: 2023-06-14 00:00:00 +0100
 permalink: novel-control-approaches-based-on-projection-dynamics

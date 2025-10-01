@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Conditions on shifted passivity of port-Hamiltonian systems"
 date: 2018-11-29 00:00:00 +0100
 permalink: conditions-on-shifted-passivity-of-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fernando Jiménez
 permalink: /authors/fernando-jimenez
 ---

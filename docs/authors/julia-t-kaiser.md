@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Julia T. Kaiser
 permalink: /authors/julia-t-kaiser
 ---

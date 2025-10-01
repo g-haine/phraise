@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David Roze
 permalink: /authors/david-roze
 ---

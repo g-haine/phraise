@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander L. Fradkov
 permalink: /authors/alexander-l-fradkov
 ---

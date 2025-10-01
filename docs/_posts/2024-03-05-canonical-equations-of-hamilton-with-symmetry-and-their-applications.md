@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Canonical Equations of Hamilton with Symmetry and Their Applications"
 date: 2024-03-05 00:00:00 +0100
 permalink: canonical-equations-of-hamilton-with-symmetry-and-their-applications

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking and stabilization of mechanical systems using reinforcement learning"
 date: 2018-03-08 00:00:00 +0100
 permalink: tracking-and-stabilization-of-mechanical-systems-using-reinforcement-learning

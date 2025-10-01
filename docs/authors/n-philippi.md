@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by N Philippi
 permalink: /authors/n-philippi
 ---

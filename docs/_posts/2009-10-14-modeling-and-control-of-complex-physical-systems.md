@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Control of Complex Physical Systems"
 date: 2009-10-14 00:00:00 +0100
 permalink: modeling-and-control-of-complex-physical-systems

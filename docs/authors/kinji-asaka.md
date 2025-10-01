@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kinji Asaka
 permalink: /authors/kinji-asaka
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model Estimation Ensuring Passivity by Using Port-Hamiltonian Model and Deep Learning"
 date: 2022-10-06 00:00:00 +0100
 permalink: model-estimation-ensuring-passivity-by-using-port-hamiltonian-model-and-deep-learning

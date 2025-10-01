@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xunkai Gao
 permalink: /authors/xunkai-gao
 ---

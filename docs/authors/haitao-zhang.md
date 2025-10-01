@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haitao Zhang
 permalink: /authors/haitao-zhang
 ---

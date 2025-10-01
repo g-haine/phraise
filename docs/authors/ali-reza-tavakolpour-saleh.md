@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ali Reza Tavakolpour‐Saleh
 permalink: /authors/ali-reza-tavakolpour-saleh
 ---

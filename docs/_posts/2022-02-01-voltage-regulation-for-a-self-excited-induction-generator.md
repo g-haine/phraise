@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Voltage Regulation for a Self-Excited Induction Generator"
 date: 2022-02-01 00:00:00 +0100
 permalink: voltage-regulation-for-a-self-excited-induction-generator

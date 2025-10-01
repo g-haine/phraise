@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yujie Shen
 permalink: /authors/yujie-shen
 ---

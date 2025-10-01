@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ainoor Teimoorzadeh
 permalink: /authors/ainoor-teimoorzadeh
 ---

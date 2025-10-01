@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yun-Hui Liu
 permalink: /authors/yun-hui-liu
 ---

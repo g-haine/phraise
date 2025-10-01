@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by William Tadeo Amin
 permalink: /authors/william-tadeo-amin
 ---

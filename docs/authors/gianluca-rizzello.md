@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gianluca Rizzello
 permalink: /authors/gianluca-rizzello
 ---

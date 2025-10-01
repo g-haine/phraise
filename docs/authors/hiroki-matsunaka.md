@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hiroki Matsunaka
 permalink: /authors/hiroki-matsunaka
 ---

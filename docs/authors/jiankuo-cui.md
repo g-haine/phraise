@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiankuo Cui
 permalink: /authors/jiankuo-cui
 ---

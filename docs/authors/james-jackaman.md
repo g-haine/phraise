@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by James Jackaman
 permalink: /authors/james-jackaman
 ---

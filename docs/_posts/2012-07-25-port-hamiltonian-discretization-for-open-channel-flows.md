@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian discretization for open channel flows"
 date: 2012-07-25 00:00:00 +0100
 permalink: port-hamiltonian-discretization-for-open-channel-flows

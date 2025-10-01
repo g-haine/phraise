@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by B. Vainberg
 permalink: /authors/b-vainberg
 ---

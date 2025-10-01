@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guangzhou Zhao
 permalink: /authors/guangzhou-zhao
 ---

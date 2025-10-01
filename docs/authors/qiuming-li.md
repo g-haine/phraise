@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qiuming Li
 permalink: /authors/qiuming-li
 ---

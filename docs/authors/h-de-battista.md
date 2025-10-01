@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H. De Battista
 permalink: /authors/h-de-battista
 ---

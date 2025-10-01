@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bernardo Cockburn
 permalink: /authors/bernardo-cockburn
 ---

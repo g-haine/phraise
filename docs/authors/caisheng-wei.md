@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Caisheng Wei
 permalink: /authors/caisheng-wei
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hai Lu
 permalink: /authors/hai-lu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An energy based approach for the control of a micro-robotic contact scenario"
 date: 2016-12-23 00:00:00 +0100
 permalink: an-energy-based-approach-for-the-control-of-a-micro-robotic-contact-scenario

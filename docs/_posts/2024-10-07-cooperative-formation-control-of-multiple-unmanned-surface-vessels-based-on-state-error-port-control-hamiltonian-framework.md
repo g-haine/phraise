@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cooperative formation control of multiple unmanned surface vessels based on state error port control Hamiltonian framework"
 date: 2024-10-07 00:00:00 +0100
 permalink: cooperative-formation-control-of-multiple-unmanned-surface-vessels-based-on-state-error-port-control-hamiltonian-framework

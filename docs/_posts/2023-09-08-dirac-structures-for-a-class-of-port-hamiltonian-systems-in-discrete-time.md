@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac Structures for a Class of Port-Hamiltonian Systems in Discrete Time"
 date: 2023-09-08 00:00:00 +0100
 permalink: dirac-structures-for-a-class-of-port-hamiltonian-systems-in-discrete-time

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on the PCHD Control Strategy for Three-Phase Voltage Source PWM Rectifier under Unbalanced Supply Voltage Condition"
 date: 2014-06-10 00:00:00 +0100
 permalink: research-on-the-pchd-control-strategy-for-three-phase-voltage-source-pwm-rectifier-under-unbalanced-supply-voltage-condition

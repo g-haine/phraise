@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SCES Integration in Power Grids: a PBC Approach under abc, αβ0 and dq0 Reference Frames"
 date: 2018-10-30 00:00:00 +0100
 permalink: sces-integration-in-power-grids-a-pbc-approach-under-abc-0-and-dq0-reference-frames

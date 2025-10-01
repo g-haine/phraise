@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time-domain Dynamic State Estimation for Unbalanced Three-phase Power Systems"
 date: 2023-03-28 00:00:00 +0100
 permalink: time-domain-dynamic-state-estimation-for-unbalanced-three-phase-power-systems

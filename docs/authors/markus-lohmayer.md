@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Markus Lohmayer
 permalink: /authors/markus-lohmayer
 ---

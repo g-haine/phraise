@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian Formulation of Open Chemical Reaction Networks"
 date: 2010-10-04 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-open-chemical-reaction-networks

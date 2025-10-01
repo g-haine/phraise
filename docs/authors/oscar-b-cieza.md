@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Oscar B. Cieza
 permalink: /authors/oscar-b-cieza
 ---

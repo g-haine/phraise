@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory Tracking for Discrete-Time Port-Hamiltonian Systems"
 date: 2022-06-14 00:00:00 +0100
 permalink: trajectory-tracking-for-discrete-time-port-hamiltonian-systems

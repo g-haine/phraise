@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and Damping Assignment Passivity-Based Control: Static vs dynamic state-feedback"
 date: 2009-01-20 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-static-vs-dynamic-state-feedback

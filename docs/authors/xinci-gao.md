@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinci Gao
 permalink: /authors/xinci-gao
 ---

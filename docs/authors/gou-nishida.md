@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gou Nishida
 permalink: /authors/gou-nishida
 ---

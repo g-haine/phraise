@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kunal Puri
 permalink: /authors/kunal-puri
 ---

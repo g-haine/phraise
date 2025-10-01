@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arnaud Lelevé
 permalink: /authors/arnaud-leleve
 ---

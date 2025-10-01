@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipative boundary control systems with application to an isothermal tubular reactor∗∗Dissipative boundary control systems with application to an isothermal tubular reactor"
 date: 2015-11-10 00:00:00 +0100
 permalink: dissipative-boundary-control-systems-with-application-to-an-isothermal-tubular-reactor-dissipative-boundary-control-systems-with-application-to-an-isothermal-tubular-reactor

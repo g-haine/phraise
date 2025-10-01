@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Quantum routing of surface plasmons by two quantum dots"
 date: 2019-03-22 00:00:00 +0100
 permalink: quantum-routing-of-surface-plasmons-by-two-quantum-dots

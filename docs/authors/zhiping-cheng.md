@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhiping Cheng
 permalink: /authors/zhiping-cheng
 ---

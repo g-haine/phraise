@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jörg Fehr
 permalink: /authors/jorg-fehr
 ---

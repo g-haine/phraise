@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fuzzy coordinated control of contact constraint problem for robot system with compliant actuators"
 date: 2016-05-12 00:00:00 +0100
 permalink: fuzzy-coordinated-control-of-contact-constraint-problem-for-robot-system-with-compliant-actuators

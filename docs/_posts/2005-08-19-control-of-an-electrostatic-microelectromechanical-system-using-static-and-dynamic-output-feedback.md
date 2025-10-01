@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of an Electrostatic Microelectromechanical System Using Static and Dynamic Output Feedback"
 date: 2005-08-19 00:00:00 +0100
 permalink: control-of-an-electrostatic-microelectromechanical-system-using-static-and-dynamic-output-feedback

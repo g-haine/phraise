@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control Oriented Modular Modelling of a Floating Wind Turbine: The Port-Hamiltonian Approach"
 date: 2025-08-29 00:00:00 +0100
 permalink: control-oriented-modular-modelling-of-a-floating-wind-turbine-the-port-hamiltonian-approach

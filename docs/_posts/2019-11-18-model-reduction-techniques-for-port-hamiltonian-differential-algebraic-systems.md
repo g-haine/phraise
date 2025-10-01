@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model reduction techniques for port‐Hamiltonian differential‐algebraic systems"
 date: 2019-11-18 00:00:00 +0100
 permalink: model-reduction-techniques-for-port-hamiltonian-differential-algebraic-systems

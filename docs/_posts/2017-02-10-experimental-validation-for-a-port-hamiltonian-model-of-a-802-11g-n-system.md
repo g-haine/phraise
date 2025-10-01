@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Experimental validation for a Port hamiltonian model of a 802.11g/n system"
 date: 2017-02-10 00:00:00 +0100
 permalink: experimental-validation-for-a-port-hamiltonian-model-of-a-802-11g-n-system

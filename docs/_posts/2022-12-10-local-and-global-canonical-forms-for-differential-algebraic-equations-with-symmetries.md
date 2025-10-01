@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Local and Global Canonical Forms for Differential-Algebraic Equations with Symmetries"
 date: 2022-12-10 00:00:00 +0100
 permalink: local-and-global-canonical-forms-for-differential-algebraic-equations-with-symmetries

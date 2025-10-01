@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity based control of a class of Hamiltonian systems with nonholonomic constraints"
 date: 2012-10-08 00:00:00 +0100
 permalink: passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints

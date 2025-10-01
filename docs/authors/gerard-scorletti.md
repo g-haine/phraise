@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gerard Scorletti
 permalink: /authors/gerard-scorletti
 ---

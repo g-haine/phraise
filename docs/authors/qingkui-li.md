@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingkui Li
 permalink: /authors/qingkui-li
 ---

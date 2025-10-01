@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Meng Liu
 permalink: /authors/meng-liu
 ---

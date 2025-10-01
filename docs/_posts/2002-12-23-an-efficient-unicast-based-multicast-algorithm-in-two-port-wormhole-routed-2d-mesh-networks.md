@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An efficient unicast-based multicast algorithm in two-port wormhole-routed 2D mesh networks"
 date: 2002-12-23 00:00:00 +0100
 permalink: an-efficient-unicast-based-multicast-algorithm-in-two-port-wormhole-routed-2d-mesh-networks

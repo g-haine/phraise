@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Study on passivity-based control of voltage source PWM DC/AC inverter"
 date: 2011-10-12 00:00:00 +0100
 permalink: study-on-passivity-based-control-of-voltage-source-pwm-dc-ac-inverter

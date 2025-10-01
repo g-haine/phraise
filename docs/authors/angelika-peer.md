@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Angelika Peer
 permalink: /authors/angelika-peer
 ---

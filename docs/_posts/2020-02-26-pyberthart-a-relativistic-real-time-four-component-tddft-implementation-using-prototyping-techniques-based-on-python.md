@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PyBERTHART: A Relativistic Real-Time Four-Component TDDFT Implementation Using Prototyping Techniques Based on Python"
 date: 2020-02-26 00:00:00 +0100
 permalink: pyberthart-a-relativistic-real-time-four-component-tddft-implementation-using-prototyping-techniques-based-on-python

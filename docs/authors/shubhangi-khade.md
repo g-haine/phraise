@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shubhangi Khade
 permalink: /authors/shubhangi-khade
 ---

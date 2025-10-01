@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Circuit extraction via time-domain vector fitting"
 date: 2004-11-12 00:00:00 +0100
 permalink: circuit-extraction-via-time-domain-vector-fitting

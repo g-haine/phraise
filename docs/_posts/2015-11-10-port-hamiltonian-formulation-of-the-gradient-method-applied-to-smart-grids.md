@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Formulation of the Gradient Method Applied to Smart Grids"
 date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-the-gradient-method-applied-to-smart-grids

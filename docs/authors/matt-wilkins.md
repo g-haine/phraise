@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matt Wilkins
 permalink: /authors/matt-wilkins
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johannes Schule
 permalink: /authors/johannes-schule
 ---

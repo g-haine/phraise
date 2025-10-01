@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingwei Hu
 permalink: /authors/qingwei-hu
 ---

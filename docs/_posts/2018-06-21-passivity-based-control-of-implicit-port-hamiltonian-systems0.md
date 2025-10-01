@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control of implicit port-Hamiltonian systems"
 date: 2018-06-21 00:00:00 +0100
 permalink: passivity-based-control-of-implicit-port-hamiltonian-systems0

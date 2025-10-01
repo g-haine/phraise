@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passive modelling of the electrodynamic loudspeaker: from the Thiele–Small model to nonlinear port-Hamiltonian systems"
 date: 2020-02-28 00:00:00 +0100
 permalink: passive-modelling-of-the-electrodynamic-loudspeaker-from-the-thiele-small-model-to-nonlinear-port-hamiltonian-systems

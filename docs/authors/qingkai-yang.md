@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingkai Yang
 permalink: /authors/qingkai-yang
 ---

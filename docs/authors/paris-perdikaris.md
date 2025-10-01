@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paris Perdikaris
 permalink: /authors/paris-perdikaris
 ---

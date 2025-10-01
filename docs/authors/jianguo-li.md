@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianguo Li
 permalink: /authors/jianguo-li
 ---

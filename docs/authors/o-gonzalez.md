@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by O. Gonzalez
 permalink: /authors/o-gonzalez
 ---

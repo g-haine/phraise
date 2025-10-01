@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tuấn Đình Phan
 permalink: /authors/tuan-dinh-phan
 ---

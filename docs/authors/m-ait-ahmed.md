@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Ait-Ahmed
 permalink: /authors/m-ait-ahmed
 ---

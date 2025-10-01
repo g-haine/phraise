@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A higher order Stokes-Dirac structure for distributed-parameter port-Hamiltonian systems"
 date: 2018-05-28 00:00:00 +0100
 permalink: a-higher-order-stokes-dirac-structure-for-distributed-parameter-port-hamiltonian-systems

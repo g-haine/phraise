@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving generalized balanced truncation for nonlinear port-Hamiltonian systems"
 date: 2023-03-15 00:00:00 +0100
 permalink: structure-preserving-generalized-balanced-truncation-for-nonlinear-port-hamiltonian-systems

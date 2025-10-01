@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geometric spatial reduction for port-Hamiltonian systems"
 date: 2019-02-04 00:00:00 +0100
 permalink: geometric-spatial-reduction-for-port-hamiltonian-systems

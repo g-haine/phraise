@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haojun Ma
 permalink: /authors/haojun-ma
 ---

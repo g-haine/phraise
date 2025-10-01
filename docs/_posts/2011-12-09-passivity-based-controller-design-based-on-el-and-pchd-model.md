@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity Based Controller Design Based on EL and PCHD Model"
 date: 2011-12-09 00:00:00 +0100
 permalink: passivity-based-controller-design-based-on-el-and-pchd-model

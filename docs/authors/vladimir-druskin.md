@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vladimir Druskin
 permalink: /authors/vladimir-druskin
 ---

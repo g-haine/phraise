@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Based Modeling of Spatial Visco-Elastic Contacts"
 date: 2007-06-14 00:00:00 +0100
 permalink: port-based-modeling-of-spatial-visco-elastic-contacts

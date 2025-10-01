@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Discretization of Hydraulic Actuated Telescopic Boom System in Port-Hamiltonian Formulation"
 date: 2019-08-14 00:00:00 +0100
 permalink: modeling-and-discretization-of-hydraulic-actuated-telescopic-boom-system-in-port-hamiltonian-formulation

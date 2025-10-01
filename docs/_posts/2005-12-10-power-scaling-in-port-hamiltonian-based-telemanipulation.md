@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power scaling in port-Hamiltonian based telemanipulation"
 date: 2005-12-10 00:00:00 +0100
 permalink: power-scaling-in-port-hamiltonian-based-telemanipulation

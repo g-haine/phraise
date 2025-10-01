@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jing-Lan Hu
 permalink: /authors/jing-lan-hu
 ---

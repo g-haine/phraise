@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fotios Kasolis
 permalink: /authors/fotios-kasolis
 ---

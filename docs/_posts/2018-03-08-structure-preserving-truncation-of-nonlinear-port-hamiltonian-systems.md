@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure Preserving Truncation of Nonlinear Port Hamiltonian Systems"
 date: 2018-03-08 00:00:00 +0100
 permalink: structure-preserving-truncation-of-nonlinear-port-hamiltonian-systems

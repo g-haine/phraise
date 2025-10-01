@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Takaharu Yaguchi
 permalink: /authors/takaharu-yaguchi
 ---

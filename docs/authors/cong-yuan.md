@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cong Yuan
 permalink: /authors/cong-yuan
 ---

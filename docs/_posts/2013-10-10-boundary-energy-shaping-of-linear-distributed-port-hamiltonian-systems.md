@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary energy shaping of linear distributed port-Hamiltonian systems"
 date: 2013-10-10 00:00:00 +0100
 permalink: boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A dual relation between port-Hamiltonian systems and the Brayton–Moser equations for nonlinear switched RLC circuits"
 date: 2003-04-30 00:00:00 +0100
 permalink: a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structural Decomposition of the Passivity-Based Control System of Wind–Solar Power Generating and Hybrid Battery-Supercapacitor Energy Storage Complex"
 date: 2024-11-06 00:00:00 +0100
 permalink: structural-decomposition-of-the-passivity-based-control-system-of-wind-solar-power-generating-and-hybrid-battery-supercapacitor-energy-storage-complex

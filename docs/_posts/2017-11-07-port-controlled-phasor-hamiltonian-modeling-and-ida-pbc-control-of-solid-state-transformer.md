@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Controlled Phasor Hamiltonian Modeling and IDA-PBC Control of Solid-State Transformer"
 date: 2017-11-07 00:00:00 +0100
 permalink: port-controlled-phasor-hamiltonian-modeling-and-ida-pbc-control-of-solid-state-transformer

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pressure Regulation in Large Scale Hydraulic Networks with Input Constraints"
 date: 2017-10-19 00:00:00 +0100
 permalink: pressure-regulation-in-large-scale-hydraulic-networks-with-input-constraints

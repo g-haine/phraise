@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A new strict Lyapunov function for fully-actuated mechanical systems controlled by IDA-PBC"
 date: 2009-10-12 00:00:00 +0100
 permalink: a-new-strict-lyapunov-function-for-fully-actuated-mechanical-systems-controlled-by-ida-pbc

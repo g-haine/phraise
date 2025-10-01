@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On global attraction to solitary waves for the Klein–Gordon field coupled to several nonlinear oscillators"
 date: 2009-08-13 00:00:00 +0100
 permalink: on-global-attraction-to-solitary-waves-for-the-klein-gordon-field-coupled-to-several-nonlinear-oscillators

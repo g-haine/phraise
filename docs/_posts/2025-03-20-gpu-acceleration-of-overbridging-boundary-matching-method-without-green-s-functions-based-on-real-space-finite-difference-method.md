@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "GPU acceleration of overbridging boundary matching method without Green's functions based on real-space finite-difference method"
 date: 2025-03-20 00:00:00 +0100
 permalink: gpu-acceleration-of-overbridging-boundary-matching-method-without-green-s-functions-based-on-real-space-finite-difference-method

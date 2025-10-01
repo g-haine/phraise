@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander Dijkshoorn
 permalink: /authors/alexander-dijkshoorn
 ---

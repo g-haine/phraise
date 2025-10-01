@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Air Supply Control for PEM Fuel Cells Under Hamiltonian Framework: A Segmentation Approach"
 date: 2024-07-23 00:00:00 +0100
 permalink: air-supply-control-for-pem-fuel-cells-under-hamiltonian-framework-a-segmentation-approach

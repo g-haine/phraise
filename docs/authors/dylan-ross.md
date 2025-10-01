@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dylan Ross
 permalink: /authors/dylan-ross
 ---

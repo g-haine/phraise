@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Claudio De Persis
 permalink: /authors/claudio-de-persis
 ---

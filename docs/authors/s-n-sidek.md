@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S N Sidek
 permalink: /authors/s-n-sidek
 ---

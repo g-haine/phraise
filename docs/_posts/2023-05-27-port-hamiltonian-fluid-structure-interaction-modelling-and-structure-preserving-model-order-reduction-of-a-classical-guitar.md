@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian fluid–structure interaction modelling and structure-preserving model order reduction of a classical guitar"
 date: 2023-05-27 00:00:00 +0100
 permalink: port-hamiltonian-fluid-structure-interaction-modelling-and-structure-preserving-model-order-reduction-of-a-classical-guitar

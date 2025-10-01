@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tuning of Passivity-Based Controllers for Mechanical Systems"
 date: 2023-03-31 00:00:00 +0100
 permalink: tuning-of-passivity-based-controllers-for-mechanical-systems

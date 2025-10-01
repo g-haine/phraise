@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Salvatore D’Arco
 permalink: /authors/salvatore-d-arco
 ---

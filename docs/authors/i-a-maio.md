@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by I. A. Maio
 permalink: /authors/i-a-maio
 ---

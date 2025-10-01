@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian Modeling and Passivity-based Control of Permanent Magnet Linear Synchronous Motor"
 date: 2013-01-29 00:00:00 +0100
 permalink: hamiltonian-modeling-and-passivity-based-control-of-permanent-magnet-linear-synchronous-motor

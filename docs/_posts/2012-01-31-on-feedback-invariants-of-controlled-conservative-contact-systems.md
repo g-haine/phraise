@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On feedback invariants of controlled conservative contact systems"
 date: 2012-01-31 00:00:00 +0100
 permalink: on-feedback-invariants-of-controlled-conservative-contact-systems

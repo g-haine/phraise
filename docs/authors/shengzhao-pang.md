@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shengzhao Pang
 permalink: /authors/shengzhao-pang
 ---

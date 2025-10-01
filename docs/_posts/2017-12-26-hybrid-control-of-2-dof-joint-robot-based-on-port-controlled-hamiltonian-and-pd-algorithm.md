@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hybrid control of 2-DOF joint robot based on Port-Controlled Hamiltonian and PD algorithm"
 date: 2017-12-26 00:00:00 +0100
 permalink: hybrid-control-of-2-dof-joint-robot-based-on-port-controlled-hamiltonian-and-pd-algorithm

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stokes-Dirac structures for distributed parameter port-Hamiltonian systems: An analytical viewpoint"
 date: 2023-07-06 00:00:00 +0100
 permalink: stokes-dirac-structures-for-distributed-parameter-port-hamiltonian-systems-an-analytical-viewpoint

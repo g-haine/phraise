@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shun-ichi Azuma
 permalink: /authors/shun-ichi-azuma
 ---

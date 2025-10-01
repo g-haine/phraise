@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by I. L. Egusquiza
 permalink: /authors/i-l-egusquiza
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abdullah Abukhwejah
 permalink: /authors/abdullah-abukhwejah
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-Passivity-Based Control for On-board DC Power Converter System with Constant Power Load"
 date: 2018-12-08 00:00:00 +0100
 permalink: ida-passivity-based-control-for-on-board-dc-power-converter-system-with-constant-power-load

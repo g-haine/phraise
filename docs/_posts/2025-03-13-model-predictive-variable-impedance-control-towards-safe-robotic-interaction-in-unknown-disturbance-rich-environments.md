@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model predictive variable impedance control towards safe robotic interaction in unknown disturbance-rich environments"
 date: 2025-03-13 00:00:00 +0100
 permalink: model-predictive-variable-impedance-control-towards-safe-robotic-interaction-in-unknown-disturbance-rich-environments

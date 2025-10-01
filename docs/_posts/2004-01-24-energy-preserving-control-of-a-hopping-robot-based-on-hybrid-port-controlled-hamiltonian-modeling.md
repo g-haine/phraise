@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy preserving control of a hopping robot based on hybrid port-controlled Hamiltonian modeling"
 date: 2004-01-24 00:00:00 +0100
 permalink: energy-preserving-control-of-a-hopping-robot-based-on-hybrid-port-controlled-hamiltonian-modeling

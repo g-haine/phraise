@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marco A. Zárate-Navarro
 permalink: /authors/marco-a-zarate-navarro
 ---

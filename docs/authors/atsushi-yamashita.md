@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Atsushi Yamashita
 permalink: /authors/atsushi-yamashita
 ---

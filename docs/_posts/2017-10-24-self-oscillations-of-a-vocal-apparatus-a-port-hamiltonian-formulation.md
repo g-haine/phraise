@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Self-oscillations of a Vocal Apparatus: A Port-Hamiltonian Formulation"
 date: 2017-10-24 00:00:00 +0100
 permalink: self-oscillations-of-a-vocal-apparatus-a-port-hamiltonian-formulation

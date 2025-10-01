@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port maps of Irreversible Port Hamiltonian Systems"
 date: 2023-11-22 00:00:00 +0100
 permalink: port-maps-of-irreversible-port-hamiltonian-systems

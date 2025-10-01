@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Infinite dimensional model of a double flexible-link manipulator: The Port-Hamiltonian approach"
 date: 2020-02-19 00:00:00 +0100
 permalink: infinite-dimensional-model-of-a-double-flexible-link-manipulator-the-port-hamiltonian-approach

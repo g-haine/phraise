@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xujie Fu
 permalink: /authors/xujie-fu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model Reduction for Linear Port-Hamiltonian Systems in the Loewner Framework"
 date: 2023-11-22 00:00:00 +0100
 permalink: model-reduction-for-linear-port-hamiltonian-systems-in-the-loewner-framework

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position Control of Soft Manipulators with Dynamic and Kinematic Uncertainties"
 date: 2021-04-15 00:00:00 +0100
 permalink: position-control-of-soft-manipulators-with-dynamic-and-kinematic-uncertainties

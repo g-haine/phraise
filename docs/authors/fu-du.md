@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fu Du
 permalink: /authors/fu-du
 ---

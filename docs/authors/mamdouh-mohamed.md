@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mamdouh Mohamed
 permalink: /authors/mamdouh-mohamed
 ---

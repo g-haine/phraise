@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Controlling the libration point orbits for CRTBP with non-ideal solar sail and albedo effect"
 date: 2021-09-21 00:00:00 +0100
 permalink: controlling-the-libration-point-orbits-for-crtbp-with-non-ideal-solar-sail-and-albedo-effect

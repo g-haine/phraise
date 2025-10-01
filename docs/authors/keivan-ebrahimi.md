@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Keivan Ebrahimi
 permalink: /authors/keivan-ebrahimi
 ---

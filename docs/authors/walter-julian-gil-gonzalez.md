@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Walter Julián Gil González
 permalink: /authors/walter-julian-gil-gonzalez
 ---

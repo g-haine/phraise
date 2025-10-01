@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Miguel S. Suarez‐Castanon
 permalink: /authors/miguel-s-suarez-castanon
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yan-Ling Li
 permalink: /authors/yan-ling-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wei Qiao
 permalink: /authors/wei-qiao
 ---

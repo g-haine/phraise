@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control of islanded microgrids with unknown power loads"
 date: 2020-09-22 00:00:00 +0100
 permalink: passivity-based-control-of-islanded-microgrids-with-unknown-power-loads

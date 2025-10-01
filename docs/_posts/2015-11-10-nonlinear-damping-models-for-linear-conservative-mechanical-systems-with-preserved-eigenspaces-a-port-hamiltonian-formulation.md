@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear damping models for linear conservative mechanical systems with preserved eigenspaces: a port-Hamiltonian formulation"
 date: 2015-11-10 00:00:00 +0100
 permalink: nonlinear-damping-models-for-linear-conservative-mechanical-systems-with-preserved-eigenspaces-a-port-hamiltonian-formulation

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ran Jiao
 permalink: /authors/ran-jiao
 ---

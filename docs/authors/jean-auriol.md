@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean Auriol
 permalink: /authors/jean-auriol
 ---

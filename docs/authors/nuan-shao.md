@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nuan Shao
 permalink: /authors/nuan-shao
 ---

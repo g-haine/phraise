@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energiebasierte Regelung von verteilt-parametrischen Hamiltonschen Systemen mit Hamiltonschen Dichten zweiter Ordnung"
 date: 2017-05-03 00:00:00 +0100
 permalink: energiebasierte-regelung-von-verteilt-parametrischen-hamiltonschen-systemen-mit-hamiltonschen-dichten-zweiter-ordnung

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamical modelling of a DC microgrid using a port-Hamiltonian formalism"
 date: 2018-05-03 00:00:00 +0100
 permalink: dynamical-modelling-of-a-dc-microgrid-using-a-port-hamiltonian-formalism

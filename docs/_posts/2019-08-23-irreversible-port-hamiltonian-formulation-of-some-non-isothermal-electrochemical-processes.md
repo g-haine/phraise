@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Irreversible Port-Hamiltonian Formulation of some Non-isothermal Electrochemical Processes"
 date: 2019-08-23 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-formulation-of-some-non-isothermal-electrochemical-processes

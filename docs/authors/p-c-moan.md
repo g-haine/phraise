@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P.C. Moan
 permalink: /authors/p-c-moan
 ---

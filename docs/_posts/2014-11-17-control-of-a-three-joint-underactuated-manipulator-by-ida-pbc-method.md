@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of a Three-joint Underactuated Manipulator by IDA-PBC Method"
 date: 2014-11-17 00:00:00 +0100
 permalink: control-of-a-three-joint-underactuated-manipulator-by-ida-pbc-method

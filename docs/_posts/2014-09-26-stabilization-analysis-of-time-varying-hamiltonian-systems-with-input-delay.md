@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization analysis of time-varying Hamiltonian systems with input delay"
 date: 2014-09-26 00:00:00 +0100
 permalink: stabilization-analysis-of-time-varying-hamiltonian-systems-with-input-delay

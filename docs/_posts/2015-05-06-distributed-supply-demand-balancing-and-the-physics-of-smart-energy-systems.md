@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed supply–demand balancing and the physics of smart energy systems"
 date: 2015-05-06 00:00:00 +0100
 permalink: distributed-supply-demand-balancing-and-the-physics-of-smart-energy-systems

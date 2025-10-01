@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jian Wang
 permalink: /authors/jian-wang
 ---

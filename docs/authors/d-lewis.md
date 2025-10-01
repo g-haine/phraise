@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. Lewis
 permalink: /authors/d-lewis
 ---

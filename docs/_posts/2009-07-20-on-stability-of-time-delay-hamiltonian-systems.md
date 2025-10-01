@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On stability of time delay Hamiltonian systems"
 date: 2009-07-20 00:00:00 +0100
 permalink: on-stability-of-time-delay-hamiltonian-systems

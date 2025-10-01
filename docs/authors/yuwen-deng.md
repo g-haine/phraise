@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuwen Deng
 permalink: /authors/yuwen-deng
 ---

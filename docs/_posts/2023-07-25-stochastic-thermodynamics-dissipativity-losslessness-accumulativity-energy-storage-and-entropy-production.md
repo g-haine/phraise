@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stochastic Thermodynamics: Dissipativity, Losslessness, Accumulativity, Energy Storage, and Entropy Production"
 date: 2023-07-25 00:00:00 +0100
 permalink: stochastic-thermodynamics-dissipativity-losslessness-accumulativity-energy-storage-and-entropy-production

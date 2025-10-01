@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energetic Microscopic Representation (EMR) and Passivity-Based Control of Multi-Input Systems with Non-Linear Coupled Dynamics (PMSM control example)"
 date: 2020-11-02 00:00:00 +0100
 permalink: energetic-microscopic-representation-emr-and-passivity-based-control-of-multi-input-systems-with-non-linear-coupled-dynamics-pmsm-control-example

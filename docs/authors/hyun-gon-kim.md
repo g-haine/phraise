@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hyun Gon Kim
 permalink: /authors/hyun-gon-kim
 ---

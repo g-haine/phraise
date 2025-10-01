@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paweł Urbański
 permalink: /authors/pawel-urbanski
 ---

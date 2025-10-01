@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Miroslav Bures
 permalink: /authors/miroslav-bures
 ---

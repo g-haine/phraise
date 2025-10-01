@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Complementary Control Research of Wind Turbines in Two Offshore Wind Farms"
 date: 2018-02-22 00:00:00 +0100
 permalink: distributed-complementary-control-research-of-wind-turbines-in-two-offshore-wind-farms

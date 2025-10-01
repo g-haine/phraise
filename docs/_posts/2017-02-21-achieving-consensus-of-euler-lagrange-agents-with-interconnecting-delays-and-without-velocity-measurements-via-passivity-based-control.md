@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Achieving Consensus of Euler–Lagrange Agents With Interconnecting Delays and Without Velocity Measurements via Passivity-Based Control"
 date: 2017-02-21 00:00:00 +0100
 permalink: achieving-consensus-of-euler-lagrange-agents-with-interconnecting-delays-and-without-velocity-measurements-via-passivity-based-control

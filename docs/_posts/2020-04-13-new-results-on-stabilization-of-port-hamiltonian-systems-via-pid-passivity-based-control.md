@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New Results on Stabilization of Port-Hamiltonian Systems via PID Passivity-Based Control"
 date: 2020-04-13 00:00:00 +0100
 permalink: new-results-on-stabilization-of-port-hamiltonian-systems-via-pid-passivity-based-control

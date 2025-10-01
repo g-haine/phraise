@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maximum Output Power Control of Permanent Magnet Synchronous Motor Based on Energy-shaping Principle"
 date: 2007-10-09 00:00:00 +0100
 permalink: maximum-output-power-control-of-permanent-magnet-synchronous-motor-based-on-energy-shaping-principle

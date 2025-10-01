@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mahmood Jamali
 permalink: /authors/mahmood-jamali
 ---

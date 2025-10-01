@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Redha Moulla
 permalink: /authors/redha-moulla
 ---

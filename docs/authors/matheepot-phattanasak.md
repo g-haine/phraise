@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matheepot Phattanasak
 permalink: /authors/matheepot-phattanasak
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Dual-User Teleoperation System with Adaptive Authority Adjustment for Haptic Training"
 date: 2016-04-20 00:00:00 +0100
 permalink: a-dual-user-teleoperation-system-with-adaptive-authority-adjustment-for-haptic-training

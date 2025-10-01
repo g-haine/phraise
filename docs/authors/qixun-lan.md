@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qixun Lan
 permalink: /authors/qixun-lan
 ---

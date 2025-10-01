@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marilena Pavel
 permalink: /authors/marilena-pavel
 ---

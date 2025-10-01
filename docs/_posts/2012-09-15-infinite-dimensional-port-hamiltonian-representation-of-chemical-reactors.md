@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Infinite Dimensional Port Hamiltonian Representation of Chemical Reactors"
 date: 2012-09-15 00:00:00 +0100
 permalink: infinite-dimensional-port-hamiltonian-representation-of-chemical-reactors

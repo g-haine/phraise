@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tao Shui
 permalink: /authors/tao-shui
 ---

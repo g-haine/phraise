@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A novel approach to haptic tele-operation of aerial robot vehicles"
 date: 2010-07-22 00:00:00 +0100
 permalink: a-novel-approach-to-haptic-tele-operation-of-aerial-robot-vehicles

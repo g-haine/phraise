@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexandre Ern
 permalink: /authors/alexandre-ern
 ---

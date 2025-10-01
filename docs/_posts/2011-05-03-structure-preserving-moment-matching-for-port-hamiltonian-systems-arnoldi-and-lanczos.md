@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure Preserving Moment Matching for Port-Hamiltonian Systems: Arnoldi and Lanczos"
 date: 2011-05-03 00:00:00 +0100
 permalink: structure-preserving-moment-matching-for-port-hamiltonian-systems-arnoldi-and-lanczos

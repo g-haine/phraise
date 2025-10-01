@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exact structured singular value of robotic manipulators and quantitative analysis of passivity based control"
 date: 2007-01-19 00:00:00 +0100
 permalink: exact-structured-singular-value-of-robotic-manipulators-and-quantitative-analysis-of-passivity-based-control

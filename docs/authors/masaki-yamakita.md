@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Masaki Yamakita
 permalink: /authors/masaki-yamakita
 ---

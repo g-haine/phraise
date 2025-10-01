@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Danmei Ding
 permalink: /authors/danmei-ding
 ---

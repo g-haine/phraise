@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M.H. Abbasi
 permalink: /authors/m-h-abbasi
 ---

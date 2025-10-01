@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P. Gawthrop
 permalink: /authors/p-gawthrop
 ---

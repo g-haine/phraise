@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thomas Meurer
 permalink: /authors/thomas-meurer
 ---

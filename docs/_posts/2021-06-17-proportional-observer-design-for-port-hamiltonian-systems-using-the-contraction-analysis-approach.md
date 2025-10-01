@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Proportional observer design for port Hamiltonian systems using the contraction analysis approach"
 date: 2021-06-17 00:00:00 +0100
 permalink: proportional-observer-design-for-port-hamiltonian-systems-using-the-contraction-analysis-approach

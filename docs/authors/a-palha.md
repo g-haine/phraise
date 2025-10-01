@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Palha
 permalink: /authors/a-palha
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shixian Wang
 permalink: /authors/shixian-wang
 ---

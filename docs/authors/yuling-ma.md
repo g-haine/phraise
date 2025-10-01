@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuling Ma
 permalink: /authors/yuling-ma
 ---

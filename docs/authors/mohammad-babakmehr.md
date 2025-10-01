@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammad Babakmehr
 permalink: /authors/mohammad-babakmehr
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Megha V. Trivedi
 permalink: /authors/megha-v-trivedi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liang He
 permalink: /authors/liang-he
 ---

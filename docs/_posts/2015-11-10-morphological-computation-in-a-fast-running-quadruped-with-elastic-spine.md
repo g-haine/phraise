@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Morphological computation in a fast-running quadruped with elastic spine"
 date: 2015-11-10 00:00:00 +0100
 permalink: morphological-computation-in-a-fast-running-quadruped-with-elastic-spine

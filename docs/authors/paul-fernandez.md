@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paul Fernandez
 permalink: /authors/paul-fernandez
 ---

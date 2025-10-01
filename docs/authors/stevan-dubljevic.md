@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stevan Dubljevic
 permalink: /authors/stevan-dubljevic
 ---

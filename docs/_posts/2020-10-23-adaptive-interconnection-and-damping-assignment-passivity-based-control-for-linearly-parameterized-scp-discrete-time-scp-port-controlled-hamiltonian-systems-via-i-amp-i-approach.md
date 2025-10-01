@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive interconnection and damping assignment passivity‐based control for linearly parameterized <scp>discrete‐time</scp> port controlled Hamiltonian systems via I&amp;I approach"
 date: 2020-10-23 00:00:00 +0100
 permalink: adaptive-interconnection-and-damping-assignment-passivity-based-control-for-linearly-parameterized-scp-discrete-time-scp-port-controlled-hamiltonian-systems-via-i-amp-i-approach

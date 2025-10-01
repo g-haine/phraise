@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Using energy-based variable structure approach to control the vibrations in a nonlinear beam with large deformations"
 date: 2005-12-10 00:00:00 +0100
 permalink: using-energy-based-variable-structure-approach-to-control-the-vibrations-in-a-nonlinear-beam-with-large-deformations

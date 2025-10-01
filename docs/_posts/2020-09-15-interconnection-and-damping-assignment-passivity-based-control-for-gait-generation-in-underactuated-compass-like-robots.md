@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and Damping Assignment Passivity-Based Control for Gait Generation in Underactuated Compass-Like Robots"
 date: 2020-09-15 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-for-gait-generation-in-underactuated-compass-like-robots

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vaishnavi Thesma
 permalink: /authors/vaishnavi-thesma
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Victor Ramirez
 permalink: /authors/victor-ramirez
 ---

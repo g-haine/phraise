@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer-Based State Feedback Controller for a class of Distributed Parameter Systems"
 date: 2019-08-23 00:00:00 +0100
 permalink: observer-based-state-feedback-controller-for-a-class-of-distributed-parameter-systems

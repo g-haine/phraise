@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Partitioned Finite Element Method for the Mindlin Plate as a Port-Hamiltonian system"
 date: 2019-08-23 00:00:00 +0100
 permalink: partitioned-finite-element-method-for-the-mindlin-plate-as-a-port-hamiltonian-system

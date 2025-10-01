@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Equal distribution of satellite constellations on circular target orbits"
 date: 2014-09-11 00:00:00 +0100
 permalink: equal-distribution-of-satellite-constellations-on-circular-target-orbits

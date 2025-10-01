@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Parameter System Modeling"
 date: 2014-10-31 00:00:00 +0100
 permalink: distributed-parameter-system-modeling

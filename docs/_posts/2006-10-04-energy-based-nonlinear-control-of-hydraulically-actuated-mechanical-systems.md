@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based nonlinear control of hydraulically actuated mechanical systems"
 date: 2006-10-04 00:00:00 +0100
 permalink: energy-based-nonlinear-control-of-hydraulically-actuated-mechanical-systems

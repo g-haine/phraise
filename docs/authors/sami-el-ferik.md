@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sami El‐Ferik
 permalink: /authors/sami-el-ferik
 ---

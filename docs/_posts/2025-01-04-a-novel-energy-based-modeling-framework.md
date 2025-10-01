@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A novel energy-based modeling framework"
 date: 2025-01-04 00:00:00 +0100
 permalink: a-novel-energy-based-modeling-framework

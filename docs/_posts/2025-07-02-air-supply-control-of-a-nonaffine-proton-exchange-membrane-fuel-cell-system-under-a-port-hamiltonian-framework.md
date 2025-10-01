@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Air supply control of a nonaffine proton exchange membrane fuel cell system under a port-Hamiltonian framework"
 date: 2025-07-02 00:00:00 +0100
 permalink: air-supply-control-of-a-nonaffine-proton-exchange-membrane-fuel-cell-system-under-a-port-hamiltonian-framework

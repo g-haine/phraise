@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ajay Krishna
 permalink: /authors/ajay-krishna
 ---

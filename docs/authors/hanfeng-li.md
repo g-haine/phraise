@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hanfeng Li
 permalink: /authors/hanfeng-li
 ---

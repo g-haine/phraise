@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Larissa M. Batrancea
 permalink: /authors/larissa-m-batrancea
 ---

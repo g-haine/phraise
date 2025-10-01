@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lingyun Wan
 permalink: /authors/lingyun-wan
 ---

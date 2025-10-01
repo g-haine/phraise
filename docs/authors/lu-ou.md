@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lu Ou
 permalink: /authors/lu-ou
 ---

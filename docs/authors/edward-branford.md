@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Edward Branford
 permalink: /authors/edward-branford
 ---

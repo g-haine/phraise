@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Control for Infinite Dimensional Port-Hamiltonian Systems"
 date: 2021-11-19 00:00:00 +0100
 permalink: distributed-control-for-infinite-dimensional-port-hamiltonian-systems

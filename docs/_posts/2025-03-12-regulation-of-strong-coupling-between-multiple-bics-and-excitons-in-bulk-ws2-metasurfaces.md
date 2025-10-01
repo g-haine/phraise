@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Regulation of strong coupling between multiple BICs and excitons in bulk WS2 metasurfaces"
 date: 2025-03-12 00:00:00 +0100
 permalink: regulation-of-strong-coupling-between-multiple-bics-and-excitons-in-bulk-ws2-metasurfaces

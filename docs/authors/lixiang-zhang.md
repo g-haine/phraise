@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lixiang Zhang
 permalink: /authors/lixiang-zhang
 ---

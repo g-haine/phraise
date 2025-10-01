@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by V. Sahni
 permalink: /authors/v-sahni
 ---

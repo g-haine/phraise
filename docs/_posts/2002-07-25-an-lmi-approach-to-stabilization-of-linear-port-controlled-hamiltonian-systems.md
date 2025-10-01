@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An LMI approach to stabilization of linear port-controlled Hamiltonian systems"
 date: 2002-07-25 00:00:00 +0100
 permalink: an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems

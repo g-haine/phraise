@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear Boundary Port Hamiltonian Systems defined on Lagrangian submanifolds"
 date: 2021-04-15 00:00:00 +0100
 permalink: linear-boundary-port-hamiltonian-systems-defined-on-lagrangian-submanifolds

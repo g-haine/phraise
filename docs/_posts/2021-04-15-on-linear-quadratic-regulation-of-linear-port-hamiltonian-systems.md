@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Linear Quadratic Regulation of Linear Port-Hamiltonian Systems"
 date: 2021-04-15 00:00:00 +0100
 permalink: on-linear-quadratic-regulation-of-linear-port-hamiltonian-systems

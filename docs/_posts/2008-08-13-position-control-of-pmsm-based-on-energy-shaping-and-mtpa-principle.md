@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position control of PMSM based on energy-shaping and MTPA principle"
 date: 2008-08-13 00:00:00 +0100
 permalink: position-control-of-pmsm-based-on-energy-shaping-and-mtpa-principle

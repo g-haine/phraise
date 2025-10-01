@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control of mechanical systems with linear damping identification"
 date: 2021-11-19 00:00:00 +0100
 permalink: passivity-based-control-of-mechanical-systems-with-linear-damping-identification

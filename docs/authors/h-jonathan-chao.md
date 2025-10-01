@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H. Jonathan Chao
 permalink: /authors/h-jonathan-chao
 ---

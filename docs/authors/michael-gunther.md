@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Günther
 permalink: /authors/michael-gunther
 ---

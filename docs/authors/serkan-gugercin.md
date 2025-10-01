@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Serkan Gugercin
 permalink: /authors/serkan-gugercin
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Direct Power Control Design for Charging Electric Vehicles: A Passivity-Based Control Approach"
 date: 2020-11-25 00:00:00 +0100
 permalink: direct-power-control-design-for-charging-electric-vehicles-a-passivity-based-control-approach

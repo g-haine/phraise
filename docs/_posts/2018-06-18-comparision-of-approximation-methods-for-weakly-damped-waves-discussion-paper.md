@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Comparision of approximation methods for weakly damped waves Discussion paper"
 date: 2018-06-18 00:00:00 +0100
 permalink: comparision-of-approximation-methods-for-weakly-damped-waves-discussion-paper

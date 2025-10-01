@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A New Load Frequency Control Method of Multi-Area Power System via the Viewpoints of Port-Hamiltonian System and Cascade System"
 date: 2016-09-01 00:00:00 +0100
 permalink: a-new-load-frequency-control-method-of-multi-area-power-system-via-the-viewpoints-of-port-hamiltonian-system-and-cascade-system

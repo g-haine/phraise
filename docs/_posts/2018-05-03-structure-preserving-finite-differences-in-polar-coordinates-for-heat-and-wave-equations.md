@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure Preserving Finite Differences in Polar Coordinates for Heat and Wave Equations."
 date: 2018-05-03 00:00:00 +0100
 permalink: structure-preserving-finite-differences-in-polar-coordinates-for-heat-and-wave-equations

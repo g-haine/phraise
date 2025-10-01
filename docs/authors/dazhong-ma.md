@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dazhong Ma
 permalink: /authors/dazhong-ma
 ---

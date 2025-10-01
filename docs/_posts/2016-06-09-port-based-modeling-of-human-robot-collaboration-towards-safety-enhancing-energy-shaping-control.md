@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-based modeling of human-robot collaboration towards safety-enhancing energy shaping control"
 date: 2016-06-09 00:00:00 +0100
 permalink: port-based-modeling-of-human-robot-collaboration-towards-safety-enhancing-energy-shaping-control

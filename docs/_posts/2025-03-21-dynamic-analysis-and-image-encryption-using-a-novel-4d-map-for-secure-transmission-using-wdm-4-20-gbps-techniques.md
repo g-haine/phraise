@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic analysis and image encryption using a novel 4D map for secure transmission using WDM 4*20 Gbps techniques"
 date: 2025-03-21 00:00:00 +0100
 permalink: dynamic-analysis-and-image-encryption-using-a-novel-4d-map-for-secure-transmission-using-wdm-4-20-gbps-techniques

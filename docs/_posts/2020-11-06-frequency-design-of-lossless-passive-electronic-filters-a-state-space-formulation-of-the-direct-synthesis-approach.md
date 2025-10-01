@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Frequency Design of Lossless Passive Electronic Filters: A State-Space Formulation of the Direct Synthesis Approach"
 date: 2020-11-06 00:00:00 +0100
 permalink: frequency-design-of-lossless-passive-electronic-filters-a-state-space-formulation-of-the-direct-synthesis-approach

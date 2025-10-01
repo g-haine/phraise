@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stochastic Bounded Stability in the Three-Body Problem with Probabilistic Uncertainty Using Port-Hamiltonian Representation"
 date: 2021-05-03 00:00:00 +0100
 permalink: stochastic-bounded-stability-in-the-three-body-problem-with-probabilistic-uncertainty-using-port-hamiltonian-representation

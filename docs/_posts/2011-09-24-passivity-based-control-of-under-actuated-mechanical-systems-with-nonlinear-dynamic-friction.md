@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity based control of under-actuated mechanical systems with nonlinear dynamic friction"
 date: 2011-09-24 00:00:00 +0100
 permalink: passivity-based-control-of-under-actuated-mechanical-systems-with-nonlinear-dynamic-friction

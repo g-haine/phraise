@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by MA GuangFu
 permalink: /authors/ma-guangfu
 ---

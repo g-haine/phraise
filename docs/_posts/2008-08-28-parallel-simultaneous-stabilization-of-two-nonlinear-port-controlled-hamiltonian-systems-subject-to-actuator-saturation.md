@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Parallel simultaneous stabilization of two nonlinear Port-Controlled Hamiltonian systems subject to actuator saturation"
 date: 2008-08-28 00:00:00 +0100
 permalink: parallel-simultaneous-stabilization-of-two-nonlinear-port-controlled-hamiltonian-systems-subject-to-actuator-saturation

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andreas Siuka
 permalink: /authors/andreas-siuka
 ---

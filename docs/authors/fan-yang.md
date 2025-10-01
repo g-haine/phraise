@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fan Yang
 permalink: /authors/fan-yang
 ---

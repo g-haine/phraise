@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Spectral Theory of Infinite Dimensional Dissipative Hamiltonian Systems"
 date: 2025-04-17 00:00:00 +0100
 permalink: spectral-theory-of-infinite-dimensional-dissipative-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lakhdar Saihi
 permalink: /authors/lakhdar-saihi
 ---

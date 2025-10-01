@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geometric and energy-aware decomposition of the Navier–Stokes equations: A port-Hamiltonian approach"
 date: 2021-04-26 00:00:00 +0100
 permalink: geometric-and-energy-aware-decomposition-of-the-navier-stokes-equations-a-port-hamiltonian-approach

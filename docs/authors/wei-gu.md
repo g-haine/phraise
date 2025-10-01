@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wei Gu
 permalink: /authors/wei-gu
 ---

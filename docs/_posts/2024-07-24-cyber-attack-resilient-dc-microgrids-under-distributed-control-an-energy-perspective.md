@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cyber-Attack Resilient DC Microgrids Under Distributed Control: An Energy Perspective"
 date: 2024-07-24 00:00:00 +0100
 permalink: cyber-attack-resilient-dc-microgrids-under-distributed-control-an-energy-perspective

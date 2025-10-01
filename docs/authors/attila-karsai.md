@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Attila Karsai
 permalink: /authors/attila-karsai
 ---

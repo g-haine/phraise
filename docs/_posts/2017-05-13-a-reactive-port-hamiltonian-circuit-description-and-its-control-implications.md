@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A reactive port-hamiltonian circuit description and its control implications"
 date: 2017-05-13 00:00:00 +0100
 permalink: a-reactive-port-hamiltonian-circuit-description-and-its-control-implications

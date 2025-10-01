@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Infinite Dimensional Port Hamiltonian Representation of reaction diffusion processes"
 date: 2015-06-17 00:00:00 +0100
 permalink: infinite-dimensional-port-hamiltonian-representation-of-reaction-diffusion-processes

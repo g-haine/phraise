@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Direct power control of electrical energy storage systems: A passivity-based PI approach"
 date: 2019-06-24 00:00:00 +0100
 permalink: direct-power-control-of-electrical-energy-storage-systems-a-passivity-based-pi-approach

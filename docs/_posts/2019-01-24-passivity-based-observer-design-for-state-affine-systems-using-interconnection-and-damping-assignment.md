@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Observer Design for State Affine Systems Using Interconnection and Damping Assignment"
 date: 2019-01-24 00:00:00 +0100
 permalink: passivity-based-observer-design-for-state-affine-systems-using-interconnection-and-damping-assignment

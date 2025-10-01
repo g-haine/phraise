@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modified energy-balancing-based control for the tracking problem"
 date: 2008-04-25 00:00:00 +0100
 permalink: modified-energy-balancing-based-control-for-the-tracking-problem

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nguyen Thanh Sang
 permalink: /authors/nguyen-thanh-sang
 ---

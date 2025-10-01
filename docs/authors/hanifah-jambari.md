@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hanifah Jambari
 permalink: /authors/hanifah-jambari
 ---

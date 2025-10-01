@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fixed-time stabilization and H∞ control of time-delay port-controlled Hamiltonian systems"
 date: 2024-03-30 00:00:00 +0100
 permalink: fixed-time-stabilization-and-h-control-of-time-delay-port-controlled-hamiltonian-systems

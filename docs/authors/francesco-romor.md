@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Francesco Romor
 permalink: /authors/francesco-romor
 ---

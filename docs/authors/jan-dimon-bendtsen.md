@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jan Dimon Bendtsen
 permalink: /authors/jan-dimon-bendtsen
 ---

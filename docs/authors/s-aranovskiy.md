@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Aranovskiy
 permalink: /authors/s-aranovskiy
 ---

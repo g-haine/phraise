@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shinji Hokamoto
 permalink: /authors/shinji-hokamoto
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ian D. Walker
 permalink: /authors/ian-d-walker
 ---

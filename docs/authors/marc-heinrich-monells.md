@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marc Heinrich Monells
 permalink: /authors/marc-heinrich-monells
 ---

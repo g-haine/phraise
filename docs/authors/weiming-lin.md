@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Weiming Lin
 permalink: /authors/weiming-lin
 ---

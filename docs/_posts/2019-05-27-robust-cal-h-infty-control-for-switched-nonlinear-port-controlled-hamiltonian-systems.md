@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust \\\\( {\\cal H}_\\infty \\\\) Control for Switched Nonlinear Port-controlled Hamiltonian Systems"
 date: 2019-05-27 00:00:00 +0100
 permalink: robust-cal-h-infty-control-for-switched-nonlinear-port-controlled-hamiltonian-systems

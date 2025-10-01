@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Narayan Suresh Manjarekar
 permalink: /authors/narayan-suresh-manjarekar
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tommaso Fabbri
 permalink: /authors/tommaso-fabbri
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M.M. Namazi Isfahani
 permalink: /authors/m-m-namazi-isfahani
 ---

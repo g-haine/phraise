@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Habib Cherif
 permalink: /authors/habib-cherif
 ---

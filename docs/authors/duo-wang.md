@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Duo Wang
 permalink: /authors/duo-wang
 ---

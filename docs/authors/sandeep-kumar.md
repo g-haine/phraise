@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sandeep Kumar
 permalink: /authors/sandeep-kumar
 ---

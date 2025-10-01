@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Benjamin Unger
 permalink: /authors/benjamin-unger
 ---

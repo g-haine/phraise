@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ahmed R. Meghnous
 permalink: /authors/ahmed-r-meghnous
 ---

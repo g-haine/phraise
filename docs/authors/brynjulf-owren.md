@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Brynjulf Owren
 permalink: /authors/brynjulf-owren
 ---

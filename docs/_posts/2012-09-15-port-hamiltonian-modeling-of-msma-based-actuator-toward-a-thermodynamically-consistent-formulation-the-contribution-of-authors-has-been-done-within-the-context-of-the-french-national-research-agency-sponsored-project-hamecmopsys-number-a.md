@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation* *The contribution of authors has been done within the context of the French National Research Agency sponsored project HAMECMOPSYS number ANR-11-BS03-0002. Further information is available at www.hamecmopsys.ens2m.fr/."
 date: 2012-09-15 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-msma-based-actuator-toward-a-thermodynamically-consistent-formulation-the-contribution-of-authors-has-been-done-within-the-context-of-the-french-national-research-agency-sponsored-project-hamecmopsys-number-a

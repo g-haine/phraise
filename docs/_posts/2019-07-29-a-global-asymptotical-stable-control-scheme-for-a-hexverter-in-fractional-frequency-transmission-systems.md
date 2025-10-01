@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A global asymptotical stable control scheme for a Hexverter in fractional frequency transmission systems"
 date: 2019-07-29 00:00:00 +0100
 permalink: a-global-asymptotical-stable-control-scheme-for-a-hexverter-in-fractional-frequency-transmission-systems

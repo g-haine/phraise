@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Agissilaos Athanassoulis
 permalink: /authors/agissilaos-athanassoulis
 ---

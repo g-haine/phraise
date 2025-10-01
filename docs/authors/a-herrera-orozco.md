@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Herrera-Orozco
 permalink: /authors/a-herrera-orozco
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fixed-time \\\\( H^\\infty \\\\) tracking control of unmanned underwater vehicles with disturbance rejection via Port-Hamiltonian framework"
 date: 2024-01-03 00:00:00 +0100
 permalink: fixed-time-h-infty-tracking-control-of-unmanned-underwater-vehicles-with-disturbance

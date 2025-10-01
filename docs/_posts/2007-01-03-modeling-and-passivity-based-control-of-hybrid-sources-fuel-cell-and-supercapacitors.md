@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Passivity-Based Control of Hybrid Sources: Fuel Cell and Supercapacitors"
 date: 2007-01-03 00:00:00 +0100
 permalink: modeling-and-passivity-based-control-of-hybrid-sources-fuel-cell-and-supercapacitors

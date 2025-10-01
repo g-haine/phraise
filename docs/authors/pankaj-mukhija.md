@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pankaj Mukhija
 permalink: /authors/pankaj-mukhija
 ---

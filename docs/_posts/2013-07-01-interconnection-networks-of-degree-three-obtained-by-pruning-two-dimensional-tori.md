@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection Networks of Degree Three Obtained by Pruning Two-Dimensional Tori"
 date: 2013-07-01 00:00:00 +0100
 permalink: interconnection-networks-of-degree-three-obtained-by-pruning-two-dimensional-tori

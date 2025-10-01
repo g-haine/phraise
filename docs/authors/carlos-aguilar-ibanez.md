@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Carlos Aguilar‐Ibañez
 permalink: /authors/carlos-aguilar-ibanez
 ---

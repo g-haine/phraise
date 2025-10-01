@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ramon Beivide
 permalink: /authors/ramon-beivide
 ---

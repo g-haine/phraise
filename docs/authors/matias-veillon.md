@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matias Veillon
 permalink: /authors/matias-veillon
 ---

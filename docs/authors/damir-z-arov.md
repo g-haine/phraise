@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Damir Z. Arov
 permalink: /authors/damir-z-arov
 ---

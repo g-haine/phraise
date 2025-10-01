@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chaiyut Kaewprapha
 permalink: /authors/chaiyut-kaewprapha
 ---

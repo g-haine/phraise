@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Lyapunov Approach for the Exponential Stability of a Damped Timoshenko Beam"
 date: 2023-07-20 00:00:00 +0100
 permalink: a-lyapunov-approach-for-the-exponential-stability-of-a-damped-timoshenko-beam

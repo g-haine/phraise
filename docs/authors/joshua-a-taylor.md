@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Joshua A. Taylor
 permalink: /authors/joshua-a-taylor
 ---

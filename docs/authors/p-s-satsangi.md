@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P.S. Satsangi
 permalink: /authors/p-s-satsangi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of food-chain systems using a port-controlled Hamiltonian description"
 date: 2002-11-08 00:00:00 +0100
 permalink: stabilization-of-food-chain-systems-using-a-port-controlled-hamiltonian-description

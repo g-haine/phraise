@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 markdown: kramdown
 theme: minima
 minima:
@@ -45,6 +46,19 @@ minima:
     - title: Dissipative and port-Hamiltonian Systems
       icon: plus
       url: "http://www.phsys.eu/"
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: "post"
+  - scope:
+      type: authors
+    values:
+      layout: "page"
+  - scope:
+      type: years
+    values:
+      layout: "page"
 header_pages:
   - arXiv.md
   - search.md

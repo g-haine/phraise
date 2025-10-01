@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xilin Li
 permalink: /authors/xilin-li
 ---

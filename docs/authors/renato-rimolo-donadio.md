@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Renato Rimolo-Donadio
 permalink: /authors/renato-rimolo-donadio
 ---

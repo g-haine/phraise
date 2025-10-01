@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chao Duan
 permalink: /authors/chao-duan
 ---

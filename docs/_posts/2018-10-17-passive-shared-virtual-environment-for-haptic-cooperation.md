@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passive shared virtual environment for haptic cooperation"
 date: 2018-10-17 00:00:00 +0100
 permalink: passive-shared-virtual-environment-for-haptic-cooperation

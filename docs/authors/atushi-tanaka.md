@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Atushi Tanaka
 permalink: /authors/atushi-tanaka
 ---

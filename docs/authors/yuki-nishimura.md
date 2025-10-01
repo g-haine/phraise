@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yûki NISHIMURA
 permalink: /authors/yuki-nishimura
 ---

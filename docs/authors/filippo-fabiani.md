@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Filippo Fabiani
 permalink: /authors/filippo-fabiani
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of port-Hamiltonian differential-algebraic systems and applications"
 date: 2023-05-11 00:00:00 +0100
 permalink: control-of-port-hamiltonian-differential-algebraic-systems-and-applications

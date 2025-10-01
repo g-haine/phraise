@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tobias M. Scheuermann
 permalink: /authors/tobias-m-scheuermann
 ---

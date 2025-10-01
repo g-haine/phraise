@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Electrical Networks and Algebraic Graph Theory: Models, Properties, and Applications"
 date: 2018-04-25 00:00:00 +0100
 permalink: electrical-networks-and-algebraic-graph-theory-models-properties-and-applications

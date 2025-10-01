@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hongren Yin
 permalink: /authors/hongren-yin
 ---

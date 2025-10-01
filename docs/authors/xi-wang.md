@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xi Wang
 permalink: /authors/xi-wang
 ---

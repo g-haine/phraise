@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sumit Sood
 permalink: /authors/sumit-sood
 ---

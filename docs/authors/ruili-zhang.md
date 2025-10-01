@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ruili Zhang
 permalink: /authors/ruili-zhang
 ---

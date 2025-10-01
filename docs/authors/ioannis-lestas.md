@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ioannis Lestas
 permalink: /authors/ioannis-lestas
 ---

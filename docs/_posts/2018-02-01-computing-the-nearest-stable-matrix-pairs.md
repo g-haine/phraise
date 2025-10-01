@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Computing the nearest stable matrix pairs"
 date: 2018-02-01 00:00:00 +0100
 permalink: computing-the-nearest-stable-matrix-pairs

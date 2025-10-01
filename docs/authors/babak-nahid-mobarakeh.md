@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Babak Nahid-Mobarakeh
 permalink: /authors/babak-nahid-mobarakeh
 ---

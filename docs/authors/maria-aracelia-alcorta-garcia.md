@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maria Aracelia Alcorta Garcia
 permalink: /authors/maria-aracelia-alcorta-garcia
 ---

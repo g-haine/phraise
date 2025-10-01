@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lili Ju
 permalink: /authors/lili-ju
 ---

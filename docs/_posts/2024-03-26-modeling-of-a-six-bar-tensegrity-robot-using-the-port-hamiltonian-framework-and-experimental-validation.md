@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation"
 date: 2024-03-26 00:00:00 +0100
 permalink: modeling-of-a-six-bar-tensegrity-robot-using-the-port-hamiltonian-framework-and-experimental-validation

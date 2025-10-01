@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Camilla Sterud
 permalink: /authors/camilla-sterud
 ---

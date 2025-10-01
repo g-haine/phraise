@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Infinite-Dimensional Observers for High-Order Boundary-Controlled Port-Hamiltonian Systems"
 date: 2023-05-19 00:00:00 +0100
 permalink: infinite-dimensional-observers-for-high-order-boundary-controlled-port-hamiltonian-systems

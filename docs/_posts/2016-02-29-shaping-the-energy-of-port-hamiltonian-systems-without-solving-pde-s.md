@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Shaping the energy of port-Hamiltonian systems without solving PDE's"
 date: 2016-02-29 00:00:00 +0100
 permalink: shaping-the-energy-of-port-hamiltonian-systems-without-solving-pde-s

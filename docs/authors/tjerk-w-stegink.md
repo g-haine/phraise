@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tjerk W. Stegink
 permalink: /authors/tjerk-w-stegink
 ---

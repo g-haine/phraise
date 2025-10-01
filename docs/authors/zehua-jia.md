@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zehua Jia
 permalink: /authors/zehua-jia
 ---

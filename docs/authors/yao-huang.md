@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yao Huang
 permalink: /authors/yao-huang
 ---

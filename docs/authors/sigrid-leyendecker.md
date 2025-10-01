@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sigrid Leyendecker
 permalink: /authors/sigrid-leyendecker
 ---

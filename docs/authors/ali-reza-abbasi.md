@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ali Reza Abbasi
 permalink: /authors/ali-reza-abbasi
 ---

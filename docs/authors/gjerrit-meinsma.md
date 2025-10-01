@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gjerrit Meinsma
 permalink: /authors/gjerrit-meinsma
 ---

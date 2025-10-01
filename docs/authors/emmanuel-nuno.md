@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Emmanuel Nuño
 permalink: /authors/emmanuel-nuno
 ---

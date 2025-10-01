@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by George Mylonas
 permalink: /authors/george-mylonas
 ---

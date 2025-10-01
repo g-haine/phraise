@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Full-order observer design for a class of port-Hamiltonian systems"
 date: 2010-02-06 00:00:00 +0100
 permalink: full-order-observer-design-for-a-class-of-port-hamiltonian-systems

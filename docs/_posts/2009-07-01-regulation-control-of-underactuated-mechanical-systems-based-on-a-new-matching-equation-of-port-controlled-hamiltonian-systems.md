@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Regulation control of underactuated mechanical systems based on a new matching equation of port-controlled hamiltonian systems"
 date: 2009-07-01 00:00:00 +0100
 permalink: regulation-control-of-underactuated-mechanical-systems-based-on-a-new-matching-equation-of-port-controlled-hamiltonian-systems

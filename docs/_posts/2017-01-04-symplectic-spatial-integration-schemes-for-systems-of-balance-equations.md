@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Symplectic spatial integration schemes for systems of balance equations"
 date: 2017-01-04 00:00:00 +0100
 permalink: symplectic-spatial-integration-schemes-for-systems-of-balance-equations

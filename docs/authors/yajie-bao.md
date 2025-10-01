@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yajie Bao
 permalink: /authors/yajie-bao
 ---

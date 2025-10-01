@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jose de Jesus Rubio
 permalink: /authors/jose-de-jesus-rubio
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Discrete Port-Hamiltonian Dynamics via Interconnection and Damping Assignment"
 date: 2020-06-08 00:00:00 +0100
 permalink: stabilization-of-discrete-port-hamiltonian-dynamics-via-interconnection-and-damping-assignment

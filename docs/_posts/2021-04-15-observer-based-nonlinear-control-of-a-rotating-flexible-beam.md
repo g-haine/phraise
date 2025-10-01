@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer Based Nonlinear Control of a Rotating Flexible Beam"
 date: 2021-04-15 00:00:00 +0100
 permalink: observer-based-nonlinear-control-of-a-rotating-flexible-beam

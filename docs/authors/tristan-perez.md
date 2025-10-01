@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tristan Perez
 permalink: /authors/tristan-perez
 ---

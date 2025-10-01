@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Disturbance Rejection Control Method Based on Variable Damping and Port Controlled Hamiltonian with Dissipation Model for Induction Drive Motor"
 date: 2023-08-21 00:00:00 +0100
 permalink: disturbance-rejection-control-method-based-on-variable-damping-and-port-controlled-hamiltonian-with-dissipation-model-for-induction-drive-motor

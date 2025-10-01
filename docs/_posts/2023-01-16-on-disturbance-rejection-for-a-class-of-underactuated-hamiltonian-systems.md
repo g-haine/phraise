@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Disturbance Rejection for a Class of Underactuated Hamiltonian Systems"
 date: 2023-01-16 00:00:00 +0100
 permalink: on-disturbance-rejection-for-a-class-of-underactuated-hamiltonian-systems

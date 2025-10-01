@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Controlled Hamiltonian and Energy-Shaping Based Current Control Scheme for Grid-Connected Inverter"
 date: 2019-12-27 00:00:00 +0100
 permalink: port-controlled-hamiltonian-and-energy-shaping-based-current-control-scheme-for-grid-connected-inverter

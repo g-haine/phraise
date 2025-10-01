@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Passivity-Based Integral Sliding Mode Controller for Mechanical Port-Hamiltonian Systems"
 date: 2023-06-28 00:00:00 +0100
 permalink: a-passivity-based-integral-sliding-mode-controller-for-mechanical-port-hamiltonian-systems

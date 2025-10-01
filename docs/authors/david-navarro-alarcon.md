@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David Navarro-Alarcon
 permalink: /authors/david-navarro-alarcon
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cristina Tarín
 permalink: /authors/cristina-tarin
 ---

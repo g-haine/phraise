@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jin‐Zhu Peng
 permalink: /authors/jin-zhu-peng
 ---

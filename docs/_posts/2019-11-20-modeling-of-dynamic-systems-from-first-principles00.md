@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling of Dynamic Systems from First Principles"
 date: 2019-11-20 00:00:00 +0100
 permalink: modeling-of-dynamic-systems-from-first-principles00

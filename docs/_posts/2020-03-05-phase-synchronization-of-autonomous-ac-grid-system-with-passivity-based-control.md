@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Phase synchronization of autonomous AC grid system with passivity‐based control"
 date: 2020-03-05 00:00:00 +0100
 permalink: phase-synchronization-of-autonomous-ac-grid-system-with-passivity-based-control

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhitao Wu
 permalink: /authors/zhitao-wu
 ---

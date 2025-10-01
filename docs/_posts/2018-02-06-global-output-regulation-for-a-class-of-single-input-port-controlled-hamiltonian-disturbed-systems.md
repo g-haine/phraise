@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global output regulation for a class of single input Port-controlled Hamiltonian disturbed systems"
 date: 2018-02-06 00:00:00 +0100
 permalink: global-output-regulation-for-a-class-of-single-input-port-controlled-hamiltonian-disturbed-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Problem of Packets Loss in Scaled Digital Port-Hamiltonian Based Bilateral Telemanipulation"
 date: 2005-09-12 00:00:00 +0100
 permalink: the-problem-of-packets-loss-in-scaled-digital-port-hamiltonian-based-bilateral-telemanipulation

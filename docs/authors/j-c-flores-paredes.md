@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. C. Flores Paredes
 permalink: /authors/j-c-flores-paredes
 ---

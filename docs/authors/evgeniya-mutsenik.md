@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Evgeniya Mutsenik
 permalink: /authors/evgeniya-mutsenik
 ---

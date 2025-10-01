@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rostyslav V. Polyuga
 permalink: /authors/rostyslav-v-polyuga
 ---

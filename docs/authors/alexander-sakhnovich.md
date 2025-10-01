@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander Sakhnovich
 permalink: /authors/alexander-sakhnovich
 ---

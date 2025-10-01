@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stable force/position control of a robotic endoscope holder for constrained tasks in nasal surgery"
 date: 2011-10-12 00:00:00 +0100
 permalink: stable-force-position-control-of-a-robotic-endoscope-holder-for-constrained-tasks-in-nasal-surgery

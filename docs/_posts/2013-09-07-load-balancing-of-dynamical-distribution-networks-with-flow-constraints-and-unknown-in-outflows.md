@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows"
 date: 2013-09-07 00:00:00 +0100
 permalink: load-balancing-of-dynamical-distribution-networks-with-flow-constraints-and-unknown-in-outflows

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "STOCHASTIC GALERKIN METHOD AND PORT-HAMILTONIAN FORM FOR LINEAR FIRST-ORDER ORDINARY DIFFERENTIAL EQUATIONS"
 date: 2024-02-06 00:00:00 +0100
 permalink: stochastic-galerkin-method-and-port-hamiltonian-form-for-linear-first-order-ordinary-differential-equations

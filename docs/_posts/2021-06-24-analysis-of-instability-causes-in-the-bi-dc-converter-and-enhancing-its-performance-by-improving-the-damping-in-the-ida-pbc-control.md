@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analysis of instability causes in the bi‐dc converter and enhancing its performance by improving the damping in the IDA‐PBC control"
 date: 2021-06-24 00:00:00 +0100
 permalink: analysis-of-instability-causes-in-the-bi-dc-converter-and-enhancing-its-performance-by-improving-the-damping-in-the-ida-pbc-control

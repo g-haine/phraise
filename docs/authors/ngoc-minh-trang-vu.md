@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ngoc Minh Trang Vu
 permalink: /authors/ngoc-minh-trang-vu
 ---

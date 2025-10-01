@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed formation control of networked mechanical systems"
 date: 2022-08-02 00:00:00 +0100
 permalink: distributed-formation-control-of-networked-mechanical-systems

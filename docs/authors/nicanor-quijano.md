@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nicanor Quijano
 permalink: /authors/nicanor-quijano
 ---

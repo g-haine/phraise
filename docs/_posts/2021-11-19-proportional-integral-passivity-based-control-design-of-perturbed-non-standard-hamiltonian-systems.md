@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Proportional-Integral passivity-based control design of perturbed non-standard Hamiltonian systems"
 date: 2021-11-19 00:00:00 +0100
 permalink: proportional-integral-passivity-based-control-design-of-perturbed-non-standard-hamiltonian-systems

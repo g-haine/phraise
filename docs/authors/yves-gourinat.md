@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yves Gourinat
 permalink: /authors/yves-gourinat
 ---

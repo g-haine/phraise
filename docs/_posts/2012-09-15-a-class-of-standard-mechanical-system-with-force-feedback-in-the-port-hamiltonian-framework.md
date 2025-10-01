@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Class of Standard Mechanical System with Force Feedback in the port-Hamiltonian Framework"
 date: 2012-09-15 00:00:00 +0100
 permalink: a-class-of-standard-mechanical-system-with-force-feedback-in-the-port-hamiltonian-framework

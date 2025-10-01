@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Increasing the region of attraction in DC microgrids"
 date: 2023-02-14 00:00:00 +0100
 permalink: increasing-the-region-of-attraction-in-dc-microgrids

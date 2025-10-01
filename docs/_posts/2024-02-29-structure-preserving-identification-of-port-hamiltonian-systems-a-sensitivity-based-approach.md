@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-Preserving Identification of Port-Hamiltonian Systems—A Sensitivity-Based Approach"
 date: 2024-02-29 00:00:00 +0100
 permalink: structure-preserving-identification-of-port-hamiltonian-systems-a-sensitivity-based-approach

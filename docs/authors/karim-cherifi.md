@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Karim Cherifi
 permalink: /authors/karim-cherifi
 ---

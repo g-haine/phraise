@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Simon Hochgerner
 permalink: /authors/simon-hochgerner
 ---

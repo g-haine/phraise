@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhen Tian
 permalink: /authors/zhen-tian
 ---

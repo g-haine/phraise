@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model Reduction for Linear Systems with Low-Rank Switching"
 date: 2018-12-11 00:00:00 +0100
 permalink: model-reduction-for-linear-systems-with-low-rank-switching

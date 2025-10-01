@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohit Makka
 permalink: /authors/mohit-makka
 ---

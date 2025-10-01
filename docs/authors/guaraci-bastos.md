@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guaraci Bastos
 permalink: /authors/guaraci-bastos
 ---

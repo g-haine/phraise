@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andreas W. Götz
 permalink: /authors/andreas-w-gotz
 ---

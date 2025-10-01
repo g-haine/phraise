@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bao-chun Lu
 permalink: /authors/bao-chun-lu
 ---

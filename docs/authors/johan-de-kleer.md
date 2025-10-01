@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johan de Kleer
 permalink: /authors/johan-de-kleer
 ---

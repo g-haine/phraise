@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuan-long Hou
 permalink: /authors/yuan-long-hou
 ---

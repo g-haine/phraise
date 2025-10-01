@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential Stability and Tuning for a Class of Mechanical Systems"
 date: 2022-01-03 00:00:00 +0100
 permalink: exponential-stability-and-tuning-for-a-class-of-mechanical-systems

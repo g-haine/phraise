@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuexuan Wang
 permalink: /authors/yuexuan-wang
 ---

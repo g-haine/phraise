@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. Wang
 permalink: /authors/j-wang
 ---

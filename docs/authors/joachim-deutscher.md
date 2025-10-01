@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Joachim Deutscher
 permalink: /authors/joachim-deutscher
 ---

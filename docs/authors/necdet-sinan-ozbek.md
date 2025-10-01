@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Necdet Sinan OZBEK
 permalink: /authors/necdet-sinan-ozbek
 ---

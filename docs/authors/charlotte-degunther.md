@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Charlotte Degünther
 permalink: /authors/charlotte-degunther
 ---

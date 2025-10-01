@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jacek Banasiak
 permalink: /authors/jacek-banasiak
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-Preserving Finite Volume Method for 2D Linear and Non-Linear Port-Hamiltonian Systems"
 date: 2018-06-18 00:00:00 +0100
 permalink: structure-preserving-finite-volume-method-for-2d-linear-and-non-linear-port-hamiltonian-systems

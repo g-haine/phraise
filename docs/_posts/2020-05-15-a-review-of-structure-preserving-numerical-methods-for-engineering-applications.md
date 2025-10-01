@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A review of structure-preserving numerical methods for engineering applications"
 date: 2020-05-15 00:00:00 +0100
 permalink: a-review-of-structure-preserving-numerical-methods-for-engineering-applications

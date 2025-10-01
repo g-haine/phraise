@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chengjun Xia
 permalink: /authors/chengjun-xia
 ---

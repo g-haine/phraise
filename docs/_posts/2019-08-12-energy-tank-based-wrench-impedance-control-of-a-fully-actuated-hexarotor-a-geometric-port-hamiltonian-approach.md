@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Tank-Based Wrench/Impedance Control of a Fully-Actuated Hexarotor: A Geometric Port-Hamiltonian Approach"
 date: 2019-08-12 00:00:00 +0100
 permalink: energy-tank-based-wrench-impedance-control-of-a-fully-actuated-hexarotor-a-geometric-port-hamiltonian-approach

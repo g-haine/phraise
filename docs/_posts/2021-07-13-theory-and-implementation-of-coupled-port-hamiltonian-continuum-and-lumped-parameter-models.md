@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Theory and Implementation of Coupled Port-Hamiltonian Continuum and Lumped Parameter Models"
 date: 2021-07-13 00:00:00 +0100
 permalink: theory-and-implementation-of-coupled-port-hamiltonian-continuum-and-lumped-parameter-models

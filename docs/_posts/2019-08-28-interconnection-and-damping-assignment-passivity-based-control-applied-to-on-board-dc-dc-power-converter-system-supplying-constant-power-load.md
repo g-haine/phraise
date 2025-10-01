@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and Damping Assignment Passivity-Based Control Applied to On-Board DC–DC Power Converter System Supplying Constant Power Load"
 date: 2019-08-28 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-applied-to-on-board-dc-dc-power-converter-system-supplying-constant-power-load

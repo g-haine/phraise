@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rodolfo Reyes-Báez
 permalink: /authors/rodolfo-reyes-baez
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Infinite-dimensional port-Hamiltonian systems with a stationary interface"
 date: 2025-02-05 00:00:00 +0100
 permalink: infinite-dimensional-port-hamiltonian-systems-with-a-stationary-interface

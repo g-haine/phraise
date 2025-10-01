@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinming Fan
 permalink: /authors/xinming-fan
 ---

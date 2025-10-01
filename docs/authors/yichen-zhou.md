@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yichen Zhou
 permalink: /authors/yichen-zhou
 ---

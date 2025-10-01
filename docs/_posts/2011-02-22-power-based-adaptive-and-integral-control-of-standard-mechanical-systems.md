@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power-based adaptive and integral control of standard mechanical systems"
 date: 2011-02-22 00:00:00 +0100
 permalink: power-based-adaptive-and-integral-control-of-standard-mechanical-systems

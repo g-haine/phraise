@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tomoya Sakamoto
 permalink: /authors/tomoya-sakamoto
 ---

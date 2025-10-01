@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhiqing Yang
 permalink: /authors/zhiqing-yang
 ---

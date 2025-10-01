@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Denis Genon-Catalot
 permalink: /authors/denis-genon-catalot
 ---

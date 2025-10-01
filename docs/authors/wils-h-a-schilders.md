@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wil H. A. Schilders
 permalink: /authors/wils-h-a-schilders
 ---

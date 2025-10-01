@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingrui Zhou
 permalink: /authors/qingrui-zhou
 ---

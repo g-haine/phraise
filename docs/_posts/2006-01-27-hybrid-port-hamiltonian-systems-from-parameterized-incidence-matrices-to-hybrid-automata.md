@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hybrid port–Hamiltonian systems: From parameterized incidence matrices to hybrid automata"
 date: 2006-01-27 00:00:00 +0100
 permalink: hybrid-port-hamiltonian-systems-from-parameterized-incidence-matrices-to-hybrid-automata

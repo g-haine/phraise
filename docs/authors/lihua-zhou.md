@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lihua Zhou
 permalink: /authors/lihua-zhou
 ---

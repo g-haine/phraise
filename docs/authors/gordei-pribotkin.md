@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gordei Pribõtkin
 permalink: /authors/gordei-pribotkin
 ---

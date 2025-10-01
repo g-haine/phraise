@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Siyi Sun
 permalink: /authors/siyi-sun
 ---

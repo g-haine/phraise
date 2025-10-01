@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thinh Tri Kieu
 permalink: /authors/thinh-tri-kieu
 ---

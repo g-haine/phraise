@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "L2 Disturbance Suppression Controller Design for Multiple Time Delays Offshore Wind Turbines"
 date: 2020-05-12 00:00:00 +0100
 permalink: l2-disturbance-suppression-controller-design-for-multiple-time-delays-offshore-wind-turbines

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Feedback equivalence of input–output contact systems"
 date: 2013-04-16 00:00:00 +0100
 permalink: feedback-equivalence-of-input-output-contact-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary Port Hamiltonian systems of conservation laws coupled by a moving interface"
 date: 2012-09-15 00:00:00 +0100
 permalink: boundary-port-hamiltonian-systems-of-conservation-laws-coupled-by-a-moving-interface

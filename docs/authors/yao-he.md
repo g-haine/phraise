@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yao He
 permalink: /authors/yao-he
 ---

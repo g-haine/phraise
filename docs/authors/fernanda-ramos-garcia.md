@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fernanda Ramos-García
 permalink: /authors/fernanda-ramos-garcia
 ---

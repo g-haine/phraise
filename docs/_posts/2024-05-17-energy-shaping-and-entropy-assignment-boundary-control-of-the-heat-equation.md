@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-shaping and entropy-assignment boundary control of the heat equation"
 date: 2024-05-17 00:00:00 +0100
 permalink: energy-shaping-and-entropy-assignment-boundary-control-of-the-heat-equation

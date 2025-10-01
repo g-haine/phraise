@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haotian Li
 permalink: /authors/haotian-li
 ---

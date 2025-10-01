@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Henry O. Jacobs
 permalink: /authors/henry-o-jacobs
 ---

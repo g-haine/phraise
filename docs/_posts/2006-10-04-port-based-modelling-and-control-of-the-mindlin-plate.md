@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-based Modelling and Control of the Mindlin Plate"
 date: 2006-10-04 00:00:00 +0100
 permalink: port-based-modelling-and-control-of-the-mindlin-plate

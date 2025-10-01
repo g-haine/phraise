@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic stability of an Euler-Bernoulli beam coupled to non-linear spring-damper systems"
 date: 2017-10-19 00:00:00 +0100
 permalink: asymptotic-stability-of-an-euler-bernoulli-beam-coupled-to-non-linear-spring-damper-systems

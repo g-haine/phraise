@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control for multi-vehicle systems subject to string constraints"
 date: 2014-10-26 00:00:00 +0100
 permalink: passivity-based-control-for-multi-vehicle-systems-subject-to-string-constraints

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David C. Del Rey Fernández
 permalink: /authors/david-c-del-rey-fernandez
 ---

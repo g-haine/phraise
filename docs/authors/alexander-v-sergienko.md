@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander V. Sergienko
 permalink: /authors/alexander-v-sergienko
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal control solution for Pennes' equation using strongly continuous semigroup"
 date: 2014-10-14 00:00:00 +0100
 permalink: optimal-control-solution-for-pennes-equation-using-strongly-continuous-semigroup

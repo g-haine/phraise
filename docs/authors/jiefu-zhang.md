@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiefu Zhang
 permalink: /authors/jiefu-zhang
 ---

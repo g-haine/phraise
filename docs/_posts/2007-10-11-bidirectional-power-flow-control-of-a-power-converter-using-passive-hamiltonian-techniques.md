@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bidirectional power flow control of a power converter using passive Hamiltonian techniques"
 date: 2007-10-11 00:00:00 +0100
 permalink: bidirectional-power-flow-control-of-a-power-converter-using-passive-hamiltonian-techniques

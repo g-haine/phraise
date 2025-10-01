@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Construction of discrete-time models for port-controlled Hamiltonian systems with applications"
 date: 2006-04-28 00:00:00 +0100
 permalink: construction-of-discrete-time-models-for-port-controlled-hamiltonian-systems-with-applications

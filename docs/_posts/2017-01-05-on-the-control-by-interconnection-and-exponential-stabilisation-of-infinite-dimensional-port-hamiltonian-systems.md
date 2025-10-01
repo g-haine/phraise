@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the control by interconnection and exponential stabilisation of infinite dimensional port-Hamiltonian systems"
 date: 2017-01-05 00:00:00 +0100
 permalink: on-the-control-by-interconnection-and-exponential-stabilisation-of-infinite-dimensional-port-hamiltonian-systems

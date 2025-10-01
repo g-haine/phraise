@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac structure for linear dynamical systems on Sobolev spaces"
 date: 2025-03-14 00:00:00 +0100
 permalink: dirac-structure-for-linear-dynamical-systems-on-sobolev-spaces

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Poli
 permalink: /authors/michael-poli
 ---

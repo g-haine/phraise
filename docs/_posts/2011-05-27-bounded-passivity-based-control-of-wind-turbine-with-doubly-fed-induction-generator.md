@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bounded passivity-based control of wind turbine with doubly fed induction generator"
 date: 2011-05-27 00:00:00 +0100
 permalink: bounded-passivity-based-control-of-wind-turbine-with-doubly-fed-induction-generator

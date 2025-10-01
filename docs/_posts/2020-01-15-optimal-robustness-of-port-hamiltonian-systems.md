@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal Robustness of Port-Hamiltonian Systems"
 date: 2020-01-15 00:00:00 +0100
 permalink: optimal-robustness-of-port-hamiltonian-systems

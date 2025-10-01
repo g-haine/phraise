@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cuiran Li
 permalink: /authors/cuiran-li
 ---

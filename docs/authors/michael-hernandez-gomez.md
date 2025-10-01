@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Hernandez-Gomez
 permalink: /authors/michael-hernandez-gomez
 ---

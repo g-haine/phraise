@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tomoya Yokogawa
 permalink: /authors/tomoya-yokogawa
 ---

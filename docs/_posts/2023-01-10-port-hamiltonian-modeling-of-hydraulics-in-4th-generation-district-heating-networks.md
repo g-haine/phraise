@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling of Hydraulics in 4th Generation District Heating Networks"
 date: 2023-01-10 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-hydraulics-in-4th-generation-district-heating-networks

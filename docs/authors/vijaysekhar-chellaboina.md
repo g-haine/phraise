@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by VijaySekhar Chellaboina
 permalink: /authors/vijaysekhar-chellaboina
 ---

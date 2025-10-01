@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tingting Yang
 permalink: /authors/tingting-yang
 ---

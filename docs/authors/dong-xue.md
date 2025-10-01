@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dong Xue
 permalink: /authors/dong-xue
 ---

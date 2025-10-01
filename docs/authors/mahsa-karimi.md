@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mahsa Karimi
 permalink: /authors/mahsa-karimi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Camilo Garcia-Tenorio
 permalink: /authors/camilo-garcia-tenorio
 ---

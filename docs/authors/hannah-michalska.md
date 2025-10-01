@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hannah Michalska
 permalink: /authors/hannah-michalska
 ---

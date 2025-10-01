@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Memristive port-Hamiltonian control: Path-dependent damping injection in control of mechanical systems"
 date: 2013-10-11 00:00:00 +0100
 permalink: memristive-port-hamiltonian-control-path-dependent-damping-injection-in-control-of-mechanical-systems

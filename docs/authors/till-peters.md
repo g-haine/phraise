@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Till Peters
 permalink: /authors/till-peters
 ---

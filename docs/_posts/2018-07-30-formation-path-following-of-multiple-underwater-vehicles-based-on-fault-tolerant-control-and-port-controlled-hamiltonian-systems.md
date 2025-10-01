@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Formation path-following of multiple underwater vehicles based on fault tolerant control and port-controlled hamiltonian systems"
 date: 2018-07-30 00:00:00 +0100
 permalink: formation-path-following-of-multiple-underwater-vehicles-based-on-fault-tolerant-control-and-port-controlled-hamiltonian-systems

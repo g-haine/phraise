@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pei Zhou
 permalink: /authors/pei-zhou
 ---

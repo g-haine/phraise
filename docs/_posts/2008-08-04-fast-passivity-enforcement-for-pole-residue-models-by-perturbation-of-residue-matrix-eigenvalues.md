@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fast Passivity Enforcement for Pole-Residue Models by Perturbation of Residue Matrix Eigenvalues"
 date: 2008-08-04 00:00:00 +0100
 permalink: fast-passivity-enforcement-for-pole-residue-models-by-perturbation-of-residue-matrix-eigenvalues

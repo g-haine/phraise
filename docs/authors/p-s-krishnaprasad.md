@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P. S. Krishnaprasad
 permalink: /authors/p-s-krishnaprasad
 ---

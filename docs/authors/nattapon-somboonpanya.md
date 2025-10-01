@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nattapon Somboonpanya
 permalink: /authors/nattapon-somboonpanya
 ---

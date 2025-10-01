@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Feiwen Liu
 permalink: /authors/feiwen-liu
 ---

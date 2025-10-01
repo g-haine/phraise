@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simultaneous Stabilization of a Collection of Port-controlled Hamiltonian Systems with Application to Affine Nonlinear Systems"
 date: 2007-01-19 00:00:00 +0100
 permalink: simultaneous-stabilization-of-a-collection-of-port-controlled-hamiltonian-systems-with-application-to-affine-nonlinear-systems

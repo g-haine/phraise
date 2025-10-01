@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T. Rittenschober
 permalink: /authors/t-rittenschober
 ---

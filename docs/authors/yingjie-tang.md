@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yingjie Tang
 permalink: /authors/yingjie-tang
 ---

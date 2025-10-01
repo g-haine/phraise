@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A.I. Vakis
 permalink: /authors/a-i-vakis
 ---

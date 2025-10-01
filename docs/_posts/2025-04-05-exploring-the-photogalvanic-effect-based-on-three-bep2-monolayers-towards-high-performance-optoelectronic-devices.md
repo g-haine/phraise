@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exploring the photogalvanic effect based on three BeP2 monolayers: Towards high-performance optoelectronic devices"
 date: 2025-04-05 00:00:00 +0100
 permalink: exploring-the-photogalvanic-effect-based-on-three-bep2-monolayers-towards-high-performance-optoelectronic-devices

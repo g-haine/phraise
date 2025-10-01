@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lukas Kölsch
 permalink: /authors/lukas-kolsch
 ---

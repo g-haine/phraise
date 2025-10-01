@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Sliding Mode Observer Design for a Counter-current Heat Exchanger"
 date: 2021-04-15 00:00:00 +0100
 permalink: port-hamiltonian-sliding-mode-observer-design-for-a-counter-current-heat-exchanger

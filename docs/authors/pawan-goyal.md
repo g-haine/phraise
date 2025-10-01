@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pawan Goyal
 permalink: /authors/pawan-goyal
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Generic observability for port-Hamiltonian descriptor systems"
 date: 2024-06-03 00:00:00 +0100
 permalink: generic-observability-for-port-hamiltonian-descriptor-systems

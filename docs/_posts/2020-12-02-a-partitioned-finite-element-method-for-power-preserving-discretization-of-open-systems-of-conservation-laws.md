@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A partitioned finite element method for power-preserving discretization of open systems of conservation laws"
 date: 2020-12-02 00:00:00 +0100
 permalink: a-partitioned-finite-element-method-for-power-preserving-discretization-of-open-systems-of-conservation-laws

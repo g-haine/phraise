@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rixin Wang
 permalink: /authors/rixin-wang
 ---

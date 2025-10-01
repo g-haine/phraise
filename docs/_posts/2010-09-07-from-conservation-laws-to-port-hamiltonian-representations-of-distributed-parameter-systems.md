@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "FROM CONSERVATION LAWS TO PORT-HAMILTONIAN REPRESENTATIONS OF DISTRIBUTED-PARAMETER SYSTEMS"
 date: 2010-09-07 00:00:00 +0100
 permalink: from-conservation-laws-to-port-hamiltonian-representations-of-distributed-parameter-systems

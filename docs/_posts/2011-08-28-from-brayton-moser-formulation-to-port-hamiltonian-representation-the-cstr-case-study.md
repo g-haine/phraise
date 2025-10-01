@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "From Brayton-Moser formulation to Port Hamiltonian representation: the CSTR case study"
 date: 2011-08-28 00:00:00 +0100
 permalink: from-brayton-moser-formulation-to-port-hamiltonian-representation-the-cstr-case-study

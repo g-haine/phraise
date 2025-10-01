@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wei Li
 permalink: /authors/wei-li
 ---

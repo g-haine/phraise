@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On feedback equivalence to port controlled Hamiltonian systems"
 date: 2005-03-17 00:00:00 +0100
 permalink: on-feedback-equivalence-to-port-controlled-hamiltonian-systems

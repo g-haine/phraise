@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lu Gao
 permalink: /authors/lu-gao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zichen Wang
 permalink: /authors/zichen-wang
 ---

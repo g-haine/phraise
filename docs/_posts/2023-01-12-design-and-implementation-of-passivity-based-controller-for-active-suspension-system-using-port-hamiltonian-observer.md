@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design and implementation of passivity-based controller for active suspension system using port-Hamiltonian observer"
 date: 2023-01-12 00:00:00 +0100
 permalink: design-and-implementation-of-passivity-based-controller-for-active-suspension-system-using-port-hamiltonian-observer

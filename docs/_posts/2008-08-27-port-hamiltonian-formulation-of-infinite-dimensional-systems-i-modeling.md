@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Hamiltonian formulation of infinite dimensional systems I. Modeling"
 date: 2008-08-27 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling

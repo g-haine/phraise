@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohamed I. El-Hawwary
 permalink: /authors/mohamed-i-el-hawwary
 ---

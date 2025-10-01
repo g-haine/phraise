@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T. Risse
 permalink: /authors/t-risse
 ---

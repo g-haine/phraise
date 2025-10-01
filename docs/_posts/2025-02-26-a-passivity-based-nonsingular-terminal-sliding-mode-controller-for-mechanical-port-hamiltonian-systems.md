@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A passivity-based nonsingular terminal sliding mode controller for mechanical port-Hamiltonian systems"
 date: 2025-02-26 00:00:00 +0100
 permalink: a-passivity-based-nonsingular-terminal-sliding-mode-controller-for-mechanical-port-hamiltonian-systems

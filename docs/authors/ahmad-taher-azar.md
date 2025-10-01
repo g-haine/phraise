@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ahmad Taher Azar
 permalink: /authors/ahmad-taher-azar
 ---

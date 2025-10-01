@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hongguo Xu
 permalink: /authors/hongguo-xu
 ---

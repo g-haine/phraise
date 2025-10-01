@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Criteria for the Implementation of Projective Measurements in Quantum Optics"
 date: 2004-11-18 00:00:00 +0100
 permalink: criteria-for-the-implementation-of-projective-measurements-in-quantum-optics

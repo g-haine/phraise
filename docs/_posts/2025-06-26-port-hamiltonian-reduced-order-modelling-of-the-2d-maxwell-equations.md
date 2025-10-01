@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian reduced order modelling of the 2D Maxwell equations"
 date: 2025-06-26 00:00:00 +0100
 permalink: port-hamiltonian-reduced-order-modelling-of-the-2d-maxwell-equations

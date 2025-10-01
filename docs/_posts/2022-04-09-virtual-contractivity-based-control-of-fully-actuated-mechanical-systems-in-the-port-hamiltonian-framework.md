@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Virtual contractivity-based control of fully-actuated mechanical systems in the port-Hamiltonian framework"
 date: 2022-04-09 00:00:00 +0100
 permalink: virtual-contractivity-based-control-of-fully-actuated-mechanical-systems-in-the-port-hamiltonian-framework

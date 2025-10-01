@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity non-singular higher-order sliding mode control for direct-driven PMSG"
 date: 2015-05-22 00:00:00 +0100
 permalink: passivity-non-singular-higher-order-sliding-mode-control-for-direct-driven-pmsg

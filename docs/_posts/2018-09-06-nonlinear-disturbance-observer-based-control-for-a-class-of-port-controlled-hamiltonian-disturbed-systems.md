@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear Disturbance Observer-Based Control for a Class of Port-Controlled Hamiltonian Disturbed Systems"
 date: 2018-09-06 00:00:00 +0100
 permalink: nonlinear-disturbance-observer-based-control-for-a-class-of-port-controlled-hamiltonian-disturbed-systems

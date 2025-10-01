@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dhaou Garai
 permalink: /authors/dhaou-garai
 ---

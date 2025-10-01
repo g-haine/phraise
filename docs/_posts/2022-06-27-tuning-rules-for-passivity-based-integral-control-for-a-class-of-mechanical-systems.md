@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tuning Rules for Passivity-Based Integral Control for a Class of Mechanical Systems"
 date: 2022-06-27 00:00:00 +0100
 permalink: tuning-rules-for-passivity-based-integral-control-for-a-class-of-mechanical-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhexiao Pan
 permalink: /authors/zhexiao-pan
 ---

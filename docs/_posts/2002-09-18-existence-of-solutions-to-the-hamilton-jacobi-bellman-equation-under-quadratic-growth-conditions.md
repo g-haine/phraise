@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Existence of Solutions to the Hamilton–Jacobi–Bellman Equation under Quadratic Growth Conditions"
 date: 2002-09-18 00:00:00 +0100
 permalink: existence-of-solutions-to-the-hamilton-jacobi-bellman-equation-under-quadratic-growth-conditions

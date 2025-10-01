@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H. Abootorabi Zarchi
 permalink: /authors/h-abootorabi-zarchi
 ---

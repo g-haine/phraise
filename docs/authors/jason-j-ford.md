@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jason J. Ford
 permalink: /authors/jason-j-ford
 ---

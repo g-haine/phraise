@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Theodore James Courant
 permalink: /authors/theodore-james-courant
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michał Wojtylak
 permalink: /authors/michal-wojtylak
 ---

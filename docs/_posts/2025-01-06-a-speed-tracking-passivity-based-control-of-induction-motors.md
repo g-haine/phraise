@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Speed Tracking Passivity Based Control of Induction Motors"
 date: 2025-01-06 00:00:00 +0100
 permalink: a-speed-tracking-passivity-based-control-of-induction-motors

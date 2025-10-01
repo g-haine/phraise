@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-PB control design for VSC-HVDC transmission based on PCHD model"
 date: 2014-06-16 00:00:00 +0100
 permalink: ida-pb-control-design-for-vsc-hvdc-transmission-based-on-pchd-model

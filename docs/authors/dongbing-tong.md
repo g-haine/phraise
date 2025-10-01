@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dongbing Tong
 permalink: /authors/dongbing-tong
 ---

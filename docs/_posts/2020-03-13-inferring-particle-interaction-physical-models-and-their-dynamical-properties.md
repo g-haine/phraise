@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Inferring Particle Interaction Physical Models and Their Dynamical Properties"
 date: 2020-03-13 00:00:00 +0100
 permalink: inferring-particle-interaction-physical-models-and-their-dynamical-properties

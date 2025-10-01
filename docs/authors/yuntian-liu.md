@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuntian Liu
 permalink: /authors/yuntian-liu
 ---

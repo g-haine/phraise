@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhenkai Zhang
 permalink: /authors/zhenkai-zhang
 ---

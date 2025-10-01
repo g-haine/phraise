@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ester Simo
 permalink: /authors/ester-simo
 ---

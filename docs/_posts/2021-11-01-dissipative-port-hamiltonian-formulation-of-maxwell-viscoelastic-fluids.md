@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipative port-Hamiltonian Formulation of Maxwell Viscoelastic Fluids"
 date: 2021-11-01 00:00:00 +0100
 permalink: dissipative-port-hamiltonian-formulation-of-maxwell-viscoelastic-fluids

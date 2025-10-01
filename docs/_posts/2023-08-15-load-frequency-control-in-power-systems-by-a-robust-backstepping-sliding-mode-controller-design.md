@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Load frequency control in power systems by a robust backstepping sliding mode controller design"
 date: 2023-08-15 00:00:00 +0100
 permalink: load-frequency-control-in-power-systems-by-a-robust-backstepping-sliding-mode-controller-design

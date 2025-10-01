@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dewei Tang
 permalink: /authors/dewei-tang
 ---

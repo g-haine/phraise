@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Miguel E. Rodriguez
 permalink: /authors/miguel-e-rodriguez
 ---

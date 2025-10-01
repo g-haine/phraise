@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Connor H. Ligeikis
 permalink: /authors/connor-h-ligeikis
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Phatiphat Thounthong
 permalink: /authors/phatiphat-thounthong
 ---

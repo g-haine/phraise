@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Markus P. Nemitz
 permalink: /authors/markus-p-nemitz
 ---

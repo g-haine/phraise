@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of MT-HVDC grids via passivity-based control and convex optimization"
 date: 2021-04-30 00:00:00 +0100
 permalink: stabilization-of-mt-hvdc-grids-via-passivity-based-control-and-convex-optimization

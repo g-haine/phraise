@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Control Design for an IPMC Actuated Highly Flexible Endoscope"
 date: 2024-01-19 00:00:00 +0100
 permalink: port-hamiltonian-control-design-for-an-ipmc-actuated-highly-flexible-endoscope

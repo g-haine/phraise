@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Larbi Djilali
 permalink: /authors/larbi-djilali
 ---

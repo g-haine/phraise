@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ravel Ammerman
 permalink: /authors/ravel-ammerman
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johannes Rettberg
 permalink: /authors/johannes-rettberg
 ---

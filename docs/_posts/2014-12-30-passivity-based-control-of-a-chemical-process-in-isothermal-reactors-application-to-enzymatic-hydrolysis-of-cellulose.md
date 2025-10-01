@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity based control of a chemical process in isothermal reactors: Application to enzymatic hydrolysis of cellulose"
 date: 2014-12-30 00:00:00 +0100
 permalink: passivity-based-control-of-a-chemical-process-in-isothermal-reactors-application-to-enzymatic-hydrolysis-of-cellulose

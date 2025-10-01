@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mathis Raibaud
 permalink: /authors/mathis-raibaud
 ---

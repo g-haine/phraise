@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Craig A. Woolsey
 permalink: /authors/craig-a-woolsey
 ---

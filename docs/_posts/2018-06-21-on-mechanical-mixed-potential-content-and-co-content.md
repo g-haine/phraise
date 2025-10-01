@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On mechanical mixed potential, content and co-content"
 date: 2018-06-21 00:00:00 +0100
 permalink: on-mechanical-mixed-potential-content-and-co-content

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the relaxing dissipation of dissipative pseudo Hamiltonian models"
 date: 2015-09-25 00:00:00 +0100
 permalink: on-the-relaxing-dissipation-of-dissipative-pseudo-hamiltonian-models

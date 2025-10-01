@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port hamiltonian systems extended to irreversible systems : The example of the heat conduction"
 date: 2017-05-13 00:00:00 +0100
 permalink: port-hamiltonian-systems-extended-to-irreversible-systems-the-example-of-the-heat-conduction

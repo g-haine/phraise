@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cesare Tronci
 permalink: /authors/cesare-tronci
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian based teleoperation of a multi-robot system on periodic trajectories"
 date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-based-teleoperation-of-a-multi-robot-system-on-periodic-trajectories

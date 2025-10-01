@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Claudia Totzeck
 permalink: /authors/claudia-totzeck
 ---

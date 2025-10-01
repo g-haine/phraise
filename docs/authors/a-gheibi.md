@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Gheibi
 permalink: /authors/a-gheibi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Biswadip Dey
 permalink: /authors/biswadip-dey
 ---

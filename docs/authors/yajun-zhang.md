@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yajun Zhang
 permalink: /authors/yajun-zhang
 ---

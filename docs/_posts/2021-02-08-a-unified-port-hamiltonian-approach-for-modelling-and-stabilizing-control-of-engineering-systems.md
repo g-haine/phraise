@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A unified port-Hamiltonian approach for modelling and stabilizing control of engineering systems"
 date: 2021-02-08 00:00:00 +0100
 permalink: a-unified-port-hamiltonian-approach-for-modelling-and-stabilizing-control-of-engineering-systems

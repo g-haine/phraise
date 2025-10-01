@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by San Jose de la Rosa-Mendoza
 permalink: /authors/san-jose-de-la-rosa-mendoza
 ---

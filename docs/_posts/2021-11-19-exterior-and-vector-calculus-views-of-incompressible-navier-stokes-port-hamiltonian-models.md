@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exterior and vector calculus views of incompressible Navier-Stokes port-Hamiltonian models"
 date: 2021-11-19 00:00:00 +0100
 permalink: exterior-and-vector-calculus-views-of-incompressible-navier-stokes-port-hamiltonian-models

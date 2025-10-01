@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Overview on Irreversible Port-Hamiltonian Systems"
 date: 2022-10-18 00:00:00 +0100
 permalink: an-overview-on-irreversible-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tong Heng Lee
 permalink: /authors/tong-heng-lee
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "LQ-Optimal Control of Boundary Control Systems"
 date: 2019-06-28 00:00:00 +0100
 permalink: lq-optimal-control-of-boundary-control-systems

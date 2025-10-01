@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kazufumi Ito
 permalink: /authors/kazufumi-ito
 ---

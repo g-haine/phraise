@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hideki Sano
 permalink: /authors/hideki-sano
 ---

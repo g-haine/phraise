@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Frédéric Enrico Haller
 permalink: /authors/frederic-enrico-haller
 ---

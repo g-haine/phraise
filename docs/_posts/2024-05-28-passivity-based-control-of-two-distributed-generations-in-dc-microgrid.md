@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity Based Control of Two Distributed Generations in DC Microgrid"
 date: 2024-05-28 00:00:00 +0100
 permalink: passivity-based-control-of-two-distributed-generations-in-dc-microgrid

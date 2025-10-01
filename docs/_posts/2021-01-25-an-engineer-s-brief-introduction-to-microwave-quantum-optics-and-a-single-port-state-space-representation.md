@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Engineer's Brief Introduction to Microwave Quantum Optics and a Single-Port State-Space Representation"
 date: 2021-01-25 00:00:00 +0100
 permalink: an-engineer-s-brief-introduction-to-microwave-quantum-optics-and-a-single-port-state-space-representation

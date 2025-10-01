@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On port-Hamiltonian formulations of 3-dimensional compressible Newtonian fluids"
 date: 2021-11-22 00:00:00 +0100
 permalink: on-port-hamiltonian-formulations-of-3-dimensional-compressible-newtonian-fluids

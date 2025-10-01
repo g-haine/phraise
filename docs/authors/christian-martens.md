@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Martens
 permalink: /authors/christian-martens
 ---

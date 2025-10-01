@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marco De Stefano
 permalink: /authors/marco-de-stefano
 ---

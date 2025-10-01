@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuai Ding
 permalink: /authors/shuai-ding
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ge Lv
 permalink: /authors/ge-lv
 ---

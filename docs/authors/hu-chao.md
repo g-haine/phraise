@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hu Chao
 permalink: /authors/hu-chao
 ---

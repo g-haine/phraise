@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by L. van der Heijden
 permalink: /authors/l-van-der-heijden
 ---

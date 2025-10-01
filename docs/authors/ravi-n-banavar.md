@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ravi N. Banavar
 permalink: /authors/ravi-n-banavar
 ---

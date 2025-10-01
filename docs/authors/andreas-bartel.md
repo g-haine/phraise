@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andreas Bartel
 permalink: /authors/andreas-bartel
 ---

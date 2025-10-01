@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Baños
 permalink: /authors/a-banos
 ---

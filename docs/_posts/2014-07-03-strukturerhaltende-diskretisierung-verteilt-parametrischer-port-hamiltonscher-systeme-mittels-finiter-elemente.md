@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Strukturerhaltende Diskretisierung verteilt-parametrischer Port-Hamiltonscher Systeme mittels finiter Elemente"
 date: 2014-07-03 00:00:00 +0100
 permalink: strukturerhaltende-diskretisierung-verteilt-parametrischer-port-hamiltonscher-systeme-mittels-finiter-elemente

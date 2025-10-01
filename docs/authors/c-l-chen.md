@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C.L. Chen
 permalink: /authors/c-l-chen
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy shaping of port-Hamiltonian systems by using alternate passive outputs"
 date: 2018-06-21 00:00:00 +0100
 permalink: energy-shaping-of-port-hamiltonian-systems-by-using-alternate-passive-outputs

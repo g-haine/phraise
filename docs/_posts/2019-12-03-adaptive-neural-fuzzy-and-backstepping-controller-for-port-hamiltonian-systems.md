@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive neural-fuzzy and backstepping controller for port-Hamiltonian systems"
 date: 2019-12-03 00:00:00 +0100
 permalink: adaptive-neural-fuzzy-and-backstepping-controller-for-port-hamiltonian-systems

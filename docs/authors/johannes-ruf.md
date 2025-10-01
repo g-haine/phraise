@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johannes Ruf
 permalink: /authors/johannes-ruf
 ---

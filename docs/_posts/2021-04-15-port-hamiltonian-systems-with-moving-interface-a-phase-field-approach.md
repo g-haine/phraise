@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Hamiltonian systems with moving interface: a phase field approach"
 date: 2021-04-15 00:00:00 +0100
 permalink: port-hamiltonian-systems-with-moving-interface-a-phase-field-approach

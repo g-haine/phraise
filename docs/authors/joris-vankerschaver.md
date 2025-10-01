@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Joris Vankerschaver
 permalink: /authors/joris-vankerschaver
 ---

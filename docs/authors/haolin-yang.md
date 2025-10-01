@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haolin Yang
 permalink: /authors/haolin-yang
 ---

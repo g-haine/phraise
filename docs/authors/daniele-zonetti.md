@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daniele Zonetti
 permalink: /authors/daniele-zonetti
 ---

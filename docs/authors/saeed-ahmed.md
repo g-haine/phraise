@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Saeed Ahmed
 permalink: /authors/saeed-ahmed
 ---

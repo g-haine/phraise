@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Sandovici
 permalink: /authors/a-sandovici
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Rojas
 permalink: /authors/michael-rojas
 ---

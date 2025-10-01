@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer design for a class of nonlinear systems combining dissipativity with interconnection and damping assignment"
 date: 2021-03-01 00:00:00 +0100
 permalink: observer-design-for-a-class-of-nonlinear-systems-combining-dissipativity-with-interconnection-and-damping-assignment

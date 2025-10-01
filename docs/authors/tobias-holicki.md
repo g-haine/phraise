@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tobias Holicki
 permalink: /authors/tobias-holicki
 ---

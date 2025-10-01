@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On a dynamic model for Voltage Source Inverter should not be used"
 date: 2019-04-26 00:00:00 +0100
 permalink: on-a-dynamic-model-for-voltage-source-inverter-should-not-be-used

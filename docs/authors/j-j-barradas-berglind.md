@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J.J. Barradas-Berglind
 permalink: /authors/j-j-barradas-berglind
 ---

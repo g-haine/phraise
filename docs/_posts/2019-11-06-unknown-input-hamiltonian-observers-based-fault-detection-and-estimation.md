@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Unknown Input Hamiltonian Observers-Based Fault Detection and Estimation"
 date: 2019-11-06 00:00:00 +0100
 permalink: unknown-input-hamiltonian-observers-based-fault-detection-and-estimation

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by B Wang
 permalink: /authors/b-wang
 ---

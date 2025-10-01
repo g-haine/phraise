@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by YanBin Qu
 permalink: /authors/yanbin-qu
 ---

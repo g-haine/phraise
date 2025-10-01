@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal Motion Planning and Energy-Based Control of a Single Mast Stacker Crane"
 date: 2017-06-20 00:00:00 +0100
 permalink: optimal-motion-planning-and-energy-based-control-of-a-single-mast-stacker-crane

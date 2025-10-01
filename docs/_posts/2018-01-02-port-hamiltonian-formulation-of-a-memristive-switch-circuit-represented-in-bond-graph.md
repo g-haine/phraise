@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port hamiltonian formulation of a memristive switch circuit represented in bond graph"
 date: 2018-01-02 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-a-memristive-switch-circuit-represented-in-bond-graph

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. Klis
 permalink: /authors/d-klis
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model order reduction of port-Hamiltonian systems with inhomogeneous initial conditions via approximate finite-time Gramians"
 date: 2022-02-05 00:00:00 +0100
 permalink: model-order-reduction-of-port-hamiltonian-systems-with-inhomogeneous-initial-conditions-via-approximate-finite-time-gramians

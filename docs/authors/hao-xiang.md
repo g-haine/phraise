@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hao Xiang
 permalink: /authors/hao-xiang
 ---

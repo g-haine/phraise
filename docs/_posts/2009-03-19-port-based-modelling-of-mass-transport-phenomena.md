@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-based modelling of mass transport phenomena"
 date: 2009-03-19 00:00:00 +0100
 permalink: port-based-modelling-of-mass-transport-phenomena

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Igor Mayer Soares
 permalink: /authors/igor-mayer-soares
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Feng Liu
 permalink: /authors/feng-liu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Adam A. Stokes
 permalink: /authors/adam-a-stokes
 ---

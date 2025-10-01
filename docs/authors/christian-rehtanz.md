@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Rehtanz
 permalink: /authors/christian-rehtanz
 ---

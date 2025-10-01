@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wei Zheng
 permalink: /authors/wei-zheng
 ---

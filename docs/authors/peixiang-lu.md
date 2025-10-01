@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peixiang Lu
 permalink: /authors/peixiang-lu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sampled data systems passivity and discrete port-Hamiltonian systems"
 date: 2005-08-10 00:00:00 +0100
 permalink: sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems

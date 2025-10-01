@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qihuai Liu
 permalink: /authors/qihuai-liu
 ---

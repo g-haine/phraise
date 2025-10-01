@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C. F. Christiansen
 permalink: /authors/c-f-christiansen
 ---

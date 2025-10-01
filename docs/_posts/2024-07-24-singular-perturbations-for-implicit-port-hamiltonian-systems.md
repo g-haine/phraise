@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Singular Perturbations for Implicit port-Hamiltonian systems"
 date: 2024-07-24 00:00:00 +0100
 permalink: singular-perturbations-for-implicit-port-hamiltonian-systems

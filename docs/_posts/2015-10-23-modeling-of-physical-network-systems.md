@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling of physical network systems"
 date: 2015-10-23 00:00:00 +0100
 permalink: modeling-of-physical-network-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-momentum-consistent simulation of planar geometrically exact beams in a port-Hamiltonian framework"
 date: 2025-06-16 00:00:00 +0100
 permalink: energy-momentum-consistent-simulation-of-planar-geometrically-exact-beams-in-a-port-hamiltonian-framework0

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Borja Peropadre
 permalink: /authors/borja-peropadre
 ---

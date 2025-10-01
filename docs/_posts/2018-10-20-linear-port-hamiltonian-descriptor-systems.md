@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear port-Hamiltonian descriptor systems"
 date: 2018-10-20 00:00:00 +0100
 permalink: linear-port-hamiltonian-descriptor-systems

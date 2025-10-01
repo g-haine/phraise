@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Control of a Single-Phase Grid-Forming for Feeding Unknown Resistive Loads"
 date: 2022-01-10 00:00:00 +0100
 permalink: adaptive-control-of-a-single-phase-grid-forming-for-feeding-unknown-resistive-loads

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design of a novel hybrid control for permanent magnet synchronous generator–based wind energy conversion system"
 date: 2021-04-21 00:00:00 +0100
 permalink: design-of-a-novel-hybrid-control-for-permanent-magnet-synchronous-generator-based-wind-energy-conversion-system

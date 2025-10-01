@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On-chip non-reciprocal optical devices based on quantum inspired photonic lattices"
 date: 2013-10-14 00:00:00 +0100
 permalink: on-chip-non-reciprocal-optical-devices-based-on-quantum-inspired-photonic-lattices

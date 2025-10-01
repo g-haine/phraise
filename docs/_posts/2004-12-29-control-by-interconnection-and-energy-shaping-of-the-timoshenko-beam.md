@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control by Interconnection and Energy Shaping of the Timoshenko Beam"
 date: 2004-12-29 00:00:00 +0100
 permalink: control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yong Cui
 permalink: /authors/yong-cui
 ---

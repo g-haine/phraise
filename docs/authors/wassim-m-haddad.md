@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wassim M. Haddad
 permalink: /authors/wassim-m-haddad
 ---

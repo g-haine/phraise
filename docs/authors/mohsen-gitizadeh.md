@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohsen Gitizadeh
 permalink: /authors/mohsen-gitizadeh
 ---

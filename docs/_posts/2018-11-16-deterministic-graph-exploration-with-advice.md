@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Deterministic Graph Exploration with Advice"
 date: 2018-11-16 00:00:00 +0100
 permalink: deterministic-graph-exploration-with-advice

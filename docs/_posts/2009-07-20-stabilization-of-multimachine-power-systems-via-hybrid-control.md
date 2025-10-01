@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of multimachine power systems via hybrid control"
 date: 2009-07-20 00:00:00 +0100
 permalink: stabilization-of-multimachine-power-systems-via-hybrid-control

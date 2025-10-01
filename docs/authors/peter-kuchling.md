@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peter Kuchling
 permalink: /authors/peter-kuchling
 ---

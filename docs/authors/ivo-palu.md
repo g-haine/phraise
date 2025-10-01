@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ivo Palu
 permalink: /authors/ivo-palu
 ---

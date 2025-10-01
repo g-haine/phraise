@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Distributed, Passivity-Based Control of Autonomous Mobile Sensors in an Underwater Acoustic Network"
 date: 2016-11-02 00:00:00 +0100
 permalink: a-distributed-passivity-based-control-of-autonomous-mobile-sensors-in-an-underwater-acoustic-network

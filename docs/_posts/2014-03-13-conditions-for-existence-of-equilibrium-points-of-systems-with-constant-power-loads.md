@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Conditions for existence of equilibrium points of systems with constant power loads"
 date: 2014-03-13 00:00:00 +0100
 permalink: conditions-for-existence-of-equilibrium-points-of-systems-with-constant-power-loads

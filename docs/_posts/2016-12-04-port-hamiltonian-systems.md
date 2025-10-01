@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems"
 date: 2016-12-04 00:00:00 +0100
 permalink: port-hamiltonian-systems

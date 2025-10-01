@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Karina A. Barbosa
 permalink: /authors/karina-a-barbosa
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Bestler
 permalink: /authors/a-bestler
 ---

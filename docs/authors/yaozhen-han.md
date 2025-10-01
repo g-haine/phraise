@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yaozhen Han
 permalink: /authors/yaozhen-han
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Strictly convex loss functions for port-Hamiltonian based optimization algorithm for MTDC networks"
 date: 2017-01-05 00:00:00 +0100
 permalink: strictly-convex-loss-functions-for-port-hamiltonian-based-optimization-algorithm-for-mtdc-networks

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interval Input-State-Output Estimation for Linear Port-Hamiltonian Systems with Application to Power Distribution Systems"
 date: 2020-03-13 00:00:00 +0100
 permalink: interval-input-state-output-estimation-for-linear-port-hamiltonian-systems-with-application-to-power-distribution-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammad Masoud Namazi
 permalink: /authors/mohammad-masoud-namazi
 ---

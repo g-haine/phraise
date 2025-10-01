@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shichuan Ding
 permalink: /authors/shichuan-ding
 ---

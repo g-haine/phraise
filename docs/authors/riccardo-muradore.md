@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Riccardo Muradore
 permalink: /authors/riccardo-muradore
 ---

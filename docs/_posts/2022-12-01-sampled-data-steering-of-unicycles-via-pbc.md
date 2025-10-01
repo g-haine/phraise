@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sampled-Data Steering of Unicycles via PBC"
 date: 2022-12-01 00:00:00 +0100
 permalink: sampled-data-steering-of-unicycles-via-pbc

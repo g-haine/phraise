@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Improved a posteriori error bounds for reduced port-Hamiltonian systems"
 date: 2024-09-11 00:00:00 +0100
 permalink: improved-a-posteriori-error-bounds-for-reduced-port-hamiltonian-systems

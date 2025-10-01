@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinkyoo Park
 permalink: /authors/jinkyoo-park
 ---

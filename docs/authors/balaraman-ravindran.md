@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Balaraman Ravindran
 permalink: /authors/balaraman-ravindran
 ---

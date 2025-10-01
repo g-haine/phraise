@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aiqing Zhu
 permalink: /authors/aiqing-zhu
 ---

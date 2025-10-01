@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipative Shallow Water Equations: a port-Hamiltonian formulation"
 date: 2021-11-19 00:00:00 +0100
 permalink: dissipative-shallow-water-equations-a-port-hamiltonian-formulation

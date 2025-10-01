@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Effective numerical simulations of synchronous generator system"
 date: 2024-02-28 00:00:00 +0100
 permalink: effective-numerical-simulations-of-synchronous-generator-system

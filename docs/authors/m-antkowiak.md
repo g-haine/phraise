@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Antkowiak
 permalink: /authors/m-antkowiak
 ---

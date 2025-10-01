@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on Control Strategy of Hamiltonian Theory for Large Telescope Based on SAPMSM"
 date: 2024-02-28 00:00:00 +0100
 permalink: research-on-control-strategy-of-hamiltonian-theory-for-large-telescope-based-on-sapmsm

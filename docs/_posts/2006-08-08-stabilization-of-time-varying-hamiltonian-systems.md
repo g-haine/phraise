@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of time-varying Hamiltonian systems"
 date: 2006-08-08 00:00:00 +0100
 permalink: stabilization-of-time-varying-hamiltonian-systems

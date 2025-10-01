@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simultaneous IDA-passivity-based control of a wound rotor synchronous motor"
 date: 2009-01-20 00:00:00 +0100
 permalink: simultaneous-ida-passivity-based-control-of-a-wound-rotor-synchronous-motor

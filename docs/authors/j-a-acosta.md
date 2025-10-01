@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J.A. Acosta
 permalink: /authors/j-a-acosta
 ---

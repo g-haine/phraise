@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olav Bjarte Fosso
 permalink: /authors/olav-bjarte-fosso
 ---

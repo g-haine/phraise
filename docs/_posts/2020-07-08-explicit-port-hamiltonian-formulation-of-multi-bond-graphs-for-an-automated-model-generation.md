@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Explicit port-Hamiltonian formulation of multi-bond graphs for an automated model generation"
 date: 2020-07-08 00:00:00 +0100
 permalink: explicit-port-hamiltonian-formulation-of-multi-bond-graphs-for-an-automated-model-generation

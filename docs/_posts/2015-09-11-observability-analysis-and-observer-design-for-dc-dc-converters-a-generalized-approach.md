@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observability analysis and observer design for DC-DC converters: A generalized approach"
 date: 2015-09-11 00:00:00 +0100
 permalink: observability-analysis-and-observer-design-for-dc-dc-converters-a-generalized-approach

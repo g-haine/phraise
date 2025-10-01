@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wensheng Tang
 permalink: /authors/wensheng-tang
 ---

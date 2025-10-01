@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hybrid Lyapunov based control of multicellular converters using Port-Hamiltonian modeling"
 date: 2017-12-21 00:00:00 +0100
 permalink: hybrid-lyapunov-based-control-of-multicellular-converters-using-port-hamiltonian-modeling

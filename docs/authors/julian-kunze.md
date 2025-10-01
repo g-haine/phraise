@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Julian Kunze
 permalink: /authors/julian-kunze
 ---

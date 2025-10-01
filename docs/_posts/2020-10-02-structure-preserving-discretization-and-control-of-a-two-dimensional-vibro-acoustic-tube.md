@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving discretization and control of a two-dimensional vibro-acoustic tube"
 date: 2020-10-02 00:00:00 +0100
 permalink: structure-preserving-discretization-and-control-of-a-two-dimensional-vibro-acoustic-tube

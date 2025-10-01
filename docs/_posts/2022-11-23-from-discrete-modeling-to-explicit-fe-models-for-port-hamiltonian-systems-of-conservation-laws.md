@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "From discrete modeling to explicit FE models for port-Hamiltonian systems of conservation laws"
 date: 2022-11-23 00:00:00 +0100
 permalink: from-discrete-modeling-to-explicit-fe-models-for-port-hamiltonian-systems-of-conservation-laws

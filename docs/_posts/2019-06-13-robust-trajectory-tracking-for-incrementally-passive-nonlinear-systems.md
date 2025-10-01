@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust trajectory tracking for incrementally passive nonlinear systems"
 date: 2019-06-13 00:00:00 +0100
 permalink: robust-trajectory-tracking-for-incrementally-passive-nonlinear-systems

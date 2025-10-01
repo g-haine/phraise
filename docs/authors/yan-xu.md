@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yan Xu
 permalink: /authors/yan-xu
 ---

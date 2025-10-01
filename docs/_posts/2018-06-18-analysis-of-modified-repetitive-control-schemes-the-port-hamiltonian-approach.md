@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analysis of Modified Repetitive Control Schemes: the Port-Hamiltonian Approach"
 date: 2018-06-18 00:00:00 +0100
 permalink: analysis-of-modified-repetitive-control-schemes-the-port-hamiltonian-approach

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by L C Visser
 permalink: /authors/l-c-visser
 ---

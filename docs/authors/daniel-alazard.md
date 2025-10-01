@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daniel Alazard
 permalink: /authors/daniel-alazard
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking Control for Port-Hamiltonian Systems using Feedforward and Feedback Control and a State Observer"
 date: 2010-09-01 00:00:00 +0100
 permalink: tracking-control-for-port-hamiltonian-systems-using-feedforward-and-feedback-control-and-a-state-observer

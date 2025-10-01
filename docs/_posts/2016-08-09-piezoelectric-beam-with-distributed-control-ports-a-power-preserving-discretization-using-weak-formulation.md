@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Piezoelectric beam with distributed control ports: a power-preserving discretization using weak formulation."
 date: 2016-08-09 00:00:00 +0100
 permalink: piezoelectric-beam-with-distributed-control-ports-a-power-preserving-discretization-using-weak-formulation

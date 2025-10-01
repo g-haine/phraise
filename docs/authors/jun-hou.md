@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jun Hou
 permalink: /authors/jun-hou
 ---

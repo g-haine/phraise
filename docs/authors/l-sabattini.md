@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by L. Sabattini
 permalink: /authors/l-sabattini
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Extinction–Free Stabilization of Predator-Prey Dynamics"
 date: 2020-05-26 00:00:00 +0100
 permalink: on-the-extinction-free-stabilization-of-predator-prey-dynamics

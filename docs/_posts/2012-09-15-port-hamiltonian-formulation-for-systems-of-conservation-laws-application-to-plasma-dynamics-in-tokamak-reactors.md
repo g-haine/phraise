@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulation for systems of conservation laws: application to plasma dynamics in Tokamak reactors"
 date: 2012-09-15 00:00:00 +0100
 permalink: port-hamiltonian-formulation-for-systems-of-conservation-laws-application-to-plasma-dynamics-in-tokamak-reactors

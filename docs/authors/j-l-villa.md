@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. L. Villa
 permalink: /authors/j-l-villa
 ---

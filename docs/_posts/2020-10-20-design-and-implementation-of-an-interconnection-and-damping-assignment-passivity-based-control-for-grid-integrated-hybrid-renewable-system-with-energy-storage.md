@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design and implementation of an interconnection and damping assignment–passivity-based control for grid-integrated hybrid renewable system with energy storage"
 date: 2020-10-20 00:00:00 +0100
 permalink: design-and-implementation-of-an-interconnection-and-damping-assignment-passivity-based-control-for-grid-integrated-hybrid-renewable-system-with-energy-storage

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan Cristobal Alcaraz Tapia
 permalink: /authors/juan-cristobal-alcaraz-tapia
 ---

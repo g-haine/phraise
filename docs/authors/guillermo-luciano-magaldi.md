@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guillermo Luciano Magaldi
 permalink: /authors/guillermo-luciano-magaldi
 ---

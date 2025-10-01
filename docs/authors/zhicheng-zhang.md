@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhicheng Zhang
 permalink: /authors/zhicheng-zhang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Emeric Vuillemin
 permalink: /authors/emeric-vuillemin
 ---

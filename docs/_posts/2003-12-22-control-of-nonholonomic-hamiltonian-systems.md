@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of nonholonomic Hamiltonian systems"
 date: 2003-12-22 00:00:00 +0100
 permalink: control-of-nonholonomic-hamiltonian-systems

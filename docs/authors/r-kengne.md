@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. Kengne
 permalink: /authors/r-kengne
 ---

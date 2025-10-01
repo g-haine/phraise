@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Continuous Finite-Time Terminal Sliding Mode IDA-PBC Design for PMSM with the Port-Controlled Hamiltonian Model"
 date: 2013-08-05 00:00:00 +0100
 permalink: continuous-finite-time-terminal-sliding-mode-ida-pbc-design-for-pmsm-with-the-port-controlled-hamiltonian-model

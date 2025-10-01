@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Formal Distributed Port-Hamiltonian Representation of Field Equations"
 date: 2006-10-04 00:00:00 +0100
 permalink: formal-distributed-port-hamiltonian-representation-of-field-equations

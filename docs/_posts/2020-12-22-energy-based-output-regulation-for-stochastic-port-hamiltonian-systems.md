@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy‐based output regulation for stochastic port‐Hamiltonian systems"
 date: 2020-12-22 00:00:00 +0100
 permalink: energy-based-output-regulation-for-stochastic-port-hamiltonian-systems

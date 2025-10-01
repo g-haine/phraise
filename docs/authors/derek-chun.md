@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Derek Chun
 permalink: /authors/derek-chun
 ---

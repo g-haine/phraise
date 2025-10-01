@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yu-Han Hu
 permalink: /authors/yuhan-hu
 ---

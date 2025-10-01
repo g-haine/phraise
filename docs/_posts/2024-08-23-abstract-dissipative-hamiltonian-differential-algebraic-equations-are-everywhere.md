@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Abstract Dissipative Hamiltonian Differential-Algebraic Equations Are Everywhere"
 date: 2024-08-23 00:00:00 +0100
 permalink: abstract-dissipative-hamiltonian-differential-algebraic-equations-are-everywhere

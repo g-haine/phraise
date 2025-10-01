@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanhong Liu
 permalink: /authors/yanhong-liu
 ---

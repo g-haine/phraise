@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johannes Fottner
 permalink: /authors/johannes-fottner
 ---

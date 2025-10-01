@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Herman Bruyninckx
 permalink: /authors/herman-bruyninckx
 ---

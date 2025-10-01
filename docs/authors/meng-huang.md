@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Meng Huang
 permalink: /authors/meng-huang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Takanori Akamatsu
 permalink: /authors/takanori-akamatsu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On parametric structure preserving model order reduction of linear port-Hamiltonian systems"
 date: 2019-07-10 00:00:00 +0100
 permalink: on-parametric-structure-preserving-model-order-reduction-of-linear-port-hamiltonian-systems

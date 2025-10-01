@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jialu Du
 permalink: /authors/jialu-du
 ---

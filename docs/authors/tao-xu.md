@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tao Xu
 permalink: /authors/tao-xu
 ---

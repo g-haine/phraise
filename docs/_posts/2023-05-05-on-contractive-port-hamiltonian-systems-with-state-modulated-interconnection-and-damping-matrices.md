@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Contractive Port-Hamiltonian Systems With State-Modulated Interconnection and Damping Matrices"
 date: 2023-05-05 00:00:00 +0100
 permalink: on-contractive-port-hamiltonian-systems-with-state-modulated-interconnection-and-damping-matrices

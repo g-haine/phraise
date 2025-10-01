@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinlong Zhang
 permalink: /authors/jinlong-zhang
 ---

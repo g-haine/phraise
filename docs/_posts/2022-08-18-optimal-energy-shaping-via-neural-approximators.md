@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal Energy Shaping via Neural Approximators"
 date: 2022-08-18 00:00:00 +0100
 permalink: optimal-energy-shaping-via-neural-approximators

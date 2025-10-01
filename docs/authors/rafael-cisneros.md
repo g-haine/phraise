@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rafael Cisneros
 permalink: /authors/rafael-cisneros
 ---

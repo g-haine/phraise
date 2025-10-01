@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guangjun Liu
 permalink: /authors/guangjun-liu
 ---

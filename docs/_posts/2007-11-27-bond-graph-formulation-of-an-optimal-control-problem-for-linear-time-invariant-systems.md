@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bond graph formulation of an optimal control problem for linear time invariant systems"
 date: 2007-11-27 00:00:00 +0100
 permalink: bond-graph-formulation-of-an-optimal-control-problem-for-linear-time-invariant-systems

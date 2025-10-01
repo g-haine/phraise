@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Heng Wu
 permalink: /authors/heng-wu
 ---

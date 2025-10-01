@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control by interconnection beyond the dissipation obstacle of finite and infinite dimensional port-Hamiltonian systems"
 date: 2016-02-29 00:00:00 +0100
 permalink: control-by-interconnection-beyond-the-dissipation-obstacle-of-finite-and-infinite-dimensional-port-hamiltonian-systems

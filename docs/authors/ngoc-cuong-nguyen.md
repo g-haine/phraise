@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ngoc-Cuong Nguyen
 permalink: /authors/ngoc-cuong-nguyen
 ---

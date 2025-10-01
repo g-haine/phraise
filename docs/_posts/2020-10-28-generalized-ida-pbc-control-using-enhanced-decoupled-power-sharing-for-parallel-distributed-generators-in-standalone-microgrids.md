@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Generalized IDA-PBC Control Using Enhanced Decoupled Power Sharing for Parallel Distributed Generators in Standalone Microgrids"
 date: 2020-10-28 00:00:00 +0100
 permalink: generalized-ida-pbc-control-using-enhanced-decoupled-power-sharing-for-parallel-distributed-generators-in-standalone-microgrids

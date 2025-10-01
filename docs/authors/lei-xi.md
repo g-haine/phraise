@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lei Xi
 permalink: /authors/lei-xi
 ---

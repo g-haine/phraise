@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maximiliano Bueno-López
 permalink: /authors/maximiliano-bueno-lopez
 ---

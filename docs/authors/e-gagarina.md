@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by E. Gagarina
 permalink: /authors/e-gagarina
 ---

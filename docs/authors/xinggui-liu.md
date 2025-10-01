@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinggui Liu
 permalink: /authors/xinggui-liu
 ---

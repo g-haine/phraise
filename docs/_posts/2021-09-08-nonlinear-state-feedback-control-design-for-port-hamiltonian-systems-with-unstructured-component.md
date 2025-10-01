@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear state feedback control design for port-Hamiltonian systems with unstructured component"
 date: 2021-09-08 00:00:00 +0100
 permalink: nonlinear-state-feedback-control-design-for-port-hamiltonian-systems-with-unstructured-component

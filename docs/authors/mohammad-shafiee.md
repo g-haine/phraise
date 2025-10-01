@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammad Shafiee
 permalink: /authors/mohammad-shafiee
 ---

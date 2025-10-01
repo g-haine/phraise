@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Takaaki Osada
 permalink: /authors/takaaki-osada
 ---

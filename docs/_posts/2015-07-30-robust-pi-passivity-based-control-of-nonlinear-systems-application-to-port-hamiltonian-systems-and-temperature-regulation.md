@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust PI passivity-based control of nonlinear systems: Application to port-Hamiltonian systems and temperature regulation"
 date: 2015-07-30 00:00:00 +0100
 permalink: robust-pi-passivity-based-control-of-nonlinear-systems-application-to-port-hamiltonian-systems-and-temperature-regulation

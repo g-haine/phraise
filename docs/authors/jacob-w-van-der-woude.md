@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jacob W. van der Woude
 permalink: /authors/jacob-w-van-der-woude
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control by damping injection of electrodynamic tether system in an inclined orbit"
 date: 2009-07-20 00:00:00 +0100
 permalink: control-by-damping-injection-of-electrodynamic-tether-system-in-an-inclined-orbit

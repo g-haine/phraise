@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Enrico Franco
 permalink: /authors/enrico-franco
 ---

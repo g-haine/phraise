@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure preserving spatial discretization of 1D convection-diffusion port-Hamiltonian systems"
 date: 2012-03-07 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-1d-convection-diffusion-port-hamiltonian-systems

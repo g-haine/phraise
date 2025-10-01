@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yugeng Xi
 permalink: /authors/yugeng-xi
 ---

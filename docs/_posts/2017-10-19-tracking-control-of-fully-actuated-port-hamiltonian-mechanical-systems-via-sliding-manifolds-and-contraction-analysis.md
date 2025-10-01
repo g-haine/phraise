@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking Control of Fully-actuated port-Hamiltonian Mechanical Systems via Sliding Manifolds and Contraction Analysis"
 date: 2017-10-19 00:00:00 +0100
 permalink: tracking-control-of-fully-actuated-port-hamiltonian-mechanical-systems-via-sliding-manifolds-and-contraction-analysis

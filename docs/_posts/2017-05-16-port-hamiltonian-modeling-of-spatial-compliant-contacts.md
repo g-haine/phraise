@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling of Spatial Compliant Contacts"
 date: 2017-05-16 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-spatial-compliant-contacts

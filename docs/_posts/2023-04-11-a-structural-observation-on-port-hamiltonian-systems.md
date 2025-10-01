@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Structural Observation on Port-Hamiltonian Systems"
 date: 2023-04-11 00:00:00 +0100
 permalink: a-structural-observation-on-port-hamiltonian-systems

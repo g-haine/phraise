@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hans-Karl Janssen
 permalink: /authors/hans-karl-janssen
 ---

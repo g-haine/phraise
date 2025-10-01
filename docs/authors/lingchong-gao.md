@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lingchong Gao
 permalink: /authors/lingchong-gao
 ---

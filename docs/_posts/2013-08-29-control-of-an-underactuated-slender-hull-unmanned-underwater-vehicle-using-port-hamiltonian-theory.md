@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of an underactuated-slender-hull unmanned underwater vehicle using Port-Hamiltonian theory"
 date: 2013-08-29 00:00:00 +0100
 permalink: control-of-an-underactuated-slender-hull-unmanned-underwater-vehicle-using-port-hamiltonian-theory

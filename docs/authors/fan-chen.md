@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fan Chen
 permalink: /authors/fan-chen
 ---

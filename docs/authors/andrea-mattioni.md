@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrea Mattioni
 permalink: /authors/andrea-mattioni
 ---

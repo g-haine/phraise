@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Roberto Pereira-Arroyo
 permalink: /authors/roberto-pereira-arroyo
 ---

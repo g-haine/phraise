@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the relationship between stochastic and deterministic energy shaping techniques for stochastic port-Hamiltonian systems via invariant measure characterization"
 date: 2025-05-30 00:00:00 +0100
 permalink: on-the-relationship-between-stochastic-and-deterministic-energy-shaping-techniques-for-stochastic-port-hamiltonian-systems-via-invariant-measure-characterization

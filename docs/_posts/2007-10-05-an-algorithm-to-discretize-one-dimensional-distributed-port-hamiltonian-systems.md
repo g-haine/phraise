@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Algorithm to Discretize One-Dimensional Distributed Port Hamiltonian Systems"
 date: 2007-10-05 00:00:00 +0100
 permalink: an-algorithm-to-discretize-one-dimensional-distributed-port-hamiltonian-systems

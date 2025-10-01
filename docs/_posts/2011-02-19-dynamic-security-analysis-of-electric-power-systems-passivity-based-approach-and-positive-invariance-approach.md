@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic Security Analysis of Electric Power Systems: Passivity-Based Approach and Positive Invariance Approach"
 date: 2011-02-19 00:00:00 +0100
 permalink: dynamic-security-analysis-of-electric-power-systems-passivity-based-approach-and-positive-invariance-approach

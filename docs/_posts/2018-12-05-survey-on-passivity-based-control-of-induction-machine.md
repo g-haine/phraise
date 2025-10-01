@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Survey on Passivity Based Control of Induction Machine"
 date: 2018-12-05 00:00:00 +0100
 permalink: survey-on-passivity-based-control-of-induction-machine

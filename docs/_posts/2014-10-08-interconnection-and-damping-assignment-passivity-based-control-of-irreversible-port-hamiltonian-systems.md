@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and Damping Assignment - Passivity Based Control of Irreversible Port Hamiltonian Systems"
 date: 2014-10-08 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-of-irreversible-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Ubolli
 permalink: /authors/a-ubolli
 ---

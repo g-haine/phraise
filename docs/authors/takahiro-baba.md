@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Takahiro Baba
 permalink: /authors/takahiro-baba
 ---

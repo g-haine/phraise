@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Overcoming the dissipation obstacle with Bicomplex Port-Hamiltonian Mechanics"
 date: 2021-04-15 00:00:00 +0100
 permalink: overcoming-the-dissipation-obstacle-with-bicomplex-port-hamiltonian-mechanics

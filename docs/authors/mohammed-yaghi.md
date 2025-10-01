@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammed Yaghi
 permalink: /authors/mohammed-yaghi
 ---

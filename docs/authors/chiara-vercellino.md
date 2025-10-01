@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chiara Vercellino
 permalink: /authors/chiara-vercellino
 ---

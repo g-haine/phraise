@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based trajectory tracking control of under-actuated unmanned surface vessels"
 date: 2023-10-27 00:00:00 +0100
 permalink: energy-based-trajectory-tracking-control-of-under-actuated-unmanned-surface-vessels

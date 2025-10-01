@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity Based Control of a Three-Phase Front End Converter"
 date: 2013-04-17 00:00:00 +0100
 permalink: passivity-based-control-of-a-three-phase-front-end-converter

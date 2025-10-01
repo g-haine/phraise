@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Input-Output Selection Based Router for Networks-on-Chip"
 date: 2010-09-20 00:00:00 +0100
 permalink: input-output-selection-based-router-for-networks-on-chip

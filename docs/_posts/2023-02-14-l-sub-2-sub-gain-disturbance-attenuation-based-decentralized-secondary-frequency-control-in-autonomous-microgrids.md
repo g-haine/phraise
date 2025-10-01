@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "L<sub>2</sub>-Gain Disturbance Attenuation-Based Decentralized Secondary Frequency Control in Autonomous Microgrids"
 date: 2023-02-14 00:00:00 +0100
 permalink: l-sub-2-sub-gain-disturbance-attenuation-based-decentralized-secondary-frequency-control-in-autonomous-microgrids

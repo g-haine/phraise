@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xingze Qiu
 permalink: /authors/xingze-qiu
 ---

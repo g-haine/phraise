@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model-Based Robust Position Control of an Underactuated Dielectric Elastomer Soft Robot"
 date: 2025-02-06 00:00:00 +0100
 permalink: model-based-robust-position-control-of-an-underactuated-dielectric-elastomer-soft-robot

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Henning Joos
 permalink: /authors/henning-joos
 ---

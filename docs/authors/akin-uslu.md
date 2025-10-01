@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Akin USLU
 permalink: /authors/akin-uslu
 ---

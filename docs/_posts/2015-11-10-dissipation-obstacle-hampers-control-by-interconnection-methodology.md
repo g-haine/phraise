@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipation Obstacle hampers Control—by—Interconnection Methodology"
 date: 2015-11-10 00:00:00 +0100
 permalink: dissipation-obstacle-hampers-control-by-interconnection-methodology

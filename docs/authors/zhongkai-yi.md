@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhongkai Yi
 permalink: /authors/zhongkai-yi
 ---

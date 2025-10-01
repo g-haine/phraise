@@ -41,7 +41,7 @@ fi
 echo $(date -Iseconds)" Looking in OpenAlex & verifying with CrossRef..."
 
 # Interroger OpenAlex
-TYPES_AUTORISES=("journal-article" "proceeding-article" "book-chapter" "book" "monograph")
+TYPES_AUTORISES=("journal-article" "proceedings-article" "book-chapter" "book" "monograph")
 QUERY="port-Hamiltonian"
 CURSOR="*"
 MAX_PAGES=20

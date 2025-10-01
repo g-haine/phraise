@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling and jumping trajectory tracking control for a bio-inspired quadruped robot"
 date: 2024-04-15 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-jumping-trajectory-tracking-control-for-a-bio-inspired-quadruped-robot

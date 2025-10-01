@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marios Mattheakis
 permalink: /authors/marios-mattheakis
 ---

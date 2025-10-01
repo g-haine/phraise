@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A loading path planning method for co-loading in automatic harvesting system"
 date: 2023-10-10 00:00:00 +0100
 permalink: a-loading-path-planning-method-for-co-loading-in-automatic-harvesting-system

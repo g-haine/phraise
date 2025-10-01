@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based control approaches for weakly coupled electromechanical systems"
 date: 2025-04-26 00:00:00 +0100
 permalink: energy-based-control-approaches-for-weakly-coupled-electromechanical-systems

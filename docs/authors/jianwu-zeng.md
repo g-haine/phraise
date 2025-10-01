@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianwu Zeng
 permalink: /authors/jianwu-zeng
 ---

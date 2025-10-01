@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Three-Phase Power Converter Stabilization via Total Energy-Shaping"
 date: 2006-12-18 00:00:00 +0100
 permalink: three-phase-power-converter-stabilization-via-total-energy-shaping

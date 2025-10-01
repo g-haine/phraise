@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac Structures on Hilbert Spaces and Boundary Control of Distributed Port-Hamiltonian Systems"
 date: 2014-02-11 00:00:00 +0100
 permalink: dirac-structures-on-hilbert-spaces-and-boundary-control-of-distributed-port-hamiltonian-systems0

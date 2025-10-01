@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Klaus Oerding
 permalink: /authors/klaus-oerding
 ---

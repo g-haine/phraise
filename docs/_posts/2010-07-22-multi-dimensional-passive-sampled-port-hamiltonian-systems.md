@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Multi-dimensional passive sampled Port-Hamiltonian systems"
 date: 2010-07-22 00:00:00 +0100
 permalink: multi-dimensional-passive-sampled-port-hamiltonian-systems

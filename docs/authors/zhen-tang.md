@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhen Tang
 permalink: /authors/zhen-tang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sun Kui
 permalink: /authors/sun-kui
 ---

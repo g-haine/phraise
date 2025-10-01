@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust current control of PMSM based on PCH and disturbance observer"
 date: 2014-09-26 00:00:00 +0100
 permalink: robust-current-control-of-pmsm-based-on-pch-and-disturbance-observer

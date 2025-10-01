@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian approach to formation control using bearing measurements and range observers"
 date: 2014-03-13 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-formation-control-using-bearing-measurements-and-range-observers

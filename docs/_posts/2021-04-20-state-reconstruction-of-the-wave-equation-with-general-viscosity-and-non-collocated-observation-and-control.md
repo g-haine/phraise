@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "State reconstruction of the wave equation with general viscosity and non-collocated observation and control"
 date: 2021-04-20 00:00:00 +0100
 permalink: state-reconstruction-of-the-wave-equation-with-general-viscosity-and-non-collocated-observation-and-control

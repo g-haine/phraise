@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite rank distributed control for the resistive diffusion equation using damping assignment"
 date: 2015-05-07 00:00:00 +0100
 permalink: finite-rank-distributed-control-for-the-resistive-diffusion-equation-using-damping-assignment

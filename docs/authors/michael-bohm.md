@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Böhm
 permalink: /authors/michael-bohm
 ---

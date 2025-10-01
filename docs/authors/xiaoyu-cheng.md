@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoyu Cheng
 permalink: /authors/xiaoyu-cheng
 ---

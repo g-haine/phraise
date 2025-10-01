@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean-Baptiste David
 permalink: /authors/jean-baptiste-david
 ---

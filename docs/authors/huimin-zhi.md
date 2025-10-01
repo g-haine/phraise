@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Huimin Zhi
 permalink: /authors/huimin-zhi
 ---

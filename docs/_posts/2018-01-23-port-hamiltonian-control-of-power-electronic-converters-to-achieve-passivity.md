@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-hamiltonian control of power electronic converters to achieve passivity"
 date: 2018-01-23 00:00:00 +0100
 permalink: port-hamiltonian-control-of-power-electronic-converters-to-achieve-passivity

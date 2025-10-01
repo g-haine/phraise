@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and boundary control of infinite dimensional systems in the Brayton–Moser framework"
 date: 2017-11-24 00:00:00 +0100
 permalink: modeling-and-boundary-control-of-infinite-dimensional-systems-in-the-brayton-moser-framework

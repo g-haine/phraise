@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Claudio Bonivento
 permalink: /authors/claudio-bonivento
 ---

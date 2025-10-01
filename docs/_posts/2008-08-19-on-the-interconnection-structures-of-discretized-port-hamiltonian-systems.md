@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the interconnection structures of discretized port Hamiltonian systems"
 date: 2008-08-19 00:00:00 +0100
 permalink: on-the-interconnection-structures-of-discretized-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mini-Workshop: Mathematics of Dissipation – Dynamics, Data and Control"
 date: 2022-08-24 00:00:00 +0100
 permalink: mini-workshop-mathematics-of-dissipation-dynamics-data-and-control

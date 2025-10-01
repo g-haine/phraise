@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control Design for Linear Port-Hamiltonian Boundary Control Systems: An Overview"
 date: 2021-03-01 00:00:00 +0100
 permalink: control-design-for-linear-port-hamiltonian-boundary-control-systems-an-overview

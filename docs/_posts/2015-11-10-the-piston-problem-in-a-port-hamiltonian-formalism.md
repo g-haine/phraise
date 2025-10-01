@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The piston problem in a port-Hamiltonian formalism"
 date: 2015-11-10 00:00:00 +0100
 permalink: the-piston-problem-in-a-port-hamiltonian-formalism

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M.Z. Almuzakki
 permalink: /authors/m-z-almuzakki
 ---

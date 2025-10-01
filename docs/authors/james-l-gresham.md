@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by James L. Gresham
 permalink: /authors/james-l-gresham
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rongwei Guo
 permalink: /authors/rongwei-guo
 ---

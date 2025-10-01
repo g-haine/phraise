@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-Time Simultaneous Stabilization for Stochastic Port-Controlled Hamiltonian Systems over Delayed and Fading Channels"
 date: 2020-09-29 00:00:00 +0100
 permalink: finite-time-simultaneous-stabilization-for-stochastic-port-controlled-hamiltonian-systems-over-delayed-and-fading-channels

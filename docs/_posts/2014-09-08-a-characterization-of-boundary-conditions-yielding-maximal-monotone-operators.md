@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A characterization of boundary conditions yielding maximal monotone operators"
 date: 2014-09-08 00:00:00 +0100
 permalink: a-characterization-of-boundary-conditions-yielding-maximal-monotone-operators

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interpolation-based &amp;#x210C;&lt;inf&gt;2&lt;/inf&gt; model reduction for port-Hamiltonian systems"
 date: 2010-02-02 00:00:00 +0100
 permalink: interpolation-based-amp-x210c-lt-inf-gt-2-lt-inf-gt-model-reduction-for-port-hamiltonian-systems

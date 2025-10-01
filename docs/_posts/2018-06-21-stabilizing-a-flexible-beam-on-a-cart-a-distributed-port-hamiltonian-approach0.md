@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilizing a flexible beam on a cart: A distributed port Hamiltonian approach"
 date: 2018-06-21 00:00:00 +0100
 permalink: stabilizing-a-flexible-beam-on-a-cart-a-distributed-port-hamiltonian-approach0

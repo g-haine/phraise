@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adiabatic quantum computation along quasienergies"
 date: 2010-02-22 00:00:00 +0100
 permalink: adiabatic-quantum-computation-along-quasienergies

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gao-Jian Zhang
 permalink: /authors/gao-jian-zhang
 ---

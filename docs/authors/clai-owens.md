@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Clai Owens
 permalink: /authors/clai-owens
 ---

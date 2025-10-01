@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohamed M. Torbati
 permalink: /authors/mohamed-m-torbati
 ---

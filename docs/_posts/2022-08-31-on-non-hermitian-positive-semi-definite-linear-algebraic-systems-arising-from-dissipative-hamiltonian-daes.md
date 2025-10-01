@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Non-Hermitian Positive (Semi)Definite Linear Algebraic Systems Arising from Dissipative Hamiltonian DAEs"
 date: 2022-08-31 00:00:00 +0100
 permalink: on-non-hermitian-positive-semi-definite-linear-algebraic-systems-arising-from-dissipative-hamiltonian-daes

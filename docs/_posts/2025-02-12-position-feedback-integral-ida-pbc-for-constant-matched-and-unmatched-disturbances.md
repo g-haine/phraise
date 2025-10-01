@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position‐Feedback Integral IDA‐PBC for Constant Matched and Unmatched Disturbances"
 date: 2025-02-12 00:00:00 +0100
 permalink: position-feedback-integral-ida-pbc-for-constant-matched-and-unmatched-disturbances

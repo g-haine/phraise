@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position Control of McKibben-Type Pneumatic Artificial Muscle via Port-Hamiltonian Approach"
 date: 2025-05-05 00:00:00 +0100
 permalink: position-control-of-mckibben-type-pneumatic-artificial-muscle-via-port-hamiltonian-approach

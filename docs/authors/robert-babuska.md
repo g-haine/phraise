@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Robert Babuska
 permalink: /authors/robert-babuska
 ---

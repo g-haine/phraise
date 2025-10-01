@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Towards Port-Hamiltonian Approach for Modeling and Control of Two-wheeled Wheelchair"
 date: 2013-12-20 00:00:00 +0100
 permalink: towards-port-hamiltonian-approach-for-modeling-and-control-of-two-wheeled-wheelchair

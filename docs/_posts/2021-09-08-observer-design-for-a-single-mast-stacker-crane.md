@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer design for a single mast stacker crane"
 date: 2021-09-08 00:00:00 +0100
 permalink: observer-design-for-a-single-mast-stacker-crane

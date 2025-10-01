@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yong Wang
 permalink: /authors/yong-wang
 ---

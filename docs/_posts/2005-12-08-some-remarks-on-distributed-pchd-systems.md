@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Some Remarks on Distributed PCHD‐Systems"
 date: 2005-12-08 00:00:00 +0100
 permalink: some-remarks-on-distributed-pchd-systems

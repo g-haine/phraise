@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time stabilization andH∞control for a class of switched nonlinear port-controlled Hamiltonian systems subject to actuator saturation"
 date: 2019-12-04 00:00:00 +0100
 permalink: finite-time-stabilization-andh-control-for-a-class-of-switched-nonlinear-port-controlled-hamiltonian-systems-subject-to-actuator-saturation

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yigeng Huangfu
 permalink: /authors/yigeng-huangfu
 ---

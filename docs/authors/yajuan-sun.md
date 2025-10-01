@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yajuan Sun
 permalink: /authors/yajuan-sun
 ---

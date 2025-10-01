@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A novel passivity verification and enforcement algorithm for macromodels of microwave devices"
 date: 2008-09-29 00:00:00 +0100
 permalink: a-novel-passivity-verification-and-enforcement-algorithm-for-macromodels-of-microwave-devices

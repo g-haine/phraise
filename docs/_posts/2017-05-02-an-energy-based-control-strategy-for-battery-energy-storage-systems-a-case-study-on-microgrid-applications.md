@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Energy-Based Control Strategy for Battery  Energy Storage Systems: A Case Study on  Microgrid Applications"
 date: 2017-05-02 00:00:00 +0100
 permalink: an-energy-based-control-strategy-for-battery-energy-storage-systems-a-case-study-on-microgrid-applications

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based Control for Switched Uncertain Port-Controlled Hamiltonian Systems With Its Application to RLC Circuit Systems"
 date: 2023-09-06 00:00:00 +0100
 permalink: energy-based-control-for-switched-uncertain-port-controlled-hamiltonian-systems-with-its-application-to-rlc-circuit-systems

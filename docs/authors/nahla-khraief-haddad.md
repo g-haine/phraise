@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nahla Khraief Haddad
 permalink: /authors/nahla-khraief-haddad
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer-based finite time robust stabilization of mechanical arm systems"
 date: 2021-12-01 00:00:00 +0100
 permalink: observer-based-finite-time-robust-stabilization-of-mechanical-arm-systems

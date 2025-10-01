@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mahdieh S. Sadabadi
 permalink: /authors/mahdieh-s-sadabadi
 ---

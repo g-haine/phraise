@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling and Control Design of a V-Shaped Thermal Actuator System via Partial Derivative Equation Approach"
 date: 2019-04-30 00:00:00 +0100
 permalink: modelling-and-control-design-of-a-v-shaped-thermal-actuator-system-via-partial-derivative-equation-approach

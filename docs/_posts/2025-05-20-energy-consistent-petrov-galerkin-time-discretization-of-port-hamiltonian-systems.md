@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-consistent Petrov–Galerkin time discretization of port-Hamiltonian systems"
 date: 2025-05-20 00:00:00 +0100
 permalink: energy-consistent-petrov-galerkin-time-discretization-of-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Saeed Rafee Nekoo
 permalink: /authors/saeed-rafee-nekoo
 ---

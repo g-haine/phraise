@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Minimal port-Hamiltonian modeling of voice production: choices of fluid flow hypotheses, resulting structure and comparison"
 date: 2024-09-25 00:00:00 +0100
 permalink: minimal-port-hamiltonian-modeling-of-voice-production-choices-of-fluid-flow-hypotheses-resulting-structure-and-comparison

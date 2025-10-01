@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and damping assignment passivity-based control of semi-active and active battery/supercapacitor hybrid energy storage systems for stand-alone photovoltaic installations"
 date: 2018-05-04 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-of-semi-active-and-active-battery-supercapacitor-hybrid-energy-storage-systems-for-stand-alone-photovoltaic-installations

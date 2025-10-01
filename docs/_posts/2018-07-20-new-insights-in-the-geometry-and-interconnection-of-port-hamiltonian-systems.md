@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New insights in the geometry and interconnection of port-Hamiltonian systems"
 date: 2018-07-20 00:00:00 +0100
 permalink: new-insights-in-the-geometry-and-interconnection-of-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Relationship between dissipativity concepts for linear time-varying port-Hamiltonian systems"
 date: 2025-07-20 00:00:00 +0100
 permalink: relationship-between-dissipativity-concepts-for-linear-time-varying-port-hamiltonian-systems

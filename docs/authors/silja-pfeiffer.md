@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Silja Pfeiffer
 permalink: /authors/silja-pfeiffer
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sylvain Lassarre
 permalink: /authors/sylvain-lassarre
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking PID passivity-based control of spacecraft formation flying around Sun-Earth L2 point in the port-Hamiltonian framework"
 date: 2024-07-31 00:00:00 +0100
 permalink: trajectory-tracking-pid-passivity-based-control-of-spacecraft-formation-flying-around-sun-earth-l2-point-in-the-port-hamiltonian-framework

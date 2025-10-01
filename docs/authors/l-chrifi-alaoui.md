@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by L. Chrifi-Alaoui
 permalink: /authors/l-chrifi-alaoui
 ---

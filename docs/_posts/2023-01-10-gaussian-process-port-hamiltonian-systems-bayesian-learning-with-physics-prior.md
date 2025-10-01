@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Gaussian Process Port-Hamiltonian Systems: Bayesian Learning with Physics Prior"
 date: 2023-01-10 00:00:00 +0100
 permalink: gaussian-process-port-hamiltonian-systems-bayesian-learning-with-physics-prior

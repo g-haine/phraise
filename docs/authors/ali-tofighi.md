@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ali Tofighi
 permalink: /authors/ali-tofighi
 ---

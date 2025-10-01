@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Francisco Vargas
 permalink: /authors/francisco-vargas
 ---

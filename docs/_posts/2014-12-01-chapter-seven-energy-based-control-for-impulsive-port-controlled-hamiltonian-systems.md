@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Chapter Seven. Energy-Based Control for Impulsive Port-Controlled Hamiltonian Systems"
 date: 2014-12-01 00:00:00 +0100
 permalink: chapter-seven-energy-based-control-for-impulsive-port-controlled-hamiltonian-systems

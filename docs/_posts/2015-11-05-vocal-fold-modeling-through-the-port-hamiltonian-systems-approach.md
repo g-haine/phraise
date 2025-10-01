@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Vocal fold modeling through the port-Hamiltonian systems approach"
 date: 2015-11-05 00:00:00 +0100
 permalink: vocal-fold-modeling-through-the-port-hamiltonian-systems-approach

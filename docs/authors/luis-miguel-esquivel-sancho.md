@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luis Miguel Esquivel-Sancho
 permalink: /authors/luis-miguel-esquivel-sancho
 ---

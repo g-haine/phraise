@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnections of port-Hamiltonian systems: generating new passive outputs and feedback stabilization"
 date: 2011-03-10 00:00:00 +0100
 permalink: interconnections-of-port-hamiltonian-systems-generating-new-passive-outputs-and-feedback-stabilization

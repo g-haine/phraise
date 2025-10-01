@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bounded Control of Port-Controlled Hamiltonian Systems and Application in Synchronous Generator"
 date: 2013-01-15 00:00:00 +0100
 permalink: bounded-control-of-port-controlled-hamiltonian-systems-and-application-in-synchronous-generator

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A limit set stabilization by means of the Port Hamiltonian system approach"
 date: 2014-03-21 00:00:00 +0100
 permalink: a-limit-set-stabilization-by-means-of-the-port-hamiltonian-system-approach

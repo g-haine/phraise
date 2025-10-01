@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time-varying port-representation of dissipative structures with gauge transformations"
 date: 2018-06-21 00:00:00 +0100
 permalink: time-varying-port-representation-of-dissipative-structures-with-gauge-transformations

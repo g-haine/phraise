@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by César Leonardo Trujillo
 permalink: /authors/cesar-leonardo-trujillo
 ---

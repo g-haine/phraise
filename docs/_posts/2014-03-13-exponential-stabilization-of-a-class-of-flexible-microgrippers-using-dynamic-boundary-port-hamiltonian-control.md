@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential stabilization of a class of flexible microgrippers using dynamic boundary port Hamiltonian control"
 date: 2014-03-13 00:00:00 +0100
 permalink: exponential-stabilization-of-a-class-of-flexible-microgrippers-using-dynamic-boundary-port-hamiltonian-control

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chongtao Li
 permalink: /authors/chongtao-li
 ---

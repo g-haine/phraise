@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analysis and comparison of port-Hamiltonian formulations for field theories - demonstrated by means of the Mindlin plate"
 date: 2018-06-21 00:00:00 +0100
 permalink: analysis-and-comparison-of-port-hamiltonian-formulations-for-field-theories-demonstrated-by-means-of-the-mindlin-plate

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenjie Ge
 permalink: /authors/wenjie-ge
 ---

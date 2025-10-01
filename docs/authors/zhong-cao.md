@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhong Cao
 permalink: /authors/zhong-cao
 ---

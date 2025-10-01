@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mourad Benoussaad
 permalink: /authors/mourad-benoussaad
 ---

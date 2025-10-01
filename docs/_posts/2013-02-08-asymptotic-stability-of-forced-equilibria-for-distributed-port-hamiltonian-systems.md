@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic stability of forced equilibria for distributed port-Hamiltonian systems"
 date: 2013-02-08 00:00:00 +0100
 permalink: asymptotic-stability-of-forced-equilibria-for-distributed-port-hamiltonian-systems

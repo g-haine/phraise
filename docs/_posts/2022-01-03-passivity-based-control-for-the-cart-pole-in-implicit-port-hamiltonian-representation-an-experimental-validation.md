@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control for the Cart-Pole in Implicit Port-Hamiltonian Representation: An Experimental Validation"
 date: 2022-01-03 00:00:00 +0100
 permalink: passivity-based-control-for-the-cart-pole-in-implicit-port-hamiltonian-representation-an-experimental-validation

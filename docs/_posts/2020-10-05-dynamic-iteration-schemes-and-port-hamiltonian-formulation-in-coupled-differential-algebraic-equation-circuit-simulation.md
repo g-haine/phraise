@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic iteration schemes and port‐Hamiltonian formulation in coupled differential‐algebraic equation circuit simulation"
 date: 2020-10-05 00:00:00 +0100
 permalink: dynamic-iteration-schemes-and-port-hamiltonian-formulation-in-coupled-differential-algebraic-equation-circuit-simulation

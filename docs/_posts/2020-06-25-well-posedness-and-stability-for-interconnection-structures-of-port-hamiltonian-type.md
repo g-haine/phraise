@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-posedness and stability for interconnection structures of port-Hamiltonian type"
 date: 2020-06-25 00:00:00 +0100
 permalink: well-posedness-and-stability-for-interconnection-structures-of-port-hamiltonian-type

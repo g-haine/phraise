@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based Control for Soft Manipulators using Cosserat-beam Models"
 date: 2021-07-22 00:00:00 +0100
 permalink: energy-based-control-for-soft-manipulators-using-cosserat-beam-models

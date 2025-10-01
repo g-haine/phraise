@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guoyou Shi
 permalink: /authors/guoyou-shi
 ---

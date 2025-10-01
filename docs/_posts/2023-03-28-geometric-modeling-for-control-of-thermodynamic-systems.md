@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geometric Modeling for Control of Thermodynamic Systems"
 date: 2023-03-28 00:00:00 +0100
 permalink: geometric-modeling-for-control-of-thermodynamic-systems

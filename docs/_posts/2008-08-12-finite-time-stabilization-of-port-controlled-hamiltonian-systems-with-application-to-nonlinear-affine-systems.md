@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time stabilization of Port-Controlled Hamiltonian systems with application to nonlinear affine systems"
 date: 2008-08-12 00:00:00 +0100
 permalink: finite-time-stabilization-of-port-controlled-hamiltonian-systems-with-application-to-nonlinear-affine-systems

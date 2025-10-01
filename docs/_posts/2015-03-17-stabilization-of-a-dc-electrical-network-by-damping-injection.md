@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of a DC electrical network by damping injection"
 date: 2015-03-17 00:00:00 +0100
 permalink: stabilization-of-a-dc-electrical-network-by-damping-injection

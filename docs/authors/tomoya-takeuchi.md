@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tomoya Takeuchi
 permalink: /authors/tomoya-takeuchi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Derivation of Input-State-Output Port-Hamiltonian Systems from bond graphs"
 date: 2008-02-26 00:00:00 +0100
 permalink: derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passive Output Feedback and Port Interconnection"
 date: 2017-05-29 00:00:00 +0100
 permalink: passive-output-feedback-and-port-interconnection

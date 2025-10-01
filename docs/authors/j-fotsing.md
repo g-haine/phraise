@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. Fotsing
 permalink: /authors/j-fotsing
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yurii O. Biletskyi
 permalink: /authors/yurii-o-biletskyi
 ---

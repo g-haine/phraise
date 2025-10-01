@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Controlled Hamiltonian Approach to Control of an Electrostatic MEMS Actuator"
 date: 2008-05-16 00:00:00 +0100
 permalink: a-port-controlled-hamiltonian-approach-to-control-of-an-electrostatic-mems-actuator

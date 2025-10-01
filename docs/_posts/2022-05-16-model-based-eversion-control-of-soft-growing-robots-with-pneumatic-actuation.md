@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model-Based Eversion Control of Soft Growing Robots With Pneumatic Actuation"
 date: 2022-05-16 00:00:00 +0100
 permalink: model-based-eversion-control-of-soft-growing-robots-with-pneumatic-actuation

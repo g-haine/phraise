@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ali Jaafar
 permalink: /authors/ali-jaafar
 ---

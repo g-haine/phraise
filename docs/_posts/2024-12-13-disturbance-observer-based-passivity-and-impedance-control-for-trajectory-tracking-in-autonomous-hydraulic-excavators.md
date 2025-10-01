@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Disturbance observer-based passivity and impedance control for trajectory tracking in autonomous hydraulic excavators"
 date: 2024-12-13 00:00:00 +0100
 permalink: disturbance-observer-based-passivity-and-impedance-control-for-trajectory-tracking-in-autonomous-hydraulic-excavators

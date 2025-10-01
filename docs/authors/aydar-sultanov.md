@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aydar Sultanov
 permalink: /authors/aydar-sultanov
 ---

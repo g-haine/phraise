@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Implementation of Energy based Controller for Buck Boost Converter using FPAA"
 date: 2023-06-20 00:00:00 +0100
 permalink: implementation-of-energy-based-controller-for-buck-boost-converter-using-fpaa

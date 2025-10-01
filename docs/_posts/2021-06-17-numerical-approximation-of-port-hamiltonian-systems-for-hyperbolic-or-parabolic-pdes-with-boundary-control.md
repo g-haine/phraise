@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Numerical Approximation of Port-Hamiltonian Systems for Hyperbolic or Parabolic PDEs with Boundary Control"
 date: 2021-06-17 00:00:00 +0100
 permalink: numerical-approximation-of-port-hamiltonian-systems-for-hyperbolic-or-parabolic-pdes-with-boundary-control

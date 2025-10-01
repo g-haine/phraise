@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hong An
 permalink: /authors/hong-an
 ---

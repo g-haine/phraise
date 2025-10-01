@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Novel Control Method and Mathematical Model for Intelligent Robot"
 date: 2021-05-18 00:00:00 +0100
 permalink: a-novel-control-method-and-mathematical-model-for-intelligent-robot

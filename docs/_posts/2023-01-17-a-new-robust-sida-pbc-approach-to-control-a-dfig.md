@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A new robust SIDA-PBC approach to control a DFIG"
 date: 2023-01-17 00:00:00 +0100
 permalink: a-new-robust-sida-pbc-approach-to-control-a-dfig

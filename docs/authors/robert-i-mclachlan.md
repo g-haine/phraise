@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Robert I. McLachlan
 permalink: /authors/robert-i-mclachlan
 ---

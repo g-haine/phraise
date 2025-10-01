@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Huanchen Zhang
 permalink: /authors/huanchen-zhang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lalitesh Kumar
 permalink: /authors/lalitesh-kumar
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Qualitative stability and synchronicity analysis of power network models in port-Hamiltonian form"
 date: 2018-10-18 00:00:00 +0100
 permalink: qualitative-stability-and-synchronicity-analysis-of-power-network-models-in-port-hamiltonian-form

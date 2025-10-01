@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Björn Liljegren-Sailer
 permalink: /authors/bjorn-liljegren-sailer
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Moirangthem Sailash Singh
 permalink: /authors/moirangthem-sailash-singh
 ---

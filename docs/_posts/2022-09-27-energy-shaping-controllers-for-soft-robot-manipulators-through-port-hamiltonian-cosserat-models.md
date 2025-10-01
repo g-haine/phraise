@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Shaping Controllers for Soft Robot Manipulators Through Port-Hamiltonian Cosserat Models"
 date: 2022-09-27 00:00:00 +0100
 permalink: energy-shaping-controllers-for-soft-robot-manipulators-through-port-hamiltonian-cosserat-models

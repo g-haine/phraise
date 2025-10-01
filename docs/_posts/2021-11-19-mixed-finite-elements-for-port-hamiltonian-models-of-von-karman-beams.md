@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mixed finite elements for port-Hamiltonian models of von Kármán beams"
 date: 2021-11-19 00:00:00 +0100
 permalink: mixed-finite-elements-for-port-hamiltonian-models-of-von-karman-beams

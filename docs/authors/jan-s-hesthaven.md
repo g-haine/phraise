@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jan S. Hesthaven
 permalink: /authors/jan-s-hesthaven
 ---

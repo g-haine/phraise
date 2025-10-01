@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J.C. Mayo Maldonado
 permalink: /authors/j-c-mayo-maldonado
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic modeling of a curling HASEL actuator using the port Hamiltonian framework with experimental validation"
 date: 2025-05-28 00:00:00 +0100
 permalink: dynamic-modeling-of-a-curling-hasel-actuator-using-the-port-hamiltonian-framework-with-experimental-validation

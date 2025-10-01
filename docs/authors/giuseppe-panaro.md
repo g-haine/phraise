@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Giuseppe Panaro
 permalink: /authors/giuseppe-panaro
 ---

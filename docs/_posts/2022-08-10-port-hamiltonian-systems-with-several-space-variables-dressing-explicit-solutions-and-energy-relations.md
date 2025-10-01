@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems with Several Space Variables: Dressing, Explicit Solutions and Energy Relations"
 date: 2022-08-10 00:00:00 +0100
 permalink: port-hamiltonian-systems-with-several-space-variables-dressing-explicit-solutions-and-energy-relations

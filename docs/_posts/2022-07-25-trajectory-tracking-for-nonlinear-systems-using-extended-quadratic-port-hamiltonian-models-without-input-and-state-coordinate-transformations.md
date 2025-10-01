@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking for nonlinear systems using extended quadratic port-Hamiltonian models without input and state coordinate transformations"
 date: 2022-07-25 00:00:00 +0100
 permalink: trajectory-tracking-for-nonlinear-systems-using-extended-quadratic-port-hamiltonian-models-without-input-and-state-coordinate-transformations

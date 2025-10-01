@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the steady-state behavior of a nonlinear power system model"
 date: 2018-02-17 00:00:00 +0100
 permalink: on-the-steady-state-behavior-of-a-nonlinear-power-system-model

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bingkun Zhao
 permalink: /authors/bingkun-zhao
 ---

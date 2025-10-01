@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonicity, vertex symmetry, and broadcasting of uni-directional hypercubes"
 date: 2002-11-19 00:00:00 +0100
 permalink: hamiltonicity-vertex-symmetry-and-broadcasting-of-uni-directional-hypercubes0

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ho Phuoc Tien
 permalink: /authors/ho-phuoc-tien
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Manuel Dupuis
 permalink: /authors/manuel-dupuis
 ---

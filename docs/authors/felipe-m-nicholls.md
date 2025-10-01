@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Felipe M. Nicholls
 permalink: /authors/felipe-m-nicholls
 ---

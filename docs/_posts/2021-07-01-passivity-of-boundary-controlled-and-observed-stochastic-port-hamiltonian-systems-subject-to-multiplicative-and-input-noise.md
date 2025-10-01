@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity of boundary controlled and observed stochastic port-Hamiltonian systems subject to multiplicative and input noise"
 date: 2021-07-01 00:00:00 +0100
 permalink: passivity-of-boundary-controlled-and-observed-stochastic-port-hamiltonian-systems-subject-to-multiplicative-and-input-noise

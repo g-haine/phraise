@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control of Hybrid Power Sources using Fuel Cell, Supercapacitors, and Batteries on the DC link for Energy Traction System"
 date: 2007-07-23 00:00:00 +0100
 permalink: passivity-based-control-of-hybrid-power-sources-using-fuel-cell-supercapacitors-and-batteries-on-the-dc-link-for-energy-traction-system

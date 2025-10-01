@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Raimúndez Álvarez
 permalink: /authors/raimundez-alvarez
 ---

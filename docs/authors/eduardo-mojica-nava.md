@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eduardo Mojica-Nava
 permalink: /authors/eduardo-mojica-nava
 ---

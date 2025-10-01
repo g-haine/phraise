@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by K. J. Petersen
 permalink: /authors/k-j-petersen
 ---

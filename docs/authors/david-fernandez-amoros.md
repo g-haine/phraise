@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David Fernández-Amorós
 permalink: /authors/david-fernandez-amoros
 ---

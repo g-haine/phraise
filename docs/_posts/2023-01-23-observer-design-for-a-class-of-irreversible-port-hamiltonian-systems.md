@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer design for a class of irreversible port Hamiltonian systems"
 date: 2023-01-23 00:00:00 +0100
 permalink: observer-design-for-a-class-of-irreversible-port-hamiltonian-systems

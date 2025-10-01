@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hyunsoo Yoon
 permalink: /authors/hyunsoo-yoon
 ---

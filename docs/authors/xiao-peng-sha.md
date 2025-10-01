@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiao Peng Sha
 permalink: /authors/xiao-peng-sha
 ---

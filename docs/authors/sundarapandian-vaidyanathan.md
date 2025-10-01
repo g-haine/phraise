@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sundarapandian Vaidyanathan
 permalink: /authors/sundarapandian-vaidyanathan
 ---

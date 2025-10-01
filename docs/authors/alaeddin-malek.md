@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alaeddin Malek
 permalink: /authors/alaeddin-malek
 ---

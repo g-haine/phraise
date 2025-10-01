@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zongwu Xie
 permalink: /authors/zongwu-xie
 ---

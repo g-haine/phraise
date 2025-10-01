@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Philipp L. Kinon
 permalink: /authors/philipp-l-kinon
 ---

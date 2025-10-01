@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Claudiu-Ionel Nicola
 permalink: /authors/claudiu-ionel-nicola
 ---

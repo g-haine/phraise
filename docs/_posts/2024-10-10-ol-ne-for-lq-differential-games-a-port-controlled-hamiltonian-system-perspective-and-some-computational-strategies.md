@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "OL-NE for LQ differential games: A Port-Controlled Hamiltonian system perspective and some computational strategies"
 date: 2024-10-10 00:00:00 +0100
 permalink: ol-ne-for-lq-differential-games-a-port-controlled-hamiltonian-system-perspective-and-some-computational-strategies

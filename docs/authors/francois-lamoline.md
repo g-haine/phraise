@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by François Lamoline
 permalink: /authors/francois-lamoline
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mario Spirito
 permalink: /authors/mario-spirito
 ---

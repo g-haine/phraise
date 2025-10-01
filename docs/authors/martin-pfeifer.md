@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martin Pfeifer
 permalink: /authors/martin-pfeifer
 ---

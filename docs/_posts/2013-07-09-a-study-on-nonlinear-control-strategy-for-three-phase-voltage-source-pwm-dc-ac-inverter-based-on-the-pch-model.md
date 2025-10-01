@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Study on Nonlinear Control Strategy for Three-phase Voltage Source PWM DC/AC Inverter based on the PCH Model"
 date: 2013-07-09 00:00:00 +0100
 permalink: a-study-on-nonlinear-control-strategy-for-three-phase-voltage-source-pwm-dc-ac-inverter-based-on-the-pch-model

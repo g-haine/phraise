@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yichuan Zhang
 permalink: /authors/yichuan-zhang
 ---

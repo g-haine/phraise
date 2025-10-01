@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Zero dynamics for networks of waves"
 date: 2019-02-25 00:00:00 +0100
 permalink: zero-dynamics-for-networks-of-waves

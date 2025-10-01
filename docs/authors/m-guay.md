@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Guay
 permalink: /authors/m-guay
 ---

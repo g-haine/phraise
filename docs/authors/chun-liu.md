@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chun Liu
 permalink: /authors/chun-liu
 ---

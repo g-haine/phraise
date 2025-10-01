@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Current Control of a Dual-Active Bridge to Improve the Dynamic Response of a Solid-State Transformer During Power and Voltage Variations"
 date: 2020-11-09 00:00:00 +0100
 permalink: passivity-based-current-control-of-a-dual-active-bridge-to-improve-the-dynamic-response-of-a-solid-state-transformer-during-power-and-voltage-variations

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On contraction of time-varying port-Hamiltonian systems"
 date: 2019-10-17 00:00:00 +0100
 permalink: on-contraction-of-time-varying-port-hamiltonian-systems

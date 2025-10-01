@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An energy-based LVRT control strategy for doubly-fed wind generator"
 date: 2016-11-16 00:00:00 +0100
 permalink: an-energy-based-lvrt-control-strategy-for-doubly-fed-wind-generator

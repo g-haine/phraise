@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian model for DC-microgrid lift systems"
 date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-model-for-dc-microgrid-lift-systems

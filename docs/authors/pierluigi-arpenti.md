@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pierluigi Arpenti
 permalink: /authors/pierluigi-arpenti
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Shaping Control of Hydraulic Soft Continuum Planar Manipulators"
 date: 2021-12-07 00:00:00 +0100
 permalink: energy-shaping-control-of-hydraulic-soft-continuum-planar-manipulators

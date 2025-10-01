@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tangqing Yuan
 permalink: /authors/tangqing-yuan
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems"
 date: 2012-07-12 00:00:00 +0100
 permalink: structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems

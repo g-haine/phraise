@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haochen Li
 permalink: /authors/haochen-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Reversible Hydropump–Turbine System"
 date: 2022-09-13 00:00:00 +0100
 permalink: a-reversible-hydropump-turbine-system

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time-varying output feedback stabilization of a class of nonholonomic Hamiltonian systems via canonical transformations"
 date: 2002-11-11 00:00:00 +0100
 permalink: time-varying-output-feedback-stabilization-of-a-class-of-nonholonomic-hamiltonian-systems-via-canonical-transformations

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ł. Kucharski
 permalink: /authors/l-kucharski
 ---

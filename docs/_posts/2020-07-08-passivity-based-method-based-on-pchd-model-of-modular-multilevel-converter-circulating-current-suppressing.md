@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based Method Based on PCHD Model of Modular Multilevel Converter Circulating Current Suppressing"
 date: 2020-07-08 00:00:00 +0100
 permalink: passivity-based-method-based-on-pchd-model-of-modular-multilevel-converter-circulating-current-suppressing

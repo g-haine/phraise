@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David Sondak
 permalink: /authors/david-sondak
 ---

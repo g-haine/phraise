@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Based Control of Water Distribution Networks"
 date: 2022-05-01 00:00:00 +0100
 permalink: port-hamiltonian-based-control-of-water-distribution-networks0

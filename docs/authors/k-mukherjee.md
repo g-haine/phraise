@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by K Mukherjee
 permalink: /authors/k-mukherjee
 ---

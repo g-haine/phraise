@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alessio Moreschini
 permalink: /authors/alessio-moreschini
 ---

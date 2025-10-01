@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Decoding and realising flapping flight with port-Hamiltonian system theory"
 date: 2021-06-22 00:00:00 +0100
 permalink: decoding-and-realising-flapping-flight-with-port-hamiltonian-system-theory

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Averaged port-Hamiltonian modeling based observer for DC-DC power converters"
 date: 2013-02-23 00:00:00 +0100
 permalink: averaged-port-hamiltonian-modeling-based-observer-for-dc-dc-power-converters

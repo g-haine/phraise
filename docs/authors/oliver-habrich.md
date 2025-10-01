@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Oliver Habrich
 permalink: /authors/oliver-habrich
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ryousuke MATSUSHITA
 permalink: /authors/ryousuke-matsushita
 ---

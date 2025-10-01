@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulations for the modeling, simulation and control of fluids"
 date: 2024-08-20 00:00:00 +0100
 permalink: port-hamiltonian-formulations-for-the-modeling-simulation-and-control-of-fluids

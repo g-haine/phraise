@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Helmut Ennsbrunner
 permalink: /authors/helmut-ennsbrunner
 ---

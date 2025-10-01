@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ahmed Chemori
 permalink: /authors/ahmed-chemori
 ---

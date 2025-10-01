@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal Control of Port-Hamiltonian Descriptor Systems with Minimal Energy Supply"
 date: 2022-07-26 00:00:00 +0100
 permalink: optimal-control-of-port-hamiltonian-descriptor-systems-with-minimal-energy-supply

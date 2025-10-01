@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nikolay Atanasov
 permalink: /authors/nikolay-atanasov
 ---

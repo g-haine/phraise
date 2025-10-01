@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Distributed Cooperative Control Strategy of Offshore Wind Turbine Groups with Input Time Delay"
 date: 2020-04-09 00:00:00 +0100
 permalink: a-distributed-cooperative-control-strategy-of-offshore-wind-turbine-groups-with-input-time-delay

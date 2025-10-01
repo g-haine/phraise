@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Leandro Rodrigues Cunha
 permalink: /authors/leandro-rodrigues-cunha
 ---

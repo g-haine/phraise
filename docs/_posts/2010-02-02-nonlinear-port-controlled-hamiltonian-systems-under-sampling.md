@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear port controlled Hamiltonian systems under sampling"
 date: 2010-02-02 00:00:00 +0100
 permalink: nonlinear-port-controlled-hamiltonian-systems-under-sampling

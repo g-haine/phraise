@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Explicit structure-preserving discretization of port-Hamiltonian systems with mixed boundary control"
 date: 2022-11-23 00:00:00 +0100
 permalink: explicit-structure-preserving-discretization-of-port-hamiltonian-systems-with-mixed-boundary-control

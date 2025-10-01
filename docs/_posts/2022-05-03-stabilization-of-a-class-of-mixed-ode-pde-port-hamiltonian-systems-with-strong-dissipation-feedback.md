@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of a class of mixed ODE–PDE port-Hamiltonian systems with strong dissipation feedback"
 date: 2022-05-03 00:00:00 +0100
 permalink: stabilization-of-a-class-of-mixed-ode-pde-port-hamiltonian-systems-with-strong-dissipation-feedback

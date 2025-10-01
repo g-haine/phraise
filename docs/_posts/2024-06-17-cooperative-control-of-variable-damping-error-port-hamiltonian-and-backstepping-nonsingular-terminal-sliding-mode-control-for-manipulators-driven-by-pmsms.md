@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cooperative control of variable damping error port Hamiltonian and backstepping nonsingular terminal sliding mode control for manipulators driven by PMSMs"
 date: 2024-06-17 00:00:00 +0100
 permalink: cooperative-control-of-variable-damping-error-port-hamiltonian-and-backstepping-nonsingular-terminal-sliding-mode-control-for-manipulators-driven-by-pmsms

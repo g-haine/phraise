@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Active control of the axisymmetric vibration modes of a tom-tom drum"
 date: 2020-03-13 00:00:00 +0100
 permalink: active-control-of-the-axisymmetric-vibration-modes-of-a-tom-tom-drum

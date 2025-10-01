@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based adaptive sliding Mode speed control of switched reluctance motor drive considering torque ripple reduction"
 date: 2011-08-25 00:00:00 +0100
 permalink: passivity-based-adaptive-sliding-mode-speed-control-of-switched-reluctance-motor-drive-considering-torque-ripple-reduction

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dina Shona Laila
 permalink: /authors/dina-shona-laila
 ---

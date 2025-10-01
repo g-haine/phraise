@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Heiko K. F. Panzer
 permalink: /authors/heiko-k-f-panzer
 ---

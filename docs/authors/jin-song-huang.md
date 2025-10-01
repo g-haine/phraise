@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jin-Song Huang
 permalink: /authors/jin-song-huang
 ---

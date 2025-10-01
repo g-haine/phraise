@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xin Wu
 permalink: /authors/xin-wu
 ---

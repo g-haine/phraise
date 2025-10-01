@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based approach to the output feedback control of wind energy systems"
 date: 2003-11-10 00:00:00 +0100
 permalink: energy-based-approach-to-the-output-feedback-control-of-wind-energy-systems

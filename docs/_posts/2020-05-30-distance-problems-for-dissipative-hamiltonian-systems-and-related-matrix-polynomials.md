@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distance problems for dissipative Hamiltonian systems and related matrix polynomials"
 date: 2020-05-30 00:00:00 +0100
 permalink: distance-problems-for-dissipative-hamiltonian-systems-and-related-matrix-polynomials

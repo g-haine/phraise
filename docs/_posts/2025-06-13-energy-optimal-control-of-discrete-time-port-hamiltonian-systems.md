@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Optimal Control of Discrete-Time Port-Hamiltonian Systems"
 date: 2025-06-13 00:00:00 +0100
 permalink: energy-optimal-control-of-discrete-time-port-hamiltonian-systems

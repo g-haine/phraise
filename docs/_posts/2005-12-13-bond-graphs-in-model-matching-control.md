@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bond graphs in model matching control"
 date: 2005-12-13 00:00:00 +0100
 permalink: bond-graphs-in-model-matching-control

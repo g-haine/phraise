@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian formulation of coupled heat transfer"
 date: 2022-02-27 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-coupled-heat-transfer

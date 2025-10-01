@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A 3D SPH-based entirely Lagrangian meshfree hydroelastic FSI solver for anisotropic composite structures"
 date: 2022-08-04 00:00:00 +0100
 permalink: a-3d-sph-based-entirely-lagrangian-meshfree-hydroelastic-fsi-solver-for-anisotropic-composite-structures

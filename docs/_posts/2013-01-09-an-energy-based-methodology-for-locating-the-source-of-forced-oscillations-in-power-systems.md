@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An energy-based methodology for locating the source of forced oscillations in power systems"
 date: 2013-01-09 00:00:00 +0100
 permalink: an-energy-based-methodology-for-locating-the-source-of-forced-oscillations-in-power-systems

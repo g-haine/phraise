@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Matched Disturbance Suppression for Port-Hamiltonian Systems"
 date: 2020-05-12 00:00:00 +0100
 permalink: on-matched-disturbance-suppression-for-port-hamiltonian-systems

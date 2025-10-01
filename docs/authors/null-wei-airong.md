@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by null Wei Airong
 permalink: /authors/null-wei-airong
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michele Ducceschi
 permalink: /authors/michele-ducceschi
 ---

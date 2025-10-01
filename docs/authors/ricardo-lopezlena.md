@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ricardo Lopezlena
 permalink: /authors/ricardo-lopezlena
 ---

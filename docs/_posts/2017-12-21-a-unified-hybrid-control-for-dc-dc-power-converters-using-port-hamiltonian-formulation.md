@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A unified hybrid control for DC/DC power converters using port-Hamiltonian formulation"
 date: 2017-12-21 00:00:00 +0100
 permalink: a-unified-hybrid-control-for-dc-dc-power-converters-using-port-hamiltonian-formulation

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive IDA-PBC Applied to On-Board Boost Converter Supplying a Constant Power Load"
 date: 2020-12-01 00:00:00 +0100
 permalink: adaptive-ida-pbc-applied-to-on-board-boost-converter-supplying-a-constant-power-load

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal control problem in bond graph formalism"
 date: 2008-04-26 00:00:00 +0100
 permalink: optimal-control-problem-in-bond-graph-formalism

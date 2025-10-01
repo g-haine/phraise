@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Max Mendel
 permalink: /authors/max-mendel
 ---

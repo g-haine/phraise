@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aya Alawieh
 permalink: /authors/aya-alawieh
 ---

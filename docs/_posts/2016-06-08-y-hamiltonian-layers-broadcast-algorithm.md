@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Y-Hamiltonian Layers Broadcast Algorithm"
 date: 2016-06-08 00:00:00 +0100
 permalink: y-hamiltonian-layers-broadcast-algorithm

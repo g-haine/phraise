@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential Stability and Local ISS for DC Networks"
 date: 2020-07-07 00:00:00 +0100
 permalink: exponential-stability-and-local-iss-for-dc-networks

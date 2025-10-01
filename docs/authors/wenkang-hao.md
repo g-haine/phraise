@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenkang Hao
 permalink: /authors/wenkang-hao
 ---

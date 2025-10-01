@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Learning Switching Port-Hamiltonian Systems with Uncertainty Quantification"
 date: 2023-11-22 00:00:00 +0100
 permalink: learning-switching-port-hamiltonian-systems-with-uncertainty-quantification

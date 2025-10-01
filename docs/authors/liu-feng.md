@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liu Feng
 permalink: /authors/liu-feng
 ---

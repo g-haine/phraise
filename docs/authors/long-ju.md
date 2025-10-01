@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Long Ju
 permalink: /authors/long-ju
 ---

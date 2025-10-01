@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antoine Bendimerad-Hohl
 permalink: /authors/antoine-bendimerad-hohl
 ---

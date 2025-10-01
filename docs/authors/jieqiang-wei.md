@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jieqiang Wei
 permalink: /authors/jieqiang-wei
 ---

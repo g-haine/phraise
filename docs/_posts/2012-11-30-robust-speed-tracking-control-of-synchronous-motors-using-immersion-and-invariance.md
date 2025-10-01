@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust speed tracking control of synchronous motors using immersion and invariance"
 date: 2012-11-30 00:00:00 +0100
 permalink: robust-speed-tracking-control-of-synchronous-motors-using-immersion-and-invariance

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wen-Xing Yang
 permalink: /authors/wen-xing-yang
 ---

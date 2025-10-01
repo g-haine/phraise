@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ate Postma
 permalink: /authors/ate-postma
 ---

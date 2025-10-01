@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipation in suspension system augmented by piezoelectric stack: port-Hamiltonian approach"
 date: 2020-09-01 00:00:00 +0100
 permalink: dissipation-in-suspension-system-augmented-by-piezoelectric-stack-port-hamiltonian-approach

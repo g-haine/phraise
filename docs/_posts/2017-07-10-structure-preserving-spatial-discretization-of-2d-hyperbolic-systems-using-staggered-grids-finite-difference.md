@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure preserving spatial discretization of 2D hyperbolic systems using staggered grids finite difference"
 date: 2017-07-10 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-2d-hyperbolic-systems-using-staggered-grids-finite-difference

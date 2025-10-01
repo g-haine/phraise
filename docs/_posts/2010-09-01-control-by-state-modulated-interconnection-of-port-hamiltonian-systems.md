@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CONTROL BY (STATE–MODULATED) INTERCONNECTION OF PORT–HAMILTONIAN SYSTEMS"
 date: 2010-09-01 00:00:00 +0100
 permalink: control-by-state-modulated-interconnection-of-port-hamiltonian-systems

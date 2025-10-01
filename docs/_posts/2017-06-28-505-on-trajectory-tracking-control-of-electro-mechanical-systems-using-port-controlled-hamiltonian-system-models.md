@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "505 On trajectory tracking control of electro-mechanical systems using port-controlled Hamiltonian system models"
 date: 2017-06-28 00:00:00 +0100
 permalink: 505-on-trajectory-tracking-control-of-electro-mechanical-systems-using-port-controlled-hamiltonian-system-models

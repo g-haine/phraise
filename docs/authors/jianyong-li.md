@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianyong Li
 permalink: /authors/jianyong-li
 ---

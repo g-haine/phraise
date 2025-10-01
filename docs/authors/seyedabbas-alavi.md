@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Seyedabbas Alavi
 permalink: /authors/seyedabbas-alavi
 ---

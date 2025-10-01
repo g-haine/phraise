@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability and Consensus of Electrical Circuits via Structural Properties"
 date: 2015-11-10 00:00:00 +0100
 permalink: stability-and-consensus-of-electrical-circuits-via-structural-properties

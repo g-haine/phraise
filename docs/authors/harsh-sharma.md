@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Harsh Sharma
 permalink: /authors/harsh-sharma
 ---

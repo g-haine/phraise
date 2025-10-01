@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hybrid Tracking Control of 2-DOF SCARA Robot via Port-Controlled Hamiltonian and Backstepping"
 date: 2018-03-29 00:00:00 +0100
 permalink: hybrid-tracking-control-of-2-dof-scara-robot-via-port-controlled-hamiltonian-and-backstepping

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A combination of feedforward and feedback for the control of the nonlinear benchmark Inertia Wheel Pendulum"
 date: 2018-06-21 00:00:00 +0100
 permalink: a-combination-of-feedforward-and-feedback-for-the-control-of-the-nonlinear-benchmark-inertia-wheel-pendulum

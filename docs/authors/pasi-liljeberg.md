@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pasi Liljeberg
 permalink: /authors/pasi-liljeberg
 ---

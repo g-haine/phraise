@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by José Eduardo O. Pessanha
 permalink: /authors/jose-eduardo-o-pessanha
 ---

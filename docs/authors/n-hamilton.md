@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by N. Hamilton
 permalink: /authors/n-hamilton
 ---

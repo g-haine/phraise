@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Canonical interconnection of discrete linear port-Hamiltonian systems"
 date: 2014-03-13 00:00:00 +0100
 permalink: canonical-interconnection-of-discrete-linear-port-hamiltonian-systems

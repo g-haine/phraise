@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D.V.A. Nguyen
 permalink: /authors/d-v-a-nguyen
 ---

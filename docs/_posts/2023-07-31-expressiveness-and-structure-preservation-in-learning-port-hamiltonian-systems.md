@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Expressiveness and Structure Preservation in Learning Port-Hamiltonian Systems"
 date: 2023-07-31 00:00:00 +0100
 permalink: expressiveness-and-structure-preservation-in-learning-port-hamiltonian-systems

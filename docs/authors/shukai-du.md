@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shukai Du
 permalink: /authors/shukai-du
 ---

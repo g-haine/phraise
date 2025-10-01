@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analisis Dinamika Stroller (Kereta Bayi) dengan Metode Port-Controlled Hamiltonian System (PCHS) berbasis Komputasi Fisika"
 date: 2021-02-14 00:00:00 +0100
 permalink: analisis-dinamika-stroller-kereta-bayi-dengan-metode-port-controlled-hamiltonian-system-pchs-berbasis-komputasi-fisika

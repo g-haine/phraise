@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. Cisneros
 permalink: /authors/r-cisneros
 ---

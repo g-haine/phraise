@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of Nonprehensile Planar Rolling Manipulation: A Passivity-Based Approach"
 date: 2019-01-16 00:00:00 +0100
 permalink: control-of-nonprehensile-planar-rolling-manipulation-a-passivity-based-approach

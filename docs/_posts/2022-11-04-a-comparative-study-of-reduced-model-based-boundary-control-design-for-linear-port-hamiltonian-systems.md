@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A comparative study of reduced model based boundary control design for linear port Hamiltonian systems"
 date: 2022-11-04 00:00:00 +0100
 permalink: a-comparative-study-of-reduced-model-based-boundary-control-design-for-linear-port-hamiltonian-systems

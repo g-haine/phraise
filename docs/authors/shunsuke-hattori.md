@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shunsuke Hattori
 permalink: /authors/shunsuke-hattori
 ---

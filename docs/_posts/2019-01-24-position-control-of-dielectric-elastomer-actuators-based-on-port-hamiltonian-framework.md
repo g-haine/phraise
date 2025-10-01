@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position Control of Dielectric Elastomer Actuators Based on Port-Hamiltonian Framework"
 date: 2019-01-24 00:00:00 +0100
 permalink: position-control-of-dielectric-elastomer-actuators-based-on-port-hamiltonian-framework

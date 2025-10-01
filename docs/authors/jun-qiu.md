@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jun Qiu
 permalink: /authors/jun-qiu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian theory of symmetric optical network transforms"
 date: 2002-07-26 00:00:00 +0100
 permalink: hamiltonian-theory-of-symmetric-optical-network-transforms

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Force control of a class of standard mechanical systems in the port-Hamiltonian framework"
 date: 2013-09-17 00:00:00 +0100
 permalink: force-control-of-a-class-of-standard-mechanical-systems-in-the-port-hamiltonian-framework

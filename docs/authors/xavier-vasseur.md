@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xavier Vasseur
 permalink: /authors/xavier-vasseur
 ---

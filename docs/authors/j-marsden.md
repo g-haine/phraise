@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. Marsden
 permalink: /authors/j-marsden
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reinforcement learning event-triggered energy-based control for unmanned surface vessel with disturbances"
 date: 2025-04-09 00:00:00 +0100
 permalink: reinforcement-learning-event-triggered-energy-based-control-for-unmanned-surface-vessel-with-disturbances

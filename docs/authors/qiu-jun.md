@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qiu Jun
 permalink: /authors/qiu-jun
 ---

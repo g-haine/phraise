@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Damien Paire
 permalink: /authors/damien-paire
 ---

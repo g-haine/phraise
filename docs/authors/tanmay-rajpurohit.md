@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tanmay Rajpurohit
 permalink: /authors/tanmay-rajpurohit
 ---

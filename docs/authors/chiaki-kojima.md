@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chiaki Kojima
 permalink: /authors/chiaki-kojima
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Felicitas Mueller
 permalink: /authors/felicitas-mueller
 ---

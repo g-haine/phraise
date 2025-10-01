@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Héctor Vargas-Rodríguez
 permalink: /authors/hector-vargas-rodriguez
 ---

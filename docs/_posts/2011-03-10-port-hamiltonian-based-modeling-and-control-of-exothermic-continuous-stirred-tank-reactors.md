@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Hamiltonian based modeling and control of exothermic Continuous Stirred Tank Reactors"
 date: 2011-03-10 00:00:00 +0100
 permalink: port-hamiltonian-based-modeling-and-control-of-exothermic-continuous-stirred-tank-reactors

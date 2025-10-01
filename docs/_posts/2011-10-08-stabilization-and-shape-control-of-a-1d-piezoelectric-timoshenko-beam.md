@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization and shape control of a 1D piezoelectric Timoshenko beam"
 date: 2011-10-08 00:00:00 +0100
 permalink: stabilization-and-shape-control-of-a-1d-piezoelectric-timoshenko-beam

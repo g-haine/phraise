@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pierre-Louis Lions
 permalink: /authors/pierre-louis-lions
 ---

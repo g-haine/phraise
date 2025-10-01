@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tobias Malzer
 permalink: /authors/tobias-malzer
 ---

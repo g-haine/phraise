@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic Simulation of Two Kinds of Hydraulic Actuated Long Boom Manipulator in Port-Hamiltonian Formulation"
 date: 2020-07-31 00:00:00 +0100
 permalink: dynamic-simulation-of-two-kinds-of-hydraulic-actuated-long-boom-manipulator-in-port-hamiltonian-formulation

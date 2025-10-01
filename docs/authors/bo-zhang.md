@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bo Zhang
 permalink: /authors/bo-zhang
 ---

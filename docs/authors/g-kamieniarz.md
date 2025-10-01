@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by G. Kamieniarz
 permalink: /authors/g-kamieniarz
 ---

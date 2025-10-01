@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Annika Meyer
 permalink: /authors/annika-meyer
 ---

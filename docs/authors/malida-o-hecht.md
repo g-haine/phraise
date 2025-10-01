@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Malida O. Hecht
 permalink: /authors/malida-o-hecht
 ---

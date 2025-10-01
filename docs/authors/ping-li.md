@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ping Li
 permalink: /authors/ping-li
 ---

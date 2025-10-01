@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Youyuan Chen
 permalink: /authors/youyuan-chen
 ---

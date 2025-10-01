@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qiuqiao Zhang
 permalink: /authors/qiuqiao-zhang
 ---

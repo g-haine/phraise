@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Balanced Realization and Model Order Reduction for Port-Hamiltonian Systems"
 date: 2008-07-07 00:00:00 +0100
 permalink: balanced-realization-and-model-order-reduction-for-port-hamiltonian-systems

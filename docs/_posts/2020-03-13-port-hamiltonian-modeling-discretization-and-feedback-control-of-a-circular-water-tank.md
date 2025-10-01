@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling, discretization and feedback control of a circular water tank"
 date: 2020-03-13 00:00:00 +0100
 permalink: port-hamiltonian-modeling-discretization-and-feedback-control-of-a-circular-water-tank

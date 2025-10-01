@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yan-Nan Guo
 permalink: /authors/yan-nan-guo
 ---

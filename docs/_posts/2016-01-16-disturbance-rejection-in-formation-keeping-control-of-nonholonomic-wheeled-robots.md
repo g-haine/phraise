@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Disturbance rejection in formation keeping control of nonholonomic wheeled robots"
 date: 2016-01-16 00:00:00 +0100
 permalink: disturbance-rejection-in-formation-keeping-control-of-nonholonomic-wheeled-robots

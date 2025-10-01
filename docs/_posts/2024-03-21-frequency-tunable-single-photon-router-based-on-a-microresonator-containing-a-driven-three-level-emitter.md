@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Frequency-tunable single-photon router based on a microresonator containing a driven three-level emitter"
 date: 2024-03-21 00:00:00 +0100
 permalink: frequency-tunable-single-photon-router-based-on-a-microresonator-containing-a-driven-three-level-emitter

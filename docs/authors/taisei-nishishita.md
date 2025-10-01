@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Taisei NISHISHITA
 permalink: /authors/taisei-nishishita
 ---

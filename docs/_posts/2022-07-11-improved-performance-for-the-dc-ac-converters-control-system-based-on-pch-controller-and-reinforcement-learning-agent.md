@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Improved Performance for the DC-AC Converters Control System Based on PCH Controller and Reinforcement Learning Agent"
 date: 2022-07-11 00:00:00 +0100
 permalink: improved-performance-for-the-dc-ac-converters-control-system-based-on-pch-controller-and-reinforcement-learning-agent

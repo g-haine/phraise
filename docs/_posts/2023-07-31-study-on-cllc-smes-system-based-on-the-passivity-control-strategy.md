@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Study on CLLC-SMES System based on the Passivity Control Strategy"
 date: 2023-07-31 00:00:00 +0100
 permalink: study-on-cllc-smes-system-based-on-the-passivity-control-strategy

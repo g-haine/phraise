@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Leonardo Belpassi
 permalink: /authors/leonardo-belpassi
 ---

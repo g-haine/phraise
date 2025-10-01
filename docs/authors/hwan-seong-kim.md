@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hwan-Seong Kim
 permalink: /authors/hwan-seong-kim
 ---

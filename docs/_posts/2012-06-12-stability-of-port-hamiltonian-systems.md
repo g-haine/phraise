@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability of Port-Hamiltonian Systems"
 date: 2012-06-12 00:00:00 +0100
 permalink: stability-of-port-hamiltonian-systems

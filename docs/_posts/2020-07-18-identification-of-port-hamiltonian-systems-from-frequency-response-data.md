@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Identification of port-Hamiltonian systems from frequency response data"
 date: 2020-07-18 00:00:00 +0100
 permalink: identification-of-port-hamiltonian-systems-from-frequency-response-data

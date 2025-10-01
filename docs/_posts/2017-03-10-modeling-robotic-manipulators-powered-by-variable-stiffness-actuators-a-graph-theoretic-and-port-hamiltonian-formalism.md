@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling Robotic Manipulators Powered by Variable Stiffness Actuators: A Graph-Theoretic and Port-Hamiltonian Formalism"
 date: 2017-03-10 00:00:00 +0100
 permalink: modeling-robotic-manipulators-powered-by-variable-stiffness-actuators-a-graph-theoretic-and-port-hamiltonian-formalism

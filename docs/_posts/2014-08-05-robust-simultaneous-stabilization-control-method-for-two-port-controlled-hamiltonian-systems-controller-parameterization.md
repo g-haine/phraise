@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Simultaneous Stabilization Control Method for Two Port-Controlled Hamiltonian Systems: Controller Parameterization"
 date: 2014-08-05 00:00:00 +0100
 permalink: robust-simultaneous-stabilization-control-method-for-two-port-controlled-hamiltonian-systems-controller-parameterization

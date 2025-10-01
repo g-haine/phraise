@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "NONLINEAR CONTROL OF TEMPERATURE PROFILE OF UNSTABLE HEAT CONDUCTION SYSTEMS: A PORT HAMILTONIAN APPROACH"
 date: 2020-03-27 00:00:00 +0100
 permalink: nonlinear-control-of-temperature-profile-of-unstable-heat-conduction-systems-a-port-hamiltonian-approach

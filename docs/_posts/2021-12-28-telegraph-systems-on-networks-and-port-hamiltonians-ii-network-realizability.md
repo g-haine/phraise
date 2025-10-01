@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Telegraph systems on networks and port-Hamiltonians. Ⅱ. Network realizability"
 date: 2021-12-28 00:00:00 +0100
 permalink: telegraph-systems-on-networks-and-port-hamiltonians-ii-network-realizability

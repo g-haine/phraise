@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Morse families and Dirac systems"
 date: 2019-11-11 00:00:00 +0100
 permalink: morse-families-and-dirac-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modelling of fluid dynamics models with variable cross-section"
 date: 2021-07-16 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-fluid-dynamics-models-with-variable-cross-section

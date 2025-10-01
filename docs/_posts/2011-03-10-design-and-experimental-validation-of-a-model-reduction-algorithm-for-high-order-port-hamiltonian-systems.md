@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design and experimental validation of a model reduction algorithm for high-order port-Hamiltonian systems *"
 date: 2011-03-10 00:00:00 +0100
 permalink: design-and-experimental-validation-of-a-model-reduction-algorithm-for-high-order-port-hamiltonian-systems

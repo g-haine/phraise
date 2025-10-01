@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete-time Control by Interconnection using energy-preserving collocation methods"
 date: 2024-09-25 00:00:00 +0100
 permalink: discrete-time-control-by-interconnection-using-energy-preserving-collocation-methods

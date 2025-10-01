@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete stochastic port-Hamiltonian systems"
 date: 2022-01-06 00:00:00 +0100
 permalink: discrete-stochastic-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dimitri Jeltsema
 permalink: /authors/dimitri-jeltsema
 ---

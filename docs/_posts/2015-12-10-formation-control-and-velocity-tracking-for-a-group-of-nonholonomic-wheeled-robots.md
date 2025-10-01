@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Formation Control and Velocity Tracking for a Group of Nonholonomic Wheeled Robots"
 date: 2015-12-10 00:00:00 +0100
 permalink: formation-control-and-velocity-tracking-for-a-group-of-nonholonomic-wheeled-robots

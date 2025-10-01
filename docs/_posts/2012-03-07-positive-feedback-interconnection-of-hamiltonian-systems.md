@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Positive feedback interconnection of Hamiltonian systems"
 date: 2012-03-07 00:00:00 +0100
 permalink: positive-feedback-interconnection-of-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nicu Bizon
 permalink: /authors/nicu-bizon
 ---

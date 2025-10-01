@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olav Egeland
 permalink: /authors/olav-egeland
 ---

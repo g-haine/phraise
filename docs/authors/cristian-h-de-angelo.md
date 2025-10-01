@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cristian H. De Angelo
 permalink: /authors/cristian-h-de-angelo
 ---

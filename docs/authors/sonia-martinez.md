@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sonia Martínez
 permalink: /authors/sonia-martinez
 ---

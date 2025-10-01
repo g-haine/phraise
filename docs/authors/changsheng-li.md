@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Changsheng Li
 permalink: /authors/changsheng-li
 ---

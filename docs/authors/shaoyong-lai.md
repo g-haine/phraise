@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shaoyong Lai
 permalink: /authors/shaoyong-lai
 ---

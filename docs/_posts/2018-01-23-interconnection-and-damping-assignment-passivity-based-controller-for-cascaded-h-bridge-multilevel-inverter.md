@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and damping assignment passivity-based controller for cascaded H-bridge multilevel inverter"
 date: 2018-01-23 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-controller-for-cascaded-h-bridge-multilevel-inverter

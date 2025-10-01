@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alessandro De Luca
 permalink: /authors/alessandro-de-luca
 ---

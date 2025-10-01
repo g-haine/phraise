@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xuefang Lin-Shi
 permalink: /authors/xuefang-lin-shi
 ---

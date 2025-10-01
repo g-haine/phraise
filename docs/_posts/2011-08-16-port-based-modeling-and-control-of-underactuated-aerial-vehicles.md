@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-based modeling and control of underactuated aerial vehicles"
 date: 2011-08-16 00:00:00 +0100
 permalink: port-based-modeling-and-control-of-underactuated-aerial-vehicles

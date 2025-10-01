@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian Droop Control for Grid-Forming Inverters"
 date: 2023-10-02 00:00:00 +0100
 permalink: a-port-hamiltonian-droop-control-for-grid-forming-inverters

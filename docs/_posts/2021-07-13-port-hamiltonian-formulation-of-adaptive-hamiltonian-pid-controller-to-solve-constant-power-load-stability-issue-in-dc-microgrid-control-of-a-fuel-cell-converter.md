@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Formulation of Adaptive Hamiltonian PID controller to Solve Constant Power Load Stability Issue in DC Microgrid: Control of a Fuel Cell Converter"
 date: 2021-07-13 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-adaptive-hamiltonian-pid-controller-to-solve-constant-power-load-stability-issue-in-dc-microgrid-control-of-a-fuel-cell-converter

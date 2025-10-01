@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling and control of a curling HASEL actuator"
 date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-control-of-a-curling-hasel-actuator

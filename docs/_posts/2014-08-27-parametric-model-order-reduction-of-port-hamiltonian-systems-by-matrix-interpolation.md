@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Parametric Model Order Reduction of Port-Hamiltonian Systems by Matrix Interpolation"
 date: 2014-08-27 00:00:00 +0100
 permalink: parametric-model-order-reduction-of-port-hamiltonian-systems-by-matrix-interpolation

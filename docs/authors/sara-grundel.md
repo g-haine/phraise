@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sara Grundel
 permalink: /authors/sara-grundel
 ---

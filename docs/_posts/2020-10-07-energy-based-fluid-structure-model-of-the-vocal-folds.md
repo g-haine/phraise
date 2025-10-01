@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based fluid–structure model of the vocal folds"
 date: 2020-10-07 00:00:00 +0100
 permalink: energy-based-fluid-structure-model-of-the-vocal-folds

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Commutator-based operator splitting for linear port-Hamiltonian systems"
 date: 2024-12-16 00:00:00 +0100
 permalink: commutator-based-operator-splitting-for-linear-port-hamiltonian-systems

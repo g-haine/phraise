@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hayato INOUE
 permalink: /authors/hayato-inoue
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Benali Abdelkrim
 permalink: /authors/benali-abdelkrim
 ---

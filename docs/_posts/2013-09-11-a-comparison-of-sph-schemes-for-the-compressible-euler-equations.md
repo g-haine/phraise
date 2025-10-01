@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A comparison of SPH schemes for the compressible Euler equations"
 date: 2013-09-11 00:00:00 +0100
 permalink: a-comparison-of-sph-schemes-for-the-compressible-euler-equations

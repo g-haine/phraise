@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yan Wu
 permalink: /authors/yan-wu
 ---

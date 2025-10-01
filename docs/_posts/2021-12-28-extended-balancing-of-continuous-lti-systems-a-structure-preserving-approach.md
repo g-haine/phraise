@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Extended Balancing of Continuous LTI Systems: A Structure-Preserving Approach"
 date: 2021-12-28 00:00:00 +0100
 permalink: extended-balancing-of-continuous-lti-systems-a-structure-preserving-approach

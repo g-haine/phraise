@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Audrey Jardin
 permalink: /authors/audrey-jardin
 ---

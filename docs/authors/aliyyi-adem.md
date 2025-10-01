@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aliyyi Adem
 permalink: /authors/aliyyi-adem
 ---

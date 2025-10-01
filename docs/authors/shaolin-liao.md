@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shaolin Liao
 permalink: /authors/shaolin-liao
 ---

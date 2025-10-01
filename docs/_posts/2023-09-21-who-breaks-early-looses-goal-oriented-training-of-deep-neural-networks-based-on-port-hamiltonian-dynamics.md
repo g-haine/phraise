@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Who Breaks Early, Looses: Goal Oriented Training of Deep Neural Networks Based on Port Hamiltonian Dynamics"
 date: 2023-09-21 00:00:00 +0100
 permalink: who-breaks-early-looses-goal-oriented-training-of-deep-neural-networks-based-on-port-hamiltonian-dynamics

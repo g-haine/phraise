@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ernesto Aranda-Escolástico
 permalink: /authors/ernesto-aranda-escolastico
 ---

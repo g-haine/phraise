@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Quantum simulation of discrete-time Hamiltonians using directionally unbiased linear optical multiports"
 date: 2017-04-10 00:00:00 +0100
 permalink: quantum-simulation-of-discrete-time-hamiltonians-using-directionally-unbiased-linear-optical-multiports

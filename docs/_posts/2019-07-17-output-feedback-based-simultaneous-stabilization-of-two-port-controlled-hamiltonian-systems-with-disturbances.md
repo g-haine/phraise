@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Output feedback based simultaneous stabilization of two Port-controlled Hamiltonian systems with disturbances"
 date: 2019-07-17 00:00:00 +0100
 permalink: output-feedback-based-simultaneous-stabilization-of-two-port-controlled-hamiltonian-systems-with-disturbances

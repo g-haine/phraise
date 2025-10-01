@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and Damping Assignment Passivity Based Control for Power Sharing in Islanded Micro-Grids"
 date: 2018-12-12 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-for-power-sharing-in-islanded-micro-grids

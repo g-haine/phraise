@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Strong stabilization of piezoelectric beams with magnetic effects"
 date: 2014-03-13 00:00:00 +0100
 permalink: strong-stabilization-of-piezoelectric-beams-with-magnetic-effects

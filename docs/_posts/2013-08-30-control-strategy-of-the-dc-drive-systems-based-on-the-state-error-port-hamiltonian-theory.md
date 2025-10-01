@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control Strategy of the DC Drive Systems Based on the State Error Port-Hamiltonian Theory"
 date: 2013-08-30 00:00:00 +0100
 permalink: control-strategy-of-the-dc-drive-systems-based-on-the-state-error-port-hamiltonian-theory

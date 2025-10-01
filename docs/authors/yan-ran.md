@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yan Ran
 permalink: /authors/yan-ran
 ---

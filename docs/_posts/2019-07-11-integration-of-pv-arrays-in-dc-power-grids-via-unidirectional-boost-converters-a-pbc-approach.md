@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Integration of PV Arrays in DC Power Grids via Unidirectional Boost Converters: a PBC Approach"
 date: 2019-07-11 00:00:00 +0100
 permalink: integration-of-pv-arrays-in-dc-power-grids-via-unidirectional-boost-converters-a-pbc-approach

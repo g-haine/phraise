@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Francesco Tarantelli
 permalink: /authors/francesco-tarantelli
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mattéo Gouzien
 permalink: /authors/matteo-gouzien
 ---

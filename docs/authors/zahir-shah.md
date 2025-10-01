@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zahir Shah
 permalink: /authors/zahir-shah
 ---

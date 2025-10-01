@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paolo Forni
 permalink: /authors/paolo-forni
 ---

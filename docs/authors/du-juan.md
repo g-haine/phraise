@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Du Juan
 permalink: /authors/du-juan
 ---

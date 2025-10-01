@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peter Kunkel
 permalink: /authors/peter-kunkel
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tomoya Ono
 permalink: /authors/tomoya-ono
 ---

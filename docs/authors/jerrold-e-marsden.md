@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jerrold E. Marsden
 permalink: /authors/jerrold-e-marsden
 ---

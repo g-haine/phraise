@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Weisshaar
 permalink: /authors/a-weisshaar
 ---

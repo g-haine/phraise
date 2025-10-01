@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamics and Control of Dual-Satellite Electromagnetic Formation in the Port-Hamiltonian Framework"
 date: 2025-03-07 00:00:00 +0100
 permalink: dynamics-and-control-of-dual-satellite-electromagnetic-formation-in-the-port-hamiltonian-framework

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Vision based control of aerial robotic vehicles using the port Hamiltonian framework"
 date: 2012-03-07 00:00:00 +0100
 permalink: vision-based-control-of-aerial-robotic-vehicles-using-the-port-hamiltonian-framework

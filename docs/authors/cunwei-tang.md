@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cunwei Tang
 permalink: /authors/cunwei-tang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yong He
 permalink: /authors/yong-he
 ---

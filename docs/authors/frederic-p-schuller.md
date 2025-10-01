@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Frederic P. Schuller
 permalink: /authors/frederic-p-schuller
 ---

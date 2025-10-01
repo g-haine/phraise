@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Some Properties of Conservative Port Contact Systems"
 date: 2009-09-24 00:00:00 +0100
 permalink: some-properties-of-conservative-port-contact-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrea Paoli
 permalink: /authors/andrea-paoli
 ---

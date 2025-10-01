@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Djawad Hamache
 permalink: /authors/djawad-hamache
 ---

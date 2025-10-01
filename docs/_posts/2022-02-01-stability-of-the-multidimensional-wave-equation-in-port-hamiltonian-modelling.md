@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability of the multidimensional wave equation in port-Hamiltonian modelling"
 date: 2022-02-01 00:00:00 +0100
 permalink: stability-of-the-multidimensional-wave-equation-in-port-hamiltonian-modelling

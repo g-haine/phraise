@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ken Nagashima
 permalink: /authors/ken-nagashima
 ---

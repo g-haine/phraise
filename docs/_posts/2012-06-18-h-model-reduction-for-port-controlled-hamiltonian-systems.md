@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "H∞ model reduction for port-controlled Hamiltonian systems"
 date: 2012-06-18 00:00:00 +0100
 permalink: h-model-reduction-for-port-controlled-hamiltonian-systems

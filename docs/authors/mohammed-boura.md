@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammed Boura
 permalink: /authors/mohammed-boura
 ---

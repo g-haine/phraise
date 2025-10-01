@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinhua She
 permalink: /authors/jinhua-she
 ---

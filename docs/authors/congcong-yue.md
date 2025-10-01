@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Congcong Yue
 permalink: /authors/congcong-yue
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhenxing Zhang
 permalink: /authors/zhenxing-zhang
 ---

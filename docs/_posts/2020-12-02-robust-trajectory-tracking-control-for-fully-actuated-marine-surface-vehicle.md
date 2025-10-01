@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Trajectory Tracking Control for Fully Actuated Marine Surface Vehicle"
 date: 2020-12-02 00:00:00 +0100
 permalink: robust-trajectory-tracking-control-for-fully-actuated-marine-surface-vehicle

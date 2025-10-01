@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-Preserving Interpolatory Model Reduction for Port-Hamiltonian Differential-Algebraic Systems"
 date: 2022-06-09 00:00:00 +0100
 permalink: structure-preserving-interpolatory-model-reduction-for-port-hamiltonian-differential-algebraic-systems

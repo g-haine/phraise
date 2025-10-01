@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power-Based Methods for Infinite-Dimensional Systems"
 date: 2015-07-13 00:00:00 +0100
 permalink: power-based-methods-for-infinite-dimensional-systems

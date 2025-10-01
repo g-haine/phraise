@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Energy Shaping Control of a Class of Nonlinear Soft Continuum Manipulators"
 date: 2021-03-02 00:00:00 +0100
 permalink: adaptive-energy-shaping-control-of-a-class-of-nonlinear-soft-continuum-manipulators

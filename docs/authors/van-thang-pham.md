@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Van Thang Pham
 permalink: /authors/van-thang-pham
 ---

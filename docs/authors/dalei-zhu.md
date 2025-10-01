@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dalei Zhu
 permalink: /authors/dalei-zhu
 ---

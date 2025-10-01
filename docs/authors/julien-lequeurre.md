@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Julien Lequeurre
 permalink: /authors/julien-lequeurre
 ---

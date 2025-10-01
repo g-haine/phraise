@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. Paul
 permalink: /authors/d-paul
 ---

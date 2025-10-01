@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Charles Muller
 permalink: /authors/charles-muller
 ---

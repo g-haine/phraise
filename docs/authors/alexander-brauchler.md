@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander Brauchler
 permalink: /authors/alexander-brauchler
 ---

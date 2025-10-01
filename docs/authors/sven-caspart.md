@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sven Caspart
 permalink: /authors/sven-caspart
 ---

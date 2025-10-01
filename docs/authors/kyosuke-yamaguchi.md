@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kyosuke Yamaguchi
 permalink: /authors/kyosuke-yamaguchi
 ---

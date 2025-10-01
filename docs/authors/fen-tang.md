@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fen Tang
 permalink: /authors/fen-tang
 ---

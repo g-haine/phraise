@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping"
 date: 2002-11-13 00:00:00 +0100
 permalink: on-stabilization-of-nonlinear-distributed-parameter-port-controlled-hamiltonian-systems-via-energy-shaping

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A mass, energy, enstrophy and vorticity conserving (MEEVC) mimetic spectral element discretization for the 2D incompressible Navier–Stokes equations"
 date: 2016-10-11 00:00:00 +0100
 permalink: a-mass-energy-enstrophy-and-vorticity-conserving-meevc-mimetic-spectral-element-discretization-for-the-2d-incompressible-navier-stokes-equations

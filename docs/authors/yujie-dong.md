@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yujie Dong
 permalink: /authors/yujie-dong
 ---

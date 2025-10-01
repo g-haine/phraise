@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Keyou Zhao
 permalink: /authors/keyou-zhao
 ---

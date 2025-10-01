@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S Whitlock
 permalink: /authors/s-whitlock
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling of a Nonlinear Timoshenko Beam with Piezo Actuation"
 date: 2014-02-11 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-a-nonlinear-timoshenko-beam-with-piezo-actuation

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power-Based Setpoint Control: Experimental Results on a Planar Manipulator"
 date: 2011-09-01 00:00:00 +0100
 permalink: power-based-setpoint-control-experimental-results-on-a-planar-manipulator

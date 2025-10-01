@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hailiang Wang
 permalink: /authors/hailiang-wang
 ---

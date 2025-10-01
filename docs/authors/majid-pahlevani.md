@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Majid Pahlevani
 permalink: /authors/majid-pahlevani
 ---

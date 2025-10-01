@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian descriptor systems are relative generically controllable and stabilizable"
 date: 2024-06-24 00:00:00 +0100
 permalink: port-hamiltonian-descriptor-systems-are-relative-generically-controllable-and-stabilizable

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Integral control in the current loop of permanent magnet synchronous motor based on passivity"
 date: 2018-01-05 00:00:00 +0100
 permalink: integral-control-in-the-current-loop-of-permanent-magnet-synchronous-motor-based-on-passivity

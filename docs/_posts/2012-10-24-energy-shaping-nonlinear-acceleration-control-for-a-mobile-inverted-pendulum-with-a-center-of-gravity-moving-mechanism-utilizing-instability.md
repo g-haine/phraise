@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Shaping Nonlinear Acceleration Control for a Mobile Inverted Pendulum with a Center of Gravity Moving Mechanism Utilizing Instability"
 date: 2012-10-24 00:00:00 +0100
 permalink: energy-shaping-nonlinear-acceleration-control-for-a-mobile-inverted-pendulum-with-a-center-of-gravity-moving-mechanism-utilizing-instability

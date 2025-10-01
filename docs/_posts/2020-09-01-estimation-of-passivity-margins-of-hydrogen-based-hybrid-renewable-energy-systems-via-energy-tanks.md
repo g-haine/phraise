@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Estimation of passivity margins of hydrogen-based hybrid renewable energy systems via energy tanks"
 date: 2020-09-01 00:00:00 +0100
 permalink: estimation-of-passivity-margins-of-hydrogen-based-hybrid-renewable-energy-systems-via-energy-tanks

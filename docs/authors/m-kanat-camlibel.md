@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Kanat Camlibel
 permalink: /authors/m-kanat-camlibel
 ---

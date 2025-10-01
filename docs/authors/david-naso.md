@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David Naso
 permalink: /authors/david-naso
 ---

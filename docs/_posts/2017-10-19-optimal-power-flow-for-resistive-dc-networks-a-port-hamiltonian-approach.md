@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal Power Flow for resistive DC Networks: a Port-Hamiltonian approach"
 date: 2017-10-19 00:00:00 +0100
 permalink: optimal-power-flow-for-resistive-dc-networks-a-port-hamiltonian-approach

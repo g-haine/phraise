@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoming Hu
 permalink: /authors/xiaoming-hu
 ---

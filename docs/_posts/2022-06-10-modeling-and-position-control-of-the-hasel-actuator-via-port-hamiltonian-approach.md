@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Position Control of the HASEL Actuator via Port-Hamiltonian Approach"
 date: 2022-06-10 00:00:00 +0100
 permalink: modeling-and-position-control-of-the-hasel-actuator-via-port-hamiltonian-approach

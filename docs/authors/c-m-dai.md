@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C. M. Dai
 permalink: /authors/c-m-dai
 ---

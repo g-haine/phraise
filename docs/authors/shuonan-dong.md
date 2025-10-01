@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuonan Dong
 permalink: /authors/shuonan-dong
 ---

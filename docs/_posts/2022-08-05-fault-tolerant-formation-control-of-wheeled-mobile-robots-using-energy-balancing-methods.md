@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fault-tolerant formation control of wheeled mobile robots using energy-balancing methods"
 date: 2022-08-05 00:00:00 +0100
 permalink: fault-tolerant-formation-control-of-wheeled-mobile-robots-using-energy-balancing-methods

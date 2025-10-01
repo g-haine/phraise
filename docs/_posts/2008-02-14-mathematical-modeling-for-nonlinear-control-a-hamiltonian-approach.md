@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mathematical modeling for nonlinear control: a Hamiltonian approach"
 date: 2008-02-14 00:00:00 +0100
 permalink: mathematical-modeling-for-nonlinear-control-a-hamiltonian-approach

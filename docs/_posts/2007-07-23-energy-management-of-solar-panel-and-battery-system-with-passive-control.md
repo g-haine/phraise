@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy management of solar panel and battery system with passive control"
 date: 2007-07-23 00:00:00 +0100
 permalink: energy-management-of-solar-panel-and-battery-system-with-passive-control

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Passivity-based Control for DC Motor Drive System with PWM"
 date: 2013-02-25 00:00:00 +0100
 permalink: a-passivity-based-control-for-dc-motor-drive-system-with-pwm

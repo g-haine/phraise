@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IMPROVED STRUCTURE OF PASSIVITY-BASED CONTROL OF BATTERY-SUPERCAPACITOR HUBRID ENERGY STORAGE SYSTEM"
 date: 2020-12-21 00:00:00 +0100
 permalink: improved-structure-of-passivity-based-control-of-battery-supercapacitor-hubrid-energy-storage-system

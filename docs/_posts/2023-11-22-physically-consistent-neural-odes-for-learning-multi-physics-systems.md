@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Physically Consistent Neural ODEs for Learning Multi-Physics Systems"
 date: 2023-11-22 00:00:00 +0100
 permalink: physically-consistent-neural-odes-for-learning-multi-physics-systems

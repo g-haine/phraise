@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and Simulation Issues in Haptics"
 date: 2010-05-10 00:00:00 +0100
 permalink: interconnection-and-simulation-issues-in-haptics

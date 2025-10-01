@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiu‐Shan Cai
 permalink: /authors/xiu-shan-cai
 ---

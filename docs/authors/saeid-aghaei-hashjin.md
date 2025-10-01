@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Saeid Aghaei Hashjin
 permalink: /authors/saeid-aghaei-hashjin
 ---

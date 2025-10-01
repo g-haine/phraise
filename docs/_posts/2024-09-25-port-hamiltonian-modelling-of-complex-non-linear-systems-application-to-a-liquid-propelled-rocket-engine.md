@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modelling of Complex Non-Linear Systems, Application to a Liquid Propelled Rocket Engine"
 date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-complex-non-linear-systems-application-to-a-liquid-propelled-rocket-engine

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Ozkan Ozer
 permalink: /authors/a-ozkan-ozer
 ---

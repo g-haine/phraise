@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vinay Prasad
 permalink: /authors/vinay-prasad
 ---

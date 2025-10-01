@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mitesh R. Gandhi
 permalink: /authors/mitesh-r-gandhi
 ---

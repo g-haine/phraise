@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Karim Abbaszadeh
 permalink: /authors/karim-abbaszadeh
 ---

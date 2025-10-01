@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jussi Behrndt
 permalink: /authors/jussi-behrndt
 ---

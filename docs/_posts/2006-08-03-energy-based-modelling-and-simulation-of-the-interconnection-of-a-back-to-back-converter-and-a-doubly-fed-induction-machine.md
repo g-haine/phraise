@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based modelling and simulation of the interconnection of a back-to-back converter and a doubly-fed induction machine"
 date: 2006-08-03 00:00:00 +0100
 permalink: energy-based-modelling-and-simulation-of-the-interconnection-of-a-back-to-back-converter-and-a-doubly-fed-induction-machine

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analytical, Experimental, and Numerical Investigation of Energy in Hydraulic Cylinder Dynamics of Agriculture Scale Excavators"
 date: 2021-09-29 00:00:00 +0100
 permalink: analytical-experimental-and-numerical-investigation-of-energy-in-hydraulic-cylinder-dynamics-of-agriculture-scale-excavators

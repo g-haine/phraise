@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sliding-mode and PCH control of three phase PWM rectifier"
 date: 2015-07-22 00:00:00 +0100
 permalink: sliding-mode-and-pch-control-of-three-phase-pwm-rectifier

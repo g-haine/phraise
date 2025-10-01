@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guangren Duan
 permalink: /authors/guangren-duan
 ---

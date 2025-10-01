@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xin Li
 permalink: /authors/xin-li
 ---

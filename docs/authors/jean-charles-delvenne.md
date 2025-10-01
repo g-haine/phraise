@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean-Charles Delvenne
 permalink: /authors/jean-charles-delvenne
 ---

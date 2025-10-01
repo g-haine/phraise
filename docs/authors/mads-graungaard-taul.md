@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mads Graungaard Taul
 permalink: /authors/mads-graungaard-taul
 ---

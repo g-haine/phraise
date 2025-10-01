@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analyse und Synthese nichtlinearer dissipativer Systeme: Ein Überblick (Teil 2) (Analysis and Synthesis of Non-linear Dissipative Systems: An Overview (Part 2))"
 date: 2006-08-29 00:00:00 +0100
 permalink: analyse-und-synthese-nichtlinearer-dissipativer-systeme-ein-uberblick-teil-2-analysis-and-synthesis-of-non-linear-dissipative-systems-an-overview-part-2

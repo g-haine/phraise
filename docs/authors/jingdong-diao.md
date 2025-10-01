@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jingdong Diao
 permalink: /authors/jingdong-diao
 ---

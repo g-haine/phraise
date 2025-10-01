@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gilbert Bergna-Diaz
 permalink: /authors/gilbert-bergna-diaz
 ---

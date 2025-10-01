@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaofeng Liao
 permalink: /authors/xiaofeng-liao
 ---

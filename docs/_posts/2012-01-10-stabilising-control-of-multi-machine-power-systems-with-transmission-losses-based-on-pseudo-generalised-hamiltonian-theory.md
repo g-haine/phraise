@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilising control of multi-machine power systems with transmission losses based on pseudo-generalised Hamiltonian theory"
 date: 2012-01-10 00:00:00 +0100
 permalink: stabilising-control-of-multi-machine-power-systems-with-transmission-losses-based-on-pseudo-generalised-hamiltonian-theory

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ngoc Ha Hoang
 permalink: /authors/ngoc-ha-hoang
 ---

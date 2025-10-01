@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by E. M. Asensio
 permalink: /authors/e-m-asensio
 ---

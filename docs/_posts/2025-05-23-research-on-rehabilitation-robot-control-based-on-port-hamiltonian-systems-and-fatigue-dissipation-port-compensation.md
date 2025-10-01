@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on rehabilitation robot control based on port-Hamiltonian systems and fatigue dissipation port compensation"
 date: 2025-05-23 00:00:00 +0100
 permalink: research-on-rehabilitation-robot-control-based-on-port-hamiltonian-systems-and-fatigue-dissipation-port-compensation

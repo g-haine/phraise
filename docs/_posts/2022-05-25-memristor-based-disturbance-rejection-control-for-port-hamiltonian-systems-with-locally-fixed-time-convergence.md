@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Memristor‐based disturbance rejection control for port‐Hamiltonian systems with locally fixed‐time convergence"
 date: 2022-05-25 00:00:00 +0100
 permalink: memristor-based-disturbance-rejection-control-for-port-hamiltonian-systems-with-locally-fixed-time-convergence

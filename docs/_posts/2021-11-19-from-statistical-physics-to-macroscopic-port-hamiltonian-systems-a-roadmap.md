@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "From statistical physics to macroscopic port-Hamiltonian Systems: A roadmap"
 date: 2021-11-19 00:00:00 +0100
 permalink: from-statistical-physics-to-macroscopic-port-hamiltonian-systems-a-roadmap

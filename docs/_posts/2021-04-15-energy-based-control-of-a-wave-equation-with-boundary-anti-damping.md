@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based Control of a Wave Equation with Boundary Anti-damping"
 date: 2021-04-15 00:00:00 +0100
 permalink: energy-based-control-of-a-wave-equation-with-boundary-anti-damping

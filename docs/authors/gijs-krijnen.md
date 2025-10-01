@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gijs Krijnen
 permalink: /authors/gijs-krijnen
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Voice synthesis using power-balanced simulation of a quasi-1D model of the vocal apparatus"
 date: 2025-07-10 00:00:00 +0100
 permalink: voice-synthesis-using-power-balanced-simulation-of-a-quasi-1d-model-of-the-vocal-apparatus

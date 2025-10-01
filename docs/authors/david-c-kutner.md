@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David C. Kutner
 permalink: /authors/david-c-kutner
 ---

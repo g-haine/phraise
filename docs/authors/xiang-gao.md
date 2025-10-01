@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiang Gao
 permalink: /authors/xiang-gao
 ---

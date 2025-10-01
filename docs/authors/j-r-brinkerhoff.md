@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. R. Brinkerhoff
 permalink: /authors/j-r-brinkerhoff
 ---

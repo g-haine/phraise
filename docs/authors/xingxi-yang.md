@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xingxi Yang
 permalink: /authors/xingxi-yang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling and Control of Electric Vehicle Charging Stations"
 date: 2024-07-17 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-control-of-electric-vehicle-charging-stations

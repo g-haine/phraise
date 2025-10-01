@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Irreversible port-Hamiltonian modelling of 3D compressible fluids"
 date: 2023-11-22 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-modelling-of-3d-compressible-fluids

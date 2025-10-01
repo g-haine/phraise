@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bernard Brogliato
 permalink: /authors/bernard-brogliato
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T. Kugler
 permalink: /authors/t-kugler
 ---

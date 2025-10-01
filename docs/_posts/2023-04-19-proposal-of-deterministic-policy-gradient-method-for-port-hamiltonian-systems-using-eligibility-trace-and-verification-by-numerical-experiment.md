@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Proposal of Deterministic Policy Gradient Method for Port-Hamiltonian Systems Using Eligibility Trace and Verification by Numerical Experiment"
 date: 2023-04-19 00:00:00 +0100
 permalink: proposal-of-deterministic-policy-gradient-method-for-port-hamiltonian-systems-using-eligibility-trace-and-verification-by-numerical-experiment

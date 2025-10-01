@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A connection between optimal control and IDA-PBC design"
 date: 2018-06-18 00:00:00 +0100
 permalink: a-connection-between-optimal-control-and-ida-pbc-design

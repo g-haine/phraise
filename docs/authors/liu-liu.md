@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liu Liu
 permalink: /authors/liu-liu
 ---

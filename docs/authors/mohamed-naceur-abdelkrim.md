@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohamed Naceur Abdelkrim
 permalink: /authors/mohamed-naceur-abdelkrim
 ---

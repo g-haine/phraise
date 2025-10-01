@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary Energy-Shaping Control of an Ideal Compressible Isentropic Fluid in 1-D"
 date: 2017-10-19 00:00:00 +0100
 permalink: boundary-energy-shaping-control-of-an-ideal-compressible-isentropic-fluid-in-1-d

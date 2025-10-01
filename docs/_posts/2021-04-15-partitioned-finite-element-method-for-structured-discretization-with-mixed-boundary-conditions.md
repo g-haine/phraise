@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Partitioned finite element method for structured discretization with mixed boundary conditions"
 date: 2021-04-15 00:00:00 +0100
 permalink: partitioned-finite-element-method-for-structured-discretization-with-mixed-boundary-conditions

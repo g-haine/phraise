@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abrar Allag
 permalink: /authors/abrar-allag
 ---

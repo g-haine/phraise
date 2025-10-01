@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Candan Güdücü
 permalink: /authors/candan-guducu
 ---

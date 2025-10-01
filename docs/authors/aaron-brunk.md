@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aaron Brunk
 permalink: /authors/aaron-brunk
 ---

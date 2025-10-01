@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Input-Disturbed Stochastic Port-Hamiltonian Systems Via Passivity"
 date: 2017-03-01 00:00:00 +0100
 permalink: stabilization-of-input-disturbed-stochastic-port-hamiltonian-systems-via-passivity

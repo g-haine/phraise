@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems: From Modeling to Control"
 date: 2021-08-03 00:00:00 +0100
 permalink: port-hamiltonian-systems-from-modeling-to-control0

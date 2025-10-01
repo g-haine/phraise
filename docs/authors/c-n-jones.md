@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C.N. Jones
 permalink: /authors/c-n-jones
 ---

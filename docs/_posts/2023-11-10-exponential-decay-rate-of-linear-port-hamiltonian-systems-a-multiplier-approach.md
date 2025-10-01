@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential Decay Rate of Linear Port-Hamiltonian Systems: A Multiplier Approach"
 date: 2023-11-10 00:00:00 +0100
 permalink: exponential-decay-rate-of-linear-port-hamiltonian-systems-a-multiplier-approach

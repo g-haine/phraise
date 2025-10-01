@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cesare Fantuzzi
 permalink: /authors/cesare-fantuzzi
 ---

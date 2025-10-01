@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based Control and Observer Design for higher-order infinite-dimensional Port-Hamiltonian Systems"
 date: 2021-11-19 00:00:00 +0100
 permalink: energy-based-control-and-observer-design-for-higher-order-infinite-dimensional-port-hamiltonian-systems

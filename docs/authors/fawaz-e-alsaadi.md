@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fawaz E. Alsaadi
 permalink: /authors/fawaz-e-alsaadi
 ---

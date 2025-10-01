@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Satoshi Satoh
 permalink: /authors/satoshi-satoh
 ---

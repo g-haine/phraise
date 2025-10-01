@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matteo De Santis
 permalink: /authors/matteo-de-santis
 ---

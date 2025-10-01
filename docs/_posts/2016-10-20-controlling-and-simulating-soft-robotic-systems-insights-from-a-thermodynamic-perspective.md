@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Controlling and Simulating Soft Robotic Systems: Insights from a Thermodynamic Perspective"
 date: 2016-10-20 00:00:00 +0100
 permalink: controlling-and-simulating-soft-robotic-systems-insights-from-a-thermodynamic-perspective

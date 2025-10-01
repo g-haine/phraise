@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marek Lis
 permalink: /authors/marek-lis
 ---

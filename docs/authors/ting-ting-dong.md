@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ting Ting Dong
 permalink: /authors/ting-ting-dong
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stephen Prajna
 permalink: /authors/stephen-prajna
 ---

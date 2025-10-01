@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chaolong Jiang
 permalink: /authors/chaolong-jiang
 ---

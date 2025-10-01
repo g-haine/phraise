@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Giacomo Vitali
 permalink: /authors/giacomo-vitali
 ---

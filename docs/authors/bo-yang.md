@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bo Yang
 permalink: /authors/bo-yang
 ---

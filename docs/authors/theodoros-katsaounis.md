@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Theodoros Katsaounis
 permalink: /authors/theodoros-katsaounis
 ---

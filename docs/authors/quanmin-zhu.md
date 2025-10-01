@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Quanmin Zhu
 permalink: /authors/quanmin-zhu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arne Wahrburg
 permalink: /authors/arne-wahrburg
 ---

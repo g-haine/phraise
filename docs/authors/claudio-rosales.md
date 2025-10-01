@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Claudio Rosales
 permalink: /authors/claudio-rosales
 ---

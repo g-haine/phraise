@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic Performance Analysis of Semiactive Vehicle ISD Suspension Based on the Power‐Driven‐Damper Strategy"
 date: 2024-03-13 00:00:00 +0100
 permalink: dynamic-performance-analysis-of-semiactive-vehicle-isd-suspension-based-on-the-power-driven-damper-strategy

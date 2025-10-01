@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Julius Durmann
 permalink: /authors/julius-durmann
 ---

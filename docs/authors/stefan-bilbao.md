@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stefan Bilbao
 permalink: /authors/stefan-bilbao
 ---

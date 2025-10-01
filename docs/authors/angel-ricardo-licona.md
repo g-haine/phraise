@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Angel Ricardo Licona
 permalink: /authors/angel-ricardo-licona
 ---

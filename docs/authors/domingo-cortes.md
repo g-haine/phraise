@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Domingo CORTES
 permalink: /authors/domingo-cortes
 ---

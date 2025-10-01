@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian approaches to motion generation for mechanical systems"
 date: 2007-06-07 00:00:00 +0100
 permalink: port-hamiltonian-approaches-to-motion-generation-for-mechanical-systems

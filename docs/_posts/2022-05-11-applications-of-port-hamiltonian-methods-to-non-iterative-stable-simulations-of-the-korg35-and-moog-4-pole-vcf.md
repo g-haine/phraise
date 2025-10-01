@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Applications of Port Hamiltonian Methods to Non-Iterative Stable Simulations of the KORG35 and MOOG 4-Pole VCF"
 date: 2022-05-11 00:00:00 +0100
 permalink: applications-of-port-hamiltonian-methods-to-non-iterative-stable-simulations-of-the-korg35-and-moog-4-pole-vcf

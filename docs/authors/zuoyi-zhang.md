@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zuoyi Zhang
 permalink: /authors/zuoyi-zhang
 ---

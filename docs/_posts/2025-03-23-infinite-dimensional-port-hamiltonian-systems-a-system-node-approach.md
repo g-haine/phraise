@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Infinite-dimensional port-Hamiltonian systems: a system node approach"
 date: 2025-03-23 00:00:00 +0100
 permalink: infinite-dimensional-port-hamiltonian-systems-a-system-node-approach

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modelling of a car-like robot"
 date: 2016-06-25 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-a-car-like-robot

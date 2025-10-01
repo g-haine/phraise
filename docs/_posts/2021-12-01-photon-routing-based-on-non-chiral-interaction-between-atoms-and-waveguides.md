@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Photon routing based on non-chiral interaction between atoms and waveguides"
 date: 2021-12-01 00:00:00 +0100
 permalink: photon-routing-based-on-non-chiral-interaction-between-atoms-and-waveguides

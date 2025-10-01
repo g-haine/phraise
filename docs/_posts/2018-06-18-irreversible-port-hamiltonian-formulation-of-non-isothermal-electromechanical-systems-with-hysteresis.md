@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Irreversible port-Hamiltonian formulation of non-isothermal electromechanical systems with hysteresis"
 date: 2018-06-18 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-formulation-of-non-isothermal-electromechanical-systems-with-hysteresis

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simulation Issues in Haptics"
 date: 2007-06-07 00:00:00 +0100
 permalink: simulation-issues-in-haptics

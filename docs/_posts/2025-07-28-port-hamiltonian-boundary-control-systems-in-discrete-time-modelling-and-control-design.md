@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Boundary Control Systems in Discrete-Time. Modelling and Control Design"
 date: 2025-07-28 00:00:00 +0100
 permalink: port-hamiltonian-boundary-control-systems-in-discrete-time-modelling-and-control-design

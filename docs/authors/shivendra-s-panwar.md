@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shivendra S. Panwar
 permalink: /authors/shivendra-s-panwar
 ---

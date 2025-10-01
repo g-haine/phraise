@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shyh-Chain Chern
 permalink: /authors/shyh-chain-chern
 ---

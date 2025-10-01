@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander Theilig
 permalink: /authors/alexander-theilig
 ---

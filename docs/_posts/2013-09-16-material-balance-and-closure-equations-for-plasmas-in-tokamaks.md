@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Material balance and closure equations for plasmas in Tokamaks"
 date: 2013-09-16 00:00:00 +0100
 permalink: material-balance-and-closure-equations-for-plasmas-in-tokamaks

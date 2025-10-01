@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoyu Yang
 permalink: /authors/xiaoyu-yang
 ---

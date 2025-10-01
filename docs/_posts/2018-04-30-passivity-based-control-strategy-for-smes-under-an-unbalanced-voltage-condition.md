@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control Strategy for SMES Under an Unbalanced Voltage Condition"
 date: 2018-04-30 00:00:00 +0100
 permalink: passivity-based-control-strategy-for-smes-under-an-unbalanced-voltage-condition

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Naziha Ahmad Azli
 permalink: /authors/naziha-ahmad-azli
 ---

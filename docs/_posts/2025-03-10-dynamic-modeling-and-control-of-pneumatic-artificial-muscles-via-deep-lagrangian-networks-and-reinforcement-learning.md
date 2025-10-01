@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic modeling and control of pneumatic artificial muscles via Deep Lagrangian Networks and Reinforcement Learning"
 date: 2025-03-10 00:00:00 +0100
 permalink: dynamic-modeling-and-control-of-pneumatic-artificial-muscles-via-deep-lagrangian-networks-and-reinforcement-learning

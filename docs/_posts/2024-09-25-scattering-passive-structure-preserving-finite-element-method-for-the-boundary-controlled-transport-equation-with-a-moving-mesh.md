@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Scattering-Passive Structure-Preserving Finite Element Method for the Boundary Controlled Transport Equation with a Moving Mesh"
 date: 2024-09-25 00:00:00 +0100
 permalink: scattering-passive-structure-preserving-finite-element-method-for-the-boundary-controlled-transport-equation-with-a-moving-mesh

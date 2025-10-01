@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jorge Sofrony
 permalink: /authors/jorge-sofrony
 ---

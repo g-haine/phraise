@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking control of nonholonomic Hamiltonian systems via canonical transformations"
 date: 2003-06-25 00:00:00 +0100
 permalink: trajectory-tracking-control-of-nonholonomic-hamiltonian-systems-via-canonical-transformations

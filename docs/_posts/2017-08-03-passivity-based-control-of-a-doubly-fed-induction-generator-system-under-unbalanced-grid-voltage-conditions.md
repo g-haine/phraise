@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control of a Doubly Fed Induction Generator System under Unbalanced Grid Voltage Conditions"
 date: 2017-08-03 00:00:00 +0100
 permalink: passivity-based-control-of-a-doubly-fed-induction-generator-system-under-unbalanced-grid-voltage-conditions

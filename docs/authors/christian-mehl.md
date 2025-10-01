@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Mehl
 permalink: /authors/christian-mehl
 ---

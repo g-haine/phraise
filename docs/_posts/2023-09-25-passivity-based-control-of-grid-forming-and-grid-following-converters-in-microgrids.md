@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control of Grid Forming and Grid Following Converters in Microgrids"
 date: 2023-09-25 00:00:00 +0100
 permalink: passivity-based-control-of-grid-forming-and-grid-following-converters-in-microgrids

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On practical stable packet scheduling for bufferless three-stage Clos-network switches"
 date: 2013-09-25 00:00:00 +0100
 permalink: on-practical-stable-packet-scheduling-for-bufferless-three-stage-clos-network-switches

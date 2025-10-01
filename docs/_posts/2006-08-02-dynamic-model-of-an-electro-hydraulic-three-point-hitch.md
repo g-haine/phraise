@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic model of an electro-hydraulic three point hitch"
 date: 2006-08-02 00:00:00 +0100
 permalink: dynamic-model-of-an-electro-hydraulic-three-point-hitch

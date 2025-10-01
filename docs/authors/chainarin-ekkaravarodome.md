@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chainarin Ekkaravarodome
 permalink: /authors/chainarin-ekkaravarodome
 ---

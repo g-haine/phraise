@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Disturbance rejection via control by interconnection of port-Hamiltonian systems"
 date: 2016-02-29 00:00:00 +0100
 permalink: disturbance-rejection-via-control-by-interconnection-of-port-hamiltonian-systems

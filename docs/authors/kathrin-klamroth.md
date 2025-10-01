@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kathrin Klamroth
 permalink: /authors/kathrin-klamroth
 ---

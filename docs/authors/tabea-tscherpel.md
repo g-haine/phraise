@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tabea Tscherpel
 permalink: /authors/tabea-tscherpel
 ---

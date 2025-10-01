@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by F.G. Canavero
 permalink: /authors/f-g-canavero
 ---

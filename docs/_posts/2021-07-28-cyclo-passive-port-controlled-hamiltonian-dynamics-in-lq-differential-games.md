@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "(Cyclo-Passive) Port-Controlled Hamiltonian dynamics in LQ differential games"
 date: 2021-07-28 00:00:00 +0100
 permalink: cyclo-passive-port-controlled-hamiltonian-dynamics-in-lq-differential-games

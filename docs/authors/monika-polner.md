@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mónika Polner
 permalink: /authors/monika-polner
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Robert Griñó
 permalink: /authors/robert-grino
 ---

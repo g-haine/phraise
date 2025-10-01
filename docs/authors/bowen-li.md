@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bowen Li
 permalink: /authors/bowen-li
 ---

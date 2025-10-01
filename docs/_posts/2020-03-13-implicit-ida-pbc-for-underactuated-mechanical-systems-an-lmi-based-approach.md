@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Implicit IDA-PBC for Underactuated Mechanical Systems: An LMI-based Approach"
 date: 2020-03-13 00:00:00 +0100
 permalink: implicit-ida-pbc-for-underactuated-mechanical-systems-an-lmi-based-approach

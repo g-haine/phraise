@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qiang Song
 permalink: /authors/qiang-song
 ---

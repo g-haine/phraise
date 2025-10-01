@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Silviu Medianu
 permalink: /authors/silviu-medianu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An invitation to multisymplectic geometry"
 date: 2019-03-29 00:00:00 +0100
 permalink: an-invitation-to-multisymplectic-geometry

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alvaro Giusto
 permalink: /authors/alvaro-giusto
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by V. Wetzel
 permalink: /authors/v-wetzel
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Mahzoon
 permalink: /authors/m-mahzoon
 ---

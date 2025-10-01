@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Moment matching for linear port Hamiltonian systems"
 date: 2012-03-07 00:00:00 +0100
 permalink: moment-matching-for-linear-port-hamiltonian-systems

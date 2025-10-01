@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tudor C. Ionescu
 permalink: /authors/tudor-c-ionescu
 ---

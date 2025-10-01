@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Eisfeld
 permalink: /authors/a-eisfeld
 ---

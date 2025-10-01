@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daniel Thomasset
 permalink: /authors/daniel-thomasset
 ---

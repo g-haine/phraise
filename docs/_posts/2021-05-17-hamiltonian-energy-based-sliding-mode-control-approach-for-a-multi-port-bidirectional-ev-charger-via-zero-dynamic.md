@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian Energy-Based Sliding Mode Control Approach for a Multi-port Bidirectional EV Charger via Zero Dynamic"
 date: 2021-05-17 00:00:00 +0100
 permalink: hamiltonian-energy-based-sliding-mode-control-approach-for-a-multi-port-bidirectional-ev-charger-via-zero-dynamic

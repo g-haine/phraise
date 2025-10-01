@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lukas Rausche
 permalink: /authors/lukas-rausche
 ---

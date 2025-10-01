@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Linear Port-Hamiltonian Descriptor Systems via Output Feedback"
 date: 2025-05-06 00:00:00 +0100
 permalink: stabilization-of-linear-port-hamiltonian-descriptor-systems-via-output-feedback

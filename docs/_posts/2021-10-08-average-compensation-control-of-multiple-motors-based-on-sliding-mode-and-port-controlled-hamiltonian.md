@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Average Compensation Control of Multiple Motors Based on Sliding Mode and Port-Controlled Hamiltonian"
 date: 2021-10-08 00:00:00 +0100
 permalink: average-compensation-control-of-multiple-motors-based-on-sliding-mode-and-port-controlled-hamiltonian

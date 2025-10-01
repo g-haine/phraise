@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiawei Huang
 permalink: /authors/jiawei-huang
 ---

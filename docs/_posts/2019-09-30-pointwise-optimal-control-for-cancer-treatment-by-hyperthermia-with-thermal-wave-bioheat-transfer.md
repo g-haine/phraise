@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pointwise optimal control for cancer treatment by hyperthermia with thermal wave bioheat transfer"
 date: 2019-09-30 00:00:00 +0100
 permalink: pointwise-optimal-control-for-cancer-treatment-by-hyperthermia-with-thermal-wave-bioheat-transfer

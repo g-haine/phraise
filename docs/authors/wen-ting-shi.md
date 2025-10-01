@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wen-Ting Shi
 permalink: /authors/wen-ting-shi
 ---

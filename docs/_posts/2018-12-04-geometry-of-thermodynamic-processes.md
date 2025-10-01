@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geometry of Thermodynamic Processes"
 date: 2018-12-04 00:00:00 +0100
 permalink: geometry-of-thermodynamic-processes

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H W van der Hart
 permalink: /authors/h-w-van-der-hart
 ---

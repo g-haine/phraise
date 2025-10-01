@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Burin Yodwong
 permalink: /authors/burin-yodwong
 ---

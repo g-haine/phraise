@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaohua Jia
 permalink: /authors/xiaohua-jia
 ---

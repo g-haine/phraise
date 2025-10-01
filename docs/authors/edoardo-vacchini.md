@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Edoardo Vacchini
 permalink: /authors/edoardo-vacchini
 ---

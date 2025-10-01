@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Rotational shallow water equations with viscous damping and boundary control: structure-preserving spatial discretization"
 date: 2024-11-28 00:00:00 +0100
 permalink: rotational-shallow-water-equations-with-viscous-damping-and-boundary-control-structure-preserving-spatial-discretization

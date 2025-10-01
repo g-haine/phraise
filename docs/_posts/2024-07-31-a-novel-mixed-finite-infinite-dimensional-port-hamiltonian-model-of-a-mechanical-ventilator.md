@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Novel Mixed Finite/Infinite Dimensional Port–Hamiltonian Model of a Mechanical Ventilator"
 date: 2024-07-31 00:00:00 +0100
 permalink: a-novel-mixed-finite-infinite-dimensional-port-hamiltonian-model-of-a-mechanical-ventilator

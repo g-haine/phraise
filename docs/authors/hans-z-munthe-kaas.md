@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hans Z. Munthe-Kaas
 permalink: /authors/hans-z-munthe-kaas
 ---

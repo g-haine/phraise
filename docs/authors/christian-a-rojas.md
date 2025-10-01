@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian A. Rojas
 permalink: /authors/christian-a-rojas
 ---

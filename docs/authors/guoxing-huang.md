@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guoxing Huang
 permalink: /authors/guoxing-huang
 ---

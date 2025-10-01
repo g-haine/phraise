@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chi Thuan Nguyen
 permalink: /authors/chi-thuan-nguyen
 ---

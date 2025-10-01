@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Event-Triggered Control of Port-Hamiltonian Systems Under Time-Delay Communication"
 date: 2024-01-18 00:00:00 +0100
 permalink: event-triggered-control-of-port-hamiltonian-systems-under-time-delay-communication

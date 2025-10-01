@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lu Zhang
 permalink: /authors/lu-zhang
 ---

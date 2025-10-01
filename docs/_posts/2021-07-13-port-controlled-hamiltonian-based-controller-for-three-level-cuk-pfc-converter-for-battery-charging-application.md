@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Controlled Hamiltonian Based Controller for Three-Level Ćuk PFC Converter for Battery Charging Application"
 date: 2021-07-13 00:00:00 +0100
 permalink: port-controlled-hamiltonian-based-controller-for-three-level-cuk-pfc-converter-for-battery-charging-application

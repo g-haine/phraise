@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hubert Rams
 permalink: /authors/hubert-rams
 ---

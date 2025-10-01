@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Valérie Pommier-Budinger
 permalink: /authors/valerie-pommier-budinger
 ---

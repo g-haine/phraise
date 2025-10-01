@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J.-I. Imura
 permalink: /authors/j-i-imura
 ---

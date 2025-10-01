@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-Preserving Model Reduction for Nonlinear Port-Hamiltonian Systems"
 date: 2016-10-26 00:00:00 +0100
 permalink: structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems

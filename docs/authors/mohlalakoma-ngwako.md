@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohlalakoma Ngwako
 permalink: /authors/mohlalakoma-ngwako
 ---

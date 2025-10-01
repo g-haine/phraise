@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Synchronization Stability Analysis of SRF-PLL and DSOGI-PLL Using Port-Hamiltonian Framework"
 date: 2025-01-10 00:00:00 +0100
 permalink: synchronization-stability-analysis-of-srf-pll-and-dsogi-pll-using-port-hamiltonian-framework

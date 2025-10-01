@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. R. Ghiasi
 permalink: /authors/a-r-ghiasi
 ---

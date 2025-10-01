@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenwu Yu
 permalink: /authors/wenwu-yu
 ---

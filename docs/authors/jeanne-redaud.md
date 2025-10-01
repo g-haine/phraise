@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jeanne Redaud
 permalink: /authors/jeanne-redaud
 ---

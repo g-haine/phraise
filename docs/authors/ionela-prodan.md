@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ionela Prodan
 permalink: /authors/ionela-prodan
 ---

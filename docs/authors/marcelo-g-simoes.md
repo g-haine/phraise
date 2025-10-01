@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marcelo G. Simoes
 permalink: /authors/marcelo-g-simoes
 ---

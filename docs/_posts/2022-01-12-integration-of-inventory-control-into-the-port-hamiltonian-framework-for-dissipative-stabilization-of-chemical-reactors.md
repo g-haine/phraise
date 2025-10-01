@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Integration of inventory control into the port‐Hamiltonian framework for dissipative stabilization of chemical reactors"
 date: 2022-01-12 00:00:00 +0100
 permalink: integration-of-inventory-control-into-the-port-hamiltonian-framework-for-dissipative-stabilization-of-chemical-reactors

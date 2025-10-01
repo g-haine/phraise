@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "OFAR-CM: Efficient Dragonfly Networks with Simple Congestion Management"
 date: 2013-10-17 00:00:00 +0100
 permalink: ofar-cm-efficient-dragonfly-networks-with-simple-congestion-management

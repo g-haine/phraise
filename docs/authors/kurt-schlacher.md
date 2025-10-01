@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kurt Schlacher
 permalink: /authors/kurt-schlacher
 ---

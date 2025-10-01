@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On trajectory tracking control of simple port-Hamiltonian systems based on passivity based sliding mode control"
 date: 2021-11-19 00:00:00 +0100
 permalink: on-trajectory-tracking-control-of-simple-port-hamiltonian-systems-based-on-passivity-based-sliding-mode-control

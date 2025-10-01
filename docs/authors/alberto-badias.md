@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alberto Badías
 permalink: /authors/alberto-badias
 ---

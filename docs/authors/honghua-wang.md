@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Honghua Wang
 permalink: /authors/honghua-wang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammed Danish
 permalink: /authors/mohammed-danish
 ---

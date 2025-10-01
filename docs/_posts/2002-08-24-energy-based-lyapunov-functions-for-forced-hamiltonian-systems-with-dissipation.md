@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation"
 date: 2002-08-24 00:00:00 +0100
 permalink: energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Approach to Suppress Low Frequency Oscillation in the Traction Network of High-Speed Railway Using Passivity-Based Control"
 date: 2018-01-04 00:00:00 +0100
 permalink: an-approach-to-suppress-low-frequency-oscillation-in-the-traction-network-of-high-speed-railway-using-passivity-based-control

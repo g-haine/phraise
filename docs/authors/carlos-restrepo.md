@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Carlos Restrepo
 permalink: /authors/carlos-restrepo
 ---

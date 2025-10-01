@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear port-Hamiltonian boundary control models and their equivalence"
 date: 2025-02-26 00:00:00 +0100
 permalink: linear-port-hamiltonian-boundary-control-models-and-their-equivalence

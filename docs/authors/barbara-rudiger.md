@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Barbara Rüdiger
 permalink: /authors/barbara-rudiger
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic Extension Algorithm-Based Tracking Control of STATCOM Via Port-Controlled Hamiltonian System"
 date: 2019-12-03 00:00:00 +0100
 permalink: dynamic-extension-algorithm-based-tracking-control-of-statcom-via-port-controlled-hamiltonian-system

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Poom Kumam
 permalink: /authors/poom-kumam
 ---

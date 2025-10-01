@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Macroscopic Modelling based on the Homogenisation Method: case of an acoustic pipe with a porous wall"
 date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-macroscopic-modelling-based-on-the-homogenisation-method-case-of-an-acoustic-pipe-with-a-porous-wall

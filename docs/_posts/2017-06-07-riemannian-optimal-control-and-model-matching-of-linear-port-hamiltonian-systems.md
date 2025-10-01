@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Riemannian Optimal Control and Model Matching of Linear Port-Hamiltonian Systems"
 date: 2017-06-07 00:00:00 +0100
 permalink: riemannian-optimal-control-and-model-matching-of-linear-port-hamiltonian-systems

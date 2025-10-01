@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Estimate of domain of attraction for a class of Port-Controlled Hamiltonian systems subject to both actuator saturation and disturbance"
 date: 2010-08-24 00:00:00 +0100
 permalink: estimate-of-domain-of-attraction-for-a-class-of-port-controlled-hamiltonian-systems-subject-to-both-actuator-saturation-and-disturbance

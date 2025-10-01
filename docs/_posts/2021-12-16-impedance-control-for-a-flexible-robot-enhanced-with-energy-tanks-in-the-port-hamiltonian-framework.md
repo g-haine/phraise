@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Impedance Control for a Flexible Robot Enhanced with Energy Tanks in the port-Hamiltonian Framework"
 date: 2021-12-16 00:00:00 +0100
 permalink: impedance-control-for-a-flexible-robot-enhanced-with-energy-tanks-in-the-port-hamiltonian-framework

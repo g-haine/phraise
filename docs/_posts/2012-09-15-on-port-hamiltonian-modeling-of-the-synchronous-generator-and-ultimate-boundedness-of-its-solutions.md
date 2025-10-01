@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On port-Hamiltonian Modeling of the Synchronous Generator and Ultimate Boundedness of its solutions"
 date: 2012-09-15 00:00:00 +0100
 permalink: on-port-hamiltonian-modeling-of-the-synchronous-generator-and-ultimate-boundedness-of-its-solutions

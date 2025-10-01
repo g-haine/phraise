@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A class of port-controlled Hamiltonian systems"
 date: 2006-10-04 00:00:00 +0100
 permalink: a-class-of-port-controlled-hamiltonian-systems

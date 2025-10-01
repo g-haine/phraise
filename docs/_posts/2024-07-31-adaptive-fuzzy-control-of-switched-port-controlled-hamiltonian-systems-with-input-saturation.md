@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Fuzzy Control of Switched Port-Controlled Hamiltonian Systems with Input Saturation"
 date: 2024-07-31 00:00:00 +0100
 permalink: adaptive-fuzzy-control-of-switched-port-controlled-hamiltonian-systems-with-input-saturation

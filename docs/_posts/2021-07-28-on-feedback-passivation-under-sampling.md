@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On feedback passivation under sampling"
 date: 2021-07-28 00:00:00 +0100
 permalink: on-feedback-passivation-under-sampling

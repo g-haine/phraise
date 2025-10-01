@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jörg Raisch
 permalink: /authors/jorg-raisch
 ---

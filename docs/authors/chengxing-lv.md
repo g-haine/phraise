@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chengxing Lv
 permalink: /authors/chengxing-lv
 ---

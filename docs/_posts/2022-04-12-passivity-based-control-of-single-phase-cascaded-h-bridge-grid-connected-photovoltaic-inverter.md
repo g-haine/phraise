@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control of Single-Phase Cascaded H-Bridge Grid-Connected Photovoltaic Inverter"
 date: 2022-04-12 00:00:00 +0100
 permalink: passivity-based-control-of-single-phase-cascaded-h-bridge-grid-connected-photovoltaic-inverter

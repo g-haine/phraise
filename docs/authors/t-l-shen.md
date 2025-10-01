@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T.L. Shen
 permalink: /authors/t-l-shen
 ---

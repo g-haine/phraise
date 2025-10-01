@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matthias Ehrhardt
 permalink: /authors/matthias-ehrhardt
 ---

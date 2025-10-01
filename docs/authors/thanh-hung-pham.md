@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thanh Hung Pham
 permalink: /authors/thanh-hung-pham
 ---

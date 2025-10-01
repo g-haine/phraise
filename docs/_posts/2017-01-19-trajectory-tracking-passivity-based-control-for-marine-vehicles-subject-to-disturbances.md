@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking passivity-based control for marine vehicles subject to disturbances"
 date: 2017-01-19 00:00:00 +0100
 permalink: trajectory-tracking-passivity-based-control-for-marine-vehicles-subject-to-disturbances

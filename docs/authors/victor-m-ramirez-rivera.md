@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Victor M. Ramirez-Rivera
 permalink: /authors/victor-m-ramirez-rivera
 ---

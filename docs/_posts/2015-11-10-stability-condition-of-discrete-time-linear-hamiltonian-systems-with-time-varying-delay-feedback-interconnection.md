@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability condition of discrete-time linear Hamiltonian systems with time-varying delay feedback interconnection"
 date: 2015-11-10 00:00:00 +0100
 permalink: stability-condition-of-discrete-time-linear-hamiltonian-systems-with-time-varying-delay-feedback-interconnection

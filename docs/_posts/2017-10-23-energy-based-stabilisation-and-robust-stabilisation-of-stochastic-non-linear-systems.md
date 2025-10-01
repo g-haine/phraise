@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy‐based stabilisation and  robust stabilisation of stochastic non‐linear systems"
 date: 2017-10-23 00:00:00 +0100
 permalink: energy-based-stabilisation-and-robust-stabilisation-of-stochastic-non-linear-systems

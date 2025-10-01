@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bogdan Chereji
 permalink: /authors/bogdan-chereji
 ---

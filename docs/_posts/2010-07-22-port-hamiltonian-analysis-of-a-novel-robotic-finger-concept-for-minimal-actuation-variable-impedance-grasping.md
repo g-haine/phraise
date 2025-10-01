@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian analysis of a novel robotic finger concept for minimal actuation variable impedance grasping"
 date: 2010-07-22 00:00:00 +0100
 permalink: port-hamiltonian-analysis-of-a-novel-robotic-finger-concept-for-minimal-actuation-variable-impedance-grasping

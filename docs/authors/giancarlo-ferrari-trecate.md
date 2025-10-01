@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Giancarlo Ferrari-Trecate
 permalink: /authors/giancarlo-ferrari-trecate
 ---

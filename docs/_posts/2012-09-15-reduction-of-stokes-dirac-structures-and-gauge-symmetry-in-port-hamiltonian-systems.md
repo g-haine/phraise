@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reduction of Stokes-Dirac structures and gauge symmetry in port-Hamiltonian systems"
 date: 2012-09-15 00:00:00 +0100
 permalink: reduction-of-stokes-dirac-structures-and-gauge-symmetry-in-port-hamiltonian-systems

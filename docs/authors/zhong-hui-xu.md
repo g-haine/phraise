@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhong-Hui Xu
 permalink: /authors/zhong-hui-xu
 ---

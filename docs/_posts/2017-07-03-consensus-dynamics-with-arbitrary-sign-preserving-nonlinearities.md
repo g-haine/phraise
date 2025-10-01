@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Consensus dynamics with arbitrary sign-preserving nonlinearities"
 date: 2017-07-03 00:00:00 +0100
 permalink: consensus-dynamics-with-arbitrary-sign-preserving-nonlinearities

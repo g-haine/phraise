@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Malek Ghanes
 permalink: /authors/malek-ghanes
 ---

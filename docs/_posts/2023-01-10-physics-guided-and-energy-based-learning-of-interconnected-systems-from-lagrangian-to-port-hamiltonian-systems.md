@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Physics-guided and Energy-based Learning of Interconnected Systems: from Lagrangian to Port-Hamiltonian Systems"
 date: 2023-01-10 00:00:00 +0100
 permalink: physics-guided-and-energy-based-learning-of-interconnected-systems-from-lagrangian-to-port-hamiltonian-systems

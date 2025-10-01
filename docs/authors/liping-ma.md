@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liping Ma
 permalink: /authors/liping-ma
 ---

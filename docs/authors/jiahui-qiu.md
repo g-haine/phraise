@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiahui Qiu
 permalink: /authors/jiahui-qiu
 ---

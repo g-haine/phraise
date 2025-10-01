@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Controller Hamiltonian Synthesis Using Evolution Strategies"
 date: 2007-11-14 00:00:00 +0100
 permalink: port-controller-hamiltonian-synthesis-using-evolution-strategies

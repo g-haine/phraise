@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael G. Crandall
 permalink: /authors/michael-g-crandall
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bounded stabilisation of stochastic port-Hamiltonian systems"
 date: 2014-01-17 00:00:00 +0100
 permalink: bounded-stabilisation-of-stochastic-port-hamiltonian-systems

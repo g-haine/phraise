@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guoyuan Qi
 permalink: /authors/guoyuan-qi
 ---

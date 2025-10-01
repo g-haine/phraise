@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fei Gao
 permalink: /authors/fei-gao
 ---

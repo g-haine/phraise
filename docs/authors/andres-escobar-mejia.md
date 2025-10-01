@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andres Escobar-Mejia
 permalink: /authors/andres-escobar-mejia
 ---

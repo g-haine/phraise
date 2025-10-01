@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lagrange hydrodynamics as extended Euler hydrodynamics: Hamiltonian and GENERIC structures"
 date: 2002-10-15 00:00:00 +0100
 permalink: lagrange-hydrodynamics-as-extended-euler-hydrodynamics-hamiltonian-and-generic-structures

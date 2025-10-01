@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lina Hao
 permalink: /authors/lina-hao
 ---

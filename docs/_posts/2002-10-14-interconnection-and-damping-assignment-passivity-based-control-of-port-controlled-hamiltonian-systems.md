@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems"
 date: 2002-10-14 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems

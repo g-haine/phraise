@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems"
 date: 2012-02-18 00:00:00 +0100
 permalink: discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems

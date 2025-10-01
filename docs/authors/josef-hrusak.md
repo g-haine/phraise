@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Josef Hrusak
 permalink: /authors/josef-hrusak
 ---

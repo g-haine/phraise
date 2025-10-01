@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by K. Hoffner
 permalink: /authors/k-hoffner
 ---

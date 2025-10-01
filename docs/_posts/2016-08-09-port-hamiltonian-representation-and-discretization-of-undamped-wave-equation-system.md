@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Representation and Discretization of Undamped Wave Equation System"
 date: 2016-08-09 00:00:00 +0100
 permalink: port-hamiltonian-representation-and-discretization-of-undamped-wave-equation-system

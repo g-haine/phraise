@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain"
 date: 2015-01-09 00:00:00 +0100
 permalink: c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Speed regulation of PMSM based on port-controlled hamiltonian systems and PI control principle"
 date: 2009-09-28 00:00:00 +0100
 permalink: speed-regulation-of-pmsm-based-on-port-controlled-hamiltonian-systems-and-pi-control-principle

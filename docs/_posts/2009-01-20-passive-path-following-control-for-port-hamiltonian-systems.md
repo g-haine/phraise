@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passive path following control for port-Hamiltonian systems"
 date: 2009-01-20 00:00:00 +0100
 permalink: passive-path-following-control-for-port-hamiltonian-systems

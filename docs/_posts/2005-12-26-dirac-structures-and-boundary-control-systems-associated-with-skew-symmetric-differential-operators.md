@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators"
 date: 2005-12-26 00:00:00 +0100
 permalink: dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators

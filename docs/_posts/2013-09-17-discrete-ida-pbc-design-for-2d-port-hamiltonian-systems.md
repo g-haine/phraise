@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete IDA-PBC design for 2D port-Hamiltonian systems"
 date: 2013-09-17 00:00:00 +0100
 permalink: discrete-ida-pbc-design-for-2d-port-hamiltonian-systems

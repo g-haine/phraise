@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust stability for delayed port-Hamiltonian systems using improved Wirtinger-based inequality"
 date: 2015-02-17 00:00:00 +0100
 permalink: robust-stability-for-delayed-port-hamiltonian-systems-using-improved-wirtinger-based-inequality

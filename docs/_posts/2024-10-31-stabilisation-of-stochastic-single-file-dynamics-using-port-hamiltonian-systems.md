@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilisation of stochastic single-file dynamics using port-Hamiltonian systems"
 date: 2024-10-31 00:00:00 +0100
 permalink: stabilisation-of-stochastic-single-file-dynamics-using-port-hamiltonian-systems

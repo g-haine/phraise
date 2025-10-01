@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust regulation for first-order port-hamiltonian systems"
 date: 2017-01-11 00:00:00 +0100
 permalink: robust-regulation-for-first-order-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Afef Abdelkrim
 permalink: /authors/afef-abdelkrim
 ---

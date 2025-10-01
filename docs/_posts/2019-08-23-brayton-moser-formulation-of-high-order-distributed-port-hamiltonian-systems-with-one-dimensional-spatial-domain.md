@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Brayton-Moser Formulation of High-Order Distributed Port-Hamiltonian Systems with One-Dimensional Spatial Domain"
 date: 2019-08-23 00:00:00 +0100
 permalink: brayton-moser-formulation-of-high-order-distributed-port-hamiltonian-systems-with-one-dimensional-spatial-domain

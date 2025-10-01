@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian Representation of Magnetohydrodynamics for Boundary Energy Controls"
 date: 2012-04-03 00:00:00 +0100
 permalink: hamiltonian-representation-of-magnetohydrodynamics-for-boundary-energy-controls

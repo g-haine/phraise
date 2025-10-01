@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete-time port-Hamiltonian systems: A definition based on symplectic integration"
 date: 2019-09-06 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration

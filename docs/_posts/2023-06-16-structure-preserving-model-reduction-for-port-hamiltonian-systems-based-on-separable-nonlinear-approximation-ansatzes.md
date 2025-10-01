@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving model reduction for port-Hamiltonian systems based on separable nonlinear approximation ansatzes"
 date: 2023-06-16 00:00:00 +0100
 permalink: structure-preserving-model-reduction-for-port-hamiltonian-systems-based-on-separable-nonlinear-approximation-ansatzes

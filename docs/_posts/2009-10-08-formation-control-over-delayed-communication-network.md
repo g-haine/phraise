@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Formation Control over Delayed Communication Network"
 date: 2009-10-08 00:00:00 +0100
 permalink: formation-control-over-delayed-communication-network

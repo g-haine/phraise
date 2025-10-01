@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Port-Hamiltonian Approximation of a Nonlinear Flow Problem on Networks"
 date: 2022-06-28 00:00:00 +0100
 permalink: on-port-hamiltonian-approximation-of-a-nonlinear-flow-problem-on-networks

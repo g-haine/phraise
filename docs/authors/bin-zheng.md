@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bin Zheng
 permalink: /authors/bin-zheng
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ragini V. Meshram
 permalink: /authors/ragini-v-meshram
 ---

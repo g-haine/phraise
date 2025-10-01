@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by CHAI JingXuan
 permalink: /authors/chai-jingxuan
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Energy-Based Approach to the Nonlinear Modeling and Drag-Free Control System Design of Space-Borne Gravitational Wave Detectors"
 date: 2024-05-13 00:00:00 +0100
 permalink: an-energy-based-approach-to-the-nonlinear-modeling-and-drag-free-control-system-design-of-space-borne-gravitational-wave-detectors

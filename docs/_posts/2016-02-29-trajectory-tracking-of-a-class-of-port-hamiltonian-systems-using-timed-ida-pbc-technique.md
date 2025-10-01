@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking of a class of port Hamiltonian systems using Timed IDA-PBC technique"
 date: 2016-02-29 00:00:00 +0100
 permalink: trajectory-tracking-of-a-class-of-port-hamiltonian-systems-using-timed-ida-pbc-technique

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Riccardo Morselli
 permalink: /authors/riccardo-morselli
 ---

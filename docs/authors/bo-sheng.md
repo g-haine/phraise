@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bo Sheng
 permalink: /authors/bo-sheng
 ---

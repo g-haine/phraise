@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ye Han
 permalink: /authors/ye-han
 ---

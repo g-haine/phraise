@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Morten Dalsmo
 permalink: /authors/morten-dalsmo
 ---

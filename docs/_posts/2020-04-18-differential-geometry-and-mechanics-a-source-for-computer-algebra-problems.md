@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Differential Geometry and Mechanics: A Source for Computer Algebra Problems"
 date: 2020-04-18 00:00:00 +0100
 permalink: differential-geometry-and-mechanics-a-source-for-computer-algebra-problems

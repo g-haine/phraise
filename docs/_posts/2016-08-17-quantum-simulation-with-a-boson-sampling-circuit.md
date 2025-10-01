@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Quantum simulation with a boson sampling circuit"
 date: 2016-08-17 00:00:00 +0100
 permalink: quantum-simulation-with-a-boson-sampling-circuit

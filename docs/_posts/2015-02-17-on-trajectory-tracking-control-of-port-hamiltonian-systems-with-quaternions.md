@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On trajectory tracking control of port-Hamiltonian systems with quaternions"
 date: 2015-02-17 00:00:00 +0100
 permalink: on-trajectory-tracking-control-of-port-hamiltonian-systems-with-quaternions

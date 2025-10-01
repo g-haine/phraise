@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Two-Dimensional port-Hamiltonian Model for Coupled Heat Transfer"
 date: 2022-12-08 00:00:00 +0100
 permalink: a-two-dimensional-port-hamiltonian-model-for-coupled-heat-transfer

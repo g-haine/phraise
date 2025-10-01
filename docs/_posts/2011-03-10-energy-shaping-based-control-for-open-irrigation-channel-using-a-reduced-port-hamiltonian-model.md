@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy shaping based control for open irrigation channel using a reduced port hamiltonian model"
 date: 2011-03-10 00:00:00 +0100
 permalink: energy-shaping-based-control-for-open-irrigation-channel-using-a-reduced-port-hamiltonian-model

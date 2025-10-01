@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Proportional Plus Integral Control for Set-Point Regulation of a Class of Nonlinear RLC Circuits"
 date: 2009-04-08 00:00:00 +0100
 permalink: proportional-plus-integral-control-for-set-point-regulation-of-a-class-of-nonlinear-rlc-circuits

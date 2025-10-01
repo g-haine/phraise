@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of HVDC Transmission Systems: From Theory to Practice and Back"
 date: 2015-07-13 00:00:00 +0100
 permalink: control-of-hvdc-transmission-systems-from-theory-to-practice-and-back

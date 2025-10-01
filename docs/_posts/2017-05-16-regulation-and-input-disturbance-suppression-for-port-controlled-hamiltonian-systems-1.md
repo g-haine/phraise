@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems 1"
 date: 2017-05-16 00:00:00 +0100
 permalink: regulation-and-input-disturbance-suppression-for-port-controlled-hamiltonian-systems-1

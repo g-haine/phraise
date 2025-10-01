@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Leonardo Colombo
 permalink: /authors/leonardo-colombo
 ---

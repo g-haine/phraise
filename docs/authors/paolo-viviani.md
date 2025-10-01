@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paolo Viviani
 permalink: /authors/paolo-viviani
 ---

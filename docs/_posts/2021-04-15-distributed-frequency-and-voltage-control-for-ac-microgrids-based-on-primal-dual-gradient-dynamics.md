@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Frequency and Voltage Control for AC Microgrids based on Primal-Dual Gradient Dynamics"
 date: 2021-04-15 00:00:00 +0100
 permalink: distributed-frequency-and-voltage-control-for-ac-microgrids-based-on-primal-dual-gradient-dynamics

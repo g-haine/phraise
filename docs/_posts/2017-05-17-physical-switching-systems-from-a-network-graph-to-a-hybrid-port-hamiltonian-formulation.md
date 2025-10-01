@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Physical Switching Systems: From a Network Graph to a Hybrid Port Hamiltonian Formulation"
 date: 2017-05-17 00:00:00 +0100
 permalink: physical-switching-systems-from-a-network-graph-to-a-hybrid-port-hamiltonian-formulation

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Contraction Theory and Differential Passivity in the port-Hamiltonian formalism"
 date: 2024-09-25 00:00:00 +0100
 permalink: contraction-theory-and-differential-passivity-in-the-port-hamiltonian-formalism

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Richard Perryman
 permalink: /authors/richard-perryman
 ---

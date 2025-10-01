@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Franz Achleitner
 permalink: /authors/franz-achleitner
 ---

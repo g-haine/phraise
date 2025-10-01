@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H P Goswami
 permalink: /authors/h-p-goswami
 ---

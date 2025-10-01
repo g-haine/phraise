@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Atilio Morillo
 permalink: /authors/atilio-morillo
 ---

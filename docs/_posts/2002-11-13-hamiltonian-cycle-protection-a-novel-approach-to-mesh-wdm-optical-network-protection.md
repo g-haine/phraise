@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian cycle protection: a novel approach to mesh WDM optical network protection"
 date: 2002-11-13 00:00:00 +0100
 permalink: hamiltonian-cycle-protection-a-novel-approach-to-mesh-wdm-optical-network-protection

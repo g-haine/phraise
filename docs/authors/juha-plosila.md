@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juha Plosila
 permalink: /authors/juha-plosila
 ---

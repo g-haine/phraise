@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On potential function design for path following control of port-Hamiltonian systems"
 date: 2018-01-23 00:00:00 +0100
 permalink: on-potential-function-design-for-path-following-control-of-port-hamiltonian-systems

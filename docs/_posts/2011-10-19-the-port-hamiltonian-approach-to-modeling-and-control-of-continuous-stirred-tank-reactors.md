@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The port Hamiltonian approach to modeling and control of Continuous Stirred Tank Reactors"
 date: 2011-10-19 00:00:00 +0100
 permalink: the-port-hamiltonian-approach-to-modeling-and-control-of-continuous-stirred-tank-reactors

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Tracking Control of Rigid-Joint Robots With Only Position Measurements"
 date: 2012-07-19 00:00:00 +0100
 permalink: on-tracking-control-of-rigid-joint-robots-with-only-position-measurements

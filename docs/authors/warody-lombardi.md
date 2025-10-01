@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Warody Lombardi
 permalink: /authors/warody-lombardi
 ---

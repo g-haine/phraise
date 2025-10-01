@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Weiyang Liu
 permalink: /authors/weiyang-liu
 ---

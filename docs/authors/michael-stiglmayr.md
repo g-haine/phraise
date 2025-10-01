@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Stiglmayr
 permalink: /authors/michael-stiglmayr
 ---

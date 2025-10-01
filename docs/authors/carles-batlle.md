@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Carles Batlle
 permalink: /authors/carles-batlle
 ---

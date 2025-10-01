@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Masahide Ito
 permalink: /authors/masahide-ito
 ---

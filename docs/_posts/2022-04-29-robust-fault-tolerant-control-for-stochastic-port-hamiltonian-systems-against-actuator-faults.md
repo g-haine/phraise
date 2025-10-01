@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Fault-Tolerant Control for Stochastic Port-Hamiltonian Systems against Actuator Faults"
 date: 2022-04-29 00:00:00 +0100
 permalink: robust-fault-tolerant-control-for-stochastic-port-hamiltonian-systems-against-actuator-faults

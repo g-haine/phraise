@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust stabilization of LTI negative imaginary systems using the nearest negative imaginary controller"
 date: 2023-10-24 00:00:00 +0100
 permalink: robust-stabilization-of-lti-negative-imaginary-systems-using-the-nearest-negative-imaginary-controller

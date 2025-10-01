@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-posedness of infinite-dimensional linear systems with nonlinear feedback"
 date: 2019-05-07 00:00:00 +0100
 permalink: well-posedness-of-infinite-dimensional-linear-systems-with-nonlinear-feedback

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling and control of a class of lumped beam with distributed control"
 date: 2018-06-18 00:00:00 +0100
 permalink: modelling-and-control-of-a-class-of-lumped-beam-with-distributed-control

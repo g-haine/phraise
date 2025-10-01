@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Formulation of Systems With Memory"
 date: 2011-09-28 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-systems-with-memory

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling and reduction of a burning plasma system"
 date: 2018-06-18 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-reduction-of-a-burning-plasma-system

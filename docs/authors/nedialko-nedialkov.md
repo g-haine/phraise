@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nedialko Nedialkov
 permalink: /authors/nedialko-nedialkov
 ---

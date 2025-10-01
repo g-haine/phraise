@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Stokes-Lagrange and Stokes-Dirac representations for 1D distributed port-Hamiltonian systems"
 date: 2024-10-31 00:00:00 +0100
 permalink: on-stokes-lagrange-and-stokes-dirac-representations-for-1d-distributed-port-hamiltonian-systems

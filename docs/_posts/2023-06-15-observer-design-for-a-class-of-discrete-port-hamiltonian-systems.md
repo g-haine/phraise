@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer Design for a Class of Discrete Port Hamiltonian Systems"
 date: 2023-06-15 00:00:00 +0100
 permalink: observer-design-for-a-class-of-discrete-port-hamiltonian-systems

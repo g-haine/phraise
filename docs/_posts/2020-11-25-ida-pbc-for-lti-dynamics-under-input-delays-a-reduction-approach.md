@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-PBC for LTI Dynamics Under Input Delays: A Reduction Approach"
 date: 2020-11-25 00:00:00 +0100
 permalink: ida-pbc-for-lti-dynamics-under-input-delays-a-reduction-approach

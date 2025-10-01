@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Saïd Aoues
 permalink: /authors/said-aoues
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Javier Gimenez
 permalink: /authors/javier-gimenez
 ---

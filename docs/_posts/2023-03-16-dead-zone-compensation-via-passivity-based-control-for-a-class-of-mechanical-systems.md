@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dead-zone compensation via passivity-based control for a class of mechanical systems"
 date: 2023-03-16 00:00:00 +0100
 permalink: dead-zone-compensation-via-passivity-based-control-for-a-class-of-mechanical-systems

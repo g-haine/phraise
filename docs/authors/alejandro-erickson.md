@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alejandro Erickson
 permalink: /authors/alejandro-erickson
 ---

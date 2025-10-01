@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rostyslav-Ivan Kuzyk
 permalink: /authors/rostyslav-ivan-kuzyk
 ---

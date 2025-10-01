@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antonio Barreiro
 permalink: /authors/antonio-barreiro
 ---

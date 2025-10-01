@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Robust Simultaneous Stabilization of Two Dynamic Positioning Vessels Based on a Port-Controlled Hamiltonian (PCH) Model"
 date: 2019-10-17 00:00:00 +0100
 permalink: adaptive-robust-simultaneous-stabilization-of-two-dynamic-positioning-vessels-based-on-a-port-controlled-hamiltonian-pch-model

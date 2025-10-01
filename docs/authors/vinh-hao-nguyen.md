@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vinh-Hao Nguyen
 permalink: /authors/vinh-hao-nguyen
 ---

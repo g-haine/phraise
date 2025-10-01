@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Iain A. Stewart
 permalink: /authors/iain-a-stewart
 ---

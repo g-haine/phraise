@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tatjana Stykel
 permalink: /authors/tatjana-stykel
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johannes Schiffer
 permalink: /authors/johannes-schiffer
 ---

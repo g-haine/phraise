@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear Matrix Inequality Design of Exponentially Stabilizing Observer-Based State Feedback Port-Hamiltonian Controllers"
 date: 2022-12-09 00:00:00 +0100
 permalink: linear-matrix-inequality-design-of-exponentially-stabilizing-observer-based-state-feedback-port-hamiltonian-controllers

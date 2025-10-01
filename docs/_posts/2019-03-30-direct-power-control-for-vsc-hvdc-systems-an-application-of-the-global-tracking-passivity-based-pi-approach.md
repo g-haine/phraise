@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Direct power control for VSC-HVDC systems: An application of the global tracking passivity-based PI approach"
 date: 2019-03-30 00:00:00 +0100
 permalink: direct-power-control-for-vsc-hvdc-systems-an-application-of-the-global-tracking-passivity-based-pi-approach

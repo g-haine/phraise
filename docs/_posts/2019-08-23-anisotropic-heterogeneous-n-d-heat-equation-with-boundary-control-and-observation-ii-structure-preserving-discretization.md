@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Anisotropic heterogeneous n-D heat equation with boundary control and observation: II. Structure-preserving discretization"
 date: 2019-08-23 00:00:00 +0100
 permalink: anisotropic-heterogeneous-n-d-heat-equation-with-boundary-control-and-observation-ii-structure-preserving-discretization

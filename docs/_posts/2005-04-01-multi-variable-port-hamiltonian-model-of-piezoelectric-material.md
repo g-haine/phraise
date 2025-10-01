@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Multi-variable port Hamiltonian model of piezoelectric material"
 date: 2005-04-01 00:00:00 +0100
 permalink: multi-variable-port-hamiltonian-model-of-piezoelectric-material

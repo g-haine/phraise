@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the equivalence of two nonlinear control approaches: Immersion and invariance and IDA-PBC"
 date: 2013-10-10 00:00:00 +0100
 permalink: on-the-equivalence-of-two-nonlinear-control-approaches-immersion-and-invariance-and-ida-pbc

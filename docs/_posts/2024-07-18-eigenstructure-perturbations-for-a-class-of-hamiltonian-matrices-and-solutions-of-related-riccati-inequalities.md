@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Eigenstructure Perturbations for a Class of Hamiltonian Matrices and Solutions of Related Riccati Inequalities"
 date: 2024-07-18 00:00:00 +0100
 permalink: eigenstructure-perturbations-for-a-class-of-hamiltonian-matrices-and-solutions-of-related-riccati-inequalities

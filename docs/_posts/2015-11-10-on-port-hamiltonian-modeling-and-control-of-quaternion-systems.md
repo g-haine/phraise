@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On port-Hamiltonian modeling and control of quaternion systems"
 date: 2015-11-10 00:00:00 +0100
 permalink: on-port-hamiltonian-modeling-and-control-of-quaternion-systems

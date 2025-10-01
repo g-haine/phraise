@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hua Xue
 permalink: /authors/hua-xue
 ---

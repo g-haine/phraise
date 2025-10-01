@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Seyed Mohammad Azimi
 permalink: /authors/seyed-mohammad-azimi
 ---

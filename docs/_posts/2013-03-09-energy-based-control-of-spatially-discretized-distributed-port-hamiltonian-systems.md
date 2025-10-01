@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based Control of Spatially-Discretized Distributed Port-Hamiltonian Systems"
 date: 2013-03-09 00:00:00 +0100
 permalink: energy-based-control-of-spatially-discretized-distributed-port-hamiltonian-systems

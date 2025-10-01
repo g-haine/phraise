@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Symplectic-mixed finite element approximation of linear acoustic wave equations"
 date: 2014-10-23 00:00:00 +0100
 permalink: symplectic-mixed-finite-element-approximation-of-linear-acoustic-wave-equations

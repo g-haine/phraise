@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mode decomposed passivity-based speed control of DC drive with bidirectional Zeta-SEPIC DC-DC converter for light electric vehicles"
 date: 2024-04-03 00:00:00 +0100
 permalink: mode-decomposed-passivity-based-speed-control-of-dc-drive-with-bidirectional-zeta-sepic-dc-dc-converter-for-light-electric-vehicles

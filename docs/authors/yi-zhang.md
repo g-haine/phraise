@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yi Zhang
 permalink: /authors/yi-zhang
 ---

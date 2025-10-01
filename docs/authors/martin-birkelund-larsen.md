@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martin Birkelund Larsen
 permalink: /authors/martin-birkelund-larsen
 ---

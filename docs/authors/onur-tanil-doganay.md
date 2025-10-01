@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Onur Tanil Doganay
 permalink: /authors/onur-tanil-doganay
 ---

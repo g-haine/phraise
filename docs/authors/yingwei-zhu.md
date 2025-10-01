@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yingwei Zhu
 permalink: /authors/yingwei-zhu
 ---

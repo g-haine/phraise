@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vani Virdyawan
 permalink: /authors/vani-virdyawan
 ---

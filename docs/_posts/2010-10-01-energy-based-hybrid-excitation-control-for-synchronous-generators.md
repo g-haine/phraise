@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based hybrid excitation control for synchronous generators"
 date: 2010-10-01 00:00:00 +0100
 permalink: energy-based-hybrid-excitation-control-for-synchronous-generators

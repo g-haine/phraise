@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antonio Visioli
 permalink: /authors/antonio-visioli
 ---

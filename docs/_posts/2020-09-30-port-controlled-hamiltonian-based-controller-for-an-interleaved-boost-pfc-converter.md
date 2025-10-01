@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port‐controlled Hamiltonian‐based controller for an interleaved boost PFC converter"
 date: 2020-09-30 00:00:00 +0100
 permalink: port-controlled-hamiltonian-based-controller-for-an-interleaved-boost-pfc-converter

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian approach to secondary voltage control of microgrids"
 date: 2018-01-18 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-secondary-voltage-control-of-microgrids

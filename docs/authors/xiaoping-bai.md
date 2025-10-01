@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoping Bai
 permalink: /authors/xiaoping-bai
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian observer design for plasma profile estimation in tokamaks"
 date: 2016-11-25 00:00:00 +0100
 permalink: port-hamiltonian-observer-design-for-plasma-profile-estimation-in-tokamaks

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jyh-Jong Tsay
 permalink: /authors/jyh-jong-tsay
 ---

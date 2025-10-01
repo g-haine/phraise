@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach"
 date: 2008-02-01 00:00:00 +0100
 permalink: modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach

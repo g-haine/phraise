@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power Transference Controller Design between two DC Microgrids Interconnected via an Interleaved Boost Converter: A PI-PBC Approach"
 date: 2023-12-06 00:00:00 +0100
 permalink: power-transference-controller-design-between-two-dc-microgrids-interconnected-via-an-interleaved-boost-converter-a-pi-pbc-approach

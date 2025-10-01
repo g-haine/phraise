@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nima Monshizadeh
 permalink: /authors/nima-monshizadeh
 ---

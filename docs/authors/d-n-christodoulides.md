@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. N. Christodoulides
 permalink: /authors/d-n-christodoulides
 ---

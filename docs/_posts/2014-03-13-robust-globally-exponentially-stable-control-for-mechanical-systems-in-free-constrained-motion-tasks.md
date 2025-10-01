@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust globally exponentially stable control for mechanical systems in free/constrained-motion tasks"
 date: 2014-03-13 00:00:00 +0100
 permalink: robust-globally-exponentially-stable-control-for-mechanical-systems-in-free-constrained-motion-tasks

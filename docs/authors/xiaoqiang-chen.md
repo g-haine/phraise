@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoqiang Chen
 permalink: /authors/xiaoqiang-chen
 ---

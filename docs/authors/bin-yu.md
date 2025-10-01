@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bin Yu
 permalink: /authors/bin-yu
 ---

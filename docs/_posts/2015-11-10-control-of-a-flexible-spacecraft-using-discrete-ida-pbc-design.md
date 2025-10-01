@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of a flexible spacecraft using discrete IDA-PBC design"
 date: 2015-11-10 00:00:00 +0100
 permalink: control-of-a-flexible-spacecraft-using-discrete-ida-pbc-design

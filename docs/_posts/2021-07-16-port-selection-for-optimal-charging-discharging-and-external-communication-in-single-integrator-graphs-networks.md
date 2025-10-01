@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port selection for optimal charging/discharging and external communication in single-integrator graphs networks"
 date: 2021-07-16 00:00:00 +0100
 permalink: port-selection-for-optimal-charging-discharging-and-external-communication-in-single-integrator-graphs-networks

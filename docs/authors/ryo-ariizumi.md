@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ryo Ariizumi
 permalink: /authors/ryo-ariizumi
 ---

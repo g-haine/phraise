@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Object-Oriented Library for Heat Transfer Modelling and Simulation in Open Cell Foams"
 date: 2021-04-15 00:00:00 +0100
 permalink: an-object-oriented-library-for-heat-transfer-modelling-and-simulation-in-open-cell-foams

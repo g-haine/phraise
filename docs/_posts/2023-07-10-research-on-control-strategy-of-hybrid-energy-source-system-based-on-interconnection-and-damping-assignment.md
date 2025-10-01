@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on Control Strategy of Hybrid Energy Source System Based on Interconnection and Damping Assignment"
 date: 2023-07-10 00:00:00 +0100
 permalink: research-on-control-strategy-of-hybrid-energy-source-system-based-on-interconnection-and-damping-assignment

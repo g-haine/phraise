@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulations of poroelastic network models"
 date: 2021-10-21 00:00:00 +0100
 permalink: port-hamiltonian-formulations-of-poroelastic-network-models

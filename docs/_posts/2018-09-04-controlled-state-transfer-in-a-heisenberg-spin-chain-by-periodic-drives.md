@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Controlled state transfer in a Heisenberg spin chain by periodic drives"
 date: 2018-09-04 00:00:00 +0100
 permalink: controlled-state-transfer-in-a-heisenberg-spin-chain-by-periodic-drives

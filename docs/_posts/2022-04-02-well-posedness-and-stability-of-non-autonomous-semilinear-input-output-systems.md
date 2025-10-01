@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-posedness and stability of non-autonomous semilinear input-output systems"
 date: 2022-04-02 00:00:00 +0100
 permalink: well-posedness-and-stability-of-non-autonomous-semilinear-input-output-systems

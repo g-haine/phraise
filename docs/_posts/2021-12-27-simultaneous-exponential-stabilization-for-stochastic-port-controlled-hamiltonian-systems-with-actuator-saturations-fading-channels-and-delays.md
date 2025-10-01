@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simultaneous exponential stabilization for stochastic port-controlled Hamiltonian systems with actuator saturations, fading channels and delays"
 date: 2021-12-27 00:00:00 +0100
 permalink: simultaneous-exponential-stabilization-for-stochastic-port-controlled-hamiltonian-systems-with-actuator-saturations-fading-channels-and-delays

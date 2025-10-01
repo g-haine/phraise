@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Diffusive systems coupled to an oscillator: a Hamiltonian formulation"
 date: 2012-09-15 00:00:00 +0100
 permalink: diffusive-systems-coupled-to-an-oscillator-a-hamiltonian-formulation

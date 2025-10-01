@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A structured control model for the thermo-magneto-hydrodynamics of plasmas in tokamaks"
 date: 2016-03-09 00:00:00 +0100
 permalink: a-structured-control-model-for-the-thermo-magneto-hydrodynamics-of-plasmas-in-tokamaks

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaofang Yuan
 permalink: /authors/xiaofang-yuan
 ---

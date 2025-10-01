@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Surin Khomfoi
 permalink: /authors/surin-khomfoi
 ---

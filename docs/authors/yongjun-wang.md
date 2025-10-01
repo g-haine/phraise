@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yongjun Wang
 permalink: /authors/yongjun-wang
 ---

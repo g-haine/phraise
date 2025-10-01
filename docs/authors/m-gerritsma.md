@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Gerritsma
 permalink: /authors/m-gerritsma
 ---

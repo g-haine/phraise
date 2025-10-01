@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Manuel Schaller
 permalink: /authors/manuel-schaller
 ---

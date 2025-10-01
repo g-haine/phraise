@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passive Nonlinear Impedance Control for Port-Hamiltonian Systems"
 date: 2019-01-24 00:00:00 +0100
 permalink: passive-nonlinear-impedance-control-for-port-hamiltonian-systems

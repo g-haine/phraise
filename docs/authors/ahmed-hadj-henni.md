@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ahmed Hadj Henni
 permalink: /authors/ahmed-hadj-henni
 ---

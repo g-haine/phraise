@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of port-Hamiltonian systems by nonlinear boundary control in the presence of disturbances"
 date: 2021-05-17 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-systems-by-nonlinear-boundary-control-in-the-presence-of-disturbances

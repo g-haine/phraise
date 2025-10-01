@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary port Hamiltonian control of a class of nanotweezers"
 date: 2018-06-21 00:00:00 +0100
 permalink: boundary-port-hamiltonian-control-of-a-class-of-nanotweezers

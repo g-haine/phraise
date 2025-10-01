@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power-Preserving Interconnection of Single- and Two-Phase Flow Models for Managed Pressure Drilling"
 date: 2020-07-27 00:00:00 +0100
 permalink: power-preserving-interconnection-of-single-and-two-phase-flow-models-for-managed-pressure-drilling

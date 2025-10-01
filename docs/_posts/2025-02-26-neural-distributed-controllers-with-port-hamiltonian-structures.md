@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Neural Distributed Controllers with Port-Hamiltonian Structures"
 date: 2025-02-26 00:00:00 +0100
 permalink: neural-distributed-controllers-with-port-hamiltonian-structures

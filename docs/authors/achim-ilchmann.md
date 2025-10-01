@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Achim Ilchmann
 permalink: /authors/achim-ilchmann
 ---

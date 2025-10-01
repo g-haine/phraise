@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Formation Control of Wheeled Robots in the Port-Hamiltonian Framework"
 date: 2014-10-08 00:00:00 +0100
 permalink: formation-control-of-wheeled-robots-in-the-port-hamiltonian-framework

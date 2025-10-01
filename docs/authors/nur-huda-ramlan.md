@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nur Huda Ramlan
 permalink: /authors/nur-huda-ramlan
 ---

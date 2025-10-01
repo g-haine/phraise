@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by George Weiss
 permalink: /authors/george-weiss
 ---

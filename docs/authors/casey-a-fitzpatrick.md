@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Casey A. Fitzpatrick
 permalink: /authors/casey-a-fitzpatrick
 ---

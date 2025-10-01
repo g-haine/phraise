@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kevin Schäfers
 permalink: /authors/kevin-schafers
 ---

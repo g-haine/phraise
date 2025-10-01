@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xu Qian
 permalink: /authors/xu-qian
 ---

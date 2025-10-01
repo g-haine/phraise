@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability and asymptotic analysis for instationary gas transport via relative energy estimates"
 date: 2023-04-06 00:00:00 +0100
 permalink: stability-and-asymptotic-analysis-for-instationary-gas-transport-via-relative-energy-estimates

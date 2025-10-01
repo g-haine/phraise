@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Benjamin Vincent
 permalink: /authors/benjamin-vincent
 ---

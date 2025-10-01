@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Image-based visual servo control using the port-Hamiltonian approach"
 date: 2015-11-10 00:00:00 +0100
 permalink: image-based-visual-servo-control-using-the-port-hamiltonian-approach

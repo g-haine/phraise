@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Average passivity for discrete-time and sampled-data linear systems"
 date: 2011-02-22 00:00:00 +0100
 permalink: average-passivity-for-discrete-time-and-sampled-data-linear-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antonella Ferrara
 permalink: /authors/antonella-ferrara
 ---

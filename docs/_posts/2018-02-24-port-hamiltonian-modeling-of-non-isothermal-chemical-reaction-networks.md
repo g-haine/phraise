@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling of non-isothermal chemical reaction networks"
 date: 2018-02-24 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-non-isothermal-chemical-reaction-networks

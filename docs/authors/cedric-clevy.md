@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cédric Clévy
 permalink: /authors/cedric-clevy
 ---

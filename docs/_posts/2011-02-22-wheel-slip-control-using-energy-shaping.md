@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Wheel slip control using energy shaping"
 date: 2011-02-22 00:00:00 +0100
 permalink: wheel-slip-control-using-energy-shaping

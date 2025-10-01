@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Weierstraß form of infinite-dimensional differential algebraic equations"
 date: 2024-09-02 00:00:00 +0100
 permalink: on-the-weierstrass-form-of-infinite-dimensional-differential-algebraic-equations

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhaozhao Geng
 permalink: /authors/zhaozhao-geng
 ---

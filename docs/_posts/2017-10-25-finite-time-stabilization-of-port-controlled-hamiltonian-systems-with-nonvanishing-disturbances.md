@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time stabilization of port-controlled Hamiltonian systems with nonvanishing disturbances"
 date: 2017-10-25 00:00:00 +0100
 permalink: finite-time-stabilization-of-port-controlled-hamiltonian-systems-with-nonvanishing-disturbances

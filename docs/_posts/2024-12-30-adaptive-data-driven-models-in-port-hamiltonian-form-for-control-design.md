@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Data‐Driven Models in Port‐Hamiltonian Form for Control Design"
 date: 2024-12-30 00:00:00 +0100
 permalink: adaptive-data-driven-models-in-port-hamiltonian-form-for-control-design

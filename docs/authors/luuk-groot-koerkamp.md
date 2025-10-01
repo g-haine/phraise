@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luuk Groot Koerkamp
 permalink: /authors/luuk-groot-koerkamp
 ---

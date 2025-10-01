@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dongjun Wu
 permalink: /authors/dongjun-wu
 ---

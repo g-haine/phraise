@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martin Wassink
 permalink: /authors/martin-wassink
 ---

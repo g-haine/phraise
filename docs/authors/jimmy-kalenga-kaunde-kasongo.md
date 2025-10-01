@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jimmy Kalenga Kaunde Kasongo
 permalink: /authors/jimmy-kalenga-kaunde-kasongo
 ---

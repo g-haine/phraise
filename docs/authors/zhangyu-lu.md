@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhangyu Lu
 permalink: /authors/zhangyu-lu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marcus Waurick
 permalink: /authors/marcus-waurick
 ---

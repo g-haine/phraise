@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Learning port-Hamiltonian Systems—Algorithms"
 date: 2023-04-08 00:00:00 +0100
 permalink: learning-port-hamiltonian-systems-algorithms

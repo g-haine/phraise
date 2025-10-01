@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Circuit realization of a two-orbital non-Hermitian tight-binding chain"
 date: 2024-03-07 00:00:00 +0100
 permalink: circuit-realization-of-a-two-orbital-non-hermitian-tight-binding-chain

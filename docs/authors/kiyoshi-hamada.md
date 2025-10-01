@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kiyoshi Hamada
 permalink: /authors/kiyoshi-hamada
 ---

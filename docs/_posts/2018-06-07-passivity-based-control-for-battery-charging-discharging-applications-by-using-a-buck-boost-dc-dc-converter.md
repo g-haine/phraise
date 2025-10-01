@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control for Battery Charging/Discharging Applications by Using a Buck-Boost DC-DC Converter"
 date: 2018-06-07 00:00:00 +0100
 permalink: passivity-based-control-for-battery-charging-discharging-applications-by-using-a-buck-boost-dc-dc-converter

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fault detection and estimation based on full order unknown input Hamiltonian observers"
 date: 2015-12-08 00:00:00 +0100
 permalink: fault-detection-and-estimation-based-on-full-order-unknown-input-hamiltonian-observers

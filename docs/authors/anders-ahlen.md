@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anders Ahlén
 permalink: /authors/anders-ahlen
 ---

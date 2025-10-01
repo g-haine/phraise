@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Henri Boutin
 permalink: /authors/henri-boutin
 ---

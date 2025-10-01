@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Laura Iapichino
 permalink: /authors/laura-iapichino
 ---

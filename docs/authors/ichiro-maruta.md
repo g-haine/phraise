@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ichiro Maruta
 permalink: /authors/ichiro-maruta
 ---

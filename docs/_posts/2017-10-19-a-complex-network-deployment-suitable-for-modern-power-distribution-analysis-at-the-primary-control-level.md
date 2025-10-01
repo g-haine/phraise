@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A complex network deployment suitable for modern power distribution analysis at the primary control level"
 date: 2017-10-19 00:00:00 +0100
 permalink: a-complex-network-deployment-suitable-for-modern-power-distribution-analysis-at-the-primary-control-level

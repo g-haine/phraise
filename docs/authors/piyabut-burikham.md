@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Piyabut Burikham
 permalink: /authors/piyabut-burikham
 ---

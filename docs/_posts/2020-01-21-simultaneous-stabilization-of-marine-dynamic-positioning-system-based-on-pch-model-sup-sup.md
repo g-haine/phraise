@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simultaneous Stabilization of Marine Dynamic Positioning System Based on PCH Model<sup>¯</sup>"
 date: 2020-01-21 00:00:00 +0100
 permalink: simultaneous-stabilization-of-marine-dynamic-positioning-system-based-on-pch-model-sup-sup

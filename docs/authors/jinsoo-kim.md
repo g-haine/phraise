@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinsoo Kim
 permalink: /authors/jinsoo-kim
 ---

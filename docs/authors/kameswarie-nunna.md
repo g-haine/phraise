@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kameswarie Nunna
 permalink: /authors/kameswarie-nunna
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhe Dong
 permalink: /authors/zhe-dong
 ---

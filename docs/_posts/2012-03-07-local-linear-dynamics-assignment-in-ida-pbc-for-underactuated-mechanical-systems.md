@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Local linear dynamics assignment in IDA-PBC for underactuated mechanical systems"
 date: 2012-03-07 00:00:00 +0100
 permalink: local-linear-dynamics-assignment-in-ida-pbc-for-underactuated-mechanical-systems

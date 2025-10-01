@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xian Qin Ma
 permalink: /authors/xian-qin-ma
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Minh-Duc Tran
 permalink: /authors/minh-duc-tran
 ---

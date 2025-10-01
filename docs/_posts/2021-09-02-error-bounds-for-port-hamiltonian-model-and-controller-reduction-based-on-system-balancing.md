@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Error bounds for port-Hamiltonian model and controller reduction based on system balancing"
 date: 2021-09-02 00:00:00 +0100
 permalink: error-bounds-for-port-hamiltonian-model-and-controller-reduction-based-on-system-balancing

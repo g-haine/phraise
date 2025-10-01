@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy shaping of distributed parameter port-Hamiltonian systems based on finite element approximation"
 date: 2011-05-22 00:00:00 +0100
 permalink: energy-shaping-of-distributed-parameter-port-hamiltonian-systems-based-on-finite-element-approximation

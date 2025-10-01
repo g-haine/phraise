@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matthias Voigt
 permalink: /authors/matthias-voigt
 ---

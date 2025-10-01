@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Input Disturbance Suppression for Port-Hamiltonian Systems: An Internal Model Approach"
 date: 2007-06-03 00:00:00 +0100
 permalink: input-disturbance-suppression-for-port-hamiltonian-systems-an-internal-model-approach

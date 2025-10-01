@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An energy-based modeling approach to the induction machine"
 date: 2022-01-03 00:00:00 +0100
 permalink: an-energy-based-modeling-approach-to-the-induction-machine

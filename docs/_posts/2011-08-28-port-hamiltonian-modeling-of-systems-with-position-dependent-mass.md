@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling of Systems with Position-Dependent Mass"
 date: 2011-08-28 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-systems-with-position-dependent-mass

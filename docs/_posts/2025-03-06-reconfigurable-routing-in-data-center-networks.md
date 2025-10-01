@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reconfigurable routing in data center networks"
 date: 2025-03-06 00:00:00 +0100
 permalink: reconfigurable-routing-in-data-center-networks

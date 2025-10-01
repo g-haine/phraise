@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Performance of Interconnection and Damping Assignment Passivity-Based Controller on Inverter Circuits"
 date: 2017-03-16 00:00:00 +0100
 permalink: performance-of-interconnection-and-damping-assignment-passivity-based-controller-on-inverter-circuits

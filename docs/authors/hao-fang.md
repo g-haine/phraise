@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hao Fang
 permalink: /authors/hao-fang
 ---

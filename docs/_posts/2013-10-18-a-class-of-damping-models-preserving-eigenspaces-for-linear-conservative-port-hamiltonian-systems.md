@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A class of damping models preserving eigenspaces for linear conservative port-Hamiltonian systems"
 date: 2013-10-18 00:00:00 +0100
 permalink: a-class-of-damping-models-preserving-eigenspaces-for-linear-conservative-port-hamiltonian-systems

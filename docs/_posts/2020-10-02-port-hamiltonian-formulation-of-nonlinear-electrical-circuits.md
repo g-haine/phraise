@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulation of nonlinear electrical circuits"
 date: 2020-10-02 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-nonlinear-electrical-circuits

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paul Fernández-Carrillo
 permalink: /authors/paul-fernandez-carrillo
 ---

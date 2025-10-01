@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Deqing Huang
 permalink: /authors/deqing-huang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qin Zhang
 permalink: /authors/qin-zhang
 ---

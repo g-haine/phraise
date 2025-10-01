@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C J Noble
 permalink: /authors/c-j-noble
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PID Passive-Based Control of Spacecraft Formation Flying in the Port-Hamiltonian Framework"
 date: 2023-09-18 00:00:00 +0100
 permalink: pid-passive-based-control-of-spacecraft-formation-flying-in-the-port-hamiltonian-framework

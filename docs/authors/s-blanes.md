@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Blanes
 permalink: /authors/s-blanes
 ---

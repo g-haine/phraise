@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An energy-based analysis of reduced-order models of (networked) synchronous machines"
 date: 2019-02-12 00:00:00 +0100
 permalink: an-energy-based-analysis-of-reduced-order-models-of-networked-synchronous-machines

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paolo Roberto Massenio
 permalink: /authors/paolo-roberto-massenio
 ---

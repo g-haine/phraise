@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Direct power control for three phase grid connected inverter via port-controlled Hamiltonian method"
 date: 2016-03-08 00:00:00 +0100
 permalink: direct-power-control-for-three-phase-grid-connected-inverter-via-port-controlled-hamiltonian-method

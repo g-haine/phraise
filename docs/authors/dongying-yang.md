@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dongying Yang
 permalink: /authors/dongying-yang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Hara
 permalink: /authors/s-hara
 ---

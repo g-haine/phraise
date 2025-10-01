@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fluid-Structure Port-Hamiltonian Model for Incompressible Flows in Tubes with Time Varying Geometries"
 date: 2020-07-03 00:00:00 +0100
 permalink: fluid-structure-port-hamiltonian-model-for-incompressible-flows-in-tubes-with-time-varying-geometries

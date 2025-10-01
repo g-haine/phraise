@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based In-Domain Control and Observer Design for Infinite-Dimensional Port-Hamiltonian Systems"
 date: 2021-07-16 00:00:00 +0100
 permalink: energy-based-in-domain-control-and-observer-design-for-infinite-dimensional-port-hamiltonian-systems

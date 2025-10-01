@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dunwen Wei
 permalink: /authors/dunwen-wei
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Scalable Reduction of Elastic Continuum for Boundary Energy Control"
 date: 2015-08-13 00:00:00 +0100
 permalink: scalable-reduction-of-elastic-continuum-for-boundary-energy-control

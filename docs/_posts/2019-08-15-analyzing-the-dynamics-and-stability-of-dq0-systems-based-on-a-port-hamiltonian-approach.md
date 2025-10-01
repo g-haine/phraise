@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analyzing the Dynamics and Stability of DQ0 Systems Based on a Port-Hamiltonian Approach"
 date: 2019-08-15 00:00:00 +0100
 permalink: analyzing-the-dynamics-and-stability-of-dq0-systems-based-on-a-port-hamiltonian-approach

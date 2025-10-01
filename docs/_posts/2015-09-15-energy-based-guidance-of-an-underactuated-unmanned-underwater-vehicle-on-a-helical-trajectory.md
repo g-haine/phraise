@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based guidance of an underactuated unmanned underwater vehicle on a helical trajectory"
 date: 2015-09-15 00:00:00 +0100
 permalink: energy-based-guidance-of-an-underactuated-unmanned-underwater-vehicle-on-a-helical-trajectory

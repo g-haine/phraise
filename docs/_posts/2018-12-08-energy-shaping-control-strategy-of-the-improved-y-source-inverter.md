@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Shaping Control Strategy of the Improved Y-Source Inverter"
 date: 2018-12-08 00:00:00 +0100
 permalink: energy-shaping-control-strategy-of-the-improved-y-source-inverter

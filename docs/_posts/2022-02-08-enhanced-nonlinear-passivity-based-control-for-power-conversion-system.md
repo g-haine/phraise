@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Enhanced Nonlinear Passivity Based Control for Power Conversion System"
 date: 2022-02-08 00:00:00 +0100
 permalink: enhanced-nonlinear-passivity-based-control-for-power-conversion-system

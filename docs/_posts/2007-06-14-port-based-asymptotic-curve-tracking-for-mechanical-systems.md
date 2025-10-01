@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Based Asymptotic Curve Tracking for Mechanical Systems"
 date: 2007-06-14 00:00:00 +0100
 permalink: port-based-asymptotic-curve-tracking-for-mechanical-systems

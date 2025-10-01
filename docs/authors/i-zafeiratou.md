@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by I. Zafeiratou
 permalink: /authors/i-zafeiratou
 ---

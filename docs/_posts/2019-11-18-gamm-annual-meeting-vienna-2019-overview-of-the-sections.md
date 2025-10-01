@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "GAMM Annual Meeting – Vienna 2019 Overview of the Sections"
 date: 2019-11-18 00:00:00 +0100
 permalink: gamm-annual-meeting-vienna-2019-overview-of-the-sections

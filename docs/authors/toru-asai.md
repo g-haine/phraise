@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Toru Asai
 permalink: /authors/toru-asai
 ---

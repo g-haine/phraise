@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite Volume Structure-Preserving Discretization of 1D Distributed-Parameter Port-Hamiltonian Systems"
 date: 2016-08-09 00:00:00 +0100
 permalink: finite-volume-structure-preserving-discretization-of-1d-distributed-parameter-port-hamiltonian-systems

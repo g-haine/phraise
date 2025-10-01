@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rik W. De Doncker
 permalink: /authors/rik-w-de-doncker
 ---

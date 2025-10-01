@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S Wüster
 permalink: /authors/s-wuster
 ---

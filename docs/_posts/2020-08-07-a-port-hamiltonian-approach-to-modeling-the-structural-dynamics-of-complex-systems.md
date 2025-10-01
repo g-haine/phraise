@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian approach to modeling the structural dynamics of complex systems"
 date: 2020-08-07 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems

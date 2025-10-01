@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cristian Secchi
 permalink: /authors/cristian-secchi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Francisco Del-Rio-Rivera
 permalink: /authors/francisco-del-rio-rivera
 ---

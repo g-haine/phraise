@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on PMSM sensor-less system based on ADRC-PBC strategy"
 date: 2016-08-15 00:00:00 +0100
 permalink: research-on-pmsm-sensor-less-system-based-on-adrc-pbc-strategy

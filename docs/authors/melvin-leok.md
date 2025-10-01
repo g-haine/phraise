@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Melvin Leok
 permalink: /authors/melvin-leok
 ---

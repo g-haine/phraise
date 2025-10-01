@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The nonlinear control of Tapped inductor Buck converter based on Port-controlled Hamiltonian model"
 date: 2011-12-16 00:00:00 +0100
 permalink: the-nonlinear-control-of-tapped-inductor-buck-converter-based-on-port-controlled-hamiltonian-model

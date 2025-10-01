@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian framework for the modeling and FEM discretization of hyperelastic systems"
 date: 2025-09-02 00:00:00 +0100
 permalink: a-port-hamiltonian-framework-for-the-modeling-and-fem-discretization-of-hyperelastic-systems

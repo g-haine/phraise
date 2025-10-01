@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Patrick Buchfink
 permalink: /authors/patrick-buchfink
 ---

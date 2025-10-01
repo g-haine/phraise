@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal actuator location for electro-active polymer actuated endoscope"
 date: 2018-06-18 00:00:00 +0100
 permalink: optimal-actuator-location-for-electro-active-polymer-actuated-endoscope

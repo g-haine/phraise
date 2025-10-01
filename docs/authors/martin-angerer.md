@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martin Angerer
 permalink: /authors/martin-angerer
 ---

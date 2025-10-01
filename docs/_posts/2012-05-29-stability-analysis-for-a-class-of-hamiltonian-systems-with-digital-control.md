@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability analysis for a class of Hamiltonian systems with digital control"
 date: 2012-05-29 00:00:00 +0100
 permalink: stability-analysis-for-a-class-of-hamiltonian-systems-with-digital-control

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xuan Zuo
 permalink: /authors/xuan-zuo
 ---

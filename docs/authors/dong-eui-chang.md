@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dong Eui Chang
 permalink: /authors/dong-eui-chang
 ---

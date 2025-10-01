@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian formulation of distributed-parameter systems with boundary energy flow"
 date: 2002-10-14 00:00:00 +0100
 permalink: hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow

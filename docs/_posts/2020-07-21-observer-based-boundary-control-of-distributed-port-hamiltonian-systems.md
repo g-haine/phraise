@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer-based boundary control of distributed port-Hamiltonian systems"
 date: 2020-07-21 00:00:00 +0100
 permalink: observer-based-boundary-control-of-distributed-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On The Relation Between Port-Hamiltonian And Gradient Systems"
 date: 2011-08-28 00:00:00 +0100
 permalink: on-the-relation-between-port-hamiltonian-and-gradient-systems

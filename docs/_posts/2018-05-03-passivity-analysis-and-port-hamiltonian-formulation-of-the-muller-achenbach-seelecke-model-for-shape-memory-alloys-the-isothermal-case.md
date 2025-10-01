@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity Analysis and Port-Hamiltonian Formulation of the Müller-Achenbach-Seelecke Model for Shape Memory Alloys: the Isothermal Case"
 date: 2018-05-03 00:00:00 +0100
 permalink: passivity-analysis-and-port-hamiltonian-formulation-of-the-muller-achenbach-seelecke-model-for-shape-memory-alloys-the-isothermal-case

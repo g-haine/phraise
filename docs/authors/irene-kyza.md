@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Irene Kyza
 permalink: /authors/irene-kyza
 ---

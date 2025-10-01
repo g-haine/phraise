@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lu Dong
 permalink: /authors/lu-dong
 ---

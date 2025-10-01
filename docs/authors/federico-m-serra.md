@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Federico M. Serra
 permalink: /authors/federico-m-serra
 ---

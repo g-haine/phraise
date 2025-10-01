@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fu Zheng
 permalink: /authors/fu-zheng
 ---

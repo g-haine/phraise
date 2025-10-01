@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiawei Zhang
 permalink: /authors/jiawei-zhang
 ---

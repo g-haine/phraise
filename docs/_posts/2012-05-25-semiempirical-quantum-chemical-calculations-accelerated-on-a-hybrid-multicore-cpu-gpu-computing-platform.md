@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Semiempirical Quantum Chemical Calculations Accelerated on a Hybrid Multicore CPU–GPU Computing Platform"
 date: 2012-05-25 00:00:00 +0100
 permalink: semiempirical-quantum-chemical-calculations-accelerated-on-a-hybrid-multicore-cpu-gpu-computing-platform

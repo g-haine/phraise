@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Hamiltonian perspective to the stabilization of systems of two conservation laws"
 date: 2009-06-04 00:00:00 +0100
 permalink: a-hamiltonian-perspective-to-the-stabilization-of-systems-of-two-conservation-laws

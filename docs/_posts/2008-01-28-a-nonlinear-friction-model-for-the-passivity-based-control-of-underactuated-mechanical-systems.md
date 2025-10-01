@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A nonlinear friction model for the passivity-based control of underactuated mechanical systems"
 date: 2008-01-28 00:00:00 +0100
 permalink: a-nonlinear-friction-model-for-the-passivity-based-control-of-underactuated-mechanical-systems

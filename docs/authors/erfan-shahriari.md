@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Erfan Shahriari
 permalink: /authors/erfan-shahriari
 ---

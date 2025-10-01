@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-Preserving Discretization of a Coupled Heat-Wave System, as Interconnected Port-Hamiltonian Systems"
 date: 2021-07-13 00:00:00 +0100
 permalink: structure-preserving-discretization-of-a-coupled-heat-wave-system-as-interconnected-port-hamiltonian-systems

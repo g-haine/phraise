@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tianyi Zhao
 permalink: /authors/tianyi-zhao
 ---

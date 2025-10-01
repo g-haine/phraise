@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Model-Predictive Control for the Permanent Magnet Synchronous Machine"
 date: 2024-12-13 00:00:00 +0100
 permalink: passivity-based-model-predictive-control-for-the-permanent-magnet-synchronous-machine

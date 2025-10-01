@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Igor Z. Shchur
 permalink: /authors/igor-z-shchur
 ---

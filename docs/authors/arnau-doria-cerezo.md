@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arnau Dòria-Cerezo
 permalink: /authors/arnau-doria-cerezo
 ---

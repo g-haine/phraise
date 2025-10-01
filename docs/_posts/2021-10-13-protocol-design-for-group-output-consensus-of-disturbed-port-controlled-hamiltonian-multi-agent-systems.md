@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Protocol design for group output consensus of disturbed port-controlled Hamiltonian multi-agent systems"
 date: 2021-10-13 00:00:00 +0100
 permalink: protocol-design-for-group-output-consensus-of-disturbed-port-controlled-hamiltonian-multi-agent-systems

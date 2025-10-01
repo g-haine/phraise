@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Atsuhiro Kondo
 permalink: /authors/atsuhiro-kondo
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Transient stabilization of multimachine power systems with nontrivial transfer conductances"
 date: 2005-01-17 00:00:00 +0100
 permalink: transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances

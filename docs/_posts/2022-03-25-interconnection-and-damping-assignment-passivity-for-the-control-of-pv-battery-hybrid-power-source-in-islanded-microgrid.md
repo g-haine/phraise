@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and Damping Assignment Passivity for the Control of PV/Battery Hybrid Power Source in Islanded Microgrid"
 date: 2022-03-25 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-for-the-control-of-pv-battery-hybrid-power-source-in-islanded-microgrid

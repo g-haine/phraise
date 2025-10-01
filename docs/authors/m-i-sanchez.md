@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M.I. Sanchez
 permalink: /authors/m-i-sanchez
 ---

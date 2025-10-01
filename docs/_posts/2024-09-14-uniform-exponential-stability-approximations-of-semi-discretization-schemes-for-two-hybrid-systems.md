@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Uniform exponential stability approximations of semi‐discretization schemes for two hybrid systems"
 date: 2024-09-14 00:00:00 +0100
 permalink: uniform-exponential-stability-approximations-of-semi-discretization-schemes-for-two-hybrid-systems

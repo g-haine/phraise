@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PID Passivity-Based Control of Port-Hamiltonian Systems"
 date: 2017-08-09 00:00:00 +0100
 permalink: pid-passivity-based-control-of-port-hamiltonian-systems

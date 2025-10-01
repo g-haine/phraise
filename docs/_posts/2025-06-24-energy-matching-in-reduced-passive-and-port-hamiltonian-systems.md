@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Matching in Reduced Passive and Port-Hamiltonian Systems"
 date: 2025-06-24 00:00:00 +0100
 permalink: energy-matching-in-reduced-passive-and-port-hamiltonian-systems

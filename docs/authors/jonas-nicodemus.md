@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jonas Nicodemus
 permalink: /authors/jonas-nicodemus
 ---

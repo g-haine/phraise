@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time-space formulation of a conservative string subject to finite transformations"
 date: 2024-09-25 00:00:00 +0100
 permalink: time-space-formulation-of-a-conservative-string-subject-to-finite-transformations

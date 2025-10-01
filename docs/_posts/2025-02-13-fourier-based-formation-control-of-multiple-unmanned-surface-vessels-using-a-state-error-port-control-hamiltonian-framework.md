@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fourier-Based Formation Control of Multiple Unmanned Surface Vessels Using a State Error Port Control Hamiltonian Framework"
 date: 2025-02-13 00:00:00 +0100
 permalink: fourier-based-formation-control-of-multiple-unmanned-surface-vessels-using-a-state-error-port-control-hamiltonian-framework

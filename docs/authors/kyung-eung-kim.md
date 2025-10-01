@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kyung-Eung Kim
 permalink: /authors/kyung-eung-kim
 ---

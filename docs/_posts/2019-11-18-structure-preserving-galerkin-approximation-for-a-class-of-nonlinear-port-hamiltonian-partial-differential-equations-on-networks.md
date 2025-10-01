@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure‐preserving Galerkin approximation for a class of nonlinear port‐Hamiltonian partial differential equations on networks"
 date: 2019-11-18 00:00:00 +0100
 permalink: structure-preserving-galerkin-approximation-for-a-class-of-nonlinear-port-hamiltonian-partial-differential-equations-on-networks

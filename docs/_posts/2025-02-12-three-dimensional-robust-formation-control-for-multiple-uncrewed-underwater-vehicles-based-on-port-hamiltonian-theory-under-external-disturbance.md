@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Three-dimensional robust formation control for multiple uncrewed underwater vehicles based on Port-Hamiltonian theory under external disturbance"
 date: 2025-02-12 00:00:00 +0100
 permalink: three-dimensional-robust-formation-control-for-multiple-uncrewed-underwater-vehicles-based-on-port-hamiltonian-theory-under-external-disturbance

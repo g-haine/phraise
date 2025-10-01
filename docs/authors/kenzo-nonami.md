@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kenzo NONAMI
 permalink: /authors/kenzo-nonami
 ---

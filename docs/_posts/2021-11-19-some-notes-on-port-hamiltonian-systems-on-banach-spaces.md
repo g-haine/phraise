@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Some notes on port-Hamiltonian systems on Banach spaces"
 date: 2021-11-19 00:00:00 +0100
 permalink: some-notes-on-port-hamiltonian-systems-on-banach-spaces

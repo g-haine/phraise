@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reaction-Diffusion Systems in the Port-Hamiltonian Framework"
 date: 2011-03-10 00:00:00 +0100
 permalink: reaction-diffusion-systems-in-the-port-hamiltonian-framework

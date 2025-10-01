@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Reinhard Gahleitner
 permalink: /authors/reinhard-gahleitner
 ---

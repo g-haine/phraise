@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiangyu Wang
 permalink: /authors/xiangyu-wang
 ---

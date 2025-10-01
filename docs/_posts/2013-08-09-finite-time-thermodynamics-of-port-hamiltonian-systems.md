@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time thermodynamics of port-Hamiltonian systems"
 date: 2013-08-09 00:00:00 +0100
 permalink: finite-time-thermodynamics-of-port-hamiltonian-systems

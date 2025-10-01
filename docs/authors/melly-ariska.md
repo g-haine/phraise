@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Melly Ariska
 permalink: /authors/melly-ariska
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geometric scattering in robotic telemanipulation"
 date: 2003-01-03 00:00:00 +0100
 permalink: geometric-scattering-in-robotic-telemanipulation

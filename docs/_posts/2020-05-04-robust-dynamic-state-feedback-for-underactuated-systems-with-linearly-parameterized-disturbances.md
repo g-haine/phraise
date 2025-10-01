@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust dynamic state feedback for underactuated systems with linearly parameterized disturbances"
 date: 2020-05-04 00:00:00 +0100
 permalink: robust-dynamic-state-feedback-for-underactuated-systems-with-linearly-parameterized-disturbances

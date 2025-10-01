@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Learning feedback Nash strategies for nonlinear port-Hamiltonian systems"
 date: 2021-10-01 00:00:00 +0100
 permalink: learning-feedback-nash-strategies-for-nonlinear-port-hamiltonian-systems

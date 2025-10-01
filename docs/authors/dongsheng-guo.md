@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dongsheng Guo
 permalink: /authors/dongsheng-guo
 ---

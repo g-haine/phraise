@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohamed Laabissi
 permalink: /authors/mohamed-laabissi
 ---

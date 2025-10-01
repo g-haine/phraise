@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time‐Varying Impedance Control of Port Hamiltonian System with a New Energy‐Storing Tank"
 date: 2018-11-01 00:00:00 +0100
 permalink: time-varying-impedance-control-of-port-hamiltonian-system-with-a-new-energy-storing-tank

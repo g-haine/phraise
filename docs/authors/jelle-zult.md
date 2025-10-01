@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jelle Zult
 permalink: /authors/jelle-zult
 ---

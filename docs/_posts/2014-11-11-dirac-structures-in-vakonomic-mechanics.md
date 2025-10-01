@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac structures in vakonomic mechanics"
 date: 2014-11-11 00:00:00 +0100
 permalink: dirac-structures-in-vakonomic-mechanics

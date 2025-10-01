@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Maximum output power control of PMSM based on energy-shaping and PWM control principle"
 date: 2008-09-30 00:00:00 +0100
 permalink: maximum-output-power-control-of-pmsm-based-on-energy-shaping-and-pwm-control-principle

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A variable structure approach to energy shaping"
 date: 2018-06-21 00:00:00 +0100
 permalink: a-variable-structure-approach-to-energy-shaping

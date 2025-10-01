@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by GUO XuFa
 permalink: /authors/guo-xufa
 ---

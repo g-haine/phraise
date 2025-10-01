@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power oscillation suppression strategy of VSG based on finite‐time Hamiltonian method"
 date: 2025-01-04 00:00:00 +0100
 permalink: power-oscillation-suppression-strategy-of-vsg-based-on-finite-time-hamiltonian-method

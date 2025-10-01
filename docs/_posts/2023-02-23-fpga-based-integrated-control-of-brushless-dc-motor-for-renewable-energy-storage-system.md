@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "FPGA Based Integrated Control of Brushless DC Motor for Renewable Energy Storage System"
 date: 2023-02-23 00:00:00 +0100
 permalink: fpga-based-integrated-control-of-brushless-dc-motor-for-renewable-energy-storage-system

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinhua Yan
 permalink: /authors/xinhua-yan
 ---

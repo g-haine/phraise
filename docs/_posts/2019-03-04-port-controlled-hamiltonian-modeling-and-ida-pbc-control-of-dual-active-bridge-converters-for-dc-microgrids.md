@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Controlled Hamiltonian Modeling and IDA-PBC Control of Dual Active Bridge Converters for DC Microgrids"
 date: 2019-03-04 00:00:00 +0100
 permalink: port-controlled-hamiltonian-modeling-and-ida-pbc-control-of-dual-active-bridge-converters-for-dc-microgrids

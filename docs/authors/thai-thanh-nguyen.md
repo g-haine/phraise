@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thai-Thanh Nguyen
 permalink: /authors/thai-thanh-nguyen
 ---

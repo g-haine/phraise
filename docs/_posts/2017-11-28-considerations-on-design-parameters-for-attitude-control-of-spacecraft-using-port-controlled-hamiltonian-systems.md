@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Considerations on design parameters for attitude control of spacecraft using port-controlled Hamiltonian systems"
 date: 2017-11-28 00:00:00 +0100
 permalink: considerations-on-design-parameters-for-attitude-control-of-spacecraft-using-port-controlled-hamiltonian-systems

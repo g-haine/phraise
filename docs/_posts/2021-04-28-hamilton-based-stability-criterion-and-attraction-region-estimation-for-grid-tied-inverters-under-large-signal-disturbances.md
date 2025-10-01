@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamilton-Based Stability Criterion and Attraction Region Estimation for Grid-Tied Inverters Under Large-Signal Disturbances"
 date: 2021-04-28 00:00:00 +0100
 permalink: hamilton-based-stability-criterion-and-attraction-region-estimation-for-grid-tied-inverters-under-large-signal-disturbances

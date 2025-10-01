@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Projected Dynamics of Constrained Hamiltonian Systems"
 date: 2018-12-08 00:00:00 +0100
 permalink: projected-dynamics-of-constrained-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of Finite-Dimensional Port-Hamiltonian Systems"
 date: 2009-10-14 00:00:00 +0100
 permalink: control-of-finite-dimensional-port-hamiltonian-systems

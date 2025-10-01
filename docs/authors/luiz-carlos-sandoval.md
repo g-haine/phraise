@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luiz Carlos Sandoval
 permalink: /authors/luiz-carlos-sandoval
 ---

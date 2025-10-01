@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maribel P´erez Pirela
 permalink: /authors/maribel-p-erez-pirela
 ---

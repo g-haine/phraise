@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive control of uncertain port-controlled Hamiltonian systems subject to actuator saturation"
 date: 2011-12-02 00:00:00 +0100
 permalink: adaptive-control-of-uncertain-port-controlled-hamiltonian-systems-subject-to-actuator-saturation

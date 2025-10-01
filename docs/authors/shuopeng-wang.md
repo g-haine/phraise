@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuopeng Wang
 permalink: /authors/shuopeng-wang
 ---

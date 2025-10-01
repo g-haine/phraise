@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking for permanent magnet synchronous motors"
 date: 2018-06-21 00:00:00 +0100
 permalink: trajectory-tracking-for-permanent-magnet-synchronous-motors

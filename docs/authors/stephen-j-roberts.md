@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stephen J. Roberts
 permalink: /authors/stephen-j-roberts
 ---

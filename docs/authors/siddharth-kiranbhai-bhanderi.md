@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Siddharth Kiranbhai Bhanderi
 permalink: /authors/siddharth-kiranbhai-bhanderi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of non-isothermal chemical reaction networks using irreversible port-Hamiltonian systems"
 date: 2017-10-19 00:00:00 +0100
 permalink: control-of-non-isothermal-chemical-reaction-networks-using-irreversible-port-hamiltonian-systems

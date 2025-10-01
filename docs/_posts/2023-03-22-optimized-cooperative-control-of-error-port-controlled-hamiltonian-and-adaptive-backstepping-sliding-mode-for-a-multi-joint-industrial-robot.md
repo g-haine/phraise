@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimized Cooperative Control of Error Port-Controlled Hamiltonian and Adaptive Backstepping Sliding Mode for a Multi-Joint Industrial Robot"
 date: 2023-03-22 00:00:00 +0100
 permalink: optimized-cooperative-control-of-error-port-controlled-hamiltonian-and-adaptive-backstepping-sliding-mode-for-a-multi-joint-industrial-robot

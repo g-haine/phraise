@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Memristive port-Hamiltonian Systems"
 date: 2010-04-21 00:00:00 +0100
 permalink: memristive-port-hamiltonian-systems

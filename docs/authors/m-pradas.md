@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Pradas
 permalink: /authors/m-pradas
 ---

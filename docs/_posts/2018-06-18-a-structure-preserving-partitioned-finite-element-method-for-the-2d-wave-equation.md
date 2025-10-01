@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A structure-preserving Partitioned Finite Element Method for the 2D wave equation."
 date: 2018-06-18 00:00:00 +0100
 permalink: a-structure-preserving-partitioned-finite-element-method-for-the-2d-wave-equation

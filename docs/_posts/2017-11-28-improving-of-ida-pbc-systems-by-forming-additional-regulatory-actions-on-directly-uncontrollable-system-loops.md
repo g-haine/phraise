@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Improving of IDA-PBC systems by forming additional regulatory actions on directly uncontrollable system loops"
 date: 2017-11-28 00:00:00 +0100
 permalink: improving-of-ida-pbc-systems-by-forming-additional-regulatory-actions-on-directly-uncontrollable-system-loops

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bryan Karney
 permalink: /authors/bryan-karney
 ---

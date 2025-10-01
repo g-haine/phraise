@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Formation control of nonholonomic wheeled robots in the presence of matched input disturbances"
 date: 2015-11-10 00:00:00 +0100
 permalink: formation-control-of-nonholonomic-wheeled-robots-in-the-presence-of-matched-input-disturbances

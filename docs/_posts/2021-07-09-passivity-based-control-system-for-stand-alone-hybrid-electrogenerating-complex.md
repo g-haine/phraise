@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PASSIVITY-BASED CONTROL SYSTEM FOR STAND-ALONE HYBRID ELECTROGENERATING COMPLEX"
 date: 2021-07-09 00:00:00 +0100
 permalink: passivity-based-control-system-for-stand-alone-hybrid-electrogenerating-complex

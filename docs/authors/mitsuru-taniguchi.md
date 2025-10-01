@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mitsuru Taniguchi
 permalink: /authors/mitsuru-taniguchi
 ---

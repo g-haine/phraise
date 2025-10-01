@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Reza Mahboobi Esfanjani
 permalink: /authors/reza-mahboobi-esfanjani
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tjardo Scholten
 permalink: /authors/tjardo-scholten
 ---

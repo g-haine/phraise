@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Symplectic Hamiltonian finite element methods for electromagnetics"
 date: 2022-05-13 00:00:00 +0100
 permalink: symplectic-hamiltonian-finite-element-methods-for-electromagnetics

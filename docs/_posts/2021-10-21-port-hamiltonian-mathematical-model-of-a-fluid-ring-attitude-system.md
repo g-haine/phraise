@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Mathematical Model of a Fluid Ring Attitude System"
 date: 2021-10-21 00:00:00 +0100
 permalink: port-hamiltonian-mathematical-model-of-a-fluid-ring-attitude-system

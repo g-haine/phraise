@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems’ Modelling in Electrical Engineering"
 date: 2024-02-29 00:00:00 +0100
 permalink: port-hamiltonian-systems-modelling-in-electrical-engineering

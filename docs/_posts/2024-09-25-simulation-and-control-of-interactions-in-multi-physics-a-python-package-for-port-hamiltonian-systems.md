@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simulation and control of interactions in multi-physics, a Python package for port-Hamiltonian systems"
 date: 2024-09-25 00:00:00 +0100
 permalink: simulation-and-control-of-interactions-in-multi-physics-a-python-package-for-port-hamiltonian-systems

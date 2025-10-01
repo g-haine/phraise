@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wei Wang
 permalink: /authors/wei-wang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control for Hydro-Turbine Governing Systems"
 date: 2018-10-30 00:00:00 +0100
 permalink: passivity-based-control-for-hydro-turbine-governing-systems

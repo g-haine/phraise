@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rogelio Lozano
 permalink: /authors/rogelio-lozano
 ---

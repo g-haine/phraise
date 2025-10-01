@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bruno Lang
 permalink: /authors/bruno-lang
 ---

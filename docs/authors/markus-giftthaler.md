@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Markus Giftthaler
 permalink: /authors/markus-giftthaler
 ---

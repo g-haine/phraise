@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marius Mönch
 permalink: /authors/marius-monch
 ---

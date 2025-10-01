@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based Modeling and Hamiltonian LQG Control of a Flexible Beam Actuated by IPMC Actuators"
 date: 2022-01-27 00:00:00 +0100
 permalink: energy-based-modeling-and-hamiltonian-lqg-control-of-a-flexible-beam-actuated-by-ipmc-actuators

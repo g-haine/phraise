@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianhua Zheng
 permalink: /authors/jianhua-zheng
 ---

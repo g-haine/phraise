@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by E.Y. Piedrahita-Echavarria
 permalink: /authors/e-y-piedrahita-echavarria
 ---

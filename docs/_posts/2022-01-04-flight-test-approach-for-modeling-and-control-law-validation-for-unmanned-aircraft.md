@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Flight Test Approach for Modeling and Control Law Validation for Unmanned Aircraft"
 date: 2022-01-04 00:00:00 +0100
 permalink: flight-test-approach-for-modeling-and-control-law-validation-for-unmanned-aircraft

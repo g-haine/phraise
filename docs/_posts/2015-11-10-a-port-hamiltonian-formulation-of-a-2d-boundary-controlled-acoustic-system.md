@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian formulation of a 2D boundary controlled acoustic system"
 date: 2015-11-10 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-a-2d-boundary-controlled-acoustic-system

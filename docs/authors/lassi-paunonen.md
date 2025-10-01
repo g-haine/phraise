@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lassi Paunonen
 permalink: /authors/lassi-paunonen
 ---

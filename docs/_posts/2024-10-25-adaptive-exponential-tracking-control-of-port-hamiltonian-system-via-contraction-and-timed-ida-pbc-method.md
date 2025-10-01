@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive exponential tracking control of port-Hamiltonian system via contraction and timed IDA-PBC method"
 date: 2024-10-25 00:00:00 +0100
 permalink: adaptive-exponential-tracking-control-of-port-hamiltonian-system-via-contraction-and-timed-ida-pbc-method

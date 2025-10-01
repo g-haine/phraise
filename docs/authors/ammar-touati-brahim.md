@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ammar Touati Brahim
 permalink: /authors/ammar-touati-brahim
 ---

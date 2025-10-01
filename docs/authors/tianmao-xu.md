@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tianmao Xu
 permalink: /authors/tianmao-xu
 ---

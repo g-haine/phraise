@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fixed-time stabilization control for port-Hamiltonian systems"
 date: 2019-04-15 00:00:00 +0100
 permalink: fixed-time-stabilization-control-for-port-hamiltonian-systems

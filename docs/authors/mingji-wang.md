@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mingji Wang
 permalink: /authors/mingji-wang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Joel Ferguson
 permalink: /authors/joel-ferguson
 ---

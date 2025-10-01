@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohamed Becherif
 permalink: /authors/mohamed-becherif
 ---

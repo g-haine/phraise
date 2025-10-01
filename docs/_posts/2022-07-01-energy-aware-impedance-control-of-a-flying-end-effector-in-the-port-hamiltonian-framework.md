@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Aware Impedance Control of a Flying End-Effector in the Port-Hamiltonian Framework"
 date: 2022-07-01 00:00:00 +0100
 permalink: energy-aware-impedance-control-of-a-flying-end-effector-in-the-port-hamiltonian-framework

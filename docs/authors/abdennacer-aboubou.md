@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abdennacer Aboubou
 permalink: /authors/abdennacer-aboubou
 ---

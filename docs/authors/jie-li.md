@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jie Li
 permalink: /authors/jie-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ting Song
 permalink: /authors/ting-song
 ---

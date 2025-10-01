@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stokes-Lagrange and Stokes-Dirac representations of \\\\(  N  \\\\)-dimensional port-Hamiltonian systems for modeling and control"
 date: 2025-05-10 00:00:00 +0100
 permalink: stokes-lagrange-and-stokes-dirac-representations-of-n-dimensional-port-hamiltonian-systems-for-modeling-and-control

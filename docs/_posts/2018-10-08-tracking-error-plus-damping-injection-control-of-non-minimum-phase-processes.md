@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking error plus damping injection control of non-minimum phase processes"
 date: 2018-10-08 00:00:00 +0100
 permalink: tracking-error-plus-damping-injection-control-of-non-minimum-phase-processes

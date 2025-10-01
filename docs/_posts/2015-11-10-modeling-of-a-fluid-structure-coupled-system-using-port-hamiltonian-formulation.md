@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling of a Fluid-structure coupled system using port-Hamiltonian formulation"
 date: 2015-11-10 00:00:00 +0100
 permalink: modeling-of-a-fluid-structure-coupled-system-using-port-hamiltonian-formulation

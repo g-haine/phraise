@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Explicit simplicial discretization of distributed-parameter port-Hamiltonian systems"
 date: 2013-12-17 00:00:00 +0100
 permalink: explicit-simplicial-discretization-of-distributed-parameter-port-hamiltonian-systems

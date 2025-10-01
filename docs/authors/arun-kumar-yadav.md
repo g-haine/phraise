@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arun Kumar Yadav
 permalink: /authors/arun-kumar-yadav
 ---

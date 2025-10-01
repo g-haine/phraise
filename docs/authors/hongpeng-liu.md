@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hongpeng Liu
 permalink: /authors/hongpeng-liu
 ---

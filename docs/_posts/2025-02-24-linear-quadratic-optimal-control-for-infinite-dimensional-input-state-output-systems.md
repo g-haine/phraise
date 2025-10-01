@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear-quadratic optimal control for infinite-dimensional input-state-output systems"
 date: 2025-02-24 00:00:00 +0100
 permalink: linear-quadratic-optimal-control-for-infinite-dimensional-input-state-output-systems

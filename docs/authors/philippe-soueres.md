@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Philippe Soueres
 permalink: /authors/philippe-soueres
 ---

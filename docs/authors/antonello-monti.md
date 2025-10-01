@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antonello Monti
 permalink: /authors/antonello-monti
 ---

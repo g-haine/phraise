@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Conditions for Existence of Equilibria of Systems With Constant Power Loads"
 date: 2014-02-07 00:00:00 +0100
 permalink: conditions-for-existence-of-equilibria-of-systems-with-constant-power-loads

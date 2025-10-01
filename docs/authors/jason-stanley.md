@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jason Stanley
 permalink: /authors/jason-stanley
 ---

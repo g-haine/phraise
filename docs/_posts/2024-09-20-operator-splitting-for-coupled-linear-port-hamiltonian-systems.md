@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Operator splitting for coupled linear port-Hamiltonian systems"
 date: 2024-09-20 00:00:00 +0100
 permalink: operator-splitting-for-coupled-linear-port-hamiltonian-systems

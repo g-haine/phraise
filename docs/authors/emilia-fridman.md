@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Emilia Fridman
 permalink: /authors/emilia-fridman
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection of port‐Hamiltonian systems with port‐Hamiltonian neural networks"
 date: 2024-09-10 00:00:00 +0100
 permalink: interconnection-of-port-hamiltonian-systems-with-port-hamiltonian-neural-networks

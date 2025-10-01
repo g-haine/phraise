@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Boyang Shi
 permalink: /authors/boyang-shi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipative Hamiltonian Realization of Multi-machine Multi-load Power Systems"
 date: 2007-11-29 00:00:00 +0100
 permalink: dissipative-hamiltonian-realization-of-multi-machine-multi-load-power-systems

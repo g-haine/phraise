@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marvin Fritz
 permalink: /authors/marvin-fritz
 ---

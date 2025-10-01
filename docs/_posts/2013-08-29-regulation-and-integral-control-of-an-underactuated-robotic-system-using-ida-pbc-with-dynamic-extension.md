@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Regulation and integral control of an underactuated robotic system using IDA-PBC with dynamic extension"
 date: 2013-08-29 00:00:00 +0100
 permalink: regulation-and-integral-control-of-an-underactuated-robotic-system-using-ida-pbc-with-dynamic-extension

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianxiang Wang
 permalink: /authors/jianxiang-wang
 ---

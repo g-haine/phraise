@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure preserving reduction of port hamiltonian system using a modified LQG method"
 date: 2014-09-26 00:00:00 +0100
 permalink: structure-preserving-reduction-of-port-hamiltonian-system-using-a-modified-lqg-method

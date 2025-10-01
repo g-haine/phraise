@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Internal Model Approach to Implicit Fault Tolerant Control for Port-Hamiltonian Systems"
 date: 2007-10-05 00:00:00 +0100
 permalink: an-internal-model-approach-to-implicit-fault-tolerant-control-for-port-hamiltonian-systems

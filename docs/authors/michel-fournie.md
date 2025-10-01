@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michel Fournié
 permalink: /authors/michel-fournie
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuonan Shang
 permalink: /authors/shuonan-shang
 ---

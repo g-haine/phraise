@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems"
 date: 2018-09-27 00:00:00 +0100
 permalink: linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems

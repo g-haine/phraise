@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PBC Design for Voltage Regulation in Buck Converters with Parametric Uncertainties"
 date: 2019-12-06 00:00:00 +0100
 permalink: pbc-design-for-voltage-regulation-in-buck-converters-with-parametric-uncertainties

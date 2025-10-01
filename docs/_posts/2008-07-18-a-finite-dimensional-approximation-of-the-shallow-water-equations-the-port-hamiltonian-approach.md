@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Finite Dimensional Approximation of the shallow water Equations: The port-Hamiltonian Approach"
 date: 2008-07-18 00:00:00 +0100
 permalink: a-finite-dimensional-approximation-of-the-shallow-water-equations-the-port-hamiltonian-approach

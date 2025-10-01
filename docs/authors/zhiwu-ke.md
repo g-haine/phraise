@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhiwu Ke
 permalink: /authors/zhiwu-ke
 ---

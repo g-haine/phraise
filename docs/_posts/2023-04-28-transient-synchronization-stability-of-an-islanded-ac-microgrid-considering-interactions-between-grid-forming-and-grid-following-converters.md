@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Transient Synchronization Stability of an Islanded AC Microgrid Considering Interactions Between Grid-Forming and Grid-Following Converters"
 date: 2023-04-28 00:00:00 +0100
 permalink: transient-synchronization-stability-of-an-islanded-ac-microgrid-considering-interactions-between-grid-forming-and-grid-following-converters

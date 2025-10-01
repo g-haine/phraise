@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Junyi Li
 permalink: /authors/junyi-li
 ---

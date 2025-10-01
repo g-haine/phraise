@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jochen Merker
 permalink: /authors/jochen-merker
 ---

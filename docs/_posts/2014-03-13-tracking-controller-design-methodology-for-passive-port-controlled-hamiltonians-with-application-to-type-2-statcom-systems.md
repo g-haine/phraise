@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking controller design methodology for passive port-controlled Hamiltonians with application to type-2 STATCOM systems"
 date: 2014-03-13 00:00:00 +0100
 permalink: tracking-controller-design-methodology-for-passive-port-controlled-hamiltonians-with-application-to-type-2-statcom-systems

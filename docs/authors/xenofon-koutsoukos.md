@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xenofon Koutsoukos
 permalink: /authors/xenofon-koutsoukos
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rongjiang Yu
 permalink: /authors/rongjiang-yu
 ---

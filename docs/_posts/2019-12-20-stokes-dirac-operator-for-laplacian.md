@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stokes-Dirac operator for Laplacian"
 date: 2019-12-20 00:00:00 +0100
 permalink: stokes-dirac-operator-for-laplacian

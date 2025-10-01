@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by F. Shi
 permalink: /authors/f-shi
 ---

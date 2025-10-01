@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization via output feedback for a type of uncertain time-varying port-controlled Hamiltonian system based on linear matrix inequality approach"
 date: 2019-07-05 00:00:00 +0100
 permalink: stabilization-via-output-feedback-for-a-type-of-uncertain-time-varying-port-controlled-hamiltonian-system-based-on-linear-matrix-inequality-approach

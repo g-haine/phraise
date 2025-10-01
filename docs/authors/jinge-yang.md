@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinge Yang
 permalink: /authors/jinge-yang
 ---

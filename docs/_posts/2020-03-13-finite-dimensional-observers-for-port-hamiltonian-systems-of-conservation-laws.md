@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-dimensional observers for port-Hamiltonian systems of conservation laws"
 date: 2020-03-13 00:00:00 +0100
 permalink: finite-dimensional-observers-for-port-hamiltonian-systems-of-conservation-laws

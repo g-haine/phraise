@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Faouzi Bacha
 permalink: /authors/faouzi-bacha
 ---

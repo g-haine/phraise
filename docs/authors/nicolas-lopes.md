@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nicolas Lopes
 permalink: /authors/nicolas-lopes
 ---

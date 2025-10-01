@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinghu Wang
 permalink: /authors/xinghu-wang
 ---

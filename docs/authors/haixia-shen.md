@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haixia Shen
 permalink: /authors/haixia-shen
 ---

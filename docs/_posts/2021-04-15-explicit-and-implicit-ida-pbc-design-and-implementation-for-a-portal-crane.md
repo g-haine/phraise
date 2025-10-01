@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Explicit and Implicit IDA-PBC Design and Implementation for a Portal Crane"
 date: 2021-04-15 00:00:00 +0100
 permalink: explicit-and-implicit-ida-pbc-design-and-implementation-for-a-portal-crane

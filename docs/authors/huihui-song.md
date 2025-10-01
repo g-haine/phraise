@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Huihui Song
 permalink: /authors/huihui-song
 ---

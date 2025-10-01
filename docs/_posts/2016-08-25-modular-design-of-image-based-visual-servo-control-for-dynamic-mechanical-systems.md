@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modular Design of Image Based Visual Servo Control for Dynamic Mechanical Systems"
 date: 2016-08-25 00:00:00 +0100
 permalink: modular-design-of-image-based-visual-servo-control-for-dynamic-mechanical-systems

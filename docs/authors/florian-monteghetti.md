@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Florian Monteghetti
 permalink: /authors/florian-monteghetti
 ---

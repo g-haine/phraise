@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Siyi Pang
 permalink: /authors/siyi-pang
 ---

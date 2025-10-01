@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A coupled incompressible SPH-Hamiltonian SPH solver for hydroelastic FSI corresponding to composite structures"
 date: 2021-01-18 00:00:00 +0100
 permalink: a-coupled-incompressible-sph-hamiltonian-sph-solver-for-hydroelastic-fsi-corresponding-to-composite-structures

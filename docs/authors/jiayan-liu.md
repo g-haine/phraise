@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiayan Liu
 permalink: /authors/jiayan-liu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pierre Sicard
 permalink: /authors/pierre-sicard
 ---

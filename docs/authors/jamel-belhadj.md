@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jamel Belhadj
 permalink: /authors/jamel-belhadj
 ---

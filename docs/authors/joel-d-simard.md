@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Joel D. Simard
 permalink: /authors/joel-d-simard
 ---

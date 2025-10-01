@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Moment matching for nonlinear port Hamiltonian and gradient systems"
 date: 2013-09-17 00:00:00 +0100
 permalink: moment-matching-for-nonlinear-port-hamiltonian-and-gradient-systems

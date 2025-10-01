@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Adrian Constantin
 permalink: /authors/adrian-constantin
 ---

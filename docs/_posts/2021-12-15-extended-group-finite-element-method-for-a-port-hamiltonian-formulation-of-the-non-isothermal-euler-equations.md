@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Extended Group Finite Element Method for a port‐Hamiltonian Formulation of the Non‐Isothermal Euler Equations"
 date: 2021-12-15 00:00:00 +0100
 permalink: extended-group-finite-element-method-for-a-port-hamiltonian-formulation-of-the-non-isothermal-euler-equations

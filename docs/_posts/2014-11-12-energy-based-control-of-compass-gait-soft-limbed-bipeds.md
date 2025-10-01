@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy based control of compass gait soft limbed bipeds"
 date: 2014-11-12 00:00:00 +0100
 permalink: energy-based-control-of-compass-gait-soft-limbed-bipeds

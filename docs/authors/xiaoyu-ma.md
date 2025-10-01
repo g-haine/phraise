@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoyu Ma
 permalink: /authors/xiaoyu-ma
 ---

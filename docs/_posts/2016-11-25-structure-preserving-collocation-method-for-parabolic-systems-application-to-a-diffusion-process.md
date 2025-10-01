@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving collocation method for parabolic systems Application to a diffusion Process."
 date: 2016-11-25 00:00:00 +0100
 permalink: structure-preserving-collocation-method-for-parabolic-systems-application-to-a-diffusion-process

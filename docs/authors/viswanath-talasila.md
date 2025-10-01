@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Viswanath Talasila
 permalink: /authors/viswanath-talasila
 ---

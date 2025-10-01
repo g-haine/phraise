@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cecilia Cornejo
 permalink: /authors/cecilia-cornejo
 ---

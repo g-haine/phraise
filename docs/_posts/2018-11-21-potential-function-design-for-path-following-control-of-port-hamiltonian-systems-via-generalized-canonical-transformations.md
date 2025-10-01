@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Potential Function Design for Path Following Control of Port-Hamiltonian Systems via Generalized Canonical Transformations"
 date: 2018-11-21 00:00:00 +0100
 permalink: potential-function-design-for-path-following-control-of-port-hamiltonian-systems-via-generalized-canonical-transformations

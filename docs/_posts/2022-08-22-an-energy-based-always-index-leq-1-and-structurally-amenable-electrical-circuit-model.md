@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Energy-Based, Always Index \\\\( \\leq \\\\) 1 and Structurally Amenable Electrical Circuit Model"
 date: 2022-08-22 00:00:00 +0100
 permalink: an-energy-based-always-index-leq-1-and-structurally-amenable-electrical-circuit-model

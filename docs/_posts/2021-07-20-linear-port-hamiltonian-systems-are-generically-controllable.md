@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear Port-Hamiltonian Systems Are Generically Controllable"
 date: 2021-07-20 00:00:00 +0100
 permalink: linear-port-hamiltonian-systems-are-generically-controllable

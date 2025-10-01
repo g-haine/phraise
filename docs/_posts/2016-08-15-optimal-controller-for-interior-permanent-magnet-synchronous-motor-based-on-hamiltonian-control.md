@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal controller for interior permanent magnet synchronous motor based on hamiltonian control"
 date: 2016-08-15 00:00:00 +0100
 permalink: optimal-controller-for-interior-permanent-magnet-synchronous-motor-based-on-hamiltonian-control

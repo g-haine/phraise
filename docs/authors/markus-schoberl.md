@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Markus Schöberl
 permalink: /authors/markus-schoberl
 ---

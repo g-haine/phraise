@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energetic-Property-Preserving Numerical Schemes for Coupled Natural Systems"
 date: 2020-02-18 00:00:00 +0100
 permalink: energetic-property-preserving-numerical-schemes-for-coupled-natural-systems

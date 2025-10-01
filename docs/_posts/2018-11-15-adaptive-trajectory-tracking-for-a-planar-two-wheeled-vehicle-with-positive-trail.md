@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Trajectory Tracking for a Planar Two-Wheeled Vehicle with Positive Trail"
 date: 2018-11-15 00:00:00 +0100
 permalink: adaptive-trajectory-tracking-for-a-planar-two-wheeled-vehicle-with-positive-trail

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by W. P. Dayawansa
 permalink: /authors/w-p-dayawansa
 ---

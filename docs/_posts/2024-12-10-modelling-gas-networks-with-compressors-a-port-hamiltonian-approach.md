@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling Gas Networks with Compressors: A port‐Hamiltonian Approach"
 date: 2024-12-10 00:00:00 +0100
 permalink: modelling-gas-networks-with-compressors-a-port-hamiltonian-approach

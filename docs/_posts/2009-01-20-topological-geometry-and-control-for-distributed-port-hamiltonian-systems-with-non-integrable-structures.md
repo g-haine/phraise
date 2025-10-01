@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Topological geometry and control for distributed port-Hamiltonian systems with non-integrable structures"
 date: 2009-01-20 00:00:00 +0100
 permalink: topological-geometry-and-control-for-distributed-port-hamiltonian-systems-with-non-integrable-structures

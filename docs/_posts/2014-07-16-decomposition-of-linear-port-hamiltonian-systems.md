@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Decomposition of linear port-Hamiltonian systems"
 date: 2014-07-16 00:00:00 +0100
 permalink: decomposition-of-linear-port-hamiltonian-systems

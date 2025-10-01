@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gabriel A. D. Lopes
 permalink: /authors/gabriel-a-d-lopes
 ---

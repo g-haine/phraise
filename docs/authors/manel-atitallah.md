@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Manel Atitallah
 permalink: /authors/manel-atitallah
 ---

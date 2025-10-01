@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian Properties of DCell Networks"
 date: 2015-04-17 00:00:00 +0100
 permalink: hamiltonian-properties-of-dcell-networks

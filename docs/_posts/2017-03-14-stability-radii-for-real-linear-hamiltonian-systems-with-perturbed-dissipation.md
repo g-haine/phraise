@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability radii for real linear Hamiltonian systems with perturbed dissipation"
 date: 2017-03-14 00:00:00 +0100
 permalink: stability-radii-for-real-linear-hamiltonian-systems-with-perturbed-dissipation

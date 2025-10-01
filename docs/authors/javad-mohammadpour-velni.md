@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Javad Mohammadpour Velni
 permalink: /authors/javad-mohammadpour-velni
 ---

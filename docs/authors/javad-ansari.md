@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Javad Ansari
 permalink: /authors/javad-ansari
 ---

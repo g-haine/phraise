@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chunghun Kim
 permalink: /authors/chunghun-kim
 ---

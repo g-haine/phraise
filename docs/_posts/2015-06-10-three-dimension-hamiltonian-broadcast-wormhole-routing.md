@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Three-Dimension Hamiltonian Broadcast Wormhole-Routing"
 date: 2015-06-10 00:00:00 +0100
 permalink: three-dimension-hamiltonian-broadcast-wormhole-routing

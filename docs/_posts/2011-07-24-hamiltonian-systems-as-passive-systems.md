@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian Systems as Passive Systems"
 date: 2011-07-24 00:00:00 +0100
 permalink: hamiltonian-systems-as-passive-systems

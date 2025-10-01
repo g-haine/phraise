@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuancan Huang
 permalink: /authors/yuancan-huang
 ---

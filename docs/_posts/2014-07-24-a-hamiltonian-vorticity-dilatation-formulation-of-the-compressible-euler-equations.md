@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Hamiltonian vorticity–dilatation formulation of the compressible Euler equations"
 date: 2014-07-24 00:00:00 +0100
 permalink: a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations

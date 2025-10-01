@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nagham Al-Madi
 permalink: /authors/nagham-al-madi
 ---

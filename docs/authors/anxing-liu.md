@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anxing Liu
 permalink: /authors/anxing-liu
 ---

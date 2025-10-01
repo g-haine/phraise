@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Towards more Energy Efficient Pneumatic Soft Actuators using a Port-Hamiltonian Approach"
 date: 2019-05-27 00:00:00 +0100
 permalink: towards-more-energy-efficient-pneumatic-soft-actuators-using-a-port-hamiltonian-approach

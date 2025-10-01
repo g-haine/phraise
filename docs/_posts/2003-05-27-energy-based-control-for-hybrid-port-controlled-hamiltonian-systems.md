@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based control for hybrid port-controlled Hamiltonian systems"
 date: 2003-05-27 00:00:00 +0100
 permalink: energy-based-control-for-hybrid-port-controlled-hamiltonian-systems

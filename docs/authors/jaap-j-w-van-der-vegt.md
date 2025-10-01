@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jaap J. W. van der Vegt
 permalink: /authors/jaap-j-w-van-der-vegt
 ---

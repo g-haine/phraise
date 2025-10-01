@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems"
 date: 2003-06-11 00:00:00 +0100
 permalink: on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems

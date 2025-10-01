@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based feedback control for stochastic port-controlled Hamiltonian systems"
 date: 2018-08-18 00:00:00 +0100
 permalink: energy-based-feedback-control-for-stochastic-port-controlled-hamiltonian-systems

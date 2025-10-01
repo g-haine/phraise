@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cooperative Control of Backstepping Neural Network and Port-Controlled Hamiltonian for Robot System"
 date: 2021-10-08 00:00:00 +0100
 permalink: cooperative-control-of-backstepping-neural-network-and-port-controlled-hamiltonian-for-robot-system

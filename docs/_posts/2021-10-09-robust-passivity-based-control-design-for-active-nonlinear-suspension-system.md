@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust passivity‐based control design for active nonlinear suspension system"
 date: 2021-10-09 00:00:00 +0100
 permalink: robust-passivity-based-control-design-for-active-nonlinear-suspension-system

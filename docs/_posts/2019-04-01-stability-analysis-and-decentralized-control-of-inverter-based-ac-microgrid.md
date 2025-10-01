@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability analysis and decentralized control of inverter-based ac microgrid"
 date: 2019-04-01 00:00:00 +0100
 permalink: stability-analysis-and-decentralized-control-of-inverter-based-ac-microgrid

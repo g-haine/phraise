@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Transparency in port-Hamiltonian based telemanipulation"
 date: 2005-12-10 00:00:00 +0100
 permalink: transparency-in-port-hamiltonian-based-telemanipulation0

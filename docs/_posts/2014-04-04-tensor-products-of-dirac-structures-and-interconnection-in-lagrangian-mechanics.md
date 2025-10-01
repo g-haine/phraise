@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tensor products of Dirac structures and interconnection in Lagrangian mechanics"
 date: 2014-04-04 00:00:00 +0100
 permalink: tensor-products-of-dirac-structures-and-interconnection-in-lagrangian-mechanics

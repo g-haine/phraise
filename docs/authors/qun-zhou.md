@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qun Zhou
 permalink: /authors/qun-zhou
 ---

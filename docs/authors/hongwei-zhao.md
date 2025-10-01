@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hongwei Zhao
 permalink: /authors/hongwei-zhao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marco Encina
 permalink: /authors/marco-encina
 ---

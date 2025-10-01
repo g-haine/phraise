@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A novel port-Hamiltonian framework for clustered tensegrity systems"
 date: 2025-08-19 00:00:00 +0100
 permalink: a-novel-port-hamiltonian-framework-for-clustered-tensegrity-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Roghayeh Gavagsaz-Ghoachani
 permalink: /authors/roghayeh-gavagsaz-ghoachani
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Björn Augner
 permalink: /authors/bjorn-augner
 ---

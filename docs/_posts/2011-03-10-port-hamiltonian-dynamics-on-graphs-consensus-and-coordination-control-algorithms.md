@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Dynamics on Graphs: Consensus and Coordination Control Algorithms"
 date: 2011-03-10 00:00:00 +0100
 permalink: port-hamiltonian-dynamics-on-graphs-consensus-and-coordination-control-algorithms

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yujiao Zhao
 permalink: /authors/yujiao-zhao
 ---

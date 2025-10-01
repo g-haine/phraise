@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control of implicit port-Hamiltonian systems with holonomic constraints"
 date: 2016-05-30 00:00:00 +0100
 permalink: passivity-based-control-of-implicit-port-hamiltonian-systems-with-holonomic-constraints

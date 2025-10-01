@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhongjie Han
 permalink: /authors/zhongjie-han
 ---

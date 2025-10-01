@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eric Bideaux
 permalink: /authors/eric-bideaux
 ---

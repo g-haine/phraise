@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A passivity approach in port-Hamiltonian form for formation control and velocity tracking"
 date: 2022-08-05 00:00:00 +0100
 permalink: a-passivity-approach-in-port-hamiltonian-form-for-formation-control-and-velocity-tracking

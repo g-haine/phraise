@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Interconnection and Damping Assignment Passivity-Based Controller for a DC–DC Boost Converter With a Constant Power Load"
 date: 2013-11-19 00:00:00 +0100
 permalink: an-interconnection-and-damping-assignment-passivity-based-controller-for-a-dc-dc-boost-converter-with-a-constant-power-load

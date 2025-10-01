@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac manifolds"
 date: 2012-06-06 00:00:00 +0100
 permalink: dirac-manifolds

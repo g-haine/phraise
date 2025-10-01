@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "From Dirac structure to state model: identification of linear time-varying port-Hamiltonian systems"
 date: 2020-03-13 00:00:00 +0100
 permalink: from-dirac-structure-to-state-model-identification-of-linear-time-varying-port-hamiltonian-systems

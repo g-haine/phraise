@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Homogeneous Hamiltonian Control Systems Part I: Geometric Formulation"
 date: 2018-06-18 00:00:00 +0100
 permalink: homogeneous-hamiltonian-control-systems-part-i-geometric-formulation

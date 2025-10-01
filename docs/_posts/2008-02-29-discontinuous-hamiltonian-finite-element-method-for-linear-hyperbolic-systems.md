@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discontinuous Hamiltonian Finite Element Method for Linear Hyperbolic Systems"
 date: 2008-02-29 00:00:00 +0100
 permalink: discontinuous-hamiltonian-finite-element-method-for-linear-hyperbolic-systems

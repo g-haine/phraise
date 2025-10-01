@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mastering the complexity of an Ultrasonic Sealing System: The port-Hamiltonian approach"
 date: 2011-04-12 00:00:00 +0100
 permalink: mastering-the-complexity-of-an-ultrasonic-sealing-system-the-port-hamiltonian-approach

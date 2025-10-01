@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olivier Verdier
 permalink: /authors/olivier-verdier
 ---

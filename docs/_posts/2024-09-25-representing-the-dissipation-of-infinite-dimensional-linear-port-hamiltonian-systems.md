@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Representing the dissipation of infinite-dimensional linear port-Hamiltonian systems"
 date: 2024-09-25 00:00:00 +0100
 permalink: representing-the-dissipation-of-infinite-dimensional-linear-port-hamiltonian-systems

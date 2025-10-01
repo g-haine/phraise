@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Output Regulation of Piezoelectric Tube Actuated Flexible Optical Fiber Using the Port Hamiltonian Framework"
 date: 2025-08-29 00:00:00 +0100
 permalink: output-regulation-of-piezoelectric-tube-actuated-flexible-optical-fiber-using-the-port-hamiltonian-framework

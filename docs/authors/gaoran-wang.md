@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gaoran Wang
 permalink: /authors/gaoran-wang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Digital passivity-based control of underactuated mechanical systems"
 date: 2025-01-15 00:00:00 +0100
 permalink: digital-passivity-based-control-of-underactuated-mechanical-systems

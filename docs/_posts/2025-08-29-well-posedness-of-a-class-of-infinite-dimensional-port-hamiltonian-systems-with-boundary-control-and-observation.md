@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation"
 date: 2025-08-29 00:00:00 +0100
 permalink: well-posedness-of-a-class-of-infinite-dimensional-port-hamiltonian-systems-with-boundary-control-and-observation

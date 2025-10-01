@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Javier Caballeria
 permalink: /authors/javier-caballeria
 ---

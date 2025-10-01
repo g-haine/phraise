@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Kleeberger
 permalink: /authors/michael-kleeberger
 ---

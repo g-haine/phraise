@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by B. Bose
 permalink: /authors/b-bose
 ---

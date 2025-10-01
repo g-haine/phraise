@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Davide Fenucci
 permalink: /authors/davide-fenucci
 ---

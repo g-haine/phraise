@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Stability-Guaranteed Variable Admittance Control Architecture for Complex Physical Interaction Tasks With Multiple Scenarios"
 date: 2024-12-19 00:00:00 +0100
 permalink: a-stability-guaranteed-variable-admittance-control-architecture-for-complex-physical-interaction-tasks-with-multiple-scenarios

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Flux weakening speed control of non-salient pole permanent magnet synchronous motor based on PCH and L2 gain"
 date: 2016-08-15 00:00:00 +0100
 permalink: flux-weakening-speed-control-of-non-salient-pole-permanent-magnet-synchronous-motor-based-on-pch-and-l2-gain

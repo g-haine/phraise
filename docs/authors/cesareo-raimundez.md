@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cesáreo Raimúndez
 permalink: /authors/cesareo-raimundez
 ---

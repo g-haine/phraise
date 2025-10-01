@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maarten Steinbuch
 permalink: /authors/maarten-steinbuch
 ---

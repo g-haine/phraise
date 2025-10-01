@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Resilient Angle Stabilization in Converter-Interfaced Microgrids"
 date: 2023-08-01 00:00:00 +0100
 permalink: resilient-angle-stabilization-in-converter-interfaced-microgrids

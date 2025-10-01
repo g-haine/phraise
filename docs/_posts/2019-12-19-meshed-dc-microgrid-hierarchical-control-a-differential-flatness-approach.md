@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Meshed DC microgrid hierarchical control: A differential flatness approach"
 date: 2019-12-19 00:00:00 +0100
 permalink: meshed-dc-microgrid-hierarchical-control-a-differential-flatness-approach

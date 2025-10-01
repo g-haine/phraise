@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Minh Tu Pham
 permalink: /authors/minh-tu-pham
 ---

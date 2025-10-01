@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Control of a Differential Robot"
 date: 2021-11-20 00:00:00 +0100
 permalink: port-hamiltonian-control-of-a-differential-robot

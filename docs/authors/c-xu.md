@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C. Xu
 permalink: /authors/c-xu
 ---

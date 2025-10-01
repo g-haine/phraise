@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Collaborative Control with Nonlinear Observer for the Stability of Electric Vehicles"
 date: 2021-02-10 00:00:00 +0100
 permalink: collaborative-control-with-nonlinear-observer-for-the-stability-of-electric-vehicles

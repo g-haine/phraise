@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Lag-Compensators with Input Saturation for Mechanical Port-Hamiltonian Systems Without Velocity Measurements"
 date: 2021-07-28 00:00:00 +0100
 permalink: passivity-based-lag-compensators-with-input-saturation-for-mechanical-port-hamiltonian-systems-without-velocity-measurements

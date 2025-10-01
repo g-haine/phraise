@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Data-driven port-Hamiltonian structured identification for non-strictly passive systems"
 date: 2023-08-01 00:00:00 +0100
 permalink: data-driven-port-hamiltonian-structured-identification-for-non-strictly-passive-systems

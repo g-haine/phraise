@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alejandro Donaire
 permalink: /authors/alejandro-donaire
 ---

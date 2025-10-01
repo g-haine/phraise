@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of port-controlled Hamiltonian systems via energy balancing"
 date: 2007-11-29 00:00:00 +0100
 permalink: stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing

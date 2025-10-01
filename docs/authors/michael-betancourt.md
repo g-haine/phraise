@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Betancourt
 permalink: /authors/michael-betancourt
 ---

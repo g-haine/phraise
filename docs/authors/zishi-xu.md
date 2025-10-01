@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zishi Xu
 permalink: /authors/zishi-xu
 ---

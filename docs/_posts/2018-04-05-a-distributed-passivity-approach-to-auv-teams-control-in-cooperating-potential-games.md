@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A distributed passivity approach to AUV teams control in cooperating potential games"
 date: 2018-04-05 00:00:00 +0100
 permalink: a-distributed-passivity-approach-to-auv-teams-control-in-cooperating-potential-games

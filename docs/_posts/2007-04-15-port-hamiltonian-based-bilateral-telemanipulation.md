@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Based Bilateral Telemanipulation"
 date: 2007-04-15 00:00:00 +0100
 permalink: port-hamiltonian-based-bilateral-telemanipulation

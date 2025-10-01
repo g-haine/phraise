@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Differential–algebraic systems with dissipative Hamiltonian structure"
 date: 2023-03-03 00:00:00 +0100
 permalink: differential-algebraic-systems-with-dissipative-hamiltonian-structure

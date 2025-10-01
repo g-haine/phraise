@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On path following control of nonholonomic port-Hamiltonian systems via generalized canonical transformations"
 date: 2019-12-20 00:00:00 +0100
 permalink: on-path-following-control-of-nonholonomic-port-hamiltonian-systems-via-generalized-canonical-transformations

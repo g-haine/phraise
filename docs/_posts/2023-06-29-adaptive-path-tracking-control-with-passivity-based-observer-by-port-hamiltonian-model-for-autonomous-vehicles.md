@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Path-Tracking Control With Passivity-Based Observer by Port-Hamiltonian Model for Autonomous Vehicles"
 date: 2023-06-29 00:00:00 +0100
 permalink: adaptive-path-tracking-control-with-passivity-based-observer-by-port-hamiltonian-model-for-autonomous-vehicles

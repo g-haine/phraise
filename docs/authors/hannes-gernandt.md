@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hannes Gernandt
 permalink: /authors/hannes-gernandt
 ---

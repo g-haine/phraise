@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nguyen Tien Dzung
 permalink: /authors/nguyen-tien-dzung
 ---

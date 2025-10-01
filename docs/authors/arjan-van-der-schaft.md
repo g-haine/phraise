@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arjan J. van der Schaft
 permalink: /authors/arjan-van-der-schaft
 ---

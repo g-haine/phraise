@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dmitry Pitsun
 permalink: /authors/dmitry-pitsun
 ---

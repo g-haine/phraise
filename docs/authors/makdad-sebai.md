@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Makdad Sebaï
 permalink: /authors/makdad-sebai
 ---

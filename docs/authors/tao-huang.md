@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tao Huang
 permalink: /authors/tao-huang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-Posedness and Stability of Infinite-Dimensional Linear Port-Hamiltonian Systems with Nonlinear Boundary Feedback"
 date: 2019-05-28 00:00:00 +0100
 permalink: well-posedness-and-stability-of-infinite-dimensional-linear-port-hamiltonian-systems-with-nonlinear-boundary-feedback

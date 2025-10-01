@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Rao
 permalink: /authors/s-rao
 ---

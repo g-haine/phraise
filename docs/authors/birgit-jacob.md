@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Birgit Jacob
 permalink: /authors/birgit-jacob
 ---

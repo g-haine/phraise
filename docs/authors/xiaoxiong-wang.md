@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoxiong Wang
 permalink: /authors/xiaoxiong-wang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Stability Analysis Based on Dissipativity of Linear and Nonlinear Repetitive Control"
 date: 2019-08-23 00:00:00 +0100
 permalink: a-stability-analysis-based-on-dissipativity-of-linear-and-nonlinear-repetitive-control

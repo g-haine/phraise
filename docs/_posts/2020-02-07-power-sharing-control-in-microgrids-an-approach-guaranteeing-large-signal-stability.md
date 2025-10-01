@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power Sharing Control in Microgrids - an Approach Guaranteeing Large Signal Stability"
 date: 2020-02-07 00:00:00 +0100
 permalink: power-sharing-control-in-microgrids-an-approach-guaranteeing-large-signal-stability

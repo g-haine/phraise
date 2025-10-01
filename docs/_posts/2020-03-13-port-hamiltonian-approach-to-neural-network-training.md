@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port–Hamiltonian Approach to Neural Network Training"
 date: 2020-03-13 00:00:00 +0100
 permalink: port-hamiltonian-approach-to-neural-network-training

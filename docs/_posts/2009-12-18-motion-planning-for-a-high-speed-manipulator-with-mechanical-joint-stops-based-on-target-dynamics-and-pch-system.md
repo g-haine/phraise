@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Motion planning for a high-speed manipulator with mechanical joint stops based on target dynamics and PCH system"
 date: 2009-12-18 00:00:00 +0100
 permalink: motion-planning-for-a-high-speed-manipulator-with-mechanical-joint-stops-based-on-target-dynamics-and-pch-system

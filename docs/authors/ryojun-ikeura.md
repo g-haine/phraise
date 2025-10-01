@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ryojun Ikeura
 permalink: /authors/ryojun-ikeura
 ---

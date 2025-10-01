@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Y. Ayad
 permalink: /authors/m-y-ayad
 ---

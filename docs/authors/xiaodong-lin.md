@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaodong Lin
 permalink: /authors/xiaodong-lin
 ---

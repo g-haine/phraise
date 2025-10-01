@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Omar R. Gómez-Gómez
 permalink: /authors/omar-r-gomez-gomez
 ---

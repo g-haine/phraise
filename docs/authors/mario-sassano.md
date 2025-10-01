@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mario Sassano
 permalink: /authors/mario-sassano
 ---

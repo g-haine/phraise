@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hans Zwart
 permalink: /authors/hans-zwart
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Junshi Chen
 permalink: /authors/junshi-chen
 ---

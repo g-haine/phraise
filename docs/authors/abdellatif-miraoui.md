@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abdellatif Miraoui
 permalink: /authors/abdellatif-miraoui
 ---

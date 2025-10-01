@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Richard H. Middleton
 permalink: /authors/richard-h-middleton
 ---

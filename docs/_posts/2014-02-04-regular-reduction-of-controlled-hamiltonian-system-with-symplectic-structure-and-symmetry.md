@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Regular reduction of controlled Hamiltonian system with symplectic structure and symmetry"
 date: 2014-02-04 00:00:00 +0100
 permalink: regular-reduction-of-controlled-hamiltonian-system-with-symplectic-structure-and-symmetry

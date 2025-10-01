@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jing Yan
 permalink: /authors/jing-yan
 ---

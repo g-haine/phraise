@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A privacy preserving distributed controller for the general formation of multi-agent systems in port-Hamiltonian form"
 date: 2025-06-19 00:00:00 +0100
 permalink: a-privacy-preserving-distributed-controller-for-the-general-formation-of-multi-agent-systems-in-port-hamiltonian-form

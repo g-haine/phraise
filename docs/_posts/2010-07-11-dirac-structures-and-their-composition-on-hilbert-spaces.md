@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac structures and their composition on Hilbert spaces"
 date: 2010-07-11 00:00:00 +0100
 permalink: dirac-structures-and-their-composition-on-hilbert-spaces

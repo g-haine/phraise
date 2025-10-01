@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perspectives in modeling for control of power networks"
 date: 2016-05-11 00:00:00 +0100
 permalink: perspectives-in-modeling-for-control-of-power-networks

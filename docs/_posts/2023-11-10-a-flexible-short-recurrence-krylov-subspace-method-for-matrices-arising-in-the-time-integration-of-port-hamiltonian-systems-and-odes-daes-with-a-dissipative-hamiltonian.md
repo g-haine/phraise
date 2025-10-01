@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A flexible short recurrence Krylov subspace method for matrices arising in the time integration of port-Hamiltonian systems and ODEs/DAEs with a dissipative Hamiltonian"
 date: 2023-11-10 00:00:00 +0100
 permalink: a-flexible-short-recurrence-krylov-subspace-method-for-matrices-arising-in-the-time-integration-of-port-hamiltonian-systems-and-odes-daes-with-a-dissipative-hamiltonian

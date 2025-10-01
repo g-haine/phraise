@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A-D. Bensalah
 permalink: /authors/a-d-bensalah
 ---

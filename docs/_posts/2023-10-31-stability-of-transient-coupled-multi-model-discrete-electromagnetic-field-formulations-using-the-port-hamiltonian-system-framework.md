@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability of Transient Coupled Multi-Model Discrete Electromagnetic Field Formulations Using the Port-Hamiltonian System Framework"
 date: 2023-10-31 00:00:00 +0100
 permalink: stability-of-transient-coupled-multi-model-discrete-electromagnetic-field-formulations-using-the-port-hamiltonian-system-framework

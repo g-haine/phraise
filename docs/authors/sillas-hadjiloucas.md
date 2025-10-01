@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sillas Hadjiloucas
 permalink: /authors/sillas-hadjiloucas
 ---

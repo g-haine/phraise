@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive parallel simultaneous stabilization of a set of uncertain port‐controlled hamiltonian systems subject to actuator saturation"
 date: 2013-10-08 00:00:00 +0100
 permalink: adaptive-parallel-simultaneous-stabilization-of-a-set-of-uncertain-port-controlled-hamiltonian-systems-subject-to-actuator-saturation

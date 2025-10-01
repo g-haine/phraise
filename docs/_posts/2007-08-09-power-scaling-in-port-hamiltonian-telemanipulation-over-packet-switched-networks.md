@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power Scaling in Port-Hamiltonian Telemanipulation over Packet Switched Networks"
 date: 2007-08-09 00:00:00 +0100
 permalink: power-scaling-in-port-hamiltonian-telemanipulation-over-packet-switched-networks

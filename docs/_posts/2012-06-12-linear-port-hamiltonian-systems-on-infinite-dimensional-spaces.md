@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces"
 date: 2012-06-12 00:00:00 +0100
 permalink: linear-port-hamiltonian-systems-on-infinite-dimensional-spaces

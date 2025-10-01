@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuto Osawa
 permalink: /authors/shuto-osawa
 ---

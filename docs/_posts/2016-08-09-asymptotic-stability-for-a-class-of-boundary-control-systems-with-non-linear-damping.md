@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic stability for a class of boundary control systems with non-linear damping"
 date: 2016-08-09 00:00:00 +0100
 permalink: asymptotic-stability-for-a-class-of-boundary-control-systems-with-non-linear-damping

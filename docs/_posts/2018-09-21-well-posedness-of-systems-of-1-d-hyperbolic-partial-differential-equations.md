@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-posedness of systems of 1-D hyperbolic partial differential equations"
 date: 2018-09-21 00:00:00 +0100
 permalink: well-posedness-of-systems-of-1-d-hyperbolic-partial-differential-equations

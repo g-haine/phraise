@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bernhard Maschke
 permalink: /authors/bernhard-maschke
 ---

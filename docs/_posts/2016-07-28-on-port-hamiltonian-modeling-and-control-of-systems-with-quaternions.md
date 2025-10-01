@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Port-Hamiltonian Modeling and Control of Systems with Quaternions"
 date: 2016-07-28 00:00:00 +0100
 permalink: on-port-hamiltonian-modeling-and-control-of-systems-with-quaternions

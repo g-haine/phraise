@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory control of an elastic beam based on port-Hamiltonian numerical models"
 date: 2021-05-27 00:00:00 +0100
 permalink: trajectory-control-of-an-elastic-beam-based-on-port-hamiltonian-numerical-models

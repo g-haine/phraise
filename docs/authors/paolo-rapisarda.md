@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paolo Rapisarda
 permalink: /authors/paolo-rapisarda
 ---

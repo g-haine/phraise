@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Naohiro Toda
 permalink: /authors/naohiro-toda
 ---

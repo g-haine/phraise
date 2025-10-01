@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peter Zoller
 permalink: /authors/peter-zoller
 ---

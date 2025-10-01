@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Finite‐Time Robust Control of Nonlinear Delay Hamiltonian Systems Via Lyapunov‐Krasovskii Method"
 date: 2017-06-29 00:00:00 +0100
 permalink: adaptive-finite-time-robust-control-of-nonlinear-delay-hamiltonian-systems-via-lyapunov-krasovskii-method

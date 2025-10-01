@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhikang Ge
 permalink: /authors/zhikang-ge
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jumei Wei
 permalink: /authors/jumei-wei
 ---

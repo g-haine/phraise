@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michel Verhaegen
 permalink: /authors/michel-verhaegen
 ---

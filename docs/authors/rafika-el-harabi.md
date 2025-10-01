@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rafika El Harabi
 permalink: /authors/rafika-el-harabi
 ---

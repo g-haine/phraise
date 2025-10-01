@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Semi-discrete entropy-preserving surface reconstruction schemes for the shallow water equations: Analysis of physical structures"
 date: 2024-04-06 00:00:00 +0100
 permalink: semi-discrete-entropy-preserving-surface-reconstruction-schemes-for-the-shallow-water-equations-analysis-of-physical-structures

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sriram Karthik Gurumurthy
 permalink: /authors/sriram-karthik-gurumurthy
 ---

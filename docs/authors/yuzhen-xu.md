@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuzhen Xu
 permalink: /authors/yuzhen-xu
 ---

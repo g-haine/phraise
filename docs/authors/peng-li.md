@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peng Li
 permalink: /authors/peng-li
 ---

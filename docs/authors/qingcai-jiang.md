@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingcai Jiang
 permalink: /authors/qingcai-jiang
 ---

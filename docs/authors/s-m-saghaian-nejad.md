@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S.M. Saghaian-Nejad
 permalink: /authors/s-m-saghaian-nejad
 ---

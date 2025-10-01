@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lei Li
 permalink: /authors/lei-li
 ---

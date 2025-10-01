@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bastian Biedermann
 permalink: /authors/bastian-biedermann
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andreas Frommer
 permalink: /authors/andreas-frommer
 ---

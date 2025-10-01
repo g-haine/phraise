@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on a Nonlinear Control Strategy for Three-Phase Voltage Sources PWM Rectifier with Resistive and Inductive Load"
 date: 2013-12-13 00:00:00 +0100
 permalink: research-on-a-nonlinear-control-strategy-for-three-phase-voltage-sources-pwm-rectifier-with-resistive-and-inductive-load

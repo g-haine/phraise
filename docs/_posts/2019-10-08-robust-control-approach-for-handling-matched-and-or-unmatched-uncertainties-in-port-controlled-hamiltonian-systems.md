@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust control approach for handling matched and/or unmatched uncertainties in port‐controlled Hamiltonian systems"
 date: 2019-10-08 00:00:00 +0100
 permalink: robust-control-approach-for-handling-matched-and-or-unmatched-uncertainties-in-port-controlled-hamiltonian-systems

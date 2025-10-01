@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Homayon Soltani Gohari
 permalink: /authors/homayon-soltani-gohari
 ---

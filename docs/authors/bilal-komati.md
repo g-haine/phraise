@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bilal Komati
 permalink: /authors/bilal-komati
 ---

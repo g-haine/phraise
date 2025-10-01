@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shengwei Mei
 permalink: /authors/shengwei-mei
 ---

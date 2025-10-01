@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Local linear dynamics assignment in IDA-PBC"
 date: 2013-02-22 00:00:00 +0100
 permalink: local-linear-dynamics-assignment-in-ida-pbc

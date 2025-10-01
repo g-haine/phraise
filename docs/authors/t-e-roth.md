@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T. E. Roth
 permalink: /authors/t-e-roth
 ---

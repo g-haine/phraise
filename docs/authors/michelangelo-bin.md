@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michelangelo Bin
 permalink: /authors/michelangelo-bin
 ---

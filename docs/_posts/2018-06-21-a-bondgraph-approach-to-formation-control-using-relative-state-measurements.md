@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A bondgraph approach to formation control using relative state measurements"
 date: 2018-06-21 00:00:00 +0100
 permalink: a-bondgraph-approach-to-formation-control-using-relative-state-measurements

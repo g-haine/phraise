@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure‐preserving interval‐limited balanced truncation reduced models for port‐Hamiltonian systems"
 date: 2019-10-30 00:00:00 +0100
 permalink: structure-preserving-interval-limited-balanced-truncation-reduced-models-for-port-hamiltonian-systems

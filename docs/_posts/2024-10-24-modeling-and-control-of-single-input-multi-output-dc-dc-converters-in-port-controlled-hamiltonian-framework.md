@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Control of Single-Input, Multi-Output DC-DC Converters in Port-Controlled Hamiltonian Framework"
 date: 2024-10-24 00:00:00 +0100
 permalink: modeling-and-control-of-single-input-multi-output-dc-dc-converters-in-port-controlled-hamiltonian-framework

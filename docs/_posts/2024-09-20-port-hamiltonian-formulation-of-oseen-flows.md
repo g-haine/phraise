@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Formulation of Oseen Flows"
 date: 2024-09-20 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-oseen-flows

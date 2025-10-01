@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrea Siniscalco
 permalink: /authors/andrea-siniscalco
 ---

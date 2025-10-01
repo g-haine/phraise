@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Parra-Rodriguez
 permalink: /authors/a-parra-rodriguez
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking considering model uncertainty with interconnection and damping assignment passivity-based control for electro-hydraulic servo systems"
 date: 2025-03-06 00:00:00 +0100
 permalink: trajectory-tracking-considering-model-uncertainty-with-interconnection-and-damping-assignment-passivity-based-control-for-electro-hydraulic-servo-systems

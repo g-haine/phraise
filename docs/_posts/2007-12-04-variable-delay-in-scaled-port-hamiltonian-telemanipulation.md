@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Variable delay in scaled port-Hamiltonian telemanipulation"
 date: 2007-12-04 00:00:00 +0100
 permalink: variable-delay-in-scaled-port-hamiltonian-telemanipulation

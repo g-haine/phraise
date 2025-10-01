@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Efficiency Optimization Strategy of Permanent Magnet Synchronous Motor for Electric Vehicles Based on Energy Balance"
 date: 2022-01-17 00:00:00 +0100
 permalink: efficiency-optimization-strategy-of-permanent-magnet-synchronous-motor-for-electric-vehicles-based-on-energy-balance

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Physical Modeling and Port-Hamiltonian Systems"
 date: 2007-04-15 00:00:00 +0100
 permalink: physical-modeling-and-port-hamiltonian-systems

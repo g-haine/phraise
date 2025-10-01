@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sarah-Alexa Hauschild
 permalink: /authors/sarah-alexa-hauschild
 ---

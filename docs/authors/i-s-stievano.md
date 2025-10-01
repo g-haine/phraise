@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by I. S. Stievano
 permalink: /authors/i-s-stievano
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Israa Badr Nasser Al-Mashhadani
 permalink: /authors/israa-badr-nasser-al-mashhadani
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Masoud Shahabadini
 permalink: /authors/masoud-shahabadini
 ---

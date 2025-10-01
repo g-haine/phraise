@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear control of a subscale submarine in emergency ascent"
 date: 2018-12-22 00:00:00 +0100
 permalink: nonlinear-control-of-a-subscale-submarine-in-emergency-ascent

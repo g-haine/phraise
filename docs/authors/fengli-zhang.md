@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fengli Zhang
 permalink: /authors/fengli-zhang
 ---

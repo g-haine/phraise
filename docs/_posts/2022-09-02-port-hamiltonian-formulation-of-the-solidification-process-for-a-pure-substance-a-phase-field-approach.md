@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Hamiltonian formulation of the solidification process for a pure substance: A phase field approach"
 date: 2022-09-02 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-the-solidification-process-for-a-pure-substance-a-phase-field-approach

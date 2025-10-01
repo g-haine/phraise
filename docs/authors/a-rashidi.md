@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Rashidi
 permalink: /authors/a-rashidi
 ---

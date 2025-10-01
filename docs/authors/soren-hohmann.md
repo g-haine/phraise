@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sören Hohmann
 permalink: /authors/soren-hohmann
 ---

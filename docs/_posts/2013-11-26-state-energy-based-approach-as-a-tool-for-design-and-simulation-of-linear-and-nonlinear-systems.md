@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "State Energy-Based Approach as a Tool for Design and Simulation of Linear and Nonlinear Systems"
 date: 2013-11-26 00:00:00 +0100
 permalink: state-energy-based-approach-as-a-tool-for-design-and-simulation-of-linear-and-nonlinear-systems

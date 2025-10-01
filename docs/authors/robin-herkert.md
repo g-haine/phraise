@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Robin Herkert
 permalink: /authors/robin-herkert
 ---

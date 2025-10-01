@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems"
 date: 2018-02-08 00:00:00 +0100
 permalink: weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems

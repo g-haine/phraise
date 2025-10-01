@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bond graph model-based for IDA-PBC"
 date: 2016-10-20 00:00:00 +0100
 permalink: bond-graph-model-based-for-ida-pbc

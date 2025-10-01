@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New Energy-based Nonlinear Controller for Hydraulic Piston Actuators"
 date: 2007-06-14 00:00:00 +0100
 permalink: new-energy-based-nonlinear-controller-for-hydraulic-piston-actuators

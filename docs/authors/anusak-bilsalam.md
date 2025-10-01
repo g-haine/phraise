@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anusak Bilsalam
 permalink: /authors/anusak-bilsalam
 ---

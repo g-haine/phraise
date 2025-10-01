@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Disturbance rejection for a rotating flexible spacecraft: a port-Hamiltonian approach"
 date: 2018-06-18 00:00:00 +0100
 permalink: disturbance-rejection-for-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach

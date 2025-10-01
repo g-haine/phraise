@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Congcong Nie
 permalink: /authors/congcong-nie
 ---

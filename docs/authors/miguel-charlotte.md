@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Miguel Charlotte
 permalink: /authors/miguel-charlotte
 ---

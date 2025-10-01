@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wade Foster
 permalink: /authors/wade-foster
 ---

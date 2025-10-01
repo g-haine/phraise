@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander Volf
 permalink: /authors/alexander-volf
 ---

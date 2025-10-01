@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian system: structure recognition and applications"
 date: 2024-08-29 00:00:00 +0100
 permalink: port-hamiltonian-system-structure-recognition-and-applications

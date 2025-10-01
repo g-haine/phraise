@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity based trajectory tracking control with predefined local linear error dynamics"
 date: 2014-07-16 00:00:00 +0100
 permalink: passivity-based-trajectory-tracking-control-with-predefined-local-linear-error-dynamics

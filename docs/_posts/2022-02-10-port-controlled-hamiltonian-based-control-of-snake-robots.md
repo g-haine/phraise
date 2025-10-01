@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-controlled Hamiltonian based control of snake robots"
 date: 2022-02-10 00:00:00 +0100
 permalink: port-controlled-hamiltonian-based-control-of-snake-robots

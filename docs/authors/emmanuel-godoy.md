@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Emmanuel Godoy
 permalink: /authors/emmanuel-godoy
 ---

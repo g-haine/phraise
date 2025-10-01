@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Thermodynamically Consistent Port-Hamiltonian Model for Dielectric Elastomer Membrane Actuators and Generators"
 date: 2017-10-19 00:00:00 +0100
 permalink: a-thermodynamically-consistent-port-hamiltonian-model-for-dielectric-elastomer-membrane-actuators-and-generators

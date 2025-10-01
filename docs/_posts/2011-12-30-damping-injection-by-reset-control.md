@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Damping Injection by Reset Control"
 date: 2011-12-30 00:00:00 +0100
 permalink: damping-injection-by-reset-control

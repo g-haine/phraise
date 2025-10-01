@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nikhil V. Divekar
 permalink: /authors/nikhil-v-divekar
 ---

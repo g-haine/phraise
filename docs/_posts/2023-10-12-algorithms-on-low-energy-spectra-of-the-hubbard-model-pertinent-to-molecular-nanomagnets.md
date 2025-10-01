@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Algorithms on low energy spectra of the Hubbard model pertinent to molecular nanomagnets"
 date: 2023-10-12 00:00:00 +0100
 permalink: algorithms-on-low-energy-spectra-of-the-hubbard-model-pertinent-to-molecular-nanomagnets

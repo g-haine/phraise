@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by V. Salnikov
 permalink: /authors/v-salnikov
 ---

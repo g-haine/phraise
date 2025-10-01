@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Task Assignment and Trajectory Planning in Dynamic environments for Multiple Vehicles"
 date: 2025-02-20 00:00:00 +0100
 permalink: task-assignment-and-trajectory-planning-in-dynamic-environments-for-multiple-vehicles

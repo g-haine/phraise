@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Unstable Distributed Port-Hamiltonian Systems in Scattering Form"
 date: 2022-06-14 00:00:00 +0100
 permalink: stabilization-of-unstable-distributed-port-hamiltonian-systems-in-scattering-form

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yoshiyuki Egami
 permalink: /authors/yoshiyuki-egami
 ---

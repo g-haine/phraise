@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control Applied of a Reaction Wheel Pendulum: an IDA-PBC Approach"
 date: 2020-04-07 00:00:00 +0100
 permalink: passivity-based-control-applied-of-a-reaction-wheel-pendulum-an-ida-pbc-approach

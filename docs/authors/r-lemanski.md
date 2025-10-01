@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. Lemański
 permalink: /authors/r-lemanski
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. Mendez
 permalink: /authors/j-mendez
 ---

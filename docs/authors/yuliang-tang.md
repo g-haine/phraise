@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuliang Tang
 permalink: /authors/yuliang-tang
 ---

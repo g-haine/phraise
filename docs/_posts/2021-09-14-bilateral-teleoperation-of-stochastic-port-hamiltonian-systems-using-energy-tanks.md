@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bilateral teleoperation of stochastic port‐Hamiltonian systems using energy tanks"
 date: 2021-09-14 00:00:00 +0100
 permalink: bilateral-teleoperation-of-stochastic-port-hamiltonian-systems-using-energy-tanks

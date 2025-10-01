@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan C. Martinez
 permalink: /authors/juan-c-martinez
 ---

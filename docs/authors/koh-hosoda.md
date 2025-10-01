@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Koh Hosoda
 permalink: /authors/koh-hosoda
 ---

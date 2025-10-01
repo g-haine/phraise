@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Deep learning-enhanced quantum optimization for integrated job scheduling in container terminals"
 date: 2025-03-03 00:00:00 +0100
 permalink: deep-learning-enhanced-quantum-optimization-for-integrated-job-scheduling-in-container-terminals

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete port-Hamiltonian systems"
 date: 2005-12-08 00:00:00 +0100
 permalink: discrete-port-hamiltonian-systems

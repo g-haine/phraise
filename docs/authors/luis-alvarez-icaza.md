@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luis Alvarez-Icaza
 permalink: /authors/luis-alvarez-icaza
 ---

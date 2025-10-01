@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tao Zhang
 permalink: /authors/tao-zhang
 ---

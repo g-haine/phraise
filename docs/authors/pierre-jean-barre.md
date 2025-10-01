@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pierre-Jean Barre
 permalink: /authors/pierre-jean-barre
 ---

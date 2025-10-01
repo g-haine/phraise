@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Rashba effect within the coherent scattering formalism"
 date: 2002-10-31 00:00:00 +0100
 permalink: rashba-effect-within-the-coherent-scattering-formalism

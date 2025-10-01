@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Judy Najnudel
 permalink: /authors/judy-najnudel
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic Stabilisation of Distributed Port-Hamiltonian Systems by Boundary Energy-Shaping Control"
 date: 2015-06-17 00:00:00 +0100
 permalink: asymptotic-stabilisation-of-distributed-port-hamiltonian-systems-by-boundary-energy-shaping-control

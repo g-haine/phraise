@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the velocity-stress formulation for geometrically nonlinear elastodynamics and its structure-preserving discretization"
 date: 2024-11-07 00:00:00 +0100
 permalink: on-the-velocity-stress-formulation-for-geometrically-nonlinear-elastodynamics-and-its-structure-preserving-discretization

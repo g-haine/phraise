@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A segmented model based fuel delivery control of PEM fuel cells: A port-Hamiltonian approach"
 date: 2024-08-05 00:00:00 +0100
 permalink: a-segmented-model-based-fuel-delivery-control-of-pem-fuel-cells-a-port-hamiltonian-approach

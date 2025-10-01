@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Disturbance Structure Decomposition for Distributed Parameter port-Hamiltonian Systems"
 date: 2014-11-17 00:00:00 +0100
 permalink: disturbance-structure-decomposition-for-distributed-parameter-port-hamiltonian-systems0

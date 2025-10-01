@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based Modeling and Control of a Piezotube Actuated Optical Fiber"
 date: 2022-08-26 00:00:00 +0100
 permalink: energy-based-modeling-and-control-of-a-piezotube-actuated-optical-fiber

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H. Z. Shen
 permalink: /authors/h-z-shen
 ---

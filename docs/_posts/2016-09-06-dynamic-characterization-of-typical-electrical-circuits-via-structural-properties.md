@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic Characterization of Typical Electrical Circuits via Structural Properties"
 date: 2016-09-06 00:00:00 +0100
 permalink: dynamic-characterization-of-typical-electrical-circuits-via-structural-properties

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Takashi Hikihara
 permalink: /authors/takashi-hikihara
 ---

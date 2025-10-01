@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian, Index \\\\( \\le 1 \\\\), Structurally Amenable Electrical Circuit Formulation"
 date: 2024-02-29 00:00:00 +0100
 permalink: a-port-hamiltonian-index-le-1-structurally-amenable-electrical-circuit-formulation

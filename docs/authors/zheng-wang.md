@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zheng Wang
 permalink: /authors/zheng-wang
 ---

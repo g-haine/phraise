@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian perspective on compartmental reaction–diffusion networks"
 date: 2014-01-03 00:00:00 +0100
 permalink: hamiltonian-perspective-on-compartmental-reaction-diffusion-networks

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xu Bo
 permalink: /authors/xu-bo
 ---

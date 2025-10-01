@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peng Wang
 permalink: /authors/peng-wang
 ---

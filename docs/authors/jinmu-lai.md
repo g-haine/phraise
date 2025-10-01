@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinmu Lai
 permalink: /authors/jinmu-lai
 ---

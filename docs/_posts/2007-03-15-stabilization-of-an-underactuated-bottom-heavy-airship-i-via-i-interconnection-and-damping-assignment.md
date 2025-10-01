@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of an underactuated bottom‐heavy airship<i>via</i>interconnection and damping assignment"
 date: 2007-03-15 00:00:00 +0100
 permalink: stabilization-of-an-underactuated-bottom-heavy-airship-i-via-i-interconnection-and-damping-assignment

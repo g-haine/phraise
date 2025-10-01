@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Feng Jiao Zhao
 permalink: /authors/feng-jiao-zhao
 ---

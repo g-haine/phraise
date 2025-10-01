@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Simple Robust Controller for Port–Hamiltonian Systems"
 date: 2018-06-18 00:00:00 +0100
 permalink: a-simple-robust-controller-for-port-hamiltonian-systems

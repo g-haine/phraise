@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Harry M. Quiney
 permalink: /authors/harry-m-quiney
 ---

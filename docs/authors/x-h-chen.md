@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by X H Chen
 permalink: /authors/x-h-chen
 ---

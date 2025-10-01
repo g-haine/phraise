@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Control of Multiphase Interleaved Fuel-Cell Boost Converter Based on Hamiltonian Control Theory for Transportation Applications"
 date: 2020-03-11 00:00:00 +0100
 permalink: modeling-and-control-of-multiphase-interleaved-fuel-cell-boost-converter-based-on-hamiltonian-control-theory-for-transportation-applications

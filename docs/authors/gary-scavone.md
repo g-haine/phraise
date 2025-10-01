@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gary Scavone
 permalink: /authors/gary-scavone
 ---

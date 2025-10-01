@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port - Hamiltonian Modelling and Control of Single Phase DAB Based MVDC Shipboard Power System"
 date: 2019-01-18 00:00:00 +0100
 permalink: port-hamiltonian-modelling-and-control-of-single-phase-dab-based-mvdc-shipboard-power-system

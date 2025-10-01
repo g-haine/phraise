@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reciprocity of Nonlinear Systems"
 date: 2024-11-08 00:00:00 +0100
 permalink: reciprocity-of-nonlinear-systems

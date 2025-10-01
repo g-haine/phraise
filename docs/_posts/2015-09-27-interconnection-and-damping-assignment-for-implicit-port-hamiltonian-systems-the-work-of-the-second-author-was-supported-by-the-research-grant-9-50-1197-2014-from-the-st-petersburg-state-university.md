@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and damping assignment for implicit port-Hamiltonian systems∗∗The work of the second author was supported by the research grant 9.50.1197.2014 from the St. Petersburg State University."
 date: 2015-09-27 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-for-implicit-port-hamiltonian-systems-the-work-of-the-second-author-was-supported-by-the-research-grant-9-50-1197-2014-from-the-st-petersburg-state-university

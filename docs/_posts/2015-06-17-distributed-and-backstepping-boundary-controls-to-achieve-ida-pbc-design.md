@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed and backstepping boundary controls to achieve IDA-PBC design"
 date: 2015-06-17 00:00:00 +0100
 permalink: distributed-and-backstepping-boundary-controls-to-achieve-ida-pbc-design

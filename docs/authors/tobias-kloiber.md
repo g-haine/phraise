@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tobias Kloiber
 permalink: /authors/tobias-kloiber
 ---

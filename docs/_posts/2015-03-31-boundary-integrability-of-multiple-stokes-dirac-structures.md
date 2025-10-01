@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary Integrability of Multiple Stokes--Dirac Structures"
 date: 2015-03-31 00:00:00 +0100
 permalink: boundary-integrability-of-multiple-stokes-dirac-structures

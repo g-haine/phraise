@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Simon Byrne
 permalink: /authors/simon-byrne
 ---

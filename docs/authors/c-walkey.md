@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C. Walkey
 permalink: /authors/c-walkey
 ---

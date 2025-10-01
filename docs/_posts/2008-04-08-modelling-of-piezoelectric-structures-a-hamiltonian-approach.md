@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling of piezoelectric structures–a Hamiltonian approach"
 date: 2008-04-08 00:00:00 +0100
 permalink: modelling-of-piezoelectric-structures-a-hamiltonian-approach

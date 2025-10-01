@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Robert Mahony
 permalink: /authors/robert-mahony
 ---

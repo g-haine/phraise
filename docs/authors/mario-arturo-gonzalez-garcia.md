@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mario Arturo Gonzalez-Garcia
 permalink: /authors/mario-arturo-gonzalez-garcia
 ---

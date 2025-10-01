@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiang Shao
 permalink: /authors/jiang-shao
 ---

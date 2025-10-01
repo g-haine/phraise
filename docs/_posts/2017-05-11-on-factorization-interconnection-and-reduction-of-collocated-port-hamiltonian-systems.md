@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Factorization, Interconnection and Reduction of Collocated Port-Hamiltonian Systems"
 date: 2017-05-11 00:00:00 +0100
 permalink: on-factorization-interconnection-and-reduction-of-collocated-port-hamiltonian-systems

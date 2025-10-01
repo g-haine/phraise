@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An economic cybernetic model for electricity market operation coupled with physical system dynamics"
 date: 2023-01-31 00:00:00 +0100
 permalink: an-economic-cybernetic-model-for-electricity-market-operation-coupled-with-physical-system-dynamics

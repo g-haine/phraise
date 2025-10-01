@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and tracking Transmission Line Dynamic Behavior in Smart Grids using structured sparsity"
 date: 2017-02-13 00:00:00 +0100
 permalink: modeling-and-tracking-transmission-line-dynamic-behavior-in-smart-grids-using-structured-sparsity

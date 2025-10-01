@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position regulation in Cartesian space of a class of inextensible soft continuum manipulators with pneumatic actuation"
 date: 2021-05-23 00:00:00 +0100
 permalink: position-regulation-in-cartesian-space-of-a-class-of-inextensible-soft-continuum-manipulators-with-pneumatic-actuation

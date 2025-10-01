@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jochen Trumpf
 permalink: /authors/jochen-trumpf
 ---

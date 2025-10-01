@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haifeng Liu
 permalink: /authors/haifeng-liu
 ---

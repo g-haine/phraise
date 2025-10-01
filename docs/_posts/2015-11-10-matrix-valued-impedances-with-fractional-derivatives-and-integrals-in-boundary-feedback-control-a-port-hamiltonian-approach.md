@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Matrix-valued Impedances with Fractional Derivatives and Integrals in Boundary Feedback Control: a port-Hamiltonian approach"
 date: 2015-11-10 00:00:00 +0100
 permalink: matrix-valued-impedances-with-fractional-derivatives-and-integrals-in-boundary-feedback-control-a-port-hamiltonian-approach

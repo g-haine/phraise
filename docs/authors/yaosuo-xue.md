@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yaosuo Xue
 permalink: /authors/yaosuo-xue
 ---

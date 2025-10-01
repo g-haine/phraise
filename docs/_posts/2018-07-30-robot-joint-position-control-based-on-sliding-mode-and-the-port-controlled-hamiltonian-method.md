@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robot joint position control based on sliding mode and the port-controlled hamiltonian method"
 date: 2018-07-30 00:00:00 +0100
 permalink: robot-joint-position-control-based-on-sliding-mode-and-the-port-controlled-hamiltonian-method

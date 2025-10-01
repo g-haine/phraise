@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust energy shaping for mechanical systems with dissipative forces and disturbances"
 date: 2022-08-05 00:00:00 +0100
 permalink: robust-energy-shaping-for-mechanical-systems-with-dissipative-forces-and-disturbances

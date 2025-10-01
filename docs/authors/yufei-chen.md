@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yufei Chen
 permalink: /authors/yufei-chen
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ravi Samtaney
 permalink: /authors/ravi-samtaney
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Experiments About the Nonprehensile Reconfiguration of a Rolling Sphere on a Plate"
 date: 2018-08-23 00:00:00 +0100
 permalink: on-the-experiments-about-the-nonprehensile-reconfiguration-of-a-rolling-sphere-on-a-plate

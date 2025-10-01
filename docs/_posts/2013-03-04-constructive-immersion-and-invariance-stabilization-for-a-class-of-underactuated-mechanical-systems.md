@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Constructive immersion and invariance stabilization for a class of underactuated mechanical systems"
 date: 2013-03-04 00:00:00 +0100
 permalink: constructive-immersion-and-invariance-stabilization-for-a-class-of-underactuated-mechanical-systems

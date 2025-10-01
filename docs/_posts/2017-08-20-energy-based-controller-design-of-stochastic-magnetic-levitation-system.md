@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy‐Based Controller Design of Stochastic Magnetic Levitation System"
 date: 2017-08-20 00:00:00 +0100
 permalink: energy-based-controller-design-of-stochastic-magnetic-levitation-system

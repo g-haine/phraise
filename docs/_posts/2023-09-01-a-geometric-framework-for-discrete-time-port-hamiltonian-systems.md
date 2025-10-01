@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A geometric framework for discrete time port‐Hamiltonian systems"
 date: 2023-09-01 00:00:00 +0100
 permalink: a-geometric-framework-for-discrete-time-port-hamiltonian-systems

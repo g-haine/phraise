@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Alternative Passive Maps for Infinite-Dimensional Systems Using Mixed-Potential Functions"
 date: 2015-11-10 00:00:00 +0100
 permalink: alternative-passive-maps-for-infinite-dimensional-systems-using-mixed-potential-functions

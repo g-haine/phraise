@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sheron Figarado
 permalink: /authors/sheron-figarado
 ---

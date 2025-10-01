@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sliding mode controller applied to a levitated magnetic suspension system. A didactic view"
 date: 2018-01-02 00:00:00 +0100
 permalink: sliding-mode-controller-applied-to-a-levitated-magnetic-suspension-system-a-didactic-view

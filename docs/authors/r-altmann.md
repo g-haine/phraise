@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. Altmann
 permalink: /authors/r-altmann
 ---

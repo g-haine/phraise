@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Complexification of Dirac Structures and Generalised Kirchhoff Operators"
 date: 2015-11-10 00:00:00 +0100
 permalink: complexification-of-dirac-structures-and-generalised-kirchhoff-operators

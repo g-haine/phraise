@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mechanical memory elements: Modeling of systems with position-dependent mass revisited"
 date: 2011-02-22 00:00:00 +0100
 permalink: mechanical-memory-elements-modeling-of-systems-with-position-dependent-mass-revisited

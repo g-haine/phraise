@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. Clemente-Gallardo
 permalink: /authors/j-clemente-gallardo
 ---

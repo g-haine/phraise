@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "In domain dissipation assignment of boundary controlled Port-Hamiltonian systems using backstepping"
 date: 2024-01-18 00:00:00 +0100
 permalink: in-domain-dissipation-assignment-of-boundary-controlled-port-hamiltonian-systems-using-backstepping

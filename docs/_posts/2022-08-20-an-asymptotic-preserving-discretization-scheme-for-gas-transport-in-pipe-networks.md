@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An asymptotic-preserving discretization scheme for gas transport in pipe networks"
 date: 2022-08-20 00:00:00 +0100
 permalink: an-asymptotic-preserving-discretization-scheme-for-gas-transport-in-pipe-networks

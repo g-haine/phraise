@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on passivity based control and active disturbance rejection control for MMC-UPQC"
 date: 2017-12-21 00:00:00 +0100
 permalink: research-on-passivity-based-control-and-active-disturbance-rejection-control-for-mmc-upqc

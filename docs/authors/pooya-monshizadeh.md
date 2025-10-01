@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pooya Monshizadeh
 permalink: /authors/pooya-monshizadeh
 ---

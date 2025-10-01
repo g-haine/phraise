@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passive simulation of the nonlinear port-Hamiltonian modeling of a Rhodes Piano"
 date: 2016-12-08 00:00:00 +0100
 permalink: passive-simulation-of-the-nonlinear-port-hamiltonian-modeling-of-a-rhodes-piano

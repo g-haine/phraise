@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Port Hamiltonian Chaotic Systems with Hidden Attractors by Adaptive Terminal Sliding Mode Control"
 date: 2020-01-20 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-chaotic-systems-with-hidden-attractors-by-adaptive-terminal-sliding-mode-control

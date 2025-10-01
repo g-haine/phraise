@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chong Wang
 permalink: /authors/chong-wang
 ---

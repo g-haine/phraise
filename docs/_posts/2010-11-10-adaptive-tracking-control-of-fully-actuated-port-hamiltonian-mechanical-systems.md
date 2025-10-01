@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive tracking control of fully actuated port-Hamiltonian mechanical systems"
 date: 2010-11-10 00:00:00 +0100
 permalink: adaptive-tracking-control-of-fully-actuated-port-hamiltonian-mechanical-systems

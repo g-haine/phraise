@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianping Cai
 permalink: /authors/jianping-cai
 ---

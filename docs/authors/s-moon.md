@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Moon
 permalink: /authors/s-moon
 ---

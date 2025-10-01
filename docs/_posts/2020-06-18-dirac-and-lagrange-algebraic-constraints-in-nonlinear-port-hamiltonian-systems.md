@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac and Lagrange Algebraic Constraints in Nonlinear Port-Hamiltonian Systems"
 date: 2020-06-18 00:00:00 +0100
 permalink: dirac-and-lagrange-algebraic-constraints-in-nonlinear-port-hamiltonian-systems

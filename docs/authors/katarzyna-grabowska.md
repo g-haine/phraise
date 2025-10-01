@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Katarzyna Grabowska
 permalink: /authors/katarzyna-grabowska
 ---

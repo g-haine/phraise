@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential Stability of a Class of Boundary Control Systems"
 date: 2009-01-16 00:00:00 +0100
 permalink: exponential-stability-of-a-class-of-boundary-control-systems

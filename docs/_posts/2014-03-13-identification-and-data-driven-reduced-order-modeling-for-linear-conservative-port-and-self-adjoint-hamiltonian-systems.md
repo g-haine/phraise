@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Identification and data-driven reduced-order modeling for linear conservative port- and self-adjoint Hamiltonian systems"
 date: 2014-03-13 00:00:00 +0100
 permalink: identification-and-data-driven-reduced-order-modeling-for-linear-conservative-port-and-self-adjoint-hamiltonian-systems

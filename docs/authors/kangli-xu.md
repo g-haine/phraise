@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kangli Xu
 permalink: /authors/kangli-xu
 ---

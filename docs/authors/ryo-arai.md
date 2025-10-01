@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ryo Arai
 permalink: /authors/ryo-arai
 ---

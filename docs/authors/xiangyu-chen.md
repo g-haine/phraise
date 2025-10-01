@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiangyu Chen
 permalink: /authors/xiangyu-chen
 ---

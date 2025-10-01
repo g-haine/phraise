@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Transient Stabilization of Multimachine Power Systems"
 date: 2006-09-13 00:00:00 +0100
 permalink: transient-stabilization-of-multimachine-power-systems

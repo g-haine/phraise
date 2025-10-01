@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Walarcheth Thongrailuck
 permalink: /authors/walarcheth-thongrailuck
 ---

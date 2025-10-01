@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrew Komech
 permalink: /authors/andrew-komech
 ---

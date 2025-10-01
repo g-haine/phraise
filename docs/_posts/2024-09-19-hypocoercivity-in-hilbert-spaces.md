@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hypocoercivity in Hilbert spaces"
 date: 2024-09-19 00:00:00 +0100
 permalink: hypocoercivity-in-hilbert-spaces

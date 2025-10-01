@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lifan Sun
 permalink: /authors/lifan-sun
 ---

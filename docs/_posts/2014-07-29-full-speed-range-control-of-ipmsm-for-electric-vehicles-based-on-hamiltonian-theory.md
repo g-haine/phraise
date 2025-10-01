@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Full speed range control of IPMSM for electric vehicles based on Hamiltonian theory"
 date: 2014-07-29 00:00:00 +0100
 permalink: full-speed-range-control-of-ipmsm-for-electric-vehicles-based-on-hamiltonian-theory

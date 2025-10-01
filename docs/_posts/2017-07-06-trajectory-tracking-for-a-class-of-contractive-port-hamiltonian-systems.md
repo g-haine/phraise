@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking for a class of contractive port Hamiltonian systems"
 date: 2017-07-06 00:00:00 +0100
 permalink: trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "First-order Hamiltonian field theory and mechanics"
 date: 2011-01-26 00:00:00 +0100
 permalink: first-order-hamiltonian-field-theory-and-mechanics

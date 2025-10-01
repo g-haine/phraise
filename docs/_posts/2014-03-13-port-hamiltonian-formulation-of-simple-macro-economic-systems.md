@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulation of simple macro-economic systems"
 date: 2014-03-13 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-simple-macro-economic-systems

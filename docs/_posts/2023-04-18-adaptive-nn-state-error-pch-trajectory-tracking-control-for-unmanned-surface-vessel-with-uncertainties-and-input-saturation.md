@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive NN state error PCH trajectory tracking control for unmanned surface vessel with uncertainties and input saturation"
 date: 2023-04-18 00:00:00 +0100
 permalink: adaptive-nn-state-error-pch-trajectory-tracking-control-for-unmanned-surface-vessel-with-uncertainties-and-input-saturation

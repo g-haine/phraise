@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Representation of heat exchanger networks using graph formalism"
 date: 2018-06-18 00:00:00 +0100
 permalink: representation-of-heat-exchanger-networks-using-graph-formalism

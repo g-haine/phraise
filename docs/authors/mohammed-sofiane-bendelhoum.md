@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammed Sofiane Bendelhoum
 permalink: /authors/mohammed-sofiane-bendelhoum
 ---

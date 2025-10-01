@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Limits to Energy Conversion"
 date: 2021-04-27 00:00:00 +0100
 permalink: limits-to-energy-conversion

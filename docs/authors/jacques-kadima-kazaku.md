@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jacques Kadima Kazaku
 permalink: /authors/jacques-kadima-kazaku
 ---

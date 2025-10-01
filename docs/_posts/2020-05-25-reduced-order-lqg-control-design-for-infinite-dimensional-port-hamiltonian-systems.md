@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reduced Order LQG Control Design for Infinite Dimensional Port Hamiltonian Systems"
 date: 2020-05-25 00:00:00 +0100
 permalink: reduced-order-lqg-control-design-for-infinite-dimensional-port-hamiltonian-systems

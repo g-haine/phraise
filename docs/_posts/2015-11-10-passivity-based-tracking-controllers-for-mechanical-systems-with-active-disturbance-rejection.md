@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Tracking Controllers for Mechanical Systems with Active Disturbance Rejection"
 date: 2015-11-10 00:00:00 +0100
 permalink: passivity-based-tracking-controllers-for-mechanical-systems-with-active-disturbance-rejection

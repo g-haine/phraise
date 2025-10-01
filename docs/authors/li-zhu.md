@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Li Zhu
 permalink: /authors/li-zhu
 ---

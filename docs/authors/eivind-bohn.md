@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eivind Bøhn
 permalink: /authors/eivind-bohn
 ---

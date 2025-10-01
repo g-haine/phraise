@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Data-Driven Bayesian Control of Port-Hamiltonian Systems"
 date: 2024-01-19 00:00:00 +0100
 permalink: data-driven-bayesian-control-of-port-hamiltonian-systems

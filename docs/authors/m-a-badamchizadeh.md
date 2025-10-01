@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. A. Badamchizadeh
 permalink: /authors/m-a-badamchizadeh
 ---

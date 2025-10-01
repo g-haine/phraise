@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Unified Damping Assignment Passivity Based Controller for Power Conversion Units of Solar Power Plants"
 date: 2024-05-28 00:00:00 +0100
 permalink: unified-damping-assignment-passivity-based-controller-for-power-conversion-units-of-solar-power-plants

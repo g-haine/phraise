@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhiyong Sun
 permalink: /authors/zhiyong-sun
 ---

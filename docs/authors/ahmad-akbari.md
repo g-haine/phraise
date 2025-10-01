@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ahmad Akbari
 permalink: /authors/ahmad-akbari
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer design for a class of nonlinear Hamiltonian systems based on energy function structure"
 date: 2023-01-16 00:00:00 +0100
 permalink: observer-design-for-a-class-of-nonlinear-hamiltonian-systems-based-on-energy-function-structure

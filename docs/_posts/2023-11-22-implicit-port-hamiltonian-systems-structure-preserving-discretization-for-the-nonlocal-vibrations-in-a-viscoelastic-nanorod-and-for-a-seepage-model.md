@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Implicit port-Hamiltonian systems: structure-preserving discretization for the nonlocal vibrations in a viscoelastic nanorod, and for a seepage model"
 date: 2023-11-22 00:00:00 +0100
 permalink: implicit-port-hamiltonian-systems-structure-preserving-discretization-for-the-nonlocal-vibrations-in-a-viscoelastic-nanorod-and-for-a-seepage-model

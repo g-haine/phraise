@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jonathan Simon
 permalink: /authors/jonathan-simon
 ---

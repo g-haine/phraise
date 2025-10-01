@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving interpolation reduced-order modelling for efficient simulation of parametric port-Hamiltonian systems"
 date: 2025-08-19 00:00:00 +0100
 permalink: structure-preserving-interpolation-reduced-order-modelling-for-efficient-simulation-of-parametric-port-hamiltonian-systems

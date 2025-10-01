@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tan Chee Keong
 permalink: /authors/tan-chee-keong
 ---

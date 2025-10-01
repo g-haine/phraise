@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A state transfer principle for switching port-Hamiltonian systems"
 date: 2010-02-02 00:00:00 +0100
 permalink: a-state-transfer-principle-for-switching-port-hamiltonian-systems

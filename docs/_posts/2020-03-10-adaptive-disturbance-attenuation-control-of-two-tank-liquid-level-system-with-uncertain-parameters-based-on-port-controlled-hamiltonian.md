@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Disturbance Attenuation Control of Two Tank Liquid Level System With Uncertain Parameters Based on Port-Controlled Hamiltonian"
 date: 2020-03-10 00:00:00 +0100
 permalink: adaptive-disturbance-attenuation-control-of-two-tank-liquid-level-system-with-uncertain-parameters-based-on-port-controlled-hamiltonian

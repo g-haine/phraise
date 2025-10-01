@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Witthawas Pongyart
 permalink: /authors/witthawas-pongyart
 ---

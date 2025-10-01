@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal power dispatch in networks of high-dimensional models of synchronous machines"
 date: 2017-01-05 00:00:00 +0100
 permalink: optimal-power-dispatch-in-networks-of-high-dimensional-models-of-synchronous-machines

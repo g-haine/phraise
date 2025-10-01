@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Kernel Representation of Dirac Structures for Infinite-dimensional Systems"
 date: 2014-08-19 00:00:00 +0100
 permalink: a-kernel-representation-of-dirac-structures-for-infinite-dimensional-systems

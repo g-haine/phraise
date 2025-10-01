@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thai Duong
 permalink: /authors/thai-duong
 ---

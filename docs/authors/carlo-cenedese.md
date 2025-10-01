@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Carlo Cenedese
 permalink: /authors/carlo-cenedese
 ---

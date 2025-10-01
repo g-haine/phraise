@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Champ C. Darabundit
 permalink: /authors/champ-c-darabundit
 ---

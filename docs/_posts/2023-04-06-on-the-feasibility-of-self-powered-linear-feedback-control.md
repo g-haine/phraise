@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Feasibility of Self-Powered Linear Feedback Control"
 date: 2023-04-06 00:00:00 +0100
 permalink: on-the-feasibility-of-self-powered-linear-feedback-control

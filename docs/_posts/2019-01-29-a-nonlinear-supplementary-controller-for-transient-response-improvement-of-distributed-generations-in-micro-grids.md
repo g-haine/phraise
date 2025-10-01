@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Nonlinear Supplementary Controller for Transient Response Improvement of Distributed Generations in Micro-Grids"
 date: 2019-01-29 00:00:00 +0100
 permalink: a-nonlinear-supplementary-controller-for-transient-response-improvement-of-distributed-generations-in-micro-grids

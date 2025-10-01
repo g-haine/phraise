@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Learning the Optimal Energy-based Control Strategy for Port-Hamiltonian Systems"
 date: 2024-09-25 00:00:00 +0100
 permalink: learning-the-optimal-energy-based-control-strategy-for-port-hamiltonian-systems

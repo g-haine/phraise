@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David H. Owens
 permalink: /authors/david-h-owens
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoli Song
 permalink: /authors/xiaoli-song
 ---

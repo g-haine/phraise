@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Isuru S. Godage
 permalink: /authors/isuru-s-godage
 ---

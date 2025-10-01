@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olivier van der Feltz
 permalink: /authors/olivier-van-der-feltz
 ---

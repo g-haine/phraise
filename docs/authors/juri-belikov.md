@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juri Belikov
 permalink: /authors/juri-belikov
 ---

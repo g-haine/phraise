@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power balancing in a DC microgrid elevator system through constrained optimization"
 date: 2017-10-19 00:00:00 +0100
 permalink: power-balancing-in-a-dc-microgrid-elevator-system-through-constrained-optimization

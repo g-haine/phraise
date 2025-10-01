@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The falling cat as a port-controlled Hamiltonian system"
 date: 2011-11-02 00:00:00 +0100
 permalink: the-falling-cat-as-a-port-controlled-hamiltonian-system

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Philipp Joebges
 permalink: /authors/philipp-joebges
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peirong Xia
 permalink: /authors/peirong-xia
 ---

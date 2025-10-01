@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Begoña C. Arrue
 permalink: /authors/b-c-arrue
 ---

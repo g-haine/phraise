@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Synthesis of Discrete-time Energy-based Regulators for Port-Hamiltonian Systems"
 date: 2023-11-22 00:00:00 +0100
 permalink: on-the-synthesis-of-discrete-time-energy-based-regulators-for-port-hamiltonian-systems

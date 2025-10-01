@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenfeng Feng
 permalink: /authors/wenfeng-feng
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Oscar Rodríguez Benítez
 permalink: /authors/oscar-rodriguez-benitez
 ---

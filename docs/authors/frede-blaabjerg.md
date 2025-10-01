@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Frede Blaabjerg
 permalink: /authors/frede-blaabjerg
 ---

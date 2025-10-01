@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jukka-Pekka Humaloja
 permalink: /authors/jukka-pekka-humaloja
 ---

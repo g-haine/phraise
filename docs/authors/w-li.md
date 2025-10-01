@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by W Li
 permalink: /authors/w-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ramkrishna Pasumarthy
 permalink: /authors/ramkrishna-pasumarthy
 ---

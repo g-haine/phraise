@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rémy Nouailletas
 permalink: /authors/remy-nouailletas
 ---

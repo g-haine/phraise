@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Patrick Coirault
 permalink: /authors/patrick-coirault
 ---

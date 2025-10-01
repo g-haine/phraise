@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bond graph and port-controlled hamiltonian model of doubly-fed wind power system"
 date: 2013-01-02 00:00:00 +0100
 permalink: bond-graph-and-port-controlled-hamiltonian-model-of-doubly-fed-wind-power-system

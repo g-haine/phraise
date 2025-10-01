@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cross-Track Control of Rotorcraft Using Passivity Based Techniques"
 date: 2021-01-05 00:00:00 +0100
 permalink: cross-track-control-of-rotorcraft-using-passivity-based-techniques

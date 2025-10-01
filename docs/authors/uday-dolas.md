@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Uday Dolas
 permalink: /authors/uday-dolas
 ---

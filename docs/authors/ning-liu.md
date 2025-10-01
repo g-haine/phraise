@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ning Liu
 permalink: /authors/ning-liu
 ---

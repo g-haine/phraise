@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thomas Kruse
 permalink: /authors/thomas-kruse
 ---

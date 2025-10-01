@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaofeng Wu
 permalink: /authors/xiaofeng-wu
 ---

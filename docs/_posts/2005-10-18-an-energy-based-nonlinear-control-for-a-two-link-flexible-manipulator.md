@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Energy-Based Nonlinear Control for a Two-Link Flexible Manipulator"
 date: 2005-10-18 00:00:00 +0100
 permalink: an-energy-based-nonlinear-control-for-a-two-link-flexible-manipulator

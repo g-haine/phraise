@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Smooth-Switching Control of Robot-Based Permanent-Magnet Synchronous Motors via Port-Controlled Hamiltonian and Feedback Linearization"
 date: 2020-11-02 00:00:00 +0100
 permalink: smooth-switching-control-of-robot-based-permanent-magnet-synchronous-motors-via-port-controlled-hamiltonian-and-feedback-linearization

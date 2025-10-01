@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daiji Ichishima
 permalink: /authors/daiji-ichishima
 ---

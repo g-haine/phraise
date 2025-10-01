@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexandre Seuret
 permalink: /authors/alexandre-seuret
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jin Zhou
 permalink: /authors/jin-zhou
 ---

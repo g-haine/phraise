@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haoyu Li
 permalink: /authors/haoyu-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuqing Wang
 permalink: /authors/shuqing-wang
 ---

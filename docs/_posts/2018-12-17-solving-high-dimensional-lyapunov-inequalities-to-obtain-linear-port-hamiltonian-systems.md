@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Solving high‐dimensional Lyapunov inequalities to obtain linear port‐Hamiltonian systems"
 date: 2018-12-17 00:00:00 +0100
 permalink: solving-high-dimensional-lyapunov-inequalities-to-obtain-linear-port-hamiltonian-systems

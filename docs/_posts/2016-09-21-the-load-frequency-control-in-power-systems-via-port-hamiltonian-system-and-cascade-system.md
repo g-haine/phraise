@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Load Frequency Control in power systems via Port-Hamiltonian system and cascade system"
 date: 2016-09-21 00:00:00 +0100
 permalink: the-load-frequency-control-in-power-systems-via-port-hamiltonian-system-and-cascade-system

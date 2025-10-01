@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fixed-order H-infinity controller design for port-Hamiltonian systems"
 date: 2023-03-24 00:00:00 +0100
 permalink: fixed-order-h-infinity-controller-design-for-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modelling of Modular Multilevel Converters with fixed equilibrium point"
 date: 2017-06-01 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-modular-multilevel-converters-with-fixed-equilibrium-point

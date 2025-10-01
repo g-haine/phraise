@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An introduction to interconnection and damping assignment passivity-based control in process engineering"
 date: 2009-09-06 00:00:00 +0100
 permalink: an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering

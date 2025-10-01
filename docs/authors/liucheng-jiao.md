@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liucheng Jiao
 permalink: /authors/liucheng-jiao
 ---

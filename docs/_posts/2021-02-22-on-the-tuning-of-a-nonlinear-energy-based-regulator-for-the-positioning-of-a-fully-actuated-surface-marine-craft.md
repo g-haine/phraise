@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the tuning of a nonlinear energy‐based regulator for the positioning of a fully actuated surface marine craft"
 date: 2021-02-22 00:00:00 +0100
 permalink: on-the-tuning-of-a-nonlinear-energy-based-regulator-for-the-positioning-of-a-fully-actuated-surface-marine-craft

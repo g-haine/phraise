@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian tomography of photonic lattices"
 date: 2017-06-26 00:00:00 +0100
 permalink: hamiltonian-tomography-of-photonic-lattices

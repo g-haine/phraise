@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulation for Higher-order PDEs"
 date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-formulation-for-higher-order-pdes

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Harkort
 permalink: /authors/christian-harkort
 ---

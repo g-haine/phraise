@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eloísa García-Canseco
 permalink: /authors/eloisa-garcia-canseco
 ---

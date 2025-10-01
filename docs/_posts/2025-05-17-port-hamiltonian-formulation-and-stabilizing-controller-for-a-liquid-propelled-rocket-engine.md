@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulation and stabilizing controller for a liquid propelled rocket engine"
 date: 2025-05-17 00:00:00 +0100
 permalink: port-hamiltonian-formulation-and-stabilizing-controller-for-a-liquid-propelled-rocket-engine

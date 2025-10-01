@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dual observer-based compensator design for linear port-Hamiltonian systems"
 date: 2015-11-23 00:00:00 +0100
 permalink: dual-observer-based-compensator-design-for-linear-port-hamiltonian-systems

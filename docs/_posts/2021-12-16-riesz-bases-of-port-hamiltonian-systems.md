@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Riesz Bases of Port-Hamiltonian Systems"
 date: 2021-12-16 00:00:00 +0100
 permalink: riesz-bases-of-port-hamiltonian-systems

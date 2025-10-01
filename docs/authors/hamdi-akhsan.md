@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hamdi Akhsan
 permalink: /authors/hamdi-akhsan
 ---

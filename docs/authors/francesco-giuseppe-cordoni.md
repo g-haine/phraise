@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Francesco Giuseppe Cordoni
 permalink: /authors/francesco-giuseppe-cordoni
 ---

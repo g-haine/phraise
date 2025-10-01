@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sylvain Brémond
 permalink: /authors/sylvain-bremond
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T. Keviczky
 permalink: /authors/t-keviczky
 ---

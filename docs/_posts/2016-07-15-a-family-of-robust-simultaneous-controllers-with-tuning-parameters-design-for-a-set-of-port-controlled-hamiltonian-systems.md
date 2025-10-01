@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Family of Robust Simultaneous Controllers With Tuning Parameters Design for a Set of Port‐Controlled Hamiltonian Systems"
 date: 2016-07-15 00:00:00 +0100
 permalink: a-family-of-robust-simultaneous-controllers-with-tuning-parameters-design-for-a-set-of-port-controlled-hamiltonian-systems

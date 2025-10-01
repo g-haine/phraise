@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Eigenstructure assignment for the position regulation of a fully-actuated marine craft"
 date: 2017-10-19 00:00:00 +0100
 permalink: eigenstructure-assignment-for-the-position-regulation-of-a-fully-actuated-marine-craft

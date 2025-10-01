@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Differential operator Dirac structures"
 date: 2021-11-19 00:00:00 +0100
 permalink: differential-operator-dirac-structures

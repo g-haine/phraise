@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nianxiang Wu
 permalink: /authors/nianxiang-wu
 ---

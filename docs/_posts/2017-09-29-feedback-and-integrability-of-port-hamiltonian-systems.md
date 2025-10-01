@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Feedback and integrability of port hamiltonian systems"
 date: 2017-09-29 00:00:00 +0100
 permalink: feedback-and-integrability-of-port-hamiltonian-systems

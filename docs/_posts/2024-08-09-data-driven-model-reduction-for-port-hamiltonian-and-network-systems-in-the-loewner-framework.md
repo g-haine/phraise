@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Data-driven model reduction for port-Hamiltonian and network systems in the Loewner framework"
 date: 2024-08-09 00:00:00 +0100
 permalink: data-driven-model-reduction-for-port-hamiltonian-and-network-systems-in-the-loewner-framework

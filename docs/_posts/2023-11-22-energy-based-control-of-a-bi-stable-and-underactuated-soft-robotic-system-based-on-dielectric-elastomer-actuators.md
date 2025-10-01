@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy based control of a bi-stable and underactuated soft robotic system based on dielectric elastomer actuators"
 date: 2023-11-22 00:00:00 +0100
 permalink: energy-based-control-of-a-bi-stable-and-underactuated-soft-robotic-system-based-on-dielectric-elastomer-actuators

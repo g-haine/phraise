@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Javier A. Torres
 permalink: /authors/javier-a-torres
 ---

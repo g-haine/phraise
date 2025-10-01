@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohamed Machmoum
 permalink: /authors/mohamed-machmoum
 ---

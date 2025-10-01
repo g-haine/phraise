@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anthony Hastir
 permalink: /authors/anthony-hastir
 ---

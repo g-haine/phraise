@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear port-Hamiltonian DAE systems revisited"
 date: 2023-05-31 00:00:00 +0100
 permalink: linear-port-hamiltonian-dae-systems-revisited

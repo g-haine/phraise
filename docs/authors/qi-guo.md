@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qi Guo
 permalink: /authors/qi-guo
 ---

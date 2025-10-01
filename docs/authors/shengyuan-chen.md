@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shengyuan Chen
 permalink: /authors/shengyuan-chen
 ---

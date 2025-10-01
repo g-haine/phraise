@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dumitru Popescu
 permalink: /authors/dumitru-popescu
 ---

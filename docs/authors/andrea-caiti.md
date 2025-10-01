@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrea Caiti
 permalink: /authors/andrea-caiti
 ---

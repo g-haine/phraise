@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A Aula
 permalink: /authors/a-aula
 ---

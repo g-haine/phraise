@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guo Xiaomei
 permalink: /authors/guo-xiaomei
 ---

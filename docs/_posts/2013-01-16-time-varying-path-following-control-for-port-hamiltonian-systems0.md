@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time-varying Path Following Control for Port-Hamiltonian Systems"
 date: 2013-01-16 00:00:00 +0100
 permalink: time-varying-path-following-control-for-port-hamiltonian-systems0

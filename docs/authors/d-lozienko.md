@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. Lozienko
 permalink: /authors/d-lozienko
 ---

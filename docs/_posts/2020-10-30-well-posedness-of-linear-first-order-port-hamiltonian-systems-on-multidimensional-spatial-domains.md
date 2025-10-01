@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-posedness of linear first order port-Hamiltonian Systems on multidimensional spatial domains"
 date: 2020-10-30 00:00:00 +0100
 permalink: well-posedness-of-linear-first-order-port-hamiltonian-systems-on-multidimensional-spatial-domains

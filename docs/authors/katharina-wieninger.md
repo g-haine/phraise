@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Katharina Wieninger
 permalink: /authors/katharina-wieninger
 ---

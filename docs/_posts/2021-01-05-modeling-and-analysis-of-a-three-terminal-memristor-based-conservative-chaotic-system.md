@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Analysis of a Three-Terminal-Memristor-Based Conservative Chaotic System"
 date: 2021-01-05 00:00:00 +0100
 permalink: modeling-and-analysis-of-a-three-terminal-memristor-based-conservative-chaotic-system

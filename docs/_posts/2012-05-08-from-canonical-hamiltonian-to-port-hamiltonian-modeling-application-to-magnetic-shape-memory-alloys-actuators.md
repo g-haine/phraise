@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "From Canonical Hamiltonian to Port-Hamiltonian Modeling: Application to Magnetic Shape Memory Alloys Actuators"
 date: 2012-05-08 00:00:00 +0100
 permalink: from-canonical-hamiltonian-to-port-hamiltonian-modeling-application-to-magnetic-shape-memory-alloys-actuators

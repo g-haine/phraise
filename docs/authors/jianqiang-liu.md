@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianqiang Liu
 permalink: /authors/jianqiang-liu
 ---

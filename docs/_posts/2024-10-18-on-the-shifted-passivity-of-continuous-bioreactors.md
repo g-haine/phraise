@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On The Shifted Passivity of Continuous Bioreactors"
 date: 2024-10-18 00:00:00 +0100
 permalink: on-the-shifted-passivity-of-continuous-bioreactors

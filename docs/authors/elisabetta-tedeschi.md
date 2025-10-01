@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Elisabetta Tedeschi
 permalink: /authors/elisabetta-tedeschi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paul Immanuel
 permalink: /authors/paul-immanuel
 ---

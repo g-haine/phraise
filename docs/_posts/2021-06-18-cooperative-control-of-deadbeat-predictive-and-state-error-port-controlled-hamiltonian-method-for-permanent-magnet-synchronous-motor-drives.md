@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cooperative control of deadbeat predictive and state error port‐controlled Hamiltonian method for permanent magnet synchronous motor drives"
 date: 2021-06-18 00:00:00 +0100
 permalink: cooperative-control-of-deadbeat-predictive-and-state-error-port-controlled-hamiltonian-method-for-permanent-magnet-synchronous-motor-drives

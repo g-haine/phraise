@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Agreeing in networks: Unmatched disturbances, algebraic constraints and optimality"
 date: 2016-11-02 00:00:00 +0100
 permalink: agreeing-in-networks-unmatched-disturbances-algebraic-constraints-and-optimality

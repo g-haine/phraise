@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Boussad Hamroun
 permalink: /authors/boussad-hamroun
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Salvatore Monaco
 permalink: /authors/salvatore-monaco
 ---

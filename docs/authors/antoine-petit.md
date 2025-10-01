@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antoine Petit
 permalink: /authors/antoine-petit
 ---

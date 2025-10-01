@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yakov Greenberg
 permalink: /authors/yakov-greenberg
 ---

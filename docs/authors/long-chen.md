@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Long Chen
 permalink: /authors/long-chen
 ---

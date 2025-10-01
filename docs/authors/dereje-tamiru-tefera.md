@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dereje Tamiru Tefera
 permalink: /authors/dereje-tamiru-tefera
 ---

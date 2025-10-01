@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shanshan Yu
 permalink: /authors/shanshan-yu
 ---

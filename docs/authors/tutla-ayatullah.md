@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tutla Ayatullah
 permalink: /authors/tutla-ayatullah
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "TOWARDS THE EXPLICIT DYNAMIC MODELING OF DISTRIBUTION GRIDS IN THE TIME-DOMAIN"
 date: 2022-01-11 00:00:00 +0100
 permalink: towards-the-explicit-dynamic-modeling-of-distribution-grids-in-the-time-domain

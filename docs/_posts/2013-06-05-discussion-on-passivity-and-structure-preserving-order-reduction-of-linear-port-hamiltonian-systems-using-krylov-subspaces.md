@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discussion on: “Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces”"
 date: 2013-06-05 00:00:00 +0100
 permalink: discussion-on-passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces

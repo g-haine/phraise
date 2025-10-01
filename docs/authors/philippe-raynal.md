@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Philippe Raynal
 permalink: /authors/philippe-raynal
 ---

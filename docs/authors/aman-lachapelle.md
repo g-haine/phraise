@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aman LaChapelle
 permalink: /authors/aman-lachapelle
 ---

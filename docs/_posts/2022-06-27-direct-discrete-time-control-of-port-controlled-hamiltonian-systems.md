@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Direct discrete-time control of port controlled Hamiltonian systems"
 date: 2022-06-27 00:00:00 +0100
 permalink: direct-discrete-time-control-of-port-controlled-hamiltonian-systems

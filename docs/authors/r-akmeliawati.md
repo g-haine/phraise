@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R Akmeliawati
 permalink: /authors/r-akmeliawati
 ---

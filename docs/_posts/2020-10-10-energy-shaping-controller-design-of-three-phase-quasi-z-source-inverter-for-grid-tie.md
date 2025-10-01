@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy shaping controller design of three‐phase quasi‐Z‐source inverter for grid‐tie"
 date: 2020-10-10 00:00:00 +0100
 permalink: energy-shaping-controller-design-of-three-phase-quasi-z-source-inverter-for-grid-tie

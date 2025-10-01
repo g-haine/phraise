@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abdelhakim Saim
 permalink: /authors/abdelhakim-saim
 ---

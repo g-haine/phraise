@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian based Optimal Power Flow algorithm for multi-terminal DC networks"
 date: 2018-11-20 00:00:00 +0100
 permalink: port-hamiltonian-based-optimal-power-flow-algorithm-for-multi-terminal-dc-networks

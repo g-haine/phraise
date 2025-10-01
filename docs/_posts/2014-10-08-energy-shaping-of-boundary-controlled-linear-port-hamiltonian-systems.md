@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy shaping of boundary controlled linear port Hamiltonian systems"
 date: 2014-10-08 00:00:00 +0100
 permalink: energy-shaping-of-boundary-controlled-linear-port-hamiltonian-systems

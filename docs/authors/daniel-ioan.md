@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daniel Ioan
 permalink: /authors/daniel-ioan
 ---

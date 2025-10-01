@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-PBC for Polynomial Systems: An SOS-based Approach"
 date: 2018-08-31 00:00:00 +0100
 permalink: ida-pbc-for-polynomial-systems-an-sos-based-approach

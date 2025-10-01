@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanwei Huang
 permalink: /authors/yanwei-huang
 ---

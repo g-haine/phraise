@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Neural Energy Casimir Control for Port-Hamiltonian Systems"
 date: 2023-01-10 00:00:00 +0100
 permalink: neural-energy-casimir-control-for-port-hamiltonian-systems

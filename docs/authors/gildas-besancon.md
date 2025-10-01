@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gildas Besancon
 permalink: /authors/gildas-besancon
 ---

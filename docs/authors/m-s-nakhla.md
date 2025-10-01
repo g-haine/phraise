@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. S. Nakhla
 permalink: /authors/m-s-nakhla
 ---

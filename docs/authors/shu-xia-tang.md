@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shu‐Xia Tang
 permalink: /authors/shu-xia-tang
 ---

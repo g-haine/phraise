@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Federico Felici
 permalink: /authors/federico-felici
 ---

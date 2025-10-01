@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian structures in infinite-dimensional optimal control: Primal–Dual gradient method and control-by-interconnection"
 date: 2025-02-06 00:00:00 +0100
 permalink: port-hamiltonian-structures-in-infinite-dimensional-optimal-control-primal-dual-gradient-method-and-control-by-interconnection

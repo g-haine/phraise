@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modelling and energy-based control of the Timoshenko beam"
 date: 2011-07-28 00:00:00 +0100
 permalink: port-hamiltonian-modelling-and-energy-based-control-of-the-timoshenko-beam

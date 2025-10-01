@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gerardo Becerra
 permalink: /authors/gerardo-becerra
 ---

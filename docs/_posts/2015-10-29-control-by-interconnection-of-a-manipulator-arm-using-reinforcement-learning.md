@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control by interconnection of a manipulator arm using reinforcement learning"
 date: 2015-10-29 00:00:00 +0100
 permalink: control-by-interconnection-of-a-manipulator-arm-using-reinforcement-learning

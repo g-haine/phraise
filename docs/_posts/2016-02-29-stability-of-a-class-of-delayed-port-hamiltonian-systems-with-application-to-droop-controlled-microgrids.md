@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability of a class of delayed port-Hamiltonian systems with application to droop-controlled microgrids"
 date: 2016-02-29 00:00:00 +0100
 permalink: stability-of-a-class-of-delayed-port-hamiltonian-systems-with-application-to-droop-controlled-microgrids

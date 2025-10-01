@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jonathan Mash
 permalink: /authors/jonathan-mash
 ---

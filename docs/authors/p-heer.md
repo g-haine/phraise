@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P. Heer
 permalink: /authors/p-heer
 ---

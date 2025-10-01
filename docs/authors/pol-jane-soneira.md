@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pol Jané Soneira
 permalink: /authors/pol-jane-soneira
 ---

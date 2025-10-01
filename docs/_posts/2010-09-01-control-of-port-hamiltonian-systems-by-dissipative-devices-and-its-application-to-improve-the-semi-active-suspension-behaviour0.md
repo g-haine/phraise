@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CONTROL OF PORT HAMILTONIAN SYSTEMS BY DISSIPATIVE DEVICES AND ITS APPLICATION TO IMPROVE THE SEMI-ACTIVE SUSPENSION BEHAVIOUR"
 date: 2010-09-01 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems-by-dissipative-devices-and-its-application-to-improve-the-semi-active-suspension-behaviour0

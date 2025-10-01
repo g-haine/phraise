@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Irreversible port-Hamiltonian Approach to Modeling and Analyzing of Non-isothermal Chemical Reaction Networks"
 date: 2017-01-07 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-approach-to-modeling-and-analyzing-of-non-isothermal-chemical-reaction-networks

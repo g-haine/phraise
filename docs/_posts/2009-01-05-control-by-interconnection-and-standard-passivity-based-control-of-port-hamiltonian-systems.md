@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems"
 date: 2009-01-05 00:00:00 +0100
 permalink: control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems

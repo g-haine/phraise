@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. Vink
 permalink: /authors/d-vink
 ---

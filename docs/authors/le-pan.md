@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Le Pan
 permalink: /authors/le-pan
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic path following and velocity control of port-Hamiltonian systems"
 date: 2018-06-21 00:00:00 +0100
 permalink: asymptotic-path-following-and-velocity-control-of-port-hamiltonian-systems

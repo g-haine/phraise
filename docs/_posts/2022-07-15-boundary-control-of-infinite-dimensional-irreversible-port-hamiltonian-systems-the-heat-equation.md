@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary control of infinite dimensional irreversible port-Hamiltonian systems: the heat equation"
 date: 2022-07-15 00:00:00 +0100
 permalink: boundary-control-of-infinite-dimensional-irreversible-port-hamiltonian-systems-the-heat-equation

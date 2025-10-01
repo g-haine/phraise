@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The definition of entropy production metric with application in passivity-based control of thermodynamic systems"
 date: 2024-11-18 00:00:00 +0100
 permalink: the-definition-of-entropy-production-metric-with-application-in-passivity-based-control-of-thermodynamic-systems

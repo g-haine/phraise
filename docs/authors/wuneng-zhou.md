@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wuneng Zhou
 permalink: /authors/wuneng-zhou
 ---

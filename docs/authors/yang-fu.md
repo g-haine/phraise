@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yang Fu
 permalink: /authors/yang-fu
 ---

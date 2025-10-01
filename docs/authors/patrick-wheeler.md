@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Patrick Wheeler
 permalink: /authors/patrick-wheeler
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yun Zeng
 permalink: /authors/yun-zeng
 ---

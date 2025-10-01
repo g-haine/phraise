@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Badam Singh Kushvah
 permalink: /authors/badam-singh-kushvah
 ---

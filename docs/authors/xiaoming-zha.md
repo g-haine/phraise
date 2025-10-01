@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoming Zha
 permalink: /authors/xiaoming-zha
 ---

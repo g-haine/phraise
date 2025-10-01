@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Physical Systems via Saturated Controllers With Partial State Measurements"
 date: 2023-04-11 00:00:00 +0100
 permalink: stabilization-of-physical-systems-via-saturated-controllers-with-partial-state-measurements

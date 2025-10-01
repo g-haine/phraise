@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tevfik Sezi
 permalink: /authors/tevfik-sezi
 ---

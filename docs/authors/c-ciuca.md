@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C. Ciuca
 permalink: /authors/c-ciuca
 ---

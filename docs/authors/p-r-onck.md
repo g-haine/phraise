@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P.R. Onck
 permalink: /authors/p-r-onck
 ---

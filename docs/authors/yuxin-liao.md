@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuxin Liao
 permalink: /authors/yuxin-liao
 ---

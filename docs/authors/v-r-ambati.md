@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by V.R. Ambati
 permalink: /authors/v-r-ambati
 ---

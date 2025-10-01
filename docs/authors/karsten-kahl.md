@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Karsten Kahl
 permalink: /authors/karsten-kahl
 ---

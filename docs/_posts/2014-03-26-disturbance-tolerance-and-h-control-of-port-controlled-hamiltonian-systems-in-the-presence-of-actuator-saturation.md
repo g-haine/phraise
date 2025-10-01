@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Disturbance tolerance and \\\\( H^\\infty \\\\)-control of port-controlled hamiltonian systems in the presence of actuator saturation"
 date: 2014-03-26 00:00:00 +0100
 permalink: disturbance-tolerance-and-h-control-of-port-controlled-hamiltonian-systems-in-the-presence-of-actuator-saturation

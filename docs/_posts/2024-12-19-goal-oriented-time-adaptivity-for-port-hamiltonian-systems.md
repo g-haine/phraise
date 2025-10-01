@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Goal-oriented time adaptivity for port-Hamiltonian systems"
 date: 2024-12-19 00:00:00 +0100
 permalink: goal-oriented-time-adaptivity-for-port-hamiltonian-systems

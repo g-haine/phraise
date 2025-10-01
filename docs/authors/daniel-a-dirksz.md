@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daniel A. Dirksz
 permalink: /authors/daniel-a-dirksz
 ---

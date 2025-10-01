@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Water Level Control for Steam Generator in Nuclear Power Based on Port-Controlled Hamiltonian Method"
 date: 2016-10-25 00:00:00 +0100
 permalink: water-level-control-for-steam-generator-in-nuclear-power-based-on-port-controlled-hamiltonian-method

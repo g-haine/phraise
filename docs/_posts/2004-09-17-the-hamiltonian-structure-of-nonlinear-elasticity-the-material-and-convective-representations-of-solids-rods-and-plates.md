@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Hamiltonian structure of nonlinear elasticity: The material and convective representations of solids, rods, and plates"
 date: 2004-09-17 00:00:00 +0100
 permalink: the-hamiltonian-structure-of-nonlinear-elasticity-the-material-and-convective-representations-of-solids-rods-and-plates

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Brahim Berbaoui
 permalink: /authors/brahim-berbaoui
 ---

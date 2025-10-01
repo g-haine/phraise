@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Josep M. Guerrero
 permalink: /authors/josep-m-guerrero
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of mechatronic systems by dissipative devices: application to semi-active vehicle suspensions"
 date: 2006-08-02 00:00:00 +0100
 permalink: control-of-mechatronic-systems-by-dissipative-devices-application-to-semi-active-vehicle-suspensions

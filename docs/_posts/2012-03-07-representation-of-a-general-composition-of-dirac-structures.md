@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Representation of a general composition of Dirac structures"
 date: 2012-03-07 00:00:00 +0100
 permalink: representation-of-a-general-composition-of-dirac-structures

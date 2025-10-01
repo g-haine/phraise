@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Junyuan Xue
 permalink: /authors/junyuan-xue
 ---

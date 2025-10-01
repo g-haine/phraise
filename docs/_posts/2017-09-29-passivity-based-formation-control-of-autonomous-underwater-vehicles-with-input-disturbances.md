@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based formation control of autonomous underwater vehicles with input disturbances"
 date: 2017-09-29 00:00:00 +0100
 permalink: passivity-based-formation-control-of-autonomous-underwater-vehicles-with-input-disturbances

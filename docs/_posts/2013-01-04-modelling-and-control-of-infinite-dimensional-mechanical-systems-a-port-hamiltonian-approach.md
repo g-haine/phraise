@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling and Control of Infinite-Dimensional Mechanical Systems: A Port-Hamiltonian Approach"
 date: 2013-01-04 00:00:00 +0100
 permalink: modelling-and-control-of-infinite-dimensional-mechanical-systems-a-port-hamiltonian-approach

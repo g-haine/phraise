@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design of IDA-PBC Controller for LCL-Filtered Grid-Connected Inverter"
 date: 2021-11-10 00:00:00 +0100
 permalink: design-of-ida-pbc-controller-for-lcl-filtered-grid-connected-inverter

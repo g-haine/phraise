@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tobias Thoma
 permalink: /authors/tobias-thoma
 ---

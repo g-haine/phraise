@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Supplementary Controller for Seamless Transitions Between Microgrids Operation Modes"
 date: 2021-01-05 00:00:00 +0100
 permalink: supplementary-controller-for-seamless-transitions-between-microgrids-operation-modes

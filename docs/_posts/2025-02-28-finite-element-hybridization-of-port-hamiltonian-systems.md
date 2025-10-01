@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite element hybridization of port-Hamiltonian systems"
 date: 2025-02-28 00:00:00 +0100
 permalink: finite-element-hybridization-of-port-hamiltonian-systems

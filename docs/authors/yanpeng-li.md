@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanpeng Li
 permalink: /authors/yanpeng-li
 ---

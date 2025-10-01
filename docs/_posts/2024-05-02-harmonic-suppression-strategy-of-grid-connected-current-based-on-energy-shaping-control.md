@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Harmonic Suppression Strategy Of Grid-connected Current Based On Energy-shaping Control"
 date: 2024-05-02 00:00:00 +0100
 permalink: harmonic-suppression-strategy-of-grid-connected-current-based-on-energy-shaping-control

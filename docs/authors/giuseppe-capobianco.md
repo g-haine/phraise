@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Giuseppe Capobianco
 permalink: /authors/giuseppe-capobianco
 ---

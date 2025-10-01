@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arkaitz Rabanal
 permalink: /authors/arkaitz-rabanal
 ---

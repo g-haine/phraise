@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based reinforcement learning control of a 2-DOF manipulator arm"
 date: 2014-11-17 00:00:00 +0100
 permalink: passivity-based-reinforcement-learning-control-of-a-2-dof-manipulator-arm

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yang Bo
 permalink: /authors/yang-bo
 ---

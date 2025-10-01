@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yassine Fares
 permalink: /authors/yassine-fares
 ---

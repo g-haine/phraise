@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "\\\\( {H_\\infty} \\\\)  Robust Control of Permanent Magnet Synchronous Motor Based on PCHD"
 date: 2019-03-13 00:00:00 +0100
 permalink: h-infty-robust-control-of-permanent-magnet-synchronous-motor-based-on-pchd

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martha GALAZ-LARIOS
 permalink: /authors/martha-galaz-larios
 ---

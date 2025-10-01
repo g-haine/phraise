@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ioannis Sarras
 permalink: /authors/ioannis-sarras
 ---

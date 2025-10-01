@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Amir Safaeinasab
 permalink: /authors/amir-safaeinasab
 ---

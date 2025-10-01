@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dianchen Lu
 permalink: /authors/dianchen-lu
 ---

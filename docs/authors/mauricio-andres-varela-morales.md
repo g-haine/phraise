@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mauricio Andrés Varela Morales
 permalink: /authors/mauricio-andres-varela-morales
 ---

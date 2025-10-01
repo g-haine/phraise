@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ryo Kuzuno
 permalink: /authors/ryo-kuzuno
 ---

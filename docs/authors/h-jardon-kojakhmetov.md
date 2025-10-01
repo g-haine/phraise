@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H. Jardón-Kojakhmetov
 permalink: /authors/h-jardon-kojakhmetov
 ---

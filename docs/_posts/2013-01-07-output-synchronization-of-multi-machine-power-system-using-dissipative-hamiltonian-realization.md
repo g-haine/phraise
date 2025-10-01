@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Output synchronization of multi-machine power system using dissipative Hamiltonian realization"
 date: 2013-01-07 00:00:00 +0100
 permalink: output-synchronization-of-multi-machine-power-system-using-dissipative-hamiltonian-realization

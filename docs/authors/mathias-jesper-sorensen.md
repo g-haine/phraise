@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mathias Jesper Sørensen
 permalink: /authors/mathias-jesper-sorensen
 ---

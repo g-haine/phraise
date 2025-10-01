@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nguyen Quang Dich
 permalink: /authors/nguyen-quang-dich
 ---

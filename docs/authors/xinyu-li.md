@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinyu Li
 permalink: /authors/xinyu-li
 ---

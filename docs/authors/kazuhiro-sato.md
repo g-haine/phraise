@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kazuhiro Sato
 permalink: /authors/kazuhiro-sato
 ---

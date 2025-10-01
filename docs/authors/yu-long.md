@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yu Long
 permalink: /authors/yu-long
 ---

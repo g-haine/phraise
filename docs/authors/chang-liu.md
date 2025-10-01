@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chang Liu
 permalink: /authors/chang-liu
 ---

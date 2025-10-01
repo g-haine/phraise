@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenhu Liao
 permalink: /authors/wenhu-liao
 ---

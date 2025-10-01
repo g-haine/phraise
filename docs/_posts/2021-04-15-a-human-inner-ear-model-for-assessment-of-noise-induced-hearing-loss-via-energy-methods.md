@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Human Inner Ear Model for assessment of Noise Induced Hearing Loss via energy methods"
 date: 2021-04-15 00:00:00 +0100
 permalink: a-human-inner-ear-model-for-assessment-of-noise-induced-hearing-loss-via-energy-methods

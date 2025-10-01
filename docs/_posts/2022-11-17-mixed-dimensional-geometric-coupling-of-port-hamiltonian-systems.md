@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mixed-dimensional geometric coupling of port-Hamiltonian systems"
 date: 2022-11-17 00:00:00 +0100
 permalink: mixed-dimensional-geometric-coupling-of-port-hamiltonian-systems

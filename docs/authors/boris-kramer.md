@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Boris Kramer
 permalink: /authors/boris-kramer
 ---

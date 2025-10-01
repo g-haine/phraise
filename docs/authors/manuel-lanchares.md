@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Manuel Lanchares
 permalink: /authors/manuel-lanchares
 ---

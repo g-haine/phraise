@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipative Physical Systems"
 date: 2013-02-19 00:00:00 +0100
 permalink: dissipative-physical-systems00

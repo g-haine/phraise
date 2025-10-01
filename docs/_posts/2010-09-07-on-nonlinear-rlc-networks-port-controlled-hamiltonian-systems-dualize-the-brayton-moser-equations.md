@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ON NONLINEAR RLC NETWORKS: PORT-CONTROLLED HAMILTONIAN SYSTEMS DUALIZE THE BRAYTON-MOSER EQUATIONS"
 date: 2010-09-07 00:00:00 +0100
 permalink: on-nonlinear-rlc-networks-port-controlled-hamiltonian-systems-dualize-the-brayton-moser-equations

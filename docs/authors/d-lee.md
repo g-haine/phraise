@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. Lee
 permalink: /authors/d-lee
 ---

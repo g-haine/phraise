@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Youcef Belkhier
 permalink: /authors/youcef-belkhier
 ---

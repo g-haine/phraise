@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-Posedness of Boundary Controlled and Observed Stochastic Port-Hamiltonian Systems"
 date: 2019-11-19 00:00:00 +0100
 permalink: well-posedness-of-boundary-controlled-and-observed-stochastic-port-hamiltonian-systems

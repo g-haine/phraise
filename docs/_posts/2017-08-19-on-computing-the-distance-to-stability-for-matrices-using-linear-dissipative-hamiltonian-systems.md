@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On computing the distance to stability for matrices using linear dissipative Hamiltonian systems"
 date: 2017-08-19 00:00:00 +0100
 permalink: on-computing-the-distance-to-stability-for-matrices-using-linear-dissipative-hamiltonian-systems

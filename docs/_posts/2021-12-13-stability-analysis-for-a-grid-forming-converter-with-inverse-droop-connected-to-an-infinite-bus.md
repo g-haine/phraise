@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability Analysis for a Grid-Forming Converter with Inverse Droop Connected to an Infinite Bus"
 date: 2021-12-13 00:00:00 +0100
 permalink: stability-analysis-for-a-grid-forming-converter-with-inverse-droop-connected-to-an-infinite-bus

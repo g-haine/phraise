@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jacquelien M. A. Scherpen
 permalink: /authors/jacquelien-m-a-scherpen
 ---

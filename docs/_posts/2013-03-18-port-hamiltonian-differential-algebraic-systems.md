@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Differential-Algebraic Systems"
 date: 2013-03-18 00:00:00 +0100
 permalink: port-hamiltonian-differential-algebraic-systems

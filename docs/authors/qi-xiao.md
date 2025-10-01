@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qi Xiao
 permalink: /authors/qi-xiao
 ---

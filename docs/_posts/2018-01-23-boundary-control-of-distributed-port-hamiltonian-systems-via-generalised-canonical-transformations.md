@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary control of distributed port-hamiltonian systems via generalised canonical transformations"
 date: 2018-01-23 00:00:00 +0100
 permalink: boundary-control-of-distributed-port-hamiltonian-systems-via-generalised-canonical-transformations

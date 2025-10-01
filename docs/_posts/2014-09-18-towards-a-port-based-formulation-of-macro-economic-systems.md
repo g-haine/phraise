@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Towards a port-based formulation of macro-economic systems"
 date: 2014-09-18 00:00:00 +0100
 permalink: towards-a-port-based-formulation-of-macro-economic-systems

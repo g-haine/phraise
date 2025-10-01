@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rainer H. Picard
 permalink: /authors/rainer-h-picard
 ---

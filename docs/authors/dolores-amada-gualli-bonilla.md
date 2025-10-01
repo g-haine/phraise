@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dolores Amada Gualli Bonilla
 permalink: /authors/dolores-amada-gualli-bonilla
 ---

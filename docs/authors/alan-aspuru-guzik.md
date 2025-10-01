@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alán Aspuru-Guzik
 permalink: /authors/alan-aspuru-guzik
 ---

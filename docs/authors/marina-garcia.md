@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marina Garcia
 permalink: /authors/marina-garcia
 ---

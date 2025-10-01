@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exergetic Port-Hamiltonian Systems: Navier-Stokes-Fourier Fluid"
 date: 2022-09-02 00:00:00 +0100
 permalink: exergetic-port-hamiltonian-systems-navier-stokes-fourier-fluid

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A non-intrusive method to inferring linear port-Hamiltonian realizations using time-domain data"
 date: 2022-01-10 00:00:00 +0100
 permalink: a-non-intrusive-method-to-inferring-linear-port-hamiltonian-realizations-using-time-domain-data

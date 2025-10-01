@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Models for Flow of Incompressible Fluids in Rigid Pipelines with Faults"
 date: 2020-03-13 00:00:00 +0100
 permalink: port-hamiltonian-models-for-flow-of-incompressible-fluids-in-rigid-pipelines-with-faults

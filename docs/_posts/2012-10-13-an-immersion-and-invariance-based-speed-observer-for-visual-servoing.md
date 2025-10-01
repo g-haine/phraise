@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An immersion and invariance-based speed observer for visual servoing"
 date: 2012-10-13 00:00:00 +0100
 permalink: an-immersion-and-invariance-based-speed-observer-for-visual-servoing

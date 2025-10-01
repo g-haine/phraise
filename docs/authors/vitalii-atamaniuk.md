@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vitalii Atamaniuk
 permalink: /authors/vitalii-atamaniuk
 ---

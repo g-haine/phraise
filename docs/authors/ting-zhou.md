@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ting Zhou
 permalink: /authors/ting-zhou
 ---

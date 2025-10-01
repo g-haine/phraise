@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dehai Yu
 permalink: /authors/dehai-yu
 ---

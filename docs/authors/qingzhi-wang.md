@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingzhi Wang
 permalink: /authors/qingzhi-wang
 ---

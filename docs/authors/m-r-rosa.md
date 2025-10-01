@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. R. Rosa
 permalink: /authors/m-r-rosa
 ---

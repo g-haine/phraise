@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ruichao Ma
 permalink: /authors/ruichao-ma
 ---

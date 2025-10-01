@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. Brown
 permalink: /authors/r-brown
 ---

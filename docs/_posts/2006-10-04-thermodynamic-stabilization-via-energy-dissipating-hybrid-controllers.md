@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Thermodynamic Stabilization via Energy Dissipating Hybrid Controllers"
 date: 2006-10-04 00:00:00 +0100
 permalink: thermodynamic-stabilization-via-energy-dissipating-hybrid-controllers

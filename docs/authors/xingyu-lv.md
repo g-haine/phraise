@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xingyu Lv
 permalink: /authors/xingyu-lv
 ---

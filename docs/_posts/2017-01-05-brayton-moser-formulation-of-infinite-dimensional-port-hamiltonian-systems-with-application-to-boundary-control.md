@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Brayton-moser formulation of infinite dimensional port-hamiltonian systems with application to boundary control"
 date: 2017-01-05 00:00:00 +0100
 permalink: brayton-moser-formulation-of-infinite-dimensional-port-hamiltonian-systems-with-application-to-boundary-control

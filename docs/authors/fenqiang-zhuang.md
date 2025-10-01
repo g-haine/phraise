@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fenqiang Zhuang
 permalink: /authors/fenqiang-zhuang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control and Sliding Mode Control applied to Electric Vehicles based on Fuel Cells, Supercapacitors and Batteries on the DC Link"
 date: 2012-05-17 00:00:00 +0100
 permalink: passivity-based-control-and-sliding-mode-control-applied-to-electric-vehicles-based-on-fuel-cells-supercapacitors-and-batteries-on-the-dc-link

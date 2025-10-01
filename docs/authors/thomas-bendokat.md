@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thomas Bendokat
 permalink: /authors/thomas-bendokat
 ---

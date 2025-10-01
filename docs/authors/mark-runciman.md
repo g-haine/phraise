@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mark Runciman
 permalink: /authors/mark-runciman
 ---

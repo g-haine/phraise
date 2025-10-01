@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lionel Rosier
 permalink: /authors/lionel-rosier
 ---

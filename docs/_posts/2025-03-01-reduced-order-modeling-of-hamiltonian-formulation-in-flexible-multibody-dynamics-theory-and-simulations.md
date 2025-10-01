@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reduced-order modeling of Hamiltonian formulation in flexible multibody dynamics: Theory and simulations"
 date: 2025-03-01 00:00:00 +0100
 permalink: reduced-order-modeling-of-hamiltonian-formulation-in-flexible-multibody-dynamics-theory-and-simulations

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Efrain Alcorta Garcia
 permalink: /authors/efrain-alcorta-garcia
 ---

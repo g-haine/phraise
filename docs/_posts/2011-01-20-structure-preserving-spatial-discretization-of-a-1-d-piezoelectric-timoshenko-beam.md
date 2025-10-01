@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure Preserving Spatial Discretization of a 1-D Piezoelectric Timoshenko Beam"
 date: 2011-01-20 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanjie Wang
 permalink: /authors/yanjie-wang
 ---

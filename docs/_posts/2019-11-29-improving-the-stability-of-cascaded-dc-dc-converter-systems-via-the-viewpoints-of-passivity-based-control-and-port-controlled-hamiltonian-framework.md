@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Improving the Stability of Cascaded DC-DC Converter Systems via the Viewpoints of Passivity-Based Control and Port-Controlled Hamiltonian Framework"
 date: 2019-11-29 00:00:00 +0100
 permalink: improving-the-stability-of-cascaded-dc-dc-converter-systems-via-the-viewpoints-of-passivity-based-control-and-port-controlled-hamiltonian-framework

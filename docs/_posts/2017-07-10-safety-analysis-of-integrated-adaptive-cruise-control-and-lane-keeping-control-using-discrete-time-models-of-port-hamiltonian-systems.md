@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Safety analysis of integrated adaptive cruise control and lane keeping control using discrete-time models of port-Hamiltonian systems"
 date: 2017-07-10 00:00:00 +0100
 permalink: safety-analysis-of-integrated-adaptive-cruise-control-and-lane-keeping-control-using-discrete-time-models-of-port-hamiltonian-systems

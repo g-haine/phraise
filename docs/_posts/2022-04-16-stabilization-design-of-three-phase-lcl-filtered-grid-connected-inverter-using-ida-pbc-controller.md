@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization Design of Three-Phase LCL-Filtered Grid-Connected Inverter Using IDA-PBC Controller"
 date: 2022-04-16 00:00:00 +0100
 permalink: stabilization-design-of-three-phase-lcl-filtered-grid-connected-inverter-using-ida-pbc-controller

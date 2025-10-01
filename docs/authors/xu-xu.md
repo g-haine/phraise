@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xu Xu
 permalink: /authors/xu-xu
 ---

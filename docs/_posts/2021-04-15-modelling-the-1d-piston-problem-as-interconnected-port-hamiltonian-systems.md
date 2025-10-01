@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling the 1D piston problem as interconnected port-Hamiltonian systems"
 date: 2021-04-15 00:00:00 +0100
 permalink: modelling-the-1d-piston-problem-as-interconnected-port-hamiltonian-systems

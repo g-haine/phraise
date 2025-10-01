@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuezheng Gong
 permalink: /authors/yuezheng-gong
 ---

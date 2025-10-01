@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. K. P. Bhatt
 permalink: /authors/r-k-p-bhatt
 ---

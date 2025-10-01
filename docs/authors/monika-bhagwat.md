@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Monika Bhagwat
 permalink: /authors/monika-bhagwat
 ---

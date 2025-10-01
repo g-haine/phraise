@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "FROM NONLINEAR SYSTEMS TO PORT CONTROLLED HAMILTONIAN SYSTEMS"
 date: 2010-09-07 00:00:00 +0100
 permalink: from-nonlinear-systems-to-port-controlled-hamiltonian-systems

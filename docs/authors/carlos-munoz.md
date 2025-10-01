@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Carlos Muñoz
 permalink: /authors/carlos-munoz
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chuan Ji
 permalink: /authors/chuan-ji
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilisation and ℋ<sub>∞</sub>control for switched port-controlled Hamiltonian systems with unstable modes and actuator saturation"
 date: 2019-11-27 00:00:00 +0100
 permalink: stabilisation-and-h-sub-sub-control-for-switched-port-controlled-hamiltonian-systems-with-unstable-modes-and-actuator-saturation

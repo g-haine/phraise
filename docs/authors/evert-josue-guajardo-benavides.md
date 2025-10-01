@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Evert Josue Guajardo Benavides
 permalink: /authors/evert-josue-guajardo-benavides
 ---

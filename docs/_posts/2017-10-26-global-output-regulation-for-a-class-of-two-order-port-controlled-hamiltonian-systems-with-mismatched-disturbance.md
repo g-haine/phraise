@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global output regulation for a class of two order port-controlled hamiltonian systems with mismatched disturbance"
 date: 2017-10-26 00:00:00 +0100
 permalink: global-output-regulation-for-a-class-of-two-order-port-controlled-hamiltonian-systems-with-mismatched-disturbance

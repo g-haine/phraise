@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Klas Modin
 permalink: /authors/klas-modin
 ---

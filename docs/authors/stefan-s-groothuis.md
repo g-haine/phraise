@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stefan S. Groothuis
 permalink: /authors/stefan-s-groothuis
 ---

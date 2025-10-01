@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems Theory and Monotonicity"
 date: 2023-07-17 00:00:00 +0100
 permalink: port-hamiltonian-systems-theory-and-monotonicity

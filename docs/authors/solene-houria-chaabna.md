@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Solene Houria Chaabna
 permalink: /authors/solene-houria-chaabna
 ---

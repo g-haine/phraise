@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dajun Xu
 permalink: /authors/dajun-xu
 ---

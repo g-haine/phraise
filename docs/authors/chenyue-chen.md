@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chenyue Chen
 permalink: /authors/chenyue-chen
 ---

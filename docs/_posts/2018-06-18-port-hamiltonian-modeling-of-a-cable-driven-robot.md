@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Hamiltonian Modeling of a Cable Driven Robot"
 date: 2018-06-18 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-a-cable-driven-robot

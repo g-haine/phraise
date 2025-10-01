@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gabor Szederkenyi
 permalink: /authors/gabor-szederkenyi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Direct power control of grid connected voltage source inverters using port-controlled Hamiltonian system"
 date: 2017-09-06 00:00:00 +0100
 permalink: direct-power-control-of-grid-connected-voltage-source-inverters-using-port-controlled-hamiltonian-system

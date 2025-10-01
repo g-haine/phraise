@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ronny Thomale
 permalink: /authors/ronny-thomale
 ---

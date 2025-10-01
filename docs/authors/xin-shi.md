@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xin Shi
 permalink: /authors/xin-shi
 ---

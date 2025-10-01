@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lumped parameter modelling and simulation of a simplified vocal apparatus in the port-Hamiltonian framework"
 date: 2024-01-19 00:00:00 +0100
 permalink: lumped-parameter-modelling-and-simulation-of-a-simplified-vocal-apparatus-in-the-port-hamiltonian-framework

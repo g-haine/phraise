@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear Feedback, Double-bracket Dissipation and Port Control of Lie–Poisson Systems"
 date: 2024-04-05 00:00:00 +0100
 permalink: nonlinear-feedback-double-bracket-dissipation-and-port-control-of-lie-poisson-systems

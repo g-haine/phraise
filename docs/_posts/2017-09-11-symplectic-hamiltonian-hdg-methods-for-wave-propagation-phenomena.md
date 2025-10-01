@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Symplectic Hamiltonian HDG methods for wave propagation phenomena"
 date: 2017-09-11 00:00:00 +0100
 permalink: symplectic-hamiltonian-hdg-methods-for-wave-propagation-phenomena

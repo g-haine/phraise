@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P. Goldsmith
 permalink: /authors/p-goldsmith
 ---

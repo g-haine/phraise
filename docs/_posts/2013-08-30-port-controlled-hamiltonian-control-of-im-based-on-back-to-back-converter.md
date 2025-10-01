@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Controlled Hamiltonian Control of IM Based on Back-to-Back Converter"
 date: 2013-08-30 00:00:00 +0100
 permalink: port-controlled-hamiltonian-control-of-im-based-on-back-to-back-converter

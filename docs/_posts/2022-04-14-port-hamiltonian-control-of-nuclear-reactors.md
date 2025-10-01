@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Control of Nuclear Reactors"
 date: 2022-04-14 00:00:00 +0100
 permalink: port-hamiltonian-control-of-nuclear-reactors

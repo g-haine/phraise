@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jérôme Bonelle
 permalink: /authors/jerome-bonelle
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling and Structure-Preserving Discretization of the Schrödinger as a Port-Hamiltonian System, and Simulation of a Controlled Quantum Box"
 date: 2023-07-31 00:00:00 +0100
 permalink: modelling-and-structure-preserving-discretization-of-the-schrodinger-as-a-port-hamiltonian-system-and-simulation-of-a-controlled-quantum-box

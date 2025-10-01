@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammed E. Sayed
 permalink: /authors/mohammed-e-sayed
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Efficient Model Reduction of Myelinated Compartments as Port-Hamiltonian Systems"
 date: 2022-03-11 00:00:00 +0100
 permalink: efficient-model-reduction-of-myelinated-compartments-as-port-hamiltonian-systems

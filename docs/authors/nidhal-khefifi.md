@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by N. Khefifi
 permalink: /authors/nidhal-khefifi
 ---

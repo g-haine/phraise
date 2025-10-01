@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geometric scattering in tele-manipulation of port controlled Hamiltonian systems"
 date: 2002-11-13 00:00:00 +0100
 permalink: geometric-scattering-in-tele-manipulation-of-port-controlled-hamiltonian-systems

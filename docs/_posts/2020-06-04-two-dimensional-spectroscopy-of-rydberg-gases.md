@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Two-dimensional spectroscopy of Rydberg gases"
 date: 2020-06-04 00:00:00 +0100
 permalink: two-dimensional-spectroscopy-of-rydberg-gases

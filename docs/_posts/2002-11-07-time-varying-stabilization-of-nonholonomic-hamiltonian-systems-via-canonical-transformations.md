@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time-varying stabilization of nonholonomic Hamiltonian systems via canonical transformations"
 date: 2002-11-07 00:00:00 +0100
 permalink: time-varying-stabilization-of-nonholonomic-hamiltonian-systems-via-canonical-transformations

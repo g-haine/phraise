@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiaxing Lei
 permalink: /authors/jiaxing-lei
 ---

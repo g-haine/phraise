@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ignacio Díaz
 permalink: /authors/ignacio-diaz
 ---

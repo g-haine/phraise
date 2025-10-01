@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Graph-theoretic quantum system modelling for neuronal microtubules as hierarchical clustered quantum Hopfield networks"
 date: 2014-03-13 00:00:00 +0100
 permalink: graph-theoretic-quantum-system-modelling-for-neuronal-microtubules-as-hierarchical-clustered-quantum-hopfield-networks

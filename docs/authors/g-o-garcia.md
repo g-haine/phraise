@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by G. O. Garcia
 permalink: /authors/g-o-garcia
 ---

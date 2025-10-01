@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On damping models preserving the eigenfunctions of conservative systems: a port-Hamiltonian perspective"
 date: 2012-09-15 00:00:00 +0100
 permalink: on-damping-models-preserving-the-eigenfunctions-of-conservative-systems-a-port-hamiltonian-perspective

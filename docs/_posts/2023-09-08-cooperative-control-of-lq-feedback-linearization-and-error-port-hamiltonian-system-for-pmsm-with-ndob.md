@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cooperative Control of LQ-Feedback Linearization and Error Port-Hamiltonian System for PMSM with NDOB"
 date: 2023-09-08 00:00:00 +0100
 permalink: cooperative-control-of-lq-feedback-linearization-and-error-port-hamiltonian-system-for-pmsm-with-ndob

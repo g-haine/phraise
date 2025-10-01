@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Koopman wavefunctions and classical states in hybrid quantum–classical dynamics"
 date: 2022-08-30 00:00:00 +0100
 permalink: koopman-wavefunctions-and-classical-states-in-hybrid-quantum-classical-dynamics

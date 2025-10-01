@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sai Sowmya Nagam
 permalink: /authors/sai-sowmya-nagam
 ---

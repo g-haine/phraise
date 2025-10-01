@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jens Jäschke
 permalink: /authors/jens-jaschke
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lie-Poisson Hamilton-Jacobi theory and Lie-Poisson integrators"
 date: 2002-10-17 00:00:00 +0100
 permalink: lie-poisson-hamilton-jacobi-theory-and-lie-poisson-integrators

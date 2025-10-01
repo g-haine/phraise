@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer-Based Adaptive Exponential Tracking of Port - Hamiltonian Systems via Contraction Method"
 date: 2025-02-13 00:00:00 +0100
 permalink: observer-based-adaptive-exponential-tracking-of-port-hamiltonian-systems-via-contraction-method

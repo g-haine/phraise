@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Li Wang
 permalink: /authors/li-wang
 ---

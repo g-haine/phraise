@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian Approach to Plug-and-Play Voltage and Frequency Control in Islanded Inverter-Based AC Microgrids"
 date: 2020-03-13 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-plug-and-play-voltage-and-frequency-control-in-islanded-inverter-based-ac-microgrids

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary energy-shaping control of an isothermal tubular reactor"
 date: 2016-09-15 00:00:00 +0100
 permalink: boundary-energy-shaping-control-of-an-isothermal-tubular-reactor

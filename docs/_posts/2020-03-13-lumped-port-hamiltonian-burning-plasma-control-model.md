@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lumped port–Hamiltonian burning plasma control model"
 date: 2020-03-13 00:00:00 +0100
 permalink: lumped-port-hamiltonian-burning-plasma-control-model

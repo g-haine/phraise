@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Julian Burghoff
 permalink: /authors/julian-burghoff
 ---

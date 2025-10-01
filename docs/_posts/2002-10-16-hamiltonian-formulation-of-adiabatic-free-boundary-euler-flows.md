@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian formulation of adiabatic free boundary Euler flows"
 date: 2002-10-16 00:00:00 +0100
 permalink: hamiltonian-formulation-of-adiabatic-free-boundary-euler-flows

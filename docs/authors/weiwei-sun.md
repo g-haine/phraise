@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Weiwei Sun
 permalink: /authors/weiwei-sun
 ---

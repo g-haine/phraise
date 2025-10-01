@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based In-Domain Control of a Piezo-Actuated Euler-Bernoulli Beam"
 date: 2019-08-23 00:00:00 +0100
 permalink: energy-based-in-domain-control-of-a-piezo-actuated-euler-bernoulli-beam

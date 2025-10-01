@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "EPHS: A Port-Hamiltonian Modelling Language"
 date: 2022-11-23 00:00:00 +0100
 permalink: ephs-a-port-hamiltonian-modelling-language

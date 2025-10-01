@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A force regulation guaranteeing input‐to‐state stability for a robot manipulator in a potential field"
 date: 2017-12-08 00:00:00 +0100
 permalink: a-force-regulation-guaranteeing-input-to-state-stability-for-a-robot-manipulator-in-a-potential-field

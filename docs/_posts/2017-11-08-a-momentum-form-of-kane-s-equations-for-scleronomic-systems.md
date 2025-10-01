@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A momentum form of Kane’s equations for scleronomic systems"
 date: 2017-11-08 00:00:00 +0100
 permalink: a-momentum-form-of-kane-s-equations-for-scleronomic-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Hamiltonian structure of the Maxwell-Vlasov equations"
 date: 2002-10-17 00:00:00 +0100
 permalink: the-hamiltonian-structure-of-the-maxwell-vlasov-equations

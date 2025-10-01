@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling of Multiphysics Systems and Object-Oriented Implementation With the Modelica Language"
 date: 2020-06-08 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-multiphysics-systems-and-object-oriented-implementation-with-the-modelica-language

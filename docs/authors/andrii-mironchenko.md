@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrii Mironchenko
 permalink: /authors/andrii-mironchenko
 ---

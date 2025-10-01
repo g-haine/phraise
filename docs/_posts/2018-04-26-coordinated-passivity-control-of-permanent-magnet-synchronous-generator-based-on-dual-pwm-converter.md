@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coordinated passivity control of permanent magnet synchronous generator based on dual PWM converter"
 date: 2018-04-26 00:00:00 +0100
 permalink: coordinated-passivity-control-of-permanent-magnet-synchronous-generator-based-on-dual-pwm-converter

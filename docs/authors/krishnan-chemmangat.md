@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Krishnan Chemmangat
 permalink: /authors/krishnan-chemmangat
 ---

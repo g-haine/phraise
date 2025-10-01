@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A model-based design approach for simulation and virtual prototyping of automotive control systems using port-Hamiltonian systems"
 date: 2017-12-08 00:00:00 +0100
 permalink: a-model-based-design-approach-for-simulation-and-virtual-prototyping-of-automotive-control-systems-using-port-hamiltonian-systems

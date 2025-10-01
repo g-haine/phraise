@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiang Li
 permalink: /authors/xiang-li
 ---

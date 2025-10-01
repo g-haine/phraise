@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by G. Feve
 permalink: /authors/g-feve
 ---

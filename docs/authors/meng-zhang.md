@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Meng Zhang
 permalink: /authors/meng-zhang
 ---

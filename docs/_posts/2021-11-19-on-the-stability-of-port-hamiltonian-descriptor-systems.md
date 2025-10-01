@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the stability of port-Hamiltonian descriptor systems"
 date: 2021-11-19 00:00:00 +0100
 permalink: on-the-stability-of-port-hamiltonian-descriptor-systems

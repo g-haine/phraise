@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port–Hamiltonian Formulation of Adaptive PI Controller for Constant Power Load Stability Issue: Case Study for Multiphase Fuel Cell Converters"
 date: 2021-06-01 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-adaptive-pi-controller-for-constant-power-load-stability-issue-case-study-for-multiphase-fuel-cell-converters

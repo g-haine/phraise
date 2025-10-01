@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Reduced Order Model Approach to Inverse Scattering in Lossy Layered Media"
 date: 2021-08-16 00:00:00 +0100
 permalink: a-reduced-order-model-approach-to-inverse-scattering-in-lossy-layered-media

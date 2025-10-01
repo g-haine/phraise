@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sam Livingstone
 permalink: /authors/sam-livingstone
 ---

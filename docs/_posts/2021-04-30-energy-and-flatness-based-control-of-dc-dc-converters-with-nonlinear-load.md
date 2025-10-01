@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy- and flatness-based control of DC-DC converters with nonlinear load"
 date: 2021-04-30 00:00:00 +0100
 permalink: energy-and-flatness-based-control-of-dc-dc-converters-with-nonlinear-load

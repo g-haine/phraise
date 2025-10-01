@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The relationship between overshoot and damping injection for the Port-Hamiltonian system subject to actuator saturation"
 date: 2015-09-14 00:00:00 +0100
 permalink: the-relationship-between-overshoot-and-damping-injection-for-the-port-hamiltonian-system-subject-to-actuator-saturation

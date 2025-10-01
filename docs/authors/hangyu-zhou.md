@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hangyu Zhou
 permalink: /authors/hangyu-zhou
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Y.H. Song
 permalink: /authors/y-h-song
 ---

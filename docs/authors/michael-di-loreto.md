@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michael Di Loreto
 permalink: /authors/michael-di-loreto
 ---

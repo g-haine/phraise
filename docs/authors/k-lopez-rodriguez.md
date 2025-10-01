@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by K. Lopez-Rodriguez
 permalink: /authors/k-lopez-rodriguez
 ---

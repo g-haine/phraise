@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sizhe Wang
 permalink: /authors/sizhe-wang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Generation of Large Passive Macromodels for Complex Interconnect Structures"
 date: 2006-02-06 00:00:00 +0100
 permalink: on-the-generation-of-large-passive-macromodels-for-complex-interconnect-structures

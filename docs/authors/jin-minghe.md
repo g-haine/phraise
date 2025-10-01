@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jin Minghe
 permalink: /authors/jin-minghe
 ---

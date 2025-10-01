@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Large Signal Stabilization at System Level Using Port-Hamiltonian System Theory for Modular Islanded DC Microgrids"
 date: 2025-05-06 00:00:00 +0100
 permalink: large-signal-stabilization-at-system-level-using-port-hamiltonian-system-theory-for-modular-islanded-dc-microgrids

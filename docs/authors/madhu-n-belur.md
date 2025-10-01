@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Madhu N. Belur
 permalink: /authors/madhu-n-belur
 ---

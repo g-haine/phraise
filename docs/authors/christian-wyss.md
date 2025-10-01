@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Wyss
 permalink: /authors/christian-wyss
 ---

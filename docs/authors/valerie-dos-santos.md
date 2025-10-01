@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Valérie Dos Santos
 permalink: /authors/valerie-dos-santos
 ---

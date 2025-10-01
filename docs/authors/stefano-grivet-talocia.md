@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stefano Grivet-Talocia
 permalink: /authors/stefano-grivet-talocia
 ---

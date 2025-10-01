@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrea Brugnoli
 permalink: /authors/andrea-brugnoli
 ---

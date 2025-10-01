@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and damping assignment and Euler-Lagrange passivity-based control of photovoltaic/battery hybrid power source for stand-alone applications"
 date: 2011-09-08 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-and-euler-lagrange-passivity-based-control-of-photovoltaic-battery-hybrid-power-source-for-stand-alone-applications

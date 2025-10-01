@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Enhanced Synchronization Stability of Grid-Forming Inverters With Passivity-Based Virtual Oscillator Control"
 date: 2022-06-30 00:00:00 +0100
 permalink: enhanced-synchronization-stability-of-grid-forming-inverters-with-passivity-based-virtual-oscillator-control

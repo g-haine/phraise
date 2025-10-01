@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Francisco M. Marquez
 permalink: /authors/francisco-m-marquez
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohsen Bozorgmehrian
 permalink: /authors/mohsen-bozorgmehrian
 ---

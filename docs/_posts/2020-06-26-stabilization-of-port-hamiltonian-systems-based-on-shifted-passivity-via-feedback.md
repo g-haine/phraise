@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Port-Hamiltonian Systems Based on Shifted Passivity via Feedback"
 date: 2020-06-26 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-systems-based-on-shifted-passivity-via-feedback

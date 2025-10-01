@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On asymptotic stability of stationary solutions to nonlinear wave and Klein-Gordon equations"
 date: 2004-11-07 00:00:00 +0100
 permalink: on-asymptotic-stability-of-stationary-solutions-to-nonlinear-wave-and-klein-gordon-equations

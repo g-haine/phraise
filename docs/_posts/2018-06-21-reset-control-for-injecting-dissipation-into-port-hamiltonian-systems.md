@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reset control for injecting dissipation into port-hamiltonian systems"
 date: 2018-06-21 00:00:00 +0100
 permalink: reset-control-for-injecting-dissipation-into-port-hamiltonian-systems

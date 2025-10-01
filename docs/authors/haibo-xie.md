@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haibo Xie
 permalink: /authors/haibo-xie
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. Achar
 permalink: /authors/r-achar
 ---

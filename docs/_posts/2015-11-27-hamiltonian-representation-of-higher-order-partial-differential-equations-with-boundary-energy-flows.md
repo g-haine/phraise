@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian Representation of Higher Order Partial Differential Equations with Boundary Energy Flows"
 date: 2015-11-27 00:00:00 +0100
 permalink: hamiltonian-representation-of-higher-order-partial-differential-equations-with-boundary-energy-flows

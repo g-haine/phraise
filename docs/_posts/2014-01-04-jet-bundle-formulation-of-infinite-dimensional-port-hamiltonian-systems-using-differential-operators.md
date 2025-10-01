@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Jet bundle formulation of infinite-dimensional port-Hamiltonian systems using differential operators"
 date: 2014-01-04 00:00:00 +0100
 permalink: jet-bundle-formulation-of-infinite-dimensional-port-hamiltonian-systems-using-differential-operators

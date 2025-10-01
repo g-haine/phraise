@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jules Gibart
 permalink: /authors/jules-gibart
 ---

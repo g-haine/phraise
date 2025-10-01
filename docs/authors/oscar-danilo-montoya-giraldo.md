@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Oscar Danilo Montoya Giraldo
 permalink: /authors/oscar-danilo-montoya-giraldo
 ---

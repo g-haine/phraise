@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On state-space energy based generalization of Brayton–Moser topological approach to electrical network decomposition"
 date: 2013-01-07 00:00:00 +0100
 permalink: on-state-space-energy-based-generalization-of-brayton-moser-topological-approach-to-electrical-network-decomposition

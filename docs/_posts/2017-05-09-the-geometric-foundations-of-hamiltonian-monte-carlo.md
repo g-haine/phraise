@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The geometric foundations of Hamiltonian Monte Carlo"
 date: 2017-05-09 00:00:00 +0100
 permalink: the-geometric-foundations-of-hamiltonian-monte-carlo

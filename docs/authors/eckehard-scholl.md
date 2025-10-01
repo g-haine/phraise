@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eckehard Schöll
 permalink: /authors/eckehard-scholl
 ---

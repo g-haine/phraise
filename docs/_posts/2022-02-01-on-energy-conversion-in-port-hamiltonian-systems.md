@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Energy Conversion in Port-Hamiltonian Systems"
 date: 2022-02-01 00:00:00 +0100
 permalink: on-energy-conversion-in-port-hamiltonian-systems

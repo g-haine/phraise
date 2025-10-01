@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Full‐order observer design for quadratic port‐controlled Hamiltonian systems"
 date: 2025-03-30 00:00:00 +0100
 permalink: full-order-observer-design-for-quadratic-port-controlled-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jörg Liesen
 permalink: /authors/jorg-liesen
 ---

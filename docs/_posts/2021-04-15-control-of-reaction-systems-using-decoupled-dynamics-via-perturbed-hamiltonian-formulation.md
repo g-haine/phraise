@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of reaction systems using decoupled dynamics via perturbed Hamiltonian formulation"
 date: 2021-04-15 00:00:00 +0100
 permalink: control-of-reaction-systems-using-decoupled-dynamics-via-perturbed-hamiltonian-formulation

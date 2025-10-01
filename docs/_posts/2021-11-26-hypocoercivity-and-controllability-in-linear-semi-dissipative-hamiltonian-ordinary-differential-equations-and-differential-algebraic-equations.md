@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hypocoercivity and controllability in linear semi‐dissipative Hamiltonian ordinary differential equations and differential‐algebraic equations"
 date: 2021-11-26 00:00:00 +0100
 permalink: hypocoercivity-and-controllability-in-linear-semi-dissipative-hamiltonian-ordinary-differential-equations-and-differential-algebraic-equations

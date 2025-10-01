@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nash equilibrium seeking in potential games with double-integrator agents"
 date: 2019-08-15 00:00:00 +0100
 permalink: nash-equilibrium-seeking-in-potential-games-with-double-integrator-agents

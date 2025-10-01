@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shu Wang
 permalink: /authors/shu-wang
 ---

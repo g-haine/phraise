@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Improved potential energy-shaping for port-controlled Hamiltonian systems"
 date: 2012-06-30 00:00:00 +0100
 permalink: improved-potential-energy-shaping-for-port-controlled-hamiltonian-systems

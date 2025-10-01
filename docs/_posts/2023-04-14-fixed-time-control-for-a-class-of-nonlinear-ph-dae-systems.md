@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fixed-Time Control for a Class of Nonlinear PH-DAE Systems"
 date: 2023-04-14 00:00:00 +0100
 permalink: fixed-time-control-for-a-class-of-nonlinear-ph-dae-systems

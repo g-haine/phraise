@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pulkit Nahata
 permalink: /authors/pulkit-nahata
 ---

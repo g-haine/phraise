@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hiroaki Yoshimura
 permalink: /authors/hiroaki-yoshimura
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hanz Richter
 permalink: /authors/hanz-richter
 ---

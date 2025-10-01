@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear Hamiltonian Systems Under Sampling"
 date: 2022-04-05 00:00:00 +0100
 permalink: nonlinear-hamiltonian-systems-under-sampling

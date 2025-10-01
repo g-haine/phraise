@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexandru Dimofte
 permalink: /authors/alexandru-dimofte
 ---

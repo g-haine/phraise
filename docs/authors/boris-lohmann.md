@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Boris Lohmann
 permalink: /authors/boris-lohmann
 ---

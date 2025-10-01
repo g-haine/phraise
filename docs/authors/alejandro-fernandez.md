@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alejandro Fernández
 permalink: /authors/alejandro-fernandez
 ---

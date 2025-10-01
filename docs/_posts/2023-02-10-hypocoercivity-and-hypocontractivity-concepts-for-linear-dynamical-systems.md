@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hypocoercivity and hypocontractivity concepts for linear dynamical systems"
 date: 2023-02-10 00:00:00 +0100
 permalink: hypocoercivity-and-hypocontractivity-concepts-for-linear-dynamical-systems

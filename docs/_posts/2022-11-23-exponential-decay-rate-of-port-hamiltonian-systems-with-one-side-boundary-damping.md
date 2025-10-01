@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential Decay Rate of port-Hamiltonian Systems with one side Boundary Damping"
 date: 2022-11-23 00:00:00 +0100
 permalink: exponential-decay-rate-of-port-hamiltonian-systems-with-one-side-boundary-damping

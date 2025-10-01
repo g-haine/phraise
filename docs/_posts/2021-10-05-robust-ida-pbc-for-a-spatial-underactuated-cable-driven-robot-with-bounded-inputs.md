@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust IDA-PBC for a Spatial Underactuated Cable Driven Robot with Bounded Inputs"
 date: 2021-10-05 00:00:00 +0100
 permalink: robust-ida-pbc-for-a-spatial-underactuated-cable-driven-robot-with-bounded-inputs

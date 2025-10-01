@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking of Partially Unknown Trajectories for Permanent Magnet Synchronous Motors,"
 date: 2013-07-25 00:00:00 +0100
 permalink: tracking-of-partially-unknown-trajectories-for-permanent-magnet-synchronous-motors

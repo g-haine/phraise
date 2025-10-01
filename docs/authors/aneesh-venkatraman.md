@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aneesh Venkatraman
 permalink: /authors/aneesh-venkatraman
 ---

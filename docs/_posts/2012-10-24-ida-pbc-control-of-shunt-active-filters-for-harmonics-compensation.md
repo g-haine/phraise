@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA - PBC control of shunt active filters for harmonics compensation"
 date: 2012-10-24 00:00:00 +0100
 permalink: ida-pbc-control-of-shunt-active-filters-for-harmonics-compensation

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Balanced Model of a Jet Interacting With a Brass Player's Lip"
 date: 2015-12-19 00:00:00 +0100
 permalink: energy-balanced-model-of-a-jet-interacting-with-a-brass-player-s-lip

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sara Yulieth Bocanegra
 permalink: /authors/sara-yulieth-bocanegra
 ---

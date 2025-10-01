@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Multi-scale distributed parameter modeling of ionic polymer-metal composite soft actuator"
 date: 2011-02-12 00:00:00 +0100
 permalink: multi-scale-distributed-parameter-modeling-of-ionic-polymer-metal-composite-soft-actuator

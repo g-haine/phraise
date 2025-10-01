@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Songyuan Liu
 permalink: /authors/songyuan-liu
 ---

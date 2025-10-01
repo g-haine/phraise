@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Correction: Finite-time stabilization and H∞ control of Port-controlled Hamiltonian systems with disturbances and saturation"
 date: 2022-08-04 00:00:00 +0100
 permalink: correction-finite-time-stabilization-and-h-control-of-port-controlled-hamiltonian-systems-with-disturbances-and-saturation

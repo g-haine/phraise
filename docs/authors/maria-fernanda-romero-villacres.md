@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by María Fernanda Romero Villacrés
 permalink: /authors/maria-fernanda-romero-villacres
 ---

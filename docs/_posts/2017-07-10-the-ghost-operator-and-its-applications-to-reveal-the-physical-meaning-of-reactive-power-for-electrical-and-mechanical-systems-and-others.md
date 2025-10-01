@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Ghost Operator and Its Applications to Reveal the Physical Meaning of Reactive Power for Electrical and Mechanical Systems and Others"
 date: 2017-07-10 00:00:00 +0100
 permalink: the-ghost-operator-and-its-applications-to-reveal-the-physical-meaning-of-reactive-power-for-electrical-and-mechanical-systems-and-others

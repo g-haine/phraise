@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gerrit Adriaan Folkertsma
 permalink: /authors/gerrit-adriaan-folkertsma
 ---

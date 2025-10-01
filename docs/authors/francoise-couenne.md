@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Françoise Couenne
 permalink: /authors/francoise-couenne
 ---

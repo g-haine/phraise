@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure‐preserving discretization of a port‐Hamiltonian formulation of the non‐isothermal Euler equations"
 date: 2021-01-25 00:00:00 +0100
 permalink: structure-preserving-discretization-of-a-port-hamiltonian-formulation-of-the-non-isothermal-euler-equations

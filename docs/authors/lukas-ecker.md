@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lukas Ecker
 permalink: /authors/lukas-ecker
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Long-term analysis of the Störmer–Verlet method for Hamiltonian systems with a solution-dependent high frequency"
 date: 2015-09-09 00:00:00 +0100
 permalink: long-term-analysis-of-the-stormer-verlet-method-for-hamiltonian-systems-with-a-solution-dependent-high-frequency

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global continuous robust finite‐time control design for unified power flow controller"
 date: 2018-06-28 00:00:00 +0100
 permalink: global-continuous-robust-finite-time-control-design-for-unified-power-flow-controller

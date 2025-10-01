@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by José Cesáreo
 permalink: /authors/jose-cesareo
 ---

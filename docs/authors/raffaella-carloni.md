@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Raffaella Carloni
 permalink: /authors/raffaella-carloni
 ---

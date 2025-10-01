@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by W. D. Oliver
 permalink: /authors/w-d-oliver
 ---

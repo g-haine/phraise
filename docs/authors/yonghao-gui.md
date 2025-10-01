@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yonghao Gui
 permalink: /authors/yonghao-gui
 ---

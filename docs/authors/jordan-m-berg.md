@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jordan M. Berg
 permalink: /authors/jordan-m-berg
 ---

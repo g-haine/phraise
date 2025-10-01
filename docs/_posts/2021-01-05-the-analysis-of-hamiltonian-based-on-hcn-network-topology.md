@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Analysis of Hamiltonian based on HCN network topology"
 date: 2021-01-05 00:00:00 +0100
 permalink: the-analysis-of-hamiltonian-based-on-hcn-network-topology

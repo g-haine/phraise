@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sensorless passivity based control of doubly-fed induction generators in variable-speed wind turbine systems based on high gain observer"
 date: 2022-09-14 00:00:00 +0100
 permalink: sensorless-passivity-based-control-of-doubly-fed-induction-generators-in-variable-speed-wind-turbine-systems-based-on-high-gain-observer

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Automatic flow control of water distribution systems"
 date: 2024-12-09 00:00:00 +0100
 permalink: automatic-flow-control-of-water-distribution-systems

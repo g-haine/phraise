@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by George J. Pappas
 permalink: /authors/george-j-pappas
 ---

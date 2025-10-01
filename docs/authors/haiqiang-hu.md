@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haiqiang Hu
 permalink: /authors/haiqiang-hu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hélène Piet-Lahanier
 permalink: /authors/helene-piet-lahanier
 ---

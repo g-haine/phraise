@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A family of virtual contraction based controllers for tracking of flexible‐joints port‐Hamiltonian robots: Theory and experiments"
 date: 2020-03-04 00:00:00 +0100
 permalink: a-family-of-virtual-contraction-based-controllers-for-tracking-of-flexible-joints-port-hamiltonian-robots-theory-and-experiments

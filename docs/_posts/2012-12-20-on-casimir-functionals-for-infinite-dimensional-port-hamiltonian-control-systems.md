@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Casimir Functionals for Infinite-Dimensional Port-Hamiltonian Control Systems"
 date: 2012-12-20 00:00:00 +0100
 permalink: on-casimir-functionals-for-infinite-dimensional-port-hamiltonian-control-systems

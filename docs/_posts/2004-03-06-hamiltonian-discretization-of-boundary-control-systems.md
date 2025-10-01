@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian discretization of boundary control systems"
 date: 2004-03-06 00:00:00 +0100
 permalink: hamiltonian-discretization-of-boundary-control-systems

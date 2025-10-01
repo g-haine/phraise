@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Twenty years of distributed port-Hamiltonian systems: a literature review"
 date: 2020-07-09 00:00:00 +0100
 permalink: twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review

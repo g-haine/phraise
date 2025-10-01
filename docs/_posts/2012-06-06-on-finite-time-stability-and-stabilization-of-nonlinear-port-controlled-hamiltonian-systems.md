@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On finite-time stability and stabilization of nonlinear port-controlled Hamiltonian systems"
 date: 2012-06-06 00:00:00 +0100
 permalink: on-finite-time-stability-and-stabilization-of-nonlinear-port-controlled-hamiltonian-systems

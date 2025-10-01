@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Li-Heng Zhang
 permalink: /authors/li-heng-zhang
 ---

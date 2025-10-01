@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Shaping Methods for Asymptotic Force Regulation of Compliant Mechanical Systems"
 date: 2014-03-20 00:00:00 +0100
 permalink: energy-shaping-methods-for-asymptotic-force-regulation-of-compliant-mechanical-systems

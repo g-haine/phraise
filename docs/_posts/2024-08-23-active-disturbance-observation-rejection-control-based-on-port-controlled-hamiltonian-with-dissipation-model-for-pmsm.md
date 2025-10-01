@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Active disturbance observation rejection control based on port-controlled Hamiltonian with dissipation model for PMSM"
 date: 2024-08-23 00:00:00 +0100
 permalink: active-disturbance-observation-rejection-control-based-on-port-controlled-hamiltonian-with-dissipation-model-for-pmsm

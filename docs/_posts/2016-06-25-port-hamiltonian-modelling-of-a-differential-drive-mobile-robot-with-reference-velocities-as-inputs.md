@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-hamiltonian modelling of a differential drive mobile robot with reference velocities as inputs"
 date: 2016-06-25 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-a-differential-drive-mobile-robot-with-reference-velocities-as-inputs

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Speed control of induction motors based on energy-shaping and signal transformation principle"
 date: 2010-08-02 00:00:00 +0100
 permalink: speed-control-of-induction-motors-based-on-energy-shaping-and-signal-transformation-principle

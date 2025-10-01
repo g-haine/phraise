@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Himpe
 permalink: /authors/christian-himpe
 ---

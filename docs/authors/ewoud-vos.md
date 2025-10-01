@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ewoud Vos
 permalink: /authors/ewoud-vos
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T. Kato
 permalink: /authors/t-kato
 ---

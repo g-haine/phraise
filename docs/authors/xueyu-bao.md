@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xueyu Bao
 permalink: /authors/xueyu-bao
 ---

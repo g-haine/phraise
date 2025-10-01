@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nicolas Léchevin
 permalink: /authors/nicolas-lechevin
 ---

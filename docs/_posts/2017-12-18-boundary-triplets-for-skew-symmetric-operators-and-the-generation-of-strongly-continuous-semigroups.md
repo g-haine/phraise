@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary triplets for skew-symmetric operators and the generation of strongly continuous semigroups"
 date: 2017-12-18 00:00:00 +0100
 permalink: boundary-triplets-for-skew-symmetric-operators-and-the-generation-of-strongly-continuous-semigroups

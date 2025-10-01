@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Toward Stabilization of Constant Power Loads Using IDA-PBC for Cascaded <i>LC</i> Filter DC/DC Converters"
 date: 2019-10-03 00:00:00 +0100
 permalink: toward-stabilization-of-constant-power-loads-using-ida-pbc-for-cascaded-i-lc-i-filter-dc-dc-converters

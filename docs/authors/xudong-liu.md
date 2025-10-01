@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xudong Liu
 permalink: /authors/xudong-liu
 ---

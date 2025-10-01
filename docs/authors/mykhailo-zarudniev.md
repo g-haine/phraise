@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mykhailo Zarudniev
 permalink: /authors/mykhailo-zarudniev
 ---

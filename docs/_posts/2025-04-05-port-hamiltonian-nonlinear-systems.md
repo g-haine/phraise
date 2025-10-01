@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Nonlinear Systems"
 date: 2025-04-05 00:00:00 +0100
 permalink: port-hamiltonian-nonlinear-systems

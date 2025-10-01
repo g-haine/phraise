@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michele Cucuzzella
 permalink: /authors/michele-cucuzzella
 ---

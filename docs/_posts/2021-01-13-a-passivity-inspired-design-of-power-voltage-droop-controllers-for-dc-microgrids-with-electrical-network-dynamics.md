@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A passivity-inspired design of power-voltage droop controllers for DC microgrids with electrical network dynamics"
 date: 2021-01-13 00:00:00 +0100
 permalink: a-passivity-inspired-design-of-power-voltage-droop-controllers-for-dc-microgrids-with-electrical-network-dynamics

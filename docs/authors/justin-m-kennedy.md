@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Justin M. Kennedy
 permalink: /authors/justin-m-kennedy
 ---

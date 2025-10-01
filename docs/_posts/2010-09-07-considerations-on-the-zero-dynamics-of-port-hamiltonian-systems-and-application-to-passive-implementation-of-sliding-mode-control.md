@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CONSIDERATIONS ON THE ZERO-DYNAMICS OF PORT HAMILTONIAN SYSTEMS AND APPLICATION TO PASSIVE IMPLEMENTATION OF SLIDING-MODE CONTROL"
 date: 2010-09-07 00:00:00 +0100
 permalink: considerations-on-the-zero-dynamics-of-port-hamiltonian-systems-and-application-to-passive-implementation-of-sliding-mode-control

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hesong Shen
 permalink: /authors/hesong-shen
 ---

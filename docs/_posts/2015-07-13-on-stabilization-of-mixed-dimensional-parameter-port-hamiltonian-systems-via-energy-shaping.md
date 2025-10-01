@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Stabilization of Mixed Dimensional Parameter Port Hamiltonian Systems Via Energy Shaping"
 date: 2015-07-13 00:00:00 +0100
 permalink: on-stabilization-of-mixed-dimensional-parameter-port-hamiltonian-systems-via-energy-shaping

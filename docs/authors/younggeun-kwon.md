@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Younggeun Kwon
 permalink: /authors/younggeun-kwon
 ---

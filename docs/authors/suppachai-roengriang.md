@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Suppachai Roengriang
 permalink: /authors/suppachai-roengriang
 ---

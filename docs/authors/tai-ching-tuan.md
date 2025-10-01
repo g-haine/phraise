@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tai-Ching Tuan
 permalink: /authors/tai-ching-tuan
 ---

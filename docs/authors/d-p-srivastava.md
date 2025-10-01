@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D.P. Srivastava
 permalink: /authors/d-p-srivastava
 ---

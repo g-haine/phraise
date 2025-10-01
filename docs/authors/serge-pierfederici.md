@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Serge Pierfederici
 permalink: /authors/serge-pierfederici
 ---

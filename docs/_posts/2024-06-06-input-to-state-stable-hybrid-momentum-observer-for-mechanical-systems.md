@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Input-to-State Stable Hybrid Momentum Observer for Mechanical Systems"
 date: 2024-06-06 00:00:00 +0100
 permalink: input-to-state-stable-hybrid-momentum-observer-for-mechanical-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws"
 date: 2011-10-17 00:00:00 +0100
 permalink: pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws

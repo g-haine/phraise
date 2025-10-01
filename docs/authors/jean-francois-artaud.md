@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean-Francois Artaud
 permalink: /authors/jean-francois-artaud
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jochen Glück
 permalink: /authors/jochen-gluck
 ---

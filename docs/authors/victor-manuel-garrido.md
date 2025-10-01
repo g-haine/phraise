@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Victor Manuel Garrido
 permalink: /authors/victor-manuel-garrido
 ---

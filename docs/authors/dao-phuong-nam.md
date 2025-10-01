@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dao Phuong Nam
 permalink: /authors/dao-phuong-nam
 ---

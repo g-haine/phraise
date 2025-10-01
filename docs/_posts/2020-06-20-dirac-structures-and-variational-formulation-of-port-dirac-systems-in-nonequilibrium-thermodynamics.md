@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac structures and variational formulation of port-Dirac systems in nonequilibrium thermodynamics"
 date: 2020-06-20 00:00:00 +0100
 permalink: dirac-structures-and-variational-formulation-of-port-dirac-systems-in-nonequilibrium-thermodynamics

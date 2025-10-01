@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Françoise Lamnabhi-Lagarrigue
 permalink: /authors/francoise-lamnabhi-lagarrigue
 ---

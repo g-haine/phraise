@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Schmuck
 permalink: /authors/m-schmuck
 ---

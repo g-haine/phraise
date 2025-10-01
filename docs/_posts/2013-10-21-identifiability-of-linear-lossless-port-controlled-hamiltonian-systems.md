@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Identifiability of linear lossless Port-controlled Hamiltonian systems"
 date: 2013-10-21 00:00:00 +0100
 permalink: identifiability-of-linear-lossless-port-controlled-hamiltonian-systems

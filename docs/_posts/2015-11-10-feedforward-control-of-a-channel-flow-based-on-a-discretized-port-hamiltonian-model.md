@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Feedforward control of a channel flow based on a discretized port-Hamiltonian model"
 date: 2015-11-10 00:00:00 +0100
 permalink: feedforward-control-of-a-channel-flow-based-on-a-discretized-port-hamiltonian-model

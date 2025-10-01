@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhilei Yao
 permalink: /authors/zhilei-yao
 ---

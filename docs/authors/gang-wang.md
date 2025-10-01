@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gang Wang
 permalink: /authors/gang-wang
 ---

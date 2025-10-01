@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear energy-based control of soft continuum pneumatic manipulators"
 date: 2021-09-04 00:00:00 +0100
 permalink: nonlinear-energy-based-control-of-soft-continuum-pneumatic-manipulators

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Verbesserung des Fahrkomforts eines Straßenfahrzeuges durch Aufbauisolation mittels des passivitätsbasierten Regelungsansatzes IDA-PBC"
 date: 2020-04-22 00:00:00 +0100
 permalink: verbesserung-des-fahrkomforts-eines-strassenfahrzeuges-durch-aufbauisolation-mittels-des-passivitatsbasierten-regelungsansatzes-ida-pbc

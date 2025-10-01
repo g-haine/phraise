@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear wave systems on<i>n</i>-D spatial domains"
 date: 2014-12-01 00:00:00 +0100
 permalink: linear-wave-systems-on-i-n-i-d-spatial-domains

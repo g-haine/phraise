@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Families of moment matching based, structure preserving approximations for linear port Hamiltonian systems"
 date: 2013-06-12 00:00:00 +0100
 permalink: families-of-moment-matching-based-structure-preserving-approximations-for-linear-port-hamiltonian-systems

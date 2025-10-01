@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alan Weinstein
 permalink: /authors/alan-weinstein
 ---

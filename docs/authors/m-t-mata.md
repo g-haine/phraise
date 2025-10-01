@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M.T. Mata
 permalink: /authors/m-t-mata
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingyi Hu
 permalink: /authors/qingyi-hu
 ---

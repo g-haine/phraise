@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analysis of Compatible Discrete Operator schemes for elliptic problems on polyhedral meshes"
 date: 2013-07-23 00:00:00 +0100
 permalink: analysis-of-compatible-discrete-operator-schemes-for-elliptic-problems-on-polyhedral-meshes

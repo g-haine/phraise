@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nicolas Hudon
 permalink: /authors/nicolas-hudon
 ---

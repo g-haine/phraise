@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic stability of port-hamiltonian systems with constant inputs"
 date: 2021-04-23 00:00:00 +0100
 permalink: asymptotic-stability-of-port-hamiltonian-systems-with-constant-inputs

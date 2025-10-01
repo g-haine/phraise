@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qing Hui
 permalink: /authors/qing-hui
 ---

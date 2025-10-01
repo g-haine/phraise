@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean-Philippe Martin
 permalink: /authors/jean-philippe-martin
 ---

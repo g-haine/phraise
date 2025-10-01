@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Damien Guilbert
 permalink: /authors/damien-guilbert
 ---

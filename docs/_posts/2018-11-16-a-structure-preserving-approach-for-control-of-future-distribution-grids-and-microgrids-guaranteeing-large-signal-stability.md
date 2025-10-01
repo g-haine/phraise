@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Structure Preserving Approach for Control of Future Distribution Grids and Microgrids Guaranteeing Large Signal Stability"
 date: 2018-11-16 00:00:00 +0100
 permalink: a-structure-preserving-approach-for-control-of-future-distribution-grids-and-microgrids-guaranteeing-large-signal-stability

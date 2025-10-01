@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Path Following Control for a Class of Electro-Mechanical Systems and its Application"
 date: 2012-01-06 00:00:00 +0100
 permalink: path-following-control-for-a-class-of-electro-mechanical-systems-and-its-application

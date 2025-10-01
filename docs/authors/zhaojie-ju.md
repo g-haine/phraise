@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhaojie Ju
 permalink: /authors/zhaojie-ju
 ---

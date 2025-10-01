@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hugo Rodriguez
 permalink: /authors/hugo-rodriguez
 ---

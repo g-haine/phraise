@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stokes-Dirac structures through reduction of infinite-dimensional Dirac structures"
 date: 2011-02-22 00:00:00 +0100
 permalink: stokes-dirac-structures-through-reduction-of-infinite-dimensional-dirac-structures

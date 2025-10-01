@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chengzhi Qin
 permalink: /authors/chengzhi-qin
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Non-linear control of a three-phase front end converter"
 date: 2012-06-13 00:00:00 +0100
 permalink: non-linear-control-of-a-three-phase-front-end-converter

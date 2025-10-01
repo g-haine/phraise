@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ilaria Paglianti
 permalink: /authors/ilaria-paglianti
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Novel Speed Control Method Based on Port-Controlled Hamiltonian and Disturbance Observer for PMSM Drives"
 date: 2019-08-13 00:00:00 +0100
 permalink: a-novel-speed-control-method-based-on-port-controlled-hamiltonian-and-disturbance-observer-for-pmsm-drives

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Multi-scale description of pedestrian collective dynamics with port-Hamiltonian systems"
 date: 2023-03-17 00:00:00 +0100
 permalink: multi-scale-description-of-pedestrian-collective-dynamics-with-port-hamiltonian-systems

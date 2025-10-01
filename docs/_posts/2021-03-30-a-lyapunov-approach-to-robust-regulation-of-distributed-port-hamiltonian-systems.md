@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Lyapunov Approach to Robust Regulation of Distributed Port–Hamiltonian Systems"
 date: 2021-03-30 00:00:00 +0100
 permalink: a-lyapunov-approach-to-robust-regulation-of-distributed-port-hamiltonian-systems

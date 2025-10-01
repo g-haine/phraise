@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David Martín de Diego
 permalink: /authors/david-martin-de-diego
 ---

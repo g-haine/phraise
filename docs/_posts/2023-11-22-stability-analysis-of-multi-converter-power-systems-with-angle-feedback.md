@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability Analysis of Multi-Converter Power Systems with Angle Feedback"
 date: 2023-11-22 00:00:00 +0100
 permalink: stability-analysis-of-multi-converter-power-systems-with-angle-feedback

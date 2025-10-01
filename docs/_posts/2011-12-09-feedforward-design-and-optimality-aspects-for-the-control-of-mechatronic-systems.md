@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Feedforward Design and Optimality Aspects for the Control of Mechatronic Systems"
 date: 2011-12-09 00:00:00 +0100
 permalink: feedforward-design-and-optimality-aspects-for-the-control-of-mechatronic-systems

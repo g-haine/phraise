@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jan Giesselmann
 permalink: /authors/jan-giesselmann
 ---

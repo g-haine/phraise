@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian modelling and buckling analysis of a nonlinear flexible beam with actuation at the bottom"
 date: 2016-06-28 00:00:00 +0100
 permalink: hamiltonian-modelling-and-buckling-analysis-of-a-nonlinear-flexible-beam-with-actuation-at-the-bottom

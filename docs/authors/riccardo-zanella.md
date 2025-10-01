@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Riccardo Zanella
 permalink: /authors/riccardo-zanella
 ---

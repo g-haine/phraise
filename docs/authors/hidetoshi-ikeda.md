@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hidetoshi Ikeda
 permalink: /authors/hidetoshi-ikeda
 ---

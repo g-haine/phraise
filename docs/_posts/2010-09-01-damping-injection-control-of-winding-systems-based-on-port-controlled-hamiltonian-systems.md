@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "DAMPING INJECTION CONTROL OF WINDING SYSTEMS BASED ON PORT CONTROLLED HAMILTONIAN SYSTEMS"
 date: 2010-09-01 00:00:00 +0100
 permalink: damping-injection-control-of-winding-systems-based-on-port-controlled-hamiltonian-systems

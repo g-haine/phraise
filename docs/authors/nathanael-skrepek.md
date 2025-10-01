@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nathanael Skrepek
 permalink: /authors/nathanael-skrepek
 ---

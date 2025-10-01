@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Riemannian Geometric-Nonlinear Conjugate Gradient Model Order Reduction of Linear Port-Hamiltonian Systems on Finite Frequency Intervals"
 date: 2023-10-04 00:00:00 +0100
 permalink: riemannian-geometric-nonlinear-conjugate-gradient-model-order-reduction-of-linear-port-hamiltonian-systems-on-finite-frequency-intervals

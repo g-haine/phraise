@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Huiyu Shang
 permalink: /authors/huiyu-shang
 ---

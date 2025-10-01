@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Surrogate-Based ℋ<sup>2</sup> Model Reduction of Port-Hamiltonian Systems"
 date: 2022-01-03 00:00:00 +0100
 permalink: surrogate-based-h-sup-2-sup-model-reduction-of-port-hamiltonian-systems

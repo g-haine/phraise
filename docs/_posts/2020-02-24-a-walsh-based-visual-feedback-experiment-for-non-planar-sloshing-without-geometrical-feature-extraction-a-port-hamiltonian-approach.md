@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Walsh based visual feedback experiment for non-planar sloshing without geometrical feature extraction (A port-Hamiltonian approach)"
 date: 2020-02-24 00:00:00 +0100
 permalink: a-walsh-based-visual-feedback-experiment-for-non-planar-sloshing-without-geometrical-feature-extraction-a-port-hamiltonian-approach

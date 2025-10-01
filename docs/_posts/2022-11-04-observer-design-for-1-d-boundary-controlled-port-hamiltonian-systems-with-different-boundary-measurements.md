@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observer design for 1-D boundary controlled port-Hamiltonian systems with different boundary measurements"
 date: 2022-11-04 00:00:00 +0100
 permalink: observer-design-for-1-d-boundary-controlled-port-hamiltonian-systems-with-different-boundary-measurements

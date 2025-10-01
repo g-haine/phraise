@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wei Zuo
 permalink: /authors/wei-zuo
 ---

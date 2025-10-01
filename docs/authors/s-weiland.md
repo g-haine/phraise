@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Weiland
 permalink: /authors/s-weiland
 ---

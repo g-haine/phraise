@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Path-Tracking Considering Yaw Stability With Passivity-Based Control for Autonomous Vehicles"
 date: 2021-09-01 00:00:00 +0100
 permalink: path-tracking-considering-yaw-stability-with-passivity-based-control-for-autonomous-vehicles

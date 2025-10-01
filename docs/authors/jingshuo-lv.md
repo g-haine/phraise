@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jingshuo Lv
 permalink: /authors/jingshuo-lv
 ---

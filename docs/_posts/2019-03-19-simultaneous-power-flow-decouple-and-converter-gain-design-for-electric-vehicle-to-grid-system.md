@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simultaneous Power Flow Decouple and Converter Gain Design for Electric Vehicle to Grid System"
 date: 2019-03-19 00:00:00 +0100
 permalink: simultaneous-power-flow-decouple-and-converter-gain-design-for-electric-vehicle-to-grid-system

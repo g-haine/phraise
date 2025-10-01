@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Burak Yüksel
 permalink: /authors/burak-yuksel
 ---

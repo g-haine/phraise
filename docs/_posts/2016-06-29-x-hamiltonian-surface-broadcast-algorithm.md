@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "X-Hamiltonian Surface Broadcast Algorithm"
 date: 2016-06-29 00:00:00 +0100
 permalink: x-hamiltonian-surface-broadcast-algorithm

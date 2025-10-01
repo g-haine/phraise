@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jochen Schmid
 permalink: /authors/jochen-schmid
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Janusz Grabowski
 permalink: /authors/janusz-grabowski
 ---

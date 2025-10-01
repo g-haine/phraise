@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A differential geometric description of thermodynamics in continuum mechanics with application to Fourier–Navier–Stokes fluids"
 date: 2022-09-27 00:00:00 +0100
 permalink: a-differential-geometric-description-of-thermodynamics-in-continuum-mechanics-with-application-to-fourier-navier-stokes-fluids

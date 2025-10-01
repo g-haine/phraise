@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Computing effective Hamiltonians of coupled electromagnetic systems"
 date: 2022-02-15 00:00:00 +0100
 permalink: computing-effective-hamiltonians-of-coupled-electromagnetic-systems00

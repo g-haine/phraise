@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Li Ying
 permalink: /authors/li-ying
 ---

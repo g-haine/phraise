@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal Energy Shaping Control for a Backdrivable Hip Exoskeleton"
 date: 2023-07-03 00:00:00 +0100
 permalink: optimal-energy-shaping-control-for-a-backdrivable-hip-exoskeleton

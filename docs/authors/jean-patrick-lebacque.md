@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean-Patrick Lebacque
 permalink: /authors/jean-patrick-lebacque
 ---

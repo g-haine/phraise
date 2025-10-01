@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Isabelle Pitault
 permalink: /authors/isabelle-pitault
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Coordinated Control of Offshore Doubly Fed Wind Turbine Groups Based on the Hamiltonian Energy Method"
 date: 2017-08-16 00:00:00 +0100
 permalink: distributed-coordinated-control-of-offshore-doubly-fed-wind-turbine-groups-based-on-the-hamiltonian-energy-method

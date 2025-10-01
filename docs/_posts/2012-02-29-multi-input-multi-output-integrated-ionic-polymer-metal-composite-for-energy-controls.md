@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Multi-Input Multi-Output Integrated Ionic Polymer-Metal Composite for Energy Controls"
 date: 2012-02-29 00:00:00 +0100
 permalink: multi-input-multi-output-integrated-ionic-polymer-metal-composite-for-energy-controls

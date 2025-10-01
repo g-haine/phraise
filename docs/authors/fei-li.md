@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fei Li
 permalink: /authors/fei-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhanmei Ren
 permalink: /authors/zhanmei-ren
 ---

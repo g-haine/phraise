@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yaolin Jiang
 permalink: /authors/yaolin-jiang
 ---

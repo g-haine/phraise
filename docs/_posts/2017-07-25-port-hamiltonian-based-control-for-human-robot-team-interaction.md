@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian based control for human-robot team interaction"
 date: 2017-07-25 00:00:00 +0100
 permalink: port-hamiltonian-based-control-for-human-robot-team-interaction

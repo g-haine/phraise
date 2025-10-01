@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems"
 date: 2014-05-27 00:00:00 +0100
 permalink: stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems

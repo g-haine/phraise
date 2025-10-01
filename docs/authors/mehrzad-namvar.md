@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mehrzad Namvar
 permalink: /authors/mehrzad-namvar
 ---

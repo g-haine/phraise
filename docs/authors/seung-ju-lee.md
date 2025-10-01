@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Seung-Ju Lee
 permalink: /authors/seung-ju-lee
 ---

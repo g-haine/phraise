@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yushun Wang
 permalink: /authors/yushun-wang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jose Guadalupe Romero
 permalink: /authors/jose-guadalupe-romero
 ---

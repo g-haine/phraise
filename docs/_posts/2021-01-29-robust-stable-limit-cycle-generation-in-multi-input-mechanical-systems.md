@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Stable Limit Cycle Generation in Multi-Input Mechanical Systems"
 date: 2021-01-29 00:00:00 +0100
 permalink: robust-stable-limit-cycle-generation-in-multi-input-mechanical-systems

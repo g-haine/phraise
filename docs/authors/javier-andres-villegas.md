@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Javier Andres Villegas
 permalink: /authors/javier-andres-villegas
 ---

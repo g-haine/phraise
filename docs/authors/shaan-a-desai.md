@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shaan A. Desai
 permalink: /authors/shaan-a-desai
 ---

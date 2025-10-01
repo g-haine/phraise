@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian Formulation of a Wireless Communication System"
 date: 2015-07-13 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-a-wireless-communication-system

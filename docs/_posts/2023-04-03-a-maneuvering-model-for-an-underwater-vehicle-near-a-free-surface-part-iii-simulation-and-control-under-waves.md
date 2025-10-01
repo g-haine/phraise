@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Maneuvering Model for an Underwater Vehicle Near a Free Surface—Part III: Simulation and Control Under Waves"
 date: 2023-04-03 00:00:00 +0100
 permalink: a-maneuvering-model-for-an-underwater-vehicle-near-a-free-surface-part-iii-simulation-and-control-under-waves

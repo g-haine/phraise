@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Teeraphon Phophongviwat
 permalink: /authors/teeraphon-phophongviwat
 ---

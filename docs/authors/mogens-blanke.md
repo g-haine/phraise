@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mogens Blanke
 permalink: /authors/mogens-blanke
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sowmya J
 permalink: /authors/sowmya-j
 ---

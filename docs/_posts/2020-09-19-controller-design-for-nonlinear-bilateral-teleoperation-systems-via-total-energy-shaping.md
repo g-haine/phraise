@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Controller design for nonlinear bilateral teleoperation systems via total energy shaping"
 date: 2020-09-19 00:00:00 +0100
 permalink: controller-design-for-nonlinear-bilateral-teleoperation-systems-via-total-energy-shaping

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Saida Zenfari
 permalink: /authors/saida-zenfari
 ---

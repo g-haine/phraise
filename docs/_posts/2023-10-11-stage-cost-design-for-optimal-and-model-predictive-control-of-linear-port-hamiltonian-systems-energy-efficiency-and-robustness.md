@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stage‐cost design for optimal and model predictive control of linear port‐Hamiltonian systems: Energy efficiency and robustness"
 date: 2023-10-11 00:00:00 +0100
 permalink: stage-cost-design-for-optimal-and-model-predictive-control-of-linear-port-hamiltonian-systems-energy-efficiency-and-robustness

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olaf Stenull
 permalink: /authors/olaf-stenull
 ---

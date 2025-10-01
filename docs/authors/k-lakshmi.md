@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by K. Lakshmi
 permalink: /authors/k-lakshmi
 ---

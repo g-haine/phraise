@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Le Kong
 permalink: /authors/le-kong
 ---

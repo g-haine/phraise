@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pankaj Jagad
 permalink: /authors/pankaj-jagad
 ---

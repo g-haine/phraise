@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Angle formation of double integrator with bearing and velocity information"
 date: 2021-11-19 00:00:00 +0100
 permalink: angle-formation-of-double-integrator-with-bearing-and-velocity-information

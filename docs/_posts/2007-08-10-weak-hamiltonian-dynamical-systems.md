@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Weak-Hamiltonian dynamical systems"
 date: 2007-08-10 00:00:00 +0100
 permalink: weak-hamiltonian-dynamical-systems

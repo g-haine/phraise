@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kumari Shipra
 permalink: /authors/kumari-shipra
 ---

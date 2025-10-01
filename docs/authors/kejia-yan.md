@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kejia Yan
 permalink: /authors/kejia-yan
 ---

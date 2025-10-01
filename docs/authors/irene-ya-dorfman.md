@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Irene Ya. Dorfman
 permalink: /authors/irene-ya-dorfman
 ---

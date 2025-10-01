@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential stabilization of a clamped Timoshenko beam with actuation on a tip mass"
 date: 2022-02-01 00:00:00 +0100
 permalink: exponential-stabilization-of-a-clamped-timoshenko-beam-with-actuation-on-a-tip-mass

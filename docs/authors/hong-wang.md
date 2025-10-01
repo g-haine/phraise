@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hong Wang
 permalink: /authors/hong-wang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Canonical transformations used to derive robot control laws from a port-controlled Hamiltonian system perspective"
 date: 2008-05-14 00:00:00 +0100
 permalink: canonical-transformations-used-to-derive-robot-control-laws-from-a-port-controlled-hamiltonian-system-perspective

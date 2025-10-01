@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ping Yang
 permalink: /authors/ping-yang
 ---

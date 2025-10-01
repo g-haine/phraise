@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anton Korniienko
 permalink: /authors/anton-korniienko
 ---

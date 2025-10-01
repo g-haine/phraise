@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohsen Kalantar
 permalink: /authors/mohsen-kalantar
 ---

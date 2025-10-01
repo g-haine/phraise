@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Y. Yamamoto
 permalink: /authors/y-yamamoto
 ---

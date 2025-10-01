@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian and Port-Hamiltonian Mechanics as A Possible Alternative for Helicopter Flight Dynamics Representation"
 date: 2023-06-26 00:00:00 +0100
 permalink: hamiltonian-and-port-hamiltonian-mechanics-as-a-possible-alternative-for-helicopter-flight-dynamics-representation

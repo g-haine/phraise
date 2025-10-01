@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Physics‐Informed Neural Networks to Model and Control Robots: A Theoretical and Experimental Investigation"
 date: 2024-02-24 00:00:00 +0100
 permalink: physics-informed-neural-networks-to-model-and-control-robots-a-theoretical-and-experimental-investigation

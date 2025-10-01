@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Weidong Zhang
 permalink: /authors/weidong-zhang
 ---

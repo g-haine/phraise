@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Leonid Ryvkin
 permalink: /authors/leonid-ryvkin
 ---

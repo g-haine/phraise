@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control  Strategy of Three-Phase AC/DC Voltage-Source Converters Based on Storage Function"
 date: 2008-09-29 00:00:00 +0100
 permalink: control-strategy-of-three-phase-ac-dc-voltage-source-converters-based-on-storage-function

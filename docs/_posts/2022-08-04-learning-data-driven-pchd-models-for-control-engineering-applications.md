@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Learning Data-Driven PCHD Models for Control Engineering Applications*"
 date: 2022-08-04 00:00:00 +0100
 permalink: learning-data-driven-pchd-models-for-control-engineering-applications

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust, distributed and optimal control of smart grids"
 date: 2022-11-22 00:00:00 +0100
 permalink: robust-distributed-and-optimal-control-of-smart-grids

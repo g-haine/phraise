@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Plasma q-profile control in tokamaks using a damping assignment passivity-based approach"
 date: 2016-05-30 00:00:00 +0100
 permalink: plasma-q-profile-control-in-tokamaks-using-a-damping-assignment-passivity-based-approach

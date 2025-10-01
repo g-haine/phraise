@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Y. Garcia
 permalink: /authors/y-garcia
 ---

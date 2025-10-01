@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Benyan Huo
 permalink: /authors/benyan-huo
 ---

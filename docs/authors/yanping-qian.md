@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanping Qian
 permalink: /authors/yanping-qian
 ---

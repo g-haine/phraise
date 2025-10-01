@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "STABILITY AND ROBUSTNESS OF DISTURBED-PORT CONTROLLED HAMILTONIAN SYSTEMS WITH DISSIPATION"
 date: 2010-09-07 00:00:00 +0100
 permalink: stability-and-robustness-of-disturbed-port-controlled-hamiltonian-systems-with-dissipation

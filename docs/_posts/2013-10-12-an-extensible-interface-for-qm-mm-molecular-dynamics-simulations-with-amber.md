@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An extensible interface for QM/MM molecular dynamics simulations with AMBER"
 date: 2013-10-12 00:00:00 +0100
 permalink: an-extensible-interface-for-qm-mm-molecular-dynamics-simulations-with-amber

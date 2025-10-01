@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "BBQ-mIS: A Parallel Quantum Algorithm for Graph Coloring Problems"
 date: 2023-11-30 00:00:00 +0100
 permalink: bbq-mis-a-parallel-quantum-algorithm-for-graph-coloring-problems

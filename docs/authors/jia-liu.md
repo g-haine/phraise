@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jia Liu
 permalink: /authors/jia-liu
 ---

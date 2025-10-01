@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design of a stand-alone hybrid dispersed generation network unified by passivity-based control"
 date: 2024-07-09 00:00:00 +0100
 permalink: design-of-a-stand-alone-hybrid-dispersed-generation-network-unified-by-passivity-based-control

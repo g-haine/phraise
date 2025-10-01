@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mingyuan Du
 permalink: /authors/mingyuan-du
 ---

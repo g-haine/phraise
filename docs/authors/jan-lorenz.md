@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jan Lorenz
 permalink: /authors/jan-lorenz
 ---

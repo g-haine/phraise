@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-Time Control for a Coupled Four-Tank Liquid Level System Based on the Port-Controlled Hamiltonian Method"
 date: 2020-11-28 00:00:00 +0100
 permalink: finite-time-control-for-a-coupled-four-tank-liquid-level-system-based-on-the-port-controlled-hamiltonian-method

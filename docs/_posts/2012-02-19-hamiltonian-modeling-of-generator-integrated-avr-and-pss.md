@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian modeling of generator integrated AVR and PSS"
 date: 2012-02-19 00:00:00 +0100
 permalink: hamiltonian-modeling-of-generator-integrated-avr-and-pss

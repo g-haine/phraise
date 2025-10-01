@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhi-wei Luo
 permalink: /authors/zhi-wei-luo
 ---

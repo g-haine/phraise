@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hanif Heidari
 permalink: /authors/hanif-heidari
 ---

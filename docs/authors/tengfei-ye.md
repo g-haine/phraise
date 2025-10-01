@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tengfei Ye
 permalink: /authors/tengfei-ye
 ---

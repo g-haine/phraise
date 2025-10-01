@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuhu Wu
 permalink: /authors/yuhu-wu
 ---

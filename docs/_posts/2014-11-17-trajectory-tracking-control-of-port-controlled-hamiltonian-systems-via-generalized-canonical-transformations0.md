@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory Tracking Control of Port-Controlled Hamiltonian Systems via Generalized Canonical Transformations"
 date: 2014-11-17 00:00:00 +0100
 permalink: trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations0

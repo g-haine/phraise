@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Passivity-Based PI Control of Quasi-Resonant Buck Converter"
 date: 2024-02-20 00:00:00 +0100
 permalink: a-passivity-based-pi-control-of-quasi-resonant-buck-converter

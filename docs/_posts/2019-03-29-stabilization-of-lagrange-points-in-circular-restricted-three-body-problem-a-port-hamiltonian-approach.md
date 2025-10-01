@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Lagrange points in circular restricted three-body problem: A port-Hamiltonian approach"
 date: 2019-03-29 00:00:00 +0100
 permalink: stabilization-of-lagrange-points-in-circular-restricted-three-body-problem-a-port-hamiltonian-approach

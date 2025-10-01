@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed port hamiltonian formulation of flexible beams under large deformations"
 date: 2005-09-12 00:00:00 +0100
 permalink: distributed-port-hamiltonian-formulation-of-flexible-beams-under-large-deformations

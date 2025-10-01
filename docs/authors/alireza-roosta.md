@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alireza Roosta
 permalink: /authors/alireza-roosta
 ---

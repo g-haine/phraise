@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Adaptive Formation Control for Uncertain Point Mass Agents With Mixed Dimensional Space"
 date: 2023-06-26 00:00:00 +0100
 permalink: distributed-adaptive-formation-control-for-uncertain-point-mass-agents-with-mixed-dimensional-space

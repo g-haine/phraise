@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reduced order controller design for Timoshenko beam: A port Hamiltonian approach"
 date: 2017-10-19 00:00:00 +0100
 permalink: reduced-order-controller-design-for-timoshenko-beam-a-port-hamiltonian-approach

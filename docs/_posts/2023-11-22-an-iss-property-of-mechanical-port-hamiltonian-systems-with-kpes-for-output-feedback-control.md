@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An ISS property of mechanical port-Hamiltonian systems with KPES for output feedback control"
 date: 2023-11-22 00:00:00 +0100
 permalink: an-iss-property-of-mechanical-port-hamiltonian-systems-with-kpes-for-output-feedback-control

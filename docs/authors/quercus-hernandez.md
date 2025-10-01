@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Quercus Hernández
 permalink: /authors/quercus-hernandez
 ---

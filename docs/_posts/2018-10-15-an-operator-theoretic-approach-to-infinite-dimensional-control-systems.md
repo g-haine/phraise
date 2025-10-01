@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An operator theoretic approach to infinite‐dimensional control systems"
 date: 2018-10-15 00:00:00 +0100
 permalink: an-operator-theoretic-approach-to-infinite-dimensional-control-systems

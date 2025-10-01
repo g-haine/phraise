@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global asymptotic and finite-gain L&lt;inf&gt;2&lt;/inf&gt; stabilization of port-controlled Hamiltonian systems subject to actuator saturation"
 date: 2009-07-20 00:00:00 +0100
 permalink: global-asymptotic-and-finite-gain-l-lt-inf-gt-2-lt-inf-gt-stabilization-of-port-controlled-hamiltonian-systems-subject-to-actuator-saturation

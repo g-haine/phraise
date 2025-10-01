@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by L. Di Natale
 permalink: /authors/l-di-natale
 ---

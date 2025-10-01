@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Comparative Performance Analysis of the DC-AC Converter Control System Based on Linear Robust or Nonlinear PCH Controllers and Reinforcement Learning Agent"
 date: 2022-12-07 00:00:00 +0100
 permalink: comparative-performance-analysis-of-the-dc-ac-converter-control-system-based-on-linear-robust-or-nonlinear-pch-controllers-and-reinforcement-learning-agent

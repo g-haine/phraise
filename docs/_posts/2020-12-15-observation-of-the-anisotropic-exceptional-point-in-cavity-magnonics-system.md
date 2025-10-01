@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observation of the anisotropic exceptional point in cavity magnonics system"
 date: 2020-12-15 00:00:00 +0100
 permalink: observation-of-the-anisotropic-exceptional-point-in-cavity-magnonics-system

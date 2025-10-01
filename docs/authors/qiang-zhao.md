@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qiang Zhao
 permalink: /authors/qiang-zhao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Consensus of a Class of Perturbed Port-Hamiltonian Systems with Time Delays"
 date: 2025-07-28 00:00:00 +0100
 permalink: robust-consensus-of-a-class-of-perturbed-port-hamiltonian-systems-with-time-delays

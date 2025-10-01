@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan Tomassini
 permalink: /authors/juan-tomassini
 ---

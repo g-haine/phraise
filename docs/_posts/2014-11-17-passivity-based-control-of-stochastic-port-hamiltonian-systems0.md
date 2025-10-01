@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity Based Control of Stochastic Port-hamiltonian Systems"
 date: 2014-11-17 00:00:00 +0100
 permalink: passivity-based-control-of-stochastic-port-hamiltonian-systems0

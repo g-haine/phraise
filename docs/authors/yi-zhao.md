@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yi Zhao
 permalink: /authors/yi-zhao
 ---

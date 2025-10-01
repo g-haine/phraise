@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power-Balanced Modeling of Nonlinear Coils and Transformers for Audio Circuits"
 date: 2021-11-12 00:00:00 +0100
 permalink: power-balanced-modeling-of-nonlinear-coils-and-transformers-for-audio-circuits

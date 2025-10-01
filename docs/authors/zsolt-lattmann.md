@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zsolt Lattmann
 permalink: /authors/zsolt-lattmann
 ---

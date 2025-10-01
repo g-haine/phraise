@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on strategy of load-side resonant soft-switching inverter based on interconnection and damping assignment-passivity based control"
 date: 2024-03-20 00:00:00 +0100
 permalink: research-on-strategy-of-load-side-resonant-soft-switching-inverter-based-on-interconnection-and-damping-assignment-passivity-based-control

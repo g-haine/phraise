@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arnaud Hubert
 permalink: /authors/arnaud-hubert
 ---

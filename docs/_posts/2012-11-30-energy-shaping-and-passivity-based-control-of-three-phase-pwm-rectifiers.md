@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-shaping and passivity-based control of three-phase PWM rectifiers"
 date: 2012-11-30 00:00:00 +0100
 permalink: energy-shaping-and-passivity-based-control-of-three-phase-pwm-rectifiers

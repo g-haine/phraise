@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Min Wu
 permalink: /authors/min-wu
 ---

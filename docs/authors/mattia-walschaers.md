@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mattia Walschaers
 permalink: /authors/mattia-walschaers
 ---

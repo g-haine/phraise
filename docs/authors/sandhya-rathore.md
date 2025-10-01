@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sandhya Rathore
 permalink: /authors/sandhya-rathore
 ---

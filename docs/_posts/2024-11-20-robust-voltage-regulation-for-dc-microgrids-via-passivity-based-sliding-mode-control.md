@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Voltage Regulation for DC Microgrids via Passivity-Based Sliding Mode Control"
 date: 2024-11-20 00:00:00 +0100
 permalink: robust-voltage-regulation-for-dc-microgrids-via-passivity-based-sliding-mode-control

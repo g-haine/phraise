@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yong Lei
 permalink: /authors/yong-lei
 ---

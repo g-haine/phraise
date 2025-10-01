@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Leibniz-Dirac structures and nonconservative systems with constraints"
 date: 2013-07-08 00:00:00 +0100
 permalink: leibniz-dirac-structures-and-nonconservative-systems-with-constraints

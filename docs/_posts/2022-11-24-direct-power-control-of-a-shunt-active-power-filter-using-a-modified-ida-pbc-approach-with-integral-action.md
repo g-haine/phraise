@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Direct Power Control of a Shunt Active Power Filter Using a Modified IDA–PBC Approach With Integral Action"
 date: 2022-11-24 00:00:00 +0100
 permalink: direct-power-control-of-a-shunt-active-power-filter-using-a-modified-ida-pbc-approach-with-integral-action

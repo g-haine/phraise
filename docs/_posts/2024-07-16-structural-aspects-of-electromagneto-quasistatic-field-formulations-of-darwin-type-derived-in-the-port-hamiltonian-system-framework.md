@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structural Aspects of Electromagneto-Quasistatic Field Formulations of Darwin-Type Derived in the Port-Hamiltonian System Framework"
 date: 2024-07-16 00:00:00 +0100
 permalink: structural-aspects-of-electromagneto-quasistatic-field-formulations-of-darwin-type-derived-in-the-port-hamiltonian-system-framework

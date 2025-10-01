@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hui-Guang Li
 permalink: /authors/hui-guang-li
 ---

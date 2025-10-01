@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sergey G. Nersesov
 permalink: /authors/sergey-g-nersesov
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pramod Jayaram
 permalink: /authors/pramod-jayaram
 ---

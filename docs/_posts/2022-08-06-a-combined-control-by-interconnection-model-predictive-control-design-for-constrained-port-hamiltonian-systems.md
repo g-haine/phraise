@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A combined Control by Interconnection—Model Predictive Control design for constrained Port-Hamiltonian systems"
 date: 2022-08-06 00:00:00 +0100
 permalink: a-combined-control-by-interconnection-model-predictive-control-design-for-constrained-port-hamiltonian-systems

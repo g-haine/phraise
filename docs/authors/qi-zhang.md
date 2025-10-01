@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qi Zhang
 permalink: /authors/qi-zhang
 ---

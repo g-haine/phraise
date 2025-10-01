@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arif Sugiharto
 permalink: /authors/arif-sugiharto
 ---

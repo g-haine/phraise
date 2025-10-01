@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability analysis of interconnected Hamiltonian systems under time delays"
 date: 2012-03-06 00:00:00 +0100
 permalink: stability-analysis-of-interconnected-hamiltonian-systems-under-time-delays

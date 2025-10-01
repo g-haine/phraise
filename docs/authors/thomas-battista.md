@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thomas Battista
 permalink: /authors/thomas-battista
 ---

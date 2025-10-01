@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Biao Huang
 permalink: /authors/biao-huang
 ---

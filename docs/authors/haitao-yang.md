@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haitao Yang
 permalink: /authors/haitao-yang
 ---

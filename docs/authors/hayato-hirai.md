@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hayato Hirai
 permalink: /authors/hayato-hirai
 ---

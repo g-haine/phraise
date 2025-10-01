@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and Control of a Rotating Flexible Spacecraft: A Port-Hamiltonian Approach"
 date: 2017-11-22 00:00:00 +0100
 permalink: modeling-and-control-of-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach

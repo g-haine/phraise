@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Amal Hammoud
 permalink: /authors/amal-hammoud
 ---

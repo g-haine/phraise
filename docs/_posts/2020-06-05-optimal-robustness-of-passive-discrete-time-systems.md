@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal robustness of passive discrete-time systems"
 date: 2020-06-05 00:00:00 +0100
 permalink: optimal-robustness-of-passive-discrete-time-systems

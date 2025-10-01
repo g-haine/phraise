@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guangdeng Zong
 permalink: /authors/guangdeng-zong
 ---

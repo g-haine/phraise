@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arthur Perodou
 permalink: /authors/arthur-perodou
 ---

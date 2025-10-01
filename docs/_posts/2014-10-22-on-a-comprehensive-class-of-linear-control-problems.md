@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On a comprehensive class of linear control problems"
 date: 2014-10-22 00:00:00 +0100
 permalink: on-a-comprehensive-class-of-linear-control-problems

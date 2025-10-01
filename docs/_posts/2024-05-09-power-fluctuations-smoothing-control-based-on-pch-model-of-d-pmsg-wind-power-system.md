@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power Fluctuations Smoothing Control Based on PCH Model of D-PMSG Wind Power System"
 date: 2024-05-09 00:00:00 +0100
 permalink: power-fluctuations-smoothing-control-based-on-pch-model-of-d-pmsg-wind-power-system

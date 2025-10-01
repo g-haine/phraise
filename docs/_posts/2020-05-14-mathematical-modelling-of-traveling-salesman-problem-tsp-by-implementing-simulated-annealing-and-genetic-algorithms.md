@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mathematical modelling of traveling salesman problem (TSP) by implementing simulated annealing and genetic algorithms"
 date: 2020-05-14 00:00:00 +0100
 permalink: mathematical-modelling-of-traveling-salesman-problem-tsp-by-implementing-simulated-annealing-and-genetic-algorithms

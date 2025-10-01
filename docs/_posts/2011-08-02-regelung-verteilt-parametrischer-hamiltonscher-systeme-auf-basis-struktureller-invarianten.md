@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Regelung verteilt-parametrischer Hamiltonscher Systeme auf Basis struktureller Invarianten"
 date: 2011-08-02 00:00:00 +0100
 permalink: regelung-verteilt-parametrischer-hamiltonscher-systeme-auf-basis-struktureller-invarianten

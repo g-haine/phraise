@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control Design of Passive Grid-Forming Inverters in Port-Hamiltonian Framework"
 date: 2023-10-06 00:00:00 +0100
 permalink: control-design-of-passive-grid-forming-inverters-in-port-hamiltonian-framework

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean-Michel W. Fahmi
 permalink: /authors/jean-michel-w-fahmi
 ---

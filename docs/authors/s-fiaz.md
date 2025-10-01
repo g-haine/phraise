@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Fiaz
 permalink: /authors/s-fiaz
 ---

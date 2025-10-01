@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Federico Califano
 permalink: /authors/federico-califano
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liwei Shao
 permalink: /authors/liwei-shao
 ---

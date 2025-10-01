@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thulasi Mylvaganam
 permalink: /authors/thulasi-mylvaganam
 ---

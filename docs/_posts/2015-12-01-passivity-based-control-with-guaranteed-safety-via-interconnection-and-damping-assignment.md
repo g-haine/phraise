@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control with Guaranteed Safety via Interconnection and Damping Assignment"
 date: 2015-12-01 00:00:00 +0100
 permalink: passivity-based-control-with-guaranteed-safety-via-interconnection-and-damping-assignment

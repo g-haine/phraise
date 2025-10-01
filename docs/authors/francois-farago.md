@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by François Farago
 permalink: /authors/francois-farago
 ---

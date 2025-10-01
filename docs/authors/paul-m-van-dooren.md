@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paul M. van Dooren
 permalink: /authors/paul-m-van-dooren
 ---

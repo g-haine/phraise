@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gerardo Escobar
 permalink: /authors/gerardo-escobar
 ---

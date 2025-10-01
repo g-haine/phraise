@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thomas Voß
 permalink: /authors/thomas-voss
 ---

@@ -130,7 +130,6 @@ unset IFS
 echo $(date -Iseconds)" Page $AUTHORS_DIR/index.md creation..."
 cat <<EOF > "$AUTHORS_DIR/index.md"
 ---
-layout: page
 title: Authors
 permalink: /authors/
 ---
@@ -177,7 +176,6 @@ for pair in "${sorted_pairs[@]}"; do
     echo $(date -Iseconds)" Page $AUTHORS_DIR/$sanitized_slug.md creation..."
     cat <<EOF > "$AUTHORS_DIR/$sanitized_slug.md"
 ---
-layout: page
 title: Publications by $author
 permalink: /authors/$sanitized_slug
 ---
@@ -205,7 +203,6 @@ unset IFS
 echo $(date -Iseconds)" Page $YEARS_DIR/index.md creation..."
 cat <<EOF > "$YEARS_DIR/index.md"
 ---
-layout: page
 title: Years
 permalink: /years/
 ---
@@ -224,7 +221,6 @@ for year in "${sorted_years[@]}"; do
     echo $(date -Iseconds)" Page $YEARS_DIR/$year.md creation..."
     cat <<EOF > "$YEARS_DIR/$year.md"
 ---
-layout: page
 title: Published in $year
 permalink: /years/$year
 ---

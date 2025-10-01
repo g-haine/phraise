@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Systematic Procedure for the Macromodeling of Complex Interconnects and Packages"
 date: 2024-12-23 00:00:00 +0100
 permalink: a-systematic-procedure-for-the-macromodeling-of-complex-interconnects-and-packages

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chunwen Li
 permalink: /authors/chunwen-li
 ---

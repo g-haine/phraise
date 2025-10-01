@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Comparative study of Graphical tools for the Fault Monitoring using HBG and DBH Formalisms"
 date: 2021-05-20 00:00:00 +0100
 permalink: a-comparative-study-of-graphical-tools-for-the-fault-monitoring-using-hbg-and-dbh-formalisms

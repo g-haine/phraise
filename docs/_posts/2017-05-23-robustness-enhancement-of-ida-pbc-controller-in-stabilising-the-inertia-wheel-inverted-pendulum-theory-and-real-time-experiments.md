@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robustness enhancement of IDA-PBC controller in stabilising the inertia wheel inverted pendulum: theory and real-time experiments"
 date: 2017-05-23 00:00:00 +0100
 permalink: robustness-enhancement-of-ida-pbc-controller-in-stabilising-the-inertia-wheel-inverted-pendulum-theory-and-real-time-experiments

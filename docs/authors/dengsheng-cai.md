@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dengsheng Cai
 permalink: /authors/dengsheng-cai
 ---

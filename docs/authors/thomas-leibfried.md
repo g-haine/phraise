@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thomas Leibfried
 permalink: /authors/thomas-leibfried
 ---

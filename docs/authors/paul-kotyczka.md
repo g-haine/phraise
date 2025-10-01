@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paul Kotyczka
 permalink: /authors/paul-kotyczka
 ---

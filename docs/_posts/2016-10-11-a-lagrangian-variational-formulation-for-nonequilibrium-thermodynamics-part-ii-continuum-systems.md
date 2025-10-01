@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Lagrangian variational formulation for nonequilibrium thermodynamics. Part II: Continuum systems"
 date: 2016-10-11 00:00:00 +0100
 permalink: a-lagrangian-variational-formulation-for-nonequilibrium-thermodynamics-part-ii-continuum-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peizhou Yu
 permalink: /authors/peizhou-yu
 ---

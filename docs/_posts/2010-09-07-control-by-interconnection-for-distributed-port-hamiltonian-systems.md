@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CONTROL BY INTERCONNECTION FOR DISTRIBUTED PORT HAMILTONIAN SYSTEMS"
 date: 2010-09-07 00:00:00 +0100
 permalink: control-by-interconnection-for-distributed-port-hamiltonian-systems

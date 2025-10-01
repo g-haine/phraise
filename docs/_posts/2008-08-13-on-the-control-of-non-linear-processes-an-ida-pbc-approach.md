@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the control of non-linear processes: An IDA–PBC approach"
 date: 2008-08-13 00:00:00 +0100
 permalink: on-the-control-of-non-linear-processes-an-ida-pbc-approach

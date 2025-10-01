@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hossam M. Zawbaa
 permalink: /authors/hossam-m-zawbaa
 ---

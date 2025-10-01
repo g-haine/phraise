@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Path-Tracking Cascade Control of Hydraulic- Tracked Vehicles Based on Port-Controlled Hamiltonian Model"
 date: 2024-06-21 00:00:00 +0100
 permalink: path-tracking-cascade-control-of-hydraulic-tracked-vehicles-based-on-port-controlled-hamiltonian-model

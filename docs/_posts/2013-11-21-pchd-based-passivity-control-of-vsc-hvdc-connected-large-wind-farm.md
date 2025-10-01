@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PCHD-Based Passivity Control of VSC-HVDC Connected Large Wind Farm"
 date: 2013-11-21 00:00:00 +0100
 permalink: pchd-based-passivity-control-of-vsc-hvdc-connected-large-wind-farm

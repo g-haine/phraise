@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Structure-Preserving Power Networks with Market Dynamics"
 date: 2017-10-19 00:00:00 +0100
 permalink: stabilization-of-structure-preserving-power-networks-with-market-dynamics

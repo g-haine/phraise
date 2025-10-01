@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhili Hua
 permalink: /authors/zhili-hua
 ---

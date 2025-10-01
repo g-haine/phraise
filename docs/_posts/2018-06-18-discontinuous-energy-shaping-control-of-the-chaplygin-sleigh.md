@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discontinuous energy shaping control of the Chaplygin sleigh"
 date: 2018-06-18 00:00:00 +0100
 permalink: discontinuous-energy-shaping-control-of-the-chaplygin-sleigh

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Effort- and flow-constraint reduction methods for structure preserving model reduction of port-Hamiltonian systems"
 date: 2012-02-11 00:00:00 +0100
 permalink: effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems

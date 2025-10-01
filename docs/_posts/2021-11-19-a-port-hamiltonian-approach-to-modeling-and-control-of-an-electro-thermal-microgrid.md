@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian Approach to Modeling and Control of an Electro-Thermal Microgrid"
 date: 2021-11-19 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-modeling-and-control-of-an-electro-thermal-microgrid

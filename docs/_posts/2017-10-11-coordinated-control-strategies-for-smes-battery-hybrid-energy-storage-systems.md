@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coordinated Control Strategies for SMES-Battery Hybrid Energy Storage Systems"
 date: 2017-10-11 00:00:00 +0100
 permalink: coordinated-control-strategies-for-smes-battery-hybrid-energy-storage-systems

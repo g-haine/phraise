@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoyu Du
 permalink: /authors/xiaoyu-du
 ---

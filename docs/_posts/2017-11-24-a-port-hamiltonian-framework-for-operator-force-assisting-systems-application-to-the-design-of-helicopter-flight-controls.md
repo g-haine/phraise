@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian framework for operator force assisting systems: Application to the design of helicopter flight controls"
 date: 2017-11-24 00:00:00 +0100
 permalink: a-port-hamiltonian-framework-for-operator-force-assisting-systems-application-to-the-design-of-helicopter-flight-controls

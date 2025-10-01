@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exergetic port-Hamiltonian systems for multibody dynamics"
 date: 2024-11-05 00:00:00 +0100
 permalink: exergetic-port-hamiltonian-systems-for-multibody-dynamics

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances"
 date: 2011-11-21 00:00:00 +0100
 permalink: robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances

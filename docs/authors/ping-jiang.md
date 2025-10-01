@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ping Jiang
 permalink: /authors/ping-jiang
 ---

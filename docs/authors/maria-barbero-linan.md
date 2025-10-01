@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by María Barbero Liñán
 permalink: /authors/maria-barbero-linan
 ---

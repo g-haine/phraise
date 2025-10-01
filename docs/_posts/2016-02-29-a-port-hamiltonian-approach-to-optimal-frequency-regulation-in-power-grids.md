@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian approach to optimal frequency regulation in power grids"
 date: 2016-02-29 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-optimal-frequency-regulation-in-power-grids

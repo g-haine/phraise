@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gang Lin
 permalink: /authors/gang-lin
 ---

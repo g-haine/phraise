@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C. Orozco-Henao
 permalink: /authors/c-orozco-henao
 ---

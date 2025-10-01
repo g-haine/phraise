@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking control of a class of underactuated port-controlled hamiltonian systems"
 date: 2025-07-28 00:00:00 +0100
 permalink: trajectory-tracking-control-of-a-class-of-underactuated-port-controlled-hamiltonian-systems

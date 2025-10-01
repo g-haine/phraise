@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Deepak Narang
 permalink: /authors/deepak-narang
 ---

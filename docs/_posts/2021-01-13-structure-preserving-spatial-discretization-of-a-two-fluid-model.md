@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving Spatial Discretization of a Two-Fluid Model"
 date: 2021-01-13 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-a-two-fluid-model

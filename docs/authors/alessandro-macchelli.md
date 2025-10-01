@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alessandro Macchelli
 permalink: /authors/alessandro-macchelli
 ---

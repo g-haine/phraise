@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Globally Exponentially Stable Tracking Controller for Mechanical Systems Using Position Feedback"
 date: 2014-06-19 00:00:00 +0100
 permalink: a-globally-exponentially-stable-tracking-controller-for-mechanical-systems-using-position-feedback

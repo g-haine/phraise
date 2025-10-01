@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rong-lin Wang
 permalink: /authors/rong-lin-wang
 ---

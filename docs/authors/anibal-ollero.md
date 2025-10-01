@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anı́bal Ollero
 permalink: /authors/anibal-ollero
 ---

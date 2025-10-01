@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "L2-Gain and Passivity Techniques in Nonlinear Control"
 date: 2016-12-04 00:00:00 +0100
 permalink: l2-gain-and-passivity-techniques-in-nonlinear-control

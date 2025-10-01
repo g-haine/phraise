@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Till Preuster
 permalink: /authors/till-preuster
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ning Zhu
 permalink: /authors/ning-zhu
 ---

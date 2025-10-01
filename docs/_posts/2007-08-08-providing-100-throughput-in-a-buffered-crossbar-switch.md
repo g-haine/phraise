@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Providing 100% Throughput in a Buffered Crossbar Switch"
 date: 2007-08-08 00:00:00 +0100
 permalink: providing-100-throughput-in-a-buffered-crossbar-switch

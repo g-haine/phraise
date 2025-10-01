@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pedro Rodriguez
 permalink: /authors/pedro-rodriguez
 ---

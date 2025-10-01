@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jung-Sing Jwo
 permalink: /authors/jung-sing-jwo
 ---

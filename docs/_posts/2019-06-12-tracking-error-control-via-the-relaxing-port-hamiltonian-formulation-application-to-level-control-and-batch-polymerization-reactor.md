@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking-error control via the relaxing port-Hamiltonian formulation: Application to level control and batch polymerization reactor"
 date: 2019-06-12 00:00:00 +0100
 permalink: tracking-error-control-via-the-relaxing-port-hamiltonian-formulation-application-to-level-control-and-batch-polymerization-reactor

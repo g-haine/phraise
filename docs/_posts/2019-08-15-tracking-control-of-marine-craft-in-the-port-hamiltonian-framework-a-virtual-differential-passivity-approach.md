@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking Control of Marine Craft in the port-Hamiltonian Framework: A Virtual Differential Passivity Approach"
 date: 2019-08-15 00:00:00 +0100
 permalink: tracking-control-of-marine-craft-in-the-port-hamiltonian-framework-a-virtual-differential-passivity-approach

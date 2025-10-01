@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based controller for machine-side converter of doubly-fed wind generator"
 date: 2010-08-24 00:00:00 +0100
 permalink: energy-based-controller-for-machine-side-converter-of-doubly-fed-wind-generator

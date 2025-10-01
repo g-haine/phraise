@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sensorless Adaptive Voltage Control for Classical DC-DC Converters Feeding Unknown Loads: A Generalized PI Passivity-Based Approach"
 date: 2021-09-28 00:00:00 +0100
 permalink: sensorless-adaptive-voltage-control-for-classical-dc-dc-converters-feeding-unknown-loads-a-generalized-pi-passivity-based-approach

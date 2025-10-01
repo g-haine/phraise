@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Roman
 permalink: /authors/m-roman
 ---

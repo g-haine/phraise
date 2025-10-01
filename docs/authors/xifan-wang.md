@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xifan Wang
 permalink: /authors/xifan-wang
 ---

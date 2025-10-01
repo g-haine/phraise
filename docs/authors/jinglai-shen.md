@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinglai Shen
 permalink: /authors/jinglai-shen
 ---

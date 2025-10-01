@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tilmann Wurzbacher
 permalink: /authors/tilmann-wurzbacher
 ---

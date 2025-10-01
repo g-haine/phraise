@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kwang‐Kyo Oh
 permalink: /authors/kwang-kyo-oh
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Philipp Rosenzweig
 permalink: /authors/philipp-rosenzweig
 ---

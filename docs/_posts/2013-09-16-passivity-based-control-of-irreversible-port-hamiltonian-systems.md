@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity Based Control of Irreversible Port Hamiltonian Systems"
 date: 2013-09-16 00:00:00 +0100
 permalink: passivity-based-control-of-irreversible-port-hamiltonian-systems

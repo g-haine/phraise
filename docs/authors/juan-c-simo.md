@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan C. Simo
 permalink: /authors/juan-c-simo
 ---

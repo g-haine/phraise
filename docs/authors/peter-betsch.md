@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peter Betsch
 permalink: /authors/peter-betsch
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection of port-hamiltonian systems via contact structures. An application to macro-economic systems"
 date: 2015-02-17 00:00:00 +0100
 permalink: interconnection-of-port-hamiltonian-systems-via-contact-structures-an-application-to-macro-economic-systems

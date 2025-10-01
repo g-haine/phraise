@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Transport on directed percolation clusters"
 date: 2002-07-26 00:00:00 +0100
 permalink: transport-on-directed-percolation-clusters

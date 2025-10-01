@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zao Fu
 permalink: /authors/zao-fu
 ---

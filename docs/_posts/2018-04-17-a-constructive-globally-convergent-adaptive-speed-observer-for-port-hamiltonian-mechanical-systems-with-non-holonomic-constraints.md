@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Constructive Globally Convergent Adaptive Speed Observer For Port‐Hamiltonian Mechanical Systems with Non‐Holonomic Constraints"
 date: 2018-04-17 00:00:00 +0100
 permalink: a-constructive-globally-convergent-adaptive-speed-observer-for-port-hamiltonian-mechanical-systems-with-non-holonomic-constraints

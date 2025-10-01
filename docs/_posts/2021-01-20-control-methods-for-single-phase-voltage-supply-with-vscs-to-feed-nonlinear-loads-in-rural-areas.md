@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control Methods for Single-phase Voltage Supply with VSCs to Feed Nonlinear Loads in Rural Areas"
 date: 2021-01-20 00:00:00 +0100
 permalink: control-methods-for-single-phase-voltage-supply-with-vscs-to-feed-nonlinear-loads-in-rural-areas

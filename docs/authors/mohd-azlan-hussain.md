@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohd Azlan Hussain
 permalink: /authors/mohd-azlan-hussain
 ---

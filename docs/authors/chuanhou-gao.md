@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chuanhou Gao
 permalink: /authors/chuanhou-gao
 ---

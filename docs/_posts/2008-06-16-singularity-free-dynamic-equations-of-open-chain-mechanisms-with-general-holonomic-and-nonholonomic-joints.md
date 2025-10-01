@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Singularity-Free Dynamic Equations of Open-Chain Mechanisms With General Holonomic and Nonholonomic Joints"
 date: 2008-06-16 00:00:00 +0100
 permalink: singularity-free-dynamic-equations-of-open-chain-mechanisms-with-general-holonomic-and-nonholonomic-joints

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Reza J. Harandi
 permalink: /authors/m-reza-j-harandi
 ---

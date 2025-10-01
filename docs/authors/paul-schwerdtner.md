@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paul Schwerdtner
 permalink: /authors/paul-schwerdtner
 ---

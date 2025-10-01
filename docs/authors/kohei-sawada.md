@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kohei Sawada
 permalink: /authors/kohei-sawada
 ---

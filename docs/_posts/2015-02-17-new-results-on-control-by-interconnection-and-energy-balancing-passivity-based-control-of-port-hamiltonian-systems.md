@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New results on Control by Interconnection and Energy-Balancing Passivity-Based Control of port-hamiltonian systems"
 date: 2015-02-17 00:00:00 +0100
 permalink: new-results-on-control-by-interconnection-and-energy-balancing-passivity-based-control-of-port-hamiltonian-systems

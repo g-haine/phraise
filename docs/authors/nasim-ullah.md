@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nasim Ullah
 permalink: /authors/nasim-ullah
 ---

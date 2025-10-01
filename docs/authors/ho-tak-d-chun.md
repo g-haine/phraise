@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ho-Tak D. Chun
 permalink: /authors/ho-tak-d-chun
 ---

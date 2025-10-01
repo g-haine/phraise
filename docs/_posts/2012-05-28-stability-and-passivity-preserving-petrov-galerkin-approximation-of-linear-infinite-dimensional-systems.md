@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability and passivity preserving Petrov–Galerkin approximation of linear infinite-dimensional systems"
 date: 2012-05-28 00:00:00 +0100
 permalink: stability-and-passivity-preserving-petrov-galerkin-approximation-of-linear-infinite-dimensional-systems

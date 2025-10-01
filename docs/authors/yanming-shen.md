@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanming Shen
 permalink: /authors/yanming-shen
 ---

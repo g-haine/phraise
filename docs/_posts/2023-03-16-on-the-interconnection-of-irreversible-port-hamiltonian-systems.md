@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the interconnection of irreversible port-Hamiltonian systems"
 date: 2023-03-16 00:00:00 +0100
 permalink: on-the-interconnection-of-irreversible-port-hamiltonian-systems

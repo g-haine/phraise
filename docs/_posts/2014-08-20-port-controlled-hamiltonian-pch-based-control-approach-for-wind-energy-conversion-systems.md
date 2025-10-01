@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Controlled Hamiltonian (PCH)-based control approach for wind energy conversion systems"
 date: 2014-08-20 00:00:00 +0100
 permalink: port-controlled-hamiltonian-pch-based-control-approach-for-wind-energy-conversion-systems

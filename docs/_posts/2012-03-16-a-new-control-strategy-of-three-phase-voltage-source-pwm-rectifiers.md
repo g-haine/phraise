@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A New Control Strategy of Three Phase Voltage Source PWM Rectifiers"
 date: 2012-03-16 00:00:00 +0100
 permalink: a-new-control-strategy-of-three-phase-voltage-source-pwm-rectifiers

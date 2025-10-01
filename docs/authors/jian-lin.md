@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jian Lin
 permalink: /authors/jian-lin
 ---

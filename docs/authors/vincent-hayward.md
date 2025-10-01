@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vincent Hayward
 permalink: /authors/vincent-hayward
 ---

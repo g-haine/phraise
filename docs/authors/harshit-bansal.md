@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Harshit Bansal
 permalink: /authors/harshit-bansal
 ---

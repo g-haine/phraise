@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Granados-Salazar
 permalink: /authors/christian-granados-salazar
 ---

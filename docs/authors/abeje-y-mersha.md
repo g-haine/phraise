@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abeje Y. Mersha
 permalink: /authors/abeje-y-mersha
 ---

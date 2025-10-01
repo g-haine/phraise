@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Sampling for Structure-Preserving Model Order Reduction of Port-Hamiltonian Systems"
 date: 2021-11-19 00:00:00 +0100
 permalink: adaptive-sampling-for-structure-preserving-model-order-reduction-of-port-hamiltonian-systems

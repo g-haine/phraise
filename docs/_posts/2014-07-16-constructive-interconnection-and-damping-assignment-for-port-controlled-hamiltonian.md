@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Constructive interconnection and Damping Assignment for port-controlled Hamiltonian"
 date: 2014-07-16 00:00:00 +0100
 permalink: constructive-interconnection-and-damping-assignment-for-port-controlled-hamiltonian

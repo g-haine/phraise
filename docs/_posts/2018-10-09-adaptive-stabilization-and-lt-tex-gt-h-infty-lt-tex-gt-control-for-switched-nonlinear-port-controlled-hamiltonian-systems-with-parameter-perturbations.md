@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Stabilization and \\\\( H_{\\infty} \\\\) Control for Switched Nonlinear Port-Controlled Hamiltonian Systems with Parameter Perturbations"
 date: 2018-10-09 00:00:00 +0100
 permalink: adaptive-stabilization-and-lt-tex-gt-h-infty-lt-tex-gt-control-for-switched-nonlinear-port-controlled-hamiltonian-systems-with-parameter-perturbations

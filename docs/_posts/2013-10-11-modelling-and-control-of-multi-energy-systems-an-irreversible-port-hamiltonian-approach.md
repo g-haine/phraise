@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling and control of multi-energy systems: An irreversible port-Hamiltonian approach"
 date: 2013-10-11 00:00:00 +0100
 permalink: modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach

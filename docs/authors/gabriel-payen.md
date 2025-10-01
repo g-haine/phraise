@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gabriel Payen
 permalink: /authors/gabriel-payen
 ---

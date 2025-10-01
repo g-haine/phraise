@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guido Blankenstein
 permalink: /authors/guido-blankenstein
 ---

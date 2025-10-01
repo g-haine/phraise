@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ke Li
 permalink: /authors/ke-li
 ---

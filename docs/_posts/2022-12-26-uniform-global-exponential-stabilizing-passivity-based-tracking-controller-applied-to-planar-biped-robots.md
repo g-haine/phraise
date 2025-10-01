@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Uniform Global Exponential Stabilizing Passivity-Based Tracking Controller Applied to Planar Biped Robots"
 date: 2022-12-26 00:00:00 +0100
 permalink: uniform-global-exponential-stabilizing-passivity-based-tracking-controller-applied-to-planar-biped-robots

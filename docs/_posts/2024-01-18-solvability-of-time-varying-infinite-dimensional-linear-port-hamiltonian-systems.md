@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Solvability of Time-Varying Infinite-Dimensional Linear Port-Hamiltonian Systems"
 date: 2024-01-18 00:00:00 +0100
 permalink: solvability-of-time-varying-infinite-dimensional-linear-port-hamiltonian-systems

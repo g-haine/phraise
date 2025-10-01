@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhe Zhang
 permalink: /authors/zhe-zhang
 ---

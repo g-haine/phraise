@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ihor Golovach
 permalink: /authors/ihor-golovach
 ---

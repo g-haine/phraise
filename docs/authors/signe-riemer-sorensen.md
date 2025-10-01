@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Signe Riemer-Sørensen
 permalink: /authors/signe-riemer-sorensen
 ---

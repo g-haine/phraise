@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the use of Dirac structures on Hilbert spaces in the synthesis of boundary control laws for port-Hamiltonian systems"
 date: 2014-03-13 00:00:00 +0100
 permalink: on-the-use-of-dirac-structures-on-hilbert-spaces-in-the-synthesis-of-boundary-control-laws-for-port-hamiltonian-systems

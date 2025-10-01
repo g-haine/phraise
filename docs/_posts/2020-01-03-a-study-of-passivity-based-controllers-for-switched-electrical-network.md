@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Study of Passivity Based Controllers for Switched Electrical Network"
 date: 2020-01-03 00:00:00 +0100
 permalink: a-study-of-passivity-based-controllers-for-switched-electrical-network

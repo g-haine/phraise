@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David I. Schuster
 permalink: /authors/david-i-schuster
 ---

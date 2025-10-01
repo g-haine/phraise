@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nelson Cisneros
 permalink: /authors/nelson-cisneros
 ---

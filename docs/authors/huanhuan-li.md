@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Huanhuan Li
 permalink: /authors/huanhuan-li
 ---

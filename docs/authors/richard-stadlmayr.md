@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Richard Stadlmayr
 permalink: /authors/richard-stadlmayr
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maximilian Mogler
 permalink: /authors/maximilian-mogler
 ---

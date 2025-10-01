@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Formulations of Some Elastodynamics Theories of Isotropic and Linearly Elastic Shells: Naghdi–Reissner’s Moderately Thick Shells"
 date: 2023-02-20 00:00:00 +0100
 permalink: port-hamiltonian-formulations-of-some-elastodynamics-theories-of-isotropic-and-linearly-elastic-shells-naghdi-reissner-s-moderately-thick-shells

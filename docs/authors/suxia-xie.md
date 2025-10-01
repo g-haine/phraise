@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Suxia Xie
 permalink: /authors/suxia-xie
 ---

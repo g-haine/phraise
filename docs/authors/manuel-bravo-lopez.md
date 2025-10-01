@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Manuel Bravo-López
 permalink: /authors/manuel-bravo-lopez
 ---

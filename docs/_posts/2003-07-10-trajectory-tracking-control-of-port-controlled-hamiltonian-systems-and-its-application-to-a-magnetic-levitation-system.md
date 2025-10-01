@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory tracking control of port-controlled Hamiltonian systems and its application to a magnetic levitation system"
 date: 2003-07-10 00:00:00 +0100
 permalink: trajectory-tracking-control-of-port-controlled-hamiltonian-systems-and-its-application-to-a-magnetic-levitation-system

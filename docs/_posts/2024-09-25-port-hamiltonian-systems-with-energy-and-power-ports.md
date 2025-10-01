@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian systems with energy and power ports"
 date: 2024-09-25 00:00:00 +0100
 permalink: port-hamiltonian-systems-with-energy-and-power-ports

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Charles Poussot-Vassal
 permalink: /authors/charles-poussot-vassal
 ---

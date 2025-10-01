@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jian Zhou
 permalink: /authors/jian-zhou
 ---

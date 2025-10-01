@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammad Yaghoub Abdollahzadeh Jamalabadi
 permalink: /authors/mohammad-yaghoub-abdollahzadeh-jamalabadi
 ---

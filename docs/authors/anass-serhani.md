@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anass Serhani
 permalink: /authors/anass-serhani
 ---

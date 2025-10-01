@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Voltage control for buck converter based MVDC microgrids with interconnection and damping assignment passivity based control"
 date: 2018-06-11 00:00:00 +0100
 permalink: voltage-control-for-buck-converter-based-mvdc-microgrids-with-interconnection-and-damping-assignment-passivity-based-control

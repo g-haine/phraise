@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D H Glass
 permalink: /authors/d-h-glass
 ---

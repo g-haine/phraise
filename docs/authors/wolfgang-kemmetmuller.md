@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wolfgang Kemmetmüller
 permalink: /authors/wolfgang-kemmetmuller
 ---

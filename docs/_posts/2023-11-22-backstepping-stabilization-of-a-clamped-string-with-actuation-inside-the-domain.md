@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Backstepping stabilization of a clamped string with actuation inside the domain"
 date: 2023-11-22 00:00:00 +0100
 permalink: backstepping-stabilization-of-a-clamped-string-with-actuation-inside-the-domain

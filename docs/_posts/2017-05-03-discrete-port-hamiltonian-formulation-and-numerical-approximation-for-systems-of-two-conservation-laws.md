@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete port-Hamiltonian formulation and numerical approximation for systems of two conservation laws"
 date: 2017-05-03 00:00:00 +0100
 permalink: discrete-port-hamiltonian-formulation-and-numerical-approximation-for-systems-of-two-conservation-laws

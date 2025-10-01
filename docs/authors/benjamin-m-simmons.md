@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Benjamin M. Simmons
 permalink: /authors/benjamin-m-simmons
 ---

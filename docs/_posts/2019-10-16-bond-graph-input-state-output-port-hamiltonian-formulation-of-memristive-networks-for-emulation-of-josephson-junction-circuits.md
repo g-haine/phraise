@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bond-Graph Input-State-Output Port-Hamiltonian Formulation of Memristive Networks for emulation of Josephson Junction Circuits"
 date: 2019-10-16 00:00:00 +0100
 permalink: bond-graph-input-state-output-port-hamiltonian-formulation-of-memristive-networks-for-emulation-of-josephson-junction-circuits

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yang Zhao
 permalink: /authors/yang-zhao
 ---

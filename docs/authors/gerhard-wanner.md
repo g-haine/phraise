@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gerhard Wanner
 permalink: /authors/gerhard-wanner
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fractals in the twist-and-flip circuit"
 date: 2002-08-24 00:00:00 +0100
 permalink: fractals-in-the-twist-and-flip-circuit

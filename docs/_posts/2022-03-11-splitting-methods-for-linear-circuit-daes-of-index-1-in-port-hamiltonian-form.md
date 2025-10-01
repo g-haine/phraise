@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Splitting Methods for Linear Circuit DAEs of Index 1 in port-Hamiltonian Form"
 date: 2022-03-11 00:00:00 +0100
 permalink: splitting-methods-for-linear-circuit-daes-of-index-1-in-port-hamiltonian-form

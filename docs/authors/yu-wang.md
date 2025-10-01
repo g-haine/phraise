@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yu Wang
 permalink: /authors/yu-wang
 ---

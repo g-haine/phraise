@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kun Mu
 permalink: /authors/kun-mu
 ---

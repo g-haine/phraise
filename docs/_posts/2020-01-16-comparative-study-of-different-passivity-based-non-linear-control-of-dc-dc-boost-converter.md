@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Comparative Study of Different Passivity-Based Non-linear Control of DC-DC Boost Converter"
 date: 2020-01-16 00:00:00 +0100
 permalink: comparative-study-of-different-passivity-based-non-linear-control-of-dc-dc-boost-converter

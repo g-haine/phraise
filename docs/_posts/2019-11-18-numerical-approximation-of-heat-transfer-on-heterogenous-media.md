@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Numerical Approximation of Heat Transfer on Heterogenous Media"
 date: 2019-11-18 00:00:00 +0100
 permalink: numerical-approximation-of-heat-transfer-on-heterogenous-media

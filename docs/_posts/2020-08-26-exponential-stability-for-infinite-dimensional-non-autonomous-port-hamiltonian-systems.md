@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential stability for infinite-dimensional non-autonomous port-Hamiltonian Systems"
 date: 2020-08-26 00:00:00 +0100
 permalink: exponential-stability-for-infinite-dimensional-non-autonomous-port-hamiltonian-systems

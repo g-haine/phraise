@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by João Erick de Mattos Fernandes
 permalink: /authors/joao-erick-de-mattos-fernandes
 ---

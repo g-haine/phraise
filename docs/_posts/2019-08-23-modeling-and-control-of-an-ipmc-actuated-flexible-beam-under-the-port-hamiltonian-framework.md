@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling and control of an IPMC actuated flexible beam under the port-Hamiltonian framework"
 date: 2019-08-23 00:00:00 +0100
 permalink: modeling-and-control-of-an-ipmc-actuated-flexible-beam-under-the-port-hamiltonian-framework

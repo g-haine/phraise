@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete port-controlled Hamiltonian dynamics and average passivation"
 date: 2020-03-13 00:00:00 +0100
 permalink: discrete-port-controlled-hamiltonian-dynamics-and-average-passivation

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by B. Zitte
 permalink: /authors/b-zitte
 ---

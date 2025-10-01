@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the passivity based control of irreversible processes: A port-Hamiltonian approach"
 date: 2015-12-07 00:00:00 +0100
 permalink: on-the-passivity-based-control-of-irreversible-processes-a-port-hamiltonian-approach

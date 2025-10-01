@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Snorre H. Christiansen
 permalink: /authors/snorre-h-christiansen
 ---

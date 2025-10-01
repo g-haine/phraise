@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Milad Bahrami-Fard
 permalink: /authors/milad-bahrami-fard
 ---

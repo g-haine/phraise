@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Flatness-based hierarchical control of a meshed DC microgrid"
 date: 2018-11-22 00:00:00 +0100
 permalink: flatness-based-hierarchical-control-of-a-meshed-dc-microgrid

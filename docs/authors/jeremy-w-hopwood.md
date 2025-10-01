@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jeremy W. Hopwood
 permalink: /authors/jeremy-w-hopwood
 ---

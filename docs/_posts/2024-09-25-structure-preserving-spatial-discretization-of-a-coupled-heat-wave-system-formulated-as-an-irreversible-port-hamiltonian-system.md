@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving spatial discretization of a coupled Heat-Wave system formulated as an irreversible port-Hamiltonian system."
 date: 2024-09-25 00:00:00 +0100
 permalink: structure-preserving-spatial-discretization-of-a-coupled-heat-wave-system-formulated-as-an-irreversible-port-hamiltonian-system

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chaoqian Qiao
 permalink: /authors/chaoqian-qiao
 ---

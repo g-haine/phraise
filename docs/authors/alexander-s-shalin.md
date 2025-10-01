@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander S. Shalin
 permalink: /authors/alexander-s-shalin
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Control Strategy for Rotor Speed Synchronization in Multiple PMSMs Based on Port-Hamiltonian Dynamics"
 date: 2025-06-24 00:00:00 +0100
 permalink: distributed-control-strategy-for-rotor-speed-synchronization-in-multiple-pmsms-based-on-port-hamiltonian-dynamics

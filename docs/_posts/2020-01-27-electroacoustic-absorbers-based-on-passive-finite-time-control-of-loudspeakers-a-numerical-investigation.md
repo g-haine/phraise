@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Electroacoustic Absorbers Based on Passive Finite-Time Control of Loudspeakers: A Numerical Investigation"
 date: 2020-01-27 00:00:00 +0100
 permalink: electroacoustic-absorbers-based-on-passive-finite-time-control-of-loudspeakers-a-numerical-investigation

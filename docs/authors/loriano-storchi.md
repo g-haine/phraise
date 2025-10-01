@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Loriano Storchi
 permalink: /authors/loriano-storchi
 ---

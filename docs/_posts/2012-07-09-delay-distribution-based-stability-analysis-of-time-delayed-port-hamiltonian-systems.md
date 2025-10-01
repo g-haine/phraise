@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Delay-distribution based stability analysis of time-delayed port-Hamiltonian systems"
 date: 2012-07-09 00:00:00 +0100
 permalink: delay-distribution-based-stability-analysis-of-time-delayed-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Port-Hamiltonian Models of some Electrochemical Processes"
 date: 2018-06-18 00:00:00 +0100
 permalink: on-the-port-hamiltonian-models-of-some-electrochemical-processes

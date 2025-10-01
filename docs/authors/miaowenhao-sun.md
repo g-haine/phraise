@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Miaowenhao Sun
 permalink: /authors/miaowenhao-sun
 ---

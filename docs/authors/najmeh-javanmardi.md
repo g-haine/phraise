@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Najmeh Javanmardi
 permalink: /authors/najmeh-javanmardi
 ---

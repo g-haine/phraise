@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lei Guo
 permalink: /authors/lei-guo
 ---

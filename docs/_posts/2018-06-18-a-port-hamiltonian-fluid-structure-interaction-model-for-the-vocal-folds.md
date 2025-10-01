@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian Fluid-Structure Interaction Model for the Vocal folds"
 date: 2018-06-18 00:00:00 +0100
 permalink: a-port-hamiltonian-fluid-structure-interaction-model-for-the-vocal-folds

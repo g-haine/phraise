@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marco A. Gordon
 permalink: /authors/marco-a-gordon
 ---

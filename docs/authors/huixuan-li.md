@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Huixuan Li
 permalink: /authors/huixuan-li
 ---

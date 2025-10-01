@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trajectory Tracking via Interconnection and Damping Assignment Passivity-Based Control for a Permanent Magnet Synchronous Motor"
 date: 2024-09-06 00:00:00 +0100
 permalink: trajectory-tracking-via-interconnection-and-damping-assignment-passivity-based-control-for-a-permanent-magnet-synchronous-motor

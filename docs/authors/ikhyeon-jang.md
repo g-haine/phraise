@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ikhyeon Jang
 permalink: /authors/ikhyeon-jang
 ---

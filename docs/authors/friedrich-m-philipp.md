@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Friedrich M. Philipp
 permalink: /authors/friedrich-m-philipp
 ---

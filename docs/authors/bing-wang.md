@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bing Wang
 permalink: /authors/bing-wang
 ---

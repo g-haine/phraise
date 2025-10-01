@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian neural networks for learning explicit time-dependent dynamical systems"
 date: 2021-09-29 00:00:00 +0100
 permalink: port-hamiltonian-neural-networks-for-learning-explicit-time-dependent-dynamical-systems

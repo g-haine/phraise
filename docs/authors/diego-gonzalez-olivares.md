@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Diego González Olivares
 permalink: /authors/diego-gonzalez-olivares
 ---

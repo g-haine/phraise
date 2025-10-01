@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian Bond Graph formalism for generating energetic redundant relations"
 date: 2021-03-08 00:00:00 +0100
 permalink: hamiltonian-bond-graph-formalism-for-generating-energetic-redundant-relations

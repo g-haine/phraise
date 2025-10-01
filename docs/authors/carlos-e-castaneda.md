@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Carlos E. Castañeda
 permalink: /authors/carlos-e-castaneda
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Shaping Nonlinear Acceleration Control for a Mobile Inverted Pendulum Utilizing Instability"
 date: 2012-04-25 00:00:00 +0100
 permalink: energy-shaping-nonlinear-acceleration-control-for-a-mobile-inverted-pendulum-utilizing-instability

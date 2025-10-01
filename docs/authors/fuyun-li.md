@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fuyun Li
 permalink: /authors/fuyun-li
 ---

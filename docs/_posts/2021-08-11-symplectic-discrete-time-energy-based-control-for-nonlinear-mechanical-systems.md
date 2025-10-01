@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Symplectic discrete-time energy-based control for nonlinear mechanical systems"
 date: 2021-08-11 00:00:00 +0100
 permalink: symplectic-discrete-time-energy-based-control-for-nonlinear-mechanical-systems

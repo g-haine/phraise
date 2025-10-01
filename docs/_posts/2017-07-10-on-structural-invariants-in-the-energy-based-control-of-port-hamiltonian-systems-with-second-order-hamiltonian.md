@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On structural invariants in the energy based control of port-Hamiltonian systems with second-order Hamiltonian"
 date: 2017-07-10 00:00:00 +0100
 permalink: on-structural-invariants-in-the-energy-based-control-of-port-hamiltonian-systems-with-second-order-hamiltonian

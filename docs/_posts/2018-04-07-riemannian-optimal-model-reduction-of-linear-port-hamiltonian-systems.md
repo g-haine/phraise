@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Riemannian optimal model reduction of linear port-Hamiltonian systems"
 date: 2018-04-07 00:00:00 +0100
 permalink: riemannian-optimal-model-reduction-of-linear-port-hamiltonian-systems

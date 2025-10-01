@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhaowen Zhang
 permalink: /authors/zhaowen-zhang
 ---

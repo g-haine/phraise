@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Riccardo Sneep
 permalink: /authors/riccardo-sneep
 ---

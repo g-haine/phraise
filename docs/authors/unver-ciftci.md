@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ünver Çiftçi
 permalink: /authors/unver-ciftci
 ---

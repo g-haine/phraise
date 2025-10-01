@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrey Novitsky
 permalink: /authors/andrey-novitsky
 ---

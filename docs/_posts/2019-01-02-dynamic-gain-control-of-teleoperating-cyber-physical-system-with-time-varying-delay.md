@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic gain control of teleoperating cyber-physical system with time-varying delay"
 date: 2019-01-02 00:00:00 +0100
 permalink: dynamic-gain-control-of-teleoperating-cyber-physical-system-with-time-varying-delay

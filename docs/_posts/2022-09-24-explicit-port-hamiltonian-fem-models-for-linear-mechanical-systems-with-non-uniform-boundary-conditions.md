@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Explicit Port-Hamiltonian FEM-Models for Linear Mechanical Systems with Non-Uniform Boundary Conditions"
 date: 2022-09-24 00:00:00 +0100
 permalink: explicit-port-hamiltonian-fem-models-for-linear-mechanical-systems-with-non-uniform-boundary-conditions

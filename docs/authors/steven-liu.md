@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Steven Liu
 permalink: /authors/steven-liu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shengsheng Xu
 permalink: /authors/shengsheng-xu
 ---

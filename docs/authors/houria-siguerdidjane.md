@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Houria Siguerdidjane
 permalink: /authors/houria-siguerdidjane
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Representation of Mechanical Systems With Velocity Inputs"
 date: 2024-06-06 00:00:00 +0100
 permalink: port-hamiltonian-representation-of-mechanical-systems-with-velocity-inputs

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems"
 date: 2015-06-17 00:00:00 +0100
 permalink: lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems

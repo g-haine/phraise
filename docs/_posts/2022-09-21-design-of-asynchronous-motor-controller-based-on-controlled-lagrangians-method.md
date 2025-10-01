@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design of Asynchronous Motor Controller Based on Controlled Lagrangians Method"
 date: 2022-09-21 00:00:00 +0100
 permalink: design-of-asynchronous-motor-controller-based-on-controlled-lagrangians-method

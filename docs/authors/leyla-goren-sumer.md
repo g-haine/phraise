@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by LEYLA GÖREN SÜMER
 permalink: /authors/leyla-goren-sumer
 ---

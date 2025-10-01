@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Márcio Stefanello
 permalink: /authors/marcio-stefanello
 ---

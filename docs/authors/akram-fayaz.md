@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Akram Fayaz
 permalink: /authors/akram-fayaz
 ---

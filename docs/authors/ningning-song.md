@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ningning Song
 permalink: /authors/ningning-song
 ---

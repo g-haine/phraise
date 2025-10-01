@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reinforcement Learning for Port-Hamiltonian Systems"
 date: 2014-08-26 00:00:00 +0100
 permalink: reinforcement-learning-for-port-hamiltonian-systems

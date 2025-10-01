@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Suljo Ljukovac
 permalink: /authors/suljo-ljukovac
 ---

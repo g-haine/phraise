@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Safety analysis of integrated adaptive cruise and lane keeping control using multi-modal port-Hamiltonian systems"
 date: 2019-10-01 00:00:00 +0100
 permalink: safety-analysis-of-integrated-adaptive-cruise-and-lane-keeping-control-using-multi-modal-port-hamiltonian-systems

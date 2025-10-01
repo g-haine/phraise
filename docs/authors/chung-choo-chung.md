@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chung Choo Chung
 permalink: /authors/chung-choo-chung
 ---

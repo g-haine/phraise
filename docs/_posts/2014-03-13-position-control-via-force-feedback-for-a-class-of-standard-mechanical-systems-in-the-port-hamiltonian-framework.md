@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position control via force feedback for a class of standard mechanical systems in the port-Hamiltonian framework"
 date: 2014-03-13 00:00:00 +0100
 permalink: position-control-via-force-feedback-for-a-class-of-standard-mechanical-systems-in-the-port-hamiltonian-framework

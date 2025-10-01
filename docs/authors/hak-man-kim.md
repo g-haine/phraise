@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hak-Man Kim
 permalink: /authors/hak-man-kim
 ---

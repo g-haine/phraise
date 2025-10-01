@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Application of Energy Shaping of Port-Hamiltonian System to Chaos Synchronization"
 date: 2021-10-07 00:00:00 +0100
 permalink: application-of-energy-shaping-of-port-hamiltonian-system-to-chaos-synchronization

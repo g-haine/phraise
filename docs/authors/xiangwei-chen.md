@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiangwei Chen
 permalink: /authors/xiangwei-chen
 ---

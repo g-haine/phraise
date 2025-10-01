@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhengyu Gao
 permalink: /authors/zhengyu-gao
 ---

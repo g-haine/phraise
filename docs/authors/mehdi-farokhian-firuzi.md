@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mehdi Farokhian Firuzi
 permalink: /authors/mehdi-farokhian-firuzi
 ---

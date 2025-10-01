@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based modelling and control of wind energy conversion system with DFIG"
 date: 2011-03-17 00:00:00 +0100
 permalink: energy-based-modelling-and-control-of-wind-energy-conversion-system-with-dfig

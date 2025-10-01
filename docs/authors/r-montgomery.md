@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by R. Montgomery
 permalink: /authors/r-montgomery
 ---

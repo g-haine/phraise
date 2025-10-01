@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modelling for Analysis and Control of Gas Networks"
 date: 2023-11-22 00:00:00 +0100
 permalink: port-hamiltonian-modelling-for-analysis-and-control-of-gas-networks

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hegao Cai
 permalink: /authors/hegao-cai
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port‐Hamiltonian representation for pdes with second‐order derivatives in the energy density"
 date: 2016-10-25 00:00:00 +0100
 permalink: port-hamiltonian-representation-for-pdes-with-second-order-derivatives-in-the-energy-density

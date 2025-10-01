@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. H. S. Maithripala
 permalink: /authors/d-h-s-maithripala
 ---

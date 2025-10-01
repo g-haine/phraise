@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bond graph approach for port-controlled Hamiltonian modeling for SST"
 date: 2018-02-03 00:00:00 +0100
 permalink: bond-graph-approach-for-port-controlled-hamiltonian-modeling-for-sst

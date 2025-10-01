@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Smooth stabilisation of nonholonomic robots subject to disturbances"
 date: 2015-07-06 00:00:00 +0100
 permalink: smooth-stabilisation-of-nonholonomic-robots-subject-to-disturbances

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Robert D. Gregg
 permalink: /authors/robert-d-gregg
 ---

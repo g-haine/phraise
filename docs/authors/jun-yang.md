@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jun Yang
 permalink: /authors/jun-yang
 ---

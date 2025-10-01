@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ruxandra Barbulescu
 permalink: /authors/ruxandra-barbulescu
 ---

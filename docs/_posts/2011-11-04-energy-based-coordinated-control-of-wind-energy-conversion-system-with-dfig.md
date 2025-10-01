@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based coordinated control of wind energy conversion system with DFIG"
 date: 2011-11-04 00:00:00 +0100
 permalink: energy-based-coordinated-control-of-wind-energy-conversion-system-with-dfig

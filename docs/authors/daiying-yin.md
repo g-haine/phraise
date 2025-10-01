@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daiying Yin
 permalink: /authors/daiying-yin
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Implicit Hamiltonian systems with symmetry"
 date: 2003-04-05 00:00:00 +0100
 permalink: implicit-hamiltonian-systems-with-symmetry

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete-time port-Hamiltonian systems based on Gauss-Legendre collocation"
 date: 2018-06-18 00:00:00 +0100
 permalink: discrete-time-port-hamiltonian-systems-based-on-gauss-legendre-collocation

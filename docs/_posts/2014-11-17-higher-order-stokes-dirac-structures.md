@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Higher Order Stokes-Dirac Structures"
 date: 2014-11-17 00:00:00 +0100
 permalink: higher-order-stokes-dirac-structures

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olivier Terzo
 permalink: /authors/olivier-terzo
 ---

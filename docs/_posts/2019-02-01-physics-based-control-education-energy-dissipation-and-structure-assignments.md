@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Physics-based control education: energy, dissipation, and structure assignments"
 date: 2019-02-01 00:00:00 +0100
 permalink: physics-based-control-education-energy-dissipation-and-structure-assignments

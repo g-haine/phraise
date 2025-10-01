@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian dynamics with external forces and observations"
 date: 2005-06-19 00:00:00 +0100
 permalink: hamiltonian-dynamics-with-external-forces-and-observations

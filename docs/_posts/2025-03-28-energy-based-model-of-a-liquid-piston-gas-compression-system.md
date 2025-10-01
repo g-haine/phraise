@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ENERGY-BASED MODEL OF A LIQUID PISTON GAS COMPRESSION SYSTEM"
 date: 2025-03-28 00:00:00 +0100
 permalink: energy-based-model-of-a-liquid-piston-gas-compression-system

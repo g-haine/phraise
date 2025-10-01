@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the use of structural invariants for the distributed control of infinite dimensional port-Hamitonian systems"
 date: 2018-01-23 00:00:00 +0100
 permalink: on-the-use-of-structural-invariants-for-the-distributed-control-of-infinite-dimensional-port-hamitonian-systems

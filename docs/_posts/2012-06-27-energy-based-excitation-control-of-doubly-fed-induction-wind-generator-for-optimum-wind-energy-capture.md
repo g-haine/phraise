@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy‐based excitation control of doubly‐fed induction wind generator for optimum wind energy capture"
 date: 2012-06-27 00:00:00 +0100
 permalink: energy-based-excitation-control-of-doubly-fed-induction-wind-generator-for-optimum-wind-energy-capture

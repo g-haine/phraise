@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. Gu
 permalink: /authors/j-gu
 ---

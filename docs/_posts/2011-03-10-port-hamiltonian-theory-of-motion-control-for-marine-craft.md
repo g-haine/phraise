@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Theory of Motion Control for Marine Craft"
 date: 2011-03-10 00:00:00 +0100
 permalink: port-hamiltonian-theory-of-motion-control-for-marine-craft

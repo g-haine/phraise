@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Damping Assignment for a Wave Equation in the Port-Hamiltonian Framework"
 date: 2022-11-04 00:00:00 +0100
 permalink: distributed-damping-assignment-for-a-wave-equation-in-the-port-hamiltonian-framework

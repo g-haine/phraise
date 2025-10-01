@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PI passivity-based control of modular multilevel converters for multi-terminal HVDC systems"
 date: 2017-08-21 00:00:00 +0100
 permalink: pi-passivity-based-control-of-modular-multilevel-converters-for-multi-terminal-hvdc-systems

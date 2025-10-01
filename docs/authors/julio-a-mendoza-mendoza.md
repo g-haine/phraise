@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Julio A. Mendoza‐Mendoza
 permalink: /authors/julio-a-mendoza-mendoza
 ---

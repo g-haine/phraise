@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhaoyou Zeng
 permalink: /authors/zhaoyou-zeng
 ---

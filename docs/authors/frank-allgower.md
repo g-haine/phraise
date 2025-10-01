@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Frank Allgöwer
 permalink: /authors/frank-allgower
 ---

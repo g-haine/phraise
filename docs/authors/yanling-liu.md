@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanling Liu
 permalink: /authors/yanling-liu
 ---

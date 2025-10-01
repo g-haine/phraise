@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Praveen Jain
 permalink: /authors/praveen-jain
 ---

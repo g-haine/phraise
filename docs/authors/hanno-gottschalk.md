@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hanno Gottschalk
 permalink: /authors/hanno-gottschalk
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wei Hu
 permalink: /authors/wei-hu
 ---

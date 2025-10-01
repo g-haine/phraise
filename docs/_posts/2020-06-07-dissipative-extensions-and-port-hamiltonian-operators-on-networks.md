@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipative extensions and port-Hamiltonian operators on networks"
 date: 2020-06-07 00:00:00 +0100
 permalink: dissipative-extensions-and-port-hamiltonian-operators-on-networks

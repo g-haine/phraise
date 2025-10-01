@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Takafumi Gotoh
 permalink: /authors/takafumi-gotoh
 ---

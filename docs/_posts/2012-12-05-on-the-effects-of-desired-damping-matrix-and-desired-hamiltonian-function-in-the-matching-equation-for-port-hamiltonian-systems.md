@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the effects of desired damping matrix and desired Hamiltonian function in the matching equation for Port–Hamiltonian systems"
 date: 2012-12-05 00:00:00 +0100
 permalink: on-the-effects-of-desired-damping-matrix-and-desired-hamiltonian-function-in-the-matching-equation-for-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simulation of an Ondes Martenot Circuit"
 date: 2020-09-10 00:00:00 +0100
 permalink: simulation-of-an-ondes-martenot-circuit

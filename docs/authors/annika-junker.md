@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Annika Junker
 permalink: /authors/annika-junker
 ---

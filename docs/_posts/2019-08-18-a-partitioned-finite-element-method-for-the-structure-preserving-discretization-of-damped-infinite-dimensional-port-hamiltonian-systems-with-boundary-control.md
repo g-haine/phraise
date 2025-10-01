@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Partitioned Finite Element Method for the Structure-Preserving Discretization of Damped Infinite-Dimensional Port-Hamiltonian Systems with Boundary Control"
 date: 2019-08-18 00:00:00 +0100
 permalink: a-partitioned-finite-element-method-for-the-structure-preserving-discretization-of-damped-infinite-dimensional-port-hamiltonian-systems-with-boundary-control

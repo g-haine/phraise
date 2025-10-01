@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Suppression of Wave Disturbances and Tracking Control for Marine Systems"
 date: 2020-03-13 00:00:00 +0100
 permalink: suppression-of-wave-disturbances-and-tracking-control-for-marine-systems

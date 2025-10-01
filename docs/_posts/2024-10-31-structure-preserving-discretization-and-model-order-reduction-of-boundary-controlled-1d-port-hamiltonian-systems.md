@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving discretization and model order reduction of boundary-controlled 1D port-Hamiltonian systems"
 date: 2024-10-31 00:00:00 +0100
 permalink: structure-preserving-discretization-and-model-order-reduction-of-boundary-controlled-1d-port-hamiltonian-systems

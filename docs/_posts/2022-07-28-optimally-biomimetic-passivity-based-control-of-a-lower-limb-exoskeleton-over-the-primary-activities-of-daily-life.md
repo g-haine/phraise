@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimally Biomimetic Passivity-Based Control of a Lower-Limb Exoskeleton Over the Primary Activities of Daily Life"
 date: 2022-07-28 00:00:00 +0100
 permalink: optimally-biomimetic-passivity-based-control-of-a-lower-limb-exoskeleton-over-the-primary-activities-of-daily-life

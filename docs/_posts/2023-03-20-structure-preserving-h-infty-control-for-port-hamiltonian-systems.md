@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving \\\\( H^\\infty \\\\) control for port-Hamiltonian systems"
 date: 2023-03-20 00:00:00 +0100
 permalink: structure-preserving-h-infty-control-for-port-hamiltonian-systems

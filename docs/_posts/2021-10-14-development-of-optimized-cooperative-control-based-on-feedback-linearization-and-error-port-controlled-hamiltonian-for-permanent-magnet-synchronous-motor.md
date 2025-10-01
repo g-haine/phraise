@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Development of Optimized Cooperative Control Based on Feedback Linearization and Error Port-Controlled Hamiltonian for Permanent Magnet Synchronous Motor"
 date: 2021-10-14 00:00:00 +0100
 permalink: development-of-optimized-cooperative-control-based-on-feedback-linearization-and-error-port-controlled-hamiltonian-for-permanent-magnet-synchronous-motor

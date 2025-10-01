@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Panos C. Papageorgiou
 permalink: /authors/panos-c-papageorgiou
 ---

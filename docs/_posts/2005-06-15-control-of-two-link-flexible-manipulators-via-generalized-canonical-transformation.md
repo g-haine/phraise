@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of two-link flexible manipulators via generalized canonical transformation"
 date: 2005-06-15 00:00:00 +0100
 permalink: control-of-two-link-flexible-manipulators-via-generalized-canonical-transformation

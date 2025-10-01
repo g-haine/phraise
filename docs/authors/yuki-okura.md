@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuki Okura
 permalink: /authors/yuki-okura
 ---

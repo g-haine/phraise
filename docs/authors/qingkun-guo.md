@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingkun Guo
 permalink: /authors/qingkun-guo
 ---

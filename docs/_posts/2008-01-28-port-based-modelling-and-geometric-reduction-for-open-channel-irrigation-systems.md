@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-based modelling and geometric reduction for open channel irrigation systems"
 date: 2008-01-28 00:00:00 +0100
 permalink: port-based-modelling-and-geometric-reduction-for-open-channel-irrigation-systems

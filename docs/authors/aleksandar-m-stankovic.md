@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aleksandar M. Stankovic
 permalink: /authors/aleksandar-m-stankovic
 ---

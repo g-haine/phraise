@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy shaping control with integral action for soft continuum manipulators"
 date: 2021-01-14 00:00:00 +0100
 permalink: energy-shaping-control-with-integral-action-for-soft-continuum-manipulators

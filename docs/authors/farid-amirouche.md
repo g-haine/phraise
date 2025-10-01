@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Farid Amirouche
 permalink: /authors/farid-amirouche
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows"
 date: 2017-01-11 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows

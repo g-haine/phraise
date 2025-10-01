@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zongli Lin
 permalink: /authors/zongli-lin
 ---

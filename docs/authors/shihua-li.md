@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shihua Li
 permalink: /authors/shihua-li
 ---

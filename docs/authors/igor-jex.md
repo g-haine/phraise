@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Igor Jex
 permalink: /authors/igor-jex
 ---

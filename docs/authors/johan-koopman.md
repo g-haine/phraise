@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johan Koopman
 permalink: /authors/johan-koopman
 ---

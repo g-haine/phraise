@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lin Guan
 permalink: /authors/lin-guan
 ---

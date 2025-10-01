@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ying Chen
 permalink: /authors/ying-chen
 ---

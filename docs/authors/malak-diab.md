@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Malak Diab
 permalink: /authors/malak-diab
 ---

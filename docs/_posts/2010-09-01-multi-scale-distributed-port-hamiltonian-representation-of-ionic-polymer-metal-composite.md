@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Multi-Scale Distributed Port-Hamiltonian Representation of Ionic Polymer-Metal Composite"
 date: 2010-09-01 00:00:00 +0100
 permalink: multi-scale-distributed-port-hamiltonian-representation-of-ionic-polymer-metal-composite

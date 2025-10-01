@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coupling between hyperbolic and diffusive systems: A port-Hamiltonian formulation"
 date: 2013-10-10 00:00:00 +0100
 permalink: coupling-between-hyperbolic-and-diffusive-systems-a-port-hamiltonian-formulation

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yoshihiro Nakabo
 permalink: /authors/yoshihiro-nakabo
 ---

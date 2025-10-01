@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaojin Huang
 permalink: /authors/xiaojin-huang
 ---

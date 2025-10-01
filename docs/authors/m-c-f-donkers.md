@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. C. F. Donkers
 permalink: /authors/m-c-f-donkers
 ---

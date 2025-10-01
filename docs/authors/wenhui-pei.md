@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenhui Pei
 permalink: /authors/wenhui-pei
 ---

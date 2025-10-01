@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Krishna Chaitanya Kosaraju
 permalink: /authors/krishna-chaitanya-kosaraju
 ---

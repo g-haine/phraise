@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Identification of Nonlinear Circuits as Port-Hamiltonian Systems"
 date: 2022-05-11 00:00:00 +0100
 permalink: identification-of-nonlinear-circuits-as-port-hamiltonian-systems

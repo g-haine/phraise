@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johann Reger
 permalink: /authors/johann-reger
 ---

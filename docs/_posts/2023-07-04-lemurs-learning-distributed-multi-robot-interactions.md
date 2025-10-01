@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "LEMURS: Learning Distributed Multi-Robot Interactions"
 date: 2023-07-04 00:00:00 +0100
 permalink: lemurs-learning-distributed-multi-robot-interactions

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Q.J. Liu
 permalink: /authors/q-j-liu
 ---

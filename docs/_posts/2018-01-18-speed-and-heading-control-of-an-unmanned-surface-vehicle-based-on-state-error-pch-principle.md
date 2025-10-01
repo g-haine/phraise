@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Speed and Heading Control of an Unmanned Surface Vehicle Based on State Error PCH Principle"
 date: 2018-01-18 00:00:00 +0100
 permalink: speed-and-heading-control-of-an-unmanned-surface-vehicle-based-on-state-error-pch-principle

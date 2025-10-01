@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Huahuan Wang
 permalink: /authors/huahuan-wang
 ---

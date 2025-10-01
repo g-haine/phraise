@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well‐Posedness, Long‐Time Behavior, and Discretization of Some Models of Nonlinear Acoustics in Velocity–Enthalpy Formulation"
 date: 2025-02-11 00:00:00 +0100
 permalink: well-posedness-long-time-behavior-and-discretization-of-some-models-of-nonlinear-acoustics-in-velocity-enthalpy-formulation

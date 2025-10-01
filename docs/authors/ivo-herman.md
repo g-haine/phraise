@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ivo Herman
 permalink: /authors/ivo-herman
 ---

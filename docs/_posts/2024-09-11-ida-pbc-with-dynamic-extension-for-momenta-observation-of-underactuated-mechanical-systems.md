@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-PBC with Dynamic Extension for Momenta Observation of Underactuated Mechanical Systems"
 date: 2024-09-11 00:00:00 +0100
 permalink: ida-pbc-with-dynamic-extension-for-momenta-observation-of-underactuated-mechanical-systems

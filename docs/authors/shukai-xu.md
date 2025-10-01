@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shukai Xu
 permalink: /authors/shukai-xu
 ---

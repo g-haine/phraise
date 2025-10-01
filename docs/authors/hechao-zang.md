@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hechao Zang
 permalink: /authors/hechao-zang
 ---

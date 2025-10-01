@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J.-Y. Gauthier
 permalink: /authors/j-y-gauthier
 ---

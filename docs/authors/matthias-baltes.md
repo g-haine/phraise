@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matthias Baltes
 permalink: /authors/matthias-baltes
 ---

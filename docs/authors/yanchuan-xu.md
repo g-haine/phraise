@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanchuan Xu
 permalink: /authors/yanchuan-xu
 ---

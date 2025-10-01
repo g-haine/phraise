@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Afef Hfaiedh
 permalink: /authors/afef-hfaiedh
 ---

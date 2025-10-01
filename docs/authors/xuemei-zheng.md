@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xuemei Zheng
 permalink: /authors/xuemei-zheng
 ---

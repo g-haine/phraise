@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power balancing for a new class of non-linear systems and stabilization of RLC circuits"
 date: 2007-06-26 00:00:00 +0100
 permalink: power-balancing-for-a-new-class-of-non-linear-systems-and-stabilization-of-rlc-circuits

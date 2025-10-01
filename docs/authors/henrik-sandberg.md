@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Henrik Sandberg
 permalink: /authors/henrik-sandberg
 ---

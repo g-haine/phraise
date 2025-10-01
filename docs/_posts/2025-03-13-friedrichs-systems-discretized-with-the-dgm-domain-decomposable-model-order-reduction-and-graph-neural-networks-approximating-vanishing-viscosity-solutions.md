@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Friedrichs' systems discretized with the DGM: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions"
 date: 2025-03-13 00:00:00 +0100
 permalink: friedrichs-systems-discretized-with-the-dgm-domain-decomposable-model-order-reduction-and-graph-neural-networks-approximating-vanishing-viscosity-solutions

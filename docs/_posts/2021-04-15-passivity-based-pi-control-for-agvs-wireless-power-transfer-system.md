@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based PI Control for AGVs Wireless Power Transfer System"
 date: 2021-04-15 00:00:00 +0100
 permalink: passivity-based-pi-control-for-agvs-wireless-power-transfer-system

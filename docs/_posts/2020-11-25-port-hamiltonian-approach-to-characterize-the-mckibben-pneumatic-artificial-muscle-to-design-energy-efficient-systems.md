@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian approach to characterize the McKibben pneumatic artificial muscle to design energy efficient systems"
 date: 2020-11-25 00:00:00 +0100
 permalink: port-hamiltonian-approach-to-characterize-the-mckibben-pneumatic-artificial-muscle-to-design-energy-efficient-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by James Avery
 permalink: /authors/james-avery
 ---

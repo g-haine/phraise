@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Henk Nijmeijer
 permalink: /authors/henk-nijmeijer
 ---

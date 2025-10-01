@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Compliant manipulators on graphs"
 date: 2015-12-17 00:00:00 +0100
 permalink: compliant-manipulators-on-graphs

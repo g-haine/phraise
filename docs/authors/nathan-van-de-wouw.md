@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nathan van de Wouw
 permalink: /authors/nathan-van-de-wouw
 ---

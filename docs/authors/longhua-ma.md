@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Longhua Ma
 permalink: /authors/longhua-ma
 ---

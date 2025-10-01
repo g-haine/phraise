@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thordur Runolfsson
 permalink: /authors/thordur-runolfsson
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian-Based Geometric Control for Rigid Body Platoons With Mesh Stability Guarantee"
 date: 2024-12-11 00:00:00 +0100
 permalink: port-hamiltonian-based-geometric-control-for-rigid-body-platoons-with-mesh-stability-guarantee

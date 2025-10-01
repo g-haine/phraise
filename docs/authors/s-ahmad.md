@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S Ahmad
 permalink: /authors/s-ahmad
 ---

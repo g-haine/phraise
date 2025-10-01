@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Azeddine Houari
 permalink: /authors/azeddine-houari
 ---

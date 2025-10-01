@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hyo-Sung Ahn
 permalink: /authors/hyo-sung-ahn
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yumeng Jiang
 permalink: /authors/yumeng-jiang
 ---

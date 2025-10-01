@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PyGpPHs: A Python Package for Bayesian Modeling of Port-Hamiltonian Systems"
 date: 2024-09-25 00:00:00 +0100
 permalink: pygpphs-a-python-package-for-bayesian-modeling-of-port-hamiltonian-systems

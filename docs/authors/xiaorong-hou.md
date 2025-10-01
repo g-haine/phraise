@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaorong Hou
 permalink: /authors/xiaorong-hou
 ---

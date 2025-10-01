@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust IDA-PBC Based Load Voltage Controller for Power Quality Enhancement of Standalone Microgrids"
 date: 2019-01-18 00:00:00 +0100
 permalink: robust-ida-pbc-based-load-voltage-controller-for-power-quality-enhancement-of-standalone-microgrids

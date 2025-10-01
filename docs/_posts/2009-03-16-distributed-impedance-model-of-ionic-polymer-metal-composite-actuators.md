@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Impedance Model of Ionic Polymer-Metal Composite Actuators"
 date: 2009-03-16 00:00:00 +0100
 permalink: distributed-impedance-model-of-ionic-polymer-metal-composite-actuators

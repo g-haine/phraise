@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Philippsen Roland
 permalink: /authors/philippsen-roland
 ---

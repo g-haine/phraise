@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary Energy-Shaping Control of the Shallow Water Equation"
 date: 2014-10-08 00:00:00 +0100
 permalink: boundary-energy-shaping-control-of-the-shallow-water-equation

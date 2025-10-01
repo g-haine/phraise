@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bernd Kolar
 permalink: /authors/bernd-kolar
 ---

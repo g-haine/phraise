@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving Discretization of the Cahn-Hilliard Equations Recast as a Port-Hamiltonian System"
 date: 2023-07-31 00:00:00 +0100
 permalink: structure-preserving-discretization-of-the-cahn-hilliard-equations-recast-as-a-port-hamiltonian-system

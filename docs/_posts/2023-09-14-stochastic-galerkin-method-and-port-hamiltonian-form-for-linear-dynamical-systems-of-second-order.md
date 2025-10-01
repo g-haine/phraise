@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stochastic Galerkin method and port-Hamiltonian form for linear dynamical systems of second order"
 date: 2023-09-14 00:00:00 +0100
 permalink: stochastic-galerkin-method-and-port-hamiltonian-form-for-linear-dynamical-systems-of-second-order

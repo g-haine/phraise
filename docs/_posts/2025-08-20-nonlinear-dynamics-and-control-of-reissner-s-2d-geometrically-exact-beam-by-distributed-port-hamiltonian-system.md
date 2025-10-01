@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear Dynamics and Control of Reissner's 2D Geometrically Exact Beam by Distributed Port‐Hamiltonian System"
 date: 2025-08-20 00:00:00 +0100
 permalink: nonlinear-dynamics-and-control-of-reissner-s-2d-geometrically-exact-beam-by-distributed-port-hamiltonian-system

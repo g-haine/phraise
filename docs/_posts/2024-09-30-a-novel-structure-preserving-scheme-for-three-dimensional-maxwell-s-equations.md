@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Novel Structure-Preserving Scheme for Three-Dimensional Maxwell’s Equations"
 date: 2024-09-30 00:00:00 +0100
 permalink: a-novel-structure-preserving-scheme-for-three-dimensional-maxwell-s-equations

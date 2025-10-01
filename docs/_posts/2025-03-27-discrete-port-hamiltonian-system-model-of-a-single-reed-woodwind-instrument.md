@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete port-Hamiltonian system model of a single-reed woodwind instrument"
 date: 2025-03-27 00:00:00 +0100
 permalink: discrete-port-hamiltonian-system-model-of-a-single-reed-woodwind-instrument

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulation of two-phase flow models"
 date: 2021-02-18 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-two-phase-flow-models

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Variational space–time (dis)continuous Galerkin method for nonlinear free surface water waves"
 date: 2014-06-26 00:00:00 +0100
 permalink: variational-space-time-dis-continuous-galerkin-method-for-nonlinear-free-surface-water-waves

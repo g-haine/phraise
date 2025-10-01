@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Lagrangian variational formulation for nonequilibrium thermodynamics"
 date: 2018-06-18 00:00:00 +0100
 permalink: a-lagrangian-variational-formulation-for-nonequilibrium-thermodynamics

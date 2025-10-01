@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Problems on time-varying port-controlled Hamiltonian systems: geometric structure and dissipative realization"
 date: 2005-01-26 00:00:00 +0100
 permalink: problems-on-time-varying-port-controlled-hamiltonian-systems-geometric-structure-and-dissipative-realization

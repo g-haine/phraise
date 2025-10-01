@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenjun Cai
 permalink: /authors/wenjun-cai
 ---

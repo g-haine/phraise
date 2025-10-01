@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Regulation of Rigid Spacecraft Angular Momentum Using Port Controlled Hamiltonian Structure"
 date: 2017-05-19 00:00:00 +0100
 permalink: regulation-of-rigid-spacecraft-angular-momentum-using-port-controlled-hamiltonian-structure

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hongnian Yu
 permalink: /authors/hongnian-yu
 ---

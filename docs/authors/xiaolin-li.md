@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaolin Li
 permalink: /authors/xiaolin-li
 ---

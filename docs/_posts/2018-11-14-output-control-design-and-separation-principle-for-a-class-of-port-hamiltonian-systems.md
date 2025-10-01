@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Output control design and separation principle for a class of port‐Hamiltonian systems"
 date: 2018-11-14 00:00:00 +0100
 permalink: output-control-design-and-separation-principle-for-a-class-of-port-hamiltonian-systems

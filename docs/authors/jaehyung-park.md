@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jaehyung Park
 permalink: /authors/jaehyung-park
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian approach to exponential stabilisation and disturbance rejection of a DC-DC buck converter with a nonlinear load"
 date: 2018-02-14 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-exponential-stabilisation-and-disturbance-rejection-of-a-dc-dc-buck-converter-with-a-nonlinear-load

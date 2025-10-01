@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability analysis and control design based on average dwell time approaches for switched nonlinear port-controlled Hamiltonian systems"
 date: 2019-02-28 00:00:00 +0100
 permalink: stability-analysis-and-control-design-based-on-average-dwell-time-approaches-for-switched-nonlinear-port-controlled-hamiltonian-systems

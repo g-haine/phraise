@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dan Stefanoiu
 permalink: /authors/dan-stefanoiu
 ---

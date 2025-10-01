@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems in Adaptive and Learning Control: A Survey"
 date: 2015-07-20 00:00:00 +0100
 permalink: port-hamiltonian-systems-in-adaptive-and-learning-control-a-survey

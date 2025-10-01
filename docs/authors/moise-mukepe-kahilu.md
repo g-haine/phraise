@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Moïse Mukepe Kahilu
 permalink: /authors/moise-mukepe-kahilu
 ---

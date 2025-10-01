@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maris Tõnso
 permalink: /authors/maris-tonso
 ---

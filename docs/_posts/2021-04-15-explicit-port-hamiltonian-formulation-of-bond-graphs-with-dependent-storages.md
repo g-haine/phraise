@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Explicit Port-Hamiltonian Formulation of Bond Graphs with Dependent Storages"
 date: 2021-04-15 00:00:00 +0100
 permalink: explicit-port-hamiltonian-formulation-of-bond-graphs-with-dependent-storages

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaojun Guo
 permalink: /authors/xiaojun-guo
 ---

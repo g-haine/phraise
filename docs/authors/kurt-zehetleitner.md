@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kurt Zehetleitner
 permalink: /authors/kurt-zehetleitner
 ---

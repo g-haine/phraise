@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yasuhiro Imagawa
 permalink: /authors/yasuhiro-imagawa
 ---

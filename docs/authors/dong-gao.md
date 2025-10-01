@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dong Gao
 permalink: /authors/dong-gao
 ---

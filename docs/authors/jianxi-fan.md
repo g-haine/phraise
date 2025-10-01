@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianxi Fan
 permalink: /authors/jianxi-fan
 ---

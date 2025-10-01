@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by L. Piétrac
 permalink: /authors/l-pietrac
 ---

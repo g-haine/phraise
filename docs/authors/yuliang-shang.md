@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuliang Shang
 permalink: /authors/yuliang-shang
 ---

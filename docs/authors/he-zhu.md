@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by He Zhu
 permalink: /authors/he-zhu
 ---

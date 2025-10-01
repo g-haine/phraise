@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wang-Rui Zhang
 permalink: /authors/wang-rui-zhang
 ---

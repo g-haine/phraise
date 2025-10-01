@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structured Optimization-Based Model Order Reduction for Parametric Systems"
 date: 2025-01-09 00:00:00 +0100
 permalink: structured-optimization-based-model-order-reduction-for-parametric-systems

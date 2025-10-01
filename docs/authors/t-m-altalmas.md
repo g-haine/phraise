@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T M Altalmas
 permalink: /authors/t-m-altalmas
 ---

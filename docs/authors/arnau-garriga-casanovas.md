@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arnau Garriga-Casanovas
 permalink: /authors/arnau-garriga-casanovas
 ---

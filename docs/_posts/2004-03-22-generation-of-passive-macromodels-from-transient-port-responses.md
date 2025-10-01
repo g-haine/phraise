@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Generation of passive macromodels from transient port responses"
 date: 2004-03-22 00:00:00 +0100
 permalink: generation-of-passive-macromodels-from-transient-port-responses

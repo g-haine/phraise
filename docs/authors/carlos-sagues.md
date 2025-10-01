@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Carlos Sagüés
 permalink: /authors/carlos-sagues
 ---

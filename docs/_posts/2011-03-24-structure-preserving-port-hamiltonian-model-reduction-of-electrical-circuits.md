@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure Preserving Port-Hamiltonian Model Reduction of Electrical Circuits"
 date: 2011-03-24 00:00:00 +0100
 permalink: structure-preserving-port-hamiltonian-model-reduction-of-electrical-circuits

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinyi Zhang
 permalink: /authors/xinyi-zhang
 ---

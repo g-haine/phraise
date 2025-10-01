@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alejandro Garcés-Ruíz
 permalink: /authors/alejandro-garces-ruiz
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by W.A. Prins
 permalink: /authors/w-a-prins
 ---

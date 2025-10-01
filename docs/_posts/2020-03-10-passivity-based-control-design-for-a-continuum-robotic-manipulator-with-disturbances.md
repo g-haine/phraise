@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control design for a continuum robotic manipulator with disturbances"
 date: 2020-03-10 00:00:00 +0100
 permalink: passivity-based-control-design-for-a-continuum-robotic-manipulator-with-disturbances

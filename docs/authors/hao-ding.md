@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hao Ding
 permalink: /authors/hao-ding
 ---

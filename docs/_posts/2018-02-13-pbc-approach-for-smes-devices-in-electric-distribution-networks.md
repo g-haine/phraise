@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PBC Approach for SMES Devices in Electric Distribution Networks"
 date: 2018-02-13 00:00:00 +0100
 permalink: pbc-approach-for-smes-devices-in-electric-distribution-networks

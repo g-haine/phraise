@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liliana Borcea
 permalink: /authors/liliana-borcea
 ---

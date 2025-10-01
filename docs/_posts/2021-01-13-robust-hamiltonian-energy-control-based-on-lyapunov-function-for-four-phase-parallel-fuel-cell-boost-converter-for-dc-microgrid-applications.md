@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Hamiltonian Energy Control Based on Lyapunov Function for Four-Phase Parallel Fuel Cell Boost Converter for DC Microgrid Applications"
 date: 2021-01-13 00:00:00 +0100
 permalink: robust-hamiltonian-energy-control-based-on-lyapunov-function-for-four-phase-parallel-fuel-cell-boost-converter-for-dc-microgrid-applications

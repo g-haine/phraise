@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jamie O. Roberts
 permalink: /authors/jamie-o-roberts
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vsevolod Shashkov
 permalink: /authors/vsevolod-shashkov
 ---

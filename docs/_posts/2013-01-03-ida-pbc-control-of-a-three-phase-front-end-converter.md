@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-PBC control of a three-phase front-end converter"
 date: 2013-01-03 00:00:00 +0100
 permalink: ida-pbc-control-of-a-three-phase-front-end-converter

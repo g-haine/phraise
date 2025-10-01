@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jérôme Pousin
 permalink: /authors/jerome-pousin
 ---

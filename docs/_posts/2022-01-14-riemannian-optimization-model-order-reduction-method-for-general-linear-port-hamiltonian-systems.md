@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Riemannian optimization model order reduction method for general linear port-Hamiltonian systems"
 date: 2022-01-14 00:00:00 +0100
 permalink: riemannian-optimization-model-order-reduction-method-for-general-linear-port-hamiltonian-systems

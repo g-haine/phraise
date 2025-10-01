@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pierre Lefranc
 permalink: /authors/pierre-lefranc
 ---

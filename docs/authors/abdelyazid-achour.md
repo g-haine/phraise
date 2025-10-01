@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abdelyazid Achour
 permalink: /authors/abdelyazid-achour
 ---

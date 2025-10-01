@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jean-Yves Dieulot
 permalink: /authors/jean-yves-dieulot
 ---

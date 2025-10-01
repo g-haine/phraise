@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gabriela Ciuprina
 permalink: /authors/gabriela-ciuprina
 ---

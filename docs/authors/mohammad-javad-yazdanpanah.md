@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammad Javad Yazdanpanah
 permalink: /authors/mohammad-javad-yazdanpanah
 ---

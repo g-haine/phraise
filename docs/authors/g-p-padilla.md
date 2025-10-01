@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by G. P. Padilla
 permalink: /authors/g-p-padilla
 ---

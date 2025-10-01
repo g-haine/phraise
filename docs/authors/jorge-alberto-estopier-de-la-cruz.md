@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jorge Alberto Estopier de la Cruz
 permalink: /authors/jorge-alberto-estopier-de-la-cruz
 ---

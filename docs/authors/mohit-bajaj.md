@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohit Bajaj
 permalink: /authors/mohit-bajaj
 ---

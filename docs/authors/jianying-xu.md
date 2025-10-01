@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jianying Xu
 permalink: /authors/jianying-xu
 ---

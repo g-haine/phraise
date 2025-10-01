@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pisit Vanichchanunt
 permalink: /authors/pisit-vanichchanunt
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eduardo García Toraño
 permalink: /authors/eduardo-garcia-torano
 ---

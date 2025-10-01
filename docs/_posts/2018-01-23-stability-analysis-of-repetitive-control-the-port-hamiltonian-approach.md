@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability analysis of repetitive control: The port-Hamiltonian approach"
 date: 2018-01-23 00:00:00 +0100
 permalink: stability-analysis-of-repetitive-control-the-port-hamiltonian-approach

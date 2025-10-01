@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exact Quantization of Nonreciprocal Quasilumped Electrical Networks"
 date: 2025-03-28 00:00:00 +0100
 permalink: exact-quantization-of-nonreciprocal-quasilumped-electrical-networks

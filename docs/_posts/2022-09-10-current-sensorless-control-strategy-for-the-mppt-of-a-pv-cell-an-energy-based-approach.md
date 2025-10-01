@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Current-Sensorless Control Strategy for the MPPT of a PV Cell: An Energy-Based Approach"
 date: 2022-09-10 00:00:00 +0100
 permalink: current-sensorless-control-strategy-for-the-mppt-of-a-pv-cell-an-energy-based-approach

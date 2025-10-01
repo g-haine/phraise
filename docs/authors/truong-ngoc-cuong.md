@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Truong Ngoc Cuong
 permalink: /authors/truong-ngoc-cuong
 ---

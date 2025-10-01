@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dissipativity-based boundary control of linear distributed port-Hamiltonian systems"
 date: 2018-05-29 00:00:00 +0100
 permalink: dissipativity-based-boundary-control-of-linear-distributed-port-hamiltonian-systems

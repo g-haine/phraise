@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Elena Celledoni
 permalink: /authors/elena-celledoni
 ---

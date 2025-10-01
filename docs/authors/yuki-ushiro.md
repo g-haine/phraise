@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuki USHIRO
 permalink: /authors/yuki-ushiro
 ---

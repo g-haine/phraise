@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martin Schmidt
 permalink: /authors/martin-schmidt
 ---

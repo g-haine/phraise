@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hossein Iman-Eini
 permalink: /authors/hossein-iman-eini
 ---

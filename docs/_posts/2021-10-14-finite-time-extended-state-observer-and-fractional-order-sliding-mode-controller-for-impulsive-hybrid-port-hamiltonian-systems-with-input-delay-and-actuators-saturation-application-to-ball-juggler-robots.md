@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time extended state observer and fractional-order sliding mode controller for impulsive hybrid port-Hamiltonian systems with input delay and actuators saturation: Application to ball-juggler robots"
 date: 2021-10-14 00:00:00 +0100
 permalink: finite-time-extended-state-observer-and-fractional-order-sliding-mode-controller-for-impulsive-hybrid-port-hamiltonian-systems-with-input-delay-and-actuators-saturation-application-to-ball-juggler-robots

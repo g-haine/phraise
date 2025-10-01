@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zongwei Zou
 permalink: /authors/zongwei-zou
 ---

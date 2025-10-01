@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by G. A. Pavliotis
 permalink: /authors/g-a-pavliotis
 ---

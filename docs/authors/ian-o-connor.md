@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ian O'Connor
 permalink: /authors/ian-o-connor
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Santiago Sanchez
 permalink: /authors/santiago-sanchez
 ---

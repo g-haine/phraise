@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shengjie Guo
 permalink: /authors/shengjie-guo
 ---

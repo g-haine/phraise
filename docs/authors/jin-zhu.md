@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jin Zhu
 permalink: /authors/jin-zhu
 ---

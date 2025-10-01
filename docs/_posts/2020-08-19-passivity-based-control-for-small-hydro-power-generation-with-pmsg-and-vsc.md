@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control for Small Hydro-Power Generation With PMSG and VSC"
 date: 2020-08-19 00:00:00 +0100
 permalink: passivity-based-control-for-small-hydro-power-generation-with-pmsg-and-vsc

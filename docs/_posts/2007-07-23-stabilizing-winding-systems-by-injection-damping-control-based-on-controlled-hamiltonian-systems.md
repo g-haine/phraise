@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilizing Winding Systems by Injection Damping Control Based on Controlled Hamiltonian Systems"
 date: 2007-07-23 00:00:00 +0100
 permalink: stabilizing-winding-systems-by-injection-damping-control-based-on-controlled-hamiltonian-systems

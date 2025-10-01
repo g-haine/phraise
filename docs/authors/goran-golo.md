@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Goran Golo
 permalink: /authors/goran-golo
 ---

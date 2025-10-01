@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On distributed port-hamiltonian process systems"
 date: 2017-05-13 00:00:00 +0100
 permalink: on-distributed-port-hamiltonian-process-systems

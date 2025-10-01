@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christopher Renton
 permalink: /authors/christopher-renton
 ---

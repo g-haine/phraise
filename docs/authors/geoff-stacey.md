@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Geoff Stacey
 permalink: /authors/geoff-stacey
 ---

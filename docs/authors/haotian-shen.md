@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haotian Shen
 permalink: /authors/haotian-shen
 ---

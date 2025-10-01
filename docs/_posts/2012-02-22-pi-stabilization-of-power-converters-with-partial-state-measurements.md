@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PI Stabilization of Power Converters With Partial State Measurements"
 date: 2012-02-22 00:00:00 +0100
 permalink: pi-stabilization-of-power-converters-with-partial-state-measurements

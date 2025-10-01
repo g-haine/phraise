@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antoine Falaize
 permalink: /authors/antoine-falaize
 ---

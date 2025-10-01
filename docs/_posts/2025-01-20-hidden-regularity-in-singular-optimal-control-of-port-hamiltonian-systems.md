@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hidden Regularity in Singular Optimal Control of port-Hamiltonian Systems"
 date: 2025-01-20 00:00:00 +0100
 permalink: hidden-regularity-in-singular-optimal-control-of-port-hamiltonian-systems

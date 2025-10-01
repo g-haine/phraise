@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An energy-based control model for autonomous lifts"
 date: 2015-05-23 00:00:00 +0100
 permalink: an-energy-based-control-model-for-autonomous-lifts

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal control of the hydraulic actuated boom system based on port-hamiltonian formulation"
 date: 2020-11-11 00:00:00 +0100
 permalink: optimal-control-of-the-hydraulic-actuated-boom-system-based-on-port-hamiltonian-formulation

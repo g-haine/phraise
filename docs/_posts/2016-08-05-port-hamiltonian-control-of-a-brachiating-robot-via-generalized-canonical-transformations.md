@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian control of a brachiating robot via generalized canonical transformations"
 date: 2016-08-05 00:00:00 +0100
 permalink: port-hamiltonian-control-of-a-brachiating-robot-via-generalized-canonical-transformations

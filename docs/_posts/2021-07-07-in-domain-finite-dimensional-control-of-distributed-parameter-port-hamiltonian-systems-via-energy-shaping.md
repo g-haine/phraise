@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "In-domain finite dimensional control of distributed parameter port-Hamiltonian systems via energy shaping"
 date: 2021-07-07 00:00:00 +0100
 permalink: in-domain-finite-dimensional-control-of-distributed-parameter-port-hamiltonian-systems-via-energy-shaping

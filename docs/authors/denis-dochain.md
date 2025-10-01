@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Denis Dochain
 permalink: /authors/denis-dochain
 ---

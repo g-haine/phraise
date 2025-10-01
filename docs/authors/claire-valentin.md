@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Claire Valentin
 permalink: /authors/claire-valentin
 ---

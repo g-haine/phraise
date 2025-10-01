@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Parabolic matching of hyperbolic system using Control by Interconnection"
 date: 2017-10-19 00:00:00 +0100
 permalink: parabolic-matching-of-hyperbolic-system-using-control-by-interconnection

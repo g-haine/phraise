@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander Kilian
 permalink: /authors/alexander-kilian
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lingyan Wei
 permalink: /authors/lingyan-wei
 ---

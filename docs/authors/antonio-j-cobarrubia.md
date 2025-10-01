@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antonio J. Cobarrubia
 permalink: /authors/antonio-j-cobarrubia
 ---

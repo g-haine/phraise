@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilisation of a Nonlinear Flexible Beam in Port-Hamiltonian Form"
 date: 2013-09-17 00:00:00 +0100
 permalink: stabilisation-of-a-nonlinear-flexible-beam-in-port-hamiltonian-form

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ningbo Cheng
 permalink: /authors/ningbo-cheng
 ---

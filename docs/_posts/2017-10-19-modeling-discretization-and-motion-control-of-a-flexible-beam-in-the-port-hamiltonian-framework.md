@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling, discretization and motion control of a flexible beam in the port-Hamiltonian framework"
 date: 2017-10-19 00:00:00 +0100
 permalink: modeling-discretization-and-motion-control-of-a-flexible-beam-in-the-port-hamiltonian-framework

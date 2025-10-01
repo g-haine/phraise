@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-posedness of a class of hyperbolic partial differential equations on the semi-axis"
 date: 2019-04-24 00:00:00 +0100
 permalink: well-posedness-of-a-class-of-hyperbolic-partial-differential-equations-on-the-semi-axis

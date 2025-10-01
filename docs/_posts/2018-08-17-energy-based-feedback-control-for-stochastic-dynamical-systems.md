@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based Feedback Control for Stochastic Dynamical Systems"
 date: 2018-08-17 00:00:00 +0100
 permalink: energy-based-feedback-control-for-stochastic-dynamical-systems

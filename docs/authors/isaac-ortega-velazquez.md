@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Isaac Ortega-Velázquez
 permalink: /authors/isaac-ortega-velazquez
 ---

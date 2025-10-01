@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling, Control and Stability Analysis of Flexible Rotating Beam's Impacts During Contact Scenario"
 date: 2021-07-28 00:00:00 +0100
 permalink: modelling-control-and-stability-analysis-of-flexible-rotating-beam-s-impacts-during-contact-scenario

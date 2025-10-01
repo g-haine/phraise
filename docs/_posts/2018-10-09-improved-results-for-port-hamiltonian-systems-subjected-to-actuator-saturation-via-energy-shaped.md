@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Improved Results for Port-Hamiltonian Systems Subjected to Actuator Saturation via Energy-Shaped"
 date: 2018-10-09 00:00:00 +0100
 permalink: improved-results-for-port-hamiltonian-systems-subjected-to-actuator-saturation-via-energy-shaped

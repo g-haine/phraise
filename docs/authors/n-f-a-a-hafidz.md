@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by N. F. A. A. Hafidz
 permalink: /authors/n-f-a-a-hafidz
 ---

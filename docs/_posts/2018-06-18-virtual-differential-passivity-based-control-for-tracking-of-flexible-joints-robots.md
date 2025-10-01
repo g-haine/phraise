@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Virtual Differential Passivity based Control for Tracking of Flexible-joints Robots"
 date: 2018-06-18 00:00:00 +0100
 permalink: virtual-differential-passivity-based-control-for-tracking-of-flexible-joints-robots

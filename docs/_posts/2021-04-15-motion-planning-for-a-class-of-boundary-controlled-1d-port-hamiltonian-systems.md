@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Motion planning for a class of boundary controlled 1D port-Hamiltonian systems"
 date: 2021-04-15 00:00:00 +0100
 permalink: motion-planning-for-a-class-of-boundary-controlled-1d-port-hamiltonian-systems

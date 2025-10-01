@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "LQG control for flexible micro-grippers with additional integral action"
 date: 2019-10-17 00:00:00 +0100
 permalink: lqg-control-for-flexible-micro-grippers-with-additional-integral-action

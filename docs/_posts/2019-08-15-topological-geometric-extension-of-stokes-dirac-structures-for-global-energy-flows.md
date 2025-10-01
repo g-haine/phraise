@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Topological geometric extension of Stokes-Dirac structures for global energy flows"
 date: 2019-08-15 00:00:00 +0100
 permalink: topological-geometric-extension-of-stokes-dirac-structures-for-global-energy-flows

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rui Hou
 permalink: /authors/rui-hou
 ---

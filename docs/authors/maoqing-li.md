@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maoqing Li
 permalink: /authors/maoqing-li
 ---

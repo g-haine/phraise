@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Albertus Johannes Malan
 permalink: /authors/albertus-johannes-malan
 ---

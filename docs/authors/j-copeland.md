@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. Copeland
 permalink: /authors/j-copeland
 ---

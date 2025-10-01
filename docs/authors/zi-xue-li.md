@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zi-Xue Li
 permalink: /authors/zi-xue-li
 ---

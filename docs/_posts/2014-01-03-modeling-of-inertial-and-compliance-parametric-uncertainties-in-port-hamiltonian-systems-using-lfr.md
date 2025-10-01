@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling of inertial and compliance parametric uncertainties in Port-Hamiltonian Systems using LFR"
 date: 2014-01-03 00:00:00 +0100
 permalink: modeling-of-inertial-and-compliance-parametric-uncertainties-in-port-hamiltonian-systems-using-lfr

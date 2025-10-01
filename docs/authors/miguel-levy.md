@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Miguel Levy
 permalink: /authors/miguel-levy
 ---

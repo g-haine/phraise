@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dominik Michels
 permalink: /authors/dominik-michels
 ---

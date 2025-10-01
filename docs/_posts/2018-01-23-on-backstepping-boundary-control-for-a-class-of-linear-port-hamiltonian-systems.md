@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On backstepping boundary control for a class of linear port-Hamiltonian systems"
 date: 2018-01-23 00:00:00 +0100
 permalink: on-backstepping-boundary-control-for-a-class-of-linear-port-hamiltonian-systems

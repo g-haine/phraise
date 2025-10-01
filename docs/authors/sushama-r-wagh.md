@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sushama R. Wagh
 permalink: /authors/sushama-r-wagh
 ---

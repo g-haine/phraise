@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dongmei Liu
 permalink: /authors/dongmei-liu
 ---

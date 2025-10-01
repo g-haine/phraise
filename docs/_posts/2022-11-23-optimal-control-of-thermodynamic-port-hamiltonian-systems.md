@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal control of thermodynamic port-Hamiltonian Systems"
 date: 2022-11-23 00:00:00 +0100
 permalink: optimal-control-of-thermodynamic-port-hamiltonian-systems

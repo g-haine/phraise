@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ning Ji
 permalink: /authors/ning-ji
 ---

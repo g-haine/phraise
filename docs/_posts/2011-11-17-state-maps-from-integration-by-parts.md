@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "State Maps from Integration by Parts"
 date: 2011-11-17 00:00:00 +0100
 permalink: state-maps-from-integration-by-parts

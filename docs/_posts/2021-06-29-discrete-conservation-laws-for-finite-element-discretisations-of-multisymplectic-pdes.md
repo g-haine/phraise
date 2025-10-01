@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete conservation laws for finite element discretisations of multisymplectic PDEs"
 date: 2021-06-29 00:00:00 +0100
 permalink: discrete-conservation-laws-for-finite-element-discretisations-of-multisymplectic-pdes

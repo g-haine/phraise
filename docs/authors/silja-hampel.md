@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Silja Hampel
 permalink: /authors/silja-hampel
 ---

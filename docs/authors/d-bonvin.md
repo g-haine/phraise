@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. Bonvin
 permalink: /authors/d-bonvin
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Observability for port-Hamiltonian systems"
 date: 2022-01-03 00:00:00 +0100
 permalink: observability-for-port-hamiltonian-systems

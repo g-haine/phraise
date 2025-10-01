@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Regulation of Infinite-Dimensional Port-Hamiltonian Systems"
 date: 2017-08-31 00:00:00 +0100
 permalink: robust-regulation-of-infinite-dimensional-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "L2 gain disturbance attenuation of PMSM based on Hamiltonian systems control theory"
 date: 2010-08-24 00:00:00 +0100
 permalink: l2-gain-disturbance-attenuation-of-pmsm-based-on-hamiltonian-systems-control-theory

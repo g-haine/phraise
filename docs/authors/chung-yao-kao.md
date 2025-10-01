@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chung-Yao Kao
 permalink: /authors/chung-yao-kao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time-domain and frequency-domain macromodeling: application to package structures"
 date: 2004-05-06 00:00:00 +0100
 permalink: time-domain-and-frequency-domain-macromodeling-application-to-package-structures

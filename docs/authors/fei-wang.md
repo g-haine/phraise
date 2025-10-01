@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fei Wang
 permalink: /authors/fei-wang
 ---

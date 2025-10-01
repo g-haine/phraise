@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On an intrinsic formulation of time-variant Port Hamiltonian systems"
 date: 2012-06-30 00:00:00 +0100
 permalink: on-an-intrinsic-formulation-of-time-variant-port-hamiltonian-systems

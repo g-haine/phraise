@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Heinrich H. Bülthoff
 permalink: /authors/heinrich-h-bulthoff
 ---

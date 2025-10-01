@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sascha Trostorff
 permalink: /authors/sascha-trostorff
 ---

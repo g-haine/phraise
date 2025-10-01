@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matin Jafarian
 permalink: /authors/matin-jafarian
 ---

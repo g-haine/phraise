@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by GONG YouMin
 permalink: /authors/gong-youmin
 ---

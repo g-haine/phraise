@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Karl Worthmann
 permalink: /authors/karl-worthmann
 ---

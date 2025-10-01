@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rolf-Björn Baltes
 permalink: /authors/rolf-bjorn-baltes
 ---

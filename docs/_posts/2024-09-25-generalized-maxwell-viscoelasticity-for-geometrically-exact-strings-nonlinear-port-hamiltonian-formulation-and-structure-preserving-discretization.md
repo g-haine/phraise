@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Generalized Maxwell viscoelasticity for geometrically exact strings: Nonlinear port-Hamiltonian formulation and structure-preserving discretization"
 date: 2024-09-25 00:00:00 +0100
 permalink: generalized-maxwell-viscoelasticity-for-geometrically-exact-strings-nonlinear-port-hamiltonian-formulation-and-structure-preserving-discretization

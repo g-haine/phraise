@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thavamani Govindaraj
 permalink: /authors/thavamani-govindaraj
 ---

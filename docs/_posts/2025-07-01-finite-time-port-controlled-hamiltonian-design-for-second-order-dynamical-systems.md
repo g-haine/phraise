@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time port-controlled Hamiltonian design for second-order dynamical systems"
 date: 2025-07-01 00:00:00 +0100
 permalink: finite-time-port-controlled-hamiltonian-design-for-second-order-dynamical-systems

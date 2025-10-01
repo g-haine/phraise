@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geometric pseudospectral method for spatial integration of dynamical systems"
 date: 2011-01-26 00:00:00 +0100
 permalink: geometric-pseudospectral-method-for-spatial-integration-of-dynamical-systems

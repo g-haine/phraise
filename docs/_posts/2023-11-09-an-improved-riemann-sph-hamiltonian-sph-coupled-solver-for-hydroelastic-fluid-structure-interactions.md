@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An improved Riemann SPH-Hamiltonian SPH coupled solver for hydroelastic fluid-structure interactions"
 date: 2023-11-09 00:00:00 +0100
 permalink: an-improved-riemann-sph-hamiltonian-sph-coupled-solver-for-hydroelastic-fluid-structure-interactions

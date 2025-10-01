@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based Trajectory-tracking for Marine Craft with Disturbance Rejection"
 date: 2015-11-06 00:00:00 +0100
 permalink: passivity-based-trajectory-tracking-for-marine-craft-with-disturbance-rejection

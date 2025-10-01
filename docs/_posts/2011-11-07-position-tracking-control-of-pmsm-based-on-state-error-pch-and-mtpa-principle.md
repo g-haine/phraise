@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position tracking control of PMSM based on state error PCH and MTPA principle"
 date: 2011-11-07 00:00:00 +0100
 permalink: position-tracking-control-of-pmsm-based-on-state-error-pch-and-mtpa-principle

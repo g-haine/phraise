@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yufeng Lu
 permalink: /authors/yufeng-lu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Steffi Knorn
 permalink: /authors/steffi-knorn
 ---

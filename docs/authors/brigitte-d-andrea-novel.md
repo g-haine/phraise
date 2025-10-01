@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Brigitte d'Andrea-Novel
 permalink: /authors/brigitte-d-andrea-novel
 ---

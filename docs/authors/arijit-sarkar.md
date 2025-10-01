@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arijit Sarkar
 permalink: /authors/arijit-sarkar
 ---

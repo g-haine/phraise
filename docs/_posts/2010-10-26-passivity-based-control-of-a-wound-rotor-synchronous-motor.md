@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control of a wound-rotor synchronous motor"
 date: 2010-10-26 00:00:00 +0100
 permalink: passivity-based-control-of-a-wound-rotor-synchronous-motor

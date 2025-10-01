@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Saurabh Basu
 permalink: /authors/saurabh-basu
 ---

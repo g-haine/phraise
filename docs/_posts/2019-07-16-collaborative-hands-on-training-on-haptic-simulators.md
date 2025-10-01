@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Collaborative Hands-on Training on Haptic Simulators"
 date: 2019-07-16 00:00:00 +0100
 permalink: collaborative-hands-on-training-on-haptic-simulators

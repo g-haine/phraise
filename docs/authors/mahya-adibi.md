@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mahya Adibi
 permalink: /authors/mahya-adibi
 ---

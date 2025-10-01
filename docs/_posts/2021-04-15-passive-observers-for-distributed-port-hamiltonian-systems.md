@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passive observers for distributed port-Hamiltonian systems"
 date: 2021-04-15 00:00:00 +0100
 permalink: passive-observers-for-distributed-port-hamiltonian-systems

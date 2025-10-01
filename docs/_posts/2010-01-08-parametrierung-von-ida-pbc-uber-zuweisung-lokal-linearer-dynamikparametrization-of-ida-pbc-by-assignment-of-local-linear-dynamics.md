@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Parametrierung von IDA-PBC über Zuweisung lokal linearer DynamikParametrization of IDA-PBC by Assignment of Local Linear Dynamics"
 date: 2010-01-08 00:00:00 +0100
 permalink: parametrierung-von-ida-pbc-uber-zuweisung-lokal-linearer-dynamikparametrization-of-ida-pbc-by-assignment-of-local-linear-dynamics

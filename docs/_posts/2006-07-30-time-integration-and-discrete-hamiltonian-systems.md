@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Time integration and discrete Hamiltonian systems"
 date: 2006-07-30 00:00:00 +0100
 permalink: time-integration-and-discrete-hamiltonian-systems

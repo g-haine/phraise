@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marc Wijnand
 permalink: /authors/marc-wijnand
 ---

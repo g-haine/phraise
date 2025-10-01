@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lina Jin
 permalink: /authors/lina-jin
 ---

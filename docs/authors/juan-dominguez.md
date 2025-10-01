@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan Dominguez
 permalink: /authors/juan-dominguez
 ---

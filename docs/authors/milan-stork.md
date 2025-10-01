@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Milan Stork
 permalink: /authors/milan-stork
 ---

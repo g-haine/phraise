@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability via closure relations with applications to dissipative and port-Hamiltonian systems"
 date: 2024-07-05 00:00:00 +0100
 permalink: stability-via-closure-relations-with-applications-to-dissipative-and-port-hamiltonian-systems

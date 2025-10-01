@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling of the vocal folds using bond-graph representation"
 date: 2021-07-01 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-the-vocal-folds-using-bond-graph-representation

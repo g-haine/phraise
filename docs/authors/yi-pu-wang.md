@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yi-Pu Wang
 permalink: /authors/yi-pu-wang
 ---

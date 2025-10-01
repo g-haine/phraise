@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Giovanni Soleti
 permalink: /authors/giovanni-soleti
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive simultaneous stabilization of two Port-Controlled Hamiltonian systems subject to actuator saturation"
 date: 2012-12-01 00:00:00 +0100
 permalink: adaptive-simultaneous-stabilization-of-two-port-controlled-hamiltonian-systems-subject-to-actuator-saturation

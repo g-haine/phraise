@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cheng Wang
 permalink: /authors/cheng-wang
 ---

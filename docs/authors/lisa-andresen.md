@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lisa Andresen
 permalink: /authors/lisa-andresen
 ---

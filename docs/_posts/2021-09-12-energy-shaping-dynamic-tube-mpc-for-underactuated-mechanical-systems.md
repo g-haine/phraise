@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy shaping dynamic tube-MPC for underactuated mechanical systems"
 date: 2021-09-12 00:00:00 +0100
 permalink: energy-shaping-dynamic-tube-mpc-for-underactuated-mechanical-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arbaoui Iliace
 permalink: /authors/arbaoui-iliace
 ---

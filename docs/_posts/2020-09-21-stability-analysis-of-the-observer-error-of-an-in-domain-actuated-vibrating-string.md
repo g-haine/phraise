@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability Analysis of the Observer Error of an In-Domain Actuated Vibrating String"
 date: 2020-09-21 00:00:00 +0100
 permalink: stability-analysis-of-the-observer-error-of-an-in-domain-actuated-vibrating-string

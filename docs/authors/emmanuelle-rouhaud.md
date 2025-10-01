@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Emmanuelle Rouhaud
 permalink: /authors/emmanuelle-rouhaud
 ---

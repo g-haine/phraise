@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhitao Liu
 permalink: /authors/zhitao-liu
 ---

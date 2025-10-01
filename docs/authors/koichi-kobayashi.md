@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Koichi Kobayashi
 permalink: /authors/koichi-kobayashi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Taishi Nishiyama
 permalink: /authors/taishi-nishiyama
 ---

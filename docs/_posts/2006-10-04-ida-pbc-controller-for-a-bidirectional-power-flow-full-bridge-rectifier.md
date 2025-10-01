@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-PBC controller for a bidirectional power flow full-bridge rectifier"
 date: 2006-10-04 00:00:00 +0100
 permalink: ida-pbc-controller-for-a-bidirectional-power-flow-full-bridge-rectifier

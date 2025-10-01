@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Catalin Arghir
 permalink: /authors/catalin-arghir
 ---

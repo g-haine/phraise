@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Delin Chu
 permalink: /authors/delin-chu
 ---

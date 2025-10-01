@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinpeng Yu
 permalink: /authors/jinpeng-yu
 ---

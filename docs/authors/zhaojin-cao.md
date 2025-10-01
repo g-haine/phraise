@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhaojin Cao
 permalink: /authors/zhaojin-cao
 ---

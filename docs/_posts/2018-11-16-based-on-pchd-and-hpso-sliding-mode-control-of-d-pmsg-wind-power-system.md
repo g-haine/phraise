@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Based on PCHD and HPSO sliding mode control of D-PMSG wind power system"
 date: 2018-11-16 00:00:00 +0100
 permalink: based-on-pchd-and-hpso-sliding-mode-control-of-d-pmsg-wind-power-system

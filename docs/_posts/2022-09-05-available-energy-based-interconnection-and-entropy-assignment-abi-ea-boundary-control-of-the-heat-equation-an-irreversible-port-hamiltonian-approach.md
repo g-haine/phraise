@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Available energy-based interconnection and entropy assignment (ABI-EA) boundary control of the heat equation: an Irreversible Port Hamiltonian approach"
 date: 2022-09-05 00:00:00 +0100
 permalink: available-energy-based-interconnection-and-entropy-assignment-abi-ea-boundary-control-of-the-heat-equation-an-irreversible-port-hamiltonian-approach

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of wind farm integrated transmission system with input delay"
 date: 2021-06-21 00:00:00 +0100
 permalink: stabilization-of-wind-farm-integrated-transmission-system-with-input-delay

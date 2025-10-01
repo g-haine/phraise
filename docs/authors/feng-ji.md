@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Feng Ji
 permalink: /authors/feng-ji
 ---

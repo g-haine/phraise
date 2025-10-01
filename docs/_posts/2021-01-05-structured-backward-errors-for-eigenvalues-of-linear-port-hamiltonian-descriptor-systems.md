@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structured Backward Errors for Eigenvalues of Linear Port-Hamiltonian Descriptor Systems"
 date: 2021-01-05 00:00:00 +0100
 permalink: structured-backward-errors-for-eigenvalues-of-linear-port-hamiltonian-descriptor-systems

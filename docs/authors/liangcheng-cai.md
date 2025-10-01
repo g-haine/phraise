@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liangcheng Cai
 permalink: /authors/liangcheng-cai
 ---

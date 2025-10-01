@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antonio Franchi
 permalink: /authors/antonio-franchi
 ---

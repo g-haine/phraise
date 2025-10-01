@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matthieu Touron
 permalink: /authors/matthieu-touron
 ---

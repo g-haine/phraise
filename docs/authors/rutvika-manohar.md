@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rutvika Manohar
 permalink: /authors/rutvika-manohar
 ---

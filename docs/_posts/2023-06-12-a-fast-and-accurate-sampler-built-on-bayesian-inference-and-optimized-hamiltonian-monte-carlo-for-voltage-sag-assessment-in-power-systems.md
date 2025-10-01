@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A fast and accurate sampler built on Bayesian inference and optimized Hamiltonian Monte Carlo for voltage sag assessment in power systems"
 date: 2023-06-12 00:00:00 +0100
 permalink: a-fast-and-accurate-sampler-built-on-bayesian-inference-and-optimized-hamiltonian-monte-carlo-for-voltage-sag-assessment-in-power-systems

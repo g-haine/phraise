@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The modeling and control of Buck-Boost converter based on energy-shaping theory"
 date: 2008-08-28 00:00:00 +0100
 permalink: the-modeling-and-control-of-buck-boost-converter-based-on-energy-shaping-theory

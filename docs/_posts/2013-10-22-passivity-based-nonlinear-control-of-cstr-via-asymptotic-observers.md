@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based nonlinear control of CSTR via asymptotic observers"
 date: 2013-10-22 00:00:00 +0100
 permalink: passivity-based-nonlinear-control-of-cstr-via-asymptotic-observers

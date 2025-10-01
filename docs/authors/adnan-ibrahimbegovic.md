@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Adnan Ibrahimbegović
 permalink: /authors/adnan-ibrahimbegovic
 ---

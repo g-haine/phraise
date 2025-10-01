@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by X. X. Yi
 permalink: /authors/x-x-yi
 ---

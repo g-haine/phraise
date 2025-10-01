@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuanghe Yu
 permalink: /authors/shuanghe-yu
 ---

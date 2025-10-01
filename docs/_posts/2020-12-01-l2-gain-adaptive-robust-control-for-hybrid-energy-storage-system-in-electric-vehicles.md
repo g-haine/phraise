@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "L2-Gain Adaptive Robust Control for Hybrid Energy Storage System in Electric Vehicles"
 date: 2020-12-01 00:00:00 +0100
 permalink: l2-gain-adaptive-robust-control-for-hybrid-energy-storage-system-in-electric-vehicles

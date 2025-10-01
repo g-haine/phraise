@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Denis Matignon
 permalink: /authors/denis-matignon
 ---

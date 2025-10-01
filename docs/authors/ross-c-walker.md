@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ross C. Walker
 permalink: /authors/ross-c-walker
 ---

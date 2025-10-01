@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vadim Kaparin
 permalink: /authors/vadim-kaparin
 ---

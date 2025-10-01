@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed formation control for port-Hamiltonian multi-agent systems by average state estimation"
 date: 2025-05-30 00:00:00 +0100
 permalink: distributed-formation-control-for-port-hamiltonian-multi-agent-systems-by-average-state-estimation

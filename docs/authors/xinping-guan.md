@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinping Guan
 permalink: /authors/xinping-guan
 ---

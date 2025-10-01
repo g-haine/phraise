@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The geometric structure of interconnected thermo-mechanical systems."
 date: 2017-10-19 00:00:00 +0100
 permalink: the-geometric-structure-of-interconnected-thermo-mechanical-systems

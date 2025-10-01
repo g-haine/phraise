@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Formulation of Rigid-Body Attitude Control"
 date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-rigid-body-attitude-control

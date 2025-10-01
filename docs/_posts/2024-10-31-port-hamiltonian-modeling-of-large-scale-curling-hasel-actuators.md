@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling of large-scale curling HASEL actuators"
 date: 2024-10-31 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-large-scale-curling-hasel-actuators

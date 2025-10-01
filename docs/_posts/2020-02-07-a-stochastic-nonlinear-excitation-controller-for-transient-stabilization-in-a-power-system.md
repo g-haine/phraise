@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Stochastic Nonlinear Excitation Controller for Transient Stabilization in a Power System"
 date: 2020-02-07 00:00:00 +0100
 permalink: a-stochastic-nonlinear-excitation-controller-for-transient-stabilization-in-a-power-system

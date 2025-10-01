@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haotian Yan
 permalink: /authors/haotian-yan
 ---

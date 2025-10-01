@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac Structures and Control by Interconnection for Distributed Port-Hamiltonian Systems"
 date: 2015-07-13 00:00:00 +0100
 permalink: dirac-structures-and-control-by-interconnection-for-distributed-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Samareh Attarsharghi
 permalink: /authors/samareh-attarsharghi
 ---

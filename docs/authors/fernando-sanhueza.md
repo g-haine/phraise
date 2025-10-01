@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fernando Sanhueza
 permalink: /authors/fernando-sanhueza
 ---

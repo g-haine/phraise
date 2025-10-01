@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability Improvement of Cascaded Power Conversion Systems Based on Hamiltonian Energy Control Theory"
 date: 2020-11-16 00:00:00 +0100
 permalink: stability-improvement-of-cascaded-power-conversion-systems-based-on-hamiltonian-energy-control-theory

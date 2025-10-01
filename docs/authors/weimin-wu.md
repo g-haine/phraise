@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Weimin Wu
 permalink: /authors/weimin-wu
 ---

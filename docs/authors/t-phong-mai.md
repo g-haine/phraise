@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T. Phong Mai
 permalink: /authors/t-phong-mai
 ---

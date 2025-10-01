@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Brandon Caasenbrood
 permalink: /authors/brandon-caasenbrood
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The difference between port-Hamiltonian, passive and positive real descriptor systems"
 date: 2023-11-11 00:00:00 +0100
 permalink: the-difference-between-port-hamiltonian-passive-and-positive-real-descriptor-systems

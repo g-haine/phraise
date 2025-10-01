@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port‐<scp>H</scp>amiltonian Approach to Visual Servo Control of a Pick and Place System"
 date: 2014-05-17 00:00:00 +0100
 permalink: a-port-scp-h-scp-amiltonian-approach-to-visual-servo-control-of-a-pick-and-place-system

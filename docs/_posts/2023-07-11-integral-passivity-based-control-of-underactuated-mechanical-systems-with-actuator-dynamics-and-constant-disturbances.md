@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Integral passivity‐based control of underactuated mechanical systems with actuator dynamics and constant disturbances"
 date: 2023-07-11 00:00:00 +0100
 permalink: integral-passivity-based-control-of-underactuated-mechanical-systems-with-actuator-dynamics-and-constant-disturbances

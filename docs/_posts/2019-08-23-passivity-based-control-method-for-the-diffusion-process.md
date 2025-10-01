@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity Based Control method for the diffusion process"
 date: 2019-08-23 00:00:00 +0100
 permalink: passivity-based-control-method-for-the-diffusion-process

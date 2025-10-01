@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian approach to visual servo control of a pick and place system"
 date: 2013-02-08 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-visual-servo-control-of-a-pick-and-place-system

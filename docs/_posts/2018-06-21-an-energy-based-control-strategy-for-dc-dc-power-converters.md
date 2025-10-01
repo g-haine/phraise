@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An energy-based control strategy for dc/dc power converters"
 date: 2018-06-21 00:00:00 +0100
 permalink: an-energy-based-control-strategy-for-dc-dc-power-converters

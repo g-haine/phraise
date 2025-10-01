@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Integral IDA-PBC and PID-like control for port-controlled Hamiltonian systems"
 date: 2015-07-30 00:00:00 +0100
 permalink: integral-ida-pbc-and-pid-like-control-for-port-controlled-hamiltonian-systems

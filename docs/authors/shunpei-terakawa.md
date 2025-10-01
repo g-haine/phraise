@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shunpei Terakawa
 permalink: /authors/shunpei-terakawa
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Noboru Sakamoto
 permalink: /authors/noboru-sakamoto
 ---

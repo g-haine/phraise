@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Aware Control of Euler–Bernoulli Beams by Means of an Axial Load"
 date: 2022-07-29 00:00:00 +0100
 permalink: energy-aware-control-of-euler-bernoulli-beams-by-means-of-an-axial-load

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Liangming Chen
 permalink: /authors/liangming-chen
 ---

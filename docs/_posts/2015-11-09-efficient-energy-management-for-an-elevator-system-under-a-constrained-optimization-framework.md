@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Efficient energy management for an elevator system under a constrained optimization framework"
 date: 2015-11-09 00:00:00 +0100
 permalink: efficient-energy-management-for-an-elevator-system-under-a-constrained-optimization-framework

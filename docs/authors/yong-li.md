@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yong Li
 permalink: /authors/yong-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Input‐to‐state stability of stochastic port‐Hamiltonian systems using stochastic generalized canonical transformations"
 date: 2017-03-03 00:00:00 +0100
 permalink: input-to-state-stability-of-stochastic-port-hamiltonian-systems-using-stochastic-generalized-canonical-transformations

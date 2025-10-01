@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure preserving approximation of dissipative evolution problems"
 date: 2019-05-18 00:00:00 +0100
 permalink: structure-preserving-approximation-of-dissipative-evolution-problems

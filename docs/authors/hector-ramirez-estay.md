@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hector Ramirez Estay
 permalink: /authors/hector-ramirez-estay
 ---

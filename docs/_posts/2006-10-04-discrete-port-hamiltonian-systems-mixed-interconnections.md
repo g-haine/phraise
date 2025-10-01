@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete port-Hamiltonian systems: mixed interconnections"
 date: 2006-10-04 00:00:00 +0100
 permalink: discrete-port-hamiltonian-systems-mixed-interconnections

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Switched Passivity—Based Control of the Chaplygin Sleigh"
 date: 2016-12-23 00:00:00 +0100
 permalink: switched-passivity-based-control-of-the-chaplygin-sleigh

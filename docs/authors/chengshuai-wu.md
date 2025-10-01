@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chengshuai Wu
 permalink: /authors/chengshuai-wu
 ---

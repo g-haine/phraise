@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Carmen Chan-Zheng
 permalink: /authors/carmen-chan-zheng
 ---

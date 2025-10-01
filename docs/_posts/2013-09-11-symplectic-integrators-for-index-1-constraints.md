@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Symplectic Integrators for Index 1 Constraints"
 date: 2013-09-11 00:00:00 +0100
 permalink: symplectic-integrators-for-index-1-constraints

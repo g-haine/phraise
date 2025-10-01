@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Input disturbance suppression for port-controlled hamiltonian system via the internal model method"
 date: 2013-03-26 00:00:00 +0100
 permalink: input-disturbance-suppression-for-port-controlled-hamiltonian-system-via-the-internal-model-method

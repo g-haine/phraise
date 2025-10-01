@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rafael Tavares
 permalink: /authors/rafael-tavares
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yongxin Wu
 permalink: /authors/yongxin-wu
 ---

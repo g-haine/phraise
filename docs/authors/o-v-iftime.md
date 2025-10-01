@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by O.V. Iftime
 permalink: /authors/o-v-iftime
 ---

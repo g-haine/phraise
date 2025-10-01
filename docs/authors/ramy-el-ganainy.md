@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ramy El-Ganainy
 permalink: /authors/ramy-el-ganainy
 ---

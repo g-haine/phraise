@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A network dynamics approach to chemical reaction networks"
 date: 2015-09-17 00:00:00 +0100
 permalink: a-network-dynamics-approach-to-chemical-reaction-networks

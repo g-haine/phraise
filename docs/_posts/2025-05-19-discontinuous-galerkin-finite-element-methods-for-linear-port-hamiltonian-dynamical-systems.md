@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discontinuous Galerkin Finite Element Methods for Linear Port-Hamiltonian Dynamical Systems"
 date: 2025-05-19 00:00:00 +0100
 permalink: discontinuous-galerkin-finite-element-methods-for-linear-port-hamiltonian-dynamical-systems

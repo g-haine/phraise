@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gil Ha Lee
 permalink: /authors/gil-ha-lee
 ---

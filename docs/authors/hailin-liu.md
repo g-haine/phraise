@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hailin Liu
 permalink: /authors/hailin-liu
 ---

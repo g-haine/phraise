@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential Stabilization of Port-Hamiltonian Boundary Control Systems via Energy Shaping"
 date: 2020-06-25 00:00:00 +0100
 permalink: exponential-stabilization-of-port-hamiltonian-boundary-control-systems-via-energy-shaping

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Unified Passivity-Based Framework for Control of Modular Islanded AC Microgrids"
 date: 2021-12-31 00:00:00 +0100
 permalink: a-unified-passivity-based-framework-for-control-of-modular-islanded-ac-microgrids

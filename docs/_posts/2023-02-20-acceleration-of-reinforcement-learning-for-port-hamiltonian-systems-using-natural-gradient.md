@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Acceleration of Reinforcement Learning for Port-Hamiltonian Systems Using Natural Gradient"
 date: 2023-02-20 00:00:00 +0100
 permalink: acceleration-of-reinforcement-learning-for-port-hamiltonian-systems-using-natural-gradient

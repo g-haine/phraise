@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tudor Ratiu
 permalink: /authors/tudor-ratiu
 ---

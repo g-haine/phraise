@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luc Molinet
 permalink: /authors/luc-molinet
 ---

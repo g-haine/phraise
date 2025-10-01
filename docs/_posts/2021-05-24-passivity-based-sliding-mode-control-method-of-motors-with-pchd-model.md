@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Sliding Mode Control Method of Motors with PCHD Model"
 date: 2021-05-24 00:00:00 +0100
 permalink: passivity-based-sliding-mode-control-method-of-motors-with-pchd-model

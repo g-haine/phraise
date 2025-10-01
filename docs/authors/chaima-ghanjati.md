@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chaima Ghanjati
 permalink: /authors/chaima-ghanjati
 ---

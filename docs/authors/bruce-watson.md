@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bruce Watson
 permalink: /authors/bruce-watson
 ---

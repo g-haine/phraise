@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Four quadrant operation and energy optimization control of PMSM drive systems"
 date: 2018-01-05 00:00:00 +0100
 permalink: four-quadrant-operation-and-energy-optimization-control-of-pmsm-drive-systems

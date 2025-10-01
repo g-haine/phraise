@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Generalized port-Hamiltonian DAE systems"
 date: 2018-10-16 00:00:00 +0100
 permalink: generalized-port-hamiltonian-dae-systems

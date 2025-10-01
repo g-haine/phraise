@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Hamiltonian structure for dynamic free boundary problems"
 date: 2002-10-17 00:00:00 +0100
 permalink: the-hamiltonian-structure-for-dynamic-free-boundary-problems

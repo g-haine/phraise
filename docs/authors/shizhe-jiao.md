@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shizhe Jiao
 permalink: /authors/shizhe-jiao
 ---

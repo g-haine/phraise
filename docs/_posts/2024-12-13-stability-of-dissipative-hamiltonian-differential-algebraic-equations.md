@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability of (Dissipative Hamiltonian) Differential-Algebraic Equations"
 date: 2024-12-13 00:00:00 +0100
 permalink: stability-of-dissipative-hamiltonian-differential-algebraic-equations

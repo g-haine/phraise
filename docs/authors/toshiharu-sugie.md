@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Toshiharu Sugie
 permalink: /authors/toshiharu-sugie
 ---

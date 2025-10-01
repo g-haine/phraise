@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kentaro Takagi
 permalink: /authors/kentaro-takagi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Michel Fran
 permalink: /authors/michel-fran
 ---

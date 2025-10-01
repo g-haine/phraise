@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Faruk Kazi
 permalink: /authors/faruk-kazi
 ---

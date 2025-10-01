@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by O. Floch
 permalink: /authors/o-floch
 ---

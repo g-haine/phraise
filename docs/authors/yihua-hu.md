@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yihua Hu
 permalink: /authors/yihua-hu
 ---

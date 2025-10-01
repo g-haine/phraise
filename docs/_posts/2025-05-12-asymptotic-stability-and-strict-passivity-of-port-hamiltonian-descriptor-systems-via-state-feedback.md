@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asymptotic stability and strict passivity of port-Hamiltonian descriptor systems via state feedback"
 date: 2025-05-12 00:00:00 +0100
 permalink: asymptotic-stability-and-strict-passivity-of-port-hamiltonian-descriptor-systems-via-state-feedback

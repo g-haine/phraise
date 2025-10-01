@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chih-Ming Lai
 permalink: /authors/chih-ming-lai
 ---

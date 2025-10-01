@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan C. Agüero
 permalink: /authors/juan-c-aguero
 ---

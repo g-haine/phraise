@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bernardo Severino
 permalink: /authors/bernardo-severino
 ---

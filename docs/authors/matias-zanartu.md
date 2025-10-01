@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matías Zañartu
 permalink: /authors/matias-zanartu
 ---

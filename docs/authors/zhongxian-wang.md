@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhongxian Wang
 permalink: /authors/zhongxian-wang
 ---

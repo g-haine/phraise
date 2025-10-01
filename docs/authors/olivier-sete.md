@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olivier Sète
 permalink: /authors/olivier-sete
 ---

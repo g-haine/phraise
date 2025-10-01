@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hamiltonian representation of generalized ribosome flow models"
 date: 2022-08-05 00:00:00 +0100
 permalink: hamiltonian-representation-of-generalized-ribosome-flow-models

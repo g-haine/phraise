@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Muhammad Zakiyullah Romdlony
 permalink: /authors/muhammad-zakiyullah-romdlony
 ---

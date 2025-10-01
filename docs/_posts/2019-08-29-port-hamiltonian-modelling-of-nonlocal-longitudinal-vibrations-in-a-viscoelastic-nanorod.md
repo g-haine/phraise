@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modelling of nonlocal longitudinal vibrations in a viscoelastic nanorod"
 date: 2019-08-29 00:00:00 +0100
 permalink: port-hamiltonian-modelling-of-nonlocal-longitudinal-vibrations-in-a-viscoelastic-nanorod

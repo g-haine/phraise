@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pramod Sistla
 permalink: /authors/pramod-sistla
 ---

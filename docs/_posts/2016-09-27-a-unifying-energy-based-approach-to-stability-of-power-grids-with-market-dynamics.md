@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Unifying Energy-Based Approach to Stability of Power Grids With Market Dynamics"
 date: 2016-09-27 00:00:00 +0100
 permalink: a-unifying-energy-based-approach-to-stability-of-power-grids-with-market-dynamics

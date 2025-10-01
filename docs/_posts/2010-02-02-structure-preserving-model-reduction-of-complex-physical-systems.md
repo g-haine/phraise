@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving model reduction of complex physical systems"
 date: 2010-02-02 00:00:00 +0100
 permalink: structure-preserving-model-reduction-of-complex-physical-systems

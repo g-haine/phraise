@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matthew A. Clark
 permalink: /authors/matthew-a-clark
 ---

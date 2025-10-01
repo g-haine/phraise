@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rakesh Maurya
 permalink: /authors/rakesh-maurya
 ---

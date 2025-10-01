@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lijun Hou
 permalink: /authors/lijun-hou
 ---

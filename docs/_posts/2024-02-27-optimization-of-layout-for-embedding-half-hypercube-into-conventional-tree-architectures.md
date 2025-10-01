@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimization of layout for embedding half hypercube into conventional tree architectures"
 date: 2024-02-27 00:00:00 +0100
 permalink: optimization-of-layout-for-embedding-half-hypercube-into-conventional-tree-architectures

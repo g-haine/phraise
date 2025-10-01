@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust state‐error port‐controlled Hamiltonian trajectory tracking control for unmanned surface vehicle with disturbance uncertainties"
 date: 2020-11-17 00:00:00 +0100
 permalink: robust-state-error-port-controlled-hamiltonian-trajectory-tracking-control-for-unmanned-surface-vehicle-with-disturbance-uncertainties

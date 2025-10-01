@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Axel Koslowski
 permalink: /authors/axel-koslowski
 ---

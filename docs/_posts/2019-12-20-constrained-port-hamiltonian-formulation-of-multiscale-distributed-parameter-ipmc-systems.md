@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Constrained port Hamiltonian formulation of multiscale distributed parameter IPMC systems"
 date: 2019-12-20 00:00:00 +0100
 permalink: constrained-port-hamiltonian-formulation-of-multiscale-distributed-parameter-ipmc-systems

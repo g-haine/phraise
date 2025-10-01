@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinsen Wang
 permalink: /authors/jinsen-wang
 ---

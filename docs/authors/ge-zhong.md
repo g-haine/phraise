@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ge Zhong
 permalink: /authors/ge-zhong
 ---

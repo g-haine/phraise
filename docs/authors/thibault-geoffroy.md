@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thibault Geoffroy
 permalink: /authors/thibault-geoffroy
 ---

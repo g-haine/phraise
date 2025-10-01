@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bayesian Inference for Path Following Control of Port-Hamiltonian Systems with Training Trajectory Data"
 date: 2020-03-17 00:00:00 +0100
 permalink: bayesian-inference-for-path-following-control-of-port-hamiltonian-systems-with-training-trajectory-data

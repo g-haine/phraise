@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Heat exchanger control: Performance of thermodynamics-based geometrical vs classical PID controllers"
 date: 2025-04-24 00:00:00 +0100
 permalink: heat-exchanger-control-performance-of-thermodynamics-based-geometrical-vs-classical-pid-controllers

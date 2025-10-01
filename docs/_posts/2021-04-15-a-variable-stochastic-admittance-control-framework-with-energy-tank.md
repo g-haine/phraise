@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A variable stochastic admittance control framework with energy tank"
 date: 2021-04-15 00:00:00 +0100
 permalink: a-variable-stochastic-admittance-control-framework-with-energy-tank

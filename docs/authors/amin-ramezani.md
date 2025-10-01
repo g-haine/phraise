@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Amin Ramezani
 permalink: /authors/amin-ramezani
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Based Modeling of a Flexible Link"
 date: 2007-08-16 00:00:00 +0100
 permalink: port-based-modeling-of-a-flexible-link

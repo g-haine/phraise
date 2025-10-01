@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yangman Li
 permalink: /authors/yangman-li
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Huilue Jiang
 permalink: /authors/huilue-jiang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kaili Wang
 permalink: /authors/kaili-wang
 ---

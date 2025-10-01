@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control for Movable Multi-Load Inductively Coupled Power Transfer System Based on PCHD Model"
 date: 2020-05-27 00:00:00 +0100
 permalink: passivity-based-control-for-movable-multi-load-inductively-coupled-power-transfer-system-based-on-pchd-model

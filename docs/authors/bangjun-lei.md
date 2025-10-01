@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bangjun Lei
 permalink: /authors/bangjun-lei
 ---

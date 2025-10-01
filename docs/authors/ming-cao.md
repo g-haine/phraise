@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ming Cao
 permalink: /authors/ming-cao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Frederik Gielnik
 permalink: /authors/frederik-gielnik
 ---

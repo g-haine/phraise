@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A constructive approach for the parametrization of interconnection and damping assignment passivity based control"
 date: 2008-08-20 00:00:00 +0100
 permalink: a-constructive-approach-for-the-parametrization-of-interconnection-and-damping-assignment-passivity-based-control

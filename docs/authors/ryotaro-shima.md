@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ryotaro Shima
 permalink: /authors/ryotaro-shima
 ---

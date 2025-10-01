@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Multistage Adaptive Sampling Scheme for Passivity Characterization of Large-Scale Macromodels"
 date: 2021-02-03 00:00:00 +0100
 permalink: a-multistage-adaptive-sampling-scheme-for-passivity-characterization-of-large-scale-macromodels

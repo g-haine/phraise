@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yu Gu
 permalink: /authors/yu-gu
 ---

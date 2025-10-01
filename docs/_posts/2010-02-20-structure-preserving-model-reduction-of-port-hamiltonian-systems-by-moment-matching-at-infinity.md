@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity"
 date: 2010-02-20 00:00:00 +0100
 permalink: structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian flexible multibody dynamics"
 date: 2020-10-06 00:00:00 +0100
 permalink: port-hamiltonian-flexible-multibody-dynamics

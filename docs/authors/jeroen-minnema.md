@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jeroen Minnema
 permalink: /authors/jeroen-minnema
 ---

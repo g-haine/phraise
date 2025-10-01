@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoying Zhu
 permalink: /authors/xiaoying-zhu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mikhail S. Ananyevskiy
 permalink: /authors/mikhail-s-ananyevskiy
 ---

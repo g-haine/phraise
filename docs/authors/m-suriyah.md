@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Suriyah
 permalink: /authors/m-suriyah
 ---

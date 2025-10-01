@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zian Zhao
 permalink: /authors/zian-zhao
 ---

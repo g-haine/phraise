@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wang Yuzhen
 permalink: /authors/wang-yuzhen
 ---

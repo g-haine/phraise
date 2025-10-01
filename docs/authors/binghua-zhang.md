@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Binghua Zhang
 permalink: /authors/binghua-zhang
 ---

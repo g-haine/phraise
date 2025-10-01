@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy in Robotics"
 date: 2017-10-17 00:00:00 +0100
 permalink: energy-in-robotics

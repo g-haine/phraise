@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "AN SSO SOURCE LOCATION METHOD FOR POWER SYSTEMS WITH DFIGS BASED ON HAMILTONIAN SYSTEM THEORY"
 date: 2021-12-15 00:00:00 +0100
 permalink: an-sso-source-location-method-for-power-systems-with-dfigs-based-on-hamiltonian-system-theory

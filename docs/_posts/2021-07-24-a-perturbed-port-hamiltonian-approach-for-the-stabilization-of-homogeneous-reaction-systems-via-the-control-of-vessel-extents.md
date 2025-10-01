@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A perturbed Port-Hamiltonian approach for the stabilization of homogeneous reaction systems via the control of vessel extents"
 date: 2021-07-24 00:00:00 +0100
 permalink: a-perturbed-port-hamiltonian-approach-for-the-stabilization-of-homogeneous-reaction-systems-via-the-control-of-vessel-extents

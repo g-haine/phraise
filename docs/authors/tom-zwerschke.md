@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tom Zwerschke
 permalink: /authors/tom-zwerschke
 ---

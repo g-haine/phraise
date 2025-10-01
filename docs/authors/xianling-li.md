@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xianling Li
 permalink: /authors/xianling-li
 ---

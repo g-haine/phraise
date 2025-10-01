@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jingkai Niu
 permalink: /authors/jingkai-niu
 ---

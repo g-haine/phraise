@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Hamdouni
 permalink: /authors/a-hamdouni
 ---

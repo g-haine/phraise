@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Takumu Takagi
 permalink: /authors/takumu-takagi
 ---

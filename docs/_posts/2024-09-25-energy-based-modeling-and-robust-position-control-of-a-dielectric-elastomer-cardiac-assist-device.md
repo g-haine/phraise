@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based modeling and robust position control of a dielectric elastomer cardiac assist device"
 date: 2024-09-25 00:00:00 +0100
 permalink: energy-based-modeling-and-robust-position-control-of-a-dielectric-elastomer-cardiac-assist-device

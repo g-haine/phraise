@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dorothée Normand-Cyrot
 permalink: /authors/dorothee-normand-cyrot
 ---

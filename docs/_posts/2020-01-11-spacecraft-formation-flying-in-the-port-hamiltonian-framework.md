@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Spacecraft formation flying in the port-Hamiltonian framework"
 date: 2020-01-11 00:00:00 +0100
 permalink: spacecraft-formation-flying-in-the-port-hamiltonian-framework

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dominic Groß
 permalink: /authors/dominic-gross
 ---

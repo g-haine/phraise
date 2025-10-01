@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control Approach for Photovoltaic DC-DC Conversion and Output Voltage Regulation"
 date: 2024-11-04 00:00:00 +0100
 permalink: passivity-based-control-approach-for-photovoltaic-dc-dc-conversion-and-output-voltage-regulation

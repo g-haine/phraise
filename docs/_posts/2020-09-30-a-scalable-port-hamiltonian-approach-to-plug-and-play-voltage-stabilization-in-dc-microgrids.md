@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Scalable Port-Hamiltonian Approach to Plug-and-Play Voltage Stabilization in DC Microgrids"
 date: 2020-09-30 00:00:00 +0100
 permalink: a-scalable-port-hamiltonian-approach-to-plug-and-play-voltage-stabilization-in-dc-microgrids

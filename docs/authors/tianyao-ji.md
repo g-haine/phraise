@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tianyao Ji
 permalink: /authors/tianyao-ji
 ---

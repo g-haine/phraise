@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian model of two-dimensional shallow water equations in moving containers"
 date: 2020-06-26 00:00:00 +0100
 permalink: port-hamiltonian-model-of-two-dimensional-shallow-water-equations-in-moving-containers

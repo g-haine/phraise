@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection of port-Hamiltonian systems and composition of Dirac structures"
 date: 2006-12-05 00:00:00 +0100
 permalink: interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures

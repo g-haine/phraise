@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinxin Cheng
 permalink: /authors/xinxin-cheng
 ---

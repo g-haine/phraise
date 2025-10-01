@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Seppo Pohjolainen
 permalink: /authors/seppo-pohjolainen
 ---

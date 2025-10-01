@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stochastic stabilization based on kinetic-potential energy shaping for stochastic mechanical port-Hamiltonian systems"
 date: 2024-04-12 00:00:00 +0100
 permalink: stochastic-stabilization-based-on-kinetic-potential-energy-shaping-for-stochastic-mechanical-port-hamiltonian-systems

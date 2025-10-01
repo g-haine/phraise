@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Symplectic discretization of Port Controlled Hamiltonian systems"
 date: 2017-10-19 00:00:00 +0100
 permalink: symplectic-discretization-of-port-controlled-hamiltonian-systems

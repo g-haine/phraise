@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on Ratio Consensus of Flywheel Energy Storage System Based on Hamiltonian Theory"
 date: 2019-03-19 00:00:00 +0100
 permalink: research-on-ratio-consensus-of-flywheel-energy-storage-system-based-on-hamiltonian-theory

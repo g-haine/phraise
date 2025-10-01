@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "In-domain damping assignment of a Timoshenko-beam using state feedback boundary control"
 date: 2023-01-10 00:00:00 +0100
 permalink: in-domain-damping-assignment-of-a-timoshenko-beam-using-state-feedback-boundary-control

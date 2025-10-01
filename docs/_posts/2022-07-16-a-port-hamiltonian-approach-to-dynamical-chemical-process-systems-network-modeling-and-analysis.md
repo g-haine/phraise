@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port Hamiltonian approach to dynamical chemical process systems network modeling and analysis"
 date: 2022-07-16 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-dynamical-chemical-process-systems-network-modeling-and-analysis

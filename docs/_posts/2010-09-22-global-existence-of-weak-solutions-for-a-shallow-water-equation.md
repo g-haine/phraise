@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global existence of weak solutions for a shallow water equation"
 date: 2010-09-22 00:00:00 +0100
 permalink: global-existence-of-weak-solutions-for-a-shallow-water-equation

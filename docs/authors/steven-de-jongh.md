@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Steven de Jongh
 permalink: /authors/steven-de-jongh
 ---

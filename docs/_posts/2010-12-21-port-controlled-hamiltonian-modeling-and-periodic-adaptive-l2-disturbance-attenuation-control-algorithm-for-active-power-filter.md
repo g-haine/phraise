@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Controlled Hamiltonian modeling and periodic adaptive L2 disturbance attenuation control algorithm for Active Power Filter"
 date: 2010-12-21 00:00:00 +0100
 permalink: port-controlled-hamiltonian-modeling-and-periodic-adaptive-l2-disturbance-attenuation-control-algorithm-for-active-power-filter

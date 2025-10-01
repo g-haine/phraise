@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan José García-Ripoll
 permalink: /authors/juan-jose-garcia-ripoll
 ---

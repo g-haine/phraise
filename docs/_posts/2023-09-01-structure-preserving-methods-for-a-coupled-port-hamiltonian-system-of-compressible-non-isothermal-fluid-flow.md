@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure‐preserving methods for a coupled port‐Hamiltonian system of compressible non‐isothermal fluid flow"
 date: 2023-09-01 00:00:00 +0100
 permalink: structure-preserving-methods-for-a-coupled-port-hamiltonian-system-of-compressible-non-isothermal-fluid-flow

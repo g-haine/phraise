@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by James R. Phillips
 permalink: /authors/james-r-phillips
 ---

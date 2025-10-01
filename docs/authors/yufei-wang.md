@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yufei Wang
 permalink: /authors/yufei-wang
 ---

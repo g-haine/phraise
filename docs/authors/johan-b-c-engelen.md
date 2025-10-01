@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Johan B. C. Engelen
 permalink: /authors/johan-b-c-engelen
 ---

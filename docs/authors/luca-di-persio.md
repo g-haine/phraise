@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luca Di Persio
 permalink: /authors/luca-di-persio
 ---

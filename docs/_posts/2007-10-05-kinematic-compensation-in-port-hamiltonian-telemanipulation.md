@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kinematic Compensation in Port-Hamiltonian Telemanipulation"
 date: 2007-10-05 00:00:00 +0100
 permalink: kinematic-compensation-in-port-hamiltonian-telemanipulation

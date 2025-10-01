@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Battery Currents Limitation in Passivity Based Controlled Battery/Supercapacitor Hybrid Energy Storage System"
 date: 2018-10-30 00:00:00 +0100
 permalink: battery-currents-limitation-in-passivity-based-controlled-battery-supercapacitor-hybrid-energy-storage-system

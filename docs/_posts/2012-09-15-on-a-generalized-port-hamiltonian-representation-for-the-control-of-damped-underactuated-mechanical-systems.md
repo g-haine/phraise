@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On a generalized port-Hamiltonian representation for the control of damped underactuated mechanical systems"
 date: 2012-09-15 00:00:00 +0100
 permalink: on-a-generalized-port-hamiltonian-representation-for-the-control-of-damped-underactuated-mechanical-systems

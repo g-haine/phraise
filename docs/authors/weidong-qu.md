@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Weidong Qu
 permalink: /authors/weidong-qu
 ---

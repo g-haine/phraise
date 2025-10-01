@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Decentralized Secondary Frequency Control of Autonomous Microgrids via Adaptive Robust -Gain Performance"
 date: 2023-05-15 00:00:00 +0100
 permalink: decentralized-secondary-frequency-control-of-autonomous-microgrids-via-adaptive-robust-gain-performance-i-sub

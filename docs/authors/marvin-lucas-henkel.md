@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marvin-Lucas Henkel
 permalink: /authors/marvin-lucas-henkel
 ---

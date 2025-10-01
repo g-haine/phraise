@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juliette Chabassier
 permalink: /authors/juliette-chabassier
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gerardo Espinosa-Pérez
 permalink: /authors/gerardo-espinosa-perez
 ---

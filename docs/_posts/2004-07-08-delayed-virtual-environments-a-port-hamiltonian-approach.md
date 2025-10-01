@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Delayed virtual environments: a port-hamiltonian approach"
 date: 2004-07-08 00:00:00 +0100
 permalink: delayed-virtual-environments-a-port-hamiltonian-approach

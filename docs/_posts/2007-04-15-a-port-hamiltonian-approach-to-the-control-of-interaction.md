@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Port-Hamiltonian Approach to the Control of Interaction"
 date: 2007-04-15 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-the-control-of-interaction

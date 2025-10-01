@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eduardo Sebastián
 permalink: /authors/eduardo-sebastian
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Julien Gomand
 permalink: /authors/julien-gomand
 ---

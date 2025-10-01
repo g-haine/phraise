@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhonghua Chen
 permalink: /authors/zhonghua-chen
 ---

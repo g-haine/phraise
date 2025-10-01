@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Hamiltonian modelling and control of a micro-channel"
 date: 2020-01-03 00:00:00 +0100
 permalink: port-hamiltonian-modelling-and-control-of-a-micro-channel

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Timm Faulwasser
 permalink: /authors/timm-faulwasser
 ---

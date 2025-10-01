@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Incompressible Navier-Stokes Equation as port-Hamiltonian systems: velocity formulation versus vorticity formulation"
 date: 2021-11-19 00:00:00 +0100
 permalink: incompressible-navier-stokes-equation-as-port-hamiltonian-systems-velocity-formulation-versus-vorticity-formulation

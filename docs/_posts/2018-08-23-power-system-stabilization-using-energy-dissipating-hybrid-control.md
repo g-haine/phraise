@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power System Stabilization Using Energy-Dissipating Hybrid Control"
 date: 2018-08-23 00:00:00 +0100
 permalink: power-system-stabilization-using-energy-dissipating-hybrid-control

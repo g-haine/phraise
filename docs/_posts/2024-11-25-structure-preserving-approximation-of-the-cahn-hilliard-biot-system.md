@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure‐Preserving Approximation of the Cahn‐Hilliard‐Biot System"
 date: 2024-11-25 00:00:00 +0100
 permalink: structure-preserving-approximation-of-the-cahn-hilliard-biot-system

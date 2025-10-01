@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sven-Ake Wegner
 permalink: /authors/sven-ake-wegner
 ---

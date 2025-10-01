@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Enric Fossas
 permalink: /authors/enric-fossas
 ---

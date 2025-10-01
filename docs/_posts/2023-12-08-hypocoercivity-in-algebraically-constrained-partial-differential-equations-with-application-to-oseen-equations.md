@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hypocoercivity in Algebraically Constrained Partial Differential Equations with Application to Oseen Equations"
 date: 2023-12-08 00:00:00 +0100
 permalink: hypocoercivity-in-algebraically-constrained-partial-differential-equations-with-application-to-oseen-equations

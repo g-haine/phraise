@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Min Huang
 permalink: /authors/min-huang
 ---

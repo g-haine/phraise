@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hong Li
 permalink: /authors/hong-li
 ---

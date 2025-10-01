@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Simona Olmi
 permalink: /authors/simona-olmi
 ---

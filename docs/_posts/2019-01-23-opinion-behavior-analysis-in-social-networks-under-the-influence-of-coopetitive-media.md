@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Opinion Behavior Analysis in Social Networks Under the Influence of Coopetitive Media"
 date: 2019-01-23 00:00:00 +0100
 permalink: opinion-behavior-analysis-in-social-networks-under-the-influence-of-coopetitive-media

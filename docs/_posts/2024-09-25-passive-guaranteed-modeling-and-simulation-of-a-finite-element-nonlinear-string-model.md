@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passive-guaranteed modeling and simulation of a finite element nonlinear string model"
 date: 2024-09-25 00:00:00 +0100
 permalink: passive-guaranteed-modeling-and-simulation-of-a-finite-element-nonlinear-string-model

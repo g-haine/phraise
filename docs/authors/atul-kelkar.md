@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Atul Kelkar
 permalink: /authors/atul-kelkar
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive PI Stabilisation of Switched Power Converters Described by Port-Hamiltonian Models"
 date: 2012-03-27 00:00:00 +0100
 permalink: adaptive-pi-stabilisation-of-switched-power-converters-described-by-port-hamiltonian-models

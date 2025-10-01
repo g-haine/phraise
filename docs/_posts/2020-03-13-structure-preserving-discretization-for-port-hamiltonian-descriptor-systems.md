@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving discretization for port-Hamiltonian descriptor systems"
 date: 2020-03-13 00:00:00 +0100
 permalink: structure-preserving-discretization-for-port-hamiltonian-descriptor-systems

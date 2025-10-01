@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bikash C. Pal
 permalink: /authors/bikash-c-pal
 ---

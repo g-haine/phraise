@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Robust IDA-PBC Approach for Handling Uncertainties in Underactuated Mechanical Systems"
 date: 2018-01-23 00:00:00 +0100
 permalink: a-robust-ida-pbc-approach-for-handling-uncertainties-in-underactuated-mechanical-systems

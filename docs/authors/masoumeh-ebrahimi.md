@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Masoumeh Ebrahimi
 permalink: /authors/masoumeh-ebrahimi
 ---

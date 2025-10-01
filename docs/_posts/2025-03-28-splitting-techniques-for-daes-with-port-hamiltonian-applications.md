@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Splitting techniques for DAEs with port-Hamiltonian applications"
 date: 2025-03-28 00:00:00 +0100
 permalink: splitting-techniques-for-daes-with-port-hamiltonian-applications

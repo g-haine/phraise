@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Simona Aracri
 permalink: /authors/simona-aracri
 ---

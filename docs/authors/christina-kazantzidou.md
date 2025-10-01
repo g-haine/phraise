@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christina Kazantzidou
 permalink: /authors/christina-kazantzidou
 ---

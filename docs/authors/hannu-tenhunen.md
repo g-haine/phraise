@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hannu Tenhunen
 permalink: /authors/hannu-tenhunen
 ---

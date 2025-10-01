@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hitoshi Gotoh
 permalink: /authors/hitoshi-gotoh
 ---

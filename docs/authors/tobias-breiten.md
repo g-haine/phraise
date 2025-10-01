@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tobias Breiten
 permalink: /authors/tobias-breiten
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Romanus Dyczij-Edlinger
 permalink: /authors/romanus-dyczij-edlinger
 ---

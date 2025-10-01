@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian Modelling and Controller Design Approach for Cascode Buck-Boost Converter"
 date: 2023-06-20 00:00:00 +0100
 permalink: a-port-hamiltonian-modelling-and-controller-design-approach-for-cascode-buck-boost-converter

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Matrix Pencils with Coefficients that have Positive Semidefinite Hermitian Parts"
 date: 2022-07-14 00:00:00 +0100
 permalink: matrix-pencils-with-coefficients-that-have-positive-semidefinite-hermitian-parts

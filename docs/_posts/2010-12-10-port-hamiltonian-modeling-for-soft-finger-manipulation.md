@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-hamiltonian modeling for soft-finger manipulation"
 date: 2010-12-10 00:00:00 +0100
 permalink: port-hamiltonian-modeling-for-soft-finger-manipulation

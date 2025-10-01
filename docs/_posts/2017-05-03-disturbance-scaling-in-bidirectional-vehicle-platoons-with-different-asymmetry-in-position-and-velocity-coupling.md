@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Disturbance scaling in bidirectional vehicle platoons with different asymmetry in position and velocity coupling"
 date: 2017-05-03 00:00:00 +0100
 permalink: disturbance-scaling-in-bidirectional-vehicle-platoons-with-different-asymmetry-in-position-and-velocity-coupling

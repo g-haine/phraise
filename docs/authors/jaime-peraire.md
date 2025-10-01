@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jaime Peraire
 permalink: /authors/jaime-peraire
 ---

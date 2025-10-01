@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Weijun Zhou
 permalink: /authors/weijun-zhou
 ---

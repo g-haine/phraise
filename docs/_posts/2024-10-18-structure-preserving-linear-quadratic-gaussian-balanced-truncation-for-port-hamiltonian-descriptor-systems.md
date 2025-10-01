@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving linear quadratic Gaussian balanced truncation for port-Hamiltonian descriptor systems"
 date: 2024-10-18 00:00:00 +0100
 permalink: structure-preserving-linear-quadratic-gaussian-balanced-truncation-for-port-hamiltonian-descriptor-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Damien Eberard
 permalink: /authors/damien-eberard
 ---

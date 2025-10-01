@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xu Guizhi
 permalink: /authors/xu-guizhi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reduced-order energy shaping control of large-scale linear port-Hamiltonian systems"
 date: 2024-09-25 00:00:00 +0100
 permalink: reduced-order-energy-shaping-control-of-large-scale-linear-port-hamiltonian-systems

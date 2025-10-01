@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Delgado L. Sergio
 permalink: /authors/delgado-l-sergio
 ---

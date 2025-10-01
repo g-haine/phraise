@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kirtan Bhatt
 permalink: /authors/kirtan-bhatt
 ---

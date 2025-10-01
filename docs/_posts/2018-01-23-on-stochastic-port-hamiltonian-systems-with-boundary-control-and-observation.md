@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On stochastic port-hamiltonian systems with boundary control and observation"
 date: 2018-01-23 00:00:00 +0100
 permalink: on-stochastic-port-hamiltonian-systems-with-boundary-control-and-observation

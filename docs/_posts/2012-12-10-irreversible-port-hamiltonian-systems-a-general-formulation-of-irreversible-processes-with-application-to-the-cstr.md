@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR"
 date: 2012-12-10 00:00:00 +0100
 permalink: irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr

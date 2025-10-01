@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jacky Tang
 permalink: /authors/jacky-tang
 ---

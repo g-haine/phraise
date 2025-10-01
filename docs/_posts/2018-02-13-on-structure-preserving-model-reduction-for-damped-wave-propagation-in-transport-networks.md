@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Structure-Preserving Model Reduction for Damped Wave Propagation in Transport Networks"
 date: 2018-02-13 00:00:00 +0100
 permalink: on-structure-preserving-model-reduction-for-damped-wave-propagation-in-transport-networks

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Babak Abdolmaleki
 permalink: /authors/babak-abdolmaleki
 ---

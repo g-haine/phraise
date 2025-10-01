@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection of the Kirchhoff plate within the port-Hamiltonian framework"
 date: 2020-03-13 00:00:00 +0100
 permalink: interconnection-of-the-kirchhoff-plate-within-the-port-hamiltonian-framework

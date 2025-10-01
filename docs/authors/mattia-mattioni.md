@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mattia Mattioni
 permalink: /authors/mattia-mattioni
 ---

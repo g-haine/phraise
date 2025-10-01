@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Masami Saeki
 permalink: /authors/masami-saeki
 ---

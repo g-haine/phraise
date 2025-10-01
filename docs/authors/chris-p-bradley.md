@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chris P. Bradley
 permalink: /authors/chris-p-bradley
 ---

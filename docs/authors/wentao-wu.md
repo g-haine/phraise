@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wentao Wu
 permalink: /authors/wentao-wu
 ---

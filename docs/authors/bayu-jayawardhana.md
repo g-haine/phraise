@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bayu Jayawardhana
 permalink: /authors/bayu-jayawardhana
 ---

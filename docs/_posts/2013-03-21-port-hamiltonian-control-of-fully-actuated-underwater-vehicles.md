@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian control of fully actuated underwater vehicles"
 date: 2013-03-21 00:00:00 +0100
 permalink: port-hamiltonian-control-of-fully-actuated-underwater-vehicles

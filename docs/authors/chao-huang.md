@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chao Huang
 permalink: /authors/chao-huang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the relation between cosymplectic and symplectic structures"
 date: 2022-05-06 00:00:00 +0100
 permalink: on-the-relation-between-cosymplectic-and-symplectic-structures

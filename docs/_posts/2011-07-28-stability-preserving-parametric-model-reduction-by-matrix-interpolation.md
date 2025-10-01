@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability-preserving parametric model reduction by matrix interpolation"
 date: 2011-07-28 00:00:00 +0100
 permalink: stability-preserving-parametric-model-reduction-by-matrix-interpolation

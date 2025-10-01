@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yaprak Yalçın
 permalink: /authors/yaprak-yalcin
 ---

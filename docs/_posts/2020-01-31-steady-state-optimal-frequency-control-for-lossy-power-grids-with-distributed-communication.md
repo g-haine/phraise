@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Steady-State Optimal Frequency Control for Lossy Power Grids with Distributed Communication"
 date: 2020-01-31 00:00:00 +0100
 permalink: steady-state-optimal-frequency-control-for-lossy-power-grids-with-distributed-communication

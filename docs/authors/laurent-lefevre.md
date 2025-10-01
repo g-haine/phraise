@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Laurent Lefèvre
 permalink: /authors/laurent-lefevre
 ---

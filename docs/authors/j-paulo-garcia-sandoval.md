@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by J. Paulo García-Sandoval
 permalink: /authors/j-paulo-garcia-sandoval
 ---

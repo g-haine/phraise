@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jørgen K. Johnsen
 permalink: /authors/jorgen-k-johnsen
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of port-Hamiltonian systems with minimal energy supply"
 date: 2021-07-10 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems-with-minimal-energy-supply

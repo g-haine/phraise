@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daniel Sting Martinez-Padron
 permalink: /authors/daniel-sting-martinez-padron
 ---

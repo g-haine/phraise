@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity based stabilization of linear mechanical systems with dissipation in unactuated degrees of freedom"
 date: 2012-12-03 00:00:00 +0100
 permalink: passivity-based-stabilization-of-linear-mechanical-systems-with-dissipation-in-unactuated-degrees-of-freedom

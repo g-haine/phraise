@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wissam Dib
 permalink: /authors/wissam-dib
 ---

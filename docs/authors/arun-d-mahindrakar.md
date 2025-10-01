@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Arun D. Mahindrakar
 permalink: /authors/arun-d-mahindrakar
 ---

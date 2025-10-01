@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structural identifiability of linear Port Hamiltonian systems"
 date: 2021-04-13 00:00:00 +0100
 permalink: structural-identifiability-of-linear-port-hamiltonian-systems

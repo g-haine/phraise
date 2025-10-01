@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alex S. Huaman
 permalink: /authors/alex-s-huaman
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity based control of hydraulic robot arms using natural Casimir functions: Theory and experiments"
 date: 2008-10-15 00:00:00 +0100
 permalink: passivity-based-control-of-hydraulic-robot-arms-using-natural-casimir-functions-theory-and-experiments

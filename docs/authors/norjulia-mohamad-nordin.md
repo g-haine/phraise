@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Norjulia Mohamad Nordin
 permalink: /authors/norjulia-mohamad-nordin
 ---

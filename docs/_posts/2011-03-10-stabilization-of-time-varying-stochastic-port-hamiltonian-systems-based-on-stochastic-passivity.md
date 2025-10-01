@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Time-varying Stochastic Port-Hamiltonian Systems Based on Stochastic Passivity"
 date: 2011-03-10 00:00:00 +0100
 permalink: stabilization-of-time-varying-stochastic-port-hamiltonian-systems-based-on-stochastic-passivity

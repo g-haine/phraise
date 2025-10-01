@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Controllability and Observability of Bilinear Port-Controlled Hamiltonian Systems"
 date: 2010-08-02 00:00:00 +0100
 permalink: controllability-and-observability-of-bilinear-port-controlled-hamiltonian-systems

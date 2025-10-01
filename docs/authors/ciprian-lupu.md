@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ciprian Lupu
 permalink: /authors/ciprian-lupu
 ---

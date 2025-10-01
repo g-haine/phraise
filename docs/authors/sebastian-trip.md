@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sebastian Trip◊
 permalink: /authors/sebastian-trip
 ---

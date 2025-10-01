@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jing Qian
 permalink: /authors/jing-qian
 ---

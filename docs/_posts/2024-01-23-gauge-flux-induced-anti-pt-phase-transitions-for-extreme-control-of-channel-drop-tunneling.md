@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Gauge‐Flux‐Induced Anti‐Pt Phase Transitions for Extreme Control of Channel‐Drop Tunneling"
 date: 2024-01-23 00:00:00 +0100
 permalink: gauge-flux-induced-anti-pt-phase-transitions-for-extreme-control-of-channel-drop-tunneling

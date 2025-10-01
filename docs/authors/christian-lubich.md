@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christian Lubich
 permalink: /authors/christian-lubich
 ---

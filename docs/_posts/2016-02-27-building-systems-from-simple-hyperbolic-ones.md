@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Building systems from simple hyperbolic ones"
 date: 2016-02-27 00:00:00 +0100
 permalink: building-systems-from-simple-hyperbolic-ones

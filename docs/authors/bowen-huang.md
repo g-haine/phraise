@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bowen Huang
 permalink: /authors/bowen-huang
 ---

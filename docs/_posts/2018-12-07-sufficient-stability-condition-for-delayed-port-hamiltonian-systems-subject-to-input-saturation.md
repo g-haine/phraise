@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sufficient stability condition for delayed port-Hamiltonian systems subject to input saturation"
 date: 2018-12-07 00:00:00 +0100
 permalink: sufficient-stability-condition-for-delayed-port-hamiltonian-systems-subject-to-input-saturation

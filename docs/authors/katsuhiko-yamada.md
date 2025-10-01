@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Katsuhiko YAMADA
 permalink: /authors/katsuhiko-yamada
 ---

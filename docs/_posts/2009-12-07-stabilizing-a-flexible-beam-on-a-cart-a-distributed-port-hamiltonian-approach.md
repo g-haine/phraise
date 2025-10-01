@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilizing a Flexible Beam on a Cart: A Distributed Port-Hamiltonian Approach"
 date: 2009-12-07 00:00:00 +0100
 permalink: stabilizing-a-flexible-beam-on-a-cart-a-distributed-port-hamiltonian-approach

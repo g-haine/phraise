@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yiwei Wang
 permalink: /authors/yiwei-wang
 ---

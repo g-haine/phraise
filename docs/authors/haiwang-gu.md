@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haiwang Gu
 permalink: /authors/haiwang-gu
 ---

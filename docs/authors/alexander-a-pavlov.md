@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexander A. Pavlov
 permalink: /authors/alexander-a-pavlov
 ---

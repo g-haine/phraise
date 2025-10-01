@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xikun Fu
 permalink: /authors/xikun-fu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic extension is unnecessary for stabilization via interconnection and damping assignment passivity-based control"
 date: 2008-11-12 00:00:00 +0100
 permalink: dynamic-extension-is-unnecessary-for-stabilization-via-interconnection-and-damping-assignment-passivity-based-control

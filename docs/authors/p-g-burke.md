@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by P G Burke
 permalink: /authors/p-g-burke
 ---

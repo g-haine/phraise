@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pedro J. Zufiria
 permalink: /authors/pedro-j-zufiria
 ---

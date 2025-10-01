@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Position Drift Compensation in Port-Hamiltonian Based Telemanipulation"
 date: 2007-01-19 00:00:00 +0100
 permalink: position-drift-compensation-in-port-hamiltonian-based-telemanipulation

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Madjid Kidouche
 permalink: /authors/madjid-kidouche
 ---

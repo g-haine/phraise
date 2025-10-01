@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Seungtaek Hwang
 permalink: /authors/seungtaek-hwang
 ---

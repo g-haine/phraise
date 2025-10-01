@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Jet space extensions of infinite-dimensional Hamiltonian systems"
 date: 2024-09-25 00:00:00 +0100
 permalink: jet-space-extensions-of-infinite-dimensional-hamiltonian-systems

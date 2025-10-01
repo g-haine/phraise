@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Anti-Saturation Coordination Control of Permanent Magnet Synchronous Wind Power System"
 date: 2023-03-31 00:00:00 +0100
 permalink: anti-saturation-coordination-control-of-permanent-magnet-synchronous-wind-power-system

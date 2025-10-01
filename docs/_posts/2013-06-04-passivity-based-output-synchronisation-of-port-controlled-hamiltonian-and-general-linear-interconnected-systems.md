@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity‐based output synchronisation of port‐controlled Hamiltonian and general linear interconnected systems"
 date: 2013-06-04 00:00:00 +0100
 permalink: passivity-based-output-synchronisation-of-port-controlled-hamiltonian-and-general-linear-interconnected-systems

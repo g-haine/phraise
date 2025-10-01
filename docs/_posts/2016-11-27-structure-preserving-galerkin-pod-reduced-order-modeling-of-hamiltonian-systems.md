@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving Galerkin POD reduced-order modeling of Hamiltonian systems"
 date: 2016-11-27 00:00:00 +0100
 permalink: structure-preserving-galerkin-pod-reduced-order-modeling-of-hamiltonian-systems

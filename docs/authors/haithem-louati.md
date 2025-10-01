@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haithem Louati
 permalink: /authors/haithem-louati
 ---

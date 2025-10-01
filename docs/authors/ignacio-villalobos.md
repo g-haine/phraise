@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ignacio Villalobos
 permalink: /authors/ignacio-villalobos
 ---

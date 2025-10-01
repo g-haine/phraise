@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan Ignacio Mulero-Martínez
 permalink: /authors/juan-ignacio-mulero-martinez
 ---

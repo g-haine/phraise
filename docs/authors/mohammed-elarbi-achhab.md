@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohammed Elarbi Achhab
 permalink: /authors/mohammed-elarbi-achhab
 ---

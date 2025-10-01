@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Improved low-voltage ride through capability for PMSG wind turbine based on port-controlled hamiltonian system"
 date: 2016-07-27 00:00:00 +0100
 permalink: improved-low-voltage-ride-through-capability-for-pmsg-wind-turbine-based-on-port-controlled-hamiltonian-system

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yajing Zhang
 permalink: /authors/yajing-zhang
 ---

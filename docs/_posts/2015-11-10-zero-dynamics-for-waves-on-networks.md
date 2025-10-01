@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Zero dynamics for waves on networks"
 date: 2015-11-10 00:00:00 +0100
 permalink: zero-dynamics-for-waves-on-networks

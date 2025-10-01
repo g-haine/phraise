@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Sliding Mode Control for the Robust Trajectory Tracking of Unmanned Surface Vessels Under External Disturbances and Model Uncertainty"
 date: 2025-02-17 00:00:00 +0100
 permalink: passivity-based-sliding-mode-control-for-the-robust-trajectory-tracking-of-unmanned-surface-vessels-under-external-disturbances-and-model-uncertainty

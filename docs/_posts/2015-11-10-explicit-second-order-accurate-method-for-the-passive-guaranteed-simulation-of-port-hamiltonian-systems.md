@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Explicit second-order accurate method for the passive guaranteed simulation of port-Hamiltonian systems"
 date: 2015-11-10 00:00:00 +0100
 permalink: explicit-second-order-accurate-method-for-the-passive-guaranteed-simulation-of-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust Output Regulation of a Flexible Satellite"
 date: 2021-04-15 00:00:00 +0100
 permalink: robust-output-regulation-of-a-flexible-satellite

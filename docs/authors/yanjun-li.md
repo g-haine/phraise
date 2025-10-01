@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yanjun Li
 permalink: /authors/yanjun-li
 ---

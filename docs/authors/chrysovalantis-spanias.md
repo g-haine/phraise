@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chrysovalantis Spanias
 permalink: /authors/chrysovalantis-spanias
 ---

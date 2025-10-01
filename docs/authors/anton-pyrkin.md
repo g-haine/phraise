@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anton Pyrkin
 permalink: /authors/anton-pyrkin
 ---

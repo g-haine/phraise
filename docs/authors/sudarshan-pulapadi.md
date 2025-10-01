@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sudarshan Pulapadi
 permalink: /authors/sudarshan-pulapadi
 ---

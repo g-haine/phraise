@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ignacio Fernandez Núnez
 permalink: /authors/ignacio-fernandez-nunez
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dirac structures in nonequilibrium thermodynamics"
 date: 2018-06-18 00:00:00 +0100
 permalink: dirac-structures-in-nonequilibrium-thermodynamics

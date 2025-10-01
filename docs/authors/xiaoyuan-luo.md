@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaoyuan Luo
 permalink: /authors/xiaoyuan-luo
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust integral action of port-Hamiltonian systems"
 date: 2018-06-18 00:00:00 +0100
 permalink: robust-integral-action-of-port-hamiltonian-systems

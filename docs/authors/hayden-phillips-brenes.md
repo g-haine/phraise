@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hayden Phillips-Brenes
 permalink: /authors/hayden-phillips-brenes
 ---

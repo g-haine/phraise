@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gourav Saha
 permalink: /authors/gourav-saha
 ---

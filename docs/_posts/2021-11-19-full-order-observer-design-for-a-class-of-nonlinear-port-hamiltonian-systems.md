@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Full-Order Observer Design for a Class of Nonlinear Port-Hamiltonian Systems"
 date: 2021-11-19 00:00:00 +0100
 permalink: full-order-observer-design-for-a-class-of-nonlinear-port-hamiltonian-systems

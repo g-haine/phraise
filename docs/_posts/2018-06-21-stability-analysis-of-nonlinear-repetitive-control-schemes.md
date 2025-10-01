@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stability Analysis of Nonlinear Repetitive Control Schemes"
 date: 2018-06-21 00:00:00 +0100
 permalink: stability-analysis-of-nonlinear-repetitive-control-schemes

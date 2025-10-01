@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robustness of distributed averaging control in power systems: Time delays &amp; dynamic communication topology"
 date: 2017-03-28 00:00:00 +0100
 permalink: robustness-of-distributed-averaging-control-in-power-systems-time-delays-amp-dynamic-communication-topology

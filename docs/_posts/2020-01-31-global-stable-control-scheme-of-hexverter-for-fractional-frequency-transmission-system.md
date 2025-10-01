@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global Stable Control Scheme of Hexverter for Fractional Frequency Transmission System"
 date: 2020-01-31 00:00:00 +0100
 permalink: global-stable-control-scheme-of-hexverter-for-fractional-frequency-transmission-system

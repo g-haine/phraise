@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haijun Peng
 permalink: /authors/haijun-peng
 ---

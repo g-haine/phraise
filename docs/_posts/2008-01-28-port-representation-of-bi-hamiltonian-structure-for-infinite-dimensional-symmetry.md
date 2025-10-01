@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-representation of bi-Hamiltonian structure for infinite-dimensional symmetry"
 date: 2008-01-28 00:00:00 +0100
 permalink: port-representation-of-bi-hamiltonian-structure-for-infinite-dimensional-symmetry

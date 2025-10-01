@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Modeling of a Three-Level Flying Capacitor Buck DC-DC Converter based on Bond Graph and Port Hamiltonian System Approaches"
 date: 2024-11-29 00:00:00 +0100
 permalink: on-the-modeling-of-a-three-level-flying-capacitor-buck-dc-dc-converter-based-on-bond-graph-and-port-hamiltonian-system-approaches

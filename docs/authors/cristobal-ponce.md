@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cristobal Ponce
 permalink: /authors/cristobal-ponce
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yves Perriard
 permalink: /authors/yves-perriard
 ---

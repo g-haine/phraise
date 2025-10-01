@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Symmetries and Conservation Laws for Implicit Port-Controlled Hamiltonian Systems"
 date: 2017-05-24 00:00:00 +0100
 permalink: symmetries-and-conservation-laws-for-implicit-port-controlled-hamiltonian-systems

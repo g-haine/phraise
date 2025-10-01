@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qianqian Xia
 permalink: /authors/qianqian-xia
 ---

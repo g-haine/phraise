@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear Balanced Realization and Model Order Reduction of Electro-mechanical Systems"
 date: 2011-12-16 00:00:00 +0100
 permalink: nonlinear-balanced-realization-and-model-order-reduction-of-electro-mechanical-systems

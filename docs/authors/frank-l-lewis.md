@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Frank L. Lewis
 permalink: /authors/frank-l-lewis
 ---

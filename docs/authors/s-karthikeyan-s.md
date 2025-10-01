@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Karthikeyan
 permalink: /authors/s-karthikeyan-s
 ---

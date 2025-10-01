@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Simulation of the Ondes Martenot Ribbon-Controlled Oscillator Using Energy-Balanced Modeling of Nonlinear Time-Varying Electronic Components"
 date: 2020-01-03 00:00:00 +0100
 permalink: simulation-of-the-ondes-martenot-ribbon-controlled-oscillator-using-energy-balanced-modeling-of-nonlinear-time-varying-electronic-components

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kirsten Morris
 permalink: /authors/kirsten-morris
 ---

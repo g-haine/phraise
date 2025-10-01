@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian framework in power systems domain: A survey"
 date: 2023-09-28 00:00:00 +0100
 permalink: port-hamiltonian-framework-in-power-systems-domain-a-survey

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design of a Port-Hamiltonian Control for an Alt-Azimuth Liquid–Mirror Telescope"
 date: 2023-08-08 00:00:00 +0100
 permalink: design-of-a-port-hamiltonian-control-for-an-alt-azimuth-liquid-mirror-telescope

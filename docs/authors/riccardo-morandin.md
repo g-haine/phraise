@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Riccardo Morandin
 permalink: /authors/riccardo-morandin
 ---

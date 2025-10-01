@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties"
 date: 2017-06-21 00:00:00 +0100
 permalink: port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties

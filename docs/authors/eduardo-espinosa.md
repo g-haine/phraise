@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eduardo Espinosa
 permalink: /authors/eduardo-espinosa
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exponential stability of port-Hamiltonian systems via energy-shaped method"
 date: 2017-02-09 00:00:00 +0100
 permalink: exponential-stability-of-port-hamiltonian-systems-via-energy-shaped-method

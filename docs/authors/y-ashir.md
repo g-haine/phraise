@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Y. Ashir
 permalink: /authors/y-ashir
 ---

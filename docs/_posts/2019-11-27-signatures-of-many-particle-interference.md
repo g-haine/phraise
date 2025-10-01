@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Signatures of many-particle interference"
 date: 2019-11-27 00:00:00 +0100
 permalink: signatures-of-many-particle-interference

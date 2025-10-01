@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antoine Tordeux
 permalink: /authors/antoine-tordeux
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guangyuan Zhang
 permalink: /authors/guangyuan-zhang
 ---

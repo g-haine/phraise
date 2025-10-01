@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Elena Panteley
 permalink: /authors/elena-panteley
 ---

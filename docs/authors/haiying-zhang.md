@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haiying Zhang
 permalink: /authors/haiying-zhang
 ---

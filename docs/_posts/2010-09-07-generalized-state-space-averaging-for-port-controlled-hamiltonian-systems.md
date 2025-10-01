@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "GENERALIZED STATE SPACE AVERAGING FOR PORT CONTROLLED HAMILTONIAN SYSTEMS"
 date: 2010-09-07 00:00:00 +0100
 permalink: generalized-state-space-averaging-for-port-controlled-hamiltonian-systems

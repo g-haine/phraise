@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dual field structure-preserving discretization of port-Hamiltonian systems using finite element exterior calculus"
 date: 2022-09-16 00:00:00 +0100
 permalink: dual-field-structure-preserving-discretization-of-port-hamiltonian-systems-using-finite-element-exterior-calculus

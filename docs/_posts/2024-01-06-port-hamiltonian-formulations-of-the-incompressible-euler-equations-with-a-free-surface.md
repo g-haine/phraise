@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulations of the incompressible Euler equations with a free surface"
 date: 2024-01-06 00:00:00 +0100
 permalink: port-hamiltonian-formulations-of-the-incompressible-euler-equations-with-a-free-surface

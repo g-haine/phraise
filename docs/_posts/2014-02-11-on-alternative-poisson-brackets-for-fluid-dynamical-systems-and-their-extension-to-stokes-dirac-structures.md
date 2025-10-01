@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On alternative Poisson brackets for fluid dynamical systems and their extension to Stokes-Dirac structures"
 date: 2014-02-11 00:00:00 +0100
 permalink: on-alternative-poisson-brackets-for-fluid-dynamical-systems-and-their-extension-to-stokes-dirac-structures

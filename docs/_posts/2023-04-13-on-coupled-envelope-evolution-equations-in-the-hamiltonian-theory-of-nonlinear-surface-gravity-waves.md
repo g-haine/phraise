@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On coupled envelope evolution equations in the Hamiltonian theory of nonlinear surface gravity waves"
 date: 2023-04-13 00:00:00 +0100
 permalink: on-coupled-envelope-evolution-equations-in-the-hamiltonian-theory-of-nonlinear-surface-gravity-waves

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fernando Tiefensee
 permalink: /authors/fernando-tiefensee
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Herbert Egger
 permalink: /authors/herbert-egger
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tadjeddine Ali Abderrazak
 permalink: /authors/tadjeddine-ali-abderrazak
 ---

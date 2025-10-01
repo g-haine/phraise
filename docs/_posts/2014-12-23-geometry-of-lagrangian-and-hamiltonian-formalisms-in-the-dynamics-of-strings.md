@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Geometry of Lagrangian and Hamiltonian formalisms in the dynamics of strings"
 date: 2014-12-23 00:00:00 +0100
 permalink: geometry-of-lagrangian-and-hamiltonian-formalisms-in-the-dynamics-of-strings

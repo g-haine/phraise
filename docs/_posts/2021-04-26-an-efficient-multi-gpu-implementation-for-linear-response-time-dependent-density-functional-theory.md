@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Efficient Multi-GPU Implementation for Linear-Response Time-Dependent Density Functional Theory"
 date: 2021-04-26 00:00:00 +0100
 permalink: an-efficient-multi-gpu-implementation-for-linear-response-time-dependent-density-functional-theory

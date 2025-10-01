@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the extraction of the boundary conditions and the boundary ports in second-order field theories"
 date: 2018-09-26 00:00:00 +0100
 permalink: on-the-extraction-of-the-boundary-conditions-and-the-boundary-ports-in-second-order-field-theories

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research of power management for fuel cell/supercapacitors hybrid system based on passivity-based control"
 date: 2017-11-02 00:00:00 +0100
 permalink: research-of-power-management-for-fuel-cell-supercapacitors-hybrid-system-based-on-passivity-based-control

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Toshihiro Iwai
 permalink: /authors/toshihiro-iwai
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Onno Bokhove
 permalink: /authors/onno-bokhove
 ---

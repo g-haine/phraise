@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of the wave equation in port-Hamiltonian modelling"
 date: 2022-07-15 00:00:00 +0100
 permalink: stabilization-of-the-wave-equation-in-port-hamiltonian-modelling

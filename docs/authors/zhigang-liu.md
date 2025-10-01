@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhigang Liu
 permalink: /authors/zhigang-liu
 ---

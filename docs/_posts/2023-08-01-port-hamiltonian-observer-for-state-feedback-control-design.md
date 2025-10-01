@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian observer for state-feedback control design"
 date: 2023-08-01 00:00:00 +0100
 permalink: port-hamiltonian-observer-for-state-feedback-control-design

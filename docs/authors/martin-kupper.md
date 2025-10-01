@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martin Kupper
 permalink: /authors/martin-kupper
 ---

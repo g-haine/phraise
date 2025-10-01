@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Switching-based mapping and control for haptic teleoperation of aerial robots"
 date: 2013-01-03 00:00:00 +0100
 permalink: switching-based-mapping-and-control-for-haptic-teleoperation-of-aerial-robots

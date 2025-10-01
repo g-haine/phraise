@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "About Dissipative and Pseudo Port-Hamiltonian Formulations of Irreversible Newtonian Compressible Flows"
 date: 2021-04-15 00:00:00 +0100
 permalink: about-dissipative-and-pseudo-port-hamiltonian-formulations-of-irreversible-newtonian-compressible-flows

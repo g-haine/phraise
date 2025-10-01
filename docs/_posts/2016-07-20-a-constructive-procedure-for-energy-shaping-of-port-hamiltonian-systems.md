@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A constructive procedure for energy shaping of port—Hamiltonian systems"
 date: 2016-07-20 00:00:00 +0100
 permalink: a-constructive-procedure-for-energy-shaping-of-port-hamiltonian-systems

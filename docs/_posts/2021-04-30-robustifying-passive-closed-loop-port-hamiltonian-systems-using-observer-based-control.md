@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robustifying passive closed-loop Port-Hamiltonian systems using Observer Based Control"
 date: 2021-04-30 00:00:00 +0100
 permalink: robustifying-passive-closed-loop-port-hamiltonian-systems-using-observer-based-control

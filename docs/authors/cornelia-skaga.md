@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cornelia Skaga
 permalink: /authors/cornelia-skaga
 ---

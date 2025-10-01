@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Energy-Based Control for Buck Converter With a Class of Nonlinear Loads"
 date: 2022-05-19 00:00:00 +0100
 permalink: adaptive-energy-based-control-for-buck-converter-with-a-class-of-nonlinear-loads

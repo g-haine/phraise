@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving discretization of multidimensional linear port-Hamiltonian systems using FEM approaches"
 date: 2025-02-26 00:00:00 +0100
 permalink: structure-preserving-discretization-of-multidimensional-linear-port-hamiltonian-systems-using-fem-approaches

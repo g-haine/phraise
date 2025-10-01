@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jie Zhang
 permalink: /authors/jie-zhang
 ---

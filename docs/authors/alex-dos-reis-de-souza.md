@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alex Dos Reis De Souza
 permalink: /authors/alex-dos-reis-de-souza
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xinxuan Hu
 permalink: /authors/xinxuan-hu
 ---

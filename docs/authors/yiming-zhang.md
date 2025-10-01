@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yiming Zhang
 permalink: /authors/yiming-zhang
 ---

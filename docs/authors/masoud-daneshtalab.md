@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Masoud Daneshtalab
 permalink: /authors/masoud-daneshtalab
 ---

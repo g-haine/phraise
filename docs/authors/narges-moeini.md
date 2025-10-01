@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Narges Moeini
 permalink: /authors/narges-moeini
 ---

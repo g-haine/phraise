@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Multistable Energy Shaping of Passive Linear Systems with Hybrid Mode Selector"
 date: 2021-04-15 00:00:00 +0100
 permalink: multistable-energy-shaping-of-passive-linear-systems-with-hybrid-mode-selector

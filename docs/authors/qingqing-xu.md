@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qingqing Xu
 permalink: /authors/qingqing-xu
 ---

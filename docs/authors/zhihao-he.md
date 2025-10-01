@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhihao He
 permalink: /authors/zhihao-he
 ---

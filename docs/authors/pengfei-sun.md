@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pengfei Sun
 permalink: /authors/pengfei-sun
 ---

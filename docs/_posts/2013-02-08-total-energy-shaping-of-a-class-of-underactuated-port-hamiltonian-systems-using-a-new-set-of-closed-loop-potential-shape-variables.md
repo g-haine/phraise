@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Total energy shaping of a class of underactuated Port-Hamiltonian Systems using a new set of closed-loop potential shape variables"
 date: 2013-02-08 00:00:00 +0100
 permalink: total-energy-shaping-of-a-class-of-underactuated-port-hamiltonian-systems-using-a-new-set-of-closed-loop-potential-shape-variables

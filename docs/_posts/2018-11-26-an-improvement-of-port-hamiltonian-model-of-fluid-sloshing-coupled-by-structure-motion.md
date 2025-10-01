@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Improvement of Port-Hamiltonian Model of Fluid Sloshing Coupled by Structure Motion"
 date: 2018-11-26 00:00:00 +0100
 permalink: an-improvement-of-port-hamiltonian-model-of-fluid-sloshing-coupled-by-structure-motion

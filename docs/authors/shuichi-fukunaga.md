@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shuichi FUKUNAGA
 permalink: /authors/shuichi-fukunaga
 ---

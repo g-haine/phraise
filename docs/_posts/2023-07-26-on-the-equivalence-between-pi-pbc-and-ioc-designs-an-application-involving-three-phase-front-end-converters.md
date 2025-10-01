@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Equivalence Between PI-PBC and IOC Designs: An Application Involving Three-Phase Front-End Converters"
 date: 2023-07-26 00:00:00 +0100
 permalink: on-the-equivalence-between-pi-pbc-and-ioc-designs-an-application-involving-three-phase-front-end-converters

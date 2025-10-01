@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control of Power Systems Considering Hydro-Turbine With Surge Tank"
 date: 2019-10-21 00:00:00 +0100
 permalink: passivity-based-control-of-power-systems-considering-hydro-turbine-with-surge-tank

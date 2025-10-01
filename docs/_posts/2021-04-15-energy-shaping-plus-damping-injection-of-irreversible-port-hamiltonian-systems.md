@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy shaping plus Damping injection of Irreversible Port Hamiltonian Systems"
 date: 2021-04-15 00:00:00 +0100
 permalink: energy-shaping-plus-damping-injection-of-irreversible-port-hamiltonian-systems

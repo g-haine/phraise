@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New potential functions for passivity based sliding mode control"
 date: 2023-03-16 00:00:00 +0100
 permalink: new-potential-functions-for-passivity-based-sliding-mode-control

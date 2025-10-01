@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy and power based perspective of memristive controllers"
 date: 2014-03-13 00:00:00 +0100
 permalink: energy-and-power-based-perspective-of-memristive-controllers

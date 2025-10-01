@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrea Cristofaro
 permalink: /authors/andrea-cristofaro
 ---

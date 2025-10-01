@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Conservation laws analysis of nonlinear partial differential equations and their linear soliton solutions and Hamiltonian structures"
 date: 2023-03-08 00:00:00 +0100
 permalink: conservation-laws-analysis-of-nonlinear-partial-differential-equations-and-their-linear-soliton-solutions-and-hamiltonian-structures

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Control of Fuel Cell Converter Based on a New Hamiltonian Energy Function for Stabilizing the DC Bus in DC Microgrid Applications"
 date: 2020-11-16 00:00:00 +0100
 permalink: adaptive-control-of-fuel-cell-converter-based-on-a-new-hamiltonian-energy-function-for-stabilizing-the-dc-bus-in-dc-microgrid-applications

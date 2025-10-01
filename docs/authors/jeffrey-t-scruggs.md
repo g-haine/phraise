@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jeffrey T. Scruggs
 permalink: /authors/jeffrey-t-scruggs
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling of Thermofluid Systems and Object-Oriented Implementation With Modelica I: Thermodynamic Part"
 date: 2021-09-22 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-thermofluid-systems-and-object-oriented-implementation-with-modelica-i-thermodynamic-part

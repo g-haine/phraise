@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lei Qiao
 permalink: /authors/lei-qiao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrzej Pelc
 permalink: /authors/andrzej-pelc
 ---

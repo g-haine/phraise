@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stefano Massaroli
 permalink: /authors/stefano-massaroli
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-Posedness of Time-Varying Linear Systems"
 date: 2019-11-21 00:00:00 +0100
 permalink: well-posedness-of-time-varying-linear-systems

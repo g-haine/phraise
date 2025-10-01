@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power-controlled Hamiltonian systems: Application to electrical systems with constant power loads"
 date: 2019-09-03 00:00:00 +0100
 permalink: power-controlled-hamiltonian-systems-application-to-electrical-systems-with-constant-power-loads

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Baaiu
 permalink: /authors/a-baaiu
 ---

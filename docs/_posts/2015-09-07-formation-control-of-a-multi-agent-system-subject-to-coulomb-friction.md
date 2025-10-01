@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Formation control of a multi-agent system subject to Coulomb friction"
 date: 2015-09-07 00:00:00 +0100
 permalink: formation-control-of-a-multi-agent-system-subject-to-coulomb-friction

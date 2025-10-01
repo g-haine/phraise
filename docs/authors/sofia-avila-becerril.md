@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sofía Avila-Becerril
 permalink: /authors/sofia-avila-becerril
 ---

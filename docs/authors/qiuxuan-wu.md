@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qiuxuan Wu
 permalink: /authors/qiuxuan-wu
 ---

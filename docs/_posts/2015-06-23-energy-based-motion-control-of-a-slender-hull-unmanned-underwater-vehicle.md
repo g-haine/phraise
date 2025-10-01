@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based motion control of a slender hull unmanned underwater vehicle"
 date: 2015-06-23 00:00:00 +0100
 permalink: energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle

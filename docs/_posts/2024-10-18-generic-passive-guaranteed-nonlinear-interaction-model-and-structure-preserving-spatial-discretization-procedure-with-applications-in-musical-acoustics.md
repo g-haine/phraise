@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Generic passive-guaranteed nonlinear interaction model and structure-preserving spatial discretization procedure with applications in musical acoustics"
 date: 2024-10-18 00:00:00 +0100
 permalink: generic-passive-guaranteed-nonlinear-interaction-model-and-structure-preserving-spatial-discretization-procedure-with-applications-in-musical-acoustics

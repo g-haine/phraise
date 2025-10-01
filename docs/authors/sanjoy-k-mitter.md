@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sanjoy K. Mitter
 permalink: /authors/sanjoy-k-mitter
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nicole Marheineke
 permalink: /authors/nicole-marheineke
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by F M Puspita
 permalink: /authors/f-m-puspita
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rosa Castañé-Selga
 permalink: /authors/rosa-castane-selga
 ---

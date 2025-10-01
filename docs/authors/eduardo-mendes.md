@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Eduardo Mendes
 permalink: /authors/eduardo-mendes
 ---

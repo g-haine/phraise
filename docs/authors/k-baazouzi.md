@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by K. Baazouzi
 permalink: /authors/k-baazouzi
 ---

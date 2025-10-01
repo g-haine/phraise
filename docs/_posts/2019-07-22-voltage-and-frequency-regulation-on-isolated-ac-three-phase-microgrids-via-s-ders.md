@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Voltage and Frequency Regulation on Isolated AC Three-phase Microgrids via s-DERs"
 date: 2019-07-22 00:00:00 +0100
 permalink: voltage-and-frequency-regulation-on-isolated-ac-three-phase-microgrids-via-s-ders

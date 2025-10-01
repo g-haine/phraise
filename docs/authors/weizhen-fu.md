@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Weizhen Fu
 permalink: /authors/weizhen-fu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Passivity-based Hybrid Control of NPC Hybrid Three Phase Voltage Source Rectifier"
 date: 2018-12-27 00:00:00 +0100
 permalink: the-passivity-based-hybrid-control-of-npc-hybrid-three-phase-voltage-source-rectifier

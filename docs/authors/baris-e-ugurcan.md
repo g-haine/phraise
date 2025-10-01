@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Baris E Ugurcan
 permalink: /authors/baris-e-ugurcan
 ---

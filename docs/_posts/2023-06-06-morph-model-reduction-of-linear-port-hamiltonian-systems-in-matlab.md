@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "MORpH: Model reduction of linear port-Hamiltonian systems in MATLAB"
 date: 2023-06-06 00:00:00 +0100
 permalink: morph-model-reduction-of-linear-port-hamiltonian-systems-in-matlab

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anton Arnold
 permalink: /authors/anton-arnold
 ---

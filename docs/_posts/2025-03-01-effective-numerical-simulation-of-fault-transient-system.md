@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Effective numerical simulation of fault transient system"
 date: 2025-03-01 00:00:00 +0100
 permalink: effective-numerical-simulation-of-fault-transient-system

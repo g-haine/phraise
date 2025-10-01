@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "System Order Reduction for Gas and Energy Networks"
 date: 2023-05-31 00:00:00 +0100
 permalink: system-order-reduction-for-gas-and-energy-networks

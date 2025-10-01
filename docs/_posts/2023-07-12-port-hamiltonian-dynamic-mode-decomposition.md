@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Dynamic Mode Decomposition"
 date: 2023-07-12 00:00:00 +0100
 permalink: port-hamiltonian-dynamic-mode-decomposition

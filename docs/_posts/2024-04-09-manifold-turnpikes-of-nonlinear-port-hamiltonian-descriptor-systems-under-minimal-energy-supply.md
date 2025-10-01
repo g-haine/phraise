@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Manifold turnpikes of nonlinear port-Hamiltonian descriptor systems under minimal energy supply"
 date: 2024-04-09 00:00:00 +0100
 permalink: manifold-turnpikes-of-nonlinear-port-hamiltonian-descriptor-systems-under-minimal-energy-supply

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jingyang Lin
 permalink: /authors/jingyang-lin
 ---

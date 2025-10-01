@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Distributed Frequency Regulation for Heterogeneous Microgrids via Steady State Optimal Control"
 date: 2020-12-17 00:00:00 +0100
 permalink: distributed-frequency-regulation-for-heterogeneous-microgrids-via-steady-state-optimal-control

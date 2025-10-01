@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Validation of the Full-Wave Projector-Based Hamiltonian Analysis of Port-Driven Microwave Resonators"
 date: 2023-08-28 00:00:00 +0100
 permalink: validation-of-the-full-wave-projector-based-hamiltonian-analysis-of-port-driven-microwave-resonators

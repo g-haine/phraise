@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qiang Lu
 permalink: /authors/qiang-lu
 ---

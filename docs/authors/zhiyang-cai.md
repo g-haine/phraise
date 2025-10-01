@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhiyang Cai
 permalink: /authors/zhiyang-cai
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy Shaping And Interconnection And Damping Assignment Control In The Bond Graph Domain"
 date: 2012-11-30 00:00:00 +0100
 permalink: energy-shaping-and-interconnection-and-damping-assignment-control-in-the-bond-graph-domain

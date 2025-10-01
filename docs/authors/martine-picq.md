@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Martine Picq
 permalink: /authors/martine-picq
 ---

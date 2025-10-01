@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuanqiang Zang
 permalink: /authors/yuanqiang-zang
 ---

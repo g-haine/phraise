@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On balancing of passive systems"
 date: 2018-06-21 00:00:00 +0100
 permalink: on-balancing-of-passive-systems

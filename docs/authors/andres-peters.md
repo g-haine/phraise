@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrés Peters
 permalink: /authors/andres-peters
 ---

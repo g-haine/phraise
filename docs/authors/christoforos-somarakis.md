@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christoforos Somarakis
 permalink: /authors/christoforos-somarakis
 ---

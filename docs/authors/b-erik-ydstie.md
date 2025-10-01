@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by B. Erik Ydstie
 permalink: /authors/b-erik-ydstie
 ---

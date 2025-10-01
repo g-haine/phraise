@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive tracking control of unmanned underwater vehicles with compensation for external perturbations and uncertainties using Port-Hamiltonian theory"
 date: 2020-05-25 00:00:00 +0100
 permalink: adaptive-tracking-control-of-unmanned-underwater-vehicles-with-compensation-for-external-perturbations-and-uncertainties-using-port-hamiltonian-theory

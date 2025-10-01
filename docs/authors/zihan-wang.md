@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zihan Wang
 permalink: /authors/zihan-wang
 ---

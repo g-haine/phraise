@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the addition of integral action to port-controlled Hamiltonian systems"
 date: 2009-06-10 00:00:00 +0100
 permalink: on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems

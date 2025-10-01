@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete-Time Flatness-Based Feedforward Control for the 1D Shallow Water Equations"
 date: 2019-12-20 00:00:00 +0100
 permalink: discrete-time-flatness-based-feedforward-control-for-the-1d-shallow-water-equations

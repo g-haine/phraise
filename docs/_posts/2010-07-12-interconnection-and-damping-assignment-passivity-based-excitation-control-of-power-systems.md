@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and damping assignment passivity-based excitation control of power systems"
 date: 2010-07-12 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-excitation-control-of-power-systems

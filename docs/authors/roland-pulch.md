@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Roland Pulch
 permalink: /authors/roland-pulch
 ---

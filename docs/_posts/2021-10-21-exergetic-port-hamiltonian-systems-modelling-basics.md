@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exergetic port-Hamiltonian systems: modelling basics"
 date: 2021-10-21 00:00:00 +0100
 permalink: exergetic-port-hamiltonian-systems-modelling-basics

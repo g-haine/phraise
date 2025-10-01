@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Practical fixed-time stabilization for discrete-time impulsive switched port-controlled Hamiltonian systems"
 date: 2024-02-19 00:00:00 +0100
 permalink: practical-fixed-time-stabilization-for-discrete-time-impulsive-switched-port-controlled-hamiltonian-systems

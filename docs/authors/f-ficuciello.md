@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by F Ficuciello
 permalink: /authors/f-ficuciello
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fluid dynamical systems as Hamiltonian boundary control systems"
 date: 2003-07-10 00:00:00 +0100
 permalink: fluid-dynamical-systems-as-hamiltonian-boundary-control-systems0

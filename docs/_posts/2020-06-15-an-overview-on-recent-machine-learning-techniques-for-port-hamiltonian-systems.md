@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An overview on recent machine learning techniques for Port Hamiltonian systems"
 date: 2020-06-15 00:00:00 +0100
 permalink: an-overview-on-recent-machine-learning-techniques-for-port-hamiltonian-systems

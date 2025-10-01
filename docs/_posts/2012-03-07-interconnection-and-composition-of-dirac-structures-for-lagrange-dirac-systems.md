@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and composition of Dirac structures for Lagrange-Dirac systems"
 date: 2012-03-07 00:00:00 +0100
 permalink: interconnection-and-composition-of-dirac-structures-for-lagrange-dirac-systems

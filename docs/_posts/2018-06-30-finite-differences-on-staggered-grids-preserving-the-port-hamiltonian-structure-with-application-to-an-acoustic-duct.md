@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite differences on staggered grids preserving the port-Hamiltonian structure with application to an acoustic duct"
 date: 2018-06-30 00:00:00 +0100
 permalink: finite-differences-on-staggered-grids-preserving-the-port-hamiltonian-structure-with-application-to-an-acoustic-duct

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Well-posedness of infinite-dimensional non-autonomous passive boundary control systems"
 date: 2020-06-17 00:00:00 +0100
 permalink: well-posedness-of-infinite-dimensional-non-autonomous-passive-boundary-control-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olivier Sprangers
 permalink: /authors/olivier-sprangers
 ---

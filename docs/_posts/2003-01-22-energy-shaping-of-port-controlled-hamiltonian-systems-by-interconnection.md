@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-shaping of port-controlled Hamiltonian systems by interconnection"
 date: 2003-01-22 00:00:00 +0100
 permalink: energy-shaping-of-port-controlled-hamiltonian-systems-by-interconnection

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of port-Hamiltonian systems with discontinuous energy densities"
 date: 2022-01-10 00:00:00 +0100
 permalink: stabilization-of-port-hamiltonian-systems-with-discontinuous-energy-densities

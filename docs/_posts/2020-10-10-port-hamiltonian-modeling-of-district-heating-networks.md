@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling of District Heating Networks"
 date: 2020-10-10 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-district-heating-networks

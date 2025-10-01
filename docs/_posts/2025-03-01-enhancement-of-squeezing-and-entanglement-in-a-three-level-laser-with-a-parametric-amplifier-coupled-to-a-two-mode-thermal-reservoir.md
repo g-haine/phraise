@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Enhancement of squeezing and entanglement in a three-level laser with a parametric amplifier coupled to a two-mode thermal reservoir"
 date: 2025-03-01 00:00:00 +0100
 permalink: enhancement-of-squeezing-and-entanglement-in-a-three-level-laser-with-a-parametric-amplifier-coupled-to-a-two-mode-thermal-reservoir

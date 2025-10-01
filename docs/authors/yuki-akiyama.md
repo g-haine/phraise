@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuki Akiyama
 permalink: /authors/yuki-akiyama
 ---

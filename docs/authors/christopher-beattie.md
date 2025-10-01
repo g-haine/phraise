@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Christopher Beattie
 permalink: /authors/christopher-beattie
 ---

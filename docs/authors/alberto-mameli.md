@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alberto Mameli
 permalink: /authors/alberto-mameli
 ---

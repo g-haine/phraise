@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Controllability and Observablity of Nonlinear Port-Controlled Hamiltonian Systems"
 date: 2010-05-12 00:00:00 +0100
 permalink: controllability-and-observablity-of-nonlinear-port-controlled-hamiltonian-systems

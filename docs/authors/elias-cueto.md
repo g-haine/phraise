@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Elías Cueto
 permalink: /authors/elias-cueto
 ---

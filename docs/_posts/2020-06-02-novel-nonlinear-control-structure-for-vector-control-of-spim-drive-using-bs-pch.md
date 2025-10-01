@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Novel nonlinear control structure for vector control of SPIM drive using BS PCH"
 date: 2020-06-02 00:00:00 +0100
 permalink: novel-nonlinear-control-structure-for-vector-control-of-spim-drive-using-bs-pch

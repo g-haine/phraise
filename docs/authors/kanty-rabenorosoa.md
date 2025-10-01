@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kanty Rabenorosoa
 permalink: /authors/kanty-rabenorosoa
 ---

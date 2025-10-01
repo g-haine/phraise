@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zheng Yin
 permalink: /authors/zheng-yin
 ---

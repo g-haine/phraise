@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy management for fuel cell-supercapacitor hybrid system using passivity-based controller with multi-equilibrium states"
 date: 2016-03-08 00:00:00 +0100
 permalink: energy-management-for-fuel-cell-supercapacitor-hybrid-system-using-passivity-based-controller-with-multi-equilibrium-states

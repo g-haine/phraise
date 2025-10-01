@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian systems on discrete manifolds"
 date: 2013-03-09 00:00:00 +0100
 permalink: port-hamiltonian-systems-on-discrete-manifolds

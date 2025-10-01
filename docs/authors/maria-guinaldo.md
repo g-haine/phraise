@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by María Guinaldo
 permalink: /authors/maria-guinaldo
 ---

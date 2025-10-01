@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Feedback passivation plus tracking-error-based multivariable control for a class of free-radical polymerisation reactors"
 date: 2018-01-22 00:00:00 +0100
 permalink: feedback-passivation-plus-tracking-error-based-multivariable-control-for-a-class-of-free-radical-polymerisation-reactors

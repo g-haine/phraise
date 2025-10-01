@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jin Liu
 permalink: /authors/jin-liu
 ---

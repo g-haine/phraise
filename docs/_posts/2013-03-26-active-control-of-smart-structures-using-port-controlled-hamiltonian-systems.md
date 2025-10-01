@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Active Control of Smart Structures Using Port Controlled Hamiltonian Systems"
 date: 2013-03-26 00:00:00 +0100
 permalink: active-control-of-smart-structures-using-port-controlled-hamiltonian-systems

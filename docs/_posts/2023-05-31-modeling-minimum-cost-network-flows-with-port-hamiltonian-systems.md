@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling Minimum Cost Network Flows With Port‐Hamiltonian Systems"
 date: 2023-05-31 00:00:00 +0100
 permalink: modeling-minimum-cost-network-flows-with-port-hamiltonian-systems

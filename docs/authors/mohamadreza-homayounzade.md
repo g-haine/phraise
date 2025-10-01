@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mohamadreza Homayounzade
 permalink: /authors/mohamadreza-homayounzade
 ---

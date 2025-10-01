@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mark Girolami
 permalink: /authors/mark-girolami
 ---

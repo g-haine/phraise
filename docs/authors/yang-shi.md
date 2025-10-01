@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yang Shi
 permalink: /authors/yang-shi
 ---

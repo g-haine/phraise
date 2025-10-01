@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Accurate Forced Oscillation Location and Participation Assessment Method for DFIG Wind Turbine"
 date: 2019-09-06 00:00:00 +0100
 permalink: an-accurate-forced-oscillation-location-and-participation-assessment-method-for-dfig-wind-turbine

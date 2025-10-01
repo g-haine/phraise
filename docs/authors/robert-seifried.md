@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Robert Seifried
 permalink: /authors/robert-seifried
 ---

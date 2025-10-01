@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Noureddine Takorabet
 permalink: /authors/noureddine-takorabet
 ---

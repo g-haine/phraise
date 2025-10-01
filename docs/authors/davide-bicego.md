@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Davide Bicego
 permalink: /authors/davide-bicego
 ---

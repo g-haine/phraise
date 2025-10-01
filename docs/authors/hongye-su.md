@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hongye Su
 permalink: /authors/hongye-su
 ---

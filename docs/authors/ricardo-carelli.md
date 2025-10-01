@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ricardo Carelli
 permalink: /authors/ricardo-carelli
 ---

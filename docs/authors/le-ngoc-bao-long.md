@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Le Ngoc Bao Long
 permalink: /authors/le-ngoc-bao-long
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by David S. Simon
 permalink: /authors/david-s-simon
 ---

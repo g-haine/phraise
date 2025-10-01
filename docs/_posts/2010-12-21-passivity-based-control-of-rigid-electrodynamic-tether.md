@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Control of Rigid Electrodynamic Tether"
 date: 2010-12-21 00:00:00 +0100
 permalink: passivity-based-control-of-rigid-electrodynamic-tether

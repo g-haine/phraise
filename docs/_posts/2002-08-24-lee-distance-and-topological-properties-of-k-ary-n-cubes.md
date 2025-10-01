@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lee distance and topological properties of k-ary n-cubes"
 date: 2002-08-24 00:00:00 +0100
 permalink: lee-distance-and-topological-properties-of-k-ary-n-cubes

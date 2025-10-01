@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yang Xia
 permalink: /authors/yang-xia
 ---

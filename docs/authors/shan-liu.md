@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Shan Liu
 permalink: /authors/shan-liu
 ---

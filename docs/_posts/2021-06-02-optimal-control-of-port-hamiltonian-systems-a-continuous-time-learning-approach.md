@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal control of port-Hamiltonian systems: A continuous-time learning approach"
 date: 2021-06-02 00:00:00 +0100
 permalink: optimal-control-of-port-hamiltonian-systems-a-continuous-time-learning-approach

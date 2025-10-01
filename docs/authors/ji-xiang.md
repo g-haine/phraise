@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ji Xiang
 permalink: /authors/ji-xiang
 ---

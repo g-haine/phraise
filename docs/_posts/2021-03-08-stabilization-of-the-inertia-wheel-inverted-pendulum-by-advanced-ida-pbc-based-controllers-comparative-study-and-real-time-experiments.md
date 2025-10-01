@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of the Inertia Wheel Inverted Pendulum by Advanced IDA-PBC Based Controllers: Comparative Study and Real-Time Experiments"
 date: 2021-03-08 00:00:00 +0100
 permalink: stabilization-of-the-inertia-wheel-inverted-pendulum-by-advanced-ida-pbc-based-controllers-comparative-study-and-real-time-experiments

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alejandro Jose Rojas
 permalink: /authors/alejandro-jose-rojas
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Haisheng Yu
 permalink: /authors/haisheng-yu
 ---
@@ -8,6 +7,7 @@ permalink: /authors/haisheng-yu
 <p id='info-authors'>Alternative author names: Haisheng Yu, Hai Sheng Yu, null Haisheng Yu.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Yongsheng Zhang, Haisheng Yu, Xiangxiang Meng, Qing Yang</span><h3><a class='post-link' href="{{ site.baseurl }}/position-cooperative-control-of-pmsm-based-on-error-port-hamiltonian-and-fractional-order-dynamic-surface-smc">Position Cooperative Control of PMSM Based on Error Port Hamiltonian and Fractional Order Dynamic Surface SMC</a></h3></li>
 <li><span class='post-meta'>2025 -- Chengxing Lv, Ying Zhang, Zichen Wang, Jian Chen, Zhibo Yang, Haisheng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/reinforcement-learning-event-triggered-energy-based-control-for-unmanned-surface-vessel-with-disturbances">Reinforcement learning event-triggered energy-based control for unmanned surface vessel with disturbances</a></h3></li>
 <li><span class='post-meta'>2024 -- Chengxing Lv, Zichen Wang, Ying Zhang, Jian Chen, Haisheng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/cooperative-formation-control-of-multiple-unmanned-surface-vessels-based-on-state-error-port-control-hamiltonian-framework">Cooperative formation control of multiple unmanned surface vessels based on state error port control Hamiltonian framework</a></h3></li>
 <li><span class='post-meta'>2024 -- Qingkun Guo, Haisheng Yu, Qing Yang, Xunkai Gao, Xiangxiang Meng</span><h3><a class='post-link' href="{{ site.baseurl }}/cooperative-control-of-variable-damping-error-port-hamiltonian-and-backstepping-nonsingular-terminal-sliding-mode-control-for-manipulators-driven-by-pmsms">Cooperative control of variable damping error port Hamiltonian and backstepping nonsingular terminal sliding mode control for manipulators driven by PMSMs</a></h3></li>

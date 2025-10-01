@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Oleksiy Kuznyetsov
 permalink: /authors/oleksiy-kuznyetsov
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Evaluation of a Passive-Based Controller for Power Monitoring in Networks of High Voltage Transmission Lines in Direct Current with Voltage Source Converters (VSC–HVDC)"
 date: 2024-02-20 00:00:00 +0100
 permalink: evaluation-of-a-passive-based-controller-for-power-monitoring-in-networks-of-high-voltage-transmission-lines-in-direct-current-with-voltage-source-converters-vsc-hvdc

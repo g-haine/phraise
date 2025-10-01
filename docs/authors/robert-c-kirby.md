@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Robert C. Kirby
 permalink: /authors/robert-c-kirby
 ---

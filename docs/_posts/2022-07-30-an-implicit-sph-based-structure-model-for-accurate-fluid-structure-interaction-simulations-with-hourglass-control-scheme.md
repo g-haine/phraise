@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An implicit SPH-based structure model for accurate Fluid–Structure Interaction simulations with hourglass control scheme"
 date: 2022-07-30 00:00:00 +0100
 permalink: an-implicit-sph-based-structure-model-for-accurate-fluid-structure-interaction-simulations-with-hourglass-control-scheme

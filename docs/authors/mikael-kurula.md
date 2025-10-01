@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mikael Kurula
 permalink: /authors/mikael-kurula
 ---

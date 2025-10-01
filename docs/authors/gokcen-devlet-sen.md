@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gökçen Devlet Şen
 permalink: /authors/gokcen-devlet-sen
 ---

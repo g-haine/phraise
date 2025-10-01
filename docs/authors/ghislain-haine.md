@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ghislain Haine
 permalink: /authors/ghislain-haine
 ---

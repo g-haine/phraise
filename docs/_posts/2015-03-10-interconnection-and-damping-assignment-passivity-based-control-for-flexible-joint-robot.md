@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and damping assignment passivity-based control for flexible joint robot"
 date: 2015-03-10 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-control-for-flexible-joint-robot

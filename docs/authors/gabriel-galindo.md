@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gabriel Galindo
 permalink: /authors/gabriel-galindo
 ---

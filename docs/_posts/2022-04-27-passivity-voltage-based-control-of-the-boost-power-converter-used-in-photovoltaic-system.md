@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity voltage based control of the boost power converter used in photovoltaic system"
 date: 2022-04-27 00:00:00 +0100
 permalink: passivity-voltage-based-control-of-the-boost-power-converter-used-in-photovoltaic-system

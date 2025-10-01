@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Neural network quaternion-based controller for port-Hamiltonian system"
 date: 2024-06-05 00:00:00 +0100
 permalink: neural-network-quaternion-based-controller-for-port-hamiltonian-system

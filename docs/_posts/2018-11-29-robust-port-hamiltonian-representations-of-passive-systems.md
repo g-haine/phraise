@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust port-Hamiltonian representations of passive systems"
 date: 2018-11-29 00:00:00 +0100
 permalink: robust-port-hamiltonian-representations-of-passive-systems

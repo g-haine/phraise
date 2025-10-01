@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling for control of an inflatable space reflector, the nonlinear 1-D case"
 date: 2009-01-20 00:00:00 +0100
 permalink: modeling-for-control-of-an-inflatable-space-reflector-the-nonlinear-1-d-case

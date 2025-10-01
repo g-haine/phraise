@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yonggang Li
 permalink: /authors/yonggang-li
 ---

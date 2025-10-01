@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jieru Chi
 permalink: /authors/jieru-chi
 ---

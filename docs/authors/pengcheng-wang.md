@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Pengcheng Wang
 permalink: /authors/pengcheng-wang
 ---

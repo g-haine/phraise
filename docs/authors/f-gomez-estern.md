@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by F. Gómez-Estern
 permalink: /authors/f-gomez-estern
 ---

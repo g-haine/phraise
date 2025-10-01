@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yousef Farid
 permalink: /authors/yousef-farid
 ---

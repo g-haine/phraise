@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by D. Ballance
 permalink: /authors/d-ballance
 ---

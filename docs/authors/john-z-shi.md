@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by John Z. Shi
 permalink: /authors/john-z-shi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuwei Geng
 permalink: /authors/yuwei-geng
 ---

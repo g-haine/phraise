@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection and damping assignment passivity-based non-linear observer control for efficiency maximization of permanent magnet synchronous motor"
 date: 2021-12-31 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-non-linear-observer-control-for-efficiency-maximization-of-permanent-magnet-synchronous-motor

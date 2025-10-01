@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stefania Tomasiello
 permalink: /authors/stefania-tomasiello
 ---

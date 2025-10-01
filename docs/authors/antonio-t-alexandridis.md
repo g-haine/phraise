@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Antonio T. Alexandridis
 permalink: /authors/antonio-t-alexandridis
 ---

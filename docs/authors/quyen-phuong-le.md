@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Quyen Phuong Le
 permalink: /authors/quyen-phuong-le
 ---

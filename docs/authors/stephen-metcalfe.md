@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stephen Metcalfe
 permalink: /authors/stephen-metcalfe
 ---

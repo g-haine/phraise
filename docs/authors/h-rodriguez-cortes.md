@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H. Rodríguez-Cortés
 permalink: /authors/h-rodriguez-cortes
 ---

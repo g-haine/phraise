@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Generating Functions of Irreversible port-Hamiltonian Systems⋆"
 date: 2023-11-22 00:00:00 +0100
 permalink: on-the-generating-functions-of-irreversible-port-hamiltonian-systems

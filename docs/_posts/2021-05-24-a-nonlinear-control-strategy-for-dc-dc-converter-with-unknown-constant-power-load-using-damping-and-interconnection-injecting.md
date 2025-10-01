@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Nonlinear Control Strategy for DC-DC Converter with Unknown Constant Power Load Using Damping and Interconnection Injecting"
 date: 2021-05-24 00:00:00 +0100
 permalink: a-nonlinear-control-strategy-for-dc-dc-converter-with-unknown-constant-power-load-using-damping-and-interconnection-injecting

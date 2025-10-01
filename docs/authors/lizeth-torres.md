@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lizeth Torres
 permalink: /authors/lizeth-torres
 ---

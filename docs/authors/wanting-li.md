@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wanting Li
 permalink: /authors/wanting-li
 ---

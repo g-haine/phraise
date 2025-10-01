@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian formulation of physical switching systems with varying constraints"
 date: 2007-05-24 00:00:00 +0100
 permalink: a-port-hamiltonian-formulation-of-physical-switching-systems-with-varying-constraints

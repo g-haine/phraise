@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the steady-state behavior of low-inertia power systems"
 date: 2017-10-19 00:00:00 +0100
 permalink: on-the-steady-state-behavior-of-low-inertia-power-systems

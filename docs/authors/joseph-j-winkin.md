@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Joseph J. Winkin
 permalink: /authors/joseph-j-winkin
 ---

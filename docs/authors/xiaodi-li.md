@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaodi Li
 permalink: /authors/xiaodi-li
 ---

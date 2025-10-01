@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jinguo Liu
 permalink: /authors/jinguo-liu
 ---

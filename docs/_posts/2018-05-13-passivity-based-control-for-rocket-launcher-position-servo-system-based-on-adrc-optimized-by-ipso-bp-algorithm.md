@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity‐Based Control for Rocket Launcher Position Servo System Based on ADRC Optimized by IPSO‐BP Algorithm"
 date: 2018-05-13 00:00:00 +0100
 permalink: passivity-based-control-for-rocket-launcher-position-servo-system-based-on-adrc-optimized-by-ipso-bp-algorithm

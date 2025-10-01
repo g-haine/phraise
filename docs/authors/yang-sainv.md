@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yang Sainv
 permalink: /authors/yang-sainv
 ---

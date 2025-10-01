@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Julia Timmermann
 permalink: /authors/julia-timmermann
 ---

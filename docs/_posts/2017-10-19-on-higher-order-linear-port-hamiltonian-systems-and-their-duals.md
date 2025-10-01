@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Higher-order Linear Port-Hamiltonian Systems and Their Duals"
 date: 2017-10-19 00:00:00 +0100
 permalink: on-higher-order-linear-port-hamiltonian-systems-and-their-duals

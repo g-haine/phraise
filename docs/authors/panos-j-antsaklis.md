@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Panos J. Antsaklis
 permalink: /authors/panos-j-antsaklis
 ---

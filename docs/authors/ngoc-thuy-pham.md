@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ngoc Thuy Pham
 permalink: /authors/ngoc-thuy-pham
 ---

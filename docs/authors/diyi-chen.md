@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Diyi Chen
 permalink: /authors/diyi-chen
 ---

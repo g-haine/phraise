@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modelling for Buckling Control of a Vertical Flexible Beam with Actuation at the Bottom"
 date: 2015-11-10 00:00:00 +0100
 permalink: port-hamiltonian-modelling-for-buckling-control-of-a-vertical-flexible-beam-with-actuation-at-the-bottom

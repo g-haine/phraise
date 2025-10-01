@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ghasem Abbasi
 permalink: /authors/ghasem-abbasi
 ---

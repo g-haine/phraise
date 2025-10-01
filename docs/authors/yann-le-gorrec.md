@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yann Le Gorrec
 permalink: /authors/yann-le-gorrec
 ---

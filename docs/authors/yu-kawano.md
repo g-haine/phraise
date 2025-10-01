@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yu Kawano
 permalink: /authors/yu-kawano
 ---

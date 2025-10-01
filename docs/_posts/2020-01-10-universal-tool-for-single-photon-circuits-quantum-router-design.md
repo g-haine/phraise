@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Universal Tool for Single-Photon Circuits: Quantum Router Design"
 date: 2020-01-10 00:00:00 +0100
 permalink: universal-tool-for-single-photon-circuits-quantum-router-design

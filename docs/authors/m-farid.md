@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Farid
 permalink: /authors/m-farid
 ---

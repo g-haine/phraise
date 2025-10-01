@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Equivalence of Geometric and Descriptor Representations of Linear Port-Hamiltonian Systems"
 date: 2024-09-20 00:00:00 +0100
 permalink: on-the-equivalence-of-geometric-and-descriptor-representations-of-linear-port-hamiltonian-systems

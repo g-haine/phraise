@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Partitioned Finite Element Method for port-Hamiltonian systems with Boundary Damping: Anisotropic Heterogeneous 2D wave equations"
 date: 2019-08-23 00:00:00 +0100
 permalink: partitioned-finite-element-method-for-port-hamiltonian-systems-with-boundary-damping-anisotropic-heterogeneous-2d-wave-equations

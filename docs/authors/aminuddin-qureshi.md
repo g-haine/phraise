@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aminuddin Qureshi
 permalink: /authors/aminuddin-qureshi
 ---

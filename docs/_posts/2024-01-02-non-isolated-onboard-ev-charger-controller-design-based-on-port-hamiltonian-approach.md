@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Non-isolated Onboard EV Charger Controller Design Based on Port-Hamiltonian Approach"
 date: 2024-01-02 00:00:00 +0100
 permalink: non-isolated-onboard-ev-charger-controller-design-based-on-port-hamiltonian-approach

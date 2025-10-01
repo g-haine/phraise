@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marcel Nicola
 permalink: /authors/marcel-nicola
 ---

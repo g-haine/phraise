@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Optimal Task-Invariant Energetic Control for a Knee-Ankle Exoskeleton"
 date: 2020-12-10 00:00:00 +0100
 permalink: optimal-task-invariant-energetic-control-for-a-knee-ankle-exoskeleton

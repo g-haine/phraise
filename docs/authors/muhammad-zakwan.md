@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Muhammad Zakwan
 permalink: /authors/muhammad-zakwan
 ---

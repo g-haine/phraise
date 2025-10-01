@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Telegraph systems on networks and port-Hamiltonians. I. Boundary conditions and well-posedness"
 date: 2021-08-27 00:00:00 +0100
 permalink: telegraph-systems-on-networks-and-port-hamiltonians-i-boundary-conditions-and-well-posedness

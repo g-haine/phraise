@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maximilian Bonauer
 permalink: /authors/maximilian-bonauer
 ---

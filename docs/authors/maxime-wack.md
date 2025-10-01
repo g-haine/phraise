@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maxime Wack
 permalink: /authors/maxime-wack
 ---

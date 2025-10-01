@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dipendu Halder
 permalink: /authors/dipendu-halder
 ---

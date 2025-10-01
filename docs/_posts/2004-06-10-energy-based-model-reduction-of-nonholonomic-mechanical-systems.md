@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-based model-reduction of nonholonomic mechanical systems"
 date: 2004-06-10 00:00:00 +0100
 permalink: energy-based-model-reduction-of-nonholonomic-mechanical-systems

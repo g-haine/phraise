@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by T Kunkel
 permalink: /authors/t-kunkel
 ---

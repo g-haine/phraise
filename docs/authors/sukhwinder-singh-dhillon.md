@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sukhwinder Singh Dhillon
 permalink: /authors/sukhwinder-singh-dhillon
 ---

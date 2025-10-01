@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by N. Lakshminarasamma
 permalink: /authors/n-lakshminarasamma
 ---

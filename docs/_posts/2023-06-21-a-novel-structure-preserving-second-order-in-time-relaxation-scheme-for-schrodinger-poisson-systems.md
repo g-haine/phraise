@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A novel, structure-preserving, second-order-in-time relaxation scheme for Schrödinger-Poisson systems"
 date: 2023-06-21 00:00:00 +0100
 permalink: a-novel-structure-preserving-second-order-in-time-relaxation-scheme-for-schrodinger-poisson-systems

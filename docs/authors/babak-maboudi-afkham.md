@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Babak Maboudi Afkham
 permalink: /authors/babak-maboudi-afkham
 ---

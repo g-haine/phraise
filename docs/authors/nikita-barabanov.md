@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nikita Barabanov
 permalink: /authors/nikita-barabanov
 ---

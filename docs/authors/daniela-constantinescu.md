@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daniela Constantinescu
 permalink: /authors/daniela-constantinescu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mauricio Munoz-Arias
 permalink: /authors/mauricio-munoz-arias
 ---

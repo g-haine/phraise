@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Peter Benner
 permalink: /authors/peter-benner
 ---

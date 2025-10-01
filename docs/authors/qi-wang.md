@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qi Wang
 permalink: /authors/qi-wang
 ---

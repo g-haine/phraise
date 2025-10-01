@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gray C. Thomas
 permalink: /authors/gray-c-thomas
 ---

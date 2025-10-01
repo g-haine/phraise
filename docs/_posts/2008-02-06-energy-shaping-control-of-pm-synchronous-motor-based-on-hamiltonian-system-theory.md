@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Shaping Control of PM Synchronous Motor Based on Hamiltonian System Theory"
 date: 2008-02-06 00:00:00 +0100
 permalink: energy-shaping-control-of-pm-synchronous-motor-based-on-hamiltonian-system-theory

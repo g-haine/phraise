@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based Boundary Controls of Flexible Beams with Large Deformations"
 date: 2013-10-14 00:00:00 +0100
 permalink: passivity-based-boundary-controls-of-flexible-beams-with-large-deformations

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luca Bassi
 permalink: /authors/luca-bassi
 ---

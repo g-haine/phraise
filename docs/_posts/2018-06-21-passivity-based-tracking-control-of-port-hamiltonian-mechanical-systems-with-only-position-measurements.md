@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based tracking control of port-Hamiltonian mechanical systems with only position measurements"
 date: 2018-06-21 00:00:00 +0100
 permalink: passivity-based-tracking-control-of-port-hamiltonian-mechanical-systems-with-only-position-measurements

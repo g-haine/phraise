@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Adaptive Passivity Based Control of Grid Connected VSC with Integral Action"
 date: 2019-12-17 00:00:00 +0100
 permalink: an-adaptive-passivity-based-control-of-grid-connected-vsc-with-integral-action

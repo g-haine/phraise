@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adaptive Control of Fuel Cell-Battery Hybrid Systems Considering Power Sources Degradation"
 date: 2025-03-31 00:00:00 +0100
 permalink: adaptive-control-of-fuel-cell-battery-hybrid-systems-considering-power-sources-degradation

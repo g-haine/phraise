@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Regenerative braking system of PM synchronous motor"
 date: 2018-04-19 00:00:00 +0100
 permalink: regenerative-braking-system-of-pm-synchronous-motor

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hiroaki Tanaka
 permalink: /authors/hiroaki-tanaka
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bingyi Jin
 permalink: /authors/bingyi-jin
 ---

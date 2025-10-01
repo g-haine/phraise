@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the Hamiltonian formulation of the CSTR"
 date: 2011-02-22 00:00:00 +0100
 permalink: on-the-hamiltonian-formulation-of-the-cstr

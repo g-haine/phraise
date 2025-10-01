@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnection structure preservation design for a type of port‐controlled hamiltonian systems—A parametric approach"
 date: 2020-12-24 00:00:00 +0100
 permalink: interconnection-structure-preservation-design-for-a-type-of-port-controlled-hamiltonian-systems-a-parametric-approach

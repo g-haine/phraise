@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhou Fang
 permalink: /authors/zhou-fang
 ---

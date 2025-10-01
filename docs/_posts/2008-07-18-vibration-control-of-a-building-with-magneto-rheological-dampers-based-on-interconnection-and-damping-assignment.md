@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Vibration control of a building with magneto-rheological-dampers based on interconnection and damping assignment"
 date: 2008-07-18 00:00:00 +0100
 permalink: vibration-control-of-a-building-with-magneto-rheological-dampers-based-on-interconnection-and-damping-assignment

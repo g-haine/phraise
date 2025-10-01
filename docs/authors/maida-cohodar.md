@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maida Cohodar
 permalink: /authors/maida-cohodar
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Hamiltonian System in Descriptor Form for Balanced Reduction: Application to a Nanotweezer"
 date: 2014-10-08 00:00:00 +0100
 permalink: port-hamiltonian-system-in-descriptor-form-for-balanced-reduction-application-to-a-nanotweezer

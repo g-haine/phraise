@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jia-Hao Zhang
 permalink: /authors/jia-hao-zhang
 ---

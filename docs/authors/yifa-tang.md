@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yifa Tang
 permalink: /authors/yifa-tang
 ---

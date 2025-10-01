@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xuejun Xie
 permalink: /authors/xuejun-xie
 ---

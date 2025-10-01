@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces"
 date: 2010-11-22 00:00:00 +0100
 permalink: passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces

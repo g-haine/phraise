@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by V.S. Dos Santos Martins
 permalink: /authors/v-s-dos-santos-martins
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling and simulation of static and Coulomb friction in a class of automotive systems"
 date: 2006-03-01 00:00:00 +0100
 permalink: modelling-and-simulation-of-static-and-coulomb-friction-in-a-class-of-automotive-systems

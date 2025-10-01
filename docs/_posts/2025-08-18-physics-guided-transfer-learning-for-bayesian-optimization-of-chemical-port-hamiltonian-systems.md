@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Physics-guided transfer learning for Bayesian optimization of chemical port-Hamiltonian systems"
 date: 2025-08-18 00:00:00 +0100
 permalink: physics-guided-transfer-learning-for-bayesian-optimization-of-chemical-port-hamiltonian-systems

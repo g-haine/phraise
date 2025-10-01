@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sandra Hirche
 permalink: /authors/sandra-hirche
 ---

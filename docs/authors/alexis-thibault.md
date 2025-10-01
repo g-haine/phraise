@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alexis Thibault
 permalink: /authors/alexis-thibault
 ---

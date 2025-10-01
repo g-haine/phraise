@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On estimation of attraction domain for port-controlled Hamiltonian systems subject to actuator saturation"
 date: 2012-04-10 00:00:00 +0100
 permalink: on-estimation-of-attraction-domain-for-port-controlled-hamiltonian-systems-subject-to-actuator-saturation

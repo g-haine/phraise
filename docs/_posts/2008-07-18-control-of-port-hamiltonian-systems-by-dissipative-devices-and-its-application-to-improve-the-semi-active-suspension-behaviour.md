@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of port Hamiltonian systems by dissipative devices and its application to improve the semi-active suspension behaviour"
 date: 2008-07-18 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems-by-dissipative-devices-and-its-application-to-improve-the-semi-active-suspension-behaviour

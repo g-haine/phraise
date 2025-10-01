@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Flávio Luiz Cardoso-Ribeiro
 permalink: /authors/flavio-luiz-cardoso-ribeiro
 ---

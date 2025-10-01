@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yichao Zou
 permalink: /authors/yichao-zou
 ---

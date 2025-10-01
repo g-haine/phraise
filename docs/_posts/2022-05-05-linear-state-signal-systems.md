@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Linear State/Signal Systems"
 date: 2022-05-05 00:00:00 +0100
 permalink: linear-state-signal-systems

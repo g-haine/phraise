@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian discontinuous Galerkin finite element methods"
 date: 2024-04-28 00:00:00 +0100
 permalink: port-hamiltonian-discontinuous-galerkin-finite-element-methods

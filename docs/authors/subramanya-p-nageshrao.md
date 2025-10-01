@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Subramanya P. Nageshrao
 permalink: /authors/subramanya-p-nageshrao
 ---

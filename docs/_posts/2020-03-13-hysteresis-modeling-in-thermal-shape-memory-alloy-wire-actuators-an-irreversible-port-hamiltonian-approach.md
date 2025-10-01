@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hysteresis modeling in thermal shape memory alloy wire actuators: an irreversible port-Hamiltonian approach"
 date: 2020-03-13 00:00:00 +0100
 permalink: hysteresis-modeling-in-thermal-shape-memory-alloy-wire-actuators-an-irreversible-port-hamiltonian-approach

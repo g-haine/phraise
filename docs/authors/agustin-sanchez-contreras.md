@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Agustín Sánchez-Contreras
 permalink: /authors/agustin-sanchez-contreras
 ---

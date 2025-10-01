@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kae Nemoto
 permalink: /authors/kae-nemoto
 ---

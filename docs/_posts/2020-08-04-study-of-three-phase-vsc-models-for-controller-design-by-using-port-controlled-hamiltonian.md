@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Study of Three Phase VSC Models for Controller Design by Using Port-Controlled Hamiltonian"
 date: 2020-08-04 00:00:00 +0100
 permalink: study-of-three-phase-vsc-models-for-controller-design-by-using-port-controlled-hamiltonian

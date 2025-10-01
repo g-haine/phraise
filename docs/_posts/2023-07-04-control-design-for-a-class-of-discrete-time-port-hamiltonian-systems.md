@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control Design for a Class of Discrete-Time Port-Hamiltonian Systems"
 date: 2023-07-04 00:00:00 +0100
 permalink: control-design-for-a-class-of-discrete-time-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian Approach in Current Controller Design for Buck Boost Converter"
 date: 2022-03-29 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-in-current-controller-design-for-buck-boost-converter

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New Stochastic Mode Reduction Strategy for Dissipative Systems"
 date: 2013-06-12 00:00:00 +0100
 permalink: new-stochastic-mode-reduction-strategy-for-dissipative-systems

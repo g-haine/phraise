@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lian-Fu Wei
 permalink: /authors/lian-fu-wei
 ---

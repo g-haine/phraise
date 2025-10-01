@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PI-PBC Approach for Voltage Regulation in Ćuk Converters with Adaptive Load Estimation"
 date: 2020-11-25 00:00:00 +0100
 permalink: pi-pbc-approach-for-voltage-regulation-in-cuk-converters-with-adaptive-load-estimation

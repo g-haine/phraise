@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Motonobu Sugiura
 permalink: /authors/motonobu-sugiura
 ---

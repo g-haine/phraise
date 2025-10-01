@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Precise Control of Elastic Joint Robot Using an Interconnection and Damping Assignment Passivity-Based Approach"
 date: 2016-06-08 00:00:00 +0100
 permalink: precise-control-of-elastic-joint-robot-using-an-interconnection-and-damping-assignment-passivity-based-approach

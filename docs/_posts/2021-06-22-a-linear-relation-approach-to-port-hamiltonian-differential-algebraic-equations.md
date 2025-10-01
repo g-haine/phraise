@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Linear Relation Approach to Port-Hamiltonian Differential-Algebraic Equations"
 date: 2021-06-22 00:00:00 +0100
 permalink: a-linear-relation-approach-to-port-hamiltonian-differential-algebraic-equations

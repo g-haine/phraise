@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Na Zhao
 permalink: /authors/na-zhao
 ---

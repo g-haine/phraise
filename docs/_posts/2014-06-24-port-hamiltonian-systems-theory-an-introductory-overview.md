@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems Theory: An Introductory Overview"
 date: 2014-06-24 00:00:00 +0100
 permalink: port-hamiltonian-systems-theory-an-introductory-overview

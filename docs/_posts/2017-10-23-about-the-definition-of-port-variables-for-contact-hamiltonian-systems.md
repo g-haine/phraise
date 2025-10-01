@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "About the Definition of Port Variables for Contact Hamiltonian Systems"
 date: 2017-10-23 00:00:00 +0100
 permalink: about-the-definition-of-port-variables-for-contact-hamiltonian-systems

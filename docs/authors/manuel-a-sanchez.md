@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Manuel A. Sánchez
 permalink: /authors/manuel-a-sanchez
 ---

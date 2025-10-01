@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yi-Lou Liu
 permalink: /authors/yi-lou-liu
 ---

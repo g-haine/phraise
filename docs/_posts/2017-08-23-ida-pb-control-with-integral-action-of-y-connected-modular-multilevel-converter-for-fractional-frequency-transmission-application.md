@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA‐PB control with integral action of Y‐connected modular multilevel converter for fractional frequency transmission application"
 date: 2017-08-23 00:00:00 +0100
 permalink: ida-pb-control-with-integral-action-of-y-connected-modular-multilevel-converter-for-fractional-frequency-transmission-application

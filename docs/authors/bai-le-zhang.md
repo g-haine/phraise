@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bai Le Zhang
 permalink: /authors/bai-le-zhang
 ---

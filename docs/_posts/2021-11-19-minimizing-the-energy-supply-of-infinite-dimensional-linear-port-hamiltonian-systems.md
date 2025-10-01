@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Minimizing the energy supply of infinite-dimensional linear port-Hamiltonian systems"
 date: 2021-11-19 00:00:00 +0100
 permalink: minimizing-the-energy-supply-of-infinite-dimensional-linear-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time adaptive control for uncertain switched port-controlled Hamiltonian systems"
 date: 2023-01-20 00:00:00 +0100
 permalink: finite-time-adaptive-control-for-uncertain-switched-port-controlled-hamiltonian-systems

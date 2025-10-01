@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Song Xu
 permalink: /authors/song-xu
 ---

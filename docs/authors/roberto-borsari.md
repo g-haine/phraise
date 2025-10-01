@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Roberto Borsari
 permalink: /authors/roberto-borsari
 ---

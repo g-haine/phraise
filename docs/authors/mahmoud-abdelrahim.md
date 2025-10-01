@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mahmoud Abdelrahim
 permalink: /authors/mahmoud-abdelrahim
 ---

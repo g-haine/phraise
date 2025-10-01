@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Fushuan Wen
 permalink: /authors/fushuan-wen
 ---

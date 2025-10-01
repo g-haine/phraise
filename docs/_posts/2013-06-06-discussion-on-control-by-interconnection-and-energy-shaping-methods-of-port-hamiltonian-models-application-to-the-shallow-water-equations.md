@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discussion on: “Control by Interconnection and Energy Shaping Methods of Port Hamiltonian Models. Application to the Shallow Water Equations”"
 date: 2013-06-06 00:00:00 +0100
 permalink: discussion-on-control-by-interconnection-and-energy-shaping-methods-of-port-hamiltonian-models-application-to-the-shallow-water-equations

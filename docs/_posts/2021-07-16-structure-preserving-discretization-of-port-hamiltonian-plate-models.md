@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure-preserving discretization of port-Hamiltonian plate models"
 date: 2021-07-16 00:00:00 +0100
 permalink: structure-preserving-discretization-of-port-hamiltonian-plate-models

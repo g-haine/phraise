@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenjing Zhao
 permalink: /authors/wenjing-zhao
 ---

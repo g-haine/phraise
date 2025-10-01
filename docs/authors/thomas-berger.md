@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Thomas Berger
 permalink: /authors/thomas-berger
 ---

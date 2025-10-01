@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhengyou He
 permalink: /authors/zhengyou-he
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization and H∞ control of nonlinear port-controlled Hamiltonian systems subject to actuator saturation"
 date: 2010-08-31 00:00:00 +0100
 permalink: stabilization-and-h-control-of-nonlinear-port-controlled-hamiltonian-systems-subject-to-actuator-saturation

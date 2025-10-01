@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rémy Müller
 permalink: /authors/remy-muller
 ---

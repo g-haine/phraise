@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Infinite-Dimensional Port-Hamiltonian Systems"
 date: 2009-10-14 00:00:00 +0100
 permalink: infinite-dimensional-port-hamiltonian-systems

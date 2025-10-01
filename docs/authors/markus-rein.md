@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Markus Rein
 permalink: /authors/markus-rein
 ---

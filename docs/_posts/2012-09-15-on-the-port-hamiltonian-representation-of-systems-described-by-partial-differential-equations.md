@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the port-Hamiltonian representation of systems described by partial differential equations"
 date: 2012-09-15 00:00:00 +0100
 permalink: on-the-port-hamiltonian-representation-of-systems-described-by-partial-differential-equations

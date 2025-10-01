@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "State feedback regulation on port-Hamiltonian systems: a convex based approach"
 date: 2019-01-15 00:00:00 +0100
 permalink: state-feedback-regulation-on-port-hamiltonian-systems-a-convex-based-approach

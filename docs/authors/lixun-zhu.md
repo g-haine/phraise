@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lixun Zhu
 permalink: /authors/lixun-zhu
 ---

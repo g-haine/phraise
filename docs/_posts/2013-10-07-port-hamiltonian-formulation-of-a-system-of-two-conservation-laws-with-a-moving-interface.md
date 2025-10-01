@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port Hamiltonian formulation of a system of two conservation laws with a moving interface"
 date: 2013-10-07 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-a-system-of-two-conservation-laws-with-a-moving-interface

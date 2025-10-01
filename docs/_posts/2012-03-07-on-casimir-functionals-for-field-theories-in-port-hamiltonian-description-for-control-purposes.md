@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Casimir functionals for field theories in Port-Hamiltonian description for control purposes"
 date: 2012-03-07 00:00:00 +0100
 permalink: on-casimir-functionals-for-field-theories-in-port-hamiltonian-description-for-control-purposes

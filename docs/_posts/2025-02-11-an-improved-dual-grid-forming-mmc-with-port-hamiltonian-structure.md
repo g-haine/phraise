@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Improved Dual Grid-Forming MMC with Port-Hamiltonian Structure"
 date: 2025-02-11 00:00:00 +0100
 permalink: an-improved-dual-grid-forming-mmc-with-port-hamiltonian-structure

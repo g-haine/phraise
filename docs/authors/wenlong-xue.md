@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wenlong Xue
 permalink: /authors/wenlong-xue
 ---

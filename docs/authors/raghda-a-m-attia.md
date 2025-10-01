@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Raghda A. M. Attia
 permalink: /authors/raghda-a-m-attia
 ---

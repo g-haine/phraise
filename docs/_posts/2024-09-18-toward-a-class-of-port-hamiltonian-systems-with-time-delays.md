@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Toward a Class of Port-Hamiltonian Systems With Time-Delays"
 date: 2024-09-18 00:00:00 +0100
 permalink: toward-a-class-of-port-hamiltonian-systems-with-time-delays

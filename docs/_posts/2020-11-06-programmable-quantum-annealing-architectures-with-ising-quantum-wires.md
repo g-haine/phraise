@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Programmable Quantum Annealing Architectures with Ising Quantum Wires"
 date: 2020-11-06 00:00:00 +0100
 permalink: programmable-quantum-annealing-architectures-with-ising-quantum-wires

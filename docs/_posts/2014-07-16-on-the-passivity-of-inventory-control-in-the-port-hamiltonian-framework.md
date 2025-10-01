@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the passivity of inventory control in the Port Hamiltonian framework"
 date: 2014-07-16 00:00:00 +0100
 permalink: on-the-passivity-of-inventory-control-in-the-port-hamiltonian-framework

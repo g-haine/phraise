@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by C. Jallut
 permalink: /authors/c-jallut
 ---

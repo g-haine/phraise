@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Energy-Based Controller Design for Decentralized AC Inverter-Base Micro-grids"
 date: 2023-06-07 00:00:00 +0100
 permalink: energy-based-controller-design-for-decentralized-ac-inverter-base-micro-grids

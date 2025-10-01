@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Cosimo Della Santina
 permalink: /authors/cosimo-della-santina
 ---

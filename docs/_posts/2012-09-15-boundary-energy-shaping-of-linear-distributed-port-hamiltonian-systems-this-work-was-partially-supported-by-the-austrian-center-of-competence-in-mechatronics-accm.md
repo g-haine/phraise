@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary Energy Shaping of Linear Distributed Port-Hamiltonian Systems* *This work was partially supported by the Austrian Center of Competence in Mechatronics (ACCM)."
 date: 2012-09-15 00:00:00 +0100
 permalink: boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems-this-work-was-partially-supported-by-the-austrian-center-of-competence-in-mechatronics-accm

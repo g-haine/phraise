@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Port-Hamiltonian Structure of Continuum Mechanics"
 date: 2025-01-28 00:00:00 +0100
 permalink: the-port-hamiltonian-structure-of-continuum-mechanics

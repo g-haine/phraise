@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust control of underactuated Aerial Manipulators via IDA-PBC"
 date: 2015-02-17 00:00:00 +0100
 permalink: robust-control-of-underactuated-aerial-manipulators-via-ida-pbc

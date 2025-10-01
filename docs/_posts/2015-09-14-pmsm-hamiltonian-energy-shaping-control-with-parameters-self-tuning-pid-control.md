@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PMSM Hamiltonian energy shaping control with parameters self-tuning PID control"
 date: 2015-09-14 00:00:00 +0100
 permalink: pmsm-hamiltonian-energy-shaping-control-with-parameters-self-tuning-pid-control

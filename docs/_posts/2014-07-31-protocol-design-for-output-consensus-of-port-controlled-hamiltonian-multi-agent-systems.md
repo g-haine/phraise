@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Protocol Design for Output Consensus of Port-controlled Hamiltonian Multi-agent Systems"
 date: 2014-07-31 00:00:00 +0100
 permalink: protocol-design-for-output-consensus-of-port-controlled-hamiltonian-multi-agent-systems

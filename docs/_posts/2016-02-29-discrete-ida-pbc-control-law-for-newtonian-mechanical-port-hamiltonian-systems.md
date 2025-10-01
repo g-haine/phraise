@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete IDA-PBC control law for Newtonian mechanical port-Hamiltonian systems"
 date: 2016-02-29 00:00:00 +0100
 permalink: discrete-ida-pbc-control-law-for-newtonian-mechanical-port-hamiltonian-systems

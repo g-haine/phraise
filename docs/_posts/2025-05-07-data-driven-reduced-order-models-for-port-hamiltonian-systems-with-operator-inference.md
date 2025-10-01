@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Data-driven reduced-order models for port-Hamiltonian systems with operator inference"
 date: 2025-05-07 00:00:00 +0100
 permalink: data-driven-reduced-order-models-for-port-hamiltonian-systems-with-operator-inference

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Using Hamiltonian Neural Networks to Model Two Coupled Duffing Oscillators"
 date: 2023-06-06 00:00:00 +0100
 permalink: using-hamiltonian-neural-networks-to-model-two-coupled-duffing-oscillators

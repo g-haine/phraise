@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "IDA-PBC under sampling for port-controlled hamiltonian systems"
 date: 2014-07-16 00:00:00 +0100
 permalink: ida-pbc-under-sampling-for-port-controlled-hamiltonian-systems

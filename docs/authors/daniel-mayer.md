@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Daniel Mayer
 permalink: /authors/daniel-mayer
 ---

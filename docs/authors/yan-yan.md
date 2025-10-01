@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yan Yan
 permalink: /authors/yan-yan
 ---

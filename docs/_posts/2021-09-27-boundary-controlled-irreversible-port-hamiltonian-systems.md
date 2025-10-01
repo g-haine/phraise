@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boundary controlled irreversible port-Hamiltonian systems"
 date: 2021-09-27 00:00:00 +0100
 permalink: boundary-controlled-irreversible-port-hamiltonian-systems

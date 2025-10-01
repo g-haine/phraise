@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mo Tao
 permalink: /authors/mo-tao
 ---

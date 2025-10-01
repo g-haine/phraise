@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Minghui Chen
 permalink: /authors/minghui-chen
 ---

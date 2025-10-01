@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gui‐Zhou Cao
 permalink: /authors/gui-zhou-cao
 ---

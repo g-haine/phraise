@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Structure Preserving Adaptive Control of Port-Hamiltonian Systems"
 date: 2012-04-11 00:00:00 +0100
 permalink: structure-preserving-adaptive-control-of-port-hamiltonian-systems

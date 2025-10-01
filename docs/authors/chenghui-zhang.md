@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chenghui Zhang
 permalink: /authors/chenghui-zhang
 ---

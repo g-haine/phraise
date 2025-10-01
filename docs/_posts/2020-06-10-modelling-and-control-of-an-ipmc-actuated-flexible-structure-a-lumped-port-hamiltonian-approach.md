@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modelling and control of an IPMC actuated flexible structure: A lumped port Hamiltonian approach"
 date: 2020-06-10 00:00:00 +0100
 permalink: modelling-and-control-of-an-ipmc-actuated-flexible-structure-a-lumped-port-hamiltonian-approach

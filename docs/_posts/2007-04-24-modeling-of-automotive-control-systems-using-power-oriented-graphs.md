@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Modeling of Automotive Control Systems Using Power Oriented Graphs"
 date: 2007-04-24 00:00:00 +0100
 permalink: modeling-of-automotive-control-systems-using-power-oriented-graphs

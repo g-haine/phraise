@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Computation of the nearest structured matrix triplet with common null space"
 date: 2022-05-31 00:00:00 +0100
 permalink: computation-of-the-nearest-structured-matrix-triplet-with-common-null-space

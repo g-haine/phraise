@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Amelie Zeller
 permalink: /authors/amelie-zeller
 ---

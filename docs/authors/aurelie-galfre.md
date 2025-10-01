@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Aurélie Galfré
 permalink: /authors/aurelie-galfre
 ---

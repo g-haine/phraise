@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Saeed Lotfifard
 permalink: /authors/saeed-lotfifard
 ---

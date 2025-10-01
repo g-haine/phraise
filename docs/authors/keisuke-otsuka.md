@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Keisuke Otsuka
 permalink: /authors/keisuke-otsuka
 ---

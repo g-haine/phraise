@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Estimating and enlarging the domain of attraction in IDA-PBC"
 date: 2013-02-08 00:00:00 +0100
 permalink: estimating-and-enlarging-the-domain-of-attraction-in-ida-pbc

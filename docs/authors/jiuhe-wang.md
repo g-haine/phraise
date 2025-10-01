@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jiuhe Wang
 permalink: /authors/jiuhe-wang
 ---

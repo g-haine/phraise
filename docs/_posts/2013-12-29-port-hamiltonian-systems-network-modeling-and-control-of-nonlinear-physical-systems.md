@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems"
 date: 2013-12-29 00:00:00 +0100
 permalink: port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems

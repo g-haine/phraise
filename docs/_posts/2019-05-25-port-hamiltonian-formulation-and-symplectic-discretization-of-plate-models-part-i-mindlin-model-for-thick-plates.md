@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian formulation and symplectic discretization of plate models Part I: Mindlin model for thick plates"
 date: 2019-05-25 00:00:00 +0100
 permalink: port-hamiltonian-formulation-and-symplectic-discretization-of-plate-models-part-i-mindlin-model-for-thick-plates

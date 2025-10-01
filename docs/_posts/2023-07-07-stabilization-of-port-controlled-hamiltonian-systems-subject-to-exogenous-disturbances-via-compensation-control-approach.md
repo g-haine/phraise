@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of Port-Controlled Hamiltonian systems subject to exogenous disturbances via compensation control approach"
 date: 2023-07-07 00:00:00 +0100
 permalink: stabilization-of-port-controlled-hamiltonian-systems-subject-to-exogenous-disturbances-via-compensation-control-approach

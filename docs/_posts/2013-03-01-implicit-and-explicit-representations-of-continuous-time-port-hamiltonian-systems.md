@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Implicit and explicit representations of continuous-time port-Hamiltonian systems"
 date: 2013-03-01 00:00:00 +0100
 permalink: implicit-and-explicit-representations-of-continuous-time-port-hamiltonian-systems

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian approach to power network modeling and analysis"
 date: 2013-10-07 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-power-network-modeling-and-analysis

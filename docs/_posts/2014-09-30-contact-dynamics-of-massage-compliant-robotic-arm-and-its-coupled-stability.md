@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Contact dynamics of massage compliant robotic arm and its coupled stability"
 date: 2014-09-30 00:00:00 +0100
 permalink: contact-dynamics-of-massage-compliant-robotic-arm-and-its-coupled-stability

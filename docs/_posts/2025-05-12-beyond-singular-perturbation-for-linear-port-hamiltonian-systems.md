@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Beyond Singular Perturbation for linear port-Hamiltonian systems"
 date: 2025-05-12 00:00:00 +0100
 permalink: beyond-singular-perturbation-for-linear-port-hamiltonian-systems

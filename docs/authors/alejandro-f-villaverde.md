@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alejandro F. Villaverde
 permalink: /authors/alejandro-f-villaverde
 ---

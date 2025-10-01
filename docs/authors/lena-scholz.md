@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Lena Scholz
 permalink: /authors/lena-scholz
 ---

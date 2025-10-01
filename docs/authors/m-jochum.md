@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M. Jochum
 permalink: /authors/m-jochum
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H. Hoang
 permalink: /authors/h-hoang
 ---

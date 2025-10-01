@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Francis Valentinis
 permalink: /authors/francis-valentinis
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yu Xia
 permalink: /authors/yu-xia
 ---

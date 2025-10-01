@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A passivity-based framework for coordinated distributed control of AUV teams: Guaranteeing stability in presence of range communication constraints"
 date: 2016-12-19 00:00:00 +0100
 permalink: a-passivity-based-framework-for-coordinated-distributed-control-of-auv-teams-guaranteeing-stability-in-presence-of-range-communication-constraints

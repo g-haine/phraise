@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sixu Wu
 permalink: /authors/sixu-wu
 ---

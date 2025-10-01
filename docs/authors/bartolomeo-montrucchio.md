@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bartolomeo Montrucchio
 permalink: /authors/bartolomeo-montrucchio
 ---

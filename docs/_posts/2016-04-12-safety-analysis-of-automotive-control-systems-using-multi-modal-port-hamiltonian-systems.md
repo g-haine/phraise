@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Safety Analysis of Automotive Control Systems Using Multi-Modal Port-Hamiltonian Systems"
 date: 2016-04-12 00:00:00 +0100
 permalink: safety-analysis-of-automotive-control-systems-using-multi-modal-port-hamiltonian-systems

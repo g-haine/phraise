@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bouchra Elghazi
 permalink: /authors/bouchra-elghazi
 ---

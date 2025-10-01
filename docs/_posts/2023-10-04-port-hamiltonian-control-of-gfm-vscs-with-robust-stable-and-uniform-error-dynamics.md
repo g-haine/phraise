@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Control of GFM-VSCs With Robust Stable and Uniform Error Dynamics"
 date: 2023-10-04 00:00:00 +0100
 permalink: port-hamiltonian-control-of-gfm-vscs-with-robust-stable-and-uniform-error-dynamics

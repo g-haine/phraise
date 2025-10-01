@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Sølve Eidnes
 permalink: /authors/solve-eidnes
 ---

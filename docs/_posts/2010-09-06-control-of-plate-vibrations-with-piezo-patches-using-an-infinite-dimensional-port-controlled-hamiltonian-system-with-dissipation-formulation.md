@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Control of Plate Vibrations with Piezo Patches using an Infinite Dimensional Port Controlled Hamiltonian System with Dissipation Formulation"
 date: 2010-09-06 00:00:00 +0100
 permalink: control-of-plate-vibrations-with-piezo-patches-using-an-infinite-dimensional-port-controlled-hamiltonian-system-with-dissipation-formulation

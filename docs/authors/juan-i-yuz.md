@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan I. Yuz
 permalink: /authors/juan-i-yuz
 ---

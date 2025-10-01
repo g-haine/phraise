@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New results on PID passivity-based controllers for port-Hamiltonian systems"
 date: 2018-06-18 00:00:00 +0100
 permalink: new-results-on-pid-passivity-based-controllers-for-port-hamiltonian-systems

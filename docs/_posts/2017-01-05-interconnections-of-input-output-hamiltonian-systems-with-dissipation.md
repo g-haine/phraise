@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconnections of input-output Hamiltonian systems with dissipation"
 date: 2017-01-05 00:00:00 +0100
 permalink: interconnections-of-input-output-hamiltonian-systems-with-dissipation

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tingjun Lin
 permalink: /authors/tingjun-lin
 ---

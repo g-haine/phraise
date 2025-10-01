@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Timo Reis
 permalink: /authors/timo-reis
 ---

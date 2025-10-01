@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andreas Kugi
 permalink: /authors/andreas-kugi
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "USING BOND GRAPHS FOR MODELLING,IDENTIFICATION AND CONTROL OF A FIXED WING UAV FOR SUBSCALE FLIGHT TESTING"
 date: 2019-12-04 00:00:00 +0100
 permalink: using-bond-graphs-for-modelling-identification-and-control-of-a-fixed-wing-uav-for-subscale-flight-testing

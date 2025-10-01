@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zili Cai
 permalink: /authors/zili-cai
 ---

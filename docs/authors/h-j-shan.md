@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by H. J. Shan
 permalink: /authors/h-j-shan
 ---

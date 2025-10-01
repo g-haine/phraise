@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Felix Hofmann
 permalink: /authors/felix-hofmann
 ---

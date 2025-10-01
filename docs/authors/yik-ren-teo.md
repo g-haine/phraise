@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yik Ren Teo
 permalink: /authors/yik-ren-teo
 ---

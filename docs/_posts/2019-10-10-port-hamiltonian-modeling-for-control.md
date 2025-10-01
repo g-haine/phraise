@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling for Control"
 date: 2019-10-10 00:00:00 +0100
 permalink: port-hamiltonian-modeling-for-control

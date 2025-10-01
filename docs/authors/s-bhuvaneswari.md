@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S Bhuvaneswari
 permalink: /authors/s-bhuvaneswari
 ---

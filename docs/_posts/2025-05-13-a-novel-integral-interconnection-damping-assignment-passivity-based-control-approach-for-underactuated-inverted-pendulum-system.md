@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Novel Integral Interconnection Damping Assignment Passivity-Based Control Approach for Underactuated Inverted Pendulum System"
 date: 2025-05-13 00:00:00 +0100
 permalink: a-novel-integral-interconnection-damping-assignment-passivity-based-control-approach-for-underactuated-inverted-pendulum-system

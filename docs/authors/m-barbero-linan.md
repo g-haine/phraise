@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by M Barbero-Liñán
 permalink: /authors/m-barbero-linan
 ---

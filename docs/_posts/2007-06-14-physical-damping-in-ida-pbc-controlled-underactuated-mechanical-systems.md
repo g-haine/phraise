@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems"
 date: 2007-06-14 00:00:00 +0100
 permalink: physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems

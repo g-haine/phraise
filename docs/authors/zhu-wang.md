@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Zhu Wang
 permalink: /authors/zhu-wang
 ---

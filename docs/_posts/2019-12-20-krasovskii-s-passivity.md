@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Krasovskii’s Passivity"
 date: 2019-12-20 00:00:00 +0100
 permalink: krasovskii-s-passivity

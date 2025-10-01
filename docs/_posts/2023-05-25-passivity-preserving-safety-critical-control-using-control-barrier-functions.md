@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Preserving Safety-Critical Control Using Control Barrier Functions"
 date: 2023-05-25 00:00:00 +0100
 permalink: passivity-preserving-safety-critical-control-using-control-barrier-functions

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jörn Zimmerling
 permalink: /authors/jorn-zimmerling
 ---

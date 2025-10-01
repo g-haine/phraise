@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Novel Passivity Based Control of Active Magnetic Bearing Systems without Conventional Cross-Feedback"
 date: 2009-07-31 00:00:00 +0100
 permalink: a-novel-passivity-based-control-of-active-magnetic-bearing-systems-without-conventional-cross-feedback

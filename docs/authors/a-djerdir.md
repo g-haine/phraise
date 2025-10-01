@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by A. Djerdir
 permalink: /authors/a-djerdir
 ---

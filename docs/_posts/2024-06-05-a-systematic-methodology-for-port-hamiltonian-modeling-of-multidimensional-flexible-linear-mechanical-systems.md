@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A systematic methodology for port-Hamiltonian modeling of multidimensional flexible linear mechanical systems"
 date: 2024-06-05 00:00:00 +0100
 permalink: a-systematic-methodology-for-port-hamiltonian-modeling-of-multidimensional-flexible-linear-mechanical-systems

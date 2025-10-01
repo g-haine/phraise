@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Power Flow Control of a Doubly-Fed Induction Machine Coupled to a Flywheel"
 date: 2007-06-02 00:00:00 +0100
 permalink: power-flow-control-of-a-doubly-fed-induction-machine-coupled-to-a-flywheel

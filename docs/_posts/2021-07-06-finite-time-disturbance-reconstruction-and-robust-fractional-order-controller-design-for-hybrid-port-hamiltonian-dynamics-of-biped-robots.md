@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time disturbance reconstruction and robust fractional-order controller design for hybrid port-Hamiltonian dynamics of biped robots"
 date: 2021-07-06 00:00:00 +0100
 permalink: finite-time-disturbance-reconstruction-and-robust-fractional-order-controller-design-for-hybrid-port-hamiltonian-dynamics-of-biped-robots

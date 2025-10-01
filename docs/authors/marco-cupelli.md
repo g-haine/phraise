@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Marco Cupelli
 permalink: /authors/marco-cupelli
 ---

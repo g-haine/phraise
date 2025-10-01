@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xin-Chun Jia
 permalink: /authors/xin-chun-jia
 ---

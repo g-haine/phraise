@@ -129,7 +129,6 @@ create_markdown_post () {
     echo $(date -Iseconds)" Post under creation: $output_md"
 
     echo "---" > "$output_md"
-    echo "layout: post" >> "$output_md"
     title=$(echo "$data" | jq -r .title)
     title=$(mathjaxify "$title" | sed -e 's/\\/\\\\/g')
     echo "title: \"$title\"" >> "$output_md"
@@ -229,13 +228,16 @@ create_markdown_post () {
     
 echo $(date -Iseconds)" Start creation!"
 # Boucle à travers toutes les entrées du JSON et génère les posts
-jq -c '.[]' "$BIBLIO_JSON" | while IFS= read -r entry; do
+max_jobs=100
+while IFS= read -r entry; do
     create_markdown_post "$entry" &
-    # Parallèlisé jusqu'à 16 processus
-    [ $( jobs | wc -l ) -ge 16 ] && wait
-done
-
-sleep 15
+    # Throttle : on attend qu'au moins un job finisse si on atteint la limite
+    while [ "$(jobs -rp | wc -l)" -ge "$max_jobs" ]; do
+        wait -n
+    done
+done < <(jq -c '.[]' "$BIBLIO_JSON")
+# S'assure que toutes les pages ont bien été créées avant de poursuivre
+wait
 
 # Enfin, on supprime les fichiers .bib orphelins s'il en existe
 POST_DIR="_posts"

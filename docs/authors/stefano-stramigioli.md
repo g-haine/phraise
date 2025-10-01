@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stefano Stramigioli
 permalink: /authors/stefano-stramigioli
 ---

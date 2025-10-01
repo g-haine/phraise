@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dynamic positioning of marine craft using a port-Hamiltonian framework"
 date: 2012-03-16 00:00:00 +0100
 permalink: dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework

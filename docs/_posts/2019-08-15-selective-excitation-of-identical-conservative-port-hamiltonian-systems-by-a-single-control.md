@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Selective excitation of identical conservative port-Hamiltonian systems by a single control"
 date: 2019-08-15 00:00:00 +0100
 permalink: selective-excitation-of-identical-conservative-port-hamiltonian-systems-by-a-single-control

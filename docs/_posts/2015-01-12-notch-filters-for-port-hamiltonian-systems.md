@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Notch Filters for Port-Hamiltonian Systems"
 date: 2015-01-12 00:00:00 +0100
 permalink: notch-filters-for-port-hamiltonian-systems

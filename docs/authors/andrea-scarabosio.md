@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Andrea Scarabosio
 permalink: /authors/andrea-scarabosio
 ---

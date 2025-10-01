@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Alessandro Astolfi
 permalink: /authors/alessandro-astolfi
 ---

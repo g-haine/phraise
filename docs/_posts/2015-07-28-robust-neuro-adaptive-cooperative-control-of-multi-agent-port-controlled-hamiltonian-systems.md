@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Robust neuro‐adaptive cooperative control of multi‐agent port‐controlled Hamiltonian systems"
 date: 2015-07-28 00:00:00 +0100
 permalink: robust-neuro-adaptive-cooperative-control-of-multi-agent-port-controlled-hamiltonian-systems

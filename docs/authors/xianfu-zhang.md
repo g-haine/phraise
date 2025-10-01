@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xianfu Zhang
 permalink: /authors/xianfu-zhang
 ---

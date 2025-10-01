@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite-time robust control for transformerless H-bridge cascaded STATCOM with star configuration"
 date: 2019-07-31 00:00:00 +0100
 permalink: finite-time-robust-control-for-transformerless-h-bridge-cascaded-statcom-with-star-configuration

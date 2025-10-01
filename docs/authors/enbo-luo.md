@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Enbo Luo
 permalink: /authors/enbo-luo
 ---

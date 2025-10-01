@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Safya Belghith
 permalink: /authors/safya-belghith
 ---

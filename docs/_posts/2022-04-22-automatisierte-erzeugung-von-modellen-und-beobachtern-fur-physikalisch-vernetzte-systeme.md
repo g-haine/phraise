@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Automatisierte Erzeugung von Modellen und Beobachtern für physikalisch vernetzte Systeme"
 date: 2022-04-22 00:00:00 +0100
 permalink: automatisierte-erzeugung-von-modellen-und-beobachtern-fur-physikalisch-vernetzte-systeme

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Olof J. Staffans
 permalink: /authors/olof-j-staffans
 ---

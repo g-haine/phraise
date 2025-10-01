@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Practical symplectic partitioned Runge–Kutta and Runge–Kutta–Nyström methods"
 date: 2002-07-25 00:00:00 +0100
 permalink: practical-symplectic-partitioned-runge-kutta-and-runge-kutta-nystrom-methods

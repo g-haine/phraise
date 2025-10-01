@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Deviation bounds in multi agent systems described by undirected graphs"
 date: 2016-02-05 00:00:00 +0100
 permalink: deviation-bounds-in-multi-agent-systems-described-by-undirected-graphs

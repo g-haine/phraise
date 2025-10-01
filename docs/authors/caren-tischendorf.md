@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Caren Tischendorf
 permalink: /authors/caren-tischendorf
 ---

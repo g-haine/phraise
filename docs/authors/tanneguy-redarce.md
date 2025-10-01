@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Tanneguy Redarce
 permalink: /authors/tanneguy-redarce
 ---

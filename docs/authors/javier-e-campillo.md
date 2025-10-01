@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Javier Campillo
 permalink: /authors/javier-e-campillo
 ---

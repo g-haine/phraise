@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Qiuye Sun
 permalink: /authors/qiuye-sun
 ---

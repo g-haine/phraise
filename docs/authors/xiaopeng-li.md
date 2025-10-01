@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaopeng Li
 permalink: /authors/xiaopeng-li
 ---

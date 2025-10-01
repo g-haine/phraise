@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Mei Zhao
 permalink: /authors/mei-zhao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jian Chen
 permalink: /authors/jian-chen
 ---

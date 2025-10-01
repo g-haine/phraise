@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Juan E. Machado
 permalink: /authors/juan-e-machado
 ---

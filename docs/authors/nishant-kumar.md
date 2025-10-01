@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nishant Kumar
 permalink: /authors/nishant-kumar
 ---

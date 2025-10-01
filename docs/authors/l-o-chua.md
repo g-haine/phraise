@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by L.O. Chua
 permalink: /authors/l-o-chua
 ---

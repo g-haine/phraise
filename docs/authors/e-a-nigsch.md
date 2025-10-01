@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by E.A. Nigsch
 permalink: /authors/e-a-nigsch
 ---

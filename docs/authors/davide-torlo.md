@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Davide Torlo
 permalink: /authors/davide-torlo
 ---

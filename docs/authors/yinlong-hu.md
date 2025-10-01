@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yinlong Hu
 permalink: /authors/yinlong-hu
 ---

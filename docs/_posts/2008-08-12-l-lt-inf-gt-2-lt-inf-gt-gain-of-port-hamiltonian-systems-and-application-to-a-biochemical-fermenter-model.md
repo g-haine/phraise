@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "L&lt;inf&gt;2&lt;/inf&gt;-gain of Port-Hamiltonian systems and application to a biochemical fermenter model"
 date: 2008-08-12 00:00:00 +0100
 permalink: l-lt-inf-gt-2-lt-inf-gt-gain-of-port-hamiltonian-systems-and-application-to-a-biochemical-fermenter-model

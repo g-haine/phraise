@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Denis V. Novitsky
 permalink: /authors/denis-v-novitsky
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ryusuke Ebimoto
 permalink: /authors/ryusuke-ebimoto
 ---

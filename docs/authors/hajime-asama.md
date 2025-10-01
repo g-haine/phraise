@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hajime Asama
 permalink: /authors/hajime-asama
 ---

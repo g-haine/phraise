@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Interconection and Damping Assignment Control of the Subactuated TORA Mechanical System"
 date: 2020-11-09 00:00:00 +0100
 permalink: interconection-and-damping-assignment-control-of-the-subactuated-tora-mechanical-system

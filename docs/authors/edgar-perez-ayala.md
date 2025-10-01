@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Edgar Perez Ayala
 permalink: /authors/edgar-perez-ayala
 ---

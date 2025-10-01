@@ -1,7 +1,21 @@
-_site
-.env
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
+# Bundler artifacts
+.bundle/
+vendor/bundle/
 Gemfile.lock
-vendor
+
+# Jekyll build output
+_site/
+docs/_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Sass cache
+.sass-cache/
+docs/.sass-cache/
+
+# Ruby version manager files
+.ruby-version
+.rbenv-version
+
+# Personal tokens
+.env

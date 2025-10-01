@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luis Pablo Borja
 permalink: /authors/luis-pablo-borja
 ---

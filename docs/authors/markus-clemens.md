@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Markus Clemens
 permalink: /authors/markus-clemens
 ---

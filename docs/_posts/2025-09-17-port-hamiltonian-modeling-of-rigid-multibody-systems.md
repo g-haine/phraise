@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian modeling of rigid multibody systems"
 date: 2025-09-17 00:00:00 +0100
 permalink: port-hamiltonian-modeling-of-rigid-multibody-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Stefan Seelecke
 permalink: /authors/stefan-seelecke
 ---

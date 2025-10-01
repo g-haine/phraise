@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ernest Benedito
 permalink: /authors/ernest-benedito
 ---

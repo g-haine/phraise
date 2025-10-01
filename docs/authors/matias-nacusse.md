@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Matías Nacusse
 permalink: /authors/matias-nacusse
 ---

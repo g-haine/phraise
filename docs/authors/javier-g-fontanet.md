@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Javier G. Fontanet
 permalink: /authors/javier-g-fontanet
 ---

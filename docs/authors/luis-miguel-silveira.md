@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luis Miguel Silveira
 permalink: /authors/luis-miguel-silveira
 ---

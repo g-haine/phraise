@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Bing Qiang Shan
 permalink: /authors/bing-qiang-shan
 ---

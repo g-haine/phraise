@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by G. Grabmair
 permalink: /authors/g-grabmair
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Output synchronization of multi-agent port-Hamiltonian systems with link dynamics"
 date: 2016-03-20 00:00:00 +0100
 permalink: output-synchronization-of-multi-agent-port-hamiltonian-systems-with-link-dynamics

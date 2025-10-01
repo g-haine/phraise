@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control of spatially discretized port-Hamiltonian system"
 date: 2011-03-10 00:00:00 +0100
 permalink: passivity-based-control-of-spatially-discretized-port-hamiltonian-system

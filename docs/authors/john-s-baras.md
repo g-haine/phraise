@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by John S. Baras
 permalink: /authors/john-s-baras
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Abdullah Altawaitan
 permalink: /authors/abdullah-altawaitan
 ---

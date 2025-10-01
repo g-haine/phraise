@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Vaibhav Kumar Singh
 permalink: /authors/vaibhav-kumar-singh
 ---

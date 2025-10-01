@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Casimir based Analysis of a Class of the General Actuator Model"
 date: 2024-09-25 00:00:00 +0100
 permalink: a-casimir-based-analysis-of-a-class-of-the-general-actuator-model

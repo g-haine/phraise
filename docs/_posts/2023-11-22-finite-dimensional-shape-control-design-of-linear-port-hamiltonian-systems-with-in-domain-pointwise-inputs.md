@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite dimensional shape control design of linear port-Hamiltonian systems with in-domain pointwise inputs"
 date: 2023-11-22 00:00:00 +0100
 permalink: finite-dimensional-shape-control-design-of-linear-port-hamiltonian-systems-with-in-domain-pointwise-inputs

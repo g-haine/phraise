@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by X. Wu
 permalink: /authors/x-wu
 ---

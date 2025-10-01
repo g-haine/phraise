@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Rui Yu
 permalink: /authors/rui-yu
 ---

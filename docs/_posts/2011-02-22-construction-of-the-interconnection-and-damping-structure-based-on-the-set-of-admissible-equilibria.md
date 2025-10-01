@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Construction of the interconnection and damping structure based on the set of admissible equilibria"
 date: 2011-02-22 00:00:00 +0100
 permalink: construction-of-the-interconnection-and-damping-structure-based-on-the-set-of-admissible-equilibria

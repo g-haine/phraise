@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xian Yang
 permalink: /authors/xian-yang
 ---

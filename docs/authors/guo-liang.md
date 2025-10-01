@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Guo Liang
 permalink: /authors/guo-liang
 ---

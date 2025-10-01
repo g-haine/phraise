@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Nguyen Duy Tan
 permalink: /authors/nguyen-duy-tan
 ---

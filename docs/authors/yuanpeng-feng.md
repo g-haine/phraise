@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuanpeng Feng
 permalink: /authors/yuanpeng-feng
 ---

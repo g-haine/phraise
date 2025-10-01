@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Unambiguous scattering matrix for non-Hermitian systems"
 date: 2020-04-23 00:00:00 +0100
 permalink: unambiguous-scattering-matrix-for-non-hermitian-systems

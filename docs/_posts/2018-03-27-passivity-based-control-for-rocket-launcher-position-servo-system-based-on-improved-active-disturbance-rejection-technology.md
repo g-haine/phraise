@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-based control for rocket launcher position servo system based on improved active disturbance rejection technology"
 date: 2018-03-27 00:00:00 +0100
 permalink: passivity-based-control-for-rocket-launcher-position-servo-system-based-on-improved-active-disturbance-rejection-technology

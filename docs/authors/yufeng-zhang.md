@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yufeng Zhang
 permalink: /authors/yufeng-zhang
 ---

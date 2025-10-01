@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An irreversible port-Hamiltonian model for a class of piezoelectric actuators"
 date: 2021-11-01 00:00:00 +0100
 permalink: an-irreversible-port-hamiltonian-model-for-a-class-of-piezoelectric-actuators

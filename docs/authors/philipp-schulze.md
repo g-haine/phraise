@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Philipp Schulze
 permalink: /authors/philipp-schulze
 ---

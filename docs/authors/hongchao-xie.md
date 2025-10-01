@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hongchao Xie
 permalink: /authors/hongchao-xie
 ---

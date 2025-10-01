@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model Based Position Control of Soft Hydraulic Actuators"
 date: 2023-07-04 00:00:00 +0100
 permalink: model-based-position-control-of-soft-hydraulic-actuators

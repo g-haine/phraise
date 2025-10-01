@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Benoit Fabre
 permalink: /authors/benoit-fabre
 ---

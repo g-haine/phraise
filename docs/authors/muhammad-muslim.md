@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Muhammad Muslim
 permalink: /authors/muhammad-muslim
 ---

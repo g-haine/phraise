@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the feedforward control problem for discretized port-Hamiltonian systems"
 date: 2014-10-08 00:00:00 +0100
 permalink: on-the-feedforward-control-problem-for-discretized-port-hamiltonian-systems

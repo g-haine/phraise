@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by François Gay-Balmaz
 permalink: /authors/francois-gay-balmaz
 ---

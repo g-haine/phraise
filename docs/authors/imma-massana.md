@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Imma Massana
 permalink: /authors/imma-massana
 ---

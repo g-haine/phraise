@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chenyu Wu
 permalink: /authors/chenyu-wu
 ---

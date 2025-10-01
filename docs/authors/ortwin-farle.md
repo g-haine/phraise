@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Ortwin Farle
 permalink: /authors/ortwin-farle
 ---

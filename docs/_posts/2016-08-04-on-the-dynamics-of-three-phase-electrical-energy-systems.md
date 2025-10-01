@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On the dynamics of three phase electrical energy systems"
 date: 2016-08-04 00:00:00 +0100
 permalink: on-the-dynamics-of-three-phase-electrical-energy-systems

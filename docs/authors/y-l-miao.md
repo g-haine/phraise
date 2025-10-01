@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Y L Miao
 permalink: /authors/y-l-miao
 ---

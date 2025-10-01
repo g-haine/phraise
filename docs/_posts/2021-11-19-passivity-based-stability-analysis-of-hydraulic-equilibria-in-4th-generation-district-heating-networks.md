@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passivity-Based Stability Analysis of Hydraulic Equilibria in 4th Generation District Heating Networks"
 date: 2021-11-19 00:00:00 +0100
 permalink: passivity-based-stability-analysis-of-hydraulic-equilibria-in-4th-generation-district-heating-networks

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A System Reference Frame Approach for Stability Analysis and Control of Power Grids"
 date: 2019-02-19 00:00:00 +0100
 permalink: a-system-reference-frame-approach-for-stability-analysis-and-control-of-power-grids

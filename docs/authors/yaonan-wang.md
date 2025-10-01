@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yaonan Wang
 permalink: /authors/yaonan-wang
 ---

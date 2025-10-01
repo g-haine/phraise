@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Airong Wei
 permalink: /authors/airong-wei
 ---

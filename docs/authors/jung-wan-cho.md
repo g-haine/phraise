@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Jung Wan Cho
 permalink: /authors/jung-wan-cho
 ---

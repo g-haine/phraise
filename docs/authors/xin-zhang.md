@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xin Zhang
 permalink: /authors/xin-zhang
 ---

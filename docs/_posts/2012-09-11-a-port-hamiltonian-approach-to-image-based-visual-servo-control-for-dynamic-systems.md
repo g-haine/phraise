@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian approach to image-based visual servo control for dynamic systems"
 date: 2012-09-11 00:00:00 +0100
 permalink: a-port-hamiltonian-approach-to-image-based-visual-servo-control-for-dynamic-systems

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Chi Zhang
 permalink: /authors/chi-zhang
 ---

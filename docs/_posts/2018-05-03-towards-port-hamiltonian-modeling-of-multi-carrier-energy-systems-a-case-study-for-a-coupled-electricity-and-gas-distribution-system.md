@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Towards Port-Hamiltonian Modeling of Multi-Carrier Energy Systems: A Case Study for a Coupled Electricity and Gas Distribution System"
 date: 2018-05-03 00:00:00 +0100
 permalink: towards-port-hamiltonian-modeling-of-multi-carrier-energy-systems-a-case-study-for-a-coupled-electricity-and-gas-distribution-system

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A port-Hamiltonian model of airplane longitudinal dynamics"
 date: 2024-09-25 00:00:00 +0100
 permalink: a-port-hamiltonian-model-of-airplane-longitudinal-dynamics

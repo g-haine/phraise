@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Discrete conservation properties for shallow water flows using mixed mimetic spectral elements"
 date: 2017-12-20 00:00:00 +0100
 permalink: discrete-conservation-properties-for-shallow-water-flows-using-mixed-mimetic-spectral-elements

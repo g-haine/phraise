@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xiaochen Wei
 permalink: /authors/xiaochen-wei
 ---

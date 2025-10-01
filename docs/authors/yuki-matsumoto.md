@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuki Matsumoto
 permalink: /authors/yuki-matsumoto
 ---

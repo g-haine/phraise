@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Amnah El-Obaid
 permalink: /authors/amnah-el-obaid
 ---

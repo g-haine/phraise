@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian System Modelling and Geometric Numerical Integrator for Synchronous Generators"
 date: 2025-03-26 00:00:00 +0100
 permalink: port-hamiltonian-system-modelling-and-geometric-numerical-integrator-for-synchronous-generators

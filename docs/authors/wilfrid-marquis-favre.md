@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Wilfrid Marquis-Favre
 permalink: /authors/wilfrid-marquis-favre
 ---

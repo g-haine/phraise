@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Adam Błoch
 permalink: /authors/adam-bloch
 ---

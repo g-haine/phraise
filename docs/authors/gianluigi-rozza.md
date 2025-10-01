@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Gianluigi Rozza
 permalink: /authors/gianluigi-rozza
 ---

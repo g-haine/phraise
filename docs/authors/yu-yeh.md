@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yu Yeh
 permalink: /authors/yu-yeh
 ---

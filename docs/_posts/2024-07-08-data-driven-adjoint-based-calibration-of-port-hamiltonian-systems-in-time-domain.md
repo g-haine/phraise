@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Data-driven adjoint-based calibration of port-Hamiltonian systems in time domain"
 date: 2024-07-08 00:00:00 +0100
 permalink: data-driven-adjoint-based-calibration-of-port-hamiltonian-systems-in-time-domain

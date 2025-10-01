@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Elham Tajik
 permalink: /authors/elham-tajik
 ---

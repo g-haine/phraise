@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on LC Filter Cascaded with Buck Converter Supplying Constant Power Load Based on IDA-Passivity-Based Control"
 date: 2019-01-18 00:00:00 +0100
 permalink: research-on-lc-filter-cascaded-with-buck-converter-supplying-constant-power-load-based-on-ida-passivity-based-control

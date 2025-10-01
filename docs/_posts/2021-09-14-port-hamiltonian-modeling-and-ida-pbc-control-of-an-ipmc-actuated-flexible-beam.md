@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-Hamiltonian Modeling and IDA-PBC Control of an IPMC-Actuated Flexible Beam"
 date: 2021-09-14 00:00:00 +0100
 permalink: port-hamiltonian-modeling-and-ida-pbc-control-of-an-ipmc-actuated-flexible-beam

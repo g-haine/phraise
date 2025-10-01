@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Oliver Sawodny
 permalink: /authors/oliver-sawodny
 ---

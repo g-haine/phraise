@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by B. Gharesifard
 permalink: /authors/b-gharesifard
 ---

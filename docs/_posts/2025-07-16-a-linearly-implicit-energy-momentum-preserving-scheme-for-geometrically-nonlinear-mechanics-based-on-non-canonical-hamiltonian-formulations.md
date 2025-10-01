@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A linearly-implicit energy-momentum preserving scheme for geometrically nonlinear mechanics based on non-canonical Hamiltonian formulations"
 date: 2025-07-16 00:00:00 +0100
 permalink: a-linearly-implicit-energy-momentum-preserving-scheme-for-geometrically-nonlinear-mechanics-based-on-non-canonical-hamiltonian-formulations

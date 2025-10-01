@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Hong Huang
 permalink: /authors/hong-huang
 ---

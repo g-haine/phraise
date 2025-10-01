@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Xudong Zhao
 permalink: /authors/xudong-zhao
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Slim Tnani
 permalink: /authors/slim-tnani
 ---

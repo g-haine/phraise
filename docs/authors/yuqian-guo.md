@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Yuqian Guo
 permalink: /authors/yuqian-guo
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Anne-Sophie Treton
 permalink: /authors/anne-sophie-treton
 ---

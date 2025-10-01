@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On-Chip Multi 4-Port Optical Circulators"
 date: 2014-01-24 00:00:00 +0100
 permalink: on-chip-multi-4-port-optical-circulators

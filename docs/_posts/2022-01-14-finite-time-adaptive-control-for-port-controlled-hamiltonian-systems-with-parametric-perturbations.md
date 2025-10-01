@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite‐time adaptive control for port‐controlled Hamiltonian systems with parametric perturbations"
 date: 2022-01-14 00:00:00 +0100
 permalink: finite-time-adaptive-control-for-port-controlled-hamiltonian-systems-with-parametric-perturbations

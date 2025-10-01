@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stabilization of infinite dimensional port-Hamiltonian systems by nonlinear dynamic boundary control"
 date: 2017-08-18 00:00:00 +0100
 permalink: stabilization-of-infinite-dimensional-port-hamiltonian-systems-by-nonlinear-dynamic-boundary-control

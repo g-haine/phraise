@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Port-hamiltonian formulation of an electrical circuit using different kinds of states"
 date: 2024-07-03 00:00:00 +0100
 permalink: port-hamiltonian-formulation-of-an-electrical-circuit-using-different-kinds-of-states

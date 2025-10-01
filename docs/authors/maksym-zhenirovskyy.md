@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Maksym Zhenirovskyy
 permalink: /authors/maksym-zhenirovskyy
 ---

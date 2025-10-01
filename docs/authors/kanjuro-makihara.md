@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Kanjuro Makihara
 permalink: /authors/kanjuro-makihara
 ---

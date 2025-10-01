@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finite time simultaneous stabilization of two single input nonlinear port-controlled hamiltonian disturbed systems"
 date: 2017-09-29 00:00:00 +0100
 permalink: finite-time-simultaneous-stabilization-of-two-single-input-nonlinear-port-controlled-hamiltonian-disturbed-systems

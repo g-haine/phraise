@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by S. Drid
 permalink: /authors/s-drid
 ---

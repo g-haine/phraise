@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Paul Maya-Ortiz
 permalink: /authors/paul-maya-ortiz
 ---

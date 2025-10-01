@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Dmitry Gromov
 permalink: /authors/dmitry-gromov
 ---

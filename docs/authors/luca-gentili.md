@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luca Gentili
 permalink: /authors/luca-gentili
 ---

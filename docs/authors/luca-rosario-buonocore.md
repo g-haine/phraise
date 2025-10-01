@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Publications by Luca Rosario Buonocore
 permalink: /authors/luca-rosario-buonocore
 ---

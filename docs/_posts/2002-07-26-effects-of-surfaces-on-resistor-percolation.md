@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Effects of surfaces on resistor percolation"
 date: 2002-07-26 00:00:00 +0100
 permalink: effects-of-surfaces-on-resistor-percolation
