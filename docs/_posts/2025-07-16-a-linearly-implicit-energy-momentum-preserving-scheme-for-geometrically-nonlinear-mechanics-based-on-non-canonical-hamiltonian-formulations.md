@@ -5,6 +5,12 @@ permalink: a-linearly-implicit-energy-momentum-preserving-scheme-for-geometrical
 year: 2025
 authors: Andrea Brugnoli, Denis Matignon, Joseph Morlier
 category: articles
+tags:
+  - Geometrically-nonlinear mechanics
+  - Geometric numerical integration
+  - Exact energy conservation
+  - Hamiltonian dynamics
+  - mixed finite elements
 ---
  
 ## Authors
@@ -13,12 +19,15 @@ category: articles
 ## Abstract
 This work presents a novel formulation and numerical strategy for the simulation of geometrically nonlinear structures. First, a non-canonical Hamiltonian (Poisson) formulation is introduced by including the dynamics of the stress tensor. This framework is developed for von-Kármán nonlinearities in beams and plates, as well as geometrically nonlinear elasticity with Saint-Venant material behavior. In the case of plates, both negligible and non-negligible membrane inertia are considered. For the former case the two-dimensional elasticity complex is leveraged to express the dynamics in terms of the Airy stress function. The finite element discretization employs a mixed approach, combining a conforming approximation for displacement and velocity fields with a discontinuous stress tensor representation. A staggered, linear implicit time integration scheme is proposed, establishing connections with existing explicit-implicit energy-preserving methods. The stress degrees of freedom are statically condensed, reducing the computational complexity to solving a system with a positive definite matrix. The integration strategy preserves energy and angular momentum exactly. The methodology is validated through numerical experiments on the Duffing oscillator, a von-Kármán beam, and a column undergoing finite deformations. Comparisons with fully implicit energy-preserving method and the leapfrog scheme demonstrate that the proposed approach achieves superior accuracy while maintaining energy stability. Additionally, it enables larger time steps compared to explicit schemes and exhibits computational efficiency comparable to the leapfrog method.
  
+## Keywords
+Geometrically-nonlinear mechanics; Geometric numerical integration; Exact energy conservation; Hamiltonian dynamics; mixed finite elements
+ 
 ## Citation
 - **Journal:** Nonlinear Dynamics
 - **Year:** 2025
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 113
+- **Issue:** 20
+- **Pages:** 27539--27566
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s11071-025-11601-6](https://doi.org/10.1007/s11071-025-11601-6)
  
@@ -27,12 +36,15 @@ This work presents a novel formulation and numerical strategy for the simulation
 {% raw %}
 @article{Brugnoli_2025,
   title={{A linearly-implicit energy-momentum preserving scheme for geometrically nonlinear mechanics based on non-canonical Hamiltonian formulations}},
+  volume={113},
   ISSN={1573-269X},
   DOI={10.1007/s11071-025-11601-6},
+  number={20},
   journal={Nonlinear Dynamics},
   publisher={Springer Science and Business Media LLC},
   author={Brugnoli, Andrea and Matignon, Denis and Morlier, Joseph},
-  year={2025}
+  year={2025},
+  pages={27539--27566}
 }
 {% endraw %}
 {% endhighlight %}
@@ -58,7 +70,7 @@ This work presents a novel formulation and numerical strategy for the simulation
 - Lipnikov, K., Manzini, G. & Shashkov, M. Mimetic finite difference method. Journal of Computational Physics 257, 1163–1227 (2014) -- [10.1016/j.jcp.2013.07.031](https://doi.org/10.1016/j.jcp.2013.07.031)
 - de Borst, R., Crisfield, M. A., Remmers, J. J. C. & Verhoosel, C. V. Non‐Linear Finite Element Analysis of Solids and Structures. (2012) doi:10.1002/9781118375938 -- [10.1002/9781118375938](https://doi.org/10.1002/9781118375938)
 - Newmark, N. M. A Method of Computation for Structural Dynamics. J. Engrg. Mech. Div. 85, 67–94 (1959) -- [10.1061/jmcea3.0000098](https://doi.org/10.1061/jmcea3.0000098)
--  -- [10.1002/1097-0207(20001210)49:10<1295::aid-nme993>3.0.co;2-w](https://doi.org/10.1002/1097-0207(20001210)49:10<1295::aid-nme993>3.0.co;2-w)
+- Kane, C., Marsden, J. E., Ortiz, M. & West, M. Variational integrators and the Newmark algorithm for conservative and dissipative mechanical systems. Int. J. Numer. Meth. Engng. 49, 1295–1325 (2000) -- [10.1002/1097-0207(20001210)49:10<1295::aid-nme993>3.0.co;2-w](https://doi.org/10.1002/1097-0207(20001210)49:10<1295::aid-nme993>3.0.co;2-w)
 - Simo, J. C. & Tarnow, N. The discrete energy-momentum method. Conserving algorithms for nonlinear elastodynamics. Z. angew. Math. Phys. 43, 757–792 (1992) -- [10.1007/bf00913408](https://doi.org/10.1007/bf00913408)
 - McLachlan, R. I., Quispel, G. R. W. & Robidoux, N. Geometric integration using discrete gradients. Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences 357, 1021–1045 (1999) -- [10.1098/rsta.1999.0363](https://doi.org/10.1098/rsta.1999.0363)
 - Franke, M. et al. A novel mixed and energy‐momentum consistent framework for coupled nonlinear thermo‐electro‐elastodynamics. Numerical Meth Engineering 124, 2135–2170 (2023) -- [10.1002/nme.7209](https://doi.org/10.1002/nme.7209)
@@ -70,7 +82,7 @@ This work presents a novel formulation and numerical strategy for the simulation
 - Kröner, E. Allgemeine Kontinuumstheorie der Versetzungen und Eigenspannungen. Arch. Rational Mech. Anal. 4, 273–334 (1959) -- [10.1007/bf00281393](https://doi.org/10.1007/bf00281393)
 - [Thoma, T., Kotyczka, P. & Egger, H. On the velocity-stress formulation for geometrically nonlinear elastodynamics and its structure-preserving discretization. Mathematical and Computer Modelling of Dynamical Systems 30, 701–720 (2024)](on-the-velocity-stress-formulation-for-geometrically-nonlinear-elastodynamics-and-its-structure-preserving-discretization) -- [10.1080/13873954.2024.2397486](https://doi.org/10.1080/13873954.2024.2397486)
 - [Kinon, P. L., Thoma, T., Betsch, P. & Kotyczka, P. Discrete nonlinear elastodynamics in a port‐Hamiltonian framework. Proc Appl Math and Mech 23, (2023)](discrete-nonlinear-elastodynamics-in-a-port-hamiltonian-framework) -- [10.1002/pamm.202300144](https://doi.org/10.1002/pamm.202300144)
-- [Kinon, P. L., Betsch, P. & Eugster, S. R. Energy-momentum-consistent simulation of planar geometrically exact beams in a port-Hamiltonian framework. Multibody Syst Dyn (2025) doi:10.1007/s11044-025-10087-9](energy-momentum-consistent-simulation-of-planar-geometrically-exact-beams-in-a-port-hamiltonian-framework0) -- [10.1007/s11044-025-10087-9](https://doi.org/10.1007/s11044-025-10087-9)
+- [Kinon, P. L., Betsch, P. & Eugster, S. R. Energy-momentum-consistent simulation of planar geometrically exact beams in a port-Hamiltonian framework. Multibody Syst Dyn https://doi.org/10.1007/s11044-025-10087-9 (2025) doi:10.1007/s11044-025-10087-9](energy-momentum-consistent-simulation-of-planar-geometrically-exact-beams-in-a-port-hamiltonian-framework0) -- [10.1007/s11044-025-10087-9](https://doi.org/10.1007/s11044-025-10087-9)
 - Strogatz, S. H. Nonlinear Dynamics and Chaos. (CRC Press, 2018). doi:10.1201/9780429492563 -- [10.1201/9780429492563](https://doi.org/10.1201/9780429492563)
 - Bilbao, S., Thomas, O., Touzé, C. & Ducceschi, M. Conservative numerical methods for the Full von Kármán plate equations. Numerical Methods Partial 31, 1948–1970 (2015) -- [10.1002/num.21974](https://doi.org/10.1002/num.21974)
 - [Brugnoli, A., Alazard, D., Pommier-Budinger, V. & Matignon, D. Port-Hamiltonian formulation and symplectic discretization of plate models Part I: Mindlin model for thick plates. Applied Mathematical Modelling 75, 940–960 (2019)](port-hamiltonian-formulation-and-symplectic-discretization-of-plate-models-part-i-mindlin-model-for-thick-plates) -- [10.1016/j.apm.2019.04.035](https://doi.org/10.1016/j.apm.2019.04.035)
