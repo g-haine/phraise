@@ -2,7 +2,7 @@
 title: "Energy-stable port-Hamiltonian systems"
 date: 2025-10-05 00:00:00 +0100
 permalink: energy-stable-port-hamiltonian-systems
-year: 2025
+year: 2026
 authors: Patrick Buchfink, Silke Glas, Hans Zwart
 category: articles
 tags:
@@ -23,8 +23,8 @@ Energy-stable systems; Port-Hamiltonian systems; Structure-preserving discretiza
  
 ## Citation
 - **Journal:** Applied Mathematics Letters
-- **Year:** 2025
-- **Volume:** 
+- **Year:** 2026
+- **Volume:** 173
 - **Issue:** 
 - **Pages:** 109784
 - **Publisher:** Elsevier BV
@@ -33,14 +33,15 @@ Energy-stable systems; Port-Hamiltonian systems; Structure-preserving discretiza
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Buchfink_2025,
+@article{Buchfink_2026,
   title={{Energy-stable port-Hamiltonian systems}},
+  volume={173},
   ISSN={0893-9659},
   DOI={10.1016/j.aml.2025.109784},
   journal={Applied Mathematics Letters},
   publisher={Elsevier BV},
   author={Buchfink, Patrick and Glas, Silke and Zwart, Hans},
-  year={2025},
+  year={2026},
   pages={109784}
 }
 {% endraw %}

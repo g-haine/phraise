@@ -7,7 +7,7 @@ permalink: /authors/hans-zwart
 <p id='info-authors'>Alternative author names: Hans Zwart, H. Zwart, Hans Zwart, H.J Zwart, H. J. Zwart, Hans J. Zwart, H J Zwart, H.J. Zwart.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2025 -- Patrick Buchfink, Silke Glas, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-stable-port-hamiltonian-systems">Energy-stable port-Hamiltonian systems</a></h3></li>
+<li><span class='post-meta'>2026 -- Patrick Buchfink, Silke Glas, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-stable-port-hamiltonian-systems">Energy-stable port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Bouchra Elghazi, Birgit Jacob, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/well-posedness-of-a-class-of-infinite-dimensional-port-hamiltonian-systems-with-boundary-control-and-observation">Well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation</a></h3></li>
 <li><span class='post-meta'>2025 -- Xiaoyu Cheng, J. J. W. van der Vegt, Yan Xu, H. J. Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/discontinuous-galerkin-finite-element-methods-for-linear-port-hamiltonian-dynamical-systems">Discontinuous Galerkin Finite Element Methods for Linear Port-Hamiltonian Dynamical Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- N. Kumar, H.J. Zwart, J.J.W. van der Vegt</span><h3><a class='post-link' href="{{ site.baseurl }}/dirac-structure-for-linear-dynamical-systems-on-sobolev-spaces">Dirac structure for linear dynamical systems on Sobolev spaces</a></h3></li>
