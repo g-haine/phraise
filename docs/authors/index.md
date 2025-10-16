@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2459 authors referenced.</h3>
+<h3>There are 2461 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -1495,6 +1495,7 @@ permalink: /authors/
 </div>
 ## O
 <div class='grid'>
+<a href='{{ site.baseurl }}/authors/thomas-o-brien'>Thomas O’Brien</a>
 <a href='{{ site.baseurl }}/authors/ian-o-connor'>Ian O'Connor</a>
 <a href='{{ site.baseurl }}/authors/necdet-sinan-ozbek'>Necdet Sinan OZBEK</a>
 <a href='{{ site.baseurl }}/authors/klaus-oerding'>Klaus Oerding</a>
@@ -2295,6 +2296,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/haibo-xie'>Haibo Xie</a>
 <a href='{{ site.baseurl }}/authors/hongchao-xie'>Hongchao Xie</a>
 <a href='{{ site.baseurl }}/authors/junyao-xie'>Junyao Xie</a>
+<a href='{{ site.baseurl }}/authors/kun-xie'>Kun Xie</a>
 <a href='{{ site.baseurl }}/authors/suxia-xie'>Suxia Xie</a>
 <a href='{{ site.baseurl }}/authors/xuejun-xie'>Xuejun Xie</a>
 <a href='{{ site.baseurl }}/authors/zongwu-xie'>Zongwu Xie</a>

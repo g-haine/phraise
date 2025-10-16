@@ -7,6 +7,7 @@ permalink: /authors/joel-ferguson
 <p id='info-authors'>Alternative author names: Joel Ferguson.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Thomas O’Brien, Joel Ferguson, Alejandro Donaire</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-formulation-of-mechanical-systems-with-switching-contact-constraints">A port-Hamiltonian formulation of mechanical systems with switching contact constraints</a></h3></li>
 <li><span class='post-meta'>2024 -- Joel Ferguson, Lihua Zhou, Saeed Ahmed, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-control-by-interconnection-interpretation-of-integral-control-for-port-hamiltonian-systems">On the Control-by-Interconnection interpretation of integral control for port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Joel Ferguson, Christopher Renton</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-representation-of-mechanical-systems-with-velocity-inputs">Port-Hamiltonian Representation of Mechanical Systems With Velocity Inputs</a></h3></li>
 <li><span class='post-meta'>2024 -- Joel Ferguson, Naoki Sakata, Kenji Fujimoto</span><h3><a class='post-link' href="{{ site.baseurl }}/input-to-state-stable-hybrid-momentum-observer-for-mechanical-systems">Input-to-State Stable Hybrid Momentum Observer for Mechanical Systems</a></h3></li>
