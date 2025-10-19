@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2461 authors referenced.</h3>
+<h3>There are 2466 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -13,6 +13,7 @@ permalink: /authors/
 ## A
 <div class='grid'>
 <a href='{{ site.baseurl }}/authors/timur-aydemir'>Timur AYDEMIR</a>
+<a href='{{ site.baseurl }}/authors/t-aasaithambi'>T Aasaithambi</a>
 <a href='{{ site.baseurl }}/authors/ali-reza-abbasi'>Ali Reza Abbasi</a>
 <a href='{{ site.baseurl }}/authors/ghasem-abbasi'>Ghasem Abbasi</a>
 <a href='{{ site.baseurl }}/authors/m-h-abbasi'>M.H. Abbasi</a>
@@ -1310,6 +1311,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/tobias-malzer'>Tobias Malzer</a>
 <a href='{{ site.baseurl }}/authors/alberto-mameli'>Alberto Mameli</a>
 <a href='{{ site.baseurl }}/authors/zhihong-man'>Zhihong Man</a>
+<a href='{{ site.baseurl }}/authors/s-manimala'>S Manimala</a>
 <a href='{{ site.baseurl }}/authors/narayan-suresh-manjarekar'>Narayan Suresh Manjarekar</a>
 <a href='{{ site.baseurl }}/authors/rutvika-manohar'>Rutvika Manohar</a>
 <a href='{{ site.baseurl }}/authors/r-j-mantz'>R. J. Mantz</a>
@@ -1676,6 +1678,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/sandhya-rathore'>Sandhya Rathore</a>
 <a href='{{ site.baseurl }}/authors/tudor-ratiu'>Tudor Ratiu</a>
 <a href='{{ site.baseurl }}/authors/lukas-rausche'>Lukas Rausche</a>
+<a href='{{ site.baseurl }}/authors/kumar-r-ravi'>Kumar R Ravi</a>
 <a href='{{ site.baseurl }}/authors/balaraman-ravindran'>Balaraman Ravindran</a>
 <a href='{{ site.baseurl }}/authors/philippe-raynal'>Philippe Raynal</a>
 <a href='{{ site.baseurl }}/authors/tanneguy-redarce'>Tanneguy Redarce</a>
@@ -1819,6 +1822,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/jacob-seidman'>Jacob Seidman</a>
 <a href='{{ site.baseurl }}/authors/robert-seifried'>Robert Seifried</a>
 <a href='{{ site.baseurl }}/authors/gokcen-devlet-sen'>Gökçen Devlet Şen</a>
+<a href='{{ site.baseurl }}/authors/s-senthilkumar'>S Senthilkumar</a>
 <a href='{{ site.baseurl }}/authors/alexander-v-sergienko'>Alexander V. Sergienko</a>
 <a href='{{ site.baseurl }}/authors/delgado-l-sergio'>Delgado L. Sergio</a>
 <a href='{{ site.baseurl }}/authors/anass-serhani'>Anass Serhani</a>
@@ -1947,6 +1951,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/tatjana-stykel'>Tatjana Stykel</a>
 <a href='{{ site.baseurl }}/authors/hongye-su'>Hongye Su</a>
 <a href='{{ site.baseurl }}/authors/miguel-s-suarez-castanon'>Miguel S. Suarez‐Castanon</a>
+<a href='{{ site.baseurl }}/authors/k-suganya'>K Suganya</a>
 <a href='{{ site.baseurl }}/authors/toshiharu-sugie'>Toshiharu Sugie</a>
 <a href='{{ site.baseurl }}/authors/arif-sugiharto'>Arif Sugiharto</a>
 <a href='{{ site.baseurl }}/authors/motonobu-sugiura'>Motonobu Sugiura</a>
