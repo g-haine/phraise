@@ -5,7 +5,7 @@ layout: page
   {%- if site.categories[page.category].size > 0 -%}
     {%- assign collection = site.categories[page.category] | group_by: 'year' %}
     {%- if collection and collection.size > 0 -%}
-      <h3>There are {{ collection.size }} items referenced in this category.</h3>
+      <h3>There are {{ site.categories[page.category].size }} items referenced in this category.</h3>
       {%- assign yearsSorted = collection | sort: 'name' | reverse -%}
       <ul class="post-list">
         {%- for y in yearsSorted -%}
