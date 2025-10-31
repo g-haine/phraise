@@ -8,6 +8,7 @@ permalink: /authors/ignacio-diaz
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Ignacio Diaz, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/control-oriented-modular-modelling-of-a-floating-wind-turbine-the-port-hamiltonian-approach">Control Oriented Modular Modelling of a Floating Wind Turbine: The Port-Hamiltonian Approach</a></h3></li>
+<li><span class='post-meta'>2025 -- Ignacio Díaz, Héctor Ramírez, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/modular-passivity-based-modelling-of-piezoelectric-actuators">Modular passivity-based modelling of piezoelectric actuators</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

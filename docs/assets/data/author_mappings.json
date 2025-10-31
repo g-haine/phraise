@@ -1251,6 +1251,8 @@
 ,
   "zhikang-ge": [ "Zhikang Ge" ]
 ,
+  "hua-geng": [ "Hua Geng" ]
+,
   "yuwei-geng": [ "Yuwei Geng" ]
 ,
   "zhaozhao-geng": [ "Zhaozhao Geng" ]
@@ -1432,6 +1434,8 @@
   "xu-guizhi": [ "Xu Guizhi", "null Xu Guizhi" ]
 ,
   "michael-gunther": [ "Michael Günther", "M. Günther" ]
+,
+  "bao-zhu-guo": [ "Bao-Zhu Guo", "Bao‐Zhu Guo", "Bao Zhu Guo", "B.‐Z. Guo", "Baozhu Guo", "B.Z Guo" ]
 ,
   "dongsheng-guo": [ "Dongsheng Guo" ]
 ,
@@ -2243,6 +2247,8 @@
 ,
   "maoqing-li": [ "Maoqing Li" ]
 ,
+  "ming-li": [ "Ming Li" ]
+,
   "ningbo-li": [ "Ningbo Li" ]
 ,
   "peilun-li": [ "Peilun Li" ]
@@ -2370,6 +2376,8 @@
   "dongmei-liu": [ "Dongmei Liu" ]
 ,
   "dongqing-liu": [ "Dongqing Liu" ]
+,
+  "enjun-liu": [ "Enjun Liu" ]
 ,
   "fei-liu": [ "Fei Liu" ]
 ,
@@ -2586,6 +2594,8 @@
   "rutvika-manohar": [ "Rutvika Manohar" ]
 ,
   "r-j-mantz": [ "R. J. Mantz" ]
+,
+  "yongtao-mao": [ "Yongtao Mao", "Yong‐Tao Mao", "Yong Tao Mao" ]
 ,
   "david-marchiori": [ "David Marchiori" ]
 ,
@@ -4313,6 +4323,8 @@
 ,
   "xifan-wang": [ "Xifan Wang", "Xifan WANG" ]
 ,
+  "xing-wang": [ "Xing Wang" ]
+,
   "xinghu-wang": [ "Xinghu Wang" ]
 ,
   "xinyu-wang": [ "Xinyu Wang" ]
@@ -4669,6 +4681,8 @@
 ,
   "daiying-yin": [ "Daiying Yin" ]
 ,
+  "hongjian-yin": [ "Hongjian Yin" ]
+,
   "hongren-yin": [ "Hongren Yin" ]
 ,
   "zheng-yin": [ "Zheng Yin" ]
@@ -4827,6 +4841,8 @@
 ,
   "pengfei-zhang": [ "Pengfei Zhang" ]
 ,
+  "pinjia-zhang": [ "Pinjia Zhang" ]
+,
   "qi-zhang": [ "Qi Zhang" ]
 ,
   "qin-zhang": [ "Qin Zhang" ]
@@ -4846,6 +4862,8 @@
   "xianfu-zhang": [ "Xianfu Zhang" ]
 ,
   "xin-zhang": [ "Xin Zhang" ]
+,
+  "xing-zhang": [ "Xing Zhang" ]
 ,
   "xinyi-zhang": [ "Xinyi Zhang" ]
 ,

@@ -2,7 +2,7 @@
 title: "Exergetic port-Hamiltonian systems for multibody dynamics"
 date: 2024-11-05 00:00:00 +0100
 permalink: exergetic-port-hamiltonian-systems-for-multibody-dynamics
-year: 2024
+year: 2025
 authors: Markus Lohmayer, Giuseppe Capobianco, Sigrid Leyendecker
 category: articles
 tags:
@@ -26,10 +26,10 @@ Compositionality; Modeling language; Multibody systems; Multiphysics; Rigid body
  
 ## Citation
 - **Journal:** Multibody System Dynamics
-- **Year:** 2024
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Year:** 2025
+- **Volume:** 65
+- **Issue:** 2
+- **Pages:** 305--333
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s11044-024-10038-w](https://doi.org/10.1007/s11044-024-10038-w)
  
@@ -38,12 +38,15 @@ Compositionality; Modeling language; Multibody systems; Multiphysics; Rigid body
 {% raw %}
 @article{Lohmayer_2024,
   title={{Exergetic port-Hamiltonian systems for multibody dynamics}},
+  volume={65},
   ISSN={1573-272X},
   DOI={10.1007/s11044-024-10038-w},
+  number={2},
   journal={Multibody System Dynamics},
   publisher={Springer Science and Business Media LLC},
   author={Lohmayer, Markus and Capobianco, Giuseppe and Leyendecker, Sigrid},
-  year={2024}
+  year={2024},
+  pages={305--333}
 }
 {% endraw %}
 {% endhighlight %}
