@@ -63,6 +63,6 @@ In this paper we investigate the sine qua non condition of existence of equilibr
 - Kakigano, H., Miura, Y. & Ise, T. Low-Voltage Bipolar-Type DC Microgrid for Super High Quality Distribution. IEEE Transactions on Power Electronics vol. 25 3066–3075 (2010) -- [10.1109/tpel.2010.2077682](https://doi.org/10.1109/tpel.2010.2077682)
 - Cvetkovic, I. et al. Dynamic interactions in hybrid ac/dc electronic power distribution systems. 8th International Conference on Power Electronics - ECCE Asia 2121–2128 (2011) doi:10.1109/icpe.2011.5944538 -- [10.1109/icpe.2011.5944538](https://doi.org/10.1109/icpe.2011.5944538)
 - stramigioli, Modeling and Control of Complex Physical Systems The Port-Hamiltonian Approach (2009)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Hernandez-Gomez, M., Ortega, R., Lamnabhi-Lagarrigue, F. & Escobar, G. Adaptive PI Stabilization of Switched Power Converters. IEEE Transactions on Control Systems Technology vol. 18 688–698 (2010) -- [10.1109/tcst.2009.2023669](https://doi.org/10.1109/tcst.2009.2023669)
 

@@ -42,7 +42,7 @@ The mathematical model of Three-phase Voltage Pulse Width Modulation (PWM) DC/AC
 ## References
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Linear System Theory (2002)
-- Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory 17, 152–174 (2009) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
+- [Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory 17, 152–174 (2009)](energy-shaping-interconnection-and-damping-assignment-and-integral-control-in-the-bond-graph-domain) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
 - wang, The Nonlinear Control for the Voltage Source PWM Rectifier (2008)
 - [Wang, J., Xia, P. & Zhang, J. Control  Strategy of Three-Phase AC/DC Voltage-Source Converters Based on Storage Function. 2008 Workshop on Power Electronics and Intelligent Transportation System 117–121 (2008) doi:10.1109/peits.2008.59](control-strategy-of-three-phase-ac-dc-voltage-source-converters-based-on-storage-function) -- [10.1109/peits.2008.59](https://doi.org/10.1109/peits.2008.59)
 

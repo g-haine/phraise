@@ -65,5 +65,5 @@ port Hamiltonian modeling; model reduction; infinite dimensional systems; transp
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Villadsen, (1978)
-- VU, N. M. T., LEFEVRE, L., NOUAILLETAS, R. & BREMOND, S. Geometric discretization for a plasma control model. IFAC Proceedings Volumes vol. 46 755–760 (2013) -- [10.3182/20130204-3-fr-2033.00098](https://doi.org/10.3182/20130204-3-fr-2033.00098)
+- [VU, N. M. T., LEFEVRE, L., NOUAILLETAS, R. & BREMOND, S. Geometric discretization for a plasma control model. IFAC Proceedings Volumes vol. 46 755–760 (2013)](geometric-discretization-for-a-plasma-control-model) -- [10.3182/20130204-3-fr-2033.00098](https://doi.org/10.3182/20130204-3-fr-2033.00098)
 

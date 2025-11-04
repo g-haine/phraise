@@ -44,6 +44,6 @@ The mathematical model of Three-phase voltage sources Pulse Width Modulation (PW
 - dazhong, Linear System Theory. (2002)
 - jiuhe, The nonlinear control for the voltage source PWM rectifier. (2008)
 - jiuhe, Control Strategy of Three-Phase AC/DC Voltage-Source Converters Based on Storage function. 2008 Workshop on Power Electronics and Intelligent Transportation System (0)
-- Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory 17, 152–174 (2009) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
+- [Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory 17, 152–174 (2009)](energy-shaping-interconnection-and-damping-assignment-and-integral-control-in-the-bond-graph-domain) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
 - xiaobin, Passivity-Based of Photovoltaic Grid-Connected Inverter Based on Nonlinear Current Control Strategy. Symposium on Power Electronics & Electrical Drives Proceedings (2011)
 

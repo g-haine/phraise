@@ -9,6 +9,8 @@ permalink: /authors/s-torkel-glad
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- S. Torkel Glad</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-of-dynamic-systems-from-first-principles0">Modeling of Dynamic Systems from First Principles</a></h3></li>
 <li><span class='post-meta'>2019 -- S. Torkel Glad</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-of-dynamic-systems-from-first-principles00">Modeling of Dynamic Systems from First Principles</a></h3></li>
+<li><span class='post-meta'>2015 -- S. Torkel Glad</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-of-dynamic-systems-from-first-principles">Modeling of Dynamic Systems from First Principles</a></h3></li>
+<li><span class='post-meta'>2014 -- S. Torkel Glad</span><h3><a class='post-link' href="{{ site.baseurl }}/modeling-of-dynamic-systems-from-first-principles000">Modeling of Dynamic Systems from First Principles</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -53,7 +53,7 @@ Bond graph; port-Hamiltonian formulation; meshed DC microgrid; load balancing
  
 ## References
 - Chiniforoosh, S. et al. Definitions and Applications of Dynamic Average Models for Analysis of Power Systems. IEEE Transactions on Power Delivery vol. 25 2655–2669 (2010) -- [10.1109/tpwrd.2010.2043859](https://doi.org/10.1109/tpwrd.2010.2043859)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Golo, G., Breedveld, P.C., Maschke, B.M., and van der Schaft, A.J. (2000). Input output representations of dirac structures and junction structures in bond graphs. In Proc. 14th Int. Symp. on Math. Theory of Networks and Systems (MTNS 2000), Perpignan, France, June 19, volume 23.
 - Gu, W. et al. Modeling, planning and optimal energy management of combined cooling, heating and power microgrid: A review. International Journal of Electrical Power &amp; Energy Systems vol. 54 26–37 (2014) -- [10.1016/j.ijepes.2013.06.028](https://doi.org/10.1016/j.ijepes.2013.06.028)
 - Guerrero, J. M., Chandorkar, M., Lee, T.-L. & Loh, P. C. Advanced Control Architectures for Intelligent Microgrids—Part I: Decentralized and Hierarchical Control. IEEE Transactions on Industrial Electronics vol. 60 1254–1262 (2013) -- [10.1109/tie.2012.2194969](https://doi.org/10.1109/tie.2012.2194969)

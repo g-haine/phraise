@@ -61,7 +61,7 @@ DC microgrid; Meshed topology; Port-Hamiltonian systems; Differential flatness; 
 - Department of Energy Office of Energy Efficiency & Renewable Energy, (2017)
 - Drgoňa, J., Picard, D., Kvasnica, M. & Helsen, L. Approximate model predictive building control via machine learning. Applied Energy vol. 218 199–216 (2018) -- [10.1016/j.apenergy.2018.02.156](https://doi.org/10.1016/j.apenergy.2018.02.156)
 - Duindam, (2009)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - FLIESS, M., LÉVINE, J., MARTIN, P. & ROUCHON, P. Flatness and defect of non-linear systems: introductory theory and examples. International Journal of Control vol. 61 1327–1361 (1995) -- [10.1080/00207179508921959](https://doi.org/10.1080/00207179508921959)
 - Franke, On the computation of flat outputs for nonlinear control systems. (2013)
 - Hernández, J. C., Sanchez-Sutil, F. & Muñoz-Rodríguez, F. J. Design criteria for the optimal sizing of a hybrid energy storage system in PV household-prosumers to maximize self-consumption and self-sufficiency. Energy vol. 186 115827 (2019) -- [10.1016/j.energy.2019.07.157](https://doi.org/10.1016/j.energy.2019.07.157)

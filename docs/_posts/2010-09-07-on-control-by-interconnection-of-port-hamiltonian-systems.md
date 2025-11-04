@@ -50,7 +50,7 @@ Interconnection; Lyapunov stability
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-control-by-interconnection-of-port-hamiltonian-systems.bib)
  
 ## References
-- Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica 40, 1643–1646 (2004) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
+- [Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica 40, 1643–1646 (2004)](an-energy-balancing-perspective-of-interconnection-and-damping-assignment-control-of-nonlinear-systems) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
 - [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Trans. Automat. Contr. 45, 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust &amp; Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)

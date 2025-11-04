@@ -51,8 +51,8 @@ Nonlinear control; Input–output contact systems; Contact geometry; Irreversibl
 [Download the bib file]({{ site.baseurl }}/assets/bib/feedback-equivalence-of-input-output-contact-systems.bib)
  
 ## References
-- Eberard, D., Maschke, B. & van der Schaft, A. J. CONSERVATIVE SYSTEMS WITH PORTS ON CONTACT MANIFOLDS. IFAC Proceedings Volumes vol. 38 342–347 (2005) -- [10.3182/20050703-6-cz-1902.00711](https://doi.org/10.3182/20050703-6-cz-1902.00711)
-- Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
+- [Eberard, D., Maschke, B. & van der Schaft, A. J. CONSERVATIVE SYSTEMS WITH PORTS ON CONTACT MANIFOLDS. IFAC Proceedings Volumes vol. 38 342–347 (2005)](conservative-systems-with-ports-on-contact-manifolds) -- [10.3182/20050703-6-cz-1902.00711](https://doi.org/10.3182/20050703-6-cz-1902.00711)
+- [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - MrugaŁa, R. Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics vol. 14 419–427 (1978) -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)
 - Mrugala, R., Nulton, J. D., Christian Schön, J. & Salamon, P. Contact structure in thermodynamic theory. Reports on Mathematical Physics vol. 29 109–121 (1991) -- [10.1016/0034-4877(91)90017-h](https://doi.org/10.1016/0034-4877(91)90017-h)
 - Hermann, (1973)
@@ -75,5 +75,5 @@ Nonlinear control; Input–output contact systems; Contact geometry; Irreversibl
 - Evans, (1998)
 - Myint-U, (2007)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems &amp; Control Letters vol. 44 309–319 (2001) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
+- [Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems &amp; Control Letters vol. 44 309–319 (2001)](stabilization-of-hamiltonian-systems-with-nonholonomic-constraints-based-on-time-varying-generalized-canonical-transformations) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
 

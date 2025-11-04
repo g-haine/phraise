@@ -48,7 +48,7 @@ The aim of this paper, is to study the identifiability property, of Port-Control
 - van der-shaft, Theory of Port-Hamiltonian Systems (2005)
 - van den-schaft, Port-hamiltonian systems: From geometric network modeling to control. Hycon-EECI Course Chapter 2 Control of Port-Hamiltonian Systems (2009)
 - ruscio, System theory state-space analysis and control theory. Lectures Notes in Control Theory (2009)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - stefanoiu, Fundamentele Modelarii Si Identificarii Sistemelor (2004)
 - ljung, System Identification Theory for the User (1999)
 - maschke, Port-controlled Hamiltonian systems: Modeling origins and system theoretic properties. Proceedings of the 2nd IFAC International Symposium on Nonlinear Control Systems Design NOLCOSBordeaux (1992)

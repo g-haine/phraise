@@ -56,7 +56,7 @@ port-Hamiltonian; Navier-Stokes; exterior calculus; vector calculus
 - [Califano, F., Rashad, R., Schuller, F. P. & Stramigioli, S. Geometric and energy-aware decomposition of the Navier–Stokes equations: A port-Hamiltonian approach. Physics of Fluids vol. 33 (2021)](geometric-and-energy-aware-decomposition-of-the-navier-stokes-equations-a-port-hamiltonian-approach) -- [10.1063/5.0048359](https://doi.org/10.1063/5.0048359)
 - Duindam, (2009)
 - Frankel, (2004)
-- [Jagad, P., Abukhwejah, A., Mohamed, M. & Samtaney, R. A primitive variable discrete exterior calculus discretization of incompressible Navier–Stokes equations over surface simplicial meshes. Physics of Fluids vol. 33 (2021)](a-primitive-variable-discrete-exterior-calculus-discretization-of-incompressible-navier-stokes-equations-over-surface-simplicial-meshes) -- [10.1063/5.0035981](https://doi.org/10.1063/5.0035981)
+- Jagad, P., Abukhwejah, A., Mohamed, M. & Samtaney, R. A primitive variable discrete exterior calculus discretization of incompressible Navier–Stokes equations over surface simplicial meshes. Physics of Fluids vol. 33 (2021) -- [10.1063/5.0035981](https://doi.org/10.1063/5.0035981)
 - Marsden, (1994)
 - Marsden, J. E., Raţiu, T. & Weinstein, A. Semidirect products and reduction in mechanics. Transactions of the American Mathematical Society vol. 281 147–177 (1984) -- [10.1090/s0002-9947-1984-0719663-1](https://doi.org/10.1090/s0002-9947-1984-0719663-1)
 - Mohamed, M. S., Hirani, A. N. & Samtaney, R. Discrete exterior calculus discretization of incompressible Navier–Stokes equations over surface simplicial meshes. Journal of Computational Physics vol. 312 175–191 (2016) -- [10.1016/j.jcp.2016.02.028](https://doi.org/10.1016/j.jcp.2016.02.028)

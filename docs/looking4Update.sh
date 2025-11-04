@@ -12,8 +12,6 @@
 # Puis annuler certains changements  avec "trash" /!\ certaines données en ligne ayant des soucis
 # Et enfin, supprimer "trash"
 
-#!/bin/bash
-
 # Fichier DOI source
 DOI_SOURCE="DOI.txt"
 
@@ -92,20 +90,38 @@ while IFS= read -r doi; do
     status=$(echo "$response" | jq -r '.status')
 
     if [[ "$status" == "ok" ]]; then
+        type=$(echo "$response" | jq -r '.message.type // ""')
         title=$(echo "$response" | jq -r '.message.title // [""] | .[0]' | sed -E 's/<[^>]*mml[^>]*>//g' | sed -E 's/"/\\"/g')
         abstract=$(echo "$response" | jq -r '.message.abstract // ""')
-        type=$(echo "$response" | jq -r '.message.type // ""')
+        keywords=$(echo "$response" | jq -r '.message.subject // [] | join(", ")')
+        
+        # Récupère l'url "final" (avant redirection js) à partir du DOI
+        url=$(curl -Ls -o /dev/null -w "%{url_effective}" "https://doi.org/$doi")
+        
+        # Update si elsevier
+        if echo "$url" | grep -q "elsevier"; then
+            json_scopus=$(fetch_metadata_scopus "$doi")
+            abstract+=$(abstract_from_scopus "$json_scopus")
+            keywords+=", "$(keywords_from_scopus "$json_scopus")
+        fi
+        
+        # Update si springer
+        if echo "$url" | grep -q "springer"; then
+            json_springer=$(fetch_metadata_springer "$doi")
+            abstract+=$(abstract_from_springer "$json_springer")
+            keywords+=", "$(keywords_from_springer "$json_springer")
+        fi
         
         # Complement pour l'abstract
-        if [ -z "$abstract" ]; then
-            complement=$(fetch_abstract_complement $doi)
-            [ -n "$complement" ] && abstract="$complement"
-        fi
-
+        abstract+=$(fetch_abstract_complement "$doi")
+        
+        # Nettoyage de l'abstract
+        abstract=$(echo "$abstract" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g' | sed -E 's/summary//Ig' | sed -E 's/abstract//Ig')
+        
         # Vérifie le type
         if [[ " ${TYPES_AUTORISES[*]} " =~ " ${type} " ]]; then
-            # Vérifie si "port-Hamiltonian" est présent dans le titre ou l'abstract
-            if echo "$title $abstract" | grep -Eiq 'port[- ](controlled )?hamiltonian'; then
+            # Vérifie si "port-Hamiltonian" est présent dans le titre ou l'abstract, ou encore les keywords
+            if echo "$title $abstract $keywords" | grep -Piq 'port[\p{Pd}\s](controlled )?hamiltonian'; then
                 k=$(( k + 1 ))
                 echo -e "\t DOI $k to fetch on CrossRef: $doi"
                 echo "$doi" >> "$DOI_FILE"
@@ -119,6 +135,7 @@ while IFS= read -r doi; do
         fi
     else
         echo -e "\t Forget, not in CrossRef: $doi"
+        echo "$doi" >> "$DOI_BAD"
     fi
 done < "$TMP_DOIS_OA"
 grep -vFxf "$DOI_BAD" "$DOI_TO_CHECK" > check.tmp && mv check.tmp "$DOI_TO_CHECK"

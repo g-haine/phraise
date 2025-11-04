@@ -60,7 +60,7 @@ Passivity; nonlinear systems; stabilization; interconnection; passivity–based 
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - García-Canseco, Power shaping control of nonlinear systems: a benchmark example. (2006)
 - Hill, D. J. & Moylan, P. J. Dissipative Dynamical Systems: Basic Input-Output and State Properties. Journal of the Franklin Institute 309, 327–357 (1980) -- [10.1016/0016-0032(80)90026-5](https://doi.org/10.1016/0016-0032(80)90026-5)
-- Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica 40, 1643–1646 (2004) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
+- [Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica 40, 1643–1646 (2004)](an-energy-balancing-perspective-of-interconnection-and-damping-assignment-control-of-nonlinear-systems) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
 - Krstic, (1995)
 - Marsden, (1999)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control 10, 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)

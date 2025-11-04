@@ -8,6 +8,7 @@ permalink: /authors/houria-siguerdidjane
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2001 -- Houria Siguerdidjane, Hugo Rodriguez</span><h3><a class='post-link' href="{{ site.baseurl }}/regulation-of-rigid-spacecraft-angular-momentum-using-port-controlled-hamiltonian-structure">Regulation of Rigid Spacecraft Angular Momentum Using Port Controlled Hamiltonian Structure</a></h3></li>
+<li><span class='post-meta'>2002 -- Houria Siguerdidjane</span><h3><a class='post-link' href="{{ site.baseurl }}/some-remarks-on-nonlinear-feedback-control-of-a-rigid-spacecraft">SOME REMARKS ON NONLINEAR FEEDBACK CONTROL OF A RIGID SPACECRAFT</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

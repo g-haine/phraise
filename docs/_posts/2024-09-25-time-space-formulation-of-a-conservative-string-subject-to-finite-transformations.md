@@ -59,7 +59,7 @@ String vibrations; Finite-transformations; Conservation laws; Hamiltonian dynami
 - Bideau, N., Le Marrec, L. & Rakotomanana, L. Influence of a finite strain on vibration of a bounded Timoshenko beam. International Journal of Solids and Structures vol. 48 2265–2274 (2011) -- [10.1016/j.ijsolstr.2011.02.007](https://doi.org/10.1016/j.ijsolstr.2011.02.007)
 - Chaigne, (2016)
 - Eringen, (1962)
-- Golo, G., van der Schaft, A. & Stramigioli, S. Hamiltonian Formulation of Planar Beams. IFAC Proceedings Volumes vol. 36 147–152 (2003) -- [10.1016/s1474-6670(17)38882-1](https://doi.org/10.1016/s1474-6670(17)38882-1)
+- [Golo, G., van der Schaft, A. & Stramigioli, S. Hamiltonian Formulation of Planar Beams. IFAC Proceedings Volumes vol. 36 147–152 (2003)](hamiltonian-formulation-of-planar-beams) -- [10.1016/s1474-6670(17)38882-1](https://doi.org/10.1016/s1474-6670(17)38882-1)
 - Grot, R. A. & Eringen, A. C. Relativistic continuum mechanics part I—mechanics and thermodynamics. International Journal of Engineering Science vol. 4 611–638 (1966) -- [10.1016/0020-7225(66)90008-5](https://doi.org/10.1016/0020-7225(66)90008-5)
 - Landau, (1975)
 - Misner, (1973)

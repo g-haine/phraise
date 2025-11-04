@@ -48,7 +48,7 @@ In this paper we show the existence of solutions with quadratic growth to Hamilt
 - Crandall, M. G., Evans, L. C. & Lions, P.-L. Some properties of viscosity solutions of Hamilton-Jacobi equations. Transactions of the American Mathematical Society vol. 282 487–502 (1984) -- [10.1090/s0002-9947-1984-0732102-x](https://doi.org/10.1090/s0002-9947-1984-0732102-x)
 - Crandall, M. G. & Liggett, T. M. Generation of Semi-Groups of Nonlinear Transformations on General Banach Spaces. American Journal of Mathematics vol. 93 265 (1971) -- [10.2307/2373376](https://doi.org/10.2307/2373376)
 - G. CRANDALL, M., ISHII, H. & LIONS, P.-L. Uniqueness of viscosity solutions of Hamilton-Jacobi equations revisited. Journal of the Mathematical Society of Japan vol. 39 (1987) -- [10.2969/jmsj/03940581](https://doi.org/10.2969/jmsj/03940581)
-- [Crandall, M. G. & Lions, P.-L. Viscosity solutions of Hamilton-Jacobi equations. Transactions of the American Mathematical Society vol. 277 1–42 (1983)](viscosity-solutions-of-hamilton-jacobi-equations) -- [10.1090/s0002-9947-1983-0690039-8](https://doi.org/10.1090/s0002-9947-1983-0690039-8)
+- Crandall, M. G. & Lions, P.-L. Viscosity solutions of Hamilton-Jacobi equations. Transactions of the American Mathematical Society vol. 277 1–42 (1983) -- [10.1090/s0002-9947-1983-0690039-8](https://doi.org/10.1090/s0002-9947-1983-0690039-8)
 - Fleming, (1992)
 - Fleming, W. H. & McEneaney, W. M. Risk-Sensitive Control on an Infinite Time Horizon. SIAM Journal on Control and Optimization vol. 33 1881–1915 (1995) -- [10.1137/s0363012993258720](https://doi.org/10.1137/s0363012993258720)
 - Ishii, H. Indiana University Mathematics Journal vol. 33 721 (1984) -- [10.1512/iumj.1984.33.33038](https://doi.org/10.1512/iumj.1984.33.33038)

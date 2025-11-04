@@ -41,7 +41,7 @@ In recent years, the control technique interconnection and damping assignment-pa
  
 ## References
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory 17, 152–174 (2009) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
+- [Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory 17, 152–174 (2009)](energy-shaping-interconnection-and-damping-assignment-and-integral-control-in-the-bond-graph-domain) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Trans. Automat. Contr. 53, 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - Petrovic, V., Ortega, R. & Stankovic, A. M. A globally convergent energy-based controller for PM synchronous motors. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 1 334–340 -- [10.1109/cdc.1999.832798](https://doi.org/10.1109/cdc.1999.832798)
 - karnop, System Dynamics Modeling and Simulation of Mechatrinic Systems (2006)

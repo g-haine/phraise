@@ -8,6 +8,7 @@ permalink: /authors/xinxin-cheng
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- Xinxin Cheng, Haisheng Yu, Jinpeng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/four-quadrant-operation-and-energy-optimization-control-of-pmsm-drive-systems">Four quadrant operation and energy optimization control of PMSM drive systems</a></h3></li>
+<li><span class='post-meta'>2018 -- Xinxin Cheng, Haisheng Yu, Jinpeng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/four-quadrant-operation-and-regenerative-braking-control-of-pmsm-drive-systems">Four Quadrant Operation and Regenerative Braking Control of PMSM Drive Systems</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

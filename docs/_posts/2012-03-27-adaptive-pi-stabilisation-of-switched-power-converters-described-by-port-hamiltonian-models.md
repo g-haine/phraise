@@ -49,7 +49,7 @@ Switching Power Converters; port-Hamiltonian Model; Passive Output; Power Factor
 ## References
 - A. Astolfi. Astolfi, A., Karagiannis, D., Ortega, R.: Nonlinear and Adaptive Control with Applications. Springer, Berlin (2007) (2007)
 - C.A. Desoer. Desoer, C.A., Vidyasagar, M.: Feedback Systems: Input–Output Properties. Academic Press, New York (1975) (1975)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Hernandez-Gomez, M., Ortega, R., Lamnabhi-Lagarrigue, F. & Escobar, G. Adaptive PI Stabilization of Switched Power Converters. IEEE Transactions on Control Systems Technology vol. 18 688–698 (2010) -- [10.1109/tcst.2009.2023669](https://doi.org/10.1109/tcst.2009.2023669)
 - Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Jeltsema, D.: Input–output passivity of switched power converters. Technical report (2006)

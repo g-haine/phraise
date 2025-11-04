@@ -8,6 +8,7 @@ permalink: /authors/s-rao
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2016 -- A. J. van der Schaft, S. Rao, B. Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/a-network-dynamics-approach-to-chemical-reaction-networks">A network dynamics approach to chemical reaction networks</a></h3></li>
+<li><span class='post-meta'>2013 -- A.J. van der Schaft, S. Rao, B. Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-network-thermodynamics-of-mass-action-chemical-reaction-networks">On the network thermodynamics of mass action chemical reaction networks</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -62,7 +62,7 @@ The traction blockade in depots of multiple electric multiple units (EMUs) is ge
 - Out of control because of harmonics-an analysis of the harmonic response of an inverter locomotive. IEEE Control Syst. 20, 70–81 (2000) -- [10.1109/37.856180](https://doi.org/10.1109/37.856180)
 - Liao, Y., Liu, Z., Zhang, G. & Xiang, C. Vehicle-Grid System Modeling and Stability Analysis With Forbidden Region-Based Criterion. IEEE Trans. Power Electron. 32, 3499–3512 (2017) -- [10.1109/tpel.2016.2587726](https://doi.org/10.1109/tpel.2016.2587726)
 - feng, AC Drive and Control for Electric Traction (2009)
-- Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory 17, 152–174 (2009) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
+- [Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory 17, 152–174 (2009)](energy-shaping-interconnection-and-damping-assignment-and-integral-control-in-the-bond-graph-domain) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
 - Lee, H., Lee, C., Jang, G. & Kwon, S. Harmonic Analysis of the Korean High-Speed Railway Using the Eight-Port Representation Model. IEEE Trans. Power Delivery 21, 979–986 (2006) -- [10.1109/tpwrd.2006.870985](https://doi.org/10.1109/tpwrd.2006.870985)
 - wang, Nonlinear Control of the Voltage Source PWM Rectifier (2008)
 

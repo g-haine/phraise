@@ -7,6 +7,7 @@ permalink: /authors/qiang-song
 <p id='info-authors'>Alternative author names: Qiang Song.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2013 -- Haisheng Yu, Jinpeng Yu, Jin Liu, Qiang Song</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-control-of-induction-motors-based-on-state-error-pch-and-energy-shaping-principle">Nonlinear control of induction motors based on state error PCH and energy-shaping principle</a></h3></li>
 <li><span class='post-meta'>2011 -- Haisheng Yu, Xudong Liu, Jinpeng Yu, Qiang Song</span><h3><a class='post-link' href="{{ site.baseurl }}/position-tracking-control-of-pmsm-based-on-state-error-pch-and-mtpa-principle">Position tracking control of PMSM based on state error PCH and MTPA principle</a></h3></li>
 
 </ul>

@@ -4,10 +4,11 @@ permalink: /authors/xudong-liu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Xudong Liu, null Xudong Liu.</p>
+<p id='info-authors'>Alternative author names: Xudong Liu, null Xudong Liu, Xudong liu.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Xudong Liu, Haisheng Yu, Jinpeng Yu, Yang Zhao</span><h3><a class='post-link' href="{{ site.baseurl }}/a-novel-speed-control-method-based-on-port-controlled-hamiltonian-and-disturbance-observer-for-pmsm-drives">A Novel Speed Control Method Based on Port-Controlled Hamiltonian and Disturbance Observer for PMSM Drives</a></h3></li>
+<li><span class='post-meta'>2020 -- Yu Wang, Haisheng Yu, Jinpeng Yu, Herong Wu, Xudong liu</span><h3><a class='post-link' href="{{ site.baseurl }}/a-modified-energy-and-signal-coordination-control-strategy-for-a-robotic-system">A Modified Energy and Signal Coordination Control Strategy for a Robotic System</a></h3></li>
 <li><span class='post-meta'>2018 -- Bingkun Zhao, Haisheng Yu, Jinpeng Yu, Xudong Liu, Herong Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/port-controlled-hamiltonian-and-sliding-mode-control-of-gantry-robot-based-on-induction-motor-drives">Port-Controlled Hamiltonian and Sliding Mode Control of Gantry Robot Based on Induction Motor Drives</a></h3></li>
 <li><span class='post-meta'>2018 -- Xu Xu, Haisheng Yu, Xudong Liu, Bingkun Zhao</span><h3><a class='post-link' href="{{ site.baseurl }}/robot-joint-position-control-based-on-sliding-mode-and-the-port-controlled-hamiltonian-method">Robot joint position control based on sliding mode and the port-controlled hamiltonian method</a></h3></li>
 <li><span class='post-meta'>2014 -- Ke Li, Xudong Liu, Jing Sun, Chenghui Zhang</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-current-control-of-pmsm-based-on-pch-and-disturbance-observer">Robust current control of PMSM based on PCH and disturbance observer</a></h3></li>

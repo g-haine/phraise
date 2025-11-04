@@ -59,7 +59,7 @@ Interconnected systems; modeling; energy storage; geometric theory
 - Godlewsky, (1996)
 - Karnopp, (1990)
 - [Maschke, B. M. J. & van der Schaft, A. J. Port Controlled Hamiltonian Representation of Distributed Parameter Systems. IFAC Proceedings Volumes 33, 27–37 (2000)](port-controlled-hamiltonian-representation-of-distributed-parameter-systems) -- [10.1016/s1474-6670(17)35543-x](https://doi.org/10.1016/s1474-6670(17)35543-x)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Olver, (1993)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

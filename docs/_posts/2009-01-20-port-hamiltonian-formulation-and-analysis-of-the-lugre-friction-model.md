@@ -54,6 +54,6 @@ A port-Hamiltonian formulation of the LuGre friction model is presented that can
 - Deur, J., Asgari, J. & Hrovat, D. A 3D Brush-type Dynamic Tire Friction Model. Vehicle System Dynamics vol. 42 133–173 (2004) -- [10.1080/00423110412331282887](https://doi.org/10.1080/00423110412331282887)
 - Canudas-de-Wit, C., Tsiotras, P., Velenis, E., Basset, M. & Gissinger, G. Dynamic Friction Models for Road/Tire Longitudinal Interaction. Vehicle System Dynamics vol. 39 189–226 (2003) -- [10.1076/vesd.39.3.189.14152](https://doi.org/10.1076/vesd.39.3.189.14152)
 - (0)
-- Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica vol. 40 1643–1646 (2004) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
+- [Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica vol. 40 1643–1646 (2004)](an-energy-balancing-perspective-of-interconnection-and-damping-assignment-control-of-nonlinear-systems) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
 - Hirschorn, R. M. & Miller, G. Control of nonlinear systems with friction. IEEE Transactions on Control Systems Technology vol. 7 588–595 (1999) -- [10.1109/87.784422](https://doi.org/10.1109/87.784422)
 

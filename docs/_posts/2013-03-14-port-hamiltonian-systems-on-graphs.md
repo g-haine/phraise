@@ -54,7 +54,7 @@ In this paper we present a unifying geometric and compositional framework for mo
 - De Persis, C. & Kallesoe, C. S. Pressure Regulation in Nonlinear Hydraulic Networks by Positive and Quantized Controls. IEEE Transactions on Control Systems Technology vol. 19 1371–1383 (2011) -- [10.1109/tcst.2010.2094619](https://doi.org/10.1109/tcst.2010.2094619)
 - Goldin D., GA (2010)
 - Maschke B. M., London (1997)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 42 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)
 - Olfati-Saber, R., Fax, J. A. & Murray, R. M. Consensus and Cooperation in Networked Multi-Agent Systems. Proceedings of the IEEE vol. 95 215–233 (2007) -- [10.1109/jproc.2006.887293](https://doi.org/10.1109/jproc.2006.887293)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)

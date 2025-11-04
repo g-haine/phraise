@@ -40,7 +40,7 @@ This article studies the formation control problem of multiple uncrewed underwat
 [Download the bib file]({{ site.baseurl }}/assets/bib/three-dimensional-robust-formation-control-for-multiple-uncrewed-underwater-vehicles-based-on-port-hamiltonian-theory-under-external-disturbance.bib)
  
 ## References
-- Yang, T., Yu, S. & Yan, Y. Formation control of multiple underwater vehicles subject to communication faults and uncertainties. Applied Ocean Research vol. 82 109–116 (2019) -- [10.1016/j.apor.2018.10.024](https://doi.org/10.1016/j.apor.2018.10.024)
+- [Yang, T., Yu, S. & Yan, Y. Formation control of multiple underwater vehicles subject to communication faults and uncertainties. Applied Ocean Research vol. 82 109–116 (2019)](formation-control-of-multiple-underwater-vehicles-subject-to-communication-faults-and-uncertainties) -- [10.1016/j.apor.2018.10.024](https://doi.org/10.1016/j.apor.2018.10.024)
 - Li, S. et al. Experimental Research on Formation Control of UUVs Based on Behavior Rules. 2022 41st Chinese Control Conference (CCC) 4495–4500 (2022) doi:10.23919/ccc55666.2022.9901535 -- [10.23919/ccc55666.2022.9901535](https://doi.org/10.23919/ccc55666.2022.9901535)
 - Tijjani, A. S., Chemori, A. & Creuze, V. A survey on tracking control of unmanned underwater vehicles: Experiments-based approach. Annual Reviews in Control vol. 54 125–147 (2022) -- [10.1016/j.arcontrol.2022.07.001](https://doi.org/10.1016/j.arcontrol.2022.07.001)
 - Yang, Y., Xiao, Y. & Li, T. A Survey of Autonomous Underwater Vehicle Formation: Performance, Formation Control, and Communication Capability. IEEE Communications Surveys &amp; Tutorials vol. 23 815–841 (2021) -- [10.1109/comst.2021.3059998](https://doi.org/10.1109/comst.2021.3059998)

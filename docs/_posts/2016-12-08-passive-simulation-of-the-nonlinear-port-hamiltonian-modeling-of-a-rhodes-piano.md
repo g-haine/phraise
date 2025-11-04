@@ -57,7 +57,7 @@ Passive modeling; Numerical methods; Port-Hamiltonian systems; Multiphysics syst
 - Fettweis, A. Wave digital filters: Theory and practice. Proceedings of the IEEE vol. 74 270–327 (1986) -- [10.1109/proc.1986.13458](https://doi.org/10.1109/proc.1986.13458)
 - Smith, J. O., join(' ’. Physical Modeling Using Digital Waveguides. Computer Music Journal vol. 16 74 (1992) -- [10.2307/3680470](https://doi.org/10.2307/3680470)
 - Fettweis, A. Pseudo-passivity, sensitivity, and stability of wave digital filters. IEEE Transactions on Circuit Theory vol. 19 668–673 (1972) -- [10.1109/tct.1972.1083555](https://doi.org/10.1109/tct.1972.1083555)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - [van der Schaft, A. Port-Hamiltonian systems: an introductory survey. Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006 1339–1365 (2007) doi:10.4171/022-3/65](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
 - Duindam, (2009)
 - Marsden, (2013)

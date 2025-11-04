@@ -54,7 +54,7 @@ No  available
 - maschke, interconnection and structure in physical systems' dynamics. Proc 4th IFAC Symp Nonlinear Control Systems Design (NOLCOS 98) (1998)
 - Marsden, J. E. Lectures on Mechanics. (1992) doi:10.1017/cbo9780511624001 -- [10.1017/cbo9780511624001](https://doi.org/10.1017/cbo9780511624001)
 - maschke, an energy based derivation of lyapunov function for forced systems with application to stabilizing control. Proc IFAC World Congress (1999)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - khalil, Nonlinear Systems (1996)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM J. Control Optim. 37, 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - ortega, (0)

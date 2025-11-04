@@ -50,9 +50,9 @@ Time-varying PCH system; Geometric structure; Dissipative Hamiltonian realizatio
 [Download the bib file]({{ site.baseurl }}/assets/bib/problems-on-time-varying-port-controlled-hamiltonian-systems-geometric-structure-and-dissipative-realization.bib)
  
 ## References
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
-- Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems &amp; Control Letters 44, 309–319 (2001) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
+- [Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems &amp; Control Letters 44, 309–319 (2001)](stabilization-of-hamiltonian-systems-with-nonholonomic-constraints-based-on-time-varying-generalized-canonical-transformations) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Libermann, (1986)
 - Lu, (1993)

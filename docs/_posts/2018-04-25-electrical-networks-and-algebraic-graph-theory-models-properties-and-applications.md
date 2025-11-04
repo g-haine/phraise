@@ -134,7 +134,7 @@ Algebraic graph theory is a cornerstone in the study of electrical networks rang
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 - vishnoi, $Lx=b$ , Laplacian solvers and their algorithmic applications. Theor Comput Sci (2013)
 - Versfeld, L. Remarks on star-mesh transformation of electrical networks. Electronics Letters vol. 6 597–599 (1970) -- [10.1049/el:19700417](https://doi.org/10.1049/el:19700417)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Wagner, C., Kinzelbach, W. & Wittum, G. Schur-complement multigrid. Numerische Mathematik vol. 75 523–545 (1997) -- [10.1007/s002110050251](https://doi.org/10.1007/s002110050251)
 - Fan, Y. Schur complements and its applications to symmetric nonnegative and Z-matrices. Linear Algebra and its Applications vol. 353 289–307 (2002) -- [10.1016/s0024-3795(02)00327-0](https://doi.org/10.1016/s0024-3795(02)00327-0)
 - fagnani, Introduction to Averaging Dynamics Over Networks (2017)

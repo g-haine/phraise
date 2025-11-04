@@ -69,7 +69,7 @@ Port-Hamiltonian systems; Nonlinear implicit systems; Modeling of physical syste
 - Bullo, F. Stabilization of relative equilibria for underactuated systems on Riemannian manifolds. Automatica vol. 36 1819–1834 (2000) -- [10.1016/s0005-1098(00)00115-1](https://doi.org/10.1016/s0005-1098(00)00115-1)
 - Giaquinta, (1996)
 - Zia, R. K. P., Redish, E. F. & McKay, S. R. Making sense of the Legendre transform. American Journal of Physics vol. 77 614–622 (2009) -- [10.1119/1.3119512](https://doi.org/10.1119/1.3119512)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Agrachev, (2004)
 - Ortega, (1998)
 

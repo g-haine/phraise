@@ -42,7 +42,7 @@ This paper is mainly focusing on the problem of speed tracking control for perma
 [Download the bib file]({{ site.baseurl }}/assets/bib/a-novel-speed-control-method-based-on-port-controlled-hamiltonian-and-disturbance-observer-for-pmsm-drives.bib)
  
 ## References
-- Yu, H., Yu, J., Liu, J. & Song, Q. Nonlinear control of induction motors based on state error PCH and energy-shaping principle. Nonlinear Dyn 72, 49–59 (2012) -- [10.1007/s11071-012-0689-3](https://doi.org/10.1007/s11071-012-0689-3)
+- [Yu, H., Yu, J., Liu, J. & Song, Q. Nonlinear control of induction motors based on state error PCH and energy-shaping principle. Nonlinear Dyn 72, 49–59 (2012)](nonlinear-control-of-induction-motors-based-on-state-error-pch-and-energy-shaping-principle) -- [10.1007/s11071-012-0689-3](https://doi.org/10.1007/s11071-012-0689-3)
 - [Meshram, R. V. et al. Port-Controlled Phasor Hamiltonian Modeling and IDA-PBC Control of Solid-State Transformer. IEEE Trans. Contr. Syst. Technol. 27, 161–174 (2019)](port-controlled-phasor-hamiltonian-modeling-and-ida-pbc-control-of-solid-state-transformer) -- [10.1109/tcst.2017.2761866](https://doi.org/10.1109/tcst.2017.2761866)
 - Akrad, A., Hilairet, M., Ortega, R. & Diallo, D. Interconnection and damping assignment approach for reliable PM synchronous motor control. IET Colloquium on Reliability of Electromagnetic Systems vol. 2007 15–15 (2007) -- [10.1049/ic:20070036](https://doi.org/10.1049/ic:20070036)
 - Khanchoul, M., Hilairet, M. & Normand-Cyrot, D. A passivity-based controller under low sampling for speed control of PMSM. Control Engineering Practice 26, 20–27 (2014) -- [10.1016/j.conengprac.2013.12.013](https://doi.org/10.1016/j.conengprac.2013.12.013)

@@ -8,6 +8,7 @@ permalink: /authors/reinhard-gahleitner
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2011 -- Richard Stadlmayr, Reinhard Gahleitner</span><h3><a class='post-link' href="{{ site.baseurl }}/feedforward-design-and-optimality-aspects-for-the-control-of-mechatronic-systems">Feedforward Design and Optimality Aspects for the Control of Mechatronic Systems</a></h3></li>
+<li><span class='post-meta'>2011 -- Richard Stadlmayr, Harald Daxberger, Reinhard Gahleitner</span><h3><a class='post-link' href="{{ site.baseurl }}/time-optimal-tracking-control-for-a-permanent-magnet-linear-actuator-with-bounded-energy-loss">Time Optimal Tracking Control for a Permanent Magnet Linear Actuator with bounded Energy Loss</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -52,7 +52,7 @@ In this paper, the problem of stability analysis of time-delayed port-Hamiltonia
 - Jiang, X. & Han, Q.-L. Delay-dependent robust stability for uncertain linear systems with interval time-varying delay. Automatica 42, 1059–1065 (2006) -- [10.1016/j.automatica.2006.02.019](https://doi.org/10.1016/j.automatica.2006.02.019)
 - Shao, H. New delay-dependent stability criteria for systems with interval delay. Automatica 45, 744–749 (2009) -- [10.1016/j.automatica.2008.09.010](https://doi.org/10.1016/j.automatica.2008.09.010)
 - Peng, C. & Tian, Y.-C. Improved delay-dependent robust stability criteria for uncertain systems with interval time-varying delay. IET Control Theory Appl. 2, 752–761 (2008) -- [10.1049/iet-cta:20070362](https://doi.org/10.1049/iet-cta:20070362)
-- Sun, W., Wang, Y. & Yang, R. L 2 disturbance attenuation for a class of time-delay Hamiltonian systems. J Syst Sci Complex 24, 672–682 (2011) -- [10.1007/s11424-011-8368-x](https://doi.org/10.1007/s11424-011-8368-x)
+- [Sun, W., Wang, Y. & Yang, R. L 2 disturbance attenuation for a class of time-delay Hamiltonian systems. J Syst Sci Complex 24, 672–682 (2011)](l-2-disturbance-attenuation-for-a-class-of-time-delay-hamiltonian-systems) -- [10.1007/s11424-011-8368-x](https://doi.org/10.1007/s11424-011-8368-x)
 - Jie Chen, Demin Xu & Shafai, B. On sufficient conditions for stability independent of delay. IEEE Trans. Automat. Contr. 40, 1675–1680 (1995) -- [10.1109/9.412644](https://doi.org/10.1109/9.412644)
 - He, Y., Wang, Q.-G., Xie, L. & Lin, C. Further Improvement of Free-Weighting Matrices Technique for Systems With Time-Varying Delay. IEEE Trans. Automat. Contr. 52, 293–299 (2007) -- [10.1109/tac.2006.887907](https://doi.org/10.1109/tac.2006.887907)
 

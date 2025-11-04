@@ -95,7 +95,7 @@ This article introduces a novel control approach for tackling the maximum power 
 - Kobaku, T., Jeyasenthil, R., Sahoo, S., Ramchand, R. & Dragicevic, T. Quantitative Feedback Design-Based Robust PID Control of Voltage Mode Controlled DC-DC Boost Converter. IEEE Transactions on Circuits and Systems II: Express Briefs vol. 68 286–290 (2021) -- [10.1109/tcsii.2020.2988319](https://doi.org/10.1109/tcsii.2020.2988319)
 - Chu, C.-C. & Chen, C.-L. Robust maximum power point tracking method for photovoltaic cells: A sliding mode control approach. Solar Energy vol. 83 1370–1378 (2009) -- [10.1016/j.solener.2009.03.005](https://doi.org/10.1016/j.solener.2009.03.005)
 - Kchaou, A., Naamane, A., Koubaa, Y. & M’sirdi, N. Second order sliding mode-based MPPT control for photovoltaic applications. Solar Energy vol. 155 758–769 (2017) -- [10.1016/j.solener.2017.07.007](https://doi.org/10.1016/j.solener.2017.07.007)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - CL-SM30M
 - Batzelis, E. I. & Papathanassiou, S. A. A Method for the Analytical Extraction of the Single-Diode PV Model Parameters. IEEE Transactions on Sustainable Energy vol. 7 504–512 (2016) -- [10.1109/tste.2015.2503435](https://doi.org/10.1109/tste.2015.2503435)
 

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[T. Rittenschober](authors/t-rittenschober), [K. Schlacher](authors/kurt-schlacher)
+[T. Rittenschober](authors/thomas-rittenschober), [K. Schlacher](authors/kurt-schlacher)
  
 ## Abstract
 No  available

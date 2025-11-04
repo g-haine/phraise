@@ -61,5 +61,5 @@ This paper investigates the stabilization problem of time-varying port-controlle
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - balan, an extension of barbashin-krasovski-lasalle theorem to a class of nonautonomous systems. Harmonic Analysis (1995)
 - Aeyels, D. Asymptotic stability of nonautonomous systems by Liapunov’s direct method. Systems &amp; Control Letters 25, 273–280 (1995) -- [10.1016/0167-6911(94)00088-d](https://doi.org/10.1016/0167-6911(94)00088-d)
-- Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica 40, 1643–1646 (2004) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
+- [Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica 40, 1643–1646 (2004)](an-energy-balancing-perspective-of-interconnection-and-damping-assignment-control-of-nonlinear-systems) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
 

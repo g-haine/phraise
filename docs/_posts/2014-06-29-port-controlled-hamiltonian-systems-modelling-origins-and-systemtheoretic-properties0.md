@@ -50,7 +50,7 @@ Keywords: Network dynamics, general Poisson structures, gyrators, Hamiltonian eq
 - Nijmeijer, (1990)
 - Crouch, (1987)
 - Jakubczyk, “Existence of Hamiltonian realizations of nonlinear causal operators”. Bull. Pol. Ac. Math. (1986)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Brocket, “Control theory and analytical mechanics”. (1977)
 - Krishnaprasad, P. S. & Marsden, J. E. Hamiltonian structures and stability for rigid bodies with flexible attachments. Arch. Rational Mech. Anal. 98, 71–93 (1987) -- [10.1007/bf00279963](https://doi.org/10.1007/bf00279963)
 - Karnopp, D. The energetic structure of multi-body dynamic systems. Journal of the Franklin Institute 306, 165–181 (1978) -- [10.1016/0016-0032(78)90081-9](https://doi.org/10.1016/0016-0032(78)90081-9)

@@ -60,7 +60,7 @@ This paper proposes an adaptive trajectory tracking control for an autonomous pl
 - Morton, C., Pickert, V. & Armstrong, M. Self-Alignment Torque as a Source of Energy Recovery for Hybrid Electric Trucks. IEEE Trans. Veh. Technol. 63, 62–71 (2014) -- [10.1109/tvt.2013.2271049](https://doi.org/10.1109/tvt.2013.2271049)
 - kelly, An introduction to trajectory optimization: how to do your own direct collocation. submitted to SIAM Review (2016)
 - Nonholonomic Mechanics and Control Interdisciplinary Applied Mathematics (2015)
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control 10, 421–431 (2004) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control 10, 421–431 (2004)](trajectory-tracking-control-of-nonholonomic-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - fujimoto, On trajectory tracking control of port-Hamiltonian systems with quaternions Kenji Fujimoto and Taishi Nishiyama (Kyoto University) (2014)
 - getz, Dynamic Inversion of Nonlinear Maps with Applications to Nonlinear Control and Robotics (1995)

@@ -63,5 +63,5 @@ Passivity-based control; Port–Hamiltonian systems; Energy-balance; Interconnec
 - Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Transactions on Automatic Control vol. 36 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
 - Ortega, R., Jeltsema, D. & Scherpen, J. M. A. Power shaping: A new paradigm for stabilization of nonlinear RLC circuits. IEEE Transactions on Automatic Control vol. 48 1762–1767 (2003) -- [10.1109/tac.2003.817918](https://doi.org/10.1109/tac.2003.817918)
 - Rao, (1971)
-- Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica vol. 40 1643–1646 (2004) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
+- [Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica vol. 40 1643–1646 (2004)](an-energy-balancing-perspective-of-interconnection-and-damping-assignment-control-of-nonlinear-systems) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
 

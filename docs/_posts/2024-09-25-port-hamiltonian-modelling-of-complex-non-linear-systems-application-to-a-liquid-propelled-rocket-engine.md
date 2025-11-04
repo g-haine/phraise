@@ -56,7 +56,7 @@ Port-Hamiltonian; Modelling; Non-linear; Aerospace; Rocket Engine
 - Breedveld, (1984)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - Duindam, (2009)
-- Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
+- [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - [Esquivel-Sancho, L. M., Muñoz-Arias, M., Phillips-Brenes, H. & Pereira-Arroyo, R. A Reversible Hydropump–Turbine System. Applied Sciences vol. 12 9086 (2022)](a-reversible-hydropump-turbine-system) -- [10.3390/app12189086](https://doi.org/10.3390/app12189086)
 - Manfletti, (2010)
 - Maschke, (1993)

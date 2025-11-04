@@ -91,23 +91,63 @@ fetch_metadata_scopus () {
 # Abstract via scopus
 abstract_from_scopus () {
     local json=$1
-    if echo "$json" | jq empty 2>/dev/null; then
-        local scopus_abstract=$(echo "$json" | jq -r '.["full-text-retrieval-response"].coredata."dc:description" // ""')
-        [ -n "$scopus_abstract" ] && echo "$scopus_abstract"
+    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
+        return 0
     fi
+
+    local abs
+    abs=$(jq -r '
+        (
+          .["full-text-retrieval-response"].coredata."dc:description"
+          // ""
+        )
+        | tostring
+        | gsub("<[^>]+>"; "")
+        | gsub("\\s+"; " ")
+        | gsub("^\\s+|\\s+$"; "")
+    ' <<<"$json")
+
+    [ -n "$abs" ] && [ "$abs" != "null" ] && echo "$abs"
 }
 
 # Keywords via scopus
 keywords_from_scopus () {
     local json=$1
-    if echo "$json" | jq empty 2>/dev/null; then
-        local scopus_keywords=$(echo "$json" | jq -r 'if .["full-text-retrieval-response"].coredata."dcterms:subject" then 
-              [.["full-text-retrieval-response"].coredata."dcterms:subject"[]["$"]] | join("; ") 
-           else 
-              "" 
-           end')
-        [ -n "$scopus_keywords" ] && echo "$scopus_keywords"
+    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
+        return 0
     fi
+
+    local out
+    out=$(jq -r '
+        def norm(s):
+          s | tostring
+            | ascii_downcase
+            | gsub("^\\s+|\\s+$"; "");
+
+        def from_subjects:
+          (
+            .["full-text-retrieval-response"].coredata."dcterms:subject"
+            // []
+          )
+          | map(.["$"] // empty)
+          | map(norm(.))
+          | map(select(length > 0));
+
+        def from_authkeywords:
+          (
+            .["full-text-retrieval-response"].coredata.authkeywords
+            // ""
+          )
+          | tostring
+          | if . == "" or . == "null" then [] else
+              ( split("[|;,]"; "x") | map(norm(.)) )
+            end
+          | map(select(length > 0));
+
+        ( (from_subjects + from_authkeywords) | unique ) | join(", ")
+    ' <<<"$json")
+
+    [ -n "$out" ] && [ "$out" != "null" ] && echo "$out"
 }
 
 # event via scopus : super pour le nom de la conf IFAC
@@ -128,23 +168,57 @@ fetch_metadata_springer () {
 # Abstract via Springer
 abstract_from_springer () {
     local json=$1
-    if echo "$json" | jq empty 2>/dev/null; then
-        local springer_abstract=$(echo "$json" | jq -r '.records[0].abstract // ""')
-        [ -n "$springer_abstract" ] && echo "$springer_abstract"
+    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
+        return 0
     fi
+
+    local abs
+    abs=$(jq -r '
+        (
+          .records[0].abstract
+          // ""
+        )
+        | tostring
+        | gsub("<[^>]+>"; "")
+        | gsub("\\s+"; " ")
+        | gsub("^\\s+|\\s+$"; "")
+    ' <<<"$json")
+
+    [ -n "$abs" ] && [ "$abs" != "null" ] && echo "$abs"
 }
 
 # Keywords via Springer
 keywords_from_springer () {
     local json=$1
-    if echo "$json" | jq empty 2>/dev/null; then
-        local springer_keywords=$(echo "$json" | jq -r 'if .records[0].keyword then 
-              [.records[0].keyword[]] | join("; ") 
-           else 
-              "" 
-           end')
-        [ -n "$springer_keywords" ] && echo "$springer_keywords"
+    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
+        return 0
     fi
+
+    local out
+    out=$(jq -r '
+        def norm(s):
+          s | tostring
+            | ascii_downcase
+            | gsub("^\\s+|\\s+$"; "");
+
+        if (.records | type == "array") and (.records | length > 0) then
+          (
+            .records[0].keyword
+            | if type == "array" then
+                ( map(norm(.)) )
+              elif type == "string" then
+                ( split("[,;|]"; "x") | map(norm(.)) )
+              else
+                []
+              end
+            | map(select(length > 0))
+            | unique
+            | join(", ")
+          )
+        else "" end
+    ' <<<"$json")
+
+    [ -n "$out" ] && [ "$out" != "null" ] && echo "$out"
 }
 
 # event via springer : super pour le nom de la conf également, type GSI
@@ -156,7 +230,7 @@ event_from_springer () {
     fi
 }
 
-# Optimisation avancée de la récupération des abstracts avec correction des erreurs de boucle
+# Récupération des abstracts (OpenAlex, Semantic Scholar)
 fetch_abstract_complement () {
     local doi=$1
     local abstract="No abstract available"
@@ -167,24 +241,39 @@ fetch_abstract_complement () {
         curl -Ls --connect-timeout 5 --retry 3 --retry-delay 2 "$1" || echo ""
     }
 
-    # 1. Essai via OpenAlex
-    local openalex_response=$(safe_curl "https://api.openalex.org/works/https://doi.org/$doi")
+    # 1. OpenAlex
+    local openalex_response
+    openalex_response=$(safe_curl "https://api.openalex.org/works/https://doi.org/$doi")
     if echo "$openalex_response" | jq empty 2>/dev/null; then
-        local openalex_abstract=$(echo "$openalex_response" | jq -r '.abstract_inverted_index | to_entries? | map(.value) | unique | join(" ") // ""')
-        [ -n "$openalex_abstract" ] && candidates+=("$openalex_abstract")
+        # Recomposition simple depuis abstract_inverted_index (ok dans la majorité des cas)
+        local openalex_abstract
+        openalex_abstract=$(echo "$openalex_response" | jq -r '
+            .abstract_inverted_index
+            | ( to_entries? // [] )
+            | sort_by( .value[0] )
+            | map(.key)
+            | join(" ")
+        ')
+        [ -n "$openalex_abstract" ] && [ "$openalex_abstract" != "null" ] && candidates+=("$openalex_abstract")
     fi
 
-    # 2. Essai via Semantic Scholar
-    local semantics_response=$(safe_curl "https://api.semanticscholar.org/v1/paper/$doi")
+    # 2. Semantic Scholar
+    local semantics_response
+    semantics_response=$(safe_curl "https://api.semanticscholar.org/graph/v1/paper/DOI:$doi?fields=abstract")
     if echo "$semantics_response" | jq empty 2>/dev/null; then
-        local semantics_abstract=$(echo "$semantics_response" | jq -r '.abstract // ""')
-        [ -n "$semantics_abstract" ] && candidates+=("$semantics_abstract")
+        local semantics_abstract
+        semantics_abstract=$(echo "$semantics_response" | jq -r '.abstract // ""')
+        [ -n "$semantics_abstract" ] && [ "$semantics_abstract" != "null" ] && candidates+=("$semantics_abstract")
     fi
 
-    # 3. Sélection de l'abstract le plus long
+    # 3. Sélection du candidat le plus long (après trim)
     for candidate in "${candidates[@]}"; do
-        if [ "${#candidate}" -gt "${#abstract}" ]; then
-            abstract="$candidate"
+        local trimmed
+        trimmed="$(echo "$candidate" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')"
+        if [ -n "$trimmed" ] && [ "$trimmed" != "null" ]; then
+            if [ "${#trimmed}" -gt "${#abstract}" ] || [ "$abstract" = "No abstract available" ]; then
+                abstract="$trimmed"
+            fi
         fi
     done
 

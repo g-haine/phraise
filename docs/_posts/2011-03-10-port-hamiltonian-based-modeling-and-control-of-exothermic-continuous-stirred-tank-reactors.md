@@ -57,7 +57,7 @@ Hamiltonian formalism; Lyapunov; Thermodynamics; IDA-PBC control; CSTR
 - Callen, (1985)
 - Couenne, F., Jallut, C., Maschke, B., Breedveld, P. C. & Tayakout, M. Bond graph modelling for chemical reactors. Mathematical and Computer Modelling of Dynamical Systems 12, 159–174 (2006) -- [10.1080/13873950500068823](https://doi.org/10.1080/13873950500068823)
 - [Dörfler, F., Johnsen, J. K. & Allgöwer, F. An introduction to interconnection and damping assignment passivity-based control in process engineering. Journal of Process Control 19, 1413–1426 (2009)](an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering) -- [10.1016/j.jprocont.2009.07.015](https://doi.org/10.1016/j.jprocont.2009.07.015)
-- Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics 60, 175–198 (2007) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
+- [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics 60, 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - Favache, Power-shaping control of an exothermic continuous stirred tank reactor (CSTR). ADCHEM (2009)
 - de Groot, (1962)
 - Hoang, Lyapunov based control for non isothermal continuous stirred tank reactor. IFAC World congress (2008)

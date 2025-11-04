@@ -59,7 +59,7 @@ PI controllers; Flow constraints; Directed graphs; Port-Hamiltonian systems; Con
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Dynamics on Graphs: Consensus and Coordination Control Algorithms. IFAC Proceedings Volumes vol. 43 175–178 (2010)](port-hamiltonian-dynamics-on-graphs-consensus-and-coordination-control-algorithms) -- [10.3182/20100913-2-fr-4014.00012](https://doi.org/10.3182/20100913-2-fr-4014.00012)
 - Burger, M., Zelazo, D. & Allgower, F. Network clustering: A dynamical systems and saddle-point perspective. IEEE Conference on Decision and Control and European Control Conference 7825–7830 (2011) doi:10.1109/cdc.2011.6161045 -- [10.1109/cdc.2011.6161045](https://doi.org/10.1109/cdc.2011.6161045)
 - Zelazo, D. & Mesbahi, M. Edge Agreement: Graph-Theoretic Performance Bounds and Passivity Analysis. IEEE Transactions on Automatic Control vol. 56 544–555 (2011) -- [10.1109/tac.2010.2056730](https://doi.org/10.1109/tac.2010.2056730)
-- van der Schaft, A. J. & Wei, J. A Hamiltonian perspective on the control of dynamical distribution networks. IFAC Proceedings Volumes vol. 45 24–29 (2012) -- [10.3182/20120829-3-it-4022.00033](https://doi.org/10.3182/20120829-3-it-4022.00033)
+- [van der Schaft, A. J. & Wei, J. A Hamiltonian perspective on the control of dynamical distribution networks. IFAC Proceedings Volumes vol. 45 24–29 (2012)](a-hamiltonian-perspective-on-the-control-of-dynamical-distribution-networks) -- [10.3182/20120829-3-it-4022.00033](https://doi.org/10.3182/20120829-3-it-4022.00033)
 - Bollobas, (1998)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
 - van der Schaft, (1996)

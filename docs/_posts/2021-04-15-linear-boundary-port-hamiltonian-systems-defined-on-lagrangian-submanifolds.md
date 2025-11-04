@@ -57,7 +57,7 @@ Port Hamiltonian systems; Dirac structures; Lagrangian subspaces
 - Eringen, A. C. On differential equations of nonlocal elasticity and solutions of screw dislocation and surface waves. Journal of Applied Physics vol. 54 4703–4710 (1983) -- [10.1063/1.332803](https://doi.org/10.1063/1.332803)
 - Dorfman, (1993)
 - Duindam, (2009)
-- Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
+- [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - Favache, A., Dochain, D. & Maschke, B. An entropy-based formulation of irreversible processes based on contact structures. Chemical Engineering Science vol. 65 5204–5216 (2010) -- [10.1016/j.ces.2010.06.019](https://doi.org/10.1016/j.ces.2010.06.019)
 - [Favache, A., Dos Santos Martins, V. S., Dochain, D. & Maschke, B. Some Properties of Conservative Port Contact Systems. IEEE Transactions on Automatic Control vol. 54 2341–2351 (2009)](some-properties-of-conservative-port-contact-systems) -- [10.1109/tac.2009.2028973](https://doi.org/10.1109/tac.2009.2028973)
 - Hamroun, Port-based modelling for open channel irrigation systems. Transactions on Fluid Mechanics (2006)

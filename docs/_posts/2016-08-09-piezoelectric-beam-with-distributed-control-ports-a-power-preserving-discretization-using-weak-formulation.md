@@ -67,5 +67,5 @@ Model Reduction for Control; Port-Hamiltonian systems; Piezoelectric materials
 - Trefethen, (2000)
 - [Voss, T. & Scherpen, J. M. A. Structure Preserving Spatial Discretization of a 1-D Piezoelectric Timoshenko Beam. Multiscale Modeling &amp; Simulation vol. 9 129–154 (2011)](structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam) -- [10.1137/100789038](https://doi.org/10.1137/100789038)
 - [Voß, T. & Scherpen, J. M. A. Port-Hamiltonian Modeling of a Nonlinear Timoshenko Beam with Piezo Actuation. SIAM Journal on Control and Optimization vol. 52 493–519 (2014)](port-hamiltonian-modeling-of-a-nonlinear-timoshenko-beam-with-piezo-actuation) -- [10.1137/090774598](https://doi.org/10.1137/090774598)
-- VU, N. M. T., LEFEVRE, L., NOUAILLETAS, R. & BREMOND, S. Geometric discretization for a plasma control model. IFAC Proceedings Volumes vol. 46 755–760 (2013) -- [10.3182/20130204-3-fr-2033.00098](https://doi.org/10.3182/20130204-3-fr-2033.00098)
+- [VU, N. M. T., LEFEVRE, L., NOUAILLETAS, R. & BREMOND, S. Geometric discretization for a plasma control model. IFAC Proceedings Volumes vol. 46 755–760 (2013)](geometric-discretization-for-a-plasma-control-model) -- [10.3182/20130204-3-fr-2033.00098](https://doi.org/10.3182/20130204-3-fr-2033.00098)
 

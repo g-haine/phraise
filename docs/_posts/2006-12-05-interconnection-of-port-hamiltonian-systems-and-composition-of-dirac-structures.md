@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[J. Cervera](authors/j-cervera), [A.J. van der Schaft](authors/arjan-van-der-schaft), [A. Baños](authors/a-banos)
+[J. Cervera](authors/joaquin-cervera), [A.J. van der Schaft](authors/arjan-van-der-schaft), [A. Baños](authors/alfonso-banos)
  
 ## Abstract
 Port-based network modeling of physical systems leads to a model class of nonlinear systems known as port-Hamiltonian systems. Port-Hamiltonian systems are defined with respect to a geometric structure on the state space, called a Dirac structure. Interconnection of port-Hamiltonian systems results in another port-Hamiltonian system with Dirac structure defined by the composition of the Dirac structures of the subsystems. In this paper the composition of Dirac structures is being studied, both in power variables and in wave variables (scattering) representation. This latter case is shown to correspond to the Redheffer star product of unitary mappings. An equational representation of the composed Dirac structure is derived. Furthermore, the regularity of the composition is being studied. Necessary and sufficient conditions are given for the achievability of a Dirac structure arising from the standard feedback interconnection of a plant port-Hamiltonian system and a controller port-Hamiltonian system, and an explicit description of the class of achievable Casimir functions is derived.
@@ -56,12 +56,12 @@ Network modeling; Composition; Scattering; Star product; Casimirs
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Dorfman, (1993)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Golo, Hamiltonian formulation of bond graphs. (2003)
 - Hogan, N. Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control vol. 107 1–7 (1985) -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
 - Maschke, B. M. & van der Schaft, A. J. Interconnection of systems: the network paradigm. Proceedings of 35th IEEE Conference on Decision and Control vol. 1 207–212 -- [10.1109/cdc.1996.574297](https://doi.org/10.1109/cdc.1996.574297)
 - Maschke, Interconnected mechanical systems, Part I and II. (1997)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Narayanan, H. Some applications of an Implicit Duality Theorem to connections of structures of special types including Dirac and reciprocal structures. Systems &amp; Control Letters vol. 45 87–95 (2002) -- [10.1016/s0167-6911(01)00167-0](https://doi.org/10.1016/s0167-6911(01)00167-0)
 - Ortega, Putting energy back in control. Control Systems Magazine (2001)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

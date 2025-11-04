@@ -41,7 +41,7 @@ The authors have extended deterministic port-Hamiltonian systems into stochastic
  
 ## References
 - Yong, J. & Zhou, X. Y. Stochastic Controls. (Springer New York, 1999). doi:10.1007/978-1-4612-1466-3 -- [10.1007/978-1-4612-1466-3](https://doi.org/10.1007/978-1-4612-1466-3)
-- Fujimoto, K., Scherpen, J. M. A. & Gray, W. S. Hamiltonian realizations of nonlinear adjoint operators. Automatica vol. 38 1769–1775 (2002) -- [10.1016/s0005-1098(02)00079-1](https://doi.org/10.1016/s0005-1098(02)00079-1)
+- [Fujimoto, K., Scherpen, J. M. A. & Gray, W. S. Hamiltonian realizations of nonlinear adjoint operators. Automatica vol. 38 1769–1775 (2002)](hamiltonian-realizations-of-nonlinear-adjoint-operators) -- [10.1016/s0005-1098(02)00079-1](https://doi.org/10.1016/s0005-1098(02)00079-1)
 - øksendal, Stochastic differential equations, An introduction with applications. (1998)
 - Kushner, H. J. On the stochastic maximum principle: Fixed time of control. Journal of Mathematical Analysis and Applications vol. 11 78–92 (1965) -- [10.1016/0022-247x(65)90070-3](https://doi.org/10.1016/0022-247x(65)90070-3)
 - Peng, S. A General Stochastic Maximum Principle for Optimal Control Problems. SIAM Journal on Control and Optimization vol. 28 966–979 (1990) -- [10.1137/0328054](https://doi.org/10.1137/0328054)

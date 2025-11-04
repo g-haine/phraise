@@ -40,7 +40,7 @@ Applying a novel control method of the Port-Controlled Hamiltonian (PCH) systems
 [Download the bib file]({{ site.baseurl }}/assets/bib/speed-control-of-induction-motors-based-on-energy-shaping-and-signal-transformation-principle.bib)
  
 ## References
-- González, H., Duarte-Mermoud, M. A., Pelissier, I., Travieso-Torres, J. C. & Ortega, R. A novel induction motor control scheme using IDA-PBC. J. Control Theory Appl. 6, 59–68 (2008) -- [10.1007/s11768-008-7193-9](https://doi.org/10.1007/s11768-008-7193-9)
+- [González, H., Duarte-Mermoud, M. A., Pelissier, I., Travieso-Torres, J. C. & Ortega, R. A novel induction motor control scheme using IDA-PBC. J. Control Theory Appl. 6, 59–68 (2008)](a-novel-induction-motor-control-scheme-using-ida-pbc) -- [10.1007/s11768-008-7193-9](https://doi.org/10.1007/s11768-008-7193-9)
 - yu, Maximum Torque Per Ampere control of PM synchronous motor based on port-controlled Hamiltonian system theory. Proceedings of the CSEE (2006)
 - yu, Energy shaping control of PM synchronous motor based on load torque observer. Systems Engineering and Electronics (2006)
 - yu, Speed Control of PMSM Based on Energy-Shaping and PWM Signal Transformation Principle. International Conference on Electrical Machines and Systems(ICEMS) (2008)

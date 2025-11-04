@@ -52,7 +52,7 @@ In a recent paper a procedure to design globally asymptotically stabilizing line
 - astolfi, Nonlinear and Adaptive Control with Applications (2007)
 - Sanders, S. R. & Verghese, G. C. Lyapunov-based control for switched power converters. IEEE Transactions on Power Electronics vol. 7 17–24 (1992) -- [10.1109/63.124573](https://doi.org/10.1109/63.124573)
 - khalil, Nonlinear Systems (2002)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica vol. 35 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Seibert, P. & Suarez, R. Global stabilization of nonlinear cascade systems. Systems &amp; Control Letters vol. 14 347–352 (1990) -- [10.1016/0167-6911(90)90056-z](https://doi.org/10.1016/0167-6911(90)90056-z)
 - Jaafar, A. et al. Experimental validation with a control point of view analysis of the SEPIC converter. 2009 35th Annual Conference of IEEE Industrial Electronics 462–497 (2009) doi:10.1109/iecon.2009.5414966 -- [10.1109/iecon.2009.5414966](https://doi.org/10.1109/iecon.2009.5414966)
 - Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)

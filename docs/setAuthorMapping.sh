@@ -30,6 +30,7 @@ else
 fi
 
 declare -A author_to_slug
+echo $(date -Iseconds)" Loading author_mappings.json..."
 
 # Charger `assets/data/author_mappings.json` en mémoire
 while IFS= read -r entry; do
@@ -40,9 +41,6 @@ while IFS= read -r entry; do
         author_to_slug["$(echo "$variation" | iconv -c -f UTF-8 -t UTF-8)"]="$slug"
     done < <(jq -r ".\"$slug\"[]" "$MAPPINGS_FILE")
 done < <(jq -c 'to_entries[]' "$MAPPINGS_FILE")
-
-echo "Verifying in assets/data/author_mappings.json..."
-echo ""
 
 sorted_pairs=()
 k=0

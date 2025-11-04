@@ -4,7 +4,7 @@ permalink: /authors/laurent-lefevre
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Laurent Lefèvre, L. Lefevre, L. Lefèvre, Laurent Lefevre, L. LEFÈVRE, L. Lefévre, Laurent LEFEVRE.</p>
+<p id='info-authors'>Alternative author names: Laurent Lefèvre, L. Lefevre, L. Lefèvre, Laurent Lefevre, L. LEFÈVRE, L. Lefévre, Laurent LEFEVRE, L. LEFEVRE.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Antoine Bendimerad-Hohl, Ghislain Haine, Laurent Lefèvre, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/stokes-lagrange-and-stokes-dirac-representations-of-n-dimensional-port-hamiltonian-systems-for-modeling-and-control">Stokes-Lagrange and Stokes-Dirac representations of \(  N  \)-dimensional port-Hamiltonian systems for modeling and control</a></h3></li>
@@ -54,6 +54,7 @@ permalink: /authors/laurent-lefevre
 <li><span class='post-meta'>2015 -- Ngoc Minh Trang Vu, Laurent Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-rank-distributed-control-for-the-resistive-diffusion-equation-using-damping-assignment">Finite rank distributed control for the resistive diffusion equation using damping assignment</a></h3></li>
 <li><span class='post-meta'>2013 -- Silviu Medianu, Laurent Lefevre, Dan Stefanoiu</span><h3><a class='post-link' href="{{ site.baseurl }}/identifiability-of-linear-lossless-port-controlled-hamiltonian-systems">Identifiability of linear lossless Port-controlled Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2013 -- Ngoc Minh Trang Vu, Laurent Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/material-balance-and-closure-equations-for-plasmas-in-tokamaks">Material balance and closure equations for plasmas in Tokamaks</a></h3></li>
+<li><span class='post-meta'>2013 -- N.M.T. VU, L. LEFEVRE, R. NOUAILLETAS, S. BREMOND</span><h3><a class='post-link' href="{{ site.baseurl }}/geometric-discretization-for-a-plasma-control-model">Geometric discretization for a plasma control model</a></h3></li>
 <li><span class='post-meta'>2012 -- Ngoc Minh Trang VU, Laurent LEFEVRE, Bernhard MASCHKE</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulation-for-systems-of-conservation-laws-application-to-plasma-dynamics-in-tokamak-reactors">Port-Hamiltonian formulation for systems of conservation laws: application to plasma dynamics in Tokamak reactors</a></h3></li>
 <li><span class='post-meta'>2012 -- R. Moulla, L. Lefévre, B. Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws">Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws</a></h3></li>
 <li><span class='post-meta'>2010 -- B. Hamroun, L. Lefèvre, E. Mendes</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-based-control-for-open-irrigation-channel-using-a-reduced-port-hamiltonian-model">Energy shaping based control for open irrigation channel using a reduced port hamiltonian model</a></h3></li>

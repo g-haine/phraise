@@ -94,7 +94,7 @@ Energy-based modeling; Port-Hamiltonian systems; Structure-preserving discretiza
 - Domschke, (2021)
 - Dubljevic, Quo vadis advanced chemical process control. Can J Chem Eng (2022)
 - Duindam, (2009)
-- Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
+- [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - Edwards, B. J., Öttinger, H. C. & Jongschaap, R. J. J. On The Relationships Between Thermodynamic Formalisms For Complex Fluids. Journal of Non-Equilibrium Thermodynamics vol. 22 (1997) -- [10.1515/jnet.1997.22.4.356](https://doi.org/10.1515/jnet.1997.22.4.356)
 - [Egger, H. Structure preserving approximation of dissipative evolution problems. Numerische Mathematik vol. 143 85–106 (2019)](structure-preserving-approximation-of-dissipative-evolution-problems) -- [10.1007/s00211-019-01050-w](https://doi.org/10.1007/s00211-019-01050-w)
 - Emmrich, E. & Mehrmann, V. Operator Differential-Algebraic Equations Arising in Fluid Dynamics. Computational Methods in Applied Mathematics vol. 13 443–470 (2013) -- [10.1515/cmam-2013-0018](https://doi.org/10.1515/cmam-2013-0018)

@@ -42,7 +42,7 @@ The major problem of controlling a multi-variable electrical system comes mainly
 ## References
 - Adkins, B. & Harley, R. G. The General Theory of Alternating Current Machines. (Springer US, 1975). doi:10.1007/978-1-4899-2907-5 -- [10.1007/978-1-4899-2907-5](https://doi.org/10.1007/978-1-4899-2907-5)
 - vas, Electrical Machines and Drives: A Space-Vector Theory Approach. (1992)
-- González, H., Duarte-Mermoud, M. A., Pelissier, I., Travieso-Torres, J. C. & Ortega, R. A novel induction motor control scheme using IDA-PBC. J. Control Theory Appl. 6, 59–68 (2008) -- [10.1007/s11768-008-7193-9](https://doi.org/10.1007/s11768-008-7193-9)
+- [González, H., Duarte-Mermoud, M. A., Pelissier, I., Travieso-Torres, J. C. & Ortega, R. A novel induction motor control scheme using IDA-PBC. J. Control Theory Appl. 6, 59–68 (2008)](a-novel-induction-motor-control-scheme-using-ida-pbc) -- [10.1007/s11768-008-7193-9](https://doi.org/10.1007/s11768-008-7193-9)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - grellet, Actionneurs Elefctriques -principe modeles cornmande (1999)
 - lesenne, Introduction it I 'electrotechnique approfondie (1981)

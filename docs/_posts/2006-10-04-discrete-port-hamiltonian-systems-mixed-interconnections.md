@@ -40,7 +40,7 @@ Either from a control theoretic viewpoint or from an analysis viewpoint it is ne
  
 ## References
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - talasila, Port hamiltonian systems - a discrete approach. Submitted to Systems and Control Letters (0)
 - van der schaft, The hamiltonian formulation of energy conserving physical systems with external ports. Archiv fur Electronik und Ubertragungstechnik (1995)
 - Talasila, V., Clemente-Gallardo, J. & Schaft, A. J. van der. Geometry and Hamiltonian mechanics on discrete spaces. J. Phys. A: Math. Gen. 37, 9705–9734 (2004) -- [10.1088/0305-4470/37/41/008](https://doi.org/10.1088/0305-4470/37/41/008)

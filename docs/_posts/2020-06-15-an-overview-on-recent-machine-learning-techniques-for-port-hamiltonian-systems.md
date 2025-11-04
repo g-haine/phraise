@@ -54,7 +54,7 @@ Physical modelling; Control theory; Machine learning; Dynamical systems; Port Ha
 - van der Schaft, (2014)
 - [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
 - [Beattie, C. A., Mehrmann, V. & Van Dooren, P. Robust port-Hamiltonian representations of passive systems. Automatica vol. 100 182–186 (2019)](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Jacob, (2012)
 - Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Transactions on Automatic Control vol. 36 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
 - van der Schaft, (2017)

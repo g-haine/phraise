@@ -55,7 +55,7 @@ Passivity-based control (PBC) for port-Hamiltonian systems provides an intuitive
 - Yin, S., Luo, H. & Ding, S. X. Real-Time Implementation of Fault-Tolerant Control Systems With Performance Optimization. IEEE Transactions on Industrial Electronics vol. 61 2402–2411 (2014) -- [10.1109/tie.2013.2273477](https://doi.org/10.1109/tie.2013.2273477)
 - konidaris, Value function approximation in reinforcement learning using the Fourier basis. (2008)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Koopman, J. & Jeltsema, D. Casimir-Based Control Beyond the Dissipation Obstacle. IFAC Proceedings Volumes vol. 45 173–177 (2012) -- [10.3182/20120829-3-it-4022.00046](https://doi.org/10.3182/20120829-3-it-4022.00046)
+- [Koopman, J. & Jeltsema, D. Casimir-Based Control Beyond the Dissipation Obstacle. IFAC Proceedings Volumes vol. 45 173–177 (2012)](casimir-based-control-beyond-the-dissipation-obstacle) -- [10.3182/20120829-3-it-4022.00046](https://doi.org/10.3182/20120829-3-it-4022.00046)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - secchi, Control of Interactive Robotic Interfaces A Port-Hamiltonian Approach (2007)
 - duindam, Port-based modeling and control for efficient bipedal walking robots (2009)

@@ -51,5 +51,5 @@ This paper is devoted to path following control for port-Hamiltonian systems. Th
 - duindam, passive asymptotic curve tracking. Proc IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control (2003)
 - Li, P. Y. & Horowitz, R. Passive velocity field control (PVFC). Part I. Geometry and robustness. IEEE Transactions on Automatic Control vol. 46 1346–1359 (2001) -- [10.1109/9.948463](https://doi.org/10.1109/9.948463)
 - Maschke, B. M. & van der Schaft, A. J. A Hamiltonian approach to stabilization of nonholonomic mechanical systems. Proceedings of 1994 33rd IEEE Conference on Decision and Control vol. 3 2950–2954 -- [10.1109/cdc.1994.411344](https://doi.org/10.1109/cdc.1994.411344)
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control vol. 10 421–431 (2004) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control vol. 10 421–431 (2004)](trajectory-tracking-control-of-nonholonomic-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
 

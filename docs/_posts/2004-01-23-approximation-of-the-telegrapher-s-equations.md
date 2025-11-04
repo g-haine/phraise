@@ -47,6 +47,6 @@ The problem of approximating a distributed parameter system with free boundary c
 - bossavit, Differential forms and the computation of fileds and forces in electromagnetism. European Journal of Mechanics B/Fluids (1991)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1993). doi:10.1007/978-1-4612-4350-2 -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
 - golo, Hamiltonian discretizations of the telegrapher's equations. preparation (2002)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - van der schaft, The hamiltonian formulation of energy conserving physical systems with external ports. Archiv fur Electronik und Ubertragungstechnik (1995)
 

@@ -51,7 +51,7 @@ Nonlinear control; automotive control; semi-active suspension
 [Download the bib file]({{ site.baseurl }}/assets/bib/control-of-port-hamiltonian-systems-by-dissipative-devices-and-its-application-to-improve-the-semi-active-suspension-behaviour0.bib)
  
 ## References
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - [Garcia–Canseco, E., Pasumarthy, R., van der Schaft, A. & Ortega, R. ON CONTROL BY INTERCONNECTION OF PORT HAMILTONIAN SYSTEMS. IFAC Proceedings Volumes 38, 330–335 (2005)](on-control-by-interconnection-of-port-hamiltonian-systems) -- [10.3182/20050703-6-cz-1902.00709](https://doi.org/10.3182/20050703-6-cz-1902.00709)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Perez, M., Ortega, R. & Espinoza, J. Passivity-Based PI Control of Switched Power Converters. IEEE Trans. Contr. Syst. Technol. 12, 881–890 (2004) -- [10.1109/tcst.2004.833628](https://doi.org/10.1109/tcst.2004.833628)

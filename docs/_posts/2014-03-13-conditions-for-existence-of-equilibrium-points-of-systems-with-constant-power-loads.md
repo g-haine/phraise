@@ -50,7 +50,7 @@ In this paper we investigate the sine qua non condition of existence of equilibr
 - Sudhoff, S. D. et al. Admittance space stability analysis of power electronic systems. IEEE Trans. Aerosp. Electron. Syst. 36, 965–973 (2000) -- [10.1109/7.869517](https://doi.org/10.1109/7.869517)
 - Sanchez, S. & Molinas, M. Assessment of a stability analysis tool for constant power loads in DC-grids. 2012 15th International Power Electronics and Motion Control Conference (EPE/PEMC) DS3b.2-1-DS3b.2-5 (2012) doi:10.1109/epepemc.2012.6397317 -- [10.1109/epepemc.2012.6397317](https://doi.org/10.1109/epepemc.2012.6397317)
 - Guerrero, J. M., Vasquez, J. C., Matas, J., de Vicuna, L. G. & Castilla, M. Hierarchical Control of Droop-Controlled AC and DC Microgrids—A General Approach Toward Standardization. IEEE Trans. Ind. Electron. 58, 158–172 (2011) -- [10.1109/tie.2010.2066534](https://doi.org/10.1109/tie.2010.2066534)
-- Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
+- [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - papathanassiou, A benchmark low voltage microgrid network. Cigre Symposium (2005)
 - hiroaki, Low-voltage bipolar type dc microgrid for super high quality distribution. IEEE Transactions on Power Electronics (2010)
 - middlebrook, Input Filter Considerations in Design and Application of Switching Regulators (1976)

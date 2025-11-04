@@ -64,7 +64,7 @@ Port-Hamiltonian systems; Irreversible thermodynamics; Infinite dimensional syst
 - Cussler, (2009)
 - De Groot, (1962)
 - (2009)
-- Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
+- [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - Favache, A. & Dochain, D. Power-shaping control of reaction systems: The CSTR case. Automatica vol. 46 1877–1883 (2010) -- [10.1016/j.automatica.2010.07.011](https://doi.org/10.1016/j.automatica.2010.07.011)
 - Favache, A., Dochain, D. & Maschke, B. An entropy-based formulation of irreversible processes based on contact structures. Chemical Engineering Science vol. 65 5204–5216 (2010) -- [10.1016/j.ces.2010.06.019](https://doi.org/10.1016/j.ces.2010.06.019)
 - Favache, A., Dochain, D. & Winkin, J. J. Power-shaping control: Writing the system dynamics into the Brayton–Moser form. Systems &amp; Control Letters vol. 60 618–624 (2011) -- [10.1016/j.sysconle.2011.04.021](https://doi.org/10.1016/j.sysconle.2011.04.021)

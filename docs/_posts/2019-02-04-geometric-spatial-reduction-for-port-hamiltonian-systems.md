@@ -72,7 +72,7 @@ Geometric reduction; Distributed parameters systems; Port Hamiltonian systems; T
 - Emerging applications in tokamak plasma control. IEEE Control Systems vol. 26 35–63 (2006) -- [10.1109/mcs.2006.1615272](https://doi.org/10.1109/mcs.2006.1615272)
 - Ariola, Magnetic control of tokamak plasmas. (2008)
 - Blum, (1989)
-- VU, N. M. T., LEFEVRE, L., NOUAILLETAS, R. & BREMOND, S. Geometric discretization for a plasma control model. IFAC Proceedings Volumes vol. 46 755–760 (2013) -- [10.3182/20130204-3-fr-2033.00098](https://doi.org/10.3182/20130204-3-fr-2033.00098)
+- [VU, N. M. T., LEFEVRE, L., NOUAILLETAS, R. & BREMOND, S. Geometric discretization for a plasma control model. IFAC Proceedings Volumes vol. 46 755–760 (2013)](geometric-discretization-for-a-plasma-control-model) -- [10.3182/20130204-3-fr-2033.00098](https://doi.org/10.3182/20130204-3-fr-2033.00098)
 - Macchelli, Modeling and control of complex physical systems - the port-hamiltonian approach. (2009)
 - Felici, F. & Sauter, O. Non-linear model-based optimization of actuator trajectories for tokamak plasma profile control. Plasma Physics and Controlled Fusion vol. 54 025002 (2012) -- [10.1088/0741-3335/54/2/025002](https://doi.org/10.1088/0741-3335/54/2/025002)
 - [Vu, N. M. T., Lefèvre, L., Nouailletas, R. & Brémond, S. Symplectic spatial integration schemes for systems of balance equations. Journal of Process Control vol. 51 1–17 (2017)](symplectic-spatial-integration-schemes-for-systems-of-balance-equations) -- [10.1016/j.jprocont.2016.12.005](https://doi.org/10.1016/j.jprocont.2016.12.005)

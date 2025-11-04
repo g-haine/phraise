@@ -40,7 +40,7 @@ This paper describes a procedure to design potential functions for path followin
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-potential-function-design-for-path-following-control-of-port-hamiltonian-systems.bib)
  
 ## References
-- Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control 10, 421–431 (2004) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
+- [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control 10, 421–431 (2004)](trajectory-tracking-control-of-nonholonomic-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1996). doi:10.1007/3-540-76074-1 -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)

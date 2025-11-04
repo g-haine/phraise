@@ -65,7 +65,7 @@ category: articles
 - Malis, E., Chaumette, F. & Boudet, S. 2 1/2 D visual servoing. IEEE Transactions on Robotics and Automation vol. 15 238–250 (1999) -- [10.1109/70.760345](https://doi.org/10.1109/70.760345)
 - Maruyama A, Advanced Robotics (1998)
 - Maruyama, A., Kawai, H. & Fujita, M. Stability and tracking performance of dynamic visual feedback control for nonlinear mechanical systems. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 5 4415–4420 -- [10.1109/cdc.2001.980897](https://doi.org/10.1109/cdc.2001.980897)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Murao, T., Kawai, H. & Fujita, M. Visual motion observer-based stabilizing receding horizon control via image space navigation function. 2010 IEEE International Conference on Control Applications 1648–1653 (2010) doi:10.1109/cca.2010.5611200 -- [10.1109/cca.2010.5611200](https://doi.org/10.1109/cca.2010.5611200)
 - Papanikolopoulos N, Proceedings of the American Control Conference (1991)
 - Piepmeier JA, A Dynamic Quasi-Newton Method for Model Independent Visual Servoing (1999)

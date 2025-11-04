@@ -62,7 +62,7 @@ distributed parameter systems; Hamiltonian systems; Dirac structures; boundary c
 - Holm, D. D., Marsden, J. E., Ratiu, T. & Weinstein, A. Nonlinear stability of fluid and plasma equilibria. Physics Reports 123, 1–116 (1985) -- [10.1016/0370-1573(85)90028-6](https://doi.org/10.1016/0370-1573(85)90028-6)
 - Ingarden, (1985)
 - [Lewis, D., Marsden, J., Montgomery, R. & Ratiu, T. The Hamiltonian structure for dynamic free boundary problems. Physica D: Nonlinear Phenomena 18, 391–404 (1986)](the-hamiltonian-structure-for-dynamic-free-boundary-problems) -- [10.1016/0167-2789(86)90207-1](https://doi.org/10.1016/0167-2789(86)90207-1)
-- Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Maschke, Interconnection of systems: the network paradigm. (1996)
 - Maschke, Interconnected mechanical systems, part II: the dynamics of spatial mechanical networks. (1997)
 - Maschke, Note on the dynamics of LC circuits with elements in excess (1998)

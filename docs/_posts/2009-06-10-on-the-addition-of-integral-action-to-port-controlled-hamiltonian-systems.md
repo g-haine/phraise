@@ -55,7 +55,7 @@ Nonlinear control; Port-Hamiltonian systems; Integral control; Permanent-magnet 
 - Blankenstein, G. Geometric modeling of nonlinear RLC circuits. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 52 396–404 (2005) -- [10.1109/tcsi.2004.840481](https://doi.org/10.1109/tcsi.2004.840481)
 - Borutzky, (2004)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
-- Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory vol. 17 152–174 (2009) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
+- [Donaire, A. & Junco, S. Energy shaping, interconnection and damping assignment, and integral control in the bond graph domain. Simulation Modelling Practice and Theory vol. 17 152–174 (2009)](energy-shaping-interconnection-and-damping-assignment-and-integral-control-in-the-bond-graph-domain) -- [10.1016/j.simpat.2008.02.012](https://doi.org/10.1016/j.simpat.2008.02.012)
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Khalil, (1996)
 - Lanczos, (1960)

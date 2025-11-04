@@ -7,7 +7,6 @@ permalink: /authors/bing-wang
 <p id='info-authors'>Alternative author names: Bing Wang, Bing Wang -, null Bing Wang.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2024 -- Chengzhi Qin, Bing Wang, Shanhui Fan, Peixiang Lu</span><h3><a class='post-link' href="{{ site.baseurl }}/gauge-flux-induced-anti-pt-phase-transitions-for-extreme-control-of-channel-drop-tunneling">Gauge‐Flux‐Induced Anti‐Pt Phase Transitions for Extreme Control of Channel‐Drop Tunneling</a></h3></li>
 <li><span class='post-meta'>2020 -- Zhen Tang, Bing Wang, Xiang Gao, Weiyang Liu, Lingyan Wei</span><h3><a class='post-link' href="{{ site.baseurl }}/l2-disturbance-suppression-controller-design-for-multiple-time-delays-offshore-wind-turbines">L2 Disturbance Suppression Controller Design for Multiple Time Delays Offshore Wind Turbines</a></h3></li>
 <li><span class='post-meta'>2020 -- Bing Wang, Zhen Tang, Weiyang Liu, Qiuqiao Zhang</span><h3><a class='post-link' href="{{ site.baseurl }}/a-distributed-cooperative-control-strategy-of-offshore-wind-turbine-groups-with-input-time-delay">A Distributed Cooperative Control Strategy of Offshore Wind Turbine Groups with Input Time Delay</a></h3></li>
 <li><span class='post-meta'>2018 -- Bing Wang, Min Tian, Tingjun Lin, Yinlong Hu</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-complementary-control-research-of-wind-turbines-in-two-offshore-wind-farms">Distributed Complementary Control Research of Wind Turbines in Two Offshore Wind Farms</a></h3></li>

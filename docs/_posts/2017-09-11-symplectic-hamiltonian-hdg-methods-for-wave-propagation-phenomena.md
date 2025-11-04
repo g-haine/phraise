@@ -53,7 +53,7 @@ Finite element methods; Discontinuous Galerkin methods; Hybrid/mixed methods; Ac
 [Download the bib file]({{ site.baseurl }}/assets/bib/symplectic-hamiltonian-hdg-methods-for-wave-propagation-phenomena.bib)
  
 ## References
-- [Blanes, S. & Moan, P. C. Practical symplectic partitioned Runge–Kutta and Runge–Kutta–Nyström methods. Journal of Computational and Applied Mathematics vol. 142 313–330 (2002)](practical-symplectic-partitioned-runge-kutta-and-runge-kutta-nystrom-methods) -- [10.1016/s0377-0427(01)00492-7](https://doi.org/10.1016/s0377-0427(01)00492-7)
+- Blanes, S. & Moan, P. C. Practical symplectic partitioned Runge–Kutta and Runge–Kutta–Nyström methods. Journal of Computational and Applied Mathematics vol. 142 313–330 (2002) -- [10.1016/s0377-0427(01)00492-7](https://doi.org/10.1016/s0377-0427(01)00492-7)
 - Bochev, P. B. & Scovel, C. On quadratic invariants and symplectic structure. BIT vol. 34 337–345 (1994) -- [10.1007/bf01935643](https://doi.org/10.1007/bf01935643)
 - Brenner, The Mathematical Theory of Finite Element Methods. (1994)
 - Chung, E. T. & Engquist, B. Optimal Discontinuous Galerkin Methods for the Acoustic Wave Equation in Higher Dimensions. SIAM Journal on Numerical Analysis vol. 47 3820–3848 (2009) -- [10.1137/080729062](https://doi.org/10.1137/080729062)
