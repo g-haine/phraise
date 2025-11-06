@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 # Ce script cherche :
@@ -71,7 +71,7 @@ while [[ "$CURSOR" != "null" && $PAGE_COUNT -lt $MAX_PAGES ]]; do
 
     # Obtenir le curseur pour la prochaine page
     CURSOR=$(jq -r '.meta.next_cursor' "$OUT_FILE")
-    ((PAGE_COUNT++))
+    (( ++PAGE_COUNT )) || :
 done
 sed -i 's|^https://doi.org/||' "$TMP_DOIS_OA"
 sed -i '/^[[:space:]]*$/d' "$TMP_DOIS_OA"
