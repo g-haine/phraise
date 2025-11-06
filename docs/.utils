@@ -1,3 +1,6 @@
+#!/bin/bash
+set -euo pipefail
+
 # Ce fichier contient les différentes fonctions utiles à plusieurs scripts à la fois
 
 # Mail, Scopus key and Springer key
@@ -85,7 +88,9 @@ fetch_metadata_crossref () {
 # Appel à l'API de scopus
 fetch_metadata_scopus () {
     local doi=$1
-    echo $(curl -s -X GET "https://api.elsevier.com/content/article/doi/$doi" -H "Accept: application/json" -H "X-ELS-APIKey: $SCOPUS_API_KEY")
+    local enc_doi
+    enc_doi=$(jq -rn --arg d "$doi" '$d|@uri')
+    echo $(curl -s -X GET "https://api.elsevier.com/content/article/doi/$enc_doi" -H "Accept: application/json" -H "X-ELS-APIKey: $SCOPUS_API_KEY")
 }
 
 # Abstract via scopus
@@ -162,7 +167,9 @@ event_from_scopus () {
 # Appel à l'API de Springer
 fetch_metadata_springer () {
     local doi=$1
-    echo $(curl -s -X GET "https://api.springernature.com/meta/v2/json?q=doi:$doi&api_key=$SPRINGER_API_KEY")
+    local enc_doi
+    enc_doi=$(jq -rn --arg d "$doi" '$d|@uri')
+    echo $(curl -s -X GET "https://api.springernature.com/meta/v2/json?q=doi:$enc_doi&api_key=$SPRINGER_API_KEY")
 }
 
 # Abstract via Springer
@@ -230,10 +237,239 @@ event_from_springer () {
     fi
 }
 
+# Appel à l'API IEEE Xplore (DOI d'abord, repli sur /search)
+fetch_metadata_ieee () {
+    local doi=$1
+    local enc_doi
+    enc_doi=$(jq -rn --arg d "$doi" '$d|@uri')
+    echo $(curl -s "https://ieeexploreapi.ieee.org/api/v1/articles/doi/${enc_doi}?apikey=${IEEE_API_KEY}&format=json")
+}
+
+# Abstract via IEEE
+abstract_from_ieee () {
+    local json=$1
+    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
+        return 0
+    fi
+
+    # L’abstract est dans articles[0].abstract
+    local abs
+    abs=$(jq -r '
+        (
+          .articles[0].abstract
+          // ""
+        )
+        | tostring
+        | gsub("<[^>]+>"; "")
+        | gsub("\\s+"; " ")
+        | gsub("^\\s+|\\s+$"; "")
+    ' <<<"$json")
+
+    [ -n "$abs" ] && [ "$abs" != "null" ] && echo "$abs"
+}
+
+# Keywords via IEEE (fusionne author_terms + ieee_terms + index_terms le cas échéant)
+keywords_from_ieee () {
+    local json=$1
+    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
+        return 0
+    fi
+
+    # Les mots-clés peuvent apparaître sous:
+    # - articles[0].author_terms (array de strings)
+    # - articles[0].ieee_terms   (array de strings, thésaurus contrôlé)
+    # - articles[0].index_terms  (objet possédant possiblement author_terms/ieee_terms)
+    local out
+    out=$(jq -r '
+        def norm(s):
+          s | tostring
+            | ascii_downcase
+            | gsub("^\\s+|\\s+$"; "");
+
+        def arr(x):
+          if x|type=="array" then x else [] end;
+
+        if (.articles|type=="array") and (.articles|length>0) then
+          (
+            ( arr(.articles[0].author_terms)
+            + arr(.articles[0].ieee_terms)
+            + ( if .articles[0].index_terms|type=="object" then
+                  ( arr(.articles[0].index_terms.author_terms)
+                  + arr(.articles[0].index_terms.ieee_terms) )
+                else [] end )
+            )
+            | map(norm(.))
+            | map(select(length>0))
+            | unique
+            | join(", ")
+          )
+        else "" end
+    ' <<<"$json")
+
+    [ -n "$out" ] && [ "$out" != "null" ] && echo "$out"
+}
+
+# Event (nom de la conférence) via IEEE
+# Pour les contenus de type "Conferences", le nom de l’événement est généralement dans publication_title
+# D’autres infos utiles existent: conference_dates, conference_location
+event_from_ieee () {
+    local json=$1
+    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
+        return 0
+    fi
+
+    local name
+    name=$(jq -r '
+        if (.articles|type=="array") and (.articles|length>0) then
+          ( .articles[0]
+            | if (.content_type|tostring|ascii_downcase) == "conferences"
+              then .publication_title
+              else ""
+              end
+          )
+        else "" end
+    ' <<<"$json")
+
+    [ -n "$name" ] && [ "$name" != "null" ] && echo "$name"
+}
+
+abstract_from_mendeley_fallback () {
+  local DOI="$1"
+  local TOKEN="$MENDELEY_API_KEY"
+
+  if [ -z "$DOI" ]; then
+    echo 'Usage: abstract_from_mendeley_fallback "<DOI>"' >&2
+    return 2
+  fi
+
+  # 1) Récupère le lien depuis Mendeley Catalog
+  JSON=$(
+    curl -X "GET" \
+      "https://api.mendeley.com/catalog?doi=$DOI&view=all" \
+      -H "accept: application/vnd.mendeley-document.1+json" \
+      -H "Authorization: Bearer $TOKEN"
+  )
+
+  local LINK
+  LINK=$(jq -r '[0].link?' <<<"$JSON")
+
+  if [ -z "$LINK" ] || [ "$LINK" = "null" ]; then
+    jq -n --arg doi "$DOI" '{abstract:null, url:null, method:"none", source:"mendeley_link_scrape", error:"no_link_from_mendeley", doi:$doi}'
+    return 1
+  fi
+
+  # 2) Scrape la page ciblée (sans scraping agressif ; simple GET + extraction de balises/meta)
+  python3 - "$LINK" <<'PY'
+import sys, re, json, html
+from bs4 import BeautifulSoup
+import requests
+
+url = sys.argv[1]
+UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome Safari (abstract-fallback)"
+
+def clean_text(t: str) -> str:
+    t = html.unescape(t or "")
+    t = re.sub(r'\s+', ' ', t).strip()
+    return t
+
+try:
+    r = requests.get(url, headers={"User-Agent": UA, "Accept":"text/html,*/*;q=0.8"}, timeout=20, allow_redirects=True)
+    r.raise_for_status()
+except Exception as e:
+    print(json.dumps({"abstract": None, "url": url, "method":"http_error", "source":"mendeley_link_scrape", "error": str(e)}))
+    sys.exit(0)
+
+soup = BeautifulSoup(r.text, "lxml")
+
+candidates = []
+
+# === 1) Carte "Abstract" stricte ===
+# on trouve le titre "Abstract" puis on remonte au conteneur .card correspondant
+title = soup.find(lambda tag: tag.name in ("h2","h3","h4","h5")
+                  and tag.get("data-name") in ("abstract-title",)
+                  or (tag.name in ("h2","h3","h4","h5")
+                      and re.fullmatch(r'\s*abstract\s*', tag.get_text(strip=True), flags=re.I)))
+container = None
+if title:
+    # remonte au div/section parent qui porte la classe 'card' (extrait fourni)
+    cur = title
+    while cur and cur.name not in ("div","section","article"):
+        cur = cur.parent
+    while cur and "card" not in (cur.get("class") or []):
+        # certaines libs génèrent "card__Container-xxxx"
+        if any(isinstance(c, str) and c.startswith("card__") for c in (cur.get("class") or [])):
+            break
+        cur = cur.parent
+    container = cur or title.parent
+
+abstract_text = None
+if container:
+    # cible exact: p[data-name="content"] puis concatène tous les spans internes
+    target = container.select_one('p[data-name="content"]')
+    if target:
+        spans = target.find_all("span")
+        if spans:
+            pieces = [s.get_text(" ", strip=True) for s in spans if s.get_text(strip=True)]
+            abstract_text = " ".join(pieces).strip()
+        else:
+            abstract_text = target.get_text(" ", strip=True).strip()
+        abstract_text = clean_text(abstract_text)
+
+# === 2) Fallback: autres sélecteurs classiques, mais seulement si rien trouvé ===
+if not abstract_text:
+    for sel in [
+        '#Abs1-content',                 # Springer
+        'section.Abstract', 'div.Abstract',
+        'div#abstract', 'section#abstract',
+        'div.article__abstract', 'article .abstract',
+    ]:
+        el = soup.select_one(sel)
+        if el:
+            txt = clean_text(el.get_text(" ", strip=True))
+            if len(txt.split()) > 30:  # évite les teasers
+                abstract_text = txt
+                break
+
+# === 3) Dernier recours: meta/og, mais filtre les teasers courts/avec "..." ===
+def first_meta(*names):
+    for n in names:
+        el = soup.find("meta", attrs={"name": n}) or soup.find("meta", attrs={"property": n})
+        if el and el.get("content"):
+            return el["content"].strip()
+    return None
+
+if not abstract_text:
+    for key in ["citation_abstract", "dcterms.abstract", "DC.Description", "dc.Description",
+                "og:description", "description"]:
+        v = first_meta(key)
+        v = clean_text(v or "")
+        # rejette si trop court ou si ça finit par "..." (teaser)
+        if v and len(v.split()) >= 40 and not v.endswith("..."):
+            abstract_text = v
+            break
+
+# Nettoyages finaux
+if abstract_text:
+    abstract_text = re.sub(r'^(abstract|résumé|summary|zusammenfassung)\s*[:–—-]\s*', '', abstract_text, flags=re.I)
+    # si le texte est encore suspect (teaser), on le rejette
+    if len(abstract_text.split()) < 40:
+        abstract_text = None
+
+method = "card:abstract-title+content" if container and abstract_text else ("css_fallback" if abstract_text else "not_found")
+
+print(json.dumps({
+    "abstract": abstract_text,
+    "url": r.url,
+    "method": method,
+    "source": "mendeley_link_scrape"
+}, ensure_ascii=False))
+PY
+}
+
 # Récupération des abstracts (OpenAlex, Semantic Scholar)
 fetch_abstract_complement () {
     local doi=$1
-    local abstract="No abstract available"
+    local abstract="Not available"
     local candidates=()
 
     # Fonction de sécurité pour les appels API avec suivi des redirections
@@ -241,23 +477,7 @@ fetch_abstract_complement () {
         curl -Ls --connect-timeout 5 --retry 3 --retry-delay 2 "$1" || echo ""
     }
 
-    # 1. OpenAlex
-    local openalex_response
-    openalex_response=$(safe_curl "https://api.openalex.org/works/https://doi.org/$doi")
-    if echo "$openalex_response" | jq empty 2>/dev/null; then
-        # Recomposition simple depuis abstract_inverted_index (ok dans la majorité des cas)
-        local openalex_abstract
-        openalex_abstract=$(echo "$openalex_response" | jq -r '
-            .abstract_inverted_index
-            | ( to_entries? // [] )
-            | sort_by( .value[0] )
-            | map(.key)
-            | join(" ")
-        ')
-        [ -n "$openalex_abstract" ] && [ "$openalex_abstract" != "null" ] && candidates+=("$openalex_abstract")
-    fi
-
-    # 2. Semantic Scholar
+    # 1. Semantic Scholar
     local semantics_response
     semantics_response=$(safe_curl "https://api.semanticscholar.org/graph/v1/paper/DOI:$doi?fields=abstract")
     if echo "$semantics_response" | jq empty 2>/dev/null; then
@@ -265,13 +485,22 @@ fetch_abstract_complement () {
         semantics_abstract=$(echo "$semantics_response" | jq -r '.abstract // ""')
         [ -n "$semantics_abstract" ] && [ "$semantics_abstract" != "null" ] && candidates+=("$semantics_abstract")
     fi
+    
+    # 2. Mendeley
+    local mendeley_response
+    mendeley_response=$(abstract_from_mendeley_fallback "$doi")
+    if echo "$mendeley_response" | jq empty 2>/dev/null; then
+        local mendeley_abstract
+        mendeley_abstract=$(echo "$mendeley_response" | jq -r '.abstract // ""')
+        [ -n "$mendeley_abstract" ] && [ "$mendeley_abstract" != "null" ] && candidates+=("$mendeley_abstract")
+    fi
 
     # 3. Sélection du candidat le plus long (après trim)
     for candidate in "${candidates[@]}"; do
         local trimmed
         trimmed="$(echo "$candidate" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')"
         if [ -n "$trimmed" ] && [ "$trimmed" != "null" ]; then
-            if [ "${#trimmed}" -gt "${#abstract}" ] || [ "$abstract" = "No abstract available" ]; then
+            if [ "${#trimmed}" -gt "${#abstract}" ] || [ "$abstract" = "Not available" ]; then
                 abstract="$trimmed"
             fi
         fi

@@ -23,11 +23,12 @@ Maintaining a large database manually is challenging. To ensure a sustainable an
 While the scripts used for collecting metadata are **publicly available** on the [**GitHub repository**](https://github.com/g-haine/phraise), they will primarily be run by the site maintainer.
 
 ### **Data Sources**
-The metadata is retrieved using a hierarchical approach using the following APIs:
-1. [**CrossRef**](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) and [**DOI Foundation**](https://www.doi.org/doi-handbook/HTML/doi-rest-api.html): primary sources, ensuring completeness of minimal metadata;
-2. [**Scopus**](https://dev.elsevier.com/documentation/SCOPUSSearchAPI.wadl): for abstracts and keywords, when available via Elsevier;
-3. [**Springer Meta API**](https://dev.springernature.com/docs/api-endpoints/meta-api/): for abstracts and keywords from Springer;
-4. [**OpenAlex**](https://docs.openalex.org/how-to-use-the-api/api-overview) & [**Semantic Scholar**](https://www.semanticscholar.org/product/api): as fallback sources for missing abstracts and keywords.
+The metadata is retrieved using a hierarchical approach using the following APIs:  
+1. [**CrossRef**](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) & [**DOI Foundation**](https://www.doi.org/doi-handbook/HTML/doi-rest-api.html): primary sources, ensuring completeness of minimal metadata;  
+2. [**Scopus**](https://dev.elsevier.com/documentation/SCOPUSSearchAPI.wadl): for abstracts and keywords, when available via Elsevier;  
+3. [**Springer Meta API**](https://dev.springernature.com/docs/api-endpoints/meta-api/): for abstracts and keywords from Springer;  
+4. [**IEEE Xplore API**](https://developer.ieee.org/docs): for abstracts and keywords from IEEE;  
+5. [**Mendeley**](https://api.mendeley.com/apidocs/openapi) & [**Semantic Scholar**](https://www.semanticscholar.org/product/api): as fallback sources for missing abstracts.
 
 Currently, **only metadata and abstracts** are collected: **full texts are not included**.
 

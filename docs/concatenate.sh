@@ -9,6 +9,7 @@
 # Fichiers de DOI
 DOI_FILE="DOI.txt"
 NEW_DOI_FILE="newDOI.txt"
+BAD_DOI_FILE="badDOI.txt"
 
 # Fichiers JSON
 BIBLIO_FILE="assets/data/biblio.json"
@@ -46,6 +47,32 @@ else
   rm -f "$TEMP_JSON"
   exit 1
 fi
+
+echo $(date -Iseconds)" Cleaning $BIBLIO_FILE according to $BAD_DOI_FILE..."
+
+# Suppression des éventuelles entrées qui sont dans badDOI.txt
+tmp=$(mktemp)
+# Copie initiale
+cp "$BIBLIO_FILE" "$tmp"
+
+while IFS= read -r doi; do
+    # On évite les lignes vides ou commentées
+    [[ -z "$doi" || "$doi" =~ ^# ]] && continue
+
+    jq --arg doi "$doi" 'del(.[] | select(.doi==$doi))' "$tmp" > "$tmp.new"
+    mv "$tmp.new" "$tmp"
+done < "$BAD_DOI_FILE"
+
+# Une fois la boucle finie, on remplace le fichier d'origine
+mv "$tmp" "$BIBLIO_FILE"
+
+echo $(date -Iseconds)" Cleaning $DOI_FILE according to $BAD_DOI_FILE..."
+
+# On nettoie DOI.txt
+tmp_doi=$(mktemp)
+# Supprime toutes les lignes de DOI.txt qui apparaissent dans badDOI.txt : utile pour retirer rapidement une entrée qu'on a identifiée
+grep -vFf "$BAD_DOI_FILE" "$DOI_FILE" > "$tmp_doi" || true
+mv "$tmp_doi" "$DOI_FILE"
 
 echo $(date -Iseconds)" Update OK!"
 
