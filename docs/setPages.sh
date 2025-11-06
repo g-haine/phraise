@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 # Ce fichier utilise le .json créé par getData.sh et le .json de author_mapping.shen pour générer :
