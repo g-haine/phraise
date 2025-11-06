@@ -81,16 +81,16 @@ sed -i '/null/d' "$TMP_DOIS_OA"
 echo $(date -Iseconds)" Check unicity of DOIs..."
 # S'assurer de ne pas rechercher de doublon
 sort -u -o "$DOI_BAD" "$DOI_BAD"
-doi_file=$TMP_DOIS_OA
+doi_file="$TMP_DOIS_OA"
 uniq_file=$(mktemp)
 tmp_file=$(mktemp)
-cat $doi_file | tr '[:upper:]' '[:lower:]' > $tmp_file
-awk '!seen[$0]++' $tmp_file > $uniq_file
+cat "$doi_file" | tr '[:upper:]' '[:lower:]' > "$tmp_file"
+awk '!seen[$0]++' "$tmp_file" > "$uniq_file"
 grep -vFxf "$DOI_SOURCE" "$uniq_file" | grep -vFxf "$DOI_BAD" > "$TMP_DOIS_OA"
 
 # Pas de preprint ou de supplementary material
-sed -i '/arxiv/d' $TMP_DOIS_OA
-sed -i '/zenodo/d' $TMP_DOIS_OA
+sed -i '/arxiv/d' "$TMP_DOIS_OA"
+sed -i '/zenodo/d' "$TMP_DOIS_OA"
 
 # Filtrer avec CrossRef pour s'assurer du type et que "port-Hamiltonian" est dans titre/abstract
 echo $(date -Iseconds)" CrossRef verification..."
