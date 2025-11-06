@@ -199,7 +199,7 @@ while IFS= read -r line; do
     fi
     echo -e "\t OK, pass"
     
-done < <(jq -c '.[] | select(.type == "journal-article" and (.volume == "" or .pages == ""))' "$BIBLIO_JSON")
+done < <(jq -c '.[] | select(.type == "journal-article" and (.volume == "" or .issue == "" or .pages == ""))' "$BIBLIO_JSON")
 
 sed -i -z -e "s/]\n\[/,/g" $trash
 tmp_file=$(mktemp)
