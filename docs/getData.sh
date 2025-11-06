@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 # Ce fichier prenant une liste de DOI en argument permet de générer :
@@ -19,10 +19,10 @@ input_file="DOIuniq.txt"
 # Les entrées doivent être unique dans le fichier & ne pas être dans DOI.txt
 echo $(date -Iseconds)" Check unicity of DOIs..."
 tmp_file=$(mktemp)
-cat $doi_file | tr '[:upper:]' '[:lower:]' > $tmp_file
-awk '!seen[$0]++' $tmp_file > $input_file
+cat "$doi_file" | tr '[:upper:]' '[:lower:]' > "$tmp_file"
+awk '!seen[$0]++' "$tmp_file" > "$input_file"
 grep -vFxf DOI.txt "$input_file" > "$doi_file"
-input_file=$doi_file
+input_file="$doi_file"
 rm "DOIuniq.txt"
 
 # Les fonctions communes
@@ -40,9 +40,9 @@ output_json="assets/data/biblio.json"
 
 # Sauve les précédentes extractions de données
 echo $(date -Iseconds)" Start .json database creation..."
-mv $output_json "assets/data/biblio-"$(date -Iseconds)".json"
+mv "$output_json" "assets/data/biblio-"$(date -Iseconds)".json"
 
-echo "[" > $output_json
+echo "[" > "$output_json"
 
 # Pour ajouter une virgule à partir de la deuxième entrée
 first=true
@@ -103,7 +103,7 @@ while IFS= read -r doi; do
             references+='{"doi": "'$d_ref'", "title": "'$ti_ref'"},'
         done < <(echo "$response" | jq -c '.message.reference[]' 2>/dev/null)
         if [ "$references" != "[" ]; then
-            references=${references::-1}
+            references="${references::-1}"
         fi
         references+="]"
         
@@ -151,38 +151,38 @@ while IFS= read -r doi; do
         if [ "$first" = true ]; then
             first=false
         else
-            echo "," >> $output_json
+            echo "," >> "$output_json"
         fi
 
         # .json format de toutes les datas
-        echo "  {" >> $output_json
-        echo "    \"doi\": \"$doi\"," >> $output_json
-        echo "    \"type\": \"$type\"," >> $output_json
-        echo "    \"title\": \"$title\"," >> $output_json
-        echo "    \"authors\": $authors," >> $output_json
-        echo "    \"abstract\": \"$abstract\"," >> $output_json
-        echo "    \"journal\": \"$journal\"," >> $output_json
-        echo "    \"year\": \"$year\"," >> $output_json
-        echo "    \"volume\": \"$volume\"," >> $output_json
-        echo "    \"issue\": \"$issue\"," >> $output_json
-        echo "    \"event\": \"$event\"," >> $output_json
-        echo "    \"isbn\": \"$isbn\"," >> $output_json
-        echo "    \"pages\": \"$pages\"," >> $output_json
-        echo "    \"publisher\": \"$publisher\"," >> $output_json
-        echo "    \"keywords\": \"$keywords\"," >> $output_json
-        echo "    \"dateY\": \"$dateY\"," >> $output_json
-        echo "    \"dateM\": \"$dateM\"," >> $output_json
-        echo "    \"dateD\": \"$dateD\"," >> $output_json
-        echo "    \"permalink\": \"$slug\"," >> $output_json
-        echo "    \"references\": $references" >> $output_json
-        echo "  }" >> $output_json
+        echo "  {" >> "$output_json"
+        echo "    \"doi\": \"$doi\"," >> "$output_json"
+        echo "    \"type\": \"$type\"," >> "$output_json"
+        echo "    \"title\": \"$title\"," >> "$output_json"
+        echo "    \"authors\": $authors," >> "$output_json"
+        echo "    \"abstract\": \"$abstract\"," >> "$output_json"
+        echo "    \"journal\": \"$journal\"," >> "$output_json"
+        echo "    \"year\": \"$year\"," >> "$output_json"
+        echo "    \"volume\": \"$volume\"," >> "$output_json"
+        echo "    \"issue\": \"$issue\"," >> "$output_json"
+        echo "    \"event\": \"$event\"," >> "$output_json"
+        echo "    \"isbn\": \"$isbn\"," >> "$output_json"
+        echo "    \"pages\": \"$pages\"," >> "$output_json"
+        echo "    \"publisher\": \"$publisher\"," >> "$output_json"
+        echo "    \"keywords\": \"$keywords\"," >> "$output_json"
+        echo "    \"dateY\": \"$dateY\"," >> "$output_json"
+        echo "    \"dateM\": \"$dateM\"," >> "$output_json"
+        echo "    \"dateD\": \"$dateD\"," >> "$output_json"
+        echo "    \"permalink\": \"$slug\"," >> "$output_json"
+        echo "    \"references\": $references" >> "$output_json"
+        echo "  }" >> "$output_json"
     else
         echo "DOI: $doi is not available yet."
     fi
 
 done < "$input_file"
 
-echo "]" >> $output_json
+echo "]" >> "$output_json"
 
 # Tout s'est bien passé !
 echo "Données récupérées avec succès !"
