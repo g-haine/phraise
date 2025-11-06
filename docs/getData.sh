@@ -130,14 +130,22 @@ while IFS= read -r doi; do
             event=$(event_from_springer "$json_springer" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
         fi
         
+        # Update si ieee
+        if echo "$url" | grep -q "ieee"; then
+            json_ieee=$(fetch_metadata_ieee "$doi")
+            abstract=$(abstract_from_ieee "$json_ieee")
+            keywords=$(keywords_from_ieee "$json_ieee")
+            event=$(event_from_ieee "$json_ieee" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
+        fi
+        
         # Complement pour l'abstract
         if [ -z "$abstract" ]; then
-            complement=$(fetch_abstract_complement $doi)
+            complement=$(fetch_abstract_complement "$doi")
             [ -n "$complement" ] && abstract="$complement"
         fi
 
         # Nettoyage de l'abstract
-        abstract=$(echo $abstract | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g' | sed -E 's/summary//Ig' | sed -E 's/abstract//Ig')
+        abstract=$(echo "$abstract" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g' | sed -E 's/summary//Ig' | sed -E 's/abstract//Ig')
         
         if [ "$first" = true ]; then
             first=false

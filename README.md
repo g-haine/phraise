@@ -12,7 +12,15 @@ We welcome contributions in the form of **DOI submissions**:
 
 ## Updating the website
 
-The maintenance scripts rely on API keys for Scopus and Springer. Once you have the keys available, run the following workflow from the `docs` directory:
+The maintenance scripts rely on API keys for Scopus, Springer, IEEE and Mendeley. Once you have the keys available, save them in `.env` in the `docs` folder as follow:  
+```
+MAIL=your-email@example.fr
+SCOPUS_API_KEY=
+SPRINGER_API_KEY=
+IEEE_API_KEY=
+MENDELEY_API_KEY=
+```
+Then, run the following workflow from the `docs` directory:
 
 1. `./looking4Update.sh` – update metadata (volume, issue, etc.) and fetch the latest CrossRef entries.
 2. `./getData.sh newDOI.txt`

@@ -38,6 +38,16 @@ fi
 # On commence par une recherche d'update dans openalex & croisement avec crossref
 echo $(date -Iseconds)" Looking in OpenAlex & verifying with CrossRef..."
 
+# Liste de motifs PHS (PCRE)
+PHS_PATTERNS=(
+    'port[\p{Pd}\s]+(controlled )?hamiltonian'  # pHs
+    'interconnection and damping assignment'    # IDA-PBC
+    'dirac structure'                           # signature théorique PHS
+    'dissipative hamiltonian'                   # J-R
+)
+# PCRE, insensible à la casse avec -Pi
+PHS_PATTERN="$(printf '%s|' "${PHS_PATTERNS[@]}" | sed 's/|$//')"
+
 # Interroger OpenAlex
 TYPES_AUTORISES=("journal-article" "proceedings-article" "book-chapter" "book" "monograph")
 QUERY="port-Hamiltonian"
@@ -112,8 +122,18 @@ while IFS= read -r doi; do
             keywords+=", "$(keywords_from_springer "$json_springer")
         fi
         
+        # Update si ieee
+        if echo "$url" | grep -q "ieee"; then
+            json_ieee=$(fetch_metadata_ieee "$doi")
+            abstract+=$(abstract_from_ieee "$json_ieee")
+            keywords+=", "$(keywords_from_ieee "$json_ieee")
+        fi
+        
         # Complement pour l'abstract
-        abstract+=$(fetch_abstract_complement "$doi")
+        if [ -z "$abstract" ]; then
+            complement=$(fetch_abstract_complement "$doi")
+            [ -n "$complement" ] && abstract="$complement"
+        fi
         
         # Nettoyage de l'abstract
         abstract=$(echo "$abstract" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g' | sed -E 's/summary//Ig' | sed -E 's/abstract//Ig')
@@ -121,7 +141,7 @@ while IFS= read -r doi; do
         # Vérifie le type
         if [[ " ${TYPES_AUTORISES[*]} " =~ " ${type} " ]]; then
             # Vérifie si "port-Hamiltonian" est présent dans le titre ou l'abstract, ou encore les keywords
-            if echo "$title $abstract $keywords" | grep -Piq 'port[\p{Pd}\s](controlled )?hamiltonian'; then
+            if echo "$title $abstract $keywords" | grep -Piq "$PHS_PATTERN"; then
                 k=$(( k + 1 ))
                 echo -e "\t DOI $k to fetch on CrossRef: $doi"
                 echo "$doi" >> "$DOI_FILE"
