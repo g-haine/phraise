@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Ce fichier utilise le .json créé par getData.sh pour générer :
 # * Un fichier markdown "Post" par DOI qui permettra de poster la référence sur le site

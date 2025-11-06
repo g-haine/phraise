@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Ce fichier permet de :
 # * concaténer les fichiers DOI.txt et newDOI.txt
