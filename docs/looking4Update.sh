@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Ce script cherche :
 #   * les nouveaux dois de openalex vérifiés dans crossref comportant "port-Hamiltonian" quelque part
@@ -42,7 +43,7 @@ echo $(date -Iseconds)" Looking in OpenAlex & verifying with CrossRef..."
 PHS_PATTERNS=(
     'port[\p{Pd}\s]+(controlled )?hamiltonian'  # pHs
     'interconnection and damping assignment'    # IDA-PBC
-    'dirac structure'                           # signature théorique PHS
+    'dirac structure'                           # classique
     'dissipative hamiltonian'                   # J-R
 )
 # PCRE, insensible à la casse avec -Pi

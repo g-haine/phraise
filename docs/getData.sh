@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Ce fichier prenant une liste de DOI en argument permet de générer :
 # * Un fichier .json unique qui permettra de créer les posts et de faciliter la recherche sur le site

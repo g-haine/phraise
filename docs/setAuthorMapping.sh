@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Ce fichier utilise le .json créé par getData.sh pour générer (PAS AUTOMATIQUEMENT !) :
 # * Un fichier .json qui liste le nom des auteurs et les variantes apparaissant dans les publis
