@@ -67,6 +67,6 @@ Modeling; Design methodologies
 - (2004)
 - van der Schaft, (2000)
 - Stramigioli, S. Geometric modeling of mechanical systems for interactive control. Lecture Notes in Control and Information Sciences 309–332 doi:10.1007/bfb0110389 -- [10.1007/bfb0110389](https://doi.org/10.1007/bfb0110389)
-- [Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13](stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing) -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
+- Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13 -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
 - Sobolev, (1964)
 

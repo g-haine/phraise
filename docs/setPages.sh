@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -uo pipefail
 
 # Ce fichier utilise le .json créé par getData.sh et le .json de author_mapping.shen pour générer :
 # * Un fichier markdown "Page" par auteur et par année, aves les index associés

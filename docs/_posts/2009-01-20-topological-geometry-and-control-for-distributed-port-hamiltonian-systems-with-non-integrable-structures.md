@@ -58,5 +58,5 @@ This paper discusses topological geometrical aspects and a control strategy for 
 - [Nishida, G. & Yamakita, M. Disturbance structure decomposition for distributed-parameter port-Hamiltonian systems. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 2082-2087 Vol.2 (2004) doi:10.1109/cdc.2004.1430355](disturbance-structure-decomposition-for-distributed-parameter-port-hamiltonian-systems) -- [10.1109/cdc.2004.1430355](https://doi.org/10.1109/cdc.2004.1430355)
 - Gaffney, M. P. The Harmonic Operator for Exterior Differential Forms. Proceedings of the National Academy of Sciences vol. 37 48–50 (1951) -- [10.1073/pnas.37.1.48](https://doi.org/10.1073/pnas.37.1.48)
 - (0)
-- [Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13](stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing) -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
+- Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13 -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
 

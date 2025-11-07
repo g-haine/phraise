@@ -50,7 +50,7 @@ first=true
 # Boucle sur les DOIs
 k=0
 while IFS= read -r doi; do
-    (( k+=1 ))
+    (( ++k )) || :
     echo $(date -Iseconds)" DOI $k: $doi"
     # Extraction des données
     response=$(fetch_metadata_crossref "$doi")
@@ -120,7 +120,7 @@ while IFS= read -r doi; do
             json_scopus=$(fetch_metadata_scopus "$doi")
             abstract=$(abstract_from_scopus "$json_scopus")
             keywords=$(keywords_from_scopus "$json_scopus")
-            event=$(event_from_scopus "$json_scopus" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
+            event=$(event_from_scopus "$json_scopus")
         fi
         
         # Update si springer
@@ -128,7 +128,7 @@ while IFS= read -r doi; do
             json_springer=$(fetch_metadata_springer "$doi")
             abstract=$(abstract_from_springer "$json_springer")
             keywords=$(keywords_from_springer "$json_springer")
-            event=$(event_from_springer "$json_springer" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
+            event=$(event_from_springer "$json_springer")
         fi
         
         # Update si ieee
@@ -136,7 +136,7 @@ while IFS= read -r doi; do
             json_ieee=$(fetch_metadata_ieee "$doi")
             abstract=$(abstract_from_ieee "$json_ieee")
             keywords=$(keywords_from_ieee "$json_ieee")
-            event=$(event_from_ieee "$json_ieee" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
+            event=$(event_from_ieee "$json_ieee")
         fi
         
         # Complement pour l'abstract
@@ -145,11 +145,13 @@ while IFS= read -r doi; do
             [ -n "$complement" ] && abstract="$complement"
         fi
 
-        # Nettoyage de l'abstract
+        # Nettoyage de l'abstract, des keywords et de l'event
         abstract=$(echo "$abstract" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g' | sed -E 's/summary//Ig' | sed -E 's/abstract//Ig')
-        
+        keywords=$(echo "$keywords" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
+        event=$(echo "$event" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g')
+            
         if [ "$first" = true ]; then
-            first=false
+            first=false || :
         else
             echo "," >> "$output_json"
         fi

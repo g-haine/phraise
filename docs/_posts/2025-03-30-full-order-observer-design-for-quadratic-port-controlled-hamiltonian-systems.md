@@ -11,14 +11,14 @@ category: articles
 [Michael Rojas](authors/michael-rojas), [Christian Granados‐Salazar](authors/christian-granados-salazar), [Gerardo Espinosa‐Pérez](authors/gerardo-espinosa-perez)
  
 ## Abstract
-The full‐order observer design problem for a particular class of port‐controlled Hamiltonian systems is approached in this paper. The proposed full‐order observer scheme belongs to the structure preserving class of dynamic estimators as it preserves the natural stability properties of the approached class of systems that are useful for the convergence analysis and exhibits a structure that is a copy of the original system plus an output corrective term. Due to the physical interpretation of port‐controlled Hamiltonian systems, the proposed full‐order observer is attractive because the estimated states have an immediate practical meaning. The class approached in this paper considers both linear and nonlinear dissipation terms, a quadratic Hamiltonian function and internal interconnections between two components of the state vector modulated by another state component that correspond to quadratic nonlinearities. This features lead to several structural properties that allow to carry out the convergence analysis in a relatively simple way and leads to a simple tuning procedure. The usefulness of the contribution is illustrated considering two practical applications: the Lorenz oscillator and the permanent magnet synchronous motor.
+                  The full‐order observer design problem for a particular class of port‐controlled Hamiltonian systems is approached in this paper. The proposed full‐order observer scheme belongs to the structure preserving class of dynamic estimators as it preserves the natural stability properties of the approached class of systems that are useful for the convergence analysis and exhibits a structure that is a copy of the original system plus an output corrective term. Due to the physical interpretation of port‐controlled Hamiltonian systems, the proposed full‐order observer is attractive because the estimated states have an immediate practical meaning. The class approached in this paper considers both linear and nonlinear dissipation terms, a quadratic Hamiltonian function and internal interconnections between two components of the state vector modulated by another state component that correspond to quadratic nonlinearities. This features lead to several structural properties that allow to carry out the convergence analysis in a relatively simple way and leads to a simple tuning procedure. The usefulness of the contribution is illustrated considering two practical applications: the Lorenz oscillator and the permanent magnet synchronous motor.
  
 ## Citation
 - **Journal:** Asian Journal of Control
 - **Year:** 2025
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 27
+- **Issue:** 6
+- **Pages:** 2724--2739
 - **Publisher:** Wiley
 - **DOI:** [10.1002/asjc.3647](https://doi.org/10.1002/asjc.3647)
  
@@ -27,12 +27,15 @@ The full‐order observer design problem for a particular class of port‐contro
 {% raw %}
 @article{Rojas_2025,
   title={{Full‐order observer design for quadratic port‐controlled Hamiltonian systems}},
+  volume={27},
   ISSN={1934-6093},
   DOI={10.1002/asjc.3647},
+  number={6},
   journal={Asian Journal of Control},
   publisher={Wiley},
   author={Rojas, Michael and Granados‐Salazar, Christian and Espinosa‐Pérez, Gerardo},
-  year={2025}
+  year={2025},
+  pages={2724--2739}
 }
 {% endraw %}
 {% endhighlight %}

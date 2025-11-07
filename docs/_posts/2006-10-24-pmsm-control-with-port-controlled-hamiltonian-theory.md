@@ -47,7 +47,7 @@ The goal of this paper is to control PMSM (permanent magnet synchronous motor) w
 - bo, Vector control and MTPA Control for PMSM. Journal of South China University of Technology (Natural Science Edition) (1996)
 - jia-jun, Backstopping position tracking control for permanent magnetic synchronous motor servo system. Journal of Circuits and Systems (2004)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- [Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13](stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing) -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
+- Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13 -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
 - zhicheng, 1Adaotive backstepping design for the servo controller of permanent magnet synchronous motor. Control and Decision (2005)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - zaifei, Overviews of AC Servo system and Its Advanced Control Strategies. Machine Tool & Hydraulics (2002)

@@ -4,7 +4,6 @@ permalink: /years/
 ---
 
 <div class="grid">
-<a href='{{ site.baseurl }}/years/1978'>1978</a>
 <a href='{{ site.baseurl }}/years/1981'>1981</a>
 <a href='{{ site.baseurl }}/years/1982'>1982</a>
 <a href='{{ site.baseurl }}/years/1986'>1986</a>
