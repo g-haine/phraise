@@ -68,7 +68,7 @@ mathjaxify () {
         printf "\n";
     }')
     
-    echo "$text"
+    [ -n "$text" ] && [ "$text" != "null" ] && printf '%s\n' "$text"
 }
 
 # Appel à l'API de crossref
@@ -109,17 +109,15 @@ abstract_from_scopus () {
         | gsub("<[^>]+>"; "")
         | gsub("\\s+"; " ")
         | gsub("^\\s+|\\s+$"; "")
-    ' <<<"$json")
+    ' <<<"$json") || :
 
-    [ -n "$abs" ] && [ "$abs" != "null" ] && echo "$abs"
+    [[ -n $abs ]] && printf '%s\n' "$abs"
 }
 
 # Keywords via scopus
 keywords_from_scopus () {
     local json=$1
-    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
-        return 0
-    fi
+    jq -e empty <<<"$json" >/dev/null 2>&1 || return 0
 
     local out
     out=$(jq -r '
@@ -149,19 +147,26 @@ keywords_from_scopus () {
           | map(select(length > 0));
 
         ( (from_subjects + from_authkeywords) | unique ) | join(", ")
-    ' <<<"$json")
+    ' <<<"$json") || :
 
-    [ -n "$out" ] && [ "$out" != "null" ] && echo "$out"
+    [[ -n $out ]] && printf '%s\n' "$out"
 }
 
 # event via scopus : super pour le nom de la conf IFAC
-event_from_scopus () {
+event_from_scopus() {
     local json=$1
-    if echo "$json" | jq empty 2>/dev/null; then
-        local scopus_nameIssue=$(echo "$json" | jq -r '.["full-text-retrieval-response"].coredata."prism:issueName" // ""')
-        [ -n "$scopus_nameIssue" ] && echo "$scopus_nameIssue"
-    fi
+
+    # 1) Valider le JSON sans pipeline
+    jq -e empty <<<"$json" >/dev/null 2>&1 || return 0
+
+    # 2) Extraire la valeur sans faire tomber le script si jq échoue
+    local scopus_nameIssue
+    scopus_nameIssue=$(jq -r '.["full-text-retrieval-response"].coredata."prism:issueName" // ""' <<<"$json") || :
+
+    # 3) Afficher si non vide
+    [[ -n $scopus_nameIssue ]] && printf '%s\n' "$scopus_nameIssue"
 }
+
 
 # Appel à l'API de Springer
 fetch_metadata_springer () {
@@ -188,9 +193,9 @@ abstract_from_springer () {
         | gsub("<[^>]+>"; "")
         | gsub("\\s+"; " ")
         | gsub("^\\s+|\\s+$"; "")
-    ' <<<"$json")
+    ' <<<"$json") || :
 
-    [ -n "$abs" ] && [ "$abs" != "null" ] && echo "$abs"
+    [[ -n $abs ]] && printf '%s\n' "$abs"
 }
 
 # Keywords via Springer
@@ -201,7 +206,7 @@ keywords_from_springer () {
     fi
 
     local out
-    out=$(jq -r '
+    if out=$(jq -r '
         def norm(s):
           s | tostring
             | ascii_downcase
@@ -213,7 +218,7 @@ keywords_from_springer () {
             | if type == "array" then
                 ( map(norm(.)) )
               elif type == "string" then
-                ( split("[,;|]"; "x") | map(norm(.)) )
+                ( splits("[,;|]") | map(norm(.)) )
               else
                 []
               end
@@ -222,18 +227,31 @@ keywords_from_springer () {
             | join(", ")
           )
         else "" end
-    ' <<<"$json")
-
-    [ -n "$out" ] && [ "$out" != "null" ] && echo "$out"
+    ' <<<"$json"); then
+        if [[ -n $out ]]; then
+            printf '%s\n' "$out"
+        fi
+    fi
+    return 0
 }
 
 # event via springer : super pour le nom de la conf également, type GSI
-event_from_springer () {
+event_from_springer() {
     local json=$1
-    if echo "$json" | jq empty 2>/dev/null; then
-        local springer_nameIssue=$(echo "$json" | jq -r '.records[0].conferenceInfo[] | select(.confSeriesName) | "\(.confSeriesName)"')
-        [ -n "$springer_nameIssue" ] && echo "$springer_nameIssue"
-    fi
+
+    # 1) Valider le JSON (sans pipeline)
+    jq -e empty >/dev/null 2>&1 <<<"$json" || return 0
+
+    # 2) Extraire (tolérant aux champs manquants)
+    #    -> imprime 0..N lignes (une par confSeriesName trouvé)
+    local out
+    out=$(jq -r '
+        .records[0].conferenceInfo? // []         # tableau ou []
+        | .[]                                     # chaque entrée
+        | .confSeriesName? // empty               # valeur ou ""
+    ' <<<"$json") || :                            # ne jamais tuer le script
+
+    [[ -n $out ]] && printf '%s\n' "$out"
 }
 
 # Appel à l'API IEEE Xplore (DOI d'abord, repli sur /search)
@@ -262,9 +280,9 @@ abstract_from_ieee () {
         | gsub("<[^>]+>"; "")
         | gsub("\\s+"; " ")
         | gsub("^\\s+|\\s+$"; "")
-    ' <<<"$json")
+    ' <<<"$json") || :
 
-    [ -n "$abs" ] && [ "$abs" != "null" ] && echo "$abs"
+    [ -n "$abs" ] && [ "$abs" != "null" ] &&printf '%s\n' "$abs"
 }
 
 # Keywords via IEEE (fusionne author_terms + ieee_terms + index_terms le cas échéant)
@@ -303,33 +321,32 @@ keywords_from_ieee () {
             | join(", ")
           )
         else "" end
-    ' <<<"$json")
+    ' <<<"$json") || :
 
-    [ -n "$out" ] && [ "$out" != "null" ] && echo "$out"
+    [ -n "$out" ] && [ "$out" != "null" ] && printf '%s\n' "$out"
 }
 
 # Event (nom de la conférence) via IEEE
 # Pour les contenus de type "Conferences", le nom de l’événement est généralement dans publication_title
 # D’autres infos utiles existent: conference_dates, conference_location
-event_from_ieee () {
+event_from_ieee() {
     local json=$1
-    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
-        return 0
-    fi
 
+    # 1) Valider le JSON
+    jq -e empty >/dev/null 2>&1 <<<"$json" || return 0
+
+    # 2) Extraire le nom si c'est bien un "conferences"
     local name
-    name=$(jq -r '
-        if (.articles|type=="array") and (.articles|length>0) then
-          ( .articles[0]
-            | if (.content_type|tostring|ascii_downcase) == "conferences"
-              then .publication_title
-              else ""
-              end
+    if name=$(jq -r '
+        if (.articles|type=="array" and (.articles|length>0)) then
+          (.articles[0]
+            | ( .content_type|tostring|ascii_downcase ) as $t
+            | if $t == "conferences" then (.publication_title // "") else "" end
           )
         else "" end
-    ' <<<"$json")
-
-    [ -n "$name" ] && [ "$name" != "null" ] && echo "$name"
+    ' <<<"$json"); then
+        [[ -n $name && $name != "null" ]] && printf '%s\n' "$name"
+    fi
 }
 
 abstract_from_mendeley_fallback () {
@@ -505,7 +522,7 @@ fetch_abstract_complement () {
         fi
     done
 
-    echo "$abstract"
+    [ -n "$abstract" ] && [ "$abstract" != "null" ] &&printf '%s\n' "$abstract"
 }
 
 # Récupère la citation formattée d'après un DOI

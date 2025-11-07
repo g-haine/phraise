@@ -55,7 +55,7 @@ hamiltonian systems, nonholonomic systems, output feedback systems
 - Maschke, A Hamiltonian approach to stabilization of nonholonomic mechanical systems. Proc. 33rd IEEE Conf. on Decision and Control. (1994)
 - Nakamura, Discontinuous control of nonholonomic systems using nondifferentiable lyapunov functions. Proc. SICE Annual Conference 2003. (2003)
 - Nijmeijer, (1990)
-- [Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13](stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing) -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
+- Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13 -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
 - Ortega, (1998)
 - van der Schaft, Stabilization of Hamiltonian systems. Nonl. An. Th. Math. Appl. (1986)
 - van der Schaft, (2000)

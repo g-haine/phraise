@@ -43,7 +43,7 @@ In this paper we develop an energy-based hybrid control framework for hybrid por
  
 ## References
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- [Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13](stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing) -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
+- Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13 -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
 - ortega, Energy-shaping of port-controlled Hamiltonian systems. Proc Conf Dec Contr (Phoenix AZ) (1999)
 - chellaboina, An invariance principle for nonlinear hybrid and impulsive dynamical systems. Proc Amer Contr Conf (Chicago IL) (2000)
 - Haddad, W. M., Chellaboina, V. & Kablar, N. A. Non-linear impulsive dynamical systems. Part II: Stability of feedback interconnections and optimality. International Journal of Control 74, 1659–1677 (2001) -- [10.1080/00207170110080959](https://doi.org/10.1080/00207170110080959)
