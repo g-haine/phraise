@@ -361,35 +361,19 @@ event_from_ieee() {
   return 0
 }
 
-
-
-abstract_from_mendeley_fallback () {
-  local DOI="$1"
-  local TOKEN="$MENDELEY_API_KEY"
-
-  if [ -z "$DOI" ]; then
-    echo 'Usage: abstract_from_mendeley_fallback "<DOI>"' >&2
-    return 2
-  fi
-
-  # 1) Récupère le lien depuis Mendeley Catalog
-  JSON=$(
-    curl -X "GET" \
-      "https://api.mendeley.com/catalog?doi=$DOI&view=all" \
-      -H "accept: application/vnd.mendeley-document.1+json" \
-      -H "Authorization: Bearer $TOKEN"
-  )
-
-  local LINK
-  LINK=$(jq -r '[0].link?' <<<"$JSON")
-
-  if [ -z "$LINK" ] || [ "$LINK" = "null" ]; then
-    jq -n --arg doi "$DOI" '{abstract:null, url:null, method:"none", source:"mendeley_link_scrape", error:"no_link_from_mendeley", doi:$doi}'
+abstract_from_mendeley () {
+  local doi="$1"
+  json=$(safe_curl "https://api.mendeley.com/catalog?doi=$doi&view=all" "accept: application/vnd.mendeley-document.1+json" "Authorization: Bearer $MENDELEY_API_KEY")
+  
+  # 1) récupère le lien de la page Mendeley
+  local link=$(read_json "$json" '[0].link?')
+  if [ -z "$link" ] || [ "$link" = "null" ]; then
+    jq -n --arg doi "$doi" '{abstract:null, url:null, method:"none", source:"mendeley_link_scrape", error:"no_link_from_mendeley", doi:$doi}'
     return 1
   fi
 
   # 2) Scrape la page ciblée (sans scraping agressif ; simple GET + extraction de balises/meta)
-  python3 - "$LINK" <<'PY'
+  python3 - "$link" <<'PY'
 import sys, re, json, html
 from bs4 import BeautifulSoup
 import requests
@@ -498,7 +482,7 @@ PY
 
 # Récupération des abstracts (OpenAlex, Semantic Scholar)
 fetch_abstract_complement () {
-    local doi=$1
+    local doi="$1"
     local abstract="Not available"
     local candidates=()
 
@@ -513,7 +497,7 @@ fetch_abstract_complement () {
     
     # 2. Mendeley
     local mendeley_response
-    mendeley_response=$(abstract_from_mendeley_fallback "$doi")
+    mendeley_response=$(abstract_from_mendeley "$doi")
     if echo "$mendeley_response" | jq empty 2>/dev/null; then
         local mendeley_abstract
         mendeley_abstract=$(echo "$mendeley_response" | jq -r '.abstract // ""')
@@ -531,14 +515,21 @@ fetch_abstract_complement () {
         fi
     done
 
-    [ -n "$abstract" ] && [ "$abstract" != "null" ] &&printf '%s\n' "$abstract"
+    out "$abstract"
+    return 0
 }
 
 # Récupère la citation formattée d'après un DOI
 get_citation () {
-    local doi=$1
-    citation=$(curl -s https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US | tail -n 1)
-    echo "$citation" | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'
+    local doi="$1"
+    local citation
+    if citation=$(safe_curl "https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US"); then
+      local out
+      if out=$(echo "$citation" | tail -n 1 | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'); then
+        out "$out"
+      fi
+    fi
+    return 0
 }
 
 # Ajoute un zéro si le mois ou le jour est entre 1 et 9
