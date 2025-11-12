@@ -187,8 +187,6 @@ while IFS= read -r entry; do
   # Récupère le bibtex actuellement en ligne
   print_bib "$doi" "$bibcurrent"
   
-  cat "$bibcurrent"
-  
   # Sinon, on compare avec l'ancien bibtex
   if ! diff -q "$bibfile" "$bibcurrent" > /dev/null; then
     log " Different bibtex!"
