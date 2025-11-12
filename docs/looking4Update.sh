@@ -32,7 +32,7 @@ TRASH_JSON="trash.json"
 if [ -f .utils ]; then
   source .utils
 else
-  die "Error: .env file is missing!"
+  printf '[X] %s\n' "Error: .utils file is missing!" >&2; exit 1;
 fi
 
 # On commence par une recherche d'update dans openalex & croisement avec crossref
