@@ -105,9 +105,12 @@ print_bib () {
     printf '%s\n' "$doiBib" | sed -E '
       s/ @/@/g;
       s/,\s*}$/\n}/;                                   # pas de virgule avant }
+      s/},/},\n /g;
       s/,\s*(series|pages|title)\b/,\n  \1/g;          # sauts de ligne jolis
       /^\s*title\s*=/ s/=\{/= {{/;                     # double accolades pour title
       /^\s*title\s*=/ s/},/}},/;
+      s/ }/\n}/g;
+      s/, }/\n}/g;
       /^\s*pages\s*=/ s/–/--/g;                        # en dash -> --
       /^[[:space:]]*month[[:space:]]*=/d;              # supprime month=
       /^[[:space:]]*url[[:space:]]*=/d                 # supprime url=
