@@ -6,10 +6,16 @@ set -euo pipefail
 #
 # Il regroupe tous les appels aux différentes API pour les minimiser.
 
+# Les fonctions communes
+if [ -f .utils ]; then
+  source .utils
+else
+  printf '[X] %s\n' "Error: .utils file is missing!" >&2; exit 1;
+fi
+
 # Vérifie si un fichier d'entrée est fourni
 if [ "$#" -ne 1 ]; then
-    echo "Usage: $0 <fichier_doi.txt>"
-    exit 1
+  die "Usage: $0 <fichier_doi.txt>"
 fi
 
 # S'assurer de ne pas rechercher de doublon
@@ -17,21 +23,13 @@ doi_file=$1
 input_file="DOIuniq.txt"
 
 # Les entrées doivent être unique dans le fichier & ne pas être dans DOI.txt
-echo $(date -Iseconds)" Check unicity of DOIs..."
+log $(date -Iseconds)" Check unicity of DOIs..."
 tmp_file=$(mktemp)
 cat "$doi_file" | tr '[:upper:]' '[:lower:]' > "$tmp_file"
 awk '!seen[$0]++' "$tmp_file" > "$input_file"
 grep -vFxf DOI.txt "$input_file" > "$doi_file"
 input_file="$doi_file"
 rm "DOIuniq.txt"
-
-# Les fonctions communes
-if [ -f .utils ]; then
-    source .utils
-else
-    echo "Erreur : fichier .utils introuvable !" >&2
-    exit 1
-fi
 
 # Maintenant la boucle sur les DOI
 
