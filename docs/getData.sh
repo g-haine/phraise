@@ -37,7 +37,7 @@ rm "DOIuniq.txt"
 output_json="assets/data/biblio.json"
 
 # Sauve les précédentes extractions de données
-echo $(date -Iseconds)" Start .json database creation..."
+log $(date -Iseconds)" Start .json database creation..."
 mv "$output_json" "assets/data/biblio-"$(date -Iseconds)".json"
 
 echo "[" > "$output_json"
