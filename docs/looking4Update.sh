@@ -178,7 +178,7 @@ while IFS= read -r entry; do
   bibfile="assets/bib/$slug.bib"
   # Quand le DOI exists, mais que le bibtex n'a pas pu être fabriquer précédemment
   if [ ! -f $bibfile ]; then
-    log " No bibtex!"
+    log " No bibtex $bibfile!"
     echo "$doi" >> $DOI_FILE
     sed -i -e "\|$doi|Id" "$DOI_SOURCE"
     continue
@@ -207,14 +207,14 @@ tmp_file=$(mktemp)
 jq --indent 2 . $trash > $tmp_file
 mv $tmp_file $trash
 
-while IFS= read -r line; do
-    doi=$(echo "$line" | jq -r '.doi')
-    tmp_file=$(mktemp)
-    jq --arg DOI "$doi" '[.[] | select(.doi != $DOI)]' "$BIBLIO_JSON" > tmp_file && mv tmp_file "$BIBLIO_JSON"
+while IFS= read -r entry; do
+  doi=$(read_json "$entry" '.doi')
+  tmp_file=$(mktemp)
+  jq --arg DOI "$doi" '[.[] | select(.doi != $DOI)]' "$BIBLIO_JSON" > tmp_file && mv tmp_file "$BIBLIO_JSON"
 done < <(jq -c '.[]' "$trash")
 
 # Cherche les DOI qui n'ont PAS encore d'entrées dans le biblio.json
-echo $(date -Iseconds)" Identification of DOI not in the database..."
+log $(date -Iseconds)" Identification of DOI not in the database..."
 
 # Extraire les DOI du JSON (en minuscules pour plus de robustesse)
 jq -r '.[].doi' "$BIBLIO_JSON" | tr '[:upper:]' '[:lower:]' | sort -u > dois_in_db.tmp
@@ -227,9 +227,9 @@ comm -23 dois_in_source.tmp dois_in_db.tmp > dois_missing.tmp
 
 # Affichage et ajout dans $DOI_FILE
 while IFS= read -r doi; do
-    echo -e "\t DOI still NOT in the database: $doi"
-    echo "$doi" >> "$DOI_FILE"
-    sed -i -e "\|$doi|Id" "$DOI_SOURCE"
+  log " DOI still NOT in the database: $doi"
+  echo "$doi" >> "$DOI_FILE"
+  sed -i -e "\|$doi|Id" "$DOI_SOURCE"
 done < dois_missing.tmp
 
 # Nettoyage
@@ -237,7 +237,7 @@ rm -f *.tmp "$TMP_DOIS_OA" "$bibcurrent"
 rm -rf "$TMP_DIR"
 
 # Unification des DOIs
-echo $(date -Iseconds)" Check unicity of DOIs..."
+log $(date -Iseconds)" Check unicity of DOIs..."
 uniq_file="DOIuniq.txt"
 tmp_file=$(mktemp)
 cat $DOI_FILE | tr '[:upper:]' '[:lower:]' > $tmp_file
@@ -247,6 +247,6 @@ rm "$uniq_file"
 cat "$DOI_FILE"
 
 # Tout s'est bien passé !
-echo $(date -Iseconds)" Search for update successful!"
+log $(date -Iseconds)" Search for update successful!"
 exit 0
 
