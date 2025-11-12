@@ -482,59 +482,59 @@ PY
 
 # Récupération des abstracts (OpenAlex, Semantic Scholar)
 fetch_abstract_complement () {
-    local doi="$1"
-    local abstract="Not available"
-    local candidates=()
+  local doi="$1"
+  local abstract="Not available"
+  local candidates=()
 
-    # 1. Semantic Scholar
-    local semantics_response
-    semantics_response=$(safe_curl "https://api.semanticscholar.org/graph/v1/paper/DOI:$doi?fields=abstract")
-    if echo "$semantics_response" | jq empty 2>/dev/null; then
-        local semantics_abstract
-        semantics_abstract=$(echo "$semantics_response" | jq -r '.abstract // ""')
-        [ -n "$semantics_abstract" ] && [ "$semantics_abstract" != "null" ] && candidates+=("$semantics_abstract")
+  # 1. Semantic Scholar
+  local semantics_response
+  semantics_response=$(safe_curl "https://api.semanticscholar.org/graph/v1/paper/DOI:$doi?fields=abstract")
+  if echo "$semantics_response" | jq empty 2>/dev/null; then
+    local semantics_abstract
+    semantics_abstract=$(echo "$semantics_response" | jq -r '.abstract // ""')
+    [ -n "$semantics_abstract" ] && [ "$semantics_abstract" != "null" ] && candidates+=("$semantics_abstract")
+  fi
+  
+  # 2. Mendeley
+  local mendeley_response
+  mendeley_response=$(abstract_from_mendeley "$doi")
+  if echo "$mendeley_response" | jq empty 2>/dev/null; then
+    local mendeley_abstract
+    mendeley_abstract=$(echo "$mendeley_response" | jq -r '.abstract // ""')
+    [ -n "$mendeley_abstract" ] && [ "$mendeley_abstract" != "null" ] && candidates+=("$mendeley_abstract")
+  fi
+
+  # 3. Sélection du candidat le plus long (après trim)
+  for candidate in "${candidates[@]}"; do
+    local trimmed
+    trimmed="$(echo "$candidate" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')"
+    if [ -n "$trimmed" ] && [ "$trimmed" != "null" ]; then
+      if [ "${#trimmed}" -gt "${#abstract}" ] || [ "$abstract" = "Not available" ]; then
+        abstract="$trimmed"
+      fi
     fi
-    
-    # 2. Mendeley
-    local mendeley_response
-    mendeley_response=$(abstract_from_mendeley "$doi")
-    if echo "$mendeley_response" | jq empty 2>/dev/null; then
-        local mendeley_abstract
-        mendeley_abstract=$(echo "$mendeley_response" | jq -r '.abstract // ""')
-        [ -n "$mendeley_abstract" ] && [ "$mendeley_abstract" != "null" ] && candidates+=("$mendeley_abstract")
-    fi
+  done
 
-    # 3. Sélection du candidat le plus long (après trim)
-    for candidate in "${candidates[@]}"; do
-        local trimmed
-        trimmed="$(echo "$candidate" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')"
-        if [ -n "$trimmed" ] && [ "$trimmed" != "null" ]; then
-            if [ "${#trimmed}" -gt "${#abstract}" ] || [ "$abstract" = "Not available" ]; then
-                abstract="$trimmed"
-            fi
-        fi
-    done
-
-    out "$abstract"
-    return 0
+  out "$abstract"
+  return 0
 }
 
 # Récupère la citation formattée d'après un DOI
 get_citation () {
-    local doi="$1"
-    local citation
-    if citation=$(safe_curl "https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US"); then
-      local out
-      if out=$(echo "$citation" | tail -n 1 | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'); then
-        out "$out"
-      fi
+  local doi="$1"
+  local citation
+  if citation=$(safe_curl "https://citation.doi.org/format?doi=$doi&style=springer-basic-author-date-no-et-al-with-issue&lang=en-US"); then
+    local out
+    if out=$(echo "$citation" | tail -n 1 | sed 's/^1.[[:space:]]//g' | sed 's/.$//g'); then
+      out "$out"
     fi
-    return 0
+  fi
+  return 0
 }
 
 # Ajoute un zéro si le mois ou le jour est entre 1 et 9
 pad_zero () {
-    printf "%02d" "$1"
-    return 0
+  printf "%02d" "$1"
+  return 0
 }
 
