@@ -36,14 +36,14 @@ else
 fi
 
 # On commence par une recherche d'update dans openalex & croisement avec crossref
-echo $(date -Iseconds)" Looking in OpenAlex & verifying with CrossRef..."
+log $(date -Iseconds)" Looking in OpenAlex & verifying with CrossRef..."
 
 # Liste de motifs PHS (PCRE)
 PHS_PATTERNS=(
-    'port[\p{Pd}\s]+(controlled )?hamiltonian'  # pHs
-    'interconnection and damping assignment'    # IDA-PBC
-    'dirac structure'                           # classique
-    'dissipative hamiltonian'                   # J-R
+  'port[\p{Pd}\s]+(controlled )?hamiltonian'  # pHs
+  'interconnection and damping assignment'    # IDA-PBC
+  'dirac structure'                           # classique
+  'dissipative hamiltonian'                   # J-R
 )
 # PCRE, insensible à la casse avec -Pi
 PHS_PATTERN="$(printf '%s|' "${PHS_PATTERNS[@]}" | sed 's/|$//')"
@@ -60,24 +60,24 @@ mkdir -p "$TMP_DIR"
 > "$TMP_DOIS_OA"
 
 while [[ "$CURSOR" != "null" && $PAGE_COUNT -lt $MAX_PAGES ]]; do
-    echo $(date -Iseconds)" OpenAlex page $((PAGE_COUNT+1))..."
-    OUT_FILE="$TMP_DIR/page_$PAGE_COUNT.json"
+  log $(date -Iseconds)" OpenAlex page $((PAGE_COUNT+1))..."
+  OUT_FILE="$TMP_DIR/page_$PAGE_COUNT.json"
 
-    curl -s "https://api.openalex.org/works?filter=title_and_abstract.search:${QUERY// /+}&per-page=200&sort=publication_date:desc&cursor=$CURSOR" -o "$OUT_FILE"
+  curl -s "https://api.openalex.org/works?filter=title_and_abstract.search:${QUERY// /+}&per-page=200&sort=publication_date:desc&cursor=$CURSOR" -o "$OUT_FILE"
 
-    # Extraire DOI + type
-    jq -r '.results[] | .doi' "$OUT_FILE" >> "$TMP_DOIS_OA"
+  # Extraire DOI + type
+  jq -r '.results[] | .doi' "$OUT_FILE" >> "$TMP_DOIS_OA"
 
-    # Obtenir le curseur pour la prochaine page
-    CURSOR=$(jq -r '.meta.next_cursor' "$OUT_FILE")
-    (( ++PAGE_COUNT )) || :
+  # Obtenir le curseur pour la prochaine page
+  CURSOR=$(jq -r '.meta.next_cursor' "$OUT_FILE")
+  (( ++PAGE_COUNT )) || :
 done
 sed -i 's|^https://doi.org/||' "$TMP_DOIS_OA"
 sed -i '/^[[:space:]]*$/d' "$TMP_DOIS_OA"
 sed -i '/null/d' "$TMP_DOIS_OA"
 
 # Les entrées doivent être unique dans le fichier & ne pas être dans DOI.txt
-echo $(date -Iseconds)" Check unicity of DOIs..."
+log $(date -Iseconds)" Check unicity of DOIs..."
 # S'assurer de ne pas rechercher de doublon
 sort -u -o "$DOI_BAD" "$DOI_BAD"
 doi_file="$TMP_DOIS_OA"
@@ -92,76 +92,76 @@ sed -i '/arxiv/d' "$TMP_DOIS_OA"
 sed -i '/zenodo/d' "$TMP_DOIS_OA"
 
 # Filtrer avec CrossRef pour s'assurer du type et que "port-Hamiltonian" est dans titre/abstract
-echo $(date -Iseconds)" CrossRef verification..."
+log $(date -Iseconds)" CrossRef verification..."
 k=0
 while IFS= read -r doi; do
-    # Appel CrossRef
-    response=$(fetch_metadata_crossref "$doi")
-    status=$(echo "$response" | jq -r '.status')
+  # Appel CrossRef
+  response=$(fetch_metadata_crossref "$doi")
+  status=$(read_json "$response" '.status')
 
-    if [[ "$status" == "ok" ]]; then
-        type=$(echo "$response" | jq -r '.message.type // ""')
-        title=$(echo "$response" | jq -r '.message.title // [""] | .[0]' | sed -E 's/<[^>]*mml[^>]*>//g' | sed -E 's/"/\\"/g')
-        abstract=$(echo "$response" | jq -r '.message.abstract // ""')
-        keywords=$(echo "$response" | jq -r '.message.subject // [] | join(", ")')
-        
-        # Récupère l'url "final" (avant redirection js) à partir du DOI
-        url=$(curl -Ls -o /dev/null -w "%{url_effective}" "https://doi.org/$doi")
-        
-        # Update si elsevier
-        if echo "$url" | grep -q "elsevier"; then
-            json_scopus=$(fetch_metadata_scopus "$doi")
-            abstract+=$(abstract_from_scopus "$json_scopus")
-            keywords+=", "$(keywords_from_scopus "$json_scopus")
-        fi
-        
-        # Update si springer
-        if echo "$url" | grep -q "springer"; then
-            json_springer=$(fetch_metadata_springer "$doi")
-            abstract+=$(abstract_from_springer "$json_springer")
-            keywords+=", "$(keywords_from_springer "$json_springer")
-        fi
-        
-        # Update si ieee
-        if echo "$url" | grep -q "ieee"; then
-            json_ieee=$(fetch_metadata_ieee "$doi")
-            abstract+=$(abstract_from_ieee "$json_ieee")
-            keywords+=", "$(keywords_from_ieee "$json_ieee")
-        fi
-        
-        # Complement pour l'abstract
-        if [ -z "$abstract" ]; then
-            complement=$(fetch_abstract_complement "$doi")
-            [ -n "$complement" ] && abstract="$complement"
-        fi
-        
-        # Nettoyage de l'abstract
-        abstract=$(echo "$abstract" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g' | sed -E 's/summary//Ig' | sed -E 's/abstract//Ig')
-        
-        # Vérifie le type
-        if [[ " ${TYPES_AUTORISES[*]} " =~ " ${type} " ]]; then
-            # Vérifie si "port-Hamiltonian" est présent dans le titre ou l'abstract, ou encore les keywords
-            if echo "$title $abstract $keywords" | grep -Piq "$PHS_PATTERN"; then
-                k=$(( k + 1 ))
-                echo -e "\t DOI $k to fetch on CrossRef: $doi"
-                echo "$doi" >> "$DOI_FILE"
-            else
-                echo -e "\t Please check, seems not port-Hamiltonian: $doi"
-                echo "$doi" >> "$DOI_TO_CHECK"
-            fi
-        else
-            echo -e "\t Forget, not the good type: $doi"
-            echo "$doi" >> "$DOI_BAD"
-        fi
-    else
-        echo -e "\t Forget, not in CrossRef: $doi"
-        echo "$doi" >> "$DOI_BAD"
+  if [[ "$status" == "ok" ]]; then
+    type=$(read_json "$response" '.message.type // ""')
+    title=$(read_json "$response" '.message.title // [""] | .[0]' | sed -E 's/<[^>]*mml[^>]*>//g' | sed -E 's/"/\\"/g')
+    abstract=$(read_json "$response" '.message.abstract // ""')
+    keywords=$(read_json "$response" '.message.subject // [] | join(", ")')
+    
+    # Récupère l'url "final" (avant redirection js) à partir du DOI
+    url=$(curl -Ls -o /dev/null -w "%{url_effective}" "https://doi.org/$doi")
+    
+    # Update si elsevier
+    if echo "$url" | grep -q "elsevier"; then
+      json_scopus=$(fetch_metadata_scopus "$doi")
+      abstract+=$(abstract_from_scopus "$json_scopus")
+      keywords+=", "$(keywords_from_scopus "$json_scopus")
     fi
+    
+    # Update si springer
+    if echo "$url" | grep -q "springer"; then
+      json_springer=$(fetch_metadata_springer "$doi")
+      abstract+=$(abstract_from_springer "$json_springer")
+      keywords+=", "$(keywords_from_springer "$json_springer")
+    fi
+    
+    # Update si ieee
+    if echo "$url" | grep -q "ieee"; then
+      json_ieee=$(fetch_metadata_ieee "$doi")
+      abstract+=$(abstract_from_ieee "$json_ieee")
+      keywords+=", "$(keywords_from_ieee "$json_ieee")
+    fi
+    
+    # Complement pour l'abstract
+    if [ -z "$abstract" ]; then
+      complement=$(fetch_abstract_complement "$doi")
+      [ -n "$complement" ] && abstract="$complement"
+    fi
+    
+    # Nettoyage de l'abstract
+    abstract=$(echo "$abstract" | tr -d '\000-\031' | sed -E 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed -E 's/\\/\\\\/g' | sed -E 's/"/\\"/g' | sed -E 's/<[^>]*jats[^>]*>//g' | sed -E 's/summary//Ig' | sed -E 's/abstract//Ig')
+    
+    # Vérifie le type
+    if [[ " ${TYPES_AUTORISES[*]} " =~ " ${type} " ]]; then
+      # Vérifie si "port-Hamiltonian" est présent dans le titre ou l'abstract, ou encore les keywords
+      if echo "$title $abstract $keywords" | grep -Piq "$PHS_PATTERN"; then
+        k=$(( k + 1 ))
+        log "\t DOI $k to fetch on CrossRef: $doi"
+        echo "$doi" >> "$DOI_FILE"
+      else
+        log "\t Please check, seems not port-Hamiltonian: $doi"
+        echo "$doi" >> "$DOI_TO_CHECK"
+      fi
+    else
+      log "\t Forget, not the good type: $doi"
+      echo "$doi" >> "$DOI_BAD"
+    fi
+  else
+    log "\t Forget, not in CrossRef: $doi"
+    echo "$doi" >> "$DOI_BAD"
+  fi
 done < "$TMP_DOIS_OA"
 grep -vFxf "$DOI_BAD" "$DOI_TO_CHECK" > check.tmp && mv check.tmp "$DOI_TO_CHECK"
 
 # On va maintenant regarder dans notre database ce qu'il faut mettre à jour
-echo $(date -Iseconds)" Identification of incomplete publications starts..."
+log $(date -Iseconds)" Identification of incomplete publications starts..."
 
 # On prépare une poubelle
 mkdir $TRASH_DIR
