@@ -143,18 +143,18 @@ while IFS= read -r doi; do
       # Vérifie si "port-Hamiltonian" est présent dans le titre ou l'abstract, ou encore les keywords
       if echo "$title $abstract $keywords" | grep -Piq "$PHS_PATTERN"; then
         k=$(( k + 1 ))
-        log "\t DOI $k to fetch on CrossRef: $doi"
+        log " DOI $k to fetch on CrossRef: $doi"
         echo "$doi" >> "$DOI_FILE"
       else
-        log "\t Please check, seems not port-Hamiltonian: $doi"
+        log " Please check, seems not port-Hamiltonian: $doi"
         echo "$doi" >> "$DOI_TO_CHECK"
       fi
     else
-      log "\t Forget, not the good type: $doi"
+      log " Forget, not the good type: $doi"
       echo "$doi" >> "$DOI_BAD"
     fi
   else
-    log "\t Forget, not in CrossRef: $doi"
+    log " Forget, not in CrossRef: $doi"
     echo "$doi" >> "$DOI_BAD"
   fi
 done < "$TMP_DOIS_OA"
@@ -172,31 +172,33 @@ touch $bibcurrent
 
 # Boucle sur les éléments du biblio.json
 while IFS= read -r line; do
-    doi=$(echo "$line" | jq -r '.doi')
-    slug=$(echo "$line" | jq -r '.permalink // ""')
-    echo $(date -Iseconds)" Looking for DOI: $doi"
-    bibfile="assets/bib/$slug.bib"
-    # Quand le DOI exists, mais que le bibtex n'a pas pu être fabriquer précédemment
-    if [ ! -f $bibfile ]; then
-        echo -e "\t No bibtex!" >&2
-        echo "$doi" >> $DOI_FILE
-        sed -i -e "\|$doi|Id" "$DOI_SOURCE"
-        continue
-    fi
-    
-    # Récupère le bibtex actuellement en ligne
-    $(print_bib "$doi" "$bibcurrent")
-    
-    # Sinon, on compare avec l'ancien bibtex
-    if ! diff -q "$bibfile" "$bibcurrent" > /dev/null; then
-        echo -e "\t Different bibtex!"
-        echo "$doi" >> $DOI_FILE
-        sed -i -e "\|$doi|Id" "$DOI_SOURCE"
-        mv "$bibfile" "$TRASH_DIR$(basename $bibfile)"
-        jq --arg DOI "$doi" '[.[] | select(.doi == $DOI)]' "$BIBLIO_JSON" >> $trash
-        continue
-    fi
-    echo -e "\t OK, pass"
+  doi=$(echo "$line" | jq -r '.doi')
+  slug=$(echo "$line" | jq -r '.permalink // ""')
+  log $(date -Iseconds)" Looking for DOI: $doi"
+  bibfile="assets/bib/$slug.bib"
+  # Quand le DOI exists, mais que le bibtex n'a pas pu être fabriquer précédemment
+  if [ ! -f $bibfile ]; then
+    log " No bibtex!"
+    echo "$doi" >> $DOI_FILE
+    sed -i -e "\|$doi|Id" "$DOI_SOURCE"
+    continue
+  fi
+  
+  # Récupère le bibtex actuellement en ligne
+  print_bib "$doi" "$bibcurrent"
+  
+  cat "$bibcurrent"
+  
+  # Sinon, on compare avec l'ancien bibtex
+  if ! diff -q "$bibfile" "$bibcurrent" > /dev/null; then
+    log " Different bibtex!"
+    echo "$doi" >> $DOI_FILE
+    sed -i -e "\|$doi|Id" "$DOI_SOURCE"
+    mv "$bibfile" "$TRASH_DIR$(basename $bibfile)"
+    jq --arg DOI "$doi" '[.[] | select(.doi == $DOI)]' "$BIBLIO_JSON" >> $trash
+    continue
+  fi
+  log " OK, pass"
     
 done < <(jq -c '.[] | select(.type == "journal-article" and (.volume == "" or .issue == "" or .pages == ""))' "$BIBLIO_JSON")
 
