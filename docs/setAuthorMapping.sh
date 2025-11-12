@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Ce fichier utilise le .json créé par getData.sh pour générer (PAS AUTOMATIQUEMENT !) :
-# * Un fichier .json qui liste le nom des auteurs et les variantes apparaissant dans les publis
-
 # Les fonctions communes
 if [ -f .utils ]; then
   source .utils
 else
   printf '[X] %s\n' "Error: .utils file is missing!" >&2; exit 1;
 fi
+
+# Ce fichier utilise le .json créé par getData.sh pour générer (PAS AUTOMATIQUEMENT !) :
+# * Un fichier .json qui liste le nom des auteurs et les variantes apparaissant dans les publis
 
 # Fichiers d'entrée
 BIBLIO_FILE="assets/data/biblio.json"

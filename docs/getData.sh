@@ -1,17 +1,17 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Ce fichier prenant une liste de DOI en argument permet de générer :
-# * Un fichier .json unique qui permettra de créer les posts et de faciliter la recherche sur le site
-#
-# Il regroupe tous les appels aux différentes API pour les minimiser.
-
 # Les fonctions communes
 if [ -f .utils ]; then
   source .utils
 else
   printf '[X] %s\n' "Error: .utils file is missing!" >&2; exit 1;
 fi
+
+# Ce fichier prenant une liste de DOI en argument permet de générer :
+# * Un fichier .json unique qui permettra de créer les posts et de faciliter la recherche sur le site
+#
+# Il regroupe tous les appels aux différentes API pour les minimiser.
 
 # Vérifie si un fichier d'entrée est fourni
 if [ "$#" -ne 1 ]; then

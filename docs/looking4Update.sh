@@ -1,6 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Les fonctions communes
+if [ -f .utils ]; then
+  source .utils
+else
+  printf '[X] %s\n' "Error: .utils file is missing!" >&2; exit 1;
+fi
+
 # Ce script cherche :
 #   * les nouveaux dois de openalex vérifiés dans crossref comportant "port-Hamiltonian" quelque part
 #   * les dois pour lesquels il manque des infos (mais qui étaient déjà online) :
@@ -27,13 +34,6 @@ DOI_TO_CHECK="checkDOI.txt"
 # La "poubelle" (on supprimera à la main si tout va bien)
 TRASH_DIR="trash/"
 TRASH_JSON="trash.json"
-
-# Les fonctions communes
-if [ -f .utils ]; then
-  source .utils
-else
-  printf '[X] %s\n' "Error: .utils file is missing!" >&2; exit 1;
-fi
 
 # On commence par une recherche d'update dans openalex & croisement avec crossref
 log $(date -Iseconds)" Looking in OpenAlex & verifying with CrossRef..."

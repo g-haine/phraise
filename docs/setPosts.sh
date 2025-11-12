@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
-set -uo pipefail
+set -euo pipefail
+
+# Les fonctions communes
+if [ -f .utils ]; then
+  source .utils
+else
+  printf '[X] %s\n' "Error: .utils file is missing!" >&2; exit 1;
+fi
 
 # Ce fichier utilise le .json créé par getData.sh pour générer :
 # * Un fichier markdown "Post" par DOI qui permettra de poster la référence sur le site
