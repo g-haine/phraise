@@ -6,6 +6,7 @@ set -euo pipefail
 # * vider newDOI.txt
 # * concaténer les fichiers biblio.json avec la dernière sauvegarde générée par getData.sh
 # * supprimer les éventuels doublons dans le biblio.json
+# * nettoyer le fichier DOI.txt
 
 # Fichiers de DOI
 DOI_FILE="DOI.txt"
