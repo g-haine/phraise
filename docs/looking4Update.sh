@@ -164,7 +164,7 @@ grep -vFxf "$DOI_BAD" "$DOI_TO_CHECK" > check.tmp && mv check.tmp "$DOI_TO_CHECK
 log $(date -Iseconds)" Identification of incomplete publications starts..."
 
 # On prépare une poubelle
-mkdir $TRASH_DIR
+mkdir -p $TRASH_DIR
 trash="$TRASH_DIR$TRASH_JSON"
 : > $trash
 bibcurrent="currentBib.bib"
