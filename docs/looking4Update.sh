@@ -171,9 +171,9 @@ bibcurrent="currentBib.bib"
 touch $bibcurrent
 
 # Boucle sur les éléments du biblio.json
-while IFS= read -r line; do
-  doi=$(echo "$line" | jq -r '.doi')
-  slug=$(echo "$line" | jq -r '.permalink // ""')
+while IFS= read -r entry; do
+  doi=$(read_json "$entry" '.doi')
+  slug=$(read_json "$entry" '.permalink // ""')
   log $(date -Iseconds)" Looking for DOI: $doi"
   bibfile="assets/bib/$slug.bib"
   # Quand le DOI exists, mais que le bibtex n'a pas pu être fabriquer précédemment
