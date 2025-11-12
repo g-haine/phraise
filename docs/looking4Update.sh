@@ -30,10 +30,9 @@ TRASH_JSON="trash.json"
 
 # Les fonctions communes
 if [ -f .utils ]; then
-    source .utils
+  source .utils
 else
-    echo "Erreur : fichier .utils introuvable !" >&2
-    exit 1
+  die "Error: .env file is missing!"
 fi
 
 # On commence par une recherche d'update dans openalex & croisement avec crossref
