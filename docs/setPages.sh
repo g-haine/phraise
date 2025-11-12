@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
-set -uo pipefail
+set -euo pipefail
+
+# Les fonctions communes
+if [ -f .utils ]; then
+  source .utils
+else
+  printf '[X] %s\n' "Error: .utils file is missing!" >&2; exit 1;
+fi
 
 # Ce fichier utilise le .json créé par getData.sh et le .json de author_mapping.shen pour générer :
 # * Un fichier markdown "Page" par auteur et par année, aves les index associés
@@ -30,14 +37,6 @@ iconv -f UTF-8 -t UTF-8 "$YEARS_DIR/index.md" -o "$YEARS_DIR/index.md"
 # Vérifier la présence des fichiers JSON
 if [[ ! -f "$BIBLIO_JSON" || ! -f "$MAPPINGS_FILE" ]]; then
     echo "Erreur : Fichier(s) JSON manquant(s) !" >&2
-    exit 1
-fi
-
-# Les fonctions communes
-if [ -f .utils ]; then
-    source .utils
-else
-    echo "Erreur : fichier .utils introuvable !" >&2
     exit 1
 fi
 
