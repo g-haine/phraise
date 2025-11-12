@@ -80,8 +80,8 @@ safe_curl () {
   fi
   local 
   local http=${request: -3}
-  local response=${request:: -3}
   if [[ "$http" -eq 200 ]]; then
+    local response=${request:: -3}
     out "$response"
   else
     out '{"status":"error"}'
@@ -93,10 +93,11 @@ safe_curl () {
 print_bib () {
   local doi="$1"
   local file="$2"
+  local noBibtex="No BibTeX found!"
   local enc_doi=$(jq -rn --arg d "$doi" '$d|@uri')
   local doiBib="$(safe_curl "https://doi.org/$enc_doi" "Accept: application/x-bibtex;q=1.0")"
   if echo "$doiBib" | grep -q '{"status":"error"}'; then
-    echo "No bibtex found" > "$file"
+    echo "$noBibtex" > "$file"
     return 0
   fi
   local bibtex
@@ -112,11 +113,11 @@ print_bib () {
       /^[[:space:]]*url[[:space:]]*=/d                 # supprime url=
     '
   )"; then
-    echo "No bibtex found" > "$file"
+    echo "$noBibtex" > "$file"
     return 0
   fi
   if ! printf '%s' "$bibtex" | grep -q '^@'; then
-    echo "No bibtex found" > "$file"
+    echo "$noBibtex" > "$file"
     return 0
   fi
   local tmp
@@ -152,7 +153,8 @@ fetch_metadata () {
       die "Unknown API!"
       ;;
   esac
-  local response=$(safe_curl "$url" "${headers[@]}")
+  local response
+  response=$(safe_curl "$url" "${headers[@]}")
   out "$response"
   return 0
 }
@@ -185,93 +187,73 @@ fetch_metadata_ieee () {
   return 0
 }
 
-
-
+# Lis un JSON
+read_json () {
+  if ! jq -e . >/dev/null 2>&1 <<<"$1"; then
+    return 0
+  fi
+  local out
+  if out=$(jq -r "$2" <<<"$1"); then
+    out "$out"
+  fi
+  return 0
+}
 
 # Abstract via scopus
 abstract_from_scopus () {
-    local json=$1
-    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
-        return 0
-    fi
-
-    local abs
-    abs=$(jq -r '
-        (
-          .["full-text-retrieval-response"].coredata."dc:description"
-          // ""
-        )
-        | tostring
-        | gsub("<[^>]+>"; "")
-        | gsub("\\s+"; " ")
-        | gsub("^\\s+|\\s+$"; "")
-    ' <<<"$json") || :
-
-    [[ -n $abs ]] && printf '%s\n' "$abs"
+  out $(read_json "$1" '
+      (.["full-text-retrieval-response"].coredata."dc:description"
+        // "")
+      | tostring
+      | gsub("<[^>]+>"; "")
+      | gsub("\\s+"; " ")
+      | gsub("^\\s+|\\s+$"; "")
+  ')
+  return 0
 }
 
 # Keywords via scopus
 keywords_from_scopus () {
-    local json=$1
-    jq -e empty <<<"$json" >/dev/null 2>&1 || return 0
+  out $(read_json "$1" '
+      def norm(s):
+        s | tostring
+          | ascii_downcase
+          | gsub("^\\s+|\\s+$"; "");
 
-    local out
-    out=$(jq -r '
-        def norm(s):
-          s | tostring
-            | ascii_downcase
-            | gsub("^\\s+|\\s+$"; "");
+      def from_subjects:
+        (
+          .["full-text-retrieval-response"].coredata."dcterms:subject"
+          // []
+        )
+        | map(.["$"] // empty)
+        | map(norm(.))
+        | map(select(length > 0));
 
-        def from_subjects:
-          (
-            .["full-text-retrieval-response"].coredata."dcterms:subject"
-            // []
-          )
-          | map(.["$"] // empty)
-          | map(norm(.))
-          | map(select(length > 0));
-
-        def from_authkeywords:
-          (
-            .["full-text-retrieval-response"].coredata.authkeywords
-            // ""
-          )
-          | tostring
-          | if . == "" or . == "null" then [] else
-              ( split("[|;,]"; "x") | map(norm(.)) )
-            end
-          | map(select(length > 0));
+      def from_authkeywords:
+        (
+          .["full-text-retrieval-response"].coredata.authkeywords
+          // ""
+        )
+        | tostring
+        | if . == "" or . == "null" then [] else
+            ( split("[|;,]"; "x") | map(norm(.)) )
+          end
+        | map(select(length > 0));
 
         ( (from_subjects + from_authkeywords) | unique ) | join(", ")
-    ' <<<"$json") || :
-
-    [[ -n $out ]] && printf '%s\n' "$out"
+      ')
+  return 0
 }
 
 # event via scopus : super pour le nom de la conf IFAC
 event_from_scopus() {
-    local json=$1
-
-    # 1) Valider le JSON sans pipeline
-    jq -e empty <<<"$json" >/dev/null 2>&1 || return 0
-
-    # 2) Extraire la valeur sans faire tomber le script si jq échoue
-    local scopus_nameIssue
-    scopus_nameIssue=$(jq -r '.["full-text-retrieval-response"].coredata."prism:issueName" // ""' <<<"$json") || :
-
-    # 3) Afficher si non vide
-    [[ -n $scopus_nameIssue ]] && printf '%s\n' "$scopus_nameIssue"
+  out $(read_json "$1" '.["full-text-retrieval-response"].coredata."prism:issueName" // ""')
+  return 0
 }
 
 # Abstract via Springer
 abstract_from_springer () {
-    local json=$1
-    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
-        return 0
-    fi
-
-    local abs
-    abs=$(jq -r '
+  out $(read_json "$1" '
         (
           .records[0].abstract
           // ""
@@ -280,77 +262,50 @@ abstract_from_springer () {
         | gsub("<[^>]+>"; "")
         | gsub("\\s+"; " ")
         | gsub("^\\s+|\\s+$"; "")
-    ' <<<"$json") || :
-
-    [[ -n $abs ]] && printf '%s\n' "$abs"
+      ')
+  return 0
 }
 
 # Keywords via Springer
 keywords_from_springer () {
-    local json=$1
-    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
-        return 0
-    fi
+  out $(read_json "$1" '
+      def norm(s):
+        s | tostring
+          | ascii_downcase
+          | gsub("^\\s+|\\s+$"; "");
 
-    local out
-    if out=$(jq -r '
-                    def norm(s):
-                      s | tostring
-                        | ascii_downcase
-                        | gsub("^\\s+|\\s+$"; "");
-
-                    if (.records | type == "array") and (.records | length > 0) then
-                      (
-                        .records[0].keyword
-                        | if type == "array" then
-                            ( map(norm(.)) )
-                          elif type == "string" then
-                            ( splits("[,;|]") | map(norm(.)) )
-                          else
-                            []
-                          end
-                        | map(select(length > 0))
-                        | unique
-                        | join(", ")
-                      )
-                    else "" end
-                    ' <<<"$json"); then
-    fi
-    if [[ -n $out ]]; then
-        printf '%s\n' "$out"
-    fi
-    return 0
+      if (.records | type == "array") and (.records | length > 0) then
+        (
+          .records[0].keyword
+          | if type == "array" then
+              ( map(norm(.)) )
+            elif type == "string" then
+              ( splits("[,;|]") | map(norm(.)) )
+            else
+              []
+            end
+          | map(select(length > 0))
+          | unique
+          | join(", ")
+        )
+      else "" end
+      ')
+  return 0
 }
 
 # event via springer : super pour le nom de la conf également, type GSI
 event_from_springer() {
-    local json=$1
-
-    # 1) Valider le JSON (sans pipeline)
-    jq -e empty >/dev/null 2>&1 <<<"$json" || return 0
-
-    # 2) Extraire (tolérant aux champs manquants)
-    #    -> imprime 0..N lignes (une par confSeriesName trouvé)
-    local out
-    out=$(jq -r '
+  out $(read_json "$1" '
         .records[0].conferenceInfo? // []         # tableau ou []
         | .[]                                     # chaque entrée
         | .confSeriesName? // empty               # valeur ou ""
-    ' <<<"$json") || :                            # ne jamais tuer le script
-
-    [[ -n $out ]] && printf '%s\n' "$out"
+      ')
+  return 0
 }
 
 # Abstract via IEEE
 abstract_from_ieee () {
-    local json=$1
-    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
-        return 0
-    fi
-
-    # L’abstract est dans articles[0].abstract
-    local abs
-    abs=$(jq -r '
+  out $(read_json "$1" '
         (
           .articles[0].abstract
           // ""
@@ -359,24 +314,13 @@ abstract_from_ieee () {
         | gsub("<[^>]+>"; "")
         | gsub("\\s+"; " ")
         | gsub("^\\s+|\\s+$"; "")
-    ' <<<"$json") || :
-
-    [ -n "$abs" ] && [ "$abs" != "null" ] &&printf '%s\n' "$abs"
+      ')
+  return 0
 }
 
 # Keywords via IEEE (fusionne author_terms + ieee_terms + index_terms le cas échéant)
 keywords_from_ieee () {
-    local json=$1
-    if ! jq -e . >/dev/null 2>&1 <<<"$json"; then
-        return 0
-    fi
-
-    # Les mots-clés peuvent apparaître sous:
-    # - articles[0].author_terms (array de strings)
-    # - articles[0].ieee_terms   (array de strings, thésaurus contrôlé)
-    # - articles[0].index_terms  (objet possédant possiblement author_terms/ieee_terms)
-    local out
-    out=$(jq -r '
+  out $(read_json "$1" '
         def norm(s):
           s | tostring
             | ascii_downcase
@@ -400,33 +344,24 @@ keywords_from_ieee () {
             | join(", ")
           )
         else "" end
-    ' <<<"$json") || :
-
-    [ -n "$out" ] && [ "$out" != "null" ] && printf '%s\n' "$out"
+      ')
+  return 0
 }
 
 # Event (nom de la conférence) via IEEE
-# Pour les contenus de type "Conferences", le nom de l’événement est généralement dans publication_title
-# D’autres infos utiles existent: conference_dates, conference_location
 event_from_ieee() {
-    local json=$1
-
-    # 1) Valider le JSON
-    jq -e empty >/dev/null 2>&1 <<<"$json" || return 0
-
-    # 2) Extraire le nom si c'est bien un "conferences"
-    local name
-    if name=$(jq -r '
+  out $(read_json "$1" '
         if (.articles|type=="array" and (.articles|length>0)) then
           (.articles[0]
             | ( .content_type|tostring|ascii_downcase ) as $t
             | if $t == "conferences" then (.publication_title // "") else "" end
           )
         else "" end
-    ' <<<"$json"); then
-        [[ -n $name && $name != "null" ]] && printf '%s\n' "$name"
-    fi
+      ')
+  return 0
 }
+
+
 
 abstract_from_mendeley_fallback () {
   local DOI="$1"
