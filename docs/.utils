@@ -73,12 +73,12 @@ safe_curl () {
   for h in "$@"; do
     headers+=(-H "$h")
   done
+  local request
   if [[ ${#headers[@]} -gt 0 ]]; then
-    response=$(curl -Ls --connect-timeout 5 --retry 3 --retry-delay 2 -w "%{http_code}" "${headers[@]}" -X GET "$url")
+    request=$(curl -Ls --connect-timeout 5 --retry 3 --retry-delay 2 -w "%{http_code}" "${headers[@]}" -X GET "$url")
   else
-    response=$(curl -Ls --connect-timeout 5 --retry 3 --retry-delay 2 -w "%{http_code}" -X GET "$url")
+    request=$(curl -Ls --connect-timeout 5 --retry 3 --retry-delay 2 -w "%{http_code}" -X GET "$url")
   fi
-  local 
   local http=${request: -3}
   if [[ "$http" -eq 200 ]]; then
     local response=${request:: -3}
