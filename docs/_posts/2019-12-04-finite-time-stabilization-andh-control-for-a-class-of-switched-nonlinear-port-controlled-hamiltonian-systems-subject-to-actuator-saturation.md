@@ -27,7 +27,7 @@ This paper addresses the problems of finite-time stabilization and H ∞ control
 {% highlight bibtex %}
 {% raw %}
 @article{Wang_2020,
-  title={{Finite-time stabilization and<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si5.svg"><mml:msub><mml:mi mathvariant="bold-script">H</mml:mi><mml:mi>∞</mml:mi></mml:msub></mml:math>control for a class of switched nonlinear port-controlled Hamiltonian systems subject to actuator saturation}},
+  title={{Finite-time stabilization and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si5.svg"><mml:msub><mml:mi mathvariant="bold-script">H</mml:mi><mml:mi>∞</mml:mi></mml:msub></mml:math> control for a class of switched nonlinear port-controlled Hamiltonian systems subject to actuator saturation}},
   volume={357},
   ISSN={0016-0032},
   DOI={10.1016/j.jfranklin.2019.11.055},

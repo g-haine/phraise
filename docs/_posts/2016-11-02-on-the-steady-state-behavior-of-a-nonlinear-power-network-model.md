@@ -34,7 +34,7 @@ power system dynamics; steady-state behavior; port-Hamiltonian systems
 {% highlight bibtex %}
 {% raw %}
 @article{Arghir_2016,
-  title={{On the steady-state behavior of a nonlinear power network model}},
+  title={{On the steady-state behavior of a nonlinear power network model**This research is supported by ETH funds and the SNF Assistant Professor Energy Grant #160573.}},
   volume={49},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2016.10.373},

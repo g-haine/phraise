@@ -60,7 +60,7 @@ This paper addresses the issue of structure-preserving discretization of open di
 - talasila, The wave equation as a port-hamiltonian system and a finite dimensional approximation. Proc 15th Int Symp Mathematical Theory of Networks and Systems (2002)
 - [Voss, T. & Scherpen, J. M. A. Structure Preserving Spatial Discretization of a 1-D Piezoelectric Timoshenko Beam. Multiscale Model. Simul. 9, 129–154 (2011)](structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam) -- [10.1137/100789038](https://doi.org/10.1137/100789038)
 - bossavit, Computational Electromagnetism Variational Formulations Complementarity Edge Elements (1998)
-- Bassi, L., Macchelli, A. & Melchiorri, C. An Algorithm to Discretize One-Dimensional Distributed Port Hamiltonian Systems. Lecture Notes in Control and Information Sciences 61–73 doi:10.1007/978-3-540-73890-9_4 -- [10.1007/978-3-540-73890-9_4](https://doi.org/10.1007/978-3-540-73890-9_4)
+- [Bassi, L., Macchelli, A. & Melchiorri, C. An Algorithm to Discretize One-Dimensional Distributed Port Hamiltonian Systems. Lecture Notes in Control and Information Sciences 61–73 doi:10.1007/978-3-540-73890-9_4](an-algorithm-to-discretize-one-dimensional-distributed-port-hamiltonian-systems) -- [10.1007/978-3-540-73890-9_4](https://doi.org/10.1007/978-3-540-73890-9_4)
 - dorfman, Dirac Structures and Integrability of Nonlinear Evolution Equations (1993)
 - Arnold, D., Falk, R. & Winther, R. Finite element exterior calculus: from Hodge theory to numerical stability. Bull. Amer. Math. Soc. 47, 281–354 (2010) -- [10.1090/s0273-0979-10-01278-4](https://doi.org/10.1090/s0273-0979-10-01278-4)
 - desbrun, Discrete Exterior Calculus (0)

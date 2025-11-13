@@ -10,6 +10,9 @@ category: articles
 ## Authors
 [Carmen Chan-Zheng](authors/carmen-chan-zheng), [Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **Journal:** IEEE Control Systems Letters
 - **Year:** 2023

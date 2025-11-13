@@ -27,7 +27,7 @@ This paper illustrates a model reduction procedure for port Hamiltonian systems 
 {% highlight bibtex %}
 {% raw %}
 @article{Gentili_2010,
-  title={{Design and experimental validation of a model reduction algorithm for high-order port-Hamiltonian systems *}},
+  title={{Design and experimental validation of a model reduction algorithm for high-order port-Hamiltonian systems}},
   volume={43},
   ISSN={1474-6670},
   DOI={10.3182/20100901-3-it-2016.00207},

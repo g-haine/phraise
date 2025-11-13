@@ -51,7 +51,7 @@ Port-Hamiltonian; Exact Discretization; Undamped Wave Equation System
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-representation-and-discretization-of-undamped-wave-equation-system.bib)
  
 ## References
-- Bassi, L., Macchelli, A. & Melchiorri, C. An Algorithm to Discretize One-Dimensional Distributed Port Hamiltonian Systems. Lecture Notes in Control and Information Sciences 61–73 doi:10.1007/978-3-540-73890-9_4 -- [10.1007/978-3-540-73890-9_4](https://doi.org/10.1007/978-3-540-73890-9_4)
+- [Bassi, L., Macchelli, A. & Melchiorri, C. An Algorithm to Discretize One-Dimensional Distributed Port Hamiltonian Systems. Lecture Notes in Control and Information Sciences 61–73 doi:10.1007/978-3-540-73890-9_4](an-algorithm-to-discretize-one-dimensional-distributed-port-hamiltonian-systems) -- [10.1007/978-3-540-73890-9_4](https://doi.org/10.1007/978-3-540-73890-9_4)
 - Duindam, (2009)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - Havu, V. & Malinen, J. The Cayley Transform as a Time Discretization Scheme. Numerical Functional Analysis and Optimization vol. 28 825–851 (2007) -- [10.1080/01630560701493321](https://doi.org/10.1080/01630560701493321)

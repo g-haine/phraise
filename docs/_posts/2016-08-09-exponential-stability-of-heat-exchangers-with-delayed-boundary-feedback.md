@@ -36,7 +36,7 @@ hyperbolic equation; boundary feedback; time lag; stability; semigroup
 {% highlight bibtex %}
 {% raw %}
 @article{Sano_2016,
-  title={{Exponential Stability of Heat Exchangers with Delayed Boundary Feedback}},
+  title={{Exponential Stability of Heat Exchangers with Delayed Boundary Feedback**This research is supported by KAKENHI (Grant-in-Aid for Scientific Research (C), No. 15K04999), Japan Society for the Promotion of Science.}},
   volume={49},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2016.07.416},

@@ -26,7 +26,7 @@ Currently, light electric vehicles are rapidly developing in various kinds. To p
 {% highlight bibtex %}
 {% raw %}
 @article{Kuzyk_2024,
-  title={{Mode decomposed passivity-based speed control of DC drive with bidirectional Zeta-SEPIC DC-DC converter for light electric vehicles}},
+  title={{Mode decomposed passivity-based speed control of DC drive with  bidirectional Zeta-SEPIC DC-DC converter for light electric vehicles}},
   volume={7},
   ISSN={2663-7731},
   DOI={10.15276/hait.07.2024.6},

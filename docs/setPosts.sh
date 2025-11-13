@@ -50,7 +50,6 @@ while IFS= read -r line; do
   valid_slugs+=("$value")
   doi_keywords["$key"]="$value"
 done < <(jq -c '.[]' "$BIBLIO_JSON")
-SLUGS="$(printf '%s|' "${valid_slugs[@]}" | sed 's/|$//')"
 
 # Charger les correspondances "Prénom Nom" → "slug"
 log $(date -Iseconds)" Load names -> slugs table..."
@@ -189,6 +188,9 @@ create_markdown_post () {
   echo "## BibTeX" >> "$output_md"
   echo "{% highlight bibtex %}" >> "$output_md"
   echo "{% raw %}" >> "$output_md"
+  if [ ! -f $bibtex ]; then
+    print_bib "$doi" "$bibtex"
+  fi
   cat "$bibtex" >> "$output_md"
   echo "{% endraw %}" >> "$output_md"
   echo "{% endhighlight %}" >> "$output_md"
@@ -250,10 +252,16 @@ log $(date -Iseconds)" Cleaning orphan bib files..."
 # Pour chaque .bib dans assets/bib
 find "$BIB_DIR" -name '*.bib' | while read -r bibfile; do
   bibname=$(basename "$bibfile" .bib)
-
-  if ! echo "$bibname" | grep -Piq "$SLUGS"; then
+  is_valid=false || :
+  for slug in "${valid_slugs[@]}"; do
+    if [[ "$bibname" == "$slug" ]]; then
+      is_valid=true
+      break
+    fi
+  done
+  if ! $is_valid; then
     log " Deleting: $bibfile"
-    mv "$bibfile" "$TRASH_DIR$bibname.bib"
+    mv "$bibfile" "$TRASH_DIR/$bibname.bib"
   fi
 done
 

@@ -28,7 +28,7 @@ In this brief, we address the robust force regulation problem of mechanical syst
 @article{Navarro_Alarcon_2014,
   title={{Energy Shaping Methods for Asymptotic Force Regulation of Compliant Mechanical Systems}},
   volume={22},
-  ISSN={1558-0865},
+  ISSN={2374-0159},
   DOI={10.1109/tcst.2014.2309659},
   number={6},
   journal={IEEE Transactions on Control Systems Technology},

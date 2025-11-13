@@ -10,6 +10,9 @@ category: articles
 ## Authors
 [Chaolong Jiang](authors/chaolong-jiang), [Wenjun Cai](authors/wenjun-cai), [Yushun Wang](authors/yushun-wang), [Haochen Li](authors/haochen-li)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **Journal:** CSIAM Transactions on Applied Mathematics
 - **Year:** 2024

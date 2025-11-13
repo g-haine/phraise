@@ -25,15 +25,7 @@ The interest for the vocal fold modeling and in numerical simulations of voice p
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@inproceedings{Encina_2015,
-  title={{Vocal fold modeling through the port-Hamiltonian systems approach}},
-  DOI={10.1109/cca.2015.7320832},
-  booktitle={{2015 IEEE Conference on Control Applications (CCA)}},
-  publisher={IEEE},
-  author={Encina, Marco and Yuz, Juan and Zanartu, Matias and Galindo, Gabriel},
-  year={2015},
-  pages={1558--1563}
-}
+No BibTeX found!
 {% endraw %}
 {% endhighlight %}
  

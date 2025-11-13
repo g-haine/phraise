@@ -26,14 +26,14 @@ The desire for energy independence presupposes the use of various types of eleme
 {% highlight bibtex %}
 {% raw %}
 @article{Biletskyi_2021,
-  title={{PASSIVITY-BASED CONTROL SYSTEM FOR STAND-ALONE HYBRID ELECTROGENERATING COMPLEX}},
+  title={{Passivity-based control system for stand-alone hybrid  electrogenerating complex}},
   volume={4},
   ISSN={2663-7723},
   DOI={10.15276/aait.02.2021.2},
   number={2},
   journal={Applied Aspects of Information Technology},
   publisher={Odessa Polytechnic National University},
-  author={Biletskyi, Yurii O. and Shchur, Ihor Z. and Kuzyk, Rostyslav-Ivan V.},
+  author={Biletskyi, Yurii O. and Shchur, Ihor Z. and Kuzyk, Rostyslav-Ivan},
   year={2021},
   pages={140--152}
 }

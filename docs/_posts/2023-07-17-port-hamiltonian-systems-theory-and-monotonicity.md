@@ -10,6 +10,9 @@ category: articles
 ## Authors
 [M. K. Camlibel](authors/m-kanat-camlibel), [A. J. van der Schaft](authors/arjan-van-der-schaft)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization
 - **Year:** 2023

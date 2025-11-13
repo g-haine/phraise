@@ -34,7 +34,7 @@ distributed port-Hamiltonian systems; energy shaping; Casimir functions
 {% highlight bibtex %}
 {% raw %}
 @article{Macchelli_2012,
-  title={{Boundary Energy Shaping of Linear Distributed Port-Hamiltonian Systems* *This work was partially supported by the Austrian Center of Competence in Mechatronics (ACCM).}},
+  title={{Boundary Energy Shaping of Linear Distributed Port-Hamiltonian Systems}},
   volume={45},
   ISSN={1474-6670},
   DOI={10.3182/20120829-3-it-4022.00041},

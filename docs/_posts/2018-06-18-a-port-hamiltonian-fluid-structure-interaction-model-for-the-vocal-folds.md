@@ -35,7 +35,7 @@ Dynamic modeling; port-Hamiltonian model; fluid-structure interaction; vocal fol
 {% highlight bibtex %}
 {% raw %}
 @article{Mora_2018,
-  title={{A port-Hamiltonian Fluid-Structure Interaction Model for the Vocal folds}},
+  title={{A port-Hamiltonian Fluid-Structure Interaction Model for the Vocal folds ⁎ ⁎This work was supported by CONICYT-PFCHA/2017-21170472, and AC3E CONICYT-Basal Project FB-0008.}},
   volume={51},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2018.06.016},

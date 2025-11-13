@@ -33,7 +33,7 @@ Distributed parameters systems; port-Hamiltonian systems
 {% highlight bibtex %}
 {% raw %}
 @article{Lequeurre_2015,
-  title={{The piston problem in a port-Hamiltonian formalism}},
+  title={{The piston problem in a port-Hamiltonian formalism∗∗This work is supported by the ANR HAMECMOPSYS.}},
   volume={48},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2015.10.241},
