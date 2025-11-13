@@ -25,6 +25,18 @@ This article proposes port-Hamiltonian (pH) stability analysis of synchronous re
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
+@article{Nagam_2025,
+  title={{Synchronization Stability Analysis of SRF-PLL and DSOGI-PLL Using Port-Hamiltonian Framework}},
+  volume={33},
+  ISSN={2374-0159},
+  DOI={10.1109/tcst.2024.3523711},
+  number={3},
+  journal={IEEE Transactions on Control Systems Technology},
+  publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+  author={Nagam, Sai Sowmya and Pal, Bikash C. and Wu, Heng and Blaabjerg, Frede},
+  year={2025},
+  pages={952--962}
+}
 {% endraw %}
 {% endhighlight %}
  

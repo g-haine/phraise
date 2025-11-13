@@ -36,7 +36,7 @@ Nonequilibrium thermodynamics; Lagrangian system; variational principle; irrever
 {% highlight bibtex %}
 {% raw %}
 @article{Gay_Balmaz_2018,
-  title={{A Lagrangian variational formulation for nonequilibrium thermodynamics}},
+  title={{A Lagrangian variational formulation for nonequilibrium thermodynamics ⁎ ⁎F.G.B. is partially supported by the ANR project GEOMFLUID, ANR-14-CE23-0002-01; H.Y. is partially supported by JSPS Grant-in-Aid for Scientific Research (26400408, 16KT0024, 24224004), Waseda University (SR2017K-167), and the MEXT “Top Global University Project”.}},
   volume={51},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2018.06.006},

@@ -36,77 +36,76 @@ iconv -f UTF-8 -t UTF-8 "$YEARS_DIR/index.md" -o "$YEARS_DIR/index.md"
 
 # Vérifier la présence des fichiers JSON
 if [[ ! -f "$BIBLIO_JSON" || ! -f "$MAPPINGS_FILE" ]]; then
-    echo "Erreur : Fichier(s) JSON manquant(s) !" >&2
-    exit 1
+  die "Erreur : Fichier(s) JSON manquant(s) !"
 fi
 
 # Charger les correspondances "Prénom Nom" → "slug"
-echo $(date -Iseconds)" Load names <-> slugs tables..."
+log $(date -Iseconds)" Load names <-> slugs tables..."
 declare -A author_to_slug
 declare -A slug_to_name
 
 while IFS= read -r entry; do
-    slug=$(echo "$entry" | jq -r '.key')
-    slug_to_name["$slug"]=$(echo "$entry" | jq -r '.value[0]' | iconv -c -f UTF-8 -t UTF-8)
-    
-    # Lire toutes les variations associées à ce slug
-    while IFS= read -r variation; do
-        author_to_slug["$variation"]="$slug"
-    done < <(jq -r ".\"$slug\"[]" "$MAPPINGS_FILE")
+  slug=$(read_json "$entry" '.key')
+  slug_to_name["$slug"]=$(read_json "$entry" '.value[0]' | iconv -c -f UTF-8 -t UTF-8)
+  
+  # Lire toutes les variations associées à ce slug
+  while IFS= read -r variation; do
+    author_to_slug["$variation"]="$slug"
+  done < <(jq -r ".\"$slug\"[]" "$MAPPINGS_FILE")
 done < <(jq -c 'to_entries[]' "$MAPPINGS_FILE")
 
 # Extraction des auteurs et des années
-echo $(date -Iseconds)" Load names and years from .json..."
+log $(date -Iseconds)" Load names and years from .json..."
 declare -A authors
 declare -A years
 
 while read -r entry; do
-    permalink=$(echo "$entry" | jq -r '.permalink')
-    title=$(echo "$entry" | jq -r '.title')
-    year=$(echo "$entry" | jq -r '.year')
-    dateY=$(echo "$entry" | jq -r '.dateY')
-    dateM=$(echo "$entry" | jq -r '.dateM')
-    dateD=$(echo "$entry" | jq -r '.dateD')
-    date=$dateY"-"$(pad_zero "$dateM")"-"$(pad_zero "$dateD")
-    author_names=$(echo "$entry" | jq -r '
-      if (.authors // null) == null then
-        "No author"
-      else
-        [.authors[] | select(.family) | "\(.given) \(.family)"] | join(", ")
-      end' | iconv -c -f UTF-8 -t UTF-8)
+  permalink=$(read_json "$entry" '.permalink')
+  title=$(read_json "$entry" '.title')
+  year=$(read_json "$entry" '.year')
+  dateY=$(read_json "$entry" '.dateY')
+  dateM=$(read_json "$entry" '.dateM')
+  dateD=$(read_json "$entry" '.dateD')
+  date=$dateY"-"$(pad_zero "$dateM")"-"$(pad_zero "$dateD")
+  author_names=$(read_json "$entry" '
+    if (.authors // null) == null then
+      "No author"
+    else
+      [.authors[] | select(.family) | "\(.given) \(.family)"] | join(", ")
+    end' | iconv -c -f UTF-8 -t UTF-8)
 
-    if [[ "$author_names" == "No author" ]]; then
-        continue
+  if [[ "$author_names" == "No author" ]]; then
+    continue
+  fi
+
+  POST="
+  $date|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$(mathjaxify "$title")</a></h3></li>"
+
+  # Lire chaque "Prénom Nom" pour y ajouter le post
+  while IFS= read -d ", " -r author; do
+    author=$(echo "$author" | sed 's/^ *//;s/ *$//')
+    if [[ $author != "" ]]; then
+      slug="${author_to_slug[$author]}"
+      if [[ $slug == "" ]]; then
+          continue
+      fi
+      standardized_author="${slug_to_name[$slug]:-$author}"
+      sanitized_author=$(slugify "$standardized_author")
+      authors["$standardized_author"]+=$POST
     fi
-
-    POST="
-    $date|<li><span class='post-meta'>$year -- $author_names</span><h3><a class='post-link' href=\"{{ site.baseurl }}/$permalink\">$(mathjaxify "$title")</a></h3></li>"
-
-    # Lire chaque "Prénom Nom" pour y ajouter le post
-    while IFS= read -d ", " -r author; do
-        author=$(echo "$author" | sed 's/^ *//;s/ *$//')
-        if [[ $author != "" ]]; then
-            slug="${author_to_slug[$author]}"
-            if [[ $slug == "" ]]; then
-                continue
-            fi
-            standardized_author="${slug_to_name[$slug]:-$author}"
-            sanitized_author=$(slugify "$standardized_author")
-            authors["$standardized_author"]+=$POST
-        fi
-    done <<< "$author_names, "
-    # Ajoute le post à son année
-    years["$year"]+=$POST
+  done <<< "$author_names, "
+  # Ajoute le post à son année
+  years["$year"]+=$POST
 done < <(jq -c '.[]' "$BIBLIO_JSON")
 
 # Créer un tableau temporaire pour le tri des auteurs
-echo $(date -Iseconds)" Sorting authors..."
+log $(date -Iseconds)" Sorting authors..."
 sorted_pairs=()
 for author in "${!authors[@]}"; do
-    last_name=$(echo "$author" | awk '{print $NF}')  # Extraire le dernier mot
-    
-    # Normaliser le dernier mot en ASCII
-    normalized_last_name=$(echo "$last_name" | iconv -f UTF-8 -t ASCII//TRANSLIT | sed -E "
+  last_name=$(echo "$author" | awk '{print $NF}')  # Extraire le dernier mot
+  
+  # Normaliser le dernier mot en ASCII
+  normalized_last_name=$(echo "$last_name" | iconv -f UTF-8 -t ASCII//TRANSLIT | sed -E "
         s/d'//;
         s/Ü/U/;
         s/Ç/C/;
@@ -127,7 +126,7 @@ IFS=$'\n' sorted_pairs=($(sort -k1 <<<"${sorted_pairs[*]}"))
 unset IFS
 
 # Générer l'index des auteurs avec sous-titres alphabétiques et affichage en 3 colonnes
-echo $(date -Iseconds)" Page $AUTHORS_DIR/index.md creation..."
+log $(date -Iseconds)" Page $AUTHORS_DIR/index.md creation..."
 cat <<EOF > "$AUTHORS_DIR/index.md"
 ---
 title: Authors
@@ -150,57 +149,57 @@ letter=""
 echo "<div class='grid'>" >> "$AUTHORS_DIR/index.md"
 
 for pair in "${sorted_pairs[@]}"; do
-    last_name=$(echo "$pair" | cut -f1)  
-    author=$(echo "$pair" | cut -f2-)  
-    
-    if [[ $author == "" ]]; then
-        continue
-    fi
-    
-    # Extraire la première lettre après normalisation
-    first_letter=$(echo "$last_name" | cut -c1 | tr '[:lower:]' '[:upper:]')
+  last_name=$(echo "$pair" | cut -f1)  
+  author=$(echo "$pair" | cut -f2-)  
+  
+  if [[ $author == "" ]]; then
+    continue
+  fi
+  
+  # Extraire la première lettre après normalisation
+  first_letter=$(echo "$last_name" | cut -c1 | tr '[:lower:]' '[:upper:]')
 
-    # Vérifier si on doit insérer un sous-titre alphabétique
-    if [[ "$first_letter" != "$letter" ]]; then
-        echo "</div>" >> "$AUTHORS_DIR/index.md"
-        echo "## $first_letter" >> "$AUTHORS_DIR/index.md"
-        echo "<div class='grid'>" >> "$AUTHORS_DIR/index.md"
-        letter="$first_letter"
-    fi
+  # Vérifier si on doit insérer un sous-titre alphabétique
+  if [[ "$first_letter" != "$letter" ]]; then
+    echo "</div>" >> "$AUTHORS_DIR/index.md"
+    echo "## $first_letter" >> "$AUTHORS_DIR/index.md"
+    echo "<div class='grid'>" >> "$AUTHORS_DIR/index.md"
+    letter="$first_letter"
+  fi
 
-    slug="${author_to_slug[$author]}"
-    sanitized_slug=$(slugify "$slug")
+  slug="${author_to_slug[$author]}"
+  sanitized_slug=$(slugify "$slug")
 
-    echo "<a href='{{ site.baseurl }}/$AUTHORS_DIR/$sanitized_slug'>$author</a>" | iconv -t UTF-8 >> "$AUTHORS_DIR/index.md"
-    
-    echo $(date -Iseconds)" Page $AUTHORS_DIR/$sanitized_slug.md creation..."
-    cat <<EOF > "$AUTHORS_DIR/$sanitized_slug.md"
+  echo "<a href='{{ site.baseurl }}/$AUTHORS_DIR/$sanitized_slug'>$author</a>" | iconv -t UTF-8 >> "$AUTHORS_DIR/index.md"
+  
+  log $(date -Iseconds)" Page $AUTHORS_DIR/$sanitized_slug.md creation..."
+  cat <<EOF > "$AUTHORS_DIR/$sanitized_slug.md"
 ---
 title: Publications by $author
 permalink: /authors/$sanitized_slug
 ---
 
 EOF
-    echo '<h3 id="number-posts">There are ... items referenced.</h3>' >> "$AUTHORS_DIR/$sanitized_slug.md"
-    echo "<p id='info-authors'>Alternative author names: "$(jq -r --arg slug "$sanitized_slug" '.[$slug] | join(", ")' $MAPPINGS_FILE)".</p>" >> "$AUTHORS_DIR/$sanitized_slug.md"
+  echo '<h3 id="number-posts">There are ... items referenced.</h3>' >> "$AUTHORS_DIR/$sanitized_slug.md"
+  echo "<p id='info-authors'>Alternative author names: "$(jq -r --arg slug "$sanitized_slug" '.[$slug] | join(", ")' $MAPPINGS_FILE)".</p>" >> "$AUTHORS_DIR/$sanitized_slug.md"
 
-    echo "<hr />" >> "$AUTHORS_DIR/$sanitized_slug.md"
-    
-    echo '<ul class="post-list">' >> "$AUTHORS_DIR/$sanitized_slug.md"
-    echo -e "${authors[$author]}" | sort -t'|' -k1,1r | cut -d'|' -f2 | iconv -t UTF-8 >> "$AUTHORS_DIR/$sanitized_slug.md"
-    echo "</ul>" >> "$AUTHORS_DIR/$sanitized_slug.md"
-    echo "{% include count-posts.html %}" >> "$AUTHORS_DIR/$sanitized_slug.md"
+  echo "<hr />" >> "$AUTHORS_DIR/$sanitized_slug.md"
+  
+  echo '<ul class="post-list">' >> "$AUTHORS_DIR/$sanitized_slug.md"
+  echo -e "${authors[$author]}" | sort -t'|' -k1,1r | cut -d'|' -f2 | iconv -t UTF-8 >> "$AUTHORS_DIR/$sanitized_slug.md"
+  echo "</ul>" >> "$AUTHORS_DIR/$sanitized_slug.md"
+  echo "{% include count-posts.html %}" >> "$AUTHORS_DIR/$sanitized_slug.md"
 done
 
 echo "</div>" >> "$AUTHORS_DIR/index.md"
 
 # Trier les années avant de les afficher dans l'index
-echo $(date -Iseconds)" Sorting years..."
+log $(date -Iseconds)" Sorting years..."
 IFS=$'\n' sorted_years=($(sort -n <<<"${!years[*]}"))
 unset IFS
 
 # Générer l'index des années avec affichage en 3 colonnes et tri correct
-echo $(date -Iseconds)" Page $YEARS_DIR/index.md creation..."
+log $(date -Iseconds)" Page $YEARS_DIR/index.md creation..."
 cat <<EOF > "$YEARS_DIR/index.md"
 ---
 title: Years
@@ -211,26 +210,26 @@ permalink: /years/
 EOF
 
 for year in "${sorted_years[@]}"; do
-    echo "<a href='{{ site.baseurl }}/$YEARS_DIR/$year'>$year</a>" >> "$YEARS_DIR/index.md"
+  echo "<a href='{{ site.baseurl }}/$YEARS_DIR/$year'>$year</a>" >> "$YEARS_DIR/index.md"
 done
 
 echo "</div>" >> "$YEARS_DIR/index.md"
 
 # Générer les fichiers correspondants
 for year in "${sorted_years[@]}"; do
-    echo $(date -Iseconds)" Page $YEARS_DIR/$year.md creation..."
-    cat <<EOF > "$YEARS_DIR/$year.md"
+  log $(date -Iseconds)" Page $YEARS_DIR/$year.md creation..."
+  cat <<EOF > "$YEARS_DIR/$year.md"
 ---
 title: Published in $year
 permalink: /years/$year
 ---
 
 EOF
-    echo '<h3 id="number-posts">There are ... items referenced.</h3>' >> "$YEARS_DIR/$year.md"
-    echo '<ul class="post-list">' >> "$YEARS_DIR/$year.md"
-    echo -e "${years[$year]}" | sort -t'|' -k1,1r | cut -d'|' -f2 | iconv -t UTF-8 >> "$YEARS_DIR/$year.md"
-    echo "</ul>" >> "$YEARS_DIR/$year.md"
-    echo "{% include count-posts.html %}" >> "$YEARS_DIR/$year.md"
+  echo '<h3 id="number-posts">There are ... items referenced.</h3>' >> "$YEARS_DIR/$year.md"
+  echo '<ul class="post-list">' >> "$YEARS_DIR/$year.md"
+  echo -e "${years[$year]}" | sort -t'|' -k1,1r | cut -d'|' -f2 | iconv -t UTF-8 >> "$YEARS_DIR/$year.md"
+  echo "</ul>" >> "$YEARS_DIR/$year.md"
+  echo "{% include count-posts.html %}" >> "$YEARS_DIR/$year.md"
 done
 
 echo "Pages generated!"

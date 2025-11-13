@@ -10,6 +10,9 @@ category: articles
 ## Authors
 [Rostyslav V. Polyuga](authors/rostyslav-v-polyuga)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **Journal:** European Journal of Control
 - **Year:** 2010

@@ -10,6 +10,9 @@ category: books
 ## Authors
 [Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **ISBN:** 9781601987877
 - **Publisher:** now Publishers Inc

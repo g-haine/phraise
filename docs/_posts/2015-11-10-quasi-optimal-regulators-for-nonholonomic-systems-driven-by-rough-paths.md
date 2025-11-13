@@ -36,7 +36,7 @@ Nonlinear control systems; optimal control; stability analysis; stabilizaing con
 {% highlight bibtex %}
 {% raw %}
 @article{NISHIMURA_2015,
-  title={{Quasi-Optimal Regulators for Nonholonomic Systems Driven by Rough Paths}},
+  title={{Quasi-Optimal Regulators for Nonholonomic Systems Driven by Rough Paths∗∗This work was partially supported by Grant-in-Aid for Young Scientists (B) of KAKENHI (25820184).}},
   volume={48},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2015.10.213},

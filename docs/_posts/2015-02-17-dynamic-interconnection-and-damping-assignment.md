@@ -40,7 +40,7 @@ The Interconnection and Damping Assignment passivity-based control method for po
 [Download the bib file]({{ site.baseurl }}/assets/bib/dynamic-interconnection-and-damping-assignment.bib)
  
 ## References
-- Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13 -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
+- [Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13](stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing) -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
 - rodriguez, Nonlinear control of magnetic levitation systems via energy balancing. Proc Amer Control Conf (2000)
 - rowell, Systems Dynamics: An Introduction. (1997)
 - Sassano, M. & Astolfi, A. Dynamic Approximate Solutions of the HJ Inequality and of the HJB Equation for Input-Affine Nonlinear Systems. IEEE Trans. Automat. Contr. 57, 2490–2503 (2012) -- [10.1109/tac.2012.2186716](https://doi.org/10.1109/tac.2012.2186716)

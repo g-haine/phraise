@@ -10,6 +10,9 @@ category: articles
 ## Authors
 [CHAI JingXuan](authors/chai-jingxuan), [MEI Jie](authors/mei-jie), [GONG YouMin](authors/gong-youmin), [GUO XuFa](authors/guo-xufa), [MA GuangFu](authors/ma-guangfu), [WU WeiRen](authors/wu-weiren)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **Journal:** SCIENTIA SINICA Physica, Mechanica &amp; Astronomica
 - **Year:** 2025

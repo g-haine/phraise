@@ -10,6 +10,9 @@ category: articles
 ## Authors
 [Jean-Michel W. Fahmi](authors/jean-michel-w-fahmi), [James L. Gresham](authors/james-l-gresham), [Craig A. Woolsey](authors/craig-a-woolsey)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **Journal:** Journal of Guidance, Control, and Dynamics
 - **Year:** 2023

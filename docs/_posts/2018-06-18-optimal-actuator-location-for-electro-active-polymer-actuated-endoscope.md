@@ -35,7 +35,7 @@ Medical endoscope; optimal actuator location; linear quadratic optimization; por
 {% highlight bibtex %}
 {% raw %}
 @article{Wu_2018,
-  title={{Optimal actuator location for electro-active polymer actuated endoscope}},
+  title={{Optimal actuator location for electro-active polymer actuated endoscope  ⁎ ⁎The authors gratefully acknowledge the support of the ANR-DFG (French-German) project INFIDHEM with Reference Code ANR-16-CE92-0028 and the support of the ENSMM BQR project with Reference Code BQR ENSMM N°06.2017}},
   volume={51},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2018.06.053},

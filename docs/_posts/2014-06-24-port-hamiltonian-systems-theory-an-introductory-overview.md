@@ -32,7 +32,7 @@ An up-to-date survey of the theory of port-Hamiltonian systems is given, emphasi
   DOI={10.1561/2600000002},
   number={2},
   journal={Foundations and Trends® in Systems and Control},
-  publisher={Now Publishers},
+  publisher={Emerald},
   author={van der Schaft, Arjan and Jeltsema, Dimitri},
   year={2014},
   pages={173--378}

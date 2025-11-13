@@ -40,12 +40,15 @@ Port-Hamiltonian system; Passivity; Nonnegativity; Kalman–Yakubovich–Popov i
 {% raw %}
 @article{Cherifi_2025,
   title={{Relationship between dissipativity concepts for linear time-varying port-Hamiltonian systems}},
+  volume={37},
   ISSN={1435-568X},
   DOI={10.1007/s00498-025-00421-z},
+  number={4},
   journal={Mathematics of Control, Signals, and Systems},
   publisher={Springer Science and Business Media LLC},
   author={Cherifi, Karim and Gernandt, Hannes and Hinsen, Dorothea and Mehrmann, Volker and Morandin, Riccardo},
-  year={2025}
+  year={2025},
+  pages={879--968}
 }
 {% endraw %}
 {% endhighlight %}

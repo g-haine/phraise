@@ -37,7 +37,7 @@ Port-Hamiltonian systems (pHs); distributed-parameter system (DPS); systems of c
 {% highlight bibtex %}
 {% raw %}
 @article{Serhani_2018,
-  title={{Structure-Preserving Finite Volume Method for 2D Linear and Non-Linear Port-Hamiltonian Systems}},
+  title={{Structure-Preserving Finite Volume Method for 2D Linear and Non-Linear Port-Hamiltonian Systems ⁎ ⁎This work is supported by the project ANR-16-CE92-0028, entitled Interconnected Infinite-Dimensional systems for Heterogeneous Media, INFIDHEM, financed by the French National Research Agency (ANR). Further information is available at https://websites.isae-supaero.fr/infidhem/the-project/}},
   volume={51},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2018.06.037},

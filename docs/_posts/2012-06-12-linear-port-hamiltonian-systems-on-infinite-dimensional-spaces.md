@@ -10,6 +10,9 @@ category: books
 ## Authors
 [Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-zwart)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **ISBN:** 9783034803984
 - **Publisher:** Springer Basel

@@ -10,6 +10,9 @@ category: articles
 ## Authors
 [Fernando Castaños](authors/fernando-castanos)
  
+## Abstract
+No abstract available
+ 
 ## Citation
 - **Journal:** European Journal of Control
 - **Year:** 2010

@@ -34,7 +34,7 @@ Irreversible thermodynamics; hysteresis; dissipative port Hamiltonian systems
 {% highlight bibtex %}
 {% raw %}
 @article{Calchand_2012,
-  title={{Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation* *The contribution of authors has been done within the context of the French National Research Agency sponsored project HAMECMOPSYS number ANR-11-BS03-0002. Further information is available at www.hamecmopsys.ens2m.fr/.}},
+  title={{Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation}},
   volume={45},
   ISSN={1474-6670},
   DOI={10.3182/20120829-3-it-4022.00044},
