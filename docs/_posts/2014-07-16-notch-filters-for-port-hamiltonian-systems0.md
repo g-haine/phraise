@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[D. A. Dirksz](authors/daniel-a-dirksz), [J. M. A. Scherpen](authors/jacquelien-m-a-scherpen), [A. J. van der Schaft](authors/arjan-van-der-schaft), [M. Steinbuch](authors/maarten-steinbuch)
+[D. A. Dirksz](authors/daniel-alonzo-dirksz), [J. M. A. Scherpen](authors/jacquelien-m-a-scherpen), [A. J. van der Schaft](authors/arjan-van-der-schaft), [M. Steinbuch](authors/maarten-steinbuch)
  
 ## Abstract
 In this paper a standard notch filter is modeled in the port-Hamiltonian framework. By having such a port-Hamiltonian description it is proven that the notch filter is a passive system. The notch filter can then be interconnected with another (nonlinear) port-Hamiltonian system, while preserving the overall passivity property. By doing so we can combine a frequency-based control method, the notch filter, with the nonlinear control methodology of passivity-based control.

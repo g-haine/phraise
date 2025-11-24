@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[D. A. Dirksz](authors/daniel-a-dirksz), [J. M. A. Scherpen](authors/jacquelien-m-a-scherpen)
+[D. A. Dirksz](authors/daniel-alonzo-dirksz), [J. M. A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In the last years the power-based modeling framework, developed in the sixties to model nonlinear electrical RLC networks, has been extended for modeling and control of a larger class of physical systems. In this brief we apply power-based integral control to a planar manipulator experimental setup. An integrator is known to compensate for steady-state errors, which usually occur in real applications. Recent developments in power-based control have shown the possibility of applying integral control to globally asymptotically stabilize a nonlinear system, without losing the original structure. In contrast, the more common PI or PID controllers do not provide such global properties. Both simulation and experimental results show an improvement in transient performance compared to PID control.

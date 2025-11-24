@@ -67,12 +67,12 @@ while IFS= read -r author; do
       display=$(read_json "$best" '.display_name')
       slug=$(slugify "$display")
       to_add="  \"$slug\": [ \"$author\""
-      if ! diff -q "$author" "$display" > /dev/null; then
+      if ! diff -q <(echo "$author") <(echo "$display") > /dev/null; then
         to_add+=", \"$display\""
       fi
       while IFS= read -r name; do
         to_add+=", \"$name\""
-      done < <(echo "$best" | jq -c '.display_name_alternatives[]' 2>/dev/null)
+      done < <(echo "$best" | jq -cr '.display_name_alternatives[]' 2>/dev/null)
       to_add+=" ]"
       last_name=$(echo "$display" | awk '{print $NF}')  # Extraire le dernier mot
     else

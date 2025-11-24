@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[D.A. Dirksz](authors/daniel-a-dirksz), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[D.A. Dirksz](authors/daniel-alonzo-dirksz), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 Mechanical systems can be asymptotically stabilized without velocity measurements by applying a dynamic extension. By interconnecting the system with a (virtual) controller damping is indirectly injected into the system making velocity measurements unnecessary, provided that this damping propagates to the mechanical system. The approach has been shown for the case of potential energy shaping and for a class of systems requiring total energy shaping. In this paper we investigate the same idea for the trajectory tracking problem. Like with the stabilization problem we apply a dynamic extension to avoid having to measure the system velocities and still realize perfect tracking of a desired trajectory. This is done for fully-actuated port-Hamiltonian mechanical systems.

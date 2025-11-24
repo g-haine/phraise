@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Daniel A. Dirksz](authors/daniel-a-dirksz)
+[Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Daniel A. Dirksz](authors/daniel-alonzo-dirksz)
  
 ## Abstract
 This work is devoted to a force control strategy of a class of standard mechanical systems in the port-Hamiltonian framework. First, a coordinate transformation is applied to equivalently describe the original port-Hamiltonian system in a port-Hamiltonian form which has a constant mass-inertia matrix in the Hamiltonian. Then, we show how to derive an extended port-Hamiltonian system with structure preservation which can be used for force control purposes. Furthermore, we prove that the closed-loop system is asymptotically stable via a Lyapunov candidate function. Finally, experiments results are provided to show the advantages of the force control strategy in presence of external forces.

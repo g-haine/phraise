@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[D.A. Dirksz](authors/daniel-a-dirksz), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[D.A. Dirksz](authors/daniel-alonzo-dirksz), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 Recently a power-based modeling framework was introduced for mechanical systems, based on the Brayton-Moser framework. In this paper it is shown how this power-based framework is used for control of standard mechanical systems. For systems which are affected by parameter uncertainty or other unknown disturbances adaptive control and integral control are also described in this framework. The power-based control approach is also compared with the energy-shaping control of port-Hamiltonian systems. The most interesting difference is the possibility of having adaptive and integrator dynamics depending on position errors, while preserving the physical structure.

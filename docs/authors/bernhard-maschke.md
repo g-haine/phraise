@@ -7,6 +7,7 @@ permalink: /authors/bernhard-maschke
 <p id='info-authors'>Alternative author names: Bernhard Maschke, B. Maschke, B.M. Maschke, Bernhard MASCHKE, B. M. Maschke, Bernhard M. Maschke, B.M.J. Maschke.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Jonas Kirchhoff, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-representation-of-metriplectic-systems-and-their-interconnection">Port-Hamiltonian representation of metriplectic systems and their interconnection</a></h3></li>
 <li><span class='post-meta'>2025 -- Mario Spirito, Bernhard Maschke, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/beyond-singular-perturbation-for-linear-port-hamiltonian-systems">Beyond Singular Perturbation for linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Arjan van der Schaft, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/linear-port-hamiltonian-boundary-control-models-and-their-equivalence">Linear port-Hamiltonian boundary control models and their equivalence</a></h3></li>
 <li><span class='post-meta'>2025 -- Alexander Kilian, Bernhard Maschke, Andrii Mironchenko, Fabian Wirth</span><h3><a class='post-link' href="{{ site.baseurl }}/infinite-dimensional-port-hamiltonian-systems-with-a-stationary-interface">Infinite-dimensional port-Hamiltonian systems with a stationary interface</a></h3></li>

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Daniel A. Dirksz](authors/daniel-a-dirksz)
+[Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Daniel A. Dirksz](authors/daniel-alonzo-dirksz)
  
 ## Abstract
 In this paper we show force feedback and position control of a class of standard mechanical system in the port-Hamiltonian framework. Furthermore, we show how to derive an extended port-Hamiltonian system with structure preservation which can be used for force feedback purposes besides providing the closed-loop system asymptotically stable. We also show the usefulness of the extended port-Hamiltonian system by showing its disturbance attenuation properties. Finally, we present simulation results obtained for the proposed control laws.

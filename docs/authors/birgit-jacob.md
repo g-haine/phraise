@@ -7,6 +7,7 @@ permalink: /authors/birgit-jacob
 <p id='info-authors'>Alternative author names: Birgit Jacob.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Bálint Farkas, Birgit Jacob, Timo Reis, Merlin Schmitz</span><h3><a class='post-link' href="{{ site.baseurl }}/operator-splitting-based-dynamic-iteration-for-linear-infinite-dimensional-port-hamiltonian-systems">Operator Splitting Based Dynamic Iteration for Linear Infinite-Dimensional Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Bouchra Elghazi, Birgit Jacob, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/well-posedness-of-a-class-of-infinite-dimensional-port-hamiltonian-systems-with-boundary-control-and-observation">Well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation</a></h3></li>
 <li><span class='post-meta'>2024 -- Birgit Jacob, Claudia Totzeck</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-structure-of-interacting-particle-systems-and-its-mean-field-limit">Port-Hamiltonian Structure of Interacting Particle Systems and Its Mean-Field Limit</a></h3></li>
 <li><span class='post-meta'>2024 -- Mehmet Erbay, Birgit Jacob, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-weierstrass-form-of-infinite-dimensional-differential-algebraic-equations">On the Weierstraß form of infinite-dimensional differential algebraic equations</a></h3></li>

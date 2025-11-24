@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Maarten Steinbuch](authors/maarten-steinbuch)
+[Daniel A. Dirksz](authors/daniel-alonzo-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Maarten Steinbuch](authors/maarten-steinbuch)
  
 ## Abstract
 In this paper, we take a port‐<jats:styled-content style="fixed-case">H</jats:styled-content>amiltonian approach to address the problem of image‐based visual servo control of a pick and place system. Through a coordinate transformation and a passive interconnection between mechanical system and camera dynamics we realize a closed‐loop system that is port‐<jats:styled-content style="fixed-case">H</jats:styled-content>amiltonian. The resulting control strategy depends only on the camera states and it can be proven that the closed‐loop system is also asymptotically stable. Furthermore, a region of attraction is defined for which asymptotic stability holds.

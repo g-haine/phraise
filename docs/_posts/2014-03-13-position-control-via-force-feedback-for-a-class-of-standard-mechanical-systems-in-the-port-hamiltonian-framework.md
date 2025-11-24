@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen), [Daniel A. Dirksz](authors/daniel-a-dirksz)
+[Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M. A. Scherpen](authors/jacquelien-m-a-scherpen), [Daniel A. Dirksz](authors/daniel-alonzo-dirksz)
  
 ## Abstract
 In this paper position control strategies via force feedback are presented for standard mechanical systems in the port-Hamiltonian framework. The presented control strategies requires a set of coordinate transformations, since force feedback in the port-Hamiltonian framework is not straightforward. With the coordinate transformations force feedback can be realized while preserving the port-Hamiltonian structure. The port-Hamiltonian formalism offers a modeling framework with a clear physical structure and other properties that can often be exploited for control design purposes, which is why we believe it is important to preserve the structure. The proposed control strategies offers an alternative solution to position control with more tuning freedom and exploits knowledge of the system dynamics.

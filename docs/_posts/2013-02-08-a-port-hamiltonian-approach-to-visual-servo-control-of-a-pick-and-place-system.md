@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Daniel A. Dirksz](authors/daniel-alonzo-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 No  available

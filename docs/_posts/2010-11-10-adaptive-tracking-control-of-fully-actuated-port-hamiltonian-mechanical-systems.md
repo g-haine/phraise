@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[D.A. Dirksz](authors/daniel-a-dirksz), [J.M.A. Scherp](authors/jacquelien-m-a-scherpen)
+[D.A. Dirksz](authors/daniel-alonzo-dirksz), [J.M.A. Scherp](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In the presence of parameter uncertainty tracking control can result in significant tracking errors. To overcome this problem adaptive control is applied, which estimates and compensates for the errors of the uncertain parameters. A new adaptive tracking control scheme is presented for standard fully actuated port-Hamiltonian mechanical systems. The adaptive control is such that the closed loop error system is still port-Hamiltonian and asymptotically stable.

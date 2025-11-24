@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[D.A. Dirksz](authors/daniel-a-dirksz), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen), [R. Ortega](authors/romeo-ortega)
+[D.A. Dirksz](authors/daniel-alonzo-dirksz), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen), [R. Ortega](authors/romeo-ortega)
  
 ## Abstract
 A dynamic extension for position feedback of port-Hamiltonian mechanical systems is studied. First we look at the consequences for the matching equations when applying Inter-connection and Damping Assignment Passivity-Based Control (IDA-PBC). Then we look at the possibilities of asymptotically stabilizing a class of port-Hamiltonian mechanical systems without having to know the velocities, as once presented for Euler-Lagrange (EL) systems. Here it is shown how the idea of damping injection by dynamic extension works when shaping the total energy in the port-Hamiltonian framework.

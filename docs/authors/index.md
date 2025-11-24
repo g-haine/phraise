@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2272 authors referenced.</h3>
+<h3>There are 2275 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -266,6 +266,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/federico-califano'>Federico Califano</a>
 <a href='{{ site.baseurl }}/authors/m-kanat-camlibel'>M. Kanat Camlibel</a>
 <a href='{{ site.baseurl }}/authors/javier-e-campillo'>Javier Campillo</a>
+<a href='{{ site.baseurl }}/authors/erol-can'>Erol Can</a>
 <a href='{{ site.baseurl }}/authors/shijian-cang'>Shijian Cang</a>
 <a href='{{ site.baseurl }}/authors/gui-zhou-cao'>Gui‐Zhou Cao</a>
 <a href='{{ site.baseurl }}/authors/ming-cao'>Ming Cao</a>
@@ -408,7 +409,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/hao-ding'>Hao Ding</a>
 <a href='{{ site.baseurl }}/authors/shichuan-ding'>Shichuan Ding</a>
 <a href='{{ site.baseurl }}/authors/shuai-ding'>Shuai Ding</a>
-<a href='{{ site.baseurl }}/authors/daniel-a-dirksz'>Daniel A. Dirksz</a>
+<a href='{{ site.baseurl }}/authors/daniel-alonzo-dirksz'>Daniel Alonzo Dirksz</a>
 <a href='{{ site.baseurl }}/authors/nikhil-v-divekar'>Nikhil V. Divekar</a>
 <a href='{{ site.baseurl }}/authors/a-djerdir'>A. Djerdir</a>
 <a href='{{ site.baseurl }}/authors/larbi-djilali'>Larbi Djilali</a>
@@ -501,6 +502,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/yassine-fares'>Yassine Fares</a>
 <a href='{{ site.baseurl }}/authors/m-farid'>M. Farid</a>
 <a href='{{ site.baseurl }}/authors/yousef-farid'>Yousef Farid</a>
+<a href='{{ site.baseurl }}/authors/balint-farkas'>Bálint Farkas</a>
 <a href='{{ site.baseurl }}/authors/ortwin-farle'>Ortwin Farle</a>
 <a href='{{ site.baseurl }}/authors/timm-faulwasser'>Timm Faulwasser</a>
 <a href='{{ site.baseurl }}/authors/a-favache'>A. Favache</a>
@@ -1675,6 +1677,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/kurt-schlacher'>Kurt Schlacher</a>
 <a href='{{ site.baseurl }}/authors/jochen-schmid'>Jochen Schmid</a>
 <a href='{{ site.baseurl }}/authors/martin-schmidt'>Martin Schmidt</a>
+<a href='{{ site.baseurl }}/authors/merlin-schmitz'>Merlin Schmitz</a>
 <a href='{{ site.baseurl }}/authors/markus-schoberl'>Markus Schöberl</a>
 <a href='{{ site.baseurl }}/authors/eckehard-scholl'>Eckehard Schöll</a>
 <a href='{{ site.baseurl }}/authors/tjardo-scholten'>Tjardo Scholten</a>
