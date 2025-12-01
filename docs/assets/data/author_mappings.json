@@ -1665,6 +1665,8 @@
 ,
   "marvin-lucas-henkel": [ "Marvin-Lucas Henkel" ]
 ,
+  "julius-herb": [ "Julius Herb" ]
+,
   "robin-herkert": [ "Robin Herkert" ]
 ,
   "ivo-herman": [ "Ivo Herman" ]
@@ -1724,6 +1726,8 @@
   "koh-hosoda": [ "Koh Hosoda", "Koh HOSODA" ]
 ,
   "jun-hou": [ "Jun Hou", "null Jun Hou" ]
+,
+  "kaiyuan-hou": [ "Kaiyuan Hou", "Kai-yuan Hou" ]
 ,
   "lijun-hou": [ "Lijun Hou" ]
 ,
@@ -1798,6 +1802,8 @@
   "yao-huang": [ "Yao Huang" ]
 ,
   "yuancan-huang": [ "Yuancan Huang" ]
+,
+  "zhen-huang": [ "Zhen Huang", "None Zhen Huang", "Zhen HUANG", "Zhen Yu Huang" ]
 ,
   "yigeng-huangfu": [ "Yigeng Huangfu" ]
 ,
@@ -2112,6 +2118,8 @@
   "d-klis": [ "D. Klis" ]
 ,
   "tobias-kloiber": [ "Tobias Kloiber" ]
+,
+  "jonas-kneifl": [ "Jonas Kneifl", "J. Kneifl" ]
 ,
   "steffi-knorn": [ "Steffi Knorn" ]
 ,
@@ -2496,6 +2504,8 @@
   "anxing-liu": [ "Anxing Liu" ]
 ,
   "chang-liu": [ "Chang Liu" ]
+,
+  "chengzhe-liu": [ "Chengzhe Liu", "None Chengzhe Liu" ]
 ,
   "chun-liu": [ "Chun Liu" ]
 ,
@@ -4499,6 +4509,8 @@
 ,
   "kaili-wang": [ "Kaili Wang" ]
 ,
+  "kefei-wang": [ "Kefei Wang", "KEFEI WANG", "Ke-Fei Wang", "Kefei Wang -", "None Kefei Wang" ]
+,
   "lei-wang": [ "Lei Wang" ]
 ,
   "li-wang": [ "Li Wang" ]
@@ -4739,6 +4751,8 @@
 ,
   "chengjun-xia": [ "Chengjun Xia" ]
 ,
+  "deming-xia": [ "Deming Xia", "D XIA", "D Xia", "D. Xia", "De-Ming Xia", "None Deming Xia" ]
+,
   "peirong-xia": [ "Peirong Xia" ]
 ,
   "qianqian-xia": [ "Qianqian Xia" ]
@@ -4900,6 +4914,8 @@
   "xiaoyu-yang": [ "Xiaoyu Yang" ]
 ,
   "xingxi-yang": [ "Xingxi Yang" ]
+,
+  "xuerui-yang": [ "Xuerui Yang", "XUERUI YANG" ]
 ,
   "zeng-yang": [ "Zeng Yang" ]
 ,

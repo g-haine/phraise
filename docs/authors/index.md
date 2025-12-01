@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2275 authors referenced.</h3>
+<h3>There are 2283 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -745,6 +745,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/thomas-helie'>Thomas Hélie</a>
 <a href='{{ site.baseurl }}/authors/marvin-lucas-henkel'>Marvin-Lucas Henkel</a>
 <a href='{{ site.baseurl }}/authors/ahmed-hadj-henni'>Ahmed Hadj Henni</a>
+<a href='{{ site.baseurl }}/authors/julius-herb'>Julius Herb</a>
 <a href='{{ site.baseurl }}/authors/robin-herkert'>Robin Herkert</a>
 <a href='{{ site.baseurl }}/authors/ivo-herman'>Ivo Herman</a>
 <a href='{{ site.baseurl }}/authors/jesus-c-hernandez'>Jesus C. Hernández</a>
@@ -773,6 +774,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/mohamadreza-homayounzade'>Mohamadreza Homayounzade</a>
 <a href='{{ site.baseurl }}/authors/koh-hosoda'>Koh Hosoda</a>
 <a href='{{ site.baseurl }}/authors/jun-hou'>Jun Hou</a>
+<a href='{{ site.baseurl }}/authors/kaiyuan-hou'>Kaiyuan Hou</a>
 <a href='{{ site.baseurl }}/authors/lijun-hou'>Lijun Hou</a>
 <a href='{{ site.baseurl }}/authors/limin-hou'>Limin Hou</a>
 <a href='{{ site.baseurl }}/authors/rui-hou'>Rui Hou</a>
@@ -806,6 +808,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/yanwei-huang'>Yanwei Huang</a>
 <a href='{{ site.baseurl }}/authors/yao-huang'>Yao Huang</a>
 <a href='{{ site.baseurl }}/authors/yuancan-huang'>Yuancan Huang</a>
+<a href='{{ site.baseurl }}/authors/zhen-huang'>Zhen Huang</a>
 <a href='{{ site.baseurl }}/authors/yigeng-huangfu'>Yigeng Huangfu</a>
 <a href='{{ site.baseurl }}/authors/arnaud-hubert'>Arnaud Hubert</a>
 <a href='{{ site.baseurl }}/authors/nicolas-hudon'>Nicolas Hudon</a>
@@ -947,6 +950,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/johan-de-kleer'>Johan de Kleer</a>
 <a href='{{ site.baseurl }}/authors/d-klis'>D. Klis</a>
 <a href='{{ site.baseurl }}/authors/tobias-kloiber'>Tobias Kloiber</a>
+<a href='{{ site.baseurl }}/authors/jonas-kneifl'>Jonas Kneifl</a>
 <a href='{{ site.baseurl }}/authors/steffi-knorn'>Steffi Knorn</a>
 <a href='{{ site.baseurl }}/authors/koichi-kobayashi'>Koichi Kobayashi</a>
 <a href='{{ site.baseurl }}/authors/luuk-groot-koerkamp'>Luuk Groot Koerkamp</a>
@@ -1108,6 +1112,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/marek-lis'>Marek Lis</a>
 <a href='{{ site.baseurl }}/authors/anxing-liu'>Anxing Liu</a>
 <a href='{{ site.baseurl }}/authors/chang-liu'>Chang Liu</a>
+<a href='{{ site.baseurl }}/authors/chengzhe-liu'>Chengzhe Liu</a>
 <a href='{{ site.baseurl }}/authors/dan-liu'>Dan Liu</a>
 <a href='{{ site.baseurl }}/authors/dongmei-liu'>Dongmei Liu</a>
 <a href='{{ site.baseurl }}/authors/dongqing-liu'>Dongqing Liu</a>
@@ -1998,6 +2003,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/jun-wang'>Jun Wang</a>
 <a href='{{ site.baseurl }}/authors/junmin-wang'>Junmin Wang</a>
 <a href='{{ site.baseurl }}/authors/kaili-wang'>Kaili Wang</a>
+<a href='{{ site.baseurl }}/authors/kefei-wang'>Kefei Wang</a>
 <a href='{{ site.baseurl }}/authors/lei-wang'>Lei Wang</a>
 <a href='{{ site.baseurl }}/authors/li-wang'>Li Wang</a>
 <a href='{{ site.baseurl }}/authors/m-wang'>M. Wang</a>
@@ -2107,6 +2113,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/lei-xi'>Lei Xi</a>
 <a href='{{ site.baseurl }}/authors/yugeng-xi'>Yugeng Xi</a>
 <a href='{{ site.baseurl }}/authors/chengjun-xia'>Chengjun Xia</a>
+<a href='{{ site.baseurl }}/authors/deming-xia'>Deming Xia</a>
 <a href='{{ site.baseurl }}/authors/peirong-xia'>Peirong Xia</a>
 <a href='{{ site.baseurl }}/authors/qianqian-xia'>Qianqian Xia</a>
 <a href='{{ site.baseurl }}/authors/yang-xia'>Yang Xia</a>
@@ -2184,6 +2191,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/xiaofeng-yang'>Xiaofeng Yang</a>
 <a href='{{ site.baseurl }}/authors/xiaoyu-yang'>Xiaoyu Yang</a>
 <a href='{{ site.baseurl }}/authors/xingxi-yang'>Xingxi Yang</a>
+<a href='{{ site.baseurl }}/authors/xuerui-yang'>Xuerui Yang</a>
 <a href='{{ site.baseurl }}/authors/zeng-yang'>Zeng Yang</a>
 <a href='{{ site.baseurl }}/authors/zhibo-yang'>Zhibo Yang</a>
 <a href='{{ site.baseurl }}/authors/zhiqing-yang'>Zhiqing Yang</a>
