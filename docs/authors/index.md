@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2283 authors referenced.</h3>
+<h3>There are 2288 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -146,6 +146,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/m-barbero-linan'>M Barbero-Liñán</a>
 <a href='{{ site.baseurl }}/authors/karina-a-barbosa'>Karina A. Barbosa</a>
 <a href='{{ site.baseurl }}/authors/ruxandra-barbulescu'>Ruxandra Barbulescu</a>
+<a href='{{ site.baseurl }}/authors/z-a-barhoum'>Z. A. Barhoum</a>
 <a href='{{ site.baseurl }}/authors/j-j-barradas-berglind'>J.J. Barradas-Berglind</a>
 <a href='{{ site.baseurl }}/authors/pierre-jean-barre'>Pierre-Jean Barre</a>
 <a href='{{ site.baseurl }}/authors/antonio-barreiro'>Antonio Barreiro</a>
@@ -957,6 +958,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/chiaki-kojima'>Chiaki Kojima</a>
 <a href='{{ site.baseurl }}/authors/bernd-kolar'>Bernd Kolar</a>
 <a href='{{ site.baseurl }}/authors/lukas-kolsch'>Lukas Kölsch</a>
+<a href='{{ site.baseurl }}/authors/sergey-a-kolyubin'>Sergey A. Kolyubin</a>
 <a href='{{ site.baseurl }}/authors/bilal-komati'>Bilal Komati</a>
 <a href='{{ site.baseurl }}/authors/mizuka-komatsu'>Mizuka Komatsu</a>
 <a href='{{ site.baseurl }}/authors/atsuhiro-kondo'>Atsuhiro Kondo</a>
@@ -1178,10 +1180,12 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/xiaoyuan-luo'>Xiaoyuan Luo</a>
 <a href='{{ site.baseurl }}/authors/zhi-wei-luo'>Zhi-wei Luo</a>
 <a href='{{ site.baseurl }}/authors/ciprian-lupu'>Ciprian Lupu</a>
+<a href='{{ site.baseurl }}/authors/bingchang-lv'>Bingchang Lv</a>
 <a href='{{ site.baseurl }}/authors/chengxing-lv'>Chengxing Lv</a>
 <a href='{{ site.baseurl }}/authors/ge-lv'>Ge Lv</a>
 <a href='{{ site.baseurl }}/authors/jingshuo-lv'>Jingshuo Lv</a>
 <a href='{{ site.baseurl }}/authors/xingyu-lv'>Xingyu Lv</a>
+<a href='{{ site.baseurl }}/authors/owen-lynch'>Owen Lynch</a>
 <a href='{{ site.baseurl }}/authors/zeyu-lyu'>Zeyu Lyu</a>
 </div>
 ## M
@@ -1243,6 +1247,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/stefano-massaroli'>Stefano Massaroli</a>
 <a href='{{ site.baseurl }}/authors/paolo-roberto-massenio'>Paolo Roberto Massenio</a>
 <a href='{{ site.baseurl }}/authors/k-masutani'>K. Masutani</a>
+<a href='{{ site.baseurl }}/authors/kohei-masutani'>Kohei Masutani</a>
 <a href='{{ site.baseurl }}/authors/m-t-mata'>M.T. Mata</a>
 <a href='{{ site.baseurl }}/authors/ion-matei'>Ion Matei</a>
 <a href='{{ site.baseurl }}/authors/denis-matignon'>Denis Matignon</a>

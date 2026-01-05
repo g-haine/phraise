@@ -7,6 +7,7 @@ permalink: /authors/sigrid-leyendecker
 <p id='info-authors'>Alternative author names: Sigrid Leyendecker.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Markus Lohmayer, Owen Lynch, Sigrid Leyendecker</span><h3><a class='post-link' href="{{ site.baseurl }}/exergetic-port-hamiltonian-systems-modeling-language">Exergetic Port-Hamiltonian systems modeling language</a></h3></li>
 <li><span class='post-meta'>2025 -- Markus Lohmayer, Giuseppe Capobianco, Sigrid Leyendecker</span><h3><a class='post-link' href="{{ site.baseurl }}/exergetic-port-hamiltonian-systems-for-multibody-dynamics">Exergetic port-Hamiltonian systems for multibody dynamics</a></h3></li>
 <li><span class='post-meta'>2022 -- Markus Lohmayer, Sigrid Leyendecker</span><h3><a class='post-link' href="{{ site.baseurl }}/ephs-a-port-hamiltonian-modelling-language">EPHS: A Port-Hamiltonian Modelling Language</a></h3></li>
 <li><span class='post-meta'>2022 -- Markus Lohmayer, Sigrid Leyendecker</span><h3><a class='post-link' href="{{ site.baseurl }}/exergetic-port-hamiltonian-systems-navier-stokes-fourier-fluid">Exergetic Port-Hamiltonian Systems: Navier-Stokes-Fourier Fluid</a></h3></li>

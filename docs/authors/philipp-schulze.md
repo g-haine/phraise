@@ -7,6 +7,7 @@ permalink: /authors/philipp-schulze
 <p id='info-authors'>Alternative author names: Philipp Schulze, P. Schulze.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Philipp L. Kinon, Riccardo Morandin, Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-gradient-methods-for-port-hamiltonian-differential-algebraic-equations">Discrete gradient methods for port-Hamiltonian differential-algebraic equations</a></h3></li>
 <li><span class='post-meta'>2025 -- R. Altmann, P. Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/a-novel-energy-based-modeling-framework">A novel energy-based modeling framework</a></h3></li>
 <li><span class='post-meta'>2025 -- Tobias Breiten, Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-linear-quadratic-gaussian-balanced-truncation-for-port-hamiltonian-descriptor-systems">Structure-preserving linear quadratic Gaussian balanced truncation for port-Hamiltonian descriptor systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-model-reduction-for-port-hamiltonian-systems-based-on-separable-nonlinear-approximation-ansatzes">Structure-preserving model reduction for port-Hamiltonian systems based on separable nonlinear approximation ansatzes</a></h3></li>
