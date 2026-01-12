@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[R. Altmann](authors/r-altmann), [P. Schulze](authors/philipp-schulze)
+[R. Altmann](authors/robert-a-altmann), [P. Schulze](authors/philipp-schulze)
  
 ## Abstract
 We consider the problem of finding an energy-based formulation of the Navier–Stokes equations for reactive flows. These equations occur in various applications, e. g., in combustion engines or chemical reactors. After modeling, discretization, and model reduction, important system properties as the energy conservation are usually lost which may lead to unphysical simulation results. In this paper, we introduce a port-Hamiltonian formulation of the one-dimensional Navier–Stokes equations for reactive flows. The port-Hamiltonian structure is directly associated with an energy balance, which ensures that a temporal change of the total energy is only due to energy flows through the boundary. Furthermore, the boundary ports may be used for control purposes.

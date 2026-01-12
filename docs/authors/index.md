@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2288 authors referenced.</h3>
+<h3>There are 2293 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -58,7 +58,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/fawaz-e-alsaadi'>Fawaz E. Alsaadi</a>
 <a href='{{ site.baseurl }}/authors/t-m-altalmas'>T M Altalmas</a>
 <a href='{{ site.baseurl }}/authors/abdullah-altawaitan'>Abdullah Altawaitan</a>
-<a href='{{ site.baseurl }}/authors/r-altmann'>R. Altmann</a>
+<a href='{{ site.baseurl }}/authors/robert-a-altmann'>Robert Altmann</a>
 <a href='{{ site.baseurl }}/authors/raimundez-alvarez'>Raimúndez Álvarez</a>
 <a href='{{ site.baseurl }}/authors/luis-alvarez-icaza'>Luis Alvarez-Icaza</a>
 <a href='{{ site.baseurl }}/authors/ricardo-alvarez-salas'>Ricardo Alvarez-Salas</a>
@@ -126,6 +126,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/m-a-badamchizadeh'>M. A. Badamchizadeh</a>
 <a href='{{ site.baseurl }}/authors/alberto-badias'>Alberto Badías</a>
 <a href='{{ site.baseurl }}/authors/arbi-moses-badlyan'>Arbi Moses Badlyan</a>
+<a href='{{ site.baseurl }}/authors/janusz-badur'>Janusz Badur</a>
 <a href='{{ site.baseurl }}/authors/ferdinando-rodriguez-y-baena'>Ferdinando Rodriguez y Baena</a>
 <a href='{{ site.baseurl }}/authors/milad-bahrami-fard'>Milad Bahrami-Fard</a>
 <a href='{{ site.baseurl }}/authors/chandrajit-bajaj'>Chandrajit Bajaj</a>
@@ -590,6 +591,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/alejandro-garces-ruiz'>Alejandro Garcés-Ruíz</a>
 <a href='{{ site.baseurl }}/authors/efrain-alcorta-garcia'>Efrain Alcorta Garcia</a>
 <a href='{{ site.baseurl }}/authors/g-o-garcia'>G. O. Garcia</a>
+<a href='{{ site.baseurl }}/authors/idoia-cortes-garcia'>Idoia Cortes Garcia</a>
 <a href='{{ site.baseurl }}/authors/maria-aracelia-alcorta-garcia'>Maria Aracelia Alcorta Garcia</a>
 <a href='{{ site.baseurl }}/authors/y-garcia'>Y. Garcia</a>
 <a href='{{ site.baseurl }}/authors/eloisa-garcia-canseco'>Eloísa García-Canseco</a>
@@ -1431,6 +1433,7 @@ permalink: /authors/
 </div>
 ## P
 <div class='grid'>
+<a href='{{ site.baseurl }}/authors/elias-paakkunainen'>Elias Paakkunainen</a>
 <a href='{{ site.baseurl }}/authors/g-p-padilla'>G. P. Padilla</a>
 <a href='{{ site.baseurl }}/authors/ilaria-paglianti'>Ilaria Paglianti</a>
 <a href='{{ site.baseurl }}/authors/majid-pahlevani'>Majid Pahlevani</a>
@@ -1692,6 +1695,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/eckehard-scholl'>Eckehard Schöll</a>
 <a href='{{ site.baseurl }}/authors/tjardo-scholten'>Tjardo Scholten</a>
 <a href='{{ site.baseurl }}/authors/lena-scholz'>Lena Scholz</a>
+<a href='{{ site.baseurl }}/authors/sebastian-schops'>Sebastian Schöps</a>
 <a href='{{ site.baseurl }}/authors/johannes-schule'>Johannes Schule</a>
 <a href='{{ site.baseurl }}/authors/frederic-p-schuller'>Frederic P. Schuller</a>
 <a href='{{ site.baseurl }}/authors/philipp-schulze'>Philipp Schulze</a>
@@ -2363,6 +2367,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/fenqiang-zhuang'>Fenqiang Zhuang</a>
 <a href='{{ site.baseurl }}/authors/pascal-ziegler'>Pascal Ziegler</a>
 <a href='{{ site.baseurl }}/authors/jorn-zimmerling'>Jörn Zimmerling</a>
+<a href='{{ site.baseurl }}/authors/piotr-jozef-ziolkowski'>Piotr Józef Ziółkowski</a>
 <a href='{{ site.baseurl }}/authors/b-zitte'>B. Zitte</a>
 <a href='{{ site.baseurl }}/authors/daniele-zonetti'>Daniele Zonetti</a>
 <a href='{{ site.baseurl }}/authors/guangdeng-zong'>Guangdeng Zong</a>
