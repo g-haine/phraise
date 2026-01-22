@@ -7,6 +7,7 @@ permalink: /authors/kirsten-morris
 <p id='info-authors'>Alternative author names: Kirsten Morris, Kirsten A. Morris, K. Morris.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Luis Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/controller-design-for-port-hamiltonian-systems-using-fem-approximations">Controller design for port-Hamiltonian systems using FEM approximations</a></h3></li>
 <li><span class='post-meta'>2024 -- Mehmet Erbay, Birgit Jacob, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-weierstrass-form-of-infinite-dimensional-differential-algebraic-equations">On the Weierstraß form of infinite-dimensional differential algebraic equations</a></h3></li>
 <li><span class='post-meta'>2024 -- Luis A. Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/exponential-decay-rate-of-linear-port-hamiltonian-systems-a-multiplier-approach">Exponential Decay Rate of Linear Port-Hamiltonian Systems: A Multiplier Approach</a></h3></li>
 <li><span class='post-meta'>2023 -- David C. Del Rey Fernández, Luis A. Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/strictly-uniform-exponential-decay-of-the-mixed-fem-discretization-for-the-wave-equation-with-boundary-dissipation">Strictly Uniform Exponential Decay of the Mixed-FEM Discretization for the Wave Equation With Boundary Dissipation</a></h3></li>

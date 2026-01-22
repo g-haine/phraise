@@ -4,9 +4,10 @@ permalink: /authors/luis-a-mora
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Luis A. Mora, Luis A Mora.</p>
+<p id='info-authors'>Alternative author names: Luis A. Mora, Luis A Mora, Luis Mora, L. Mora.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Luis Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/controller-design-for-port-hamiltonian-systems-using-fem-approximations">Controller design for port-Hamiltonian systems using FEM approximations</a></h3></li>
 <li><span class='post-meta'>2024 -- Luis A. Mora, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-and-entropy-assignment-boundary-control-of-the-heat-equation">Energy-shaping and entropy-assignment boundary control of the heat equation</a></h3></li>
 <li><span class='post-meta'>2023 -- Luis A. Mora, Yann Le Gorrec, Denis Matignon, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/irreversible-port-hamiltonian-modelling-of-3d-compressible-fluids">Irreversible port-Hamiltonian modelling of 3D compressible fluids</a></h3></li>
 <li><span class='post-meta'>2024 -- Luis A. Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/exponential-decay-rate-of-linear-port-hamiltonian-systems-a-multiplier-approach">Exponential Decay Rate of Linear Port-Hamiltonian Systems: A Multiplier Approach</a></h3></li>

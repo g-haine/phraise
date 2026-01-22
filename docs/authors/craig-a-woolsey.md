@@ -7,6 +7,7 @@ permalink: /authors/craig-a-woolsey
 <p id='info-authors'>Alternative author names: Craig A. Woolsey, Craig Woolsey.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Ian J. Willebeek-LeMair, Craig A. Woolsey</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-port-hamiltonian-output-tracking-control-of-cascaded-systems">Robust Port-Hamiltonian Output-Tracking Control of Cascaded Systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Jean-Michel W. Fahmi, James L. Gresham, Craig A. Woolsey</span><h3><a class='post-link' href="{{ site.baseurl }}/experimental-validation-of-port-hamiltonian-based-control-for-fixed-wing-unmanned-aircraft">Experimental Validation of Port-Hamiltonian-Based Control for Fixed-Wing Unmanned Aircraft</a></h3></li>
 <li><span class='post-meta'>2023 -- Francis Valentinis, Thomas Battista, Craig Woolsey</span><h3><a class='post-link' href="{{ site.baseurl }}/a-maneuvering-model-for-an-underwater-vehicle-near-a-free-surface-part-iii-simulation-and-control-under-waves">A Maneuvering Model for an Underwater Vehicle Near a Free Surface—Part III: Simulation and Control Under Waves</a></h3></li>
 <li><span class='post-meta'>2022 -- Jean-Michel Fahmi, Craig A. Woolsey</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-flight-control-of-a-fixed-wing-aircraft">Port-Hamiltonian Flight Control of a Fixed-Wing Aircraft</a></h3></li>
