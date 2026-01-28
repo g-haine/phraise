@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2307 authors referenced.</h3>
+<h3>There are 2313 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -214,6 +214,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/adam-bloch'>Adam Błoch</a>
 <a href='{{ site.baseurl }}/authors/xu-bo'>Xu Bo</a>
 <a href='{{ site.baseurl }}/authors/yang-bo'>Yang Bo</a>
+<a href='{{ site.baseurl }}/authors/thiago-boaventura'>Thiago Boaventura</a>
 <a href='{{ site.baseurl }}/authors/sara-yulieth-bocanegra'>Sara Yulieth Bocanegra</a>
 <a href='{{ site.baseurl }}/authors/michael-bohm'>Michael Böhm</a>
 <a href='{{ site.baseurl }}/authors/eivind-bohn'>Eivind Bøhn</a>
@@ -1219,6 +1220,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/robert-mahony'>Robert Mahony</a>
 <a href='{{ site.baseurl }}/authors/m-mahzoon'>M. Mahzoon</a>
 <a href='{{ site.baseurl }}/authors/t-phong-mai'>T. Phong Mai</a>
+<a href='{{ site.baseurl }}/authors/lucca-maitan'>Lucca Maitan</a>
 <a href='{{ site.baseurl }}/authors/d-h-s-maithripala'>D. H. S. Maithripala</a>
 <a href='{{ site.baseurl }}/authors/kanjuro-makihara'>Kanjuro Makihara</a>
 <a href='{{ site.baseurl }}/authors/mohit-makka'>Mohit Makka</a>
@@ -1673,6 +1675,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/nguyen-thanh-sang'>Nguyen Thanh Sang</a>
 <a href='{{ site.baseurl }}/authors/fernando-sanhueza'>Fernando Sanhueza</a>
 <a href='{{ site.baseurl }}/authors/hideki-sano'>Hideki Sano</a>
+<a href='{{ site.baseurl }}/authors/leonardo-s-santos'>Leonardo F. Dos Santos</a>
 <a href='{{ site.baseurl }}/authors/valerie-dos-santos'>Valérie Dos Santos</a>
 <a href='{{ site.baseurl }}/authors/arijit-sarkar'>Arijit Sarkar</a>
 <a href='{{ site.baseurl }}/authors/ioannis-sarras'>Ioannis Sarras</a>
@@ -1975,6 +1978,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/javad-mohammadpour-velni'>Javad Mohammadpour Velni</a>
 <a href='{{ site.baseurl }}/authors/aneesh-venkatraman'>Aneesh Venkatraman</a>
 <a href='{{ site.baseurl }}/authors/olivier-verdier'>Olivier Verdier</a>
+<a href='{{ site.baseurl }}/authors/elisa-g-vergamini'>Elisa G. Vergamini</a>
 <a href='{{ site.baseurl }}/authors/michel-verhaegen'>Michel Verhaegen</a>
 <a href='{{ site.baseurl }}/authors/gabriel-verrier'>Gabriel Verrier</a>
 <a href='{{ site.baseurl }}/authors/enrique-j-vidal'>Enrique J. Vidal</a>
@@ -2261,6 +2265,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/matias-zanartu'>Matías Zañartu</a>
 <a href='{{ site.baseurl }}/authors/roberto-zanasi'>Roberto Zanasi</a>
 <a href='{{ site.baseurl }}/authors/riccardo-zanella'>Riccardo Zanella</a>
+<a href='{{ site.baseurl }}/authors/cicero-zanette'>Cícero Zanette</a>
 <a href='{{ site.baseurl }}/authors/hechao-zang'>Hechao Zang</a>
 <a href='{{ site.baseurl }}/authors/yuanqiang-zang'>Yuanqiang Zang</a>
 <a href='{{ site.baseurl }}/authors/marie-line-zanota'>Marie-Line Zanota</a>
@@ -2283,6 +2288,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/da-wei-zhang'>Da-Wei Zhang</a>
 <a href='{{ site.baseurl }}/authors/fengli-zhang'>Fengli Zhang</a>
 <a href='{{ site.baseurl }}/authors/guangyuan-zhang'>Guangyuan Zhang</a>
+<a href='{{ site.baseurl }}/authors/guoqing-zhang'>Guoqing Zhang</a>
 <a href='{{ site.baseurl }}/authors/haitao-zhang'>Haitao Zhang</a>
 <a href='{{ site.baseurl }}/authors/haiying-zhang'>Haiying Zhang</a>
 <a href='{{ site.baseurl }}/authors/huanchen-zhang'>Huanchen Zhang</a>
