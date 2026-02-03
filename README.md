@@ -25,7 +25,7 @@ Then, run the following workflow from the `docs` directory:
 1. `./looking4Update.sh` – update metadata (volume, issue, etc.) and fetch the latest CrossRef entries.
 2. `./getData.sh newDOI.txt`
 3. `./setAuthorMapping.sh` – correct `biblio.json` entries as needed.
-4. Add new name variations or entries to `assets/data/author_mappings.json`.
+4. Add new name variations or entries to `assets/data/author_mappings.json` – retry `./setAuthorMapping.sh` to check
 5. `./concatenate.sh`
 6. `./setPosts.sh`
 7. `./setPages.sh`

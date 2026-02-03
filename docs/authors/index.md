@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2313 authors referenced.</h3>
+<h3>There are 2319 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -700,6 +700,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/yan-nan-guo'>Yan-Nan Guo</a>
 <a href='{{ site.baseurl }}/authors/yuqian-guo'>Yuqian Guo</a>
 <a href='{{ site.baseurl }}/authors/sriram-karthik-gurumurthy'>Sriram Karthik Gurumurthy</a>
+<a href='{{ site.baseurl }}/authors/paulina-gutierrez-leon'>Paulina Gutiérrez-León</a>
 </div>
 ## H
 <div class='grid'>
@@ -1524,6 +1525,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/cristobal-ponce'>Cristobal Ponce</a>
 <a href='{{ site.baseurl }}/authors/witthawas-pongyart'>Witthawas Pongyart</a>
 <a href='{{ site.baseurl }}/authors/dumitru-popescu'>Dumitru Popescu</a>
+<a href='{{ site.baseurl }}/authors/r-de-j-portillo-velez'>R. de J. Portillo-Vélez</a>
 <a href='{{ site.baseurl }}/authors/ate-postma'>Ate Postma</a>
 <a href='{{ site.baseurl }}/authors/jerome-pousin'>Jérôme Pousin</a>
 <a href='{{ site.baseurl }}/authors/charles-poussot-vassal'>Charles Poussot-Vassal</a>
@@ -1615,6 +1617,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/miguel-e-rodriguez'>Miguel E. Rodriguez</a>
 <a href='{{ site.baseurl }}/authors/pedro-rodriguez'>Pedro Rodriguez</a>
 <a href='{{ site.baseurl }}/authors/h-rodriguez-cortes'>H. Rodríguez-Cortés</a>
+<a href='{{ site.baseurl }}/authors/hugo-rodriguez-cortes'>Hugo Rodríguez-Cortés</a>
 <a href='{{ site.baseurl }}/authors/suppachai-roengriang'>Suppachai Roengriang</a>
 <a href='{{ site.baseurl }}/authors/alejandro-jose-rojas'>Alejandro Jose Rojas</a>
 <a href='{{ site.baseurl }}/authors/christian-a-rojas'>Christian A. Rojas</a>
@@ -1973,6 +1976,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/mario-vargas'>Mario Vargas</a>
 <a href='{{ site.baseurl }}/authors/hector-vargas-rodriguez'>Héctor Vargas-Rodríguez</a>
 <a href='{{ site.baseurl }}/authors/xavier-vasseur'>Xavier Vasseur</a>
+<a href='{{ site.baseurl }}/authors/j-a-vazquez'>J.A. Vazquez-Santacruz</a>
 <a href='{{ site.baseurl }}/authors/jaap-j-w-van-der-vegt'>Jaap J. W. van der Vegt</a>
 <a href='{{ site.baseurl }}/authors/matias-veillon'>Matias Veillon</a>
 <a href='{{ site.baseurl }}/authors/javad-mohammadpour-velni'>Javad Mohammadpour Velni</a>
@@ -2072,6 +2076,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/zhongxian-wang'>Zhongxian Wang</a>
 <a href='{{ site.baseurl }}/authors/zhu-wang'>Zhu Wang</a>
 <a href='{{ site.baseurl }}/authors/zi-ming-wang'>Zi-Ming Wang</a>
+<a href='{{ site.baseurl }}/authors/zixuan-wang'>Zi-Xuan Wang</a>
 <a href='{{ site.baseurl }}/authors/zichen-wang'>Zichen Wang</a>
 <a href='{{ site.baseurl }}/authors/zihan-wang'>Zihan Wang</a>
 <a href='{{ site.baseurl }}/authors/gerhard-wanner'>Gerhard Wanner</a>
@@ -2289,7 +2294,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/fengli-zhang'>Fengli Zhang</a>
 <a href='{{ site.baseurl }}/authors/guangyuan-zhang'>Guangyuan Zhang</a>
 <a href='{{ site.baseurl }}/authors/guoqing-zhang'>Guoqing Zhang</a>
-<a href='{{ site.baseurl }}/authors/haitao-zhang'>Haitao Zhang</a>
+<a href='{{ site.baseurl }}/authors/haitao-zhang'>Hai-Tao Zhang</a>
 <a href='{{ site.baseurl }}/authors/haiying-zhang'>Haiying Zhang</a>
 <a href='{{ site.baseurl }}/authors/huanchen-zhang'>Huanchen Zhang</a>
 <a href='{{ site.baseurl }}/authors/jiawei-zhang'>Jiawei Zhang</a>
@@ -2391,6 +2396,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/b-zitte'>B. Zitte</a>
 <a href='{{ site.baseurl }}/authors/daniele-zonetti'>Daniele Zonetti</a>
 <a href='{{ site.baseurl }}/authors/guangdeng-zong'>Guangdeng Zong</a>
+<a href='{{ site.baseurl }}/authors/xiaofeng-zong'>Xiaofeng Zong</a>
 <a href='{{ site.baseurl }}/authors/xiju-zong'>Xiju Zong</a>
 <a href='{{ site.baseurl }}/authors/wei-zou'>Wei Zou</a>
 <a href='{{ site.baseurl }}/authors/yichao-zou'>Yichao Zou</a>
