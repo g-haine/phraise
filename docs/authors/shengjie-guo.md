@@ -7,6 +7,7 @@ permalink: /authors/shengjie-guo
 <p id='info-authors'>Alternative author names: Shengjie Guo.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Junjie Gong, Shengjie Guo, Jian Chen, Dengsheng Cai, Liang He, Wei Wei, Yu Long</span><h3><a class='post-link' href="{{ site.baseurl }}/adaptive-neural-network-passivity-based-control-with-state-observer-for-partially-unknown-nonlinear-systems">Adaptive neural network passivity-based control with state observer for partially unknown nonlinear systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Junjie Gong, Shengjie Guo, Haotian Shen, Wei Wei, Yu Long</span><h3><a class='post-link' href="{{ site.baseurl }}/path-tracking-cascade-control-of-hydraulic-tracked-vehicles-based-on-port-controlled-hamiltonian-model">Path-Tracking Cascade Control of Hydraulic- Tracked Vehicles Based on Port-Controlled Hamiltonian Model</a></h3></li>
 
 </ul>

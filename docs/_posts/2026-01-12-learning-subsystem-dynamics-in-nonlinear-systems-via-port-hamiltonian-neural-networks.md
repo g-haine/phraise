@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[G.J.E. Van Otterdijk](authors/g-j-e-van-otterdijk), [S. Moradi](authors/s-moradi), [S. Weiland](authors/s-weiland), [R. Tóth](authors/r-toth), [N.O. Jaensson](authors/nick-o-jaensson), [M. Schoukens](authors/maarten-schoukens)
+[G.J.E. Van Otterdijk](authors/g-j-e-van-otterdijk), [S. Moradi](authors/sarvin-moradi), [S. Weiland](authors/s-weiland), [R. Tóth](authors/roland-toth), [N.O. Jaensson](authors/nick-o-jaensson), [M. Schoukens](authors/maarten-schoukens)
  
 ## Abstract
 Port-Hamiltonian neural networks (pHNNs) are emerging as a powerful modeling tool that integrates physical laws with deep learning techniques. While most research has focused on modeling the entire dynamics of interconnected systems, the potential for identifying and modeling individual subsystems while operating as part of a larger system has been overlooked. This study addresses this gap by introducing a novel method for using pHNNs to identify such subsystems based solely on input-output measurements. By utilizing the inherent compositional property of the port-Hamiltonian systems, we developed an algorithm that learns the dynamics of individual subsystems, without requiring direct access to their internal states. On top of that, by choosing an output error (OE) model structure, we have been able to handle measurement noise effectively. The efficiency of the proposed approach is demonstrated through tests on interconnected systems, including multi-physics scenarios, highlighting its potential for identifying subsystem dynamics and facilitating their integration into new interconnected models.

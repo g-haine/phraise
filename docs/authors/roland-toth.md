@@ -1,12 +1,13 @@
 ---
-title: Publications by R. Tóth
-permalink: /authors/r-toth
+title: Publications by Roland Tóth
+permalink: /authors/roland-toth
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: R. Tóth.</p>
+<p id='info-authors'>Alternative author names: Roland Tóth, R. Tóth.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Sarvin Moradi, Gerben I. Beintema, Nick O. Jaensson, Roland Tóth, Maarten Schoukens</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-neural-networks-with-output-error-noise-models">Port-Hamiltonian neural networks with output error noise models</a></h3></li>
 <li><span class='post-meta'>2025 -- G.J.E. Van Otterdijk, S. Moradi, S. Weiland, R. Tóth, N.O. Jaensson, M. Schoukens</span><h3><a class='post-link' href="{{ site.baseurl }}/learning-subsystem-dynamics-in-nonlinear-systems-via-port-hamiltonian-neural-networks">Learning Subsystem Dynamics in Nonlinear Systems via Port-Hamiltonian Neural Networks</a></h3></li>
 
 </ul>

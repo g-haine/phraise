@@ -7,6 +7,7 @@ permalink: /authors/thomas-beckers
 <p id='info-authors'>Alternative author names: Thomas Beckers.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Thomas Beckers, Leonardo Colombo</span><h3><a class='post-link' href="{{ site.baseurl }}/physics-informed-learning-for-passivity-based-tracking-control">Physics-informed Learning for Passivity-based Tracking Control</a></h3></li>
 <li><span class='post-meta'>2025 -- Kaiyuan Tan, Peilun Li, Jun Wang, Thomas Beckers</span><h3><a class='post-link' href="{{ site.baseurl }}/plug-and-play-physics-informed-learning-using-uncertainty-quantified-port-hamiltonian-models">Plug-and-Play Physics-Informed Learning Using Uncertainty Quantified Port-Hamiltonian Models</a></h3></li>
 <li><span class='post-meta'>2024 -- Peilun Li, Kaiyuan Tan, Thomas Beckers</span><h3><a class='post-link' href="{{ site.baseurl }}/pygpphs-a-python-package-for-bayesian-modeling-of-port-hamiltonian-systems">PyGpPHs: A Python Package for Bayesian Modeling of Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Thomas Beckers</span><h3><a class='post-link' href="{{ site.baseurl }}/data-driven-bayesian-control-of-port-hamiltonian-systems">Data-Driven Bayesian Control of Port-Hamiltonian Systems</a></h3></li>

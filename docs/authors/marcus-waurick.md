@@ -7,6 +7,7 @@ permalink: /authors/marcus-waurick
 <p id='info-authors'>Alternative author names: Marcus Waurick.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Sahiba Arora, Felix L. Schwenninger, Ingrid Vukusic, Marcus Waurick</span><h3><a class='post-link' href="{{ site.baseurl }}/a-universal-example-for-quantitative-semi-uniform-stability">A universal example for quantitative semi‐uniform stability</a></h3></li>
 <li><span class='post-meta'>2025 -- Sascha Trostorff, Marcus Waurick</span><h3><a class='post-link' href="{{ site.baseurl }}/characterisation-for-exponential-stability-of-port-hamiltonian-systems">Characterisation for exponential stability of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Marcus Waurick, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/asymptotic-stability-of-port-hamiltonian-systems">Asymptotic Stability of Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Rainer H. Picard, Sascha Trostorff, Bruce Watson, Marcus Waurick</span><h3><a class='post-link' href="{{ site.baseurl }}/a-structural-observation-on-port-hamiltonian-systems">A Structural Observation on Port-Hamiltonian Systems</a></h3></li>

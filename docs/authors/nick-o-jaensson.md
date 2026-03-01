@@ -7,6 +7,7 @@ permalink: /authors/nick-o-jaensson
 <p id='info-authors'>Alternative author names: N.O. Jaensson, Nick O. Jaensson, Nick Jaensson, Nick O. Jaensson, N. O. Jaensson.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Sarvin Moradi, Gerben I. Beintema, Nick O. Jaensson, Roland Tóth, Maarten Schoukens</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-neural-networks-with-output-error-noise-models">Port-Hamiltonian neural networks with output error noise models</a></h3></li>
 <li><span class='post-meta'>2025 -- G.J.E. Van Otterdijk, S. Moradi, S. Weiland, R. Tóth, N.O. Jaensson, M. Schoukens</span><h3><a class='post-link' href="{{ site.baseurl }}/learning-subsystem-dynamics-in-nonlinear-systems-via-port-hamiltonian-neural-networks">Learning Subsystem Dynamics in Nonlinear Systems via Port-Hamiltonian Neural Networks</a></h3></li>
 
 </ul>

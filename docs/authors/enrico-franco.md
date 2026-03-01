@@ -7,6 +7,7 @@ permalink: /authors/enrico-franco
 <p id='info-authors'>Alternative author names: Enrico Franco, E. Franco.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Enrico Franco</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-underactuated-systems-with-non-integrable-state-dependent-matched-disturbances">Passivity-based control of underactuated systems with non-integrable state-dependent matched disturbances</a></h3></li>
 <li><span class='post-meta'>2025 -- Enrico Franco, Mutaz Ryalat</span><h3><a class='post-link' href="{{ site.baseurl }}/position-feedback-integral-ida-pbc-for-constant-matched-and-unmatched-disturbances">Position‐Feedback Integral IDA‐PBC for Constant Matched and Unmatched Disturbances</a></h3></li>
 <li><span class='post-meta'>2024 -- Enrico Franco, Mutaz Ryalat</span><h3><a class='post-link' href="{{ site.baseurl }}/ida-pbc-with-dynamic-extension-for-momenta-observation-of-underactuated-mechanical-systems">IDA-PBC with Dynamic Extension for Momenta Observation of Underactuated Mechanical Systems</a></h3></li>
 <li><span class='post-meta'>2023 -- Enrico Franco</span><h3><a class='post-link' href="{{ site.baseurl }}/integral-passivity-based-control-of-underactuated-mechanical-systems-with-actuator-dynamics-and-constant-disturbances">Integral passivity‐based control of underactuated mechanical systems with actuator dynamics and constant disturbances</a></h3></li>
