@@ -26,7 +26,7 @@ In this paper, discrete‐time adaptive control of linearly parameterized fully 
 {% highlight bibtex %}
 {% raw %}
 @article{Alkrunz_2020,
-  title={{Adaptive interconnection and damping assignment passivity‐based control for linearly parameterized <scp>discrete‐time</scp> port controlled Hamiltonian systems via I&amp;I approach}},
+  title={{Adaptive interconnection and damping assignment passivity‐based control for linearly parameterized <scp>discrete‐time</scp> port controlled Hamiltonian systems via I\&I approach}},
   volume={35},
   ISSN={1099-1115},
   DOI={10.1002/acs.3187},

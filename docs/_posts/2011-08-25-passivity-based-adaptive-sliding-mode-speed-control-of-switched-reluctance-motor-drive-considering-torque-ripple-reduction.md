@@ -28,7 +28,7 @@ This paper presents a high-performance nonlinear controller for Switched relucta
 @inproceedings{Namazi_Isfahani_2011,
   title={{Passivity-based adaptive sliding Mode speed control of switched reluctance motor drive considering torque ripple reduction}},
   DOI={10.1109/iemdc.2011.5994827},
-  booktitle={{2011 IEEE International Electric Machines &amp; Drives Conference (IEMDC)}},
+  booktitle={{2011 IEEE International Electric Machines \& Drives Conference (IEMDC)}},
   publisher={IEEE},
   author={Namazi Isfahani, M.M. and Saghaian-Nejad, S.M. and Rashidi, A. and Abootorabi Zarchi, H.},
   year={2011},

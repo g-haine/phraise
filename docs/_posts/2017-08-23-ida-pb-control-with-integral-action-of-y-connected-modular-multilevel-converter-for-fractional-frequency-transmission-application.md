@@ -31,7 +31,7 @@ Y‐connected modular multilevel converter (Y‐MMC) is a new topology of direct
   ISSN={1751-8695},
   DOI={10.1049/iet-gtd.2017.0573},
   number={14},
-  journal={IET Generation, Transmission &amp; Distribution},
+  journal={IET Generation, Transmission \& Distribution},
   publisher={Institution of Engineering and Technology (IET)},
   author={Meng, Yongqing and Shang, Shuonan and Zhang, Haitao and Cui, Yong and Wang, Xifan},
   year={2017},

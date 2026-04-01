@@ -31,7 +31,7 @@ This study proposes a constructive stabilisation and <jats:inline-graphic xmlns:
   ISSN={1751-8652},
   DOI={10.1049/iet-cta.2017.0392},
   number={2},
-  journal={IET Control Theory &amp; Applications},
+  journal={IET Control Theory \& Applications},
   publisher={Institution of Engineering and Technology (IET)},
   author={Liu, Yan‐Hong and Cao, Gui‐Zhou and Tang, Shu‐Xia and Cai, Xiu‐Shan and Peng, Jin‐Zhu},
   year={2018},

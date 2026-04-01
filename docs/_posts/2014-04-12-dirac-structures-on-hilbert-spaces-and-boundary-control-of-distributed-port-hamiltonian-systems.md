@@ -39,7 +39,7 @@ Distributed port-Hamiltonian systems; Passivity-based boundary control; Dirac st
   volume={68},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2014.03.005},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Macchelli, Alessandro},
   year={2014},

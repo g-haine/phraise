@@ -31,7 +31,7 @@ This article studies output synchronisation of a set of non‐linear interconnec
   ISSN={1751-8652},
   DOI={10.1049/iet-cta.2012.0661},
   number={2},
-  journal={IET Control Theory &amp; Applications},
+  journal={IET Control Theory \& Applications},
   publisher={Institution of Engineering and Technology (IET)},
   author={Lee, Seung‐Ju and Oh, Kwang‐Kyo and Ahn, Hyo‐Sung},
   year={2013},

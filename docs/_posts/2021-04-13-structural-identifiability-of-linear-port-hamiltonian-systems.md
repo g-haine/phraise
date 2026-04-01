@@ -40,7 +40,7 @@ Port Hamiltonian systems; LTI systems; Structural identifiability; Port-observab
   volume={151},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2021.104915},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Medianu, Silviu and Lefèvre, Laurent},
   year={2021},

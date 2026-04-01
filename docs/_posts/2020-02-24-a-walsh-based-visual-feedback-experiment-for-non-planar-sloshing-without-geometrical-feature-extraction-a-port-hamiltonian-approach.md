@@ -31,7 +31,7 @@ No  available
   ISSN={2424-2993},
   DOI={10.1299/jsmedmc.2019.612},
   number={0},
-  journal={The Proceedings of the Dynamics &amp; Design Conference},
+  journal={The Proceedings of the Dynamics \& Design Conference},
   publisher={Japan Society of Mechanical Engineers},
   author={USHIRO, Yuki and SAKAI, Satoru},
   year={2019},

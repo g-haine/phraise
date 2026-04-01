@@ -31,7 +31,7 @@ In this study, the authors propose structure‐preserving balanced truncation me
   ISSN={1751-8652},
   DOI={10.1049/iet-cta.2019.0566},
   number={3},
-  journal={IET Control Theory &amp; Applications},
+  journal={IET Control Theory \& Applications},
   publisher={Institution of Engineering and Technology (IET)},
   author={Xu, Kangli and Jiang, Yaolin},
   year={2020},

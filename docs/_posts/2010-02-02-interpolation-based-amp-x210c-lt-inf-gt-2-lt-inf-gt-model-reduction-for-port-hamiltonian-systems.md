@@ -26,7 +26,7 @@ Port network modeling of physical systems leads directly to an important class o
 {% highlight bibtex %}
 {% raw %}
 @inproceedings{Gugercin_2009,
-  title={{Interpolation-based &amp;#x210C;&lt;inf&gt;2&lt;/inf&gt; model reduction for port-Hamiltonian systems}},
+  title={{Interpolation-based \&#x210C;&lt;inf&gt;2&lt;/inf&gt; model reduction for port-Hamiltonian systems}},
   DOI={10.1109/cdc.2009.5400626},
   booktitle={{Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference}},
   publisher={IEEE},

@@ -28,7 +28,7 @@ In the present paper, an alternative causal graph-based fault detection scheme i
 @inproceedings{Garai_2020,
   title={{Hamiltonian Bond Graph formalism for generating energetic redundant relations}},
   DOI={10.1109/ssd49366.2020.9364213},
-  booktitle={{2020 17th International Multi-Conference on Systems, Signals &amp; Devices (SSD)}},
+  booktitle={{2020 17th International Multi-Conference on Systems, Signals \& Devices (SSD)}},
   publisher={IEEE},
   author={Garai, Dhaou and El Harabi, Rafika and Bacha, Faouzi},
   year={2020},

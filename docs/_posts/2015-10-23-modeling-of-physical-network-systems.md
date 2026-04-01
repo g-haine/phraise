@@ -40,7 +40,7 @@ Physical network; Laplacian matrix; Matrix Tree theorem; Port-Hamiltonian system
   volume={101},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2015.08.013},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={van der Schaft, Arjan},
   year={2017},

@@ -39,7 +39,7 @@ Bayesian optimization; Transfer learning; Gaussian process; Port-Hamiltonian sys
   volume={203},
   ISSN={0098-1354},
   DOI={10.1016/j.compchemeng.2025.109331},
-  journal={Computers &amp; Chemical Engineering},
+  journal={Computers \& Chemical Engineering},
   publisher={Elsevier BV},
   author={Mahboubi, Negareh and Xie, Junyao and Huang, Biao},
   year={2025},

@@ -31,7 +31,7 @@ The dynamics of many physical systems can be suitably described as the form of p
   ISSN={1751-8652},
   DOI={10.1049/iet-cta.2011.0063},
   number={2},
-  journal={IET Control Theory &amp; Applications},
+  journal={IET Control Theory \& Applications},
   publisher={Institution of Engineering and Technology (IET)},
   author={Shi, F. and Wang, J.},
   year={2012},

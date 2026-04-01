@@ -35,7 +35,7 @@ adaptive neural network, nonlinear systems, passivity-based control, port-contro
   volume={207},
   ISSN={0960-0779},
   DOI={10.1016/j.chaos.2026.117989},
-  journal={Chaos, Solitons &amp; Fractals},
+  journal={Chaos, Solitons \& Fractals},
   publisher={Elsevier BV},
   author={Gong, Junjie and Guo, Shengjie and Chen, Jian and Cai, Dengsheng and He, Liang and Wei, Wei and Long, Yu},
   year={2026},

@@ -36,7 +36,7 @@ mechanical systems, nonlinear control systems, passive compensation, physical mo
   ISSN={0167-6911},
   DOI={10.1016/s0167-6911(01)00150-5},
   number={4},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Fujimoto, Kenji and Sugie, Toshiharu},
   year={2001},

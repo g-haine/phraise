@@ -35,7 +35,7 @@ conservative chaos, global structure, hamiltonian, nosé–hoover oscillator, on
   volume={154},
   ISSN={0960-0779},
   DOI={10.1016/j.chaos.2021.111687},
-  journal={Chaos, Solitons &amp; Fractals},
+  journal={Chaos, Solitons \& Fractals},
   publisher={Elsevier BV},
   author={Cang, Shijian and Zhao, Gehang and Wang, Zenghui and Chen, Zengqiang},
   year={2022},

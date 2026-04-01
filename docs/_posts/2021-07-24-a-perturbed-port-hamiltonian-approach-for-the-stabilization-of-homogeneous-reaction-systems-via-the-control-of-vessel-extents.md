@@ -39,7 +39,7 @@ Chemical reaction; Vessel extents; Disturbance compensation; Port-Hamiltonian fo
   volume={154},
   ISSN={0098-1354},
   DOI={10.1016/j.compchemeng.2021.107458},
-  journal={Computers &amp; Chemical Engineering},
+  journal={Computers \& Chemical Engineering},
   publisher={Elsevier BV},
   author={Nguyen, T. Sang and Tan, C.K. and Hoang, N. Ha and Hussain, M.A. and Bonvin, D.},
   year={2021},

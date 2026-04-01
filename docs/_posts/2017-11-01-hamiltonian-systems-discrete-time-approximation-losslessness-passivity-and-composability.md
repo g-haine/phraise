@@ -39,7 +39,7 @@ Hamiltonian difference scheme; Energetic integrator; Passive integrator; Dirac s
   volume={110},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2017.10.003},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Aoues, Said and Di Loreto, Michael and Eberard, Damien and Marquis-Favre, Wilfrid},
   year={2017},

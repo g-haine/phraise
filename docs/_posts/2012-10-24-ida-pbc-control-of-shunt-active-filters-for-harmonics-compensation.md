@@ -28,7 +28,7 @@ The design of a passivity-based non-linear controller for a shunt active filter 
 @inproceedings{Serra_2012,
   title={{IDA - PBC control of shunt active filters for harmonics compensation}},
   DOI={10.1109/tdc-la.2012.6319064},
-  booktitle={{2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&amp;D-LA)}},
+  booktitle={{2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T\&D-LA)}},
   publisher={IEEE},
   author={Serra, F. M. and De Angelo, C. H. and Forchetti, D. G.},
   year={2012},

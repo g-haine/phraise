@@ -40,7 +40,7 @@ Port-Hamiltonian descriptor system; Proportional state feedback; Regularity; Ind
   volume={202},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2025.106116},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Chu, Delin and Mehrmann, Volker},
   year={2025},

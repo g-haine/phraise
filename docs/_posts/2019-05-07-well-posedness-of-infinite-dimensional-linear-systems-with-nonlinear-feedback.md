@@ -41,7 +41,7 @@ Well-posedness; Passive infinite-dimensional systems; Nonlinear feedback; Bounda
   volume={128},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2019.04.002},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Hastir, Anthony and Califano, Federico and Zwart, Hans},
   year={2019},

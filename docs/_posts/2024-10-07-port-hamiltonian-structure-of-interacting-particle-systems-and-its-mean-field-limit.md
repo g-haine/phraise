@@ -31,7 +31,7 @@ We derive a minimal port-Hamiltonian formulation of a general class of interacti
   ISSN={1540-3467},
   DOI={10.1137/23m1547731},
   number={4},
-  journal={Multiscale Modeling &amp; Simulation},
+  journal={Multiscale Modeling \& Simulation},
   publisher={Society for Industrial & Applied Mathematics (SIAM)},
   author={Jacob, Birgit and Totzeck, Claudia},
   year={2024},

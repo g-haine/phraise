@@ -31,7 +31,7 @@ No abstract available
   ISSN={1674-7275},
   DOI={10.1360/sspma-2024-0305},
   number={2},
-  journal={SCIENTIA SINICA Physica, Mechanica &amp; Astronomica},
+  journal={SCIENTIA SINICA Physica, Mechanica \& Astronomica},
   publisher={Science China Press., Co. Ltd.},
   author={JingXuan, CHAI and Jie, MEI and YouMin, GONG and XuFa, GUO and GuangFu, MA and WeiRen, WU},
   year={2024},

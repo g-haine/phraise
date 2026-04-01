@@ -28,7 +28,7 @@ No  available
 @inproceedings{Li_2025,
   title={{Research on Human Upper Limb Tremor Suppression Method Based on Port-Controlled Hamiltonian System and Sliding Mode Control}},
   DOI={10.1109/icaisisas64483.2025.11051604},
-  booktitle={{2025 Joint International Conference on Automation-Intelligence-Safety (ICAIS) &amp;amp; International Symposium on Autonomous Systems (ISAS)}},
+  booktitle={{2025 Joint International Conference on Automation-Intelligence-Safety (ICAIS) \& International Symposium on Autonomous Systems (ISAS)}},
   publisher={IEEE},
   author={Li, Jingjing and Chen, Zhen and Li, Jian and Yan, Hongyu and Feng, Minshan and Zhan, Jiawen},
   year={2025},

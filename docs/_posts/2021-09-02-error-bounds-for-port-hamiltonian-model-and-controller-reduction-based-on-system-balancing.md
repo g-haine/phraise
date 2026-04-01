@@ -39,7 +39,7 @@ Port-Hamiltonian systems; Model order reduction; LQG control design; Error bound
   volume={116},
   ISSN={0898-1221},
   DOI={10.1016/j.camwa.2021.07.022},
-  journal={Computers &amp; Mathematics with Applications},
+  journal={Computers \& Mathematics with Applications},
   publisher={Elsevier BV},
   author={Breiten, Tobias and Morandin, Riccardo and Schulze, Philipp},
   year={2022},

@@ -40,7 +40,7 @@ Monotone operator; Port-Hamiltonian system; Optimal control; Passivity; Primalâ€
   volume={197},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2025.106030},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Gernandt, Hannes and Schaller, Manuel},
   year={2025},

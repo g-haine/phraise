@@ -41,7 +41,7 @@ Hamiltonian systems; Discrete-time systems; Hamiltonian conservation; Stabilizat
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2005.09.012},
   number={8},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Laila, Dina Shona and Astolfi, Alessandro},
   year={2006},

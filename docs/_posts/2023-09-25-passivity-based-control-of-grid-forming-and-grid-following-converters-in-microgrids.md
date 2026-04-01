@@ -28,7 +28,7 @@ With the integration of more and more power electronics devices into the grid, i
 @inproceedings{Gui_2023,
   title={{Passivity-Based Control of Grid Forming and Grid Following Converters in Microgrids}},
   DOI={10.1109/pesgm52003.2023.10252343},
-  booktitle={{2023 IEEE Power &amp; Energy Society General Meeting (PESGM)}},
+  booktitle={{2023 IEEE Power \& Energy Society General Meeting (PESGM)}},
   publisher={IEEE},
   author={Gui, Yonghao and Xue, Yaosuo},
   year={2023},

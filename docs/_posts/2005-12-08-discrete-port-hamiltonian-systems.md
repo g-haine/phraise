@@ -37,7 +37,7 @@ Discrete mechanics; Port Hamiltonian systems
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2005.10.001},
   number={6},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Talasila, V. and Clemente-Gallardo, J. and van der Schaft, A.J.},
   year={2006},

@@ -39,7 +39,7 @@ Nonlinear control; Input–output contact systems; Contact geometry; Irreversibl
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2013.02.008},
   number={6},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Ramirez, Hector and Maschke, Bernhard and Sbarbaro, Daniel},
   year={2013},

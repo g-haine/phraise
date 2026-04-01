@@ -7,6 +7,7 @@ permalink: /authors/yann-le-gorrec
 <p id='info-authors'>Alternative author names: Yann Le Gorrec, Y. Le Gorrec, Le Gorrec Yann, Yann Le Gorec, Y. Legorrec.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Amal Hammoud, Ning Liu, Yann Le Gorrec, Yoan Civet, Yves Perriard</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-of-a-dielectric-elastomer-cardiac-assist-device">Energy-based control of a dielectric elastomer cardiac assist device</a></h3></li>
 <li><span class='post-meta'>2026 -- Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-framework-for-the-modeling-and-fem-discretization-of-hyperelastic-systems">A port-Hamiltonian framework for the modeling and FEM discretization of hyperelastic systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/constrained-port-hamiltonian-modeling-and-structure-preserving-discretization-of-the-rayleigh-beam">Constrained port-Hamiltonian modeling and structure-preserving discretization of the Rayleigh beam</a></h3></li>
 <li><span class='post-meta'>2025 -- Ignacio Diaz, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/control-oriented-modular-modelling-of-a-floating-wind-turbine-the-port-hamiltonian-approach">Control Oriented Modular Modelling of a Floating Wind Turbine: The Port-Hamiltonian Approach</a></h3></li>

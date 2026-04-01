@@ -38,7 +38,7 @@ Passivity-based control; Stabilization; Nonlinear systems
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2008.09.006},
   number={2},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Astolfi, Alessandro and Ortega, Romeo},
   year={2009},

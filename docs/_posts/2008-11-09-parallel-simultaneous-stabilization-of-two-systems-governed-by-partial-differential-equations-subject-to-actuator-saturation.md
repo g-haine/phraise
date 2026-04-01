@@ -36,7 +36,7 @@ actuator saturation, conservation law, parallel simultaneous stabilization, part
   ISSN={0362-546X},
   DOI={10.1016/j.na.2008.10.111},
   number={3–4},
-  journal={Nonlinear Analysis: Theory, Methods &amp; Applications},
+  journal={Nonlinear Analysis: Theory, Methods \& Applications},
   publisher={Elsevier BV},
   author={Zong, Xiju and Han, Zhenlai},
   year={2009},

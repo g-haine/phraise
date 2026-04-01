@@ -39,7 +39,7 @@ Passivity-based control; Port–Hamiltonian systems; Energy-balance; Interconnec
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2009.03.007},
   number={8},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Castaños, Fernando and Ortega, Romeo},
   year={2009},

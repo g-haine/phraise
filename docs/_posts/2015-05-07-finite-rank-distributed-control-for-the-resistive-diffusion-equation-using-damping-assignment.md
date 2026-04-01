@@ -31,7 +31,7 @@ A first extension of the IDA-PBC control synthesis to infinite dimensional port 
   ISSN={2163-2480},
   DOI={10.3934/eect.2015.4.205},
   number={2},
-  journal={Evolution Equations &amp; Control Theory},
+  journal={Evolution Equations \& Control Theory},
   publisher={American Institute of Mathematical Sciences (AIMS)},
   author={Minh Trang Vu, Ngoc and Lefèvre, Laurent},
   year={2015},

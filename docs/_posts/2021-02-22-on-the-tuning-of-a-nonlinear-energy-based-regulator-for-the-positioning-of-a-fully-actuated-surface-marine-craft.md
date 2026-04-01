@@ -31,7 +31,7 @@ The authors address the problem of tuning a non‐linear energy‐based regulato
   ISSN={1751-8652},
   DOI={10.1049/cth2.12087},
   number={6},
-  journal={IET Control Theory &amp; Applications},
+  journal={IET Control Theory \& Applications},
   publisher={Institution of Engineering and Technology (IET)},
   author={Kazantzidou, Christina and Perez, Tristan and Valentinis, Francis and Donaire, Alejandro},
   year={2021},

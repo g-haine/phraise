@@ -41,7 +41,7 @@ PI controllers; Flow constraints; Directed graphs; Port-Hamiltonian systems; Con
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2013.08.001},
   number={11},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Wei, J. and van der Schaft, A.J.},
   year={2013},

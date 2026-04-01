@@ -38,7 +38,7 @@ Constrained Port-Hamiltonian systems; Control by Interconnection; Model Predicti
   volume={167},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2022.105336},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Pham, T.H. and Vu, N.M.T. and Prodan, I. and Lefèvre, L.},
   year={2022},

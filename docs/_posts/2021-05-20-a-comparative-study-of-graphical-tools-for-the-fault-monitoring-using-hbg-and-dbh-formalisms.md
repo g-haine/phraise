@@ -28,7 +28,7 @@ In the present paper, an alternative causal graph based fault detection scheme i
 @inproceedings{Garai_2021,
   title={{A Comparative study of Graphical tools for the Fault Monitoring using HBG and DBH Formalisms}},
   DOI={10.1109/ssd52085.2021.9429309},
-  booktitle={{2021 18th International Multi-Conference on Systems, Signals &amp; Devices (SSD)}},
+  booktitle={{2021 18th International Multi-Conference on Systems, Signals \& Devices (SSD)}},
   publisher={IEEE},
   author={Garai, Dhaou and El Harabi, Rafika and Bacha, Faouzi},
   year={2021},

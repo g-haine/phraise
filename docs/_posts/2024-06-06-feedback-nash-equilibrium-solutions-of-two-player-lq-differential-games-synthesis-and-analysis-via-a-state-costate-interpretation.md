@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[M. L. Scarpa](authors/m-l-scarpa), [B. Nortmann](authors/b-nortmann), [M. Sassano](authors/mario-sassano), [T. Mylvaganam](authors/thulasi-mylvaganam)
+[M. L. Scarpa](authors/maria-luisa-scarpa), [B. Nortmann](authors/b-nortmann), [M. Sassano](authors/mario-sassano), [T. Mylvaganam](authors/thulasi-mylvaganam)
  
 ## Abstract
 Linear quadratic differential games and their feedback Nash equilibrium (F-NE) solutions are considered. First, it is shown that F-NE strategies can be derived from the restriction to an invariant subspace of a system that is reminiscent of the state/costate dynamics arising in the context of open-loop NE solutions. Second, in terms of synthesis, it is shown that the equilibrium subspace can be rendered externally stable via virtual inputs without modifying the underlying F-NE strategies. Building upon these findings, we propose a gradient descent algorithm to determine a solution of the coupled Algebraic Riccati Equations associated with F-NE, which are generally challenging to solve. Finally, in terms of analysis, we show that the F-NE strategy of each player can be interpreted as the output of a passive Port-Controlled Hamiltonian system, and that the behaviour of the original system under the action of the F-NE strategies can be interpreted as an interconnection of these.

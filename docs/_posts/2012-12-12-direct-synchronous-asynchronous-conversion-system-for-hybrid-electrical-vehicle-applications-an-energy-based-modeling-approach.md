@@ -35,7 +35,7 @@ ac machines, hybrid electric vehicle, modeling
   volume={47},
   ISSN={0142-0615},
   DOI={10.1016/j.ijepes.2012.11.012},
-  journal={International Journal of Electrical Power &amp; Energy Systems},
+  journal={International Journal of Electrical Power \& Energy Systems},
   publisher={Elsevier BV},
   author={Muñoz-Aguilar, Raúl S. and Dòria-Cerezo, Arnau and Puleston, Paul F.},
   year={2013},

@@ -38,7 +38,7 @@ Quadratic port-Hamiltonian systems; Tracking control; Proportional–Integral co
   volume={167},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2022.105325},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Hoang, N.H. and Nguyen, T.S. and Le, T.K.P. and Phan, T.T.H. and Hussain, M.A. and Dochain, D.},
   year={2022},

@@ -7,6 +7,7 @@ permalink: /authors/luis-pablo-borja
 <p id='info-authors'>Alternative author names: Luis Pablo Borja, Pablo Borja, P. Borja.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Michele Cucuzzella, Pablo Borja, Edoardo Vacchini, Antonella Ferrara, Jacquelien Scherpen, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/combining-sliding-mode-and-passivity-based-control-for-manifold-design-and-robustness-enhancement">Combining Sliding Mode and Passivity-Based Control for Manifold Design and Robustness Enhancement</a></h3></li>
 <li><span class='post-meta'>2025 -- Najmeh Javanmardi, Pablo Borja, Mohammad Javad Yazdanpanah, Jacquelien M.A. Scherpen</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-approaches-for-weakly-coupled-electromechanical-systems">Energy-based control approaches for weakly coupled electromechanical systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Mattia Mattioni, Pablo Borja</span><h3><a class='post-link' href="{{ site.baseurl }}/digital-passivity-based-control-of-underactuated-mechanical-systems">Digital passivity-based control of underactuated mechanical systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Edoardo Vacchini, Michele Cucuzzella, Pablo Borja, Antonella Ferrara</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-voltage-regulation-for-dc-microgrids-via-passivity-based-sliding-mode-control">Robust Voltage Regulation for DC Microgrids via Passivity-Based Sliding Mode Control</a></h3></li>

@@ -40,7 +40,7 @@ Hamiltonian dynamics; Holonomic constraints; Implicit models; Passivity; Pendulu
   volume={94},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2016.04.004},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Castaños, Fernando and Gromov, Dmitry},
   year={2016},

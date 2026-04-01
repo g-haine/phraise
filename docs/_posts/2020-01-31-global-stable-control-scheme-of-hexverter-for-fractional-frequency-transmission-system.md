@@ -28,7 +28,7 @@ This paper propose a novel control scheme of Hexverter in Fractional frequency t
 @inproceedings{Meng_2019,
   title={{Global Stable Control Scheme of Hexverter for Fractional Frequency Transmission System}},
   DOI={10.1109/pesgm40551.2019.8974114},
-  booktitle={{2019 IEEE Power &amp; Energy Society General Meeting (PESGM)}},
+  booktitle={{2019 IEEE Power \& Energy Society General Meeting (PESGM)}},
   publisher={IEEE},
   author={Meng, Yongqing and Zou, Yichao and Wang, Xifan and Li, Huixuan},
   year={2019},

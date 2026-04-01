@@ -39,7 +39,7 @@ Port-Hamiltonian systems; Dirac structures; Discrete-time systems; Geometric num
   volume={133},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2019.104530},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Kotyczka, Paul and Lefèvre, Laurent},
   year={2019},

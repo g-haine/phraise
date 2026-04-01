@@ -37,7 +37,7 @@ DC microgrid; Port-Hamiltonian systems on graphs; Model Predictive Control
   volume={118},
   ISSN={0142-0615},
   DOI={10.1016/j.ijepes.2019.105753},
-  journal={International Journal of Electrical Power &amp; Energy Systems},
+  journal={International Journal of Electrical Power \& Energy Systems},
   publisher={Elsevier BV},
   author={Pham, Thanh Hung and Prodan, Ionela and Genon-Catalot, Denis and Lefèvre, Laurent},
   year={2020},

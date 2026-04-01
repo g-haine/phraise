@@ -44,7 +44,7 @@ Energy; Entropy; Exergy; Port-Hamiltonian systems; Optimal control; Turnpike pro
   volume={194},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2024.105942},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Philipp, Friedrich M. and Schaller, Manuel and Worthmann, Karl and Faulwasser, Timm and Maschke, Bernhard},
   year={2024},

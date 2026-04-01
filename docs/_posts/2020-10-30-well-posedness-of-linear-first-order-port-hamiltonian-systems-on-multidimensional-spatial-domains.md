@@ -31,7 +31,7 @@ We consider a port-Hamiltonian system on an open spatial domain \\( \Omega \subs
   ISSN={2163-2480},
   DOI={10.3934/eect.2020098},
   number={4},
-  journal={Evolution Equations &amp; Control Theory},
+  journal={Evolution Equations \& Control Theory},
   publisher={American Institute of Mathematical Sciences (AIMS)},
   author={Skrepek, Nathanael},
   year={2021},

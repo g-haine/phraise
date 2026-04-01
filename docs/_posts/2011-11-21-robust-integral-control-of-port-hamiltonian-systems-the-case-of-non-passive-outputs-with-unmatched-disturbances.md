@@ -38,7 +38,7 @@ Nonlinear control; Port-Hamiltonian systems; Integral control
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2011.09.015},
   number={1},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Ortega, Romeo and Romero, Jose Guadalupe},
   year={2012},

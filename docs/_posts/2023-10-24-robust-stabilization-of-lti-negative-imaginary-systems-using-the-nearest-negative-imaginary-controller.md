@@ -31,7 +31,7 @@ This paper considers the problem of robust stabilization of linear time‐invari
   ISSN={1751-8652},
   DOI={10.1049/cth2.12578},
   number={4},
-  journal={IET Control Theory &amp; Applications},
+  journal={IET Control Theory \& Applications},
   publisher={Institution of Engineering and Technology (IET)},
   author={Mabrok, Mohamed and Abdelrahim, Mahmoud},
   year={2023},

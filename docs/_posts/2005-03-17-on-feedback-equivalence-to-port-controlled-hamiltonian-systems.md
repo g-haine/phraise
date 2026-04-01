@@ -39,7 +39,7 @@ Hamiltonian systems; Linear-gradient systems; Passivity-based control; Feedback 
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2005.02.005},
   number={9},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Cheng, Daizhan and Astolfi, Alessandro and Ortega, Romeo},
   year={2005},

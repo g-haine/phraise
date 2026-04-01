@@ -37,7 +37,7 @@ Infinite-dimensional systems theory; Partial differential equation; Impedance pa
   volume={91},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2016.02.002},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Zwart, H. and Le Gorrec, Y. and Maschke, B.},
   year={2016},

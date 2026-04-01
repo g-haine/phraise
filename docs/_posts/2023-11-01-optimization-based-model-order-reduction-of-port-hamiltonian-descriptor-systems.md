@@ -38,7 +38,7 @@ Port-Hamiltonian systems; Model order reduction; Structure-preservation; Descrip
   volume={182},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2023.105655},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Schwerdtner, Paul and Moser, Tim and Mehrmann, Volker and Voigt, Matthias},
   year={2023},

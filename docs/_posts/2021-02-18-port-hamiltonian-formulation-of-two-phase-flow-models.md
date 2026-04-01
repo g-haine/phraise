@@ -40,7 +40,7 @@ Two-Fluid Model; Drift Flux Model; Non-quadratic Hamiltonian; Skew-adjoint; Stok
   volume={149},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2021.104881},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Bansal, H. and Schulze, P. and Abbasi, M.H. and Zwart, H. and Iapichino, L. and Schilders, W.H.A. and Wouw, N. van de},
   year={2021},

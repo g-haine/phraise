@@ -39,7 +39,7 @@ Shallow water equations; Port-Hamiltonian; Stokes–Dirac structure; Numerical d
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2012.05.003},
   number={9},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Pasumarthy, R. and Ambati, V.R. and van der Schaft, A.J.},
   year={2012},

@@ -31,7 +31,7 @@ The poor damping of bidirectional dc (bi‐dc) converter caused by constant powe
   ISSN={1751-8695},
   DOI={10.1049/gtd2.12169},
   number={17},
-  journal={IET Generation, Transmission &amp; Distribution},
+  journal={IET Generation, Transmission \& Distribution},
   publisher={Institution of Engineering and Technology (IET)},
   author={Lin, Gang and Liu, Jiayan and Rehtanz, Christian and Li, Yong and Zuo, Wei and Wang, Pengcheng},
   year={2021},

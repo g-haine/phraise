@@ -39,7 +39,7 @@ Port-Hamiltonian system; Algebraic constraint; Dirac structure; Lagrangian subsp
   volume={121},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2018.09.008},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={van der Schaft, Arjan and Maschke, Bernhard},
   year={2018},

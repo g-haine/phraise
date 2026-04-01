@@ -26,7 +26,7 @@ In this paper, we presented a discrete-time adaptive Passivity Based Control (PB
 {% highlight bibtex %}
 {% raw %}
 @inproceedings{Alkrunz_2019,
-  title={{Discrete-Time I&amp;I Adaptive Control for a Class of Uncertain Port-Controlled Hamiltonian Systems}},
+  title={{Discrete-Time I\&I Adaptive Control for a Class of Uncertain Port-Controlled Hamiltonian Systems}},
   DOI={10.1109/iceee2019.2019.00047},
   booktitle={{2019 6th International Conference on Electrical and Electronics Engineering (ICEEE)}},
   publisher={IEEE},

@@ -38,7 +38,7 @@ Port-Hamiltonian systems; Nonlinear systems; Passivity; Incremental models
   volume={170},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2022.105402},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Perryman, Richard and Taylor, Joshua A. and Karney, Bryan},
   year={2022},

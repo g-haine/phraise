@@ -31,7 +31,7 @@ In this paper we show how to spatially discretize a distributed model of a piezo
   ISSN={1540-3467},
   DOI={10.1137/100789038},
   number={1},
-  journal={Multiscale Modeling &amp; Simulation},
+  journal={Multiscale Modeling \& Simulation},
   publisher={Society for Industrial & Applied Mathematics (SIAM)},
   author={Voss, T. and Scherpen, J. M. A.},
   year={2011},

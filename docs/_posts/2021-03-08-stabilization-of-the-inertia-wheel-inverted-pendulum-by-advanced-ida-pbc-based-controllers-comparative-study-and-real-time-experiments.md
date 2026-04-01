@@ -28,7 +28,7 @@ Interconnection and Damping Assignment Passivity Based Control (IDA-PBC) is a po
 @inproceedings{Hfaiedh_2020,
   title={{Stabilization of the Inertia Wheel Inverted Pendulum by Advanced IDA-PBC Based Controllers: Comparative Study and Real-Time Experiments}},
   DOI={10.1109/ssd49366.2020.9364159},
-  booktitle={{2020 17th International Multi-Conference on Systems, Signals &amp; Devices (SSD)}},
+  booktitle={{2020 17th International Multi-Conference on Systems, Signals \& Devices (SSD)}},
   publisher={IEEE},
   author={Hfaiedh, Afef and Chemori, Ahmed and Abdelkrim, Afef},
   year={2020},

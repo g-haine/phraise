@@ -40,7 +40,7 @@ Cyber–physical systems; Model-based design; Port-Hamiltonian systems; Passivit
   ISSN={1619-1374},
   DOI={10.1007/s10270-017-0646-1},
   number={3},
-  journal={Software &amp; Systems Modeling},
+  journal={Software \& Systems Modeling},
   publisher={Springer Science and Business Media LLC},
   author={Dai, Siyuan and Zhang, Zhenkai and Koutsoukos, Xenofon},
   year={2017},

@@ -36,7 +36,7 @@ dynamic compensation, hybrid control, hybrid systems, impulsive dynamical system
   ISSN={0362-546X},
   DOI={10.1016/j.na.2005.10.052},
   number={10},
-  journal={Nonlinear Analysis: Theory, Methods &amp; Applications},
+  journal={Nonlinear Analysis: Theory, Methods \& Applications},
   publisher={Elsevier BV},
   author={Haddad, Wassim M. and Hui, Qing},
   year={2008},

@@ -40,7 +40,7 @@ Port-Hamiltonian systems; Structure preserving model reduction; Dirac structure;
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2011.12.008},
   number={3},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Polyuga, Rostyslav V. and van der Schaft, Arjan J.},
   year={2012},

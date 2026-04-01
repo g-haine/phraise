@@ -44,7 +44,7 @@ Hybrid dynamical systems; Modeling; Hybrid automata; Dynamic network graph; Inci
   ISSN={0362-546X},
   DOI={10.1016/j.na.2005.12.013},
   number={6},
-  journal={Nonlinear Analysis: Theory, Methods &amp; Applications},
+  journal={Nonlinear Analysis: Theory, Methods \& Applications},
   publisher={Elsevier BV},
   author={Valentin, C. and Magos, M. and Maschke, B.},
   year={2006},

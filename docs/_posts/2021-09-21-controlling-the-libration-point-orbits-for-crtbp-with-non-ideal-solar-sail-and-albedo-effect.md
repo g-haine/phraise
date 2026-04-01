@@ -39,7 +39,7 @@ Port-Hamiltonian method; Non-ideal solar sail; Energy shaping; Dissipation injec
   volume={152},
   ISSN={0960-0779},
   DOI={10.1016/j.chaos.2021.111387},
-  journal={Chaos, Solitons &amp; Fractals},
+  journal={Chaos, Solitons \& Fractals},
   publisher={Elsevier BV},
   author={Yadav, Arun Kumar and Kushvah, Badam Singh and Dolas, Uday},
   year={2021},

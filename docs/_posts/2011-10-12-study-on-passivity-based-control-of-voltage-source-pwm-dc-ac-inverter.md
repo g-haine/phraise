@@ -28,7 +28,7 @@ The mathematical model of Three-phase Voltage Pulse Width Modulation (PWM) DC/AC
 @inproceedings{Mu_2011,
   title={{Study on passivity-based control of voltage source PWM DC/AC inverter}},
   DOI={10.1109/emeit.2011.6023889},
-  booktitle={{Proceedings of 2011 International Conference on Electronic &amp; Mechanical Engineering and Information Technology}},
+  booktitle={{Proceedings of 2011 International Conference on Electronic \& Mechanical Engineering and Information Technology}},
   publisher={IEEE},
   author={Mu, Kun and Ma, Xiaoyu and Mu, Xiaobin and Zhu, Dalei},
   year={2011},

@@ -39,7 +39,7 @@ Reactive flow; Port-Hamiltonian formulation; Navier–Stokes equations; Hamilton
   volume={100},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2016.12.005},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Altmann, R. and Schulze, P.},
   year={2017},

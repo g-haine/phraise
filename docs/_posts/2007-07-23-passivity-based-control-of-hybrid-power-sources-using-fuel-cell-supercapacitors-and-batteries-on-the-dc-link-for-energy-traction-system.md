@@ -28,7 +28,7 @@ The classic proper energy element in electric vehicle consists of batteries and 
 @inproceedings{Ayad_2007,
   title={{Passivity-Based Control of Hybrid Power Sources using Fuel Cell, Supercapacitors, and Batteries on the DC link for Energy Traction System}},
   DOI={10.1109/iemdc.2007.382710},
-  booktitle={{2007 IEEE International Electric Machines &amp; Drives Conference}},
+  booktitle={{2007 IEEE International Electric Machines \& Drives Conference}},
   publisher={IEEE},
   author={Ayad, M.Y. and Becherif, M. and Paire, D. and Djerdir, A. and Miraoui, A.},
   year={2007},

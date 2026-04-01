@@ -36,7 +36,7 @@ coordinated control, doubly fed induction generator (dfig), passivity-based cont
   ISSN={2093-7423},
   DOI={10.1007/s42835-020-00485-8},
   number={5},
-  journal={Journal of Electrical Engineering &amp; Technology},
+  journal={Journal of Electrical Engineering \& Technology},
   publisher={Springer Science and Business Media LLC},
   author={Cheng, Qiming and Ma, Xinqiao and Cheng, Yinman},
   year={2020},

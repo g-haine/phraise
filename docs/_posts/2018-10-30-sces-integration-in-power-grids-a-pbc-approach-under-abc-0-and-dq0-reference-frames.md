@@ -28,7 +28,7 @@ This paper presents an integration of three-phase supercapacitor energy storage 
 @inproceedings{Montoya_2018,
   title={{SCES Integration in Power Grids: a PBC Approach under abc, αβ0 and dq0 Reference Frames}},
   DOI={10.1109/tdc-la.2018.8511707},
-  booktitle={{2018 IEEE PES Transmission &amp; Distribution Conference and Exhibition - Latin America (T&amp;D-LA)}},
+  booktitle={{2018 IEEE PES Transmission \& Distribution Conference and Exhibition - Latin America (T\&D-LA)}},
   publisher={IEEE},
   author={Montoya, Oscar Danilo and Gil-Gonzalez, W. and Garces, Alejandro},
   year={2018},

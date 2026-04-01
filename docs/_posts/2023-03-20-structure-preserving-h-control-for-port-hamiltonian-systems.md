@@ -30,7 +30,7 @@ We study H ∞ control design for linear time-invariant port-Hamiltonian systems
   volume={174},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2023.105493},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Breiten, Tobias and Karsai, Attila},
   year={2023},

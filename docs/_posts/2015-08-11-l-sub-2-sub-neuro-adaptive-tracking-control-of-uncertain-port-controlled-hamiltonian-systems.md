@@ -33,7 +33,7 @@ This study presents a practical method of neural network (NN) adaptive tracking 
   ISSN={1751-8652},
   DOI={10.1049/iet-cta.2014.1144},
   number={12},
-  journal={IET Control Theory &amp; Applications},
+  journal={IET Control Theory \& Applications},
   publisher={Institution of Engineering and Technology (IET)},
   author={Qureshi, Aminuddin and El Ferik, Sami and Lewis, Frank L.},
   year={2015},

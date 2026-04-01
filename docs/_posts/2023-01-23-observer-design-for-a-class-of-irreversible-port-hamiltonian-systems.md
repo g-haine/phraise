@@ -31,7 +31,7 @@ In this paper we address the state estimation problem of a particular class of i
   ISSN={2146-0957},
   DOI={10.11121/ijocta.2023.1072},
   number={1},
-  journal={An International Journal of Optimization and Control: Theories &amp; Applications (IJOCTA)},
+  journal={An International Journal of Optimization and Control: Theories \& Applications (IJOCTA)},
   publisher={AccScience Publishing},
   author={Zenfari, Saida and Laabissi, Mohamed and Achhab, Mohammed Elarbi},
   year={2023},

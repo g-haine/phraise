@@ -39,7 +39,7 @@ Passivity; Shifted passivity; Incremental passivity; Port-Hamiltonian systems; S
   volume={123},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2018.10.010},
-  journal={Systems &amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Monshizadeh, Nima and Monshizadeh, Pooya and Ortega, Romeo and van der Schaft, Arjan},
   year={2019},
