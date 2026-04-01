@@ -114,7 +114,7 @@ print_bib () {
         | sed -e '/pages/s/–/--/g' \
         | sed -e '/month/d' \
         | sed -e '/url/d' \
-        | tac | sed -e '2 s/,//g' | tac)"; then
+        | tac | sed -e '2 s/,//g' | sed -e 's/&amp;/\\&/g' | tac)"; then
     echo "$noBibtex" > "$file"
     return 0
   fi
