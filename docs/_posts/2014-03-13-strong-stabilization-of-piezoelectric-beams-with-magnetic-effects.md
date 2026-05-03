@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[K. Morris](authors/kirsten-morris), [A. Ozkan Ozer](authors/a-ozkan-ozer)
+[K. Morris](authors/kirsten-a-morris), [A. Ozkan Ozer](authors/a-ozkan-ozer)
  
 ## Abstract
 It is widely accepted in the literature that magnetic effects in the piezoelectric beams is relatively small, and does not change the overall dynamics. Therefore, most models for piezoelectric beams completely ignore the magnetic energy. These models are known to be exponentially stabilizable by a mechanical feedback controller in the energy space. In this paper, we use a variational approach to derive the differential equations and boundary conditions that model a single piezoelectric beam with magnetic effects. Next, we show that the resulting control system can be formulated as a port-Hamiltonian system and is hence well-posed. Finally, by using only an electrical feedback controller (the current flowing through the electrodes), we show that the closed-loop system is strongly stable in the energy space for a dense set of system parameters. The difference between this result and that for models that neglect magnetic effects is discussed.

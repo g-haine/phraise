@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[O. D. Montoya](authors/oscar-danilo-montoya), [W. Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [F. M. Serra](authors/federico-m-serra)
+[O. D. Montoya](authors/oscar-danilo-montoya), [W. Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [F. M. Serra](authors/federico-martin-serra)
  
 ## Abstract
 This express brief presents a nonlinear active and reactive power control for a superconducting magnetic energy storage (SMES) system connected in three-phase distribution networks using pulse-width modulated current-source converter (PWM-CSC). The passivity-based control (PBC) theory is selected as a nonlinear control technique, since the open-loop dynamical model exhibits a port-Hamiltonian (pH) structure. The PBC theory exploits the pH structure of the open-loop dynamical system to design a general control law, which preserves the passive structure in closed-loop via interconnection and damping reassignment. Additionally, the PBC theory guarantees globally asymptotically stability in the sense of Lyapunov for the closed-loop dynamical system. Simulation results in a three-phase radial distribution network show the possibility to control the active and reactive power independently as well as the possibility to use the SMES system connected through a PWM-CSC as a dynamic power factor compensator for time-varying loads. All simulations are conducted in a MATLAB/ODE package.

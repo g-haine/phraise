@@ -8,7 +8,7 @@ category: chapters
 ---
  
 ## Authors
-[Rostylav V. Polyuga](authors/rostyslav-v-polyuga), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
+[Rostylav V. Polyuga](authors/rostyslav-v-polyuga), [Arjan J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 This paper discusses model reduction of electrical circuits based on a port-Hamiltonian representation. It is shown that by the use of the Kalman decomposition an uncontrollable and/or unobservable port-Hamiltonian system is reduced to a controllable/observable system that inherits the port-Hamiltonian structure. Energy and co-energy variable representations for port-Hamiltonian systems are defined and the reduction procedures are used for both representations. These exact reduction procedures motivate two approximate reduction procedures that are structure preserving for general port-Hamiltonian systems, one reduction procedure is called the effort-constraint reduction methods. The other procedure is structure preserving under a given condition. A numerical example illustrating the model reduction of a ladder network as a port-Hamiltonian system is considered.

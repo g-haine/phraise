@@ -82,7 +82,7 @@ Port-Hamiltonian systems; Irreversible thermodynamics; Infinite dimensional syst
 - [Macchelli, A., Le Gorrec, Y., Ramirez, H. & Zwart, H. On the Synthesis of Boundary Control Laws for Distributed Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 62 1700–1713 (2017)](on-the-synthesis-of-boundary-control-laws-for-distributed-port-hamiltonian-systems) -- [10.1109/tac.2016.2595263](https://doi.org/10.1109/tac.2016.2595263)
 - Marsden, (1992)
 - Maschke, B. & van der Schaft, A. 4 Compositional Modelling of Distributed-Parameter Systems. Lecture Notes in Control and Information Sciences 115–154 (2005) doi:10.1007/11334774_4 -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
-- Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
+- [Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012)](on-a-variational-principle-in-thermodynamics) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
 - Mrugala, R., Nulton, J. D., Christian Schön, J. & Salamon, P. Contact structure in thermodynamic theory. Reports on Mathematical Physics vol. 29 109–121 (1991) -- [10.1016/0034-4877(91)90017-h](https://doi.org/10.1016/0034-4877(91)90017-h)
 - Muschik, W., Gümbel, S., Kröger, M. & Öttinger, H. C. A simple example for comparing GENERIC with rational non-equilibrium thermodynamics. Physica A: Statistical Mechanics and its Applications vol. 285 448–466 (2000) -- [10.1016/s0378-4371(00)00252-1](https://doi.org/10.1016/s0378-4371(00)00252-1)
 - Nijmeijer, (1990)

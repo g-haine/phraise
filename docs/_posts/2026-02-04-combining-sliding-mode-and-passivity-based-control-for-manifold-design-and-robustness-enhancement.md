@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Michele Cucuzzella](authors/michele-cucuzzella), [Pablo Borja](authors/luis-pablo-borja), [Edoardo Vacchini](authors/edoardo-vacchini), [Antonella Ferrara](authors/antonella-ferrara), [Jacquelien Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Michele Cucuzzella](authors/michele-cucuzzella), [Pablo Borja](authors/luis-pablo-borja), [Edoardo Vacchini](authors/edoardo-vacchini), [Antonella Ferrara](authors/antonella-ferrara), [Jacquelien Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Not available

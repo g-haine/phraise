@@ -1,10 +1,10 @@
 ---
-title: Publications by Anı́bal Ollero
+title: Publications by Anibal Ollero
 permalink: /authors/anibal-ollero
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Anı́bal Ollero, Aníbal Ollero Baturone, Anibal Ollero, Anibal Ollero Baturone, A. Ollero, Aníbal Ollero, Anı́bal Ollero.</p>
+<p id='info-authors'>Alternative author names: Anibal Ollero, A. Ollero.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Saeed Rafee Nekoo, Begoña C. Arrue, Anibal Ollero</span><h3><a class='post-link' href="{{ site.baseurl }}/finite-time-port-controlled-hamiltonian-design-for-second-order-dynamical-systems">Finite-time port-controlled Hamiltonian design for second-order dynamical systems</a></h3></li>

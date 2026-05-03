@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Stephen Prajna](authors/stephen-prajna), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Gjerrit Meinsma](authors/gjerrit-meinsma)
+[Stephen Prajna](authors/stephen-prajna), [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Gjerrit Meinsma](authors/gjerrit-meinsma)
  
 ## Abstract
 In this paper, it is shown that controllers for stabilizing linear port-controlled Hamiltonian (PCH) systems via interconnection and damping assignment can be obtained by solving a set of linear matrix inequalities (LMIs). Two sets of (almost) equivalent LMIs are proposed. In the first set, the interconnection and damping matrices do not appear explicitly, which makes it more difficult to directly manipulate those matrices. By requiring the system to have no uncontrollable pole at s=0, the second set of LMIs, explicitly containing the interconnection and damping matrices, can be obtained. Taking into account the physical properties of the system, some prespecified structures can be imposed directly on those matrices.

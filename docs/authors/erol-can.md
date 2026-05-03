@@ -7,7 +7,8 @@ permalink: /authors/erol-can
 <p id='info-authors'>Alternative author names: Erol Can.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2025 -- Erol Can</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-aware-adaptive-altitude-control-of-uavs-via-fuzzy-pso-optimization-within-a-port-hamiltonian-framework-under-icing-and-sensor-noise">Energy-Aware Adaptive Altitude Control of UAVs via Fuzzy–PSO Optimization Within a Port-Hamiltonian Framework Under Icing and Sensor Noise</a></h3></li>
+<li><span class='post-meta'>2025 -- Erol Can</span><h3><a class='post-link' href="{{ site.baseurl }}/learning-augmented-ida-pbc-for-underactuated-mechanical-systems-with-unmeasured-actuator-dynamics-and-unmatched-disturbances">Learning-Augmented IDA–PBC for Underactuated Mechanical Systems with Unmeasured Actuator Dynamics and Unmatched Disturbances</a></h3></li>
+<li><span class='post-meta'>2026 -- Erol Can</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-aware-adaptive-altitude-control-of-uavs-via-fuzzy-pso-optimization-within-a-port-hamiltonian-framework-under-icing-and-sensor-noise">Energy-Aware Adaptive Altitude Control of UAVs via Fuzzy–PSO Optimization Within a Port-Hamiltonian Framework Under Icing and Sensor Noise</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

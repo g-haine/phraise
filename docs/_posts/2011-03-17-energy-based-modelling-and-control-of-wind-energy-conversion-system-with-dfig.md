@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[H.H. Song](authors/huihui-song), [Y.B. Qu](authors/yanbin-qu)
+[H.H. Song](authors/huihui-song), [Y.B. Qu](authors/y-b-qu)
  
 ## Abstract
 Focusing on wind energy conversion system (WECS) at the doubly-fed induction generator (DFIG) control level, a novel control approach was proposed to optimise wind energy capture from consideration of physical nature and energy relationship. According to energy flowing, the WECS was divided into several multi-ports energy conversion subsystems, and the structure matrices of the subsystems were elaborately designed. Based on this, port-controlled Hamiltonian models of the subsystems were obtained, and energy-based control using the models was provided to realise the machine side and the grid side control objectives of the WECS. The approach was applied on a 2 MW WECS, and compared with classical proportional-integral (PI) controller using MATLAB/Simulink. The results show that the energy-based control not only fully satisfies both side control requirements, but also has more robust control performances for a turbulent wind than the PI control.

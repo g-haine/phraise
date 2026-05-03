@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Carmen Chan-Zheng](authors/carmen-chan-zheng), [Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Carmen Chan-Zheng](authors/carmen-chan-zheng), [Mauricio Munoz-Arias](authors/raul-s-munoz-aguilar), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 No abstract available

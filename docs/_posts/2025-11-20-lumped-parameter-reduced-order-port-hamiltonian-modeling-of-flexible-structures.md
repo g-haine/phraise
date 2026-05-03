@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Arijit Sarkar](authors/arijit-sarkar), [Daniel Dirksz](authors/daniel-alonzo-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Arijit Sarkar](authors/arijit-sarkar), [Daniel Dirksz](authors/daniel-a-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this paper, we develop a scalable lumped-parameter model of a flexible structure. We opt for the port-Hamiltonian framework for the representation due to its innate capability of structure-preservation for power-preserving interconnections. We utilize a canonical transformation to reduce the computational burden associated with symbolic computations. Based on the physical discretization, we then validate the applicability of models of different orders on an example of cantilever beam. We also propose a port-Hamiltonian structure-preserving generalized balanced truncation approach for further reduction of the order.

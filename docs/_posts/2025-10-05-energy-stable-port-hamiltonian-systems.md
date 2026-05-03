@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Patrick Buchfink](authors/patrick-buchfink), [Silke Glas](authors/silke-glas), [Hans Zwart](authors/hans-zwart)
+[Patrick Buchfink](authors/patrick-buchfink), [Silke Glas](authors/silke-glas), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 We combine energy-stable and port-Hamiltonian (pH) systems to obtain energy-stable port-Hamiltonian (es-pH) systems. The idea is to extend the known energy-stable systems with an input–output port, which results in a pH formulation. One advantage of the new es-pH formulation is that it naturally preserves its es-pH structure throughout discretization (in space and time) and model reduction.

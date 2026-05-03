@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Samuel Widman](authors/samuel-b-widman), [Ian Willebeek-LeMair](authors/ian-j-willebeek-lemair), [Craig A. Woolsey](authors/craig-a-woolsey)
+[Samuel Widman](authors/samuel-widman), [Ian Willebeek-LeMair](authors/ian-j-willebeek-lemair), [Craig A. Woolsey](authors/craig-a-woolsey)
  
 ## Abstract
 Not available

@@ -1,10 +1,10 @@
 ---
-title: Publications by Márcio Stefanello
+title: Publications by Marcio Stefanello
 permalink: /authors/marcio-stefanello
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Márcio Stefanello, Marcio Stefanello.</p>
+<p id='info-authors'>Alternative author names: Marcio Stefanello.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Qing-Chang Zhong, Marcio Stefanello</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-control-framework-to-render-a-power-electronic-system-passive">A Port-Hamiltonian Control Framework to Render a Power Electronic System Passive</a></h3></li>

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Angel R. Licona R.](authors/angel-ricardo-licona), [Fei Liu](authors/fei-liu), [Arnaud Lelevé](authors/arnaud-leleve), [Minh Tu Pham](authors/minh-tu-pham)
+[Angel R. Licona R.](authors/angel-r-licona-r), [Fei Liu](authors/fei-liu), [Arnaud Lelevé](authors/arnaud-leleve), [Minh Tu Pham](authors/minh-tu-pham)
  
 ## Abstract
 Medical trainees are required to acquire sufficient skills before touching a real patient. Nowadays, haptic simulators provide an effective solution but they do not facilitate an active supervision by a trainer who should show the right gestures in terms of motions and forces to apply, in the simulated environment. Dual user training systems aim at this purpose. Even though they permit a cooperative training, they generally dot not enable efficient demonstration/evaluation modes where the user who observes the person performing a manipulation is also able to feel the interaction forces, not only the motion. We earlier introduced the Energy Shared Control (ESC) architecture aiming at providing the latter function. It is modeled with the Port Hamiltonian framework and it embeds a Time Domain Passivity Controller, to compose a one degree-of-freedom (dof) dual-user haptic system for hands-on training. In this paper, we extend it to three dof with three identical haptic devices. Experiments bring information about its performance.

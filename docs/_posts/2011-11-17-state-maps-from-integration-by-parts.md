@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Paolo Rapisarda](authors/paolo-rapisarda)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Paolo Rapisarda](authors/paolo-rapisarda)
  
 ## Abstract
 We develop a new approach to the construction of state vectors for linear time-invariant systems described by higher-order differential equations. The basic observation is that the concatenation of two solutions of higher-order differential equations results in another (weak) solution once their remainder terms resulting from (repeated) integration by parts match. These remainder terms can be computed in a simple and efficient manner by making use of the calculus of bilinear differential forms and two-variable polynomial matrices. Factorization of the resulting two-variable polynomial matrix defines a state map, as well as a state map for the adjoint system. Minimality of these state maps is characterized. The theory is applied to three classes of systems with additional structure, namely self-adjoint Hamiltonian, conservative port-Hamiltonian, and time-reversible systems. For the first two classes it is shown how the factorization leading to a (minimal) state map is equivalent to the factorization of another two-variable polynomial matrix, which is immediately derived from the external system characterization, and defines a symplectic, respectively, symmetric, bilinear form on the minimal state space.

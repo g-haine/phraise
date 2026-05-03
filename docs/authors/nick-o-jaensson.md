@@ -1,10 +1,10 @@
 ---
-title: Publications by N.O. Jaensson
+title: Publications by Nick O. Jaensson
 permalink: /authors/nick-o-jaensson
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: N.O. Jaensson, Nick O. Jaensson, Nick Jaensson, Nick O. Jaensson, N. O. Jaensson.</p>
+<p id='info-authors'>Alternative author names: Nick O. Jaensson, N.O. Jaensson.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2026 -- Sarvin Moradi, Gerben I. Beintema, Nick O. Jaensson, Roland Tóth, Maarten Schoukens</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-neural-networks-with-output-error-noise-models">Port-Hamiltonian neural networks with output error noise models</a></h3></li>

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Li Wang](authors/li-wang), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Li Wang](authors/li-wang), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Motivated by recent progress on the port-Hamiltonian formulation of isothermal chemical reaction networks and of the continuous stirred tank reactor, the present paper aims to develop a port-Hamiltonian formulation of chemical reaction networks in the non-isothermal case, and to exploit this for equilibrium and stability analysis.

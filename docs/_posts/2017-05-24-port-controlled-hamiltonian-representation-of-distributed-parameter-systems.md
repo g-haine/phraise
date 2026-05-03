@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[B.M.J. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[B.M.J. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 A port controlled Hamiltonian formulation of the dynamics of distributed parameter systems is presented, which incorporates the energy flow through the boundary of the domain of the system, and which allows to represent the system as a boundary control Hamiltonian system. This port controlled Hamiltonian system is defined with respect to a Dirac structure associated with the exterior derivative and based on Stokes' theorem. The definition is illustrated on the examples of the telegrapher's equations, Maxwell's equations and the vibrating string.

@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 One of the key contributions of the 1972 seminal paper by Willems was the analysis of symmetry (also called reciprocity) of input-state-output systems, both from an external (input-output) and internal (state) point of view. The developed theory also included the combination of reciprocity with passivity, and the consideration of relaxation systems, which are passive reciprocal systems without any oscillatory behavior. The paper was motivated from a fundamental system-theoretic point of view (how is external structure reflected into internal structure), as well as by a wide range of application areas, including electrical network synthesis, thermodynamics, and viscoelastic materials. On the other hand, the obtained results are for linear systems, and the extension to the nonlinear case, even for subclasses of nonlinear systems, is far from trivial. The present paper aims at taking some steps into this direction.

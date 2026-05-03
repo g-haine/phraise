@@ -27,7 +27,7 @@ In order to improve the performance of the rectifier under unbalanced voltage co
 {% raw %}
 @article{Zhao_2014,
   title={{Research on the PCHD Control Strategy for Three-Phase Voltage Source PWM Rectifier under Unbalanced Supply Voltage Condition}},
-  volume={571–572},
+  volume={571-572},
   ISSN={1662-7482},
   DOI={10.4028/www.scientific.net/amm.571-572.959},
   journal={Applied Mechanics and Materials},

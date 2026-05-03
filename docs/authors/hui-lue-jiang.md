@@ -1,0 +1,14 @@
+---
+title: Publications by Hui lue Jiang
+permalink: /authors/hui-lue-jiang
+---
+
+<h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Hui lue Jiang, Huilue Jiang.</p>
+<hr />
+<ul class="post-list">
+<li><span class='post-meta'>2019 -- Chengxing Lv, Haisheng Yu, Jieru Chi, Tao Xu, Hechao Zang, Hui lue Jiang, Zhaowen Zhang</span><h3><a class='post-link' href="{{ site.baseurl }}/a-hybrid-coordination-controller-for-speed-and-heading-control-of-underactuated-unmanned-surface-vehicles-system">A hybrid coordination controller for speed and heading control of underactuated unmanned surface vehicles system</a></h3></li>
+<li><span class='post-meta'>2018 -- Qian Gao, Chengxing Lv, Na Zhao, Hechao Zang, Huilue Jiang, Zhaowen Zhang, Fengli Zhang</span><h3><a class='post-link' href="{{ site.baseurl }}/regenerative-braking-system-of-pm-synchronous-motor">Regenerative braking system of PM synchronous motor</a></h3></li>
+
+</ul>
+{% include count-posts.html %}

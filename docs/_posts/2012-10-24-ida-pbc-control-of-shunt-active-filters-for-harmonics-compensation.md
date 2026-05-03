@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[F. M. Serra](authors/federico-m-serra), [C. H. De Angelo](authors/cristian-h-de-angelo), [D. G. Forchetti](authors/daniel-g-forchetti)
+[F. M. Serra](authors/federico-martin-serra), [C. H. De Angelo](authors/cristian-h-de-angelo), [D. G. Forchetti](authors/daniel-g-forchetti)
  
 ## Abstract
 The design of a passivity-based non-linear controller for a shunt active filter to be used for the compensation of the harmonic components consumed by non linear loads is presented in this paper. The main objective of this control strategy is to inject the necessary compensation current into the system so that the grid current is sinusoidal and balanced, regardless of whether the grid voltage is unbalanced and/or distorted. The reference values for the compensation currents are obtained from applying the Instantaneous Active-Reactive Power Theory. The system is represented by its port-controlled Hamiltonian model and the controller designed on the basis of interconnection and damping assignment using a method based on Lyapunov techniques. The behavior of the proposed control strategy is validated through simulation using a realistic model.

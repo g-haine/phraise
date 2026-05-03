@@ -4,7 +4,7 @@ permalink: /authors/onno-bokhove
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Onno Bokhove, O. Bokhove.</p>
+<p id='info-authors'>Alternative author names: Onno Bokhove.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2008 -- Yan Xu, Jaap J. W. van der Vegt, Onno Bokhove</span><h3><a class='post-link' href="{{ site.baseurl }}/discontinuous-hamiltonian-finite-element-method-for-linear-hyperbolic-systems">Discontinuous Hamiltonian Finite Element Method for Linear Hyperbolic Systems</a></h3></li>

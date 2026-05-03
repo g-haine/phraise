@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[A. Macchelli](authors/alessandro-macchelli), [S. Stramigioli](authors/stefano-stramigioli), [A. van der Schaft](authors/arjan-van-der-schaft), [C. Melchiorri](authors/claudio-melchiorri)
+[A. Macchelli](authors/alessandro-macchelli), [S. Stramigioli](authors/stefano-stramigioli), [A. van der Schaft](authors/arjan-j-van-der-schaft), [C. Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 In this paper, an introduction to scattering for infinite dimensional systems within the framework of port Hamiltonian systems is presented. The classical results on wave propagation can be extended to generic power propagation phenomena, for example to fluid dynamics or flexible structures. The key-point is the generalization of the concept of impedance to other domains than the electromagnetic one.

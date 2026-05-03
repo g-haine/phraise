@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[S. Stramigioli](authors/stefano-stramigioli), [A. van der Schaft](authors/arjan-van-der-schaft), [B. Maschke](authors/bernhard-maschke), [S. Andreotti](authors/s-andreotti), [C. Melchiorri](authors/claudio-melchiorri)
+[S. Stramigioli](authors/stefano-stramigioli), [A. van der Schaft](authors/arjan-j-van-der-schaft), [B. Maschke](authors/bernhard-maschke), [S. Andreotti](authors/s-andreotti), [C. Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 We study the interconnection of two port controlled Hamiltonian systems through a transmission line with delay. The contributions of the paper are firstly a geometrical, multi-dimensional, power consistent exposition of tele-manipulation of intrinsically passive controlled (IPC) physical systems (Stramigioli 1998, Stramigioli et al. 1999), with a clarification on impedance matching, and secondly a system theoretic condition for the adaptation of a general port controlled Hamiltonian system with dissipation (PCHD system) to a transmission line. To the knowledge of the authors, the latter result in particular has never appeared in such a general form. Experimental results on an Internet implementation are also presented.

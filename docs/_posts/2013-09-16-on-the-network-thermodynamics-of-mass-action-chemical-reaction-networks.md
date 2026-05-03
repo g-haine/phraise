@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft), [S. Rao](authors/s-rao), [B. Jayawardhana](authors/bayu-jayawardhana)
+[A.J. van der Schaft](authors/arjan-j-van-der-schaft), [S. Rao](authors/s-rao), [B. Jayawardhana](authors/bayu-jayawardhana)
  
 ## Abstract
 In this paper we elaborate on the mathematical formulation of mass action chemical reaction networks as recently given in van der Schaft, Rao, Jayawardhana (2012). We show how the reference chemical potentials define a specific thermodynamical equilibrium, and we discuss the port-Hamiltonian representation of the formulation. This leads to the network interpretation as a number of energy-storing elements (corresponding to the chemical complexes), together with a nonlinear energy-dissipating relation corresponding to the reactions with associated conductances for the edges of the graph of complexes. The resulting system cannot be put into standard Brayton-Moser gradient system form, but it does allow a generalized gradient system representation with respect to the Gibbs' free energy.

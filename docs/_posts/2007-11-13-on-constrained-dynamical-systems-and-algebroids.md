@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Jesús Clemente-Gallardo](authors/jesus-clemente-gallardo), [Bernhard M. Maschke](authors/bernhard-maschke), [Arjan J. Schaft](authors/arjan-van-der-schaft)
+[Jesús Clemente-Gallardo](authors/jesus-clemente-gallardo), [Bernhard M. Maschke](authors/bernhard-maschke), [Arjan J. Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 In 1994, van der Schaft and Maschke defined a(n) (almost) Poisson structure for the study of constrained port controlled Hamiltonian systems as systems obtained by reduction. This note intends to provide a geometrical framework that justifies such construction, based on the use of Lie algebroids, and which extends the work presented in [ 3 ].

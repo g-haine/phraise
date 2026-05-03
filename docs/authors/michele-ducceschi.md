@@ -7,6 +7,7 @@ permalink: /authors/michele-ducceschi
 <p id='info-authors'>Alternative author names: Michele Ducceschi.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Thomas Hélie, Maarten Van Walstijn, Michele Ducceschi</span><h3><a class='post-link' href="{{ site.baseurl }}/editorial-sound-synthesis-through-physical-modeling">Editorial: Sound synthesis through physical modeling</a></h3></li>
 <li><span class='post-meta'>2021 -- Mohammed Danish, Stefan Bilbao, Michele Ducceschi</span><h3><a class='post-link' href="{{ site.baseurl }}/applications-of-port-hamiltonian-methods-to-non-iterative-stable-simulations-of-the-korg35-and-moog-4-pole-vcf">Applications of Port Hamiltonian Methods to Non-Iterative Stable Simulations of the KORG35 and MOOG 4-Pole VCF</a></h3></li>
 
 </ul>

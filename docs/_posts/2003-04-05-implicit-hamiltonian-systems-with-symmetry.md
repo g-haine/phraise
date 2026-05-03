@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft)
+[A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Implicit Hamiltonian systems with symmetry are treated by exploiting the notion of symmetry of Dirac structures. It is shown how Dirac structures can be reduced to Dirac structures on the orbit space of the symmetry group, leading to a reduced implicit (generalized) Hamiltonian system. The approach is specialized to nonholonomic mechanical systems with symmetry.

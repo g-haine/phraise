@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Ning Zhu](authors/ning-zhu), [Hai Sheng Yu](authors/haisheng-yu), [Bing Qiang Shan](authors/bing-qiang-shan)
+[Ning Zhu](authors/ning-zhu), [Hai Sheng Yu](authors/haisheng-yu), [Bing Qiang Shan](authors/bingqiang-shan)
  
 ## Abstract
 A method of port-controlled Hamiltonian (PCH) systems energy-shaping control is presented for the four-quadrant control problem of squirrel cage induction motor (IM) drive system. First, the PCH models of IM drive system are developed. Then, the PCH controllers are designed based on the control theory of closed-loop state error PCH system. The coordinated control of the grid-side and the motor-side are applied in Matlab/simulink, which the motor-side is started after the grid-side is achieved up to stable. The controlled system can be achieved that DC bus voltage controllable, unity power factor, energy bidirectional flow, IM run in the four-quadrant, etc.
@@ -27,7 +27,7 @@ A method of port-controlled Hamiltonian (PCH) systems energy-shaping control is 
 {% raw %}
 @article{Zhu_2013,
   title={{Port-Controlled Hamiltonian Control of IM Based on Back-to-Back Converter}},
-  volume={385–386},
+  volume={385-386},
   ISSN={1662-7482},
   DOI={10.4028/www.scientific.net/amm.385-386.839},
   journal={Applied Mechanics and Materials},
@@ -42,6 +42,6 @@ A method of port-controlled Hamiltonian (PCH) systems energy-shaping control is 
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-controlled-hamiltonian-control-of-im-based-on-back-to-back-converter.bib)
  
 ## References
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- [Yu, H., Liu, X., Yu, J. & Song, Q. Position tracking control of PMSM based on state error PCH and MTPA principle. 2011 IEEE 5th International Conference on Robotics, Automation and Mechatronics (RAM) 113–118 (2011) doi:10.1109/ramech.2011.6070466](position-tracking-control-of-pmsm-based-on-state-error-pch-and-mtpa-principle) -- [10.1109/ramech.2011.6070466](https://doi.org/10.1109/ramech.2011.6070466)
+- [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- [Yu H, Liu X, Yu J, Song Q (2011) Position tracking control of PMSM based on state error PCH and MTPA principle. 2011 IEEE 5th International Conference on Robotics, Automation and Mechatronics (RAM) 113–11](position-tracking-control-of-pmsm-based-on-state-error-pch-and-mtpa-principle) -- [10.1109/ramech.2011.6070466](https://doi.org/10.1109/ramech.2011.6070466)
 

@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Gerardo Escobar](authors/gerardo-escobar), [Arjan J. van der Schaft](authors/arjan-van-der-schaft), [Romeo Ortega](authors/romeo-ortega)
+[Gerardo Escobar](authors/gerardo-escobar), [Arjan J. van der Schaft](authors/arjan-j-van-der-schaft), [Romeo Ortega](authors/romeo-ortega)
  
 ## Abstract
 In this paper we show how, using the Hamiltonian formalism, we can systematically derive mathematical models that describe the behaviour of a large class of switching power converters, including the “Boost”, “Buck”, “Buck-Boost”, “Čuk” and “Flyback” converters. We follow the approach proposed by van der Schaft and Maschke and extract from the basic (energy-conserving) LC–circuit the remaining elements, i.e., resistors, switches, diodes and transformers, which we treat as external ports. This method naturally yields a Hamiltonian system with two additional conjugated sets of port variables. This procedure, besides being systematic and very general, has the additional advantage of resulting in equations of a form appropriate for simulation and design of the highly succesful passivity–based controllers.

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Oscar Danilo Montoya Giraldo](authors/oscar-danilo-montoya-giraldo), [Alejandro Garcés Ruiz](authors/alejandro-garces-ruiz), [Isaac Ortega Velázquez](authors/isaac-ortega-velazquez), [Gerardo René Espinosa Pérez](authors/gerardo-espinosa-perez)
+[Oscar Danilo Montoya Giraldo](authors/oscar-danilo-montoya-giraldo), [Alejandro Garcés Ruiz](authors/alejandro-garces-ruiz), [Isaac Ortega Velázquez](authors/isaac-ortega-velazquez), [Gerardo René Espinosa Pérez](authors/gerardo-rene-espinosa-perez)
  
 ## Abstract
 In this paper, a passivity-based control (PBC) theory is applied to control a battery energy storage system (BESS) under current control mode by employing a bidirectional buck-boost DC-DC converter. The proposed controller guarantees globally exponentially stability for the system under closed-loop conditions via proportional control design. An averaging model of the buck-boost DC-DC converter is employed to represent the dynamics of the system via port-Hamiltonian (pH) structure. Simulation results show that a unique control law can be used to the charging or discharging battery process. MATLAB/SIMULINK software is employed to validate the proposed control methodology.

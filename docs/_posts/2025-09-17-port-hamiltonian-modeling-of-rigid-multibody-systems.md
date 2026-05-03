@@ -21,7 +21,7 @@ tags:
 ---
  
 ## Authors
-[Thomas Berger](authors/thomas-berger), [René Hochdahl](authors/rene-c-hochdahl), [Timo Reis](authors/timo-reis), [Robert Seifried](authors/robert-seifried)
+[Thomas Berger](authors/thomas-berger), [René Hochdahl](authors/rene-hochdahl), [Timo Reis](authors/timo-reis), [Robert Seifried](authors/robert-seifried)
  
 ## Abstract
 We employ a port-Hamiltonian approach to model nonlinear rigid multibody systems subject to both position and velocity constraints. Our formulation accommodates Cartesian and redundant coordinates, respectively, and captures kinematic as well as gyroscopic effects. The resulting equations take the form of nonlinear differential-algebraic equations that inherently preserve an energy balance. We show that the proposed class is closed under interconnection, and we provide several examples to illustrate the theory.

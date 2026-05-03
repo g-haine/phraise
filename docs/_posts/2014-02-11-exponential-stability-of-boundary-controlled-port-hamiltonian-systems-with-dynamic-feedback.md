@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Hans Zwart](authors/hans-zwart), [Yann Le Gorrec](authors/yann-le-gorrec)
+[Hector Ramirez](authors/hector-ramirez), [Hans Zwart](authors/hans-j-zwart), [Yann Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 In this paper it is shown that an input strictly passive linear finite dimensional port-Hamiltonian controller exponentially stabilizes a large class of boundary control systems. This follows since the finite dimensional controller dissipates the energy flowing through the boundaries of the infinite dimensional system. The assumptions on the controller is that it is input strictly passive and that it is exponentially stable. The result is illustrated on the model of a boundary controlled DNA-manipulation process.

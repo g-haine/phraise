@@ -4,12 +4,10 @@ permalink: /authors/jieqiang-wei
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Jieqiang Wei, J. Wei.</p>
+<p id='info-authors'>Alternative author names: Jieqiang Wei.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- Jieqiang Wei, Anneroos R.F. Everts, M. Kanat Camlibel, Arjan J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/consensus-dynamics-with-arbitrary-sign-preserving-nonlinearities">Consensus dynamics with arbitrary sign-preserving nonlinearities</a></h3></li>
-<li><span class='post-meta'>2013 -- J. Wei, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/load-balancing-of-dynamical-distribution-networks-with-flow-constraints-and-unknown-in-outflows">Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows</a></h3></li>
-<li><span class='post-meta'>2012 -- A.J. van der Schaft, J. Wei</span><h3><a class='post-link' href="{{ site.baseurl }}/a-hamiltonian-perspective-on-the-control-of-dynamical-distribution-networks">A Hamiltonian perspective on the control of dynamical distribution networks</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

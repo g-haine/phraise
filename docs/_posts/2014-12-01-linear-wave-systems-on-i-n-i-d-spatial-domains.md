@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Mikael Kurula](authors/mikael-kurula), [Hans Zwart](authors/hans-zwart)
+[Mikael Kurula](authors/mikael-kurula), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 In this paper, we study the linear wave equation on an n-dimensional spatial domain. We show that there is a boundary triplet associated to the undamped wave equation. This enables us to characterise all boundary conditions for which the undamped wave equation possesses a unique solution non-increasing in the energy. Furthermore, we add boundary inputs and outputs to the system, thus turning it into an impedance conservative boundary control system.
@@ -26,7 +26,7 @@ In this paper, we study the linear wave equation on an n-dimensional spatial dom
 {% highlight bibtex %}
 {% raw %}
 @article{Kurula_2014,
-  title={{Linear wave systems onn-D spatial domains}},
+  title={{Linear wave systems on<i>n</i>-D spatial domains}},
   ISSN={1366-5820},
   DOI={10.1080/00207179.2014.993337},
   journal={International Journal of Control},

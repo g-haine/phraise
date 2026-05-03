@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Christopher Beattie](authors/christopher-beattie), [Serkan Gugercin](authors/serkan-gugercin)
+[Christopher Beattie](authors/christopher-a-beattie), [Serkan Gugercin](authors/serkan-gugercin)
  
 ## Abstract
 Port-Hamiltonian systems result from port-based network modeling of physical systems and constitute an important class of passive nonlinear state-space systems. In this paper, we develop a framework for model reduction of large-scale multi-input/multi-output nonlinear port-Hamiltonian systems that retains the port-Hamiltonian structure in the reduced order models. Within this framework, reduced order models are determined by the selection of two families of approximating subspaces. We consider two approaches deriving from a) a POD-based selection of subspaces, and b) an an ℋ2-based quasi-optimal selection of subspaces. We compare performance of the reduced order models on a nonlinear lossy LC ladder network.

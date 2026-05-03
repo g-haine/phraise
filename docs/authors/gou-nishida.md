@@ -4,7 +4,7 @@ permalink: /authors/gou-nishida
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Gou Nishida, G. Nishida, Gou NISHIDA, null Gou Nishida.</p>
+<p id='info-authors'>Alternative author names: Gou Nishida, Gou NISHIDA, G. Nishida, null Gou Nishida.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Gou Nishida, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/stokes-dirac-operator-for-laplacian">Stokes-Dirac operator for Laplacian</a></h3></li>

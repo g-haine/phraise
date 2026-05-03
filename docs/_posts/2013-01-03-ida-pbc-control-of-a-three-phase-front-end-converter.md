@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Federico M. Serra](authors/federico-m-serra), [Cristian H. De Angelo](authors/cristian-h-de-angelo), [Daniel G. Forchetti](authors/daniel-g-forchetti)
+[Federico M. Serra](authors/federico-martin-serra), [Cristian H. De Angelo](authors/cristian-h-de-angelo), [Daniel G. Forchetti](authors/daniel-g-forchetti)
  
 ## Abstract
 A nonlinear passivity-based controller for a three-phase front end converter used in renewable energy generation is presented in this paper. The main control objectives are to inject all the available power into the grid while controlling the reactive power exchanged with the power system. With this aim, the system is represented by its Port-Controlled Hamiltonian model and the controller is designed by interconnection and damping assignment. The proposed design allows a direct control of the DC link voltage dynamics while avoiding the use of derivatives in the implementation of control equations. The behaviour of the proposed control strategy is validated through simulations tests performed using a realistic converter model.

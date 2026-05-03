@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Rostyslav V. Polyuga](authors/rostyslav-v-polyuga), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Rostyslav V. Polyuga](authors/rostyslav-v-polyuga), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Moment matching approach of model reduction of linear dynamical state-space systems for a given input-generating system is discussed and applied to port-Hamiltonian systems. It is shown that the reduced order models inherit the port-Hamiltonian structure, the passivity property and preserve a certain number of the moments of a transfer function. Another approach to model reduction of port-Hamiltonian systems by means of the Krylov methods is considered. It is shown that in this case reduced order models are again port-Hamiltonian and therefore passive. The port-Hamiltonian structure of the reduced order models in both cases is investigated.

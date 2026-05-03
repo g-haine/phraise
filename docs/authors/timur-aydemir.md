@@ -1,10 +1,10 @@
 ---
-title: Publications by Timur AYDEMIR
+title: Publications by Timur Aydemir
 permalink: /authors/timur-aydemir
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Timur AYDEMIR.</p>
+<p id='info-authors'>Alternative author names: Timur Aydemir, Timur AYDEMIR.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Akin USLU, Necdet Sinan OZBEK, Timur AYDEMIR</span><h3><a class='post-link' href="{{ site.baseurl }}/an-adaptive-passivity-based-control-of-grid-connected-vsc-with-integral-action">An Adaptive Passivity Based Control of Grid Connected VSC with Integral Action</a></h3></li>

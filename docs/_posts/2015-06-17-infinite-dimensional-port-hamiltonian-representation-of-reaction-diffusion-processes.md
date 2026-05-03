@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[W. Zhou](authors/weijun-zhou), [B. Hamroun](authors/boussad-hamroun), [Y. Le Gorrec](authors/yann-le-gorrec), [F. Couenne](authors/francoise-couenne)
+[W. Zhou](authors/w-zhou), [B. Hamroun](authors/boussad-hamroun), [Y. Le Gorrec](authors/yann-le-gorrec), [F. Couenne](authors/francoise-couenne)
  
 ## Abstract
 In this paper is proposed a thermodynamically consistent port Hamiltonian formulation of non isothermal reaction diffusion processes. The use of appropriate thermodynamic variables for the definition of the state and the co-state vectors allows to highlight the inherent infinite dimensional interconnection structure linking the different thermodynamic phenomena (entropy production, diffusion, conduction) that is suitable for control purposes. The presentation is given for systems defined on one dimensional spatial domain.

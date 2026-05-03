@@ -1,10 +1,10 @@
 ---
-title: Publications by Renato Rimolo-Donadio
+title: Publications by Renato Rímolo-Donadío
 permalink: /authors/renato-rimolo-donadio
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Renato Rimolo-Donadio, Renato Rímolo-Donadío.</p>
+<p id='info-authors'>Alternative author names: Renato Rímolo-Donadío, Renato Rimolo-Donadio.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Hayden Phillips-Brenes, Mauricio Muñoz-Arias, Roberto Pereira-Arroyo, Luis Miguel Esquivel-Sancho, Renato Rimolo-Donadio</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-approach-for-photovoltaic-dc-dc-conversion-and-output-voltage-regulation">Passivity-Based Control Approach for Photovoltaic DC-DC Conversion and Output Voltage Regulation</a></h3></li>

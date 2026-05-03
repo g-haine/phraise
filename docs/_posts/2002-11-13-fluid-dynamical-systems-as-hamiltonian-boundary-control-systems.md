@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[A.J. Van der Schaft](authors/arjan-van-der-schaft), [B.M. Maschke](authors/bernhard-maschke)
+[A.J. Van der Schaft](authors/arjan-j-van-der-schaft), [B.M. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 No  available

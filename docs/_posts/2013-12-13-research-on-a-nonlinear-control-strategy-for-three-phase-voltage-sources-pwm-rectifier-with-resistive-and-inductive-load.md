@@ -27,7 +27,7 @@ The mathematical model of three-phase voltage sources Pulse Width Modulation (PW
 {% raw %}
 @article{Ma_2013,
   title={{Research on a Nonlinear Control Strategy for Three-Phase Voltage Sources PWM Rectifier with Resistive and Inductive Load}},
-  volume={860–863},
+  volume={860-863},
   ISSN={1662-8985},
   DOI={10.4028/www.scientific.net/amr.860-863.2385},
   journal={Advanced Materials Research},
@@ -42,5 +42,5 @@ The mathematical model of three-phase voltage sources Pulse Width Modulation (PW
 [Download the bib file]({{ site.baseurl }}/assets/bib/research-on-a-nonlinear-control-strategy-for-three-phase-voltage-sources-pwm-rectifier-with-resistive-and-inductive-load.bib)
  
 ## References
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Trans. Automat. Contr. 53, 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
+- [Ortega R, van der Schaft A, Castanos F, Astolfi A (2008) Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Trans Automat Contr 53(11):2527–2542. https://doi.org/10.1109/tac.2008.200693](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 

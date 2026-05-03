@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 In this paper it is shown how the port-Hamiltonian formulation of distributed-parameter systems is closely related to the general thermodynamic framework of systems of conservation laws and closure equations. The situation turns out to be similar to the lumped-parameter case where the Dirac structure captures the basic interconnection laws, and the closure equations correspond to the constitutive relations of the energy-storing elements.

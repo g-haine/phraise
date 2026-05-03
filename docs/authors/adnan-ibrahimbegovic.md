@@ -1,10 +1,10 @@
 ---
-title: Publications by Adnan Ibrahimbegović
+title: Publications by Adnan Ibrahimbegovic
 permalink: /authors/adnan-ibrahimbegovic
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Adnan Ibrahimbegović, Adnan Ibrahimbegovics, Adnan Ibrahimbegovi ́c, A. Ibrahimbegovic̀, Adnan Ibrahimbegović, Adnan Ibrahimbegovic ́, A. Ibrahimbegović, Adnan Ibrahimbegovic, A. Ibrahimbegovic.</p>
+<p id='info-authors'>Alternative author names: Adnan Ibrahimbegovic.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2026 -- Suljo Ljukovac, Adnan Ibrahimbegovic</span><h3><a class='post-link' href="{{ site.baseurl }}/control-for-highly-flexible-geometrically-exact-2d-reissner-beam-by-energy-shaping-of-distributed-port-hamiltonian-system">Control for (highly) flexible geometrically exact 2D Reissner beam by energy shaping of distributed port-Hamiltonian system</a></h3></li>

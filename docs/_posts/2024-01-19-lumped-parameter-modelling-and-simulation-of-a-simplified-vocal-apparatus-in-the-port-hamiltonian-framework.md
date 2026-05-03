@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[T. Risse](authors/t-risse), [T. Hélie](authors/thomas-helie), [F. Silva](authors/fabrice-silva), [V. Wetzel](authors/v-wetzel)
+[T. Risse](authors/thomas-risse), [T. Hélie](authors/thomas-helie), [F. Silva](authors/fabrice-silva), [V. Wetzel](authors/victor-wetzel)
  
 ## Abstract
 In this work, we propose a power-balanced model of the full vocal apparatus, described by passive elementary components, the connection of which accounts for fluid-solid and fluid-fluid interactions. In the larynx, we consider a potential incompressible flow of an inviscid fluid between parallel moving walls whose dynamics is reduced to a mass-spring-damper oscillator equipped with an elastic cover. The vocal tract is represented by a macroscopic lumped parameter model derived for the irrotational flow of a compressible inviscid fluid with the simplest kinematics satisfying the boundary conditions. The assembly of elements admits a representation as a constrained global port-Hamiltonian system for which we propose simulations based on a projection method that preserves the power balance. Several numerical experiments show the ability of the model to reproduce a variety of regimes according to different configurations: non oscillating regimes (no phonation), periodic regimes (typical of healthy voice) and non-periodic oscillating regimes (typical of dysphonia). These simulations are used to sketch first cartographies of regimes with respect to con-trol parameters.

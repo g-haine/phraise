@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Jose Guadalupe Romero](authors/jose-guadalupe-romero), [Alejandro Donaire](authors/alejandro-donaire), [David Navarro-Alarcon](authors/david-navarro-alarcon), [Victor Ramirez](authors/victor-ramirez)
+[Jose Guadalupe Romero](authors/jose-guadalupe-romero), [Alejandro Donaire](authors/alejandro-donaire), [David Navarro-Alarcon](authors/david-navarro-alarcon), [Victor Ramirez](authors/victor-m-ramirez-rivera)
  
 ## Abstract
 The main purpose of this paper is to investigate the robustness of tracking controllers for mechanical systems vis—à—vis external disturbances. The controllers designed are obtained by modifying a change of coordinates recently proposed for robust energy shaping controller. This type of change of coordinates allows to assign damping in all the states when the closed loop is written in port{Hamiltonian form. This feature simplify the stability analysis by ensure that the Hamiltonian function is a strict Lyapunov function of the closed loop. Moreover, robustness of the closed loop against external disturbances is ensured. This result is also extended for mechanical systems interacting with elastic environments and linear deformation. The robust properties are preserved adding terms in the control law via the new change of coordinates.

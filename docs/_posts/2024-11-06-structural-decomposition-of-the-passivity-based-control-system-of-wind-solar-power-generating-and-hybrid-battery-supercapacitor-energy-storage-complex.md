@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Ihor Shchur](authors/igor-z-shchur), [Marek Lis](authors/marek-lis), [Rostyslav-Ivan Kuzyk](authors/rostyslav-ivan-kuzyk)
+[Ihor Shchur](authors/ihor-z-shchur), [Marek Lis](authors/marek-lis), [Rostyslav-Ivan Kuzyk](authors/rostyslav-ivan-v-kuzyk)
  
 ## Abstract
 Wind–solar power generating and hybrid battery-supercapacitor energy storage complex is used for autonomous power supply of consumers in remote areas. This work uses passivity-based control (PBC) for this complex in accordance with the accepted energy management strategy (EMS). Structural and parametric synthesis of the overall PBC system was carried out, which was accompanied by a significant amount of research. In order to simplify this synthesis, a structural decomposition of the overall dynamic system of the object presented in the form of a port-Hamiltonian system, which was described by a system of differential equations of the seventh order, into three subsystems was applied. These subsystems are a wind turbine, a PV plant, and a hybrid battery-supercapacitor system. For each of the subsystems, it is quite simple to synthesize the control influence formers according to the interconnections and damping assignment (IDA) method of PBC, which locally performs the tasks set by the EMS. The results obtained by computer simulation of the overall and decomposed systems demonstrate the effectiveness of this approach in simplifying synthesis and debugging procedures of complex multi-physical systems.

@@ -22,7 +22,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Quite often, control theory takes the state space model of the to-be-controlled system for granted. In contrast, port-Hamiltonian systems theory bridges the gap between modeling and control of physical systems. It provides a unified framework for the modeling of complex multiphysics systems. At the same time it offers powerful tools for analysis and control by identifying the underlying physical structure, as reflected in, e.g., energy balance and other conserved quantities. This leads to control schemes that exploit the physical structure, instead of compensating for it. As a result, the derived control laws tend to be simple, physically interpretable, and robust with respect to physical parameter variations. In this paper, after introducing port-Hamiltonian systems, the focus is on 'control by interconnection' for set-point stabilization of nonlinear physical systems. Most of this theory is well-established, but novel developments using 'energy ports' instead of 'power ports' are also included. In this paper, after introducing port-Hamiltonian systems, the focus is on 'control by interconnection' for set-point stabilization of nonlinear physical systems. Most of this theory is well-established but novel developments using 'energy ports' instead of 'power ports' are also included.

@@ -7,6 +7,7 @@ permalink: /authors/marius-monch
 <p id='info-authors'>Alternative author names: Marius Mönch.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Marius Mönch, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-associated-splitting-schemes-for-closed-nonlinear-port-hamiltonian-systems">Energy‐Associated Splitting Schemes for Closed Nonlinear Port‐Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Marius Mönch, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/commutator-based-operator-splitting-for-linear-port-hamiltonian-systems">Commutator-based operator splitting for linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Marius Mönch, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/fourth-order-force-gradient-splitting-for-linear-port-hamiltonian-systems">Fourth‐order force‐gradient splitting for linear port‐Hamiltonian systems</a></h3></li>
 

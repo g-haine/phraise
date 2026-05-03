@@ -6,21 +6,17 @@ year: 2017
 authors: Arjan van der Schaft
 category: articles
 tags:
-  - Physical network
-  - Laplacian matrix
-  - Matrix Tree theorem
-  - Port-Hamiltonian system
-  - Available storage
+  - available storage, laplacian matrix, matrix tree theorem, physical network, port-hamiltonian system
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Conservation laws and balance equations for physical network systems typically can be described with the aid of the incidence matrix of a directed graph, and an associated symmetric Laplacian matrix. Some basic examples are discussed, and the extension to k -complexes is indicated. Physical distribution networks often involve a non-symmetric Laplacian matrix. It is shown how, in case the connected components of the graph are strongly connected, such systems can be converted into a form with balanced Laplacian matrix by constructive use of Kirchhoff’s Matrix Tree theorem, giving rise to a port-Hamiltonian description. Application to the dual case of asymmetric consensus algorithms is given. Finally it is shown how the minimal storage function for physical network systems with controlled flows can be explicitly computed.
  
 ## Keywords
-Physical network; Laplacian matrix; Matrix Tree theorem; Port-Hamiltonian system; Available storage
+available storage, laplacian matrix, matrix tree theorem, physical network, port-hamiltonian system
  
 ## Citation
 - **Journal:** Systems &amp; Control Letters
@@ -40,7 +36,7 @@ Physical network; Laplacian matrix; Matrix Tree theorem; Port-Hamiltonian system
   volume={101},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2015.08.013},
-  journal={Systems \& Control Letters},
+  journal={Systems \&amp; Control Letters},
   publisher={Elsevier BV},
   author={van der Schaft, Arjan},
   year={2017},
@@ -52,29 +48,29 @@ Physical network; Laplacian matrix; Matrix Tree theorem; Port-Hamiltonian system
 [Download the bib file]({{ site.baseurl }}/assets/bib/modeling-of-physical-network-systems.bib)
  
 ## References
-- Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
-- Willems, J. C. Dissipative dynamical systems Part II: Linear systems with quadratic supply rates. Archive for Rational Mechanics and Analysis vol. 45 352–393 (1972) -- [10.1007/bf00276494](https://doi.org/10.1007/bf00276494)
-- The Behavioral Approach to Open and Interconnected Systems. IEEE Control Systems vol. 27 46–99 (2007) -- [10.1109/mcs.2007.906923](https://doi.org/10.1109/mcs.2007.906923)
-- Willems, J. Terminals and Ports. IEEE Circuits and Systems Magazine vol. 10 8–26 (2010) -- [10.1109/mcas.2010.938635](https://doi.org/10.1109/mcas.2010.938635)
+- Willems JC (1972) Dissipative dynamical systems part I: General theory. Arch Rational Mech Anal 45(5):321–351. https://doi.org/10.1007/bf0027649 -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
+- Willems JC (1972) Dissipative dynamical systems Part II: Linear systems with quadratic supply rates. Arch Rational Mech Anal 45(5):352–393. https://doi.org/10.1007/bf0027649 -- [10.1007/bf00276494](https://doi.org/10.1007/bf00276494)
+- (2007) The Behavioral Approach to Open and Interconnected Systems. IEEE Control Syst 27(6):46–99. https://doi.org/10.1109/mcs.2007.90692 -- [10.1109/mcs.2007.906923](https://doi.org/10.1109/mcs.2007.906923)
+- Willems J (2010) Terminals and Ports. IEEE Circuits Syst Mag 10(4):8–26. https://doi.org/10.1109/mcas.2010.93863 -- [10.1109/mcas.2010.938635](https://doi.org/10.1109/mcas.2010.938635)
 - Bollobas, (1998)
 - Godsil, (2004)
-- [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
-- Kirchhoff, G. Ueber die Auflösung der Gleichungen, auf welche man bei der Untersuchung der linearen Vertheilung galvanischer Ströme geführt wird. Annalen der Physik vol. 148 497–508 (1847) -- [10.1002/andp.18471481202](https://doi.org/10.1002/andp.18471481202)
+- [van der Schaft AJ, Maschke BM (2013) Port-Hamiltonian Systems on Graphs. SIAM J Control Optim 51(2):906–937. https://doi.org/10.1137/11084009](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- Kirchhoff G (1847) Ueber die Auflösung der Gleichungen, auf welche man bei der Untersuchung der linearen Vertheilung galvanischer Ströme geführt wird. Annalen der Physik 148(12):497–508. https://doi.org/10.1002/andp.1847148120 -- [10.1002/andp.18471481202](https://doi.org/10.1002/andp.18471481202)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Uebertrag.tech. (1995)
-- [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Mesbahi, (2010)
-- van der Schaft, A. & Maschke, B. Conservation Laws and Lumped System Dynamics. Model-Based Control: 31–48 (2009) doi:10.1007/978-1-4419-0895-7_3 -- [10.1007/978-1-4419-0895-7_3](https://doi.org/10.1007/978-1-4419-0895-7_3)
-- [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Hamiltonian perspective on compartmental reaction–diffusion networks. Automatica vol. 50 737–746 (2014)](hamiltonian-perspective-on-compartmental-reaction-diffusion-networks) -- [10.1016/j.automatica.2013.12.017](https://doi.org/10.1016/j.automatica.2013.12.017)
-- Rao, S., van der Schaft, A. & Jayawardhana, B. A graph-theoretical approach for the analysis and model reduction of complex-balanced chemical reaction networks. Journal of Mathematical Chemistry vol. 51 2401–2422 (2013) -- [10.1007/s10910-013-0218-8](https://doi.org/10.1007/s10910-013-0218-8)
-- van der Schaft, A., Rao, S. & Jayawardhana, B. Complex and detailed balancing of chemical reaction networks revisited. Journal of Mathematical Chemistry vol. 53 1445–1458 (2015) -- [10.1007/s10910-015-0498-2](https://doi.org/10.1007/s10910-015-0498-2)
-- Chapman, A. & Mesbahi, M. Advection on graphs. IEEE Conference on Decision and Control and European Control Conference (2011) doi:10.1109/cdc.2011.6161471 -- [10.1109/cdc.2011.6161471](https://doi.org/10.1109/cdc.2011.6161471)
-- Rantzer, A. Scalable control of positive systems. European Journal of Control vol. 24 72–80 (2015) -- [10.1016/j.ejcon.2015.04.004](https://doi.org/10.1016/j.ejcon.2015.04.004)
-- Cortés, J. Distributed algorithms for reaching consensus on general functions. Automatica vol. 44 726–737 (2008) -- [10.1016/j.automatica.2007.07.022](https://doi.org/10.1016/j.automatica.2007.07.022)
-- Zhang, H., Lewis, F. L. & Qu, Z. Lyapunov, Adaptive, and Optimal Design Techniques for Cooperative Systems on Directed Communication Graphs. IEEE Transactions on Industrial Electronics vol. 59 3026–3041 (2012) -- [10.1109/tie.2011.2160140](https://doi.org/10.1109/tie.2011.2160140)
-- Mirzaev, I. & Gunawardena, J. Laplacian Dynamics on General Graphs. Bulletin of Mathematical Biology vol. 75 2118–2149 (2013) -- [10.1007/s11538-013-9884-8](https://doi.org/10.1007/s11538-013-9884-8)
-- Sontag, E. D. Structure and stability of certain chemical networks and applications to the kinetic proofreading model of T-cell receptor signal transduction. IEEE Transactions on Automatic Control vol. 46 1028–1047 (2001) -- [10.1109/9.935056](https://doi.org/10.1109/9.935056)
+- van der Schaft A, Maschke B (2009) Conservation Laws and Lumped System Dynamics. Model-Based Control: 31–4 -- [10.1007/978-1-4419-0895-7_3](https://doi.org/10.1007/978-1-4419-0895-7_3)
+- [Seslija M, van der Schaft A, Scherpen JMA (2014) Hamiltonian perspective on compartmental reaction–diffusion networks. Automatica 50(3):737–746. https://doi.org/10.1016/j.automatica.2013.12.01](hamiltonian-perspective-on-compartmental-reaction-diffusion-networks) -- [10.1016/j.automatica.2013.12.017](https://doi.org/10.1016/j.automatica.2013.12.017)
+- Rao S, van der Schaft A, Jayawardhana B (2013) A graph-theoretical approach for the analysis and model reduction of complex-balanced chemical reaction networks. J Math Chem 51(9):2401–2422. https://doi.org/10.1007/s10910-013-0218- -- [10.1007/s10910-013-0218-8](https://doi.org/10.1007/s10910-013-0218-8)
+- van der Schaft A, Rao S, Jayawardhana B (2015) Complex and detailed balancing of chemical reaction networks revisited. J Math Chem 53(6):1445–1458. https://doi.org/10.1007/s10910-015-0498- -- [10.1007/s10910-015-0498-2](https://doi.org/10.1007/s10910-015-0498-2)
+- Chapman A, Mesbahi M (2011) Advection on graphs. IEEE Conference on Decision and Control and European Control Conference 1461–146 -- [10.1109/cdc.2011.6161471](https://doi.org/10.1109/cdc.2011.6161471)
+- Rantzer A (2015) Scalable control of positive systems. European Journal of Control 24:72–80. https://doi.org/10.1016/j.ejcon.2015.04.00 -- [10.1016/j.ejcon.2015.04.004](https://doi.org/10.1016/j.ejcon.2015.04.004)
+- Cortés J (2008) Distributed algorithms for reaching consensus on general functions. Automatica 44(3):726–737. https://doi.org/10.1016/j.automatica.2007.07.02 -- [10.1016/j.automatica.2007.07.022](https://doi.org/10.1016/j.automatica.2007.07.022)
+- Zhang H, Lewis FL, Qu Z (2012) Lyapunov, Adaptive, and Optimal Design Techniques for Cooperative Systems on Directed Communication Graphs. IEEE Trans Ind Electron 59(7):3026–3041. https://doi.org/10.1109/tie.2011.216014 -- [10.1109/tie.2011.2160140](https://doi.org/10.1109/tie.2011.2160140)
+- Mirzaev I, Gunawardena J (2013) Laplacian Dynamics on General Graphs. Bull Math Biol 75(11):2118–2149. https://doi.org/10.1007/s11538-013-9884- -- [10.1007/s11538-013-9884-8](https://doi.org/10.1007/s11538-013-9884-8)
+- Sontag ED (2001) Structure and stability of certain chemical networks and applications to the kinetic proofreading model of T-cell receptor signal transduction. IEEE Trans Automat Contr 46(7):1028–1047. https://doi.org/10.1109/9.93505 -- [10.1109/9.935056](https://doi.org/10.1109/9.935056)
 - Chopra, Passivity-based control of multi-agent systems. (2006)
-- Willems, J. C. Power and energy as systemic properties &amp;#x2014; Part II: Mechanical systems. 52nd IEEE Conference on Decision and Control 175–181 (2013) doi:10.1109/cdc.2013.6759878 -- [10.1109/cdc.2013.6759878](https://doi.org/10.1109/cdc.2013.6759878)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
-- [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics vol. 62 1509–1531 (2012)](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
+- Willems JC (2013) Power and energy as systemic properties &amp;#x2014; Part II: Mechanical systems. 52nd IEEE Conference on Decision and Control 175–18 -- [10.1109/cdc.2013.6759878](https://doi.org/10.1109/cdc.2013.6759878)
+- [van der Schaft AJ, Maschke BM (2002) Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42(1–2):166–194. https://doi.org/10.1016/s0393-0440(01)00083-](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- [Seslija M, van der Schaft A, Scherpen JMA (2012) Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics 62(6):1509–1531. https://doi.org/10.1016/j.geomphys.2012.02.00](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
 

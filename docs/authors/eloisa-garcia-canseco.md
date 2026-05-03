@@ -4,7 +4,7 @@ permalink: /authors/eloisa-garcia-canseco
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Eloísa García-Canseco, E. Garcia-Canseco, Eloísa Garcia–Canseco.</p>
+<p id='info-authors'>Alternative author names: Eloísa García-Canseco, Eloísa Garcia–Canseco, E. Garcia-Canseco.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2005 -- Eloísa Garcia–Canseco, Ramkrishna Pasumarthy, Arjan van der Schaft, Romeo Ortega</span><h3><a class='post-link' href="{{ site.baseurl }}/on-control-by-interconnection-of-port-hamiltonian-systems">ON CONTROL BY INTERCONNECTION OF PORT HAMILTONIAN SYSTEMS</a></h3></li>

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[O. D. Montoya](authors/oscar-danilo-montoya), [J. E. Campillo](authors/javier-e-campillo), [W. Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [A. Garces](authors/alejandro-garces-ruiz)
+[O. D. Montoya](authors/oscar-danilo-montoya), [J. E. Campillo](authors/javier-campillo), [W. Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [A. Garces](authors/alejandro-garces-ruiz)
  
 ## Abstract
 This paper presents a general control design for photovoltaic systems integrated with Direct–Current power grids by using an unidirectional boost converter. Passivity–based control (PBC) theory is used as a control technique since the dynamical model of the boost converter has an intrinsically port–Hamiltonian structure, where PBC theory is based upon, to design stable controllers via Lyapunov stability theory. To control the photovoltaic solar system, a current control mode is used, since photovoltaic cells are mathematically modelled as current sources, where the photo–current determined by the solar irradiance and the cell’s temperature. Proportional and proportional–integral passivity–based controllers are developed to operate the boost converter under current control mode to extract the maximum power available in the PV array. Simulation results are conducted via MATLAB/ODE–package software.

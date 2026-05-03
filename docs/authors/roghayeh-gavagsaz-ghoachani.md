@@ -7,6 +7,7 @@ permalink: /authors/roghayeh-gavagsaz-ghoachani
 <p id='info-authors'>Alternative author names: Roghayeh Gavagsaz-Ghoachani.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2024 -- Amirhosein Mansouri, Mohammad Afkar, Roghayeh Gavagsaz-Ghoachani, Matheepot Phattanasak, Serge Pierfederici</span><h3><a class='post-link' href="{{ site.baseurl }}/control-of-three-distributed-generators-in-a-dc-microgrid-using-decentralized-passivity-based-approach">Control of Three Distributed Generators in a DC Microgrid Using Decentralized Passivity-Based Approach</a></h3></li>
 <li><span class='post-meta'>2024 -- Roghayeh Gavagsaz-Ghoachani, Matheepot Phattanasak, Jean-Philippe Martin, Serge Pierfederici</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-control-of-two-distributed-generations-in-dc-microgrid">Passivity Based Control of Two Distributed Generations in DC Microgrid</a></h3></li>
 
 </ul>

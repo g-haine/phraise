@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[W. Zhou](authors/weijun-zhou), [B. Hamroun](authors/boussad-hamroun), [Y. Le Gorrec](authors/yann-le-gorrec), [F. Couenne](authors/francoise-couenne)
+[W. Zhou](authors/w-zhou), [B. Hamroun](authors/boussad-hamroun), [Y. Le Gorrec](authors/yann-le-gorrec), [F. Couenne](authors/francoise-couenne)
  
 ## Abstract
 Infinite dimensional Port Hamiltonian representation of non isothermal chemical reactors is proposed in the case of mass transport diffusion and chemical reaction without convection. The proposed approach uses thermodynamic variables. The presentation is given for one dimensional spatial domain by using the internal energy and the opposite of the entropy as hamiltonian functions.

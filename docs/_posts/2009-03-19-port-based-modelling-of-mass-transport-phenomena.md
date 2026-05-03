@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[A. Baaiu](authors/a-baaiu), [F. Couenne](authors/francoise-couenne), [D. Eberard](authors/damien-eberard), [C. Jallut](authors/c-jallut), [L. Lefevre](authors/laurent-lefevre), [Y. Legorrec](authors/yann-le-gorrec), [B. Maschke](authors/bernhard-maschke)
+[A. Baaiu](authors/a-baaiu), [F. Couenne](authors/francoise-couenne), [D. Eberard](authors/damien-eberard), [C. Jallut](authors/christian-jallut), [L. Lefevre](authors/laurent-lefevre), [Y. Legorrec](authors/yann-le-gorrec), [B. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 The goal of this article is to present an extension of the port-based modelling approach (bond graphs) which applies to systems subject to heat and mass transfer. The methodology is based on the first principle, conservation laws and constitutive closure relations. The latter are the phenomenological laws relating fluxes and thermodynamic forces. Then instantaneous power conservation appears naturally as a geometric interconnection structure called Dirac structure. The multi-level case (several macroscopic spatial scales) is investigated with the assumption that the spatial scales are separated and may be considered as two distinct phases. In this case, it is shown that both the interconnection coupling within a phase and the multi-level interconnection coupling are Dirac structures.

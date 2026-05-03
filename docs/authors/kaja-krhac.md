@@ -4,7 +4,7 @@ permalink: /authors/kaja-krhac
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Kaja Krhač, K. Krhač.</p>
+<p id='info-authors'>Alternative author names: Kaja Krhač.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Kaja Krhač, Bernhard Maschke, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems-with-energy-and-power-ports">Port-Hamiltonian systems with energy and power ports</a></h3></li>

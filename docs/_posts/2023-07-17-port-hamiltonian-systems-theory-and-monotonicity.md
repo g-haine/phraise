@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[M. K. Camlibel](authors/m-kanat-camlibel), [A. J. van der Schaft](authors/arjan-van-der-schaft)
+[M. K. Camlibel](authors/m-kanat-camlibel), [A. J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 No abstract available

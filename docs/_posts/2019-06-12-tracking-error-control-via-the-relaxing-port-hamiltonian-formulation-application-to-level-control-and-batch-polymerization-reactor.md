@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[T. Sang Nguyen](authors/thanh-sang-nguyen), [N. Ha Hoang](authors/ngoc-ha-hoang), [Mohd Azlan Hussain](authors/mohd-azlan-hussain), [Chee Keong Tan](authors/chee-keong-tan)
+[T. Sang Nguyen](authors/thanh-sang-nguyen), [N. Ha Hoang](authors/ngoc-ha-hoang), [Mohd Azlan Hussain](authors/mohd-azlan-bin-hussain), [Chee Keong Tan](authors/chee-keong-tan)
  
 ## Abstract
 In this paper, a tracking-error-based control design without feedback passivation stage is developed for the stabilization of physical and chemical nonlinear processes. To achieve control objectives, the system dynamics is first formulated under appropriate conditions as a relaxing (pseudo) port-Hamiltonian (PH) representation with some quadratic storage function, in which the positive semi-definite property of damping matrix may not be taken necessarily into account. Then, a reference trajectory expressed by a certain structure passing through a desired set-point (or containing an optimal profile) is suitably chosen. By adding a relevant damping injection, asymptotic and global convergence of error dynamics is guaranteed. Two case studies including the level control of a four-tank process of continuous time type and the optimal tracking of a batch polymerization reactor of discontinuous time type due to the nature of the process operation are used to illustrate the application and the effectiveness of the approach. Besides the control performance comparison with the conventional passivity-based control method and the robustness evaluation against disturbance and/or noise are included.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Jean-Yves Dieulot](authors/jean-yves-dieulot), [Mohit Makkar](authors/mohit-makka)
+[Jean-Yves Dieulot](authors/jean-yves-dieulot), [Mohit Makkar](authors/mohit-makkar)
  
 ## Abstract
 Port-Hamiltonian (PH) systems are energy-rooted representations of dynamical systems whichallow, through energy shaping, to design controller based on physical considerations. Since,bioreactions kinetics are based on data fitting, the obtention of a passive or a PH representationof a continuous bioreactor is not straightforward. Its is shown that an adequate change ofcoordinates and the use of appropriate energy functions allow for a pseudo-PH formulation ofthe dynamics of continuous fermenters. Different candidate energy functions are being testedand an adaptive controller is designed to cope with uncertainties on the specific growth rate.Simulations show the relevance of the approach.

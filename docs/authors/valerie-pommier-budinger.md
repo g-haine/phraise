@@ -4,7 +4,7 @@ permalink: /authors/valerie-pommier-budinger
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Valérie Pommier-Budinger, V. Pommier-Budinger, Valerie Pommier-Budinger.</p>
+<p id='info-authors'>Alternative author names: Valérie Pommier-Budinger, Valerie Pommier-Budinger, V. Pommier-Budinger.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Andrea Brugnoli, Daniel Alazard, Valérie Pommier-Budinger, Denis Matignon</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-discretization-of-port-hamiltonian-plate-models">Structure-preserving discretization of port-Hamiltonian plate models</a></h3></li>

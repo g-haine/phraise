@@ -67,7 +67,7 @@ Hamiltonian systems; Mathematical modelling; Equilibrium thermodynamics; Contact
 - Gromov, D. & Caines, P. E. Stability of composite thermodynamic systems with interconnection constraints. IET Control Theory &amp; Applications vol. 9 1629–1636 (2015) -- [10.1049/iet-cta.2014.0867](https://doi.org/10.1049/iet-cta.2014.0867)
 - Kondepudi, (1998)
 - Libermann, (1987)
-- Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
+- [Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012)](on-a-variational-principle-in-thermodynamics) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
 - Morrison, P. J. Hamiltonian description of the ideal fluid. Reviews of Modern Physics vol. 70 467–521 (1998) -- [10.1103/revmodphys.70.467](https://doi.org/10.1103/revmodphys.70.467)
 - Mrugala, R., Nulton, J. D., Christian Schön, J. & Salamon, P. Contact structure in thermodynamic theory. Reports on Mathematical Physics vol. 29 109–121 (1991) -- [10.1016/0034-4877(91)90017-h](https://doi.org/10.1016/0034-4877(91)90017-h)
 - Mueller-Roemer, C. & Caines, P. E. An Isothermal Energy Function State Space Model of a Stirling Engine. IFAC-PapersOnLine vol. 48 634–639 (2015) -- [10.1016/j.ifacol.2015.09.258](https://doi.org/10.1016/j.ifacol.2015.09.258)

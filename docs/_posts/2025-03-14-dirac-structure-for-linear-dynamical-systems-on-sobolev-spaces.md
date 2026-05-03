@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[N. Kumar](authors/nishant-kumar), [H.J. Zwart](authors/hans-zwart), [J.J.W. van der Vegt](authors/jaap-j-w-van-der-vegt)
+[N. Kumar](authors/nishant-kumar), [H.J. Zwart](authors/hans-j-zwart), [J.J.W. van der Vegt](authors/jaap-j-w-van-der-vegt)
  
 ## Abstract
 The port-Hamiltonian structure of linear dynamical systems is defined by a Dirac structure. In this paper we prove existence and well-posedness of a Dirac structure for linear dynamical systems on Sobolev spaces of differential forms on a bounded, connected and oriented manifold with Lipschitz continuous boundary. This result extends the proof of a Dirac structure for linear dynamical systems originally defined on smooth differential forms to a much larger class of function spaces, which is of theoretical importance and provides a solid basis for the numerical discretization of many linear port-Hamiltonian dynamical systems.

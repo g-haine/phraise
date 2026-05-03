@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[H. Jardón-Kojakhmetov](authors/h-jardon-kojakhmetov), [M. Muñoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[H. Jardón-Kojakhmetov](authors/h-jardon-kojakhmetov), [M. Muñoz-Arias](authors/raul-s-munoz-aguilar), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 In this paper we explore the methodology of model order reduction based on singular perturbations for a flexible-joint robot within the port-Hamiltonian framework. We show that a flexible-joint robot has a port-Hamiltonian representation which is also a singularly perturbed ordinary differential equation. Moreover, the associated reduced slow subsystem corresponds to a port-Hamiltonian model of a rigid-joint robot. To exploit the usefulness of the reduced models, we provide a numerical example where an existing controller for a rigid robot is implemented.

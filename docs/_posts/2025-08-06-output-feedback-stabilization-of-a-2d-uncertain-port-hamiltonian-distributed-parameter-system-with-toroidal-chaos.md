@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[F. E. Serrano](authors/fernando-e-serrano), [V. Puig](authors/vicenc-puig), [J. Munoz-Pacheco](authors/jesus-m-munoz-pacheco)
+[F. E. Serrano](authors/fernando-e-serrano), [V. Puig](authors/v-puig), [J. Munoz-Pacheco](authors/j-munoz-pacheco)
  
 ## Abstract
 No  available

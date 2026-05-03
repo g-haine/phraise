@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Tjerk Stegink](authors/tjerk-w-stegink), [Claudio De Persis](authors/claudio-de-persis), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Tjerk Stegink](authors/tjerk-w-stegink), [Claudio De Persis](authors/claudio-de-persis), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 This paper studies the problem of frequency regulation in power grids, while maximizing the social welfare. Two price-based controllers are proposed; the first one an internal-model-based controller and the second one based on a continuous gradient method for optimization. Both controllers can be implemented in a fully distributed fashion, with freedom in choosing a controller communication network. As a result, two real-time dynamic pricing models described by port-Hamiltonian systems are obtained. By coupling with the port-Hamiltonian description of the physical network we obtain a closed-loop port-Hamiltonian system, whose properties are exploited to prove asymptotic stability of the set of optimal points. Numerical results show the performance of both controllers in a simple case study.

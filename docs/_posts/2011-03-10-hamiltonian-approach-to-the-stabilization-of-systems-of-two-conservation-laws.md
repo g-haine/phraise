@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[V. Dos Santos Martins](authors/v-dos-santos-martins), [B. Maschke](authors/bernhard-maschke), [Y. Le Gorrec](authors/yann-le-gorrec)
+[V. Dos Santos Martins](authors/v-s-dos-santos-martins), [B. Maschke](authors/bernhard-maschke), [Y. Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper aims at providing some synthesis between two alternative representations of systems of two conservation laws and interprets different conditions on stabilizing boundary control laws. The first is the representation in Riemann invariants coordinates whose representation has been applied successfully for the stabilization of linear and non-linear of such hyperbolic systems. The second representation is based on physical modelling and leads to port Hamiltonian systems which are extensions of infinite-dimensional Hamiltonian systems defined on Dirac structure. The stability conditions on the boundary feedback relations derived with respect to the Riemann invariants are interpreted in terms of the dissipation inequality of the Hamiltonian functional.

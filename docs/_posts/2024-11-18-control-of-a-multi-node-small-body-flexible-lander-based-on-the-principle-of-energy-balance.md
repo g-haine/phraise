@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[CHAI JingXuan](authors/chai-jingxuan), [MEI Jie](authors/mei-jie), [GONG YouMin](authors/gong-youmin), [GUO XuFa](authors/guo-xufa), [MA GuangFu](authors/ma-guangfu), [WU WeiRen](authors/wu-weiren)
+[CHAI JingXuan](authors/jingxuan-chai), [MEI Jie](authors/jie-mei), [GONG YouMin](authors/youmin-gong), [GUO XuFa](authors/xufa-guo), [MA GuangFu](authors/ma-guangfu), [WU WeiRen](authors/weiren-wu)
  
 ## Abstract
 No abstract available

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 In this chapter we deal with Euler-Lagrange and Hamiltonian systems as an important class of passive state space systems. First we consider the passivity of systems described by Euler-Lagrange equations, with an application to a tracking problem. We define the class of port-controlled Hamiltonian systems, including the examples of LC-circuits and mechanical systems with kinematic constraints. This framework is further extended to include dissipation. Stabilization procedures for port-controlled Hamiltonian systems, which exploit the Hamiltonian structure and the passivity property, are discussed. Finally, the notion of power-conserving interconnection is formalized, leading to the notion of implicit port-controlled Hamiltonian systems.

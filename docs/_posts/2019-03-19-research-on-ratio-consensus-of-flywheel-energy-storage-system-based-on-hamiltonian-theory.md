@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Y L Miao](authors/y-l-miao), [B Wang](authors/b-wang), [X H Chen](authors/x-h-chen), [W Li](authors/w-li)
+[Y L Miao](authors/y-l-miao), [B Wang](authors/bing-wang), [X H Chen](authors/x-h-chen), [W Li](authors/w-li)
  
 ## Abstract
 A control strategy based on Hamiltonian energy theory is proposed for the wind farm with flywheel energy storage system (FESS). The control of the ratio consensus of the flywheel energy storage system is realized by adjusting the speed of the flywheel energy storage unit. First, the port-controlled Hamilton (PCH) model of the flywheel energy storage unit is established, and the port-controlled Hamiltonian with dissipation (PCH-D) model is obtained by using the feedback stabilization principle of the PCH system. Then, the problem of the ratio consensus control of the flywheel energy storage system is investigated. In order to realize that all flywheel energy storage units can store and release energy at the same rate, the control strategy of Hamilton energy shaping is applied to adjust the speed of flywheel energy storage units. Finally, the effectiveness of the proposed control strategy is verified by simulations.

@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Ronglin Wang](authors/rong-lin-wang), [Baochun Lu](authors/bao-chun-lu), [Yuanlong Hou](authors/yuan-long-hou), [Qiang Gao](authors/qiang-gao)
+[Ronglin Wang](authors/rong-lin-wang), [Baochun Lu](authors/baochun-lu), [Yuanlong Hou](authors/yuanlong-hou), [Qiang Gao](authors/qiang-gao)
  
 ## Abstract
  In order to achieve high motion accuracy and better robustness of the rocket launcher position servo system driven by a permanent magnet synchronous motor, a passivity-based controller based on improved active disturbance rejection control is proposed in this article. The convenient method of interconnection and damping assignment and passivity-based control is adopted to establish the port-controlled Hamiltonian system with dissipation model of permanent magnet synchronous motor. To further enhance the robustness and adaptability of the traditional active disturbance rejection controller, an improved active disturbance rejection control strategy–based radical basis function neural network is introduced to on-line update the proportional and derivative gains of improved active disturbance rejection controller. The results of numerical simulation and bench test indicate that the proposed improved active disturbance rejection control passivity–based control algorithm has advantages of smaller overshoot, fast response, small steady-state error, and strong robustness. It proves that the proposed control scheme is effective and suitable. 

@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Pablo Borja](authors/luis-pablo-borja), [Joel Ferguson](authors/joel-ferguson), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Pablo Borja](authors/luis-pablo-borja), [Joel Ferguson](authors/joel-ferguson), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Interconnection schemes are ubiquitous in physical systems. For instance, in multi-domain systems consisting of interconnected subsystems from different physical domains. Furthermore, the interconnection of two or more systems has also been exploited to analyze and control dynamical systems, especially passive ones. To this end, the most common interconnection structure is the negative feedback interconnection. However, this approach is unsuitable to directly couple the states of the subsystems in the overall system’s energy as customarily occurs in physical systems. This letter provides two interconnection approaches that overcome this issue. Notably, it is shown that these interconnection structures are suitable for decomposing passive systems into the interconnection of simpler passive subsystems. Moreover, these interconnections schemes allow the interpretation of some existing nonlinear control approaches as the interconnection of a passive plant with a passive controller. Additionally, the interpretation of the proposed interconnection structures is provided via bond graphs.

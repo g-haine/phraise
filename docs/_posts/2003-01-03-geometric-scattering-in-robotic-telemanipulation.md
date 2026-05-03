@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[S. Stramigioli](authors/stefano-stramigioli), [A. van der Schaft](authors/arjan-van-der-schaft), [B. Maschke](authors/bernhard-maschke), [C. Melchiorri](authors/claudio-melchiorri)
+[S. Stramigioli](authors/stefano-stramigioli), [A. van der Schaft](authors/arjan-j-van-der-schaft), [B. Maschke](authors/bernhard-maschke), [C. Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 In this paper, we study the interconnection of two robots, which are modeled as port-controlled Hamiltonian systems through a transmission line with time delay. There will be no analysis of the time delay, but its presence justifies the use of scattering variables to preserve passivity. The contributions of the paper are twofold: first, a geometrical, multidimensional, power-consistent exposition of telemanipulation of intrinsically passive controlled physical systems, with a clarification on impedance matching, and second, a system theoretic condition for the adaptation of a general port-controlled Hamiltonian system with dissipation (port-Hamiltonian system) to a transmission line.

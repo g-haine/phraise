@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Yu Gu](authors/yu-gu), [Haisheng Yu](authors/haisheng-yu), [Jinpeng Yu](authors/jinpeng-yu), [Bingqiang Shan](authors/bing-qiang-shan)
+[Yu Gu](authors/yu-gu), [Haisheng Yu](authors/haisheng-yu), [Jinpeng Yu](authors/jinpeng-yu), [Bingqiang Shan](authors/bingqiang-shan)
  
 ## Abstract
 A sliding-mode and port-controlled Hamiltonian(PCH)controller, suitable for the output voltage control of three phase voltage source pulse width modulation (PWM) rectifier is proposed in order to overcome the big fluctuation of output voltage due to external disturbances. The sliding-mode control algorithm is used to calculate the instruction current in dq rotating coordinate and the PCH controller is designed by port-controlled Hamiltonian method. The PCH controller parameters are obtained by using the method of interconnection and damping assignment to ensure system stability. Simulation results show that the rectifier controlled by sliding-mode and PCH method possesses good robustness and dynamic performance when load, supply voltage and output reference variations.

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft), [M.K. Camlibel](authors/m-kanat-camlibel)
+[A.J. van der Schaft](authors/arjan-j-van-der-schaft), [M.K. Camlibel](authors/m-kanat-camlibel)
  
 ## Abstract
 Instantaneous charge/flux transfers may occur in switched electrical circuits when the switch configuration changes. Characterization of such state discontinuities is a classical issue in circuit theory which, typically, is based on the so-called charge and flux conservation principle. This paper proposes a general state transfer principle for arbitrary switching port-Hamiltonian systems. This new principle coincides with the charge and flux conservation principle in the special case of linear RLC circuits, but also covers circuits with nonlinear capacitors and inductors, and of arbitrary topology. Moreover, the new principle is applied to switching mechanical systems.

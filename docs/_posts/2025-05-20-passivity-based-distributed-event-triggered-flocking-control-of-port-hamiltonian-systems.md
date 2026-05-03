@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Ernesto Aranda-Escolástico](authors/ernesto-aranda-escolastico), [Mahmoud Abdelrahim](authors/mahmoud-abdelrahim), [David Fernández-Amorós](authors/david-fernandez-amoros), [María Guinaldo](authors/maria-guinaldo), [Leonardo Colombo](authors/leonardo-colombo)
+[Ernesto Aranda-Escolástico](authors/ernesto-aranda-escolastico), [Mahmoud Abdelrahim](authors/mahmoud-abdelrahim), [David Fernández-Amorós](authors/david-fernandez-amoros), [María Guinaldo](authors/maria-guinaldo), [Leonardo Colombo](authors/leonardo-j-colombo)
  
 ## Abstract
 This letter addresses the problem of flocking motion in the context of port-Hamiltonian systems. The port-Hamiltonian framework offers advantages in modeling networks, dissipation, and heterogeneous agents. In this regard, designing flocking controllers in port-Hamiltonian form significantly increases their practical applications. Additionally, event-triggered control has proven effective in reducing bandwidth consumption. However, challenges remain in combining flocking requirements with energy-dissipating terms. Therefore, we propose a novel event-triggered flocking controller suitable for port-Hamiltonian systems. The method is validated through numerical simulations of a group of hexarotors.

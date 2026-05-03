@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[Nguyen Thanh Sang](authors/nguyen-thanh-sang), [Tan Chee Keong](authors/tan-chee-keong), [Hoang Ngoc Ha](authors/hoang-ngoc-ha), [Mohd Azlan Hussain](authors/mohd-azlan-hussain)
+[Nguyen Thanh Sang](authors/nguyen-thanh-sang), [Tan Chee Keong](authors/tan-chee-keong), [Hoang Ngoc Ha](authors/hoang-ngoc-ha), [Mohd Azlan Hussain](authors/mohd-azlan-bin-hussain)
  
 ## Abstract
 This work proposes a novel control strategy to stabilize the dynamics of a homogeneous reactor, described by the extents of reaction and inlet streams with the inclusion of heat balance. Specifically, we formulate this transformed model into a perturbed port-Hamiltonian (PH) structure, where the vector of reaction rates is expressed as a matched/unmatched and time-varying disturbance. Then, together with the tracking-error-based control method for the stabilization, two different configurations to compensate such disturbance, including a feed-forward law and a dynamic feedback one, are designed such that the error system asymptotically converges to the set point and preserves the PH representation by assigning an appropriate damping injection. A complex reaction system is used to illustrate the approach.

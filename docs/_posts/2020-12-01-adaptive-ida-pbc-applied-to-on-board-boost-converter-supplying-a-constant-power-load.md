@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[W. Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [Oscar Montoya](authors/oscar-danilo-montoya), [A. Herrera-Orozco](authors/a-herrera-orozco), [Federico Serra](authors/federico-m-serra)
+[W. Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [Oscar Montoya](authors/oscar-danilo-montoya), [A. Herrera-Orozco](authors/a-herrera-orozco), [Federico Serra](authors/federico-martin-serra)
  
 ## Abstract
 This paper addresses the problem of output voltage regulation of a boost dc-dc converter supplying an unknown constant power load (CPL). An interconnection and damping assignment passivity-based control (IDA-PBC) approach is employed to design the closed-loop controller taking advantage of the port-Hamiltonian structure of the converter under average modeling. An adaptive online method to estimate the CPL consumption is made by guaranteeing asymptotic stability in Lyapunov’s sense for closed-loop operation. Numerical validation between a nonlinear controller based on a sliding theory and the proposed IDA-PBC approach demonstrates the effectiveness and robustness of the passivity-based methods for regulating voltage profiles in boost converters, including large-scale variations in the CPL. All the numerical validations are conducted in MATLAB/Simulink software.

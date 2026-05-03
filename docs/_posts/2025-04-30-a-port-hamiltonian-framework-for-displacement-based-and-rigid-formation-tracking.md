@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Ningbo Li](authors/ningbo-li), [Zhiyong Sun](authors/zhiyong-sun), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Ningbo Li](authors/ningbo-li), [Zhiyong Sun](authors/zhiyong-sun), [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 This paper proposes a passivity-based port-Hamiltonian (pH) framework for multi-agent displacement-based and rigid formation control and velocity tracking. The control law consists of two parts, where the internal feedback is to track the velocity and the external feedback is to achieve formation stabilization by steering variables of neighboring agents that prescribe the desired geometric shape. Regarding the external feedback, a general framework is proposed for stabilizing different kinds of formations (including displacement-based, distance-based, angle-based, bearing-based and heterogeneous formations) by means of the advantage that the pH model is energy-based and coordinate-free. To solve the issue that the incidence matrix is not of full column rank over cyclic graphs, the graph matrix property is used to prove the convergence to the target sets for the displacement-based formation, while for rigid formations, the algebraic conditions of infinitesimal rigidity are investigated to achieve local asymptotic stability. Furthermore, the rigid formation with heterogeneous constraints is further investigated under this framework and the local asymptotic stability is proved under a mild assumption. Simulations are performed to illustrate the effectiveness of the framework.

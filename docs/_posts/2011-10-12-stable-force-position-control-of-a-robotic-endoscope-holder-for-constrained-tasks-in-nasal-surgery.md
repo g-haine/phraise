@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[David Navarro-Alarcon](authors/david-navarro-alarcon), [Yunhui Liu](authors/yun-hui-liu), [Peng Li](authors/peng-li)
+[David Navarro-Alarcon](authors/david-navarro-alarcon), [Yunhui Liu](authors/yunhui-liu), [Peng Li](authors/peng-li)
  
 ## Abstract
 In this paper we employ passivity-based control techniques to guarantee the stable manipulation of a constrained robotic endoscope holder. The system's modelling and the control synthesis are realised under the port-Hamiltonian formulation. Where a desired form of the closed-loop energy is enforced such that its local equilibrium implies the application of the desired force to the environment (patient's nostril), while regulating the endoscope unconstrained position and orientation inside the nasal cavity. This allows to set a specific energetic relation between the controlled robot and the environment, which in turn means a safer interaction with the tissue. Simulation and experimental results are presented to validate the theoretical concepts.

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Thomas Beckers](authors/thomas-beckers), [Leonardo Colombo](authors/leonardo-colombo)
+[Thomas Beckers](authors/thomas-beckers), [Leonardo Colombo](authors/leonardo-j-colombo)
  
 ## Abstract
 Passivity-based control ensures system stability by leveraging dissipative properties and is widely applied in electrical and mechanical systems. Port-Hamiltonian systems (PHS), in particular, are well-suited for interconnection and damping assignment passivity-based control (IDA-PBC) due to their structured, energy-centric modeling approach. However, current IDA-PBC faces two key challenges: (i) it requires precise system knowledge, which is often unavailable due to model uncertainties, and (ii) it is typically limited to set-point control. To address these limitations, we propose a data-driven tracking control approach based on a physics-informed model, namely Gaussian process port-Hamiltonian systems, along with the modified matching equation. By leveraging the Bayesian nature of the model, we establish probabilistic stability and passivity guarantees. A simulation demonstrates the effectiveness of our approach.

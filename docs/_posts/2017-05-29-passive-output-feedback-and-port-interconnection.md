@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[Stefano Stramigioli](authors/stefano-stramigioli), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Stefano Stramigioli](authors/stefano-stramigioli), [Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 In this paper, the design of an intrinsically passive controller having a Hamiltonian structure plus dissipation will be presented. This controller will be intrinsically passive since his coupling to the plant will be through a power port. It will be shown that this does not in general imply the necessity of measuring the port variables for implementation purposes.

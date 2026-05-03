@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Stefano Stramigioli](authors/stefano-stramigioli), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Claudio Melchiorri](authors/claudio-melchiorri)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Stefano Stramigioli](authors/stefano-stramigioli), [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Claudio Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 In this paper, a passive control scheme for port Hamiltonian systems with dissipation (PHD) is presented. The control scheme is able to conserve the PHD structure of the system when constrained on a sub-manifold of the state space. The idea is to modify both the interconnection and damping structures of the system and to add a proper dynamical extension in such a way that the constraint can be related to some dynamical invariants of the resulting closed-loop system. Since part of the structure of this dynamical extension can be arbitrarily chosen, it is also possible to drive the state of the system on the constraint and to obtain the dynamical behavior defined by the constraint. For example, if a proper variable structure dynamical extension is chosen, it is possible to achieve a sliding-mode behavior that can be interpreted by means of energetic considerations.

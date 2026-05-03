@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Bing Qiang Shan](authors/bing-qiang-shan), [Hai Sheng Yu](authors/haisheng-yu), [Zhao Bo Teng](authors/zhaobo-teng), [Ning Zhu](authors/ning-zhu)
+[Bing Qiang Shan](authors/bingqiang-shan), [Hai Sheng Yu](authors/haisheng-yu), [Zhao Bo Teng](authors/zhaobo-teng), [Ning Zhu](authors/ning-zhu)
  
 ## Abstract
 A novel state error port-controlled Hamiltonian (PCH) system method is presented for speed control the direct current (DC) separately excited motor. The unity power factor regulation of three phase pulse width modulated (PWM) rectifier is also implemented. Then, the state error PCH system control theory, the PCH model of the PWM rectifier and DC motor are proposed. Moreover, the control algorithm of the duty ratio switch function is presented for the PWM rectifier. Theoretical analysis and simulation results show that the controller has good speed tracking and unity power factor control performances.
@@ -27,7 +27,7 @@ A novel state error port-controlled Hamiltonian (PCH) system method is presented
 {% raw %}
 @article{Shan_2013,
   title={{Control Strategy of the DC Drive Systems Based on the State Error Port-Hamiltonian Theory}},
-  volume={385–386},
+  volume={385-386},
   ISSN={1662-7482},
   DOI={10.4028/www.scientific.net/amm.385-386.901},
   journal={Applied Mechanics and Materials},
@@ -42,6 +42,6 @@ A novel state error port-controlled Hamiltonian (PCH) system method is presented
 [Download the bib file]({{ site.baseurl }}/assets/bib/control-strategy-of-the-dc-drive-systems-based-on-the-state-error-port-hamiltonian-theory.bib)
  
 ## References
-- Chiasson, J. A new approach to dynamic feedback linearization control of an induction motor. IEEE Trans. Automat. Contr. 43, 391–397 (1998) -- [10.1109/9.661597](https://doi.org/10.1109/9.661597)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Chiasson J (1998) A new approach to dynamic feedback linearization control of an induction motor. IEEE Trans Automat Contr 43(3):391–397. https://doi.org/10.1109/9.66159 -- [10.1109/9.661597](https://doi.org/10.1109/9.661597)
+- [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 

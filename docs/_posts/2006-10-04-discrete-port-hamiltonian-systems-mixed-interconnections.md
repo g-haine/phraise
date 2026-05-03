@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[V. Talasila](authors/viswanath-talasila), [J. Clemente-Gallardo](authors/j-clemente-gallardo), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[V. Talasila](authors/viswanath-talasila), [J. Clemente-Gallardo](authors/jesus-clemente-gallardo), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Either from a control theoretic viewpoint or from an analysis viewpoint it is necessary to convert smooth systems to discrete systems, which can then be implemented on computers for numerical simulations. Discrete models can be obtained either by discretizing a smooth model, or by directly modeling at the discrete level itself. The goal of this paper is to apply a previously developed discrete modeling technique to study the interconnection of continuous systems with discrete ones in such a way that passivity is preserved. Such a theory has potential applications, in the field of haptics, telemanipulation etc. It is shown that our discrete modeling theory can be used to formalize previously developed techniques for obtaining passive interconnections of continuous and discrete systems.

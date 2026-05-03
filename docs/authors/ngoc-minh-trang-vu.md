@@ -4,7 +4,7 @@ permalink: /authors/ngoc-minh-trang-vu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Ngoc Minh Trang Vu, N.M. Trang Vu, N.M. Trang VU, Trang Vu, Ngoc Minh Trang VU, N.M.T Vu, N.M.T. VU, N.M.T. Vu.</p>
+<p id='info-authors'>Alternative author names: Ngoc Minh Trang Vu, Ngoc Minh Trang VU, N.M. Trang Vu, N.M. Trang VU, N.M.T Vu, N.M.T. Vu, N.M.T. VU, Trang Vu.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2023 -- N.M.T Vu, T.H. Pham, I. Prodan, L. Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-observer-for-state-feedback-control-design">Port-Hamiltonian observer for state-feedback control design</a></h3></li>

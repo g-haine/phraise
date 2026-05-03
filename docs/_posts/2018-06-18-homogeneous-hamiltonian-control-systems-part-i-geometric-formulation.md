@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 Contact geometry has been successfully employed for the geometric formulation and control of systems containing thermodynamic components. In this paper we elaborate on the geometric theory of symplectization of contact manifolds in order to lift contact control systems to Hamiltonian control systems with a Hamiltonian that is homogeneous in the co-state variables. This provides a new view on contact control systems as used in thermodynamics, and offers possibilities for unifying the theories of contact control systems, Hamiltonian input-output systems and port-Hamiltonian systems.
@@ -66,7 +66,7 @@ Hamiltonian systems; nonlinear control; thermodynamics; contact geometry; homoge
 - Hermann, (1973)
 - Libermann, (1987)
 - Maschke, B. & van der Schaft, A. Homogeneous Hamiltonian Control Systems Part II: Application to thermodynamic systems. IFAC-PapersOnLine vol. 51 7–12 (2018) -- [10.1016/j.ifacol.2018.06.002](https://doi.org/10.1016/j.ifacol.2018.06.002)
-- Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
+- [Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012)](on-a-variational-principle-in-thermodynamics) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
 - MrugaŁa, R. Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics vol. 14 419–427 (1978) -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)
 - Mrugala, On contact and metric structures on thermodynamic spaces. RIMS, Kokyuroku (2000)
 - Mrugala, R., Nulton, J. D., Christian Schön, J. & Salamon, P. Contact structure in thermodynamic theory. Reports on Mathematical Physics vol. 29 109–121 (1991) -- [10.1016/0034-4877(91)90017-h](https://doi.org/10.1016/0034-4877(91)90017-h)

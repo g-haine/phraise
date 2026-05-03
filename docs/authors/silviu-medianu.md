@@ -4,7 +4,7 @@ permalink: /authors/silviu-medianu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Silviu Medianu, S. Medianu.</p>
+<p id='info-authors'>Alternative author names: Silviu Medianu.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Silviu Medianu, Laurent Lefèvre</span><h3><a class='post-link' href="{{ site.baseurl }}/structural-identifiability-of-linear-port-hamiltonian-systems">Structural identifiability of linear Port Hamiltonian systems</a></h3></li>

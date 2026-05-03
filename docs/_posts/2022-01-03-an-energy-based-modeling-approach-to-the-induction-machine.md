@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Luis Miguel Esquivel-Sancho](authors/luis-miguel-esquivel-sancho), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Mauricio Munoz-Arias](authors/mauricio-munoz-arias)
+[Luis Miguel Esquivel-Sancho](authors/luis-miguel-esquivel-sancho), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Mauricio Munoz-Arias](authors/raul-s-munoz-aguilar)
  
 ## Abstract
 The induction machine is used in a wide variety of applications as a means of converting electrical energy into mechanical work and vice versa. There is an increasing use of the machine configured as a generator in unconventional wind and micro-hydro energy systems. The advantages of the system range from low cost to simplicity of construction, operation, and maintenance. This work provides a generalization to the port-Hamiltonian model of a squirrel-cage induction motor based on a synchronously rotating reference frame of d-q axes. Furthermore, the port-Hamiltonian formalism is used to provide a modeling approach to a self-excited induction generator which is also deduced for the d-q stationary reference frame. The performance our modeling approach is validated via numerical simulations.

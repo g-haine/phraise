@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Ningbo Li](authors/ningbo-li), [Jacquelien Scherpen](authors/jacquelien-m-a-scherpen), [Arjan Van der Schaft](authors/arjan-van-der-schaft), [Zhiyong Sun](authors/zhiyong-sun)
+[Ningbo Li](authors/ningbo-li), [Jacquelien Scherpen](authors/jacquelien-m-a-scherpen), [Arjan Van der Schaft](authors/arjan-j-van-der-schaft), [Zhiyong Sun](authors/zhiyong-sun)
  
 ## Abstract
 This paper proposes a passivity approach in port-Hamiltonian (pH) form for multi-agent formation control and velocity tracking. The control law consists of two parts, where the internal feedback is to track the velocity and the external feedback is to achieve formation stabilization. Since the dynamics of the controller are associated with the edges, the stability analysis is related to the kernel of the incidence matrix \\( B \\) of the underlying graph. For displacement-based formations, the approach is applicable not only to acyclic graphs, but also to cyclic graphs, in which case the columns of \\( B \\) are not linearly independent. For rigid formations, the passivity approach for distance and bearing formation is proposed. In addition, the relationship between infinitesimal rigidity and convergence of the desired formation is established. The proposed approach is verified by numerical simulations.

@@ -4,7 +4,7 @@ permalink: /authors/maria-luisa-scarpa
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Maria Luisa Scarpa, Maria Luisa Scarpa, M. L. Scarpa.</p>
+<p id='info-authors'>Alternative author names: Maria Luisa Scarpa, M. L. Scarpa.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2026 -- Maria Luisa Scarpa, Thulasi Mylvaganam</span><h3><a class='post-link' href="{{ site.baseurl }}/connections-between-port-controlled-hamiltonian-systems-and-differential-games-and-their-applications-to-decentralised-control-of-multi-agent-systems">Connections between port-controlled Hamiltonian systems and differential games and their applications to decentralised control of multi-agent systems</a></h3></li>

@@ -7,6 +7,7 @@ permalink: /authors/wachiravit-buaket
 <p id='info-authors'>Alternative author names: Wachiravit Buaket.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Wachiravit Buaket, Sittisak Rojchaya, Kittikorn Khanklaeo</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-and-control-design-for-single-phase-pwm-rectifiers">Port-Hamiltonian Modeling and Control Design for Single-Phase Pwm Rectifiers</a></h3></li>
 <li><span class='post-meta'>2023 -- Wachiravit Buaket, Witthawas Pongyart</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-modelling-and-controller-design-approach-for-cascode-buck-boost-converter">A port-Hamiltonian Modelling and Controller Design Approach for Cascode Buck-Boost Converter</a></h3></li>
 <li><span class='post-meta'>2022 -- Wachiravit Buaket, Witthawas Pongyart</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-approach-in-current-controller-design-for-buck-boost-converter">A port-Hamiltonian Approach in Current Controller Design for Buck Boost Converter</a></h3></li>
 

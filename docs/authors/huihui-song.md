@@ -4,9 +4,10 @@ permalink: /authors/huihui-song
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Huihui Song, null Huihui Song, H.H. Song.</p>
+<p id='info-authors'>Alternative author names: Huihui Song, H.H. Song, null Huihui Song.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Manyuan Ye, Chaodong Li, Junda Zhang, Huihui Song</span><h3><a class='post-link' href="{{ site.baseurl }}/unified-energy-shaping-control-strategy-for-grid-connected-photovoltaic-systems">Unified energy shaping control strategy for grid-connected photovoltaic systems</a></h3></li>
 <li><span class='post-meta'>2017 -- Rui Hou, Thai-Thanh Nguyen, Hak-Man Kim, Huihui Song, Yanbin Qu</span><h3><a class='post-link' href="{{ site.baseurl }}/an-energy-based-control-strategy-for-battery-energy-storage-systems-a-case-study-on-microgrid-applications">An Energy-Based Control Strategy for Battery  Energy Storage Systems: A Case Study on  Microgrid Applications</a></h3></li>
 <li><span class='post-meta'>2012 -- Huihui Song, Yanbin Qu, Xinyu Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/bond-graph-and-port-controlled-hamiltonian-model-of-doubly-fed-wind-power-system">Bond graph and port-controlled hamiltonian model of doubly-fed wind power system</a></h3></li>
 <li><span class='post-meta'>2013 -- H.H. Song, Y.B. Qu</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-excitation-control-of-doubly-fed-induction-wind-generator-for-optimum-wind-energy-capture">Energy‐based excitation control of doubly‐fed induction wind generator for optimum wind energy capture</a></h3></li>

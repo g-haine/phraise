@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Luis Mora](authors/luis-a-mora), [Kirsten Morris](authors/kirsten-morris)
+[Luis Mora](authors/luis-a-mora), [Kirsten Morris](authors/kirsten-a-morris)
  
 ## Abstract
 Controller design for distributed parameter systems is often accomplished using a lumped approximation. For a system that is exponentially stable, it is reasonable to expect the approximation to preserve this decay rate. Preservation of the decay rate is important for realistic simulations and also for reliable controller design. We show that a simple mixed finite element method conserves exponential stability for a class of boundary-damped systems that are port-Hamiltonian. The results are illustrated by LQ-optimal controller design for a wave equation with spatially varying physical parameters. The convergence and performance of the controllers obtained using this mixed finite element method are compared to those obtained using a standard finite-element method approximation, which does not preserve the stability margin.

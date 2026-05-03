@@ -4,7 +4,7 @@ permalink: /authors/yanhong-liu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Yanhong Liu, Yan‐Hong Liu, null Yanhong Liu.</p>
+<p id='info-authors'>Alternative author names: Yanhong Liu, null Yanhong Liu.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- Huimin Zhi, Yanhong Liu, Benyan Huo, Hongnian Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/observer-based-adaptive-exponential-tracking-of-port-hamiltonian-systems-via-contraction-method">Observer-Based Adaptive Exponential Tracking of Port - Hamiltonian Systems via Contraction Method</a></h3></li>

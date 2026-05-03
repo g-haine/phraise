@@ -4,7 +4,7 @@ permalink: /authors/jaap-j-w-van-der-vegt
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Jaap J. W. van der Vegt, J.J.W. van der Vegt, J J W van der Vegt, J.J.W. Van der Vegt, J.J.W. van der Vegt, Jaap van der Vegt, J. J. W. Van Der Vegt, Jacobus J.W. van der Vegt, J J Vegt, JACOBUS VAN DER VEGT, Jaap J. W. Van Der Vegt, J. J. W. Vegt, J. VAN DER VEGT, JAAP VAN DER VEGT, van der Vegt, J. van der Vegt, Jaap J.W van der Vegt, J. Van der Vegt, Van der Vegt, J. J. W. van der Vegt.</p>
+<p id='info-authors'>Alternative author names: Jaap J. W. van der Vegt, J J W van der Vegt, J. J. W. van der Vegt, J.J.W. van der Vegt, J.J.W. Van der Vegt.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Xiaoyu Cheng, J. J. W. van der Vegt, Yan Xu, H. J. Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/discontinuous-galerkin-finite-element-methods-for-linear-port-hamiltonian-dynamical-systems">Discontinuous Galerkin Finite Element Methods for Linear Port-Hamiltonian Dynamical Systems</a></h3></li>

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Romeo Ortega](authors/romeo-ortega), [Arjan J. van der Schaft](authors/arjan-van-der-schaft), [Bernhard M. Maschke](authors/bernhard-maschke)
+[Romeo Ortega](authors/romeo-ortega), [Arjan J. van der Schaft](authors/arjan-j-van-der-schaft), [Bernhard M. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 Passivity-based control (PBC) for regulation of mechanical systems is a well established tehcnique that yields robust controllers that have a clear physical interpretation in terms of interconnection of the system with its environment. In particular, the total energy of the closed-loop is the difference between the energy of the system and the energy supplied by the controller. Furthermore, since the Euler-Lagrange (EL) structure is preserved in closed-loop, PBC is robustly stable vis á vis unmodeled dissipative effects and inherits some robust performance measures from its inverse optimality. Unfortunately, these nice properties are lost when PBC is used in other applications, for instance, in electrical and electromechanical systems. Our main objective in this paper is to develop a new PBC theory for port-controlled Hamiltonian (PCH) systems, which result from the network modeling of energy-conserving lumped-parameter physical systems with independent storage elements, and strictly contain the class of EL models. We identify a class of PCH models for which PBC ensures the Hamiltonian structure is preserved, with storage function the energy balance. One final advantage of the method is that it is rather systematic and the controller can be easily derived using symbolic computation

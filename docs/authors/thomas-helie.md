@@ -4,9 +4,11 @@ permalink: /authors/thomas-helie
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Thomas Hélie, Thomas Helie, T. Hélie, Thomas Héle.</p>
+<p id='info-authors'>Alternative author names: Thomas Hélie, Thomas Helie, T. Hélie.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Colette Voisembert, Thomas Hélie, Victor Wetzel, Fabrice Silva</span><h3><a class='post-link' href="{{ site.baseurl }}/conservative-1d-propagation-in-horns-with-mobile-walls-power-balanced-space-time-discretization-and-simulation-of-the-vocal-tract">Conservative 1D propagation in horns with mobile walls: power-balanced space–time discretization and simulation of the vocal tract</a></h3></li>
+<li><span class='post-meta'>2025 -- Thomas Hélie, Maarten Van Walstijn, Michele Ducceschi</span><h3><a class='post-link' href="{{ site.baseurl }}/editorial-sound-synthesis-through-physical-modeling">Editorial: Sound synthesis through physical modeling</a></h3></li>
 <li><span class='post-meta'>2025 -- Thomas Risse, Thomas Hélie, Fabrice Silva</span><h3><a class='post-link' href="{{ site.baseurl }}/voice-synthesis-using-power-balanced-simulation-of-a-quasi-1d-model-of-the-vocal-apparatus">Voice synthesis using power-balanced simulation of a quasi-1D model of the vocal apparatus</a></h3></li>
 <li><span class='post-meta'>2024 -- Alexis Thibault, Thomas Hélie, Henri Boutin, Juliette Chabassier</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-macroscopic-modelling-based-on-the-homogenisation-method-case-of-an-acoustic-pipe-with-a-porous-wall">Port-Hamiltonian Macroscopic Modelling based on the Homogenisation Method: case of an acoustic pipe with a porous wall</a></h3></li>
 <li><span class='post-meta'>2024 -- David Roze, Thomas Hélie, Emmanuelle Rouhaud</span><h3><a class='post-link' href="{{ site.baseurl }}/time-space-formulation-of-a-conservative-string-subject-to-finite-transformations">Time-space formulation of a conservative string subject to finite transformations</a></h3></li>

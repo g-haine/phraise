@@ -7,6 +7,7 @@ permalink: /authors/jochen-merker
 <p id='info-authors'>Alternative author names: Jochen Merker.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2013 -- Jochen Merker, Matthias Krüger</span><h3><a class='post-link' href="{{ site.baseurl }}/on-a-variational-principle-in-thermodynamics">On a variational principle in thermodynamics</a></h3></li>
 <li><span class='post-meta'>2009 -- Jochen Merker</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-geometric-structure-of-hamiltonian-systems-with-ports">On the Geometric Structure of Hamiltonian Systems with Ports</a></h3></li>
 
 </ul>

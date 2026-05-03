@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Pooya Monshizadeh](authors/pooya-monshizadeh), [Juan E. Machado](authors/juan-e-machado), [Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Pooya Monshizadeh](authors/pooya-monshizadeh), [Juan E. Machado](authors/juan-e-machado), [Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 We study a type of port-Hamiltonian system in which the controller or disturbance is not applied to the flow variables, but to the systems power balance equation—a scenario that appears in many practical applications. A suitable framework is provided to model these systems and to investigate their shifted passivity properties, based on which a stability analysis is carried out. The applicability of the results is illustrated with the important problem of stability analysis of electrical circuits with constant power loads.

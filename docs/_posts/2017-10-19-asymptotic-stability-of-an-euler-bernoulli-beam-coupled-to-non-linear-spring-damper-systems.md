@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Yann Le Gorrec](authors/yann-le-gorrec), [Hans Zwart](authors/hans-zwart), [Hector Ramirez](authors/hector-ramirez)
+[Yann Le Gorrec](authors/yann-le-gorrec), [Hans Zwart](authors/hans-j-zwart), [Hector Ramirez](authors/hector-ramirez)
  
 ## Abstract
 The stability of an undamped Euler Bernoulli beam connected to non-linear mass spring damper systems is addressed. It is shown that under mild assumptions on the local behaviour of the non-linear springs and dampers the solutions exist and the system is globally asymptotically stable.

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Xiaoyu Cheng](authors/xiaoyu-cheng), [J. J. W. van der Vegt](authors/jaap-j-w-van-der-vegt), [Yan Xu](authors/yan-xu), [H. J. Zwart](authors/hans-zwart)
+[Xiaoyu Cheng](authors/xiaoyu-cheng), [J. J. W. van der Vegt](authors/jaap-j-w-van-der-vegt), [Yan Xu](authors/yan-xu), [H. J. Zwart](authors/hans-j-zwart)
  
 ## Abstract
 In this paper, we present discontinuous Galerkin (DG) finite element discretizations for a class of linear hyperbolic port-Hamiltonian dynamical systems. The key point in constructing a port-Hamiltonian system is a Stokes-Dirac structure. Instead of following the traditional approach of defining the strong form of the Dirac structure, we define a Dirac structure in weak form, specifically in the input-state-output form. This is implemented within broken Sobolev spaces on a tessellation with polyhedral elements. After that, we state the weak port-Hamiltonian formulation and prove that it relates to a Poisson bracket. In our work, a crucial aspect of constructing the above-mentioned Dirac structure is that we provide a conservative relation between the boundary ports. Next, we state DG discretizations of the port-Hamiltonian system by using the weak form of the Dirac structure and broken polynomial spaces of differential forms, and we provide a priori error estimates for the structure-preserving port-Hamiltonian discontinuous Galerkin (PHDG) discretizations. The accuracy and capability of the methods developed in this paper are demonstrated by presenting several numerical experiments.

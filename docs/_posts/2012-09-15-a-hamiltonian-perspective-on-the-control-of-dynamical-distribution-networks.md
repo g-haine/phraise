@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft), [J. Wei](authors/jieqiang-wei)
+[A.J. van der Schaft](authors/arjan-j-van-der-schaft), [J. Wei](authors/j-wei)
  
 ## Abstract
 We study a basic dynamical distribution network, modeled as a directed graph with storage variables corresponding to the vertices, and unknown but constant inflows and outflows. It is shown how standard PI-control, regulating the storage variables irrespective of the inflows and outflows, corresponds to associating with every edge of the graph a controller state variable, yielding a closed-loop port-Hamiltonian system. Furthermore, it will be shown how regulation is proved by modifying the total Hamiltonian of the port-Hamiltonian system into a Lyapunov function based on the vector of constant inflows and outflows. Subsequently, the results are extended to the case that the input variables are constrained, leading to non-smooth Lyapunov functions.

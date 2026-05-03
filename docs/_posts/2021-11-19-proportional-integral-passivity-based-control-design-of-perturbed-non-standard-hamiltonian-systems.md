@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Thanh Sang Nguyen](authors/thanh-sang-nguyen), [Ngoc Ha Hoang](authors/ngoc-ha-hoang), [Chee Keong Tan](authors/chee-keong-tan), [Mohd Azlan Bin Hussain](authors/mohd-azlan-hussain)
+[Thanh Sang Nguyen](authors/thanh-sang-nguyen), [Ngoc Ha Hoang](authors/ngoc-ha-hoang), [Chee Keong Tan](authors/chee-keong-tan), [Mohd Azlan Bin Hussain](authors/mohd-azlan-bin-hussain)
  
 ## Abstract
 This paper proposes a proportional-integral passivity-based control strategy to stabilize the transformed model of a chemical reaction system, described by vessel extents. It is shown that the transformed model belongs to a class of perturbed non-standard Port-Hamiltonian systems with time-varying unmatched (endogenous) disturbance, thereby limiting the applicability of the integral-action-based design method proposed by Donaire and Junco [A. Donaire and S. Junco. Automatica, 2009] because of a lack of interconnection. The developed method adapts a change of coordinates for the design to add an appropriate interconnection between relative-degree-one states and higher-relative-degree states that allows injecting a necessary damping to achieve asymptotic stability and preserving the PH representation of extended closed-loop system. A reversible reaction system is used to illustrate the proposed approach.

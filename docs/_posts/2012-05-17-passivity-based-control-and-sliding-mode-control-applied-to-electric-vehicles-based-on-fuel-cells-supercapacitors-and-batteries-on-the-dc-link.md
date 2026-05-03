@@ -8,7 +8,7 @@ category: chapters
 ---
  
 ## Authors
-[M. Becherif](authors/mohamed-becherif), [M. Y. Ayad](authors/m-y-ayad), [A. Henni](authors/ahmed-hadj-henni), [M. Wack](authors/maxime-wack), [A. Aboubou](authors/abdennacer-aboubou), [A. Allag](authors/abrar-allag), [M. Sebai](authors/makdad-sebai)
+[M. Becherif](authors/mohamed-becherif), [M. Y. Ayad](authors/m-y-ayad), [A. Henni](authors/a-henni), [M. Wack](authors/m-wack), [A. Aboubou](authors/a-aboubou), [A. Allag](authors/a-allag), [M. Sebai](authors/m-sebai)
  
 ## Abstract
 to control function which compensate this positive value by the difference between the SC voltage and its reference. We are in discharging mode. After the load variation (t > 1.5 s), the current in the DC link became equal to the load current. The SC current I SC became null. We have a small variation in the batteries currents. in the of

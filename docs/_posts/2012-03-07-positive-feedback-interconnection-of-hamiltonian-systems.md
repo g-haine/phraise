@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft)
+[A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Recent results on counterclockwise input-output dynamics and negative-imaginary transfer matrices are interpreted from a geometric Hamiltonian systems point of view, providing additional insights and results.

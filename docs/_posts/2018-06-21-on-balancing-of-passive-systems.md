@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 It is shown how the application of various standard balancing techniques to general lossless systems basically leads to the same result: the pair of to-be-balanced functions is given by two copies of the energy function. Hence balancing will not yield any information about the relative importance of the state components in a balanced realization. This result is extended to the lossy case, indicating that balancing in this case will largely depend on the internal energy dissipation. By using the representation of passive systems as port-Hamiltonian systems a direction for extending standard balancing is discussed.

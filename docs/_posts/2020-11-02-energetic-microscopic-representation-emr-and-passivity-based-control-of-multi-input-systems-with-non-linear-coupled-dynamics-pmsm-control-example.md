@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Ihor Shchur](authors/igor-z-shchur), [Yurii Biletskyi](authors/yurii-o-biletskyi)
+[Ihor Shchur](authors/ihor-z-shchur), [Yurii Biletskyi](authors/yurii-biletskyi)
  
 ## Abstract
 A new energy-based approach to mathematical modeling of multi-physical systems – Energetic Macroscopic Representation (EMR) has already shown its effectiveness in the study of a number objects of electric vehicle, renewable energy, energy storage systems etc. An important advantage of this approach over others is the clear procedure for creating control systems based on the principle of Inversion-Based Control (IBC). However, IBC encounters difficulties in more complex cases when the control object has multi-input subsystems with non-linear coupled dynamics. In this paper, for such cases, it is proposed to apply the description of a complex subsystem as Port Controlled Hamiltonian (PCH) and to synthesize the control system by the method of Interconnection and Damping Assignment, which will provide asymptotic stability of the nonlinear subsystem. The effectiveness of the proposed approach is demonstrated by the example of vector-controlled PMSM for both cases of mounting in the rotor of permanent magnets – surface and interior. The conducted simulation studies showed the effectiveness of the proposed approach and better control quality compared to the Field Oriented Control (FOC) of the components of the armature current vector.

@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Tuấn Đình Phan](authors/tuan-dinh-phan), [Ha Ngoc Hoang](authors/ngoc-ha-hoang)
+[Tuấn Đình Phan](authors/tuan-dinh-phan), [Ha Ngoc Hoang](authors/ha-ngoc-hoang)
  
 ## Abstract
 This paper focuses on boundary control of distributed parameter systems (also called infinite dimensional systems). More precisely, a passivity based approach for the stabilization of temperature profile inside a well-insulated bar with heat conduction in a one-dimensional described by parabolic partial differential equations (PDEs) is developed. This approach is motivated by an appropriate model reduction schema using the finite difference approximation method. On this basis, it allows to discretize and then, write the original parabolic PDEs into a Port Hamiltonian (PH) representation. From this, the boundary control input is therefore synthesized using passive tools to stabilize the temperature at a desired reference profile asymptotically. The infinite dimensional nature of the original distributed parameter system in the PH framework is also discussed. Numerical simulations illustrate the application of the developments.

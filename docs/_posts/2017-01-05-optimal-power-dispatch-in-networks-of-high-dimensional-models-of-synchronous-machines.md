@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Tjerk Stegink](authors/tjerk-w-stegink), [Claudio De Persis](authors/claudio-de-persis), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Tjerk Stegink](authors/tjerk-w-stegink), [Claudio De Persis](authors/claudio-de-persis), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 This paper investigates the problem of optimal frequency regulation of multi-machine power networks where each synchronous machine is described by a sixth order model. By analyzing the physical energy stored in the network and the generators, a port-Hamiltonian representation of the multi-machine system is obtained. Moreover, it is shown that the open-loop system is passive with respect to its steady states which allows the construction of passive controllers to control the multi-machine network. As a special case, a distributed consensus based controller is designed that regulates the frequency and minimizes a global quadratic generation cost in the presence of a constant unknown demand. In addition, the proposed controller allows freedom in choosing any desired connected undirected weighted communication graph.

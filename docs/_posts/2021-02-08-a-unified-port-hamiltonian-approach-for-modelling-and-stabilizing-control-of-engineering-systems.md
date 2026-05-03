@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Ha Ngoc Hoang](authors/ngoc-ha-hoang), [Quyen Phuong Le](authors/quyen-phuong-le), [Chi Thuan Nguyen](authors/chi-thuan-nguyen)
+[Ha Ngoc Hoang](authors/ha-ngoc-hoang), [Quyen Phuong Le](authors/quyen-phuong-le), [Chi Thuan Nguyen](authors/chi-thuan-nguyen)
  
 ## Abstract
 This work deals with systems whose dynamics are aﬃne in the control input. Such dynamics are considered to be significantly diﬀerentially expressed in a canonical form, namely the quadratic (pseudo) port-Hamiltonian representation, in order to explore further some structural properties usable for the tracking-error passivity-based control design. Diﬀerent kinds of linear and nonlinear engineering systems including an open isothermal homogeneous system and a continuous biochemical fermenter are used to illustrate the approach.

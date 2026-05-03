@@ -4,7 +4,7 @@ permalink: /authors/luis-a-mora
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Luis A. Mora, Luis A Mora, Luis Mora, L. Mora.</p>
+<p id='info-authors'>Alternative author names: Luis A. Mora, Luis A Mora, Luis Mora.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Luis Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/controller-design-for-port-hamiltonian-systems-using-fem-approximations">Controller design for port-Hamiltonian systems using FEM approximations</a></h3></li>

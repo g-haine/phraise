@@ -11,7 +11,7 @@ tags:
 ---
  
 ## Authors
-[Eloísa Garcia–Canseco](authors/eloisa-garcia-canseco), [Ramkrishna Pasumarthy](authors/ramkrishna-pasumarthy), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Romeo Ortega](authors/romeo-ortega)
+[Eloísa Garcia–Canseco](authors/eloisa-garcia-canseco), [Ramkrishna Pasumarthy](authors/ramkrishna-pasumarthy), [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Romeo Ortega](authors/romeo-ortega)
  
 ## Abstract
 In the standard approach of control by interconnection the plant and the controller are assumed to be passive and coupled via a power-preserving interconnection-generating an overall passive system with storage function the sum of the plant and controller storage functions. To achieve stabilization of a desired equilibrium one must make this point a minimum of the new storage function. Towards this end, dynamic invariants—called Casimirs—are first computed. Restricting the dynamics to the level sets of the Casimirs, the overall storage function becomes a bona fide function of the plant states and the storage function can be shaped. Unfortunately, this procedure is applicable only if one fixes the initial conditions of the controller to some specific values. To remove this drawback we propose in this paper to carry out the stability analysis in the full plant and controller state spaces. The new storage function is then the sum of the plant and the controller Hamiltonians and an arbitrary functions of the corresponding Casimir functions. We also provide some examples which illustrate the possibilities and limitations of the new method.

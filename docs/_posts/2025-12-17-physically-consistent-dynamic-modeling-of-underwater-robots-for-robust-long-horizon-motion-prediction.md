@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Z. A. Barhoum](authors/z-a-barhoum), [S. A. Kolyubin](authors/sergey-a-kolyubin)
+[Z. A. Barhoum](authors/z-a-barhoum), [S. A. Kolyubin](authors/s-a-kolyubin)
  
 ## Abstract
 Modeling the dynamics of underwater robots is a complex task due to the presence of both parametric and functional uncertainties. These arise from interactions with a viscous medium, a priori uncertainty, and variability in the system’s dynamic parameters, as well as the complexity and computational cost of first-principles models and the challenges of identification procedures. This paper proposes the use of neural network parameterization of ordinary differential equations based on the port-Hamiltonian formalism to develop accurate and computationally efficient dynamic models of underwater robots. These models can be used for trajectory prediction, integration with onboard sensor data for localization systems, and controller synthesis. The proposed approach captures both the physical structure of the system and the impact of uncertainties, enabling the creation of physically grounded, data-driven representations of complex nonlinear dynamics. Comparative experiments with classical identification and modeling methods using real-world data from an underwater robot demonstrate advantages of the proposed method in prediction accuracy and its robustness over long-horizon prediction.

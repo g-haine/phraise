@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[G. Blankenstein](authors/guido-blankenstein), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[G. Blankenstein](authors/guido-blankenstein), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 In this paper we describe the correspondence between symmetries and conservation laws of implicit port-controlled generalized Hamiltonian systems. Furthermore, symmetries of interconnected implicit Hamiltonian systems are studied.

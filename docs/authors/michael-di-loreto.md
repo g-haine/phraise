@@ -1,10 +1,10 @@
 ---
-title: Publications by Michael Di Loreto
+title: Publications by Michael Di-Loreto
 permalink: /authors/michael-di-loreto
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Michael Di Loreto, Michael Di-Loreto.</p>
+<p id='info-authors'>Alternative author names: Michael Di-Loreto, Michael Di Loreto.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- Said Aoues, Michael Di Loreto, Damien Eberard, Wilfrid Marquis-Favre</span><h3><a class='post-link' href="{{ site.baseurl }}/hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability">Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability</a></h3></li>

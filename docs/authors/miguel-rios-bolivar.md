@@ -1,10 +1,10 @@
 ---
-title: Publications by Miguel Rios-Bolívar
+title: Publications by Miguel Ríos-Bolívar
 permalink: /authors/miguel-rios-bolivar
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Miguel Rios-Bolívar, Miguel Ríos-Bolívar.</p>
+<p id='info-authors'>Alternative author names: Miguel Ríos-Bolívar, Miguel Rios-Bolívar.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2005 -- Atilio Morillo, Miguel Rios-Bolívar, Vivian Acosta</span><h3><a class='post-link' href="{{ site.baseurl }}/feedback-regulation-of-a-dc-motor-via-interconnection-and-damping-assignment">FEEDBACK REGULATION OF A DC MOTOR VIA INTERCONNECTION AND DAMPING ASSIGNMENT</a></h3></li>

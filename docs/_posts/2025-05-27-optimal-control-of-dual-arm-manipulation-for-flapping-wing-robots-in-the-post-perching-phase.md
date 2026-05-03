@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Sahar Sadeghi Kordkheili](authors/sahar-sadeghi-kordkheili), [Antonio Gonzalez-Morgado](authors/antonio-gonzalez-morgado), [Saeed Rafee Nekoo](authors/saeed-rafee-nekoo), [Begoña C. Arrue](authors/b-c-arrue), [Anibal Ollero](authors/anibal-ollero)
+[Sahar Sadeghi Kordkheili](authors/sahar-sadeghi-kordkheili), [Antonio Gonzalez-Morgado](authors/antonio-gonzalez-morgado), [Saeed Rafee Nekoo](authors/saeed-rafee-nekoo), [Begoña C. Arrue](authors/begona-c-arrue), [Anibal Ollero](authors/anibal-ollero)
  
 ## Abstract
 This work investigates cooperative dual-arm manipulation between two ornithopters in the post-perching phase. Flapping wing aerial systems are lightweight platforms designed to imitate bird flight, suitable for environmental monitoring tasks. When interacting with their environment, these systems must be able to perch on a branch as an initial step, followed by adjusting their position to achieve the desired pose and workspace. This research explores the application of a Port-Hamiltonian-based control method for designing and analysing controllers in cooperative manipulation by two ornithopters during the post-perching phase. The connection of end effectors while holding an object adds complexity and constraints to the problem. To address this, an energy-based approach using Optimal Port-Hamiltonian control and Optimal Load Distribution (OLD) is employed to evenly distribute the load between the arms. The effectiveness and advantages of this method are demonstrated through the defined scenario in which an optimal control law is implemented to derive an efficient trajectory for cooperative manipulation while tracking the desired elliptical path.

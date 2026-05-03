@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[D. Sharma](authors/dhruv-sharma), [null Guomin Ji](authors/guomin-ji), [null Wanghao Fei](authors/wanghao-fei), [null Di Wu](authors/di-wu), [P. Moses](authors/poul-georg-moses), [J.N. Jiang](authors/jiangni-yun)
+[D. Sharma](authors/d-sharma), [null Guomin Ji](authors/null-guomin-ji), [null Wanghao Fei](authors/wanghao-fei), [null Di Wu](authors/di-wu), [P. Moses](authors/p-moses), [J.N. Jiang](authors/j-n-jiang)
  
 ## Abstract
 No  available

@@ -4,7 +4,7 @@ permalink: /authors/remy-muller
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Rémy Müller, Müller Remy, Remy Muller, Rémy Muller, Remy Müller, R.C. Muller, Rémy Müller, Müller Remy, Rémy Müller.</p>
+<p id='info-authors'>Alternative author names: Rémy Müller, Remy Muller.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Judy Najnudel, Remy Muller, Thomas Helie, David Roze</span><h3><a class='post-link' href="{{ site.baseurl }}/identification-of-nonlinear-circuits-as-port-hamiltonian-systems">Identification of Nonlinear Circuits as Port-Hamiltonian Systems</a></h3></li>

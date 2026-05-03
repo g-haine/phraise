@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Christopher Beattie](authors/christopher-beattie), [Serkan Gugercin](authors/serkan-gugercin), [Volker Mehrmann](authors/volker-mehrmann)
+[Christopher Beattie](authors/christopher-a-beattie), [Serkan Gugercin](authors/serkan-gugercin), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
 We examine interpolatory model reduction methods that are particularly well-suited for treating large-scale port-Hamiltonian differential-algebraic systems. We are able to take advantage of underlying structural features of the system in a way that preserves them in the reduced model, using approaches that incorporate regularization and a prudent selection of interpolation data. We focus on linear time-invariant systems and present a systematic treatment of a variety of model classes that include combinations of index-1 and index-2 systems, describing in particular how constraints may be represented in the transfer function so that the polynomial part can be preserved with interpolatory methods. We propose an algorithm to generate effective interpolatory models and illustrate its effectiveness on a numerical example.

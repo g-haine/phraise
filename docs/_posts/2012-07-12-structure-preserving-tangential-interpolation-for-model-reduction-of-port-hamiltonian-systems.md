@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Serkan Gugercin](authors/serkan-gugercin), [Rostyslav V. Polyuga](authors/rostyslav-v-polyuga), [Christopher Beattie](authors/christopher-beattie), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Serkan Gugercin](authors/serkan-gugercin), [Rostyslav V. Polyuga](authors/rostyslav-v-polyuga), [Christopher Beattie](authors/christopher-a-beattie), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Port-Hamiltonian systems result from port-based network modeling of physical systems and are an important example of passive state-space systems. In this paper, we develop a framework for model reduction of large-scale multi-input/multi-output port-Hamiltonian systems via tangential rational interpolation. The resulting reduced model is a rational (tangential) interpolant that retains the port-Hamiltonian structure; hence it remains passive. We introduce an H 2 -inspired algorithm for effective choice of interpolation points and tangent directions and present several numerical examples illustrating its effectiveness.

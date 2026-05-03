@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[F Ficuciello](authors/f-ficuciello), [R Carloni](authors/raffaella-carloni), [L C Visser](authors/l-c-visser), [S Stramigioli](authors/stefano-stramigioli)
+[F Ficuciello](authors/fanny-ficuciello), [R Carloni](authors/raffaella-carloni), [L C Visser](authors/l-c-visser), [S Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 In this paper, we present a port-Hamiltonian model of a multi-fingered robotic hand, with soft-pads, while grasping and manipulating an object. The algebraic constraints of the interconnected systems are represented by a geometric object, called Dirac structure. This provides a powerful way to describe the non-contact to contact transition and contact viscoelasticity, by using the concepts of energy flows and power preserving interconnections. Using the port based model, an Intrinsically Passive Controller (IPC) is used to control the internal forces. Simulation results validate the model and demonstrate the effectiveness of the port-based approach.

@@ -4,7 +4,7 @@ permalink: /authors/biao-huang
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Biao Huang, Biao. Huang, B. Huang, Huang Biao.</p>
+<p id='info-authors'>Alternative author names: Biao Huang.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Negareh Mahboubi, Junyao Xie, Biao Huang</span><h3><a class='post-link' href="{{ site.baseurl }}/physics-guided-transfer-learning-for-bayesian-optimization-of-chemical-port-hamiltonian-systems">Physics-guided transfer learning for Bayesian optimization of chemical port-Hamiltonian systems</a></h3></li>

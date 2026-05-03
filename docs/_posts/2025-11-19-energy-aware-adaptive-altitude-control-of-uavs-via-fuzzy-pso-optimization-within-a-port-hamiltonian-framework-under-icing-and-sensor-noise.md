@@ -2,7 +2,7 @@
 title: "Energy-Aware Adaptive Altitude Control of UAVs via Fuzzy–PSO Optimization Within a Port-Hamiltonian Framework Under Icing and Sensor Noise"
 date: 2025-11-19 00:00:00 +0100
 permalink: energy-aware-adaptive-altitude-control-of-uavs-via-fuzzy-pso-optimization-within-a-port-hamiltonian-framework-under-icing-and-sensor-noise
-year: 2025
+year: 2026
 authors: Erol Can
 category: articles
 tags:
@@ -20,10 +20,10 @@ autonomous systems, fuzzy logic, icing effects, intelligent flight control, nonl
  
 ## Citation
 - **Journal:** International Journal of Aeronautical and Space Sciences
-- **Year:** 2025
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Year:** 2026
+- **Volume:** 27
+- **Issue:** 3
+- **Pages:** 2552--2568
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s42405-025-01087-2](https://doi.org/10.1007/s42405-025-01087-2)
  
@@ -32,12 +32,15 @@ autonomous systems, fuzzy logic, icing effects, intelligent flight control, nonl
 {% raw %}
 @article{Can_2025,
   title={{Energy-Aware Adaptive Altitude Control of UAVs via Fuzzy–PSO Optimization Within a Port-Hamiltonian Framework Under Icing and Sensor Noise}},
+  volume={27},
   ISSN={2093-2480},
   DOI={10.1007/s42405-025-01087-2},
+  number={3},
   journal={International Journal of Aeronautical and Space Sciences},
   publisher={Springer Science and Business Media LLC},
   author={Can, Erol},
-  year={2025}
+  year={2025},
+  pages={2552--2568}
 }
 {% endraw %}
 {% endhighlight %}
@@ -58,12 +61,12 @@ autonomous systems, fuzzy logic, icing effects, intelligent flight control, nonl
 - B Ma, IEEE Trans Instrum Meas (2023)
 - Shami TM, El-Saleh AA, Alswaitti M, Al-Tashi Q, Summakieh MA, Mirjalili S (2022) Particle Swarm Optimization: A Comprehensive Survey. IEEE Access 10:10031–10061. https://doi.org/10.1109/access.2022.314285 -- [10.1109/access.2022.3142859](https://doi.org/10.1109/access.2022.3142859)
 - Hussain A, Li S, Hussain T, Attar RW, Ali F, Alhomoud A, Shah B (2024) Integrated Energy-Efficient Distributed Link Stability Algorithm for UAV Networks. CMC 81(2):2357–2394. https://doi.org/10.32604/cmc.2024.05669 -- [10.32604/cmc.2024.056694](https://doi.org/10.32604/cmc.2024.056694)
-- Ahmed M, Soofi AA, Khan F, Raza S, Khan WU, Su L, Xu F, Han Z (2025) Toward a Sustainable Low-Altitude Economy: A Survey of Energy-Efficient RIS-UAV Networks. IEEE Internet Things J :1–1. https://doi.org/10.1109/jiot.2025.361848 -- [10.1109/jiot.2025.3618483](https://doi.org/10.1109/jiot.2025.3618483)
+- Ahmed M, Soofi AA, Khan F, Raza S, Khan WU, Su L, Xu F, Han Z (2025) Toward a Sustainable Low-Altitude Economy: A Survey of Energy-Efficient RIS–UAV Networks. IEEE Internet Things J 12(24):51951–51975. https://doi.org/10.1109/jiot.2025.361848 -- [10.1109/jiot.2025.3618483](https://doi.org/10.1109/jiot.2025.3618483)
 - Amer TS, Amer WS, Fakharany M, Elneklawy AH, El-Kafly HF (2025) Modeling of the Euler-Poisson Equations for Rigid Bodies in the Context of the Gyrostatic Influences: An Innovative Methodology. Eur J Pure Appl Math 18(1):5712. https://doi.org/10.29020/nybg.ejpam.v18i1.571 -- [10.29020/nybg.ejpam.v18i1.5712](https://doi.org/10.29020/nybg.ejpam.v18i1.5712)
 - Amer T, Elneklawy A, El-Kafly H (2025) Dynamical motion of a spacecraft containing a slug and influenced by a gyrostatic moment and constant torques. Journal of Low Frequency Noise, Vibration and Active Control 44(3):1708–1725. https://doi.org/10.1177/1461348425132223 -- [10.1177/14613484251322235](https://doi.org/10.1177/14613484251322235)
 - Amer T, El-Kafly H, Elneklawy A, Galal A (2025) Stability analysis of a rotating rigid body: The role of external and gyroscopic torques with energy dissipation. Journal of Low Frequency Noise, Vibration and Active Control 44(3):1502–1515. https://doi.org/10.1177/1461348425132458 -- [10.1177/14613484251324586](https://doi.org/10.1177/14613484251324586)
 - Amer TS, Alanazy A, Elneklawy AH, Amer WS, El-Kafly HF (2026) Asymptotic solutions for the 3D motion of asymmetric charged gyrostatic satellite using poincaré small parameter technique. Aerospace Science and Technology 168:110764. https://doi.org/10.1016/j.ast.2025.11076 -- [10.1016/j.ast.2025.110764](https://doi.org/10.1016/j.ast.2025.110764)
-- Elneklawy AH, Amer TS, Alanazy A, El-Kafly HF, Sallam AA (2025) Nonlinear dynamical behavior of a three-degree-of-freedom asymmetric rigid body under gyroscopic torque. Journal of Low Frequency Noise, Vibration and Active Control. https://doi.org/10.1177/1461348425138506 -- [10.1177/14613484251385065](https://doi.org/10.1177/14613484251385065)
+- Elneklawy AH, Amer TS, Alanazy A, El-Kafly HF, Sallam AA (2025) Nonlinear dynamical behavior of a three-degree-of-freedom asymmetric rigid body under gyroscopic torque. Journal of Low Frequency Noise, Vibration and Active Control 45(1):150–177. https://doi.org/10.1177/1461348425138506 -- [10.1177/14613484251385065](https://doi.org/10.1177/14613484251385065)
 - T Oktay, Int J Mech Aerosp Ind Mechatron Manuf Eng (2016)
 - ÜNAL N, ÖZ Y, ÜNAL EA, OKTAY T (2025) Enhancing aerodynamic performance of a two-dimensional airfoil using plasma actuators. Aerospace Science and Technology 158:109882. https://doi.org/10.1016/j.ast.2024.10988 -- [10.1016/j.ast.2024.109882](https://doi.org/10.1016/j.ast.2024.109882)
 - Şahin H (2025) Multi-objective stochastical revision of piston-prop MUAV for maximization of autonomous performance, range, endurance and ceiling altitude. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering 239(12):1451–1463. https://doi.org/10.1177/0954410025133284 -- [10.1177/09544100251332842](https://doi.org/10.1177/09544100251332842)

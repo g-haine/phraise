@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[David Navarro-Alarcon](authors/david-navarro-alarcon), [Yun-Hui Liu](authors/yun-hui-liu), [Jose Guadalupe Romero](authors/jose-guadalupe-romero), [Peng Li](authors/peng-li)
+[David Navarro-Alarcon](authors/david-navarro-alarcon), [Yun-Hui Liu](authors/yunhui-liu), [Jose Guadalupe Romero](authors/jose-guadalupe-romero), [Peng Li](authors/peng-li)
  
 ## Abstract
 In this brief, we address the robust force regulation problem of mechanical systems in physical interaction with compliant environments. The control method that we present is entirely derived under the energy shaping framework. Note that for compliant interactions, standard energy shaping methods (i.e., potential shaping controls using static-state feedback actions) cannot guarantee asymptotic stability since they are not robust to unmodeled forces. To cope with this issue, in this brief, we integrate force sensory feedback with a robust energy shaping design. This methodology allows us to incorporate integral force controls while preserving in closed loop the port-Hamiltonian structure, something that is not possible with traditional force regulators. We discuss the practical implementation of our method and provide simple numerical algorithms to compute in real time some of its control terms. To validate our approach, we report an experimental study with an open architecture robot manipulator.

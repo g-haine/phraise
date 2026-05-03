@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Marko Šešlija](authors/marko-seslija), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Marko Šešlija](authors/marko-seslija), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
  This paper offers a geometric framework for modeling port-Hamiltonian systems on discrete manifolds. The simplicial Dirac structure, capturing the topological laws of the system, is defined in terms of primal and dual cochains related by the coboundary operators. This finite-dimensional Dirac structure, as discrete analogue of the canonical Stokes-Dirac structure, allows for the formulation of finite-dimensional port-Hamiltonian systems that emulate the behaviour of the open distributed-parameter systems with Hamiltonian dynamics.

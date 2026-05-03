@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[D. Eberard](authors/damien-eberard), [B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[D. Eberard](authors/damien-eberard), [B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 For numerical simulation and control design purposes, a mixed‐finite element method [3] preserving the port Hamiltonian structure of the system has been developed [2]. This method was successfully applied for 1D systems. In this paper, we shall suggest some generalization of this result to higher dimensional spatial domain (3D) using Whitney forms as Galerkin base. The discretization procedure is illustrated on Maxwell's equations. (© 2008 WILEY‐VCH Verlag GmbH &amp; Co. KGaA, Weinheim)

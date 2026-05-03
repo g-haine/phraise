@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Humberto González](authors/humberto-gonzalez), [Manuel A. Duarte-Mermoud](authors/manuel-a-duarte-mermoud), [Ian Pelissier](authors/ian-s-pelissier), [Juan Carlos Travieso-Torres](authors/juan-carlos-travieso-torres), [Romeo Ortega](authors/romeo-ortega)
+[Humberto González](authors/humberto-gonzalez), [Manuel A. Duarte-Mermoud](authors/manuel-a-duarte-mermoud), [Ian Pelissier](authors/ian-pelissier), [Juan Carlos Travieso-Torres](authors/juan-carlos-travieso-torres), [Romeo Ortega](authors/romeo-ortega)
  
 ## Abstract
 A new control scheme for induction motors is proposed in the present paper, applying the interconnection and damping assignment-passivity based control (IDA-PBC) method. The scheme is based exclusively on passivity based control, without restricting the input frequency as it is done in field oriented control (FOC). A port-controlled Hamiltonian (PCH) model of the induction motor is deduced to make the interconnection and damping of energy explicit on the scheme. The proposed controller is validated under computational simulations and experimental tests using an inverter prototype.

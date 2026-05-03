@@ -1,10 +1,10 @@
 ---
-title: Publications by Rodolfo Reyes-Báez
+title: Publications by Rodolfo Reyes‐Báez
 permalink: /authors/rodolfo-reyes-baez
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Rodolfo Reyes-Báez, Rodolfo Reyes-Baez, Rodolfo Reyes‐Báez.</p>
+<p id='info-authors'>Alternative author names: Rodolfo Reyes‐Báez, Rodolfo Reyes-Baez, Rodolfo Reyes-Báez.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Rodolfo Reyes-Báez, Arjan van der Schaft, Bayu Jayawardhana</span><h3><a class='post-link' href="{{ site.baseurl }}/virtual-contractivity-based-control-of-fully-actuated-mechanical-systems-in-the-port-hamiltonian-framework">Virtual contractivity-based control of fully-actuated mechanical systems in the port-Hamiltonian framework</a></h3></li>

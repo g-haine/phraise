@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Sowmya J](authors/sowmya-j), [Arunkumar D Mahindrakar](authors/arun-d-mahindrakar), [Lakshminarasamma N](authors/n-lakshminarasamma)
+[Sowmya J](authors/sowmya-j), [Arunkumar D Mahindrakar](authors/arunkumar-d-mahindrakar), [Lakshminarasamma N](authors/lakshminarasamma-n)
  
 ## Abstract
 Traditionally, Single-Input, Multi-Output (SIMO) DC-DC converters - a category of multiport converters, have been used for multiple supplies with different output levels in hybrid and electric vehicles in both their isolated and non-isolated versions. The emerging idea is to use one controllable switch to avoid synchronisation problem among switches. A key challenge lies in modeling the SIMO converters due to its differential algebraic nature and increased state-space dimension. This work proposes a port-Hamiltonian approach for modeling the SIMO converters. Controller design involves both current and voltage control of non-isolated SIMO converters in order to achieve largesignal stability and steady-state accuracy of multiple outputs. Simulations are performed on a DC-DC SEPIC-Boost converter to compare the time-domain and the frequency-domain responses of the states in the proposed model w.r.t. the actual circuit model. The response of the converter to large variations in the load is also simulated.

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Marko Seslija](authors/marko-seslija), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
+[Marko Seslija](authors/marko-seslija), [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
 Stokes-Dirac structures are infinite-dimensional Dirac structures defined in terms of differential forms on a smooth manifold with boundary. These Dirac structures lay down a geometric framework for the formulation of Hamiltonian systems with a nonzero boundary energy flow. Simplicial triangulation of the underlaying manifold leads to the so-called simplicial Dirac structures, discrete analogues of Stokes-Dirac structures, and thus provides a natural framework for deriving finite-dimensional port-Hamiltonian systems that emulate their infinite-dimensional counterparts. The port-Hamiltonian systems defined with respect to Stokes-Dirac and simplicial Dirac structures exhibit gauge and a discrete gauge symmetry, respectively. In this paper, employing Poisson reduction we offer a unified technique for the symmetry reduction of a generalized canonical infinite-dimensional Dirac structure to the Poisson structure associated with Stokes-Dirac structures and of a fine-dimensional Dirac structure to simplicial Dirac structures. We demonstrate this Poisson scheme on a physical example of the vibrating string.

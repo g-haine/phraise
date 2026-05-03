@@ -18,7 +18,7 @@ tags:
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft)
+[A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
  In this paper we investigate the relationships between port-Hamiltonian and gradient systems; primarily in the linear case. We show how the combination of the property of passivity with that of a gradient system leads to a class of systems which can be directly related to the classical Brayton-Moser description of RLC circuits.

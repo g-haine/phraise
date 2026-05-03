@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[A.J. van der Schaft](authors/arjan-van-der-schaft), [B.M. Maschke](authors/bernhard-maschke)
+[A.J. van der Schaft](authors/arjan-j-van-der-schaft), [B.M. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 Directed graphs are shown to be endowed with a canonical Dirac structure, which is used for formulating standard consensus and coordination control algorithms as port-Hamiltonian systems.

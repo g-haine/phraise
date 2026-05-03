@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[B. Maschke](authors/bernhard-maschke), [R. Ortega](authors/romeo-ortega), [A.J. Van Der Schaft](authors/arjan-van-der-schaft)
+[B. Maschke](authors/bernhard-maschke), [R. Ortega](authors/romeo-ortega), [A.J. Van Der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 No  available

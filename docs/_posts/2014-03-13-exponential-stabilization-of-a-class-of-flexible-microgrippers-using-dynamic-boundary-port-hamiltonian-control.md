@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Hans Zwart](authors/hans-zwart)
+[Hector Ramirez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 This paper deals with the control of a class of simplified models for flexible micro-grippers for DNA manipulation. The overall system is first modelled as a boundary controlled port Hamiltonian system made up as the interconnection of an infinite dimensional system (modelled as an undamped Timoshenko beam) representing the flexible arm of the gripper with two finite dimensional systems representing the DNA bundle and the suspension/actuator mechanism. The base of the arm is clamped on the suspension mechanism leading to under actuated system. The controller considered under strict dissipative port Hamiltonian format uses the velocity of the base of the tweezers arm as input and generates a force as output. The exponential stability of the closed loop system is derived by checkininfinite and finite dimensional system.g simple conditions on both the infinite and finite dimensional system.

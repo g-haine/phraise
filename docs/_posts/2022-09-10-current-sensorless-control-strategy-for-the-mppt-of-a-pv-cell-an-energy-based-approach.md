@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Hayden Phillips-Brenes](authors/hayden-phillips-brenes), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Renato Rímolo-Donadío](authors/renato-rimolo-donadio), [Mauricio Muñoz-Arias](authors/mauricio-munoz-arias)
+[Hayden Phillips-Brenes](authors/hayden-phillips-brenes), [Roberto Pereira-Arroyo](authors/roberto-pereira-arroyo), [Renato Rímolo-Donadío](authors/renato-rimolo-donadio), [Mauricio Muñoz-Arias](authors/raul-s-munoz-aguilar)
  
 ## Abstract
 A novel energy-based modelling and control strategy is developed and implemented to solve the maximum power point tracking problem when a photovoltaic cell array is connected to consumption loads. A mathematical model that contains key characteristic parameters of an energy converter stage connected to a photovoltaic cell array is proposed and recast using the port-Hamiltonian framework. The system consists of input-output power port pairs and storage and dissipating elements. Then, a current-sensorless control loop for a maximum power point tracking is designed, acting over the energy converter stage and following an interconnection and damping assignment passivity-based strategy. The performance of the proposed strategy is compared to a (classical) sliding mode control law. Our energy-based strategy is implemented in a hardware platform with a sampling rate of 122 Hz, resulting in lower dynamic power consumption compared to other maximum power point tracking control strategies. Numerical simulations and experimental results validate the performance of the proposed energy-based modelling and the novel control law approach.

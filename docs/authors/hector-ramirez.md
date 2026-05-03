@@ -1,12 +1,14 @@
 ---
-title: Publications by Hector Ramirez
+title: Publications by Héctor Ramírez
 permalink: /authors/hector-ramirez
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Hector Ramirez, H. Ramirez, Héctor Ramírez, H. Ramírez, Héctor Ramirez, Hector Ramírez.</p>
+<p id='info-authors'>Alternative author names: Héctor Ramírez, Hector Ramirez, Hector Ramírez, Héctor Ramirez, H. Ramirez, H. Ramírez.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Emilio José Olivares-Labraña, Maximilian Mogler, Laurent Lefévre, Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-time-approximations-for-port-hamiltonian-systems-and-controllers-using-collocation-methods">Discrete-Time Approximations for Port-Hamiltonian Systems and Controllers Using Collocation Methods</a></h3></li>
+<li><span class='post-meta'>2025 -- Nelson Cisneros, Cristobal Ponce, Yongxin Wu, Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/position-and-anti-drift-control-of-large-scale-curling-hasel-actuators">Position and anti-drift control of large-scale curling HASEL actuators</a></h3></li>
 <li><span class='post-meta'>2026 -- Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-framework-for-the-modeling-and-fem-discretization-of-hyperelastic-systems">A port-Hamiltonian framework for the modeling and FEM discretization of hyperelastic systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/constrained-port-hamiltonian-modeling-and-structure-preserving-discretization-of-the-rayleigh-beam">Constrained port-Hamiltonian modeling and structure-preserving discretization of the Rayleigh beam</a></h3></li>
 <li><span class='post-meta'>2025 -- Ignacio Díaz, Héctor Ramírez, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/modular-passivity-based-modelling-of-piezoelectric-actuators">Modular passivity-based modelling of piezoelectric actuators</a></h3></li>

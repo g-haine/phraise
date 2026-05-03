@@ -4,7 +4,7 @@ permalink: /authors/rostyslav-v-polyuga
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Rostyslav V. Polyuga, R.V. Polyuga, Rostylav V. Polyuga.</p>
+<p id='info-authors'>Alternative author names: Rostyslav V. Polyuga, Rostylav V. Polyuga, R.V. Polyuga.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2009 -- Rostyslav V. Polyuga, Arjan van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/moment-matching-for-linear-port-hamiltonian-systems0">Moment matching for linear port-Hamiltonian systems</a></h3></li>

@@ -4,7 +4,7 @@ permalink: /authors/yuzhen-wang
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Yuzhen Wang, Yu-Zhen WANG, YuZhen Wang, Yu Zhen Wang, null Yuzhen Wang.</p>
+<p id='info-authors'>Alternative author names: Yuzhen Wang, null Yuzhen Wang, Yu Zhen Wang, YuZhen Wang, Yu-Zhen WANG.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2014 -- Chang-Sheng LI, Yu-Zhen WANG</span><h3><a class='post-link' href="{{ site.baseurl }}/protocol-design-for-output-consensus-of-port-controlled-hamiltonian-multi-agent-systems">Protocol Design for Output Consensus of Port-controlled Hamiltonian Multi-agent Systems</a></h3></li>

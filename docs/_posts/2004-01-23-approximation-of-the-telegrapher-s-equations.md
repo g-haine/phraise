@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[G. Golo](authors/goran-golo), [V. Talasila](authors/viswanath-talasila), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[G. Golo](authors/goran-golo), [V. Talasila](authors/viswanath-talasila), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 The problem of approximating a distributed parameter system with free boundary conditions is solved for the 1-dimensional Telegrapher's equations. The Telegrapher's equations are described using an infinite-dimensional port-Hamiltonian model, and we derive a finite dimensional port-Hamiltonian model using a mixed finite-element procedure. We show that energy conservation, passivity and some dynamic invariants are preserved in the discretization.

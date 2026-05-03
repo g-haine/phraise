@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Port-based modeling of general multi-physics systems leads to port-Hamiltonian system formulations, which make explicit the underlying network and energetic structure. Key properties are (shifted) passivity, compositionality, and existence of conserved quantities. This provides powerful tools for simulation, analysis, and control.

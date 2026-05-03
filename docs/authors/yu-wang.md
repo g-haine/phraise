@@ -7,6 +7,7 @@ permalink: /authors/yu-wang
 <p id='info-authors'>Alternative author names: Yu Wang.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Weizheng Wang, Chao Yu, Yu Wang, Byung-Cheol Min</span><h3><a class='post-link' href="{{ site.baseurl }}/human-robot-cooperative-distribution-coupling-for-hamiltonian-constrained-social-navigation">Human-Robot Cooperative Distribution Coupling for Hamiltonian-Constrained Social Navigation</a></h3></li>
 <li><span class='post-meta'>2021 -- Weijun Zhou, Yongxin Wu, Haiqiang Hu, Yanjun Li, Yu Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-modeling-and-ida-pbc-control-of-an-ipmc-actuated-flexible-beam">Port-Hamiltonian Modeling and IDA-PBC Control of an IPMC-Actuated Flexible Beam</a></h3></li>
 <li><span class='post-meta'>2020 -- Yu Wang, Haisheng Yu, Jinpeng Yu, Herong Wu, Xudong liu</span><h3><a class='post-link' href="{{ site.baseurl }}/a-modified-energy-and-signal-coordination-control-strategy-for-a-robotic-system">A Modified Energy and Signal Coordination Control Strategy for a Robotic System</a></h3></li>
 

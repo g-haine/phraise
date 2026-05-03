@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Qian Gao](authors/qian-gao), [Chengxing Lv](authors/chengxing-lv), [Na Zhao](authors/na-zhao), [Hechao Zang](authors/hechao-zang), [Huilue Jiang](authors/huilue-jiang), [Zhaowen Zhang](authors/zhaowen-zhang), [Fengli Zhang](authors/fengli-zhang)
+[Qian Gao](authors/qian-gao), [Chengxing Lv](authors/chengxing-lv), [Na Zhao](authors/na-zhao), [Hechao Zang](authors/hechao-zang), [Huilue Jiang](authors/hui-lue-jiang), [Zhaowen Zhang](authors/zhaowen-zhang), [Fengli Zhang](authors/fengli-zhang)
  
 ## Abstract
 Permanent-magnet synchronous motor is widely adopted in many fields with the advantage of a high efficiency and a high torque density. Regenerative Braking Systems (RBS) provide an efficient method to assist PMSM system achieve better fuel economy and lowering exhaust emissions. This paper describes the design and testing of the regenerative braking systems of PMSM. The mode of PWM duty has been adjusted to control regenerative braking of PMSM using energy controller for the port-controlled Hamiltonian model. The simulation analysis indicates that a smooth control could be realized and the highest efficiency and the smallest current ripple could be achieved by Regenerative Braking Systems.

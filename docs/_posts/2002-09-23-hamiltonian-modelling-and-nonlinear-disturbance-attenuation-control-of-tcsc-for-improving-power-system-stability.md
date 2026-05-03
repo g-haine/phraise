@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Y.Z. Sun](authors/yuanzhang-sun), [Q.J. Liu](authors/q-j-liu), [Y.H. Song](authors/y-h-song), [T.L. Shen](authors/t-l-shen)
+[Y.Z. Sun](authors/yuanzhang-sun), [Q.J. Liu](authors/q-j-liu), [Y.H. Song](authors/y-h-song), [T.L. Shen](authors/tielong-shen)
  
 ## Abstract
 To tackle the obstacle of applying passivity-based control (PBC) into power systems, an affine non-linear system widely existing in power systems is formulated as a standard Hamiltonian system using a pre-feedback method. The port controlled Hamiltonian with dissipation (PCHD) model of TCSC is then established corresponding with a revised Hamiltonian function. Furthermore, employing the modified Hamiltonian function directly as the storage function, a non-linear adaptive L2 gain control method is proposed to solve the problem of L2 gain disturbance attenuation for this Hamiltonian system with parametric perturbations. Finally, simulation results are presented to verify the validity of the proposed controller.

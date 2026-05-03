@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[O. D. Montoya](authors/oscar-danilo-montoya), [F. M. Serra](authors/federico-m-serra), [W. Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [E. M. Asensio](authors/e-m-asensio), [C. H. De Angelo](authors/cristian-h-de-angelo)
+[O. D. Montoya](authors/oscar-danilo-montoya), [F. M. Serra](authors/federico-martin-serra), [W. Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [E. M. Asensio](authors/e-m-asensio), [C. H. De Angelo](authors/cristian-h-de-angelo)
  
 ## Abstract
 This paper addresses the problem of sinusoidal voltage generation in linear loads using a voltage source inverter (VSI). The port-Hamiltonian structure in open-loop is used to design a passivity-based controller with proportional-integral gains (PI-PBC) in order to develop the control strategy. The main advantage of using passivity-based controllers corresponds to the possibility of guaranteeing asymptotic stability by transforming the trajectory tracking problem into a regulation control one. In addition to the PI-PBC, a linear load estimator is employed based on an integral formulation to determine the value of the equivalent conductance in the load, which reduces the number of current sensors. Numerical validations demonstrate that the sinusoidal voltage provided by the VSI to the load has a tracking error lower than 1 %, with harmonic distortions lower than 2.6 %, both for voltage and currents in the load. All the simulations were conducted in MATLAB/Simulink using the SimPowerSystems library version 2017a.

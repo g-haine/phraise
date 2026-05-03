@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 This paper discusses the geometric formulation of the dynamics of chemical reaction networks within the port-Hamiltonian formalism [10, 9, 6]. The basic idea dates back to the innovative work of Oster, Perselson and Katchalsky [8, 7]. The main contribution concerns the formulation of a Dirac structure based on the stoichiometric matrix, which is underlying the port-Hamiltonian formulation. Interaction with the environment is modelled through the boundary metabolites and their boundary fluxes and affinities. This allows a compositional view on chemical reaction network dynamics.

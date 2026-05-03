@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[C. Morvan](authors/c-morvan), [H. Cormerais](authors/herve-cormerais), [P.Y. Richard](authors/p-y-richard), [J. Buisson](authors/j-buisson)
+[C. Morvan](authors/c-morvan), [H. Cormerais](authors/h-cormerais), [P.Y. Richard](authors/p-y-richard), [J. Buisson](authors/j-buisson)
  
 ## Abstract
 This paper addresses the control of switching systems with Boolean inputs and state equations in DAE form. A generalization of Passivity Based Control is proposed and fitted to bond graph formalism in the general case where derivative causality occur in the models. The state equations deduced from the original bond graph models are first made explicit via a special variable change, then interpreted according to Port Controlled Hamiltonian formalism. The whole approach is presented in a formal way, and illustrated on the example of a power converter.

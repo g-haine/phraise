@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[H.H. Song](authors/huihui-song), [Y.B. Qu](authors/yanbin-qu)
+[H.H. Song](authors/huihui-song), [Y.B. Qu](authors/y-b-qu)
  
 ## Abstract
 A novel nonlinear energy‐based excitation controlling strategy for variable‐speed doubly‐fed induction wind generator (DFIWG) is proposed in this paper. From the consideration of physical nature and energy flow of the DFIWG, the mechanical subsystem and the electromagnetical subsystem of the DFIWG first have their port‐controlled Hamiltonian (PCH) realization. Then taking advantage of the feedback interconnection between the subsystems, the entire PCH model of the DFIWG is established. On the basis of this model, the excitation control for the generator speed adjustment is achieved by energy shaping design with the purpose of optimum wind energy capture. Finally, simulation results via MATLAB/Simulink (MathWorks, Natick, MA, USA) confirm the effectiveness of the proposed approach for wind speeds in different operating stages. Copyright © 2012 John Wiley &amp; Sons, Ltd.

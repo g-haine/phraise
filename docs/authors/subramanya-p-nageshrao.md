@@ -4,7 +4,7 @@ permalink: /authors/subramanya-p-nageshrao
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Subramanya P. Nageshrao, S.P. Nageshrao, S. P. Nageshrao.</p>
+<p id='info-authors'>Alternative author names: Subramanya P. Nageshrao, S. P. Nageshrao, S.P. Nageshrao.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2015 -- S. P. Nageshrao, G. A. D. Lopes, D. Jeltsema, R. Babuska</span><h3><a class='post-link' href="{{ site.baseurl }}/control-by-interconnection-of-a-manipulator-arm-using-reinforcement-learning">Control by interconnection of a manipulator arm using reinforcement learning</a></h3></li>

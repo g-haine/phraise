@@ -1,10 +1,10 @@
 ---
-title: Publications by J.A. Acosta
+title: Publications by J.Á. Acosta
 permalink: /authors/j-a-acosta
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: J.A. Acosta, J.Á. Acosta.</p>
+<p id='info-authors'>Alternative author names: J.Á. Acosta, J.A. Acosta.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2004 -- J.A. Acosta, R. Ortega, A. Astolfi</span><h3><a class='post-link' href="{{ site.baseurl }}/interconnection-and-damping-assignment-passivity-based-control-of-mechanical-systems-with-underactuation-degree-one">Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one</a></h3></li>

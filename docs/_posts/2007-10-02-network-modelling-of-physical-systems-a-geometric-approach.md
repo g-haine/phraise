@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke), [Romeo Ortega](authors/romeo-ortega)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke), [Romeo Ortega](authors/romeo-ortega)
  
 ## Abstract
 It is discussed how network modeling of lumped-parameter physical systems naturally leads to a geometrically defined class of systems, called port-controlled Hamiltonian systems (with dissipation) . The structural properties of these systems are investigated, in particular the existence of Casimir functions and their implications for stability. It is shown how the power-conserving interconnection with a controller system which is also a port-controlled Hamiltonian system defines a closed-loop port-controlled Hamiltonian system; and how this may be used for control by shaping the internal energy. Finally, extensions to implicit system descriptions (constraints, no a priori input-output structure) are discussed.

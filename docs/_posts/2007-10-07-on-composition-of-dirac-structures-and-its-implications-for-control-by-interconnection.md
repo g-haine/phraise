@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Joaquín Cervera](authors/joaquin-cervera), [Arjan J. Schaft](authors/arjan-van-der-schaft), [Alfonso Baños](authors/alfonso-banos)
+[Joaquín Cervera](authors/joaquin-cervera), [Arjan J. Schaft](authors/arjan-j-van-der-schaft), [Alfonso Baños](authors/alfonso-banos)
  
 ## Abstract
 Network modeling of complex physical systems leads to a class of nonlinear systems, called Port-Controlled Hamiltonian Systems (PCH systems). These systems are geometrically defined by a state space manifold of energy variables, a power-conserving interconnection formalized as a Dirac structure, together with the total stored energy and a resistive structure. Basic features of these systems include their compositionality properties (a power-conserving interconnection of PCH systems is again a PCH system), and their stability and stabilizability properties exploiting the energy function and the Casimir functions. In the present paper we further elaborate on the compositionality properties of Dirac structures by providing an explicit parametrization of all achievable closed-loop Dirac structures in terms of their constituent parts. Amongst others this opens up the way to a complete characterization of the class of PCH systems which are stabilizable by interconnection with a PCH controller.

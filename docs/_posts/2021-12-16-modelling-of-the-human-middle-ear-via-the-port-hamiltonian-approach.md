@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Milka C. I. Madahana](authors/milka-c-i-madahana), [Mohlalakoma Ngwako](authors/mohlalakoma-ngwako), [Otis O. T. Nyandoro](authors/otis-o-t-c-nyandoro), [John E. D. Ekoru](authors/john-e-d-ekoru)
+[Milka C. I. Madahana](authors/milka-c-i-madahana), [Mohlalakoma Ngwako](authors/mohlalakoma-ngwako), [Otis O. T. Nyandoro](authors/otis-t-c-nyandoro), [John E. D. Ekoru](authors/john-e-d-ekoru)
  
 ## Abstract
 A novel energy based model of the human middle ear is presented. A Port-Hamiltonian modelling approach is used in the development of the model. The model is used to illustrate, sound transmission through the middle ear of a healthy subject. Parameters for validating the developed model were obtained from existing literature. The results indicate a peak at 1 kHz, confirming the behaviour of the middle ear as a resonant system tuned to the frequency between 700 and 1200 kHz. The results were found to be comparable to clinical and audiological data in existing literature. Future improvements to the presented model would include the rotational motion of the Stapes in the middle ear.

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Mauricio Munoz-Arias](authors/mauricio-munoz-arias), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Alessandro Macchelli](authors/alessandro-macchelli)
+[Mauricio Munoz-Arias](authors/raul-s-munoz-aguilar), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 This work is devoted to an impedance grasping strategy for a class of standard mechanical systems in the port-Hamiltonian framework. The presented control strategy requires a set of coordinate transformations, since the impedance control in the port-Hamiltonian framework with structure preservation is not straightforward. The impedance grasping control is achieved via a virtual spring with a variable rest length. The force that is exerted by the virtual spring leads to a dissipation term in the impedance grasping controller which is needed to obtain a smoother noncontact to contact transition. Simulations results are given in order to motivate our results.

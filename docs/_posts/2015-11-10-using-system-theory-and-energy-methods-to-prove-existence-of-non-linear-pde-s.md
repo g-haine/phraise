@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Hans Zwart](authors/hans-zwart)
+[Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 In this discussion paper we present an idea of combining techniques known from systems theory with energy estimates to show existence for a class of non-linear partial differential equations (pde's). At the end of the paper a list of research questions with possible approaches is given.

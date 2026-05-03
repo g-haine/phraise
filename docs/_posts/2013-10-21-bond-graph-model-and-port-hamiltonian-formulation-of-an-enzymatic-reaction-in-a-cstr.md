@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Mohit Makka](authors/mohit-makka), [Jean-Yves Dieulot](authors/jean-yves-dieulot)
+[Mohit Makka](authors/mohit-makkar), [Jean-Yves Dieulot](authors/jean-yves-dieulot)
  
 ## Abstract
 This paper proposes a chemical Port-Hamiltonian formulation of a well-mixed CSTR model considering that the chemical reaction is taking place at constant pressure and temperature. More focus is put on chemical reaction network theory and its inclusion in the formulation to achieve synchronization between concentration space and reaction space. It is made clear that Gibbs free energy is an apt Hamiltonian function for such cases. The same concept is applied on a basic enzyme reaction. The Bond Graph models related to Hamiltonian formulation for both types of reactions are given in order to show its ability of pictorial representation and intuitive solution.

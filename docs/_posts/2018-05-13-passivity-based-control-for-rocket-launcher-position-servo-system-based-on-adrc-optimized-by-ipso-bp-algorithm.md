@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Rong-lin Wang](authors/rong-lin-wang), [Bao-chun Lu](authors/bao-chun-lu), [Yuan-long Hou](authors/yuan-long-hou), [Qiang Gao](authors/qiang-gao)
+[Rong-lin Wang](authors/rong-lin-wang), [Bao-chun Lu](authors/baochun-lu), [Yuan-long Hou](authors/yuanlong-hou), [Qiang Gao](authors/qiang-gao)
  
 ## Abstract
 In order to achieve better motion accuracy and higher robustness of the shipborne rocket launcher position servo system driven by a permanent magnet synchronous motor (PMSM), a passivity‐based controller based on active disturbance rejection control (ADRC) optimized by improved particle swarm optimization‐back propagation (IPSO‐BP) algorithm is proposed in this paper. The convenient method of interconnection and damping assignment and passivity‐based control (IDA‐PBC) is adopted to establish the port controlled Hamiltonian system with dissipation (PCHD) model of PMSM. To further enhance the robustness and adaptability of traditional ADRC, an BP algorithm is introduced to on‐line update the proportional, integral, and derivative gains of ADRC. Furthermore, to improve the learning capability, the improved PSO algorithm is adopted to optimize the learning rates of the back propagation neural networks. The results of numerical simulation and prototype test indicate that the proposed IPSO‐BP‐ADRC‐PBC controller has better static and dynamic performance than the ADRC‐PBC and BP‐ADRC‐PBC controller with fixed learning rate.

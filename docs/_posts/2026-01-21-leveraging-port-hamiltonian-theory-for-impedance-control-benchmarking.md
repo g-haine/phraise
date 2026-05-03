@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Leonardo F. Dos Santos](authors/leonardo-s-santos), [Elisa G. Vergamini](authors/elisa-g-vergamini), [Cícero Zanette](authors/cicero-zanette), [Lucca Maitan](authors/lucca-maitan), [Thiago Boaventura](authors/thiago-boaventura)
+[Leonardo F. Dos Santos](authors/leonardo-f-dos-santos), [Elisa G. Vergamini](authors/elisa-g-vergamini), [Cícero Zanette](authors/cicero-zanette), [Lucca Maitan](authors/lucca-maitan), [Thiago Boaventura](authors/thiago-boaventura)
  
 ## Abstract
 This work proposes PH-based metrics for benchmarking impedance control. A causality-consistent PH model is introduced for mass-spring-damper impedance in Cartesian space. Based on this model, a differentiable, force-torque sensing-independent, n-DoF passivity condition is derived, valid for time-varying references. An impedance fidelity metric is also defined from step-response power in free motion, capturing dynamic decoupling. The proposed metrics are validated in Gazebo simulations with a six-DoF manipulator and a quadruped leg. Results demonstrate the suitability of the PH framework for standardized impedance control benchmarking.

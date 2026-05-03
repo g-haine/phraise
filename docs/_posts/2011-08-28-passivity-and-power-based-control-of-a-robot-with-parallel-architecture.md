@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Lucas C. Neves](authors/lucas-c-neves), [Gabriel V. Paim](authors/gabriel-v-paim), [Isabelle Queinnec](authors/isabelle-queinnec), [Ubirajara F. Moreno](authors/ubirajara-f-moreno), [Edson R. De Pieri](authors/edson-roberto-de-pieri)
+[Lucas C. Neves](authors/lucas-c-neves), [Gabriel V. Paim](authors/gabriel-v-paim), [Isabelle Queinnec](authors/isabelle-queinnec), [Ubirajara F. Moreno](authors/ubirajara-f-moreno), [Edson R. De Pieri](authors/edson-r-de-pieri)
  
 ## Abstract
  This paper presents the design and implementation of two Passivity-based controllers (PBC) to the problem of trajectory tracking of a robot manipulator with a parallel architecture, one called IDA-PBC (Interconnection and Damping Assignment) and the other called Power-Shaping. For the first controller is used the model system described as a Port-controlled Hamiltonian (PCH), which provides the system be described in a appropriate form for applying balancing of energy. For the second controller, it is used a model described by Brayton-Moser equations, which describes the system for implementing the balancing of power. Through these two methods, at the end, it is obtained the same controller known as PD with gravity compensation, which is implemented in the manipulator in study.

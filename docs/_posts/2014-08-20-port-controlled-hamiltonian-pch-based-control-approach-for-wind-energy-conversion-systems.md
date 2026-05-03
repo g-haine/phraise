@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Majid Pahlevani](authors/majid-pahlevani), [null Shangzhi Pan](authors/shangzhi-pan), [Jonathan Mash](authors/jonathan-mash), [Praveen Jain](authors/praveen-jain)
+[Majid Pahlevani](authors/majid-pahlevani), [null Shangzhi Pan](authors/null-shangzhi-pan), [Jonathan Mash](authors/jonathan-mash), [Praveen Jain](authors/praveen-jain)
  
 ## Abstract
 This paper presents a novel control approach to improve the dynamic response of wind energy control systems (WECS) that use a permanent magnet synchronous generator (PMSG) operating under a wide input and load range. In this paper, it's shown that WECS is classified as a Port-Controlled Hamiltonian (PCH) system. Therefore, a nonlinear controller based on PCH is proposed, which is able to robustly control the WECS under parameter uncertainties and disturbances. The performance of the PCH-based controller is evaluated through simulation. Also, the proposed controller is implemented on an experimental prototype. Simulation and experimental results show a robust and fast transient performance compared to the conventional dq-controller.

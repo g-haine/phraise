@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[A. J. Schaft](authors/arjan-van-der-schaft)
+[A. J. Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 In this paper a definition of a (nonlinear) Hamiltonian system with inputs and outputs is given, which generalizes both the definition of a linear Hamiltonian system with inputs and outputs and the differential geometric definition of a Hamiltonian vectorfield. Specialized to the case of Lagrangian systems this definition generates the Euler-Lagrange equations with external forces. Further interconnections of Hamiltonian systems are treated and the close relationship with network theory is showed. Finally the newly developed theory is applied to the study of symmetries and to a realization theory for Hamiltonian systems. It will be argued that this way of describing Hamiltonian systems can be extended to a broader class of physical systems.

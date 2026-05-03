@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[A. Venkatraman](authors/aneesh-venkatraman), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[A. Venkatraman](authors/aneesh-venkatraman), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 We consider port-Hamiltonian system models whose underlying geometric structure is the Dirac structure which consists of energy storing ports, resistive ports and external ports which are interconnected to each other by a power conserving relationship. A port-Hamiltonian system with dissipation (PHSD) is formed by the composition of a Dirac and a resistive structure. We show how the choice of a new passive output for a PHSD is reflected in a new Dirac structure. We generate a new class of passive outputs for a PHSD by changing the Hamiltonian function, interconnection and damping matrices and subsequently compute the new underlying Dirac structure. We next consider power conserving interconnections of two port-Hamiltonian systems and extend the (well known) standard feedback interconnection by considering interconnections between port-Hamiltonian systems which involve their energy storing ports, resistive ports and external ports. For port-Hamiltonian systems with dissipation, we demonstrate how these interconnections can be used for their closed-loop stabilization by the control-by-interconnection (CbI) method. Finally, we discuss the similarities between our (new) control by interconnection method and the (well-known) interconnection and damping assignment passivity-based control (IDA-PBC) method.

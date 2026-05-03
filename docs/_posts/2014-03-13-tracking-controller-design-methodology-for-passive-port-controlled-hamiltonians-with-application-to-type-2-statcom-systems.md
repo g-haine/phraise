@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[null Yonghao Gui](authors/yonghao-gui), [null Dong Eui Chang](authors/dong-eui-chang), [null Chung Choo Chung](authors/chung-choo-chung)
+[null Yonghao Gui](authors/null-yonghao-gui), [null Dong Eui Chang](authors/dong-eui-chang), [null Chung Choo Chung](authors/chung-choo-chung)
  
 ## Abstract
 We propose a general framework for the exponentially stable tracking controller design for passive port-controlled Hamiltonian systems with a single input and a single output. We use the Dynamic Extension Algorithm to the system. The dynamic extended system becomes an input affine system so that the tracking controller is obtained in input-output linearization framework. The tracking control law is generated considering the stability and performance of the input output linearized dynamics. We apply it to a static synchronous compensator (STATCOM) system, which is not an input affine system. We make a dynamic extension of the STATCOM system to conveniently design a reference output and then put the dynamics into the form of port-controlled Hamiltonian to apply the proposed tracking controller. Simulation results show that the proposed method improves the transient performance of the system over the previous results even in the lightly damped operating range.

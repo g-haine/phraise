@@ -1,0 +1,14 @@
+---
+title: Publications by J. Wei
+permalink: /authors/j-wei
+---
+
+<h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: J. Wei.</p>
+<hr />
+<ul class="post-list">
+<li><span class='post-meta'>2013 -- J. Wei, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/load-balancing-of-dynamical-distribution-networks-with-flow-constraints-and-unknown-in-outflows">Load balancing of dynamical distribution networks with flow constraints and unknown in/outflows</a></h3></li>
+<li><span class='post-meta'>2012 -- A.J. van der Schaft, J. Wei</span><h3><a class='post-link' href="{{ site.baseurl }}/a-hamiltonian-perspective-on-the-control-of-dynamical-distribution-networks">A Hamiltonian perspective on the control of dynamical distribution networks</a></h3></li>
+
+</ul>
+{% include count-posts.html %}

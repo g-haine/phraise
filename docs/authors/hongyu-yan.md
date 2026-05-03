@@ -4,7 +4,7 @@ permalink: /authors/hongyu-yan
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Hongyu Yan, Hongyu Yan, Yan Hong‐yu.</p>
+<p id='info-authors'>Alternative author names: Hongyu Yan.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Jingjing Li, Zhen Chen, Jian Li, Hongyu Yan, Minshan Feng, Jiawen Zhan</span><h3><a class='post-link' href="{{ site.baseurl }}/research-on-human-upper-limb-tremor-suppression-method-based-on-port-controlled-hamiltonian-system-and-sliding-mode-control">Research on Human Upper Limb Tremor Suppression Method Based on Port-Controlled Hamiltonian System and Sliding Mode Control</a></h3></li>

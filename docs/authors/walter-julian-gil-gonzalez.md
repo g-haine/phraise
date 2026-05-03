@@ -1,12 +1,15 @@
 ---
-title: Publications by Walter Julián Gil González
+title: Publications by Walter Julian Gil-Gonzalez
 permalink: /authors/walter-julian-gil-gonzalez
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Walter Julián Gil González, Walter Gil-González, Walter Julian Gil-Gonzalez, Walter Gil-Gonzalez, Walter Gil–-González, Walter Gil-Gonzale, W. Gil-Gonzalez, Walter Julián Gil Gonzalez.</p>
+<p id='info-authors'>Alternative author names: Walter Julian Gil-Gonzalez, Walter Gil-González, Walter Gil-Gonzale, Walter Gil-Gonzalez, Walter Gil–-González, W. Gil-Gonzalez, Walter Julián Gil Gonzalez, Walter Julián Gil González.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Kenneth Marín-Silva, Walter Gil-González, Alejandro Garcés-Ruiz</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-of-discrete-time-port-hamiltonian-systems-for-power-electronic-applications">Passivity of discrete-time port-Hamiltonian systems for power-electronic applications</a></h3></li>
+<li><span class='post-meta'>2025 -- Francisco Daniel Esteban, Federico Martin Serra, Oscar Danilo Montoya, César Leonardo Trujillo, Walter Gil-González</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-pi-control-of-boost-converters-with-gain-scheduling-in-continuous-conduction-mode">Passivity-Based PI Control of Boost Converters with Gain Scheduling in Continuous Conduction Mode</a></h3></li>
+<li><span class='post-meta'>2025 -- Angèlica Mercedes Nivia-Vargas, Oscar Danilo Montoya, Walter Gil-González, Carlos R. Baier, Jesús C. Hernández</span><h3><a class='post-link' href="{{ site.baseurl }}/ida-pbc-based-control-design-for-a-pwm-current-source-converter-supplying-sinusoidal-current-to-a-single-phase-microgrid">IDA-PBC-Based Control Design for a PWM Current-Source Converter Supplying Sinusoidal Current to a Single-Phase Microgrid</a></h3></li>
 <li><span class='post-meta'>2025 -- Diego Montoya Acevedo, Ignacio Parraguez-Garrido, Walter Gil-González, Oscar Danilo Montoya, Catalina González-Castaño</span><h3><a class='post-link' href="{{ site.baseurl }}/adaptive-passivity-based-control-for-dc-motor-speed-regulation-in-dc-dc-converter-fed-systems">Adaptive Passivity-Based Control for DC Motor Speed Regulation in DC-DC Converter-Fed Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Alejandro Garcés-Ruiz, Walter Julián Gil González</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-model-predictive-control-for-the-permanent-magnet-synchronous-machine">Passivity-Based Model-Predictive Control for the Permanent Magnet Synchronous Machine</a></h3></li>
 <li><span class='post-meta'>2023 -- Oscar Danilo Montoya, César Leonardo Trujillo, Walter Gil-González</span><h3><a class='post-link' href="{{ site.baseurl }}/power-transference-controller-design-between-two-dc-microgrids-interconnected-via-an-interleaved-boost-converter-a-pi-pbc-approach">Power Transference Controller Design between two DC Microgrids Interconnected via an Interleaved Boost Converter: A PI-PBC Approach</a></h3></li>

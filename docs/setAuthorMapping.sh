@@ -57,29 +57,29 @@ while IFS= read -r author; do
   if [[ "$found" == false ]]; then
     
     # Requête OpenAlex
-    query=$(echo "$author" | sed 's/ /+/g')
-    result=$(safe_curl "https://api.openalex.org/authors?search=$query&per-page=5")
+    #query=$(echo "$author" | sed 's/ /+/g')
+    #result=$(safe_curl "https://api.openalex.org/authors?search=$query&per-page=5")
 
     # Extraction de l’auteur avec le plus haut relevance_score
-    best=$(read_json "$result" '.results | max_by(.relevance_score // 0) // empty')
+    #best=$(read_json "$result" '.results | max_by(.relevance_score // 0) // empty')
 
-    if [[ -n "$best" && "$best" != "null" ]]; then
-      display=$(read_json "$best" '.display_name')
-      slug=$(slugify "$display")
-      to_add="  \"$slug\": [ \"$author\""
-      if ! diff -q <(echo "$author") <(echo "$display") > /dev/null; then
-        to_add+=", \"$display\""
-      fi
-      while IFS= read -r name; do
-        to_add+=", \"$name\""
-      done < <(echo "$best" | jq -cr '.display_name_alternatives[]' 2>/dev/null)
-      to_add+=" ]"
-      last_name=$(echo "$display" | awk '{print $NF}')  # Extraire le dernier mot
-    else
+    #if [[ -n "$best" && "$best" != "null" ]]; then
+    #  display=$(read_json "$best" '.display_name')
+    #  slug=$(slugify "$display")
+    #  to_add="  \"$slug\": [ \"$author\""
+    #  if ! diff -q <(echo "$author") <(echo "$display") > /dev/null; then
+    #    to_add+=", \"$display\""
+    #  fi
+    #  while IFS= read -r name; do
+    #    to_add+=", \"$name\""
+    #  done < <(echo "$best" | jq -cr '.display_name_alternatives[]' 2>/dev/null)
+    #  to_add+=" ]"
+    #  last_name=$(echo "$display" | awk '{print $NF}')  # Extraire le dernier mot
+    #else
       slug=$(slugify "$author")
       to_add="  \"$slug\": [ \"$author\" ]"
       last_name=$(echo "$author" | awk '{print $NF}')  # Extraire le dernier mot
-    fi
+    #fi
     
     # Normaliser le dernier mot en ASCII
     normalized_last_name=$(echo "$last_name" | iconv -f UTF-8 -t ASCII//TRANSLIT | sed -E '

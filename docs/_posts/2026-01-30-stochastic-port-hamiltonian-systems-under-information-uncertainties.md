@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Xiaofeng Zong](authors/xiaofeng-zong), [Zi-Xuan Wang](authors/zixuan-wang), [Hai-Tao Zhang](authors/haitao-zhang)
+[Xiaofeng Zong](authors/xiaofeng-zong), [Zi-Xuan Wang](authors/zi-xuan-wang), [Hai-Tao Zhang](authors/haitao-zhang)
  
 ## Abstract
 Not available

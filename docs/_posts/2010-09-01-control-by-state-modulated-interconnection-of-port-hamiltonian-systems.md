@@ -15,7 +15,7 @@ tags:
 ---
  
 ## Authors
-[Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Fernando Castaños](authors/fernando-castanos), [Alessandro Astolfi](authors/alessandro-astolfi)
+[Romeo Ortega](authors/romeo-ortega), [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Fernando Castaños](authors/fernando-castanos), [Alessandro Astolfi](authors/alessandro-astolfi)
  
 ## Abstract
 It is well known that the dynamics of many physical processes can be suitably described by Port–Hamiltonian (PH) models. In this paper we consider the Passivity–Based Control (PBC) technique of Control by Interconnection (CbI), where the controller is another PH system connected to the plant to add up their energy functions. We propose two extensions to this method, first, we exploit the non–uniqueness of the PH representation of the system to generate new cyclo–passive outputs. Applying CbI through these new port variables overcomes the so–called dissipation obstacle. Second, when the plant state variables are measurable, we show that the conditions for applicability of the method can be relaxed replacing the simple unitary feedback by a state–modulated interconnection. A central contribution of the paper is the proof that the conditions for energy shaping via CbI are equivalent to those imposed in Interconnection and Damping Assignment PBC, providing in this way a nice geometric interpretation to this successful controller design technique.

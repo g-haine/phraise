@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[M. K. Camlibel](authors/m-kanat-camlibel), [A. J. van der Schaft](authors/arjan-van-der-schaft)
+[M. K. Camlibel](authors/m-kanat-camlibel), [A. J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 This paper introduces the new class of incrementally port-Hamiltonian systems. This class can be obtained from standard port-Hamiltonian systems by replacing the composition of the Dirac structure and energy-dissipating relation by a maximal monotone relation. After introducing this new class of systems, we study their compositions and show that incrementally port-Hamiltonian systems are closed under composition. Also, we study existence and uniqueness os state trajectories for such systems as well as an energy-based state re-initialization principle.

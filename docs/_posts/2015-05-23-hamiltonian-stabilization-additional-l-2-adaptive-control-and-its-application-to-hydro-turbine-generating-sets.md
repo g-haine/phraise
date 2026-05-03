@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Yun Zeng](authors/yun-zeng), [Li-Xiang Zhang](authors/lixiang-zhang), [Ya-Kun Guo](authors/yakun-guo), [Jing Qian](authors/jing-qian)
+[Yun Zeng](authors/yun-zeng), [Li-Xiang Zhang](authors/lixiang-zhang), [Ya-Kun Guo](authors/ya-kun-guo), [Jing Qian](authors/jing-qian)
  
 ## Abstract
 This study presents a design method for port-controlled Hamiltonian system, in which the nonlinear control is decomposed into the stabilization control at given equilibrium and additional L _2 adaptive control. The stabilization controller includes the simplified object model, which is the internal model controlling the conception expansion in nonlinear case. The errors arising from parameters and modelling are evaluated using the weighing matrix of the penalty function, which simplifies the design procedure of control. The L _2 adaptive control law is feedback control of the output errors with weighting matrix, which is the key character of the adaptive control. The proposed decomposing and simplifying method of the control law can be easily applied to investigate the higher order system. The procedure of control design and the issues associated with the application of control law are demonstrated by taking the hydro turbine generating system as an example. Simulation shows that the proposed method is very stable and robust.

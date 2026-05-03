@@ -7,6 +7,7 @@ permalink: /authors/cesar-leonardo-trujillo
 <p id='info-authors'>Alternative author names: César Leonardo Trujillo.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Francisco Daniel Esteban, Federico Martin Serra, Oscar Danilo Montoya, César Leonardo Trujillo, Walter Gil-González</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-pi-control-of-boost-converters-with-gain-scheduling-in-continuous-conduction-mode">Passivity-Based PI Control of Boost Converters with Gain Scheduling in Continuous Conduction Mode</a></h3></li>
 <li><span class='post-meta'>2023 -- Oscar Danilo Montoya, César Leonardo Trujillo, Walter Gil-González</span><h3><a class='post-link' href="{{ site.baseurl }}/power-transference-controller-design-between-two-dc-microgrids-interconnected-via-an-interleaved-boost-converter-a-pi-pbc-approach">Power Transference Controller Design between two DC Microgrids Interconnected via an Interleaved Boost Converter: A PI-PBC Approach</a></h3></li>
 
 </ul>

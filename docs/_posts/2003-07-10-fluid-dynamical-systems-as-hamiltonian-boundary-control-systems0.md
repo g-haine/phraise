@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[A.J. Van der Schaft](authors/arjan-van-der-schaft), [B.M. Maschke](authors/bernhard-maschke)
+[A.J. Van der Schaft](authors/arjan-j-van-der-schaft), [B.M. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 It is shown how the geometric framework for distributed-parameter port-controlled Hamiltonian systems can be adapted to formulate ideal isentropic compressible fluids with nonzero energy flow through the boundary of the spatial domain as Hamiltonian boundary control systems. The key ingredient is the modification of the Stokes-Dirac structure to a Dirac structure defined on the space of mass density 3-forms and velocity 1-forms, incorporating three-dimensional convection. Some initial steps towards stabilization of these boundary control systems, based on the generation of Casimir functions for the closed-loop Hamiltonian system, are discussed.

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[null Xu Bo](authors/xu-bo), [K. Fujimoto](authors/kenji-fujimoto), [Y. Hayakawa](authors/yoshikazu-hayakawa)
+[null Xu Bo](authors/null-xu-bo), [K. Fujimoto](authors/kenji-fujimoto), [Y. Hayakawa](authors/y-hayakawa)
  
 ## Abstract
 Since the two-link flexible manipulator is an underactuated system which provide a challenge to control engineers and researchers. In order to control this kind of systems more effectively, many new control theories and methods are explored to use to design controller. Among these methods, the energy-based control design method has gained a lot of attentions in these years, which can provide more physical insights in nonlinear control. Especially, the port-controlled Hamiltonian system and generalized canonical transformation has some advantages on the modeling and control design of these nonlinear systems. In this paper, we proposed a control design for two-link flexible manipulators via generalized canonical transformation, arid the simulation results are shown to prove the effectiveness of the controllers.

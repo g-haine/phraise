@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Y.B. Qu](authors/yanbin-qu), [H.H. Song](authors/huihui-song)
+[Y.B. Qu](authors/y-b-qu), [H.H. Song](authors/huihui-song)
  
 ## Abstract
 This article presents an energy-based coordinated control of machine- and grid-side converters in a wind energy conversion system (WECS) with a doubly-fed induction generator (DFIG) based on the theory of port-controlled Hamiltonian (PCH) system. Taking into account energy transmission in the dual PWM converter rather than treating rectification and inversion as separate parts, an integrated PCH model for the whole WECS was established from physical meanings. And depending on the new model, an energy-based coordinated control approach was proposed to meet the control requirements of the WECS with an additional objective which was to limit the DC-link voltage fluctuation. The approach was applied on a 2MW WECS, and compared with the energy-based respective control strategy using MATLAB/Simulink. The results show that the proposed control approach provides faster dynamic performance since the two converters operate with the knowledge of each other's operating status, and thus is able to smooth the power flow in the DC-link more effectively.

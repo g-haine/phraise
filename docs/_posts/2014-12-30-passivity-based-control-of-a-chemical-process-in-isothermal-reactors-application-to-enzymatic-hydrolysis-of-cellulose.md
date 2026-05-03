@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Mohit Makkar](authors/mohit-makka), [Jean-Yves Dieulot](authors/jean-yves-dieulot)
+[Mohit Makkar](authors/mohit-makkar), [Jean-Yves Dieulot](authors/jean-yves-dieulot)
  
 ## Abstract
 This paper is exploring the energetic insight in both Mathematical model and Control to simplify the complex character of chemical reactions taking place in reactors. Special interest has been shown to processes at constant temperature and pressure. The Port-Hamiltonian model of network of chemical reactions both in the concentration space and the reaction space followed by the Interconnection and Damping Assignment-Passivity Based Control (IDA-PBC) for open chemical systems is formulated here. Futhermore, application to bioprocess in batch and continuous modes has opened the energetic way of looking in to the modeling and control of such reactions. The technique is applied to model and simulate the control of enzymatic hydrolisis of cellulose in a continuous reactor. Special care has been taken to not look loosely on the physical coherence of a system, hence this paper can be an inspiring alternative to pseudo formulations and artificial control in the domain of biochemical engineering.

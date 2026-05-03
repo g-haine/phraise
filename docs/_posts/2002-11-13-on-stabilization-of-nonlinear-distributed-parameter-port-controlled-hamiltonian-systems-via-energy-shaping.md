@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[H. Rodriguez](authors/hugo-rodriguez), [A.J. van der Schaft](authors/arjan-van-der-schaft), [R. Ortega](authors/romeo-ortega)
+[H. Rodriguez](authors/hugo-rodriguez), [A.J. van der Schaft](authors/arjan-j-van-der-schaft), [R. Ortega](authors/romeo-ortega)
  
 ## Abstract
 No  available

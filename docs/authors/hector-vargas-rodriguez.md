@@ -1,10 +1,10 @@
 ---
-title: Publications by Héctor Vargas-Rodríguez
+title: Publications by Héctor Vargas Rodriguez
 permalink: /authors/hector-vargas-rodriguez
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Héctor Vargas-Rodríguez, Héctor Vargas Rodriguez.</p>
+<p id='info-authors'>Alternative author names: Héctor Vargas Rodriguez, Héctor Vargas-Rodríguez.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Juan Cristobal Alcaraz Tapia, Carlos E. Castañeda, Héctor Vargas-Rodríguez</span><h3><a class='post-link' href="{{ site.baseurl }}/evaluation-of-a-port-hamiltonian-controller-for-an-altazimutal-liquid-mirror-telescope-using-ros-and-gazebo">Evaluation of a Port-Hamiltonian Controller for an altazimutal Liquid Mirror Telescope Using ROS and Gazebo</a></h3></li>

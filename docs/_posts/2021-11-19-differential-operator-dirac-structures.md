@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 As shown before, skew-adjoint linear differential operators, mapping efforts into flows, give rise to Dirac structures on a bounded spatial domain by a proper definition of boundary variables. In the present paper this is extended to pairs of linear differential operators defining a formally skew-adjoint relation between flows and efforts. Furthermore it is shown how the underlying repeated integration by parts operation is streamlined by the use of two-variable polynomial calculus. Dirac structures defined by formally skew adjoint operators together with differential operator effort constraints are treated within the same framework. Finally it is sketched how the approach can be also used for Lagrangian subspaces on bounded domains.

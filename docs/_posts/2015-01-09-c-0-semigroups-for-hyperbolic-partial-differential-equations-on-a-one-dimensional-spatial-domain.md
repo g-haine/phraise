@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Kirsten Morris](authors/kirsten-morris), [Hans Zwart](authors/hans-zwart)
+[Birgit Jacob](authors/birgit-jacob), [Kirsten Morris](authors/kirsten-a-morris), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 Hyperbolic partial differential equations on a one-dimensional spatial domain are studied. This class of systems includes models of beams and waves as well as the transport equation and networks of non-homogeneous transmission lines. The main result of this paper is a simple test for C _0-semigroup generation in terms of the boundary conditions. The result is illustrated with several examples.

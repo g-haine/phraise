@@ -4,7 +4,7 @@ permalink: /authors/navdeep-m-singh
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Navdeep M. Singh, N.M. Singh, Navdeep Singh.</p>
+<p id='info-authors'>Alternative author names: Navdeep M. Singh, Navdeep Singh, N.M. Singh.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2018 -- R.V. Meshram, S.V. Khade, S.R. Wagh, N.M. Singh, A.M. Stanković</span><h3><a class='post-link' href="{{ site.baseurl }}/bond-graph-approach-for-port-controlled-hamiltonian-modeling-for-sst">Bond graph approach for port-controlled Hamiltonian modeling for SST</a></h3></li>

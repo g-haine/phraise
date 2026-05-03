@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Christopher Beattie](authors/christopher-beattie), [Volker Mehrmann](authors/volker-mehrmann), [Hongguo Xu](authors/hongguo-xu)
+[Christopher Beattie](authors/christopher-a-beattie), [Volker Mehrmann](authors/volker-mehrmann), [Hongguo Xu](authors/hongguo-xu)
  
 ## Abstract
 Numerical methods for developing port-Hamiltonian representations of general linear time-invariant systems are studied. The approach extends previous port-Hamiltonian characterizations to include the general non-minimal case and the case where the feedthrough term fails to have an invertible symmetric part. The resulting construction is able to identify infeasibility when the system fails to be port-Hamiltonian, and allows for the incorporation of perturbations in order to arrive at a nearby port-Hamiltonian system. Results are illustrated via numerical examples.
@@ -21,9 +21,9 @@ Numerical methods for developing port-Hamiltonian representations of general lin
 ## Citation
 - **Journal:** Mathematics of Control, Signals, and Systems
 - **Year:** 2026
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 38
+- **Issue:** 1
+- **Pages:** 1--41
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s00498-025-00432-w](https://doi.org/10.1007/s00498-025-00432-w)
  
@@ -32,12 +32,15 @@ Numerical methods for developing port-Hamiltonian representations of general lin
 {% raw %}
 @article{Beattie_2026,
   title={{Port-Hamiltonian realizations of non-minimal linear time-invariant systems}},
+  volume={38},
   ISSN={1435-568X},
   DOI={10.1007/s00498-025-00432-w},
+  number={1},
   journal={Mathematics of Control, Signals, and Systems},
   publisher={Springer Science and Business Media LLC},
   author={Beattie, Christopher and Mehrmann, Volker and Xu, Hongguo},
-  year={2026}
+  year={2026},
+  pages={1--41}
 }
 {% endraw %}
 {% endhighlight %}

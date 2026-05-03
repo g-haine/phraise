@@ -8,7 +8,7 @@ category: books
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
  
 ## Abstract
 No abstract available

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Marcus Waurick](authors/marcus-waurick), [Hans Zwart](authors/hans-zwart)
+[Marcus Waurick](authors/marcus-waurick), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 We characterise asymptotic stability of port-Hamiltonian systems by means of matrix conditions using well-known resolvent criteria from C 0 \\(  \\)C_0\\(  \\) -semigroup theory. The idea of proof is based on a recent characterisation of exponential stability established in Trostorff and Waurick (Characterisation for Exponential Stability of port-Hamiltonian Systems, 2024), which was inspired by a structural observation concerning port-Hamiltonian systems from Picard et al. (SIAM J Control Optim 61(2):511–535, 2023). We apply the result to study the asymptotic stability of a network of vibrating strings.

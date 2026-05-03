@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 This paper discusses the way that energy and entropy can be regarded as storage functions with respect to supply rates corresponding to the power and thermal ports of the thermodynamic system. Then, this research demonstrates how the factorization of the irreversible entropy production leads to quasi-Hamiltonian formulations, and how this can be used for stability analysis. The Liouville geometry approach to contact geometry is summarized, and how this leads to the definition of port-thermodynamic systems is discussed. This notion is utilized for control by interconnection of thermodynamic systems.
@@ -57,7 +57,7 @@ This paper discusses the way that energy and entropy can be regarded as storage 
 - Haslach, H. W., Jr. Geometric structure of the non-equilibrium thermodynamics of homogeneous systems. Reports on Mathematical Physics vol. 39 147–162 (1997) -- [10.1016/s0034-4877(97)87997-9](https://doi.org/10.1016/s0034-4877(97)87997-9)
 - Hudon, N., Guay, M. & Dochain, D. Control design for thermodynamic systems on contact manifolds. IFAC-PapersOnLine vol. 50 588–593 (2017) -- [10.1016/j.ifacol.2017.08.084](https://doi.org/10.1016/j.ifacol.2017.08.084)
 - Maschke, B. About the lift of irreversible thermodynamic systems to the Thermodynamic Phase Space. IFAC-PapersOnLine vol. 49 40–45 (2016) -- [10.1016/j.ifacol.2016.10.751](https://doi.org/10.1016/j.ifacol.2016.10.751)
-- Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
+- [Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012)](on-a-variational-principle-in-thermodynamics) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
 - MrugaŁa, R. Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics vol. 14 419–427 (1978) -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)
 - On equivalence of two metrics in classical thermodynamics. Physica (1984)
 - Mrugała, R. Submanifolds in the thermodynamic phase space. Reports on Mathematical Physics vol. 21 197–203 (1985) -- [10.1016/0034-4877(85)90059-x](https://doi.org/10.1016/0034-4877(85)90059-x)

@@ -8,7 +8,7 @@ category: books
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-zwart)
+[Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-j-zwart)
  
 ## Abstract
 No abstract available

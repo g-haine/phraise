@@ -8,7 +8,7 @@ category: chapters
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-zwart)
+[Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-j-zwart)
  
 ## Abstract
 In the previous two chapters we have formulated partial differential equations as  first order differential equations. Furthermore, we described the solutions of these differential equations via a strongly continuous semigroup. These differential equations were only weakly connected to the norm of the underlying state space. However, in this chapter we consider a class of differential equations for which there is a very natural state space norm. This natural choice enables us to show that the corresponding semigroup is a contraction semigroup.

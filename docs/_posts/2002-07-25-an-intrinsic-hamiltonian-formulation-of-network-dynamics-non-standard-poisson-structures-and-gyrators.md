@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[B.M. Maschke](authors/bernhard-maschke), [A.J. Van Der Schaft](authors/arjan-van-der-schaft), [P.C. Breedveld](authors/p-c-breedveld)
+[B.M. Maschke](authors/bernhard-maschke), [A.J. Van Der Schaft](authors/arjan-j-van-der-schaft), [P.C. Breedveld](authors/p-c-breedveld)
  
 ## Abstract
 The aim of this paper is to provide an intrinsic Hamiltonian formulation of the equations of motion of network models of non-resistive physical systems. A recently developed extension of the classical Hamiltonian equations of motion considers systems with state space given by Poisson manifolds endowed with degenerate Poisson structures, examples of which naturally appear in the reduction of systems with symmetry. The link with network representations of non-resistive physical systems is established using the generalized bond graph formalism which has the essential feature of symmetrizing all the energetic network elements into a single class and introducing a coupling unit gyrator. The relation between the Hamiltonian formalism and network dynamics is then investigated through the representation of the invariants of the system, either captured in the degeneracy of the Poisson structure or in the topological constraints at the ports of the gyrative type network structure. This provides a Hamiltonian formulation of dimension equal to the order of the physical system, in particular, for odd dimensional systems. A striking example is the direct Hamiltonian formulation of electrical LC networks.

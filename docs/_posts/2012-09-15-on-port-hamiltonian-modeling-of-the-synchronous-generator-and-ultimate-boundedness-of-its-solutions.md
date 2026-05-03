@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[S. Fiaz](authors/s-fiaz), [D. Zonetti](authors/daniele-zonetti), [R. Ortega](authors/romeo-ortega), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[S. Fiaz](authors/s-fiaz), [D. Zonetti](authors/d-zonetti), [R. Ortega](authors/romeo-ortega), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 In this paper starting with bond graph techniques a nonlinear mathematical model of the synchronous generator in port-Hamiltonian framework is derived. This leads to an energy–based description of the system which we later use for stability analysis. We use Park's state transformation to decouple the dynamics of other state variables from the dynamics of rotor angle, resulting in a quotient system admitting equilibria. We show that the solutions of this quotient system are bounded and provide closed form expression for the ultimate bound of these solutions. We will also give some preliminary results on stability analysis of these equilibria using energy shaping techniques.

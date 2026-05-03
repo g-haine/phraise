@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Negative imaginary and counter-clockwise systems have attracted attention as an interesting class of systems, which is well-motivated by applications. In this paper first the formulation and extension of negative imaginary and counter-clockwise systems as (nonlinear) input-output Hamiltonian systems with dissipation is summarized. Next it is shown how by considering the time-derivative of the outputs a port-Hamiltonian system is obtained, and how this leads to the consideration of alternate passive outputs for port-Hamiltonian systems. Furthermore, a converse result to positive feedback interconnection of input-output Hamiltonian systems with dissipation is obtained, stating that the positive feedback interconnection of two linear systems is an input-output Hamiltonian system with dissipation if and only if the systems themselves are input-output Hamiltonian systems with dissipation. This implies that the Poisson and resistive structure matrices can be redefined in such a way that the interaction between the two systems only takes place via the coupling term in the Hamiltonian of the interconnected system. Subsequently, it is shown how the positive feedback interconnection of two nonlinear input-output Hamiltonian systems with dissipation can be extended to the network interconnection of such systems, and how this leads to a stability analysis of the interconnected system in terms of the Hamiltonians and output mappings of the component systems associated to the vertices, as well as of the network topology.

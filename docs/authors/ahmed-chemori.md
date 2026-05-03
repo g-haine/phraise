@@ -7,6 +7,7 @@ permalink: /authors/ahmed-chemori
 <p id='info-authors'>Alternative author names: Ahmed Chemori.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Afef Hfaiedh, Ahmed Chemori</span><h3><a class='post-link' href="{{ site.baseurl }}/the-inertia-wheel-inverted-pendulum-case-study">The inertia wheel inverted pendulum case study</a></h3></li>
 <li><span class='post-meta'>2020 -- Afef Hfaiedh, Ahmed Chemori, Afef Abdelkrim</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-the-inertia-wheel-inverted-pendulum-by-advanced-ida-pbc-based-controllers-comparative-study-and-real-time-experiments">Stabilization of the Inertia Wheel Inverted Pendulum by Advanced IDA-PBC Based Controllers: Comparative Study and Real-Time Experiments</a></h3></li>
 <li><span class='post-meta'>2018 -- Nahla Khraief Haddad, Ahmed Chemori, Safya Belghith</span><h3><a class='post-link' href="{{ site.baseurl }}/robustness-enhancement-of-ida-pbc-controller-in-stabilising-the-inertia-wheel-inverted-pendulum-theory-and-real-time-experiments">Robustness enhancement of IDA-PBC controller in stabilising the inertia wheel inverted pendulum: theory and real-time experiments</a></h3></li>
 

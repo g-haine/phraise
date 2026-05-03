@@ -1,0 +1,13 @@
+---
+title: Publications by Y. Wu
+permalink: /authors/y-wu
+---
+
+<h3 id="number-posts">There are ... items referenced.</h3>
+<p id='info-authors'>Alternative author names: Y. Wu.</p>
+<hr />
+<ul class="post-list">
+<li><span class='post-meta'>2020 -- A. Macchelli, Y. Le Gorrec, Y. Wu, H. Ramírez</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-of-a-wave-equation-with-boundary-anti-damping">Energy-based Control of a Wave Equation with Boundary Anti-damping</a></h3></li>
+
+</ul>
+{% include count-posts.html %}

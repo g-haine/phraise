@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[Luca Gentili](authors/luca-gentili), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Luca Gentili](authors/luca-gentili), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 In this paper the output feedback regulation problem for port-controlled Hamiltonian systems (PCHS) is addressed. Following the nonlinear output regulation theory, the regulator which solves the problem is given by a parallel connection of two subcontrollers: an internal model unit and a regulator to stabilize the extended system composed by the plant and the internal model unit. The main idea is to use the PCHS theory in order to design that stabilizer controller: as in many cases the plant to be addressed is indeed a mechanical/electric system, and it is very easy to think about it as a PCHS, the paper shows the conditions to fulfill in order to design the internal model unit as a PCHS, allowing to use the powerful energy-shaping theory in order to stabilize the extended system. Moreover the same techniques are used to design an internal model based controller able to globally solve a problem of input disturbance suppression

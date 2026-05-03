@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Oscar Montoya](authors/oscar-danilo-montoya), [Walter Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [Alejandro Garces](authors/alejandro-garces-ruiz), [Federico Serra](authors/federico-m-serra), [J.C. Hernandez](authors/jesus-c-hernandez)
+[Oscar Montoya](authors/oscar-danilo-montoya), [Walter Gil-Gonzalez](authors/walter-julian-gil-gonzalez), [Alejandro Garces](authors/alejandro-garces-ruiz), [Federico Serra](authors/federico-martin-serra), [J.C. Hernandez](authors/jesus-c-hernandez)
  
 ## Abstract
 This paper proposes a proportional-integral passivity-based controller (PI-PBC) for supporting voltage in linear loads integrated with Ćuk converters. An adaptive load estimator is also employed to avoid current measurements at the load point. This estimator permits an on-line estimation of the load conductance for maintaining the output voltage as constant as possible independent of its variations. The proposed PI-PBC allows guaranteeing stability conditions in Lyapunov's sense for a closed-loop operation by exploiting the port-Hamiltonian structure of the Ćuk converter model. Numerical simulations evidence the advantages of using PI actions for PBC designs compared with the classical interconnection and damping (IDA-PBC) approach. All numerical simulations are conducted via MATLAB/Simulink software.

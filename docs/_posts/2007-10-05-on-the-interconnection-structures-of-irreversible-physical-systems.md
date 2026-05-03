@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Damien Eberard](authors/damien-eberard), [Bernhard Maschke](authors/bernhard-maschke), [Arjan J. van der Schaft](authors/arjan-van-der-schaft)
+[Damien Eberard](authors/damien-eberard), [Bernhard Maschke](authors/bernhard-maschke), [Arjan J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 An energy balance equation with respect to a control contact system provides port outputs which are conjugated to inputs. These conjugate variables are used to define the composition of port contact systems in the framework of contact geometry. We then propose a power-conserving interconnection structure, which generalizes the interconnection by Dirac structures in the Hamiltonian formalism. Furthermore, the composed system is again a port contact system, as illustrated on the example of a gas-piston system undergoing some irreversible transformation.

@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Chengxing Lv](authors/chengxing-lv), [Haisheng Yu](authors/haisheng-yu), [Jieru Chi](authors/jieru-chi), [Tao Xu](authors/tao-xu), [Hechao Zang](authors/hechao-zang), [Hui lue Jiang](authors/huilue-jiang), [Zhaowen Zhang](authors/zhaowen-zhang)
+[Chengxing Lv](authors/chengxing-lv), [Haisheng Yu](authors/haisheng-yu), [Jieru Chi](authors/jieru-chi), [Tao Xu](authors/tao-xu), [Hechao Zang](authors/hechao-zang), [Hui lue Jiang](authors/hui-lue-jiang), [Zhaowen Zhang](authors/zhaowen-zhang)
  
 ## Abstract
 The speed and heading control problem of an underactuated unmanned surface vehicle (USV) has been studied in this paper. The thrust system consists of two propellers which are driven by two electric-powered motors. A hybrid coordination control strategy based on signal and energy method is proposed. The energy controller uses the Port-Controlled Hamiltonian (PCH) control approach, and the signal controller uses the Lyapunov's direct method and backstepping approach. The design of coordination control strategy is used to adjust the strength of the signal controller and energy controller. Simulation results confirm the validity and stability of control algorithm, and the results show that the proposed algorithm can quickly track signals with energy optimization.

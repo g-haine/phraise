@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Hector Ramirez](authors/hector-ramirez), [Hans Zwart](authors/hans-zwart), [Yann Le Gorrec](authors/yann-le-gorrec), [Alessandro Macchelli](authors/alessandro-macchelli)
+[Hector Ramirez](authors/hector-ramirez), [Hans Zwart](authors/hans-j-zwart), [Yann Le Gorrec](authors/yann-le-gorrec), [Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
 Backstepping boundary control is investigated for a class of linear port-Hamiltonian systems. It is shown that by considering as target system an exponentially stable dissipative PHS, i.e. a PHS with a linear dissipation term and homogeneous boundary conditions, a coordinate transformation based on a multiplicative operator suffices to map the open-loop system into the target system. The condition for the existence of the transformation is algebraic. Hence, the backstepping transformation and the associated matching condition are simpler than the conventional ones that considers Volterra integral terms and kernel conditions in the form of partial differential equations. Since the controller has been developed for a general class of linear PHS it is applicable to a large class of physical systems, as for instance transport, beam and wave equations. The result is illustrated on the examples of a transport equation and a vibrating string on a 1D spatial domain.

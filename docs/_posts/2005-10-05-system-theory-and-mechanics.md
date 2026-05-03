@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[A. J. van der Schaft](authors/arjan-van-der-schaft)
+[A. J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 This paper discusses a system theoretic approach to mechanics, regarding Hamiltonian systems as conservative "mechanical m-ports". Recent results in the Hamiltonian realization problem are surveyed, and generalizations are being indicated. The potential use for control purposes of the Hamiltonian structure of nonlinear control systems is exemplified.

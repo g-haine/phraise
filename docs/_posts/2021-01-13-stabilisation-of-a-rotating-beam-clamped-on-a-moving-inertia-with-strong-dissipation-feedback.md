@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Andrea Mattioni](authors/andrea-mattioni), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec), [Hans Zwart](authors/hans-zwart)
+[Andrea Mattioni](authors/andrea-mattioni), [Yongxin Wu](authors/yongxin-wu), [Yann Le Gorrec](authors/yann-le-gorrec), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 In this paper we consider the stabilization problem of a beam clamped on a moving inertia actuated by an external torque and force. The beam is modelled as a distributed parameter port-Hamiltonian system (PDEs), while the inertia as a finite dimensional port-Hamiltonian system (ODEs). The control inputs correspond to a torque applied by a rotating motor and a force applied by a linear motor. In this paper we propose the use of a strong dissipation term in the control law, consisting of the time derivative of the restoring force at the clamping point. After a change of variables, the closed loop system shows dissipation at the boundaries of the PDEs. In this preliminary work we show that the closed loop operator is the generator of a contraction C0-semigroup in a special weighted space, with norm equivalent to the standard one. Further, we prove the asymptotic stability of the closed loop system and we show the effectiveness of the proposed control law in comparison with a PD controller with the help of numerical simulations.

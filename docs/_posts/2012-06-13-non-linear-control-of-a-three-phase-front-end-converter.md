@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[F. M. Serra](authors/federico-m-serra), [C. H. De Angelo](authors/cristian-h-de-angelo), [D. G. Forchetti](authors/daniel-g-forchetti), [G. O. Garcia](authors/g-o-garcia)
+[F. M. Serra](authors/federico-martin-serra), [C. H. De Angelo](authors/cristian-h-de-angelo), [D. G. Forchetti](authors/daniel-g-forchetti), [G. O. Garcia](authors/g-o-garcia)
  
 ## Abstract
 The design of a non-linear controller for a three-phase front end converter used to connect renewable energy sources to the grid is presented in this paper. The objectives of this controller are the injection of all the generated power into the grid and the control of the reactive power exchanged with the power system. The system is represented through Park coordinates and port controlled Hamiltonian models. The controller is designed by interconnection and damping assignment (IDA), and feedback linearization (FL). It is demonstrated that for the particular case of selecting interconnection and damping matrixes, then coupling can be eliminated from the system model and therefore the controller designed using interconnection and damping assignment results the same as that using feedback linearization. The control strategy proposed in the present work is validated through simulation.

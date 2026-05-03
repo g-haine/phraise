@@ -8,6 +8,7 @@ permalink: /authors/enjun-liu
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Ming Li, Yongtao Mao, Hua Geng, Enjun Liu, Xing Wang, Xing Zhang, Pinjia Zhang</span><h3><a class='post-link' href="{{ site.baseurl }}/optimized-passivity-based-control-for-grid-forming-converter-with-control-delays">Optimized Passivity‐Based Control for Grid‐Forming Converter with Control Delays</a></h3></li>
+<li><span class='post-meta'>2025 -- Ming Li, Yongtao Mao, Xing Wang, Enjun Liu, Xing Zhang, Hua Geng</span><h3><a class='post-link' href="{{ site.baseurl }}/a-robust-design-strategy-for-grid-connected-inverter-controller-parameters-based-on-passivity-theory">A Robust Design Strategy for Grid-Connected Inverter Controller Parameters Based on Passivity Theory</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -14,7 +14,7 @@ tags:
 ---
  
 ## Authors
-[H. Hoang](authors/h-hoang), [F. Couenne](authors/francoise-couenne), [C. Jallut](authors/c-jallut), [Y. Le Gorrec](authors/yann-le-gorrec)
+[H. Hoang](authors/h-hoang), [F. Couenne](authors/francoise-couenne), [C. Jallut](authors/christian-jallut), [Y. Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper proposes a thermodynamically consistent pseudo Hamiltonian formulation of Continuous Stirred Tank Reactor model in which takes place one general reaction scheme. This is done both in the isothermal and non isothermal cases. It is shown that Gibbs free energy and opposite of entropy can be chosen as Hamiltonian function respectively. For the non isothermal case, the so called Interconnection and Damping Assignment Passivity Based Control method is applied. Even for a general reaction the control problem is shown to be easy to solve as soon as closed loop hamiltonian function is chosen to be proportional to the so called thermodynamic Availability function.

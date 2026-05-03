@@ -4,7 +4,7 @@ permalink: /authors/thomas-rittenschober
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Thomas Rittenschober, Thomas Rittenschober, T. Rittenschober.</p>
+<p id='info-authors'>Alternative author names: Thomas Rittenschober, T. Rittenschober.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2012 -- Thomas Rittenschober, Kurt Schlacher</span><h3><a class='post-link' href="{{ site.baseurl }}/observer-based-self-sensing-actuation-of-piezoelastic-structures-for-robust-vibration-control">Observer-based self sensing actuation of piezoelastic structures for robust vibration control</a></h3></li>

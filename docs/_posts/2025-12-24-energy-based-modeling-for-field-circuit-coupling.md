@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Robert Altmann](authors/robert-a-altmann), [Idoia Cortes Garcia](authors/idoia-cortes-garcia), [Elias Paakkunainen](authors/elias-paakkunainen), [Philipp Schulze](authors/philipp-schulze), [Sebastian Schöps](authors/sebastian-schops)
+[Robert Altmann](authors/robert-altmann), [Idoia Cortes Garcia](authors/idoia-cortes-garcia), [Elias Paakkunainen](authors/elias-paakkunainen), [Philipp Schulze](authors/philipp-schulze), [Sebastian Schöps](authors/sebastian-schops)
  
 ## Abstract
 This paper presents a generalized energy-based modeling framework extending recent formulations tailored for differential–algebraic equations. The proposed structure, inspired by the port-Hamiltonian formalism, ensures passivity, preserves the power balance, and facilitates the consistent interconnection of subsystems. A particular focus is put on low-frequency power applications in electrical engineering. Stranded, solid, and foil conductor models are investigated in the context of the eddy current problem. Each conductor model is shown to fit into the generalized energy-based structure, which allows their structure-preserving coupling with electrical circuits described by modified nodal analysis. Theoretical developments are validated through a numerical simulation of an oscillator circuit, demonstrating energy conservation in lossless scenarios and controlled dissipation when eddy currents are present. The applicability of the methodology towards engineering applications is studied through a numerical simulation of a nonlinear three-phase transformer.

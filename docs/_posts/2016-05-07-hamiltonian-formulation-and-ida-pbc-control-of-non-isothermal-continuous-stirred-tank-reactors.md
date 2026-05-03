@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[H. Hoang](authors/h-hoang), [F. Couenne](authors/francoise-couenne), [C. Jallut](authors/c-jallut), [Y. Le Gorrec](authors/yann-le-gorrec)
+[H. Hoang](authors/h-hoang), [F. Couenne](authors/francoise-couenne), [C. Jallut](authors/christian-jallut), [Y. Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
 This paper proposes a pseudo port Hamiltonian formulation of non isothermal Continuous Stirred Tank Reactor CSTR) model. This structured modeling shows how the opposite of the entropy can be used as Hamiltonian function and how the associated dissipation can be related to the irreversible entropy production due to chemical reaction. The IDA-PBC approach based control is then applied to stabilize the continuous system about an unstable equilibrium point. The chosen control variables are the jacket temperature and the inlet molar flow rate. The chosen hamiltonian storage function of the closed loop system is the thermodynamic availability function. Theoretical developments are illustrated on a first order chemical equilibrated reaction. Some stability properties and analysis of the admissibility of the control variables are given.

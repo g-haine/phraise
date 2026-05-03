@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Pankaj Mukhija](authors/pankaj-mukhija), [I. N. Kar](authors/i-n-kar), [R. K. P. Bhatt](authors/r-k-p-bhatt)
+[Pankaj Mukhija](authors/pankaj-mukhija), [I. N. Kar](authors/i-n-kar), [R. K. P. Bhatt](authors/kirtan-bhatt)
  
 ## Abstract
 In this paper, the problem of stability analysis of time-delayed port-Hamiltonian systems with probabilistic time-varying delay has been considered. The time-delay variation range is divided into two sub-intervals. By considering the probability distribution of the time-varying delay between the two sub-intervals and the knowledge of the delay variation range, a novel linear matrix inequality (LMI) based stability condition is derived by defining a Lyapunov-Krasovskii functional. It is illustrated with the help of a numerical example that as the probability of delay taking a small value increases, the upper delay bound increases.

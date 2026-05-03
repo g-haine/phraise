@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Roland Pulch](authors/roland-pulch), [Olivier SÃ¨te](authors/olivier-sete)
+[Roland Pulch](authors/roland-pulch), [Olivier SÃ¨te](authors/olivier-sa-te)
  
 ## Abstract
 <p>We consider linear first-order systems of ordinary differential equations (ODEs) in port-Hamiltonian (pH) form. Physical parameters are remodeled as random variables to conduct an uncertainty quantification. A stochastic Galerkin projection yields a larger deterministic system of ODEs, which does not exhibit a pH form in general. We apply transformations of the original systems such that the stochastic Galerkin projection becomes structure-preserving. Furthermore, we investigate meaning and properties of the Hamiltonian function belonging to the stochastic Galerkin system. A large number of random variables implies a high-dimensional stochastic Galerkin system, which suggests itself to apply model order reduction (MOR) generating a low-dimensional system of ODEs. We discuss structure preservation in projection-based MOR, where the smaller systems of ODEs feature pH form again. Results of numerical computations are presented using two test examples. </p>

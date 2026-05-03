@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Ihor Shchur](authors/igor-z-shchur), [Yurii Biletskyi](authors/yurii-o-biletskyi), [Ihor Golovach](authors/ihor-golovach)
+[Ihor Shchur](authors/ihor-z-shchur), [Yurii Biletskyi](authors/yurii-biletskyi), [Ihor Golovach](authors/ihor-golovach)
  
 ## Abstract
 This paper raises the problem of regulatory limitation in port-controlled Hamiltonian energy-shaping control system (PCH ESCS). For this solution, it is proposed to use regulatory actions on directly uncontrollable loops, which can be formed during synthesis and always are discarded due to impossible implementation, by transmitting these actions through controllable loops in two different ways: first — by rebuilding closed-loop PCH to suitable form, second — by correcting reference signal. In order to check existing solutions and verify feasibility and effectiveness of proposed approaches they were used to synthesize ESCSs for a simple direct current drive, which were further investigated. Obtained results confirmed that both approaches allow outmatching existing solutions and having their advantages and disadvantages.

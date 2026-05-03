@@ -8,7 +8,7 @@ category: chapters
 ---
  
 ## Authors
-[B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[B.M. Maschke](authors/bernhard-maschke), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Keywords: Network dynamics, general Poisson structures, gyrators, Hamiltonian equations, observation space, minimal realizations

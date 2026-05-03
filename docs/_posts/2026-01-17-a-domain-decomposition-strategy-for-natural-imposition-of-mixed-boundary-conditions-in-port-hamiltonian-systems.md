@@ -21,7 +21,7 @@ finite element exterior calculus, geometrically exact beams, mechanical vibratio
 ## Citation
 - **Journal:** Applied Mathematical Modelling
 - **Year:** 2026
-- **Volume:** 
+- **Volume:** 156
 - **Issue:** 
 - **Pages:** 116775
 - **Publisher:** Elsevier BV
@@ -32,6 +32,7 @@ finite element exterior calculus, geometrically exact beams, mechanical vibratio
 {% raw %}
 @article{De_Jong_2026,
   title={{A domain decomposition strategy for natural imposition of mixed boundary conditions in port-Hamiltonian systems}},
+  volume={156},
   ISSN={0307-904X},
   DOI={10.1016/j.apm.2026.116775},
   journal={Applied Mathematical Modelling},
@@ -47,7 +48,7 @@ finite element exterior calculus, geometrically exact beams, mechanical vibratio
  
 ## References
 - [Rashad R, Califano F, van der Schaft AJ, Stramigioli S (2020) Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information 37(4):1400–1422. https://doi.org/10.1093/imamci/dnaa01](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
-- Bochev, A discourse on variational and geometric aspects of stability of discretizations. 33rd Computational Fluid Dynamics Lecture Series, VKI LS (2003)
+- Bochev, A discourse on variational and geometric aspects of stability of discretizations. 33rd Comput. Fluid Dyn. Lect. Ser., VKI LS (2003)
 - Arnold DN, Falk RS, Winther R (2006) Finite element exterior calculus, homological techniques, and applications. Acta Numerica 15:1–155. https://doi.org/10.1017/s096249290621001 -- [10.1017/s0962492906210018](https://doi.org/10.1017/s0962492906210018)
 - [Christiansen SH, Munthe-Kaas HZ, Owren B (2011) Topics in structure-preserving discretization. Acta Numerica 20:1–119. https://doi.org/10.1017/s096249291100002](topics-in-structure-preserving-discretization) -- [10.1017/s096249291100002x](https://doi.org/10.1017/s096249291100002x)
 - Bochev, Principles of mimetic discretizations of differential operators. (2006)
@@ -61,7 +62,7 @@ finite element exterior calculus, geometrically exact beams, mechanical vibratio
 - [Seslija M, Scherpen JMA, van der Schaft A (2014) Explicit simplicial discretization of distributed-parameter port-Hamiltonian systems. Automatica 50(2):369–377. https://doi.org/10.1016/j.automatica.2013.11.02](explicit-simplicial-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.automatica.2013.11.020](https://doi.org/10.1016/j.automatica.2013.11.020)
 - [Kotyczka P, Maschke B, Lefèvre L (2018) Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics 361:442–476. https://doi.org/10.1016/j.jcp.2018.02.00](weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems) -- [10.1016/j.jcp.2018.02.006](https://doi.org/10.1016/j.jcp.2018.02.006)
 - [Cardoso-Ribeiro FL, Matignon D, Lefèvre L (2020) A partitioned finite element method for power-preserving discretization of open systems of conservation laws. IMA Journal of Mathematical Control and Information 38(2):493–533. https://doi.org/10.1093/imamci/dnaa03](a-partitioned-finite-element-method-for-power-preserving-discretization-of-open-systems-of-conservation-laws) -- [10.1093/imamci/dnaa038](https://doi.org/10.1093/imamci/dnaa038)
-- Kumar, Port-Hamiltonian discontinuous Galerkin finite element methods. IMA Journal of Numerical Analysis (2024)
+- Kumar, Port-hamiltonian discontinuous galerkin finite element methods. IMA J. Numer. Anal. (2024)
 - Joly, (2003)
 - [Brugnoli A, Rashad R, Stramigioli S (2022) Dual field structure-preserving discretization of port-Hamiltonian systems using finite element exterior calculus. Journal of Computational Physics 471:111601. https://doi.org/10.1016/j.jcp.2022.11160](dual-field-structure-preserving-discretization-of-port-hamiltonian-systems-using-finite-element-exterior-calculus) -- [10.1016/j.jcp.2022.111601](https://doi.org/10.1016/j.jcp.2022.111601)
 - Zhang Y, Palha A, Gerritsma M, Rebholz LG (2022) A mass-, kinetic energy- and helicity-conserving mimetic dual-field discretization for three-dimensional incompressible Navier-Stokes equations, part I: Periodic domains. Journal of Computational Physics 451:110868. https://doi.org/10.1016/j.jcp.2021.11086 -- [10.1016/j.jcp.2021.110868](https://doi.org/10.1016/j.jcp.2021.110868)
@@ -81,5 +82,5 @@ finite element exterior calculus, geometrically exact beams, mechanical vibratio
 - Badia S, Codina R, Espinoza H (2014) Stability, Convergence, and Accuracy of Stabilized Finite Element Methods for the Wave Equation in Mixed Form. SIAM J Numer Anal 52(4):1729–1752. https://doi.org/10.1137/13091870 -- [10.1137/130918708](https://doi.org/10.1137/130918708)
 - Grote MJ, Schneebeli A, Schötzau D (2006) Discontinuous Galerkin Finite Element Method for the Wave Equation. SIAM J Numer Anal 44(6):2408–2431. https://doi.org/10.1137/05063194 -- [10.1137/05063194x](https://doi.org/10.1137/05063194x)
 - Arnold DN, Winther R (2002) Mixed finite elements for elasticity. Numerische Mathematik 92(3):401–419. https://doi.org/10.1007/s00211010034 -- [10.1007/s002110100348](https://doi.org/10.1007/s002110100348)
-- {"status":"error" -- [10.1016/0022-460x(80)90477-0](https://doi.org/10.1016/0022-460x(80)90477-0)
+- Dawe DJ, Roufaeil OL (1980) Rayleigh-Ritz vibration analysis of Mindlin plates. Journal of Sound and Vibration 69(3):345–359. https://doi.org/10.1016/0022-460x(80)90477- -- [10.1016/0022-460x(80)90477-0](https://doi.org/10.1016/0022-460x(80)90477-0)
 

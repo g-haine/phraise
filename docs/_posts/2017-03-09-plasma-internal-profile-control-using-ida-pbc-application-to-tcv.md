@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[N.M. Trang Vu](authors/ngoc-minh-trang-vu), [R. Nouailletas](authors/remy-nouailletas), [E. Maljaars](authors/e-maljaars), [F. Felici](authors/federico-felici), [O. Sauter](authors/o-sauter)
+[N.M. Trang Vu](authors/ngoc-minh-trang-vu), [R. Nouailletas](authors/remy-nouailletas), [E. Maljaars](authors/e-maljaars), [F. Felici](authors/federico-felici), [O. Sauter](authors/olivier-sa-te)
  
 ## Abstract
 In this paper, new results of plasma ι-profile and β control on TCV, using total plasma current I p , and ECCD (Electron Cyclotron heating and Current Drive) heating source have been discussed. The control model is governed by the resistive diffusion equation coupled with the thermal transport equation, written in PCH (Port-Controlled Hamiltonian) formulation. The IDA-PBC (Interconnection and Damping Assignment – Passivity based Control) controller is developed and tested on simulation as well as on TCV real plant. Two test scenarios are considered: ι control only, and ι and β control. The spatial distributions of ECCD profiles are pre-defined and only input powers are used for control design. Thus, a stationary control is defined in order to consider all non-linearity and actuator constraint, and a linear feedback IDA-PBC will ensure the convergence speed and the robustness of the closed-loop system. The obtained results are encouraging towards using routinely such plasma advanced control algorithm in a near future.

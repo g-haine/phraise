@@ -4,9 +4,10 @@ permalink: /authors/alejandro-garces-ruiz
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Alejandro Garcés-Ruíz, Alejandro Garcés Ruiz, Alejandro Garcés, Alejandro Garces, A. Garces, Alejandro Garcés-Ruiz.</p>
+<p id='info-authors'>Alternative author names: Alejandro Garcés-Ruíz, Alejandro Garcés-Ruiz, Alejandro Garcés, Alejandro Garces, A. Garces, Alejandro Garcés Ruiz.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Kenneth Marín-Silva, Walter Gil-González, Alejandro Garcés-Ruiz</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-of-discrete-time-port-hamiltonian-systems-for-power-electronic-applications">Passivity of discrete-time port-Hamiltonian systems for power-electronic applications</a></h3></li>
 <li><span class='post-meta'>2024 -- Alejandro Garcés-Ruiz, Walter Julián Gil González</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-model-predictive-control-for-the-permanent-magnet-synchronous-machine">Passivity-Based Model-Predictive Control for the Permanent Magnet Synchronous Machine</a></h3></li>
 <li><span class='post-meta'>2024 -- Alejandro Garcés-Ruiz, Sofia Avila-Becerril, Gerardo Espinosa-Perez</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-time-port-hamiltonian-systems-for-power-and-energy-applications">Discrete-Time Port-Hamiltonian Systems for Power and Energy Applications</a></h3></li>
 <li><span class='post-meta'>2023 -- Alejandro Garcés, Sofía Avila-Becerril, Gerardo Espinosa-Pérez</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-analysis-of-multi-converter-power-systems-with-angle-feedback">Stability Analysis of Multi-Converter Power Systems with Angle Feedback</a></h3></li>

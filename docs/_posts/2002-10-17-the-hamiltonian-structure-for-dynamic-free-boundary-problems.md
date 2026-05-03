@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[D. Lewis](authors/d-lewis), [J. Marsden](authors/j-marsden), [R. Montgomery](authors/r-montgomery), [T. Ratiu](authors/tudor-ratiu)
+[D. Lewis](authors/d-lewis), [J. Marsden](authors/jerrold-e-marsden), [R. Montgomery](authors/r-montgomery), [T. Ratiu](authors/tudor-ratiu)
  
 ## Abstract
 Hamiltonian structures for 2- or 3-dimensional incompressible flows with a free boundary are determined which generalize a previous structure of Zakharov for irrotational flow. Our Poisson bracket is determined using the method of Arnold, namely reduction from canonical variables in the Lagrangian (material) description. Using this bracket, the Hamiltonian form for the equations of a liquid drop with a free boundary having surface tension is demonstrated. The structure of the bracket in terms of a reduced cotangent bundle of a principal bundle is explained. In the case of two-dimensional flows, the vorticity bracket is determined and the generalized enstrophy is shown to be a Casimir function. This investigation also clears up some confusion in the literature concerning the vorticity bracket, even for fixed boundary flows.

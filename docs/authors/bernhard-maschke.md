@@ -4,9 +4,10 @@ permalink: /authors/bernhard-maschke
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Bernhard Maschke, B. Maschke, B.M. Maschke, Bernhard MASCHKE, B. M. Maschke, Bernhard M. Maschke, B.M.J. Maschke.</p>
+<p id='info-authors'>Alternative author names: Bernhard Maschke, Bernhard MASCHKE, Bernhard M. Maschke, B. Maschke, B.M.J. Maschke, B. M. Maschke, B.M. Maschke.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Xiaoyu Cheng, Bernhard Maschke, Christian Jallut</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulations-of-the-elastic-foam-bed-reactor-model">Port-Hamiltonian formulations of the elastic foam-bed reactor model</a></h3></li>
 <li><span class='post-meta'>2025 -- Jonas Kirchhoff, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-representation-of-metriplectic-systems-and-their-interconnection">Port-Hamiltonian representation of metriplectic systems and their interconnection</a></h3></li>
 <li><span class='post-meta'>2025 -- Mario Spirito, Bernhard Maschke, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/beyond-singular-perturbation-for-linear-port-hamiltonian-systems">Beyond Singular Perturbation for linear port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Arjan van der Schaft, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/linear-port-hamiltonian-boundary-control-models-and-their-equivalence">Linear port-Hamiltonian boundary control models and their equivalence</a></h3></li>

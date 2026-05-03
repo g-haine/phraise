@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[Yann Le Gorrec](authors/yann-le-gorrec), [Alessandro Macchelli](authors/alessandro-macchelli), [Hector Ramirez](authors/hector-ramirez), [Hans Zwart](authors/hans-zwart)
+[Yann Le Gorrec](authors/yann-le-gorrec), [Alessandro Macchelli](authors/alessandro-macchelli), [Hector Ramirez](authors/hector-ramirez), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 In this paper, we consider the asymptotic stabilization of a class of one dimensional boundary controlled port Hamiltonian systems by an immersion/reduction approach and the use of Casimir invariants. We first extend existing results on asymptotic stability of linear infinite dimensional systems controlled at their boundary to the case of stable Port Hamiltonian controllers including some physical constraints as clamping. Then the relation between structural invariants, namely Casimir functions, and the controller structure is computed. The Casimirs are employed in the selection of the controllers Hamiltonian to shape the total energy function of the closed loop system and introduce a minimum in the desired equilibrium configuration. The approach is illustrated on the model of a micro manipulation process with partial-actuation on one side of the spatial domain.

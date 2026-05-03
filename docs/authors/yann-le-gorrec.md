@@ -4,10 +4,12 @@ permalink: /authors/yann-le-gorrec
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Yann Le Gorrec, Y. Le Gorrec, Le Gorrec Yann, Yann Le Gorec, Y. Legorrec.</p>
+<p id='info-authors'>Alternative author names: Yann Le Gorrec, Yann Le Gorec, Y. Le Gorrec, Y. Legorrec, Le Gorrec Yann.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2025 -- Emilio José Olivares-Labraña, Maximilian Mogler, Laurent Lefévre, Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-time-approximations-for-port-hamiltonian-systems-and-controllers-using-collocation-methods">Discrete-Time Approximations for Port-Hamiltonian Systems and Controllers Using Collocation Methods</a></h3></li>
 <li><span class='post-meta'>2026 -- Amal Hammoud, Ning Liu, Yann Le Gorrec, Yoan Civet, Yves Perriard</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-of-a-dielectric-elastomer-cardiac-assist-device">Energy-based control of a dielectric elastomer cardiac assist device</a></h3></li>
+<li><span class='post-meta'>2025 -- Nelson Cisneros, Cristobal Ponce, Yongxin Wu, Alessandro Macchelli, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/position-and-anti-drift-control-of-large-scale-curling-hasel-actuators">Position and anti-drift control of large-scale curling HASEL actuators</a></h3></li>
 <li><span class='post-meta'>2026 -- Cristobal Ponce, Yongxin Wu, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-framework-for-the-modeling-and-fem-discretization-of-hyperelastic-systems">A port-Hamiltonian framework for the modeling and FEM discretization of hyperelastic systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Cristobal Ponce, Hector Ramirez, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/constrained-port-hamiltonian-modeling-and-structure-preserving-discretization-of-the-rayleigh-beam">Constrained port-Hamiltonian modeling and structure-preserving discretization of the Rayleigh beam</a></h3></li>
 <li><span class='post-meta'>2025 -- Ignacio Diaz, Yann Le Gorrec, Yongxin Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/control-oriented-modular-modelling-of-a-floating-wind-turbine-the-port-hamiltonian-approach">Control Oriented Modular Modelling of a Floating Wind Turbine: The Port-Hamiltonian Approach</a></h3></li>

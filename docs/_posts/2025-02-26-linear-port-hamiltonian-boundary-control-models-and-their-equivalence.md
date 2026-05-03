@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
 Systems of partial differential equations often admit different Hamiltonian representations, leading to different boundary variables that are either power or energy conjugate. It is shown that any linear infinite-dimensional Hamiltonian system can be transformed into one with constant symplectic matrix. Alternatively, any passive linear Hamiltonian system can be converted into one with constant energy storage matrix. The consideration of energy boundary variables points towards a new approach to control by interconnection. All this is illustrated on the example of the elastic rod.

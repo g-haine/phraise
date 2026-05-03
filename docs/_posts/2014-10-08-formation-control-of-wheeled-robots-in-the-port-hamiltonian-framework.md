@@ -11,7 +11,7 @@ tags:
 ---
  
 ## Authors
-[Ewoud Vos](authors/ewoud-vos), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan J. van der Schaft](authors/arjan-van-der-schaft), [Ate Postma](authors/ate-postma)
+[Ewoud Vos](authors/ewoud-vos), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan J. van der Schaft](authors/arjan-j-van-der-schaft), [Ate Postma](authors/ate-postma)
  
 ## Abstract
 This paper proposes a new control strategy for the formation control of a network of wheeled robots. Starting from the rigid body dynamics, a dynamical model of the wheeled robot is derived in the port-Hamiltonian framework. The formation control objective is achieved by interconnecting the robots using virtual couplings, which give a clear physical interpretation of the proposed solution. Simulation and experimental results are given, to illustrate the effectiveness of the approach.

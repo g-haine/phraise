@@ -4,7 +4,7 @@ permalink: /authors/francois-lamoline
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: François Lamoline, F. Lamoline, Francois Lamoline.</p>
+<p id='info-authors'>Alternative author names: François Lamoline, Francois Lamoline, F. Lamoline.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2024 -- François Lamoline, Anthony Hastir</span><h3><a class='post-link' href="{{ site.baseurl }}/on-dirac-structure-of-infinite-dimensional-stochastic-port-hamiltonian-systems">On Dirac structure of infinite-dimensional stochastic port-Hamiltonian systems</a></h3></li>

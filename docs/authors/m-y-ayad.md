@@ -1,10 +1,10 @@
 ---
-title: Publications by M. Y. Ayad
+title: Publications by M.Y. Ayad
 permalink: /authors/m-y-ayad
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: M. Y. Ayad, M. Ayad, M.Y. Ayad.</p>
+<p id='info-authors'>Alternative author names: M.Y. Ayad, M. Y. Ayad, M. Ayad.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2017 -- M. Becherif, H.S. Ramadan, M.Y. Ayad, D. Hissel, U. Desideri, M. Antonelli</span><h3><a class='post-link' href="{{ site.baseurl }}/efficient-start-up-energy-management-via-nonlinear-control-for-eco-traction-systems">Efficient start–up energy management via nonlinear control for eco–traction systems</a></h3></li>

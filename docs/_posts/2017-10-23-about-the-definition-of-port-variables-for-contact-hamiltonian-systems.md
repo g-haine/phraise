@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Bernhard Maschke](authors/bernhard-maschke), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Extending the formulation of reversible thermodynamical transformations to the formulation of irreversible transformations of open thermodynamical systems different classes of nonlinear control systems has been defined in terms of control Hamiltonian systems defined on a contact manifold. In this paper we discuss the relation between the definition of variational control contact systems and the input-output contact systems. We have first given an expression of the variational control contact systems in terms of a nonlinear control systems. Secondly we have shown that the conservative input-output contact systems are a subclass of the contact variational systems with integrable output dynamics.
@@ -54,7 +54,7 @@ Open irreversible thermodynamic systems; Nonlinear control systems; Hamiltonian 
 - Grmela, M. Reciprocity relations in thermodynamics. Physica A: Statistical Mechanics and its Applications 309, 304–328 (2002) -- [10.1016/s0378-4371(02)00564-2](https://doi.org/10.1016/s0378-4371(02)00564-2)
 - Libermann, P. & Marle, C.-M. Symplectic Geometry and Analytical Mechanics. (Springer Netherlands, 1987). doi:10.1007/978-94-009-3807-6 -- [10.1007/978-94-009-3807-6](https://doi.org/10.1007/978-94-009-3807-6)
 - [Maschke, B. M. & van der Schaft, A. J. PORT-CONTROLLED HAMILTONIAN SYSTEMS: MODELLING ORIGINS AND SYSTEMTHEORETIC PROPERTIES. Nonlinear Control Systems Design 1992 359–365 (1993) doi:10.1016/b978-0-08-041901-5.50064-6](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties0) -- [10.1016/b978-0-08-041901-5.50064-6](https://doi.org/10.1016/b978-0-08-041901-5.50064-6)
-- Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mech. Thermodyn. 25, 779–793 (2012) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
+- [Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mech. Thermodyn. 25, 779–793 (2012)](on-a-variational-principle-in-thermodynamics) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
 - Mrugaa̵, R. On a special family of thermodynamic processes and their invariants. Reports on Mathematical Physics 46, 461–468 (2000) -- [10.1016/s0034-4877(00)90012-0](https://doi.org/10.1016/s0034-4877(00)90012-0)
 - Nijmeijer, H. & van der Schaft, A. Nonlinear Dynamical Control Systems. (Springer New York, 1990). doi:10.1007/978-1-4757-2101-0 -- [10.1007/978-1-4757-2101-0](https://doi.org/10.1007/978-1-4757-2101-0)
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. Feedback equivalence of input–output contact systems. Systems &amp; Control Letters 62, 475–481 (2013)](feedback-equivalence-of-input-output-contact-systems) -- [10.1016/j.sysconle.2013.02.008](https://doi.org/10.1016/j.sysconle.2013.02.008)

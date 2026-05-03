@@ -11,7 +11,7 @@ tags:
 ---
  
 ## Authors
-[V. Talasila](authors/viswanath-talasila), [J. Clemente-Gallardo](authors/j-clemente-gallardo), [A.J. van der Schaft](authors/arjan-van-der-schaft)
+[V. Talasila](authors/viswanath-talasila), [J. Clemente-Gallardo](authors/jesus-clemente-gallardo), [A.J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Either from a control theoretic viewpoint or from an analysis viewpoint it is necessary to convert smooth systems to discrete systems, which can then be implemented on computers for numerical simulations. Discrete models can be obtained either by discretizing a smooth model, or by directly modeling at the discrete level itself. One of the goals of this paper is to model port-Hamiltonian systems at the discrete level. We also show that the dynamics of the discrete models we obtain exactly correspond to the dynamics obtained via a usual discretization procedure. In this sense we offer an alternative to the usual procedure of modeling (at the smooth level) and discretization.

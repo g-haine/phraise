@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Haojun Ma](authors/haojun-ma), [Mauricio Muñoz-Arias](authors/mauricio-munoz-arias), [Peng Han](authors/peng-han), [Jianhua Zheng](authors/jianhua-zheng), [Dong Gao](authors/dong-gao)
+[Haojun Ma](authors/haojun-ma), [Mauricio Muñoz-Arias](authors/raul-s-munoz-aguilar), [Peng Han](authors/peng-han), [Jianhua Zheng](authors/jianhua-zheng), [Dong Gao](authors/dong-gao)
  
 ## Abstract
 In the future, drag-free satellites will be the key platform to detect gravitational waves in deep space. Due to the ambitious ultra-quiet-stable control requirements of such a mission, the system dynamics are quite complex and strongly nonlinear, which introduces challenges in the modeling and control of the spacecraft. Currently, drag-free controller designs focus on linearized systems and usually invoke linear control theory. These methods ignore the nonlinearities of the system and may cause instability in real applications. In this work, we first propose an energy-based method to model the drag-free system in the port-Hamiltonian framework. Then, a nonlinear drag-free controller with integral action is designed. It is proved that the achieved controller secures internal stability, rejection of unknown disturbances, and input-to-state stability. Finally, a numerical simulation is conducted to verify the theoretical results and the control performance.

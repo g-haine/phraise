@@ -4,7 +4,7 @@ permalink: /authors/masaki-yamakita
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Masaki Yamakita, M. Yamakita, Masaki YAMAKITA, null Masaki Yamakita.</p>
+<p id='info-authors'>Alternative author names: Masaki Yamakita, Masaki YAMAKITA, M. Yamakita, null Masaki Yamakita.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2007 -- Gou Nishida, Masaki Yamakita, Zhi-wei Luo</span><h3><a class='post-link' href="{{ site.baseurl }}/time-varying-port-representation-of-dissipative-structures-with-gauge-transformations">Time-varying port-representation of dissipative structures with gauge transformations</a></h3></li>

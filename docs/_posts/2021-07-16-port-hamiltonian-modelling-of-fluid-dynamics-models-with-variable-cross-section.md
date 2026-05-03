@@ -16,7 +16,7 @@ tags:
 ---
  
 ## Authors
-[Harshit Bansal](authors/harshit-bansal), [Hans Zwart](authors/hans-zwart), [Laura Iapichino](authors/laura-iapichino), [Wil Schilders](authors/wils-h-a-schilders), [Nathan van de Wouw](authors/nathan-van-de-wouw)
+[Harshit Bansal](authors/harshit-bansal), [Hans Zwart](authors/hans-j-zwart), [Laura Iapichino](authors/laura-iapichino), [Wil Schilders](authors/wil-schilders), [Nathan van de Wouw](authors/nathan-van-de-wouw)
  
 ## Abstract
 Many single- and multi-phase fluid dynamical systems are governed by non-linear evolutionary equations. A key aspect of these systems is that the fluid typically flows across spatially and temporally varying cross-sections. We, first, show that not any choice of state-variables may be apt for obtaining a port-Hamiltonian realization under spatially varying cross-section. We propose a modified choice of the state-variables and then represent fluid dynamical systems in port-Hamiltonian representations. We define these port-Hamiltonian representations under spatial variation in the cross-section with respect to a new proposed state-dependent and extended Stokes- Dirac structure. Finally, we account for temporal variations in the cross-section and obtain a suitable structure that respects key properties, such as, for instance, the property of dissipation inequality.

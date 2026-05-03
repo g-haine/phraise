@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Paolo Rapisarda](authors/paolo-rapisarda), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Paolo Rapisarda](authors/paolo-rapisarda), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 Given a sufficiently numerous set of vector-exponential trajectories of a conservative port-Hamiltonian system and the supply rate, we compute a corresponding set of state trajectories by factorizing a constant Pick-like matrix. State equations are then obtained by solving a system of linear equations involving the system trajectories and the computed state ones. If a factorization of only a principal submatrix of the Pick matrix is performed, our procedure yields a lower-order conservative port-Hamiltonian model obtained by projection of the full-order one. We also describe a similar approach to identification and model-order reduction for self-adjoint Hamiltonian systems.

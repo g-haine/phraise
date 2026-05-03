@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Hans Zwart](authors/hans-zwart)
+[Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 In this paper, we discuss the geometric structure, i.e., Dirac structure, underlying port-Hamiltonian systems. The paper has a tutorial character, and thus it contains questions/exercises. We start with the general definition of a Dirac structure and show that on finite-dimensional spaces, there is a simple matrix characterization. By simple examples, we show that, even in the finite-dimensional case, a Dirac structure does not guarantee the existence of solutions for an associated ordinary differential or difference equation. For associated partial differential equations, i.e., on an infinite-dimensional Dirac structure, the existence problem becomes even more challenging. We show that the spaces have to be chosen with care, but when we have shown the existence of solutions, then the Dirac structure will give us the desired properties, such as conservation of energy. The Dirac structure also implies that the associated transfer function has nice properties.

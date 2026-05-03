@@ -7,6 +7,7 @@ permalink: /authors/wei-zhang
 <p id='info-authors'>Alternative author names: Wei Zhang.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2024 -- Jianwei Ma, Qiang Li, Wei Zhang, Hongpeng Liu</span><h3><a class='post-link' href="{{ site.baseurl }}/dc-link-clamp-type-high-step-up-ratio-y-source-inverter-grid-tied-energy-shaping-control">DC Link Clamp Type High Step-Up Ratio Y-Source Inverter Grid-Tied Energy-Shaping Control</a></h3></li>
 <li><span class='post-meta'>2024 -- Jiahui Qiu, Bingyi Jin, Qiang Li, Wei Zhang, Hongpeng Liu</span><h3><a class='post-link' href="{{ site.baseurl }}/harmonic-suppression-strategy-of-grid-connected-current-based-on-energy-shaping-control">Harmonic Suppression Strategy Of Grid-connected Current Based On Energy-shaping Control</a></h3></li>
 <li><span class='post-meta'>2019 -- Wei Zhang, Wei Wang, Wentao Wu</span><h3><a class='post-link' href="{{ site.baseurl }}/port-controlled-hamiltonian-and-energy-shaping-based-current-control-scheme-for-grid-connected-inverter">Port-Controlled Hamiltonian and Energy-Shaping Based Current Control Scheme for Grid-Connected Inverter</a></h3></li>
 

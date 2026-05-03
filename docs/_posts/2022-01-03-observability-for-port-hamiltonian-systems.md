@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Hans Zwart](authors/hans-zwart)
+[Birgit Jacob](authors/birgit-jacob), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 The class of port-Hamiltonian systems incorporates many physical models, such as mechanical systems in the finite-dimensional case and wave and beam equations in the infinite-dimensional case. In this paper we study a subclass of linear first order port-Hamiltonian systems. In [3], it is shown that these systems are exactly observable when the energy is not dissipated internally and when sufficient observations are made at the boundary. In this article we study the observability properties for these systems when internal dissipation of energy is possible. We cannot show the exact observability, but we do show that the Hautus test is satisfied. In general, the Hautus test is weaker than exact observability, but stronger than approximate observability. Hence we conclude that these systems are approximately observable.

@@ -4,10 +4,11 @@ permalink: /authors/victor-m-ramirez-rivera
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Victor M. Ramirez-Rivera.</p>
+<p id='info-authors'>Alternative author names: Victor M. Ramirez-Rivera, Victor Ramirez.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2020 -- Francisco Del-Rio-Rivera, Victor M. Ramirez-Rivera, Alejandro Donaire, Joel Ferguson</span><h3><a class='post-link' href="{{ site.baseurl }}/robust-trajectory-tracking-control-for-fully-actuated-marine-surface-vehicle">Robust Trajectory Tracking Control for Fully Actuated Marine Surface Vehicle</a></h3></li>
+<li><span class='post-meta'>2015 -- Jose Guadalupe Romero, Alejandro Donaire, David Navarro-Alarcon, Victor Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-tracking-controllers-for-mechanical-systems-with-active-disturbance-rejection">Passivity-Based Tracking Controllers for Mechanical Systems with Active Disturbance Rejection</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Oscar Danilo Montoya](authors/oscar-danilo-montoya), [Federico M. Serra](authors/federico-m-serra), [Gerardo Espinosa-Pérez](authors/gerardo-espinosa-perez)
+[Oscar Danilo Montoya](authors/oscar-danilo-montoya), [Federico M. Serra](authors/federico-martin-serra), [Gerardo Espinosa-Pérez](authors/gerardo-espinosa-perez)
  
 ## Abstract
 This brief addressed the control design problem for a bilinear dynamical system with two approaches. The first approach is proportional-integral passivity-based control theory (PI-PBC), and the second control approach is based on inverse optimal control theory plus integral gain (IOC+I). PI-PBC theory is a well-known control design methodology for dealing with state variable regulation in dynamical systems that exhibit a port-Hamiltonian structure, with the main characteristic that a PI controller is designed by preserving the Hamiltonian properties in a closed loop while ensuring asymptotic stability. IOC+I allows for the design of feedback nonlinear controllers for dynamical systems, which in turn allows selecting the candidate Lyapunov function and the control matrix to obtain multiple nonlinear feedback controllers, with the main advantage that all of them ensure asymptotic stability, as the resulting control laws are optimal. This brief demonstrates that a PI-PBC design and IOC+I generate the same feedback control law if and only the candidate Lyapunov function of the IOC+I design is selected as the Hamiltonian function used in the PI-PBC design. The well-known three-phase front-end converter was selected as the test control system to demonstrate the equivalence between the control laws obtained with the PI-PBC and the IOC+I approaches.

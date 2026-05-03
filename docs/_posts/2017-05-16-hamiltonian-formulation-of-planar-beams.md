@@ -10,7 +10,7 @@ tags:
 ---
  
 ## Authors
-[Goran Golo](authors/goran-golo), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Stefano Stramigioli](authors/stefano-stramigioli)
+[Goran Golo](authors/goran-golo), [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 This paper deals with the port-Hamiltonian formulation of planar beams. It is shown how this formulation can be related to the linear beams models: the Timoshenko beam model and the rod model

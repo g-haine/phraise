@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[Arjan van der Schaft](authors/arjan-van-der-schaft), [Volker Mehrmann](authors/volker-mehrmann)
+[Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
 No  available

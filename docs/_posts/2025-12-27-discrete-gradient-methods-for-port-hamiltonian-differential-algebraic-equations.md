@@ -2,7 +2,7 @@
 title: "Discrete gradient methods for port-Hamiltonian differential-algebraic equations"
 date: 2025-12-27 00:00:00 +0100
 permalink: discrete-gradient-methods-for-port-hamiltonian-differential-algebraic-equations
-year: 2025
+year: 2026
 authors: Philipp L. Kinon, Riccardo Morandin, Philipp Schulze
 category: articles
 tags:
@@ -20,24 +20,26 @@ differential-algebraic equations, discrete gradients, port-hamiltonian systems, 
  
 ## Citation
 - **Journal:** Applied Numerical Mathematics
-- **Year:** 2025
-- **Volume:** 
+- **Year:** 2026
+- **Volume:** 223
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 45--75
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.apnum.2025.12.006](https://doi.org/10.1016/j.apnum.2025.12.006)
  
 ## BibTeX
 {% highlight bibtex %}
 {% raw %}
-@article{Kinon_2025,
+@article{Kinon_2026,
   title={{Discrete gradient methods for port-Hamiltonian differential-algebraic equations}},
+  volume={223},
   ISSN={0168-9274},
   DOI={10.1016/j.apnum.2025.12.006},
   journal={Applied Numerical Mathematics},
   publisher={Elsevier BV},
   author={Kinon, Philipp L. and Morandin, Riccardo and Schulze, Philipp},
-  year={2025}
+  year={2026},
+  pages={45--75}
 }
 {% endraw %}
 {% endhighlight %}
@@ -46,10 +48,10 @@ differential-algebraic equations, discrete gradients, port-hamiltonian systems, 
  
 ## References
 - Duindam, (2009)
-- [Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [Beattie C, Mehrmann V, Xu H, Zwart H (2018) Linear port-Hamiltonian descriptor systems. Math Control Signals Syst 30(4). https://doi.org/10.1007/s00498-018-0223-](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
-- Mehrmann, Structure-Preserving Discretization for Port-Hamiltonian Descriptor Systems. (2019)
-- van der Schaft, Port-Hamiltonian Differential-Algebraic Systems. (2013)
+- Mehrmann, Structure-preserving discretization for port-Hamiltonian descriptor systems. (2019)
+- van der Schaft, Port-Hamiltonian differential-algebraic systems. (2013)
 - [van der Schaft A, Maschke B (2020) Dirac and Lagrange Algebraic Constraints in Nonlinear Port-Hamiltonian Systems. Vietnam J Math 48(4):929–939. https://doi.org/10.1007/s10013-020-00419-](dirac-and-lagrange-algebraic-constraints-in-nonlinear-port-hamiltonian-systems) -- [10.1007/s10013-020-00419-x](https://doi.org/10.1007/s10013-020-00419-x)
 - [van der Schaft A, Maschke B (2018) Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters 121:31–37. https://doi.org/10.1016/j.sysconle.2018.09.00](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
 - Hairer, (2006)
@@ -72,6 +74,7 @@ differential-algebraic equations, discrete gradients, port-hamiltonian systems, 
 - Kunkel P, Mehrmann V (2023) Discretization of inherent ODEs and the geometric integration of DAEs with symmetries. Bit Numer Math 63(2). https://doi.org/10.1007/s10543-023-00966- -- [10.1007/s10543-023-00966-y](https://doi.org/10.1007/s10543-023-00966-y)
 - Öttinger HC (2018) GENERIC Integrators: Structure Preserving Time Integration for Thermodynamic Systems. Journal of Non-Equilibrium Thermodynamics 43(2):89–100. https://doi.org/10.1515/jnet-2017-003 -- [10.1515/jnet-2017-0034](https://doi.org/10.1515/jnet-2017-0034)
 - [Kotyczka P, Lefèvre L (2019) Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters 133:104530. https://doi.org/10.1016/j.sysconle.2019.10453](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
+- [Giesselmann J, Karsai A, Tscherpel T (2025) Energy-consistent Petrov–Galerkin time discretization of port-Hamiltonian systems. The SMAI Journal of computational mathematics 11:335–367. https://doi.org/10.5802/smai-jcm.12](energy-consistent-petrov-galerkin-time-discretization-of-port-hamiltonian-systems) -- [10.5802/smai-jcm.127](https://doi.org/10.5802/smai-jcm.127)
 - [Bartel A, Diab M, Frommer A, Günther M, Marheineke N (2025) Splitting techniques for DAEs with port-Hamiltonian applications. Applied Numerical Mathematics 214:28–53. https://doi.org/10.1016/j.apnum.2025.03.00](splitting-techniques-for-daes-with-port-hamiltonian-applications) -- [10.1016/j.apnum.2025.03.004](https://doi.org/10.1016/j.apnum.2025.03.004)
 - [Mönch M, Marheineke N (2025) Commutator-based operator splitting for linear port-Hamiltonian systems. Applied Numerical Mathematics 210:25–38. https://doi.org/10.1016/j.apnum.2024.12.00](commutator-based-operator-splitting-for-linear-port-hamiltonian-systems) -- [10.1016/j.apnum.2024.12.007](https://doi.org/10.1016/j.apnum.2024.12.007)
 - [Bartel A, Schaller M (2025) Goal-oriented time adaptivity for port-Hamiltonian systems. Journal of Computational and Applied Mathematics 461:116450. https://doi.org/10.1016/j.cam.2024.11645](goal-oriented-time-adaptivity-for-port-hamiltonian-systems) -- [10.1016/j.cam.2024.116450](https://doi.org/10.1016/j.cam.2024.116450)
@@ -80,8 +83,8 @@ differential-algebraic equations, discrete gradients, port-hamiltonian systems, 
 - [Aoues S, Di Loreto M, Eberard D, Marquis-Favre W (2017) Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability. Systems &amp; Control Letters 110:9–14. https://doi.org/10.1016/j.sysconle.2017.10.00](hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability) -- [10.1016/j.sysconle.2017.10.003](https://doi.org/10.1016/j.sysconle.2017.10.003)
 - [Falaize A, Hélie T (2016) Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach. Applied Sciences 6(10):273. https://doi.org/10.3390/app610027](passive-guaranteed-simulation-of-analog-audio-circuits-a-port-hamiltonian-approach) -- [10.3390/app6100273](https://doi.org/10.3390/app6100273)
 - Gören-Sümer L, Yalçιn Y (2008) Gradient Based Discrete-Time Modeling and Control of Hamiltonian Systems. IFAC Proceedings Volumes 41(2):212–217. https://doi.org/10.3182/20080706-5-kr-1001.0003 -- [10.3182/20080706-5-kr-1001.00036](https://doi.org/10.3182/20080706-5-kr-1001.00036)
-- Kinon, Discrete Nonlinear Elastodynamics in a Port-Hamiltonian Framework. PAMM (Proc. Appl. Math. Mech.) (2023)
-- Moreschini, Discrete Port-Controlled Hamiltonian Dynamics and Average Passivation. (2019)
+- Kinon, Discrete nonlinear elastodynamics in a port-Hamiltonian framework. PAMM (Proc. Appl. Math. Mech.) (2023)
+- Moreschini, Discrete port-controlled Hamiltonian dynamics and average passivation. (2019)
 - Rabier PJ, Rheinboldt WC (1994) On Impasse Points of Quasilinear Differential-Algebraic Equations. Journal of Mathematical Analysis and Applications 181(2):429–454. https://doi.org/10.1006/jmaa.1994.103 -- [10.1006/jmaa.1994.1033](https://doi.org/10.1006/jmaa.1994.1033)
 - Steinbrecher, (2006)
 - Kunkel P, Mehrmann V (2006) Differential-Algebraic Equations. EMS Textbooks in Mathematic -- [10.4171/017](https://doi.org/10.4171/017)
@@ -92,10 +95,10 @@ differential-algebraic equations, discrete gradients, port-hamiltonian systems, 
 - [Gonzalez O (1996) Time integration and discrete Hamiltonian systems. J Nonlinear Sci 6(5):449–467. https://doi.org/10.1007/bf0244016](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/bf02440162](https://doi.org/10.1007/bf02440162)
 - Kundur, Power System Stability and Control. (1994)
 - [Fiaz S, Zonetti D, Ortega R, Scherpen JMA, van der Schaft AJ (2013) A port-Hamiltonian approach to power network modeling and analysis. European Journal of Control 19(6):477–485. https://doi.org/10.1016/j.ejcon.2013.09.00](a-port-hamiltonian-approach-to-power-network-modeling-and-analysis) -- [10.1016/j.ejcon.2013.09.002](https://doi.org/10.1016/j.ejcon.2013.09.002)
-- Kinon, Port-Hamiltonian Formulation and Structure-Preserving Discretization of Hyperelastic Strings. (2023)
+- Kinon, Port-Hamiltonian formulation and structure-preserving discretization of hyperelastic strings. (2023)
 - [Kinon PL, Thoma T, Betsch P, Kotyczka P (2024) Generalized Maxwell viscoelasticity for geometrically exact strings: Nonlinear port-Hamiltonian formulation and structure-preserving discretization. IFAC-PapersOnLine 58(6):101–106. https://doi.org/10.1016/j.ifacol.2024.08.26](generalized-maxwell-viscoelasticity-for-geometrically-exact-strings-nonlinear-port-hamiltonian-formulation-and-structure-preserving-discretization) -- [10.1016/j.ifacol.2024.08.264](https://doi.org/10.1016/j.ifacol.2024.08.264)
 - Udwadia FE, Phohomsiri P (2006) Explicit equations of motion for constrained mechanical systems with singular mass matrices and applications to multi-body dynamics. Proc R Soc A 462(2071):2097–2117. https://doi.org/10.1098/rspa.2006.166 -- [10.1098/rspa.2006.1662](https://doi.org/10.1098/rspa.2006.1662)
-- Kinon, Conserving Integration of Multibody Systems with Singular and Non-Constant Mass Matrix Including Quaternion-Based Rigid Body Dynamics. Multibody Sys. Dyn. (2024)
+- Kinon, Conserving integration of multibody systems with singular and non-constant mass matrix including quaternion-based rigid body dynamics. Multibody Sys. Dyn. (2024)
 - Holm, (2009)
 - Gonzalez O, Simo JC (1996) On the stability of symplectic and energy-momentum algorithms for non-linear Hamiltonian systems with symmetry. Computer Methods in Applied Mechanics and Engineering 134(3–4):197–222. https://doi.org/10.1016/0045-7825(96)01009- -- [10.1016/0045-7825(96)01009-2](https://doi.org/10.1016/0045-7825(96)01009-2)
 - Jonasson, (2007)

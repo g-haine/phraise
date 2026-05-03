@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[H. Bansal](authors/harshit-bansal), [S. Weiland](authors/s-weiland), [L. Iapichino](authors/laura-iapichino), [W.H.A. Schilders](authors/wils-h-a-schilders), [N. van de Wouw](authors/nathan-van-de-wouw)
+[H. Bansal](authors/harshit-bansal), [S. Weiland](authors/s-weiland), [L. Iapichino](authors/laura-iapichino), [W.H.A. Schilders](authors/wil-schilders), [N. van de Wouw](authors/nathan-van-de-wouw)
  
 ## Abstract
 We present a structure-preserving spatial discretization method for infinite-dimensional non-linear port-Hamiltonian representations of a commonly used one-dimensional two-phase flow model: the Two-Fluid Model. We introduce the port-Hamiltonian representation of this two-phase flow model and then invoke a mixed-finite-element method to perform a structure-preserving spatial discretization. Consequently, we obtain a finite-dimensional realization of a recently proposed novel Stokes-Dirac structure for this model. The properties of the resulting finite-dimensional realization are assessed and the conditions under which it is known to respect the properties of a finite-dimensional Dirac structure are discussed. Moreover, we derive the complete finite-dimensional interconnected port-Hamiltonian model by invoking the notion of power-preserving interconnection.

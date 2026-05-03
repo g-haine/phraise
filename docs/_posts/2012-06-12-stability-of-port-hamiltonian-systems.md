@@ -8,7 +8,7 @@ category: chapters
 ---
  
 ## Authors
-[Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-zwart)
+[Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-j-zwart)
  
 ## Abstract
 In this chapter we return to the class of port-Hamiltonian partial differential equations which we introduced in Chapter 7. If a port-Hamiltonian system possesses n (linearly independent) boundary conditions and if the energy is non-increasing, then the associated  differential operator generates a contraction semigroup on the energy space.

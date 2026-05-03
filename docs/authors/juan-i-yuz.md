@@ -4,7 +4,7 @@ permalink: /authors/juan-i-yuz
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Juan I. Yuz, Juan Yuz, Juan I Yuz.</p>
+<p id='info-authors'>Alternative author names: Juan I. Yuz, Juan I Yuz, Juan Yuz.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2021 -- Luis A. Mora, Yann Le Gorrec, Denis Matignon, Hector Ramirez, Juan I. Yuz</span><h3><a class='post-link' href="{{ site.baseurl }}/on-port-hamiltonian-formulations-of-3-dimensional-compressible-newtonian-fluids">On port-Hamiltonian formulations of 3-dimensional compressible Newtonian fluids</a></h3></li>

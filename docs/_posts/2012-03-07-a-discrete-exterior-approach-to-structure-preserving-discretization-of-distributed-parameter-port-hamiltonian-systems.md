@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[Marko Seslija](authors/marko-seslija), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-van-der-schaft)
+[Marko Seslija](authors/marko-seslija), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
 This paper addresses the issue of structure-preserving discretization of open distributed-parameter systems with Hamiltonian dynamics. Employing the formalism of discrete exterior calculus, we introduce simplicial Dirac structures as discrete analogues of the Stokes-Dirac structure and demonstrate that they provide a natural framework for deriving finite-dimensional port-Hamiltonian systems that emulate their infinite-dimensional counterparts. This approach of discrete differential geometry, rather than discretizing the partial differential equations, allows to first discretize the underlying Stokes-Dirac structure and then to impose the corresponding finite-dimensional port-Hamiltonian dynamics. In this manner, we preserve a number of important topological and geometrical properties of the system.

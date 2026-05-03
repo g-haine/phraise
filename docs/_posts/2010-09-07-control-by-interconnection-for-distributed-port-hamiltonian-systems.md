@@ -12,7 +12,7 @@ tags:
 ---
  
 ## Authors
-[Alessandro Macchelli](authors/alessandro-macchelli), [Arjan van der Schaft](authors/arjan-van-der-schaft), [Claudio Melchiorri](authors/claudio-melchiorri)
+[Alessandro Macchelli](authors/alessandro-macchelli), [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Claudio Melchiorri](authors/claudio-melchiorri)
  
 ## Abstract
 In this paper, new results on the control of distributed parameter systems in port Hamiltonian form are presented. The control by interconnection and energy shaping is applied to the stabilization of a distributed parameter system by means of a finite dimensional controller. The regulator acts on the system through the boundary or the distributed port. The key point is the generalization of Casimir function for systems resulting from the power conserving interconnection of an infinite and a finite dimensional part.

@@ -8,7 +8,7 @@ category: proceedings
 ---
  
 ## Authors
-[K. Baazouzi](authors/k-baazouzi), [A-D. Bensalah](authors/a-d-bensalah), [S. Drid](authors/s-drid)
+[K. Baazouzi](authors/kamel-baazouzi), [A-D. Bensalah](authors/a-d-bensalah), [S. Drid](authors/said-drid)
  
 ## Abstract
 The major problem of controlling a multi-variable electrical system comes mainly from the lack of information on its structure, which was supposed to always linear, a change in unexpected state may cause system instability, hence the requirement development of a new control structure incorporating nonlinear effects and time-varying phenomena while respecting the desired specifications on their stabilities. A new control scheme for speed induction motors is proposed in the present paper, called "passivity based control (PBC) on the principle of exchange control energy via state feedback was presented it allows to work in several areas. A port-controlled Hamiltonian (PCH) model of the induction motor is deduced to make the interconnection and damping of energy explicit on the scheme. The proposed controller is validated under computational simulations MATLAB.

@@ -13,7 +13,7 @@ tags:
 ---
  
 ## Authors
-[Bouchra Elghazi](authors/bouchra-elghazi), [Birgit Jacob](authors/birgit-jacob), [Hans Zwart](authors/hans-zwart)
+[Bouchra Elghazi](authors/bouchra-elghazi), [Birgit Jacob](authors/birgit-jacob), [Hans Zwart](authors/hans-j-zwart)
  
 ## Abstract
 We characterize the well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation. This class includes in particular the Euler-Bernoulli beam equations and more generally 1D linear infinite-dimensional port-Hamiltonian systems with boundary control and observation as well as coupled systems. It is known, that for the Timoshenko beam models internal well-posedness implies well-posedness of the overall system. By means of an example we show that this is not true for the Euler-Bernoulli beam models. An easy verifiable equivalent condition for well-posedness of the overall system will be presented. We will conclude the paper by applying the obtained results to several Euler-Bernoulli beam models.
