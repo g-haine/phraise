@@ -35,7 +35,7 @@ albedo effect, dissipation injection, energy shaping, non-ideal solar sail, port
   volume={152},
   ISSN={0960-0779},
   DOI={10.1016/j.chaos.2021.111387},
-  journal={Chaos, Solitons \&amp; Fractals},
+  journal={Chaos, Solitons \& Fractals},
   publisher={Elsevier BV},
   author={Yadav, Arun Kumar and Kushvah, Badam Singh and Dolas, Uday},
   year={2021},

@@ -35,7 +35,7 @@ differential geometry, in-domain actuation, infinite-dimensional systems, partia
   volume={145},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2020.104778},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Malzer, Tobias and Rams, Hubert and Schöberl, Markus},
   year={2020},

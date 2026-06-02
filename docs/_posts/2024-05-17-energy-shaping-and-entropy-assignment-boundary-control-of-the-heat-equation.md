@@ -35,7 +35,7 @@ boundary control, heat equation, irreversible port-hamiltonian systems, passivit
   volume={189},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2024.105821},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Mora, Luis A. and Le Gorrec, Yann and Ramirez, Hector},
   year={2024},

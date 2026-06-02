@@ -28,7 +28,7 @@ This paper presents the design of a controller for a single-phase pulse-width mo
 @inproceedings{Buaket_2026,
   title={{Port-Hamiltonian Modeling and Control Design for Single-Phase Pwm Rectifiers}},
   DOI={10.1109/ectidamtncon67592.2026.11460039},
-  booktitle={{2026 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunication Engineering (ECTI DAMT \&amp;amp; NCON)}},
+  booktitle={{2026 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunication Engineering (ECTI DAMT \& NCON)}},
   publisher={IEEE},
   author={Buaket, Wachiravit and Rojchaya, Sittisak and Khanklaeo, Kittikorn},
   year={2026},

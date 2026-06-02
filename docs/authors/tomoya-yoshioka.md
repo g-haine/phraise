@@ -7,7 +7,7 @@ permalink: /authors/tomoya-yoshioka
 <p id='info-authors'>Alternative author names: Tomoya Yoshioka, Tomoya YOSHIOKA.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2025 -- Tomoya YOSHIOKA, Yusuke SASAKI, Haohui JIA, Takashi MATSUBARA</span><h3><a class='post-link' href="{{ site.baseurl }}/vision-based-modeling-and-control-of-dynamical-systems-using-deep-learning">Vision-Based Modeling and Control of Dynamical Systems Using Deep Learning</a></h3></li>
+<li><span class='post-meta'>2026 -- Tomoya YOSHIOKA, Yusuke SASAKI, Haohui JIA, Takashi MATSUBARA</span><h3><a class='post-link' href="{{ site.baseurl }}/vision-based-modeling-and-control-of-dynamical-systems-using-deep-learning">Vision-Based Modeling and Control of Dynamical Systems Using Deep Learning</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

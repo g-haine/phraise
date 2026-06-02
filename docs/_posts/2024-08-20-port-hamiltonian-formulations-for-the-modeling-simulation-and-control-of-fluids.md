@@ -35,7 +35,7 @@ boundary control, energy-based modeling, incompressible navier–stokes equation
   volume={283},
   ISSN={0045-7930},
   DOI={10.1016/j.compfluid.2024.106407},
-  journal={Computers \&amp; Fluids},
+  journal={Computers \& Fluids},
   publisher={Elsevier BV},
   author={Cardoso-Ribeiro, Flávio Luiz and Haine, Ghislain and Le Gorrec, Yann and Matignon, Denis and Ramirez, Hector},
   year={2024},

@@ -16,7 +16,7 @@ tags:
 The solution of constrained linear partial-differential equations can be described via parametric representations of linear relations. To study these representations, we provide a novel definition of boundary triplets for linear relations in range representations where the associated boundary map is defined on the domain of the parameterizing operators rather than the relation itself. This allows us to characterize all boundary conditions such that the underlying dynamics is represented by a self-adjoint, skew-adjoint or maximally dissipative relation. The theoretical results are applied to a class of implicit port-Hamiltonian systems on one-dimensional spatial domains. More precisely, we explicitly construct a boundary triplet which solely depends on the coefficient matrices of the involved matrix differential operators and we derive the associated Lagrangian subspace. We exemplify our approach by means of the Dzektser equation, the biharmonic wave equation, and an elastic rod with non-local elasticity condition.
  
 ## Keywords
-37k06, boundary triplets, extension theory, linear relations, port-hamiltonian systems, primary: 47b25, secondary: 47a06
+37k06, boundary triplets, extension theory, linear relations, port-hamiltonian systems, 47b25, 47a06
  
 ## Citation
 - **Journal:** Integral Equations and Operator Theory

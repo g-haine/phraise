@@ -35,7 +35,7 @@ dirac structures, discrete-time systems, geometric numerical integration, port-h
   volume={133},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2019.104530},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Kotyczka, Paul and Lefèvre, Laurent},
   year={2019},
@@ -52,7 +52,7 @@ dirac structures, discrete-time systems, geometric numerical integration, port-h
 - Lew, An overview of variational integrators. (2004)
 - Duindam, (2009)
 - [Talasila V, Clemente-Gallardo J, van der Schaft AJ (2006) Discrete port-Hamiltonian systems. Systems &amp; Control Letters 55(6):478–486. https://doi.org/10.1016/j.sysconle.2005.10.00](discrete-port-hamiltonian-systems) -- [10.1016/j.sysconle.2005.10.001](https://doi.org/10.1016/j.sysconle.2005.10.001)
-- {"status":"error" -- [10.3182/20080706-5-kr-1001.00036](https://doi.org/10.3182/20080706-5-kr-1001.00036)
+- Gören-Sümer L, Yalçιn Y (2008) Gradient Based Discrete-Time Modeling and Control of Hamiltonian Systems. IFAC Proceedings Volumes 41(2):212–217. https://doi.org/10.3182/20080706-5-kr-1001.0003 -- [10.3182/20080706-5-kr-1001.00036](https://doi.org/10.3182/20080706-5-kr-1001.00036)
 - [Falaize A, Hélie T (2016) Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach. Applied Sciences 6(10):273. https://doi.org/10.3390/app610027](passive-guaranteed-simulation-of-analog-audio-circuits-a-port-hamiltonian-approach) -- [10.3390/app6100273](https://doi.org/10.3390/app6100273)
 - [Aoues S, Di Loreto M, Eberard D, Marquis-Favre W (2017) Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability. Systems &amp; Control Letters 110:9–14. https://doi.org/10.1016/j.sysconle.2017.10.00](hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability) -- [10.1016/j.sysconle.2017.10.003](https://doi.org/10.1016/j.sysconle.2017.10.003)
 - [Kotyczka P, Lefèvre L (2018) Discrete-time port-Hamiltonian systems based on Gauss-Legendre collocation ⁎ ⁎P. Kotyczka received financial support as a part-time post-doctoral researcher (03/17–08/17) from the DFG-ANR funded project INFI-DHEM (no ANR-16-CE92-0028) and by a part-time visiting fellowship of Grenoble INP in summer term 2017. The work makes also part of the project KO 4750/1-1, funded by the German Research Foundation (DFG). IFAC-PapersOnLine 51(3):125–130. https://doi.org/10.1016/j.ifacol.2018.06.03](discrete-time-port-hamiltonian-systems-based-on-gauss-legendre-collocation) -- [10.1016/j.ifacol.2018.06.035](https://doi.org/10.1016/j.ifacol.2018.06.035)

@@ -35,7 +35,7 @@ dissipativity, energy, entropy, exergy, manifold turnpike, optimal control, pass
   volume={194},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2024.105942},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Philipp, Friedrich M. and Schaller, Manuel and Worthmann, Karl and Faulwasser, Timm and Maschke, Bernhard},
   year={2024},
@@ -81,7 +81,7 @@ dissipativity, energy, entropy, exergy, manifold turnpike, optimal control, pass
 - Trélat E, Zuazua E (2015) The turnpike property in finite-dimensional nonlinear optimal control. Journal of Differential Equations 258(1):81–114. https://doi.org/10.1016/j.jde.2014.09.00 -- [10.1016/j.jde.2014.09.005](https://doi.org/10.1016/j.jde.2014.09.005)
 - (2022) Turnpike properties in optimal control. Handbook of Numerical Analysis 367–40 -- [10.1016/bs.hna.2021.12.011](https://doi.org/10.1016/bs.hna.2021.12.011)
 - Damm T, Grüne L, Stieler M, Worthmann K (2014) An Exponential Turnpike Theorem for Dissipative Discrete Time Optimal Control Problems. SIAM J Control Optim 52(3):1935–1957. https://doi.org/10.1137/12088893 -- [10.1137/120888934](https://doi.org/10.1137/120888934)
-- [{"status":"error"](optimal-control-of-thermodynamic-port-hamiltonian-systems) -- [10.1016/j.ifacol.2022.11.028](https://doi.org/10.1016/j.ifacol.2022.11.028)
+- [Maschke B, Philipp F, Schaller M, Worthmann K, Faulwasser T (2022) Optimal control of thermodynamic port-Hamiltonian Systems. IFAC-PapersOnLine 55(30):55–60. https://doi.org/10.1016/j.ifacol.2022.11.02](optimal-control-of-thermodynamic-port-hamiltonian-systems) -- [10.1016/j.ifacol.2022.11.028](https://doi.org/10.1016/j.ifacol.2022.11.028)
 - [Ramirez H, Maschke B, Sbarbaro D (2013) Modelling and control of multi-energy systems: An irreversible port-Hamiltonian approach. European Journal of Control 19(6):513–520. https://doi.org/10.1016/j.ejcon.2013.09.00](modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach) -- [10.1016/j.ejcon.2013.09.009](https://doi.org/10.1016/j.ejcon.2013.09.009)
 - [Maschke B, Kirchhoff J (2023) Port maps of Irreversible Port Hamiltonian Systems. IFAC-PapersOnLine 56(2):6796–6800. https://doi.org/10.1016/j.ifacol.2023.10.38](port-maps-of-irreversible-port-hamiltonian-systems) -- [10.1016/j.ifacol.2023.10.388](https://doi.org/10.1016/j.ifacol.2023.10.388)
 - Zeidler, (1988)

@@ -35,7 +35,7 @@ identification, passive systems, port-hamiltonian system, tangential interpolati
   volume={143},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2020.104741},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Benner, Peter and Goyal, Pawan and Van Dooren, Paul},
   year={2020},

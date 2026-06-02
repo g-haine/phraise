@@ -7,6 +7,7 @@ permalink: /authors/david-c-del-rey-fernandez
 <p id='info-authors'>Alternative author names: David C. Del Rey Fernández.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Luis A. Mora, Anita Gjesteland, Kirsten Morris, David C. Del Rey Fernández</span><h3><a class='post-link' href="{{ site.baseurl }}/uniformly-exponentially-stable-summation-by-parts-approximations-of-port-hamiltonian-systems">Uniformly Exponentially Stable Summation-by-Parts Approximations of port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2023 -- David C. Del Rey Fernández, Luis A. Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/strictly-uniform-exponential-decay-of-the-mixed-fem-discretization-for-the-wave-equation-with-boundary-dissipation">Strictly Uniform Exponential Decay of the Mixed-FEM Discretization for the Wave Equation With Boundary Dissipation</a></h3></li>
 
 </ul>

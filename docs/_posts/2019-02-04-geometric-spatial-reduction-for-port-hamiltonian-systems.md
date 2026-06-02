@@ -35,7 +35,7 @@ distributed parameters systems, geometric reduction, port hamiltonian systems, t
   volume={125},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2019.01.002},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Vu, Ngoc Minh Trang and Lefèvre, Laurent and Maschke, Bernhard},
   year={2019},

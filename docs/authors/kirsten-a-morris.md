@@ -7,6 +7,7 @@ permalink: /authors/kirsten-a-morris
 <p id='info-authors'>Alternative author names: Kirsten A. Morris, Kirsten Morris, K. Morris.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Luis A. Mora, Anita Gjesteland, Kirsten Morris, David C. Del Rey Fernández</span><h3><a class='post-link' href="{{ site.baseurl }}/uniformly-exponentially-stable-summation-by-parts-approximations-of-port-hamiltonian-systems">Uniformly Exponentially Stable Summation-by-Parts Approximations of port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Luis Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/controller-design-for-port-hamiltonian-systems-using-fem-approximations">Controller design for port-Hamiltonian systems using FEM approximations</a></h3></li>
 <li><span class='post-meta'>2024 -- Mehmet Erbay, Birgit Jacob, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-weierstrass-form-of-infinite-dimensional-differential-algebraic-equations">On the Weierstraß form of infinite-dimensional differential algebraic equations</a></h3></li>
 <li><span class='post-meta'>2024 -- Luis A. Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/exponential-decay-rate-of-linear-port-hamiltonian-systems-a-multiplier-approach">Exponential Decay Rate of Linear Port-Hamiltonian Systems: A Multiplier Approach</a></h3></li>

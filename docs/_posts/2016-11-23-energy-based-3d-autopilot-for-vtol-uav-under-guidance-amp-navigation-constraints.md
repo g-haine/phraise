@@ -31,12 +31,12 @@ autonomous uav, ida-pbc, internal energy, reference model, tracking control
 {% highlight bibtex %}
 {% raw %}
 @article{Bouzid_2016,
-  title={{Energy Based 3D Autopilot for VTOL UAV Under Guidance \&amp; Navigation Constraints}},
+  title={{Energy Based 3D Autopilot for VTOL UAV Under Guidance \\& Navigation Constraints}},
   volume={87},
   ISSN={1573-0409},
   DOI={10.1007/s10846-016-0441-1},
   number={2},
-  journal={Journal of Intelligent \&amp; Robotic Systems},
+  journal={Journal of Intelligent \\& Robotic Systems},
   publisher={Springer Science and Business Media LLC},
   author={Bouzid, Y. and Siguerdidjane, H. and Bestaoui, Y. and Zareb, M.},
   year={2016},

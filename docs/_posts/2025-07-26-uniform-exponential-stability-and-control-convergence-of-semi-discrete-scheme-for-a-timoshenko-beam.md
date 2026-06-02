@@ -36,7 +36,7 @@ This paper considers numerical approximations of a Timoshenko beam under boundar
   ISSN={1432-0606},
   DOI={10.1007/s00245-025-10292-0},
   number={1},
-  journal={Applied Mathematics \&amp; Optimization},
+  journal={Applied Mathematics \& Optimization},
   publisher={Springer Science and Business Media LLC},
   author={Zheng, Fu and Jia, Zhen and Guo, Bao-Zhu},
   year={2025}

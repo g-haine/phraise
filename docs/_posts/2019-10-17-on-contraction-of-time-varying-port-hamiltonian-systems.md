@@ -35,7 +35,7 @@ contraction theory, nonlinear systems, port-hamiltonian systems
   volume={133},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2019.104545},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Barabanov, Nikita and Ortega, Romeo and Pyrkin, Anton},
   year={2019},

@@ -35,7 +35,7 @@ backstepping-based control design, distributed parameter systems, hyperbolic pde
   volume={185},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2024.105722},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Redaud, Jeanne and Auriol, Jean and Gorrec, Yann Le},
   year={2024},

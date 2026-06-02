@@ -31,7 +31,7 @@ fixed-time stability, h ∞ control, l-k functional method, port-controlled hami
 {% highlight bibtex %}
 {% raw %}
 @article{Chen_2024,
-  title={{Fixed-time stabilization and <mml:math xmlns:mml=“http://www.w3.org/1998/Math/MathML” altimg=“si3.svg” display=“inline” id=“d1e142″><mml:msub><mml:mrow><mml:mi>H</mml:mi></mml:mrow><mml:mrow><mml:mi>∞</mml:mi></mml:mrow></mml:msub></mml:math> control of time-delay port-controlled Hamiltonian systems}},
+  title={{Fixed-time stabilization and H∞ control of time-delay port-controlled Hamiltonian systems}},
   volume={77},
   ISSN={0947-3580},
   DOI={10.1016/j.ejcon.2024.100996},
@@ -59,7 +59,7 @@ fixed-time stability, h ∞ control, l-k functional method, port-controlled hami
 - Hu C, Jiang H (2022) Special Functions-Based Fixed-Time Estimation and Stabilization for Dynamic Systems. IEEE Trans Syst Man Cybern, Syst 52(5):3251–3262. https://doi.org/10.1109/tsmc.2021.306220 -- [10.1109/tsmc.2021.3062206](https://doi.org/10.1109/tsmc.2021.3062206)
 - Hu C, Yu J, Chen Z, Jiang H, Huang T (2017) Fixed-time stability of dynamical systems and fixed-time synchronization of coupled discontinuous neural networks. Neural Networks 89:74–83. https://doi.org/10.1016/j.neunet.2017.02.00 -- [10.1016/j.neunet.2017.02.001](https://doi.org/10.1016/j.neunet.2017.02.001)
 - Kong F, Ni H, Zhu Q, Hu C, Huang T (2023) Fixed-time and predefined-time synchronization of discontinuous neutral-type competitive networks via non-chattering adaptive control strategy. IEEE Trans Netw Sci Eng :1–12. https://doi.org/10.1109/tnse.2023.327110 -- [10.1109/tnse.2023.3271109](https://doi.org/10.1109/tnse.2023.3271109)
-- Kong F, Zhu Q, Huang T (2022) Improved Fixed-Time Stability Lemma of Discontinuous System and its Application. IEEE Trans Circuits Syst I 69(2):835–846. https://doi.org/10.1109/tcsi.2021.311509 -- [10.1109/tcsi.2021.3115097](https://doi.org/10.1109/tcsi.2021.3115097)
+- Kong, Improved fixed-time stability lemma of discontinuous system and its application. IEEE Transactions on Circuits and Systems I: Regular Papers (2022)
 - Liu Q, Xie A, Wang C (2023) Contact Extension and Symplectification. Acta Math Appl Sin Engl Ser 39(4):962–971. https://doi.org/10.1007/s10255-023-1093- -- [10.1007/s10255-023-1093-0](https://doi.org/10.1007/s10255-023-1093-0)
 - [Liu X, Liao X (2019) Fixed-Time $\mathcal {H}_{\infty }$ Control for Port-Controlled Hamiltonian Systems. IEEE Trans Automat Contr 64(7):2753–2765. https://doi.org/10.1109/tac.2018.287476](fixed-time-mathcal-h-infty-control-for-port-controlled-hamiltonian-systems) -- [10.1109/tac.2018.2874768](https://doi.org/10.1109/tac.2018.2874768)
 - [Liu X, Liao X (2019) Fixed-time stabilization control for port-Hamiltonian systems. Nonlinear Dyn 96(2):1497–1509. https://doi.org/10.1007/s11071-019-04867-](fixed-time-stabilization-control-for-port-hamiltonian-systems) -- [10.1007/s11071-019-04867-0](https://doi.org/10.1007/s11071-019-04867-0)
@@ -67,7 +67,7 @@ fixed-time stability, h ∞ control, l-k functional method, port-controlled hami
 - [Liu X, Liao X (2023) Fixed-Time Control for a Class of Nonlinear PH-DAE Systems. IEEE Trans Syst Man Cybern, Syst 53(8):5161–5173. https://doi.org/10.1109/tsmc.2023.325844](fixed-time-control-for-a-class-of-nonlinear-ph-dae-systems) -- [10.1109/tsmc.2023.3258447](https://doi.org/10.1109/tsmc.2023.3258447)
 - Liu Q, Torres PJ (2022) Orbital dynamics on invariant sets of contact Hamiltonian systems. DCDS-B 27(10):5821. https://doi.org/10.3934/dcdsb.202129 -- [10.3934/dcdsb.2021297](https://doi.org/10.3934/dcdsb.2021297)
 - [Liu X, Zhao M (2022) Memristor‐based disturbance rejection control for port‐Hamiltonian systems with locally fixed‐time convergence. IET Control Theory &amp; Appl 16(13):1326–1340. https://doi.org/10.1049/cth2.1230](memristor-based-disturbance-rejection-control-for-port-hamiltonian-systems-with-locally-fixed-time-convergence) -- [10.1049/cth2.12307](https://doi.org/10.1049/cth2.12307)
-- Meng M, Li X, Chen J (2024) Decentralized Nash Equilibria Learning for Online Game With Bandit Feedback. IEEE Trans Automat Contr 69(6):4050–4057. https://doi.org/10.1109/tac.2023.334285 -- [10.1109/tac.2023.3342850](https://doi.org/10.1109/tac.2023.3342850)
+- Meng, Adaptive fixed-time stabilization for a class of uncertain nonlinear systems. IEEE Transactions on Automatic Control (2023)
 - Mohit M, Shahrokhi M (2022) Adaptive fixed-time consensus control for a class of non-strict feedback multi-agent systems subject to input nonlinearities, state constraints, unknown control directions, and actuator faults. European Journal of Control 66:100649. https://doi.org/10.1016/j.ejcon.2022.10064 -- [10.1016/j.ejcon.2022.100649](https://doi.org/10.1016/j.ejcon.2022.100649)
 - Moulay E, Dambrine M, Yeganefar N, Perruquetti W (2008) Finite-time stability and stabilization of time-delay systems. Systems &amp; Control Letters 57(7):561–566. https://doi.org/10.1016/j.sysconle.2007.12.00 -- [10.1016/j.sysconle.2007.12.002](https://doi.org/10.1016/j.sysconle.2007.12.002)
 - Niamsup P, Ratchagit K, Phat VN (2015) Novel criteria for finite-time stabilization and guaranteed cost control of delayed neural networks. Neurocomputing 160:281–286. https://doi.org/10.1016/j.neucom.2015.02.03 -- [10.1016/j.neucom.2015.02.030](https://doi.org/10.1016/j.neucom.2015.02.030)
@@ -81,6 +81,6 @@ fixed-time stability, h ∞ control, l-k functional method, port-controlled hami
 - Wang, Finite-time adaptive control for uncertain switched port-controlled Hamiltonian systems. Communications in Nonlinear Science and Numerical Simulation (2023)
 - [Yang R, Guo R (2017) Adaptive Finite‐Time Robust Control of Nonlinear Delay Hamiltonian Systems Via Lyapunov‐Krasovskii Method. Asian Journal of Control 20(1):332–342. https://doi.org/10.1002/asjc.155](adaptive-finite-time-robust-control-of-nonlinear-delay-hamiltonian-systems-via-lyapunov-krasovskii-method) -- [10.1002/asjc.1556](https://doi.org/10.1002/asjc.1556)
 - [control for a class of nonlinear time-delay Hamiltonian systems. Automatica 49(2):390–401. https://doi.org/10.1016/j.automatica.2012.11.03](finite-time-stability-analysis-and-h) -- [10.1016/j.automatica.2012.11.034](https://doi.org/10.1016/j.automatica.2012.11.034)
-- Zhang C, Chang L, Xing L, Zhang X (2023) Fixed-Time Stabilization of a Class of Strict-Feedback Nonlinear Systems via Dynamic Gain Feedback Control. IEEE/CAA J Autom Sinica 10(2):403–410. https://doi.org/10.1109/jas.2023.12340 -- [10.1109/jas.2023.123408](https://doi.org/10.1109/jas.2023.123408)
+- {"status":"error" -- [10.1109/jas.2023.123408](https://doi.org/10.1109/jas.2023.123408)
 - Zuo Z, Tie L (2013) A new class of finite-time nonlinear consensus protocols for multi-agent systems. International Journal of Control 87(2):363–370. https://doi.org/10.1080/00207179.2013.83448 -- [10.1080/00207179.2013.834484](https://doi.org/10.1080/00207179.2013.834484)
 

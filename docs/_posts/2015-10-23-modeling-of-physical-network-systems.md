@@ -36,7 +36,7 @@ available storage, laplacian matrix, matrix tree theorem, physical network, port
   volume={101},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2015.08.013},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={van der Schaft, Arjan},
   year={2017},
@@ -63,7 +63,7 @@ available storage, laplacian matrix, matrix tree theorem, physical network, port
 - [Seslija M, van der Schaft A, Scherpen JMA (2014) Hamiltonian perspective on compartmental reaction–diffusion networks. Automatica 50(3):737–746. https://doi.org/10.1016/j.automatica.2013.12.01](hamiltonian-perspective-on-compartmental-reaction-diffusion-networks) -- [10.1016/j.automatica.2013.12.017](https://doi.org/10.1016/j.automatica.2013.12.017)
 - Rao S, van der Schaft A, Jayawardhana B (2013) A graph-theoretical approach for the analysis and model reduction of complex-balanced chemical reaction networks. J Math Chem 51(9):2401–2422. https://doi.org/10.1007/s10910-013-0218- -- [10.1007/s10910-013-0218-8](https://doi.org/10.1007/s10910-013-0218-8)
 - van der Schaft A, Rao S, Jayawardhana B (2015) Complex and detailed balancing of chemical reaction networks revisited. J Math Chem 53(6):1445–1458. https://doi.org/10.1007/s10910-015-0498- -- [10.1007/s10910-015-0498-2](https://doi.org/10.1007/s10910-015-0498-2)
-- Chapman A, Mesbahi M (2011) Advection on graphs. IEEE Conference on Decision and Control and European Control Conference 1461–146 -- [10.1109/cdc.2011.6161471](https://doi.org/10.1109/cdc.2011.6161471)
+- {"status":"error" -- [10.1109/cdc.2011.6161471](https://doi.org/10.1109/cdc.2011.6161471)
 - Rantzer A (2015) Scalable control of positive systems. European Journal of Control 24:72–80. https://doi.org/10.1016/j.ejcon.2015.04.00 -- [10.1016/j.ejcon.2015.04.004](https://doi.org/10.1016/j.ejcon.2015.04.004)
 - Cortés J (2008) Distributed algorithms for reaching consensus on general functions. Automatica 44(3):726–737. https://doi.org/10.1016/j.automatica.2007.07.02 -- [10.1016/j.automatica.2007.07.022](https://doi.org/10.1016/j.automatica.2007.07.022)
 - Zhang H, Lewis FL, Qu Z (2012) Lyapunov, Adaptive, and Optimal Design Techniques for Cooperative Systems on Directed Communication Graphs. IEEE Trans Ind Electron 59(7):3026–3041. https://doi.org/10.1109/tie.2011.216014 -- [10.1109/tie.2011.2160140](https://doi.org/10.1109/tie.2011.2160140)
@@ -71,6 +71,6 @@ available storage, laplacian matrix, matrix tree theorem, physical network, port
 - Sontag ED (2001) Structure and stability of certain chemical networks and applications to the kinetic proofreading model of T-cell receptor signal transduction. IEEE Trans Automat Contr 46(7):1028–1047. https://doi.org/10.1109/9.93505 -- [10.1109/9.935056](https://doi.org/10.1109/9.935056)
 - Chopra, Passivity-based control of multi-agent systems. (2006)
 - Willems JC (2013) Power and energy as systemic properties &amp;#x2014; Part II: Mechanical systems. 52nd IEEE Conference on Decision and Control 175–18 -- [10.1109/cdc.2013.6759878](https://doi.org/10.1109/cdc.2013.6759878)
-- [van der Schaft AJ, Maschke BM (2002) Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42(1–2):166–194. https://doi.org/10.1016/s0393-0440(01)00083-](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- [{"status":"error"](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Seslija M, van der Schaft A, Scherpen JMA (2012) Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics 62(6):1509–1531. https://doi.org/10.1016/j.geomphys.2012.02.00](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
 

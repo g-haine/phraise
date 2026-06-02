@@ -35,7 +35,7 @@ h ∞ control design, model order reduction, port-hamiltonian systems
   volume={174},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2023.105493},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Breiten, Tobias and Karsai, Attila},
   year={2023},
@@ -58,7 +58,7 @@ h ∞ control design, model order reduction, port-hamiltonian systems
 - Lozano-Leal, On the design of the dissipative LQG-type controllers. (1988)
 - Haddad, Dissipative H2/H∞ controller synthesis. (1993)
 - Bernstein DS, Haddad WM (1989) LQG control with an H/sup infinity / performance bound: a Riccati equation approach. IEEE Trans Automat Contr 34(3):293–305. https://doi.org/10.1109/9.1641 -- [10.1109/9.16419](https://doi.org/10.1109/9.16419)
-- [{"status":"error"](effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.sysconle.2011.12.008](https://doi.org/10.1016/j.sysconle.2011.12.008)
+- [Polyuga RV, van der Schaft AJ (2012) Effort- and flow-constraint reduction methods for structure preserving model reduction of port-Hamiltonian systems. Systems &amp; Control Letters 61(3):412–421. https://doi.org/10.1016/j.sysconle.2011.12.00](effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.sysconle.2011.12.008](https://doi.org/10.1016/j.sysconle.2011.12.008)
 - Breiten, (2021)
 - [Gugercin S, Polyuga RV, Beattie C, van der Schaft A (2012) Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica 48(9):1963–1974. https://doi.org/10.1016/j.automatica.2012.05.05](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - Mamunuzzaman, (2022)

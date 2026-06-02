@@ -28,7 +28,7 @@ In multiple parallel grid-following converters (GFL-VSCs), the nonlinear charact
 @inproceedings{Liu_2025,
   title={{Stability Region Boundary of Multi-Paralleled Grid-Following Converter Systems Considering PLL Coupling Interactions}},
   DOI={10.1109/pesgm52009.2025.11225651},
-  booktitle={{2025 IEEE Power \&amp;amp; Energy Society General Meeting (PESGM)}},
+  booktitle={{2025 IEEE Power \& Energy Society General Meeting (PESGM)}},
   publisher={IEEE},
   author={Liu, Naiyuan and Sun, Zhenglong and He, Zhifeng},
   year={2025},

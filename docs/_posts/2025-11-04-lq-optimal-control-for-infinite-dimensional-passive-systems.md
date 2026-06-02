@@ -35,7 +35,7 @@ boundary control systems, infinite-dimensional passive systems, lq optimal contr
   volume={206},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2025.106279},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Hastir, Anthony and Jacob, Birgit},
   year={2025},

@@ -29,7 +29,7 @@ Autonomous underwater vehicles (AUVs) have become an important tool for marine s
   series={WUWNet 2023},
   title={{Hamiltonian based AUV navigation using finite-time trajectory tracking control}},
   DOI={10.1145/3631726.3631749},
-  booktitle={{Proceedings of the 17th International Conference on Underwater Networks \&amp; Systems}},
+  booktitle={{Proceedings of the 17th International Conference on Underwater Networks \\& Systems}},
   publisher={ACM},
   author={Cui, Jiankuo and Wang, Ying and Peng, Zheng and Cui, Junhong},
   year={2023},

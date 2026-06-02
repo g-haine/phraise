@@ -7,6 +7,7 @@ permalink: /authors/luis-a-mora
 <p id='info-authors'>Alternative author names: Luis A. Mora, Luis A Mora, Luis Mora.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Luis A. Mora, Anita Gjesteland, Kirsten Morris, David C. Del Rey Fernández</span><h3><a class='post-link' href="{{ site.baseurl }}/uniformly-exponentially-stable-summation-by-parts-approximations-of-port-hamiltonian-systems">Uniformly Exponentially Stable Summation-by-Parts Approximations of port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Luis Mora, Kirsten Morris</span><h3><a class='post-link' href="{{ site.baseurl }}/controller-design-for-port-hamiltonian-systems-using-fem-approximations">Controller design for port-Hamiltonian systems using FEM approximations</a></h3></li>
 <li><span class='post-meta'>2024 -- Luis A. Mora, Yann Le Gorrec, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-and-entropy-assignment-boundary-control-of-the-heat-equation">Energy-shaping and entropy-assignment boundary control of the heat equation</a></h3></li>
 <li><span class='post-meta'>2023 -- Luis A. Mora, Yann Le Gorrec, Denis Matignon, Hector Ramirez</span><h3><a class='post-link' href="{{ site.baseurl }}/irreversible-port-hamiltonian-modelling-of-3d-compressible-fluids">Irreversible port-Hamiltonian modelling of 3D compressible fluids</a></h3></li>

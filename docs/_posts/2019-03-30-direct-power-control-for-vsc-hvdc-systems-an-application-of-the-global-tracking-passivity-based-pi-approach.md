@@ -35,7 +35,7 @@ direct power control, passivity theory, proportional-integral passivity-based co
   volume={110},
   ISSN={0142-0615},
   DOI={10.1016/j.ijepes.2019.03.042},
-  journal={International Journal of Electrical Power \&amp; Energy Systems},
+  journal={International Journal of Electrical Power \& Energy Systems},
   publisher={Elsevier BV},
   author={Gil-González, Walter and Montoya, Oscar Danilo and Garces, Alejandro},
   year={2019},

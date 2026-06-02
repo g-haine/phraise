@@ -35,7 +35,7 @@ differential–algebraic equation, dirac structure, lagrange structure, maximall
   volume={177},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2023.105564},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={van der Schaft, Arjan and Mehrmann, Volker},
   year={2023},

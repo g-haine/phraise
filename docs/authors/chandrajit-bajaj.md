@@ -7,6 +7,7 @@ permalink: /authors/chandrajit-bajaj
 <p id='info-authors'>Alternative author names: Chandrajit Bajaj.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Chandrajit Bajaj</span><h3><a class='post-link' href="{{ site.baseurl }}/the-physics-information-and-computation-of-perennial-learning-kolmogorov-complexity-information-distance-and-port-hamiltonian-thermodynamics">The Physics, Information, and Computation of Perennial Learning: Kolmogorov Complexity, Information Distance, and Port-Hamiltonian Thermodynamics</a></h3></li>
 <li><span class='post-meta'>2025 -- Ryan Farell, J. Eric Bickel, Chandrajit Bajaj</span><h3><a class='post-link' href="{{ site.baseurl }}/bayesian-port-hamiltonian-surrogate-for-three-phase-reservoir-flow-simulation">Bayesian Port–Hamiltonian Surrogate for Three-Phase Reservoir Flow Simulation</a></h3></li>
 
 </ul>

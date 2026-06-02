@@ -4,9 +4,10 @@ permalink: /authors/fernando-e-serrano
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Fernando E. Serrano, F. E. Serrano.</p>
+<p id='info-authors'>Alternative author names: Fernando E. Serrano, F. E. Serrano, Fernando Serrano.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Fernando Serrano, Saim Ahmed, Ahmad Taher Azar, Ahmed Redha Mahlous</span><h3><a class='post-link' href="{{ site.baseurl }}/complex-variable-neural-network-controller-for-port-hamiltonian-systems-with-non-holonomic-constraints">Complex variable neural network controller for port-Hamiltonian systems with non-holonomic constraints</a></h3></li>
 <li><span class='post-meta'>2025 -- F. E. Serrano, V. Puig, J. Munoz-Pacheco</span><h3><a class='post-link' href="{{ site.baseurl }}/output-feedback-stabilization-of-a-2d-uncertain-port-hamiltonian-distributed-parameter-system-with-toroidal-chaos">Output Feedback Stabilization of a 2D Uncertain Port Hamiltonian Distributed Parameter System with Toroidal Chaos</a></h3></li>
 <li><span class='post-meta'>2024 -- Fawaz E. Alsaadi, Fernando E. Serrano, Larissa M. Batrancea</span><h3><a class='post-link' href="{{ site.baseurl }}/neural-network-quaternion-based-controller-for-port-hamiltonian-system">Neural network quaternion-based controller for port-Hamiltonian system</a></h3></li>
 <li><span class='post-meta'>2020 -- Ahmad Taher Azar, Fernando E. Serrano</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-port-hamiltonian-chaotic-systems-with-hidden-attractors-by-adaptive-terminal-sliding-mode-control">Stabilization of Port Hamiltonian Chaotic Systems with Hidden Attractors by Adaptive Terminal Sliding Mode Control</a></h3></li>

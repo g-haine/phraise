@@ -7,6 +7,7 @@ permalink: /authors/simon-r-eugster
 <p id='info-authors'>Alternative author names: Simon R. Eugster.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Philipp L. Kinon, Simon R. Eugster, Peter Betsch</span><h3><a class='post-link' href="{{ site.baseurl }}/mixed-formulation-and-structure-preserving-discretization-of-cosserat-rod-dynamics-in-a-port-hamiltonian-framework">Mixed formulation and structure-preserving discretization of Cosserat rod dynamics in a port-Hamiltonian framework</a></h3></li>
 <li><span class='post-meta'>2025 -- Philipp L. Kinon, Peter Betsch, Simon R. Eugster</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-momentum-consistent-simulation-of-planar-geometrically-exact-beams-in-a-port-hamiltonian-framework0">Energy-momentum-consistent simulation of planar geometrically exact beams in a port-Hamiltonian framework</a></h3></li>
 
 </ul>

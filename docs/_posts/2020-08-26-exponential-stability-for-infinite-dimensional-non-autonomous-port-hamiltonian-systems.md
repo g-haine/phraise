@@ -35,7 +35,7 @@ evolution family, infinite-dimensional port-hamiltonian system, non-autonomous c
   volume={144},
   ISSN={0167-6911},
   DOI={10.1016/j.sysconle.2020.104757},
-  journal={Systems \&amp; Control Letters},
+  journal={Systems \& Control Letters},
   publisher={Elsevier BV},
   author={Augner, Björn and Laasri, Hafida},
   year={2020},
