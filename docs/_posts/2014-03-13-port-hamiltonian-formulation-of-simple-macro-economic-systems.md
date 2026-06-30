@@ -45,7 +45,7 @@ This paper aims at extending the port-Hamiltonian formalism to a simple class of
 - franksen, Basic concepts in engineering and economics. Physical Structure in Systems Theory Network Approaches to Engineering and Economics (1974)
 - ramirez, Irreversible port Hamiltonian systems. Lagrangian and Hamiltonian Methods for Nonlinear Control (LHMNLC 2012) Proceedings of the 4th IFAC Workshop on (2012)
 - eberard, Conservative systems with ports on contact manifolds. IFAC World Congress Proceeding of the 16th (2005)
-- Eberard, D., Maschke, B. M. & van der Schaft, A. J. Port contact systems for irreversible thermodynamical systems. Proceedings of the 44th IEEE Conference on Decision and Control 5977–5982 doi:10.1109/cdc.2005.1583118 -- [10.1109/cdc.2005.1583118](https://doi.org/10.1109/cdc.2005.1583118)
+- [Eberard, D., Maschke, B. M. & van der Schaft, A. J. Port contact systems for irreversible thermodynamical systems. Proceedings of the 44th IEEE Conference on Decision and Control 5977–5982 doi:10.1109/cdc.2005.1583118](port-contact-systems-for-irreversible-thermodynamical-systems) -- [10.1109/cdc.2005.1583118](https://doi.org/10.1109/cdc.2005.1583118)
 - Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. I. Quart. Appl. Math. 22, 1–33 (1964) -- [10.1090/qam/169746](https://doi.org/10.1090/qam/169746)
 - Ortega, R., Jeltsema, D. & Scherpen, J. M. A. Power shaping: A new paradigm for stabilization of nonlinear RLC circuits. IEEE Trans. Automat. Contr. 48, 1762–1767 (2003) -- [10.1109/tac.2003.817918](https://doi.org/10.1109/tac.2003.817918)
 - paynter, Analysis and Design of Engineering Systems (1961)

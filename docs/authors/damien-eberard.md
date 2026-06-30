@@ -22,6 +22,7 @@ permalink: /authors/damien-eberard
 <li><span class='post-meta'>2007 -- D. Eberard, B.M. Maschke, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-interconnection-structures-of-discretized-port-hamiltonian-systems">On the interconnection structures of discretized port Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2007 -- D. Eberard, B.M. Maschke, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes">An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes</a></h3></li>
 <li><span class='post-meta'>2007 -- Damien Eberard, Bernhard Maschke, Arjan J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-interconnection-structures-of-irreversible-physical-systems">On the Interconnection Structures of Irreversible Physical Systems</a></h3></li>
+<li><span class='post-meta'>2006 -- D. Eberard, B.M. Maschke, A.J. van der Schaft</span><h3><a class='post-link' href="{{ site.baseurl }}/port-contact-systems-for-irreversible-thermodynamical-systems">Port contact systems for irreversible thermodynamical systems</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

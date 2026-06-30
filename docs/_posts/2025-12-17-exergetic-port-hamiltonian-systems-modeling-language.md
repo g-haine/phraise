@@ -102,7 +102,7 @@ bond graphs, compositionality, generic, metriplectic structure, nonequilibrium t
 - [Pfeifer M, Caspart S, Hampel S, Muller C, Krebs S, Hohmann S (2020) Explicit port-Hamiltonian formulation of multi-bond graphs for an automated model generation. Automatica 120:109121. https://doi.org/10.1016/j.automatica.2020.10912](explicit-port-hamiltonian-formulation-of-multi-bond-graphs-for-an-automated-model-generation) -- [10.1016/j.automatica.2020.109121](https://doi.org/10.1016/j.automatica.2020.109121)
 - Eberard, Port contact systems for irreversible thermodynamical systems. (2005)
 - [Ramirez H, Le Gorrec Y (2022) An Overview on Irreversible Port-Hamiltonian Systems. Entropy 24(10):1478. https://doi.org/10.3390/e2410147](an-overview-on-irreversible-port-hamiltonian-systems) -- [10.3390/e24101478](https://doi.org/10.3390/e24101478)
-- van der Schaft A, Maschke B (2019) About Some System-Theoretic Properties of Port-Thermodynamic Systems. Lecture Notes in Computer Science 228–23 -- [10.1007/978-3-030-26980-7_24](https://doi.org/10.1007/978-3-030-26980-7_24)
+- [van der Schaft A, Maschke B (2019) About Some System-Theoretic Properties of Port-Thermodynamic Systems. Lecture Notes in Computer Science 228–23](about-some-system-theoretic-properties-of-port-thermodynamic-systems) -- [10.1007/978-3-030-26980-7_24](https://doi.org/10.1007/978-3-030-26980-7_24)
 - Lohmayer, Exergetic port-Hamiltonian systems for multibody dynamics. Multibody Syst. Dyn. (2024)
 - Lohmayer, (2025)
 

@@ -7,6 +7,7 @@ permalink: /authors/xiaofeng-zong
 <p id='info-authors'>Alternative author names: Xiaofeng Zong.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Xiaofeng Zong, Zi‐Xuan Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/estimator-design-for-stochastic-port-hamiltonian-systems-with-unknown-loads">Estimator Design for Stochastic Port‐Hamiltonian Systems With Unknown Loads</a></h3></li>
 <li><span class='post-meta'>2026 -- Xiaofeng Zong, Zi-Xuan Wang, Hai-Tao Zhang</span><h3><a class='post-link' href="{{ site.baseurl }}/stochastic-port-hamiltonian-systems-under-information-uncertainties">Stochastic Port-Hamiltonian Systems Under Information Uncertainties</a></h3></li>
 
 </ul>

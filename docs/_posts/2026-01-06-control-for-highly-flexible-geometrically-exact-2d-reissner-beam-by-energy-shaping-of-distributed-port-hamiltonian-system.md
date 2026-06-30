@@ -21,9 +21,9 @@ damping injection, distributed port-hamiltonian system, energy shaping, geometri
 ## Citation
 - **Journal:** Multibody System Dynamics
 - **Year:** 2026
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 67
+- **Issue:** 2
+- **Pages:** 437--465
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s11044-025-10139-0](https://doi.org/10.1007/s11044-025-10139-0)
  
@@ -32,12 +32,15 @@ damping injection, distributed port-hamiltonian system, energy shaping, geometri
 {% raw %}
 @article{Ljukovac_2026,
   title={{Control for (highly) flexible geometrically exact 2D Reissner beam by energy shaping of distributed port-Hamiltonian system}},
+  volume={67},
   ISSN={1573-272X},
   DOI={10.1007/s11044-025-10139-0},
+  number={2},
   journal={Multibody System Dynamics},
   publisher={Springer Science and Business Media LLC},
   author={Ljukovac, Suljo and Ibrahimbegovic, Adnan},
-  year={2026}
+  year={2026},
+  pages={437--465}
 }
 {% endraw %}
 {% endhighlight %}
@@ -51,7 +54,7 @@ damping injection, distributed port-hamiltonian system, energy shaping, geometri
 - [Duindam V, Macchelli A, Stramigioli S, Bruyninckx H (2009) Modeling and Control of Complex Physical Systems. Springer Berlin Heidelber](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - M.E. Guerrero-Sanchez, Appl. Sci. (2017)
 - Ibrahimbegović A (1995) On finite element implementation of geometrically nonlinear Reissner’s beam theory: three-dimensional curved beam elements. Computer Methods in Applied Mechanics and Engineering 122(1–2):11–26. https://doi.org/10.1016/0045-7825(95)00724- -- [10.1016/0045-7825(95)00724-f](https://doi.org/10.1016/0045-7825(95)00724-f)
-- Ibrahimbegović A, Mamouri S (1999) Nonlinear dynamics of flexible beams in planar motion: formulation and time-stepping scheme for stiff problems. Computers &amp; Structures 70(1):1–22. https://doi.org/10.1016/s0045-7949(98)00150- -- [10.1016/s0045-7949(98)00150-3](https://doi.org/10.1016/s0045-7949(98)00150-3)
+- {"status":"error" -- [10.1016/s0045-7949(98)00150-3](https://doi.org/10.1016/s0045-7949(98)00150-3)
 - Ibrahimbegovic A, Mejia-Nava R-A (2023) Structural Engineering. Springer International Publishin -- [10.1007/978-3-031-23592-4](https://doi.org/10.1007/978-3-031-23592-4)
 - Ibrahimbegović A, Mamouri S, Taylor RL, Chen AJ (2000) Finite Element Method in Dynamics of Flexible Multibody Systems: Modeling of Holonomic Constraints and Energy Conserving Integration Schemes. Multibody System Dynamics 4(2–3):195–223. https://doi.org/10.1023/a:100986762750 -- [10.1023/a:1009867627506](https://doi.org/10.1023/a:1009867627506)
 - Ibrahimbegovic A, Knopf‐Lenoir C, Kučerová A, Villon P (2004) Optimal design and optimal control of structures undergoing finite rotations and elastic deformations. Numerical Meth Engineering 61(14):2428–2460. https://doi.org/10.1002/nme.115 -- [10.1002/nme.1150](https://doi.org/10.1002/nme.1150)
@@ -64,7 +67,7 @@ damping injection, distributed port-hamiltonian system, energy shaping, geometri
 - [Ljukovac S, Ibrahimbegovic A, Husic MC (2025) Nonlinear Dynamics and Control of Reissner’s 2D Geometrically Exact Beam by Distributed Port‐Hamiltonian System. Numerical Meth Engineering 126(16). https://doi.org/10.1002/nme.7010](nonlinear-dynamics-and-control-of-reissner-s-2d-geometrically-exact-beam-by-distributed-port-hamiltonian-system) -- [10.1002/nme.70103](https://doi.org/10.1002/nme.70103)
 - J.E. Marsden, Mathematical Foundations of Elasticity (1994)
 - J.E. Marsden, Hamiltonian Reduction by Stages (2007)
-- Moreno-Navarro P, Ibrahimbegovic A, Ospina A (2019) Multi-field variational formulations and mixed finite element approximations for electrostatics and magnetostatics. Comput Mech 65(1):41–59. https://doi.org/10.1007/s00466-019-01751- -- [10.1007/s00466-019-01751-x](https://doi.org/10.1007/s00466-019-01751-x)
+- {"status":"error" -- [10.1007/s00466-019-01751-x](https://doi.org/10.1007/s00466-019-01751-x)
 - Ortega R, van der Schaft AJ, Mareels I, Maschke B (2001) Energy shaping control revisited. Lecture Notes in Control and Information Sciences 277–30 -- [10.1007/bfb0110388](https://doi.org/10.1007/bfb0110388)
 - (2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.91539 -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - E. Reissner, J. Appl. Math. Phys. (1972)

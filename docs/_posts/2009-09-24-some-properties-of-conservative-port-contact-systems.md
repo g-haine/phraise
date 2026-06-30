@@ -8,7 +8,7 @@ category: articles
 ---
  
 ## Authors
-[A. Favache](authors/a-favache), [V.S. Dos Santos Martins](authors/v-s-dos-santos-martins), [D. Dochain](authors/denis-dochain), [B. Maschke](authors/bernhard-maschke)
+[A. Favache](authors/audrey-favache), [V.S. Dos Santos Martins](authors/v-s-dos-santos-martins), [D. Dochain](authors/denis-dochain), [B. Maschke](authors/bernhard-maschke)
  
 ## Abstract
 The dynamics of open irreversible thermodynamic systems, that is systems including both the balance equation of the energy and the entropy, has been formulated as contact vector fields with generating functions depending on some external (control) variable and called conservative port contact systems. In this paper we relate the dynamical properties of these systems (equilibrium points, asymptotic stability) to properties of the generating functions (the contact Hamiltonian functions). We show that the equilibrium points of the system satisfy certain conditions involving the contact Hamiltonian function. We also consider Lyapunov's first theorem to emphasize a stability criterion for the equilibrium points in terms of this contact Hamiltonian function and relate it to some thermodynamical properties. These results are then related to the physical phenomena that are taking place in the system.
