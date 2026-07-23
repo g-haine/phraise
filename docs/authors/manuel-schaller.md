@@ -7,6 +7,7 @@ permalink: /authors/manuel-schaller
 <p id='info-authors'>Alternative author names: Manuel Schaller.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Willem Esterhuizen, Bernhard Maschke, Till Preuster, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-controlled-port-hamiltonian-systems-existence-of-optimal-solutions">Nonlinear Controlled Port-Hamiltonian Systems: Existence of (Optimal) Solutions</a></h3></li>
 <li><span class='post-meta'>2026 -- Volker Mehrmann, Manuel Schaller, Martin Stoll</span><h3><a class='post-link' href="{{ site.baseurl }}/iterative-solvers-for-partial-differential-equations-with-dissipative-structure-operator-preconditioning-and-optimal-control">Iterative solvers for partial differential equations with dissipative structure: operator preconditioning and optimal control</a></h3></li>
 <li><span class='post-meta'>2026 -- Hannes Gernandt, Friedrich M. Philipp, Till Preuster, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/extension-theory-via-boundary-triplets-for-infinite-dimensional-implicit-port-hamiltonian-systems">Extension Theory Via Boundary Triplets for Infinite-Dimensional Implicit Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Arijit Sarkar, Vaibhav Kumar Singh, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-optimal-control-of-discrete-time-port-hamiltonian-systems">Energy-Optimal Control of Discrete-Time Port-Hamiltonian Systems</a></h3></li>

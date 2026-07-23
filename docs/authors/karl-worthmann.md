@@ -7,6 +7,7 @@ permalink: /authors/karl-worthmann
 <p id='info-authors'>Alternative author names: Karl Worthmann.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Willem Esterhuizen, Bernhard Maschke, Till Preuster, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-controlled-port-hamiltonian-systems-existence-of-optimal-solutions">Nonlinear Controlled Port-Hamiltonian Systems: Existence of (Optimal) Solutions</a></h3></li>
 <li><span class='post-meta'>2025 -- Arijit Sarkar, Vaibhav Kumar Singh, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-optimal-control-of-discrete-time-port-hamiltonian-systems">Energy-Optimal Control of Discrete-Time Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Timm Faulwasser, Jonas Kirchhoff, Volker Mehrmann, Friedrich Philipp, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/hidden-regularity-in-singular-optimal-control-of-port-hamiltonian-systems">Hidden Regularity in Singular Optimal Control of port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Friedrich M. Philipp, Manuel Schaller, Karl Worthmann, Timm Faulwasser, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/optimal-control-of-port-hamiltonian-systems-energy-entropy-and-exergy">Optimal control of port-Hamiltonian systems: Energy, entropy, and exergy</a></h3></li>

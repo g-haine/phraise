@@ -23,7 +23,7 @@ MENDELEY_API_KEY=
 Then, run the following workflow from the `docs` directory:
 
 1. `./looking4Update.sh` – update metadata (volume, issue, etc.) and fetch the latest CrossRef entries 
-2. Check entries in chechDOI.txt and decide where they belong: bad/newDOI.txt
+2. Check entries in checkDOI.txt and decide where they belong: bad/newDOI.txt
 3. `./getData.sh newDOI.txt`
 4. `./setAuthorMapping.sh` – correct `biblio.json` entries as needed.
 5. Add new name variations or entries to `assets/data/author_mappings.json` – retry `./setAuthorMapping.sh` to check

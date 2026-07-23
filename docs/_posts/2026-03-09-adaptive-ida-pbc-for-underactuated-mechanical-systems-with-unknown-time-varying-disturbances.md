@@ -16,9 +16,9 @@ category: articles
 ## Citation
 - **Journal:** International Journal of Adaptive Control and Signal Processing
 - **Year:** 2026
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 40
+- **Issue:** 7
+- **Pages:** 1401--1410
 - **Publisher:** Wiley
 - **DOI:** [10.1002/acs.70076](https://doi.org/10.1002/acs.70076)
  
@@ -27,12 +27,15 @@ category: articles
 {% raw %}
 @article{Romero_2026,
   title={{Adaptive IDA‐PBC for Underactuated Mechanical Systems With Unknown Time‐Varying Disturbances}},
+  volume={40},
   ISSN={1099-1115},
   DOI={10.1002/acs.70076},
+  number={7},
   journal={International Journal of Adaptive Control and Signal Processing},
   publisher={Wiley},
   author={Romero, Jose Guadalupe and Nuño, Emmanuel},
-  year={2026}
+  year={2026},
+  pages={1401--1410}
 }
 {% endraw %}
 {% endhighlight %}
@@ -43,7 +46,7 @@ category: articles
 - [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ortega R, Spong MW, Gomez-Estern F, Blankenstein G (2002) Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Trans Automat Contr 47(8):1218–1233. https://doi.org/10.1109/tac.2002.80077 -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - [Meshram RV, Bhagwat M, Khade S, Wagh SR, Stankovic AM, Singh NM (2019) Port-Controlled Phasor Hamiltonian Modeling and IDA-PBC Control of Solid-State Transformer. IEEE Trans Contr Syst Technol 27(1):161–174. https://doi.org/10.1109/tcst.2017.276186](port-controlled-phasor-hamiltonian-modeling-and-ida-pbc-control-of-solid-state-transformer) -- [10.1109/tcst.2017.2761866](https://doi.org/10.1109/tcst.2017.2761866)
-- Mattioni M, Moreschini A, Monaco S, Normand-Cyrot D (2022) Quaternion-Based Attitude Stabilization via Discrete-Time IDA-PBC. IEEE Control Syst Lett 6:2665–2670. https://doi.org/10.1109/lcsys.2022.317350 -- [10.1109/lcsys.2022.3173509](https://doi.org/10.1109/lcsys.2022.3173509)
+- {"status":"error" -- [10.1109/lcsys.2022.3173509](https://doi.org/10.1109/lcsys.2022.3173509)
 - Harandi MRJ, Namvar M, Taghirad HD (2023) Stabilization of Robots With Actuator Constraints via Interconnection and Damping Assignment. IEEE Trans Contr Syst Technol 31(6):2945–2952. https://doi.org/10.1109/tcst.2023.327390 -- [10.1109/tcst.2023.3273902](https://doi.org/10.1109/tcst.2023.3273902)
 - Zhang T, Xia J (2019) Interconnection and Damping Assignment Passivity-Based Impedance Control of a Compliant Assistive Robot for Physical Human–Robot Interactions. IEEE Robot Autom Lett 4(2):538–545. https://doi.org/10.1109/lra.2019.289143 -- [10.1109/lra.2019.2891434](https://doi.org/10.1109/lra.2019.2891434)
 - Salamat B, Elsbacher G, Tonello AM (2025) Energy Shaping Control in Underactuated Robot Systems With Underactuation Degree Two. IEEE Robot Autom Lett 10(3):2734–2741. https://doi.org/10.1109/lra.2025.353468 -- [10.1109/lra.2025.3534688](https://doi.org/10.1109/lra.2025.3534688)
@@ -55,8 +58,8 @@ category: articles
 - Franco E, Arpenti P, Donaire A (2023) Integral passivity‐based control of underactuated mechanical systems with state‐dependent matched disturbances. Intl J Robust &amp; Nonlinear 34(5):3565–3585. https://doi.org/10.1002/rnc.715 -- [10.1002/rnc.7151](https://doi.org/10.1002/rnc.7151)
 - Franco E, Chen K (2025) Integral IDA-PBC for underactuated mechanical systems with unmeasured actuator dynamics and time-varying matched disturbances. European Journal of Control 85:101256. https://doi.org/10.1016/j.ejcon.2025.10125 -- [10.1016/j.ejcon.2025.101256](https://doi.org/10.1016/j.ejcon.2025.101256)
 - Franco E, Arpenti P, Donaire A, Ruggiero F (2024) Integral IDA-PBC for Underactuated Mechanical Systems Subject to Matched and Unmatched Disturbances. IEEE Control Syst Lett 8:568–573. https://doi.org/10.1109/lcsys.2024.339947 -- [10.1109/lcsys.2024.3399474](https://doi.org/10.1109/lcsys.2024.3399474)
-- [{"status":"error"](a-robust-ida-pbc-approach-for-handling-uncertainties-in-underactuated-mechanical-systems) -- [10.1109/tac.2018.2797191](https://doi.org/10.1109/tac.2018.2797191)
-- {"status":"error" -- [10.1002/rnc.1200](https://doi.org/10.1002/rnc.1200)
+- [Ryalat M, Laila DS (2018) A Robust IDA-PBC Approach for Handling Uncertainties in Underactuated Mechanical Systems. IEEE Trans Automat Contr 63(10):3495–3502. https://doi.org/10.1109/tac.2018.279719](a-robust-ida-pbc-approach-for-handling-uncertainties-in-underactuated-mechanical-systems) -- [10.1109/tac.2018.2797191](https://doi.org/10.1109/tac.2018.2797191)
+- Riachy S, Orlov Y, Floquet T, Santiesteban R, Richard J (2007) Second‐order sliding mode control of underactuated mechanical systems I: Local stabilization with application to an inverted pendulum. Intl J Robust &amp; Nonlinear 18(4–5):529–543. https://doi.org/10.1002/rnc.120 -- [10.1002/rnc.1200](https://doi.org/10.1002/rnc.1200)
 - Lu B, Fang Y, Sun N (2018) Continuous Sliding Mode Control Strategy for a Class of Nonlinear Underactuated Systems. IEEE Trans Automat Contr 63(10):3471–3478. https://doi.org/10.1109/tac.2018.279488 -- [10.1109/tac.2018.2794885](https://doi.org/10.1109/tac.2018.2794885)
 - Ovalle L, Rios H, Llama M, Fridman L (2022) Continuous Sliding-Mode Output-Feedback Control for Stabilization of a Class of Underactuated Systems. IEEE Trans Automat Contr 67(2):986–992. https://doi.org/10.1109/tac.2021.307517 -- [10.1109/tac.2021.3075179](https://doi.org/10.1109/tac.2021.3075179)
 - Boiko I, Fridman L (2005) Analysis of chattering in continuous sliding-mode controllers. IEEE Trans Automat Contr 50(9):1442–1446. https://doi.org/10.1109/tac.2005.85465 -- [10.1109/tac.2005.854655](https://doi.org/10.1109/tac.2005.854655)

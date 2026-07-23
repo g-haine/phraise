@@ -7,6 +7,7 @@ permalink: /authors/bernhard-maschke
 <p id='info-authors'>Alternative author names: Bernhard Maschke, Bernhard MASCHKE, Bernhard M. Maschke, B. Maschke, B.M.J. Maschke, B. M. Maschke, B.M. Maschke.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Willem Esterhuizen, Bernhard Maschke, Till Preuster, Manuel Schaller, Karl Worthmann</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-controlled-port-hamiltonian-systems-existence-of-optimal-solutions">Nonlinear Controlled Port-Hamiltonian Systems: Existence of (Optimal) Solutions</a></h3></li>
 <li><span class='post-meta'>2025 -- Xiaoyu Cheng, Bernhard Maschke, Christian Jallut</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-formulations-of-the-elastic-foam-bed-reactor-model">Port-Hamiltonian formulations of the elastic foam-bed reactor model</a></h3></li>
 <li><span class='post-meta'>2025 -- Jonas Kirchhoff, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-representation-of-metriplectic-systems-and-their-interconnection">Port-Hamiltonian representation of metriplectic systems and their interconnection</a></h3></li>
 <li><span class='post-meta'>2025 -- Mario Spirito, Bernhard Maschke, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/beyond-singular-perturbation-for-linear-port-hamiltonian-systems">Beyond Singular Perturbation for linear port-Hamiltonian systems</a></h3></li>

@@ -7,6 +7,7 @@ permalink: /authors/antoine-tordeux
 <p id='info-authors'>Alternative author names: Antoine Tordeux.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Rafay Nawaid Alvi, Jean Daniel Mukam, Barbara Rüdiger, Antoine Tordeux</span><h3><a class='post-link' href="{{ site.baseurl }}/self-organization-in-pedestrian-dynamics-a-stochastic-port-hamiltonian-approach">Self-organization in pedestrian dynamics: a stochastic port-Hamiltonian approach</a></h3></li>
 <li><span class='post-meta'>2024 -- Julia Ackermann, Matthias Ehrhardt, Thomas Kruse, Antoine Tordeux</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilisation-of-stochastic-single-file-dynamics-using-port-hamiltonian-systems">Stabilisation of stochastic single-file dynamics using port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Barbara Rüdiger, Antoine Tordeux, Baris E Ugurcan</span><h3><a class='post-link' href="{{ site.baseurl }}/stability-analysis-of-a-stochastic-port-hamiltonian-car-following-model">Stability analysis of a stochastic port-Hamiltonian car-following model</a></h3></li>
 <li><span class='post-meta'>2024 -- Antoine Tordeux, Claudia Totzeck, Sylvain Lassarre, Jean-Patrick Lebacque</span><h3><a class='post-link' href="{{ site.baseurl }}/modelling-pedestrian-collective-dynamics-with-port-hamiltonian-systems">Modelling Pedestrian Collective Dynamics with Port-Hamiltonian Systems</a></h3></li>

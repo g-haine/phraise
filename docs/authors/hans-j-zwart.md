@@ -7,6 +7,7 @@ permalink: /authors/hans-j-zwart
 <p id='info-authors'>Alternative author names: Hans J. Zwart, Hans Zwart, H J Zwart, H. J. Zwart, H.J. Zwart, H. Zwart.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Silke Glas, Mir Mamunuzzaman, Hongliang Mu, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/symplectic-model-order-reduction-of-port-hamiltonian-systems">Symplectic model order reduction of port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2026 -- Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/from-dirac-structures-to-port-hamiltonian-partial-differential-equations-a-tutorial-introduction">From Dirac Structures to Port-Hamiltonian Partial Differential Equations, a Tutorial Introduction</a></h3></li>
 <li><span class='post-meta'>2026 -- Patrick Buchfink, Silke Glas, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-stable-port-hamiltonian-systems">Energy-stable port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Bouchra Elghazi, Birgit Jacob, Hans Zwart</span><h3><a class='post-link' href="{{ site.baseurl }}/well-posedness-of-a-class-of-infinite-dimensional-port-hamiltonian-systems-with-boundary-control-and-observation">Well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation</a></h3></li>

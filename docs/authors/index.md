@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2579 authors referenced.</h3>
+<h3>There are 2594 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -48,7 +48,8 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/ahmad-akbari'>Ahmad Akbari</a>
 <a href='{{ site.baseurl }}/authors/hamdi-akhsan'>Hamdi Akhsan</a>
 <a href='{{ site.baseurl }}/authors/yuki-akiyama'>Yuki Akiyama</a>
-<a href='{{ site.baseurl }}/authors/r-akmeliawati'>R Akmeliawati</a>
+<a href='{{ site.baseurl }}/authors/rini-akmeliawati'>Rini Akmeliawati</a>
+<a href='{{ site.baseurl }}/authors/rami-al-khulaidi'>Rami Al-Khulaidi</a>
 <a href='{{ site.baseurl }}/authors/israa-badr-nasser-al-mashhadani'>Israa Badr Nasser Al-Mashhadani</a>
 <a href='{{ site.baseurl }}/authors/seyedabbas-alavi'>Seyedabbas Alavi</a>
 <a href='{{ site.baseurl }}/authors/aya-alawieh'>Aya Alawieh</a>
@@ -67,6 +68,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/raimundez-alvarez'>Raimúndez Álvarez</a>
 <a href='{{ site.baseurl }}/authors/luis-alvarez-icaza'>Luis Alvarez-Icaza</a>
 <a href='{{ site.baseurl }}/authors/ricardo-alvarez-salas'>Ricardo Alvarez-Salas</a>
+<a href='{{ site.baseurl }}/authors/rafay-nawaid-alvi'>Rafay Nawaid Alvi</a>
 <a href='{{ site.baseurl }}/authors/v-r-ambati'>V.R. Ambati</a>
 <a href='{{ site.baseurl }}/authors/william-tadeo-amin'>William Tadeo Amin</a>
 <a href='{{ site.baseurl }}/authors/farid-amirouche'>Farid Amirouche</a>
@@ -287,6 +289,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/liangcheng-cai'>Liangcheng Cai</a>
 <a href='{{ site.baseurl }}/authors/wenjun-cai'>Wenjun Cai</a>
 <a href='{{ site.baseurl }}/authors/xiu-shan-cai'>Xiu‐Shan Cai</a>
+<a href='{{ site.baseurl }}/authors/zhiqin-cai'>Zhiqin Cai</a>
 <a href='{{ site.baseurl }}/authors/zhiyang-cai'>Zhiyang Cai</a>
 <a href='{{ site.baseurl }}/authors/zili-cai'>Zili Cai</a>
 <a href='{{ site.baseurl }}/authors/andrea-caiti'>Andrea Caiti</a>
@@ -340,6 +343,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/liangming-chen'>Liangming Chen</a>
 <a href='{{ site.baseurl }}/authors/ling-chen'>Ling Chen</a>
 <a href='{{ site.baseurl }}/authors/long-chen'>Long Chen</a>
+<a href='{{ site.baseurl }}/authors/mingdong-chen'>Mingdong Chen</a>
 <a href='{{ site.baseurl }}/authors/minghui-chen'>Minghui Chen</a>
 <a href='{{ site.baseurl }}/authors/qianjun-chen'>Qianjun Chen</a>
 <a href='{{ site.baseurl }}/authors/qifeng-chen'>Qifeng Chen</a>
@@ -347,6 +351,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/rui-chen'>Rui Chen</a>
 <a href='{{ site.baseurl }}/authors/shen-chen'>Shen Chen</a>
 <a href='{{ site.baseurl }}/authors/shengyuan-chen'>Shengyuan Chen</a>
+<a href='{{ site.baseurl }}/authors/wei-chen'>Wei Chen</a>
 <a href='{{ site.baseurl }}/authors/x-h-chen'>X H Chen</a>
 <a href='{{ site.baseurl }}/authors/x-chen'>X. Chen</a>
 <a href='{{ site.baseurl }}/authors/xi-chen'>Xi Chen</a>
@@ -540,6 +545,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/luis-miguel-esquivel-sancho'>Luis Miguel Esquivel-Sancho</a>
 <a href='{{ site.baseurl }}/authors/hector-ramirez-estay'>Hector Ramirez Estay</a>
 <a href='{{ site.baseurl }}/authors/francisco-daniel-esteban'>Francisco Daniel Esteban</a>
+<a href='{{ site.baseurl }}/authors/willem-esterhuizen'>Willem Esterhuizen</a>
 <a href='{{ site.baseurl }}/authors/simon-r-eugster'>Simon R. Eugster</a>
 <a href='{{ site.baseurl }}/authors/anneroos-r-f-everts'>Anneroos R.F. Everts</a>
 </div>
@@ -726,6 +732,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/g-grabmair'>G. Grabmair</a>
 <a href='{{ site.baseurl }}/authors/katarzyna-grabowska'>Katarzyna Grabowska</a>
 <a href='{{ site.baseurl }}/authors/janusz-grabowski'>Janusz Grabowski</a>
+<a href='{{ site.baseurl }}/authors/steven-grainger'>Steven Grainger</a>
 <a href='{{ site.baseurl }}/authors/christian-granados-salazar'>Christian Granados-Salazar</a>
 <a href='{{ site.baseurl }}/authors/w-steven-gray'>W. Steven Gray</a>
 <a href='{{ site.baseurl }}/authors/robert-d-gregg'>Robert D. Gregg</a>
@@ -792,6 +799,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/boussad-hamroun'>Boussad Hamroun</a>
 <a href='{{ site.baseurl }}/authors/minxiao-han'>Minxiao Han</a>
 <a href='{{ site.baseurl }}/authors/peng-han'>Peng Han</a>
+<a href='{{ site.baseurl }}/authors/xianhao-han'>Xianhao Han</a>
 <a href='{{ site.baseurl }}/authors/yaozhen-han'>Yaozhen Han</a>
 <a href='{{ site.baseurl }}/authors/ye-han'>Ye Han</a>
 <a href='{{ site.baseurl }}/authors/youngseong-han'>Youngseong Han</a>
@@ -1014,6 +1022,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/hideo-kajiura'>Hideo Kajiura</a>
 <a href='{{ site.baseurl }}/authors/mohsen-kalantar'>Mohsen Kalantar</a>
 <a href='{{ site.baseurl }}/authors/salah-kamel'>Salah Kamel</a>
+<a href='{{ site.baseurl }}/authors/ziyun-kan'>Ziyun Kan</a>
 <a href='{{ site.baseurl }}/authors/chung-yao-kao'>Chung-Yao Kao</a>
 <a href='{{ site.baseurl }}/authors/vadim-kaparin'>Vadim Kaparin</a>
 <a href='{{ site.baseurl }}/authors/i-n-kar'>I. N. Kar</a>
@@ -1301,6 +1310,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/hai-lu'>Hai Lu</a>
 <a href='{{ site.baseurl }}/authors/hao-lu'>Hao Lu</a>
 <a href='{{ site.baseurl }}/authors/qiang-lu'>Qiang Lu</a>
+<a href='{{ site.baseurl }}/authors/tien-fu-lu'>Tien-Fu Lu</a>
 <a href='{{ site.baseurl }}/authors/yu-lu'>Yu Lu</a>
 <a href='{{ site.baseurl }}/authors/yufeng-lu'>Yufeng Lu</a>
 <a href='{{ site.baseurl }}/authors/zhangyu-lu'>Zhangyu Lu</a>
@@ -1366,6 +1376,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/e-maljaars'>E. Maljaars</a>
 <a href='{{ site.baseurl }}/authors/tobias-malzer'>Tobias Malzer</a>
 <a href='{{ site.baseurl }}/authors/alberto-mameli'>Alberto Mameli</a>
+<a href='{{ site.baseurl }}/authors/mir-mamunuzzaman'>Mir Mamunuzzaman</a>
 <a href='{{ site.baseurl }}/authors/mauro-mancini'>Mauro Mancini</a>
 <a href='{{ site.baseurl }}/authors/s-manimala'>S Manimala</a>
 <a href='{{ site.baseurl }}/authors/narayan-suresh-manjarekar'>Narayan Suresh Manjarekar</a>
@@ -1486,11 +1497,13 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/xueqi-mou'>Xueqi Mou</a>
 <a href='{{ site.baseurl }}/authors/omar-mouhib'>Omar Mouhib</a>
 <a href='{{ site.baseurl }}/authors/redha-moulla'>Redha Moulla</a>
+<a href='{{ site.baseurl }}/authors/hongliang-mu'>Hongliang Mu</a>
 <a href='{{ site.baseurl }}/authors/kun-mu'>Kun Mu</a>
 <a href='{{ site.baseurl }}/authors/rui-mu'>Rui Mu</a>
 <a href='{{ site.baseurl }}/authors/xiaobin-mu'>Xiaobin Mu</a>
 <a href='{{ site.baseurl }}/authors/felicitas-mueller'>Felicitas Mueller</a>
 <a href='{{ site.baseurl }}/authors/martin-mujica'>Martin Mujica</a>
+<a href='{{ site.baseurl }}/authors/jean-daniel-mukam'>Jean Daniel Mukam</a>
 <a href='{{ site.baseurl }}/authors/joseph-ramazani-mukamba'>Joseph Ramazani Mukamba</a>
 <a href='{{ site.baseurl }}/authors/pankaj-mukhija'>Pankaj Mukhija</a>
 <a href='{{ site.baseurl }}/authors/juan-ignacio-mulero-martinez'>Juan Ignacio Mulero-Martínez</a>
@@ -2084,6 +2097,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/long-tao'>Long Tao</a>
 <a href='{{ site.baseurl }}/authors/mo-tao'>Mo Tao</a>
 <a href='{{ site.baseurl }}/authors/juan-cristobal-alcaraz-tapia'>Juan Cristobal Alcaraz Tapia</a>
+<a href='{{ site.baseurl }}/authors/stefan-tappe'>Stefan Tappe</a>
 <a href='{{ site.baseurl }}/authors/cristina-tarin'>Cristina Tarín</a>
 <a href='{{ site.baseurl }}/authors/giulia-alessandra-tataru'>Giulia Alessandra Tataru</a>
 <a href='{{ site.baseurl }}/authors/kamakshi-tatkare'>Kamakshi Tatkare</a>
@@ -2497,6 +2511,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/haisheng-yu'>Haisheng Yu</a>
 <a href='{{ site.baseurl }}/authors/hongnian-yu'>Hongnian Yu</a>
 <a href='{{ site.baseurl }}/authors/jinpeng-yu'>Jinpeng Yu</a>
+<a href='{{ site.baseurl }}/authors/kai-yu'>Kai Yu</a>
 <a href='{{ site.baseurl }}/authors/peizhou-yu'>Peizhou Yu</a>
 <a href='{{ site.baseurl }}/authors/rongjiang-yu'>Rongjiang Yu</a>
 <a href='{{ site.baseurl }}/authors/rui-yu'>Rui Yu</a>

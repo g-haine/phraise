@@ -21,9 +21,9 @@ adaptive fuzzy, dynamic damping, eph control, generalized hamiltonian function, 
 ## Citation
 - **Journal:** ISA Transactions
 - **Year:** 2026
-- **Volume:** 
+- **Volume:** 175
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 255--268
 - **Publisher:** Elsevier BV
 - **DOI:** [10.1016/j.isatra.2026.05.029](https://doi.org/10.1016/j.isatra.2026.05.029)
  
@@ -32,12 +32,14 @@ adaptive fuzzy, dynamic damping, eph control, generalized hamiltonian function, 
 {% raw %}
 @article{Yang_2026,
   title={{Soft-event-triggered dynamic damping adaptive fuzzy constraints EPH control for robot manipulator}},
+  volume={175},
   ISSN={0019-0578},
   DOI={10.1016/j.isatra.2026.05.029},
   journal={ISA Transactions},
   publisher={Elsevier BV},
   author={Yang, Qing and Yu, Haisheng and Wang, Shubo and Meng, Xiangxiang},
-  year={2026}
+  year={2026},
+  pages={255--268}
 }
 {% endraw %}
 {% endhighlight %}
@@ -88,6 +90,6 @@ adaptive fuzzy, dynamic damping, eph control, generalized hamiltonian function, 
 - Mohammadi A, Tavakoli M, Marquez HJ, Hashemzadeh F (2013) Nonlinear disturbance observer design for robotic manipulators. Control Engineering Practice 21(3):253–267. https://doi.org/10.1016/j.conengprac.2012.10.00 -- [10.1016/j.conengprac.2012.10.008](https://doi.org/10.1016/j.conengprac.2012.10.008)
 - Zhang D, Hu J, Cheng J, Wu Z-G, Yan H (2024) A Novel Disturbance Observer Based Fixed-Time Sliding Mode Control for Robotic Manipulators with Global Fast Convergence. IEEE/CAA J Autom Sinica 11(3):661–672. https://doi.org/10.1109/jas.2023.12394 -- [10.1109/jas.2023.123948](https://doi.org/10.1109/jas.2023.123948)
 - Ren Y, Sun Y, Liu Z, Lam H-K (2025) Parameter-Optimization-Based Adaptive Fault-Tolerant Control for a Quadrotor UAV Using Fuzzy Disturbance Observers. IEEE Trans Fuzzy Syst 33(2):593–605. https://doi.org/10.1109/tfuzz.2024.348675 -- [10.1109/tfuzz.2024.3486750](https://doi.org/10.1109/tfuzz.2024.3486750)
-- {"status":"error" -- [10.1109/tac.2024.3397468](https://doi.org/10.1109/tac.2024.3397468)
-- {"status":"error" -- [10.1007/s11071-025-11786-w](https://doi.org/10.1007/s11071-025-11786-w)
+- Liu W, Zhao H, Shen H, Xu S, Park JH (2024) Command-Filter-Based Predefined-Time Control for State-Constrained Nonlinear Systems Subject to Preassigned Performance Metrics. IEEE Trans Automat Contr 69(11):7801–7807. https://doi.org/10.1109/tac.2024.339746 -- [10.1109/tac.2024.3397468](https://doi.org/10.1109/tac.2024.3397468)
+- Yang Q, Yu H, Wang S, Meng X, Yu W (2025) Cooperative event-triggered backstepping control for MIMO systems with boundary barrier Lyapunov functions. Nonlinear Dyn 113(23):32427–32450. https://doi.org/10.1007/s11071-025-11786- -- [10.1007/s11071-025-11786-w](https://doi.org/10.1007/s11071-025-11786-w)
 

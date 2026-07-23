@@ -7,7 +7,7 @@ permalink: /authors/conghao-wang
 <p id='info-authors'>Alternative author names: Conghao Wang.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2025 -- Yan Ma, Conghao Wang, Liang He, Quan Ouyang, Danwei Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-collaborative-control-with-velocity-optimization-for-overactuated-electric-vehicles">Passivity-Based Collaborative Control With Velocity Optimization for Overactuated Electric Vehicles</a></h3></li>
+<li><span class='post-meta'>2026 -- Yan Ma, Conghao Wang, Liang He, Quan Ouyang, Danwei Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-collaborative-control-with-velocity-optimization-for-overactuated-electric-vehicles">Passivity-Based Collaborative Control With Velocity Optimization for Overactuated Electric Vehicles</a></h3></li>
 
 </ul>
 {% include count-posts.html %}
