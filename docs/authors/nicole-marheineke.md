@@ -7,6 +7,7 @@ permalink: /authors/nicole-marheineke
 <p id='info-authors'>Alternative author names: Nicole Marheineke, N. Marheineke.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Andreas Frommer, Michael Günther, Björn Liljegren-Sailer, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/operator-splitting-for-port-hamiltonian-systems">Operator Splitting for Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2026 -- Stefan Maier, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/iterative-krylov-subspace-methods-for-linear-port-hamiltonian-systems">Iterative Krylov Subspace Methods for Linear Port‐Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2026 -- Marius Mönch, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-associated-splitting-schemes-for-closed-nonlinear-port-hamiltonian-systems">Energy‐Associated Splitting Schemes for Closed Nonlinear Port‐Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Andreas Bartel, Malak Diab, Andreas Frommer, Michael Günther, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/splitting-techniques-for-daes-with-port-hamiltonian-applications">Splitting techniques for DAEs with port-Hamiltonian applications</a></h3></li>

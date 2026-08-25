@@ -7,6 +7,7 @@ permalink: /authors/andreas-bartel
 <p id='info-authors'>Alternative author names: Andreas Bartel.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Andreas Bartel, Malak Diab, Andreas Frommer, Michael Günther</span><h3><a class='post-link' href="{{ site.baseurl }}/operator-splitting-for-semi-explicit-differential-algebraic-equations-and-port-hamiltonian-daes">Operator Splitting for Semi-explicit Differential-Algebraic Equations and Port-Hamiltonian DAEs</a></h3></li>
 <li><span class='post-meta'>2025 -- Andreas Bartel, Malak Diab, Andreas Frommer, Michael Günther, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/splitting-techniques-for-daes-with-port-hamiltonian-applications">Splitting techniques for DAEs with port-Hamiltonian applications</a></h3></li>
 <li><span class='post-meta'>2025 -- Andreas Bartel, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/goal-oriented-time-adaptivity-for-port-hamiltonian-systems">Goal-oriented time adaptivity for port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Andreas Bartel, Markus Clemens, Michael Günther, Birgit Jacob, Timo Reis</span><h3><a class='post-link' href="{{ site.baseurl }}/port-hamiltonian-systems-modelling-in-electrical-engineering">Port-Hamiltonian Systems’ Modelling in Electrical Engineering</a></h3></li>

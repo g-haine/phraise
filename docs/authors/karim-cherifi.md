@@ -4,9 +4,10 @@ permalink: /authors/karim-cherifi
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Karim Cherifi.</p>
+<p id='info-authors'>Alternative author names: Karim Cherifi, K. Cherifi.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- K. Cherifi, A. El Messaoudi, H. Gernandt, M. Roschkowski</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-port-hamiltonian-system-identification-from-input-state-output-data-iso-phnn">Nonlinear port-Hamiltonian system identification from input-state-output data (ISO-pHNN)</a></h3></li>
 <li><span class='post-meta'>2025 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann, Riccardo Morandin</span><h3><a class='post-link' href="{{ site.baseurl }}/relationship-between-dissipativity-concepts-for-linear-time-varying-port-hamiltonian-systems">Relationship between dissipativity concepts for linear time-varying port-Hamiltonian systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/on-discrete-time-dissipative-port-hamiltonian-descriptor-systems">On discrete-time dissipative port-Hamiltonian (descriptor) systems</a></h3></li>
 <li><span class='post-meta'>2024 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen</span><h3><a class='post-link' href="{{ site.baseurl }}/the-difference-between-port-hamiltonian-passive-and-positive-real-descriptor-systems">The difference between port-Hamiltonian, passive and positive real descriptor systems</a></h3></li>

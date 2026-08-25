@@ -7,6 +7,7 @@ permalink: /authors/bjorn-liljegren-sailer
 <p id='info-authors'>Alternative author names: Björn Liljegren-Sailer, B. Liljegren-Sailer.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Andreas Frommer, Michael Günther, Björn Liljegren-Sailer, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/operator-splitting-for-port-hamiltonian-systems">Operator Splitting for Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2022 -- Björn Liljegren-Sailer, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/on-snapshot-based-model-reduction-under-compatibility-conditions-for-a-nonlinear-flow-problem-on-networks">On Snapshot-Based Model Reduction Under Compatibility Conditions for a Nonlinear Flow Problem on Networks</a></h3></li>
 <li><span class='post-meta'>2022 -- Björn Liljegren-Sailer, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/on-port-hamiltonian-approximation-of-a-nonlinear-flow-problem-on-networks">On Port-Hamiltonian Approximation of a Nonlinear Flow Problem on Networks</a></h3></li>
 <li><span class='post-meta'>2019 -- Björn Liljegren-Sailer, Nicole Marheineke</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-galerkin-approximation-for-a-class-of-nonlinear-port-hamiltonian-partial-differential-equations-on-networks">Structure‐preserving Galerkin approximation for a class of nonlinear port‐Hamiltonian partial differential equations on networks</a></h3></li>

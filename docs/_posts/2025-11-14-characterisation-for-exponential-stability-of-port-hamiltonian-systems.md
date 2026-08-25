@@ -2,7 +2,7 @@
 title: "Characterisation for exponential stability of port-Hamiltonian systems"
 date: 2025-11-14 00:00:00 +0100
 permalink: characterisation-for-exponential-stability-of-port-hamiltonian-systems
-year: 2025
+year: 2026
 authors: Sascha Trostorff, Marcus Waurick
 category: articles
 ---
@@ -15,10 +15,10 @@ Given an energy-dissipating port-Hamiltonian system, we characterise the exponen
  
 ## Citation
 - **Journal:** Israel Journal of Mathematics
-- **Year:** 2025
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Year:** 2026
+- **Volume:** 273
+- **Issue:** 1
+- **Pages:** 87--126
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s11856-025-2831-1](https://doi.org/10.1007/s11856-025-2831-1)
  
@@ -27,12 +27,15 @@ Given an energy-dissipating port-Hamiltonian system, we characterise the exponen
 {% raw %}
 @article{Trostorff_2025,
   title={{Characterisation for exponential stability of port-Hamiltonian systems}},
+  volume={273},
   ISSN={1565-8511},
   DOI={10.1007/s11856-025-2831-1},
+  number={1},
   journal={Israel Journal of Mathematics},
   publisher={Springer Science and Business Media LLC},
   author={Trostorff, Sascha and Waurick, Marcus},
-  year={2025}
+  year={2025},
+  pages={87--126}
 }
 {% endraw %}
 {% endhighlight %}
@@ -60,7 +63,7 @@ Given an energy-dissipating port-Hamiltonian system, we characterise the exponen
 - C Seifert, Measure-perturbed one-dimensional Schrödinger operators (2012)
 - N Skrepek, Linear port-Hamiltonian Systems on Multidimensional Spatial Domains (2021)
 - A van der Schaft, Proceedings of the International Congress of Mathematicians. Madrid, 2006. Vol. III (2006)
-- [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. FnT in Systems and Control 1(2):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [Villegas JA, Zwart H, Le Gorrec Y, Maschke B (2009) Exponential Stability of a Class of Boundary Control Systems. IEEE Trans Automat Contr 54(1):142–147. https://doi.org/10.1109/tac.2008.200717](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - [Waurick M, Wegner S-A (2020) Dissipative extensions and port-Hamiltonian operators on networks. Journal of Differential Equations 269(9):6830–6874. https://doi.org/10.1016/j.jde.2020.05.01](dissipative-extensions-and-port-hamiltonian-operators-on-networks) -- [10.1016/j.jde.2020.05.014](https://doi.org/10.1016/j.jde.2020.05.014)
 - [Waurick M, Zwart H (2024) Asymptotic Stability of Port-Hamiltonian Systems. Trends in Mathematics 91–12](asymptotic-stability-of-port-hamiltonian-systems) -- [10.1007/978-3-031-64991-2_4](https://doi.org/10.1007/978-3-031-64991-2_4)

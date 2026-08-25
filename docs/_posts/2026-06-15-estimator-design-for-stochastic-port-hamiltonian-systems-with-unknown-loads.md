@@ -16,9 +16,9 @@ category: articles
 ## Citation
 - **Journal:** International Journal of Robust and Nonlinear Control
 - **Year:** 2026
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 36
+- **Issue:** 14
+- **Pages:** 6675--6688
 - **Publisher:** Wiley
 - **DOI:** [10.1002/rnc.70604](https://doi.org/10.1002/rnc.70604)
  
@@ -27,12 +27,15 @@ category: articles
 {% raw %}
 @article{Zong_2026,
   title={{Estimator Design for Stochastic Port‐Hamiltonian Systems With Unknown Loads}},
+  volume={36},
   ISSN={1099-1239},
   DOI={10.1002/rnc.70604},
+  number={14},
   journal={International Journal of Robust and Nonlinear Control},
   publisher={Wiley},
   author={Zong, Xiaofeng and Wang, Zi‐Xuan},
-  year={2026}
+  year={2026},
+  pages={6675--6688}
 }
 {% endraw %}
 {% endhighlight %}
@@ -41,7 +44,7 @@ category: articles
  
 ## References
 - Liu D, Zhang L, Xu Y, Wang X, Sun L, Pu Y, Hou X, Li C, Guo M (2024) Power synchronization: taming massive diversified serverless functions under power constraints. Sci China Inf Sci 68(3). https://doi.org/10.1007/s11432-022-3882- -- [10.1007/s11432-022-3882-y](https://doi.org/10.1007/s11432-022-3882-y)
-- Li J., Demand Response Management of Smart Grid Based on Stackelberg‐Evolutionary Joint Game. Science China Information Sciences (2023)
+- Li J, Li T, Dong D (2023) Demand response management of smart grid based on Stackelberg-evolutionary joint game. Sci China Inf Sci 66(8). https://doi.org/10.1007/s11432-022-3674- -- [10.1007/s11432-022-3674-6](https://doi.org/10.1007/s11432-022-3674-6)
 - Song D, Huang Y, Zeng X, Wu Z (2025) <scp>MPC</scp>‐Based Stability Control Algorithm for H‐Type Distributed‐Drive Electric Vehicles Considering Steering Energy Saving. Intl J Robust &amp; Nonlinear 35(13):5420–5437. https://doi.org/10.1002/rnc.799 -- [10.1002/rnc.7990](https://doi.org/10.1002/rnc.7990)
 - Chen L, Chen Y, Chu Z, Fang W, Ho T-Y, Huang R, Huang Y, Khan S, Li M, Li X, Li Y, Liang Y, Liu J, Liu Y, Lin Y, Luo G, Pan H, Shi Z, Sun G, Tsaras D, Wang R, Wang Z, Wei X, Xie Z, Xu Q, Xue C, Yan J, Yang J, Yu B, Yuan M, Young EFY, Zeng X, Zhang H, Zhang Z, Zhao Y, Zhen H-L, Zheng Z, Zhu B, Zhu K, Zou S (2024) Large circuit models: opportunities and challenges. Sci China Inf Sci 67(10). https://doi.org/10.1007/s11432-024-4155- -- [10.1007/s11432-024-4155-7](https://doi.org/10.1007/s11432-024-4155-7)
 - Chen Y, Zhao H, Peng L, Yu H (2025) Data‐Driven Dynamic Event‐Triggered Load Frequency Control for Multi‐Area Interconnected Power Systems With Random Delays. Intl J Robust &amp; Nonlinear 35(8):3358–3369. https://doi.org/10.1002/rnc.784 -- [10.1002/rnc.7847](https://doi.org/10.1002/rnc.7847)
@@ -53,7 +56,7 @@ category: articles
 - [Sakata N, Fujimoto K, Maruta I (2024) Passivity-Based Sliding Mode Control for Mechanical Port-Hamiltonian Systems. IEEE Trans Automat Contr 69(8):5605–5612. https://doi.org/10.1109/tac.2024.337189](passivity-based-sliding-mode-control-for-mechanical-port-hamiltonian-systems) -- [10.1109/tac.2024.3371898](https://doi.org/10.1109/tac.2024.3371898)
 - [Gernandt H, Severino B, Zhang X, Mehrmann V, Strunz K (2025) Port-Hamiltonian Modeling and Control of Electric Vehicle Charging Stations. IEEE Trans Transp Electrific 11(1):2897–2907. https://doi.org/10.1109/tte.2024.342954](port-hamiltonian-modeling-and-control-of-electric-vehicle-charging-stations) -- [10.1109/tte.2024.3429545](https://doi.org/10.1109/tte.2024.3429545)
 - Wang G, Liu X, Xiao Y, Yuan Y, Pan L, Guan X, Gao J, Zhang H-T (2024) Extinction Chains Reveal Intermediate Phases Between the Safety and Collapse in Mutualistic Ecosystems. Engineering 43:89–98. https://doi.org/10.1016/j.eng.2024.06.00 -- [10.1016/j.eng.2024.06.004](https://doi.org/10.1016/j.eng.2024.06.004)
-- Silva M. B., Random Telegraph Noise in Analog CMOS Circuits. IEEE Transactions on Circuits and Systems I: Regular Papers (2023)
+- da Silva MB, Wirth GI, Tuinhout HP, Duijnhoven AZ, Scholten AJ (2023) Random Telegraph Noise in Analog CMOS Circuits. IEEE Trans Circuits Syst I 70(6):2229–2242. https://doi.org/10.1109/tcsi.2023.326156 -- [10.1109/tcsi.2023.3261564](https://doi.org/10.1109/tcsi.2023.3261564)
 - Zhang J, Chung CY, Guan L (2017) Noise Effect and Noise-Assisted Ensemble Regression in Power System Online Sensitivity Identification. IEEE Trans Ind Inf 13(5):2302–2310. https://doi.org/10.1109/tii.2017.267135 -- [10.1109/tii.2017.2671351](https://doi.org/10.1109/tii.2017.2671351)
 - Schaft A (1996) L2-Gain and Passivity Techniques in Nonlinear Control. Springer Berlin Heidelber -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
 - Ikeda N., Stochastic Differential Equations and Diffusion Processes (2014)
@@ -69,12 +72,12 @@ category: articles
 - Karatzas I, Shreve SE (1998) Brownian Motion. Graduate Texts in Mathematics 47–12 -- [10.1007/978-1-4612-0949-2_2](https://doi.org/10.1007/978-1-4612-0949-2_2)
 - [Satoh S, Fujimoto K (2013) Passivity Based Control of Stochastic Port-Hamiltonian Systems. IEEE Trans Automat Contr 58(5):1139–1153. https://doi.org/10.1109/tac.2012.222979](passivity-based-control-of-stochastic-port-hamiltonian-systems) -- [10.1109/tac.2012.2229791](https://doi.org/10.1109/tac.2012.2229791)
 - Mao X (1999) Stochastic Versions of the LaSalle Theorem. Journal of Differential Equations 153(1):175–195. https://doi.org/10.1006/jdeq.1998.355 -- [10.1006/jdeq.1998.3552](https://doi.org/10.1006/jdeq.1998.3552)
-- Zhong J., Thermal and Reference Noise Analysis of Time‐Interleaving SAR and Partial‐Interleaving Pipelined‐SAR ADCs. IEEE Transactions on Circuits and Systems I: Regular Papers (2015)
+- Zhong J, Zhu Y, Sin S-W, U S-P, Martins RP (2015) Thermal and Reference Noise Analysis of Time-Interleaving SAR and Partial-Interleaving Pipelined-SAR ADCs. IEEE Trans Circuits Syst I 62(9):2196–2206. https://doi.org/10.1109/tcsi.2015.245233 -- [10.1109/tcsi.2015.2452331](https://doi.org/10.1109/tcsi.2015.2452331)
 - Mao X (2008) Stochastic differential equations and application -- [10.1533/9780857099402](https://doi.org/10.1533/9780857099402)
 - Mao X., Stochastic Differential Equations and Their Applications (1997)
 - Sheikhhosseini A, Moslehian MS, Shebrawi K (2017) Inequalities for generalized Euclidean operator radius via Young’s inequality. Journal of Mathematical Analysis and Applications 445(2):1516–1529. https://doi.org/10.1016/j.jmaa.2016.03.07 -- [10.1016/j.jmaa.2016.03.079](https://doi.org/10.1016/j.jmaa.2016.03.079)
 - Hua Deng, Krstic M, Williams RJ (2001) Stabilization of stochastic nonlinear systems driven by noise of unknown covariance. IEEE Trans Automat Contr 46(8):1237–1253. https://doi.org/10.1109/9.94092 -- [10.1109/9.940927](https://doi.org/10.1109/9.940927)
 - Maohai W., Analysis of Transmission Line Resistance Parameter's Impacts on Reactive Power Estimation Results. Power System Protection and Control (2015)
 - Yu X, Chen W, Wang F, Ke D, Xu L, Rodriguez J (2022) Model‐free predictive control of non‐isolated two‐stage AC–DC–DC converter based on linear extended state observer. Intl J Robust &amp; Nonlinear 35(7):2642–2657. https://doi.org/10.1002/rnc.646 -- [10.1002/rnc.6468](https://doi.org/10.1002/rnc.6468)
-- Xu S., Comprehensive Diagnosis Strategy for Power Switch, Grid‐Side Current Sensor, DC‐Link Voltage Sensor Faults in Single‐Phase Three‐Level Rectifiers. IEEE Transactions on Circuits and Systems I: Regular Papers (2024)
+- Xu S, Xu X, Du H, Wang H, Chai Y, Zheng WX, Chen H (2024) Comprehensive Diagnosis Strategy for Power Switch, Grid-Side Current Sensor, DC-Link Voltage Sensor Faults in Single-Phase Three-Level Rectifiers. IEEE Trans Circuits Syst I 71(7):3343–3356. https://doi.org/10.1109/tcsi.2024.339083 -- [10.1109/tcsi.2024.3390836](https://doi.org/10.1109/tcsi.2024.3390836)
 

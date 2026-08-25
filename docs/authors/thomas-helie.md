@@ -7,6 +7,7 @@ permalink: /authors/thomas-helie
 <p id='info-authors'>Alternative author names: Thomas Hélie, Thomas Helie, T. Hélie.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- M. Linares, G. Doras, T. Hélie, A. Roebel</span><h3><a class='post-link' href="{{ site.baseurl }}/controlled-oscillation-modeling-using-port-hamiltonian-neural-networks">Controlled oscillation modeling using port-Hamiltonian neural networks</a></h3></li>
 <li><span class='post-meta'>2025 -- Colette Voisembert, Thomas Hélie, Victor Wetzel, Fabrice Silva</span><h3><a class='post-link' href="{{ site.baseurl }}/conservative-1d-propagation-in-horns-with-mobile-walls-power-balanced-space-time-discretization-and-simulation-of-the-vocal-tract">Conservative 1D propagation in horns with mobile walls: power-balanced space–time discretization and simulation of the vocal tract</a></h3></li>
 <li><span class='post-meta'>2025 -- Thomas Hélie, Maarten Van Walstijn, Michele Ducceschi</span><h3><a class='post-link' href="{{ site.baseurl }}/editorial-sound-synthesis-through-physical-modeling">Editorial: Sound synthesis through physical modeling</a></h3></li>
 <li><span class='post-meta'>2025 -- Thomas Risse, Thomas Hélie, Fabrice Silva</span><h3><a class='post-link' href="{{ site.baseurl }}/voice-synthesis-using-power-balanced-simulation-of-a-quasi-1d-model-of-the-vocal-apparatus">Voice synthesis using power-balanced simulation of a quasi-1D model of the vocal apparatus</a></h3></li>

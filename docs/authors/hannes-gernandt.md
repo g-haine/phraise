@@ -7,6 +7,7 @@ permalink: /authors/hannes-gernandt
 <p id='info-authors'>Alternative author names: Hannes Gernandt, H. Gernandt.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- K. Cherifi, A. El Messaoudi, H. Gernandt, M. Roschkowski</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-port-hamiltonian-system-identification-from-input-state-output-data-iso-phnn">Nonlinear port-Hamiltonian system identification from input-state-output data (ISO-pHNN)</a></h3></li>
 <li><span class='post-meta'>2026 -- Hannes Gernandt, Friedrich M. Philipp, Till Preuster, Manuel Schaller</span><h3><a class='post-link' href="{{ site.baseurl }}/extension-theory-via-boundary-triplets-for-infinite-dimensional-implicit-port-hamiltonian-systems">Extension Theory Via Boundary Triplets for Infinite-Dimensional Implicit Port-Hamiltonian Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Abdullah Shahin, Hannes Gernandt, Anton Plietzsch, Johannes Schiffer</span><h3><a class='post-link' href="{{ site.baseurl }}/a-port-hamiltonian-modeling-approach-for-integrated-hydrogen-systems">A Port-Hamiltonian Modeling Approach for Integrated Hydrogen Systems</a></h3></li>
 <li><span class='post-meta'>2025 -- Karim Cherifi, Hannes Gernandt, Dorothea Hinsen, Volker Mehrmann, Riccardo Morandin</span><h3><a class='post-link' href="{{ site.baseurl }}/relationship-between-dissipativity-concepts-for-linear-time-varying-port-hamiltonian-systems">Relationship between dissipativity concepts for linear time-varying port-Hamiltonian systems</a></h3></li>

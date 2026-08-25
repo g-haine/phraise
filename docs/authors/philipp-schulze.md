@@ -7,6 +7,7 @@ permalink: /authors/philipp-schulze
 <p id='info-authors'>Alternative author names: Philipp Schulze, P. Schulze.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/structure-preserving-time-discretization-of-port-hamiltonian-systems-via-discrete-gradient-pairs">Structure-Preserving Time Discretization of Port-Hamiltonian Systems via Discrete Gradient Pairs</a></h3></li>
 <li><span class='post-meta'>2026 -- Philipp L. Kinon, Riccardo Morandin, Philipp Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/discrete-gradient-methods-for-port-hamiltonian-differential-algebraic-equations">Discrete gradient methods for port-Hamiltonian differential-algebraic equations</a></h3></li>
 <li><span class='post-meta'>2026 -- Robert Altmann, Idoia Cortes Garcia, Elias Paakkunainen, Philipp Schulze, Sebastian Schöps</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-modeling-for-field-circuit-coupling">Energy-based modeling for field–circuit coupling</a></h3></li>
 <li><span class='post-meta'>2025 -- A. Karsai, T. Breiten, J. Ramme, P. Schulze</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-encoding-representations-of-nonlinear-systems">Passivity Encoding Representations of Nonlinear Systems</a></h3></li>

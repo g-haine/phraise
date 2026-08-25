@@ -16,9 +16,9 @@ category: articles
 ## Citation
 - **Journal:** Mathematical Methods in the Applied Sciences
 - **Year:** 2026
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 49
+- **Issue:** 14
+- **Pages:** 15552--15573
 - **Publisher:** Wiley
 - **DOI:** [10.1002/mma.70835](https://doi.org/10.1002/mma.70835)
  
@@ -27,12 +27,15 @@ category: articles
 {% raw %}
 @article{Zheng_2026,
   title={{Energy Shaping of Distributed Port‐Hamiltonian Systems Based on Finite Volume Approximation}},
+  volume={49},
   ISSN={1099-1476},
   DOI={10.1002/mma.70835},
+  number={14},
   journal={Mathematical Methods in the Applied Sciences},
   publisher={Wiley},
   author={Zheng, Fu and Zhang, Ziwei and Wang, Sizhe},
-  year={2026}
+  year={2026},
+  pages={15552--15573}
 }
 {% endraw %}
 {% endhighlight %}

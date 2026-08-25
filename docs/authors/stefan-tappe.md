@@ -7,6 +7,7 @@ permalink: /authors/stefan-tappe
 <p id='info-authors'>Alternative author names: Stefan Tappe.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Julia Ackermann, Thomas Kruse, Stefan Tappe</span><h3><a class='post-link' href="{{ site.baseurl }}/publisher-correction-stochastic-passivity-in-stochastic-differential-equations-a-port-hamiltonian-perspective">Publisher Correction: Stochastic passivity in stochastic differential equations: a port-Hamiltonian perspective</a></h3></li>
 <li><span class='post-meta'>2026 -- Julia Ackermann, Thomas Kruse, Stefan Tappe</span><h3><a class='post-link' href="{{ site.baseurl }}/stochastic-passivity-in-stochastic-differential-equations-a-port-hamiltonian-perspective">Stochastic passivity in stochastic differential equations: a port-Hamiltonian perspective</a></h3></li>
 
 </ul>
