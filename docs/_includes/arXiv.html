@@ -21,10 +21,17 @@
         loader.style.display = "block"; // avant le fetch
         const query = encodeURIComponent('all:port+AND+Hamiltonian');
         const arxivUrl = `https://export.arxiv.org/api/query?search_query=${query}&start=0&max_results=25&sortBy=lastUpdatedDate&sortOrder=descending`;
-        const proxyUrl = `https://corsproxy.io/?${arxivUrl}`;
+        const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(arxivUrl)}`;
 
         try {
             const response = await fetch(proxyUrl);
+
+            if (!response.ok) {
+                throw new Error(
+                    `CorsProxy/arXiv HTTP error: ${response.status} ${response.statusText}`
+                );
+            }
+
             const xmlText = await response.text();
             const parser = new DOMParser();
             const xmlDoc = parser.parseFromString(xmlText, "application/xml");
