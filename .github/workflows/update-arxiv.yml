@@ -38,7 +38,7 @@ jobs:
 
       - name: Commit cache if changed
         run: |
-          if git diff --quiet -- docs/data/arxiv.json; then
+          if [ -z "$(git status --porcelain -- docs/data/arxiv.json)" ]; then
             echo "No arXiv cache changes."
             exit 0
           fi
