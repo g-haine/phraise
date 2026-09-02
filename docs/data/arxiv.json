@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-01T10:34:15Z",
+  "generated_at": "2026-09-02T04:35:37Z",
   "papers": [
+    {
+      "title": "Constructive Port-Hamiltonian Energy Shaping Design of Dispatchable Virtual Oscillators in Grid-Forming Converters",
+      "summary": "Port-Hamiltonian (PH) theory offers a passivity-based framework for grid-forming control, yet conventional dispatchable virtual oscillator control (dVOC) does not naturally admit a dissipative PH realization, since its amplitude egulation, synchronization, and power dispatch are inherently coupled without a unified energy interpretation. This paper formulates the outer-loop dynamics as a dissipative PH system, thereby unifying amplitude regulation, synchronization, and power dispatch within one energy structure. The formulation rests on the key property that logistic-type radial regulation, characterized by an inherent saturation-like nonlinearity, permits an exact gradient decomposition compatible with the quadratic energy storage. On this basis, a unified shaped Hamiltonian is constructed, which encapsulates both amplitude restoration and power dispatch. Radial gain matching derived from this Hamiltonian yields explicit closed-form arameter inequalities that guarantee almost-global asymptotic stability and local exponential convergence. Moreover, tuning the power-error weighting coefficient actively shapes the energy landscape, thereby eliminating the undesirable low-voltage power-flow solution from the stationary set and ensuring convergence to the desired high-voltage equilibrium point. The Hessian singularity condition further provides the critical weight threshold that guarantees uniqueness of the high-voltage equilibrium. Numerical simulations validate the proposed method.",
+      "url": "http://arxiv.org/abs/2609.01349v1",
+      "authors": [
+        "Lu Gao",
+        "Lihui Yang",
+        "Feng Ji",
+        "Dong Liu",
+        "Longze Kou"
+      ],
+      "updated": "2026-09-01"
+    },
     {
       "title": "Interpolation Conditions for Instant Data Consistency with Port-Hamiltonian Structure",
       "summary": "We develop a data-driven framework for nonlinear port-Hamiltonian (pH) systems based on interpolation conditions to characterize consistency between observed data and structured dynamical models. Specifically, we derive necessary and sufficient conditions for the existence of a pH system with a smooth (convex) Hamiltonian instantly consistent with a given dataset, without requiring explicit parametrization. We further provide a semidefinite programming formulation to verify consistency with non-degenerate interconnection and dissipation structures. Our results provide a principled approach to assess instant data consistency with physical structure and pave the way for control design directly from data.",
@@ -254,30 +267,6 @@
         "Thomas Beckers"
       ],
       "updated": "2026-06-18"
-    },
-    {
-      "title": "Systematic Construction of Time-Dependent Hamiltonians for Microwave-Driven Josephson Circuits",
-      "summary": "Time-dependent electromagnetic drives are fundamental for controlling complex quantum systems, including superconducting Josephson circuits. In these devices, accurate time-dependent Hamiltonian models are imperative for predicting their dynamics and designing high-fidelity quantum operations. Existing numerical methods, such as black-box quantization (BBQ) and energy-participation ratio (EPR), excel at modeling the static Hamiltonians of Josephson circuits. However, these techniques do not fully capture the behavior of driven circuits stimulated by external microwave drives, nor do they include a generalized approach to account for the inevitable noise and dissipation that enter through microwave ports. Here, we introduce numerical techniques that leverage classical microwave simulations, efficiently executable in finite-element solvers, to obtain the time-dependent Hamiltonian of microwave-driven superconducting circuits with arbitrary geometries under charge, flux, or mixed electromagnetic modulation. Importantly, our techniques do not rely on a lumped-element description of the superconducting circuit, in contrast to previous approaches to tackling this problem. We demonstrate the versatility of our approach by characterizing the driven properties of realistic circuit devices in complex electromagnetic environments, including coherent dynamics due to charge and flux modulation, as well as drive-induced relaxation and dephasing. Our techniques offer a powerful toolbox for optimizing circuit designs and advancing practical applications in superconducting quantum computing.",
-      "url": "http://arxiv.org/abs/2512.20743v4",
-      "authors": [
-        "Yao Lu",
-        "Tianpu Zhao",
-        "André Vallières",
-        "Kevin C. Smith",
-        "Daniel Weiss",
-        "Xinyuan You",
-        "Yaxing Zhang",
-        "Suhas Ganjam",
-        "Aniket Maiti",
-        "John W. O. Garmon",
-        "Shantanu Mundhada",
-        "Ziwen Huang",
-        "Ian Mondragon-Shem",
-        "Steven M. Girvin",
-        "Jens Koch",
-        "Robert J. Schoelkopf"
-      ],
-      "updated": "2026-06-15"
     }
   ]
 }
