@@ -265,6 +265,10 @@ find "$BIB_DIR" -name '*.bib' | while read -r bibfile; do
   fi
 done
 
+# Enregistrer la date de cette mise à jour complète de la bibliothèque
+mkdir -p "_data"
+printf 'last_update: "%s"\n' "$(date +%F)" > "_data/library.yml"
+
 # Tout s'est bien passé !
 echo "Posts generated!"
 exit 0
