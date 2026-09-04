@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-02T04:35:37Z",
+  "generated_at": "2026-09-04T04:34:59Z",
   "papers": [
+    {
+      "title": "Formation Matrix and Energy-based Control of Multi-Agent Systems",
+      "summary": "This paper presents an energy-based controller for a multiagent robotic system designed to achieve and maintain a specific formation while moving on a plane and avoiding collisions between agents. The controller emulates a network of elementary spring-damper modules connecting pairs of agents. This network, with its de-energized states representing the desired formation, determines the system's dynamics, which is fully encapsulated by a bond graph model. The modeling is further enhanced through the introduction of a formation matrix, using a graph-theoretic approach, that describes both the distances and relative velocities among the agents of the arrangement. This matrix mathematically represents the interconnection and energy-exchange structure of the bond graph, allowing us to put it in correspondence with the control-by-interconnection CbI-scheme of the IDA-PBC theory, facilitating the solution of the formation control problem within the port-Hamiltonian system framework. Furthermore, the paper presents leader-following and position-based formation control systems based on the CbI scheme, including a stability analysis of the corresponding closed-loop systems. The theoretical findings are validated through numerical simulations across various scenarios.",
+      "url": "http://arxiv.org/abs/2609.04158v1",
+      "authors": [
+        "Martín Crespo",
+        "Sergio Junco",
+        "Matías Nacusse"
+      ],
+      "updated": "2026-09-03"
+    },
     {
       "title": "Constructive Port-Hamiltonian Energy Shaping Design of Dispatchable Virtual Oscillators in Grid-Forming Converters",
       "summary": "Port-Hamiltonian (PH) theory offers a passivity-based framework for grid-forming control, yet conventional dispatchable virtual oscillator control (dVOC) does not naturally admit a dissipative PH realization, since its amplitude egulation, synchronization, and power dispatch are inherently coupled without a unified energy interpretation. This paper formulates the outer-loop dynamics as a dissipative PH system, thereby unifying amplitude regulation, synchronization, and power dispatch within one energy structure. The formulation rests on the key property that logistic-type radial regulation, characterized by an inherent saturation-like nonlinearity, permits an exact gradient decomposition compatible with the quadratic energy storage. On this basis, a unified shaped Hamiltonian is constructed, which encapsulates both amplitude restoration and power dispatch. Radial gain matching derived from this Hamiltonian yields explicit closed-form arameter inequalities that guarantee almost-global asymptotic stability and local exponential convergence. Moreover, tuning the power-error weighting coefficient actively shapes the energy landscape, thereby eliminating the undesirable low-voltage power-flow solution from the stationary set and ensuring convergence to the desired high-voltage equilibrium point. The Hessian singularity condition further provides the critical weight threshold that guarantees uniqueness of the high-voltage equilibrium. Numerical simulations validate the proposed method.",
@@ -255,18 +266,6 @@
         "Antonio Franchi"
       ],
       "updated": "2026-06-19"
-    },
-    {
-      "title": "Learning-Based Modeling of Soft Robots via Cosserat Rod Theory",
-      "summary": "Modeling soft robot dynamics is challenging due to their continuum structure and typically nonlinear dynamics. Creating models based on first-order principles is typically time-demanding, and their expressiveness is limited, whereas data-driven models lack interpretability and physical consistency. This work aims to overcome these challenges by introducing a port-Hamiltonian Gaussian Process Regression framework for learning and simulating the dynamics of planar, rod-like soft robots. In detail, the proposed model integrates Cosserat rod theory and Hamiltonian physics with data-driven inference to preserve the system's energy structure while accurately learning the rod dynamics. Numerical simulations show that we can achieve accurate and energy-consistent representations of a rod-like soft robot, showing the potential for a robust and interpretable pathway for modeling complex continuum mechanics.",
-      "url": "http://arxiv.org/abs/2606.20958v1",
-      "authors": [
-        "Mohammad Ali",
-        "Nithin Senthur Kumar",
-        "Eric J. Barth",
-        "Thomas Beckers"
-      ],
-      "updated": "2026-06-18"
     }
   ]
 }
