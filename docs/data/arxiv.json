@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-04T04:34:59Z",
+  "generated_at": "2026-09-07T04:42:55Z",
   "papers": [
+    {
+      "title": "A Generalized Scalar Auxiliary Variable Method for Structure-Preserving and Efficient Integration of Nonlinear port-Hamiltonian DAEs",
+      "summary": "We develop an energy-optimal generalized scalar auxiliary variable (EOP-GSAV) framework for nonlinear index-one port-Hamiltonian differential-algebraic equations (pH-DAEs). Exploiting the port-Hamiltonian structure, we separate the nonlinear effort, interconnection, and dissipation terms from a constant implicit core. The resulting BDF-1 and BDF-2 schemes require one linear solve per time step with a reusable factorization, while retaining discrete passivity and accurate tracking of the Hamiltonian. The schemes are compared with the implicit midpoint method equipped with full, modified, and frozen-Jacobian Newton iterations. Numerical experiments ranging from a strongly state-dependent nonlinear stress test to large-scale benchmarks demonstrate robust and competitive performance, with substantial efficiency gains in matched-accuracy regimes. A comparison with SUNDIALS IDA shows comparable work-precision behavior at equal order despite a non-specialized Python/SciPy implementation, while unrestricted variable-order adaptive IDA is faster in the high-accuracy regime.",
+      "url": "http://arxiv.org/abs/2609.05246v1",
+      "authors": [
+        "Aashutosh Sharma",
+        "Andreas Bartel",
+        "Manuel Schaller"
+      ],
+      "updated": "2026-09-04"
+    },
+    {
+      "title": "Energy-Consistent Splitting and Decomposition Approaches for Coupled port-Hamiltonian ODEs",
+      "summary": "Operator splitting provides an attractive approach for the numerical integration of (coupled) port-Hamiltonian systems, as it allows the underlying system structure to be exploited at the level of the individual subproblems. However, the choice of the decomposition is not unique and may strongly affect both the computational efficiency and the preservation of the energy behavior of the original system. In this work, we investigate this interplay systematically and introduce energy consistency as a criterion for assessing splitting methods for port-Hamiltonian ordinary differential equations. We derive sufficient conditions under which a splitting based on a given decomposition inherits the energy behavior of the continuous system and use these conditions to analyze several decomposition strategies for coupled port-Hamiltonian systems. In particular, we compare decompositions that preserve the structure with approaches that exploit lower-dimensional subsystem dynamics or separated time scales. The analysis is complemented by numerical experiments using Strang splitting and its multiple-time-stepping extension. A scalable electro-thermal benchmark with fast electrical and slow thermal dynamics is employed to assess accuracy, energy behavior, and computational efficiency. The results demonstrate that preserving the port-Hamiltonian structure of the subflows is essential for energy-consistent splitting, whereas decompositions that exploit subsystem structure or time-scale separation can provide substantial computational advantages. In particular, the time-scale decomposition yields significant efficiency gains for systems with pronounced multirate characteristics, while structure-destroying decompositions may lead to undesirable energy behavior.",
+      "url": "http://arxiv.org/abs/2609.04884v1",
+      "authors": [
+        "Marius Mönch",
+        "Nicole Marheineke",
+        "Andreas Bartel",
+        "Kevin Schäfers",
+        "Michael Günther"
+      ],
+      "updated": "2026-09-04"
+    },
     {
       "title": "Formation Matrix and Energy-based Control of Multi-Agent Systems",
       "summary": "This paper presents an energy-based controller for a multiagent robotic system designed to achieve and maintain a specific formation while moving on a plane and avoiding collisions between agents. The controller emulates a network of elementary spring-damper modules connecting pairs of agents. This network, with its de-energized states representing the desired formation, determines the system's dynamics, which is fully encapsulated by a bond graph model. The modeling is further enhanced through the introduction of a formation matrix, using a graph-theoretic approach, that describes both the distances and relative velocities among the agents of the arrangement. This matrix mathematically represents the interconnection and energy-exchange structure of the bond graph, allowing us to put it in correspondence with the control-by-interconnection CbI-scheme of the IDA-PBC theory, facilitating the solution of the formation control problem within the port-Hamiltonian system framework. Furthermore, the paper presents leader-following and position-based formation control systems based on the CbI scheme, including a stability analysis of the corresponding closed-loop systems. The theoretical findings are validated through numerical simulations across various scenarios.",
@@ -245,27 +269,6 @@
         "Wangtao Tan"
       ],
       "updated": "2026-06-30"
-    },
-    {
-      "title": "Port-Hamiltonian formulation of energy-based modeling frameworks",
-      "summary": "The energy-based modelling framework proposed by Altmann and Schulze is demonstrated to have two distinct representations as port-Hamiltonian systems. The ambiguity is expressed in the role of the algebraic variable, and is distinct from the usual ambiguity in the geometric representation of coordinate representations of classical port-Hamiltonian systems. A straightforward extension to systems with feedthrough is given.",
-      "url": "http://arxiv.org/abs/2606.21544v1",
-      "authors": [
-        "Jonas Kirchhoff"
-      ],
-      "updated": "2026-06-19"
-    },
-    {
-      "title": "A Geometric Task-Space Port-Hamiltonian Formulation for Redundant Manipulators",
-      "summary": "We present a novel geometric port-Hamiltonian formulation of redundant manipulators performing a differential kinematic task $η=J(q)\\dot{q}$, where $q$ is a point on the configuration manifold, $η$ is a velocity-like task space variable, and $J(q)$ is a linear map representing the task, for example the classical analytic or geometric manipulator Jacobian matrix. The proposed model emerges from a change of coordinates from canonical Hamiltonian dynamics, and splits the standard Hamiltonian momentum variable into a task-space momentum variable and a null-space momentum variable. Properties of this model and relation to Lagrangian formulations present in the literature are highlighted. Finally, we apply the proposed model in an \\textit{Interconnection and Damping Assignment Passivity-Based Control} (IDA-PBC) design to stabilize and shape the impedance of a 7-DOF Emika Panda robot in simulation.",
-      "url": "http://arxiv.org/abs/2512.14349v2",
-      "authors": [
-        "Federico Califano",
-        "Camilla Rota",
-        "Riccardo Zanella",
-        "Antonio Franchi"
-      ],
-      "updated": "2026-06-19"
     }
   ]
 }
