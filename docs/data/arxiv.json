@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-07T04:42:55Z",
+  "generated_at": "2026-09-09T04:43:39Z",
   "papers": [
+    {
+      "title": "Structure-Preserving Data-Driven Identification of Port-Hamiltonian Differential-Algebraic Systems",
+      "summary": "We present a data-driven approach to identifying linear index-1 differential-algebraic pH systems (pH-DAEs) based on input-output measurements. In comparison to the identification of port-Hamiltonian (pH) systems, the algebraic constraint and the index condition pose additional challenges. First, we establish a structure-preserving formulation of the considered pH-DAE class and derive an implicit midpoint discretization that preserves the algebraic constraints and discrete dissipation inequality. We formulate the identification problem as a regularized least-squares minimization problem subject to the pH-DAE dynamics. Exploiting the index-1 structure, we reduce the constrained problem to an unconstrained optimization problem over the system parameters while preserving the port-Hamiltonian structure. Next, we derive an adjoint-based formulation to efficiently evaluate the gradient of the resulting reduced cost functional. This enables us to use gradient-based optimization methods for parameter estimation. Under suitable assumptions on the admissible parameter set, the existence of a minimizer is established. Numerical experiments demonstrate that the proposed approach can identify surrogate pH-DAE systems that accurately reproduce the input-output behavior of reference systems. Further investigations show the approach's potential for identifying reduced-order surrogate models. Cross-validation with independent input signals confirms the predictive capability of the identified models.",
+      "url": "http://arxiv.org/abs/2609.07187v1",
+      "authors": [
+        "Tom Zwerschke",
+        "Matthias Ehrhardt",
+        "Michael Günther",
+        "Claudia Totzeck"
+      ],
+      "updated": "2026-09-07"
+    },
+    {
+      "title": "A class of port-Hamiltonian systems with general time delays",
+      "summary": "We define a class of infinite dimensional linear port-Hamiltonian delay systems, give a characterization for such systems, and provide an easily verifiable sufficient condition to belong to this class, thereby extending the study by Breiten, Hinsen and Unger in [IEEE Trans. Autom. Control vol. 69, no. 12 (2024), pp. 8924-8930, doi: 10.1109/TAC.2024.3464332]. The results rely on the operator semigroup theoretic treatment of linear delay PDEs.",
+      "url": "http://arxiv.org/abs/2609.05726v1",
+      "authors": [
+        "Rogelio Arancibia Bustos",
+        "Bálint Farkas",
+        "Birgit Jacob",
+        "Merlin Schmitz"
+      ],
+      "updated": "2026-09-04"
+    },
     {
       "title": "A Generalized Scalar Auxiliary Variable Method for Structure-Preserving and Efficient Integration of Nonlinear port-Hamiltonian DAEs",
       "summary": "We develop an energy-optimal generalized scalar auxiliary variable (EOP-GSAV) framework for nonlinear index-one port-Hamiltonian differential-algebraic equations (pH-DAEs). Exploiting the port-Hamiltonian structure, we separate the nonlinear effort, interconnection, and dissipation terms from a constant implicit core. The resulting BDF-1 and BDF-2 schemes require one linear solve per time step with a reusable factorization, while retaining discrete passivity and accurate tracking of the Hamiltonian. The schemes are compared with the implicit midpoint method equipped with full, modified, and frozen-Jacobian Newton iterations. Numerical experiments ranging from a strongly state-dependent nonlinear stress test to large-scale benchmarks demonstrate robust and competitive performance, with substantial efficiency gains in matched-accuracy regimes. A comparison with SUNDIALS IDA shows comparable work-precision behavior at equal order despite a non-specialized Python/SciPy implementation, while unrestricted variable-order adaptive IDA is faster in the high-accuracy regime.",
@@ -248,27 +272,6 @@
         "Benjamin Unger"
       ],
       "updated": "2026-07-01"
-    },
-    {
-      "title": "L2-L2-gain bounds for quadratic output systems",
-      "summary": "We derive an explicit bound for the L2-L2-gain of linear time-invariant systems whose output is a quadratic function of the state and the input. Such systems appear naturally in many areas, for example for port-Hamiltonian systems, optimal-control, and stochastic problems. In case the output is purely quadratic in the state, the bound equals the L2-norm of the bivariate transfer function evaluated along the anti-diagonal $\\{(s,\\,-s)\\mid s\\in i\\mathbb R\\}$ of the $i \\mathbb R\\times i \\mathbb R$ frequency domain. Further, we show how the bound can be computed by solving linear matrix equations. This result provides a practical tool for assessing and reducing quadratic-output models.",
-      "url": "http://arxiv.org/abs/2607.00552v1",
-      "authors": [
-        "Birgit Hillebrecht"
-      ],
-      "updated": "2026-07-01"
-    },
-    {
-      "title": "Early-Terminable Energy-Safe Iterative Coupling for Parallel Simulation of Partitioned Port-Hamiltonian Systems",
-      "summary": "Parallel simulation of robotic systems requires partitioning the dynamics into coupled subsystems. Finite-iteration coupling across the partition boundary can inject spurious energy, even when each subsystem is passive. We propose an early-terminable, energy-safe coupling interface for port-Hamiltonian subsystems based on Douglas--Rachford splitting in wave (scattering) coordinates. The wave-domain formulation reduces passivity to norm inequalities and coupling to orthogonality. Within this setting, the deep correspondence between monotone operator theory and discrete passivity can be exploited to construct a Douglas--Rachford inner iteration whose Fejér monotonicity provides algorithmic dissipation. Under passivity of the subsystem integrators and an impedance-tuning condition, the proposed method guarantees discrete passivity of the augmented storage for any finite inner-iteration budget and converges to the monolithic discretization as the budget increases. Experiments on a linear--Duffing coupled-oscillator benchmark support the finite-iteration energy inequality at numerical roundoff (1e-14 in double precision), with state-error metrics decreasing over the tested inner-iteration budgets.",
-      "url": "http://arxiv.org/abs/2603.16424v2",
-      "authors": [
-        "Qi Wei",
-        "Jianfeng Tao",
-        "Hongyu Nie",
-        "Wangtao Tan"
-      ],
-      "updated": "2026-06-30"
     }
   ]
 }
