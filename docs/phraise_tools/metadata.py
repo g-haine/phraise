@@ -34,6 +34,7 @@ class Client:
         self.config = {**dotenv_values(root / '.env'), **os.environ}
         self.session = session or requests.Session()
         self._semantic_scholar_limited = False
+        self._mendeley_unauthorized = False
         if session is None:
             retry = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504], allowed_methods=['GET'], raise_on_status=False)
             self.session.mount('https://', HTTPAdapter(max_retries=retry))
@@ -164,10 +165,20 @@ class Client:
         if isinstance(data, dict) and data.get('abstract'):
             candidates.append(data['abstract'])
         # Mendeley is optional; no token means no request to its authenticated API.
-        if self.config.get('MENDELEY_API_KEY'):
-            data = self.json('https://api.mendeley.com/catalog', params={'doi': doi, 'view': 'all'}, headers={
-                'Accept': 'application/vnd.mendeley-document.1+json',
-                'Authorization': f'Bearer {self.config["MENDELEY_API_KEY"]}'})
+        if self.config.get('MENDELEY_API_KEY') and not self._mendeley_unauthorized:
+            try:
+                data = self.json('https://api.mendeley.com/catalog', params={'doi': doi, 'view': 'all'}, headers={
+                    'Accept': 'application/vnd.mendeley-document.1+json',
+                    'Authorization': f'Bearer {self.config["MENDELEY_API_KEY"]}'})
+            except MetadataError as error:
+                if error.status_code != 401:
+                    raise
+                self._mendeley_unauthorized = True
+                data = None
+                print('phraise: warning: Mendeley HTTP 401; skipping this optional abstract '
+                      'provider for the rest of this run. Check MENDELEY_API_KEY before a '
+                      'future run. Existing abstracts are retained; some may remain unavailable.',
+                      file=sys.stderr)
             if isinstance(data, list) and data and data[0].get('link'):
                 page = self.request(data[0]['link'], headers={'User-Agent': 'PHRAISE abstract-fallback', 'Accept': 'text/html'})
                 if page is not None:
