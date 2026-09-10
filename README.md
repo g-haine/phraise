@@ -12,7 +12,7 @@ We welcome contributions in the form of **DOI submissions**:
 
 ## Updating the website
 
-The maintenance scripts rely on API keys for Scopus, Springer, IEEE and Mendeley. Once you have the keys available, save them in `.env` in the `docs` folder as follow:  
+The metadata adapters use API keys for Scopus, Springer, IEEE and optionally Mendeley. Once you have the keys available, save them in `.env` in the `docs` folder as follow:
 ```
 MAIL=your-email@example.fr
 SCOPUS_API_KEY=
@@ -20,15 +20,35 @@ SPRINGER_API_KEY=
 IEEE_API_KEY=
 MENDELEY_API_KEY=
 ```
+Install the Python maintenance environment from the repository root first:
+
+```bash
+bash install.sh
+conda activate phraise
+```
+
+The installer creates or updates the `phraise` environment from `phraise.yml`.
+It does not activate or deactivate environments, change shell configuration, or
+install Conda itself. On systems without Bash, use `conda env create -f
+phraise.yml` once, then `conda env update -n phraise -f phraise.yml` for updates.
+Python 3.12, Requests, Beautiful Soup, Unidecode and python-dotenv are installed
+from conda-forge. Ruby, Bundler and Jekyll remain separate website dependencies.
+
+`.env` uses plain `KEY=value` assignments (optional quotes), not executable shell
+code. Existing environment variables take precedence. Publisher keys are needed
+only when the corresponding provider is queried. Mendeley is an optional abstract
+fallback; `OPENALEX_API_KEY` may also be supplied for OpenAlex. Local author/page
+rendering and concatenation need no API keys.
+
 Then, run the following workflow from the `docs` directory:
 
-1. `./looking4Update.sh` – update metadata (volume, issue, etc.) and fetch the latest CrossRef entries 
+1. `python looking4Update.py` – discover publications and queue incomplete entries for recollection
 2. Check entries in checkDOI.txt and decide where they belong: bad/newDOI.txt
-3. `./getData.sh newDOI.txt`
-4. `./setAuthorMapping.sh` – correct `biblio.json` entries as needed.
-5. Add new name variations or entries to `assets/data/author_mappings.json` – retry `./setAuthorMapping.sh` to check
+3. `python getData.py newDOI.txt`
+4. `python setAuthorMapping.py` – correct `biblio.json` entries as needed.
+5. Add new name variations or entries to `assets/data/author_mappings.json` – retry `python setAuthorMapping.py` to check
 6. `python3 concatenate.py`
-7. `./setPosts.sh && ./setPages.sh`
+7. `python setPosts.py && python setPages.py`
 8. `bundle exec jekyll serve --watch` – verify the build locally and make final corrections.
 9. Commit and push the changes.
 10. Confirm that the site deploys correctly on GitHub Pages.
@@ -77,9 +97,9 @@ An entirely filtered DOI list now succeeds instead of failing at `grep`.
 All inputs are checked and all outputs staged before replacement. Each file is
 replaced atomically, with `newDOI.txt` cleared last. This is not a multi-file
 transaction: an interruption during replacement may leave a partial update.
-Keep the backup and avoid concurrent runs. The original `concatenate.sh` is
-retained temporarily as a deprecated reference until a full live workflow has
-been validated.
+Keep the backup and avoid concurrent runs. The shell scripts and `.utils` are retained temporarily as deprecated
+references until a full live workflow has been validated. The Python commands
+do not execute them.
 
 Run the tests from the repository root:
 
@@ -89,3 +109,64 @@ python3 -m unittest discover -s docs/tests -v
 
 The shell parity tests additionally require Bash and jq; they use isolated
 fixtures and never modify the production bibliography.
+
+### Python maintenance architecture and validation
+
+| Command | Responsibility |
+|---|---|
+| `looking4Update.py` | OpenAlex discovery, CrossRef verification, queueing and archival of incomplete entries |
+| `getData.py newDOI.txt` | CrossRef metadata, publisher enrichment, references and BibTeX |
+| `setAuthorMapping.py` | Proposed author mappings for manual review; writes nothing |
+| `concatenate.py` | Backup/new bibliography merge and DOI filtering |
+| `setPosts.py` | Publication posts, missing BibTeX, orphan archival, last-update date |
+| `setPages.py` | Author/year pages and indexes |
+
+All commands default to the directory containing the scripts, regardless of the
+working directory. For example, `python docs/getData.py newDOI.txt` from the
+repository root and `python getData.py newDOI.txt` from `docs/` are equivalent.
+Use `--root /path/to/copy` to work on an isolated data tree. DOI input paths are
+relative to that root unless absolute. `looking4Update.py --max-pages 20` keeps
+the historical discovery limit.
+
+`docs/phraise_tools/` separates common file/text helpers, HTTP adapters, metadata
+collection, update discovery and Markdown rendering. JSON is parsed once per
+input instead of repeatedly invoking jq. Generation is deterministic and runs
+sequentially, so failures propagate reliably. No Bash, curl, jq, GNU sed or iconv
+is needed by the Python workflow. Existing permalinks and mapping keys are kept.
+New slugs use Unidecode instead of the platform-dependent iconv transliteration;
+non-Latin names may therefore produce different new suggestions.
+
+The tests cover a complete simulated workflow, HTTP failures and provider field
+extraction, pagination, BibTeX, references, publication types, validation before
+writes, and comparisons with the legacy shell on controlled inputs. External
+responses are mocked; no credentials or production-data changes are involved.
+The Bash/jq parity tests skip if those optional tools are unavailable. The
+installer is tested with a Conda stub for create/update/failure and paths with
+spaces; resolving and installing the actual Conda environment remains a local
+check. A real-data workflow run is deliberately deferred until after this port.
+
+Intentional corrections beyond successful-input parity:
+
+- Empty update sets succeed, and collection with no new DOI leaves the database
+  untouched. HTTP/network errors abort instead of marking a DOI as bad; a 404
+  remains an absent result. Requests have timeouts and bounded retries.
+- Inputs and generated content are prepared before file replacement. Invalid
+  authors, ambiguous mappings, dates and output paths produce explicit errors.
+  Old pages are removed only after successful generation. Writes remain atomic
+  per file, not a transaction across the whole workflow; do not run concurrent
+  maintenance commands.
+- Unknown-author suggestions are a valid JSON object, with colliding suggestions
+  grouped under their slug. Review and merge the suggestions manually rather
+  than replacing the mapping file with the command output.
+- Empty publisher fields do not erase usable CrossRef metadata. JSON/YAML/HTML
+  quoting is handled explicitly so quotation marks and special characters do
+  not corrupt generated files.
+- Records with missing BibTeX are archived and removed before recollection, just
+  like records with changed BibTeX. This prevents stale backup metadata winning
+  the subsequent merge. DOI removals use exact matches rather than sed regexes.
+- Existing `trash/trash.json` content and conflicting archived BibTeX files are
+  preserved. Backup timestamps use file names valid on Windows as well as Unix.
+
+After the real workflow is verified, the deprecated shell scripts and `.utils`
+can be removed. The Python tests will then need retained golden fixtures in
+place of direct shell comparisons.
