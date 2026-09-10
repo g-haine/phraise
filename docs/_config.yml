@@ -82,6 +82,8 @@ feed:
 # their entries' file path in the `include:` list.
 
 exclude:
+  - concatenate.py
+  - tests/
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/

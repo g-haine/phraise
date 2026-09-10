@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
+printf "Warning: concatenate.sh is deprecated; use python3 concatenate.py\n" >&2
 
 # Les fonctions communes
 if [ -f .utils ]; then
