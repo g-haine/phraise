@@ -150,6 +150,11 @@ Intentional corrections beyond successful-input parity:
 - Empty update sets succeed, and collection with no new DOI leaves the database
   untouched. HTTP/network errors abort instead of marking a DOI as bad; a 404
   remains an absent result. Requests have timeouts and bounded retries.
+  Diagnostics distinguish HTTP status, timeout, TLS, connection and redirect
+  errors without displaying API keys. DOI lookups identify the operation and
+  DOI, plus the responding host after redirection. During publisher discovery
+  only, a redirected landing page returning 401/403 can still identify the
+  publisher API; metadata and BibTeX errors remain fatal.
 - Inputs and generated content are prepared before file replacement. Invalid
   authors, ambiguous mappings, dates and output paths produce explicit errors.
   Old pages are removed only after successful generation. Writes remain atomic

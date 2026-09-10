@@ -29,19 +29,55 @@ class Client:
         self.config = {**dotenv_values(root / '.env'), **os.environ}
         self.session = session or requests.Session()
         if session is None:
-            retry = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504], allowed_methods=['GET'])
+            retry = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504], allowed_methods=['GET'], raise_on_status=False)
             self.session.mount('https://', HTTPAdapter(max_retries=retry))
 
-    def request(self, url, *, params=None, headers=None):
+    def request(self, url, *, params=None, headers=None, context=None,
+                allow_landing_denial=False):
+        """Report sanitized errors; optionally use a denied publisher landing URL.
+
+        Publisher discovery needs the final URL, not the landing page body.
+        This exception never applies to metadata, citations or BibTeX requests.
+        """
+        response = None
+        initial_host = urlsplit(url).hostname or 'unknown host'
         try:
             response = self.session.get(url, params=params, headers=headers, timeout=(5, 30), allow_redirects=True)
             if response.status_code == 404:
                 return None
+            final_url = response.url if isinstance(response.url, str) else url
+            final_host = urlsplit(final_url).hostname or initial_host
+            if (allow_landing_denial and response.status_code in (401, 403)
+                    and final_host != initial_host):
+                return response
             response.raise_for_status()
             return response
         except requests.RequestException as error:
-            # Do not expose API keys embedded in request URLs or exception text.
-            raise MetadataError(f'{urlsplit(url).netloc}: HTTP request failed; check connectivity and credentials') from error
+            # Never expose URL queries, credentials, headers or raw exception text.
+            failure = error.response if error.response is not None else response
+            final_url = getattr(failure, 'url', None)
+            final_host = (urlsplit(final_url).hostname if isinstance(final_url, str) else None) or initial_host
+            location = initial_host if final_host == initial_host else f'{initial_host} -> {final_host}'
+            status = getattr(failure, 'status_code', None)
+            if isinstance(status, int):
+                detail = f'HTTP {status}'
+                hints = {401: 'authentication required by the responding service',
+                         403: 'access denied by the responding service',
+                         429: 'rate limit reached after retries'}
+                if status in hints:
+                    detail += ': ' + hints[status]
+            elif isinstance(error, requests.exceptions.SSLError):
+                detail = 'TLS certificate or handshake failure'
+            elif isinstance(error, requests.Timeout):
+                detail = 'request timed out'
+            elif isinstance(error, requests.TooManyRedirects):
+                detail = 'too many redirects'
+            elif isinstance(error, requests.ConnectionError):
+                detail = 'connection failed (DNS, proxy or network)'
+            else:
+                detail = 'HTTP transport failure'
+            prefix = f'{context}: ' if context else ''
+            raise MetadataError(f'{prefix}{location}: {detail}') from error
 
     def json(self, url, **kwargs):
         response = self.request(url, **kwargs)
@@ -68,7 +104,8 @@ class Client:
         return response['message']
 
     def publisher(self, doi):
-        response = self.request(f'https://doi.org/{quote(doi, safe="")}')
+        response = self.request(f'https://doi.org/{quote(doi, safe="")}',
+                                context=f'Publisher lookup for DOI {doi}', allow_landing_denial=True)
         if response is None:
             return '', '', ''
         url = response.url
@@ -90,12 +127,14 @@ class Client:
         return result
 
     def bibtex(self, doi):
-        response = self.request(f'https://doi.org/{quote(doi, safe="")}', headers={'Accept': 'application/x-bibtex;q=1.0'})
+        response = self.request(f'https://doi.org/{quote(doi, safe="")}', headers={'Accept': 'application/x-bibtex;q=1.0'},
+                                context=f'BibTeX lookup for DOI {doi}')
         return format_bibtex(response.text if response is not None else '')
 
     def citation(self, doi):
         response = self.request('https://citation.doi.org/format', params={
-            'doi': doi, 'style': 'springer-basic-author-date-no-et-al-with-issue', 'lang': 'en-US'})
+            'doi': doi, 'style': 'springer-basic-author-date-no-et-al-with-issue', 'lang': 'en-US'},
+                                context=f'Citation lookup for DOI {doi}')
         if response is None:
             return ''
         last = response.text.rstrip('\n').split('\n')[-1]
