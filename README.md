@@ -27,7 +27,7 @@ Then, run the following workflow from the `docs` directory:
 3. `./getData.sh newDOI.txt`
 4. `./setAuthorMapping.sh` – correct `biblio.json` entries as needed.
 5. Add new name variations or entries to `assets/data/author_mappings.json` – retry `./setAuthorMapping.sh` to check
-6. `./concatenate.sh`
+6. `python3 concatenate.py`
 7. `./setPosts.sh && ./setPages.sh`
 8. `bundle exec jekyll serve --watch` – verify the build locally and make final corrections.
 9. Commit and push the changes.
@@ -58,3 +58,34 @@ validate content changes locally:
 When you are finished, stop the server with `Ctrl+C`. Running the site locally
 is especially helpful after adding new DOIs to make sure the generated posts and
 pages render correctly before publishing them.
+
+### Bibliography concatenation (Python 3.9+)
+
+`python3 docs/concatenate.py` also works from the repository root. No Python
+packages, API keys or `.env` are needed for this step. Use `--root DIR` for a
+separate data directory; `--doi`, `--new-doi`, `--bad-doi`, `--biblio` and
+`--backup-dir` override paths relative to that root (absolute paths also work).
+Run `python3 docs/concatenate.py --help` for details.
+
+The newest backup by modification time is merged first, so its record wins
+when a DOI occurs twice. Records are sorted by DOI. Historical exact-line
+filtering is preserved, including the shell's different handling of comments,
+blank lines and an unterminated final line in `badDOI.txt` for JSON and DOI text.
+Missing/null DOI keys form one group; other non-string DOI values are rejected.
+An entirely filtered DOI list now succeeds instead of failing at `grep`.
+
+All inputs are checked and all outputs staged before replacement. Each file is
+replaced atomically, with `newDOI.txt` cleared last. This is not a multi-file
+transaction: an interruption during replacement may leave a partial update.
+Keep the backup and avoid concurrent runs. The original `concatenate.sh` is
+retained temporarily as a deprecated reference until a full live workflow has
+been validated.
+
+Run the tests from the repository root:
+
+```bash
+python3 -m unittest discover -s docs/tests -v
+```
+
+The shell parity tests additionally require Bash and jq; they use isolated
+fixtures and never modify the production bibliography.
