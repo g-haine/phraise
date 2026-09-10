@@ -158,7 +158,11 @@ Intentional corrections beyond successful-input parity:
   Semantic Scholar abstract fallback: after HTTP 429 exhausts the retries, it
   emits one warning and is skipped for the rest of that command. Mendeley is
   still tried when configured; otherwise the abstract may remain unavailable.
-  A new command invocation tries Semantic Scholar again.
+  A new command invocation tries Semantic Scholar again. Likewise, a Mendeley
+  catalog HTTP 401 emits one warning and disables that optional provider for
+  the current command, preserving any Semantic Scholar abstract already found.
+  Check `MENDELEY_API_KEY` before a future run to restore Mendeley enrichment;
+  the warning does not mean its authentication has been repaired.
 - Inputs and generated content are prepared before file replacement. Invalid
   authors, ambiguous mappings, dates and output paths produce explicit errors.
   Old pages are removed only after successful generation. Writes remain atomic
