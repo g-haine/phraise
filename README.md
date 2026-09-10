@@ -154,7 +154,11 @@ Intentional corrections beyond successful-input parity:
   errors without displaying API keys. DOI lookups identify the operation and
   DOI, plus the responding host after redirection. During publisher discovery
   only, a redirected landing page returning 401/403 can still identify the
-  publisher API; metadata and BibTeX errors remain fatal.
+  publisher API; metadata and BibTeX errors remain fatal, except for the optional
+  Semantic Scholar abstract fallback: after HTTP 429 exhausts the retries, it
+  emits one warning and is skipped for the rest of that command. Mendeley is
+  still tried when configured; otherwise the abstract may remain unavailable.
+  A new command invocation tries Semantic Scholar again.
 - Inputs and generated content are prepared before file replacement. Invalid
   authors, ambiguous mappings, dates and output paths produce explicit errors.
   Old pages are removed only after successful generation. Writes remain atomic

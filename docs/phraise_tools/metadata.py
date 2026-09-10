@@ -9,6 +9,7 @@ import html
 import os
 from pathlib import Path
 import re
+import sys
 from urllib.parse import quote, urlsplit
 
 import requests
@@ -23,11 +24,16 @@ from .common import clean_metadata
 class MetadataError(ValueError):
     """An API failed or returned an unexpected response."""
 
+    def __init__(self, message, *, status_code=None):
+        super().__init__(message)
+        self.status_code = status_code
+
 
 class Client:
     def __init__(self, root: Path, session=None):
         self.config = {**dotenv_values(root / '.env'), **os.environ}
         self.session = session or requests.Session()
+        self._semantic_scholar_limited = False
         if session is None:
             retry = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504], allowed_methods=['GET'], raise_on_status=False)
             self.session.mount('https://', HTTPAdapter(max_retries=retry))
@@ -77,7 +83,8 @@ class Client:
             else:
                 detail = 'HTTP transport failure'
             prefix = f'{context}: ' if context else ''
-            raise MetadataError(f'{prefix}{location}: {detail}') from error
+            raise MetadataError(f'{prefix}{location}: {detail}',
+                                status_code=status if isinstance(status, int) else None) from error
 
     def json(self, url, **kwargs):
         response = self.request(url, **kwargs)
@@ -142,7 +149,18 @@ class Client:
 
     def complement(self, doi):
         candidates = []
-        data = self.json(f'https://api.semanticscholar.org/graph/v1/paper/DOI:{quote(doi, safe="")}', params={'fields': 'abstract'})
+        data = None
+        if not self._semantic_scholar_limited:
+            try:
+                data = self.json(f'https://api.semanticscholar.org/graph/v1/paper/DOI:{quote(doi, safe="")}',
+                                 params={'fields': 'abstract'})
+            except MetadataError as error:
+                if error.status_code != 429:
+                    raise
+                self._semantic_scholar_limited = True
+                print('phraise: warning: Semantic Scholar HTTP 429; skipping this optional '
+                      'abstract provider for the rest of this run. Some abstracts may remain '
+                      'unavailable; Mendeley will still be tried when configured.', file=sys.stderr)
         if isinstance(data, dict) and data.get('abstract'):
             candidates.append(data['abstract'])
         # Mendeley is optional; no token means no request to its authenticated API.
