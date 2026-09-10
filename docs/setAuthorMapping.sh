@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
+printf "Warning: setAuthorMapping.sh is deprecated; use python setAuthorMapping.py\n" >&2
 
 # Les fonctions communes
 if [ -f .utils ]; then

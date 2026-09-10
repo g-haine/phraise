@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
+printf "Warning: setPosts.sh is deprecated; use python setPosts.py\n" >&2
 
 # Les fonctions communes
 if [ -f .utils ]; then
