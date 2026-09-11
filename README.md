@@ -45,8 +45,10 @@ Then, run the following workflow from the `docs` directory:
 1. `python looking4Update.py` – discover publications and queue incomplete entries for recollection
 2. Check entries in checkDOI.txt and decide where they belong: bad/newDOI.txt
 3. `python getData.py newDOI.txt`
-4. `python setAuthorMapping.py` – correct `biblio.json` entries as needed.
-5. Add new name variations or entries to `assets/data/author_mappings.json` – retry `python setAuthorMapping.py` to check
+4. `python setAuthorMapping.py` – inspect unknown authors and possible matches.
+5. `python setAuthorMapping.py --apply-safe` – add unambiguous new identities,
+   then review the remaining cases in `assets/data/author_mappings.json` and
+   rerun the first command.
 6. `python3 concatenate.py`
 7. `python setPosts.py && python setPages.py`
 8. `bundle exec jekyll serve --watch` – verify the build locally and make final corrections.
@@ -115,7 +117,7 @@ the production bibliography or call external services.
 |---|---|
 | `looking4Update.py` | OpenAlex discovery, CrossRef verification, queueing and archival of incomplete entries |
 | `getData.py newDOI.txt` | CrossRef metadata, publisher enrichment, references and BibTeX |
-| `setAuthorMapping.py` | Proposed author mappings for manual review; writes nothing |
+| `setAuthorMapping.py` | Author mapping analysis, safe additions and ambiguous-name review |
 | `concatenate.py` | Backup/new bibliography merge and DOI filtering |
 | `setPosts.py` | Publication posts, missing BibTeX, orphan archival, last-update date |
 | `setPages.py` | Author/year pages and indexes |
@@ -126,6 +128,19 @@ repository root and `python getData.py newDOI.txt` from `docs/` are equivalent.
 Use `--root /path/to/copy` to work on an isolated data tree. DOI input paths are
 relative to that root unless absolute. `looking4Update.py --max-pages 20` keeps
 the historical discovery limit.
+
+Every command reports its main stages by default. Add `-v` to see each DOI or
+generated file and `-vv` to include sanitized HTTP diagnostics (operation, host,
+redirect and status, without URLs, queries, headers or API keys). Use `--quiet`
+for automation: success and progress output are suppressed, while warnings and
+errors remain visible. For `setAuthorMapping.py --json`, the requested JSON is
+still written to standard output when `--quiet` is used.
+
+`setAuthorMapping.py` proposes a new identity automatically only when its slug
+is unique and no known author shares its normalized surname and first initial.
+`--apply-safe` writes those proposals atomically and leaves collisions and
+possible variants in the report for manual review. The operation is idempotent.
+Use `--json` when a structured report is more convenient.
 
 `docs/phraise_tools/` separates common file/text helpers, HTTP adapters, metadata
 collection, update discovery and Markdown rendering. JSON is parsed once per

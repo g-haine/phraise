@@ -133,6 +133,36 @@ class ConcatenateTests(unittest.TestCase):
         self.assertIn(b'biblio.json', result.stderr)
         self.assertNotIn(b'Traceback', result.stderr)
 
+    def test_cli_reporting_levels(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            self.fixture(root)
+            normal = subprocess.run(
+                [sys.executable, str(DOCS / 'concatenate.py'), '--root', str(root)],
+                capture_output=True)
+            self.assertEqual(normal.returncode, 0, normal.stderr)
+            self.assertIn(b'[*] Validating DOI lists', normal.stderr)
+            self.assertNotIn(b'selected backup:', normal.stderr)
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            self.fixture(root)
+            verbose = subprocess.run(
+                [sys.executable, str(DOCS / 'concatenate.py'), '--root', str(root), '-v'],
+                capture_output=True)
+            self.assertEqual(verbose.returncode, 0, verbose.stderr)
+            self.assertIn(b'selected backup:', verbose.stderr)
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            self.fixture(root)
+            quiet = subprocess.run(
+                [sys.executable, str(DOCS / 'concatenate.py'), '--root', str(root), '--quiet'],
+                capture_output=True)
+            self.assertEqual(quiet.returncode, 0, quiet.stderr)
+            self.assertEqual(quiet.stdout, b'')
+            self.assertEqual(quiet.stderr, b'')
+
 
 if __name__ == '__main__':
     unittest.main()

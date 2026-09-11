@@ -4,7 +4,7 @@ import re
 import unicodedata
 
 from .common import (backup_path, bibliography, json_bytes, lines_bytes,
-                     read_json, read_lines, safe_component, write_batch)
+                     read_json, read_lines, Reporter, safe_component, write_batch)
 from .metadata import enriched_fields
 
 TYPES = {'journal-article', 'proceedings-article', 'book-chapter', 'book', 'monograph'}
@@ -15,7 +15,8 @@ def is_relevant(value):
     return bool(re.search(r'port[-\s]+(controlled )?hamiltonian|interconnection and damping assignment|dirac structure|dissipative hamiltonian', value, re.I))
 
 
-def find_updates(root: Path, client, max_pages=20):
+def find_updates(root: Path, client, max_pages=20, reporter=None):
+    reporter = reporter or Reporter(-1)
     records = bibliography(root)
     known = read_lines(root / 'DOI.txt')
     pending = read_lines(root / 'newDOI.txt')
@@ -23,33 +24,48 @@ def find_updates(root: Path, client, max_pages=20):
     check = read_lines(root / 'checkDOI.txt')
     trash_path = root / 'trash/trash.json'
     trash = read_json(trash_path, list) if trash_path.exists() and trash_path.stat().st_size else []
+    reporter.step(f'Loaded {len(records)} publications and {len(known)} known DOI(s)')
+    reporter.step(f'Searching OpenAlex (up to {max_pages} page(s))')
     candidates = []
     cursor = '*'
     seen_cursors = set()
-    for _ in range(max_pages):
+    for page_number in range(1, max_pages + 1):
         if not cursor or cursor == 'null' or cursor in seen_cursors:
             break
         seen_cursors.add(cursor)
         page = client.openalex(cursor)
+        reporter.detail(f'OpenAlex page {page_number}: {len(page["results"])} result(s)')
         for work in page['results']:
             doi = work.get('doi')
             if doi:
                 candidates.append(doi.removeprefix('https://doi.org/').lower())
         cursor = page['meta'].get('next_cursor')
+    unique_candidates = list(dict.fromkeys(candidates))
+    reporter.step(f'OpenAlex returned {len(unique_candidates)} unique DOI candidate(s)')
     excluded = set(known) | set(bad)
-    for doi in dict.fromkeys(candidates):
+    for index, doi in enumerate(unique_candidates, 1):
         if doi in excluded or 'arxiv' in doi or 'zenodo' in doi:
+            reporter.detail(f'[{index}/{len(unique_candidates)}] skipped known/excluded {doi}')
             continue
+        reporter.detail(f'[{index}/{len(unique_candidates)}] verifying {doi}')
         message = client.crossref(doi)
         if message is None or message.get('type') not in TYPES:
             bad.append(doi)
+            reason = 'absent from CrossRef' if message is None else f'unsupported type {message.get("type")}'
+            reporter.detail(f'{doi}: rejected ({reason})')
             continue
         abstract, keywords, _ = enriched_fields(message, doi, client, discovery=True)
         title = (message.get('title') or [''])[0]
-        (pending if is_relevant(f'{title} {abstract} {keywords}') else check).append(doi)
+        if is_relevant(f'{title} {abstract} {keywords}'):
+            pending.append(doi)
+            reporter.detail(f'{doi}: queued for collection')
+        else:
+            check.append(doi)
+            reporter.detail(f'{doi}: queued for manual relevance check')
     outputs = {}
     to_remove = []
     removed_dois = set()
+    reporter.step('Checking incomplete journal records and BibTeX changes')
     for record in records:
         if record.get('type') != 'journal-article' or not any(record.get(key) == '' for key in ('volume', 'issue', 'pages')):
             continue
@@ -64,6 +80,7 @@ def find_updates(root: Path, client, max_pages=20):
             # the stale backup entry instead of the newly fetched metadata.
             removed_dois.add(doi)
             trash.append(record)
+            reporter.detail(f'{doi}: archived for recollection ({"missing BibTeX" if missing else "changed BibTeX"})')
             if not missing:
                 target = root / 'trash' / bib.name
                 if target.exists():
@@ -82,6 +99,7 @@ def find_updates(root: Path, client, max_pages=20):
     outputs.update({root / 'DOI.txt': lines_bytes(known), root / 'newDOI.txt': lines_bytes(pending),
                     root / 'badDOI.txt': lines_bytes(bad), root / 'checkDOI.txt': lines_bytes(check),
                     root / 'assets/data/biblio.json': json_bytes(retained), trash_path: json_bytes(trash)})
+    reporter.step('Writing DOI queues, bibliography and archive')
     write_batch(outputs)
     for bib in to_remove:
         bib.unlink()

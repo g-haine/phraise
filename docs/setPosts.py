@@ -6,7 +6,9 @@ from phraise_tools.metadata import Client
 
 
 def main(argv=None):
-    return run_cli(lambda a: generate_posts(a.root, Client(a.root)), parser(__doc__).parse_args(argv))
+    args = parser(__doc__).parse_args(argv)
+    return run_cli(lambda a: generate_posts(
+        a.root, Client(a.root, reporter=a.reporter), a.reporter), args)
 
 
 if __name__ == '__main__':

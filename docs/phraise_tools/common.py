@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+from dataclasses import dataclass
 from datetime import date, datetime
 import json
 import os
@@ -17,16 +18,47 @@ from unidecode import unidecode
 ROOT = Path(__file__).resolve().parents[1]
 
 
+@dataclass
+class Reporter:
+    """Write consistent progress messages without exposing sensitive values."""
+
+    verbosity: int = 0
+    stream: object = None
+
+    def step(self, message: str) -> None:
+        if self.verbosity >= 0:
+            print(f'[*] {message}', file=self.stream or sys.stderr)
+
+    def detail(self, message: str) -> None:
+        if self.verbosity >= 1:
+            print(f'    {message}', file=self.stream or sys.stderr)
+
+    def debug(self, message: str) -> None:
+        if self.verbosity >= 2:
+            print(f'      {message}', file=self.stream or sys.stderr)
+
+    def warning(self, message: str) -> None:
+        print(f'phraise: warning: {message}', file=self.stream or sys.stderr)
+
+
 def parser(description: str) -> argparse.ArgumentParser:
     result = argparse.ArgumentParser(description=description)
     result.add_argument('--root', type=Path, default=ROOT,
                         help='Data directory (default: docs beside these scripts)')
+    output = result.add_mutually_exclusive_group()
+    output.add_argument('-v', '--verbose', action='count', default=0,
+                        help='Show DOI/file details; repeat (-vv) for HTTP diagnostics')
+    output.add_argument('-q', '--quiet', action='store_true',
+                        help='Suppress progress and success output; errors and warnings remain')
     return result
 
 
 def run_cli(action, args) -> int:
+    args.reporter = Reporter(-1 if args.quiet else args.verbose)
     try:
-        print(action(args))
+        summary = action(args)
+        if summary and (not args.quiet or getattr(args, 'json', False)):
+            print(summary)
     except (OSError, ValueError) as error:
         print(f'phraise: {error}', file=sys.stderr)
         return 1
