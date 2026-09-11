@@ -1,5 +1,6 @@
 """Regression tests; fixtures are synthetic and all writes stay in temp dirs."""
 import importlib.util
+import base64
 import json
 import os
 from pathlib import Path
@@ -11,6 +12,7 @@ import unittest
 from unittest.mock import patch
 
 DOCS = Path(__file__).resolve().parents[1]
+LEGACY = DOCS / "tests/fixtures/legacy"
 spec = importlib.util.spec_from_file_location("concatenate", DOCS / "concatenate.py")
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
@@ -50,24 +52,21 @@ class ConcatenateTests(unittest.TestCase):
         self.assertEqual((self.root / 'DOI.txt').read_bytes(), b'z\na\nb\na\n')
         self.assertEqual((self.root / 'newDOI.txt').read_bytes(), b'')
 
-    @unittest.skipUnless(shutil.which('bash') and shutil.which('jq'), 'Bash and jq required')
-    def test_shell_parity(self):
-        for bad in [b'#comment\n\nbad\n', b'bad', b'', b'a\r\nbad\n']:
-            with self.subTest(bad=bad), tempfile.TemporaryDirectory() as directory:
-                shell = Path(directory) / 'shell'
-                python = Path(directory) / 'python'
-                for root in [shell, python]:
-                    self.fixture(root)
-                    (root / 'badDOI.txt').write_bytes(bad)
-                    (root / 'newDOI.txt').write_bytes(b'b\na')
-                shutil.copy(DOCS / '.utils', shell / '.utils')
-                (shell / '.env').touch()
-                subprocess.run(['bash', str(DOCS / 'concatenate.sh')], cwd=shell, check=True, capture_output=True)
-                self.run_python(python)
-                for name in ['DOI.txt', 'newDOI.txt']:
-                    self.assertEqual((shell / name).read_bytes(), (python / name).read_bytes())
-                self.assertEqual(json.loads((shell / 'assets/data/biblio.json').read_bytes()),
-                                 json.loads((python / 'assets/data/biblio.json').read_bytes()))
+    def test_legacy_golden_cases(self):
+        cases = json.loads((LEGACY / 'concatenate_cases.json').read_text())
+        for case in cases:
+            with self.subTest(bad=case['bad_doi_b64']), tempfile.TemporaryDirectory() as directory:
+                root = Path(directory)
+                self.fixture(root)
+                (root / 'badDOI.txt').write_bytes(base64.b64decode(case['bad_doi_b64']))
+                (root / 'newDOI.txt').write_bytes(b'b\na')
+                self.run_python(root)
+                self.assertEqual((root / 'DOI.txt').read_bytes(),
+                                 base64.b64decode(case['doi_b64']))
+                self.assertEqual((root / 'newDOI.txt').read_bytes(),
+                                 base64.b64decode(case['new_doi_b64']))
+                self.assertEqual(json.loads((root / 'assets/data/biblio.json').read_bytes()),
+                                 case['bibliography'])
 
     def test_invalid_json_or_schema_preserves_inputs(self):
         for content in ['{', '{}', '[1]', '[{"doi":12}]']:

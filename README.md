@@ -79,7 +79,7 @@ When you are finished, stop the server with `Ctrl+C`. Running the site locally
 is especially helpful after adding new DOIs to make sure the generated posts and
 pages render correctly before publishing them.
 
-### Bibliography concatenation (Python 3.9+)
+### Bibliography concatenation (Python 3.12)
 
 `python3 docs/concatenate.py` also works from the repository root. No Python
 packages, API keys or `.env` are needed for this step. Use `--root DIR` for a
@@ -89,17 +89,16 @@ Run `python3 docs/concatenate.py --help` for details.
 
 The newest backup by modification time is merged first, so its record wins
 when a DOI occurs twice. Records are sorted by DOI. Historical exact-line
-filtering is preserved, including the shell's different handling of comments,
-blank lines and an unterminated final line in `badDOI.txt` for JSON and DOI text.
+filtering is preserved, including the former workflow's different handling of
+comments, blank lines and an unterminated final line in `badDOI.txt` for JSON
+and DOI text.
 Missing/null DOI keys form one group; other non-string DOI values are rejected.
-An entirely filtered DOI list now succeeds instead of failing at `grep`.
+An entirely filtered DOI list is accepted as a valid result.
 
 All inputs are checked and all outputs staged before replacement. Each file is
 replaced atomically, with `newDOI.txt` cleared last. This is not a multi-file
 transaction: an interruption during replacement may leave a partial update.
-Keep the backup and avoid concurrent runs. The shell scripts and `.utils` are retained temporarily as deprecated
-references until a full live workflow has been validated. The Python commands
-do not execute them.
+Keep the backup and avoid concurrent runs.
 
 Run the tests from the repository root:
 
@@ -107,8 +106,8 @@ Run the tests from the repository root:
 python3 -m unittest discover -s docs/tests -v
 ```
 
-The shell parity tests additionally require Bash and jq; they use isolated
-fixtures and never modify the production bibliography.
+The tests use synthetic inputs and retained reference outputs. They never modify
+the production bibliography or call external services.
 
 ### Python maintenance architecture and validation
 
@@ -130,20 +129,20 @@ the historical discovery limit.
 
 `docs/phraise_tools/` separates common file/text helpers, HTTP adapters, metadata
 collection, update discovery and Markdown rendering. JSON is parsed once per
-input instead of repeatedly invoking jq. Generation is deterministic and runs
-sequentially, so failures propagate reliably. No Bash, curl, jq, GNU sed or iconv
-is needed by the Python workflow. Existing permalinks and mapping keys are kept.
+input directly. Generation is deterministic and runs sequentially, so failures
+propagate reliably. The maintenance workflow requires no Bash, curl, jq, GNU sed
+or iconv. `install.sh` is the only retained Bash helper. Existing permalinks and
+mapping keys are kept.
 New slugs use Unidecode instead of the platform-dependent iconv transliteration;
 non-Latin names may therefore produce different new suggestions.
 
 The tests cover a complete simulated workflow, HTTP failures and provider field
-extraction, pagination, BibTeX, references, publication types, validation before
-writes, and comparisons with the legacy shell on controlled inputs. External
-responses are mocked; no credentials or production-data changes are involved.
-The Bash/jq parity tests skip if those optional tools are unavailable. The
-installer is tested with a Conda stub for create/update/failure and paths with
-spaces; resolving and installing the actual Conda environment remains a local
-check. A real-data workflow run is deliberately deferred until after this port.
+extraction, pagination, BibTeX, references, publication types and validation
+before writes. Retained reference outputs preserve the behavior established by
+the former workflow. External responses are mocked; no credentials or production
+data are changed. The installer is tested with a Conda stub for
+create/update/failure and paths with spaces. The complete Python workflow and
+the Jekyll build have also been validated with the real bibliography.
 
 Intentional corrections beyond successful-input parity:
 
@@ -179,7 +178,3 @@ Intentional corrections beyond successful-input parity:
   the subsequent merge. DOI removals use exact matches rather than sed regexes.
 - Existing `trash/trash.json` content and conflicting archived BibTeX files are
   preserved. Backup timestamps use file names valid on Windows as well as Unix.
-
-After the real workflow is verified, the deprecated shell scripts and `.utils`
-can be removed. The Python tests will then need retained golden fixtures in
-place of direct shell comparisons.

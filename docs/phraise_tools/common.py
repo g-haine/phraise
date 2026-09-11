@@ -71,7 +71,7 @@ def mappings(root: Path) -> tuple[dict, dict]:
 
 
 def text(value) -> str:
-    """Represent a jq scalar; use an explicit default at call sites if needed."""
+    """Represent a nullable scalar; use an explicit default at call sites if needed."""
     return 'null' if value is None else str(value)
 
 

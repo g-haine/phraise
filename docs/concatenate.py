@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Merge bibliography updates using the historical concatenate.sh conventions.
+"""Merge bibliography updates using the established concatenation conventions.
 
 Requires Python 3.9+. Paths are relative to --root (default: this script's
 folder). Validation and staging precede writes; replacements are atomic per
@@ -30,7 +30,7 @@ def load_bibliography(path):
 
 
 def merge_bibliographies(old, new):
-    """Keep the first record per DOI, sorting null before strings like jq."""
+    """Keep the first record per DOI, sorting null before strings for stable output."""
     records = {}
     for entry in chain(old, new):
         records.setdefault(entry.get("doi"), entry)
@@ -55,7 +55,7 @@ def concatenate(doi, new_doi, bad_doi, biblio, backup_dir):
     old, new = load_bibliography(backup), load_bibliography(biblio)
     combined = doi.read_bytes() + new_doi.read_bytes()
     bad = bad_doi.read_bytes()
-    # Bash read ignores the last unterminated line; grep still uses it.
+    # Preserve the established distinction for an unterminated final line.
     json_bad = {line.decode("utf-8") for line in bad.split(b"\n")[:-1]
                 if line and not line.startswith(b"#")}
     merged = merge_bibliographies(old, new)

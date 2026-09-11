@@ -1,0 +1,88 @@
+[
+  {
+    "bad_doi_b64": "I2NvbW1lbnQKCmJhZAo=",
+    "doi_b64": "egphCmIKYQo=",
+    "new_doi_b64": "",
+    "bibliography": [
+      {
+        "title": "missing"
+      },
+      {
+        "doi": "a",
+        "title": "Énergie"
+      },
+      {
+        "doi": "b"
+      },
+      {
+        "doi": "z"
+      }
+    ]
+  },
+  {
+    "bad_doi_b64": "YmFk",
+    "doi_b64": "egphCiNjb21tZW50CgpiCmEK",
+    "new_doi_b64": "",
+    "bibliography": [
+      {
+        "title": "missing"
+      },
+      {
+        "doi": "a",
+        "title": "Énergie"
+      },
+      {
+        "doi": "b"
+      },
+      {
+        "doi": "bad"
+      },
+      {
+        "doi": "z"
+      }
+    ]
+  },
+  {
+    "bad_doi_b64": "",
+    "doi_b64": "egphCiNjb21tZW50CgpiYWQKYgphCg==",
+    "new_doi_b64": "",
+    "bibliography": [
+      {
+        "title": "missing"
+      },
+      {
+        "doi": "a",
+        "title": "Énergie"
+      },
+      {
+        "doi": "b"
+      },
+      {
+        "doi": "bad"
+      },
+      {
+        "doi": "z"
+      }
+    ]
+  },
+  {
+    "bad_doi_b64": "YQ0KYmFkCg==",
+    "doi_b64": "egphCiNjb21tZW50CgpiCmEK",
+    "new_doi_b64": "",
+    "bibliography": [
+      {
+        "title": "missing"
+      },
+      {
+        "doi": "a",
+        "title": "Énergie"
+      },
+      {
+        "doi": "b"
+      },
+      {
+        "doi": "z"
+      }
+    ]
+  }
+]

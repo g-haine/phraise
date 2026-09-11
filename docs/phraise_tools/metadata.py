@@ -1,7 +1,8 @@
 """HTTP adapters and provider extraction, separated from file mutations.
 
-Endpoints and field mappings follow the former .utils. Network failures raise
-instead of being interpreted as missing publications. 404 is an absent result.
+Provider endpoints and field mappings are centralized here. Network failures
+raise instead of being interpreted as missing publications. 404 is an absent
+result.
 """
 from __future__ import annotations
 
@@ -233,7 +234,7 @@ def extract_provider(provider, data):
 
 
 def format_bibtex(value):
-    """Reproduce the line-oriented .utils formatter, including title braces."""
+    """Preserve the established line-oriented BibTeX format and title braces."""
     value = value.replace(' @', '@').replace('},', '},\n ')
     for field in ['series', 'pages', 'title']:
         value = value.replace(f', {field}', f',\n  {field}')
