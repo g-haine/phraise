@@ -1,5 +1,6 @@
 """Offline integration tests. No real credentials, data or network are used."""
 from copy import deepcopy
+import base64
 import json
 import os
 from pathlib import Path
@@ -21,6 +22,7 @@ from concatenate import concatenate
 import requests
 
 DOCS = Path(__file__).resolve().parents[1]
+LEGACY = DOCS / 'tests/fixtures/legacy'
 
 
 def record(doi='10.1/old', slug='old'):
@@ -308,85 +310,42 @@ class MetadataTests(unittest.TestCase):
         self.assertEqual(slugify('Énergie & contrôle'), 'energie-controle')
 
 
-@unittest.skipUnless(shutil.which('bash') and shutil.which('jq'), 'Bash and jq required')
-class ShellParityTests(unittest.TestCase):
+class LegacyGoldenTests(unittest.TestCase):
     setUp = WorkflowTests.setUp
     save = WorkflowTests.save
-    # Only parity tests here; do not repeat inherited integration tests.
-    def test_post_parity(self):
-        with tempfile.TemporaryDirectory() as directory:
-            shell = Path(directory)
-            shutil.copytree(self.root, shell, dirs_exist_ok=True)
-            shutil.copy(DOCS / '.utils', shell / '.utils')
-            (shell / '.env').touch()
-            result = subprocess.run(['bash', str(DOCS / 'setPosts.sh')], cwd=shell, capture_output=True)
-            self.assertEqual(result.returncode, 0, result.stderr)
-            generate_posts(self.root, self.client)
-            name = '_posts/2024-03-08-old.md'
-            self.assertEqual((self.root / name).read_text(), (shell / name).read_text())
+    # Golden files capture the outputs of the validated workflow before cleanup.
+    def test_post_golden(self):
+        generate_posts(self.root, self.client)
+        self.assertEqual((self.root / '_posts/2024-03-08-old.md').read_bytes(),
+                         base64.b64decode((LEGACY / 'post.b64').read_text()))
 
-    def test_math_and_bibtex_parity(self):
-        with tempfile.TemporaryDirectory() as directory:
-            root = Path(directory)
-            shutil.copy(DOCS / '.utils', root / '.utils')
-            (root / '.env').touch()
-            for value in ['Title $x+y$ and $$z$$', '{{foo}} & bar']:
-                result = subprocess.run(['bash', '-c', 'source .utils; mathjaxify "$1"', '_', value], cwd=root, capture_output=True, check=True)
-                self.assertEqual(result.stdout.decode().rstrip('\n'), mathjaxify(value))
-            raw = '@article{key, title={A title}, author={Ada}, pages={1–9}, month={March}, url={https://test}, year={2024} }'
-            # Use an overridden print source, not the URL argument passed to safe_curl.
-            result = subprocess.run(['bash', '-c', 'source .utils; RAW="$1"; safe_curl() { printf "%s\\n" "$RAW"; }; print_bib test output.bib', '_', raw], cwd=root, capture_output=True, check=True)
-            self.assertEqual((root / 'output.bib').read_text(), format_bibtex(raw))
+    def test_common_formatting_golden(self):
+        for source, expected in json.loads((LEGACY / 'mathjax.json').read_text()).items():
+            self.assertEqual(mathjaxify(source), expected)
+        raw = (LEGACY / 'bibtex_input.txt').read_text().rstrip('\n')
+        self.assertEqual(format_bibtex(raw), (LEGACY / 'bibtex_output.bib').read_text())
 
-    def test_pages_parity(self):
-        with tempfile.TemporaryDirectory() as directory:
-            shell = Path(directory)
-            shutil.copytree(self.root, shell, dirs_exist_ok=True)
-            shutil.copy(DOCS / '.utils', shell / '.utils')
-            (shell / '.env').touch()
-            result = subprocess.run(['bash', str(DOCS / 'setPages.sh')], cwd=shell, capture_output=True)
-            self.assertEqual(result.returncode, 0, result.stderr)
-            generate_pages(self.root)
-            for folder in ['authors', 'years']:
-                self.assertEqual({p.name for p in (shell / folder).glob('*.md')},
-                                 {p.name for p in (self.root / folder).glob('*.md')})
-                for file in (shell / folder).glob('*.md'):
-                    self.assertEqual(file.read_text(), (self.root / folder / file.name).read_text())
+    def test_pages_golden(self):
+        generate_pages(self.root)
+        for expected in (LEGACY / 'pages').rglob('*.md'):
+            actual = self.root / expected.relative_to(LEGACY / 'pages')
+            self.assertEqual(actual.read_bytes(), expected.read_bytes())
 
-    def test_collection_parity_with_simulated_apis(self):
-        with tempfile.TemporaryDirectory() as directory:
-            shell = Path(directory)
-            (self.root / 'newDOI.txt').write_text('10.1/NEW\n10.1/new\n')
-            self.client.messages['10.1/new'] = message()
-            shutil.copytree(self.root, shell, dirs_exist_ok=True)
-            (shell / 'response.json').write_text(json.dumps({'status': 'ok', 'message': message()}))
-            utils = (DOCS / '.utils').read_text() + '''
-fetch_metadata_crossref() { cat response.json; }
-print_bib() { printf '@article{test,\\n title={{Port-Hamiltonian systems}}\\n}\\n' > "$2"; }
-curl() { printf 'https://example.test/article'; }
-'''
-            (shell / '.utils').write_text(utils)
-            (shell / '.env').touch()
-            result = subprocess.run(['bash', str(DOCS / 'getData.sh'), 'newDOI.txt'], cwd=shell, capture_output=True)
-            self.assertEqual(result.returncode, 0, result.stderr)
-            collect(self.root, self.root / 'newDOI.txt', self.client)
-            self.assertEqual(json.loads((shell / 'assets/data/biblio.json').read_text()),
-                             json.loads((self.root / 'assets/data/biblio.json').read_text()))
-            self.assertEqual((shell / 'newDOI.txt').read_bytes(), (self.root / 'newDOI.txt').read_bytes())
-            self.assertEqual((shell / 'assets/bib/port-hamiltonian-systems.bib').read_bytes(),
-                             (self.root / 'assets/bib/port-hamiltonian-systems.bib').read_bytes())
+    def test_collection_golden(self):
+        (self.root / 'newDOI.txt').write_text('10.1/NEW\n10.1/new\n')
+        self.client.messages['10.1/new'] = message()
+        collect(self.root, self.root / 'newDOI.txt', self.client)
+        self.assertEqual(json.loads((self.root / 'assets/data/biblio.json').read_text()),
+                         json.loads((LEGACY / 'collection/biblio.json').read_text()))
+        self.assertEqual((self.root / 'newDOI.txt').read_bytes(),
+                         (LEGACY / 'collection/newDOI.txt').read_bytes())
+        self.assertEqual((self.root / 'assets/bib/port-hamiltonian-systems.bib').read_bytes(),
+                         (LEGACY / 'collection/publication.bib').read_bytes())
 
-    def test_author_suggestion_parity(self):
-        # The shell emits comma-prefixed fragments; Python emits a JSON object.
-        with tempfile.TemporaryDirectory() as directory:
-            shell = Path(directory)
-            self.save('assets/data/author_mappings.json', {})
-            shutil.copytree(self.root, shell, dirs_exist_ok=True)
-            shutil.copy(DOCS / '.utils', shell / '.utils')
-            (shell / '.env').touch()
-            result = subprocess.run(['bash', str(DOCS / 'setAuthorMapping.sh')], cwd=shell, capture_output=True, check=True)
-            fragment = result.stdout.decode().strip().removeprefix(',').strip()
-            self.assertEqual(json.loads('{' + fragment + '}'), json.loads(author_suggestions(self.root)))
+    def test_author_suggestions_golden(self):
+        self.save('assets/data/author_mappings.json', {})
+        self.assertEqual(json.loads(author_suggestions(self.root)),
+                         json.loads((LEGACY / 'author_suggestions.json').read_text()))
 
 
 class InstallerTests(unittest.TestCase):
