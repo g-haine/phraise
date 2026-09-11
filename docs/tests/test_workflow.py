@@ -1,6 +1,7 @@
 """Offline integration tests. No real credentials, data or network are used."""
 from copy import deepcopy
 import base64
+import io
 import json
 import os
 from pathlib import Path
@@ -13,8 +14,10 @@ from unittest.mock import Mock, patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from phraise_tools.collect import collect
-from phraise_tools.common import json_bytes, mathjaxify, slugify, write_batch
-from phraise_tools.generate import author_suggestions, generate_pages, generate_posts, render_post
+from phraise_tools.common import json_bytes, mathjaxify, Reporter, slugify, write_batch
+from phraise_tools.generate import (apply_safe_author_mappings, author_mapping_plan,
+                                    format_author_mapping_plan, generate_pages,
+                                    generate_posts, render_post)
 from phraise_tools.metadata import (Client, MetadataError, extract_provider, format_bibtex,
                                     mendeley_abstract)
 from phraise_tools.update import find_updates, is_relevant
@@ -125,10 +128,12 @@ class WorkflowTests(unittest.TestCase):
                 collect(self.root, self.root / 'newDOI.txt', self.client)
         self.assertEqual(before, self.snapshot())
 
-    def test_suggestions_are_valid_json_and_do_not_write(self):
+    def test_author_plan_is_structured_and_does_not_write(self):
         self.save('assets/data/author_mappings.json', {})
         before = self.snapshot()
-        self.assertEqual(json.loads(author_suggestions(self.root)), {'ada-lovelace': ['Ada Lovelace']})
+        plan = author_mapping_plan(self.root)
+        self.assertEqual(plan['safe'], {'ada-lovelace': ['Ada Lovelace']})
+        self.assertEqual(plan['review'], [])
         self.assertEqual(before, self.snapshot())
 
     def test_generate_posts_and_pages(self):
@@ -223,7 +228,7 @@ class WorkflowTests(unittest.TestCase):
         self.client.messages['10.1/new'] = message()
         find_updates(self.root, self.client)
         collect(self.root, self.root / 'newDOI.txt', self.client)
-        self.assertEqual(json.loads(author_suggestions(self.root)), {})
+        self.assertEqual(author_mapping_plan(self.root)['unknown_names'], 0)
         concatenate(*(self.root / p for p in ['DOI.txt', 'newDOI.txt', 'badDOI.txt', 'assets/data/biblio.json', 'assets/data']))
         generate_posts(self.root, self.client)
         generate_pages(self.root)
@@ -342,12 +347,6 @@ class LegacyGoldenTests(unittest.TestCase):
         self.assertEqual((self.root / 'assets/bib/port-hamiltonian-systems.bib').read_bytes(),
                          (LEGACY / 'collection/publication.bib').read_bytes())
 
-    def test_author_suggestions_golden(self):
-        self.save('assets/data/author_mappings.json', {})
-        self.assertEqual(json.loads(author_suggestions(self.root)),
-                         json.loads((LEGACY / 'author_suggestions.json').read_text()))
-
-
 class InstallerTests(unittest.TestCase):
     @unittest.skipUnless(shutil.which('bash'), 'Bash required')
     def test_create_update_and_failure_with_conda_stub(self):
@@ -372,3 +371,111 @@ exit "${TEST_CONDA_FAILURE:-0}"
                                  ['env', action, '--name', 'phraise', '--file', str(root / 'phraise.yml')])
                 if failure == '1':
                     self.assertNotIn(b'Environment ready', result.stdout)
+
+
+class ReportingTests(unittest.TestCase):
+    setUp = WorkflowTests.setUp
+    save = WorkflowTests.save
+
+    def test_reporter_levels(self):
+        stream = io.StringIO()
+        reporter = Reporter(0, stream)
+        reporter.step('step')
+        reporter.detail('detail')
+        reporter.debug('debug')
+        reporter.warning('warning')
+        self.assertEqual(stream.getvalue(), '[*] step\nphraise: warning: warning\n')
+
+        stream = io.StringIO()
+        reporter = Reporter(2, stream)
+        reporter.step('step')
+        reporter.detail('detail')
+        reporter.debug('debug')
+        self.assertEqual(stream.getvalue(), '[*] step\n    detail\n      debug\n')
+
+    def test_cli_default_verbose_and_quiet_output(self):
+        command = [sys.executable, str(DOCS / 'setPages.py'), '--root', str(self.root)]
+        normal = subprocess.run(command, capture_output=True)
+        self.assertEqual(normal.returncode, 0, normal.stderr)
+        self.assertIn(b'[*] Indexing authors and years', normal.stderr)
+        self.assertNotIn(b'authors/ada-lovelace.md:', normal.stderr)
+
+        verbose = subprocess.run(command + ['-v'], capture_output=True)
+        self.assertEqual(verbose.returncode, 0, verbose.stderr)
+        self.assertIn(b'authors/ada-lovelace.md:', verbose.stderr)
+
+        quiet = subprocess.run(command + ['--quiet'], capture_output=True)
+        self.assertEqual(quiet.returncode, 0, quiet.stderr)
+        self.assertEqual(quiet.stdout, b'')
+        self.assertEqual(quiet.stderr, b'')
+
+    def test_http_debug_is_sanitized(self):
+        session = Mock()
+        response = session.get.return_value
+        response.status_code = 200
+        response.url = 'https://publisher.test/paper?token=secret'
+        response.raise_for_status.return_value = None
+        stream = io.StringIO()
+        client = Client(Path('/nonexistent'), session, Reporter(2, stream))
+        client.request('https://doi.org/10.1/test?api_key=secret',
+                       context='Publisher lookup for DOI 10.1/test')
+        output = stream.getvalue()
+        self.assertIn('GET doi.org', output)
+        self.assertIn('HTTP 200 from doi.org -> publisher.test', output)
+        self.assertNotIn('secret', output)
+
+
+class AuthorMappingPlanTests(unittest.TestCase):
+    setUp = WorkflowTests.setUp
+    save = WorkflowTests.save
+    load = WorkflowTests.load
+
+    def prepare_unknown_authors(self):
+        records = []
+        for index, name in enumerate(['Grace Hopper', 'A. Lovelace', 'José Núñez', 'Jose Nunez']):
+            given, family = name.rsplit(' ', 1)
+            item = record(f'10.1/{index}', f'publication-{index}')
+            item['authors'] = [{'given': given, 'family': family}]
+            records.append(item)
+        self.save('assets/data/biblio.json', records)
+
+    def test_plan_separates_safe_and_ambiguous_names(self):
+        self.prepare_unknown_authors()
+        plan = author_mapping_plan(self.root)
+        self.assertEqual(plan['safe'], {'grace-hopper': ['Grace Hopper']})
+        review = {item['slug']: item for item in plan['review']}
+        self.assertIn('same surname and first initial', review['a-lovelace']['reason'])
+        self.assertEqual(review['a-lovelace']['possible_matches'][0]['slug'], 'ada-lovelace')
+        self.assertIn('several unknown names', review['jose-nunez']['reason'])
+        report = format_author_mapping_plan(plan)
+        self.assertIn('Safe proposals:', report)
+        self.assertIn('Manual review required:', report)
+
+    def test_apply_safe_is_atomic_and_idempotent(self):
+        self.prepare_unknown_authors()
+        stream = io.StringIO()
+        applied, remaining = apply_safe_author_mappings(self.root, Reporter(1, stream))
+        mapping = self.load('assets/data/author_mappings.json')
+        self.assertEqual(applied, 1)
+        self.assertEqual(mapping['grace-hopper'], ['Grace Hopper'])
+        self.assertEqual(mapping['ada-lovelace'], ['Ada Lovelace'])
+        self.assertNotIn('a-lovelace', mapping)
+        self.assertEqual(remaining['unknown_names'], 3)
+        self.assertIn('added grace-hopper', stream.getvalue())
+        applied_again, _ = apply_safe_author_mappings(self.root)
+        self.assertEqual(applied_again, 0)
+
+    def test_cli_json_and_apply_safe(self):
+        self.prepare_unknown_authors()
+        command = [sys.executable, str(DOCS / 'setAuthorMapping.py'), '--root', str(self.root)]
+        analysis = subprocess.run(command + ['--json', '--quiet'], capture_output=True)
+        self.assertEqual(analysis.returncode, 0, analysis.stderr)
+        # JSON is the requested data output; quiet suppresses only progress.
+        self.assertEqual(json.loads(analysis.stdout)['applied'], 0)
+        self.assertEqual(analysis.stderr, b'')
+
+        applied = subprocess.run(command + ['--apply-safe', '--json'], capture_output=True)
+        self.assertEqual(applied.returncode, 0, applied.stderr)
+        report = json.loads(applied.stdout)
+        self.assertEqual(report['applied'], 1)
+        self.assertEqual(report['unknown_names'], 3)

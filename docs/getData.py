@@ -9,7 +9,9 @@ def main(argv=None):
     cli = parser(__doc__)
     cli.add_argument('doi_file', help='DOI file, relative to --root or absolute')
     args = cli.parse_args(argv)
-    return run_cli(lambda a: collect(a.root, a.root / a.doi_file, Client(a.root)), args)
+    return run_cli(lambda a: collect(
+        a.root, a.root / a.doi_file,
+        Client(a.root, reporter=a.reporter), a.reporter), args)
 
 
 if __name__ == '__main__':

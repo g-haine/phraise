@@ -5,7 +5,8 @@ from phraise_tools.generate import generate_pages
 
 
 def main(argv=None):
-    return run_cli(lambda a: generate_pages(a.root), parser(__doc__).parse_args(argv))
+    return run_cli(lambda a: generate_pages(a.root, a.reporter),
+                   parser(__doc__).parse_args(argv))
 
 
 if __name__ == '__main__':

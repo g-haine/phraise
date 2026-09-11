@@ -3,7 +3,8 @@ from pathlib import Path
 import re
 
 from .common import (backup_path, bibliography, clean_metadata, json_bytes,
-                     lines_bytes, read_lines, safe_component, slugify, text, write_batch)
+                     lines_bytes, read_lines, Reporter, safe_component, slugify,
+                     text, write_batch)
 from .metadata import enriched_fields
 
 
@@ -40,23 +41,29 @@ def make_record(doi, message, slug, client):
     }
 
 
-def collect(root: Path, input_path: Path, client):
+def collect(root: Path, input_path: Path, client, reporter=None):
+    reporter = reporter or Reporter(-1)
     biblio_path = root / 'assets/data/biblio.json'
-    bibliography(root)  # Validate the backup before collecting anything.
+    existing = bibliography(root)  # Validate the backup before collecting anything.
+    reporter.step(f'Validated bibliography: {len(existing)} existing publications')
     if input_path.resolve() in {biblio_path.resolve(), (root / 'DOI.txt').resolve()}:
         raise ValueError('The input DOI file must differ from DOI.txt and biblio.json')
     known = set(read_lines(root / 'DOI.txt'))
-    candidates = [doi for doi in dict.fromkeys(d.lower() for d in read_lines(input_path)) if doi not in known]
+    submitted = read_lines(input_path)
+    candidates = [doi for doi in dict.fromkeys(d.lower() for d in submitted) if doi not in known]
+    reporter.step(f'Prepared {len(candidates)} unique DOI(s) from {len(submitted)} input line(s)')
     if not candidates:
         return 'No new DOIs; bibliography unchanged.'
     outputs = {}
     records = []
     absent = []
     used = {p.stem for p in (root / 'assets/bib').glob('*.bib')}
-    for doi in candidates:
+    for index, doi in enumerate(candidates, 1):
+        reporter.detail(f'[{index}/{len(candidates)}] fetching {doi}')
         message = client.crossref(doi)
         if message is None:
             absent.append(doi)
+            reporter.detail(f'{doi}: unavailable from CrossRef')
             continue
         title = re.sub(r'<[^>]*mml[^>]*>', '', (message.get('title') or [''])[0])
         slug = slugify(title)
@@ -64,10 +71,13 @@ def collect(root: Path, input_path: Path, client):
         while slug in used:
             slug += '0'
         used.add(slug)
+        reporter.detail(f'{doi}: permalink {slug}')
         records.append(make_record(doi, message, slug, client))
         outputs[root / f'assets/bib/{slug}.bib'] = client.bibtex(doi).encode('utf-8')
     backup = backup_path(root / 'assets/data', 'biblio', '.json')
     outputs = {backup: biblio_path.read_bytes(), **outputs,
                biblio_path: json_bytes(records), input_path: lines_bytes(candidates)}
+    reporter.step(f'Writing {len(records)} publication record(s) and {len(records)} BibTeX file(s)')
     write_batch(outputs)
+    reporter.step(f'Bibliography backup created: {backup.name}')
     return f'Collected {len(records)} publications; unavailable: {len(absent)}; backup: {backup}'

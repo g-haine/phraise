@@ -10,7 +10,6 @@ import html
 import os
 from pathlib import Path
 import re
-import sys
 from urllib.parse import quote, urlsplit
 
 import requests
@@ -19,7 +18,7 @@ from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 from dotenv import dotenv_values
 
-from .common import clean_metadata
+from .common import clean_metadata, Reporter
 
 
 class MetadataError(ValueError):
@@ -31,9 +30,10 @@ class MetadataError(ValueError):
 
 
 class Client:
-    def __init__(self, root: Path, session=None):
+    def __init__(self, root: Path, session=None, reporter=None):
         self.config = {**dotenv_values(root / '.env'), **os.environ}
         self.session = session or requests.Session()
+        self.reporter = reporter or Reporter()
         self._semantic_scholar_limited = False
         self._mendeley_unauthorized = False
         if session is None:
@@ -49,8 +49,13 @@ class Client:
         """
         response = None
         initial_host = urlsplit(url).hostname or 'unknown host'
+        operation = context or 'HTTP request'
+        self.reporter.debug(f'{operation}: GET {initial_host}')
         try:
             response = self.session.get(url, params=params, headers=headers, timeout=(5, 30), allow_redirects=True)
+            final_host = urlsplit(response.url).hostname if isinstance(response.url, str) else initial_host
+            redirect = f' -> {final_host}' if final_host and final_host != initial_host else ''
+            self.reporter.debug(f'{operation}: HTTP {response.status_code} from {initial_host}{redirect}')
             if response.status_code == 404:
                 return None
             final_url = response.url if isinstance(response.url, str) else url
@@ -105,7 +110,8 @@ class Client:
 
     def crossref(self, doi):
         response = self.json(f'https://api.crossref.org/works/{quote(doi, safe="")}',
-                             params={'mailto': self.config['MAIL']} if self.config.get('MAIL') else {})
+                             params={'mailto': self.config['MAIL']} if self.config.get('MAIL') else {},
+                             context=f'CrossRef metadata for DOI {doi}')
         if response is None:
             return None
         if not isinstance(response, dict) or response.get('status') != 'ok' or not isinstance(response.get('message'), dict):
@@ -125,13 +131,17 @@ class Client:
             encoded = quote(doi, safe='')
             if provider == 'elsevier':
                 data = self.json(f'https://api.elsevier.com/content/article/doi/{encoded}',
-                                 headers={'Accept': 'application/json', 'X-ELS-APIKey': self.key('SCOPUS_API_KEY')})
+                                 headers={'Accept': 'application/json', 'X-ELS-APIKey': self.key('SCOPUS_API_KEY')},
+                                 context=f'Scopus metadata for DOI {doi}')
             elif provider == 'springer':
                 data = self.json('https://api.springernature.com/meta/v2/json',
-                                 params={'q': f'doi:{doi}', 'api_key': self.key('SPRINGER_API_KEY')})
+                                 params={'q': f'doi:{doi}', 'api_key': self.key('SPRINGER_API_KEY')},
+                                 context=f'Springer metadata for DOI {doi}')
             else:
                 data = self.json(f'https://ieeexploreapi.ieee.org/api/v1/articles/doi/{encoded}',
-                                 params={'apikey': self.key('IEEE_API_KEY'), 'format': 'json'})
+                                 params={'apikey': self.key('IEEE_API_KEY'), 'format': 'json'},
+                                 context=f'IEEE metadata for DOI {doi}')
+            self.reporter.detail(f'{doi}: publisher enrichment from {provider}')
             result = extract_provider(provider, data or {})
         return result
 
@@ -155,14 +165,16 @@ class Client:
         if not self._semantic_scholar_limited:
             try:
                 data = self.json(f'https://api.semanticscholar.org/graph/v1/paper/DOI:{quote(doi, safe="")}',
-                                 params={'fields': 'abstract'})
+                                 params={'fields': 'abstract'},
+                                 context=f'Semantic Scholar abstract for DOI {doi}')
             except MetadataError as error:
                 if error.status_code != 429:
                     raise
                 self._semantic_scholar_limited = True
-                print('phraise: warning: Semantic Scholar HTTP 429; skipping this optional '
-                      'abstract provider for the rest of this run. Some abstracts may remain '
-                      'unavailable; Mendeley will still be tried when configured.', file=sys.stderr)
+                self.reporter.warning(
+                    'Semantic Scholar HTTP 429; skipping this optional abstract provider for '
+                    'the rest of this run. Some abstracts may remain unavailable; Mendeley '
+                    'will still be tried when configured.')
         if isinstance(data, dict) and data.get('abstract'):
             candidates.append(data['abstract'])
         # Mendeley is optional; no token means no request to its authenticated API.
@@ -170,18 +182,20 @@ class Client:
             try:
                 data = self.json('https://api.mendeley.com/catalog', params={'doi': doi, 'view': 'all'}, headers={
                     'Accept': 'application/vnd.mendeley-document.1+json',
-                    'Authorization': f'Bearer {self.config["MENDELEY_API_KEY"]}'})
+                    'Authorization': f'Bearer {self.config["MENDELEY_API_KEY"]}'},
+                    context=f'Mendeley catalog for DOI {doi}')
             except MetadataError as error:
                 if error.status_code != 401:
                     raise
                 self._mendeley_unauthorized = True
                 data = None
-                print('phraise: warning: Mendeley HTTP 401; skipping this optional abstract '
-                      'provider for the rest of this run. Check MENDELEY_API_KEY before a '
-                      'future run. Existing abstracts are retained; some may remain unavailable.',
-                      file=sys.stderr)
+                self.reporter.warning(
+                    'Mendeley HTTP 401; skipping this optional abstract provider for the rest '
+                    'of this run. Check MENDELEY_API_KEY before a future run. Existing '
+                    'abstracts are retained; some may remain unavailable.')
             if isinstance(data, list) and data and data[0].get('link'):
-                page = self.request(data[0]['link'], headers={'User-Agent': 'PHRAISE abstract-fallback', 'Accept': 'text/html'})
+                page = self.request(data[0]['link'], headers={'User-Agent': 'PHRAISE abstract-fallback', 'Accept': 'text/html'},
+                                    context=f'Mendeley abstract page for DOI {doi}')
                 if page is not None:
                     abstract = mendeley_abstract(page.text)
                     if abstract:
@@ -193,7 +207,8 @@ class Client:
                   'sort': 'publication_date:desc', 'cursor': cursor}
         if self.config.get('OPENALEX_API_KEY'):
             params['api_key'] = self.config['OPENALEX_API_KEY']
-        data = self.json('https://api.openalex.org/works', params=params)
+        data = self.json('https://api.openalex.org/works', params=params,
+                         context='OpenAlex discovery')
         if not isinstance(data, dict) or not isinstance(data.get('results'), list) or not isinstance(data.get('meta'), dict):
             raise MetadataError('OpenAlex: unexpected page response')
         return data
