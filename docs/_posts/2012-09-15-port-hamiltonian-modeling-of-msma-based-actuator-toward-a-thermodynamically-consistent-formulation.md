@@ -1,7 +1,7 @@
 ---
-title: "Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation* *The contribution of authors has been done within the context of the French National Research Agency sponsored project HAMECMOPSYS number ANR-11-BS03-0002. Further information is available at www.hamecmopsys.ens2m.fr/."
+title: "Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation"
 date: 2012-09-15 00:00:00 +0100
-permalink: port-hamiltonian-modeling-of-msma-based-actuator-toward-a-thermodynamically-consistent-formulation-the-contribution-of-authors-has-been-done-within-the-context-of-the-french-national-research-agency-sponsored-project-hamecmopsys-number-a
+permalink: port-hamiltonian-modeling-of-msma-based-actuator-toward-a-thermodynamically-consistent-formulation
 year: 2012
 authors: N. Calchand, A. Hubert, Y. Le Gorrec
 category: proceedings
@@ -48,7 +48,7 @@ Irreversible thermodynamics; hysteresis; dissipative port Hamiltonian systems
 {% endraw %}
 {% endhighlight %}
  
-[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-modeling-of-msma-based-actuator-toward-a-thermodynamically-consistent-formulation-the-contribution-of-authors-has-been-done-within-the-context-of-the-french-national-research-agency-sponsored-project-hamecmopsys-number-a.bib)
+[Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-modeling-of-msma-based-actuator-toward-a-thermodynamically-consistent-formulation.bib)
  
 ## References
 - Bhattacharya, (2003)

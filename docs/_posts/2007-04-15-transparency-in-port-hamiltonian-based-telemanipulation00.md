@@ -3,7 +3,7 @@ title: "Transparency in Port-Hamiltonian Based Telemanipulation"
 date: 2007-04-15 00:00:00 +0100
 permalink: transparency-in-port-hamiltonian-based-telemanipulation00
 year: 2007
-authors: 
+authors: ""
 category: chapters
 ---
  

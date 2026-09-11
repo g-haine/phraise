@@ -3,7 +3,7 @@ title: "Transient stabilization of multimachine power systems with nontrivial tr
 date: 2005-01-17 00:00:00 +0100
 permalink: transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances
 year: 2005
-authors: 
+authors: ""
 category: articles
 ---
  

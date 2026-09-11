@@ -3,7 +3,7 @@ title: "Interconnection and Damping Assignment Passivity for the Control of PV/B
 date: 2022-03-25 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-for-the-control-of-pv-battery-hybrid-power-source-in-islanded-microgrid
 year: 2019
-authors: 
+authors: ""
 category: articles
 ---
  

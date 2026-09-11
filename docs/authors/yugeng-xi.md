@@ -7,7 +7,7 @@ permalink: /authors/yugeng-xi
 <p id='info-authors'>Alternative author names: Yugeng Xi.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2007 -- Zili Cai, Weidong Qu, Yugeng Xi, Yongjun Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-an-underactuated-bottom-heavy-airship-i-via-i-interconnection-and-damping-assignment">Stabilization of an underactuated bottom‐heavy airship<i>via</i>interconnection and damping assignment</a></h3></li>
+<li><span class='post-meta'>2007 -- Zili Cai, Weidong Qu, Yugeng Xi, Yongjun Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-an-underactuated-bottom-heavy-airship-i-via-i-interconnection-and-damping-assignment">Stabilization of an underactuated bottom‐heavy airship&lt;i&gt;via&lt;/i&gt;interconnection and damping assignment</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

@@ -7,7 +7,7 @@ permalink: /authors/shengwei-mei
 <p id='info-authors'>Alternative author names: Shengwei Mei.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2004 -- Shengwei Mei, Feng Liu, Ying Chen, Qiang Lu</span><h3><a class='post-link' href="{{ site.baseurl }}/co-ordinated-i-h-i-sub-sub-control-of-excitation-and-governor-of-hydroturbo-generator-sets-a-hamiltonian-approach">Co‐ordinated<i>H</i><sub>∞</sub>control of excitation and governor of hydroturbo‐generator sets: a Hamiltonian approach</a></h3></li>
+<li><span class='post-meta'>2004 -- Shengwei Mei, Feng Liu, Ying Chen, Qiang Lu</span><h3><a class='post-link' href="{{ site.baseurl }}/co-ordinated-i-h-i-sub-sub-control-of-excitation-and-governor-of-hydroturbo-generator-sets-a-hamiltonian-approach">Co‐ordinated&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;∞&lt;/sub&gt;control of excitation and governor of hydroturbo‐generator sets: a Hamiltonian approach</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

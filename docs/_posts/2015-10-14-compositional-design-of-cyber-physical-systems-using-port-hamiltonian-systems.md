@@ -3,7 +3,7 @@ title: "- Compositional Design of Cyber-Physical Systems Using Port-Hamiltonian 
 date: 2015-10-14 00:00:00 +0100
 permalink: compositional-design-of-cyber-physical-systems-using-port-hamiltonian-systems
 year: 2015
-authors: 
+authors: ""
 category: chapters
 ---
  

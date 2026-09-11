@@ -54,4 +54,11 @@ Structure preserving model reduction of single-input single-output port-Hamilton
 - [Wolf, T., Lohmann, B., Eid, R. & Kotyczka, P. Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces. European Journal of Control vol. 16 401–406 (2010)](passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces) -- [10.3166/ejc.16.401-406](https://doi.org/10.3166/ejc.16.401-406)
 - grimme, Krylov projection methods for model reduction (1997)
 - golub, Matrix Computations (1996)
-- gugercin, Interpolation-based <formula formulatype="inline"><tex Notation="TeX">${
+- gugercin, Interpolation-based <formula formulatype="inline"><tex Notation="TeX">${\cal H}_{2}$</tex></formula> model reduction for port-Hamiltonian systems. Proc Joint 48th IEEE Conf Decision Control 28th Chinese Control Conf (2009)
+- grimme, ENUMATH 97 (1998)
+- [Polyuga, R. V. Discussion on: “Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces”. European Journal of Control vol. 16 407–409 (2010)](discussion-on-passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces) -- [10.1016/s0947-3580(10)70672-5](https://doi.org/10.1016/s0947-3580(10)70672-5)
+- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Modeling and Control of Complex Physical Systems The Port-Hamiltonian Approach (2009)
+- Antoulas, A. C. Approximation of Large-Scale Dynamical Systems. (2005) doi:10.1137/1.9780898718713 -- [10.1137/1.9780898718713](https://doi.org/10.1137/1.9780898718713)
+- polyuga, Model Reduction of Port-Hamiltonian Systems (2010)
+

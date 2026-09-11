@@ -3,7 +3,7 @@ title: "Physics of the CPC-Autonomy: Port-Hamiltonian Dynamics and Control of Mu
 date: 2017-10-31 00:00:00 +0100
 permalink: physics-of-the-cpc-autonomy-port-hamiltonian-dynamics-and-control-of-multi-physical-networks
 year: 2017
-authors: 
+authors: ""
 category: chapters
 ---
  

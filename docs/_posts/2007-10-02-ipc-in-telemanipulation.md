@@ -3,7 +3,7 @@ title: "IPC in telemanipulation"
 date: 2007-10-02 00:00:00 +0100
 permalink: ipc-in-telemanipulation
 year: 2007
-authors: 
+authors: ""
 category: chapters
 tags:
   - angle position, hamiltonian system, impedance match, transmission control protocol, transmission line

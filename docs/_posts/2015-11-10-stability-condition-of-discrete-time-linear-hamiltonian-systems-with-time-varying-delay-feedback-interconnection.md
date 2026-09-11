@@ -47,7 +47,7 @@ This paper is concerned with stability analysis of delay feedback structures wit
 - Aoues, Canonical interconnection of discrete linear port-Hamiltonian systems. (2013)
 - Aoues, Robust stability for delayed port-Hamiltonian systems using improved Wirtinger-based inequality. (2014)
 - Feng, (2002)
-- Greenhalgh, S., Acary, V. & Brogliato, B. On preserving dissipativity properties of linear complementarity dynamical systems with the $$	heta $$ θ -method. Numerische Mathematik vol. 125 601–637 (2013) -- [10.1007/s00211-013-0553-5](https://doi.org/10.1007/s00211-013-0553-5)
+- Greenhalgh, S., Acary, V. & Brogliato, B. On preserving dissipativity properties of linear complementarity dynamical systems with the $$\theta $$ θ -method. Numerische Mathematik vol. 125 601–637 (2013) -- [10.1007/s00211-013-0553-5](https://doi.org/10.1007/s00211-013-0553-5)
 - Hetel, Equivalence between the Lyapunov-Krasovskii functionals approach for discrete delay systems and that of the stability conditions for switched systems.. Nonlinear Analysis: Hybrid Systems (2008)
 - [Kao, C.-Y. & Pasumarthy, R. Stability analysis of interconnected Hamiltonian systems under time delays. IET Control Theory &amp; Applications vol. 6 570–577 (2012)](stability-analysis-of-interconnected-hamiltonian-systems-under-time-delays) -- [10.1049/iet-cta.2011.0076](https://doi.org/10.1049/iet-cta.2011.0076)
 - Maschke, Port controlled Hamiltonian systems: modeling origins and system theoretic properties. (1992)
