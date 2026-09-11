@@ -3,7 +3,7 @@ title: "182 Port-controlled Hamiltonian systems: Modelling origins and systemthe
 date: 2008-09-12 00:00:00 +0100
 permalink: 182-port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties
 year: 1993
-authors: 
+authors: ""
 category: articles
 ---
  

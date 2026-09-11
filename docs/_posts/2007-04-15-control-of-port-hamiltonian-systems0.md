@@ -3,7 +3,7 @@ title: "Control of Port-Hamiltonian Systems"
 date: 2007-04-15 00:00:00 +0100
 permalink: control-of-port-hamiltonian-systems0
 year: 2007
-authors: 
+authors: ""
 category: chapters
 ---
  

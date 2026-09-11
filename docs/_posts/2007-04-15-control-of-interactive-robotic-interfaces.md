@@ -3,7 +3,7 @@ title: "Control of Interactive Robotic Interfaces"
 date: 2007-04-15 00:00:00 +0100
 permalink: control-of-interactive-robotic-interfaces
 year: 2007
-authors: 
+authors: ""
 category: books
 ---
  

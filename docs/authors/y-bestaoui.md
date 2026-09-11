@@ -7,7 +7,7 @@ permalink: /authors/y-bestaoui
 <p id='info-authors'>Alternative author names: Y. Bestaoui.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2017 -- Y. Bouzid, H. Siguerdidjane, Y. Bestaoui, M. Zareb</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-3d-autopilot-for-vtol-uav-under-guidance-amp-navigation-constraints">Energy Based 3D Autopilot for VTOL UAV Under Guidance &amp; Navigation Constraints</a></h3></li>
+<li><span class='post-meta'>2017 -- Y. Bouzid, H. Siguerdidjane, Y. Bestaoui, M. Zareb</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-3d-autopilot-for-vtol-uav-under-guidance-amp-navigation-constraints">Energy Based 3D Autopilot for VTOL UAV Under Guidance &amp;amp; Navigation Constraints</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

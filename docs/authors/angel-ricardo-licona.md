@@ -7,7 +7,7 @@ permalink: /authors/angel-ricardo-licona
 <p id='info-authors'>Alternative author names: Angel Ricardo Licona.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2020 -- Fei Liu, Angel Ricardo Licona, Arnaud Lelevé, Damien Eberard, Minh Tu Pham, Tanneguy Redarce</span><h3><a class='post-link' href="{{ site.baseurl }}/an-energy-based-approach-for-i-n-i-d-o-f-passive-dual-user-haptic-training-systems">An Energy-Based Approach for <i>n</i>-d.o.f. Passive Dual-User Haptic Training Systems</a></h3></li>
+<li><span class='post-meta'>2020 -- Fei Liu, Angel Ricardo Licona, Arnaud Lelevé, Damien Eberard, Minh Tu Pham, Tanneguy Redarce</span><h3><a class='post-link' href="{{ site.baseurl }}/an-energy-based-approach-for-i-n-i-d-o-f-passive-dual-user-haptic-training-systems">An Energy-Based Approach for &lt;i&gt;n&lt;/i&gt;-d.o.f. Passive Dual-User Haptic Training Systems</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

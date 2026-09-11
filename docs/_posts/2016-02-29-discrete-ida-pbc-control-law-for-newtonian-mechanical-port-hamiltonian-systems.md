@@ -54,7 +54,7 @@ This paper deals with the stability of discrete closed-loop dynamics arising fro
 - Byrnes, C. I. & Wei Lin. Losslessness, feedback equivalence, and the global stabilization of discrete-time nonlinear systems. IEEE Trans. Automat. Contr. 39, 83–98 (1994) -- [10.1109/9.273341](https://doi.org/10.1109/9.273341)
 - golo, Hamiltonian discretization of the the Telegrapher's equation. Automatica (2004)
 - ge, Lie-Poisson Hamiltonion-Jacobi theory and Lie-Poisson integrators. Physics Letters A (1988)
-- Greenhalgh, S., Acary, V. & Brogliato, B. On preserving dissipativity properties of linear complementarity dynamical systems with the $$	heta $$ θ -method. Numer. Math. 125, 601–637 (2013) -- [10.1007/s00211-013-0553-5](https://doi.org/10.1007/s00211-013-0553-5)
+- Greenhalgh, S., Acary, V. & Brogliato, B. On preserving dissipativity properties of linear complementarity dynamical systems with the $$\theta $$ θ -method. Numer. Math. 125, 601–637 (2013) -- [10.1007/s00211-013-0553-5](https://doi.org/10.1007/s00211-013-0553-5)
 - gören-sümer, A direct discrete-time IDA-PBC design method for a class of underactuated Hamiltonian systems. 18th IFAC World Congress (2011)
 - aoues, Discrete IDA-PBC design for 2D port-Hamiltonian systems. 9th IFAC Symposium on Nonlinear Control Systems Toulouse (0)
 - aoues, Hamiltonian systems discrete-time approximation: losslessness, passivity and composability. Submitted to Systems and Control Letters (0)

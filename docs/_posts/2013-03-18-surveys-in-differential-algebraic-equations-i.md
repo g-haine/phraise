@@ -3,7 +3,7 @@ title: "Surveys in Differential-Algebraic Equations I"
 date: 2013-03-18 00:00:00 +0100
 permalink: surveys-in-differential-algebraic-equations-i
 year: 2013
-authors: 
+authors: ""
 category: books
 ---
  

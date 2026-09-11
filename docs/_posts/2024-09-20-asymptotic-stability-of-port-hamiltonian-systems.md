@@ -8,7 +8,7 @@ category: proceedings
 tags:
   - Port-Hamiltonian systems
   - Stability
-  - -Semigroup
+  - "-Semigroup"
   - Infinite-dimensional systems theory
 ---
  

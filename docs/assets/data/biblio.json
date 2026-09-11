@@ -35314,6 +35314,351 @@
     ]
   },
   {
+    "doi": "10.1007/s10845-026-02961-w",
+    "type": "journal-article",
+    "title": "Physics-informed thermodynamical Hamiltonian hybrid modeling method for vibration prediction of electric spindles",
+    "authors": [
+      {
+        "given": "Xiaojian",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-7354-5767",
+        "authenticated-orcid": false,
+        "given": "Xinyu",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Huishu",
+        "family": "Jia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wei",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wentian",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yangjian",
+        "family": "Ji",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guodong",
+        "family": "Yi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lemiao",
+        "family": "Qiu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shuyou",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "abstract": "Developing high-fidelity digital twin models for electric spindles requires rigorously predicting the coupled thermal-vibration dynamics, where friction-induced heat actively drives parameter drift such as thermal stiffening and viscosity reduction. While structure-preserving frameworks like Port-Hamiltonian Neural Networks and Dissipative Hamiltonian Neural Networks excel in energy-based modeling, they predominantly treat dissipation via resistive ports or energy sinks, implicitly assuming an isothermal environment, failing to capture the reciprocal thermo-mechanical feedback, leading to substantial errors in vibration predictions. To bridge this gap, we propose a Physics-Informed Thermodynamical Hybrid Modeling Method based on the GENERIC formalism and the dissipative Hamiltonian dynamics. A Thermodynamical Hamiltonian Neural Network (THNN) is introduced to identify temperature-dependent constitutive parameters within a thermodynamically consistent physical model, rigorously tracking the conversion of dissipated mechanical work into entropy and temperature evolution and thereby closing the thermo-mechanical loop by design. Through a comprehensive proof-of-concept validated under diverse benchmark scenarios, including noise robustness and parameter sensitivity analyses, we demonstrate that THNN reduces the MAE by 44.1% compared to state-of-the-art baselines while maintaining strict adherence to the First and Second Laws of Thermodynamics. The compact architecture (4.9 K parameters) achieves superior accuracy through physics-informed structural constraints rather than model capacity, establishing a methodological approach for vibration prediction of electric spindles.",
+    "journal": "Journal of Intelligent Manufacturing",
+    "year": "2026",
+    "volume": "",
+    "issue": "",
+    "event": "",
+    "isbn": "",
+    "pages": "",
+    "publisher": "Springer Science and Business Media LLC",
+    "keywords": "dissipative hamiltonian system, electric spindles, hybrid modeling, non-linear dynamics, physics-informed neural network",
+    "dateY": "2026",
+    "dateM": "9",
+    "dateD": "9",
+    "permalink": "physics-informed-thermodynamical-hamiltonian-hybrid-modeling-method-for-vibration-prediction-of-electric-spindles",
+    "references": [
+      {
+        "doi": "10.1007/s11071-023-08618-0",
+        "title": ""
+      },
+      {
+        "doi": "10.1007/s11071-024-10163-3",
+        "title": "Abbasi A, Kambali PN, Shahidi P, Nataraj C (2024) Physics-informed machine learning for modeling multidimensional dynamics. Nonlinear Dyn 112(24):21565–21585. https://doi.org/10.1007/s11071-024-10163-"
+      },
+      {
+        "doi": "10.1016/j.mechatronics.2020.102436",
+        "title": "Aggogeri F, Merlo A, Pellegrini N (2020) Modeling the thermo-mechanical deformations of machine tool structures in CFRP material adopting data-driven prediction schemes. Mechatronics 71:102436. https://doi.org/10.1016/j.mechatronics.2020.10243"
+      },
+      {
+        "doi": "10.48550/arXiv.1807.09822",
+        "title": "Badlyan AM, Zimmer C (2018) Operator-GENERIC Formulation of Thermodynamics of Irreversible Processe"
+      },
+      {
+        "doi": "10.1007/s11831-014-9111-2",
+        "title": "Baur U, Benner P, Feng L (2014) Model Order Reduction for Linear and Nonlinear Systems: A System-Theoretic Perspective. Arch Computat Methods Eng 21(4):331–358. https://doi.org/10.1007/s11831-014-9111-"
+      },
+      {
+        "doi": "10.1016/j.cma.2024.117210",
+        "title": "Bermejo-Barbanoj C, Moya B, Badías A, Chinesta F, Cueto E (2024) Thermodynamics-informed super-resolution of scarce temporal dynamics data. Computer Methods in Applied Mechanics and Engineering 430:117210. https://doi.org/10.1016/j.cma.2024.11721"
+      },
+      {
+        "doi": "10.54254/2755-2721/2025.GL24473",
+        "title": "Cao H (2025) Dynamic Modeling of Rolling Bearings under Dynamic Contact Conditions. ACE 172(1):52–58. https://doi.org/10.54254/2755-2721/2025.gl2447"
+      },
+      {
+        "doi": "10.48550/arXiv.1909.13334",
+        "title": "Chen Z, Zhang J, Arjovsky M, Bottou L (2019) Symplectic Recurrent Neural Networks. arXiv. https://doi.org/10.48550/ARXIV.1909.1333"
+      },
+      {
+        "doi": "10.48550/arXiv.2003.04630",
+        "title": "Cranmer M, Greydanus S, Hoyer S, Battaglia P, Spergel D, Ho S (2020) Lagrangian Neural Network"
+      },
+      {
+        "doi": "10.1016/B978-0-12-816176-0.00026-0",
+        "title": "DiPietro R, Hager GD (2020) Deep learning: RNNs and LSTM. Handbook of Medical Image Computing and Computer Assisted Intervention 503–51"
+      },
+      {
+        "doi": "10.5829/idosi.ije.2017.30.03c.15",
+        "title": "(2017) The Effect of Damping and Stiffness of Bearing on the Natural Frequencies of Rotor-bearing System. IJE 30(3). https://doi.org/10.5829/idosi.ije.2017.30.03c.1"
+      },
+      {
+        "doi": "10.3390/app13095299",
+        "title": "Feng Z, Min X, Jiang W, Song F, Li X (2023) Study on Thermal Error Modeling for CNC Machine Tools Based on the Improved Radial Basis Function Neural Network. Applied Sciences 13(9):5299. https://doi.org/10.3390/app1309529"
+      },
+      {
+        "doi": "10.48550/arXiv.1906.01563",
+        "title": "Greydanus S, Dzamba M, Yosinski J (2019) Hamiltonian Neural Network"
+      },
+      {
+        "doi": "10.1088/2399-6528/aab642",
+        "title": "Grmela M (2018) GENERIC guide to the multiscale dynamics and thermodynamics. J Phys Commun 2(3):032001. https://doi.org/10.1088/2399-6528/aab64"
+      },
+      {
+        "doi": "10.1103/PhysRevE.56.6620",
+        "title": "Grmela M, Öttinger HC (1997) Dynamics and thermodynamics of complex fluids.  I. Development of a general formalism. Phys Rev E 56(6):6620–6632. https://doi.org/10.1103/physreve.56.662"
+      },
+      {
+        "doi": "10.1109/TAI.2022.3179681",
+        "title": "Hernández Q, Badías A, Chinesta F, Cueto E (2024) Thermodynamics-Informed Graph Neural Networks. IEEE Trans Artif Intell 5(3):967–976. https://doi.org/10.1109/tai.2022.317968"
+      },
+      {
+        "doi": "10.1016/j.jcp.2020.109950",
+        "title": "Hernández Q, Badías A, González D, Chinesta F, Cueto E (2021) Structure-preserving neural networks. Journal of Computational Physics 426:109950. https://doi.org/10.1016/j.jcp.2020.10995"
+      },
+      {
+        "doi": "10.1016/0893-6080(90)90005-6",
+        "title": "Hornik K, Stinchcombe M, White H (1990) Universal approximation of an unknown mapping and its derivatives using multilayer feedforward networks. Neural Networks 3(5):551–560. https://doi.org/10.1016/0893-6080(90)90005-"
+      },
+      {
+        "doi": "10.1016/j.ijmachtools.2009.10.001",
+        "title": "Jiang S, Mao H (2010) Investigation of variable optimum preload for a machine tool spindle. International Journal of Machine Tools and Manufacture 50(1):19–28. https://doi.org/10.1016/j.ijmachtools.2009.10.00"
+      },
+      {
+        "doi": "10.1142/S2630534825500056",
+        "title": "JIN B, XU X (2025) LATE AND EARLY INDICA RICE’S PRICE FORECASTS THROUGH NEURAL NETWORKS. Int J Big Data Mini Glob Warm 07(02). https://doi.org/10.1142/s263053482550005"
+      },
+      {
+        "doi": "10.1142/S2737599425500367",
+        "title": "Jin B, Xu X (2025) Chinese energy security index price forecasting through the neural network. Innov Emerg Technol 12. https://doi.org/10.1142/s273759942550036"
+      },
+      {
+        "doi": "null",
+        "title": "B Jin, Quality & Quantity (2026)"
+      },
+      {
+        "doi": "10.1142/S1752890926500042",
+        "title": "Jin B, Xu X (2026) Contemporaneous Causal Analysis of Housing Prices Across Guangdong’s Major Cities: Employing Vector Error-Correction Modeling and Directed Acyclic Graphs. J Uncert Sys. https://doi.org/10.1142/s175289092650004"
+      },
+      {
+        "doi": "10.1016/j.matdes.2024.113086",
+        "title": "Jin L, Zhai X, Wang K, Zhang K, Wu D, Nazir A, Jiang J, Liao W-H (2024) Big data, machine learning, and digital twin assisted additive manufacturing: A review. Materials &amp; Design 244:113086. https://doi.org/10.1016/j.matdes.2024.11308"
+      },
+      {
+        "doi": "10.1016/j.cirpj.2020.02.002",
+        "title": "Jones D, Snider C, Nassehi A, Yon J, Hicks B (2020) Characterising the Digital Twin: A systematic literature review. CIRP Journal of Manufacturing Science and Technology 29:36–52. https://doi.org/10.1016/j.cirpj.2020.02.00"
+      },
+      {
+        "doi": "10.7315/JCDE.2014.021",
+        "title": "Lee CG, Park SC (2014) Survey on the virtual commissioning of manufacturing systems. Journal of Computational Design and Engineering 1(3):213–222. https://doi.org/10.7315/jcde.2014.02"
+      },
+      {
+        "doi": "10.48550/arXiv.2102.04626",
+        "title": "Lu L, Pestourie R, Yao W, Wang Z, Verdugo F, Johnson SG (2021) Physics-informed neural networks with hard constraints for inverse desig"
+      },
+      {
+        "doi": "10.1016/j.ijheatmasstransfer.2011.10.021",
+        "title": "Mahbubul IM, Saidur R, Amalina MA (2012) Latest developments on the viscosity of nanofluids. International Journal of Heat and Mass Transfer 55(4):874–885. https://doi.org/10.1016/j.ijheatmasstransfer.2011.10.02"
+      },
+      {
+        "doi": "10.48550/arXiv.1909.02702",
+        "title": "Massaroli S, Poli M, Califano F, Faragasso A, Park J, Yamashita A, Asama H (2019) Port-Hamiltonian Approach to Neural Network Trainin"
+      },
+      {
+        "doi": "10.1016/j.cirp.2012.05.008",
+        "title": "Mayr J, Jedrzejewski J, Uhlmann E, Alkan Donmez M, Knapp W, Härtig F, Wendt K, Moriwaki T, Shore P, Schmitt R, Brecher C, Würz T, Wegener K (2012) Thermal issues in machine tools. CIRP Annals 61(2):771–791. https://doi.org/10.1016/j.cirp.2012.05.00"
+      },
+      {
+        "doi": "10.1088/0143-0807/36/3/035014",
+        "title": "Minguzzi E (2015) Rayleigh’s dissipation function at work. Eur J Phys 36(3):035014. https://doi.org/10.1088/0143-0807/36/3/03501"
+      },
+      {
+        "doi": "10.48550/arXiv.1810.08470",
+        "title": "Öttinger HC (2018) GENERIC: Review of successful applications and a challenge for the future. arXiv. https://doi.org/10.48550/ARXIV.1810.0847"
+      },
+      {
+        "doi": "10.1103/PhysRevE.56.6633",
+        "title": "Öttinger HC, Grmela M (1997) Dynamics and thermodynamics of complex fluids.  II. Illustrations of a general formalism. Phys Rev E 56(6):6633–6655. https://doi.org/10.1103/physreve.56.663"
+      },
+      {
+        "doi": "10.1109/JMMCT.2023.3236946",
+        "title": "Qi S, Sarris CD (2023) Electromagnetic-Thermal Analysis With FDTD and Physics-Informed Neural Networks. IEEE J Multiscale Multiphys Comput Tech 8:49–59. https://doi.org/10.1109/jmmct.2023.323694"
+      },
+      {
+        "doi": "10.1016/j.jcp.2018.10.045",
+        "title": "Raissi M, Perdikaris P, Karniadakis GE (2019) Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. Journal of Computational Physics 378:686–707. https://doi.org/10.1016/j.jcp.2018.10.04"
+      },
+      {
+        "doi": "10.3390/e24101478",
+        "title": "Ramirez H, Le Gorrec Y (2022) An Overview on Irreversible Port-Hamiltonian Systems. Entropy 24(10):1478. https://doi.org/10.3390/e2410147"
+      },
+      {
+        "doi": "10.48550/arXiv.2502.02480",
+        "title": "Roth FJ, Klein DK, Kannapinn M, Peters J, Weeger O (2025) Stable Port-Hamiltonian Neural Network"
+      },
+      {
+        "doi": "10.48550/arXiv.2201.10085",
+        "title": "Sosanya A, Greydanus S (2022) Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separatel"
+      },
+      {
+        "doi": "10.1115/1.2910898",
+        "title": "Srikantha Phani A, Adhikari S (2008) Rayleigh Quotient and Dissipative Systems. Journal of Applied Mechanics 75(6). https://doi.org/10.1115/1.291089"
+      },
+      {
+        "doi": "10.3390/machines10121233",
+        "title": "von Hahn T, Mechefske CK (2022) Machine Learning in CNC Machining: Best Practices. Machines 10(12):1233. https://doi.org/10.3390/machines1012123"
+      },
+      {
+        "doi": "10.1016/j.inffus.2025.104108",
+        "title": "Wang K, Liang X, Xu J, Zhang S, Tan J (2026) Style-augmented large-scale vision model with domain-generalized knowledge fusion for anomaly detection in powder bed additive manufacturing. Information Fusion 130:104108. https://doi.org/10.1016/j.inffus.2025.10410"
+      },
+      {
+        "doi": "10.1016/j.jii.2025.100795",
+        "title": "Wang K, Lin H, Fang N, Xu J, Zhang S, Tan J, Qin J, Liang X (2025) Cross-patch graph transformer enforced by contrastive information fusion for energy demand forecasting towards sustainable additive manufacturing. Journal of Industrial Information Integration 45:100795. https://doi.org/10.1016/j.jii.2025.10079"
+      },
+      {
+        "doi": "10.1007/s10845-025-02589-2",
+        "title": "Wang K, Liu L, Xu C, Zou J, Lin H, Fang N, Jiang J (2025) Towards label-free defect detection in additive manufacturing via dual-classifier semi-supervised learning for vision-language models. J Intell Manuf 37(3):1163–1178. https://doi.org/10.1007/s10845-025-02589-"
+      },
+      {
+        "doi": "10.1016/j.eswa.2026.132830",
+        "title": "Wang K, Wang Z, Song X, Zhang Y, Liu X, Xu J, Zhang S, Tan J (2026) Physical-wavelet contextualized learning for isomerous locus decoupling in additive manufacturing. Expert Systems with Applications 327:132830. https://doi.org/10.1016/j.eswa.2026.13283"
+      },
+      {
+        "doi": "10.1016/j.ymssp.2018.05.028",
+        "title": "Xi S, Cao H, Chen X (2019) Dynamic modeling of spindle bearing system and vibration response investigation. Mechanical Systems and Signal Processing 114:486–511. https://doi.org/10.1016/j.ymssp.2018.05.02"
+      },
+      {
+        "doi": "10.1016/j.mlwa.2021.100035",
+        "title": "Xu X, Zhang Y (2021) Individual time series and composite forecasting of the Chinese stock index. Machine Learning with Applications 5:100035. https://doi.org/10.1016/j.mlwa.2021.10003"
+      },
+      {
+        "doi": "10.1016/j.ijmachtools.2004.09.004",
+        "title": "Yang H, Ni J (2005) Dynamic neural network modeling for nonlinear, nonstationary machine tool thermally induced error. International Journal of Machine Tools and Manufacture 45(4–5):455–465. https://doi.org/10.1016/j.ijmachtools.2004.09.00"
+      },
+      {
+        "doi": "10.1016/j.scient.2012.01.004",
+        "title": "Zahedi A, Movahhedy MR (2012) Thermo-mechanical modeling of high speed spindles. Scientia Iranica 19(2):282–293. https://doi.org/10.1016/j.scient.2012.01.00"
+      },
+      {
+        "doi": "10.1007/s00170-022-09498-1",
+        "title": "Zhang Y, Xu X (2022) Machine learning surface roughnesses in turning processes of brass metals. Int J Adv Manuf Technol 121(3–4):2437–2444. https://doi.org/10.1007/s00170-022-09498-"
+      },
+      {
+        "doi": "10.1098/rsta.2021.0207",
+        "title": "Zhang Z, Shin Y, Em Karniadakis G (2022) GFINNs: GENERIC formalism informed neural networks for deterministic and stochastic dynamical systems. Phil Trans R Soc A 380(2229). https://doi.org/10.1098/rsta.2021.020"
+      }
+    ]
+  },
+  {
     "doi": "10.1007/s10846-016-0441-1",
     "type": "journal-article",
     "title": "Energy Based 3D Autopilot for VTOL UAV Under Guidance &amp; Navigation Constraints",
@@ -53282,6 +53627,275 @@
       {
         "doi": "10.1016/j.ref.2025.100795",
         "title": "Oyuela-Ocampo J-C, Garcés-Ruiz A, Gil-González W (2026) Generalized model-predictive control for supercapacitor and superconducting magnetic energy storage systems. Renewable Energy Focus 57:100795. https://doi.org/10.1016/j.ref.2025.10079"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.apm.2026.117268",
+    "type": "journal-article",
+    "title": "Passivity-based adaptive integral control for underactuated mechanical systems and its application in tower cranes",
+    "authors": [
+      {
+        "given": "Shuaixin",
+        "family": "Hou",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6489-6131",
+        "authenticated-orcid": false,
+        "given": "Lijun",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tianfei",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaoping",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Na",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Renhan",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cungen",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "abstract": "This study proposes a novel adaptive integral controller integrated with the interconnection and damping assignment passivity-based control framework for underactuated mechanical systems, and applies it to tower cranes. First, an underactuated system model with uncertainties is constructed based on Port-controlled Hamiltonian structure. Subsequently, using a state transformation, an adaptive integral controller is designed to realize real-time estimation of unknown parameters and reduce steady-state errors. The stability of the closed-loop system under uncertainties is rigorously proven via the Lyapunov candidate function based on the Hamiltonian energy. Then, a constructive approach without additional parameter constraints is presented to obtain the solution of partial differential equations. Finally, the proposed controller is applied to an underactuated tower crane system, and the control parameters are determined by the pole placement method to reduce time and effort spent on parameter tuning. Experimental results demonstrate that, under the action of the proposed controller, the mean absolute tracking errors of the jib and the trolley remain within 0.9251 deg and 0.0175 m, and the mean absolute swing angles of the load are effectively suppressed within 0.1399 deg and 0.2239 deg, which fully complies with the performance specifications for industrial applications.",
+    "journal": "Applied Mathematical Modelling",
+    "year": "2027",
+    "volume": "163",
+    "issue": "",
+    "event": "",
+    "isbn": "",
+    "pages": "117268",
+    "publisher": "Elsevier BV",
+    "keywords": "adaptive integral control, partial differential equations, passivity-based control, tower cranes with uncertainties, underactuated mechanical systems",
+    "dateY": "2026",
+    "dateM": "8",
+    "dateD": "24",
+    "permalink": "passivity-based-adaptive-integral-control-for-underactuated-mechanical-systems-and-its-application-in-tower-cranes",
+    "references": [
+      {
+        "doi": "10.1016/j.apm.2025.116598",
+        "title": "Wei X, Song X, Zhang H, Hu X, Li X (2026) Disturbance-observer-based tracking trajectory control of under-actuated surface vessel with input and output constraints. Applied Mathematical Modelling 153:116598. https://doi.org/10.1016/j.apm.2025.11659"
+      },
+      {
+        "doi": "10.1109/TII.2022.3211980",
+        "title": "Harandi MRJ, Khalilpour SA, Taghirad HD (2023) Adaptive Energy Shaping Control of a 3-DOF Underactuated Cable-Driven Parallel Robot. IEEE Trans Ind Inf 19(6):7552–7560. https://doi.org/10.1109/tii.2022.321198"
+      },
+      {
+        "doi": "10.1016/j.jfranklin.2025.107834",
+        "title": "Nekoo SR, Arrue BC, Ollero A (2025) Finite-time port-controlled Hamiltonian design for second-order dynamical systems. Journal of the Franklin Institute 362(12):107834. https://doi.org/10.1016/j.jfranklin.2025.10783"
+      },
+      {
+        "doi": "10.1109/TIV.2024.3417213",
+        "title": "Gong J, Guo S, Shen H, Wei W, Long Y (2025) Path-Tracking Cascade Control of Hydraulic- Tracked Vehicles Based on Port-Controlled Hamiltonian Model. IEEE Trans Intell Veh 10(1):654–667. https://doi.org/10.1109/tiv.2024.341721"
+      },
+      {
+        "doi": "10.1109/TIE.2025.3561840",
+        "title": "Yuan C, Martin J-P, Pierfederici S, Vuillemin E, Phattanasak M, Huangfu Y (2025) Large Signal Stabilization at System Level Using Port-Hamiltonian System Theory for Modular Islanded DC Microgrids. IEEE Trans Ind Electron 72(11):11381–11394. https://doi.org/10.1109/tie.2025.356184"
+      },
+      {
+        "doi": "10.1109/TIE.2024.3454485",
+        "title": "Sun J, Xing X, Zhang R, Zhang C (2025) An Enhanced Transient Angle Stability Scheme of VSG Based on the PCH Theory. IEEE Trans Ind Electron 72(4):3861–3871. https://doi.org/10.1109/tie.2024.345448"
+      },
+      {
+        "doi": "10.1016/j.jfranklin.2021.08.034",
+        "title": "Harandi MRJ, Taghirad HD (2021) On the matching equations of kinetic energy shaping in IDA-PBC. Journal of the Franklin Institute 358(16):8639–8655. https://doi.org/10.1016/j.jfranklin.2021.08.03"
+      },
+      {
+        "doi": "10.1016/j.isatra.2020.01.013",
+        "title": "Gheibi A, Ghiasi AR, Ghaemi S, Badamchizadeh MA (2020) Interconnection and damping assignment control based on modified actor–critic algorithm with wavelet function approximation. ISA Transactions 101:116–129. https://doi.org/10.1016/j.isatra.2020.01.01"
+      },
+      {
+        "doi": "10.1080/00207179.2021.1972345",
+        "title": "Harandi MRJ, Taghirad HD (2021) Solution of matching equations of IDA-PBC by Pfaffian differential equations. International Journal of Control 95(12):3368–3378. https://doi.org/10.1080/00207179.2021.197234"
+      },
+      {
+        "doi": "10.1016/j.ejcon.2015.12.001",
+        "title": "Ryalat M, Laila DS (2016) A simplified IDA-PBC design for underactuated mechanical systems with applications. European Journal of Control 27:1–16. https://doi.org/10.1016/j.ejcon.2015.12.00"
+      },
+      {
+        "doi": "10.1007/s12555-020-0839-1",
+        "title": "Arpenti P, Ruggiero F, Lippiello V (2022) A Constructive Methodology for the IDA-PBC of Underactuated 2-DoF Mechanical Systems with Explicit Solution of PDEs. Int J Control Autom Syst 20(1):283–297. https://doi.org/10.1007/s12555-020-0839-"
+      },
+      {
+        "doi": "10.1002/rnc.3615",
+        "title": "Donaire A, Romero JG, Ortega R, Siciliano B, Crespo M (2016) Robust IDA-PBC for underactuated mechanical systems subject to matched disturbances. Int J Robust Nonlinear Control 27(6):1000–1016. https://doi.org/10.1002/rnc.361"
+      },
+      {
+        "doi": "10.1109/TAC.2018.2797191",
+        "title": "Ryalat M, Laila DS (2018) A Robust IDA-PBC Approach for Handling Uncertainties in Underactuated Mechanical Systems. IEEE Trans Automat Contr 63(10):3495–3502. https://doi.org/10.1109/tac.2018.279719"
+      },
+      {
+        "doi": "10.1016/j.apm.2026.116852",
+        "title": "Guerrero-Sánchez ME, Valencia-Palomo G, Hernández-González O (2026) Interconnection and damping assignment-passivity-based control for boosting robust performance in under-actuated mechanical systems. Applied Mathematical Modelling 157:116852. https://doi.org/10.1016/j.apm.2026.11685"
+      },
+      {
+        "doi": "10.1002/asjc.2540",
+        "title": "García‐Beltrán CD, Miranda‐Araujo EM, Guerrero‐Sanchez ME, Valencia‐Palomo G, Hernández‐González O, Gómez‐Peñate S (2021) Passivity‐based control laws for an unmanned powered parachute aircraft. Asian Journal of Control 23(5):2087–2096. https://doi.org/10.1002/asjc.254"
+      },
+      {
+        "doi": "10.1016/j.chaos.2026.117989",
+        "title": "Gong J, Guo S, Chen J, Cai D, He L, Wei W, Long Y (2026) Adaptive neural network passivity-based control with state observer for partially unknown nonlinear systems. Chaos, Solitons &amp; Fractals 207:117989. https://doi.org/10.1016/j.chaos.2026.11798"
+      },
+      {
+        "doi": "10.1134/S0005117925600922",
+        "title": "Can E (2025) Learning-Augmented IDA–PBC for Underactuated Mechanical Systems with Unmeasured Actuator Dynamics and Unmatched Disturbances. Autom Remote Control 86(9–12):305–321. https://doi.org/10.1134/s000511792560092"
+      },
+      {
+        "doi": "10.1007/s11071-021-06776-7",
+        "title": "Guerrero-Sánchez ME, Hernández-González O, Valencia-Palomo G, Mercado-Ravell DA, López-Estrada FR, Hoyo-Montaño JA (2021) Robust IDA-PBC for under-actuated systems with inertia matrix dependent of the unactuated coordinates: application to a UAV carrying a load. Nonlinear Dyn 105(4):3225–3238. https://doi.org/10.1007/s11071-021-06776-"
+      },
+      {
+        "doi": "10.1002/rnc.7870",
+        "title": "Franco E, Ryalat M (2025) Position‐Feedback Integral IDA‐PBC for Constant Matched and Unmatched Disturbances. Intl J Robust &amp; Nonlinear 35(9):3623–3639. https://doi.org/10.1002/rnc.787"
+      },
+      {
+        "doi": "10.1080/00207179.2019.1622039",
+        "title": "Franco E (2019) IDA-PBC with adaptive friction compensation for underactuated mechanical systems. International Journal of Control 94(4):860–870. https://doi.org/10.1080/00207179.2019.162203"
+      },
+      {
+        "doi": "10.1080/00207179.2020.1857440",
+        "title": "Gandarilla I, Santibáñez V, Sandoval J, Campa R (2020) Joint position regulation of a class of underactuated mechanical systems affected by LuGre dynamic friction via the IDA-PBC method. International Journal of Control 95(6):1419–1431. https://doi.org/10.1080/00207179.2020.185744"
+      },
+      {
+        "doi": "10.1007/s12555-019-1019-z",
+        "title": "Ryalat M, Laila DS, ElMoaqet H (2020) Adaptive Interconnection and Damping Assignment Passivity Based Control for Underactuated Mechanical Systems. Int J Control Autom Syst 19(2):864–877. https://doi.org/10.1007/s12555-019-1019-"
+      },
+      {
+        "doi": "10.1016/j.ymssp.2025.112513",
+        "title": "Wu Y, Wu Q, Zhang M, Guo S, Zhai M, Pang R, Sun N (2025) A model predictive control method for 7-DoF tower cranes with distributed mass payloads and variable rope lengths. Mechanical Systems and Signal Processing 229:112513. https://doi.org/10.1016/j.ymssp.2025.11251"
+      },
+      {
+        "doi": "10.1109/TASE.2025.3531463",
+        "title": "Yang Y, Zhang T, Zhou X, Hua C, Li J (2025) Given-Performance PID-SMC for 4-DOF Tower Crane Systems Under Input Constraints. IEEE Trans Automat Sci Eng 22:11444–11454. https://doi.org/10.1109/tase.2025.353146"
+      },
+      {
+        "doi": "10.1109/TIE.2021.3139134",
+        "title": "Zhang M, Jing X (2022) Model-Free Saturated PD-SMC Method for 4-DOF Tower Crane Systems. IEEE Trans Ind Electron 69(10):10270–10280. https://doi.org/10.1109/tie.2021.313913"
+      },
+      {
+        "doi": "10.1002/acs.3458",
+        "title": "Gu X, Zhou H, Hong M, Ye S, Guo Y (2022) Adaptive hierarchical sliding mode controller for tower cranes based on finite time disturbance observer. Adaptive Control &amp; Signal 36(9):2319–2340. https://doi.org/10.1002/acs.345"
+      },
+      {
+        "doi": "10.1016/j.isatra.2023.12.032",
+        "title": "Xia J, Ouyang H, Zhang M (2024) Fault-tolerant controller design based on adaptive backstepping for tower cranes with actuator faults. ISA Transactions 146:463–471. https://doi.org/10.1016/j.isatra.2023.12.03"
+      },
+      {
+        "doi": "10.1016/j.autcon.2024.105568",
+        "title": "Wang Z, Huang C, Yao B, Li X (2024) Integrated reinforcement and imitation learning for tower crane lift path planning. Automation in Construction 165:105568. https://doi.org/10.1016/j.autcon.2024.10556"
+      },
+      {
+        "doi": "10.1016/j.isatra.2021.07.040",
+        "title": "Zhang S, Zhu H, He X, Feng Y, Pang CK (2022) Passivity-based coupling control for underactuated three-dimensional overhead cranes. ISA Transactions 126:352–360. https://doi.org/10.1016/j.isatra.2021.07.04"
+      },
+      {
+        "doi": "null",
+        "title": "Fan, Load energy coupling-based underactuated control method on trajectory planning and antiswing for bridge cranes. J. Comput. Nonlinear Dyn. (2025)"
+      },
+      {
+        "doi": "10.1109/TCST.2023.3273902",
+        "title": "Harandi MRJ, Namvar M, Taghirad HD (2023) Stabilization of Robots With Actuator Constraints via Interconnection and Damping Assignment. IEEE Trans Contr Syst Technol 31(6):2945–2952. https://doi.org/10.1109/tcst.2023.327390"
+      },
+      {
+        "doi": "10.1109/TITS.2025.3563314",
+        "title": "Bandong S, Jayawardhana B, Sanchez-Escalonilla Plaza S, Yunazwin Nazaruddin Y, Joelianto E (2025) Modeling and Control of PRP-Gantry Crane Systems via Neural IDA-PBC. IEEE Trans Intell Transport Syst 26(8):11754–11766. https://doi.org/10.1109/tits.2025.356331"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2026.126980",
+        "title": "Jin L, Chen W, Yu S (2026) Passivity-preserving safety-critical path following cascade control of underactuated surface vehicles with disturbance rejection. Ocean Engineering 364:126980. https://doi.org/10.1016/j.oceaneng.2026.12698"
+      },
+      {
+        "doi": "null",
+        "title": "Shao, Interconnection and damping assignment passivity-based control for underactuated overhead cranes with frictions. (2024)"
+      },
+      {
+        "doi": "10.1007/s11071-024-10380-w",
+        "title": "Guerrero-Sánchez ME, Montoya-Morales JR, Valencia-Palomo G, Hernández-González O (2024) Robust IDA-PBC for non-separable PCH systems under time-varying external disturbances. Nonlinear Dyn 113(4):3499–3510. https://doi.org/10.1007/s11071-024-10380-"
+      },
+      {
+        "doi": "10.1007/s11071-023-08596-3",
+        "title": "Lei M, Wu X, Zhang Y, Ke L (2023) Super-twisting disturbance-observer-based nonlinear control of the overhead crane system. Nonlinear Dyn 111(15):14015–14025. https://doi.org/10.1007/s11071-023-08596-"
+      },
+      {
+        "doi": "10.1109/TIE.2025.3600521",
+        "title": "Wang N, Liu X, Liu C, Wu L, Sun L, Wang H (2026) Global Prescribed-Time Tracking Control of Nonlinear Systems With Unmodeled Dynamics and Its Application in Tower Crane. IEEE Trans Ind Electron 73(1):1364–1373. https://doi.org/10.1109/tie.2025.360052"
+      },
+      {
+        "doi": "10.3390/act14020056",
+        "title": "Wu R, Liu X, Chen T, Sun L, Wang N (2025) Almost Disturbance Decoupling Control Strategy for a Class of Underactuated Nonlinear Systems with Disturbances. Actuators 14(2):56. https://doi.org/10.3390/act1402005"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2025.120996",
+        "title": "Liu H, Huang H, Tian X, Zhang J (2025) Distributed fixed-time formation control for UAV-USV multiagent systems based on the FEWNN with prescribed performance. Ocean Engineering 328:120996. https://doi.org/10.1016/j.oceaneng.2025.12099"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2026.124707",
+        "title": "Liu H, Huang H, Tian X, Mai Q (2026) Distributed optimal formation control for UAV-USV multiagent systems: A FEWNN-based RL approach with self-adjusting prescribed performance. Ocean Engineering 353:124707. https://doi.org/10.1016/j.oceaneng.2026.12470"
       }
     ]
   },
@@ -115660,6 +116274,177 @@
     ]
   },
   {
+    "doi": "10.1016/j.ifacsc.2026.100441",
+    "type": "journal-article",
+    "title": "Dissipative boundary control of a 2-D Navier Stokes equation with polytopic uncertainties in the form of port-Hamiltonian formulation",
+    "authors": [
+      {
+        "given": "Fernando E.",
+        "family": "Serrano",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vicenc",
+        "family": "Puig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jesús Muñoz",
+        "family": "Pacheco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "abstract": "This paper proposes a robust dissipative boundary control for a system described by a 2-D Navier–Stokes equation with polytopic uncertainties under the port-Hamiltonian formulation. The goal of the controller is to obtain a fluid behavior that suppresses the vorticity of the waves. A complete robustness analysis, including both robust stability and robust performance, is presented. Additionally, a topological analysis of the polytopic uncertainties is performed to elucidate the open-loop system behavior. Meanwhile, the dissipative boundary-based controller is obtained by selecting an appropriate storage function. As a case study application, a wave tank is used to illustrate the approach proposed in the paper.",
+    "journal": "IFAC Journal of Systems and Control",
+    "year": "2026",
+    "volume": "37",
+    "issue": "",
+    "event": "",
+    "isbn": "",
+    "pages": "100441",
+    "publisher": "Elsevier BV",
+    "keywords": "2-d navier–stokes equation, polytopic uncertainties, robust control, wave tank",
+    "dateY": "2026",
+    "dateM": "9",
+    "dateD": "1",
+    "permalink": "dissipative-boundary-control-of-a-2-d-navier-stokes-equation-with-polytopic-uncertainties-in-the-form-of-port-hamiltonian-formulation",
+    "references": [
+      {
+        "doi": "10.1016/j.ifacol.2016.07.944",
+        "title": "Ahmed-Ali T, Giri F, Krstic M, Lamnabhi-Lagarrigue F (2016) Adaptive Observer for a Class of Output-Delayed Systems with Parameter Uncertainty - A PDE Based Approach. IFAC-PapersOnLine 49(13):158–163. https://doi.org/10.1016/j.ifacol.2016.07.94"
+      },
+      {
+        "doi": "10.1016/j.automatica.2024.112048",
+        "title": "Bastin G, Coron J-M, Hayat A (2025) The usefulness of viscosity for the robustness of boundary feedback control of an unstable fluid flow system. Automatica 173:112048. https://doi.org/10.1016/j.automatica.2024.11204"
+      },
+      {
+        "doi": "10.1016/j.automatica.2020.109295",
+        "title": "Benabdelhadi A, Giri F, Ahmed-Ali T, Krstic M, El Fadil H, Chaoui F-Z (2021) Adaptive observer design for wave PDEs with nonlinear dynamics and parameter uncertainty. Automatica 123:109295. https://doi.org/10.1016/j.automatica.2020.10929"
+      },
+      {
+        "doi": "10.1016/j.automatica.2021.109570",
+        "title": "Bhowmick P, Lanzon A (2021) Applying negative imaginary systems theory to non-square systems with polytopic uncertainty. Automatica 128:109570. https://doi.org/10.1016/j.automatica.2021.10957"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2019.05.011",
+        "title": "Boshenyatov B, Zhiltsov K (2019) Vortex suppression of tsunami-like waves by underwater barriers. Ocean Engineering 183:398–408. https://doi.org/10.1016/j.oceaneng.2019.05.01"
+      },
+      {
+        "doi": "10.1016/j.jfa.2025.111188",
+        "title": "Breit D (2025) Partial boundary regularity for the Navier–Stokes equations in irregular domains. Journal of Functional Analysis 289(12):111188. https://doi.org/10.1016/j.jfa.2025.11118"
+      },
+      {
+        "doi": "10.1016/j.na.2025.113939",
+        "title": "Chang T, Kang K (2026) Singular velocity of the Stokes and Navier–Stokes equations near boundary in the half-space. Nonlinear Analysis 262:113939. https://doi.org/10.1016/j.na.2025.11393"
+      },
+      {
+        "doi": "10.1016/j.sysconle.2015.08.007",
+        "title": "Chang X-H, Park JH, Zhou J (2015) Robust static output feedback <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si23.gif\" display=\"inline\" overflow=\"scroll\"><mml:msub><mml:mrow><mml:mi mathvariant=\"script\">H</mml:mi></mml:mrow><mml:mrow><mml:mi>∞</mml:mi></mml:mrow></mml:msub></mml:math> control design for linear systems with polytopic uncertainties. Systems &amp; Control Letters 85:23–32. https://doi.org/10.1016/j.sysconle.2015.08.00"
+      },
+      {
+        "doi": "10.1016/j.matpur.2025.103807",
+        "title": "Chen H, Li Z, Zhang P (2026) Global axisymmetric solution to the 3D incompressible anisotropic Navier–Stokes equations. Journal de Mathématiques Pures et Appliquées 205:103807. https://doi.org/10.1016/j.matpur.2025.10380"
+      },
+      {
+        "doi": "10.1016/j.automatica.2023.111431",
+        "title": "Chen S, Preciado VM, Morari M, Matni N (2024) Robust model predictive control with polytopic model uncertainty through System Level Synthesis. Automatica 162:111431. https://doi.org/10.1016/j.automatica.2023.11143"
+      },
+      {
+        "doi": "null",
+        "title": "Du, Hydrodynamic performance and wave dynamics in the moonpool of a ship. part II: Geometry effects on resistance reduction and wave suppression. Ocean Engineering (2025)"
+      },
+      {
+        "doi": "10.1016/j.camwa.2022.11.026",
+        "title": ""
+      },
+      {
+        "doi": "10.1016/j.sysconle.2023.105571",
+        "title": "Gutiérrez-Oribio D, Orlov Y, Stefanou I, Plestan F (2023) Robust boundary tracking control of wave PDE: Insight on forcing slow-aseismic response. Systems &amp; Control Letters 178:105571. https://doi.org/10.1016/j.sysconle.2023.10557"
+      },
+      {
+        "doi": "10.1016/j.jmaa.2025.130042",
+        "title": "Lin Y-X, Wang Y-G (2026) Almost sure existence of global weak solutions for incompressible generalized Navier-Stokes equations. Journal of Mathematical Analysis and Applications 555(1):130042. https://doi.org/10.1016/j.jmaa.2025.13004"
+      },
+      {
+        "doi": "10.1016/j.automatica.2018.05.029",
+        "title": "Macchelli A, Califano F (2018) Dissipativity-based boundary control of linear distributed port-Hamiltonian systems. Automatica 95:54–62. https://doi.org/10.1016/j.automatica.2018.05.02"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2026.126120",
+        "title": "Mao H, Teng J, Lin J, Yang S, Wu G, Wang W, Men Y (2026) Numerical study on the influence of mangrove density and belt width on wave attenuation characteristics under regular waves. Ocean Engineering 360:126120. https://doi.org/10.1016/j.oceaneng.2026.12612"
+      },
+      {
+        "doi": "10.1016/j.advwatres.2024.104870",
+        "title": "Panahi M, Porta GM, Riva M, Guadagnini A (2025) Modeling parametric uncertainty in PDEs models via Physics-Informed Neural Networks. Advances in Water Resources 195:104870. https://doi.org/10.1016/j.advwatres.2024.10487"
+      },
+      {
+        "doi": "null",
+        "title": "Pozrikidis, (2001)"
+      },
+      {
+        "doi": "10.1016/j.ejcon.2025.101354",
+        "title": "Raddanipour A, Shafiee M (2025) Robust iterative learning control of continuous delayed singular multi-agent systems with polytopic uncertainty and non-identical initial conditions: LMI approach. European Journal of Control 85:101354. https://doi.org/10.1016/j.ejcon.2025.10135"
+      },
+      {
+        "doi": "10.3934/math.2026074",
+        "title": "Serrano FE, Cayuela VP, Munoz-Pacheco JM (2026) Robust passivity-based boundary control of the 2-D Navier-Stokes equation with chaotic vortex. MATH 11(1):1777–1806. https://doi.org/10.3934/math.202607"
+      },
+      {
+        "doi": "10.1016/j.jde.2025.113647",
+        "title": "Wang Z, Zhu N (2025) Global well-posedness for 3D hyperbolic Navier-Stokes equations with ill-prepared initial data. Journal of Differential Equations 447:113647. https://doi.org/10.1016/j.jde.2025.11364"
+      },
+      {
+        "doi": "10.1016/j.ifacol.2025.08.090",
+        "title": "Xiao Y, Xu X, yuan Y (2025) Concurrent learning adaptive stabilization of 2 × 2 linear hyperbolic PDE systems with boundary parameter uncertainty. IFAC-PapersOnLine 59(8):196–201. https://doi.org/10.1016/j.ifacol.2025.08.09"
+      },
+      {
+        "doi": "10.1016/j.coastaleng.2025.104935",
+        "title": "Yue L, Li YP (2026) On the buoyancy production term for Reynolds-averaged modelling of breaking waves. Coastal Engineering 205:104935. https://doi.org/10.1016/j.coastaleng.2025.10493"
+      },
+      {
+        "doi": "10.1016/j.ifacol.2025.09.565",
+        "title": "Zattoni E, Bartolucci V, Perdon AM, Conte G, Scaradozzi D (2025) Model Matching Problems for Max-plus Linear Systems with Polytopic Uncertainty in the Dynamics. IFAC-PapersOnLine 59(12):43–48. https://doi.org/10.1016/j.ifacol.2025.09.56"
+      },
+      {
+        "doi": "10.1016/j.nahs.2024.101465",
+        "title": "Zattoni E, Otsuka N, Perdon AM, Conte G (2024) Model matching problems for impulsive linear systems with polytopic uncertainties. Nonlinear Analysis: Hybrid Systems 52:101465. https://doi.org/10.1016/j.nahs.2024.10146"
+      },
+      {
+        "doi": "10.1016/j.ast.2023.108470",
+        "title": "Zhang X-Y, Li Y-X, Ahn CK (2023) Prescribed finite-time boundary control of constrained flexible satellite systems with translational motion modeling. Aerospace Science and Technology 140:108470. https://doi.org/10.1016/j.ast.2023.10847"
+      },
+      {
+        "doi": "10.1016/j.automatica.2024.111956",
+        "title": "Zhao R-X, Guo B-Z, Paunonen L (2025) Robust output regulation for multi-dimensional heat equation under boundary control. Automatica 171:111956. https://doi.org/10.1016/j.automatica.2024.11195"
+      },
+      {
+        "doi": "10.1016/j.jfranklin.2025.107623",
+        "title": "Zhou W-J, Wu K-N, Liu X-Z (2025) Robust sliding mode boundary control for uncertain reaction–diffusion systems. Journal of the Franklin Institute 362(6):107623. https://doi.org/10.1016/j.jfranklin.2025.10762"
+      }
+    ]
+  },
+  {
     "doi": "10.1016/j.ijepes.2012.11.012",
     "type": "journal-article",
     "title": "Direct synchronous-asynchronous conversion system for hybrid electrical vehicle applications. An energy-based modeling approach",
@@ -156545,6 +157330,52 @@
         "title": "Bardos, C., Lebeau, G. & Rauch, J. Sharp Sufficient Conditions for the Observation, Control, and Stabilization of Waves from the Boundary. SIAM Journal on Control and Optimization vol. 30 1024–1065 (1992)"
       }
     ]
+  },
+  {
+    "doi": "10.1051/cocv/2026062",
+    "type": "journal-article",
+    "title": "BIBO stability of 1-D hyperbolic boundary control systems",
+    "authors": [
+      {
+        "given": "Felix",
+        "family": "Schwenninger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexander",
+        "family": "Wierzba",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "abstract": "We study the question of bounded-input bounded-output (BIBO) stability of a class of 1-D hyperbolic boundary control systems, which, in particular, contains distributed port-Hamiltonian systems. Exploiting the particular structure of the transfer function of these systems, we derive several sufficient conditions for BIBO stability that rely on tests for the systems defining matrix parameters.",
+    "journal": "ESAIM: Control, Optimisation and Calculus of Variations",
+    "year": "2026",
+    "volume": "",
+    "issue": "",
+    "event": "",
+    "isbn": "",
+    "pages": "",
+    "publisher": "EDP Sciences",
+    "keywords": "",
+    "dateY": "2026",
+    "dateM": "9",
+    "dateD": "3",
+    "permalink": "bibo-stability-of-1-d-hyperbolic-boundary-control-systems",
+    "references": []
   },
   {
     "doi": "10.1051/epjconf/202226800016",
@@ -250371,7 +251202,7 @@
   {
     "doi": "10.1109/tac.2026.3683628",
     "type": "journal-article",
-    "title": "<b>Neural Port-Hamiltonian Models for Nonlinear Distributed Control: An Unconstrained Parametrization Approach</b>",
+    "title": "Neural Port-Hamiltonian Models for Nonlinear Distributed Control: An Unconstrained Parameterization Approach",
     "authors": [
       {
         "ORCID": "https://orcid.org/0000-0001-6399-3036",
@@ -250381,7 +251212,16 @@
         "sequence": "first",
         "affiliation": [
           {
-            "name": "Control &amp; Automation Group, Inspire AG, Z&#x00FC;rich, Switzerland"
+            "name": "Inspire AG",
+            "place": [
+              "Zürich, Switzerland"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
           }
         ]
       },
@@ -250393,26 +251233,364 @@
         "sequence": "additional",
         "affiliation": [
           {
-            "name": "Institute of Mechanical Engineering, Ecole Polytechnique F&#x00E9;d&#x00E9;rale de Lausanne (EPFL), Lausanne, Switzerland"
+            "name": "Ecole Polytechnique Fédérale de Lausanne",
+            "place": [
+              "Lausanne, Switzerland"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
           }
         ]
       }
     ],
-    "abstract": "Not available",
+    "abstract": "The control of large-scale cyber-physical systems requires optimal distributed policies relying solely on limited communication with neighboring agents. However, computing stabilizing controllers for nonlinear systems while optimizing complex costs remains a significant challenge. Neural networks (NNs), known for their expressivity, can be leveraged to parameterize control policies that yield good performance. However, NNs' sensitivity to small input changes poses a risk of destabilizing the closed-loop system. Many existing approaches enforce constraints on the controllers' parameter space to guarantee closed-loop stability, leading to computationally expensive optimization procedures. To address these problems, we leverage the framework of port-Hamiltonian systems to design continuous-time distributed control policies for nonlinear systems that guarantee closed-loop stability and finite $\\mathcal {L}_{2}$ or incremental $\\mathcal {L}_{2}$ gains, independent of the optimization parameters of the controllers. This eliminates the need to constrain parameters during optimization, allowing the use of standard techniques such as gradient-based methods. In addition, we discuss discretization schemes that preserve the dissipation properties of these controllers for implementation on embedded systems. The effectiveness of the proposed distributed controllers is demonstrated through consensus control of nonholonomic mobile robots subject to collision avoidance and averaged voltage regulation with weighted power sharing in islanded DC microgrids.",
     "journal": "IEEE Transactions on Automatic Control",
     "year": "2026",
-    "volume": "",
-    "issue": "",
+    "volume": "71",
+    "issue": "9",
     "event": "",
     "isbn": "",
-    "pages": "1--16",
+    "pages": "6100--6115",
     "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
     "keywords": "",
     "dateY": "2026",
     "dateM": "4",
     "dateD": "13",
-    "permalink": "b-neural-port-hamiltonian-models-for-nonlinear-distributed-control-an-unconstrained-parametrization-approach-b",
-    "references": []
+    "permalink": "neural-port-hamiltonian-models-for-nonlinear-distributed-control-an-unconstrained-parameterization-approach",
+    "references": [
+      {
+        "doi": "10.1137/0306011",
+        "title": "Witsenhausen HS (1968) A Counterexample in Stochastic Optimum Control. SIAM Journal on Control 6(1):131–147. https://doi.org/10.1137/030601"
+      },
+      {
+        "doi": "10.1109/ACC.2011.5990928",
+        "title": "Lessard L, Lall S (2011) Quadratic invariance is necessary and sufficient for convexity. Proceedings of the 2011 American Control Conference 5360–536"
+      },
+      {
+        "doi": "null",
+        "title": "Furieri, Distributed neural network control with dependability guarantees: A compositional port-Hamiltonian approach. Proc. Learn. Dyn. Control Conf. (2022)"
+      },
+      {
+        "doi": "10.1146/annurev-control-042920-020211",
+        "title": "Brunke L, Greeff M, Hall AW, Yuan Z, Zhou S, Panerati J, Schoellig AP (2022) Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning. Annu Rev Control Robot Auton Syst 5(1):411–444. https://doi.org/10.1146/annurev-control-042920-02021"
+      },
+      {
+        "doi": "10.1016/j.arcontrol.2021.10.001",
+        "title": "Tsukamoto H, Chung S-J, Slotine J-JE (2021) Contraction theory for nonlinear stability analysis and learning-based control: A tutorial overview. Annual Reviews in Control 52:135–169. https://doi.org/10.1016/j.arcontrol.2021.10.00"
+      },
+      {
+        "doi": "10.1109/TRO.2022.3232542",
+        "title": "Dawson C, Gao S, Fan C (2023) Safe Control With Learned Certificates: A Survey of Neural Lyapunov, Barrier, and Contraction Methods for Robotics and Control. IEEE Trans Robot 39(3):1749–1767. https://doi.org/10.1109/tro.2022.323254"
+      },
+      {
+        "doi": "10.1109/OJCSYS.2024.3441768",
+        "title": "Furieri L, Galimberti CL, Ferrari-Trecate G (2024) Learning to Boost the Performance of Stable Nonlinear Systems. IEEE Open J Control Syst 3:342–357. https://doi.org/10.1109/ojcsys.2024.344176"
+      },
+      {
+        "doi": "10.1109/CDC56724.2024.10886677",
+        "title": "Zakwan M, Xu L, Ferrari-Trecate G (2024) Neural Exponential Stabilization of Control-affine Nonlinear Systems. 2024 IEEE 63rd Conference on Decision and Control (CDC) 8602–860"
+      },
+      {
+        "doi": "10.23919/ACC55779.2023.10155901",
+        "title": "Nghiem TX, Drgoňa J, Jones C, Nagy Z, Schwan R, Dey B, Chakrabarty A, Di Cairano S, Paulson JA, Carron A, Zeilinger MN, Shaw Cortez W, Vrabie DL (2023) Physics-Informed Machine Learning for Modeling and Control of Dynamical Systems. 2023 American Control Conference (ACC) 3735–375"
+      },
+      {
+        "doi": "10.1016/j.automatica.2023.111210",
+        "title": "Beintema GI, Schoukens M, Tóth R (2023) Deep subspace encoders for nonlinear system identification. Automatica 156:111210. https://doi.org/10.1016/j.automatica.2023.11121"
+      },
+      {
+        "doi": "10.1109/TAC.2023.3294101",
+        "title": "Revay M, Wang R, Manchester IR (2024) Recurrent Equilibrium Networks: Flexible Dynamic Models With Guaranteed Stability and Robustness. IEEE Trans Automat Contr 69(5):2855–2870. https://doi.org/10.1109/tac.2023.329410"
+      },
+      {
+        "doi": "10.1016/j.ifacol.2023.10.079",
+        "title": "Zakwan M, Natale LD, Svetozarevic B, Heer P, Jones CN, Trecate GF (2023) Physically Consistent Neural ODEs for Learning Multi-Physics Systems*. IFAC-PapersOnLine 56(2):5855–5860. https://doi.org/10.1016/j.ifacol.2023.10.07"
+      },
+      {
+        "doi": "10.1109/TCST.2024.3477301",
+        "title": "Natale LD, Zakwan M, Heer P, Ferrari-Trecate G, Jones CN (2025) SIMBa: System Identification Methods Leveraging Backpropagation. IEEE Trans Contr Syst Technol 33(2):418–433. https://doi.org/10.1109/tcst.2024.347730"
+      },
+      {
+        "doi": "10.23919/ECC64448.2024.10590843",
+        "title": "Di Natale L, Zakwan M, Svetozarevic B, Heer P, Ferrari-Trecate G, Jones CN (2024) Stable Linear Subspace Identification: A Machine Learning Approach. 2024 European Control Conference (ECC) 3539–354"
+      },
+      {
+        "doi": "10.1103/PhysRevResearch.4.013221",
+        "title": "Asikis T, Böttcher L, Antulov-Fantulin N (2022) Neural ordinary differential equation control of dynamics on graphs. Phys Rev Research 4(1). https://doi.org/10.1103/physrevresearch.4.01322"
+      },
+      {
+        "doi": "10.1038/s41467-021-27590-0",
+        "title": "Böttcher L, Antulov-Fantulin N, Asikis T (2022) AI Pontryagin or how artificial neural networks learn to control dynamical systems. Nat Commun 13(1). https://doi.org/10.1038/s41467-021-27590-"
+      },
+      {
+        "doi": "10.1109/TCST.2019.2949757",
+        "title": "Hewing L, Kabzan J, Zeilinger MN (2020) Cautious Model Predictive Control Using Gaussian Process Regression. IEEE Trans Contr Syst Technol 28(6):2736–2743. https://doi.org/10.1109/tcst.2019.294975"
+      },
+      {
+        "doi": "10.1109/LCSYS.2019.2920720",
+        "title": "Armenio LB, Terzi E, Farina M, Scattolini R (2019) Model Predictive Control Design for Dynamical Systems Learned by Echo State Networks. IEEE Control Syst Lett 3(4):1044–1049. https://doi.org/10.1109/lcsys.2019.292072"
+      },
+      {
+        "doi": "10.1016/j.jprocont.2022.04.011",
+        "title": "Bonassi F, Farina M, Xie J, Scattolini R (2022) On Recurrent Neural Networks for learning-based control: Recent results and ideas for future developments. Journal of Process Control 114:92–104. https://doi.org/10.1016/j.jprocont.2022.04.01"
+      },
+      {
+        "doi": "10.1002/rnc.5519",
+        "title": "Terzi E, Bonassi F, Farina M, Scattolini R (2021) Learning model predictive control with long short‐term memory networks. Intl J Robust &amp; Nonlinear 31(18):8877–8896. https://doi.org/10.1002/rnc.551"
+      },
+      {
+        "doi": "10.1109/LCSYS.2022.3186959",
+        "title": "Zakwan M, Xu L, Ferrari-Trecate G (2023) Robust Classification Using Contractive Hamiltonian Neural ODEs. IEEE Control Syst Lett 7:145–150. https://doi.org/10.1109/lcsys.2022.318695"
+      },
+      {
+        "doi": "10.1007/978-3-319-49992-5",
+        "title": "van der Schaft A (2017) L2-Gain and Passivity Techniques in Nonlinear Control. Springer International Publishin"
+      },
+      {
+        "doi": "10.1109/CDC45484.2021.9683779",
+        "title": "Yang F, Matni N (2021) Communication Topology Co-Design in Graph Recurrent Neural Network based Distributed Control. 2021 60th IEEE Conference on Decision and Control (CDC) 3619–362"
+      },
+      {
+        "doi": "null",
+        "title": "Tolstaya, Learning decentralized controllers for robot swarms with graph neural networks. Proc. Conf. Robot Learn. (2020)"
+      },
+      {
+        "doi": "null",
+        "title": "Khan, Graph policy gradients for large scale robot control. Proc. Conf. Robot Learn. (2020)"
+      },
+      {
+        "doi": "null",
+        "title": "Gama, Graph neural networks for distributed linear-quadratic control. Proc. Learn. Dyn. Control (2021)"
+      },
+      {
+        "doi": "10.1146/annurev-control-042920-020211",
+        "title": "Brunke L, Greeff M, Hall AW, Yuan Z, Zhou S, Panerati J, Schoellig AP (2022) Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning. Annu Rev Control Robot Auton Syst 5(1):411–444. https://doi.org/10.1146/annurev-control-042920-02021"
+      },
+      {
+        "doi": "10.1609/aaai.v33i01.33013387",
+        "title": "Cheng R, Orosz G, Murray RM, Burdick JW (2019) End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks. AAAI 33(01):3387–3395. https://doi.org/10.1609/aaai.v33i01.3301338"
+      },
+      {
+        "doi": "null",
+        "title": "Berkenkamp, Safe model-based reinforcement learning with stability guarantees. Proc. Int. Conf. Neural Inf. Process. Syst. (2018)"
+      },
+      {
+        "doi": "null",
+        "title": "Richards, The Lyapunov neural network: Adaptive stability certification for safe learning of dynamical systems. Proc. Conf. Robot Learn. (2018)"
+      },
+      {
+        "doi": "10.1109/CDC.2018.8619572",
+        "title": "Koller T, Berkenkamp F, Turchetta M, Krause A (2018) Learning-Based Model Predictive Control for Safe Exploration. 2018 IEEE Conference on Decision and Control (CDC) 6059–606"
+      },
+      {
+        "doi": "null",
+        "title": "Pauli, Offset-free setpoint tracking using neural network controllers. Proc. Learn. Dyn. Control (2021)"
+      },
+      {
+        "doi": "10.1109/LRA.2021.3111962",
+        "title": "Khader SA, Yin H, Falco P, Kragic D (2021) Learning Deep Energy Shaping Policies for Stability-Guaranteed Manipulation. IEEE Robot Autom Lett 6(4):8583–8590. https://doi.org/10.1109/lra.2021.311196"
+      },
+      {
+        "doi": "10.15607/rss.2021.xvii.086",
+        "title": "Duong T, Atanasov N (2021) Hamiltonian-based Neural ODE Networks on the SE(3) Manifold For Dynamics Learning and Control. Robotics: Science and Systems XVI"
+      },
+      {
+        "doi": "10.1109/CDC49753.2023.10383704",
+        "title": "Martinelli D, Galimberti CL, Manchester IR, Furieri L, Ferrari-Trecate G (2023) Unconstrained Parametrization of Dissipative and Contracting Neural Ordinary Differential Equations. 2023 62nd IEEE Conference on Decision and Control (CDC) 3043–304"
+      },
+      {
+        "doi": "10.23919/ECC64448.2024.10591242",
+        "title": "Massai L, Saccani D, Furieri L, Ferrari-Trecate G (2024) Unconstrained Learning of Networked Nonlinear Systems via Free Parametrization of Stable Interconnected Operators. 2024 European Control Conference (ECC) 651–65"
+      },
+      {
+        "doi": "10.1016/j.automatica.2018.07.026",
+        "title": "Khong SZ, van der Schaft A (2018) On the converse of the passivity and small-gain theorems for input–output maps. Automatica 97:58–63. https://doi.org/10.1016/j.automatica.2018.07.02"
+      },
+      {
+        "doi": "10.1093/imanum/drae037",
+        "title": "Ehrhardt MJ, Riis ES, Ringholm T, Schönlieb C-B (2024) A geometric integration approach to smooth optimization: foundations of the discrete gradient method. IMA Journal of Numerical Analysis 45(3):1269–1299. https://doi.org/10.1093/imanum/drae03"
+      },
+      {
+        "doi": "10.1109/CDC56724.2024.10886616",
+        "title": "Zakwan M, Ferrari-Trecate G (2024) Neural Distributed Controllers with Port-Hamiltonian Structures. 2024 IEEE 63rd Conference on Decision and Control (CDC) 8633–863"
+      },
+      {
+        "doi": "10.1109/9.989067",
+        "title": "Angeli D (2002) A Lyapunov approach to incremental stability properties. IEEE Trans Automat Contr 47(3):410–421. https://doi.org/10.1109/9.98906"
+      },
+      {
+        "doi": "10.1109/TAC.2006.890471",
+        "title": "Stan G-B, Sepulchre R (2007) Analysis of Interconnected Oscillators by Dissipativity Theory. IEEE Trans Automat Contr 52(2):256–270. https://doi.org/10.1109/tac.2006.89047"
+      },
+      {
+        "doi": "10.1109/CDC.2016.7798314",
+        "title": "Tran DN, Ruffer BS, Kellett CM (2016) Incremental stability properties for discrete-time systems. 2016 IEEE 55th Conference on Decision and Control (CDC) 477–48"
+      },
+      {
+        "doi": "10.1016/j.ifacol.2022.11.067",
+        "title": "Sepulchre R, Chaffey T, Forni F (2022) On the incremental form of dissipativity. IFAC-PapersOnLine 55(30):290–294. https://doi.org/10.1016/j.ifacol.2022.11.06"
+      },
+      {
+        "doi": "10.1007/978-3-319-29928-0",
+        "title": "Arcak M, Meissen C, Packard A (2016) Networks of Dissipative Systems. Springer International Publishin"
+      },
+      {
+        "doi": "10.1016/j.automatica.2023.110859",
+        "title": "Verhoek C, Koelewijn PJW, Haesaert S, Tóth R (2023) Convex incremental dissipativity analysis of nonlinear systems. Automatica 150:110859. https://doi.org/10.1016/j.automatica.2023.11085"
+      },
+      {
+        "doi": "10.1146/annurev-control-081219-092250",
+        "title": "van der Schaft A (2020) Port-Hamiltonian Modeling for Control. Annu Rev Control Robot Auton Syst 3(1):393–416. https://doi.org/10.1146/annurev-control-081219-09225"
+      },
+      {
+        "doi": "10.1109/TAC.2023.3239430",
+        "title": "Galimberti CL, Furieri L, Xu L, Ferrari-Trecate G (2023) Hamiltonian Deep Neural Networks Guaranteeing Nonvanishing Gradients by Design. IEEE Trans Automat Contr 68(5):3155–3162. https://doi.org/10.1109/tac.2023.323943"
+      },
+      {
+        "doi": "10.1109/LCSYS.2023.3288350",
+        "title": "Zakwan M, d’Angelo M, Ferrari-Trecate G (2023) Universal Approximation Property of Hamiltonian Deep Neural Networks. IEEE Control Syst Lett :1–1. https://doi.org/10.1109/lcsys.2023.328835"
+      },
+      {
+        "doi": "null",
+        "title": "Amos, Input convex neural networks. Proc. Int. Conf. Mach. Learn. (2017)"
+      },
+      {
+        "doi": "10.1109/CVPR.2016.90",
+        "title": "He K, Zhang X, Ren S, Sun J (2016) Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 770–77"
+      },
+      {
+        "doi": "10.1007/b98874",
+        "title": "Nocedal J, Wright SJ (eds) (1999) Numerical Optimization. Springer-Verla"
+      },
+      {
+        "doi": "10.1007/s10915-018-0757-z",
+        "title": "Wang Y, Yin W, Zeng J (2018) Global Convergence of ADMM in Nonconvex Nonsmooth Optimization. J Sci Comput 78(1):29–63. https://doi.org/10.1007/s10915-018-0757-"
+      },
+      {
+        "doi": "10.1137/140975991",
+        "title": "Houska B, Frasch J, Diehl M (2016) An Augmented Lagrangian Based Algorithm for Distributed NonConvex Optimization. SIAM J Optim 26(2):1101–1127. https://doi.org/10.1137/14097599"
+      },
+      {
+        "doi": "10.1016/j.compchemeng.2008.08.006",
+        "title": "Biegler LT, Zavala VM (2009) Large-scale nonlinear programming using IPOPT: An integrating framework for enterprise-wide dynamic optimization. Computers &amp; Chemical Engineering 33(3):575–582. https://doi.org/10.1016/j.compchemeng.2008.08.00"
+      },
+      {
+        "doi": "10.1109/5.58337",
+        "title": "Werbos PJ (1990) Backpropagation through time: what it does and how to do it. Proc IEEE 78(10):1550–1560. https://doi.org/10.1109/5.5833"
+      },
+      {
+        "doi": "null",
+        "title": "Chen, Neural ordinary differential equations. Proc. 32nd Int. Conf. Neural Inf. Process. Syst. (2018)"
+      },
+      {
+        "doi": "10.1007/978-0-8176-4948-7",
+        "title": "Foucart S, Rauhut H (2013) A Mathematical Introduction to Compressive Sensing. Springer New Yor"
+      },
+      {
+        "doi": "10.1007/978-1-4419-9467-7",
+        "title": "Bauschke HH, Combettes PL (2011) Convex Analysis and Monotone Operator Theory in Hilbert Spaces. Springer New Yor"
+      },
+      {
+        "doi": "null",
+        "title": "Paszke, PyTorch: An imperative style, high-performance deep learning library. Proc. 33rd Int. Conf. Neural Inf. Process. Syst. (2019)"
+      },
+      {
+        "doi": "10.1109/CDC.2014.7039477",
+        "title": "Xia M, Antsaklis PJ, Gupta V (2014) Passivity indices and passivation of systems with application to systems with input/output delay. 53rd IEEE Conference on Decision and Control 783–78"
+      },
+      {
+        "doi": "10.1109/TAC.2019.2954361",
+        "title": "Joo Y, Harvey R, Qu Z (2020) Preserving and Achieving Passivity-Short Property Through Discretization. IEEE Trans Automat Contr 65(10):4265–4272. https://doi.org/10.1109/tac.2019.295436"
+      },
+      {
+        "doi": "null",
+        "title": "Martinelli, Interconnection of discrete-time dissipative systems. (2023)"
+      },
+      {
+        "doi": "10.4171/OWR/2006/14",
+        "title": "Hairer E, Hochbruck M, Iserles A, Lubich C (2006) Geometric Numerical Integration. Oberwolfach Rep 3(1):805–882. https://doi.org/10.4171/owr/2006/1"
+      },
+      {
+        "doi": "10.1007/BF02440162",
+        "title": "Gonzalez O (1996) Time integration and discrete Hamiltonian systems. J Nonlinear Sci 6(5):449–467. https://doi.org/10.1007/bf0244016"
+      },
+      {
+        "doi": "10.1137/1025002",
+        "title": "Harten A, Lax PD, Leer B van (1983) On Upstream Differencing and Godunov-Type Schemes for Hyperbolic Conservation Laws. SIAM Rev 25(1):35–61. https://doi.org/10.1137/102500"
+      },
+      {
+        "doi": "10.1016/0021-9991(88)90132-5",
+        "title": "Itoh T, Abe K (1988) Hamiltonian-conserving discrete canonical equations based on variational difference quotients. Journal of Computational Physics 76(1):85–102. https://doi.org/10.1016/0021-9991(88)90132-"
+      },
+      {
+        "doi": "10.1109/TAC.2023.3292180",
+        "title": "Macchelli A (2023) Control Design for a Class of Discrete-Time Port-Hamiltonian Systems. IEEE Trans Automat Contr 68(12):8224–8231. https://doi.org/10.1109/tac.2023.329218"
+      },
+      {
+        "doi": "null",
+        "title": "Jafarpour, Robust implicit networks via non-Euclidean contractions. Proc. 35th Int. Conf. Neural Inf. Process. Syst. (2021)"
+      },
+      {
+        "doi": "10.52202/068431-0523",
+        "title": "Smith KD, Seccamonte F, Swami A, Bullo F (2022) Physics-Informed Implicit Representations of Equilibrium Network Flows. Advances in Neural Information Processing Systems 35 7211–722"
+      },
+      {
+        "doi": "null",
+        "title": "Jafarpour, Robustness certificates for implicit neural networks: A mixed monotone contractive approach. Proc. Learn. Dyn. Control Conf. (2022)"
+      },
+      {
+        "doi": "null",
+        "title": "Winston, Monotone operator equilibrium networks. Proc. 34th Int. Conf. Neural Inf. Process. Syst. (2020)"
+      },
+      {
+        "doi": "10.1109/LCSYS.2020.3000705",
+        "title": "Moreschini A, Mattioni M, Monaco S, Normand-Cyrot D (2021) Stabilization of Discrete Port-Hamiltonian Dynamics via Interconnection and Damping Assignment. IEEE Control Syst Lett 5(1):103–108. https://doi.org/10.1109/lcsys.2020.300070"
+      },
+      {
+        "doi": "10.1016/j.ifacol.2021.10.365",
+        "title": "Tsolakis A, Keviczky T (2021) Distributed IDA-PBC for a Class of Nonholonomic Mechanical Systems. IFAC-PapersOnLine 54(14):275–280. https://doi.org/10.1016/j.ifacol.2021.10.36"
+      },
+      {
+        "doi": "10.1109/RPIC.2015.7497079",
+        "title": "Gimenez J, Rosales C, Carelli R (2015) Port-hamiltonian modelling of a differential drive mobile robot with reference velocities as inputs. 2015 XVI Workshop on Information Processing and Control (RPIC) 1–"
+      },
+      {
+        "doi": "10.1109/TCST.2021.3120321",
+        "title": "Nahata P, Turan MS, Ferrari-Trecate G (2022) Consensus-Based Current Sharing and Voltage Balancing in DC Microgrids With Exponential Loads. IEEE Trans Contr Syst Technol 30(4):1668–1680. https://doi.org/10.1109/tcst.2021.312032"
+      },
+      {
+        "doi": "null",
+        "title": "Otten, Power sharing in DC microgrids. (2020)"
+      },
+      {
+        "doi": "10.1109/CCTA41146.2020.9206323",
+        "title": "Strehle F, Pfeifer M, Malan AJ, Krebs S, Hohmann S (2020) A Scalable Port-Hamiltonian Approach to Plug-and-Play Voltage Stabilization in DC Microgrids. 2020 IEEE Conference on Control Technology and Applications (CCTA) 787–79"
+      },
+      {
+        "doi": "10.1016/S0167-6911(99)00070-5",
+        "title": "Sontag ED, Wang Y (1999) Notions of input to output stability. Systems &amp; Control Letters 38(4–5):235–248. https://doi.org/10.1016/s0167-6911(99)00070-"
+      },
+      {
+        "doi": "10.1109/JESTPE.2017.2690219",
+        "title": "Meng L, Shafiee Q, Ferrari Trecate G, Karimi H, Fulwani D, Lu X, Guerrero JM (2017) Review on Control of DC Microgrids. IEEE J Emerg Sel Topics Power Electron :1–1. https://doi.org/10.1109/jestpe.2017.269021"
+      },
+      {
+        "doi": "10.1561/2600000002",
+        "title": "van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000"
+      },
+      {
+        "doi": "null",
+        "title": "Poli, TorchDyn: A neural differential equations library. (2020)"
+      },
+      {
+        "doi": "null",
+        "title": "Kingma, Adam: A method for stochastic gradient descent. Proc. Int. Conf. Learn. Represent. (2015)"
+      }
+    ]
   },
   {
     "doi": "10.1109/tac.2026.3687481",
@@ -259476,7 +260654,10 @@
         "sequence": "first",
         "affiliation": [
           {
-            "name": "School of Information and Communication Engineering, Hainan University, Haikou, China"
+            "name": "Hainan University",
+            "place": [
+              "Haikou, China"
+            ]
           }
         ],
         "role": [
@@ -259487,12 +260668,17 @@
         ]
       },
       {
+        "ORCID": "https://orcid.org/0009-0009-9188-7148",
+        "authenticated-orcid": false,
         "given": "Kun",
         "family": "Xie",
         "sequence": "additional",
         "affiliation": [
           {
-            "name": "School of Information and Communication Engineering, Hainan University, Haikou, China"
+            "name": "Hainan University",
+            "place": [
+              "Haikou, China"
+            ]
           }
         ],
         "role": [
@@ -259510,7 +260696,10 @@
         "sequence": "additional",
         "affiliation": [
           {
-            "name": "College of Mechatronics and Control Engineering, Shenzhen University, Shenzhen, China"
+            "name": "Shenzhen University",
+            "place": [
+              "Shenzhen, China"
+            ]
           }
         ],
         "role": [
@@ -259521,12 +260710,17 @@
         ]
       },
       {
+        "ORCID": "https://orcid.org/0009-0009-9872-451X",
+        "authenticated-orcid": false,
         "given": "Shan",
         "family": "Xue",
         "sequence": "additional",
         "affiliation": [
           {
-            "name": "School of Information and Communication Engineering, Hainan University, Haikou, China"
+            "name": "Hainan University",
+            "place": [
+              "Haikou, China"
+            ]
           }
         ],
         "role": [
@@ -259544,7 +260738,10 @@
         "sequence": "additional",
         "affiliation": [
           {
-            "name": "School of Information and Communication Engineering, Hainan University, Haikou, China"
+            "name": "Hainan University",
+            "place": [
+              "Haikou, China"
+            ]
           }
         ],
         "role": [
@@ -259558,18 +260755,163 @@
     "abstract": "Not available",
     "journal": "IEEE Transactions on Industrial Informatics",
     "year": "2026",
-    "volume": "",
-    "issue": "",
+    "volume": "22",
+    "issue": "9",
     "event": "",
     "isbn": "",
-    "pages": "1--12",
+    "pages": "8080--8091",
     "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
     "keywords": "",
     "dateY": "2026",
     "dateM": "5",
     "dateD": "20",
     "permalink": "structure-preserving-safe-and-robust-formation-control-of-autonomous-surface-vehicles-via-a-port-hamiltonian-framework",
-    "references": []
+    "references": [
+      {
+        "doi": "10.1109/TII.2020.3004343",
+        "title": "Peng Z, Wang J, Wang D, Han Q-L (2021) An Overview of Recent Advances in Coordinated Control of Multiple Autonomous Surface Vehicles. IEEE Trans Ind Inf 17(2):732–745. https://doi.org/10.1109/tii.2020.300434"
+      },
+      {
+        "doi": "10.1109/TMECH.2017.2660528",
+        "title": "Shi Y, Shen C, Fang H, Li H (2017) Advanced Control in Marine Mechatronic Systems: A Survey. IEEE/ASME Trans Mechatron 22(3):1121–1131. https://doi.org/10.1109/tmech.2017.266052"
+      },
+      {
+        "doi": "10.1109/TII.2018.2817248",
+        "title": "Zuo Z, Han Q-L, Ning B, Ge X, Zhang X-M (2018) An Overview of Recent Advances in Fixed-Time Cooperative Control of Multiagent Systems. IEEE Trans Ind Inf 14(6):2322–2334. https://doi.org/10.1109/tii.2018.281724"
+      },
+      {
+        "doi": "10.1109/TSMC.2023.3256538",
+        "title": "Zhu G, Ma Y, Hu S (2023) Event-Triggered Adaptive PID Fault-Tolerant Control of Underactuated ASVs Under Saturation Constraint. IEEE Trans Syst Man Cybern, Syst 53(8):4922–4933. https://doi.org/10.1109/tsmc.2023.325653"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2022.111268",
+        "title": "Jia Z, Lu H, Li S, Zhang W (2022) Distributed dynamic rendezvous control of the AUV-USV joint system with practical disturbance compensations using model predictive control. Ocean Engineering 258:111268. https://doi.org/10.1016/j.oceaneng.2022.11126"
+      },
+      {
+        "doi": "10.1109/TSMC.2020.3036120",
+        "title": "Dai S-L, He S, Cai H, Yang C (2022) Adaptive Leader–Follower Formation Control of Underactuated Surface Vehicles With Guaranteed Performance. IEEE Trans Syst Man Cybern, Syst 52(3):1997–2008. https://doi.org/10.1109/tsmc.2020.303612"
+      },
+      {
+        "doi": "10.1109/TCYB.2019.2914717",
+        "title": "Peng Z, Wang D, Li T, Han M (2020) Output-Feedback Cooperative Formation Maneuvering of Autonomous Surface Vehicles With Connectivity Preservation and Collision Avoidance. IEEE Trans Cybern 50(6):2527–2535. https://doi.org/10.1109/tcyb.2019.291471"
+      },
+      {
+        "doi": "10.1109/TCYB.2020.3009992",
+        "title": "Peng Z, Liu L, Wang J (2021) Output-Feedback Flocking Control of Multiple Autonomous Surface Vehicles Based on Data-Driven Adaptive Extended State Observers. IEEE Trans Cybern 51(9):4611–4622. https://doi.org/10.1109/tcyb.2020.300999"
+      },
+      {
+        "doi": "10.1109/TIE.2025.3649849",
+        "title": "Wen G, Fu J, Wang B, Wang X, Shen H (2026) Robust Formation Tracking of ASVs With Nonconservative Collision Avoidance: A Control Barrier Function-Based Approach. IEEE Trans Ind Electron 73(6):9174–9186. https://doi.org/10.1109/tie.2025.364984"
+      },
+      {
+        "doi": "10.1109/TIV.2023.3315367",
+        "title": "Wen G, Lam J, Fu J, Wang S (2024) Distributed MPC-Based Robust Collision Avoidance Formation Navigation of Constrained Multiple USVs. IEEE Trans Intell Veh 9(1):1804–1816. https://doi.org/10.1109/tiv.2023.331536"
+      },
+      {
+        "doi": "10.1016/j.automatica.2025.112179",
+        "title": "Xu B, Dai Y, Suleman A, Shi Y (2025) Distributed fault-tolerant control of multi-UAV formation for dynamic leader tracking: A Lyapunov-based MPC framework. Automatica 175:112179. https://doi.org/10.1016/j.automatica.2025.11217"
+      },
+      {
+        "doi": "10.1109/TCYB.2024.3377919",
+        "title": "Jia Z, Zhang K, Shi Y, Zhang W (2024) Safety-Preserving Lyapunov-Based Model Predictive Rendezvous Control for Heterogeneous Marine Vehicles Subject to External Disturbances. IEEE Trans Cybern 54(9):5244–5256. https://doi.org/10.1109/tcyb.2024.337791"
+      },
+      {
+        "doi": "10.1016/j.robot.2017.08.009",
+        "title": "Van Parys R, Pipeleers G (2017) Distributed MPC for multi-vehicle systems moving in formation. Robotics and Autonomous Systems 97:144–152. https://doi.org/10.1016/j.robot.2017.08.00"
+      },
+      {
+        "doi": "10.1109/TII.2018.2839739",
+        "title": "He S, Wang M, Dai S-L, Luo F (2019) Leader–Follower Formation Control of USVs With Prescribed Performance and Collision Avoidance. IEEE Trans Ind Inf 15(1):572–581. https://doi.org/10.1109/tii.2018.283973"
+      },
+      {
+        "doi": "10.1109/TIV.2024.3363438",
+        "title": "Wang P, Yu C, Lv M, Park JH (2024) Improving Formation Maneuvering of Unmanned Surface Vehicles: A Finite-Time Distributed Approach With Velocity Constraints. IEEE Trans Intell Veh 9(10):6195–6207. https://doi.org/10.1109/tiv.2024.336343"
+      },
+      {
+        "doi": "10.1109/TVT.2025.3536520",
+        "title": "Lv Z, Chen J, Xie J, Xu Z (2025) A Backstepping Tracking Control Strategy Based on Deep Reinforcement Learning for Vehicle Platoon. IEEE Trans Veh Technol 74(6):8707–8720. https://doi.org/10.1109/tvt.2025.353652"
+      },
+      {
+        "doi": "10.1109/TIV.2022.3175647",
+        "title": "Yan T, Xu Z, Yang SX (2023) Consensus Formation Tracking for Multiple AUV Systems Using Distributed Bioinspired Sliding Mode Control. IEEE Trans Intell Veh 8(2):1081–1092. https://doi.org/10.1109/tiv.2022.317564"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2022.113423",
+        "title": "Qin H, Si J, Wang N, Gao L (2023) Fast fixed-time nonsingular terminal sliding-mode formation control for autonomous underwater vehicles based on a disturbance observer. Ocean Engineering 270:113423. https://doi.org/10.1016/j.oceaneng.2022.11342"
+      },
+      {
+        "doi": "10.1109/TITS.2023.3281033",
+        "title": "Boo J, Chwa D (2023) Integral Sliding Mode Control-Based Robust Bidirectional Platoon Control of Vehicles With the Unknown Acceleration and Mismatched Disturbance. IEEE Trans Intell Transport Syst 24(10):10881–10894. https://doi.org/10.1109/tits.2023.328103"
+      },
+      {
+        "doi": "10.1007/978-3-030-19420-8",
+        "title": "Brogliato B, Lozano R, Maschke B, Egeland O (2020) Dissipative Systems Analysis and Control. Springer International Publishin"
+      },
+      {
+        "doi": "10.1109/TAC.2015.2458491",
+        "title": "Nageshrao SP, Lopes GAD, Jeltsema D, Babuska R (2016) Port-Hamiltonian Systems in Adaptive and Learning Control: A Survey. IEEE Trans Automat Contr 61(5):1223–1238. https://doi.org/10.1109/tac.2015.245849"
+      },
+      {
+        "doi": "10.1109/LRA.2019.2932864",
+        "title": "Rashad R, Califano F, Stramigioli S (2019) Port-Hamiltonian Passivity-Based Control on SE(3) of a Fully Actuated UAV for Aerial Physical Interaction Near-Hovering. IEEE Robot Autom Lett 4(4):4378–4385. https://doi.org/10.1109/lra.2019.293286"
+      },
+      {
+        "doi": "10.1109/ICRA.2019.8793939",
+        "title": "Rashad R, Engelen JBC, Stramigioli S (2019) Energy Tank-Based Wrench/Impedance Control of a Fully-Actuated Hexarotor: A Geometric Port-Hamiltonian Approach. 2019 International Conference on Robotics and Automation (ICRA) 6418–642"
+      },
+      {
+        "doi": "10.1109/TAC.2015.2458491",
+        "title": "Nageshrao SP, Lopes GAD, Jeltsema D, Babuska R (2016) Port-Hamiltonian Systems in Adaptive and Learning Control: A Survey. IEEE Trans Automat Contr 61(5):1223–1238. https://doi.org/10.1109/tac.2015.245849"
+      },
+      {
+        "doi": "10.1016/S0005-1098(01)00278-3",
+        "title": "Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-"
+      },
+      {
+        "doi": "10.1016/j.jprocont.2008.06.018",
+        "title": "Ramírez H, Sbarbaro D, Ortega R (2009) On the control of non-linear processes: An IDA–PBC approach. Journal of Process Control 19(3):405–414. https://doi.org/10.1016/j.jprocont.2008.06.01"
+      },
+      {
+        "doi": "10.3166/ejc.10.451-468",
+        "title": "Gómez-Estern F, Van der Schaft AJ (2004) Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control 10(5):451–468. https://doi.org/10.3166/ejc.10.451-46"
+      },
+      {
+        "doi": "10.1007/s11071-021-06776-7",
+        "title": "Guerrero-Sánchez ME, Hernández-González O, Valencia-Palomo G, Mercado-Ravell DA, López-Estrada FR, Hoyo-Montaño JA (2021) Robust IDA-PBC for under-actuated systems with inertia matrix dependent of the unactuated coordinates: application to a UAV carrying a load. Nonlinear Dyn 105(4):3225–3238. https://doi.org/10.1007/s11071-021-06776-"
+      },
+      {
+        "doi": "10.1109/TRO.2024.3428433",
+        "title": "Duong T, Altawaitan A, Stanley J, Atanasov N (2024) Port-Hamiltonian Neural ODE Networks on Lie Groups for Robot Dynamics Learning and Control. IEEE Trans Robot 40:3695–3715. https://doi.org/10.1109/tro.2024.342843"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2023.116166",
+        "title": "Zhou W, Xu Z, Wu Y, Xiang J, Li Y (2023) Energy-based trajectory tracking control of under-actuated unmanned surface vessels. Ocean Engineering 288:116166. https://doi.org/10.1016/j.oceaneng.2023.11616"
+      },
+      {
+        "doi": "10.1016/j.jfranklin.2022.01.036",
+        "title": "Lv C, Yu H, Chen J, Zhao N, Chi J (2022) Trajectory tracking control for unmanned surface vessel with input saturation and disturbances via robust state error IDA-PBC approach. Journal of the Franklin Institute 359(5):1899–1924. https://doi.org/10.1016/j.jfranklin.2022.01.03"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2023.116533",
+        "title": "Jin L, Yu S, Zhao Q, Shi G, Wu X (2024) Fixed-time <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\"><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mi>∞</mml:mi></mml:msub></mml:mrow></mml:math> tracking control of unmanned underwater vehicles with disturbance rejection via Port-Hamiltonian framework. Ocean Engineering 293:116533. https://doi.org/10.1016/j.oceaneng.2023.11653"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2020.107402",
+        "title": "Jia Z, Qiao L, Zhang W (2020) Adaptive tracking control of unmanned underwater vehicles with compensation for external perturbations and uncertainties using Port-Hamiltonian theory. Ocean Engineering 209:107402. https://doi.org/10.1016/j.oceaneng.2020.10740"
+      },
+      {
+        "doi": "10.1016/j.oceaneng.2024.119410",
+        "title": "Lv C, Wang Z, Zhang Y, Chen J, Yu H (2024) Cooperative formation control of multiple unmanned surface vessels based on state error port control Hamiltonian framework. Ocean Engineering 313:119410. https://doi.org/10.1016/j.oceaneng.2024.11941"
+      },
+      {
+        "doi": "10.4171/022-3/65",
+        "title": "van der Schaft A (2007) Port-Hamiltonian systems: an introductory survey. Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006 1339–136"
+      },
+      {
+        "doi": "10.1016/j.isatra.2019.04.035",
+        "title": "Jia Z, Hu Z, Zhang W (2019) Adaptive output-feedback control with prescribed performance for trajectory tracking of underactuated surface vessels. ISA Transactions 95:18–26. https://doi.org/10.1016/j.isatra.2019.04.03"
+      }
+    ]
   },
   {
     "doi": "10.1109/tits.2021.3085713",
@@ -292699,223 +294041,6 @@
     ]
   },
   {
-    "doi": "10.2139/ssrn.4097576",
-    "type": "posted-content",
-    "title": "Port-Hamiltonian Based Control of Water Distribution Networks",
-    "authors": [
-      {
-        "ORCID": "https://orcid.org/0000-0002-2681-8826",
-        "authenticated-orcid": true,
-        "given": "Richard",
-        "family": "Perryman",
-        "sequence": "first",
-        "affiliation": [],
-        "role": [
-          {
-            "vocabulary": "crossref",
-            "role": "author"
-          }
-        ]
-      },
-      {
-        "ORCID": "https://orcid.org/0000-0002-1304-9845",
-        "authenticated-orcid": true,
-        "given": "Joshua  A.",
-        "family": "Taylor",
-        "sequence": "additional",
-        "affiliation": [],
-        "role": [
-          {
-            "vocabulary": "crossref",
-            "role": "author"
-          }
-        ]
-      },
-      {
-        "ORCID": "https://orcid.org/0000-0001-9154-8722",
-        "authenticated-orcid": true,
-        "given": "Bryan",
-        "family": "Karney",
-        "sequence": "additional",
-        "affiliation": [],
-        "role": [
-          {
-            "vocabulary": "crossref",
-            "role": "author"
-          }
-        ]
-      }
-    ],
-    "abstract": "We design controllers for a nonlinear model of a water distribution network (WDN). Most existing approaches to the control of WDNs model the pumps as simple pressure gains. We show that a commonly used empirical model of a pump leads to a port-Hamiltonian (pH) and hence stable system. We use standard arguments to show that WDNs are incrementally pH, and show that local PI controllers preserve stability. These controllers are robust in that they do not require specific knowledge of the equilibrium input. We further show that controllers based on physical feedback that WDN operators usually rely on have merit in the pH framework. All of these controllers are shown to be useful in mitigating disturbances and tracking setpoints corresponding to assignable equilibria.",
-    "journal": "null",
-    "year": "2022",
-    "volume": "",
-    "issue": "",
-    "event": "",
-    "isbn": "",
-    "pages": "",
-    "publisher": "Elsevier BV",
-    "keywords": "",
-    "dateY": "2022",
-    "dateM": "4",
-    "dateD": "30",
-    "permalink": "port-hamiltonian-based-control-of-water-distribution-networks0",
-    "references": [
-      {
-        "doi": "10.1561/2600000002",
-        "title": "van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000"
-      },
-      {
-        "doi": "null",
-        "title": "Head at the fire node (6). (c) Flow through the pump link"
-      },
-      {
-        "doi": "null",
-        "title": "Figure 2: Comparisons of system behavior given different control approaches"
-      },
-      {
-        "doi": "null",
-        "title": "M H Chaudhry, Applied hydraulic transients (1979)"
-      },
-      {
-        "doi": "null",
-        "title": "J D Nault, Comprehensive simulation of one-dimensional unsteady pipe network hydraulics: Improved formulations and adaptive hybrid modeling (2017)"
-      },
-      {
-        "doi": "null",
-        "title": "W Gil-Gonz�lez, Passivity-based control of power systems considering hydroturbine with surge tank. IEEE Transactions on Power Systems (2019)"
-      },
-      {
-        "doi": "10.1007/s11071-014-1257-9",
-        "title": "Zeng Y, Zhang L, Guo Y, Qian J, Zhang C (2014) The generalized Hamiltonian model for the shafting transient analysis of the hydro turbine generating sets. Nonlinear Dyn 76(4):1921–1933. https://doi.org/10.1007/s11071-014-1257-"
-      },
-      {
-        "doi": "null",
-        "title": "L Torres, Port-Hamiltonian models for flow of incompressible fluids in rigid pipelines with faults, in: 58th Conference on Decision and Control (2019)"
-      },
-      {
-        "doi": "10.1109/ACCESS.2020.3026653",
-        "title": "Cisneros N, Rojas AJ, Ramirez H (2020) Port-Hamiltonian Modeling and Control of a Micro-Channel Experimental Plant. IEEE Access 8:176935–176946. https://doi.org/10.1109/access.2020.302665"
-      },
-      {
-        "doi": "10.1109/CDC.2006.377022",
-        "title": "Pasumarthy R, van der Schaft A (2006) A Finite Dimensional Approximation of the shallow water Equations: The port-Hamiltonian Approach. Proceedings of the 45th IEEE Conference on Decision and Control 3984–398"
-      },
-      {
-        "doi": "10.3182/20080706-5-KR-1001.00054",
-        "title": "De Persis C, Kallesøe CS (2008) Proportional and Proportional-Integral Controllers for a Nonlinear Hydraulic Network. IFAC Proceedings Volumes 41(2):319–324. https://doi.org/10.3182/20080706-5-kr-1001.0005"
-      },
-      {
-        "doi": "10.1109/TCST.2010.2094619",
-        "title": "De Persis C, Kallesoe CS (2011) Pressure Regulation in Nonlinear Hydraulic Networks by Positive and Quantized Controls. IEEE Trans Contr Syst Technol 19(6):1371–1383. https://doi.org/10.1109/tcst.2010.209461"
-      },
-      {
-        "doi": "10.1049/iet-cta.2010.0360",
-        "title": "Jensen TN, Wisniewski R (2011) Global practical stabilisation of large-scale hydraulic networks. IET Control Theory Appl 5(11):1335–1342. https://doi.org/10.1049/iet-cta.2010.036"
-      },
-      {
-        "doi": "10.1109/TCST.2014.2306990",
-        "title": "Jensen TN, Wisniewski R (2014) Global Asymptotic Stabilization of Large-Scale Hydraulic Networks Using Positive Proportional Controls. IEEE Trans Contr Syst Technol 22(6):2417–2423. https://doi.org/10.1109/tcst.2014.230699"
-      },
-      {
-        "doi": "10.1109/TCST.2012.2233477",
-        "title": "De Persis C, Jensen TN, Ortega R, Wisniewski R (2014) Output Regulation of Large-Scale Hydraulic Networks. IEEE Trans Contr Syst Technol 22(1):238–245. https://doi.org/10.1109/tcst.2012.223347"
-      },
-      {
-        "doi": "10.1016/j.conengprac.2013.10.004",
-        "title": "Nørgaard Jensen T, Wisniewski R, DePersis C, Skovmose Kallesøe C (2014) Output regulation of large-scale hydraulic networks with minimal steady state power consumption. Control Engineering Practice 22:103–113. https://doi.org/10.1016/j.conengprac.2013.10.00"
-      },
-      {
-        "doi": "null",
-        "title": "T Scholten, Pressure regulation in large scale hydraulic networks with input constraints. 20th IFAC World Congress (2017)"
-      },
-      {
-        "doi": "10.1016/j.ifacol.2017.08.937",
-        "title": "Nørgaard Jensen T, Skovmose Kallesøe C, Wisniewski R (2017) Asymptotic set-point regulation for a large class of non-linear hydraulic networks. IFAC-PapersOnLine 50(1):5355–5360. https://doi.org/10.1016/j.ifacol.2017.08.93"
-      },
-      {
-        "doi": "10.1109/LCSYS.2021.3085702",
-        "title": "Machado JE, Cucuzzella M, Pronk N, Scherpen JMA (2022) Adaptive Control for Flow and Volume Regulation in Multi-Producer District Heating Systems. IEEE Control Syst Lett 6:794–799. https://doi.org/10.1109/lcsys.2021.308570"
-      },
-      {
-        "doi": "10.1007/978-3-642-03196-0",
-        "title": "Duindam V, Macchelli A, Stramigioli S, Bruyninckx H (2009) Modeling and Control of Complex Physical Systems. Springer Berlin Heidelber"
-      },
-      {
-        "doi": "10.1007/s11071-013-1083-5",
-        "title": "Tahavori M, Leth J, Kallesøe C, Wisniewski R (2013) Optimal control of nonlinear hydraulic networks in the presence of disturbance. Nonlinear Dyn 75(3):539–548. https://doi.org/10.1007/s11071-013-1083-"
-      },
-      {
-        "doi": "null",
-        "title": "H Phillips-Brenes, Energy-based model of a solar-powered pumped-hydro storage system. IEEE 39th Central America and Panama Convention (2019)"
-      },
-      {
-        "doi": "null",
-        "title": "D Fooladivanda, Energy-optimal pump scheduling and water flow. IEEE Transactions on Control of Network Systems PP (2017)"
-      },
-      {
-        "doi": "10.1016/j.sysconle.2007.03.011",
-        "title": "Jayawardhana B, Ortega R, García-Canseco E, Castaños F (2007) Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters 56(9–10):618–622. https://doi.org/10.1016/j.sysconle.2007.03.01"
-      },
-      {
-        "doi": "10.1061/(ASCE)HY.1943-7900.0001145",
-        "title": "Nault JD, Karney BW (2016) Improved Rigid Water Column Formulation for Simulating Slow Transients and Controlled Operations. J Hydraul Eng 142(9). https://doi.org/10.1061/(asce)hy.1943-7900.000114"
-      },
-      {
-        "doi": "null",
-        "title": "L A Rossman, EPANET 2: users manual (2000)"
-      },
-      {
-        "doi": "10.1061/(ASCE)HY.1943-7900.0000776",
-        "title": "Simpson AR, Marchi A (2013) Evaluating the Approximation of the Affinity Laws and Improving the Efficiency Estimate for Variable Speed Pumps. J Hydraul Eng 139(12):1314–1317. https://doi.org/10.1061/(asce)hy.1943-7900.000077"
-      },
-      {
-        "doi": "10.1016/j.petrol.2009.11.012",
-        "title": "Zhou D, Sachdeva R (2010) Simple model of electric submersible pump in gassy well. Journal of Petroleum Science and Engineering 70(3–4):204–213. https://doi.org/10.1016/j.petrol.2009.11.01"
-      },
-      {
-        "doi": "null",
-        "title": "A Van Der Schaft, Limits to energy conversion. IEEE Transactions on Automatic Control (2021)"
-      },
-      {
-        "doi": "null",
-        "title": "A Van Der Schaft, Classical thermodynamics revisited: A systems and control perspective (2020)"
-      },
-      {
-        "doi": "10.1007/978-1-4471-0507-7",
-        "title": "van der Schaft A (2000) L2 - Gain and Passivity Techniques in Nonlinear Control. Springer Londo"
-      },
-      {
-        "doi": "10.1016/0016-0032(80)90026-5",
-        "title": "Hill DJ, Moylan PJ (1980) Dissipative Dynamical Systems: Basic Input-Output and State Properties. Journal of the Franklin Institute 309(5):327–357. https://doi.org/10.1016/0016-0032(80)90026-"
-      },
-      {
-        "doi": "null",
-        "title": "J P La Salle, The stability of dynamical systems (1976)"
-      },
-      {
-        "doi": "10.1016/j.conengprac.2015.09.012",
-        "title": "Zonetti D, Ortega R, Benchaib A (2015) Modeling and control of HVDC transmission systems from theory to practice and back. Control Engineering Practice 45:133–146. https://doi.org/10.1016/j.conengprac.2015.09.01"
-      },
-      {
-        "doi": "10.1038/s41586-020-2649-2",
-        "title": "Harris CR, Millman KJ, van der Walt SJ, Gommers R, Virtanen P, Cournapeau D, Wieser E, Taylor J, Berg S, Smith NJ, Kern R, Picus M, Hoyer S, van Kerkwijk MH, Brett M, Haldane A, del Río JF, Wiebe M, Peterson P, Gérard-Marchant P, Sheppard K, Reddy T, Weckesser W, Abbasi H, Gohlke C, Oliphant TE (2020) Array programming with NumPy. Nature 585(7825):357–362. https://doi.org/10.1038/s41586-020-2649-"
-      },
-      {
-        "doi": "10.1038/s41592-019-0686-2",
-        "title": "Virtanen P, Gommers R, Oliphant TE, Haberland M, Reddy T, Cournapeau D, Burovski E, Peterson P, Weckesser W, Bright J, van der Walt SJ, Brett M, Wilson J, Millman KJ, Mayorov N, Nelson ARJ, Jones E, Kern R, Larson E, Carey CJ, Polat İ, Feng Y, Moore EW, VanderPlas J, Laxalde D, Perktold J, Cimrman R, Henriksen I, Quintero EA, Harris CR, Archibald AM, Ribeiro AH, Pedregosa F, van Mulbregt P, Vijaykumar A, Bardelli AP, Rothberg A, Hilboll A, Kloeckner A, Scopatz A, Lee A, Rokem A, Woods CN, Fulton C, Masson C, Häggström C, Fitzgerald C, Nicholson DA, Hagen DR, Pasechnik DV, Olivetti E, Martin E, Wieser E, Silva F, Lenders F, Wilhelm F, Young G, Price GA, Ingold G-L, Allen GE, Lee GR, Audren H, Probst I, Dietrich JP, Silterra J, Webber JT, Slavič J, Nothman J, Buchner J, Kulick J, Schönberger JL, de Miranda Cardoso JV, Reimer J, Harrington J, Rodríguez JLC, Nunez-Iglesias J, Kuczynski J, Tritz K, Thoma M, Newville M, Kümmerer M, Bolingbroke M, Tartre M, Pak M, Smith NJ, Nowaczyk N, Shebanov N, Pavlyk O, Brodtkorb PA, Lee P, McGibbon RT, Feldbauer R, Lewis S, Tygier S, Sievert S, Vigna S, Peterson S, More S, Pudlik T, Oshima T, Pingel TJ, Robitaille TP, Spura T, Jones TR, Cera T, Leslie T, Zito T, Krauss T, Upadhyay U, Halchenko YO, Vázquez-Baeza Y (2020) SciPy 1.0: fundamental algorithms for scientific computing in Python. Nat Methods 17(3):261–272. https://doi.org/10.1038/s41592-019-0686-"
-      },
-      {
-        "doi": "10.1109/MCSE.2007.55",
-        "title": "Hunter JD (2007) Matplotlib: A 2D Graphics Environment. Comput Sci Eng 9(3):90–95. https://doi.org/10.1109/mcse.2007.5"
-      },
-      {
-        "doi": "null",
-        "title": "M K Camlibel, Incrementally port-Hamiltonian systems, in: 52nd IEEE Conference on Decision and Control (2013)"
-      }
-    ]
-  },
-  {
     "doi": "10.2139/ssrn.4185438",
     "type": "journal-article",
     "title": "Port-Hamiltonian Systems with Several Space Variables: Dressing, Explicit Solutions and Energy Relations",
@@ -309728,7 +310853,7 @@
   {
     "doi": "10.3182/20120829-3-it-4022.00044",
     "type": "journal-article",
-    "title": "Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation* *The contribution of authors has been done within the context of the French National Research Agency sponsored project HAMECMOPSYS number ANR-11-BS03-0002. Further information is available at www.hamecmopsys.ens2m.fr/.",
+    "title": "Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation",
     "authors": [
       {
         "given": "N.",
@@ -309762,7 +310887,7 @@
     "dateY": "2012",
     "dateM": "9",
     "dateD": "15",
-    "permalink": "port-hamiltonian-modeling-of-msma-based-actuator-toward-a-thermodynamically-consistent-formulation-the-contribution-of-authors-has-been-done-within-the-context-of-the-french-national-research-agency-sponsored-project-hamecmopsys-number-a",
+    "permalink": "port-hamiltonian-modeling-of-msma-based-actuator-toward-a-thermodynamically-consistent-formulation",
     "references": [
       {
         "doi": "null",
@@ -315059,6 +316184,258 @@
     ]
   },
   {
+    "doi": "10.3390/act15090457",
+    "type": "journal-article",
+    "title": "Feedback-Linearization-Assisted Observer-Based Interconnection and Damping Assignment Passivity Control for Electromechanical Actuators",
+    "authors": [
+      {
+        "given": "Xi",
+        "family": "Xiao",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "College of Automation Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China"
+          },
+          {
+            "name": "Aviation Key Laboratory of Science and Technology on Aero Electromechanical System, Nanjing 210012, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xuming",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Automation Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bohao",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Automation Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4381-4763",
+        "authenticated-orcid": false,
+        "given": "Quan",
+        "family": "Ouyang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Automation Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ziyang",
+        "family": "Zhen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Automation Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "abstract": "Electromechanical actuators (EMAs) are increasingly used in aerospace servo actuation because of their compact structure, high power density, and convenient integration with electric flight-control systems. However, load-side aerodynamic torque, friction, parameter perturbations, and unmodeled transmission effects enter the EMA dynamics through a channel different from the motor-current input, which leads to a mismatched disturbance rejection problem. This paper develops a feedback-linearization-assisted observer-based interconnection and damping assignment passivity-based control (IDA-PBC) method for EMA trajectory tracking. A fourth-order input–output feedback-linearized normal-coordinate model is first derived, through which the original load-side mismatched disturbance is transformed into a matched term acting on the highest-order channel. An extended state observer is then constructed to estimate the transformed disturbance. Based on the observer output, a desired Hamiltonian function is generated from a Lyapunov equation, and the interconnection and damping matrices are explicitly assigned so that the closed-loop tracking-error dynamics admit a dissipative port-Hamiltonian representation. A composite Lyapunov analysis proves closed-loop exponential stability under the assumption of slowly varying disturbance. The resulting framework combines the disturbance-channel-reshaping capability of feedback linearization with the energy-shaping interpretation of IDA-PBC, providing a systematic controller design for high-precision EMA servo systems subject to load-side disturbances.",
+    "journal": "Actuators",
+    "year": "2026",
+    "volume": "15",
+    "issue": "9",
+    "event": "",
+    "isbn": "",
+    "pages": "457",
+    "publisher": "MDPI AG",
+    "keywords": "",
+    "dateY": "2026",
+    "dateM": "8",
+    "dateD": "24",
+    "permalink": "feedback-linearization-assisted-observer-based-interconnection-and-damping-assignment-passivity-control-for-electromechanical-actuators",
+    "references": [
+      {
+        "doi": "10.3390/aerospace10090787",
+        "title": "Annaz FY, Kaluarachchi MM (2023) Progress in Redundant Electromechanical Actuators for Aerospace Applications. Aerospace 10(9):787. https://doi.org/10.3390/aerospace1009078"
+      },
+      {
+        "doi": "10.1109/TIE.2008.2011621",
+        "title": "Han J (2009) From PID to Active Disturbance Rejection Control. IEEE Trans Ind Electron 56(3):900–906. https://doi.org/10.1109/tie.2008.201162"
+      },
+      {
+        "doi": "10.3390/electronics12081934",
+        "title": "Fang Q, Zhou Y, Ma S, Zhang C, Wang Y, Huangfu H (2023) Electromechanical Actuator Servo Control Technology Based on Active Disturbance Rejection Control. Electronics 12(8):1934. https://doi.org/10.3390/electronics1208193"
+      },
+      {
+        "doi": "10.1016/j.mechatronics.2022.102794",
+        "title": "Bai Y, Hu J, Yao J (2022) Adaptive neural network output feedback robust control of electromechanical servo system with backlash compensation and disturbance rejection. Mechatronics 84:102794. https://doi.org/10.1016/j.mechatronics.2022.10279"
+      },
+      {
+        "doi": "10.1016/j.eswa.2024.126155",
+        "title": "Su Z, Shi W, Duan J, Xu L, Zhou M (2025) Double-loop compensated active disturbance rejection control of electromechanical servo system based on composite disturbance observer. Expert Systems with Applications 266:126155. https://doi.org/10.1016/j.eswa.2024.12615"
+      },
+      {
+        "doi": "10.3390/act15050247",
+        "title": "Xiao X, Zhen Z, Sun H (2026) Disturbance Observer-Based Fixed-Time Sliding-Mode Control for Electromechanical Actuators. Actuators 15(5):247. https://doi.org/10.3390/act1505024"
+      },
+      {
+        "doi": "10.3390/act15010018",
+        "title": "Sun H, Jiang J, Xiao X (2025) Fuzzy Active Disturbance Rejection Control for Electro-Mechanical Actuator Based on Feedback Linearization. Actuators 15(1):18. https://doi.org/10.3390/act1501001"
+      },
+      {
+        "doi": "10.1002/asjc.3568",
+        "title": "Xiong S, Cheng X, Ouyang Q, Lv C, Xu W, Wang Z (2025) Disturbance compensation‐based feedback linearization control for air rudder electromechanical servo systems. Asian Journal of Control 27(5):2255–2265. https://doi.org/10.1002/asjc.356"
+      },
+      {
+        "doi": "10.3390/en17123025",
+        "title": "Zhou C, Wang B, Liu K, Ren K (2024) Active Disturbance Rejection Control of Permanent Magnet Synchronous Motor Based on RPLESO. Energies 17(12):3025. https://doi.org/10.3390/en1712302"
+      },
+      {
+        "doi": "10.1587/elex.21.20240137",
+        "title": "Zhu M, Ni H, Sun H, Wang J (2024) A cascaded linear active disturbance rejection control-based multi-stage model predictive control for permanent magnet synchronous motor. IEICE Electron Express 21(9):20240137–20240137. https://doi.org/10.1587/elex.21.2024013"
+      },
+      {
+        "doi": "10.1587/elex.20.20230476",
+        "title": "Gao P, Pan H (2023) An enhanced switching active disturbance rejection controller for speed control of permanent magnet synchronous motor. IEICE Electron Express 20(24):20230476–20230476. https://doi.org/10.1587/elex.20.2023047"
+      },
+      {
+        "doi": "10.1587/elex.21.20240281",
+        "title": "Wang X, Xiang Y, Qu C, Han F, Xu D (2024) Single closed-loop active disturbance rejection control strategy of permanent magnet synchronous motor based on compensation function. IEICE Electron Express 21(17):20240281–20240281. https://doi.org/10.1587/elex.21.2024028"
+      },
+      {
+        "doi": "10.1109/ACCESS.2023.3245635",
+        "title": "Li T, Zhao Y, Hou L (2023) Adaptive Sliding Mode Control With Disturbance Observer for Speed Regulation System of Permanent Magnet Synchronous Motor. IEEE Access 11:17021–17030. https://doi.org/10.1109/access.2023.324563"
+      },
+      {
+        "doi": "10.3390/en17122974",
+        "title": "Liu Y-C (2024) Disturbance-Observer-Based Second-Order Sliding-Mode Position Control for Permanent-Magnet Synchronous Motors: A Continuous Twisting Algorithm-Based Approach. Energies 17(12):2974. https://doi.org/10.3390/en1712297"
+      },
+      {
+        "doi": "10.1002/acs.4072",
+        "title": "Liu R, Liu Y, Wang C (2025) Disturbance‐Observer‐Based Fixed‐Time Prescribed Performance Control for Permanent Magnet Synchronous Motor Under Friction Disturbance. Adaptive Control &amp;amp; Signal 39(12):2637–2649. https://doi.org/10.1002/acs.407"
+      },
+      {
+        "doi": "10.1007/s11768-025-00261-x",
+        "title": "Huo Z, Ping Z, Jia Y, Hui J, Huang Y, Lu J-G (2025) Disturbance rejection of PMSM speed servo system: an adaptive observer approach. Control Theory Technol 23(4):640–649. https://doi.org/10.1007/s11768-025-00261-"
+      },
+      {
+        "doi": "10.1007/s12555-022-0276-4",
+        "title": "Hu S, Ren X, Zheng D (2024) Disturbance Observer-based Finite-time Optimal Synchronization Control for Multi-motor Driving Servo Systems. Int J Control Autom Syst 22(1):72–83. https://doi.org/10.1007/s12555-022-0276-"
+      },
+      {
+        "doi": "10.1002/asjc.3055",
+        "title": "Li M, Zhang J, Li S, Wu F, Zhang T, Zhou P (2023) Disturbance‐observer‐based adaptive finite‐time dynamic surface control for PMSM with time‐varying asymmetric output constraint. Asian Journal of Control 25(5):3752–3775. https://doi.org/10.1002/asjc.305"
+      },
+      {
+        "doi": "10.3390/app13106255",
+        "title": "Peng J, Yao M (2023) Overview of Predictive Control Technology for Permanent Magnet Synchronous Motor Systems. Applied Sciences 13(10):6255. https://doi.org/10.3390/app1310625"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "10.1016/j.isatra.2021.04.021",
+        "title": "Meng X, Yu H, Zhang J, Xu T, Wu H, Yan K (2022) Disturbance Observer-Based Feedback Linearization Control for a Quadruple-Tank Liquid Level System. ISA Transactions 122:146–162. https://doi.org/10.1016/j.isatra.2021.04.02"
+      },
+      {
+        "doi": "10.1016/j.conengprac.2022.105407",
+        "title": "Yang Y, Cui Y, Qiao J, Zhu Y (2023) Adaptive periodic-disturbance observer based composite control for SGCMG gimbal servo system with rotor vibration. Control Engineering Practice 132:105407. https://doi.org/10.1016/j.conengprac.2022.10540"
+      },
+      {
+        "doi": "10.1016/S0005-1098(01)00278-3",
+        "title": "Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-"
+      },
+      {
+        "doi": "10.1109/TAC.2002.800770",
+        "title": "Ortega R, Spong MW, Gomez-Estern F, Blankenstein G (2002) Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Trans Automat Contr 47(8):1218–1233. https://doi.org/10.1109/tac.2002.80077"
+      },
+      {
+        "doi": "10.1016/j.epsr.2016.08.041",
+        "title": "Serra FM, De Angelo CH (2017) IDA-PBC controller design for grid connected Front End Converters under non-ideal grid conditions. Electric Power Systems Research 142:12–19. https://doi.org/10.1016/j.epsr.2016.08.04"
+      },
+      {
+        "doi": "10.1016/j.ifacol.2018.05.114",
+        "title": "Barman S, Samanta S, Mishra JP, Roy P, Roy BK (2018) Design and Implementation of an IDA-PBC for a Grid Connected Inverter used in a Photovoltaic System. IFAC-PapersOnLine 51(1):680–685. https://doi.org/10.1016/j.ifacol.2018.05.11"
+      },
+      {
+        "doi": "10.1016/j.egyr.2021.12.057",
+        "title": "Belkhier Y, Achour A, Bures M, Ullah N, Bajaj M, Zawbaa HM, Kamel S (2022) Interconnection and damping assignment passivity-based non-linear observer control for efficiency maximization of permanent magnet synchronous motor. Energy Reports 8:1350–1361. https://doi.org/10.1016/j.egyr.2021.12.05"
+      },
+      {
+        "doi": "10.1016/j.gloei.2025.06.001",
+        "title": "Azzi M, Baghli L, Jamshidpour E, Thounthong P, Takorabet N (2025) Enhanced interconnection and damping assignment passivity-based control for PM synchronous motors. Global Energy Interconnection 8(4):657–667. https://doi.org/10.1016/j.gloei.2025.06.00"
+      },
+      {
+        "doi": "10.1109/LCSYS.2024.3404769",
+        "title": "Macchelli A (2024) A Discrete-Time Formulation of Nonlinear Distributed-Parameter Port-Hamiltonian Systems. IEEE Control Syst Lett 8:802–807. https://doi.org/10.1109/lcsys.2024.340476"
+      },
+      {
+        "doi": "10.1016/j.sysconle.2023.105501",
+        "title": "Sarkar A, Scherpen JMA (2023) Structure-preserving generalized balanced truncation for nonlinear port-Hamiltonian systems. Systems &amp; Control Letters 174:105501. https://doi.org/10.1016/j.sysconle.2023.10550"
+      },
+      {
+        "doi": "10.1007/s40313-023-01017-1",
+        "title": "Zenfari S, Laabissi M, Achhab ME (2023) Observer Design for a Class of Discrete Port Hamiltonian Systems. J Control Autom Electr Syst 34(5):963–970. https://doi.org/10.1007/s40313-023-01017-"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "10.1109/T-AIEE.1929.5055275",
+        "title": "Park RH (1929) Two-reaction theory of synchronous machines generalized method of analysis-part I. Trans Am Inst Electr Eng 48(3):716–727. https://doi.org/10.1109/t-aiee.1929.505527"
+      },
+      {
+        "doi": "null",
+        "title": "Blaschke, The Principle of Field Orientation as Applied to the New TRANSVECTOR Closed-Loop Control System for Rotating-Field Machines. Siemens Rev. (1972)"
+      },
+      {
+        "doi": "10.1109/TIE.2019.2903778",
+        "title": "Huang J, Zhang M, Ri S, Xiong C, Li Z, Kang Y (2020) High-Order Disturbance-Observer-Based Sliding Mode Control for Mobile Wheeled Inverted Pendulum Systems. IEEE Trans Ind Electron 67(3):2030–2041. https://doi.org/10.1109/tie.2019.290377"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      }
+    ]
+  },
+  {
     "doi": "10.3390/app12189086",
     "type": "journal-article",
     "title": "A Reversible Hydropump–Turbine System",
@@ -318670,6 +320047,175 @@
       {
         "doi": "10.3390/e24070985",
         "title": "Bédard CA, Bergeron G (2022) An Algorithmic Approach to Emergence. Entropy 24(7):985. https://doi.org/10.3390/e2407098"
+      }
+    ]
+  },
+  {
+    "doi": "10.3390/e28091002",
+    "type": "journal-article",
+    "title": "Modeling and Control Design of Port-Hamiltonian Systems in Discrete-Time",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2258-9699",
+        "authenticated-orcid": false,
+        "given": "Alessandro",
+        "family": "Macchelli",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Electrical, Electronic, and Information Engineering—“Guglielmo Marconi” (DEI), University of Bologna, viale del Risorgimento 2, 40136 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "abstract": "This paper aims to describe a synthesis procedure for discrete-time, energy-based regulators for continuous-time port-Hamiltonian systems. The methodology consists of three steps. The first deals with the definition of a discrete-time approximation of the plant, which is subsequently employed in the development of the control law. The discrete-time model is obtained from the continuous-time dynamics by replacing the gradient of the Hamiltonian function with a discrete gradient. In this way, passivity, with the energy as storage function, is preserved, although the resulting state equation is in implicit form. The second step concerns the control synthesis and extends the continuous-time energy-shaping plus damping injection design technique to the proposed class of discrete-time port-Hamiltonian systems. Finally, the last step addresses the interconnection between the digital controller and the continuous-time plant. The coupling is implemented via a zero-order hold and relies on the solution of an optimization problem that determines the “best” and “minimal” correction to be applied to the nominal control action in order to achieve the same performance as that obtained when the regulator is connected in closed loop with the discrete-time model of the plant. This is the reference scenario used to develop and tune the control law. The complete procedure (time discretisation, control design, and coupling implementation) is illustrated through an example.",
+    "journal": "Entropy",
+    "year": "2026",
+    "volume": "28",
+    "issue": "9",
+    "event": "",
+    "isbn": "",
+    "pages": "1002",
+    "publisher": "MDPI AG",
+    "keywords": "",
+    "dateY": "2026",
+    "dateM": "9",
+    "dateD": "7",
+    "permalink": "modeling-and-control-design-of-port-hamiltonian-systems-in-discrete-time",
+    "references": [
+      {
+        "doi": "10.1007/978-3-319-49992-5",
+        "title": "van der Schaft A (2017) L2-Gain and Passivity Techniques in Nonlinear Control. Springer International Publishin"
+      },
+      {
+        "doi": "10.1109/37.915398",
+        "title": "(2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.91539"
+      },
+      {
+        "doi": "10.1016/S0005-1098(01)00278-3",
+        "title": "Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-"
+      },
+      {
+        "doi": "10.1016/S0167-6911(00)00091-8",
+        "title": "Fujimoto K, Sugie T (2001) Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42(3):217–227. https://doi.org/10.1016/s0167-6911(00)00091-"
+      },
+      {
+        "doi": "10.1109/TNS.1983.4332919",
+        "title": "Ruth RD (1983) A Can0nical Integrati0n Technique. IEEE Trans Nucl Sci 30(4):2669–2671. https://doi.org/10.1109/tns.1983.433291"
+      },
+      {
+        "doi": "10.1016/0045-7825(96)01009-2",
+        "title": "Gonzalez O, Simo JC (1996) On the stability of symplectic and energy-momentum algorithms for non-linear Hamiltonian systems with symmetry. Computer Methods in Applied Mechanics and Engineering 134(3–4):197–222. https://doi.org/10.1016/0045-7825(96)01009-"
+      },
+      {
+        "doi": "10.1017/S096249290100006X",
+        "title": "Marsden JE, West M (2001) Discrete mechanics and variational integrators. Acta Numerica 10:357–514. https://doi.org/10.1017/s096249290100006"
+      },
+      {
+        "doi": "10.1016/j.sysconle.2019.104530",
+        "title": "Kotyczka P, Lefèvre L (2019) Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters 133:104530. https://doi.org/10.1016/j.sysconle.2019.10453"
+      },
+      {
+        "doi": "10.1016/j.automatica.2021.109842",
+        "title": "Kotyczka P, Thoma T (2021) Symplectic discrete-time energy-based control for nonlinear mechanical systems. Automatica 133:109842. https://doi.org/10.1016/j.automatica.2021.10984"
+      },
+      {
+        "doi": "10.1007/BF02440162",
+        "title": "Gonzalez O (1996) Time integration and discrete Hamiltonian systems. J Nonlinear Sci 6(5):449–467. https://doi.org/10.1007/bf0244016"
+      },
+      {
+        "doi": "10.1088/0305-4470/29/13/006",
+        "title": "Quispel GRW, Turner GS (1996) Discrete gradient methods for solving ODEs numerically while preserving a first integral. J Phys A: Math Gen 29(13):L341–L349. https://doi.org/10.1088/0305-4470/29/13/00"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "10.1016/j.sysconle.2017.10.003",
+        "title": "Aoues S, Di Loreto M, Eberard D, Marquis-Favre W (2017) Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability. Systems &amp; Control Letters 110:9–14. https://doi.org/10.1016/j.sysconle.2017.10.00"
+      },
+      {
+        "doi": "10.1109/CDC40024.2019.9029809",
+        "title": "Moreschini A, Mattioni M, Monaco S, Normand-Cyrot D (2019) Discrete port-controlled Hamiltonian dynamics and average passivation. 2019 IEEE 58th Conference on Decision and Control (CDC) 1430–143"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "10.1109/LCSYS.2020.3000705",
+        "title": "Moreschini A, Mattioni M, Monaco S, Normand-Cyrot D (2021) Stabilization of Discrete Port-Hamiltonian Dynamics via Interconnection and Damping Assignment. IEEE Control Syst Lett 5(1):103–108. https://doi.org/10.1109/lcsys.2020.300070"
+      },
+      {
+        "doi": "10.1109/LCSYS.2022.3182845",
+        "title": "Macchelli A (2022) Trajectory Tracking for Discrete-Time Port-Hamiltonian Systems. IEEE Control Syst Lett 6:3146–3151. https://doi.org/10.1109/lcsys.2022.318284"
+      },
+      {
+        "doi": "10.1109/TAC.2023.3292180",
+        "title": "Macchelli A (2023) Control Design for a Class of Discrete-Time Port-Hamiltonian Systems. IEEE Trans Automat Contr 68(12):8224–8231. https://doi.org/10.1109/tac.2023.329218"
+      },
+      {
+        "doi": "10.1109/LCSYS.2024.3404769",
+        "title": "Macchelli A (2024) A Discrete-Time Formulation of Nonlinear Distributed-Parameter Port-Hamiltonian Systems. IEEE Control Syst Lett 8:802–807. https://doi.org/10.1109/lcsys.2024.340476"
+      },
+      {
+        "doi": "10.1109/TAC.2025.3593062",
+        "title": "Macchelli A (2026) Port-Hamiltonian Boundary Control Systems in Discrete-Time Modeling and Control Design. IEEE Trans Automat Contr 71(2):722–736. https://doi.org/10.1109/tac.2025.359306"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "10.1109/CDC.2015.7402904",
+        "title": "Aoues S, Eberard D, Marquis-Favre W (2015) Discrete IDA-PBC control law for Newtonian mechanical port-Hamiltonian systems. 2015 54th IEEE Conference on Decision and Control (CDC) 4388–439"
+      },
+      {
+        "doi": "10.1109/TRO.2004.842330",
+        "title": "Stramigioli S, Secchi C, van der Schaft AJ, Fantuzzi C (2005) Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Trans Robot 21(4):574–587. https://doi.org/10.1109/tro.2004.84233"
+      },
+      {
+        "doi": "10.3166/ejc.13.583-590",
+        "title": "Costa-Castelló R, Fossas E (2007) On Preserving Passivity in Sampled-data Linear Systems. European Journal of Control 13(6):583–590. https://doi.org/10.3166/ejc.13.583-59"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "10.1137/1025002",
+        "title": "Harten A, Lax PD, Leer B van (1983) On Upstream Differencing and Godunov-Type Schemes for Hyperbolic Conservation Laws. SIAM Rev 25(1):35–61. https://doi.org/10.1137/102500"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "10.1109/TAC.2015.2400663",
+        "title": "Nunna K, Sassano M, Astolfi A (2015) Constructive Interconnection and Damping Assignment for Port-Controlled Hamiltonian Systems. IEEE Trans Automat Contr 60(9):2350–2361. https://doi.org/10.1109/tac.2015.240066"
+      },
+      {
+        "doi": "null",
+        "title": ""
+      },
+      {
+        "doi": "10.1109/TCST.2024.3386062",
+        "title": "Krupa P, Jaouani R, Limon D, Alamo T (2024) A Sparse ADMM-Based Solver for Linear MPC Subject to Terminal Quadratic Constraint. IEEE Trans Contr Syst Technol 32(6):2376–2384. https://doi.org/10.1109/tcst.2024.338606"
       }
     ]
   },

@@ -6,8 +6,8 @@ year: 2020
 authors: Björn Augner
 category: chapters
 tags:
-  - Primary: 93D15
-  - 35B35. Secondary: 35G46
+  - "Primary: 93D15"
+  - "35B35. Secondary: 35G46"
   - 37L15
   - 47B44
   - 47D06

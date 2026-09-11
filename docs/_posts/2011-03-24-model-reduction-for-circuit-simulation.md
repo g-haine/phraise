@@ -3,7 +3,7 @@ title: "Model Reduction for Circuit Simulation"
 date: 2011-03-24 00:00:00 +0100
 permalink: model-reduction-for-circuit-simulation
 year: 2011
-authors: 
+authors: ""
 category: books
 ---
  
