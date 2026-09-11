@@ -57,7 +57,8 @@ def lines(data):
     return data.removesuffix(b"\n").split(b"\n") if data else []
 
 
-def concatenate(doi, new_doi, bad_doi, biblio, backup_dir, reporter=None):
+def concatenate(doi, new_doi, bad_doi, biblio, backup_dir, reporter=None,
+                dry_run=False):
     """Validate inputs, prepare outputs, then replace bibliography and DOI files."""
     reporter = reporter or Reporter(-1)
     reporter.step("Validating DOI lists and bibliography files")
@@ -83,21 +84,25 @@ def concatenate(doi, new_doi, bad_doi, biblio, backup_dir, reporter=None):
     outputs = [(biblio, (json.dumps(filtered, ensure_ascii=False, indent=2, allow_nan=False) + "\n").encode("utf-8")),
                (doi, cleaned), (new_doi, b"")]
     reporter.step(f"Merging {len(old) + len(new)} record(s): {len(merged)} unique, {len(filtered)} retained")
-    staged = []
-    try:
-        for path, content in outputs:
-            with tempfile.NamedTemporaryFile(dir=path.parent, prefix=f".{path.name}.", delete=False) as stream:
-                temp = Path(stream.name)
-                staged.append((temp, path))
-                stream.write(content)
-            temp.chmod(stat.S_IMODE(path.stat().st_mode))
-        reporter.step("Replacing bibliography and DOI files")
-        for temp, path in staged:
-            os.replace(temp, path)
-    finally:
-        for temp, _ in staged:
-            temp.unlink(missing_ok=True)
-    return f"Backup: {backup}; input: {len(old) + len(new)}; duplicates removed: {len(old) + len(new) - len(merged)}; excluded: {len(merged) - len(filtered)}; retained: {len(filtered)}"
+    if dry_run:
+        reporter.step("Would replace bibliography and DOI files")
+    else:
+        staged = []
+        try:
+            for path, content in outputs:
+                with tempfile.NamedTemporaryFile(dir=path.parent, prefix=f".{path.name}.", delete=False) as stream:
+                    temp = Path(stream.name)
+                    staged.append((temp, path))
+                    stream.write(content)
+                temp.chmod(stat.S_IMODE(path.stat().st_mode))
+            reporter.step("Replacing bibliography and DOI files")
+            for temp, path in staged:
+                os.replace(temp, path)
+        finally:
+            for temp, _ in staged:
+                temp.unlink(missing_ok=True)
+    result = f"Backup: {backup}; input: {len(old) + len(new)}; duplicates removed: {len(old) + len(new) - len(merged)}; excluded: {len(merged) - len(filtered)}; retained: {len(filtered)}"
+    return f"Dry run: {result}" if dry_run else result
 
 
 def main(argv=None):
@@ -108,6 +113,8 @@ def main(argv=None):
                         help="Show selected paths and detailed progress")
     output.add_argument("-q", "--quiet", action="store_true",
                         help="Suppress progress and success output")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Validate and compute changes without writing files")
     for name, default in [("doi", "DOI.txt"), ("new-doi", "newDOI.txt"), ("bad-doi", "badDOI.txt"),
                           ("biblio", "assets/data/biblio.json"), ("backup-dir", "assets/data")]:
         parser.add_argument(f"--{name}", type=Path, default=Path(default))
@@ -116,7 +123,7 @@ def main(argv=None):
     try:
         summary = concatenate(*(args.root / getattr(args, name) for name in
                                 ("doi", "new_doi", "bad_doi", "biblio", "backup_dir")),
-                              reporter=reporter)
+                              reporter=reporter, dry_run=args.dry_run)
         if not args.quiet:
             print(summary)
     except (OSError, ValueError) as error:

@@ -11,7 +11,7 @@ def main(argv=None):
     args = cli.parse_args(argv)
     return run_cli(lambda a: collect(
         a.root, a.root / a.doi_file,
-        Client(a.root, reporter=a.reporter), a.reporter), args)
+        Client(a.root, reporter=a.reporter), a.reporter, a.dry_run), args)
 
 
 if __name__ == '__main__':

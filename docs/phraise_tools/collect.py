@@ -4,7 +4,7 @@ import re
 
 from .common import (backup_path, bibliography, clean_metadata, json_bytes,
                      lines_bytes, read_lines, Reporter, safe_component, slugify,
-                     text, write_batch)
+                     summary, text, write_batch)
 from .metadata import enriched_fields
 
 
@@ -41,7 +41,7 @@ def make_record(doi, message, slug, client):
     }
 
 
-def collect(root: Path, input_path: Path, client, reporter=None):
+def collect(root: Path, input_path: Path, client, reporter=None, dry_run=False):
     reporter = reporter or Reporter(-1)
     biblio_path = root / 'assets/data/biblio.json'
     existing = bibliography(root)  # Validate the backup before collecting anything.
@@ -53,7 +53,7 @@ def collect(root: Path, input_path: Path, client, reporter=None):
     candidates = [doi for doi in dict.fromkeys(d.lower() for d in submitted) if doi not in known]
     reporter.step(f'Prepared {len(candidates)} unique DOI(s) from {len(submitted)} input line(s)')
     if not candidates:
-        return 'No new DOIs; bibliography unchanged.'
+        return summary('No new DOIs; bibliography unchanged.', dry_run)
     outputs = {}
     records = []
     absent = []
@@ -77,7 +77,11 @@ def collect(root: Path, input_path: Path, client, reporter=None):
     backup = backup_path(root / 'assets/data', 'biblio', '.json')
     outputs = {backup: biblio_path.read_bytes(), **outputs,
                biblio_path: json_bytes(records), input_path: lines_bytes(candidates)}
-    reporter.step(f'Writing {len(records)} publication record(s) and {len(records)} BibTeX file(s)')
-    write_batch(outputs)
-    reporter.step(f'Bibliography backup created: {backup.name}')
-    return f'Collected {len(records)} publications; unavailable: {len(absent)}; backup: {backup}'
+    action = 'Would write' if dry_run else 'Writing'
+    reporter.step(f'{action} {len(records)} publication record(s) and {len(records)} BibTeX file(s)')
+    if not dry_run:
+        write_batch(outputs)
+        reporter.step(f'Bibliography backup created: {backup.name}')
+    else:
+        reporter.step(f'Would create bibliography backup: {backup.name}')
+    return summary(f'Collected {len(records)} publications; unavailable: {len(absent)}; backup: {backup}', dry_run)

@@ -10,7 +10,7 @@ from unidecode import unidecode
 
 from .common import (author_names, backup_path, bibliography, json_bytes, mappings,
                      mathjaxify, read_lines, record_date, Reporter, safe_component,
-                     slugify, text, write_batch)
+                     slugify, summary, text, write_batch)
 
 
 def _name_signature(name):
@@ -65,7 +65,7 @@ def author_mapping_plan(root: Path):
     }
 
 
-def apply_safe_author_mappings(root: Path, reporter=None):
+def apply_safe_author_mappings(root: Path, reporter=None, dry_run=False):
     """Append only proposals with a unique slug and no plausible known match."""
     plan = author_mapping_plan(root)
     mapping, _ = mappings(root)
@@ -74,16 +74,20 @@ def apply_safe_author_mappings(root: Path, reporter=None):
     for slug, names in plan['safe'].items():
         mapping[slug] = names
         if reporter:
-            reporter.detail(f'added {slug}: {", ".join(names)}')
-    write_batch({root / 'assets/data/author_mappings.json': json_bytes(mapping)})
-    return len(plan['safe']), author_mapping_plan(root)
+            verb = 'would add' if dry_run else 'added'
+            reporter.detail(f'{verb} {slug}: {", ".join(names)}')
+    if not dry_run:
+        write_batch({root / 'assets/data/author_mappings.json': json_bytes(mapping)})
+        return len(plan['safe']), author_mapping_plan(root)
+    return len(plan['safe']), plan
 
 
-def format_author_mapping_plan(plan, applied=0):
+def format_author_mapping_plan(plan, applied=0, dry_run=False):
     """Render an actionable report without hiding ambiguous identities."""
     lines = []
     if applied:
-        lines.append(f'Applied {applied} safe author mapping(s).')
+        verb = 'Would apply' if dry_run else 'Applied'
+        lines.append(f'{verb} {applied} safe author mapping(s).')
     lines.append(f"Known name variants: {plan['known_names']}")
     lines.append(f"Unknown author names: {plan['unknown_names']}")
     if plan['safe']:
@@ -174,7 +178,7 @@ def render_post(record, reverse, known, permalinks, bibtex):
     return f'{day}-{slug}.md', rendered
 
 
-def generate_posts(root: Path, client, reporter=None):
+def generate_posts(root: Path, client, reporter=None, dry_run=False):
     reporter = reporter or Reporter(-1)
     records = bibliography(root)
     _, reverse = mappings(root)
@@ -206,11 +210,15 @@ def generate_posts(root: Path, client, reporter=None):
         outputs[target] = bib.read_bytes()
     outputs[root / '_data/library.yml'] = f'last_update: "{date.today().isoformat()}"\n'.encode()
     obsolete = [p for p in (root / '_posts').glob('*.md') if p not in outputs]
-    reporter.step(f'Writing posts; removing {len(obsolete)} obsolete post(s) and archiving {len(orphan_bibs)} orphan BibTeX file(s)')
-    write_batch(outputs)
-    for path in obsolete + orphan_bibs:
-        path.unlink()
-    return f'Generated {len(records)} posts; archived {len(orphan_bibs)} orphan BibTeX files.'
+    if dry_run:
+        reporter.step(f'Would write posts, remove {len(obsolete)} obsolete post(s) and archive {len(orphan_bibs)} orphan BibTeX file(s)')
+    else:
+        reporter.step(f'Writing posts; removing {len(obsolete)} obsolete post(s) and archiving {len(orphan_bibs)} orphan BibTeX file(s)')
+    if not dry_run:
+        write_batch(outputs)
+        for path in obsolete + orphan_bibs:
+            path.unlink()
+    return summary(f'Generated {len(records)} posts; archived {len(orphan_bibs)} orphan BibTeX files.', dry_run)
 
 
 def page_header(title, permalink):
@@ -224,7 +232,7 @@ def publication_list(items):
     return result + '\n\n</ul>\n{% include count-posts.html %}\n'
 
 
-def generate_pages(root: Path, reporter=None):
+def generate_pages(root: Path, reporter=None, dry_run=False):
     reporter = reporter or Reporter(-1)
     records = bibliography(root)
     mapping, reverse = mappings(root)
@@ -279,8 +287,9 @@ def generate_pages(root: Path, reporter=None):
         reporter.detail(f'years/{year}.md: {len(years[year])} publication(s)')
     outputs[root / 'years/index.md'] = (year_index + '</div>\n').encode('utf-8')
     obsolete = [p for folder in ['authors', 'years'] for p in (root / folder).glob('*.md') if p not in outputs]
-    reporter.step(f'Writing pages for {len(authors)} author(s) and {len(years)} year(s)')
-    write_batch(outputs)
-    for path in obsolete:
-        path.unlink()
-    return f'Generated pages for {len(authors)} authors and {len(years)} years.'
+    reporter.step(f'{"Would write" if dry_run else "Writing"} pages for {len(authors)} author(s) and {len(years)} year(s)')
+    if not dry_run:
+        write_batch(outputs)
+        for path in obsolete:
+            path.unlink()
+    return summary(f'Generated pages for {len(authors)} authors and {len(years)} years.', dry_run)
