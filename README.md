@@ -49,7 +49,7 @@ Then, run the following workflow from the `docs` directory:
 5. `python setAuthorMapping.py --apply-safe` – add unambiguous new identities,
    then review the remaining cases in `assets/data/author_mappings.json` and
    rerun the first command.
-6. `python3 concatenate.py`
+6. `python concatenate.py`
 7. `python setPosts.py && python setPages.py`
 8. `bundle exec jekyll serve --watch` – verify the build locally and make final corrections.
 9. Commit and push the changes.
@@ -83,11 +83,11 @@ pages render correctly before publishing them.
 
 ### Bibliography concatenation (Python 3.12)
 
-`python3 docs/concatenate.py` also works from the repository root. No Python
+`python docs/concatenate.py` also works from the repository root. No Python
 packages, API keys or `.env` are needed for this step. Use `--root DIR` for a
 separate data directory; `--doi`, `--new-doi`, `--bad-doi`, `--biblio` and
 `--backup-dir` override paths relative to that root (absolute paths also work).
-Run `python3 docs/concatenate.py --help` for details.
+Run `python docs/concatenate.py --help` for details.
 
 The newest backup by modification time is merged first, so its record wins
 when a DOI occurs twice. Records are sorted by DOI. Historical exact-line
@@ -135,6 +135,12 @@ redirect and status, without URLs, queries, headers or API keys). Use `--quiet`
 for automation: success and progress output are suppressed, while warnings and
 errors remain visible. For `setAuthorMapping.py --json`, the requested JSON is
 still written to standard output when `--quiet` is used.
+
+Use `--dry-run` with any maintenance command to validate inputs, perform the
+normal lookups and compute its complete result without writing, archiving or
+deleting files. The summary starts with `Dry run:` and progress messages use
+“Would …” for planned mutations. Network commands still make their normal HTTP
+requests, so a simulation can consume provider quota and report API errors.
 
 `setAuthorMapping.py` proposes a new identity automatically only when its slug
 is unique and no known author shares its normalized surname and first initial.

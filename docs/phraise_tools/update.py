@@ -4,7 +4,8 @@ import re
 import unicodedata
 
 from .common import (backup_path, bibliography, json_bytes, lines_bytes,
-                     read_json, read_lines, Reporter, safe_component, write_batch)
+                     read_json, read_lines, Reporter, safe_component, summary,
+                     write_batch)
 from .metadata import enriched_fields
 
 TYPES = {'journal-article', 'proceedings-article', 'book-chapter', 'book', 'monograph'}
@@ -15,7 +16,7 @@ def is_relevant(value):
     return bool(re.search(r'port[-\s]+(controlled )?hamiltonian|interconnection and damping assignment|dirac structure|dissipative hamiltonian', value, re.I))
 
 
-def find_updates(root: Path, client, max_pages=20, reporter=None):
+def find_updates(root: Path, client, max_pages=20, reporter=None, dry_run=False):
     reporter = reporter or Reporter(-1)
     records = bibliography(root)
     known = read_lines(root / 'DOI.txt')
@@ -99,8 +100,9 @@ def find_updates(root: Path, client, max_pages=20, reporter=None):
     outputs.update({root / 'DOI.txt': lines_bytes(known), root / 'newDOI.txt': lines_bytes(pending),
                     root / 'badDOI.txt': lines_bytes(bad), root / 'checkDOI.txt': lines_bytes(check),
                     root / 'assets/data/biblio.json': json_bytes(retained), trash_path: json_bytes(trash)})
-    reporter.step('Writing DOI queues, bibliography and archive')
-    write_batch(outputs)
-    for bib in to_remove:
-        bib.unlink()
-    return f'Queued {len(pending)} DOIs; {len(removed_dois)} records archived; {len(check)} to check.'
+    reporter.step(('Would write' if dry_run else 'Writing') + ' DOI queues, bibliography and archive')
+    if not dry_run:
+        write_batch(outputs)
+        for bib in to_remove:
+            bib.unlink()
+    return summary(f'Queued {len(pending)} DOIs; {len(removed_dois)} records archived; {len(check)} to check.', dry_run)

@@ -8,7 +8,7 @@ from phraise_tools.metadata import Client
 def main(argv=None):
     args = parser(__doc__).parse_args(argv)
     return run_cli(lambda a: generate_posts(
-        a.root, Client(a.root, reporter=a.reporter), a.reporter), args)
+        a.root, Client(a.root, reporter=a.reporter), a.reporter, a.dry_run), args)
 
 
 if __name__ == '__main__':

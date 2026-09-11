@@ -101,6 +101,14 @@ class ConcatenateTests(unittest.TestCase):
         self.run_python()
         self.assertEqual((self.root / 'DOI.txt').read_bytes(), b'')
 
+    def test_dry_run_computes_summary_without_writing(self):
+        before = self.snapshot()
+        result = module.concatenate(*(self.root / name for name in (
+            'DOI.txt', 'newDOI.txt', 'badDOI.txt',
+            'assets/data/biblio.json', 'assets/data')), dry_run=True)
+        self.assertTrue(result.startswith('Dry run:'))
+        self.assertEqual(before, self.snapshot())
+
     def test_staging_failure_preserves_inputs_and_cleans_temps(self):
         before = self.snapshot()
         original = module.tempfile.NamedTemporaryFile
@@ -162,6 +170,16 @@ class ConcatenateTests(unittest.TestCase):
             self.assertEqual(quiet.returncode, 0, quiet.stderr)
             self.assertEqual(quiet.stdout, b'')
             self.assertEqual(quiet.stderr, b'')
+
+    def test_cli_dry_run(self):
+        before = self.snapshot()
+        result = subprocess.run(
+            [sys.executable, str(DOCS / 'concatenate.py'), '--root',
+             str(self.root), '--dry-run'], capture_output=True)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertTrue(result.stdout.startswith(b'Dry run:'))
+        self.assertIn(b'Would replace', result.stderr)
+        self.assertEqual(before, self.snapshot())
 
 
 if __name__ == '__main__':

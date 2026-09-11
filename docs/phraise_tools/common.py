@@ -50,7 +50,14 @@ def parser(description: str) -> argparse.ArgumentParser:
                         help='Show DOI/file details; repeat (-vv) for HTTP diagnostics')
     output.add_argument('-q', '--quiet', action='store_true',
                         help='Suppress progress and success output; errors and warnings remain')
+    result.add_argument('--dry-run', action='store_true',
+                        help='Validate and compute changes without writing or deleting files')
     return result
+
+
+def summary(message: str, dry_run: bool) -> str:
+    """Make simulations unmistakable in command output."""
+    return f'Dry run: {message}' if dry_run else message
 
 
 def run_cli(action, args) -> int:

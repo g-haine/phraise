@@ -12,7 +12,8 @@ def main(argv=None):
     if args.max_pages < 1:
         cli.error('--max-pages must be positive')
     return run_cli(lambda a: find_updates(
-        a.root, Client(a.root, reporter=a.reporter), a.max_pages, a.reporter), args)
+        a.root, Client(a.root, reporter=a.reporter), a.max_pages, a.reporter,
+        a.dry_run), args)
 
 
 if __name__ == '__main__':

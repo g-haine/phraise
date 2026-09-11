@@ -119,6 +119,31 @@ class WorkflowTests(unittest.TestCase):
         collect(self.root, self.root / 'newDOI.txt', self.client)
         self.assertEqual(before, self.snapshot())
 
+    def test_dry_run_all_workflow_stages_leave_every_file_unchanged(self):
+        (self.root / 'newDOI.txt').write_text('10.1/new\n')
+        self.client.messages['10.1/new'] = message()
+        self.client.pages['*']['results'] = [
+            {'doi': 'https://doi.org/10.1/new'}]
+        (self.root / '_posts/obsolete.md').write_text('obsolete')
+        (self.root / 'assets/bib/orphan.bib').write_text('orphan')
+        backup = self.root / 'assets/data/biblio-backup.json'
+        backup.write_bytes((self.root / 'assets/data/biblio.json').read_bytes())
+        before = self.snapshot()
+
+        results = [
+            collect(self.root, self.root / 'newDOI.txt', self.client,
+                    dry_run=True),
+            find_updates(self.root, self.client, dry_run=True),
+            concatenate(*(self.root / path for path in [
+                'DOI.txt', 'newDOI.txt', 'badDOI.txt',
+                'assets/data/biblio.json', 'assets/data']), dry_run=True),
+            generate_posts(self.root, self.client, dry_run=True),
+            generate_pages(self.root, dry_run=True),
+        ]
+
+        self.assertTrue(all(result.startswith('Dry run:') for result in results))
+        self.assertEqual(before, self.snapshot())
+
     def test_collection_failure_leaves_inputs_unchanged(self):
         (self.root / 'newDOI.txt').write_text('10.1/a\n10.1/b\n')
         self.client.messages['10.1/a'] = message()
@@ -241,6 +266,7 @@ class WorkflowTests(unittest.TestCase):
         for script in ['getData', 'looking4Update', 'setAuthorMapping', 'setPosts', 'setPages']:
             result = subprocess.run([sys.executable, str(DOCS / f'{script}.py'), '--help'], capture_output=True)
             self.assertEqual(result.returncode, 0, result.stderr)
+            self.assertIn(b'--dry-run', result.stdout)
         for cwd in [DOCS.parent, DOCS]:
             for script in ['setAuthorMapping', 'setPosts', 'setPages']:
                 result = subprocess.run([sys.executable, str(DOCS / f'{script}.py'), '--root', str(self.root)], cwd=cwd, capture_output=True)
@@ -429,6 +455,7 @@ class AuthorMappingPlanTests(unittest.TestCase):
     setUp = WorkflowTests.setUp
     save = WorkflowTests.save
     load = WorkflowTests.load
+    snapshot = WorkflowTests.snapshot
 
     def prepare_unknown_authors(self):
         records = []
@@ -465,6 +492,17 @@ class AuthorMappingPlanTests(unittest.TestCase):
         applied_again, _ = apply_safe_author_mappings(self.root)
         self.assertEqual(applied_again, 0)
 
+    def test_apply_safe_dry_run_reports_without_writing(self):
+        self.prepare_unknown_authors()
+        before = self.snapshot()
+        stream = io.StringIO()
+        applied, plan = apply_safe_author_mappings(
+            self.root, Reporter(1, stream), dry_run=True)
+        self.assertEqual(applied, 1)
+        self.assertEqual(plan['safe'], {'grace-hopper': ['Grace Hopper']})
+        self.assertIn('would add grace-hopper', stream.getvalue())
+        self.assertEqual(before, self.snapshot())
+
     def test_cli_json_and_apply_safe(self):
         self.prepare_unknown_authors()
         command = [sys.executable, str(DOCS / 'setAuthorMapping.py'), '--root', str(self.root)]
@@ -479,3 +517,22 @@ class AuthorMappingPlanTests(unittest.TestCase):
         report = json.loads(applied.stdout)
         self.assertEqual(report['applied'], 1)
         self.assertEqual(report['unknown_names'], 3)
+
+    def test_cli_apply_safe_dry_run_json(self):
+        self.prepare_unknown_authors()
+        before = self.snapshot()
+        command = [sys.executable, str(DOCS / 'setAuthorMapping.py'),
+                   '--root', str(self.root), '--apply-safe', '--dry-run',
+                   '--json', '--quiet']
+        result = subprocess.run(command, capture_output=True)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        report = json.loads(result.stdout)
+        self.assertTrue(report['dry_run'])
+        self.assertEqual(report['applied'], 0)
+        self.assertEqual(report['would_apply'], 1)
+        self.assertEqual(before, self.snapshot())
+
+        human = subprocess.run(command[:-2], capture_output=True)
+        self.assertEqual(human.returncode, 0, human.stderr)
+        self.assertTrue(human.stdout.startswith(b'Dry run:'))
+        self.assertEqual(before, self.snapshot())

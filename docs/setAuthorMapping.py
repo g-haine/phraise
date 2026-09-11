@@ -10,13 +10,19 @@ from phraise_tools.generate import (apply_safe_author_mappings,
 
 def process(args):
     if args.apply_safe:
-        args.reporter.step('Applying author mappings with no detected ambiguity')
-        applied, plan = apply_safe_author_mappings(args.root, args.reporter)
+        action = 'Simulating' if args.dry_run else 'Applying'
+        args.reporter.step(f'{action} author mappings with no detected ambiguity')
+        applied, plan = apply_safe_author_mappings(
+            args.root, args.reporter, args.dry_run)
     else:
         applied, plan = 0, author_mapping_plan(args.root)
     if args.json:
-        return json.dumps({'applied': applied, **plan}, ensure_ascii=False, indent=2)
-    return format_author_mapping_plan(plan, applied)
+        return json.dumps({'applied': 0 if args.dry_run else applied,
+                           'would_apply': applied if args.dry_run else 0,
+                           'dry_run': args.dry_run, **plan},
+                          ensure_ascii=False, indent=2)
+    report = format_author_mapping_plan(plan, applied, args.dry_run)
+    return f'Dry run:\n{report}' if args.dry_run else report
 
 
 def main(argv=None):
