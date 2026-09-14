@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-09T04:43:39Z",
+  "generated_at": "2026-09-14T22:31:30Z",
   "papers": [
+    {
+      "title": "Feedback approaches for set-point stabilization of interacting particle systems",
+      "summary": "We explore the problem of asymptotically stabilizing a class of interacting particle systems to a prescribed particle configuration with zero velocity. The class of interacting particle systems is motivated by the Cucker-Smale model on the mean-field level. Rather than designing a feedback by manually solving an IDA-PBC matching equation, we derive a feedback using an instantaneous rolling horizon control algorithm. We show that this feedback preserves the port-Hamiltonian structure of the interacting particle system and therefore allows for an interpretation in the IDA-PBC framework. Additionally, the energy balance of the closed-loop Hamiltonian provides an important tool to prove convergence of the particles' velocities and interaction forces in discrete and continuous time. If the control operator is surjective, we additionally prove convergence of the particle positions to the prescribed configuration.",
+      "url": "http://arxiv.org/abs/2608.17222v2",
+      "authors": [
+        "Daniel Jannik Happ",
+        "Birgit Jacob",
+        "Claudia Totzeck"
+      ],
+      "updated": "2026-09-11"
+    },
     {
       "title": "Structure-Preserving Data-Driven Identification of Port-Hamiltonian Differential-Algebraic Systems",
       "summary": "We present a data-driven approach to identifying linear index-1 differential-algebraic pH systems (pH-DAEs) based on input-output measurements. In comparison to the identification of port-Hamiltonian (pH) systems, the algebraic constraint and the index condition pose additional challenges. First, we establish a structure-preserving formulation of the considered pH-DAE class and derive an implicit midpoint discretization that preserves the algebraic constraints and discrete dissipation inequality. We formulate the identification problem as a regularized least-squares minimization problem subject to the pH-DAE dynamics. Exploiting the index-1 structure, we reduce the constrained problem to an unconstrained optimization problem over the system parameters while preserving the port-Hamiltonian structure. Next, we derive an adjoint-based formulation to efficiently evaluate the gradient of the resulting reduced cost functional. This enables us to use gradient-based optimization methods for parameter estimation. Under suitable assumptions on the admissible parameter set, the existence of a minimizer is established. Numerical experiments demonstrate that the proposed approach can identify surrogate pH-DAE systems that accurately reproduce the input-output behavior of reference systems. Further investigations show the approach's potential for identifying reduced-order surrogate models. Cross-validation with independent input signals confirms the predictive capability of the identified models.",
@@ -127,17 +138,6 @@
         "Marco Roschkowski"
       ],
       "updated": "2026-08-20"
-    },
-    {
-      "title": "Feedback approaches for set-point stabilization of interacting particle systems",
-      "summary": "We explore the problem of asymptotically stabilizing a class of interacting particle systems to a prescribed particle configuration with zero velocity. The class of interacting particle systems is motivated by the Cucker-Smale model on the mean-field level. Rather than designing a feedback by manually solving an IDA-PBC matching equation, we derive a feedback using an instantaneous rolling horizon control algorithm. We show that this feedback preserves the port-Hamiltonian structure of the interacting particle system and therefore allows for an interpretation in the IDA-PBC framework. Additionally, the energy balance of the closed-loop Hamiltonian provides an important tool to prove convergence of the particles' velocities and interaction forces in discrete and continuous time. If the control operator is surjective, we additionally prove convergence of the particle positions to the prescribed configuration.",
-      "url": "http://arxiv.org/abs/2608.17222v1",
-      "authors": [
-        "Daniel Jannik Happ",
-        "Birgit Jacob",
-        "Claudia Totzeck"
-      ],
-      "updated": "2026-08-18"
     },
     {
       "title": "Optimization-based control by interconnection of nonlinear port-Hamiltonian systems",
