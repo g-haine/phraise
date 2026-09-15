@@ -152,15 +152,6 @@ def main() -> None:
         _warning(f"{error}; keeping the existing cache unchanged")
         return
 
-    if OUTPUT.exists():
-        try:
-            current = json.loads(OUTPUT.read_text(encoding="utf-8"))
-        except (json.JSONDecodeError, OSError):
-            current = {}
-        if current.get("papers") == papers:
-            print("arXiv cache is already up to date")
-            return
-
     payload = {
         "generated_at": datetime.now(timezone.utc)
         .isoformat(timespec="seconds")
