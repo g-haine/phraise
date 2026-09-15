@@ -18,6 +18,7 @@ ARXIV_API = "https://export.arxiv.org/api/query"
 OUTPUT = Path("docs/data/arxiv.json")
 MAX_RESULTS = 25
 ATOM_NS = {"atom": "http://www.w3.org/2005/Atom"}
+CONTACT_EMAIL = "ghislain.haine@isae.fr"
 RETRY_DELAYS_SECONDS = (60, 180, 600)
 MAX_RETRY_AFTER_SECONDS = 300
 RETRYABLE_HTTP_STATUS_CODES = {408, 429, 500, 502, 503, 504}
@@ -72,6 +73,10 @@ def _fetch_xml(request: Request) -> bytes:
                 raise
             failure = f"arXiv returned HTTP {error.code}"
             retry_after = _retry_after_seconds(error)
+            if error.code == 429 and retry_after is None:
+                raise TemporaryArxivError(
+                    f"{failure} without Retry-After; not retrying"
+                ) from None
         except (URLError, TimeoutError) as error:
             failure = f"arXiv request failed: {error}"
 
@@ -105,9 +110,12 @@ def fetch_papers() -> list[dict[str, object]]:
         url,
         headers={
             "User-Agent": (
-                "PHRAISE/1.0 (arXiv cache; "
-                "https://g-haine.github.io/phraise/)"
-            )
+                "PHRAISE/1.0 "
+                "(+https://github.com/g-haine/phraise; "
+                f"contact: {CONTACT_EMAIL})"
+            ),
+            "From": CONTACT_EMAIL,
+            "Accept": "application/atom+xml",
         },
     )
 
