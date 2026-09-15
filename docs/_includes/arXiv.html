@@ -19,6 +19,10 @@
     async function fetchPortHamiltonianPapers() {
         const loader = document.getElementById("arxiv-loader");
         const list = document.getElementById("arxiv-list");
+        const lastUpdateContainer = document.getElementById(
+            "arxiv-last-update-container"
+        );
+        const lastUpdate = document.getElementById("arxiv-last-update");
         loader.style.display = "block";
 
         try {
@@ -37,6 +41,17 @@
 
             if (!Array.isArray(papers) || papers.length === 0) {
                 throw new Error("arXiv cache contains no papers");
+            }
+
+            const generatedAt = new Date(data.generated_at);
+            if (!Number.isNaN(generatedAt.getTime())) {
+                const formattedDate = new Intl.DateTimeFormat("en-GB", {
+                    dateStyle: "long",
+                    timeStyle: "short",
+                    timeZone: "UTC"
+                }).format(generatedAt);
+                lastUpdate.textContent = `${formattedDate} UTC`;
+                lastUpdateContainer.hidden = false;
             }
 
             list.innerHTML = "";
