@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-14T22:31:30Z",
+  "generated_at": "2026-09-16T12:37:06Z",
   "papers": [
+    {
+      "title": "Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems",
+      "summary": "Finite-dimensional Koopman models enable efficient linear prediction and control of nonlinear robotic systems. However, models learned purely from trajectory data may violate the energetic structure of the underlying mechanics, producing predictions that exhibit artificial energy growth and diverge under recursive propagation. This work presents a structure-preserving Koopman framework for Euler-Lagrange systems built on generalized-momentum coordinates. The momentum transformation exposes the mechanical actuation as a known, state-independent port, which is preserved explicitly in the lifted dynamics. A structure-constrained neural architecture is developed to jointly learn the lifting functions and a port-Hamiltonian Koopman generator, rendering the learned dynamics passive by construction rather than through penalty terms or post-hoc projection. A Cayley-midpoint discretization further preserves the corresponding storage-dissipation balance exactly in discrete time. These properties are established analytically by deriving the discrete storage balance and associated stability guarantees of the learned predictor. Simulation and experimental studies demonstrate improved prediction accuracy, data efficiency, and closed-loop tracking over Koopman baselines, with increasing gains for higher-dimensional systems.",
+      "url": "http://arxiv.org/abs/2609.17249v1",
+      "authors": [
+        "Rajpal Singh",
+        "Aditya Singh",
+        "Jishnu Keshavan"
+      ],
+      "updated": "2026-09-15"
+    },
+    {
+      "title": "Well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation",
+      "summary": "We characterize the well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation. This class includes in particular the Euler-Bernoulli beam equations and more generally 1D linear infinite-dimensional port-Hamiltonian systems with boundary control and observation as well as coupled systems. It is known, that for the Timoshenko beam models internal well-posedness implies well-posedness of the overall system. By means of an example we show that this is not true for the Euler-Bernoulli beam models. An easy verifiable equivalent condition for well-posedness of the overall system will be presented. We will conclude the paper by applying the obtained results to several Euler-Bernoulli beam models.",
+      "url": "http://arxiv.org/abs/2501.16862v4",
+      "authors": [
+        "Bouchra Elghazi",
+        "Birgit Jacob",
+        "Hans Zwart"
+      ],
+      "updated": "2026-09-14"
+    },
+    {
+      "title": "Systematic Construction of Time-Dependent Hamiltonians for Microwave-Driven Josephson Circuits",
+      "summary": "Time-dependent electromagnetic drives are fundamental for controlling complex quantum systems, including superconducting Josephson circuits. In these devices, accurate time-dependent Hamiltonian models are imperative for predicting their dynamics and designing high-fidelity quantum operations. Existing numerical methods, such as black-box quantization (BBQ) and energy-participation ratio (EPR), excel at modeling the static Hamiltonians of Josephson circuits. However, these techniques do not fully capture the behavior of driven circuits stimulated by external microwave drives, nor do they include a generalized approach to account for the inevitable noise and dissipation that enter through microwave ports. Here, we introduce numerical techniques that leverage classical microwave simulations, efficiently executable in finite-element solvers, to obtain the time-dependent Hamiltonian of microwave-driven superconducting circuits with arbitrary geometries under charge, flux, or mixed electromagnetic modulation. Importantly, our techniques do not rely on a lumped-element description of the superconducting circuit, in contrast to previous approaches to tackling this problem. We demonstrate the versatility of our approach by characterizing the driven properties of realistic circuit devices in complex electromagnetic environments, including coherent dynamics due to charge and flux modulation, as well as drive-induced relaxation and dephasing. Our techniques offer a powerful toolbox for optimizing circuit designs and advancing practical applications in superconducting quantum computing.",
+      "url": "http://arxiv.org/abs/2512.20743v5",
+      "authors": [
+        "Yao Lu",
+        "Tianpu Zhao",
+        "André Vallières",
+        "Kevin C. Smith",
+        "Daniel Weiss",
+        "Xinyuan You",
+        "Yaxing Zhang",
+        "Suhas Ganjam",
+        "Aniket Maiti",
+        "John W. O. Garmon",
+        "Shantanu Mundhada",
+        "Ziwen Huang",
+        "Ian Mondragon-Shem",
+        "Steven M. Girvin",
+        "Jens Koch",
+        "Robert J. Schoelkopf"
+      ],
+      "updated": "2026-09-14"
+    },
+    {
+      "title": "Port-Transversal Barriers: Graph-Theoretic Safety for Port-Hamiltonian Systems",
+      "summary": "Synthesizing control barrier functions (CBFs) for complex nonlinear systems remains difficult, particularly when safety constraints have high relative degree with respect to the input. In this work, we study the class of composite port-Hamiltonian systems as a network of interconnected subsystems, and this network admits a natural graph structure. We propose a novel graph-theoretic framework for the CBF synthesis problem. The framework addresses the problem of CBF construction for complex nonlinear systems by offering a relative-degree constraint induced by graph distance and a barrier reshaping rule informed by the graph topology. Furthermore, we perform a feasibility analysis of the reshaped barrier under a bounded input constraint and identify the sufficient conditions for feasibility. Lastly, the proposed framework is validated on an LC ladder network, where the CBF feasibility on a capacitor charge constraint depends on where the input enters the network.",
+      "url": "http://arxiv.org/abs/2603.26578v2",
+      "authors": [
+        "Chi Ho Leung",
+        "Philip E. Paré"
+      ],
+      "updated": "2026-09-12"
+    },
     {
       "title": "Feedback approaches for set-point stabilization of interacting particle systems",
       "summary": "We explore the problem of asymptotically stabilizing a class of interacting particle systems to a prescribed particle configuration with zero velocity. The class of interacting particle systems is motivated by the Cucker-Smale model on the mean-field level. Rather than designing a feedback by manually solving an IDA-PBC matching equation, we derive a feedback using an instantaneous rolling horizon control algorithm. We show that this feedback preserves the port-Hamiltonian structure of the interacting particle system and therefore allows for an interpretation in the IDA-PBC framework. Additionally, the energy balance of the closed-loop Hamiltonian provides an important tool to prove convergence of the particles' velocities and interaction forces in discrete and continuous time. If the control operator is surjective, we additionally prove convergence of the particle positions to the prescribed configuration.",
@@ -234,44 +290,6 @@
         "Olivier A. Bauchau"
       ],
       "updated": "2026-07-22"
-    },
-    {
-      "title": "Simple, accurate lumped-element models of distributed resonators for superconducting quantum circuits",
-      "summary": "Superconducting quantum circuit design is reliant on accurately mapping design parameters to a quantum Hamiltonian. Designers typically rely on computationally intensive finite-element electromagnetic simulations. However, effective circuit-level models can in principle capture much of the relevant physics for these systems, reducing the need for finite-element simulations. A barrier to implementing these simpler models has been the prevalence of distributed elements such as coplanar waveguides resonators in device designs. Techniques for modeling these distributed elements have been developed, but may be difficult to scale, reduce intuition, and give inaccurate results under strong coupling. In this work we describe a simple effective circuit-level model that faithfully reproduces the scattering parameters, and subsequently can predict certain Hamiltonian parameters, for a coupled, distributed element within a broader two-port network even up to strong coupling. Our approach does not explicitly require an electromagnetic simulation. Our model, along with other common lumped models used in black box quantization, is publicly available to researchers via an open-source code package, $\\texttt{simpleLOMs}$.",
-      "url": "http://arxiv.org/abs/2607.19543v1",
-      "authors": [
-        "Elizabeth H. Kunz",
-        "Eli M. Levenson-Falk"
-      ],
-      "updated": "2026-07-21"
-    },
-    {
-      "title": "The Equilibrium Is the Initialization: Lazy Identity Collapse in Physics-Structured Deep Equilibrium Reasoning",
-      "summary": "Deep equilibrium models promise input-adaptive implicit computation: harder problems should demand more solver iterations, and the solved equilibrium should encode the result of genuine iterative inference. We report a cautionary study of a port-Hamiltonian DEQ with a learned initialization on two reasoning tasks -- ProofWriter entailment over frozen DeBERTa embeddings and a BFS-verified graph-reachability benchmark -- in which the implicit computation is a silent no-op. Across tasks, seeds, and controlled ablation arms, the solved equilibrium equals the solver's start point to numerical precision, and bypassing the solver entirely changes test accuracy by +0.00 percentage points in 18 of 19 training runs. Controlled interventions falsify the tempting explanation: removing the anchoring term reproduces every result, and retraining with noise-decoupled starts yields a solver that converges to the noisy start while the decoder learns to ignore it. The single escaping run diverges instead ($\\|h^{*}-z_0\\|=171$), producing a co-adapted noise channel whose removal improves accuracy. Iteration counts are uncorrelated with ground-truth difficulty ($r=0.009$), and the full apparatus never outperforms a two-layer MLP on either task. We trace the mechanism to gradient starvation along two distinct routes, show that the standard zeroing ablation is confounded and gives wildly seed-dependent answers where the correct substitution test gives a stable zero, and distill a four-test diagnostic protocol for auditing claimed implicit computation. All experiments run on a single free Colab GPU; code, raw logs, and analysis scripts are released.",
-      "url": "http://arxiv.org/abs/2607.11116v1",
-      "authors": [
-        "Joyjeet Singh"
-      ],
-      "updated": "2026-07-13"
-    },
-    {
-      "title": "Suboptimal control by primal-dual gradient dynamics",
-      "summary": "This note generalizes the port-Hamiltonian formulation of the continuous time primal-dual gradient algorithm for static constrained convex optimization to the convex optimal control problem.The resulting dynamics is shown to be a port-Hamiltonian system of partial differential equations, involving ordinary physical time as well 'algorithmic' time. Convergence to the optimal control solution is indicated, and it is argued that sub-optimal control strategies could be derived starting from the partial differential equation formulation.",
-      "url": "http://arxiv.org/abs/2606.18818v2",
-      "authors": [
-        "Arjan van der Schaft"
-      ],
-      "updated": "2026-07-12"
-    },
-    {
-      "title": "$\\mathcal{H}_\\infty$ model order reduction for quadratic output systems",
-      "summary": "Linear time-invariant quadratic output (LTIQO) systems generalize linear time-invariant systems to nonlinear regimes. Problems of this class occur in multiple applications naturally, such as port-Hamiltonian systems, optimal control, and stochastical problems. We introduce an $\\mathcal{H}_\\infty$-norm for LTIQO systems with one or multiple outputs and propose an algorithm to optimize a reduced order model (ROM) to be close in the $\\mathcal{H}_\\infty$-norm to a given full order model. We illustrate the applicability and the performance with an established numerical example and compare the resulting ROMs with results from balanced truncation and $\\mathcal{H}_2$-focussed algorithms.",
-      "url": "http://arxiv.org/abs/2505.12529v2",
-      "authors": [
-        "Birgit Hillebrecht",
-        "Benjamin Unger"
-      ],
-      "updated": "2026-07-01"
     }
   ]
 }
