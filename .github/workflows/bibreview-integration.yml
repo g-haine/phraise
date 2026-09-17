@@ -51,6 +51,9 @@ jobs:
       - name: Validate BibReview author CLI on authoritative state
         run: bibreview --config bibreview.yml authors
 
+      - name: Validate legacy author-page bridge
+        run: python docs/setPages.py --dry-run
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
