@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: g-haine/bibreview
-          ref: af1843c175b9858787ea00f798006b263f672548
+          ref: 30074358ca8ae8734bae421ed016bb01242b585d
           path: .bibreview-src
 
       - name: Set up Python
@@ -38,6 +38,9 @@ jobs:
 
       - name: Compare historical and BibReview collection paths
         run: python .github/scripts/compare_bibreview_collect.py
+
+      - name: Exercise BibReview project collection on PHRAISE mirror
+        run: python .github/scripts/compare_bibreview_project_collect.py
 
       - name: Compare PHRAISE concatenate with BibReview merge/storage
         run: python .github/scripts/compare_bibreview_merge.py
