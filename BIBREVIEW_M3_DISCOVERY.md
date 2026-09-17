@@ -48,7 +48,7 @@ The historical second half of `looking4Update.py` — detecting incomplete exist
 - preservation of pre-existing queue entries;
 - byte-level immutability of the canonical bibliography during BibReview discovery.
 
-The comparison intentionally uses an empty legacy bibliography so the historical refresh/recollect block cannot run. The final `pending`, `rejected`, and `review` queues must match between the historical and BibReview discovery paths.
+The fixture contains one complete known journal record. This keeps the historical refresh/recollect and missing-known-record maintenance logic as a no-op while still exercising known-DOI skipping. The final `pending`, `rejected`, and `review` queues must match between the historical and BibReview discovery paths.
 
 ## Status after this integration
 
