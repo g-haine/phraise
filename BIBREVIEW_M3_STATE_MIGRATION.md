@@ -6,7 +6,7 @@ PHRAISE still stores its checked-in bibliography in the historical `docs/assets/
 
 The migration must therefore be explicit and reviewable. It must not overwrite the current site-facing file before the remaining PHRAISE rendering scripts have been migrated.
 
-## Proposed two-file transition
+## Proposed staged-state transition
 
 During the remaining M3/M4 migration window:
 
@@ -28,14 +28,25 @@ Once the site-generation layer is extracted to BibReview and no PHRAISE script c
 
 ## Compatibility boundary
 
-The migration is not expected to preserve arbitrary legacy serialization artifacts forever. However, no information-bearing difference may be silently introduced.
+The migration is not expected to preserve arbitrary legacy serialization artifacts forever, but no information-bearing difference may be silently introduced.
 
-The compatibility work has already identified two historical irregularities that cannot be represented exactly by the strict canonical model:
+The first real-data audit exposed two genuine canonical-model gaps that had been hidden by the legacy compatibility envelope:
 
-- one reference contains a malformed DOI with embedded whitespace; the raw malformed value is kept only by the legacy compatibility envelope and is intentionally not promoted as a canonical DOI;
-- one publication contains an empty author object; the empty entry is retained by the legacy compatibility envelope but intentionally omitted from the canonical `Author` tuple.
+- 141 legacy ISBN values were not promoted into canonical publication identifiers;
+- a small set of source records use literal author names (`name`) rather than `given` / `family`, and those names were being discarded canonically.
 
-The migration audit must fail if any additional publication or field differs after canonical persistence and projection.
+BibReview was corrected before the PHRAISE state migration: ISBN is now retained in `Publication.identifiers["isbn"]`, and `Author.literal` represents source-provided literal author names. After these corrections, canonical persistence and reprojection introduce **no ISBN loss and no author loss**.
+
+The only remaining differences are in legacy reference DOI spelling:
+
+- **17,354** reference DOI values differ only by canonical DOI normalization (principally case) and resolve to exactly the same normalized DOI;
+- exactly **two** legacy reference DOI strings contain illegal embedded whitespace and therefore are deliberately not promoted as canonical DOI identifiers:
+  - publication `10.1080/01495739.2021.1917322`, reference `10.1016/j.geomphys. 2021.104201`;
+  - publication `10.1109/tpel.2020.3041653`, reference `10.1007/978-1- 4471-0549-7`.
+
+Those two malformed values project as `null` once the compatibility envelope is removed. This is an explicit cleanup of invalid legacy identifier strings, not a silent loss of valid bibliographic information.
+
+The migration audit locks the complete reviewed surface: 2,349 publications and UUIDs are preserved, exactly 17,356 reference DOI leaf values differ, exactly 17,354 are normalization-equivalent, and only the two malformed strings listed above may be omitted. Any additional changed field, DOI semantic change, malformed value, or count change fails the integration workflow.
 
 ## Cutover rule
 
