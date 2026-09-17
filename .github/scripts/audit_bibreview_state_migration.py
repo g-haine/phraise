@@ -13,30 +13,31 @@ import tempfile
 DOCS = Path(__file__).resolve().parents[2] / "docs"
 sys.path.insert(0, str(DOCS))
 
-from bibreview.compat import load_legacy_bibliography
+from bibreview.compat import legacy_record_to_publication
 from bibreview.identity import IdentityError, normalize_doi
 from bibreview.storage import read_bibliography, write_bibliography
-from phraise_tools.bibreview_bridge import publication_to_legacy_record
+from phraise_tools.bibreview_bridge import (
+    publication_to_legacy_record,
+    repair_legacy_reference_dois,
+)
 
 LEGACY = Path("docs/assets/data/biblio.json")
 _MISSING = object()
 _INDEX = re.compile(r"\[\d+\]")
 
-_EXPECTED_CHANGED_RECORDS = 2099
-_EXPECTED_REFERENCE_DOI_DIFFERENCES = 17356
 _EXPECTED_EQUIVALENT_DOI_NORMALIZATIONS = 17354
-_EXPECTED_MALFORMED_REFERENCE_DOIS = {
+_EXPECTED_REPAIRS = {
     (
         "10.1080/01495739.2021.1917322",
         "references[9].doi",
         "10.1016/j.geomphys. 2021.104201",
-        "null",
+        "10.1016/j.geomphys.2021.104201",
     ),
     (
         "10.1109/tpel.2020.3041653",
         "references[38].doi",
         "10.1007/978-1- 4471-0549-7",
-        "null",
+        "10.1007/978-1-4471-0549-7",
     ),
 }
 
@@ -107,10 +108,31 @@ def _doi_difference_class(diff: Difference) -> str:
     return "semantic-doi-change"
 
 
+def _repair_signatures(
+    raw: list[dict], repaired: list[dict]
+) -> set[tuple[str | None, str, object, object]]:
+    signatures: set[tuple[str | None, str, object, object]] = set()
+    for before, after in zip(raw, repaired):
+        publication_doi = before.get("doi")
+        for diff in differences(before, after):
+            signatures.add((publication_doi, diff.path, diff.before, diff.after))
+    return signatures
+
+
 def main() -> int:
-    source = json.loads(LEGACY.read_text(encoding="utf-8"))
-    legacy_items = load_legacy_bibliography(LEGACY)
-    publications = tuple(item.publication for item in legacy_items)
+    raw_source = json.loads(LEGACY.read_text(encoding="utf-8"))
+    source, repair_count = repair_legacy_reference_dois(raw_source)
+    repair_signatures = _repair_signatures(raw_source, source)
+
+    if repair_count != len(_EXPECTED_REPAIRS) or repair_signatures != _EXPECTED_REPAIRS:
+        raise SystemExit(
+            "reviewed PHRAISE DOI repairs changed unexpectedly: "
+            f"count={repair_count}, observed={sorted(repair_signatures, key=repr)!r}"
+        )
+
+    publications = tuple(
+        legacy_record_to_publication(record).publication for record in source
+    )
 
     with tempfile.TemporaryDirectory() as directory:
         canonical_path = Path(directory) / "bibliography.json"
@@ -127,7 +149,6 @@ def main() -> int:
     category_examples: dict[str, list[tuple[int, str | None, Difference]]] = defaultdict(list)
     doi_classes: dict[str, int] = defaultdict(int)
     doi_class_examples: dict[str, list[tuple[int, str | None, Difference]]] = defaultdict(list)
-    malformed_signatures: set[tuple[str | None, str, object, object]] = set()
     changed_record_count = 0
 
     for index, (before, after) in enumerate(zip(source, projected)):
@@ -145,15 +166,16 @@ def main() -> int:
                 doi_classes[kind] += 1
                 if len(doi_class_examples[kind]) < 3:
                     doi_class_examples[kind].append((index, publication_doi, diff))
-                if kind == "both-noncanonical-or-missing":
-                    malformed_signatures.add(
-                        (publication_doi, diff.path, diff.before, diff.after)
-                    )
 
-    print(f"legacy publications: {len(source)}")
+    print(f"legacy publications: {len(raw_source)}")
+    print(f"reviewed reference DOI repairs applied: {repair_count}")
+    for publication_doi, path, before, after in sorted(_EXPECTED_REPAIRS):
+        print(
+            f"  {publication_doi} {path}: {_display(before)} -> {_display(after)}"
+        )
     print(f"canonical publications: {len(publications)}")
     print(f"unique canonical UUIDs: {len({publication.id for publication in publications})}")
-    print(f"records changed after canonical persistence + legacy projection: {changed_record_count}")
+    print(f"records changed after repaired legacy -> canonical -> legacy: {changed_record_count}")
     print("changed path categories:")
     for category, count in sorted(category_counts.items(), key=lambda item: (-item[1], item[0])):
         print(f"  {count:5d}  {category}")
@@ -172,25 +194,21 @@ def main() -> int:
                 f"path={diff.path}: {_display(diff.before)} -> {_display(diff.after)}"
             )
 
-    expected_categories = {"references[*].doi": _EXPECTED_REFERENCE_DOI_DIFFERENCES}
+    expected_categories = {
+        "references[*].doi": _EXPECTED_EQUIVALENT_DOI_NORMALIZATIONS,
+    }
     expected_classes = {
         "equivalent-normalization": _EXPECTED_EQUIVALENT_DOI_NORMALIZATIONS,
-        "both-noncanonical-or-missing": len(_EXPECTED_MALFORMED_REFERENCE_DOIS),
     }
     reasons: list[str] = []
     if dict(category_counts) != expected_categories:
         reasons.append(f"changed categories/counts: {dict(category_counts)!r}")
     if dict(doi_classes) != expected_classes:
         reasons.append(f"reference DOI classes/counts: {dict(doi_classes)!r}")
-    if changed_record_count != _EXPECTED_CHANGED_RECORDS:
-        reasons.append(
-            f"changed records: {changed_record_count} (expected {_EXPECTED_CHANGED_RECORDS})"
-        )
-    if malformed_signatures != _EXPECTED_MALFORMED_REFERENCE_DOIS:
-        reasons.append(
-            "reviewed malformed DOI set changed: "
-            f"observed={sorted(malformed_signatures, key=repr)!r}"
-        )
+    if len(publications) != 2349:
+        reasons.append(f"publication count: {len(publications)} (expected 2349)")
+    if len({publication.id for publication in publications}) != 2349:
+        reasons.append("canonical UUIDs are not unique for all 2349 publications")
     if reasons:
         raise SystemExit("migration audit changed unexpectedly: " + "; ".join(reasons))
 
@@ -199,10 +217,7 @@ def main() -> int:
         f"{_EXPECTED_EQUIVALENT_DOI_NORMALIZATIONS} reference DOI spellings "
         "normalize equivalently"
     )
-    print(
-        "migration audit: 2 reviewed malformed legacy reference DOI values "
-        "are omitted canonically"
-    )
+    print("migration audit: both reviewed malformed DOI values are repaired, not dropped")
     print("canonical migration surface: reviewed and locked")
     print("repository state: read-only")
     return 0
