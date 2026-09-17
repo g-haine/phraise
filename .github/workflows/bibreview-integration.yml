@@ -48,6 +48,9 @@ jobs:
       - name: Audit canonical author mappings
         run: python .github/scripts/audit_bibreview_authors.py
 
+      - name: Inspect literal author sources
+        run: python .github/scripts/inspect_bibreview_literal_authors.py
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
