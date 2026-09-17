@@ -27,8 +27,14 @@ jobs:
       - name: Install migration test dependencies
         run: python -m pip install -e .bibreview-src 'python-dotenv>=1,<2'
 
-      - name: Validate real PHRAISE bibliography through BibReview
-        run: python .github/scripts/validate_bibreview_compat.py
+      - name: Validate canonical PHRAISE state cutover
+        run: python .github/scripts/validate_bibreview_cutover.py
+
+      - name: Check deterministic legacy projection
+        run: python docs/projectLegacyBibliography.py --check
+
+      - name: Validate BibReview merge CLI on authoritative state
+        run: bibreview --config bibreview.yml --dry-run merge
 
       - name: Compare historical and BibReview collection paths
         run: python .github/scripts/compare_bibreview_collect.py
@@ -36,11 +42,16 @@ jobs:
       - name: Compare PHRAISE concatenate with BibReview merge/storage
         run: python .github/scripts/compare_bibreview_merge.py
 
-      - name: Validate BibReview merge CLI on a canonical PHRAISE mirror
-        run: python .github/scripts/compare_bibreview_merge_cli.py
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
 
-      - name: Audit one-shot canonical state migration
-        run: python .github/scripts/audit_bibreview_state_migration.py
+      - name: Build PHRAISE Jekyll site
+        working-directory: docs
+        run: |
+          bundle install
+          bundle exec jekyll build
 
-      - name: Confirm migration branch is unchanged
+      - name: Confirm tracked migration state is unchanged
         run: git diff --exit-code
