@@ -108,6 +108,7 @@ def main() -> int:
     category_counts: dict[str, int] = defaultdict(int)
     category_examples: dict[str, list[tuple[int, str | None, Difference]]] = defaultdict(list)
     doi_classes: dict[str, int] = defaultdict(int)
+    doi_class_examples: dict[str, list[tuple[int, str | None, Difference]]] = defaultdict(list)
     changed_record_count = 0
 
     for index, (before, after) in enumerate(zip(source, projected)):
@@ -121,7 +122,10 @@ def main() -> int:
             if len(category_examples[diff.category]) < 3:
                 category_examples[diff.category].append((index, publication_doi, diff))
             if diff.category == "references[*].doi":
-                doi_classes[_doi_difference_class(diff)] += 1
+                kind = _doi_difference_class(diff)
+                doi_classes[kind] += 1
+                if len(doi_class_examples[kind]) < 3:
+                    doi_class_examples[kind].append((index, publication_doi, diff))
 
     print(f"legacy publications: {len(source)}")
     print(f"canonical publications: {len(publications)}")
@@ -140,31 +144,40 @@ def main() -> int:
         print("reference DOI difference classification:")
         for kind, count in sorted(doi_classes.items(), key=lambda item: (-item[1], item[0])):
             print(f"  {count:5d}  {kind}")
+            for index, publication_doi, diff in doi_class_examples[kind]:
+                print(
+                    f"         example index={index} publication_doi={publication_doi!r} "
+                    f"path={diff.path}: {_display(diff.before)} -> {_display(diff.after)}"
+                )
 
-    # Diagnostic gate: this audit PR stays red until every observed difference
-    # has been classified as either semantics-preserving normalization or an
-    # explicitly reviewed legacy irregularity. Do not broaden this gate merely
-    # to make the migration pass.
-    expected_categories = {"authors.length", "references[*].doi", "references.length"}
+    # The fidelity fixes upstream must leave only DOI representation changes in
+    # references. This remains red until the two non-canonical source values
+    # are identified and explicitly reviewed below.
+    expected_categories = {"references[*].doi"}
     unexpected = set(category_counts) - expected_categories
     semantic_doi_changes = sum(
         count
         for kind, count in doi_classes.items()
         if kind not in {"equivalent-normalization", "both-noncanonical-or-missing"}
     )
-    if unexpected or semantic_doi_changes or changed_record_count != 2:
+    noncanonical_reference_dois = doi_classes.get("both-noncanonical-or-missing", 0)
+    if unexpected or semantic_doi_changes or noncanonical_reference_dois != 2:
         reasons = []
         if unexpected:
             reasons.append("unexpected fields: " + ", ".join(sorted(unexpected)))
         if semantic_doi_changes:
             reasons.append(f"semantic reference DOI changes: {semantic_doi_changes}")
-        if changed_record_count != 2:
-            reasons.append(f"changed records: {changed_record_count} (expected 2 before review)")
+        if noncanonical_reference_dois != 2:
+            reasons.append(
+                "non-canonical reference DOI differences: "
+                f"{noncanonical_reference_dois} (expected 2 pending review)"
+            )
         raise SystemExit("migration audit requires review: " + "; ".join(reasons))
 
-    print("migration audit: only reviewed compatibility differences remain")
-    print("repository state: read-only")
-    return 0
+    raise SystemExit(
+        "migration audit requires review: two non-canonical reference DOI values remain; "
+        "see classified examples above"
+    )
 
 
 if __name__ == "__main__":
