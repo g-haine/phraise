@@ -22,6 +22,24 @@ LEGACY = Path("docs/assets/data/biblio.json")
 _MISSING = object()
 _INDEX = re.compile(r"\[\d+\]")
 
+_EXPECTED_CHANGED_RECORDS = 2099
+_EXPECTED_REFERENCE_DOI_DIFFERENCES = 17356
+_EXPECTED_EQUIVALENT_DOI_NORMALIZATIONS = 17354
+_EXPECTED_MALFORMED_REFERENCE_DOIS = {
+    (
+        "10.1080/01495739.2021.1917322",
+        "references[9].doi",
+        "10.1016/j.geomphys. 2021.104201",
+        "null",
+    ),
+    (
+        "10.1109/tpel.2020.3041653",
+        "references[38].doi",
+        "10.1007/978-1- 4471-0549-7",
+        "null",
+    ),
+}
+
 
 @dataclass(frozen=True)
 class Difference:
@@ -109,6 +127,7 @@ def main() -> int:
     category_examples: dict[str, list[tuple[int, str | None, Difference]]] = defaultdict(list)
     doi_classes: dict[str, int] = defaultdict(int)
     doi_class_examples: dict[str, list[tuple[int, str | None, Difference]]] = defaultdict(list)
+    malformed_signatures: set[tuple[str | None, str, object, object]] = set()
     changed_record_count = 0
 
     for index, (before, after) in enumerate(zip(source, projected)):
@@ -126,6 +145,10 @@ def main() -> int:
                 doi_classes[kind] += 1
                 if len(doi_class_examples[kind]) < 3:
                     doi_class_examples[kind].append((index, publication_doi, diff))
+                if kind == "both-noncanonical-or-missing":
+                    malformed_signatures.add(
+                        (publication_doi, diff.path, diff.before, diff.after)
+                    )
 
     print(f"legacy publications: {len(source)}")
     print(f"canonical publications: {len(publications)}")
@@ -140,44 +163,49 @@ def main() -> int:
                 f"path={diff.path}: {_display(diff.before)} -> {_display(diff.after)}"
             )
 
-    if doi_classes:
-        print("reference DOI difference classification:")
-        for kind, count in sorted(doi_classes.items(), key=lambda item: (-item[1], item[0])):
-            print(f"  {count:5d}  {kind}")
-            for index, publication_doi, diff in doi_class_examples[kind]:
-                print(
-                    f"         example index={index} publication_doi={publication_doi!r} "
-                    f"path={diff.path}: {_display(diff.before)} -> {_display(diff.after)}"
-                )
-
-    # The fidelity fixes upstream must leave only DOI representation changes in
-    # references. This remains red until the two non-canonical source values
-    # are identified and explicitly reviewed below.
-    expected_categories = {"references[*].doi"}
-    unexpected = set(category_counts) - expected_categories
-    semantic_doi_changes = sum(
-        count
-        for kind, count in doi_classes.items()
-        if kind not in {"equivalent-normalization", "both-noncanonical-or-missing"}
-    )
-    noncanonical_reference_dois = doi_classes.get("both-noncanonical-or-missing", 0)
-    if unexpected or semantic_doi_changes or noncanonical_reference_dois != 2:
-        reasons = []
-        if unexpected:
-            reasons.append("unexpected fields: " + ", ".join(sorted(unexpected)))
-        if semantic_doi_changes:
-            reasons.append(f"semantic reference DOI changes: {semantic_doi_changes}")
-        if noncanonical_reference_dois != 2:
-            reasons.append(
-                "non-canonical reference DOI differences: "
-                f"{noncanonical_reference_dois} (expected 2 pending review)"
+    print("reference DOI difference classification:")
+    for kind, count in sorted(doi_classes.items(), key=lambda item: (-item[1], item[0])):
+        print(f"  {count:5d}  {kind}")
+        for index, publication_doi, diff in doi_class_examples[kind]:
+            print(
+                f"         example index={index} publication_doi={publication_doi!r} "
+                f"path={diff.path}: {_display(diff.before)} -> {_display(diff.after)}"
             )
-        raise SystemExit("migration audit requires review: " + "; ".join(reasons))
 
-    raise SystemExit(
-        "migration audit requires review: two non-canonical reference DOI values remain; "
-        "see classified examples above"
+    expected_categories = {"references[*].doi": _EXPECTED_REFERENCE_DOI_DIFFERENCES}
+    expected_classes = {
+        "equivalent-normalization": _EXPECTED_EQUIVALENT_DOI_NORMALIZATIONS,
+        "both-noncanonical-or-missing": len(_EXPECTED_MALFORMED_REFERENCE_DOIS),
+    }
+    reasons: list[str] = []
+    if dict(category_counts) != expected_categories:
+        reasons.append(f"changed categories/counts: {dict(category_counts)!r}")
+    if dict(doi_classes) != expected_classes:
+        reasons.append(f"reference DOI classes/counts: {dict(doi_classes)!r}")
+    if changed_record_count != _EXPECTED_CHANGED_RECORDS:
+        reasons.append(
+            f"changed records: {changed_record_count} (expected {_EXPECTED_CHANGED_RECORDS})"
+        )
+    if malformed_signatures != _EXPECTED_MALFORMED_REFERENCE_DOIS:
+        reasons.append(
+            "reviewed malformed DOI set changed: "
+            f"observed={sorted(malformed_signatures, key=repr)!r}"
+        )
+    if reasons:
+        raise SystemExit("migration audit changed unexpectedly: " + "; ".join(reasons))
+
+    print(
+        "migration audit: "
+        f"{_EXPECTED_EQUIVALENT_DOI_NORMALIZATIONS} reference DOI spellings "
+        "normalize equivalently"
     )
+    print(
+        "migration audit: 2 reviewed malformed legacy reference DOI values "
+        "are omitted canonically"
+    )
+    print("canonical migration surface: reviewed and locked")
+    print("repository state: read-only")
+    return 0
 
 
 if __name__ == "__main__":
