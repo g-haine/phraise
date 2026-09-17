@@ -303157,11 +303157,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Chair of Materials Handling, Material Flow, Logistics, Technical University of Munich, Boltzmannstr. 15, 85748, Garching,Germany"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Lingchong",
         "family": "Gao"
       },
@@ -303174,34 +303169,14 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Chair of Materials Handling, Material Flow, Logistics, Technical University of Munich, Boltzmannstr. 15, 85748, Garching,Germany"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Michael",
         "family": "Kleeberger"
       },
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Chair of Materials Handling, Material Flow, Logistics, Technical University of Munich, Boltzmannstr. 15, 85748, Garching,Germany"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Boyang",
         "family": "Shi"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Chair of Materials Handling, Material Flow, Logistics, Technical University of Munich, Boltzmannstr. 15, 85748, Garching,Germany"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Department of Engineering Mechanics, Dalian University of Technology, Linggong Road No.2, 116085, Dalian V.R China"
       }
     ],
     "abstract": "The boom systems of mobile cranes and aerial platform vehicles are driven by hydraulic systems, to be specified, valve-controlled hydraulic cylinders. This hydraulic actuated boom system can accomplish the tasks such as lifting heavy loads or carrying personal to high position, by the design of a long boom structure. In practice, the boom structure is designed as light and slender as possible to control the structure self-weight. However, such structure is quite flexible and can be easily stimulated by the loads, including the driving force or torque from the hydraulic system. Our research focus es on trajectory planning for hydraulic actuated boom where both hydraulic driven system and boom structure deformation are considered. In this paper, the hydraulic actuated boom system is formulated as a port-Hamiltonian system which is a proper modelling method for multi-domain system. The problems of trajectory optimization and vibration control are formulated as optimal control problem based on port-Hamiltonian model and this procedure is tested on a model of hydraulic cylinder. A reasonable result is solved with the selected cost function and inputs.",
@@ -326650,11 +326625,6 @@
         "family": "Bendimerad-Hohl"
       },
       {
-        "sequence": "first",
-        "affiliation": [],
-        "name": "Fédération ENAC ISAE-SUPAERO ONERA, Université de Toulouse, Toulouse, France"
-      },
-      {
         "sequence": "additional",
         "affiliation": [],
         "given": "Ghislain",
@@ -326671,11 +326641,6 @@
         "affiliation": [],
         "given": "Denis",
         "family": "Matignon"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Université Grenoble Alpes, Grenoble INP, Laboratoire de Conception et d'Intégration des Systèmes, Valence, France"
       }
     ],
     "abstract": "In this paper, we extended the port-Hamiltonian framework by introducing the concept of Stokes-Lagrange structure, which enables the implicit definition of a Hamiltonian over an $N$-dimensional domain and incorporates energy ports into the system. This new framework parallels the existing Dirac and Stokes-Dirac structures. We proposed the Stokes-Lagrange structure as a specific case where the subspace is explicitly defined via differential operators that satisfy an integration-by-parts formula. By examining various examples through the lens of the Stokes-Lagrange structure, we demonstrated the existence of multiple equivalent system representations. These representations provide significant advantages for both numerical simulation and control design, offering additional tools for the modeling and control of port-Hamiltonian systems.",
@@ -326939,11 +326904,6 @@
         "family": "Augner"
       },
       {
-        "sequence": "first",
-        "affiliation": [],
-        "name": ",Fachbereich C - Mathematik und Naturwissenschaften, Bergische Universität Wuppertal, Gaußstraße 20, D-42119 Wuppertal"
-      },
-      {
         "sequence": "additional",
         "affiliation": [],
         "given": "Birgit",
@@ -327075,11 +327035,6 @@
         "family": "Minh Trang Vu"
       },
       {
-        "sequence": "first",
-        "affiliation": [],
-        "name": ",LCIS Laboratoire de Conception et d'Intégration des Systèmes, Grenoble Alpes University, F-26902"
-      },
-      {
         "sequence": "additional",
         "affiliation": [],
         "given": "Laurent",
@@ -327201,11 +327156,6 @@
         "affiliation": [],
         "given": "Birgit",
         "family": "Jacob"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
-        "name": ",University of Wuppertal, Work group Functional Analysis, 42097 Wuppertal, Germany"
       },
       {
         "sequence": "additional",
@@ -328000,20 +327950,10 @@
         "family": "Reis"
       },
       {
-        "sequence": "first",
-        "affiliation": [],
-        "name": "Technische Universität Ilmenau, Germany"
-      },
-      {
         "sequence": "additional",
         "affiliation": [],
         "given": "Tatjana",
         "family": "Stykel"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universität Augsburg, Germany"
       }
     ],
     "abstract": "We study a~quasilinear coupled magneto-quasistatic model from a~systems theoretic perspective.} First, by taking the injected voltages as input and the associated currents as output, we prove that the magneto-quasistatic system is passive. Moreover, by defining suitable Dirac and resistive structures, we show that it admits a~representation as a~port-Hamiltonian system. Thereafter, we consider dependence on initial and input data. We show that the current and the magnetic vector potential can be estimated by means of the initial magnetic vector potential and the voltage. We also analyse the free dynamics of the system and study the asymptotic behavior of the solutions for $t\\to\\infty$.",
@@ -328042,11 +327982,6 @@
         "affiliation": [],
         "given": "Ünver",
         "family": "Çiftçi"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
-        "name": ",Department of Mathematics, Namik Kemal University, 59030 Tekirdaǧ"
       }
     ],
     "abstract": "Although conservative Hamiltonian systems with constraints can be formulated in terms of Dirac structures, a more general framework is necessary to cover also dissipative systems such as gradient and metriplectic systems with constraints. We define Leibniz-Dirac structures which lead to a natural generalization of Dirac and Riemannian structures, for instance. From modeling point of view, Leibniz-Dirac structures make it easy to formulate implicit dissipative Hamiltonian systems. We give their exact characterization in terms of vector bundle maps from the tangent bundle to the cotangent bundle and vice verse. Physical systems which can be formulated in terms of Leibniz-Dirac structures are discussed.",
@@ -328170,11 +328105,6 @@
         "family": "Grabowski"
       },
       {
-        "sequence": "first",
-        "affiliation": [],
-        "name": ",Institute of Mathematics, Polish Academy of Sciences, Śniadeckich 8, 00-656 Warszawa"
-      },
-      {
         "sequence": "additional",
         "affiliation": [],
         "given": "Katarzyna",
@@ -328185,11 +328115,6 @@
         "affiliation": [],
         "given": "Paweł",
         "family": "Urbański"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": ",Division of Mathematical Methods in Physics, University of Warsaw, ul. Pasteura 5, 02-093 Warszawa"
       }
     ],
     "abstract": "The Lagrangian description of mechanical systems and the Legendre Transformation (considered as a passage from the Lagrangian to the Hamiltonian formulation of the dynamics) for point-like objects, for which the infinitesimal configuration space is $T M$, is based on the existence of canonical symplectic isomorphisms of double vector bundles $T^* TM$, $T^*T^* M$, and $TT^* M$, where the symplectic structure on $TT^* M$ is the tangent lift of the canonical symplectic structure $T^* M$. We show that there exists an analogous picture in the dynamics of objects for which the configuration space is $\\wedge^n T M$, if we make use of certain structures of graded bundles of degree $n$, i.e. objects generalizing vector bundles (for which $n=1$). For instance, the role of $TT^*M$ is played in our approach by the manifold $\\wedge^nT M\\wedge^nT^*M$, which is canonically a graded bundle of degree $n$ over $\\wedge^nT M$. Dynamics of strings and the Plateau problem in statics are particular cases of this framework.",
@@ -328421,20 +328346,10 @@
         "family": "O. Jacobs"
       },
       {
-        "sequence": "first",
-        "affiliation": [],
-        "name": ",Department of Mathematics, Imperial College London, South Kensington Campus, London, SW7 2AZ"
-      },
-      {
         "sequence": "additional",
         "affiliation": [],
         "given": "Hiroaki",
         "family": "Yoshimura"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": ",Applied Mechanics and Aerospace Engineering, Waseda University, Okubo, Shinjuku, Tokyo 169-8555"
       }
     ],
     "abstract": "Many mechanical systems are large and complex, despite being composed of simple subsystems. In order to understand such large systems it is natural to tear the system into these subsystems. Conversely we must understand how to invert this tearing procedure. In other words, we must understand interconnection of subsystems. Such an understanding has been already shown in the context of Hamiltonian systems on vector spaces via the port-Hamiltonian systems program, in which an interconnection may be achieved through the identification of shared variables, whereupon the notion of composition of Dirac structures allows one to interconnect two systems. In this paper, we seek to extend the program of the port-Hamiltonian systems on vector spaces to the case of Lagrangian systems on manifolds and also extend the notion of composition of Dirac structures appropriately. In particular, we will interconnect Lagrange-Dirac systems by modifying the respective Dirac structures of the involved subsystems. We define the interconnection of Dirac structures via an interaction Dirac structure and a tensor product of Dirac structures. We will show how the dynamics of the interconnected system is formulated as a function of the subsystems, and we will elucidate the associated variational principles. We will then illustrate how this theory extends the theory of port-Hamiltonian systems and the notion of composition of Dirac structures to manifolds with couplings which do not require the identification of shared variables. Lastly, we will show some examples: a mass-spring mechanical systems, an electric circuit, and a nonholonomic mechanical system.",
@@ -328654,11 +328569,6 @@
         "family": "Barbero Liñán"
       },
       {
-        "sequence": "first",
-        "affiliation": [],
-        "name": ",Departamento de Matemática Aplicada, Universidad Politécnica de Madrid, Av. Juan de Herrera 4, 28040 Madrid, Spain"
-      },
-      {
         "sequence": "additional",
         "affiliation": [],
         "given": "Hernán",
@@ -328675,16 +328585,6 @@
         "affiliation": [],
         "given": "David",
         "family": "Martín de Diego"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": ",Departamento de Matemática, Universidad Nacional del Sur, CONICET, Av. Alem 1253, 8000 Bahía Blanca, Argentina"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": ",Instituto de Ciencias Matemáticas (CSIC-UAM-UC3M-UCM), C/Nicolás Cabrera 13-15, 28049 Madrid, Spain"
       }
     ],
     "abstract": "Dirac structures and Morse families are used to obtain a geometric formalism that unifies most of the scenarios in mechanics (constrained calculus, nonholonomic systems, optimal control theory, higher-order mechanics, etc.), as the examples in the paper show. This approach generalizes the previous results on Dirac structures associated with Lagrangian submanifolds. An integrability algorithm in the sense of Mendela, Marmo and Tulczyjew is described for the generalized Dirac dynamical systems under study to determine the set where the implicit differential equations have solutions.",
@@ -328713,11 +328613,6 @@
         "affiliation": [],
         "given": "Gaoran",
         "family": "Wang"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
-        "name": "Institute of Automation, Qufu Normal University, Qufu 273165, China"
       },
       {
         "sequence": "additional",
@@ -328917,11 +328812,6 @@
         "family": "Dos Santos"
       },
       {
-        "sequence": "first",
-        "affiliation": [],
-        "name": ",LAGEP, Université de Lyon, Lyon, F-69003"
-      },
-      {
         "sequence": "additional",
         "affiliation": [],
         "given": "Bernhard",
@@ -328932,11 +328822,6 @@
         "affiliation": [],
         "given": "Yann",
         "family": "Le Gorrec"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": ",FEMTO-ST/AS2M, ENSMM Besan¸con, 24 rue Alain Savary, 25 000 Besanon"
       }
     ],
     "abstract": "This paper aims at providing some synthesis between two alternative representations of systems of two conservation laws and interpret different conditions on stabilizing boundary control laws. The first one, based on the invariance of its coordinates, is the representation in Riemann coordinates which has been applied successfully for the stabilization of linear and non-linear hyperbolic systems of conservation laws. The second representation is based on physical modelling and leads to port Hamiltonian systems which are extensions of infinite-dimensional Hamiltonian systems defined on Dirac structure encompassing pairs of conjugated boundary variables. In a first instance the port Hamiltonian formulation is recalled with respect to a canonical Stokes-Dirac structure and then derived in Riemann coordinates. In a second instance the conditions on the boundary feedback relations derived with respect to the Riemann invariants are expressed in terms of the port boundary variable of the Hamiltonian formulation and interpreted in terms of the dissipation inequality of the Hamiltonian functional. The p-system and the Saint-Venant equations arising in models of irrigation channels are the illustrating examples developed through the paper.",
@@ -329803,11 +329688,6 @@
     "type": "proceedings-article",
     "title": "Hamiltonian and Port-Hamiltonian Mechanics as A Possible Alternative for Helicopter Flight Dynamics Representation",
     "authors": [
-      {
-        "sequence": "first",
-        "affiliation": [],
-        "name": "Delft University of Technology"
-      },
       {
         "sequence": "first",
         "affiliation": [],
@@ -332942,11 +332822,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Montserrat",
         "family": "Trejo-Guerra"
       },
@@ -332959,18 +332834,8 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Paul",
         "family": "Maya-Ortiz"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
       }
     ],
     "abstract": "In recent years, different strategies have been used to model HVDC systems. A usual strategy is to look for the models simplification (or linearization) to do a small-signal analysis. However, VSC-HVDC multiterminal links have intrinsically non-linear characteristics that need to be considered. Port-Hamiltonian (pH) systems provide a modeling methodology that allows incorporating the elements of the HVDC system in a modular way while explicitly providing the energy function, internal interconnection, and dissipation, which is helpful for analysis and control. This paper presents the modeling of a multiterminal HVDC network commonly used in the Electrical Power Systems literature from the pH perspective. It aims to use the pH structure to incorporate elements into the system while preserving its properties. Numerical simulations are carried out to show a comparison between the common model and the pH representation and it is shown that the latter reproduces the same dynamics of the former without loss of information but gaining in simplicity and structure.",
@@ -332997,11 +332862,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Fernanda",
         "family": "Ramos-García"
       },
@@ -333014,18 +332874,8 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Gerardo",
         "family": "Espinosa-Pérez"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
       }
     ],
     "abstract": "In this work, the problem of additive perturbations is studied for a class of port Control Hamiltonian (PCH) systems. The considered class of Hamiltonian systems includes underactuated systems, which continue to be an important open study area. The starting point of the used methodology begins by considering that a previous tracking control has already made the equilibrium point of the error dynamic system asymptotically stable. The Integral Control (IC) reported in cite{ortega2012robust} and cite{ferguson2017integral} are implemented in the PCH class system so that it can reject the constant additive perturbations and conserves the Hamiltonian system structure. The results are compared and tested in a studied case with the system application of the Permanente Magnet Synchronous Motor (PMSM), and the MATLAB Simulink simulations obtained are exposed to compare the performance of both controls.",
@@ -333052,11 +332902,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Christian",
         "family": "Granados-Salazar"
       },
@@ -333069,18 +332914,8 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Gerardo",
         "family": "Espinosa-Pérez"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
       }
     ],
     "abstract": "In this paper the observer design problem for a class of nonlinear port-Hamiltonian system is addressed. The class of nonlinear Hamiltonian system is based on the structure of energy function where it is possible to pull the state apart at measured and unmeasured states which generates two interconnected Hamiltonian systems. Exploiting the properties of the class of nonlinear Hamiltonian systems a reduced order observation scheme is proposed. Finally the observer design proposed in this paper is evaluated in a magnetic levitator in order to prove its the convergence properties, also it is comparing the observer convergence characteristics and the observer performance among the observation schemes that are reported in the literature.",
@@ -333107,11 +332942,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Montserrat",
         "family": "Trejo-Guerra"
       },
@@ -333124,18 +332954,8 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Paul",
         "family": "Maya-Ortiz"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
       }
     ],
     "abstract": "In this paper a tracking Passivity--based Control (PBC) for a multiterminal Voltage Source Converter based High Voltage Direct Current Network (VSC--HVDC) is evaluated. First, the system (an actual multiterminal HVDC) described as a Port Hamiltonian (PH) System and the controller are presented and subsequently three scenarios are proposed to evaluate the closed--loop behavior, namely: (i) load changes; (ii) generation changes and, (iii) DC--bus changes. Numerical simulations are carried out and results shown the robustness of the closed--loop to cope with these common disturbances.",
@@ -333162,11 +332982,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Agustín",
         "family": "Sánchez-Contreras"
       },
@@ -333179,29 +332994,14 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Isaac",
         "family": "Ortega-Velázquez"
       },
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Gerardo",
         "family": "Espinosa-Pérez"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México"
       }
     ],
     "abstract": "In order to guarantee the stability of quasi-resonant converters, the zero-current switching quasi-resonant buck topology is supplied with a PI passivity-based controller in this study. An adequate and full-order model with constant steady-state solutions is generated, via the interconnection of port-Hamiltonian systems based on the principal structure of the converter. The passivity-based approach is employed to complete the control design, and numerical validation results are provided to ensure performance estimations.",
@@ -333228,11 +333028,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Fernanda",
         "family": "Ramos-García"
       },
@@ -333241,11 +333036,6 @@
         "affiliation": [],
         "given": "Gerardo",
         "family": "Espinosa-Pérez"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
       }
     ],
     "abstract": "In this work, the problem of speed tracking control for the Induction Motor (IM) is studied by implementing a Passivity Based Control (PBC) scheme for the Port Controlled Hamiltonian (PCH) mathematical model of the system. The first step of the implemented methodology is to analyze the model structure and exploit its properties to design a speed tracking control. The mathematical model used to design the speed tracking control is in the dq reference frame, where the stator electrical sinusoidal signals are transformed into constant signals. The importance of the contribution is embedded in the system inversion, as the IM has an electrical subsystem not completely actuated, which makes the control scheme implementation for the IM not a trivial result. For illustration purposes, the numerical evaluation was done by a MATLAB Simulink simulation that shows that the designed control is able to follow variant speed references. ",
@@ -333272,11 +333062,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Paulina",
         "family": "Nava-Barrón"
       },
@@ -333289,29 +333074,14 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Sofía",
         "family": "Avila-Becerril"
       },
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Juan",
         "family": "Rodríguez-Rodríguez"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
       }
     ],
     "abstract": "In this paper, a mathematical model for a three-stage PET is proposed based on the port-Hamiltonian systems framework. Two controllers are integrated: a passive-PI controller implemented in the first stage of the PET and a conventional PI controller for the isolation stage. Their performance is evaluated for three interconnected stages. The implementation demonstrates the robustness of the passive controller when another converter is connected. The validation of the complete mathematical model and the correct operation of the closedloop system are numerically evaluated in Simscape-MATLAB.",
@@ -333338,11 +333108,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Agustín",
         "family": "Sánchez-Contreras"
       },
@@ -333355,18 +333120,8 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Autónoma de San Luis Potosí, México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Gerardo",
         "family": "Espinosa-Pérez"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
       }
     ],
     "abstract": "In this paper, the modeling problem and the structural analysis from a control perspective of a Class D Parallel Resonant Converter are addressed. It is shown that the model of the converter can be written as a Port-Controlled Hamiltonian system. In addition, from the structural analysis of this model, it is formally proved that the control input of the device is given by the overlap of the two duty cycles that control the two switches included in the device. To illustrate the validity of this assertion, a classical PI controller is numerically implemented showing that manipulation of this variable leads to the achievement of a control objective.",
@@ -333393,11 +333148,6 @@
       {
         "sequence": "first",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
-      },
-      {
-        "sequence": "first",
-        "affiliation": [],
         "given": "Víctor",
         "family": "Pérez-Galicia"
       },
@@ -333410,29 +333160,14 @@
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Víctor",
         "family": "Cárdenas"
       },
       {
         "sequence": "additional",
         "affiliation": [],
-        "name": "Universidad Autónoma de San Luis Potosí"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
         "given": "Gerardo",
         "family": "Espinosa-Pérez"
-      },
-      {
-        "sequence": "additional",
-        "affiliation": [],
-        "name": "Universidad Nacional Autónoma de México, México"
       }
     ],
     "abstract": "This paper presents a systematic methodology to model conduction losses of passive and active elements of power converters within the Port Controlled Hamiltonian (PCH) framework. The motivation behind this approach is not only to achieve a more realistic system representation, preserving the Hamiltonian structure, but also to enable the development and analysis of control schemes that optimize transient performance. The Port-Hamiltonian models for the two basic DC-DC converter topologies, Buck and Boost, are unified into a generalized structure. Finally, the proposed model is validated numerically through MATLAB®-Simulink® simulation comparing the ideal model, the proposed PCH model, with a reference in a Simscape implementation.",
