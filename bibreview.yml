@@ -35,6 +35,14 @@ discovery:
     - arxiv
     - zenodo
 
+refresh:
+  types:
+    - journal-article
+  when_missing_any:
+    - volume
+    - issue
+    - pages
+
 relevance:
   patterns:
     - 'port[-\s]+(controlled )?hamiltonian'
