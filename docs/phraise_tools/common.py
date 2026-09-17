@@ -115,7 +115,15 @@ def text(value) -> str:
 
 
 def author_names(record: dict) -> list[str]:
-    return [f'{text(a.get("given"))} {a["family"]}' for a in record.get('authors') or [] if a.get('family')]
+    """Render legacy author records using the canonical missing-given-name policy."""
+    result = []
+    for author in record.get('authors') or []:
+        family = author.get('family')
+        if not family:
+            continue
+        given = author.get('given')
+        result.append(f'{given} {family}'.strip() if given else str(family).strip())
+    return result
 
 
 def slugify(value: str) -> str:
