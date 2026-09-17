@@ -16,6 +16,43 @@ from bibreview.pipeline.collect import CollectionResult
 from bibreview.pipeline.merge import merge_publications
 
 
+_REFERENCE_DOI_REPAIRS = {
+    (
+        '10.1080/01495739.2021.1917322',
+        '10.1016/j.geomphys. 2021.104201',
+    ): '10.1016/j.geomphys.2021.104201',
+    (
+        '10.1109/tpel.2020.3041653',
+        '10.1007/978-1- 4471-0549-7',
+    ): '10.1007/978-1-4471-0549-7',
+}
+
+
+def repair_legacy_reference_dois(records: Iterable[dict]) -> tuple[list[dict], int]:
+    """Return a repaired copy of the two reviewed malformed PHRAISE references.
+
+    This is an explicit project-data correction used only for the one-shot
+    PHRAISE migration. BibReview's generic DOI normalization remains strict and
+    must not silently remove embedded whitespace from arbitrary DOI strings.
+    """
+    repaired = deepcopy(list(records))
+    count = 0
+    for record in repaired:
+        publication_doi = record.get('doi')
+        references = record.get('references')
+        if not isinstance(references, list):
+            continue
+        for reference in references:
+            if not isinstance(reference, dict):
+                continue
+            current = reference.get('doi')
+            replacement = _REFERENCE_DOI_REPAIRS.get((publication_doi, current))
+            if replacement is not None:
+                reference['doi'] = replacement
+                count += 1
+    return repaired, count
+
+
 def _legacy_author(author: Author) -> dict:
     result = deepcopy(dict(author.source_fields))
     if author.given is not None:
