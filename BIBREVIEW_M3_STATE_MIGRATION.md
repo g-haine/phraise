@@ -18,13 +18,14 @@ Once the site-generation layer is extracted to BibReview and no PHRAISE script c
 
 ## One-shot migration algorithm
 
-1. Read the current `docs/assets/data/biblio.json` with BibReview's legacy compatibility loader.
-2. Convert all publications to canonical `Publication` objects.
-3. Persist them to a new canonical `bibliography.json` using BibReview storage.
-4. Read the canonical file back and verify exact canonical round-trip.
-5. Verify publication count, normalized DOI uniqueness, and UUID uniqueness.
-6. Project the reloaded canonical publications back to the current PHRAISE record shape and audit every difference against the legacy source.
-7. Only after this audit is accepted, repoint `bibreview.yml: paths.bibliography` to `docs/assets/data/bibliography.json` and initialize `collected.json` as an empty canonical list.
+1. Read the current `docs/assets/data/biblio.json`.
+2. Apply the two reviewed PHRAISE data repairs listed below on an in-memory copy. This repair is project-local and does not weaken BibReview's generic DOI validation.
+3. Convert all repaired records to canonical `Publication` objects.
+4. Persist them to a new canonical `bibliography.json` using BibReview storage.
+5. Read the canonical file back and verify exact canonical round-trip.
+6. Verify publication count, normalized DOI uniqueness, and UUID uniqueness.
+7. Project the reloaded canonical publications back to the current PHRAISE record shape and audit every remaining difference against the repaired legacy source.
+8. Only after this audit is accepted, repoint `bibreview.yml: paths.bibliography` to `docs/assets/data/bibliography.json` and initialize `collected.json` as an empty canonical list.
 
 ## Compatibility boundary
 
@@ -37,19 +38,25 @@ The first real-data audit exposed two genuine canonical-model gaps that had been
 
 BibReview was corrected before the PHRAISE state migration: ISBN is now retained in `Publication.identifiers["isbn"]`, and `Author.literal` represents source-provided literal author names. After these corrections, canonical persistence and reprojection introduce **no ISBN loss and no author loss**.
 
-The only remaining differences are in legacy reference DOI spelling:
+The audit also found two malformed reference DOI strings containing a single embedded whitespace. Both can be repaired unambiguously and are therefore corrected explicitly before canonicalisation:
 
-- **17,354** reference DOI values differ only by canonical DOI normalization (principally case) and resolve to exactly the same normalized DOI;
-- exactly **two** legacy reference DOI strings contain illegal embedded whitespace and therefore are deliberately not promoted as canonical DOI identifiers:
-  - publication `10.1080/01495739.2021.1917322`, reference `10.1016/j.geomphys. 2021.104201`;
-  - publication `10.1109/tpel.2020.3041653`, reference `10.1007/978-1- 4471-0549-7`.
+- publication `10.1080/01495739.2021.1917322`:
+  - `10.1016/j.geomphys. 2021.104201`
+  - becomes `10.1016/j.geomphys.2021.104201`;
+- publication `10.1109/tpel.2020.3041653`:
+  - `10.1007/978-1- 4471-0549-7`
+  - becomes `10.1007/978-1-4471-0549-7`.
 
-Those two malformed values project as `null` once the compatibility envelope is removed. This is an explicit cleanup of invalid legacy identifier strings, not a silent loss of valid bibliographic information.
+This correction is deliberately implemented in the PHRAISE migration bridge rather than in `bibreview.identity.normalize_doi()`: BibReview must continue to reject arbitrary DOI values with embedded whitespace instead of guessing a repair.
 
-The migration audit locks the complete reviewed surface: 2,349 publications and UUIDs are preserved, exactly 17,356 reference DOI leaf values differ, exactly 17,354 are normalization-equivalent, and only the two malformed strings listed above may be omitted. Any additional changed field, DOI semantic change, malformed value, or count change fails the integration workflow.
+After these two reviewed repairs, the only remaining differences are **17,354 reference DOI spellings** that differ solely by canonical DOI normalization, principally case. Every one resolves to the same normalized DOI before and after migration. No reference DOI is dropped.
+
+The migration audit locks the complete reviewed surface: 2,349 publications and UUIDs are preserved, exactly the two reviewed source repairs are applied, and every remaining changed leaf is one of the 17,354 normalization-equivalent reference DOI spellings. Any additional changed field, repair, DOI semantic change, publication-count change, or UUID-count change fails the integration workflow.
 
 ## Cutover rule
 
-`concatenate.py` remains the authoritative production path until the canonical file is committed, `bibreview.yml` points to it, the legacy projection is generated deterministically, and the full PHRAISE integration workflow remains green.
+`concatenate.py` remains the authoritative production path until the canonical file is committed, `bibreview.yml` points to it, the repaired legacy projection is generated deterministically, and the full PHRAISE integration workflow remains green.
+
+At cutover, the site-facing `biblio.json` compatibility projection will contain the two corrected DOI strings as well. The audit PR itself remains read-only with respect to checked-in bibliography data.
 
 After that cutover, `bibreview merge` becomes authoritative for bibliography state and `concatenate.py` can move to legacy/removal cleanup.
