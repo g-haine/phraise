@@ -22,6 +22,8 @@ def _legacy_author(author: Author) -> dict:
         result['given'] = author.given
     if author.family is not None:
         result['family'] = author.family
+    if author.literal is not None:
+        result['name'] = author.literal
     return result
 
 
