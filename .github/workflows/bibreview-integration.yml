@@ -39,5 +39,8 @@ jobs:
       - name: Validate BibReview merge CLI on a canonical PHRAISE mirror
         run: python .github/scripts/compare_bibreview_merge_cli.py
 
+      - name: Audit one-shot canonical state migration
+        run: python .github/scripts/audit_bibreview_state_migration.py
+
       - name: Confirm migration branch is unchanged
         run: git diff --exit-code
