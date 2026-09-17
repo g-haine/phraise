@@ -1,0 +1,34 @@
+name: BibReview integration
+
+on:
+  pull_request:
+    branches: [bibreview-migration]
+  workflow_dispatch:
+
+jobs:
+  real-bibliography-roundtrip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out PHRAISE migration branch
+        uses: actions/checkout@v4
+
+      - name: Check out BibReview
+        uses: actions/checkout@v4
+        with:
+          repository: g-haine/bibreview
+          ref: 45ed1a66a81229cb1aa53b7823bd8dca26243272
+          path: .bibreview-src
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install BibReview
+        run: python -m pip install -e .bibreview-src
+
+      - name: Validate real PHRAISE bibliography through BibReview
+        run: python .github/scripts/validate_bibreview_compat.py
+
+      - name: Confirm migration branch is unchanged
+        run: git diff --exit-code
