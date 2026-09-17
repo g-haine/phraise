@@ -25,6 +25,15 @@ discovery:
   provider: openalex
   query: port-Hamiltonian
   max_pages: 20
+  accepted_types:
+    - journal-article
+    - proceedings-article
+    - book-chapter
+    - book
+    - monograph
+  exclude_doi_substrings:
+    - arxiv
+    - zenodo
 
 relevance:
   patterns:
@@ -39,6 +48,7 @@ providers:
     enabled: true
   openalex:
     enabled: true
+    api_key_env: OPENALEX_API_KEY
   elsevier:
     enabled: true
     api_key_env: SCOPUS_API_KEY
