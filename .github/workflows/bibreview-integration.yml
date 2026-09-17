@@ -45,11 +45,11 @@ jobs:
       - name: Compare PHRAISE concatenate with BibReview merge/storage
         run: python .github/scripts/compare_bibreview_merge.py
 
-      - name: Audit canonical author mappings
-        run: python .github/scripts/audit_bibreview_authors.py
+      - name: Validate canonical author-data cutover
+        run: python .github/scripts/cutover_bibreview_author_data.py
 
-      - name: Inspect literal author sources
-        run: python .github/scripts/inspect_bibreview_literal_authors.py
+      - name: Validate BibReview author CLI on authoritative state
+        run: bibreview --config bibreview.yml authors
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
