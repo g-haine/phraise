@@ -2,9 +2,9 @@
 """Compare PHRAISE legacy discovery/relevance with canonical BibReview discovery.
 
 The historical refresh/recollect half of ``looking4Update.py`` is deliberately
-excluded: this fixture uses an empty bibliography, so only OpenAlex candidate
-discovery, CrossRef type filtering, relevance screening, and DOI queue updates
-are exercised.
+neutralized: the fixture contains one complete known journal record, so only
+OpenAlex candidate discovery, CrossRef type filtering, relevance screening, and
+DOI queue updates produce changes.
 """
 from __future__ import annotations
 
@@ -19,6 +19,8 @@ DOCS = ROOT / "docs"
 sys.path.insert(0, str(DOCS))
 
 from bibreview.config import load_config  # noqa: E402
+from bibreview.identity import new_publication_id  # noqa: E402
+from bibreview.model import Publication  # noqa: E402
 from bibreview.pipeline.enrich import crossref_enrichment  # noqa: E402
 from bibreview.project import apply_project_discovery, plan_project_discovery  # noqa: E402
 from bibreview.storage import write_bibliography  # noqa: E402
@@ -137,7 +139,19 @@ def read_lines(path: Path) -> tuple[str, ...]:
 
 def prepare_legacy(root: Path) -> None:
     (root / "assets/data").mkdir(parents=True, exist_ok=True)
-    (root / "assets/data/biblio.json").write_text("[]\n", encoding="utf-8")
+    known_record = [{
+        "doi": "10.1000/known",
+        "type": "journal-article",
+        "volume": "1",
+        "issue": "1",
+        "pages": "1-2",
+        "permalink": "known",
+        "authors": [],
+    }]
+    (root / "assets/data/biblio.json").write_text(
+        json.dumps(known_record, indent=2) + "\n",
+        encoding="utf-8",
+    )
     write_lines(root / "DOI.txt", ("10.1000/known",))
     write_lines(root / "newDOI.txt", ("10.1000/preexisting-pending",))
     write_lines(root / "badDOI.txt", ("10.1000/bad",))
@@ -184,7 +198,19 @@ def main() -> None:
         pending = canonical_root / "pending.txt"
         rejected = canonical_root / "rejected.txt"
         review = canonical_root / "review.txt"
-        write_bibliography(bibliography, [])
+        write_bibliography(
+            bibliography,
+            [Publication(
+                id=new_publication_id(),
+                identifiers={"doi": "10.1000/known"},
+                type="journal-article",
+                title="Known publication",
+                volume="1",
+                issue="1",
+                pages="1-2",
+                permalink="known",
+            )],
+        )
         write_lines(known, ("10.1000/known",))
         write_lines(pending, ("10.1000/preexisting-pending",))
         write_lines(rejected, ("10.1000/bad",))
@@ -239,7 +265,7 @@ def main() -> None:
         print(f"  rejected: {len(plan.result.rejected)}")
         print(f"  skipped: {len(plan.result.skipped)}")
         print("  canonical bibliography unchanged: yes")
-        print("  refresh/recollect intentionally outside this comparison")
+        print("  refresh/recollect fixture: neutralized")
 
 
 if __name__ == "__main__":
