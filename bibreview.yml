@@ -1,0 +1,66 @@
+schema_version: 1
+
+project:
+  name: PHRAISE
+  slug: phraise
+  title: Port-Hamiltonian Representation and Approximation of Interconnected Systems using Energy
+  description: Bibliographic survey dedicated to research on port-Hamiltonian systems
+  repository: https://github.com/g-haine/phraise
+  contact:
+    name: Ghislain Haine
+
+paths:
+  bibliography: docs/assets/data/biblio.json
+  author_mappings: docs/assets/data/author_mappings.json
+  known: docs/DOI.txt
+  pending: docs/newDOI.txt
+  rejected: docs/badDOI.txt
+  review: docs/checkDOI.txt
+  bibtex: docs/assets/bib
+  archive: docs/trash
+  site: docs
+
+discovery:
+  provider: openalex
+  query: port-Hamiltonian
+  max_pages: 20
+
+relevance:
+  patterns:
+    - 'port[-\s]+(controlled )?hamiltonian'
+    - 'interconnection and damping assignment'
+    - 'dirac structure'
+    - 'dissipative hamiltonian'
+  unmatched: manual-review
+
+providers:
+  crossref:
+    enabled: true
+  openalex:
+    enabled: true
+  elsevier:
+    enabled: true
+    api_key_env: SCOPUS_API_KEY
+  springer:
+    enabled: true
+    api_key_env: SPRINGER_API_KEY
+  ieee:
+    enabled: true
+    api_key_env: IEEE_API_KEY
+  semantic_scholar:
+    enabled: true
+  mendeley:
+    enabled: true
+    token_env: MENDELEY_API_KEY
+
+site:
+  enabled: true
+  implementation: jekyll
+  template: default
+  source: docs
+  url: https://g-haine.github.io
+  baseurl: /phraise
+  search: true
+  branding:
+    logo: assets/img/logo.webp
+    favicon: assets/img/favicon.ico
