@@ -401733,15 +401733,6 @@
     "title": "Optimal control of the hydraulic actuated boom system based on port-hamiltonian formulation",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Chair of Materials Handling, Material Flow, Logistics, Technical University of Munich, Boltzmannstr. 15, 85748, Garching,Germany",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Lingchong",
         "family": "Gao",
         "literal": null,
@@ -401760,15 +401751,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Chair of Materials Handling, Material Flow, Logistics, Technical University of Munich, Boltzmannstr. 15, 85748, Garching,Germany",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Michael",
         "family": "Kleeberger",
         "literal": null,
@@ -401778,36 +401760,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Chair of Materials Handling, Material Flow, Logistics, Technical University of Munich, Boltzmannstr. 15, 85748, Garching,Germany",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Boyang",
         "family": "Shi",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Chair of Materials Handling, Material Flow, Logistics, Technical University of Munich, Boltzmannstr. 15, 85748, Garching,Germany",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Department of Engineering Mechanics, Dalian University of Technology, Linggong Road No.2, 116085, Dalian V.R China",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -432393,15 +432348,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Fédération ENAC ISAE-SUPAERO ONERA, Université de Toulouse, Toulouse, France",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Ghislain",
         "family": "Haine",
         "literal": null,
@@ -432423,15 +432369,6 @@
         "given": "Denis",
         "family": "Matignon",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Université Grenoble Alpes, Grenoble INP, Laboratoire de Conception et d'Intégration des Systèmes, Valence, France",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -432792,15 +432729,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": ",Fachbereich C - Mathematik und Naturwissenschaften, Bergische Universität Wuppertal, Gaußstraße 20, D-42119 Wuppertal",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Birgit",
         "family": "Jacob",
         "literal": null,
@@ -432978,15 +432906,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": ",LCIS Laboratoire de Conception et d'Intégration des Systèmes, Grenoble Alpes University, F-26902",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Laurent",
         "family": "Lefèvre",
         "literal": null,
@@ -433134,15 +433053,6 @@
         "given": "Birgit",
         "family": "Jacob",
         "literal": null,
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": ",University of Wuppertal, Work group Functional Analysis, 42097 Wuppertal, Germany",
         "source_fields": {
           "sequence": "first",
           "affiliation": []
@@ -434204,27 +434114,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Technische Universität Ilmenau, Germany",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Tatjana",
         "family": "Stykel",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universität Augsburg, Germany",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -434256,15 +434148,6 @@
         "given": "Ünver",
         "family": "Çiftçi",
         "literal": null,
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": ",Department of Mathematics, Namik Kemal University, 59030 Tekirdaǧ",
         "source_fields": {
           "sequence": "first",
           "affiliation": []
@@ -434439,15 +434322,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": ",Institute of Mathematics, Polish Academy of Sciences, Śniadeckich 8, 00-656 Warszawa",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Katarzyna",
         "family": "Grabowska",
         "literal": null,
@@ -434460,15 +434334,6 @@
         "given": "Paweł",
         "family": "Urbański",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": ",Division of Mathematical Methods in Physics, University of Warsaw, ul. Pasteura 5, 02-093 Warszawa",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -434775,27 +434640,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": ",Department of Mathematics, Imperial College London, South Kensington Campus, London, SW7 2AZ",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Hiroaki",
         "family": "Yoshimura",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": ",Applied Mechanics and Aerospace Engineering, Waseda University, Okubo, Shinjuku, Tokyo 169-8555",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -435082,15 +434929,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": ",Departamento de Matemática Aplicada, Universidad Politécnica de Madrid, Av. Juan de Herrera 4, 28040 Madrid, Spain",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Hernán",
         "family": "Cendra",
         "literal": null,
@@ -435112,24 +434950,6 @@
         "given": "David",
         "family": "Martín de Diego",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": ",Departamento de Matemática, Universidad Nacional del Sur, CONICET, Av. Alem 1253, 8000 Bahía Blanca, Argentina",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": ",Instituto de Ciencias Matemáticas (CSIC-UAM-UC3M-UCM), C/Nicolás Cabrera 13-15, 28049 Madrid, Spain",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -435161,15 +434981,6 @@
         "given": "Gaoran",
         "family": "Wang",
         "literal": null,
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Institute of Automation, Qufu Normal University, Qufu 273165, China",
         "source_fields": {
           "sequence": "first",
           "affiliation": []
@@ -435458,15 +435269,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": ",LAGEP, Université de Lyon, Lyon, F-69003",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Bernhard",
         "family": "Maschke",
         "literal": null,
@@ -435479,15 +435281,6 @@
         "given": "Yann",
         "family": "Le Gorrec",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": ",FEMTO-ST/AS2M, ENSMM Besan¸con, 24 rue Alain Savary, 25 000 Besanon",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -436590,15 +436383,6 @@
     "type": "proceedings-article",
     "title": "Hamiltonian and Port-Hamiltonian Mechanics as A Possible Alternative for Helicopter Flight Dynamics Representation",
     "authors": [
-      {
-        "given": null,
-        "family": null,
-        "literal": "Delft University of Technology",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
       {
         "given": "Marilena",
         "family": "Pavel",
@@ -440696,15 +440480,6 @@
     "title": "Modeling of Multi Terminal VSC-HVDC links using port-Hamiltonian Systems",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Montserrat",
         "family": "Trejo-Guerra",
         "literal": null,
@@ -440723,27 +440498,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Paul",
         "family": "Maya-Ortiz",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -440772,15 +440529,6 @@
     "title": "On Disturbance Rejection for a Class of Underactuated Hamiltonian Systems",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Fernanda",
         "family": "Ramos-García",
         "literal": null,
@@ -440799,27 +440547,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Gerardo",
         "family": "Espinosa-Pérez",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -440848,15 +440578,6 @@
     "title": "Observer design for a class of nonlinear Hamiltonian systems based on energy function structure",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Christian",
         "family": "Granados-Salazar",
         "literal": null,
@@ -440875,27 +440596,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Gerardo",
         "family": "Espinosa-Pérez",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -440924,15 +440627,6 @@
     "title": "Evaluation of a Passive-Based Controller for Power Monitoring in Networks of High Voltage Transmission Lines in Direct Current with Voltage Source Converters (VSC–HVDC)",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Montserrat",
         "family": "Trejo-Guerra",
         "literal": null,
@@ -440951,27 +440645,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Paul",
         "family": "Maya-Ortiz",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -441000,15 +440676,6 @@
     "title": "A Passivity-Based PI Control of Quasi-Resonant Buck Converter",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Agustín",
         "family": "Sánchez-Contreras",
         "literal": null,
@@ -441027,15 +440694,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Isaac",
         "family": "Ortega-Velázquez",
         "literal": null,
@@ -441045,27 +440703,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Gerardo",
         "family": "Espinosa-Pérez",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -441094,15 +440734,6 @@
     "title": "A Speed Tracking Passivity Based Control of Induction Motors",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Fernanda",
         "family": "Ramos-García",
         "literal": null,
@@ -441115,15 +440746,6 @@
         "given": "Gerardo",
         "family": "Espinosa-Pérez",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -441152,15 +440774,6 @@
     "title": "Modeling and control of a Power Electronic Transformer within the Hamiltonian Systems Framework",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Paulina",
         "family": "Nava-Barrón",
         "literal": null,
@@ -441179,15 +440792,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Sofía",
         "family": "Avila-Becerril",
         "literal": null,
@@ -441197,27 +440801,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Juan",
         "family": "Rodríguez-Rodríguez",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -441246,15 +440832,6 @@
     "title": "A New PI Controller Scheme for a Class D Parallel Resonant Converter",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Agustín",
         "family": "Sánchez-Contreras",
         "literal": null,
@@ -441273,27 +440850,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Autónoma de San Luis Potosí, México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Gerardo",
         "family": "Espinosa-Pérez",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []
@@ -441322,15 +440881,6 @@
     "title": "A Generalized Port-Hamiltonian Approach to Modeling Losses in DC-DC Converters",
     "authors": [
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
-        "source_fields": {
-          "sequence": "first",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Víctor",
         "family": "Pérez-Galicia",
         "literal": null,
@@ -441349,15 +440899,6 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Víctor",
         "family": "Cárdenas",
         "literal": null,
@@ -441367,27 +440908,9 @@
         }
       },
       {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Autónoma de San Luis Potosí",
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
         "given": "Gerardo",
         "family": "Espinosa-Pérez",
         "literal": null,
-        "source_fields": {
-          "sequence": "additional",
-          "affiliation": []
-        }
-      },
-      {
-        "given": null,
-        "family": null,
-        "literal": "Universidad Nacional Autónoma de México, México",
         "source_fields": {
           "sequence": "additional",
           "affiliation": []

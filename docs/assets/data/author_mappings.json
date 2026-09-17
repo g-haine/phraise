@@ -61,8 +61,6 @@
 ,
   "weiwei-ai": [ "Weiwei Ai" ]
 ,
-  "null-wei-airong": [ "null Wei Airong" ]
-,
   "m-ait-ahmed": [ "M. Ait-Ahmed" ]
 ,
   "ahmad-akbari": [ "Ahmad Akbari" ]
@@ -375,7 +373,7 @@
 ,
   "ernest-benedito": [ "Ernest Benedito" ]
 ,
-  "oscar-rodriguez-benitez": [ "Oscar Rodríguez Benítez", "Oscar Rodríguez Benítez", "Oscar Rodríguez-Benítez" ]
+  "oscar-rodriguez-benitez": [ "Oscar Rodríguez Benítez", "Oscar Rodríguez-Benítez" ]
 ,
   "amel-benmouna": [ "Amel Benmouna" ]
 ,
@@ -459,7 +457,7 @@
 ,
   "claudio-bonivento": [ "Claudio Bonivento" ]
 ,
-  "null-xu-bo": [ "null Xu Bo" ]
+  "null-xu-bo": [ "Xu Bo" ]
 ,
   "d-bonvin": [ "D. Bonvin" ]
 ,
@@ -623,7 +621,7 @@
 ,
   "jingxuan-chai": [ "Jingxuan Chai", "CHAI JingXuan" ]
 ,
-  "dong-eui-chang": [ "Dong Eui Chang", "null Dong Eui Chang" ]
+  "dong-eui-chang": [ "Dong Eui Chang" ]
 ,
   "carmen-chan-zheng": [ "Carmen Chan-Zheng" ]
 ,
@@ -669,7 +667,7 @@
 ,
   "rui-chen": [ "Rui Chen" ]
 ,
-  "shen-chen": [ "Shen Chen", "null Shen Chen" ]
+  "shen-chen": [ "Shen Chen" ]
 ,
   "shengyuan-chen": [ "Shengyuan Chen", "Sheng-Yuan Chen" ]
 ,
@@ -708,8 +706,6 @@
   "daizhan-cheng": [ "Daizhan Cheng" ]
 ,
   "ningbo-cheng": [ "Ningbo Cheng" ]
-,
-  "daizhan-cheng": [ "Daizhan Cheng", "null Daizhan Cheng" ]
 ,
   "qiming-cheng": [ "Qiming Cheng" ]
 ,
@@ -753,7 +749,7 @@
 ,
   "derek-chun": [ "Derek Chun" ]
 ,
-  "chung-choo-chung": [ "Chung Choo Chung", "null Chung Choo Chung" ]
+  "chung-choo-chung": [ "Chung Choo Chung" ]
 ,
   "ho-tak-d-chun": [ "Ho-Tak D. Chun" ]
 ,
@@ -1117,7 +1113,7 @@
 ,
   "jorg-fehr": [ "Jörg Fehr" ]
 ,
-  "wanghao-fei": [ "Wanghao Fei", "null Wanghao Fei" ]
+  "wanghao-fei": [ "Wanghao Fei" ]
 ,
   "shumin-fei": [ "Shumin Fei" ]
 ,
@@ -1129,7 +1125,7 @@
 ,
   "minshan-feng": [ "Minshan Feng" ]
 ,
-  "liu-feng": [ "Liu Feng", "null Liu Feng" ]
+  "liu-feng": [ "Liu Feng" ]
 ,
   "shuai-feng": [ "Shuai Feng" ]
 ,
@@ -1471,11 +1467,7 @@
 ,
   "maria-guinaldo": [ "María Guinaldo" ]
 ,
-  "null-yonghao-gui": [ "null Yonghao Gui" ]
-,
   "yonghao-gui": [ "Yonghao Gui" ]
-,
-  "null-xu-guizhi": [ "null Xu Guizhi" ]
 ,
   "j-gu": [ "J. Gu" ]
 ,
@@ -1493,7 +1485,7 @@
 ,
   "shengjie-guo": [ "Shengjie Guo" ]
 ,
-  "xiaojun-guo": [ "Xiaojun Guo", "null Xiaojun Guo" ]
+  "xiaojun-guo": [ "Xiaojun Guo" ]
 ,
   "xufa-guo": [ "XuFa Guo", "GUO XuFa" ]
 ,
@@ -1503,7 +1495,7 @@
 ,
   "yunfei-guo": [ "Yunfei Guo" ]
 ,
-  "yuqian-guo": [ "Yuqian Guo", "null Yuqian Guo" ]
+  "yuqian-guo": [ "Yuqian Guo" ]
 ,
   "sriram-karthik-gurumurthy": [ "Sriram Karthik Gurumurthy", "Sriram K. Gurumurthy" ]
 ,
@@ -1667,7 +1659,7 @@
 ,
   "h-hoang": [ "H. Hoang" ]
 ,
-  "ngoc-ha-hoang": [ "Ngoc Ha Hoang", "N. Ha Hoang", "N.H. Hoang", "null Ngoc-Ha Hoang" ]
+  "ngoc-ha-hoang": [ "Ngoc Ha Hoang", "N. Ha Hoang", "N.H. Hoang", "Ngoc-Ha Hoang" ]
 ,
   "rene-hochdahl": [ "René Hochdahl" ]
 ,
@@ -1700,8 +1692,6 @@
   "limin-hou": [ "Limin Hou" ]
 ,
   "mengxue-hou": [ "Mengxue Hou" ]
-,
-  "jun-hou": [ "Jun Hou", "null Jun Hou" ]
 ,
   "rui-hou": [ "Rui Hou" ]
 ,
@@ -1737,7 +1727,7 @@
 ,
   "min-huang": [ "Min Huang" ]
 ,
-  "chao-huang": [ "Chao Huang", "null Chao Huang" ]
+  "chao-huang": [ "Chao Huang" ]
 ,
   "tao-huang": [ "Tao Huang" ]
 ,
@@ -1761,9 +1751,9 @@
 ,
   "haitao-hu": [ "Haitao Hu" ]
 ,
-  "liu-huijin": [ "Liu Huijin", "null Liu Huijin" ]
+  "liu-huijin": [ "Liu Huijin" ]
 ,
-  "qing-hui": [ "Qing Hui", "null Qing Hui" ]
+  "qing-hui": [ "Qing Hui" ]
 ,
   "jukka-pekka-humaloja": [ "Jukka-Pekka Humaloja" ]
 ,
@@ -1885,8 +1875,6 @@
 ,
   "feng-ji": [ "Feng Ji" ]
 ,
-  "null-guomin-ji": [ "null Guomin Ji" ]
-,
   "tianyao-ji": [ "Tianyao Ji" ]
 ,
   "xingmin-ji": [ "Xingmin Ji" ]
@@ -1965,7 +1953,7 @@
 ,
   "sowmya-j": [ "Sowmya J" ]
 ,
-  "du-juan": [ "Du Juan", "null Du Juan" ]
+  "du-juan": [ "Du Juan" ]
 ,
   "lili-ju": [ "Lili Ju" ]
 ,
@@ -2063,7 +2051,7 @@
 ,
   "alexander-kilian": [ "Alexander Kilian" ]
 ,
-  "chunghun-kim": [ "Chunghun Kim", "null Chunghun Kim" ]
+  "chunghun-kim": [ "Chunghun Kim" ]
 ,
   "hak-man-kim": [ "Hak-Man Kim" ]
 ,
@@ -2267,7 +2255,7 @@
 ,
   "chongtao-li": [ "Chongtao Li" ]
 ,
-  "chunwen-li": [ "Chunwen Li", "null Chunwen Li" ]
+  "chunwen-li": [ "Chunwen Li" ]
 ,
   "cuiran-li": [ "Cuiran Li" ]
 ,
@@ -2307,7 +2295,7 @@
 ,
   "jian-li": [ "Jian Li" ]
 ,
-  "jianyong-li": [ "Jianyong Li", "null Jianyong Li" ]
+  "jianyong-li": [ "Jianyong Li" ]
 ,
   "jie-li": [ "Jie Li" ]
 ,
@@ -2421,7 +2409,7 @@
 ,
   "jianping-lin": [ "Jianping Lin" ]
 ,
-  "weiming-lin": [ "Weiming Lin", "null Weiming Lin" ]
+  "weiming-lin": [ "Weiming Lin" ]
 ,
   "shunfu-lin": [ "Shunfu Lin" ]
 ,
@@ -2487,7 +2475,7 @@
 ,
   "jinguo-liu": [ "Jinguo Liu" ]
 ,
-  "jin-liu": [ "Jin Liu", "null Jin Liu" ]
+  "jin-liu": [ "Jin Liu" ]
 ,
   "liu-liu": [ "Liu Liu" ]
 ,
@@ -2521,11 +2509,11 @@
 ,
   "xinyu-lu": [ "Xinyu Lu" ]
 ,
-  "xudong-liu": [ "Xudong Liu", "Xudong liu", "null Xudong Liu" ]
+  "xudong-liu": [ "Xudong Liu", "Xudong liu" ]
 ,
   "yanchao-liu": [ "Yanchao Liu" ]
 ,
-  "yanhong-liu": [ "Yanhong Liu", "null Yanhong Liu" ]
+  "yanhong-liu": [ "Yanhong Liu" ]
 ,
   "yan-hong-liu": [ "Yan‐Hong Liu" ]
 ,
@@ -2597,7 +2585,7 @@
 ,
   "xiaoyuan-luo": [ "Xiaoyuan Luo" ]
 ,
-  "zhi-wei-luo": [ "Zhi-wei Luo", "Zhi Wei Luo", "null Zhi-wei Luo" ]
+  "zhi-wei-luo": [ "Zhi-wei Luo", "Zhi Wei Luo" ]
 ,
   "ciprian-lupu": [ "Ciprian Lupu" ]
 ,
@@ -3091,7 +3079,7 @@
 ,
   "henk-nijmeijer": [ "Henk Nijmeijer" ]
 ,
-  "gou-nishida": [ "Gou Nishida", "Gou NISHIDA", "G. Nishida", "null Gou Nishida" ]
+  "gou-nishida": [ "Gou Nishida", "Gou NISHIDA", "G. Nishida" ]
 ,
   "yuki-nishimura": [ "Yûki Nishimura", "Yûki NISHIMURA" ]
 ,
@@ -3202,8 +3190,6 @@
   "haining-pan": [ "Haining Pan" ]
 ,
   "le-pan": [ "Le Pan" ]
-,
-  "null-shangzhi-pan": [ "null Shangzhi Pan" ]
 ,
   "siyu-pan": [ "Siyu Pan" ]
 ,
@@ -3397,7 +3383,7 @@
 ,
   "jing-qian": [ "Jing Qian" ]
 ,
-  "yanping-qian": [ "Yanping Qian", "Yanping Qian -", "null Yanping Qian" ]
+  "yanping-qian": [ "Yanping Qian", "Yanping Qian -" ]
 ,
   "chaoqian-qiao": [ "Chaoqian Qiao" ]
 ,
@@ -3405,7 +3391,7 @@
 ,
   "liang-qiao": [ "Liang Qiao" ]
 ,
-  "wei-qiao": [ "Wei Qiao", "null Wei Qiao" ]
+  "wei-qiao": [ "Wei Qiao" ]
 ,
   "guoyuan-qi": [ "Guoyuan Qi" ]
 ,
@@ -3415,7 +3401,7 @@
 ,
   "jiahui-qiu": [ "Jiahui Qiu" ]
 ,
-  "jun-qiu": [ "Jun Qiu", "null Jun Qiu" ]
+  "jun-qiu": [ "Jun Qiu" ]
 ,
   "lemiao-qiu": [ "Lemiao Qiu" ]
 ,
@@ -3424,8 +3410,6 @@
   "isabelle-queinnec": [ "Isabelle Queinnec" ]
 ,
   "nicanor-quijano": [ "Nicanor Quijano" ]
-,
-  "null-yanbin-qu": [ "null Yanbin Qu" ]
 ,
   "aminuddin-qureshi": [ "Aminuddin Qureshi" ]
 ,
@@ -3943,7 +3927,7 @@
 ,
   "dening-song": [ "Dening Song" ]
 ,
-  "huihui-song": [ "Huihui Song", "H.H. Song", "null Huihui Song" ]
+  "huihui-song": [ "Huihui Song", "H.H. Song" ]
 ,
   "ningning-song": [ "Ningning Song" ]
 ,
@@ -4115,7 +4099,7 @@
 ,
   "jacky-tang": [ "Jacky Tang", "J. Tang" ]
 ,
-  "yuliang-tang": [ "Yuliang Tang", "null Yuliang Tang" ]
+  "yuliang-tang": [ "Yuliang Tang" ]
 ,
   "shu-xia-tang": [ "Shu‐Xia Tang" ]
 ,
@@ -4297,7 +4281,7 @@
 ,
   "yuki-ushiro": [ "Yuki Ushiro", "Yuki USHIRO" ]
 ,
-  "akin-uslu": [ "Akin Uslu","Akin USLU" ]
+  "akin-uslu": [ "Akin Uslu", "Akin USLU" ]
 ,
   "luis-vaccaro": [ "Luis Vaccaro" ]
 ,
@@ -4417,7 +4401,7 @@
 ,
   "anhong-wang": [ "Anhong Wang" ]
 ,
-  "bing-wang": [ "Bing Wang", "B Wang", "null Bing Wang", "Bing Wang -" ]
+  "bing-wang": [ "Bing Wang", "B Wang", "Bing Wang -" ]
 ,
   "chao-wang": [ "Chao Wang" ]
 ,
@@ -4435,7 +4419,7 @@
 ,
   "gaoran-wang": [ "Gaoran Wang" ]
 ,
-  "hailiang-wang": [ "Hailiang Wang", "null Hailiang Wang" ]
+  "hailiang-wang": [ "Hailiang Wang" ]
 ,
   "honghua-wang": [ "Honghua Wang" ]
 ,
@@ -4475,7 +4459,7 @@
 ,
   "li-wang": [ "Li Wang" ]
 ,
-  "mei-wang": [ "Mei Wang", "null Mei Wang" ]
+  "mei-wang": [ "Mei Wang" ]
 ,
   "mian-wang": [ "Mian Wang" ]
 ,
@@ -4545,7 +4529,7 @@
 ,
   "yongjun-wang": [ "Yongjun Wang" ]
 ,
-  "yong-wang": [ "Yong Wang", "null Yong Wang" ]
+  "yong-wang": [ "Yong Wang" ]
 ,
   "yue-wang": [ "Yue Wang" ]
 ,
@@ -4557,9 +4541,9 @@
 ,
   "yu-wang": [ "Yu Wang" ]
 ,
-  "yuzhen-wang": [ "Yuzhen Wang", "null Yuzhen Wang", "Yu Zhen Wang", "YuZhen Wang", "Yu-Zhen WANG" ]
+  "yuzhen-wang": [ "Yuzhen Wang", "Yu Zhen Wang", "YuZhen Wang", "Yu-Zhen WANG" ]
 ,
-  "zheng-wang": [ "Zheng Wang", "null Zheng Wang" ]
+  "zheng-wang": [ "Zheng Wang" ]
 ,
   "zenghui-wang": [ "Zenghui Wang" ]
 ,
@@ -4669,7 +4653,7 @@
 ,
   "chenyu-wu": [ "Chenyu Wu" ]
 ,
-  "di-wu": [ "Di Wu", "null Di Wu" ]
+  "di-wu": [ "Di Wu" ]
 ,
   "dongjun-wu": [ "Dongjun Wu" ]
 ,
@@ -4719,7 +4703,7 @@
 ,
   "christian-wyss": [ "Christian Wyss" ]
 ,
-  "lei-xi": [ "Lei Xi", "null Lei Xi" ]
+  "lei-xi": [ "Lei Xi" ]
 ,
   "yugeng-xi": [ "Yugeng Xi" ]
 ,
@@ -4809,7 +4793,7 @@
 ,
   "yan-xu": [ "Yan Xu" ]
 ,
-  "yuzhen-xu": [ "Yuzhen Xu", "null Yuzhen Xu" ]
+  "yuzhen-xu": [ "Yuzhen Xu" ]
 ,
   "zishi-xu": [ "Zishi Xu" ]
 ,
@@ -4829,7 +4813,7 @@
 ,
   "kyosuke-yamaguchi": [ "Kyosuke Yamaguchi" ]
 ,
-  "masaki-yamakita": [ "Masaki Yamakita", "Masaki YAMAKITA", "M. Yamakita", "null Masaki Yamakita" ]
+  "masaki-yamakita": [ "Masaki Yamakita", "Masaki YAMAKITA", "M. Yamakita" ]
 ,
   "marius-e-yamakou": [ "Marius E. Yamakou" ]
 ,
@@ -4923,7 +4907,7 @@
 ,
   "daiying-yin": [ "Daiying Yin" ]
 ,
-  "li-ying": [ "Li Ying", "null Li Ying" ]
+  "li-ying": [ "Li Ying" ]
 ,
   "hongjian-yin": [ "Hongjian Yin" ]
 ,
@@ -4957,7 +4941,7 @@
 ,
   "burak-yuksel": [ "Burak Yüksel" ]
 ,
-  "wang-yuzhen": [ "Wang Yuzhen", "null Wang Yuzhen" ]
+  "wang-yuzhen": [ "Wang Yuzhen" ]
 ,
   "juan-i-yuz": [ "Juan I. Yuz", "Juan I Yuz", "Juan Yuz" ]
 ,
@@ -4971,13 +4955,13 @@
 ,
   "dehay-yu": [ "Dehay Yu" ]
 ,
-  "haisheng-yu": [ "Haisheng Yu", "Hai Sheng Yu", "null Haisheng Yu" ]
+  "haisheng-yu": [ "Haisheng Yu", "Hai Sheng Yu" ]
 ,
   "hongnian-yu": [ "Hongnian Yu" ]
 ,
   "jianyang-yu": [ "Jianyang YU" ]
 ,
-  "jinpeng-yu": [ "Jinpeng Yu", "null Jinpeng Yu" ]
+  "jinpeng-yu": [ "Jinpeng Yu" ]
 ,
   "kai-yu": [ "Kai Yu" ]
 ,
@@ -4989,7 +4973,7 @@
 ,
   "samson-yu": [ "Samson Yu" ]
 ,
-  "shanshan-yu": [ "Shanshan Yu", "null Shanshan Yu" ]
+  "shanshan-yu": [ "Shanshan Yu" ]
 ,
   "shuanghe-yu": [ "Shuanghe Yu" ]
 ,
@@ -5073,7 +5057,7 @@
 ,
   "li-heng-zhang": [ "Li-Heng Zhang" ]
 ,
-  "lijun-zhang": [ "Lijun Zhang", "null Lijun Zhang" ]
+  "lijun-zhang": [ "Lijun Zhang" ]
 ,
   "lixiang-zhang": [ "Lixiang Zhang", "Li-Xiang Zhang" ]
 ,
@@ -5165,13 +5149,13 @@
 ,
   "gehang-zhao": [ "Gehang Zhao" ]
 ,
-  "guangzhou-zhao": [ "Guangzhou Zhao", "null Guangzhou Zhao" ]
+  "guangzhou-zhao": [ "Guangzhou Zhao" ]
 ,
   "hongwei-zhao": [ "Hongwei Zhao" ]
 ,
   "jingyi-zhao": [ "Jingyi Zhao" ]
 ,
-  "keyou-zhao": [ "Keyou Zhao", "null Keyou Zhao" ]
+  "keyou-zhao": [ "Keyou Zhao" ]
 ,
   "mei-zhao": [ "Mei Zhao" ]
 ,
@@ -5211,7 +5195,7 @@
 ,
   "xuemei-zheng": [ "Xuemei Zheng" ]
 ,
-  "zhang-zhenhuan": [ "Zhang Zhenhuan", "null Zhang Zhenhuan" ]
+  "zhang-zhenhuan": [ "Zhang Zhenhuan" ]
 ,
   "maksym-zhenirovskyy": [ "Maksym Zhenirovskyy" ]
 ,
@@ -5259,7 +5243,7 @@
 ,
   "he-zhu": [ "He Zhu" ]
 ,
-  "jin-zhu": [ "Jin Zhu", "null Jin Zhu" ]
+  "jin-zhu": [ "Jin Zhu" ]
 ,
   "lixun-zhu": [ "Lixun Zhu" ]
 ,
@@ -5297,7 +5281,7 @@
 ,
   "yichao-zou": [ "Yichao Zou", "Yichao ZOU" ]
 ,
-  "zongwei-zou": [ "Zongwei Zou", "null Zongwei Zou" ]
+  "zongwei-zou": [ "Zongwei Zou" ]
 ,
   "pedro-j-zufiria": [ "Pedro J. Zufiria" ]
 ,
@@ -5308,4 +5292,12 @@
   "hans-j-zwart": [ "Hans J. Zwart", "Hans Zwart", "H J Zwart", "H. J. Zwart", "H.J. Zwart", "H. Zwart" ]
 ,
   "tom-zwerschke": [ "Tom Zwerschke" ]
+,
+  "wei-airong": [ "Wei Airong" ]
+,
+  "xu-guizhi": [ "Xu Guizhi" ]
+,
+  "guomin-ji": [ "Guomin Ji" ]
+,
+  "shangzhi-pan": [ "Shangzhi Pan" ]
 }
