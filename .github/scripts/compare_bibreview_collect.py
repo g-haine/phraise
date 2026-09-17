@@ -2,6 +2,7 @@
 """Offline comparison of PHRAISE collection with the BibReview M3 stack."""
 from __future__ import annotations
 
+from copy import deepcopy
 import json
 from pathlib import Path
 import sys
@@ -72,6 +73,14 @@ def old_record() -> dict:
         'permalink': 'old',
         'references': [],
     }
+
+
+def normalized_for_comparison(record: dict) -> dict:
+    """Ignore only the deliberate canonical trimming of abstract edge whitespace."""
+    result = deepcopy(record)
+    if isinstance(result.get('abstract'), str):
+        result['abstract'] = result['abstract'].strip()
+    return result
 
 
 class LegacyClient:
@@ -166,9 +175,11 @@ def compare_full_collection() -> None:
         raise AssertionError(f'unexpected candidates: {result.candidates!r}')
     if result.unavailable != ('10.1/missing',):
         raise AssertionError(f'unexpected unavailable DOIs: {result.unavailable!r}')
-    if actual_records != expected_records:
+    if [normalized_for_comparison(record) for record in actual_records] != [
+        normalized_for_comparison(record) for record in expected_records
+    ]:
         raise AssertionError(
-            'BibReview collection does not reproduce the historical PHRAISE record\n'
+            'BibReview collection differs from historical PHRAISE beyond canonical abstract trimming\n'
             f'expected: {expected_records!r}\nactual:   {actual_records!r}'
         )
     if result.items[0].bibtex != expected_bibtex:
@@ -196,17 +207,20 @@ def compare_abstract_fallback() -> None:
         citation_lookup=lambda doi: 'A cited publication',
     )
     actual = publication_to_legacy_record(publication)
-    if actual != expected:
-        raise AssertionError('BibReview fallback collection differs from historical PHRAISE behavior')
+    if normalized_for_comparison(actual) != normalized_for_comparison(expected):
+        raise AssertionError(
+            'BibReview fallback collection differs from historical PHRAISE beyond canonical abstract trimming'
+        )
 
 
 def main() -> int:
     compare_full_collection()
     compare_abstract_fallback()
-    print('historical PHRAISE vs BibReview collection: exact on comparison fixtures')
+    print('historical PHRAISE vs BibReview collection: equivalent on comparison fixtures')
+    print('intentional difference: canonical abstract edge whitespace is trimmed')
     print('candidate filtering / unavailable DOI tracking: exact')
     print('slug collision / references / BibTeX: exact')
-    print('publisher enrichment / abstract fallback: exact')
+    print('publisher enrichment / abstract fallback: equivalent')
     print('author source metadata: preserved')
     return 0
 
