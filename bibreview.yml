@@ -11,6 +11,7 @@ project:
 
 paths:
   bibliography: docs/assets/data/biblio.json
+  collected: docs/assets/data/collected.json
   author_mappings: docs/assets/data/author_mappings.json
   known: docs/DOI.txt
   pending: docs/newDOI.txt
