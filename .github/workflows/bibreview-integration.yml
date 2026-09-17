@@ -24,8 +24,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install BibReview
-        run: python -m pip install -e .bibreview-src
+      - name: Install migration test dependencies
+        run: python -m pip install -e .bibreview-src 'python-dotenv>=1,<2'
 
       - name: Validate real PHRAISE bibliography through BibReview
         run: python .github/scripts/validate_bibreview_compat.py
