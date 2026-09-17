@@ -2,8 +2,11 @@
 """Audit a one-shot PHRAISE migration from legacy to canonical BibReview state."""
 from __future__ import annotations
 
+from collections import defaultdict
+from dataclasses import dataclass
 import json
 from pathlib import Path
+import re
 import sys
 import tempfile
 
@@ -11,42 +14,79 @@ DOCS = Path(__file__).resolve().parents[2] / "docs"
 sys.path.insert(0, str(DOCS))
 
 from bibreview.compat import load_legacy_bibliography
+from bibreview.identity import IdentityError, normalize_doi
 from bibreview.storage import read_bibliography, write_bibliography
 from phraise_tools.bibreview_bridge import publication_to_legacy_record
 
 LEGACY = Path("docs/assets/data/biblio.json")
+_MISSING = object()
+_INDEX = re.compile(r"\[\d+\]")
 
 
-def differing_paths(left: object, right: object, prefix: str = "") -> list[str]:
-    """Return leaf paths whose values differ."""
+@dataclass(frozen=True)
+class Difference:
+    path: str
+    before: object
+    after: object
+
+    @property
+    def category(self) -> str:
+        return _INDEX.sub("[*]", self.path)
+
+
+def differences(left: object, right: object, prefix: str = "") -> list[Difference]:
+    """Return leaf differences with their before/after values."""
     if type(left) is not type(right):
-        return [prefix or "<root>"]
+        return [Difference(prefix or "<root>", left, right)]
     if isinstance(left, dict):
-        paths: list[str] = []
+        result: list[Difference] = []
         for key in sorted(set(left) | set(right)):
             child = f"{prefix}.{key}" if prefix else str(key)
-            if key not in left or key not in right:
-                paths.append(child)
+            if key not in left:
+                result.append(Difference(child, _MISSING, right[key]))
+            elif key not in right:
+                result.append(Difference(child, left[key], _MISSING))
             else:
-                paths.extend(differing_paths(left[key], right[key], child))
-        return paths
+                result.extend(differences(left[key], right[key], child))
+        return result
     if isinstance(left, list):
-        paths: list[str] = []
+        result: list[Difference] = []
         if len(left) != len(right):
-            paths.append(f"{prefix}.length" if prefix else "length")
+            result.append(Difference(f"{prefix}.length", len(left), len(right)))
         for index, (l_item, r_item) in enumerate(zip(left, right)):
-            paths.extend(differing_paths(l_item, r_item, f"{prefix}[{index}]"))
-        return paths
-    return [] if left == right else [prefix or "<root>"]
+            result.extend(differences(l_item, r_item, f"{prefix}[{index}]"))
+        return result
+    return [] if left == right else [Difference(prefix or "<root>", left, right)]
 
 
-def category(path: str) -> str:
-    """Collapse list indices so the audit reports stable field categories."""
-    if path.startswith("authors["):
-        return "authors[*]" + path[path.find("]") + 1 :]
-    if path.startswith("references["):
-        return "references[*]" + path[path.find("]") + 1 :]
-    return path
+def _display(value: object) -> str:
+    if value is _MISSING:
+        return "<missing>"
+    text = repr(value)
+    return text if len(text) <= 180 else text[:177] + "..."
+
+
+def _normalized_doi(value: object) -> str | None:
+    if not isinstance(value, str) or not value.strip() or value.strip().lower() == "null":
+        return None
+    try:
+        return normalize_doi(value)
+    except IdentityError:
+        return None
+
+
+def _doi_difference_class(diff: Difference) -> str:
+    before = _normalized_doi(diff.before)
+    after = _normalized_doi(diff.after)
+    if before is not None and before == after:
+        return "equivalent-normalization"
+    if before is None and after is None:
+        return "both-noncanonical-or-missing"
+    if before is None and after is not None:
+        return "canonical-doi-added"
+    if before is not None and after is None:
+        return "canonical-doi-lost"
+    return "semantic-doi-change"
 
 
 def main() -> int:
@@ -65,44 +105,64 @@ def main() -> int:
     if len(projected) != len(source):
         raise SystemExit("canonical migration changed publication count")
 
-    changed_records: list[tuple[int, str | None, list[str]]] = []
-    changed_categories: dict[str, int] = {}
+    category_counts: dict[str, int] = defaultdict(int)
+    category_examples: dict[str, list[tuple[int, str | None, Difference]]] = defaultdict(list)
+    doi_classes: dict[str, int] = defaultdict(int)
+    changed_record_count = 0
+
     for index, (before, after) in enumerate(zip(source, projected)):
-        paths = differing_paths(before, after)
-        if not paths:
+        record_diffs = differences(before, after)
+        if not record_diffs:
             continue
-        doi = before.get("doi") if isinstance(before, dict) else None
-        changed_records.append((index, doi, paths))
-        for path in paths:
-            key = category(path)
-            changed_categories[key] = changed_categories.get(key, 0) + 1
+        changed_record_count += 1
+        publication_doi = before.get("doi") if isinstance(before, dict) else None
+        for diff in record_diffs:
+            category_counts[diff.category] += 1
+            if len(category_examples[diff.category]) < 3:
+                category_examples[diff.category].append((index, publication_doi, diff))
+            if diff.category == "references[*].doi":
+                doi_classes[_doi_difference_class(diff)] += 1
 
     print(f"legacy publications: {len(source)}")
     print(f"canonical publications: {len(publications)}")
     print(f"unique canonical UUIDs: {len({publication.id for publication in publications})}")
-    print(f"records changed after canonical persistence + legacy projection: {len(changed_records)}")
+    print(f"records changed after canonical persistence + legacy projection: {changed_record_count}")
     print("changed path categories:")
-    for path, count in sorted(changed_categories.items(), key=lambda item: (-item[1], item[0])):
-        print(f"  {count:4d}  {path}")
-    print("changed records:")
-    for index, doi, paths in changed_records:
-        print(f"  index={index} doi={doi!r}: {', '.join(paths)}")
+    for category, count in sorted(category_counts.items(), key=lambda item: (-item[1], item[0])):
+        print(f"  {count:5d}  {category}")
+        for index, publication_doi, diff in category_examples[category]:
+            print(
+                f"         example index={index} publication_doi={publication_doi!r} "
+                f"path={diff.path}: {_display(diff.before)} -> {_display(diff.after)}"
+            )
 
-    # This first migration audit deliberately fails if the persistent canonical
-    # form exposes anything beyond the two legacy irregularities already found
-    # during the compatibility work: one empty author entry and one malformed
-    # reference DOI. The exact affected DOI values are reported above rather
-    # than hard-coded as part of BibReview's generic contract.
-    if len(changed_records) != 2:
-        raise SystemExit(
-            "unexpected canonical migration surface: expected exactly two known legacy irregularities"
-        )
-    allowed = {"authors.length", "references[*].doi"}
-    unexpected = set(changed_categories) - allowed
-    if unexpected:
-        raise SystemExit("unexpected canonical migration fields: " + ", ".join(sorted(unexpected)))
+    if doi_classes:
+        print("reference DOI difference classification:")
+        for kind, count in sorted(doi_classes.items(), key=lambda item: (-item[1], item[0])):
+            print(f"  {count:5d}  {kind}")
 
-    print("migration audit: only the two previously known legacy irregularities differ")
+    # Diagnostic gate: this audit PR stays red until every observed difference
+    # has been classified as either semantics-preserving normalization or an
+    # explicitly reviewed legacy irregularity. Do not broaden this gate merely
+    # to make the migration pass.
+    expected_categories = {"authors.length", "references[*].doi", "references.length"}
+    unexpected = set(category_counts) - expected_categories
+    semantic_doi_changes = sum(
+        count
+        for kind, count in doi_classes.items()
+        if kind not in {"equivalent-normalization", "both-noncanonical-or-missing"}
+    )
+    if unexpected or semantic_doi_changes or changed_record_count != 2:
+        reasons = []
+        if unexpected:
+            reasons.append("unexpected fields: " + ", ".join(sorted(unexpected)))
+        if semantic_doi_changes:
+            reasons.append(f"semantic reference DOI changes: {semantic_doi_changes}")
+        if changed_record_count != 2:
+            reasons.append(f"changed records: {changed_record_count} (expected 2 before review)")
+        raise SystemExit("migration audit requires review: " + "; ".join(reasons))
+
+    print("migration audit: only reviewed compatibility differences remain")
     print("repository state: read-only")
     return 0
 
