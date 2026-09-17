@@ -4,7 +4,11 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import sys
 import tempfile
+
+DOCS = Path(__file__).resolve().parents[2] / "docs"
+sys.path.insert(0, str(DOCS))
 
 from bibreview.compat import load_legacy_bibliography
 from bibreview.storage import read_bibliography, write_bibliography
