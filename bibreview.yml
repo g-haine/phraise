@@ -10,7 +10,7 @@ project:
     name: Ghislain Haine
 
 paths:
-  bibliography: docs/assets/data/biblio.json
+  bibliography: docs/assets/data/bibliography.json
   collected: docs/assets/data/collected.json
   author_mappings: docs/assets/data/author_mappings.json
   known: docs/DOI.txt
