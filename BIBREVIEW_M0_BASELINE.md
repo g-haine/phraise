@@ -127,6 +127,15 @@ M0 deliberately records the current system rather than pretending it is fully re
 - The frozen baseline branch is the immutable comparison point for extraction work.
 - The current Ruby dependencies are resolved through the existing `docs/Gemfile`; there is no requirement in M0 to redesign or modernize the website toolchain.
 
+## Final local validation
+
+On 2026-09-17, the frozen M0 reference was validated locally before starting M1:
+
+- the deterministic Python compilation/tests completed without errors or warnings;
+- the Jekyll build completed without errors or warnings.
+
+This closes M0. The immutable comparison point remains the reference commit and frozen branch above; this status update does not alter that frozen baseline.
+
 ## M0 acceptance criteria
 
 M0 is complete when all of the following are true:
@@ -138,7 +147,7 @@ M0 is complete when all of the following are true:
 - [x] Deterministic tests are distinguished from network-dependent validation.
 - [x] The current data boundaries are documented.
 - [x] A successful GitHub Pages deployment exists for the reference commit.
-- [ ] The deterministic Python tests are rerun locally from the frozen reference and the result is recorded here.
-- [ ] The Jekyll build is rerun locally from the frozen reference and the result is recorded here.
+- [x] The deterministic Python tests are rerun locally from the frozen reference and the result is recorded here.
+- [x] The Jekyll build is rerun locally from the frozen reference and the result is recorded here.
 
-Once the two local validation results are recorded, M0 can be closed and M1 — the extraction audit — can begin.
+M0 is closed. M1 — the extraction audit — can proceed.
