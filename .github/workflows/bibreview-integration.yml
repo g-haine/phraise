@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: g-haine/bibreview
-          ref: 7a2388fd5ce935cb84a7ce9bca098490e4a750f1
+          ref: 779d409caf32fe09b20de5d156f5ad38e0dd7e16
           path: .bibreview-src
 
       - name: Set up Python
@@ -35,6 +35,9 @@ jobs:
 
       - name: Validate BibReview merge CLI on authoritative state
         run: bibreview --config bibreview.yml --dry-run merge
+
+      - name: Compare PHRAISE and BibReview discovery/relevance paths
+        run: python .github/scripts/compare_bibreview_discovery.py
 
       - name: Compare historical and BibReview collection paths
         run: python .github/scripts/compare_bibreview_collect.py
