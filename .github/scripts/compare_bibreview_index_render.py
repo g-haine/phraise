@@ -14,24 +14,12 @@ sys.path.insert(0, str(DOCS))
 
 from bibreview.config import load_config  # noqa: E402
 from bibreview.site import (  # noqa: E402
-    JekyllIndexRenderOptions,
     build_site_model,
     render_jekyll_index_pages,
 )
 from bibreview.storage import read_bibliography, read_json  # noqa: E402
-from phraise_tools.generate import generate_pages  # noqa: E402
-
-
-PHRAISE_AUTHOR_INDEX_EXTRA_HTML = (
-    "<p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>"
-    "simplicity</a>, the authors are sorted using the last word of their name.<br />"
-    "For example, <i>Arjan van der Schaft</i> appears under the letter "
-    "<strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter "
-    "<strong>G</strong>.</p>\n"
-    "<p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>"
-    "the array managing name variations</a> (a JSON file) for verification/correction.</p>\n"
-    "<hr />\n"
-)
+from phraise_tools.generate import generate_pages_legacy  # noqa: E402
+from phraise_tools.site import PHRAISE_INDEX_OPTIONS  # noqa: E402
 
 
 def _legacy_outputs(root: Path) -> dict[str, bytes]:
@@ -53,10 +41,7 @@ def main() -> None:
 
     rendered = render_jekyll_index_pages(
         model,
-        options=JekyllIndexRenderOptions(
-            author_index_extra_html=PHRAISE_AUTHOR_INDEX_EXTRA_HTML,
-            include_authorless_year_publications=False,
-        ),
+        options=PHRAISE_INDEX_OPTIONS,
     )
     actual = {artifact.path: artifact.content.encode("utf-8") for artifact in rendered}
 
@@ -70,7 +55,7 @@ def main() -> None:
             DOCS / "assets/data/author_mappings.json",
             legacy_root / "assets/data/author_mappings.json",
         )
-        generate_pages(legacy_root, dry_run=False)
+        generate_pages_legacy(legacy_root, dry_run=False)
         expected = _legacy_outputs(legacy_root)
 
     assert set(actual) == set(expected), (
