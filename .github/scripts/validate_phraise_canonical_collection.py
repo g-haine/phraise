@@ -117,7 +117,7 @@ def main() -> None:
         assert len(merged) == 2350
         new = next(publication for publication in merged if publication.doi == NEW_DOI)
         assert new.id == staged_id
-        assert read_bibliography(root / "assets/data/collected.json) == ()
+        assert read_bibliography(root / "assets/data/collected.json") == ()
         assert pending.read_text(encoding="utf-8") == f"{MISSING_DOI}\n"
         assert NEW_DOI in set((root / "DOI.txt").read_text(encoding="utf-8").splitlines())
         assert (root / "assets/data/biblio.json").read_bytes() == legacy_before
