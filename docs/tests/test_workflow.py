@@ -16,6 +16,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from bibreview.compat import legacy_record_to_publication
 from bibreview.storage import write_bibliography
 from phraise_tools.collect import collect
+from phraise_tools.canonical import (
+    collect_canonical,
+    merge_canonical,
+    plan_canonical_merge,
+    project_config,
+)
 from phraise_tools.common import json_bytes, mathjaxify, Reporter, slugify, write_batch
 from phraise_tools.generate import (apply_safe_author_mappings, author_mapping_plan,
                                     format_author_mapping_plan, generate_pages,
@@ -144,8 +150,8 @@ class WorkflowTests(unittest.TestCase):
         before = self.snapshot()
 
         results = [
-            collect(self.root, self.root / 'newDOI.txt', self.client,
-                    dry_run=True),
+            collect_canonical(self.root, self.root / 'newDOI.txt', self.client,
+                              dry_run=True),
             find_updates(self.root, self.client, dry_run=True),
             concatenate(*(self.root / path for path in [
                 'DOI.txt', 'newDOI.txt', 'badDOI.txt',
@@ -155,6 +161,41 @@ class WorkflowTests(unittest.TestCase):
         ]
 
         self.assertTrue(all(result.startswith('Dry run:') for result in results))
+        self.assertEqual(before, self.snapshot())
+
+    def test_canonical_collection_stages_without_mutating_main_or_legacy(self):
+        pending = self.root / 'newDOI.txt'
+        pending.write_text('10.1/OLD\n10.1/NEW\n10.1/new\n10.1/missing\n')
+        self.client.messages['10.1/new'] = message()
+        canonical_before = (self.root / 'assets/data/bibliography.json').read_bytes()
+        legacy_before = (self.root / 'assets/data/biblio.json').read_bytes()
+
+        result = collect_canonical(self.root, pending, self.client)
+
+        self.assertIn('canonical staging', result)
+        staged = self.load('assets/data/collected.json')
+        self.assertEqual(len(staged), 1)
+        self.assertEqual(staged[0]['identifiers']['doi'], '10.1/new')
+        self.assertEqual(
+            (self.root / 'assets/data/bibliography.json').read_bytes(),
+            canonical_before,
+        )
+        self.assertEqual(
+            (self.root / 'assets/data/biblio.json').read_bytes(),
+            legacy_before,
+        )
+        self.assertEqual(pending.read_text(), '10.1/new\n10.1/missing\n')
+
+    def test_canonical_collection_refuses_unmerged_staging(self):
+        pending = self.root / 'newDOI.txt'
+        pending.write_text('10.1/new\n')
+        self.client.messages['10.1/new'] = message()
+        collect_canonical(self.root, pending, self.client)
+        before = self.snapshot()
+
+        with self.assertRaisesRegex(ValueError, 'merge the existing batch'):
+            collect_canonical(self.root, pending, self.client)
+
         self.assertEqual(before, self.snapshot())
 
     def test_collection_failure_leaves_inputs_unchanged(self):
@@ -277,23 +318,39 @@ class WorkflowTests(unittest.TestCase):
     def test_full_offline_workflow(self):
         self.client.pages['*']['results'] = [{'doi': 'https://doi.org/10.1/new'}]
         self.client.messages['10.1/new'] = message()
+
+        # Discovery is still a legacy oracle in this increment; collection,
+        # merge, author analysis and site generation use canonical BibReview state.
         find_updates(self.root, self.client)
-        collect(self.root, self.root / 'newDOI.txt', self.client)
-        self.assertEqual(author_mapping_plan(self.root)['unknown_names'], 0)
-        concatenate(*(self.root / p for p in ['DOI.txt', 'newDOI.txt', 'badDOI.txt', 'assets/data/biblio.json', 'assets/data']))
-        # The production migration branch now expects BibReview's canonical
-        # collect -> merge handoff.  This synthetic legacy workflow explicitly
-        # materializes that handoff so generation is tested from canonical state.
-        write_canonical_fixture(
-            self.root,
-            self.load('assets/data/biblio.json'),
+        legacy_before = (self.root / 'assets/data/biblio.json').read_bytes()
+
+        collect_canonical(self.root, self.root / 'newDOI.txt', self.client)
+        merge_canonical(self.root)
+
+        author_plan = plan_canonical_merge  # keep import exercised for CLI parity
+        del author_plan
+        config = project_config(self.root)
+        from bibreview.project import plan_project_author_mappings
+        self.assertEqual(
+            plan_project_author_mappings(config).before.unknown_names,
+            (),
         )
+
         generate_posts(self.root, self.client)
         generate_pages(self.root)
-        self.assertEqual(len(self.load('assets/data/biblio.json')), 2)
+
+        self.assertEqual(len(self.load('assets/data/bibliography.json')), 2)
+        self.assertEqual(self.load('assets/data/collected.json'), [])
+        self.assertEqual(
+            (self.root / 'assets/data/biblio.json').read_bytes(),
+            legacy_before,
+        )
         self.assertEqual(len(list((self.root / '_posts').glob('*.md'))), 2)
         self.assertEqual((self.root / 'newDOI.txt').read_text(), '')
-        self.assertEqual(set((self.root / 'DOI.txt').read_text().splitlines()), {'10.1/new', '10.1/old'})
+        self.assertEqual(
+            set((self.root / 'DOI.txt').read_text().splitlines()),
+            {'10.1/new', '10.1/old'},
+        )
 
     def test_all_cli_help_and_local_commands(self):
         for script in ['getData', 'looking4Update', 'setAuthorMapping', 'setPosts', 'setPages']:
