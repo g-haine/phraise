@@ -34,7 +34,7 @@ jobs:
       - name: Validate optional arXiv module configuration
         run: |
           bibreview --config bibreview.yml status
-          test "$(find . -path './.git' -prune -o -name '*.py' -print | wc -l)" -eq 0
+          test "$(find . -path './.git' -prune -o -path './.bibreview-src' -prune -o -name '*.py' -print | wc -l)" -eq 0
 
       - name: Validate canonical merge state
         run: bibreview --config bibreview.yml --dry-run merge
