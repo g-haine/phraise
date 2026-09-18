@@ -3,12 +3,12 @@ title: "PMSM Control with Port-Controlled Hamiltonian Theory"
 date: 2006-10-24 00:00:00 +0100
 permalink: pmsm-control-with-port-controlled-hamiltonian-theory
 year: 2006
-authors: null Jun Qiu, null Guangzhou Zhao
+authors: Jun Qiu, Guangzhou Zhao
 category: proceedings
 ---
  
 ## Authors
-[null Jun Qiu](authors/jun-qiu), [null Guangzhou Zhao](authors/guangzhou-zhao)
+[Jun Qiu](authors/jun-qiu), [Guangzhou Zhao](authors/guangzhou-zhao)
  
 ## Abstract
 The goal of this paper is to control PMSM (permanent magnet synchronous motor) with PCH (port-controlled Hamiltonian) theory. PCH is a kind of nonlinear control method. Energy-shaping approach is the essence of passivity-based control. With the definition of generalized passive Hamiltonian system, the PCH structure of permanent magnet synchronous motor was given. By using the MTPA (maximum torque per ampere) control theory, the desired equilibrium was obtained. The nonlinear controller was designed by the way of energy shaping method. Finally the system's stability was analyzed by simulation. The controller has preferable robustness and fast response performance

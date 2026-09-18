@@ -3,12 +3,12 @@ title: "L2 gain disturbance attenuation of PMSM based on Hamiltonian systems con
 date: 2010-08-24 00:00:00 +0100
 permalink: l2-gain-disturbance-attenuation-of-pmsm-based-on-hamiltonian-systems-control-theory
 year: 2010
-authors: Haisheng Yu, null Shanshan Yu, null Jin Liu, null Jinpeng Yu
+authors: Haisheng Yu, Shanshan Yu, Jin Liu, Jinpeng Yu
 category: proceedings
 ---
  
 ## Authors
-[Haisheng Yu](authors/haisheng-yu), [null Shanshan Yu](authors/shanshan-yu), [null Jin Liu](authors/jin-liu), [null Jinpeng Yu](authors/jinpeng-yu)
+[Haisheng Yu](authors/haisheng-yu), [Shanshan Yu](authors/shanshan-yu), [Jin Liu](authors/jin-liu), [Jinpeng Yu](authors/jinpeng-yu)
  
 ## Abstract
 A novel L2 gain disturbance attenuation control algorithm is presented for permanent magnet synchronous motor (PMSM) based on port-controlled Hamiltonian (PCH) systems theory. First of all, a PCH system model of PMSM is established. Then, using the interconnection and damping assignment method, the PCH controller of the PMSM system is designed when the load torque is known. According to the maximum torque per ampere (MTPA) control rule, the desired equilibrium of the system is obtained. The L2 gain load torque disturbance attenuation technology is applied to the PCH control of PMSM system. Finally, in order to track the changes of the load torque better and eliminate speed steady error, the load torque observer is given. The simulation results show that the proposed scheme has a good performance and practical application prospects.

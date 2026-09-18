@@ -3,12 +3,12 @@ title: "Energy-based hybrid excitation control for synchronous generators"
 date: 2010-10-01 00:00:00 +0100
 permalink: energy-based-hybrid-excitation-control-for-synchronous-generators
 year: 2010
-authors: null Wei Qiao, null Qing Hui
+authors: Wei Qiao, Qing Hui
 category: proceedings
 ---
  
 ## Authors
-[null Wei Qiao](authors/wei-qiao), [null Qing Hui](authors/qing-hui)
+[Wei Qiao](authors/wei-qiao), [Qing Hui](authors/qing-hui)
  
 ## Abstract
 This paper presents an energy-based hybrid control, which replaces the traditional automatic voltage regulator (AVR) for excitation control of a synchronous generator connected to an infinite power system. The proposed controller is based on energy representation of the power system by using a port-controlled Hamiltonian form. The controller uses a hierarchical hybrid architecture characterized by continuous-time dynamics at the lower level of the hierarchy and logical decision-making units at the higher level of the hierarchy. The lower-level units, i.e., the subcontrollers, are each designed for a power system operating mode and directly interact with the power system to be controlled; while the higher-level decision-making units perform logical checks that identify system mode of operation and activates the corresponding lower-level unit; the activated lower-level unit then executes continuous control actions for the power system. Consequently, the controller can adapt to different power system operating modes. Simulation studies are carried out to show the effectiveness of the proposed controller for excitation control of the synchronous generator.

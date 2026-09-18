@@ -4,7 +4,7 @@ permalink: /authors/ngoc-ha-hoang
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Ngoc Ha Hoang, N. Ha Hoang, N.H. Hoang, null Ngoc-Ha Hoang.</p>
+<p id='info-authors'>Alternative author names: Ngoc Ha Hoang, N. Ha Hoang, N.H. Hoang, Ngoc-Ha Hoang.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Thanh Sang Nguyen, Ngoc Ha Hoang, Mohd Azlan Bin Hussein</span><h3><a class='post-link' href="{{ site.baseurl }}/setpoint-tracking-error-control-design-for-stabilization-of-quadruple-tank-process-with-time-delay-using-a-relaxing-port-hamiltonian-formulation">Setpoint Tracking-Error Control Design for Stabilization of Quadruple-Tank Process With Time Delay Using a Relaxing Port-Hamiltonian Formulation</a></h3></li>
@@ -18,7 +18,7 @@ permalink: /authors/ngoc-ha-hoang
 <li><span class='post-meta'>2018 -- T. Sang Nguyen, N. Ha Hoang, M.A. Hussain</span><h3><a class='post-link' href="{{ site.baseurl }}/tracking-error-plus-damping-injection-control-of-non-minimum-phase-processes">Tracking error plus damping injection control of non-minimum phase processes</a></h3></li>
 <li><span class='post-meta'>2019 -- T. Sang Nguyen, N. Ha Hoang, M. Azlan Hussain</span><h3><a class='post-link' href="{{ site.baseurl }}/feedback-passivation-plus-tracking-error-based-multivariable-control-for-a-class-of-free-radical-polymerisation-reactors">Feedback passivation plus tracking-error-based multivariable control for a class of free-radical polymerisation reactors</a></h3></li>
 <li><span class='post-meta'>2015 -- N. Ha Hoang, T. Phong Mai, Denis Dochain</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-relaxing-dissipation-of-dissipative-pseudo-hamiltonian-models">On the relaxing dissipation of dissipative pseudo Hamiltonian models</a></h3></li>
-<li><span class='post-meta'>2013 -- null Ngoc-Ha Hoang, null Du Juan, B. Erik Ydstie</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-passivity-of-inventory-control-in-the-port-hamiltonian-framework">On the passivity of inventory control in the Port Hamiltonian framework</a></h3></li>
+<li><span class='post-meta'>2013 -- Ngoc-Ha Hoang, Du Juan, B. Erik Ydstie</span><h3><a class='post-link' href="{{ site.baseurl }}/on-the-passivity-of-inventory-control-in-the-port-hamiltonian-framework">On the passivity of inventory control in the Port Hamiltonian framework</a></h3></li>
 <li><span class='post-meta'>2013 -- N. Ha Hoang, F. Couenne, Y. Le Gorrec, C.L. Chen, B. Erik Ydstie</span><h3><a class='post-link' href="{{ site.baseurl }}/passivity-based-nonlinear-control-of-cstr-via-asymptotic-observers">Passivity-based nonlinear control of CSTR via asymptotic observers</a></h3></li>
 
 </ul>

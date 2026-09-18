@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: g-haine/bibreview
-          ref: c4b969f1157cc012efe155a7d68f042094fa5e0b
+          ref: 3970ad3a72c1a4e72df9c46f4ca99915edc59bb9
           path: .bibreview-src
 
       - name: Set up Python
@@ -65,6 +65,9 @@ jobs:
 
       - name: Compare legacy and BibReview Jekyll publication rendering
         run: python .github/scripts/compare_bibreview_publication_render.py
+
+      - name: Validate BibReview rendered-artifact persistence
+        run: python .github/scripts/validate_bibreview_site_persistence.py
 
       - name: Validate legacy author-page bridge
         run: python docs/setPages.py --dry-run

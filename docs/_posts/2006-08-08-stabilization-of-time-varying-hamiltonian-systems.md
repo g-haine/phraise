@@ -3,12 +3,12 @@ title: "Stabilization of time-varying Hamiltonian systems"
 date: 2006-08-08 00:00:00 +0100
 permalink: stabilization-of-time-varying-hamiltonian-systems
 year: 2006
-authors: null Yuqian Guo, null Daizhan Cheng
+authors: Yuqian Guo, Daizhan Cheng
 category: articles
 ---
  
 ## Authors
-[null Yuqian Guo](authors/yuqian-guo), [null Daizhan Cheng](authors/daizhan-cheng)
+[Yuqian Guo](authors/yuqian-guo), [Daizhan Cheng](authors/daizhan-cheng)
  
 ## Abstract
 This paper investigates the stabilization problem of time-varying port-controlled Hamiltonian (PCH) systems through energy-shaping. First, the closed-loop form of a time-varying PCH system (with certain feedback) is embedded into an extended system. Then by restricting the extended system to its invariant Casimir manifold, the energy function (Hamiltonian) of the original PCH system could be shaped as a candidate of Lyapunov function. Then the stabilization problem is considered by using the shaped Hamiltonian function. When the system has unknown parameters, the adaptive stabilization is considered, and the above stabilization result is used to construct an adaptive stabilizer. Finally, the method developed is used to power systems with periodic disturbances

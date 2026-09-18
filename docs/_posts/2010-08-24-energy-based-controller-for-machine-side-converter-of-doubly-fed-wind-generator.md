@@ -3,12 +3,12 @@ title: "Energy-based controller for machine-side converter of doubly-fed wind ge
 date: 2010-08-24 00:00:00 +0100
 permalink: energy-based-controller-for-machine-side-converter-of-doubly-fed-wind-generator
 year: 2010
-authors: null Huihui Song, null Yanbin Qu
+authors: Huihui Song, Yanbin Qu
 category: proceedings
 ---
  
 ## Authors
-[null Huihui Song](authors/huihui-song), [null Yanbin Qu](authors/null-yanbin-qu)
+[Huihui Song](authors/huihui-song), [Yanbin Qu](authors/yanbin-qu)
  
 ## Abstract
 A novel energy-based control strategy to determine the switch functions of the machine-side conveter (MSC) in a doubly-fed wind generator is proposed in this paper. From the energy shaping perspective, a port-controlled hamiltonian (PCH) description for the wind energy conversion system (WECS) is obtained. Based on the description and the enegy- matching equation, the proposed switch functions enable us to realize maximum power extraction by tracking equilibrium point in the power optimization stage. This approach possesses the advantages of stable tracking performance and rapid convergence rate. Simulation results via Matlab/Simulink for 2MW WECS with a doubly fed induction generator (DFIG) confirmed its effectiveness.

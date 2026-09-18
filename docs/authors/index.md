@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2653 authors referenced.</h3>
+<h3>There are 2651 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -43,7 +43,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/hyo-sung-ahn'>Hyo-Sung Ahn</a>
 <a href='{{ site.baseurl }}/authors/jian-ai'>Jian Ai</a>
 <a href='{{ site.baseurl }}/authors/weiwei-ai'>Weiwei Ai</a>
-<a href='{{ site.baseurl }}/authors/null-wei-airong'>null Wei Airong</a>
+<a href='{{ site.baseurl }}/authors/wei-airong'>Wei Airong</a>
 <a href='{{ site.baseurl }}/authors/m-ait-ahmed'>M. Ait-Ahmed</a>
 <a href='{{ site.baseurl }}/authors/ahmad-akbari'>Ahmad Akbari</a>
 <a href='{{ site.baseurl }}/authors/hamdi-akhsan'>Hamdi Akhsan</a>
@@ -239,8 +239,8 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/mogens-blanke'>Mogens Blanke</a>
 <a href='{{ site.baseurl }}/authors/guido-blankenstein'>Guido Blankenstein</a>
 <a href='{{ site.baseurl }}/authors/adam-bloch'>Adam Błoch</a>
+<a href='{{ site.baseurl }}/authors/null-xu-bo'>Xu Bo</a>
 <a href='{{ site.baseurl }}/authors/yang-bo'>Yang Bo</a>
-<a href='{{ site.baseurl }}/authors/null-xu-bo'>null Xu Bo</a>
 <a href='{{ site.baseurl }}/authors/thiago-boaventura'>Thiago Boaventura</a>
 <a href='{{ site.baseurl }}/authors/sara-yulieth-bocanegra'>Sara Yulieth Bocanegra</a>
 <a href='{{ site.baseurl }}/authors/michael-bohm'>Michael Böhm</a>
@@ -767,10 +767,9 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/serkan-gugercin'>Serkan Gugercin</a>
 <a href='{{ site.baseurl }}/authors/nicola-guglielmi'>Nicola Guglielmi</a>
 <a href='{{ site.baseurl }}/authors/yonghao-gui'>Yonghao Gui</a>
-<a href='{{ site.baseurl }}/authors/null-yonghao-gui'>null Yonghao Gui</a>
 <a href='{{ site.baseurl }}/authors/damien-guilbert'>Damien Guilbert</a>
 <a href='{{ site.baseurl }}/authors/maria-guinaldo'>María Guinaldo</a>
-<a href='{{ site.baseurl }}/authors/null-xu-guizhi'>null Xu Guizhi</a>
+<a href='{{ site.baseurl }}/authors/xu-guizhi'>Xu Guizhi</a>
 <a href='{{ site.baseurl }}/authors/michael-gunther'>Michael Günther</a>
 <a href='{{ site.baseurl }}/authors/bao-zhu-guo'>Bao-Zhu Guo</a>
 <a href='{{ site.baseurl }}/authors/dongsheng-guo'>Dongsheng Guo</a>
@@ -981,10 +980,10 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/dimitri-jeltsema'>Dimitri Jeltsema</a>
 <a href='{{ site.baseurl }}/authors/chuan-ji'>Chuan Ji</a>
 <a href='{{ site.baseurl }}/authors/feng-ji'>Feng Ji</a>
+<a href='{{ site.baseurl }}/authors/guomin-ji'>Guomin Ji</a>
 <a href='{{ site.baseurl }}/authors/tianyao-ji'>Tianyao Ji</a>
 <a href='{{ site.baseurl }}/authors/xingmin-ji'>Xingmin Ji</a>
 <a href='{{ site.baseurl }}/authors/yangjian-ji'>Yangjian Ji</a>
-<a href='{{ site.baseurl }}/authors/null-guomin-ji'>null Guomin Ji</a>
 <a href='{{ site.baseurl }}/authors/haohui-jia'>Haohui Jia</a>
 <a href='{{ site.baseurl }}/authors/huishu-jia'>Huishu Jia</a>
 <a href='{{ site.baseurl }}/authors/jinjun-jia'>Jinjun Jia</a>
@@ -1653,9 +1652,9 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/ivo-palu'>Ivo Palu</a>
 <a href='{{ site.baseurl }}/authors/haining-pan'>Haining Pan</a>
 <a href='{{ site.baseurl }}/authors/le-pan'>Le Pan</a>
+<a href='{{ site.baseurl }}/authors/shangzhi-pan'>Shangzhi Pan</a>
 <a href='{{ site.baseurl }}/authors/siyu-pan'>Siyu Pan</a>
 <a href='{{ site.baseurl }}/authors/zhexiao-pan'>Zhexiao Pan</a>
-<a href='{{ site.baseurl }}/authors/null-shangzhi-pan'>null Shangzhi Pan</a>
 <a href='{{ site.baseurl }}/authors/giuseppe-panaro'>Giuseppe Panaro</a>
 <a href='{{ site.baseurl }}/authors/chengcheng-pang'>Chengcheng Pang</a>
 <a href='{{ site.baseurl }}/authors/shengzhao-pang'>Shengzhao Pang</a>
@@ -1772,7 +1771,6 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/weidong-qu'>Weidong Qu</a>
 <a href='{{ site.baseurl }}/authors/y-b-qu'>Y.B. Qu</a>
 <a href='{{ site.baseurl }}/authors/yanbin-qu'>Yanbin Qu</a>
-<a href='{{ site.baseurl }}/authors/null-yanbin-qu'>null Yanbin Qu</a>
 <a href='{{ site.baseurl }}/authors/isabelle-queinnec'>Isabelle Queinnec</a>
 <a href='{{ site.baseurl }}/authors/nicanor-quijano'>Nicanor Quijano</a>
 <a href='{{ site.baseurl }}/authors/aminuddin-qureshi'>Aminuddin Qureshi</a>

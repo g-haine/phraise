@@ -3,12 +3,12 @@ title: "Nonlinear control for PMSG wind turbine via port-controlled Hamiltonian 
 date: 2015-09-03 00:00:00 +0100
 permalink: nonlinear-control-for-pmsg-wind-turbine-via-port-controlled-hamiltonian-system
 year: 2015
-authors: Yonghao Gui, null Chunghun Kim, Chung Choo Chung
+authors: Yonghao Gui, Chunghun Kim, Chung Choo Chung
 category: proceedings
 ---
  
 ## Authors
-[Yonghao Gui](authors/yonghao-gui), [null Chunghun Kim](authors/chunghun-kim), [Chung Choo Chung](authors/chung-choo-chung)
+[Yonghao Gui](authors/yonghao-gui), [Chunghun Kim](authors/chunghun-kim), [Chung Choo Chung](authors/chung-choo-chung)
  
 ## Abstract
 This paper presents a nonlinear controller for a permanent-magnet synchronous generator (PMSG) wind turbine system in the framework of port-controlled Hamiltonian system. For the simplification, this work focuses on the nonlinear control law of the grid side converter (GSC) that is directly connected to the grid and affected during network disturbances. The proposed controller is designed through the analysis of PMSG GSC model from the passivity viewpoint in order to regulate the reference of the DC voltage and track the reference of the reactive current. In order to fulfill low voltage ride through requirements, a DC chopper is used to dissipate surplus active power in the DC-link. By using the proposed method, the exponential stability of the equilibrium point of the error dynamics at the origin is guaranteed through Lyapunov theory. Finally, the proposed method is validated through simulation by using SimPowerSystems, MATLAB/Simulink. The simulation results show that the performance has smaller overshoot and faster convergence when the proposed method is used than when the conventional method is used.
