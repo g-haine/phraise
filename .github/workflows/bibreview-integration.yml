@@ -5,9 +5,6 @@ on:
     branches: [bibreview-migration]
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   migration-validation:
     runs-on: ubuntu-latest
@@ -29,27 +26,6 @@ jobs:
 
       - name: Install migration test dependencies
         run: python -m pip install -e .bibreview-src 'python-dotenv>=1,<2'
-
-      - name: Check out PR head for one-shot baseline synchronization
-        if: github.event_name == 'pull_request' && github.head_ref == 'feature/m4-site-persistence-integration'
-        run: |
-          git fetch origin "${GITHUB_HEAD_REF}"
-          git checkout -B "${GITHUB_HEAD_REF}" "origin/${GITHUB_HEAD_REF}"
-
-      - name: Synchronize tracked generated site baseline
-        if: github.event_name == 'pull_request' && github.head_ref == 'feature/m4-site-persistence-integration'
-        run: python .github/scripts/sync_bibreview_site_baseline.py
-
-      - name: Commit synchronized generated site baseline
-        if: github.event_name == 'pull_request' && github.head_ref == 'feature/m4-site-persistence-integration'
-        run: |
-          if ! git diff --quiet -- docs/_posts docs/authors docs/years; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/_posts docs/authors docs/years
-            git commit -m "chore: synchronize generated site baseline"
-            git push origin "HEAD:${GITHUB_HEAD_REF}"
-          fi
 
       - name: Validate canonical PHRAISE state cutover
         run: python .github/scripts/validate_bibreview_cutover.py
