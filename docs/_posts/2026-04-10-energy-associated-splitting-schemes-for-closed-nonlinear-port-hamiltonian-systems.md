@@ -11,7 +11,7 @@ category: articles
 [Marius Mönch](authors/marius-monch), [Nicole Marheineke](authors/nicole-marheineke)
  
 ## Abstract
-                  We present splitting methods for port‐Hamiltonian (pH) systems, focusing on the preservation of their internal structure, in particular, the dissipation inequality. Classical high‐order splitting schemes possess negative step sizes, which might cause instabilities and the violation of the dissipation inequality. Negative step sizes can be avoided by using commutator‐based methods. Structure‐preservation depends then crucially on the properties of the designed commutator. For an energy‐associated decomposition, we exploit the skew‐symmetry of a third‐order commutator in the linear case and discuss generalizations for nonlinear systems, such as conformal Hamiltonian systems. We derive structure‐preserving splitting schemes of up to fourth order.
+We present splitting methods for port‐Hamiltonian (pH) systems, focusing on the preservation of their internal structure, in particular, the dissipation inequality. Classical high‐order splitting schemes possess negative step sizes, which might cause instabilities and the violation of the dissipation inequality. Negative step sizes can be avoided by using commutator‐based methods. Structure‐preservation depends then crucially on the properties of the designed commutator. For an energy‐associated decomposition, we exploit the skew‐symmetry of a third‐order commutator in the linear case and discuss generalizations for nonlinear systems, such as conformal Hamiltonian systems. We derive structure‐preserving splitting schemes of up to fourth order.
  
 ## Citation
 - **Journal:** Proceedings in Applied Mathematics and Mechanics

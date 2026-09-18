@@ -11,7 +11,7 @@ category: proceedings
 [H. Rodriguez](authors/hugo-rodriguez), [A.J. van der Schaft](authors/arjan-j-van-der-schaft), [R. Ortega](authors/romeo-ortega)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228)

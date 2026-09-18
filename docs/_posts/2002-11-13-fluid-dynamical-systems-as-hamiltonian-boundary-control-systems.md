@@ -11,7 +11,7 @@ category: proceedings
 [A.J. Van der Schaft](authors/arjan-j-van-der-schaft), [B.M. Maschke](authors/bernhard-maschke)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228)

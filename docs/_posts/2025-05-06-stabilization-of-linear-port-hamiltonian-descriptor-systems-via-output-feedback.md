@@ -11,7 +11,7 @@ category: articles
 [Delin Chu](authors/delin-chu), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** SIAM Journal on Matrix Analysis and Applications

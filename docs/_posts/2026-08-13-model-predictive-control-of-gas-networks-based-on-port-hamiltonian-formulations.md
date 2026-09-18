@@ -11,7 +11,7 @@ category: articles
 [Andres Ortegón‐Villacorte](authors/andres-ortegon-villacorte), [Jan Rohleff](authors/jan-rohleff)
  
 ## Abstract
-                  To efficiently compute optimal compressor actions in gas networks, we investigate port‐Hamiltonian models consisting of linear and a nonlinear model assumptions. The control actions are derived via adjoint‐based gradients that incorporate the constraints of the underlying optimization problem. We then present results from the implementation of a model predictive control (MPC) strategy. We compare the results of the optimization on different models and focus on the computational efficiency. These actions are then validated and periodically updated based on a physically detailed nonlinear model, which captures the detailed system dynamics. This design is applied to a daily demand profile in a network with multiple consumers and sources.
+To efficiently compute optimal compressor actions in gas networks, we investigate port‐Hamiltonian models consisting of linear and a nonlinear model assumptions. The control actions are derived via adjoint‐based gradients that incorporate the constraints of the underlying optimization problem. We then present results from the implementation of a model predictive control (MPC) strategy. We compare the results of the optimization on different models and focus on the computational efficiency. These actions are then validated and periodically updated based on a physically detailed nonlinear model, which captures the detailed system dynamics. This design is applied to a daily demand profile in a network with multiple consumers and sources.
  
 ## Citation
 - **Journal:** Proceedings in Applied Mathematics and Mechanics

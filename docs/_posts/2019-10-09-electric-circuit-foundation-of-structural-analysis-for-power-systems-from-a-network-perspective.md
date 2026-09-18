@@ -11,7 +11,7 @@ category: proceedings
 [D. Sharma](authors/d-sharma), [Guomin Ji](authors/guomin-ji), [Wanghao Fei](authors/wanghao-fei), [Di Wu](authors/di-wu), [P. Moses](authors/p-moses), [J.N. Jiang](authors/j-n-jiang)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2018)

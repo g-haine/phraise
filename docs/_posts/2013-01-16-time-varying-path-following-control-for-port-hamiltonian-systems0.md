@@ -11,7 +11,7 @@ category: articles
 [Mitsuru TANIGUCHI](authors/mitsuru-taniguchi), [Kenji FUJIMOTO](authors/kenji-fujimoto)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

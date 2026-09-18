@@ -17,7 +17,7 @@ tags:
 [D.A. Dirksz](authors/daniel-a-dirksz), [J.M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
- Steady-state errors usually occur in the implementation of control algorithms on a system, caused by uncertainties and/or modeling errors. Such errors are traditionally eliminated by adding a simple integrator. However, a simple integrator for nonlinear systems usually spoils the structure of the modeling framework. For passive systems it has been shown that passivity loses its global character. Here, integral type controllers are presented for standard nonlinear mechanical systems, based on the port-Hamiltonian and power-based modeling frameworks. Experimental results are given for a planar manipulator system.
+Steady-state errors usually occur in the implementation of control algorithms on a system, caused by uncertainties and/or modeling errors. Such errors are traditionally eliminated by adding a simple integrator. However, a simple integrator for nonlinear systems usually spoils the structure of the modeling framework. For passive systems it has been shown that passivity loses its global character. Here, integral type controllers are presented for standard nonlinear mechanical systems, based on the port-Hamiltonian and power-based modeling frameworks. Experimental results are given for a planar manipulator system.
  
 ## Keywords
 Port-Hamiltonian systems; Brayton-Moser systems; nonlinear control; integral control; mechanical manipulators

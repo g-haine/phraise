@@ -11,7 +11,7 @@ category: articles
 [Thomas Voß](authors/thomas-voss)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** European Journal of Control

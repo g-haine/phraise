@@ -11,7 +11,7 @@ category: proceedings
 [Thomas O’Brien](authors/thomas-o-brien), [Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2025 European Control Conference (ECC)

@@ -11,7 +11,7 @@ category: articles
 [Tobias Holicki](authors/tobias-holicki), [Jonas Nicodemus](authors/jonas-nicodemus), [Paul Schwerdtner](authors/paul-schwerdtner), [Benjamin Unger](authors/benjamin-unger)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

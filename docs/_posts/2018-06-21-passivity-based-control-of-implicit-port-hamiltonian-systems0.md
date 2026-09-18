@@ -11,7 +11,7 @@ category: proceedings
 [Alessandro Macchelli](authors/alessandro-macchelli)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2013 European Control Conference (ECC)

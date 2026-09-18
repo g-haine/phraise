@@ -11,7 +11,7 @@ category: proceedings
 [Birgit Jacob](authors/birgit-jacob), [Nathanael Skrepek](authors/nathanael-skrepek)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** MATHMOD 2022 Discussion Contribution Volume

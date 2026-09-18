@@ -11,7 +11,7 @@ category: articles
 [Ahmad Taher Azar](authors/ahmad-taher-azar), [Fernando E. Serrano](authors/fernando-e-serrano), [Marco A. Flores](authors/marco-a-flores), [Sundarapandian Vaidyanathan](authors/sundarapandian-vaidyanathan), [Quanmin Zhu](authors/quanmin-zhu)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** International Journal of Computer Applications in Technology

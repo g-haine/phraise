@@ -11,7 +11,7 @@ category: articles
 [Gou NISHIDA](authors/gou-nishida), [Masaki YAMAKITA](authors/masaki-yamakita)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

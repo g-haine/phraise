@@ -11,7 +11,7 @@ category: proceedings
 [Samuel Widman](authors/samuel-widman), [Ian Willebeek-LeMair](authors/ian-j-willebeek-lemair), [Craig A. Woolsey](authors/craig-a-woolsey)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** AIAA SCITECH 2026 Forum

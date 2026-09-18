@@ -11,7 +11,7 @@ category: proceedings
 [Yongsheng Zhang](authors/yongsheng-zhang), [Haisheng Yu](authors/haisheng-yu), [Xiangxiang Meng](authors/xiangxiang-meng), [Qing Yang](authors/qing-yang)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2025 37th Chinese Control and Decision Conference (CCDC)

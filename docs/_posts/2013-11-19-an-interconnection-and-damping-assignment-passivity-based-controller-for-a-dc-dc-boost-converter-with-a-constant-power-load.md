@@ -11,7 +11,7 @@ category: articles
 [Jianwu Zeng](authors/jianwu-zeng), [Zhe Zhang](authors/zhe-zhang), [Wei Qiao](authors/wei-qiao)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** IEEE Transactions on Industry Applications

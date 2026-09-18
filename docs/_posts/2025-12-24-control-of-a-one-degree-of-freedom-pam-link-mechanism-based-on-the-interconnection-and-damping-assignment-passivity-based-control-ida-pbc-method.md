@@ -11,7 +11,7 @@ category: articles
 [Qianjun Sun](authors/qianjun-sun), [Hiroaki Tanaka](authors/hiroaki-tanaka), [Hayato Hirai](authors/hayato-hirai), [Junqi Wang](authors/junqi-wang), [Koh Hosoda](authors/koh-hosoda)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec)

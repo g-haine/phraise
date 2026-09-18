@@ -13,7 +13,7 @@ tags:
 [S. Torkel Glad](authors/s-torkel-glad)
  
 ## Abstract
-No  available
+
  
 ## Keywords
 bond graph, differential algebra, differential algebraic equation, modeling language, state space model

@@ -11,7 +11,7 @@ category: proceedings
 [Sheng Hao](authors/sheng-hao), [Yuh Yamashita](authors/yuh-yamashita)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2025 IEEE International Conference on Electrical Energy Conversion Systems and Control（IEECSC)

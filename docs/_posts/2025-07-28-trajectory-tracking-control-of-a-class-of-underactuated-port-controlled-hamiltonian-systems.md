@@ -11,7 +11,7 @@ category: articles
 [Fernanda Ramos-García](authors/fernanda-ramos-garcia), [Sofía Avila-Becerril](authors/sofia-avila-becerril), [Gerardo Espinosa-Pérez](authors/gerardo-espinosa-perez)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** International Journal of Control

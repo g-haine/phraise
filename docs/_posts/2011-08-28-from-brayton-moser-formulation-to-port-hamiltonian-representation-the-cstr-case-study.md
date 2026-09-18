@@ -17,7 +17,7 @@ tags:
 [H. Hoang](authors/h-hoang), [F. Couenne](authors/francoise-couenne), [D. Dochain](authors/denis-dochain), [Y. Le Gorrec](authors/yann-le-gorrec)
  
 ## Abstract
- This paper shows that any thermodynamic potential fulfilling some thermodynamic stability criterion (e.g. the chemical affinity or the ectropy) can be used as a potential function for the dissipative (pseudo) Port Hamiltonian formulation of the non isothermal Continuous Stirred Tank Reactor (CSTR) model. Besides Brayton-Moser formulation is used to obtain some dissipative Port Hamiltonian representation.
+This paper shows that any thermodynamic potential fulfilling some thermodynamic stability criterion (e.g. the chemical affinity or the ectropy) can be used as a potential function for the dissipative (pseudo) Port Hamiltonian formulation of the non isothermal Continuous Stirred Tank Reactor (CSTR) model. Besides Brayton-Moser formulation is used to obtain some dissipative Port Hamiltonian representation.
  
 ## Keywords
 Irreversible thermodynamics; CSTR; Port Hamiltonian systems; Brayton-Moser formulation; Passivity

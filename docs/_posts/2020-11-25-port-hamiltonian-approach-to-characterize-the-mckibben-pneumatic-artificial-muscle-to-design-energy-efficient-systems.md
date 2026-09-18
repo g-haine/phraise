@@ -11,7 +11,7 @@ category: articles
 [Hayato INOUE](authors/hayato-inoue), [Derek Chun](authors/derek-chun), [Koh HOSODA](authors/koh-hosoda)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec)

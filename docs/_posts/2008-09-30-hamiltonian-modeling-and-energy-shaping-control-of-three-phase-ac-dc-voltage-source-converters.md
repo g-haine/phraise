@@ -11,7 +11,7 @@ category: proceedings
 [Yuliang Tang](authors/yuliang-tang), [Haisheng Yu](authors/haisheng-yu), [Zongwei Zou](authors/zongwei-zou)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** 2008 IEEE International Conference on Automation and Logistics

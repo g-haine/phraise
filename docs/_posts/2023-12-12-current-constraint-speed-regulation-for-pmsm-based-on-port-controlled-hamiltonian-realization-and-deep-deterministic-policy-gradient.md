@@ -11,7 +11,7 @@ category: articles
 [Min Wang](authors/min-wang), [Yanhong Liu](authors/yanhong-liu), [Qi Wang](authors/qi-wang), [Patrick Wheeler](authors/patrick-wheeler)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** IEICE Electronics Express

@@ -11,7 +11,7 @@ category: proceedings
 [Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)

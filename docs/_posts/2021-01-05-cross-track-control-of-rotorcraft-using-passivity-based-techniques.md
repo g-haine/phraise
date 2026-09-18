@@ -11,7 +11,7 @@ category: proceedings
 [Jean-Michel W. Fahmi](authors/jean-michel-w-fahmi), [Craig A. Woolsey](authors/craig-a-woolsey)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** AIAA Scitech 2021 Forum

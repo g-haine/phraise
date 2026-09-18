@@ -11,7 +11,7 @@ category: proceedings
 [T. Rittenschober](authors/thomas-rittenschober), [K. Schlacher](authors/kurt-schlacher)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Civil-Comp Proceedings

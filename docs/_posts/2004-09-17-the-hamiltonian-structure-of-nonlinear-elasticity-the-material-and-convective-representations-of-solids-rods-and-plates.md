@@ -17,7 +17,7 @@ tags:
 [Juan C. Simo](authors/juan-c-simo), [Jerrold E. Marsden](authors/jerrold-e-marsden), [P. S. Krishnaprasad](authors/p-s-krishnaprasad)
  
 ## Abstract
-No  available
+
  
 ## Keywords
 Neural Network; Complex System; Nonlinear Dynamics; Electromagnetism; Nonlinear Elasticity

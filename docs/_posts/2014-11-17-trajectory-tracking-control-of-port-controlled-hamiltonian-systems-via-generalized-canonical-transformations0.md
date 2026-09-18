@@ -11,7 +11,7 @@ category: articles
 [Kenji FUJIMOTO](authors/kenji-fujimoto), [Kazunori SAKURAMA](authors/kazunori-sakurama), [Toshiharu SUGIE](authors/toshiharu-sugie)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers
