@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
   group: update-arxiv-cache
@@ -24,31 +25,47 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Check out repository
+      - name: Check out main
         uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install BibReview
-        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@48bcfbaea7a2cb62abbc3fc3d897ca6b186f1a21"
+      - name: Install BibReview v1.0.0
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.0.0"
 
       - name: Refresh arXiv cache
         run: bibreview --config bibreview.yml arxiv
 
-      - name: Commit cache if changed
+      - name: Open or update arXiv cache pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          if [ -z "$(git status --porcelain -- docs/data/arxiv.json)" ]; then
+          if git diff --quiet -- docs/data/arxiv.json; then
             echo "No arXiv cache changes."
             exit 0
           fi
 
+          branch="automation/update-arxiv"
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -C "$branch"
           git add docs/data/arxiv.json
           git commit -m "Update arXiv cache"
-          git push
+          git push --force origin "HEAD:refs/heads/$branch"
+
+          if [ "$(gh pr list --base main --head "$branch" --state open --json number --jq 'length')" -eq 0 ]; then
+            gh pr create \
+              --base main \
+              --head "$branch" \
+              --title "Update arXiv cache" \
+              --body "Automated BibReview arXiv cache refresh. Merge only after the PHRAISE integration checks and diff have been reviewed."
+          else
+            echo "Existing arXiv cache pull request updated."
+          fi
