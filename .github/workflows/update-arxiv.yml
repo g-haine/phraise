@@ -40,10 +40,22 @@ jobs:
       - name: Install BibReview v1.0.0
         run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.0.0"
 
+      - name: Validate PHRAISE configuration
+        run: bibreview --config bibreview.yml validate
+
       - name: Refresh arXiv cache
+        id: refresh
+        continue-on-error: true
         run: bibreview --config bibreview.yml arxiv
 
+      - name: Report unavailable arXiv provider
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo "::warning::arXiv refresh failed; keeping the existing cache unchanged."
+          echo "No pull request will be created for this run."
+
       - name: Prepare automated pull request
+        if: steps.refresh.outcome == 'success'
         id: prepare
         env:
           GH_TOKEN: ${{ github.token }}
@@ -92,7 +104,7 @@ jobs:
           echo "number=$number" >> "$GITHUB_OUTPUT"
 
       - name: Validate cache-only diff
-        if: steps.prepare.outputs.changed == 'true'
+        if: steps.refresh.outcome == 'success' && steps.prepare.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ steps.prepare.outputs.number }}
@@ -107,14 +119,14 @@ jobs:
           fi
 
       - name: Dispatch PHRAISE integration validation
-        if: steps.prepare.outputs.changed == 'true'
+        if: steps.refresh.outcome == 'success' && steps.prepare.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           BRANCH: ${{ steps.prepare.outputs.branch }}
         run: gh workflow run bibreview-integration.yml --ref "$BRANCH"
 
       - name: Wait for PHRAISE integration validation
-        if: steps.prepare.outputs.changed == 'true'
+        if: steps.refresh.outcome == 'success' && steps.prepare.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           BRANCH: ${{ steps.prepare.outputs.branch }}
@@ -144,7 +156,7 @@ jobs:
           gh run watch "$run_id" --exit-status
 
       - name: Merge validated arXiv pull request
-        if: steps.prepare.outputs.changed == 'true'
+        if: steps.refresh.outcome == 'success' && steps.prepare.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ steps.prepare.outputs.number }}
@@ -154,7 +166,7 @@ jobs:
             --delete-branch
 
       - name: Deploy updated site
-        if: steps.prepare.outputs.changed == 'true'
+        if: steps.refresh.outcome == 'success' && steps.prepare.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run pages.yml --ref main
