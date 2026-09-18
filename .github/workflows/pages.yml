@@ -18,8 +18,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      BUNDLE_GEMFILE: docs/Gemfile
 
     steps:
       - name: Check out PHRAISE
@@ -52,7 +50,8 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build Jekyll
-        run: bundle exec jekyll build --source docs --destination docs/_site
+        working-directory: docs
+        run: bundle exec jekyll build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
