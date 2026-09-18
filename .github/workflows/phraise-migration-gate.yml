@@ -1,0 +1,61 @@
+name: PHRAISE migration gate
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out proposed PHRAISE state
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install BibReview v1.0.0
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.0.0"
+
+      - name: Confirm BibReview version
+        run: test "$(bibreview --version)" = "bibreview 1.0.0"
+
+      - name: Validate BibReview configuration
+        run: bibreview --config bibreview.yml validate
+
+      - name: Validate canonical merge state
+        run: bibreview --config bibreview.yml --dry-run merge
+
+      - name: Validate author mappings
+        run: bibreview --config bibreview.yml authors
+
+      - name: Render through BibReview
+        run: bibreview --config bibreview.yml render
+
+      - name: Confirm deterministic rendered state
+        run: |
+          git diff --exit-code
+          git diff --cached --exit-code
+
+      - name: Check search JavaScript syntax
+        run: |
+          node --check docs/assets/js/search.js
+          node --check docs/assets/js/search-worker.js
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
+          working-directory: docs
+
+      - name: Build PHRAISE
+        working-directory: docs
+        run: bundle exec jekyll build
