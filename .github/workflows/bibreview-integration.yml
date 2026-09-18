@@ -6,10 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  migration-validation:
+  integration:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out PHRAISE migration branch
+      - name: Check out PHRAISE
         uses: actions/checkout@v4
 
       - name: Check out BibReview
@@ -24,68 +24,28 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install migration test dependencies
-        run: python -m pip install -e .bibreview-src 'python-dotenv>=1,<2'
+      - name: Install BibReview
+        run: python -m pip install -e .bibreview-src
 
-      - name: Run PHRAISE maintenance unit tests
-        run: python -m unittest discover -s docs/tests -v
+      - name: Validate PHRAISE BibReview configuration
+        run: bibreview --config bibreview.yml validate
 
-      - name: Validate canonical PHRAISE state cutover
-        run: python .github/scripts/validate_bibreview_cutover.py
-
-      - name: Check deterministic legacy projection
-        run: python docs/projectLegacyBibliography.py --check
-
-      - name: Validate BibReview merge CLI on authoritative state
+      - name: Validate canonical merge state
         run: bibreview --config bibreview.yml --dry-run merge
 
-      - name: Compare PHRAISE and BibReview discovery/relevance paths
-        run: python .github/scripts/compare_bibreview_discovery.py
-
-      - name: Compare PHRAISE and BibReview refresh/recollect paths
-        run: python .github/scripts/compare_bibreview_refresh.py
-
-      - name: Validate PHRAISE canonical discovery/refresh cutover
-        run: python .github/scripts/validate_phraise_canonical_update.py
-
-      - name: Compare historical and BibReview collection paths
-        run: python .github/scripts/compare_bibreview_collect.py
-
-      - name: Exercise BibReview project collection on PHRAISE mirror
-        run: python .github/scripts/compare_bibreview_project_collect.py
-
-      - name: Validate PHRAISE canonical collection cutover
-        run: python .github/scripts/validate_phraise_canonical_collection.py
-
-      - name: Compare PHRAISE concatenate with BibReview merge/storage
-        run: python .github/scripts/compare_bibreview_merge.py
-
-      - name: Validate canonical author-data cutover
-        run: python .github/scripts/cutover_bibreview_author_data.py
-
-      - name: Validate BibReview author CLI on authoritative state
+      - name: Validate canonical author mappings
         run: bibreview --config bibreview.yml authors
 
-      - name: Validate BibReview render CLI on authoritative site
-        run: bibreview --config bibreview.yml --dry-run render
+      - name: Render PHRAISE through BibReview
+        run: bibreview --config bibreview.yml render
 
-      - name: Validate renderer-independent BibReview site model
-        run: python .github/scripts/compare_bibreview_site_model.py
+      - name: Confirm BibReview render is a tracked-tree no-op
+        run: test -z "$(git status --porcelain)"
 
-      - name: Compare legacy and BibReview Jekyll index rendering
-        run: python .github/scripts/compare_bibreview_index_render.py
-
-      - name: Compare legacy and BibReview Jekyll publication rendering
-        run: python .github/scripts/compare_bibreview_publication_render.py
-
-      - name: Validate BibReview rendered-artifact persistence
-        run: python .github/scripts/validate_bibreview_site_persistence.py
-
-      - name: Validate PHRAISE writer cutover
-        run: python .github/scripts/validate_bibreview_writer_cutover.py
-
-      - name: Validate legacy author-page bridge
-        run: python docs/setPages.py --dry-run
+      - name: Check search JavaScript syntax
+        run: |
+          node --check docs/assets/js/search.js
+          node --check docs/assets/js/search-worker.js
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
@@ -98,5 +58,5 @@ jobs:
           bundle install
           bundle exec jekyll build
 
-      - name: Confirm tracked migration state is unchanged
-        run: git diff --exit-code
+      - name: Confirm tracked project state is unchanged
+        run: test -z "$(git status --porcelain)"
