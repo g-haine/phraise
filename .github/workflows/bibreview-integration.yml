@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: g-haine/bibreview
-          ref: 1a21e6366a619bf9302cf758ba391570a74666d0
+          ref: 7d2ea4e323278b3d348b34936dd2a9eb4ae8bcbd
           path: .bibreview-src
 
       - name: Set up Python
