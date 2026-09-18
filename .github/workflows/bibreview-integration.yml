@@ -27,6 +27,9 @@ jobs:
       - name: Install migration test dependencies
         run: python -m pip install -e .bibreview-src 'python-dotenv>=1,<2'
 
+      - name: Run PHRAISE maintenance unit tests
+        run: python -m unittest discover -s docs/tests -v
+
       - name: Validate canonical PHRAISE state cutover
         run: python .github/scripts/validate_bibreview_cutover.py
 
@@ -68,6 +71,9 @@ jobs:
 
       - name: Validate BibReview rendered-artifact persistence
         run: python .github/scripts/validate_bibreview_site_persistence.py
+
+      - name: Validate PHRAISE writer cutover
+        run: python .github/scripts/validate_bibreview_writer_cutover.py
 
       - name: Validate legacy author-page bridge
         run: python docs/setPages.py --dry-run

@@ -11,6 +11,8 @@ from unidecode import unidecode
 from .common import (author_names, backup_path, bibliography, json_bytes, mappings,
                      mathjaxify, read_lines, record_date, Reporter, safe_component,
                      slugify, summary, text, write_batch)
+from .site import (apply_artifact_plan, plan_artifacts, render_index_artifacts,
+                   render_publication_artifacts)
 
 
 def _name_signature(name):
@@ -179,14 +181,15 @@ def render_post(record, reverse, known, permalinks, bibtex):
 
 
 def generate_posts(root: Path, client, reporter=None, dry_run=False):
+    """Generate publication posts with BibReview while retaining PHRAISE side effects."""
     reporter = reporter or Reporter(-1)
     records = bibliography(root)
-    _, reverse = mappings(root)
+    mapping, reverse = mappings(root)
     validate_authors(records, reverse)
-    known = set(read_lines(root / 'DOI.txt'))
-    permalinks = {r['doi']: r.get('permalink', '') for r in records}
+
     outputs = {}
     valid = set()
+    bibtex_by_permalink = {}
     reporter.step(f'Preparing {len(records)} publication post(s)')
     for index, record in enumerate(records, 1):
         slug = safe_component(record.get('permalink'))
@@ -196,10 +199,21 @@ def generate_posts(root: Path, client, reporter=None, dry_run=False):
         bib = root / f'assets/bib/{slug}.bib'
         reporter.detail(f'[{index}/{len(records)}] _posts/{record_date(record)}-{slug}.md')
         bibtex = bib.read_text(encoding='utf-8') if bib.exists() else client.bibtex(record['doi'])
-        name, content = render_post(record, reverse, known, permalinks, bibtex)
-        outputs[root / '_posts' / name] = content.encode('utf-8')
+        bibtex_by_permalink[slug] = bibtex
         if not bib.exists():
             outputs[bib] = bibtex.encode('utf-8')
+
+    artifacts = render_publication_artifacts(
+        records,
+        mapping,
+        bibtex_by_permalink,
+    )
+    post_plan = plan_artifacts(
+        root,
+        artifacts,
+        managed_roots=('_posts',),
+    )
+
     orphan_bibs = [p for p in (root / 'assets/bib').rglob('*.bib') if p.stem not in valid]
     for bib in orphan_bibs:
         target = root / 'trash' / bib.name
@@ -209,17 +223,22 @@ def generate_posts(root: Path, client, reporter=None, dry_run=False):
                 target = target.with_stem(target.stem + '0')
         outputs[target] = bib.read_bytes()
     outputs[root / '_data/library.yml'] = f'last_update: "{date.today().isoformat()}"\n'.encode()
-    obsolete = [p for p in (root / '_posts').glob('*.md') if p not in outputs]
-    if dry_run:
-        reporter.step(f'Would write posts, remove {len(obsolete)} obsolete post(s) and archive {len(orphan_bibs)} orphan BibTeX file(s)')
-    else:
-        reporter.step(f'Writing posts; removing {len(obsolete)} obsolete post(s) and archiving {len(orphan_bibs)} orphan BibTeX file(s)')
+
+    action = 'Would reconcile' if dry_run else 'Reconciling'
+    reporter.step(
+        f'{action} posts with BibReview: {len(post_plan.writes)} write(s), '
+        f'{len(post_plan.deletes)} obsolete post(s); '
+        f'archive {len(orphan_bibs)} orphan BibTeX file(s)'
+    )
     if not dry_run:
         write_batch(outputs)
-        for path in obsolete + orphan_bibs:
+        apply_artifact_plan(post_plan)
+        for path in orphan_bibs:
             path.unlink()
-    return summary(f'Generated {len(records)} posts; archived {len(orphan_bibs)} orphan BibTeX files.', dry_run)
-
+    return summary(
+        f'Generated {len(records)} posts; archived {len(orphan_bibs)} orphan BibTeX files.',
+        dry_run,
+    )
 
 def page_header(title, permalink):
     return f'---\ntitle: {yaml_scalar(title)}\npermalink: {permalink}\n---\n\n'
@@ -232,7 +251,7 @@ def publication_list(items):
     return result + '\n\n</ul>\n{% include count-posts.html %}\n'
 
 
-def generate_pages(root: Path, reporter=None, dry_run=False):
+def generate_pages_legacy(root: Path, reporter=None, dry_run=False):
     reporter = reporter or Reporter(-1)
     records = bibliography(root)
     mapping, reverse = mappings(root)
@@ -293,3 +312,41 @@ def generate_pages(root: Path, reporter=None, dry_run=False):
         for path in obsolete:
             path.unlink()
     return summary(f'Generated pages for {len(authors)} authors and {len(years)} years.', dry_run)
+
+def generate_pages(root: Path, reporter=None, dry_run=False):
+    """Generate author/year pages through BibReview's renderer and persistence layer."""
+    reporter = reporter or Reporter(-1)
+    records = bibliography(root)
+    mapping, reverse = mappings(root)
+    validate_authors(records, reverse)
+
+    reporter.step(f'Indexing authors and years from {len(records)} publication(s)')
+    artifacts = render_index_artifacts(records, mapping)
+    plan = plan_artifacts(
+        root,
+        artifacts,
+        managed_roots=('authors', 'years'),
+    )
+
+    author_count = sum(
+        1 for artifact in artifacts
+        if artifact.path.startswith('authors/') and artifact.path != 'authors/index.md'
+    )
+    year_count = sum(
+        1 for artifact in artifacts
+        if artifact.path.startswith('years/') and artifact.path != 'years/index.md'
+    )
+    for artifact in artifacts:
+        reporter.detail(f'{artifact.path}: generated')
+
+    reporter.step(
+        f'{"Would reconcile" if dry_run else "Reconciling"} pages with BibReview: '
+        f'{len(plan.writes)} write(s), {len(plan.deletes)} obsolete file(s)'
+    )
+    if not dry_run:
+        apply_artifact_plan(plan)
+    return summary(
+        f'Generated pages for {author_count} authors and {year_count} years.',
+        dry_run,
+    )
+

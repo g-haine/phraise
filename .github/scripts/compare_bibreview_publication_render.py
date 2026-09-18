@@ -12,7 +12,6 @@ sys.path.insert(0, str(DOCS))
 
 from bibreview.config import load_config  # noqa: E402
 from bibreview.site import (  # noqa: E402
-    JekyllPublicationRenderOptions,
     build_site_model,
     render_jekyll_publication_posts,
 )
@@ -21,24 +20,7 @@ from phraise_tools.common import bibliography, mappings, read_lines  # noqa: E40
 from phraise_tools.generate import render_post  # noqa: E402
 
 
-PHRAISE_PUBLICATION_OPTIONS = JekyllPublicationRenderOptions(
-    category_by_type={
-        "journal-article": "articles",
-        "proceedings-article": "proceedings",
-        "book-chapter": "chapters",
-        "book": "books",
-        "monograph": "books",
-    },
-    event_category_rules=(
-        (
-            r"Conference|Workshop|Symposium|Congress|Proceeding|Consortium",
-            "proceedings",
-        ),
-    ),
-    # Legacy render_post() used re.search("book|monograph", type), which also
-    # classified book-chapter citations through the ISBN branch.
-    isbn_types=("book", "book-chapter", "monograph"),
-)
+from phraise_tools.site import PHRAISE_PUBLICATION_OPTIONS  # noqa: E402
 
 
 def main() -> None:
