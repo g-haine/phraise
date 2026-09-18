@@ -1,0 +1,69 @@
+name: Auto-merge arXiv cache
+
+on:
+  workflow_run:
+    workflows:
+      - BibReview integration
+    types:
+      - completed
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge:
+    if: >
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.head_branch == 'automation/update-arxiv'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Find automated arXiv pull request
+        id: pr
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number="$(gh pr list \
+            --repo "${{ github.repository }}" \
+            --base main \
+            --head automation/update-arxiv \
+            --state open \
+            --json number \
+            --jq '.[0].number // empty')"
+
+          if [ -z "$number" ]; then
+            echo "No open automated arXiv pull request."
+            echo "number=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+
+      - name: Verify cache-only diff
+        if: steps.pr.outputs.number != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
+        run: |
+          files="$(gh pr view "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --json files \
+            --jq '.files[].path')"
+
+          if [ "$files" != "docs/data/arxiv.json" ]; then
+            printf 'Automated arXiv PR modifies unexpected files:\n%s\n' "$files" >&2
+            exit 1
+          fi
+
+      - name: Merge validated arXiv cache PR
+        if: steps.pr.outputs.number != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
+        run: |
+          gh pr merge "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --squash \
+            --delete-branch
