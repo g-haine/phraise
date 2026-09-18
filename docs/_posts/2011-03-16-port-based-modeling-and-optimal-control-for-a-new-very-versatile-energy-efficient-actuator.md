@@ -11,7 +11,7 @@ category: proceedings
 [Oscar Gerelli](authors/oscar-gerelli), [Raffaella Carloni](authors/raffaella-carloni), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
- In this paper, we analyze in depth the innovative very versatile and energy efficient (V2E2) actuator proposed in Stramigioli et al. (2008). The V2E2 actuator is intended to be used in all kind of robotics and powered prosthetic applications in which energy consumption is a critical issue. In particular, this work focuses on the development of a port-based Hamiltonian model of the V2E2 and presents an optimal control architecture which exploits the intrinsic hybrid characteristics of the actuator design. The optimal control guarantees the minimization of dissipative power losses during torque tracking transients.
+In this paper, we analyze in depth the innovative very versatile and energy efficient (V2E2) actuator proposed in Stramigioli et al. (2008). The V2E2 actuator is intended to be used in all kind of robotics and powered prosthetic applications in which energy consumption is a critical issue. In particular, this work focuses on the development of a port-based Hamiltonian model of the V2E2 and presents an optimal control architecture which exploits the intrinsic hybrid characteristics of the actuator design. The optimal control guarantees the minimization of dissipative power losses during torque tracking transients.
  
 ## Citation
 - **Journal:** IFAC Proceedings Volumes

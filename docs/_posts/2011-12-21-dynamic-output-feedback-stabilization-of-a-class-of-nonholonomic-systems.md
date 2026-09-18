@@ -11,7 +11,7 @@ category: articles
 [Satoru SAKAI](authors/satoru-sakai), [Kenji FUJIMOTO](authors/kenji-fujimoto)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Transactions of the Institute of Systems, Control and Information Engineers

@@ -11,7 +11,7 @@ category: books
 [Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-j-zwart)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **ISBN:** 9783034803984

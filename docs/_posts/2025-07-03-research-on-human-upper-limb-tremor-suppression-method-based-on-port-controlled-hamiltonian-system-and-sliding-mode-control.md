@@ -11,7 +11,7 @@ category: proceedings
 [Jingjing Li](authors/jingjing-li), [Zhen Chen](authors/zhen-chen), [Jian Li](authors/jian-li), [Hongyu Yan](authors/hongyu-yan), [Minshan Feng](authors/minshan-feng), [Jiawen Zhan](authors/jiawen-zhan)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2025 Joint International Conference on Automation-Intelligence-Safety (ICAIS) &amp;amp; International Symposium on Autonomous Systems (ISAS)

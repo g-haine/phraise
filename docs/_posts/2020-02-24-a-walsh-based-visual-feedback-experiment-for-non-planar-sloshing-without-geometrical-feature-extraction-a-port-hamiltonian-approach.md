@@ -11,7 +11,7 @@ category: articles
 [Yuki USHIRO](authors/yuki-ushiro), [Satoru SAKAI](authors/satoru-sakai)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** The Proceedings of the Dynamics &amp; Design Conference

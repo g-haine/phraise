@@ -11,7 +11,7 @@ category: proceedings
 [B. Tran](authors/b-tran), [B. Southworth](authors/b-southworth), [J. Burby](authors/j-burby), [M. Leok](authors/melvin-leok)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics

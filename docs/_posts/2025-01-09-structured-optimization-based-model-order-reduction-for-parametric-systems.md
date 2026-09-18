@@ -11,7 +11,7 @@ category: articles
 [Paul Schwerdtner](authors/paul-schwerdtner), [Manuel Schaller](authors/manuel-schaller)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

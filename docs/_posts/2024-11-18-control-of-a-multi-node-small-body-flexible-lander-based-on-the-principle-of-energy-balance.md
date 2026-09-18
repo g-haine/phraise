@@ -11,7 +11,7 @@ category: articles
 [CHAI JingXuan](authors/jingxuan-chai), [MEI Jie](authors/jie-mei), [GONG YouMin](authors/youmin-gong), [GUO XuFa](authors/xufa-guo), [MA GuangFu](authors/ma-guangfu), [WU WeiRen](authors/weiren-wu)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** SCIENTIA SINICA Physica, Mechanica &amp; Astronomica

@@ -11,7 +11,7 @@ category: proceedings
 [F. E. Serrano](authors/fernando-e-serrano), [V. Puig](authors/vicenc-puig), [J. Munoz-Pacheco](authors/j-munoz-pacheco)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2025 International Conference on Control, Automation and Diagnosis (ICCAD)

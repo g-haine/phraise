@@ -11,7 +11,7 @@ category: articles
 [Cecilia Cornejo](authors/cecilia-cornejo), [Luis Alvarez-Icaza](authors/luis-alvarez-icaza)
  
 ## Abstract
- Passivity-based control of under-actuated mechanical systems with nonlinear friction effects in the generalized coordinates of motion is analyzed in this paper. Nonlinear friction is modeled with a modified LuGre dynamic friction model. The internal states of the dynamic friction model are incorporated as generalized coordinates in a port-controlled Hamiltonian formulation for the complete mechanical system in such a way that all passivity properties of this formulation are preserved for the extended generalized coordinates system. Interconnection and damping assignment passivity-based control laws are developed for the models of two case studies: a building with a magneto-rheological damper and a double pendulum. Simulation results are also presented. 
+Passivity-based control of under-actuated mechanical systems with nonlinear friction effects in the generalized coordinates of motion is analyzed in this paper. Nonlinear friction is modeled with a modified LuGre dynamic friction model. The internal states of the dynamic friction model are incorporated as generalized coordinates in a port-controlled Hamiltonian formulation for the complete mechanical system in such a way that all passivity properties of this formulation are preserved for the extended generalized coordinates system. Interconnection and damping assignment passivity-based control laws are developed for the models of two case studies: a building with a magneto-rheological damper and a double pendulum. Simulation results are also presented.
  
 ## Citation
 - **Journal:** Journal of Vibration and Control

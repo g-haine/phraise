@@ -11,7 +11,7 @@ category: articles
 [Björn Liljegren-Sailer](authors/bjorn-liljegren-sailer), [Nicole Marheineke](authors/nicole-marheineke)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

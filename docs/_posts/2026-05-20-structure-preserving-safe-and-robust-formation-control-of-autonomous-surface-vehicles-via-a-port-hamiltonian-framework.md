@@ -11,7 +11,7 @@ category: articles
 [Zehua Jia](authors/zehua-jia), [Kun Xie](authors/kun-xie), [Xiaoshan Bai](authors/xiaoshan-bai), [Shan Xue](authors/shan-xue), [Weidong Zhang](authors/weidong-zhang)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** IEEE Transactions on Industrial Informatics

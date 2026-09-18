@@ -11,7 +11,7 @@ category: proceedings
 [Wenhao Ding](authors/wenhao-ding), [Shengzhe Fan](authors/shengzhe-fan), [Wenbo Zhang](authors/wenbo-zhang)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** International Conference on Computer Vision, Algorithms, and Communication (CVAC 2026)

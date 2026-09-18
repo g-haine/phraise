@@ -11,7 +11,7 @@ category: proceedings
 [Kaiyuan Tan](authors/kaiyuan-tan), [Peilun Li](authors/peilun-li), [Jun Wang](authors/jun-wang), [Thomas Beckers](authors/thomas-beckers)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2025 IEEE International Conference on Robotics and Automation (ICRA)

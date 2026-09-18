@@ -11,7 +11,7 @@ category: articles
 [Volker Mehrmann](authors/volker-mehrmann), [Hongguo Xu](authors/hongguo-xu)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** SIAM Journal on Matrix Analysis and Applications

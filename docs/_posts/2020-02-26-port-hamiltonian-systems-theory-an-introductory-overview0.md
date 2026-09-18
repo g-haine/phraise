@@ -11,7 +11,7 @@ category: books
 [Arjan van der Schaft](authors/arjan-j-van-der-schaft), [Dimitri Jeltsema](authors/dimitri-jeltsema)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **ISBN:** 9781601987877

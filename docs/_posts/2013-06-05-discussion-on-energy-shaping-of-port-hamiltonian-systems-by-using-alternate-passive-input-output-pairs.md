@@ -11,7 +11,7 @@ category: articles
 [Fernando Castaños](authors/fernando-castanos)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** European Journal of Control

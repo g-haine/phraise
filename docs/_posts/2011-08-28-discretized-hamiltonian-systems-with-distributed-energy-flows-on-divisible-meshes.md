@@ -13,7 +13,7 @@ tags:
 [Gou Nishida](authors/gou-nishida), [Bernhard Maschke](authors/bernhard-maschke), [Ryojun Ikeura](authors/ryojun-ikeura)
  
 ## Abstract
- This paper discusses two extensions of the discretization of distributed port-Hamiltonian systems. One of them is the incorporating non-boundary integrable energy flows, called distributed energy structures. The other is the derivation of transformations of basis forms used for dividing and assembling of meshes.
+This paper discusses two extensions of the discretization of distributed port-Hamiltonian systems. One of them is the incorporating non-boundary integrable energy flows, called distributed energy structures. The other is the derivation of transformations of basis forms used for dividing and assembling of meshes.
  
 ## Keywords
 algebraic/geometric methods, discretization, hamiltonian systems

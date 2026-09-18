@@ -11,7 +11,7 @@ category: articles
 [Masahide ITO](authors/masahide-ito), [Naohiro TODA](authors/naohiro-toda)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

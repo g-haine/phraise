@@ -11,7 +11,7 @@ category: proceedings
 [Audrey Favache](authors/audrey-favache), [Denis Dochain](authors/denis-dochain), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference

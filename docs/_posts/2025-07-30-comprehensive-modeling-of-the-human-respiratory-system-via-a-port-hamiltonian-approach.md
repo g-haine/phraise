@@ -11,7 +11,7 @@ category: proceedings
 [Milka C. I. Madahana](authors/milka-c-i-madahana), [John E. D. Ekoru](authors/john-e-d-ekoru), [Otis T. C. Nyandoro](authors/otis-t-c-nyandoro)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2024 IEEE 15th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)

@@ -11,7 +11,7 @@ category: articles
 [Thomas Hélie](authors/thomas-helie), [Maarten Van Walstijn](authors/maarten-van-walstijn), [Michele Ducceschi](authors/michele-ducceschi)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** Frontiers in Signal Processing

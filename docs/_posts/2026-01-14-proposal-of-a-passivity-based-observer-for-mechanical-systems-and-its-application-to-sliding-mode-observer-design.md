@@ -11,7 +11,7 @@ category: articles
 [Fumiya Aono](authors/fumiya-aono), [Naoki Sakata](authors/naoki-sakata), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** Transactions of the Institute of Systems, Control and Information Engineers

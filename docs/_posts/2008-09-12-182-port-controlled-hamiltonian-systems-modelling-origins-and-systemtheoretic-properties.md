@@ -11,7 +11,7 @@ category: articles
 
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Control Engineering Practice

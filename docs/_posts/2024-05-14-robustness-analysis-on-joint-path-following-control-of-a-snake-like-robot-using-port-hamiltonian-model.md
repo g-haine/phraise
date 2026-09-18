@@ -11,7 +11,7 @@ category: articles
 [Atsuhiro Kondo](authors/atsuhiro-kondo), [Ryo Ariizumi](authors/ryo-ariizumi), [Toru Asai](authors/toru-asai), [Shun-ichi Azuma](authors/shun-ichi-azuma)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Transactions of the Institute of Systems, Control and Information Engineers

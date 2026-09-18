@@ -11,7 +11,7 @@ category: articles
 [Julia Ackermann](authors/julia-ackermann), [Thomas Kruse](authors/thomas-kruse), [Stefan Tappe](authors/stefan-tappe)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** Mathematics of Control, Signals, and Systems

@@ -11,7 +11,7 @@ category: proceedings
 [Yann Le Gorrec](authors/yann-le-gorrec), [Luis A. Mora](authors/luis-a-mora), [Hector Ramirez](authors/hector-ramirez)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** MATHMOD 2022 Discussion Contribution Volume

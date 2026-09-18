@@ -11,7 +11,7 @@ category: proceedings
 [Weiwei Sun](authors/weiwei-sun), [Zongli Lin](authors/zongli-lin), [Yuzhen Wang](authors/yuzhen-wang)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2009 American Control Conference

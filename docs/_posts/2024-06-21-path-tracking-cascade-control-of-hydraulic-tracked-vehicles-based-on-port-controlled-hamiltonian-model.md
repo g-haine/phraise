@@ -11,7 +11,7 @@ category: articles
 [Junjie Gong](authors/junjie-gong), [Shengjie Guo](authors/shengjie-guo), [Haotian Shen](authors/haotian-shen), [Wei Wei](authors/wei-wei), [Yu Long](authors/yu-long)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** IEEE Transactions on Intelligent Vehicles

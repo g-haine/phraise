@@ -11,7 +11,7 @@ category: articles
 [Francesco Cordoni](authors/francesco-giuseppe-cordoni), [Luca Di Persio](authors/luca-di-persio), [Riccardo Muradore](authors/riccardo-muradore)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

@@ -11,7 +11,7 @@ category: articles
 [Jingyi Zhao](authors/jingyi-zhao), [Yongxin Wu](authors/yongxin-wu), [Zhenhua Zhang](authors/zhenhua-zhang), [Yuhu Wu](authors/yuhu-wu)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** The International Journal of Intelligent Control and Systems

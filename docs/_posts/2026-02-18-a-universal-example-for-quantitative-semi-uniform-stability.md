@@ -11,7 +11,7 @@ category: articles
 [Sahiba Arora](authors/sahiba-arora), [Felix L. Schwenninger](authors/felix-l-schwenninger), [Ingrid Vukusic](authors/ingrid-vukusic), [Marcus Waurick](authors/marcus-waurick)
  
 ## Abstract
-                  We characterise quantitative semi‐uniform stability for ‐semigroups arising from port‐Hamiltonian systems, complementing recent works on exponential and strong stability. With the result, we present a simple universal example class of port‐Hamiltonian ‐semigroups exhibiting arbitrary decay rates slower than . The latter is based on results from the theory of Diophantine approximation as the decay rates will be strongly related to approximation properties of irrational numbers by rationals given through cut‐offs of continued fraction expansions.
+We characterise quantitative semi‐uniform stability for ‐semigroups arising from port‐Hamiltonian systems, complementing recent works on exponential and strong stability. With the result, we present a simple universal example class of port‐Hamiltonian ‐semigroups exhibiting arbitrary decay rates slower than . The latter is based on results from the theory of Diophantine approximation as the decay rates will be strongly related to approximation properties of irrational numbers by rationals given through cut‐offs of continued fraction expansions.
  
 ## Citation
 - **Journal:** Journal of the London Mathematical Society
@@ -47,8 +47,8 @@ category: articles
 - Baker A (1984) A Concise Introduction to the Theory of Number -- [10.1017/cbo9781139171601](https://doi.org/10.1017/cbo9781139171601)
 - Bastin G., Prog. Nonlinear Differ. Equ. Appl (2016)
 - Batty CJK, Chill R, Tomilov Y (2016) Fine scales of decay of operator semigroups. J Eur Math Soc 18(4):853–929. https://doi.org/10.4171/jems/60 -- [10.4171/jems/605](https://doi.org/10.4171/jems/605)
-- {"status":"error" -- [10.1007/s00028‐008‐0424‐1](https://doi.org/10.1007/s00028‐008‐0424‐1)
-- {"status":"error" -- [10.1007/s00208‐009‐0439‐0](https://doi.org/10.1007/s00208‐009‐0439‐0)
+- {"status":"error" -- [10.1007/s00028-008-0424-1](https://doi.org/10.1007/s00028-008-0424-1)
+- {"status":"error" -- [10.1007/s00208-009-0439-0](https://doi.org/10.1007/s00208-009-0439-0)
 - Bugeaud Y (2012) Distribution Modulo One and Diophantine Approximatio -- [10.1017/cbo9781139017732](https://doi.org/10.1017/cbo9781139017732)
 - Chill R, Paunonen L, Seifert D, Stahn R, Tomilov Y (2023) Nonuniform stability of damped contraction semigroups. Analysis &amp; PDE 16(5):1089–1132. https://doi.org/10.2140/apde.2023.16.108 -- [10.2140/apde.2023.16.1089](https://doi.org/10.2140/apde.2023.16.1089)
 - Chill R, Seifert D, Tomilov Y (2020) Semi-uniform stability of operator semigroups and energy decay of damped waves. Phil Trans R Soc A 378(2185):20190614. https://doi.org/10.1098/rsta.2019.061 -- [10.1098/rsta.2019.0614](https://doi.org/10.1098/rsta.2019.0614)

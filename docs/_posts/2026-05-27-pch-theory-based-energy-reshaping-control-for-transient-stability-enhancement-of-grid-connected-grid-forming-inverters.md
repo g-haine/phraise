@@ -11,7 +11,7 @@ category: articles
 [Liang Yuan](authors/liang-yuan), [Mingxin Hu](authors/mingxin-hu), [Mei Su](authors/mei-su), [Zhangjie Liu](authors/zhangjie-liu), [Yao Sun](authors/yao-sun), [Zhao Yang Dong](authors/zhao-yang-dong)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** IEEE Transactions on Industrial Electronics
