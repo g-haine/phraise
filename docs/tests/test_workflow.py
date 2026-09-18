@@ -186,6 +186,14 @@ class WorkflowTests(unittest.TestCase):
         )
         self.assertEqual(pending.read_text(), '10.1/new\n10.1/missing\n')
 
+    def test_canonical_collection_rejects_legacy_bibliography_as_input(self):
+        with self.assertRaisesRegex(ValueError, 'biblio.json'):
+            collect_canonical(
+                self.root,
+                self.root / 'assets/data/biblio.json',
+                self.client,
+            )
+
     def test_canonical_collection_refuses_unmerged_staging(self):
         pending = self.root / 'newDOI.txt'
         pending.write_text('10.1/new\n')
