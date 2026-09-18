@@ -7,7 +7,6 @@ import shutil
 import tempfile
 
 from bibreview.site import (
-    JekyllIndexRenderOptions,
     apply_rendered_artifacts,
     build_site_model,
     plan_rendered_artifacts,
@@ -16,8 +15,10 @@ from bibreview.site import (
 )
 from bibreview.storage import read_bibliography, read_json
 
-from compare_bibreview_index_render import PHRAISE_AUTHOR_INDEX_EXTRA_HTML
-from compare_bibreview_publication_render import PHRAISE_PUBLICATION_OPTIONS
+from phraise_tools.site import (  # noqa: E402
+    PHRAISE_INDEX_OPTIONS,
+    PHRAISE_PUBLICATION_OPTIONS,
+)
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -52,10 +53,7 @@ def _render_artifacts(site_root: Path):
     )
     indexes = render_jekyll_index_pages(
         model,
-        options=JekyllIndexRenderOptions(
-            author_index_extra_html=PHRAISE_AUTHOR_INDEX_EXTRA_HTML,
-            include_authorless_year_publications=False,
-        ),
+        options=PHRAISE_INDEX_OPTIONS,
     )
     return posts, indexes
 
