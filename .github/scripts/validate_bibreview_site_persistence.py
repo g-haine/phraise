@@ -4,7 +4,12 @@ from __future__ import annotations
 
 from pathlib import Path
 import shutil
+import sys
 import tempfile
+
+ROOT = Path(__file__).resolve().parents[2]
+DOCS = ROOT / "docs"
+sys.path.insert(0, str(DOCS))
 
 from bibreview.site import (
     apply_rendered_artifacts,
@@ -20,9 +25,6 @@ from phraise_tools.site import (  # noqa: E402
     PHRAISE_PUBLICATION_OPTIONS,
 )
 
-
-ROOT = Path(__file__).resolve().parents[2]
-DOCS = ROOT / "docs"
 
 EXPECTED_POSTS = 2349
 EXPECTED_AUTHOR_PAGES = 2651
