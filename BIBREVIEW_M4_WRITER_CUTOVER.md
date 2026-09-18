@@ -8,11 +8,9 @@ Jekyll publication, author and year artifacts.
 The runtime path is now:
 
 ```text
-PHRAISE legacy projection + reviewed author mappings
+canonical bibliography.json + reviewed author mappings
                          ↓
              phraise_tools.site adapter
-                         ↓
-                BibReview Publication
                          ↓
                     SiteModel
                          ↓
@@ -45,8 +43,8 @@ PHRAISE still owns:
 - archival of orphan BibTeX files;
 - `_data/library.yml` last-update metadata;
 - Jekyll templates, CSS, includes, build and deployment;
-- the temporary legacy bibliography projection used by the current maintenance
-  commands.
+- the remaining temporary legacy maintenance/oracle paths outside the effective
+  site writer.
 
 ## Regression oracle
 
@@ -63,19 +61,24 @@ new writer.
 ## Writer validation
 
 The migration workflow additionally executes the public PHRAISE generation
-functions on a temporary copy of the real `docs/` tree:
+functions on a temporary copy of the real `docs/` tree. The effective writer
+reads `assets/data/bibliography.json` directly; `biblio.json` is not an input
+to `generate_posts()` or `generate_pages()`.
 
 - all 2,349 publication posts must remain byte-identical;
 - all 2,692 author/year artifacts must remain byte-identical;
 - obsolete probes below `_posts`, `authors` and `years` must be removed;
 - no network BibTeX fallback may be required for the tracked current site;
+- an intentionally invalid `biblio.json` must not affect generation;
 - a manual file outside the managed roots must remain untouched.
 
 The ordinary PHRAISE maintenance unit tests are also run in the migration CI.
 
 ## Deliberately deferred
 
-This step changes site rendering and persistence ownership only. It does not yet
-remove the legacy bibliography projection or move the remaining maintenance
-workflow (`looking4Update.py`, `getData.py`, `concatenate.py`) onto the
-BibReview CLI/project API. Those are subsequent migration steps.
+The site writer no longer depends on the legacy bibliography projection.
+`biblio.json` still exists because author-mapping migration helpers and the
+historical regression oracles consume it. The remaining maintenance workflow
+(`looking4Update.py`, `getData.py`, `concatenate.py`) is also still legacy.
+Those dependencies must be removed before `biblio.json`,
+`projectLegacyBibliography.py`, and the compatibility bridge can be deleted.
