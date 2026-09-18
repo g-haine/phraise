@@ -56,8 +56,8 @@ function createSearchableText(item) {
         item.keywords,
         item.year?.toString(),
         item.doi,
-        ...(item.authors?.map(author => 
-            `${author.given} ${author.family}`.toLowerCase()
+        ...(item.authors?.map(author =>
+            `${author.given} ${author.family} ${author.literal || ''}`.toLowerCase()
         ) || [])
     ];
     
@@ -102,9 +102,10 @@ function calculateRelevanceScore(text, queryTerms, item) {
         }
         
         // Bonus pour les correspondances dans les auteurs
-        if (item.authors && item.authors.some(author => 
-            author.family?.toLowerCase().includes(term) || 
-            author.given?.toLowerCase().includes(term)
+        if (item.authors && item.authors.some(author =>
+            author.family?.toLowerCase().includes(term) ||
+            author.given?.toLowerCase().includes(term) ||
+            author.literal?.toLowerCase().includes(term)
         )) {
             score += 15;
         }
