@@ -56,12 +56,20 @@ def main() -> None:
         manual.write_text("manual content must remain untouched\n", encoding="utf-8")
         manual_before = manual.read_bytes()
 
+        legacy = site_root / "assets/data/biblio.json"
+        legacy.write_text(
+            "{ deliberately invalid legacy projection",
+            encoding="utf-8",
+        )
+        legacy_before = legacy.read_bytes()
+
         generate_posts(site_root, NoNetworkBibTeXClient())
         generate_pages(site_root)
 
         for path in stale:
             assert not path.exists(), f"obsolete generated probe survived: {path}"
         assert manual.read_bytes() == manual_before
+        assert legacy.read_bytes() == legacy_before
         assert _snapshot(site_root) == expected
 
     posts = sum(path.startswith("_posts/") for path in expected)
@@ -71,6 +79,7 @@ def main() -> None:
     print(f"  author/year artifacts byte-identical after real writer: {author_year}")
     print("  obsolete probes removed through public writer path: 3")
     print("  tracked BibTeX required network fallback: no")
+    print("  invalid legacy biblio.json ignored by writer: yes")
     print("  manual file outside managed roots untouched: yes")
 
 
