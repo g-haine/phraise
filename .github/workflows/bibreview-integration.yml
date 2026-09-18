@@ -61,6 +61,31 @@ jobs:
           bundle install
           bundle exec jekyll build
 
+      - name: Validate displayed bibliography update date
+        run: |
+          python - <<'PY'
+          import datetime
+          import json
+          from pathlib import Path
+
+          document = json.loads(
+              Path("docs/assets/data/bibliography.json").read_text(
+                  encoding="utf-8"
+              )
+          )
+          value = document["metadata"]["last_update"]
+          if value is None:
+              raise SystemExit("canonical bibliography last_update is null")
+          date = datetime.date.fromisoformat(value)
+          expected = f"the {date:%d} of {date:%B} ({date:%Y})"
+          html = Path("docs/_site/index.html").read_text(encoding="utf-8")
+          if expected not in html:
+              raise SystemExit(
+                  f"homepage does not display canonical last_update: {expected}"
+              )
+          print(f"Homepage bibliography date: {expected}")
+          PY
+
       - name: Confirm tracked project state is unchanged
         run: |
           git diff --exit-code
