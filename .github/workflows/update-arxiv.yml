@@ -65,7 +65,7 @@ jobs:
               --base main \
               --head "$branch" \
               --title "Update arXiv cache" \
-              --body "Automated BibReview arXiv cache refresh. Merge only after the PHRAISE integration checks and diff have been reviewed."
+              --body "Automated BibReview arXiv cache refresh. This PR is eligible for automatic merge after the PHRAISE integration checks pass, provided it changes only docs/data/arxiv.json."
           else
             echo "Existing arXiv cache pull request updated."
           fi
