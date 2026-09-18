@@ -45,6 +45,9 @@ jobs:
       - name: Compare PHRAISE and BibReview refresh/recollect paths
         run: python .github/scripts/compare_bibreview_refresh.py
 
+      - name: Validate PHRAISE canonical discovery/refresh cutover
+        run: python .github/scripts/validate_phraise_canonical_update.py
+
       - name: Compare historical and BibReview collection paths
         run: python .github/scripts/compare_bibreview_collect.py
 
