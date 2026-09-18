@@ -13,6 +13,8 @@ import unittest
 from unittest.mock import Mock, patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from bibreview.compat import legacy_record_to_publication
+from bibreview.storage import write_bibliography
 from phraise_tools.collect import collect
 from phraise_tools.common import json_bytes, mathjaxify, Reporter, slugify, write_batch
 from phraise_tools.generate import (apply_safe_author_mappings, author_mapping_plan,
@@ -34,6 +36,15 @@ def record(doi='10.1/old', slug='old'):
             'journal': 'Journal', 'year': '2024', 'volume': '1', 'issue': '2', 'pages': '1--9',
             'event': '', 'isbn': '', 'publisher': 'Publisher', 'keywords': 'control; energy',
             'dateY': '2024', 'dateM': '3', 'dateD': '8', 'permalink': slug, 'references': []}
+
+
+def write_canonical_fixture(root, records):
+    """Write canonical BibReview state corresponding to synthetic legacy records."""
+    publications = tuple(
+        legacy_record_to_publication(item).publication
+        for item in records
+    )
+    write_bibliography(root / 'assets/data/bibliography.json', publications)
 
 
 def message(title='Port-Hamiltonian systems'):
@@ -77,7 +88,9 @@ class WorkflowTests(unittest.TestCase):
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
         self.client = FakeClient()
-        self.save('assets/data/biblio.json', [record()])
+        initial_records = [record()]
+        self.save('assets/data/biblio.json', initial_records)
+        write_canonical_fixture(self.root, initial_records)
         self.save('assets/data/author_mappings.json', {'ada-lovelace': ['Ada Lovelace']})
         for name, content in [('DOI.txt', '10.1/old\n'), ('newDOI.txt', ''), ('badDOI.txt', ''), ('checkDOI.txt', '')]:
             (self.root / name).write_text(content)
@@ -176,12 +189,24 @@ class WorkflowTests(unittest.TestCase):
         self.assertIn('Ada Lovelace', (self.root / 'authors/ada-lovelace.md').read_text())
         self.assertIn('last_update:', (self.root / '_data/library.yml').read_text())
 
+    def test_site_writer_ignores_legacy_bibliography_projection(self):
+        legacy = self.root / 'assets/data/biblio.json'
+        legacy.write_text('{ deliberately invalid legacy projection', encoding='utf-8')
+        before = legacy.read_bytes()
+
+        generate_posts(self.root, self.client)
+        generate_pages(self.root)
+
+        self.assertTrue((self.root / '_posts/2024-03-08-old.md').exists())
+        self.assertTrue((self.root / 'authors/ada-lovelace.md').exists())
+        self.assertEqual(legacy.read_bytes(), before)
+
     def test_generation_error_preserves_existing_outputs(self):
         (self.root / '_posts/keep.md').write_text('keep')
         self.save('assets/data/author_mappings.json', {})
         before = self.snapshot()
         for function in [lambda: generate_posts(self.root, self.client), lambda: generate_pages(self.root)]:
-            with self.assertRaisesRegex(ValueError, 'Unknown authors'):
+            with self.assertRaisesRegex(ValueError, 'unmapped author'):
                 function()
             self.assertEqual(before, self.snapshot())
 
@@ -189,6 +214,7 @@ class WorkflowTests(unittest.TestCase):
         for slug in ['../escape', 'old']:
             records = [record(), record('10.1/other', slug)]
             self.save('assets/data/biblio.json', records)
+            write_canonical_fixture(self.root, records)
             before = self.snapshot()
             with self.assertRaises(ValueError):
                 generate_posts(self.root, self.client)
@@ -255,6 +281,13 @@ class WorkflowTests(unittest.TestCase):
         collect(self.root, self.root / 'newDOI.txt', self.client)
         self.assertEqual(author_mapping_plan(self.root)['unknown_names'], 0)
         concatenate(*(self.root / p for p in ['DOI.txt', 'newDOI.txt', 'badDOI.txt', 'assets/data/biblio.json', 'assets/data']))
+        # The production migration branch now expects BibReview's canonical
+        # collect -> merge handoff.  This synthetic legacy workflow explicitly
+        # materializes that handoff so generation is tested from canonical state.
+        write_canonical_fixture(
+            self.root,
+            self.load('assets/data/biblio.json'),
+        )
         generate_posts(self.root, self.client)
         generate_pages(self.root)
         self.assertEqual(len(self.load('assets/data/biblio.json')), 2)
