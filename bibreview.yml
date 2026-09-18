@@ -1,5 +1,8 @@
 schema_version: 1
 
+environment:
+  file: docs/.env
+
 project:
   name: PHRAISE
   slug: phraise
