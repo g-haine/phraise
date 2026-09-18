@@ -55,6 +55,7 @@ def main() -> None:
         model,
         options=JekyllIndexRenderOptions(
             author_index_extra_html=PHRAISE_AUTHOR_INDEX_EXTRA_HTML,
+            include_authorless_year_publications=False,
         ),
     )
     actual = {artifact.path: artifact.content.encode("utf-8") for artifact in rendered}
