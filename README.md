@@ -213,8 +213,9 @@ The scheduled GitHub workflow runs this command and changes only
 `docs/data/arxiv.json`. If the cache changes, the workflow opens or updates a
 pull request instead of pushing to `main`. That PR is merged automatically only
 after the updater explicitly runs the integration CI and verifies a cache-only
-diff. The module
-does not create canonical `Publication` objects and does not affect
+diff. If the arXiv provider is temporarily unavailable, the workflow keeps the
+existing cache untouched and ends without opening a PR. The module does not
+create canonical `Publication` objects and does not affect
 `bibliography.json.metadata.last_update`.
 
 This separation is why the bibliography date comes from
