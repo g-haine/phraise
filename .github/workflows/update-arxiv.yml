@@ -12,6 +12,7 @@ on:
       - ".github/workflows/update-arxiv.yml"
 
 permissions:
+  actions: write
   contents: write
   pull-requests: write
 
@@ -22,7 +23,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
 
     steps:
       - name: Check out main
@@ -42,12 +43,14 @@ jobs:
       - name: Refresh arXiv cache
         run: bibreview --config bibreview.yml arxiv
 
-      - name: Open or update arXiv cache pull request
+      - name: Prepare automated pull request
+        id: prepare
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           if git diff --quiet -- docs/data/arxiv.json; then
             echo "No arXiv cache changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
@@ -60,12 +63,92 @@ jobs:
           git commit -m "Update arXiv cache"
           git push --force origin "HEAD:refs/heads/$branch"
 
-          if [ "$(gh pr list --base main --head "$branch" --state open --json number --jq 'length')" -eq 0 ]; then
+          sha="$(git rev-parse HEAD)"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          echo "sha=$sha" >> "$GITHUB_OUTPUT"
+
+          number="$(gh pr list \
+            --base main \
+            --head "$branch" \
+            --state open \
+            --json number \
+            --jq '.[0].number // empty')"
+
+          if [ -z "$number" ]; then
             gh pr create \
               --base main \
               --head "$branch" \
               --title "Update arXiv cache" \
-              --body "Automated BibReview arXiv cache refresh. This PR is eligible for automatic merge after the PHRAISE integration checks pass, provided it changes only docs/data/arxiv.json."
-          else
-            echo "Existing arXiv cache pull request updated."
+              --body "Automated BibReview arXiv cache refresh. This PR is merged automatically only after the PHRAISE integration workflow succeeds and the diff is verified to contain only docs/data/arxiv.json."
+            number="$(gh pr list \
+              --base main \
+              --head "$branch" \
+              --state open \
+              --json number \
+              --jq '.[0].number')"
           fi
+
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+
+      - name: Validate cache-only diff
+        if: steps.prepare.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ steps.prepare.outputs.number }}
+        run: |
+          files="$(gh pr view "$PR_NUMBER" \
+            --json files \
+            --jq '.files[].path')"
+
+          if [ "$files" != "docs/data/arxiv.json" ]; then
+            printf 'Automated arXiv PR modifies unexpected files:\n%s\n' "$files" >&2
+            exit 1
+          fi
+
+      - name: Dispatch PHRAISE integration validation
+        if: steps.prepare.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ steps.prepare.outputs.branch }}
+        run: gh workflow run bibreview-integration.yml --ref "$BRANCH"
+
+      - name: Wait for PHRAISE integration validation
+        if: steps.prepare.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ steps.prepare.outputs.branch }}
+          EXPECTED_SHA: ${{ steps.prepare.outputs.sha }}
+        run: |
+          run_id=""
+          for _ in $(seq 1 30); do
+            run_id="$(gh run list \
+              --workflow bibreview-integration.yml \
+              --branch "$BRANCH" \
+              --event workflow_dispatch \
+              --limit 10 \
+              --json databaseId,headSha \
+              --jq ".[] | select(.headSha == \"$EXPECTED_SHA\") | .databaseId" \
+              | head -n 1)"
+            if [ -n "$run_id" ]; then
+              break
+            fi
+            sleep 2
+          done
+
+          if [ -z "$run_id" ]; then
+            echo "Could not find the dispatched BibReview integration run." >&2
+            exit 1
+          fi
+
+          gh run watch "$run_id" --exit-status
+
+      - name: Merge validated arXiv pull request
+        if: steps.prepare.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ steps.prepare.outputs.number }}
+        run: |
+          gh pr merge "$PR_NUMBER" \
+            --squash \
+            --delete-branch
