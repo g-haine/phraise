@@ -11,7 +11,7 @@ category: articles
 [Ryousuke MATSUSHITA](authors/ryousuke-matsushita), [Kenji FUJIMOTO](authors/kenji-fujimoto)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** The Proceedings of Conference of Tokai Branch

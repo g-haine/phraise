@@ -11,7 +11,7 @@ category: books
 
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **ISBN:** 9789400700888

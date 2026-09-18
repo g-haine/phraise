@@ -11,7 +11,7 @@ category: articles
 [Rostyslav V. Polyuga](authors/rostyslav-v-polyuga)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** European Journal of Control

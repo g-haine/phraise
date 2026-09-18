@@ -23,7 +23,7 @@ tags:
 [Jochen Merker](authors/jochen-merker)
  
 ## Abstract
-No abstract available
+
  
 ## Keywords
 Dirac structure; Courant algebroid; Port-Hamiltonian system; Symplectic geometry; Poisson manifold; Integrability; 53D17; 70H05; 37J05; 70F20; 70G45

@@ -11,7 +11,7 @@ category: articles
 [Toufik Ennouari](authors/toufik-ennouari)
  
 ## Abstract
-                    This paper presents explicit formulas for the energy dissipation rate in boundary control of elastic structures using higher-order Green’s identities in a port-Hamiltonian framework. A unified expression is derived for systems of order 2                    m                    that generalizes known results for Timoshenko beams and Kirchhoff plates. This formula facilitates passivity verification and leads directly to optimal linear-quadratic boundary feedback laws in the form of viscous damping. The analysis is extended to non-collocated boundary control and establishes generalized passivity conditions. Numerical simulations validate the exponential stability achieved with the proposed control laws and illustrate the trade-offs between damping strength and control effort.                  
+This paper presents explicit formulas for the energy dissipation rate in boundary control of elastic structures using higher-order Green’s identities in a port-Hamiltonian framework. A unified expression is derived for systems of order 2                    m                    that generalizes known results for Timoshenko beams and Kirchhoff plates. This formula facilitates passivity verification and leads directly to optimal linear-quadratic boundary feedback laws in the form of viscous damping. The analysis is extended to non-collocated boundary control and establishes generalized passivity conditions. Numerical simulations validate the exponential stability achieved with the proposed control laws and illustrate the trade-offs between damping strength and control effort.
  
 ## Citation
 - **Journal:** Journal of Vibration and Control

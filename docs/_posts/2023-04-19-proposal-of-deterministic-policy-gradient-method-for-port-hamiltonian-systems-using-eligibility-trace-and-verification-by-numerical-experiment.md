@@ -11,7 +11,7 @@ category: articles
 [Shuichi FUKUNAGA](authors/shuichi-fukunaga), [Ryota KOKUBO](authors/ryota-kokubo)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

@@ -11,7 +11,7 @@ category: articles
 [Riccardo Morandin](authors/riccardo-morandin), [Jonas Nicodemus](authors/jonas-nicodemus), [Benjamin Unger](authors/benjamin-unger)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

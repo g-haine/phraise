@@ -11,7 +11,7 @@ category: articles
 [Guozhen Jiang](authors/guozhen-jiang), [Cheng Jin](authors/cheng-jin), [Chaoyong Qu](authors/chaoyong-qu)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** IET Conference Proceedings

@@ -11,7 +11,7 @@ category: proceedings
 [Romeo Ortega](authors/romeo-ortega), [Jose Guadalupe Romero](authors/jose-guadalupe-romero)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** IEEE Conference on Decision and Control and European Control Conference

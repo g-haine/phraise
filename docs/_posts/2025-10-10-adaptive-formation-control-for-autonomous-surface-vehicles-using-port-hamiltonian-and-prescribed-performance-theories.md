@@ -11,7 +11,7 @@ category: proceedings
 [Kun Xie](authors/kun-xie), [Huahuan Wang](authors/huahuan-wang), [Weidong Zhang](authors/weidong-zhang), [Zehua Jia](authors/zehua-jia)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2025 44th Chinese Control Conference (CCC)

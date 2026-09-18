@@ -11,7 +11,7 @@ category: proceedings
 [Zixi Guan](authors/zixi-guan), [Rui Chen](authors/rui-chen), [Jinhua Zhang](authors/jinhua-zhang), [Yiheng Wei](authors/yiheng-wei)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2025 4th Conference on Fully Actuated System Theory and Applications (FASTA)

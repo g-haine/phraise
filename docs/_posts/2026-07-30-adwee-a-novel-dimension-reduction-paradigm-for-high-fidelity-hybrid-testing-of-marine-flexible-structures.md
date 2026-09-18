@@ -11,7 +11,7 @@ category: articles
 [Xinyu Han](authors/xinyu-han), [Jianwei Wang](authors/jianwei-wang), [Weihang Zhang](authors/weihang-zhang), [Minghua Yue](authors/minghua-yue), [Shuo Sun](authors/shuo-sun), [Tie Liu](authors/tie-liu)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** Engineering Applications of Computational Fluid Mechanics

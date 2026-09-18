@@ -11,7 +11,7 @@ category: articles
 [Alexander Sakhnovich](authors/alexander-sakhnovich)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** SSRN Electronic Journal

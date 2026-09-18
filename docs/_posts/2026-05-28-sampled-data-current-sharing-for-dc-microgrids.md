@@ -11,7 +11,7 @@ category: articles
 [Daijiro WAKAI](authors/daijiro-wakai), [Yu KAWANO](authors/yu-kawano), [Nobutaka WADA](authors/nobutaka-wada)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

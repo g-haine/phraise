@@ -11,7 +11,7 @@ category: articles
 [Cong Yuan](authors/cong-yuan), [Jean-Philippe Martin](authors/jean-philippe-martin), [Serge Pierfederici](authors/serge-pierfederici), [Emeric Vuillemin](authors/emeric-vuillemin), [Matheepot Phattanasak](authors/matheepot-phattanasak), [Yigeng Huangfu](authors/yigeng-huangfu)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** IEEE Transactions on Industrial Electronics

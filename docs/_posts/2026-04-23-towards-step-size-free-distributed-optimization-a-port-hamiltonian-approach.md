@@ -11,7 +11,7 @@ category: articles
 [Rodrigo Aldana-López](authors/rodrigo-aldana-lopez), [Alessandro Macchelli](authors/alessandro-macchelli), [Giuseppe Notarstefano](authors/giuseppe-notarstefano), [Rosario Aragüés](authors/rosario-aragues), [Carlos Sagüés](authors/carlos-sagues)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** IEEE Transactions on Automatic Control

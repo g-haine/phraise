@@ -11,7 +11,7 @@ category: books
 
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **ISBN:** 9783642349270

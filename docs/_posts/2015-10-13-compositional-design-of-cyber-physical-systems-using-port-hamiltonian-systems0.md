@@ -11,7 +11,7 @@ category: chapters
 [Siyuan Dai](authors/siyuan-dai), [Zsolt Lattmann](authors/zsolt-lattmann), [Xenofon Koutsoukos](authors/xenofon-koutsoukos)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **ISBN:** 9781482263329

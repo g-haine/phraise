@@ -11,7 +11,7 @@ category: articles
 [Volker Mehrmann](authors/volker-mehrmann), [Manuel Schaller](authors/manuel-schaller), [Martin Stoll](authors/martin-stoll)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** ETNA - Electronic Transactions on Numerical Analysis

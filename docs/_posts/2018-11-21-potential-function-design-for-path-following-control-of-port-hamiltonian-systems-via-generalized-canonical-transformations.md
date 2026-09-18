@@ -11,7 +11,7 @@ category: articles
 [Yuki OKURA](authors/yuki-okura), [Kenji FUJIMOTO](authors/kenji-fujimoto), [Akio SAITO](authors/akio-saito), [Hidetoshi IKEDA](authors/hidetoshi-ikeda)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

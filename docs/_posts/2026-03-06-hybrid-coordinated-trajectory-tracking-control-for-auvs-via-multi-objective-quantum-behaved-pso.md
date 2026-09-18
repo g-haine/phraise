@@ -11,7 +11,7 @@ category: articles
 [Pei Zhou](authors/pei-zhou), [Haonan Chen](authors/haonan-chen), [Yun Chen](authors/yun-chen), [Jianjun Bai](authors/jianjun-bai), [Yunfei Guo](authors/yunfei-guo)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** International Journal of Systems Science

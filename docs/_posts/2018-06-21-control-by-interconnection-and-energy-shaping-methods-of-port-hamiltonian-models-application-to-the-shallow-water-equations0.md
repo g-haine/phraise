@@ -11,7 +11,7 @@ category: proceedings
 [Boussad Hamroun](authors/boussad-hamroun), [Eduardo Mendes](authors/eduardo-mendes), [Laurent Lefevre](authors/laurent-lefevre)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2009 European Control Conference (ECC)

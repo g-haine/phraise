@@ -11,7 +11,7 @@ category: articles
 [Ignacio Díaz](authors/ignacio-diaz), [Héctor Ramírez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Yongxin Wu](authors/yongxin-wu)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Mathematical and Computer Modelling of Dynamical Systems

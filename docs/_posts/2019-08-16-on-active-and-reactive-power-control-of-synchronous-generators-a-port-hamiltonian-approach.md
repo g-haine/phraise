@@ -11,7 +11,7 @@ category: articles
 [Elham Tajik](authors/elham-tajik), [Thordur Runolfsson](authors/thordur-runolfsson)
  
 ## Abstract
- In this paper a general port-Hamiltonian model of a synchronous generator is presented and the effects of deviations and disturbances of the terminal signals on generator control laws are discussed. We discuss how control laws should be designed to minimize the effect of small variations in the generators terminal conditions, i.e. local control that does not have access or knowledge to a model of the rest of the system. For analysis purpose we present a linearized generator model and apply a full state feedback control consisting of both regulation of the generator flux and rotational dynamics.
+In this paper a general port-Hamiltonian model of a synchronous generator is presented and the effects of deviations and disturbances of the terminal signals on generator control laws are discussed. We discuss how control laws should be designed to minimize the effect of small variations in the generators terminal conditions, i.e. local control that does not have access or knowledge to a model of the rest of the system. For analysis purpose we present a linearized generator model and apply a full state feedback control consisting of both regulation of the generator flux and rotational dynamics.
  
 ## Citation
 - **Journal:** Journal of Physics: Conference Series

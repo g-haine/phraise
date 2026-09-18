@@ -11,7 +11,7 @@ category: books
 [Vincent Duindam](authors/vincent-duindam), [Alessandro Macchelli](authors/alessandro-macchelli), [Stefano Stramigioli](authors/stefano-stramigioli), [Herman Bruyninckx](authors/herman-bruyninckx)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **ISBN:** 9783642031953

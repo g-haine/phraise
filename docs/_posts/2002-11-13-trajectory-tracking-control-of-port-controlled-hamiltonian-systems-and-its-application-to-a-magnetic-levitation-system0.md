@@ -11,7 +11,7 @@ category: proceedings
 [K. Fujimoto](authors/kenji-fujimoto), [K. Sakurama](authors/kazunori-sakurama), [T. Sugie](authors/toshiharu-sugie)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228)

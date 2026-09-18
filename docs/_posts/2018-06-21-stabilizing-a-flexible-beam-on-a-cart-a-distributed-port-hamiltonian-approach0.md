@@ -11,7 +11,7 @@ category: proceedings
 [Ravi N. Banavar](authors/ravi-n-banavar), [Biswadip Dey](authors/biswadip-dey)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2009 European Control Conference (ECC)

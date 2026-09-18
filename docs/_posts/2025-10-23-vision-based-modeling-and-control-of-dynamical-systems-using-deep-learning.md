@@ -11,7 +11,7 @@ category: articles
 [Tomoya YOSHIOKA](authors/tomoya-yoshioka), [Yusuke SASAKI](authors/yusuke-sasaki), [Haohui JIA](authors/haohui-jia), [Takashi MATSUBARA](authors/takashi-matsubara)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences

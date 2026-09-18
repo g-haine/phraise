@@ -11,7 +11,7 @@ category: proceedings
 [Fernando Castanos](authors/fernando-castanos), [Romeo Ortega](authors/romeo-ortega)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** 2009 European Control Conference (ECC)

@@ -11,7 +11,7 @@ category: books
 [Arjan van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **ISBN:** 9783319499918

@@ -11,7 +11,7 @@ category: articles
 [Bing Wang -](authors/bing-wang), [Yiming Zhang -](authors/yiming-zhang), [Yanping Qian -](authors/yanping-qian)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** International Journal of Digital Content Technology and its Applications

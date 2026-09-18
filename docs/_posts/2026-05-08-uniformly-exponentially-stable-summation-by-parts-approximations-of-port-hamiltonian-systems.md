@@ -11,7 +11,7 @@ category: articles
 [Luis A. Mora](authors/luis-a-mora), [Anita Gjesteland](authors/anita-gjesteland), [Kirsten Morris](authors/kirsten-a-morris), [David C. Del Rey Fernández](authors/david-c-del-rey-fernandez)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** IEEE Transactions on Automatic Control

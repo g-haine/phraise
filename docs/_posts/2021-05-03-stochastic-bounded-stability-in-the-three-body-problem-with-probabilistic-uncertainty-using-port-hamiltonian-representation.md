@@ -11,7 +11,7 @@ category: articles
 [Taisei NISHISHITA](authors/taisei-nishishita), [Satoshi SATOH](authors/satoshi-satoh), [Katsuhiko YAMADA](authors/katsuhiko-yamada)
  
 ## Abstract
-No  available
+
  
 ## Citation
 - **Journal:** TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES, AEROSPACE TECHNOLOGY JAPAN

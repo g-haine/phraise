@@ -11,7 +11,7 @@ category: articles
 [Richard Perryman](authors/richard-perryman), [Joshua A. Taylor](authors/joshua-a-taylor), [Bryan Karney](authors/bryan-karney)
  
 ## Abstract
-No abstract available
+
  
 ## Citation
 - **Journal:** Journal of Hydraulic Research

@@ -11,7 +11,7 @@ category: articles
 [Baozeng Fu](authors/baozeng-fu), [Shihua Li](authors/shihua-li), [Lei Guo](authors/lei-guo), [Jun Yang](authors/jun-yang), [Qixun Lan](authors/qixun-lan)
  
 ## Abstract
- This paper concerns the problem of finite-time stabilization of nonlinear port-controlled Hamiltonian systems subject to nonvanishing disturbances via a composite control manner. The composite controller is developed by combining the damping injection, the finite-time feedback control and the finite-time disturbance observer techniques. The key idea is that a finite-time disturbance observer is designed to estimate disturbances and the estimation of disturbances is employed to feedforward compensate the disturbances. Finite-time stability analysis for the augmented system is presented. An example of a nonlinear circuit system with simulation results demonstrates the effectiveness of the proposed method. 
+This paper concerns the problem of finite-time stabilization of nonlinear port-controlled Hamiltonian systems subject to nonvanishing disturbances via a composite control manner. The composite controller is developed by combining the damping injection, the finite-time feedback control and the finite-time disturbance observer techniques. The key idea is that a finite-time disturbance observer is designed to estimate disturbances and the estimation of disturbances is employed to feedforward compensate the disturbances. Finite-time stability analysis for the augmented system is presented. An example of a nonlinear circuit system with simulation results demonstrates the effectiveness of the proposed method.
  
 ## Citation
 - **Journal:** Transactions of the Institute of Measurement and Control

@@ -11,7 +11,7 @@ category: proceedings
 [Xiaoyang Song](authors/xiaoyang-song), [Haisheng Yu](authors/haisheng-yu), [Jinpeng Yu](authors/jinpeng-yu), [Herong Wu](authors/herong-wu)
  
 ## Abstract
-Not available
+
  
 ## Citation
 - **Journal:** 2017 Chinese Automation Congress (CAC)
