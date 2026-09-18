@@ -92,7 +92,9 @@ Jekyll build, and the displayed bibliography update date.
 
 The scheduled arXiv workflow never writes directly to `main`. When the cache
 changes, it creates or updates the `automation/update-arxiv` branch and opens
-a pull request for review.
+a pull request. If the PHRAISE integration workflow succeeds and the diff
+contains **only** `docs/data/arxiv.json`, a dedicated workflow squash-merges
+that PR automatically. No daily maintainer approval is required.
 
 ## Maintenance environment
 
@@ -208,8 +210,9 @@ bibreview --config bibreview.yml arxiv
 
 The scheduled GitHub workflow runs this command and changes only
 `docs/data/arxiv.json`. If the cache changes, the workflow opens or updates a
-pull request instead of pushing to `main`. The module does not create canonical
-`Publication` objects and does not affect
+pull request instead of pushing to `main`. That PR is merged automatically only
+after the integration CI succeeds and verifies a cache-only diff. The module
+does not create canonical `Publication` objects and does not affect
 `bibliography.json.metadata.last_update`.
 
 This separation is why the bibliography date comes from
