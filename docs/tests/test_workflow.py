@@ -14,12 +14,12 @@ from unittest.mock import Mock, patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from bibreview.compat import legacy_record_to_publication
+from bibreview.project import plan_project_author_mappings
 from bibreview.storage import write_bibliography
 from phraise_tools.collect import collect
 from phraise_tools.canonical import (
     collect_canonical,
     merge_canonical,
-    plan_canonical_merge,
     project_config,
 )
 from phraise_tools.common import json_bytes, mathjaxify, Reporter, slugify, write_batch
@@ -327,10 +327,7 @@ class WorkflowTests(unittest.TestCase):
         collect_canonical(self.root, self.root / 'newDOI.txt', self.client)
         merge_canonical(self.root)
 
-        author_plan = plan_canonical_merge  # keep import exercised for CLI parity
-        del author_plan
         config = project_config(self.root)
-        from bibreview.project import plan_project_author_mappings
         self.assertEqual(
             plan_project_author_mappings(config).before.unknown_names,
             (),
