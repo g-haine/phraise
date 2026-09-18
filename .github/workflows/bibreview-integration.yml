@@ -51,6 +51,9 @@ jobs:
       - name: Exercise BibReview project collection on PHRAISE mirror
         run: python .github/scripts/compare_bibreview_project_collect.py
 
+      - name: Validate PHRAISE canonical collection cutover
+        run: python .github/scripts/validate_phraise_canonical_collection.py
+
       - name: Compare PHRAISE concatenate with BibReview merge/storage
         run: python .github/scripts/compare_bibreview_merge.py
 
