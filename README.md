@@ -42,20 +42,28 @@ only when the corresponding provider is queried. Mendeley is an optional abstrac
 fallback; `OPENALEX_API_KEY` may also be supplied for OpenAlex. Local author/page
 rendering and concatenation need no API keys.
 
-Then, run the following workflow from the `docs` directory:
+On the `bibreview-migration` branch, the effective canonical path for DOI
+values already present in `newDOI.txt` is now:
 
-1. `python looking4Update.py` – discover publications and queue incomplete entries for recollection
-2. Check entries in checkDOI.txt and decide where they belong: bad/newDOI.txt
-3. `python getData.py newDOI.txt`
-4. `python setAuthorMapping.py` – inspect unknown authors and possible matches.
-5. `python setAuthorMapping.py --apply-safe` – add unambiguous new identities,
-   then review the remaining cases in `assets/data/author_mappings.json` and
-   rerun the first command.
-6. `python concatenate.py`
-7. `python setPosts.py && python setPages.py`
-8. `bundle exec jekyll serve --watch` – verify the build locally and make final corrections.
-9. Commit and push the changes.
-10. Confirm that the site deploys correctly on GitHub Pages.
+1. `python getData.py newDOI.txt` – collect metadata and BibTeX into canonical
+   `assets/data/collected.json` staging.
+2. `bibreview --config ../bibreview.yml merge` – merge the staged publications
+   into `assets/data/bibliography.json`, update DOI state, and clear staging.
+3. `bibreview --config ../bibreview.yml authors` – inspect author identities.
+4. `bibreview --config ../bibreview.yml authors --apply-safe` – add only
+   unambiguous mappings, then review any remaining cases in
+   `assets/data/author_mappings.json` and rerun the previous command.
+5. `python setPosts.py && python setPages.py` – render and persist the site from
+   canonical bibliography state.
+6. `bundle exec jekyll serve --watch` – verify the build locally and make final
+   corrections.
+7. Commit and push the changes.
+8. Confirm that the site deploys correctly on GitHub Pages.
+
+`looking4Update.py`, `concatenate.py`, and `setAuthorMapping.py` are retained
+temporarily as migration/regression helpers. They are no longer the effective
+collection/merge/author path on `bibreview-migration`. Discovery and refresh are
+the next remaining maintenance stages to cut over completely.
 
 ## Local development
 
@@ -118,9 +126,11 @@ the production bibliography or call external services.
 | Command | Responsibility |
 |---|---|
 | `looking4Update.py` | OpenAlex discovery, CrossRef verification, queueing and archival of incomplete entries |
-| `getData.py newDOI.txt` | CrossRef metadata, publisher enrichment, references and BibTeX |
-| `setAuthorMapping.py` | Author mapping analysis, safe additions and ambiguous-name review |
-| `concatenate.py` | Backup/new bibliography merge and DOI filtering |
+| `getData.py newDOI.txt` | Canonical BibReview collection into `collected.json`, using PHRAISE's current HTTP adapters |
+| `bibreview ... merge` | Authoritative merge from canonical staging into `bibliography.json` |
+| `bibreview ... authors` | Canonical author mapping analysis and safe additions |
+| `setAuthorMapping.py` | Legacy author-mapping oracle retained during migration |
+| `concatenate.py` | Legacy merge oracle retained during migration |
 | `setPosts.py` | BibReview-rendered publication posts; PHRAISE missing-BibTeX acquisition, orphan archival and last-update date |
 | `setPages.py` | BibReview-rendered author/year pages and indexes |
 
