@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+import difflib
 import shutil
 import sys
 import tempfile
@@ -81,8 +82,19 @@ def main() -> None:
     ]
     if mismatches:
         first = mismatches[0]
+        expected_text = expected[first].decode("utf-8").splitlines()
+        actual_text = actual[first].decode("utf-8").splitlines()
+        diff = "\n".join(
+            difflib.unified_diff(
+                expected_text,
+                actual_text,
+                fromfile=f"legacy/{first}",
+                tofile=f"bibreview/{first}",
+                n=2,
+            )
+        )
         raise AssertionError(
-            f"{len(mismatches)} rendered artifact(s) differ; first mismatch: {first}"
+            f"{len(mismatches)} rendered artifact(s) differ; first mismatch: {first}\n{diff}"
         )
 
     assert config.paths.bibliography.read_bytes() == canonical_before
