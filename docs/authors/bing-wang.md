@@ -4,7 +4,7 @@ permalink: /authors/bing-wang
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Bing Wang, B Wang, null Bing Wang, Bing Wang -.</p>
+<p id='info-authors'>Alternative author names: Bing Wang, B Wang, Bing Wang -.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2020 -- Zhen Tang, Bing Wang, Xiang Gao, Weiyang Liu, Lingyan Wei</span><h3><a class='post-link' href="{{ site.baseurl }}/l2-disturbance-suppression-controller-design-for-multiple-time-delays-offshore-wind-turbines">L2 Disturbance Suppression Controller Design for Multiple Time Delays Offshore Wind Turbines</a></h3></li>
@@ -14,7 +14,7 @@ permalink: /authors/bing-wang
 <li><span class='post-meta'>2017 -- Bing Wang, Qiuxuan Wu, Min Tian, Qingyi Hu</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-coordinated-control-of-offshore-doubly-fed-wind-turbine-groups-based-on-the-hamiltonian-energy-method">Distributed Coordinated Control of Offshore Doubly Fed Wind Turbine Groups Based on the Hamiltonian Energy Method</a></h3></li>
 <li><span class='post-meta'>2016 -- Bing Wang, Xinghu Wang, Honghua Wang</span><h3><a class='post-link' href="{{ site.baseurl }}/output-synchronization-of-multi-agent-port-hamiltonian-systems-with-link-dynamics">Output synchronization of multi-agent port-Hamiltonian systems with link dynamics</a></h3></li>
 <li><span class='post-meta'>2013 -- Bing Wang -, Yiming Zhang -, Yanping Qian -</span><h3><a class='post-link' href="{{ site.baseurl }}/bounded-control-of-port-controlled-hamiltonian-systems-and-application-in-synchronous-generator">Bounded Control of Port-Controlled Hamiltonian Systems and Application in Synchronous Generator</a></h3></li>
-<li><span class='post-meta'>2011 -- null Bing Wang, null Yanping Qian, null Jin Zhu</span><h3><a class='post-link' href="{{ site.baseurl }}/bounded-passivity-based-control-of-wind-turbine-with-doubly-fed-induction-generator">Bounded passivity-based control of wind turbine with doubly fed induction generator</a></h3></li>
+<li><span class='post-meta'>2011 -- Bing Wang, Yanping Qian, Jin Zhu</span><h3><a class='post-link' href="{{ site.baseurl }}/bounded-passivity-based-control-of-wind-turbine-with-doubly-fed-induction-generator">Bounded passivity-based control of wind turbine with doubly fed induction generator</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

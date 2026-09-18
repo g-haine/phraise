@@ -3,12 +3,12 @@ title: "Maximum output power control of PMSM based on energy-shaping and PWM con
 date: 2008-09-30 00:00:00 +0100
 permalink: maximum-output-power-control-of-pmsm-based-on-energy-shaping-and-pwm-control-principle
 year: 2008
-authors: null Zongwei Zou, null Haisheng Yu, null Yuliang Tang
+authors: Zongwei Zou, Haisheng Yu, Yuliang Tang
 category: proceedings
 ---
  
 ## Authors
-[null Zongwei Zou](authors/zongwei-zou), [null Haisheng Yu](authors/haisheng-yu), [null Yuliang Tang](authors/yuliang-tang)
+[Zongwei Zou](authors/zongwei-zou), [Haisheng Yu](authors/haisheng-yu), [Yuliang Tang](authors/yuliang-tang)
  
 ## Abstract
 A novel energy-shaping controller design technique is used to the speed regulation of permanent magnet synchronous motor (PMSM). Using interconnection and damping assignment passivity-based control (IDA-PBC) methodology, assigning a desired port-controlled Hamiltonian (PCH) structure to the closed-loop PMSM system, speed controllers are designed when the load torque is known and unknown, respectively. The stability of the desired equilibrium point satisfying the maximum output power control rule is also analysed. The speed controller of PMSM is implemented based on pulse-width modulation (PWM) control principle. By controlling the duty ratio of every inverter switch, PWM voltages satisfying the speed regulation requirement are provided to the three-phase stator windings of PMSM. Simulation results show the system has good dynamic and steady-state performances.

@@ -3,12 +3,12 @@ title: "Full speed range control of IPMSM for electric vehicles based on Hamilto
 date: 2014-07-29 00:00:00 +0100
 permalink: full-speed-range-control-of-ipmsm-for-electric-vehicles-based-on-hamiltonian-theory
 year: 2014
-authors: null Xudong Liu, Ke Li, Chenghui Zhang, Jing Sun
+authors: Xudong Liu, Ke Li, Chenghui Zhang, Jing Sun
 category: proceedings
 ---
  
 ## Authors
-[null Xudong Liu](authors/xudong-liu), [Ke Li](authors/ke-li), [Chenghui Zhang](authors/chenghui-zhang), [Jing Sun](authors/jing-sun)
+[Xudong Liu](authors/xudong-liu), [Ke Li](authors/ke-li), [Chenghui Zhang](authors/chenghui-zhang), [Jing Sun](authors/jing-sun)
  
 ## Abstract
 The full speed range stabilizing control of interior permanent magnet synchronous motor(IPMSM)for electric vehicles based on Port-Controlled Hamiltonian(PCH)theory is proposed in this paper. First, the Hamiltonian stabilizing control of IPMSM is realized using energy-shaping method of interconnection and damping assignment. Then the desired equilibrium is acquired by maximum torque per current(MTPA) and field-weakening control. Finally, the load torque observer is designed and the controller design is developed when the load torque is unknown. The simulation results show that the proposed method has good speed tracking performance and anti-disturbance ability in the full speed range, and the theory contributes to the improvement of control performance in the electric vehicle.

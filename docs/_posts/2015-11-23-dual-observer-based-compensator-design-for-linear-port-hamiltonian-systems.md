@@ -3,12 +3,12 @@ title: "Dual observer-based compensator design for linear port-Hamiltonian syste
 date: 2015-11-23 00:00:00 +0100
 permalink: dual-observer-based-compensator-design-for-linear-port-hamiltonian-systems
 year: 2015
-authors: Paul Kotyczka, null Mei Wang
+authors: Paul Kotyczka, Mei Wang
 category: proceedings
 ---
  
 ## Authors
-[Paul Kotyczka](authors/paul-kotyczka), [null Mei Wang](authors/mei-wang)
+[Paul Kotyczka](authors/paul-kotyczka), [Mei Wang](authors/mei-wang)
  
 ## Abstract
 We show how dual observer-based compensator design can be adapted to linear, finite-dimensional systems in port-Hamiltonian (pH) form. Based on the recent formulation of Luenberger's approach in a two-degrees-of-freedom controller structure, we consider the dynamics of both plant and dynamic controller in linear pH form. The main differences compared to the standard linear case are (i) the expression of the invariant manifold in terms of co-energy variables and (ii) the stability proof via the definiteness of energy and dissipation matrices. To this end, the formulation of well-known LMI conditions for the stabilization of linear pH systems is adapted to the considered (dual) problem. The approach marks a preliminary step for the work on the nonlinear pH setting. Simulation and experimental results with a magnetic levitation device using only distance feedback illustrate the applicability of the approach.

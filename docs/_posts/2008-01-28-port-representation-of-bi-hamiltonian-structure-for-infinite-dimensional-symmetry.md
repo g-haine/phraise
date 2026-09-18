@@ -3,12 +3,12 @@ title: "Port-representation of bi-Hamiltonian structure for infinite-dimensional
 date: 2008-01-28 00:00:00 +0100
 permalink: port-representation-of-bi-hamiltonian-structure-for-infinite-dimensional-symmetry
 year: 2007
-authors: null Gou Nishida, null Masaki Yamakita, null Zhi-wei Luo
+authors: Gou Nishida, Masaki Yamakita, Zhi-wei Luo
 category: proceedings
 ---
  
 ## Authors
-[null Gou Nishida](authors/gou-nishida), [null Masaki Yamakita](authors/masaki-yamakita), [null Zhi-wei Luo](authors/zhi-wei-luo)
+[Gou Nishida](authors/gou-nishida), [Masaki Yamakita](authors/masaki-yamakita), [Zhi-wei Luo](authors/zhi-wei-luo)
  
 ## Abstract
 In this paper, the port-representation of conservation laws is extended to a wider class of symmetries, the infinite-dimensional symmetry expressed by the bi-Hamiltonian system. It is known from Noether's theorem that a conservation law is associated with an invariant property called a symmetry. In certain cases, the symmetry appears in a system as a hidden infinite-dimensional structure. Such a structure can be defined by using a recursive operator consisting of a Hamiltonian pair and is called a bi-Hamiltonian structure. The bi-Hamiltonian structure induces a hierarchical set of conservation laws. This concept can be used for reducing a system possessing a bi-Hamiltonian structure to simpler port-representations of the conservation laws. Finally, a boundary observer for symmetry destruction is shown.

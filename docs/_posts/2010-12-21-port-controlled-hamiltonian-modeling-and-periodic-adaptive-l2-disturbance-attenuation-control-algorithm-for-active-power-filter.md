@@ -3,12 +3,12 @@ title: "Port Controlled Hamiltonian modeling and periodic adaptive L2 disturbanc
 date: 2010-12-21 00:00:00 +0100
 permalink: port-controlled-hamiltonian-modeling-and-periodic-adaptive-l2-disturbance-attenuation-control-algorithm-for-active-power-filter
 year: 2010
-authors: null Zhang Zhenhuan, null Liu Huijin, null Lei Xi, null Xu Guizhi
+authors: Zhang Zhenhuan, Liu Huijin, Lei Xi, Xu Guizhi
 category: proceedings
 ---
  
 ## Authors
-[null Zhang Zhenhuan](authors/zhang-zhenhuan), [null Liu Huijin](authors/liu-huijin), [null Lei Xi](authors/lei-xi), [null Xu Guizhi](authors/null-xu-guizhi)
+[Zhang Zhenhuan](authors/zhang-zhenhuan), [Liu Huijin](authors/liu-huijin), [Lei Xi](authors/lei-xi), [Xu Guizhi](authors/xu-guizhi)
  
 ## Abstract
 The paper proposes a novel periodic adaptive L2 disturbance attenuation control algorithm for APF based on the averaged Port Controlled Hamiltonian (PCH) model. Based on the energy-dissipative property of APF state equations, the averaged PCH model in the d–q rotating frame with periodic disturbances, aperiodic disturbances and parametric perturbations is first established. The averaged PCH model of error system is further derived in terms of energy balance. Then, the influence of parametric perturbations can be converted into part of periodic disturbances and periodic adaptive L2 disturbance attenuation control algorithm is designed to suppress tracking errors resulted from parametric perturbations and disturbances: The periodic adaptive control compensates periodic disturbances, while the L2 disturbance attenuation can be used to stabilize the error system, ensure the convergence of periodic adaptive control and suppress other aperiodic disturbances. In addition, according to the demand in practical implementation, the proposed control algorithm is modified by ignoring the ripple component on dc-side capacitor reference voltage. Experimental results verify the validity of the proposed algorithm.

@@ -3,12 +3,12 @@ title: "An energy-based methodology for locating the source of forced oscillatio
 date: 2013-01-09 00:00:00 +0100
 permalink: an-energy-based-methodology-for-locating-the-source-of-forced-oscillations-in-power-systems
 year: 2012
-authors: null Li Ying, null Shen Chen, null Liu Feng
+authors: Li Ying, Shen Chen, Liu Feng
 category: proceedings
 ---
  
 ## Authors
-[null Li Ying](authors/li-ying), [null Shen Chen](authors/shen-chen), [null Liu Feng](authors/liu-feng)
+[Li Ying](authors/li-ying), [Shen Chen](authors/shen-chen), [Liu Feng](authors/liu-feng)
  
 ## Abstract
 Recently, several power grids of China came across low frequency oscillations which are difficult to explain by the traditional negative damping mechanism. Some researchers suggest that those oscillations be caused by external periodic disturbances according to the forced oscillation mechanism. It takes no doubt that the oscillation source location (means locating the disturbances) is imperative and decisive to eliminate such a kind of oscillations. This paper proposes a location methodology based on Energy Supply on Port derived from the Port-Controlled Hamiltonian theory. By calculating the energy injected to the network at corresponding ports, the oscillation sources can be effectively located, even in complicated systems containing various kinds of control devices such as governors and exciters. Different from the traditional methodology based on eigen-analysis, the proposed methodology is naturally decentralized without the dependency on global measurements. Case studies on the standard 4-machine 2-area system and the IEEE-118 bus system show the effectiveness and efficiency of the proposed methodology.

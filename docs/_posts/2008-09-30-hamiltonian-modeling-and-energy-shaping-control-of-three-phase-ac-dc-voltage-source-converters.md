@@ -3,12 +3,12 @@ title: "Hamiltonian modeling and energy-shaping control of three-phase ac/dc vol
 date: 2008-09-30 00:00:00 +0100
 permalink: hamiltonian-modeling-and-energy-shaping-control-of-three-phase-ac-dc-voltage-source-converters
 year: 2008
-authors: null Yuliang Tang, null Haisheng Yu, null Zongwei Zou
+authors: Yuliang Tang, Haisheng Yu, Zongwei Zou
 category: proceedings
 ---
  
 ## Authors
-[null Yuliang Tang](authors/yuliang-tang), [null Haisheng Yu](authors/haisheng-yu), [null Zongwei Zou](authors/zongwei-zou)
+[Yuliang Tang](authors/yuliang-tang), [Haisheng Yu](authors/haisheng-yu), [Zongwei Zou](authors/zongwei-zou)
  
 ## Abstract
 Not available

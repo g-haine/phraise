@@ -3,12 +3,12 @@ title: "The nonlinear control of Tapped inductor Buck converter based on Port-co
 date: 2011-12-16 00:00:00 +0100
 permalink: the-nonlinear-control-of-tapped-inductor-buck-converter-based-on-port-controlled-hamiltonian-model
 year: 2011
-authors: null Xiaojun Guo, null Chao Huang, null Yuzhen Xu, null Weiming Lin
+authors: Xiaojun Guo, Chao Huang, Yuzhen Xu, Weiming Lin
 category: proceedings
 ---
  
 ## Authors
-[null Xiaojun Guo](authors/xiaojun-guo), [null Chao Huang](authors/chao-huang), [null Yuzhen Xu](authors/yuzhen-xu), [null Weiming Lin](authors/weiming-lin)
+[Xiaojun Guo](authors/xiaojun-guo), [Chao Huang](authors/chao-huang), [Yuzhen Xu](authors/yuzhen-xu), [Weiming Lin](authors/weiming-lin)
  
 ## Abstract
 Tapped-inductor Buck (TI-Buck) converter has the advantage of appropriate duty cycle ratio during large voltage conversion ratio and is widely used in many cases. In order to improve the performance of TI-Buck converter, the control strategy of TI-Buck converter is presented in this paper based on the energy-shaping theory of interconnection and damping assignment passivity-based control (IDA-PBC) techniques. First, the Port-controlled Hamiltonian (PCH) model of TI-Buck converter is derived. With the model, the feedback controller of TI-Buck converter is given based on IDA-PBC techniques, and the stability of system equilibrium point is analyzed. Furthermore, an integrator is added in parallel with the passive output preserving stability to avoid steady state errors induced by the presence of noise and modeling errors. In order to verify the theory expectation, computer simulation is carried out. Simulation results show that the control scheme achieves a good regulation of output voltage and let the system have a quite strong robustness, and an enough control capability to the variability of input voltage and load.

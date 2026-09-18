@@ -3,12 +3,12 @@ title: "Electric Circuit Foundation of Structural Analysis for Power Systems fro
 date: 2019-10-09 00:00:00 +0100
 permalink: electric-circuit-foundation-of-structural-analysis-for-power-systems-from-a-network-perspective
 year: 2018
-authors: D. Sharma, null Guomin Ji, null Wanghao Fei, null Di Wu, P. Moses, J.N. Jiang
+authors: D. Sharma, Guomin Ji, Wanghao Fei, Di Wu, P. Moses, J.N. Jiang
 category: proceedings
 ---
  
 ## Authors
-[D. Sharma](authors/d-sharma), [null Guomin Ji](authors/null-guomin-ji), [null Wanghao Fei](authors/wanghao-fei), [null Di Wu](authors/di-wu), [P. Moses](authors/p-moses), [J.N. Jiang](authors/j-n-jiang)
+[D. Sharma](authors/d-sharma), [Guomin Ji](authors/guomin-ji), [Wanghao Fei](authors/wanghao-fei), [Di Wu](authors/di-wu), [P. Moses](authors/p-moses), [J.N. Jiang](authors/j-n-jiang)
  
 ## Abstract
 No  available

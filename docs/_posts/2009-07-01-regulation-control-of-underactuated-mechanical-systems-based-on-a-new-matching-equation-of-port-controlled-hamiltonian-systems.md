@@ -3,12 +3,12 @@ title: "Regulation control of underactuated mechanical systems based on a new ma
 date: 2009-07-01 00:00:00 +0100
 permalink: regulation-control-of-underactuated-mechanical-systems-based-on-a-new-matching-equation-of-port-controlled-hamiltonian-systems
 year: 2009
-authors: null Zheng Wang, P. Goldsmith, J. Gu
+authors: Zheng Wang, P. Goldsmith, J. Gu
 category: proceedings
 ---
  
 ## Authors
-[null Zheng Wang](authors/zheng-wang), [P. Goldsmith](authors/p-goldsmith), [J. Gu](authors/j-gu)
+[Zheng Wang](authors/zheng-wang), [P. Goldsmith](authors/p-goldsmith), [J. Gu](authors/j-gu)
  
 ## Abstract
 We consider the control of Port-Controlled Hamiltonian (PCH) systems, which are a generalization of Euler-Lagrange Systems. A new matching equation for PCH systems is developed so that Interconnection Damping Assignment Passivity-Based Control (IDA-PBC) can be extended to the regulation of some underactuated PCH systems whose kinetic energy must be modified. A simple underactuated mechanical system (the inertial wheel pendulum) is used to demonstrate the effectiveness of the proposed method..
