@@ -330,7 +330,7 @@ class WorkflowTests(unittest.TestCase):
         config = project_config(self.root)
         self.assertEqual(
             plan_project_author_mappings(config).before.unknown_names,
-            (),
+            0,
         )
 
         generate_posts(self.root, self.client)
