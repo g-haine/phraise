@@ -91,9 +91,15 @@ When you are finished, stop the server with `Ctrl+C`. Running the site locally
 is especially helpful after adding new DOIs to make sure the generated posts and
 pages render correctly before publishing them.
 
-### Bibliography concatenation (Python 3.12)
+### Legacy bibliography concatenation oracle (Python 3.12)
 
-`python docs/concatenate.py` also works from the repository root. No Python
+`concatenate.py` is retained during the BibReview migration for regression
+comparison only; it is not the effective merge step on `bibreview-migration`.
+Use `bibreview --config bibreview.yml merge` from the repository root, or
+`bibreview --config ../bibreview.yml merge` from `docs/`, for canonical
+project state.
+
+`python docs/concatenate.py` still works from the repository root. No Python
 packages, API keys or `.env` are needed for this step. Use `--root DIR` for a
 separate data directory; `--doi`, `--new-doi`, `--bad-doi`, `--biblio` and
 `--backup-dir` override paths relative to that root (absolute paths also work).
