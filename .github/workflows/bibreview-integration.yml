@@ -41,7 +41,9 @@ jobs:
         run: bibreview --config bibreview.yml render
 
       - name: Confirm BibReview render is a tracked-tree no-op
-        run: test -z "$(git status --porcelain)"
+        run: |
+          git diff --exit-code
+          git diff --cached --exit-code
 
       - name: Check search JavaScript syntax
         run: |
@@ -60,4 +62,6 @@ jobs:
           bundle exec jekyll build
 
       - name: Confirm tracked project state is unchanged
-        run: test -z "$(git status --porcelain)"
+        run: |
+          git diff --exit-code
+          git diff --cached --exit-code
