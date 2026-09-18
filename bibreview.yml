@@ -11,6 +11,15 @@ project:
   repository: https://github.com/g-haine/phraise
   contact:
     name: Ghislain Haine
+    email: ghislain.haine@isae.fr
+
+arxiv:
+  enabled: true
+  query: all:port AND all:Hamiltonian
+  max_results: 25
+  sort_by: lastUpdatedDate
+  sort_order: descending
+  output: docs/data/arxiv.json
 
 paths:
   bibliography: docs/assets/data/bibliography.json
