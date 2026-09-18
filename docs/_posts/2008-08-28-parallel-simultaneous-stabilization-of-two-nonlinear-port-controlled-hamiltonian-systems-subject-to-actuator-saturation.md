@@ -3,12 +3,12 @@ title: "Parallel simultaneous stabilization of two nonlinear Port-Controlled Ham
 date: 2008-08-28 00:00:00 +0100
 permalink: parallel-simultaneous-stabilization-of-two-nonlinear-port-controlled-hamiltonian-systems-subject-to-actuator-saturation
 year: 2008
-authors: null Wei Airong, null Wang Yuzhen
+authors: Wei Airong, Wang Yuzhen
 category: proceedings
 ---
  
 ## Authors
-[null Wei Airong](authors/null-wei-airong), [null Wang Yuzhen](authors/wang-yuzhen)
+[Wei Airong](authors/wei-airong), [Wang Yuzhen](authors/wang-yuzhen)
  
 ## Abstract
 This paper investigates the parallel simultaneous stabilization of two multi-input nonlinear port-controlled Hamiltonian (PCH) systems subject to actuator saturation, and proposes a method on the control design. At the same time, the paper establishes a new approach, called energy-based method, to the parallel simultaneous stabilization of two nonlinear affine systems with actuator saturation. Study of illustrative examples with simulations shows that the parallel simultaneous stabilization controller obtained in this paper works very well.

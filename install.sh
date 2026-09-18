@@ -16,4 +16,4 @@ else
   conda env create --name phraise --file "$script_dir/phraise.yml"
 fi
 printf '\nEnvironment ready. Run: conda activate phraise\n'
-printf 'Tests: python -m unittest discover -s "%s/docs/tests" -v\n' "$script_dir"
+printf 'Validate: bibreview --config "%s/bibreview.yml" validate\n' "$script_dir"

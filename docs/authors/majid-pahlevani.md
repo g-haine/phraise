@@ -7,7 +7,7 @@ permalink: /authors/majid-pahlevani
 <p id='info-authors'>Alternative author names: Majid Pahlevani.</p>
 <hr />
 <ul class="post-list">
-<li><span class='post-meta'>2014 -- Majid Pahlevani, null Shangzhi Pan, Jonathan Mash, Praveen Jain</span><h3><a class='post-link' href="{{ site.baseurl }}/port-controlled-hamiltonian-pch-based-control-approach-for-wind-energy-conversion-systems">Port-Controlled Hamiltonian (PCH)-based control approach for wind energy conversion systems</a></h3></li>
+<li><span class='post-meta'>2014 -- Majid Pahlevani, Shangzhi Pan, Jonathan Mash, Praveen Jain</span><h3><a class='post-link' href="{{ site.baseurl }}/port-controlled-hamiltonian-pch-based-control-approach-for-wind-energy-conversion-systems">Port-Controlled Hamiltonian (PCH)-based control approach for wind energy conversion systems</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

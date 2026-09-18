@@ -3,12 +3,12 @@ title: "Formal Distributed Port-Hamiltonian Representation of Field Equations"
 date: 2006-10-04 00:00:00 +0100
 permalink: formal-distributed-port-hamiltonian-representation-of-field-equations
 year: 2006
-authors: null Gou Nishida, M. Yamakita
+authors: Gou Nishida, M. Yamakita
 category: proceedings
 ---
  
 ## Authors
-[null Gou Nishida](authors/gou-nishida), [M. Yamakita](authors/masaki-yamakita)
+[Gou Nishida](authors/gou-nishida), [M. Yamakita](authors/masaki-yamakita)
  
 ## Abstract
 The purpose of this study is to establish a unified modeling procedure of distributed port-Hamiltonian formulations for field equations. First, higher order Stokes-Dirac structures on variational complexes of jet bundles are introduced. Next, a one-to-one correspondence between Euler-Lagrange equations and distributed port-Hamiltonian systems is presented. Finally, in the case that the Lagrangian is given, the concrete transformation procedure for distributed port-Hamiltonian systems is explained by using two examples.

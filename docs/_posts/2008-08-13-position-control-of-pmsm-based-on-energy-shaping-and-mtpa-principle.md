@@ -3,12 +3,12 @@ title: "Position control of PMSM based on energy-shaping and MTPA principle"
 date: 2008-08-13 00:00:00 +0100
 permalink: position-control-of-pmsm-based-on-energy-shaping-and-mtpa-principle
 year: 2008
-authors: null Haisheng Yu, null Jun Hou, null Zongwei Zou
+authors: Haisheng Yu, Jun Hou, Zongwei Zou
 category: proceedings
 ---
  
 ## Authors
-[null Haisheng Yu](authors/haisheng-yu), [null Jun Hou](authors/jun-hou), [null Zongwei Zou](authors/zongwei-zou)
+[Haisheng Yu](authors/haisheng-yu), [Jun Hou](authors/jun-hou), [Zongwei Zou](authors/zongwei-zou)
  
 ## Abstract
 The energy-shaping and maximum torque per ampere (MTPA) principle is used to develop the model and position control of permanent magnet synchronous motor (PMSM) in this paper. Firstly, based on the port-controlled Hamiltonian (PCH) systems theory, a PCH position control model of PMSM is established. Secondly, using energy-shaping and MTPA method, the control strategy of PMSM is presented when load torque is known and unknown. The control problem of the PMSM is reduced to the solution of a partial differential equation. The partial differential equation can be transformed into a set of general differential equation by assigning desired interconnection and damping matrix. Finally, the equilibrium stability is also analyzed. The simulation results show that the proposed scheme exhibits good position control and load disturbances attenuation performances.

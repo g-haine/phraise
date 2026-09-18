@@ -3,12 +3,12 @@ title: "Energy-Shaping Control of PM Synchronous Motor Based on Hamiltonian Syst
 date: 2008-02-06 00:00:00 +0100
 permalink: energy-shaping-control-of-pm-synchronous-motor-based-on-hamiltonian-system-theory
 year: 2005
-authors: null Haisheng Yu, null Hailiang Wang, null Keyou Zhao
+authors: Haisheng Yu, Hailiang Wang, Keyou Zhao
 category: proceedings
 ---
  
 ## Authors
-[null Haisheng Yu](authors/haisheng-yu), [null Hailiang Wang](authors/hailiang-wang), [null Keyou Zhao](authors/keyou-zhao)
+[Haisheng Yu](authors/haisheng-yu), [Hailiang Wang](authors/hailiang-wang), [Keyou Zhao](authors/keyou-zhao)
  
 ## Abstract
 A novel speed control method of permanent magnet synchronous motor (PMSM) is developed when load torque is known and unknown. A PCH model of PMSM is established based on the theory of port-controlled Hamiltonian (PCH) systems with dissipation. The nonlinear controller is designed by the way of energy shaping method. The load torque observer is added to estimate the unknown load torque. The equilibrium stability of the closed-loop system is also verified. The simulation results show that the proposed scheme exhibits good performances in presence of load disturbances

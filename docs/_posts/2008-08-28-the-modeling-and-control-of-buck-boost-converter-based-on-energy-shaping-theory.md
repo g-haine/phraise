@@ -3,12 +3,12 @@ title: "The modeling and control of Buck-Boost converter based on energy-shaping
 date: 2008-08-28 00:00:00 +0100
 permalink: the-modeling-and-control-of-buck-boost-converter-based-on-energy-shaping-theory
 year: 2008
-authors: null Yong Wang, null Haisheng Yu, null Jinpeng Yu
+authors: Yong Wang, Haisheng Yu, Jinpeng Yu
 category: proceedings
 ---
  
 ## Authors
-[null Yong Wang](authors/yong-wang), [null Haisheng Yu](authors/haisheng-yu), [null Jinpeng Yu](authors/jinpeng-yu)
+[Yong Wang](authors/yong-wang), [Haisheng Yu](authors/haisheng-yu), [Jinpeng Yu](authors/jinpeng-yu)
  
 ## Abstract
 The model and PWM controller of Buck-Boost converter are presented based on a novel energy-shaping theory. Firstly, a port-controlled Hamiltonian (PCH) model of Buck-Boost converter and its suitable state space averaging (SSA) model are established. Secondly, using the energy-shaping theory of interconnection and damping assignment passivity-based control (IDA-PBC) techniques, the feedback control theory of Buck-Boost converter is given. Then the desired equilibrium point of the system is obtained, and the stability of equilibrium point is analyzed. Finally the feedback controller is developed using energy-shaping theory for the SSA model of the PCH system. Furthermore, an integrator is added around the passive output preserving stability to avoid steady state errors induced by the presence of noise and modeling errors. Simulation results for the full system confirm the correctness and efficiency of the obtained controller.

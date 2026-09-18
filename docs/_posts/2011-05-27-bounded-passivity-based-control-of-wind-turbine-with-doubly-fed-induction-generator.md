@@ -3,12 +3,12 @@ title: "Bounded passivity-based control of wind turbine with doubly fed inductio
 date: 2011-05-27 00:00:00 +0100
 permalink: bounded-passivity-based-control-of-wind-turbine-with-doubly-fed-induction-generator
 year: 2011
-authors: null Bing Wang, null Yanping Qian, null Jin Zhu
+authors: Bing Wang, Yanping Qian, Jin Zhu
 category: proceedings
 ---
  
 ## Authors
-[null Bing Wang](authors/bing-wang), [null Yanping Qian](authors/yanping-qian), [null Jin Zhu](authors/jin-zhu)
+[Bing Wang](authors/bing-wang), [Yanping Qian](authors/yanping-qian), [Jin Zhu](authors/jin-zhu)
  
 ## Abstract
 In this paper, the bounded passivity-based controller is proposed for the wind turbine with doubly fed induction generator (DFIG), such that the closed-loop system achieves the asymptotically stability under the arbitrarily bounded control. At first, the Hamiltonian energy function is constructed according to the system model. Then, the model of wind turbine is transformed into the port-controlled Hamiltonian (PCH) system. Next, the bounded passivity-based controller is designed based on passivity theorems. Finally, in order to illustrate the effectiveness of the bounded passivity-based control, the simulations are performed.

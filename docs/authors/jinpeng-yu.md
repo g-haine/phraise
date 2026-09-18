@@ -4,7 +4,7 @@ permalink: /authors/jinpeng-yu
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Jinpeng Yu, null Jinpeng Yu.</p>
+<p id='info-authors'>Alternative author names: Jinpeng Yu.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Tao Xu, Haisheng Yu, Jinpeng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/a-novel-partial-decoupling-control-for-three-tank-liquid-level-system">A Novel Partial Decoupling Control for Three-Tank Liquid Level System</a></h3></li>
@@ -22,8 +22,8 @@ permalink: /authors/jinpeng-yu
 <li><span class='post-meta'>2012 -- Haisheng Yu, Zhaobo Teng, Jinpeng Yu, Yuanqiang Zang</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-and-passivity-based-control-of-three-phase-pwm-rectifiers">Energy-shaping and passivity-based control of three-phase PWM rectifiers</a></h3></li>
 <li><span class='post-meta'>2013 -- Haisheng Yu, Jinpeng Yu, Jin Liu, Qiang Song</span><h3><a class='post-link' href="{{ site.baseurl }}/nonlinear-control-of-induction-motors-based-on-state-error-pch-and-energy-shaping-principle">Nonlinear control of induction motors based on state error PCH and energy-shaping principle</a></h3></li>
 <li><span class='post-meta'>2011 -- Haisheng Yu, Xudong Liu, Jinpeng Yu, Qiang Song</span><h3><a class='post-link' href="{{ site.baseurl }}/position-tracking-control-of-pmsm-based-on-state-error-pch-and-mtpa-principle">Position tracking control of PMSM based on state error PCH and MTPA principle</a></h3></li>
-<li><span class='post-meta'>2010 -- Haisheng Yu, null Shanshan Yu, null Jin Liu, null Jinpeng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/l2-gain-disturbance-attenuation-of-pmsm-based-on-hamiltonian-systems-control-theory">L2 gain disturbance attenuation of PMSM based on Hamiltonian systems control theory</a></h3></li>
-<li><span class='post-meta'>2008 -- null Yong Wang, null Haisheng Yu, null Jinpeng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/the-modeling-and-control-of-buck-boost-converter-based-on-energy-shaping-theory">The modeling and control of Buck-Boost converter based on energy-shaping theory</a></h3></li>
+<li><span class='post-meta'>2010 -- Haisheng Yu, Shanshan Yu, Jin Liu, Jinpeng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/l2-gain-disturbance-attenuation-of-pmsm-based-on-hamiltonian-systems-control-theory">L2 gain disturbance attenuation of PMSM based on Hamiltonian systems control theory</a></h3></li>
+<li><span class='post-meta'>2008 -- Yong Wang, Haisheng Yu, Jinpeng Yu</span><h3><a class='post-link' href="{{ site.baseurl }}/the-modeling-and-control-of-buck-boost-converter-based-on-energy-shaping-theory">The modeling and control of Buck-Boost converter based on energy-shaping theory</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

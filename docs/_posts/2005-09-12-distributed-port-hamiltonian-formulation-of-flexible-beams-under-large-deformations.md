@@ -3,12 +3,12 @@ title: "Distributed port hamiltonian formulation of flexible beams under large d
 date: 2005-09-12 00:00:00 +0100
 permalink: distributed-port-hamiltonian-formulation-of-flexible-beams-under-large-deformations
 year: 2005
-authors: null Gou Nishida, M. Yamakita
+authors: Gou Nishida, M. Yamakita
 category: proceedings
 ---
  
 ## Authors
-[null Gou Nishida](authors/gou-nishida), [M. Yamakita](authors/masaki-yamakita)
+[Gou Nishida](authors/gou-nishida), [M. Yamakita](authors/masaki-yamakita)
  
 ## Abstract
 In this paper, a formulation of flexible beams under large deformations for distributed parameter port Hamiltonian systems is presented. This model is one example of systems that have complex energy variables. For such a model, a unified modeling method is introduced with multivariable representation. First, a Stokes-Dirac structure is related to the calculus of variations by using a jet bundle formalism. Next, the flexible beams model is represented as the port Hamiltonian system. Finally, the model is compared to a conventional model and two reduced models

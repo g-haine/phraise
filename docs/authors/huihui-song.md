@@ -4,7 +4,7 @@ permalink: /authors/huihui-song
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Huihui Song, H.H. Song, null Huihui Song.</p>
+<p id='info-authors'>Alternative author names: Huihui Song, H.H. Song.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2025 -- Manyuan Ye, Chaodong Li, Junda Zhang, Huihui Song</span><h3><a class='post-link' href="{{ site.baseurl }}/unified-energy-shaping-control-strategy-for-grid-connected-photovoltaic-systems">Unified energy shaping control strategy for grid-connected photovoltaic systems</a></h3></li>
@@ -13,7 +13,7 @@ permalink: /authors/huihui-song
 <li><span class='post-meta'>2013 -- H.H. Song, Y.B. Qu</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-excitation-control-of-doubly-fed-induction-wind-generator-for-optimum-wind-energy-capture">Energy‐based excitation control of doubly‐fed induction wind generator for optimum wind energy capture</a></h3></li>
 <li><span class='post-meta'>2011 -- Y.B. Qu, H.H. Song</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-coordinated-control-of-wind-energy-conversion-system-with-dfig">Energy-based coordinated control of wind energy conversion system with DFIG</a></h3></li>
 <li><span class='post-meta'>2011 -- H.H. Song, Y.B. Qu</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-modelling-and-control-of-wind-energy-conversion-system-with-dfig">Energy-based modelling and control of wind energy conversion system with DFIG</a></h3></li>
-<li><span class='post-meta'>2010 -- null Huihui Song, null Yanbin Qu</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-controller-for-machine-side-converter-of-doubly-fed-wind-generator">Energy-based controller for machine-side converter of doubly-fed wind generator</a></h3></li>
+<li><span class='post-meta'>2010 -- Huihui Song, Yanbin Qu</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-controller-for-machine-side-converter-of-doubly-fed-wind-generator">Energy-based controller for machine-side converter of doubly-fed wind generator</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

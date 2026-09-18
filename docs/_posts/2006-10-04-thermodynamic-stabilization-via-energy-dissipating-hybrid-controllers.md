@@ -3,12 +3,12 @@ title: "Thermodynamic Stabilization via Energy Dissipating Hybrid Controllers"
 date: 2006-10-04 00:00:00 +0100
 permalink: thermodynamic-stabilization-via-energy-dissipating-hybrid-controllers
 year: 2006
-authors: W.M. Haddad, V. Chellaboina, null Qing Hui, S.G. Nersesov
+authors: W.M. Haddad, V. Chellaboina, Qing Hui, S.G. Nersesov
 category: proceedings
 ---
  
 ## Authors
-[W.M. Haddad](authors/wassim-m-haddad), [V. Chellaboina](authors/vijaysekhar-chellaboina), [null Qing Hui](authors/qing-hui), [S.G. Nersesov](authors/sergey-g-nersesov)
+[W.M. Haddad](authors/wassim-m-haddad), [V. Chellaboina](authors/vijaysekhar-chellaboina), [Qing Hui](authors/qing-hui), [S.G. Nersesov](authors/sergey-g-nersesov)
  
 ## Abstract
 A novel class of fixed-order, energy-based hybrid controllers is proposed as a means for achieving enhanced energy dissipation in Euler-Lagrange, port-controlled Hamiltonian, and lossless dynamical systems. These dynamic controllers combine a logical switching architecture with continuous dynamics to guarantee that the system plant energy is strictly decreasing across switchings. The general framework leads to closed-loop systems described by impulsive differential equations. In addition, we construct hybrid dynamic controllers that guarantee that the closed-loop system is consistent with basic thermodynamic principles. In particular, the existence of an entropy function for the closed-loop system is established that satisfies a hybrid Clausius-type inequality. Special cases of energy-based hybrid controllers involving state-dependent switching are described.

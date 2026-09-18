@@ -3,8 +3,8 @@ class PhraiseSearch {
         this.worker = new Worker('../assets/js/search-worker.js');
         this.isDataLoaded = false;
         this.pendingQueries = [];
-        this.cacheKey = 'phraise_biblio_cache';
-        this.cacheVersion = '1.0';
+        this.cacheKey = 'phraise_bibliography_cache';
+        this.cacheVersion = '2.0';
         this.useCache = true; // Flag pour contrôler l'usage du cache
         this.localData = null; // Stockage en mémoire pour fallback
         
@@ -69,13 +69,19 @@ class PhraiseSearch {
 
     async loadFromServer() {
         try {
-            const response = await fetch('../assets/data/biblio.json', {
+            const response = await fetch('../assets/data/bibliography.json', {
                 headers: { 'Cache-Control': 'no-cache' }
             });
             
             if (!response.ok) throw new Error('HTTP error ' + response.status);
             
-            const data = await response.json();
+            const rawData = await response.json();
+            if (!rawData || !Array.isArray(rawData.publications)) {
+                throw new Error('Invalid BibReview bibliography document');
+            }
+            const data = rawData.publications.map(
+                item => this.normalizePublication(item)
+            );
             this.localData = data; // Toujours stocker en mémoire
             
             // Sauvegarder en cache seulement si possible
@@ -98,6 +104,29 @@ class PhraiseSearch {
             console.error('Server loading failed:', error);
             throw error;
         }
+    }
+
+    normalizePublication(item) {
+        const authors = Array.isArray(item.authors)
+            ? item.authors.map(author => ({
+                given: author.given || '',
+                family: author.family || '',
+                literal: author.literal || ''
+            }))
+            : [];
+
+        return {
+            title: item.title || '',
+            authors: authors,
+            abstract: item.abstract || '',
+            journal: item.container_title || '',
+            year: item.publication_year || '',
+            keywords: Array.isArray(item.keywords)
+                ? item.keywords.join('; ')
+                : (item.keywords || ''),
+            doi: item.identifiers?.doi || '',
+            permalink: item.permalink || ''
+        };
     }
 
     getCachedData() {
@@ -256,9 +285,10 @@ class PhraiseSearch {
     }
 
     checkAuthors(authors, term) {
-        return authors?.some(author => 
-            author.family?.toLowerCase().includes(term) || 
-            author.given?.toLowerCase().includes(term)
+        return authors?.some(author =>
+            author.family?.toLowerCase().includes(term) ||
+            author.given?.toLowerCase().includes(term) ||
+            author.literal?.toLowerCase().includes(term)
         );
     }
 
@@ -270,7 +300,7 @@ class PhraiseSearch {
             item.keywords,
             item.year?.toString(),
             item.doi,
-            ...(item.authors?.map(author => `${author.given} ${author.family}`) || [])
+            ...(item.authors?.map(author => `${author.given} ${author.family} ${author.literal || ''}`) || [])
         ];
         
         return fields.filter(Boolean).join(' ');
@@ -383,6 +413,9 @@ class PhraiseSearch {
 
     formatAuthors(authors) {
         return authors.map(author => {
+            if (author.literal) {
+                return author.literal;
+            }
             if (author.given && author.family) {
                 return `${author.given} ${author.family}`;
             }

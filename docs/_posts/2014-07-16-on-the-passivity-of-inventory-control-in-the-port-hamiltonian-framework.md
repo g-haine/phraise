@@ -3,12 +3,12 @@ title: "On the passivity of inventory control in the Port Hamiltonian framework"
 date: 2014-07-16 00:00:00 +0100
 permalink: on-the-passivity-of-inventory-control-in-the-port-hamiltonian-framework
 year: 2013
-authors: null Ngoc-Ha Hoang, null Du Juan, B. Erik Ydstie
+authors: Ngoc-Ha Hoang, Du Juan, B. Erik Ydstie
 category: proceedings
 ---
  
 ## Authors
-[null Ngoc-Ha Hoang](authors/ngoc-ha-hoang), [null Du Juan](authors/du-juan), [B. Erik Ydstie](authors/b-erik-ydstie)
+[Ngoc-Ha Hoang](authors/ngoc-ha-hoang), [Du Juan](authors/du-juan), [B. Erik Ydstie](authors/b-erik-ydstie)
  
 ## Abstract
 This paper proposes an extensive connection between passivity based control and inventory control in the Port Hamiltonian framework to stabilize a non-isothermal reactor. This homogeneous multi-reaction system is described by ordinary differential equations with affine inputs. Numerical simulations for the first order reaction system with multiple steady states support the theoretical development. A generalization to chemical reaction networks without specifying reaction kinetics is also presented.

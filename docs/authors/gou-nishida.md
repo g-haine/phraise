@@ -4,7 +4,7 @@ permalink: /authors/gou-nishida
 ---
 
 <h3 id="number-posts">There are ... items referenced.</h3>
-<p id='info-authors'>Alternative author names: Gou Nishida, Gou NISHIDA, G. Nishida, null Gou Nishida.</p>
+<p id='info-authors'>Alternative author names: Gou Nishida, Gou NISHIDA, G. Nishida.</p>
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2019 -- Gou Nishida, Bernhard Maschke</span><h3><a class='post-link' href="{{ site.baseurl }}/stokes-dirac-operator-for-laplacian">Stokes-Dirac operator for Laplacian</a></h3></li>
@@ -28,9 +28,9 @@ permalink: /authors/gou-nishida
 <li><span class='post-meta'>2009 -- Kentaro Takagi, Kinji Asaka, Gou Nishida, Yoshihiro Nakabo, Zhi Wei Luo</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-impedance-model-of-ionic-polymer-metal-composite-actuators">Distributed Impedance Model of Ionic Polymer-Metal Composite Actuators</a></h3></li>
 <li><span class='post-meta'>2008 -- Gou Nishida, Bernhard Maschke, Masaki Yamakita</span><h3><a class='post-link' href="{{ site.baseurl }}/topological-geometry-and-control-for-distributed-port-hamiltonian-systems-with-non-integrable-structures">Topological geometry and control for distributed port-Hamiltonian systems with non-integrable structures</a></h3></li>
 <li><span class='post-meta'>2004 -- G. Nishida, M. Yamakita</span><h3><a class='post-link' href="{{ site.baseurl }}/disturbance-structure-decomposition-for-distributed-parameter-port-hamiltonian-systems">Disturbance structure decomposition for distributed-parameter port-Hamiltonian systems</a></h3></li>
-<li><span class='post-meta'>2007 -- null Gou Nishida, null Masaki Yamakita, null Zhi-wei Luo</span><h3><a class='post-link' href="{{ site.baseurl }}/port-representation-of-bi-hamiltonian-structure-for-infinite-dimensional-symmetry">Port-representation of bi-Hamiltonian structure for infinite-dimensional symmetry</a></h3></li>
-<li><span class='post-meta'>2006 -- null Gou Nishida, M. Yamakita</span><h3><a class='post-link' href="{{ site.baseurl }}/formal-distributed-port-hamiltonian-representation-of-field-equations">Formal Distributed Port-Hamiltonian Representation of Field Equations</a></h3></li>
-<li><span class='post-meta'>2005 -- null Gou Nishida, M. Yamakita</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-port-hamiltonian-formulation-of-flexible-beams-under-large-deformations">Distributed port hamiltonian formulation of flexible beams under large deformations</a></h3></li>
+<li><span class='post-meta'>2007 -- Gou Nishida, Masaki Yamakita, Zhi-wei Luo</span><h3><a class='post-link' href="{{ site.baseurl }}/port-representation-of-bi-hamiltonian-structure-for-infinite-dimensional-symmetry">Port-representation of bi-Hamiltonian structure for infinite-dimensional symmetry</a></h3></li>
+<li><span class='post-meta'>2006 -- Gou Nishida, M. Yamakita</span><h3><a class='post-link' href="{{ site.baseurl }}/formal-distributed-port-hamiltonian-representation-of-field-equations">Formal Distributed Port-Hamiltonian Representation of Field Equations</a></h3></li>
+<li><span class='post-meta'>2005 -- Gou Nishida, M. Yamakita</span><h3><a class='post-link' href="{{ site.baseurl }}/distributed-port-hamiltonian-formulation-of-flexible-beams-under-large-deformations">Distributed port hamiltonian formulation of flexible beams under large deformations</a></h3></li>
 
 </ul>
 {% include count-posts.html %}

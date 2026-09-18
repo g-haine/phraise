@@ -3,12 +3,12 @@ title: "Finite-time stabilization of Port-Controlled Hamiltonian systems with ap
 date: 2008-08-12 00:00:00 +0100
 permalink: finite-time-stabilization-of-port-controlled-hamiltonian-systems-with-application-to-nonlinear-affine-systems
 year: 2008
-authors: null Yuzhen Wang, Gang Feng
+authors: Yuzhen Wang, Gang Feng
 category: proceedings
 ---
  
 ## Authors
-[null Yuzhen Wang](authors/yuzhen-wang), [Gang Feng](authors/gang-feng)
+[Yuzhen Wang](authors/yuzhen-wang), [Gang Feng](authors/gang-feng)
  
 ## Abstract
 The finite-time stabilization of nonlinear Port-Controlled Hamiltonian (PCH) systems is investigated in this paper, and a number of approaches to the finite-time control design are proposed. Based on a finite-time stability criterion and the so-called "energy shaping plus damping injection" technique, the continuous finite-time stabilization problem is studied for the PCH systems, and several global stabilization results are obtained. Via Hamiltonian realization, the results obtained for the Hamiltonian systems are applied to investigate continuous finite-time stabilization of nonlinear affine systems, and several global control design results are presented. Study on several examples shows that the control design approaches developed in this paper work very well.

@@ -3,12 +3,12 @@ title: "Interconnection and damping assignment passivity-based excitation contro
 date: 2010-07-12 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-passivity-based-excitation-control-of-power-systems
 year: 2010
-authors: null Jianyong Li, null Yanhong Liu, null Chunwen Li, null Lijun Zhang
+authors: Jianyong Li, Yanhong Liu, Chunwen Li, Lijun Zhang
 category: proceedings
 ---
  
 ## Authors
-[null Jianyong Li](authors/jianyong-li), [null Yanhong Liu](authors/yanhong-liu), [null Chunwen Li](authors/chunwen-li), [null Lijun Zhang](authors/lijun-zhang)
+[Jianyong Li](authors/jianyong-li), [Yanhong Liu](authors/yanhong-liu), [Chunwen Li](authors/chunwen-li), [Lijun Zhang](authors/lijun-zhang)
  
 ## Abstract
 Interconnection and damping assignment passivity-based control (IDA-PBC) is a technique that regulates the behavior of nonlinear systems by assigning a desired port-controlled Hamiltonian structure. In this paper, based on the original dissipative Hamiltonian realization of a single-machine-infinite-bus power system, we design a controller to re-formulate the interconnection matrix and stabilize the power system. Simulation result verifies the effectiveness of the proposed control scheme.
