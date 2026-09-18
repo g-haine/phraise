@@ -2,14 +2,14 @@
 
 BibReview owns the generic site model, Jekyll renderers, and safe persistence
 mechanism.  This module supplies only PHRAISE presentation policy and the
-temporary compatibility conversion from PHRAISE's legacy bibliography records.
+PHRAISE's explicit presentation policy around BibReview's canonical model.
 """
 from __future__ import annotations
 
 from collections.abc import Iterable, Mapping
 from pathlib import Path
 
-from bibreview.compat import legacy_record_to_publication
+from bibreview.model import Publication
 from bibreview.site import (
     JekyllIndexRenderOptions,
     JekyllPublicationRenderOptions,
@@ -59,22 +59,19 @@ PHRAISE_PUBLICATION_OPTIONS = JekyllPublicationRenderOptions(
 )
 
 
-def _site_model(records: Iterable[Mapping[str, object]], author_mappings):
-    """Build BibReview site data from PHRAISE's temporary legacy projection."""
-    publications = tuple(
-        legacy_record_to_publication(record).publication
-        for record in records
-    )
-    return build_site_model(publications, author_mappings)
+def build_phraise_site_model(
+    publications: Iterable[Publication],
+    author_mappings: Mapping[str, object],
+):
+    """Build validated site data directly from canonical BibReview publications."""
+    return build_site_model(tuple(publications), author_mappings)
 
 
 def render_publication_artifacts(
-    records: Iterable[Mapping[str, object]],
-    author_mappings,
+    model,
     bibtex_by_permalink: Mapping[str, str],
 ) -> tuple[RenderedArtifact, ...]:
-    """Render all PHRAISE publication posts through BibReview."""
-    model = _site_model(records, author_mappings)
+    """Render all PHRAISE publication posts from a validated BibReview site model."""
     bibtex_by_id: dict[str, str] = {}
     for publication in model.publications:
         try:
@@ -90,12 +87,8 @@ def render_publication_artifacts(
     )
 
 
-def render_index_artifacts(
-    records: Iterable[Mapping[str, object]],
-    author_mappings,
-) -> tuple[RenderedArtifact, ...]:
-    """Render all PHRAISE author/year pages through BibReview."""
-    model = _site_model(records, author_mappings)
+def render_index_artifacts(model) -> tuple[RenderedArtifact, ...]:
+    """Render all PHRAISE author/year pages from a validated BibReview site model."""
     return render_jekyll_index_pages(model, options=PHRAISE_INDEX_OPTIONS)
 
 
