@@ -1,4 +1,8 @@
-"""Collect new DOI metadata and BibTeX without modifying files during fetching."""
+"""Legacy PHRAISE collection oracle retained for migration regression tests.
+
+The effective getData.py path uses phraise_tools.canonical and BibReview's
+canonical collected.json staging.
+"""
 from pathlib import Path
 import re
 
