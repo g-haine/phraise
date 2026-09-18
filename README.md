@@ -10,6 +10,9 @@ site rendering; PHRAISE supplies the subject-specific configuration, curated
 data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
+PHRAISE currently pins **BibReview v1.0.0** for reproducible maintenance and
+continuous integration.
+
 ## Contributing new DOIs
 
 Contributions are welcome in the form of DOI submissions:
@@ -76,6 +79,21 @@ use it without duplicating the source of truth.
 The canonical database is also exposed by the website and used directly by the
 search interface.
 
+## Repository governance
+
+`main` is the production branch for the published PHRAISE site. Changes to
+bibliographic state, generated site artifacts, configuration, workflows, or
+presentation are intended to reach `main` through pull requests.
+
+The `BibReview integration` workflow validates pull requests targeting
+`main`. It checks the BibReview configuration and version, canonical state,
+author mappings, deterministic rendering, search JavaScript, the complete
+Jekyll build, and the displayed bibliography update date.
+
+The scheduled arXiv workflow never writes directly to `main`. When the cache
+changes, it creates or updates the `automation/update-arxiv` branch and opens
+a pull request for review.
+
 ## Maintenance environment
 
 Create or update the maintenance environment from the repository root:
@@ -85,7 +103,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and the pinned BibReview engine.
+The Conda environment contains Python 3.12 and **BibReview v1.0.0**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -164,6 +182,9 @@ For a read-only preview of any supported mutation, use the global
 bibreview --config bibreview.yml --dry-run render
 ```
 
+After a maintenance cycle, review the complete Git diff and submit the resulting
+state and generated artifacts through a pull request.
+
 ## Local website preview
 
 PHRAISE uses Jekyll for presentation. Install Ruby and Bundler, then:
@@ -185,9 +206,11 @@ They are display-only links managed by BibReview's optional arXiv module:
 bibreview --config bibreview.yml arxiv
 ```
 
-The scheduled GitHub workflow runs this command and updates only
-`docs/data/arxiv.json`. The module does not create canonical `Publication`
-objects and does not affect `bibliography.json.metadata.last_update`.
+The scheduled GitHub workflow runs this command and changes only
+`docs/data/arxiv.json`. If the cache changes, the workflow opens or updates a
+pull request instead of pushing to `main`. The module does not create canonical
+`Publication` objects and does not affect
+`bibliography.json.metadata.last_update`.
 
 This separation is why the bibliography date comes from
 `bibliography.json.metadata.last_update` rather than the Jekyll build time.
@@ -196,6 +219,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
+- exact BibReview v1.0.0 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
@@ -203,6 +227,7 @@ The PHRAISE integration workflow verifies the current architecture directly:
 - clean tracked tree after rendering;
 - JavaScript syntax for the canonical bibliography search;
 - complete Jekyll build;
+- displayed canonical bibliography update date;
 - clean tracked tree after the build.
 
 There is no separate PHRAISE bibliographic Python engine: reusable
