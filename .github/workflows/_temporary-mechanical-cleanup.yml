@@ -1,0 +1,232 @@
+name: Mechanical bibliography cleanup (temporary)
+
+on:
+  push:
+    branches:
+      - cleanup/bibliography-mechanical-pass1
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out cleanup branch
+        uses: actions/checkout@v4
+        with:
+          ref: cleanup/bibliography-mechanical-pass1
+
+      - name: Apply deterministic bibliography cleanup
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("docs/assets/data/bibliography.json")
+          document = json.loads(path.read_text(encoding="utf-8"))
+          publications = document["publications"]
+
+          placeholders = {
+              "No  available": 62,
+              "No abstract available": 24,
+              "Not available": 24,
+          }
+          dash_translation = str.maketrans({
+              "\u2010": "-",
+              "\u2011": "-",
+              "\u2012": "-",
+              "\u2013": "-",
+              "\u2014": "-",
+              "\u2212": "-",
+          })
+
+          before_placeholder_counts = {value: 0 for value in placeholders}
+          before_reference_count = 0
+          before_empty_references = 0
+          before_doi_only_references = 0
+          before_unicode_doi_references = 0
+          before_trimmed_fields = 0
+
+          for publication in publications:
+              abstract = publication.get("abstract")
+              if abstract in before_placeholder_counts:
+                  before_placeholder_counts[abstract] += 1
+
+              for value in publication.values():
+                  if isinstance(value, str) and value.strip() != value:
+                      before_trimmed_fields += 1
+
+              for reference in publication.get("references", []):
+                  before_reference_count += 1
+                  identifiers = reference.get("identifiers") or {}
+                  citation = reference.get("citation", "")
+                  if citation == "" and not identifiers:
+                      before_empty_references += 1
+                  if citation == "" and identifiers.get("doi"):
+                      before_doi_only_references += 1
+                  doi = identifiers.get("doi")
+                  if isinstance(doi, str) and doi.translate(dash_translation) != doi:
+                      before_unicode_doi_references += 1
+
+          expected = {
+              "publications": 2349,
+              "references": 55793,
+              "empty_references": 2102,
+              "doi_only_references": 8,
+              "unicode_doi_references": 13,
+              "trimmed_fields": 55,
+          }
+          observed = {
+              "publications": len(publications),
+              "references": before_reference_count,
+              "empty_references": before_empty_references,
+              "doi_only_references": before_doi_only_references,
+              "unicode_doi_references": before_unicode_doi_references,
+              "trimmed_fields": before_trimmed_fields,
+          }
+          if observed != expected:
+              raise SystemExit(f"Unexpected pre-cleanup state: {observed!r}")
+          if before_placeholder_counts != placeholders:
+              raise SystemExit(
+                  f"Unexpected abstract placeholders: {before_placeholder_counts!r}"
+              )
+
+          removed_references = 0
+          normalized_dois = 0
+          stripped_fields = 0
+          cleared_abstracts = 0
+
+          for publication in publications:
+              for key, value in list(publication.items()):
+                  if isinstance(value, str):
+                      cleaned = value.strip()
+                      if cleaned != value:
+                          publication[key] = cleaned
+                          stripped_fields += 1
+
+              if publication.get("abstract") in placeholders:
+                  publication["abstract"] = ""
+                  cleared_abstracts += 1
+
+              cleaned_references = []
+              for reference in publication.get("references", []):
+                  identifiers = reference.get("identifiers") or {}
+                  citation = reference.get("citation", "")
+
+                  if citation == "" and not identifiers:
+                      removed_references += 1
+                      continue
+
+                  doi = identifiers.get("doi")
+                  if isinstance(doi, str):
+                      normalized = doi.translate(dash_translation)
+                      if normalized != doi:
+                          identifiers["doi"] = normalized
+                          normalized_dois += 1
+                          reference["identifiers"] = identifiers
+
+                  cleaned_references.append(reference)
+
+              if "references" in publication:
+                  publication["references"] = cleaned_references
+
+          changed = {
+              "removed_references": removed_references,
+              "cleared_abstracts": cleared_abstracts,
+              "stripped_fields": stripped_fields,
+              "normalized_dois": normalized_dois,
+          }
+          expected_changed = {
+              "removed_references": 2102,
+              "cleared_abstracts": 110,
+              "stripped_fields": 55,
+              "normalized_dois": 13,
+          }
+          if changed != expected_changed:
+              raise SystemExit(f"Unexpected cleanup counts: {changed!r}")
+
+          after_reference_count = 0
+          after_empty_references = 0
+          after_doi_only_references = 0
+          after_unicode_doi_references = 0
+          after_trimmed_fields = 0
+          after_placeholder_count = 0
+
+          for publication in publications:
+              if publication.get("abstract") in placeholders:
+                  after_placeholder_count += 1
+              for value in publication.values():
+                  if isinstance(value, str) and value.strip() != value:
+                      after_trimmed_fields += 1
+              for reference in publication.get("references", []):
+                  after_reference_count += 1
+                  identifiers = reference.get("identifiers") or {}
+                  citation = reference.get("citation", "")
+                  if citation == "" and not identifiers:
+                      after_empty_references += 1
+                  if citation == "" and identifiers.get("doi"):
+                      after_doi_only_references += 1
+                  doi = identifiers.get("doi")
+                  if isinstance(doi, str) and doi.translate(dash_translation) != doi:
+                      after_unicode_doi_references += 1
+
+          after = {
+              "publications": len(publications),
+              "references": after_reference_count,
+              "empty_references": after_empty_references,
+              "doi_only_references": after_doi_only_references,
+              "unicode_doi_references": after_unicode_doi_references,
+              "trimmed_fields": after_trimmed_fields,
+              "placeholder_abstracts": after_placeholder_count,
+          }
+          expected_after = {
+              "publications": 2349,
+              "references": 53691,
+              "empty_references": 0,
+              "doi_only_references": 8,
+              "unicode_doi_references": 0,
+              "trimmed_fields": 0,
+              "placeholder_abstracts": 0,
+          }
+          if after != expected_after:
+              raise SystemExit(f"Unexpected post-cleanup state: {after!r}")
+
+          path.write_text(
+              json.dumps(document, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          print("Mechanical cleanup counts:", changed)
+          print("Post-cleanup state:", after)
+          PY
+
+      - name: Install pinned BibReview
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.0.0"
+
+      - name: Validate and render
+        run: |
+          bibreview --config bibreview.yml validate
+          bibreview --config bibreview.yml --dry-run merge
+          bibreview --config bibreview.yml authors
+          bibreview --config bibreview.yml render
+
+      - name: Guard changed paths
+        run: |
+          unexpected="$(
+            git diff --name-only |
+            grep -Ev '^(docs/assets/data/bibliography\.json|docs/_posts/|docs/authors/|docs/years/|docs/_data/bibreview/)' || true
+          )"
+          if [ -n "$unexpected" ]; then
+            printf 'Unexpected changed paths:\n%s\n' "$unexpected" >&2
+            exit 1
+          fi
+
+      - name: Commit deterministic cleanup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add             docs/assets/data/bibliography.json             docs/_posts             docs/authors             docs/years             docs/_data/bibreview
+          git diff --cached --stat
+          git commit -m "cleanup: normalize legacy bibliography data"
+          git push origin HEAD:cleanup/bibliography-mechanical-pass1
