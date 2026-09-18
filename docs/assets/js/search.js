@@ -76,7 +76,12 @@ class PhraiseSearch {
             if (!response.ok) throw new Error('HTTP error ' + response.status);
             
             const rawData = await response.json();
-            const data = rawData.map(item => this.normalizePublication(item));
+            if (!rawData || !Array.isArray(rawData.publications)) {
+                throw new Error('Invalid BibReview bibliography document');
+            }
+            const data = rawData.publications.map(
+                item => this.normalizePublication(item)
+            );
             this.localData = data; // Toujours stocker en mémoire
             
             // Sauvegarder en cache seulement si possible
