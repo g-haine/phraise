@@ -78,7 +78,13 @@ The effective author-analysis step after merge is also the canonical BibReview
 the historical collection implementation remain only as migration/regression
 oracles.
 
-Discovery and refresh are still the remaining operational boundary:
-`looking4Update.py` has not yet been replaced in the effective workflow.
+Discovery and refresh are now effective BibReview operations:
+`bibreview discover` owns candidate discovery/relevance queueing and
+`bibreview refresh` owns stale-publication recollection into canonical
+`collected.json` staging. The former `looking4Update.py` entry point has been
+removed; `phraise_tools.update` remains only as a regression oracle.
+
+Because refresh and collection share the same canonical staging bibliography,
+the operational sequence is explicit: refresh → merge, then collect → merge.
 The production `main` branch remains unaffected until the broader BibReview
 migration is ready to land.
