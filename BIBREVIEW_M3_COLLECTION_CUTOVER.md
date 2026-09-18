@@ -85,8 +85,8 @@ On a temporary copy of the real PHRAISE state it verifies:
 - the accepted DOI is promoted to known state;
 - `biblio.json` remains byte-identical throughout.
 
-## Remaining M3 boundary
+## Subsequent M3 update cutover
 
-Discovery and refresh are still represented operationally by
-`looking4Update.py`. BibReview already has validated discovery and refresh
-primitives, but the PHRAISE command/workflow cutover remains the next step.
+Discovery and refresh have now also moved to BibReview. The effective
+maintenance cycle is documented in `BIBREVIEW_M3_UPDATE_CUTOVER.md`; the
+historical PHRAISE update engine remains only as a non-regression oracle.

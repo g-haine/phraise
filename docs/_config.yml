@@ -84,7 +84,6 @@ feed:
 exclude:
   - concatenate.py
   - getData.py
-  - looking4Update.py
   - setAuthorMapping.py
   - setPosts.py
   - setPages.py

@@ -10,4 +10,4 @@ dependencies:
   - python-dotenv>=1,<2
   - pip
   - pip:
-      - git+https://github.com/g-haine/bibreview.git@3970ad3a72c1a4e72df9c46f4ca99915edc59bb9
+      - git+https://github.com/g-haine/bibreview.git@1e2e4414a8ad465501392eb51fe01f9949e4c4f3

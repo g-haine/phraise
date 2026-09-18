@@ -12,7 +12,11 @@ We welcome contributions in the form of **DOI submissions**:
 
 ## Updating the website
 
-The metadata adapters use API keys for Scopus, Springer, IEEE and optionally Mendeley. Once you have the keys available, save them in `.env` in the `docs` folder as follow:
+The metadata adapters use API keys for Scopus, Springer, IEEE and optionally
+Mendeley. `bibreview.yml` explicitly points BibReview at `docs/.env`, so the
+same local secret file is used by both the remaining PHRAISE adapter and the
+BibReview CLI. Once you have the keys available, save them in `.env` in the
+`docs` folder as follows:
 ```
 MAIL=your-email@example.fr
 SCOPUS_API_KEY=
@@ -42,28 +46,38 @@ only when the corresponding provider is queried. Mendeley is an optional abstrac
 fallback; `OPENALEX_API_KEY` may also be supplied for OpenAlex. Local author/page
 rendering and concatenation need no API keys.
 
-On the `bibreview-migration` branch, the effective canonical path for DOI
-values already present in `newDOI.txt` is now:
+On the `bibreview-migration` branch, the effective maintenance path is now
+fully canonical through discovery, refresh, collection, merge and site writing:
 
-1. `python getData.py newDOI.txt` – collect metadata and BibTeX into canonical
-   `assets/data/collected.json` staging.
-2. `bibreview --config ../bibreview.yml merge` – merge the staged publications
-   into `assets/data/bibliography.json`, update DOI state, and clear staging.
-3. `bibreview --config ../bibreview.yml authors` – inspect author identities.
-4. `bibreview --config ../bibreview.yml authors --apply-safe` – add only
+1. `bibreview --config ../bibreview.yml discover` – query OpenAlex, verify
+   candidates, and update `newDOI.txt`, `checkDOI.txt` and `badDOI.txt`
+   according to the policy in `bibreview.yml`.
+2. Review `checkDOI.txt` and move each manually classified DOI to
+   `newDOI.txt` or `badDOI.txt`.
+3. `bibreview --config ../bibreview.yml refresh` – detect incomplete existing
+   journal records whose BibTeX is missing or changed and stage refreshed
+   canonical publications in `assets/data/collected.json`.
+4. `bibreview --config ../bibreview.yml merge` – merge any refresh staging
+   before collecting new DOI values. This is a safe no-op when refresh staged
+   nothing.
+5. `python getData.py newDOI.txt` – collect pending new/recovered DOI metadata
+   and BibTeX into canonical `assets/data/collected.json` staging.
+6. `bibreview --config ../bibreview.yml merge` – merge the collection batch,
+   update DOI state, and clear staging.
+7. `bibreview --config ../bibreview.yml authors` – inspect author identities.
+8. `bibreview --config ../bibreview.yml authors --apply-safe` – add only
    unambiguous mappings, then review any remaining cases in
    `assets/data/author_mappings.json` and rerun the previous command.
-5. `python setPosts.py && python setPages.py` – render and persist the site from
+9. `python setPosts.py && python setPages.py` – render and persist the site from
    canonical bibliography state.
-6. `bundle exec jekyll serve --watch` – verify the build locally and make final
-   corrections.
-7. Commit and push the changes.
-8. Confirm that the site deploys correctly on GitHub Pages.
+10. `bundle exec jekyll serve --watch` – verify the build locally and make final
+    corrections.
+11. Commit and push the changes, then confirm the GitHub Pages deployment.
 
-`looking4Update.py`, `concatenate.py`, and `setAuthorMapping.py` are retained
-temporarily as migration/regression helpers. They are no longer the effective
-collection/merge/author path on `bibreview-migration`. Discovery and refresh are
-the next remaining maintenance stages to cut over completely.
+The former `looking4Update.py` entry point has been removed. Its historical
+engine remains only as a regression oracle in `phraise_tools.update`.
+`concatenate.py` and `setAuthorMapping.py` are likewise legacy migration
+oracles rather than effective workflow steps.
 
 ## Local development
 
@@ -131,7 +145,8 @@ the production bibliography or call external services.
 
 | Command | Responsibility |
 |---|---|
-| `looking4Update.py` | OpenAlex discovery, CrossRef verification, queueing and archival of incomplete entries |
+| `bibreview ... discover` | OpenAlex discovery, CrossRef verification, relevance screening and DOI queue updates |
+| `bibreview ... refresh` | Canonical refresh staging for incomplete existing publications with missing/changed BibTeX |
 | `getData.py newDOI.txt` | Canonical BibReview collection into `collected.json`, using PHRAISE's current HTTP adapters |
 | `bibreview ... merge` | Authoritative merge from canonical staging into `bibliography.json` |
 | `bibreview ... authors` | Canonical author mapping analysis and safe additions |
@@ -144,8 +159,9 @@ All commands default to the directory containing the scripts, regardless of the
 working directory. For example, `python docs/getData.py newDOI.txt` from the
 repository root and `python getData.py newDOI.txt` from `docs/` are equivalent.
 Use `--root /path/to/copy` to work on an isolated data tree. DOI input paths are
-relative to that root unless absolute. `looking4Update.py --max-pages 20` keeps
-the historical discovery limit.
+relative to that root unless absolute. `discovery.max_pages` in `bibreview.yml` controls the OpenAlex discovery
+limit (currently 20), keeping provider policy in project configuration rather
+than command-line source code.
 
 Every command reports its main stages by default. Add `-v` to see each DOI or
 generated file and `-vv` to include sanitized HTTP diagnostics (operation, host,
@@ -166,8 +182,9 @@ is unique and no known author shares its normalized surname and first initial.
 possible variants in the report for manual review. The operation is idempotent.
 Use `--json` when a structured report is more convenient.
 
-`docs/phraise_tools/` separates common file/text helpers, HTTP adapters, metadata
-collection and update discovery. `phraise_tools.site` is the narrow PHRAISE
+`docs/phraise_tools/` now contains the narrow PHRAISE adapters still required
+during migration plus legacy non-regression oracles. Discovery and refresh are
+owned directly by BibReview. `phraise_tools.site` is the narrow PHRAISE
 adapter to BibReview: it supplies PHRAISE's Jekyll presentation policy and
 delegates canonical site modeling, rendering, reconciliation planning and
 generated-file persistence to BibReview. `setPosts.py` and `setPages.py`
@@ -217,8 +234,11 @@ Intentional corrections beyond successful-input parity:
 - Empty publisher fields do not erase usable CrossRef metadata. JSON/YAML/HTML
   quoting is handled explicitly so quotation marks and special characters do
   not corrupt generated files.
-- Records with missing BibTeX are archived and removed before recollection, just
-  like records with changed BibTeX. This prevents stale backup metadata winning
-  the subsequent merge. DOI removals use exact matches rather than sed regexes.
-- Existing `trash/trash.json` content and conflicting archived BibTeX files are
-  preserved. Backup timestamps use file names valid on Windows as well as Unix.
+- The historical update oracle removed stale records before recollection. The
+  effective BibReview refresh path deliberately no longer does so: the
+  authoritative publication remains in `bibliography.json`, a refreshed copy
+  is staged in `collected.json`, changed BibTeX is backed up, and the later
+  merge preserves the persistent UUID. DOI state repair for orphaned known DOI
+  values is handled without deleting canonical publications.
+- Existing archived data and conflicting BibTeX backups are preserved. Backup
+  timestamps use file names valid on Windows as well as Unix.

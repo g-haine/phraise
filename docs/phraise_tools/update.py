@@ -1,4 +1,8 @@
-"""Discover publications and queue incomplete records for later recollection."""
+"""Legacy PHRAISE discovery/refresh oracle retained for migration regression tests.
+
+The effective maintenance path uses BibReview's separate discover and refresh
+commands with canonical project state.
+"""
 from pathlib import Path
 import re
 import unicodedata
