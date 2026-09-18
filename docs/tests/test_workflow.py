@@ -323,12 +323,13 @@ class WorkflowTests(unittest.TestCase):
         self.assertEqual(self.load('trash/trash.json')[0]['doi'], '10.1/archived')
         self.assertEqual((self.root / 'newDOI.txt').read_text(), '')
 
-    def test_full_offline_workflow(self):
+    def test_legacy_discovery_oracle_with_canonical_downstream(self):
         self.client.pages['*']['results'] = [{'doi': 'https://doi.org/10.1/new'}]
         self.client.messages['10.1/new'] = message()
 
-        # Discovery is still a legacy oracle in this increment; collection,
-        # merge, author analysis and site generation use canonical BibReview state.
+        # Keep the historical discovery/update engine covered only as a
+        # non-regression oracle. The effective discovery/refresh command path is
+        # validated separately in the BibReview integration workflow.
         find_updates(self.root, self.client)
         legacy_before = (self.root / 'assets/data/biblio.json').read_bytes()
 
@@ -358,7 +359,7 @@ class WorkflowTests(unittest.TestCase):
         )
 
     def test_all_cli_help_and_local_commands(self):
-        for script in ['getData', 'looking4Update', 'setAuthorMapping', 'setPosts', 'setPages']:
+        for script in ['getData', 'setAuthorMapping', 'setPosts', 'setPages']:
             result = subprocess.run([sys.executable, str(DOCS / f'{script}.py'), '--help'], capture_output=True)
             self.assertEqual(result.returncode, 0, result.stderr)
             self.assertIn(b'--dry-run', result.stdout)
