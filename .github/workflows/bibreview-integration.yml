@@ -60,6 +60,9 @@ jobs:
       - name: Validate renderer-independent BibReview site model
         run: python .github/scripts/compare_bibreview_site_model.py
 
+      - name: Compare legacy and BibReview Jekyll index rendering
+        run: python .github/scripts/compare_bibreview_index_render.py
+
       - name: Validate legacy author-page bridge
         run: python docs/setPages.py --dry-run
 
