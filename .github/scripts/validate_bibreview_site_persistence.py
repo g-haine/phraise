@@ -102,15 +102,18 @@ def main() -> None:
             managed_roots=MANAGED_ROOTS,
         )
         assert plan.expected_count == EXPECTED_MANAGED_ARTIFACTS
-        assert plan.unchanged_count == EXPECTED_MANAGED_ARTIFACTS
-        assert not plan.writes
-        if plan.deletes:
-            stale = [
+        if plan.changed or plan.unchanged_count != EXPECTED_MANAGED_ARTIFACTS:
+            writes = [
+                path.relative_to(site_root).as_posix()
+                for path in plan.writes
+            ]
+            deletes = [
                 path.relative_to(site_root).as_posix()
                 for path in plan.deletes
             ]
             raise AssertionError(
-                "pre-existing obsolete generated artifacts: " + ", ".join(stale)
+                "unexpected pre-existing persistence changes; "
+                f"{plan.summary()}; writes={writes}; deletes={deletes}"
             )
         assert not plan.changed
 
