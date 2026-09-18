@@ -152,10 +152,11 @@ Use `--json` when a structured report is more convenient.
 
 `docs/phraise_tools/` separates common file/text helpers, HTTP adapters, metadata
 collection and update discovery. `phraise_tools.site` is the narrow PHRAISE
-adapter to BibReview: it supplies PHRAISE's Jekyll presentation policy, converts
-the temporary legacy bibliography projection at the migration boundary, and
-delegates site modeling, rendering, reconciliation planning and generated-file
-persistence to BibReview. The historical PHRAISE renderers remain only as
+adapter to BibReview: it supplies PHRAISE's Jekyll presentation policy and
+delegates canonical site modeling, rendering, reconciliation planning and
+generated-file persistence to BibReview. `setPosts.py` and `setPages.py`
+read `assets/data/bibliography.json` directly and do not consume
+`assets/data/biblio.json`. The historical PHRAISE renderers remain only as
 migration non-regression oracles. JSON is parsed once per input directly.
 Generation is deterministic and runs sequentially, so failures propagate reliably. The maintenance workflow requires no Bash, curl, jq, GNU sed
 or iconv. `install.sh` is the only retained Bash helper. Existing permalinks and

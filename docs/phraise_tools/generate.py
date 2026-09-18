@@ -7,12 +7,13 @@ from pathlib import Path
 import re
 
 from unidecode import unidecode
+from bibreview.storage import read_bibliography, read_json
 
 from .common import (author_names, backup_path, bibliography, json_bytes, mappings,
                      mathjaxify, read_lines, record_date, Reporter, safe_component,
                      slugify, summary, text, write_batch)
-from .site import (apply_artifact_plan, plan_artifacts, render_index_artifacts,
-                   render_publication_artifacts)
+from .site import (apply_artifact_plan, build_phraise_site_model, plan_artifacts,
+                   render_index_artifacts, render_publication_artifacts)
 
 
 def _name_signature(name):
@@ -181,31 +182,41 @@ def render_post(record, reverse, known, permalinks, bibtex):
 
 
 def generate_posts(root: Path, client, reporter=None, dry_run=False):
-    """Generate publication posts with BibReview while retaining PHRAISE side effects."""
+    """Generate publication posts directly from canonical BibReview state."""
     reporter = reporter or Reporter(-1)
-    records = bibliography(root)
-    mapping, reverse = mappings(root)
-    validate_authors(records, reverse)
+    publications = read_bibliography(root / 'assets/data/bibliography.json')
+    mapping = read_json(root / 'assets/data/author_mappings.json', dict)
+    model = build_phraise_site_model(publications, mapping)
 
     outputs = {}
     valid = set()
     bibtex_by_permalink = {}
-    reporter.step(f'Preparing {len(records)} publication post(s)')
-    for index, record in enumerate(records, 1):
-        slug = safe_component(record.get('permalink'))
+    reporter.step(f'Preparing {len(model.publications)} publication post(s)')
+    for index, publication in enumerate(model.publications, 1):
+        slug = safe_component(publication.permalink)
         if slug in valid:
             raise ValueError(f'Duplicate permalink: {slug}')
         valid.add(slug)
+
+        date_text = publication.created_date.isoformat()
+        reporter.detail(
+            f'[{index}/{len(model.publications)}] _posts/{date_text}-{slug}.md'
+        )
         bib = root / f'assets/bib/{slug}.bib'
-        reporter.detail(f'[{index}/{len(records)}] _posts/{record_date(record)}-{slug}.md')
-        bibtex = bib.read_text(encoding='utf-8') if bib.exists() else client.bibtex(record['doi'])
-        bibtex_by_permalink[slug] = bibtex
-        if not bib.exists():
+        if bib.exists():
+            bibtex = bib.read_text(encoding='utf-8')
+        else:
+            doi = publication.identifiers.get('doi')
+            if doi is None:
+                raise ValueError(
+                    f'Missing tracked BibTeX for DOI-less publication {publication.id}'
+                )
+            bibtex = client.bibtex(doi)
             outputs[bib] = bibtex.encode('utf-8')
+        bibtex_by_permalink[slug] = bibtex
 
     artifacts = render_publication_artifacts(
-        records,
-        mapping,
+        model,
         bibtex_by_permalink,
     )
     post_plan = plan_artifacts(
@@ -236,7 +247,8 @@ def generate_posts(root: Path, client, reporter=None, dry_run=False):
         for path in orphan_bibs:
             path.unlink()
     return summary(
-        f'Generated {len(records)} posts; archived {len(orphan_bibs)} orphan BibTeX files.',
+        f'Generated {len(model.publications)} posts; '
+        f'archived {len(orphan_bibs)} orphan BibTeX files.',
         dry_run,
     )
 
@@ -314,14 +326,16 @@ def generate_pages_legacy(root: Path, reporter=None, dry_run=False):
     return summary(f'Generated pages for {len(authors)} authors and {len(years)} years.', dry_run)
 
 def generate_pages(root: Path, reporter=None, dry_run=False):
-    """Generate author/year pages through BibReview's renderer and persistence layer."""
+    """Generate author/year pages directly from canonical BibReview state."""
     reporter = reporter or Reporter(-1)
-    records = bibliography(root)
-    mapping, reverse = mappings(root)
-    validate_authors(records, reverse)
+    publications = read_bibliography(root / 'assets/data/bibliography.json')
+    mapping = read_json(root / 'assets/data/author_mappings.json', dict)
+    model = build_phraise_site_model(publications, mapping)
 
-    reporter.step(f'Indexing authors and years from {len(records)} publication(s)')
-    artifacts = render_index_artifacts(records, mapping)
+    reporter.step(
+        f'Indexing authors and years from {len(model.publications)} publication(s)'
+    )
+    artifacts = render_index_artifacts(model)
     plan = plan_artifacts(
         root,
         artifacts,
