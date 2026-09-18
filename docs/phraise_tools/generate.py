@@ -337,7 +337,7 @@ def generate_pages(root: Path, reporter=None, dry_run=False):
         if artifact.path.startswith('years/') and artifact.path != 'years/index.md'
     )
     for artifact in artifacts:
-        reporter.detail(artifact.path)
+        reporter.detail(f'{artifact.path}: generated')
 
     reporter.step(
         f'{"Would reconcile" if dry_run else "Reconciling"} pages with BibReview: '
