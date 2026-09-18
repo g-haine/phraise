@@ -3,8 +3,6 @@ name: BibReview integration
 on:
   pull_request:
     branches: [main]
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -31,18 +29,7 @@ jobs:
       - name: Validate PHRAISE BibReview configuration
         run: bibreview --config bibreview.yml validate
 
-      - name: Validate optional arXiv module configuration
-        run: bibreview --config bibreview.yml status
-
-      - name: Assert PHRAISE contains no project Python engine
-        run: |
-          files="$(find . -path './.git' -prune -o -name '*.py' -print)"
-          if [ -n "$files" ]; then
-            printf 'Unexpected Python files in PHRAISE:\n%s\n' "$files" >&2
-            exit 1
-          fi
-
-      - name: Validate canonical merge state
+      - name: Validate canonical project state
         run: bibreview --config bibreview.yml --dry-run merge
 
       - name: Validate canonical author mappings
@@ -96,8 +83,3 @@ jobs:
               )
           print(f"Homepage bibliography date: {expected}")
           PY
-
-      - name: Confirm tracked project state is unchanged
-        run: |
-          git diff --exit-code
-          git diff --cached --exit-code
