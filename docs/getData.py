@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch metadata and BibTeX for a file of new DOIs."""
+"""Collect pending DOI metadata and BibTeX into canonical BibReview staging."""
 from phraise_tools.common import parser, run_cli
 from phraise_tools.canonical import collect_canonical
 from phraise_tools.metadata import Client
