@@ -13,7 +13,7 @@ Contributions are welcome in the form of **DOI submissions**. You can:
 - Submit a **pull request** with new DOIs in the `newDOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
 - Send [**an email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) with a list of new DOIs.
 
-**Automated contributions are not possible** due to API rate limitations. The metadata compilation will be manually performed before each update, but the site itself is automatically rebuilt with [Jekyll](https://jekyllrb.com/) after each push.
+Canonical bibliography contributions are not merged automatically because provider metadata and ambiguous identities remain human-reviewed. PHRAISE uses [**BibReview**](https://github.com/g-haine/bibreview) for bibliographic maintenance and site generation. Repository updates are reviewed through pull requests before they reach the production `main` branch and the published Jekyll site.
 
 ## **Scope & Methodology**
 
