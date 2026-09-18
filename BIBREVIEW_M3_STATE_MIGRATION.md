@@ -69,6 +69,16 @@ The integration workflow now verifies that:
 
 `bibreview merge` is now the authoritative merge mechanism for canonical bibliography state. `concatenate.py` is therefore legacy on the migration branch and can be removed once the remaining staging/collection path no longer depends on the historical workflow.
 
-`getData.py` is **not yet replaced operationally**: the next M3 step must make collection write canonical `collected.json` instead of using the old temporary-`biblio.json` convention. Until that step is complete, do not run the historical end-to-end update sequence on `bibreview-migration`.
+`getData.py` now writes canonical `collected.json` through BibReview's
+project-collection API. The authoritative merge step is therefore
+`bibreview --config ../bibreview.yml merge`, not `concatenate.py`.
 
-The production `main` branch remains unaffected until the broader BibReview migration is ready to land.
+The effective author-analysis step after merge is also the canonical BibReview
+`authors` command. The legacy `setAuthorMapping.py`, `concatenate.py`, and
+the historical collection implementation remain only as migration/regression
+oracles.
+
+Discovery and refresh are still the remaining operational boundary:
+`looking4Update.py` has not yet been replaced in the effective workflow.
+The production `main` branch remains unaffected until the broader BibReview
+migration is ready to land.
