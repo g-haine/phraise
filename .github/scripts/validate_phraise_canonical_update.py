@@ -233,17 +233,17 @@ def main() -> None:
 
         # 2. Canonical refresh stages one stale existing publication.
         refresh_provider = RefreshProvider(target.doi)
+
+        def refresh_bibtex(doi: str) -> str:
+            if doi != target.doi:
+                raise AssertionError(f"unexpected refresh BibTeX lookup: {doi}")
+            return CURRENT_BIBTEX
+
         before_refresh = bibliography.read_bytes()
         refresh = plan_project_refresh(
             mirror,
             provider=refresh_provider,
-            bibtex_lookup=lambda doi: (
-                CURRENT_BIBTEX
-                if doi == target.doi
-                else (_ for _ in ()).throw(
-                    AssertionError(f"unexpected refresh BibTeX lookup: {doi}")
-                )
-            ),
+            bibtex_lookup=refresh_bibtex,
         )
         if refresh.result.candidates != (target.doi,):
             raise AssertionError(f"unexpected refresh candidates: {refresh.result.candidates!r}")
