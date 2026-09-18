@@ -32,7 +32,9 @@ It does not activate or deactivate environments, change shell configuration, or
 install Conda itself. On systems without Bash, use `conda env create -f
 phraise.yml` once, then `conda env update -n phraise -f phraise.yml` for updates.
 Python 3.12, Requests, Beautiful Soup, Unidecode and python-dotenv are installed
-from conda-forge. Ruby, Bundler and Jekyll remain separate website dependencies.
+from conda-forge. The maintenance environment also installs the pinned BibReview
+engine used for site modeling, rendering and generated-artifact persistence.
+Ruby, Bundler and Jekyll remain separate website dependencies.
 
 `.env` uses plain `KEY=value` assignments (optional quotes), not executable shell
 code. Existing environment variables take precedence. Publisher keys are needed
@@ -119,8 +121,8 @@ the production bibliography or call external services.
 | `getData.py newDOI.txt` | CrossRef metadata, publisher enrichment, references and BibTeX |
 | `setAuthorMapping.py` | Author mapping analysis, safe additions and ambiguous-name review |
 | `concatenate.py` | Backup/new bibliography merge and DOI filtering |
-| `setPosts.py` | Publication posts, missing BibTeX, orphan archival, last-update date |
-| `setPages.py` | Author/year pages and indexes |
+| `setPosts.py` | BibReview-rendered publication posts; PHRAISE missing-BibTeX acquisition, orphan archival and last-update date |
+| `setPages.py` | BibReview-rendered author/year pages and indexes |
 
 All commands default to the directory containing the scripts, regardless of the
 working directory. For example, `python docs/getData.py newDOI.txt` from the
@@ -149,9 +151,13 @@ possible variants in the report for manual review. The operation is idempotent.
 Use `--json` when a structured report is more convenient.
 
 `docs/phraise_tools/` separates common file/text helpers, HTTP adapters, metadata
-collection, update discovery and Markdown rendering. JSON is parsed once per
-input directly. Generation is deterministic and runs sequentially, so failures
-propagate reliably. The maintenance workflow requires no Bash, curl, jq, GNU sed
+collection and update discovery. `phraise_tools.site` is the narrow PHRAISE
+adapter to BibReview: it supplies PHRAISE's Jekyll presentation policy, converts
+the temporary legacy bibliography projection at the migration boundary, and
+delegates site modeling, rendering, reconciliation planning and generated-file
+persistence to BibReview. The historical PHRAISE renderers remain only as
+migration non-regression oracles. JSON is parsed once per input directly.
+Generation is deterministic and runs sequentially, so failures propagate reliably. The maintenance workflow requires no Bash, curl, jq, GNU sed
 or iconv. `install.sh` is the only retained Bash helper. Existing permalinks and
 mapping keys are kept.
 New slugs use Unidecode instead of the platform-dependent iconv transliteration;
