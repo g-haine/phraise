@@ -8,7 +8,7 @@ During the remaining M3/M4 migration window:
 
 - `docs/assets/data/bibliography.json` is the **authoritative canonical BibReview state**;
 - `docs/assets/data/collected.json` is the canonical staging batch consumed by `bibreview merge`;
-- `docs/assets/data/biblio.json` is a **temporary deterministic legacy projection** for the current PHRAISE/Jekyll tooling.
+- `docs/assets/data/biblio.json` is a **temporary deterministic legacy projection** used only by remaining migration helpers and regression oracles; the effective site writer no longer consumes it.
 
 `bibreview.yml` points to `bibliography.json`. The legacy projection must not be edited independently: regenerate it from canonical state with
 
@@ -22,7 +22,10 @@ or verify it without writing with
 python docs/projectLegacyBibliography.py --check
 ```
 
-Once the site-generation layer is extracted to BibReview and no PHRAISE script consumes the legacy schema, `biblio.json`, the projection script, and the temporary compatibility bridge can be removed.
+The site-generation layer now reads canonical state directly. `biblio.json`,
+the projection script, and the temporary compatibility bridge can be removed
+once the remaining author-mapping/maintenance migration helpers and historical
+regression oracles no longer consume the legacy schema.
 
 ## One-shot migration result
 
