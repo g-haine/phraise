@@ -1,4 +1,0 @@
-{
-  "Title $x+y$ and $$z$$": "Title \\\\( x+y \\\\) and \\\\(  \\\\)z\\\\(  \\\\)",
-  "{{foo}} & bar": "{[[:space:]]{foo}[[:space:]]} & bar"
-}

@@ -20,7 +20,7 @@ Contributions are welcome in the form of **DOI submissions**. You can:
 ### **Why DOIs?**
 Maintaining a large database manually is challenging. To ensure a sustainable and (almost) automated process, we **restrict** this survey to **published works with a DOI**. This guarantees easy updates and avoids manually managing metadata.
 
-While the scripts used for collecting metadata are **publicly available** on the [**GitHub repository**](https://github.com/g-haine/phraise), they will primarily be run by the site maintainer.
+The **BibReview** engine and the PHRAISE project configuration are publicly available on the [**GitHub repository**](https://github.com/g-haine/phraise); bibliographic maintenance is run by the site maintainer.
 
 ### **Data Sources**
 The metadata is retrieved using a hierarchical approach using the following APIs:  
@@ -32,7 +32,7 @@ The metadata is retrieved using a hierarchical approach using the following APIs
 
 Currently, **only metadata and abstracts** are collected: **full texts are not included**.
 
-The resulting database is [available for download]({{ site.baseurl }}/assets/data/biblio.json) (a JSON file).
+The canonical database is [available for download]({{ site.baseurl }}/assets/data/bibliography.json) (a JSON file).
 
 ### **arXiv**
 To stay as up to date as possible, we use the [arXiv API](https://info.arxiv.org/help/api/user-manual.html) to retrieve the latest preprints related to port-Hamiltonian systems.

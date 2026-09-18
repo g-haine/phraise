@@ -1,1 +1,0 @@
-@article{key, title={A title}, author={Ada}, pages={1–9}, month={March}, url={https://test}, year={2024} }

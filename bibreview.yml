@@ -86,3 +86,22 @@ site:
   branding:
     logo: assets/img/logo.webp
     favicon: assets/img/favicon.ico
+  jekyll:
+    include_authorless_year_publications: false
+    author_index_extra_html: |
+      <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
+      <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
+      <hr />
+    category_by_type:
+      journal-article: articles
+      proceedings-article: proceedings
+      book-chapter: chapters
+      book: books
+      monograph: books
+    event_category_rules:
+      - pattern: 'Conference|Workshop|Symposium|Congress|Proceeding|Consortium'
+        category: proceedings
+    isbn_types:
+      - book
+      - book-chapter
+      - monograph

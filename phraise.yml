@@ -3,11 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - python=3.12
-  - requests>=2.32,<3
-  - urllib3>=2,<3
-  - beautifulsoup4>=4.12,<5
-  - unidecode>=1.3,<2
-  - python-dotenv>=1,<2
   - pip
   - pip:
-      - git+https://github.com/g-haine/bibreview.git@1e2e4414a8ad465501392eb51fe01f9949e4c4f3
+      - git+https://github.com/g-haine/bibreview.git@2b0e2aa490ea8f8671536feee6ea332879650a1f
