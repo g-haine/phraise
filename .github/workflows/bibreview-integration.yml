@@ -2,9 +2,13 @@ name: BibReview integration
 
 on:
   pull_request:
-    branches: [bibreview-migration]
+    branches: [main]
+  push:
+    branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: read
 
 jobs:
   integration:
@@ -13,28 +17,30 @@ jobs:
       - name: Check out PHRAISE
         uses: actions/checkout@v4
 
-      - name: Check out BibReview
-        uses: actions/checkout@v4
-        with:
-          repository: g-haine/bibreview
-          ref: 48bcfbaea7a2cb62abbc3fc3d897ca6b186f1a21
-          path: .bibreview-src
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Install BibReview
-        run: python -m pip install -e .bibreview-src
+      - name: Install BibReview v1.0.0
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.0.0"
+
+      - name: Confirm BibReview version
+        run: test "$(bibreview --version)" = "bibreview 1.0.0"
 
       - name: Validate PHRAISE BibReview configuration
         run: bibreview --config bibreview.yml validate
 
       - name: Validate optional arXiv module configuration
+        run: bibreview --config bibreview.yml status
+
+      - name: Assert PHRAISE contains no project Python engine
         run: |
-          bibreview --config bibreview.yml status
-          test "$(find . -path './.git' -prune -o -path './.bibreview-src' -prune -o -name '*.py' -print | wc -l)" -eq 0
+          files="$(find . -path './.git' -prune -o -name '*.py' -print)"
+          if [ -n "$files" ]; then
+            printf 'Unexpected Python files in PHRAISE:\n%s\n' "$files" >&2
+            exit 1
+          fi
 
       - name: Validate canonical merge state
         run: bibreview --config bibreview.yml --dry-run merge
@@ -59,12 +65,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
+          bundler-cache: true
+          working-directory: docs
 
       - name: Build PHRAISE Jekyll site
         working-directory: docs
-        run: |
-          bundle install
-          bundle exec jekyll build
+        run: bundle exec jekyll build
 
       - name: Validate displayed bibliography update date
         run: |
