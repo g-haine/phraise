@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - ".github/scripts/update_arxiv.py"
+      - "bibreview.yml"
       - ".github/workflows/update-arxiv.yml"
 
 permissions:
@@ -34,8 +34,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch latest arXiv entries
-        run: python .github/scripts/update_arxiv.py
+      - name: Install BibReview
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@48bcfbaea7a2cb62abbc3fc3d897ca6b186f1a21"
+
+      - name: Refresh arXiv cache
+        run: bibreview --config bibreview.yml arxiv
 
       - name: Commit cache if changed
         run: |

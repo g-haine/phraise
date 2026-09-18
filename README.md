@@ -7,7 +7,8 @@ systems. The website is a project powered by
 [BibReview](https://github.com/g-haine/bibreview): BibReview owns the
 bibliographic workflow, canonical state transitions, author handling, and static
 site rendering; PHRAISE supplies the subject-specific configuration, curated
-data, Jekyll presentation, and independent arXiv cache.
+data, and Jekyll presentation. The optional arXiv cache is also managed by
+BibReview but remains separate from the canonical DOI bibliography.
 
 ## Contributing new DOIs
 
@@ -38,9 +39,9 @@ Generated Jekyll artifacts are owned by `bibreview render`:
 - `docs/years/`;
 - `docs/_data/bibreview/`.
 
-The remaining PHRAISE-specific Python script is
-`.github/scripts/update_arxiv.py`. It updates the separate arXiv cache and is
-intentionally independent of the canonical bibliography.
+PHRAISE contains no project-specific Python bibliographic code. The optional
+arXiv cache is configured in `bibreview.yml` and remains intentionally
+independent of the canonical bibliography.
 
 ## Canonical bibliography document
 
@@ -178,8 +179,15 @@ Open <http://127.0.0.1:4000> and inspect the generated site.
 ## arXiv cache
 
 arXiv entries are deliberately separate from the canonical DOI bibliography.
-The scheduled GitHub workflow runs `.github/scripts/update_arxiv.py` and
-updates only `docs/data/arxiv.json`.
+They are display-only links managed by BibReview's optional arXiv module:
+
+```bash
+bibreview --config bibreview.yml arxiv
+```
+
+The scheduled GitHub workflow runs this command and updates only
+`docs/data/arxiv.json`. The module does not create canonical `Publication`
+objects and does not affect `bibliography.json.metadata.last_update`.
 
 This separation is why the bibliography date comes from
 `bibliography.json.metadata.last_update` rather than the Jekyll build time.
