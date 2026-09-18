@@ -95,11 +95,12 @@ def plan_canonical_collection(
         config.paths.bibliography.resolve(),
         config.paths.collected.resolve(),
         config.paths.known.resolve(),
+        (root / "assets/data/biblio.json").resolve(),
     }
     if config.paths.pending.resolve() in protected:
         raise ValueError(
             "The input DOI file must differ from DOI.txt, bibliography.json, "
-            "and collected.json"
+            "biblio.json, and collected.json"
         )
 
     service = EnrichmentService(
