@@ -1,0 +1,70 @@
+name: Deploy Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      BUNDLE_GEMFILE: docs/Gemfile
+
+    steps:
+      - name: Check out PHRAISE
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install BibReview v1.0.0
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.0.0"
+
+      - name: Reconcile generated bibliography artifacts
+        run: bibreview --config bibreview.yml render
+
+      - name: Confirm committed generated state
+        run: |
+          git diff --exit-code
+          git diff --cached --exit-code
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
+          working-directory: docs
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Jekyll
+        run: bundle exec jekyll build --source docs --destination docs/_site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs/_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    steps:
+      - name: Deploy Pages
+        uses: actions/deploy-pages@v4
