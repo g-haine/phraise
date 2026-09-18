@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install BibReview
-        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@84697b988dc040c7921a79708b0597adcf86377c"
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@48bcfbaea7a2cb62abbc3fc3d897ca6b186f1a21"
 
       - name: Refresh arXiv cache
         run: bibreview --config bibreview.yml arxiv
