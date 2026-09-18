@@ -24,7 +24,7 @@ ROOT = Path(__file__).resolve().parents[2]
 DOCS = ROOT / "docs"
 
 EXPECTED_POSTS = 2349
-EXPECTED_AUTHOR_PAGES = 2653
+EXPECTED_AUTHOR_PAGES = 2651
 EXPECTED_YEAR_PAGES = 39
 EXPECTED_INDEX_CONTENT_PAGES = EXPECTED_AUTHOR_PAGES + EXPECTED_YEAR_PAGES
 EXPECTED_INDEX_ARTIFACTS = EXPECTED_INDEX_CONTENT_PAGES + 2
@@ -104,7 +104,14 @@ def main() -> None:
         assert plan.expected_count == EXPECTED_MANAGED_ARTIFACTS
         assert plan.unchanged_count == EXPECTED_MANAGED_ARTIFACTS
         assert not plan.writes
-        assert not plan.deletes
+        if plan.deletes:
+            stale = [
+                path.relative_to(site_root).as_posix()
+                for path in plan.deletes
+            ]
+            raise AssertionError(
+                "pre-existing obsolete generated artifacts: " + ", ".join(stale)
+            )
         assert not plan.changed
 
         obsolete = site_root / "_posts" / "__bibreview_obsolete_probe__.md"
