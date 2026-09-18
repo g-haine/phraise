@@ -99,19 +99,20 @@ def render_index_artifacts(
     return render_jekyll_index_pages(model, options=PHRAISE_INDEX_OPTIONS)
 
 
-def persist_artifacts(
+def plan_artifacts(
     root: Path,
     artifacts: Iterable[RenderedArtifact],
     *,
     managed_roots: tuple[str, ...],
-    dry_run: bool,
 ) -> SitePersistencePlan:
-    """Plan and, unless dry-running, apply BibReview-managed site artifacts."""
-    plan = plan_rendered_artifacts(
+    """Return BibReview's read-only reconciliation plan for generated artifacts."""
+    return plan_rendered_artifacts(
         root,
         artifacts,
         managed_roots=managed_roots,
     )
-    if not dry_run:
-        apply_rendered_artifacts(plan)
-    return plan
+
+
+def apply_artifact_plan(plan: SitePersistencePlan) -> None:
+    """Apply a previously validated BibReview persistence plan."""
+    apply_rendered_artifacts(plan)
