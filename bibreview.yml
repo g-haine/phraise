@@ -80,9 +80,11 @@ providers:
     api_key_env: IEEE_API_KEY
   semantic_scholar:
     enabled: true
+    api_key_env: SEMANTIC_SCHOLAR_API_KEY
   mendeley:
     enabled: true
-    token_env: MENDELEY_API_KEY
+    client_id_env: MENDELEY_CLIENT_ID
+    client_secret_env: MENDELEY_CLIENT_SECRET
 
 site:
   enabled: true
