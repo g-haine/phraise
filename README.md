@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.2.0** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.3.0** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -31,6 +31,8 @@ Important state files are:
 - `docs/assets/data/collected.json` — temporary canonical staging used by
   collect/refresh before merge;
 - `docs/assets/data/author_mappings.json` — reviewed author identities;
+- `audit/campaign.json` and `audit/report.json` — resumable historical-audit
+  checkpoint and review report, separate from canonical staging;
 - `docs/assets/bib/` — tracked BibTeX sources;
 - `docs/DOI.txt`, `docs/newDOI.txt`, `docs/checkDOI.txt`,
   `docs/badDOI.txt` — DOI workflow state.
@@ -117,7 +119,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.2.0**.
+The Conda environment contains Python 3.12 and **BibReview v1.3.0**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -135,6 +137,32 @@ MENDELEY_CLIENT_SECRET=
 
 Values already exported in the process environment take precedence over values
 from `.env`.
+
+## Auditing the historical bibliography
+
+BibReview v1.3.0 can compare the existing canonical bibliography with current
+CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
+metadata.
+
+Preview a small pilot batch without writing audit state or calling providers:
+
+```bash
+bibreview --config bibreview.yml --dry-run audit --batch-size 25
+```
+
+Run the 25-publication pilot:
+
+```bash
+bibreview --config bibreview.yml audit --batch-size 25
+```
+
+Inspect `audit/report.json` manually. Provider differences are evidence for
+review, not automatic corrections. Once the pilot rules are satisfactory,
+subsequent invocations return to PHRAISE's configured default of 50:
+
+```bash
+bibreview --config bibreview.yml audit
+```
 
 ## Updating the bibliography
 
@@ -238,7 +266,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.2.0 installation;
+- exact BibReview v1.3.0 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
