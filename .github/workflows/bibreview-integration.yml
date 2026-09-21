@@ -20,11 +20,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install BibReview v1.3.0
-        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.3.0"
+      - name: Install BibReview v1.3.1
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.3.1"
 
       - name: Confirm BibReview version
-        run: test "$(bibreview --version)" = "bibreview 1.3.0"
+        run: test "$(bibreview --version)" = "bibreview 1.3.1"
 
       - name: Validate PHRAISE BibReview configuration
         run: bibreview --config bibreview.yml validate
