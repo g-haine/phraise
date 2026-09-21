@@ -169,6 +169,18 @@ def main() -> None:
     document = json.loads(BIBLIOGRAPHY.read_text(encoding="utf-8"))
     publications = document["publications"]
 
+    already_migrated = (
+        document.get("metadata", {}).get("schema_version") == 2
+        and len(publications) == EXPECTED_PUBLICATIONS_AFTER
+        and all(item.get("authors") or item.get("editors") for item in publications)
+    )
+    if already_migrated:
+        print(
+            f"Migration already applied: {len(publications)} publications, "
+            "all with authors or editors."
+        )
+        return
+
     if len(publications) != EXPECTED_PUBLICATIONS_BEFORE:
         raise SystemExit(
             f"expected {EXPECTED_PUBLICATIONS_BEFORE} publications, got {len(publications)}"
