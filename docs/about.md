@@ -8,6 +8,9 @@ This site is a **bibliographic survey** dedicated to research on **port-Hamilton
 
 The site is **updated at regular intervals** to reflect newly published works.
 
+## **Powered by BibReview**
+PHRAISE is powered by [**BibReview**](https://github.com/g-haine/bibreview), an open-source bibliographic engine for reproducible literature-review websites. BibReview manages the generic bibliographic workflow, canonical metadata, contributor identities, provider integration, and deterministic generation of the publication, author, and year pages. PHRAISE remains responsible for the **port-Hamiltonian scope**, scientific curation, project configuration, and Jekyll presentation.
+
 ## **How to Contribute?**
 Contributions are welcome in the form of **DOI submissions**. You can:
 - Submit a **pull request** with new DOIs in the `newDOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
