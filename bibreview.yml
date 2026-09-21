@@ -55,6 +55,11 @@ refresh:
     - issue
     - pages
 
+audit:
+  campaign: audit/campaign.json
+  report: audit/report.json
+  batch_size: 50
+
 relevance:
   patterns:
     - 'port[-\s]+(controlled )?hamiltonian'
