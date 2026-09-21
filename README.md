@@ -6,8 +6,8 @@ PHRAISE is a bibliographic survey dedicated to research on port-Hamiltonian
 systems. The website is a project powered by
 [BibReview](https://github.com/g-haine/bibreview): BibReview owns the
 bibliographic workflow, canonical state transitions, contributor handling, and
-static site rendering; PHRAISE supplies the subject-specific configuration, curated
-data, and Jekyll presentation. The optional arXiv cache is also managed by
+static site rendering; PHRAISE supplies the subject-specific configuration,
+curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
 PHRAISE currently pins **BibReview v1.1.0** for reproducible maintenance and
