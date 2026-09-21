@@ -16,14 +16,14 @@ Contributions are welcome in the form of **DOI submissions**. You can:
 - Submit a **pull request** with new DOIs in the `newDOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
 - Send [**an email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) with a list of new DOIs.
 
-Canonical bibliography contributions are not merged automatically because provider metadata and ambiguous identities remain human-reviewed. PHRAISE uses [**BibReview**](https://github.com/g-haine/bibreview) for bibliographic maintenance and site generation. Repository updates are reviewed through pull requests before they reach the production `main` branch and the published Jekyll site.
+Canonical bibliography contributions are not merged automatically because provider metadata and ambiguous identities remain human-reviewed. Repository updates are reviewed through pull requests before they reach the production `main` branch and the published Jekyll site.
 
 ## **Scope & Methodology**
 
 ### **Why DOIs?**
 Maintaining a large database manually is challenging. To ensure a sustainable and (almost) automated process, we **restrict** this survey to **published works with a DOI**. This guarantees easy updates and avoids manually managing metadata.
 
-The **BibReview** engine and the PHRAISE project configuration are publicly available on the [**GitHub repository**](https://github.com/g-haine/phraise); bibliographic maintenance is run by the site maintainer.
+The PHRAISE project configuration is publicly available on the [**GitHub repository**](https://github.com/g-haine/phraise), while the generic bibliographic engine is maintained separately in the [**BibReview repository**](https://github.com/g-haine/bibreview).
 
 ### **Data Sources**
 The metadata is retrieved using a hierarchical approach using the following APIs:  
