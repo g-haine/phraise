@@ -32,6 +32,9 @@ jobs:
       - name: Validate canonical project state
         run: bibreview --config bibreview.yml --dry-run merge
 
+      - name: Validate audit planning
+        run: bibreview --config bibreview.yml --dry-run audit --batch-size 1
+
       - name: Validate canonical author mappings
         run: bibreview --config bibreview.yml authors
 
