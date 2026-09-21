@@ -1,24 +1,23 @@
 name: One-shot BibReview v1.1 bibliography migration
 
 on:
-  push:
+  pull_request:
     branches:
-      - cleanup/bibliography-contributors-v1.1
-    paths:
-      - ".github/scripts/migrate_bibliography_v1_1.py"
-      - ".github/workflows/migrate-bibliography-v1.1.yml"
+      - main
 
 permissions:
   contents: write
 
 jobs:
   migrate:
+    if: github.head_ref == 'cleanup/bibliography-contributors-v1.1'
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out migration branch
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.head_ref }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -38,19 +37,19 @@ jobs:
       - name: Regenerate BibReview-owned Jekyll artifacts
         run: bibreview --config bibreview.yml render
 
-      - name: Validate regenerated state is stable
+      - name: Validate regenerated state
         run: |
           bibreview --config bibreview.yml render
           git diff --check
 
-      - name: Commit migration output
+      - name: Commit migration output when needed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A docs
           if git diff --cached --quiet; then
-            echo "Migration produced no tracked changes." >&2
-            exit 1
+            echo "No migration output to commit."
+            exit 0
           fi
           git commit -m "Repair bibliography contributors for BibReview v1.1"
           git push origin HEAD
