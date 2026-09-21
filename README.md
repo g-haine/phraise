@@ -5,9 +5,9 @@
 PHRAISE is a bibliographic survey dedicated to research on port-Hamiltonian
 systems. The website is a project powered by
 [BibReview](https://github.com/g-haine/bibreview): BibReview owns the
-bibliographic workflow, canonical state transitions, author handling, and static
-site rendering; PHRAISE supplies the subject-specific configuration, curated
-data, and Jekyll presentation. The optional arXiv cache is also managed by
+bibliographic workflow, canonical state transitions, contributor handling, and
+static site rendering; PHRAISE supplies the subject-specific configuration,
+curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
 PHRAISE currently pins **BibReview v1.1.0** for reproducible maintenance and
@@ -53,8 +53,8 @@ independent of the canonical bibliography.
 ```json
 {
   "metadata": {
-    "schema_version": 1,
-    "last_update": "2026-09-11"
+    "schema_version": 2,
+    "last_update": "2026-09-21"
   },
   "publications": [
     {
@@ -62,11 +62,22 @@ independent of the canonical bibliography.
       "identifiers": {
         "doi": "..."
       },
-      "title": "..."
+      "title": "...",
+      "authors": [
+        {
+          "given": "...",
+          "family": "...",
+          "literal": null,
+          "source_fields": {}
+        }
+      ]
     }
   ]
 }
 ```
+
+Schema version 2 requires every canonical publication to contain at least one
+author or editor. Empty `editors` lists are omitted from the canonical JSON.
 
 `metadata.last_update` changes only when an effective BibReview merge adds or
 updates publications. An arXiv-only update therefore does **not** change the
@@ -233,8 +244,7 @@ The PHRAISE integration workflow verifies the current architecture directly:
 - clean tracked tree after rendering;
 - JavaScript syntax for the canonical bibliography search;
 - complete Jekyll build;
-- displayed canonical bibliography update date;
-- clean tracked tree after the build.
+- displayed canonical bibliography update date.
 
 There is no separate PHRAISE bibliographic Python engine: reusable
 bibliographic behavior belongs in BibReview.
