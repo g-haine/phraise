@@ -4,11 +4,12 @@ date: 2013-03-18 00:00:00 +0100
 permalink: surveys-in-differential-algebraic-equations-i
 year: 2013
 authors: ""
+editors: Achim Ilchmann, Timo Reis
 category: books
 ---
  
-## Authors
-
+## Editors
+Achim Ilchmann, Timo Reis
  
 ## Abstract
 
@@ -22,7 +23,8 @@ category: books
 {% highlight bibtex %}
 {% raw %}
 @book{2013,
-  title={{Surveys in Differential-Algebraic Equations I}},
+  editor={Achim Ilchmann and Timo Reis},
+  title={Surveys in Differential-Algebraic Equations I},
   ISBN={9783642349287},
   DOI={10.1007/978-3-642-34928-7},
   publisher={Springer Berlin Heidelberg},

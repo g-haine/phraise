@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2651 authors referenced.</h3>
+<h3>There are 2657 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -218,6 +218,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/y-bestaoui'>Y. Bestaoui</a>
 <a href='{{ site.baseurl }}/authors/a-bestler'>A. Bestler</a>
 <a href='{{ site.baseurl }}/authors/peter-betsch'>Peter Betsch</a>
+<a href='{{ site.baseurl }}/authors/geraint-p-bevan'>Geraint P. Bevan</a>
 <a href='{{ site.baseurl }}/authors/monika-bhagwat'>Monika Bhagwat</a>
 <a href='{{ site.baseurl }}/authors/siddharth-kiranbhai-bhanderi'>Siddharth Kiranbhai Bhanderi</a>
 <a href='{{ site.baseurl }}/authors/kirtan-bhatt'>Kirtan Bhatt</a>
@@ -644,6 +645,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/s-fuchshumer'>S. Fuchshumer</a>
 <a href='{{ site.baseurl }}/authors/hideo-fujimoto'>Hideo Fujimoto</a>
 <a href='{{ site.baseurl }}/authors/kenji-fujimoto'>Kenji Fujimoto</a>
+<a href='{{ site.baseurl }}/authors/h-fujioka'>H. Fujioka</a>
 <a href='{{ site.baseurl }}/authors/shuichi-fukunaga'>Shuichi Fukunaga</a>
 </div>
 ## G
@@ -680,6 +682,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/j-y-gauthier'>J.-Y. Gauthier</a>
 <a href='{{ site.baseurl }}/authors/roghayeh-gavagsaz-ghoachani'>Roghayeh Gavagsaz-Ghoachani</a>
 <a href='{{ site.baseurl }}/authors/p-gawthrop'>P. Gawthrop</a>
+<a href='{{ site.baseurl }}/authors/peter-j-gawthrop'>Peter J. Gawthrop</a>
 <a href='{{ site.baseurl }}/authors/francois-gay-balmaz'>François Gay-Balmaz</a>
 <a href='{{ site.baseurl }}/authors/wenjie-ge'>Wenjie Ge</a>
 <a href='{{ site.baseurl }}/authors/hua-geng'>Hua Geng</a>
@@ -952,6 +955,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/m-m-namazi-isfahani'>M.M. Namazi Isfahani</a>
 <a href='{{ site.baseurl }}/authors/m-ishikawa'>M. Ishikawa</a>
 <a href='{{ site.baseurl }}/authors/masahide-ito'>Masahide Ito</a>
+<a href='{{ site.baseurl }}/authors/vladimir-g-ivancevic'>Vladimir G. Ivancevic</a>
 <a href='{{ site.baseurl }}/authors/toshihiro-iwai'>Toshihiro Iwai</a>
 <a href='{{ site.baseurl }}/authors/yuki-iwamoto'>Yuki Iwamoto</a>
 </div>
@@ -1721,6 +1725,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/edson-r-de-pieri'>Edson R. De Pieri</a>
 <a href='{{ site.baseurl }}/authors/helene-piet-lahanier'>Hélène Piet-Lahanier</a>
 <a href='{{ site.baseurl }}/authors/l-pietrac'>L. Piétrac</a>
+<a href='{{ site.baseurl }}/authors/michael-j-pilling'>Michael J. Pilling</a>
 <a href='{{ site.baseurl }}/authors/maribel-p-erez-pirela'>Maribel P´erez Pirela</a>
 <a href='{{ site.baseurl }}/authors/isabelle-pitault'>Isabelle Pitault</a>
 <a href='{{ site.baseurl }}/authors/santiago-sanchez-escalonilla-plaza'>Santiago Sanchez-Escalonilla Plaza</a>
@@ -1810,6 +1815,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/jeanne-redaud'>Jeanne Redaud</a>
 <a href='{{ site.baseurl }}/authors/johann-reger'>Johann Reger</a>
 <a href='{{ site.baseurl }}/authors/christian-rehtanz'>Christian Rehtanz</a>
+<a href='{{ site.baseurl }}/authors/darryn-j-reid'>Darryn J. Reid</a>
 <a href='{{ site.baseurl }}/authors/rob-reilink'>Rob Reilink</a>
 <a href='{{ site.baseurl }}/authors/markus-rein'>Markus Rein</a>
 <a href='{{ site.baseurl }}/authors/timo-reis'>Timo Reis</a>

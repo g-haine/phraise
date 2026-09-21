@@ -3,12 +3,12 @@ title: "Physics of the CPC-Autonomy: Port-Hamiltonian Dynamics and Control of Mu
 date: 2017-10-31 00:00:00 +0100
 permalink: physics-of-the-cpc-autonomy-port-hamiltonian-dynamics-and-control-of-multi-physical-networks
 year: 2017
-authors: ""
+authors: Vladimir G. Ivancevic, Darryn J. Reid, Michael J. Pilling
 category: chapters
 ---
  
 ## Authors
-
+[Vladimir G. Ivancevic](authors/vladimir-g-ivancevic), [Darryn J. Reid](authors/darryn-j-reid), [Michael J. Pilling](authors/michael-j-pilling)
  
 ## Abstract
 
@@ -22,6 +22,8 @@ category: chapters
 {% highlight bibtex %}
 {% raw %}
 @inbook{2017, ISBN={9789813230392},
+  author={Vladimir G. Ivancevic and Darryn J. Reid and Michael J. Pilling},
+  title={Physics of the CPC-Autonomy: Port-Hamiltonian Dynamics and Control of Multi-Physical Networks},
   DOI={10.1142/9789813230392_0002},
   booktitle={{Mathematics of Autonomy}},
   publisher={WORLD SCIENTIFIC},

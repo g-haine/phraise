@@ -10,7 +10,7 @@ site rendering; PHRAISE supplies the subject-specific configuration, curated
 data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.0.0** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.1.0** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -106,7 +106,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.0.0**.
+The Conda environment contains Python 3.12 and **BibReview v1.1.0**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -225,7 +225,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.0.0 installation;
+- exact BibReview v1.1.0 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
