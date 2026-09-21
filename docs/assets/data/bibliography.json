@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "schema_version": 1,
-    "last_update": "2026-09-11"
+    "schema_version": 2,
+    "last_update": "2026-09-21"
   },
   "publications": [
     {
@@ -7275,27 +7275,6 @@
           "citation": "Jacob, B. & Zwart, H. J. Homogeneous Port-Hamiltonian Systems. Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces 79–96 (2012) doi:10.1007/978-3-0348-0399-1_7"
         }
       ]
-    },
-    {
-      "id": "26dc098b-4e4c-5934-89fc-cc889d7fb5b3",
-      "identifiers": {
-        "doi": "10.1002/pamm.201900001"
-      },
-      "type": "journal-article",
-      "title": "GAMM Annual Meeting – Vienna 2019 Overview of the Sections",
-      "authors": [],
-      "abstract": "Volume 19 (2019) of PAMM “Proceedings in Applied Mathematics and Mechanics” assembles the contributions to the 90th Annual Meeting of the Gesellschaft für Angewandte Mathematik und Mechanik (GAMM), organized on February 18–22, 2019 by Technische Universität Wien, Austria.The contributions are grouped according to the minisymposia and sessions of the conference.Overview of the SectionsGAMM related DFG Priority ProgrammesDFG–PP 1748 Reliable Simulation Techniques in Solid Mechanics. Development of Non–Standard Discretization Methods, Mechanical and Mathematical AnalysisDFG–PP 1886 Polymorphic Uncertainty Modelling for the Numerical Design of StructuresDFG–PP 1897 Calm, Smooth and Smart – Novel Approaches for Influencing Vibrations by Means of Deliberately Introduced DissipationDFG–PP 2020 Cyclic Deterioration of High–Performance Concrete in an Experimental–Virtual LabMinisymposiaMS 1 Mathematical modeling, analysis and simulation of drug distribution for efficient pharmacotherapyMS 2 Topology optimization of structures considering elaborate constraints and variablesMS 3 Research software and –data: How to ensure replicability, reproducibility, and reusabilityMS 4 Coupled problems in rotating machinerySections 1–24S1 Multi‐body dynamicsS2 BiomechanicsS3 Damage and fracture mechanicsS4 Structural mechanicsS5 Nonlinear oscillationsS6 Material modelling in solid mechanicsS7 Coupled problemsS8 Multiscales and homogenizationS9 Laminar flows and transitionS10 Turbulence and reactive flowsS11 Interfacial flowsS12 Waves and acousticsS13 Flow controlS14 Applied analysisS15 Uncertainty quantificationS16 OptimizationS17 Applied and numerical linear algebraS18 Numerical methods of differential equationsS19 Optimization of differential equationsS20 Dynamics and controlS21 Mathematical signal and image processingS22 Scientific computingS23 Applied operator theoryS24 History of fluid mechanics and history, teaching and popularization of mathematicsYoung Researchers' MinisymposiaYRM1 Modeling and control of Port–Hamiltonian systemsYRM2 Recent advances in Galerkin methods based on polytopal meshesYRM3 Recent developments in damage mechanicsYRM5 Multi–physics modeling of elastomers",
-      "container_title": "PAMM",
-      "publication_year": "2019",
-      "volume": "19",
-      "issue": "1",
-      "pages": "",
-      "publisher": "Wiley",
-      "event": "",
-      "keywords": [],
-      "created_date": "2019-11-18",
-      "permalink": "gamm-annual-meeting-vienna-2019-overview-of-the-sections",
-      "references": []
     },
     {
       "id": "8260b922-ee57-5122-ada3-a076b5f80204",
@@ -25581,7 +25560,32 @@
       },
       "type": "book",
       "title": "Control of Interactive Robotic Interfaces",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Cristian",
+          "family": "Secchi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Cesare",
+          "family": "Fantuzzi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Stefano",
+          "family": "Stramigioli",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "",
       "container_title": "Springer Tracts in Advanced Robotics",
       "publication_year": "2007",
@@ -25603,7 +25607,32 @@
       },
       "type": "book-chapter",
       "title": "Physical Modeling and Port-Hamiltonian Systems",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Cristian",
+          "family": "Secchi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Cesare",
+          "family": "Fantuzzi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Stefano",
+          "family": "Stramigioli",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "Interaction between physical systems is determined by an exchange of energy and, therefore, a first step towards the control of interaction is to explicitly model the energetic properties of physical systems.",
       "container_title": "Springer Tracts in Advanced Robotics",
       "publication_year": "2007",
@@ -25627,7 +25656,32 @@
       },
       "type": "book-chapter",
       "title": "Control of Port-Hamiltonian Systems",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Cristian",
+          "family": "Secchi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Cesare",
+          "family": "Fantuzzi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Stefano",
+          "family": "Stramigioli",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "Energy plays a central role in the control of physical systems since the “shape” of the energy is related to the stability properties of the system. In fact, it is well known from physics, that every configuration characterized by a (local) minimum of the energy exhibits a (locally) stable behavior. Unfortunately the configuration that naturally corresponds to a minimum of the energy is very seldom the desired configuration for the system.",
       "container_title": "Springer Tracts in Advanced Robotics",
       "publication_year": "2007",
@@ -25649,7 +25703,32 @@
       },
       "type": "book-chapter",
       "title": "A Port-Hamiltonian Approach to the Control of Interaction",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Cristian",
+          "family": "Secchi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Cesare",
+          "family": "Fantuzzi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Stefano",
+          "family": "Stramigioli",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "In many applications, a robot has to interact with the surrounding environment in order to perform some useful task. When a manipulator interacts with an object a very profound change occurs. In fact, before the contact, the controller has to control only the motion of the robot; after the contact, the manipulator dynamically interacts with the environment and the controller has to manage a new dynamical system made up by the robot coupled with the environment. It has been proven in [328] that even if the controlled robot is stable in case of free motion, its behavior could become unstable when there is a contact with the environment.",
       "container_title": "Springer Tracts in Advanced Robotics",
       "publication_year": "2007",
@@ -25671,7 +25750,32 @@
       },
       "type": "book-chapter",
       "title": "Port-Hamiltonian Based Bilateral Telemanipulation",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Cristian",
+          "family": "Secchi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Cesare",
+          "family": "Fantuzzi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Stefano",
+          "family": "Stramigioli",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "Telemanipulation is one of the first fields of application of robotics (see [326] for an early history) and still one of the most challenging. In teleoperation a human operator has to perform a certain task on a remote environment. The human operator commands a local robotic interface (called master ). The motion of the master is transmitted through a communication channel to a remote robot (called slave ) which should replicate the motion of the master and perform a desired task on the remote environment. It is possible to improve performances providing to the human operator some real-time information about the interaction of the slave with the remote environment. This feedback information can be achieved in several ways (e.g. through visual displays, [146]) but the best way to improve the operator’s ability is to feedback the contact force between the slave and the environment to the master side. When the force at the slave side is reflected back to the human operator, it is said that the telemanipulation is controlled bilaterally, or, more simply, that we have a bilateral telemanipulation system . When teleoperation is performed over a great distance, such as in undersea or in space applications, or over packet switching network, such as the Internet, the communication delay associated to the transmission of information from master side to slave side and vice-versa becomes non negligible and it can therefore destabilize the whole system.",
       "container_title": "Springer Tracts in Advanced Robotics",
       "publication_year": "2007",
@@ -25693,7 +25797,32 @@
       },
       "type": "book-chapter",
       "title": "Transparency in Port-Hamiltonian Based Telemanipulation",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Cristian",
+          "family": "Secchi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Cesare",
+          "family": "Fantuzzi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Stefano",
+          "family": "Stramigioli",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "Stability is a key issue in the implementation of a bilateral telemanipulation system since both the non-negligible time delay in the communication between master and slave and the interaction with unknown environments can destabilize the whole system. In Chap. 4 it has been shown that passivity theory and port-Hamiltonian systems can be fruitfully used to build an intrinsically passive telemanipulation scheme which, therefore, has a stable behavior both in case of free motion and in case of contact with any passive, possibly unknown, environment. Scattering theory has been used to build a communication channel which is lossless independently of any constant transmission delay and the problem of wave reflection arising when coupling master and slave side through scattering based communication channels has been solved. The scheme has been extended in order to take into account the sampled data nature of controllers in a passive way. Moreover discrete scattering has been defined and packet-switching transmission lines have been considered. A communication strategy that allows to preserve passivity even in case of loss of packets and of variable transmission delay has been proposed. Finally, a passivity preserving algorithm that allows to rebuild lost packets by interpolation has been proposed.",
       "container_title": "Springer Tracts in Advanced Robotics",
       "publication_year": "2007",
@@ -27474,7 +27603,25 @@
       "keywords": [],
       "created_date": "2013-03-18",
       "permalink": "surveys-in-differential-algebraic-equations-i",
-      "references": []
+      "references": [],
+      "editors": [
+        {
+          "given": "Achim",
+          "family": "Ilchmann",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Timo",
+          "family": "Reis",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ]
     },
     {
       "id": "308c8a1b-4532-52c0-b9a5-45d60f6a39af",
@@ -28398,7 +28545,33 @@
       "keywords": [],
       "created_date": "2011-03-24",
       "permalink": "model-reduction-for-circuit-simulation",
-      "references": []
+      "references": [],
+      "editors": [
+        {
+          "given": "Peter",
+          "family": "Benner",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Michael",
+          "family": "Hinze",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "E. Jan W.",
+          "family": "ter Maten",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ]
     },
     {
       "id": "c79db051-bf50-5d06-9332-8725a770128a",
@@ -32086,7 +32259,16 @@
       },
       "type": "book-chapter",
       "title": "IPC in telemanipulation",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Stefano",
+          "family": "Stramigioli",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        }
+      ],
       "abstract": "In this chapter a general setting for telemanipulation of Port Control Hamiltonian systems has been presented. A new system theoretic condition has been introduced which can be used to test if proper matching is taking place. A possible measure of matching has been also introduced. It has been shown that the standard form of explicit port controlled Hamiltonian systems is not general enough to obtain matching and it must be extended by a feed-throw term. This can be shown more generally using directly a network structure as shown in Sect. 6.4.1. The presented theory is important for the implementation of geometrical telemanipulation where the vector space used se (3) does not have an internal product.",
       "container_title": "Lecture Notes in Control and Information Sciences",
       "publication_year": "2007",
@@ -63256,27 +63438,6 @@
           "citation": "Poincaré, H. Sur l’équilibre d’une masse fluide animée d’un mouvement de rotation. Acta Math. 7, 259–380 (1885)"
         }
       ]
-    },
-    {
-      "id": "ee51b990-17d7-5bda-ae02-c3536afed02d",
-      "identifiers": {
-        "doi": "10.1016/0967-0661(93)90438-w"
-      },
-      "type": "journal-article",
-      "title": "182 Port-controlled Hamiltonian systems: Modelling origins and systemtheoretic properties",
-      "authors": [],
-      "abstract": "",
-      "container_title": "Control Engineering Practice",
-      "publication_year": "1993",
-      "volume": "1",
-      "issue": "5",
-      "pages": "902",
-      "publisher": "Elsevier BV",
-      "event": "",
-      "keywords": [],
-      "created_date": "2008-09-12",
-      "permalink": "182-port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties",
-      "references": []
     },
     {
       "id": "7900864e-e616-5427-b750-a83c3906ee43",
@@ -201791,7 +201952,16 @@
       },
       "type": "book-chapter",
       "title": "Stability analysis for a class of Hamiltonian systems with digital control",
-      "authors": [],
+      "authors": [
+        {
+          "given": "H.",
+          "family": "Fujioka",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        }
+      ],
       "abstract": "On contrast to the successful achievement of nonlinear control theory with continuous-time feedback as in, e.g., [1], [5], there are less studies on the digital control of nonlinear systems with notable exceptions, e.g., [2], [4]. In particular there are few results on quantitative aspects of the subject. This article considers a digital implementation problem of the passivity based control for port-controlled Hamiltonian systems. A sufficient condition for asymptotic stability is given in terms of the Hamilton-Jacobi-Isaac inequality. A more tractable sufficient condition is also shown with a reward of conservatism. The effectiveness of the proposed methods is demonstrated by numerical examples.",
       "container_title": "Developments in Control Theory Towards Glocal Control",
       "publication_year": "2012",
@@ -306240,7 +306410,24 @@
       },
       "type": "journal-article",
       "title": "Bond-graph modeling",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Peter J.",
+          "family": "Gawthrop",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Geraint P.",
+          "family": "Bevan",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "The bond-graph method is a graphical approach to modeling in which component energy ports are connected by bonds that specify the transfer of energy between system components. Power, the rate of energy transport between components, is the universal currency of physical systems. Bond graphs are inherently energy based and thus related to other energy-based methods, including dissipative systems and port-Hamiltonians. This article has presented an introduction to bond graphs for control engineers. Although the notation can initially appear daunting, the bond graph method is firmly grounded in the familiar concepts of energy and power. The essential element to be grasped is that bonds represent power transactions between components",
       "container_title": "IEEE Control Systems",
       "publication_year": "2007",
@@ -315033,7 +315220,48 @@
       },
       "type": "journal-article",
       "title": "Transient stabilization of multimachine power systems with nontrivial transfer conductances",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Romeo",
+          "family": "Ortega",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Martha",
+          "family": "Galaz",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Alessandro",
+          "family": "Astolfi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Yuanzhang",
+          "family": "Sun",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Tielong",
+          "family": "Shen",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "We provide a solution to the long-standing problem of transient stabilization of multimachine power systems with nonnegligible transfer conductances. More specifically, we consider the full 3n-dimensional model of the n-generator system with lossy transmission lines and loads and prove the existence of a nonlinear static state feedback law for the generator excitation field that ensures asymptotic stability of the operating point with a well-defined estimate of the domain of attraction provided by a bona fide Lyapunov function. To design the control law we apply the recently introduced interconnection and damping assignment passivity-based control methodology that endows the closed-loop system with a port-controlled Hamiltonian structure with desired total energy function. The latter consists of terms akin to kinetic and potential energies, thus has a clear physical interpretation. Our derivations underscore the deleterious effects of resistive elements which, as is well known, hamper the assignment of simple \"gradient\" energy functions and compel us to include nonstandard cross terms. A key step in the construction is the modification of the energy transfer between the electrical and the mechanical parts of the system which is obtained via the introduction of state-modulated interconnections that play the role of multipliers in classical passivity theory.",
       "container_title": "IEEE Transactions on Automatic Control",
       "publication_year": "2005",
@@ -367121,7 +367349,32 @@
       },
       "type": "book-chapter",
       "title": "Physics of the CPC-Autonomy: Port-Hamiltonian Dynamics and Control of Multi-Physical Networks",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Vladimir G.",
+          "family": "Ivancevic",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Darryn J.",
+          "family": "Reid",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Michael J.",
+          "family": "Pilling",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "",
       "container_title": "Mathematics of Autonomy",
       "publication_year": "2017",
@@ -375910,28 +376163,6 @@
       ]
     },
     {
-      "id": "276895a9-8ef2-5996-96c9-cab5df945510",
-      "identifiers": {
-        "doi": "10.1201/b19290-8",
-        "isbn": "9780429157882"
-      },
-      "type": "book-chapter",
-      "title": "- Compositional Design of Cyber-Physical Systems Using Port-Hamiltonian Systems",
-      "authors": [],
-      "abstract": "",
-      "container_title": "Cyber-Physical Systems",
-      "publication_year": "2015",
-      "volume": "",
-      "issue": "",
-      "pages": "52--79",
-      "publisher": "CRC Press",
-      "event": "",
-      "keywords": [],
-      "created_date": "2015-10-14",
-      "permalink": "compositional-design-of-cyber-physical-systems-using-port-hamiltonian-systems",
-      "references": []
-    },
-    {
       "id": "0c760bc9-7661-5f1f-a4e8-644363298f76",
       "identifiers": {
         "doi": "10.1299/jsdd.2.694"
@@ -378451,7 +378682,32 @@
       },
       "type": "book-chapter",
       "title": "Chapter Seven. Energy-Based Control for Impulsive Port-Controlled Hamiltonian Systems",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Wassim M.",
+          "family": "Haddad",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "VijaySekhar",
+          "family": "Chellaboina",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Sergey G.",
+          "family": "Nersesov",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "",
       "container_title": "Impulsive and Hybrid Dynamical Systems",
       "publication_year": "2006",
@@ -383158,7 +383414,40 @@
       },
       "type": "journal-article",
       "title": "Interconnection and Damping Assignment Passivity for the Control of PV/Battery Hybrid Power Source in Islanded Microgrid",
-      "authors": [],
+      "authors": [
+        {
+          "given": "Nidhal",
+          "family": "Khefifi",
+          "literal": null,
+          "source_fields": {
+            "sequence": "first"
+          }
+        },
+        {
+          "given": "Azeddine",
+          "family": "Houari",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Mohamed",
+          "family": "Machmoum",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        },
+        {
+          "given": "Malek",
+          "family": "Ghanes",
+          "literal": null,
+          "source_fields": {
+            "sequence": "additional"
+          }
+        }
+      ],
       "abstract": "This work proposes an Interconnection and Damping Assignment Passivity Based Control (IDA-PBC) to enhance power quality of an islanded Micro-grid (MG) including a photovoltaic main source (PV) and a Li-ion battery based Energy Storage System (ESS). In this MG, the PV generator-unit is controlled to provide its maximum power and the ESS-unit is controlled to ensure the desired voltage waveform at the Point of Common Coupling (PCC) and to support the PV source in order to satisfy the local loads. The IDA-PBC approach is chosen for its proprieties which allow the synthesis of asymptotically stable controllers for passive systems by the mean of the power system energy. In fact, the damping and interconnection coupling matrices of the IDA-PBC controller allows additional degree of freedoms in comparison to classical passivity controllers that enhance the convergence rapidity and the robustness under uncertainties. The mathematical model of the PV source and the Li-ion battery based ESS are presented. The power interface circuits are firstly represented through Park-coordinates then expressed in a Port-Controlled Hamiltonian (PCH) form. The obtained models are used to the design of the proposed IDA-PBC controller where the stability conditions are checked. The proposed control validity and performance are verified through comparison simulation tests with a conventional Proportional-Integral (PI) based control strategy. The obtained results show that the proposed control algorithm allows reducing the current and voltage overshoots under transient’s conditions in comparison to the PI controller. Furthermore, the proposed control achieves better voltage waveform at the PCC in steady state.",
       "container_title": "International Journal of Renewable Energy Research",
       "publication_year": "2019",

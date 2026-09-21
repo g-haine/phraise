@@ -4,11 +4,12 @@ date: 2011-03-24 00:00:00 +0100
 permalink: model-reduction-for-circuit-simulation
 year: 2011
 authors: ""
+editors: Peter Benner, Michael Hinze, E. Jan W. ter Maten
 category: books
 ---
  
-## Authors
-
+## Editors
+Peter Benner, Michael Hinze, E. Jan W. ter Maten
  
 ## Abstract
 
@@ -22,7 +23,8 @@ category: books
 {% highlight bibtex %}
 {% raw %}
 @book{2011,
-  title={{Model Reduction for Circuit Simulation}},
+  editor={Peter Benner and Michael Hinze and E. Jan W. ter Maten},
+  title={Model Reduction for Circuit Simulation},
   ISBN={9789400700895},
   ISSN={1876-1119},
   DOI={10.1007/978-94-007-0089-5},

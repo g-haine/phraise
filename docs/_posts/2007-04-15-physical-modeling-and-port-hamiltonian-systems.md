@@ -3,7 +3,7 @@ title: "Physical Modeling and Port-Hamiltonian Systems"
 date: 2007-04-15 00:00:00 +0100
 permalink: physical-modeling-and-port-hamiltonian-systems
 year: 2007
-authors: ""
+authors: Cristian Secchi, Cesare Fantuzzi, Stefano Stramigioli
 category: chapters
 tags:
   - Physical System
@@ -11,7 +11,7 @@ tags:
 ---
  
 ## Authors
-
+[Cristian Secchi](authors/cristian-secchi), [Cesare Fantuzzi](authors/cesare-fantuzzi), [Stefano Stramigioli](authors/stefano-stramigioli)
  
 ## Abstract
 Interaction between physical systems is determined by an exchange of energy and, therefore, a first step towards the control of interaction is to explicitly model the energetic properties of physical systems.
@@ -28,6 +28,8 @@ Physical System; Energetic Property
 {% highlight bibtex %}
 {% raw %}
 @inbook{1, ISBN={9783540497127},
+  author={Cristian Secchi and Cesare Fantuzzi and Stefano Stramigioli},
+  title={Physical Modeling and Port-Hamiltonian Systems},
   DOI={10.1007/978-3-540-49715-8_1},
   booktitle={{Control of Interactive Robotic Interfaces}},
   publisher={Springer Berlin Heidelberg},

@@ -3,12 +3,12 @@ title: "Bond-graph modeling"
 date: 2007-04-02 00:00:00 +0100
 permalink: bond-graph-modeling
 year: 2007
-authors: ""
+authors: Peter J. Gawthrop, Geraint P. Bevan
 category: articles
 ---
  
 ## Authors
-
+[Peter J. Gawthrop](authors/peter-j-gawthrop), [Geraint P. Bevan](authors/geraint-p-bevan)
  
 ## Abstract
 The bond-graph method is a graphical approach to modeling in which component energy ports are connected by bonds that specify the transfer of energy between system components. Power, the rate of energy transport between components, is the universal currency of physical systems. Bond graphs are inherently energy based and thus related to other energy-based methods, including dissipative systems and port-Hamiltonians. This article has presented an introduction to bond graphs for control engineers. Although the notation can initially appear daunting, the bond graph method is firmly grounded in the familiar concepts of energy and power. The essential element to be grasped is that bonds represent power transactions between components
@@ -26,6 +26,8 @@ The bond-graph method is a graphical approach to modeling in which component ene
 {% highlight bibtex %}
 {% raw %}
 @article{2007, volume={27},
+  author={Peter J. Gawthrop and Geraint P. Bevan},
+  title={Bond-graph modeling},
   ISSN={1941-000X},
   DOI={10.1109/mcs.2007.338279},
   number={2},

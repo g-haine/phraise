@@ -3,12 +3,12 @@ title: "Transient stabilization of multimachine power systems with nontrivial tr
 date: 2005-01-17 00:00:00 +0100
 permalink: transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances
 year: 2005
-authors: ""
+authors: Romeo Ortega, Martha Galaz, Alessandro Astolfi, Yuanzhang Sun, Tielong Shen
 category: articles
 ---
  
 ## Authors
-
+[Romeo Ortega](authors/romeo-ortega), [Martha Galaz](authors/martha-galaz-larios), [Alessandro Astolfi](authors/alessandro-astolfi), [Yuanzhang Sun](authors/yuanzhang-sun), [Tielong Shen](authors/tielong-shen)
  
 ## Abstract
 We provide a solution to the long-standing problem of transient stabilization of multimachine power systems with nonnegligible transfer conductances. More specifically, we consider the full 3n-dimensional model of the n-generator system with lossy transmission lines and loads and prove the existence of a nonlinear static state feedback law for the generator excitation field that ensures asymptotic stability of the operating point with a well-defined estimate of the domain of attraction provided by a bona fide Lyapunov function. To design the control law we apply the recently introduced interconnection and damping assignment passivity-based control methodology that endows the closed-loop system with a port-controlled Hamiltonian structure with desired total energy function. The latter consists of terms akin to kinetic and potential energies, thus has a clear physical interpretation. Our derivations underscore the deleterious effects of resistive elements which, as is well known, hamper the assignment of simple "gradient" energy functions and compel us to include nonstandard cross terms. A key step in the construction is the modification of the energy transfer between the electrical and the mechanical parts of the system which is obtained via the introduction of state-modulated interconnections that play the role of multipliers in classical passivity theory.
@@ -26,6 +26,8 @@ We provide a solution to the long-standing problem of transient stabilization of
 {% highlight bibtex %}
 {% raw %}
 @article{2005, volume={50},
+  author={Romeo Ortega and Martha Galaz and Alessandro Astolfi and Yuanzhang Sun and Tielong Shen},
+  title={Transient stabilization of multimachine power systems with nontrivial transfer conductances},
   ISSN={1558-2523},
   DOI={10.1109/tac.2004.840477},
   number={1},
