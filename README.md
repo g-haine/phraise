@@ -31,8 +31,9 @@ Important state files are:
 - `docs/assets/data/collected.json` — temporary canonical staging used by
   collect/refresh before merge;
 - `docs/assets/data/author_mappings.json` — reviewed author identities;
-- `audit/campaign.json` and `audit/report.json` — resumable historical-audit
-  checkpoint and review report, separate from canonical staging;
+- `audit/campaign.json` and `audit/report.json` — local resumable
+  historical-audit checkpoint and review report, separate from canonical
+  staging and ignored by Git;
 - `docs/assets/bib/` — tracked BibTeX sources;
 - `docs/DOI.txt`, `docs/newDOI.txt`, `docs/checkDOI.txt`,
   `docs/badDOI.txt` — DOI workflow state.
@@ -149,13 +150,13 @@ the report are preserved.
 Preview a small pilot batch without writing audit state or calling providers:
 
 ```bash
-bibreview --config bibreview.yml --dry-run audit --batch-size 25
+bibreview --dry-run audit --batch-size 25
 ```
 
 Run the 25-publication pilot:
 
 ```bash
-bibreview --config bibreview.yml audit --batch-size 25
+bibreview audit --batch-size 25
 ```
 
 Inspect `audit/report.json` manually. Provider differences are evidence for
@@ -163,17 +164,19 @@ review, not automatic corrections. Once the pilot rules are satisfactory,
 subsequent invocations return to PHRAISE's configured default of 50:
 
 ```bash
-bibreview --config bibreview.yml audit
+bibreview audit
 ```
 
 ## Updating the bibliography
 
-Run commands from the repository root.
+Run commands from the repository root. Because the configuration file is named
+`bibreview.yml`, the CLI uses it by default; `--config bibreview.yml` is
+therefore unnecessary here.
 
 1. Discover and classify new candidates:
 
    ```bash
-   bibreview --config bibreview.yml discover
+   bibreview discover
    ```
 
 2. Review `docs/checkDOI.txt` manually and move classified DOI values to
@@ -182,8 +185,8 @@ Run commands from the repository root.
 3. Refresh incomplete existing publications:
 
    ```bash
-   bibreview --config bibreview.yml refresh
-   bibreview --config bibreview.yml merge
+   bibreview refresh
+   bibreview merge
    ```
 
    Refresh and collection share `collected.json`, so refresh staging is merged
@@ -192,20 +195,20 @@ Run commands from the repository root.
 4. Collect pending new/recovered DOI values, then merge them:
 
    ```bash
-   bibreview --config bibreview.yml collect
-   bibreview --config bibreview.yml merge
+   bibreview collect
+   bibreview merge
    ```
 
 5. Review author identities:
 
    ```bash
-   bibreview --config bibreview.yml authors
+   bibreview authors
    ```
 
    Apply only unambiguous additions when appropriate:
 
    ```bash
-   bibreview --config bibreview.yml authors --apply-safe
+   bibreview authors --apply-safe
    ```
 
    Review any remaining ambiguous cases manually in
@@ -214,7 +217,7 @@ Run commands from the repository root.
 6. Render the complete generated site surface:
 
    ```bash
-   bibreview --config bibreview.yml render
+   bibreview render
    ```
 
    Rendering performs no provider/network fallback. Every canonical publication
@@ -225,7 +228,7 @@ For a read-only preview of any supported mutation, use the global
 `--dry-run` option, for example:
 
 ```bash
-bibreview --config bibreview.yml --dry-run render
+bibreview --dry-run render
 ```
 
 After a maintenance cycle, review the complete Git diff and submit the resulting
@@ -249,7 +252,7 @@ arXiv entries are deliberately separate from the canonical DOI bibliography.
 They are display-only links managed by BibReview's optional arXiv module:
 
 ```bash
-bibreview --config bibreview.yml arxiv
+bibreview arxiv
 ```
 
 The scheduled GitHub workflow runs this command and changes only
