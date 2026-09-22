@@ -2,7 +2,7 @@
 title: "On Disturbance Rejection for a Class of Underactuated Hamiltonian Systems"
 date: 2023-01-16 00:00:00 +0100
 permalink: on-disturbance-rejection-for-a-class-of-underactuated-hamiltonian-systems
-year: 2023
+year: 2022
 authors: Fernanda Ramos-García, Jorge Alberto Estopier de la Cruz, Gerardo Espinosa-Pérez
 category: articles
 ---
@@ -15,7 +15,7 @@ In this work, the problem of additive perturbations is studied for a class of po
  
 ## Citation
 - **Journal:** Memorias del Congreso Nacional de Control Automático
-- **Year:** 2023
+- **Year:** 2022
 - **Volume:** 5
 - **Issue:** 1
 - **Pages:** 187--192

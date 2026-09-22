@@ -11,7 +11,7 @@ category: proceedings
 [Yongsheng Zhang](authors/yongsheng-zhang), [Haisheng Yu](authors/haisheng-yu), [Xiangxiang Meng](authors/xiangxiang-meng), [Qing Yang](authors/qing-yang)
  
 ## Abstract
-
+In this study, we develop a cooperative control strategy that leverages fractional order dynamic surface sliding mode control (SMC) combined with error port-controlled Hamiltonian (EPH) for systems utilizing permanent magnet synchronous motors (PMSM). Initially, the fractional order dynamic surface SMC method is proposed to boost the dynamic behavior of the system. Then, the EPH with variable damping and integral term method is presented to increase the steady-state performance of the system. Additionally, a new sigmoid function is employed as the cooperative function, leveraging the benefits of the aforementioned control methods. Simulation studies have validated the efficacy of the cooperative control strategy,
  
 ## Citation
 - **Journal:** 2025 37th Chinese Control and Decision Conference (CCDC)

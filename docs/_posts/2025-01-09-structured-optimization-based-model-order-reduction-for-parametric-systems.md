@@ -11,7 +11,7 @@ category: articles
 [Paul Schwerdtner](authors/paul-schwerdtner), [Manuel Schaller](authors/manuel-schaller)
  
 ## Abstract
-
+We develop an optimization-based algorithm for parametric model order reduction (PMOR) of linear time-invariant dynamical systems. Our method aims at minimizing the \\( \mathcal{H}_\infty \otimes \mathcal{L}_\infty \\) approximation error in the frequency and parameter domain by an optimization of the reduced order model (ROM) matrices. State-of-the-art PMOR methods often compute several nonparametric ROMs for different parameter samples, which are then combined to a single parametric ROM. However, these parametric ROMs can have a low accuracy between the utilized sample points. In contrast, our optimization-based PMOR method minimizes the approximation error across the entire parameter domain. Moreover, due to our flexible approach of optimizing the system matrices directly, we can enforce favorable features, such as a port-Hamiltonian structure, in our ROMs across the entire parameter domain. Our method is an extension of the recently developed structured optimization-based model order reduction algorithm to parametric systems. We extend both the ROM parameterization and the adaptive sampling procedure to the parametric case. Several numerical examples demonstrate the effectiveness and high accuracy of our method in comparison with other PMOR methods.
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

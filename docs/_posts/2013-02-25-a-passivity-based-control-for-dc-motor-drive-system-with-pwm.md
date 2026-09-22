@@ -2,7 +2,7 @@
 title: "A Passivity-based Control for DC Motor Drive System with PWM"
 date: 2013-02-25 00:00:00 +0100
 permalink: a-passivity-based-control-for-dc-motor-drive-system-with-pwm
-year: 2013
+year: 2012
 authors: Jiawei Huang, Honghua Wang
 category: articles
 ---
@@ -15,7 +15,7 @@ This paper investigates a passivity-based control (PBC) for DC Motor drive syste
  
 ## Citation
 - **Journal:** TELKOMNIKA Indonesian Journal of Electrical Engineering
-- **Year:** 2013
+- **Year:** 2012
 - **Volume:** 10
 - **Issue:** 8
 - **Pages:** 

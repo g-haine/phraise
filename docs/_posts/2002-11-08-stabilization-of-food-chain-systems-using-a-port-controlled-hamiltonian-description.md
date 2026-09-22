@@ -18,7 +18,7 @@ We consider the problem of output-feedback stabilization of a class of food-chai
 - **Year:** 2000
 - **Volume:** 
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 2245--2249
 - **Publisher:** IEEE
 - **DOI:** [10.1109/acc.2000.878579](https://doi.org/10.1109/acc.2000.878579)
  
@@ -31,7 +31,8 @@ We consider the problem of output-feedback stabilization of a class of food-chai
   booktitle={{Proceedings of the 2000 American Control Conference. ACC (IEEE Cat. No.00CH36334)}},
   publisher={IEEE},
   author={Ortega, R. and Astolfi, A. and Bastin, G. and Rodriguez, H.},
-  year={2000}
+  year={2000},
+  pages={2245--2249}
 }
 {% endraw %}
 {% endhighlight %}

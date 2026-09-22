@@ -11,7 +11,7 @@ category: proceedings
 [Sheng Hao](authors/sheng-hao), [Yuh Yamashita](authors/yuh-yamashita)
  
 ## Abstract
-
+In this study, we attempt to solve the problems of speed observation for a class of mechanical systems under velocity disturbances are solved. Plant systems can be rendered linear in terms of velocity through coordinate transformation. In our problem setting, only the displacements in local coordinates are measurable. A novel speed observer for disturbed systems is constructed using the immersion and invariance (I&I) methodology and an exact differentiator. Because the existence of an offset term in the observed state is unavoidable in our problem setting, a globally convergent reduced order I&I observer allowing offsets is proposed. A high-pass filter is applied to extract the high-frequency component of the estimated state. A simulation example is provided to demonstrate the effectiveness of the proposed method.
  
 ## Citation
 - **Journal:** 2025 IEEE International Conference on Electrical Energy Conversion Systems and Control（IEECSC)

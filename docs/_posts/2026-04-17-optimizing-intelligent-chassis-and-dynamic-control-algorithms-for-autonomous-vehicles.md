@@ -11,7 +11,7 @@ category: proceedings
 [Wenhao Ding](authors/wenhao-ding), [Shengzhe Fan](authors/shengzhe-fan), [Wenbo Zhang](authors/wenbo-zhang)
  
 ## Abstract
-
+Addressing the current requirements for path tracking and vehicle dynamic stability control in autonomous vehicles, this paper constructs a steering-suspension coupled multibody model integrating actuator dynamics. Energy shaping modeling is implemented based on port Hamiltonian theory, reducing dynamic prediction errors to within standard limits and revealing the coupling mechanism between the vehicle and control parameters. An innovative hierarchical distributed optimization architecture, combined with a hybrid algorithm of NSGA-III and MINLP, is used to obtain Pareto solutions for steering sensitivity and suspension ride comfort. An adaptive robust control strategy is developed, and a high-performance parallel computing architecture using Python reduces the response time to within 10ms. This has been effectively validated, providing support for intelligent chassis optimization.
  
 ## Citation
 - **Journal:** International Conference on Computer Vision, Algorithms, and Communication (CVAC 2026)

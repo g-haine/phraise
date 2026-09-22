@@ -17,7 +17,7 @@ An up-to-date survey of the theory of port-Hamiltonian systems is given, emphasi
 - **Journal:** Foundations and Trends® in Systems and Control
 - **Year:** 2014
 - **Volume:** 1
-- **Issue:** 2
+- **Issue:** 2-3
 - **Pages:** 173--378
 - **Publisher:** Now Publishers
 - **DOI:** [10.1561/2600000002](https://doi.org/10.1561/2600000002)
@@ -30,7 +30,7 @@ An up-to-date survey of the theory of port-Hamiltonian systems is given, emphasi
   volume={1},
   ISSN={2325-6826},
   DOI={10.1561/2600000002},
-  number={2},
+  number={2-3},
   journal={Foundations and Trends® in Systems and Control},
   publisher={Emerald},
   author={van der Schaft, Arjan and Jeltsema, Dimitri},

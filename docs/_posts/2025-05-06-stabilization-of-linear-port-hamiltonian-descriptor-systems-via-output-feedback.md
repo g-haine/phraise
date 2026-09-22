@@ -11,7 +11,7 @@ category: articles
 [Delin Chu](authors/delin-chu), [Volker Mehrmann](authors/volker-mehrmann)
  
 ## Abstract
-
+The structure preserving stabilization of (possibly nonregular) linear port-Hamiltonian descriptor (pHDAE) systems by output feedback is discussed. For general descriptor systems, the characterization when there exist output feedbacks that lead to an asymptotically stable closed-loop system is a very hard and partially an open problem. In contrast to this, it is shown that for systems in pHDAE representation this problem can be completely solved. Necessary and sufficient conditions are presented that guarantee that there exist a proportional and/or derivative output feedback such that the resulting closed-loop port-Hamiltonian descriptor system is asymptotically stable. For this, it is necessary that the output feedback also makes the problem regular and of index at most one. A complete characterization when this is possible is presented as well.
  
 ## Citation
 - **Journal:** SIAM Journal on Matrix Analysis and Applications

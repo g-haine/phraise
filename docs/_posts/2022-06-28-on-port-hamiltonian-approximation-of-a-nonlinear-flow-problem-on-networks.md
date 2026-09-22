@@ -11,7 +11,7 @@ category: articles
 [Björn Liljegren-Sailer](authors/bjorn-liljegren-sailer), [Nicole Marheineke](authors/nicole-marheineke)
  
 ## Abstract
-
+This paper deals with the systematic development of structure-preserving approximations for a class of nonlinear partial differential equations on networks. The class includes, for example, gas pipe network systems described by barotropic Euler equations. Our approach is guided throughout by energy-based modeling concepts (port-Hamiltonian formalism, theory of Legendre transformation), which provide a convenient and general line of reasoning. Under mild assumptions on the approximation, local conservation of mass, an energy bound, and the inheritance of the port-Hamiltonian structure can be shown. Our approach is not limited to conventional space discretization but also covers complexity reduction of the nonlinearities by inexact integration. Thus, it can serve as a basis for structure-preserving model reduction. Combined with an energy-stable time integration, we demonstrate the applicability and good stability properties using the example of the Euler equations on networks.
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

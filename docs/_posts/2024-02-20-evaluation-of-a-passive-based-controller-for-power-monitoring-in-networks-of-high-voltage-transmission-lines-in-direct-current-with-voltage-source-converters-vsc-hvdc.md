@@ -2,7 +2,7 @@
 title: "Evaluation of a Passive-Based Controller for Power Monitoring in Networks of High Voltage Transmission Lines in Direct Current with Voltage Source Converters (VSC–HVDC)"
 date: 2024-02-20 00:00:00 +0100
 permalink: evaluation-of-a-passive-based-controller-for-power-monitoring-in-networks-of-high-voltage-transmission-lines-in-direct-current-with-voltage-source-converters-vsc-hvdc
-year: 2024
+year: 2023
 authors: Montserrat Trejo-Guerra, Sofia Avila-Becerril, Paul Maya-Ortiz
 category: articles
 ---
@@ -15,7 +15,7 @@ In this paper a tracking Passivity--based Control (PBC) for a multiterminal Volt
  
 ## Citation
 - **Journal:** Memorias del Congreso Nacional de Control Automático
-- **Year:** 2024
+- **Year:** 2023
 - **Volume:** 6
 - **Issue:** 1
 - **Pages:** 187--192

@@ -11,7 +11,7 @@ category: articles
 [M. K. Camlibel](authors/m-kanat-camlibel), [A. J. van der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
-
+The relationship of the theory of port-Hamiltonian systems with the mathematical concept of monotonicity is explored. The earlier introduced notion of incrementally port-Hamiltonian systems is extended to systems defined with respect to maximal cyclically monotone relations, together with their generating convex functions. This gives rise to interesting subclasses of incrementally port-Hamiltonian systems, with examples stemming from physical systems modeling as well as from convex optimization. Furthermore, it is shown how cyclical monotonicity for Dirac structures is equivalent to separability. An in-depth treatment is given of the composition of maximal monotone and maximal cyclically monotone relations, where in the latter case the resulting maximal cyclically monotone relation is shown to be computable through the use of generating functions. The results on compositionality are employed for steady-state analysis and for a convex optimization approach to the computation of the equilibria of interconnected incrementally port-Hamiltonian systems. Finally, the relation to incremental and differential passivity is discussed, and it is shown how incrementally port-Hamiltonian systems with strictly convex Hamiltonians are equilibrium independent passive.
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

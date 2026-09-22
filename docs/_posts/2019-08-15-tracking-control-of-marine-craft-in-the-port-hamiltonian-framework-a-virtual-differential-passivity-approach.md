@@ -18,7 +18,7 @@ In this work we propose a virtual contraction-based control (v-CBC) design appro
 - **Year:** 2019
 - **Volume:** 
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 1636--1641
 - **Publisher:** IEEE
 - **DOI:** [10.23919/ecc.2019.8796246](https://doi.org/10.23919/ecc.2019.8796246)
  
@@ -31,7 +31,8 @@ In this work we propose a virtual contraction-based control (v-CBC) design appro
   booktitle={{2019 18th European Control Conference (ECC)}},
   publisher={IEEE},
   author={Reyes-Baez, Rodolfo and van der Schaft, Arjan and Jayawardhana, Bayu and Donaire, Alejandro and Perez, Tristan},
-  year={2019}
+  year={2019},
+  pages={1636--1641}
 }
 {% endraw %}
 {% endhighlight %}

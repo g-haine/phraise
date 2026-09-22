@@ -14,11 +14,11 @@ category: articles
 We consider a port-Hamiltonian system on an open spatial domain \\( \Omega \subseteq \mathbb{R}^n \\) with bounded Lipschitz boundary. We show that there is a boundary triple associated to this system. Hence, we can characterize all boundary conditions that provide unique solutions that are non-increasing in the Hamiltonian. As a by-product we develop the theory of quasi Gelfand triples. Adding "natural" boundary controls and boundary observations yields scattering/impedance passive boundary control systems. This framework will be applied to the wave equation, Maxwell's equations and Mindlin plate model. Probably, there are even more applications.
  
 ## Citation
-- **Journal:** Evolution Equations &amp; Control Theory
+- **Journal:** Evolution Equations and Control Theory
 - **Year:** 2021
 - **Volume:** 10
 - **Issue:** 4
-- **Pages:** 965
+- **Pages:** 965--1006
 - **Publisher:** American Institute of Mathematical Sciences (AIMS)
 - **DOI:** [10.3934/eect.2020098](https://doi.org/10.3934/eect.2020098)
  
@@ -31,11 +31,11 @@ We consider a port-Hamiltonian system on an open spatial domain \\( \Omega \subs
   ISSN={2163-2480},
   DOI={10.3934/eect.2020098},
   number={4},
-  journal={Evolution Equations \& Control Theory},
+  journal={Evolution Equations and Control Theory},
   publisher={American Institute of Mathematical Sciences (AIMS)},
   author={Skrepek, Nathanael},
   year={2021},
-  pages={965}
+  pages={965--1006}
 }
 {% endraw %}
 {% endhighlight %}

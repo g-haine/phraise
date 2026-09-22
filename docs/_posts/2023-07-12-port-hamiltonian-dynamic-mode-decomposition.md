@@ -11,7 +11,7 @@ category: articles
 [Riccardo Morandin](authors/riccardo-morandin), [Jonas Nicodemus](authors/jonas-nicodemus), [Benjamin Unger](authors/benjamin-unger)
  
 ## Abstract
-
+We present a novel physics-informed system identification method to construct a passive linear time-invariant system. In more detail, for a given quadratic energy functional, measurements of the input, state, and output of a system in the time domain, we find a realization that approximates the data well while guaranteeing that the energy functional satisfies a dissipation inequality. To this end, we use the framework of port-Hamiltonian (pH) systems and modify the dynamic mode decomposition, respectively, operator inference, to be feasible for continuous-time pH systems. We propose an iterative numerical method to solve the corresponding least-squares minimization problem. We construct an effective initialization of the algorithm by studying the least-squares problem in a weighted norm, for which we present the analytical minimum-norm solution. The efficiency of the proposed method is demonstrated with several numerical examples.
  
 ## Citation
 - **Journal:** SIAM Journal on Scientific Computing

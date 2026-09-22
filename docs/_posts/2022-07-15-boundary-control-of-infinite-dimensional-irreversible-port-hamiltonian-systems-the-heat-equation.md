@@ -18,7 +18,7 @@ category: proceedings
 - **Year:** 2022
 - **Volume:** 
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 93--94
 - **Publisher:** ARGESIM Publisher Vienna
 - **DOI:** [10.11128/arep.17.a17207](https://doi.org/10.11128/arep.17.a17207)
  
@@ -33,7 +33,8 @@ category: proceedings
   publisher={ARGESIM Publisher Vienna},
   author={Le Gorrec, Yann and Mora, Luis A. and Ramirez, Hector},
   year={2022},
-  collection={MATHMOD 2022}
+  collection={MATHMOD 2022},
+  pages={93--94}
 }
 {% endraw %}
 {% endhighlight %}

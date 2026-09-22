@@ -11,7 +11,7 @@ category: proceedings
 [Milka C. I. Madahana](authors/milka-c-i-madahana), [John E. D. Ekoru](authors/john-e-d-ekoru), [Otis T. C. Nyandoro](authors/otis-t-c-nyandoro)
  
 ## Abstract
-
+The primary purpose of this paper is to give a detailed formulation of a Port Hamiltonian-based human respiratory system coupled with a mechanical ventilator. The lumped Port Hamiltonian human respiratory system model is extended to include the effects of the alveoli and the diaphragm. The human respiratory system is modelled using distributed resistors and the alveoli is included in the detailed model. The distributed resistors are terminated with a voltage source which represents a pressure source and acts as a collector for all the summed up pressures produced by the numerous alveoli in the lung The extended model can be integrated to the model of a mechanical Ventilator and be used in design of robust controllers for ventilation of critically ill patients who are are unable to breathe on their own entirely or partially.
  
 ## Citation
 - **Journal:** 2024 IEEE 15th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)

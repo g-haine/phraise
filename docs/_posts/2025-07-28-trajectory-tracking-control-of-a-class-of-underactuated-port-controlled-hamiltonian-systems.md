@@ -11,7 +11,7 @@ category: articles
 [Fernanda Ramos-García](authors/fernanda-ramos-garcia), [Sofía Avila-Becerril](authors/sofia-avila-becerril), [Gerardo Espinosa-Pérez](authors/gerardo-espinosa-perez)
  
 ## Abstract
-
+Passivity-Based Control is a widely recognised control design methodology that has been successfully applied to solve regulation control problems for Port-Controlled Hamiltonian systems. However, the problem of stabilising time-varying trajectories is a topic that still requires further research, in particular for underactuated systems, i.e. systems with fewer control inputs than generalised coordinates. The purpose of this paper is to contribute to the consolidation of this control technique to solve tracking control problems for underactuated Port-Controlled Hamiltonian systems by identifying a novel class of systems for which it is possible to solve the tracking problem. This class is characterised by a quadratic Hamiltonian function and state-dependent interconnection and damping matrices that generate quadratic nonlinearities. It is shown that the desired time-varying trajectories exhibit asymptotic stability properties by applying well-known and simple Lyapunov-based results from the nonlinear systems theory. The usefulness of the contribution is illustrated in a numerical setting by approaching two case studies of practical interest, namely: the three-dimensional Lorenz oscillator system and the model of a surface-mounted Permanent Magnet Synchronous Motor.
  
 ## Citation
 - **Journal:** International Journal of Control

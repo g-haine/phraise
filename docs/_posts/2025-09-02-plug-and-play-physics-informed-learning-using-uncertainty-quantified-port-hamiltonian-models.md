@@ -11,7 +11,7 @@ category: proceedings
 [Kaiyuan Tan](authors/kaiyuan-tan), [Peilun Li](authors/peilun-li), [Jun Wang](authors/jun-wang), [Thomas Beckers](authors/thomas-beckers)
  
 ## Abstract
-
+The ability to predict trajectories of surrounding agents and obstacles is a crucial component in many robotic applications. Data-driven approaches are commonly adopted for state prediction in scenarios where the underlying dynamics are unknown. However, the performance, reliability, and uncertainty of data-driven predictors become compromised when encountering out-of-distribution observations relative to the training data. In this paper, we introduce a Plug-and-Play Physics-Informed Machine Learning (PnP-PIML) framework to address this challenge. Our method employs conformal prediction to identify outlier dynamics and, in that case, switches from a nominal predictor to a physics-consistent model, namely distributed Port-Hamiltonian systems (dPHS). We leverage Gaussian processes to model the energy function of the dPHS, enabling not only the learning of system dynamics but also the quantification of predictive uncertainty through its Bayesian nature. In this way, the proposed framework produces reliable physics-informed predictions even for the out-of-distribution scenarios.
  
 ## Citation
 - **Journal:** 2025 IEEE International Conference on Robotics and Automation (ICRA)

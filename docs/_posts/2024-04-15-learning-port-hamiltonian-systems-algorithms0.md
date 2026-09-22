@@ -2,7 +2,7 @@
 title: "Learning port-Hamiltonian Systems—Algorithms"
 date: 2024-04-15 00:00:00 +0100
 permalink: learning-port-hamiltonian-systems-algorithms0
-year: 2024
+year: 2023
 authors: D. Lozienko, V. Salnikov, A. Falaize
 category: articles
 ---
@@ -15,7 +15,7 @@ In this article we study the possibilities of recovering the structure of port-H
  
 ## Citation
 - **Journal:** Журнал вычислительной математики и математической физики
-- **Year:** 2024
+- **Year:** 2023
 - **Volume:** 63
 - **Issue:** 1
 - **Pages:** 165--174

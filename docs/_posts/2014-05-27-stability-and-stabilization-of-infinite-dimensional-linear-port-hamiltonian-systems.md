@@ -14,7 +14,7 @@ category: articles
 Stability and stabilization of linear port-Hamiltonian systems on infinite-dimensional spaces are investigated. This class is general enough to include models of beams and waves as well as transport and Schr"odinger equations with boundary control and observation. The analysis is based on the frequency domain method which gives new results for second order port-Hamiltonian systems and hybrid systems. Stabilizing controllers with colocated input and output are designed. The obtained results are applied to the Euler-Bernoulli beam.
  
 ## Citation
-- **Journal:** Evolution Equations &amp; Control Theory
+- **Journal:** Evolution Equations and Control Theory
 - **Year:** 2014
 - **Volume:** 3
 - **Issue:** 2
@@ -31,7 +31,7 @@ Stability and stabilization of linear port-Hamiltonian systems on infinite-dimen
   ISSN={2163-2480},
   DOI={10.3934/eect.2014.3.207},
   number={2},
-  journal={Evolution Equations \& Control Theory},
+  journal={Evolution Equations and Control Theory},
   publisher={American Institute of Mathematical Sciences (AIMS)},
   author={Augner, Björn and Jacob, Birgit},
   year={2014},

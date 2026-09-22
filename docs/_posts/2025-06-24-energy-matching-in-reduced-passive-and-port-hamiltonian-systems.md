@@ -11,7 +11,7 @@ category: articles
 [Tobias Holicki](authors/tobias-holicki), [Jonas Nicodemus](authors/jonas-nicodemus), [Paul Schwerdtner](authors/paul-schwerdtner), [Benjamin Unger](authors/benjamin-unger)
  
 ## Abstract
-
+It is well known that any port-Hamiltonian (pH) system is passive, and, conversely, any minimal and stable passive system has a pH representation. Nevertheless, this equivalence is only concerned with the input-output mapping but not with the Hamiltonian itself. Thus, we propose to view a pH system either as an enlarged dynamical system with the Hamiltonian as additional output or as two dynamical systems with the input-output and the Hamiltonian dynamic. Our first main result is a structure-preserving Kalman-like decomposition of the enlarged pH system that separates the controllable and zero-state observable parts. Moreover, for further approximations in the context of structure-preserving model-order reduction (MOR), we propose to search for a Hamiltonian in the reduced pH system that minimizes the \\( \mathcal{H}_2 \\)-distance to the full-order Hamiltonian without altering the input-output dynamic, thus discussing a particular aspect of the corresponding multiobjective minimization problem corresponding to \\( \mathcal{H}_2 \\)-optimal MOR for pH systems. We show that this optimization problem is uniquely solvable and can be recast as a standard semidefinite program, and we present two numerical approaches for solving it. The results are illustrated with three academic examples.
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

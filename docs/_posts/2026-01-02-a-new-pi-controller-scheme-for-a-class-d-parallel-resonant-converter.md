@@ -2,7 +2,7 @@
 title: "A New PI Controller Scheme for a Class D Parallel Resonant Converter"
 date: 2026-01-02 00:00:00 +0100
 permalink: a-new-pi-controller-scheme-for-a-class-d-parallel-resonant-converter
-year: 2026
+year: 2025
 authors: Agustín Sánchez-Contreras, Víctor Cárdenas, Gerardo Espinosa-Pérez
 category: articles
 ---
@@ -15,7 +15,7 @@ In this paper, the modeling problem and the structural analysis from a control p
  
 ## Citation
 - **Journal:** Memorias del Congreso Nacional de Control Automático
-- **Year:** 2026
+- **Year:** 2025
 - **Volume:** 8
 - **Issue:** 1
 - **Pages:** 331--336

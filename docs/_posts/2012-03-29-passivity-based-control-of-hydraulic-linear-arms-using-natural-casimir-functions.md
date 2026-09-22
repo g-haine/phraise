@@ -2,7 +2,7 @@
 title: "Passivity Based Control of Hydraulic Linear Arms Using Natural Casimir Functions"
 date: 2012-03-29 00:00:00 +0100
 permalink: passivity-based-control-of-hydraulic-linear-arms-using-natural-casimir-functions
-year: 2012
+year: 2010
 authors: Satoru Sakai
 category: chapters
 ---

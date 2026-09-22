@@ -2,7 +2,7 @@
 title: "Control Methods for Single-phase Voltage Supply with VSCs to Feed Nonlinear Loads in Rural Areas"
 date: 2021-01-20 00:00:00 +0100
 permalink: control-methods-for-single-phase-voltage-supply-with-vscs-to-feed-nonlinear-loads-in-rural-areas
-year: 2021
+year: 2020
 authors: Walter Julián Gil Gonzalez, Sara Yulieth Bocanegra, Federico M. Serra, Maximiliano Bueno-López, Guillermo Luciano Magaldi
 category: articles
 ---
@@ -15,7 +15,7 @@ This paper addresses the problem of sinusoidal voltage generation in linear load
  
 ## Citation
 - **Journal:** Transactions on Energy Systems and Engineering Applications
-- **Year:** 2021
+- **Year:** 2020
 - **Volume:** 1
 - **Issue:** 1
 - **Pages:** 33--47

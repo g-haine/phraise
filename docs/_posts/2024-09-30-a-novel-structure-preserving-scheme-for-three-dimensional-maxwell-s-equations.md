@@ -11,7 +11,7 @@ category: articles
 [Chaolong Jiang](authors/chaolong-jiang), [Wenjun Cai](authors/wenjun-cai), [Yushun Wang](authors/yushun-wang), [Haochen Li](authors/haochen-li)
  
 ## Abstract
-
+In this paper, a novel structure-preserving scheme is proposed for solving the three-dimensional Maxwell’s equations. The proposed scheme can preserve all of the desired structures of the Maxwell’s equations numerically, including five energy conservation laws, two divergence-free fields, three momentum conservation laws and a symplectic conservation law. Firstly, the spatial derivatives of the Maxwell’s equations are approximated with Fourier pseudo-spectral methods. The resulting ordinary differential equations are cast into a canonical Hamiltonian system. Then, the fully discrete structure-preserving scheme is derived by integrating the Hamiltonian system using a sixth order average vector field method. Subsequently, an optimal error estimate is established based on the energy method, which demonstrates that the proposed scheme is of sixth order accuracy in time and spectral accuracy in space in the discrete \\( L^2 \\)-norm. The constant in the error estimate is proved to be only \\( \mathcal{O}(T), \\) where \\( T > 0 \\) is the time period. Furthermore, its numerical dispersion relation is analyzed in detail, and a customized fast solver is presented to efficiently solve the resulting discrete linear equations. Finally, numerical results are presented to validate our theoretical analysis.
  
 ## Citation
 - **Journal:** CSIAM Transactions on Applied Mathematics

@@ -2,7 +2,7 @@
 title: "A Speed Tracking Passivity Based Control of Induction Motors"
 date: 2025-01-06 00:00:00 +0100
 permalink: a-speed-tracking-passivity-based-control-of-induction-motors
-year: 2025
+year: 2024
 authors: Fernanda Ramos-García, Gerardo Espinosa-Pérez
 category: articles
 ---
@@ -15,7 +15,7 @@ In this work, the problem of speed tracking control for the Induction Motor (IM)
  
 ## Citation
 - **Journal:** Memorias del Congreso Nacional de Control Automático
-- **Year:** 2025
+- **Year:** 2024
 - **Volume:** 7
 - **Issue:** 1
 - **Pages:** 185--190

@@ -29,9 +29,9 @@ Port-Hamiltonian system; Passivity; Nonnegativity; Kalman–Yakubovich–Popov i
 ## Citation
 - **Journal:** Mathematics of Control, Signals, and Systems
 - **Year:** 2025
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 37
+- **Issue:** 4
+- **Pages:** 879--968
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s00498-025-00421-z](https://doi.org/10.1007/s00498-025-00421-z)
  

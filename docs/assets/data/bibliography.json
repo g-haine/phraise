@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": 2,
-    "last_update": "2026-09-21"
+    "last_update": "2026-09-22"
   },
   "publications": [
     {
@@ -5865,9 +5865,9 @@
       "abstract": "We study a class of models for nonlinear acoustics, including the well‐known Westervelt and Kuznetsov equations, as well as a model of Rasmussen that can be seen as a thermodynamically consistent modification of the latter. Using linearization, energy estimates, and fixed‐point arguments, we establish the existence and uniqueness of solutions that, for sufficiently small data, are global in time and converge exponentially fast to equilibrium. In contrast to previous work, our analysis is based on a velocity–enthalpy formulation of the problem, whose weak form reveals the underlying port‐Hamiltonian structure. Moreover, the weak form of the problem is particularly well suited for a structure‐preserving discretization. This is demonstrated in numerical tests, which also highlight typical characteristics of the models under consideration.",
       "container_title": "Mathematical Methods in the Applied Sciences",
       "publication_year": "2025",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "48",
+      "issue": "8",
+      "pages": "8793--8805",
       "publisher": "Wiley",
       "event": "",
       "keywords": [],
@@ -22748,7 +22748,7 @@
         "isbn": "9783031975882"
       },
       "type": "book-chapter",
-      "title": "Discrete Gradient $$\theta $$-Methods for Port-Hamiltonian Systems",
+      "title": "Discrete Gradient $\\theta$-Methods for Port-Hamiltonian Systems",
       "authors": [
         {
           "given": "Raffaele",
@@ -40710,9 +40710,9 @@
       "abstract": "The relationship between different dissipativity concepts for linear time-varying systems is studied, in particular between port-Hamiltonian systems, passive systems, and systems with nonnegative supply. It is shown that linear time-varying port-Hamiltonian systems are passive, have nonnegative supply rates, and solve (under different smoothness assumptions) Kalman–Yakubovich–Popov differential and integral inequalities. The converse relations are also studied in detail. In particular, sufficient conditions are presented to obtain a port-Hamiltonian representation starting from any of the other dissipativity concepts. Two applications are presented.",
       "container_title": "Mathematics of Control, Signals, and Systems",
       "publication_year": "2025",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "37",
+      "issue": "4",
+      "pages": "879--968",
       "publisher": "Springer Science and Business Media LLC",
       "event": "",
       "keywords": [
@@ -64082,7 +64082,7 @@
       "publication_year": "2025",
       "volume": "",
       "issue": "",
-      "pages": "",
+      "pages": "684--695",
       "publisher": "Elsevier",
       "event": "",
       "keywords": [
@@ -162094,7 +162094,7 @@
         "doi": "10.1016/j.jfranklin.2019.11.055"
       },
       "type": "journal-article",
-      "title": "Finite-time stabilization andH∞control for a class of switched nonlinear port-controlled Hamiltonian systems subject to actuator saturation",
+      "title": "Finite-time stabilization and $H^\\infty$ control for a class of switched nonlinear port-controlled Hamiltonian systems subject to actuator saturation",
       "authors": [
         {
           "given": "Zi-Ming",
@@ -199893,7 +199893,7 @@
         "doi": "10.1049/iet-cta.2014.1144"
       },
       "type": "journal-article",
-      "title": "ℒ<sub>2</sub> neuro‐adaptive tracking control of uncertain port‐controlled Hamiltonian systems",
+      "title": "$\\mathcal{L}_2$ neuro-adaptive tracking control of uncertain port-controlled Hamiltonian systems",
       "authors": [
         {
           "given": "Aminuddin",
@@ -209323,7 +209323,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "Passivity-Based Control is a widely recognised control design methodology that has been successfully applied to solve regulation control problems for Port-Controlled Hamiltonian systems. However, the problem of stabilising time-varying trajectories is a topic that still requires further research, in particular for underactuated systems, i.e. systems with fewer control inputs than generalised coordinates. The purpose of this paper is to contribute to the consolidation of this control technique to solve tracking control problems for underactuated Port-Controlled Hamiltonian systems by identifying a novel class of systems for which it is possible to solve the tracking problem. This class is characterised by a quadratic Hamiltonian function and state-dependent interconnection and damping matrices that generate quadratic nonlinearities. It is shown that the desired time-varying trajectories exhibit asymptotic stability properties by applying well-known and simple Lyapunov-based results from the nonlinear systems theory. The usefulness of the contribution is illustrated in a numerical setting by approaching two case studies of practical interest, namely: the three-dimensional Lorenz oscillator system and the model of a surface-mounted Permanent Magnet Synchronous Motor.",
       "container_title": "International Journal of Control",
       "publication_year": "2026",
       "volume": "99",
@@ -211192,7 +211192,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "Even if a water distribution system (WDN) is well designed, it must be safely operated over a wide range of constraints and requirements. Traditionally, rudimentary control strategies have been employed, such as simple level or pressure control, although sophisticated control strategies have developed in other applications. We illustrate here some of the modern control possibilities by designing controllers for two challenging scenarios in a WDN: a pumping system which suddenly loses power, and safely filling an initially empty pipe using a pump. Check valve behaviour is significant in both scenarios. We show that with a minor modification, a commonly used empirical, nonlinear model of a check valve is port-Hamiltonian (pH). The benefits of being pH include interconnection with pH models of WDNs, straightforward stability analysis, and simple tools for controller design. We use this property to motivate WDN controllers that are able to meet these two specific control requirements.",
       "container_title": "Journal of Hydraulic Research",
       "publication_year": "2024",
       "volume": "62",
@@ -217036,7 +217036,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "This paper is concerned with the constructive, modular and easy to implement passivity-based rate-dependent modelling of piezoelectric actuators (PZAs) using the port Hamiltonian (PH) framework. The proposed model incorporates hysterons to capture the hysteresic behaviour of PZAs, resulting in a causal bond-graph representation and a simplified explicit PH formulation. The proposed model is an input-affine port-Hamiltonian system that is shown to be asymptotically stable with respect to an arbitrary equilibrium configuration. The model is experimentally validated over a large range of operation frequencies using a commercial piezoelectric actuator and compared to a Bouc-Wen model of the same order.",
       "container_title": "Mathematical and Computer Modelling of Dynamical Systems",
       "publication_year": "2025",
       "volume": "31",
@@ -220678,7 +220678,7 @@
           }
         }
       ],
-      "abstract": "Abstract Soft robots are machines, and like all machines their function is to convert energy from one form into another to perform tasks. One key figure of merit for machines is their efficiency, which is defined as the ratio of task-oriented work out to total energy in. All soft robots convert stored energy (from e.g., batteries, pressurized gas, chemicals) into task-oriented work (picking up objects, locomoting, jumping). These systems are complex hybrids of chemical, mechanical, pneumatic, hydraulic, and electrical components. This complexity makes it difficult to analyze and measure their total efficiency and to identify the sources of energy loss between chemical, electrical, and mechanical domains. As the field of soft robotics matures, the design-flow process will shift from one in which building is central to one in which simulation takes precedence. That is, there is a shift from an empirical experimental methodology toward a well-characterized engineering workflow. At this point, questions such ...",
+      "abstract": "Soft robots are machines, and like all machines their function is to convert energy from one form into another to perform tasks. One key figure of merit for machines is their efficiency, which is defined as the ratio of task-oriented work out to total energy in. All soft robots convert stored energy (from e.g., batteries, pressurized gas, chemicals) into task-oriented work (picking up objects, locomoting, jumping). These systems are complex hybrids of chemical, mechanical, pneumatic, hydraulic, and electrical components. This complexity makes it difficult to analyze and measure their total efficiency and to identify the sources of energy loss between chemical, electrical, and mechanical domains. As the field of soft robotics matures, the design-flow process will shift from one in which building is central to one in which simulation takes precedence. That is, there is a shift from an empirical experimental methodology toward a well-characterized engineering workflow. At this point, questions such as “For how long will this robot run on a 2000 mAh battery?” will need to be answered, and predictive capabilities will become paramount as designers need to understand: (1) the large-scale deformations inherent to soft robotic systems; and (2) the transduction of energy in these complex, dissipative, systems to enable them to design an efficient and a well-controlled system. In this perspective piece, we discuss one possible predictive approach: a framework that uses port-based modeling. This approach uses bond-graphs and the recently developed port-Hamiltonian theory to provide a step-by-step system for analyzing hybrid, multi-domain, soft robotic systems. We discuss how this framework could be applied to controlling and optimizing soft robotic systems for energy efficiency, thereby increasing their utility. An energy-based approach is useful as a domain-free linker in analyzing complex systems; the use of ports promotes a clear distinction between energy conservation and dissipation and facilitates the analysis of efficiency. In addition, the parallels with hardware description languages and object-oriented programming will make it easier for engineers to design, for soft robots, control systems that optimize for efficiency.",
       "container_title": "Soft Robotics",
       "publication_year": "2016",
       "volume": "3",
@@ -220878,7 +220878,7 @@
       ],
       "abstract": "<p>A Dirac structure on a vector space <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper V\"> <mml:semantics> <mml:mi>V</mml:mi> <mml:annotation encoding=\"application/x-tex\">V</mml:annotation> </mml:semantics> </mml:math> </inline-formula> is a subspace of <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper V\"> <mml:semantics> <mml:mi>V</mml:mi> <mml:annotation encoding=\"application/x-tex\">V</mml:annotation> </mml:semantics> </mml:math> </inline-formula> with a skew form on it. It is shown that these structures correspond to subspaces of <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper V circled-plus upper V Superscript asterisk\"> <mml:semantics> <mml:mrow> <mml:mi>V</mml:mi> <mml:mo>⊕<!-- ⊕ --></mml:mo> <mml:mrow class=\"MJX-TeXAtom-ORD\"> <mml:msup> <mml:mi>V</mml:mi> <mml:mrow class=\"MJX-TeXAtom-ORD\"> <mml:mo>∗<!-- ∗ --></mml:mo> </mml:mrow> </mml:msup> </mml:mrow> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">V \\oplus {V^{\\ast }}</mml:annotation> </mml:semantics> </mml:math> </inline-formula> satisfying a maximality condition, and having the property that a certain symmetric form on <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper V circled-plus upper V Superscript asterisk\"> <mml:semantics> <mml:mrow> <mml:mi>V</mml:mi> <mml:mo>⊕<!-- ⊕ --></mml:mo> <mml:mrow class=\"MJX-TeXAtom-ORD\"> <mml:msup> <mml:mi>V</mml:mi> <mml:mrow class=\"MJX-TeXAtom-ORD\"> <mml:mo>∗<!-- ∗ --></mml:mo> </mml:mrow> </mml:msup> </mml:mrow> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">V \\oplus {V^{\\ast }}</mml:annotation> </mml:semantics> </mml:math> </inline-formula> vanishes when restricted to them. Dirac structures on a vector space are analyzed in terms of bases, and a generalized Cayley transformation is defined which takes a Dirac structure to an element of <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper O left-parenthesis upper V right-parenthesis\"> <mml:semantics> <mml:mrow> <mml:mi>O</mml:mi> <mml:mo stretchy=\"false\">(</mml:mo> <mml:mi>V</mml:mi> <mml:mo stretchy=\"false\">)</mml:mo> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">O(V)</mml:annotation> </mml:semantics> </mml:math> </inline-formula>. Finally a method is given for passing a Dirac structure on a vector space to a Dirac structure on any subspace. Dirac structures on vector spaces are generalized to smooth Dirac structures on a manifold <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper P\"> <mml:semantics> <mml:mi>P</mml:mi> <mml:annotation encoding=\"application/x-tex\">P</mml:annotation> </mml:semantics> </mml:math> </inline-formula>, which are defined to be smooth subbundles of the bundle <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper T upper P circled-plus upper T Superscript asterisk Baseline upper P\"> <mml:semantics> <mml:mrow> <mml:mi>T</mml:mi> <mml:mi>P</mml:mi> <mml:mo>⊕<!-- ⊕ --></mml:mo> <mml:mrow class=\"MJX-TeXAtom-ORD\"> <mml:msup> <mml:mi>T</mml:mi> <mml:mrow class=\"MJX-TeXAtom-ORD\"> <mml:mo>∗<!-- ∗ --></mml:mo> </mml:mrow> </mml:msup> </mml:mrow> <mml:mi>P</mml:mi> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">TP \\oplus {T^{\\ast }}P</mml:annotation> </mml:semantics> </mml:math> </inline-formula> satisfying pointwise the properties of the linear case. If a bundle <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper L subset-of upper T upper P circled-plus upper T Superscript asterisk Baseline upper P\"> <mml:semantics> <mml:mrow> <mml:mi>L</mml:mi> <mml:mo>⊂<!-- ⊂ --></mml:mo> <mml:mi>T</mml:mi> <mml:mi>P</mml:mi> <mml:mo>⊕<!-- ⊕ --></mml:mo> <mml:mrow class=\"MJX-TeXAtom-ORD\"> <mml:msup> <mml:mi>T</mml:mi> <mml:mrow class=\"MJX-TeXAtom-ORD\"> <mml:mo>∗<!-- ∗ --></mml:mo> </mml:mrow> </mml:msup> </mml:mrow> <mml:mi>P</mml:mi> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">L \\subset TP \\oplus {T^{\\ast }}P</mml:annotation> </mml:semantics> </mml:math> </inline-formula> defines a Dirac structure on <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper P\"> <mml:semantics> <mml:mi>P</mml:mi> <mml:annotation encoding=\"application/x-tex\">P</mml:annotation> </mml:semantics> </mml:math> </inline-formula>, then we call <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper L\"> <mml:semantics> <mml:mi>L</mml:mi> <mml:annotation encoding=\"application/x-tex\">L</mml:annotation> </mml:semantics> </mml:math> </inline-formula> a Dirac bundle over <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper P\"> <mml:semantics> <mml:mi>P</mml:mi> <mml:annotation encoding=\"application/x-tex\">P</mml:annotation> </mml:semantics> </mml:math> </inline-formula>. A <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"3\"> <mml:semantics> <mml:mn>3</mml:mn> <mml:annotation encoding=\"application/x-tex\">3</mml:annotation> </mml:semantics> </mml:math> </inline-formula>-tensor is defined on Dirac bundles whose vanishing is the integrability condition of the Dirac structure. The basic examples of integrable Dirac structures are Poisson and presymplectic manifolds; in these cases the Dirac bundle is the graph of a bundle map, and the integrability tensors are <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"left-bracket upper B comma upper B right-bracket\"> <mml:semantics> <mml:mrow> <mml:mo stretchy=\"false\">[</mml:mo> <mml:mi>B</mml:mi> <mml:mo>,</mml:mo> <mml:mi>B</mml:mi> <mml:mo stretchy=\"false\">]</mml:mo> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">[B,B]</mml:annotation> </mml:semantics> </mml:math> </inline-formula> and <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"d normal upper Omega\"> <mml:semantics> <mml:mrow> <mml:mi>d</mml:mi> <mml:mi mathvariant=\"normal\">Ω<!-- Ω --></mml:mi> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">d\\Omega</mml:annotation> </mml:semantics> </mml:math> </inline-formula> respectively. A function <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"f\"> <mml:semantics> <mml:mi>f</mml:mi> <mml:annotation encoding=\"application/x-tex\">f</mml:annotation> </mml:semantics> </mml:math> </inline-formula> on a Dirac manifold is called admissible if there is a vector field <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper X\"> <mml:semantics> <mml:mi>X</mml:mi> <mml:annotation encoding=\"application/x-tex\">X</mml:annotation> </mml:semantics> </mml:math> </inline-formula> such that the pair <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"left-parenthesis upper X comma d f right-parenthesis\"> <mml:semantics> <mml:mrow> <mml:mo stretchy=\"false\">(</mml:mo> <mml:mi>X</mml:mi> <mml:mo>,</mml:mo> <mml:mi>d</mml:mi> <mml:mi>f</mml:mi> <mml:mo stretchy=\"false\">)</mml:mo> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">(X,df)</mml:annotation> </mml:semantics> </mml:math> </inline-formula> is a section of the Dirac bundle <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper L\"> <mml:semantics> <mml:mi>L</mml:mi> <mml:annotation encoding=\"application/x-tex\">L</mml:annotation> </mml:semantics> </mml:math> </inline-formula>; the pair <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"left-parenthesis upper X comma d f right-parenthesis\"> <mml:semantics> <mml:mrow> <mml:mo stretchy=\"false\">(</mml:mo> <mml:mi>X</mml:mi> <mml:mo>,</mml:mo> <mml:mi>d</mml:mi> <mml:mi>f</mml:mi> <mml:mo stretchy=\"false\">)</mml:mo> </mml:mrow> <mml:annotation encoding=\"application/x-tex\">(X,df)</mml:annotation> </mml:semantics> </mml:math> </inline-formula> is called an admissible section. The set of admissible functions is shown to be a Poisson algebra. A process is given for passing Dirac structures to a submanifold <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper Q\"> <mml:semantics> <mml:mi>Q</mml:mi> <mml:annotation encoding=\"application/x-tex\">Q</mml:annotation> </mml:semantics> </mml:math> </inline-formula> of a Dirac manifold <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper P\"> <mml:semantics> <mml:mi>P</mml:mi> <mml:annotation encoding=\"application/x-tex\">P</mml:annotation> </mml:semantics> </mml:math> </inline-formula>. The induced bracket on admissible functions on <inline-formula content-type=\"math/mathml\"> <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper Q\"> <mml:semantics> <mml:mi>Q</mml:mi> <mml:annotation encoding=\"application/x-tex\">Q</mml:annotation> </mml:semantics> </mml:math> </inline-formula> is in fact the Dirac bracket as defined by Dirac for constrained submanifolds.</p>",
       "container_title": "Transactions of the American Mathematical Society",
-      "publication_year": "2012",
+      "publication_year": "1990",
       "volume": "319",
       "issue": "2",
       "pages": "631--661",
@@ -226639,7 +226639,7 @@
       "publication_year": "2000",
       "volume": "",
       "issue": "",
-      "pages": "",
+      "pages": "2245--2249",
       "publisher": "IEEE",
       "event": "",
       "keywords": [],
@@ -239647,7 +239647,7 @@
         }
       ],
       "abstract": "In this brief note a new strict Lyapunov function for mechanical systems controlled by the well-known Passivity-based Control technique of Interconnection and Damping Assignment is proposed. The general, total energy-shaping, formulation of the control technique is considered, which yields a port-Hamiltonian closed-loop system with non-fixed symplectic structure. To construct the proposed Lyapunov function a new systematic mathematical machinery is introduced. The resulting Lyapunov function contains, as particular cases, previous functions obtained for robot manipulators controlled by potential energy-shaping (plus damping injection) schemes. An additional contribution of our work is that, in contrast with most of the existing literature on this topic that is restricted to robot manipulators with only revolute joints, our analysis is applicable to robots with both revolute and prismatic joints. As an illustration example, practical bounds for a two-link direct drive robot manipulator are computed.",
-      "container_title": "2009 IEEE International Conference on Control Applications",
+      "container_title": "2009 IEEE International Conference on Control Applications, (CCA) & Intelligent Control, (ISIC)",
       "publication_year": "2009",
       "volume": "",
       "issue": "",
@@ -242558,7 +242558,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "In this study, we develop a cooperative control strategy that leverages fractional order dynamic surface sliding mode control (SMC) combined with error port-controlled Hamiltonian (EPH) for systems utilizing permanent magnet synchronous motors (PMSM). Initially, the fractional order dynamic surface SMC method is proposed to boost the dynamic behavior of the system. Then, the EPH with variable damping and integral term method is presented to increase the steady-state performance of the system. Additionally, a new sigmoid function is employed as the cooperative function, leveraging the benefits of the aforementioned control methods. Simulation studies have validated the efficacy of the cooperative control strategy,",
       "container_title": "2025 37th Chinese Control and Decision Conference (CCDC)",
       "publication_year": "2025",
       "volume": "",
@@ -263576,7 +263576,7 @@
       "publication_year": "2021",
       "volume": "",
       "issue": "",
-      "pages": "",
+      "pages": "1336--1341",
       "publisher": "IEEE",
       "event": "",
       "keywords": [],
@@ -264532,7 +264532,7 @@
       "publication_year": "2023",
       "volume": "",
       "issue": "",
-      "pages": "",
+      "pages": "8708--8713",
       "publisher": "IEEE",
       "event": "",
       "keywords": [],
@@ -278030,7 +278030,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "In upper-limb rehabilitation training aided by robotic systems, patients often develop tremors due to insufficient muscle strength or neurological control disorders, adversely impacting the rehabilitation process. Based on the Port-Hamiltonian Systems (PHS) theoretical framework, this paper proposes a Sliding Mode Control (SMC) strategy to suppress tremors during upper-limb rehabilitation. The approach employs two Lyapunov functions: on one hand, the Hamiltonian (the system’s energy function) ensures overall Lyapunov stability; on the other, an additional Lyapunov function enforces finite-time convergence of the sliding variable, thereby rapidly mitigating tremors and maintaining tracking accuracy. Simulation results indicate that this method not only achieves outstanding stability but also guarantees finite-time convergence of the sliding variable, significantly reducing arm tremors. Consequently, it provides an efficient and viable advanced control solution for upper-limb rehabilitation robots.",
       "container_title": "2025 Joint International Conference on Automation-Intelligence-Safety (ICAIS) &amp;amp; International Symposium on Autonomous Systems (ISAS)",
       "publication_year": "2025",
       "volume": "",
@@ -279365,7 +279365,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "This paper proposes an output feedback stabilization approach for 2-D nonlinear port-Hamiltonian distributed parameter system. The 2D Navier-Stokes equations present a chaotic toroidal behavior that occurs in fluid systems. First, the problem formulation consists into establishing the NavierStokes equation into the port-Hamiltonian formulation by implementing the Dirac structure operators. Then, by considering the energy characteristics of the port-Hamiltonian system, an output feedback controller is designed by considering the appropriate Lyapunov functional. A numerical experiment is performed to validate the theoretical results obtained in this research study. Finally, the respective discussions and conclusions of the paper are presented.",
       "container_title": "2025 International Conference on Control, Automation and Diagnosis (ICCAD)",
       "publication_year": "2025",
       "volume": "",
@@ -285635,7 +285635,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "The ability to predict trajectories of surrounding agents and obstacles is a crucial component in many robotic applications. Data-driven approaches are commonly adopted for state prediction in scenarios where the underlying dynamics are unknown. However, the performance, reliability, and uncertainty of data-driven predictors become compromised when encountering out-of-distribution observations relative to the training data. In this paper, we introduce a Plug-and-Play Physics-Informed Machine Learning (PnP-PIML) framework to address this challenge. Our method employs conformal prediction to identify outlier dynamics and, in that case, switches from a nominal predictor to a physics-consistent model, namely distributed Port-Hamiltonian systems (dPHS). We leverage Gaussian processes to model the energy function of the dPHS, enabling not only the learning of system dynamics but also the quantification of predictive uncertainty through its Bayesian nature. In this way, the proposed framework produces reliable physics-informed predictions even for the out-of-distribution scenarios.",
       "container_title": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
       "publication_year": "2025",
       "volume": "",
@@ -289886,7 +289886,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "In this study, we attempt to solve the problems of speed observation for a class of mechanical systems under velocity disturbances are solved. Plant systems can be rendered linear in terms of velocity through coordinate transformation. In our problem setting, only the displacements in local coordinates are measurable. A novel speed observer for disturbed systems is constructed using the immersion and invariance (I&I) methodology and an exact differentiator. Because the existence of an offset term in the observed state is unavoidable in our problem setting, a globally convergent reduced order I&I observer allowing offsets is proposed. A high-pass filter is applied to extract the high-frequency component of the estimated state. A simulation example is provided to demonstrate the effectiveness of the proposed method.",
       "container_title": "2025 IEEE International Conference on Electrical Energy Conversion Systems and Control（IEECSC)",
       "publication_year": "2025",
       "volume": "",
@@ -290002,7 +290002,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "The primary purpose of this paper is to give a detailed formulation of a Port Hamiltonian-based human respiratory system coupled with a mechanical ventilator. The lumped Port Hamiltonian human respiratory system model is extended to include the effects of the alveoli and the diaphragm. The human respiratory system is modelled using distributed resistors and the alveoli is included in the detailed model. The distributed resistors are terminated with a voltage source which represents a pressure source and acts as a collector for all the summed up pressures produced by the numerous alveoli in the lung The extended model can be integrated to the model of a mechanical Ventilator and be used in design of robust controllers for ventilation of critically ill patients who are are unable to breathe on their own entirely or partially.",
       "container_title": "2024 IEEE 15th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)",
       "publication_year": "2024",
       "volume": "",
@@ -292129,7 +292129,7 @@
       "publication_year": "2006",
       "volume": "",
       "issue": "",
-      "pages": "",
+      "pages": "4211--4216",
       "publisher": "IEEE",
       "event": "",
       "keywords": [],
@@ -337973,7 +337973,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "Modularity and unknown transmission line impedances in dc microgrids contribute to increased uncertainty, complicating system-level large-signal stability analysis. Passivity theory is recognized as a promising solution to this challenge, as it simplifies the large-signal stability analysis of dc microgrids by decomposing it into the passivity analysis of individual converters. The interconnection and damping assignment passivity-based control (IDA-PBC) approach, widely adopted based on the port-controlled hamiltonian (PCH) model, ensures that converters exhibit passivity in a closed-loop configuration. However, existing IDA-PBC methods fail to achieve input–output port passivity, preventing system-level large-signal stability due to unmodeled electrical interconnections and subsystem interactions. Additionally, these methods introduce singularities at equilibrium points because the PCH model structure is altered when deriving the unique mathematical expression for the duty cycle. This article proposes an IDA-PBC approach based on reference modification to address these issues. This controller accounts for electrical input variations within the closed-loop PCH model to achieve input-to-output port passivity. Furthermore, the reference for the converters is reconstructed to derive a unique duty cycle expression without altering the closed-loop PCH model, thereby avoiding singularities at equilibrium points. Finally, the system-level large-signal stability of the proposed control is validated through experiments.",
       "container_title": "IEEE Transactions on Industrial Electronics",
       "publication_year": "2025",
       "volume": "72",
@@ -339922,7 +339922,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "This article proposes a robust and safe structure-preserving formation control framework for multiple autonomous surface vehicles (ASVs) within a port-Hamiltonian (PH) formulation. Different from conventional signal-based designs, the proposed approach regulates formation behaviors from an energy perspective, where the desired formation configuration is explicitly embedded into the closed-loop Hamiltonian and shaped via interconnection and damping assignment passivity-based control (IDA-PBC). This energy-centric design yields a physically interpretable and engineering-friendly controller, facilitating systematic tuning and practical implementation. To enhance robustness against time-varying environmental disturbances and model uncertainties, a structure-preserving observer is introduced to estimate and compensate lumped uncertainties without disrupting the intrinsic PH interconnection and damping structure. Furthermore, prescribed performance control is incorporated into the PH framework as a safety-oriented auxiliary mechanism, by transforming safety-constrained formation errors into PH-compatible states, thereby guaranteeing intervehicle collision avoidance during close-proximity operations while maintaining PH structure. Rigorous stability analysis establishes the input-to-state stability of the resulting closed-loop system. Numerical simulations and robot operating system (ROS)/Gazebo-based experiments validate the effectiveness and practicality of the proposed structure-preserving observer-based IDA-PBC (SPO-IDA) formation control strategy for safe and robust multi-ASV formation control in dynamic marine environments.",
       "container_title": "IEEE Transactions on Industrial Informatics",
       "publication_year": "2026",
       "volume": "22",
@@ -347008,7 +347008,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "In multi-parallel grid-following voltage source converters (MGFL-VSCs), the nonlinear dynamics of the control loops and their coupling interactions substantially affect the transient synchronization stability (TSS) of MGFL-VSCs. This study focuses on the effects of nonlinear coupling interactions on TSS of the MGFL-VSC systems. First, on the basis of differential–algebraic equation–stability region boundary (SRB) theory, the study analyzes the effects of nonlinear dynamics and coupling interactions and plots the SRB of MGFL-VSCs. Results show that the coupling interactions limit the maximum phase angle of the phase-locked loop. The SRB of MGFL-VSCs consists of a stable manifold of unstable equilibrium points, a stable manifold of semi-singular points, and certain singular surfaces. The composition of SRB is closely related to the coupling interactions of nonlinear control. Second, on the basis of the correlation between SRB and transient instability modes, the transient instability modes of MGFL-VSCs are divided into traditional and coupling interaction instability modes, and the evolution of instability modes is systematically studied in consideration of nonlinear coupling interactions. In addition, an online assessment method that is based on the Port–Hamiltonian energy function is proposed. This method can quantitatively estimate the effect of coupling interactions on TSS by using the nonlinear normalized energy index. Finally, experimental and simulation results are provided to compare the proposed approach with existing methods and verify its effectiveness.",
       "container_title": "IEEE Transactions on Power Systems",
       "publication_year": "2026",
       "volume": "41",
@@ -356451,7 +356451,7 @@
       "publication_year": "2022",
       "volume": "",
       "issue": "",
-      "pages": "",
+      "pages": "93--94",
       "publisher": "ARGESIM Publisher Vienna",
       "event": "",
       "keywords": [],
@@ -357365,7 +357365,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "Addressing the current requirements for path tracking and vehicle dynamic stability control in autonomous vehicles, this paper constructs a steering-suspension coupled multibody model integrating actuator dynamics. Energy shaping modeling is implemented based on port Hamiltonian theory, reducing dynamic prediction errors to within standard limits and revealing the coupling mechanism between the vehicle and control parameters. An innovative hierarchical distributed optimization architecture, combined with a hybrid algorithm of NSGA-III and MINLP, is used to obtain Pareto solutions for steering sensitivity and suspension ride comfort. An adaptive robust control strategy is developed, and a high-performance parallel computing architecture using Python reduces the response time to within 10ms. This has been effectively validated, providing support for intelligent chassis optimization.",
       "container_title": "International Conference on Computer Vision, Algorithms, and Communication (CVAC 2026)",
       "publication_year": "2026",
       "volume": "",
@@ -358111,7 +358111,7 @@
           }
         }
       ],
-      "abstract": "In this paper we develop a mathematical model for the dynamics of a nonlinear Timoshenko beam with piezoelectric actuation. This model can then be used to design controllers with the goal of achieving a desired shape of the beam. The control scheme can be used for several applications, e.g., vibration control in structures or shape control for high-precision structures like inflatable space reflectors. The starting point of the control design is modeling for control. We do this in the framework of port-Hamiltonian (pH) modeling, which has favorable properties, such as passivity and a Hamiltonian representing the energy and serving as a Lyapunov function, that can be exploited for controller design. An important property of the pH modeling framework is that it facilitates modeling multiphysics systems or systems which consist of several subsystems, where all parts are modeled separately and then can be interconnected easily. This is possible because any interconnection of finite dimensional pH systems yiel...",
+      "abstract": "In this paper we develop a mathematical model for the dynamics of a nonlinear Timoshenko beam with piezoelectric actuation. This model can then be used to design controllers with the goal of achieving a desired shape of the beam. The control scheme can be used for several applications, e.g., vibration control in structures or shape control for high-precision structures like inflatable space reflectors. The starting point of the control design is modeling for control. We do this in the framework of port-Hamiltonian (pH) modeling, which has favorable properties, such as passivity and a Hamiltonian representing the energy and serving as a Lyapunov function, that can be exploited for controller design. An important property of the pH modeling framework is that it facilitates modeling multiphysics systems or systems which consist of several subsystems, where all parts are modeled separately and then can be interconnected easily. This is possible because any interconnection of finite dimensional pH systems yields again a finite dimensional pH system. Hence, the pH framework is useful for our multidomain modeling purpose.",
       "container_title": "SIAM Journal on Control and Optimization",
       "publication_year": "2014",
       "volume": "52",
@@ -358318,7 +358318,7 @@
           }
         }
       ],
-      "abstract": "In this paper we show how to spatially discretize a distributed model of a piezoelectric beam representing the dynamics of an inflatable space reflector in port-Hamiltonian (pH) form. This model can then be used to design a controller for the shape of the inflatable structure. Inflatable structures have very nice properties, suitable for aerospace applications, e.g., inflatable space reflectors. With this technology we can build inflatable reflectors which are about 100 times bigger than solid ones. But to be useful for telescopes we have to achieve the desired surface accuracy by actively controlling the surface of the inflatable. The starting point of the control design is modeling for control. In this paper we choose lumped pH modeling since these models offer a clear structure for control design. To be able to design a finite dimensional controller for the infinite dimensional system we need a finite dimensional approximation of the infinite dimensional system which inherits all the structural propert...",
+      "abstract": "In this paper we show how to spatially discretize a distributed model of a piezoelectric beam representing the dynamics of an inflatable space reflector in port-Hamiltonian (pH) form. This model can then be used to design a controller for the shape of the inflatable structure. Inflatable structures have very nice properties, suitable for aerospace applications, e.g., inflatable space reflectors. With this technology we can build inflatable reflectors which are about 100 times bigger than solid ones. But to be useful for telescopes we have to achieve the desired surface accuracy by actively controlling the surface of the inflatable. The starting point of the control design is modeling for control. In this paper we choose lumped pH modeling since these models offer a clear structure for control design. To be able to design a finite dimensional controller for the infinite dimensional system we need a finite dimensional approximation of the infinite dimensional system which inherits all the structural properties of the infinite dimensional system, e.g., passivity. To achieve this goal first divide the one-dimensional (1-D) Timoshenko beam with piezoelectric actuation into several finite elements. Next we discretize the dynamics of the beam on the finite element in a structure preserving way. These finite elements are then interconnected in a physical motivated way. The interconnected system is then a finite dimensional approximation of the beam dynamics in the pH framework. Hence, it has inherited all the physical properties of the infinite dimensional system. To show the validity of the finite dimensional system we will present simulation results. In future work we will also focus on two-dimensional (2-D) models.",
       "container_title": "Multiscale Modeling &amp; Simulation",
       "publication_year": "2011",
       "volume": "9",
@@ -358730,7 +358730,7 @@
           }
         }
       ],
-      "abstract": "This paper derives a scalable reduction of an elastic continuum for boundary energy control methods in terms of the statistical identification of coarse-grained molecular dynamics. Such an identified molecular dynamics, called renormalized molecular dynamics, is used for fast numerical calculations as well as for modeling large targets, even though the numerical molecular dynamics calculations are very time-consuming. The coarse graining can be described as a parameter scaling in the Hamiltonian system of renormalized molecular dynamics, and thus a renormalized Hamiltonian system can be defined by the scalable Hamiltonian. At the inverse limit of the coarse graining, the renormalized Hamiltonian system can be transformed into a distributed port-Hamiltonian system that is a formal representation of partial differential equations for boundary controls based on energy flows. By introducing the concept of the controls to each coarse graining level, the renormalized Hamiltonian systems can be used as a scalabl...",
+      "abstract": "This paper derives a scalable reduction of an elastic continuum for boundary energy control methods in terms of the statistical identification of coarse-grained molecular dynamics. Such an identified molecular dynamics, called renormalized molecular dynamics, is used for fast numerical calculations as well as for modeling large targets, even though the numerical molecular dynamics calculations are very time-consuming. The coarse graining can be described as a parameter scaling in the Hamiltonian system of renormalized molecular dynamics, and thus a renormalized Hamiltonian system can be defined by the scalable Hamiltonian. At the inverse limit of the coarse graining, the renormalized Hamiltonian system can be transformed into a distributed port-Hamiltonian system that is a formal representation of partial differential equations for boundary controls based on energy flows. By introducing the concept of the controls to each coarse graining level, the renormalized Hamiltonian systems can be used as a scalable model for macroscopic boundary controls and microscopic numerical calculations, which we call a renormalized port-Hamiltonian system. A numerical example of elastic continuum mechanics is also presented.",
       "container_title": "SIAM Journal on Control and Optimization",
       "publication_year": "2015",
       "volume": "53",
@@ -358926,7 +358926,7 @@
           }
         }
       ],
-      "abstract": "A distributed port-Hamiltonian (DPH) system is a framework of boundary controls based on energy for partial differential equations (PDEs). A DPH system is defined in terms of a Stokes--Dirac structure that implies boundary integrability in the sense of Stokes' theorem. Because of the boundary integrability, the energy flows of the systems distributed on a domain can be transformed into energy flows across the boundary of the domain. In general, there might exist boundary nonintegrable energy flows in PDEs. Such energy flows can be modeled by an extended representation of DPH systems, called a distributed energy flow. This paper shows that DPH systems with distributed energy flows can be transformed into standard DPH systems without distributed energy flows by adding extra DPH systems. As a result, we can apply boundary controls and boundary interconnections based on energy to a larger class of PDEs. We call this transformation the boundary completion of DPH systems. This paper derives the necessary and su...",
+      "abstract": "A distributed port-Hamiltonian (DPH) system is a framework of boundary controls based on energy for partial differential equations (PDEs). A DPH system is defined in terms of a Stokes--Dirac structure that implies boundary integrability in the sense of Stokes' theorem. Because of the boundary integrability, the energy flows of the systems distributed on a domain can be transformed into energy flows across the boundary of the domain. In general, there might exist boundary nonintegrable energy flows in PDEs. Such energy flows can be modeled by an extended representation of DPH systems, called a distributed energy flow. This paper shows that DPH systems with distributed energy flows can be transformed into standard DPH systems without distributed energy flows by adding extra DPH systems. As a result, we can apply boundary controls and boundary interconnections based on energy to a larger class of PDEs. We call this transformation the boundary completion of DPH systems. This paper derives the necessary and sufficient conditions for such boundary completions.",
       "container_title": "SIAM Journal on Control and Optimization",
       "publication_year": "2015",
       "volume": "53",
@@ -359131,7 +359131,7 @@
           }
         }
       ],
-      "abstract": "The main contribution of this paper is the generalisation of well-known energy-based control techniques (i.e., energy-balancing passivity-based control and passivity-based control with state modulated source), to the case in which the plant is a port-Hamiltonian system in implicit form. A typical situation is when (part of) the system is obtained from the spatial discretization of an infinite dimensional port-Hamiltonian system: in this case, the dynamics is not given in standard input-state-output form, but as a set of DAEs. Consequently, the control by energy-shaping has to be extended to deal with dynamical systems with constraints. The general methodology is discussed with the help of a simple but illustrative example, i.e. a transmission line interconnected with an RLC circuit.",
+      "abstract": "The main contribution of this paper is the generalization of well-known energy-based control techniques (i.e., energy-balancing passivity-based control, passivity-based control with state-modulated source, and interconnection and damping assignment passivity-based control) to the case in which the plant is a port-Hamiltonian system in implicit form. A typical situation is when (part of) the system is obtained from the spatial discretization of an infinite dimensional port-Hamiltonian system: in this case, the dynamics is not given in standard input-state-output form but as a set of DAEs. Consequently, the most popular control by energy-shaping techniques have to be extended to deal with dynamical systems with constraints, and geometrical conditions for the existence of the regulator based on the properties of Dirac and resistive structures of the plant are also necessary. The methodological results are discussed with the help of simple but illustrative examples in which the port-Hamiltonian systems in implicit form are the finite-element models of a lossless transmission line and of a Timoshenko beam.",
       "container_title": "SIAM Journal on Control and Optimization",
       "publication_year": "2014",
       "volume": "52",
@@ -359629,7 +359629,7 @@
           }
         }
       ],
-      "abstract": "Dissipative Hamiltonian (DH) systems are an important concept in energy based modeling of dynamical systems. One of the major advantages of the DH formulation is that system properties are encoded in an algebraic way. For instance, the algebraic structure of DH systems guarantees that the system is automatically stable. In this paper the question is discussed when a linear constant coefficient DH system is on the boundary of the region of asymptotic stability, i.e., when it has purely imaginary eigenvalues, or how much it has to be perturbed to be on this boundary. For unstructured systems this distance to instability (stability radius) is well understood. In this paper, explicit formulas for this distance under structure-preserving perturbations are determined. It is also shown (via numerical examples) that under structure-preserving perturbations the asymptotical stability of a DH system is much more robust than under general perturbations, since the distance to instability can be much larger when struc...",
+      "abstract": "Dissipative Hamiltonian (DH) systems are an important concept in energy based modeling of dynamical systems. One of the major advantages of the DH formulation is that system properties are encoded in an algebraic way. For instance, the algebraic structure of DH systems guarantees that the system is automatically stable. In this paper the question is discussed when a linear constant coefficient DH system is on the boundary of the region of asymptotic stability, i.e., when it has purely imaginary eigenvalues, or how much it has to be perturbed to be on this boundary. For unstructured systems this distance to instability (stability radius) is well understood. In this paper, explicit formulas for this distance under structure-preserving perturbations are determined. It is also shown (via numerical examples) that under structure-preserving perturbations the asymptotical stability of a DH system is much more robust than under general perturbations, since the distance to instability can be much larger when structure-preserving perturbations are considered.",
       "container_title": "SIAM Journal on Matrix Analysis and Applications",
       "publication_year": "2016",
       "volume": "37",
@@ -363127,7 +363127,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "This paper deals with the systematic development of structure-preserving approximations for a class of nonlinear partial differential equations on networks. The class includes, for example, gas pipe network systems described by barotropic Euler equations. Our approach is guided throughout by energy-based modeling concepts (port-Hamiltonian formalism, theory of Legendre transformation), which provide a convenient and general line of reasoning. Under mild assumptions on the approximation, local conservation of mass, an energy bound, and the inheritance of the port-Hamiltonian structure can be shown. Our approach is not limited to conventional space discretization but also covers complexity reduction of the nonlinearities by inexact integration. Thus, it can serve as a basis for structure-preserving model reduction. Combined with an energy-stable time integration, we demonstrate the applicability and good stability properties using the example of the Euler equations on networks.",
       "container_title": "SIAM Journal on Scientific Computing",
       "publication_year": "2022",
       "volume": "44",
@@ -363928,7 +363928,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "The present work addresses the problem of energy shaping for stochastic port-Hamiltonian systems. Energy shaping is a powerful technique that allows one to systematically find feedback laws to shape the Hamiltonian of a controlled system so that, under a general passivity condition, it converges to a desired configuration. Energy shaping has been recently generalized to consider stochastic port-Hamiltonian systems. Nonetheless, the resulting theory presents several limitations so that relevant examples, such as the additive noise case, are immediately ruled out from the possible use of energy shaping. In the current paper we continue the investigation of the properties of a weak notion of passivity for a stochastic system and derive a weak notion of convergence for the controlled system. Such weak notion of passivity is strictly related to the existence and uniqueness of an invariant measure for the system so that the theory developed has a purely probabilistic flavor. We will show how all the relevant results of energy shaping can be recover under the proposed weak setting.",
       "container_title": "SIAM Journal on Control and Optimization",
       "publication_year": "2023",
       "volume": "61",
@@ -364192,7 +364192,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "We present a novel physics-informed system identification method to construct a passive linear time-invariant system. In more detail, for a given quadratic energy functional, measurements of the input, state, and output of a system in the time domain, we find a realization that approximates the data well while guaranteeing that the energy functional satisfies a dissipation inequality. To this end, we use the framework of port-Hamiltonian (pH) systems and modify the dynamic mode decomposition, respectively, operator inference, to be feasible for continuous-time pH systems. We propose an iterative numerical method to solve the corresponding least-squares minimization problem. We construct an effective initialization of the algorithm by studying the least-squares problem in a weighted norm, for which we present the analytical minimum-norm solution. The efficiency of the proposed method is demonstrated with several numerical examples.",
       "container_title": "SIAM Journal on Scientific Computing",
       "publication_year": "2023",
       "volume": "45",
@@ -364485,7 +364485,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "The relationship of the theory of port-Hamiltonian systems with the mathematical concept of monotonicity is explored. The earlier introduced notion of incrementally port-Hamiltonian systems is extended to systems defined with respect to maximal cyclically monotone relations, together with their generating convex functions. This gives rise to interesting subclasses of incrementally port-Hamiltonian systems, with examples stemming from physical systems modeling as well as from convex optimization. Furthermore, it is shown how cyclical monotonicity for Dirac structures is equivalent to separability. An in-depth treatment is given of the composition of maximal monotone and maximal cyclically monotone relations, where in the latter case the resulting maximal cyclically monotone relation is shown to be computable through the use of generating functions. The results on compositionality are employed for steady-state analysis and for a convex optimization approach to the computation of the equilibria of interconnected incrementally port-Hamiltonian systems. Finally, the relation to incremental and differential passivity is discussed, and it is shown how incrementally port-Hamiltonian systems with strictly convex Hamiltonians are equilibrium independent passive.",
       "container_title": "SIAM Journal on Control and Optimization",
       "publication_year": "2023",
       "volume": "61",
@@ -364696,7 +364696,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "We develop an optimization-based algorithm for parametric model order reduction (PMOR) of linear time-invariant dynamical systems. Our method aims at minimizing the $\\mathcal{H}_\\infty \\otimes \\mathcal{L}_\\infty$ approximation error in the frequency and parameter domain by an optimization of the reduced order model (ROM) matrices. State-of-the-art PMOR methods often compute several nonparametric ROMs for different parameter samples, which are then combined to a single parametric ROM. However, these parametric ROMs can have a low accuracy between the utilized sample points. In contrast, our optimization-based PMOR method minimizes the approximation error across the entire parameter domain. Moreover, due to our flexible approach of optimizing the system matrices directly, we can enforce favorable features, such as a port-Hamiltonian structure, in our ROMs across the entire parameter domain. Our method is an extension of the recently developed structured optimization-based model order reduction algorithm to parametric systems. We extend both the ROM parameterization and the adaptive sampling procedure to the parametric case. Several numerical examples demonstrate the effectiveness and high accuracy of our method in comparison with other PMOR methods.",
       "container_title": "SIAM Journal on Scientific Computing",
       "publication_year": "2025",
       "volume": "47",
@@ -365591,7 +365591,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "It is well known that any port-Hamiltonian (pH) system is passive, and, conversely, any minimal and stable passive system has a pH representation. Nevertheless, this equivalence is only concerned with the input-output mapping but not with the Hamiltonian itself. Thus, we propose to view a pH system either as an enlarged dynamical system with the Hamiltonian as additional output or as two dynamical systems with the input-output and the Hamiltonian dynamic. Our first main result is a structure-preserving Kalman-like decomposition of the enlarged pH system that separates the controllable and zero-state observable parts. Moreover, for further approximations in the context of structure-preserving model-order reduction (MOR), we propose to search for a Hamiltonian in the reduced pH system that minimizes the $\\mathcal{H}_2$-distance to the full-order Hamiltonian without altering the input-output dynamic, thus discussing a particular aspect of the corresponding multiobjective minimization problem corresponding to $\\mathcal{H}_2$-optimal MOR for pH systems. We show that this optimization problem is uniquely solvable and can be recast as a standard semidefinite program, and we present two numerical approaches for solving it. The results are illustrated with three academic examples.",
       "container_title": "SIAM Journal on Control and Optimization",
       "publication_year": "2025",
       "volume": "63",
@@ -366192,7 +366192,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "The characterization of the solution set for a class of algebraic Riccati inequalities is studied. This class arises in the passivity analysis of linear time-invariant control systems. Eigenvalue perturbation theory for the Hamiltonian matrix associated with the Riccati inequality is used to analyze the extremal points of the solution set.",
       "container_title": "SIAM Journal on Matrix Analysis and Applications",
       "publication_year": "2024",
       "volume": "45",
@@ -366535,7 +366535,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "The structure preserving stabilization of (possibly nonregular) linear port-Hamiltonian descriptor (pHDAE) systems by output feedback is discussed. For general descriptor systems, the characterization when there exist output feedbacks that lead to an asymptotically stable closed-loop system is a very hard and partially an open problem. In contrast to this, it is shown that for systems in pHDAE representation this problem can be completely solved. Necessary and sufficient conditions are presented that guarantee that there exist a proportional and/or derivative output feedback such that the resulting closed-loop port-Hamiltonian descriptor system is asymptotically stable. For this, it is necessary that the output feedback also makes the problem regular and of index at most one. A complete characterization when this is possible is presented as well.",
       "container_title": "SIAM Journal on Matrix Analysis and Applications",
       "publication_year": "2025",
       "volume": "46",
@@ -371941,7 +371941,7 @@
       ],
       "abstract": "This paper investigates a passivity-based control (PBC) for DC Motor drive system with PWM. In the paper, the port-controlled Hamiltonian system with dissipation (PCHD) model of the system is built and the interconnection and damping assignment passivity-based control (IDA-PBC) method is used for the design of the controller. The system simulation model is built based on MATLAB/Simulink and the simulation results validate that the DC Motor drive system based on PBC controller has excellent dynamic performances such as robustness and transient response, compared with the traditional PI controller.",
       "container_title": "TELKOMNIKA Indonesian Journal of Electrical Engineering",
-      "publication_year": "2013",
+      "publication_year": "2012",
       "volume": "10",
       "issue": "8",
       "pages": "",
@@ -382045,7 +382045,7 @@
       "container_title": "Foundations and Trends® in Systems and Control",
       "publication_year": "2014",
       "volume": "1",
-      "issue": "2",
+      "issue": "2-3",
       "pages": "173--378",
       "publisher": "Now Publishers",
       "event": "",
@@ -382124,7 +382124,7 @@
       ],
       "abstract": "This paper focuses on boundary control of distributed parameter systems (also called infinite dimensional systems). More precisely, a passivity based approach for the stabilization of temperature profile inside a well-insulated bar with heat conduction in a one-dimensional described by parabolic partial differential equations (PDEs) is developed. This approach is motivated by an appropriate model reduction schema using the finite difference approximation method. On this basis, it allows to discretize and then, write the original parabolic PDEs into a Port Hamiltonian (PH) representation. From this, the boundary control input is therefore synthesized using passive tools to stabilize the temperature at a desired reference profile asymptotically. The infinite dimensional nature of the original distributed parameter system in the PH framework is also discussed. Numerical simulations illustrate the application of the developments.",
       "container_title": "Journal of Computer Science and Cybernetics",
-      "publication_year": "2020",
+      "publication_year": "2016",
       "volume": "32",
       "issue": "1",
       "pages": "61--74",
@@ -383354,7 +383354,7 @@
       ],
       "abstract": "HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. Simulation of the Ondes Martenot Ribbon-Controlled Oscillator Using Energy-Balanced Modeling of Nonlinear Time-Varying Electronic Components Judy Najnudel, Thomas Hélie, David Roze",
       "container_title": "Journal of the Audio Engineering Society",
-      "publication_year": "2020",
+      "publication_year": "2019",
       "volume": "67",
       "issue": "12",
       "pages": "961--971",
@@ -391108,7 +391108,7 @@
       "publication_year": "2019",
       "volume": "",
       "issue": "",
-      "pages": "",
+      "pages": "1636--1641",
       "publisher": "IEEE",
       "event": "",
       "keywords": [],
@@ -393869,7 +393869,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "In this paper, a port-Hamiltonian approach to modelling of mechanical systems subject to switching contact constraints is presented. It is well known that a class of constrained systems can be represented as port-Hamiltonian systems without Lagrange multipliers by considering a reduced momentum space. Here, we revisit the modelling of these systems for the purpose of demonstrating that the discrete dynamics associated with switching constraints can be obtained directly through the process of mapping between reduced-order continuous systems. The modelling framework is illustrated by applying it to the compass-like biped robot, and the obtained port-Hamiltonian model is used to derive a passivity-based controller.",
       "container_title": "2025 European Control Conference (ECC)",
       "publication_year": "2025",
       "volume": "",
@@ -395760,7 +395760,7 @@
       ],
       "abstract": "Computational physics can be used to help solve complex dynamics equations, both translational and rotational. The purpose of this study is to obtain differences in the dynamics of mechanical systems with non-holonomic constraints in various flat and curved configuration spaces based on physics computing. In this study the reduction used is a mathematical calculation of the Port-Contolled Hamiltonian System (PCHS) equation in a mechanical system that is a Stroller, so that the equation used in determining the Stroller motion equation with and without friction that moves in the curved plane in the form of a spherical surface with various initial conditions based on maple is Poincaré's equation which is based on Routhian reduction with and without friction. The effect of friction can be clearly seen through dynamics and graphical equations on the Stroller. This method can reduce the Stroller motion equation with and without friction that moves on the ball sphere clearly in the form of a set of differential equations. The findings of this study are dynamic equations and graphs of Stroller equations with and without friction that move in the curved plane in the form of a spherical ball with varying initial conditions based on maples. This study proves physical concepts about dynamics and kinematics and analyzes Stroller dynamics using computational physics to determine the characteristics of complex and complex Stroller movements, both translational and rotational.",
       "container_title": "JIPFRI (Jurnal Inovasi Pendidikan Fisika dan Riset Ilmiah)",
-      "publication_year": "2021",
+      "publication_year": "2020",
       "volume": "4",
       "issue": "2",
       "pages": "77--84",
@@ -404770,7 +404770,7 @@
         "doi": "10.3182/20120829-3-it-4022.00041"
       },
       "type": "journal-article",
-      "title": "Boundary Energy Shaping of Linear Distributed Port-Hamiltonian Systems* *This work was partially supported by the Austrian Center of Competence in Mechatronics (ACCM).",
+      "title": "Boundary Energy Shaping of Linear Distributed Port-Hamiltonian Systems",
       "authors": [
         {
           "given": "Alessandro",
@@ -409386,7 +409386,7 @@
       ],
       "abstract": "In this article we study the possibilities of recovering the structure of port-Hamiltonian systems starting from “unlabelled” ordinary differential equations describing mechanical systems. The algorithm we suggest solves the problem in two phases. It starts by constructing the connectivity structure of the system using machine learning methods – producing thus a graph of interconnected subsystems. Then this graph is enhanced by recovering the Hamiltonian structure of each subsystem as well as the corresponding ports. This second phase relies heavily on results from symplectic and Poisson geometry that we briefly sketch. And the precise solutions can be constructed using methods of computer algebra and symbolic computations. The algorithm permits to extend the port-Hamiltonian formalism to generic ordinary differential equations, hence introducing eventually a new concept of normal forms of ODEs.",
       "container_title": "Журнал вычислительной математики и математической физики",
-      "publication_year": "2024",
+      "publication_year": "2023",
       "volume": "63",
       "issue": "1",
       "pages": "165--174",
@@ -409598,7 +409598,7 @@
       ],
       "abstract": "This paper addresses the problem of sinusoidal voltage generation in linear loads using a voltage source inverter (VSI). The port-Hamiltonian structure in open-loop is used to design a passivity-based controller with proportional-integral gains (PI-PBC) in order to develop the control strategy. The main advantage of using passivity-based controllers corresponds to the possibility of guaranteeing asymptotic stability by transforming the trajectory tracking problem into a regulation control one. In addition to the PI-PBC, a linear load estimator is employed based on an integral formulation to determine the value of the equivalent conductance in the load, which reduces the number of current sensors. Numerical validations demonstrate that the sinusoidal voltage provided by the VSI to the load has a tracking error lower than $1~\\%$, with harmonic distortions lower than $2.6~\\%$, both for voltage and currents in the load. All the simulations were conducted in MATLAB/Simulink using the SimPowerSystems library version 2017a.",
       "container_title": "Transactions on Energy Systems and Engineering Applications",
-      "publication_year": "2021",
+      "publication_year": "2020",
       "volume": "1",
       "issue": "1",
       "pages": "33--47",
@@ -423633,9 +423633,9 @@
       "abstract": "This study presents a complex variable neural network (CVNN) controller designed for unmanned aerial vehicles (UAVs) using the port-Hamiltonian formulation with non-holonomic constraints. The approach begins by deriving the dynamic model of a quadrotor UAV in port-Hamiltonian form, where the Hamiltonian is constructed from the system&amp;rsquo;s total kinetic and potential energies. Dirac structures are implemented to preserve the system&amp;rsquo;s structural properties while incorporating non-holonomic constraints specifically in the attitude loop. The proposed control architecture decouples the attitude and position control loops, with each utilizing a CVNN controller designed through Lyapunov stability analysis. Theoretical proofs establish the stability of both control loops, while numerical simulations demonstrate the effectiveness of the proposed approach for trajectory tracking tasks. Comparative analysis against existing controllers shows superior performance in reducing root mean square errors while maintaining reasonable control effort. The results confirm that the CVNN controller effectively manages the UAV&amp;rsquo;s dynamic behavior even with non-holonomic constraints limiting the vehicle&amp;rsquo;s orientation range.",
       "container_title": "An International Journal of Optimization and Control: Theories &amp; Applications (IJOCTA)",
       "publication_year": "2026",
-      "volume": "0",
-      "issue": "0",
-      "pages": "025450195",
+      "volume": "16",
+      "issue": "3",
+      "pages": "948--980",
       "publisher": "AccScience Publishing",
       "event": "",
       "keywords": [],
@@ -423973,7 +423973,7 @@
       ],
       "abstract": "The direct discrete time control of Port Controlled Hamiltonian Systems (PCHS) in the sense of energy shaping and damping injection is considered. In order to give a direct discrete time design method for PCHS, firstly an appropriate discrete gradient is proposed, which enables the derivation of a discrete time equation corresponding to the discrete time counterpart of Hamiltonian Systems. Using this proposed discrete-time model, the discrete-time counterpart of Passivity Based Control (PBC) technique is developed for n-degreesof-freedom mechanical systems. The discrete-time control rules which correspond to the energy shaping and damping assignment are obtained directly using the discrete time model of the desired system and the discrete time model of the open loop systems. To illustrate the effectiveness of the proposed method, two non-separable and under actuated examples are investigated and the simulation results are given.",
       "container_title": "Turkish Journal of Electrical Engineering and Computer Sciences",
-      "publication_year": "2022",
+      "publication_year": "2010",
       "volume": "",
       "issue": "",
       "pages": "",
@@ -425064,7 +425064,7 @@
         }
       ],
       "abstract": "Stability and stabilization of linear port-Hamiltonian systems on infinite-dimensional spaces are investigated. This class is general enough to include models of beams and waves as well as transport and Schr\"odinger equations with boundary control and observation. The analysis is based on the frequency domain method which gives new results for second order port-Hamiltonian systems and hybrid systems. Stabilizing controllers with colocated input and output are designed. The obtained results are applied to the Euler-Bernoulli beam.",
-      "container_title": "Evolution Equations &amp; Control Theory",
+      "container_title": "Evolution Equations and Control Theory",
       "publication_year": "2014",
       "volume": "3",
       "issue": "2",
@@ -425241,7 +425241,7 @@
         }
       ],
       "abstract": "A first extension of the IDA-PBC control synthesis to infinite dimensional port Hamiltonian systems is investigated, using the same idea as for the finite dimensional case, that is transform the original model into a closed loop target Hamiltonian model using feedback control. To achieve this goal both finite rank distributed control and boundary control are used. The proposed class of considered port Hamiltonian distributed parameters systems is first defined. Then the matching equation is derived for this class before considering the particular case of damping assignment on the resistive diffusion example, for the radial diffusion of the poloidal magnetic flux in tokamak reactors.",
-      "container_title": "Evolution Equations &amp; Control Theory",
+      "container_title": "Evolution Equations and Control Theory",
       "publication_year": "2015",
       "volume": "4",
       "issue": "2",
@@ -425394,7 +425394,7 @@
         }
       ],
       "abstract": "We study a class of non-autonomous boundary control and observation linear systems that are governed by non-autonomous multiplicative perturbations. This class is motivated by different fundamental partial differential equations, such as controlled wave equations and Timoshenko beams. Our main results give sufficient condition for well-posedness, existence and uniqueness of classical and mild solutions.",
-      "container_title": "Evolution Equations &amp; Control Theory",
+      "container_title": "Evolution Equations and Control Theory",
       "publication_year": "2021",
       "volume": "10",
       "issue": "2",
@@ -425425,11 +425425,11 @@
         }
       ],
       "abstract": "We consider a port-Hamiltonian system on an open spatial domain $\\Omega \\subseteq \\mathbb{R}^n$ with bounded Lipschitz boundary. We show that there is a boundary triple associated to this system. Hence, we can characterize all boundary conditions that provide unique solutions that are non-increasing in the Hamiltonian. As a by-product we develop the theory of quasi Gelfand triples. Adding \"natural\" boundary controls and boundary observations yields scattering/impedance passive boundary control systems. This framework will be applied to the wave equation, Maxwell's equations and Mindlin plate model. Probably, there are even more applications.",
-      "container_title": "Evolution Equations &amp; Control Theory",
+      "container_title": "Evolution Equations and Control Theory",
       "publication_year": "2021",
       "volume": "10",
       "issue": "4",
-      "pages": "965",
+      "pages": "965--1006",
       "publisher": "American Institute of Mathematical Sciences (AIMS)",
       "event": "",
       "keywords": [],
@@ -428184,7 +428184,7 @@
       ],
       "abstract": "This paper is devoted to path following control for electro-mechanical systems described by the port-Hamiltonian form. Path following control is investigated mainly for mechanical systems since the desired path is characterized by its ‘position’. Therefore, most of the existing results use the nature of second order differential equations since mechanical systems are described by them. The present paper proposes a new path following controller for 3rd order differential equations described by the port-Hamiltonian form. This is done by generalizing the authors’ former result on passive velocity field control for mechanical systems.",
       "container_title": "Advanced Engineering Forum",
-      "publication_year": "2012",
+      "publication_year": "2011",
       "volume": "2-3",
       "issue": "",
       "pages": "501--506",
@@ -428604,7 +428604,7 @@
       ],
       "abstract": "This paper discusses a distributed system modeling of the electrical impedance of ionic polymer-metal composites from the point of view of the electrode roughness. A diffusion-like equation is derived from the distributed circuit model which represents the fractal-like distribution of the polymer-electrode interface. The port-Hamiltonian representation of the system is also shown. In the experiment, the frequency response of the impedance is measured under various conditions.",
       "container_title": "Advances in Science and Technology",
-      "publication_year": "2009",
+      "publication_year": "2008",
       "volume": "61",
       "issue": "",
       "pages": "157--162",
@@ -429056,7 +429056,7 @@
           }
         }
       ],
-      "abstract": "",
+      "abstract": "In this paper, a novel structure-preserving scheme is proposed for solving the three-dimensional Maxwell’s equations. The proposed scheme can preserve all of the desired structures of the Maxwell’s equations numerically, including five energy conservation laws, two divergence-free fields, three momentum conservation laws and a symplectic conservation law. Firstly, the spatial derivatives of the Maxwell’s equations are approximated with Fourier pseudo-spectral methods. The resulting ordinary differential equations are cast into a canonical Hamiltonian system. Then, the fully discrete structure-preserving scheme is derived by integrating the Hamiltonian system using a sixth order average vector field method. Subsequently, an optimal error estimate is established based on the energy method, which demonstrates that the proposed scheme is of sixth order accuracy in time and spectral accuracy in space in the discrete $L^2$-norm. The constant in the error estimate is proved to be only $\\mathcal{O}(T),$ where $T > 0$ is the time period. Furthermore, its numerical dispersion relation is analyzed in detail, and a customized fast solver is presented to efficiently solve the resulting discrete linear equations. Finally, numerical results are presented to validate our theoretical analysis.",
       "container_title": "CSIAM Transactions on Applied Mathematics",
       "publication_year": "2024",
       "volume": "5",
@@ -432049,7 +432049,7 @@
       ],
       "abstract": "This chapter discusses a modeling and passivity based control of hydraulic arms which are robotic, that is, have asymmetric cylinders. Hydraulic arms are very important components in field robotics, such as construction, agriculture, rescue , demining robotics and so on since hydraulic arms are superior to electric arms with respect to the power to weight ratio and also can keep joint forces even when the energy source (the hydraulic pump) does not work. In many cases of electric arms, the driving system (or the actuator dynamics) is simple and almost static, for example, the input torque (or velocity) is just proportional to the control input. On the other hand, in many cases of hydraulic arms, the driving system is complex and consists of compressible fluid systems, that is, nonlinear dynamical systems with unknown (or hard-to-be identified) parameters. To solve these problems, this chapter gives some results about modeling and control of hydraulic arms by applying and developing port-Hamiltonian systems and control theory.",
       "container_title": "Cutting Edge Robotics 2010",
-      "publication_year": "2012",
+      "publication_year": "2010",
       "volume": "",
       "issue": "",
       "pages": "",
@@ -432176,7 +432176,7 @@
       ],
       "abstract": "to control function which compensate this positive value by the difference between the SC voltage and its reference. We are in discharging mode. After the load variation (t > 1.5 s), the current in the DC link became equal to the load current. The SC current I SC became null. We have a small variation in the batteries currents. in the of",
       "container_title": "Energy Management",
-      "publication_year": "2012",
+      "publication_year": "2010",
       "volume": "",
       "issue": "",
       "pages": "",
@@ -432509,7 +432509,7 @@
       ],
       "abstract": "In recent years, different strategies have been used to model HVDC systems. A usual strategy is to look for the models simplification (or linearization) to do a small-signal analysis. However, VSC-HVDC multiterminal links have intrinsically non-linear characteristics that need to be considered. Port-Hamiltonian (pH) systems provide a modeling methodology that allows incorporating the elements of the HVDC system in a modular way while explicitly providing the energy function, internal interconnection, and dissipation, which is helpful for analysis and control. This paper presents the modeling of a multiterminal HVDC network commonly used in the Electrical Power Systems literature from the pH perspective. It aims to use the pH structure to incorporate elements into the system while preserving its properties. Numerical simulations are carried out to show a comparison between the common model and the pH representation and it is shown that the latter reproduces the same dynamics of the former without loss of information but gaining in simplicity and structure.",
       "container_title": "Memorias del Congreso Nacional de Control Automático",
-      "publication_year": "2023",
+      "publication_year": "2022",
       "volume": "5",
       "issue": "1",
       "pages": "127--132",
@@ -432558,7 +432558,7 @@
       ],
       "abstract": "In this work, the problem of additive perturbations is studied for a class of port Control Hamiltonian (PCH) systems. The considered class of Hamiltonian systems includes underactuated systems, which continue to be an important open study area. The starting point of the used methodology begins by considering that a previous tracking control has already made the equilibrium point of the error dynamic system asymptotically stable. The Integral Control (IC) reported in cite{ortega2012robust} and cite{ferguson2017integral} are implemented in the PCH class system so that it can reject the constant additive perturbations and conserves the Hamiltonian system structure. The results are compared and tested in a studied case with the system application of the Permanente Magnet Synchronous Motor (PMSM), and the MATLAB Simulink simulations obtained are exposed to compare the performance of both controls.",
       "container_title": "Memorias del Congreso Nacional de Control Automático",
-      "publication_year": "2023",
+      "publication_year": "2022",
       "volume": "5",
       "issue": "1",
       "pages": "187--192",
@@ -432607,7 +432607,7 @@
       ],
       "abstract": "In this paper the observer design problem for a class of nonlinear port-Hamiltonian system is addressed. The class of nonlinear Hamiltonian system is based on the structure of energy function where it is possible to pull the state apart at measured and unmeasured states which generates two interconnected Hamiltonian systems. Exploiting the properties of the class of nonlinear Hamiltonian systems a reduced order observation scheme is proposed. Finally the observer design proposed in this paper is evaluated in a magnetic levitator in order to prove its the convergence properties, also it is comparing the observer convergence characteristics and the observer performance among the observation schemes that are reported in the literature.",
       "container_title": "Memorias del Congreso Nacional de Control Automático",
-      "publication_year": "2023",
+      "publication_year": "2022",
       "volume": "5",
       "issue": "1",
       "pages": "193--198",
@@ -432656,7 +432656,7 @@
       ],
       "abstract": "In this paper a tracking Passivity--based Control (PBC) for a multiterminal Voltage Source Converter based High Voltage Direct Current Network (VSC--HVDC) is evaluated. First, the system (an actual multiterminal HVDC) described as a Port Hamiltonian (PH) System and the controller are presented and subsequently three scenarios are proposed to evaluate the closed--loop behavior, namely: (i) load changes; (ii) generation changes and, (iii) DC--bus changes. Numerical simulations are carried out and results shown the robustness of the closed--loop to cope with these common disturbances.",
       "container_title": "Memorias del Congreso Nacional de Control Automático",
-      "publication_year": "2024",
+      "publication_year": "2023",
       "volume": "6",
       "issue": "1",
       "pages": "187--192",
@@ -432714,7 +432714,7 @@
       ],
       "abstract": "In order to guarantee the stability of quasi-resonant converters, the zero-current switching quasi-resonant buck topology is supplied with a PI passivity-based controller in this study. An adequate and full-order model with constant steady-state solutions is generated, via the interconnection of port-Hamiltonian systems based on the principal structure of the converter. The passivity-based approach is employed to complete the control design, and numerical validation results are provided to ensure performance estimations.",
       "container_title": "Memorias del Congreso Nacional de Control Automático",
-      "publication_year": "2024",
+      "publication_year": "2023",
       "volume": "6",
       "issue": "1",
       "pages": "639--644",
@@ -432754,7 +432754,7 @@
       ],
       "abstract": "In this work, the problem of speed tracking control for the Induction Motor (IM) is studied by implementing a Passivity Based Control (PBC) scheme for the Port Controlled Hamiltonian (PCH) mathematical model of the system. The first step of the implemented methodology is to analyze the model structure and exploit its properties to design a speed tracking control. The mathematical model used to design the speed tracking control is in the dq reference frame, where the stator electrical sinusoidal signals are transformed into constant signals. The importance of the contribution is embedded in the system inversion, as the IM has an electrical subsystem not completely actuated, which makes the control scheme implementation for the IM not a trivial result. For illustration purposes, the numerical evaluation was done by a MATLAB Simulink simulation that shows that the designed control is able to follow variant speed references.",
       "container_title": "Memorias del Congreso Nacional de Control Automático",
-      "publication_year": "2025",
+      "publication_year": "2024",
       "volume": "7",
       "issue": "1",
       "pages": "185--190",
@@ -432861,7 +432861,7 @@
       ],
       "abstract": "In this paper, the modeling problem and the structural analysis from a control perspective of a Class D Parallel Resonant Converter are addressed. It is shown that the model of the converter can be written as a Port-Controlled Hamiltonian system. In addition, from the structural analysis of this model, it is formally proved that the control input of the device is given by the overlap of the two duty cycles that control the two switches included in the device. To illustrate the validity of this assertion, a classical PI controller is numerically implemented showing that manipulation of this variable leads to the achievement of a control objective.",
       "container_title": "Memorias del Congreso Nacional de Control Automático",
-      "publication_year": "2026",
+      "publication_year": "2025",
       "volume": "8",
       "issue": "1",
       "pages": "331--336",
@@ -432919,7 +432919,7 @@
       ],
       "abstract": "This paper presents a systematic methodology to model conduction losses of passive and active elements of power converters within the Port Controlled Hamiltonian (PCH) framework. The motivation behind this approach is not only to achieve a more realistic system representation, preserving the Hamiltonian structure, but also to enable the development and analysis of control schemes that optimize transient performance. The Port-Hamiltonian models for the two basic DC-DC converter topologies, Buck and Boost, are unified into a generalized structure. Finally, the proposed model is validated numerically through MATLAB®-Simulink® simulation comparing the ideal model, the proposed PCH model, with a reference in a Simscape implementation.",
       "container_title": "Memorias del Congreso Nacional de Control Automático",
-      "publication_year": "2026",
+      "publication_year": "2025",
       "volume": "8",
       "issue": "1",
       "pages": "349--354",

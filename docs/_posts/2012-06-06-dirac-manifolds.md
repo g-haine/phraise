@@ -2,7 +2,7 @@
 title: "Dirac manifolds"
 date: 2012-06-06 00:00:00 +0100
 permalink: dirac-manifolds
-year: 2012
+year: 1990
 authors: Theodore James Courant
 category: articles
 ---
@@ -15,7 +15,7 @@ category: articles
  
 ## Citation
 - **Journal:** Transactions of the American Mathematical Society
-- **Year:** 2012
+- **Year:** 1990
 - **Volume:** 319
 - **Issue:** 2
 - **Pages:** 631--661

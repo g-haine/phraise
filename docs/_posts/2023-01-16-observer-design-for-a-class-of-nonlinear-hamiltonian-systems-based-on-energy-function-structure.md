@@ -2,7 +2,7 @@
 title: "Observer design for a class of nonlinear Hamiltonian systems based on energy function structure"
 date: 2023-01-16 00:00:00 +0100
 permalink: observer-design-for-a-class-of-nonlinear-hamiltonian-systems-based-on-energy-function-structure
-year: 2023
+year: 2022
 authors: Christian Granados-Salazar, Michael Rojas, Gerardo Espinosa-Pérez
 category: articles
 ---
@@ -15,7 +15,7 @@ In this paper the observer design problem for a class of nonlinear port-Hamilton
  
 ## Citation
 - **Journal:** Memorias del Congreso Nacional de Control Automático
-- **Year:** 2023
+- **Year:** 2022
 - **Volume:** 5
 - **Issue:** 1
 - **Pages:** 193--198

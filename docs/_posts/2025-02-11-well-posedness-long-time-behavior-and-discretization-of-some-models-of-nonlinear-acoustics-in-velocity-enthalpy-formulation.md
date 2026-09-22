@@ -16,9 +16,9 @@ We study a class of models for nonlinear acoustics, including the well‐known W
 ## Citation
 - **Journal:** Mathematical Methods in the Applied Sciences
 - **Year:** 2025
-- **Volume:** 
-- **Issue:** 
-- **Pages:** 
+- **Volume:** 48
+- **Issue:** 8
+- **Pages:** 8793--8805
 - **Publisher:** Wiley
 - **DOI:** [10.1002/mma.10753](https://doi.org/10.1002/mma.10753)
  

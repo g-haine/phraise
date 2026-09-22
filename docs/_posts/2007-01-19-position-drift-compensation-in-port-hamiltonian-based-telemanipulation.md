@@ -18,7 +18,7 @@ Passivity based bilateral telemanipulation schemes are often subject to a positi
 - **Year:** 2006
 - **Volume:** 
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 4211--4216
 - **Publisher:** IEEE
 - **DOI:** [10.1109/iros.2006.281915](https://doi.org/10.1109/iros.2006.281915)
  
@@ -31,7 +31,8 @@ Passivity based bilateral telemanipulation schemes are often subject to a positi
   booktitle={{2006 IEEE/RSJ International Conference on Intelligent Robots and Systems}},
   publisher={IEEE},
   author={Secchi, Cristian and Stramigioli, Stefano and Fantuzzi, Cesare},
-  year={2006}
+  year={2006},
+  pages={4211--4216}
 }
 {% endraw %}
 {% endhighlight %}

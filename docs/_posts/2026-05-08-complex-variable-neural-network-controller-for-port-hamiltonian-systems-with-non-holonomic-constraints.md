@@ -16,9 +16,9 @@ This study presents a complex variable neural network (CVNN) controller designed
 ## Citation
 - **Journal:** An International Journal of Optimization and Control: Theories &amp; Applications (IJOCTA)
 - **Year:** 2026
-- **Volume:** 0
-- **Issue:** 0
-- **Pages:** 025450195
+- **Volume:** 16
+- **Issue:** 3
+- **Pages:** 948--980
 - **Publisher:** AccScience Publishing
 - **DOI:** [10.36922/ijocta025450195](https://doi.org/10.36922/ijocta025450195)
  
@@ -27,15 +27,15 @@ This study presents a complex variable neural network (CVNN) controller designed
 {% raw %}
 @article{Serrano_2026,
   title={{Complex variable neural network controller for port-Hamiltonian systems with non-holonomic constraints}},
-  volume={0},
+  volume={16},
   ISSN={2146-5703},
   DOI={10.36922/ijocta025450195},
-  number={0},
+  number={3},
   journal={An International Journal of Optimization and Control: Theories \& Applications (IJOCTA)},
   publisher={AccScience Publishing},
   author={Serrano, Fernando and Ahmed, Saim and Azar, Ahmad Taher and Mahlous, Ahmed Redha},
   year={2026},
-  pages={025450195}
+  pages={948--980}
 }
 {% endraw %}
 {% endhighlight %}

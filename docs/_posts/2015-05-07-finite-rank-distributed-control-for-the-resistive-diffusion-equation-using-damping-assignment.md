@@ -14,7 +14,7 @@ category: articles
 A first extension of the IDA-PBC control synthesis to infinite dimensional port Hamiltonian systems is investigated, using the same idea as for the finite dimensional case, that is transform the original model into a closed loop target Hamiltonian model using feedback control. To achieve this goal both finite rank distributed control and boundary control are used. The proposed class of considered port Hamiltonian distributed parameters systems is first defined. Then the matching equation is derived for this class before considering the particular case of damping assignment on the resistive diffusion example, for the radial diffusion of the poloidal magnetic flux in tokamak reactors.
  
 ## Citation
-- **Journal:** Evolution Equations &amp; Control Theory
+- **Journal:** Evolution Equations and Control Theory
 - **Year:** 2015
 - **Volume:** 4
 - **Issue:** 2
@@ -31,7 +31,7 @@ A first extension of the IDA-PBC control synthesis to infinite dimensional port 
   ISSN={2163-2480},
   DOI={10.3934/eect.2015.4.205},
   number={2},
-  journal={Evolution Equations \& Control Theory},
+  journal={Evolution Equations and Control Theory},
   publisher={American Institute of Mathematical Sciences (AIMS)},
   author={Minh Trang Vu, Ngoc and Lefèvre, Laurent},
   year={2015},

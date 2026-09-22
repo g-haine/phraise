@@ -11,7 +11,7 @@ category: articles
 [Ignacio Díaz](authors/ignacio-diaz), [Héctor Ramírez](authors/hector-ramirez), [Yann Le Gorrec](authors/yann-le-gorrec), [Yongxin Wu](authors/yongxin-wu)
  
 ## Abstract
-
+This paper is concerned with the constructive, modular and easy to implement passivity-based rate-dependent modelling of piezoelectric actuators (PZAs) using the port Hamiltonian (PH) framework. The proposed model incorporates hysterons to capture the hysteresic behaviour of PZAs, resulting in a causal bond-graph representation and a simplified explicit PH formulation. The proposed model is an input-affine port-Hamiltonian system that is shown to be asymptotically stable with respect to an arbitrary equilibrium configuration. The model is experimentally validated over a large range of operation frequencies using a commercial piezoelectric actuator and compared to a Bouc-Wen model of the same order.
  
 ## Citation
 - **Journal:** Mathematical and Computer Modelling of Dynamical Systems

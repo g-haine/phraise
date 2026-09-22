@@ -2,7 +2,7 @@
 title: "Path Following Control for a Class of Electro-Mechanical Systems and its Application"
 date: 2012-01-06 00:00:00 +0100
 permalink: path-following-control-for-a-class-of-electro-mechanical-systems-and-its-application
-year: 2012
+year: 2011
 authors: Mitsuru Taniguchi, Kenji Fujimoto
 category: articles
 ---
@@ -15,7 +15,7 @@ This paper is devoted to path following control for electro-mechanical systems d
  
 ## Citation
 - **Journal:** Advanced Engineering Forum
-- **Year:** 2012
+- **Year:** 2011
 - **Volume:** 2-3
 - **Issue:** 
 - **Pages:** 501--506
