@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.3.2** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.4.0** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -120,7 +120,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.3.2**.
+The Conda environment contains Python 3.12 and **BibReview v1.4.0**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -141,7 +141,7 @@ from `.env`.
 
 ## Auditing the historical bibliography
 
-BibReview v1.3.2 can compare the existing canonical bibliography with current
+BibReview v1.4.0 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata. Existing campaign-schema-1 checkpoints are read transparently and
 rewritten as campaign schema 2 on the next audit-state update; audit progress and
@@ -159,9 +159,33 @@ Run the 25-publication pilot:
 bibreview audit --batch-size 25
 ```
 
-Inspect `audit/report.json` manually. Provider differences are evidence for
-review, not automatic corrections. Once the pilot rules are satisfactory,
-subsequent invocations return to PHRAISE's configured default of 50:
+Provider differences are evidence for review, not automatic corrections.
+BibReview v1.4.0 provides a derived read-only review that applies the current
+normalization rules without network access or file changes:
+
+```bash
+bibreview audit --review
+```
+
+When audit comparison rules improve, preview an offline reclassification of the
+already-collected evidence:
+
+```bash
+bibreview --dry-run audit --reclassify
+```
+
+If the before/after counts are satisfactory, apply it:
+
+```bash
+bibreview audit --reclassify
+bibreview audit --review
+```
+
+Reclassification rewrites only the local `audit/report.json`; it does not
+change campaign progress or canonical bibliography data.
+
+Once the review rules are satisfactory, subsequent networked audit invocations
+return to PHRAISE's configured default batch size of 50:
 
 ```bash
 bibreview audit
@@ -271,7 +295,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.3.2 installation;
+- exact BibReview v1.4.0 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
