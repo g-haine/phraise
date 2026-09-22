@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.5.0** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.5.1** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -31,9 +31,9 @@ Important state files are:
 - `docs/assets/data/collected.json` — temporary canonical staging used by
   collect/refresh before merge;
 - `docs/assets/data/author_mappings.json` — reviewed author identities;
-- `audit/campaign.json` and `audit/report.json` — local resumable
-  historical-audit checkpoint and review report, separate from canonical
-  staging and ignored by Git;
+- `audit/campaign.json`, `audit/report.json`, and `audit/resolutions.json` — local
+  historical-audit checkpoint, review report, and resumable human decisions,
+  separate from canonical staging and ignored by Git;
 - `docs/assets/bib/` — tracked BibTeX sources;
 - `docs/DOI.txt`, `docs/newDOI.txt`, `docs/checkDOI.txt`,
   `docs/badDOI.txt` — DOI workflow state.
@@ -120,7 +120,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.5.0**.
+The Conda environment contains Python 3.12 and **BibReview v1.5.1**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -141,7 +141,7 @@ from `.env`.
 
 ## Auditing the historical bibliography
 
-BibReview v1.5.0 can compare the existing canonical bibliography with current
+BibReview v1.5.1 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata.
 Network lookups are batched where the provider supports exact multi-DOI
@@ -164,7 +164,7 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.5.0 provides a derived read-only review that applies the current
+BibReview v1.5.1 provides a derived read-only review that applies the current
 normalization and corroboration rules without network access or file changes.
 The default review is intentionally concise:
 
@@ -187,7 +187,8 @@ bibreview audit --resolve
 ```
 
 Decisions are resumable and stored separately from canonical/staging data until
-a later explicit promotion step.
+a later explicit promotion step. In BibReview v1.5.1, page-range proposals are
+normalized to BibTeX-style double hyphens, for example `8793--8805`.
 
 A provider-only alternative remains informational by default. A missing or
 substantively different canonical value becomes actionable only when the same
@@ -324,7 +325,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.5.0 installation;
+- exact BibReview v1.5.1 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
