@@ -19,7 +19,7 @@ arxiv:
   max_results: 25
   sort_by: lastUpdatedDate
   sort_order: descending
-  output: docs/data/arxiv.json
+  output: docs/assets/data/arxiv.json
 
 paths:
   bibliography: docs/assets/data/bibliography.json
