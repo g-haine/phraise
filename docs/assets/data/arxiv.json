@@ -1,0 +1,295 @@
+{
+  "generated_at": "2026-09-16T12:37:06Z",
+  "papers": [
+    {
+      "title": "Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems",
+      "summary": "Finite-dimensional Koopman models enable efficient linear prediction and control of nonlinear robotic systems. However, models learned purely from trajectory data may violate the energetic structure of the underlying mechanics, producing predictions that exhibit artificial energy growth and diverge under recursive propagation. This work presents a structure-preserving Koopman framework for Euler-Lagrange systems built on generalized-momentum coordinates. The momentum transformation exposes the mechanical actuation as a known, state-independent port, which is preserved explicitly in the lifted dynamics. A structure-constrained neural architecture is developed to jointly learn the lifting functions and a port-Hamiltonian Koopman generator, rendering the learned dynamics passive by construction rather than through penalty terms or post-hoc projection. A Cayley-midpoint discretization further preserves the corresponding storage-dissipation balance exactly in discrete time. These properties are established analytically by deriving the discrete storage balance and associated stability guarantees of the learned predictor. Simulation and experimental studies demonstrate improved prediction accuracy, data efficiency, and closed-loop tracking over Koopman baselines, with increasing gains for higher-dimensional systems.",
+      "url": "http://arxiv.org/abs/2609.17249v1",
+      "authors": [
+        "Rajpal Singh",
+        "Aditya Singh",
+        "Jishnu Keshavan"
+      ],
+      "updated": "2026-09-15"
+    },
+    {
+      "title": "Well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation",
+      "summary": "We characterize the well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation. This class includes in particular the Euler-Bernoulli beam equations and more generally 1D linear infinite-dimensional port-Hamiltonian systems with boundary control and observation as well as coupled systems. It is known, that for the Timoshenko beam models internal well-posedness implies well-posedness of the overall system. By means of an example we show that this is not true for the Euler-Bernoulli beam models. An easy verifiable equivalent condition for well-posedness of the overall system will be presented. We will conclude the paper by applying the obtained results to several Euler-Bernoulli beam models.",
+      "url": "http://arxiv.org/abs/2501.16862v4",
+      "authors": [
+        "Bouchra Elghazi",
+        "Birgit Jacob",
+        "Hans Zwart"
+      ],
+      "updated": "2026-09-14"
+    },
+    {
+      "title": "Systematic Construction of Time-Dependent Hamiltonians for Microwave-Driven Josephson Circuits",
+      "summary": "Time-dependent electromagnetic drives are fundamental for controlling complex quantum systems, including superconducting Josephson circuits. In these devices, accurate time-dependent Hamiltonian models are imperative for predicting their dynamics and designing high-fidelity quantum operations. Existing numerical methods, such as black-box quantization (BBQ) and energy-participation ratio (EPR), excel at modeling the static Hamiltonians of Josephson circuits. However, these techniques do not fully capture the behavior of driven circuits stimulated by external microwave drives, nor do they include a generalized approach to account for the inevitable noise and dissipation that enter through microwave ports. Here, we introduce numerical techniques that leverage classical microwave simulations, efficiently executable in finite-element solvers, to obtain the time-dependent Hamiltonian of microwave-driven superconducting circuits with arbitrary geometries under charge, flux, or mixed electromagnetic modulation. Importantly, our techniques do not rely on a lumped-element description of the superconducting circuit, in contrast to previous approaches to tackling this problem. We demonstrate the versatility of our approach by characterizing the driven properties of realistic circuit devices in complex electromagnetic environments, including coherent dynamics due to charge and flux modulation, as well as drive-induced relaxation and dephasing. Our techniques offer a powerful toolbox for optimizing circuit designs and advancing practical applications in superconducting quantum computing.",
+      "url": "http://arxiv.org/abs/2512.20743v5",
+      "authors": [
+        "Yao Lu",
+        "Tianpu Zhao",
+        "André Vallières",
+        "Kevin C. Smith",
+        "Daniel Weiss",
+        "Xinyuan You",
+        "Yaxing Zhang",
+        "Suhas Ganjam",
+        "Aniket Maiti",
+        "John W. O. Garmon",
+        "Shantanu Mundhada",
+        "Ziwen Huang",
+        "Ian Mondragon-Shem",
+        "Steven M. Girvin",
+        "Jens Koch",
+        "Robert J. Schoelkopf"
+      ],
+      "updated": "2026-09-14"
+    },
+    {
+      "title": "Port-Transversal Barriers: Graph-Theoretic Safety for Port-Hamiltonian Systems",
+      "summary": "Synthesizing control barrier functions (CBFs) for complex nonlinear systems remains difficult, particularly when safety constraints have high relative degree with respect to the input. In this work, we study the class of composite port-Hamiltonian systems as a network of interconnected subsystems, and this network admits a natural graph structure. We propose a novel graph-theoretic framework for the CBF synthesis problem. The framework addresses the problem of CBF construction for complex nonlinear systems by offering a relative-degree constraint induced by graph distance and a barrier reshaping rule informed by the graph topology. Furthermore, we perform a feasibility analysis of the reshaped barrier under a bounded input constraint and identify the sufficient conditions for feasibility. Lastly, the proposed framework is validated on an LC ladder network, where the CBF feasibility on a capacitor charge constraint depends on where the input enters the network.",
+      "url": "http://arxiv.org/abs/2603.26578v2",
+      "authors": [
+        "Chi Ho Leung",
+        "Philip E. Paré"
+      ],
+      "updated": "2026-09-12"
+    },
+    {
+      "title": "Feedback approaches for set-point stabilization of interacting particle systems",
+      "summary": "We explore the problem of asymptotically stabilizing a class of interacting particle systems to a prescribed particle configuration with zero velocity. The class of interacting particle systems is motivated by the Cucker-Smale model on the mean-field level. Rather than designing a feedback by manually solving an IDA-PBC matching equation, we derive a feedback using an instantaneous rolling horizon control algorithm. We show that this feedback preserves the port-Hamiltonian structure of the interacting particle system and therefore allows for an interpretation in the IDA-PBC framework. Additionally, the energy balance of the closed-loop Hamiltonian provides an important tool to prove convergence of the particles' velocities and interaction forces in discrete and continuous time. If the control operator is surjective, we additionally prove convergence of the particle positions to the prescribed configuration.",
+      "url": "http://arxiv.org/abs/2608.17222v2",
+      "authors": [
+        "Daniel Jannik Happ",
+        "Birgit Jacob",
+        "Claudia Totzeck"
+      ],
+      "updated": "2026-09-11"
+    },
+    {
+      "title": "Structure-Preserving Data-Driven Identification of Port-Hamiltonian Differential-Algebraic Systems",
+      "summary": "We present a data-driven approach to identifying linear index-1 differential-algebraic pH systems (pH-DAEs) based on input-output measurements. In comparison to the identification of port-Hamiltonian (pH) systems, the algebraic constraint and the index condition pose additional challenges. First, we establish a structure-preserving formulation of the considered pH-DAE class and derive an implicit midpoint discretization that preserves the algebraic constraints and discrete dissipation inequality. We formulate the identification problem as a regularized least-squares minimization problem subject to the pH-DAE dynamics. Exploiting the index-1 structure, we reduce the constrained problem to an unconstrained optimization problem over the system parameters while preserving the port-Hamiltonian structure. Next, we derive an adjoint-based formulation to efficiently evaluate the gradient of the resulting reduced cost functional. This enables us to use gradient-based optimization methods for parameter estimation. Under suitable assumptions on the admissible parameter set, the existence of a minimizer is established. Numerical experiments demonstrate that the proposed approach can identify surrogate pH-DAE systems that accurately reproduce the input-output behavior of reference systems. Further investigations show the approach's potential for identifying reduced-order surrogate models. Cross-validation with independent input signals confirms the predictive capability of the identified models.",
+      "url": "http://arxiv.org/abs/2609.07187v1",
+      "authors": [
+        "Tom Zwerschke",
+        "Matthias Ehrhardt",
+        "Michael Günther",
+        "Claudia Totzeck"
+      ],
+      "updated": "2026-09-07"
+    },
+    {
+      "title": "A class of port-Hamiltonian systems with general time delays",
+      "summary": "We define a class of infinite dimensional linear port-Hamiltonian delay systems, give a characterization for such systems, and provide an easily verifiable sufficient condition to belong to this class, thereby extending the study by Breiten, Hinsen and Unger in [IEEE Trans. Autom. Control vol. 69, no. 12 (2024), pp. 8924-8930, doi: 10.1109/TAC.2024.3464332]. The results rely on the operator semigroup theoretic treatment of linear delay PDEs.",
+      "url": "http://arxiv.org/abs/2609.05726v1",
+      "authors": [
+        "Rogelio Arancibia Bustos",
+        "Bálint Farkas",
+        "Birgit Jacob",
+        "Merlin Schmitz"
+      ],
+      "updated": "2026-09-04"
+    },
+    {
+      "title": "A Generalized Scalar Auxiliary Variable Method for Structure-Preserving and Efficient Integration of Nonlinear port-Hamiltonian DAEs",
+      "summary": "We develop an energy-optimal generalized scalar auxiliary variable (EOP-GSAV) framework for nonlinear index-one port-Hamiltonian differential-algebraic equations (pH-DAEs). Exploiting the port-Hamiltonian structure, we separate the nonlinear effort, interconnection, and dissipation terms from a constant implicit core. The resulting BDF-1 and BDF-2 schemes require one linear solve per time step with a reusable factorization, while retaining discrete passivity and accurate tracking of the Hamiltonian. The schemes are compared with the implicit midpoint method equipped with full, modified, and frozen-Jacobian Newton iterations. Numerical experiments ranging from a strongly state-dependent nonlinear stress test to large-scale benchmarks demonstrate robust and competitive performance, with substantial efficiency gains in matched-accuracy regimes. A comparison with SUNDIALS IDA shows comparable work-precision behavior at equal order despite a non-specialized Python/SciPy implementation, while unrestricted variable-order adaptive IDA is faster in the high-accuracy regime.",
+      "url": "http://arxiv.org/abs/2609.05246v1",
+      "authors": [
+        "Aashutosh Sharma",
+        "Andreas Bartel",
+        "Manuel Schaller"
+      ],
+      "updated": "2026-09-04"
+    },
+    {
+      "title": "Energy-Consistent Splitting and Decomposition Approaches for Coupled port-Hamiltonian ODEs",
+      "summary": "Operator splitting provides an attractive approach for the numerical integration of (coupled) port-Hamiltonian systems, as it allows the underlying system structure to be exploited at the level of the individual subproblems. However, the choice of the decomposition is not unique and may strongly affect both the computational efficiency and the preservation of the energy behavior of the original system. In this work, we investigate this interplay systematically and introduce energy consistency as a criterion for assessing splitting methods for port-Hamiltonian ordinary differential equations. We derive sufficient conditions under which a splitting based on a given decomposition inherits the energy behavior of the continuous system and use these conditions to analyze several decomposition strategies for coupled port-Hamiltonian systems. In particular, we compare decompositions that preserve the structure with approaches that exploit lower-dimensional subsystem dynamics or separated time scales. The analysis is complemented by numerical experiments using Strang splitting and its multiple-time-stepping extension. A scalable electro-thermal benchmark with fast electrical and slow thermal dynamics is employed to assess accuracy, energy behavior, and computational efficiency. The results demonstrate that preserving the port-Hamiltonian structure of the subflows is essential for energy-consistent splitting, whereas decompositions that exploit subsystem structure or time-scale separation can provide substantial computational advantages. In particular, the time-scale decomposition yields significant efficiency gains for systems with pronounced multirate characteristics, while structure-destroying decompositions may lead to undesirable energy behavior.",
+      "url": "http://arxiv.org/abs/2609.04884v1",
+      "authors": [
+        "Marius Mönch",
+        "Nicole Marheineke",
+        "Andreas Bartel",
+        "Kevin Schäfers",
+        "Michael Günther"
+      ],
+      "updated": "2026-09-04"
+    },
+    {
+      "title": "Formation Matrix and Energy-based Control of Multi-Agent Systems",
+      "summary": "This paper presents an energy-based controller for a multiagent robotic system designed to achieve and maintain a specific formation while moving on a plane and avoiding collisions between agents. The controller emulates a network of elementary spring-damper modules connecting pairs of agents. This network, with its de-energized states representing the desired formation, determines the system's dynamics, which is fully encapsulated by a bond graph model. The modeling is further enhanced through the introduction of a formation matrix, using a graph-theoretic approach, that describes both the distances and relative velocities among the agents of the arrangement. This matrix mathematically represents the interconnection and energy-exchange structure of the bond graph, allowing us to put it in correspondence with the control-by-interconnection CbI-scheme of the IDA-PBC theory, facilitating the solution of the formation control problem within the port-Hamiltonian system framework. Furthermore, the paper presents leader-following and position-based formation control systems based on the CbI scheme, including a stability analysis of the corresponding closed-loop systems. The theoretical findings are validated through numerical simulations across various scenarios.",
+      "url": "http://arxiv.org/abs/2609.04158v1",
+      "authors": [
+        "Martín Crespo",
+        "Sergio Junco",
+        "Matías Nacusse"
+      ],
+      "updated": "2026-09-03"
+    },
+    {
+      "title": "Constructive Port-Hamiltonian Energy Shaping Design of Dispatchable Virtual Oscillators in Grid-Forming Converters",
+      "summary": "Port-Hamiltonian (PH) theory offers a passivity-based framework for grid-forming control, yet conventional dispatchable virtual oscillator control (dVOC) does not naturally admit a dissipative PH realization, since its amplitude egulation, synchronization, and power dispatch are inherently coupled without a unified energy interpretation. This paper formulates the outer-loop dynamics as a dissipative PH system, thereby unifying amplitude regulation, synchronization, and power dispatch within one energy structure. The formulation rests on the key property that logistic-type radial regulation, characterized by an inherent saturation-like nonlinearity, permits an exact gradient decomposition compatible with the quadratic energy storage. On this basis, a unified shaped Hamiltonian is constructed, which encapsulates both amplitude restoration and power dispatch. Radial gain matching derived from this Hamiltonian yields explicit closed-form arameter inequalities that guarantee almost-global asymptotic stability and local exponential convergence. Moreover, tuning the power-error weighting coefficient actively shapes the energy landscape, thereby eliminating the undesirable low-voltage power-flow solution from the stationary set and ensuring convergence to the desired high-voltage equilibrium point. The Hessian singularity condition further provides the critical weight threshold that guarantees uniqueness of the high-voltage equilibrium. Numerical simulations validate the proposed method.",
+      "url": "http://arxiv.org/abs/2609.01349v1",
+      "authors": [
+        "Lu Gao",
+        "Lihui Yang",
+        "Feng Ji",
+        "Dong Liu",
+        "Longze Kou"
+      ],
+      "updated": "2026-09-01"
+    },
+    {
+      "title": "Interpolation Conditions for Instant Data Consistency with Port-Hamiltonian Structure",
+      "summary": "We develop a data-driven framework for nonlinear port-Hamiltonian (pH) systems based on interpolation conditions to characterize consistency between observed data and structured dynamical models. Specifically, we derive necessary and sufficient conditions for the existence of a pH system with a smooth (convex) Hamiltonian instantly consistent with a given dataset, without requiring explicit parametrization. We further provide a semidefinite programming formulation to verify consistency with non-degenerate interconnection and dissipation structures. Our results provide a principled approach to assess instant data consistency with physical structure and pave the way for control design directly from data.",
+      "url": "http://arxiv.org/abs/2608.31092v1",
+      "authors": [
+        "Martina Vanelli",
+        "Nima Monshizadeh",
+        "Julien M. Hendrickx"
+      ],
+      "updated": "2026-08-31"
+    },
+    {
+      "title": "Model reduction of port-Hamiltonian systems via neural networks",
+      "summary": "In this paper, we consider structure-preserving model reduction of port-Hamiltonian (pH) systems which extend classical Hamiltonian systems with dissipation and an input-output port. These pH systems are often used in multi-physics systems, as the interconnection of one or more \\pH systems results again in a pH system. If particularly the system matrices associated with the interconnection and/or dissipation of a pH system are state-dependent, then the evaluation of standard reduced-order models (ROMs) may depend on the dimension of the original full-order model, resulting in high computational costs. To circumvent these high costs, we propose to use structure-preserving neural networks. In particular, we perform two steps: (1) we use the generalized manifold Galerkin projection to project the pH system onto the reduced space; then (2) we train a neural network to learn the map from the reduced-order state to the reduced-order interconnection and dissipation system matrices. To ensure that the resulting ROM is again a pH system, the architecture of the neural network is chosen such that the skew-symmetry and positive semi-definiteness of the reduced-order systems matrices are maintained. In a numerical example, we consider a nonlinear mass-spring-damper system with state-dependent system matrices. The numerical results show that the proposed method achieves a significant computational speed-up compared to the original \\ROM with comparable accuracy.",
+      "url": "http://arxiv.org/abs/2608.30788v1",
+      "authors": [
+        "Silke Glas",
+        "Alexander Heinlein",
+        "Harald Monsuur",
+        "Hongliang Mu"
+      ],
+      "updated": "2026-08-31"
+    },
+    {
+      "title": "Interconnection of port-Hamiltonian systems is not dynamical",
+      "summary": "The interconnection of port-Hamiltonian systems is usually understood as structure-preserving due to the geometric fact that the composition of the underlying Dirac structures produces again a Dirac structure. Pointwise, this is doubtless true, but when comparing dynamical systems, their trajectories are usually compared, and trajectories usually obey some regularity assumptions. It is shown that both classical and weak solutions do not necessarily exhibit a one-to-one correspondence between solutions of the interconnected port-Hamiltonian system, and the dynamical system realising the interconnection. In the mostly studied cases of constant Dirac structures or port-Hamiltonian ODE systems, both systems are behaviourally equivalent; for non-constant Dirac structures, a sufficient condition is given.",
+      "url": "http://arxiv.org/abs/2608.29731v1",
+      "authors": [
+        "Jonas Kirchhoff"
+      ],
+      "updated": "2026-08-30"
+    },
+    {
+      "title": "From Rigid to Adiabatic: Canonical Regularization of AC Networks via Action-Angle Variables",
+      "summary": "Traditional power system analysis relies on timescale separation and the rigid-network assumption, freezing electromagnetic transients into algebraic power-flow equations via Steinmetz's phasor theory. As grid-forming converter penetration increases, magnetic energy dynamics on transmission lines interact with converter control loops on comparable timescales, challenging this rigid-network assumption. Returning to Faraday's law of electromagnetic induction driven by rotating magnetic fields, this paper models the transmission lines' rotating magnetic fields in action-angle canonical coordinates, regularizes the rigid algebraic constraints of power-flow equations into canonical equations on adiabatic symplectic manifolds, and establishes a port-Hamiltonian standard form for AC power grids. Based on the minimal-counterexample principle and using the equal-area criterion's classical two-machine system, this paper reveals a latitudinal instability channel via Bloch-sphere coordinates: Q-V control releases voltage-amplitude freedom, shifting the stability boundary from the equatorial UEP (unstable equilibrium point) to a saddle point, thereby unifying the analytical frameworks of P-delta angle stability and Q-V voltage stability in power system analysis.",
+      "url": "http://arxiv.org/abs/2608.29129v1",
+      "authors": [
+        "Feng Ji",
+        "Lu Gao",
+        "Lihui Yang"
+      ],
+      "updated": "2026-08-29"
+    },
+    {
+      "title": "Nonlinear port-Hamiltonian system identification from input-state-output data (ISO-pHNN)",
+      "summary": "In this paper, we introduce a framework called ISO-pHNN for identifying nonlinear port-Hamiltonian systems using input-state-output data. The framework utilizes neural networks' universal approximation capacity to effectively represent complex dynamics in a structured way. We explore different architectures based on MLPs, KANs, and using prior information. The identification technique is validated through examples featuring nonlinearities in either the skew-symmetric terms, the dissipative terms, or the Hamiltonian. We show that incorporating a port-Hamiltonian structure does not lower the accuracy and that using additional prior information improves long-term predictions.",
+      "url": "http://arxiv.org/abs/2501.06118v3",
+      "authors": [
+        "Karim Cherifi",
+        "Achraf El Messaoudi",
+        "Hannes Gernandt",
+        "Marco Roschkowski"
+      ],
+      "updated": "2026-08-20"
+    },
+    {
+      "title": "Optimization-based control by interconnection of nonlinear port-Hamiltonian systems",
+      "summary": "In this paper, we develop a control-by-interconnection approach for the stabilization of nonlinear port-Hamiltonian systems. Motivated by model predictive control, the controller is realized as a continuous-time primal-dual gradient flow associated with a finite-horizon, control-constrained optimal control problem. By exploiting its port-Hamiltonian structure, the optimization dynamics are interconnected with the nonlinear plant. Introducing a time-scale parameter for the optimization dynamics reveals a singularly perturbed closed-loop system, whose reduced dynamics correspond to the optimal finite-horizon feedback, while the boundary-layer dynamics capture convergence of the primal-dual variables to the optimality system. Using a composite Lyapunov function and singular-perturbation arguments, we prove asymptotic stability of the coupled plant-controller dynamics, which is local for sufficiently fast optimization dynamics and becomes global under additional assumptions. Numerical experiments for a nonlinear port-Hamiltonian oscillator illustrate the results.",
+      "url": "http://arxiv.org/abs/2602.06670v3",
+      "authors": [
+        "Till Preuster",
+        "Hannes Gernandt",
+        "Manuel Schaller"
+      ],
+      "updated": "2026-08-17"
+    },
+    {
+      "title": "Matched Disturbance Rejection for Port-Hamiltonian Systems with Coupled Dynamics",
+      "summary": "This paper investigates the rejection of matched disturbances generated by coupled port-Hamiltonian (PH) dynamics in previously stabilized PH systems. The disturbance dynamics are incorporated into a unified PH representation, allowing the disturbance to affect the plant through both the matched input channel and an interconnection structure. Unlike existing results that typically impose restrictive structures on the disturbance dynamics, the proposed framework accommodates a more general class of coupled PH disturbances, including nonzero interconnection and damping terms. A baseline disturbance rejection scheme is first established for known disturbance storage parameters. The framework is then extended to the case of an unknown symmetric storage matrix through online parameter estimation. Two control designs are developed under different structural conditions, with the latter relaxing the dimensional restriction imposed by the first design. The proposed methods guarantee asymptotic convergence of the plant state to the desired equilibrium, while preserving a port-Hamiltonian representation of the closed-loop dynamics under the corresponding conditions. The results generalize existing disturbance rejection approaches and broaden their applicability to coupled PH disturbance models.",
+      "url": "http://arxiv.org/abs/2608.11490v1",
+      "authors": [
+        "M. Reza J. Harandi"
+      ],
+      "updated": "2026-08-11"
+    },
+    {
+      "title": "Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity",
+      "summary": "We introduce Quantum Port-Hamiltonian Neural Networks (Q-pHNNs), parameterised quantum circuits that learn classical dynamics in a structure-preserving manner. The framework rests on the Isomorphic Hamiltonian Mapping (IHM): the skew-symmetric interconnection matrix $\\mathbf{J}$ corresponds to unitary gate evolution, and the positive-semidefinite dissipation matrix $\\mathbf{R}$ to Measurement-Induced NonLinearity (MINL), realised by mid-circuit measurement with classical feedforward. Conservation and passivity are then enforced by construction rather than by penalty terms, and dissipation becomes an intrinsically quantum effect: energy leaves through the act of measurement. We instantiate the IHM in three architectures: a Quantum HNN that extracts Hamilton's equations via the Parameter-Shift Rule; a Q-pHNN that dissipates through MINL; and a topology-entangled Quantum Graph Neural Network lifting both channels to $N$-node coupled-phasor networks. In simulation, where every model here was trained, we obtain $1.35\\%$ relative energy drift under a symplectic integrator, $100\\%$ energy monotonicity for the single-oscillator MINL circuit, and $92$--$98\\%$ phase-space energy decay across ring, star and chain networks at $N\\in\\{3,6,9\\}$. On an IBM Heron processor the trained energy surface and its parameter-shift gradients reproduce their simulated values, with an error budget dominated by readout rather than gate infidelity; the dissipative channel executes natively, but its decay is not separable from measurement back-action at these depths.",
+      "url": "http://arxiv.org/abs/2607.12269v3",
+      "authors": [
+        "Dibakar Sigdel"
+      ],
+      "updated": "2026-08-11"
+    },
+    {
+      "title": "A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface EEG",
+      "summary": "We present a physics-inspired classical digital twin of brain-computer- interface (BCI) data: a graph neural network constrained to a band-stratified, metriplectic port-Hamiltonian form, with parameters learned from scalp EEG recorded during rest and motor imagery. The port-Hamiltonian structure is a modelling choice - it buys passivity, a certified steady-state power balance, and a clean separation of storage, routing and dissipation - not a claim about what the brain is. The state pairs each channel's instantaneous phase with its angular frequency, and stored energy decomposes over the five canonical frequency bands. A phase-locking prior measured from the same recordings gates the learned connectome, and a metriplectic formulation places the twin at a non- equilibrium steady state sustained by a metabolic port. Fitted to $1{,}109{,}250$ phasor samples from the PhysioNet EEG Motor Movement/Imagery database under a leakage-free split, the twin reaches a held-out reconstruction error of $1.30\\times10^{-4}$. Scored free-running against invariants it did not author, the verdict is mixed: it reproduces near-critical avalanche branching ($σ\\approx1$) but not the aperiodic $1/f$ slope or the long-range temporal correlations of the recordings. Skew-symmetry and non-negative dissipation hold by construction rather than by penalty, making the twin a structure-preserving substrate on which closed-loop neuromodulation can be designed and tested.",
+      "url": "http://arxiv.org/abs/2607.10439v4",
+      "authors": [
+        "Dibakar Sigdel"
+      ],
+      "updated": "2026-08-10"
+    },
+    {
+      "title": "Port-Hamiltonian modelling of coupled rigid/flexible multibody systems",
+      "summary": "We develop a port-Hamiltonian framework for coupled rigid/flexible multibody systems. The rigid dynamics may be nonlinear and subject to configuration and velocity constraints, while the flexible components are described by linear port-Hamiltonian partial differential equations on one-dimensional spatial domains. The subsystems interact through boundary or distributed ports.\n  On the flexible side, the differential operator and its domain remain fixed, whereas state dependence enters only through finite-dimensional coupling components of the Dirac structure. We show that, under a natural surjectivity condition, the port-Hamiltonian interconnection with a modulated Dirac structure of a finite-dimensional rigid subsystem again yields a modulated Dirac structure. The Hamiltonians of the subsystems add, while the internal coupling powers cancel. The framework is illustrated by a planar moving Euler--Bernoulli beam and a slider--crank mechanism with a flexible connecting member.",
+      "url": "http://arxiv.org/abs/2608.05143v1",
+      "authors": [
+        "Thomas Berger",
+        "René Hochdahl",
+        "Timo Reis",
+        "Robert Seifried"
+      ],
+      "updated": "2026-08-05"
+    },
+    {
+      "title": "Structure-Preserving Generalized Manifold Galerkin Reduction for Port-Hamiltonian Systems",
+      "summary": "This paper considers structure-preserving model order reduction (MOR) techniques for port-Hamiltonian (pH) systems, which are typically derived from energy-based modeling. To keep favorable properties of \\pH systems such as passivity in a reduced order model (ROM), we use structure-preserving methods in the reduction process. Although projection-based structure-preserving MOR methods for nonlinear pH systems based on nonlinear approximation ansatzes have recently been proposed, existing approaches typically rely on specific structures of the approximation map and the underlying pH system. To address this limitation, we propose a \\MOR framework based on generalized manifold Galerkin (GMG) reduction. The resulting framework can employ general nonlinear approximation maps while preserving the pH structure. We establish sufficient conditions for structure preservation, show that the associated non-degeneracy conditions are generically satisfied. We further present linear and quadratic approximation maps within the proposed framework. Numerical examples for a linear and a nonlinear mass-spring-damper system show that the proposed \\MOR methods have lower relative reduction error compared to existing methods.",
+      "url": "http://arxiv.org/abs/2603.08656v2",
+      "authors": [
+        "Silke Glas",
+        "Hongliang Mu"
+      ],
+      "updated": "2026-08-01"
+    },
+    {
+      "title": "Strong imposition of Dirichlet boundary velocities in structure-preserving discretizations of elastodynamics",
+      "summary": "The imposition of boundary velocities in finite element models of port-Hamiltonian elastodynamics typically relies on Lagrange multipliers, yielding Differential-Algebraic Equations (DAEs). Alternatively, weak imposition methods that maintain an Ordinary Differential Equation (ODE) structure often exhibit poor accuracy at Dirichlet boundaries. To address these limitations, this paper introduces an additive kinematic decomposition at the continuous level, splitting the displacement and velocity fields into a relative dynamic component that vanishes on the boundary and a prescribed lifting function extending into the interior domain. This decomposition induces a distributed port that maps the effects of the boundary actuation inside the domain. By incorporating this mapping into suitable virtual power principles, we derive lifted port-Hamiltonian system (PHS) models that, upon finite element discretization, reduce to ODE systems in which Dirichlet boundary velocities are strongly imposed. The framework is applied to derive 2-field and 4-field formulations suited to distinct PHS geometric representations. Furthermore, we show that under specific shape functions, standard FEM schemes are recovered, demonstrating that the lifting framework in the discrete models is equivalent to the classic algebraic matrix partitioning in computational mechanics practice. The energy-balance properties and computational performance of the proposed methodology are verified through numerical simulations.",
+      "url": "http://arxiv.org/abs/2607.26248v1",
+      "authors": [
+        "Cristobal Ponce",
+        "Hector Ramirez",
+        "Yongxin Wu",
+        "Ning Liu",
+        "Yann Le Gorrec"
+      ],
+      "updated": "2026-07-28"
+    },
+    {
+      "title": "High-resolution decomposition of canonical Hamiltonian systems",
+      "summary": "We identify the topological and dynamical conditions for a Hamiltonian system to possess port-Hamiltonian reformulations with increasing resolution of structural detail that remains hidden in the Hamiltonian theory. We find that the principally attainable resolution grows exponentially with the number of factor manifolds into which the configuration space of a canonical Hamiltonian system decomposes and is tempered only by degeneracies of the original Hamiltonian.",
+      "url": "http://arxiv.org/abs/2607.20740v1",
+      "authors": [
+        "Kaja Krhac",
+        "Frederic P. Schuller"
+      ],
+      "updated": "2026-07-22"
+    },
+    {
+      "title": "Mixed finite element discretization of intrinsic geometrically exact beams for explicit multibody dynamics",
+      "summary": "The Reissner-Simo and Hodges models are two equivalent continuous descriptions of finite-strain beam dynamics. The Reissner-Simo formulation uses displacements and rotations, while the Hodges formulation is intrinsic and avoids both variables. Although equivalent in theory, the two approaches behave differently after discretization and offer distinct numerical advantages. In this work, we develop a structure-preserving discretization of the intrinsic formulation. Because the intrinsic equations involve linear differential operators, both kinematic and dynamic boundary conditions can be imposed naturally using mixed finite elements. The resulting formulation also enables multibody systems to be assembled without algebraic constraints, avoiding the stiff differential-algebraic equations typically introduced by kinematic constraints. We demonstrate the approach on different examples, also showing that closed kinematic loops can be modeled without algebraic constraints. The resulting interconnected systems retain a port-Hamiltonian structure,with all nonlinearities confined to the interconnection operator. This structure allows exact energy preservation when combined with implicit midpoint time integration. Furthermore the scheme appear to require less Newton iterations compared to existing energy preserving scheme.",
+      "url": "http://arxiv.org/abs/2607.20245v1",
+      "authors": [
+        "Andrea Brugnoli",
+        "Philipp L. Kinon",
+        "Francesco Sanfedino",
+        "Peter Betsch",
+        "Olivier A. Bauchau"
+      ],
+      "updated": "2026-07-22"
+    }
+  ]
+}
