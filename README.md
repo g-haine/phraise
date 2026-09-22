@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.4.2** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.4.3** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -120,7 +120,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.4.2**.
+The Conda environment contains Python 3.12 and **BibReview v1.4.3**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -141,13 +141,13 @@ from `.env`.
 
 ## Auditing the historical bibliography
 
-BibReview v1.4.2 can compare the existing canonical bibliography with current
+BibReview v1.4.3 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata.
 Network lookups are batched where the provider supports exact multi-DOI
-requests: OpenAlex and Semantic Scholar are batched, while CrossRef remains
-individual. This changes transport efficiency only; audit comparison and review
-semantics are unchanged. Existing campaign-schema-1 checkpoints are read transparently and
+requests: CrossRef uses bounded groups of 25 DOI values, OpenAlex up to 100,
+and Semantic Scholar up to 500. This changes transport efficiency only; audit
+comparison and review semantics are unchanged. Existing campaign-schema-1 checkpoints are read transparently and
 rewritten as campaign schema 2 on the next audit-state update; audit progress and
 the report are preserved.
 
@@ -164,7 +164,7 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.4.2 provides a derived read-only review that applies the current
+BibReview v1.4.3 provides a derived read-only review that applies the current
 normalization and corroboration rules without network access or file changes:
 
 ```bash
@@ -306,7 +306,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.4.2 installation;
+- exact BibReview v1.4.3 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
