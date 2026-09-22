@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.4.4** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.5.0** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -120,7 +120,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.4.4**.
+The Conda environment contains Python 3.12 and **BibReview v1.5.0**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -141,7 +141,7 @@ from `.env`.
 
 ## Auditing the historical bibliography
 
-BibReview v1.4.4 can compare the existing canonical bibliography with current
+BibReview v1.5.0 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata.
 Network lookups are batched where the provider supports exact multi-DOI
@@ -164,7 +164,7 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.4.4 provides a derived read-only review that applies the current
+BibReview v1.5.0 provides a derived read-only review that applies the current
 normalization and corroboration rules without network access or file changes.
 The default review is intentionally concise:
 
@@ -178,6 +178,16 @@ findings are needed:
 ```bash
 bibreview -v audit --review
 ```
+
+Once the campaign is complete, resolve actionable findings interactively without
+changing the canonical bibliography:
+
+```bash
+bibreview audit --resolve
+```
+
+Decisions are resumable and stored separately from canonical/staging data until
+a later explicit promotion step.
 
 A provider-only alternative remains informational by default. A missing or
 substantively different canonical value becomes actionable only when the same
@@ -314,7 +324,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.4.4 installation;
+- exact BibReview v1.5.0 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
