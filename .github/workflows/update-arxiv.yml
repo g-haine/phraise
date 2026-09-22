@@ -60,7 +60,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if git diff --quiet -- docs/data/arxiv.json; then
+          if git diff --quiet -- docs/assets/data/arxiv.json; then
             echo "No arXiv cache changes."
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
@@ -71,7 +71,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git switch -C "$branch"
-          git add docs/data/arxiv.json
+          git add docs/assets/data/arxiv.json
           git commit -m "Update arXiv cache"
           git push --force origin "HEAD:refs/heads/$branch"
 
@@ -92,7 +92,7 @@ jobs:
               --base main \
               --head "$branch" \
               --title "Update arXiv cache" \
-              --body "Automated BibReview arXiv cache refresh. This PR is merged automatically only after the PHRAISE integration workflow succeeds and the diff is verified to contain only docs/data/arxiv.json."
+              --body "Automated BibReview arXiv cache refresh. This PR is merged automatically only after the PHRAISE integration workflow succeeds and the diff is verified to contain only docs/assets/data/arxiv.json."
             number="$(gh pr list \
               --base main \
               --head "$branch" \
@@ -113,7 +113,7 @@ jobs:
             --json files \
             --jq '.files[].path')"
 
-          if [ "$files" != "docs/data/arxiv.json" ]; then
+          if [ "$files" != "docs/assets/data/arxiv.json" ]; then
             printf 'Automated arXiv PR modifies unexpected files:\n%s\n' "$files" >&2
             exit 1
           fi
