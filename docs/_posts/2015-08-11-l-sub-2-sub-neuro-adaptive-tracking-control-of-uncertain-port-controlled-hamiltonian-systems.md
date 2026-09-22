@@ -28,7 +28,7 @@ This study presents a practical method of neural network (NN) adaptive tracking 
 @article{Qureshi_2015,
   title={{ℒ
                     2
-                    neuro‐adaptive tracking control of uncertain port‐controlled Hamiltonian systems},
+                    neuro‐adaptive tracking control of uncertain port‐controlled Hamiltonian systems}},
   volume={9},
   ISSN={1751-8652},
   DOI={10.1049/iet-cta.2014.1144},
