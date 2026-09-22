@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.4.0** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.4.1** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -120,7 +120,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.4.0**.
+The Conda environment contains Python 3.12 and **BibReview v1.4.1**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -141,7 +141,7 @@ from `.env`.
 
 ## Auditing the historical bibliography
 
-BibReview v1.4.0 can compare the existing canonical bibliography with current
+BibReview v1.4.1 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata. Existing campaign-schema-1 checkpoints are read transparently and
 rewritten as campaign schema 2 on the next audit-state update; audit progress and
@@ -160,12 +160,19 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.4.0 provides a derived read-only review that applies the current
-normalization rules without network access or file changes:
+BibReview v1.4.1 provides a derived read-only review that applies the current
+normalization and corroboration rules without network access or file changes:
 
 ```bash
 bibreview audit --review
 ```
+
+A provider-only alternative remains informational by default. A missing or
+substantively different canonical value becomes actionable only when the same
+alternative is corroborated by at least two independent providers after
+review-equivalent representations are grouped. One-day `created_date` offsets,
+obvious provider truncations of a fuller canonical abstract, role disagreements,
+and isolated contributor anomalies remain informational evidence.
 
 When audit comparison rules improve, preview an offline reclassification of the
 already-collected evidence:
@@ -295,7 +302,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.4.0 installation;
+- exact BibReview v1.4.1 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
