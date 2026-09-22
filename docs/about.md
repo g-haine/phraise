@@ -4,49 +4,66 @@ title: About
 permalink: /about/
 ---
 
-This site is a **bibliographic survey** dedicated to research on **port-Hamiltonian systems**. The goal is to provide a **collection of papers** to help researchers stay informed about the latest advancements, identify potential research gaps, and foster collaborations.
+This site is a **bibliographic survey** dedicated to research on **port-Hamiltonian systems**. Its goal is to provide a curated collection of publications that helps researchers follow developments in the field, identify potential research gaps, and discover related work.
 
-The site is **updated at regular intervals** to reflect newly published works.
+The canonical bibliography is updated through reviewed maintenance cycles. A separate **arXiv cache** is refreshed automatically on a schedule so that recent preprints can be displayed without becoming part of the canonical bibliography.
 
 ## **Powered by BibReview**
-PHRAISE is powered by [**BibReview**](https://github.com/g-haine/bibreview), an open-source bibliographic engine for reproducible literature-review websites. BibReview manages the generic bibliographic workflow, canonical metadata, contributor identities, provider integration, and deterministic generation of the publication, author, and year pages. PHRAISE remains responsible for the **port-Hamiltonian scope**, scientific curation, project configuration, and Jekyll presentation.
+
+PHRAISE is powered by [**BibReview**](https://github.com/g-haine/bibreview), an open-source, human-reviewed bibliographic engine for reproducible literature-review websites. BibReview manages the generic bibliographic workflow, provider integration, canonical metadata, contributor identities, audit/review tools, and deterministic generation of publication, author, and year pages. PHRAISE remains responsible for the **port-Hamiltonian scope**, scientific curation, project configuration, and Jekyll presentation.
 
 ## **How to Contribute?**
-Contributions are welcome in the form of **DOI submissions**. You can:
-- Submit a **pull request** with new DOIs in the `newDOI.txt` file on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
-- Send [**an email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) with a list of new DOIs.
 
-Canonical bibliography contributions are not merged automatically because provider metadata and ambiguous identities remain human-reviewed. Repository updates are reviewed through pull requests before they reach the production `main` branch and the published Jekyll site.
+Contributions are welcome in the form of **DOI submissions**. You can:
+
+- Submit a **pull request** adding new DOI values to `docs/newDOI.txt` on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
+- Send [**an email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) with a list of new DOI values or a metadata correction.
+
+Canonical bibliography changes are not merged automatically. Provider metadata, relevance decisions, and ambiguous contributor identities remain reviewable, and repository changes reach the production `main` branch through pull requests.
 
 ## **Scope & Methodology**
 
 ### **Why DOIs?**
-Maintaining a large database manually is challenging. To ensure a sustainable and (almost) automated process, we **restrict** this survey to **published works with a DOI**. This guarantees easy updates and avoids manually managing metadata.
+
+At present, the canonical PHRAISE bibliography is deliberately restricted to **published works with a DOI**. A DOI provides a stable identity key and makes provider-based collection, reconciliation, and reproducible updates practical. Provider metadata is nevertheless treated as evidence rather than unquestionable truth and may be corrected after review.
 
 The PHRAISE project configuration is publicly available on the [**GitHub repository**](https://github.com/g-haine/phraise), while the generic bibliographic engine is maintained separately in the [**BibReview repository**](https://github.com/g-haine/bibreview).
 
 ### **Data Sources**
-The metadata is retrieved using a hierarchical approach using the following APIs:  
-1. [**CrossRef**](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) & [**DOI Foundation**](https://www.doi.org/doi-handbook/HTML/doi-rest-api.html): primary sources, ensuring completeness of minimal metadata;  
-2. [**Scopus**](https://dev.elsevier.com/documentation/SCOPUSSearchAPI.wadl): for abstracts and keywords, when available via Elsevier;  
-3. [**Springer Meta API**](https://dev.springernature.com/docs/api-endpoints/meta-api/): for abstracts and keywords from Springer;  
-4. [**IEEE Xplore API**](https://developer.ieee.org/docs): for abstracts and keywords from IEEE;  
-5. [**Mendeley**](https://api.mendeley.com/apidocs/openapi) & [**Semantic Scholar**](https://www.semanticscholar.org/product/api): as fallback sources for missing abstracts.
 
-Currently, **only metadata and abstracts** are collected: **full texts are not included**.
+PHRAISE uses several external services for different purposes rather than relying on a single strict provider hierarchy:
 
-The canonical database is [available for download]({{ site.baseurl }}/assets/data/bibliography.json) (a JSON file).
+1. [**OpenAlex**](https://docs.openalex.org/how-to-use-the-api/api-overview) is used to discover DOI-backed candidate publications. It also provides independent comparison evidence during bibliography audits.
+2. [**CrossRef**](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) is the core metadata source for DOI-backed collection and also contributes independent audit evidence.
+3. Publisher APIs from [**Elsevier / Scopus**](https://dev.elsevier.com/), [**Springer Nature**](https://dev.springernature.com/) and [**IEEE Xplore**](https://developer.ieee.org/) can enrich records with information such as abstracts, keywords, or event metadata when available.
+4. [**Semantic Scholar**](https://www.semanticscholar.org/product/api) and [**Mendeley**](https://dev.mendeley.com/) can provide fallback enrichment when configured. Semantic Scholar also contributes independent evidence to the audit workflow.
+5. DOI content negotiation is used for citation and BibTeX retrieval when available.
+
+Provider output is never assumed to be infallible. BibReview keeps canonical data, staging, BibTeX, and audit evidence inspectable so that corrections can be reviewed before publication.
+
+PHRAISE stores bibliographic metadata, abstracts, keywords and related citation information when available; **full texts are not collected**.
+
+The canonical database is [available for download]({{ site.baseurl }}/assets/data/bibliography.json) as JSON.
 
 ### **arXiv**
-To stay as up to date as possible, we use the [arXiv API](https://info.arxiv.org/help/api/user-manual.html) to retrieve the latest preprints related to port-Hamiltonian systems.
 
-However, since these preprints have not been peer-reviewed or officially published, they do not have DOIs registered in **CrossRef**. For this reason, **arXiv** entries are displayed on a separate page. These entries are dynamically fetched and are not part of the **PHRAISE** internal database. As a result, they are not included in the [search tool]({{ site.baseurl }}/search/).
+The [arXiv API](https://info.arxiv.org/help/api/user-manual.html) is used by BibReview's optional arXiv module to maintain a small display-only cache of recent preprints related to port-Hamiltonian systems.
 
-### **Handling Author's names**
-The [Author pages]({{ site.baseurl }}/authors/) need a management to take care of the different ways an author can appear in a publication. We use the [OpenAlex API](https://docs.openalex.org/how-to-use-the-api/api-overview) to minimize the task. Nevertheless, this can be a source of errors, so please do not hesitate to [suggest corrections](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D). You may want to take a look at [the array managing name variations]({{ site.baseurl }}/assets/data/author_mappings.json) (a JSON file).
+The browser does **not** query arXiv dynamically. A scheduled GitHub Actions workflow refreshes the cache, opens or updates a dedicated pull request when the cache changes, validates that change through the PHRAISE integration workflow, and only then merges it. The published arXiv page therefore reads a static JSON cache from [`assets/data/arxiv.json`]({{ site.baseurl }}/assets/data/arxiv.json).
+
+arXiv entries remain separate from the canonical DOI bibliography. They are not converted automatically into canonical publications, do not change the canonical bibliography update date, and are not included in the [search tool]({{ site.baseurl }}/search/).
+
+### **Handling Authors' Names**
+
+The [Author pages]({{ site.baseurl }}/authors/) need reviewed mappings because the same person can appear under several source-visible name variants.
+
+BibReview compares canonical author names with the reviewed mapping file and can apply only **safe, unambiguous proposals** automatically. Possible identity collisions remain under manual review rather than being guessed. You can inspect the [author-name mapping]({{ site.baseurl }}/assets/data/author_mappings.json) and [suggest corrections](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) when needed.
 
 ### **Curation Process**
-No additional **peer review** is conducted; the survey relies on **CrossRef's metadata**, assuming that all indexed works have already undergone editorial scrutiny.
+
+PHRAISE does not perform an additional scientific peer review of the works it lists. Inclusion means that a work matches the bibliographic scope of the survey; it is not an endorsement of its results.
+
+Bibliographic metadata is curated separately from scientific content. New records pass through explicit staging and merge steps, ambiguous author identities remain human-reviewed, and historical metadata can be audited against independent evidence from CrossRef, OpenAlex, and Semantic Scholar before reviewed corrections are promoted to the canonical database.
 
 ## **Useful Links**
 
@@ -65,6 +82,7 @@ No additional **peer review** is conducted; the survey relies on **CrossRef's me
 - [**PyPHS**](https://pyphs.github.io/pyphs/): A Python software (Py) dedicated to the simulation of multi-physical Port-Hamiltonian Systems (PHS) described by graph structures.
 
 ## **GDPR Policy**
+
 Cookies are small text files stored by your web browser when visiting websites. We have chosen not to use any cookies or tracking technologies on this website.
 
 However, to better understand how the site is used and to improve its content, we collect anonymous traffic statistics using [GoatCounter](https://www.goatcounter.com/), a privacy-friendly analytics tool that does not use cookies.
