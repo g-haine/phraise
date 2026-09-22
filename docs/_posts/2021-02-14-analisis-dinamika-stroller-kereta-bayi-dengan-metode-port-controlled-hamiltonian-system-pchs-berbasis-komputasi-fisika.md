@@ -2,7 +2,7 @@
 title: "Analisis Dinamika Stroller (Kereta Bayi) dengan Metode Port-Controlled Hamiltonian System (PCHS) berbasis Komputasi Fisika"
 date: 2021-02-14 00:00:00 +0100
 permalink: analisis-dinamika-stroller-kereta-bayi-dengan-metode-port-controlled-hamiltonian-system-pchs-berbasis-komputasi-fisika
-year: 2021
+year: 2020
 authors: Melly Ariska, Hamdi Akhsan, Muhammad Muslim
 category: articles
 ---
@@ -15,7 +15,7 @@ Computational physics can be used to help solve complex dynamics equations, both
  
 ## Citation
 - **Journal:** JIPFRI (Jurnal Inovasi Pendidikan Fisika dan Riset Ilmiah)
-- **Year:** 2021
+- **Year:** 2020
 - **Volume:** 4
 - **Issue:** 2
 - **Pages:** 77--84

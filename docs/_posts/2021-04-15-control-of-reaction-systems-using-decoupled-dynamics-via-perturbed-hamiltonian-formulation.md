@@ -41,7 +41,7 @@ Tracking-error-based control; extent of reaction; disturbance compensation
   number={2},
   journal={IFAC-PapersOnLine},
   publisher={Elsevier BV},
-  author={Thanh Sang, Nguyen and Chee Keong, Tan and Ngoc Ha, Hoang and Hussain, Mohd Azlan},
+  author={Nguyen Thanh Sang and Tan Chee Keong and Hoang Ngoc Ha and Hussain Mohd Azlan},
   year={2020},
   pages={11527--11532}
 }

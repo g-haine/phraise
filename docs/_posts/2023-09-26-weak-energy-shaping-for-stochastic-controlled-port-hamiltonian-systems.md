@@ -11,7 +11,7 @@ category: articles
 [Francesco Cordoni](authors/francesco-giuseppe-cordoni), [Luca Di Persio](authors/luca-di-persio), [Riccardo Muradore](authors/riccardo-muradore)
  
 ## Abstract
-
+The present work addresses the problem of energy shaping for stochastic port-Hamiltonian systems. Energy shaping is a powerful technique that allows one to systematically find feedback laws to shape the Hamiltonian of a controlled system so that, under a general passivity condition, it converges to a desired configuration. Energy shaping has been recently generalized to consider stochastic port-Hamiltonian systems. Nonetheless, the resulting theory presents several limitations so that relevant examples, such as the additive noise case, are immediately ruled out from the possible use of energy shaping. In the current paper we continue the investigation of the properties of a weak notion of passivity for a stochastic system and derive a weak notion of convergence for the controlled system. Such weak notion of passivity is strictly related to the existence and uniqueness of an invariant measure for the system so that the theory developed has a purely probabilistic flavor. We will show how all the relevant results of energy shaping can be recover under the proposed weak setting.
  
 ## Citation
 - **Journal:** SIAM Journal on Control and Optimization

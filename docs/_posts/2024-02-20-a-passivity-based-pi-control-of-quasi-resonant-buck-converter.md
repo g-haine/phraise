@@ -2,7 +2,7 @@
 title: "A Passivity-Based PI Control of Quasi-Resonant Buck Converter"
 date: 2024-02-20 00:00:00 +0100
 permalink: a-passivity-based-pi-control-of-quasi-resonant-buck-converter
-year: 2024
+year: 2023
 authors: Agustín Sánchez-Contreras, Oscar Rodríguez Benítez, Isaac Ortega-Velázquez, Gerardo Espinosa-Pérez
 category: articles
 ---
@@ -15,7 +15,7 @@ In order to guarantee the stability of quasi-resonant converters, the zero-curre
  
 ## Citation
 - **Journal:** Memorias del Congreso Nacional de Control Automático
-- **Year:** 2024
+- **Year:** 2023
 - **Volume:** 6
 - **Issue:** 1
 - **Pages:** 639--644

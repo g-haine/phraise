@@ -2,7 +2,7 @@
 title: "Direct discrete-time control of port controlled Hamiltonian systems"
 date: 2022-06-27 00:00:00 +0100
 permalink: direct-discrete-time-control-of-port-controlled-hamiltonian-systems
-year: 2022
+year: 2010
 authors: YAPRAK YALÇIN, LEYLA GÖREN SÜMER
 category: articles
 ---
@@ -15,7 +15,7 @@ The direct discrete time control of Port Controlled Hamiltonian Systems (PCHS) i
  
 ## Citation
 - **Journal:** Turkish Journal of Electrical Engineering and Computer Sciences
-- **Year:** 2022
+- **Year:** 2010
 - **Volume:** 
 - **Issue:** 
 - **Pages:** 

@@ -2,7 +2,7 @@
 title: "Distributed Impedance Model of Ionic Polymer-Metal Composite Actuators"
 date: 2009-03-16 00:00:00 +0100
 permalink: distributed-impedance-model-of-ionic-polymer-metal-composite-actuators
-year: 2009
+year: 2008
 authors: Kentaro Takagi, Kinji Asaka, Gou Nishida, Yoshihiro Nakabo, Zhi Wei Luo
 category: proceedings
 ---
@@ -15,7 +15,7 @@ This paper discusses a distributed system modeling of the electrical impedance o
  
 ## Citation
 - **Journal:** Advances in Science and Technology
-- **Year:** 2009
+- **Year:** 2008
 - **Volume:** 61
 - **Issue:** 
 - **Pages:** 157--162

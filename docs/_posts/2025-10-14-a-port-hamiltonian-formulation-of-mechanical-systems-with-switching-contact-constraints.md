@@ -11,7 +11,7 @@ category: proceedings
 [Thomas O’Brien](authors/thomas-o-brien), [Joel Ferguson](authors/joel-ferguson), [Alejandro Donaire](authors/alejandro-donaire)
  
 ## Abstract
-
+In this paper, a port-Hamiltonian approach to modelling of mechanical systems subject to switching contact constraints is presented. It is well known that a class of constrained systems can be represented as port-Hamiltonian systems without Lagrange multipliers by considering a reduced momentum space. Here, we revisit the modelling of these systems for the purpose of demonstrating that the discrete dynamics associated with switching constraints can be obtained directly through the process of mapping between reduced-order continuous systems. The modelling framework is illustrated by applying it to the compass-like biped robot, and the obtained port-Hamiltonian model is used to derive a passivity-based controller.
  
 ## Citation
 - **Journal:** 2025 European Control Conference (ECC)

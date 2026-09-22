@@ -18,7 +18,7 @@ The self-excited induction generator presents important advantages for isolated 
 - **Year:** 2021
 - **Volume:** 
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 1336--1341
 - **Publisher:** IEEE
 - **DOI:** [10.1109/cdc45484.2021.9682864](https://doi.org/10.1109/cdc45484.2021.9682864)
  
@@ -31,7 +31,8 @@ The self-excited induction generator presents important advantages for isolated 
   booktitle={{2021 60th IEEE Conference on Decision and Control (CDC)}},
   publisher={IEEE},
   author={Esquivel-Sancho, Luis Miguel and Pereira-Arroyo, Roberto and Munoz-Arias, Mauricio},
-  year={2021}
+  year={2021},
+  pages={1336--1341}
 }
 {% endraw %}
 {% endhighlight %}

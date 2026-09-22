@@ -2,7 +2,7 @@
 title: "NONLINEAR CONTROL OF TEMPERATURE PROFILE OF UNSTABLE HEAT CONDUCTION SYSTEMS: A PORT HAMILTONIAN APPROACH"
 date: 2020-03-27 00:00:00 +0100
 permalink: nonlinear-control-of-temperature-profile-of-unstable-heat-conduction-systems-a-port-hamiltonian-approach
-year: 2020
+year: 2016
 authors: Tuấn Đình Phan, Ha Ngoc Hoang
 category: articles
 ---
@@ -15,7 +15,7 @@ This paper focuses on boundary control of distributed parameter systems (also ca
  
 ## Citation
 - **Journal:** Journal of Computer Science and Cybernetics
-- **Year:** 2020
+- **Year:** 2016
 - **Volume:** 32
 - **Issue:** 1
 - **Pages:** 61--74

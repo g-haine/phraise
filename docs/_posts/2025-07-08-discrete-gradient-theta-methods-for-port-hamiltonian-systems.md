@@ -1,5 +1,5 @@
 ---
-title: "Discrete Gradient \\\\(  \\\\)\theta \\\\(  \\\\)-Methods for Port-Hamiltonian Systems"
+title: "Discrete Gradient \\\\( \\theta \\\\)-Methods for Port-Hamiltonian Systems"
 date: 2025-07-08 00:00:00 +0100
 permalink: discrete-gradient-theta-methods-for-port-hamiltonian-systems
 year: 2026
@@ -28,7 +28,7 @@ discrete gradient method, geometric numerical integration, port-hamiltonian prob
 {% highlight bibtex %}
 {% raw %}
 @inbook{D_Ambrosio_2025,
-  title={{Discrete Gradient $$\theta $$-Methods for Port-Hamiltonian Systems}},
+  title={{Discrete Gradient $\theta$-Methods for Port-Hamiltonian Systems}},
   ISBN={9783031975899},
   ISSN={1611-3349},
   DOI={10.1007/978-3-031-97589-9_16},

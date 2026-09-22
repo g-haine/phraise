@@ -2,7 +2,7 @@
 title: "Simulation of the Ondes Martenot Ribbon-Controlled Oscillator Using Energy-Balanced Modeling of Nonlinear Time-Varying Electronic Components"
 date: 2020-01-03 00:00:00 +0100
 permalink: simulation-of-the-ondes-martenot-ribbon-controlled-oscillator-using-energy-balanced-modeling-of-nonlinear-time-varying-electronic-components
-year: 2020
+year: 2019
 authors: Judy Najnudel, Thomas Hélie, David Roze
 category: articles
 ---
@@ -15,7 +15,7 @@ HAL is a multi-disciplinary open access archive for the deposit and disseminatio
  
 ## Citation
 - **Journal:** Journal of the Audio Engineering Society
-- **Year:** 2020
+- **Year:** 2019
 - **Volume:** 67
 - **Issue:** 12
 - **Pages:** 961--971

@@ -11,7 +11,7 @@ category: proceedings
 [F. E. Serrano](authors/fernando-e-serrano), [V. Puig](authors/vicenc-puig), [J. Munoz-Pacheco](authors/j-munoz-pacheco)
  
 ## Abstract
-
+This paper proposes an output feedback stabilization approach for 2-D nonlinear port-Hamiltonian distributed parameter system. The 2D Navier-Stokes equations present a chaotic toroidal behavior that occurs in fluid systems. First, the problem formulation consists into establishing the NavierStokes equation into the port-Hamiltonian formulation by implementing the Dirac structure operators. Then, by considering the energy characteristics of the port-Hamiltonian system, an output feedback controller is designed by considering the appropriate Lyapunov functional. A numerical experiment is performed to validate the theoretical results obtained in this research study. Finally, the respective discussions and conclusions of the paper are presented.
  
 ## Citation
 - **Journal:** 2025 International Conference on Control, Automation and Diagnosis (ICCAD)

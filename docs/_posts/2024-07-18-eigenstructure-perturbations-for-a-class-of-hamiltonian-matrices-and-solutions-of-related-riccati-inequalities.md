@@ -11,7 +11,7 @@ category: articles
 [Volker Mehrmann](authors/volker-mehrmann), [Hongguo Xu](authors/hongguo-xu)
  
 ## Abstract
-
+The characterization of the solution set for a class of algebraic Riccati inequalities is studied. This class arises in the passivity analysis of linear time-invariant control systems. Eigenvalue perturbation theory for the Hamiltonian matrix associated with the Riccati inequality is used to analyze the extremal points of the solution set.
  
 ## Citation
 - **Journal:** SIAM Journal on Matrix Analysis and Applications

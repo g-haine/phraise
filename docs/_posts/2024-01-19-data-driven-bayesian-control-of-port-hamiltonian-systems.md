@@ -18,7 +18,7 @@ Port-Hamiltonian theory is an established way to describe nonlinear physical sys
 - **Year:** 2023
 - **Volume:** 
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 8708--8713
 - **Publisher:** IEEE
 - **DOI:** [10.1109/cdc49753.2023.10384219](https://doi.org/10.1109/cdc49753.2023.10384219)
  
@@ -31,7 +31,8 @@ Port-Hamiltonian theory is an established way to describe nonlinear physical sys
   booktitle={{2023 62nd IEEE Conference on Decision and Control (CDC)}},
   publisher={IEEE},
   author={Beckers, Thomas},
-  year={2023}
+  year={2023},
+  pages={8708--8713}
 }
 {% endraw %}
 {% endhighlight %}

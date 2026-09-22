@@ -11,7 +11,7 @@ category: proceedings
 [Jingjing Li](authors/jingjing-li), [Zhen Chen](authors/zhen-chen), [Jian Li](authors/jian-li), [Hongyu Yan](authors/hongyu-yan), [Minshan Feng](authors/minshan-feng), [Jiawen Zhan](authors/jiawen-zhan)
  
 ## Abstract
-
+In upper-limb rehabilitation training aided by robotic systems, patients often develop tremors due to insufficient muscle strength or neurological control disorders, adversely impacting the rehabilitation process. Based on the Port-Hamiltonian Systems (PHS) theoretical framework, this paper proposes a Sliding Mode Control (SMC) strategy to suppress tremors during upper-limb rehabilitation. The approach employs two Lyapunov functions: on one hand, the Hamiltonian (the system’s energy function) ensures overall Lyapunov stability; on the other, an additional Lyapunov function enforces finite-time convergence of the sliding variable, thereby rapidly mitigating tremors and maintaining tracking accuracy. Simulation results indicate that this method not only achieves outstanding stability but also guarantees finite-time convergence of the sliding variable, significantly reducing arm tremors. Consequently, it provides an efficient and viable advanced control solution for upper-limb rehabilitation robots.
  
 ## Citation
 - **Journal:** 2025 Joint International Conference on Automation-Intelligence-Safety (ICAIS) &amp;amp; International Symposium on Autonomous Systems (ISAS)

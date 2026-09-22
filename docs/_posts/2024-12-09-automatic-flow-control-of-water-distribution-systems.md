@@ -11,7 +11,7 @@ category: articles
 [Richard Perryman](authors/richard-perryman), [Joshua A. Taylor](authors/joshua-a-taylor), [Bryan Karney](authors/bryan-karney)
  
 ## Abstract
-
+Even if a water distribution system (WDN) is well designed, it must be safely operated over a wide range of constraints and requirements. Traditionally, rudimentary control strategies have been employed, such as simple level or pressure control, although sophisticated control strategies have developed in other applications. We illustrate here some of the modern control possibilities by designing controllers for two challenging scenarios in a WDN: a pumping system which suddenly loses power, and safely filling an initially empty pipe using a pump. Check valve behaviour is significant in both scenarios. We show that with a minor modification, a commonly used empirical, nonlinear model of a check valve is port-Hamiltonian (pH). The benefits of being pH include interconnection with pH models of WDNs, straightforward stability analysis, and simple tools for controller design. We use this property to motivate WDN controllers that are able to meet these two specific control requirements.
  
 ## Citation
 - **Journal:** Journal of Hydraulic Research

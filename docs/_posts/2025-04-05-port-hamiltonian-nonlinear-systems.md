@@ -45,7 +45,8 @@ Control by interconnection; Energy ports; Energy shaping; Energy-Casimir method;
   booktitle={{Reference Module in Materials Science and Materials Engineering}},
   publisher={Elsevier},
   author={van der Schaft, Arjan},
-  year={2025}
+  year={2025},
+  pages={684--695}
 }
 {% endraw %}
 {% endhighlight %}
