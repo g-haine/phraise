@@ -108,7 +108,7 @@ The scheduled arXiv workflow never writes directly to `main`. When the cache
 changes, it creates or updates the `automation/update-arxiv` branch and opens
 a pull request. The updater then explicitly dispatches the PHRAISE integration
 workflow on that branch, verifies that the diff contains **only**
-`docs/data/arxiv.json`, and squash-merges the PR only after validation succeeds.
+`docs/assets/data/arxiv.json`, and squash-merges the PR only after validation succeeds.
 No daily maintainer approval is required.
 
 ## Maintenance environment
@@ -329,7 +329,7 @@ bibreview arxiv
 ```
 
 The scheduled GitHub workflow runs this command and changes only
-`docs/data/arxiv.json`. If the cache changes, the workflow opens or updates a
+`docs/assets/data/arxiv.json`. If the cache changes, the workflow opens or updates a
 pull request instead of pushing to `main`. That PR is merged automatically only
 after the updater explicitly runs the integration CI and verifies a cache-only
 diff. If the arXiv provider is temporarily unavailable, the workflow keeps the
