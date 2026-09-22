@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.4.3** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.4.4** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -120,7 +120,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.4.3**.
+The Conda environment contains Python 3.12 and **BibReview v1.4.4**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -141,7 +141,7 @@ from `.env`.
 
 ## Auditing the historical bibliography
 
-BibReview v1.4.3 can compare the existing canonical bibliography with current
+BibReview v1.4.4 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata.
 Network lookups are batched where the provider supports exact multi-DOI
@@ -164,11 +164,19 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.4.3 provides a derived read-only review that applies the current
-normalization and corroboration rules without network access or file changes:
+BibReview v1.4.4 provides a derived read-only review that applies the current
+normalization and corroboration rules without network access or file changes.
+The default review is intentionally concise:
 
 ```bash
 bibreview audit --review
+```
+
+Use the global verbose option only when the full publication-by-publication
+findings are needed:
+
+```bash
+bibreview -v audit --review
 ```
 
 A provider-only alternative remains informational by default. A missing or
@@ -306,7 +314,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.4.3 installation;
+- exact BibReview v1.4.4 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
