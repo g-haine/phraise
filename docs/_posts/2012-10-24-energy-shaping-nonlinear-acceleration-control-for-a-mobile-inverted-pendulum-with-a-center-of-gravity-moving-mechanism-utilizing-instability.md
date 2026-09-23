@@ -3,12 +3,12 @@ title: "Energy Shaping Nonlinear Acceleration Control for a Mobile Inverted Pend
 date: 2012-10-24 00:00:00 +0100
 permalink: energy-shaping-nonlinear-acceleration-control-for-a-mobile-inverted-pendulum-with-a-center-of-gravity-moving-mechanism-utilizing-instability
 year: 2012
-authors: Kazuto YOKOYAMA
+authors: Kazuto YOKOYAMA, Masaki TAKAHASHI
 category: articles
 ---
  
 ## Authors
-[Kazuto YOKOYAMA](authors/kazuto-yokoyama)
+[Kazuto YOKOYAMA](authors/kazuto-yokoyama), [Masaki TAKAHASHI](authors/masaki-takahashi)
  
 ## Abstract
 A nonlinear controller for accelerating a mobile inverted pendulum (MIP) with a center of gravity moving mechanism is proposed. The controller shapes the total energy of the system and utilizes instability of the MIP for acceleration. The body angle and the displacement are controlled to keep statically unstable but dynamically stable states. The intentional destabilization leads to indirect control of translational acceleration. The total energy of the system is shaped such that the energy becomes minimum at given desired states, and the system is controlled to converge to them. To derive the energy shaping controller, the system has to be described as a port-Hamiltonian (PH) system. In this study the MIP is shown to be appropriately described as a PH system and the controller is obtained. It can achieve various control properties through the energy shaping procedure. Especially an energy function that will lead to safe operation of the MIP is proposed. The function ensures that motion of the MIP is restricted within predefined regions, and converges to the desired states. The controller also returns the system back to the desired states with state-dependent gains that become large if the MIP comes close to fall over. Effectiveness of the proposed controller and utilization of instability for the MIP with a center of gravity moving mechanism are verified through simulations.
@@ -33,7 +33,7 @@ A nonlinear controller for accelerating a mobile inverted pendulum (MIP) with a 
   number={794},
   journal={TRANSACTIONS OF THE JAPAN SOCIETY OF MECHANICAL ENGINEERS Series C},
   publisher={Japan Society of Mechanical Engineers},
-  author={YOKOYAMA, Kazuto},
+  author={YOKOYAMA, Kazuto and TAKAHASHI, Masaki},
   year={2012},
   pages={3469--3482}
 }
