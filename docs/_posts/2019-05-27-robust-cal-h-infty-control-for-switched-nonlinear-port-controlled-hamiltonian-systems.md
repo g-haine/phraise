@@ -17,7 +17,7 @@ tags:
 [Zi-Ming Wang](authors/zi-ming-wang), [Airong Wei](authors/airong-wei), [Xianfu Zhang](authors/xianfu-zhang)
  
 ## Abstract
-In the paper, the robust \\(  \\){{\cal H}_\infty}\\(  \\) H ∞ control for switched nonlinear port-controlled Hamiltonian (SNPCH) systems with external disturbances is investigated via the multiple Lyapunov functions method. Under two cases that the SNPCH system is subject to actuator saturation (AS) and the SNPCH system is without AS, a design approach for the switching robust \\(  \\){{\cal H}_\infty}\\(  \\) H ∞ feedback controller is developed to attenuate the external disturbances. The sufficient conditions are established for \\(  \\){{\cal H}_\infty}\\(  \\) H ∞ control of the corresponding closed-loop systems based on Hamilton-Jacobi inequality techniques. Furthermore, via the Hamiltonian realization method, the obtained results are applied to solve the \\(  \\){{\cal H}_\infty}\\(  \\) H ∞ control for switched nonlinear affine systems with external disturbances. Finally, two numerical examples are presented to illustrate the effectiveness of the proposed \\(  \\){{\cal H}_\infty}\\(  \\) H ∞ control methods.
+In the paper, the robust \\(  \\){% raw %}{{{% endraw %}\cal H}_\infty}\\(  \\) H ∞ control for switched nonlinear port-controlled Hamiltonian (SNPCH) systems with external disturbances is investigated via the multiple Lyapunov functions method. Under two cases that the SNPCH system is subject to actuator saturation (AS) and the SNPCH system is without AS, a design approach for the switching robust \\(  \\){% raw %}{{{% endraw %}\cal H}_\infty}\\(  \\) H ∞ feedback controller is developed to attenuate the external disturbances. The sufficient conditions are established for \\(  \\){% raw %}{{{% endraw %}\cal H}_\infty}\\(  \\) H ∞ control of the corresponding closed-loop systems based on Hamilton-Jacobi inequality techniques. Furthermore, via the Hamiltonian realization method, the obtained results are applied to solve the \\(  \\){% raw %}{{{% endraw %}\cal H}_\infty}\\(  \\) H ∞ control for switched nonlinear affine systems with external disturbances. Finally, two numerical examples are presented to illustrate the effectiveness of the proposed \\(  \\){% raw %}{{{% endraw %}\cal H}_\infty}\\(  \\) H ∞ control methods.
  
 ## Keywords
 Actuator saturation; \\( H^\infty \\)-control; multiple Lyapunov functions; port-controlled Hamiltonian systems; switched systems
@@ -35,7 +35,7 @@ Actuator saturation; \\( H^\infty \\)-control; multiple Lyapunov functions; port
 {% highlight bibtex %}
 {% raw %}
 @article{Wang_2019,
-  title={{Robust $${{\cal H}_\infty}$$ Control for Switched Nonlinear Port-controlled Hamiltonian Systems}},
+  title={{Robust $${% raw %}{{{% endraw %}\cal H}_\infty}$$ Control for Switched Nonlinear Port-controlled Hamiltonian Systems}},
   volume={17},
   ISSN={2005-4092},
   DOI={10.1007/s12555-018-0541-8},
