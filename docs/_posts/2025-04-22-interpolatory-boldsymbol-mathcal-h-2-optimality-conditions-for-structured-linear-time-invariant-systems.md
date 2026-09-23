@@ -1,5 +1,5 @@
 ---
-title: "Interpolatory \\\\( \\boldsymbol {[[:space:]]{\\mathcal {H}[[:space:]]}_{2}[[:space:]]} \\\\)-Optimality Conditions for Structured Linear Time-Invariant Systems"
+title: "Interpolatory \\\\( \\boldsymbol {{\\mathcal {H}}_{2}} \\\\)-Optimality Conditions for Structured Linear Time-Invariant Systems"
 date: 2025-04-22 00:00:00 +0100
 permalink: interpolatory-boldsymbol-mathcal-h-2-optimality-conditions-for-structured-linear-time-invariant-systems
 year: 2025
