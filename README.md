@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.6.4** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.6.6** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -29,11 +29,14 @@ Important state files are:
 - `docs/assets/data/bibliography.json` — canonical BibReview bibliography
   document;
 - `docs/assets/data/collected.json` — temporary canonical staging used by
-  collect/refresh before merge;
+  collect and reviewed apply workflows before merge;
 - `docs/assets/data/author_mappings.json` — reviewed author identities;
 - `audit/campaign.json`, `audit/report.json`, and `audit/resolutions.json` — local
-  persistent audit history, review report, and resumable human decisions,
-  separate from canonical staging and ignored by Git;
+  persistent audit history, review report, and resumable human decisions;
+- `audit/backfill.json`, `audit/backfill-resolutions.json`,
+  `audit/refresh.json`, and `audit/refresh-resolutions.json` — local
+  proposal/review state for human-reviewed missing-field enrichment and safe
+  refresh, separate from canonical staging and ignored by Git;
 - `docs/assets/bib/` — tracked BibTeX sources;
 - `docs/DOI.txt`, `docs/newDOI.txt`, `docs/checkDOI.txt`,
   `docs/badDOI.txt` — DOI workflow state.
@@ -120,7 +123,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.6.4**.
+The Conda environment contains Python 3.12 and **BibReview v1.6.6**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -139,7 +142,7 @@ MENDELEY_CLIENT_SECRET=
 Values already exported in the process environment take precedence over values
 from `.env`.
 
-With OpenAlex enabled in `bibreview.yml`, BibReview v1.6.4 uses it for three
+With OpenAlex enabled in `bibreview.yml`, BibReview v1.6.6 uses it for three
 separate purposes in PHRAISE: DOI discovery, independent audit evidence, and
 optional abstract fallback when publisher/CrossRef enrichment leaves an abstract
 empty. Semantic Scholar and Mendeley remain optional abstract fallbacks as well.
@@ -148,9 +151,48 @@ leading labels such as `Abstract`, `Résumé`, etc. are removed conservatively),
 then BibReview keeps the longest valid candidate. An OpenAlex API key is optional
 but may improve rate-limit predictability.
 
+## Human-reviewed enrichment and safe refresh
+
+BibReview v1.6.6 provides two complementary workflows for existing canonical
+records.
+
+For a known missing field such as an abstract, use `backfill`:
+
+```bash
+bibreview backfill --field abstract
+bibreview backfill --resolve
+bibreview --dry-run backfill --apply
+bibreview backfill --apply
+```
+
+Provider values are only proposals. The resolver requires an explicit human
+decision for every candidate. Accepted/custom values alone reach
+`collected.json`; existing non-empty canonical fields are never replaced.
+
+For configured incomplete journal records, `refresh` is now non-destructive:
+
+```bash
+bibreview refresh
+bibreview -v refresh --review
+bibreview refresh --resolve
+bibreview --dry-run refresh --apply
+bibreview refresh --apply
+```
+
+Remote DOI BibTeX is used only to detect staleness. A stale record is recollected
+in memory and compared field-by-field with the canonical publication. Only
+configured fields that are currently empty can become safe proposals.
+Differences affecting already-populated title, authors, journal, dates, pages,
+publisher, or other metadata are kept as collateral evidence and cannot be
+promoted by `refresh`.
+
+Tracked BibTeX is never replaced wholesale from the remote provider during
+refresh. Only accepted fields may be edited locally, with a backup, and
+`bibreview merge` remains the only canonical promotion boundary.
+
 ## Auditing the historical bibliography
 
-BibReview v1.6.4 can compare the existing canonical bibliography with current
+BibReview v1.6.6 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata. Audit state is persistent and incremental: publications already marked
 `completed` in the local audit history are not requested again by a normal
@@ -178,7 +220,7 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.6.4 provides a derived read-only review that applies the current
+BibReview v1.6.6 provides a derived read-only review that applies the current
 normalization and corroboration rules without network access or file changes.
 The default review is intentionally concise:
 
@@ -201,7 +243,7 @@ bibreview audit --resolve
 ```
 
 Decisions are resumable and stored separately from canonical/staging data. In
-BibReview v1.6.4, page-range proposals are normalized to BibTeX-style double
+BibReview v1.6.6, page-range proposals are normalized to BibTeX-style double
 hyphens, for example `8793--8805`; tuple-valued custom corrections such as
 authors accept semicolon-separated values; and interactive terminal line editing
 is enabled when Python's standard `readline` module is available.
@@ -218,7 +260,7 @@ bibreview audit --apply
 `audit --apply` never writes `bibliography.json` directly. It requires empty
 staging, rejects stale canonical values or incomplete resolution state, updates
 applicable tracked BibTeX fields with backups, and leaves rejected decisions
-unchanged. BibReview v1.6.4 also reports accepted/custom resolutions that already
+unchanged. BibReview v1.6.6 also reports accepted/custom resolutions that already
 match the canonical value explicitly as no-op resolutions; they are not staged
 and do not trigger BibTeX writes. Inspect the resulting JSON/BibTeX diff before
 the normal `bibreview merge` boundary.
@@ -280,24 +322,41 @@ therefore unnecessary here.
 2. Review `docs/checkDOI.txt` manually and move classified DOI values to
    `docs/newDOI.txt` or `docs/badDOI.txt`.
 
-3. Refresh incomplete existing publications:
+3. Review and resolve safe refresh proposals for incomplete existing publications:
 
    ```bash
    bibreview refresh
+   bibreview -v refresh --review
+   bibreview refresh --resolve
+   bibreview --dry-run refresh --apply
+   bibreview refresh --apply
+   bibreview --dry-run merge
    bibreview merge
    ```
 
-   Refresh and collection share `collected.json`, so refresh staging is merged
-   before collecting new DOI values.
+   The initial refresh scan writes only local review state. Only human-approved
+   missing-field fills reach `collected.json`.
 
-4. Collect pending new/recovered DOI values, then merge them:
+4. When a specific missing field should be enriched independently of BibTeX
+   staleness, use reviewed backfill, for example:
+
+   ```bash
+   bibreview backfill --field abstract
+   bibreview backfill --resolve
+   bibreview --dry-run backfill --apply
+   bibreview backfill --apply
+   bibreview --dry-run merge
+   bibreview merge
+   ```
+
+5. Collect pending new/recovered DOI values, then merge them:
 
    ```bash
    bibreview collect
    bibreview merge
    ```
 
-5. Review author identities:
+6. Review author identities:
 
    ```bash
    bibreview authors
@@ -312,7 +371,7 @@ therefore unnecessary here.
    Review any remaining ambiguous cases manually in
    `docs/assets/data/author_mappings.json`.
 
-6. Render the complete generated site surface:
+7. Render the complete generated site surface:
 
    ```bash
    bibreview render
@@ -369,7 +428,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.6.4 installation;
+- exact BibReview v1.6.6 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
