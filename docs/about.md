@@ -39,7 +39,7 @@ PHRAISE uses several external services for different purposes rather than relyin
 4. [**Semantic Scholar**](https://www.semanticscholar.org/product/api) and [**Mendeley**](https://dev.mendeley.com/) also provide optional abstract fallback enrichment when configured. BibReview cleans fallback candidates before comparing them and retains the longest valid abstract available from OpenAlex, Semantic Scholar, or Mendeley. Semantic Scholar also contributes independent evidence to the audit workflow.
 5. DOI content negotiation is used for citation and BibTeX retrieval when available.
 
-Provider output is never assumed to be infallible. BibReview keeps canonical data, staging, BibTeX, and audit evidence inspectable so that corrections can be reviewed before publication.
+Provider output is never assumed to be infallible. BibReview keeps canonical data, staging, BibTeX, audit evidence, and enrichment proposals inspectable so that corrections can be reviewed before publication. Missing-field enrichment such as abstracts is explicitly human-reviewed before staging. Refresh operations cannot silently replace already-populated canonical metadata: provider differences on existing values remain review evidence rather than automatic changes.
 
 PHRAISE stores bibliographic metadata, abstracts, keywords and related citation information when available; **full texts are not collected**.
 
@@ -63,7 +63,7 @@ BibReview compares canonical author names with the reviewed mapping file and can
 
 PHRAISE does not perform an additional scientific peer review of the works it lists. Inclusion means that a work matches the bibliographic scope of the survey; it is not an endorsement of its results.
 
-Bibliographic metadata is curated separately from scientific content. New records pass through explicit staging and merge steps, ambiguous author identities remain human-reviewed, and historical metadata can be audited against independent evidence from CrossRef, OpenAlex, and Semantic Scholar before reviewed corrections are promoted to the canonical database. Audit history is retained locally so routine audits do not repeatedly request publications already visited; a deliberate full audit can still be run when fresh evidence is required for the entire bibliography.
+Bibliographic metadata is curated separately from scientific content. New records pass through explicit staging and merge steps, ambiguous author identities remain human-reviewed, historical metadata can be audited against independent evidence from CrossRef, OpenAlex, and Semantic Scholar, and missing canonical fields can be proposed through reviewed backfill. Refresh is also review-first and non-destructive: only explicit human decisions on safe missing-field proposals can reach staging, while collateral provider differences on existing values remain informational. Audit history is retained locally so routine audits do not repeatedly request publications already visited; a deliberate full audit can still be run when fresh evidence is required for the entire bibliography.
 
 ## **Useful Links**
 
