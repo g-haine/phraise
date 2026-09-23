@@ -28,8 +28,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install BibReview v1.6.3
-        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.6.3"
+      - name: Install BibReview v1.6.4
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.6.4"
 
       - name: Reconcile generated bibliography artifacts
         run: bibreview --config bibreview.yml render
