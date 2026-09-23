@@ -33,10 +33,10 @@ The PHRAISE project configuration is publicly available on the [**GitHub reposit
 
 PHRAISE uses several external services for different purposes rather than relying on a single strict provider hierarchy:
 
-1. [**OpenAlex**](https://docs.openalex.org/how-to-use-the-api/api-overview) is used to discover DOI-backed candidate publications. It also provides independent comparison evidence during bibliography audits.
+1. [**OpenAlex**](https://docs.openalex.org/how-to-use-the-api/api-overview) is used to discover DOI-backed candidate publications, provides independent comparison evidence during bibliography audits, and can supply an abstract when publisher/CrossRef enrichment leaves that field empty.
 2. [**CrossRef**](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) is the core metadata source for DOI-backed collection and also contributes independent audit evidence.
 3. Publisher APIs from [**Elsevier / Scopus**](https://dev.elsevier.com/), [**Springer Nature**](https://dev.springernature.com/) and [**IEEE Xplore**](https://developer.ieee.org/) can enrich records with information such as abstracts, keywords, or event metadata when available.
-4. [**Semantic Scholar**](https://www.semanticscholar.org/product/api) and [**Mendeley**](https://dev.mendeley.com/) can provide fallback enrichment when configured. Semantic Scholar also contributes independent evidence to the audit workflow.
+4. [**Semantic Scholar**](https://www.semanticscholar.org/product/api) and [**Mendeley**](https://dev.mendeley.com/) also provide optional abstract fallback enrichment when configured. BibReview cleans fallback candidates before comparing them and retains the longest valid abstract available from OpenAlex, Semantic Scholar, or Mendeley. Semantic Scholar also contributes independent evidence to the audit workflow.
 5. DOI content negotiation is used for citation and BibTeX retrieval when available.
 
 Provider output is never assumed to be infallible. BibReview keeps canonical data, staging, BibTeX, and audit evidence inspectable so that corrections can be reviewed before publication.
@@ -63,7 +63,7 @@ BibReview compares canonical author names with the reviewed mapping file and can
 
 PHRAISE does not perform an additional scientific peer review of the works it lists. Inclusion means that a work matches the bibliographic scope of the survey; it is not an endorsement of its results.
 
-Bibliographic metadata is curated separately from scientific content. New records pass through explicit staging and merge steps, ambiguous author identities remain human-reviewed, and historical metadata can be audited against independent evidence from CrossRef, OpenAlex, and Semantic Scholar before reviewed corrections are promoted to the canonical database.
+Bibliographic metadata is curated separately from scientific content. New records pass through explicit staging and merge steps, ambiguous author identities remain human-reviewed, and historical metadata can be audited against independent evidence from CrossRef, OpenAlex, and Semantic Scholar before reviewed corrections are promoted to the canonical database. Audit history is retained locally so routine audits do not repeatedly request publications already visited; a deliberate full audit can still be run when fresh evidence is required for the entire bibliography.
 
 ## **Useful Links**
 

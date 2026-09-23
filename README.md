@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.6.3** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.6.4** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -32,7 +32,7 @@ Important state files are:
   collect/refresh before merge;
 - `docs/assets/data/author_mappings.json` — reviewed author identities;
 - `audit/campaign.json`, `audit/report.json`, and `audit/resolutions.json` — local
-  historical-audit checkpoint, review report, and resumable human decisions,
+  persistent audit history, review report, and resumable human decisions,
   separate from canonical staging and ignored by Git;
 - `docs/assets/bib/` — tracked BibTeX sources;
 - `docs/DOI.txt`, `docs/newDOI.txt`, `docs/checkDOI.txt`,
@@ -120,7 +120,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.6.3**.
+The Conda environment contains Python 3.12 and **BibReview v1.6.4**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -139,17 +139,31 @@ MENDELEY_CLIENT_SECRET=
 Values already exported in the process environment take precedence over values
 from `.env`.
 
+With OpenAlex enabled in `bibreview.yml`, BibReview v1.6.4 uses it for three
+separate purposes in PHRAISE: DOI discovery, independent audit evidence, and
+optional abstract fallback when publisher/CrossRef enrichment leaves an abstract
+empty. Semantic Scholar and Mendeley remain optional abstract fallbacks as well.
+Fallback candidates are cleaned before comparison (surrounding whitespace and
+leading labels such as `Abstract`, `Résumé`, etc. are removed conservatively),
+then BibReview keeps the longest valid candidate. An OpenAlex API key is optional
+but may improve rate-limit predictability.
+
 ## Auditing the historical bibliography
 
-BibReview v1.6.3 can compare the existing canonical bibliography with current
+BibReview v1.6.4 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
-metadata.
+metadata. Audit state is persistent and incremental: publications already marked
+`completed` in the local audit history are not requested again by a normal
+`bibreview audit` run, while newly added canonical publication UUIDs are
+appended automatically as pending work. Retryable provider failures remain
+eligible after never-audited publications.
+
 Network lookups are batched where the provider supports exact multi-DOI
 requests: CrossRef uses bounded groups of 25 DOI values, OpenAlex up to 100,
 and Semantic Scholar up to 500. This changes transport efficiency only; audit
-comparison and review semantics are unchanged. Existing campaign-schema-1 checkpoints are read transparently and
-rewritten as campaign schema 2 on the next audit-state update; audit progress and
-the report are preserved.
+comparison and review semantics are unchanged. Existing campaign-schema-1
+checkpoints are read transparently and rewritten as campaign schema 2 on the
+next audit-state update; audit progress and the report are preserved.
 
 Preview a small pilot batch without writing audit state or calling providers:
 
@@ -164,7 +178,7 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.6.3 provides a derived read-only review that applies the current
+BibReview v1.6.4 provides a derived read-only review that applies the current
 normalization and corroboration rules without network access or file changes.
 The default review is intentionally concise:
 
@@ -187,7 +201,7 @@ bibreview audit --resolve
 ```
 
 Decisions are resumable and stored separately from canonical/staging data. In
-BibReview v1.6.3, page-range proposals are normalized to BibTeX-style double
+BibReview v1.6.4, page-range proposals are normalized to BibTeX-style double
 hyphens, for example `8793--8805`; tuple-valued custom corrections such as
 authors accept semicolon-separated values; and interactive terminal line editing
 is enabled when Python's standard `readline` module is available.
@@ -204,7 +218,7 @@ bibreview audit --apply
 `audit --apply` never writes `bibliography.json` directly. It requires empty
 staging, rejects stale canonical values or incomplete resolution state, updates
 applicable tracked BibTeX fields with backups, and leaves rejected decisions
-unchanged. BibReview v1.6.3 also reports accepted/custom resolutions that already
+unchanged. BibReview v1.6.4 also reports accepted/custom resolutions that already
 match the canonical value explicitly as no-op resolutions; they are not staged
 and do not trigger BibTeX writes. Inspect the resulting JSON/BibTeX diff before
 the normal `bibreview merge` boundary.
@@ -233,12 +247,23 @@ bibreview audit --review
 Reclassification rewrites only the local `audit/report.json`; it does not
 change campaign progress or canonical bibliography data.
 
-Once the review rules are satisfactory, subsequent networked audit invocations
-return to PHRAISE's configured default batch size of 50:
+Normal subsequent networked audit invocations use PHRAISE's configured default
+batch size of 50 and process only new or retryable audit items:
 
 ```bash
 bibreview audit
 ```
+
+When fresh provider evidence is deliberately required for the entire current
+canonical bibliography, force a complete new pass with:
+
+```bash
+bibreview audit --full
+```
+
+`--full` preserves the local report and attempt history while requeueing all
+current canonical publication UUIDs. It refuses to reset an interrupted open
+batch; resume that batch first.
 
 ## Updating the bibliography
 
@@ -344,7 +369,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.6.3 installation;
+- exact BibReview v1.6.4 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
