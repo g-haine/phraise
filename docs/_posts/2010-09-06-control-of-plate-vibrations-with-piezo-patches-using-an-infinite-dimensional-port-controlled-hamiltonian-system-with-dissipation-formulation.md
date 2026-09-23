@@ -16,7 +16,7 @@ category: proceedings
 ## Citation
 - **Journal:** Civil-Comp Proceedings
 - **Year:** 2010
-- **Volume:** 
+- **Volume:** 93
 - **Issue:** 
 - **Pages:** 
 - **Publisher:** Civil-Comp Press
@@ -28,6 +28,7 @@ category: proceedings
 @inproceedings{Rittenschober,
   series={CST2010},
   title={{Control of Plate Vibrations with Piezo Patches using an Infinite Dimensional Port Controlled Hamiltonian System with Dissipation Formulation}},
+  volume={93},
   ISSN={1759-3433},
   DOI={10.4203/ccp.93.210},
   booktitle={{Proceedings of the Tenth International Conference on Computational Structures Technology}},
