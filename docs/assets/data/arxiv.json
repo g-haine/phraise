@@ -1,6 +1,75 @@
 {
-  "generated_at": "2026-09-16T12:37:06Z",
+  "generated_at": "2026-09-23T06:36:20Z",
   "papers": [
+    {
+      "title": "Energy-optimal predictive control of discrete-time port-Hamiltonian systems: Closed-loop practical stability",
+      "summary": "We study a dissipativity-based model predictive control (MPC) scheme for energy-optimal constrained output stabilization of a discrete-time nonlinear SISO port-Hamiltonian system described by difference and differential representation. For the optimal control problem to be solved in each MPC step, we establish a measure turnpike behavior. The turnpike set in our work is obtained from the underlying port-Hamiltonian structure without assuming existence of steady-states or periodic orbits. In particular, unlike existing results which typically establish the turnpike property w.r.t. a controlled forward invariant set such as optimal steady-states or optimal periodic orbits, we do not require the turnpike set to be forward control invariant. For MPC, we establish recursive feasibility and show practical stability to the turnpike set w.r.t. the MPC closed loop leveraging both dissipativity and the port-Hamiltonian structure. Finally, we demonstrate our results using two numerical examples.",
+      "url": "http://arxiv.org/abs/2609.25920v1",
+      "authors": [
+        "Vaibhav Kumar Singh",
+        "Manuel Schaller",
+        "Timm Faulwasser",
+        "Karl Worthmann"
+      ],
+      "updated": "2026-09-22"
+    },
+    {
+      "title": "Adaptive sliding mode formation control for space interferometer missions",
+      "summary": "This paper addresses high-precision formation control for spacecraft operating in low Earth orbit, motivated by the requirements of future space interferometry missions such as SILVIA. The proposed approach formulates the relative dynamics within a port-Hamiltonian framework and introduces an Adaptive Boundary-layer Sliding Mode Control (AB-SMC) law to overcome the limitations of conventional SMC with constant gains. The key innovation lies in a dynamic, error-dependent adjustment of the sliding manifold, enhancing transient performance while guaranteeing high-precision trajectory tracking. Rigorous Lyapunov-based analysis establishes explicit ultimate bounds on the tracking error and ensures closed-loop stability, while extensive Monte Carlo simulations further validate the proposed AB-SMC compared to standard control approaches. Results show that AB-SMC achieves faster convergence, lower control effort, and sub-millimeter tracking accuracy, demonstrating its practical robustness and implementation feasibility in realistic, uncertain orbital environments while respecting low-thrust constraints.",
+      "url": "http://arxiv.org/abs/2609.24693v1",
+      "authors": [
+        "Mauro Mancini",
+        "Giulia Alessandra Tataru",
+        "Satoshi Satoh",
+        "Elisa Capello"
+      ],
+      "updated": "2026-09-21"
+    },
+    {
+      "title": "Computing the nearest scattering passive system",
+      "summary": "In this paper, we consider linear time-invariant control systems which are bounded real, also known as scattering passive. Our main theoretical contribution is to show the equivalence between such systems and port-Hamiltonian (PH) systems whose factors satisfy certain linear matrix inequalities. Based on this result, we propose a formulation for the problem of finding the nearest bounded real system to a given system, and design an algorithm combining alternating optimization and Nesterov's fast gradient method. This formulation also allows us to check whether a given system is bounded real by solving a semidefinite program, and provide a PH parametrization for it. We illustrate our proposed algorithms on real-world and synthetic data sets.",
+      "url": "http://arxiv.org/abs/2501.11903v2",
+      "authors": [
+        "Karim Cherifi",
+        "Nicolas Gillis",
+        "Punit Sharma"
+      ],
+      "updated": "2026-09-20"
+    },
+    {
+      "title": "Bayesian Safety Guarantees for Port-Hamiltonian Systems with Learned Energy Functions",
+      "summary": "Control barrier functions for port-Hamiltonian systems inherit model uncertainty when the Hamiltonian is learned from data. We show how to propagate this uncertainty into a safety filter with independently tunable credibility budgets. To propagate this uncertainty, we employ a two-stage Bayesian approach. First, posterior prediction over the Hamiltonian yields credible bands for the energy storage, producing Bayesian barriers whose safe sets are high-probability inner approximations of the true allowable set with credibility $1 - (η_{\\mathrm{ptB}})$. Independently, a drift credible ellipsoid accounts for vector field uncertainty in the CBF inequality with credibility $1 - (η_{\\rm dr})$. Since energy and drift uncertainties enter through disjoint credible sets, the end-to-end safety guarantee is at least $1 - (η_{\\rm dr} + η_{\\mathrm{ptB}})$. Experiments on a mass-spring oscillator with a GP-learned Hamiltonian show that the proposed filter preserves safety despite limited and noisy observations.",
+      "url": "http://arxiv.org/abs/2512.24493v3",
+      "authors": [
+        "Chi Ho Leung",
+        "Philip E. Paré"
+      ],
+      "updated": "2026-09-18"
+    },
+    {
+      "title": "SIPHy: Sparse identification of port-Hamiltonian systems from noisy data",
+      "summary": "We propose sparse identification of port-Hamiltonian systems (SIPHy), enabling structure-preserving symbolic regression from noisy trajectory observations. The method applies to port-Hamiltonian systems, which provide a general framework for describing dynamical systems in terms of energy exchange, dissipation and control. Our algorithm can jointly identify the Hamiltonian as well as the dissipation and input matrices. Furthermore, we introduce Hamiltonian flow splines to better approximate derivatives of trajectory data corrupted by noise or with missing time points, a major challenge of system identification for differential equations. This method assembles flows of piecewise polynomial Hamiltonians to produce a smooth, differentiable trajectory necessary for sparse regression. Combining flow splines with SIPHy yields interpretable, physically grounded models from noisy and incomplete trajectory data. Because the Hamiltonian, dissipation, and input matrices are identified as separate components, the resulting models can be simulated under control inputs and dissipation regimes never observed during training, thus improving the robustness and generalization capabilities of model discovery methods.",
+      "url": "http://arxiv.org/abs/2609.20399v1",
+      "authors": [
+        "Håkon Noren Myhr",
+        "Sølve Eidnes",
+        "J. Nathan Kutz"
+      ],
+      "updated": "2026-09-17"
+    },
+    {
+      "title": "The distance-based formation controller design for multi-agent systems in port-Hamiltonian form",
+      "summary": "Based on the practical scenario where collisions in formation control may lead to agent damage, this paper investigates the integrated problem of distance-based formation control and collision avoidance for multi-agent systems governed by port-Hamiltonian dynamics. A foundational step involves constructing a signed incidence matrix, which, by design, corresponds to a directed acyclic graph and possesses the full column rank property. To overcome the prevalent issue of local minima in traditional artificial potential fields, a novel design utilizing attraction-only potentials is introduced, with collision avoidance rigorously enforced by safety barriers. This framework leads to a unified controller that concurrently manages velocity tracking, target formation acquisition, and inter-agent safety. The stability of the resulting closed-loop system is guaranteed through LaSalle's invariance principle. Numerical simulations demonstrate the validity and effectiveness of the proposed control strategy.",
+      "url": "http://arxiv.org/abs/2605.18502v2",
+      "authors": [
+        "Jingyi Zhao",
+        "Yongxin Wu",
+        "Héctor García de Marina",
+        "Yuhu Wu",
+        "Yann Le Gorrec"
+      ],
+      "updated": "2026-09-17"
+    },
     {
       "title": "Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems",
       "summary": "Finite-dimensional Koopman models enable efficient linear prediction and control of nonlinear robotic systems. However, models learned purely from trajectory data may violate the energetic structure of the underlying mechanics, producing predictions that exhibit artificial energy growth and diverge under recursive propagation. This work presents a structure-preserving Koopman framework for Euler-Lagrange systems built on generalized-momentum coordinates. The momentum transformation exposes the mechanical actuation as a known, state-independent port, which is preserved explicitly in the lifted dynamics. A structure-constrained neural architecture is developed to jointly learn the lifting functions and a port-Hamiltonian Koopman generator, rendering the learned dynamics passive by construction rather than through penalty terms or post-hoc projection. A Cayley-midpoint discretization further preserves the corresponding storage-dissipation balance exactly in discrete time. These properties are established analytically by deriving the discrete storage balance and associated stability guarantees of the learned predictor. Simulation and experimental studies demonstrate improved prediction accuracy, data efficiency, and closed-loop tracking over Koopman baselines, with increasing gains for higher-dimensional systems.",
@@ -223,73 +292,6 @@
         "Dibakar Sigdel"
       ],
       "updated": "2026-08-11"
-    },
-    {
-      "title": "A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface EEG",
-      "summary": "We present a physics-inspired classical digital twin of brain-computer- interface (BCI) data: a graph neural network constrained to a band-stratified, metriplectic port-Hamiltonian form, with parameters learned from scalp EEG recorded during rest and motor imagery. The port-Hamiltonian structure is a modelling choice - it buys passivity, a certified steady-state power balance, and a clean separation of storage, routing and dissipation - not a claim about what the brain is. The state pairs each channel's instantaneous phase with its angular frequency, and stored energy decomposes over the five canonical frequency bands. A phase-locking prior measured from the same recordings gates the learned connectome, and a metriplectic formulation places the twin at a non- equilibrium steady state sustained by a metabolic port. Fitted to $1{,}109{,}250$ phasor samples from the PhysioNet EEG Motor Movement/Imagery database under a leakage-free split, the twin reaches a held-out reconstruction error of $1.30\\times10^{-4}$. Scored free-running against invariants it did not author, the verdict is mixed: it reproduces near-critical avalanche branching ($σ\\approx1$) but not the aperiodic $1/f$ slope or the long-range temporal correlations of the recordings. Skew-symmetry and non-negative dissipation hold by construction rather than by penalty, making the twin a structure-preserving substrate on which closed-loop neuromodulation can be designed and tested.",
-      "url": "http://arxiv.org/abs/2607.10439v4",
-      "authors": [
-        "Dibakar Sigdel"
-      ],
-      "updated": "2026-08-10"
-    },
-    {
-      "title": "Port-Hamiltonian modelling of coupled rigid/flexible multibody systems",
-      "summary": "We develop a port-Hamiltonian framework for coupled rigid/flexible multibody systems. The rigid dynamics may be nonlinear and subject to configuration and velocity constraints, while the flexible components are described by linear port-Hamiltonian partial differential equations on one-dimensional spatial domains. The subsystems interact through boundary or distributed ports.\n  On the flexible side, the differential operator and its domain remain fixed, whereas state dependence enters only through finite-dimensional coupling components of the Dirac structure. We show that, under a natural surjectivity condition, the port-Hamiltonian interconnection with a modulated Dirac structure of a finite-dimensional rigid subsystem again yields a modulated Dirac structure. The Hamiltonians of the subsystems add, while the internal coupling powers cancel. The framework is illustrated by a planar moving Euler--Bernoulli beam and a slider--crank mechanism with a flexible connecting member.",
-      "url": "http://arxiv.org/abs/2608.05143v1",
-      "authors": [
-        "Thomas Berger",
-        "René Hochdahl",
-        "Timo Reis",
-        "Robert Seifried"
-      ],
-      "updated": "2026-08-05"
-    },
-    {
-      "title": "Structure-Preserving Generalized Manifold Galerkin Reduction for Port-Hamiltonian Systems",
-      "summary": "This paper considers structure-preserving model order reduction (MOR) techniques for port-Hamiltonian (pH) systems, which are typically derived from energy-based modeling. To keep favorable properties of \\pH systems such as passivity in a reduced order model (ROM), we use structure-preserving methods in the reduction process. Although projection-based structure-preserving MOR methods for nonlinear pH systems based on nonlinear approximation ansatzes have recently been proposed, existing approaches typically rely on specific structures of the approximation map and the underlying pH system. To address this limitation, we propose a \\MOR framework based on generalized manifold Galerkin (GMG) reduction. The resulting framework can employ general nonlinear approximation maps while preserving the pH structure. We establish sufficient conditions for structure preservation, show that the associated non-degeneracy conditions are generically satisfied. We further present linear and quadratic approximation maps within the proposed framework. Numerical examples for a linear and a nonlinear mass-spring-damper system show that the proposed \\MOR methods have lower relative reduction error compared to existing methods.",
-      "url": "http://arxiv.org/abs/2603.08656v2",
-      "authors": [
-        "Silke Glas",
-        "Hongliang Mu"
-      ],
-      "updated": "2026-08-01"
-    },
-    {
-      "title": "Strong imposition of Dirichlet boundary velocities in structure-preserving discretizations of elastodynamics",
-      "summary": "The imposition of boundary velocities in finite element models of port-Hamiltonian elastodynamics typically relies on Lagrange multipliers, yielding Differential-Algebraic Equations (DAEs). Alternatively, weak imposition methods that maintain an Ordinary Differential Equation (ODE) structure often exhibit poor accuracy at Dirichlet boundaries. To address these limitations, this paper introduces an additive kinematic decomposition at the continuous level, splitting the displacement and velocity fields into a relative dynamic component that vanishes on the boundary and a prescribed lifting function extending into the interior domain. This decomposition induces a distributed port that maps the effects of the boundary actuation inside the domain. By incorporating this mapping into suitable virtual power principles, we derive lifted port-Hamiltonian system (PHS) models that, upon finite element discretization, reduce to ODE systems in which Dirichlet boundary velocities are strongly imposed. The framework is applied to derive 2-field and 4-field formulations suited to distinct PHS geometric representations. Furthermore, we show that under specific shape functions, standard FEM schemes are recovered, demonstrating that the lifting framework in the discrete models is equivalent to the classic algebraic matrix partitioning in computational mechanics practice. The energy-balance properties and computational performance of the proposed methodology are verified through numerical simulations.",
-      "url": "http://arxiv.org/abs/2607.26248v1",
-      "authors": [
-        "Cristobal Ponce",
-        "Hector Ramirez",
-        "Yongxin Wu",
-        "Ning Liu",
-        "Yann Le Gorrec"
-      ],
-      "updated": "2026-07-28"
-    },
-    {
-      "title": "High-resolution decomposition of canonical Hamiltonian systems",
-      "summary": "We identify the topological and dynamical conditions for a Hamiltonian system to possess port-Hamiltonian reformulations with increasing resolution of structural detail that remains hidden in the Hamiltonian theory. We find that the principally attainable resolution grows exponentially with the number of factor manifolds into which the configuration space of a canonical Hamiltonian system decomposes and is tempered only by degeneracies of the original Hamiltonian.",
-      "url": "http://arxiv.org/abs/2607.20740v1",
-      "authors": [
-        "Kaja Krhac",
-        "Frederic P. Schuller"
-      ],
-      "updated": "2026-07-22"
-    },
-    {
-      "title": "Mixed finite element discretization of intrinsic geometrically exact beams for explicit multibody dynamics",
-      "summary": "The Reissner-Simo and Hodges models are two equivalent continuous descriptions of finite-strain beam dynamics. The Reissner-Simo formulation uses displacements and rotations, while the Hodges formulation is intrinsic and avoids both variables. Although equivalent in theory, the two approaches behave differently after discretization and offer distinct numerical advantages. In this work, we develop a structure-preserving discretization of the intrinsic formulation. Because the intrinsic equations involve linear differential operators, both kinematic and dynamic boundary conditions can be imposed naturally using mixed finite elements. The resulting formulation also enables multibody systems to be assembled without algebraic constraints, avoiding the stiff differential-algebraic equations typically introduced by kinematic constraints. We demonstrate the approach on different examples, also showing that closed kinematic loops can be modeled without algebraic constraints. The resulting interconnected systems retain a port-Hamiltonian structure,with all nonlinearities confined to the interconnection operator. This structure allows exact energy preservation when combined with implicit midpoint time integration. Furthermore the scheme appear to require less Newton iterations compared to existing energy preserving scheme.",
-      "url": "http://arxiv.org/abs/2607.20245v1",
-      "authors": [
-        "Andrea Brugnoli",
-        "Philipp L. Kinon",
-        "Francesco Sanfedino",
-        "Peter Betsch",
-        "Olivier A. Bauchau"
-      ],
-      "updated": "2026-07-22"
     }
   ]
 }
