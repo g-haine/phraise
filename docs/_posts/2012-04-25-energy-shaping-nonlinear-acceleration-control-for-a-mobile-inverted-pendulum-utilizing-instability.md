@@ -3,12 +3,12 @@ title: "Energy Shaping Nonlinear Acceleration Control for a Mobile Inverted Pend
 date: 2012-04-25 00:00:00 +0100
 permalink: energy-shaping-nonlinear-acceleration-control-for-a-mobile-inverted-pendulum-utilizing-instability
 year: 2012
-authors: Kazuto YOKOYAMA
+authors: Kazuto YOKOYAMA, Masaki TAKAHASHI
 category: articles
 ---
  
 ## Authors
-[Kazuto YOKOYAMA](authors/kazuto-yokoyama)
+[Kazuto YOKOYAMA](authors/kazuto-yokoyama), [Masaki TAKAHASHI](authors/masaki-takahashi)
  
 ## Abstract
 A nonlinear controller for accelerating a mobile inverted pendulum (MIP) with interconnection and damping assignment passivity-based control (IDA-PBC) is proposed. For underactuated systems, nonlinear partial differential equations (PDEs) must be solved to derive the IDA-PBC and it is a difficult task in general. However, this study shows that the MIP can be properly described as a full actuated port-Hamiltonian system focusing only on the pendulum dynamics. The controller is derived without solving the PDEs. Although our controller is for only the pendulum part of the system, the translational acceleration can be indirectly controlled utilizing the relation between the inclination of the pendulum and the acceleration arising from instability of the system. The controller can achieve various properties through energy shaping procedure of the IDA-PBC. Especially an energy function which will lead to safe operation of the MIP is proposed in this study. The function ensures that motion of the pendulum is restricted in a predefined region and converges to a desired pendulum angle. The controller also gets the pendulum back to the desired angle with a large state-dependent gain when the pendulum comes close to fall over. Effectiveness of the controller is verified through simulations.
@@ -33,7 +33,7 @@ A nonlinear controller for accelerating a mobile inverted pendulum (MIP) with in
   number={788},
   journal={TRANSACTIONS OF THE JAPAN SOCIETY OF MECHANICAL ENGINEERS Series C},
   publisher={Japan Society of Mechanical Engineers},
-  author={YOKOYAMA, Kazuto},
+  author={YOKOYAMA, Kazuto and TAKAHASHI, Masaki},
   year={2012},
   pages={1097--1108}
 }

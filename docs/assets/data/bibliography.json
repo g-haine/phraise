@@ -376717,6 +376717,12 @@
               }
             ]
           }
+        },
+        {
+          "given": "Masaki",
+          "family": "TAKAHASHI",
+          "literal": null,
+          "source_fields": {}
         }
       ],
       "abstract": "A nonlinear controller for accelerating a mobile inverted pendulum (MIP) with interconnection and damping assignment passivity-based control (IDA-PBC) is proposed. For underactuated systems, nonlinear partial differential equations (PDEs) must be solved to derive the IDA-PBC and it is a difficult task in general. However, this study shows that the MIP can be properly described as a full actuated port-Hamiltonian system focusing only on the pendulum dynamics. The controller is derived without solving the PDEs. Although our controller is for only the pendulum part of the system, the translational acceleration can be indirectly controlled utilizing the relation between the inclination of the pendulum and the acceleration arising from instability of the system. The controller can achieve various properties through energy shaping procedure of the IDA-PBC. Especially an energy function which will lead to safe operation of the MIP is proposed in this study. The function ensures that motion of the pendulum is restricted in a predefined region and converges to a desired pendulum angle. The controller also gets the pendulum back to the desired angle with a large state-dependent gain when the pendulum comes close to fall over. Effectiveness of the controller is verified through simulations.",
@@ -376801,6 +376807,12 @@
               }
             ]
           }
+        },
+        {
+          "given": "Masaki",
+          "family": "TAKAHASHI",
+          "literal": null,
+          "source_fields": {}
         }
       ],
       "abstract": "A nonlinear controller for accelerating a mobile inverted pendulum (MIP) with a center of gravity moving mechanism is proposed. The controller shapes the total energy of the system and utilizes instability of the MIP for acceleration. The body angle and the displacement are controlled to keep statically unstable but dynamically stable states. The intentional destabilization leads to indirect control of translational acceleration. The total energy of the system is shaped such that the energy becomes minimum at given desired states, and the system is controlled to converge to them. To derive the energy shaping controller, the system has to be described as a port-Hamiltonian (PH) system. In this study the MIP is shown to be appropriately described as a PH system and the controller is obtained. It can achieve various control properties through the energy shaping procedure. Especially an energy function that will lead to safe operation of the MIP is proposed. The function ensures that motion of the MIP is restricted within predefined regions, and converges to the desired states. The controller also returns the system back to the desired states with state-dependent gains that become large if the MIP comes close to fall over. Effectiveness of the proposed controller and utilization of instability for the MIP with a center of gravity moving mechanism are verified through simulations.",
