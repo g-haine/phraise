@@ -199,6 +199,10 @@ bibreview backfill --apply
 Provider values are only proposals. The resolver requires an explicit human
 decision for every candidate. Accepted/custom values alone reach
 `collected.json`; existing meaningful canonical fields are never replaced.
+BibReview v1.6.13 batches exact multi-DOI backfill lookups where supported:
+CrossRef work metadata in groups of up to 25 DOI values, OpenAlex abstract
+fallback in groups of up to 100, and Semantic Scholar abstract fallback in
+groups of up to 500; publisher enrichment and Mendeley remain per DOI.
 BibReview v1.6.13 also allows scalar-field backfill from partial provider records:
 an abstract proposal no longer depends on unrelated provider authors, editors, or
 creation dates being present. Normal collection of new canonical publications
