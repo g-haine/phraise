@@ -11,7 +11,7 @@ category: chapters
 [Manel Atitallah](authors/manel-atitallah), [Rafika El Harabi](authors/rafika-el-harabi), [Mohamed Naceur Abdelkrim](authors/mohamed-naceur-abdelkrim)
  
 ## Abstract
-
+This paper deals with a novel diagnosis framework for robust fault detection and estimation purposes by combining an ordinary Unknown Input Observer (UIO) with the port-Hamiltonian formalism. Based on energy aspect, the full order Unknown Input Hamiltonian Observer (UIHO) design scheme guarantees robust residual generation through decoupling the disturbances effects from the fault ones. The fault estimation is, then, allowed by an algebraic transformation taking into account co-energy variables. Finally, simulation tests on ladder networks illustrate the effectiveness of the theoretical development.
  
 ## Citation
 - **ISBN:** 9783110591729

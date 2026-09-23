@@ -11,7 +11,7 @@ category: proceedings
 [Xiaoyang Song](authors/xiaoyang-song), [Haisheng Yu](authors/haisheng-yu), [Jinpeng Yu](authors/jinpeng-yu), [Herong Wu](authors/herong-wu)
  
 ## Abstract
-
+According to the multivariable and strong coupling characteristics of back-to-back converters and induction motors, In this paper, the four quadrant operation and bidirectional energy flow of induction motor are studied by combining sliding mode control and port controlled Hamilton (PCH) system theory. First of all, the external loop controller of voltage, speed and flux is established by sliding mode control theory; Then, the PCH system theory is used to obtain the current inner loop controller. On this basis, after the DC bus voltage is steady, start the motor side operation, so that the induction motor can start stably. Simulation results show that the proposed design can achieve the goal of DC bus voltage stability, the grid side unity power factor, and the four quadrant operation of induction motor.
  
 ## Citation
 - **Journal:** 2017 Chinese Automation Congress (CAC)

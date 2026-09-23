@@ -11,7 +11,7 @@ category: proceedings
 [Daniel A. Dirksz](authors/daniel-a-dirksz), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
-
+In this paper we take a port-Hamiltonian approach to address the problem of image-based visual servo control of a pick and place system. We realize a closed-loop system, including the nonlinear camera dynamics, which is port-Hamiltonian. Although the closed-loop system is nonlinear, the resulting controller is a PD-type controller which only requires the camera states. From the passivity property of port-Hamiltonian systems we then derive conditions for exponential stability of the closed-loop system, which are used to tune the PD controller gains. © 2012 IEEE.
  
 ## Citation
 - **Journal:** 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)

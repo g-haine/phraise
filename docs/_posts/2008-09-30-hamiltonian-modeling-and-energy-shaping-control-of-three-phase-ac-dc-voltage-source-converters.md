@@ -11,7 +11,7 @@ category: proceedings
 [Yuliang Tang](authors/yuliang-tang), [Haisheng Yu](authors/haisheng-yu), [Zongwei Zou](authors/zongwei-zou)
  
 ## Abstract
-
+Appling energy-shaping and port-controlled Hamilton (PCH) control principle, the model and control of the three-phase boost-type pulse-width modulated (PWM) ac/dc converters are presented in this paper. First of all, a PCH model of the three-phase PWM ac/dc converters is established in the d-q rotation frames. Then, according to the target of the controller design, the desired equilibrium point of the system is obtained. The PCH feedback control method of the three-phase PWM ac/dc converters is given based on the energy-shaping theory and the controller is designed through interconnection and damping assignment. Moreover, an integrate controller is designed to eliminate the steady-state error in dc-bus voltage. The simulation results show that the output dc voltage stabilizes on the desired value, while the input power factors stays unitary. © 2008 IEEE.
  
 ## Citation
 - **Journal:** 2008 IEEE International Conference on Automation and Logistics

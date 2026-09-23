@@ -11,7 +11,7 @@ category: proceedings
 [Samuel Widman](authors/samuel-widman), [Ian Willebeek-LeMair](authors/ian-j-willebeek-lemair), [Craig A. Woolsey](authors/craig-a-woolsey)
  
 ## Abstract
-
+This paper presents a flight control law that leverages the structure of fixed-wing aircraft flight dynamics to obtain input-to-state stability, impose a port-Hamiltonian structure on the closed-loop system, and ensure that the closed-loop system is robust to disturbances and model uncertainty. The control approach is compared with two alternatives -- linear-quadratic optimal control and nonlinear dynamic inversion -- to illustrate the practical advantages implied by the theoretical guarantees and some limitations. The three controllers are compared using individual simulations of a nonlinear model for an uncrewed aircraft, including exogenous disturbances and model uncertainty. Further, two simulation studies were performed to analyze the specific impact of flight-based, realistic stochastic disturbances. The new flight control law performed as expected, and usually better than both alternatives. The simulations demonstrate an expected shortcoming of the nonlinear design: sensitivity to disturbances outside of the design uncertainty class. Future work includes investigating alternative formulations of the robust port-Hamiltonian controller and a transition to flight test.
  
 ## Citation
 - **Journal:** AIAA SCITECH 2026 Forum

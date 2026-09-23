@@ -11,7 +11,7 @@ category: articles
 [Min Wang](authors/min-wang), [Yanhong Liu](authors/yanhong-liu), [Qi Wang](authors/qi-wang), [Patrick Wheeler](authors/patrick-wheeler)
  
 ## Abstract
-
+To ensure overcurrent protection, fast dynamic performance and good robustness, a novel speed regulation controller is proposed. The interconnection and damping assignment passivity-based control (IDA-PBC) of Port-controlled Hamiltonian (PCH) systems has the advantages of simple structure and explicit physical meaning. On account of fast dynamic performance and q-axis current-constraint are contradictory, this paper presents a current-constraint speed regulation method for the permanent magnet synchronous motor (PMSM) based on port-controlled Hamiltonian (PCH) realization and deep deterministic policy gradient (DDPG) to balance them. First, a modified IDA-PBC controller with integral action(IA) is constructed, which can regulate the speed and the current of the PMSM simultaneously, and be more suitable for practical applications due to the addition of IA. For both current-constraint and fast dynamic performance, the reinforcement learning of DDPG is utilized to find the optimal parameters of the controller. Finally, experiments are carried out to verify the effectiveness and robustness of the method.
  
 ## Citation
 - **Journal:** IEICE Electronics Express

@@ -11,7 +11,7 @@ category: articles
 [Jianwu Zeng](authors/jianwu-zeng), [Zhe Zhang](authors/zhe-zhang), [Wei Qiao](authors/wei-qiao)
  
 ## Abstract
-
+This paper proposes an adaptive interconnection and damping assignment (IDA) passivity-based controller (PBC) with a complementary proportional integral (PI) controller for dc-dc boost converters with constant power loads (CPLs). The plant is modeled as a port-controlled Hamiltonian system (PCHS). A virtual circuit that interprets the parameters of the PCHS is then derived to determine the parameters of the IDA-PBC for the system to work in the underdamping, critical-damping, and overdamping modes. Moreover, a complementary PI controller is designed to eliminate the steady-state output voltage error of the IDA-PBC caused by the load variation. Simulation studies are carried out in MATLAB/Simulink to validate the proposed control algorithm for a dc-dc boost converter with a CPL; results show that the proposed control algorithm ensures the stability and fast response of the system in different modes when the load changes. Experimental results are provided to further validate the design and simulation of the proposed control algorithm. © 2013 IEEE.
  
 ## Citation
 - **Journal:** IEEE Transactions on Industry Applications

@@ -11,7 +11,7 @@ category: books
 [Birgit Jacob](authors/birgit-jacob), [Hans J. Zwart](authors/hans-j-zwart)
  
 ## Abstract
-
+This book provides a self-contained introduction to the theory of infinite-dimensional systems theory and its applications to port-Hamiltonian systems. The textbook starts with elementary known results, then progresses smoothly to advanced topics in current research. Many physical systems can be formulated using a Hamiltonian framework, leading to models described by ordinary or partial differential equations. For the purpose of control and for the interconnection of two or more Hamiltonian systems it is essential to take into account this interaction with the environment. This book is the first textbook on infinite-dimensional port-Hamiltonian systems. An abstract functional analytical approach is combined with the physical approach to Hamiltonian systems. This combined approach leads to easily verifiable conditions for well-posedness and stability. The book is accessible to graduate engineers and mathematicians with a minimal background in functional analysis. Moreover, the theory is illustrated by many worked-out examples.
  
 ## Citation
 - **ISBN:** 9783034803984

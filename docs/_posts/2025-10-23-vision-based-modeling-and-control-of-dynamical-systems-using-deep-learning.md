@@ -11,7 +11,7 @@ category: articles
 [Tomoya YOSHIOKA](authors/tomoya-yoshioka), [Yusuke SASAKI](authors/yusuke-sasaki), [Haohui JIA](authors/haohui-jia), [Takashi MATSUBARA](authors/takashi-matsubara)
  
 ## Abstract
-
+This paper introduces a latent port-Hamiltonian framework using deep learning to improve the robustness for vision-based control. Although reinforcement learning and deep learning are promising solutions to control system states with differentiable policies, physics-free methods usually suffer from unstable and low-confident results with respect to the system dynamics. We propose a vision-based control architecture by employing a port-Hamiltonian model in the latent space of autoencoder (AE) to achieve physically consistent control. Specifically, we apply a variational autoencoder (VAE) to encode visual observations into a low-dimensional latent space, where the port-Hamiltonian energy structure is learned. Moreover, we introduce AI-Pontryagin, which generates control signals similar to optimal control inputs through a neural network inspired by optimal control theory. The experimental results show that our method achieves more accurate and stable control performance compared to baseline approaches.
  
 ## Citation
 - **Journal:** IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences

@@ -11,7 +11,7 @@ category: articles
 [Gou NISHIDA](authors/gou-nishida), [Masaki YAMAKITA](authors/masaki-yamakita)
  
 ## Abstract
-
+This paper studies a higher order extension of Stokes-Dirac structures.The Stokes-Dirac structure is defined by differential forms on a spatial domain of systems and its boundary.The structure has a power-conserving property, that is the change of the interior energy is equal to the power supplied to the system through the boundary.The Stokes-Dirac structure is used for port-Hamiltonian formulations of distributed-parameter systems mainly.The higher order representation does not only use exterior derivative operators, but also both Hodge star operators and their composite operators to relate flows to efforts.The extended structure expresses differential relations between energy variables, and global properties of systems through harmonic forms.First, some mathematical preparations are introduced to define the higher order energy variables and the arbitrariness of the representation is explained.Next, three types of the higher order Stokes-Dirac structures are proposed.Finally, two examples: Euler-Bernoulli beam models and Electromagnetic wave equations are presented.
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

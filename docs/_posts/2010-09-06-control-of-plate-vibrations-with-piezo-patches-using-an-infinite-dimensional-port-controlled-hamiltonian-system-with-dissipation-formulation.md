@@ -11,7 +11,7 @@ category: proceedings
 [T. Rittenschober](authors/thomas-rittenschober), [K. Schlacher](authors/kurt-schlacher)
  
 ## Abstract
-
+This paper presents a self-sensing approach for the control of smart structures with piezoelectric actuators. The mechanical model of a Kirchhoff plate with two patches is rewritten in form of an infinite dimensional Port Controlled Hamiltonian System with Dissipation. Our design is based on the pairing of the input with the so called collocated output, where we achieve collocation by self-sensing. We propose an approximate observer for the electric current due to the direct piezoelectric effect. The control design goal is the asymptotic suppression of harmonic disturbances. The control law is derived for the plant augmented by an appropriate exosystem. The stability investigations for the infinite dimensional system are based on the concept of L2-stability and the small gain theorem. © Civil-Comp Press, 2010.
  
 ## Citation
 - **Journal:** Civil-Comp Proceedings

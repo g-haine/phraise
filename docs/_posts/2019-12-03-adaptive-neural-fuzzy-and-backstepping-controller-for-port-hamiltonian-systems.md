@@ -11,7 +11,7 @@ category: articles
 [Ahmad Taher Azar](authors/ahmad-taher-azar), [Fernando E. Serrano](authors/fernando-e-serrano), [Marco A. Flores](authors/marco-a-flores), [Sundarapandian Vaidyanathan](authors/sundarapandian-vaidyanathan), [Quanmin Zhu](authors/quanmin-zhu)
  
 ## Abstract
-
+In this paper, a novel control strategy is shown for the stabilisation of dynamic systems in the form of port-Hamiltonian systems. This hybrid approach composed by a neural fuzzy and backstepping controller is implemented to stabilise the port-Hamiltonian system by dividing it into two blocks in order to separate the variables and yield an efficient control strategy. The proposed control strategy consists of a hybrid approach formed by a neural fuzzy and backstepping controller. The neural-fuzzy controller consists of two steps: an offline training implementing a gradient descent algorithm and an online training by a Lyapunov stability approach. The backstepping controller is designed by a recursive method considering the port- Hamiltonian system properties and implementing a Lyapunov stability approach. Along with the proposed control strategy, a neural-fuzzy observer is implemented to estimate the port- Hamiltonian system states considering the properties of the system representation. Finally, a cart pendulum example is shown to verify the effectiveness of the proposed observer and controller along with a comparative analysis.
  
 ## Citation
 - **Journal:** International Journal of Computer Applications in Technology

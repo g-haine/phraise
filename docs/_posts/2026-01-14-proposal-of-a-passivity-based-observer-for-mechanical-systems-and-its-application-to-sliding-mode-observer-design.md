@@ -11,7 +11,7 @@ category: articles
 [Fumiya Aono](authors/fumiya-aono), [Naoki Sakata](authors/naoki-sakata), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta)
  
 ## Abstract
-
+This paper proposes a novel passivity-based full-order observer for mechanical port-Hamiltonian (pH) systems. We demonstrate its applicability in designing second-order sliding mode observers. Observer design can be broadly categorized into two types: minimal-order and full-order observers. While minimal-order observers prioritize reducing complexity, full-order observers provide greater design flexibility, enabling the realization of various observer structures to meet specific requirements. For mechanical pH systems, this work proposes a full-order observer, where the dynamics of the estimation error between the observer states and the plant states are represented as a Hamiltonian system. This design offers significant flexibility, facilitating the implementation of diverse observer types. Notably, this flexibility allows us to design an observer with estimation error dynamics achieving second-order sliding mode behavior and finite-time convergence. The effectiveness of the proposed method is demonstrated through a numerical example.
  
 ## Citation
 - **Journal:** Transactions of the Institute of Systems, Control and Information Engineers

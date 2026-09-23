@@ -11,7 +11,7 @@ category: articles
 [Guozhen Jiang](authors/guozhen-jiang), [Cheng Jin](authors/cheng-jin), [Chaoyong Qu](authors/chaoyong-qu)
  
 ## Abstract
-
+An adaptive optimal control algorithm based on the Port-Controlled Hamiltonian with Dissipation (PCHD) model is proposed to address reduced inertia and complex nonlinear dynamics in power systems with high renewable penetration. It uses forgetting-factor recursive least squares (RLS) for online identification of time-varying parameters to build an accurate nonlinear model. A bottom-layer Interconnection and Damping Assignment Passivity-Based Control (IDA-PBC) ensures stabilization, while an upper-layer nonlinear model predictive control (NMPC) performs multi-objective rolling optimization, dynamically adjusting the equilibrium point and damping parameters to enhance system stability and economic performance. MATLAB/Simulink simulation results show that, compared with traditional PI control and IDA-PBC with fixed parameters, the proposed algorithm can reduce the maximum frequency deviation to −0.45 Hz, shorten the frequency recovery time to 4.2s, and reduce the ITAE index by 77%, while achieving the optimal power generation cost, which verifies its adaptability and robustness in transient stability control.
  
 ## Citation
 - **Journal:** IET Conference Proceedings

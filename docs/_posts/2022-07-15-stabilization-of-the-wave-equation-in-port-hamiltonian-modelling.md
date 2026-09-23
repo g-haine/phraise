@@ -11,7 +11,7 @@ category: proceedings
 [Birgit Jacob](authors/birgit-jacob), [Nathanael Skrepek](authors/nathanael-skrepek)
  
 ## Abstract
-
+We investigate the stability of the wave equation with spatial dependent coefficients on a bounded multidimensional domain.The system is stabilized via a scattering passive feedback law.We formulate the wave equation in a port-Hamiltonian fashion and show that the system is semi-uniformly stable.The authors are working in the ITN network ConFlex.
  
 ## Citation
 - **Journal:** MATHMOD 2022 Discussion Contribution Volume

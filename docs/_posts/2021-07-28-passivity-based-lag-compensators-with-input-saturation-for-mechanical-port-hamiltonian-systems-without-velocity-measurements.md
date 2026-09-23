@@ -11,7 +11,7 @@ category: proceedings
 [Kiyoshi Hamada](authors/kiyoshi-hamada), [Pablo Borja](authors/luis-pablo-borja), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen), [Kenji Fujimoto](authors/kenji-fujimoto), [Ichiro Maruta](authors/ichiro-maruta)
  
 ## Abstract
-
+In this work, we propose a passivity-based control technique, where the resulting controllers can be interpreted as lag-compensators for nonlinear mechanical systems described in the port-Hamiltonian framework. The proposed methodology considers a dynamic controller such that the relationship between the control input and the error signal of interest can be expressed in terms of a transfer function. Accordingly, the control gains can be tuned through a frequency analysis approach. Additionally, two practical advantages of the resulting controllers are that they do not require velocity measurements, and they can cope with input saturation. We illustrate the applicability of the proposed methodology through the stabilization of a planar manipulator, where the experimental results corroborate the effectiveness of the technique.
  
 ## Citation
 - **Journal:** 2021 American Control Conference (ACC)

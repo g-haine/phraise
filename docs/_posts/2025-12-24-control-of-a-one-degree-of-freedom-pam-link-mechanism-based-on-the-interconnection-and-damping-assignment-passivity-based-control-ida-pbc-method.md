@@ -11,7 +11,7 @@ category: articles
 [Qianjun Sun](authors/qianjun-sun), [Hiroaki Tanaka](authors/hiroaki-tanaka), [Hayato Hirai](authors/hayato-hirai), [Junqi Wang](authors/junqi-wang), [Koh Hosoda](authors/koh-hosoda)
  
 ## Abstract
-
+In industrial automation, pneumatic artificial muscles (PAMs) are gaining attention due to their flexibility, light weight, and biomimetic properties. However, PAMs exhibit nonlinearity caused mainly by friction between the sleeve and inner tube, making conventional PD control insufficient for ensuring stability and robustness in nonlinear PAM systems. This study addresses PAM nonlinearity by designing a control law using the IDA-PBC method and evaluating its stability and robustness. IDA-PBC, proposed by Ortega et al., leverages energy-preserving port-Hamiltonian systems to handle nonlinearities and enhance robustness. Experiments on a real system validate the effectiveness of IDA-PBC by demonstrating precise trajectory tracking and strong disturbance rejection.
  
 ## Citation
 - **Journal:** The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec)

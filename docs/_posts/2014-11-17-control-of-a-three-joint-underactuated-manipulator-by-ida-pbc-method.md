@@ -11,7 +11,7 @@ category: articles
 [Masahide ITO](authors/masahide-ito), [Naohiro TODA](authors/naohiro-toda)
  
 ## Abstract
-
+We present an application of Interconnection and Damping Assignment Passivity-Based Control (IDA-PBC) method to an underactuated manipulator with the third joint unactuated which is subject to second-order nonholonomic constraints. We give a port-Hamiltonian representation of the manipulator system by selecting an appropriate set of generalized coordinates and applying a global input transformation. And we clarify the applicable conditions and design an inertia matrix and a potential energy function of the closed Hamiltonian system. Numerical experiments are given to show the validity of the derived controller.
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

@@ -11,7 +11,7 @@ category: proceedings
 [Weiwei Sun](authors/weiwei-sun), [Zongli Lin](authors/zongli-lin), [Yuzhen Wang](authors/yuzhen-wang)
  
 ## Abstract
-
+This paper considers the stabilization problem for a port-controlled Hamiltonian system subject to actuator saturation and input additive external disturbances. Conditions are identified under which a static output feedback law would achieve global asymptotic stabilization. Under some additional growth conditions on the nonlinear functions involved in the system, the same feedback law would also achieve finite gain L2 stabilization. In establishing these results, an estimate of the finite gain is also obtained. © 2009 AACC.
  
 ## Citation
 - **Journal:** 2009 American Control Conference

@@ -11,7 +11,7 @@ category: proceedings
 [K. Fujimoto](authors/kenji-fujimoto), [K. Sakurama](authors/kazunori-sakurama), [T. Sugie](authors/toshiharu-sugie)
  
 ## Abstract
-
+Concerns trajectory tracking control of port-controlled Hamiltonian systems based on generalized canonical transformations. A tracking control method for those systems utilizing the passivity property is proposed. First it is shown how to construct an error system, which describes the dynamics of the tracking error, by a passive port-controlled Hamiltonian system. Then tracking control of the original system can be achieved by stabilizing the error system via passivity based approach. Furthermore, we apply this method to a magnetic levitation system. Experimental evaluation demonstrates the effectiveness of the proposed method.
  
 ## Citation
 - **Journal:** Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228)

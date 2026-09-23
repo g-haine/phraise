@@ -11,7 +11,7 @@ category: proceedings
 [D. Sharma](authors/d-sharma), [Guomin Ji](authors/guomin-ji), [Wanghao Fei](authors/wanghao-fei), [Di Wu](authors/di-wu), [P. Moses](authors/p-moses), [J.N. Jiang](authors/j-n-jiang)
  
 ## Abstract
-
+The structural analysis of power systems is an important approach and has the ability to address various issues, particularly, dynamic and transient real-time issues and identification of critical components. In this paper, we provide analytical foundations of structural analysis by reviewing power system representation from various perspectives, such as steady-state, electromagnetic transient and electro-mechanical dynamic perspectives. In addition, we find that these types of models, which from an electric circuit theory perspective may differ with change in applications, demonstrate an embedded consistency from structure perspective. Such formulation is based on port-Hamiltonian approach which represents the energy flow. Moreover, a summary of the characteristics of analytical foundation of structural analysis related to the connection information and link strength are also provided.
  
 ## Citation
 - **Journal:** Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2018)

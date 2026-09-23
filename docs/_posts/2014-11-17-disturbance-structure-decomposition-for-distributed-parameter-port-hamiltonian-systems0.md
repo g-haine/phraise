@@ -11,7 +11,7 @@ category: articles
 [Gou NISHIDA](authors/gou-nishida), [Masaki YAMAKITA](authors/masaki-yamakita)
  
 ## Abstract
-
+In this paper, a structure decomposition of disturbances for distributed parameter port-Hamiltonian systems is presented. The distributed parameter port-Hamiltonian system is defined by a Stokes-Dirac structure. The Stokes-Dirac structure has been extended to a structure of the distributed energy that is exchanged on the internal domain besides the supplied energy through the boundary. On the other hand, if the system exists on a contractible region: in other words, it has the same homotopy type as a one point, then the de Rham cohomology of contractible manifolds is trivial. Then any differential form on a contractible region can be decomposed into an exact form and a dual exact form. As a result, these forms correspond to the boundary energy structure and the distributed energy structure, respectively. First, we show that any disturbance can be decomposed into a boundary energy structure and a distributed energy structure. Next, the system representation is given through the decomposition. Finally, one physical example is presented.
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

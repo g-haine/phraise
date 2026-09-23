@@ -11,7 +11,7 @@ category: proceedings
 [Jean-Michel W. Fahmi](authors/jean-michel-w-fahmi), [Craig A. Woolsey](authors/craig-a-woolsey)
  
 ## Abstract
-
+The three-dimensional rectilinear path following problem is addressed for a quadrotor vehicle whose propellers provide vertical thrust, and control moments in roll, pitch, and yaw. The vehicle's equations of motion are recast as a port-Hamiltonian system. The control design proceeds in stages, beginning with a particle dynamic model and backstepping to a rigid body dynamic model. At each stage, a control law reshapes potential energy through feedback. Conditions for asymptotic stability are derived by applying Lyapunov’s direct method to a control Lyapunov function constructed from the control-modified energy and other conserved quantities.
  
 ## Citation
 - **Journal:** AIAA Scitech 2021 Forum

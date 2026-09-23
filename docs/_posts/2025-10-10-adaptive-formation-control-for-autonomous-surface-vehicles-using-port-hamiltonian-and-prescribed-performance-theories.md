@@ -11,7 +11,7 @@ category: proceedings
 [Kun Xie](authors/kun-xie), [Huahuan Wang](authors/huahuan-wang), [Weidong Zhang](authors/weidong-zhang), [Zehua Jia](authors/zehua-jia)
  
 ## Abstract
-
+This paper addresses the decentralized leader-follower formation control problem for autonomous surface vehicles (ASVs) in the presence of model uncertainties and unknown disturbances. An adaptive passivity-based control method is proposed by synergistically integrating the interconnection and damping assignment technique with the prescribed performance control (PPC). By integrating the PPC technique into the Port-Hamiltonian (PH) framework, the proposed method can achieve the inter-vehicle collision avoidance while holding the intuitive design advantage that benefits from the PH theory. To enhance the system robustness, a structure-preserving adaptive law is developed to compensate for disturbances and model uncertainties while preserving the PH system structure. Simulations are conducted to validate the effectiveness of the proposed method.
  
 ## Citation
 - **Journal:** 2025 44th Chinese Control Conference (CCC)

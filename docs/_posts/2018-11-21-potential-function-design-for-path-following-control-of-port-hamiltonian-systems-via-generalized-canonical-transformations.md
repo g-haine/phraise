@@ -11,7 +11,7 @@ category: articles
 [Yuki OKURA](authors/yuki-okura), [Kenji FUJIMOTO](authors/kenji-fujimoto), [Akio SAITO](authors/akio-saito), [Hidetoshi IKEDA](authors/hidetoshi-ikeda)
  
 ## Abstract
-
+This paper describes a procedure to design potential functions for path following control of port-Hamiltonian systems. The conventional path following control method needs to find a time invariant potential function which takes its minimum on the desired path. It is difficult to find such a function for a complex path, since it has to satisfy additional several constraints. Inspired by the results of the existing trajectory tracking control method of port-Hamiltonian systems, we propose an improved path following control method in which a potential function for path following control is acquired by solving simple partial differential equations.
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

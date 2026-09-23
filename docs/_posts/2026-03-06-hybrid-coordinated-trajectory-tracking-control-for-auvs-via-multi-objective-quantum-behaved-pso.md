@@ -11,7 +11,7 @@ category: articles
 [Pei Zhou](authors/pei-zhou), [Haonan Chen](authors/haonan-chen), [Yun Chen](authors/yun-chen), [Jianjun Bai](authors/jianjun-bai), [Yunfei Guo](authors/yunfei-guo)
  
 ## Abstract
-
+To deal with the trajectory tracking control (TTC) problem of an autonomous underwater vehicle (AUV) under oceanic current disturbances, this article proposes a hybrid coordinated control (HCC) method and the multi-objective optimisation issue is solved correspondingly. First, a double-loop integral sliding mode controller (ISMC) is designed, which exhibits excellent fast-response performance but poor steady-state feature. Meanwhile, a state error port-controlled Hamiltonian (SEPCH) controller is formulated, demonstrating relatively poor response speed while maintaining good steady-state characteristics. Subsequently, the hybrid control strategy by combining double-loop ISMC and SEPCH controller is constructed through a weighted model. Moreover, the weighting coefficients involving three performance indices related to tracking error, energy and time can be intelligently optimised by means of multi-objective quantum-behaved particle swarm optimisation (MOQBPSO) technique. Then, a reduced-order extended state observer (ESO) is introduced to enhance the control accuracy in the presence of time-varying disturbances from external surroundings. Two simulation scenarios demonstrate the validity of the proposed method.
  
 ## Citation
 - **Journal:** International Journal of Systems Science

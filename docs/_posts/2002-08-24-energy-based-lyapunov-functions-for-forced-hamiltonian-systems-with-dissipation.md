@@ -11,7 +11,7 @@ category: articles
 [B. Maschke](authors/bernhard-maschke), [R. Ortega](authors/romeo-ortega), [A.J. Van Der Schaft](authors/arjan-j-van-der-schaft)
  
 ## Abstract
-
+In this paper, we propose a constructive procedure to modify the Hamiltonian function of forced Hamiltonian systems with dissipation in order to generate Lyapunov functions for nonzero equilibria. A key step in the procedure, which is motivated from energy-balance considerations standard in network modeling of physical systems, is to embed the system into a larger Hamiltonian system for which a series of Casimir functions can be easily constructed. Interestingly enough, for linear systems the resulting Lyapunov function is the incremental energy; thus our derivations provide a physical explanation to it. An easily verifiable necessary and sufficient condition for the applicability of the technique in the general nonlinear case is given. Some examples that illustrate the method are given.
  
 ## Citation
 - **Journal:** IEEE Transactions on Automatic Control
