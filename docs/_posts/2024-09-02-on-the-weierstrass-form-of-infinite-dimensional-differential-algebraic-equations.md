@@ -18,7 +18,7 @@ The solvability for infinite-dimensional differential algebraic equations posses
 - **Year:** 2024
 - **Volume:** 24
 - **Issue:** 4
-- **Pages:** 
+- **Pages:** 73
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s00028-024-01003-3](https://doi.org/10.1007/s00028-024-01003-3)
  
@@ -34,6 +34,7 @@ The solvability for infinite-dimensional differential algebraic equations posses
   journal={Journal of Evolution Equations},
   publisher={Springer Science and Business Media LLC},
   author={Erbay, Mehmet and Jacob, Birgit and Morris, Kirsten},
+  pages={73},
   year={2024}
 }
 {% endraw %}

@@ -18,7 +18,7 @@ IntroductionUpper-limb rehabilitation robots have been demonstrated to effective
 - **Year:** 2025
 - **Volume:** 13
 - **Issue:** 
-- **Pages:** 
+- **Pages:** 1609548
 - **Publisher:** Frontiers Media SA
 - **DOI:** [10.3389/fbioe.2025.1609548](https://doi.org/10.3389/fbioe.2025.1609548)
  
@@ -33,6 +33,7 @@ IntroductionUpper-limb rehabilitation robots have been demonstrated to effective
   journal={Frontiers in Bioengineering and Biotechnology},
   publisher={Frontiers Media SA},
   author={Li, Jingjing and Chen, Zhen and Li, Jian and Yan, Hongyu and Li, Zhen and Feng, Minshan and Zhan, Jiawen and Shao, Liwei},
+  pages={1609548},
   year={2025}
 }
 {% endraw %}

@@ -18,7 +18,7 @@ In this paper, we develop an energy-based dynamical system model driven by a Mar
 - **Year:** 2023
 - **Volume:** 381
 - **Issue:** 2256
-- **Pages:** 
+- **Pages:** 20220284
 - **Publisher:** The Royal Society
 - **DOI:** [10.1098/rsta.2022.0284](https://doi.org/10.1098/rsta.2022.0284)
  
@@ -34,6 +34,7 @@ In this paper, we develop an energy-based dynamical system model driven by a Mar
   journal={Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences},
   publisher={The Royal Society},
   author={Lanchares, Manuel and Haddad, Wassim M.},
+  pages={20220284},
   year={2023}
 }
 {% endraw %}

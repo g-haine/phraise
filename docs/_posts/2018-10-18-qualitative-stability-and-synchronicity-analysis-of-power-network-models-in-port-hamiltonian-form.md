@@ -18,7 +18,7 @@ In view of highly decentralized and diversified power generation concepts, in pa
 - **Year:** 2018
 - **Volume:** 28
 - **Issue:** 10
-- **Pages:** 
+- **Pages:** 101102
 - **Publisher:** AIP Publishing
 - **DOI:** [10.1063/1.5054850](https://doi.org/10.1063/1.5054850)
  
@@ -34,6 +34,7 @@ In view of highly decentralized and diversified power generation concepts, in pa
   journal={Chaos: An Interdisciplinary Journal of Nonlinear Science},
   publisher={AIP Publishing},
   author={Mehrmann, Volker and Morandin, Riccardo and Olmi, Simona and Schöll, Eckehard},
+  pages={101102},
   year={2018}
 }
 {% endraw %}

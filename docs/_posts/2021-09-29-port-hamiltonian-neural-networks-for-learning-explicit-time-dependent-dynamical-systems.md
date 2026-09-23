@@ -18,7 +18,7 @@ Accurately learning the temporal behavior of dynamical systems requires models w
 - **Year:** 2021
 - **Volume:** 104
 - **Issue:** 3
-- **Pages:** 
+- **Pages:** 034312
 - **Publisher:** American Physical Society (APS)
 - **DOI:** [10.1103/physreve.104.034312](https://doi.org/10.1103/physreve.104.034312)
  
@@ -34,6 +34,7 @@ Accurately learning the temporal behavior of dynamical systems requires models w
   journal={Physical Review E},
   publisher={American Physical Society (APS)},
   author={Desai, Shaan A. and Mattheakis, Marios and Sondak, David and Protopapas, Pavlos and Roberts, Stephen J.},
+  pages={034312},
   year={2021}
 }
 {% endraw %}
