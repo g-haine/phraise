@@ -26,7 +26,7 @@ Port-Hamiltonian; Dirac structures; Bundle-valued forms; Exterior calculus
 - **Year:** 2025
 - **Volume:** 35
 - **Issue:** 2
-- **Pages:** 
+- **Pages:** 35
 - **Publisher:** Springer Science and Business Media LLC
 - **DOI:** [10.1007/s00332-025-10130-1](https://doi.org/10.1007/s00332-025-10130-1)
  
@@ -42,6 +42,7 @@ Port-Hamiltonian; Dirac structures; Bundle-valued forms; Exterior calculus
   journal={Journal of Nonlinear Science},
   publisher={Springer Science and Business Media LLC},
   author={Rashad, Ramy and Stramigioli, Stefano},
+  pages={35},
   year={2025}
 }
 {% endraw %}

@@ -18,7 +18,7 @@ In this article, we propose a model for a stand-alone hybrid distributed generat
 - **Year:** 2024
 - **Volume:** 11
 - **Issue:** 7
-- **Pages:** 
+- **Pages:** 230458
 - **Publisher:** The Royal Society
 - **DOI:** [10.1098/rsos.230458](https://doi.org/10.1098/rsos.230458)
  
@@ -34,6 +34,7 @@ In this article, we propose a model for a stand-alone hybrid distributed generat
   journal={Royal Society Open Science},
   publisher={The Royal Society},
   author={Manohar, Rutvika and Hikihara, Takashi},
+  pages={230458},
   year={2024}
 }
 {% endraw %}
