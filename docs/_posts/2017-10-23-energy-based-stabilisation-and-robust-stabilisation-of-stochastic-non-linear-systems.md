@@ -1,5 +1,5 @@
 ---
-title: "Energy‐based stabilisation and  robust stabilisation of stochastic non‐linear systems"
+title: "Energy‐based stabilisation and H∞ robust stabilisation of stochastic non‐linear systems"
 date: 2017-10-23 00:00:00 +0100
 permalink: energy-based-stabilisation-and-robust-stabilisation-of-stochastic-non-linear-systems
 year: 2018
@@ -26,7 +26,7 @@ This study proposes a constructive stabilisation and <jats:inline-graphic xmlns:
 {% highlight bibtex %}
 {% raw %}
 @article{Liu_2018,
-  title={{Energy‐based stabilisation and  robust stabilisation of stochastic non‐linear systems}},
+  title={{Energy‐based stabilisation and H∞ robust stabilisation of stochastic non‐linear systems}},
   volume={12},
   ISSN={1751-8652},
   DOI={10.1049/iet-cta.2017.0392},

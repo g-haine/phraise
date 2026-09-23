@@ -1,5 +1,5 @@
 ---
-title: "Passivity-Based Control of Rigid Electrodynamic Tether"
+title: "Passivity-Based Control of a Rigid Electrodynamic Tether"
 date: 2010-12-21 00:00:00 +0100
 permalink: passivity-based-control-of-rigid-electrodynamic-tether
 year: 2011
@@ -26,7 +26,7 @@ Electrodynamic tethers provide actuation for performing orbit correction of spac
 {% highlight bibtex %}
 {% raw %}
 @article{Larsen_2011,
-  title={{Passivity-Based Control of Rigid Electrodynamic Tether}},
+  title={{Passivity-Based Control of a Rigid Electrodynamic Tether}},
   volume={34},
   ISSN={1533-3884},
   DOI={10.2514/1.50446},

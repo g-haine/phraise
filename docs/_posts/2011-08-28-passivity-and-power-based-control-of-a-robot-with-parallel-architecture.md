@@ -1,5 +1,5 @@
 ---
-title: "Passivity and Power Based Control of a Robot with Parallel Architecture*"
+title: "Passivity and Power Based Control of a Robot with Parallel Architecture"
 date: 2011-08-28 00:00:00 +0100
 permalink: passivity-and-power-based-control-of-a-robot-with-parallel-architecture
 year: 2011
@@ -32,7 +32,7 @@ parallel robot, passivity-based control, port-controlled hamiltonian model and p
 {% highlight bibtex %}
 {% raw %}
 @article{Neves_2011,
-  title={{Passivity and Power Based Control of a Robot with Parallel Architecture*}},
+  title={{Passivity and Power Based Control of a Robot with Parallel Architecture}},
   volume={44},
   ISSN={1474-6670},
   DOI={10.3182/20110828-6-it-1002.02168},

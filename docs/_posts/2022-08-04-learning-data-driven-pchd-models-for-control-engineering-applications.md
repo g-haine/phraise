@@ -1,5 +1,5 @@
 ---
-title: "Learning Data-Driven PCHD Models for Control Engineering Applications*"
+title: "Learning Data-Driven PCHD Models for Control Engineering Applications"
 date: 2022-08-04 00:00:00 +0100
 permalink: learning-data-driven-pchd-models-for-control-engineering-applications
 year: 2022
@@ -36,7 +36,7 @@ PCHD; passivity; hybrid modeling; system identification; nonlinear control
 {% highlight bibtex %}
 {% raw %}
 @article{Junker_2022,
-  title={{Learning Data-Driven PCHD Models for Control Engineering Applications*}},
+  title={{Learning Data-Driven PCHD Models for Control Engineering Applications}},
   volume={55},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2022.07.343},
