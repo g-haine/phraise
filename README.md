@@ -10,7 +10,7 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical DOI bibliography.
 
-PHRAISE currently pins **BibReview v1.6.10** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.6.11** for reproducible maintenance and
 continuous integration.
 
 ## Contributing new DOIs
@@ -123,7 +123,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.6.10**.
+The Conda environment contains Python 3.12 and **BibReview v1.6.11**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -173,7 +173,7 @@ guidance; no BibReview code change is required. Check the effective values with:
 bibreview providers
 ```
 
-With OpenAlex enabled in `bibreview.yml`, BibReview v1.6.10 uses it for three
+With OpenAlex enabled in `bibreview.yml`, BibReview v1.6.11 uses it for three
 separate purposes in PHRAISE: DOI discovery, independent audit evidence, and
 optional abstract fallback when publisher/CrossRef enrichment leaves an abstract
 empty. Semantic Scholar and Mendeley remain optional abstract fallbacks as well.
@@ -184,7 +184,7 @@ but may improve rate-limit predictability.
 
 ## Human-reviewed enrichment and safe refresh
 
-BibReview v1.6.10 provides two complementary workflows for existing canonical
+BibReview v1.6.11 provides two complementary workflows for existing canonical
 records.
 
 For a known missing field such as an abstract, use `backfill`:
@@ -199,18 +199,18 @@ bibreview backfill --apply
 Provider values are only proposals. The resolver requires an explicit human
 decision for every candidate. Accepted/custom values alone reach
 `collected.json`; existing meaningful canonical fields are never replaced.
-BibReview v1.6.10 also allows scalar-field backfill from partial provider records:
+BibReview v1.6.11 also allows scalar-field backfill from partial provider records:
 an abstract proposal no longer depends on unrelated provider authors, editors, or
 creation dates being present. Normal collection of new canonical publications
 remains strict and still requires at least one author or editor.
 
-For `abstract`, BibReview v1.6.10 treats the historical placeholder
+For `abstract`, BibReview v1.6.11 treats the historical placeholder
 `Not Available` as semantically missing, case- and whitespace-insensitively.
 Those records are therefore eligible for reviewed backfill. Provider/fallback
 values that normalize to the same placeholder are treated as unavailable and
 are never proposed as real abstracts.
 
-Optional publisher enrichment is failure-tolerant in v1.6.10. If Elsevier,
+Optional publisher enrichment is failure-tolerant in v1.6.11. If Elsevier,
 Springer, or IEEE returns an HTTP access/rate-limit/service error, BibReview
 reports a warning and continues with the remaining configured enrichment and
 abstract fallback sources instead of aborting the whole maintenance run. Persistent
@@ -242,7 +242,7 @@ refresh. Only accepted fields may be edited locally, with a backup, and
 
 ## Auditing the historical bibliography
 
-BibReview v1.6.10 can compare the existing canonical bibliography with current
+BibReview v1.6.11 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata. Audit state is persistent and incremental: publications already marked
 `completed` in the local audit history are not requested again by a normal
@@ -270,7 +270,7 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.6.10 provides a derived read-only review that applies the current
+BibReview v1.6.11 provides a derived read-only review that applies the current
 normalization and corroboration rules without network access or file changes.
 The default review is intentionally concise:
 
@@ -293,7 +293,7 @@ bibreview audit --resolve
 ```
 
 Decisions are resumable and stored separately from canonical/staging data. In
-BibReview v1.6.10, page-range proposals are normalized to BibTeX-style double
+BibReview v1.6.11, page-range proposals are normalized to BibTeX-style double
 hyphens, for example `8793--8805`; tuple-valued custom corrections such as
 authors accept semicolon-separated values; and interactive terminal line editing
 is enabled when Python's standard `readline` module is available.
@@ -310,7 +310,7 @@ bibreview audit --apply
 `audit --apply` never writes `bibliography.json` directly. It requires empty
 staging, rejects stale canonical values or incomplete resolution state, updates
 applicable tracked BibTeX fields with backups, and leaves rejected decisions
-unchanged. BibReview v1.6.10 also reports accepted/custom resolutions that already
+unchanged. BibReview v1.6.11 also reports accepted/custom resolutions that already
 match the canonical value explicitly as no-op resolutions; they are not staged
 and do not trigger BibTeX writes. Inspect the resulting JSON/BibTeX diff before
 the normal `bibreview merge` boundary.
@@ -478,7 +478,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.6.10 installation;
+- exact BibReview v1.6.11 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - author mapping consistency;
