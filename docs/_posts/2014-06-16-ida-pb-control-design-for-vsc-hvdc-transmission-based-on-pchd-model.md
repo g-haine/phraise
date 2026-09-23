@@ -19,7 +19,7 @@ An interconnection and damping assignment passivity-based (IDA-PB) control desig
 - **Volume:** 25
 - **Issue:** 10
 - **Pages:** 2133--2143
-- **Publisher:** Hindawi Limited
+- **Publisher:** Wiley
 - **DOI:** [10.1002/etep.1953](https://doi.org/10.1002/etep.1953)
  
 ## BibTeX
@@ -32,7 +32,7 @@ An interconnection and damping assignment passivity-based (IDA-PB) control desig
   DOI={10.1002/etep.1953},
   number={10},
   journal={International Transactions on Electrical Energy Systems},
-  publisher={Hindawi Limited},
+  publisher={Wiley},
   author={Fan, Xinming and Guan, Lin and Xia, Chengjun and Ji, Tianyao},
   year={2014},
   pages={2133--2143}
