@@ -35,7 +35,7 @@ Actuator saturation; \\( H^\infty \\)-control; multiple Lyapunov functions; port
 {% highlight bibtex %}
 {% raw %}
 @article{Wang_2019,
-  title={{Robust ${{\cal H}_\infty}$ Control for Switched Nonlinear Port-controlled Hamiltonian Systems}},
+  title={{Robust $${{\cal H}_\infty}$$ Control for Switched Nonlinear Port-controlled Hamiltonian Systems}},
   volume={17},
   ISSN={2005-4092},
   DOI={10.1007/s12555-018-0541-8},
