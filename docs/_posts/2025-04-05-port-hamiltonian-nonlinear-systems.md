@@ -31,7 +31,7 @@ Quite often, control theory takes the state space model of the to-be-controlled 
 Control by interconnection; Energy ports; Energy shaping; Energy-Casimir method; Input-output Hamiltonian systems; Lyapunov functions; Modeling for control; Multiphysics systems; Negative imaginary systems; Network modeling; Passivity; Port-Hamiltonian systems; Stabilization
  
 ## Citation
-- **ISBN:** 9780128035818
+- **ISBN:** 9780443140808
 - **Publisher:** Elsevier
 - **DOI:** [10.1016/b978-0-443-14081-5.00148-3](https://doi.org/10.1016/b978-0-443-14081-5.00148-3)
  
@@ -40,9 +40,9 @@ Control by interconnection; Energy ports; Energy shaping; Energy-Casimir method;
 {% raw %}
 @inbook{van_der_Schaft_2025,
   title={{Port-Hamiltonian Nonlinear Systems}},
-  ISBN={9780128035818},
+  ISBN={9780443140808},
   DOI={10.1016/b978-0-443-14081-5.00148-3},
-  booktitle={{Reference Module in Materials Science and Materials Engineering}},
+  booktitle={{Encyclopedia of Systems and Control Engineering}},
   publisher={Elsevier},
   author={van der Schaft, Arjan},
   year={2025},
