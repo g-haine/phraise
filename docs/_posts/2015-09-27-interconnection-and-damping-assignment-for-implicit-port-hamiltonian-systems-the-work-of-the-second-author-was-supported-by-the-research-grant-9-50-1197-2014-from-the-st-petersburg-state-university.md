@@ -1,5 +1,5 @@
 ---
-title: "Interconnection and damping assignment for implicit port-Hamiltonian systems∗∗The work of the second author was supported by the research grant 9.50.1197.2014 from the St. Petersburg State University."
+title: "Interconnection and damping assignment for implicit port-Hamiltonian systems"
 date: 2015-09-27 00:00:00 +0100
 permalink: interconnection-and-damping-assignment-for-implicit-port-hamiltonian-systems-the-work-of-the-second-author-was-supported-by-the-research-grant-9-50-1197-2014-from-the-st-petersburg-state-university
 year: 2015
@@ -37,7 +37,7 @@ Hamiltonian Dynamics; Holonomic Constraints; Implicit Models; Passivity; Pendulu
 {% highlight bibtex %}
 {% raw %}
 @article{Casta_os_2015,
-  title={{Interconnection and damping assignment for implicit port-Hamiltonian systems∗∗The work of the second author was supported by the research grant 9.50.1197.2014 from the St. Petersburg State University.}},
+  title={{Interconnection and damping assignment for implicit port-Hamiltonian systems}},
   volume={48},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2015.09.324},

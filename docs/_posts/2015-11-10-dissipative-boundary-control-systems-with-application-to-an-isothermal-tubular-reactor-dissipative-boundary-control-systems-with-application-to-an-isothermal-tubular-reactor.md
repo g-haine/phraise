@@ -1,5 +1,5 @@
 ---
-title: "Dissipative boundary control systems with application to an isothermal tubular reactor∗∗Dissipative boundary control systems with application to an isothermal tubular reactor"
+title: "Dissipative boundary control systems with application to an isothermal tubular reactor"
 date: 2015-11-10 00:00:00 +0100
 permalink: dissipative-boundary-control-systems-with-application-to-an-isothermal-tubular-reactor-dissipative-boundary-control-systems-with-application-to-an-isothermal-tubular-reactor
 year: 2015
@@ -34,7 +34,7 @@ Port Hamiltonian Systems; Distributed Systems; Irreversible Thermodynamics
 {% highlight bibtex %}
 {% raw %}
 @article{Zhou_2015,
-  title={{Dissipative boundary control systems with application to an isothermal tubular reactor∗∗Dissipative boundary control systems with application to an isothermal tubular reactor}},
+  title={{Dissipative boundary control systems with application to an isothermal tubular reactor}},
   volume={48},
   ISSN={2405-8963},
   DOI={10.1016/j.ifacol.2015.10.230},

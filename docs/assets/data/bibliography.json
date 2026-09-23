@@ -112885,7 +112885,7 @@
         "doi": "10.1016/j.ifacol.2015.09.324"
       },
       "type": "journal-article",
-      "title": "Interconnection and damping assignment for implicit port-Hamiltonian systems∗∗The work of the second author was supported by the research grant 9.50.1197.2014 from the St. Petersburg State University.",
+      "title": "Interconnection and damping assignment for implicit port-Hamiltonian systems",
       "authors": [
         {
           "given": "Fernando",
@@ -115131,7 +115131,7 @@
         "doi": "10.1016/j.ifacol.2015.10.230"
       },
       "type": "journal-article",
-      "title": "Dissipative boundary control systems with application to an isothermal tubular reactor∗∗Dissipative boundary control systems with application to an isothermal tubular reactor",
+      "title": "Dissipative boundary control systems with application to an isothermal tubular reactor",
       "authors": [
         {
           "given": "W.",
@@ -138516,7 +138516,7 @@
         "doi": "10.1016/j.ifacol.2022.07.343"
       },
       "type": "journal-article",
-      "title": "Learning Data-Driven PCHD Models for Control Engineering Applications*",
+      "title": "Learning Data-Driven PCHD Models for Control Engineering Applications",
       "authors": [
         {
           "given": "Annika",
@@ -194406,7 +194406,7 @@
         "doi": "10.1016/s1474-6670(17)38892-4"
       },
       "type": "journal-article",
-      "title": "Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems 1",
+      "title": "Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems",
       "authors": [
         {
           "given": "Luca",
@@ -200079,7 +200079,7 @@
         "doi": "10.1049/iet-cta.2017.0392"
       },
       "type": "journal-article",
-      "title": "Energy‐based stabilisation and  robust stabilisation of stochastic non‐linear systems",
+      "title": "Energy‐based stabilisation and H∞ robust stabilisation of stochastic non‐linear systems",
       "authors": [
         {
           "given": "Yan‐Hong",
@@ -394813,7 +394813,7 @@
         "doi": "10.2514/1.50446"
       },
       "type": "journal-article",
-      "title": "Passivity-Based Control of Rigid Electrodynamic Tether",
+      "title": "Passivity-Based Control of a Rigid Electrodynamic Tether",
       "authors": [
         {
           "given": "Martin Birkelund",
@@ -396619,7 +396619,7 @@
         "doi": "10.3166/ejc.15.599-612"
       },
       "type": "journal-article",
-      "title": "Tracking of Partially Unknown Trajectories for Permanent Magnet Synchronous Motors,",
+      "title": "Tracking of Partially Unknown Trajectories for Permanent Magnet Synchronous Motors",
       "authors": [
         {
           "given": "Luca",
@@ -401451,7 +401451,7 @@
         "doi": "10.3182/20100901-3-it-2016.00207"
       },
       "type": "journal-article",
-      "title": "Design and experimental validation of a model reduction algorithm for high-order port-Hamiltonian systems *",
+      "title": "Design and experimental validation of a model reduction algorithm for high-order port-Hamiltonian systems",
       "authors": [
         {
           "given": "Luca",
@@ -402311,7 +402311,7 @@
         "doi": "10.3182/20110828-6-it-1002.02168"
       },
       "type": "journal-article",
-      "title": "Passivity and Power Based Control of a Robot with Parallel Architecture*",
+      "title": "Passivity and Power Based Control of a Robot with Parallel Architecture",
       "authors": [
         {
           "given": "Lucas C.",

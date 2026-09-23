@@ -1,5 +1,5 @@
 ---
-title: "Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems 1"
+title: "Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems"
 date: 2017-05-16 00:00:00 +0100
 permalink: regulation-and-input-disturbance-suppression-for-port-controlled-hamiltonian-systems-1
 year: 2003
@@ -36,7 +36,7 @@ Hamiltonian systems; nonlinear output regulation; internal model; dumping inject
 {% highlight bibtex %}
 {% raw %}
 @article{Gentili_2003,
-  title={{Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems 1}},
+  title={{Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems}},
   volume={36},
   ISSN={1474-6670},
   DOI={10.1016/s1474-6670(17)38892-4},

@@ -1,5 +1,5 @@
 ---
-title: "Tracking of Partially Unknown Trajectories for Permanent Magnet Synchronous Motors,"
+title: "Tracking of Partially Unknown Trajectories for Permanent Magnet Synchronous Motors"
 date: 2013-07-25 00:00:00 +0100
 permalink: tracking-of-partially-unknown-trajectories-for-permanent-magnet-synchronous-motors
 year: 2009
@@ -34,7 +34,7 @@ Disturbance suppression; Internal model control; Output regulation; Permanent ma
 {% highlight bibtex %}
 {% raw %}
 @article{Gentili_2009,
-  title={{Tracking of Partially Unknown Trajectories for Permanent Magnet Synchronous Motors,}},
+  title={{Tracking of Partially Unknown Trajectories for Permanent Magnet Synchronous Motors}},
   volume={15},
   ISSN={0947-3580},
   DOI={10.3166/ejc.15.599-612},
