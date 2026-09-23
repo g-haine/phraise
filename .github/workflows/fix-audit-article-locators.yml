@@ -1,0 +1,114 @@
+name: Apply reviewed article locators
+
+on:
+  push:
+    branches:
+      - fix/audit-article-locators
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+        with:
+          ref: fix/audit-article-locators
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install BibReview v1.6.3
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.6.3"
+
+      - name: Apply canonical and BibTeX corrections
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          root = Path(".")
+          bibliography_path = root / "docs/assets/data/bibliography.json"
+          document = json.loads(bibliography_path.read_text(encoding="utf-8"))
+
+          locators = {
+              "10.1007/s00028-024-01003-3": "73",
+              "10.1007/s00332-025-10130-1": "35",
+              "10.1063/1.5054850": "101102",
+              "10.1098/rsos.230458": "230458",
+              "10.1098/rsta.2022.0284": "20220284",
+              "10.1103/physreve.104.034312": "034312",
+              "10.3389/fbioe.2025.1609548": "1609548",
+          }
+
+          seen = set()
+          for publication in document["publications"]:
+              doi = publication.get("identifiers", {}).get("doi")
+              if doi not in locators:
+                  continue
+              if publication.get("pages") not in ("", locators[doi]):
+                  raise SystemExit(
+                      f"{doi}: unexpected existing pages {publication.get('pages')!r}"
+                  )
+              publication["pages"] = locators[doi]
+              seen.add(doi)
+
+          missing = set(locators) - seen
+          if missing:
+              raise SystemExit(f"missing canonical DOI(s): {sorted(missing)}")
+
+          document["metadata"]["last_update"] = "2026-09-23"
+          bibliography_path.write_text(
+              json.dumps(document, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+
+          bib_files = {
+              "10.1007/s00028-024-01003-3": "docs/assets/bib/on-the-weierstrass-form-of-infinite-dimensional-differential-algebraic-equations.bib",
+              "10.1007/s00332-025-10130-1": "docs/assets/bib/the-port-hamiltonian-structure-of-continuum-mechanics.bib",
+              "10.1063/1.5054850": "docs/assets/bib/qualitative-stability-and-synchronicity-analysis-of-power-network-models-in-port-hamiltonian-form.bib",
+              "10.1098/rsos.230458": "docs/assets/bib/design-of-a-stand-alone-hybrid-dispersed-generation-network-unified-by-passivity-based-control.bib",
+              "10.1098/rsta.2022.0284": "docs/assets/bib/stochastic-thermodynamics-dissipativity-accumulativity-energy-storage-and-entropy-production.bib",
+              "10.1103/physreve.104.034312": "docs/assets/bib/port-hamiltonian-neural-networks-for-learning-explicit-time-dependent-dynamical-systems.bib",
+              "10.3389/fbioe.2025.1609548": "docs/assets/bib/research-on-rehabilitation-robot-control-based-on-port-hamiltonian-systems-and-fatigue-dissipation-port-compensation.bib",
+          }
+
+          for doi, filename in bib_files.items():
+              path = root / filename
+              text = path.read_text(encoding="utf-8")
+              if re.search(r"(?m)^\s*pages\s*=", text):
+                  raise SystemExit(f"{doi}: BibTeX already contains pages")
+              locator = locators[doi]
+              updated, count = re.subn(
+                  r"(?m)^(\s*)year=(\{[^\n]+\})",
+                  rf"\1pages={{{locator}}},\n\1year=\2",
+                  text,
+                  count=1,
+              )
+              if count != 1:
+                  raise SystemExit(f"{doi}: could not insert BibTeX pages")
+              path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Validate authors and render
+        run: |
+          bibreview authors
+          bibreview render
+          git diff --check
+
+      - name: Remove temporary workflow
+        run: rm .github/workflows/fix-audit-article-locators.yml
+
+      - name: Commit generated correction
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Fix reviewed article locators"
+          git push origin HEAD:fix/audit-article-locators
