@@ -37,8 +37,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install BibReview v1.6.4
-        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.6.4"
+      - name: Install BibReview v1.6.6
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.6.6"
 
       - name: Validate PHRAISE configuration
         run: bibreview --config bibreview.yml validate
