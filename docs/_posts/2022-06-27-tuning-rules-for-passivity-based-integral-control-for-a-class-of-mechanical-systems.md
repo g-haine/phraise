@@ -11,7 +11,7 @@ category: articles
 [Carmen Chan-Zheng](authors/carmen-chan-zheng), [Mauricio Munoz-Arias](authors/raul-s-munoz-aguilar), [Jacquelien M.A. Scherpen](authors/jacquelien-m-a-scherpen)
  
 ## Abstract
-
+This manuscript introduces a passivity-based integral control approach for fully-actuated mechanical systems. The novelty of our methodology is that we exploit the gyroscopic forces of the mechanical systems to exponentially stabilize the mechanical system at the desired equilibrium even in the presence of matched disturbances; additionally, we show that our approach is robust against unmatched disturbances. Furthermore, we provide tuning rules to prescribe the performance of the closed-loop system. We conclude this manuscript with experimental results obtained from a robotic arm.
  
 ## Citation
 - **Journal:** IEEE Control Systems Letters

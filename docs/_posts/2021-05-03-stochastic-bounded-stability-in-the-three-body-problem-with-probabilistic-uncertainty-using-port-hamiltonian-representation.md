@@ -11,7 +11,7 @@ category: articles
 [Taisei NISHISHITA](authors/taisei-nishishita), [Satoshi SATOH](authors/satoshi-satoh), [Katsuhiko YAMADA](authors/katsuhiko-yamada)
  
 ## Abstract
-
+This paper considers formation flying control of multi-spacecraft in the presence of stochastic uncertainties. While relative position keeping is an important requirement in formation flying control, there practically exist various uncertainties such as solar radiation pressure, atmospheric drag and sensor and communication noises. Therefore, we suppose a stochastic disturbance in the relative motion dynamics, and we model the dynamics as a stochastic port-Hamiltonian system. Specifically, this paper considers stochastic bounded stability as a stability concept. Stochastic bounded stability guarantees that for given bounded region and achieving probability, the sample paths starting from the initial region remain within the bounded region with a probability more than the assigned achieving probability. Finally, the simulation results demonstrate the validity of the proposed method.
  
 ## Citation
 - **Journal:** TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES, AEROSPACE TECHNOLOGY JAPAN

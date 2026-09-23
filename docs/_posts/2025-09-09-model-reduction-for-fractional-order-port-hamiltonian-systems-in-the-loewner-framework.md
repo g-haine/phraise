@@ -11,7 +11,7 @@ category: proceedings
 [Zixi Guan](authors/zixi-guan), [Rui Chen](authors/rui-chen), [Jinhua Zhang](authors/jinhua-zhang), [Yiheng Wei](authors/yiheng-wei)
  
 ## Abstract
-
+This paper addresses the problem of model order reduction for fractional-order port-Hamiltonian systems (FoPHS) within the Loewner framework. Building on the classical Loewner approach, the study extended the framework to incorporate fractional-order dynamics while preserving the port-Hamiltonian structure in reduced-order models. Specifically, the method was adapted to fractional-order systems by employing right- and left-tangential interpolation data, deriving conditions for constructing an interpolant that retains both the fractional-order behavior and the energy-conserving structure. Additionally, a novel interpolation data selection method was proposed, and numerical simulations validated the reduction approach, demonstrating its effectiveness and accuracy in preserving the system's inherent properties.
  
 ## Citation
 - **Journal:** 2025 4th Conference on Fully Actuated System Theory and Applications (FASTA)

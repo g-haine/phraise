@@ -11,7 +11,7 @@ category: articles
 [Birgit Jacob](authors/birgit-jacob), [Julia T. Kaiser](authors/julia-t-kaiser)
  
 ## Abstract
-
+We consider the well-posedness of a class of hyperbolic partial differential equations on a one-dimensional spatial domain. This class includes in particular infinite networks of transport, wave and beam equations, or even combinations of these. Equivalent conditions for contraction semigroup generation are derived. We consider these equations on a finite interval as well as on a semi-axis.
  
 ## Citation
 - **Journal:** Journal of Evolution Equations

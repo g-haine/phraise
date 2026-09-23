@@ -11,7 +11,7 @@ category: books
 [Vincent Duindam](authors/vincent-duindam), [Alessandro Macchelli](authors/alessandro-macchelli), [Stefano Stramigioli](authors/stefano-stramigioli), [Herman Bruyninckx](authors/herman-bruyninckx)
  
 ## Abstract
-
+Energy exchange is a major foundation of the dynamics of physical systems, and, hence, in the study of complex multi-domain systems, methodologies that explicitly describe the topology of energy exchanges are instrumental in structuring the modeling and the computation of the system's dynamics and its control. This book is the outcome of the European Project "Geoplex" (FP5 IST-2001-34166) that studied and extended such system modeling and control methodologies. This unique book starts from the basic concept of port-based modeling, and extends it to port-Hamiltonian systems. This generic paradigm is applied to various physical domains, showing its power and unifying flexibility for real multi-domain systems. © 2009 Springer-Verlag Berlin Heidelberg.
  
 ## Citation
 - **ISBN:** 9783642031953

@@ -11,7 +11,7 @@ category: articles
 [Luis A. Mora](authors/luis-a-mora), [Anita Gjesteland](authors/anita-gjesteland), [Kirsten Morris](authors/kirsten-a-morris), [David C. Del Rey Fernández](authors/david-c-del-rey-fernandez)
  
 ## Abstract
-
+For distributed parameter systems that are exponentially stable, it is desirable that an approximation scheme is not only dissipative but also preserves exponential stability independently of approximation order. This will lead to realistic simulations and is also needed for early lumped controller design. In this paper, this issue is addressed for networked port-Hamiltonian systems. It is shown that summation-by-parts (SBP) approximation schemes lead to such a property, provided that the boundary conditions are also handled appropriately. The theoretical framework developed in this paper result in schemes with spectral convergence and provable uniform exponential stability for higher-order approximations of port-Hamiltonian systems. A final section illustrates the efficacy of a higher-order polynomial scheme over a mixed finite-element method for approximating a piezoelectric beam with magnetic effects. The characteristics of the proposed discretization, high accuracy with low-order approximation models and uniform conservation of the exponential stability properties, are suitable for controller synthesis.
  
 ## Citation
 - **Journal:** IEEE Transactions on Automatic Control

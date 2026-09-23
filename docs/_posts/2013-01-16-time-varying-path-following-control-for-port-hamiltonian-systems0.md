@@ -11,7 +11,7 @@ category: articles
 [Mitsuru TANIGUCHI](authors/mitsuru-taniguchi), [Kenji FUJIMOTO](authors/kenji-fujimoto)
  
 ## Abstract
-
+This paper is devoted to path following control for port-Hamiltonian systems whose desired path is time-varying. Most of the existing results on path following can only take care of time invariant paths, hence they cannot be applied to control systems whose environments change, e.g., path following control with a path crossing itself or with moving obstacle avoidance. The proposed method solves this problem by employing decoupling control of three particular directions in the phase space which allows one to assign time-varying potential functions and vector fields.
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

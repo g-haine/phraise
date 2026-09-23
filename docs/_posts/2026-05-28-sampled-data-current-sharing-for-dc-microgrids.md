@@ -11,7 +11,7 @@ category: articles
 [Daijiro WAKAI](authors/daijiro-wakai), [Yu KAWANO](authors/yu-kawano), [Nobutaka WADA](authors/nobutaka-wada)
  
 ## Abstract
-
+In this paper, we propose a sampled-data control scheme for current sharing in DC microgrids with average voltage regulation and demonstrate its effectiveness through laboratory experiments. The current sharing problem in DC microgrids can be formulated as an output consensus control problem for port-Hamiltonian systems under unknown constant disturbances, for which a control scheme has been developed. However, in practical settings, control schemes are implemented in a sampled-data manner. As a theoretical contribution, we in this paper show that a suitably discretized continuous-time controller achieves output consensus for appropriately discretized port-Hamiltonian systems. Furthermore, for DC microgrids, average voltage regulation in the sampled-data setting can be achieved by a simple modification of the control scheme. The proposed method is validated through laboratory experiments.
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

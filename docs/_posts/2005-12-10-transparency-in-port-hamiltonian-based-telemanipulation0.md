@@ -11,7 +11,7 @@ category: proceedings
 [C. Secchi](authors/cristian-secchi), [S. Stramigioli](authors/stefano-stramigioli), [C. Fantuzzi](authors/cesare-fantuzzi)
  
 ## Abstract
-
+After stability, transparency is the major issue in the design of a telemanipulation system. In this paper we exploit a behavioral approach in order to provide an index for the evaluation of transparency in port-Hamiltonian based teleoperators. Furthermore we provide a transparency analysis of packet switching scattering based communication channels. © 2005 IEEE.
  
 ## Citation
 - **Journal:** 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems

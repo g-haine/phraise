@@ -11,7 +11,7 @@ category: articles
 [Atsuhiro Kondo](authors/atsuhiro-kondo), [Ryo Ariizumi](authors/ryo-ariizumi), [Toru Asai](authors/toru-asai), [Shun-ichi Azuma](authors/shun-ichi-azuma)
  
 ## Abstract
-
+This paper discusses a path-following control of joint angles of a planar snake robot based on the port-Hamiltonian formulation. An existing controller is extended to solve the problem of the diﬃculty in specifying the moving direction. Furthermore, the eﬀect of a bounded error in the input is analyzed, which provides a criterion to determine the controller parameters. The validity of the controller and the error analysis is tested via numerical simulations.
  
 ## Citation
 - **Journal:** Transactions of the Institute of Systems, Control and Information Engineers

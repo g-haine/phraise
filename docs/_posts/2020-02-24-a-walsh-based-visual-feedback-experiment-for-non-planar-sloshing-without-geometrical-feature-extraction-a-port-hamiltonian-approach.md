@@ -11,7 +11,7 @@ category: articles
 [Yuki USHIRO](authors/yuki-ushiro), [Satoru SAKAI](authors/satoru-sakai)
  
 ## Abstract
-
+This short paper presents a visual feedback experiment for non-planar sloshing without any geometrical feature extraction. First, we construct a dynamical model by applying Walsh basis approach. Second, we design a feedback controller by applying a port-Hamiltonian approach instead of the standard LQG approach. Finally, we confirm the validity of the model and controller by the non-planar feedback control experiment.
  
 ## Citation
 - **Journal:** The Proceedings of the Dynamics &amp; Design Conference

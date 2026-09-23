@@ -11,7 +11,7 @@ category: articles
 [Hayato INOUE](authors/hayato-inoue), [Derek Chun](authors/derek-chun), [Koh HOSODA](authors/koh-hosoda)
  
 ## Abstract
-
+The McKibben pneumatic artificial muscle (MPAM) is flexible and can be driven like a biological muscle. On the other hand, the compressed air used for driving is released into the atmosphere after the use, so its energy efficiency is generally not very good. In this study, we modeled the MPAM based on the Port-Hamilton theory, and considered the energy efficiency and characteristics from the results of the experiments. As a result, we found that characteristics such as pressure and shrinkage ratio under the load. In terms of energy efficiency, the results showed that even if the volume of compressed air to be injected did not change, the loss decreased as the flow rate decreased. We found that controlling the flow rate can change energy efficiency.
  
 ## Citation
 - **Journal:** The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec)

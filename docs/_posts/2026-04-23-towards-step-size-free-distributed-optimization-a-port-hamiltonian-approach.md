@@ -11,7 +11,7 @@ category: articles
 [Rodrigo Aldana-López](authors/rodrigo-aldana-lopez), [Alessandro Macchelli](authors/alessandro-macchelli), [Giuseppe Notarstefano](authors/giuseppe-notarstefano), [Rosario Aragüés](authors/rosario-aragues), [Carlos Sagüés](authors/carlos-sagues)
  
 ## Abstract
-
+This paper presents a novel distributed optimization technique that, under suitable assumptions on problem and communication graph, is able to operate with any step-size parameter, a capability not evident in previous methods. Traditionally, selecting the step-size in distributed optimization often leads to a conservative performance, resulting in slow convergence or even divergence if the step-size is incorrectly chosen. In this work, we propose a systems theory approach based on the port-Hamiltonian formalism to develop algorithms for consensus optimization problems. Starting from a continuous-time flow, we propose a distributed algorithm based on a discretized Port-Hamiltonian system that works regardless of the step size. Additionally, we introduce Mixed Implicit Discretization, which lowers communication overhead while maintaining, under suitable conditions, the ability to converge with any step size. This feature is formally verified in specific scenarios and demonstrated experimentally in general cases with large step sizes. These results illustrate that the proposed method can utilize step sizes several orders of magnitude larger than those in previous work, where conventional methods fail, ultimately enhancing convergence speed.
  
 ## Citation
 - **Journal:** IEEE Transactions on Automatic Control

@@ -11,7 +11,7 @@ category: articles
 [Shuichi FUKUNAGA](authors/shuichi-fukunaga), [Ryota KOKUBO](authors/ryota-kokubo)
  
 ## Abstract
-
+This paper proposes a deterministic policy gradient method for port-Hamiltonian systems using an eligibility trace. The deterministic policy gradient method commonly uses one of two types of algorithms, either the on- or off-policy method. The proposed algorithm employs the off-policy method to perform a probabilistic search. In addition, we introduce an eligibility trace to the method to speed up the learning process. A numerical simulation shows the effectiveness of the proposed method.
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

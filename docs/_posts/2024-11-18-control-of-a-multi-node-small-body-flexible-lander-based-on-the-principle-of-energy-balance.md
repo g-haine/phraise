@@ -11,7 +11,7 @@ category: articles
 [CHAI JingXuan](authors/jingxuan-chai), [MEI Jie](authors/jie-mei), [GONG YouMin](authors/youmin-gong), [GUO XuFa](authors/xufa-guo), [MA GuangFu](authors/ma-guangfu), [WU WeiRen](authors/weiren-wu)
  
 ## Abstract
-
+Due to the irregular and weak gravitational field of small celestial bodies, conventional landers often face the problem of bouncing. Recently, a multi-node flexible lander has been proposed to solve the problem. However, the new design also brings new challenges, one of which is the control of the multiple nodes covered by flexible materials. To solve this problem, the dynamic model of the multi-node flexible lander based on the port-Hamilton (pH) system is established. Considering that the motion of nodes in the flexible body is the conversion of kinetic energy and elastic potential energy, the configuration controller of nodes is proposed from the perspective of energy balance. To make the descent trajectory of each node conform to the landing constraint, a control framework of the nodes tracking the virtual center is proposed, and the virtual center trajectory is constructed with the standard ZEM/ZEV optimal feedback guidance law. The tracking controller for each node is further designed. Finally, a simulation experiment is constructed from the hovering point to the landing target of the flexible lander. The simulation results show that the proposed controllers have good tracking and configuration control abilities. Monte Carlo experiments further demonstrate the robustness and applicability of the proposed controller.
  
 ## Citation
 - **Journal:** SCIENTIA SINICA Physica, Mechanica &amp; Astronomica

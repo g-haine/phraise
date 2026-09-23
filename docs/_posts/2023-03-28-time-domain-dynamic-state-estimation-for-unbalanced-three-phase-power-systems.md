@@ -11,7 +11,7 @@ category: articles
 [Martin Pfeifer](authors/martin-pfeifer), [Felicitas Mueller](authors/felicitas-mueller), [Steven de Jongh](authors/steven-de-jongh), [Frederik Gielnik](authors/frederik-gielnik), [Thomas Leibfried](authors/thomas-leibfried), [Soren Hohmann](authors/soren-hohmann)
  
 ## Abstract
-
+In this paper, we present a time-domain dynamic state estimation for unbalanced three-phase power systems. The dynamic nature of the estimator stems from an explicit consideration of the electromagnetic dynamics of the network, i.e., the dynamics of the electrical lines. This enables our approach to release the assumption of the network being in quasi-steady state. Initially, based on the line dynamics, we derive a graph-based dynamic system model. To handle the large number of interacting variables, we propose a port-Hamiltonian modeling approach. Based on the port-Hamiltonian model, we then follow an observer-based approach to develop a dynamic estimator. The estimator uses synchronized sampled value measurements to calculate asymptotic convergent estimates for the unknown bus voltages and currents. The design and implementation of the estimator are illustrated through the IEEE 33-bus system. Numerical simulations verify the estimator to produce asymptotic exact estimates, which are able to detect harmonic distortion and sub-second transients as arising from converter-based resources.
  
 ## Citation
 - **Journal:** Journal of Modern Power Systems and Clean Energy

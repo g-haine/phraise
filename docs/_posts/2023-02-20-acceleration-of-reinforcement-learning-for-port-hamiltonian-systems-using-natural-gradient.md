@@ -11,7 +11,7 @@ category: articles
 [Shuichi FUKUNAGA](authors/shuichi-fukunaga), [Yuki IWAMOTO](authors/yuki-iwamoto)
  
 ## Abstract
-
+In this paper, we accelerated a reinforcement learning algorithm for port-Hamiltonian systems using a natural gradient method. The proposed algorithm consists of an actor-critic structure wherein the actor generates a control input according to a policy and learns the policy using a temporal difference (TD) error, and the critic computes the TD error and learns a state-value function. Furthermore, the reinforcement learning algorithm for port-Hamiltonian systems has two types of the policy parameters which the proposed algorithm learns using the natural gradient method. Additionally, the proposed method was applied to the problem of swing-up control for an inverted pendulum through numerical simulation. The simulation result showed that the learning speed of the proposed method was higher than that of the existing method.
  
 ## Citation
 - **Journal:** Transactions of the Society of Instrument and Control Engineers

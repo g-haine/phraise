@@ -11,7 +11,7 @@ category: proceedings
 [Fabian J. Roth](authors/fabian-j-roth), [Dominik K. Klein](authors/dominik-k-klein), [Maximilian Kannapinn](authors/maximilian-kannapinn), [Jan Peters](authors/jan-peters), [Oliver Weeger](authors/oliver-weeger)
  
 ## Abstract
-
+In recent years, nonlinear dynamic system identification using artificial neural networks has garnered attention due to its broad potential applications across science and engineering. However, purely data-driven approaches often struggle with extrapolation and may yield physically implausible forecasts. Furthermore, the learned dynamics can exhibit instabilities, making it difficult to apply such models safely and robustly. This article introduces stable port-Hamiltonian neural networks, a machine learning architecture that incorporates physical biases of energy conservation and dissipation while ensuring global Lyapunov stability of the learned dynamics. Through illustrative and real-world examples, we demonstrate that these strong inductive biases facilitate robust learning of stable dynamics from sparse data, while avoiding instability and surpassing purely data-driven approaches in accuracy and physically meaningful generalization. Furthermore, the model's applicability and potential for data-driven surrogate modeling are showcased on multi-physics simulation data.
  
 ## Citation
 - **Journal:** Advances in Neural Information Processing Systems 38

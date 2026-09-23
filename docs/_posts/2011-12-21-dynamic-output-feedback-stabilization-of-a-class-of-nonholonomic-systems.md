@@ -11,7 +11,7 @@ category: articles
 [Satoru SAKAI](authors/satoru-sakai), [Kenji FUJIMOTO](authors/kenji-fujimoto)
  
 ## Abstract
-
+This paper is concerned with discontinuous output feedback stabilization of a class of nonholonomic systems in a port-controlled Hamiltonian form. First, in order to obtain a dynamic feedback, an integrator is added to the system via a generalized canonical transformation. Second, we clarify an equivalence between asymptotic stability of a state feedback system and that of the corresponding output feedback system. An output feedback stabilization method derived based on this equivalence. Furthermore, some numerical examples show the effectiveness of our technique.
  
 ## Citation
 - **Journal:** Transactions of the Institute of Systems, Control and Information Engineers

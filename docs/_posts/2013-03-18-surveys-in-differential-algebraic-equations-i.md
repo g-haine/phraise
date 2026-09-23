@@ -12,7 +12,7 @@ category: books
 Achim Ilchmann, Timo Reis
  
 ## Abstract
-
+The need for a rigorous mathematical theory for Differential-Algebraic Equations (DAEs) has its roots in the widespread applications of controlled dynamical systems, especially in mechanical and electrical engineering. Due to the strong relation to (ordinary) differential equations, the literature for DAEs mainly started out from introductory textbooks. As such, the present monograph is new in the sense that it comprises survey articles on various fields of DAEs, providing reviews, presentations of the current state of research and new concepts in Controllability for linear DAEs; Port-Hamiltonian differential-algebraic systems; Robustness of DAEs; Solution concepts for DAEs; DAEs in circuit modeling. The results in the individual chapters are presented in an accessible style, making this book suitable not only for active researchers but also for graduate students (with a good knowledge of the basic principles of DAEs) for self-study.
  
 ## Citation
 - **ISBN:** 9783642349270

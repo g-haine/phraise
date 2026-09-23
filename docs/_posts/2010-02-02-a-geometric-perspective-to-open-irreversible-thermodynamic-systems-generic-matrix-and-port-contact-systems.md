@@ -11,7 +11,7 @@ category: proceedings
 [Audrey Favache](authors/audrey-favache), [Denis Dochain](authors/denis-dochain), [Bernhard Maschke](authors/bernhard-maschke)
  
 ## Abstract
-
+We propose in this paper a formulation of the dynamical behaviour of open physical systems composed of a set of elementary simple thermodynamic systems in the thermodynamic phase space using its contact structure derived from the Gibbs' relation. The dynamical system is defined in terms of a contact vector field which is obtained by lifting the balance equations on the extensive variables on the thermodynamic phase space. The contact Hamiltonian functions generating the dynamical system are discussed with respect to two formalisms used for describing coupled sets of reversible and irreversible processes, namely the GENERIC formulation and the Matrix formulation. ©2009 IEEE.
  
 ## Citation
 - **Journal:** Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference
