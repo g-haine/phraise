@@ -11,7 +11,7 @@ category: proceedings
 [B. Jayawardhana](authors/bayu-jayawardhana), [G. Weiss](authors/george-weiss)
  
 ## Abstract
-In this paper, we examine a particular class of port-controlled Hamiltonian systems for which the equations can be written in a form that is very similar to the equations of a linear passive system. We examine the passivity of such a system around an equilibrium point (u<inf>0</inf>,x<inf>0</inf>), which generates the output y<inf>0</inf>. We show that under some mild assumptions, a new Hamiltonian can be found such that the system is again passive with respect to the new supply rate (y-y<inf>0</inf>)<sup>T</sup>(u-u<inf>0</inf>).
+In this paper, we examine a particular class of port-controlled Hamiltonian systems for which the equations can be written in a form that is very similar to the equations of a linear passive system. We examine the passivity of such a system around an equilibrium point \((u_0,x_0)\), which generates the output \(y_0\). We show that under some mild assumptions, a new Hamiltonian can be found such that the system is again passive with respect to the new supply rate \((y-y_0)^T(u-u_0)\).
  
 ## Citation
 - **Journal:** Proceedings of the 44th IEEE Conference on Decision and Control
