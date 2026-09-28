@@ -49,14 +49,19 @@ flexible robots, modeling, port hamiltonian systems, robot dynamics, simulation
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-based-simulation-of-flexible-multi-body-systems.bib)
  
 ## References
+- L. Bassi, A. Macchelli, and C. Melchiorri. An algorithm to discretize one–dimensional distributed port Hamiltonian systems. In Proc. 3rd IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control, 2006.
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM J. Control Optim. 37, 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - De Luca, (1996)
 - Ferretti, G., Schiavo, F. & Vigano, L. Modular Modelling of Flexible Thin Beams in Multibody Systems. Proceedings of the 44th IEEE Conference on Decision and Control 3363–3368 doi:10.1109/cdc.2005.1582681 -- [10.1109/cdc.2005.1582681](https://doi.org/10.1109/cdc.2005.1582681)
 - [Golo, G., van der Schaft, A. & Stramigioli, S. Hamiltonian Formulation of Planar Beams. IFAC Proceedings Volumes 36, 147–152 (2003)](hamiltonian-formulation-of-planar-beams) -- [10.1016/s1474-6670(17)38882-1](https://doi.org/10.1016/s1474-6670(17)38882-1)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica 40, 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - Karnopp, (2006)
+- A. Macchelli, S. Stramigioli, and C. Melchiorri. Port-based modelling of manipulators with flexible links. In Proc. IEEE International Conference on Robotics and Automation (ICRA'06), May 15–19 2006.
 - [Macchelli, A., Melchiorri, C. & Stramigioli, S. Port-Based Modeling of a Flexible Link. IEEE Trans. Robot. 23, 650–660 (2007)](port-based-modeling-of-a-flexible-link) -- [10.1109/tro.2007.898990](https://doi.org/10.1109/tro.2007.898990)
+- A. Macchelli, S. Stramigioli, and C. Melchiorri. Port-based finite element model of a flexible link. In Proc. 7th IFAC Symposium on Nonlinear Control Systems (NOLCOS 2007), 22–24 August 2007b.
 - Maschke, (1996)
+- B. M. Maschke and A. J. van der Schaft. Port controlled Hamiltonian systems: modeling origins and system theoretic properties. In Proceedings of the third Conference on nonlinear control systems (NOLCOS), 1992.
+- J. M. Selig. Geometric Fundamentals of Robotics. Monographs in Computer Science. Springer, 2nd edition, 2005.
 - Selig, J. M. & Ding, X. A screw theory of static beams. Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No.01CH37180) vol. 1 312–317 -- [10.1109/iros.2001.973376](https://doi.org/10.1109/iros.2001.973376)
 - Simo, J. C. A finite strain beam formulation. The three-dimensional dynamic problem. Part I. Computer Methods in Applied Mechanics and Engineering 49, 55–70 (1985) -- [10.1016/0045-7825(85)90050-7](https://doi.org/10.1016/0045-7825(85)90050-7)
 - Stramigioli, (2001)

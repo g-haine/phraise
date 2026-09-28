@@ -52,12 +52,15 @@ Interconnected systems; modeling; energy storage; geometric theory
 [Download the bib file]({{ site.baseurl }}/assets/bib/from-conservation-laws-to-port-hamiltonian-representations-of-distributed-parameter-systems.bib)
  
 ## References
+- Bloch AM, Crouch PE (1998) Representations of Dirac structures on vector spaces and nonlinear L-C circuits. Proceedings of Symposia in Pure Mathematics 103–117 -- [10.1090/pspum/064/1654513](https://doi.org/10.1090/pspum/064/1654513)
 - Blankenstein, G. & van der Schaft, A. J. Symmetry and reduction in implicit generalized Hamiltonian systems. Reports on Mathematical Physics 47, 57–100 (2001) -- [10.1016/s0034-4877(01)90006-0](https://doi.org/10.1016/s0034-4877(01)90006-0)
+- P. C. Breedveld (1984). Physical Systems Theory in Terms of Bond Graphs. PhD thesis, Technische Hogeschool Twente, Enschede, The Netherlands, ISBN 90-90005999-4
 - [Courant, T. J. Dirac manifolds. Trans. Amer. Math. Soc. 319, 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM J. Control Optim. 37, 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Dorfman, (1993)
 - Godlewsky, (1996)
 - Karnopp, (1990)
+- B. M. Maschke and A. J. van der Schaft (1997). Modelling and Control of Mechanical Systems, chapter Interconnected Mechanical systems. Part 1 and 2, pages 1-30. Imperial College Press, London. ISBN 1-86094-058-7
 - [Maschke, B. M. J. & van der Schaft, A. J. Port Controlled Hamiltonian Representation of Distributed Parameter Systems. IFAC Proceedings Volumes 33, 27–37 (2000)](port-controlled-hamiltonian-representation-of-distributed-parameter-systems) -- [10.1016/s1474-6670(17)35543-x](https://doi.org/10.1016/s1474-6670(17)35543-x)
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Olver, (1993)

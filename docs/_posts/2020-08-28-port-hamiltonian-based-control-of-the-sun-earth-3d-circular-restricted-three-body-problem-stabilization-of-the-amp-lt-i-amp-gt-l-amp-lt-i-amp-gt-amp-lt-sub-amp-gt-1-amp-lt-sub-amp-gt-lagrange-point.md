@@ -54,15 +54,20 @@ In this paper, we use Port-Hamiltonian framework to stabilize the Lagrange point
 - G�mez, G., Jorba, A., Masdemont, J. & Sim�, C. Study of the transfer from the Earth to a halo orbit around the equilibrium pointL 1. Celestial Mech Dyn Astr 56, 541–562 (1993) -- [10.1007/bf00696185](https://doi.org/10.1007/bf00696185)
 - Richardson, D. L. Halo Orbit Formulation for the ISEE-3 Mission. Journal of Guidance and Control 3, 543–548 (1980) -- [10.2514/3.56033](https://doi.org/10.2514/3.56033)
 - Cielaszyk, D. & Wie, B. New approach to halo orbit determination and control. Journal of Guidance, Control, and Dynamics 19, 266–273 (1996) -- [10.2514/3.21614](https://doi.org/10.2514/3.21614)
+- Ardaens, J.S. and D’Amico, S. (2008) Control of Formation Flying Spacecraft at a Lagrange Point. No. 00-08.
 - Ming, X. & Shijie, X. Trajectory and Correction Maneuver During the Transfer from Earth to Halo Orbit. Chinese Journal of Aeronautics 21, 200–206 (2008) -- [10.1016/s1000-9361(08)60026-6](https://doi.org/10.1016/s1000-9361(08)60026-6)
 - Yamato, H. & Spencer, D. B. Transit-Orbit Search for Planar Restricted Three-Body Problems with Perturbations. Journal of Guidance, Control, and Dynamics 27, 1035–1045 (2004) -- [10.2514/1.4524](https://doi.org/10.2514/1.4524)
 - LYAPUNOV, A. M. The general problem of the stability of motion. International Journal of Control 55, 531–534 (1992) -- [10.1080/00207179208934253](https://doi.org/10.1080/00207179208934253)
+- Jacobi, C.G.J. (1836) Sur le mouvement d’un point et sur un cas particulier du probleme destrois corps. Comptes Rendus Chimie, 3, 59-61.
 - van der Schaft, A. & Schumacher, H. An Introduction to Hybrid Dynamical Systems. Lecture Notes in Control and Information Sciences (Springer London, 2000). doi:10.1007/bfb0109998 -- [10.1007/bfb0109998](https://doi.org/10.1007/bfb0109998)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. FnT in Systems and Control 1, 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Trans. Automat. Contr. 53, 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
+- Liu, C. (2019) Teaching Control Theory in Physics: The Port-Hamiltonian Framework. College Physics, 38, 1-7.
 - [Liu, C. & Dong, L. Physics-based control education: energy, dissipation, and structure assignments. Eur. J. Phys. 40, 035006 (2019)](physics-based-control-education-energy-dissipation-and-structure-assignments) -- [10.1088/1361-6404/ab03e8](https://doi.org/10.1088/1361-6404/ab03e8)
 - [Liu, C. & Dong, L. Stabilization of Lagrange points in circular restricted three-body problem: A port-Hamiltonian approach. Physics Letters A 383, 1907–1914 (2019)](stabilization-of-lagrange-points-in-circular-restricted-three-body-problem-a-port-hamiltonian-approach) -- [10.1016/j.physleta.2019.03.033](https://doi.org/10.1016/j.physleta.2019.03.033)
 - LaSalle, J. Some Extensions of Liapunov’s Second Method. IRE Trans. Circuit Theory 7, 520–527 (1960) -- [10.1109/tct.1960.1086720](https://doi.org/10.1109/tct.1960.1086720)
+- Kwakernaak, H. and Sivan, R. (1972) Linear Optimal Control Systems. Wiley-Inter- science, New York.
+- Zhou, K., Doyle, J.C., Glover, K., et al. (1996) Robust and Optimal Control. Prentice Hall, Upper Saddle River.
 

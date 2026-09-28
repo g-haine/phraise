@@ -51,8 +51,12 @@ batteries, electrical vehicle, passivity-based control, supercapacitors
 ## References
 - Becherif, M., Ayad, M. Y., Djerdir, A. & Miraoui, A. Electrical Train Feeding By Association Of Supercapacitors, Photovoltaic And Wind Generators. 2007 International Conference on Clean Electrical Power 55–60 (2007) doi:10.1109/iccep.2007.384186 -- [10.1109/iccep.2007.384186](https://doi.org/10.1109/iccep.2007.384186)
 - [Becherif, M., Ayad, M. & Miraoui, A. Modeling and Passivity-Based Control of Hybrid Sources: Fuel Cell and Supercapacitors. Conference Record of the 2006 IEEE Industry Applications Conference Forty-First IAS Annual Meeting vol. 3 1134–1139 (2006)](modeling-and-passivity-based-control-of-hybrid-sources-fuel-cell-and-supercapacitors) -- [10.1109/ias.2006.256675](https://doi.org/10.1109/ias.2006.256675)
+- Becherif, M. (2006), Passivity-based control of hybrid sources: Fuel cell and Battery. In: 11th IFAC Symposium on Control in Transportation Systems (CTS'06), Netherlands.
 - Camara, M. B., Gualous, H., Gustin, F. & Berthon, A. Control strategy of Hybrid sources for Transport applications using supercapacitors and batteries. 2006 CES/IEEE 5th International Power Electronics and Motion Control Conference 1–5 (2006) doi:10.1109/ipemc.2006.4778037 -- [10.1109/ipemc.2006.4778037](https://doi.org/10.1109/ipemc.2006.4778037)
+- Lungoci, C., E. Helerea and A. Munteanu (2006). On an energy supply combined system used in electric vehicle. In: Bulletin of Transilvania University, Series A, pp.213-218, Brasov.
 - Lungoci, Modeling and simulation of the energy supply-motor system for an electric vehicle. (2006)
 - Macchelli, (2003)
+- Ortega, R., A.J. van der Schaft, I. Mareels and B. Maschke (2000). Energy Shaping Revisited. In: Proceedings of the 2000 IEEE, International Conference on Control Applications, Anchorage, Alaska, USA.
 - Rafik, F., Gualous, H., Gallay, R., Crausaz, A. & Berthon, A. Frequency, thermal and voltage supercapacitor characterization and modeling. Journal of Power Sources 165, 928–934 (2007) -- [10.1016/j.jpowsour.2006.12.021](https://doi.org/10.1016/j.jpowsour.2006.12.021)
+- Yang, J. M., J. Wu, P. Dong and J. H. Yang (2004). Passivity-based control in Wind Turbine for Maximal Energy Capture. In: IEEE International Conference on Electric Utility Deregulation, Restructuring and Power Technologies, Hong Kong.
 

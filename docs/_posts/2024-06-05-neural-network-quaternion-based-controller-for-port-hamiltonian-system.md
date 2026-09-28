@@ -110,4 +110,5 @@ In this research article, a control approach for port-Hamiltonian PH systems bas
 - Nguyen, S. & Turski, Ł. A. Examples of the Dirac approach to dynamics of systems with constraints. Physica A: Statistical Mechanics and its Applications vol. 290 431–444 (2001) -- [10.1016/s0378-4371(00)00449-0](https://doi.org/10.1016/s0378-4371(00)00449-0)
 - Chandre, C. Incomplete Dirac reduction of constrained Hamiltonian systems. Annals of Physics vol. 361 1–13 (2015) -- [10.1016/j.aop.2015.06.011](https://doi.org/10.1016/j.aop.2015.06.011)
 - [Borja, P., Ortega, R. & Nuño, E. New results on PID passivity-based controllers for port-Hamiltonian systems. IFAC-PapersOnLine vol. 51 175–180 (2018)](new-results-on-pid-passivity-based-controllers-for-port-hamiltonian-systems) -- [10.1016/j.ifacol.2018.06.049](https://doi.org/10.1016/j.ifacol.2018.06.049)
+- R. Krishnan, Electric Motor Drives, Modeling, Analysis and Control, Prentice Hall, New Delhi, 2006.
 

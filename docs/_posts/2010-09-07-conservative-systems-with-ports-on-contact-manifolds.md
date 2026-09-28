@@ -50,15 +50,18 @@ conservative systems, contact forms, irreversible thermodynamics, port hamiltoni
  
 ## References
 - Arnold, (1989)
+- Breedveld, P.C. (1984). Physical Systems Theory in Terms of Bond Graphs. PhD thesis. Technische Hogeschool Twente. Enschede, The Netherlands. ISBN 90-90005999-4
 - Carathéodory, C. Untersuchungen über die Grundlagen der Thermodynamik. Math. Ann. 67, 355–386 (1909) -- [10.1007/bf01450409](https://doi.org/10.1007/bf01450409)
 - [Courant, T. J. Dirac manifolds. Trans. Amer. Math. Soc. 319, 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM J. Control Optim. 37, 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
+- Eberard, D. and B.M. Maschke (2004). An extension of port Hamiltonian systems to irreversible systems. In: Proc. Int. Conf. on Non-linear Systems' Theory and Control, NOLCOS'04. Stuttgart, Germany. Preprint
 - [Fujimoto, K., Scherpen, J. M. A. & Gray, W. S. Hamiltonian realizations of nonlinear adjoint operators. Automatica 38, 1769–1775 (2002)](hamiltonian-realizations-of-nonlinear-adjoint-operators) -- [10.1016/s0005-1098(02)00079-1](https://doi.org/10.1016/s0005-1098(02)00079-1)
 - Gibbs, (1928)
 - Herman, (1973)
 - Libermann, (1987)
 - Marle, On submanifolds and quotients of Poisson and Jacobi manifolds. Banach center publications (2000)
 - [Maschke, B. M. J. Interconnection and Structure in Physical Systems’ Dynamics. IFAC Proceedings Volumes 31, 285–290 (1998)](interconnection-and-structure-in-physical-systems-dynamics) -- [10.1016/s1474-6670(17)40349-1](https://doi.org/10.1016/s1474-6670(17)40349-1)
+- Maschke, B.M. and A.J. van der Schaft (1997). Modelling and Control of Mechanical Systems. Chap. Interconnected Mechanical systems. Part 1 and 2, pp. 1-30. Imperial College Press. London. ISBN 1-86094-058-7
 - MrugaŁa, R. Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics 14, 419–427 (1978) -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)
 - Mrugala, A new representation of thermodynamic phase space. Bulletin de l'Académie des Sciences (1980)
 - Mrugala, R., Nulton, J. D., Christian Schön, J. & Salamon, P. Contact structure in thermodynamic theory. Reports on Mathematical Physics 29, 109–121 (1991) -- [10.1016/0034-4877(91)90017-h](https://doi.org/10.1016/0034-4877(91)90017-h)

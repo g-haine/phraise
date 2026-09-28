@@ -40,13 +40,13 @@ The three-dimensional rectilinear path following problem is addressed for a quad
  
 ## References
 - Jaimes, A., Kota, S. & Gomez, J. An approach to surveillance an area using swarm of fixed wing and quad-rotor unmanned aerial vehicles UAV(s). 2008 IEEE International Conference on System of Systems Engineering (2008) doi:10.1109/sysose.2008.4724195 -- [10.1109/sysose.2008.4724195](https://doi.org/10.1109/sysose.2008.4724195)
-- Almurib H.. SICE Annual Conference 2011 (2011)
-- Van Dam J.. 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), IEEE (2020)
+- Almurib H., SICE Annual Conference 2011 (2011)
+- Van Dam J., 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), IEEE (2020)
 - González-Rocha, J., Woolsey, C. A., Sultan, C. & De Wekker, S. F. J. Sensing Wind from Quadrotor Motion. Journal of Guidance, Control, and Dynamics vol. 42 836–852 (2019) -- [10.2514/1.g003542](https://doi.org/10.2514/1.g003542)
-- Khalil H.. Nonlinear Systems
+- Khalil H., Nonlinear Systems
 - Bouabdallah, S. & Siegwart, R. Backstepping and Sliding-mode Techniques Applied to an Indoor Micro Quadrotor. Proceedings of the 2005 IEEE International Conference on Robotics and Automation doi:10.1109/robot.2005.1570447 -- [10.1109/robot.2005.1570447](https://doi.org/10.1109/robot.2005.1570447)
 - Madani, T. & Benallegue, A. Backstepping Control for a Quadrotor Helicopter. 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems 3255–3260 (2006) doi:10.1109/iros.2006.282433 -- [10.1109/iros.2006.282433](https://doi.org/10.1109/iros.2006.282433)
-- Bangura M.. IFAC Proceedings Volumes
+- Bangura M., IFAC Proceedings Volumes
 - Raffo, G. V., Ortega, M. G. & Rubio, F. R. An integral predictive/nonlinear $H^\infty$ control structure for a quadrotor helicopter. Automatica vol. 46 29–39 (2010) -- [10.1016/j.automatica.2009.10.018](https://doi.org/10.1016/j.automatica.2009.10.018)
 - Nicol, C., Macnab, C. J. B. & Ramirez-Serrano, A. Robust neural network control of a quadrotor helicopter. 2008 Canadian Conference on Electrical and Computer Engineering 001233–001238 (2008) doi:10.1109/ccece.2008.4564736 -- [10.1109/ccece.2008.4564736](https://doi.org/10.1109/ccece.2008.4564736)
 - Lee, T., Leok, M. & McClamroch, N. H. Geometric tracking control of a quadrotor UAV on SE(3). 49th IEEE Conference on Decision and Control (CDC) 5420–5425 (2010) doi:10.1109/cdc.2010.5717652 -- [10.1109/cdc.2010.5717652](https://doi.org/10.1109/cdc.2010.5717652)
@@ -54,7 +54,7 @@ The three-dimensional rectilinear path following problem is addressed for a quad
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [González, H., Duarte-Mermoud, M. A., Pelissier, I., Travieso-Torres, J. C. & Ortega, R. A novel induction motor control scheme using IDA-PBC. Journal of Control Theory and Applications vol. 6 59–68 (2008)](a-novel-induction-motor-control-scheme-using-ida-pbc) -- [10.1007/s11768-008-7193-9](https://doi.org/10.1007/s11768-008-7193-9)
-- Neves L.. IFAC Proceedings Volumes
+- Neves L., IFAC Proceedings Volumes
 - [Valentinis, F., Donaire, A. & Perez, T. Energy-based motion control of a slender hull unmanned underwater vehicle. Ocean Engineering vol. 104 604–616 (2015)](energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle) -- [10.1016/j.oceaneng.2015.05.014](https://doi.org/10.1016/j.oceaneng.2015.05.014)
 - [Valentinis, F., Donaire, A. & Perez, T. Energy-based guidance of an underactuated unmanned underwater vehicle on a helical trajectory. Control Engineering Practice vol. 44 138–156 (2015)](energy-based-guidance-of-an-underactuated-unmanned-underwater-vehicle-on-a-helical-trajectory) -- [10.1016/j.conengprac.2015.07.010](https://doi.org/10.1016/j.conengprac.2015.07.010)
 - [Valentinis, F. & Woolsey, C. Nonlinear control of a subscale submarine in emergency ascent. Ocean Engineering vol. 171 646–662 (2019)](nonlinear-control-of-a-subscale-submarine-in-emergency-ascent) -- [10.1016/j.oceaneng.2018.11.029](https://doi.org/10.1016/j.oceaneng.2018.11.029)

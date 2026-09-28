@@ -55,6 +55,7 @@ variable structure systems; generalized state space; phase space; converters
 - Caliskan, V. A., Verghese, O. C. & Stankovic, A. M. Multifrequency averaging of DC/DC converters. IEEE Trans. Power Electron. 14, 124–133 (1999) -- [10.1109/63.737600](https://doi.org/10.1109/63.737600)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM J. Control Optim. 37, 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Escobar, G., Chevreau, D., Ortega, R. & Mendes, E. An adaptive passivity-based controller for a unity power factor rectifier. IEEE Trans. Contr. Syst. Technol. 9, 637–644 (2001) -- [10.1109/87.930975](https://doi.org/10.1109/87.930975)
+- Gaviria, C., E. Fossas and R. Griñó (in press). Robust controller for a full-bridge rectifier using the IDA-PBC approach and GSSA modelling. IEEE Trans. Circuits and Systems I
 - Krein, P. T., Bentsman, J., Bass, R. M. & Lesieutre, B. L. On the use of averaging for the analysis of power electronic systems. IEEE Trans. Power Electron. 5, 182–190 (1990) -- [10.1109/63.53155](https://doi.org/10.1109/63.53155)
 - Kugi, (2001)
 - Mahdavi, J., Emaadi, A., Bellar, M. D. & Ehsani, M. Analysis of power electronic converters using the generalized state-space averaging approach. IEEE Trans. Circuits Syst. I 44, 767–770 (1997) -- [10.1109/81.611275](https://doi.org/10.1109/81.611275)

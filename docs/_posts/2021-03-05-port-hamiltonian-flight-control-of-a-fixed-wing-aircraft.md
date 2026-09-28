@@ -44,11 +44,11 @@ This brief addresses the problem of stabilizing steady, wing level flight of a f
  
 ## References
 - Snell, S. A., Enns, D. F. & Garrard, W. L., Jr. Nonlinear inversion flight control for a supermaneuverable aircraft. Journal of Guidance, Control, and Dynamics vol. 15 976–984 (1992) -- [10.2514/3.20932](https://doi.org/10.2514/3.20932)
-- Khalil. Nonlinear Systems (1996)
+- Khalil, Nonlinear Systems (1996)
 - Nonlinear Systems. (Springer US, 1996). doi:10.1007/978-1-4613-1193-5 -- [10.1007/978-1-4613-1193-5](https://doi.org/10.1007/978-1-4613-1193-5)
 - Hovakimyan, N. & Cao, C. ℒ1Adaptive Control Theory. (Society for Industrial and Applied Mathematics, 2010). doi:10.1137/1.9780898719376 -- [10.1137/1.9780898719376](https://doi.org/10.1137/1.9780898719376)
-- Krstic. Nonlinear and Adaptive Control Design (1995)
-- Åström. Adaptive Control (2013)
+- Krstic, Nonlinear and Adaptive Control Design (1995)
+- Åström, Adaptive Control (2013)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
@@ -64,7 +64,7 @@ This brief addresses the problem of stabilizing steady, wing level flight of a f
 - [Valentinis, F., Donaire, A. & Perez, T. Energy-based guidance of an underactuated unmanned underwater vehicle on a helical trajectory. Control Engineering Practice vol. 44 138–156 (2015)](energy-based-guidance-of-an-underactuated-unmanned-underwater-vehicle-on-a-helical-trajectory) -- [10.1016/j.conengprac.2015.07.010](https://doi.org/10.1016/j.conengprac.2015.07.010)
 - [Valentinis, F. & Woolsey, C. Nonlinear control of a subscale submarine in emergency ascent. Ocean Engineering vol. 171 646–662 (2019)](nonlinear-control-of-a-subscale-submarine-in-emergency-ascent) -- [10.1016/j.oceaneng.2018.11.029](https://doi.org/10.1016/j.oceaneng.2018.11.029)
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- Etkin. Dynamics of Atmospheric Flight (1972)
+- Etkin, Dynamics of Atmospheric Flight (1972)
 - Battista, T., Jung, S., Woolsey, C. & Paterson, E. An energy-casimir approach to underwater vehicle depth and heading regulation in short crested waves. 2017 IEEE Conference on Control Technology and Applications (CCTA) 217–222 (2017) doi:10.1109/ccta.2017.8062466 -- [10.1109/ccta.2017.8062466](https://doi.org/10.1109/ccta.2017.8062466)
 - Grauer, J. A. & Morelli, E. A. A Generic Nonlinear Aerodynamic Model for Aircraft. AIAA Atmospheric Flight Mechanics Conference (2014) doi:10.2514/6.2014-0542 -- [10.2514/6.2014-0542](https://doi.org/10.2514/6.2014-0542)
 - Lane, S. H. & Stengel, R. F. Flight control design using non-linear inverse dynamics. Automatica vol. 24 471–483 (1988) -- [10.1016/0005-1098(88)90092-1](https://doi.org/10.1016/0005-1098(88)90092-1)

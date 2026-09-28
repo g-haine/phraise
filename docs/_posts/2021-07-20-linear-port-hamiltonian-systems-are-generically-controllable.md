@@ -44,7 +44,7 @@ The new concept of relative generic subsets is introduced. It is shown that the 
  
 ## References
 - Wonham, W. M. Linear Multivariable Control. (Springer New York, 1985). doi:10.1007/978-1-4612-1082-5 -- [10.1007/978-1-4612-1082-5](https://doi.org/10.1007/978-1-4612-1082-5)
-- Sontag. Mathematical Systems Theory: Deterministic Finite Dimensional Systems (1998)
-- Federer. Geometric Measure Theory (1969)
+- Sontag, Mathematical Systems Theory: Deterministic Finite Dimensional Systems (1998)
+- Federer, Geometric Measure Theory (1969)
 - Bhatia, R., Elsner, L. & Krause, G. Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. Linear Algebra and its Applications vol. 142 195–209 (1990) -- [10.1016/0024-3795(90)90267-g](https://doi.org/10.1016/0024-3795(90)90267-g)
 

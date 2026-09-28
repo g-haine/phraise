@@ -66,4 +66,5 @@ Port-Hamiltonian Systems; Marine Control Systems
 - Sontag, E. D. Comments on integral variants of ISS. Systems &amp; Control Letters 34, 93–100 (1998) -- [10.1016/s0167-6911(98)00003-6](https://doi.org/10.1016/s0167-6911(98)00003-6)
 - Sontag, E. D. & Yuan Wang. New characterizations of input-to-state stability. IEEE Trans. Automat. Contr. 41, 1283–1294 (1996) -- [10.1109/9.536498](https://doi.org/10.1109/9.536498)
 - van der Schaft, (2000)
+- van der Schaft, A. (2006). Port-hamiltonian systems: An introductory survey. In Proceeding of the International Congress of Mathematicians
 

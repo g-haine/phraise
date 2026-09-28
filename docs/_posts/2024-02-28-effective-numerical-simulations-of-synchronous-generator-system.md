@@ -52,6 +52,8 @@ Synchronous generator system is a complicated dynamic system for energy transmis
 - Dommel HW, EMTP theory book (1992)
 - Ji, F., Qiu, Y., Wei, X., Wu, X. & He, Z. Nodal dynamic equation used for electromagnetic transient simulation of linear switching circuit. IET Science, Measurement &amp; Technology vol. 12 626–633 (2018) -- [10.1049/iet-smt.2017.0434](https://doi.org/10.1049/iet-smt.2017.0434)
 - Ji F, Proc CSEE (2022)
+- Ji F, Gao L, Lin C, et al. Lagrangian modelling and motion stability of synchronous generator power systems. Arxiv Preprint, arXiv:2311.03737, 2023.
+- Hairer E, Nørsett SP, Wanner G. Solving ordinary differential equations I: nonstiff problems. 2nd ed. Berlin: Springer-Verlag, 1993, pp. 356–360.
 - Feng K, Proceedings of 1984 Beijing symposium on differential geometry and differential equations (1985)
 - Hairer, E., Wanner, G. & Lubich, C. Symplectic Integration of Hamiltonian Systems. Springer Series in Computational Mathematics 179–236 doi:10.1007/3-540-30666-8_6 -- [10.1007/3-540-30666-8_6](https://doi.org/10.1007/3-540-30666-8_6)
 - Sanz-Serna, J. M. Symplectic integrators for Hamiltonian problems: an overview. Acta Numerica vol. 1 243–286 (1992) -- [10.1017/s0962492900002282](https://doi.org/10.1017/s0962492900002282)
@@ -69,6 +71,7 @@ Synchronous generator system is a complicated dynamic system for energy transmis
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - First benchmark model for computer simulation of subsynchronous resonance. IEEE Transactions on Power Apparatus and Systems vol. 96 1565–1572 (1977) -- [10.1109/t-pas.1977.32485](https://doi.org/10.1109/t-pas.1977.32485)
 - Cheng S, Theory and method of subsynchronous oscillation in power system (2009)
+- Celledoni E, Høiseth EH. Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems. Arxiv Preprint, arXiv:1706.08621, 2017.
 - Hairer, E., Roche, M. & Lubich, C. The Numerical Solution of Differential-Algebraic Systems by Runge-Kutta Methods. Lecture Notes in Mathematics (Springer Berlin Heidelberg, 1989). doi:10.1007/bfb0093947 -- [10.1007/bfb0093947](https://doi.org/10.1007/bfb0093947)
 - Hairer, E. & Wanner, G. Solving Ordinary Differential Equations II. Springer Series in Computational Mathematics (Springer Berlin Heidelberg, 1996). doi:10.1007/978-3-642-05221-7 -- [10.1007/978-3-642-05221-7](https://doi.org/10.1007/978-3-642-05221-7)
 - Ehle, B. L. High order a-stable methods for the numerical solution of systems of D.E.’s. BIT vol. 8 276–278 (1968) -- [10.1007/bf01933437](https://doi.org/10.1007/bf01933437)

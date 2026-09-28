@@ -46,9 +46,20 @@ We consider linear port-Hamiltonian differential-algebraic equations (pH-DAEs). 
 - Azizov, T. Ya., Behrndt, J., Jonas, P. & Trunk, C. Compact and Finite Rank Perturbations of Closed Linear Operators and Relations in Hilbert Spaces. Integral Equations and Operator Theory vol. 63 151–163 (2009) -- [10.1007/s00020-008-1650-1](https://doi.org/10.1007/s00020-008-1650-1)
 - Azizov, T. Ya., Dijksma, A. & Wanjala, G. Compressions of maximal dissipative and self-adjoint linear relations and of dilations. Linear Algebra and its Applications vol. 439 771–792 (2013) -- [10.1016/j.laa.2013.04.003](https://doi.org/10.1016/j.laa.2013.04.003)
 - [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
+- Behrndt J, Hassi S, de Snoo H (2020) Boundary Value Problems, Weyl Functions, and Differential Operators. Springer International Publishing, Cham -- [10.1007/978-3-030-36714-5](https://doi.org/10.1007/978-3-030-36714-5)
 - Berger T., Boston (2014)
 - Berger, T. & Reis, T. Zero dynamics and funnel control for linear electrical circuits. Journal of the Franklin Institute vol. 351 5099–5132 (2014) -- [10.1016/j.jfranklin.2014.08.006](https://doi.org/10.1016/j.jfranklin.2014.08.006)
 - Berger, T., Trunk, C. & Winkler, H. Linear relations and the Kronecker canonical form. Linear Algebra and its Applications vol. 488 13–44 (2016) -- [10.1016/j.laa.2015.09.033](https://doi.org/10.1016/j.laa.2015.09.033)
+- R. Cross,
+                      Multivalued Linear Operators
+                      , Marcel Dekker, New York, 1998.
+- F. Gantmacher,
+                      The Theory of Matrices
+                      , Vol. II, Chelsea, New York, 1959.
+- R. Horn and C. Johnson,
+                      Matrix Analysis
+                      , Cambridge University Press, New York, 2013.
+- [Jacob B, Zwart HJ (2012) Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces. Springer Basel, Basel](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - [Mehl, C., Mehrmann, V. & Wojtylak, M. Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems. SIAM Journal on Matrix Analysis and Applications vol. 39 1489–1519 (2018)](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18m1164275](https://doi.org/10.1137/18m1164275)
 - [Mehl, C., Mehrmann, V. & Wojtylak, M. Distance problems for dissipative Hamiltonian systems and related matrix polynomials. Linear Algebra and its Applications vol. 623 335–366 (2021)](distance-problems-for-dissipative-hamiltonian-systems-and-related-matrix-polynomials) -- [10.1016/j.laa.2020.05.026](https://doi.org/10.1016/j.laa.2020.05.026)
 - Reis, T. & Stykel, T. Lyapunov Balancing for Passivity-Preserving Model Reduction of RC Circuits. SIAM Journal on Applied Dynamical Systems vol. 10 1–34 (2011) -- [10.1137/090779802](https://doi.org/10.1137/090779802)

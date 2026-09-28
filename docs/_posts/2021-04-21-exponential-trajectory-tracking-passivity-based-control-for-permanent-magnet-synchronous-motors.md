@@ -45,6 +45,15 @@ In this paper, a novel methodology of nonlinear control is used, and a passivity
 - Brasel, M. A gain-scheduled multivariable LQR controller for permanent magnet synchronous motor. 2014 19th International Conference on Methods and Models in Automation and Robotics (MMAR) 722–725 (2014) doi:10.1109/mmar.2014.6957443 -- [10.1109/mmar.2014.6957443](https://doi.org/10.1109/mmar.2014.6957443)
 - Zhang, X., Tian, G., Huang, Y. & Lu, Z. A Comparative Study of PMSM Sensorless Control Algorithms: Model Based vs Luenberger Observer. 2016 IEEE Vehicle Power and Propulsion Conference (VPPC) 1–6 (2016) doi:10.1109/vppc.2016.7791566 -- [10.1109/vppc.2016.7791566](https://doi.org/10.1109/vppc.2016.7791566)
 - Ghafarri-Kashani, A. R., Yazdanpanah, M. J. & Faiz, J. ROBUST SPEED CONTROL OF PMSM USING Mixed NONLINEAR H∞/SMC Techniques. IFAC Proceedings Volumes 41, 8413–8418 (2008) -- [10.3182/20080706-5-kr-1001.01422](https://doi.org/10.3182/20080706-5-kr-1001.01422)
+- Ortega ,  R. ,   
+ Perez ,  J.A.L. ,   
+ Nicklasson ,  P.J. , and   
+ Sira-Ramirez ,  H.J. 
+ 
+ Passivity-Based Control of Euler-Lagrange Systems: Mechanical, Electrical and Electromechanical Applications London Springer Science & Business Media 2013
+- Borja ,  L.P. 
+ 
+ 2013
 - AC Electric Motors Control. (2013) doi:10.1002/9781118574263 -- [10.1002/9781118574263](https://doi.org/10.1002/9781118574263)
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems and its application to a magnetic levitation system. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) 3388–3393 doi:10.1109/cdc.2001.980360](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-and-its-application-to-a-magnetic-levitation-system) -- [10.1109/cdc.2001.980360](https://doi.org/10.1109/cdc.2001.980360)
@@ -54,6 +63,9 @@ In this paper, a novel methodology of nonlinear control is used, and a passivity
 - [Yaghmaei, A. & Yazdanpanah, M. J. Trajectory tracking for a class of contractive port Hamiltonian systems. Automatica 83, 331–336 (2017)](trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems) -- [10.1016/j.automatica.2017.06.039](https://doi.org/10.1016/j.automatica.2017.06.039)
 - [Yaghmaei, A. & Yazdanpanah, M. J. Trajectory tracking of a class of port Hamiltonian systems using Timed IDA-PBC technique. 2015 54th IEEE Conference on Decision and Control (CDC) 5037–5042 (2015) doi:10.1109/cdc.2015.7403007](trajectory-tracking-of-a-class-of-port-hamiltonian-systems-using-timed-ida-pbc-technique) -- [10.1109/cdc.2015.7403007](https://doi.org/10.1109/cdc.2015.7403007)
 - LOHMILLER, W. & SLOTINE, J.-J. E. On Contraction Analysis for Non-linear Systems. Automatica 34, 683–696 (1998) -- [10.1016/s0005-1098(98)00019-3](https://doi.org/10.1016/s0005-1098(98)00019-3)
+- Rodríguez ,  L.F. 
+ 
+ 2019
 - Anderson, B. D. O., Pren, J. B. & Dickerson, S. L. Linear Optimal Control. Journal of Dynamic Systems, Measurement, and Control 93, 275–275 (1971) -- [10.1115/1.3426525](https://doi.org/10.1115/1.3426525)
 - Shah, D., Espinosa–Pérez, G., Ortega, R. & Hilairet, M. An asymptotically stable sensorless speed controller for non‐salient permanent magnet synchronous motors. Intl J Robust &amp; Nonlinear 24, 644–668 (2012) -- [10.1002/rnc.2910](https://doi.org/10.1002/rnc.2910)
 

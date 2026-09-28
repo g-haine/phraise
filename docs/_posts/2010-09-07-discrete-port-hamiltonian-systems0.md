@@ -54,7 +54,11 @@ Discrete geometry; Discrete port-Hamiltonian systems
 - Marsden, J. E. & West, M. Discrete mechanics and variational integrators. Acta Numerica 10, 357–514 (2001) -- [10.1017/s096249290100006x](https://doi.org/10.1017/s096249290100006x)
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Stramigioli, Stefano, Cristian Secchi, Arjan v. d. Schaft and Cesare Fantuzzi (2003). Sampled data systems passivity and sampled porthamiltonian systems. IEEE Transactions of Robotics and Automation, Submitted
 - Talasila, V., Clemente-Gallardo, J. & Schaft, A. J. van der. Geometry and Hamiltonian mechanics on discrete spaces. J. Phys. A: Math. Gen. 37, 9705–9734 (2004) -- [10.1088/0305-4470/37/41/008](https://doi.org/10.1088/0305-4470/37/41/008)
+- Talasila, V., J. Clemente-Gallardo and A. J. van der Schaft (July 5-9, 2004b). Hamiltonian mechanics on discrete manifolds. Proceedings of the Sixteenth International Symposium on Mathematical Theory of Networks and Systems, Katholieke Universiteit Leuven, Belgium
+- van der Schaft, A. J. (1999). Interconnection and geometry. In: The Mathematics of Systems and Control: From Intelligent Control to Behavioral Systems (J. W. Polderman and H. L. Trentelman, Eds.)
+- van der Schaft, A. J. and Cervera (n.d.). Interconnection of port-based physical system models. In preparation
 - van der Schaft, The hamiltonian formulation of energy conserving physical systems with external ports. Archiv fur Electronik und Ubertragungstechnik, pp. 362-371 (1995)
 - van der Schaft, (2000)
 

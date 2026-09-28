@@ -44,6 +44,7 @@ The operational stability and performance of dual active bridge (DAB) converters
  
 ## References
 - Krismer, F. & Kolar, J. W. Efficiency-Optimized High-Current Dual Active Bridge Converter for Automotive Applications. IEEE Trans. Ind. Electron. 59, 2745–2760 (2012) -- [10.1109/tie.2011.2112312](https://doi.org/10.1109/tie.2011.2112312)
+- Kisacikoglu, M.C., Ozpineci, B., and Tolbert, L.M. (2010, January 21–25). Examination of a PHEV charging station based on a series resonant converter. Proceedings of the 2010 Twenty-Fifth Annual IEEE Applied Power Electronics Conference and Exposition (APEC), Palm Springs, CA, USA.
 - Polat, H. et al. A Review of DC Fast Chargers with BESS for Electric Vehicles: Topology, Battery, Reliability Oriented Control and Cooling Perspectives. Batteries 9, 121 (2023) -- [10.3390/batteries9020121](https://doi.org/10.3390/batteries9020121)
 - Muhammetoglu, B. & Jamil, M. Dual Active Bridge Converter with Interleaved and Parallel Operation for Electric Vehicle Charging. Energies 17, 4258 (2024) -- [10.3390/en17174258](https://doi.org/10.3390/en17174258)
 - Huang, A. Q., Crow, M. L., Heydt, G. T., Zheng, J. P. & Dale, S. J. The Future Renewable Electric Energy Delivery and Management (FREEDM) System: The Energy Internet. Proc. IEEE 99, 133–148 (2011) -- [10.1109/jproc.2010.2081330](https://doi.org/10.1109/jproc.2010.2081330)

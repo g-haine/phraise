@@ -50,14 +50,14 @@ Abstract In this paper, we discuss the possibility of using computer algebra too
 - Razafindralandy, D., Salnikov, V., Hamdouni, A. & Deeb, A. Some robust integrators for large time dynamics. Advanced Modeling and Simulation in Engineering Sciences vol. 6 (2019) -- [10.1186/s40323-019-0130-2](https://doi.org/10.1186/s40323-019-0130-2)
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - van der Schaft, A., Port-Hamiltonian systems: An introductory survey, Proc. Int. Congr. Mathematicians, Madrid, 2006.
-- W.M. Tulczyjew. Tulczyjew, W.M., The Legendre transformation, Ann. Inst. H. Poincaré,Sect. A, 1977, vol. 27, no. 1, pp. 101–114. (1977)
+- Tulczyjew, W.M., The Legendre transformation, Ann. Inst. H. Poincaré,Sect. A, 1977, vol. 27, no. 1, pp. 101–114.
 - Verlet, L. Computer ‘Experiments’ on Classical Fluids. I. Thermodynamical Properties of Lennard-Jones Molecules. Physical Review vol. 159 98–103 (1967) -- [10.1103/physrev.159.98](https://doi.org/10.1103/physrev.159.98)
 - Yoshida, H. Construction of higher order symplectic integrators. Physics Letters A vol. 150 262–268 (1990) -- [10.1016/0375-9601(90)90092-3](https://doi.org/10.1016/0375-9601(90)90092-3)
-- A. Falaize. Falaize, A. and Hélie, T., Passive simulation of the nonlinear port-Hamiltonian modeling of a Rhodes piano, J. Sound Vib., 2016. (2016)
+- Falaize, A. and Hélie, T., Passive simulation of the nonlinear port-Hamiltonian modeling of a Rhodes piano, J. Sound Vib., 2016.
 - Kotov, A., Schaller, P. & Strobl, T. Dirac Sigma Models. Communications in Mathematical Physics vol. 260 455–480 (2005) -- [10.1007/s00220-005-1416-4](https://doi.org/10.1007/s00220-005-1416-4)
 - Salnikov, V. and Hamdouni, A., Geometric integrators in mechanics: The need for computer algebra tools, Proc. 3rd Int. Conf. Computer Algebra, Moscow, 2019.
 - Salnikov, V. and Hamdouni, A., Géométrie généralisée et graduée pour la mécanique, Proc. Congrès Français de Mécanique, Brest, France, 2019.
-- A. Kushner. Kushner, A., Lychagin, V., and Rubtsov, V., Contact geometry and non-linear differential equations, Encyclopedia of Mathematics and its Applications, Cambridge University Press, 2007. (2007)
+- Kushner, A., Lychagin, V., and Rubtsov, V., Contact geometry and non-linear differential equations, Encyclopedia of Mathematics and its Applications, Cambridge University Press, 2007.
 - Krasil’ shchik, I. S. Higher symmetries and conservation laws. Symmetries and Recursion Operators for Classical and Supersymmetric Differential Equations 57–97 (2000) doi:10.1007/978-94-017-3196-6_2 -- [10.1007/978-94-017-3196-6_2](https://doi.org/10.1007/978-94-017-3196-6_2)
 - Hamdouni, A. and Salnikov, V., Dirac integrators for port-Hamiltonian systems, in prep.
 - Salnikov, V. and Hamdouni, A., Discretization in the graded world, in prep.

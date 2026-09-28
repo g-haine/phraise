@@ -57,6 +57,7 @@ hamiltonian systems, nonholonomic systems, output feedback systems
 - Nijmeijer, (1990)
 - [Ortega, R., van der Schaft, A. J. & Maschke, B. M. Stabilization of port-controlled Hamiltonian systems via energy balancing. Lecture Notes in Control and Information Sciences 239–260 (1999) doi:10.1007/1-84628-577-1_13](stabilization-of-port-controlled-hamiltonian-systems-via-energy-balancing) -- [10.1007/1-84628-577-1_13](https://doi.org/10.1007/1-84628-577-1_13)
 - Ortega, (1998)
+- Stramigioli, S., B. M. J. Maschke and A. J. van der Schaft (1998). Passive output feedback and port interconnection. In: Proc. 4th IFAC Symp. Nonlinear Control Systems. pp. 613-618.
 - van der Schaft, Stabilization of Hamiltonian systems. Nonl. An. Th. Math. Appl. (1986)
 - van der Schaft, (2000)
 

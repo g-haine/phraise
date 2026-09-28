@@ -49,6 +49,7 @@ distributed parameters systems, geometric discretization, plasma control, port-c
 [Download the bib file]({{ site.baseurl }}/assets/bib/geometric-discretization-for-a-plasma-control-model.bib)
  
 ## References
+- Argomedo, F., Prieur, C., Witrant, E., and Brémond, S. (2012). A strict control lyapunov function for a diffusion equation with time-varying distributed coefficients. accepted for IEEE Transactions on Automatic Control.
 - Artaud, J. F. et al. The CRONOS suite of codes for integrated tokamak modelling. Nucl. Fusion 50, 043001 (2010) -- [10.1088/0029-5515/50/4/043001](https://doi.org/10.1088/0029-5515/50/4/043001)
 - Blum, (1989)
 - Moreau, Ph. et al. Plasma Control in Tore Supra. Fusion Science and Technology 56, 1284–1299 (2009) -- [10.13182/fst09-a9178](https://doi.org/10.13182/fst09-a9178)

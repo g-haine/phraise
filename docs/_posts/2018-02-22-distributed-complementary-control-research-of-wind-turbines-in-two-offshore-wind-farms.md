@@ -54,6 +54,7 @@ In order to stabilize the fluctuation of wind power and maintain a stable power 
 - Zhang, Z., Xu, H., Zou, J. & Zheng, G. Sliding mode control-based active power control for wind farm with variable speed wind generation system. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science 227, 449–458 (2012) -- [10.1177/0954406212462197](https://doi.org/10.1177/0954406212462197)
 - Prieto-Araujo, E., Junyent-Ferre, A., Lavernia-Ferrer, D. & Gomis-Bellmunt, O. Decentralized Control of a Nine-Phase Permanent Magnet Generator for Offshore Wind Turbines. IEEE Trans. Energy Convers. 30, 1103–1112 (2015) -- [10.1109/tec.2015.2412550](https://doi.org/10.1109/tec.2015.2412550)
 - [Wang, B., Wu, Q., Tian, M. & Hu, Q. Distributed Coordinated Control of Offshore Doubly Fed Wind Turbine Groups Based on the Hamiltonian Energy Method. Sustainability 9, 1448 (2017)](distributed-coordinated-control-of-offshore-doubly-fed-wind-turbine-groups-based-on-the-hamiltonian-energy-method) -- [10.3390/su9081448](https://doi.org/10.3390/su9081448)
+- Baros, S., and Llic, M.D. (2017). A consensus approach to real-time distributed control of energy storage systems in wind farms. IEEE Trans. Smart Grid.
 - Wang, L., Wen, J., Cai, M. & Zhang, Y. Distributed Optimization Control Schemes Applied On Offshore Wind Farm Active Power Regulation. Energy Procedia 105, 1192–1198 (2017) -- [10.1016/j.egypro.2017.03.411](https://doi.org/10.1016/j.egypro.2017.03.411)
 - Jiang, Q. & Hong, H. Wavelet-Based Capacity Configuration and Coordinated Control of Hybrid Energy Storage System for Smoothing Out Wind Power Fluctuations. IEEE Trans. Power Syst. 28, 1363–1372 (2013) -- [10.1109/tpwrs.2012.2212252](https://doi.org/10.1109/tpwrs.2012.2212252)
 - Li, Y., Xu, Z., Ostergaard, J. & Hill, D. J. Coordinated Control Strategies for Offshore Wind Farm Integration via VSC-HVDC for System Frequency Support. IEEE Trans. Energy Convers. 32, 843–856 (2017) -- [10.1109/tec.2017.2663664](https://doi.org/10.1109/tec.2017.2663664)
@@ -68,4 +69,5 @@ In order to stabilize the fluctuation of wind power and maintain a stable power 
 - Mesbahi, M. & Egerstedt, M. Graph Theoretic Methods in Multiagent Networks. (2010) doi:10.1515/9781400835355 -- [10.1515/9781400835355](https://doi.org/10.1515/9781400835355)
 - Ren, W. & Beard, R. W. Distributed Consensus in Multi-Vehicle Cooperative Control. Communications and Control Engineering (Springer London, 2008). doi:10.1007/978-1-84800-015-5 -- [10.1007/978-1-84800-015-5](https://doi.org/10.1007/978-1-84800-015-5)
 - Li, Protocol design for output consensus of port-controlled Hamiltonian multi-agent systems. Acta Autom. Sin. (2014)
+- Khalil, H.K. (2002). Nonlinear Systems, Prentice-Hall. [3rd ed.].
 

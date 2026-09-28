@@ -55,6 +55,7 @@ Order reduction; Port-Hamiltonian systems; Structure preserving; Moment matching
 - Antoulas, A. C. A new result on passivity preserving model reduction. Systems &amp; Control Letters vol. 54 361–374 (2005) -- [10.1016/j.sysconle.2004.07.007](https://doi.org/10.1016/j.sysconle.2004.07.007)
 - Arnoldi, W. E. The principle of minimized iterations in the solution of the matrix eigenvalue problem. Quarterly of Applied Mathematics vol. 9 17–29 (1951) -- [10.1090/qam/42792](https://doi.org/10.1090/qam/42792)
 - Bai, Stable and Passive Reduced-Order Models Based on Partial Padé Approximation via the Lanczos Process. Numerical Analysis Manuscript 97/3-10 (1997)
+- Eid R. Time Domain Model Reduction by Moment Matching. PhD thesis, Institute of Automatic Control, Technische Universität München, 2009.
 - Eid, How to choose a single expansion point in Krylov-based model reduction?. Technical reports on automatic control (2009)
 - Freund, Passive reduced-order modeling via Krylovsubspace methods. Numerical Analysis Manuscripts (2000)
 - Freund, R. W. Model reduction methods based on Krylov subspaces. Acta Numerica vol. 12 267–319 (2003) -- [10.1017/s0962492902000120](https://doi.org/10.1017/s0962492902000120)
@@ -63,6 +64,7 @@ Order reduction; Port-Hamiltonian systems; Structure preserving; Moment matching
 - Grimme, Krylov Projection Methods for Model Reduction. PhD thesis, Department of Electrical Engineering. University of Illinois at Urbana Champaign (1997)
 - Gugercin, S., Antoulas, A. C. & Beattie, C. $\mathcal{H}_2$ Model Reduction for Large-Scale Linear Dynamical Systems. SIAM Journal on Matrix Analysis and Applications vol. 30 609–638 (2008) -- [10.1137/060666123](https://doi.org/10.1137/060666123)
 - Gugercin, Interpolation-based h2 model reduction for port-hamiltonian systems. In Proceedings of 48th CDC/CCC (2009)
+- Hartmann C, Vulcanov V-M, Schütte C. Balanced truncation of linear second-order systems: a hamiltonian approach. To appear in Multi Mod Simul, Revised version of Matheon preprint nr.480, available at www.matheon.de.
 - Ionutiu, R., Rommes, J. & Antoulas, A. C. Passivity-Preserving Model Reduction Using Dominant Spectral-Zero Interpolation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems vol. 27 2250–2263 (2008) -- [10.1109/tcad.2008.2006160](https://doi.org/10.1109/tcad.2008.2006160)
 - Jaimoukha, I. M. & Kasenally, E. M. Oblique Production Methods for Large Scale Model Reduction. SIAM Journal on Matrix Analysis and Applications vol. 16 602–627 (1995) -- [10.1137/s0895479893250740](https://doi.org/10.1137/s0895479893250740)
 - Jaimoukha, I. M. & Kasenally, E. M. Implicitly Restarted Krylov Subspace Methods for Stable Partial Realizations. SIAM Journal on Matrix Analysis and Applications vol. 18 633–652 (1997) -- [10.1137/s0895479895279873](https://doi.org/10.1137/s0895479895279873)

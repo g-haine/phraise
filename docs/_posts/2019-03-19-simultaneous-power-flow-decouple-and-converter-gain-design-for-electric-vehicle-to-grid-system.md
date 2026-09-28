@@ -62,6 +62,7 @@ This paper presents a novel idea based on the Port-Hamiltonian and cascade syste
 - Yang, J. et al. Coordinated optimization of vehicle-to-grid control and load frequency control by considering statistical properties of active power imbalance. International Transactions on Electrical Energy Systems vol. 29 e2750 (2018) -- [10.1002/etep.2750](https://doi.org/10.1002/etep.2750)
 - Kottick, D., Blau, M. & Edelstein, D. Battery energy storage for frequency regulation in an island power system. IEEE Transactions on Energy Conversion vol. 8 455–459 (1993) -- [10.1109/60.257059](https://doi.org/10.1109/60.257059)
 - Khayyer, P. & Ozguner, U. Decentralized Control of Large-Scale Storage-Based Renewable Energy Systems. IEEE Transactions on Smart Grid vol. 5 1300–1307 (2014) -- [10.1109/tsg.2014.2311093](https://doi.org/10.1109/tsg.2014.2311093)
+- Singh, M.D., and Khanchandani, K.B. (2011). Power Electronics, Tsinghua University Press.
 - [Cai, L. & He, Y. Exponential stability of port-Hamiltonian systems via energy-shaped method. Journal of the Franklin Institute vol. 354 2944–2958 (2017)](exponential-stability-of-port-hamiltonian-systems-via-energy-shaped-method) -- [10.1016/j.jfranklin.2017.02.004](https://doi.org/10.1016/j.jfranklin.2017.02.004)
 - Isidori, A. Nonlinear Control Systems II. Communications and Control Engineering (Springer London, 1999). doi:10.1007/978-1-4471-0549-7 -- [10.1007/978-1-4471-0549-7](https://doi.org/10.1007/978-1-4471-0549-7)
 

@@ -44,27 +44,55 @@ A wide class of matrix pencils connected with dissipative Hamiltonian descriptor
  
 ## References
 - Astolfi, A., Ortega, R. & Venkatraman, A. A globally exponentially convergent immersion and invariance speed observer for mechanical systems with non-holonomic constraints. Automatica vol. 46 182–189 (2010) -- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
+- C. Beattie, V. Mehrmann, H. Xu, and H. Zwart,
+                      Port-Hamiltonian Descriptor Systems
+                      , Preprint 06-2017, Institut für Mathematik, TU Berlin, 2017.
 - Breedveld P. C., UK (2008)
+- Brenan KE, Campbell SL, Petzold LR (1995) Numerical Solution of Initial-Value Problems in Differential-Algebraic Equations. Society for Industrial and Applied Mathematics -- [10.1137/1.9781611971224](https://doi.org/10.1137/1.9781611971224)
+- Dai L (ed) (1989) Singular Control Systems. Springer-Verlag, Berlin/Heidelberg -- [10.1007/bfb0002475](https://doi.org/10.1007/bfb0002475)
 - De Teran, F., Dopico, F. & Mackey, D. Linearizations of singular matrix polynomials and the recovery of minimal indices. The Electronic Journal of Linear Algebra vol. 18 (2009) -- [10.13001/1081-3810.1320](https://doi.org/10.13001/1081-3810.1320)
+- Van Dooren P (1983) Reducing subspaces: Definitions, properties and algorithms. In: Lecture Notes in Mathematics. Springer Berlin Heidelberg, Berlin, Heidelberg, pp 58–73 -- [10.1007/bfb0062094](https://doi.org/10.1007/bfb0062094)
 - [Egger, H., Kugler, T., Liljegren-Sailer, B., Marheineke, N. & Mehrmann, V. On Structure-Preserving Model Reduction for Damped Wave Propagation in Transport Networks. SIAM Journal on Scientific Computing vol. 40 A331–A365 (2018)](on-structure-preserving-model-reduction-for-damped-wave-propagation-in-transport-networks) -- [10.1137/17m1125303](https://doi.org/10.1137/17m1125303)
 - Emmrich, E. & Mehrmann, V. Operator Differential-Algebraic Equations Arising in Fluid Dynamics. Computational Methods in Applied Mathematics vol. 13 443–470 (2013) -- [10.1515/cmam-2013-0018](https://doi.org/10.1515/cmam-2013-0018)
 - Foias C., New York (1990)
 - Freund R. W., New York (2011)
+- M. Froidevaux,
+                      A Structure Preserving Trimmed Linearization for Quadratic Eigenvalue Problems
+                      , Master thesis, École Polytechnique Fédérale de Lausanne, Switzerland, 2016.
 - [Fujimoto, K., Sakai, S. & Sugie, T. Passivity based control of a class of Hamiltonian systems with nonholonomic constraints. Automatica vol. 48 3054–3063 (2012)](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
+- F. R. Gantmacher,
+                      Theory of Matrices
+                      , vol. 1, Chelsea, New York, 1959.
+- [Gillis N, Mehrmann V, Sharma P (2018) Computing the nearest stable matrix pairs. Numerical Linear Algebra App 25(5):e2153. https://doi.org/10.1002/nla.2153](computing-the-nearest-stable-matrix-pairs) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
 - Golo G., Heidelberg (2003)
+- G. H. Golub and C. F. Van Loan,
+                      Matrix Computations
+                      , 3rd ed, Johns Hopkins University Press, Baltimore, 1996.
 - Gräbner, N., Mehrmann, V., Quraishi, S., Schröder, C. & von Wagner, U. Numerical methods for parametric model reduction in the simulation of disk brake squeal. ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik vol. 96 1388–1405 (2016) -- [10.1002/zamm.201500217](https://doi.org/10.1002/zamm.201500217)
 - Ishihara J. Y., Orlando, FL (2001)
 - Ishihara, J. Y. & Terra, M. H. On the Lyapunov theorem for singular systems. IEEE Transactions on Automatic Control vol. 47 1926–1930 (2002) -- [10.1109/tac.2002.804463](https://doi.org/10.1109/tac.2002.804463)
+- [Jacob B, Zwart HJ (2012) Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces. Springer Basel, Basel](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- P. Lancaster and M. Tismenetsky,
+                      The Theory of Matrices
+                      , 2nd ed., Academic Press, Orlando, FL, 1985.
 - Maddocks, J. H., Overton, M. L., Maddocks, J. H. & Overton, M. L. Stability theory for dissipatively perturbed hamiltonian systems. Communications on Pure and Applied Mathematics vol. 48 583–610 (1995) -- [10.1002/cpa.3160480602](https://doi.org/10.1002/cpa.3160480602)
 - Maehara, T. & Murota, K. Simultaneous singular value decomposition. Linear Algebra and its Applications vol. 435 106–116 (2011) -- [10.1016/j.laa.2011.01.007](https://doi.org/10.1016/j.laa.2011.01.007)
 - [Mehl, C., Mehrmann, V. & Sharma, P. Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM Journal on Matrix Analysis and Applications vol. 37 1625–1654 (2016)](stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations) -- [10.1137/16m1067330](https://doi.org/10.1137/16m1067330)
 - Mehrmann, V. & Poloni, F. An inverse‐free ADI algorithm for computing Lagrangian invariant subspaces. Numerical Linear Algebra with Applications vol. 23 147–168 (2015) -- [10.1002/nla.2018](https://doi.org/10.1002/nla.2018)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Paige, C. & Van Loan, C. A Schur decomposition for Hamiltonian matrices. Linear Algebra and its Applications vol. 41 11–32 (1981) -- [10.1016/0024-3795(81)90086-0](https://doi.org/10.1016/0024-3795(81)90086-0)
+- L. Scholz,
+                      Condensed Forms for Linear Port-Hamiltonian Descriptor Systems
+                      , Preprint 09-2017, Institut für Mathematik, TU Berlin, 2017.
+- [Schaft AJ (2004) Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems. In: Advanced Dynamics and Control of Structures and Machines. Springer Vienna, Vienna, pp 127–167](port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems) -- [10.1007/978-3-7091-2774-2_9](https://doi.org/10.1007/978-3-7091-2774-2_9)
 - van der Schaft A. J., Spain (2006)
 - van der Schaft A. J., New York (2013)
+- T. Stykel,
+                      Analysis and Numerical Solution of Generalized Lyapunov Equations
+                      , thesis, Technische Universität Berlin, Berlin, Germany, 2002.
 - Takaba, K., Morihira, N. & Katayama, T. A generalized Lyapunov theorem for descriptor system. Systems &amp; Control Letters vol. 24 49–51 (1995) -- [10.1016/0167-6911(94)00041-s](https://doi.org/10.1016/0167-6911(94)00041-s)
 - Taslaman, L. Strongly Damped Quadratic Matrix Polynomials. SIAM Journal on Matrix Analysis and Applications vol. 36 461–475 (2015) -- [10.1137/140959390](https://doi.org/10.1137/140959390)
 - Thompson, R. C. The characteristic polynomial of a principal subpencil of a Hermitian matrix pencil. Linear Algebra and its Applications vol. 14 135–177 (1976) -- [10.1016/0024-3795(76)90021-5](https://doi.org/10.1016/0024-3795(76)90021-5)
 - Tisseur, F. & Meerbergen, K. The Quadratic Eigenvalue Problem. SIAM Review vol. 43 235–286 (2001) -- [10.1137/s0036144500381988](https://doi.org/10.1137/s0036144500381988)
+- Veselić K (2011) Damped Oscillations of Linear Systems. Springer Berlin Heidelberg, Berlin, Heidelberg -- [10.1007/978-3-642-21335-9](https://doi.org/10.1007/978-3-642-21335-9)
 

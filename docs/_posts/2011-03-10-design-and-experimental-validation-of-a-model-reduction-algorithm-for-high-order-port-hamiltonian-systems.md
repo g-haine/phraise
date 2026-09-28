@@ -46,6 +46,7 @@ This paper illustrates a model reduction procedure for port Hamiltonian systems 
 ## References
 - Amini, Energy dissipation in multi-layered board under ultrasonic sealing (2010)
 - Bassi, (2007)
+- Dynasim AB Dymola, http://www.dynasim.se/2008
 - Fritzson, (2004)
 - Gentili, Model reduction for high-order port-Hamiltonian systems. Application to piezo-electric systems. (2009)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica 40, 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
@@ -57,6 +58,7 @@ This paper illustrates a model reduction procedure for port Hamiltonian systems 
 - Paynter, (1961)
 - Piefort, (2001)
 - Polyuga, Structure preserving model reduction for port-Hamiltonian systems. Mathematical Theory of Networks and Systems (2008)
+- SIMULIA. Abaqus Unified FEA, 2008. http://www.simulia.com/.
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42, 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)

@@ -43,6 +43,7 @@ We study port-Hamiltonian systems on a familiy of intervals and characterise all
 [Download the bib file]({{ site.baseurl }}/assets/bib/a-structural-observation-on-port-hamiltonian-systems.bib)
  
 ## References
+- B. Augner , Stabilisation of Infinite-Dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback, Ph.D. thesis, Bergische Universität Wuppertal, 2016.
 - Engel, K.-J. Generator property and stability for generalized difference operators. Journal of Evolution Equations vol. 13 311–334 (2013) -- [10.1007/s00028-013-0179-1](https://doi.org/10.1007/s00028-013-0179-1)
 - Engel K.-J.. One-Parameter Semigroups for Linear Evolution Equations (2000)
 - [Heidari, H. & Zwart, H. Port-Hamiltonian modelling of nonlocal longitudinal vibrations in a viscoelastic nanorod. Mathematical and Computer Modelling of Dynamical Systems vol. 25 447–462 (2019)](port-hamiltonian-modelling-of-nonlocal-longitudinal-vibrations-in-a-viscoelastic-nanorod) -- [10.1080/13873954.2019.1659374](https://doi.org/10.1080/13873954.2019.1659374)
@@ -61,6 +62,7 @@ We study port-Hamiltonian systems on a familiy of intervals and characterise all
 - Showalter R. E.. Monotone Operators in Banach Space and Nonlinear Partial Differential Equations (1997)
 - [Trostorff, S. A characterization of boundary conditions yielding maximal monotone operators. Journal of Functional Analysis vol. 267 2787–2822 (2014)](a-characterization-of-boundary-conditions-yielding-maximal-monotone-operators) -- [10.1016/j.jfa.2014.08.009](https://doi.org/10.1016/j.jfa.2014.08.009)
 - Trostorff, S. Semigroups and evolutionary equations. Semigroup Forum vol. 103 661–699 (2021) -- [10.1007/s00233-021-10208-8](https://doi.org/10.1007/s00233-021-10208-8)
+- [van der Schaft A (2007) Port-Hamiltonian systems: an introductory survey. In: Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006. EMS Press, pp 1339–1365](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
 - [van der Schaft, A., Maschke, B. & Ortega, R. Network modelling of physical systems: a geometric approach. Lecture Notes in Control and Information Sciences 253–276 (2001) doi:10.1007/bfb0110387](network-modelling-of-physical-systems-a-geometric-approach) -- [10.1007/bfb0110387](https://doi.org/10.1007/bfb0110387)
 - [Waurick, M. & Wegner, S.-A. Dissipative extensions and port-Hamiltonian operators on networks. Journal of Differential Equations vol. 269 6830–6874 (2020)](dissipative-extensions-and-port-hamiltonian-operators-on-networks) -- [10.1016/j.jde.2020.05.014](https://doi.org/10.1016/j.jde.2020.05.014)
 - Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)

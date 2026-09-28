@@ -63,6 +63,7 @@ nonlinear networks, passivity, port-hamiltonian systems, stability, stabilizatio
 - Jayawardhana, B., Ortega, R., Garcia-Canseco, E. & Castanos, F. Passivity of Nonlinear Incremental Systems: Application to PI Stabilization of Nonlinear RLC Circuits. Proceedings of the 45th IEEE Conference on Decision and Control 3808–3812 (2006) doi:10.1109/cdc.2006.377132 -- [10.1109/cdc.2006.377132](https://doi.org/10.1109/cdc.2006.377132)
 - [Jeltsema, D. & Scherpen, J. M. A. A dual relation between port-Hamiltonian systems and the Brayton–Moser equations for nonlinear switched RLC circuits. Automatica 39, 969–979 (2003)](a-dual-relation-between-port-hamiltonian-systems-and-the-brayton-moser-equations-for-nonlinear-switched-rlc-circuits) -- [10.1016/s0005-1098(03)00070-0](https://doi.org/10.1016/s0005-1098(03)00070-0)
 - Khalil, (1996)
+- B. Maschke. Interconnexion et structure des systèmes hamiltoniens commandés : Une approche réseau. Technical report, Université Paris-Sud XI, Orsay, France, August 1998. Mémoire présenté pour obtenir l'Habilitation á diriger les recherches.
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Trans. Circuits Syst. I 42, 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)
 - Roska, T. The limits of modeling of nonlinear circuits. IEEE Trans. Circuits Syst. 28, 212–216 (1981) -- [10.1109/tcs.1981.1084974](https://doi.org/10.1109/tcs.1981.1084974)
 - La Salle, (1961)

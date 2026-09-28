@@ -51,9 +51,13 @@ mechanical systems, observers, output-feedback tracking, stabilization
 ## References
 - Astolfi A, Ortega R, Venkatraman A (2010) A globally exponentially convergent immersion and invariance speed observer for mechanical systems with non-holonomic constraints. Automatica 46(1):182–189. https://doi.org/10.1016/j.automatica.2009.10.02 -- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
 - Astolfi A, Karagiannis D, Ortega R (2008) Nonlinear and Adaptive Control with Applications. Springer Londo -- [10.1007/978-1-84800-066-7](https://doi.org/10.1007/978-1-84800-066-7)
+- n-DOF Euler-Lagrange systems. American Control Conference (ACC'06), Minnesota, USA, pp. 4993–4999, 2006.
+- P. Lancaster and M. Tismenetsky. The Theory of Matrices Academic Press, 1985.
 - Liu X, Ortega R, Su H, Chu J (2011) On adaptive control of nonlinearly parameterized nonlinear systems: Towards a constructive procedure. Systems &amp; Control Letters 60(1):36–43. https://doi.org/10.1016/j.sysconle.2010.10.00 -- [10.1016/j.sysconle.2010.10.004](https://doi.org/10.1016/j.sysconle.2010.10.004)
 - Ortega R, Loría A, Nicklasson PJ, Sira-Ramírez H (1998) Passivity-based Control of Euler-Lagrange Systems. Springer Londo -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - Romero JG, Donaire A, Ortega R (2012) Simplifying Robust Energy Shaping Controllers for Mechanical Systems via Coordinate Changes. IFAC Proceedings Volumes 45(19):60–65. https://doi.org/10.3182/20120829-3-it-4022.0004 -- [10.3182/20120829-3-it-4022.00045](https://doi.org/10.3182/20120829-3-it-4022.00045)
+- American Control Conference (ACC'13), June 17–19, 2013, Washington DC, USA.
 - Venkatraman A, Ortega R, Sarras I, van der Schaft A (2010) Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Trans Automat Contr 55(5):1059–1074. https://doi.org/10.1109/tac.2010.204201 -- [10.1109/tac.2010.2042010](https://doi.org/10.1109/tac.2010.2042010)
 - {"status":"error" -- [10.1109/9.863607](https://doi.org/10.1109/9.863607)
+- Conference on Decision and Control (CDC'00), Sydney, Australia, pp. 5073–5078, 2000.
 

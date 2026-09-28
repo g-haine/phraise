@@ -63,4 +63,5 @@ Underactuated mechanical systems; port-Hamiltonian systems; passivity based cont
 - van der Schaft, (2000)
 - Viola, G., Ortega, R., Banavar, R., Acosta, J. A. & Astolfi, A. Total Energy Shaping Control of Mechanical Systems: Simplifying the Matching Equations Via Coordinate Changes. IEEE Trans. Automat. Contr. 52, 1093–1099 (2007) -- [10.1109/tac.2007.899064](https://doi.org/10.1109/tac.2007.899064)
 - Woolsey, Physical dissipation and the method of Controlled Lagrangians. Proc. European Control Conference, Porto (2001)
+- Zenkov, D.V. (2002). Matching and stabilization of linear mechanical systems. In Proc. Int. Symp. Mathematical Theory of Networks and Systems.
 

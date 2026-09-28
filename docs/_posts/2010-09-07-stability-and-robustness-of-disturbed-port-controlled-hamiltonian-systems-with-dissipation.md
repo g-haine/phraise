@@ -54,6 +54,7 @@ Nonlinear control; Stability analysis; Robustness; Passive; Induction machines
  
 ## References
 - Maschke, Energybased Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Conf. on Dec. and Contr. (1998)
+- B. M. Maschke, R. Ortega, A. J. van der Schaft, and G. Escobar. An energy-based derivation of lyapunov functions for forced systems with application to stabilizing control. Proc. 14th IFAC World Congress, Beijing, E: 409-414, 1999
 - Ortega, (1998)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - van der Schaft, (2000)

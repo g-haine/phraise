@@ -76,6 +76,9 @@ We discuss different cases of dissipative Hamiltonian differential-algebraic equ
 - Householder A. S., The Theory of Matrices in Numerical Analysis (1964)
 - Idema R., Reports of the Department of Applied Mathematical Analysis 07-09 (2007)
 - Jiang, E. Algorithm for solving shifted skew-symmetric linear system. Frontiers of Mathematics in China vol. 2 227–242 (2007) -- [10.1007/s11464-007-0016-3](https://doi.org/10.1007/s11464-007-0016-3)
+- C. R. Johnson,
+                      Matrices Whose Hermitian Part Is Positive Definite
+                      , Ph.D. thesis, Department of Mathematics, California Insititute of Technology, Pasadena, CA, 1972.
 - [Kotyczka, P. & Lefèvre, L. Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters vol. 133 104530 (2019)](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
 - Li, X., Yang, A.-L. & Wu, Y.-J. Parameterized preconditioned Hermitian and skew-Hermitian splitting iteration method for saddle-point problems. International Journal of Computer Mathematics vol. 91 1224–1238 (2013) -- [10.1080/00207160.2013.829216](https://doi.org/10.1080/00207160.2013.829216)
 - Liesen J., Krylov Subspace Methods. Principles and Analysis (2013)
@@ -85,6 +88,9 @@ We discuss different cases of dissipative Hamiltonian differential-algebraic equ
 - [Mehl, C., Mehrmann, V. & Wojtylak, M. Distance problems for dissipative Hamiltonian systems and related matrix polynomials. Linear Algebra and its Applications vol. 623 335–366 (2021)](distance-problems-for-dissipative-hamiltonian-systems-and-related-matrix-polynomials) -- [10.1016/j.laa.2020.05.026](https://doi.org/10.1016/j.laa.2020.05.026)
 - [Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 - Mehrmann, V. & Stykel, T. Balanced Truncation Model Reduction for Large-Scale Systems in Descriptor Form. Lecture Notes in Computational Science and Engineering 83–115 doi:10.1007/3-540-27909-1_3 -- [10.1007/3-540-27909-1_3](https://doi.org/10.1007/3-540-27909-1_3)
+- D. Rapoport,
+                      A Nonlinear Lanczos Algorithm and the Stationary Navier-Stokes Equation
+                      , Ph.D. thesis, Department of Mathematics, Courant Institute, New York University, 1978.
 - Saad, Y. & Schultz, M. H. GMRES: A Generalized Minimal Residual Algorithm for Solving Nonsymmetric Linear Systems. SIAM Journal on Scientific and Statistical Computing vol. 7 856–869 (1986) -- [10.1137/0907058](https://doi.org/10.1137/0907058)
 - Showalter, R. E. Diffusion in Poro-Elastic Media. Journal of Mathematical Analysis and Applications vol. 251 310–340 (2000) -- [10.1006/jmaa.2000.7048](https://doi.org/10.1006/jmaa.2000.7048)
 - Silvester D., Incompressible Flow and Iterative Solver Software (IFISS), version 3.5 (2016)

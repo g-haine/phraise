@@ -43,6 +43,7 @@ Exploiting the stochastic Hamiltonian structure, this paper investigates the rob
 [Download the bib file]({{ site.baseurl }}/assets/bib/robust-fault-tolerant-control-for-stochastic-port-hamiltonian-systems-against-actuator-faults.bib)
  
 ## References
+- Maschke, B., and Schaft, A.V. (1992, January 24–26). Port-controlled Hamiltonian systems: Modeling origins and system theoretic properties. Proceedings of the 2nd IFAC Symposium on Nonlinear Control System Design, Bordeaux, France.
 - Maschke, The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektr. Übertrag. (1995)
 - [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

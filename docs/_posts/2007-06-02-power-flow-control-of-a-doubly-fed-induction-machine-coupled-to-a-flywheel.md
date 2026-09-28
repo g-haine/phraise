@@ -51,7 +51,9 @@ Doubly-Fed Induction Machine; Passivitybased Control; Port-Hamiltonian Models; P
 [Download the bib file]({{ site.baseurl }}/assets/bib/power-flow-control-of-a-doubly-fed-induction-machine-coupled-to-a-flywheel.bib)
  
 ## References
+- 20sim modeling and simulation software. Available on www.20sim.com.
 - Akagi, H. & Sato, H. Control and performance of a doubly-fed induction machine intended for a flywheel energy storage system. IEEE Transactions on Power Electronics vol. 17 109–116 (2002) -- [10.1109/63.988676](https://doi.org/10.1109/63.988676)
+- Caratozzolo P. Nonlinear control strategies of an isolated motion system with a double-fed induction generator. PhD Thesis, Universitat Politècnica de Catalunya, 2003
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Krause, (1986)

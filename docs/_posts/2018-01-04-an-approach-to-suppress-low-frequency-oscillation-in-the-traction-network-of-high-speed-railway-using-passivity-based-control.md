@@ -44,7 +44,8 @@ The traction blockade in depots of multiple electric multiple units (EMUs) is ge
  
 ## References
 - Zhang, G., Liu, Z., Yao, S., Liao, Y. & Xiang, C. Suppression of Low-Frequency Oscillation in Traction Network of High-Speed Railway Based on Auto-Disturbance Rejection Control. IEEE Trans. Transp. Electrific. 2, 244–255 (2016) -- [10.1109/tte.2016.2554468](https://doi.org/10.1109/tte.2016.2554468)
-- zhao, Design of decentralized controllers for parallel AC-DC system based on effective relative gain array and mixed H2/H? control. Power Syst Protection Control (2016)
+- zhao, Design of decentralized controllers for
+ parallel AC-DC system based on effective relative gain array and mixed H2/H? control. Power Syst Protection Control (2016)
 - [Zhang, Q. & Liu, G. Precise Control of Elastic Joint Robot Using an Interconnection and Damping Assignment Passivity-Based Approach. IEEE/ASME Trans. Mechatron. 21, 2728–2736 (2016)](precise-control-of-elastic-joint-robot-using-an-interconnection-and-damping-assignment-passivity-based-approach) -- [10.1109/tmech.2016.2578287](https://doi.org/10.1109/tmech.2016.2578287)
 - del Puerto-Flores, D. et al. Passivity-Based Control by Series/Parallel Damping of Single-Phase PWM Voltage Source Converter. IEEE Trans. Contr. Syst. Technol. 22, 1310–1322 (2014) -- [10.1109/tcst.2013.2278781](https://doi.org/10.1109/tcst.2013.2278781)
 - Vu, T. L. & Turitsyn, K. Lyapunov Functions Family Approach to Transient Stability Assessment. IEEE Trans. Power Syst. 31, 1269–1277 (2016) -- [10.1109/tpwrs.2015.2425885](https://doi.org/10.1109/tpwrs.2015.2425885)
@@ -54,8 +55,10 @@ The traction blockade in depots of multiple electric multiple units (EMUs) is ge
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Gaviria, C., Fossas, E. & Grino, R. Robust controller for a full-bridge rectifier using the IDA approach and GSSA modeling. IEEE Trans. Circuits Syst. I 52, 609–616 (2005) -- [10.1109/tcsi.2004.842881](https://doi.org/10.1109/tcsi.2004.842881)
 - Wang, H., Mingli, W. & Sun, J. Analysis of Low-Frequency Oscillation in Electric Railways Based on Small-Signal Modeling of Vehicle-Grid System in &lt;italic&gt;dq&lt;/italic&gt; Frame. IEEE Trans. Power Electron. 30, 5318–5330 (2015) -- [10.1109/tpel.2015.2388796](https://doi.org/10.1109/tpel.2015.2388796)
-- li, Research of the dynamic characteristics of the PWM converter based on neurons PI control. Power Syst Protection Control (2013)
-- han, Causal analysis and resolution of the voltage instability between AC drive electric locomotive and power supply network. J China Railway Soc (2011)
+- li, Research of the dynamic
+ characteristics of the PWM converter based on neurons PI control. Power Syst Protection Control (2013)
+- han, Causal analysis and resolution
+ of the voltage instability between AC drive electric locomotive and power supply network. J China Railway Soc (2011)
 - menth, Low frequency power oscillations in electric railway systems. Elektrische Bahnen (2006)
 - Heising, C., Oettmeier, M., Staudt, V., Steimel, A. & Danielsen, S. Improvement of low-frequency railway power system stability using an advanced multivariable control concept. 2009 35th Annual Conference of IEEE Industrial Electronics 560–565 (2009) doi:10.1109/iecon.2009.5414982 -- [10.1109/iecon.2009.5414982](https://doi.org/10.1109/iecon.2009.5414982)
 - Liu, Z., Zhang, G. & Liao, Y. Stability Research of High-Speed Railway EMUs and Traction Network Cascade System Considering Impedance Matching. IEEE Trans. on Ind. Applicat. 52, 4315–4326 (2016) -- [10.1109/tia.2016.2574770](https://doi.org/10.1109/tia.2016.2574770)

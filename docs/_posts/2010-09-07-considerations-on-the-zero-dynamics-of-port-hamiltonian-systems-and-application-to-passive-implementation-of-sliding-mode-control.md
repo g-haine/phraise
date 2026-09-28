@@ -58,5 +58,6 @@ Hamiltonian systems; Casimir functions; constrained dynamics; sliding mode
 - SIRA-RAMIREZ, H. Differential geometric methods in variable-structure control. International Journal of Control 48, 1359–1390 (1988) -- [10.1080/00207178808906256](https://doi.org/10.1080/00207178808906256)
 - Sira-Ramirez, A general canonical form for sliding-mode control of non-linear systems. Proc. ECC'99, Karlsruhe, Germany (1999)
 - Stramigioli, (2001)
+- Utkin, V.I. (1978). Sliding regimes in the theory of variable structure system. MIR Editor. Moscow, Russia.
 - van der Schaft, (1999)
 

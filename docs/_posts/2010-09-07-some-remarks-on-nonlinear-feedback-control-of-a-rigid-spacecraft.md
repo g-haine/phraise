@@ -53,10 +53,13 @@ nonlinear feedback control, port controlled hamiltonian structure, rigid body
 - Banks, Feedback control law design for the dual spin turn of spacecraft.. AIAA Journal of Guidance and Dynamics (1997)
 - Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems &amp; Control Letters 14, 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
 - Debs, A. & Athans, M. On the optimal angular velocity control of asymmetrical space vehicles. IEEE Trans. Automat. Contr. 14, 80–83 (1969) -- [10.1109/tac.1969.1099098](https://doi.org/10.1109/tac.1969.1099098)
+- Greensite, A.L. (1970). Analysis and design of space vehicle flight control systems.
 - Krishman, Attitude stabilization of a rigid spacecraft using gas jets actuators operating in a failure mode. IEEE Control Decision Conference (1992)
 - Ortega, Stabilization of port controlled hamiltonian systems via energy balancing. (1999)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Energy-shaping of port-controlled Hamiltonian systems by interconnection. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 2 1646–1651](energy-shaping-of-port-controlled-hamiltonian-systems-by-interconnection) -- [10.1109/cdc.1999.830260](https://doi.org/10.1109/cdc.1999.830260)
+- Ortega, R. (2000). Structure preserving stabilization of the angular velocity of a rigid body. AIAA Conference on nonlinear problems in Aviation and Aerospace, Daytona Beach, FL.
 - Rodriguez, H., Siguerdidjane, H. & Ortega, R. Experimental comparison of linear and nonlinear controllers for a magnetic suspension. Proceedings of the 2000. IEEE International Conference on Control Applications. Conference Proceedings (Cat. No.00CH37162) 715–719 doi:10.1109/cca.2000.897518 -- [10.1109/cca.2000.897518](https://doi.org/10.1109/cca.2000.897518)
+- Rodriguez, H., R. Ortega, H. Siguerdidjane (2000). Passivity-based control of magnetic levitation systems: theory and experiments. MTNS'2000, 19-23 Juin, Perpignan, France.
 - Siguerdidjane, Stabilization of a rigid spacecraft: on the nonlinear feedback construction. 12th IFAC Symposium on Aerospace Control (1992)
 - Bourdache‐Siguerdidjane, H. Further results on the optimal regulation of spacecraft angular momentum. Optim Control Appl Methods 12, 273–278 (1991) -- [10.1002/oca.4660120406](https://doi.org/10.1002/oca.4660120406)
 - Siguerdidjane, A possible new way for stabilizing a rigid body under one control torque only. 31th IEEE Control Decision Conference (1992)

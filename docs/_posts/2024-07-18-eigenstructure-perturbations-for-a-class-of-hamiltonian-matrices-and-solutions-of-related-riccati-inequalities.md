@@ -45,11 +45,15 @@ The characterization of the solution set for a class of algebraic Riccati inequa
 ## References
 - Bankmann, D., Mehrmann, V., Nesterov, Y. & Van Dooren, P. Computation of the Analytic Center of the Solution Set of the Linear Matrix Inequality Arising in Continuous- and Discrete-Time Passivity Analysis. Vietnam Journal of Mathematics vol. 48 633–659 (2020) -- [10.1007/s10013-020-00427-x](https://doi.org/10.1007/s10013-020-00427-x)
 - [Beattie, C. A., Mehrmann, V. & Van Dooren, P. Robust port-Hamiltonian representations of passive systems. Automatica vol. 100 182–186 (2019)](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)
+- C. Beattie, V. Mehrmann, and H. Xu, Port-Hamiltonian Realizations of Linear Time Invariant Systems, preprint, arXiv:2201.05355, 2022, http://arxiv.org/abs/2201.05355.
+- Benner P (1997) Numerical solution of special algebraic Riccati equations via an exact line search method. In: 1997 European Control Conference (ECC). IEEE, pp 3136–3141 -- [10.23919/ecc.1997.7082591](https://doi.org/10.23919/ecc.1997.7082591)
 - Boyd, S., El Ghaoui, L., Feron, E. & Balakrishnan, V. Linear Matrix Inequalities in System and Control Theory. (1994) doi:10.1137/1.9781611970777 -- [10.1137/1.9781611970777](https://doi.org/10.1137/1.9781611970777)
 - Cherifi K., Math. Control Signals Systems (2023)
+- K. Cherifi, V. Mehrmann, and K. Hariche, Numerical Methods to Compute a Minimal Realization of a Port-Hamiltonian System, preprint, arXiv:1903.07042, 2019, http://arxiv.org/abs/1903.07042.
 - Faβbender, H., Mackey, D. S., Mackey, N. & Xu, H. Hamiltonian square roots of skew-Hamiltonian matrices. Linear Algebra and its Applications vol. 287 125–159 (1999) -- [10.1016/s0024-3795(98)10137-4](https://doi.org/10.1016/s0024-3795(98)10137-4)
 - Freiling, G., Mehrmann, V. & Xu, H. Existence, Uniqueness, and Parametrization of Lagrangian Invariant Subspaces. SIAM Journal on Matrix Analysis and Applications vol. 23 1045–1069 (2002) -- [10.1137/s0895479800377228](https://doi.org/10.1137/s0895479800377228)
 - [Gillis, N., Mehrmann, V. & Sharma, P. Computing the nearest stable matrix pairs. Numerical Linear Algebra with Applications vol. 25 (2018)](computing-the-nearest-stable-matrix-pairs) -- [10.1002/nla.2153](https://doi.org/10.1002/nla.2153)
+- Kano H, Nishimura T (1994) Solution Structure of Algebraic Matrix Riccati Equations with Nonnegative-Definite Quadratic and Constant Terms. Stochastic Systems Theory and its Applications (SSS) 1994(0):43–48. https://doi.org/10.5687/sss.1994.43 -- [10.5687/sss.1994.43](https://doi.org/10.5687/sss.1994.43)
 - Lancaster, P. & Rodman, L. Algebraic Riccati Equations. (1995) doi:10.1093/oso/9780198537953.001.0001 -- [10.1093/oso/9780198537953.001.0001](https://doi.org/10.1093/oso/9780198537953.001.0001)
 - Lidskii, V. B. Perturbation theory of non-conjugate operators. USSR Computational Mathematics and Mathematical Physics vol. 6 73–85 (1966) -- [10.1016/0041-5553(66)90033-4](https://doi.org/10.1016/0041-5553(66)90033-4)
 - Lin, W.-W., Mehrmann, V. & Xu, H. Canonical Forms for Hamiltonian and Symplectic Matrices and Pencils. Linear Algebra and its Applications vols 302–303 469–533 (1999) -- [10.1016/s0024-3795(99)00191-3](https://doi.org/10.1016/s0024-3795(99)00191-3)
@@ -62,4 +66,5 @@ The characterization of the solution set for a class of algebraic Riccati inequa
 - Willems, J. Least squares stationary optimal control and the algebraic Riccati equation. IEEE Transactions on Automatic Control vol. 16 621–634 (1971) -- [10.1109/tac.1971.1099831](https://doi.org/10.1109/tac.1971.1099831)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 - Willems, J. C. Dissipative dynamical systems Part II: Linear systems with quadratic supply rates. Archive for Rational Mechanics and Analysis vol. 45 352–393 (1972) -- [10.1007/bf00276494](https://doi.org/10.1007/bf00276494)
+- H. Xu, Invariant Subspace Perturbation of a Matrix with Jordan Blocks, preprint, arXiv:2311.12219, 2023, https://arxiv.org/abs/2311.12219.
 

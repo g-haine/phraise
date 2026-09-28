@@ -43,7 +43,15 @@ This paper introduces a latent port-Hamiltonian framework using deep learning to
 [Download the bib file]({{ site.baseurl }}/assets/bib/vision-based-modeling-and-control-of-dynamical-systems-using-deep-learning.bib)
  
 ## References
+- [1] A.V. Nair, V. Pong, M. Dalal, S. Bahl, S. Lin, and S. Levine, “Visual reinforcement learning with imagined goals,” Advances in Neural Information Processing Systems (NeurIPS), Montreal, Canada, Dec. 2018.
+- [2] D.P. Kingma and M. Welling, “Auto-encoding variational bayes,” International Conference on Learning Representations (ICLR), Banff, Canada, April 2014.
+- [3] S. Greydanus, M. Dzamba, and J. Yosinski, “Hamiltonian neural networks,” Advances in Neural Information Processing Systems (NerurIPS), Vancouver, Canada, Dec. 2019.
 - Böttcher L, Antulov-Fantulin N, Asikis T (2022) AI Pontryagin or how artificial neural networks learn to control dynamical systems. Nat Commun 13(1). https://doi.org/10.1038/s41467-021-27590- -- [10.1038/s41467-021-27590-0](https://doi.org/10.1038/s41467-021-27590-0)
 - Todorov E, Erez T, Tassa Y (2012) MuJoCo: A physics engine for model-based control. 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems 5026–503 -- [10.1109/iros.2012.6386109](https://doi.org/10.1109/iros.2012.6386109)
+- [6] R.T.Q. Chen, Y. Rubanova, J. Bettencourt, and D.K. Duvenaud, “Neural ordinary differential equations,” Advances in Neural Information Processing Systems (NeurIPS), Montreal, Canada, Dec. 2018.
+- [7] Y.D. Zhong, B. Dey, and A. Chakraborty, “Symplectic ODE-Net: Learning Hamiltonian dynamics with control,” International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 2020.
+- [8] Y.D. Zhong, B. Dey, and A. Chakraborty, “Dissipative SymODEN: Encoding Hamiltonian dynamics with dissipation and control into deep learning,” ICLR 2020 Workshop on Integration of Deep Neural Models and Differential Equations (DeepDiffEq), Virtual, April 2020.
 - Jaques M, Burke M, Hospedales T (2021) NewtonianVAE: Proportional Control and Goal Identification from Pixels via Physical Latent Spaces. 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 4452–446 -- [10.1109/cvpr46437.2021.00443](https://doi.org/10.1109/cvpr46437.2021.00443)
+- [10] D.P. Kingma and J. Ba, “Adam: A method for stochastic optimization,” International Conference on Learning Representations (ICLR), Banff, Canada, April 2014.
+- [11] N. Gruver, M. Finzi, S. Stanton, and A.G. Wilson, “Deconstructing the inductive biases of Hamiltonian neural networks,” International Conference on Learning Representations (ICLR), Virtual, April 2022.
 
