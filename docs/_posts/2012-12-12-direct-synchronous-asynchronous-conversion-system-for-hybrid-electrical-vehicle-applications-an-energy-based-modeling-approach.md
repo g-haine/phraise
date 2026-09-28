@@ -53,6 +53,7 @@ ac machines, hybrid electric vehicle, modeling
 - Miller, Propulsion systems for hybrid vehicles. IEE, Power Energy Ser (2004)
 - Caratozzolo P, Fossas E, Pedra J, Riera J Dynamic modeling of an isolated motion system with DFIG. 7th IEEE International Power Electronics Congress. Technical Proceedings. CIEP 2000 (Cat. No.00TH8529) 287–29 -- [10.1109/ciep.2000.891428](https://doi.org/10.1109/ciep.2000.891428)
 - Ortmeyer TH Variable Voltage Variable Frequency Options for Series Hybrid Vehicles. 2005 IEEE Vehicle Power and Propulsion Conference 262–26 -- [10.1109/vppc.2005.1554568](https://doi.org/10.1109/vppc.2005.1554568)
+- Muñoz-Aguilar RS, Dòria-Cerezo A, Puleston PF. Energy-based modelling and simulation of a series hybrid electric vehicle propulsion system. In: Proceedings of the European control conference; 2009.
 - Ducusin M, Gargies S, Mi C (2007) Modeling of a Series Hybrid Electric High-Mobility Multipurpose Wheeled Vehicle. IEEE Trans Veh Technol 56(2):557–565. https://doi.org/10.1109/tvt.2006.88957 -- [10.1109/tvt.2006.889575](https://doi.org/10.1109/tvt.2006.889575)
 - Antoniou AI, Komyathy J, Bench J, Emadi A (2007) Modeling and Simulation of Various Hybrid-Electric Configurations of the High-Mobility Multipurpose Wheeled Vehicle (HMMWV). IEEE Trans Veh Technol 56(2):459–465. https://doi.org/10.1109/tvt.2007.89149 -- [10.1109/tvt.2007.891490](https://doi.org/10.1109/tvt.2007.891490)
 - (2007) The Behavioral Approach to Open and Interconnected Systems. IEEE Control Syst 27(6):46–99. https://doi.org/10.1109/mcs.2007.90692 -- [10.1109/mcs.2007.906923](https://doi.org/10.1109/mcs.2007.906923)
@@ -62,6 +63,7 @@ ac machines, hybrid electric vehicle, modeling
 - Chan CC, Bouscayrol A, Chen K (2010) Electric, Hybrid, and Fuel-Cell Vehicles: Architectures and Modeling. IEEE Trans Veh Technol 59(2):589–598. https://doi.org/10.1109/tvt.2009.203360 -- [10.1109/tvt.2009.2033605](https://doi.org/10.1109/tvt.2009.2033605)
 - Ehsani, (2004)
 - Ceraolo M, di Donato A, Franceschi G (2008) A General Approach to Energy Optimization of Hybrid Electric Vehicles. IEEE Trans Veh Technol 57(3):1433–1441. https://doi.org/10.1109/tvt.2007.90926 -- [10.1109/tvt.2007.909268](https://doi.org/10.1109/tvt.2007.909268)
+- Muñoz Aguilar RS. Modeling and simulation of a series hybrid electric vehicle propulsion system. Master’s thesis, Universitat Politecnica de Catalunya; 2010.
 - Krause, (2002)
 - [Batlle C, Dòria-Cerezo A, Ortega R (2005) Power Flow Control of a Doubly-Fed Induction Machine Coupled to a Flywheel. European Journal of Control 11(3):209–221. https://doi.org/10.3166/ejc.11.209-22](power-flow-control-of-a-doubly-fed-induction-machine-coupled-to-a-flywheel) -- [10.3166/ejc.11.209-221](https://doi.org/10.3166/ejc.11.209-221)
 - Guo Y, Xi Z, Cheng D (2007) Speed regulation of permanent magnet synchronous motor via feedback dissipative Hamiltonian realisation. IET Control Theory Appl 1(1):281–290. https://doi.org/10.1049/iet-cta:2005030 -- [10.1049/iet-cta:20050307](https://doi.org/10.1049/iet-cta:20050307)

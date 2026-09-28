@@ -57,4 +57,6 @@ current-constrained controller, ddpg, ida-pbc, pch, pmsm
 - Batlle, C., Dòria-Cerezo, A., Espinosa-Pérez, G. & Ortega, R. Simultaneous interconnection and damping assignment passivity-based control: the induction machine case study. International Journal of Control 82, 241–255 (2009) -- [10.1080/00207170802050817](https://doi.org/10.1080/00207170802050817)
 - [Zeng, J., Zhang, Z. & Qiao, W. An Interconnection and Damping Assignment Passivity-Based Controller for a DC–DC Boost Converter With a Constant Power Load. IEEE Trans. on Ind. Applicat. 50, 2314–2322 (2014)](an-interconnection-and-damping-assignment-passivity-based-controller-for-a-dc-dc-boost-converter-with-a-constant-power-load) -- [10.1109/tia.2013.2290872](https://doi.org/10.1109/tia.2013.2290872)
 - Zhang, T. & Xia, J. Interconnection and Damping Assignment Passivity-Based Impedance Control of a Compliant Assistive Robot for Physical Human–Robot Interactions. IEEE Robot. Autom. Lett. 4, 538–545 (2019) -- [10.1109/lra.2019.2891434](https://doi.org/10.1109/lra.2019.2891434)
+- Lillicrap, T.P., et al.: Continuous control with deep reinforcement learning. Comput. Sci. 8(6) (2015)
+- Schaft, A.V.D., Maschke, B.: The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik 49 (1995)
 

@@ -59,6 +59,7 @@ An algebraic theory of Dirac structures is presented, enclosing finite-dimension
 - Fuchssteiner, B. Application of hereditary symmetries to nonlinear evolution equations. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 3 849–862 (1979) -- [10.1016/0362-546x(79)90052-x](https://doi.org/10.1016/0362-546x(79)90052-x)
 - Gelfand, (1978)
 - Sokolov, Dokl. Akad. Nauk SSSR (1984)
+- I.Ya. Dorfman, The Krichever-Novikov equation and local symplectic structures, to be published in Dokl. Akad. Nauk SSSR.
 - Fokas, A. S. & Fuchssteiner, B. The hierarchy of the Benjamin-Ono equation. Physics Letters A vol. 86 341–345 (1981) -- [10.1016/0375-9601(81)90551-x](https://doi.org/10.1016/0375-9601(81)90551-x)
 - Oevel, W. & Fuchssteiner, B. Explicit formulas for symmetries and conservation laws of the Kadomtsev-Petviashvili equation. Physics Letters A vol. 88 323–327 (1982) -- [10.1016/0375-9601(82)90605-3](https://doi.org/10.1016/0375-9601(82)90605-3)
 - Dorfman, (1986)

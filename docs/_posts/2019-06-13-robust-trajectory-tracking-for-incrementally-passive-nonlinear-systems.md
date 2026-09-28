@@ -57,6 +57,7 @@ Incremental passivity; Trajectory tracking; Robust control; Port-Hamiltonian sys
 - Chen, J., Behal, A. & Dawson, D. M. Robust Feedback Control for a Class of Uncertain MIMO Nonlinear Systems. IEEE Transactions on Automatic Control vol. 53 591–596 (2008) -- [10.1109/tac.2008.916658](https://doi.org/10.1109/tac.2008.916658)
 - Corless, M. & Leitmann, G. Continuous state feedback guaranteeing uniform ultimate boundedness for uncertain dynamic systems. IEEE Transactions on Automatic Control vol. 26 1139–1144 (1981) -- [10.1109/tac.1981.1102785](https://doi.org/10.1109/tac.1981.1102785)
 - Demidovich, Dissipativity of a nonlinear system of differential equations. Vestnik Moscow State University, Ser. Mat. Mekh. Part I (1961)
+- Filippov, A. F. (2013). Differential equations with discontinuous righthand sides: control systems, vol. 18, Boston: Springer Science & Business Media.
 - Fischer, N., Kamalapurkar, R. & Dixon, W. E. LaSalle-Yoshizawa Corollaries for Nonsmooth Systems. IEEE Transactions on Automatic Control vol. 58 2333–2338 (2013) -- [10.1109/tac.2013.2246900](https://doi.org/10.1109/tac.2013.2246900)
 - Fridman, Higher order sliding modes as a natural phenomenon in control theory. (1996)
 - Galias, Z. & Yu, X. Euler’s Discretization of Single Input Sliding-Mode Control Systems. IEEE Transactions on Automatic Control vol. 52 1726–1730 (2007) -- [10.1109/tac.2007.904289](https://doi.org/10.1109/tac.2007.904289)

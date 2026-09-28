@@ -90,4 +90,5 @@ Microgrid control; Microgrid stability; Smart grid applications; Droop control; 
 - Schiffer, J., Ortega, R., Hans, C. A. & Raisch, J. Droop-controlled inverter-based microgrids are robust to clock drifts. 2015 American Control Conference (ACC) 2341–2346 (2015) doi:10.1109/acc.2015.7171082 -- [10.1109/acc.2015.7171082](https://doi.org/10.1109/acc.2015.7171082)
 - Schiffer, J. et al. A survey on modeling of microgrids—From fundamental physics to phasors and voltage sources. Automatica vol. 74 135–150 (2016) -- [10.1016/j.automatica.2016.07.036](https://doi.org/10.1016/j.automatica.2016.07.036)
 - Simpson-Porco, J. W., Dörfler, F. & Bullo, F. Synchronization and power sharing for droop-controlled inverters in islanded microgrids. Automatica vol. 49 2603–2611 (2013) -- [10.1016/j.automatica.2013.05.018](https://doi.org/10.1016/j.automatica.2013.05.018)
+- Yang, R., & Wang, Y. (2010). Stability analysis for a class of nonlinear time-delay systems via Hamiltonian functional method. In8th world congress on intelligent control and automation (WCICA) (pp.2874–2879).
 

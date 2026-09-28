@@ -67,6 +67,7 @@ Passivity-based control; port-Hamiltonian systems; multi-energy microgrids; dist
 - Kundur, (1994)
 - Lee, (2019)
 - Lund, (2017)
+- Machado, J.E., Cucuzzella, M., and Scherpen, J. (2020). Modeling and passivity properties of district heating systems. arXiv:2011.05419.
 - Mancarella, Evaluation of the impact of electric heat pumps and distributed chp on lv networks. IEEE Power Tech. (2011)
 - Manias, (2017)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

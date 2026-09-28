@@ -61,16 +61,20 @@ electric power systems; Lyapunov stability; distributed control; nonlinear syste
 - Arrow, (1958)
 - Bergen, A. R. & Hill, D. J. A Structure Preserving Model for Power System Stability Analysis. IEEE Transactions on Power Apparatus and Systems vol. PAS-100 25–35 (1981) -- [10.1109/tpas.1981.316883](https://doi.org/10.1109/tpas.1981.316883)
 - Borenstein, (2002)
+- De Persis, C. and Monshizadeh, N. (2015). Bregman storage functions for microgrid control. arXiv preprint arXiv:1510.05811. Submitted to IEEE Transactions on Automatic Control.
 - De Persis, C., Monshizadeh, N., Schiffer, J. & Dorfler, F. A Lyapunov approach to control of microgrids with a network-preserved differential-algebraic model. 2016 IEEE 55th Conference on Decision and Control (CDC) 2595–2600 (2016) doi:10.1109/cdc.2016.7798653 -- [10.1109/cdc.2016.7798653](https://doi.org/10.1109/cdc.2016.7798653)
+- Dörfler, F., Simpson-Porco, J., and Bullo, F. (2014). Breaking the hierarchy: Distributed control & economic optimality in microgrids. arXiv preprint arXiv:1401.1767.
 - Feijer, D. & Paganini, F. Stability of primal–dual gradient dynamics and applications to network optimization. Automatica vol. 46 1974–1981 (2010) -- [10.1016/j.automatica.2010.08.011](https://doi.org/10.1016/j.automatica.2010.08.011)
 - Hill, D. J., Hiskens, I. A. & Mareels, I. M. Y. Stability theory of differential/algebraic models of power systems. Sadhana vol. 18 731–747 (1993) -- [10.1007/bf03024222](https://doi.org/10.1007/bf03024222)
 - Kiani, A. & Annaswamy, A. The effect of a smart meter on congestion and stability in a power market. 49th IEEE Conference on Decision and Control (CDC) 194–199 (2010) doi:10.1109/cdc.2010.5717141 -- [10.1109/cdc.2010.5717141](https://doi.org/10.1109/cdc.2010.5717141)
 - Kundur, (1993)
 - Li, N., Chen, L., Zhao, C. & Low, S. H. Connecting automatic generation control and economic dispatch from an optimization view. 2014 American Control Conference 735–740 (2014) doi:10.1109/acc.2014.6859060 -- [10.1109/acc.2014.6859060](https://doi.org/10.1109/acc.2014.6859060)
 - Machowski, (2008)
+- Mallada, E. and Low, S. (2014). Distributed frequency-preserving optimal load control. In IFAC World Congress.
 - Mallada, E., Zhao, C. & Low, S. Optimal load-side control for frequency regulation in smart grids. 2014 52nd Annual Allerton Conference on Communication, Control, and Computing (Allerton) 731–738 (2014) doi:10.1109/allerton.2014.7028527 -- [10.1109/allerton.2014.7028527](https://doi.org/10.1109/allerton.2014.7028527)
 - Roozbehani, M., Dahleh, M. & Mitter, S. On the stability of wholesale electricity markets under real-time pricing. 49th IEEE Conference on Decision and Control (CDC) 1911–1918 (2010) doi:10.1109/cdc.2010.5718173 -- [10.1109/cdc.2010.5718173](https://doi.org/10.1109/cdc.2010.5718173)
 - Sauer, (1998)
+- Seungil, Y. and Lijun, C. (2014). Reverse and forward engineering of frequency control in power networks. In Proc. of IEEE Conference on Decision and Control, Los Angeles, CA, USA.
 - [Stegink, T. W., Persis, C. D. & van der Schaft, A. J. Port-Hamiltonian Formulation of the Gradient Method Applied to Smart Grids. IFAC-PapersOnLine vol. 48 13–18 (2015)](port-hamiltonian-formulation-of-the-gradient-method-applied-to-smart-grids) -- [10.1016/j.ifacol.2015.10.207](https://doi.org/10.1016/j.ifacol.2015.10.207)
 - [Stegink, T., De Persis, C. & van der Schaft, A. A Unifying Energy-Based Approach to Stability of Power Grids With Market Dynamics. IEEE Transactions on Automatic Control vol. 62 2612–2622 (2017)](a-unifying-energy-based-approach-to-stability-of-power-grids-with-market-dynamics) -- [10.1109/tac.2016.2613901](https://doi.org/10.1109/tac.2016.2613901)
 - Trip, S., Bürger, M. & De Persis, C. An internal model approach to (optimal) frequency regulation in power grids with time-varying voltages. Automatica vol. 64 240–253 (2016) -- [10.1016/j.automatica.2015.11.021](https://doi.org/10.1016/j.automatica.2015.11.021)

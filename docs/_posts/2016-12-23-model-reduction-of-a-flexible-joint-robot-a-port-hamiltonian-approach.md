@@ -62,6 +62,7 @@ In this paper we explore the methodology of model order reduction based on singu
 - Spong, (2006)
 - Spong, M. W. Modeling and Control of Elastic Joint Robots. Journal of Dynamic Systems, Measurement, and Control vol. 109 310–318 (1987) -- [10.1115/1.3143860](https://doi.org/10.1115/1.3143860)
 - van der Schaft, (2000)
+- van der Schaft, A.J. and Maschke, B.M. (2003). Port-Hamiltonian systems: a theory for modeling, simulation and control of complex physical systems. Unibo.
 - van der Schaft, Structure-preserving model reduction of complex physical systems. Proceedings of the 48th IEEE Conference on Decision and Control (2009)
 - Verhulst, (2005)
 - Viola, G., Ortega, R., Banavar, R., Acosta, J. A. & Astolfi, A. Total Energy Shaping Control of Mechanical Systems: Simplifying the Matching Equations Via Coordinate Changes. IEEE Transactions on Automatic Control vol. 52 1093–1099 (2007) -- [10.1109/tac.2007.899064](https://doi.org/10.1109/tac.2007.899064)

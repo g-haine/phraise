@@ -60,9 +60,11 @@ discrete gradient, jacobian regularization, physics-informed machine learning, p
 - [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Chaigne, (2016)
 - [Aoues S, Cardoso-Ribeiro FL, Matignon D, Alazard D (2019) Modeling and Control of a Rotating Flexible Spacecraft: A Port-Hamiltonian Approach. IEEE Trans Contr Syst Technol 27(1):355–362. https://doi.org/10.1109/tcst.2017.277124](modeling-and-control-of-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach) -- [10.1109/tcst.2017.2771244](https://doi.org/10.1109/tcst.2017.2771244)
+- T. Hélie, Elementary tools on port-Hamiltonian systems with applications to audio/acoustics, 2022. Lecture. hal-03986168.
 - [Cardoso-Ribeiro FL, Haine G, Le Gorrec Y, Matignon D, Ramirez H (2024) Port-Hamiltonian formulations for the modeling, simulation and control of fluids. Computers &amp; Fluids 283:106407. https://doi.org/10.1016/j.compfluid.2024.10640](port-hamiltonian-formulations-for-the-modeling-simulation-and-control-of-fluids) -- [10.1016/j.compfluid.2024.106407](https://doi.org/10.1016/j.compfluid.2024.106407)
 - Roze, Time-space formulation of a conservative string subject to finite transformations. IFAC-Pap. (2024)
 - Hairer, Geometric Numerical Integration. (2006)
+- E. Celledoni, E.H. Høiseth, Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems, (2017). arXiv preprint arXiv: 1706.08621.
 - Quispel GRW, Turner GS (1996) Discrete gradient methods for solving ODEs numerically while preserving a first integral. J Phys A: Math Gen 29(13):L341–L349. https://doi.org/10.1088/0305-4470/29/13/00 -- [10.1088/0305-4470/29/13/006](https://doi.org/10.1088/0305-4470/29/13/006)
 - [Gonzalez O (1996) Time integration and discrete Hamiltonian systems. J Nonlinear Sci 6(5):449–467. https://doi.org/10.1007/bf0244016](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/bf02440162](https://doi.org/10.1007/bf02440162)
 - Celledoni E, Eidnes S, Myhr HN (2025) Learning dynamical systems from noisy data with inverse-explicit integrators. Physica D: Nonlinear Phenomena 472:134471. https://doi.org/10.1016/j.physd.2024.13447 -- [10.1016/j.physd.2024.134471](https://doi.org/10.1016/j.physd.2024.134471)
@@ -72,21 +74,32 @@ discrete gradient, jacobian regularization, physics-informed machine learning, p
 - Li Deng (2012) The MNIST Database of Handwritten Digit Images for Machine Learning Research [Best of the Web]. IEEE Signal Process Mag 29(6):141–142. https://doi.org/10.1109/msp.2012.221147 -- [10.1109/msp.2012.2211477](https://doi.org/10.1109/msp.2012.2211477)
 - Finlay, How to train your neural ODE: the world of Jacobian and kinetic regularization. (2020)
 - Josias, Jacobian norm regularisation and conditioning in neural ODEs. (2022)
+- Y. Yoshida, T. Miyato, Spectral norm regularization for improving the generalizability of deep learning, (2017). arXiv preprint arXiv: 1705.10941.
 - Takeru, Spectral normalization for generative adversarial networks. (2018)
 - Greydanus, Hamiltonian neural networks. Adv. Neural Inf. Process. Syst. (2019)
+- A. Sosanya, S. Greydanus, Dissipative Hamiltonian neural networks: learning dissipative and conservative dynamics separately, (2022). arXiv preprint arXiv: 2201.10085.
 - [Desai SA, Mattheakis M, Sondak D, Protopapas P, Roberts SJ (2021) Port-Hamiltonian neural networks for learning explicit time-dependent dynamical systems. Phys Rev E 104(3). https://doi.org/10.1103/physreve.104.03431](port-hamiltonian-neural-networks-for-learning-explicit-time-dependent-dynamical-systems) -- [10.1103/physreve.104.034312](https://doi.org/10.1103/physreve.104.034312)
+- Y.D. Zhong, B. Dey, A. Chakraborty, Symplectic ODE-Net: learning Hamiltonian dynamics with control, (2019). arXiv preprint arXiv: 1909.12077.
+- Y.D. Zhong, B. Dey, A. Chakraborty, Dissipative SymODEN: encoding Hamiltonian dynamics with dissipation and control into deep learning, (2020). arXiv preprint arXiv: 2002.08860.
 - Cherifi K, El Messaoudi A, Gernandt H, Roschkowski M (2025) Nonlinear Port-Hamiltonian System Identification from Input-State-Output Dat -- [10.2139/ssrn.5097694](https://doi.org/10.2139/ssrn.5097694)
 - [Roth FJ, Klein DK, Kannapinn M, Peters J, Weeger O (2025) Stable Port-Hamiltonian Neural Networks. Advances in Neural Information Processing Systems 38 56483–5650](stable-port-hamiltonian-neural-networks) -- [10.52202/085713-1693](https://doi.org/10.52202/085713-1693)
+- Z. Chen, J. Zhang, M. Arjovsky, L. Bottou, Symplectic recurrent neural networks, (2019). arXiv preprint arXiv: 1909.13334.
+- A. Zhu, P. Jin, Y. Tang, Deep Hamiltonian networks based on symplectic integrators, (2020). arXiv preprint arXiv: 2004.13830.
 - DiPietro, Sparse symplectically integrated neural networks. Adv. Neural Inf. Process. Syst. (2020)
+- S. Xiong, Y. Tong, X. He, S. Yang, C. Yang, B. Zhu, Nonseparable symplectic neural networks, (2020). arXiv preprint arXiv: 2010.12636.
+- H. Choudhary, C. Gupta, V. Kungurtsev, M. Leok, G. Korpas, Learning generalized Hamiltonians using fully symplectic mappings, (2024). arXiv preprint arXiv: 2409.11138.
 - Van der Schaft, (2000)
 - Muller, Power-balanced modelling of circuits as skew gradient systems. (2018)
 - Press, (2007)
+- P. Schwerdtner, Port-Hamiltonian system identification from noisy frequency response data, (2021). arXiv preprint arXiv: 2106.11355.
 - [Schwerdtner P, Moser T, Mehrmann V, Voigt M (2023) Optimization-based model order reduction of port-Hamiltonian descriptor systems. Systems &amp; Control Letters 182:105655. https://doi.org/10.1016/j.sysconle.2023.10565](optimization-based-model-order-reduction-of-port-hamiltonian-descriptor-systems) -- [10.1016/j.sysconle.2023.105655](https://doi.org/10.1016/j.sysconle.2023.105655)
 - Zhu, On numerical integration in neural ordinary differential equations. (2022)
 - Neary, Compositional learning of dynamical system models using port-Hamiltonian neural networks. (2023)
 - Hélie, Modèle passif minimal d’instrument musical auto-oscillant à configuration variable en temps. (2025)
 - Ortega, Energy shaping control revisited. (2007)
+- D.P. Kingma, J. Ba, Adam: a method for stochastic optimization, (2014). arXiv preprint arXiv: 1412.6980.
 - Eidnes S, Lye KO (2024) Pseudo-Hamiltonian neural networks for learning partial differential equations. Journal of Computational Physics 500:112738. https://doi.org/10.1016/j.jcp.2023.11273 -- [10.1016/j.jcp.2023.112738](https://doi.org/10.1016/j.jcp.2023.112738)
+- M. Linares, G. Doras, T. Hélie, Identifying the nonlinear string dynamics with port-Hamiltonian neural networks, (2026). arXiv preprint arXiv: 2605.12785.
 - Lopes, (2016)
 - Hadamard, Sur les problèmes aux dérivées partielles et leur signification physique. Princet. Univ. Bull. (1902)
 - Hirsch, (1974)

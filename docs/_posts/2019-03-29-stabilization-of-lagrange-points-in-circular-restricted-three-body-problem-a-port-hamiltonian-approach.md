@@ -67,6 +67,7 @@ Lagrange points; Circular Restricted Three-Body Problem; Port-Hamiltonian; Globa
 - G�mez, G., Jorba, A., Masdemont, J. & Sim�, C. Study of the transfer from the Earth to a halo orbit around the equilibrium pointL 1. Celestial Mechanics &amp; Dynamical Astronomy vol. 56 541–562 (1993) -- [10.1007/bf00696185](https://doi.org/10.1007/bf00696185)
 - Richardson, D. L. Halo Orbit Formulation for the ISEE-3 Mission. Journal of Guidance and Control vol. 3 543–548 (1980) -- [10.2514/3.56033](https://doi.org/10.2514/3.56033)
 - Cielaszyk, D. & Wie, B. New approach to halo orbit determination and control. Journal of Guidance, Control, and Dynamics vol. 19 266–273 (1996) -- [10.2514/3.21614](https://doi.org/10.2514/3.21614)
+- J. Ardaens, S. D'Amico, Control of formation flying spacecraft at a Lagrange point, No. 00-08.
 - Ming, X. & Shijie, X. Trajectory and Correction Maneuver During the Transfer from Earth to Halo Orbit. Chinese Journal of Aeronautics vol. 21 200–206 (2008) -- [10.1016/s1000-9361(08)60026-6](https://doi.org/10.1016/s1000-9361(08)60026-6)
 - Akiyama, Y., Bando, M. & Hokamoto, S. Explicit Form of Station-Keeping and Formation Flying Controller for Libration Point Orbits. Journal of Guidance, Control, and Dynamics vol. 41 1407–1415 (2018) -- [10.2514/1.g002845](https://doi.org/10.2514/1.g002845)
 - Yamato, H. & Spencer, D. B. Transit-Orbit Search for Planar Restricted Three-Body Problems with Perturbations. Journal of Guidance, Control, and Dynamics vol. 27 1035–1045 (2004) -- [10.2514/1.4524](https://doi.org/10.2514/1.4524)
@@ -83,6 +84,7 @@ Lagrange points; Circular Restricted Three-Body Problem; Port-Hamiltonian; Globa
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - [Liu, C. & Dong, L. Physics-based control education: energy, dissipation, and structure assignments. European Journal of Physics vol. 40 035006 (2019)](physics-based-control-education-energy-dissipation-and-structure-assignments) -- [10.1088/1361-6404/ab03e8](https://doi.org/10.1088/1361-6404/ab03e8)
 - Jarabek, (2004)
+- C. Liu, L. Dong, Reduced order nonlinear control for circular restricted three-body problem: energy approach (under review).
 - LaSalle, J. Some Extensions of Liapunov’s Second Method. IRE Transactions on Circuit Theory vol. 7 520–527 (1960) -- [10.1109/tct.1960.1086720](https://doi.org/10.1109/tct.1960.1086720)
 - Kwakernaak, (1972)
 - Zhou, (1996)

@@ -61,6 +61,7 @@ Infinite-dimensional systems; Port-Hamiltonian systems; Modeling; Hamilton's pri
 - Duindam, (2009)
 - van der Schaft, (2017)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
+- V. Talasila, G. Golo, A. van der Schaft, The wave equation as a port-Hamiltonian system and a finite dimensional approximation, in: Proceedings of 15th International Symposium Mathematical Theory of Networks and Systems (MTNS), South Bend.
 - [Nishida, G. & Yamakita, M. A higher order Stokes-Dirac structure for distributed-parameter port-Hamiltonian systems. Proceedings of the 2004 American Control Conference 5004–5009 vol.6 (2004) doi:10.23919/acc.2004.1384643](a-higher-order-stokes-dirac-structure-for-distributed-parameter-port-hamiltonian-systems) -- [10.23919/acc.2004.1384643](https://doi.org/10.23919/acc.2004.1384643)
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
 - Macchelli, Port-based modelling and control of the Mindlin plate. (2005)
@@ -76,6 +77,7 @@ Infinite-dimensional systems; Port-Hamiltonian systems; Modeling; Hamilton's pri
 - Reddy, (2013)
 - Reddy, (2017)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- Y. Le Gorrec, H. Zwart, B. Maschke, A semigroup approach to port-Hamiltonian systems associated with linear skew symmetric operator, in: 16th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2004).
 - Reddy, (2006)
 - [Warsewa, A., Böhm, M., Sawodny, O. & Tarín, C. A port-Hamiltonian approach to modeling the structural dynamics of complex systems. Applied Mathematical Modelling vol. 89 1528–1546 (2021)](a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems) -- [10.1016/j.apm.2020.07.038](https://doi.org/10.1016/j.apm.2020.07.038)
 - Schöberl, Analysis and comparison of port-Hamiltonian formulations for field theories-demonstrated by means of the Mindlin plate. (2013)

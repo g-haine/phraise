@@ -51,6 +51,7 @@ Nonlinear control; Port-Hamiltonian systems; Integral control; Permanent-magnet 
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems.bib)
  
 ## References
+- Batlle, C., Doria-Cerezo, A., & Fossas, E. (2006). Robust Hamiltonian passive control for higher relative degree outputs, Technical Report IOC-DT-P-2006-25, Institut d’Organització i Control de Sistemes Industrials, E-Prints UPC, Universitat Politècnica de Catalunya
 - Batlle, Simultaneous interconnection and damping assignment passivity based control: Two practical examples. (2007)
 - Blankenstein, G. Geometric modeling of nonlinear RLC circuits. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 52 396–404 (2005) -- [10.1109/tcsi.2004.840481](https://doi.org/10.1109/tcsi.2004.840481)
 - Borutzky, (2004)

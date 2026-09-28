@@ -74,5 +74,5 @@ Stochastic port-Hamiltonian systems; Passivity; Infinite-dimensional port-Hamilt
 - [Satoh, S. Input‐to‐state stability of stochastic port‐Hamiltonian systems using stochastic generalized canonical transformations. Intl J Robust &amp; Nonlinear 27, 3862–3885 (2017)](input-to-state-stability-of-stochastic-port-hamiltonian-systems-using-stochastic-generalized-canonical-transformations) -- [10.1002/rnc.3769](https://doi.org/10.1002/rnc.3769)
 - [Satoh, S. & Fujimoto, K. Passivity Based Control of Stochastic Port-Hamiltonian Systems. IEEE Trans. Automat. Contr. 58, 1139–1153 (2013)](passivity-based-control-of-stochastic-port-hamiltonian-systems) -- [10.1109/tac.2012.2229791](https://doi.org/10.1109/tac.2012.2229791)
 - [Satoh, S. & Saeki, M. Bounded stabilisation of stochastic port-Hamiltonian systems. International Journal of Control 87, 1573–1582 (2014)](bounded-stabilisation-of-stochastic-port-hamiltonian-systems) -- [10.1080/00207179.2014.880127](https://doi.org/10.1080/00207179.2014.880127)
-- Van Der Schaft, Composition of Dirac structures and control of port-Hamiltonian systems. (2002)
+- Van Der Schaft, Composition of Dirac structures and control of port-Hamiltonian systems. (2002)
 

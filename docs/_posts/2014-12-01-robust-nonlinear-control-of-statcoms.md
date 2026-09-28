@@ -45,6 +45,7 @@ input–output feedback linearization, nonlinear feedback controller, passivity-
 ## References
 - N Hingorani, Understanding facts: concepts and technology of flexible AC transmission systems (2000)
 - Schauder, C. & Mehta, H. Vector analysis and control of advanced static VAR compensators. IEE Proc. C Gener. Transm. Distrib. UK 140, 299 (1993) -- [10.1049/ip-c.1993.0044](https://doi.org/10.1049/ip-c.1993.0044)
+- Schauder C (1994) Advanced static VAR compensator control system. US Patent no. US5,329,221
 - Isidori, A. Nonlinear Control Systems. Communications and Control Engineering (Springer London, 1995). doi:10.1007/978-1-84628-615-5 -- [10.1007/978-1-84628-615-5](https://doi.org/10.1007/978-1-84628-615-5)
 - H Khalil, Nonlinear systems (2002)
 - Petitclair, P., Bacha, S. & Rognon, J. p. Averaged modelling and nonlinear control of an ASVC (advanced static VAr compensator). PESC Record. 27th Annual IEEE Power Electronics Specialists Conference vol. 1 753–758 -- [10.1109/pesc.1996.548666](https://doi.org/10.1109/pesc.1996.548666)
@@ -55,10 +56,16 @@ input–output feedback linearization, nonlinear feedback controller, passivity-
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - Lee, T.-S. Lagrangian Modeling and Passivity-Based Control of Three-Phase AC/DC Voltage-Source Converters. IEEE Trans. Ind. Electron. 51, 892–902 (2004) -- [10.1109/tie.2004.831753](https://doi.org/10.1109/tie.2004.831753)
 - Gui, Y., Lee, Y. O., Han, Y., Kim, W. & Chung, C. C. Passivity-based control with nonlinear damping for STATCOM system. 2012 IEEE 51st IEEE Conference on Decision and Control (CDC) 1715–1720 (2012) doi:10.1109/cdc.2012.6425928 -- [10.1109/cdc.2012.6425928](https://doi.org/10.1109/cdc.2012.6425928)
+- Gui Y, Chang DE, Chung CC (2013) Tracking controller design methodology for passive port-controlled Hamiltonians with application to type-2 STATCOM systems. In: Proceedings of IEEE conference decision control, pp 1653–1658
 - J Slotine, Applied nonlinear control (1991)
 - Lee, Y. O., Han, Y. & Chung, C. C. Output tracking control with enhanced damping of internal dynamics and its output boundedness for static synchronous compensator system. IET Control Theory Appl. 6, 1445–1455 (2012) -- [10.1049/iet-cta.2011.0340](https://doi.org/10.1049/iet-cta.2011.0340)
+- Chen CT (1995) Linear system theory and design. Oxford University Press, Oxford
 - Hamdan, A. M. A. An investigation of the significance of singular value decomposition in power system dynamics. International Journal of Electrical Power &amp; Energy Systems 21, 417–424 (1999) -- [10.1016/s0142-0615(99)00011-3](https://doi.org/10.1016/s0142-0615(99)00011-3)
+- Kailath T (1980) Linear systems. Prentice-Hall, New Jersey
 - Lee, Y. O. & Chung, C. C. Uniform output regulation via approximated input–output linearisation for lightly damped internal dynamics. International Journal of Control 86, 159–171 (2013) -- [10.1080/00207179.2012.721565](https://doi.org/10.1080/00207179.2012.721565)
+- Tsai H-C, Chu C-C, Lee S-H (2005) Passivity-based nonlinear STATCOM controller design for improving transient stability of power systems. In: Proceedings IEEE/PES transmission distribution conference exhibition, pp 1–5
+- Yazdani A (2009) Energy and voltage management methods for multilevel converters for bulk power system power quality improvement. PhD dissertation, Missouri University of Science and Technology
+- Sira-Ramirez H, Silva-Ortigoza R (2006) Control design techniques in power electronics devices. Springer, Berlin
 - Lee, Y. O., Han, Y. & Chung, C. C. Output tracking control with enhanced damping of internal dynamics and its output boundedness. 49th IEEE Conference on Decision and Control (CDC) 3964–3971 (2010) doi:10.1109/cdc.2010.5716997 -- [10.1109/cdc.2010.5716997](https://doi.org/10.1109/cdc.2010.5716997)
 - J Marsden, Elementary classical analysis (1993)
 

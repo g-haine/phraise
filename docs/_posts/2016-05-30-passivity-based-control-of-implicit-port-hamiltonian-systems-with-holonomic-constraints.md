@@ -55,6 +55,7 @@ hamiltonian dynamics, holonomic constraints, implicit models, passivity, pendulu
 - [Castaños F, Jayawardhana B, Ortega R, García-Canseco E (2009) Proportional Plus Integral Control for Set-Point Regulation of a Class of Nonlinear RLC Circuits. Circuits Syst Signal Process 28(4):609–623. https://doi.org/10.1007/s00034-009-9103-](proportional-plus-integral-control-for-set-point-regulation-of-a-class-of-nonlinear-rlc-circuits) -- [10.1007/s00034-009-9103-x](https://doi.org/10.1007/s00034-009-9103-x)
 - Öttinger, (2005)
 - Sandberg H, Delvenne J-C, Doyle JC (2011) On Lossless Approximations, the Fluctuation- Dissipation Theorem, and Limitations of Measurements. IEEE Trans Automat Contr 56(2):293–308. https://doi.org/10.1109/tac.2010.205645 -- [10.1109/tac.2010.2056450](https://doi.org/10.1109/tac.2010.2056450)
+- B. Maschke, A. van der Schaft, Port-controlled Hamiltonian systems: Modelling origins and system-theoretic properties, in: Proc. 2nd IFAC NOLCOS, 1992, pp. 282–288.
 - [Castaños F, Gromov D, Hayward V, Michalska H (2013) Implicit and explicit representations of continuous-time port-Hamiltonian systems. Systems &amp; Control Letters 62(4):324–330. https://doi.org/10.1016/j.sysconle.2013.01.00](implicit-and-explicit-representations-of-continuous-time-port-hamiltonian-systems) -- [10.1016/j.sysconle.2013.01.007](https://doi.org/10.1016/j.sysconle.2013.01.007)
 - van der Schaft, (2000)
 - Ortega, Putting energy back in control. IEEE Control Syst. Mag. (2001)

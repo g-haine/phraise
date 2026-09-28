@@ -69,4 +69,6 @@ contact hamiltonian equations, reaction–diffusion equations, variational princ
 - Muschik W (2009) Contact Quantities and Non-Equilibrium Entropy of Discrete Systems. Journal of Non-Equilibrium Thermodynamics 34(1). https://doi.org/10.1515/jnetdy.2009.00 -- [10.1515/jnetdy.2009.005](https://doi.org/10.1515/jnetdy.2009.005)
 - (2006) Chapter 5 Contact geometry. Handbook of Differential Geometry 315–38 -- [10.1016/s1874-5741(06)80008-7](https://doi.org/10.1016/s1874-5741(06)80008-7)
 - Arnold VI (1989) Mathematical Methods of Classical Mechanics. Springer New Yor -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
+- Arnold, V.I.: Contact geometry: the geometrical method of Gibbs’s thermodynamics. In: Caldi, D.G., Mostow, G.D. (eds.) Proceedings of the Gibbs Symposium, Yale University, May 15–17, pp. 163–179 (1989)
+- Joo, S.-H.: Contact systems and contact integrators. Ph.D. Thesis, Massey University, New Zealand (2003)
 

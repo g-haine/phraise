@@ -49,6 +49,7 @@ energy storage systems, port-controlled hamiltonian, supercapacitors, traction s
 ## References
 - González-Gil, A., Palacin, R., Batty, P. & Powell, J. P. A systems approach to reduce urban rail energy consumption. Energy Conversion and Management 80, 509–524 (2014) -- [10.1016/j.enconman.2014.01.060](https://doi.org/10.1016/j.enconman.2014.01.060)
 - IEA, (2012)
+- Chen J, Atasoy B, Robenek T, Bierlaire M, Themans M. Planning of feeding station installment for electric urban public mass-transportation system. In: Proceedings of the 13th Swiss Transport Research Conference (STRC). Ascona, Switzerland, 24–26 April 2013.
 - Hannan, M. A., Azidin, F. A. & Mohamed, A. Hybrid electric vehicles and their challenges: A review. Renewable and Sustainable Energy Reviews 29, 135–150 (2014) -- [10.1016/j.rser.2013.08.097](https://doi.org/10.1016/j.rser.2013.08.097)
 - Jorgensen, K. Technologies for electric, hybrid and hydrogen vehicles: Electricity from renewable energy sources in transport. Utilities Policy 16, 72–79 (2008) -- [10.1016/j.jup.2007.11.005](https://doi.org/10.1016/j.jup.2007.11.005)
 - Mahela, O. P. & Shaik, A. G. Comprehensive overview of grid interfaced wind energy generation systems. Renewable and Sustainable Energy Reviews 57, 260–281 (2016) -- [10.1016/j.rser.2015.12.048](https://doi.org/10.1016/j.rser.2015.12.048)
@@ -83,6 +84,7 @@ energy storage systems, port-controlled hamiltonian, supercapacitors, traction s
 - Bayrak, G. & Cebeci, M. Grid connected fuel cell and PV hybrid power generating system design with Matlab Simulink. International Journal of Hydrogen Energy 39, 8803–8812 (2014) -- [10.1016/j.ijhydene.2013.12.029](https://doi.org/10.1016/j.ijhydene.2013.12.029)
 - Jung, H., Wang, H. & Hu, T. Control design for robust tracking and smooth transition in power systems with battery/supercapacitor hybrid energy storage devices. Journal of Power Sources 267, 566–575 (2014) -- [10.1016/j.jpowsour.2014.05.061](https://doi.org/10.1016/j.jpowsour.2014.05.061)
 - Becherif, M., Ayad, M. Y., Djerdir, A. & Miraoui, A. Electrical Train Feeding By Association Of Supercapacitors, Photovoltaic And Wind Generators. 2007 International Conference on Clean Electrical Power 55–60 (2007) doi:10.1109/iccep.2007.384186 -- [10.1109/iccep.2007.384186](https://doi.org/10.1109/iccep.2007.384186)
+- Ayad MY, Rael S, Pierfederici S, Davat B. Supercapacitors for embarked systems as a storage energy device solution. In: Proceedings ESSCAP, Belfort, France, November 2004.
 - Rufer, A. & Barrade, P. A supercapacitor-based energy-storage system for elevators with soft commutated interface. IEEE Trans. on Ind. Applicat. 38, 1151–1159 (2002) -- [10.1109/tia.2002.803021](https://doi.org/10.1109/tia.2002.803021)
 - Belhachemi, F., Rael, S. & Davat, B. A physical based model of power electric double-layer supercapacitors. Conference Record of the 2000 IEEE Industry Applications Conference. Thirty-Fifth IAS Annual Meeting and World Conference on Industrial Applications of Electrical Energy (Cat. No.00CH37129) vol. 5 3069–3076 -- [10.1109/ias.2000.882604](https://doi.org/10.1109/ias.2000.882604)
 - Ohshima, (1998)

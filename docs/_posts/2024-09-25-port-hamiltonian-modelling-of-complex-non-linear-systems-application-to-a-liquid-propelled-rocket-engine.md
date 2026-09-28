@@ -58,10 +58,12 @@ Port-Hamiltonian; Modelling; Non-linear; Aerospace; Rocket Engine
 - Duindam, (2009)
 - [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - [Esquivel-Sancho, L. M., Muñoz-Arias, M., Phillips-Brenes, H. & Pereira-Arroyo, R. A Reversible Hydropump–Turbine System. Applied Sciences vol. 12 9086 (2022)](a-reversible-hydropump-turbine-system) -- [10.3390/app12189086](https://doi.org/10.3390/app12189086)
+- Lorenzo, C.F. and Musgrave, J.L. (1991). Overview of rocket engine control. In Symposium on Space Nuclear Power Systems, E-6673.
 - Manfletti, (2010)
 - Maschke, (1993)
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 42 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)
 - Pasumarthy, A port-hamiltonian approach to modeling and interconnections of canal systems. In 16th International Symposium on Mathematical (2006)
+- Perez Roca, S. (2020). Model-based robust transient control of reusable liquid-propellant rocket engines. Ph.D. thesis, Université Paris-Saclay.
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR. Chemical Engineering Science vol. 89 223–234 (2013)](irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr) -- [10.1016/j.ces.2012.12.002](https://doi.org/10.1016/j.ces.2012.12.002)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

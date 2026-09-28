@@ -45,6 +45,7 @@ bond graph, dirac structure, distribute parameter system, hamiltonian system, po
 ## References
 - Bloch, A. M. & Crouch, P. E. Representations of Dirac structures on vector spaces and nonlinear L-C circuits. Proceedings of Symposia in Pure Mathematics 103–117 (1998) doi:10.1090/pspum/064/1654513 -- [10.1090/pspum/064/1654513](https://doi.org/10.1090/pspum/064/1654513)
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Matching and stabilization by the method of controlled Lagrangians. Proceedings of the 37th IEEE Conference on Decision and Control (Cat. No.98CH36171) vol. 2 1446–1451 -- [10.1109/cdc.1998.758490](https://doi.org/10.1109/cdc.1998.758490)
+- P.C. Breedveld, Physical systems theory in terms of bond graphs, PhD thesis, University of Twente, Faculty of Electrical Engineering, 1984
 - R.W. Brockett, Geometric Control Theory (1977)
 - Courant, T. J. Dirac manifolds. Trans. Amer. Math. Soc. 319, 631–661 (1990) -- [10.2307/2001258](https://doi.org/10.2307/2001258)
 - Variational and Hamiltonian Control Systems. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1987). doi:10.1007/bfb0042858 -- [10.1007/bfb0042858](https://doi.org/10.1007/bfb0042858)
@@ -59,22 +60,27 @@ bond graph, dirac structure, distribute parameter system, hamiltonian system, po
 - B.M. Maschke, Interconnection and structure of controlled Hamiltonian systems: a network approach, (in French) (1998)
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - [Maschke, B. M. J. & van der Schaft, A. J. Port Controlled Hamiltonian Representation of Distributed Parameter Systems. IFAC Proceedings Volumes 33, 27–37 (2000)](port-controlled-hamiltonian-representation-of-distributed-parameter-systems) -- [10.1016/s1474-6670(17)35543-x](https://doi.org/10.1016/s1474-6670(17)35543-x)
+- B.M. Maschke, C. Bidard & A.J. van der Schaft, “Screw-vector bond graphs for the kinestatic and dynamic modeling of multibody systems”, in Proc. ASME Int. Mech. Engg. Congress, 55-2, Chicago, U.S.A., pp. 637–644, 1994.
 - Maschke, B. M. J., Ortega, R. & van der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. Proceedings of the 37th IEEE Conference on Decision and Control (Cat. No.98CH36171) vol. 4 3599–3604 -- [10.1109/cdc.1998.761738](https://doi.org/10.1109/cdc.1998.761738)
 - B.M. Maschke, Proc. 14th IFAC World Congress, Beijing (1999)
+- B.M. Maschke & A.J. van der Schaft, “Port-controlled Hamiltonian systems: Modelling origins and system-theoretic properties”, in Proc. 2nd IFAC NOLCOS, Bordeaux, pp. 282–288, 1992.
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Trans. Circuits Syst. I 42, 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)
 - Maschke, B. M. J. & van der Schaft, A. J. Interconnected mechanical systems, part II: the dynamics of spatial mechanical networks. Modelling and Control of Mechanical Systems 17–30 (1997) doi:10.1142/9781848160873_0002 -- [10.1142/9781848160873_0002](https://doi.org/10.1142/9781848160873_0002)
 - J.I. Neimark, Dynamics of Nonholonomic Systems (1972)
 - Nijmeijer, H. & van der Schaft, A. Nonlinear Dynamical Control Systems. (Springer New York, 1990). doi:10.1007/978-1-4757-2101-0 -- [10.1007/978-1-4757-2101-0](https://doi.org/10.1007/978-1-4757-2101-0)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
+- R. Ortega, A.J. van der Schaft, B.M. Maschke & G. Escobar, “Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems”, 1999, submitted for publication.
 - H. M. Paynter, Analysis and design of engineering systems (1960)
 - A.J. Schaft van der, System theoretic properties of physical systems (1984)
 - van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications 10, 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
+- A.J. van der Schaft, “Interconnection and geometry”, in The Mathematics of Systems and Control, From Intelligent Control to Behavioral Systems (eds. J.W. Polderman, H.L. Trentelman), Groningen, 1999.
 - van der Schaft, A. Nonlinear H ∞ Control. Communications and Control Engineering 163–192 (2000) doi:10.1007/978-1-4471-0507-7_7 -- [10.1007/978-1-4471-0507-7_7](https://doi.org/10.1007/978-1-4471-0507-7_7)
 - A.J. Schaft van der, J. of the Society of Instrument and Control Engineers of Japan (SICE) (2000)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - A.J. Schaft van der, Archiv für Elektronik und Übertragungstechnik (1995)
 - A.J. Schaft van der, Modelling and Control of Mechanical Systems (1997)
 - Schlacher, K. & Kugi, A. Control of mechanical structures by piezoelectric actuators and sensors. Lecture Notes in Control and Information Sciences 275–292 (1999) doi:10.1007/1-84628-577-1_15 -- [10.1007/1-84628-577-1_15](https://doi.org/10.1007/1-84628-577-1_15)
+- S. Stramigioli, From Differentiable Manifolds to Interactive Robot Control, PhD Dissertation, University of Delft, Dec. 1998.
 - [Stramigioli, S., Maschke, B. & van der Schaft, A. Passive Output Feedback and Port Interconnection. IFAC Proceedings Volumes 31, 591–596 (1998)](passive-output-feedback-and-port-interconnection) -- [10.1016/s1474-6670(17)40401-0](https://doi.org/10.1016/s1474-6670(17)40401-0)
 - S. Stramigioli, Proc. Symposium Commemorating the Legacy, Work and Life of Sir R.S. Ball, J. Duffy and H. Lipkin organizers, July 9–11 (2000)
 - [Stramigioli, S., van der Schaft, A., Maschke, B., Andreotti, S. & Melchiorri, C. Geometric scattering in tele-manipulation of port controlled Hamiltonian systems. Proceedings of the 39th IEEE Conference on Decision and Control (Cat. No.00CH37187) vol. 5 5108–5113](geometric-scattering-in-tele-manipulation-of-port-controlled-hamiltonian-systems) -- [10.1109/cdc.2001.914760](https://doi.org/10.1109/cdc.2001.914760)

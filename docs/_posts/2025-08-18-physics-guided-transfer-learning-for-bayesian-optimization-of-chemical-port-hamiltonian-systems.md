@@ -72,10 +72,12 @@ bayesian optimization, gaussian process, physics-enhanced machine learning, port
 - Hou Z-S, Wang Z (2013) From model-based control to data-driven control: Survey, classification and perspective. Information Sciences 235:3–35. https://doi.org/10.1016/j.ins.2012.07.01 -- [10.1016/j.ins.2012.07.014](https://doi.org/10.1016/j.ins.2012.07.014)
 - Ikonen, (2001)
 - Jidling, (2017)
+- Jomaa, H.S., Arango, S.P., Schmidt-Thieme, L., Grabocka, J., 2021. Transfer learning for Bayesian hpo with end-to-end landmark meta-features. In: Fifth Workshop on Meta-Learning At the Conference on Neural Information Processing Systems.
 - Jones DR, Schonlau M, Welch WJ (1998) Efficient Global Optimization of Expensive Black-Box Functions. Journal of Global Optimization 13(4):455–492. https://doi.org/10.1023/a:100830643114 -- [10.1023/a:1008306431147](https://doi.org/10.1023/a:1008306431147)
 - Theckel Joy T, Rana S, Gupta S, Venkatesh S (2019) A flexible transfer learning framework for Bayesian optimization with convergence guarantee. Expert Systems with Applications 115:656–672. https://doi.org/10.1016/j.eswa.2018.08.02 -- [10.1016/j.eswa.2018.08.023](https://doi.org/10.1016/j.eswa.2018.08.023)
 - Kandasamy, (2019)
 - Karniadakis GE, Kevrekidis IG, Lu L, Perdikaris P, Wang S, Yang L (2021) Physics-informed machine learning. Nat Rev Phys 3(6):422–440. https://doi.org/10.1038/s42254-021-00314- -- [10.1038/s42254-021-00314-5](https://doi.org/10.1038/s42254-021-00314-5)
+- Kochi, M.R., Mahboubi, N., Gill, A.P.S., Moosavi, S.M., 2024. Adaptive Representation of MOFs in Bayesian Optimization. In: AI for Accelerated Materials Design - NeurIPS 2024.
 - Lamparth, (2022)
 - Li Y, Shen Y, Zhang W, Chen Y, Jiang H, Liu M, Jiang J, Gao J, Wu W, Yang Z, Zhang C, Cui B (2021) OpenBox: A Generalized Black-box Optimization Service. Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining 3209–321 -- [10.1145/3447548.3467061](https://doi.org/10.1145/3447548.3467061)
 - [Li P, Tan K, Beckers T (2024) PyGpPHs: A Python Package for Bayesian Modeling of Port-Hamiltonian Systems. IFAC-PapersOnLine 58(6):54–59. https://doi.org/10.1016/j.ifacol.2024.08.25](pygpphs-a-python-package-for-bayesian-modeling-of-port-hamiltonian-systems) -- [10.1016/j.ifacol.2024.08.256](https://doi.org/10.1016/j.ifacol.2024.08.256)

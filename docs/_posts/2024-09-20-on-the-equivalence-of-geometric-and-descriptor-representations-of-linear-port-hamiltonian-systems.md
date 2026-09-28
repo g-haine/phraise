@@ -46,6 +46,7 @@ Port-Hamiltonian systems; Multi-valued linear algebra; Descriptor systems
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-the-equivalence-of-geometric-and-descriptor-representations-of-linear-port-hamiltonian-systems.bib)
  
 ## References
+- T. Berger. On differential-algebraic control systems. Ph.D. Thesis, TU Ilmenau, 2013
 - Behrndt, J., Hassi, S. & de Snoo, H. Boundary Value Problems, Weyl Functions, and Differential Operators. Monographs in Mathematics (Springer International Publishing, 2020). doi:10.1007/978-3-030-36714-5 -- [10.1007/978-3-030-36714-5](https://doi.org/10.1007/978-3-030-36714-5)
 - [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
 - Berger, T., Trunk, C. & Winkler, H. Linear relations and the Kronecker canonical form. Linear Algebra and its Applications vol. 488 13–44 (2016) -- [10.1016/j.laa.2015.09.033](https://doi.org/10.1016/j.laa.2015.09.033)
@@ -65,11 +66,14 @@ Port-Hamiltonian systems; Multi-valued linear algebra; Descriptor systems
 - [Mehl, C., Mehrmann, V. & Wojtylak, M. Matrix Pencils with Coefficients that have Positive Semidefinite Hermitian Parts. SIAM Journal on Matrix Analysis and Applications vol. 43 1186–1212 (2022)](matrix-pencils-with-coefficients-that-have-positive-semidefinite-hermitian-parts) -- [10.1137/21m1439997](https://doi.org/10.1137/21m1439997)
 - [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica vol. 32 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)
 - [Mehrmann, V. & van der Schaft, A. Differential–algebraic systems with dissipative Hamiltonian structure. Mathematics of Control, Signals, and Systems vol. 35 541–584 (2023)](differential-algebraic-systems-with-dissipative-hamiltonian-structure) -- [10.1007/s00498-023-00349-2](https://doi.org/10.1007/s00498-023-00349-2)
+- F. Philipp, T. Reis, M. Schaller, Infinite-dimensional port-Hamiltonian systems - a system node approach (2023). preprint arXiv:2302.05168
+- T. Reis, Systems theoretic aspects of PDAEs and applications to electrical circuits. Ph.D. Thesis, University of Kaiserslautern, 2006
 - Sviridyuk, G. A. & Fedorov, V. E. Linear Sobolev Type Equations and Degenerate Semigroups of Operators. (2003) doi:10.1515/9783110915501 -- [10.1515/9783110915501](https://doi.org/10.1515/9783110915501)
 - [Skrepek, N. Well-posedness of linear first order port-Hamiltonian Systems on multidimensional spatial domains. Evolution Equations &amp; Control Theory vol. 10 965 (2021)](well-posedness-of-linear-first-order-port-hamiltonian-systems-on-multidimensional-spatial-domains) -- [10.3934/eect.2020098](https://doi.org/10.3934/eect.2020098)
 - Seifert, C., Trostorff, S. & Waurick, M. Evolutionary Equations. Operator Theory: Advances and Applications (Springer International Publishing, 2022). doi:10.1007/978-3-030-89397-2 -- [10.1007/978-3-030-89397-2](https://doi.org/10.1007/978-3-030-89397-2)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- J.A. Villegas, A port-Hamiltonian approach to distributed parameter systems. Ph.D. Thesis, University of Twente, 2007
 - [van der Schaft, A. & Mehrmann, V. Linear port-Hamiltonian DAE systems revisited. Systems &amp; Control Letters vol. 177 105564 (2023)](linear-port-hamiltonian-dae-systems-revisited) -- [10.1016/j.sysconle.2023.105564](https://doi.org/10.1016/j.sysconle.2023.105564)
 

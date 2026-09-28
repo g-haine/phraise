@@ -54,10 +54,13 @@ Marine systems; Port-Hamiltonian Systems; Nonlinear control
 - Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
 - [Donaire, A. & Perez, T. Port-Hamiltonian Theory of Motion Control for Marine Craft. IFAC Proceedings Volumes vol. 43 201–206 (2010)](port-hamiltonian-theory-of-motion-control-for-marine-craft) -- [10.3182/20100915-3-de-3008.00054](https://doi.org/10.3182/20100915-3-de-3008.00054)
 - [Donaire, A. & Perez, T. Dynamic positioning of marine craft using a port-Hamiltonian framework. Automatica vol. 48 851–856 (2012)](dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework) -- [10.1016/j.automatica.2012.02.022](https://doi.org/10.1016/j.automatica.2012.02.022)
+- Donaire, A., Perez, T., and Renton, C. (2011). Manoeuvring control of fully-actuated marine vehicles - a port-H amiltonian system approach to tracking. In Australian Control Conference. Melbourne, Australia.
+- Fossen, T.I. (2002). Marine Control Systems: Guidance, Navigation and Control of Ships, Rigs and Underwater Vehicles. Marine Cybernetics, Trondheim.
 - Fossen, T. I. Handbook of Marine Craft Hydrodynamics and Motion Control. (2011) doi:10.1002/9781119994138 -- [10.1002/9781119994138](https://doi.org/10.1002/9781119994138)
 - Fossen, T. I. & Berge, S. P. Nonlinear vectorial backstepping design for global exponential tracking of marine vessels in the presence of actuator dynamics. Proceedings of the 36th IEEE Conference on Decision and Control vol. 5 4237–4242 -- [10.1109/cdc.1997.649499](https://doi.org/10.1109/cdc.1997.649499)
 - Greenwood, (2003)
 - Khalil, (2000)
+- Lanczos, C. (1986). The variational principles of mechanics. 4th Edition. Dover Publications.
 - Ortega, (1998)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Romero, J. G., Navarro-Alarcon, D. & Panteley, E. Robust globally exponentially stable control for mechanical systems in free/constrained-motion tasks. 52nd IEEE Conference on Decision and Control 3067–3072 (2013) doi:10.1109/cdc.2013.6760350](robust-globally-exponentially-stable-control-for-mechanical-systems-in-free-constrained-motion-tasks) -- [10.1109/cdc.2013.6760350](https://doi.org/10.1109/cdc.2013.6760350)

@@ -57,6 +57,7 @@ Control by interconnection; Energy ports; Energy shaping; Energy-Casimir method;
 - Angeli, D. Systems With Counterclockwise Input–Output Dynamics. IEEE Transactions on Automatic Control vol. 51 1130–1143 (2006) -- [10.1109/tac.2006.878747](https://doi.org/10.1109/tac.2006.878747)
 - Angeli, D. On systems with counter-clock-wise input/output dynamics. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 2527-2532 Vol.3 (2004) doi:10.1109/cdc.2004.1428820 -- [10.1109/cdc.2004.1428820](https://doi.org/10.1109/cdc.2004.1428820)
 - [Borja, P., Ferguson, J. & van der Schaft, A. Interconnection Schemes in Modeling and Control. IEEE Control Systems Letters vol. 7 2287–2292 (2023)](interconnection-schemes-in-modeling-and-control) -- [10.1109/lcsys.2023.3286124](https://doi.org/10.1109/lcsys.2023.3286124)
+- Breedveld, P.C., 1984. Physical systems theory in terms of bond graphs. PhD Thesis, Technische Hogeschool Twente, Enschede, The Netherlands.
 - Brockett, Control theory and analytical mechanics. (1977)
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Crouch, Variational and Hamiltonian Control Systems. (1993)
@@ -68,6 +69,7 @@ Control by interconnection; Energy ports; Energy shaping; Energy-Casimir method;
 - [Krhač, K., Maschke, B. & van der Schaft, A. Port-Hamiltonian systems with energy and power ports. IFAC-PapersOnLine vol. 58 280–285 (2024)](port-hamiltonian-systems-with-energy-and-power-ports) -- [10.1016/j.ifacol.2024.08.294](https://doi.org/10.1016/j.ifacol.2024.08.294)
 - Lanzon, A. & Petersen, I. R. Stability Robustness of a Feedback Interconnection of Systems With Negative Imaginary Frequency Response. IEEE Transactions on Automatic Control vol. 53 1042–1046 (2008) -- [10.1109/tac.2008.919567](https://doi.org/10.1109/tac.2008.919567)
 - Marsden, (1999)
+- Maschke, B., van der Schaft, A.J., 1992. Port-controlled Hamiltonian systems: Modelling origins and system theoretic properties. In: Fliess, M., (EdS.), Proceedings of 2nd IFAC Symposium on Nonlinear Control Systems (NOLCOS 2004), pp. 282–288. Bordeaux, France.
 - Nijmeijer, (2016)
 - Ortega, Putting energy back in control. Control Systems Magazine (2001)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

@@ -58,7 +58,9 @@ Heat exchanger; SMO; port-Hamiltonian systems; state estimation
 - Chen, J.-H. Two-stream counter-flow heat exchanger equation with time-varying velocities. Journal of Mathematical Analysis and Applications vol. 410 492–498 (2014) -- [10.1016/j.jmaa.2013.08.038](https://doi.org/10.1016/j.jmaa.2013.08.038)
 - Curtain, (1995)
 - Duindam, (2009)
+- Estay, H.R. (2012). Control of irreversible thermody-namic process using port-Hamiltonian systems defined on pseudo-Poisson and contact structures. Ph.D. thesis, Université Claude Bernard Lyon 1.
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- Kazaku, J., Kasongo, J., Banka, R., and Kadinda, F. (Jul 2018). Contribution à l’identification par logique floue d’un échangeur de chaleur à tube concentrique. In 4ème conférence sur les applications pratiques de l’intelligence artificielle, pp:33 – 38. Nancy, France.
 - Luo, (1999)
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
 - [Macchelli, A., Gorrec, Y. L. & Ramirez, H. Asymptotic Stabilisation of Distributed Port-Hamiltonian Systems by Boundary Energy-Shaping Control. IFAC-PapersOnLine vol. 48 488–493 (2015)](asymptotic-stabilisation-of-distributed-port-hamiltonian-systems-by-boundary-energy-shaping-control) -- [10.1016/j.ifacol.2015.05.143](https://doi.org/10.1016/j.ifacol.2015.05.143)

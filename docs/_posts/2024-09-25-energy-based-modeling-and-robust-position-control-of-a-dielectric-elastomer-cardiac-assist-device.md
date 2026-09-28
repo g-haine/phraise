@@ -58,6 +58,7 @@ Dielectric elastomer actuators; port-Hamiltonian systems; passivity-based contro
 - Duindam, (2009)
 - [Ferguson, J., Donaire, A., Ortega, R. & Middleton, R. H. Robust integral action of port-Hamiltonian systems. IFAC-PapersOnLine vol. 51 181–186 (2018)](robust-integral-action-of-port-hamiltonian-systems) -- [10.1016/j.ifacol.2018.06.050](https://doi.org/10.1016/j.ifacol.2018.06.050)
 - [Ferguson, J., Donaire, A. & Middleton, R. H. Integral Control of Port-Hamiltonian Systems: Nonpassive Outputs Without Coordinate Transformation. IEEE Transactions on Automatic Control vol. 62 5947–5953 (2017)](integral-control-of-port-hamiltonian-systems-nonpassive-outputs-without-coordinate-transformation) -- [10.1109/tac.2017.2700995](https://doi.org/10.1109/tac.2017.2700995)
+- Garnell, E. (2020). Dielectric elastomer loudspeakers: models, experiments and optimization. Ph.D. thesis, Institut polytechnique de Paris.
 - Gupta, U., Qin, L., Wang, Y., Godaba, H. & Zhu, J. Soft robots based on dielectric elastomer actuators: a review. Smart Materials and Structures vol. 28 103002 (2019) -- [10.1088/1361-665x/ab3a77](https://doi.org/10.1088/1361-665x/ab3a77)
 - Kaaya, (2023)
 - Kaaya, T., Wang, S., Cescon, M. & Chen, Z. Physics-lumped parameter based control oriented model of dielectric tubular actuator. International Journal of Intelligent Robotics and Applications vol. 6 397–413 (2021) -- [10.1007/s41315-021-00211-1](https://doi.org/10.1007/s41315-021-00211-1)
@@ -70,6 +71,7 @@ Dielectric elastomer actuators; port-Hamiltonian systems; passivity-based contro
 - Rizzello, G., Naso, D., York, A. & Seelecke, S. Modeling, Identification, and Control of a Dielectric Electro-Active Polymer Positioning System. IEEE Transactions on Control Systems Technology vol. 23 632–643 (2015) -- [10.1109/tcst.2014.2338356](https://doi.org/10.1109/tcst.2014.2338356)
 - Suo, Z. Theory of dielectric elastomers. Acta Mechanica Solida Sinica vol. 23 549–578 (2010) -- [10.1016/s0894-9166(11)60004-9](https://doi.org/10.1016/s0894-9166(11)60004-9)
 - [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
+- Voß, T. (2010). Port-hamiltonian modeling and control of piezoelectric beams and plates: application to inflatable space structures.
 - Xu, B.-X., Mueller, R., Klassen, M. & Gross, D. On electromechanical stability analysis of dielectric elastomer actuators. Applied Physics Letters vol. 97 (2010) -- [10.1063/1.3504702](https://doi.org/10.1063/1.3504702)
 - Zhao, X., Hong, W. & Suo, Z. Electromechanical hysteresis and coexistent states in dielectric elastomers. Physical Review B vol. 76 (2007) -- [10.1103/physrevb.76.134113](https://doi.org/10.1103/physrevb.76.134113)
 - Zhu, J., Stoyanov, H., Kofod, G. & Suo, Z. Large deformation and electromechanical instability of a dielectric elastomer tube actuator. Journal of Applied Physics vol. 108 (2010) -- [10.1063/1.3490186](https://doi.org/10.1063/1.3490186)

@@ -55,7 +55,10 @@ Variable admittance control; Stochastic port–Hamiltonian systems; Passivity; U
 - Buchli, (2011)
 - Calanca, A., Muradore, R. & Fiorini, P. A Review of Algorithms for Compliant Control of Stiff and Fixed-Compliance Robots. IEEE/ASME Transactions on Mechatronics vol. 21 613–624 (2016) -- [10.1109/tmech.2015.2465849](https://doi.org/10.1109/tmech.2015.2465849)
 - Calanca, A., Muradore, R. & Fiorini, P. Impedance control of series elastic actuators: Passivity and acceleration-based control. Mechatronics vol. 47 37–48 (2017) -- [10.1016/j.mechatronics.2017.08.010](https://doi.org/10.1016/j.mechatronics.2017.08.010)
+- Cordoni, F., Di Persio, L., and Muradore, R. (2019a). Bilateral teleoperation of stochastic port-hamiltonian systems using energy tank. (submitted).
+- Cordoni, F., Di Persio, L., and Muradore, R. (2019b). Stochastic port–hamiltonian systems. arXiv preprintarXiv:1910.01901.
 - Cosso, A., Fuhrman, M. & Pham, H. Long time asymptotics for fully nonlinear Bellman equations: A backward SDE approach. Stochastic Processes and their Applications vol. 126 1932–1973 (2016) -- [10.1016/j.spa.2015.12.009](https://doi.org/10.1016/j.spa.2015.12.009)
+- Fang, Z. and Gao, C. (2016). Stochastic weak passivity based stabilization of stochastic systems with nonvan-ishing noise. arXiv preprint arXiv:1602.07406.
 - Ferraguti, F. et al. An Energy Tank-Based Interactive Control Architecture for Autonomous and Teleoperated Robotic Surgery. IEEE Transactions on Robotics vol. 31 1073–1088 (2015) -- [10.1109/tro.2015.2455791](https://doi.org/10.1109/tro.2015.2455791)
 - Ferraguti, F., Secchi, C. & Fantuzzi, C. A tank-based approach to impedance control with variable stiffness. 2013 IEEE International Conference on Robotics and Automation 4948–4953 (2013) doi:10.1109/icra.2013.6631284 -- [10.1109/icra.2013.6631284](https://doi.org/10.1109/icra.2013.6631284)
 - Florchinger, P. A Passive System Approach to Feedback Stabilization of Nonlinear Control Stochastic Systems. SIAM Journal on Control and Optimization vol. 37 1848–1864 (1999) -- [10.1137/s0363012997317478](https://doi.org/10.1137/s0363012997317478)

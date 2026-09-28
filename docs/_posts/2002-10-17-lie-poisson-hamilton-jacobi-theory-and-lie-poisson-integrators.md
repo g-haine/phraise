@@ -53,6 +53,7 @@ We present results on numerical integrators that exactly preserve momentum maps 
 - Stofer, Some geometric and numerical methods for perturbed integrable systems. Thesis (1987)
 - Greenspan, (1974)
 - J. Comput. Phys. (1984)
+- Xie Zhi-Yun, Conservative numerical schemes for hamiltonian systems, J. Comput. Phys., to be published.
 - Ge Zhong, (1988)
 - Marsden, Atti Accad. Sci. Torino (1983)
 - [Lewis, D., Marsden, J., Montgomery, R. & Ratiu, T. The Hamiltonian structure for dynamic free boundary problems. Physica D: Nonlinear Phenomena vol. 18 391–404 (1986)](the-hamiltonian-structure-for-dynamic-free-boundary-problems) -- [10.1016/0167-2789(86)90207-1](https://doi.org/10.1016/0167-2789(86)90207-1)

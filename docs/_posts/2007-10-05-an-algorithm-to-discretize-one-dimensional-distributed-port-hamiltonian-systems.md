@@ -36,7 +36,7 @@ A key issue when dealing with distributed parameter systems is the solution of t
 [Download the bib file]({{ site.baseurl }}/assets/bib/an-algorithm-to-discretize-one-dimensional-distributed-port-hamiltonian-systems.bib)
  
 ## References
-- A. Bossavit. A. Bossavit. Differential forms and the computation of fields and forces in electromagnetism. European Journal of Mechanics, B/Fluids., 10(5):474–488, 1991. (1991)
+- A. Bossavit. Differential forms and the computation of fields and forces in electromagnetism. European Journal of Mechanics, B/Fluids., 10(5):474–488, 1991.
 - Curtain, R. F. & Zwart, H. An Introduction to Infinite-Dimensional Linear Systems Theory. Texts in Applied Mathematics (Springer New York, 1995). doi:10.1007/978-1-4612-4224-6 -- [10.1007/978-1-4612-4224-6](https://doi.org/10.1007/978-1-4612-4224-6)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Frankel, T. The Geometry of Physics. (2003) doi:10.1017/cbo9780511817977 -- [10.1017/cbo9780511817977](https://doi.org/10.1017/cbo9780511817977)

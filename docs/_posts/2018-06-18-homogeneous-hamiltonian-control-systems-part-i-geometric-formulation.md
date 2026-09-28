@@ -65,6 +65,7 @@ Hamiltonian systems; nonlinear control; thermodynamics; contact geometry; homoge
 - Favache, A., Dochain, D. & Maschke, B. An entropy-based formulation of irreversible processes based on contact structures. Chemical Engineering Science vol. 65 5204–5216 (2010) -- [10.1016/j.ces.2010.06.019](https://doi.org/10.1016/j.ces.2010.06.019)
 - Hermann, (1973)
 - Libermann, (1987)
+- B.M. Maschke, A.J. van der Schaft. Port controlled Hamil-tonian systems: modeling origins and system theoretic properties. In Proc. 3rd Int. IFAC Conf. on Nonlinear Systems Theory and Control“ NOLCOS’92, 282-288, Bordeaux, 1992.
 - Maschke, B. & van der Schaft, A. Homogeneous Hamiltonian Control Systems Part II: Application to thermodynamic systems. IFAC-PapersOnLine vol. 51 7–12 (2018) -- [10.1016/j.ifacol.2018.06.002](https://doi.org/10.1016/j.ifacol.2018.06.002)
 - [Merker, J. & Krüger, M. On a variational principle in thermodynamics. Continuum Mechanics and Thermodynamics vol. 25 779–793 (2012)](on-a-variational-principle-in-thermodynamics) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
 - MrugaŁa, R. Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics vol. 14 419–427 (1978) -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)

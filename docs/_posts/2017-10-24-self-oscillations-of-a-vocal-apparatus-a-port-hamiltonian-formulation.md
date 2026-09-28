@@ -57,6 +57,6 @@ Vocal Apparatus; port-Hamiltonian Systems (PHS); Open Passive Systems; Glottal F
 - [Lopes, N. & Hélie, T. Energy Balanced Model of a Jet Interacting With a Brass Player’s Lip. Acta Acustica united with Acustica vol. 102 141–154 (2016)](energy-balanced-model-of-a-jet-interacting-with-a-brass-player-s-lip) -- [10.3813/aaa.918931](https://doi.org/10.3813/aaa.918931)
 - Lopes, N.: Approche passive pour la modélisation, la simulation et l’étude d’un banc de test robotisé pour les instruments de type cuivre. Ph.D. thesis, UPMC, Paris (2016)
 - Falaize, A.: PyPHS: passive modeling and simulation in python. Software. https://afalaize.github.io/pyphs/ . last viewed on 21st April 2017
-- P Badin. Badin, P., Fant, G.: Notes on vocal tract computation. STL-QPSR 25(2–3), 53–108 (1984) (1984)
+- Badin, P., Fant, G.: Notes on vocal tract computation. STL-QPSR 25(2–3), 53–108 (1984)
 - Giovanni, A. et al. Nonlinear behavior of vocal fold vibration: The role of coupling between the vocal folds. Journal of Voice vol. 13 465–476 (1999) -- [10.1016/s0892-1997(99)80002-2](https://doi.org/10.1016/s0892-1997(99)80002-2)
 

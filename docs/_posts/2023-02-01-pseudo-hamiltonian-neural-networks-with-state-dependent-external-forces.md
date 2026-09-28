@@ -53,6 +53,8 @@ Pseudo-Hamiltonian neural networks; Physics-informed machine learning; Hybrid ma
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
 - Greydanus, Hamiltonian neural networks. (2019)
+- Y.D. Zhong, B. Dey, A. Chakraborty, Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control, in: International Conference on Learning Representations, 2020.
+- Y.D. Zhong, B. Dey, A. Chakraborty, Dissipative SymODEN: Encoding Hamiltonian Dynamics with Dissipation and Control into Deep Learning, in: ICLR 2020 Workshop on Integration of Deep Neural Models and Differential Equations, 2020.
 - [Desai, S. A., Mattheakis, M., Sondak, D., Protopapas, P. & Roberts, S. J. Port-Hamiltonian neural networks for learning explicit time-dependent dynamical systems. Physical Review E vol. 104 (2021)](port-hamiltonian-neural-networks-for-learning-explicit-time-dependent-dynamical-systems) -- [10.1103/physreve.104.034312](https://doi.org/10.1103/physreve.104.034312)
 - Duong, Hamiltonian-based neural ODE networks on the SE(3) manifold for dynamics learning and control. (2021)
 - Duong, (2021)
@@ -70,6 +72,7 @@ Pseudo-Hamiltonian neural networks; Physics-informed machine learning; Hybrid ma
 - Grmela, M. & Öttinger, H. C. Dynamics and thermodynamics of complex fluids.  I. Development of a general formalism. Physical Review E vol. 56 6620–6632 (1997) -- [10.1103/physreve.56.6620](https://doi.org/10.1103/physreve.56.6620)
 - Öttinger, H. C. & Grmela, M. Dynamics and thermodynamics of complex fluids.  II. Illustrations of a general formalism. Physical Review E vol. 56 6633–6655 (1997) -- [10.1103/physreve.56.6633](https://doi.org/10.1103/physreve.56.6633)
 - Zhang, GFINNs: GENERIC formalism informed neural networks for deterministic and stochastic dynamical systems. Philos. Trans. Roy. Soc. A (2022)
+- Z. Chen, J. Zhang, M. Arjovsky, L. Bottou, Symplectic Recurrent Neural Networks, in: International Conference on Learning Representations, 2019.
 - Matsubara, Deep energy-based modeling of discrete-time physics. (2020)
 - Kingma, (2014)
 - Jin, P., Zhang, Z., Zhu, A., Tang, Y. & Karniadakis, G. E. SympNets: Intrinsic structure-preserving symplectic networks for identifying Hamiltonian systems. Neural Networks vol. 132 166–179 (2020) -- [10.1016/j.neunet.2020.08.017](https://doi.org/10.1016/j.neunet.2020.08.017)
@@ -82,6 +85,7 @@ Pseudo-Hamiltonian neural networks; Physics-informed machine learning; Hybrid ma
 - DiPietro, Sparse symplectically integrated neural networks. Adv. Neural Inf. Process. Syst. (2020)
 - Desai, S. A., Mattheakis, M. & Roberts, S. J. Variational integrator graph networks for learning energy-conserving dynamical systems. Physical Review E vol. 104 (2021) -- [10.1103/physreve.104.035310](https://doi.org/10.1103/physreve.104.035310)
 - Lee, Structure-preserving sparse identification of nonlinear dynamics for data-driven modeling. (2022)
+- R. Pasumarthy, A.J. van der Schaft, On interconnections of infinite dimensional port-Hamiltonian systems, in: Proceedings 16th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2004), 2004, pp. 5–9.
 - Cardoso-Ribeiro, Port-Hamiltonian modeling, discretization and feedback control of a circular water tank. (2019)
 - [Brugnoli, A., Haine, G., Serhani, A. & Vasseur, X. Numerical Approximation of Port-Hamiltonian Systems for Hyperbolic or Parabolic PDEs with Boundary Control. Journal of Applied Mathematics and Physics vol. 09 1278–1321 (2021)](numerical-approximation-of-port-hamiltonian-systems-for-hyperbolic-or-parabolic-pdes-with-boundary-control) -- [10.4236/jamp.2021.96088](https://doi.org/10.4236/jamp.2021.96088)
 

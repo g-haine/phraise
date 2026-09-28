@@ -59,6 +59,8 @@ Port-Hamiltonian systems; irreversible thermodynamics; infinite dimensional syst
 - Hermann, (1973)
 - Keenan, J. H. Availability and irreversibility in thermodynamics. British Journal of Applied Physics vol. 2 183–192 (1951) -- [10.1088/0508-3443/2/7/302](https://doi.org/10.1088/0508-3443/2/7/302)
 - Kondepudi, (1998)
+- Maschke, B. and van der Schalt, A. (1992). Port controlled Hamiltonian systems: modeling origins and system theoretic properties. In Proceedings of the 3rd IF AC Symposium on Nonlinear Control Systems, NOLCOS’92, 282-288. Bordeaux, France.
+- Maschke, B. and van der Schalt, A. (2005). Advanced Topics in Control Systems Theory: Lecture Notes from FAP 2004, chapter 4 Compositional Modelling of Distributed-Parameter Systems, 115-154. Springer London, London.
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Mrugała, R. Continuous contact transformations in thermodynamics. Reports on Mathematical Physics vol. 33 149–154 (1993) -- [10.1016/0034-4877(93)90050-o](https://doi.org/10.1016/0034-4877(93)90050-o)
 - Mrugala, R., Nulton, J. D., Christian Schön, J. & Salamon, P. Contact structure in thermodynamic theory. Reports on Mathematical Physics vol. 29 109–121 (1991) -- [10.1016/0034-4877(91)90017-h](https://doi.org/10.1016/0034-4877(91)90017-h)

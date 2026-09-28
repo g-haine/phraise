@@ -62,8 +62,8 @@ Timoshenko Beam; Dirac Structure; Casimir Function; Timoshenko Theory; Hamiltoni
 - [Macchelli, A. & Melchiorri, C. Control by Interconnection and Energy Shaping of the Timoshenko Beam. Mathematical and Computer Modelling of Dynamical Systems vol. 10 231–251 (2004)](control-by-interconnection-and-energy-shaping-of-the-timoshenko-beam) -- [10.1080/13873950412331335243](https://doi.org/10.1080/13873950412331335243)
 - [Macchelli, A. & Melchiorri, C. Control by interconnection of mixed port Hamiltonian systems. IEEE Transactions on Automatic Control vol. 50 1839–1844 (2005)](control-by-interconnection-of-mixed-port-hamiltonian-systems) -- [10.1109/tac.2005.858656](https://doi.org/10.1109/tac.2005.858656)
 - Marsden, J. E. & Ratiu, T. S. Introduction to Mechanics and Symmetry. Texts in Applied Mathematics (Springer New York, 1994). doi:10.1007/978-1-4612-2682-6 -- [10.1007/978-1-4612-2682-6](https://doi.org/10.1007/978-1-4612-2682-6)
-- L. Meirovitch. Meirovitch L.: Principles and Techniques of Vibrations. Prentice Hall, Englewood Cliffs NJ (1997) (1997)
-- A.N. Michel. Michel A.N., Hou L., Liu D.: Stability of Dynamical Systems - Continuous, Discontinuous and Disrecte Systems. Birkhäuser, Boston (2008) (2008)
+- Meirovitch L.: Principles and Techniques of Vibrations. Prentice Hall, Englewood Cliffs NJ (1997)
+- Michel A.N., Hou L., Liu D.: Stability of Dynamical Systems - Continuous, Discontinuous and Disrecte Systems. Birkhäuser, Boston (2008)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1993). doi:10.1007/978-1-4612-4350-2 -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
@@ -78,5 +78,5 @@ Timoshenko Beam; Dirac Structure; Casimir Function; Timoshenko Theory; Hamiltoni
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Zhang, C.-G. Boundary feedback stabilization of the undamped Timoshenko beam with both ends free. Journal of Mathematical Analysis and Applications vol. 326 488–499 (2007) -- [10.1016/j.jmaa.2006.01.020](https://doi.org/10.1016/j.jmaa.2006.01.020)
-- F. Ziegler. Ziegler F.: Mechanics of Solids and Fluids, 2nd edn. Springer, Vienna, New York (1998) (1998)
+- Ziegler F.: Mechanics of Solids and Fluids, 2nd edn. Springer, Vienna, New York (1998)
 

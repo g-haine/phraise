@@ -53,6 +53,7 @@ Modelling; Homogenisation method; Port-Hamiltonian systems; Distributed paramete
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-macroscopic-modelling-based-on-the-homogenisation-method-case-of-an-acoustic-pipe-with-a-porous-wall.bib)
  
 ## References
+- Allaire, G. and Alouges, F. (2014). Introduction to homogenization theory. http://www.cmap.polytechnique.fr/∼allaire/homogenization.html.
 - Allard, J. F. & Atalla, N. Propagation of Sound in Porous Media. (2009) doi:10.1002/9780470747339 -- [10.1002/9780470747339](https://doi.org/10.1002/9780470747339)
 - ALOUGES, F. Introduction to Periodic Homogenization. Interdisciplinary Information Sciences vol. 22 147–186 (2016) -- [10.4036/iis.2016.a.01](https://doi.org/10.4036/iis.2016.a.01)
 - Bensoussan, (2011)
@@ -61,7 +62,10 @@ Modelling; Homogenisation method; Port-Hamiltonian systems; Distributed paramete
 - Boutin, H., Le Conte, S., Vaiedelich, S., Fabre, B. & Le Carrou, J.-L. Acoustic dissipation in wooden pipes of different species used in wind instrument making: An experimental study. The Journal of the Acoustical Society of America vol. 141 2840–2848 (2017) -- [10.1121/1.4981119](https://doi.org/10.1121/1.4981119)
 - Bruneau, (2013)
 - Butterfield, (1972)
+- Duruflé, M. (2021). Montjoie software. https://www.math.u-bordeaux.fr/∼durufe/montjoie/.
+- Holder, A. (2018). Clarinet Repair and Maintenance: Perspectives on Basic Repair Topics for Performers. Ph.D. thesis, The Florida State University.
 - [Mora, L. A., Le Gorrec, Y., Matignon, D., Ramirez, H. & Yuz, J. I. On port-Hamiltonian formulations of 3-dimensional compressible Newtonian fluids. Physics of Fluids vol. 33 (2021)](on-port-hamiltonian-formulations-of-3-dimensional-compressible-newtonian-fluids) -- [10.1063/5.0067784](https://doi.org/10.1063/5.0067784)
 - Regev, (2016)
+- Thibault, A. (2023). Modélisation, analyse et simulation de l’acoustique dissipative dans les tubes poreux ou rugueux - Application aux instruments à vent. Phd thesis, Université de Pau et des Pays de l’Adour.
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

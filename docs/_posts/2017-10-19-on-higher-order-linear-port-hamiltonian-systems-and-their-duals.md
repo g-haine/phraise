@@ -58,6 +58,7 @@ Bilinear-; quadratic differential forms; port-Hamiltonian systems; behavioral sy
 - Coppel, Linear Systems. (1972)
 - Duindam, (2009)
 - Mayo-Maldonado, J. C. & Rapisarda, P. On positive-realness and stability of switched linear differential systems. 52nd IEEE Conference on Decision and Control 162–167 (2013) doi:10.1109/cdc.2013.6759876 -- [10.1109/cdc.2013.6759876](https://doi.org/10.1109/cdc.2013.6759876)
+- Mayo-Maldonado, J. and Rapisarda, P. (2014). Modelling of switching dynamics in electrical systems. Proc. Mathematical Theory of Networks and Systems Symposium (MTNS), 985–992.
 - Mayo-Maldonado, J. C. & Rapisarda, P. Dissipative Switched Linear Differential Systems. IEEE Transactions on Automatic Control vol. 61 3813–3825 (2016) -- [10.1109/tac.2016.2520948](https://doi.org/10.1109/tac.2016.2520948)
 - Mayo-Maldonado, J. C. & Rapisarda, P. On Positive-Realness and Lyapunov Functions for Switched Linear Differential Systems. IEEE Transactions on Automatic Control vol. 61 2239–2244 (2016) -- [10.1109/tac.2015.2484329](https://doi.org/10.1109/tac.2015.2484329)
 - Mayo-Maldonado, J. C., Rapisarda, P. & Rocha, P. Stability of Switched Linear Differential Systems. IEEE Transactions on Automatic Control vol. 59 2038–2051 (2014) -- [10.1109/tac.2014.2314521](https://doi.org/10.1109/tac.2014.2314521)

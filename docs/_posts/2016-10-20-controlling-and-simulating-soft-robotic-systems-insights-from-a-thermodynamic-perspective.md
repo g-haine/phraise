@@ -46,8 +46,11 @@ Soft robots are machines, and like all machines their function is to convert ene
 - Tucker VA., Am Sci (1975)
 - Roberts, T. J., Kram, R., Weyand, P. G. & Taylor, C. R. Energetics of Bipedal Running: I. Metabolic Cost of Generating Force. Journal of Experimental Biology vol. 201 2745–2751 (1998) -- [10.1242/jeb.201.19.2745](https://doi.org/10.1242/jeb.201.19.2745)
 - Messner, P. W. C., Paik, J., Shepherd, R., Kim, S. & Trimmer, B. A. Energy for Biomimetic Robots: Challenges and Solutions. Soft Robotics vol. 1 106–109 (2014) -- [10.1089/soro.2014.1501](https://doi.org/10.1089/soro.2014.1501)
+- Paynter HM. An Epistemic Prehistory of Bond Graphs (Bond Graphs for Engineers) Breedveld PC Dauphin-Tanguy G (Eds). Amsterdam: Elesvier 1992.
+- Bedford A. Hamilton's Principle in Continuum Mechanics. Boston-London-Melbourne: Pitman Publishing 1985.
 - Duriez, C. et al. EP4A: Software and Computer Based Simulator Research: Development and Outlook SOFA—An Open Source Framework for Medical Simulation. Simulation in Healthcare: The Journal of the Society for Simulation in Healthcare vol. 2 284–285 (2007) -- [10.1097/sih.0b013e31815f61bc](https://doi.org/10.1097/sih.0b013e31815f61bc)
 - Hiller, J. & Lipson, H. Dynamic Simulation of Soft Multimaterial 3D-Printed Objects. Soft Robotics vol. 1 88–101 (2014) -- [10.1089/soro.2013.0010](https://doi.org/10.1089/soro.2013.0010)
+- Hiller J Lipson H. Dynamic simulation of soft heterogeneous objects. arXiv preprint arXiv:1212.2845. 2012.
 - Lipson, H. Challenges and Opportunities for Design, Simulation, and Fabrication of Soft Robots. Soft Robotics vol. 1 21–27 (2014) -- [10.1089/soro.2013.0007](https://doi.org/10.1089/soro.2013.0007)
 - Lin, H.-T., Leisk, G. G. & Trimmer, B. GoQBot: a caterpillar-inspired soft-bodied rolling robot. Bioinspiration &amp; Biomimetics vol. 6 026007 (2011) -- [10.1088/1748-3182/6/2/026007](https://doi.org/10.1088/1748-3182/6/2/026007)
 - Stokes, A. A., Shepherd, R. F., Morin, S. A., Ilievski, F. & Whitesides, G. M. A Hybrid Combining Hard and Soft Robots. Soft Robotics vol. 1 70–74 (2014) -- [10.1089/soro.2013.0002](https://doi.org/10.1089/soro.2013.0002)

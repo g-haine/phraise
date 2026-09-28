@@ -61,9 +61,11 @@ Port-Hamiltonian system; robust output regulation; controller design
 - Logemann, H. & Townley, S. Low-Gain Control of Uncertain Regular Linear Systems. SIAM Journal on Control and Optimization vol. 35 78–116 (1997) -- [10.1137/s0363012994275920](https://doi.org/10.1137/s0363012994275920)
 - Logemann, H. & Zwart, H. On Robust PI-Control of Infinite-Dimensional Systems. SIAM Journal on Control and Optimization vol. 30 573–593 (1992) -- [10.1137/0330033](https://doi.org/10.1137/0330033)
 - Paunonen, L. Controller Design for Robust Output Regulation of Regular Linear Systems. IEEE Transactions on Automatic Control vol. 61 2974–2986 (2016) -- [10.1109/tac.2015.2509439](https://doi.org/10.1109/tac.2015.2509439)
+- Paunonen, L. (2017). Stability and Robust Regulation of Passive Linear Systems. ArXiv e-prints. URL https://arxiv.org/abs/1706.03224.
 - Paunonen, L. & Pohjolainen, S. Internal Model Theory for Distributed Parameter Systems. SIAM Journal on Control and Optimization vol. 48 4753–4775 (2010) -- [10.1137/090760957](https://doi.org/10.1137/090760957)
 - Pohjolainen, S. Robust multivariable PI-controller for infinite dimensional systems. IEEE Transactions on Automatic Control vol. 27 17–30 (1982) -- [10.1109/tac.1982.1102887](https://doi.org/10.1109/tac.1982.1102887)
 - [Ramirez, H., Le Gorrec, Y., Macchelli, A. & Zwart, H. Exponential Stabilization of Boundary Controlled Port-Hamiltonian Systems With Dynamic Feedback. IEEE Transactions on Automatic Control vol. 59 2849–2855 (2014)](exponential-stabilization-of-boundary-controlled-port-hamiltonian-systems-with-dynamic-feedback) -- [10.1109/tac.2014.2315754](https://doi.org/10.1109/tac.2014.2315754)
 - Rebarber, R. & Weiss, G. Internal model based tracking and disturbance rejection for stable well-posed systems. Automatica vol. 39 1555–1569 (2003) -- [10.1016/s0005-1098(03)00192-4](https://doi.org/10.1016/s0005-1098(03)00192-4)
 - Phóng, V. Q. The operator equationAX−XB=C with unbounded operatorsA andB and related abstract Cauchy problems. Mathematische Zeitschrift vol. 208 567–588 (1991) -- [10.1007/bf02571546](https://doi.org/10.1007/bf02571546)
+- Villegas, J. (2007). A Port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, Universiteit Twente, Twente, The Netherlands.
 

@@ -58,8 +58,8 @@ State-space energy; Dissipation power; Decomposition of system representation; A
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-state-space-energy-based-generalization-of-brayton-moser-topological-approach-to-electrical-network-decomposition.bib)
  
 ## References
-- AGJ MacFarlane. MacFarlane AGJ (1970) Dynamical system models. George G. Harrap & Co. Ltd., London (1970)
-- RE Kalman. Kalman RE (1963) Mathematical description of linear dynamical systems. SIAM J Control 1:152–192 (1963)
+- MacFarlane AGJ (1970) Dynamical system models. George G. Harrap & Co. Ltd., London
+- Kalman RE (1963) Mathematical description of linear dynamical systems. SIAM J Control 1:152–192
 - Mayer D (1970) The state variable method of electrical network analysis. ACTA TECHNICA CSAV 6:761–789
 - Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. I. Quarterly of Applied Mathematics vol. 22 1–33 (1964) -- [10.1090/qam/169746](https://doi.org/10.1090/qam/169746)
 - Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. II. Quarterly of Applied Mathematics vol. 22 81–104 (1964) -- [10.1090/qam/169747](https://doi.org/10.1090/qam/169747)
@@ -71,9 +71,9 @@ State-space energy; Dissipation power; Decomposition of system representation; A
 - Jeltsema, D. & Scherpen, J. M. A. A power-based description of standard mechanical systems. Systems &amp; Control Letters vol. 56 349–356 (2007) -- [10.1016/j.sysconle.2006.10.015](https://doi.org/10.1016/j.sysconle.2006.10.015)
 - Tabuada, P. & Pappas, G. J. Abstractions of Hamiltonian control systems. Automatica vol. 39 2025–2033 (2003) -- [10.1016/s0005-1098(03)00235-8](https://doi.org/10.1016/s0005-1098(03)00235-8)
 - Jeltsema, D., Ortega, R. & Scherpen, J. M. A. On passivity and power-balance inequalities of nonlinear rlc circuits. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 50 1174–1179 (2003) -- [10.1109/tcsi.2003.816332](https://doi.org/10.1109/tcsi.2003.816332)
-- J Hrusak. Hrusak J, Stork M, Mayer D (2005) Dissipation normal form, conservativity, instability and chaotic behavior of continuous-time strictly causal systems. WSEAS Trans Syst 4(7):915–920 (2005)
-- M Stork. Stork M, Hrusak J, Mayer D (2005) Continuous and digital nonlinear systems, chaos and strange behavior detection, simulations and experiments. WSEAS Trans Circ Syst 4(4):395–405 (2005)
-- J Hrusak. Hrusak J, Stork M, Mayer D (2008) Dissipation normal forms and further applications of Lyapunov–Tellegen’s principle, 12th WSEAS International Conference on Systems. WSEAS Press, Heraclion (2008)
+- Hrusak J, Stork M, Mayer D (2005) Dissipation normal form, conservativity, instability and chaotic behavior of continuous-time strictly causal systems. WSEAS Trans Syst 4(7):915–920
+- Stork M, Hrusak J, Mayer D (2005) Continuous and digital nonlinear systems, chaos and strange behavior detection, simulations and experiments. WSEAS Trans Circ Syst 4(4):395–405
+- Hrusak J, Stork M, Mayer D (2008) Dissipation normal forms and further applications of Lyapunov–Tellegen’s principle, 12th WSEAS International Conference on Systems. WSEAS Press, Heraclion
 - Stork M, Hrusak J, Mayer D (2010) Nonlinearly Coupled Oscillators and State Space Energy Approach. In: 14th WSEAS International Conference on SYSTEMS (Part of the 14th WSEAS CSCC Multiconference), Corfu Island, Greece
 - Hoover, W. G. Remark on ‘“Some simple chaotic flows”’. Physical Review E vol. 51 759–760 (1995) -- [10.1103/physreve.51.759](https://doi.org/10.1103/physreve.51.759)
 - Posch, H. A., Hoover, W. G. & Vesely, F. J. Canonical dynamics of the Nosé oscillator: Stability, order, and chaos. Physical Review A vol. 33 4253–4265 (1986) -- [10.1103/physreva.33.4253](https://doi.org/10.1103/physreva.33.4253)

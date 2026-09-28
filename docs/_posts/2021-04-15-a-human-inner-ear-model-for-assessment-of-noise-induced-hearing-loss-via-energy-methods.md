@@ -78,6 +78,7 @@ Port Hamiltonian; Euler Bernoulli; Noise; frequency; Cochlear
 - [Trenchant, V., Fares, Y., Ramirez, H. & Le Gorrec, Y. A port-Hamiltonian formulation of a 2D boundary controlled acoustic system. IFAC-PapersOnLine vol. 48 235–240 (2015)](a-port-hamiltonian-formulation-of-a-2d-boundary-controlled-acoustic-system) -- [10.1016/j.ifacol.2015.10.245](https://doi.org/10.1016/j.ifacol.2015.10.245)
 - van der Schaft, Port-Hamiltonian systems: an introductory survey (2006)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- Villegas, J.A. (2007). A Port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, Department of Applied Mathematics, Faculty EWI, Univer-siteit Twente, Enschede, Twente, Enschede, Netherlands.
 - Yoon, Y., Puria, S. & Steele, C. A cochlear model using the time-averaged Lagrangian and the push-pull mechanism in the organ of Corti. Journal of Mechanics of Materials and Structures vol. 4 977–986 (2009) -- [10.2140/jomms.2009.4.977](https://doi.org/10.2140/jomms.2009.4.977)
 - Zhang, X. & Gan, R. Z. Finite element modeling of energy absorbance in normal and disordered human ears. Hearing Research vol. 301 146–155 (2013) -- [10.1016/j.heares.2012.12.005](https://doi.org/10.1016/j.heares.2012.12.005)
 

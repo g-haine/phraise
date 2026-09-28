@@ -49,9 +49,12 @@ battery state of charge, energy management, fault, hybrid system, passivity cont
 ## References
 - Michel, (2012)
 - Chen, Z., Xiong, R., Wang, K. & Jiao, B. Optimal Energy Management Strategy of a Plug-in  Hybrid Electric Vehicle Based on a Particle Swarm Optimization Algorithm. Energies 8, 3661–3678 (2015) -- [10.3390/en8053661](https://doi.org/10.3390/en8053661)
+- G. Vilchez, J. J. Jochem, and P. Fichtner, “The Impact of Electric Vehicles on the Global Oil and CO2 Emissions,” in 13th WCTR.
 - Higuita Cano, M., Agbossou, K., Kelouwani, S. & Dubé, Y. Experimental evaluation of a power management system for a hybrid renewable energy system with hydrogen production. Renewable Energy 113, 1086–1098 (2017) -- [10.1016/j.renene.2017.06.066](https://doi.org/10.1016/j.renene.2017.06.066)
+- G. Vilchez, J. J. Jochem, and P. Fichtner, “The Impact of Electric Vehicles on the Global Oil Demand and CO 2 Emissions.”
 - Chan, C. C. The State of the Art of Electric, Hybrid, and Fuel Cell Vehicles. Proc. IEEE 95, 704–718 (2007) -- [10.1109/jproc.2007.892489](https://doi.org/10.1109/jproc.2007.892489)
 - Sandoval Torres, Energy management control strategy to improve the FC/SC dynamic behavior on hybrid electric vehicles: a frequency based distribution. Renew. Energy J. (2016)
+- J. D'Andria, “Hybrid drive systems,” NEW Dev. ENERGY, Transp. Sustain., vol. VOLUME III..
 - Shaaban, M. F., Eajal, A. A. & El-Saadany, E. F. Coordinated charging of plug-in hybrid electric vehicles in smart hybrid AC/DC distribution systems. Renewable Energy 82, 92–99 (2015) -- [10.1016/j.renene.2014.08.012](https://doi.org/10.1016/j.renene.2014.08.012)
 - Bıyıkoğlu, A. RETRACTED: Review of proton exchange membrane fuel cell models. International Journal of Hydrogen Energy 30, 1181–1212 (2005) -- [10.1016/j.ijhydene.2005.05.010](https://doi.org/10.1016/j.ijhydene.2005.05.010)
 - Gidwani, Supercapacitors: the near future of batteries. Int. J. Eng. Invent. (2014)

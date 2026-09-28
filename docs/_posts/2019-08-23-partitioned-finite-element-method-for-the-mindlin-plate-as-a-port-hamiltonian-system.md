@@ -53,8 +53,10 @@ Port-Hamiltonian systems (pHs); Geometric Discretization; Mindlin-Reissner Plate
 [Download the bib file]({{ site.baseurl }}/assets/bib/partitioned-finite-element-method-for-the-mindlin-plate-as-a-port-hamiltonian-system.bib)
  
 ## References
+- B. Augner and B. Jacob. Stabilization of infinite-dimensional port-Hamiltonian systems via dissipative boundary feedback. PhD thesis, Ph. D. dissertation, Bergische Universität Wuppertal, 2016, 2016.
 - [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
 - [Brugnoli, A., Alazard, D., Pommier-Budinger, V. & Matignon, D. Port-Hamiltonian formulation and symplectic discretization of plate models Part I: Mindlin model for thick plates. Applied Mathematical Modelling vol. 75 940–960 (2019)](port-hamiltonian-formulation-and-symplectic-discretization-of-plate-models-part-i-mindlin-model-for-thick-plates) -- [10.1016/j.apm.2019.04.035](https://doi.org/10.1016/j.apm.2019.04.035)
+- F. L. Cardoso-Ribeiro, D. Matignon, and L. Lefèvre. A structure-preserving partitioned finite element method for the 2d wave equation. In 6th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control, pages 1–6, Valparaíso, CL, 2018.
 - Dawe, D. J. & Roufaeil, O. L. Rayleigh-Ritz vibration analysis of Mindlin plates. Journal of Sound and Vibration vol. 69 345–359 (1980) -- [10.1016/0022-460x(80)90477-0](https://doi.org/10.1016/0022-460x(80)90477-0)
 - Duindam, (2009)
 - Durán, R., Hervella-Nieto, L., Liberman, E., Hervella-Nieto, L. & Solomin, J. Approximation of the vibration modes of a plate by Reissner-Mindlin equations. Mathematics of Computation vol. 68 1447–1463 (1999) -- [10.1090/s0025-5718-99-01094-7](https://doi.org/10.1090/s0025-5718-99-01094-7)
@@ -65,9 +67,11 @@ Port-Hamiltonian systems (pHs); Geometric Discretization; Mindlin-Reissner Plate
 - [Kotyczka, P., Maschke, B. & Lefèvre, L. Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics vol. 361 442–476 (2018)](weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems) -- [10.1016/j.jcp.2018.02.006](https://doi.org/10.1016/j.jcp.2018.02.006)
 - Kurula, Linear wave systems on n-d spatial domains. International Journal of Control (2015)
 - Logg, (2012)
+- [Macchelli A, Melchiorri C, Bassi L (2006) Port-based Modelling and Control of the Mindlin Plate. In: Proceedings of the 44th IEEE Conference on Decision and Control. IEEE, pp 5989–5994](port-based-modelling-and-control-of-the-mindlin-plate) -- [10.1109/cdc.2005.1583120](https://doi.org/10.1109/cdc.2005.1583120)
 - Mindlin, R. D. Influence of Rotatory Inertia and Shear on Flexural Motions of Isotropic, Elastic Plates. Journal of Applied Mechanics vol. 18 31–38 (1951) -- [10.1115/1.4010217](https://doi.org/10.1115/1.4010217)
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
 - [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics vol. 62 1509–1531 (2012)](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
 - [Trenchant, V., Ramirez, H., Le Gorrec, Y. & Kotyczka, P. Finite differences on staggered grids preserving the port-Hamiltonian structure with application to an acoustic duct. Journal of Computational Physics vol. 373 673–697 (2018)](finite-differences-on-staggered-grids-preserving-the-port-hamiltonian-structure-with-application-to-an-acoustic-duct) -- [10.1016/j.jcp.2018.06.051](https://doi.org/10.1016/j.jcp.2018.06.051)
 - van der Schaft, Port-Hamiltonian differential-algebraic systems. (2013)
+- J.A. Villegas. A Port-Hamiltonian Approach to Distributed Parameter Systems. PhD thesis, University of Twente, May 2007.
 

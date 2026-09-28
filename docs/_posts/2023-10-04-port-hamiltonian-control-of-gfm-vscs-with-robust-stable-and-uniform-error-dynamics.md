@@ -67,6 +67,6 @@ In this paper, a grid-forming (GFM) control is developed based on the nonlinear 
 - Zhong, Q.-C. & Zeng, Y. Universal Droop Control of Inverters With Different Types of Output Impedance. IEEE Access vol. 4 702–712 (2016) -- [10.1109/access.2016.2526616](https://doi.org/10.1109/access.2016.2526616)
 - Zhong, Q.-C. & Konstantopoulos, G. C. Current-Limiting Droop Control of Grid-Connected Inverters. IEEE Transactions on Industrial Electronics vol. 64 5963–5973 (2017) -- [10.1109/tie.2016.2622402](https://doi.org/10.1109/tie.2016.2622402)
 - Zhong, Q. Power Electronics‐Enabled Autonomous Power Systems. (2020) doi:10.1002/9781118803516 -- [10.1002/9781118803516](https://doi.org/10.1002/9781118803516)
-- Khalil. Nonlinear Systems (2002)
+- Khalil, Nonlinear Systems (2002)
 - Swaroop, D., Hedrick, J. K., Yip, P. P. & Gerdes, J. C. Dynamic surface control for a class of nonlinear systems. IEEE Transactions on Automatic Control vol. 45 1893–1899 (2000) -- [10.1109/tac.2000.880994](https://doi.org/10.1109/tac.2000.880994)
 

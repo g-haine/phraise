@@ -61,6 +61,7 @@ Nonlinear networks; Brayton–Moser equations; Hamiltonian systems; Power conver
 - Kwatny, H., Massimo, F. & Bahar, L. The generalized Lagrange formulation for nonlinear RLC networks. IEEE Transactions on Circuits and Systems vol. 29 220–233 (1982) -- [10.1109/tcs.1982.1085140](https://doi.org/10.1109/tcs.1982.1085140)
 - MACFARLANE, A. G. J. An integral invariant formulation of a canonical equation set for non-linear electrical networks. International Journal of Control vol. 11 449–470 (1970) -- [10.1080/00207177008905926](https://doi.org/10.1080/00207177008905926)
 - Massimo, F. M., Kwatny, H. G. & Bahar, L. Y. Derivation of the Brayton–Moser equations from a topological mixed potential function. Journal of the Franklin Institute vol. 310 259–269 (1980) -- [10.1016/0016-0032(80)90045-9](https://doi.org/10.1016/0016-0032(80)90045-9)
+- Ortega, R., Jeltsema, D., & Scherpen, J. M. A. (2002). Stabilization of nonlinear RLC circuits via power-shaping. Proceedings of the Latin American conference on automatic control, Guadalajara, México, December 2002.
 - Ortega, (1998)
 - van der Schaft, (2000)
 - van der Schaft, A. J., Dalsmo, M. & Maschke, B. M. Mathematical structures in the network representation of energy-conserving physical systems. Proceedings of 35th IEEE Conference on Decision and Control vol. 1 201–206 -- [10.1109/cdc.1996.574296](https://doi.org/10.1109/cdc.1996.574296)

@@ -61,8 +61,8 @@ Internal Model; Global Asymptotical Stability; Control System Technology; Exogen
 - Ortega R (2003) Some applications and recent results on passivity based control. 2nd IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control, Seville, Spain
 - Issues of Fault Diagnosis for Dynamic Systems. (Springer London, 2000). doi:10.1007/978-1-4471-3644-6 -- [10.1007/978-1-4471-3644-6](https://doi.org/10.1007/978-1-4471-3644-6)
 - Serrani, A., Isidori, A. & Marconi, L. Semi-global nonlinear output regulation with adaptive internal model. IEEE Transactions on Automatic Control vol. 46 1178–1194 (2001) -- [10.1109/9.940923](https://doi.org/10.1109/9.940923)
-- A. Schaft van der. van der Schaft A (1999) L 2-gain and Passivity Techniques in Nonlinear Control. Springer-Verlag, London (1999)
-- C. Bonivento. Bonivento C, Gentili L, Paoli A (2005) Fault tolerant tracking of a robot manipulator: an internal model based approach. Current Trends in Nolinear Systems and Control, Birkhäuser, Boston: 271–287 (2005)
+- van der Schaft A (1999) L 2-gain and Passivity Techniques in Nonlinear Control. Springer-Verlag, London
+- Bonivento C, Gentili L, Paoli A (2005) Fault tolerant tracking of a robot manipulator: an internal model based approach. Current Trends in Nolinear Systems and Control, Birkhäuser, Boston: 271–287
 - Bonivento, C., Gentili, L. & Marconi, L. Balanced robust regulation of a magnetic levitation system. IEEE Transactions on Control Systems Technology vol. 13 1036–1044 (2005) -- [10.1109/tcst.2005.852107](https://doi.org/10.1109/tcst.2005.852107)
 - Alleyne, A. & Pomykalski, M. Control of a class of nonlinear systems subject to periodic exogenous signals. IEEE Transactions on Control Systems Technology vol. 8 279–287 (2000) -- [10.1109/87.826799](https://doi.org/10.1109/87.826799)
 - Charara, A., De Miras, J. & Caron, B. Nonlinear control of a magnetic levitation system without premagnetization. IEEE Transactions on Control Systems Technology vol. 4 513–523 (1996) -- [10.1109/87.531918](https://doi.org/10.1109/87.531918)

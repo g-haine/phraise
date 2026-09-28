@@ -78,6 +78,7 @@ Hamiltonian structures for 2- or 3-dimensional incompressible flows with a free 
 - BENJAMIN, T. B. Impulse, Flow Force and Variational Principles. IMA J Appl Math 32, 3–68 (1984) -- [10.1093/imamat/32.1-3.3](https://doi.org/10.1093/imamat/32.1-3.3)
 - Miles, J. W. Nonlinear surface waves in closed basins. J. Fluid Mech. 75, 419 (1976) -- [10.1017/s002211207600030x](https://doi.org/10.1017/s002211207600030x)
 - Holmes, P. & Marsden, J. A partial differential equation with infinitely many periodic orbits: Chaotic oscillations of a forced beam. Arch. Rational Mech. Anal. 76, 135–165 (1981) -- [10.1007/bf00251249](https://doi.org/10.1007/bf00251249)
+- P. Holmes, Chaos in the forced oscillations of a free surface, J. Fluid. Mech. (to appear).
 - Cantor, Some problems of global analysis on asymptotically simple manifolds. Comp. Math. (1979)
 - Marsden, (1983)
 

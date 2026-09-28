@@ -59,6 +59,8 @@ Port Hamiltonian systems on Lagrange subspaces; Phase Field; Diffuse interface; 
 - [Diagne, M. & Maschke, B. Port Hamiltonian formulation of a system of two conservation laws with a moving interface. European Journal of Control vol. 19 495–504 (2013)](port-hamiltonian-formulation-of-a-system-of-two-conservation-laws-with-a-moving-interface) -- [10.1016/j.ejcon.2013.09.001](https://doi.org/10.1016/j.ejcon.2013.09.001)
 - Duindam, (2009)
 - Favache, A., Dochain, D. & Maschke, B. An entropy-based formulation of irreversible processes based on contact structures. Chemical Engineering Science vol. 65 5204–5216 (2010) -- [10.1016/j.ces.2010.06.019](https://doi.org/10.1016/j.ces.2010.06.019)
+- IAPWS (2009 a). Revised Release on the Equation of State 2006 for H2O Ice Ih. The International Association for the Properties of Water and Steam.
+- IAPWS (2009 b). Supplementary Release on a Computationally Efficient Thermodynamic Formulation for Liquid Water for Oceanographic Use. The International Association for the Properties of Water and Steam.
 - Kobayashi, R. Modeling and numerical simulations of dendritic crystal growth. Physica D: Nonlinear Phenomena vol. 63 410–423 (1993) -- [10.1016/0167-2789(93)90120-p](https://doi.org/10.1016/0167-2789(93)90120-p)
 - Kurula, (2012)
 - [Maschke, B. & Schaft, A. van der. Linear Boundary Port Hamiltonian Systems defined on Lagrangian submanifolds. IFAC-PapersOnLine vol. 53 7734–7739 (2020)](linear-boundary-port-hamiltonian-systems-defined-on-lagrangian-submanifolds) -- [10.1016/j.ifacol.2020.12.1526](https://doi.org/10.1016/j.ifacol.2020.12.1526)

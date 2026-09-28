@@ -58,6 +58,7 @@ DC microgrid; Meshed topology; Port-Hamiltonian systems; Differential flatness; 
 - Bouzid, A. E. M. et al. A novel Decoupled Trigonometric Saturated droop controller for power sharing in islanded low-voltage microgrids. Electric Power Systems Research vol. 168 146–161 (2019) -- [10.1016/j.epsr.2018.11.016](https://doi.org/10.1016/j.epsr.2018.11.016)
 - CIAT entreprise, U. T. C, (2014)
 - Cortes, C. A., Contreras, S. F. & Shahidehpour, M. Microgrid Topology Planning for Enhancing the Reliability of Active Distribution Networks. IEEE Transactions on Smart Grid vol. 9 6369–6377 (2018) -- [10.1109/tsg.2017.2709699](https://doi.org/10.1109/tsg.2017.2709699)
+- Crocker, T.R., July 2005. Power converter and method for power conversion. US Patent 6,914,420.
 - Department of Energy Office of Energy Efficiency & Renewable Energy, (2017)
 - Drgoňa, J., Picard, D., Kvasnica, M. & Helsen, L. Approximate model predictive building control via machine learning. Applied Energy vol. 218 199–216 (2018) -- [10.1016/j.apenergy.2018.02.156](https://doi.org/10.1016/j.apenergy.2018.02.156)
 - Duindam, (2009)

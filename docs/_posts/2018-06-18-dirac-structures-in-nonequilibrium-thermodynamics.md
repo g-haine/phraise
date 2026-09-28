@@ -61,6 +61,7 @@ Nonequilibrium thermodynamics; Dirac structures; nonlinear nonholonomic constrai
 - Dorfman, Dirac Structures and Integrability of Nonlinear Evolution Equations. (1993)
 - [Gay-Balmaz, F. & Yoshimura, H. A Lagrangian variational formulation for nonequilibrium thermodynamics. Part I: Discrete systems. Journal of Geometry and Physics vol. 111 169–193 (2017)](a-lagrangian-variational-formulation-for-nonequilibrium-thermodynamics-part-i-discrete-systems) -- [10.1016/j.geomphys.2016.08.018](https://doi.org/10.1016/j.geomphys.2016.08.018)
 - [Gay-Balmaz, F. & Yoshimura, H. A Lagrangian variational formulation for nonequilibrium thermodynamics. Part II: Continuum systems. Journal of Geometry and Physics vol. 111 194–212 (2017)](a-lagrangian-variational-formulation-for-nonequilibrium-thermodynamics-part-ii-continuum-systems) -- [10.1016/j.geomphys.2016.08.019](https://doi.org/10.1016/j.geomphys.2016.08.019)
+- F. Gay-Balmaz and H. Yoshimura. (2017c). A free energy Lagrangian variational formulation of the Navier-Stokes-Fourier system. To appear in Int. J. Geom. Methods Mod. Phys.
 - Gay-Balmaz, F. & Yoshimura, H. Dirac structures in nonequilibrium thermodynamics. Journal of Mathematical Physics vol. 59 (2018) -- [10.1063/1.5017223](https://doi.org/10.1063/1.5017223)
 - Gibbs, Graphical methods in the thermodynamics of fluids. Trans. Connecticus Acad (1873)
 - Gibbs, A method of geometrical representation of the thermodynamic properties of substances by means of surfaces. Trans. Connecticus Acad (1873)

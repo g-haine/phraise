@@ -64,8 +64,10 @@ Disturbance rejection; formation control; nonholonomic systems; port-Hamiltonian
 - Gentili, Regulation and input disturbance suppression for port-controlled Hamiltonian systems. (2003)
 - Isidori, (2003)
 - Jafarian, M. & De Persis, C. Formation control using binary information. Automatica vol. 53 125–135 (2015) -- [10.1016/j.automatica.2014.12.016](https://doi.org/10.1016/j.automatica.2014.12.016)
+- Jafarian, M., Vos, E., De Persis, C., Scherpen, J., van der Schaft, A. Disturbance rejection in formation keeping control of nonholonomic wheeled robots. Submitted
 - Mondada, The e-puck, a robot designed for education in engineering. (2009)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Pigg, S., 2011. Adaptive algorithms for the rejection of sinusoidal disturbances acting on unkown plants., Ph.D. thesis, University of Utah
 - Ren, (2007)
 - Sadowska, Distributed formation control of unicycle robots. (2012)
 - Samson, C. Time-varying Feedback Stabilization of Car-like Wheeled Mobile Robots. The International Journal of Robotics Research vol. 12 55–64 (1993) -- [10.1177/027836499301200104](https://doi.org/10.1177/027836499301200104)

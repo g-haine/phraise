@@ -59,6 +59,7 @@ Hydro-turbine governing systems; Interconnection and damping assignment passivit
 - Working Group Prime Mover and Energy Supply. Hydraulic turbine and turbine control models for system dynamic studies. IEEE Transactions on Power Systems vol. 7 167–179 (1992) -- [10.1109/59.141700](https://doi.org/10.1109/59.141700)
 - Jiang, J. Design of an optimal robust governor for hydraulic turbine generating units. IEEE Transactions on Energy Conversion vol. 10 188–194 (1995) -- [10.1109/60.372586](https://doi.org/10.1109/60.372586)
 - Babunski, Modelling and design of hydraulic turbine-governor system. (2003)
+- IEEE recommended practice for excitation system models for power system stability studies – redline, IEEE Std 421.5–2016 (Revision of IEEE Std 421.5–2005) – Redline (2016) 1–453.
 - Chen, D., Ding, C., Ma, X., Yuan, P. & Ba, D. Nonlinear dynamical analysis of hydro-turbine governing system with a surge tank. Applied Mathematical Modelling vol. 37 7611–7623 (2013) -- [10.1016/j.apm.2013.01.047](https://doi.org/10.1016/j.apm.2013.01.047)
 - Guan, C. & Pan, S. Adaptive sliding mode control of electro-hydraulic system with nonlinear unknown parameters. Control Engineering Practice vol. 16 1275–1284 (2008) -- [10.1016/j.conengprac.2008.02.002](https://doi.org/10.1016/j.conengprac.2008.02.002)
 - Cerman, O. & Hušek, P. Adaptive fuzzy sliding mode control for electro-hydraulic servo mechanism. Expert Systems with Applications vol. 39 10269–10277 (2012) -- [10.1016/j.eswa.2012.02.172](https://doi.org/10.1016/j.eswa.2012.02.172)

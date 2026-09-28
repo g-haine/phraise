@@ -50,6 +50,7 @@ adaptive \\( L^2 \\)-disturbance attenuation, dissipative pch system, energy-bas
 ## References
 - Banerjee, S., Chatterjee, J. K. & Tripathy, S. C. Application of magnetic energy storage unit as load-frequency stabilizer. IEEE Trans. On energy Conversion 5, 46–51 (1990) -- [10.1109/60.50811](https://doi.org/10.1109/60.50811)
 - Buckles, W. & Hassenzahl, W. V. Superconducting magnetic energy storage. IEEE Power Eng. Rev. 20, 16–20 (2000) -- [10.1109/39.841345](https://doi.org/10.1109/39.841345)
+- Cheng, D., Xi, Z., Hong, Y., & Qin, H. (1999). Energy-based stabilization in power systems. Proceedings of the 14th IFAC world congress, Beijing, China (Vol. O, pp. 297–303).
 - Xu Chu, Xiaohua Jiang, Yongchuan Lai, Xuezhi Wu & Wei Liu. SMES control algorithms for improving customer power quality. IEEE Trans. Appl. Supercond. 11, 1769–1772 (2001) -- [10.1109/77.920127](https://doi.org/10.1109/77.920127)
 - [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
@@ -58,7 +59,10 @@ adaptive \\( L^2 \\)-disturbance attenuation, dissipative pch system, energy-bas
 - Galaz, M., Ortega, R., Bazanella, A. S. & Stankovic, A. M. An energy-shaping approach to the design of excitation control of synchronous generators. Automatica 39, 111–119 (2003) -- [10.1016/s0005-1098(02)00177-2](https://doi.org/10.1016/s0005-1098(02)00177-2)
 - Irie, F. et al. A field experiment on power line stabilization by a SMES system. IEEE Trans. Magn. 28, 426–429 (1992) -- [10.1109/20.119902](https://doi.org/10.1109/20.119902)
 - Xiaohua Jiang et al. SMES system for study on utility and customer power applications. IEEE Trans. Appl. Supercond. 11, 1765–1768 (2001) -- [10.1109/77.920126](https://doi.org/10.1109/77.920126)
+- Juengst, K. P. (1998). SMES progress. Proceedings of 15th international conference on magnet tech (MT-15) (pp. 18–23). Science Press.
 - Khalil, (1996)
+- Liu, Q. (2002). Energy-based control method and its FACTS applications. Ph.D Dissertation of Tsinghua University, Beijing.
+- Lu, Q., Sun, Y. (1993). Nonlinear Control of Power Systems, Beijing: Science Press.
 - Lu, Q., Sun, Y., Xu, Z. & Mochizuki, T. Decentralized nonlinear optimal excitation control. IEEE Trans. Power Syst. 11, 1957–1962 (1996) -- [10.1109/59.544670](https://doi.org/10.1109/59.544670)
 - Luongo, C. A. Superconducting storage systems: an overview. IEEE Trans. Magn. 32, 2214–2223 (1996) -- [10.1109/20.508607](https://doi.org/10.1109/20.508607)
 - Hojo, M., Mitani, Y. & Tsuji, K. Linearization of generator power swing property by controlling power output of SMES for enhancement of power system stability. IEEE Trans. Appl. Supercond. 9, 338–341 (1999) -- [10.1109/77.783304](https://doi.org/10.1109/77.783304)
@@ -69,11 +73,14 @@ adaptive \\( L^2 \\)-disturbance attenuation, dissipative pch system, energy-bas
 - [Transient stabilization of multimachine power systems with nontrivial transfer conductances. IEEE Trans. Automat. Contr. 50, 60–75 (2005)](transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances) -- [10.1109/tac.2004.840477](https://doi.org/10.1109/tac.2004.840477)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Euler-Lagrange systems. Communications and Control Engineering 15–37 (1998) doi:10.1007/978-1-4471-3603-3_2 -- [10.1007/978-1-4471-3603-3_2](https://doi.org/10.1007/978-1-4471-3603-3_2)
+- Shen, T., Ortega, R., & Lu, Q. et al. (2000). Adaptive L2 disturbance attenuation of Hamiltonian systems with parameter perturbations and application to power systems. Proceedings of the 39th IEEE Conference on Decision and Control (Vol. 5, pp. 4939–4944).
 - Simo, J. B. & Kamwa, I. Exploratory assessment of the dynamic behavior of multimachine system stabilized by a SMES unit. IEEE Trans. Power Syst. 10, 1566–1571 (1995) -- [10.1109/59.466487](https://doi.org/10.1109/59.466487)
+- Sun, Y., Shen, T., & Ortega, R. et al. (2001). Decentralized controller design for multi-machine power systems on Hamiltonian structure. Proceedings of the 40th IEEE conference on decision and control (Vol. 4, pp. 3045–3050), Orlando.
 - van der Schaft, (1999)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archive für Elektronik und Übertragungstechnik (1995)
 - Yuzhen Wang, Daizhan Cheng, Chunwen Li & You Ge. Dissipative hamiltonian realization and energy-based L/sub 2/-disturbance attenuation control of multimachine power systems. IEEE Trans. Automat. Contr. 48, 1428–1433 (2003) -- [10.1109/tac.2003.815037](https://doi.org/10.1109/tac.2003.815037)
 - Wang, Y., Li, C. & Cheng, D. Generalized Hamiltonian realization of time-invariant nonlinear systems. Automatica 39, 1437–1443 (2003) -- [10.1016/s0005-1098(03)00132-8](https://doi.org/10.1016/s0005-1098(03)00132-8)
 - Wu, C.-J. & Lee, Y.-S. Application of simultaneous active and reactive power modulation of superconducting magnetic energy storage unit to damp turbine-generator subsynchronous oscillations. IEEE Trans. On energy Conversion 8, 63–70 (1993) -- [10.1109/60.207407](https://doi.org/10.1109/60.207407)
+- Xi, Z., & Guan, T. (2001). H∞ control of power systems with the SMES unit. Proceedings of the 20th Chinese control conference (pp. 751–756). Dalian, China.
 - Xi, Z., Cheng, D., Lu, Q. & Mei, S. Nonlinear decentralized controller design for multimachine power systems using Hamiltonian function method. Automatica 38, 527–534 (2002) -- [10.1016/s0005-1098(01)00233-3](https://doi.org/10.1016/s0005-1098(01)00233-3)
 

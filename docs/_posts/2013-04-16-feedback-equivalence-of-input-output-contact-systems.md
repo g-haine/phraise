@@ -69,11 +69,14 @@ Nonlinear control; Input–output contact systems; Contact geometry; Irreversibl
 - Libermann, (1987)
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. On the Hamiltonian formulation of the CSTR. 49th IEEE Conference on Decision and Control (CDC) 3301–3306 (2010) doi:10.1109/cdc.2010.5717317](on-the-hamiltonian-formulation-of-the-cstr) -- [10.1109/cdc.2010.5717317](https://doi.org/10.1109/cdc.2010.5717317)
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR. Chemical Engineering Science vol. 89 223–234 (2013)](irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr) -- [10.1016/j.ces.2012.12.002](https://doi.org/10.1016/j.ces.2012.12.002)
+- D. Eberard, Extensions des systèmes Hamiltoniens à ports aux systèmes irréversibles: une approche par la géométrie de contact, Ph.D. Thesis, Université Claude Bernard, Lyon 1, 2006.
 - van der Schaft, (1984)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Abbott, (1966)
 - Evans, (1998)
 - Myint-U, (2007)
+- H. Ramírez, B. Maschke, D. Sbarbaro, On feedback invariants of controlled conservative contact systems, in: Proceedings the 9th IEEE International Conference on Control & Automation, IEEE ICCA11, Santiago, Chile.
+- H. Ramírez, B. Maschke, D. Sbarbaro, About structure preserving feedback of controlled contact systems, in: Proceedings of the 50th IEEE Conference on Decision and Control and European Control Conference, CDC-ECC, Orlando, USA.
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems &amp; Control Letters vol. 44 309–319 (2001)](stabilization-of-hamiltonian-systems-with-nonholonomic-constraints-based-on-time-varying-generalized-canonical-transformations) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
 

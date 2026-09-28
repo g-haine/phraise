@@ -71,7 +71,7 @@ Port-Hamiltonian system; Differential-algebraic equation; Descriptor system; Dis
 - Berger, T., Reis, T. & Trenn, S. Observability of Linear Differential-Algebraic Systems: A Survey. Differential-Algebraic Equations Forum 161–219 (2017) doi:10.1007/978-3-319-46618-7_4 -- [10.1007/978-3-319-46618-7_4](https://doi.org/10.1007/978-3-319-46618-7_4)
 - Bradde, T., Grivet-Talocia, S., Zanco, A. & Calafiore, G. C. Data-Driven Extraction of Uniformly Stable and Passive Parameterized Macromodels. IEEE Access vol. 10 15786–15804 (2022) -- [10.1109/access.2022.3147034](https://doi.org/10.1109/access.2022.3147034)
 - Brogliato, B., Lozano, R., Maschke, B. & Egeland, O. Dissipative Systems Analysis and Control. Communications and Control Engineering (Springer International Publishing, 2020). doi:10.1007/978-3-030-19420-8 -- [10.1007/978-3-030-19420-8](https://doi.org/10.1007/978-3-030-19420-8)
-- T Brüll. Brüll T (2009) Explicit solutions of regular linear discrete-time descriptor systems with constant coefficients. ELA Electron J Linear Algebra (electronic only) 18:317–338 (2009)
+- Brüll T (2009) Explicit solutions of regular linear discrete-time descriptor systems with constant coefficients. ELA Electron J Linear Algebra (electronic only) 18:317–338
 - Bunse-Gerstner, A., Byers, R., Mehrmann, V. & Nichols, N. K. Feedback design for regularizing descriptor systems. Linear Algebra and its Applications vol. 299 119–151 (1999) -- [10.1016/s0024-3795(99)00167-6](https://doi.org/10.1016/s0024-3795(99)00167-6)
 - Camlibel, M. K. & Frasca, R. Extension of Kalman–Yakubovich–Popov lemma to descriptor systems. Systems &amp; Control Letters vol. 58 795–803 (2009) -- [10.1016/j.sysconle.2009.08.010](https://doi.org/10.1016/j.sysconle.2009.08.010)
 - Campbell, S. L. Nonregular Singular Dynamic Leontief Systems. Econometrica vol. 47 1565 (1979) -- [10.2307/1914020](https://doi.org/10.2307/1914020)
@@ -81,15 +81,15 @@ Port-Hamiltonian system; Differential-algebraic equation; Descriptor system; Dis
 - Singular Control Systems. Lecture Notes in Control and Information Sciences (Springer-Verlag, 1989). doi:10.1007/bfb0002475 -- [10.1007/bfb0002475](https://doi.org/10.1007/bfb0002475)
 - Du, N. H., Linh, V. H. & Mehrmann, V. Robust Stability of Differential-Algebraic Equations. Surveys in Differential-Algebraic Equations I 63–95 (2013) doi:10.1007/978-3-642-34928-7_2 -- [10.1007/978-3-642-34928-7_2](https://doi.org/10.1007/978-3-642-34928-7_2)
 - [Falaize, A. & Hélie, T. Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach. Applied Sciences vol. 6 273 (2016)](passive-guaranteed-simulation-of-analog-audio-circuits-a-port-hamiltonian-approach) -- [10.3390/app6100273](https://doi.org/10.3390/app6100273)
-- GF Franklin. Franklin GF, Powell JD, Workman ML (1998) Digital control of dynamic systems. Addison-Wesley, Reading (1998)
+- Franklin GF, Powell JD, Workman ML (1998) Digital control of dynamic systems. Addison-Wesley, Reading
 - Freund, R. W. & Jarre, F. An extension of the positive real lemma to descriptor systems. Optimization Methods and Software vol. 19 69–87 (2004) -- [10.1080/10556780410001654232](https://doi.org/10.1080/10556780410001654232)
-- FR Gantmacher. Gantmacher FR (1959) The theory of matrices, vol 2. Chelsea, New York (1959)
+- Gantmacher FR (1959) The theory of matrices, vol 2. Chelsea, New York
 - [Gernandt, H. & Haller, F. E. On the stability of port-Hamiltonian descriptor systems. IFAC-PapersOnLine vol. 54 137–142 (2021)](on-the-stability-of-port-hamiltonian-descriptor-systems) -- [10.1016/j.ifacol.2021.11.068](https://doi.org/10.1016/j.ifacol.2021.11.068)
-- GH Golub. Golub GH, Van Loan CF (1996) Matrix computations, 3rd edn. Johns Hopkins Studies in the Mathematical Sciences. Johns Hopkins University Press, Baltimore (1996)
-- GC Goodwin. Goodwin GC, Sin KS (1984) Adaptive filtering prediction and control. Information and systems sciences series. Prentice-Hall, Upper Saddle River (1984)
+- Golub GH, Van Loan CF (1996) Matrix computations, 3rd edn. Johns Hopkins Studies in the Mathematical Sciences. Johns Hopkins University Press, Baltimore
+- Goodwin GC, Sin KS (1984) Adaptive filtering prediction and control. Information and systems sciences series. Prentice-Hall, Upper Saddle River
 - Grivet‐Talocia, S. & Gustavsen, B. Passive Macromodeling. (2015) doi:10.1002/9781119140931 -- [10.1002/9781119140931](https://doi.org/10.1002/9781119140931)
 - Haddad, W. M. & Chellaboina, V. Nonlinear Dynamical Systems and Control. (2011) doi:10.2307/j.ctvcm4hws -- [10.2307/j.ctvcm4hws](https://doi.org/10.2307/j.ctvcm4hws)
-- E Haier. Haier E, Lubich C, Wanner G (2006) Geometric Numerical integration: structure-preserving algorithms for ordinary differential equations. Springer, Berlin (2006)
+- Haier E, Lubich C, Wanner G (2006) Geometric Numerical integration: structure-preserving algorithms for ordinary differential equations. Springer, Berlin
 - Heij, C., Ran, A. C. M. & van Schagen, F. Introduction to Mathematical Systems Theory. (Springer International Publishing, 2021). doi:10.1007/978-3-030-59654-5 -- [10.1007/978-3-030-59654-5](https://doi.org/10.1007/978-3-030-59654-5)
 - Hitz, L. & Anderson, B. D. O. Discrete positive-real functions and their application to system stability. Proceedings of the Institution of Electrical Engineers vol. 116 153 (1969) -- [10.1049/piee.1969.0031](https://doi.org/10.1049/piee.1969.0031)
 - [Kotyczka, P. & Lefèvre, L. Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters vol. 133 104530 (2019)](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
@@ -100,7 +100,7 @@ Port-Hamiltonian system; Differential-algebraic equation; Descriptor system; Dis
 - Li Lee & Jian Liung Chen. Strictly positive real lemma for discrete-time descriptor systems. Proceedings of the 39th IEEE Conference on Decision and Control (Cat. No.00CH37187) vol. 4 3666–3667 -- [10.1109/cdc.2000.912277](https://doi.org/10.1109/cdc.2000.912277)
 - Livšic MS (1973) Operators, oscillations, waves. Open systems. Translations of mathematical monographs, vol. 34. American Mathematical Society, Providence
 - Luenberger, D. Dynamic equations in descriptor form. IEEE Transactions on Automatic Control vol. 22 312–321 (1977) -- [10.1109/tac.1977.1101502](https://doi.org/10.1109/tac.1977.1101502)
-- DG Luenberger. Luenberger DG, Arbel A (1977) Singular dynamic leontief systems. Econom J Econom Soc 45:991–995 (1977)
+- Luenberger DG, Arbel A (1977) Singular dynamic leontief systems. Econom J Econom Soc 45:991–995
 - [Macchelli, A. Trajectory Tracking for Discrete-Time Port-Hamiltonian Systems. IEEE Control Systems Letters vol. 6 3146–3151 (2022)](trajectory-tracking-for-discrete-time-port-hamiltonian-systems) -- [10.1109/lcsys.2022.3182845](https://doi.org/10.1109/lcsys.2022.3182845)
 - [Mehl, C., Mehrmann, V. & Wojtylak, M. Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems. SIAM Journal on Matrix Analysis and Applications vol. 39 1489–1519 (2018)](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18m1164275](https://doi.org/10.1137/18m1164275)
 - The Autonomous Linear Quadratic Control Problem. Lecture Notes in Control and Information Sciences (Springer-Verlag, 1991). doi:10.1007/bfb0039443 -- [10.1007/bfb0039443](https://doi.org/10.1007/bfb0039443)
@@ -108,10 +108,10 @@ Port-Hamiltonian system; Differential-algebraic equation; Descriptor system; Dis
 - [Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 - DOI not foun -- [10.1017/s096492922000083](https://doi.org/10.1017/s096492922000083)
 - [Mehrmann, V. & van der Schaft, A. Differential–algebraic systems with dissipative Hamiltonian structure. Mathematics of Control, Signals, and Systems vol. 35 541–584 (2023)](differential-algebraic-systems-with-dissipative-hamiltonian-structure) -- [10.1007/s00498-023-00349-2](https://doi.org/10.1007/s00498-023-00349-2)
-- P Mellodge. Mellodge P (2016) A practical approach to dynamical systems for engineers. Woodhead Publishing, Amsterdam (2016)
+- Mellodge P (2016) A practical approach to dynamical systems for engineers. Woodhead Publishing, Amsterdam
 - Mertzios, B. G. & Lewis, F. L. Fundamental matrix of discrete singular systems. Circuits, Systems, and Signal Processing vol. 8 341–355 (1989) -- [10.1007/bf01598419](https://doi.org/10.1007/bf01598419)
 - [Moreschini, A., Mattioni, M., Monaco, S. & Normand-Cyrot, D. Discrete port-controlled Hamiltonian dynamics and average passivation. 2019 IEEE 58th Conference on Decision and Control (CDC) 1430–1435 (2019) doi:10.1109/cdc40024.2019.9029809](discrete-port-controlled-hamiltonian-dynamics-and-average-passivation) -- [10.1109/cdc40024.2019.9029809](https://doi.org/10.1109/cdc40024.2019.9029809)
-- AV Oppenheim. Oppenheim AV, Willsky AS, Nawab H (1996) Signals and systems. Prentice-Hall, Upper Saddle River (1996)
+- Oppenheim AV, Willsky AS, Nawab H (1996) Signals and systems. Prentice-Hall, Upper Saddle River
 - Reis, T., Rendel, O. & Voigt, M. The Kalman–Yakubovich–Popov inequality for differential-algebraic systems. Linear Algebra and its Applications vol. 485 153–193 (2015) -- [10.1016/j.laa.2015.06.021](https://doi.org/10.1016/j.laa.2015.06.021)
 - Reis, T. & Stykel, T. Positive real and bounded real balancing for model reduction of descriptor systems. International Journal of Control vol. 83 74–88 (2009) -- [10.1080/00207170903100214](https://doi.org/10.1080/00207170903100214)
 - Sokolov VI (2006) Contributions to the minimal realization problem for descriptor systems. Ph.D. thesis, Technical University of Chemnitz
@@ -124,7 +124,7 @@ Port-Hamiltonian system; Differential-algebraic equation; Descriptor system; Dis
 - [van der Schaft, A. J. Port-Hamiltonian Differential-Algebraic Systems. Surveys in Differential-Algebraic Equations I 173–226 (2013) doi:10.1007/978-3-642-34928-7_5](port-hamiltonian-differential-algebraic-systems) -- [10.1007/978-3-642-34928-7_5](https://doi.org/10.1007/978-3-642-34928-7_5)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Willems, J. Least squares stationary optimal control and the algebraic Riccati equation. IEEE Transactions on Automatic Control vol. 16 621–634 (1971) -- [10.1109/tac.1971.1099831](https://doi.org/10.1109/tac.1971.1099831)
-- JC Willems. Willems JC (1972) Dissipative dynamical systems—part 2: linear systems with quadratic supply rates. Sov J Opt Technol (English translation of Optiko-Mekhanicheskaya Promyshlennost) 45(5):352–393 (1972)
-- C Xiao. Xiao C, Hill DJ (1999) Generalizations and new proof of the discrete-time positive real lemma and bounded real lemma. IEEE Trans Circ Syst I Fund Theory Appl 46(6):740–743 (1999)
+- Willems JC (1972) Dissipative dynamical systems—part 2: linear systems with quadratic supply rates. Sov J Opt Technol (English translation of Optiko-Mekhanicheskaya Promyshlennost) 45(5):352–393
+- Xiao C, Hill DJ (1999) Generalizations and new proof of the discrete-time positive real lemma and bounded real lemma. IEEE Trans Circ Syst I Fund Theory Appl 46(6):740–743
 - YALÇIN, Y., GÖREN SÜMER, L. & KURTULAN, S. Discrete-time modeling of Hamiltonian systems. TURKISH JOURNAL OF ELECTRICAL ENGINEERING &amp; COMPUTER SCIENCES vol. 23 149–170 (2015) -- [10.3906/elk-1212-23](https://doi.org/10.3906/elk-1212-23)
 

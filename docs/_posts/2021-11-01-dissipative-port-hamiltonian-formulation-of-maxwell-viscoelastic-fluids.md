@@ -62,6 +62,7 @@ Port-Hamiltonian systems; Non-Newtonian Fluids; Maxwell’s viscoelasticity
 - Hütter, M., Carrozza, M. A., Hulsen, M. A. & Anderson, P. D. Behavior of viscoelastic models with thermal fluctuations. The European Physical Journal E vol. 43 (2020) -- [10.1140/epje/i2020-11948-9](https://doi.org/10.1140/epje/i2020-11948-9)
 - John, (2016)
 - Joseph, (1990)
+- Kotyczka, P. (2013). Discretized models for networks of distributed parameter port-Hamiltonian systems. In Proceedings of the 8th International Workshop on Multidimensional Systems (nDS13), 63–67. VDE, Erlangen, Germany.
 - Landau, (1987)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - [Macchelli, A., Le Gorrec, Y. & Ramírez, H. Boundary Energy-Shaping Control of an Ideal Compressible Isentropic Fluid in 1-D. IFAC-PapersOnLine vol. 50 5598–5603 (2017)](boundary-energy-shaping-control-of-an-ideal-compressible-isentropic-fluid-in-1-d) -- [10.1016/j.ifacol.2017.08.1105](https://doi.org/10.1016/j.ifacol.2017.08.1105)
@@ -75,5 +76,6 @@ Port-Hamiltonian systems; Non-Newtonian Fluids; Maxwell’s viscoelasticity
 - [Trenchant, V., Ramirez, H., Le Gorrec, Y. & Kotyczka, P. Finite differences on staggered grids preserving the port-Hamiltonian structure with application to an acoustic duct. Journal of Computational Physics vol. 373 673–697 (2018)](finite-differences-on-staggered-grids-preserving-the-port-hamiltonian-structure-with-application-to-an-acoustic-duct) -- [10.1016/j.jcp.2018.06.051](https://doi.org/10.1016/j.jcp.2018.06.051)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - van der Schaft, (2014)
+- Villegas, J.A., Le Gorrec, Y., Zwart, H., and Maschke, B. (2006). Boundary control for a class of dissipative differential operators including diffusion systems. Proceedings of the 17th International Symposium on Mathematical Theory of Networks and Systems, 297–304.
 - Vu, Distributed and backstepping boundary controls to achieve IDA-PBC design. IFAC-PapersOnLine (2015)
 

@@ -50,6 +50,8 @@ distributed parameter systems, hamiltonian systems with input and dissipation
 - Isidori, A. Nonlinear Control Systems. Communications and Control Engineering (Springer London, 1995). doi:10.1007/978-1-84628-615-5 -- [10.1007/978-1-84628-615-5](https://doi.org/10.1007/978-1-84628-615-5)
 - Nowacki, J. P. Static and Dynamic Coupled Fields in Bodies with Piezoeffects or Polarization Gradient. Lecture Notes in Applied and Computational Mechanics (Springer Berlin Heidelberg, 2006). doi:10.1007/978-3-540-31670-1 -- [10.1007/978-3-540-31670-1](https://doi.org/10.1007/978-3-540-31670-1)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1986). doi:10.1007/978-1-4684-0274-2 -- [10.1007/978-1-4684-0274-2](https://doi.org/10.1007/978-1-4684-0274-2)
+- Schlacher K (2006) Mathematical modelling for nonlinear control-a hamiltonian approach, Proceedings of 5th
+                 Vienna Symposium on Mathematical Modelling
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42, 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - E. Zeidler, Applied Functional Analysis (1995)

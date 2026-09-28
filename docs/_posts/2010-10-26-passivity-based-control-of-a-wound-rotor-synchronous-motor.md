@@ -59,6 +59,7 @@ This study presents a new non-linear passivity-based controller for a wound-roto
 - [Batlle, C., Dòria-Cerezo, A. & Ortega, R. Power Flow Control of a Doubly-Fed Induction Machine Coupled to a Flywheel. European Journal of Control 11, 209–221 (2005)](power-flow-control-of-a-doubly-fed-induction-machine-coupled-to-a-flywheel) -- [10.3166/ejc.11.209-221](https://doi.org/10.3166/ejc.11.209-221)
 - Petrovic, V., Ortega, R. & Stankovi, A. M. Interconnection and damping assignment approach to control of PM synchronous motors. IEEE Trans. Contr. Syst. Technol. 9, 811–820 (2001) -- [10.1109/87.960344](https://doi.org/10.1109/87.960344)
 - Batlle, C., Dòria-Cerezo, A., Espinosa-Pérez, G. & Ortega, R. Simultaneous interconnection and damping assignment passivity-based control: the induction machine case study. International Journal of Control 82, 241–255 (2009) -- [10.1080/00207170802050817](https://doi.org/10.1080/00207170802050817)
+- Dòria-Cerezo, A.: ‘Modeling, simulation and control of a doubly-fed induction machine controlled by a back-to-back converter’, (Universitat Politècnica de Catalunya 2006),http://www.tdcat.cesca.es/TDX-1212106-110114/index.html
 - Ortega, (2001)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM J. Control Optim. 37, 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - van der Schaft, Proc. Second IFAC Symp. on Nonlinear Control Systems Design, (NOLCOS'92) (1992)
@@ -67,5 +68,6 @@ This study presents a new non-linear passivity-based controller for a wound-roto
 - Krause, P. C., Wasynczuk, O. & Sudhoff, S. D. Analysis of Electric Machinery and Drive Systems. (2002) doi:10.1109/9780470544167 -- [10.1109/9780470544167](https://doi.org/10.1109/9780470544167)
 - Chiasson, J. Modeling and High‐Performance Control of Electric Machines. (2005) doi:10.1002/0471722359 -- [10.1002/0471722359](https://doi.org/10.1002/0471722359)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Kugi, A.: ‘Non-linear control based on physical models’, (Springer 2001)
 - Batlle, Proc. IEEE Conf. on Decision and Control (2008)
 

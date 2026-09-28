@@ -61,6 +61,7 @@ Trajectory tracking control; port-Hamiltonian systems; sliding manifold; differe
 - Forni, (2014)
 - Fujimoto, Trajectory tracking control of port-controlled hamiltonian systems via generalized canonical transformations. Au-tomatica (2003)
 - Ghorbel, F. & Spong, M. W. Integral manifolds of singularly perturbed systems with application to rigid-link flexible-joint multibody systems. International Journal of Non-Linear Mechanics vol. 35 133–155 (2000) -- [10.1016/s0020-7462(98)00092-4](https://doi.org/10.1016/s0020-7462(98)00092-4)
+- Jayawardhana, B. (2006). Tracking and Disturbance Rejection of Passive Nonlinear Systems. Ph.D. thesis, Imperial College London.
 - Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Jayawardhana, B. & Weiss, G. Tracking and disturbance rejection for fully actuated mechanical systems. Automatica vol. 44 2863–2868 (2008) -- [10.1016/j.automatica.2008.03.030](https://doi.org/10.1016/j.automatica.2008.03.030)
 - Jouffroy, J. & Fossen, T. I. Tutorial on Incremental Stability Analysis using Contraction Theory. Modeling, Identification and Control: A Norwegian Research Bulletin vol. 31 93–106 (2010) -- [10.4173/mic.2010.3.2](https://doi.org/10.4173/mic.2010.3.2)

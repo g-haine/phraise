@@ -57,6 +57,8 @@ Hamiltonian systems; Mathematical modelling; Equilibrium thermodynamics; Contact
 - Arnold, V. I., Kozlov, V. V. & Neishtadt, A. I. Mathematical Aspects of Classical and Celestial Mechanics. Encyclopaedia of Mathematical Sciences (Springer Berlin Heidelberg, 2006). doi:10.1007/978-3-540-48926-9 -- [10.1007/978-3-540-48926-9](https://doi.org/10.1007/978-3-540-48926-9)
 - Baruh, (1999)
 - Bloch, (2003)
+- Bravetti, A., Cruz, H., and Tapias, D. (2016). Contact Hamiltonian mechanics. arXiv e-print. URL https://arxiv.org/abs/1604.08266.
+- Callen, H.B. (1985). Thermodynamics and an Introduction to Thermostatistics. Wiley, 2nd edition.
 - [Castaños, F. & Gromov, D. Passivity-based control of implicit port-Hamiltonian systems with holonomic constraints. Systems &amp; Control Letters vol. 94 11–18 (2016)](passivity-based-control-of-implicit-port-hamiltonian-systems-with-holonomic-constraints) -- [10.1016/j.sysconle.2016.04.004](https://doi.org/10.1016/j.sysconle.2016.04.004)
 - [Castaños, F., Gromov, D., Hayward, V. & Michalska, H. Implicit and explicit representations of continuous-time port-Hamiltonian systems. Systems &amp; Control Letters vol. 62 324–330 (2013)](implicit-and-explicit-representations-of-continuous-time-port-hamiltonian-systems) -- [10.1016/j.sysconle.2013.01.007](https://doi.org/10.1016/j.sysconle.2013.01.007)
 - [Delvenne, J.-C. & Sandberg, H. Finite-time thermodynamics of port-Hamiltonian systems. Physica D: Nonlinear Phenomena vol. 267 123–132 (2014)](finite-time-thermodynamics-of-port-hamiltonian-systems) -- [10.1016/j.physd.2013.07.017](https://doi.org/10.1016/j.physd.2013.07.017)

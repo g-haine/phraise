@@ -73,6 +73,7 @@ Port-Hamiltonian system; distributed parameter systems; boundary control; zero d
 - Morris, K. & Rebarber, R. Feedback invariance of SISO infinite-dimensional systems. Mathematics of Control, Signals, and Systems vol. 19 313–335 (2007) -- [10.1007/s00498-007-0021-9](https://doi.org/10.1007/s00498-007-0021-9)
 - Morris, K. & Rebarber, R. Invariant zeros of SISO infinite-dimensional systems. International Journal of Control vol. 83 2573–2579 (2010) -- [10.1080/00207179.2010.534177](https://doi.org/10.1080/00207179.2010.534177)
 - NIKITIN, S. & NIKITINA, M. HIGH GAIN OUTPUT FEEDBACKS FOR SYSTEMS WITH DISTRIBUTED PARAMETERS. Mathematical Models and Methods in Applied Sciences vol. 09 933–940 (1999) -- [10.1142/s0218202599000427](https://doi.org/10.1142/s0218202599000427)
+- Villegas, J.A., 2007. A port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, Univer-siteit Twente.
 - Zwart, (1989)
 - Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
 

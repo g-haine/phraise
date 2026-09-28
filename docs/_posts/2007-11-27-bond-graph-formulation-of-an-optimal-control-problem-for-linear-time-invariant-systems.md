@@ -58,11 +58,17 @@ Optimal control; Bond graph; Pontryagin maximum principle; Port-Hamiltonian syst
 - Naidu, (2003)
 - Cabanellas, A formulation of the sensitivity analysis for dynamic systems optimization based on pseudo bond graphs. (1995)
 - Cabanellas, Dynamic systems optimization based on pseudo bond graph. (1999)
+- P.H. Roe, J.U. Thoma, A new bond graph approach to sensitivity analysis, in: Third IMACS Symposium on Mathematical Modelling, Vienne, Austria, February 2000, pp. 743–746.
 - Gawthrop, P. J. Sensitivity bond graphs. Journal of the Franklin Institute vol. 337 907–922 (2000) -- [10.1016/s0016-0032(00)00052-1](https://doi.org/10.1016/s0016-0032(00)00052-1)
 - Gawthrop, P. J. & Ronco, E. Estimation and control of mechatronic systems using sensitivity bond graphs. Control Engineering Practice vol. 8 1237–1248 (2000) -- [10.1016/s0967-0661(00)00062-9](https://doi.org/10.1016/s0967-0661(00)00062-9)
+- R. Fotsu-Ngwompo, Contribution au Dimensionnement des Systèmes sur des Critères Dynamiques et Energétiques - Approche par Bond Graph, Ph.D. Thesis, Institut National des Sciences Appliquées de Lyon, 1997.
 - Ngwompo, R. F. & Scavarda, S. Dimensioning problems in system design using bicausal bond graphs. Simulation Practice and Theory vol. 7 577–587 (1999) -- [10.1016/s0928-4869(99)00013-0](https://doi.org/10.1016/s0928-4869(99)00013-0)
+- Ngwompo RF, Ngwompo RF, Scavarda S, Thomasset D (2001) Physical model-based inversion in control systems design using bond                     graph representation Part 1: Theory. Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering 215(2):95–104. https://doi.org/10.1243/0959651011540888 -- [10.1243/0959651011540888](https://doi.org/10.1243/0959651011540888)
+- Ngwompo RF, Ngwompo RF, Scavarda S, Thomasset D (2001) Physical model-based inversion in control systems design using bond graph representation. Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering 215(2):105–112. https://doi.org/10.1243/0959651011540897 -- [10.1243/0959651011540897](https://doi.org/10.1243/0959651011540897)
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties) -- [10.1016/s1474-6670(17)52308-3](https://doi.org/10.1016/s1474-6670(17)52308-3)
+- A.J. van der Schaft, B. Maschke, Hamiltonian formulation of bond graphs, in: B. Brogliato (Ed.), Ecole d’été d’Automatique de Grenoble, Session 22: Modélisation Géométrique et Commande des Systèmes Physiques, Grenoble, France, September 17–21, 2001, 33pp.
+- A.J. van der Schaft, B. Maschke, Port-hamiltonian systems: towards a theory for geometric modeling and control of complex physical systems, in: B. Brogliato (Ed.), Ecole d’été d’Automatique de Grenoble, Session 22: Modélisation Géométrique et Commande des Systèmes Physiques, Grenoble, France, September 17–21, 2001, 20pp.
 - Breedveld, A definition of the multibond graph language. (1986)
 - Crandall, (1968)
 - Karnopp, (2000)
@@ -72,8 +78,12 @@ Optimal control; Bond graph; Pontryagin maximum principle; Port-Hamiltonian syst
 - Gawthrop, Bicausal bond graphs. (1995)
 - Gawthrop, P. J. Physical interpretation of inverse dynamics using bicausal bond graphs. Journal of the Franklin Institute vol. 337 743–769 (2000) -- [10.1016/s0016-0032(00)00051-x](https://doi.org/10.1016/s0016-0032(00)00051-x)
 - Agrawal, Optimization of dynamic systems. (1999)
+- F.R. Gantmacher, Théorie des matrices: tome 1, théorie générale, Collection universitaires de mathématiques, Dunod Edition, Paris, 1966.
+- F. Ayres, Matrices: cours et problèmes, Série Schaum, ediscience s. a. edition, Paris, 1974.
 - Lewis, (1995)
+- J. van Dijk, On the role of bond graph causality in modelling mechatronic systems, Ph.D. Thesis, Electrical Engineering, University of Twente, Enscheden, The Netherlands, 1994.
 - Zadeh, (1963)
 - Kailath, (1980)
+- X. Xia, Contribution à l’Analyse du Comportement Dynamique et Energétique d’un Système Linéaire et Stationnaire Modélisé par un Bond Graph Bicausal, Ph.D. Thesis, Institut National des Sciences Appliquées de Lyon, 2000.
 - Xia, Adjoint system by using the representation of bond graph. (2001)
 

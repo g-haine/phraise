@@ -57,25 +57,33 @@ Energy storage; Port-Hamiltonian systems; Eigenfunctions; Damping; Caughey serie
 ## References
 - Adhikari, S. Damping modelling using generalized proportional damping. Journal of Sound and Vibration vol. 293 156–170 (2006) -- [10.1016/j.jsv.2005.09.034](https://doi.org/10.1016/j.jsv.2005.09.034)
 - Arnold, (2004)
+- D. Bernoulli, Physical, mechanical and analytical researches on sound and on the tones of differently constructed organ pipes, Mém. Acad. Sci. (Paris), 1762 (in French).
 - Caughey, T. K. Classical Normal Modes in Damped Linear Dynamic Systems. Journal of Applied Mechanics vol. 27 269–271 (1960) -- [10.1115/1.3643949](https://doi.org/10.1115/1.3643949)
 - Caughey, T. K. & O’Kelly, M. E. J. Classical Normal Modes in Damped Linear Dynamic Systems. Journal of Applied Mechanics vol. 32 583–588 (1965) -- [10.1115/1.3627262](https://doi.org/10.1115/1.3627262)
 - Causse, R. E., Bensoam, J. & Ellis, N. Modalys, a physical modeling synthesizer: More than twenty years of researches, developments, and musical uses. The Journal of the Acoustical Society of America vol. 130 2365–2365 (2011) -- [10.1121/1.3654475](https://doi.org/10.1121/1.3654475)
+- S.P. Chen, R. Triggiani, Proof of two conjectures by G. Chen and D. L. Russell on structural damping for elastic systems, in: Approximation and Optimization (Havana, 1987), vol. 1354, 1988, pp. 234–256.
 - Chen, S. P. & Triggiani, R. Proof of extensions of two conjectures on structural damping for elastic systems. Pacific Journal of Mathematics vol. 136 15–55 (1989) -- [10.2140/pjm.1989.136.15](https://doi.org/10.2140/pjm.1989.136.15)
 - (2009)
+- K. Ege, La table d'harmonie du piano - Etudes modales en basses et moyennes fréquences (Thèse de doctorat), Ecole Polytechnique, 2009.
 - Géradin, (1997)
 - Graff, (1975)
 - Hansen, S. W. Optimal regularity results in boundary control of elastic systems with fractional order damping. ESAIM: Proceedings vol. 8 53–64 (2000) -- [10.1051/proc:2000004](https://doi.org/10.1051/proc:2000004)
 - Hélie, T. Unidimensional models of acoustic propagation in axisymmetric waveguides. The Journal of the Acoustical Society of America vol. 114 2633–2647 (2003) -- [10.1121/1.1608962](https://doi.org/10.1121/1.1608962)
+- T. Hélie, D. Matignon, Damping models for the sound synthesis of bar-like instruments, in: 7th International Conference on Systemics, Cybernetics and Informatics, Orlando, Florida, 2001, pp 541–546 (invited session).
+- Hélie Thomas, Hézard Thomas, Mignot Rémi, Matignon Denis, On the 1D wave propagation in wind instruments with a smooth profile, in: Forum Acusticum, vol. 6, Aalborg, Danemark, Juillet, 2011, pp. 1–6.
 - Intissar, (1997)
 - Jacob, B., Trunk, C. & Winklmeier, M. Analyticity and Riesz basis property of semigroups associated to damped vibrations. Journal of Evolution Equations vol. 8 263–281 (2008) -- [10.1007/s00028-007-0351-6](https://doi.org/10.1007/s00028-007-0351-6)
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - Kergomard, J., Debut, V. & Matignon, D. Resonance modes in a one-dimensional medium with two purely resistive boundaries: Calculation methods, orthogonality, and completeness. The Journal of the Acoustical Society of America vol. 119 1356–1367 (2006) -- [10.1121/1.2166709](https://doi.org/10.1121/1.2166709)
+- J.L. Lagrange, Nouvelles recherches sur la nature et la propagation du son, Misc. Taur. (Mélanges Phil. Math., Soc. Roy. Turin) 1 151–316
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Matignon, D. Diffusive representations for fractional Laplacian: systems theory framework and numerical issues. Physica Scripta vol. T136 014009 (2009) -- [10.1088/0031-8949/2009/t136/014009](https://doi.org/10.1088/0031-8949/2009/t136/014009)
+- D. Matignon, T. Hélie, On damping models preserving the eigenfunctions of conservative systems: a port-Hamiltonian perspective. In: IFAC Conference on Lagrangian and Hamiltonian Methods and Nonlinear Control (LHMNLC'12) August 29–31, 2012, Bertinoro, Italy (invited session).
 - Naylor, (1982)
 - Rayleigh, (1896)
 - Trefethen, (2005)
 - van der Schaft, (2001)
 - [Schaft, A. J. Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems. Advanced Dynamics and Control of Structures and Machines 127–167 (2004) doi:10.1007/978-3-7091-2774-2_9](port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems) -- [10.1007/978-3-7091-2774-2_9](https://doi.org/10.1007/978-3-7091-2774-2_9)
+- J. Villegas, Y. LeGorrec, H. Zwart, B. Maschke, Boundary control for a class of dissipative differential operators including diffusion systems, in: Mathematical Theory of Networks and Systems (MTNS), MoP06.4. Kyoto, Japan, 2006, pp. 297–304 (invited session).
 - Webster, A. G. Acoustical Impedance and the Theory of Horns and of the Phonograph. Proceedings of the National Academy of Sciences vol. 5 275–282 (1919) -- [10.1073/pnas.5.7.275](https://doi.org/10.1073/pnas.5.7.275)
 

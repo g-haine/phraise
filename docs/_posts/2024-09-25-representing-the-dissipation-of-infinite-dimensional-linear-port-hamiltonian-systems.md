@@ -61,6 +61,7 @@ Port-Hamiltonian systems; infinite-dimensional systems; dissipation; real part; 
 - Jacob, (2012)
 - [Jäschke, J., Skrepek, N. & Ehrhardt, M. Mixed-dimensional geometric coupling of port-Hamiltonian systems. Applied Mathematics Letters vol. 137 108508 (2023)](mixed-dimensional-geometric-coupling-of-port-hamiltonian-systems) -- [10.1016/j.aml.2022.108508](https://doi.org/10.1016/j.aml.2022.108508)
 - Kato, (1995)
+- Philipp, F., Reis, T., and Schaller, M. (2023). Infinite-dimensional port-Hamiltonian systems—a system node approach. Preprint, arXiv:2302.05168.
 - [Philipp, F., Schaller, M., Faulwasser, T., Maschke, B. & Worthmann, K. Minimizing the energy supply of infinite-dimensional linear port-Hamiltonian systems. IFAC-PapersOnLine vol. 54 155–160 (2021)](minimizing-the-energy-supply-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.1016/j.ifacol.2021.11.071](https://doi.org/10.1016/j.ifacol.2021.11.071)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
 - [Schaller, M. et al. Energy-optimal control of adaptive structures. at - Automatisierungstechnik vol. 72 107–119 (2024)](energy-optimal-control-of-adaptive-structures) -- [10.1515/auto-2023-0090](https://doi.org/10.1515/auto-2023-0090)
@@ -68,4 +69,5 @@ Port-Hamiltonian systems; infinite-dimensional systems; dissipation; real part; 
 - Staffans, (2005)
 - [Tõnso, M., Kaparin, V. & Belikov, J. Port-Hamiltonian framework in power systems domain: A survey. Energy Reports vol. 10 2918–2930 (2023)](port-hamiltonian-framework-in-power-systems-domain-a-survey) -- [10.1016/j.egyr.2023.09.077](https://doi.org/10.1016/j.egyr.2023.09.077)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Villegas, J. (2007). A Port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, University of Twente.
 

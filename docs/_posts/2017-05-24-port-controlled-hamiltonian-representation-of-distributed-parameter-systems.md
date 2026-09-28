@@ -71,6 +71,7 @@ distributed parameter systems; Hamiltonian systems; Dirac structures; boundary c
 - Ortega, Stabilization ofportcontrolled hamiltonian systems: Passivation and energy-balancing (1999)
 - Paynter, (1961)
 - Saintellier, (1993)
+- van der Schaft A.J., Interconnection and Geometry, In: From Intelligent Control to Behavioral Systems, 1999, Groningen, 203-218
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und übertragungstechnik (1995)
 

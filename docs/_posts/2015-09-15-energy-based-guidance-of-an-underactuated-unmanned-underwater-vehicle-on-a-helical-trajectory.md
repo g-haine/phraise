@@ -57,6 +57,8 @@ Unmanned underwater vehicle; Guidance; Energy routing; Nonlinear systems; Energy
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
 - [Donaire, A. & Perez, T. Port-Hamiltonian Theory of Motion Control for Marine Craft. IFAC Proceedings Volumes vol. 43 201–206 (2010)](port-hamiltonian-theory-of-motion-control-for-marine-craft) -- [10.3182/20100915-3-de-3008.00054](https://doi.org/10.3182/20100915-3-de-3008.00054)
 - [Donaire, A. & Perez, T. Dynamic positioning of marine craft using a port-Hamiltonian framework. Automatica vol. 48 851–856 (2012)](dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework) -- [10.1016/j.automatica.2012.02.022](https://doi.org/10.1016/j.automatica.2012.02.022)
+- Donaire, A., Perez, T., & Renton, C. (2011). Manoeuvring control of fully-actuated marine vehicles—a port-Hamiltonian system approach to tracking. In The Australian control conference AUCC. Melbourne Victoria, September 2011.
+- Duindam, V. (2006). Port-based modeling and control for efficient bipedal walking robots [Ph.D. thesis]. University of Twente. Twente, The Netherlands.
 - Egeland, (2002)
 - Faltinsen, (1990)
 - Fossen, (1994)
@@ -68,6 +70,7 @@ Unmanned underwater vehicle; Guidance; Energy routing; Nonlinear systems; Energy
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Salisbury, J. Active stiffness control of a manipulator in cartesian coordinates. 1980 19th IEEE Conference on Decision and Control including the Symposium on Adaptive Processes (1980) doi:10.1109/cdc.1980.272026 -- [10.1109/cdc.1980.272026](https://doi.org/10.1109/cdc.1980.272026)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- van der Schaft, A. (2006). Port-Hamiltonian systems: an introductory survey. In Proceeding of the international congress of mathematicians.
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control vol. 103 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
 - [Valentinis, F., Donaire, A. & Perez, T. Energy-based motion control of a slender hull unmanned underwater vehicle. Ocean Engineering vol. 104 604–616 (2015)](energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle) -- [10.1016/j.oceaneng.2015.05.014](https://doi.org/10.1016/j.oceaneng.2015.05.014)
 

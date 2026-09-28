@@ -54,6 +54,7 @@ Nonlinear systems; passivity; controller design
 - Angeli, D. Systems With Counterclockwise Input–Output Dynamics. IEEE Transactions on Automatic Control vol. 51 1130–1143 (2006) -- [10.1109/tac.2006.878747](https://doi.org/10.1109/tac.2006.878747)
 - Boyd, (2004)
 - Cortés, J., van der Schaft, A. & Crouch, P. E. Characterization of Gradient Control Systems. SIAM Journal on Control and Optimization vol. 44 1192–1214 (2005) -- [10.1137/s0363012903425568](https://doi.org/10.1137/s0363012903425568)
+- Cucuzzella, M., Lazzari, R., Kawano, Y., Kosaraju, K.C., and Scherpen, J.M.A. (2019). Voltage control of boost converters in DC microgrids with ZIP loads. arXiv: CoRR, abs/1902.10273.
 - Feijer, D. & Paganini, F. Stability of primal–dual gradient dynamics and applications to network optimization. Automatica vol. 46 1974–1981 (2010) -- [10.1016/j.automatica.2010.08.011](https://doi.org/10.1016/j.automatica.2010.08.011)
 - Forni, F. & Sepulchre, R. A Differential Lyapunov Framework for Contraction Analysis. IEEE Transactions on Automatic Control vol. 59 614–628 (2014) -- [10.1109/tac.2013.2285771](https://doi.org/10.1109/tac.2013.2285771)
 - Forni, F., Sepulchre, R. & van der Schaft, A. J. On differential passivity of physical systems. 52nd IEEE Conference on Decision and Control 6580–6585 (2013) doi:10.1109/cdc.2013.6760930 -- [10.1109/cdc.2013.6760930](https://doi.org/10.1109/cdc.2013.6760930)

@@ -62,6 +62,7 @@ Tracking systems; Passive compensation; Mechanical manipulators; Nonlinear contr
 - Kelly, R. & Salgado, R. PD control with computed feedforward of robot manipulators: a design procedure. IEEE Trans. Robot. Automat. 10, 566–571 (1994) -- [10.1109/70.313108](https://doi.org/10.1109/70.313108)
 - Lozano, (2000)
 - Matrosov, On the stability of motion. Journal of Applied Mathematics and Mechanics (1962)
+- Mulero-Martínez, J. I., & López-Coronado, J. (2003). Perturbed hamiltonian systems in robotics. In 3rd IARP workshop on service, assistive and personal robots IARP 2003
 - Nijmeijer, (1990)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Paden, B. & Riedle, B. A Positive-Real Modification of a Class of Nonlinear Controllers for Robot Manipulators. 1988 American Control Conference 1782–1785 (1988) doi:10.23919/acc.1988.4790015 -- [10.23919/acc.1988.4790015](https://doi.org/10.23919/acc.1988.4790015)

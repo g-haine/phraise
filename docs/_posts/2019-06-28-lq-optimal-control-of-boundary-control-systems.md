@@ -60,14 +60,14 @@ Boundary control systems; LQ-optimal control; Output optimal control; Port-Hamil
 - Dehaye, J. R. & Winkin, J. J. Boundary Control Systems with Yosida Type Approximate Boundary Observation. IFAC Proceedings Volumes vol. 46 233–238 (2013) -- [10.3182/20130925-3-fr-4043.00061](https://doi.org/10.3182/20130925-3-fr-4043.00061)
 - Dehaye, J. R. & Winkin, J. J. LQ-optimal control by spectral factorization of extended semigroup boundary control systems with approximate boundary observation. 52nd IEEE Conference on Decision and Control 1071–1076 (2013) doi:10.1109/cdc.2013.6760024 -- [10.1109/cdc.2013.6760024](https://doi.org/10.1109/cdc.2013.6760024)
 - Dehaye, J. R. & Winkin, J. J. LQ-optimal boundary control of infinite-dimensional systems with Yosida-type approximate boundary observation. Automatica vol. 67 94–106 (2016) -- [10.1016/j.automatica.2015.12.033](https://doi.org/10.1016/j.automatica.2015.12.033)
-- K Engel. Engel K, Nagel R (2006) A short course on operator semigroups. Springer, New York (2006)
+- Engel K, Nagel R (2006) A short course on operator semigroups. Springer, New York
 - Fattorini, H. O. Boundary Control Systems. SIAM Journal on Control vol. 6 349–385 (1968) -- [10.1137/0306025](https://doi.org/10.1137/0306025)
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
-- NN Krasovskii. Krasovskii NN (1962) On analytical design of optimum regulators in time-delay systems. Prikl Mat Mekh 1:39–52 (1962)
-- E Kreyszig. Kreyszig E (1978) Introductory functional analysis with applications. Wiley, New York (1978)
+- Krasovskii NN (1962) On analytical design of optimum regulators in time-delay systems. Prikl Mat Mekh 1:39–52
+- Kreyszig E (1978) Introductory functional analysis with applications. Wiley, New York
 - Lions JL (1966) Sur le côntrole optimal de systemes decrits par des equations aux derivees partielles lineaires. CR Acad Sci Paris 263, pp. 661–663, 713–715, 776–779
-- JL Lions. Lions JL (1968) Contrôle optimal de systemes gouvernes par des equations and derivees partielles. Dunod, Paris (1968)
-- JL Lions. Lions JL, Magenes E (1972) Non-homogeneous boundary value problem, I,II,III, Springer, Berlin (1972)
+- Lions JL (1968) Contrôle optimal de systemes gouvernes par des equations and derivees partielles. Dunod, Paris
+- Lions JL, Magenes E (1972) Non-homogeneous boundary value problem, I,II,III, Springer, Berlin
 - Lukes, D. L. & Russell, D. L. The Quadratic Criterion for Distributed Systems. SIAM Journal on Control vol. 7 101–121 (1969) -- [10.1137/0307008](https://doi.org/10.1137/0307008)
 - Merola, A., Cosentino, C., Colacino, D. & Amato, F. Optimal control of uncertain nonlinear quadratic systems. Automatica vol. 83 345–350 (2017) -- [10.1016/j.automatica.2017.05.012](https://doi.org/10.1016/j.automatica.2017.05.012)
 - Opmeer MR (2006) Model reduction for controller design for infinite-dimensional systems. Doctoral Thesis, University of Bath

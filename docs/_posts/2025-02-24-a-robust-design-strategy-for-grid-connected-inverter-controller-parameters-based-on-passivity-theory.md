@@ -48,6 +48,7 @@ d-partition method, grid-following, passivity-based control (pbc), robust contro
 - Chamarthi PK, Al Durra A, Saleh SA (2020) A Novel Three-Phase Transformerless Cascaded Multilevel Inverter Topology for Grid-connected Solar PV Applications. 2020 IEEE Industry Applications Society Annual Meeting 1– -- [10.1109/ias44978.2020.9334766](https://doi.org/10.1109/ias44978.2020.9334766)
 - Ambia MN, Meng K, Xiao W, Al-Durra A, Dong ZY (2022) Interactive Grid Synchronization-Based Virtual Synchronous Generator Control Scheme on Weak Grid Integration. IEEE Trans Smart Grid 13(5):4057–4071. https://doi.org/10.1109/tsg.2021.313899 -- [10.1109/tsg.2021.3138999](https://doi.org/10.1109/tsg.2021.3138999)
 - Wang X, Chen Y, Guo J, Wu W (2019) D-Q Small-Signal Impedance Modeling of Load Virtual Synchronous Machine and Stability Analysis in Weak Grid. 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC) 1– -- [10.1109/appeec45492.2019.8994340](https://doi.org/10.1109/appeec45492.2019.8994340)
+- Sun, H., Tao, X., Guo, Q., et al.: Analysis on blackout in great Britain power grid on August 9th, 2019 and its enlightenment to power grid in China. Proc. CSEE 39(21), 6183–6191 (2019). (in Chinese)
 - J He, Power Syst. Technol. (2020)
 - H Zeng, Autom. Electric Power Syst. (2017)
 - N Ma, Proc. CSEE (2020)

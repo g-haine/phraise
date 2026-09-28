@@ -54,6 +54,7 @@ Model reduction; Port-controlled Hamiltonian system; H ∞ performance; Continuo
 ## References
 - van der Schaft, (2000)
 - [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica 46, 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
+- R.V. Polyuga, Model reduction of port-Hamiltonian systems, PhD. dissertation, Univ. of Groningen, Groningen, The Netherlands, 2010.
 - [Polyuga, R. V. & van der Schaft, A. J. Structure Preserving Port-Hamiltonian Model Reduction of Electrical Circuits. Lecture Notes in Electrical Engineering 241–260 (2011) doi:10.1007/978-94-007-0089-5_14](structure-preserving-port-hamiltonian-model-reduction-of-electrical-circuits) -- [10.1007/978-94-007-0089-5_14](https://doi.org/10.1007/978-94-007-0089-5_14)
 - Ionutiu, R., Rommes, J. & Antoulas, A. C. Passivity-Preserving Model Reduction Using Dominant Spectral-Zero Interpolation. IEEE Trans. Comput.-Aided Des. Integr. Circuits Syst. 27, 2250–2263 (2008) -- [10.1109/tcad.2008.2006160](https://doi.org/10.1109/tcad.2008.2006160)
 - Moore, B. Principal component analysis in linear systems: Controllability, observability, and model reduction. IEEE Trans. Automat. Contr. 26, 17–32 (1981) -- [10.1109/tac.1981.1102568](https://doi.org/10.1109/tac.1981.1102568)

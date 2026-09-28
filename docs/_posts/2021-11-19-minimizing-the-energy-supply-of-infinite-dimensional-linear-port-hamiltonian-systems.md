@@ -59,6 +59,7 @@ Optimal control; port-Hamiltonian systems; turnpike properties; dissipativity; i
 - Damm, T., Grüne, L., Stieler, M. & Worthmann, K. An Exponential Turnpike Theorem for Dissipative Discrete Time Optimal Control Problems. SIAM Journal on Control and Optimization vol. 52 1935–1957 (2014) -- [10.1137/120888934](https://doi.org/10.1137/120888934)
 - Dardé, J. & Ervedoza, S. On the Reachable Set for the One-Dimensional Heat Equation. SIAM Journal on Control and Optimization vol. 56 1692–1715 (2018) -- [10.1137/16m1093215](https://doi.org/10.1137/16m1093215)
 - Engel, (2000)
+- Esteve, C., Geshkovski, B., Pighin, D., and Zuazua, E. (2020). Turnpike in Lipschitz-nonlinear optimal control. arXiv:2011.11091.
 - Faulwasser, (2021)
 - Faulwasser, T., Grüne, L. & Müller, M. A. Economic Nonlinear Model Predictive Control. Foundations and Trends® in Systems and Control vol. 5 224–409 (2018) -- [10.1561/2600000014](https://doi.org/10.1561/2600000014)
 - Faulwasser, (2020)
@@ -70,6 +71,7 @@ Optimal control; port-Hamiltonian systems; turnpike properties; dissipativity; i
 - Gugat, M. & Hante, F. M. On the Turnpike Phenomenon for Optimal Boundary Control Problems with Hyperbolic Systems. SIAM Journal on Control and Optimization vol. 57 264–289 (2019) -- [10.1137/17m1134470](https://doi.org/10.1137/17m1134470)
 - Gugat, M., Trélat, E. & Zuazua, E. Optimal Neumann control for the 1D wave equation: Finite horizon, infinite horizon, boundary tracking terms and the turnpike property. Systems &amp; Control Letters vol. 90 61–70 (2016) -- [10.1016/j.sysconle.2016.02.001](https://doi.org/10.1016/j.sysconle.2016.02.001)
 - Jacob, (2012)
+- Pighin, D. (2020). The turnpike property in semilinear control. ArXiv:2004.03269.
 - Porretta, A. & Zuazua, E. Long Time versus Steady State Optimal Control. SIAM Journal on Control and Optimization vol. 51 4242–4273 (2013) -- [10.1137/130907239](https://doi.org/10.1137/130907239)
 - [Schaller, M., Philipp, F., Faulwasser, T., Worthmann, K. & Maschke, B. Control of port-Hamiltonian systems with minimal energy supply. European Journal of Control vol. 62 33–40 (2021)](control-of-port-hamiltonian-systems-with-minimal-energy-supply) -- [10.1016/j.ejcon.2021.06.017](https://doi.org/10.1016/j.ejcon.2021.06.017)
 - Trélat, E. & Zhang, C. Integral and measure-turnpike properties for infinite-dimensional optimal control systems. Mathematics of Control, Signals, and Systems vol. 30 (2018) -- [10.1007/s00498-018-0209-1](https://doi.org/10.1007/s00498-018-0209-1)

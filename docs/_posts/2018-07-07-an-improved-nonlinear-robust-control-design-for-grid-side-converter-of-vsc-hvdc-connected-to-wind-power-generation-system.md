@@ -78,5 +78,19 @@ hamiltonian function method, nonlinear robust control, oscillations damping, pcd
 - Xu, S. & Hou, X. A family of H∞ controllers for dissipative Hamiltonian systems. Intl J Robust &amp; Nonlinear 22, 1258–1269 (2011) -- [10.1002/rnc.1753](https://doi.org/10.1002/rnc.1753)
 - Lei, B. & Fei, S. I                                                            control for STATCOM to improve voltage stability of power system. Electronics Letters 53, 670–672 (2017) -- [10.1049/el.2016.4617](https://doi.org/10.1049/el.2016.4617)
 - Lv, X., Lei, B. & Fei, S. Nonlinear robust control design for static synchronous compensator. 2017 29th Chinese Control And Decision Conference (CCDC) 632–637 (2017) doi:10.1109/ccdc.2017.7978320 -- [10.1109/ccdc.2017.7978320](https://doi.org/10.1109/ccdc.2017.7978320)
+- Lv X, Lei B, Fei S (2017) Nonlinear 
+                    
+                      
+                    
+                    $$L_2$$
+                    
+                      
+                        
+                          L
+                          2
+                        
+                      
+                    
+                   disturbance attenuation control design of UPFC for power flow control. In: IEEE 29th Chinese control and decision conference (CCDC). pp 1611–1616
 - Lei, B., Wu, X. & Fei, S. Nonlinear robust control design for SSSC to improve damping oscillations and transient stability of power system. 2017 36th Chinese Control Conference (CCC) 3101–3106 (2017) doi:10.23919/chicc.2017.8027834 -- [10.23919/chicc.2017.8027834](https://doi.org/10.23919/chicc.2017.8027834)
 

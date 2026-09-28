@@ -75,6 +75,7 @@ energy-shaping control, neutral point voltage control, port-controlled hamiltoni
 - Li, Strategy of energy-shaping control for microgrid energy storage system in islanding operation mode. Electr. Power Autom. Equip. (2014)
 - Meyer, Five level neutral-point clamped inverter for a dynamic voltage restorer. (2005)
 - Rodriguez, J., Jih-Sheng Lai & Fang Zheng Peng. Multilevel inverters: a survey of topologies, controls, and applications. IEEE Trans. Ind. Electron. 49, 724–738 (2002) -- [10.1109/tie.2002.801052](https://doi.org/10.1109/tie.2002.801052)
+- P. Knaup, International patent application. Publication No. WO 2007/048420A1, 2007.
 - Schweizer, M. & Kolar, J. W. Design and Implementation of a Highly Efficient Three-Level T-Type Converter for Low-Voltage Applications. IEEE Trans. Power Electron. 28, 899–907 (2013) -- [10.1109/tpel.2012.2203151](https://doi.org/10.1109/tpel.2012.2203151)
 - Ui-Min Choi, Kyo-Beum Lee & Blaabjerg, F. Diagnosis and Tolerant Strategy of an Open-Switch Fault for T-Type Three-Level Inverter Systems. IEEE Trans. on Ind. Applicat. 50, 495–508 (2014) -- [10.1109/tia.2013.2269531](https://doi.org/10.1109/tia.2013.2269531)
 - Schweizer, Comparison of the chip area usage of 2-level and 3-level voltage source converter topologies. (2010)
@@ -89,6 +90,7 @@ energy-shaping control, neutral point voltage control, port-controlled hamiltoni
 - Krähenbühl, Evaluation of ultra-compact rectifiers for low power, high-speed, permanent-magnet generators. (2009)
 - Tiapkin, Analysis and selection of two- and three-level low voltage converter circuit topologies for high speed electric drive applications. (2017)
 - Brueske, Comparison of the power semiconductor design rating of different inverter topologies for the drive inverter of electric vehicles. (2015)
+- The MathWorks. http://www.mathworks.com.
 - Nomura, S. et al. Technical and Cost Evaluation on SMES for Electric Power Compensation. IEEE Trans. Appl. Supercond. 20, 1373–1378 (2010) -- [10.1109/tasc.2009.2039745](https://doi.org/10.1109/tasc.2009.2039745)
 - Ali, Mohd. H., Wu, B. & Dougal, R. A. An Overview of SMES Applications in Power and Energy Systems. IEEE Trans. Sustain. Energy 1, 38–47 (2010) -- [10.1109/tste.2010.2044901](https://doi.org/10.1109/tste.2010.2044901)
 - Xue, X. D., Cheng, K. W. E. & Sutanto, D. A study of the status and future of superconducting magnetic energy storage in power systems. Supercond. Sci. Technol. 19, R31–R39 (2006) -- [10.1088/0953-2048/19/6/r01](https://doi.org/10.1088/0953-2048/19/6/r01)

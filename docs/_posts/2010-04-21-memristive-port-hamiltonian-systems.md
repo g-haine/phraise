@@ -57,6 +57,7 @@ The port-Hamiltonian modelling framework is extended to a class of systems conta
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Di Ventra M., arXiv:0901.3682 (2009)
 - Milić, M. M. & Novak, L. A. The anti-Lagrangian equations: A missing network description. Journal of the Franklin Institute vol. 307 183–191 (1979) -- [10.1016/0016-0032(79)90017-6](https://doi.org/10.1016/0016-0032(79)90017-6)
+- Brayton, R.K. 1971.Nonlinear reciprocal networks, Mathem. Aspects of Electrical Network Analysis. Providence, RI: American Math. Soc. (AMS)1–15.
 - Ying-Fai Lam. Formulation of normal form equations of nonlinear networks containing memristors and coupled elements. IEEE Transactions on Circuit Theory vol. 19 585–594 (1972) -- [10.1109/tct.1972.1083551](https://doi.org/10.1109/tct.1972.1083551)
 - Loo, K. H., Stone, D. A., Tozer, R. C. & Devonshire, R. A Dynamic Conductance Model of Fluorescent Lamp for Electronic Ballast Design Simulation. IEEE Transactions on Power Electronics vol. 20 1178–1185 (2005) -- [10.1109/tpel.2005.854057](https://doi.org/10.1109/tpel.2005.854057)
 

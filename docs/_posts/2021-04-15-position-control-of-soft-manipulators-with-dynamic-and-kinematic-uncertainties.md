@@ -57,6 +57,7 @@ Disturbance Rejection; Lagrangian; Hamiltonian systems; Passivity-based control
 - Bieze, T. M. et al. Finite Element Method-Based Kinematics and Closed-Loop Control of Soft, Continuum Manipulators. Soft Robotics vol. 5 348–364 (2018) -- [10.1089/soro.2017.0079](https://doi.org/10.1089/soro.2017.0079)
 - Falkenhahn, V., Hildebrandt, A., Neumann, R. & Sawodny, O. Dynamic Control of the Bionic Handling Assistant. IEEE/ASME Transactions on Mechatronics vol. 22 6–17 (2017) -- [10.1109/tmech.2016.2605820](https://doi.org/10.1109/tmech.2016.2605820)
 - Franco, E. Adaptive IDA‐PBC for underactuated mechanical systems with constant disturbances. International Journal of Adaptive Control and Signal Processing vol. 33 1–15 (2018) -- [10.1002/acs.2947](https://doi.org/10.1002/acs.2947)
+- Franco, E. (2019b). IDA-PBC with Adaptive Friction Compensation for Underactuated Mechanical Systems. International Journal of Control, 1-29.
 - Franco, E., Casanovas, A. G., Rodriguez y Baena, F. & Astolfi, A. Model based adaptive control for a soft robotic manipulator. 2019 IEEE 58th Conference on Decision and Control (CDC) 1019–1024 (2019) doi:10.1109/cdc40024.2019.9029449 -- [10.1109/cdc40024.2019.9029449](https://doi.org/10.1109/cdc40024.2019.9029449)
 - Franco, Energy Shaping Control of Soft Continuum Manipulators with in-plane Disturbances. The International Journal of Robotics Research (2020)
 - Franco, Robust Dynamic State Feedback for Underactuated Systems with Linearly Parameterized Disturbances. International Journal of Robust and Nonlinear Control (2020)

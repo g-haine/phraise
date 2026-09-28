@@ -79,6 +79,7 @@ Hypocoercivity (index); Dissipative evolution system; Decay rate; Staircase form
 - Fuhrmann, P. A. On weak and strong reachability and controllability of infinite-dimensional linear systems. Journal of Optimization Theory and Applications vol. 9 77–89 (1972) -- [10.1007/bf00932345](https://doi.org/10.1007/bf00932345)
 - Gadat, S. & Miclo, L. Spectral decompositions and $\mathbb{L}^2$-operator normof toy hypocoercive semi-groups. Kinetic &amp; Related Models vol. 6 317–372 (2013) -- [10.3934/krm.2013.6.317](https://doi.org/10.3934/krm.2013.6.317)
 - Golse, F. On the Periodic Lorentz Gas and the Lorentz Kinetic Equation. Annales de la Faculté des sciences de Toulouse : Mathématiques vol. 17 735–749 (2009) -- [10.5802/afst.1200](https://doi.org/10.5802/afst.1200)
+- G.M. Graf, private communication, 2024.
 - Han-Kwan, D. & Léautaud, M. Geometric Analysis of the Linear Boltzmann Equation I. Trend to Equilibrium. Annals of PDE vol. 1 (2015) -- [10.1007/s40818-015-0003-z](https://doi.org/10.1007/s40818-015-0003-z)
 - Hérau, Hypocoercivity and exponential time decay for the linear inhomogeneous relaxation Boltzmann equation. Asymptot. Anal. (2006)
 - Ilchmann, A., Ryan, E. P. & Townsend, P. Tracking with Prescribed Transient Behavior for Nonlinear Systems of Known Relative Degree. SIAM Journal on Control and Optimization vol. 46 210–230 (2007) -- [10.1137/050641946](https://doi.org/10.1137/050641946)

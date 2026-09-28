@@ -53,6 +53,7 @@ Nonlinear control; path following; nonholonomic systems; mechanical systems
  
 ## References
 - Duindam, V., Stramigioli, S. & Scherpen, J. M. A. Passive Compensation of Nonlinear Robot Dynamics. IEEE Transactions on Robotics and Automation vol. 20 480–487 (2004) -- [10.1109/tra.2004.824693](https://doi.org/10.1109/tra.2004.824693)
+- Ferguson, J., Donaire, A., Renton, C, and Middle-ton, R.H. (2018). A port-hamiltonian approach to the control of nonholonomic systems. arXiv preprint arXiv:1801.06954.
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory Tracking Control of Nonholonomic Hamiltonian Systems via Generalized Canonical Transformations. European Journal of Control vol. 10 421–431 (2004)](trajectory-tracking-control-of-nonholonomic-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.3166/ejc.10.421-431](https://doi.org/10.3166/ejc.10.421-431)
 - Fujimoto, (1999)

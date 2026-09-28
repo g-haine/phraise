@@ -73,8 +73,10 @@ differential-algebraic equations, discrete gradients, port-hamiltonian systems, 
 - Jüngel A, Stefanelli U, Trussardi L (2019) Two Structure-Preserving Time Discretizations for Gradient Flows. Appl Math Optim 80(3):733–764. https://doi.org/10.1007/s00245-019-09605- -- [10.1007/s00245-019-09605-x](https://doi.org/10.1007/s00245-019-09605-x)
 - Kunkel P, Mehrmann V (2023) Discretization of inherent ODEs and the geometric integration of DAEs with symmetries. Bit Numer Math 63(2). https://doi.org/10.1007/s10543-023-00966- -- [10.1007/s10543-023-00966-y](https://doi.org/10.1007/s10543-023-00966-y)
 - Öttinger HC (2018) GENERIC Integrators: Structure Preserving Time Integration for Thermodynamic Systems. Journal of Non-Equilibrium Thermodynamics 43(2):89–100. https://doi.org/10.1515/jnet-2017-003 -- [10.1515/jnet-2017-0034](https://doi.org/10.1515/jnet-2017-0034)
+- A.A. Simoes, D.M. de Diego, B. Maschke, Discrete gradient methods for irreversible port-Hamiltonian systems, 2023. arXiv: 2303.08034, 10.48550/arXiv.2303.08034.
 - [Kotyczka P, Lefèvre L (2019) Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters 133:104530. https://doi.org/10.1016/j.sysconle.2019.10453](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
 - [Giesselmann J, Karsai A, Tscherpel T (2025) Energy-consistent Petrov–Galerkin time discretization of port-Hamiltonian systems. The SMAI Journal of computational mathematics 11:335–367. https://doi.org/10.5802/smai-jcm.12](energy-consistent-petrov-galerkin-time-discretization-of-port-hamiltonian-systems) -- [10.5802/smai-jcm.127](https://doi.org/10.5802/smai-jcm.127)
+- A. Bartel, M. Diab, A. Frommer, M. Günther, Operator splitting for semi-explicit differential-algebraic equations and port-Hamiltonian DAEs, 2023. arXiv: 2308.16736, 10.48550/arXiv.2308.16736.
 - [Bartel A, Diab M, Frommer A, Günther M, Marheineke N (2025) Splitting techniques for DAEs with port-Hamiltonian applications. Applied Numerical Mathematics 214:28–53. https://doi.org/10.1016/j.apnum.2025.03.00](splitting-techniques-for-daes-with-port-hamiltonian-applications) -- [10.1016/j.apnum.2025.03.004](https://doi.org/10.1016/j.apnum.2025.03.004)
 - [Mönch M, Marheineke N (2025) Commutator-based operator splitting for linear port-Hamiltonian systems. Applied Numerical Mathematics 210:25–38. https://doi.org/10.1016/j.apnum.2024.12.00](commutator-based-operator-splitting-for-linear-port-hamiltonian-systems) -- [10.1016/j.apnum.2024.12.007](https://doi.org/10.1016/j.apnum.2024.12.007)
 - [Bartel A, Schaller M (2025) Goal-oriented time adaptivity for port-Hamiltonian systems. Journal of Computational and Applied Mathematics 461:116450. https://doi.org/10.1016/j.cam.2024.11645](goal-oriented-time-adaptivity-for-port-hamiltonian-systems) -- [10.1016/j.cam.2024.116450](https://doi.org/10.1016/j.cam.2024.116450)
@@ -83,8 +85,11 @@ differential-algebraic equations, discrete gradients, port-hamiltonian systems, 
 - [Aoues S, Di Loreto M, Eberard D, Marquis-Favre W (2017) Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability. Systems &amp; Control Letters 110:9–14. https://doi.org/10.1016/j.sysconle.2017.10.00](hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability) -- [10.1016/j.sysconle.2017.10.003](https://doi.org/10.1016/j.sysconle.2017.10.003)
 - [Falaize A, Hélie T (2016) Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach. Applied Sciences 6(10):273. https://doi.org/10.3390/app610027](passive-guaranteed-simulation-of-analog-audio-circuits-a-port-hamiltonian-approach) -- [10.3390/app6100273](https://doi.org/10.3390/app6100273)
 - Gören-Sümer L, Yalçιn Y (2008) Gradient Based Discrete-Time Modeling and Control of Hamiltonian Systems. IFAC Proceedings Volumes 41(2):212–217. https://doi.org/10.3182/20080706-5-kr-1001.0003 -- [10.3182/20080706-5-kr-1001.00036](https://doi.org/10.3182/20080706-5-kr-1001.00036)
+- E. Celledoni, E.H. Høiseth, Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems, 2017. arXiv: 1706.08621, 10.48550/arXiv.1706.08621.
+- A. Frommer, M. Günther, B. Liljegren-Sailer, N. Marheineke, Operator splitting for port-Hamiltonian systems, 2023. arXiv: 2304.01766, 10.48550/arXiv.2304.01766.
 - Kinon, Discrete nonlinear elastodynamics in a port-Hamiltonian framework. PAMM (Proc. Appl. Math. Mech.) (2023)
 - Moreschini, Discrete port-controlled Hamiltonian dynamics and average passivation. (2019)
+- P. Schulze, Structure-preserving time discretization of port-Hamiltonian systems via discrete gradient pairs, 2023. arXiv: 2311.00403, 10.48550/arXiv.2311.00403.
 - Rabier PJ, Rheinboldt WC (1994) On Impasse Points of Quasilinear Differential-Algebraic Equations. Journal of Mathematical Analysis and Applications 181(2):429–454. https://doi.org/10.1006/jmaa.1994.103 -- [10.1006/jmaa.1994.1033](https://doi.org/10.1006/jmaa.1994.1033)
 - Steinbrecher, (2006)
 - Kunkel P, Mehrmann V (2006) Differential-Algebraic Equations. EMS Textbooks in Mathematic -- [10.4171/017](https://doi.org/10.4171/017)
@@ -100,7 +105,9 @@ differential-algebraic equations, discrete gradients, port-hamiltonian systems, 
 - Udwadia FE, Phohomsiri P (2006) Explicit equations of motion for constrained mechanical systems with singular mass matrices and applications to multi-body dynamics. Proc R Soc A 462(2071):2097–2117. https://doi.org/10.1098/rspa.2006.166 -- [10.1098/rspa.2006.1662](https://doi.org/10.1098/rspa.2006.1662)
 - Kinon, Conserving integration of multibody systems with singular and non-constant mass matrix including quaternion-based rigid body dynamics. Multibody Sys. Dyn. (2024)
 - Holm, (2009)
+- P.L. Kinon, GitHub repository: plkinon/phdae_discrete_gradients: v1.0.0, 2026, 10.5281/zenodo.15007241.
 - Gonzalez O, Simo JC (1996) On the stability of symplectic and energy-momentum algorithms for non-linear Hamiltonian systems with symmetry. Computer Methods in Applied Mechanics and Engineering 134(3–4):197–222. https://doi.org/10.1016/0045-7825(96)01009- -- [10.1016/0045-7825(96)01009-2](https://doi.org/10.1016/0045-7825(96)01009-2)
+- P.L. Kinon, J.K. Bauer, GitHub repository: pydykit/pydykit: v0.0.6, 2025, 10.5281/zenodo.14849865.
 - Jonasson, (2007)
 - Goursat, (1959)
 

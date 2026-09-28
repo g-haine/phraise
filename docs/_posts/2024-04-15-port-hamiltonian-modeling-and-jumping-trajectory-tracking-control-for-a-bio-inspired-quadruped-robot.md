@@ -68,11 +68,13 @@ Port-Hamiltonian with dissipation(pHd); Bio-inspired jumping robot; Dynamic mode
 - Yu, Hierarchical jumping optimization for hydraulic biped wheel-legged robots. Control Eng. Pract. (2023)
 - Qi, H. et al. Vertical Jump of a Humanoid Robot With CoP-Guided Angular Momentum Control and Impact Absorption. IEEE Transactions on Robotics vol. 39 3154–3166 (2023) -- [10.1109/tro.2023.3271136](https://doi.org/10.1109/tro.2023.3271136)
 - Niiyama, R., Nagakubo, A. & Kuniyoshi, Y. Mowgli: A Bipedal Jumping and Landing Robot with an Artificial Musculoskeletal System. Proceedings 2007 IEEE International Conference on Robotics and Automation (2007) doi:10.1109/robot.2007.363848 -- [10.1109/robot.2007.363848](https://doi.org/10.1109/robot.2007.363848)
+- https://www.festo.com/group/en/cms/10219.htm.
 - Woodward, M. A. & Sitti, M. MultiMo-Bat: A biologically inspired integrated jumping–gliding robot. The International Journal of Robotics Research vol. 33 1511–1529 (2014) -- [10.1177/0278364914541301](https://doi.org/10.1177/0278364914541301)
 - Wang, M., Zang, X., Fan, J. & Zhao, J. Biological Jumping Mechanism Analysis and Modeling for Frog Robot. Journal of Bionic Engineering vol. 5 181–188 (2008) -- [10.1016/s1672-6529(08)60023-2](https://doi.org/10.1016/s1672-6529(08)60023-2)
 - Yu, X. & Iida, F. Minimalistic Models of an Energy-Efficient Vertical-Hopping Robot. IEEE Transactions on Industrial Electronics vol. 61 1053–1062 (2014) -- [10.1109/tie.2013.2266080](https://doi.org/10.1109/tie.2013.2266080)
 - Zhang, J. et al. Structural-Parameter-Based Jumping-Height-and-Distance Adjustment and Obstacle Sensing of a Bio-Inspired Jumping Robot. International Journal of Advanced Robotic Systems vol. 12 (2015) -- [10.5772/60579](https://doi.org/10.5772/60579)
 - Park, H.-W., Wensing, P. & Kim, S. Online Planning for Autonomous Running Jumps Over Obstacles in High-Speed Quadrupeds. Robotics: Science and Systems XI (2015) doi:10.15607/rss.2015.xi.047 -- [10.15607/rss.2015.xi.047](https://doi.org/10.15607/rss.2015.xi.047)
+- H. Michalska, M. Ahmadi, M. Buehler, Vertical motion control of a hopping robot, in: IEEE International Conference on Robotics and Automation, ICRA, 1996.
 - Chignoli, (2021)
 - Arnold, (1989)
 - Siuka, (2011)

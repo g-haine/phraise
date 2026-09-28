@@ -51,6 +51,8 @@ Nonlinear control; Passivity; Stabilization of nonlinear systems; Hamiltonian sy
 [Download the bib file]({{ site.baseurl }}/assets/bib/interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems.bib)
  
 ## References
+- Astolfi, A., Chhabra, D., & Ortega, R. (2001). Asymptotic stabilization of selected equilibria of the underactuated Kirchhoff's equations. Systems and Control Letters, to appear. See also: ACC 2001, Arlington, VA, USA, June 25–27.
+- Blankenstein, G., Ortega, R., & van der Schaft, A. J. (2001). The matching conditions of controlled Lagrangians and interconnection assignment passivity based control, LSS Int. Report, May. To appear in International Journal of Control.
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Transactions on Automatic Control vol. 45 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
@@ -58,12 +60,16 @@ Nonlinear control; Passivity; Stabilization of nonlinear systems; Hamiltonian sy
 - Marsden, (1994)
 - [Maschke, B., Ortega, R. & Van Der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Transactions on Automatic Control vol. 45 1498–1502 (2000)](energy-based-lyapunov-functions-for-forced-hamiltonian-systems-with-dissipation) -- [10.1109/9.871758](https://doi.org/10.1109/9.871758)
 - Nijmeijer, (1990)
+- Ortega, R., Astolfi, A., Bastin, G., & Rodriguez, H. (1999). Output feedback stabilization of mass–balance systems. In: H. Nijmeijer & T. Fossen (Eds.), Output-feedback stabilization of nonlinear systems. Berlin: Springer (see also Proceedings 2000 ACC, Chicago, IL, June 28–30, 2000).
+- Ortega, R., Galaz, M., Bazanella, A., & Stankovic, A. (2001). An energy-shaping approach to excitation control of synchronous generators. ACC 2001, Arlington, VA, USA, June 25–27.
 - Ortega, R. & Spong, M. W. Adaptive motion control of rigid robots: A tutorial. Automatica vol. 25 877–888 (1989) -- [10.1016/0005-1098(89)90054-x](https://doi.org/10.1016/0005-1098(89)90054-x)
 - Ortega, R. & Spong, M. W. Stabilization of Underactuated Mechanical Systems Via Interconnection and Damping Assignment. IFAC Proceedings Volumes vol. 33 69–74 (2000) -- [10.1016/s1474-6670(17)35549-0](https://doi.org/10.1016/s1474-6670(17)35549-0)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Ortega, R., Loria, A., Kelly, R., & Praly, L. (1995). On output feedback global stabilization of Euler–Lagrange systems. International Journal of Robust and Nonlinear Cont. In: H. Nijmeijer & A. van der Schaft (Eds.), Special Issue on Mechanical Systems. Vol. 5, No. 4 (pp. 313–324).
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - Ortega, R., Petrovic, V. & Stankovic, A. Extending passivity-based control beyond mechanics: a synchronous motor example. auto vol. 48 106 (2000) -- [10.1524/auto.2000.48.3.106](https://doi.org/10.1524/auto.2000.48.3.106)
 - Rodriguez, H., Ortega, R., Escobar, G. & Barabanov, N. A robustly stable output feedback saturated controller for the boost DC-to-DC converter. Systems &amp; Control Letters vol. 40 1–8 (2000) -- [10.1016/s0167-6911(99)00113-9](https://doi.org/10.1016/s0167-6911(99)00113-9)
+- Rodriguez, H., Ortega, R., & Mareels, I. (2000). Nonlinear control of magnetic levitation systems via energy-balancing. ACC 2000, Chicago, IL, June 28–30.
 - [Stramigioli, S., Maschke, B. & van der Schaft, A. Passive Output Feedback and Port Interconnection. IFAC Proceedings Volumes vol. 31 591–596 (1998)](passive-output-feedback-and-port-interconnection) -- [10.1016/s1474-6670(17)40401-0](https://doi.org/10.1016/s1474-6670(17)40401-0)
 - van der Schaft, (1999)
 

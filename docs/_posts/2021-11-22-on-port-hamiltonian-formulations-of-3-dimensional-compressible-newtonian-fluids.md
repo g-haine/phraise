@@ -86,6 +86,7 @@ In this manuscript, a general formulation of 3-dimensional compressible fluids b
 - Bhuvan, C. H., Hiranandani, K., Aravind, B., Nair, V. & Kumar, S. Novel flame dynamics in rich mixture of premixed propane–air in a planar microcombustor. Physics of Fluids vol. 32 (2020) -- [10.1063/5.0020518](https://doi.org/10.1063/5.0020518)
 - Modeling and Control of Complex Physical Systems (2009)
 - Transport Phenomena (2007)
+- F. L. Cardoso-Ribeiro, “Port-Hamiltonian modeling and control of a fluid-structure system: Application to sloshing phenomena in a moving container coupled to a flexible structure,” Doctoral thesis (Université Fédérale Toulouse Midi-Pyrénées, 2016).
 - [Cardoso-Ribeiro, F. L., Matignon, D. & Pommier-Budinger, V. Port-Hamiltonian model of two-dimensional shallow water equations in moving containers. IMA Journal of Mathematical Control and Information vol. 37 1348–1366 (2020)](port-hamiltonian-model-of-two-dimensional-shallow-water-equations-in-moving-containers) -- [10.1093/imamci/dnaa016](https://doi.org/10.1093/imamci/dnaa016)
 - A Mathematical Introduction to Fluid Mechanics (1993)
 - Least-Squares Finite Element Methods (2009)

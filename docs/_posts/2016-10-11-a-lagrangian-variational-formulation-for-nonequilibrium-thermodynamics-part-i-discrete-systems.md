@@ -80,12 +80,14 @@ Lagrangian formulation; Nonequilibrium thermodynamics; Variational formulation; 
 - [Jiménez, F. & Yoshimura, H. Dirac structures in vakonomic mechanics. Journal of Geometry and Physics 94, 158–178 (2015)](dirac-structures-in-vakonomic-mechanics) -- [10.1016/j.geomphys.2014.11.002](https://doi.org/10.1016/j.geomphys.2014.11.002)
 - Chetaev, On Gauss principle. Izv. Fiz-Mat. Obsc. Kazan Univ. (1934)
 - Appell, Sur les liaisons exprimées par des relations non linéaires entre les vitesses. C. R. Math. Acad. Sci. Paris (1911)
+- Y. Pironneau, Sur les liaisons non holonomes non linéaires, déplacements virtuels à travail nul, conditions de Chetaev, in: Proceedings of the IUTAM-ISIMM Symposium on Modern Developments in Analytical Mechanics, Torino 1982, Atti della Acad. della sc. di Torino, vol. 117, 1983, pp. 671–686.
 - Marle, C.-M. Various approaches to conservative and nonconservative nonholonomic systems. Reports on Mathematical Physics 42, 211–229 (1998) -- [10.1016/s0034-4877(98)80011-6](https://doi.org/10.1016/s0034-4877(98)80011-6)
 - Cendra, H., Ibort, A., de León, M. & Martı́n de Diego, D. A generalization of Chetaev’s principle for a class of higher order nonholonomic constraints. Journal of Mathematical Physics 45, 2785–2801 (2004) -- [10.1063/1.1763245](https://doi.org/10.1063/1.1763245)
 - Gruber, (1997)
 - Chua, L. & McPherson, J. Explicit topological formulation of Lagrangian and Hamiltonian equations for nonlinear networks. IEEE Trans. Circuits Syst. 21, 277–286 (1974) -- [10.1109/tcs.1974.1083849](https://doi.org/10.1109/tcs.1974.1083849)
 - [Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part I: Implicit Lagrangian systems. Journal of Geometry and Physics 57, 133–156 (2006)](dirac-structures-in-lagrangian-mechanics-part-i-implicit-lagrangian-systems) -- [10.1016/j.geomphys.2006.02.009](https://doi.org/10.1016/j.geomphys.2006.02.009)
 - Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part II: Variational structures. Journal of Geometry and Physics 57, 209–250 (2006) -- [10.1016/j.geomphys.2006.02.012](https://doi.org/10.1016/j.geomphys.2006.02.012)
+- H. Yoshimura, J.E. Marsden, Dirac structures and implicit Lagrangian systems in electric networks, in: Proc. of the 17th International Symposium on Mathematical Theory of Networks and Systems, Paper WeA08.5, Kyoto, July 24–28, 2006, pp. 1–6.
 - Oster, G. F., Perelson, A. S. & Katchalsky, A. Network thermodynamics: dynamic modelling of biophysical systems. Quart. Rev. Biophys. 6, 1–134 (1973) -- [10.1017/s0033583500000081](https://doi.org/10.1017/s0033583500000081)
 - von Helmholtz, Studien zur Statik monocyklischer Systeme. (1884)
 - Podio-Guidugli, P. A virtual power format for thermomechanics. Continuum Mech. Thermodyn. 20, 479–487 (2009) -- [10.1007/s00161-009-0093-5](https://doi.org/10.1007/s00161-009-0093-5)

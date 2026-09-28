@@ -55,6 +55,7 @@ graph neural networks, long-range coordination, multi-agent reinforcement learni
 - Bettini, BenchMARL: Benchmarking multi-agent reinforcement learning. Journal of Machine Learning Research (2024)
 - Blankenstein G, Ortega R, Van Der Schaft AJ (2002) The matching conditions of controlled Lagrangians and IDA-passivity based control. International Journal of Control 75(9):645–665. https://doi.org/10.1080/0020717021013593 -- [10.1080/00207170210135939](https://doi.org/10.1080/00207170210135939)
 - Bohmer, Deep coordination graphs. (2020)
+- Cai, C., & Wang, Y. (2020). A note on over-smoothing for graph neural networks. arXiv: 2006.13318.
 - Cort&eacute;s J, Egerstedt M (2017) Coordinated Control of Multi-Robot Systems: A Survey. SICE Journal of Control, Measurement, and System Integration 10(6):495–503. https://doi.org/10.9746/jcmsi.10.49 -- [10.9746/jcmsi.10.495](https://doi.org/10.9746/jcmsi.10.495)
 - Cuomo S, Di Cola VS, Giampaolo F, Rozza G, Raissi M, Piccialli F (2022) Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next. J Sci Comput 92(3). https://doi.org/10.1007/s10915-022-01939- -- [10.1007/s10915-022-01939-z](https://doi.org/10.1007/s10915-022-01939-z)
 - Ellis, SMACv2: An improved benchmark for cooperative multi-agent reinforcement learning. Advances in Neural Information Processing Systems (2024)
@@ -71,6 +72,7 @@ graph neural networks, long-range coordination, multi-agent reinforcement learni
 - Huang, Collision avoidance and navigation for a quadrotor swarm using end-to-end deep reinforcement learning. (2024)
 - Kim S, Santos M, Guerrero-Bonilla L, Yezzi A, Egerstedt M (2022) Coverage Control of Mobile Robots With Different Maximum Speeds for Time-Sensitive Applications. IEEE Robot Autom Lett 7(2):3001–3007. https://doi.org/10.1109/lra.2022.314659 -- [10.1109/lra.2022.3146593](https://doi.org/10.1109/lra.2022.3146593)
 - Kipf, Semi-supervised classification with graph convolutional networks. (2017)
+- Kortvelesy, R., & Prorok, A. (2022). QGNN: Value function factorisation with graph neural networks. arXiv: 2205.13005.
 - Li, Multipole graph neural operator for parametric partial differential equations. (2020)
 - Lo, Cheap talk discovery and utilization in multi-agent reinforcement learning. (2023)
 - Long, Towards optimally decentralized multi-robot collision avoidance via deep reinforcement learning. (2018)
@@ -80,7 +82,9 @@ graph neural networks, long-range coordination, multi-agent reinforcement learni
 - Nayak, Scalable multi-agent reinforcement learning through intelligent information aggregation. (2023)
 - Neary, Compositional learning of dynamical system models using port-Hamiltonian neural networks. (2023)
 - Nghiem, Physics-informed machine learning for modeling and control of dynamical systems. (2023)
+- Oono, K., & Suzuki, T. (2019). Graph neural networks exponentially lose expressive power for node classification. arXiv: 1905.10947.
 - Oroojlooy A, Hajinezhad D (2022) A review of cooperative multi-agent deep reinforcement learning. Appl Intell 53(11):13677–13722. https://doi.org/10.1007/s10489-022-04105- -- [10.1007/s10489-022-04105-y](https://doi.org/10.1007/s10489-022-04105-y)
+- Papoudakis, G., Christianos, F., Rahman, A., & Albrecht, S. V. (2019). Dealing with non-stationarity in multi-agent deep reinforcement learning. arXiv: 1906.04737.
 - Peng, FACMAC: Factored multi-agent centralised policy gradients. (2021)
 - Peng J, Viswanath H, Bera A (2024) Graph-Based Decentralized Task Allocation for Multi-Robot Target Localization. IEEE Robot Autom Lett 9(11):10676–10683. https://doi.org/10.1109/lra.2024.347501 -- [10.1109/lra.2024.3475013](https://doi.org/10.1109/lra.2024.3475013)
 - Pickem, The Robotarium: A remotely accessible swarm robotics research testbed. (2017)
@@ -90,6 +94,7 @@ graph neural networks, long-range coordination, multi-agent reinforcement learni
 - Rashid, Qmix: Monotonic value function factorisation for deep multi-agent deep reinforcement learning. (2018)
 - Rodwell C, Tallapragada P (2023) Physics-informed reinforcement learning for motion control of a fish-like swimming robot. Sci Rep 13(1). https://doi.org/10.1038/s41598-023-36399- -- [10.1038/s41598-023-36399-4](https://doi.org/10.1038/s41598-023-36399-4)
 - [Roth FJ, Klein DK, Kannapinn M, Peters J, Weeger O (2025) Stable Port-Hamiltonian Neural Networks. Advances in Neural Information Processing Systems 38 56483–5650](stable-port-hamiltonian-neural-networks) -- [10.52202/085713-1693](https://doi.org/10.52202/085713-1693)
+- Rusch, T. K., Bronstein, M. M., & Mishra, S. (2023). A survey on oversmoothing in graph neural networks. arXiv: 2303.10993.
 - Sanyal, Ramp-Net: A robust adaptive mpc for quadrotors via physics-informed neural network. (2023)
 - [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [Schaft AJ (2004) Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems. Advanced Dynamics and Control of Structures and Machines 127–16](port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems) -- [10.1007/978-3-7091-2774-2_9](https://doi.org/10.1007/978-3-7091-2774-2_9)

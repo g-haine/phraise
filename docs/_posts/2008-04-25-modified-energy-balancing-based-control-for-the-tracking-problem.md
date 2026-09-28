@@ -45,6 +45,7 @@ The authors extend energy-balancing-based control for set-point regulation to th
 ## References
 - Ortega, R. & Spong, M. W. Adaptive motion control of rigid robots: A tutorial. Automatica 25, 877–888 (1989) -- [10.1016/0005-1098(89)90054-x](https://doi.org/10.1016/0005-1098(89)90054-x)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- Marquez, H.: ‘Nonlinear control systems: analysis and design’, (John Wiley 2003)
 - Gokdere, Proc. IEEE Int. Conf. Control Application (1997)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - Ortega, Proc. American Control Conf. (2000)
@@ -60,5 +61,7 @@ The authors extend energy-balancing-based control for set-point regulation to th
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Fujimoto, Proc. American Control Conf. (2002)
 - Zenkov, Proc. 42nd IEEE, CDC (2003)
+- Kelly, R., Santibanez, V., and Loría, A.: ‘Control of robot manipulators in joint space’, (Springer 2005)
+- Craig, J.J.: ‘Introduction to robotics: mechanics and control’, 1st(Addison-Wesley, Reading, Mass 1986)
 - Slotine, J.-J. E. & Weiping Li. On the Adaptive Control of Robot Manipulators. The International Journal of Robotics Research 6, 49–59 (1987) -- [10.1177/027836498700600303](https://doi.org/10.1177/027836498700600303)
 

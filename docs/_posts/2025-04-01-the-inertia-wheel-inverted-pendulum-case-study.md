@@ -79,6 +79,7 @@ dynamic model, experimental setup, implementation issues, inertia wheel, mechani
 - Ratheesh, Field-oriented control for performance improvement in reaction wheels and implementation of algorithm in FPGA. (2023)
 - Mehrjardi, Developing a proposed satellite reaction wheel model with current mode control. (2015)
 - Cheon, Satellite actuator balancing based on the disturbance measurement table data. Renewable Energy and Power Quality Journal (2012)
+- A. Schaft, D. Jeltsema, Port-Hamiltonian Systems Theory: an Introductory Overview. Now Foundations and Trends, 2014.
 - [Mattioni A, Wu Y, Ramirez H, Gorrec YL, Macchelli A (2018) Modelling and control of a class of lumped beam with distributed control. IFAC-PapersOnLine 51(3):217–222. https://doi.org/10.1016/j.ifacol.2018.06.05](modelling-and-control-of-a-class-of-lumped-beam-with-distributed-control) -- [10.1016/j.ifacol.2018.06.057](https://doi.org/10.1016/j.ifacol.2018.06.057)
 - Harandi, Robust IDA-PBC for a spatial underactuated cable driven robot with bounded inputs. (2021)
 - Zhou, Energy-based trajectory tracking control of under-actuated unmanned surface vessels. Ocean Engineering (2023)

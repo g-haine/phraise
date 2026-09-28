@@ -65,9 +65,11 @@ Dirac structure; Composition; Boundary triplet; Boundary colligation; Impedance 
 - Derkach, V. A. & Malamud, M. M. The extension theory of Hermitian operators and the moment problem. J Math Sci 73, 141–242 (1995) -- [10.1007/bf02367240](https://doi.org/10.1007/bf02367240)
 - Dorfman, Dirac structures and integrability of nonlinear evolution equations. (1993)
 - Godlewski, Numerical Approximation of Hyperbolic Systems of Conservation Laws. (1996)
+- G. Golo, Interconnection structures in port-based modelling: tools for analysis and simulation, PhD thesis, Twente University Press, 2002, available at http://doc.utwente.nl/.
 - Gorbachuk, Boundary Value Problems for Operator Differential Equations. (1991)
 - Kato, T. Perturbation Theory for Linear Operators. Classics in Mathematics (Springer Berlin Heidelberg, 1995). doi:10.1007/978-3-642-66282-9 -- [10.1007/978-3-642-66282-9](https://doi.org/10.1007/978-3-642-66282-9)
 - Kurula, M. On Passive and Conservative State/Signal Systems. Integr. Equ. Oper. Theory 67, 377–424 (2010) -- [10.1007/s00020-010-1787-6](https://doi.org/10.1007/s00020-010-1787-6)
+- M. Kurula, Towards input/output-free modelling of linear infinite-dimensional systems in continuous time, PhD thesis, 2010, available at http://users.abo.fi/mkurula/.
 - Kurula, M. & Staffans, O. J. Well-Posed State/Signal Systems in Continuous Time. Complex Anal. Oper. Theory 4, 319–390 (2009) -- [10.1007/s11785-009-0021-5](https://doi.org/10.1007/s11785-009-0021-5)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM J. Control Optim. 44, 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Malinen, J. & Staffans, O. J. Impedance Passive and Conservative Boundary Control Systems. Complex anal.oper.theory 1, 279–300 (2007) -- [10.1007/s11785-006-0009-3](https://doi.org/10.1007/s11785-006-0009-3)
@@ -78,5 +80,6 @@ Dirac structure; Composition; Boundary triplet; Boundary colligation; Impedance 
 - van der Schaft, Interconnection and geometry. (1999)
 - van der Schaft, L2-Gain and Passivity Techniques in Nonlinear Control. (2000)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42, 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- J.A. Villegas, A port-Hamiltonian approach to distributed parameter systems, PhD thesis, May 2007, available at http://doc.utwente.nl/.
 - Zhou, (1996)
 

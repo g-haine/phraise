@@ -57,8 +57,10 @@ Port-Hamiltonian system; Passivity; Nonnegativity; Kalman–Yakubovich–Popov i
  
 ## References
 - H Abou-Kandil, Matrix Riccati equations in control and systems theory (2012)
+- Achleitner F, Arnold A, Mehrmann V, Nigsch EA (2025) Long- and short-time behavior of hypocoercive evolution equations via modal decompositions. Oper Theory Adv Appl (to appear)
 - Anderson, B. & Moylan, P. Synthesis of linear time-varying passive networks. IEEE Trans. Circuits Syst. 21, 678–687 (1974) -- [10.1109/tcs.1974.1083926](https://doi.org/10.1109/tcs.1974.1083926)
 - Bayan, N. & Erfani, S. Frequency analysis of linear time-varying systems: a new perspective. 48th Midwest Symposium on Circuits and Systems, 2005. 1494-1497 Vol. 2 (2005) doi:10.1109/mwscas.2005.1594396 -- [10.1109/mwscas.2005.1594396](https://doi.org/10.1109/mwscas.2005.1594396)
+- Beattie C, Mehrmann V, Xu H (2022) Port-Hamiltonian realizations of linear time invariant systems. Preprint arXiv:2201.05355
 - [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Math. Control Signals Syst. 30, (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)
 - Benner, P. & Mena, H. Rosenbrock Methods for Solving Riccati Differential Equations. IEEE Trans. Automat. Contr. 58, 2950–2956 (2013) -- [10.1109/tac.2013.2258495](https://doi.org/10.1109/tac.2013.2258495)
 - S Boyd, Linear matrix inequalities in systems and control theory (1994)
@@ -80,6 +82,7 @@ Port-Hamiltonian system; Passivity; Nonnegativity; Kalman–Yakubovich–Popov i
 - Forbes, J. R. & Damaren, C. J. Passive linear time-varying systems: State-space realizations, stability in feedback, and controller synthesis. Proceedings of the 2010 American Control Conference 1097–1104 (2010) doi:10.1109/acc.2010.5530792 -- [10.1109/acc.2010.5530792](https://doi.org/10.1109/acc.2010.5530792)
 - [Gernandt, H., Philipp, F. M., Preuster, T. & Schaller, M. On the Equivalence of Geometric and Descriptor Representations of Linear Port-Hamiltonian Systems. Trends in Mathematics 149–165 (2024) doi:10.1007/978-3-031-64991-2_6](on-the-equivalence-of-geometric-and-descriptor-representations-of-linear-port-hamiltonian-systems) -- [10.1007/978-3-031-64991-2_6](https://doi.org/10.1007/978-3-031-64991-2_6)
 - H Gernandt, IEEE Trans Transport Electrif (2024)
+- Henrici P (1993) Applied and computational complex analysis, volume 3: discrete Fourier analysis, Cauchy integrals, construction of conformal maps, univalent functions, vol 41. Wiley
 - Hill, D. J. & Moylan, P. J. Dissipative Dynamical Systems: Basic Input-Output and State Properties. Journal of the Franklin Institute 309, 327–357 (1980) -- [10.1016/0016-0032(80)90026-5](https://doi.org/10.1016/0016-0032(80)90026-5)
 - A Ilchmann, Contributions to time-varying linear control systems (1989)
 - Jikuya, I. & Hodaka, I. Kalman Canonical Decomposition of Linear Time-Varying Systems. SIAM J. Control Optim. 52, 274–310 (2014) -- [10.1137/120873455](https://doi.org/10.1137/120873455)
@@ -99,6 +102,8 @@ Port-Hamiltonian system; Passivity; Nonnegativity; Kalman–Yakubovich–Popov i
 - [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica 32, 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)
 - [Mehrmann, V. & van der Schaft, A. Differential–algebraic systems with dissipative Hamiltonian structure. Math. Control Signals Syst. 35, 541–584 (2023)](differential-algebraic-systems-with-dissipative-hamiltonian-structure) -- [10.1007/s00498-023-00349-2](https://doi.org/10.1007/s00498-023-00349-2)
 - MOORE, J. B. & ANDERSON, B. D. O. Extensions of quadratic minimization theory I. Finite time results. International Journal of Control 7, 465–472 (1968) -- [10.1080/00207176808905631](https://doi.org/10.1080/00207176808905631)
+- Morandin R (2024) Modeling and numerical treatment of port-Hamiltonian descriptor systems. PhD thesis, TU Berlin
+- Morandin R, Hinsen D (2024) Dissipative energy functionals of passive linear time-varying systems. arXiv:2412.16347
 - Plastino, A. R. & Muzzio, J. C. On the use and abuse of Newton’s second law for variable mass problems. Celestial Mech Dyn Astr 53, 227–232 (1992) -- [10.1007/bf00052611](https://doi.org/10.1007/bf00052611)
 - VD Ponomarev, Math Notes Acad Sci USSR (1977)
 - VM Popov, Studii şi Cercetări de Energetică şi Electrotehnică (1959)
@@ -116,5 +121,6 @@ Port-Hamiltonian system; Passivity; Nonnegativity; Kalman–Yakubovich–Popov i
 - [van der Schaft, A. & Jeltsema, D. On Energy Conversion in Port-Hamiltonian Systems. 2021 60th IEEE Conference on Decision and Control (CDC) 2421–2427 (2021) doi:10.1109/cdc45484.2021.9683292](on-energy-conversion-in-port-hamiltonian-systems) -- [10.1109/cdc45484.2021.9683292](https://doi.org/10.1109/cdc45484.2021.9683292)
 - Vidyasagar, M. Nonlinear Systems Analysis. (2002) doi:10.1137/1.9780898719185 -- [10.1137/1.9780898719185](https://doi.org/10.1137/1.9780898719185)
 - Willems, J. C. Dissipative dynamical systems Part II: Linear systems with quadratic supply rates. Arch. Rational Mech. Anal. 45, 352–393 (1972) -- [10.1007/bf00276494](https://doi.org/10.1007/bf00276494)
+- Yakubovich VA (1962) The solution of certain matrix inequalities. Automat Remote Control (translated from Avtomat. i Telemekh.) 3:620–623. (Originally in Russian)
 - Zadeh, L. A. Frequency Analysis of Variable Networks. Proc. IRE 38, 291–299 (1950) -- [10.1109/jrproc.1950.231083](https://doi.org/10.1109/jrproc.1950.231083)
 

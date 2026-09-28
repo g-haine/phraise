@@ -60,9 +60,11 @@ Robot dynamics; Control by interconnection; Locomotion; Numerical simulation; Po
 - Duindam, (2009)
 - Fasse, E. D. & Breedveld, P. C. Modeling of Elastically Coupled Bodies: Part II—Exponential and Generalized Coordinate Methods. Journal of Dynamic Systems, Measurement, and Control vol. 120 501–506 (1998) -- [10.1115/1.2801492](https://doi.org/10.1115/1.2801492)
 - Gilardi, G. & Sharf, I. Literature survey of contact dynamics modelling. Mechanism and Machine Theory vol. 37 1213–1239 (2002) -- [10.1016/s0094-114x(02)00045-9](https://doi.org/10.1016/s0094-114x(02)00045-9)
+- Haueisen, B., 2011. Investigation of an Articulated Spine in a Quadruped Robotic System. Phd thesis, University of Michigan.
 - Iida, Exploiting body dynamics for controlling a running quadruped robot. (2005)
 - Ijspeert, A. J., Crespi, A., Ryczko, D. & Cabelguen, J.-M. From Swimming to Walking with a Salamander Robot Driven by a Spinal Cord Model. Science vol. 315 1416–1420 (2007) -- [10.1126/science.1138353](https://doi.org/10.1126/science.1138353)
 - Maheshwari, Resonance based multi-gaited robot locomotion.. (2012)
+- Controllab Products B.V. 2014. 20-sim. http://www.20sim.com/.
 - Pfeifer, R., Lungarella, M. & Iida, F. Self-Organization, Embodiment, and Biologically Inspired Robotics. Science vol. 318 1088–1093 (2007) -- [10.1126/science.1145803](https://doi.org/10.1126/science.1145803)
 - Poulakakis, I., Papadopoulos, E. & Buehler, M. On the Stability of the Passive Dynamics of Quadrupedal Running with a                 Bounding Gait. The International Journal of Robotics Research vol. 25 669–687 (2006) -- [10.1177/0278364906066768](https://doi.org/10.1177/0278364906066768)
 - Pouya, Role of Spine Compliance and Actuation in the Bounding Performance of Quadruped Robots. (2012)

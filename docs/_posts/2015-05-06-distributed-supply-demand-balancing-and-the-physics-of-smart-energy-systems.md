@@ -54,7 +54,9 @@ Smart energy; Distributed control; Dual decomposition; Market structure; Energy 
 ## References
 - Alizadeh, M., Scaglione, A. & Kesidis, G. Scalable model predictive control of demand for ancillary services. 2013 IEEE International Conference on Smart Grid Communications (SmartGridComm) 684–689 (2013) doi:10.1109/smartgridcomm.2013.6688038 -- [10.1109/smartgridcomm.2013.6688038](https://doi.org/10.1109/smartgridcomm.2013.6688038)
 - Alkano, D., Kuiper, I. & Scherpen, J. M. A. Distributed MPC for Power-to-Gas facilities embedded in the energy grids. 2015 European Control Conference (ECC) 1474–1479 (2015) doi:10.1109/ecc.2015.7330747 -- [10.1109/ecc.2015.7330747](https://doi.org/10.1109/ecc.2015.7330747)
+- D. Alkano, W.J. Nefkens, J.M.A. Scherpen, M. Volkerts, Optimal control in a micro gas grid of prosumers using model predictive control, in: Proceedings of 21st International Symposium on Mathematical Theory of Networks and Systems (MTNS2014), Groningen, The Netherlands, July 2014, pp. 592–598.
 - Massoud Amin, S. Smart Grid: Overview, Issues and Opportunities. Advances and Challenges in Sensing, Modeling, Simulation, Optimization and Control. European Journal of Control vol. 17 547–567 (2011) -- [10.3166/ejc.17.547-567](https://doi.org/10.3166/ejc.17.547-567)
+- V. Bakker, Triana: a control strategy for smart grids: Forecasting, planning and real-time control (Ph.D. thesis), University of Twente, 2012.
 - Beaudin, M., Zareipour, H., Schellenberglabe, A. & Rosehart, W. Energy storage for mitigating the variability of renewable electricity sources: An updated review. Energy for Sustainable Development vol. 14 302–314 (2010) -- [10.1016/j.esd.2010.09.007](https://doi.org/10.1016/j.esd.2010.09.007)
 - Bemporad, A. & Morari, M. Control of systems integrating logic, dynamics, and constraints. Automatica vol. 35 407–427 (1999) -- [10.1016/s0005-1098(98)00178-2](https://doi.org/10.1016/s0005-1098(98)00178-2)
 - Bergen, A. R. & Hill, D. J. A Structure Preserving Model for Power System Stability Analysis. IEEE Transactions on Power Apparatus and Systems vol. PAS-100 25–35 (1981) -- [10.1109/tpas.1981.316883](https://doi.org/10.1109/tpas.1981.316883)
@@ -65,22 +67,34 @@ Smart energy; Distributed control; Dual decomposition; Market structure; Energy 
 - Dorfler, F., Simpson-Porco, J. W. & Bullo, F. Plug-and-play control and optimization in microgrids. 53rd IEEE Conference on Decision and Control 211–216 (2014) doi:10.1109/cdc.2014.7039383 -- [10.1109/cdc.2014.7039383](https://doi.org/10.1109/cdc.2014.7039383)
 - de Boer, H. S., Grond, L., Moll, H. & Benders, R. The application of power-to-gas, pumped hydro storage and compressed air energy storage in an electricity system at different wind power penetration levels. Energy vol. 72 360–370 (2014) -- [10.1016/j.energy.2014.05.047](https://doi.org/10.1016/j.energy.2014.05.047)
 - [Fiaz, S., Zonetti, D., Ortega, R., Scherpen, J. M. A. & van der Schaft, A. J. A port-Hamiltonian approach to power network modeling and analysis. European Journal of Control vol. 19 477–485 (2013)](a-port-hamiltonian-approach-to-power-network-modeling-and-analysis) -- [10.1016/j.ejcon.2013.09.002](https://doi.org/10.1016/j.ejcon.2013.09.002)
+- Geoplex Consortium, Modeling and control of complex physical systems, in: The Port Hamiltonian Approach, Communications and Control Engineering, Springer-Verlag, Berlin, 2009.
 - García-Canseco, E., Alvarez-Aguirre, A. & Scherpen, J. M. A. Modeling for control of a kinematic wobble-yoke Stirling engine. Renewable Energy vol. 75 808–817 (2015) -- [10.1016/j.renene.2014.10.038](https://doi.org/10.1016/j.renene.2014.10.038)
 - Giselsson, P., Doan, M. D., Keviczky, T., Schutter, B. D. & Rantzer, A. Accelerated gradient methods and dual decomposition in distributed model predictive control. Automatica vol. 49 829–833 (2013) -- [10.1016/j.automatica.2013.01.009](https://doi.org/10.1016/j.automatica.2013.01.009)
 - Giselsson, P. & Rantzer, A. On Feasibility, Stability and Performance in Distributed Model Predictive Control. IEEE Transactions on Automatic Control vol. 59 1031–1036 (2014) -- [10.1109/tac.2013.2285779](https://doi.org/10.1109/tac.2013.2285779)
 - Gkatzikis, L., Koutsopoulos, I. & Salonidis, T. The Role of Aggregators in Smart Grid Demand Response Markets. IEEE Journal on Selected Areas in Communications vol. 31 1247–1257 (2013) -- [10.1109/jsac.2013.130708](https://doi.org/10.1109/jsac.2013.130708)
+- L. Grond, P. Schulze, J. Holstein, Systems Analysis Power-to-Gas, Technical Report, DNV GL Report, June 2013.
 - Houwing, M., Negenborn, R. R. & De Schutter, B. Demand Response With Micro-CHP Systems. Proceedings of the IEEE vol. 99 200–213 (2011) -- [10.1109/jproc.2010.2053831](https://doi.org/10.1109/jproc.2010.2053831)
+- M. Houwing, Smart heat and power, utilizing the flexibility of micro cogeneration (Ph.D. thesis), Delft University of Technology, 2010.
 - Jokic, A., van den Bosch, P. P. J. & Lazar, M. Distributed Price-based Optimal Control of Power Systems. 2007 IEEE International Conference on Control Applications 910–915 (2007) doi:10.1109/cca.2007.4389349 -- [10.1109/cca.2007.4389349](https://doi.org/10.1109/cca.2007.4389349)
 - Joo, J.-Y. & Ilic, M. D. Multi-Layered Optimization Of Demand Resources Using Lagrange Dual Decomposition. IEEE Transactions on Smart Grid vol. 4 2081–2088 (2013) -- [10.1109/tsg.2013.2261565](https://doi.org/10.1109/tsg.2013.2261565)
 - Khattak, A. R., Mahmud, S. A. & Khan, G. M. The Power to Deliver: Trends in Smart Grid Solutions. IEEE Power and Energy Magazine vol. 10 56–64 (2012) -- [10.1109/mpe.2012.2196336](https://doi.org/10.1109/mpe.2012.2196336)
+- K. Kok, The powermatcher: smart coordination for the smart electricity grid (Ph.D. thesis), VU University Amsterdam, 2013.
 - Kundur, (1993)
 - Iacovella, S. et al. Double-layered control methodology combining price objective and grid constraints. 2013 IEEE International Conference on Smart Grid Communications (SmartGridComm) 25–30 (2013) doi:10.1109/smartgridcomm.2013.6687928 -- [10.1109/smartgridcomm.2013.6687928](https://doi.org/10.1109/smartgridcomm.2013.6687928)
+- G.K.H. Larsen, Distributed control of a network with multiple electricity producers and consumers (Ph.D. thesis), University of Groningen, February 2014.
 - Larsen, G. K. H., Pons, J., Achterop, S. & Scherpen, J. M. A. Distributed MPC applied to power demand side control. 2013 European Control Conference (ECC) 3295–3300 (2013) doi:10.23919/ecc.2013.6669616 -- [10.23919/ecc.2013.6669616](https://doi.org/10.23919/ecc.2013.6669616)
 - Larsen, G. K. H., van Foreest, N. D. & Scherpen, J. M. A. Distributed Control of the Power Supply-Demand Balance. IEEE Transactions on Smart Grid vol. 4 828–836 (2013) -- [10.1109/tsg.2013.2242907](https://doi.org/10.1109/tsg.2013.2242907)
 - Larsen, G. K. H., van Foreest, N. D. & Scherpen, J. M. A. Power supply–demand balance in a Smart Grid: An information sharing model for a market mechanism. Applied Mathematical Modelling vol. 38 3350–3360 (2014) -- [10.1016/j.apm.2013.11.042](https://doi.org/10.1016/j.apm.2013.11.042)
 - Larsen, G. K. H., van Foreest, N. D. & Scherpen, J. M. A. Distributed MPC Applied to a Network of Households With Micro-CHP and Heat Storage. IEEE Transactions on Smart Grid vol. 5 2106–2114 (2014) -- [10.1109/tsg.2014.2318901](https://doi.org/10.1109/tsg.2014.2318901)
 - Molderink, A., Bakker, V., Bosman, M. G. C., Hurink, J. L. & Smit, G. J. M. Management and Control of Domestic Smart Grid Technology. IEEE Transactions on Smart Grid vol. 1 109–119 (2010) -- [10.1109/tsg.2010.2055904](https://doi.org/10.1109/tsg.2010.2055904)
+- N. Monshizadeh, C.D. Persis, Output Agreement in Networks With Unmatched Disturbances and Algebraic Constraints, Technical Report. 〈http://arxiv.org/abs/1504.03609〉[cs.SY], April 2015.
+- R.R. Negenborn, Multi-agent model predictive control With applications to power networks (Ph.D. thesis), Delft University of Technology, 2007.
+- D.B. Nguyen, J.M.A. Scherpen, F. Bliek, Distributed Model Predictive Control in the Universal Smart Energy Framework (submitted for publication).
+- J. Pons, Distributed model predictive control as control method in the Universal Smart Energy Framework (Master׳s thesis), University of Groningen, 2013
+- J. Paauw, B. Roossien, M.B.C. Aries, O. Guerra Santin, Energy pattern generator; understanding the effect of user behavior on energy systems, in: First European Conference Energy Efficiency and Behavior, Maastricht, the Netherlands, 2009.
+- J.L. Pons, Distributed control of electricity demand—the application of distributed model predictive control on a network of washing machines, (Master׳s thesis), University of Groningen, 2012.
 - Rantzer, A. Dynamic dual decomposition for distributed control. 2009 American Control Conference 884–888 (2009) doi:10.1109/acc.2009.5160224 -- [10.1109/acc.2009.5160224](https://doi.org/10.1109/acc.2009.5160224)
+- J. Ros, J. Oliveier, J. Notenboom, Sustainability of Biomass in a Biobased Economy, PBL Netherlands Environmental Assessment Agency, the Netherlands.
 - Ru, Storage size determination for grid-connected photovoltaic systems. IEEE Trans. Sustainable Energy (2013)
 - Simpson-Porco, J. W., Dörfler, F. & Bullo, F. Synchronization and power sharing for droop-controlled inverters in islanded microgrids. Automatica vol. 49 2603–2611 (2013) -- [10.1016/j.automatica.2013.05.018](https://doi.org/10.1016/j.automatica.2013.05.018)
 - Smith, J., Rylander, M., Rogers, L. & Dugan, R. It’s All in the Plans: Maximizing the Benefits and Minimizing the Impacts of DERs in an Integrated Grid. IEEE Power and Energy Magazine vol. 13 20–29 (2015) -- [10.1109/mpe.2014.2379855](https://doi.org/10.1109/mpe.2014.2379855)
@@ -89,4 +103,6 @@ Smart energy; Distributed control; Dual decomposition; Market structure; Energy 
 - West, (2010)
 - Woods, (1996)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- 〈http://flexines.org/〉2011.
+- 〈http://www.smartenergycollective.com〉.
 

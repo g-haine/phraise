@@ -57,8 +57,10 @@ multi-phase; non-linear; evolutionary equations; varying cross-sections; port-Ha
 ## References
 - Aarsnes, (2014)
 - [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- Bansal, H. (2020). Structure-preserving model order reduction for drilling automation. PhD thesis, Eindhoven University of Technology.
 - [Bansal, H. et al. Port-Hamiltonian formulation of two-phase flow models. Systems &amp; Control Letters vol. 149 104881 (2021)](port-hamiltonian-formulation-of-two-phase-flow-models) -- [10.1016/j.sysconle.2021.104881](https://doi.org/10.1016/j.sysconle.2021.104881)
 - [Chaturantabut, S., Beattie, C. & Gugercin, S. Structure-Preserving Model Reduction for Nonlinear Port-Hamiltonian Systems. SIAM Journal on Scientific Computing vol. 38 B837–B865 (2016)](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems) -- [10.1137/15m1055085](https://doi.org/10.1137/15m1055085)
+- de Wilde, H. (2015). Port-Hamiltonian discretization of gas pipeline networks. PhD thesis, University of Groningen.
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - Jacob, (2012)
 - Kotyczka, Weak form of Stokes-Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics (2018)

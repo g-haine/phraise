@@ -143,5 +143,6 @@ Friedrichs' systems; Model order reduction; Graph neural networks
 - Dalcin, L. & Fang, Y.-L. L. mpi4py: Status Update After 12 Years of Development. Computing in Science &amp; Engineering vol. 23 47–54 (2021) -- [10.1109/mcse.2021.3083216](https://doi.org/10.1109/mcse.2021.3083216)
 - Amestoy, P. R., Guermouche, A., L’Excellent, J.-Y. & Pralet, S. Hybrid scheduling for the parallel solution of linear systems. Parallel Computing vol. 32 136–156 (2006) -- [10.1016/j.parco.2005.07.004](https://doi.org/10.1016/j.parco.2005.07.004)
 - Fey, Fast graph representation learning with PyTorch geometric. (2019)
+- G. Karypis, V. Kumar, METIS: a Software Package for Partitioning Unstructured Graphs, Partitioning Meshes, and Computing Fill-Reducing Orderings of Sparse Matrices, 1998.
 - Kingma,
 

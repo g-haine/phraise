@@ -61,7 +61,9 @@ Passivity-based control; Port-Hamiltonian systems; Reinforcement learning; Robot
 - Grondman, I., Busoniu, L., Lopes, G. A. D. & Babuska, R. A Survey of Actor-Critic Reinforcement Learning: Standard and Natural Policy Gradients. IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) vol. 42 1291–1307 (2012) -- [10.1109/tsmcc.2012.2218595](https://doi.org/10.1109/tsmcc.2012.2218595)
 - Reinforcement learning is direct adaptive optimal control. IEEE Control Systems vol. 12 19–22 (1992) -- [10.1109/37.126844](https://doi.org/10.1109/37.126844)
 - Peters, Policy gradient methods for robotics. (2006)
+- Deisenroth M, Rasmussen CE. PILCO: a model-based and data-efficient approach to policy search. In: Proceedings of the 28th international conference on machine learning (ICML-11); 2011. p. 465–72.
 - Grondman, I., Vaandrager, M., Busoniu, L., Babuska, R. & Schuitema, E. Efficient Model Learning Methods for Actor–Critic Control. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics) vol. 42 591–602 (2012) -- [10.1109/tsmcb.2011.2170565](https://doi.org/10.1109/tsmcb.2011.2170565)
 - [Sprangers, O., Babuska, R., Nageshrao, S. P. & Lopes, G. A. D. Reinforcement Learning for Port-Hamiltonian Systems. IEEE Transactions on Cybernetics vol. 45 1017–1027 (2015)](reinforcement-learning-for-port-hamiltonian-systems) -- [10.1109/tcyb.2014.2343194](https://doi.org/10.1109/tcyb.2014.2343194)
+- Konidaris G, Osentoski S, Thomas P. Value function approximation in reinforcement learning using the Fourier basis. In: Computer Science Department Faculty Publication Series; 2008. p. 101.
 - [Dirksz, D. A. & Scherpen, J. M. A. Structure Preserving Adaptive Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 57 2880–2885 (2012)](structure-preserving-adaptive-control-of-port-hamiltonian-systems) -- [10.1109/tac.2012.2192359](https://doi.org/10.1109/tac.2012.2192359)
 

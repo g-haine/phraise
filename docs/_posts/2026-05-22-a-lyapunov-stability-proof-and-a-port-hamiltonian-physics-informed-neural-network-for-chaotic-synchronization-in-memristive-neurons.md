@@ -79,6 +79,7 @@ chaos, hamiltonian function, lyapunov function, memristive neurons, physics-info
 - Protachevicz PR, Hansen M, Iarosz KC, Caldas IL, Batista AM, Kurths J (2021) Emergence of Neuronal Synchronisation in Coupled Areas. Front Comput Neurosci 15. https://doi.org/10.3389/fncom.2021.66340 -- [10.3389/fncom.2021.663408](https://doi.org/10.3389/fncom.2021.663408)
 - Borges FS, Protachevicz PR, Lameu EL, Bonetti RC, Iarosz KC, Caldas IL, Baptista MS, Batista AM (2017) Synchronised firing patterns in a random network of adaptive exponential integrate-and-fire neuron model. Neural Networks 90:1–7. https://doi.org/10.1016/j.neunet.2017.03.00 -- [10.1016/j.neunet.2017.03.005](https://doi.org/10.1016/j.neunet.2017.03.005)
 - Raissi M, Perdikaris P, Karniadakis GE (2019) Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. Journal of Computational Physics 378:686–707. https://doi.org/10.1016/j.jcp.2018.10.04 -- [10.1016/j.jcp.2018.10.045](https://doi.org/10.1016/j.jcp.2018.10.045)
+- S. Wang, S. Sankaran, P. Perdikaris, Respecting causality is all you need for training physics-informed neural networks, 2022. https://doi.org/10.48550/arXiv.2203.07404. arXiv preprint arXiv: 2203.07404.
 - Cuomo S, Di Cola VS, Giampaolo F, Rozza G, Raissi M, Piccialli F (2022) Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next. J Sci Comput 92(3). https://doi.org/10.1007/s10915-022-01939- -- [10.1007/s10915-022-01939-z](https://doi.org/10.1007/s10915-022-01939-z)
 - Savaliya D, Yamakou ME (2026) Self-induced stochastic resonance: A physics-informed machine learning approach. Chaos, Solitons &amp; Fractals 207:117998. https://doi.org/10.1016/j.chaos.2026.11799 -- [10.1016/j.chaos.2026.117998](https://doi.org/10.1016/j.chaos.2026.117998)
 - Greydanus, Hamiltonian neural networks. (2019)
@@ -96,11 +97,16 @@ chaos, hamiltonian function, lyapunov function, memristive neurons, physics-info
 - Yamakou ME (2020) Chaotic synchronization of memristive neurons: Lyapunov function versus Hamilton function. Nonlinear Dyn 101(1):487–500. https://doi.org/10.1007/s11071-020-05715- -- [10.1007/s11071-020-05715-2](https://doi.org/10.1007/s11071-020-05715-2)
 - Zhang J, Li Z (2024) Switchable memristor-based Hindmarsh-Rose neuron under electromagnetic radiation. Nonlinear Dyn 112(8):6647–6662. https://doi.org/10.1007/s11071-024-09399- -- [10.1007/s11071-024-09399-w](https://doi.org/10.1007/s11071-024-09399-w)
 - Ma J, Wang Y, Wang C, Xu Y, Ren G (2017) Mode selection in electrical activities of myocardial cell exposed to electromagnetic radiation. Chaos, Solitons &amp; Fractals 99:219–225. https://doi.org/10.1016/j.chaos.2017.04.01 -- [10.1016/j.chaos.2017.04.016](https://doi.org/10.1016/j.chaos.2017.04.016)
+- J. Bradbury, R. Frostig, P. Hawkins, M.J. Johnson, C. Leary, D. Maclaurin, S. Wanderman-Milne, JAX: composable transformations of Python+NumPy programs, 2018, https://github.com/google/jax.
+- P. Kidger, Diffrax, 2023, https://github.com/patrick-kidger/diffrax. GitHub repository.
 - Tsitouras Ch (2011) Runge–Kutta pairs of order 5(4) satisfying only the first column simplifying assumption. Computers &amp; Mathematics with Applications 62(2):770–775. https://doi.org/10.1016/j.camwa.2011.06.00 -- [10.1016/j.camwa.2011.06.002](https://doi.org/10.1016/j.camwa.2011.06.002)
 - Krasovskii, (1963)
 - Kobe DH (1986) Helmholtz’s theorem revisited. American Journal of Physics 54(6):552–554. https://doi.org/10.1119/1.1456 -- [10.1119/1.14562](https://doi.org/10.1119/1.14562)
 - Wang, Calculation of Hamilton energy function of dynamical system by using Helmholtz theorem. Acta Phys. Sin. (2016)
 - Ma J, Wu F, Jin W, Zhou P, Hayat T (2017) Calculation of Hamilton energy and control of dynamical systems with different types of attractors. Chaos: An Interdisciplinary Journal of Nonlinear Science 27(5). https://doi.org/10.1063/1.498346 -- [10.1063/1.4983469](https://doi.org/10.1063/1.4983469)
+- Y.D. Zhong, B. Dey, A. Chakraborty, Symplectic ODE-Net: learning Hamiltonian dynamics with control, 2019, https://doi.org/10.48550/arXiv.1909.12077. 10.48550/arXiv.1909.12077.
 - Loshchilov, Decoupled weight decay regularization. (2019)
+- P. Kidger, Equinox: neural networks in JAX via functional programming, 2021, https://github.com/patrick-kidger/equinox.
 - Akiba, Optuna: a next-generation hyperparameter optimization framework. (2019)
+- Behnam2553, port-Hamiltonian-PINN-and-HR-neuron, 2025, https://github.com/Behnam2553/port-Hamiltonian-PINN-and-HR-neuron.git.
 

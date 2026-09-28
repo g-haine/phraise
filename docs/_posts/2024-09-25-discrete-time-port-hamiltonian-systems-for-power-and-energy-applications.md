@@ -58,6 +58,7 @@ Port-hamiltonian systems; pasivity-based control; power systems dynamics; contro
 - Bezanson, J., Edelman, A., Karpinski, S. & Shah, V. B. Julia: A Fresh Approach to Numerical Computing. SIAM Review vol. 59 65–98 (2017) -- [10.1137/141000671](https://doi.org/10.1137/141000671)
 - Boyd, (2004)
 - Butcher, (2008)
+- Garcés-Ruiz, A. (2024). Sistemas hamiltonianos con-trolados por puertos en forma discreta. github project:. https://github.com/alejandrogarces/JuliaScripts/tree/main/DiscretePH.
 - Garcés-Ruiz, A., Riffo, S., González-Castaño, C. & Restrepo, C. Model Predictive Control With Stability Guarantee for Second-Order DC/DC Converters. IEEE Transactions on Industrial Electronics vol. 71 5157–5165 (2024) -- [10.1109/tie.2023.3283706](https://doi.org/10.1109/tie.2023.3283706)
 - [Kotyczka, P. & Lefèvre, L. Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters vol. 133 104530 (2019)](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
 - Lin, W. & Byrnes, C. I. KYP lemma, state feedback and dynamic output feedback in discrete-time bilinear systems. Systems &amp; Control Letters vol. 23 127–136 (1994) -- [10.1016/0167-6911(94)90042-6](https://doi.org/10.1016/0167-6911(94)90042-6)

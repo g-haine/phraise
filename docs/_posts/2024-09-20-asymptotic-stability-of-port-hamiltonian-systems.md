@@ -58,5 +58,6 @@ Port-Hamiltonian systems; Stability; -Semigroup; Infinite-dimensional systems th
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - [Picard, R. H., Trostorff, S., Watson, B. & Waurick, M. A Structural Observation on Port-Hamiltonian Systems. SIAM Journal on Control and Optimization vol. 61 511–535 (2023)](a-structural-observation-on-port-hamiltonian-systems) -- [10.1137/21m1441365](https://doi.org/10.1137/21m1441365)
 - Seifert, C., Trostorff, S. & Waurick, M. Evolutionary Equations. Operator Theory: Advances and Applications (Springer International Publishing, 2022). doi:10.1007/978-3-030-89397-2 -- [10.1007/978-3-030-89397-2](https://doi.org/10.1007/978-3-030-89397-2)
+- S. Trostorff, M. Waurick, Characterisation for Exponential Stability of port-Hamiltonian Systems. Israel J. Math. (2024)
 - [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 

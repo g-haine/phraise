@@ -66,5 +66,6 @@ Distributed-parameter system; Nonlinear control; Observers; Asymptotic stability
 - Oostveen, Strongly stabilizable distributed parameter systems.. (2000)
 - [Ramirez, H., Zwart, H. & Le Gorrec, Y. Stabilization of infinite dimensional port-Hamiltonian systems by nonlinear dynamic boundary control. Automatica vol. 85 61–69 (2017)](stabilization-of-infinite-dimensional-port-hamiltonian-systems-by-nonlinear-dynamic-boundary-control) -- [10.1016/j.automatica.2017.07.045](https://doi.org/10.1016/j.automatica.2017.07.045)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- Villegas, J. (2007). A port-Hamiltonian approach to distributed parameter systems. Ph.D thesis Universiteit Twente.
 - [Wang, M., Bestler, A. & Kotyczka, P. Modeling, discretization and motion control of a flexible beam in the port-Hamiltonian framework. IFAC-PapersOnLine vol. 50 6799–6806 (2017)](modeling-discretization-and-motion-control-of-a-flexible-beam-in-the-port-hamiltonian-framework) -- [10.1016/j.ifacol.2017.08.2511](https://doi.org/10.1016/j.ifacol.2017.08.2511)
 

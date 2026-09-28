@@ -85,4 +85,5 @@ Morrison [25] has observed that the Maxwell-Vlasov and Poisson-Vlasov equations 
 - Wollman, S. Global‐in‐time solutions of the two‐dimensional vlasov‐poisson systems. Comm Pure Appl Math 33, 173–197 (1980) -- [10.1002/cpa.3160330205](https://doi.org/10.1002/cpa.3160330205)
 - Berezin, F. A. Some remarks about the associated envelope of a Lie algebra. Funct Anal Its Appl 1, 91–102 (1968) -- [10.1007/bf01076082](https://doi.org/10.1007/bf01076082)
 - Gibbons, Physica (1981)
+- R.G. Spencer and A.N. Kaufman, Hamiltonian Structure of Two-Fluid Plasma Dynamics (preprint).
 

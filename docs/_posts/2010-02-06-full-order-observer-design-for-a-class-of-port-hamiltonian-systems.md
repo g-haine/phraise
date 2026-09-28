@@ -71,5 +71,6 @@ Port-Hamiltonian systems; Observer design; Passivity
 - Tsinias, J. Observer design for nonlinear systems. Systems &amp; Control Letters vol. 13 135–142 (1989) -- [10.1016/0167-6911(89)90030-3](https://doi.org/10.1016/0167-6911(89)90030-3)
 - van der Schaft, (1999)
 - Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Control of underactuated mechanical systems: Observer design and position feedback stabilization. 2008 47th IEEE Conference on Decision and Control 4969–4975 (2008) doi:10.1109/cdc.2008.4738912 -- [10.1109/cdc.2008.4738912](https://doi.org/10.1109/cdc.2008.4738912)
+- Venkatraman, A., & van der Schaft, A. (2009). Full order observer design for a class of port-Hamiltonian systems. In Internal report at the Institute of Mathematics and Computing Science, University of Groningen.
 - Xia, X.-H. & Gao, W.-B. Nonlinear Observer Design by Observer Error Linearization. SIAM Journal on Control and Optimization vol. 27 199–216 (1989) -- [10.1137/0327011](https://doi.org/10.1137/0327011)
 

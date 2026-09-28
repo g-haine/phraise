@@ -64,6 +64,7 @@ Port- Hamiltonian; Euler Bernoulli; tympanic membrane; Frequency; occupational; 
 - Gan, R. Z., Feng, B. & Sun, Q. Three-Dimensional Finite Element Modeling of Human Ear for Sound Transmission. Annals of Biomedical Engineering vol. 32 847–859 (2004) -- [10.1023/b:abme.0000030260.22737.53](https://doi.org/10.1023/b:abme.0000030260.22737.53)
 - Gigure, A computational model of the auditory periphery for speech and hearing research. i. ascending path. The Journal of the Acoustical Society of America (1993)
 - Goll, E. & Dalhoff, E. Modeling the eardrum as a string with distributed force. The Journal of the Acoustical Society of America vol. 130 1452–1462 (2011) -- [10.1121/1.3613934](https://doi.org/10.1121/1.3613934)
+- Hiipaka, M., Tikander, M., and Karjalainen, M. (2009). Modeling of external ear acoustics for insert headphone usage. Presented at the 126th Convention 2009 May 710 Munich, Germany.
 - Khanna, Specification of the acoustical input to the ear at high frequencies. The Journal of the Acoustical Society of America“ (1985)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Madahana, M. C. I., Ekoru, J. E. D., Mashinini, T. L. & Nyandoro, O. T. C. Noise level policy advising system for mine workers. IFAC-PapersOnLine vol. 52 249–254 (2019) -- [10.1016/j.ifacol.2019.09.195](https://doi.org/10.1016/j.ifacol.2019.09.195)
@@ -72,7 +73,9 @@ Port- Hamiltonian; Euler Bernoulli; tympanic membrane; Frequency; occupational; 
 - [Mora, L. A., Yuz, J. I., Ramirez, H. & Gorrec, Y. L. A port-Hamiltonian Fluid-Structure Interaction Model for the Vocal folds . IFAC-PapersOnLine vol. 51 62–67 (2018)](a-port-hamiltonian-fluid-structure-interaction-model-for-the-vocal-folds) -- [10.1016/j.ifacol.2018.06.016](https://doi.org/10.1016/j.ifacol.2018.06.016)
 - Onchi, Y. Mechanism of the Middle Ear. The Journal of the Acoustical Society of America vol. 33 794–805 (1961) -- [10.1121/1.1908801](https://doi.org/10.1121/1.1908801)
 - [Šešlija, M., van der Schaft, A. & Scherpen, J. M. A. Reaction-Diffusion Systems in the Port-Hamiltonian Framework. IFAC Proceedings Volumes vol. 43 837–842 (2010)](reaction-diffusion-systems-in-the-port-hamiltonian-framework) -- [10.3182/20100901-3-it-2016.00116](https://doi.org/10.3182/20100901-3-it-2016.00116)
+- Thejane, T. (2013). A comprehensive Electrical model of the Human auditory periphery for Otoacoustic Emissions study. Ph.D. thesis, University of Johannesburg.
 - van der Schaft, (2006)
+- Villegas, J.A. (2007). A Port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, Department of Applied Mathematics, Faculty EWI, Universiteit Twente, Enschede, Twente, Enschede, Netherlands.
 - Wiener, The pressure distribution in the auditory canal in a progressive sound field. The Journal of the Acoustical Society of America (1946)
 - Xue, F. et al. The biological significance of acoustic stimuli determines ear preference in the music frog. Journal of Experimental Biology vol. 218 740–747 (2015) -- [10.1242/jeb.114694](https://doi.org/10.1242/jeb.114694)
 - Zwislocki, J. Some Impedance Measurements on Normal and Pathological Ears. The Journal of the Acoustical Society of America vol. 29 1312–1317 (1957) -- [10.1121/1.1908776](https://doi.org/10.1121/1.1908776)

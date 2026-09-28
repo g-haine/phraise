@@ -87,6 +87,7 @@ ac/dc converters, dc/dc converters, discretization of ordinary differential equa
 - Revathy, Powering the future: a comprehensive review on DC-DC converters and their vital role in electric vehicle technology. (2024)
 - Sharma S, Gupta S, Zuhaib M, Bhuria V, Malik H, Almutairi A, Afthanorhan A, Hossaini MA (2024) A Comprehensive Review on STATCOM: Paradigm of Modeling, Control, Stability, Optimal Location, Integration, Application, and Installation. IEEE Access 12:2701–2729. https://doi.org/10.1109/access.2023.334521 -- [10.1109/access.2023.3345216](https://doi.org/10.1109/access.2023.3345216)
 - Hussen M, Rajaram T (2025) A Comprehensive Review of Voltage Source Converters-Based FACTS Controllers in Hybrid Microgrids. IEEE Access 13:62961–62999. https://doi.org/10.1109/access.2025.355796 -- [10.1109/access.2025.3557961](https://doi.org/10.1109/access.2025.3557961)
+- K. Marín-Silva, A. Garcés-Ruiz, W. Gil-González, Effect of Discretization, 2025. Accessed: Dec. 2025, https://github.com/Kenneth-Marin/Effect_discretization.git.
 - Sira-Ramírez, (2006)
 - Oyuela-Ocampo J-C, Garcés-Ruiz A, Gil-González W (2026) Generalized model-predictive control for supercapacitor and superconducting magnetic energy storage systems. Renewable Energy Focus 57:100795. https://doi.org/10.1016/j.ref.2025.10079 -- [10.1016/j.ref.2025.100795](https://doi.org/10.1016/j.ref.2025.100795)
 

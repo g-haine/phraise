@@ -56,11 +56,15 @@ Port-Hamiltonian system; Dirac structure; Structure-preserving discretization
 - Bossavit, (1998)
 - Bossavit, A. & Kettunen, L. Yee-like schemes on staggered cellular grids: a synthesis between FIT and FEM approaches. IEEE Transactions on Magnetics vol. 36 861–867 (2000) -- [10.1109/20.877580](https://doi.org/10.1109/20.877580)
 - Gross, (2004)
+- A.N. Hirani, Discrete exterior calculus, Ph.D. Thesis, California Institute of Technology, 2003.
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - Arnold, D., Falk, R. & Winther, R. Finite element exterior calculus: from Hodge theory to numerical stability. Bulletin of the American Mathematical Society vol. 47 281–354 (2010) -- [10.1090/s0273-0979-10-01278-4](https://doi.org/10.1090/s0273-0979-10-01278-4)
 - van der Schaft, A. J. & Maschke, B. M. Conservation laws and open systems on higher-dimensional networks. 2008 47th IEEE Conference on Decision and Control 799–804 (2008) doi:10.1109/cdc.2008.4738952 -- [10.1109/cdc.2008.4738952](https://doi.org/10.1109/cdc.2008.4738952)
 - van der Schaft, A. & Maschke, B. Conservation Laws and Lumped System Dynamics. Model-Based Control: 31–48 (2009) doi:10.1007/978-1-4419-0895-7_3 -- [10.1007/978-1-4419-0895-7_3](https://doi.org/10.1007/978-1-4419-0895-7_3)
+- M. Desbrun, A.N. Hirani, M. Leok, J.E. Marsden, Discrete exterior calculus. arXiv:math/0508341v2.
 - Desbrun, Discrete exterior calculus for variational problems in computer vision and graphics. (2003)
+- A. Stern, Y. Tong, M. Desbrun, J.E. Marsden, Geometric computational electrodynamics with variational integrators and discrete differential forms, arXiv:0707.4470v3, 2009.
+- M. Gotay, J. Isenberg, J.E. Marsden, Momentum maps and the Hamiltonian structure of classical relativistic field theories, part I, arXiv:physics/9801019, 1997.
 - Marsden, J. E., Patrick, G. W. & Shkoller, S. Multisymplectic Geometry, Variational Integrators, and Nonlinear PDEs. Communications in Mathematical Physics vol. 199 351–395 (1998) -- [10.1007/s002200050505](https://doi.org/10.1007/s002200050505)
 - Marsden, J. E., Pekarsky, S., Shkoller, S. & West, M. Variational methods, multisymplectic geometry and continuum mechanics. Journal of Geometry and Physics vol. 38 253–284 (2001) -- [10.1016/s0393-0440(00)00066-8](https://doi.org/10.1016/s0393-0440(00)00066-8)
 - Vankerschaver, J. & Cantrijn, F. Discrete Lagrangian field theories on Lie groupoids. Journal of Geometry and Physics vol. 57 665–689 (2007) -- [10.1016/j.geomphys.2006.05.006](https://doi.org/10.1016/j.geomphys.2006.05.006)
@@ -74,7 +78,12 @@ Port-Hamiltonian system; Dirac structure; Structure-preserving discretization
 - Hiptmair, R. Discrete Hodge operators. Numerische Mathematik vol. 90 265–289 (2001) -- [10.1007/s002110100295](https://doi.org/10.1007/s002110100295)
 - Hiptmair, R. Finite elements in computational electromagnetism. Acta Numerica vol. 11 237–339 (2002) -- [10.1017/s0962492902000041](https://doi.org/10.1017/s0962492902000041)
 - Abraham, (1988)
+- M. Seslija, A.J. van der Schaft, J.M.A. Scherpen, Reaction–diffusion in the port-Hamiltonian framework. In: Proceedings of 8th IFAC Symposium on Nonlinear Control Systems, University of Bologna, Italy, September 01–03, 2010.
 - Desbrun, Discrete differential forms for computational modeling. (2008)
+- T. Voss, Port-Hamiltonian modeling and control of piezoelectric beams and plates: application to inflatable space structures, Ph.D. Thesis, University of Groningen, 2010.
+- V. Talasila, G. Golo, A.J. van der Schaft, The wave equation as a port-Hamiltonian system and a finite dimensional approximation, in: D.S. Gilliam, J. Rosenthal (Eds.), Proceedings of 15th International Symposium Mathematical Theory of Networks and Systems, MTNS, South Bend, 2002.
+- J.R. Shewchuk, What is a good linear element? interpolation, conditioning, and quality measures. In: Eleventh International Meshing Roundtable (Ithaca, New York), Sandia National Laboratories, September 2002, pp. 115–126.
+- M. Holst, A. Stern, Geometric variational crimes: Hilbert complexes, finite element exterior calculus, and problems on hypersurfaces, arXiv:1005.4455v1, 2010.
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - Lew, A., Marsden, J. E., Ortiz, M. & West, M. Asynchronous Variational Integrators. Archive for Rational Mechanics and Analysis vol. 167 85–146 (2003) -- [10.1007/s00205-002-0212-y](https://doi.org/10.1007/s00205-002-0212-y)
 - Lew, A., Marsden, J. E., Ortiz, M. & West, M. Variational time integrators. International Journal for Numerical Methods in Engineering vol. 60 153–212 (2004) -- [10.1002/nme.958](https://doi.org/10.1002/nme.958)

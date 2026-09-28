@@ -41,9 +41,12 @@ We present a gradient-based calibration algorithm to identify a port-Hamiltonian
 ## References
 - [Benner, P., Goyal, P. & Van Dooren, P. Identification of port-Hamiltonian systems from frequency response data. Systems &amp; Control Letters 143, 104741 (2020)](identification-of-port-hamiltonian-systems-from-frequency-response-data) -- [10.1016/j.sysconle.2020.104741](https://doi.org/10.1016/j.sysconle.2020.104741)
 - K Cherifi, Electron. Trans. Numer. Anal. Special Issue SciML (2022)
+- Cherifi, K., Mehrmann, V., Hariche, K.: Numerical methods to compute a minimal realization of a port-Hamiltonian system. arXiv:1903.07042v1
 - Modeling and Control of Complex Physical Systems (2009)
 - [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics 60, 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
+- Günther, M., Jacob, B., Totzeck, C.: Data-driven adjoint-based calibration of port-Hamiltonian systems in time domain. arXiv:2301.03924
 - M Hinze, Optimization with PDE Constraints (2009)
 - [Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 - [van der Schaft, A. Port-Hamiltonian systems: an introductory survey. Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006 1339–1365 (2007) doi:10.4171/022-3/65](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
+- Schwerdtner, P.: Port-Hamiltonian system identification from noisy frequency response data. arXiv:2106.11355
 

@@ -63,5 +63,6 @@ Port Hamiltonian systems; IDA-PBC (Interconnection and Damping Assignment Passiv
 - Ortega, (1998)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. International Journal of Robust and Nonlinear Control vol. 13 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
+- Rodrìguez, H., Ortega, R., & Siguerdidjane, H. (2000). Passivity-based control of magnetic levitation systems: theory and experiments. In Proc. 14th international symposium of mathematical theory of networks and systems
 - [Yaghmaei, A. & Yazdanpanah, M. J. Trajectory tracking of a class of port Hamiltonian systems using Timed IDA-PBC technique. 2015 54th IEEE Conference on Decision and Control (CDC) 5037–5042 (2015) doi:10.1109/cdc.2015.7403007](trajectory-tracking-of-a-class-of-port-hamiltonian-systems-using-timed-ida-pbc-technique) -- [10.1109/cdc.2015.7403007](https://doi.org/10.1109/cdc.2015.7403007)
 

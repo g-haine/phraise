@@ -54,5 +54,8 @@ PWM rectifier; PCHD model; Passivity-based Control; storage function; Interconne
 ## References
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Jeltsema, D., Ortega, R. & M.A. Scherpen, J. An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. Automatica 40, 1643–1646 (2004)](an-energy-balancing-perspective-of-interconnection-and-damping-assignment-control-of-nonlinear-systems) -- [10.1016/j.automatica.2004.04.007](https://doi.org/10.1016/j.automatica.2004.04.007)
+- Wang Jiuhe, “Nonlinear Control of voltage-source PWM rectifiers,” CHINA MACHINE PRESS, 2008.
+- Zhang Xiaohua, Zhang Weijie,“IDA-PB Control for Three-Phase PWM Voltage Source Rectifier,” TRANSACTIONS OF CHINA ELECTROTECHNICAL SOCIETY, 2009,Vol.24 No. 3,pp122-127.
+- Pengfei Wang, Jiuhe Wang, and Zuohua Xu, “Passivity-based control of three phase voltage source PWM rectifiers based on PCHD model,” The 11th International Conference on Electrical Machines and Systems (ICEMS2008), Wuhan, P.R. China, pp1126-1130.
 - [Wang, J., Xia, P. & Zhang, J. Control  Strategy of Three-Phase AC/DC Voltage-Source Converters Based on Storage Function. 2008 Workshop on Power Electronics and Intelligent Transportation System 117–121 (2008) doi:10.1109/peits.2008.59](control-strategy-of-three-phase-ac-dc-voltage-source-converters-based-on-storage-function) -- [10.1109/peits.2008.59](https://doi.org/10.1109/peits.2008.59)
 

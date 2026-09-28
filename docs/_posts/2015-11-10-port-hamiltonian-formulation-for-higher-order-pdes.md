@@ -51,6 +51,7 @@ Differential geometric methods; Hamiltonian Systems; Partial differential equati
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-formulation-for-higher-order-pdes.bib)
  
 ## References
+- Ennsbrunner H. 2006 nfinite-dimensional Euler-Lagrange and Port Hamiltonian Systems. University Linz, PhD-Thesis.
 - [Ennsbrunner, H. & Schlacher, K. On the geometrical representation and interconnection of infinite dimensional port controlled Hamiltonian systems. Proceedings of the 44th IEEE Conference on Decision and Control 5263–5268 doi:10.1109/cdc.2005.1582998](on-the-geometrical-representation-and-interconnection-of-infinite-dimensional-port-controlled-hamiltonian-systems) -- [10.1109/cdc.2005.1582998](https://doi.org/10.1109/cdc.2005.1582998)
 - Giachetta, (1997)
 - Macchelli, Port based modelling and control of the mindlin plate. (2005)

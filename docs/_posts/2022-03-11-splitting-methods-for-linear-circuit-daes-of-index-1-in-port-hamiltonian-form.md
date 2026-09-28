@@ -40,7 +40,7 @@ Operator splitting is a powerful method for numerical investigation of complex m
 ## References
 - Bj&orhus, M. Operator splitting for abstract Cauchy problems. IMA Journal of Numerical Analysis vol. 18 419–443 (1998) -- [10.1093/imanum/18.3.419](https://doi.org/10.1093/imanum/18.3.419)
 - Chronopoulos, A. T. s-Step Iterative Methods for (Non)Symmetric (In)Definite Linear Systems. SIAM Journal on Numerical Analysis vol. 28 1776–1789 (1991) -- [10.1137/0728088](https://doi.org/10.1137/0728088)
-- LO Chua. L.O. Chua, C.A. Desoer, E.S. Kuh, Linear and Nonlinear Circuits (McGraw-Hill, Singapore, 1987) (1987)
+- L.O. Chua, C.A. Desoer, E.S. Kuh, Linear and Nonlinear Circuits (McGraw-Hill, Singapore, 1987)
 - C.A. Desoer, E.S. Kuh, Basic Circuit Theory. International student edition (McGraw-Hill, New York, 1984)
 - Est�vez Schwarz, D. & Tischendorf, C. Structural analysis of electric circuits and consequences for MNA. International Journal of Circuit Theory and Applications vol. 28 131–162 (2000) -- [10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w](https://doi.org/10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w)
 - [Günther, M., Bartel, A., Jacob, B. & Reis, T. Dynamic iteration schemes and port‐Hamiltonian formulation in coupled differential‐algebraic equation circuit simulation. International Journal of Circuit Theory and Applications vol. 49 430–452 (2020)](dynamic-iteration-schemes-and-port-hamiltonian-formulation-in-coupled-differential-algebraic-equation-circuit-simulation) -- [10.1002/cta.2870](https://doi.org/10.1002/cta.2870)

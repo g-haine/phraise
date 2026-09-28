@@ -57,6 +57,7 @@ Nonholonomic systems; port-Hamiltonian systems; discontinuous control; robust co
 - Bloch, (2003)
 - Bloch, A. M., Reyhanoglu, M. & McClamroch, N. H. Control and stabilization of nonholonomic dynamic systems. IEEE Transactions on Automatic Control vol. 37 1746–1757 (1992) -- [10.1109/9.173144](https://doi.org/10.1109/9.173144)
 - Brockett, Asymptotic stability and feedback stabilization. (1983)
+- Ferguson, J., Donaire, A., and Middleton, R.H. (2016). Switched PassivityBased Control of the Chaplygin Sleigh. In Proc. IFAC Symposium on Nonlinear Control Systems, 1012–1017. Elsevier B.V., Monterey, California.
 - [Fujimoto, K., Sakai, S. & Sugie, T. Passivity based control of a class of Hamiltonian systems with nonholonomic constraints. Automatica vol. 48 3054–3063 (2012)](passivity-based-control-of-a-class-of-hamiltonian-systems-with-nonholonomic-constraints) -- [10.1016/j.automatica.2012.08.032](https://doi.org/10.1016/j.automatica.2012.08.032)
 - Goldstein, (1980)
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control vol. 10 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)

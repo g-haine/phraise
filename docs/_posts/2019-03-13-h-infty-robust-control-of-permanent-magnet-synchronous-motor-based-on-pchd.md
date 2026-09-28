@@ -45,7 +45,9 @@ The surface permanent magnet synchronous motor (SPMSM) speed regulation system i
 - xu, Two-vector based model predictive current control for permanent magnet synchronous motor. Trans China Electrotech Soc (2017)
 - zheng, Current controller for AC motors using model predictive control. Trans China Electrotech Soc (2013)
 - wu, Passivity-based control of permanent-magnet synchronous motor based on extended PCHD. Control Decis (2013)
-- wu, Speed sensorless $H\infty$ control for PMSM based on energy function. Chinese Journal of Mechanical Engineering (2016)
+- wu, Speed sensorless 
+$H\infty$
+ control for PMSM based on energy function. Chinese Journal of Mechanical Engineering (2016)
 - [Xu, X., Yu, H., Liu, X. & Zhao, B. Robot joint position control based on sliding mode and the port-controlled hamiltonian method. 2018 Chinese Control And Decision Conference (CCDC) 4392–4397 (2018) doi:10.1109/ccdc.2018.8407890](robot-joint-position-control-based-on-sliding-mode-and-the-port-controlled-hamiltonian-method) -- [10.1109/ccdc.2018.8407890](https://doi.org/10.1109/ccdc.2018.8407890)
 - huang, Research of vector control technology of PMSM based on port-controlled hamiltonian theory. Chinese Journal of Power Sources (2016)
 - wu, Robust control for permanent magnet synchronous motors based on hamiltonian function. Acta Phys Sinica (2015)
@@ -55,9 +57,13 @@ The surface permanent magnet synchronous motor (SPMSM) speed regulation system i
 - hou, Robust sliding mode control of PMSM based on cascaded sliding mode observers. Control Decis (2016)
 - De Soricellis, M., Da Ru, D. & Bolognani, S. A Robust Current Control Based on Proportional-Integral Observers for Permanent Magnet Synchronous Machines. IEEE Trans. on Ind. Applicat. 54, 1437–1447 (2018) -- [10.1109/tia.2017.2772171](https://doi.org/10.1109/tia.2017.2772171)
 - huang, Sliding mode control for current loop by second order terminal sliding mode. Electr Mach Control (2018)
-- chang, Quantized fuzzy output feedback $H_\infty$ control for nonlinear systems with adjustment of dynamic parameters. IEEE Trans Syst Man Cybern Syst (0)
+- chang, Quantized fuzzy output feedback 
+$H_\infty$
+ control for nonlinear systems with adjustment of dynamic parameters. IEEE Trans Syst Man Cybern Syst (0)
 - Yin, Z., Han, X., Du, C., Liu, J. & Zhong, Y. Research on Model Predictive Current Control for Induction Machine Based on Immune-Optimized Disturbance Observer. IEEE J. Emerg. Sel. Topics Power Electron. 6, 1699–1710 (2018) -- [10.1109/jestpe.2018.2820050](https://doi.org/10.1109/jestpe.2018.2820050)
-- saad, Robust sliding mode $H_\infty$ control for A class of unmatched systems. Int Conf Adv Syst Electr Technl (2017)
+- saad, Robust sliding mode 
+$H_\infty$
+ control for A class of unmatched systems. Int Conf Adv Syst Electr Technl (2017)
 - wei, PWM predictive current control of permanent magnet synchronous motor based on extended state observer. Control Decis (2018)
 - Sabatini, V. et al. FPGA-based Model Predictive Control for High Frequency Variable Speed Generating Units. 2018 International Symposium on Power Electronics, Electrical Drives, Automation and Motion (SPEEDAM) 1364–1369 (2018) doi:10.1109/speedam.2018.8445389 -- [10.1109/speedam.2018.8445389](https://doi.org/10.1109/speedam.2018.8445389)
 - Dong, L., Yan, J., Yuan, X., He, H. & Sun, C. Functional Nonlinear Model Predictive Control Based on Adaptive Dynamic Programming. IEEE Trans. Cybern. 49, 4206–4218 (2019) -- [10.1109/tcyb.2018.2859801](https://doi.org/10.1109/tcyb.2018.2859801)

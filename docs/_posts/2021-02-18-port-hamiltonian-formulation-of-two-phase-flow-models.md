@@ -60,6 +60,7 @@ drift flux model, non-quadratic hamiltonian, port-hamiltonian, skew-adjoint, sto
 - de Wilde, (2015)
 - [Cardoso-Ribeiro FL, Matignon D, Pommier-Budinger V (2015) Modeling of a Fluid-structure coupled system using port-Hamiltonian formulation. IFAC-PapersOnLine 48(13):217–222. https://doi.org/10.1016/j.ifacol.2015.10.24](modeling-of-a-fluid-structure-coupled-system-using-port-hamiltonian-formulation) -- [10.1016/j.ifacol.2015.10.242](https://doi.org/10.1016/j.ifacol.2015.10.242)
 - [stabilization of systems of two conservation laws. Networks &amp; Heterogeneous Media 4(2):249–266. https://doi.org/10.3934/nhm.2009.4.24](a-hamiltonian-perspective-to-the-stabilization-of-systems-of-two-conservation-laws) -- [10.3934/nhm.2009.4.249](https://doi.org/10.3934/nhm.2009.4.249)
+- N.M.T. Vu, L. Lefèvre, B. Maschke, A structured control model for the thermo-magneto-hydrodynamics of plasmas in tokamaks, Math. Comput. Model. Dyn. Syst. 22 (3).
 - [Baaiu A, Couenne F, Eberard D, Jallut C, Lefevre L, Legorrec Y, Maschke B (2009) Port-based modelling of mass transport phenomena. Mathematical and Computer Modelling of Dynamical Systems 15(3):233–254. https://doi.org/10.1080/1387395090280857](port-based-modelling-of-mass-transport-phenomena) -- [10.1080/13873950902808578](https://doi.org/10.1080/13873950902808578)
 - Holm DD, Kupershmidt BA (1986) Hydrodynamics and electrohydrodynamics of adiabatic multiphase fluids and plasmas. International Journal of Multiphase Flow 12(4):667–680. https://doi.org/10.1016/0301-9322(86)90067- -- [10.1016/0301-9322(86)90067-4](https://doi.org/10.1016/0301-9322(86)90067-4)
 - Evje S, Flåtten T (2007) On the Wave Structure of Two‐Phase Flow Models. SIAM J Appl Math 67(2):487–511. https://doi.org/10.1137/05063348 -- [10.1137/050633482](https://doi.org/10.1137/050633482)
@@ -68,7 +69,10 @@ drift flux model, non-quadratic hamiltonian, port-hamiltonian, skew-adjoint, sto
 - Lordejani SN, Abbasi MH, Velmurugan N, Berg C, Stakvik JÅ, Besselink B, Iapichino L, Di Meglio F, Schilders WHA, van de Wouw N (2020) Modeling and Numerical Implementation of Managed-Pressure-Drilling Systems for the Assessment of Pressure-Control Systems. SPE Drilling &amp; Completion 35(04):598–619. https://doi.org/10.2118/201108-p -- [10.2118/201108-pa](https://doi.org/10.2118/201108-pa)
 - Bansal, (2020)
 - Olver, (1986)
+- A. Badlyan, C. Zimmer, Operator-GENERIC formulation of thermodynamics of irreversible processes, arXiv:1807.09822 [math-ph].
+- Y. Cengel, M.A. Boles, Thermodynamics: An Engineering Approach, New York City, NY, USA, 2006.
 - Evje S, Fjelde KK (2002) Hybrid Flux-Splitting Schemes for a Two-Phase Flow Model. Journal of Computational Physics 175(2):674–701. https://doi.org/10.1006/jcph.2001.696 -- [10.1006/jcph.2001.6962](https://doi.org/10.1006/jcph.2001.6962)
+- H. Bansal, P. Schulze, M.H. Abbasi, H. Zwart, L. Iapichino, W.H.A. Schilders, N. van de Wouw, Port-Hamiltonian formulation of two-phase flow models, Extended version of the paper submitted to Systems & Control Letters, available at https://www.win.tue.nl/h̃bansal/appendix_scl.pdf.
 - (2009)
 - Villegas, (2007)
 - [Abbasi MH, Bansal H, Zwart H, Iapichino L, Schilders WHA, van de Wouw N (2020) Power-Preserving Interconnection of Single- and Two-Phase Flow Models for Managed Pressure Drilling. 2020 American Control Conference (ACC) 3097–310](power-preserving-interconnection-of-single-and-two-phase-flow-models-for-managed-pressure-drilling) -- [10.23919/acc45564.2020.9147405](https://doi.org/10.23919/acc45564.2020.9147405)

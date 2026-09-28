@@ -53,6 +53,8 @@ port-Hamiltonian systems; passivity-based control; reinforcement learning
 ## References
 - [Aoues, S., Di Loreto, M., Eberard, D. & Marquis-Favre, W. Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability. Systems &amp; Control Letters vol. 110 9–14 (2017)](hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability) -- [10.1016/j.sysconle.2017.10.003](https://doi.org/10.1016/j.sysconle.2017.10.003)
 - Baydin, Automatic differentiation n machine learning: A survey. Journal of Marchine Learning Research (2018)
+- Celledoni, E. and Høiseth, E. (2017). Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems. arXiv:1706.08621.
+- Ehrhardt, M., Riis, E., Ringholm, T., and Schönlieb, C.B. (2020). A geometric integration approach to smooth optimisation: Foundations of the discrete gradient method. arXiv:1805.06444.
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - [Gonzalez, O. Time integration and discrete Hamiltonian systems. Journal of Nonlinear Science vol. 6 449–467 (1996)](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/bf02440162](https://doi.org/10.1007/bf02440162)
 - Gören-Sümer, (2008)

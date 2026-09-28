@@ -62,8 +62,10 @@ ABSTRACT We investigate an energy-based formulation of the two-field poroelastic
 - [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - Kato, T. Perturbation Theory for Linear Operators. Classics in Mathematics (Springer Berlin Heidelberg, 1995). doi:10.1007/978-3-642-66282-9 -- [10.1007/978-3-642-66282-9](https://doi.org/10.1007/978-3-642-66282-9)
+- P. Kotyczka. Numerical Methods for Distributed Parameter Port-Hamiltonian Systems. Habilitation thesis, TU München, 2019.
 - Lions J.-L., Non-homogeneous Boundary Value Problems and Applications. Vol. I (1972)
 - [Macchelli, A., van der Schaft, A. J. & Melchiorri, C. Port Hamiltonian formulation of infinite dimensional systems I. Modeling. 2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601) 3762-3767 Vol.4 (2004) doi:10.1109/cdc.2004.1429324](port-hamiltonian-formulation-of-infinite-dimensional-systems-i-modeling) -- [10.1109/cdc.2004.1429324](https://doi.org/10.1109/cdc.2004.1429324)
+- M.H. Ramírez Estay. Modeling and control of irreversible thermodynamic processes and systems described by partial differential equations. A port-Hamiltonian approach. Habilitation thesis, Université Bourgogne Franche-Comté, 2019.
 - Biot, M. A. General Theory of Three-Dimensional Consolidation. Journal of Applied Physics vol. 12 155–164 (1941) -- [10.1063/1.1712886](https://doi.org/10.1063/1.1712886)
 - DETOURNAY, E. & CHENG, A. H.-D. Fundamentals of Poroelasticity. Analysis and Design Methods 113–171 (1993) doi:10.1016/b978-0-08-040615-2.50011-3 -- [10.1016/b978-0-08-040615-2.50011-3](https://doi.org/10.1016/b978-0-08-040615-2.50011-3)
 - Egger H., Math. Comput. Simulat.
@@ -76,6 +78,7 @@ ABSTRACT We investigate an energy-based formulation of the two-field poroelastic
 - Fu, S. et al. Computational multiscale methods for linear poroelasticity with high contrast. Journal of Computational Physics vol. 395 286–297 (2019) -- [10.1016/j.jcp.2019.06.027](https://doi.org/10.1016/j.jcp.2019.06.027)
 - Biot, M. A. Thermoelasticity and Irreversible Thermodynamics. Journal of Applied Physics vol. 27 240–253 (1956) -- [10.1063/1.1722351](https://doi.org/10.1063/1.1722351)
 - Målqvist, A. & Persson, A. A generalized finite element method for linear thermoelasticity. ESAIM: Mathematical Modelling and Numerical Analysis vol. 51 1145–1171 (2017) -- [10.1051/m2an/2016054](https://doi.org/10.1051/m2an/2016054)
+- A. Eisenträger. Finite element simulation of a poroelastic model of the CSF system in the human brain during an infusion test. Dissertation, Oxford University, 2012.
 - Sobey I., Int. J. Numer. Anal. Model., Series B (2012)
 - Vardakis, J. C. et al. Investigating cerebral oedema using poroelasticity. Medical Engineering &amp; Physics vol. 38 48–57 (2016) -- [10.1016/j.medengphy.2015.09.006](https://doi.org/10.1016/j.medengphy.2015.09.006)
 - Carman, P. C. Permeability of saturated sands, soils and clays. The Journal of Agricultural Science vol. 29 262–273 (1939) -- [10.1017/s0021859600051789](https://doi.org/10.1017/s0021859600051789)
@@ -83,6 +86,8 @@ ABSTRACT We investigate an energy-based formulation of the two-field poroelastic
 - Altmann, R., Maier, R. & Unger, B. A semi‐explicit integration scheme for weakly‐coupled poroelasticity with nonlinear permeability. PAMM vol. 20 (2021) -- [10.1002/pamm.202000061](https://doi.org/10.1002/pamm.202000061)
 - TULLY, B. & VENTIKOS, Y. Cerebral water transport using multiple-network poroelastic theory: application to normal pressure hydrocephalus. Journal of Fluid Mechanics vol. 667 188–215 (2010) -- [10.1017/s0022112010004428](https://doi.org/10.1017/s0022112010004428)
 - [Egger, H., Kugler, T., Liljegren-Sailer, B., Marheineke, N. & Mehrmann, V. On Structure-Preserving Model Reduction for Damped Wave Propagation in Transport Networks. SIAM Journal on Scientific Computing vol. 40 A331–A365 (2018)](on-structure-preserving-model-reduction-for-damped-wave-propagation-in-transport-networks) -- [10.1137/17m1125303](https://doi.org/10.1137/17m1125303)
+- C. Beattie, S. Gugercin, and V. Mehrmann. Structure-preserving interpolatory model reduction for port-Hamiltonian differential-algebraic systems. ArXiv e-print 1910.05674, 2019.
+- R. Altmann. Regularization and Simulation of Constrained Partial Differential Equations. Dissertation, Technische Universität Berlin, 2015.
 - Simeon B., Numerische Simulation Gekoppelter Systeme von Partiellen und Differential-algebraischen Gleichungen der Mehrkörperdynamik (2000)
 - Brenan K.E., Numerical Solution of Initial-value Problems in Differential-algebraic Equations (1996)
 - Kunkel, P. & Mehrmann, V. Differential-Algebraic Equations. EMS Textbooks in Mathematics (2006) doi:10.4171/017 -- [10.4171/017](https://doi.org/10.4171/017)

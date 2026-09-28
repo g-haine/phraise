@@ -56,6 +56,7 @@ Port-Hamiltonian systems; Internal Model Control; Adaptive Control; Input Distur
 - A. Isidori, Limited series Advances in Industrial Control (2003)
 - [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes 25, 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties) -- [10.1016/s1474-6670(17)52308-3](https://doi.org/10.1016/s1474-6670(17)52308-3)
 - Nikiforov, V. O. Adaptive Non-linear Tracking with Complete Compensation of Unknown Disturbances. European Journal of Control 4, 132–139 (1998) -- [10.1016/s0947-3580(98)70107-4](https://doi.org/10.1016/s0947-3580(98)70107-4)
+- Ortega R (2003) Some applications and recent results on passivity based control. 2nd IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control, Seville, Spain
 - Serrani, A., Isidori, A. & Marconi, L. Semi-global nonlinear output regulation with adaptive internal model. IEEE Trans. Automat. Contr. 46, 1178–1194 (2001) -- [10.1109/9.940923](https://doi.org/10.1109/9.940923)
 - A. Schaft van der, L 2-gain and Passivity Techniques in Nonlinear Control (1999)
 - Bonivento, C., Gentili, L. & Marconi, L. Balanced robust regulation of a magnetic levitation system. IEEE Trans. Contr. Syst. Technol. 13, 1036–1044 (2005) -- [10.1109/tcst.2005.852107](https://doi.org/10.1109/tcst.2005.852107)
@@ -65,4 +66,5 @@ Port-Hamiltonian systems; Internal Model Control; Adaptive Control; Input Distur
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Bonivento, C., Gentili, L. & Paoli, A. INTERNAL MODEL BASED FRAMEWORK FOR TRACKING AND FAULT TOLERANT CONTROL OF A PERMANENT MAGNET SYNCHRONOUS MOTOR. IFAC Proceedings Volumes 38, 604–609 (2005)](internal-model-based-framework-for-tracking-and-fault-tolerant-control-of-a-permanent-magnet-synchronous-motor) -- [10.3182/20050703-6-cz-1902.00501](https://doi.org/10.3182/20050703-6-cz-1902.00501)
 - de Wit, C. C. & Praly, L. Adaptive eccentricity compensation. IEEE Trans. Contr. Syst. Technol. 8, 757–766 (2000) -- [10.1109/87.865849](https://doi.org/10.1109/87.865849)
+- Khalil H K (2002) Nonlinear Systems 3rd ed. Prentice Hall
 

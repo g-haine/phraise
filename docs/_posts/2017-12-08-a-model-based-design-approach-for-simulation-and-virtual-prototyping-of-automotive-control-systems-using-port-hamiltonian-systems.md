@@ -67,11 +67,11 @@ Cyber–physical systems; Model-based design; Port-Hamiltonian systems; Passivit
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Fujimoto, K., Sugie, T.: Freedom in coordinate transformation for exact linearization and its application to transient behavior improvement. In: Proceedings of the 35th IEEE Conference on Decision and Control, pp. 84–89 (1996)
 - Generic Modeling Environment.
-- G Golo. Golo, G., van der Schaft, A., Beedveld, P., Mascheke, B.: Hamiltonian formulation of bond graphs. In: Johansson, R., Rantzer, A. (eds.) Nonlinear and Hybrid Systems in Automotive Control, pp. 351–372. Springer, London (2003) (2003)
-- R Hooke. Hooke, R., Jeeves, T.: Direct search solution of numerical and statistical problems. J. Assoc. Comput. Mach. 7, 212–229 (1969) (1969)
+- Golo, G., van der Schaft, A., Beedveld, P., Mascheke, B.: Hamiltonian formulation of bond graphs. In: Johansson, R., Rantzer, A. (eds.) Nonlinear and Hybrid Systems in Automotive Control, pp. 351–372. Springer, London (2003)
+- Hooke, R., Jeeves, T.: Direct search solution of numerical and statistical problems. J. Assoc. Comput. Mach. 7, 212–229 (1969)
 - Jiyang, K.K., Kum, K., Kang, J., Sung, W.: A floating-point to fixed-point C converter for fixed-point digital signal processors. In: Second SUIF Compiler Workshop (1997)
 - Karsai, G., Sztipanovits, J., Ledeczi, A. & Bapty, T. Model-integrated development of embedded software. Proceedings of the IEEE vol. 91 145–164 (2003) -- [10.1109/jproc.2002.805824](https://doi.org/10.1109/jproc.2002.805824)
-- HK Khalil. Khalil, H.K.: Nonlinear Systems, 3rd edn. Prentice Hall, Upper Saddle River (2002). ISBN 0-13-067389-7 (2002)
+- Khalil, H.K.: Nonlinear Systems, 3rd edn. Prentice Hall, Upper Saddle River (2002). ISBN 0-13-067389-7
 - Kirschke-Biller, F.: AUTOSAR—a global standard. In: 4th AUTOSAR Open Conference, Paris, France (June 11, 2012)
 - Lee, E. A. Cyber Physical Systems: Design Challenges. 2008 11th IEEE International Symposium on Object and Component-Oriented Real-Time Distributed Computing (ISORC) 363–369 (2008) doi:10.1109/isorc.2008.25 -- [10.1109/isorc.2008.25](https://doi.org/10.1109/isorc.2008.25)
 - MATLAB, Version 7.10.0 (R2010a). The Mathworks Inc., Natick (2010)
@@ -80,9 +80,9 @@ Cyber–physical systems; Model-based design; Port-Hamiltonian systems; Passivit
 - Ortega, R., Jiang, Z. P. & Hill, D. J. Passivity-based control of nonlinear systems: a tutorial. Proceedings of the 1997 American Control Conference (Cat. No.97CH36041) 2633–2637 vol.5 (1997) doi:10.1109/acc.1997.611933 -- [10.1109/acc.1997.611933](https://doi.org/10.1109/acc.1997.611933)
 - Porter, J., Hemingway, G., Nine, H., et al.: The ESMoL language and tools for high-confidence distributed control systems design—part 1: language, framework, and analysis. Technical report ISIS-10-109, Vanderbilt University (2010)
 - Porter, J., Karsai, G. & Sztipanovits, J. Towards a time-triggered schedule calculation tool to support model-based embedded software design. Proceedings of the seventh ACM international conference on Embedded software 167–176 (2009) doi:10.1145/1629335.1629358 -- [10.1145/1629335.1629358](https://doi.org/10.1145/1629335.1629358)
-- R Rajamani. Rajamani, R.: Vehicle Dynamics and Control. Springer, Berlin (2006). ISBN:978-0-387-26396-0 (2006)
+- Rajamani, R.: Vehicle Dynamics and Control. Springer, Berlin (2006). ISBN:978-0-387-26396-0
 - [Sakai, S. & Stramigioli, S. Port-Hamiltonian approaches to motion generation for mechanical systems. Proceedings 2007 IEEE International Conference on Robotics and Automation 1948–1953 (2007) doi:10.1109/robot.2007.363607](port-hamiltonian-approaches-to-motion-generation-for-mechanical-systems) -- [10.1109/robot.2007.363607](https://doi.org/10.1109/robot.2007.363607)
-- G Simko. Simko, G., Levendovsky, T., Maroti, M., Sztipanovits, J.: Towards a Theory of Cyber-Physical Systems Modeling. CyPhy, Philadelphia (2013) (2013)
+- Simko, G., Levendovsky, T., Maroti, M., Sztipanovits, J.: Towards a Theory of Cyber-Physical Systems Modeling. CyPhy, Philadelphia (2013)
 - [Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Transactions on Robotics vol. 21 574–587 (2005)](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/tro.2004.842330](https://doi.org/10.1109/tro.2004.842330)
 - Sztipanovits, J. Composition of Cyber-Physical Systems. 14th Annual IEEE International Conference and Workshops on the Engineering of Computer-Based Systems (ECBS’07) 3–6 (2007) doi:10.1109/ecbs.2007.25 -- [10.1109/ecbs.2007.25](https://doi.org/10.1109/ecbs.2007.25)
 - Sztipanovits, J. et al. Toward a Science of Cyber–Physical System Integration. Proceedings of the IEEE vol. 100 29–44 (2012) -- [10.1109/jproc.2011.2161529](https://doi.org/10.1109/jproc.2011.2161529)

@@ -78,6 +78,7 @@ dc microgrid, model predictive control, port-hamiltonian systems on graphs
 - Paire, A real-time sharing reference voltage for hybrid generation power system. (2010)
 - [Zonetti D, Ortega R, Benchaib A (2015) Modeling and control of HVDC transmission systems from theory to practice and back. Control Engineering Practice 45:133–146. https://doi.org/10.1016/j.conengprac.2015.09.01](modeling-and-control-of-hvdc-transmission-systems-from-theory-to-practice-and-back) -- [10.1016/j.conengprac.2015.09.012](https://doi.org/10.1016/j.conengprac.2015.09.012)
 - Zhao J, Dörfler F (2015) Distributed control and optimization in DC microgrids. Automatica 61:18–26. https://doi.org/10.1016/j.automatica.2015.07.01 -- [10.1016/j.automatica.2015.07.015](https://doi.org/10.1016/j.automatica.2015.07.015)
+- Pham T. Constrained optimization-based control for dc microgrids, Ph.D. thesis, Université Grenoble Alpes, France, tel-01762555; 2017.
 - Kotyczka, Discrete-Time Port-Hamiltonian Systems Based on Gauss-Legendre Collocation. (2018)
 - Duran MA, Grossmann IE (1986) An outer-approximation algorithm for a class of mixed-integer nonlinear programs. Mathematical Programming 36(3):307–339. https://doi.org/10.1007/bf0259206 -- [10.1007/bf02592064](https://doi.org/10.1007/bf02592064)
 - Prodan I, Stoican F, Olaru S, Niculescu S-I (2012) Enhancements on the Hyperplanes Arrangements in Mixed-Integer Programming Techniques. J Optim Theory Appl 154(2):549–572. https://doi.org/10.1007/s10957-012-0022- -- [10.1007/s10957-012-0022-9](https://doi.org/10.1007/s10957-012-0022-9)

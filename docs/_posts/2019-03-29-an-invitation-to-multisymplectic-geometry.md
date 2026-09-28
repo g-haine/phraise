@@ -53,6 +53,7 @@ Multisymplectic geometry; Lagrangian and Hamiltonian field theories; Darboux-typ
 ## References
 - Arnold, V. I. Mathematical Methods of Classical Mechanics. Graduate Texts in Mathematics (Springer New York, 1989). doi:10.1007/978-1-4757-2063-1 -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
 - Boothby, W. M. Transitivity of the automorphisms of certain geometric structures. Transactions of the American Mathematical Society vol. 137 93–100 (1969) -- [10.1090/s0002-9947-1969-0236961-0](https://doi.org/10.1090/s0002-9947-1969-0236961-0)
+- Robert L. Bryant, Darboux like theorem for non-degenerate 3-forms in 6-manifolds, Mathoverflow, http://mathoverflow.net/q/126197 (version: 2013-04-02).
 - Bryant, R. L. Metrics with Exceptional Holonomy. The Annals of Mathematics vol. 126 525 (1987) -- [10.2307/1971360](https://doi.org/10.2307/1971360)
 - Bryant, R. L. On the geometry of almost complex 6-manifolds. Asian Journal of Mathematics vol. 10 561–605 (2006) -- [10.4310/ajm.2006.v10.n3.a4](https://doi.org/10.4310/ajm.2006.v10.n3.a4)
 - Bureš, Multisymplectic structures of degree three of product type on 6-dimensional manifolds. Rend. Circ. Mat. Palermo (2) Suppl. (2004)

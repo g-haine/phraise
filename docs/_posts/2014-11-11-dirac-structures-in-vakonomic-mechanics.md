@@ -81,6 +81,7 @@ Dirac structures; Vakonomic mechanics; Nonholonomic mechanics; Variational princ
 - [Courant, T. J. Dirac manifolds. Trans. Amer. Math. Soc. 319, 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Üebertragtech. (1995)
 - Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part II: Variational structures. Journal of Geometry and Physics 57, 209–250 (2006) -- [10.1016/j.geomphys.2006.02.012](https://doi.org/10.1016/j.geomphys.2006.02.012)
+- H. Cendra, M. Etchechouryb, S.J. Ferraro, The Dirac theory of constraints, the Gotay–Nester theory and Poisson geometry, 2011. Preprint arXiv: 1106.3354v1.
 - Grabowska, K. & Grabowski, J. Dirac algebroids in Lagrangian and Hamiltonian mechanics. Journal of Geometry and Physics 61, 2233–2253 (2011) -- [10.1016/j.geomphys.2011.06.018](https://doi.org/10.1016/j.geomphys.2011.06.018)
 - Yoshimura, Induced symplectic structures and holonomic Lagrangian mechanical systems. J. Syst. Des. Dyn. (2008)
 - de León, M., Martín de Diego, D. & Santamaría-Merino, A. Discrete variational integrators and optimal control theory. Adv Comput Math 26, 251–268 (2006) -- [10.1007/s10444-004-4093-5](https://doi.org/10.1007/s10444-004-4093-5)
@@ -104,6 +105,7 @@ Dirac structures; Vakonomic mechanics; Nonholonomic mechanics; Variational princ
 - Vaisman, (1994)
 - de León, M., Martín de Diego, D. & Vaquero, M. A Hamilton-Jacobi theory on Poisson manifolds. Journal of Geometric Mechanics 6, 121–140 (2014) -- [10.3934/jgm.2014.6.121](https://doi.org/10.3934/jgm.2014.6.121)
 - Gràcia, X., Marín-Solano, J. & Muñoz-Lecanda, M.-C. Some geometric aspects of variational calculus in constrained systems. Reports on Mathematical Physics 51, 127–148 (2003) -- [10.1016/s0034-4877(03)80006-x](https://doi.org/10.1016/s0034-4877(03)80006-x)
+- M. Jozwikowski, W. Respondek, A comparison of vakonomic and nonholonomic variational problems with applications to systems on Lie groups. 2013. Preprint: arXiv:1310.8528v1.
 - de León, M. A historical review on nonholomic mechanics. RACSAM 106, 191–224 (2011) -- [10.1007/s13398-011-0046-2](https://doi.org/10.1007/s13398-011-0046-2)
 - Cardin, F. & Favretti, M. On nonholonomic and vakonomic dynamics of mechanical systems with nonintegrable constraints. Journal of Geometry and Physics 18, 295–325 (1996) -- [10.1016/0393-0440(95)00016-x](https://doi.org/10.1016/0393-0440(95)00016-x)
 - Zampieri, G. Nonholonomic versus Vakonomic Dynamics. Journal of Differential Equations 163, 335–347 (2000) -- [10.1006/jdeq.1999.3727](https://doi.org/10.1006/jdeq.1999.3727)

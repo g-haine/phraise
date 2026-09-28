@@ -56,6 +56,7 @@ Compositionality; Modeling language; Multibody systems; Multiphysics; Rigid body
 ## References
 - Lohmayer, M., Lynch, O. & Leyendecker, S. Exergetic Port-Hamiltonian Systems Modeling Language. Preprint at https://doi.org/10.48550/ARXIV.2402.17640 (2024) -- [10.48550/arxiv.2402.17640](https://doi.org/10.48550/arxiv.2402.17640)
 - Sonneville, V. & Brüls, O. A Formulation on the Special Euclidean Group for Dynamic Analysis of Multibody Systems. Journal of Computational and Nonlinear Dynamics 9, (2014) -- [10.1115/1.4026569](https://doi.org/10.1115/1.4026569)
+- Sonneville, V.: A geometric local frame approach for flexible multibody systems. Ph.D. thesis, Université de Liège (2015)
 - Modeling and IPC Control of Interactive Mechanical Systems — A Coordinate-Free Approach. Lecture Notes in Control and Information Sciences (Springer London, 2001). doi:10.1007/bfb0110400 -- [10.1007/bfb0110400](https://doi.org/10.1007/bfb0110400)
 - [Macchelli, A. & Melchiorri, C. Port-based Simulation of Flexible Multi-body Systems. IFAC Proceedings Volumes 41, 15672–15677 (2008)](port-based-simulation-of-flexible-multi-body-systems) -- [10.3182/20080706-5-kr-1001.02650](https://doi.org/10.3182/20080706-5-kr-1001.02650)
 - Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part II: Variational structures. Journal of Geometry and Physics 57, 209–250 (2006) -- [10.1016/j.geomphys.2006.02.012](https://doi.org/10.1016/j.geomphys.2006.02.012)

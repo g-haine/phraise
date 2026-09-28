@@ -87,6 +87,7 @@ In the last few decades the concepts of structure-preserving discretization, geo
 - Owren, B. Order conditions for commutator-free Lie group methods. Journal of Physics A: Mathematical and General vol. 39 5585–5599 (2006) -- [10.1088/0305-4470/39/19/s15](https://doi.org/10.1088/0305-4470/39/19/s15)
 - Douglas, C. C. & Mandel, J. An abstract theory for the domain reduction method. Computing vol. 48 73–96 (1992) -- [10.1007/bf02241707](https://doi.org/10.1007/bf02241707)
 - Furihata, D. A stable and conservative finite difference scheme for the Cahn-Hilliard equation. Numerische Mathematik vol. 87 675–699 (2001) -- [10.1007/pl00005429](https://doi.org/10.1007/pl00005429)
+- Munthe-Kaas H. (1989), Symmetric FFTs: A general approach. In Topics in Linear Algebra for Vector and Parallel Computers, PhD thesis, NTNU, Trondheim, Norway. Available at: hans.munthe-kaas.no.
 - Bossavit, The Mathematics of Finite Elements and Applications VI (1988)
 - Hochbruck, M. & Ostermann, A. Explicit Exponential Runge--Kutta Methods for Semilinear Parabolic Problems. SIAM Journal on Numerical Analysis vol. 43 1069–1090 (2005) -- [10.1137/040611434](https://doi.org/10.1137/040611434)
 - Monk, Numerical Mathematics and Scientific Computation (2003)
@@ -97,9 +98,11 @@ In the last few decades the concepts of structure-preserving discretization, geo
 - Buffa, A. & Christiansen, S. H. A dual finite element complex on the barycentric refinement. Mathematics of Computation vol. 76 1743–1770 (2007) -- [10.1090/s0025-5718-07-01965-5](https://doi.org/10.1090/s0025-5718-07-01965-5)
 - Furihata, D. & Matsuo, T. A stable, convergent, conservative and linear finite difference scheme for the Cahn-Hilliard equation. Japan Journal of Industrial and Applied Mathematics vol. 20 65–85 (2003) -- [10.1007/bf03167463](https://doi.org/10.1007/bf03167463)
 - Baker, H. F. Alternants and Continuous Groups. Proceedings of the London Mathematical Society vols s2-3 24–47 (1905) -- [10.1112/plms/s2-3.1.24](https://doi.org/10.1112/plms/s2-3.1.24)
+- Minchev B. V. (2004), Exponential Integrators for Semilinear Problems, University of Bergen. PhD thesis, University of Bergen, Norway.
 - Clément, Ph. Approximation by finite element functions using local regularization. Revue française d’automatique, informatique, recherche opérationnelle. Analyse numérique vol. 9 77–84 (1975) -- [10.1051/m2an/197509r200771](https://doi.org/10.1051/m2an/197509r200771)
 - Blanes, S., Casas, F., Oteo, J. A. & Ros, J. The Magnus expansion and some of its applications. Physics Reports vol. 470 151–238 (2009) -- [10.1016/j.physrep.2008.11.001](https://doi.org/10.1016/j.physrep.2008.11.001)
 - Bryant, R. An introduction to Lie groups and symplecti                    geometry. IAS/Park City Mathematics Series 5–181 (1995) doi:10.1090/pcms/001/02 -- [10.1090/pcms/001/02](https://doi.org/10.1090/pcms/001/02)
+- Trønnes A. (2005), Symmetries and generalized Fourier transforms applied to computing the matrix exponential. Master's thesis, University of Bergen, Norway.
 - Warner, F. W. Foundations of Differentiable Manifolds and Lie Groups. Graduate Texts in Mathematics (Springer New York, 1983). doi:10.1007/978-1-4757-1799-0 -- [10.1007/978-1-4757-1799-0](https://doi.org/10.1007/978-1-4757-1799-0)
 - Matsuo, T., Sugihara, M., Furihata, D. & Mori, M. Spatially accurate dissipative or conservative finite difference schemes derived by the discrete variational method. Japan Journal of Industrial and Applied Mathematics vol. 19 311–330 (2002) -- [10.1007/bf03167482](https://doi.org/10.1007/bf03167482)
 - Owren, B. & Marthinsen, A. Integration methods based on canonical coordinates of the second kind. Numerische Mathematik vol. 87 763–790 (2001) -- [10.1007/pl00005432](https://doi.org/10.1007/pl00005432)
@@ -148,9 +151,11 @@ In the last few decades the concepts of structure-preserving discretization, geo
 - Blanes, S. & Moan, P. C. Fourth- and sixth-order commutator-free Magnus integrators for linear and non-linear dynamical systems. Applied Numerical Mathematics vol. 56 1519–1537 (2006) -- [10.1016/j.apnum.2005.11.004](https://doi.org/10.1016/j.apnum.2005.11.004)
 - Raviart, P. A. & Thomas, J. M. A mixed finite element method for 2-nd order elliptic problems. Lecture Notes in Mathematics 292–315 (1977) doi:10.1007/bfb0064470 -- [10.1007/bfb0064470](https://doi.org/10.1007/bfb0064470)
 - Huybrechs, From high oscillation to rapid approximation V: The equilateral triangle. IMA J. Numer. Anal. (2010)
+- Christiansen S. H. and Winther R. (2010), On variational eigenvalue approximation of semidefinite operators. Preprint: arXiv.org/abs/1005.2059.
 - Ostermann, A., Thalhammer, M. & Wright, W. M. A Class of Explicit Exponential General Linear Methods. BIT Numerical Mathematics vol. 46 409–431 (2006) -- [10.1007/s10543-006-0054-3](https://doi.org/10.1007/s10543-006-0054-3)
 - Georg, K. & Miranda, R. Exploiting Symmetry in Solving Linear Equations. Bifurcation and Symmetry 157–168 (1992) doi:10.1007/978-3-0348-7536-3_14 -- [10.1007/978-3-0348-7536-3_14](https://doi.org/10.1007/978-3-0348-7536-3_14)
 - CHRISTIANSEN, S. H. A CONSTRUCTION OF SPACES OF COMPATIBLE DIFFERENTIAL FORMS ON CELLULAR COMPLEXES. Mathematical Models and Methods in Applied Sciences vol. 18 739–757 (2008) -- [10.1142/s021820250800284x](https://doi.org/10.1142/s021820250800284x)
+- Schöberl J. and Sinwel A. (2007), Tangential-displacement and normal-normal-stress continuous mixed finite elements for elasticity. RICAM report.
 - Serre, J.-P. Linear Representations of Finite Groups. Graduate Texts in Mathematics (Springer New York, 1977). doi:10.1007/978-1-4684-9458-7 -- [10.1007/978-1-4684-9458-7](https://doi.org/10.1007/978-1-4684-9458-7)
 - Stein, Singular Integrals and Differentiability Properties of Functions, Vol. 30 of Princeton Mathematical Series (1970)
 - Schöberl, J. A posteriori error estimates  for Maxwell equations. Mathematics of Computation vol. 77 633–650 (2007) -- [10.1090/s0025-5718-07-02030-3](https://doi.org/10.1090/s0025-5718-07-02030-3)
