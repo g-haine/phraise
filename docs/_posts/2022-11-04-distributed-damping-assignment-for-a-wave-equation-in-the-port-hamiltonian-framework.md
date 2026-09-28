@@ -71,6 +71,7 @@ infinite dimensional systems; Port-Hamiltonian Systems; backstepping methodology
 - Smyshlyaev, A., Cerpa, E. & Krstic, M. Boundary Stabilization of a 1-D Wave Equation with In-Domain Antidamping. SIAM Journal on Control and Optimization vol. 48 4014–4031 (2010) -- [10.1137/080742646](https://doi.org/10.1137/080742646)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Vazquez, Back-stepping boundary stabilization and state estimation of a 2× 2 linear hyperbolic system. (2011)
+- Villegas, J. (2007). A port-hamiltonian approach to distributed parameter systems.
 - Yoshida, (1960)
 - Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
 

@@ -49,20 +49,25 @@ distributed parameters systems, geometric reduction, port hamiltonian systems, t
 ## References
 - Marsden JE, Ratiu T (1986) Reduction of Poisson manifolds. Lett Math Phys 11(2):161–169. https://doi.org/10.1007/bf0039842 -- [10.1007/bf00398428](https://doi.org/10.1007/bf00398428)
 - Marsden JE, Ratiu T, Weinstein A (1984) Reduction and Hamiltonian structures on duals of semidirect product Lie algebras. Contemporary Mathematics 55–10 -- [10.1090/conm/028/751975](https://doi.org/10.1090/conm/028/751975)
+- J. Vankerschaver, H. Yoshimura, M. Leok, J. Marsden, StokesDirac structures through reduction of infinite-dimensional dirac structures, in: 49th IEEE Conference on Decision and Control, Hilton Atlanta Hotel, Atlanta, GA, USA.
 - Blankenstein G, van der Schaft AJ (2001) Symmetry and reduction in implicit generalized Hamiltonian systems. Reports on Mathematical Physics 47(1):57–100. https://doi.org/10.1016/s0034-4877(01)90006- -- [10.1016/s0034-4877(01)90006-0](https://doi.org/10.1016/s0034-4877(01)90006-0)
 - BRIDGES TJ (1997) Multi-symplectic structures and wave propagation. Math Proc Camb Phil Soc 121(1):147–190. https://doi.org/10.1017/s030500419600142 -- [10.1017/s0305004196001429](https://doi.org/10.1017/s0305004196001429)
 - Reich S (2000) Multi-Symplectic Runge–Kutta Collocation Methods for Hamiltonian Wave Equations. Journal of Computational Physics 157(2):473–499. https://doi.org/10.1006/jcph.1999.637 -- [10.1006/jcph.1999.6372](https://doi.org/10.1006/jcph.1999.6372)
 - Bridges TJ, Reich S (2001) Multi-symplectic integrators: numerical schemes for Hamiltonian PDEs that conserve symplecticity. Physics Letters A 284(4–5):184–193. https://doi.org/10.1016/s0375-9601(01)00294- -- [10.1016/s0375-9601(01)00294-8](https://doi.org/10.1016/s0375-9601(01)00294-8)
 - Hairer, (2002)
 - [van der Schaft AJ, Maschke BM (2002) Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42(1–2):166–194. https://doi.org/10.1016/s0393-0440(01)00083-](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- Y. Wu, B. Hamroun, Y. Le Gorrec, B. Maschke, Power preserving model reduction of 2D vibro-acoustic system: A port Hamiltonian approach, in :5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control (LHMNLC15).
 - [Kotyczka P, Maschke B, Lefèvre L (2018) Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics 361:442–476. https://doi.org/10.1016/j.jcp.2018.02.00](weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems) -- [10.1016/j.jcp.2018.02.006](https://doi.org/10.1016/j.jcp.2018.02.006)
 - Collet M, David P, Berthillier M (2009) Active acoustical impedance using distributed electrodynamical transducers. The Journal of the Acoustical Society of America 125(2):882–894. https://doi.org/10.1121/1.302632 -- [10.1121/1.3026329](https://doi.org/10.1121/1.3026329)
 - Collet, Semi-active optimization of 2D waves dispersion into shunted piezocomposite systems for controlling acoustic interaction. (2011)
 - [Vu NMT, Lefèvre L, Maschke B (2016) A structured control model for the thermo-magneto-hydrodynamics of plasmas in tokamaks. Mathematical and Computer Modelling of Dynamical Systems 22(3):181–206. https://doi.org/10.1080/13873954.2016.115487](a-structured-control-model-for-the-thermo-magneto-hydrodynamics-of-plasmas-in-tokamaks) -- [10.1080/13873954.2016.1154874](https://doi.org/10.1080/13873954.2016.1154874)
 - Cohen, The topology of fiber bundles. Lect. Notes (1998)
+- S. Morita, Geometry of differential forms, in: Mathematical Monographs, vol. 201.
+- K. Neeb, Differential Topology of Fiber Bundles, FAU ErlangenNuernberg.
 - Bott, (1982)
 - Audin, (2004)
 - Frankel, (2004)
+- V. Trenchant, Y. Fares, H. Ramirez, Y. Le Gorrec, M. Ouisse, A port-Hamiltonian formulation of a 2D boundary controlled acoustic system, in: 5th IFAC Workshop on Lagrangian and Hamiltonian Methods for Non Linear Control (LHMNLC15).
 - Wesson, (2004)
 - (2005) Fusion, tokamaks, and plasma control: an introduction and tutorial. IEEE Control Syst 25(5):30–43. https://doi.org/10.1109/mcs.2005.151279 -- [10.1109/mcs.2005.1512794](https://doi.org/10.1109/mcs.2005.1512794)
 - (2006) Emerging applications in tokamak plasma control. IEEE Control Syst 26(2):35–63. https://doi.org/10.1109/mcs.2006.161527 -- [10.1109/mcs.2006.1615272](https://doi.org/10.1109/mcs.2006.1615272)

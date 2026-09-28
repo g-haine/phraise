@@ -52,6 +52,7 @@ Bond graphs; State-Input-Output Port-Hamiltonian Systems; Model equivalences
  
 ## References
 - Achir, Bond graph and flatness based backstepping control of a salient permanent magnet synchronous motor. Journal of System and Control Engineering Part I (2005)
+- P. Borne, G. Dauphin-Tanguy, J.P. Richard, F. Rotella, I. Zambettakis, Modélisation et Indentification des Processus, T2, Editions Technip, Paris, 1992.
 - Borutzky, (2004)
 - Dauphin-Tanguy, G., Rahmani, A. & Sueur, C. Bond graph aided design of controlled systems. Simulation Practice and Theory vol. 7 493–513 (1999) -- [10.1016/s0928-4869(99)00009-9](https://doi.org/10.1016/s0928-4869(99)00009-9)
 - Delgado, M. & Sira-Ramı́rez, H. A bond graph approach to the modeling and simulation of switch regulated DC-to-DC power supplies. Simulation Practice and Theory vol. 6 631–646 (1998) -- [10.1016/s0928-4869(98)00011-1](https://doi.org/10.1016/s0928-4869(98)00011-1)

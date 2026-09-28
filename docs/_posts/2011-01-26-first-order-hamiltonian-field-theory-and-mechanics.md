@@ -49,10 +49,12 @@ This article deals with the geometric analysis of the evolutionary and the polys
 - Giachetta, G., Mangiarotti, L. & Sardanashvily, G. New Lagrangian and Hamiltonian Methods in Field Theory. (1997) doi:10.1142/2199 -- [10.1142/2199](https://doi.org/10.1142/2199)
 - Gotay, M. J. A multisymplectic framework for classical field theory and the calculus of variations II: space + time decomposition. Differential Geometry and its Applications 1, 375–390 (1991) -- [10.1016/0926-2245(91)90014-z](https://doi.org/10.1016/0926-2245(91)90014-z)
 - Kanatchikov, I. V. Canonical structure of classical field theory in the polymomentum phase space. Reports on Mathematical Physics 41, 49–90 (1998) -- [10.1016/s0034-4877(98)80182-1](https://doi.org/10.1016/s0034-4877(98)80182-1)
+- Schöberl, M. and Schlacher, K. Hamiltonian Field Theory and Mechanics. Proceedings of the Mathmod 09 Vienna. Edited by: Troch, I. and Breitenecker, F. pp.950–957. ARGESIM/ASIM Wien, Vienna
 - Abraham R.A., Foundations of Mechanics (1978)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Campos C.M., J. Phys. A Math. Theor. (2009)
 - Saunders, D. J. The Geometry of Jet Bundles. (1989) doi:10.1017/cbo9780511526411 -- [10.1017/cbo9780511526411](https://doi.org/10.1017/cbo9780511526411)
 - [Schöberl, M., Ennsbrunner, H. & Schlacher, K. Modelling of piezoelectric structures–a Hamiltonian approach. Mathematical and Computer Modelling of Dynamical Systems 14, 179–193 (2008)](modelling-of-piezoelectric-structures-a-hamiltonian-approach) -- [10.1080/13873950701844824](https://doi.org/10.1080/13873950701844824)
 - Schöberl, M. & Schlacher, K. Covariant formulation of the governing equations of continuum mechanics in an Eulerian description. Journal of Mathematical Physics 48, (2007) -- [10.1063/1.2735444](https://doi.org/10.1063/1.2735444)
+- Krupkova, O. Hamiltonian Field Theory Revisited: A Geometric Approach To Regularity. Proceedings of the Colloquium on Differential Geometry. Debrescen, Hungary.
 

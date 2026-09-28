@@ -52,7 +52,13 @@ algebraic constraint, dae system, dirac structure, lagrangian subspace, port-ham
 - van der Schaft, (2017)
 - [Dalsmo M, van der Schaft A (1998) On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM J Control Optim 37(1):54–91. https://doi.org/10.1137/s036301299631203](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
 - [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- C.A. Beattie, V. Mehrmann, H. Xu, H. Zwart, Port-Hamiltonian descriptor systems. Preprint 06-2017, Institüt für Mathematik, TU Berlin, 2017, arXiv:1705.09081.
+- V. Mehrmann, C. Mehl, M. Wojtylak, Linear algebra properties of dissipative Hamiltonian descriptor systems, arXiv:1801.02214.
 - [Mehl C, Mehrmann V, Sharma P (2016) Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM J Matrix Anal &amp; Appl 37(4):1625–1654. https://doi.org/10.1137/16m106733](stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations) -- [10.1137/16m1067330](https://doi.org/10.1137/16m1067330)
+- C.A. Beattie, V. Mehrmann, P. Van Dooren, Robust port-Hamiltonian representations of passive systems, arXiv:1801.05018.
+- L. Scholz, Condensed forms for linear port-Hamiltonian descriptor systems. Preprint 09-2017, Institüt für Mathematik, TU Berlin, 2017.
+- M. Barbero-Linan, H. Cendra, E. Garcia-Torano Andres, D. Martin de Diego, Morse families and Dirac systems, arXiv:1804.04949v1.
+- H. Zwart, handwritten notes.
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Übertrag.tech. (1995)
 - [Courant TJ (1990) Dirac manifolds. Trans Amer Math Soc 319(2):631–661. https://doi.org/10.1090/s0002-9947-1990-0998124-](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [van der Schaft AJ, Maschke BM (2013) Port-Hamiltonian Systems on Graphs. SIAM J Control Optim 51(2):906–937. https://doi.org/10.1137/11084009](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)

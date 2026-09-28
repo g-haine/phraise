@@ -54,6 +54,7 @@ electrical analogy; gas pipeline; network modeling; port-Hamiltonian modeling
 ## References
 - Alamian, R., Behbahani-Nejad, M. & Ghanbarzadeh, A. A state space model for transient flow simulation in natural gas pipelines. Journal of Natural Gas Science and Engineering vol. 9 51–59 (2012) -- [10.1016/j.jngse.2012.05.013](https://doi.org/10.1016/j.jngse.2012.05.013)
 - Cellier, (2006)
+- Domschke, P., Hiller, B., Lang, J., Mehrmann, V., Morandin, R., and Tischendorf, C. (2021). Gas network modeling: An overview. URL https://opus4.kobv.de/opus4-trr154/frontdoor/index/index/docId/411. Preprint.
 - Herrán-González, A., De La Cruz, J. M., De Andrés-Toro, B. & Risco-Martín, J. L. Modeling and simulation of a gas distribution pipeline network. Applied Mathematical Modelling vol. 33 1584–1600 (2009) -- [10.1016/j.apm.2008.02.012](https://doi.org/10.1016/j.apm.2008.02.012)
 - Ke, S. Transient analysis of isothermal gas flow in pipeline network. Chemical Engineering Journal vol. 76 169–177 (2000) -- [10.1016/s1385-8947(99)00122-9](https://doi.org/10.1016/s1385-8947(99)00122-9)
 - Koch, Evaluating Gas Network Capacities. Society for Industrial and Applied Mathematics (2015)

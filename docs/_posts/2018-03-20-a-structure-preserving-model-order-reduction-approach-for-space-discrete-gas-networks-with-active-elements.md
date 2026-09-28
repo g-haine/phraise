@@ -41,5 +41,7 @@ Aiming for an efficient simulation of gas networks with active elements a struct
 ## References
 - Freund, R. W. On Padé-type model order reduction of J-Hermitian linear dynamical systems. Linear Algebra and its Applications 429, 2451–2464 (2008) -- [10.1016/j.laa.2008.03.003](https://doi.org/10.1016/j.laa.2008.03.003)
 - Grundel, S. et al. Model Order Reduction of Differential Algebraic Equations Arising from the Simulation of Gas Transport Networks. Differential-Algebraic Equations Forum 183–205 (2014) doi:10.1007/978-3-662-44926-4_9 -- [10.1007/978-3-662-44926-4_9](https://doi.org/10.1007/978-3-662-44926-4_9)
+- Huck, C., Liljegren-Sailer, B., Marheineke, N., Tischendorf, C.: Discretization and MOR for PDAEs describing gas transport in networks (2016, Preprint)
+- Kolb, O.: Simulation and optimization of gas and water supply networks. Ph.D. thesis, TU Darmstadt (2011)
 - [van der Schaft, A. J. & Polyuga, R. V. Structure-preserving model reduction of complex physical systems. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 4322–4327 (2009) doi:10.1109/cdc.2009.5399669](structure-preserving-model-reduction-of-complex-physical-systems) -- [10.1109/cdc.2009.5399669](https://doi.org/10.1109/cdc.2009.5399669)
 

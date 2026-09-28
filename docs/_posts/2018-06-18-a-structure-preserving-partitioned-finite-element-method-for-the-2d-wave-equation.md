@@ -54,8 +54,11 @@ Distributed Parameter systems; Port-Hamiltonian systems; Finite Element Method; 
  
 ## References
 - Boyd, (2001)
+- Cardoso-Ribeiro, F.L., Matignon, D., and Pommier-Budinger, V. (2016). Piezoelectric beam with distributed control ports : a power-preserving discretization using weak formulation. In 2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations (CPDE), 290–297. Bertinoro, Italy.
+- Cardoso-Ribeiro, F.L., Matignon, D., and Lefèvre, L. (2018). A Partitioned Finite-Element Method for power-preserving discretization of open systems of conservation laws. Preprint, to be submitted.
 - Duindam, (2009)
 - [Farle, O., Klis, D., Jochum, M., Floch, O. & Dyczij-Edlinger, R. A port-hamiltonian finite-element formulation for the maxwell equations. 2013 International Conference on Electromagnetics in Advanced Applications (ICEAA) 324–327 (2013) doi:10.1109/iceaa.2013.6632246](a-port-hamiltonian-finite-element-formulation-for-the-maxwell-equations) -- [10.1109/iceaa.2013.6632246](https://doi.org/10.1109/iceaa.2013.6632246)
+- Farle, O., Baltes, R.B., and Dyczij-Edlinger, R. (2014a). A Port-Hamiltonian Finite-Element Formulation for the Transmission Line. In Proceedings of 21st International Symposium on Mathematical Theory of Networks and Systems, 724–728. Groningen, The Netherlands.
 - [Farle, O., Baltes, R.-B. & Dyczij-Edlinger, R. Strukturerhaltende Diskretisierung verteilt-parametrischer Port-Hamiltonscher Systeme mittels finiter Elemente. at - Automatisierungstechnik vol. 62 500–511 (2014)](strukturerhaltende-diskretisierung-verteilt-parametrischer-port-hamiltonscher-systeme-mittels-finiter-elemente) -- [10.1515/auto-2014-1093](https://doi.org/10.1515/auto-2014-1093)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - Hecht, F. New development in freefem++. Journal of Numerical Mathematics vol. 20 (2012) -- [10.1515/jnum-2012-0013](https://doi.org/10.1515/jnum-2012-0013)

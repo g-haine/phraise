@@ -68,4 +68,5 @@ casimir function, control, energy-shaping, input-to-state stabilization
 - Sontag, E. D. On the Input-to-State Stability Property. European Journal of Control 1, 24–36 (1995) -- [10.1016/s0947-3580(95)70005-x](https://doi.org/10.1016/s0947-3580(95)70005-x)
 - Sontag, E. & Teel, A. Changing supply functions in input/state stable systems. IEEE Trans. Automat. Contr. 40, 1476–1478 (1995) -- [10.1109/9.402246](https://doi.org/10.1109/9.402246)
 - Sontag, E. D. & Wang, Y. On characterizations of the input-to-state stability property. Systems &amp; Control Letters 24, 351–359 (1995) -- [10.1016/0167-6911(94)00050-6](https://doi.org/10.1016/0167-6911(94)00050-6)
+- H. K. Khalil, Nonlinear Systems (Third Edition), Prentice Hall, 2002.
 

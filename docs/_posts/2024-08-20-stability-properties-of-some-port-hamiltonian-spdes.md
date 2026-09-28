@@ -55,6 +55,7 @@ We examine the existence and uniqueness of invariant measures of a class of stoc
 - Giacomin G, Lebowitz J, Presutti E (1999) Deterministic and stochastic hydrodynamic equations arising from simple microscopic model systems. Mathematical Surveys and Monographs 107–15 -- [10.1090/surv/064/03](https://doi.org/10.1090/surv/064/03)
 - Guo Y, Shu X-B, Yin Q (2022) Existence of solutions for first-order Hamiltonian random impulsive differential equations with Dirichlet boundary conditions. DCDS-B 27(8):4455. https://doi.org/10.3934/dcdsb.202123 -- [10.3934/dcdsb.2021236](https://doi.org/10.3934/dcdsb.2021236)
 - Yin Q-B, Guo Y, Wu D, Shu X-B (2023) Existence and Multiplicity of Mild Solutions for First-Order Hamilton Random Impulsive Differential Equations with Dirichlet Boundary Conditions. Qual Theory Dyn Syst 22(2). https://doi.org/10.1007/s12346-023-00748- -- [10.1007/s12346-023-00748-5](https://doi.org/10.1007/s12346-023-00748-5)
+- B. Jacob and H. Zwart Linear port-Hamiltonian systems on infinite-dimensional spaces in Operator Theory: Advances and Applications Linear Operators and Linear Systems (LOLS) Vol. 223 Birkhäuser and Springer Basel AG Basel 2012. pp. xii+217 ISBN: 978-3-0348-0398-4.
 - [Lamoline F, Winkin JJ (2020) Well-Posedness of Boundary Controlled and Observed Stochastic Port-Hamiltonian Systems. IEEE Trans Automat Contr 65(10):4258–4264. https://doi.org/10.1109/tac.2019.295448](well-posedness-of-boundary-controlled-and-observed-stochastic-port-hamiltonian-systems) -- [10.1109/tac.2019.2954481](https://doi.org/10.1109/tac.2019.2954481)
 - Mandrekar V., Stochastic Integration in Banach Spaces: Theory and Applications (2014)
 - Mandrekar V, Rüdiger B (2023) Stability Properties of Mild Solutions of SPDEs Related to Pseudo Differential Equations. Springer Proceedings in Mathematics &amp; Statistics 295–31 -- [10.1007/978-3-031-14031-0_13](https://doi.org/10.1007/978-3-031-14031-0_13)
@@ -62,5 +63,6 @@ We examine the existence and uniqueness of invariant measures of a class of stoc
 - Prüss J., Gewöhnliche Differentialgleichungen Und Dynamische Systeme (2010)
 - van der Schaft A., Port-Hamiltonian Systems: An Introductory Survey (2006)
 - [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overvie](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
+- O. van Gaans Invariant measures for stochastic evolution equations with Hilbert space valued Lévy noise preprint (2005) Available at https://www.math.leidenuniv.nl/vangaans/gaansrep1.pdf.
 - Villani C (2009) Optimal Transport. Springer Berlin Heidelber -- [10.1007/978-3-540-71050-9](https://doi.org/10.1007/978-3-540-71050-9)
 

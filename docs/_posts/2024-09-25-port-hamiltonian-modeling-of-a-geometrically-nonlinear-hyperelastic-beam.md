@@ -53,10 +53,13 @@ Port-Hamiltonian systems; Modeling; Timoshenko beam; Nonlinear systems
  
 ## References
 - Azarniya, O., Rahimi, G. & Forooghi, A. Large deformation analysis of a hyperplastic beam using experimental / FEM/ meshless collocation method. Waves in Random and Complex Media 1–20 (2023) doi:10.1080/17455030.2023.2184645 -- [10.1080/17455030.2023.2184645](https://doi.org/10.1080/17455030.2023.2184645)
+- Brugnoli, A. (2020). A port-Hamiltonian formulation of flexible structures. Modelling and structure-preserving finite element discretization. Ph.D. thesis, Toulouse, ISAE.
+- Brugnoli, A. and Matignon, D. (2022). A port-Hamiltonian formulation for the full von-Kármán plate model. In 10th European Nonlinear Dynamics Conference (ENOC), Jul 2022, Lyon, France.
 - [Brugnoli, A., Rashad, R., Califano, F., Stramigioli, S. & Matignon, D. Mixed finite elements for port-Hamiltonian models of von Kármán beams. IFAC-PapersOnLine vol. 54 186–191 (2021)](mixed-finite-elements-for-port-hamiltonian-models-of-von-karman-beams) -- [10.1016/j.ifacol.2021.11.076](https://doi.org/10.1016/j.ifacol.2021.11.076)
 - Duindam, (2009)
 - Gurtin, (1973)
 - Kinon, (2023)
+- Le Gorrec, Y., Zwart, H., and Maschke, B. (2004). A semigroup approach to port-Hamiltonian systems associated with linear skew symmetric operator. In 16th international symposium on mathematical theory of networks and systems (MTNS 2004).
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
 - [Ponce, C., Wu, Y., Le Gorrec, Y. & Ramirez, H. A systematic methodology for port-Hamiltonian modeling of multidimensional flexible linear mechanical systems. Applied Mathematical Modelling vol. 134 434–451 (2024)](a-systematic-methodology-for-port-hamiltonian-modeling-of-multidimensional-flexible-linear-mechanical-systems) -- [10.1016/j.apm.2024.05.040](https://doi.org/10.1016/j.apm.2024.05.040)

@@ -54,6 +54,7 @@ Rotating shallow water equations; Acoustic equations; Maxwell equations; Hamilto
  
 ## References
 - Bokhove, O. & Oliver, M. Parcel Eulerian–Lagrangian fluid dynamics of rotating geophysical flows. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences vol. 462 2575–2592 (2006) -- [10.1098/rspa.2006.1656](https://doi.org/10.1098/rspa.2006.1656)
+- Blom, C.: Discontinuous Galerkin method on tetrahedral elements for aeroacoustic. Ph.D. Thesis, University of Twente, Enschede, The Netherlands (2003)
 - B. Cockburn, Math. Comput. (1990)
 - Cockburn, B. & Shu, C.-W. The Runge–Kutta Discontinuous Galerkin Method for Conservation Laws V. Journal of Computational Physics vol. 141 199–224 (1998) -- [10.1006/jcph.1998.5892](https://doi.org/10.1006/jcph.1998.5892)
 - Hairer, E., Wanner, G. & Lubich, C. Geometric Numerical Integration. Springer Series in Computational Mathematics (Springer Berlin Heidelberg, 2002). doi:10.1007/978-3-662-05018-7 -- [10.1007/978-3-662-05018-7](https://doi.org/10.1007/978-3-662-05018-7)

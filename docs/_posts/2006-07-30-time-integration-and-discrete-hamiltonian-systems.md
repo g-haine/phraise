@@ -56,7 +56,10 @@ Hamiltonian System; Discrete System; Relative Equilibrium; Symplectic Structure;
 - Austin, M. A., Krishnaprasad, P. S. & Wang, L.-S. Almost Poisson Integration of Rigid Body Systems. Journal of Computational Physics vol. 107 105–117 (1993) -- [10.1006/jcph.1993.1128](https://doi.org/10.1006/jcph.1993.1128)
 - Crisfield, M. A. & Shi, J. A co‐rotational element/time‐integration strategy for non‐linear dynamics. International Journal for Numerical Methods in Engineering vol. 37 1897–1913 (1994) -- [10.1002/nme.1620371108](https://doi.org/10.1002/nme.1620371108)
 - Delfour, M., Fortin, M. & Payr, G. Finite-difference solutions of a non-linear Schrödinger equation. Journal of Computational Physics vol. 44 277–288 (1981) -- [10.1016/0021-9991(81)90052-8](https://doi.org/10.1016/0021-9991(81)90052-8)
+- O. Gonzalez (1996a) Mechanical systems subject to holonomic constraints: Differential-algebraic formulations and conservative integration,Physica D, to appear.
+- O. Gonzalez (1996b) “Design and analysis of conserving integrators for nonlinear Hamiltonian systems with symmetry,” Ph.D. Dissertation, Department of Mechanical Engineering, Division of Applied Mechanics, Stanford University.
 - Gonzalez, O. & Simo, J. C. On the stability of symplectic and energy-momentum algorithms for non-linear Hamiltonian systems with symmetry. Computer Methods in Applied Mechanics and Engineering vol. 134 197–222 (1996) -- [10.1016/0045-7825(96)01009-2](https://doi.org/10.1016/0045-7825(96)01009-2)
+- O. Gonzalez & J. C. Simo (1996b) Exact energy-momentum conserving algorithms for general models in nonlinear elasticity, submitted.
 - D. Greenspan, Discrete Models (1973)
 - Itoh, T. & Abe, K. Hamiltonian-conserving discrete canonical equations based on variational difference quotients. Journal of Computational Physics vol. 76 85–102 (1988) -- [10.1016/0021-9991(88)90132-5](https://doi.org/10.1016/0021-9991(88)90132-5)
 - Itoh, T. & Abe, K. Discrete Lagrange’s equations and canonical equations based on the principle of least action. Applied Mathematics and Computation vol. 29 161–183 (1989) -- [10.1016/0096-3003(89)90100-8](https://doi.org/10.1016/0096-3003(89)90100-8)
@@ -72,5 +75,6 @@ Hamiltonian System; Discrete System; Relative Equilibrium; Symplectic Structure;
 - J. C. Simo, ZAMP (1992)
 - Ramm, E. Preface. International Journal for Numerical Methods in Engineering vol. 37 2525–2525 (1994) -- [10.1002/nme.1620371502](https://doi.org/10.1002/nme.1620371502)
 - Simo, J. C., Tarnow, N. & Doblare, M. Non‐linear dynamics of three‐dimensional rods: Exact energy and momentum conserving algorithms. International Journal for Numerical Methods in Engineering vol. 38 1431–1473 (1995) -- [10.1002/nme.1620380903](https://doi.org/10.1002/nme.1620380903)
+- J. C. Simo & O. Gonzalez (1993) Assessment of energy-momentum and symplectic schemes for stiff dynamical systems,American Society of Mechanical Engineers, ASME Winter Annual Meeting, New Orleans, LA.
 - Tarnow, N. & Simo, J. C. How to render second order accurate time-stepping algorithms fourth order accurate while retaining the stability and conservation properties. Computer Methods in Applied Mechanics and Engineering vol. 115 233–252 (1994) -- [10.1016/0045-7825(94)90061-2](https://doi.org/10.1016/0045-7825(94)90061-2)
 

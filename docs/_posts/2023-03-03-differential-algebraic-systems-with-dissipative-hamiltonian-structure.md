@@ -54,13 +54,13 @@ Port-Hamiltonian system; Dissipative Hamiltonian system; Differential–algebrai
  
 ## References
 - Achleitner F, Arnold A, Mehrmann V (2021) Hypocoercivity and controllability in linear semi-dissipative ODEs and DAEs. ZAMM Z Angew Math Mech (in press)
-- VI Arnol’d. Arnol’d VI (2013) Mathematical methods of classical mechanics, vol 60. Springer, New York (2013)
+- Arnol’d VI (2013) Mathematical methods of classical mechanics, vol 60. Springer, New York
 - [Beattie, C. A., Mehrmann, V. & Van Dooren, P. Robust port-Hamiltonian representations of passive systems. Automatica vol. 100 182–186 (2019)](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)
-- C Beattie. Beattie C, Mehrmann V, Xu H, Zwart H (2018) Port-Hamiltonian descriptor systems. Math Control Signals Syst 30(17):1–27 (2018)
-- P Benner. Benner P, Byers R, Faßbender H, Mehrmann V, Watkins D (2000) Cholesky-like factorizations of skew-symmetric matrices. Electron Trans Numer Anal 11:85–93 (2000)
+- Beattie C, Mehrmann V, Xu H, Zwart H (2018) Port-Hamiltonian descriptor systems. Math Control Signals Syst 30(17):1–27
+- Benner P, Byers R, Faßbender H, Mehrmann V, Watkins D (2000) Cholesky-like factorizations of skew-symmetric matrices. Electron Trans Numer Anal 11:85–93
 - Breedveld PC (2008) Modeling and simulation of dynamic systems using bond graphs. EOLSS Publishers Co. Ltd./UNESCO, Oxford, pp 128–173
 - Brüll T, Mehrmann V (2007) STCSSP: A FORTRAN 77 routine to compute a structured staircase form for a (skew-)symmetric/(skew-)symmetric matrix pencil. Preprint 31-2007, Institut für Mathematik, TU Berlin
-- R Byers. Byers R, Mehrmann V, Xu H (2007) A structured staircase algorithm for skew-symmetric/symmetric pencils. Electron Trans Numer Anal 26:1–13 (2007)
+- Byers R, Mehrmann V, Xu H (2007) A structured staircase algorithm for skew-symmetric/symmetric pencils. Electron Trans Numer Anal 26:1–13
 - [Camlibel, M. K. & van der Schaft, A. J. Port-Hamiltonian Systems Theory and Monotonicity. SIAM Journal on Control and Optimization vol. 61 2193–2221 (2023)](port-hamiltonian-systems-theory-and-monotonicity) -- [10.1137/22m1503749](https://doi.org/10.1137/22m1503749)
 - [Camlibel, M. K. & van der Schaft, A. J. Incrementally port-Hamiltonian systems. 52nd IEEE Conference on Decision and Control 2538–2543 (2013) doi:10.1109/cdc.2013.6760262](incrementally-port-hamiltonian-systems) -- [10.1109/cdc.2013.6760262](https://doi.org/10.1109/cdc.2013.6760262)
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
@@ -72,7 +72,7 @@ Port-Hamiltonian system; Dissipative Hamiltonian system; Differential–algebrai
 - Eich-Soellner, E. & Führer, C. Numerical Methods in Multibody Dynamics. European Consortium for Mathematics in Industry (Vieweg+Teubner Verlag, 1998). doi:10.1007/978-3-663-09828-7 -- [10.1007/978-3-663-09828-7](https://doi.org/10.1007/978-3-663-09828-7)
 - Emmrich, E. & Mehrmann, V. Operator Differential-Algebraic Equations Arising in Fluid Dynamics. Computational Methods in Applied Mathematics vol. 13 443–470 (2013) -- [10.1515/cmam-2013-0018](https://doi.org/10.1515/cmam-2013-0018)
 - Freund, R. W. The SPRIM Algorithm for Structure-Preserving Order Reduction of General RCL Circuits. Lecture Notes in Electrical Engineering 25–52 (2011) doi:10.1007/978-94-007-0089-5_2 -- [10.1007/978-94-007-0089-5_2](https://doi.org/10.1007/978-94-007-0089-5_2)
-- FR Gantmacher. Gantmacher FR (1959) Theory of matrices, vol 1. Chelsea, New York (1959)
+- Gantmacher FR (1959) Theory of matrices, vol 1. Chelsea, New York
 - [Gernandt, H., Haller, F. E. & Reis, T. A Linear Relation Approach to Port-Hamiltonian Differential-Algebraic Equations. SIAM Journal on Matrix Analysis and Applications vol. 42 1011–1044 (2021)](a-linear-relation-approach-to-port-hamiltonian-differential-algebraic-equations) -- [10.1137/20m1371166](https://doi.org/10.1137/20m1371166)
 - Golo G, van der Schaft AJ, Breedveld PC, Maschke BM (2003) Hamiltonian formulation of bond graphs. In: Rantzer A, Johansson R (eds) Nonlinear and hybrid systems in automotive control. Springer, Heidelberg, pp 351–372
 - [Günther, M., Bartel, A., Jacob, B. & Reis, T. Dynamic iteration schemes and port‐Hamiltonian formulation in coupled differential‐algebraic equation circuit simulation. International Journal of Circuit Theory and Applications vol. 49 430–452 (2020)](dynamic-iteration-schemes-and-port-hamiltonian-formulation-in-coupled-differential-algebraic-equation-circuit-simulation) -- [10.1002/cta.2870](https://doi.org/10.1002/cta.2870)
@@ -87,7 +87,7 @@ Port-Hamiltonian system; Dissipative Hamiltonian system; Differential–algebrai
 - [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica vol. 32 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - [van der Schaft, A. Port-Hamiltonian systems: an introductory survey. Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006 1339–1365 (2007) doi:10.4171/022-3/65](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
-- AJ van der Schaft. van der Schaft AJ, Maschke BM (1995) The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Übertragungstech. 45:362–371 (1995)
+- van der Schaft AJ, Maschke BM (1995) The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Übertragungstech. 45:362–371
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 - Scholz L (2017) Condensed forms for linear port-Hamiltonian descriptor systems. Preprint 09–2017, Institut für Mathematik, Technische Universität Berlin
 - [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)

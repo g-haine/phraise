@@ -58,6 +58,7 @@ Vehicle platooning; Aerodynamic drag; Port-Hamiltonian modeling
 - Cerutti, J. J., Cafiero, G. & Iuso, G. Aerodynamic drag reduction by means of platooning configurations of light commercial vehicles: A flow field analysis. International Journal of Heat and Fluid Flow vol. 90 108823 (2021) -- [10.1016/j.ijheatfluidflow.2021.108823](https://doi.org/10.1016/j.ijheatfluidflow.2021.108823)
 - Chien, Automatic vehicle-following. (1992)
 - Cook, P. A. Conditions for string stability. Systems &amp; Control Letters vol. 54 991–998 (2005) -- [10.1016/j.sysconle.2005.02.011](https://doi.org/10.1016/j.sysconle.2005.02.011)
+- Council of European Union (2019). Council directive 96/53/ec.
 - Deng, Q. A General Simulation Framework for Modeling and Analysis of Heavy-Duty Vehicle Platooning. IEEE Transactions on Intelligent Transportation Systems vol. 17 3252–3262 (2016) -- [10.1109/tits.2016.2548502](https://doi.org/10.1109/tits.2016.2548502)
 - Feng, S. et al. String stability for vehicular platoon control: Definitions and analysis methods. Annual Reviews in Control vol. 47 81–97 (2019) -- [10.1016/j.arcontrol.2019.03.001](https://doi.org/10.1016/j.arcontrol.2019.03.001)
 - Ferguson, J., Donaire, A., Knorn, S. & Middleton, R. H. Decentralized control for l2 weak string stability of vehicle platoon. IFAC-PapersOnLine vol. 50 15012–15017 (2017) -- [10.1016/j.ifacol.2017.08.2572](https://doi.org/10.1016/j.ifacol.2017.08.2572)

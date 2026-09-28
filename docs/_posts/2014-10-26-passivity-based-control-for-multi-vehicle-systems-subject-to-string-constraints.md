@@ -50,6 +50,7 @@ Hamiltonian systems; String stability; Multi-vehicle systems
 [Download the bib file]({{ site.baseurl }}/assets/bib/passivity-based-control-for-multi-vehicle-systems-subject-to-string-constraints.bib)
  
 ## References
+- Barooah P, Hespanha JP (2006) Error Amplification and Disturbance Propagation in Vehicle Strings with Decentralized Linear Control. In: Proceedings of the 44th IEEE Conference on Decision and Control. IEEE, pp 4964–4969 -- [10.1109/cdc.2005.1582948](https://doi.org/10.1109/cdc.2005.1582948)
 - Barooah, P., Mehta, P. G. & Hespanha, J. P. Mistuning-Based Control Design to Improve Closed-Loop Stability Margin of Vehicular Platoons. IEEE Transactions on Automatic Control vol. 54 2100–2113 (2009) -- [10.1109/tac.2009.2026934](https://doi.org/10.1109/tac.2009.2026934)
 - Chien, C. C. & Ioannou, P. Automatic Vehicle-Following. 1992 American Control Conference 1748–1752 (1992) doi:10.23919/acc.1992.4792410 -- [10.23919/acc.1992.4792410](https://doi.org/10.23919/acc.1992.4792410)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)

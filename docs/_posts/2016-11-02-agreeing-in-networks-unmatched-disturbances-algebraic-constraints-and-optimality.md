@@ -55,10 +55,12 @@ Output agreement; Algebraic constraints; Heterogeneous networks; Unmatched distu
 - Bai, (2011)
 - Bergen, A. R. & Hill, D. J. A Structure Preserving Model for Power System Stability Analysis. IEEE Transactions on Power Apparatus and Systems vol. PAS-100 25–35 (1981) -- [10.1109/tpas.1981.316883](https://doi.org/10.1109/tpas.1981.316883)
 - Bürger, M. & De Persis, C. Dynamic coupling design for nonlinear output agreement and time-varying flow control. Automatica vol. 51 210–222 (2015) -- [10.1016/j.automatica.2014.10.081](https://doi.org/10.1016/j.automatica.2014.10.081)
+- Bürger, M., De Persis, C., & Trip, S. (2014). An internal model approach to (optimal) frequency regulation in power grids. In Proc. of the 21th international symposium on mathematical theory of networks and systems, MTNS, Groningen, the Netherlands (pp. 577–583).
 - Bürger, M., Zelazo, D. & Allgöwer, F. Duality and network theory in passivity-based cooperative control. Automatica vol. 50 2051–2061 (2014) -- [10.1016/j.automatica.2014.06.002](https://doi.org/10.1016/j.automatica.2014.06.002)
 - De Persis, C. Balancing time-varying demand-supply in distribution networks: An internal model approach. 2013 European Control Conference (ECC) 748–753 (2013) doi:10.23919/ecc.2013.6669480 -- [10.23919/ecc.2013.6669480](https://doi.org/10.23919/ecc.2013.6669480)
 - Dörfler, F. & Bullo, F. Synchronization in complex networks of phase oscillators: A survey. Automatica vol. 50 1539–1564 (2014) -- [10.1016/j.automatica.2014.04.012](https://doi.org/10.1016/j.automatica.2014.04.012)
 - Dörfler, F., Chertkov, M. & Bullo, F. Synchronization in complex oscillator networks and smart grids. Proceedings of the National Academy of Sciences vol. 110 2005–2010 (2013) -- [10.1073/pnas.1212134110](https://doi.org/10.1073/pnas.1212134110)
+- Dörfler, F., Simpson-Porco, J., & Bullo, F. (2014). Breaking the hierarchy: Distributed control & economic optimality in microgrids. ArXiv Preprint arXiv:1401.1767.
 - Falnes, J. A review of wave-energy extraction. Marine Structures vol. 20 185–201 (2007) -- [10.1016/j.marstruc.2007.09.001](https://doi.org/10.1016/j.marstruc.2007.09.001)
 - Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Kokotovic, P. V., O’Malley, R. E., Jr. & Sannuti, P. Singular perturbations and order reduction in control theory — An overview. Automatica vol. 12 123–132 (1976) -- [10.1016/0005-1098(76)90076-5](https://doi.org/10.1016/0005-1098(76)90076-5)
@@ -66,6 +68,7 @@ Output agreement; Algebraic constraints; Heterogeneous networks; Unmatched distu
 - Machowski, (2011)
 - Milan, P., Wächter, M. & Peinke, J. Turbulent Character of Wind Energy. Physical Review Letters vol. 110 (2013) -- [10.1103/physrevlett.110.138701](https://doi.org/10.1103/physrevlett.110.138701)
 - Olfati-Saber, R., Fax, J. A. & Murray, R. M. Consensus and Cooperation in Networked Multi-Agent Systems. Proceedings of the IEEE vol. 95 215–233 (2007) -- [10.1109/jproc.2006.887293](https://doi.org/10.1109/jproc.2006.887293)
+- Olfati-Saber, R., & Murray, R.M. (2003). Consensus protocols for networks of dynamical systems. In Proceedings of American control conference, Vol. 2 (pp. 951–956).
 - [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems &amp; Control Letters vol. 61 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
 - Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems &amp; Control Letters vol. 57 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
 - Sauer, (1998)

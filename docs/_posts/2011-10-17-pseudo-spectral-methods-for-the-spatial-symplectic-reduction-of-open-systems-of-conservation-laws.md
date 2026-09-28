@@ -56,6 +56,7 @@ Symplectic methods; Spatial reduction; Pseudo-spectral methods; Hamiltonian syst
 ## References
 - [Baaiu, A. et al. Port-based modelling of mass transport phenomena. Mathematical and Computer Modelling of Dynamical Systems vol. 15 233–254 (2009)](port-based-modelling-of-mass-transport-phenomena) -- [10.1080/13873950902808578](https://doi.org/10.1080/13873950902808578)
 - Baaiu, A., Couenne, F., Lefevre, L., Le Gorrec, Y. & Tayakout, M. Structure-preserving infinite dimensional model reduction: Application to adsorption processes. Journal of Process Control vol. 19 394–404 (2009) -- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
+- G. Besançon, J.F. Dulhoste, D. Georges. A nonlinear backstepping-like controller for a three-point collocation model of water flow dynamics, in: Proceedings of IEEE Conference on Control Application CCA’2001, Mexico, Mexico, 2001.
 - Blankenstein, G. & Ratiu, T. S. Singular reduction of implicit Hamiltonian systems. Reports on Mathematical Physics vol. 53 211–260 (2004) -- [10.1016/s0034-4877(04)90013-4](https://doi.org/10.1016/s0034-4877(04)90013-4)
 - Blankenstein, G. & van der Schaft, A. J. Symmetry and reduction in implicit generalized Hamiltonian systems. Reports on Mathematical Physics vol. 47 57–100 (2001) -- [10.1016/s0034-4877(01)90006-0](https://doi.org/10.1016/s0034-4877(01)90006-0)
 - Bossavit, Differential forms and the computation of fields and forces in electromagnetism. European Journal of Mechanics, B/Fluids (1991)
@@ -72,8 +73,10 @@ Symplectic methods; Spatial reduction; Pseudo-spectral methods; Hamiltonian syst
 - Fornberg, (1996)
 - Franco, A. A., Schott, P., Jallut, C. & Maschke, B. A Multi‐Scale Dynamic Mechanistic Model for the Transient Analysis of PEFCs. Fuel Cells vol. 7 99–117 (2007) -- [10.1002/fuce.200500204](https://doi.org/10.1002/fuce.200500204)
 - van der Schaft, Hamiltonian discretization of the Telegrapher’s equation. Automatica (2004)
+- Goran Golo, Interconnection structures in port-based modelling: tools for analysis and simulation, Ph.D. Thesis, University of Twente, Enschede, The Netherlands, October 2002. ISBN 9036518113.
 - Graf, Hydraulique fluviale – Ecoulement et phTnomFnes de transport dans les canaux a gTomTtrie simple. (2000)
 - Hamroun, Port-based modelling for open channel irrigation systems. Transactions on Fluid Mechanics (2006)
+- H. Hamroun, L. Lefevre, E. Mendes, Port-based modelling for open channel irrigation systems, in: Proceedings of the 2nd IASME/WSEAS International Conference on Water Resources, Hydraulics and Hydrology, Portorose, Slovenia, May 2007.
 - Lasagni, F. M. Canonical Runge-Kutta methods. ZAMP Zeitschrift f�r angewandte Mathematik und Physik vol. 39 952–953 (1988) -- [10.1007/bf00945133](https://doi.org/10.1007/bf00945133)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Macchelli, (2009)

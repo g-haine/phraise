@@ -40,4 +40,5 @@ The modeling and control of piezoelectric materials is an important research top
 ## References
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - A. Schaft, AEU. Archiv für Elektronik und Übertragungstechnik (1995)
+- Voß, T., Scherpen, J.: Modeling for control of a nonlinear Timoshenko beam with piezo actuation. (submitted)
 

@@ -55,6 +55,7 @@ infinite-dimensional systems; partial differential equations; in-domain actuatio
 [Download the bib file]({{ site.baseurl }}/assets/bib/energy-based-in-domain-control-of-a-piezo-actuated-euler-bernoulli-beam.bib)
  
 ## References
+- [Ennsbrunner H, Schlacher K (2006) On the geometrical representation and interconnection of infinite dimensional port controlled Hamiltonian systems. In: Proceedings of the 44th IEEE Conference on Decision and Control. IEEE, pp 5263–5268](on-the-geometrical-representation-and-interconnection-of-infinite-dimensional-port-controlled-hamiltonian-systems) -- [10.1109/cdc.2005.1582998](https://doi.org/10.1109/cdc.2005.1582998)
 - Giachetta, (1997)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Jacob, (2012)

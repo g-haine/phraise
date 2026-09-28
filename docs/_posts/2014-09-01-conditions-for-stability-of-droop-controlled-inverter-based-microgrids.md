@@ -74,6 +74,7 @@ Microgrid control; Microgrid stability; Smart grid applications; Inverters; Droo
 - Hatziargyriou, N., Asano, H., Iravani, R. & Marnay, C. Microgrids. IEEE Power and Energy Magazine vol. 5 78–94 (2007) -- [10.1109/mpae.2007.376583](https://doi.org/10.1109/mpae.2007.376583)
 - Hernandez-Aramburo, C. A., Green, T. C. & Mugniot, N. Fuel Consumption Minimization of a Microgrid. IEEE Transactions on Industry Applications vol. 41 673–681 (2005) -- [10.1109/tia.2005.847277](https://doi.org/10.1109/tia.2005.847277)
 - Horn, (2012)
+- IEEE (1998). IEEE recommended practice for industrial and commercial power systems analysis (brown book). IEEE standard 399-1997 (pp. 1–488).
 - Khalil, (2002)
 - Kundur, (1994)
 - Definition and Classification of Power System Stability IEEE/CIGRE Joint Task Force on Stability Terms and Definitions. IEEE Transactions on Power Systems vol. 19 1387–1401 (2004) -- [10.1109/tpwrs.2004.825981](https://doi.org/10.1109/tpwrs.2004.825981)
@@ -83,6 +84,7 @@ Microgrid control; Microgrid stability; Smart grid applications; Inverters; Droo
 - Lopes, J. A. P., Moreira, C. L. & Madureira, A. G. Defining Control Strategies for MicroGrids Islanded Operation. IEEE Transactions on Power Systems vol. 21 916–924 (2006) -- [10.1109/tpwrs.2006.873018](https://doi.org/10.1109/tpwrs.2006.873018)
 - [Transient stabilization of multimachine power systems with nontrivial transfer conductances. IEEE Transactions on Automatic Control vol. 50 60–75 (2005)](transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances) -- [10.1109/tac.2004.840477](https://doi.org/10.1109/tac.2004.840477)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Plexim GmbH (2013). Plecs software. www.plexim.com.
 - Pogaku, N., Prodanovic, M. & Green, T. C. Modeling, Analysis and Testing of Autonomous Operation of an Inverter-Based Microgrid. IEEE Transactions on Power Electronics vol. 22 613–625 (2007) -- [10.1109/tpel.2006.890003](https://doi.org/10.1109/tpel.2006.890003)
 - Rudion, K., Orths, A., Styczynski, Z. A. & Strunz, K. Design of benchmark of medium voltage distribution network for investigation of DG integration. 2006 IEEE Power Engineering Society General Meeting (2006) doi:10.1109/pes.2006.1709447 -- [10.1109/pes.2006.1709447](https://doi.org/10.1109/pes.2006.1709447)
 - Schiffer, J., Anta, A., Trung, T. D., Raisch, J. & Sezi, T. On power sharing and stability in autonomous inverter-based microgrids. 2012 IEEE 51st IEEE Conference on Decision and Control (CDC) 1105–1110 (2012) doi:10.1109/cdc.2012.6426704 -- [10.1109/cdc.2012.6426704](https://doi.org/10.1109/cdc.2012.6426704)

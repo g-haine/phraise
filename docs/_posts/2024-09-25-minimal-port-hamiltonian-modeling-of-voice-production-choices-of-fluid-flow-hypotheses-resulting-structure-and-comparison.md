@@ -65,4 +65,5 @@ Modelling; Port-Hamiltonian systems; Distributed parameter systems; Fluid-struct
 - Story, B. H. & Titze, I. R. Voice simulation with a body-cover model of the vocal folds. The Journal of the Acoustical Society of America vol. 97 1249–1260 (1995) -- [10.1121/1.412234](https://doi.org/10.1121/1.412234)
 - [Trenchant, V., Ramirez, H., Le Gorrec, Y. & Kotyczka, P. Finite differences on staggered grids preserving the port-Hamiltonian structure with application to an acoustic duct. Journal of Computational Physics vol. 373 673–697 (2018)](finite-differences-on-staggered-grids-preserving-the-port-hamiltonian-structure-with-application-to-an-acoustic-duct) -- [10.1016/j.jcp.2018.06.051](https://doi.org/10.1016/j.jcp.2018.06.051)
 - Wang, X., Zheng, X., Titze, I. R., Palaparthi, A. & Xue, Q. Examining the Quasi-Steady Airflow Assumption in Irregular Vocal Fold Vibration. Applied Sciences vol. 13 12691 (2023) -- [10.3390/app132312691](https://doi.org/10.3390/app132312691)
+- Wetzel, V. (2021). Lumped Power-balanced Modelling and Simulation of the Vocal apparatus: a Fluid-Strucutre Interaction Approach. Phd thesis, Sorbonne Université.
 

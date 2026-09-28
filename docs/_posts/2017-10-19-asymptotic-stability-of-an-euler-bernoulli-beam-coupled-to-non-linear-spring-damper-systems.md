@@ -59,6 +59,7 @@ Boundary control systems; infinite-dimensional port Hamiltonian systems; asympto
 - Curtain, R. & Zwart, H. Stabilization of collocated systems by nonlinear boundary control. Systems &amp; Control Letters vol. 96 11–14 (2016) -- [10.1016/j.sysconle.2016.06.014](https://doi.org/10.1016/j.sysconle.2016.06.014)
 - Jacob, (2012)
 - [Kurula, M. & Zwart, H. Linear wave systems onn-D spatial domains. International Journal of Control 1–24 (2014) doi:10.1080/00207179.2014.993337](linear-wave-systems-on-i-n-i-d-spatial-domains) -- [10.1080/00207179.2014.993337](https://doi.org/10.1080/00207179.2014.993337)
+- Le Gorrec, Y., Zwart, H., and Maschke, B. (2004). A semigroup approach to port hamiltonian systems associated with linear skew symmetric operator. 16th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2004).
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Luo, (1999)
 - Miletic, M., Sturzer, D., Arnold, A. & Kugi, A. Stability of an Euler-Bernoulli Beam With a Nonlinear Dynamic Feedback System. IEEE Transactions on Automatic Control vol. 61 2782–2795 (2016) -- [10.1109/tac.2015.2499604](https://doi.org/10.1109/tac.2015.2499604)
@@ -69,4 +70,5 @@ Boundary control systems; infinite-dimensional port Hamiltonian systems; asympto
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - Villegas, Stability and stabilization of a class of boundary control systems. In Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC ‘05. 44th IEEE Conference on (2005)
+- Villegas, J.A. (2007). A port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, Univer-siteit Twente.
 

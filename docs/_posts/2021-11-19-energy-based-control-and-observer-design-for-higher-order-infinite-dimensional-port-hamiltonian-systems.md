@@ -62,6 +62,7 @@ infinite-dimensional systems; partial differential equations; boundary actuation
 - Malzer, On structural invariants in the energy-based in-domain control of infinite-dimensional port-Hamiltonian systems. Systems & Control Letters (2020)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Meirovitch, (1997)
+- Rams, H. (2018). Contributions to the Analysis and Control of Higher-Order Infinite-Dimensional Systems. Ph.D. thesis, JKU Linz.
 - [Rams, H. & Schoberl, M. On structural invariants in the energy based control of port-Hamiltonian systems with second-order Hamiltonian. 2017 American Control Conference (ACC) 1139–1144 (2017) doi:10.23919/acc.2017.7963106](on-structural-invariants-in-the-energy-based-control-of-port-hamiltonian-systems-with-second-order-hamiltonian) -- [10.23919/acc.2017.7963106](https://doi.org/10.23919/acc.2017.7963106)
 - Saunders, (1989)
 - [Schöberl, M. & Schlacher, K. Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems. IFAC-PapersOnLine vol. 48 610–615 (2015)](lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems) -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)

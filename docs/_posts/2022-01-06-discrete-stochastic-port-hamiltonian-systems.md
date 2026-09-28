@@ -72,5 +72,6 @@ Stochastic port-Hamiltonian systems; Passivity; Stochastic variational integrato
 - [Satoh, S. & Saeki, M. Bounded stabilisation of stochastic port-Hamiltonian systems. International Journal of Control vol. 87 1573–1582 (2014)](bounded-stabilisation-of-stochastic-port-hamiltonian-systems) -- [10.1080/00207179.2014.880127](https://doi.org/10.1080/00207179.2014.880127)
 - Secchi, (2007)
 - [Talasila, V., Clemente-Gallardo, J. & van der Schaft, A. J. Discrete port-Hamiltonian systems. Systems &amp; Control Letters vol. 55 478–486 (2006)](discrete-port-hamiltonian-systems) -- [10.1016/j.sysconle.2005.10.001](https://doi.org/10.1016/j.sysconle.2005.10.001)
+- Van Der Schaft, A. J., & Cervera, J. (2002). Composition of Dirac structures and control of port-Hamiltonian systems. In Proceedings 15th international symposium on mathematical theory of networks and systems. South Bend.
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

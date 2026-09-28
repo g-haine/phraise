@@ -53,20 +53,24 @@ Wave energy; Ocean energy; Power take-off system; Point-absorbers; Passivity
 [Download the bib file]({{ site.baseurl }}/assets/bib/towards-ocean-grazer-s-modular-power-take-off-system-modeling-a-port-hamiltonian-approach.bib)
  
 ## References
+- Babarit, A. and Delhommeau, G. (2015). Theoretical and numerical aspects of the open source BEM solver NEMOH. In Proc. of the EWTEC2015 Conference.
 - Barradas-Berglind, Energy capture optimization for an adaptive wave energy converter. In Proc. of the RENEW2016 Conference (2016)
 - Dijkstra, Revenue optimization for the Ocean Grazer wave energy converter through storage utilization. In Proc. of the RENEW2016 Conference (2016)
 - Duindam, (2009)
 - Falnes, (2002)
 - Fujimoto, Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Au-tomatica (2003)
 - Grabmair, G., Schlacher, K. & Kugi, A. Geometric energy based analysis and controller design of hydraulic actuators applied in rolling mills. 2003 European Control Conference (ECC) 2493–2498 (2003) doi:10.23919/ecc.2003.7085340 -- [10.23919/ecc.2003.7085340](https://doi.org/10.23919/ecc.2003.7085340)
+- Hansen, R.H. and Kramer, M.M. (2011). Modelling and control of the Wavestar prototype. In Proc. of the EWTEC2011 Conference.
 - Henderson, R. Design, simulation, and testing of a novel hydraulic power take-off system for the Pelamis wave energy converter. Renewable Energy vol. 31 271–283 (2006) -- [10.1016/j.renene.2005.08.021](https://doi.org/10.1016/j.renene.2005.08.021)
 - Jeltsema, D., Ortega, R. & Scherpen, J. M. A. On passivity and power-balance inequalities of nonlinear rlc circuits. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 50 1174–1179 (2003) -- [10.1109/tcsi.2003.816332](https://doi.org/10.1109/tcsi.2003.816332)
 - Maschke, Port-controlled Hamiltonian systems: modeling origins and system-theoretic properties. In Proceedings of the IFAC Sym-posium on Nonlinear Control Systems (1992)
 - Munoz-Arias, (2014)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Energy-Maximizing Control of Wave-Energy Converters: The Development of Control System Technology to Optimize Their Operation. IEEE Control Systems vol. 34 30–55 (2014) -- [10.1109/mcs.2014.2333253](https://doi.org/10.1109/mcs.2014.2333253)
+- Secchi, C., Stramigioli, S., and Fantuzzi, C. (2007). Control of interactive robotic interfaces: A port-Hamiltonian approach, volume 29. Springer Sc. & Business Media.
 - [Stegink, T., De Persis, C. & van der Schaft, A. A port-Hamiltonian approach to optimal frequency regulation in power grids. 2015 54th IEEE Conference on Decision and Control (CDC) 3224–3229 (2015) doi:10.1109/cdc.2015.7402703](a-port-hamiltonian-approach-to-optimal-frequency-regulation-in-power-grids) -- [10.1109/cdc.2015.7402703](https://doi.org/10.1109/cdc.2015.7402703)
 - Taylor, (1999)
+- Tedd, J., Kofoed, J.P., Jasinski, M., Morris, A., Friis-Madsen, E., Wisniewski, R., and Bendtsen, J.D. (2007). Advanced control techniques for WEC Wave Dragon. In Proc. of the EWTEC2007 Conference.
 - Vakis, A. I. & Anagnostopoulos, J. S. Mechanical design and modeling of a single-piston pump for the novel power take-off system of a wave energy converter. Renewable Energy vol. 96 531–547 (2016) -- [10.1016/j.renene.2016.04.076](https://doi.org/10.1016/j.renene.2016.04.076)
 - [Valentin, C., Magos, M. & Maschke, B. A port-Hamiltonian formulation of physical switching systems with varying constraints. Automatica vol. 43 1125–1133 (2007)](a-port-hamiltonian-formulation-of-physical-switching-systems-with-varying-constraints) -- [10.1016/j.automatica.2006.12.022](https://doi.org/10.1016/j.automatica.2006.12.022)
 - van der Schaft, (2000)

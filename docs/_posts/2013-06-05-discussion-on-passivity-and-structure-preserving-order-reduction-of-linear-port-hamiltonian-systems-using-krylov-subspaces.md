@@ -49,7 +49,9 @@ category: articles
 - Grimme, Krylov Projection Methods for Model Reduction. PhD thesis, Coordinated Science Laboratory. University of Illinois at Urbana-Champaign (1997)
 - Gugercin, Interpolation-basedH2 model reduction for port-Hamiltonian systems (2009)
 - Hartmann, (2009)
+- Hartmann C, Vulcanov V-M, Schütte Ch. Balanced truncation of linear second-order systems: a Hamiltonian approach. Multiscale Model Simul, to appear. Available from http://proteomicsberlin.de/28/.
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Polyuga RV. Model Reduction of Port-Hamiltonian Systems. PhD thesis, University of Groningen, 2010 10.
 - [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica vol. 46 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
 - Schilders, W. Introduction to Model Order Reduction. Mathematics in Industry 3–32 (2008) doi:10.1007/978-3-540-78841-6_1 -- [10.1007/978-3-540-78841-6_1](https://doi.org/10.1007/978-3-540-78841-6_1)
 - van der Schaft, A. Nonlinear H ∞ Control. Communications and Control Engineering 163–192 (2000) doi:10.1007/978-1-4471-0507-7_7 -- [10.1007/978-1-4471-0507-7_7](https://doi.org/10.1007/978-1-4471-0507-7_7)

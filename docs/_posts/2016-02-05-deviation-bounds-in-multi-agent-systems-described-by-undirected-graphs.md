@@ -54,21 +54,27 @@ Multi-agent systems; Pinning control; Hamiltonian systems
 - Bernstein, (2009)
 - Chen, F., Chen, Z., Xiang, L., Liu, Z. & Yuan, Z. Reaching a consensus via pinning control. Automatica vol. 45 1215–1220 (2009) -- [10.1016/j.automatica.2008.12.027](https://doi.org/10.1016/j.automatica.2008.12.027)
 - Chen, T., Liu, X. & Lu, W. Pinning Complex Networks by a Single Controller. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 54 1317–1326 (2007) -- [10.1109/tcsi.2007.895383](https://doi.org/10.1109/tcsi.2007.895383)
+- Chien, C., & Ioannou, P. A. (1992). Automatic vehicle following, In: American control conf. (pp. 1748–1752).
 - SWAROOP, D., HEDRICK, J. K., CHIEN, C. C. & IOANNOU, P. A Comparision of Spacing and Headway Control Laws for Automatically Controlled Vehicles1. Vehicle System Dynamics vol. 23 597–625 (1994) -- [10.1080/00423119408969077](https://doi.org/10.1080/00423119408969077)
 - Das, A. & Lewis, F. L. Distributed adaptive control for synchronization of unknown nonlinear networked systems. Automatica vol. 46 2014–2021 (2010) -- [10.1016/j.automatica.2010.08.008](https://doi.org/10.1016/j.automatica.2010.08.008)
+- Hao, H., & Barooah, P. (2011). Decentralized control of large vehicular formations: stability margin and sensitivity to external disturbances. arXiv.org.
 - Hao, H. & Barooah, P. On Achieving Size-Independent Stability Margin of Vehicular Lattice Formations With Distributed Control. IEEE Transactions on Automatic Control vol. 57 2688–2694 (2012) -- [10.1109/tac.2012.2191179](https://doi.org/10.1109/tac.2012.2191179)
 - Hao, H. & Barooah, P. Stability and robustness of large platoons of vehicles with double‐integrator models and nearest neighbor interaction. International Journal of Robust and Nonlinear Control vol. 23 2097–2122 (2012) -- [10.1002/rnc.2872](https://doi.org/10.1002/rnc.2872)
+- Hao, H., Yin, H., & Kan, Z. (2012). On the robustness of large 1-d network of double integrator agents. In: American control conference (pp. 6059–6064).
 - Hong, Y., Hu, J. & Gao, L. Tracking control for multi-agent consensus with an active leader and variable topology. Automatica vol. 42 1177–1182 (2006) -- [10.1016/j.automatica.2006.02.013](https://doi.org/10.1016/j.automatica.2006.02.013)
 - Kailath, (1980)
 - Khalil, (2001)
+- Khatir, M. E., & Davison, E. J. (2004). Decentralized control of a large platoon of vehicles using non-identical controllers. In: American control conf. (pp. 2769–2776).
 - [Knorn, S., Donaire, A., Agüero, J. C. & Middleton, R. H. Passivity-based control for multi-vehicle systems subject to string constraints. Automatica vol. 50 3224–3230 (2014)](passivity-based-control-for-multi-vehicle-systems-subject-to-string-constraints) -- [10.1016/j.automatica.2014.10.038](https://doi.org/10.1016/j.automatica.2014.10.038)
 - Li, X., Wang, X. & Chen, G. Pinning a Complex Dynamical Network to Its Equilibrium. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 51 2074–2087 (2004) -- [10.1109/tcsi.2004.835655](https://doi.org/10.1109/tcsi.2004.835655)
 - Liu, X., Chen, T. & Lu, W. Consensus problem in directed networks of multi-agents via nonlinear protocols. Physics Letters A vol. 373 3122–3127 (2009) -- [10.1016/j.physleta.2009.06.054](https://doi.org/10.1016/j.physleta.2009.06.054)
 - Liu, X., Lu, W. & Chen, T. Consensus of Multi-Agent Systems With Unbounded Time-Varying Delays. IEEE Transactions on Automatic Control vol. 55 2396–2401 (2010) -- [10.1109/tac.2010.2054770](https://doi.org/10.1109/tac.2010.2054770)
 - Jianquan Lu, Ho, D. W. C. & Zidong Wang. Pinning Stabilization of Linearly Coupled Stochastic Neural Networks via Minimum Number of Controllers. IEEE Transactions on Neural Networks vol. 20 1617–1629 (2009) -- [10.1109/tnn.2009.2027810](https://doi.org/10.1109/tnn.2009.2027810)
 - Lu, W., Li, X. & Rong, Z. Global stabilization of complex networks with digraph topologies via a local pinning algorithm. Automatica vol. 46 116–121 (2010) -- [10.1016/j.automatica.2009.10.006](https://doi.org/10.1016/j.automatica.2009.10.006)
+- Moreau, L. (2004). Stability of continuous-time distributed consensus algorithms. In: 43rd CDC (pp. 3998–4003).
 - Münz, U., Papachristodoulou, A. & Allgöwer, F. Delay robustness in consensus problems. Automatica vol. 46 1252–1265 (2010) -- [10.1016/j.automatica.2010.04.008](https://doi.org/10.1016/j.automatica.2010.04.008)
 - Munz, U., Papachristodoulou, A. & Allgower, F. Robust Consensus Controller Design for Nonlinear Relative Degree Two Multi-Agent Systems With Communication Constraints. IEEE Transactions on Automatic Control vol. 56 145–151 (2011) -- [10.1109/tac.2010.2084150](https://doi.org/10.1109/tac.2010.2084150)
+- Patterson, S., & Bamieh, B. (2010). Leader selection for optimal network coherence. In: 49th IEEE conference on decision and control, CDC (pp. 2692–2697).
 - Ren, W. Multi-vehicle consensus with a time-varying reference state. Systems &amp; Control Letters vol. 56 474–483 (2007) -- [10.1016/j.sysconle.2007.01.002](https://doi.org/10.1016/j.sysconle.2007.01.002)
 - Ren, W. On Consensus Algorithms for Double-Integrator Dynamics. IEEE Transactions on Automatic Control vol. 53 1503–1509 (2008) -- [10.1109/tac.2008.924961](https://doi.org/10.1109/tac.2008.924961)
 - Seiler, P., Pant, A. & Hedrick, K. Disturbance Propagation in Vehicle Strings. IEEE Transactions on Automatic Control vol. 49 1835–1841 (2004) -- [10.1109/tac.2004.835586](https://doi.org/10.1109/tac.2004.835586)

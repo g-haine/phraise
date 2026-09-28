@@ -49,8 +49,10 @@ bridle roll systems, hydraulic actuators, hydraulische aktuatoren, mechatronics,
  
 ## References
 - Chorin, A. J. & Marsden, J. E. A Mathematical Introduction to Fluid Mechanics. Texts in Applied Mathematics (Springer US, 1990). doi:10.1007/978-1-4684-0364-0 -- [10.1007/978-1-4684-0364-0](https://doi.org/10.1007/978-1-4684-0364-0)
+- Haas, W. (1995):H 2-Entwurf für Mehrgrößensysteme im Frequenzbereich. Dissertation, Johannes Kepler Universität.
 - A. Kugi, Nonlinear control based on physical models (2001)
 - A. Kugi, e & i (2001)
+- Merritt, H. E. (1967): Hydraulic control systems. Wiley.
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1993). doi:10.1007/978-1-4612-4350-2 -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - K. Schlacher, Control of mechatronic systems, a geometric approach. Mech2k2, 1st International Congress on Mechatronics (2002)

@@ -77,6 +77,7 @@ This paper addresses the problems of finite-time stabilization and H ∞ control
 - Zhang, L., Wang, S., Karimi, H. R. & Jasra, A. Robust Finite-Time Control of Switched Linear Systems and Application to a Class of Servomechanism Systems. IEEE/ASME Trans. Mechatron. 20, 2476–2485 (2015) -- [10.1109/tmech.2014.2385796](https://doi.org/10.1109/tmech.2014.2385796)
 - Luan, X., Liu, F. & Shi, P. Neural‐network‐based finite‐time H∞ control for extended Markov jump nonlinear systems. Adaptive Control &amp; Signal 24, 554–567 (2010) -- [10.1002/acs.1143](https://doi.org/10.1002/acs.1143)
 - Kamenkov, On stability of motion over a finite interval of time. J. Appl. Math. Mech. USSR (1953)
+- P. Dorato, Short time stability in linear time-varying systems, Proceedings of the IRE International Convention Record Part 483–87.
 - Weiss, L. & Infante, E. Finite time stability under perturbing forces and on product spaces. IEEE Trans. Automat. Contr. 12, 54–59 (1967) -- [10.1109/tac.1967.1098483](https://doi.org/10.1109/tac.1967.1098483)
 - Amato, F., Ariola, M. & Dorato, P. Finite-time control of linear systems subject to parametric uncertainties and disturbances. Automatica 37, 1459–1463 (2001) -- [10.1016/s0005-1098(01)00087-5](https://doi.org/10.1016/s0005-1098(01)00087-5)
 - Amato, F., Ariola, M. & Cosentino, C. Finite-time control of discrete-time linear systems: Analysis and design conditions. Automatica 46, 919–924 (2010) -- [10.1016/j.automatica.2010.02.008](https://doi.org/10.1016/j.automatica.2010.02.008)

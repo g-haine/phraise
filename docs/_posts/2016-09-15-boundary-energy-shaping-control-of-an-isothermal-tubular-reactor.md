@@ -64,4 +64,5 @@ ABSTRACT This paper illustrates a general synthesis methodology of asymptotic st
 - [Macchelli, A. Boundary energy shaping of linear distributed port-Hamiltonian systems. European Journal of Control vol. 19 521–528 (2013)](boundary-energy-shaping-of-linear-distributed-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.002](https://doi.org/10.1016/j.ejcon.2013.10.002)
 - Ram´ırez H., IEEE Trans. (2014)
 - Luo, Z.-H., Guo, B.-Z. & Morgul, O. Stability and Stabilization of Infinite Dimensional Systems with Applications. Communications and Control Engineering (Springer London, 1999). doi:10.1007/978-1-4471-0419-3 -- [10.1007/978-1-4471-0419-3](https://doi.org/10.1007/978-1-4471-0419-3)
+- J. Villegas,A Port-Hamiltonian Approach to Distributed Parameter Systems, Ph.D. diss., University of Twente, Enschede, NL, 2007.
 

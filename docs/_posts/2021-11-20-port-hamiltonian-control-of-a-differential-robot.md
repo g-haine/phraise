@@ -40,6 +40,7 @@ A novel approach to tracking control of a differential robot is proposed. Based 
  
 ## References
 - [Dirksz, D. A. & Scherpen, J. M. A. On Tracking Control of Rigid-Joint Robots With Only Position Measurements. IEEE Trans. Contr. Syst. Technol. 21, 1510–1513 (2013)](on-tracking-control-of-rigid-joint-robots-with-only-position-measurements) -- [10.1109/tcst.2012.2204886](https://doi.org/10.1109/tcst.2012.2204886)
+- Donaire, A., Perez, T., Bartlett, N.: Tracking control of a class of hamiltonian mechanical systems with disturbances. In: Proceedings of the 16th Australasian Conference on Robotics and Automation (2014)
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)

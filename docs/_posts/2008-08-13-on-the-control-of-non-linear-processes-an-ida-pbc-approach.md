@@ -63,9 +63,11 @@ Process control; Non-linear control; Nonminimum phase systems; Hamiltonian syste
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - Sbarbaro, D. & Ortega, R. Averaging level control: An approach based on mass balance. Journal of Process Control vol. 17 621–629 (2007) -- [10.1016/j.jprocont.2007.01.005](https://doi.org/10.1016/j.jprocont.2007.01.005)
+- J. Johnsen, F. Allgöwer, Interconnection and damping assignment passivity-based control of a four-tank system, in: F. Bullo, K. Fujimoto (Eds.), Preprints of the IFAC 3rd Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control, vol. 60, 2006, pp. 69–74.
 - Bao, (2007)
 - Sira-Ramirez, H. & Angulo-Nunez, M. I. Passivity-based control of nonlinear chemical processes. International Journal of Control vol. 68 971–996 (1997) -- [10.1080/002071797223163](https://doi.org/10.1080/002071797223163)
 - Kanter, J. M., Seider, W. D. & Soroush, M. Real‐time, nonlinear control of a constrained, nonminimum‐phase process. AIChE Journal vol. 48 2247–2254 (2002) -- [10.1002/aic.690481015](https://doi.org/10.1002/aic.690481015)
 - Antonelli, R. & Astolfi, A. Continuous stirred tank reactors: easy to stabilise? Automatica vol. 39 1817–1827 (2003) -- [10.1016/s0005-1098(03)00177-8](https://doi.org/10.1016/s0005-1098(03)00177-8)
+- H. Ramírez, D. Sbarbaro, A comparative analysis of nonlinear control approaches for non-minimum phase processes, in: Proceedings of the 17th IFAC World Congress, Seoul, Korea, July 2008.
 - Khalil, (1992)
 

@@ -59,6 +59,7 @@ Port-Hamiltonian systems; metallic foam; cell method; distributed parameter syst
 - Alnæs, The FEniCS project version 1.5. Archive of Numerical Software (2015)
 - Alotto, (2013)
 - Arnold, (1989)
+- Brun, E., Vicente, J., Topin, F., and Occelli, R. (2008). Imorph: A 3d morphological tool to fully analyse all kind of cellular materials. Cellular Metals for Structural and Functional Applications.
 - Duindam, (2009)
 - Flanders, (1989)
 - Frey, Open cell foam catalysts for CO2 methanation: Presentation of coating procedures and in situ exothermicity reaction study by infrared thermography. Catalysis Today (2016)

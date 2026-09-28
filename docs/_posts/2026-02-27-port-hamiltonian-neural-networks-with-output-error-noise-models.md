@@ -48,6 +48,7 @@ machine learning, nonlinear system identification, port-hamiltonian neural netwo
  
 ## References
 - Atkinson, An introduction to numerical analysis. (1991)
+- Beintema, G. I., Schoukens, M., & Tóth, R. (2023a). Continuous-time identification of dynamic state-space models by deep subspace encoding. In Proc. of the 11th international conference on learning representations (pp. 1–15).
 - Beintema GI, Schoukens M, Tóth R (2023) Deep subspace encoders for nonlinear system identification. Automatica 156:111210. https://doi.org/10.1016/j.automatica.2023.11121 -- [10.1016/j.automatica.2023.111210](https://doi.org/10.1016/j.automatica.2023.111210)
 - Billings, (2013)
 - Butcher, Differential & difference equations. (2003)
@@ -59,17 +60,21 @@ machine learning, nonlinear system identification, port-hamiltonian neural netwo
 - Forgione M, Piga D (2021) Continuous-time system identification with neural networks: Model structures and fitting criteria. European Journal of Control 59:69–81. https://doi.org/10.1016/j.ejcon.2021.01.00 -- [10.1016/j.ejcon.2021.01.008](https://doi.org/10.1016/j.ejcon.2021.01.008)
 - Han C-D, Glaz B, Haile M, Lai Y-C (2021) Adaptable Hamiltonian neural networks. Phys Rev Research 3(2). https://doi.org/10.1103/physrevresearch.3.02315 -- [10.1103/physrevresearch.3.023156](https://doi.org/10.1103/physrevresearch.3.023156)
 - Karagoz R, Batselier K (2020) Nonlinear system identification with regularized Tensor Network B-splines. Automatica 122:109300. https://doi.org/10.1016/j.automatica.2020.10930 -- [10.1016/j.automatica.2020.109300](https://doi.org/10.1016/j.automatica.2020.109300)
+- Kingma, D. P., & Ba, J. (2015). Adam: A method for stochastic optimization. In Proc. of the international conference on learning representations (pp. 1–15).
 - Kon J, Tóth R, van de Wijdeven J, Heertjes M, Oomen T (2024) Guaranteeing Stability in Structured Input-Output Models: With Application to System Identification. IEEE Control Syst Lett 8:1565–1570. https://doi.org/10.1109/lcsys.2024.341014 -- [10.1109/lcsys.2024.3410143](https://doi.org/10.1109/lcsys.2024.3410143)
 - Ljung L (1978) Convergence analysis of parametric identification methods. IEEE Trans Automat Contr 23(5):770–783. https://doi.org/10.1109/tac.1978.110184 -- [10.1109/tac.1978.1101840](https://doi.org/10.1109/tac.1978.1101840)
 - Ljung, (1995)
 - Ljung L (2010) Perspectives on system identification. Annual Reviews in Control 34(1):1–12. https://doi.org/10.1016/j.arcontrol.2009.12.00 -- [10.1016/j.arcontrol.2009.12.001](https://doi.org/10.1016/j.arcontrol.2009.12.001)
 - Moradi S, Jaensson N, Tóth R, Schoukens M (2023) Physics-Informed Learning Using Hamiltonian Neural Networks with Output Error Noise Models. IFAC-PapersOnLine 56(2):5152–5157. https://doi.org/10.1016/j.ifacol.2023.10.10 -- [10.1016/j.ifacol.2023.10.108](https://doi.org/10.1016/j.ifacol.2023.10.108)
 - Murray, (2013)
+- Neary, C., & Topcu, U. (2023). Compositional learning of dynamical system models using port-Hamiltonian neural networks. In Proc. of the 5th learning for dynamics and control conference (pp. 679–691).
+- Noren, H., Eidnes, S., & Celledoni, E. (2022). Numerical integrators for learning dynamical systems from noisy data. In Proc. of the symbiosis of deep learning and differential equations II.
 - Noronha, (2023)
 - Pintelon, (2012)
 - Rogers TJ, Holmes GR, Cross EJ, Worden K (2025) On a Grey Box Modelling Framework for Nonlinear System Identification. Special Topics in Structural Dynamics, Volume 6 167–17 -- [10.1007/978-3-319-53841-9_15](https://doi.org/10.1007/978-3-319-53841-9_15)
 - Schön TB, Wills A, Ninness B (2011) System identification of nonlinear state-space models. Automatica 47(1):39–49. https://doi.org/10.1016/j.automatica.2010.10.01 -- [10.1016/j.automatica.2010.10.013](https://doi.org/10.1016/j.automatica.2010.10.013)
 - Schoukens J, Ljung L (2019) Nonlinear System Identification: A User-Oriented Road Map. IEEE Control Syst 39(6):28–99. https://doi.org/10.1109/mcs.2019.293812 -- [10.1109/mcs.2019.2938121](https://doi.org/10.1109/mcs.2019.2938121)
+- Schoukens, M., Mattson, P., Wigren, T., & Noël, J.-P. (2016). Cascaded tanks benchmark combining soft and hard nonlinearities. In Proc. of the workshop on nonlinear system identification benchmarks (pp. 20–23).
 - Sosanya, (2022)
 - Svensson A, Schön TB (2017) A flexible state–space model for learning nonlinear dynamical systems. Automatica 80:189–199. https://doi.org/10.1016/j.automatica.2017.02.03 -- [10.1016/j.automatica.2017.02.030](https://doi.org/10.1016/j.automatica.2017.02.030)
 - Tóth, (2010)
@@ -77,4 +82,6 @@ machine learning, nonlinear system identification, port-hamiltonian neural netwo
 - van Otterdijk, (2024)
 - Weigand J, Deflorian M, Ruskowski M (2021) Input-to-state stability for system identification with continuous-time Runge–Kutta neural networks. International Journal of Control 96(1):24–40. https://doi.org/10.1080/00207179.2021.197855 -- [10.1080/00207179.2021.1978555](https://doi.org/10.1080/00207179.2021.1978555)
 - Xiao, (2024)
+- Zhong, Y. D., Dey, B., & Chakraborty, A. (2020a). Dissipative symoden: Encoding hamiltonian dynamics with dissipation and control into deep learning. In Proc. of the workshop on integration of deep neural models and differential equations (pp. 1–6).
+- Zhong, Y. D., Dey, B., & Chakraborty, A. (2020b). Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control. In Proc. of the international conference on learning representations (pp. 1–17).
 

@@ -43,6 +43,7 @@ Interconnection and damping assignment is a controller design methodology that r
 [Download the bib file]({{ site.baseurl }}/assets/bib/control-via-interconnection-and-damping-assignment-of-linear-time-invariant-systems-a-tutorial.bib)
  
 ## References
+- Acosta, JA and Astolfi, A. 2009. On the PDEs Arising in IDA. IEEE Conference on Decision and Control, (CDC'09). 2009. pp.2132–2137.
 - Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
 - Auckly, D., Kapitanski, L. & White, W. Control of nonlinear underactuated systems. Communications on Pure and Applied Mathematics vol. 53 354–369 (2000) -- [10.1002/(sici)1097-0312(200003)53:3<354::aid-cpa3>3.0.co;2-u](https://doi.org/10.1002/(sici)1097-0312(200003)53:3<354::aid-cpa3>3.0.co;2-u)
 - Blankenstein, G., Ortega, R. & Van Der Schaft, A. J. The matching conditions of controlled Lagrangians and IDA-passivity based control. International Journal of Control vol. 75 645–665 (2002) -- [10.1080/00207170210135939](https://doi.org/10.1080/00207170210135939)

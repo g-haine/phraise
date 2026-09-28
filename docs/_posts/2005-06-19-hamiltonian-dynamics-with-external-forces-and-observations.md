@@ -52,14 +52,26 @@ Computational Mathematic; External Force; Hamiltonian System; Physical System; B
 [Download the bib file]({{ site.baseurl }}/assets/bib/hamiltonian-dynamics-with-external-forces-and-observations.bib)
  
 ## References
+- P. Duhem, L'evolution de la mécanique, Hermann, 1905
 - Hamel, G. Theoretische Mechanik. Grundlehren der mathematischen Wissenschaften (Springer Berlin Heidelberg, 1949). doi:10.1007/978-3-642-88463-4 -- [10.1007/978-3-642-88463-4](https://doi.org/10.1007/978-3-642-88463-4)
 - Arnold, V. I. Mathematical Methods of Classical Mechanics. Graduate Texts in Mathematics (Springer New York, 1978). doi:10.1007/978-1-4757-1693-1 -- [10.1007/978-1-4757-1693-1](https://doi.org/10.1007/978-1-4757-1693-1)
+- R. Abraham and J. E. Marsden, Foundation of Mechanics, Benjamin/Cummings, 1978
+- R. W. Brockett,Control Theory and Analytical Mechanics, Geometric Control Theory, Lie Groups: History, Frontiers, and Applications, (Editors: C. Martin and R. Hermann), vol. 3 Math. Sci. Press, 1–46 (1977)
+- F. Takens,Variational and Conservative Systems, Rapport ZW-7603., Math. Inst. Groningen, 1976
+- J. C. Willems,System theoretic models for the analysis of physical systems, Ricerche di Automatica (Special Issue onSystems Theory and Physics) vol. 10, no. 2, 1979
 - J. C. Willems, NATO Adv. Study Institute and A.M.S. Summer Seminar in Appl. Math. on “Algebraic and Geometric Methods in Linear Systems Theory,” (1979)
 - W. M. Tulczyjew, Symposia Mathematica (1974)
+- R. Herman,The Geometry of Non-linear Differential Equations, Bäcklund Transformations, and Solitons, Part A, Interdisciplinary Mathematics, Math. Sci. Press, vol. 12, 1976
 - Hermann, R. & Krener, A. Nonlinear controllability and observability. IEEE Trans. Automat. Contr. 22, 728–740 (1977) -- [10.1109/tac.1977.1101601](https://doi.org/10.1109/tac.1977.1101601)
+- H. H. E. Leipholz,Six lectures on Variational Principles in Structural Engineering, University of Waterloo Press, 1978.
 - R. K. Brayton, SIAM-AMS Proceedings (1978)
+- R. Hermann,Geometric Structure of Systems-Control Theory and Physics, Part A, Interdisciplinary Mathematics, Math. Sci. Press, vol. 9, 1974
 - Weinstein, A. Lectures on Symplectic Manifolds. CBMS Regional Conference Series in Mathematics (1977) doi:10.1090/cbms/029 -- [10.1090/cbms/029](https://doi.org/10.1090/cbms/029)
 - R. W. Brockett, Finite Dimensional Linear Systems (1970)
 - Brockett, R. W. & Rahimi, A. LIE ALGEBRAS AND LINEAR DIFFERENTIAL EQUATIONS. Ordinary Differential Equations 379–386 (1972) doi:10.1016/b978-0-12-743650-0.50036-8 -- [10.1016/b978-0-12-743650-0.50036-8](https://doi.org/10.1016/b978-0-12-743650-0.50036-8)
+- R. Hermann.Algebra-Geometric and Lie-Theoretic Techniques in Systems Theory, Part A, Chapter VI, Interdisciplinary Mathematics, Math. Sci. Press vol. 3, 1977
+- J. Basto Concalves,Equivalence of gradient systems, Control Theory Centre Report No. 84, University of Warwick
+- J. C. Willems,Consequences of a Dissipation Inequality in the Theory of Dynamical Systems, Physical Structure in Systems Theory (Eds.: J. J. van Dixhoorn and F. J. Evans). Academic Press, 193–218, 1974
+- A. J. van der Schaft,Observability and controllability for smooth nonlinear systems, to appear inSiam J. Control and Optimization
 - van der Schaft, A. Symmetries and conservation laws for Hamiltonian systems with inputs and outputs: A generalization of Noether’s theorem. Systems &amp; Control Letters 1, 108–115 (1981) -- [10.1016/s0167-6911(81)80046-1](https://doi.org/10.1016/s0167-6911(81)80046-1)
 

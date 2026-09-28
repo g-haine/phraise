@@ -48,11 +48,13 @@ dirac structures, dissipation obstacle, distributed port-hamiltonian systems, pa
  
 ## References
 - [van der Schaft AJ, Maschke BM (2002) Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42(1–2):166–194. https://doi.org/10.1016/s0393-0440(01)00083-](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- A. Macchelli, B.M. Maschke, Modeling and control of complex physical systems: the port-Hamiltonian approach, Ch. Infinite-Dimensional Port-Hamiltonian Systems, in: Duindam et al. [31], pp. 211–271.
 - Rodriguez, On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. (2001)
 - [Macchelli A, Melchiorri C (2004) Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM J Control Optim 43(2):743–767. https://doi.org/10.1137/s036301290342953](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
 - [Macchelli A, Melchiorri C (2005) Control by interconnection of mixed port Hamiltonian systems. IEEE Trans Automat Contr 50(11):1839–1844. https://doi.org/10.1109/tac.2005.85865](control-by-interconnection-of-mixed-port-hamiltonian-systems) -- [10.1109/tac.2005.858656](https://doi.org/10.1109/tac.2005.858656)
 - [Pasumarthy R, van der Schaft AJ (2007) Achievable Casimirs and its implications on control of port-Hamiltonian systems. International Journal of Control 80(9):1421–1438. https://doi.org/10.1080/0020717070136127](achievable-casimirs-and-its-implications-on-control-of-port-hamiltonian-systems) -- [10.1080/00207170701361273](https://doi.org/10.1080/00207170701361273)
 - [Macchelli A (2012) Asymptotic stability of forced equilibria for distributed port-Hamiltonian systems. 2012 IEEE 51st IEEE Conference on Decision and Control (CDC) 2934–293](asymptotic-stability-of-forced-equilibria-for-distributed-port-hamiltonian-systems) -- [10.1109/cdc.2012.6426693](https://doi.org/10.1109/cdc.2012.6426693)
+- A. Macchelli, Boundary energy shaping of linear distributed port-Hamiltonian systems, in: B. M. Maschke, C. Melchiorri, A. J. van der Schaft (Eds.), Proceedings of the 4th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control (LHMNLC 2012), University of Bologna, Bertinoro, Italy, 2012.
 - van der Schaft A (2000) Nonlinear H ∞ Control. Communications and Control Engineering 163–19 -- [10.1007/978-1-4471-0507-7_7](https://doi.org/10.1007/978-1-4471-0507-7_7)
 - (2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.91539 -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
@@ -72,6 +74,8 @@ dirac structures, dissipation obstacle, distributed port-hamiltonian systems, pa
 - Luo, (1999)
 - [Villegas JA, Zwart H, Le Gorrec Y, Maschke B (2009) Exponential Stability of a Class of Boundary Control Systems. IEEE Trans Automat Contr 54(1):142–147. https://doi.org/10.1109/tac.2008.200717](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - Ortega R, Mareels I (2000) Energy-balancing passivity-based control. Proceedings of the 2000 American Control Conference. ACC (IEEE Cat. No.00CH36334) 1265–1270 vol. -- [10.1109/acc.2000.876703](https://doi.org/10.1109/acc.2000.876703)
+- A.J. van der Schaft, Modeling and control of complex physical systems: the port-Hamiltonian approach, Ch. Port-Hamiltonian Systems, in: Duindam et al. [31], pp. 53–130.
 - Villegas JA, Zwart H, Le Gorrec Y, Maschke B, van der Schaft AJ Stability and Stabilization of a Class of Boundary Control Systems. Proceedings of the 44th IEEE Conference on Decision and Control 3850–385 -- [10.1109/cdc.2005.1582762](https://doi.org/10.1109/cdc.2005.1582762)
+- Proceedings of the 44th IEEE Conference on Decision and Control and European Control Conference, CDC-ECC 2005.
 - Duindam, (2009)
 

@@ -84,6 +84,7 @@ Dirac structures; Implicit Lagrangian systems; Nonholonomic systems
 - Marsden, (1999)
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 42 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)
 - Moreau, L. & Aeyels, D. A Novel Variational Method for Deriving Lagrangian and Hamiltonian Models of Inductor-Capacitor Circuits. SIAM Review vol. 46 59–84 (2004) -- [10.1137/s0036144502409020](https://doi.org/10.1137/s0036144502409020)
+- J.I. Neimark, N.A. Fufaev, Dynamics of Nonholonomic Systems, in: Translations of Mathematical Monographs, vol. 33, AMS, 1972
 - Oster, G. F. & Perelson, A. S. Chemical reaction dynamics. Archive for Rational Mechanics and Analysis vol. 55 230–274 (1974) -- [10.1007/bf00281751](https://doi.org/10.1007/bf00281751)
 - Oliva, W. M. Lagrangian systems on manifolds, I. Celestial Mechanics vol. 1 491–511 (1970) -- [10.1007/bf01231146](https://doi.org/10.1007/bf01231146)
 - Perelson, A. S. & Oster, G. F. Chemical reaction dynamics part II: Reaction networks. Archive for Rational Mechanics and Analysis vol. 57 31–98 (1974) -- [10.1007/bf00287096](https://doi.org/10.1007/bf00287096)
@@ -98,4 +99,5 @@ Dirac structures; Implicit Lagrangian systems; Nonholonomic systems
 - Vershik, Lagrangian mechanics in invariant form. Sel. Math. Sov. (1981)
 - Weber, R. W. Hamiltonian systems with constraints and their meaning in mechanics. Archive for Rational Mechanics and Analysis vol. 91 309–335 (1986) -- [10.1007/bf00282337](https://doi.org/10.1007/bf00282337)
 - Wyatt, J. L. & Chua, L. O. A theory of nonenergic N‐ports. International Journal of Circuit Theory and Applications vol. 5 181–208 (1977) -- [10.1002/cta.4490050210](https://doi.org/10.1002/cta.4490050210)
+- H. Yoshimura, Dynamics of Flexible Multibody Systems, Doctoral Dissertation, Waseda University, 1995
 

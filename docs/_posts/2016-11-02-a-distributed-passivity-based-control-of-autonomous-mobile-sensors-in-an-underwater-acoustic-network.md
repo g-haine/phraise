@@ -67,4 +67,5 @@ Autonomous vehicles; Co-operation; Co-ordination; Distributed control; Passivity
 - [Pasumarthy, R. & Kao, C.-Y. On stability of time delay Hamiltonian systems. 2009 American Control Conference 4909–4914 (2009) doi:10.1109/acc.2009.5160619](on-stability-of-time-delay-hamiltonian-systems) -- [10.1109/acc.2009.5160619](https://doi.org/10.1109/acc.2009.5160619)
 - [Secchi, C., Stramigioli, S. & Fantuzzi, C. Transparency in Port-Hamiltonian-Based Telemanipulation. IEEE Transactions on Robotics vol. 24 903–910 (2008)](transparency-in-port-hamiltonian-based-telemanipulation) -- [10.1109/tro.2008.924941](https://doi.org/10.1109/tro.2008.924941)
 - Stojanovic, M. On the relationship between capacity and distance in an underwater acoustic communication channel. ACM SIGMOBILE Mobile Computing and Communications Review vol. 11 34–43 (2007) -- [10.1145/1347364.1347373](https://doi.org/10.1145/1347364.1347373)
+- Van der Schaft, A. (2006). L2-gain and passivity techniques in nonlinear control. Springer Science & Business Media.
 

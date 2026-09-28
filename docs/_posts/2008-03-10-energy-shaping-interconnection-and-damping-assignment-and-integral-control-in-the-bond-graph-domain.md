@@ -51,21 +51,28 @@ bond graphs, energy shaping, integral action, interconnection and damping assign
 ## References
 - Broenink, J. F. 20-sim software for hierarchical bond-graph/block-diagram models. Simulation Practice and Theory 7, 481–492 (1999) -- [10.1016/s0928-4869(99)00018-x](https://doi.org/10.1016/s0928-4869(99)00018-x)
 - Cellier, (1991)
+- H. Cormerais, P.Y. Richard, C. Morvan, J. Buisson, A generic passivity based control for multicellular serial converters, in: Proceedings of 16th IFAC World Congress, Prague, Czech Republic, July 4–8, 2005.
 - Dauphin-Tanguy, Bond graph aided design of controlled systems. Simulation Practice and Theory (2001)
+- A. Donaire, S. Junco, Deriving port-controlled Hamiltonian models with dissipation from bond graphs, in: Proceedings of IMAACA’05, International Conference on Integrated Modeling and Analysis in Applied Control and Automation, Marseille, France, October 20–22, 2005, vol. 1, pp. 117–126.
 - [Donaire, A. & Junco, S. Derivation of Input-State-Output Port-Hamiltonian Systems from bond graphs. Simulation Modelling Practice and Theory 17, 137–151 (2009)](derivation-of-input-state-output-port-hamiltonian-systems-from-bond-graphs) -- [10.1016/j.simpat.2008.02.007](https://doi.org/10.1016/j.simpat.2008.02.007)
 - Elsgoltz, (1969)
 - Gawthrop, P. J. Physical model-based control: A bond graph approach. Journal of the Franklin Institute 332, 285–305 (1995) -- [10.1016/0016-0032(95)00044-5](https://doi.org/10.1016/0016-0032(95)00044-5)
+- J. Granda, Bond graph modeling software developments CAMP/G computer aided modeling program new features, in: Proceedings of ICBGM’97, International Conference on Bond Graph Modeling and Simulation, Phoenix, USA, January 12–15, 1997, pp. 31–36.
 - Huang, S. Y. & Youcef-Toumi, K. Zero Dynamics of Physical Systems From Bond Graph Models—Part I: SISO Systems. Journal of Dynamic Systems, Measurement, and Control 121, 10–17 (1999) -- [10.1115/1.2802426](https://doi.org/10.1115/1.2802426)
+- S. Junco, Lyapunov second method and feedback stabilization directly on bond graphs, in: Proceedings of ICBGM’01, International Conference on Bond Graph Modeling and Simulation, Phoenix, USA, January 7–11, 2001, pp. 137–142.
+- S. Junco, Virtual prototyping of bond graphs models for controller synthesis through energy and power shaping, in: Proceedings of IMAACA’04, International Conference on Integrated Modeling and Analysis in Applied Control and Automation, Bergeggi, Italy, October 28–31, 2004, vol. 2, pp. 100–109.
 - Karnopp, D. Lagrange’s Equations for Complex Bond Graph Systems. Journal of Dynamic Systems, Measurement, and Control 99, 300–306 (1977) -- [10.1115/1.3427123](https://doi.org/10.1115/1.3427123)
 - Karnopp, (2000)
 - Khalil, (1996)
 - Morari, (1989)
+- A. Mukherjee, A.K. Samantaray, System modeling through bond graph objects on SYMBOLS 2000, in: Proceedings of ICBGM’01, International Conference on Bond Graph Modeling and Simulation, Phoenix, USA, January 7–11, 2001, pp. 164–170.
 - Orlikowski, C. Deriving transfer functions from bond graphs by application of Grassmann algebra. Mechanism and Machine Theory 36, 689–707 (2001) -- [10.1016/s0094-114x(01)00012-x](https://doi.org/10.1016/s0094-114x(01)00012-x)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control 10, 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - Petrovic, V., Ortega, R. & Stankovi, A. M. Interconnection and damping assignment approach to control of PM synchronous motors. IEEE Trans. Contr. Syst. Technol. 9, 811–820 (2001) -- [10.1109/87.960344](https://doi.org/10.1109/87.960344)
 - van der Schaft, (2000)
 - [van der Schaft, A. Port-Hamiltonian systems: an introductory survey. Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006 1339–1365 (2007) doi:10.4171/022-3/65](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
+- D. Vink, Aspects of Bond Graph Modelling in Control, Ph.D. Thesis, University of Glasgow, Scotland, UK, 2005.
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Arch. Rational Mech. Anal. 45, 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 - Yeh, T.-J. Backstepping control in the physical domain. Journal of the Franklin Institute 338, 455–479 (2001) -- [10.1016/s0016-0032(01)00015-1](https://doi.org/10.1016/s0016-0032(01)00015-1)
 

@@ -51,12 +51,16 @@ controllability, duality, nonlinear systems, observability, state-space realizat
 - Arnold, (1989)
 - Ball, J. A. & Van der Schaft, A. J. J-inner-outer factorization, J-spectral factorization, and robust control for nonlinear systems. IEEE Trans. Automat. Contr. 41, 379–392 (1996) -- [10.1109/9.486639](https://doi.org/10.1109/9.486639)
 - Crouch, Variational and Hamiltonian control systems. (1987)
+- Fujimoto, K. (2000). Synthesis and analysis of nonlinear control systems based on transformations and factorizations. Ph. D. thesis, Kyoto University, Kyoto, Japan.
 - Fujimoto, K. & Sugie, T. Canonical Transformation and Stabilization of Generalized Hamiltonian Systems. IFAC Proceedings Volumes 31, 523–528 (1998) -- [10.1016/s1474-6670(17)40390-9](https://doi.org/10.1016/s1474-6670(17)40390-9)
 - Gray, W. S. & Scherpen, J. M. A. Hankel operators and Gramians for nonlinear systems. Proceedings of the 37th IEEE Conference on Decision and Control (Cat. No.98CH36171) vol. 2 1416–1421 -- [10.1109/cdc.1998.758485](https://doi.org/10.1109/cdc.1998.758485)
 - Gray, W. S. & Scherpen, J. M. A. Hankel singular value functions from Schmidt pairs for nonlinear input-output systems. Proceedings of the 2002 American Control Conference (IEEE Cat. No.CH37301) 3540–3545 vol.5 (2002) doi:10.1109/acc.2002.1024477 -- [10.1109/acc.2002.1024477](https://doi.org/10.1109/acc.2002.1024477)
+- Maschke, B. M. J., & Van der Schaft, A. J. (1992). Port-controlled Hamiltonian systems: Modeling origins and system-theoretic properties. In Proceedings of the IFAC symposium on nonlinear control systems (pp. 282–288).
 - Milnor, Morse theory. (1963)
 - Scherpen, J. M. A. Balancing for nonlinear systems. Systems &amp; Control Letters 21, 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
+- Scherpen, J. M. A., & Gray, W. S. (1999). On singular value functions and Hankel operators for nonlinear systems. In Proceedings of the American Control Conference (pp. 2360–2364).
 - Scherpen, Minimality and local state decompositions of a nonlinear state-space realization using energy functions. IEEE Transactions on Automatic Control (2000)
+- Scherpen, J. M. A., & Gray, W. S. (2002). Nonlinear Hilbert adjoints: Properties and applications to Hankel singular value analysis. Nonlinear analysis: theory, methods and applications, to appear.
 - SCHERPEN, J. M. A. & VAN DER SCHAFT, A. J. Normalized coprime factorizations and balancing for unstable nonlinear systems. International Journal of Control 60, 1193–1222 (1994) -- [10.1080/00207179408921517](https://doi.org/10.1080/00207179408921517)
 - Van der Schaft, (2000)
 - Walsh, (1975)

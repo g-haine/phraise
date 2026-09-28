@@ -54,10 +54,13 @@ Flexible robot arm; port-Hamiltonian systems; distributed parameter systems; pse
 [Download the bib file]({{ site.baseurl }}/assets/bib/modeling-discretization-and-motion-control-of-a-flexible-beam-in-the-port-hamiltonian-framework.bib)
  
 ## References
+- Bestler, A. (2015). Port-Hamiltonian modeling, discretization and inversion-based feedforward control for the Timoshenko beam. Master’s thesis, Institute of Automatic Control, Technische Uni-versität München, Germany.
 - Cardoso-Ribeiro, Piezoelectric beam with distributed control ports: a power-preserving discretization using weak formulation (2016)
+- Damerau, J. (2008). Untersuchung der dynamischen Eigenschaften von Balken mit fraktionalen Stoffgesetzen. Ph.D. thesis, Helmut Schmidt University, Hamburg.
 - De Luca, A. & Siciliano, B. Inversion-based nonlinear control of robot arms with flexible links. Journal of Guidance, Control, and Dynamics vol. 16 1169–1176 (1993) -- [10.2514/3.21142](https://doi.org/10.2514/3.21142)
 - Garg, An overview of three pseudospectral methods for the numerical solution of optimal control problems. Advances in the Astronautical Sciences (2009)
 - Hesthaven, J. S. From Electrostatics to Almost Optimal Nodal Sets for Polynomial Interpolation in a Simplex. SIAM Journal on Numerical Analysis vol. 35 655–676 (1998) -- [10.1137/s003614299630587x](https://doi.org/10.1137/s003614299630587x)
+- Kleeberger, M. (2016). NODYA - Finite Elemente Programmsystem. http://www.fml.mw.tum.de/fml/index.php?Set_ID=399.
 - [Kotyczka, P. & Blancato, A. Feedforward control of a channel flow based on a discretized port-Hamiltonian model. IFAC-PapersOnLine vol. 48 194–199 (2015)](feedforward-control-of-a-channel-flow-based-on-a-discretized-port-hamiltonian-model) -- [10.1016/j.ifacol.2015.10.238](https://doi.org/10.1016/j.ifacol.2015.10.238)
 - [Kotyczka, P. & Mei Wang. Dual observer-based compensator design for linear port-Hamiltonian systems. 2015 European Control Conference (ECC) 2908–2913 (2015) doi:10.1109/ecc.2015.7330979](dual-observer-based-compensator-design-for-linear-port-hamiltonian-systems) -- [10.1109/ecc.2015.7330979](https://doi.org/10.1109/ecc.2015.7330979)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)

@@ -56,7 +56,9 @@ In motor system control design, a single controller is usually employed to simul
 - Khalil, (2002)
 - Li, S., Yang, J., Chen, W.-H. & Chen, X. Generalized Extended State Observer Based Control for Systems With Mismatched Uncertainties. IEEE Trans. Ind. Electron. 59, 4792–4802 (2012) -- [10.1109/tie.2011.2182011](https://doi.org/10.1109/tie.2011.2182011)
 - Li, W., Wang, L. & Yu, W. Some Open Problems on Simultaneous Stabilization of Linear Systems. J Syst Sci Complex 29, 289–299 (2016) -- [10.1007/s11424-015-4182-1](https://doi.org/10.1007/s11424-015-4182-1)
+- Lin H, Jincheng W (2015) Simultaneous H∞ stabilization for uncertain systems. In: 2015 34th Chinese Control Conference (CCC). IEEE, pp 1511–1516 -- [10.1109/chicc.2015.7259858](https://doi.org/10.1109/chicc.2015.7259858)
 - Li, (2014)
+- B. Maschke, A.J.V. Schaft, Port-controlled hamiltonian systems: Modeling origins and system theoretic properties, Proceedings of the IFAC Symposium Nonlinear Control Systems Design, Bordeaux, France (1992) 282–288.
 - [Transient stabilization of multimachine power systems with nontrivial transfer conductances. IEEE Trans. Automat. Contr. 50, 60–75 (2005)](transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances) -- [10.1109/tac.2004.840477](https://doi.org/10.1109/tac.2004.840477)
 - Ryan, E. P. On Simultaneous Stabilization by Feedback of Finitely Many Oscillators. IEEE Trans. Automat. Contr. 60, 1110–1114 (2015) -- [10.1109/tac.2014.2341893](https://doi.org/10.1109/tac.2014.2341893)
 - Shen, T., Mei, S., Lu, Q., Hu, W. & Tamura, K. Adaptive nonlinear excitation control with L2 disturbance attenuation for power systems. Automatica 39, 81–89 (2003) -- [10.1016/s0005-1098(02)00175-9](https://doi.org/10.1016/s0005-1098(02)00175-9)
@@ -68,6 +70,7 @@ In motor system control design, a single controller is usually employed to simul
 - Schaft, The hamiltonian formulation of energy conserving physical systems with external ports. Archive für Elektronik und bertragungstechnik (1995)
 - Wang, Y., Miao, Z., Zhong, H. & Pan, Q. Simultaneous Stabilization and Tracking of Nonholonomic Mobile Robots: A Lyapunov-Based Approach. IEEE Trans. Contr. Syst. Technol. 23, 1440–1450 (2015) -- [10.1109/tcst.2014.2375812](https://doi.org/10.1109/tcst.2014.2375812)
 - Wang, Generalized hamiltonian control systems theory-realization. (2007)
+- [Yuzhen Wang, Feng G (2008) Finite-time stabilization of Port-Controlled Hamiltonian systems with application to nonlinear affine systems. In: 2008 American Control Conference. IEEE, pp 1202–1207](finite-time-stabilization-of-port-controlled-hamiltonian-systems-with-application-to-nonlinear-affine-systems) -- [10.1109/acc.2008.4586656](https://doi.org/10.1109/acc.2008.4586656)
 - [Wang, Y., Feng, G. & Cheng, D. Simultaneous stabilization of a set of nonlinear port-controlled Hamiltonian systems. Automatica 43, 403–415 (2007)](simultaneous-stabilization-of-a-set-of-nonlinear-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2006.09.008](https://doi.org/10.1016/j.automatica.2006.09.008)
 - Wei, X. & Guo, L. Composite disturbance‐observer‐based control andH∞control for complex continuous models. Intl J Robust &amp; Nonlinear 20, 106–118 (2009) -- [10.1002/rnc.1425](https://doi.org/10.1002/rnc.1425)
 - Yang, J., Chen, W.-H. & Li, S. Non-linear disturbance observer-based robust control for systems with mismatched disturbances/uncertainties. IET Control Theory Appl. 5, 2053–2062 (2011) -- [10.1049/iet-cta.2010.0616](https://doi.org/10.1049/iet-cta.2010.0616)

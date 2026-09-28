@@ -65,6 +65,7 @@ Aerospace; Port-Hamiltonian systems; Vehicle dynamic; Flight dynamics
 - Hamroun, Port-based modelling for open channel irrigation systems. Transactions on Fluid Mechanics (2006)
 - Kelly, J. R., Person, L. H. & Bruce, K. R. Flight Testing TECS — The Total Energy Control System. SAE Technical Paper Series (1986) doi:10.4271/861803 -- [10.4271/861803](https://doi.org/10.4271/861803)
 - McClamroch, (2011)
+- Spark, H., González, P., Ruwisch, C., Meyer-Brügel, W., and Silvestre, F. (2021). An assessment of aircraft control via siso control loops and total energy control.
 - Stevens, (2016)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [Warsewa, A., Böhm, M., Sawodny, O. & Tarín, C. A port-Hamiltonian approach to modeling the structural dynamics of complex systems. Applied Mathematical Modelling vol. 89 1528–1546 (2021)](a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems) -- [10.1016/j.apm.2020.07.038](https://doi.org/10.1016/j.apm.2020.07.038)

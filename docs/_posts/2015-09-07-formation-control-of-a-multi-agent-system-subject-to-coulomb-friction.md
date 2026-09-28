@@ -65,6 +65,7 @@ Discontinuous dynamical systems; Nonsmooth analysis; Multi-agent systems; Port-H
 - Hájek, O. Discontinuous differential equations, I. Journal of Differential Equations vol. 32 149–170 (1979) -- [10.1016/0022-0396(79)90056-1](https://doi.org/10.1016/0022-0396(79)90056-1)
 - Jafarian, M. & De Persis, C. Exact formation control with very coarse information. 2013 American Control Conference 3026–3031 (2013) doi:10.1109/acc.2013.6580295 -- [10.1109/acc.2013.6580295](https://doi.org/10.1109/acc.2013.6580295)
 - Jafarian, M. & De Persis, C. Formation control using binary information. Automatica vol. 53 125–135 (2015) -- [10.1016/j.automatica.2014.12.016](https://doi.org/10.1016/j.automatica.2014.12.016)
+- Jafarian, M., Vos, E., De Persis, C., van der Schaft, A.J., & Scherpen, J.M.A. (2014). On formation control of agents subject to ideal Coulomb friction. In International symposium on mathematical theory of networks and systems. Groningen, The Netherlands, 7–11 July  (pp. 1736–1739).
 - Nemytskii, (1960)
 - Nuno, E., Ortega, R., Basanez, L. & Hill, D. Synchronization of Networks of Nonidentical Euler-Lagrange Systems With Uncertain Parameters and Communication Delays. IEEE Transactions on Automatic Control vol. 56 935–941 (2011) -- [10.1109/tac.2010.2103415](https://doi.org/10.1109/tac.2010.2103415)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
@@ -73,5 +74,6 @@ Discontinuous dynamical systems; Nonsmooth analysis; Multi-agent systems; Port-H
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 - van de Wouw, N. & Leine, R. I. Attractivity of Equilibrium Sets of Systems with Dry Friction. Nonlinear Dynamics vol. 35 19–39 (2004) -- [10.1023/b:nody.0000017482.61599.86](https://doi.org/10.1023/b:nody.0000017482.61599.86)
 - van de Wouw, N. & Leine, R. I. Robust impulsive control of motion systems with uncertain friction. International Journal of Robust and Nonlinear Control vol. 22 369–397 (2011) -- [10.1002/rnc.1694](https://doi.org/10.1002/rnc.1694)
+- Vos, E., Scherpen, J.M.A., & van der Schaft, A.J. (2012). Port-Hamiltonian approach to deployment. In International symposium on mathematical theory of networks and systems. Melbourne, Australia, 9–13 July 0088.
 - [Vos, E., Scherpen, J. M. A. & van der Schaft, A. J. Equal distribution of satellite constellations on circular target orbits. Automatica vol. 50 2641–2647 (2014)](equal-distribution-of-satellite-constellations-on-circular-target-orbits) -- [10.1016/j.automatica.2014.08.027](https://doi.org/10.1016/j.automatica.2014.08.027)
 

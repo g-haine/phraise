@@ -72,6 +72,7 @@ Port-Hamiltonian systems; Kirchhoff plate; Partitioned Finite Element Method; Ge
 - [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Aoues, Modeling and control of a rotating flexible spacecraft: a port-Hamiltonian approach. IEEE Trans. Control Syst. Technol. (2017)
 - Cook, (2002)
+- T. Rusten, Lecture notes in the Finite Element Method in solid mechanics II, 2008, https://www.uio.no/studier/emner/matnat/math/MEK4560/v08/undervisningsmateriale/.
 - Timoshenko, Theory of plates and shells. (1959)
 - [Matignon, D. & Hélie, T. A class of damping models preserving eigenspaces for linear conservative port-Hamiltonian systems. European Journal of Control vol. 19 486–494 (2013)](a-class-of-damping-models-preserving-eigenspaces-for-linear-conservative-port-hamiltonian-systems) -- [10.1016/j.ejcon.2013.10.003](https://doi.org/10.1016/j.ejcon.2013.10.003)
 - Lambourg, C., Chaigne, A. & Matignon, D. Time-domain simulation of damped impacted plates. II. Numerical model and results. The Journal of the Acoustical Society of America vol. 109 1433–1447 (2001) -- [10.1121/1.1354201](https://doi.org/10.1121/1.1354201)

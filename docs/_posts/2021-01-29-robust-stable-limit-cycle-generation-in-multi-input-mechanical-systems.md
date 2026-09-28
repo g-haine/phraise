@@ -77,6 +77,7 @@ This paper proposes a robust controller for the generation of stable limit cycle
 - Garofalo, G., Ott, C. & Albu-Schaffer, A. Orbital stabilization of mechanical systems through semidefinite Lyapunov functions. 2013 American Control Conference 5715–5721 (2013) doi:10.1109/acc.2013.6580733 -- [10.1109/acc.2013.6580733](https://doi.org/10.1109/acc.2013.6580733)
 - Herrmann, G., Jalani, J., Mahyuddin, M. N., Khan, S. G. & Melhuish, C. Robotic hand posture and compliant grasping control using operational space and integral sliding mode control. Robotica 34, 2163–2185 (2014) -- [10.1017/s0263574714002811](https://doi.org/10.1017/s0263574714002811)
 - Ge, S. S., Lee, T. H. & Harris, C. J. Adaptive Neural Network Control of Robotic Manipulators. World Scientific Series in Robotics and Intelligent Systems (1998) doi:10.1142/3774 -- [10.1142/3774](https://doi.org/10.1142/3774)
+- [34] Khalil, H. K. , Nonlinear, Control (Upper Saddle River, Prentice Hall, 2015).
 - Hakimi, A. R. & Binazadeh, T. Robust limit cycle control in a class of nonlinear discrete-time systems. International Journal of Systems Science 49, 3108–3116 (2018) -- [10.1080/00207721.2018.1533599](https://doi.org/10.1080/00207721.2018.1533599)
 - Hashimoto, Generation of optimal voltage reference for limit cycle oscillation in digital control-based switching power supply. J. Energy Power Eng. (2012)
 - Yang, Energy-based nonlinear adaptive control design for the quadrotor UAV system with a suspended payload. IEEE Trans. Ind. Electron. (2054–2064 (2019)

@@ -62,7 +62,9 @@ contraction theory, nonlinear systems, port-hamiltonian systems
 - van der Schaft, (2016)
 - [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Barabanov NE (2006) Kalman–Yakubovich lemma in general finite dimensional case. Intl J Robust &amp; Nonlinear 17(5–6):369–386. https://doi.org/10.1002/rnc.116 -- [10.1002/rnc.1162](https://doi.org/10.1002/rnc.1162)
+- R. Reyes, A. van der Schaft, B. Jayawardhana, Tracking control of fully-actuated port-Hamiltonian mechanical systems via sliding manifolds and contraction analysis, Proc. 20th IFAC World Congress, Toulouse, France, 9-14/07, 2017.
 - Jouffroy J, Fossen TI (2010) Tutorial on Incremental Stability Analysis using Contraction Theory. MIC 31(3):93–106. https://doi.org/10.4173/mic.2010.3. -- [10.4173/mic.2010.3.2](https://doi.org/10.4173/mic.2010.3.2)
+- A. Yaghmaei, M. Yazdanpanah, On contractive port-Hamiltonian systems with state-modulated interconnection and damping matrices, Private communication.
 - Perko, (2000)
 - Abou-Kandil, (2003)
 

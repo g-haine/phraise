@@ -57,7 +57,7 @@ This work investigates the passivity-based control of a class of underactuated m
 - Astolfi, A., Ortega, R. & Venkatraman, A. A globally exponentially convergent immersion and invariance speed observer for mechanical systems with non-holonomic constraints. Automatica vol. 46 182–189 (2010) -- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
 - Ferguson, J., Donaire, A. & Middleton, R. H. Passive momentum observer for mechanical systems. IFAC-PapersOnLine vol. 54 131–136 (2021) -- [10.1016/j.ifacol.2021.11.067](https://doi.org/10.1016/j.ifacol.2021.11.067)
 - Ferguson, J. & McLean, K. Passive momentum observer for nonholonomic systems. IFAC-PapersOnLine vol. 56 373–378 (2023) -- [10.1016/j.ifacol.2023.02.063](https://doi.org/10.1016/j.ifacol.2023.02.063)
-- Khalil. Nonlinear systems (2002)
+- Khalil, Nonlinear systems (2002)
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control vol. 10 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
 - D. Mahindrakar, A., Astolfi, A., Ortega, R. & Viola, G. Further constructive results on interconnection and damping assignment control of mechanical systems: the Acrobot example. International Journal of Robust and Nonlinear Control vol. 16 671–685 (2006) -- [10.1002/rnc.1088](https://doi.org/10.1002/rnc.1088)
 

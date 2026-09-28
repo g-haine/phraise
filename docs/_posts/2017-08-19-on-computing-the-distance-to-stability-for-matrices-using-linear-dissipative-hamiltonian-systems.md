@@ -50,6 +50,7 @@ Dissipative Hamiltonian systems; Distance to stability; Convex optimization
  
 ## References
 - Alam, R., Bora, S., Karow, M., Mehrmann, V. & Moro, J. Perturbation Theory for Hamiltonian Matrices and the Distance to Bounded-Realness. SIAM J. Matrix Anal. &amp; Appl. 32, 484–514 (2011) -- [10.1137/10079464x](https://doi.org/10.1137/10079464x)
+- Beattie, C., Mehrmann, V., & Xu, H. (2015). Port-Hamiltonian realizations of linear time invariant systems. http://dx.doi.org/10.14279/depositonce-4934.
 - Boyd, (1994)
 - Burke, J. V., Henrion, D., Lewis, A. S. & Overton, M. L. HIFOO - A MATLAB PACKAGE FOR FIXED-ORDER CONTROLLER DESIGN AND H OPTIMIZATION. IFAC Proceedings Volumes 39, 339–344 (2006) -- [10.3182/20060705-3-fr-2907.00059](https://doi.org/10.3182/20060705-3-fr-2907.00059)
 - Burke, J. V., Henrion, D., Lewis, A. S. & Overton, M. L. Stabilization via Nonsmooth, Nonconvex Optimization. IEEE Trans. Automat. Contr. 51, 1760–1769 (2006) -- [10.1109/tac.2006.884944](https://doi.org/10.1109/tac.2006.884944)
@@ -57,12 +58,14 @@ Dissipative Hamiltonian systems; Distance to stability; Convex optimization
 - D’haene, T., Pintelon, R. & Vandersteen, G. An Iterative Method to Stabilize a Transfer Function in the&lt;tex&gt;$s$&lt;/tex&gt;- and&lt;tex&gt;$z$&lt;/tex&gt;-Domains. IEEE Trans. Instrum. Meas. 55, 1192–1196 (2006) -- [10.1109/tim.2006.876567](https://doi.org/10.1109/tim.2006.876567)
 - Ghadimi, S. & Lan, G. Accelerated gradient methods for nonconvex nonlinear and stochastic programming. Math. Program. 156, 59–99 (2015) -- [10.1007/s10107-015-0871-8](https://doi.org/10.1007/s10107-015-0871-8)
 - Golo, Hamiltonian formulation of bond graphs. (2003)
+- Grant, M., Boyd, S., & Ye, Y. (2008). CVX: Matlab software for disciplined convex programming.
 - Grippo, L. & Sciandrone, M. On the convergence of the block nonlinear Gauss–Seidel method under convex constraints. Operations Research Letters 26, 127–136 (2000) -- [10.1016/s0167-6377(99)00074-7](https://doi.org/10.1016/s0167-6377(99)00074-7)
 - Higham, N. J. Computing a nearest symmetric positive semidefinite matrix. Linear Algebra and its Applications 103, 103–118 (1988) -- [10.1016/0024-3795(88)90223-6](https://doi.org/10.1016/0024-3795(88)90223-6)
 - Higham, (1988)
 - Hinrichsen, D. & Pritchard, A. J. Stability radii of linear systems. Systems &amp; Control Letters 7, 1–10 (1986) -- [10.1016/0167-6911(86)90094-0](https://doi.org/10.1016/0167-6911(86)90094-0)
 - Horn, (1985)
 - Lancaster, (1985)
+- Lewis, A. S., & Overton, M. L. (2009). Nonsmooth optimization via BFGS. http://www.cs.nyu.edu/overton/papers/pdffiles/bfgs_inexactLS.pdf.
 - [Mehl, C., Mehrmann, V. & Sharma, P. Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM J. Matrix Anal. &amp; Appl. 37, 1625–1654 (2016)](stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations) -- [10.1137/16m1067330](https://doi.org/10.1137/16m1067330)
 - [Mehl, C., Mehrmann, V. & Sharma, P. Stability radii for real linear Hamiltonian systems with perturbed dissipation. Bit Numer Math 57, 811–843 (2017)](stability-radii-for-real-linear-hamiltonian-systems-with-perturbed-dissipation) -- [10.1007/s10543-017-0654-0](https://doi.org/10.1007/s10543-017-0654-0)
 - Moses, R. L. & Liu, D. Determining the closest stable polynomial to an unstable one. IEEE Trans. Signal Process. 39, 901–906 (1991) -- [10.1109/78.80912](https://doi.org/10.1109/78.80912)
@@ -70,8 +73,10 @@ Dissipative Hamiltonian systems; Distance to stability; Convex optimization
 - Orbandexivry, F.-X., Nesterov, Y. & Van Dooren, P. Nearest stable system using successive convex approximations. Automatica 49, 1195–1203 (2013) -- [10.1016/j.automatica.2013.01.053](https://doi.org/10.1016/j.automatica.2013.01.053)
 - Ostrowski, (1960)
 - Packard, A. & Doyle, J. The complex structured singular value. Automatica 29, 71–109 (1993) -- [10.1016/0005-1098(93)90175-s](https://doi.org/10.1016/0005-1098(93)90175-s)
+- Shi, H.-J. M., Tu, S., Xu, Y., & Yin, W. (2016). A primer on coordinate descent algorithms, arXiv:1610.00040.
 - Sturm, J. F. Using SeDuMi 1.02, A Matlab toolbox for optimization over symmetric cones. Optimization Methods and Software 11, 625–653 (1999) -- [10.1080/10556789908805766](https://doi.org/10.1080/10556789908805766)
 - Toh, K. C., Todd, M. J. & Tütüncü, R. H. SDPT3 — A Matlab software package for semidefinite programming, Version 1.3. Optimization Methods and Software 11, 545–581 (1999) -- [10.1080/10556789908805762](https://doi.org/10.1080/10556789908805762)
+- van der Schaft, A. J. (2006). Port-Hamiltonian systems: an introductory survey. In Proc. of the international congress of mathematicians, vol. III, invited lectures (pp. 1339–1365) Madrid, Spain.
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM J. Control Optim. 51, 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 - Wilkinson, Sensitivity of eigenvalues. Utilitas Mathematica (1984)
 - Wright, S. J. Coordinate descent algorithms. Math. Program. 151, 3–34 (2015) -- [10.1007/s10107-015-0892-3](https://doi.org/10.1007/s10107-015-0892-3)

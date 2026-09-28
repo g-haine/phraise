@@ -52,11 +52,15 @@ autonomous systems, fuzzy logic, icing effects, intelligent flight control, nonl
 - Mohsan SAH, Othman NQH, Li Y, Alsharif MH, Khan MA (2023) Unmanned aerial vehicles (UAVs): practical aspects, applications, open challenges, security issues, and future trends. Intel Serv Robotics 16(1):109–137. https://doi.org/10.1007/s11370-022-00452- -- [10.1007/s11370-022-00452-4](https://doi.org/10.1007/s11370-022-00452-4)
 - Amrallah A, Mohamed EM, Tran GK, Sakaguchi K (2023) UAV Trajectory Optimization in a Post-Disaster Area Using Dual Energy-Aware Bandits. Sensors 23(3):1402. https://doi.org/10.3390/s2303140 -- [10.3390/s23031402](https://doi.org/10.3390/s23031402)
 - Beard RW, McLain TW (2012) Small Unmanned Aircraf -- [10.1515/9781400840601](https://doi.org/10.1515/9781400840601)
+- Sun J et al. (2021) Icing effects on UAV performance. Aerospace Sci Technol
 - Jing Y, Wang X, Heredia-Juesas J, Fortner C, Giacomo C, Sipahi R, Martinez-Lorenzo J (2022) PX4 Simulation Results of a Quadcopter with a Disturbance-Observer-Based and PSO-Optimized Sliding Mode Surface Controller. Drones 6(9):261. https://doi.org/10.3390/drones609026 -- [10.3390/drones6090261](https://doi.org/10.3390/drones6090261)
 - B Etkin, Dynamics of atmospheric flight (2012)
 - Stevens BL, Lewis FL, Johnson EN (2015) Aircraft Control and Simulation: Dynamics, Controls Design, and Autonomous System -- [10.1002/9781119174882](https://doi.org/10.1002/9781119174882)
+- Lin C et al. (2020) Fuzzy–PSO hybrid control for nonlinear systems. Appl Soft Comput
+- Kennedy J, Eberhart R (1995) Particle swarm optimization. In: Proceedings of the IEEE international conference on neural networks
 - A Selma, Performance comparison of PSO-based fuzzy control in UAVs (2020)
 - Kumar A (2020) Development of Fast and Soft Landing System for Quadcopter Drone using Fuzzy Logic Technology. IJATCSE 9(1):624–629. https://doi.org/10.30534/ijatcse/2020/8791202 -- [10.30534/ijatcse/2020/87912020](https://doi.org/10.30534/ijatcse/2020/87912020)
+- Rodríguez-Abreo J et al. (2024) PSO-optimized fuzzy controllers for UAV flight under icing conditions. ScienceDirect
 - Tang HH, Ahmad NS (2024) Fuzzy logic approach for controlling uncertain and nonlinear systems: a comprehensive review of applications and advances. Systems Science &amp; Control Engineering 12(1). https://doi.org/10.1080/21642583.2024.239442 -- [10.1080/21642583.2024.2394429](https://doi.org/10.1080/21642583.2024.2394429)
 - B Ma, IEEE Trans Instrum Meas (2023)
 - Shami TM, El-Saleh AA, Alswaitti M, Al-Tashi Q, Summakieh MA, Mirjalili S (2022) Particle Swarm Optimization: A Comprehensive Survey. IEEE Access 10:10031–10061. https://doi.org/10.1109/access.2022.314285 -- [10.1109/access.2022.3142859](https://doi.org/10.1109/access.2022.3142859)

@@ -56,6 +56,7 @@ Dielectric Elastomers; Dielectric Electro-Active Polymers; Mechatronics; Cone Me
  
 ## References
 - Berselli, G., Vertechy, R., Babič, M. & Parenti Castelli, V. Dynamic modeling and experimental evaluation of a constant-force dielectric elastomer actuator. Journal of Intelligent Material Systems and Structures vol. 24 779–791 (2012) -- [10.1177/1045389x12457251](https://doi.org/10.1177/1045389x12457251)
+- Boyd, S., El Ghaoui, L., Feron, E., and Balakrishnan, V. Linear Matrix Inequalities in System and Control Theory. SIAM.
 - [Calchand, N., Hubert, A. & Le Gorrec, Y. Port hamiltonian modeling of MSMA based actuator: toward a thermodynamically consistent formulation. IFAC Proceedings Volumes vol. 45 260–264 (2012)](port-hamiltonian-modeling-of-msma-based-actuator-toward-a-thermodynamically-consistent-formulation) -- [10.3182/20120829-3-it-4022.00044](https://doi.org/10.3182/20120829-3-it-4022.00044)
 - Carpi, F., Menon, C. & De Rossi, D. Electroactive Elastomeric Actuator for All-Polymer Linear Peristaltic Pumps. IEEE/ASME Transactions on Mechatronics vol. 15 460–470 (2010) -- [10.1109/tmech.2009.2028884](https://doi.org/10.1109/tmech.2009.2028884)
 - Carpi, (2011)

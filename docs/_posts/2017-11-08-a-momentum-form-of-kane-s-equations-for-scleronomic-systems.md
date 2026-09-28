@@ -58,6 +58,9 @@ ABSTRACT Kane’s dynamical equations are an efficient and widely used method fo
 - Banerjee, A. Order-n formulation of equations of motion with efficient choices of motion variables. Guidance, Navigation, and Control Conference (1994) doi:10.2514/6.1994-3576 -- [10.2514/6.1994-3576](https://doi.org/10.2514/6.1994-3576)
 - Anderson, K. S. & Critchley, J. H. Multibody System Dynamics vol. 9 185–212 (2003) -- [10.1023/a:1022566107679](https://doi.org/10.1023/a:1022566107679)
 - Gillespie, R. B., Patoglu, V., Hussein, I. I. & Westervelt, E. R. On-Line Symbolic Constraint Embedding for Simulation of Hybrid Dynamical Systems. Multibody System Dynamics vol. 14 387–417 (2005) -- [10.1007/s11044-005-0269-0](https://doi.org/10.1007/s11044-005-0269-0)
+- M.W. Sayers,
+                      Symbolic computer methods to automatically formulate vehicle simulation codes
+                      , Ph.D. thesis, The University of Michigan, 1990.
 - Braun, D. J. & Goldfarb, M. Eliminating constraint drift in the numerical simulation of constrained dynamical systems. Computer Methods in Applied Mechanics and Engineering vol. 198 3151–3160 (2009) -- [10.1016/j.cma.2009.05.013](https://doi.org/10.1016/j.cma.2009.05.013)
 - García de Jalón, J. & Bayo, E. Kinematic and Dynamic Simulation of Multibody Systems. Mechanical Engineering Series (Springer New York, 1994). doi:10.1007/978-1-4612-2600-0 -- [10.1007/978-1-4612-2600-0](https://doi.org/10.1007/978-1-4612-2600-0)
 - Bremen K.E., Numerical Solution of Initial-Value Problems in Differential-Algebraic Equations (1989)

@@ -88,4 +88,6 @@ In this article, we propose a model for a stand-alone hybrid distributed generat
 - Ki-Chul Kim, Ortega, R., Charara, A. & Vilain, J.-P. Theoretical and experimental comparison of two nonlinear controllers for current-fed induction motors. IEEE Trans. Contr. Syst. Technol. 5, 338–348 (1997) -- [10.1109/87.572130](https://doi.org/10.1109/87.572130)
 - [Rodriguez, H., van der Schaft, A. J. & Ortega, R. On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy shaping. Proceedings of the 40th IEEE Conference on Decision and Control (Cat. No.01CH37228) vol. 1 131–136](on-stabilization-of-nonlinear-distributed-parameter-port-controlled-hamiltonian-systems-via-energy-shaping0) -- [10.1109/cdc.2001.980086](https://doi.org/10.1109/cdc.2001.980086)
 - Hilairet, M. et al. A passivity-based controller for coordination of converters in a fuel cell system. Control Engineering Practice 21, 1097–1109 (2013) -- [10.1016/j.conengprac.2013.04.003](https://doi.org/10.1016/j.conengprac.2013.04.003)
+- Manohar R . MATLAB. See https://github.com/rutvikam/distributedgeneration_hybridmicrogrid.
+- Manohar R . 2024 rutvikam/distributedgeneration_hybridmicrogrid: distributedgeneration_hybridmicrogrid_ver2 (Version ver2). Zenodo. See https://doi.org/10.5281/zenodo.11000609.
 

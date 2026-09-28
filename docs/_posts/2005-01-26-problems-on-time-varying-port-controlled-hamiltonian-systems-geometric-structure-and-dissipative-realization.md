@@ -50,6 +50,7 @@ Time-varying PCH system; Geometric structure; Dissipative Hamiltonian realizatio
 [Download the bib file]({{ site.baseurl }}/assets/bib/problems-on-time-varying-port-controlled-hamiltonian-systems-geometric-structure-and-dissipative-realization.bib)
  
 ## References
+- Cheng, D. (2002). Stabilization of time-varying pseudo-Hamiltonian systems, Proceedings of the 2002 international conference on control applications, (pp. 954–959). Glasgow, Scotland, UK.
 - [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - [Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems &amp; Control Letters 44, 309–319 (2001)](stabilization-of-hamiltonian-systems-with-nonholonomic-constraints-based-on-time-varying-generalized-canonical-transformations) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
@@ -61,6 +62,7 @@ Time-varying PCH system; Geometric structure; Dissipative Hamiltonian realizatio
 - Olver, (1993)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ortega, J.-P. & Planas-Bielsa, V. Dynamics on Leibniz manifolds. Journal of Geometry and Physics 52, 1–27 (2004) -- [10.1016/j.geomphys.2004.01.002](https://doi.org/10.1016/j.geomphys.2004.01.002)
+- Shen, T., Ortega, R., Lu, Q., Mei, S., Tamura, K. (2000). Adaptive L2-disturbance attenuation of Hamiltonian systems with parameter perturbations and application to power systems. Proceedings of the 39th IEEE conference on decision and control, Vol. 5. (pp. 4939–4944).
 - Slotine, (1991)
 - van der Schaft, (1999)
 - Yuzhen Wang, Daizhan Cheng, Chunwen Li & You Ge. Dissipative hamiltonian realization and energy-based L/sub 2/-disturbance attenuation control of multimachine power systems. IEEE Trans. Automat. Contr. 48, 1428–1433 (2003) -- [10.1109/tac.2003.815037](https://doi.org/10.1109/tac.2003.815037)

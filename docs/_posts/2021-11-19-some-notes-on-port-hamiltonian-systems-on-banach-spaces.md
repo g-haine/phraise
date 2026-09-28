@@ -58,6 +58,7 @@ port-Hamiltonian systems; partial differential-algebraic systems; Dirac structur
 - Barbu, V. Nonlinear Differential Equations of Monotone Types in Banach Spaces. Springer Monographs in Mathematics (Springer New York, 2010). doi:10.1007/978-1-4419-5542-5 -- [10.1007/978-1-4419-5542-5](https://doi.org/10.1007/978-1-4419-5542-5)
 - [Kurula, M., Zwart, H., van der Schaft, A. & Behrndt, J. Dirac structures and their composition on Hilbert spaces. Journal of Mathematical Analysis and Applications vol. 372 402–422 (2010)](dirac-structures-and-their-composition-on-hilbert-spaces) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
+- Chill, R., Reis, T., and Stykel, T. (2021). Analysis of a quasilinear coupled magneto-quasistatic model. Part I: Solvability and regularity of solutions. Hamburger Beiträge zur Angewandten Mathematik 2021-1, Univer-sität Hamburg.
 - Cortes Garcia, Systems of differential algebraic equations in computational electromagnetics. (2018)
 - Gernandt, A linear relation approach to port-Hamiltonian differential-algebraic equations. (2020)
 - Gernandt, Port-Hamiltonian formulation of nonlinear electrical circuits. J. Geom. Phys. (2020)

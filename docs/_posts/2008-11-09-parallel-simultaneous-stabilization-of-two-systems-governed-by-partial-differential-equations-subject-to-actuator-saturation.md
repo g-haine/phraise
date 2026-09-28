@@ -91,5 +91,6 @@ actuator saturation, conservation law, parallel simultaneous stabilization, part
 - Tang, M. & Yang, C. Extension on peaked wave solutions of CH-γ equation. Chaos, Solitons &amp; Fractals 20, 815–825 (2004) -- [10.1016/j.chaos.2003.09.018](https://doi.org/10.1016/j.chaos.2003.09.018)
 - Guo, B. & Liu, Z. Peaked wave solutions of CH-r equation. Sci. China Ser. A-Math. 46, 696–709 (2003) -- [10.1007/bf02942241](https://doi.org/10.1007/bf02942241)
 - Daizhan Cheng, Spurgeon, S. & Jianping Xiang. On the development of generalized Hamiltonian realizations. Proceedings of the 39th IEEE Conference on Decision and Control (Cat. No.00CH37187) vol. 5 5125–5130 -- [10.1109/cdc.2001.914763](https://doi.org/10.1109/cdc.2001.914763)
+- A. Wei, Y. Wang, Stabilization and H∞ control of nonlinear port-Hamiltonian systems subject to actuator saturation, IEEE Trans. Automat. Control (2007) (to appear)
 - Khalil, (1996)
 

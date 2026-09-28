@@ -58,4 +58,5 @@ Reaction Network; Resistive Relation; Dirac Structure; Bond Graph; Stoichiometri
 - A.J. Schaft van der, L 2-Gain and Passivity Techniques in Nonlinear Control (1996)
 - A.J. Schaft van der, Archiv für Elektronik und Übertragungstechnik (1995)
 - van der Schaft, A. & Maschke, B. Conservation Laws and Lumped System Dynamics. Model-Based Control: 31–48 (2009) doi:10.1007/978-1-4419-0895-7_3 -- [10.1007/978-1-4419-0895-7_3](https://doi.org/10.1007/978-1-4419-0895-7_3)
+- van der Schaft, A.J., Maschke, B.M.: Port-Hamiltonian dynamics on graphs (2010) (submitted for publication)
 

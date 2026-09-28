@@ -67,6 +67,7 @@ Port-Hamiltonian systems; conservation laws; exterior calculus; non-uniform boun
 - Flanders, (1963)
 - Hiptmair, R. & Li, J. Shape derivatives in differential forms I: an intrinsic perspective. Annali di Matematica Pura ed Applicata vol. 192 1077–1098 (2012) -- [10.1007/s10231-012-0259-9](https://doi.org/10.1007/s10231-012-0259-9)
 - Kotyczka, (2019)
+- Kotyczka, P. (2022). Explicit-PH-FE-Model-2CL.py. doi: 10.14459/2022mp1664162.
 - [Kotyczka, P. & Maschke, B. Discrete port-Hamiltonian formulation and numerical approximation for systems of two conservation laws. at - Automatisierungstechnik vol. 65 308–322 (2017)](discrete-port-hamiltonian-formulation-and-numerical-approximation-for-systems-of-two-conservation-laws) -- [10.1515/auto-2016-0098](https://doi.org/10.1515/auto-2016-0098)
 - [Kotyczka, P., Maschke, B. & Lefèvre, L. Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics vol. 361 442–476 (2018)](weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems) -- [10.1016/j.jcp.2018.02.006](https://doi.org/10.1016/j.jcp.2018.02.006)
 - Langtangen, (2016)

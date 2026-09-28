@@ -67,7 +67,7 @@ Differential-algebraic equation; Port-Hamiltonian system; Controllability; Stabi
 - Milnor, J. Singular Points of Complex Hypersurfaces. (AM-61). (1969) doi:10.1515/9781400881819 -- [10.1515/9781400881819](https://doi.org/10.1515/9781400881819)
 - Mumford, D. The Red Book of Varieties and Schemes. Lecture Notes in Mathematics (Springer Berlin Heidelberg, 1999). doi:10.1007/b62130 -- [10.1007/b62130](https://doi.org/10.1007/b62130)
 - Reid M (1998) Undergraduate Algebraic Geometry. Cambridge University Press, Cambridge
-- K Tchoń. Tchoń K (1983) On generic properties of linear systems: an overview. Kybernetika 19(6):467–474 (1983)
+- Tchoń K (1983) On generic properties of linear systems: an overview. Kybernetika 19(6):467–474
 - Trentelman, H. L., Stoorvogel, A. A. & Hautus, M. Control Theory for Linear Systems. Communications and Control Engineering (Springer London, 2001). doi:10.1007/978-1-4471-0339-4 -- [10.1007/978-1-4471-0339-4](https://doi.org/10.1007/978-1-4471-0339-4)
 - Wonham WM (1979) Linear Multivariable Control, 2nd edn. Springer, New York
 

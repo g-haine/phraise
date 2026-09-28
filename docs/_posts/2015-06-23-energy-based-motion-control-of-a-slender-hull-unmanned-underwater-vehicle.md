@@ -55,8 +55,11 @@ Unmanned underwater vehicle; Nonlinear systems; Energy-based control; Port-Hamil
 - Brogliato, (2007)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
 - [Donaire, A. & Perez, T. Dynamic positioning of marine craft using a port-Hamiltonian framework. Automatica vol. 48 851–856 (2012)](dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework) -- [10.1016/j.automatica.2012.02.022](https://doi.org/10.1016/j.automatica.2012.02.022)
+- Donaire, A., Perez, T., Renton, C., 2011. Manoeuvring control of fully-actuated marine vehicles — a Port-Hamiltonian system approach to tracking. In: The Australian Control Conference AUCC, Melbourne Victoria (September).
+- Egeland, O., Gravdahl, J., 2002. Modeling and Simulation for Automatic Control. Marine Cybernetics, Trondheim.
 - Fossen, (1994)
 - Fossen, (2011)
+- Fossen, T.I., Breivik, M., Skjetne, R., 2003. Line-of-sight path following of underactuated marine craft. In: Proceedings of the 6th IFAC MCMC, Girona, Spain, pp. 244–249.
 - From, P. J., Pettersen, K. Y. & Gravdahl, J. T. Singularity-Free Dynamic Equations of AUV-Manipulator Systems. IFAC Proceedings Volumes vol. 43 31–36 (2010) -- [10.3182/20100906-3-it-2019.00008](https://doi.org/10.3182/20100906-3-it-2019.00008)
 - Gertler, M. & Hagen, G. R. STANDARD EQUATIONS OF MOTION FOR SUBMARINE SIMULATION. http://dx.doi.org/10.21236/AD0653861 (1967) doi:10.21236/ad0653861 -- [10.21236/ad0653861](https://doi.org/10.21236/ad0653861)
 - Lanczos, (1960)
@@ -65,5 +68,6 @@ Unmanned underwater vehicle; Nonlinear systems; Energy-based control; Port-Hamil
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Prestero, T. Verification of a six-degree of freedom simulation model for the REMUS autonomous underwater vehicle. (2001) doi:10.1575/1912/3040 -- [10.1575/1912/3040](https://doi.org/10.1575/1912/3040)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- van der Schaft, A., 2006. Port-Hamiltonian systems: an introductory survey. In: Proceeding of the International Congress of Mathematicians.
 - Woolsey, C. A. & Techy, L. Cross-track control of a slender, underactuated AUV using potential shaping. Ocean Engineering vol. 36 82–91 (2009) -- [10.1016/j.oceaneng.2008.07.010](https://doi.org/10.1016/j.oceaneng.2008.07.010)
 

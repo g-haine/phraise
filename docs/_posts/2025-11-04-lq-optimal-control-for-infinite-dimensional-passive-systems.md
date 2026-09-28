@@ -59,6 +59,7 @@ boundary control systems, infinite-dimensional passive systems, lq optimal contr
 - Tucsnak M, Weiss G (2014) Well-posed systems—The LTI case and beyond. Automatica 50(7):1757–1779. https://doi.org/10.1016/j.automatica.2014.04.01 -- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
 - Weiss G, Zwart H (1998) An example in linear quadratic optimal control. Systems &amp; Control Letters 33(5):339–349. https://doi.org/10.1016/s0167-6911(97)00126- -- [10.1016/s0167-6911(97)00126-6](https://doi.org/10.1016/s0167-6911(97)00126-6)
 - Opmeer MR, Staffans OJ (2014) Optimal Control on the Doubly Infinite Continuous Time Axis and Coprime Factorizations. SIAM J Control Optim 52(3):1958–2007. https://doi.org/10.1137/11083172 -- [10.1137/110831726](https://doi.org/10.1137/110831726)
+- M. Opmeer, The algebraic Riccati equation for infinite-dimensional systems, in: Proceedings of the MTNS 2014, 2014.
 - Pritchard AJ, Salamon D (1987) The Linear Quadratic Control Problem for Infinite Dimensional Systems with Unbounded Input and Output Operators. SIAM J Control Optim 25(1):121–144. https://doi.org/10.1137/032500 -- [10.1137/0325009](https://doi.org/10.1137/0325009)
 - Curtain RF (2003) Riccati Equations for Stable Well-Posed Linear Systems: The Generic Case. SIAM J Control Optim 42(5):1681–1702. https://doi.org/10.1137/s036301290139936 -- [10.1137/s0363012901399362](https://doi.org/10.1137/s0363012901399362)
 - Mikkola, (2016)

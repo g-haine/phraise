@@ -62,6 +62,7 @@ Passivity-based control; port-Hamiltonian systems; stabilization; nonlinear syst
 - Hernandez-Gomez, M., Ortega, R., Lamnabhi-Lagarrigue, F. & Escobar, G. Adaptive PI Stabilization of Switched Power Converters. IEEE Transactions on Control Systems Technology vol. 18 688–698 (2010) -- [10.1109/tcst.2009.2023669](https://doi.org/10.1109/tcst.2009.2023669)
 - Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Khalil, (2002)
+- Meng, Z., Borja, P., and Ortega, R. (2017). PID Passivity-based control of port-Hamiltonian systems. IEEE Transactions Automatic Control.
 - Meng, Further deleterious effects of the dissipation obstacle in control by interconnetction of port-Hamiltonian systems. Automatica (2015)
 - Meza, Lyapunov-based control scheme for single-phase grid-connected PV central inverters. IEEE Control Systems Magazine (2012)
 - [Ortega, R. & Borja, L. P. New results on Control by Interconnection and Energy-Balancing Passivity-Based Control of port-hamiltonian systems. 53rd IEEE Conference on Decision and Control 2346–2351 (2014) doi:10.1109/cdc.2014.7039746](new-results-on-control-by-interconnection-and-energy-balancing-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/cdc.2014.7039746](https://doi.org/10.1109/cdc.2014.7039746)

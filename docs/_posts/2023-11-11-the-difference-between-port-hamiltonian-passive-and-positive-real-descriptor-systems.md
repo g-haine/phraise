@@ -76,7 +76,7 @@ Port-Hamiltonian systems; Differential-algebraic equations; Minimal realizations
 - Freund, R. W. & Jarre, F. An extension of the positive real lemma to descriptor systems. Optimization Methods and Software vol. 19 69–87 (2004) -- [10.1080/10556780410001654232](https://doi.org/10.1080/10556780410001654232)
 - Liqian Zhang, Lam, J. & Shengyuan Xu. On positive realness of descriptor systems. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 49 401–407 (2002) -- [10.1109/81.989180](https://doi.org/10.1109/81.989180)
 - CHUANG, K. A Study of State Spaces and Conditional Probability Distributions of a Class of Distributed Parameter Stochastic Systems. International Journal of Control vol. 5 171–177 (1967) -- [10.1080/00207176708921753](https://doi.org/10.1080/00207176708921753)
-- BDO Anderson. Anderson BDO, Vongpanitlerd S (1973) Network analysis and synthesis. Prentice-Hall Inc, Englewood Cliffs (1973)
+- Anderson BDO, Vongpanitlerd S (1973) Network analysis and synthesis. Prentice-Hall Inc, Englewood Cliffs
 - Singular Control Systems. Lecture Notes in Control and Information Sciences (Springer-Verlag, 1989). doi:10.1007/bfb0002475 -- [10.1007/bfb0002475](https://doi.org/10.1007/bfb0002475)
 - Verghese, G., Levy, B. & Kailath, T. A generalized state-space for singular systems. IEEE Transactions on Automatic Control vol. 26 811–831 (1981) -- [10.1109/tac.1981.1102763](https://doi.org/10.1109/tac.1981.1102763)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)

@@ -42,6 +42,8 @@ We examine the minimization of a quadratic cost functional composed of the outpu
 [Download the bib file]({{ site.baseurl }}/assets/bib/linear-quadratic-optimal-control-for-infinite-dimensional-input-state-output-systems.bib)
  
 ## References
+- Staffans O.J., Well-Posed Linear Systems. Volume 103 of Encyclopedia of Mathematics and Its Applications. Cambridge University Press, Cambridge, UK (2005).
+- Šmuljan Y.L., Invariant subspaces of semigroups and the Lax-Phillips scheme. Deposited in VINITI, (8009-B86) (1986).
 - Salamon, Trans. Am. Math. Soc. (1987)
 - Opmeer, M. R. & Staffans, O. J. Optimal Control on the Doubly Infinite Continuous Time Axis and Coprime Factorizations. SIAM Journal on Control and Optimization vol. 52 1958–2007 (2014) -- [10.1137/110831726](https://doi.org/10.1137/110831726)
 - Opmeer, M. R. & Staffans, O. J. Optimal Control on the Doubly Infinite Time Axis for Well-Posed Linear Systems. SIAM Journal on Control and Optimization vol. 57 1985–2015 (2019) -- [10.1137/18m1181304](https://doi.org/10.1137/18m1181304)
@@ -50,15 +52,21 @@ We examine the minimization of a quadratic cost functional composed of the outpu
 - Bensoussan, A., Da Prato, G., Delfour, M. C. & Mitter, S. K. Representation and Control of Infinite Dimensional Systems. Systems &amp; Control: Foundations &amp; Applications (Birkhäuser Boston, 2007). doi:10.1007/978-0-8176-4581-6 -- [10.1007/978-0-8176-4581-6](https://doi.org/10.1007/978-0-8176-4581-6)
 - Lasiecka, I. & Triggiani, R. Control Theory for Partial Differential Equations. (2000) doi:10.1017/cbo9781107340848 -- [10.1017/cbo9781107340848](https://doi.org/10.1017/cbo9781107340848)
 - Lasiecka, I. & Triggiani, R. Control Theory for Partial Differential Equations. (2000) doi:10.1017/cbo9781107340848 -- [10.1017/cbo9781107340848](https://doi.org/10.1017/cbo9781107340848)
+- Li X. and Yong J., Optimal Control Theory for Infinite Dimensional Systems. Birkhauser Boston (2012).
 - Lions, J. L. Optimal Control of Systems Governed by Partial Differential Equations. (Springer Berlin Heidelberg, 1971). doi:10.1007/978-3-642-65024-6 -- [10.1007/978-3-642-65024-6](https://doi.org/10.1007/978-3-642-65024-6)
+- Hinze M., Pinnau R., Ulbrich M. and Ulbrich S., Optimization with PDE Constraints, Vol. 23. Springer Dordrecht (2008).
+- Troltzsch F., Optimal Control of Partial Differential Equations: Theory, Methods, and Applications, Vol. 112. American Mathematical Society (2010).
 - Schiela, A. A concise proof for existence and uniqueness of solutions of linear parabolic PDEs in the context of optimal control. Systems &amp; Control Letters vol. 62 895–901 (2013) -- [10.1016/j.sysconle.2013.06.013](https://doi.org/10.1016/j.sysconle.2013.06.013)
 - Kröner, A., Kunisch, K. & Vexler, B. Semismooth Newton Methods for Optimal Control of the Wave Equation with Control Constraints. SIAM Journal on Control and Optimization vol. 49 830–858 (2011) -- [10.1137/090766541](https://doi.org/10.1137/090766541)
 - Braack, ESAIM: Control Optim. Calc. Var. (2012)
 - Bommer, V. & Yousept, I. Optimal control of the full time-dependent maxwell equations. ESAIM: Mathematical Modelling and Numerical Analysis vol. 50 237–261 (2016) -- [10.1051/m2an/2015041](https://doi.org/10.1051/m2an/2015041)
+- Philipp F., Reis T. and Schaller M., Infinite-dimensional port-Hamiltonian systems - a system node approach (2023). Submitted, preprint arXiv:2302.05168.
 - [Reis, T. & Schaller, M. Port-Hamiltonian Formulation of Oseen Flows. Trends in Mathematics 123–148 (2024) doi:10.1007/978-3-031-64991-2_5](port-hamiltonian-formulation-of-oseen-flows) -- [10.1007/978-3-031-64991-2_5](https://doi.org/10.1007/978-3-031-64991-2_5)
 - Weiss, G. & Staffans, O. J. Maxwell’s Equations as a Scattering Passive Linear System. SIAM Journal on Control and Optimization vol. 51 3722–3756 (2013) -- [10.1137/120869444](https://doi.org/10.1137/120869444)
+- Adams R.A. and Fournier J.J., Sobolev Spaces. Elsevier (2003).
 - Tucsnak, M. & Weiss, G. Observation and Control for Operator Semigroups. (Birkhäuser Basel, 2009). doi:10.1007/978-3-7643-8994-9 -- [10.1007/978-3-7643-8994-9](https://doi.org/10.1007/978-3-7643-8994-9)
 - Lewis1, J. L. On very weak solutions of certain elliptic systems. Communications in Partial Differential Equations vol. 18 1515–1537 (1993) -- [10.1080/03605309308820984](https://doi.org/10.1080/03605309308820984)
+- Engel K.-J. and Nagel R., One-Parameter Semigroups for Linear Evolution Equations. Vol. 194 of Graduate Texts in Mathematics. Springer, New York (2000).
 - Alt, H. W. Linear Functional Analysis. Universitext (Springer London, 2016). doi:10.1007/978-1-4471-7280-2 -- [10.1007/978-1-4471-7280-2](https://doi.org/10.1007/978-1-4471-7280-2)
 - Ekeland, I. & Témam, R. Convex Analysis and Variational Problems. (1999) doi:10.1137/1.9781611971088 -- [10.1137/1.9781611971088](https://doi.org/10.1137/1.9781611971088)
 - Staffans, Equ. Operator Theory (2004)
@@ -66,11 +74,16 @@ We examine the minimization of a quadratic cost functional composed of the outpu
 - [Faulwasser, T., Maschke, B., Philipp, F., Schaller, M. & Worthmann, K. Optimal Control of Port-Hamiltonian Descriptor Systems with Minimal Energy Supply. SIAM Journal on Control and Optimization vol. 60 2132–2158 (2022)](optimal-control-of-port-hamiltonian-descriptor-systems-with-minimal-energy-supply) -- [10.1137/21m1427723](https://doi.org/10.1137/21m1427723)
 - [Schaller, M., Philipp, F., Faulwasser, T., Worthmann, K. & Maschke, B. Control of port-Hamiltonian systems with minimal energy supply. European Journal of Control vol. 62 33–40 (2021)](control-of-port-hamiltonian-systems-with-minimal-energy-supply) -- [10.1016/j.ejcon.2021.06.017](https://doi.org/10.1016/j.ejcon.2021.06.017)
 - [Philipp, F., Schaller, M., Faulwasser, T., Maschke, B. & Worthmann, K. Minimizing the energy supply of infinite-dimensional linear port-Hamiltonian systems. IFAC-PapersOnLine vol. 54 155–160 (2021)](minimizing-the-energy-supply-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.1016/j.ifacol.2021.11.071](https://doi.org/10.1016/j.ifacol.2021.11.071)
+- Farkas B., Jacob B., Reis T. and Schmitz M., Operator splitting based dynamic iteration for linear infinitedimensional port-Hamiltonian systems (2023). Submitted, preprint arXiv:2302.01195.
+- Kato T., Perturbation Theory for Linear Operators, 2nd edn. Springer, Heidelberg (1980).
 - Schwenninger, F. L. Input-to-state stability for parabolic boundary control:linear and semilinear systems. Operator Theory: Advances and Applications 83–116 (2020) doi:10.1007/978-3-030-35898-3_4 -- [10.1007/978-3-030-35898-3_4](https://doi.org/10.1007/978-3-030-35898-3_4)
 - Kunisch, K. & Vexler, B. Constrained Dirichlet Boundary Control in $L^2$ for a Class of Evolution Equations. SIAM Journal on Control and Optimization vol. 46 1726–1753 (2007) -- [10.1137/060670110](https://doi.org/10.1137/060670110)
 - Arendt, Spectral Theory Math. Syst. Theory Evol. Equ. Differ. Differ. Equ. (2012)
+- Hale J., Ordinary Differential Equations, 2nd edn. Robert E. Krieger Publishing Company, Malabar, Florida (1980).
+- Alnæs M., Blechta J., Hake J., Johansson A., Kehlet B., Logg A., Richardson C., Ring J., Rognes M.E. and Wells G.N., The FEniCS project version 1.5. Arch. Numer. Softw. 3 (2015).
 - Mitusch, S., Funke, S. & Dokken, J. dolfin-adjoint 2018.1: automated adjoints for FEniCS and Firedrake. Journal of Open Source Software vol. 4 1292 (2019) -- [10.21105/joss.01292](https://doi.org/10.21105/joss.01292)
 - Kurula, Int. J. Control (2015)
+- Grisvard P., Elliptic Problems in Nonsmooth Domains. Vol. 24 of Monographs and Studies in Mathematics. Pitman Advanced Publishing Program, Boston, London, Melbourne (1985).
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - Lasiecka, I. & Triggiani, R. L2(Σ)‐regularity of the boundary to boundary operator B∗L for hyperbolic and Petrowski PDEs. Abstract and Applied Analysis vol. 2003 1061–1139 (2003) -- [10.1155/s1085337503305032](https://doi.org/10.1155/s1085337503305032)
 - Bardos, C., Lebeau, G. & Rauch, J. Sharp Sufficient Conditions for the Observation, Control, and Stabilization of Waves from the Boundary. SIAM Journal on Control and Optimization vol. 30 1024–1065 (1992) -- [10.1137/0330055](https://doi.org/10.1137/0330055)

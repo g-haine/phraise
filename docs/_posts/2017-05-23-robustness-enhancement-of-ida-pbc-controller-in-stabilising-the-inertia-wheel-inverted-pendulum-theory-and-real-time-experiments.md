@@ -49,6 +49,9 @@ Improving the robustness, vis-à-vis matched input disturbances of interconnecti
 - [Batlle, C., Dòria-Cerezo, A. & Ortega, R. Power Flow Control of a Doubly-Fed Induction Machine Coupled to a Flywheel. European Journal of Control 11, 209–221 (2005)](power-flow-control-of-a-doubly-fed-induction-machine-coupled-to-a-flywheel) -- [10.3166/ejc.11.209-221](https://doi.org/10.3166/ejc.11.209-221)
 - [Becherif, M. & Mendes, E. STABILITY AND ROBUSTNESS OF DISTURBED-PORT CONTROLLED HAMILTONIAN SYSTEMS WITH DISSIPATION. IFAC Proceedings Volumes 38, 574–579 (2005)](stability-and-robustness-of-disturbed-port-controlled-hamiltonian-systems-with-dissipation) -- [10.3182/20050703-6-cz-1902.00751](https://doi.org/10.3182/20050703-6-cz-1902.00751)
 - Choukchou-Braham, A., Cherki, B., Djemaï, M. & Busawon, K. Analysis and Control of Underactuated Mechanical Systems. (Springer International Publishing, 2014). doi:10.1007/978-3-319-02636-7 -- [10.1007/978-3-319-02636-7](https://doi.org/10.1007/978-3-319-02636-7)
+- Delgado Londono, S.
+
+ (2016). Total energy shaping for underactuated mechanical systems: Dissipation and nonholonomic constraints (dissertation). München: Technische Universität München, München.
 - [Dirksz, D. A. & Scherpen, J. M. A. Structure Preserving Adaptive Control of Port-Hamiltonian Systems. IEEE Trans. Automat. Contr. 57, 2880–2885 (2012)](structure-preserving-adaptive-control-of-port-hamiltonian-systems) -- [10.1109/tac.2012.2192359](https://doi.org/10.1109/tac.2012.2192359)
 - Dirksz D. A., Proceeding mtns (2010)
 - Donaire, A., Romero, J. G., Ortega, R., Siciliano, B. & Crespo, M. Robust IDA-PBC for underactuated mechanical systems subject to matched disturbances. Int. J. Robust. Nonlinear Control 27, 1000–1016 (2016) -- [10.1002/rnc.3615](https://doi.org/10.1002/rnc.3615)
@@ -60,6 +63,13 @@ Improving the robustness, vis-à-vis matched input disturbances of interconnecti
 - [Gentili, L. & van der Schaft, A. Regulation and Input Disturbance Suppression for Port-Controlled Hamiltonian Systems 1. IFAC Proceedings Volumes 36, 205–210 (2003)](regulation-and-input-disturbance-suppression-for-port-controlled-hamiltonian-systems-1) -- [10.1016/s1474-6670(17)38892-4](https://doi.org/10.1016/s1474-6670(17)38892-4)
 - Khraief N., IEEE multi-conference on systems and control - msc’14 (2014)
 - Khraief-Haddad N., 3rd international conference on control, engineering and information technology - ceit’15 (2015)
+- Maschke, B.
+, & 
+van der Schaft, A.
+
+ (1994).
+                      Systems and networks: Mathematical theory and applications
+                      . Berlin: Academic-Verlag.
 - Ortega R., Proceedings of the american control conference (2000)
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Trans. Automat. Contr. 47, 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
@@ -70,7 +80,17 @@ Improving the robustness, vis-à-vis matched input disturbances of interconnecti
 - Rodriguez, H., Ortega, R., Escobar, G. & Barabanov, N. A robustly stable output feedback saturated controller for the boost DC-to-DC converter. Systems &amp; Control Letters 40, 1–8 (2000) -- [10.1016/s0167-6911(99)00113-9](https://doi.org/10.1016/s0167-6911(99)00113-9)
 - Rodriguez, H., Ortega, R. & Mareels, I. A novel passivity-based controller for an active magnetic bearing benchmark experiment. Proceedings of the 2000 American Control Conference. ACC (IEEE Cat. No.00CH36334) 2144–2148 vol.3 (2000) doi:10.1109/acc.2000.879580 -- [10.1109/acc.2000.879580](https://doi.org/10.1109/acc.2000.879580)
 - Rodriguez, H., Siguerdidjane, H. & Ortega, R. Experimental comparison of linear and nonlinear controllers for a magnetic suspension. Proceedings of the 2000. IEEE International Conference on Control Applications. Conference Proceedings (Cat. No.00CH37162) 715–719 doi:10.1109/cca.2000.897518 -- [10.1109/cca.2000.897518](https://doi.org/10.1109/cca.2000.897518)
+- Ryalat, M.
+
+ (2015). Design and implementation of nonlinear and robust control for hamiltonian systems: the passivity-based control approach. University of Southampton.
 - Santibanez, V., Kelly, R. & Sandoval, J. Control of the Inertia Wheel Pendulum by Bounded Torques. Proceedings of the 44th IEEE Conference on Decision and Control 8266–8270 doi:10.1109/cdc.2005.1583500 -- [10.1109/cdc.2005.1583500](https://doi.org/10.1109/cdc.2005.1583500)
+- Spong, M.
+, & 
+Vidyasagar, M.
+
+ (1989).
+                      Robot dynamics and control
+                      . New York, NY: John Wiley and Sons.
 - Touati, N. & Chemori, A. Predictive control for the stabilization of a fast mechatronic system : from simulation to real-time experiments. IFAC Proceedings Volumes 46, 237–242 (2013) -- [10.3182/20130410-3-cn-2034.00031](https://doi.org/10.3182/20130410-3-cn-2034.00031)
 - van der Schaft A., Proceedings of the international congress of mathematicians, (2006)
 

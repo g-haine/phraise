@@ -38,6 +38,7 @@ Keywords: Network dynamics, general Poisson structures, gyrators, Hamiltonian eq
  
 ## References
 - Breedveld, P. C. Thermodynamic Bond Graphs and the Problem of Thermal Inertance. Journal of the Franklin Institute 314, 15–40 (1982) -- [10.1016/0016-0032(82)90050-3](https://doi.org/10.1016/0016-0032(82)90050-3)
+- P.C. Breedveld Physical Systems Theory in Terms of Bond Graphs, Ph.D. thesis, 1984, University of Twente, the Netherlands.
 - Breedveld, P. C. Multibond graph elements in physical systems theory. Journal of the Franklin Institute 319, 1–36 (1985) -- [10.1016/0016-0032(85)90062-6](https://doi.org/10.1016/0016-0032(85)90062-6)
 - Libermann, (1987)
 - Maschke, B. Geometrical formulation of bond graph dynamics with application to mechanisms. Journal of the Franklin Institute 328, 723–740 (1991) -- [10.1016/0016-0032(91)90050-d](https://doi.org/10.1016/0016-0032(91)90050-d)
@@ -52,6 +53,7 @@ Keywords: Network dynamics, general Poisson structures, gyrators, Hamiltonian eq
 - Jakubczyk, “Existence of Hamiltonian realizations of nonlinear causal operators”. Bull. Pol. Ac. Math. (1986)
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Brocket, “Control theory and analytical mechanics”. (1977)
+- G. Sanchez de Alvarez Geometric Methods of Classical Mechanics applied to Control Theory, Ph.D. thesis, Dept. Mathematics, Univ. of California, Berkeley, 1986.
 - Krishnaprasad, P. S. & Marsden, J. E. Hamiltonian structures and stability for rigid bodies with flexible attachments. Arch. Rational Mech. Anal. 98, 71–93 (1987) -- [10.1007/bf00279963](https://doi.org/10.1007/bf00279963)
 - Karnopp, D. The energetic structure of multi-body dynamic systems. Journal of the Franklin Institute 306, 165–181 (1978) -- [10.1016/0016-0032(78)90081-9](https://doi.org/10.1016/0016-0032(78)90081-9)
 - Sreenath, N., Oh, Y. G., Krishnaprasad, P. S. & Marsden, J. E. The dynamics of coupled planar rigid bodies. Part I: reduction, equilibria and stability. Dynamics and Stability of Systems 3, 25–49 (1988) -- [10.1080/02681118808806044](https://doi.org/10.1080/02681118808806044)

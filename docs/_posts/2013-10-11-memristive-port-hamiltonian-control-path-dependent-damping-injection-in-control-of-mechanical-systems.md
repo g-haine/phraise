@@ -59,6 +59,7 @@ Memristor; Passivity-based control; Port-Hamiltonian systems
 - Delgado, A. The memristor as controller. 2010 IEEE Nanotechnology Materials and Devices Conference 376–379 (2010) doi:10.1109/nmdc.2010.5649573 -- [10.1109/nmdc.2010.5649573](https://doi.org/10.1109/nmdc.2010.5649573)
 - [Dörfler, F., Johnsen, J. K. & Allgöwer, F. An introduction to interconnection and damping assignment passivity-based control in process engineering. Journal of Process Control vol. 19 1413–1426 (2009)](an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering) -- [10.1016/j.jprocont.2009.07.015](https://doi.org/10.1016/j.jprocont.2009.07.015)
 - (2009)
+- Feedback Instruments Ltd., Twin Rotor MIMO System manual, UK, 2002.
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control vol. 10 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
 - [Jeltsema, D. & Doria-Cerezo, A. Port-Hamiltonian Formulation of Systems With Memory. Proceedings of the IEEE vol. 100 1928–1937 (2012)](port-hamiltonian-formulation-of-systems-with-memory) -- [10.1109/jproc.2011.2164169](https://doi.org/10.1109/jproc.2011.2164169)
 - Multidomain modeling of nonlinear networks and systems. IEEE Control Systems vol. 29 28–59 (2009) -- [10.1109/mcs.2009.932927](https://doi.org/10.1109/mcs.2009.932927)

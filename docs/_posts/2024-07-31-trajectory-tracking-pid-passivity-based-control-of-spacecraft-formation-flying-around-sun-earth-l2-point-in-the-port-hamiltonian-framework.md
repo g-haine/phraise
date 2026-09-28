@@ -53,6 +53,7 @@ SEL2; Formation flight; Nonlinear dynamic; Port-Hamiltonian system; Passivity-ba
  
 ## References
 - Åström, K. J. & Hägglund, T. The future of PID control. Control Engineering Practice vol. 9 1163–1175 (2001) -- [10.1016/s0967-0661(01)00062-4](https://doi.org/10.1016/s0967-0661(01)00062-4)
+- Burke B.F., Smith F G., Wilkinson P.N., 2019. An introduction to radio astronomy, 4th ed. Cambridge University Press, 2002, Section 4, Chap. 6.
 - Burnett, E. R. & Schaub, H. Spacecraft formation and orbit control using differential attitude-dependent solar radiation pressure. Advances in Space Research vol. 67 3396–3408 (2021) -- [10.1016/j.asr.2020.03.047](https://doi.org/10.1016/j.asr.2020.03.047)
 - [Donaire, A. & Perez, T. Dynamic positioning of marine craft using a port-Hamiltonian framework. Automatica vol. 48 851–856 (2012)](dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework) -- [10.1016/j.automatica.2012.02.022](https://doi.org/10.1016/j.automatica.2012.02.022)
 - Duindam, (2009)

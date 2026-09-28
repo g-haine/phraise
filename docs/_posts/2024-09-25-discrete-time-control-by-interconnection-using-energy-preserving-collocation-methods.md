@@ -53,6 +53,7 @@ Sampled systems; discrete-time control; Control by Interconnection; energy-prese
 [Download the bib file]({{ site.baseurl }}/assets/bib/discrete-time-control-by-interconnection-using-energy-preserving-collocation-methods.bib)
  
 ## References
+- Celledoni, E. and Høiseth, E.H. (2017). Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems. ArXiv e-print 1706.08621.
 - Cohen, D. & Hairer, E. Linear energy-preserving integrators for Poisson systems. BIT Numerical Mathematics vol. 51 91–101 (2011) -- [10.1007/s10543-011-0310-z](https://doi.org/10.1007/s10543-011-0310-z)
 - Hairer, Energy-preserving variant of collocation methods. Journal of numerical analysis (2010)
 - Hairer, (1996)

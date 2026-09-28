@@ -49,7 +49,9 @@ disturbance observer, frequency estimator, hamilton–jacobi inequality, \\( L^2
  
 ## References
 - ANDERSON, E., HAGOOD, N. & GOODLIFFE, J. Self-sensing piezoelectric actuation - Analysis and application to controlled structures. 33rd Structures, Structural Dynamics and Materials Conference (1992) doi:10.2514/6.1992-2465 -- [10.2514/6.1992-2465](https://doi.org/10.2514/6.1992-2465)
+- Dong, W., & Sun, B. (2006). Observer-based piezoelectric self-sensing actuator. In Proceedings of SPIE International Conference on Sensor Technology, Vol. 4414 (pp. 472–475).
 - Dosch, J. J., Inman, D. J. & Garcia, E. A Self-Sensing Piezoelectric Actuator for Collocated Control. Journal of Intelligent Material Systems and Structures 3, 166–185 (1992) -- [10.1177/1045389x9200300109](https://doi.org/10.1177/1045389x9200300109)
+- Ennsbrunner, H., & Schlacher, K. (2006). Modeling of piezoelectric structures — a Hamiltonian approach. In I. Troch, F. Breitenecker (Eds.), CD Proceedings 5th vienna symposium on mathematical modelling, mathmod 2006, serie ARGESIM Report, Vol. 2.
 - Fuller, (1993)
 - Irschik, H., Krommer, M. & Pichler, U. Collocative Control of Beam Vibrations with Piezoelectric Self-Sensing Layers. Solid Mechanics and Its Applications 315–322 (2001) doi:10.1007/978-94-010-0724-5_39 -- [10.1007/978-94-010-0724-5_39](https://doi.org/10.1007/978-94-010-0724-5_39)
 - Isidori, (2003)

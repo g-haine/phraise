@@ -45,8 +45,10 @@ discrete gradient methods, port-hamiltonian systems, structure-preserving time d
  
 ## References
 - Arnold VI (1989) Mathematical Methods of Classical Mechanics. Springer New Yor -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
+- E. Celledoni and E. H. Høiseth. Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems. ArXiv 1706.08621v1, 2017.
 - Deuflhard P, Bornemann F (2002) Scientific Computing with Ordinary Differential Equations. Springer New Yor -- [10.1007/978-0-387-21582-2](https://doi.org/10.1007/978-0-387-21582-2)
 - [Egger H, Habrich O, Shashkov V (2020) On the Energy Stable Approximation of Hamiltonian and Gradient Systems. Computational Methods in Applied Mathematics 21(2):335–349. https://doi.org/10.1515/cmam-2020-002](on-the-energy-stable-approximation-of-hamiltonian-and-gradient-systems) -- [10.1515/cmam-2020-0025](https://doi.org/10.1515/cmam-2020-0025)
+- A. Frommer, M. Günther, B. Liljegren-Sailer, and N. Marheineke. Operator splitting for port-Hamiltonian systems. In K. Burnecki, J. Szwabiński, and M. Teuerle, editors, Progress in Industrial Mathematics at ECMI 2023, The European Consortium for Mathematics in Industry. Springer, 2024.
 - [Gonzalez O (1996) Time integration and discrete Hamiltonian systems. J Nonlinear Sci 6(5):449–467. https://doi.org/10.1007/bf0244016](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/bf02440162](https://doi.org/10.1007/bf02440162)
 - E Hairer, Geometric Numerical Integration (2006)
 - Hairer E, Wanner G (1996) Solving Ordinary Differential Equations II. Springer Berlin Heidelber -- [10.1007/978-3-642-05221-7](https://doi.org/10.1007/978-3-642-05221-7)

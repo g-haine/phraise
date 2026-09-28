@@ -54,6 +54,7 @@ evolution family, infinite-dimensional port-hamiltonian system, non-autonomous c
 - Villegas, (2007)
 - Zwart H, Le Gorrec Y, Maschke B, Villegas J (2009) Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: COCV 16(4):1077–1093. https://doi.org/10.1051/cocv/200903 -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
 - Villegas JA, Le Gorrec Y, Zwart H, van der Schaft AJ (2005) BOUNDARY CONTROL SYSTEMS AND THE SYSTEM NODE. IFAC Proceedings Volumes 38(1):308–313. https://doi.org/10.3182/20050703-6-cz-1902.0062 -- [10.3182/20050703-6-cz-1902.00622](https://doi.org/10.3182/20050703-6-cz-1902.00622)
+- B. Augner, Stabilisation of Infinite-dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback (Ph.D. thesis), Wuppertal, 2016.
 - [Jacob B, Morris K, Zwart H (2015) C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain. J Evol Equ 15(2):493–502. https://doi.org/10.1007/s00028-014-0271-](c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain) -- [10.1007/s00028-014-0271-1](https://doi.org/10.1007/s00028-014-0271-1)
 - [Villegas JA, Zwart H, Le Gorrec Y, Maschke B (2009) Exponential Stability of a Class of Boundary Control Systems. IEEE Trans Automat Contr 54(1):142–147. https://doi.org/10.1109/tac.2008.200717](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - Engel, (2000)

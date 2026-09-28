@@ -51,6 +51,7 @@ Nonlinear control; Physical models; Tracking systems
  
 ## References
 - Blankenstein, G., Ortega, R. & Van Der Schaft, A. J. The matching conditions of controlled Lagrangians and IDA-passivity based control. International Journal of Control 75, 645–665 (2002) -- [10.1080/00207170210135939](https://doi.org/10.1080/00207170210135939)
+- Bloch, A. M., Chang, D., Leonard, N. E., & Marsden, J. E. (2002). Potential and kinetic shaping for control of underactuated mechanical systems. In Proceedings of American Control Conference, Anchorage, USA, (pp. 3913–3917).
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Trans. Automat. Contr. 45, 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - Flashner, H. & Skowronski, J. M. Model Tracking Control of Hamiltonian Systems. Journal of Dynamic Systems, Measurement, and Control 111, 656–660 (1989) -- [10.1115/1.3153109](https://doi.org/10.1115/1.3153109)
 - Fujimoto, K., Ishikawa, K. & Sugie, T. Stabilization of a class of Hamiltonian systems with nonholonomic constraints and its experimental evaluation. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 4 3478–3483 -- [10.1109/cdc.1999.827866](https://doi.org/10.1109/cdc.1999.827866)
@@ -62,6 +63,8 @@ Nonlinear control; Physical models; Tracking systems
 - [Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems &amp; Control Letters 44, 309–319 (2001)](stabilization-of-hamiltonian-systems-with-nonholonomic-constraints-based-on-time-varying-generalized-canonical-transformations) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
 - Fujimoto, K. & Sugie, T. Iterative learning control of hamiltonian systems: I/O based optimal control approach. IEEE Trans. Automat. Contr. 48, 1756–1761 (2003) -- [10.1109/tac.2003.817908](https://doi.org/10.1109/tac.2003.817908)
 - Hamberg, J. Controlled Lagrangians, Symmetries and Conditions for Strong Matching. IFAC Proceedings Volumes 33, 57–62 (2000) -- [10.1016/s1474-6670(17)35547-7](https://doi.org/10.1016/s1474-6670(17)35547-7)
+- Khalil, H.K. (2001). Nonlinear systems. 3rd Edition, New York: Prentice Hall.
+- Maschke, B. M. J., & van der Schaft, A. J. (1992). Port-controlled Hamiltonian systems: modeling origins and system-theoretic properties. In IFAC symposium on Nonlinear Control Systems, Borbeaux, France, (pp. 282–288).
 - Ortega, (1998)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Slotine, J.-J. E. & Li, W. Composite adaptive control of robot manipulators. Automatica 25, 509–519 (1989) -- [10.1016/0005-1098(89)90094-0](https://doi.org/10.1016/0005-1098(89)90094-0)

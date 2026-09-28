@@ -57,6 +57,7 @@ Port-Hamiltonian systems; Marine control systems; Dynamic positioning; Integral 
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
 - [Donaire, A. & Perez, T. Port-Hamiltonian Theory of Motion Control for Marine Craft. IFAC Proceedings Volumes vol. 43 201–206 (2010)](port-hamiltonian-theory-of-motion-control-for-marine-craft) -- [10.3182/20100915-3-de-3008.00054](https://doi.org/10.3182/20100915-3-de-3008.00054)
 - Fossen, (1994)
+- Fossen, T.I. (2002). Marine control systems: guidance, navigation and control of ships, rigs and underwater vehicles. Marine Cybernetics, Trondheim.
 - Jayawardhana, B., Ryan, E. P. & Teel, A. R. Bounded-Energy-Input Convergent-State Property of Dissipative Nonlinear Systems: An iISS Approach. IEEE Transactions on Automatic Control vol. 55 159–164 (2010) -- [10.1109/tac.2009.2033754](https://doi.org/10.1109/tac.2009.2033754)
 - Khalil, (2000)
 - Loria, A., Kelly, R., Ortega, R. & Santibanez, V. On global output feedback regulation of Euler-Lagrange systems with bounded inputs. IEEE Transactions on Automatic Control vol. 42 1138–1143 (1997) -- [10.1109/9.618243](https://doi.org/10.1109/9.618243)
@@ -66,4 +67,5 @@ Port-Hamiltonian systems; Marine control systems; Dynamic positioning; Integral 
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Sontag, Input to state stability: basic concepts and results. (2008)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- van der Schaft, A. (2006). Port-Hamiltonian systems: an introductory survey. In Proceeding of the International Congress of Mathematicians.
 

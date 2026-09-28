@@ -50,6 +50,7 @@ Uncertain switched port-controlled Hamiltonian systems; Energy-based multiple Ly
 [Download the bib file]({{ site.baseurl }}/assets/bib/finite-time-adaptive-control-for-uncertain-switched-port-controlled-hamiltonian-systems.bib)
  
 ## References
+- Maschke BM, Schaft AJ. Port-controlled Hamiltonian systems: Modeling origins and system theoretic properties. In: Proceedings of the IFAC symposium on NOLCOS (282–288). Bordeaux, France; 1992.
 - [Zhang, X., Lu, Z., Yuan, X., Wang, Y. & Shen, X. L2-Gain Adaptive Robust Control for Hybrid Energy Storage System in Electric Vehicles. IEEE Trans. Power Electron. 36, 7319–7332 (2021)](l2-gain-adaptive-robust-control-for-hybrid-energy-storage-system-in-electric-vehicles) -- [10.1109/tpel.2020.3041653](https://doi.org/10.1109/tpel.2020.3041653)
 - [Cai, L., He, Z. & Hu, H. A New Load Frequency Control Method of Multi-Area Power System via the Viewpoints of Port-Hamiltonian System and Cascade System. IEEE Trans. Power Syst. 32, 1689–1700 (2017)](a-new-load-frequency-control-method-of-multi-area-power-system-via-the-viewpoints-of-port-hamiltonian-system-and-cascade-system) -- [10.1109/tpwrs.2016.2605007](https://doi.org/10.1109/tpwrs.2016.2605007)
 - [van der Schaft, A. & Jeltsema, D. Limits to Energy Conversion. IEEE Trans. Automat. Contr. 67, 532–538 (2022)](limits-to-energy-conversion) -- [10.1109/tac.2021.3075652](https://doi.org/10.1109/tac.2021.3075652)

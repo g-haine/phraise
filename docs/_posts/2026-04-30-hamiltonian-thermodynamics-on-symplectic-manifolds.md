@@ -47,6 +47,7 @@ hamiltonian systems, symplectic geometry, thermodynamics
 [Download the bib file]({{ site.baseurl }}/assets/bib/hamiltonian-thermodynamics-on-symplectic-manifolds.bib)
  
 ## References
+- Hermann, R., Dekker, M.: Geometry, Physics, and Systems (1973)
 - MrugaŁa R (1978) Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics 14(3):419–427. https://doi.org/10.1016/0034-4877(78)90010- -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)
 - Peterson MA (1979) Analogy between thermodynamics and mechanics. American Journal of Physics 47(6):488–490. https://doi.org/10.1119/1.1178 -- [10.1119/1.11788](https://doi.org/10.1119/1.11788)
 - Vojta G (1990) Symplectic Formalism for the Thermodynamics of Irreversible Processes. Annalen der Physik 502(2–3):251–258. https://doi.org/10.1002/andp.1990502022 -- [10.1002/andp.19905020222](https://doi.org/10.1002/andp.19905020222)
@@ -71,6 +72,7 @@ hamiltonian systems, symplectic geometry, thermodynamics
 - Aragón-Muñoz L, Quevedo H (2022) Symplectic structure of equilibrium thermodynamics. Int J Geom Methods Mod Phys 19(11). https://doi.org/10.1142/s021988782250178 -- [10.1142/s021988782250178x](https://doi.org/10.1142/s021988782250178x)
 - Ghosh A (2023) Hamilton–Jacobi approach to thermodynamic transformations. Pramana - J Phys 97(1). https://doi.org/10.1007/s12043-023-02523- -- [10.1007/s12043-023-02523-2](https://doi.org/10.1007/s12043-023-02523-2)
 - Cariñena JF, Choudhury AG, Guha P (2024) Levinson–Smith Dissipative Equations and Geometry of GENERIC Formalism and Contact Hamiltonian Mechanics. J Nonlinear Sci 34(6). https://doi.org/10.1007/s00332-024-10090- -- [10.1007/s00332-024-10090-y](https://doi.org/10.1007/s00332-024-10090-y)
+- Godbillon, C.: Géométrie différentielle et mécanique analytique, Hermann (1969)
 - Arnold VI (1989) Mathematical Methods of Classical Mechanics. Springer New Yor -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
 - [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overvie](port-hamiltonian-systems-theory-an-introductory-overview0) -- [10.1561/9781601987877](https://doi.org/10.1561/9781601987877)
 - [Duindam V, Macchelli A, Stramigioli S, Bruyninckx H (2009) Modeling and Control of Complex Physical Systems. Springer Berlin Heidelber](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)

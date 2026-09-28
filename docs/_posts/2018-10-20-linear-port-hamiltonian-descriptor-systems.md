@@ -59,7 +59,9 @@ Port-Hamiltonian system; Descriptor system; Differential-algebraic equation; Pas
 [Download the bib file]({{ site.baseurl }}/assets/bib/linear-port-hamiltonian-descriptor-systems.bib)
  
 ## References
+- Bals J, Hofer G, Pfeiffer A, Schallert C (2005) Virtual iron bird—a multidisciplinary modelling and simulation platform for new aircraft system architectures. In: Deutscher Luft-und Raumfahrtkongress, Friedrichshafen, Germany
 - [Beattie, C. & Gugercin, S. Structure-preserving model reduction for nonlinear port-Hamiltonian systems. IEEE Conference on Decision and Control and European Control Conference 6564–6569 (2011) doi:10.1109/cdc.2011.6161504](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems0) -- [10.1109/cdc.2011.6161504](https://doi.org/10.1109/cdc.2011.6161504)
+- Binder A, Mehrmann V, Miedlar A, Schulze P (2015) A Matlab toolbox for the regularization of descriptor systems arising from generalized realization procedures. Preprint 24–2015, Institut für Mathematik, TU Berlin
 - PC Breedveld, Modeling and simulation of dynamic systems using bond graphs (2008)
 - KE Brenan, Numerical solution of initial-value problems in differential algebraic equations (1996)
 - Bunse-Gerstner, A., Byers, R., Mehrmann, V. & Nichols, N. K. Feedback design for regularizing descriptor systems. Linear Algebra and its Applications vol. 299 119–151 (1999) -- [10.1016/s0024-3795(99)00167-6](https://doi.org/10.1016/s0024-3795(99)00167-6)
@@ -81,7 +83,22 @@ Port-Hamiltonian system; Descriptor system; Differential-algebraic equation; Pas
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - Hiller, M. H. & Hirsch, K. Multibody system dynamics and mechatronics. ZAMM vol. 86 87–109 (2006) -- [10.1002/zamm.200510253](https://doi.org/10.1002/zamm.200510253)
 - D Hinrichsen, Mathematical system theory I. Modelling, state space analysis, stability and robustness (2005)
+- Hou M (1994) A three-link planar manipulator model. Sicherheitstechnische Regelungs- und Meßtechnik. Bergische Universität-GH Wuppertal, Wuppertal
+- Hou M, Müller PC (1994) 
+                    
+                      
+                    
+                    $$LQ$$
+                    
+                      
+                        
+                          LQ
+                        
+                      
+                    
+                   and tracking control of descriptor systems with application to constrained manipulator. Technical report, Sicherheitstechnische Regelungs- und Meßtechnik, Universität Wuppertal, Gauß-Straße, Wuppertal 1, Germany
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- Kleijn C (2013)20-sim 4C 2.1 Reference manual. Controlab Products B.V
 - Kunkel, P. & Mehrmann, V. Analysis of Over- and Underdetermined Nonlinear Differential-Algebraic Systems with Application to Nonlinear Control Problems. Mathematics of Control, Signals, and Systems vol. 14 233–256 (2001) -- [10.1007/pl00009884](https://doi.org/10.1007/pl00009884)
 - Kunkel, P. & Mehrmann, V. Differential-Algebraic Equations. EMS Textbooks in Mathematics (2006) doi:10.4171/017 -- [10.4171/017](https://doi.org/10.4171/017)
 - Kunkel, P., Mehrmann, V. & Rath, W. Analysis and Numerical Solution of Control Problems in Descriptor Form. Mathematics of Control, Signals, and Systems vol. 14 29–61 (2001) -- [10.1007/pl00009876](https://doi.org/10.1007/pl00009876)
@@ -95,7 +112,10 @@ Port-Hamiltonian system; Descriptor system; Differential-algebraic equation; Pas
 - [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica vol. 46 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
 - Advanced Multibody System Dynamics. Solid Mechanics and Its Applications (Springer Netherlands, 1993). doi:10.1007/978-94-017-0625-4 -- [10.1007/978-94-017-0625-4](https://doi.org/10.1007/978-94-017-0625-4)
 - K Schlacher, Int J Appl Math Comput Sci (2001)
+- Scholz L (2017) Condensed forms for linear port-Hamiltonian descriptor systems. Preprint 09–2017. Institut für Mathematik, TU Berlin
+- Trautenberg W Simpack 8.9. Manual, INTEC GmbH, Angelrieder Feld 13, 82234 Wessling
 - [Schaft, A. J. Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems. Advanced Dynamics and Control of Structures and Machines 127–167 (2004) doi:10.1007/978-3-7091-2774-2_9](port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems) -- [10.1007/978-3-7091-2774-2_9](https://doi.org/10.1007/978-3-7091-2774-2_9)
+- van der Schaft AJ (2006) Port-Hamiltonian systems: an introductory survey. In: Verona JL, Sanz-Sole M, Verdura J (eds) Proceedings of the international congress of mathematicians, vol. III, invited lectures, Madrid, Spain, pp 1339–1365
 - [van der Schaft, A. J. Port-Hamiltonian Differential-Algebraic Systems. Surveys in Differential-Algebraic Equations I 173–226 (2013) doi:10.1007/978-3-642-34928-7_5](port-hamiltonian-differential-algebraic-systems) -- [10.1007/978-3-642-34928-7_5](https://doi.org/10.1007/978-3-642-34928-7_5)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

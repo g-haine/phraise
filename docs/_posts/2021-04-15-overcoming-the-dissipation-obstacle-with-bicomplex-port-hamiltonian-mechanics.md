@@ -60,6 +60,7 @@ dissipation obstacle; energy-Casimir method; port-Hamiltonian systems; Hamiltoni
 - Novaes, M. Some basics of su(1,1). Revista Brasileira de Ensino de Física vol. 26 351–357 (2004) -- [10.1590/s1806-11172004000400008](https://doi.org/10.1590/s1806-11172004000400008)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Riewe, F. Mechanics with fractional derivatives. Physical Review E vol. 55 3581–3592 (1997) -- [10.1103/physreve.55.3581](https://doi.org/10.1103/physreve.55.3581)
+- Rim, D. (2015). An elementary proof that symplec-tic matrices have determinant one. arXiv e-prints, arXiv:1505.04240.
 - Shankar, (1994)
 - Singer, (2001)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)

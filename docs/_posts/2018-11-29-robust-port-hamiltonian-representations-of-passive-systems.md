@@ -51,6 +51,7 @@ Port-Hamiltonian system; Positive real system; Stability radius; Passivity radiu
 [Download the bib file]({{ site.baseurl }}/assets/bib/robust-port-hamiltonian-representations-of-passive-systems.bib)
  
 ## References
+- Beattie, C., Mehrmann, V., & Van Dooren, P. (2018). Robust port-Hamiltonian representations of passive systems. Inst. f. Mathematik, TU Berlin. Preprint 02-2018 http://arxiv:1801.05018.
 - Benner, P., Losse, P., Mehrmann, V. & Voigt, M. Numerical Linear Algebra Methods for Linear Differential-Algebraic Equations. Differential-Algebraic Equations Forum 117–175 (2015) doi:10.1007/978-3-319-22428-2_3 -- [10.1007/978-3-319-22428-2_3](https://doi.org/10.1007/978-3-319-22428-2_3)
 - Boyd, (1994)
 - Genin, The analytic center of lmi’s and riccati equations. (1999)

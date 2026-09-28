@@ -78,5 +78,6 @@ Bayesian methods; Nonparametric methods; Grey box modelling; Mechatronic systems
 - Williams, C. K. I. & Barber, D. Bayesian classification with Gaussian processes. IEEE Transactions on Pattern Analysis and Machine Intelligence vol. 20 1342–1351 (1998) -- [10.1109/34.735807](https://doi.org/10.1109/34.735807)
 - Wilson, Kernel interpolation for scalable structured Gaussian processes (KISS-GP). (2015)
 - Wilson, Efficiently sampling functions from Gaussian process posteriors. (2020)
+- Winkler, A.W. (2017). Xpp - A collection of ROS packages for the visualization of legged robots. URL https://doi.org/10.5281/zenodo.1037901.
 - Wu, X., Zhang, K., Cheng, M. & Xin, X. A switched dynamical system approach towards the economic dispatch of renewable hybrid power systems. International Journal of Electrical Power &amp; Energy Systems vol. 103 440–457 (2018) -- [10.1016/j.ijepes.2018.06.016](https://doi.org/10.1016/j.ijepes.2018.06.016)
 

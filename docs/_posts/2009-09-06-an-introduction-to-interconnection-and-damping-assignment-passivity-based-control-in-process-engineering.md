@@ -52,6 +52,7 @@ Process control; Nonlinear control; Passivity-based control; Port-Hamiltonian sy
 [Download the bib file]({{ site.baseurl }}/assets/bib/an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering.bib)
  
 ## References
+- B. Maschke, R. Ortega, A. van der Schaft, Modeling and control of physical systems: an approach based on energy and interconnection, in: Proc. 14th MTNS, Perpignan, France, 2000.
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - van der Schaft, Port-Hamiltonian systems: network modeling and control of nonlinear physical systems. (2004)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
@@ -71,12 +72,14 @@ Process control; Nonlinear control; Passivity-based control; Port-Hamiltonian sy
 - Sbarbaro, D. & Ortega, R. Averaging level control: An approach based on mass balance. Journal of Process Control vol. 17 621–629 (2007) -- [10.1016/j.jprocont.2007.01.005](https://doi.org/10.1016/j.jprocont.2007.01.005)
 - Johnsen, Interconnection and damping assignment passivity-based control of a four-tank system. (2007)
 - García–Canseco, E., Jeltsema, D., Scherpen, J. M. A. & Ortega, R. Power–based control of physical systems: two case studies. IFAC Proceedings Volumes vol. 41 2556–2562 (2008) -- [10.3182/20080706-5-kr-1001.00431](https://doi.org/10.3182/20080706-5-kr-1001.00431)
+- E. Garcı´a-Canseco, D. Jeltsema, J. Scherpen, R. Ortega, Power-based control of physical systems, Preprint submitted to Automatica.
 - Bastin, G. On modelling and control of mass balance systems. Lecture Notes in Control and Information Sciences 229–251 doi:10.1007/bfb0110386 -- [10.1007/bfb0110386](https://doi.org/10.1007/bfb0110386)
 - Ortega, R., Astolfi, A., Bastin, G. & Rodrigues-Cortes, H. Output feedback control of food-chain systems. Lecture Notes in Control and Information Sciences 291–310 doi:10.1007/bfb0109932 -- [10.1007/bfb0109932](https://doi.org/10.1007/bfb0109932)
 - [Johnsen, J. K., Dorfler, F. & Allgower, F. L&lt;inf&gt;2&lt;/inf&gt;-gain of Port-Hamiltonian systems and application to a biochemical fermenter model. 2008 American Control Conference 153–158 (2008) doi:10.1109/acc.2008.4586483](l-lt-inf-gt-2-lt-inf-gt-gain-of-port-hamiltonian-systems-and-application-to-a-biochemical-fermenter-model) -- [10.1109/acc.2008.4586483](https://doi.org/10.1109/acc.2008.4586483)
 - Fossas, E., Ros, R. M. & Sira-Ramírez, H. Passivity-Based Control of a Bioreactor System. Journal of Mathematical Chemistry vol. 36 347–360 (2004) -- [10.1023/b:jomc.0000044522.36742.4b](https://doi.org/10.1023/b:jomc.0000044522.36742.4b)
 - Estay, H. R. & Sbárbaro, D. A comparative analysis of nonlinear control approaches for non-minimum phase processes. IFAC Proceedings Volumes vol. 41 10951–10956 (2008) -- [10.3182/20080706-5-kr-1001.01855](https://doi.org/10.3182/20080706-5-kr-1001.01855)
 - Bernard, O., Bastin, G., Stentelaire, C., Lesage-Meessen, L. & Asther, M. Mass balance modeling of vanillin production from vanillic acid by cultures of the fungusPycnoporus cinnabarinus in bioreactors. Biotechnology and Bioengineering vol. 65 558–571 (1999) -- [10.1002/(sici)1097-0290(19991205)65:5<558::aid-bit9>3.0.co;2-a](https://doi.org/10.1002/(sici)1097-0290(19991205)65:5<558::aid-bit9>3.0.co;2-a)
+- G. Szederkényi, A. Magyar, K. Hangos, Quasi-polynomial and Lotka-Volterra representation in nonlinear systems and control theory, in: Proceedings of the Workshop on System Identification and Control Systems, Budapest, 2006, pp. 147–163.
 - Hill, D. & Moylan, P. The stability of nonlinear dissipative systems. IEEE Transactions on Automatic Control vol. 21 708–711 (1976) -- [10.1109/tac.1976.1101352](https://doi.org/10.1109/tac.1976.1101352)
 - van der Schaft, (1999)
 - Ortega, (1998)
@@ -93,6 +96,7 @@ Process control; Nonlinear control; Passivity-based control; Port-Hamiltonian sy
 - Hangos, (2004)
 - Szederkényi, G., Kristensen, N. R., Hangos, K. M. & Bay Jørgensen, S. Nonlinear analysis and control of a continuous fermentation process. Computers &amp; Chemical Engineering vol. 26 659–670 (2002) -- [10.1016/s0098-1354(01)00793-1](https://doi.org/10.1016/s0098-1354(01)00793-1)
 - Sontag, E. D. On the Input-to-State Stability Property. European Journal of Control vol. 1 24–36 (1995) -- [10.1016/s0947-3580(95)70005-x](https://doi.org/10.1016/s0947-3580(95)70005-x)
+- R. Rothfuß, Anwendung der flachheitsbasierten Analyse und Regelung nichtlinearer Mehrgrößensysteme, Ph.D. thesis, University of Stuttgart, 1997.
 - PRÖLL, T. & KARIM, N. M. Nonlinear control of a bioreactor model using exact and I/O linearization. International Journal of Control vol. 60 499–519 (1994) -- [10.1080/00207179408921478](https://doi.org/10.1080/00207179408921478)
 - Hangos, K. M., Alonso, A. A., Perkins, J. D. & Ydstie, B. E. Thermodynamic approach to the structural stability of process plants. AIChE Journal vol. 45 802–816 (1999) -- [10.1002/aic.690450414](https://doi.org/10.1002/aic.690450414)
 - Ruszkowski, M., Garcia‐Osorio, V. & Ydstie, B. E. Passivity based control of transport reaction systems. AIChE Journal vol. 51 3147–3166 (2005) -- [10.1002/aic.10543](https://doi.org/10.1002/aic.10543)
@@ -100,4 +104,7 @@ Process control; Nonlinear control; Passivity-based control; Port-Hamiltonian sy
 - Gorrec, Y., Maschke, B., Villegas, J. A. & Zwart, H. Dissipative boundary control systems with application to distributed parameters reactors. 2006 IEEE International Conference on Control Applications 668–673 (2006) doi:10.1109/cca.2006.285949 -- [10.1109/cca.2006.285949](https://doi.org/10.1109/cca.2006.285949)
 - Antonelli, R. & Astolfi, A. Continuous stirred tank reactors: easy to stabilise? Automatica vol. 39 1817–1827 (2003) -- [10.1016/s0005-1098(03)00177-8](https://doi.org/10.1016/s0005-1098(03)00177-8)
 - Corriou, (2004)
+- P. Albertos, M. Pérez-Polo, Nonisothermal stirred-tank reactor with irreversible exothermic reaction A→B: 1. Modeling and local control, in: Selected Topics in Dynamics and Control of Chemical and Biological Processes, Lecture Notes in Control and Information Sciences, vol. 361, 2007, pp. 3–32.
+- P. Albertos, M. Pérez-Polo, Nonisothermal stirred-tank reactor with irreversible exothermic reaction A →B: 2. Nonlinear phenomena, in: Selected Topics in Dynamics and Control of Chemical and Biological Processes, Lecture Notes in Control and Information Sciences, vol. 361, 2007, pp. 243–279.
+- F. Dörfler, Port-Hamiltonian Systems – Stability Analysis and Applications in Process Control, Student Thesis IST-79, Institute for Systems Theory and Automatic Control. University of Stuttgart, 2007.
 

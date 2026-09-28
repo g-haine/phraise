@@ -53,6 +53,7 @@ Maximal monotone operators; Nonlinear boundary conditions; Port–Hamiltonian sy
 ## References
 - Arlinskij, On proper accretive extensions of positive linear relations. Ukrain. Mat. Zh. (1995)
 - Behrndt, J., Hassi, S. & de Snoo, H. Boundary Relations, Unitary Colligations, and Functional Models. Complex Analysis and Operator Theory vol. 3 57–98 (2008) -- [10.1007/s11785-008-0064-z](https://doi.org/10.1007/s11785-008-0064-z)
+- H. Brezis, Operateurs maximaux monotones et semi-groupes de contractions dans les espaces de Hilbert, Universite Paris VI et CNRS, 1971.
 - CIARLET, P. G. & CIARLET, P., Jr. ANOTHER APPROACH TO LINEARIZED ELASTICITY AND A NEW PROOF OF KORN’S INEQUALITY. Mathematical Models and Methods in Applied Sciences vol. 15 259–271 (2005) -- [10.1142/s0218202505000352](https://doi.org/10.1142/s0218202505000352)
 - Coddington, E. A. & de Snoo, H. S. V. Positive selfadjoint extensions of positive symmetric subspaces. Mathematische Zeitschrift vol. 159 203–214 (1978) -- [10.1007/bf01214571](https://doi.org/10.1007/bf01214571)
 - Derkach, V., Hassi, S., Malamud, M. & de Snoo, H. Boundary relations and their Weyl families. Transactions of the American Mathematical Society vol. 358 5351–5401 (2006) -- [10.1090/s0002-9947-06-04033-5](https://doi.org/10.1090/s0002-9947-06-04033-5)

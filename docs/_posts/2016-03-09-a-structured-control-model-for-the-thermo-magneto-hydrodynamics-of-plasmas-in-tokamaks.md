@@ -76,6 +76,7 @@ ABSTRACT A thermo-magneto-hydrodynamics port-Hamiltonian model is derived for th
 - Frankel T., The Geometry of Physics: An Introduction (2004)
 - Choquet-Bruhat Y., Analysis Manifolds and Physics (1982)
 - Olver, P. J. Applications of Lie Groups to Differential Equations. Graduate Texts in Mathematics (Springer New York, 1993). doi:10.1007/978-1-4612-4350-2 -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
+- A. Macchelli and B.M. Maschke,Modeling and Control of Complex Physical Systems – The Port-Hamiltonian Approach, Chapter Infinite-dimensional Port-Hamiltonian Systems, Springer, Berlin, 2009, pp. 211–272. ISBN 978-3-642-03195-3.
 - Maschke B., Advanced topics in control systems theory, in Chapter Compositional Modelling of Distributed Parameter Systems
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)

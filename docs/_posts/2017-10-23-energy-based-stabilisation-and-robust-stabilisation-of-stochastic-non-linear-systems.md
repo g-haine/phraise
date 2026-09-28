@@ -63,8 +63,8 @@ This study proposes a constructive stabilisation and \\( \\H_{\\infty} \\)-robus
 - [Wang, Y., Feng, G., Cheng, D. & Liu, Y. Adaptive $L^2$ disturbance attenuation control of multi-machine power systems with SMES units. Automatica vol. 42 1121–1132 (2006)](adaptive-l2-disturbance-attenuation-control-of-multi-machine-power-systems-with-smes-units) -- [10.1016/j.automatica.2006.03.014](https://doi.org/10.1016/j.automatica.2006.03.014)
 - [Satoh, S. & Fujimoto, K. Passivity Based Control of Stochastic Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 58 1139–1153 (2013)](passivity-based-control-of-stochastic-port-hamiltonian-systems) -- [10.1109/tac.2012.2229791](https://doi.org/10.1109/tac.2012.2229791)
 - [Satoh, S. & Saeki, M. Bounded stabilisation of stochastic port-Hamiltonian systems. International Journal of Control vol. 87 1573–1582 (2014)](bounded-stabilisation-of-stochastic-port-hamiltonian-systems) -- [10.1080/00207179.2014.880127](https://doi.org/10.1080/00207179.2014.880127)
-- Liu Y.H.. Proc. American Control Conf. (2016)
-- Wang Y.Z.. Generalized Hamilton control system theory – realization, control and applications (2007)
-- Cannon R.H.. Dynamics of physical systems (1976)
+- Liu Y.H., Proc. American Control Conf. (2016)
+- Wang Y.Z., Generalized Hamilton control system theory – realization, control and applications (2007)
+- Cannon R.H., Dynamics of physical systems (1976)
 - Hoagg, J. B. & Seigler, T. M. Filtered feedback linearization for nonlinear systems with unknown disturbance. Systems &amp; Control Letters vol. 62 613–625 (2013) -- [10.1016/j.sysconle.2013.04.002](https://doi.org/10.1016/j.sysconle.2013.04.002)
 

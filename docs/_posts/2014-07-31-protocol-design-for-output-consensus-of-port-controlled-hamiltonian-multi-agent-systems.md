@@ -62,6 +62,7 @@ Control design; Hamiltonian systems; multi-agent; consensus
 - Qu, Nonlinear cooperative control for consensus of nonlinear and heterogeneous systems. (2007)
 - Chopra, Passivity-based control of multiagent systems. (2006)
 - Chopra, N. & Spong, M. W. Output Synchronization of Nonlinear Systems with Relative Degree One. Lecture Notes in Control and Information Sciences 51–64 doi:10.1007/978-1-84800-155-8_4 -- [10.1007/978-1-84800-155-8_4](https://doi.org/10.1007/978-1-84800-155-8_4)
+- Chopra N, Spong M W. Output synchronization on strongly connected graphs. In: Proceedings of the 18th International Symposium on Mathematical Theory of Networks and Systems. Virginia, USA, 2008
 - Igarashi, Passivity-based output synchronization in SE(3). (2008)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archive für Elektronik und Übertragungstechnik (1995)
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Trans. Automat. Contr. 53, 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)

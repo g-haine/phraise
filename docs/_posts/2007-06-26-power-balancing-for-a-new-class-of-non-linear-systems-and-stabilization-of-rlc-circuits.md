@@ -51,6 +51,8 @@ In this paper the method of power shaping, as recently introduced for the stabil
 - Breedveld, P. C. Thermodynamic Bond Graphs and the Problem of Thermal Inertance. Journal of the Franklin Institute 314, 15–40 (1982) -- [10.1016/0016-0032(82)90050-3](https://doi.org/10.1016/0016-0032(82)90050-3)
 - Desoer CA, Basic Circuit Theory (1969)
 - Jeltsema D, Preprints 2nd IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control (2003)
+- Maschke   BM      
+van der Schaft   AJ     “Note on the dynamics of LC circuits with elements in excess”     Memorandum no. 1426, University of Twente, Enschede, The Netherlands, Faculty of Applied Mathematics   1998
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Trans. Circuits Syst. I 42, 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)
 - Ortega R, Preprints 2nd IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control (2003)
 - Ortega, R., Jeltsema, D. & Scherpen, J. M. A. Power shaping: A new paradigm for stabilization of nonlinear RLC circuits. IEEE Trans. Automat. Contr. 48, 1762–1767 (2003) -- [10.1109/tac.2003.817918](https://doi.org/10.1109/tac.2003.817918)

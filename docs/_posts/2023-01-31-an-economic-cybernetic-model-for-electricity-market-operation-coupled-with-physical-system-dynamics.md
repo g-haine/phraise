@@ -77,4 +77,5 @@ Convex optimization; Dynamic pricing; Electricity market; Equilibrium analysis
 - Cherukuri, A., Mallada, E. & Cortés, J. Asymptotic convergence of constrained primal–dual dynamics. Systems &amp; Control Letters vol. 87 10–15 (2016) -- [10.1016/j.sysconle.2015.10.006](https://doi.org/10.1016/j.sysconle.2015.10.006)
 - Wang, G. et al. Dynamic Competitive Equilibria in Electricity Markets. Control and Optimization Methods for Electric Smart Grids 35–62 (2011) doi:10.1007/978-1-4614-1605-0_2 -- [10.1007/978-1-4614-1605-0_2](https://doi.org/10.1007/978-1-4614-1605-0_2)
 - Jokic, A., Lazar, M. & van den Bosch, P. On Constrained Steady-State Regulation: Dynamic KKT Controllers. IEEE Transactions on Automatic Control vol. 54 2250–2254 (2009) -- [10.1109/tac.2009.2026856](https://doi.org/10.1109/tac.2009.2026856)
+- European Network of Transmission System Operators for Electricity (ENTSOE), “Frequency Stability Evaluation Criteria for the Synchronous Zone of Continental Europe - Requirements and impacting factors,” Distribution System Analysis Subcommittee, 2016.
 

@@ -92,7 +92,7 @@ Port Hamiltonian system; Order reduction; Friction; Collision
 - Leimkuhler, B. & Reich, S. Simulating Hamiltonian Dynamics. (2005) doi:10.1017/cbo9780511614118 -- [10.1017/cbo9780511614118](https://doi.org/10.1017/cbo9780511614118)
 - Marx, D., Bailliet, H. & Valière, J.-C. Analysis of the Acoustic Flow at an Abrupt Change in Section of an Acoustic Waveguide Using Particle Image Velocimetry and Proper Orthogonal Decomposition. Acta Acustica united with Acustica vol. 94 54–65 (2008) -- [10.3813/aaa.918008](https://doi.org/10.3813/aaa.918008)
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
-- ME McIntyre. McIntyre, M.E., Woodhouse, J.: On the fundamentals of bowed-string dynamics. Acta Acust. United Acust. 43(2), 93–108 (1979) (1979)
+- McIntyre, M.E., Woodhouse, J.: On the fundamentals of bowed-string dynamics. Acta Acust. United Acust. 43(2), 93–108 (1979)
 - McLachlan, R. I., Perlmutter, M. & Quispel, G. R. W. On the Nonlinear Stability of Symplectic Integrators. BIT Numerical Mathematics vol. 44 99–117 (2004) -- [10.1023/b:bitn.0000025088.13092.7f](https://doi.org/10.1023/b:bitn.0000025088.13092.7f)
 - Morrison, J. D. & Adrien, J.-M. MOSAIC: A Framework for Modal Synthesis. Computer Music Journal vol. 17 45 (1993) -- [10.2307/3680569](https://doi.org/10.2307/3680569)
 - Onofrei, M. G., Willemsen, S. & Serafin, S. Real-Time Implementation of a Friction Drum Inspired Instrument Using Finite Difference Schemes. 2021 24th International Conference on Digital Audio Effects (DAFx) 168–175 (2021) doi:10.23919/dafx51585.2021.9768291 -- [10.23919/dafx51585.2021.9768291](https://doi.org/10.23919/dafx51585.2021.9768291)
@@ -107,7 +107,7 @@ Port Hamiltonian system; Order reduction; Friction; Collision
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Serafin, S., Avanzini, F., Rocchesso, D.: Bowed string simulation using an elasto-plastic friction model. In: Proceedings of the Stockholm music acoustics conference (2003). URL https://hdl.handle.net/2434/656637
 - Slotine, J.J.E., Li, W.: Applied Nonlinear Control, vol. 199. Prentice-hall Englewood Cliffs, NJ (1991)
-- JM Souriau. Souriau, J.M.: Structure of Dynamical Systems: A Symplectic View of Physics, vol. 149. Springer (1997) (1997)
+- Souriau, J.M.: Structure of Dynamical Systems: A Symplectic View of Physics, vol. 149. Springer (1997)
 - Stulov, A. Hysteretic model of the grand piano hammer felt. The Journal of the Acoustical Society of America vol. 97 2577–2585 (1995) -- [10.1121/1.411912](https://doi.org/10.1121/1.411912)
 - Stulov, A.: Experimental and theoretical studies of piano hammer. In: Proceedings of the Stockholm music acoustics conference, vol. 485 (2003). URL https://www.speech.kth.se/music/smac03/programme.html
 - Torin, A.: Percussion instrument modelling in 3d: sound synthesis through time domain numerical simulation. Ph.D. thesis, University of Edinburgh (2015)

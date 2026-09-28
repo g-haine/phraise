@@ -70,8 +70,10 @@ Controlled Hamiltonian system; Optimal point reduction; Optimal orbit reduction;
 - van der Schaft, (2000)
 - van der Schaft, Hamiltonian systems: an introductory survey. Proc. Int. Congr. Math. Madrid (2006)
 - Jalnapurkar, S. M. & Marsden, J. E. Stabilization of relative equilibria. IEEE Transactions on Automatic Control vol. 45 1483–1491 (2000) -- [10.1109/9.871756](https://doi.org/10.1109/9.871756)
+- Z.X. Zhang, H. Wang, Stabilization of pendulum on a rotor arm and modified Hamiltonian method, 2011.
 - Chang, D. E., Bloch, A. M., Leonard, N. E., Marsden, J. E. & Woolsey, C. A. The Equivalence of Controlled Lagrangian and Controlled Hamiltonian Systems. ESAIM: Control, Optimisation and Calculus of Variations vol. 8 393–422 (2002) -- [10.1051/cocv:2002045](https://doi.org/10.1051/cocv:2002045)
 - Chang, D. E. & Marsden, J. E. Reduction of Controlled Lagrangian and Hamiltonian Systems with Symmetry. SIAM Journal on Control and Optimization vol. 43 277–300 (2004) -- [10.1137/s0363012902412951](https://doi.org/10.1137/s0363012902412951)
+- J.E. Marsden, H. Wang, Z.X. Zhang, Regular reduction of controlled Hamiltonian system with symplectic structure and symmetry, 2010.
 - Abraham, (1988)
 - Kobayashi, (1963)
 - Weinstein, The local structure of Poisson manifolds. J. Diff. Geom. (1983)

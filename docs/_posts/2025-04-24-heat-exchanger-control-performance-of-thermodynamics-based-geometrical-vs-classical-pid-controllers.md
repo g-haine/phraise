@@ -75,6 +75,7 @@ Heat exchanger; LabVIEW; Non-equilibrium thermodynamics; PID
 - Cao, S., Zhao, W. & Zhu, A. Research on intervention PID control of VAV terminal based on LabVIEW. Case Studies in Thermal Engineering vol. 45 103002 (2023) -- [10.1016/j.csite.2023.103002](https://doi.org/10.1016/j.csite.2023.103002)
 - Bhaskarwar, Automation of shell and tube type heat exchanger with PLC and LabVIEW. (2015)
 - Sánchez, A. et al. A temperature control system for batch pretreatments of lignocellulosic biomass: proposal, implementation and evaluation. Cellulose vol. 30 2085–2095 (2023) -- [10.1007/s10570-022-05039-x](https://doi.org/10.1007/s10570-022-05039-x)
+- J.P. García-Sandoval, Towards the control of heat exchangers based on thermodynamic principles, in: Memorias Del Congreso Nacional de Control Automático, CNCA, 2021, pp. 80–85.
 - Pérez-Pirela, Development of a simplified model for a distributed-parameter heat exchange system for thermodynamic principles-based control purposes. IFAC-Pap. (2018)
 - Saleem, O., Ahmad, K. R. & Iqbal, J. Fuzzy-Augmented Model Reference Adaptive PID Control Law Design for Robust Voltage Regulation in DC–DC Buck Converters. Mathematics vol. 12 1893 (2024) -- [10.3390/math12121893](https://doi.org/10.3390/math12121893)
 - Smith, (2005)

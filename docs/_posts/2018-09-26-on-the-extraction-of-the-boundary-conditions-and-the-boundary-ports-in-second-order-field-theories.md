@@ -52,6 +52,7 @@ In this paper, we consider second-order field theories in a variational setting.
 - Kouranbaeva, S. & Shkoller, S. A variational approach to second-order multisymplectic field theory. Journal of Geometry and Physics 35, 333–366 (2000) -- [10.1016/s0393-0440(00)00012-7](https://doi.org/10.1016/s0393-0440(00)00012-7)
 - Daniel Prieto-Martínez, P. & Román-Roy, N. A new multisymplectic unified formalism for second order classical field theories. Journal of Geometric Mechanics 7, 203–253 (2015) -- [10.3934/jgm.2015.7.203](https://doi.org/10.3934/jgm.2015.7.203)
 - Moreno, G. & Stypa, M. E. Natural Boundary Conditions in Geometric Calculus of Variations. Mathematica Slovaca 65, 1531–1556 (2015) -- [10.1515/ms-2015-0105](https://doi.org/10.1515/ms-2015-0105)
+- H. Ennsbrunner, “Infinite-dimensional Euler-Lagrange and port Hamiltonian systems,” Ph.D. thesis, University Linz, 2006.
 - [Schöberl, M. & Schlacher, K. Lagrangian and Port-Hamiltonian formulation for Distributed-parameter systems. IFAC-PapersOnLine 48, 610–615 (2015)](lagrangian-and-port-hamiltonian-formulation-for-distributed-parameter-systems) -- [10.1016/j.ifacol.2015.05.025](https://doi.org/10.1016/j.ifacol.2015.05.025)
 - [Schöberl, M. & Schlacher, K. Port-Hamiltonian formulation for Higher-order PDEs. IFAC-PapersOnLine 48, 244–249 (2015)](port-hamiltonian-formulation-for-higher-order-pdes) -- [10.1016/j.ifacol.2015.10.247](https://doi.org/10.1016/j.ifacol.2015.10.247)
 - New Lagrangian and Hamiltonian Methods in Field Theory (1997)

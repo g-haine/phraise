@@ -54,6 +54,7 @@ Actuators; Non-quadratic energy; Mechatronics; Classical circuit theory
 ## References
 - Benzi, F., Ferraguti, F. & Secchi, C. Energy Tank-based Control Framework for Satisfying the ISO/TS 15066 Constraint. IFAC-PapersOnLine vol. 56 1288–1293 (2023) -- [10.1016/j.ifacol.2023.10.1763](https://doi.org/10.1016/j.ifacol.2023.10.1763)
 - Bishop, (2007)
+- Breedveld, P.C. (1984). Physical systems theory in terms of bond graphs. Ph.D. thesis, University of Twente, Enschede, The Netherlands.
 - Duindam, (2009)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Haddadin, S., Albu-Schäffer, A. & Hirzinger, G. Requirements for Safe Robots: Measurements, Analysis and New Insights. The International Journal of Robotics Research vol. 28 1507–1527 (2009) -- [10.1177/0278364909343970](https://doi.org/10.1177/0278364909343970)

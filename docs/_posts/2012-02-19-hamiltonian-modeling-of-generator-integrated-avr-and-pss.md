@@ -54,9 +54,12 @@ generator; AVR; PSS; Hamiltonian model; dissipative characteristics
 ## References
 - Wang, Y., Cheng, D., Liu, Y. & Li, C. AdaptiveH∞excitation control of multimachine power systems via the Hamiltonian function method. International Journal of Control 77, 336–350 (2004) -- [10.1080/0020717042000196254](https://doi.org/10.1080/0020717042000196254)
 - Mei, S., Shen, T., Hu, W., Lu, Q. & Sun, L. Robus                                    control of a Hamiltonian system with uncertainty and its application to a multi-machine power system. IEE Proc., Control Theory Appl. 152, 202–210 (2005) -- [10.1049/ip-cta:20041121](https://doi.org/10.1049/ip-cta:20041121)
+- B. He, X.B. Zhang. Coordinated control for multi-SVCs based on structure preserving model of power system.Proceedings of the CSEE. 27(28), 34-39, 2007.
+- Y. Zeng, Z.Y. Shen, L. Cao. Theoretical study on dynamical model of single-machine-infinite-bus system. Proceedings of the CSEE, 28(17), 138-143, 2008.
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica 43, 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - Ma, J. & Mei, S. Hamiltonian realization of power system dynamic models and its applications. Sci. China Ser. E-Technol. Sci. 51, 735–750 (2008) -- [10.1007/s11431-008-0077-x](https://doi.org/10.1007/s11431-008-0077-x)
 - Liu, Q. J., Sun, Y. Z., Shen, T. L. & Song, Y. H. Adaptive nonlinear co-ordinated excitation and STATCOM controller based on Hamiltonian structure for multimachine-power-system stability enhancement. IEE Proc., Control Theory Appl. 150, 285–294 (2003) -- [10.1049/ip-cta:20030319](https://doi.org/10.1049/ip-cta:20030319)
+- Y. Zeng, F.R. Yu, Y. Wang. Study on generator Hamiltonian ontrol model based on dynamic theory. ICEMS 2008 International Conference, 3957-3961, 2008.
 - Hao, J., Wang, J., Chen, C. & Shi, L. Nonlinear excitation control of multi-machine power systems with structure preserving models based on Hamiltonian system theory. Electric Power Systems Research 74, 401–408 (2005) -- [10.1016/j.epsr.2004.12.003](https://doi.org/10.1016/j.epsr.2004.12.003)
 - Kundur, (2002)
 

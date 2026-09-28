@@ -58,6 +58,7 @@ Dissipativity; Minimal energy supply; Optimal control; Port-Hamiltonian systems;
 - Carlson, (1991)
 - Damm, T., Grüne, L., Stieler, M. & Worthmann, K. An Exponential Turnpike Theorem for Dissipative Discrete Time Optimal Control Problems. SIAM Journal on Control and Optimization vol. 52 1935–1957 (2014) -- [10.1137/120888934](https://doi.org/10.1137/120888934)
 - Dorfman, (1958)
+- T. Faulwasser, L. Grüne, Turnpike Properties in Optimal Control: An Overview of Discrete-Time and Continuous-Time Results, Elsevier. Arxiv: 2011.13670. In press.
 - Faulwasser, T., Korda, M., Jones, C. N. & Bonvin, D. On turnpike and dissipativity properties of continuous-time optimal control problems. Automatica vol. 81 297–304 (2017) -- [10.1016/j.automatica.2017.03.012](https://doi.org/10.1016/j.automatica.2017.03.012)
 - [Faulwasser, T., Maschke, B., Philipp, F., Schaller, M. & Worthmann, K. Optimal Control of Port-Hamiltonian Descriptor Systems with Minimal Energy Supply. SIAM Journal on Control and Optimization vol. 60 2132–2158 (2022)](optimal-control-of-port-hamiltonian-descriptor-systems-with-minimal-energy-supply) -- [10.1137/21m1427723](https://doi.org/10.1137/21m1427723)
 - Fuller, Relay control systems optimized for various performance criteria. (1960)
@@ -74,9 +75,11 @@ Dissipativity; Minimal energy supply; Optimal control; Port-Hamiltonian systems;
 - Moylan, (2014)
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - [Philipp, F., Schaller, M., Faulwasser, T., Maschke, B. & Worthmann, K. Minimizing the energy supply of infinite-dimensional linear port-Hamiltonian systems. IFAC-PapersOnLine vol. 54 155–160 (2021)](minimizing-the-energy-supply-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.1016/j.ifacol.2021.11.071](https://doi.org/10.1016/j.ifacol.2021.11.071)
+- D. Pighin, N. Sakamoto, The turnpike with lack of observability, 2020.
 - [Sato, K. Riemannian Optimal Control and Model Matching of Linear Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 62 6575–6581 (2017)](riemannian-optimal-control-and-model-matching-of-linear-port-hamiltonian-systems) -- [10.1109/tac.2017.2712905](https://doi.org/10.1109/tac.2017.2712905)
 - Sepulchre, (1997)
 - Sussmann, H. J. & Willems, J. C. 300 years of optimal control: from the brachystochrone to the maximum principle. IEEE Control Systems vol. 17 32–44 (1997) -- [10.1109/37.588098](https://doi.org/10.1109/37.588098)
+- E. Trélat, Linear turnpike theorem, 2020.
 - Trélat, E. & Zuazua, E. The turnpike property in finite-dimensional nonlinear optimal control. Journal of Differential Equations vol. 258 81–114 (2015) -- [10.1016/j.jde.2014.09.005](https://doi.org/10.1016/j.jde.2014.09.005)
 - Tröltzsch, (2010)
 - van der Schaft, A. Balancing of Lossless and Passive Systems. IEEE Transactions on Automatic Control vol. 53 2153–2157 (2008) -- [10.1109/tac.2008.930192](https://doi.org/10.1109/tac.2008.930192)

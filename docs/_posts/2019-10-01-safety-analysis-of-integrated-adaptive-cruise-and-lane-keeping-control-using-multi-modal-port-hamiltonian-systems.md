@@ -55,6 +55,9 @@ Passivity; Safety analysis; Port-Hamiltonian systems; Automotive systems; Discre
 - Sztipanovits, J. et al. Toward a Science of Cyber–Physical System Integration. Proceedings of the IEEE vol. 100 29–44 (2012) -- [10.1109/jproc.2011.2161529](https://doi.org/10.1109/jproc.2011.2161529)
 - van der Schaft, Port-Hamiltonian systems: Network modeling and control of nonlinear physical systems. (2004)
 - van der Schaft, Port-Hamiltonian systems: An introductory survey. Proc. Int. Congr. Mathematicians (2006)
+- . CarSim, Mechanical Simulation Corporation, Ann Arbor, MI, USA, 2013. http://www.carsim.com.
+- . TTEthernet, TTTech Computertechnik AG, Vienna, Austria, 2013. http://www.tttech.com/en/products/ttethernet/.
+- . Matlab, The Mathworks, Inc., Natick, MA, USA, Version R2012a, http://www.mathworks.com.
 - Duindam, (2009)
 - Khalil, (2002)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
@@ -63,6 +66,7 @@ Passivity; Safety analysis; Port-Hamiltonian systems; Automotive systems; Discre
 - Prajna, Primal-dual tests for safety and reachability. (2005)
 - Prajna, Safety verification of hybrid systems using barrier certificates. (2004)
 - Prajna, S., Jadbabaie, A. & Pappas, G. J. A Framework for Worst-Case and Stochastic Safety Verification Using Barrier Certificates. IEEE Transactions on Automatic Control vol. 52 1415–1428 (2007) -- [10.1109/tac.2007.902736](https://doi.org/10.1109/tac.2007.902736)
+- Prajna S, Papachristodoulou A, Parrilo PA (2003) Introducing SOSTOOLS: a general purpose sum of squares programming solver. In: Proceedings of the 41st IEEE Conference on Decision and Control, 2002. IEEE, pp 741–746 -- [10.1109/cdc.2002.1184594](https://doi.org/10.1109/cdc.2002.1184594)
 - Rajamani, (2006)
 - Nilsson, P. et al. Correct-by-Construction Adaptive Cruise Control: Two Approaches. IEEE Transactions on Control Systems Technology vol. 24 1294–1307 (2016) -- [10.1109/tcst.2015.2501351](https://doi.org/10.1109/tcst.2015.2501351)
 - Ames, Control barrier function based quadratic programs with application to adaptive cruise control. Proc. IEEE Conf. Decis. Control (2015)
@@ -83,6 +87,7 @@ Passivity; Safety analysis; Port-Hamiltonian systems; Automotive systems; Discre
 - [Stramigioli, S., Secchi, C., van der Schaft, A. J. & Fantuzzi, C. Sampled data systems passivity and discrete port-Hamiltonian systems. IEEE Transactions on Robotics vol. 21 574–587 (2005)](sampled-data-systems-passivity-and-discrete-port-hamiltonian-systems) -- [10.1109/tro.2004.842330](https://doi.org/10.1109/tro.2004.842330)
 - Costa-Castello, R. & Fossas, E. On preserving passivity in sampled-data linear systems. 2006 American Control Conference 6 pp. (2006) doi:10.1109/acc.2006.1657407 -- [10.1109/acc.2006.1657407](https://doi.org/10.1109/acc.2006.1657407)
 - Zhu, F., Yu, H., McCourt, M. J. & Antsaklis, P. J. Passivity and stability of switched systems under quantization. Proceedings of the 15th ACM international conference on Hybrid Systems: Computation and Control 237–244 (2012) doi:10.1145/2185632.2185668 -- [10.1145/2185632.2185668](https://doi.org/10.1145/2185632.2185668)
+- K.K. Jiyang, K. Kum, J. Kang, W. Sung, A floating-point to fixed-point c converter for fixed-point digital signal processors, in: Second SUIF Compiler Workshop, 1997.
 - Yu, H. & Antsaklis, P. J. A passivity measure of systems in cascade based on passivity indices. 49th IEEE Conference on Decision and Control (CDC) 2186–2191 (2010) doi:10.1109/cdc.2010.5717648 -- [10.1109/cdc.2010.5717648](https://doi.org/10.1109/cdc.2010.5717648)
 - Bao, (2007)
 - Hooke, Direct search solution of numerical and statistical problems. J. Assoc. Comput. Mach. (1969)

@@ -80,6 +80,7 @@ Port-Hamiltonian systems; Infinite-dimensional systems; System nodes; Boundary c
 - Behrndt, J., Hassi, S. & de Snoo, H. Boundary Value Problems, Weyl Functions, and Differential Operators. Monographs in Mathematics (Springer International Publishing, 2020). doi:10.1007/978-3-030-36714-5 -- [10.1007/978-3-030-36714-5](https://doi.org/10.1007/978-3-030-36714-5)
 - T Kato, Perturbation theory for linear operators (2013)
 - Skrepek, N. Quasi Gelfand Triples. Integr. Equ. Oper. Theory 97, (2024) -- [10.1007/s00020-024-02780-9](https://doi.org/10.1007/s00020-024-02780-9)
+- Maschke B, Schaft A (2023) Linear boundary port-hamiltonian systems with implicitly defined energy. Preprint arXiv:2305.13772
 - E Zeidler, Applied functional analysis, applications to mathematical physics (2012)
 - C Johnson, Numerical solution of partial differential equations by the finite element method (1987)
 - K-J Engel, One-parameter semigroups for linear evolution equations (2000)

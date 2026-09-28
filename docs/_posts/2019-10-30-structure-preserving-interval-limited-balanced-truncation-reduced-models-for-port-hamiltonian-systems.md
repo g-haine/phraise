@@ -44,7 +44,7 @@ In this study, the authors propose structure‐preserving balanced truncation me
  
 ## References
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
-- Jiang Y.L.. Model order reduction methods (2010)
+- Jiang Y.L., Model order reduction methods (2010)
 - Moore, B. Principal component analysis in linear systems: Controllability, observability, and model reduction. IEEE Transactions on Automatic Control vol. 26 17–32 (1981) -- [10.1109/tac.1981.1102568](https://doi.org/10.1109/tac.1981.1102568)
 - GrimmeE.(1997). ‘Krylov projection methods for model reduction’. PhD thesis Coordinated Science Laboratory University of Illinois at Urbana‐Champaign
 - Van Dooren, P., Gallivan, K. A. & Absil, P.-A. $H^2$-optimal model reduction of MIMO systems. Applied Mathematics Letters vol. 21 1267–1273 (2008) -- [10.1016/j.aml.2007.09.015](https://doi.org/10.1016/j.aml.2007.09.015)
@@ -68,7 +68,7 @@ In this study, the authors propose structure‐preserving balanced truncation me
 - Fernando, K. & Nicholson, H. On a fundamental property of the cross- Gramian matrix. IEEE Transactions on Circuits and Systems vol. 31 504–505 (1984) -- [10.1109/tcs.1984.1085524](https://doi.org/10.1109/tcs.1984.1085524)
 - Jazlan, A., Sreeram, V., Shaker, H. R., Togneri, R. & Minh, H. B. Frequency Interval Cross Gramians for Linear and Bilinear Systems. Asian Journal of Control vol. 19 22–34 (2016) -- [10.1002/asjc.1330](https://doi.org/10.1002/asjc.1330)
 - Jiang, Y.-L., Qi, Z.-Z. & Yang, P. Model Order Reduction of Linear Systems via the Cross Gramian and SVD. IEEE Transactions on Circuits and Systems II: Express Briefs vol. 66 422–426 (2019) -- [10.1109/tcsii.2018.2864115](https://doi.org/10.1109/tcsii.2018.2864115)
-- Jazlan A.. 5th Australian Control Conf. (AUCC) (2015)
+- Jazlan A., 5th Australian Control Conf. (AUCC) (2015)
 - Bartels, R. H. & Stewart, G. W. Algorithm 432 [C2]: Solution of the matrix equation AX + XB = C [F4]. Communications of the ACM vol. 15 820–826 (1972) -- [10.1145/361573.361582](https://doi.org/10.1145/361573.361582)
 - Gugercin, S. & Antoulas, A. C. A Survey of Model Reduction by Balanced Truncation and Some New Results. International Journal of Control vol. 77 748–766 (2004) -- [10.1080/00207170410001713448](https://doi.org/10.1080/00207170410001713448)
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)

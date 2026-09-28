@@ -55,9 +55,11 @@ Port-Hamiltonian systems; Passivity; Nonlinear control; Controller parameterizat
 - Acosta, J. A. & Astolfi, A. On the PDEs arising in IDA-PBC. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 2132–2137 (2009) doi:10.1109/cdc.2009.5400580 -- [10.1109/cdc.2009.5400580](https://doi.org/10.1109/cdc.2009.5400580)
 - Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
 - BACCIOTTI, A. The Local Stabilizability Problem for Nonlinear Systems. IMA Journal of Mathematical Control and Information vol. 5 27–39 (1988) -- [10.1093/imamci/5.1.27](https://doi.org/10.1093/imamci/5.1.27)
+- Boyd, S. (2005). Linear dynamical systems. In Lecture notes, Stanford University. www.stanford.edu/class/ee363/notes/lq-lyap-notes.pdf.
 - [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control vol. 10 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
 - Ho, Controlling a ball and wheel system using full-state-feedback linearization. IEEE Control Systems Magazine (2009)
+- Höffner, K. (2011). Geometric aspects of interconnection and damping assignment — passivity-based control. Ph.D. Thesis, Queen’s University, Kingston.
 - Isidori, (1995)
 - Khalil, (1996)
 - [Kloiber, T. & Kotyczka, P. Estimating and enlarging the domain of attraction in IDA-PBC. 2012 IEEE 51st IEEE Conference on Decision and Control (CDC) 1852–1858 (2012) doi:10.1109/cdc.2012.6426473](estimating-and-enlarging-the-domain-of-attraction-in-ida-pbc) -- [10.1109/cdc.2012.6426473](https://doi.org/10.1109/cdc.2012.6426473)

@@ -63,6 +63,8 @@ internal entropy production, passivity, port-controlled hamiltonian systems, sta
 - García-Sandoval, J. P., González-Álvarez, V. & Calderón, C. Stability analysis and passivity properties for a class of chemical reactors: Internal entropy production approach. Computers &amp; Chemical Engineering 75, 184–195 (2015) -- [10.1016/j.compchemeng.2015.01.021](https://doi.org/10.1016/j.compchemeng.2015.01.021)
 - Gavalas, (1968)
 - Georgakis, C. On the use of extensive variables in process dynamics and control. Chemical Engineering Science 41, 1471–1484 (1986) -- [10.1016/0009-2509(86)85232-0](https://doi.org/10.1016/0009-2509(86)85232-0)
+- Glansdorff, P., Prigogine, I., 1971. Thermodynamic Theory of Structure, Stability and Fluctuations. John Wiley & Sons Ltd., New York, USA
+- Haken, H., 1990. Synergetics. An Introduction. Nonequilibrium Phase Transitions and Self-Organization in Physics, Chemistry and Biology, 3rd edition. Springer-Verlag, New York, NY.
 - Hangos, K. M., Alonso, A. A., Perkins, J. D. & Ydstie, B. E. Thermodynamic approach to the structural stability of process plants. AIChE Journal 45, 802–816 (1999) -- [10.1002/aic.690450414](https://doi.org/10.1002/aic.690450414)
 - Hangos, K. M., Bokor, J. & Szederkényi, G. Hamiltonian view on process systems. AIChE Journal 47, 1819–1831 (2001) -- [10.1002/aic.690470813](https://doi.org/10.1002/aic.690470813)
 - Hangos, Analysis and control of nonlinear process systems. (2004)

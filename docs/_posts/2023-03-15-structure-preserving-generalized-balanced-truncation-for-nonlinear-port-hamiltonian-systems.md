@@ -81,6 +81,7 @@ balancing, generalized controllability function and generalized observability fu
 - Novikov MA (2014) Simultaneous diagonalization of three real symmetric matrices. Russ Math 58(12):59–69. https://doi.org/10.3103/s1066369x1412007 -- [10.3103/s1066369x1412007x](https://doi.org/10.3103/s1066369x1412007x)
 - [Gómez-Estern F, Van der Schaft AJ (2004) Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control 10(5):451–468. https://doi.org/10.3166/ejc.10.451-46](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
 - Boyd, (1994)
+- J. Löfberg, YALMIP : A Toolbox for Modeling and Optimization in MATLAB, in: Proceedings of the CACSD Conference, Taipei, Taiwan, 2004.
 - Sturm JF (1999) Using SeDuMi 1.02, A Matlab toolbox for optimization over symmetric cones. Optimization Methods and Software 11(1–4):625–653. https://doi.org/10.1080/1055678990880576 -- [10.1080/10556789908805766](https://doi.org/10.1080/10556789908805766)
 - Sarkar, (2022)
 - Milnor, (1963)

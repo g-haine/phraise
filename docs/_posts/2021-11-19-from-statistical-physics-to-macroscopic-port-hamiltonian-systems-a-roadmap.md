@@ -69,10 +69,14 @@ physical modeling; statistical physics; thermodynamics; port-Hamiltonian systems
 - Landsberg, (2014)
 - Liechtenstein, A. I., Katsnelson, M. I. & Gubanov, V. A. Exchange interactions and spin-wave stiffness in ferromagnetic metals. Journal of Physics F: Metal Physics vol. 14 L125–L128 (1984) -- [10.1088/0305-4608/14/7/007](https://doi.org/10.1088/0305-4608/14/7/007)
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- Najnudel, J., Müller, R., Hélie, T., and Roze, D. (2020). A power-balanced dynamic model of ferromagnetic coils. In Proc. of the 23rd Int. Conf. on Digital Audio Effects (eDAFx-20).
 - Newell, G. F. & Montroll, E. W. On the Theory of the Ising Model of Ferromagnetism. Reviews of Modern Physics vol. 25 353–389 (1953) -- [10.1103/revmodphys.25.353](https://doi.org/10.1103/revmodphys.25.353)
 - Patrascioiu, The ergodic-hypothesis: a complicated problem in mathematics and physics. Los Alamos Science (1987)
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. Irreversible port-Hamiltonian systems: A general formulation of irreversible processes with application to the CSTR. Chemical Engineering Science vol. 89 223–234 (2013)](irreversible-port-hamiltonian-systems-a-general-formulation-of-irreversible-processes-with-application-to-the-cstr) -- [10.1016/j.ces.2012.12.002](https://doi.org/10.1016/j.ces.2012.12.002)
 - Ray, Ensembles and computer simulation calculation of response functions. (2005)
 - Stowe, (2007)
+- Strecka, J. and Jascur, M. (2015). A brief account of the Ising and Ising-like models: Mean-field, effective-field and exact results. arXiv preprint arXiv:1511.03031.
+- Utermohlen, F. (2018). Mean field theory solution of the Ising model. https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/3/67057/files/2018/09/Ising_model_MFT-25b1klj.pdf.
+- van der Schaft, A. (2020). Classical thermodynamics revisited: A systems and control perspective. arXiv preprint arXiv:2010.04213.
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

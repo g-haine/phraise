@@ -56,7 +56,7 @@ Port-Hamiltonian; Thermodynamics; Scientific machine learning; Inductive biases
 - Battaglia PW, Hamrick JB, Bapst V, Sanchez-Gonzalez A, Zambaldi V, Malinowski M, Tacchetti A, Raposo D, Santoro A, Faulkner R et al (2018) Relational inductive biases, deep learning, and graph networks. arXiv preprint arXiv:1806.01261
 - Bhattoo Ravinder, Ranu Sayan, Krishnan NM (2021) Lagrangian neural network with differentiable symmetries and relational inductive bias. arXiv preprint arXiv:2110.03266
 - Mitchell TM (1980) The need for biases in learning generalizations. Department of Computer Science, Laboratory for Computer Science Research
-- PAM Dirac. Dirac PAM (1929) Quantum mechanics of many-electron systems. Proc R Soc Lond Ser A Contain Papers Math Phys Character 123(792):714–733 (1929)
+- Dirac PAM (1929) Quantum mechanics of many-electron systems. Proc R Soc Lond Ser A Contain Papers Math Phys Character 123(792):714–733
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - [Beattie, C. A., Mehrmann, V. & Van Dooren, P. Robust port-Hamiltonian representations of passive systems. Automatica vol. 100 182–186 (2019)](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
@@ -75,7 +75,7 @@ Port-Hamiltonian; Thermodynamics; Scientific machine learning; Inductive biases
 - Kochkov D, Pfaff T, Sanchez-Gonzalez A, Battaglia P, Clark BK (2021) Learning ground states of quantum hamiltonians with graph networks. arXiv preprint arXiv:2110.06390
 - Gao, Y., Wang, X., Yu, N. & Wong, B. M. Harnessing deep reinforcement learning to construct time-dependent optimal fields for quantum control dynamics. Physical Chemistry Chemical Physics vol. 24 24012–24020 (2022) -- [10.1039/d2cp02495k](https://doi.org/10.1039/d2cp02495k)
 - Lutter M, Ritter C, Peters J (2019) Deep Lagrangian networks: using physics as model prior for deep learning. arXiv preprint arXiv:1907.04490
-- YD Zhong. Zhong YD, Leonard N (2020) Unsupervised learning of Lagrangian dynamics from images for prediction and control. Adv Neural Inf Proc Syst 33:10741–10752 (2020)
+- Zhong YD, Leonard N (2020) Unsupervised learning of Lagrangian dynamics from images for prediction and control. Adv Neural Inf Proc Syst 33:10741–10752
 - Lee, S. C. & Kim, Y. H. An enhanced Lagrangian neural network for the ELD problems with piecewise quadratic cost functions and nonlinear constraints. Electric Power Systems Research vol. 60 167–177 (2002) -- [10.1016/s0378-7796(01)00181-x](https://doi.org/10.1016/s0378-7796(01)00181-x)
 - Allen-Blanchette C, Veer S, Majumdar A, Leonard NE (2020) Lagnetvip: a Lagrangian neural network for video prediction. arXiv preprint arXiv:2010.12932
 - Hohenberg, P. C. & Halperin, B. I. Theory of dynamic critical phenomena. Reviews of Modern Physics vol. 49 435–479 (1977) -- [10.1103/revmodphys.49.435](https://doi.org/10.1103/revmodphys.49.435)
@@ -102,7 +102,7 @@ Port-Hamiltonian; Thermodynamics; Scientific machine learning; Inductive biases
 - Moya B, Badias A, Gonzalez D, Chinesta F, Cueto E (2021) Physics perception in sloshing scenes with guaranteed thermodynamic consistency. arXiv preprint arXiv:2106.13301
 - Moya, B., Badías, A., González, D., Chinesta, F. & Cueto, E. A thermodynamics-informed active learning approach to perception and reasoning about fluids. Computational Mechanics vol. 72 577–591 (2023) -- [10.1007/s00466-023-02279-x](https://doi.org/10.1007/s00466-023-02279-x)
 - Zhang, Z., Shin, Y. & Em Karniadakis, G. GFINNs: GENERIC formalism informed neural networks for deterministic and stochastic dynamical systems. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences vol. 380 (2022) -- [10.1098/rsta.2021.0207](https://doi.org/10.1098/rsta.2021.0207)
-- K Lee. Lee K, Trask N, Stinis P (2021) Machine learning structure preserving brackets for forecasting irreversible processes. Adv Neural Inf Process Syst 34:5696–5707 (2021)
+- Lee K, Trask N, Stinis P (2021) Machine learning structure preserving brackets for forecasting irreversible processes. Adv Neural Inf Process Syst 34:5696–5707
 - Öttinger, H. C. Nonequilibrium thermodynamics for open systems. Physical Review E vol. 73 (2006) -- [10.1103/physreve.73.036126](https://doi.org/10.1103/physreve.73.036126)
 - Badlyan AM, Maschke B, Beattie C, Mehrmann V (2018) Open physical systems: from generic to port-hamiltonian systems. arXiv preprint arXiv:1804.04064
 - Betsch P, Schiebl M (2018) Variational formulations for large strain thermo-elastodynamics based on the generic formalism. In: Proceedings of the 6th European conference on computational mechanics, Glasgow, UK, pp 11–15

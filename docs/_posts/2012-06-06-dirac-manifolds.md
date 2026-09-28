@@ -44,9 +44,15 @@ A Dirac structure on a vector space \(V\) is a subspace of \(V\) with a skew for
  
 ## References
 - Abraham, Ralph, Foundations of mechanics (1978)
+- Gloria Alvarez-Sanchez [1986], Geometric methods of classical mechanics applied to control theory, Ph.D. thesis, University of California at Berkeley.
+- Coste, Dazord and Weinstein [1986], (to appear).
 - Dazord, P. Feuilletages à singularités. Indagationes Mathematicae (Proceedings) 88, 21–39 (1985) -- [10.1016/s1385-7258(85)80017-2](https://doi.org/10.1016/s1385-7258(85)80017-2)
+- A. M. Dirac [1964], Lectures in quantum mechanics, Yeshiva University.
+- J. Gotay and J. E. Nester [1979], Ann. Inst. H. Poincaré Anal. Non Linéaire 30, 129.
+- J. Gotay [1983], Coisotropic imbeddings, Dirac brackets and quantization, preprint.
 - Gotay, M. J., Nester, J. M. & Hinds, G. Presymplectic manifolds and the Dirac–Bergmann theory of constraints. Journal of Mathematical Physics 19, 2388–2399 (1978) -- [10.1063/1.523597](https://doi.org/10.1063/1.523597)
 - Guillemin, V. & Sternberg, S. Geometric Asymptotics. Mathematical Surveys and Monographs (1977) doi:10.1090/surv/014 -- [10.1090/surv/014](https://doi.org/10.1090/surv/014)
+- J. Hanson, T. Regge, and C. Teitelboim [1976], Accad. Naz. Lincei Rome 22.
 - Hermann, Robert, Lie algebras and quantum mechanics (1970)
 - Lichnerowicz, André, Les variétés de Poisson et leurs algèbres de Lie associées. J. Differential Geometry (1977)
 - Littlejohn, R. G. A guiding center Hamiltonian: A new approach. Journal of Mathematical Physics 20, 2445–2458 (1979) -- [10.1063/1.524053](https://doi.org/10.1063/1.524053)
@@ -54,8 +60,10 @@ A Dirac structure on a vector space \(V\) is a subspace of \(V\) with a skew for
 - Mackenzie, K. Lie Groupoids and Lie Algebroids in Differential Geometry. (1987) doi:10.1017/cbo9780511661839 -- [10.1017/cbo9780511661839](https://doi.org/10.1017/cbo9780511661839)
 - Marsden, J. E. & Ratiu, T. Reduction of Poisson manifolds. Lett Math Phys 11, 161–169 (1986) -- [10.1007/bf00398428](https://doi.org/10.1007/bf00398428)
 - Martinet, J. Sur les singularités des formes différentielles. Annales de l’institut Fourier 20, 95–178 (1970) -- [10.5802/aif.340](https://doi.org/10.5802/aif.340)
+- Richard Montgomery [1985], personal communication.
 - Oh, Y.-G. Some remarks on the transverse poisson structures of coadjoint orbits. Lett Math Phys 12, 87–91 (1986) -- [10.1007/bf00416457](https://doi.org/10.1007/bf00416457)
 - Omohundro, S. Geometric Hamiltonian structures and perturbation theory. Lecture Notes in Physics 91–120 doi:10.1007/bfb0018331 -- [10.1007/bfb0018331](https://doi.org/10.1007/bfb0018331)
+- \bysame[1985], Geometric perturbation theory and plasma physics, Ph.D. thesis, University of California at Berkeley.
 - Singularities \& dynamical systems (1985)
 - Pnevmatikos, Spyros N., Structures hamiltoniennes en présence de contraintes. C. R. Acad. Sci. Paris S\'{e}r. A-B (1979)
 - Pnevmatikos, S. N. Structures symplectiques singulières génériques. Annales de l’institut Fourier 34, 201–218 (1984) -- [10.5802/aif.983](https://doi.org/10.5802/aif.983)

@@ -49,6 +49,7 @@ bio-inspired control, emotion-based learning, finite-state machine, passivity-ba
 ## References
 - Heravi, Development of a field robot platform for mechanical weed control in greenhouse cultivation of cucumber. Agric. Robot. Fundam. Appl. (2018)
 - Xiong, An autonomous strawberry-harvesting robot: Design, development, integration, and field evaluation. J. Field Robot. (2019)
+- Marais, W.; Göktoğan, A. Design and Control of CRAM: A Highly Articulated Cable-driven Remote Access Manipulator for Confined Space Inspection. ACRA-2017, Sydney, Australia, 2017.
 - Endo G, Horigome A, Takata A (2019) Super Dragon: A 10-m-Long-Coupled Tendon-Driven Articulated Manipulator. IEEE Robot Autom Lett 4(2):934–941. https://doi.org/10.1109/lra.2019.289485 -- [10.1109/lra.2019.2894855](https://doi.org/10.1109/lra.2019.2894855)
 - Tang L, Wang J, Zheng Y, Gu G, Zhu L, Zhu X (2017) Design of a cable-driven hyper-redundant robot with experimental validation. International Journal of Advanced Robotic Systems 14(5):172988141773445. https://doi.org/10.1177/172988141773445 -- [10.1177/1729881417734458](https://doi.org/10.1177/1729881417734458)
 - Tang J, Zhang Y, Huang F, Li J, Chen Z, Song W, Zhu S, Gu J (2019) Design and Kinematic Control of the Cable-Driven Hyper-Redundant Manipulator for Potential Underwater Applications. Applied Sciences 9(6):1142. https://doi.org/10.3390/app906114 -- [10.3390/app9061142](https://doi.org/10.3390/app9061142)

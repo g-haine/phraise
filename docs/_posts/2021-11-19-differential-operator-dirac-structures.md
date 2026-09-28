@@ -66,6 +66,7 @@ Dirac structures; boundary control systems; two-variable polynomial matrices; fa
 - van der Schaft, Dirac and Lagrange algebraic constraints in nonlinear port-Hamiltonian systems, Vietnam J. of Mathematics (2020)
 - [van der Schaft, A. J. & Polyuga, R. V. Structure-preserving model reduction of complex physical systems. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 4322–4327 (2009) doi:10.1109/cdc.2009.5399669](structure-preserving-model-reduction-of-complex-physical-systems) -- [10.1109/cdc.2009.5399669](https://doi.org/10.1109/cdc.2009.5399669)
 - [van der Schaft, A. & Rapisarda, P. State Maps from Integration by Parts. SIAM J. Control Optim. 49, 2415–2439 (2011)](state-maps-from-integration-by-parts) -- [10.1137/100806825](https://doi.org/10.1137/100806825)
+- A.J. van der Schaft, P. Rapisarda, From integration by parts to state and boundary variables of linear differential and partial differential systems, pp. 437–448 in Mathematical System Theory, Festschrift in Honor of Uwe Helmke, K. Hüper and J. Trumpf (eds.), 2013.
 - Trentelman, H. L. & Rapisarda, P. New Algorithms for Polynomial J-Spectral Factorization. Math. Control Signals Systems 12, 24–61 (1999) -- [10.1007/pl00009844](https://doi.org/10.1007/pl00009844)
 - Willems, J. C. & Trentelman, H. L. On Quadratic Differential Forms. SIAM J. Control Optim. 36, 1703–1749 (1998) -- [10.1137/s0363012996303062](https://doi.org/10.1137/s0363012996303062)
 

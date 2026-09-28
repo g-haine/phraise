@@ -51,9 +51,9 @@ Chemical reaction networks; Port-Hamiltonian systems; Network dynamics; Irrevers
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-hamiltonian-modeling-of-non-isothermal-chemical-reaction-networks.bib)
  
 ## References
-- N Balabanian. N. Balabanian, T.A. Bickart, Linear Network Theory: Analysis, Properties, Design and Synthesis (Matrix Pub, York, 1981) (1981)
+- N. Balabanian, T.A. Bickart, Linear Network Theory: Analysis, Properties, Design and Synthesis (Matrix Pub, York, 1981)
 - Bollobás, B. Modern Graph Theory. Graduate Texts in Mathematics (Springer New York, 1998). doi:10.1007/978-1-4612-0619-4 -- [10.1007/978-1-4612-0619-4](https://doi.org/10.1007/978-1-4612-0619-4)
-- H Callen. H. Callen, Thermodynamics (Wiley, New York, 1960) (1960)
+- H. Callen, Thermodynamics (Wiley, New York, 1960)
 - Couenne, F., Jallut, C., Maschke, B., Breedveld, P. C. & Tayakout, M. Bond graph modelling for chemical reactors. Mathematical and Computer Modelling of Dynamical Systems vol. 12 159–174 (2006) -- [10.1080/13873950500068823](https://doi.org/10.1080/13873950500068823)
 - [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
 - Favache, A., Dochain, D. & Maschke, B. An entropy-based formulation of irreversible processes based on contact structures. Chemical Engineering Science vol. 65 5204–5216 (2010) -- [10.1016/j.ces.2010.06.019](https://doi.org/10.1016/j.ces.2010.06.019)
@@ -81,10 +81,10 @@ Chemical reaction networks; Port-Hamiltonian systems; Network dynamics; Irrevers
 - Rao, S., van der Schaft, A. & Jayawardhana, B. A graph-theoretical approach for the analysis and model reduction of complex-balanced chemical reaction networks. Journal of Mathematical Chemistry vol. 51 2401–2422 (2013) -- [10.1007/s10910-013-0218-8](https://doi.org/10.1007/s10910-013-0218-8)
 - Rao, S., der Schaft, A. van, Eunen, K. van, Bakker, B. M. & Jayawardhana, B. A model reduction method for biochemical reaction networks. BMC Systems Biology vol. 8 (2014) -- [10.1186/1752-0509-8-52](https://doi.org/10.1186/1752-0509-8-52)
 - [van der Schaft, A. Port-Hamiltonian systems: an introductory survey. Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006 1339–1365 (2007) doi:10.4171/022-3/65](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
-- AJ Schaft Van der. A.J. Van der Schaft, B. Maschke, The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Übertrag. 49(5–6), 362–371 (1995) (1995)
+- A.J. Van der Schaft, B. Maschke, The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Übertrag. 49(5–6), 362–371 (1995)
 - van der Schaft, A., Rao, S. & Jayawardhana, B. On the Mathematical Structure of Balanced Chemical Reaction Networks Governed by Mass Action Kinetics. SIAM Journal on Applied Mathematics vol. 73 953–973 (2013) -- [10.1137/11085431x](https://doi.org/10.1137/11085431x)
 - [van der Schaft, A. J., Rao, S. & Jayawardhana, B. On the network thermodynamics of mass action chemical reaction networks. IFAC Proceedings Volumes vol. 46 24–29 (2013)](on-the-network-thermodynamics-of-mass-action-chemical-reaction-networks) -- [10.3182/20130714-3-fr-4040.00001](https://doi.org/10.3182/20130714-3-fr-4040.00001)
-- ON Temkin. O.N. Temkin, A.V. Zeigarnik, D.G. Bonchev, Chemical Reaction Networks: A Graph-Theoretical Approach (CRC Press, Boca Raton, 1996) (1996)
+- O.N. Temkin, A.V. Zeigarnik, D.G. Bonchev, Chemical Reaction Networks: A Graph-Theoretical Approach (CRC Press, Boca Raton, 1996)
 - Varma, A. & Palsson, B. O. Metabolic Flux Balancing: Basic Concepts, Scientific and Practical Use. Bio/Technology vol. 12 994–998 (1994) -- [10.1038/nbt1094-994](https://doi.org/10.1038/nbt1094-994)
 - [Wang, L., Maschke, B. & van der Schaft, A. Irreversible port-Hamiltonian Approach to Modeling and Analyzing of Non-isothermal Chemical Reaction Networks. IFAC-PapersOnLine vol. 49 134–139 (2016)](irreversible-port-hamiltonian-approach-to-modeling-and-analyzing-of-non-isothermal-chemical-reaction-networks) -- [10.1016/j.ifacol.2016.12.115](https://doi.org/10.1016/j.ifacol.2016.12.115)
 

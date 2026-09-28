@@ -45,7 +45,9 @@ A port-controlled Hamiltonian (PCH) control approach is presented to solve the p
 - Djoudi, A., Bacha, S., Iman-Eini, H. & Rekioua, T. Sliding mode control of DFIG powers in the case of unknown flux and rotor currents with reduced switching frequency. International Journal of Electrical Power &amp; Energy Systems 96, 347–356 (2018) -- [10.1016/j.ijepes.2017.10.009](https://doi.org/10.1016/j.ijepes.2017.10.009)
 - Wai, R.-J., Huang, Y.-C., Yang, Z.-W. & Shih, C.-Y. Adaptive fuzzy-neural-network velocity sensorless control for robot manipulator position tracking. IET Control Theory Appl. 4, 1079–1093 (2010) -- [10.1049/iet-cta.2009.0166](https://doi.org/10.1049/iet-cta.2009.0166)
 - Yu, L., Fei, S., Huang, J. & Gao, Y. Trajectory Switching Control of Robotic Manipulators Based on RBF Neural Networks. Circuits Syst Signal Process 33, 1119–1133 (2013) -- [10.1007/s00034-013-9682-4](https://doi.org/10.1007/s00034-013-9682-4)
-- yu, Energy-shaping and $L_{2}$ gain disturbance attenuation control of induction motor. Int J Innov Comput Inf Control (2012)
+- yu, Energy-shaping and 
+$L_{2}$
+ gain disturbance attenuation control of induction motor. Int J Innov Comput Inf Control (2012)
 - [Yu, H., Yu, J., Liu, J. & Song, Q. Nonlinear control of induction motors based on state error PCH and energy-shaping principle. Nonlinear Dyn 72, 49–59 (2012)](nonlinear-control-of-induction-motors-based-on-state-error-pch-and-energy-shaping-principle) -- [10.1007/s11071-012-0689-3](https://doi.org/10.1007/s11071-012-0689-3)
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Trans. Automat. Contr. 47, 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - [Chi, J., Yu, H. & Yu, J. Hybrid Tracking Control of 2-DOF SCARA Robot via Port-Controlled Hamiltonian and Backstepping. IEEE Access 6, 17354–17360 (2018)](hybrid-tracking-control-of-2-dof-scara-robot-via-port-controlled-hamiltonian-and-backstepping) -- [10.1109/access.2018.2820681](https://doi.org/10.1109/access.2018.2820681)

@@ -53,6 +53,7 @@ Port-Hamiltonian systems; Passivity-based control; Model order reduction; Shape 
 - [Bansal, H., Zwart, H., Iapichino, L., Schilders, W. & van de Wouw, N. Port-Hamiltonian modelling of fluid dynamics models with variable cross-section. IFAC-PapersOnLine vol. 54 365–372 (2021)](port-hamiltonian-modelling-of-fluid-dynamics-models-with-variable-cross-section) -- [10.1016/j.ifacol.2021.06.095](https://doi.org/10.1016/j.ifacol.2021.06.095)
 - Boyd, (2004)
 - [Brugnoli, A., Alazard, D., Pommier-Budinger, V. & Matignon, D. Port-Hamiltonian formulation and symplectic discretization of plate models Part I: Mindlin model for thick plates. Applied Mathematical Modelling vol. 75 940–960 (2019)](port-hamiltonian-formulation-and-symplectic-discretization-of-plate-models-part-i-mindlin-model-for-thick-plates) -- [10.1016/j.apm.2019.04.035](https://doi.org/10.1016/j.apm.2019.04.035)
+- Clough, Ray, & Penzien, Joseph (2003). Dynamics of structures. Berkeley.
 - Duindam, (2009)
 - Dupont, P. E., Simaan, N., Choset, H. & Rucker, C. Continuum Robots for Medical Interventions. Proceedings of the IEEE vol. 110 847–870 (2022) -- [10.1109/jproc.2022.3141338](https://doi.org/10.1109/jproc.2022.3141338)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
