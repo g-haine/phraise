@@ -42,5 +42,8 @@ This paper deals with a port‐Hamiltonian (pH) formulation of the non‐isother
 [Download the bib file]({{ site.baseurl }}/assets/bib/extended-group-finite-element-method-for-a-port-hamiltonian-formulation-of-the-non-isothermal-euler-equations.bib)
  
 ## References
+- V. Mehrmann and R. Morandin 2019 IEEE 58th Conference on Decision and Control (CDC) (2019).
+- B. Liljegren-Sailer and N. Marheineke arXiv:2009.11216 (2020).
 - [Hauschild, S.-A. & Marheineke, N. Structure‐preserving discretization of a port‐Hamiltonian formulation of the non‐isothermal Euler equations. Proc Appl Math and Mech 20, (2021)](structure-preserving-discretization-of-a-port-hamiltonian-formulation-of-the-non-isothermal-euler-equations) -- [10.1002/pamm.202000014](https://doi.org/10.1002/pamm.202000014)
+- K. Tolle and N. Marheineke Appl. Num. Math. (2021).
 

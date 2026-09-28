@@ -42,6 +42,7 @@ Port‐Hamiltonian neural networks can be used to capture the interactions betwe
 [Download the bib file]({{ site.baseurl }}/assets/bib/interconnection-of-port-hamiltonian-systems-with-port-hamiltonian-neural-networks.bib)
  
 ## References
+- Neary C. &Topcu U.(2023).Compositional learning of dynamical system models using port‐Hamiltonian neural networks.Proceedings of The 5th Annual Learning for Dynamics and Control Conference.PMLR (211) 679–691.
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - [Moser, T., Durmann, J., Bonauer, M. & Lohmann, B. MORpH: Model reduction of linear port-Hamiltonian systems in MATLAB. at - Automatisierungstechnik 71, 476–489 (2023)](morph-model-reduction-of-linear-port-hamiltonian-systems-in-matlab) -- [10.1515/auto-2022-0119](https://doi.org/10.1515/auto-2022-0119)
 - [Mehrmann, V. & Unger, B. Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica 32, 395–515 (2023)](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)

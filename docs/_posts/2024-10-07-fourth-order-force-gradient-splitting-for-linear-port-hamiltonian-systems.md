@@ -44,12 +44,15 @@ The port‐Hamiltonian (pH) approach offers a modeling of dynamic systems with a
 ## References
 - Arnal, A., Casas, F. & Chiralt, C. A Note on the Baker–Campbell–Hausdorff Series in Terms of Right-Nested Commutators. Mediterr. J. Math. 18, (2021) -- [10.1007/s00009-020-01681-6](https://doi.org/10.1007/s00009-020-01681-6)
 - Blanes, S. & Casas, F. On the necessity of negative coefficients for operator splitting schemes of order higher than two. Applied Numerical Mathematics 54, 23–37 (2005) -- [10.1016/j.apnum.2004.10.005](https://doi.org/10.1016/j.apnum.2004.10.005)
+- Blanes S. Casas F. &Murua A.(2008).Splitting and composition methods in the numerical integration of differential equations.arXiv preprint arXiv:0812.0377.
 - Blanes, S., Diele, F., Marangi, C. & Ragni, S. Splitting and composition methods for explicit time dependence in separable dynamical systems. Journal of Computational and Applied Mathematics 235, 646–659 (2010) -- [10.1016/j.cam.2010.06.018](https://doi.org/10.1016/j.cam.2010.06.018)
+- Celledoni E. &Høiseth E. H.(2017).Energy‐preserving and passivity‐consistent numerical discretization of port‐Hamiltonian systems.arXiv preprint arXiv:1706.08621.
 - Celledoni, E., Høiseth, E. H. & Ramzina, N. Passivity-preserving splitting methods for rigid body systems. Multibody Syst Dyn 44, 251–275 (2018) -- [10.1007/s11044-018-9628-5](https://doi.org/10.1007/s11044-018-9628-5)
 - Chin, S. A. Symplectic integrators from composite operator factorizations. Physics Letters A 226, 344–348 (1997) -- [10.1016/s0375-9601(97)00003-0](https://doi.org/10.1016/s0375-9601(97)00003-0)
 - Chin, S. A. Structure of positive decompositions of exponential operators. Phys. Rev. E 71, (2005) -- [10.1103/physreve.71.016703](https://doi.org/10.1103/physreve.71.016703)
 - Chin, S. A. & Chen, C. R. Forward Symplectic Integrators for Solving Gravitational Few-Body Problems. Celestial Mech Dyn Astr 91, 301–322 (2005) -- [10.1007/s10569-004-4622-z](https://doi.org/10.1007/s10569-004-4622-z)
 - Chin, S. A. & Chen, C. R. Fourth order gradient symplectic integrator methods for solving the time-dependent Schrödinger equation. The Journal of Chemical Physics 114, 7338–7341 (2001) -- [10.1063/1.1362288](https://doi.org/10.1063/1.1362288)
+- Frommer A. Günther M. Liljegren‐Sailer B. &Marheineke N.(2023).Operator splitting for port‐Hamiltonian systems.arXiv preprint arXiv:2304.01766.
 - Hairer, E., Wanner, G. & Lubich, C. Numerical Integrators. Springer Series in Computational Mathematics 27–50 doi:10.1007/3-540-30666-8_2 -- [10.1007/3-540-30666-8_2](https://doi.org/10.1007/3-540-30666-8_2)
 - Kieri, E. Stiff convergence of force-gradient operator splitting methods. Applied Numerical Mathematics 94, 33–45 (2015) -- [10.1016/j.apnum.2015.03.005](https://doi.org/10.1016/j.apnum.2015.03.005)
 - McLachlan, R. I. & Quispel, G. R. W. Splitting methods. Acta Numerica 11, 341–434 (2002) -- [10.1017/s0962492902000053](https://doi.org/10.1017/s0962492902000053)

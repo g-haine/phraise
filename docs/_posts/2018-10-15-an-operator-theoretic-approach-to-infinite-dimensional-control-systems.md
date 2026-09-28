@@ -64,6 +64,8 @@ In this survey we use an operator theoretic approach to infinite‐dimensional s
 - O. Staffans, Encyclopedia of Mathematics and its Applications (2005)
 - M. Tucsnak, Birkhäuser Advanced Texts: Basler Lehrbücher. [Birkhäuser Advanced Texts: Basel Textbooks] (2009)
 - Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
+- B. Augner Ph.D. thesis University of Wuppertal 2016.
+- J. Villegas Ph.D. thesis Universiteit Twente in Enschede 2007.
 - H. Zwart, Mathematical Control Theory I. IFAC‐PapersOnLine (2016)
 - [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - [Ramirez, H., Zwart, H. & Le Gorrec, Y. Stabilization of infinite dimensional port-Hamiltonian systems by nonlinear dynamic boundary control. Automatica vol. 85 61–69 (2017)](stabilization-of-infinite-dimensional-port-hamiltonian-systems-by-nonlinear-dynamic-boundary-control) -- [10.1016/j.automatica.2017.07.045](https://doi.org/10.1016/j.automatica.2017.07.045)

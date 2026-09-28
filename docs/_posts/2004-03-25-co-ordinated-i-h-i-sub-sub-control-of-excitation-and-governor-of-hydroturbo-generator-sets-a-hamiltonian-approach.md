@@ -47,8 +47,11 @@ This paper presents a co‐ordinatedH∞controller design of excitation and gove
 - Lu, Q. & Sun, Y. Z. Nonlinear stabilizing control of multimachine systems. IEEE Trans. Power Syst. 4, 236–241 (1989) -- [10.1109/59.32483](https://doi.org/10.1109/59.32483)
 - Lu, Q., Sun, Y., Xu, Z. & Mochizuki, T. Decentralized nonlinear optimal excitation control. IEEE Trans. Power Syst. 11, 1957–1962 (1996) -- [10.1109/59.544670](https://doi.org/10.1109/59.544670)
 - Lu, Q., Sun, Y. & Mei, S. Nonlinear Control Systems and Power System Dynamics. (Springer US, 2001). doi:10.1007/978-1-4757-3312-9 -- [10.1007/978-1-4757-3312-9](https://doi.org/10.1007/978-1-4757-3312-9)
+- SunY SunY LuQ ShaoY.Research on nonlinear robust control strategy for hydroturbo electric generator's valve. Proceedings of the CSEE vol. 21(2) February2001.
+- SunY SunY LuQ.Nonlinear decentralized robust governor control for hydroturbo‐generator sets of multi‐machine systems. Proceedings of WCICA Au Hui China 2000.
 - Gao, L., Chen, L., Fan, Y. & Ma, H. A nonlinear control design for power systems. Automatica 28, 975–979 (1992) -- [10.1016/0005-1098(92)90150-e](https://doi.org/10.1016/0005-1098(92)90150-e)
 - Maschke, B. M. J., Ortega, R. & van der Schaft, A. J. Energy-based Lyapunov functions for forced Hamiltonian systems with dissipation. Proceedings of the 37th IEEE Conference on Decision and Control (Cat. No.98CH36171) vol. 4 3599–3604 -- [10.1109/cdc.1998.761738](https://doi.org/10.1109/cdc.1998.761738)
+- MaschkeBMJ OrtegaR van der SchaftAJ EscobarG.An energy‐based derivation of Lyapunov functions for forced systems with application to stabilizing control. Proceedings of the 14th IFAC Beijing China 1990.
 - Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Trans. Automat. Contr. 36, 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
 - Cheng, D., Xi, Z., Lu, Q. & Mei, S. Geometric structure of generalized controlled Hamiltonian systems and its application. Sci. China Ser. E-Technol. Sci. 43, 365–379 (2000) -- [10.1007/bf02916984](https://doi.org/10.1007/bf02916984)
 - Cheng, D. & Spurgeon, S. Stabilization of Hamiltonian systems with dissipation. International Journal of Control 74, 465–473 (2001) -- [10.1080/00207170010010551](https://doi.org/10.1080/00207170010010551)
@@ -56,5 +59,6 @@ This paper presents a co‐ordinatedH∞controller design of excitation and gove
 - Sun YZ, A new Lyapunov function for transient stability analysis of controlled power systems. IEEE Power Engineering Society Winter Meeting (2000)
 - Xi, Z., Cheng, D., Lu, Q. & Mei, S. Nonlinear decentralized controller design for multimachine power systems using Hamiltonian function method. Automatica 38, 527–534 (2002) -- [10.1016/s0005-1098(01)00233-3](https://doi.org/10.1016/s0005-1098(01)00233-3)
 - Xi, Z. & Cheng, D. Passivity-based stabilization and H 8 control of the Hamiltonian control systems with dissipation and its applications to power systems. International Journal of Control 73, 1686–1691 (2000) -- [10.1080/00207170050201762](https://doi.org/10.1080/00207170050201762)
+- MaJ LuQ MeiS XiZ.Application of Hamiltonian method on exciter and governor controller design. Proceedings of 21st CCC 2002;691–695.
 - van der Schaft, A. J. L/sub 2/-gain analysis of nonlinear systems and nonlinear state-feedback H/sub infinity / control. IEEE Trans. Automat. Contr. 37, 770–784 (1992) -- [10.1109/9.256331](https://doi.org/10.1109/9.256331)
 

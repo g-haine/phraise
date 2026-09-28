@@ -42,12 +42,19 @@ In this paper we show the discrete modeling of the heat equation on an open cell
 [Download the bib file]({{ site.baseurl }}/assets/bib/numerical-approximation-of-heat-transfer-on-heterogenous-media.bib)
  
 ## References
+- V.Rosetti Catalysts for H2 production PhD Thesis Università di Bologna 2007.
+- E.BrunandJ.Vicente imorph.
 - Bonnet, J.-P., Topin, F. & Tadrist, L. Flow Laws in Metal Foams: Compressibility and Pore Size Effects. Transp Porous Med 73, 233–254 (2007) -- [10.1007/s11242-007-9169-5](https://doi.org/10.1007/s11242-007-9169-5)
 - Hugo, J. M., Brun, E., Topin, F. & Vicente, J. Conjugate Heat and Mass Transfer in Metal Foams: A Numerical Study for Heat Exchangers Design. DDF 297–301, 960–965 (2010) -- [10.4028/www.scientific.net/ddf.297-301.960](https://doi.org/10.4028/www.scientific.net/ddf.297-301.960)
 - Bodla, K. K., Murthy, J. Y. & Garimella, S. V. Resistance network-based thermal conductivity model for metal foams. Computational Materials Science 50, 622–632 (2010) -- [10.1016/j.commatsci.2010.09.026](https://doi.org/10.1016/j.commatsci.2010.09.026)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
+- E.Tonti Computer Modeling in Engineering and Sciences 2(2) 237–258 (2001).
 - Alotto, P., Freschi, F., Repetto, M. & Rosso, C. The Cell Method for Electrical Engineering and Multiphysics Problems. Lecture Notes in Electrical Engineering (Springer Berlin Heidelberg, 2013). doi:10.1007/978-3-642-36101-2 -- [10.1007/978-3-642-36101-2](https://doi.org/10.1007/978-3-642-36101-2)
 - Gerritsma, M. et al. The Geometric Basis of Numerical Methods. Lecture Notes in Computational Science and Engineering 17–35 (2013) doi:10.1007/978-3-319-01601-6_2 -- [10.1007/978-3-319-01601-6_2](https://doi.org/10.1007/978-3-319-01601-6_2)
+- M.PaniandF.Taddei Computer Modeling in Engineering and Sciences 94(4) 279–300 (2013).
 - [Kotyczka, P. & Maschke, B. Discrete port-Hamiltonian formulation and numerical approximation for systems of two conservation laws. at - Automatisierungstechnik 65, 308–322 (2017)](discrete-port-hamiltonian-formulation-and-numerical-approximation-for-systems-of-two-conservation-laws) -- [10.1515/auto-2016-0098](https://doi.org/10.1515/auto-2016-0098)
+- P.Kotyczka Structured discretization of the heat equation: Numerical properties and preservation of flatness in: 23rd International Symposium on Mathematical Theory of Networks and Systems (Hong Kong 2018) pp. 600–607.
+- H.Flanders Differential Forms with Applications to the Physical Sciences (Dover Publications Inc. 1989).
+- A. N.Hirani Discrete Exterior Calculus PhD Thesis California Institute of Technology 2003.
 - [Seslija, M., Scherpen, J. M. A. & van der Schaft, A. Explicit simplicial discretization of distributed-parameter port-Hamiltonian systems. Automatica 50, 369–377 (2014)](explicit-simplicial-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.automatica.2013.11.020](https://doi.org/10.1016/j.automatica.2013.11.020)
 

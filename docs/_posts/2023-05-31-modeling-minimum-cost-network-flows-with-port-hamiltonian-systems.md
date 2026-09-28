@@ -43,14 +43,17 @@ We give a short overview of advantages and drawbacks of the classical formulatio
  
 ## References
 - Ford, L. R. & Fulkerson, D. R. Flows in Networks. (1963) doi:10.1515/9781400875184 -- [10.1515/9781400875184](https://doi.org/10.1515/9781400875184)
+- R. K. Ahuja T. L. Magnanti and J. B. Orlin Network Flows: Theory Algorithms and Applications (Prentice-Hall 1993).
 - Cruz‐Mejía, O. & Letchford, A. N. A survey on exact algorithms for the maximum flow and minimum‐cost flow problems. Networks 82, 167–176 (2023) -- [10.1002/net.22169](https://doi.org/10.1002/net.22169)
 - Chen, L. et al. Maximum Flow and Minimum-Cost Flow in Almost-Linear Time. 2022 IEEE 63rd Annual Symposium on Foundations of Computer Science (FOCS) 612–623 (2022) doi:10.1109/focs54457.2022.00064 -- [10.1109/focs54457.2022.00064](https://doi.org/10.1109/focs54457.2022.00064)
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM J. Control Optim. 51, 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
 - Korte, B. & Vygen, J. Combinatorial Optimization. Algorithms and Combinatorics (Springer Berlin Heidelberg, 2018). doi:10.1007/978-3-662-56039-6 -- [10.1007/978-3-662-56039-6](https://doi.org/10.1007/978-3-662-56039-6)
 - Fleischer, L. & Skutella, M. Quickest Flows Over Time. SIAM J. Comput. 36, 1600–1630 (2007) -- [10.1137/s0097539703427215](https://doi.org/10.1137/s0097539703427215)
 - Pyakurel, U. & Dempe, S. Network Flow with Intermediate Storage: Models and Algorithms. SN Oper. Res. Forum 1, (2020) -- [10.1007/s43069-020-00033-0](https://doi.org/10.1007/s43069-020-00033-0)
+- B. Kotnyek An annotated overview of dynamic network flows Tech. Rep. RR-4936 INRIA September 2003.
 - Prasad Pangeni, B. & Nath Dhamala, T. A BRIEF SURVEY ON DYNAMIC NETWORK FLOWS IN CONTINUOUS-TIME MODEL. Journal of Mathematical Sciences &amp; Computational Mathematics 2, 467–477 (2021) -- [10.15864/jmscm.2401](https://doi.org/10.15864/jmscm.2401)
 - Köhler, E. & Skutella, M. Flows over Time with Load-Dependent Transit Times. SIAM J. Optim. 15, 1185–1202 (2005) -- [10.1137/s1052623403432645](https://doi.org/10.1137/s1052623403432645)
+- M. Hinze R. Pinnau and S. Ulbrich Optimization with PDE Constraints (Springer Netherlands 2009).
 - Teschl, G. Ordinary Differential Equations and Dynamical Systems. Graduate Studies in Mathematics (2012) doi:10.1090/gsm/140 -- [10.1090/gsm/140](https://doi.org/10.1090/gsm/140)
 - Tröltzsch, F. Supplementary results on partial differential equations. Graduate Studies in Mathematics 355–383 (2010) doi:10.1090/gsm/112/07 -- [10.1090/gsm/112/07](https://doi.org/10.1090/gsm/112/07)
 

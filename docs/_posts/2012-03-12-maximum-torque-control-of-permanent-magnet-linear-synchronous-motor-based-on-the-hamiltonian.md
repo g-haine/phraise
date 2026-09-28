@@ -43,6 +43,8 @@ control, hamiltonian, modeling, permanent magnet linear synchronous motor, stabi
 [Download the bib file]({{ site.baseurl }}/assets/bib/maximum-torque-control-of-permanent-magnet-linear-synchronous-motor-based-on-the-hamiltonian.bib)
  
 ## References
+- Lan Y, (2007) Study on Robust Control for Permanent Magnet Linear Motor Servo System. Shenyang University of Technology, China (in Chinese)
+- Guan L, Sun S (2009) Research on adaptive slide mode variable structure direct thrust speed control for permanent magnet linear motor. Trans Shenyang Ligong Univ (02):45–47 (in Chinese)
 - X Zhu, Min Process Equip (2006)
 - Yuzhen Wang, Daizhan Cheng, Chunwen Li & You Ge. Dissipative hamiltonian realization and energy-based L/sub 2/-disturbance attenuation control of multimachine power systems. IEEE Trans. Automat. Contr. 48, 1428–1433 (2003) -- [10.1109/tac.2003.815037](https://doi.org/10.1109/tac.2003.815037)
 - H Yu, Electr Mach Control (2006)

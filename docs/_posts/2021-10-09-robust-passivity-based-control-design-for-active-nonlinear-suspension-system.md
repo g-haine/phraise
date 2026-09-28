@@ -52,6 +52,7 @@ In this article, we propose a novel interconnection and damping assignment passi
 - Mulla A, Performance analysis of skyhook, groundhook and hybrid control strategies on semiactive suspension system. Int J Current Eng Technol (2014)
 - Ahmadian, M., Song, X. & Southward, S. C. No-Jerk Skyhook Control Methods for Semiactive Suspensions. Journal of Vibration and Acoustics vol. 126 580–584 (2004) -- [10.1115/1.1805001](https://doi.org/10.1115/1.1805001)
 - BESINGER, F. H., CEBON, D. & COLE, D. J. Force Control of a Semi-Active Damper. Vehicle System Dynamics vol. 24 695–723 (1995) -- [10.1080/00423119508969115](https://doi.org/10.1080/00423119508969115)
+- NovakM ValasekM.A new concept of semi‐active control of trucks suspension. Proceedings of AVEC 96 International Symposium on Advanced Vehicle Control; 1996:141‐151.
 - Hewit, J. R. & Burdess, J. S. Fast dynamic decoupled control for robotics, using active force control. Mechanism and Machine Theory vol. 16 535–542 (1981) -- [10.1016/0094-114x(81)90025-2](https://doi.org/10.1016/0094-114x(81)90025-2)
 - Hewit, J. R. & Bouazza-Marouf, K. Practical control enhancement via mechatronics design. IEEE Transactions on Industrial Electronics vol. 43 16–22 (1996) -- [10.1109/41.481403](https://doi.org/10.1109/41.481403)
 - Ulsoy, A. G., Hrovat, D. & Tseng, T. Stability Robustness of LQ and LQG Active Suspensions. Journal of Dynamic Systems, Measurement, and Control vol. 116 123–131 (1994) -- [10.1115/1.2900666](https://doi.org/10.1115/1.2900666)

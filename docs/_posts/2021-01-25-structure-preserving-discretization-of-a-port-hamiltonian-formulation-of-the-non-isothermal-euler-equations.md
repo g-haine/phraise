@@ -44,4 +44,5 @@ The port‐Hamiltonian (pH) formulation of partial‐differential equations (pde
 ## References
 - [Liljegren-Sailer, B. & Marheineke, N. Structure‐preserving Galerkin approximation for a class of nonlinear port‐Hamiltonian partial differential equations on networks. Proc Appl Math and Mech 19, (2019)](structure-preserving-galerkin-approximation-for-a-class-of-nonlinear-port-hamiltonian-partial-differential-equations-on-networks) -- [10.1002/pamm.201900399](https://doi.org/10.1002/pamm.201900399)
 - [Egger, H., Kugler, T., Liljegren-Sailer, B., Marheineke, N. & Mehrmann, V. On Structure-Preserving Model Reduction for Damped Wave Propagation in Transport Networks. SIAM J. Sci. Comput. 40, A331–A365 (2018)](on-structure-preserving-model-reduction-for-damped-wave-propagation-in-transport-networks) -- [10.1137/17m1125303](https://doi.org/10.1137/17m1125303)
+- S.Hauschild N.Marheineke V.Mehrmann J.Mohring A.Moses Badlyan M.Rein andM.Schmidt Preprint arXiv:1908.11226 accepted for Progress in Differential-Algebraic Equations II (2020).
 

@@ -55,6 +55,7 @@ nonlinear control, symplectic geometry, thermodynamic systems
 - R Hermann, Geometry, Physics and Systems (1973)
 - Keenan JH (1951) Availability and irreversibility in thermodynamics. Br J Appl Phys 2(7):183–192. https://doi.org/10.1088/0508-3443/2/7/30 -- [10.1088/0508-3443/2/7/302](https://doi.org/10.1088/0508-3443/2/7/302)
 - Libermann P, Marle C-M (1987) Symplectic Geometry and Analytical Mechanics. Springer Netherland -- [10.1007/978-94-009-3807-6](https://doi.org/10.1007/978-94-009-3807-6)
+- Maschke, B., van der Schaft, A.: Port-controlled Hamiltonian systems: modelling origins and system theoretic properties. In: Proceedings 2nd IFAC Symposium on Nonlinear Control Systems (NOLCOS92), Fliess, M. (Ed.) pp. 282–288. Bordeaux, France (1992)
 - Maschke B, van der Schaft A (2018) Homogeneous Hamiltonian Control Systems Part II: Application to thermodynamic systems. IFAC-PapersOnLine 51(3):7–12. https://doi.org/10.1016/j.ifacol.2018.06.00 -- [10.1016/j.ifacol.2018.06.002](https://doi.org/10.1016/j.ifacol.2018.06.002)
 - [Merker J, Krüger M (2012) On a variational principle in thermodynamics. Continuum Mech Thermodyn 25(6):779–793. https://doi.org/10.1007/s00161-012-0277-](on-a-variational-principle-in-thermodynamics) -- [10.1007/s00161-012-0277-2](https://doi.org/10.1007/s00161-012-0277-2)
 - MrugaŁa R (1978) Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics 14(3):419–427. https://doi.org/10.1016/0034-4877(78)90010- -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)

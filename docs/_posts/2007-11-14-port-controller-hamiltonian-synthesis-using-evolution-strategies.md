@@ -46,8 +46,10 @@ Evolution Strategy; Attraction Basin; Evolution Strategy; Exogenous Parameter; L
  
 ## References
 - H.-P. Schwefel, Advances in Artificial Life. Third International Conference on Artificial Life (1995)
+- Fiacco A.V., McCormick, G.P. (1968), Nonlinear Programming: Sequential Unconstrained Minimization Techniques. John Wiley and Sons, Inc.
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - R. Ortega, Proceedings of Lagrangian and Hamiltonian Methods for Nonlinear Control (2000)
+- Liu P., Zinober A.S.I (1994), Recursive Interlacing Regulation of Flat and Non-Flat Systems. School of Mathematics and Statistics, University of Sheffield.
 - Hauser, J., Sastry, S. & Kokotovic, P. Nonlinear control via approximate input-output linearization: the ball and beam example. IEEE Trans. Automat. Contr. 37, 392–398 (1992) -- [10.1109/9.119645](https://doi.org/10.1109/9.119645)
 - A.J. Schaft van der, L 2 Gain and Passivity Techniques in Nonlinear Control (1996)
 - Back, T., Hammel, U. & Schwefel, H.-P. Evolutionary computation: comments on the history and current state. IEEE Trans. Evol. Computat. 1, 3–17 (1997) -- [10.1109/4235.585888](https://doi.org/10.1109/4235.585888)

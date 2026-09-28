@@ -62,13 +62,16 @@ In this article we consider the general problem of how to properly endow a stoch
 - [Satoh, S. & Fujimoto, K. Stabilization of Time-varying Stochastic Port-Hamiltonian Systems Based on Stochastic Passivity. IFAC Proceedings Volumes vol. 43 611–616 (2010)](stabilization-of-time-varying-stochastic-port-hamiltonian-systems-based-on-stochastic-passivity) -- [10.3182/20100901-3-it-2016.00057](https://doi.org/10.3182/20100901-3-it-2016.00057)
 - Oksendal B, Stochastic Differential Equations: An Introduction with Applications (2013)
 - Khalil HK, Nonlinear Systems (2002)
+- FangZ GaoC.Stochastic weak passivity based stabilization of stochastic systems with nonvanishing noise; 2016. arXiv preprint arXiv:1602.07406.
 - Da Prato, G. & Zabczyk, J. Ergodicity for Infinite Dimensional Systems. (1996) doi:10.1017/cbo9780511662829 -- [10.1017/cbo9780511662829](https://doi.org/10.1017/cbo9780511662829)
 - Reiß, M., Riedle, M. & van Gaans, O. Delay differential equations driven by Lévy processes: Stationarity and Feller properties. Stochastic Processes and their Applications vol. 116 1409–1432 (2006) -- [10.1016/j.spa.2006.03.002](https://doi.org/10.1016/j.spa.2006.03.002)
 - Bachmann, S. On the strong Feller property for stochastic delay differential equations with singular drift. Stochastic Processes and their Applications vol. 130 4563–4592 (2020) -- [10.1016/j.spa.2020.01.008](https://doi.org/10.1016/j.spa.2020.01.008)
+- BachmannS.On the strong feller property and well‐posedness for SDEs with functional locally unbounded drift; 2018. arXiv preprint arXiv:1808.05629.
 - Wang, F.-Y. & Yuan, C. Harnack inequalities for functional SDEs with multiplicative noise and applications. Stochastic Processes and their Applications vol. 121 2692–2710 (2011) -- [10.1016/j.spa.2011.07.001](https://doi.org/10.1016/j.spa.2011.07.001)
 - Maslowski, B. & Seidler, J. Probabilistic approach to the strong Feller property. Probability Theory and Related Fields vol. 118 187–210 (2000) -- [10.1007/s440-000-8014-0](https://doi.org/10.1007/s440-000-8014-0)
 - Ivanov AF, Theory, stochastic stability and applications of stochastic delay differential equations: a survey of results. Differ Equat Dyn Syst (2003)
 - Minelli, M., Ferraguti, F., Piccinelli, N., Muradore, R. & Secchi, C. An energy-shared two-layer approach for multi-master-multi-slave bilateral teleoperation systems. 2019 International Conference on Robotics and Automation (ICRA) (2019) doi:10.1109/icra.2019.8794335 -- [10.1109/icra.2019.8794335](https://doi.org/10.1109/icra.2019.8794335)
+- CordoniF Di PersioL MuradoreR.Stochastic port–Hamiltonian systems; 2019. arXiv preprint arXiv:1910.01901.
 - Robuffo Giordano, P., Franchi, A., Secchi, C. & Bülthoff, H. H. A passivity-based decentralized strategy for generalized connectivity maintenance. The International Journal of Robotics Research vol. 32 299–323 (2013) -- [10.1177/0278364912469671](https://doi.org/10.1177/0278364912469671)
 - Hsu, E. Stochastic Analysis on Manifolds. Graduate Studies in Mathematics (2002) doi:10.1090/gsm/038 -- [10.1090/gsm/038](https://doi.org/10.1090/gsm/038)
 - Wong, E. & Zakai, M. On the Convergence of Ordinary Integrals to Stochastic Integrals. The Annals of Mathematical Statistics vol. 36 1560–1564 (1965) -- [10.1214/aoms/1177699916](https://doi.org/10.1214/aoms/1177699916)
@@ -91,6 +94,8 @@ In this article we consider the general problem of how to properly endow a stoch
 - Stratonovich, R. L. A New Representation for Stochastic Integrals and Equations. SIAM Journal on Control vol. 4 362–371 (1966) -- [10.1137/0304028](https://doi.org/10.1137/0304028)
 - Stroock, D. W. & Varadhan, S. R. S. On the Support of Diffusion Processes with Applications to the Strong Maximum Principle. Contributions to Probability Theory 333–360 (1972) doi:10.1525/9780520375918-020 -- [10.1525/9780520375918-020](https://doi.org/10.1525/9780520375918-020)
 - Eugene, W. & Moshe, Z. On the relation between ordinary and stochastic differential equations. International Journal of Engineering Science vol. 3 213–229 (1965) -- [10.1016/0020-7225(65)90045-5](https://doi.org/10.1016/0020-7225(65)90045-5)
+- ArmstrongJ BrigoD.Optimal approximation of SDEs on submanifolds: the Ito‐vector and Ito‐jet projections; 2016. arXiv preprint arXiv:1610.03887.
+- ArmstrongJ BrigoD.Coordinate‐free stochastic differential equations as jets; 2016. arXiv preprint arXiv:1602.03931.
 - Smythe, J., Moss, F., McClintock, P. V. E. & Clarkson, D. Ito versus stratonovich revisited. Physics Letters A vol. 97 95–98 (1983) -- [10.1016/0375-9601(83)90520-0](https://doi.org/10.1016/0375-9601(83)90520-0)
 - van Kampen, N. G. Itô versus Stratonovich. Journal of Statistical Physics vol. 24 175–187 (1981) -- [10.1007/bf01007642](https://doi.org/10.1007/bf01007642)
 

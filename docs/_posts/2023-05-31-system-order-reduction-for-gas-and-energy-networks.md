@@ -44,6 +44,8 @@ No matter if natural gas, biogas or hydrogen, gas transport needs to be simulate
 ## References
 - Ascher, U. M., Ruuth, S. J. & Wetton, B. T. R. Implicit-Explicit Methods for Time-Dependent Partial Differential Equations. SIAM J. Numer. Anal. 32, 797–823 (1995) -- [10.1137/0732037](https://doi.org/10.1137/0732037)
 - Himpe, C. Comparing (Empirical-Gramian-Based) Model Order Reduction Algorithms. International Series of Numerical Mathematics 141–164 (2021) doi:10.1007/978-3-030-72983-7_7 -- [10.1007/978-3-030-72983-7_7](https://doi.org/10.1007/978-3-030-72983-7_7)
+- C. Himpe. emgr – EMpirical GRamian framework (version 5.99).https://gramian.de 2022. doi:https://doi.org/10.5281/zenodo.6457616.
+- C. Himpe. emgr – EMpirical GRamian framework version 5.99. e-print 2209.03833 arXiv 2022. URL:https://arxiv.org/abs/2209.03833.
 - Himpe, C., Grundel, S. & Benner, P. Model order reduction for gas and energy networks. J.Math.Industry 11, (2021) -- [10.1186/s13362-021-00109-4](https://doi.org/10.1186/s13362-021-00109-4)
 - Himpe, C., Grundel, S. & Benner, P. Next-Gen Gas Network Simulation. Mathematics in Industry 107–113 (2022) doi:10.1007/978-3-031-11818-0_15 -- [10.1007/978-3-031-11818-0_15](https://doi.org/10.1007/978-3-031-11818-0_15)
 - Jin, L. & Wojtanowicz, A. K. Optimization of Large Gas Pipeline Network in China - a Feasibility Study. Canadian International Petroleum Conference (2008) doi:10.2118/2008-174 -- [10.2118/2008-174](https://doi.org/10.2118/2008-174)

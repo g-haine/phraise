@@ -44,6 +44,7 @@ Physical modeling; Grey box model; DAE
 [Download the bib file]({{ site.baseurl }}/assets/bib/modeling-of-dynamic-systems-from-first-principles00.bib)
  
 ## References
+- Brenan KE, Campbell SL, Petzold LR (1987) Numerical solution of initial-value problems in differential-algebraic equations. Classics in applied mathematics (Book 14). SIAM
 - S Campbell, Applications of differential-algebraic equations (2019)
 - Modeling and control of complex physical systems: the port-Hamiltonian approach (2009)
 - Fritzson, P. Principles of Object Oriented Modeling and Simulation with Modelica 3.3. (2014) doi:10.1002/9781118989166 -- [10.1002/9781118989166](https://doi.org/10.1002/9781118989166)
@@ -51,6 +52,7 @@ Physical modeling; Grey box model; DAE
 - Kunkel, P. & Mehrmann, V. Differential-Algebraic Equations. EMS Textbooks in Mathematics (2006) doi:10.4171/017 -- [10.4171/017](https://doi.org/10.4171/017)
 - Ljung, L. & Glad, T. On global identifiability for arbitrary model parametrizations. Automatica 30, 265–276 (1994) -- [10.1016/0005-1098(94)90029-9](https://doi.org/10.1016/0005-1098(94)90029-9)
 - L Ljung, Modeling and identification of dynamic systems (2016)
+- MathWorks T (2019) Simscape. The MathWorks. https://se.mathworks.com/products/simscape.html
 - Ritt, J. Differential Algebra. Colloquium Publications (1950) doi:10.1090/coll/033 -- [10.1090/coll/033](https://doi.org/10.1090/coll/033)
 - RC Rosenberg, Introduction to physical system dynamics (1983)
 - MM Tiller, Introduction to physical modeling with Modelica (2012)

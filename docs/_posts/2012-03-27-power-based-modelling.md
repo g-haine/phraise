@@ -45,6 +45,7 @@ boost converter, damping injection, mixed potential function, switched-mode powe
 ## References
 - Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. I. Quart. Appl. Math. 22, 1–33 (1964) -- [10.1090/qam/169746](https://doi.org/10.1090/qam/169746)
 - C.A. Desoer, Basic Circuit Theory (1969)
+- Dirksz, D.A.: Robust energy- and power-based control design: Port-Hamiltonian and Brayton–Moser systems. Ph.D. thesis, University of Groningen (2011)
 - Dirksz, D. A. & Scherpen, J. M. A. Power-based control: Canonical coordinate transformations, integral and adaptive control. Automatica 48, 1045–1056 (2012) -- [10.1016/j.automatica.2012.03.003](https://doi.org/10.1016/j.automatica.2012.03.003)
 - Modeling and Control of Complex Physical Systems: The Port-Hamiltonian Approach (2009)
 - [Escobar, G., van der Schaft, A. J. & Ortega, R. A Hamiltonian viewpoint in the modeling of switching power converters. Automatica 35, 445–452 (1999)](a-hamiltonian-viewpoint-in-the-modeling-of-switching-power-converters) -- [10.1016/s0005-1098(98)00196-4](https://doi.org/10.1016/s0005-1098(98)00196-4)
