@@ -51,6 +51,7 @@ Energy-based Controller Design; Hydraulic Piston Actuator; Nonlinear Control; Po
 [Download the bib file]({{ site.baseurl }}/assets/bib/new-energy-based-nonlinear-controller-for-hydraulic-piston-actuators.bib)
  
 ## References
+- AMESim. User Manual. Imagine Ver. 4.0. Roanne, 2002.
 - Bindel, Flatness based control of a two valve hydraulical joint actuator of a large manipulator. (1999)
 - Blackburn, (1960)
 - Bobrow, J. E. & Lum, K. Adaptive, High Bandwidth Control of a Hydraulic Actuator. Journal of Dynamic Systems, Measurement, and Control vol. 118 714–720 (1996) -- [10.1115/1.2802347](https://doi.org/10.1115/1.2802347)

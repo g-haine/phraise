@@ -43,6 +43,7 @@ Since the 1970s, contact geometry has been recognized as an appropriate framewor
 [Download the bib file]({{ site.baseurl }}/assets/bib/geometry-of-thermodynamic-processes.bib)
  
 ## References
+- Hermann, R. (1973). Geometry, Physics and Systems, Marcel Dekker.
 - MrugaŁa, R. Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics vol. 14 419–427 (1978) -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)
 - On equivalence of two metrics in classical thermodynamics. Physica (1984)
 - Mrugała, R. Submanifolds in the thermodynamic phase space. Reports on Mathematical Physics vol. 21 197–203 (1985) -- [10.1016/0034-4877(85)90059-x](https://doi.org/10.1016/0034-4877(85)90059-x)
@@ -72,15 +73,20 @@ Since the 1970s, contact geometry has been recognized as an appropriate framewor
 - [Maschke, B. M. & van der Schaft, A. J. Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes vol. 25 359–365 (1992)](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties) -- [10.1016/s1474-6670(17)52308-3](https://doi.org/10.1016/s1474-6670(17)52308-3)
 - Maschke, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Callen, H. (1960). Thermodynamics, Wiley.
 - Tisza, L. The thermodynamics of phase equilibrium. Annals of Physics vol. 13 1–92 (1961) -- [10.1016/0003-4916(61)90027-6](https://doi.org/10.1016/0003-4916(61)90027-6)
+- Abraham, R.A., and Marsden, J.E. (1978). Foundations of Mechanics, Benjamin/Cummings. [2nd ed.].
+- Yano, K., and Ishihara, S. (1973). Tangent and Cotangent Bundles, Marcel Dekker.
 - Amari, S. Information Geometry and Its Applications. Applied Mathematical Sciences (Springer Japan, 2016). doi:10.1007/978-4-431-55978-8 -- [10.1007/978-4-431-55978-8](https://doi.org/10.1007/978-4-431-55978-8)
 - Bullo, F. & Lewis, A. D. Geometric Control of Mechanical Systems. Texts in Applied Mathematics (Springer New York, 2005). doi:10.1007/978-1-4899-7276-7 -- [10.1007/978-1-4899-7276-7](https://doi.org/10.1007/978-1-4899-7276-7)
 - Variational and Hamiltonian Control Systems. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1987). doi:10.1007/bfb0042858 -- [10.1007/bfb0042858](https://doi.org/10.1007/bfb0042858)
 - Grmela, M. Contact Geometry of Mesoscopic Thermodynamics  and Dynamics. Entropy vol. 16 1652–1686 (2014) -- [10.3390/e16031652](https://doi.org/10.3390/e16031652)
 - Morrison, P. J. A paradigm for joined Hamiltonian and dissipative systems. Physica D: Nonlinear Phenomena vol. 18 410–419 (1986) -- [10.1016/0167-2789(86)90209-5](https://doi.org/10.1016/0167-2789(86)90209-5)
+- Martin, C., and Hermann, R. (1977). Geometric Control Theory, MathSciPress. Volume 7 of Lie Groups: History, Frontiers and Applications, Control Theory and Analytical Mechanics.
 - Hamiltonian dynamics with external forces and observations. Math. Syst. Theory (1982)
 - [van der Schaft, A. J. System theory and mechanics. Lecture Notes in Control and Information Sciences 426–452 (1989) doi:10.1007/bfb0008472](system-theory-and-mechanics) -- [10.1007/bfb0008472](https://doi.org/10.1007/bfb0008472)
 - [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 - Nijmeijer, H. & van der Schaft, A. Nonlinear Dynamical Control Systems. (Springer New York, 1990). doi:10.1007/978-1-4757-2101-0 -- [10.1007/978-1-4757-2101-0](https://doi.org/10.1007/978-1-4757-2101-0)
+- Moses-Badlyan, A., Maschke, B., Beattie, C., and Mehrmann, V. (2018, January 16–20). Open physical systems: From GENERIC to port-Hamiltonian systems. Proceedings of the International Symposium on Mathematical Theory of Networks and Systems (MTNS), Hong Kong, China.
 

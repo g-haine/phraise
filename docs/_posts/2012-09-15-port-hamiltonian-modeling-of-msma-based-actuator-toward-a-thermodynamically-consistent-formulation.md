@@ -61,4 +61,5 @@ Irreversible thermodynamics; hysteresis; dissipative port Hamiltonian systems
 - (2008)
 - Pons, Ferromagnetic shape memory alloys: Alternatives to ni-mn-ga. Materials Science and Engineering A (2008)
 - Söderberg, O., Ge, Y., Sozinov, A., Hannula, S.-P. & Lindroos, V. K. Recent breakthrough development of the magnetic shape memory effect in Ni–Mn–Ga alloys. Smart Mater. Struct. 14, S223–S235 (2005) -- [10.1088/0964-1726/14/5/009](https://doi.org/10.1088/0964-1726/14/5/009)
+- [van der Schaft A (2007) Port-Hamiltonian systems: an introductory survey. In: Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006. EMS Press, pp 1339–1365](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
 

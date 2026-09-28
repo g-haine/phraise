@@ -48,6 +48,7 @@ Water-pumped storage systems have become an ideal alternative to regulate the in
 - Jain, S. V. & Patel, R. N. Investigations on pump running in turbine mode: A review of the state-of-the-art. Renewable and Sustainable Energy Reviews vol. 30 841–868 (2014) -- [10.1016/j.rser.2013.11.030](https://doi.org/10.1016/j.rser.2013.11.030)
 - Arun Shankar, V. K., Umashankar, S., Paramasivam, S. & Hanigovszki, N. A comprehensive review on energy efficiency enhancement initiatives in centrifugal pumping system. Applied Energy vol. 181 495–513 (2016) -- [10.1016/j.apenergy.2016.08.070](https://doi.org/10.1016/j.apenergy.2016.08.070)
 - Betka, A. & Moussi, A. Performance optimization of a photovoltaic induction motor pumping system. Renewable Energy vol. 29 2167–2181 (2004) -- [10.1016/j.renene.2004.03.016](https://doi.org/10.1016/j.renene.2004.03.016)
+- Goppelt, F., Hieninger, T., and Schmidt-Vollus, R. (2018, January 5–7). Modeling Centrifugal Pump Systems from a System-Theoretical Point of View. Proceedings of the 2018 18th International Conference on Mechatronics—Mechatronika (ME), Brno, Czech Republic.
 - Wang, L., Zhang, K. & Zhao, W. Nonlinear Modeling of Dynamic Characteristics of Pump-Turbine. Energies vol. 15 297 (2022) -- [10.3390/en15010297](https://doi.org/10.3390/en15010297)
 - Zhang, N. et al. Nonlinear Modeling and Stability of a Doubly-Fed Variable Speed Pumped Storage Power Station with Surge Tank Considering Nonlinear Pump Turbine Characteristics. Energies vol. 15 4131 (2022) -- [10.3390/en15114131](https://doi.org/10.3390/en15114131)
 - Guo, W. & Zhu, D. Nonlinear modeling and operation stability of variable speed pumped storage power station. Energy Science &amp; Engineering vol. 9 1703–1718 (2021) -- [10.1002/ese3.943](https://doi.org/10.1002/ese3.943)
@@ -65,5 +66,6 @@ Water-pumped storage systems have become an ideal alternative to regulate the in
 - Brogliato, Dissipative systems analysis and control. Theory Appl. (2007)
 - Scherpen, Tuning rules for passivity-based integral control for a class of mechanical systems. IEEE Control Syst. Lett. (2022)
 - Lee, R. J., Pillay, P. & Harley, R. G. D,Q reference frames for the simulation of induction motors. Electric Power Systems Research vol. 8 15–26 (1984) -- [10.1016/0378-7796(84)90030-0](https://doi.org/10.1016/0378-7796(84)90030-0)
+- Bimal, K. (2003). Modern Power Electronics and AC Drives, Prentice Hall PTR.
 - Stanley, H. C. An analysis of the induction machine. Electrical Engineering vol. 57 751–757 (1938) -- [10.1109/ee.1938.6431069](https://doi.org/10.1109/ee.1938.6431069)
 

@@ -63,6 +63,7 @@ In this paper, we consider a passivity-based approach for the design of a contro
 - Perez, T. & Steinmann, P. D. Analysis of Ship Roll Gyrostabiliser Control. IFAC Proceedings Volumes 42, 310–315 (2009) -- [10.3182/20090916-3-br-3001.0007](https://doi.org/10.3182/20090916-3-br-3001.0007)
 - Romero, J. G., Donaire, A. & Ortega, R. Robustifying energy shaping control of mechanical systems. 2012 IEEE 51st IEEE Conference on Decision and Control (CDC) 4424–4429 (2012) doi:10.1109/cdc.2012.6425923 -- [10.1109/cdc.2012.6425923](https://doi.org/10.1109/cdc.2012.6425923)
 - Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems &amp; Control Letters 62, 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
+- O. Schlick. Gyroscopic effects of flying wheels on board ships. Transactions of The Institution of Naval Architects INA, 1904.
 - Spry, S. C. & Girard, A. R. Gyroscopic stabilisation of unstable vehicles: configurations, dynamics, and control. Vehicle System Dynamics 46, 247–260 (2008) -- [10.1080/00423110801935863](https://doi.org/10.1080/00423110801935863)
 - Tee, K. P., Ge, S. S. & Tay, E. H. Barrier Lyapunov Functions for the control of output-constrained nonlinear systems. Automatica 45, 918–927 (2009) -- [10.1016/j.automatica.2008.11.017](https://doi.org/10.1016/j.automatica.2008.11.017)
 - van der Schaft, (2000)

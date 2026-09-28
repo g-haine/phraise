@@ -43,7 +43,10 @@ This paper derives a scalable reduction of an elastic continuum for boundary ene
 [Download the bib file]({{ site.baseurl }}/assets/bib/scalable-reduction-of-elastic-continuum-for-boundary-energy-control.bib)
  
 ## References
+- van der Schaft A (2000) L2 - Gain and Passivity Techniques in Nonlinear Control. Springer London, London -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- [Duindam V, Macchelli A, Stramigioli S, Bruyninckx H (2009) Modeling and Control of Complex Physical Systems. Springer Berlin Heidelberg, Berlin, Heidelberg](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - Willems, J. Terminals and Ports. IEEE Circuits and Systems Magazine vol. 10 8–26 (2010) -- [10.1109/mcas.2010.938635](https://doi.org/10.1109/mcas.2010.938635)
+- Sepulchre R, Janković M, Kokotović PV (1997) Constructive Nonlinear Control. Springer London, London -- [10.1007/978-1-4471-0967-9](https://doi.org/10.1007/978-1-4471-0967-9)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - [Schlacher, K. Mathematical modeling for nonlinear control: a Hamiltonian approach. Mathematics and Computers in Simulation vol. 79 829–849 (2008)](mathematical-modeling-for-nonlinear-control-a-hamiltonian-approach) -- [10.1016/j.matcom.2008.02.011](https://doi.org/10.1016/j.matcom.2008.02.011)
@@ -52,9 +55,19 @@ This paper derives a scalable reduction of an elastic continuum for boundary ene
 - [Pasumarthy, R., Ambati, V. R. & van der Schaft, A. J. Port-Hamiltonian discretization for open channel flows. Systems &amp; Control Letters vol. 61 950–958 (2012)](port-hamiltonian-discretization-for-open-channel-flows) -- [10.1016/j.sysconle.2012.05.003](https://doi.org/10.1016/j.sysconle.2012.05.003)
 - [Seslija, M., van der Schaft, A. & Scherpen, J. M. A. Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics vol. 62 1509–1531 (2012)](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
+- [van der Schaft AJ, Maschke BM (2013) Port-Hamiltonian Systems on Graphs. SIAM J Control Optim 51(2):906–937. https://doi.org/10.1137/110840091](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- J.M. Thijssen,
+                      Computational Physics
+                      , Cambridge University Press, Cambridge, UK, 1999.
 - Rudd, R. E. & Broughton, J. Q. Coarse-grained molecular dynamics and the atomic limit of finite elements. Physical Review B vol. 58 R5893–R5896 (1998) -- [10.1103/physrevb.58.r5893](https://doi.org/10.1103/physrevb.58.r5893)
 - Noid, W. G. et al. The multiscale coarse-graining method. I. A rigorous bridge between atomistic and coarse-grained models. The Journal of Chemical Physics vol. 128 (2008) -- [10.1063/1.2938860](https://doi.org/10.1063/1.2938860)
 - Izvekov, S. & Voth, G. A. Multiscale coarse graining of liquid-state systems. The Journal of Chemical Physics vol. 123 (2005) -- [10.1063/1.2038787](https://doi.org/10.1063/1.2038787)
+- Kadanoff LP (2000) Statistical Physics. WORLD SCIENTIFIC -- [10.1142/4016](https://doi.org/10.1142/4016)
+- McComb WD (2003) Renormalization Methods. Oxford University PressOxford -- [10.1093/oso/9780198506942.001.0001](https://doi.org/10.1093/oso/9780198506942.001.0001)
+- J. Collins,
+                      Renormalization
+                      , Cambridge University Press, Cambridge, UK, 1984.
+- Cardy J (1996) Scaling and Renormalization in Statistical Physics. Cambridge University Press -- [10.1017/cbo9781316036440](https://doi.org/10.1017/cbo9781316036440)
 - Scherpen, J. M. A. Balancing for nonlinear systems. Systems &amp; Control Letters vol. 21 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
 - Gray W.S., Systems Control Lett. (2006)
 - Fujimoto, K. & Scherpen, J. M. A. Balanced Realization and Model Order Reduction for Nonlinear Systems Based on Singular Value Analysis. SIAM Journal on Control and Optimization vol. 48 4591–4623 (2010) -- [10.1137/070695332](https://doi.org/10.1137/070695332)
@@ -67,5 +80,23 @@ This paper derives a scalable reduction of an elastic continuum for boundary ene
 - Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
 - Diagne M., Washington, DC (2011)
 - [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
+- Franco AA, Schott P, Jallut C, Maschke B (2007) A Multi‐Scale Dynamic Mechanistic Model for the Transient Analysis of PEFCs. Fuel Cells 7(2):99–117. https://doi.org/10.1002/fuce.200500204 -- [10.1002/fuce.200500204](https://doi.org/10.1002/fuce.200500204)
 - [Nishida, G., Takagi, K., Maschke, B. & Osada, T. Multi-scale distributed parameter modeling of ionic polymer-metal composite soft actuator. Control Engineering Practice vol. 19 321–334 (2011)](multi-scale-distributed-parameter-modeling-of-ionic-polymer-metal-composite-soft-actuator) -- [10.1016/j.conengprac.2010.10.005](https://doi.org/10.1016/j.conengprac.2010.10.005)
+- Olver PJ (1993) Applications of Lie Groups to Differential Equations. Springer New York, New York, NY -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
+- I. Dorfman,
+                      Dirac Structures and Integrability of Nonlinear Evolution Equations
+                      , John Wiley, Chichester, UK, 1993.
+- C. Kittel,
+                      Introduction to Solid State Physics
+                      , 8th ed., John Wiley & Sons, New York, 2005.
+- K. Huang,
+                      Statistical Mechanics
+                      , 2nd ed., John Wiley & Sons, New York, 1987.
+- T. Hahn, ed.
+                      International Tables for Crystallography
+                      , 5th revised ed., Springer-Verlag, New York, 2007.
+- Arnold VI (1989) Mathematical Methods of Classical Mechanics. Springer New York, New York, NY -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
+- I.S. Gradshteyn and I.M. Ryzhik,
+                      Table of Integrals, Series, and Products
+                      , 7th ed., Academic Press, New York, 2007.
 

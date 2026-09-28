@@ -54,7 +54,7 @@ geometrization of mechanics; port-Hamiltonian systems; and machine learning meth
 - Salnikov, V. and Hamdouni, A., Geometric integrators in mechanics: The need for computer algebra tools, Tr. Tret’ei Mezhdun. Konf. “Computer algebra” (Proc. 3rd Int. Conf. Computer Algebra), Moscow, 2019.
 - [Salnikov, V. N. & Hamdouni, A. Differential Geometry and Mechanics: A Source for Computer Algebra Problems. Programming and Computer Software vol. 46 126–132 (2020)](differential-geometry-and-mechanics-a-source-for-computer-algebra-problems) -- [10.1134/s0361768820020097](https://doi.org/10.1134/s0361768820020097)
 - [Salnikov, V., Falaize, A. & Lozienko, D. Learning port-Hamiltonian Systems—Algorithms. Computational Mathematics and Mathematical Physics vol. 63 126–134 (2023)](learning-port-hamiltonian-systems-algorithms) -- [10.1134/s0965542523010104](https://doi.org/10.1134/s0965542523010104)
-- H.M. Paynter. Paynter, H.M., Analysis and Design of Engineering Systems, MIT Press, 1961. (1961)
+- Paynter, H.M., Analysis and Design of Engineering Systems, MIT Press, 1961.
 - van der Schaft, A., Port-Hamiltonian systems: An introductory survey, Proc. Int. Congr. Math., Madrid, 2006.
 - Sage manifolds: Differential geometry and tensor calculus with SageMath. https://sagemanifolds.obspm.fr
 - Falaize, A., Modélisation, simulation, génération de code et correction de systèmes multi-physiques audios: Approche par réseau de composants et formulation hamiltonienne à ports, PhD thesis, Université Pierre et Marie Curie, 2016.

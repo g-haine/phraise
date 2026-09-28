@@ -74,5 +74,6 @@ In this study, the design of an adaptive terminal sliding mode controller for th
 - Yi, S. & Zhai, J. Adaptive second-order fast nonsingular terminal sliding mode control for robotic manipulators. ISA Transactions vol. 90 41–51 (2019) -- [10.1016/j.isatra.2018.12.046](https://doi.org/10.1016/j.isatra.2018.12.046)
 - Labbadi, M. & Cherkaoui, M. Robust adaptive backstepping fast terminal sliding mode controller for uncertain quadrotor UAV. Aerospace Science and Technology vol. 93 105306 (2019) -- [10.1016/j.ast.2019.105306](https://doi.org/10.1016/j.ast.2019.105306)
 - [Azar, A. T., Serrano, F. E., Flores, M. A., Vaidyanathan, S. & Zhu, Q. Adaptive neural-fuzzy and backstepping controller for port-Hamiltonian systems. International Journal of Computer Applications in Technology vol. 62 1 (2020)](adaptive-neural-fuzzy-and-backstepping-controller-for-port-hamiltonian-systems) -- [10.1504/ijcat.2020.103894](https://doi.org/10.1504/ijcat.2020.103894)
+- Jost, J. (2005). Dynamical Systems, Springer.
 - Haddad, W. M. & Chellaboina, V. Nonlinear Dynamical Systems and Control. (2008) doi:10.1515/9781400841042 -- [10.1515/9781400841042](https://doi.org/10.1515/9781400841042)
 

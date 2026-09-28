@@ -52,9 +52,12 @@ distributed parameter systems, flexible arms, mechanical systems, nonlinear syst
 - Arisumi, Swing motion control of casting manipulation. IEEE Control Systems (1999)
 - Ichikawa, Dynamic manipulation of a string by a robot manipulator (in japanese). Proc. of the 19th Annual Conference of Robotics Society of Japan (2001)
 - Khalil, (2002)
+- Kobayashi, S. (1995). Differential Geometry of Curves and Surfaces (in Japanese). Shokabo. Tokyo
 - Luo, (1999)
 - Michel, (1994)
+- Mochiyama, H. and T. Suzuki (2002). Geometry of planar hyper-flexible manipulator dynamics (in japanese). Proc. of the 20th Annual Conference of the Robotics Society of Japan pp. 3E34(1)-(4)
 - Mochiyama, Kinematics and dynamics of a cable-like hyperflexible manipulator. Proc. of the IEEE International Conference on Robotics and Automation (2003)
+- Mochiyama, H. and T. Suzuki (2003b). Passivity-based damping control of a hyper-flexible manipulator (in japanese). Proc. of the 8th Robotics Symposia
 - van der Schaft, (2000)
 - Wakamatsu, Planning of one-handded knotting/raveling manipulation of linear ojbects. Proc. of the IEEE International Conference on Robotics and Automation (2004)
 

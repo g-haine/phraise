@@ -57,12 +57,16 @@ Multimachine; Interaction mechanism; Interconnexion matrices; Transient oscillat
 ## References
 - Åström, (2000)
 - Geddes, E. J. M. & Postlethwaite, I. Improvements in product quality in tandem cold rolling using robust multivariable control. IEEE Trans. Contr. Syst. Technol. 6, 257–269 (1998) -- [10.1109/87.664192](https://doi.org/10.1109/87.664192)
+- Hoshino I, Okamura Y, Kimura H (2002) Observer-based multivariable tension control of aluminum hot rolling mills. In: Proceedings of 35th IEEE Conference on Decision and Control. IEEE, pp 1217–1222 -- [10.1109/cdc.1996.572659](https://doi.org/10.1109/cdc.1996.572659)
 - Inman, (1989)
 - Seok Ho Jeon, Jang-Mok Kim, Kyung-Chul Jung, Sul, S.-K. & Jin Young Choi. Decoupling control of bridle rolls for steel mill drive system. IEEE Trans. on Ind. Applicat. 35, 119–125 (1999) -- [10.1109/28.740855](https://doi.org/10.1109/28.740855)
 - Koc, H., Knittel, D., de Mathelin, M. & Abba, G. Modeling and robust control of winding systems for elastic webs. IEEE Trans. Contr. Syst. Technol. 10, 197–208 (2002) -- [10.1109/87.987065](https://doi.org/10.1109/87.987065)
 - Laroche, E., Koc, H., Knittel, D. & De Mathelin, M. Web winding system robustness analysis via μ-analysis. Proceedings of the 2001 IEEE International Conference on Control Applications (CCA’01) (Cat. No.01CH37204) 948–953 doi:10.1109/cca.2001.973992 -- [10.1109/cca.2001.973992](https://doi.org/10.1109/cca.2001.973992)
 - Macchelli, (2004)
+- Maschke, B.M. and A.J. van der Schaft (1992). Portcontrolled Hamiltonian systems: modelling origins and system theoretic properties. In: Proc. of the Second IFAC Symposium on Nonlinear Control Systems Design, NOLCOS92, 282-288.
+- [Ortega R, van der Schaft A, Maschke B, Escobar G (2003) Energy-shaping of port-controlled Hamiltonian systems by interconnection. In: Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304). IEEE, pp 1646–1651](energy-shaping-of-port-controlled-hamiltonian-systems-by-interconnection) -- [10.1109/cdc.1999.830260](https://doi.org/10.1109/cdc.1999.830260)
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Trans. Automat. Contr. 47, 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
+- Pagilla PR, Singh I, Dwivedula RV (2004) A study on control of accumulators in web processing lines. In: Proceedings of the 2003 American Control Conference, 2003. IEEE, pp 3684–3689 -- [10.1109/acc.2003.1240407](https://doi.org/10.1109/acc.2003.1240407)
 - Pagilla, P. R., Siraskar, N. B. & Dwivedula, R. V. Decentralized Control of Web Processing Lines. IEEE Trans. Contr. Syst. Technol. 15, 106–117 (2007) -- [10.1109/tcst.2006.883345](https://doi.org/10.1109/tcst.2006.883345)
 - Sepulchre, (1999)
 - Shin, (2000)

@@ -55,8 +55,11 @@ Five to ten keywords; preferably chosen from the IFAC keyword list
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Courant, Beyond Poisson structures. In Séminaire Sud-Rhodanien de Géométrie, volume 8 of. (1988)
 - [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
+- de Jager, E. (2006). On the origin of the Korteweg-de Vries equation. ArXiv:math/0602661v1.
 - [Dos Santos, V., Maschke, B. & Le Gorrec, Y. A Hamiltonian perspective to thstabilization of systems of two conservation laws. Networks &amp; Heterogeneous Media vol. 4 249–266 (2009)](a-hamiltonian-perspective-to-the-stabilization-of-systems-of-two-conservation-laws) -- [10.3934/nhm.2009.4.249](https://doi.org/10.3934/nhm.2009.4.249)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
+- Golo, G., Talasila, V., van der Schaft, A., and Maschke, B. (2004). Hamiltonian discretization of the the Teleg-rapher's equation. Automatica.
+- Guillemin, V. and S. Sternberg (1984). Symplectic Techniques in Physics. Cambridge University Press, New-York, USA, paperback ed., 1990 edition.
 - Hamroun, Port-based modelling for open channel irrigation systems. Transactions on Fluid Mechanics (2006)
 - Harkort, C. & Deutscher, J. Krylov Subspace Methods for Linear Infinite-Dimensional Systems. IEEE Transactions on Automatic Control vol. 56 441–447 (2011) -- [10.1109/tac.2010.2090063](https://doi.org/10.1109/tac.2010.2090063)
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
@@ -70,6 +73,7 @@ Five to ten keywords; preferably chosen from the IFAC keyword list
 - van der Schaft, L. (1996)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- Villegas, J. (2007). A Port-Hamiltonian Approach to Distributed Parameter Systems. Ph.D. thesis, University of Twente, Enschede, The Netherlands.
 - [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
 

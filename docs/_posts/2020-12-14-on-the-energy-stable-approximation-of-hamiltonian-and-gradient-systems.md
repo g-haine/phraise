@@ -52,7 +52,9 @@ A general framework for the numerical approximation of evolution problems is pre
 - Dimension Reduction of Large-Scale Systems. Lecture Notes in Computational Science and Engineering (Springer Berlin Heidelberg, 2005). doi:10.1007/3-540-27909-1 -- [10.1007/3-540-27909-1](https://doi.org/10.1007/3-540-27909-1)
 - Celledoni, E., Eidnes, S., Owren, B. & Ringholm, T. Dissipative Numerical Schemes on Riemannian Manifolds with Applications to Gradient Flows. SIAM Journal on Scientific Computing vol. 40 A3789–A3806 (2018) -- [10.1137/18m1190628](https://doi.org/10.1137/18m1190628)
 - Celledoni, E., Eidnes, S., Owren, B. & Ringholm, T. Energy-preserving methods on Riemannian manifolds. Mathematics of Computation vol. 89 699–716 (2019) -- [10.1090/mcom/3470](https://doi.org/10.1090/mcom/3470)
-- E.  Celledoni and E. H.  Hoiseth, Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems, preprint (2017), https://arxiv.org/abs/1706.08621.
+- E.  Celledoni and E. H.  Hoiseth,
+Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems,
+preprint (2017), https://arxiv.org/abs/1706.08621.
 - [Chaturantabut, S., Beattie, C. & Gugercin, S. Structure-Preserving Model Reduction for Nonlinear Port-Hamiltonian Systems. SIAM Journal on Scientific Computing vol. 38 B837–B865 (2016)](structure-preserving-model-reduction-for-nonlinear-port-hamiltonian-systems) -- [10.1137/15m1055085](https://doi.org/10.1137/15m1055085)
 - Cohen, D. & Hairer, E. Linear energy-preserving integrators for Poisson systems. BIT Numerical Mathematics vol. 51 91–101 (2011) -- [10.1007/s10543-011-0310-z](https://doi.org/10.1007/s10543-011-0310-z)
 - [Egger, H. Structure preserving approximation of dissipative evolution problems. Numerische Mathematik vol. 143 85–106 (2019)](structure-preserving-approximation-of-dissipative-evolution-problems) -- [10.1007/s00211-019-01050-w](https://doi.org/10.1007/s00211-019-01050-w)
@@ -62,15 +64,26 @@ A general framework for the numerical approximation of evolution problems is pre
 - Furihata, D. & Matsuo, T. Discrete Variational Derivative Method. (2010) doi:10.1201/b10387 -- [10.1201/b10387](https://doi.org/10.1201/b10387)
 - Gear, C. W., Leimkuhler, B. & Gupta, G. K. Automatic integration of Euler-Lagrange equations with constraints. Journal of Computational and Applied Mathematics vols 12–13 77–90 (1985) -- [10.1016/0377-0427(85)90008-1](https://doi.org/10.1016/0377-0427(85)90008-1)
 - [Gonzalez, O. Time integration and discrete Hamiltonian systems. Journal of Nonlinear Science vol. 6 449–467 (1996)](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/bf02440162](https://doi.org/10.1007/bf02440162)
-- E.  Hairer, Energy-preserving variant of collocation methods, JNAIAM. J. Numer. Anal. Ind. Appl. Math. 5 (2010), no. 1–2, 73–84.
+- E.  Hairer,
+Energy-preserving variant of collocation methods,
+JNAIAM. J. Numer. Anal. Ind. Appl. Math. 5 (2010), no. 1–2, 73–84.
 - Hairer, E. & Lubich, C. Energy-diminishing integration of gradient systems. IMA Journal of Numerical Analysis vol. 34 452–461 (2013) -- [10.1093/imanum/drt031](https://doi.org/10.1093/imanum/drt031)
 - Hairer, E., Roche, M. & Lubich, C. The Numerical Solution of Differential-Algebraic Systems by Runge-Kutta Methods. Lecture Notes in Mathematics (Springer Berlin Heidelberg, 1989). doi:10.1007/bfb0093947 -- [10.1007/bfb0093947](https://doi.org/10.1007/bfb0093947)
-- E.  Hairer, C.  Lubich and G.  Wanner, Geometric Numerical Integration, Springer Ser. Comput. Math. 31, Springer, Heidelberg, 2010.
+- E.  Hairer, C.  Lubich and G.  Wanner,
+Geometric Numerical Integration,
+Springer Ser. Comput. Math. 31,
+Springer, Heidelberg, 2010.
 - Kunkel, P. & Mehrmann, V. Differential-Algebraic Equations. EMS Textbooks in Mathematics (2006) doi:10.4171/017 -- [10.4171/017](https://doi.org/10.4171/017)
 - Leimkuhler, B. & Reich, S. Simulating Hamiltonian Dynamics. (2005) doi:10.1017/cbo9780511614118 -- [10.1017/cbo9780511614118](https://doi.org/10.1017/cbo9780511614118)
 - McLachlan, R. I., Quispel, G. R. W. & Robidoux, N. Geometric integration using discrete gradients. Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences vol. 357 1021–1045 (1999) -- [10.1098/rsta.1999.0363](https://doi.org/10.1098/rsta.1999.0363)
 - Monk, P. Finite Element Methods for Maxwell’s Equations. (2003) doi:10.1093/acprof:oso/9780198508885.001.0001 -- [10.1093/acprof:oso/9780198508885.001.0001](https://doi.org/10.1093/acprof:oso/9780198508885.001.0001)
 - [Polyuga, R. V. Discussion on: “Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces”. European Journal of Control vol. 16 407–409 (2010)](discussion-on-passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces) -- [10.1016/s0947-3580(10)70672-5](https://doi.org/10.1016/s0947-3580(10)70672-5)
-- K.  Strehmel and R.  Weiner, Numerik gewöhnlicher Differentialgleichungen, Teubner Math. Textb., B. G. Teubner, Stuttgart, 1995.
-- V.  Thomée, Galerkin Finite Element Methods for Parabolic Problems, 2nd ed., Springer Ser. Comput. Math. 25, Springer, Berlin, 2006.
+- K.  Strehmel and R.  Weiner,
+Numerik gewöhnlicher Differentialgleichungen,
+Teubner Math. Textb.,
+B. G. Teubner, Stuttgart, 1995.
+- V.  Thomée,
+Galerkin Finite Element Methods for Parabolic Problems, 2nd ed.,
+Springer Ser. Comput. Math. 25,
+Springer, Berlin, 2006.
 

@@ -55,7 +55,9 @@ We present in this paper a control algorithm for the open irrigation channel usi
 - Hamroun, Port-Based Modelling and Geometric Reduction for Open Channel Irrigation Systems. (2007)
 - Golo, Hamiltonian discretization of the the Telegrapher's equation. Automatica (2004)
 - Bossavit, (1998)
+- R. Psumarthy and A.J. van der Schaft, A Finite Dimensional Approximation of the shallow water Equations: The port-Hamiltonian approach, Proc. of the 45th IEEE Conference on Decision and Control
 - Hamroun, Spectral and input-output properties of the reduced Hamiltonian formulation for the Shallow Water Equations. (2009)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - van der Schaft, (2000)
+- R. Ortega and E. Garcia-Canseco, Interconnection and Damping Assignement Passivit-Based Control: A Survey, European Journal of Control 110R-2003.
 

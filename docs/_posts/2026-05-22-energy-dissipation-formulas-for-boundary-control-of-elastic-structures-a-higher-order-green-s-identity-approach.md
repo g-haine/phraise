@@ -41,6 +41,7 @@ This paper presents explicit formulas for the energy dissipation rate in boundar
  
 ## References
 - Abdelkefi A, Nayfeh AH, Hajj MR (2011) Modeling and analysis of piezoaeroelastic energy harvesters. Nonlinear Dyn 67(2):925–939. https://doi.org/10.1007/s11071-011-0035- -- [10.1007/s11071-011-0035-1](https://doi.org/10.1007/s11071-011-0035-1)
+- Brugnoli A Matignon D (2022) A port-Hamiltonian formulation for the full von-kármán plate model. In: 10th European Nonlinear Dynamics Conference (ENOC) Lyon France 17−22 July 2022.
 - [Brugnoli A, Alazard D, Pommier-Budinger V, Matignon D (2019) Interconnection of the Kirchhoff plate within the port-Hamiltonian framework. 2019 IEEE 58th Conference on Decision and Control (CDC) 6857–686](interconnection-of-the-kirchhoff-plate-within-the-port-hamiltonian-framework) -- [10.1109/cdc40024.2019.9029487](https://doi.org/10.1109/cdc40024.2019.9029487)
 - Brugnoli A, Port-Hamiltonian formulation and symplectic discretization of plate models. Part II: Kirchhoff model for thin plates. Archive of Applied Mechanics (2019)
 - [Brugnoli A, Cardoso-Ribeiro FL, Haine G, Kotyczka P (2020) Partitioned finite element method for structured discretization with mixed boundary conditions. IFAC-PapersOnLine 53(2):7557–7562. https://doi.org/10.1016/j.ifacol.2020.12.135](partitioned-finite-element-method-for-structured-discretization-with-mixed-boundary-conditions) -- [10.1016/j.ifacol.2020.12.1351](https://doi.org/10.1016/j.ifacol.2020.12.1351)

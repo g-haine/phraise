@@ -55,6 +55,7 @@ This paper presents a nonlinear observer for DC-DC power converters based on an 
 - Ghanes, On sliding mode and adaptative observers design for multicell converter. (2009)
 - Hultgren, Convergence of a switched hamiltonian observer applied to an slr converter. (2002)
 - Jaafar, Experimental validation with a control point of view analysis of the sepic converter. (2009)
+- A.R. Meghnous, M.T. Pham, and X. Lin-Shi. Synchrnous machine parameter identification via sliading mode technique : a comparison of two approaches. In Electrimacs Conference, 2011.
 - Niculescu, Modelling the pwm sepic converter in discontinuous conduction mode, 2007. (2007)
 - Poznyak, Identification of parameters in dynamic systems via sliding-mode techniques. Advances in Variable Structure (2006)
 - Van Der Schaft, Port-hamiltonian systems : network modeling and control of nonlinear physical systems. Dynamics and Control (2004)

@@ -45,4 +45,7 @@ This paper proposes a deterministic policy gradient method for port-Hamiltonian 
 ## References
 - Nian, R., Liu, J. & Huang, B. A review On reinforcement learning: Introduction and applications in industrial process control. Computers &amp; Chemical Engineering 139, 106886 (2020) -- [10.1016/j.compchemeng.2020.106886](https://doi.org/10.1016/j.compchemeng.2020.106886)
 - [Sprangers, O., Babuska, R., Nageshrao, S. P. & Lopes, G. A. D. Reinforcement Learning for Port-Hamiltonian Systems. IEEE Trans. Cybern. 45, 1017–1027 (2015)](reinforcement-learning-for-port-hamiltonian-systems) -- [10.1109/tcyb.2014.2343194](https://doi.org/10.1109/tcyb.2014.2343194)
+- 3) T. Morimura, E. Uchibe and K. Doya: Utilizing the natural gradient in temporal difference reinforcement learning with eligibility traces, Proc. 2nd Int. Symp. Information Geometry and its Applications, 256/263 (2005)
+- 4) 福永，岩本：自然勾配を用いたポートハミルトン系のための強化学習の高速化，計測自動制御学会論文集，59-2, 70/76 (2023)
+- 5) D. Silver, G. Lever, N. Heess, T. Degris, D. Wierstra and M. Riedmiller: Deterministic Policy Gradient Algorithms, Proc. 31st Int. Conf. Mach. Learn., 387/395 (2014)
 

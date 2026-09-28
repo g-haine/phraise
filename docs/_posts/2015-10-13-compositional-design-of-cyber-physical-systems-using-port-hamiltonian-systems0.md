@@ -55,10 +55,14 @@ category: chapters
 - Elmqvist H., 12th European Simulation Multiconference (1998)
 - Ledeczi Akos, The 2nd International Workshop on Intelligent Signal Processing (2001)
 - Feng, S. & Zhang, L. Integrated Approach for Modeling Cyber Physical Systems. Lecture Notes in Electrical Engineering 371–376 (2013) doi:10.1007/978-94-007-7262-5_44 -- [10.1007/978-94-007-7262-5_44](https://doi.org/10.1007/978-94-007-7262-5_44)
+- P. Fritzson. Principles of Object-Oriented Modeling and Simulation with Modelica 2.1. John Wiley & Sons, New York, pp.145-182, January 2004.
+- G. Golo, P.C. Breedveld, B.M. Maschke, and A.J. Schaft van der. Geometric formulation of generalized bond graph models-Part I: Generalized junction structures, Technical Report from Robotics and Mechatronics Research Group, University of Twente Department of Electrical Engineering, Mathematics, and Computer Science.2000.
+- G. Golo, A. van der Schaft, P. Beedveld, and B. Mascheke. Hamiltonian formulation of bond graphs: Nonlinear and hybrid systems in automotive control, In Nonlinear and Hybrid Systems in Automotive Control. Springer, London, UK, pp.351-372, 2003. ISBN 9781852336523.
 - Henriksson, D. & Elmqvist, H. Cyber-Physical Systems Modeling and Simulation with Modelica. Linköping Electronic Conference Proceedings vol. 63 502–509 (2011) -- [10.3384/ecp11063502](https://doi.org/10.3384/ecp11063502)
 - Hill, D. & Moylan, P. The stability of nonlinear dissipative systems. IEEE Trans. Automat. Contr. 21, 708–711 (1976) -- [10.1109/tac.1976.1101352](https://doi.org/10.1109/tac.1976.1101352)
 - Cummins Inc., September (2009)
 - Åkesson, J., Årzén, K.-E., Gäfvert, M., Bergdahl, T. & Tummescheit, H. Modeling and optimization with Optimica and JModelica.org—Languages and tools for solving large-scale dynamic optimization problems. Computers &amp; Chemical Engineering 34, 1737–1749 (2010) -- [10.1016/j.compchemeng.2009.11.011](https://doi.org/10.1016/j.compchemeng.2009.11.011)
+- D. Karnopp, D. Margolis, and R. Rosenberg. System Dynamics: Modeling and Simulation of Mechatronic Systems. John Wiley & Sons, New York, pp.17-33, 2000.
 - Karsai, G., Sztipanovits, J., Ledeczi, A. & Bapty, T. Model-integrated development of embedded software. Proc. IEEE 91, 145–164 (2003) -- [10.1109/jproc.2002.805824](https://doi.org/10.1109/jproc.2002.805824)
 - Khalil H., Nonlinear Systems (2002)
 - Kottenstette, N. & Antsaklis, P. J. Relationships between positive real, passive dissipative, &amp;amp; positive systems. Proceedings of the 2010 American Control Conference 409–416 (2010) doi:10.1109/acc.2010.5530779 -- [10.1109/acc.2010.5530779](https://doi.org/10.1109/acc.2010.5530779)

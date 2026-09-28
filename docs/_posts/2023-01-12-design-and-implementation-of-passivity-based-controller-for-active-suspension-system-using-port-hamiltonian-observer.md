@@ -58,13 +58,13 @@ The objective of this study is to design and implement an observer for quarter-c
 - Moradi, S. M., Akbari, A. & Mirzaei, M. An offline LMI-based robust model predictive control of vehicle active suspension system with parameter uncertainty. Transactions of the Institute of Measurement and Control vol. 41 1699–1711 (2018) -- [10.1177/0142331218787599](https://doi.org/10.1177/0142331218787599)
 - Deshpande, V. S., Shendge, P. D. & Phadke, S. B. Nonlinear Control for Dual Objective Active Suspension Systems. IEEE Transactions on Intelligent Transportation Systems vol. 18 656–665 (2017) -- [10.1109/tits.2016.2585343](https://doi.org/10.1109/tits.2016.2585343)
 - [Cornejo, C. & Alvarez-Icaza, L. Passivity based control of under-actuated mechanical systems with nonlinear dynamic friction. Journal of Vibration and Control vol. 18 1025–1042 (2011)](passivity-based-control-of-under-actuated-mechanical-systems-with-nonlinear-dynamic-friction) -- [10.1177/1077546311408469](https://doi.org/10.1177/1077546311408469)
-- Renton C. 2012 2nd Australian control conference
+- Renton C, 2012 2nd Australian control conference
 - [Sistla, P., Figarado, S., Chemmangat, K., Manjarekar, N. S. & Kallu Valappil, G. Design and performance comparison of interconnection and damping assignment passivity-based control for vibration suppression in active suspension systems. Journal of Vibration and Control vol. 27 893–911 (2020)](design-and-performance-comparison-of-interconnection-and-damping-assignment-passivity-based-control-for-vibration-suppression-in-active-suspension-systems) -- [10.1177/1077546320933749](https://doi.org/10.1177/1077546320933749)
 - Astolfi, A., Ortega, R. & Venkatraman, A. A globally exponentially convergent immersion and invariance speed observer for mechanical systems with non-holonomic constraints. Automatica vol. 46 182–189 (2010) -- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
 - [Yaghmaei, A. & Yazdanpanah, M. J. Structure Preserving Observer Design for Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 64 1214–1220 (2019)](structure-preserving-observer-design-for-port-hamiltonian-systems) -- [10.1109/tac.2018.2847904](https://doi.org/10.1109/tac.2018.2847904)
 - [Venkatraman, A. & van der Schaft, A. J. Full-order observer design for a class of port-Hamiltonian systems. Automatica vol. 46 555–561 (2010)](full-order-observer-design-for-a-class-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2010.01.019](https://doi.org/10.1016/j.automatica.2010.01.019)
 - WANG, Y. Observer and observer-based H∞ control of generalized Hamiltonian systems. Science in China Series F vol. 48 211 (2005) -- [10.1360/03yf0601](https://doi.org/10.1360/03yf0601)
-- Biedermann B. 2018 IEEE conference on decision and control (CDC)
+- Biedermann B, 2018 IEEE conference on decision and control (CDC)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- Quanser. Active suspension systems: user manual
+- Quanser, Active suspension systems: user manual
 

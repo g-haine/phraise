@@ -43,6 +43,7 @@ This paper considers formation flying control of multi-spacecraft in the presenc
 [Download the bib file]({{ site.baseurl }}/assets/bib/stochastic-bounded-stability-in-the-three-body-problem-with-probabilistic-uncertainty-using-port-hamiltonian-representation.bib)
  
 ## References
+- 1) Tsunemi, H. and FFAST working group: Formation Flight All Sky Telescope (FFAST), JAXA, 2008, https://repository.exst.jaxa.jp/dspace/bitstream/ais/52522/1/63739013.pdf (accessed January 1, 2019).
 - Kahle, R., Runge, H., Ardaens, J.-S., Suchandt, S. & Romeiser, R. Formation flying for along-track interferometric oceanography—First in-flight demonstration with TanDEM-X. Acta Astronautica 99, 130–142 (2014) -- [10.1016/j.actaastro.2014.02.014](https://doi.org/10.1016/j.actaastro.2014.02.014)
 - Mazal, L. & Gurfil, P. Closed-loop distance-keeping for long-term satellite cluster flight. Acta Astronautica 94, 73–82 (2014) -- [10.1016/j.actaastro.2013.08.002](https://doi.org/10.1016/j.actaastro.2013.08.002)
 - Zimmerman, F. G. & Gurfil, P. Optimal Target States for Satellite Cluster Flight Control on Near-Circular Orbits. Journal of Guidance, Control, and Dynamics 38, 375–383 (2015) -- [10.2514/1.g000922](https://doi.org/10.2514/1.g000922)
@@ -50,4 +51,5 @@ This paper considers formation flying control of multi-spacecraft in the presenc
 - [Satoh, S. & Saeki, M. Bounded stabilisation of stochastic port-Hamiltonian systems. International Journal of Control 87, 1573–1582 (2014)](bounded-stabilisation-of-stochastic-port-hamiltonian-systems) -- [10.1080/00207179.2014.880127](https://doi.org/10.1080/00207179.2014.880127)
 - Satoh, S. & Saeki, M. Bounded Stability of Nonlinear Stochastic Systems. SICE Journal of Control, Measurement, and System Integration 8, 181–187 (2015) -- [10.9746/jcmsi.8.181](https://doi.org/10.9746/jcmsi.8.181)
 - The Schur Complement and Its Applications. Numerical Methods and Algorithms (Springer-Verlag, 2005). doi:10.1007/b105056 -- [10.1007/b105056](https://doi.org/10.1007/b105056)
+- 9) Kushner, H. J. : Stochastic Stability and Control, Academic press,1967.
 

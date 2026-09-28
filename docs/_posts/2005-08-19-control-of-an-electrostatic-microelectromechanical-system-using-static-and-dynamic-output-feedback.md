@@ -51,6 +51,8 @@ This paper examines control strategies for electrostatically actuated microelect
 - Senturia, S. D. Microsystem Design. (Springer US, 2001). doi:10.1007/b117574 -- [10.1007/b117574](https://doi.org/10.1007/b117574)
 - Nemirovsky, Y. & Bochobza-Degani, O. A methodology and model for the pull-in parameters of electrostatic actuators. J. Microelectromech. Syst. 10, 601–615 (2001) -- [10.1109/84.967384](https://doi.org/10.1109/84.967384)
 - Pelesko, J. A. & Triolo, A. A. Journal of Engineering Mathematics 41, 345–366 (2001) -- [10.1023/a:1012292311304](https://doi.org/10.1023/a:1012292311304)
+- Hornbeck, L. J. , 1998, “From Cathode Rays to Digital Micromirrors: A History of Electronic Projection Display Technology,” TI Technical Journal, July–September, pp. 7–46.
+- Meier, R. E. , 1998, “DMD Pixel Mechanics Simulation,” TI Technical Journal, Special issue on DLP—DMD Manufacturing and Design Challenges, July–September, pp. 64–74.
 - Bloom, The Grating Light Valve: Revolutionizing Display Technology. Projection Displays III Symposium, SPIE Proceedings
 - McCarthy, B., Adams, G. G., McGruer, N. E. & Potter, D. A dynamic model, including contact bounce, of an electrostatically actuated microswitch. J. Microelectromech. Syst. 11, 276–283 (2002) -- [10.1109/jmems.2002.1007406](https://doi.org/10.1109/jmems.2002.1007406)
 - Chu, P. B., Shi-Sheng Lee & Sangtae Park. MEMS: the path to large optical crossconnects. IEEE Commun. Mag. 40, 80–87 (2002) -- [10.1109/35.989762](https://doi.org/10.1109/35.989762)
@@ -67,6 +69,7 @@ This paper examines control strategies for electrostatically actuated microelect
 - Larnaudie, Analytical Simulation of a 1D Single Crystal Silicon Electrostatic Micromirror. Proceedings of the Second International Conference on Modelling and Simulation of Microsystems, Semiconductors, Sensors and Actuators
 - Wang, P. K. C. FEEDBACK CONTROL OF VIBRATIONS IN A MICROMACHINED CANTILEVER BEAM WITH ELECTROSTATIC ACTUATORS. Journal of Sound and Vibration 213, 537–550 (1998) -- [10.1006/jsvi.1998.1525](https://doi.org/10.1006/jsvi.1998.1525)
 - Maithripala, Nano-Precision Control of Micromirrors Using Output Feedback. Proceedings of the CDC
+- Maithripala, S. , 2003, “Nonlinear Control of an Electrostatically Actuated MEMS,” Ph.D. Thesis, Texas Tech University, Texas.
 - Pelesko, J. A. Mathematical Modeling of Electrostatic MEMS with Tailored Dielectric Properties. SIAM J. Appl. Math. 62, 888–908 (2002) -- [10.1137/s0036139900381079](https://doi.org/10.1137/s0036139900381079)
 - Toshiyoshi, H., Mita, M. & Fujita, H. A MEMS piggyback actuator for hard-disk drives. J. Microelectromech. Syst. 11, 648–654 (2002) -- [10.1109/jmems.2002.805054](https://doi.org/10.1109/jmems.2002.805054)
 - Krener, Feedback Linearization. Mathematical Control Theory
@@ -76,6 +79,7 @@ This paper examines control strategies for electrostatically actuated microelect
 - Kelkar, A. G., Joshi, S. M. & Alberts, T. E. Passivity-based control of nonlinear flexible multibody systems. IEEE Trans. Automat. Contr. 40, 910–914 (1995) -- [10.1109/9.384228](https://doi.org/10.1109/9.384228)
 - Isidori, Nonlinear Control Systems
 - Wonham, Linear Multivariable Control: A Geometric Approach
+- Maithripala, D. H. S., Dayawansa, W. P., and Berg, J. M., 2003, “Intrinsic Observer-Based Stabilization on Lie Groups,” SIAM Journal of Control and Optimization, (to appear).
 - Sane, Application of Sliding Mode Control to Electrostatically Actuated Two-Axis Gimbaled Micromirrors. Proceedings of the American Control Conference, Denver, CO
 - Ayela, F., Bret, J. L., Chaussy, J., Fournier, T. & Ménégaz, E. A two-axis micromachined silicon actuator with micrometer range electrostatic actuation and picometer sensitive capacitive detection. Review of Scientific Instruments 71, 2211–2218 (2000) -- [10.1063/1.1150608](https://doi.org/10.1063/1.1150608)
 - Dayawansa, W. P. & Martin, C. F. Dynamical systems which undergo switching. IEEE Trans. Automat. Contr. 44, 751–760 (1999) -- [10.1109/9.754812](https://doi.org/10.1109/9.754812)

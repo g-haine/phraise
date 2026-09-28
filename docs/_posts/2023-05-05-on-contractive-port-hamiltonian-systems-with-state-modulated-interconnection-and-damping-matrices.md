@@ -54,7 +54,7 @@ In this article, for the input-state-output class of port-Hamiltonian systems, t
 - LOHMILLER, W. & SLOTINE, J.-J. E. On Contraction Analysis for Non-linear Systems. Automatica vol. 34 683–696 (1998) -- [10.1016/s0005-1098(98)00019-3](https://doi.org/10.1016/s0005-1098(98)00019-3)
 - Wang, W. & Slotine, J.-J. E. On partial contraction analysis for coupled nonlinear oscillators. Biological Cybernetics vol. 92 38–53 (2004) -- [10.1007/s00422-004-0527-x](https://doi.org/10.1007/s00422-004-0527-x)
 - Lancaster, P. & Rodman, L. Algebraic Riccati Equations. (1995) doi:10.1093/oso/9780198537953.001.0001 -- [10.1093/oso/9780198537953.001.0001](https://doi.org/10.1093/oso/9780198537953.001.0001)
-- Abou-Kandil. Matrix Riccati Equ. in Control and Syst. Theory (2012)
+- Abou-Kandil, Matrix Riccati Equ. in Control and Syst. Theory (2012)
 - Bernstein, D. S. Matrix Mathematics. (2009) doi:10.1515/9781400833344 -- [10.1515/9781400833344](https://doi.org/10.1515/9781400833344)
 - Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
 

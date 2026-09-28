@@ -43,5 +43,8 @@ A novel state error port-controlled Hamiltonian (PCH) system method is presented
  
 ## References
 - Chiasson J (1998) A new approach to dynamic feedback linearization control of an induction motor. IEEE Trans Automat Contr 43(3):391–397. https://doi.org/10.1109/9.66159 -- [10.1109/9.661597](https://doi.org/10.1109/9.661597)
+- C. Y. Chen: Sliding Mode Controller Design of Induction Motor Based on Space-vector Pulse Width Modulation Method. International Journal of Innovative Computing, Information and Control. Vol. 5(10B)(2009), pp.3603-3614.
+- H. S. Yu, H. L. Wang, K. Y. Zhao: Hamiltonian Modeling and IDA Passivity-based Control of Permanent Magnet Synchronous Motor. Electric Machine and Control. Vol. 10(3)(2006), pp.229-233.
 - [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- H. S. Yu, L. J. Zhang, J. P. Yu, ea al: Output Voltage Control of Boost Converter Based on Port-Hamiltonian Systems Theory. ICIC Express Letters, Part B: Applications, Vol. 3(4) (2012), pp.793-798.
 

@@ -41,3 +41,12 @@ In order to improve the performance of the rectifier under unbalanced voltage co
  
 [Download the bib file]({{ site.baseurl }}/assets/bib/research-on-the-pchd-control-strategy-for-three-phase-voltage-source-pwm-rectifier-under-unbalanced-supply-voltage-condition.bib)
  
+## References
+- Xing Zhang and Chongwei Zhang, PWM rectifier and its control, China Machine Press, Beijing (2012). In Chinese.
+- Baolian Liu, Zujun Ding and Yulin Zhang, Electric Power Automation Equipment, vol. 31, no. 12, (2011), p: 59-63. In Chinese.
+- Pinghua Zhang, Guijie Yang and Tiecai Li, Proceedings of the CSEE, vol. 30, no. 18, (2010), p: 39-45. In Chinese.
+- Tingting Ma, Study of DPC control strategy of three-phase voltage-source PWM rectifier, Central South University, Hunan(2013). In Chinese.
+- Juzhao Wang, Design and Realization of Voltage Source PWM Rectifier Based on ADRC, Northeastern University, Liaoning(2010). In Chinese.
+- Yuanbo Guo, Xin Zhou, Xiaohua Zhang, Automation of Electric Power System, vol. 35, no. 16, (2011), p: 87-92. In Chinese.
+- Jiuhe Wang and Xiuyuan Yang, Proceedings of the CSEE, vol. 31, no. 18, (2011), p: 14-20. In Chinese.
+

@@ -54,5 +54,6 @@ approximation, dirac structure, dissipation, distributed systems, telegrapher's 
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica 40, 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - Maschke, B. & van der Schaft, A. 4 Compositional Modelling of Distributed-Parameter Systems. Lecture Notes in Control and Information Sciences 115–154 (2005) doi:10.1007/11334774_4 -- [10.1007/11334774_4](https://doi.org/10.1007/11334774_4)
 - Nakrachi, “Bond Graph for distributed parameter systems: The telegrapher equation case” IMACS-IEEE “CESA'03”. Lille (2003)
+- P. Ramkrishna, (2006). “On Analysis and Control of Interconnected Finite and Infinite-dimensional Physical Systems” Phd Thesis, University of Twente, Nederland.
 - [Schaft, A. J. Port-Hamiltonian Systems: Network Modeling and Control of Nonlinear Physical Systems. Advanced Dynamics and Control of Structures and Machines 127–167 (2004) doi:10.1007/978-3-7091-2774-2_9](port-hamiltonian-systems-network-modeling-and-control-of-nonlinear-physical-systems) -- [10.1007/978-3-7091-2774-2_9](https://doi.org/10.1007/978-3-7091-2774-2_9)
 

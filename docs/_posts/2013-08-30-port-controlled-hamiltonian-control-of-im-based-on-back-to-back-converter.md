@@ -42,6 +42,9 @@ A method of port-controlled Hamiltonian (PCH) systems energy-shaping control is 
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-controlled-hamiltonian-control-of-im-based-on-back-to-back-converter.bib)
  
 ## References
+- Y. Ruan and W. Chen: Motion Control System (Tsinghua University Press, Beijing 2009).
 - [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Yu H, Liu X, Yu J, Song Q (2011) Position tracking control of PMSM based on state error PCH and MTPA principle. 2011 IEEE 5th International Conference on Robotics, Automation and Mechatronics (RAM) 113–11](position-tracking-control-of-pmsm-based-on-state-error-pch-and-mtpa-principle) -- [10.1109/ramech.2011.6070466](https://doi.org/10.1109/ramech.2011.6070466)
+- Q. Song, H. Yu and N. Zhu． Port-controlled Hamiltonian control of PMSM based on back to back four-quadrant converter. Journal of Qingdao University(Engineering & Technology Edition), 2011, 26(2): 1-7.
+- J. Liu, H. Yu and X. Wei. Port-controlled Hamiltonian control of asynchronous motors and L2-gain disturbance attenuation. Electric Machines& Control Application. 2010, 37(10): 10-16.
 

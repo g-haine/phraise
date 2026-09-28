@@ -52,14 +52,17 @@ Networked robotic system modeling and control; Mobile robots
 ## References
 - Arcak, M. Passivity as a Design Tool for Group Coordination. IEEE Trans. Automat. Contr. 52, 1380–1390 (2007) -- [10.1109/tac.2007.902733](https://doi.org/10.1109/tac.2007.902733)
 - Bai, (2011)
+- A. Bara and S. Dale. Dynamic modeling and stabilization of wheeled mobile robot. In WSEAS International Conference on Dynamical Systems and Control, number 11. WSEAS, 2009.
 - Bollobás, (1998)
 - Brockett, (1983)
 - Duindam, (2009)
 - Kurabayashi, D., Ota, J., Arai, T. & Yoshida, E. Cooperative sweeping by multiple mobile robots. Proceedings of IEEE International Conference on Robotics and Automation vol. 2 1744–1749 -- [10.1109/robot.1996.506964](https://doi.org/10.1109/robot.1996.506964)
 - Lawton, J. R. T., Beard, R. W. & Young, B. J. A decentralized approach to formation maneuvers. IEEE Trans. Robot. Automat. 19, 933–941 (2003) -- [10.1109/tra.2003.819598](https://doi.org/10.1109/tra.2003.819598)
+- F. Mondada, M. Bonani, X. Raemy, J. Pugh, C. Cianci, A. Klaptocz, S. Magnenat, J.C. Zufferey, D. Floreano, and A. Martinoli. The e-puck, a robot designed for education in engineering. In Proceedings of the 9th conference on autonomous robot systems and competitions, volume 1, pages 59-65, 2009.
 - Obermeyer, K. J., Ganguli, A. & Bullo, F. Multi‐agent deployment for visibility coverage in polygonal environments with holes. Intl J Robust &amp; Nonlinear 21, 1467–1492 (2011) -- [10.1002/rnc.1700](https://doi.org/10.1002/rnc.1700)
 - Ortega, Putting energy back in control. IEEE Control Systems Magazine (2002)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM J. Control Optim. 51, 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- E. Vos, J.M.A. Scherpen, and A.J. van der Schaft. Port-Hamiltonian Approach to Deployment. In International Symposium on Mathematical Theory of Networks and Systems, Melbourne, Australia, 9–13 July 2012.
 - [Vos, E., Scherpen, J. M. A. & van der Schaft, A. J. Equal distribution of satellite constellations on circular target orbits. Automatica 50, 2641–2647 (2014)](equal-distribution-of-satellite-constellations-on-circular-target-orbits) -- [10.1016/j.automatica.2014.08.027](https://doi.org/10.1016/j.automatica.2014.08.027)
 

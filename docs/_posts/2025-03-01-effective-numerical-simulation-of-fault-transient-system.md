@@ -55,6 +55,7 @@ Power systems, including synchronous generator systems, are typical systems that
 - Dommel, H. Digital Computer Solution of Electromagnetic Transients in Single-and Multiphase Networks. IEEE Transactions on Power Apparatus and Systems vol. PAS-88 388–399 (1969) -- [10.1109/tpas.1969.292459](https://doi.org/10.1109/tpas.1969.292459)
 - Dommel H. W., EMTP Theory Book (1992)
 - Ji, F., Qiu, Y., Wei, X., Wu, X. & He, Z. Nodal dynamic equation used for electromagnetic transient simulation of linear switching circuit. IET Science, Measurement &amp; Technology vol. 12 626–633 (2018) -- [10.1049/iet-smt.2017.0434](https://doi.org/10.1049/iet-smt.2017.0434)
+- Hairer E.,  Nørsett S. P.,  Wanner G.,  Solving Ordinary Differential Equations I: Nonstiff Problems,  2nd edn.  Springer-Verlag,  Berlin,  pp. 356–360, 1993.
 - Hairer, E., Wanner, G. & Lubich, C. Symplectic Integration of Hamiltonian Systems. Springer Series in Computational Mathematics 179–236 doi:10.1007/3-540-30666-8_6 -- [10.1007/3-540-30666-8_6](https://doi.org/10.1007/3-540-30666-8_6)
 - Sanz-Serna, J. M. Symplectic integrators for Hamiltonian problems: an overview. Acta Numerica vol. 1 243–286 (1992) -- [10.1017/s0962492900002282](https://doi.org/10.1017/s0962492900002282)
 - Tang, Y.-F., Pérez-García, V. M. & Vázquez, L. Symplectic methods for the Ablowitz-Ladik model. Applied Mathematics and Computation vol. 82 17–38 (1997) -- [10.1016/s0096-3003(96)00019-7](https://doi.org/10.1016/s0096-3003(96)00019-7)

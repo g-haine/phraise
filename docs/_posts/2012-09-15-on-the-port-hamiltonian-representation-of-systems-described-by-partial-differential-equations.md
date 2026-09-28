@@ -63,6 +63,7 @@ Diff erential geometric methods; Hamiltonian Systems; Partial differential equat
 - [Schöberl, M., Ennsbrunner, H. & Schlacher, K. Modelling of piezoelectric structures–a Hamiltonian approach. Mathematical and Computer Modelling of Dynamical Systems 14, 179–193 (2008)](modelling-of-piezoelectric-structures-a-hamiltonian-approach) -- [10.1080/13873950701844824](https://doi.org/10.1080/13873950701844824)
 - Schöberl, On casimir functionals for field theories in port-hamiltonian description for control purposes. Proceedings 50th IEEE Conference on Decision and Control (CDC) (2011)
 - Schöberl, Geometric aspects of first order field theories in piezoelectricity and magnetohydrodynamics. Proceedings, International Conference on Electromagnetics in Advanced Applications (2010)
+- Siuka, A. (2011). Geometry, Modelling and Control of Infinite Dimensional Port-Hamiltonian Systems. pHd-thesis, Linz.
 - [Siuka, A., Schöberl, M. & Schlacher, K. Port-Hamiltonian modelling and energy-based control of the Timoshenko beam. Acta Mech 222, 69–89 (2011)](port-hamiltonian-modelling-and-energy-based-control-of-the-timoshenko-beam) -- [10.1007/s00707-011-0510-2](https://doi.org/10.1007/s00707-011-0510-2)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42, 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 

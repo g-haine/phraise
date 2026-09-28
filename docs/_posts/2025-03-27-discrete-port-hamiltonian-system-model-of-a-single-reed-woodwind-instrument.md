@@ -49,7 +49,7 @@ Time-domain simulation of woodwind instruments typically involves the developmen
 - Bilbao, S. & Chick, J. Finite difference time domain simulation for the brass instrument bore. The Journal of the Acoustical Society of America vol. 134 3860–3871 (2013) -- [10.1121/1.4822479](https://doi.org/10.1121/1.4822479)
 - Bilbao, S. & Harrison, R. Passive time-domain numerical models of viscothermal wave propagation in acoustic tubes of variable cross section. The Journal of the Acoustical Society of America vol. 140 728–740 (2016) -- [10.1121/1.4959025](https://doi.org/10.1121/1.4959025)
 - Bilbao, S., Harrison, R., Kergomard, J., Lombard, B. & Vergez, C. Passive models of viscothermal wave propagation in acoustic tubes. The Journal of the Acoustical Society of America vol. 138 555–558 (2015) -- [10.1121/1.4926407](https://doi.org/10.1121/1.4926407)
-- Bilbao, Numerical modeling of collisions in musical instruments. Acta Acustica United Acustica ()
+- Bilbao, Numerical modeling of collisions in musical instruments. Acta Acustica United Acustica
 - Caussé, R., Kergomard, J. & Lurton, X. Input impedance of brass musical instruments—Comparison between experiment and numerical models. The Journal of the Acoustical Society of America vol. 75 241–254 (1984) -- [10.1121/1.390402](https://doi.org/10.1121/1.390402)
 - Chaigne, A. & Kergomard, J. Acoustics of Musical Instruments. Modern Acoustics and Signal Processing (Springer New York, 2016). doi:10.1007/978-1-4939-3679-3 -- [10.1007/978-1-4939-3679-3](https://doi.org/10.1007/978-1-4939-3679-3)
 - Chatziioannou, Forward and inverse modelling of single-reed woodwind instruments with application to digital sound synthesis (2010)

@@ -44,10 +44,16 @@ This article introduces a novel control approach for tackling the maximum power 
  
 ## References
 - Gielen, D. et al. The role of renewable energy in the global energy transformation. Energy Strategy Reviews vol. 24 38–50 (2019) -- [10.1016/j.esr.2019.01.006](https://doi.org/10.1016/j.esr.2019.01.006)
-- Cantarero, Of renewable energy, energy democracy, and sustainable development: A roadmap to accelerate the energy transition in developing countries. Energy Res. Social Sci. (2020)
+- Cantarero, Of renewable energy, energy democracy, and
+                        sustainable development: A roadmap to accelerate the energy transition in
+                        developing countries. Energy Res. Social
+                        Sci. (2020)
 - Shahbaz, M., Raghutla, C., Chittedi, K. R., Jiao, Z. & Vo, X. V. The effect of renewable energy consumption on economic growth: Evidence from the renewable energy country attractive index. Energy vol. 207 118162 (2020) -- [10.1016/j.energy.2020.118162](https://doi.org/10.1016/j.energy.2020.118162)
 - Güney, T. Renewable energy, non-renewable energy and sustainable development. International Journal of Sustainable Development &amp; World Ecology vol. 26 389–397 (2019) -- [10.1080/13504509.2019.1595214](https://doi.org/10.1080/13504509.2019.1595214)
-- Haddad, Wind and solar forecasting for renewable energy system using SARIMA-based model. Proc. Int. Conf. Time Ser. Forecasting
+- Haddad, Wind and solar forecasting
+                        for renewable energy system using SARIMA-based
+                    model. Proc. Int. Conf. Time Ser.
+                        Forecasting
 - Pérez-Uresti, S. I., Lima, R. M., Martín, M. & Jiménez-Gutiérrez, A. On the design of renewable-based utility plants using time series clustering. Computers &amp; Chemical Engineering vol. 170 108124 (2023) -- [10.1016/j.compchemeng.2022.108124](https://doi.org/10.1016/j.compchemeng.2022.108124)
 - Kihal, A., Krim, F., Talbi, B., Laib, A. & Sahli, A. A Robust Control of Two-Stage Grid-Tied PV Systems Employing Integral Sliding Mode Theory. Energies vol. 11 2791 (2018) -- [10.3390/en11102791](https://doi.org/10.3390/en11102791)
 - Bi, P. et al. Reduced non-radiative charge recombination enables organic photovoltaic cell approaching 19% efficiency. Joule vol. 5 2408–2419 (2021) -- [10.1016/j.joule.2021.06.020](https://doi.org/10.1016/j.joule.2021.06.020)

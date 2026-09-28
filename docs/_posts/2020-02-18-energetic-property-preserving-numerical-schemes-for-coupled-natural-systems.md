@@ -44,13 +44,17 @@ In this paper, we propose a method for deriving energetic-property-preserving nu
  
 ## References
 - Furihata, D. & Matsuo, T. Discrete Variational Derivative Method. (2010) doi:10.1201/b10387 -- [10.1201/b10387](https://doi.org/10.1201/b10387)
+- Hairer, E., Lubich, C., and Wanner, G. (2006). Geometric Numerical Integration: Structure-Preserving Algorithms for Ordinary Differential Equations, Springer.
 - Maschke, The Hamiltonian formulation of energy conserving physical systems with external ports. AEU-Int. J. Electron. C. (1995)
 - Weinstein, A. The local structure of Poisson manifolds. Journal of Differential Geometry vol. 18 (1983) -- [10.4310/jdg/1214437787](https://doi.org/10.4310/jdg/1214437787)
 - [Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part I: Implicit Lagrangian systems. Journal of Geometry and Physics vol. 57 133–156 (2006)](dirac-structures-in-lagrangian-mechanics-part-i-implicit-lagrangian-systems) -- [10.1016/j.geomphys.2006.02.009](https://doi.org/10.1016/j.geomphys.2006.02.009)
 - Yoshimura, H. & Marsden, J. E. Dirac structures in Lagrangian mechanics Part II: Variational structures. Journal of Geometry and Physics vol. 57 209–250 (2006) -- [10.1016/j.geomphys.2006.02.012](https://doi.org/10.1016/j.geomphys.2006.02.012)
+- Yoshimura, H., and Gay-Balmaz, F. (2019). Dirac structures and port-Lagrangian systems in thermodynamics. arXiv.
+- Celledoni, E., and Høiseth, E.H. (2017). Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems. arXiv.
 - Bilbao, S. Numerical Sound Synthesis. (2009) doi:10.1002/9780470749012 -- [10.1002/9780470749012](https://doi.org/10.1002/9780470749012)
 - [Gonzalez, O. Time integration and discrete Hamiltonian systems. Journal of Nonlinear Science vol. 6 449–467 (1996)](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/bf02440162](https://doi.org/10.1007/bf02440162)
 - Celledoni, E. et al. Preserving energy resp. dissipation in numerical PDEs using the “Average Vector Field” method. Journal of Computational Physics vol. 231 6770–6789 (2012) -- [10.1016/j.jcp.2012.06.022](https://doi.org/10.1016/j.jcp.2012.06.022)
+- Ishikawa, A., and Yaguchi, T. (2019). Automatic discrete differentiation and its applications. arXiv.
 - Furihata, D. Finite Difference Schemes for ∂u∂t=(∂∂x)αδGδu That Inherit Energy Conservation or Dissipation Property. Journal of Computational Physics vol. 156 181–205 (1999) -- [10.1006/jcph.1999.6377](https://doi.org/10.1006/jcph.1999.6377)
 - Tao, M. Explicit symplectic approximation of nonseparable Hamiltonians: Algorithm and long time performance. Physical Review E vol. 94 (2016) -- [10.1103/physreve.94.043303](https://doi.org/10.1103/physreve.94.043303)
 

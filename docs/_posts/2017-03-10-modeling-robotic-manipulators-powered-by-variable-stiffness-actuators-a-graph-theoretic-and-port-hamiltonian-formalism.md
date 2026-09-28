@@ -52,7 +52,8 @@ This paper proposes a modeling method for generic compliant robotic manipulators
 - Lang, S. Y. T. & Kesavan, H. K. Graph theoretic modeling and analysis of multibody planar mechanical systems. IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans vol. 31 97–111 (2001) -- [10.1109/3468.911367](https://doi.org/10.1109/3468.911367)
 - Lang, S. Y. T. & Kesevan, H. K. Dynamics of planar mechanical systems: a graph theoretic approach. 1996 IEEE International Conference on Systems, Man and Cybernetics. Information Intelligence and Systems (Cat. No.96CH35929) vol. 4 3077–3082 -- [10.1109/icsmc.1996.561476](https://doi.org/10.1109/icsmc.1996.561476)
 - Baciu, G., Chou, J. C. K. & Kesavan, H. K. Constrained multibody systems: graph-theoretic Newton-Euler formulation. IEEE Transactions on Systems, Man, and Cybernetics vol. 20 1025–1048 (1990) -- [10.1109/21.59967](https://doi.org/10.1109/21.59967)
-- hai-bo, Coordination control of networked euler-lagrange systems with possible switching topology. Acta Autom Sin (2013)
+- hai-bo, Coordination control of networked euler-lagrange systems with
+ possible switching topology. Acta Autom Sin (2013)
 - Ren, W. Distributed leaderless consensus algorithms for networked Euler–Lagrange systems. International Journal of Control vol. 82 2137–2149 (2009) -- [10.1080/00207170902948027](https://doi.org/10.1080/00207170902948027)
 - Rahmani Hanzaki, A., Saha, S. K. & Rao, P. V. M. An improved dynamic modeling of a multibody system with spherical joints. Multibody System Dynamics vol. 21 325–345 (2009) -- [10.1007/s11044-008-9141-3](https://doi.org/10.1007/s11044-008-9141-3)
 - Visser, L. C., Carloni, R. & Stramigioli, S. Energy-Efficient Variable Stiffness Actuators. IEEE Transactions on Robotics vol. 27 865–875 (2011) -- [10.1109/tro.2011.2150430](https://doi.org/10.1109/tro.2011.2150430)
@@ -60,7 +61,8 @@ This paper proposes a modeling method for generic compliant robotic manipulators
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Groothuis, S. S., Stramigioli, S. & Carloni, R. Lending a helping hand: toward novel assistive robotic arms. IEEE Robotics &amp; Automation Magazine vol. 20 20–29 (2013) -- [10.1109/mra.2012.2225473](https://doi.org/10.1109/mra.2012.2225473)
 - Grioli, G. et al. Variable stiffness actuators: The user’s point of view. The International Journal of Robotics Research vol. 34 727–743 (2015) -- [10.1177/0278364914566515](https://doi.org/10.1177/0278364914566515)
-- loncaric, Geometrical analysis of compliant mechanisms in robotics (euclidean group, elastic systems, generalized springs). (1985)
+- loncaric, Geometrical analysis of compliant mechanisms in robotics
+ (euclidean group, elastic systems, generalized springs). (1985)
 - Pratt, G. A. & Williamson, M. M. Series elastic actuators. Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots vol. 1 399–406 -- [10.1109/iros.1995.525827](https://doi.org/10.1109/iros.1995.525827)
 - Spong, M. W. Modeling and Control of Elastic Joint Robots. Journal of Dynamic Systems, Measurement, and Control vol. 109 310–318 (1987) -- [10.1115/1.3143860](https://doi.org/10.1115/1.3143860)
 - Wolf, S. et al. Variable Stiffness Actuators: Review on Design and Components. IEEE/ASME Transactions on Mechatronics vol. 21 2418–2430 (2016) -- [10.1109/tmech.2015.2501019](https://doi.org/10.1109/tmech.2015.2501019)

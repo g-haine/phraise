@@ -59,6 +59,7 @@ port-Hamiltonian systems; force feedback; stability analysis; force control; mec
 - Duindam, (2009)
 - Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Gorinevsky, (1997)
+- [Maschke BM, van der Schaft AJ (1992) Port-Controlled Hamiltonian Systems: Modelling Origins and Systemtheoretic Properties. IFAC Proceedings Volumes 25(13):359–365. https://doi.org/10.1016/s1474-6670(17)52308-3](port-controlled-hamiltonian-systems-modelling-origins-and-systemtheoretic-properties) -- [10.1016/s1474-6670(17)52308-3](https://doi.org/10.1016/s1474-6670(17)52308-3)
 - [Muñoz-Arias, M., Scherpen, J. M. A. & Dirksz, D. A. A Class of Standard Mechanical System with Force Feedback in the port-Hamiltonian Framework. IFAC Proceedings Volumes 45, 90–95 (2012)](a-class-of-standard-mechanical-system-with-force-feedback-in-the-port-hamiltonian-framework) -- [10.3182/20120829-3-it-4022.00038](https://doi.org/10.3182/20120829-3-it-4022.00038)
 - Murray, (1994)
 - Rijs, (2010)

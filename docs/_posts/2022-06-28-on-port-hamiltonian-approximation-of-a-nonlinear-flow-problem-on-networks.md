@@ -85,6 +85,9 @@ This paper deals with the systematic development of structure-preserving approxi
 - [Kotyczka, P., Maschke, B. & Lefèvre, L. Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics vol. 361 442–476 (2018)](weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems) -- [10.1016/j.jcp.2018.02.006](https://doi.org/10.1016/j.jcp.2018.02.006)
 - Lee, D. & Palha, A. A mixed mimetic spectral element model of the rotating shallow water equations on the cubed sphere. Journal of Computational Physics vol. 375 240–262 (2018) -- [10.1016/j.jcp.2018.08.042](https://doi.org/10.1016/j.jcp.2018.08.042)
 - LeVeque R. J., Finite
+- B. Liljegren-Sailer,
+                      On Port-Hamiltonian Modeling and Structure-Preserving Model Reduction
+                      , Ph.D. thesis, Universität Trier, 2020.
 - [Liljegren-Sailer, B. & Marheineke, N. On Port-Hamiltonian Approximation of a Nonlinear Flow Problem on Networks. SIAM Journal on Scientific Computing vol. 44 B834–B859 (2022)](on-port-hamiltonian-approximation-of-a-nonlinear-flow-problem-on-networks) -- [10.1137/21m1443480](https://doi.org/10.1137/21m1443480)
 - Liljegren-Sailer B., Progress in Industrial Mathematics at ECMI (2016)
 - Liljegren-Sailer B., On Snapshot-Based Model Reduction Under Compatibility Conditions for a Nonlinear Flow Problem on Networks, https://arxiv.org/abs/2110.04777 (2021)

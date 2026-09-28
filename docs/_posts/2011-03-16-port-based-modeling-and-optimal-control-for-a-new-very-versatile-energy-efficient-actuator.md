@@ -49,6 +49,7 @@ In this paper, we analyze in depth the innovative very versatile and energy effi
 - Goebel, R., Hespanha, J., Teel, A. R., Cai, C. & Sanfelice, R. Hybrid systems: Generalized solutions and robust stability. IFAC Proceedings Volumes 37, 1–12 (2004) -- [10.1016/s1474-6670(17)31194-1](https://doi.org/10.1016/s1474-6670(17)31194-1)
 - [Haddad, W. M., Nersesov, S. G. & Chellaboina, V. Energy-based control for hybrid port-controlled Hamiltonian systems. Automatica 39, 1425–1435 (2003)](energy-based-control-for-hybrid-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(03)00113-4](https://doi.org/10.1016/s0005-1098(03)00113-4)
 - Karnopp, (1990)
+- Kim, J., Yeom, H., Park, F., Park, Y., and Kim, M. (2000). On the energy efficiency of cvt-based mobile robots. In Proc. IEEE International Conference on Robotics and Automation.
 - Mantriota, G. Performances of a series infinitely variable transmission with type I power flow. Mechanism and Machine Theory 37, 579–597 (2002) -- [10.1016/s0094-114x(02)00017-4](https://doi.org/10.1016/s0094-114x(02)00017-4)
 - Paynter, (1961)
 - Pratt, G. A. & Williamson, M. M. Series elastic actuators. Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots vol. 1 399–406 -- [10.1109/iros.1995.525827](https://doi.org/10.1109/iros.1995.525827)

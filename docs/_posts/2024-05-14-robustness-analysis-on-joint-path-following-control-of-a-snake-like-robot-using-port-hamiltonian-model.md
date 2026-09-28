@@ -43,6 +43,7 @@ This paper discusses a path-following control of joint angles of a planar snake 
 [Download the bib file]({{ site.baseurl }}/assets/bib/robustness-analysis-on-joint-path-following-control-of-a-snake-like-robot-using-port-hamiltonian-model.bib)
  
 ## References
+- [1] S. Hirose: Biologically Inspired Robots: Snake-like Locomotor and Manipulator, Oxford University Press (1993)
 - Hirose S. JRSJ 28, 151–155 (2010) -- [10.7210/jrsj.28.151](https://doi.org/10.7210/jrsj.28.151)
 - Kamegawa, T. Snake Robot Moving with Helicoidal Motion Along a Pipe. JRSJ 40, 288–293 (2022) -- [10.7210/jrsj.40.288](https://doi.org/10.7210/jrsj.40.288)
 - Kamegawa, T. & Matsuno, F. Development of a Remote-controlled Double Headed Snake-like Rescue Robot KOHGA. Journal of the Robotics Society of Japan 25, 1074–1081 (2007) -- [10.7210/jrsj.25.1074](https://doi.org/10.7210/jrsj.25.1074)
@@ -51,7 +52,11 @@ This paper discusses a path-following control of joint angles of a planar snake 
 - Liljeback, P., Pettersen, K. Y., Stavdahl, Ø. & Gravdahl, J. T. Controllability and Stability Analysis of Planar Snake Robot Locomotion. IEEE Trans. Automat. Contr. 56, 1365–1380 (2011) -- [10.1109/tac.2010.2088830](https://doi.org/10.1109/tac.2010.2088830)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ferguson, J., Donaire, A. & Middleton, R. H. Kinetic-Potential Energy Shaping for Mechanical Systems With Applications to Tracking. IEEE Control Syst. Lett. 3, 960–965 (2019) -- [10.1109/lcsys.2019.2919842](https://doi.org/10.1109/lcsys.2019.2919842)
+- [10] 大倉, 藤本, 斎藤, 池田: 人と機械のインタラクションを考慮に入れたポートハミルトン系の経路追従制御について; 自動制御連合講演会講演論文集, Vol. 59, pp. 874–878 (2016)
 - [FUJIMOTO, K., SAKURAMA, K. & SUGIE, T. Trajectory Tracking Control of Port-Controlled Hamiltonian Systems via Generalized Canonical Transformations. T. SICE 37, 741–747 (2001)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations0) -- [10.9746/sicetr1965.37.741](https://doi.org/10.9746/sicetr1965.37.741)
+- [12] 藤本, 谷口: ポート・ハミルトニアン系の漸近的経路追従制御; 計測自動制御学会論文集, Vol. 46, No. 2, pp. 83–90 (2010)
+- [13] 大倉, 藤本, 斎藤, 池田: 一般化正準変換を用いたポートハミルトン系の経路追従制御のためのポテンシャル関数の設計; 計測自動制御学会論文集, Vol. 54, No. 11, pp. 812–820 (2018)
+- [14] 谷口, 藤本: 時変の経路に対するポート・ハミルトン系の経路追従制御; 計測自動制御学会論文集, Vol. 47, No. 3, pp. 141–149 (2011)
 - [Taniguchi, M. & Fujimoto, K. Time-varying path following control for port-Hamiltonian systems. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 3323–3328 (2009) doi:10.1109/cdc.2009.5400011](time-varying-path-following-control-for-port-hamiltonian-systems) -- [10.1109/cdc.2009.5400011](https://doi.org/10.1109/cdc.2009.5400011)
 - [Ariizumi, R., Imagawa, Y., Asai, T. & Azuma, S. Port-controlled Hamiltonian based control of snake robots. Artif Life Robotics 27, 255–263 (2022)](port-controlled-hamiltonian-based-control-of-snake-robots) -- [10.1007/s10015-022-00741-2](https://doi.org/10.1007/s10015-022-00741-2)
 - Ariizumi, R. & Matsuno, F. Dynamic Analysis of Three Snake Robot Gaits. IEEE Trans. Robot. 33, 1075–1087 (2017) -- [10.1109/tro.2017.2704581](https://doi.org/10.1109/tro.2017.2704581)

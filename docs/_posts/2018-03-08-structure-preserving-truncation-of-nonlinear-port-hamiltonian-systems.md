@@ -59,7 +59,8 @@ In this paper, we present a novel balancing method for nonlinear port Hamiltonia
 - polyuga, Structure preserving model reduction of port-Hamiltonian systems. Proc Int Symp Math Theory Netw Syst (2008)
 - [Ionescu, T. C. & Astolfi, A. Families of moment matching based, structure preserving approximations for linear port Hamiltonian systems. Automatica vol. 49 2424–2434 (2013)](families-of-moment-matching-based-structure-preserving-approximations-for-linear-port-hamiltonian-systems) -- [10.1016/j.automatica.2013.05.006](https://doi.org/10.1016/j.automatica.2013.05.006)
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica vol. 48 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
-- maschke, Port-controlled Hamiltonian systems: Modeling origins and system-theoretic properties. Proc IFAC Symp Nonlinear Contr Syst Des (1991)
+- maschke, Port-controlled Hamiltonian systems: Modeling origins and system-theoretic
+ properties. Proc IFAC Symp Nonlinear Contr Syst Des (1991)
 - ionescu, Moment matching for nonlinear port Hamiltonian and gradient systems. Proc 9th IFAC Symp Nonlinear Control Syst (2013)
 - kawano, Structure preserving truncation for linear port Hamiltonian systems. Proc Int Symp Math Theory Netw Syst (2016)
 - Milnor, J. Morse Theory. (AM-51). (1963) doi:10.1515/9781400881802 -- [10.1515/9781400881802](https://doi.org/10.1515/9781400881802)

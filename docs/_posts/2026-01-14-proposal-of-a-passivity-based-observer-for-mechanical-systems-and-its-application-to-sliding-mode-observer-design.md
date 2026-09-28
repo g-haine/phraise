@@ -55,4 +55,5 @@ This paper proposes a novel passivity-based full-order observer for mechanical p
 - Moreno JA, Osorio M (2008) A Lyapunov approach to second-order sliding mode controllers and observers. 2008 47th IEEE Conference on Decision and Control 2856–286 -- [10.1109/cdc.2008.4739356](https://doi.org/10.1109/cdc.2008.4739356)
 - Shtessel Y, Edwards C, Fridman L, Levant A (2014) Sliding Mode Control and Observation. Springer New Yor -- [10.1007/978-0-8176-4893-0](https://doi.org/10.1007/978-0-8176-4893-0)
 - Pettersson S, Lennartson B (1997) Controller design of hybrid systems. Lecture Notes in Computer Science 240–25 -- [10.1007/bfb0014729](https://doi.org/10.1007/bfb0014729)
+- [13] D. R. Yoerger and J.-J. E. Slotine: Adaptive sliding control of an experimental underwater vehicle; Proceedings. 1991 IEEE International Conference on Robotics and Automation, Vol. 3, pp. 2746–2751 (1991)
 

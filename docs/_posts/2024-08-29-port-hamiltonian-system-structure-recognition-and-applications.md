@@ -43,9 +43,18 @@ In this paper, we continue to consider the problem of recovering the port-Hamilt
  
 ## References
 - Salnikov, V., Hamdouni, A. & Loziienko, D. Generalized and graded geometry for mechanics: a comprehensive introduction. Math. Mech. Compl. Sys. 9, 59–75 (2021) -- [10.2140/memocs.2021.9.59](https://doi.org/10.2140/memocs.2021.9.59)
+- Salnikov V., Hamdouni A. Geometric integrators in mechanics: The need for computer algebra tools, Tr. Tret’ei Mezhdun. Konf. “Computer algebra” (Proc. 3rd Int. Conf. Computer Algebra), Moscow, 2019.
 - [Salnikov, V. N. & Hamdouni, A. Differential Geometry and Mechanics: A Source for Computer Algebra Problems. Program Comput Soft 46, 126–132 (2020)](differential-geometry-and-mechanics-a-source-for-computer-algebra-problems) -- [10.1134/s0361768820020097](https://doi.org/10.1134/s0361768820020097)
 - [Salnikov, V., Falaize, A. & Lozienko, D. Learning port-Hamiltonian Systems—Algorithms. Comput. Math. and Math. Phys. 63, 126–134 (2023)](learning-port-hamiltonian-systems-algorithms) -- [10.1134/s0965542523010104](https://doi.org/10.1134/s0965542523010104)
+- Paynter H.M. Analysis and Design of Engineering Systems // MIT Press, Cambridge, Massachusetts, 1961.
+- A. van der Schaft. Port-Hamiltonian systems: an introductory survey // Proceedings of the International Congress of Mathematicians, Madrid, 2006.
+- Sage Manifolds – Differential geometry and tensor calculus with SageMath, https://sagemanifolds.obspm.fr
+- Falaize A. Modélisation, simulation, génération de code et correction de systèmes multi-physiques audios: Approche par réseau de composants et formulation hamiltonienne à ports, // PhD thesis, Télécommunication et Électronique de Paris, Université Pierre et Marie Curie, 2016.
+- Modeling, simulation and code-generation of multiphysical Port-Hamiltonian Systems in Python: https://github.com/pyphs/pyphs
+- Edler D., Holmgren A. Rosvall M., Infomap – Network community detection using the MapEquation framework, https://www.mapequation.org/infomap/
+- Hairer E., Lubich C., Wanner G., Geometric Numerical Integration // Springer Series in Computational Mathematics, 2006.
 - Razafindralandy, D., Hamdouni, A. & Chhay, M. A review of some geometric integrators. Adv. Model. and Simul. in Eng. Sci. 5, (2018) -- [10.1186/s40323-018-0110-y](https://doi.org/10.1186/s40323-018-0110-y)
 - Razafindralandy, D., Salnikov, V., Hamdouni, A. & Deeb, A. Some robust integrators for large time dynamics. Adv. Model. and Simul. in Eng. Sci. 6, (2019) -- [10.1186/s40323-019-0130-2](https://doi.org/10.1186/s40323-019-0130-2)
 - Cosserat, O. Symplectic groupoids for Poisson integrators. Journal of Geometry and Physics 186, 104751 (2023) -- [10.1016/j.geomphys.2023.104751](https://doi.org/10.1016/j.geomphys.2023.104751)
+- Cosserat O., Laurent-Gengoux C., Salnikov V. // Numerical Methods in Poisson Geometry and their Application to Mechanics, Preprint: arXiv:2303.15883.
 

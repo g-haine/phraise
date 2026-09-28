@@ -45,6 +45,7 @@ In this article, we propose a mathematical model using the port-Hamiltonian form
 ## References
 - Froelich, R. & Papapoff, H. Reaction wheel attitude control for space vehicles. IRE Transactions on Automatic Control vol. 4 139–149 (1959) -- [10.1109/tac.1959.1104897](https://doi.org/10.1109/tac.1959.1104897)
 - Dertouzos, M. L. & Roberge, J. K. High-Capacity Reaction-Wheel Attitude Control. IEEE Transactions on Applications and Industry vol. 83 99–104 (1964) -- [10.1109/tai.1964.5407772](https://doi.org/10.1109/tai.1964.5407772)
+- Macala, G.A. (2002, January 27–30). Design of the reaction wheel attitude control system for the Cassini spacecraft. Proceedings of the 12th AAS/AIAA Space Flight Mechanics Meeting, San Antonio, TX, USA.
 - Ismail, Z. & Varatharajoo, R. A study of reaction wheel configurations for a 3-axis satellite attitude control. Advances in Space Research vol. 45 750–759 (2010) -- [10.1016/j.asr.2009.11.004](https://doi.org/10.1016/j.asr.2009.11.004)
 - Marsh, H. C., Karpenko, M. & Gong, Q. Relationships Between Maneuver Time and Energy for Reaction Wheel Attitude Control. Journal of Guidance, Control, and Dynamics vol. 41 335–348 (2018) -- [10.2514/1.g002843](https://doi.org/10.2514/1.g002843)
 - King, J. T. Increasing agility in orthogonal reaction wheel attitude control systems. Acta Astronautica vol. 177 673–683 (2020) -- [10.1016/j.actaastro.2020.08.027](https://doi.org/10.1016/j.actaastro.2020.08.027)
@@ -55,7 +56,10 @@ In this article, we propose a mathematical model using the port-Hamiltonian form
 - Wiśniewski, R. & Blanke, M. Fully magnetic attitude control for spacecraft subject to gravity gradient. Automatica vol. 35 1201–1214 (1999) -- [10.1016/s0005-1098(99)00021-7](https://doi.org/10.1016/s0005-1098(99)00021-7)
 - Santoni, F. & Zelli, M. Passive magnetic attitude stabilization of the UNISAT-4 microsatellite. Acta Astronautica vol. 65 792–803 (2009) -- [10.1016/j.actaastro.2009.03.012](https://doi.org/10.1016/j.actaastro.2009.03.012)
 - Desouky, M. A. A. & Abdelkhalik, O. Improved Spacecraft Magnetic Attitude Maneuvering. Journal of Spacecraft and Rockets vol. 56 1611–1623 (2019) -- [10.2514/1.a34452](https://doi.org/10.2514/1.a34452)
+- Maynard, R.S. (1988). Fluidic Momentum Controller. (4,776,541), US Patent.
 - Varatharajoo, R., Kahle, R. & Fasoulas, S. Approach for Combining Spacecraft Attitude and Thermal Control Systems. Journal of Spacecraft and Rockets vol. 40 657–664 (2003) -- [10.2514/2.6914](https://doi.org/10.2514/2.6914)
+- Shan, X., Chen, X., Geng, Y., and Zhang, S. (2011, January 21–23). Small satellite attitude control based on mechanically-pumped fluid loops. Proceedings of the 2011 6th IEEE Conference on Industrial Electronics and Applications, Beijing, China.
+- Kelly, A., Mc Chesney, C., Smith, P., and Waltena, S. (2004). A Performance Test of a Fluidic Momentum Controller in Three Axes. NASA Report, The University of Texas at Austin.
 - Kumar, K. D. Satellite attitude stabilization using fluid rings. Acta Mechanica vol. 208 117–131 (2009) -- [10.1007/s00707-008-0132-5](https://doi.org/10.1007/s00707-008-0132-5)
 - Nobari, N. & Misra, A. Satellite Attitude Stabilization Using Four Fluid Rings in a Pyramidal Configuration. AIAA/AAS Astrodynamics Specialist Conference (2010) doi:10.2514/6.2010-7652 -- [10.2514/6.2010-7652](https://doi.org/10.2514/6.2010-7652)
 - Nobari, N. A. & Misra, A. K. A hybrid attitude controller consisting of electromagnetic torque rods and an active fluid ring. Acta Astronautica vol. 94 470–479 (2014) -- [10.1016/j.actaastro.2012.12.012](https://doi.org/10.1016/j.actaastro.2012.12.012)
@@ -72,9 +76,16 @@ In this article, we propose a mathematical model using the port-Hamiltonian form
 - [Beattie, C. A., Mehrmann, V. & Van Dooren, P. Robust port-Hamiltonian representations of passive systems. Automatica vol. 100 182–186 (2019)](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)
 - Battin, R. H. An Introduction to the Mathematics and Methods of Astrodynamics, Revised Edition. (1999) doi:10.2514/4.861543 -- [10.2514/4.861543](https://doi.org/10.2514/4.861543)
 - Junkins, J. L. & Schaub, H. Analytical Mechanics of Space Systems, Second Edition. (2009) doi:10.2514/4.867231 -- [10.2514/4.867231](https://doi.org/10.2514/4.867231)
+- Nelson, R.C. (1998). Flight Stability and Automatic Control, WCB/McGraw Hill.
+- Junkins, J.L., and Turner, J.D. (2012). Optimal Spacecraft Rotational Maneuvers, Elsevier.
+- Van Der Schaft, A. (2006, January 27–30). Port-Hamiltonian systems: An introductory survey. Proceedings of the International Congress of Mathematicians, Madrid, Spain.
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- Taylor, J.R. (2005). Classical Mechanics, University Science Books.
+- Yunus, A.C. (2010). Fluid Mechanics: Fundamentals And Applications (Si Units), Tata McGraw Hill Education Private Limited.
 - Wang, C. et al. Optimal design of multistage centrifugal pump based on the combined energy loss model and computational fluid dynamics. Applied Energy vol. 187 10–26 (2017) -- [10.1016/j.apenergy.2016.11.046](https://doi.org/10.1016/j.apenergy.2016.11.046)
 - Shao, C. & Zhao, Y. Numerical study of the dimensionless characteristics and modeling experiment of a molten salt pump that transports viscous fluids. International Journal of Numerical Methods for Heat &amp; Fluid Flow vol. 27 2131–2153 (2017) -- [10.1108/hff-07-2016-0267](https://doi.org/10.1108/hff-07-2016-0267)
+- Freund, R.J., Wilson, W.J., and Sa, P. (2006). Regression Analysis, Elsevier.
 - LANDAU, L. D. & LIFSHITZ, E. M. THE EQUATIONS OF MOTION. Mechanics 1–12 (1976) doi:10.1016/b978-0-08-050347-9.50006-x -- [10.1016/b978-0-08-050347-9.50006-x](https://doi.org/10.1016/b978-0-08-050347-9.50006-x)
+- Feynman, R.P., Leighton, R.B., and Sands, M. (2011). The Feynman Lectures on Physics, Vol. I: The New Millennium Edition: Mainly Mechanics, Radiation, and Heat, Basic Books.
 

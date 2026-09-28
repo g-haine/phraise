@@ -42,6 +42,7 @@ This study evaluates the performance and robustness of a port-Hamiltonian contro
 [Download the bib file]({{ site.baseurl }}/assets/bib/evaluation-of-a-port-hamiltonian-controller-for-an-altazimutal-liquid-mirror-telescope-using-ros-and-gazebo.bib)
  
 ## References
+- E. F. Borra. “The liquid-mirror telescope as a viable astronomical tool”. In: Journal of the Royal Astronomical Society of Canada 76 (Aug. 1982), pp. 245–256. Bibcode: 1982JRASC..76..245B.
 - Borra EF (1987) Liquid mirror telescopes - Present and future. PASP 99:1229. https://doi.org/10.1086/13210 -- [10.1086/132108](https://doi.org/10.1086/132108)
 - Hickson P, Borra EF, Cabanac R, Content R, Gibson BK, Walker GAH (1994) UBC/Laval 2.7 meter liquid mirror telescope. ApJ 436:L201. https://doi.org/10.1086/18766 -- [10.1086/187667](https://doi.org/10.1086/187667)
 - Hickson P, Pfrommer T, Cabanac R, Crotts A, Johnson B, de Lapparent V, Lanzetta KM, Gromoll S, Mulrooney MK, Sivanandam S, Truax B (2007) The Large Zenith Telescope: A 6 m Liquid‐Mirror Telescope. PUBL ASTRON SOC PAC 119(854):444–455. https://doi.org/10.1086/51762 -- [10.1086/517621](https://doi.org/10.1086/517621)
@@ -60,6 +61,9 @@ This study evaluates the performance and robustness of a port-Hamiltonian contro
 - Sánchez-Montero M (2022) Automatically Annotated Dataset of a Ground Mobile Robot in Natural Environments via Gazebo Simulations. Dataset -- [10.24310/riuma.26015](https://doi.org/10.24310/riuma.26015)
 - Aksu M, Michaloski JL, Proctor FM (2018) Virtual Experimental Investigation for Industrial Robotics in Gazebo Environment. Volume 2: Advanced Manufacturin -- [10.1115/imece2018-87686](https://doi.org/10.1115/imece2018-87686)
 - van Leeuwen F (2009) The Hipparcos catalog. A&amp;A 500(1):505–506. https://doi.org/10.1051/0004-6361/20091220 -- [10.1051/0004-6361/200912202](https://doi.org/10.1051/0004-6361/200912202)
+- MF William, JG Williams, and DH Boggs. “The planetary and lunar ephemeris DE 421”. In: The Inter Planetary Network Progress Report 42.178 (Aug. 2009), pp. 1–34. Available from https://ipnpr.jpl.nasa.gov/progress_report/ 42-178/178C.pdf.
+- Brandon Rhodes. Skyfield: High precision research-grade positions for planets and Earth satellites generator. Astrophysics Source Code Library, record ascl:1907.024. July 2019. Bibcode: 2019ascl.soft07024R.
+- Foxglove Developers. MCAP: serialization-agnostic log container file format. Jan. 12, 2024. Available from https://github.com/foxglove/mcap.
 - Chang DE (2014) On the method of interconnection and damping assignment passivity-based control for the stabilization of mechanical systems. Regul Chaot Dyn 19(5):556–575. https://doi.org/10.1134/s156035471405004 -- [10.1134/s1560354714050049](https://doi.org/10.1134/s1560354714050049)
 - Montoya-Morales J-R, Guerrero-Sánchez M-E, Valencia-Palomo G, Hernández-González O, López-Estrada F-R, Félix-Herrán LC (2025) Design and experimental validation of IDA-PBC-based flight control for quadrotors. Robotica 43(7):2376–2397. https://doi.org/10.1017/s026357472510171 -- [10.1017/s0263574725101719](https://doi.org/10.1017/s0263574725101719)
 - Guerrero-Sánchez ME, Hernández-González O, Valencia-Palomo G, Mercado-Ravell DA, López-Estrada FR, Hoyo-Montaño JA (2021) Robust IDA-PBC for under-actuated systems with inertia matrix dependent of the unactuated coordinates: application to a UAV carrying a load. Nonlinear Dyn 105(4):3225–3238. https://doi.org/10.1007/s11071-021-06776- -- [10.1007/s11071-021-06776-7](https://doi.org/10.1007/s11071-021-06776-7)

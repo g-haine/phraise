@@ -56,6 +56,7 @@ Nonlinear Control; Port-Hamiltonian Systems; Output Tracking; Mechatronics
 - Fantoni, (2001)
 - FLIESS, M., LÉVINE, J., MARTIN, P. & ROUCHON, P. Flatness and defect of non-linear systems: introductory theory and examples. International Journal of Control 61, 1327–1361 (1995) -- [10.1080/00207179508921959](https://doi.org/10.1080/00207179508921959)
 - Fuchshumer, Flatness Based Control of the System ”Ball on the Wheel”. (2004)
+- K. Fujimoto, K. Sakurama, and T. Sugie. Trajectory Tracking Control of Port-Controlled Hamiltonian Systems and its Application to a Magnetic Levitation System. In 40th IEEE Conf. on Decision and Control, Florida, United States, 2001.
 - Isidori, (1999)
 - Khalil, (2002)
 - Luenberger, (1979)

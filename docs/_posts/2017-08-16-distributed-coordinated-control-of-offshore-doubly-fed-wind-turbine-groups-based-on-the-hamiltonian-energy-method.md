@@ -63,4 +63,5 @@ To support doubly fed wind turbine (DFWT) groups in offshore wind farms, this pa
 - Godsil, C. & Royle, G. Algebraic Graph Theory. Graduate Texts in Mathematics (Springer New York, 2001). doi:10.1007/978-1-4613-0163-9 -- [10.1007/978-1-4613-0163-9](https://doi.org/10.1007/978-1-4613-0163-9)
 - Chopra, N. Output Synchronization on Strongly Connected Graphs. IEEE Trans. Automat. Contr. 57, 2896–2901 (2012) -- [10.1109/tac.2012.2193704](https://doi.org/10.1109/tac.2012.2193704)
 - Li, Protocol design for output consensus of port-controlled Hamiltonian multi-agent systems. Acta Autom. Sin. (2014)
+- Khalil, H.K. (2002). Nonlinear Systems, Prentice-Hall. [3rd ed.].
 

@@ -59,6 +59,7 @@ energy storage; port-Hamiltonian systems; partial differential equations; fracti
 - HÉLIE, TH. & MATIGNON, D. DIFFUSIVE REPRESENTATIONS FOR THE ANALYSIS AND SIMULATION OF FLARED ACOUSTIC PIPES WITH VISCO-THERMAL LOSSES. Mathematical Models and Methods in Applied Sciences vol. 16 503–536 (2006) -- [10.1142/s0218202506001248](https://doi.org/10.1142/s0218202506001248)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Le Gorrec, Dissipative Boundary Control Systems with Application to Distributed Parameters Reactors. (2006)
+- D. Matignon, Asymptotic stability of the Webster-Lokshin model. In Mathematical Theory of Networks and Systems (MTNS), 2006, Kyoto, Japan. (invited session).
 - Matignon, (2009)
 - Matignon, D. & Prieur, C. Asymptotic stability of linear conservative systems when coupled with diffusive systems. ESAIM: Control, Optimisation and Calculus of Variations vol. 11 487–507 (2005) -- [10.1051/cocv:2005016](https://doi.org/10.1051/cocv:2005016)
 - Matignon, Standard diffusive systems as well-posed linear systems. International Journal of Control (2012)

@@ -43,8 +43,13 @@ A distributed port-Hamiltonian (DPH) system is a framework of boundary controls 
 [Download the bib file]({{ site.baseurl }}/assets/bib/boundary-integrability-of-multiple-stokes-dirac-structures.bib)
  
 ## References
+- van der Schaft A (2000) L2 - Gain and Passivity Techniques in Nonlinear Control. Springer London, London -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- [Duindam V, Macchelli A, Stramigioli S, Bruyninckx H (2009) Modeling and Control of Complex Physical Systems. Springer Berlin Heidelberg, Berlin, Heidelberg](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
+- I. Dorfman,
+                      Dirac Structures and Integrability of Nonlinear Evolution Equations
+                      , John Wiley, Chichester, UK, 1993.
 - [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
@@ -53,6 +58,23 @@ A distributed port-Hamiltonian (DPH) system is a framework of boundary controls 
 - Jeltsema, D. & Schaft, A. van der. Pseudo-gradient and Lagrangian boundary control system formulation of electromagnetic fields. Journal of Physics A: Mathematical and Theoretical vol. 40 11627–11643 (2007) -- [10.1088/1751-8113/40/38/013](https://doi.org/10.1088/1751-8113/40/38/013)
 - Jeltsema, D. & Van Der Schaft, A. J. Lagrangian and Hamiltonian formulation of transmission line systems with boundary energy flow. Reports on Mathematical Physics vol. 63 55–74 (2009) -- [10.1016/s0034-4877(09)00009-3](https://doi.org/10.1016/s0034-4877(09)00009-3)
 - Nishida G., NJ (2008)
+- D. Karnopp, D. Margolis, and R. Rosenberg,
+                      System Dynamics, Modeling and Simulation of Mechatronic Systems
+                      , 4th ed., Wiley, New York, 2006.
+- Olver PJ (1993) Applications of Lie Groups to Differential Equations. Springer New York, New York, NY -- [10.1007/978-1-4612-4350-2](https://doi.org/10.1007/978-1-4612-4350-2)
+- H. Flanders,
+                      Differential Forms with Applications to the Physical Sciences
+                      , Academic, New York, 1963.
+- Morita S (2001) Geometry of Differential Forms. American Mathematical Society, Providence, Rhode Island -- [10.1090/mmono/201](https://doi.org/10.1090/mmono/201)
+- D.G.B. Edelen,
+                      Applied Exterior Calculus
+                      , John Wiley, New York, 1985.
+- P. Hammond,
+                      Energy Methods in Electromagnetism
+                      , Clarendon, Oxford, 1981.
+- G. Nishida, M. Yamakita, and Z. Luo,
+                      Global boundary connection of Stokes-Dirac structures for Morse-Smale flows on compact manifolds
+                      , in Proceedings of the 17th International Symposium on Mathematical Theory of Networks and Systems, Kyoto University, Kyoto, 2006.
 - Nishida G., IFAC, Pretoria (2007)
 - Franco A.A., Vienna (2006)
 

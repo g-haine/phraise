@@ -61,6 +61,7 @@ Modeling; Design methodologies
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42, 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Gou Nishida & Yamakita, M. Distributed port hamiltonian formulation of flexible beams under large deformations. Proceedings of 2005 IEEE Conference on Control Applications, 2005. CCA 2005. 589–594 doi:10.1109/cca.2005.1507190](distributed-port-hamiltonian-formulation-of-flexible-beams-under-large-deformations) -- [10.1109/cca.2005.1507190](https://doi.org/10.1109/cca.2005.1507190)
 - Couenne, Multi-scale distributed parameter model of an adsorption column using a bond graph approach. (2005)
+- D. Eberard, L. Lefévre and B. Maschke, “Multiscale coupling in Heterogeneous Diffusion Processes: A Port-Based Approach”, Proc. Int. Conf. PhysCon 2005, Saint Petersburg, Russia, August 24–26, 2005.
 - Golo, A Hamiltonian formulation of the Timoshenko Beam Model. (2002)
 - Franco, In Multi-scale Bond graph model of the electrochemical dynamics in a fuel cell. (2006)
 - Maschke, (2005)

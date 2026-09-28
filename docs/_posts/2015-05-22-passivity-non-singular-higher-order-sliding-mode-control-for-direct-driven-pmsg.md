@@ -56,5 +56,5 @@ The paper firstly establishes a port-controlled Hamiltonian dissipation (PCHD) b
 - de angelo, Speed Control of PMSMs with Interconnection and Damping Assignment or Feedback Linearization Comments about Their Performance [C]// IEEE ISIE (2006)
 - hong-ping, Study on Inspection of the Initial Rotor Position of a PMSM Based on High-frequency Signal Injection[J] Proceedings of the CSEE (2007)
 - french, Control of Permanent Magnet Motor Drives using a New Position Estimation Technique IEEE Trans on Industry Applications (1996)
-- yan-xia, Passivity-Based Fuzzy Sliding-Mode Control System and Experiment Research for Permanent Magnet Synchronous Motors [J] Journal of System Simulation (SI004&#x2013;731X) (2007)
+- yan-xia, Passivity-Based Fuzzy Sliding-Mode Control System and Experiment Research for Permanent Magnet Synchronous Motors [J] Journal of System Simulation (SI004–731X) (2007)
 

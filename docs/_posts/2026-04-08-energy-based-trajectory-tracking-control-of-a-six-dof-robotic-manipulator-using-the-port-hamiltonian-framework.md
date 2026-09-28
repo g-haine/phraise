@@ -44,12 +44,16 @@ Structure-preserving trajectory tracking control for a six-degree-of-freedom rob
  
 ## References
 - Slotine J-JE, Weiping Li (1987) On the Adaptive Control of Robot Manipulators. The International Journal of Robotics Research 6(3):49–59. https://doi.org/10.1177/02783649870060030 -- [10.1177/027836498700600303](https://doi.org/10.1177/027836498700600303)
+- Lewis, F.L., Abdallah, C.T., and Dawson, D.M. (1993). Control of Robot Manipulators, Macmillan Publishing Company.
 - Khatib O (1987) A unified approach for motion and force control of robot manipulators: The operational space formulation. IEEE J Robot Automat 3(1):43–53. https://doi.org/10.1109/jra.1987.108706 -- [10.1109/jra.1987.1087068](https://doi.org/10.1109/jra.1987.1087068)
 - Hogan N (1985) Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control 107(1):1–7. https://doi.org/10.1115/1.314070 -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
+- Craig, J.J. (2005). Introduction to Robotics: Mechanics and Control, Pearson Prentice Hall. [3rd ed.].
+- Spong, M.W., Hutchinson, S., and Vidyasagar, M. (2005). Robot Modeling and Control, John Wiley & Sons.
 - Siciliano B, Sciavicco L, Villani L, Oriolo G (2009) Robotics. Springer Londo -- [10.1007/978-1-84628-642-1](https://doi.org/10.1007/978-1-84628-642-1)
 - (2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.91539 -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - van der Schaft A (2000) L2 - Gain and Passivity Techniques in Nonlinear Control. Springer Londo -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - PADEN B, PANJA R (1988) Globally asymptotically stable ‘PD+’ controller for robot manipulators. International Journal of Control 47(6):1697–1712. https://doi.org/10.1080/0020717880890613 -- [10.1080/00207178808906130](https://doi.org/10.1080/00207178808906130)
+- Kelly, R., Santibánez, V., and Loria, A. (2005). Control of Robot Manipulators in Joint Space, Springer.
 - [Maschke BM, Van Der Schaft AJ, Breedveld PC (1992) An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329(5):923–966. https://doi.org/10.1016/s0016-0032(92)90049-](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - [van der Schaft AJ, Maschke BM (2002) Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42(1–2):166–194. https://doi.org/10.1016/s0393-0440(01)00083-](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

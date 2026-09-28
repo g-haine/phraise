@@ -43,7 +43,9 @@ This paper discusses the way that energy and entropy can be regarded as storage 
 [Download the bib file]({{ site.baseurl }}/assets/bib/geometric-modeling-for-control-of-thermodynamic-systems.bib)
  
 ## References
+- Hermann, R. (1973). Geometry, Physics and Systems, Marcel Dekker.
 - Simoes, A. A., de Diego, D. M., Valcázar, M. L. & de León, M. The Geometry of Some Thermodynamic Systems. Springer Proceedings in Mathematics &amp; Statistics 247–275 (2021) doi:10.1007/978-3-030-77957-3_13 -- [10.1007/978-3-030-77957-3_13](https://doi.org/10.1007/978-3-030-77957-3_13)
+- Arnold, V.I. (1989, January 15–17). Contact Geometry: The Geometrical Method of Gibbs’s Thermodynamics. Proceedings of the Gibbs Symposium, New Haven, CT, USA.
 - Bravetti, A., Lopez-Monsalvo, C. S. & Nettel, F. Contact symmetries and Hamiltonian thermodynamics. Annals of Physics vol. 361 377–400 (2015) -- [10.1016/j.aop.2015.07.010](https://doi.org/10.1016/j.aop.2015.07.010)
 - Bravetti, A., Lopez-Monsalvo, C. & Nettel, F. Conformal Gauge Transformations in Thermodynamics. Entropy vol. 17 6150–6168 (2015) -- [10.3390/e17096150](https://doi.org/10.3390/e17096150)
 - de León, M. & Lainz Valcázar, M. Contact Hamiltonian systems. Journal of Mathematical Physics vol. 60 (2019) -- [10.1063/1.5096475](https://doi.org/10.1063/1.5096475)
@@ -79,6 +81,7 @@ This paper discusses the way that energy and entropy can be regarded as storage 
 - Hill, D. J. & Moylan, P. J. Dissipative Dynamical Systems: Basic Input-Output and State Properties. Journal of the Franklin Institute vol. 309 327–357 (1980) -- [10.1016/0016-0032(80)90026-5](https://doi.org/10.1016/0016-0032(80)90026-5)
 - [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Kondepudi, D. & Prigogine, I. Modern Thermodynamics. (2014) doi:10.1002/9781118698723 -- [10.1002/9781118698723](https://doi.org/10.1002/9781118698723)
+- Fermi, E. (1937). Thermodynamics, Prentice-Hall.
 - van der Schaft, A. Cyclo-Dissipativity Revisited. IEEE Transactions on Automatic Control vol. 66 2920–2924 (2021) -- [10.1109/tac.2020.3013941](https://doi.org/10.1109/tac.2020.3013941)
 - [Ramirez, H. & Le Gorrec, Y. An Overview on Irreversible Port-Hamiltonian Systems. Entropy vol. 24 1478 (2022)](an-overview-on-irreversible-port-hamiltonian-systems) -- [10.3390/e24101478](https://doi.org/10.3390/e24101478)
 - Feinberg, M. The existence and uniqueness of steady states for a class of chemical reaction networks. Archive for Rational Mechanics and Analysis vol. 132 311–370 (1995) -- [10.1007/bf00375614](https://doi.org/10.1007/bf00375614)
@@ -93,7 +96,9 @@ This paper discusses the way that energy and entropy can be regarded as storage 
 - Alonso, A. A. & Ydstie, B. E. Stabilization of distributed systems using irreversible thermodynamics. Automatica vol. 37 1739–1755 (2001) -- [10.1016/s0005-1098(01)00140-6](https://doi.org/10.1016/s0005-1098(01)00140-6)
 - [Hoang, H., Couenne, F., Jallut, C. & Le Gorrec, Y. The port Hamiltonian approach to modeling and control of Continuous Stirred Tank Reactors. Journal of Process Control vol. 21 1449–1458 (2011)](the-port-hamiltonian-approach-to-modeling-and-control-of-continuous-stirred-tank-reactors) -- [10.1016/j.jprocont.2011.06.014](https://doi.org/10.1016/j.jprocont.2011.06.014)
 - [Ferguson, J., Middleton, R. H. & Donaire, A. Disturbance rejection via control by interconnection of port-Hamiltonian systems. 2015 54th IEEE Conference on Decision and Control (CDC) 507–512 (2015) doi:10.1109/cdc.2015.7402279](disturbance-rejection-via-control-by-interconnection-of-port-hamiltonian-systems) -- [10.1109/cdc.2015.7402279](https://doi.org/10.1109/cdc.2015.7402279)
+- Maschke, B.M., and van der Schaft, A.J. (2018, January 1–4). Homogeneous Hamiltonian control systems, Part II: Application to thermodynamic systems. Proceedings of the 6th IFAC Workshop on Lagrangian and Hamiltonian Methods in Nonlinear Control, Valparaiso, Chile.
 - [van der Schaft, A. & Maschke, B. Homogeneous Hamiltonian Control Systems Part I: Geometric Formulation. IFAC-PapersOnLine vol. 51 1–6 (2018)](homogeneous-hamiltonian-control-systems-part-i-geometric-formulation) -- [10.1016/j.ifacol.2018.06.001](https://doi.org/10.1016/j.ifacol.2018.06.001)
+- Abraham, R.A., and Marsden, J.E. (1978). Foundations of Mechanics, Benjamin/Cummings. [2nd ed.].
 - Arnold, V. I. Mathematical Methods of Classical Mechanics. Graduate Texts in Mathematics (Springer New York, 1989). doi:10.1007/978-1-4757-2063-1 -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
 - Libermann, P. & Marle, C.-M. Symplectic Geometry and Analytical Mechanics. (Springer Netherlands, 1987). doi:10.1007/978-94-009-3807-6 -- [10.1007/978-94-009-3807-6](https://doi.org/10.1007/978-94-009-3807-6)
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. Feedback equivalence of input–output contact systems. Systems &amp; Control Letters vol. 62 475–481 (2013)](feedback-equivalence-of-input-output-contact-systems) -- [10.1016/j.sysconle.2013.02.008](https://doi.org/10.1016/j.sysconle.2013.02.008)

@@ -73,7 +73,7 @@ This letter introduces a new framework of nonlinear, discrete-time, boundary con
 - Moreschini. Proc. 22nd IFAC World Congr.
 - Kellogg, R. B. Uniqueness in the Schauder fixed point theorem. Proceedings of the American Mathematical Society vol. 60 207–207 (1976) -- [10.1090/s0002-9939-1976-0423137-6](https://doi.org/10.1090/s0002-9939-1976-0423137-6)
 - Mardanov, M. J., Sharifov, Y. A., Aliyev, H. & Sardarova, R. A. Existence and Uniqueness of Solutions for the First Order Non-linear Differential Equations with Multi-point Boundary Conditions. European Journal of Pure and Applied Mathematics vol. 13 414–426 (2020) -- [10.29020/nybg.ejpam.v13i3.3698](https://doi.org/10.29020/nybg.ejpam.v13i3.3698)
-- Komornik. Exact Controllability and Stabilization: The Multiplier Method (1994)
+- Komornik, Exact Controllability and Stabilization: The Multiplier Method (1994)
 - Proc. 22nd IFAC World Congr.
 - Proc. IEEE 62nd Annu. Conf. Decision Control (CDC)
 

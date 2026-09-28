@@ -42,5 +42,11 @@ The mathematical model of three-phase voltage sources Pulse Width Modulation (PW
 [Download the bib file]({{ site.baseurl }}/assets/bib/research-on-a-nonlinear-control-strategy-for-three-phase-voltage-sources-pwm-rectifier-with-resistive-and-inductive-load.bib)
  
 ## References
+- Wang jiuhe. Nonlinear Control for Voltage Source PWM Rectifier [M]. Beijing: Mechanical Industry Press, (2008).
+- Zhang Xing, ZHANG Chongwei. PWM rectifier and its control [M] Beijing: Mechanical Industry Press, (2012).
+- Shui xingxin, Xie yunxiang, Yang jinming. Optimal Control of Single-Phase Full-Bridge Inverters by State Feedback Linearization [J]. Electric technical Society, 2009, vol. 24, pp.120-126.
+- Wang jiuhe. Passivity-Based control theory and its application [M]. Beijing: Electronic Industry Press, (2010).
 - [Ortega R, van der Schaft A, Castanos F, Astolfi A (2008) Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Trans Automat Contr 53(11):2527–2542. https://doi.org/10.1109/tac.2008.200693](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
+- Wu zhongqiang, Ma baoming, Kong qixiang. Research on double-PWM converter control of wind energy based on Hamilton system [J]. 2012, vol. 40, pp.19-23, 29.
+- Teng zhaobo, Yu haisheng, Yu jinpeng. The PCH Modeling and control of PWM rectifier with resistance and inductance load [J]. Qingdao University, 2012, vol. 27, pp.36-42.
 

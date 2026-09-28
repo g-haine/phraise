@@ -60,6 +60,7 @@ Power system; Synchronous generator; Nonlinear models; Forced port-Hamiltonian s
 - Giusto, (2010)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Fiaz, Port Hamiltonian modeling of Power Networks to appear. (2012)
+- D. Zonetti, S. Fiaz, R. Ortega, D. Langarica, J.M.A. Scherpen, A.J. van der Schaft (2012). From Bond Graph to Port-Hamiltonian Model of the Full Electrical Power System to appear in Conference Internationale Francophone d'Automatique.
 - Zonetti, (2011)
 - Khalil, (2002)
 
