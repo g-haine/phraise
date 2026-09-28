@@ -41,6 +41,7 @@ In this chapter, we shall present a class of dissipative systems which correspon
 - R Abraham, Foundations of mechanics (1978)
 - C Lanczos, The variational principles of mechanics (1970)
 - Libermann, P. & Marle, C.-M. Symplectic Geometry and Analytical Mechanics. (Springer Netherlands, 1987). doi:10.1007/978-94-009-3807-6 -- [10.1007/978-94-009-3807-6](https://doi.org/10.1007/978-94-009-3807-6)
+- van der Schaft AJ (1984) System theoretical description of physical systems, CWI Tracts 3. CWI Amsterdam, Netherlands
 - [van der Schaft, A. J. System theory and mechanics. Lecture Notes in Control and Information Sciences 426–452 (1989) doi:10.1007/bfb0008472](system-theory-and-mechanics) -- [10.1007/bfb0008472](https://doi.org/10.1007/bfb0008472)
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control 103, 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
 - RM Murray, A mathematical introduction to robotic manipulation (1994)
@@ -59,9 +60,13 @@ In this chapter, we shall present a class of dissipative systems which correspon
 - [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Nijmeijer, H. & van der Schaft, A. Nonlinear Dynamical Control Systems. (Springer New York, 1990). doi:10.1007/978-1-4757-2101-0 -- [10.1007/978-1-4757-2101-0](https://doi.org/10.1007/978-1-4757-2101-0)
 - Isidori, A. Nonlinear Control Systems. Communications and Control Engineering (Springer London, 1995). doi:10.1007/978-1-84628-615-5 -- [10.1007/978-1-84628-615-5](https://doi.org/10.1007/978-1-84628-615-5)
+- Maschke BM, van der Schaft AJ (1992) Port controlled Hamiltonian systems: modeling origins and system theoretic properties. In: Proceeding 2nd IFAC symposium on nonlinear control systems design, NOLCOS’92. Bordeaux, France, pp 282–288
+- van der Schaft AJ, Maschke BM (1995) The Hamiltonian formulation of energy conserving physical systems with ports. Archiv für Elektronik und Übertragungstechnik 49(5/6):362–371
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329, 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- Maschke BM (1996) Elements on the modelling of multibody systems. In: Melchiorri C, Tornambè A (eds) Modelling and control of mechanisms and robots. World Scientific Publishing Ltd, Singapore
 - BRANIN, F. H., JR. THE NETWORK CONCEPT AS A UNIFYING PRINCIPLE IN ENGINEERING AND THE PHYSICAL SCIENCES. Problem Analysis in Science and Engineering 41–111 (1977) doi:10.1016/b978-0-12-125550-3.50007-7 -- [10.1016/b978-0-12-125550-3.50007-7](https://doi.org/10.1016/b978-0-12-125550-3.50007-7)
 - HM Paynter, Analysis and design of engineering systems (1961)
+- Breedveld PC (1984) Physical systems theory in terms of bond graphs. PhD thesis, University of Twente, Twente, Netherlands
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - Loncaric, J. Normal forms of stiffness and compliance matrices. IEEE J. Robot. Automat. 3, 567–572 (1987) -- [10.1109/jra.1987.1087148](https://doi.org/10.1109/jra.1987.1087148)
 - Fasse, E. D. & Breedveld, P. C. Modeling of Elastically Coupled Bodies: Part I—General Theory and Geometric Potential Function Method. Journal of Dynamic Systems, Measurement, and Control 120, 496–500 (1998) -- [10.1115/1.2801491](https://doi.org/10.1115/1.2801491)
@@ -75,6 +80,7 @@ In this chapter, we shall present a class of dissipative systems which correspon
 - Brogliato, B. Erratum to: Nonsmooth Mechanics. Communications and Control Engineering E1–E11 (2016) doi:10.1007/978-3-319-28664-8_9 -- [10.1007/978-3-319-28664-8_9](https://doi.org/10.1007/978-3-319-28664-8_9)
 - Brogliato, B. Some perspectives on the analysis and control of complementarity systems. IEEE Trans. Automat. Contr. 48, 918–935 (2003) -- [10.1109/tac.2003.812777](https://doi.org/10.1109/tac.2003.812777)
 - Georgescu, C., Brogliato, B. & Acary, V. Switching, relay and complementarity systems: A tutorial on their well-posedness and relationships. Physica D: Nonlinear Phenomena 241, 1985–2002 (2012) -- [10.1016/j.physd.2011.10.014](https://doi.org/10.1016/j.physd.2011.10.014)
+- Camlibel MK (2001) Complementarity methods in the analysis of piecewise linear dynamical systems. PhD thesis, Tilburg University, Katholieke Universiteit Brabant, Center for Economic Research, Netherlands
 - Imura, J. & van der Schaft, A. Characterization of well-posedness of piecewise-linear systems. IEEE Trans. Automat. Contr. 45, 1600–1619 (2000) -- [10.1109/9.880612](https://doi.org/10.1109/9.880612)
 - Imura, J. Well-posedness analysis of switch-driven piecewise affine systems. IEEE Trans. Automat. Contr. 48, 1926–1935 (2003) -- [10.1109/tac.2003.819075](https://doi.org/10.1109/tac.2003.819075)
 - Spraker, J. S. A Comparison of the Carathéodory and Filippov Solution Sets. Journal of Mathematical Analysis and Applications 198, 571–580 (1996) -- [10.1006/jmaa.1996.0099](https://doi.org/10.1006/jmaa.1996.0099)
@@ -105,15 +111,21 @@ In this chapter, we shall present a class of dissipative systems which correspon
 - Schaft, A. J. van der. Equations of motion for Hamiltonian systems with constraints. J. Phys. A: Math. Gen. 20, 3271–3277 (1987) -- [10.1088/0305-4470/20/11/030](https://doi.org/10.1088/0305-4470/20/11/030)
 - McClamroch, N. H. & Wang, D. Feedback stabilization and tracking of constrained robots. IEEE Trans. Automat. Contr. 33, 419–426 (1988) -- [10.1109/9.1220](https://doi.org/10.1109/9.1220)
 - G Campion, Advanced robot control (1990)
+- Koon WS, Marsden JE (1997) Poisson reduction for nonholonomic systems with symmetry. In: Proceeding of the workshop on nonholonomic constraints in dynamics. Calgary, CA, pp 26–29
 - Adly, S. & Goeleven, D. A stability theory for second-order nonsmooth dynamical systems with application to friction problems. Journal de Mathématiques Pures et Appliquées 83, 17–51 (2004) -- [10.1016/s0021-7824(03)00071-0](https://doi.org/10.1016/s0021-7824(03)00071-0)
 - Mabrouk, M. A unified variational model for the dynamics of perfect unilateral constraints. European Journal of Mechanics - A/Solids 17, 819–842 (1998) -- [10.1016/s0997-7538(98)80007-7](https://doi.org/10.1016/s0997-7538(98)80007-7)
 - Nonsmooth Mechanics and Applications. (Springer Vienna, 1988). doi:10.1007/978-3-7091-2624-0 -- [10.1007/978-3-7091-2624-0](https://doi.org/10.1007/978-3-7091-2624-0)
 - Ballard, P. Formulation and well-posedness of the dynamics of rigid-body systems with perfect unilateral constraints. Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences 359, 2327–2346 (2001) -- [10.1098/rsta.2001.0854](https://doi.org/10.1098/rsta.2001.0854)
 - Brogliato, B. On the control of non-smooth complementarity dynamical systems. Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences 359, 2369–2383 (2001) -- [10.1098/rsta.2001.0856](https://doi.org/10.1098/rsta.2001.0856)
+- Clarke FH (1983) Optimization and nonsmooth analysis. Wiley Interscience Publications, Canadian Mathematical Society Series of Monographs and Advanced Texts, Canada
+- Monteiro-Marques MDP (1993) Differential inclusions in nonsmooth mechanical problems. Shocks and dry friction. Progress in nonlinear differential equations and their applications. Birkhauser, Basel
 - Kunze, M. & Marques, M. D. P. M. An Introduction to Moreau’s Sweeping Process. Lecture Notes in Physics 1–60 (2000) doi:10.1007/3-540-45501-9_1 -- [10.1007/3-540-45501-9_1](https://doi.org/10.1007/3-540-45501-9_1)
 - Kunze, M. & Marques, M. D. P. M. An Introduction to Moreau’s Sweeping Process. Lecture Notes in Physics 1–60 (2000) doi:10.1007/3-540-45501-9_1 -- [10.1007/3-540-45501-9_1](https://doi.org/10.1007/3-540-45501-9_1)
+- (ed) Impacts in mechanical systems. Analysis and modelling. Lecture notes in physics, vol 551, pp 1-60. Springer, Berlin; Proceeding of the Euromech Colloquium, vol 397, Grenoble, France, June-July 1999
 - Lötstedt, P. Mechanical Systems of Rigid Bodies Subject to Unilateral Constraints. SIAM J. Appl. Math. 42, 281–296 (1982) -- [10.1137/0142022](https://doi.org/10.1137/0142022)
+- Dieudonné J (1969) Eléments d’Analyse, vol 2. Gauthier-Villars
 - Hiriart-Urruty, J.-B. & Lemaréchal, C. Fundamentals of Convex Analysis. (Springer Berlin Heidelberg, 2001). doi:10.1007/978-3-642-56468-0 -- [10.1007/978-3-642-56468-0](https://doi.org/10.1007/978-3-642-56468-0)
 - Moreau, J. J. & Valadier, M. A chain rule involving vector functions of bounded variation. Journal of Functional Analysis 74, 333–345 (1987) -- [10.1016/0022-1236(87)90029-2](https://doi.org/10.1016/0022-1236(87)90029-2)
 - W Rudin, Analyse Réelle et Complexe (1998)
+- Cottle RW, Pang JS, Stone RE (1992) The linear complementarity problem. Academic Press, Cambridge
 
