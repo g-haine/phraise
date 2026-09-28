@@ -55,11 +55,14 @@ Transient gas network simulations can significantly assist in design and operati
 - [Hauschild, S.-A. & Marheineke, N. Extended Group Finite Element Method for a port‐Hamiltonian Formulation of the Non‐Isothermal Euler Equations. Proc Appl Math &amp; Mech 21, (2021)](extended-group-finite-element-method-for-a-port-hamiltonian-formulation-of-the-non-isothermal-euler-equations) -- [10.1002/pamm.202100032](https://doi.org/10.1002/pamm.202100032)
 - [Hauschild, S. & Marheineke, N. Structure‐preserving methods for a coupled port‐Hamiltonian system of compressible non‐isothermal fluid flow. Proc Appl Math and Mech 23, (2023)](structure-preserving-methods-for-a-coupled-port-hamiltonian-system-of-compressible-non-isothermal-fluid-flow) -- [10.1002/pamm.202300012](https://doi.org/10.1002/pamm.202300012)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. FnT in Systems and Control 1, 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
+- R.Morandin “Modeling and Numerical Treatment of Port‐Hamiltonian Descriptor Systems ” (PhD thesis Technische Universität Berlin 2024).
 - Zlotnik, A., Chertkov, M. & Backhaus, S. Optimal control of transient flow in natural gas networks. 2015 54th IEEE Conference on Decision and Control (CDC) 4563–4570 (2015) doi:10.1109/cdc.2015.7402932 -- [10.1109/cdc.2015.7402932](https://doi.org/10.1109/cdc.2015.7402932)
 - Walther T., Modelling Compressor Stations in Gas Networks (2017)
 - Sundar, K. & Zlotnik, A. State and Parameter Estimation for Natural Gas Pipeline Networks Using Transient State Data. IEEE Trans. Contr. Syst. Technol. 27, 2110–2124 (2019) -- [10.1109/tcst.2018.2851507](https://doi.org/10.1109/tcst.2018.2851507)
 - El-Sayed, A. F. Centrifugal and Axial Compressors. Fundamentals of Aircraft and Rocket Propulsion 703–838 (2016) doi:10.1007/978-1-4471-6796-9_9 -- [10.1007/978-1-4471-6796-9_9](https://doi.org/10.1007/978-1-4471-6796-9_9)
 - Brown R. N., Compressors: Selection and Sizing (2005)
 - Chaczykowski, M. Sensitivity of pipeline gas flow model to the selection of the equation of state. Chemical Engineering Research and Design 87, 1596–1603 (2009) -- [10.1016/j.cherd.2009.06.008](https://doi.org/10.1016/j.cherd.2009.06.008)
+- G.Guennebaud B.Jacob et al. Eigen2010.
+- S.Agarwal K.Mierle et al. Ceres Solver(2023).
 - [Bendokat, T., Benner, P., Grundel, S. & Nayak, A. S. Modelling Gas Networks with Compressors: A port‐Hamiltonian Approach. Proc Appl Math and Mech 24, (2024)](modelling-gas-networks-with-compressors-a-port-hamiltonian-approach) -- [10.1002/pamm.202400164](https://doi.org/10.1002/pamm.202400164)
 

@@ -43,6 +43,7 @@ A solution to the stabilization problem of a compact set by means of the Interco
 [Download the bib file]({{ site.baseurl }}/assets/bib/a-limit-set-stabilization-by-means-of-the-port-hamiltonian-system-approach.bib)
  
 ## References
+- PaganoD AracilJ GordilloF.Autonomous oscillation generation in the boost converter.Proceedings of the 16th IFAC World Congress Czech Republic 2005;1799–1804.
 - Albea, C., Canudas-de-Wit, C. & Gordillo, F. Adaptive Control of the Boost DC-AC Converter. 2007 IEEE International Conference on Control Applications 611–616 (2007) doi:10.1109/cca.2007.4389299 -- [10.1109/cca.2007.4389299](https://doi.org/10.1109/cca.2007.4389299)
 - Aracil, J., Gordillo, F. & Ponce, E. Stabilization of oscillations through backstepping in high-dimensional systems. IEEE Transactions on Automatic Control vol. 50 705–710 (2005) -- [10.1109/tac.2005.847038](https://doi.org/10.1109/tac.2005.847038)
 - Biel, D., Fossas, E., Guinjoan, F., Alarcon, E. & Poveda, A. Application of sliding-mode control to the design of a buck-based sinusoidal generator. IEEE Transactions on Industrial Electronics vol. 48 563–571 (2001) -- [10.1109/41.925583](https://doi.org/10.1109/41.925583)
@@ -50,6 +51,8 @@ A solution to the stabilization problem of a compact set by means of the Interco
 - Tocci R, Digital Systems: Principles and Applications (1988)
 - Rao S, Mechanical Vibrations (1995)
 - Shigley J, Mechanical Engineering Design (1989)
+- FradkovA.Nonlinear adaptive control: regulation tracking oscillations.Proceedings of 1st IFAC Workshop New Trends in Design of Control Systems. Smolenice Trnava Slovakia 1994;426–431.
+- FradkovA GuzenkoP HillD PogromskyA.Speed gradient control and passivity of nonlinear oscillators.Proceedings of IFAC Symposium on Control of Nonlinear Systems Lake Tahoe Nevada 1995;655–659.
 - FRADKOV, A. L. Swinging control of nonlinear oscillations. International Journal of Control vol. 64 1189–1202 (1996) -- [10.1080/00207179608921682](https://doi.org/10.1080/00207179608921682)
 - Andrievsky B, Control of nonlinear oscillation of mechanical systems by speed‐gradient method. Automation and Remote Control (1996)
 - Fradkov A, Control of oscillations in hamiltonian systems. Systems (1997)
@@ -62,6 +65,7 @@ A solution to the stabilization problem of a compact set by means of the Interco
 - Shiriaev A, Nonlinear Control Systems 2004: A Proceedings volume from the 6th IFAC Symposium, Stuttgart, Germany, 1‐3 September 2004 (2005)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
 - Ortega R, 43rd IEEE Conference on Decision and Control, 2004. CDC (2004)
+- Garcia‐CansecoE PasumarthyR van der SchaftA OrtegaR.On control by interconnection of port hamiltonian systems.16th IFAC World Congress Czech Republic 2005;708–713.
 - Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
 - Blankenstein, G., Ortega, R. & Van Der Schaft, A. J. The matching conditions of controlled Lagrangians and IDA-passivity based control. International Journal of Control vol. 75 645–665 (2002) -- [10.1080/00207170210135939](https://doi.org/10.1080/00207170210135939)
 - D. Mahindrakar, A., Astolfi, A., Ortega, R. & Viola, G. Further constructive results on interconnection and damping assignment control of mechanical systems: the Acrobot example. International Journal of Robust and Nonlinear Control vol. 16 671–685 (2006) -- [10.1002/rnc.1088](https://doi.org/10.1002/rnc.1088)
@@ -76,6 +80,7 @@ A solution to the stabilization problem of a compact set by means of the Interco
 - Marquez HJ, Nonlinear Control System Analysis and Design (2003)
 - Ghaffari, A., Tomizuka, M. & Soltan, R. A. The stability of limit cycles in nonlinear systems. Nonlinear Dynamics vol. 56 269–275 (2008) -- [10.1007/s11071-008-9398-3](https://doi.org/10.1007/s11071-008-9398-3)
 - Ortega R, Some Applications and Extensions of Interconection and Damping Assigment Passivity‐based Control (2003)
+- MahindrakarA SankaranarayananV.Nonlinear control of a beam‐balance system with a single electromagnet.Proceedings of the International Conference on Advances in Control and Optimization of Dynamical Systems ACODS2007 Bangalore India 2007;340–343.
 - Mahindrakar, A. D. & Sankaranarayanan, V. State‐constrained stabilization of beam‐balance systems. International Journal of Robust and Nonlinear Control vol. 18 333–350 (2007) -- [10.1002/rnc.1227](https://doi.org/10.1002/rnc.1227)
 - Sira-Ramírez, H. Differentially Flat Systems. (CRC Press, 2004). doi:10.1201/9781482276640 -- [10.1201/9781482276640](https://doi.org/10.1201/9781482276640)
 

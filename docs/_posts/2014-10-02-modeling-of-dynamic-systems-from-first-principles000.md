@@ -42,7 +42,9 @@ bond graph, differential algebra, differential algebraic equation, modeling lang
 [Download the bib file]({{ site.baseurl }}/assets/bib/modeling-of-dynamic-systems-from-first-principles000.bib)
  
 ## References
+- Brenan KE, Campbell SL, Petzold LR (1987) Numerical solution of initial-value problems in differential-algebraic equations. Classics in applied mathematics (Book 14). SIAM, Philadelphia
 - Modeling and control of complex physical systems: the Port-Hamiltonian approach (2009)
+- Fritzson P (2000) Principles of object-oriented modeling and simulation with Modelica 2.1. IEEE/Wiley Interscience, Piscataway NJ
 - Gerdin, M., Schön, T. B., Glad, T., Gustafsson, F. & Ljung, L. On parameter and state estimation for linear differential–algebraic equations. Automatica 43, 416–425 (2007) -- [10.1016/j.automatica.2006.09.016](https://doi.org/10.1016/j.automatica.2006.09.016)
 - Kunkel, P. & Mehrmann, V. Differential-Algebraic Equations. EMS Textbooks in Mathematics (2006) doi:10.4171/017 -- [10.4171/017](https://doi.org/10.4171/017)
 - Ljung, L. & Glad, T. On global identifiability for arbitrary model parametrizations. Automatica 30, 265–276 (1994) -- [10.1016/0005-1098(94)90029-9](https://doi.org/10.1016/0005-1098(94)90029-9)

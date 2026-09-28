@@ -44,7 +44,7 @@ Using a structure preserving observer, a dynamic output controller is proposed f
  
 ## References
 - Atassi, A. N. & Khalil, H. K. A separation principle for the stabilization of a class of nonlinear systems. IEEE Transactions on Automatic Control vol. 44 1672–1687 (1999) -- [10.1109/9.788534](https://doi.org/10.1109/9.788534)
-- Khalil HK. Nonlinear Control (2015)
+- Khalil HK, Nonlinear Control (2015)
 - Li, J., Qian, C. & Frye, M. T. A dual‐observer design for global output feedback stabilization of nonlinear systems with low‐order and high‐order nonlinearities. International Journal of Robust and Nonlinear Control vol. 19 1697–1720 (2008) -- [10.1002/rnc.1401](https://doi.org/10.1002/rnc.1401)
 - Yang, B. & Lin, W. Further results on global stabilization of uncertain nonlinear systems by output feedback. International Journal of Robust and Nonlinear Control vol. 15 247–268 (2005) -- [10.1002/rnc.985](https://doi.org/10.1002/rnc.985)
 - Krener, A. J. & Xiao, M. Nonlinear Observer Design in the Siegel Domain. SIAM Journal on Control and Optimization vol. 41 932–953 (2002) -- [10.1137/s0363012900375330](https://doi.org/10.1137/s0363012900375330)
@@ -61,8 +61,8 @@ Using a structure preserving observer, a dynamic output controller is proposed f
 - [Romero, J. G., Ortega, R. & Sarras, I. A Globally Exponentially Stable Tracking Controller for Mechanical Systems Using Position Feedback. IEEE Transactions on Automatic Control vol. 60 818–823 (2015)](a-globally-exponentially-stable-tracking-controller-for-mechanical-systems-using-position-feedback) -- [10.1109/tac.2014.2330701](https://doi.org/10.1109/tac.2014.2330701)
 - [Yaghmaei, A. & Yazdanpanah, M. J. Trajectory tracking of a class of port Hamiltonian systems using Timed IDA-PBC technique. 2015 54th IEEE Conference on Decision and Control (CDC) 5037–5042 (2015) doi:10.1109/cdc.2015.7403007](trajectory-tracking-of-a-class-of-port-hamiltonian-systems-using-timed-ida-pbc-technique) -- [10.1109/cdc.2015.7403007](https://doi.org/10.1109/cdc.2015.7403007)
 - LOHMILLER, W. & SLOTINE, J.-J. E. On Contraction Analysis for Non-linear Systems. Automatica vol. 34 683–696 (1998) -- [10.1016/s0005-1098(98)00019-3](https://doi.org/10.1016/s0005-1098(98)00019-3)
-- Khalil HK. Nonlinear Systems (2002)
-- Isidori A. Lectures in Feedback Design for Multivariable Systems (2016)
+- Khalil HK, Nonlinear Systems (2002)
+- Isidori A, Lectures in Feedback Design for Multivariable Systems (2016)
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Transactions on Automatic Control vol. 47 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
 - Controlling a ball and wheel system using full-state-feedback linearization [Focus on Education]. IEEE Control Systems vol. 29 93–101 (2009) -- [10.1109/mcs.2009.934085](https://doi.org/10.1109/mcs.2009.934085)

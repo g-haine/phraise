@@ -49,7 +49,7 @@ The uniform exponential stabilities (UESs) of two hybrid control systems compris
 - Terrand-Jeanne, A., Andrieu, V., Tayakout-Fayolle, M. & Dos Santos Martins, V. Regulation of Inhomogeneous Drilling Model With a P-I Controller. IEEE Transactions on Automatic Control vol. 65 58–71 (2020) -- [10.1109/tac.2019.2907792](https://doi.org/10.1109/tac.2019.2907792)
 - Vanspranghe, N., Ferrante, F. & Prieur, C. Velocity Stabilization of a Wave Equation With a Nonlinear Dynamic Boundary Condition. IEEE Transactions on Automatic Control vol. 67 6786–6793 (2022) -- [10.1109/tac.2021.3136086](https://doi.org/10.1109/tac.2021.3136086)
 - DOI not foun -- [10.1007/s10444-004-7629-9](https://doi.org/10.1007/s10444-004-7629-9)
-- Kress R.. Numerical analysis graduate texts in mathematics (1998)
+- Kress R., Numerical analysis graduate texts in mathematics (1998)
 - Guo, B.-Z. & Xu, B.-B. A semi-discrete finite difference method to uniform stabilization of wave equation with local viscosity. IFAC Journal of Systems and Control vol. 13 100100 (2020) -- [10.1016/j.ifacsc.2020.100100](https://doi.org/10.1016/j.ifacsc.2020.100100)
 - Liu, J. & Guo, B.-Z. A New Semidiscretized Order Reduction Finite Difference Scheme for Uniform Approximation of One-Dimensional Wave Equation. SIAM Journal on Control and Optimization vol. 58 2256–2287 (2020) -- [10.1137/19m1246535](https://doi.org/10.1137/19m1246535)
 - Liu, J. & Guo, B.-Z. A novel semi-discrete scheme preserving uniformly exponential stability for an Euler–Bernoulli beam. Systems &amp; Control Letters vol. 134 104518 (2019) -- [10.1016/j.sysconle.2019.104518](https://doi.org/10.1016/j.sysconle.2019.104518)
@@ -69,7 +69,7 @@ The uniform exponential stabilities (UESs) of two hybrid control systems compris
 - Guo, B.-Z. & Zheng, F. Uniform Exponential Stability for a Schrödinger Equation and Its Semidiscrete Approximation. IEEE Transactions on Automatic Control vol. 69 8900–8907 (2024) -- [10.1109/tac.2024.3419847](https://doi.org/10.1109/tac.2024.3419847)
 - [Wang, X., Xue, W., He, Y. & Zheng, F. Uniformly exponentially stable approximations for Timoshenko beams. Applied Mathematics and Computation vol. 451 128028 (2023)](uniformly-exponentially-stable-approximations-for-timoshenko-beams) -- [10.1016/j.amc.2023.128028](https://doi.org/10.1016/j.amc.2023.128028)
 - [Jacob, B. & Zwart, H. J. Linear Port-Hamiltonian Systems on Infinite-Dimensional Spaces. (Springer Basel, 2012). doi:10.1007/978-3-0348-0399-1](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
-- Liu Z. Y.. Semigroups associated with dissipative systems (1999)
+- Liu Z. Y., Semigroups associated with dissipative systems (1999)
 - Abdallah, F., Nicaise, S., Valein, J. & Wehbe, A. Uniformly exponentially or polynomially stable approximations for second order evolution equations and some applications. ESAIM: Control, Optimisation and Calculus of Variations vol. 19 844–887 (2013) -- [10.1051/cocv/2012036](https://doi.org/10.1051/cocv/2012036)
 - DOI not foun -- [10.1090/s0025-5718-98-00915-6](https://doi.org/10.1090/s0025-5718-98-00915-6)
 

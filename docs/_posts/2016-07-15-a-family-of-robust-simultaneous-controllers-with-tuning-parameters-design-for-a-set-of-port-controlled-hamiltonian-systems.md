@@ -46,6 +46,7 @@ This paper investigates the robust simultaneous stabilization (RSS) and robust a
 - Doyle, J. C., Glover, K., Khargonekar, P. P. & Francis, B. A. State-space solutions to standard H/sub 2/ and H/sub infinity / control problems. IEEE Trans. Automat. Contr. 34, 831–847 (1989) -- [10.1109/9.29425](https://doi.org/10.1109/9.29425)
 - Isidori, A. & Astolfi, A. Disturbance attenuation and H/sub infinity /-control via measurement feedback in nonlinear systems. IEEE Trans. Automat. Contr. 37, 1283–1293 (1992) -- [10.1109/9.159566](https://doi.org/10.1109/9.159566)
 - Lu W. M., H                  ∞ control of nonlinear systems via output feedback: controller parameterization. IEEE Trans. Autom. Control (1994)
+- Astolfi A. “Parameterization of output feedback controller that satisfy anH∞norm bound ”Proc.of the 2nd European Control Conf. Groningen The Netherlands pp.74–78 (1993).
 - Chee-Fai Yung, Yung-Pin Lin & Fang-Bo Yeh. A family of nonlinear H/sup ∞/-output feedback controllers. IEEE Trans. Automat. Contr. 41, 232–236 (1996) -- [10.1109/9.481524](https://doi.org/10.1109/9.481524)
 - Fu Y. S., A family of reliable nonlinear H                  ∞ state‐feedback controllers. IET Control Theory Appl. (2001)
 - Feng, Y., Yagoubi, M. & Chevrel, P. Parametrization of extended stabilizing controllers for continuous-time descriptor systems. Journal of the Franklin Institute 348, 2633–2646 (2011) -- [10.1016/j.jfranklin.2011.08.006](https://doi.org/10.1016/j.jfranklin.2011.08.006)

@@ -42,8 +42,10 @@ The port‐Hamiltonian (pH) formulation of partial‐differential equations and
 [Download the bib file]({{ site.baseurl }}/assets/bib/structure-preserving-methods-for-a-coupled-port-hamiltonian-system-of-compressible-non-isothermal-fluid-flow.bib)
  
 ## References
+- Egger H.(2016).A mixed variational discretization for non‐isothermal compressible flow in pipelines. arXiv:1611.03368.
 - [Hauschild, S.-A. & Marheineke, N. Structure‐preserving discretization of a port‐Hamiltonian formulation of the non‐isothermal Euler equations. Proc Appl Math and Mech 20, (2021)](structure-preserving-discretization-of-a-port-hamiltonian-formulation-of-the-non-isothermal-euler-equations) -- [10.1002/pamm.202000014](https://doi.org/10.1002/pamm.202000014)
 - [Mehrmann, V. & Morandin, R. Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–6868 (2019) doi:10.1109/cdc40024.2019.9030180](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
+- Villegas J.(2007).A port‐Hamiltonian approach to distributed parameter systems. [PhD Thesis].University of Twente.
 - [Liljegren-Sailer, B. & Marheineke, N. On Port-Hamiltonian Approximation of a Nonlinear Flow Problem on Networks. SIAM J. Sci. Comput. 44, B834–B859 (2022)](on-port-hamiltonian-approximation-of-a-nonlinear-flow-problem-on-networks) -- [10.1137/21m1443480](https://doi.org/10.1137/21m1443480)
 - Lang, J. & Mindt, P. Entropy-preserving coupling conditions for one-dimensional Euler systems at junctions. Networks &amp; Heterogeneous Media 13, 177–190 (2018) -- [10.3934/nhm.2018008](https://doi.org/10.3934/nhm.2018008)
 - [Hauschild, S.-A. & Marheineke, N. Model Reduction for a Port-Hamiltonian Formulation of the Euler Equations. Mathematics in Industry 1–7 (2022) doi:10.1007/978-3-031-11818-0_1](model-reduction-for-a-port-hamiltonian-formulation-of-the-euler-equations) -- [10.1007/978-3-031-11818-0_1](https://doi.org/10.1007/978-3-031-11818-0_1)

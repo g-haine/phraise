@@ -68,4 +68,5 @@ This paper presents the distributed cooperative tracking control of the multi‐
 - Yuzhen Wang, Daizhan Cheng, Chunwen Li & You Ge. Dissipative hamiltonian realization and energy-based L/sub 2/-disturbance attenuation control of multimachine power systems. IEEE Trans. Automat. Contr. 48, 1428–1433 (2003) -- [10.1109/tac.2003.815037](https://doi.org/10.1109/tac.2003.815037)
 - Yu H, Energy‐shaping and  gain disturbance attenuation control of induction motor. International Journal of Innovative Computing, Information and Control (2012)
 - van der Schaft, A. J. L/sub 2/-gain analysis of nonlinear systems and nonlinear state-feedback H/sub infinity / control. IEEE Trans. Automat. Contr. 37, 770–784 (1992) -- [10.1109/9.256331](https://doi.org/10.1109/9.256331)
+- SakuramaK.Trajectory tracking control of Hamiltonian and hybrid control systems.PhD Dissertation Department of Systems Science Graduate School of Informatics Kyoto University Uji Kyoto 611‐0011 Japan 2003.
 

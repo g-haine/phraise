@@ -45,12 +45,16 @@ cotangent bundle, hamiltonian system, poisson manifold, poisson structure, tange
 - Clemente-Gallardo, J. Applications of Lie algebroids in mechanics and control theory. Lecture Notes in Control and Information Sciences 299–313 doi:10.1007/bfb0110222 -- [10.1007/bfb0110222](https://doi.org/10.1007/bfb0110222)
 - Clemente-Gallardo, J., Mascheke, B. & van der Schaft, A. J. Kinematical constraints and algebroids. Reports on Mathematical Physics 47, 413–429 (2001) -- [10.1016/s0034-4877(01)80053-7](https://doi.org/10.1016/s0034-4877(01)80053-7)
 - Courant, T. J. Dirac manifolds. Trans. Amer. Math. Soc. 319, 631–661 (1990) -- [10.2307/2001258](https://doi.org/10.2307/2001258)
+- T.J. Courant and A. Weinstein. Beyond poisson structures. Technical report, UCB, 1986.
 - [Dorfman, I. Ya. Dirac structures of integrable evolution equations. Physics Letters A 125, 240–246 (1987)](dirac-structures-of-integrable-evolution-equations) -- [10.1016/0375-9601(87)90201-5](https://doi.org/10.1016/0375-9601(87)90201-5)
 - Hermann, R. Analytic continuation of group representations. IV. Commun.Math. Phys. 5, 131–156 (1967) -- [10.1007/bf01646842](https://doi.org/10.1007/bf01646842)
 - J.-C. Herz, C. R. Acad. Sci. Paris, Série A (1953)
 - Libermann, P. & Marle, C.-M. Symplectic Geometry and Analytical Mechanics. (Springer Netherlands, 1987). doi:10.1007/978-94-009-3807-6 -- [10.1007/978-94-009-3807-6](https://doi.org/10.1007/978-94-009-3807-6)
+- E. Martínez. Hamiltonian mechanics on lie algebroids. Technical report, Universidad de Zaragoza, 1999.
+- E. Martínez. Lagrangian mechanics on lie algebroids. Acta Applicandae Mathematicas, To appear, 2000.
 - R. S. Palais, A global formulation of the Lie theory of transformation groups (1957)
 - J. Pradines, C. R. Acad. Sci. Paris Sér. I Math. (1966)
+- A.J. van der Schaft and M. Dalsmo. On representations and integrability of mathematical structures in energy-conserving physical systems. SIAM J. Control and Optimization, 1999.
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - Weinstein, A. Lagrangian mechanics and groupoids. Mechanics Day 207–231 (1995) doi:10.1090/fic/007/10 -- [10.1090/fic/007/10](https://doi.org/10.1090/fic/007/10)
 

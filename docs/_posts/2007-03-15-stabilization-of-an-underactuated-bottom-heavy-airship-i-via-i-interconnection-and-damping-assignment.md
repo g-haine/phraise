@@ -55,6 +55,7 @@ This paper focuses on feedback stabilization of a neutrally buoyant and bottom�
 - Modelling and Control of Marine Craft. (1991) doi:10.1201/9781482296594 -- [10.1201/9781482296594](https://doi.org/10.1201/9781482296594)
 - Fossen TI, Guidance and Control of Ocean Vehicles (1994)
 - Fossen, T. I. & Fjellstad, O.-E. Nonlinear modelling of marine vehicles in 6 degrees of freedom. Mathematical Modelling of Systems 1, 17–27 (1995) -- [10.1080/13873959508837004](https://doi.org/10.1080/13873959508837004)
+- VarellaSB RomosJrJG.Airship dynamic modeling for autonomous operation. Proceedings of the IEEE International Conference on Robotics and Automation Leuven Belgium 1998;3463–3467.
 - Sagatun, S. I. & Fossen, T. I. Lagrangian formulation of underwater vehicles’ dynamics. Conference Proceedings 1991 IEEE International Conference on Systems, Man, and Cybernetics 1029–1034 doi:10.1109/icsmc.1991.169823 -- [10.1109/icsmc.1991.169823](https://doi.org/10.1109/icsmc.1991.169823)
 - Khoury GA, Airship Technology (1999)
 - Marsden, J. E. & Ratiu, T. S. Introduction to Mechanics and Symmetry. Texts in Applied Mathematics (Springer New York, 1999). doi:10.1007/978-0-387-21792-5 -- [10.1007/978-0-387-21792-5](https://doi.org/10.1007/978-0-387-21792-5)

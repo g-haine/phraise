@@ -47,6 +47,7 @@ casimir function, compositionality property, dirac structure, resistive structur
 - B.M. Maschke, Modelling and Control of Mechanical Systems (1997)
 - B. Maschke, Mathematical Theory of Networks and Systems (1998)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- A.J. van der Schaft, “Interconnection and geometry”, in The Mathematics of Systems and Control, From Intelligent Control to Behavioral Systems (eds. J.W. Polderman, H.L. Trentelman), Groningen, 1999.
 - van der Schaft, A. Nonlinear H ∞ Control. Communications and Control Engineering 163–192 (2000) doi:10.1007/978-1-4471-0507-7_7 -- [10.1007/978-1-4471-0507-7_7](https://doi.org/10.1007/978-1-4471-0507-7_7)
 - A.J. Schaft van der, Archiv für Elektronik und Übertragungstechnik (1995)
 - [Stramigioli, S., Maschke, B. & van der Schaft, A. Passive Output Feedback and Port Interconnection. IFAC Proceedings Volumes 31, 591–596 (1998)](passive-output-feedback-and-port-interconnection) -- [10.1016/s1474-6670(17)40401-0](https://doi.org/10.1016/s1474-6670(17)40401-0)
