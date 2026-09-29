@@ -4,12 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 7 * * *"
-  push:
-    branches:
-      - main
-    paths:
-      - "bibreview.yml"
-      - ".github/workflows/update-arxiv.yml"
 
 permissions:
   actions: write
