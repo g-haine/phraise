@@ -24,7 +24,7 @@ jobs:
         run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.6.31"
 
       - name: Confirm BibReview version
-        run: test "$(bibreview --version)" = "bibreview 1.6.24"
+        run: test "$(bibreview --version)" = "bibreview 1.6.31"
 
       - name: Validate PHRAISE BibReview configuration
         run: bibreview --config bibreview.yml validate
