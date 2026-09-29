@@ -1,5 +1,5 @@
 ---
-title: "PCDH-based nonlinear<i>H</i><sub>∞</sub>control of VSC-HVDC with wind power integrated"
+title: "PCDH-based nonlinear \\(H_{\\infty}\\) control of VSC-HVDC with wind power integrated"
 date: 2019-07-10 00:00:00 +0100
 permalink: pcdh-based-nonlinear-i-h-i-sub-sub-control-of-vsc-hvdc-with-wind-power-integrated
 year: 2021

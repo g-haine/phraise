@@ -1,5 +1,5 @@
 ---
-title: "An Energy-Based Approach for <i>n</i>-d.o.f. Passive Dual-User Haptic Training Systems"
+title: "An Energy-Based Approach for n-d.o.f. Passive Dual-User Haptic Training Systems"
 date: 2019-08-30 00:00:00 +0100
 permalink: an-energy-based-approach-for-i-n-i-d-o-f-passive-dual-user-haptic-training-systems
 year: 2020

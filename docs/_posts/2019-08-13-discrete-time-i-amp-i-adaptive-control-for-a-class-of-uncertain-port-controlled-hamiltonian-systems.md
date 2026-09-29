@@ -1,5 +1,5 @@
 ---
-title: "Discrete-Time I&amp;I Adaptive Control for a Class of Uncertain Port-Controlled Hamiltonian Systems"
+title: "Discrete-Time I&I Adaptive Control for a Class of Uncertain Port-Controlled Hamiltonian Systems"
 date: 2019-08-13 00:00:00 +0100
 permalink: discrete-time-i-amp-i-adaptive-control-for-a-class-of-uncertain-port-controlled-hamiltonian-systems
 year: 2019

@@ -1,5 +1,5 @@
 ---
-title: "A New Riemannian Framework for Efficient ℋ<sub>2</sub>-Optimal Model Reduction of Port-Hamiltonian Systems"
+title: "A New Riemannian Framework for Efficient \\(\\mathcal{H}_{2}\\)-Optimal Model Reduction of Port-Hamiltonian Systems"
 date: 2021-01-13 00:00:00 +0100
 permalink: a-new-riemannian-framework-for-efficient-h-sub-2-sub-optimal-model-reduction-of-port-hamiltonian-systems
 year: 2020
