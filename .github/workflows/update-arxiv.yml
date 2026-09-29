@@ -15,6 +15,7 @@ permissions:
   actions: write
   contents: write
   pull-requests: write
+  statuses: write
 
 concurrency:
   group: update-arxiv-cache
@@ -126,6 +127,7 @@ jobs:
         run: gh workflow run bibreview-integration.yml --ref "$BRANCH"
 
       - name: Wait for PHRAISE integration validation
+        id: validation
         if: steps.refresh.outcome == 'success' && steps.prepare.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -154,6 +156,26 @@ jobs:
           fi
 
           gh run watch "$run_id" --exit-status
+          echo "run_id=$run_id" >> "$GITHUB_OUTPUT"
+
+      - name: Publish required integration commit status
+        if: steps.refresh.outcome == 'success' && steps.prepare.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EXPECTED_SHA: ${{ steps.prepare.outputs.sha }}
+          VALIDATION_RUN_ID: ${{ steps.validation.outputs.run_id }}
+        run: |
+          target_url="https://github.com/$GITHUB_REPOSITORY/actions/runs/$VALIDATION_RUN_ID"
+
+          gh api \
+            --method POST \
+            --header "Accept: application/vnd.github+json" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            "/repos/$GITHUB_REPOSITORY/statuses/$EXPECTED_SHA" \
+            -f state="success" \
+            -f context="integration" \
+            -f description="PHRAISE integration validation succeeded" \
+            -f target_url="$target_url"
 
       - name: Wait for branch policy to recognize validation
         if: steps.refresh.outcome == 'success' && steps.prepare.outputs.changed == 'true'
