@@ -45,7 +45,7 @@ dissipative hamiltonian system, electric spindles, hybrid modeling, non-linear d
 [Download the bib file]({{ site.baseurl }}/assets/bib/physics-informed-thermodynamical-hamiltonian-hybrid-modeling-method-for-vibration-prediction-of-electric-spindles.bib)
  
 ## References
--  -- [10.1007/s11071-023-08618-0](https://doi.org/10.1007/s11071-023-08618-0)
+- [10.1007/s11071-023-08618-0](https://doi.org/10.1007/s11071-023-08618-0)
 - Abbasi A, Kambali PN, Shahidi P, Nataraj C (2024) Physics-informed machine learning for modeling multidimensional dynamics. Nonlinear Dyn 112(24):21565–21585. https://doi.org/10.1007/s11071-024-10163- -- [10.1007/s11071-024-10163-3](https://doi.org/10.1007/s11071-024-10163-3)
 - Aggogeri F, Merlo A, Pellegrini N (2020) Modeling the thermo-mechanical deformations of machine tool structures in CFRP material adopting data-driven prediction schemes. Mechatronics 71:102436. https://doi.org/10.1016/j.mechatronics.2020.10243 -- [10.1016/j.mechatronics.2020.102436](https://doi.org/10.1016/j.mechatronics.2020.102436)
 - Badlyan AM, Zimmer C (2018) Operator-GENERIC Formulation of Thermodynamics of Irreversible Processe -- [10.48550/arxiv.1807.09822](https://doi.org/10.48550/arxiv.1807.09822)

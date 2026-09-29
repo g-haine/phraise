@@ -65,7 +65,7 @@ Nonlinear systems; model approximation; model reduction
 - Scherpen, Balancing for Nonlinear Systems. (1994)
 - Scherpen, J. M. A. Balancing for nonlinear systems. Systems & Control Letters 21, 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
 - SCHERPEN, J. M. A. & VAN DER SCHAFT, A. J. Normalized coprime factorizations and balancing for unstable nonlinear systems. International Journal of Control 60, 1193–1222 (1994) -- [10.1080/00207179408921517](https://doi.org/10.1080/00207179408921517)
--  -- [10.1002/(sici)1099-1239(199608)6:7<645::aid-rnc179>3.0.co;2-x](https://doi.org/10.1002/(sici)1099-1239(199608)6:7<645::aid-rnc179>3.0.co;2-x)
+- [10.1002/(sici)1099-1239(199608)6:7<645::aid-rnc179>3.0.co;2-x](https://doi.org/10.1002/(sici)1099-1239(199608)6:7<645::aid-rnc179>3.0.co;2-x)
 - Weiland, Balancing for Model Approximation of Dissipative Dynamical Systems. (1994)
 - Willeins, Dissipative Dynamical Systems. Part I: General Theory. Arch Rational Mech. Anal (1972)
 

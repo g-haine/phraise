@@ -46,7 +46,7 @@ Safety analysis is important when designing and developing cyber-physical system
 - CarSim. http://www.carsim.com. Mechanical Simulation Corporation, Ann Arbor, MI, USA, 2013.
 - [Cervera J, van der Schaft AJ, Baños A (2007) Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica 43(2):212–225. https://doi.org/10.1016/j.automatica.2006.08.014](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - [Dai S, Koutsoukos X (2015) Model-based automotive control design using port-Hamiltonian systems. In: 2015 International Conference on Complex Systems Engineering (ICCSE). IEEE, pp 1–6](model-based-automotive-control-design-using-port-hamiltonian-systems) -- [10.1109/complexsys.2015.7385987](https://doi.org/10.1109/complexsys.2015.7385987)
--  -- [10.5555/2765781](https://doi.org/10.5555/2765781)
+- [10.5555/2765781](https://doi.org/10.5555/2765781)
 - Eyisi E, Zhang Z, Koutsoukos X, Porter J, Karsai G, Sztipanovits J (2013) Model-Based Control Design and Integration of Cyberphysical Systems: An Adaptive Cruise Control Case Study. Journal of Control Science and Engineering 2013:1–15. https://doi.org/10.1155/2013/678016 -- [10.1155/2013/678016](https://doi.org/10.1155/2013/678016)
 - Fujimoto K, Sugie T (2001) Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42(3):217–227. https://doi.org/10.1016/s0167-6911(00)00091-8 -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - H. Khalil. Nonlinear Systems, 3rd Edition. Prentice Hall, Upper Saddle River, NJ, 2002.
