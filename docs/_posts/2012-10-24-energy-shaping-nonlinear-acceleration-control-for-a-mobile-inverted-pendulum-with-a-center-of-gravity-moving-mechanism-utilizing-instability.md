@@ -43,7 +43,12 @@ A nonlinear controller for accelerating a mobile inverted pendulum (MIP) with a 
 [Download the bib file]({{ site.baseurl }}/assets/bib/energy-shaping-nonlinear-acceleration-control-for-a-mobile-inverted-pendulum-with-a-center-of-gravity-moving-mechanism-utilizing-instability.bib)
  
 ## References
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
-- MATSUMOTO, O., KAJITA, S. & TANI, K. Estimation and control of the attitude of a dynamic mobile robot using internal sensors. Journal of the Robotics Society of Japan 8, 541–550 (1990) -- [10.7210/jrsj.8.5_541](https://doi.org/10.7210/jrsj.8.5_541)
+- (7) Pathak, K., Franch, J., and Agrawal, S. K., “Velocity and Position Control of a Wheeled Inverted Pendulum by Partial Feedback Linearization”, IEEE Transactions on Robotics, Vol. 21, No. 3 (2005), pp. 505-513.
+- (9) Ortega, R., Spong, M. W., Gómez-Estern, F., and Blankenstein, G., “Stabilization of a Class of Underactuated Mechanical Systems via Interconnection and Damping Assignment”, IEEE Transactions on Automatic Control, Vol. 47, No. 8 (2002), pp. 1218-1233.
+- [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-3](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- van der Schaft A (2000) L2 - Gain and Passivity Techniques in Nonlinear Control. Springer London, London -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
+- (12) Takegaki, M., and Arimoto, S., “A New Feedback Method for Dynamic Control of Manipulators”, ASME Journal of Dynamic Systems, Measurement, and Control, Vol. 102, (1981), pp. 119-125.
+- (15) Ortega, R., van der Schaft, A. J., Mareels, I., and Maschke, B., “Putting Energy Back in Control”, IEEE Control Systems Magazine, Vol. 21, No. 2 (2001), pp. 18-33.
+- MATSUMOTO O, KAJITA S, TANI K (1990) Estimation and control of the attitude of a dynamic mobile robot using internal sensors. Journal of the Robotics Society of Japan 8(5):541–550. https://doi.org/10.7210/jrsj.8.5_541 -- [10.7210/jrsj.8.5_541](https://doi.org/10.7210/jrsj.8.5_541)
+- (17) Grasser, F., D'Arrigo, A., Colombi, S., and Rufer, A. C., “JOE: A Mobile, Inverted Pendulum”, IEEE Transactions on Industrial Electronics, Vol. 49, No. 1 (2002), pp. 107-114.
 

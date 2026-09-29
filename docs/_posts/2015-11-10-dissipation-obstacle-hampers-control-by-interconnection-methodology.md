@@ -52,14 +52,14 @@ Dissipation obstacle; Control—by—Interconnection; Casimir functions; passivi
 [Download the bib file]({{ site.baseurl }}/assets/bib/dissipation-obstacle-hampers-control-by-interconnection-methodology.bib)
  
 ## References
-- [Castaños, F. & Ortega, R. Energy-balancing passivity-based control is equivalent to dissipation and output invariance. Systems &amp; Control Letters vol. 58 553–560 (2009)](energy-balancing-passivity-based-control-is-equivalent-to-dissipation-and-output-invariance) -- [10.1016/j.sysconle.2009.03.007](https://doi.org/10.1016/j.sysconle.2009.03.007)
+- [Castaños F, Ortega R (2009) Energy-balancing passivity-based control is equivalent to dissipation and output invariance. Systems & Control Letters 58(8):553–560. https://doi.org/10.1016/j.sysconle.2009.03.007](energy-balancing-passivity-based-control-is-equivalent-to-dissipation-and-output-invariance) -- [10.1016/j.sysconle.2009.03.007](https://doi.org/10.1016/j.sysconle.2009.03.007)
 - Dalsmo, On representations and integrability of mathematical structures in energy-conserving physical systems. SIAM J. Opt. and Control (1999)
 - Duindam, (2009)
 - Koopman, Casimir-based control beyond the dissipation obstacle. (2012)
-- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- (2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.915398 -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Ortega, New results on control-by-interconnection and energy-balancing passivity-based control of port-Hamiltonian systems. (2014)
-- [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
-- [Sanchez, S., Ortega, R., Grino, R., Bergna, G. & Molinas, M. Conditions for Existence of Equilibria of Systems With Constant Power Loads. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 61 2204–2211 (2014)](conditions-for-existence-of-equilibria-of-systems-with-constant-power-loads) -- [10.1109/tcsi.2013.2295953](https://doi.org/10.1109/tcsi.2013.2295953)
+- [Ortega R, van der Schaft A, Castanos F, Astolfi A (2008) Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Trans Automat Contr 53(11):2527–2542. https://doi.org/10.1109/tac.2008.2006930](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
+- Sanchez, Conditions for existence of equilibrium points of systems with constant power loads. IEEE Transactions on Circuits and Systems I (2014)
 - van der Schaft, (1999)
 - van der Schaft, Port-Hamiltonian Systems Theory: An Introductory Overview. (2014)
 - Venkataraman, Energy shaping of port-Hamiltonian systems by using alternate passive outputs. (2009)

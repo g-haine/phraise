@@ -47,12 +47,12 @@ Smart Structure; Dirac Structure; Cartan Form; Tangent Vector Field; Store Energ
 [Download the bib file]({{ site.baseurl }}/assets/bib/active-control-of-smart-structures-using-port-controlled-hamiltonian-systems.bib)
  
 ## References
-- T Frankel, The Geometry of Physics, An Introduction (1997)
-- JE Marsden, Dover Publications (1993)
-- BM Maschke, N. E. Leonard and R. Ortega, editors, Proceedings of the IFAC Workshop on Lagrangian and Hamiltonian methods for nonlinear control, Princeton University (2000)
-- Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- Saunders, D. J. The Geometry of Jet Bundles. (1989) doi:10.1017/cbo9780511526411 -- [10.1017/cbo9780511526411](https://doi.org/10.1017/cbo9780511526411)
-- K Schlacher, N. E. Leonard and R. Ortega, editors, Proceedings of the IFAC Workshop on Lagrangian and Hamiltonian methods for nonlinear control, Princeton University (2000)
-- Tzou, H. S. Active Piezoelectric Shell Continua. Solid Mechanics and Its Applications 9–74 (1992) doi:10.1007/978-94-017-1903-2_2 -- [10.1007/978-94-017-1903-2_2](https://doi.org/10.1007/978-94-017-1903-2_2)
-- Ziegler, F. Mechanics of Solids and Fluids. (Springer US, 1991). doi:10.1007/978-1-4684-0512-5 -- [10.1007/978-1-4684-0512-5](https://doi.org/10.1007/978-1-4684-0512-5)
+- Frankel T. The Geometry of Physics, An Introduction. Cambridge University Press, Cambridge, 1997.
+- Marsden J.E. and Hughes T.J.R. Mathematical Foundations of Elasticity. Dover Publications, 1993.
+- Maschke B.M., van der Schaft A.J. Port controlled Hamiltonian representation of distributed parameter systems. In N. E. Leonard and R. Ortega, editors, Proceedings of the IFAC Workshop on Lagrangian and Hamiltonian methods for nonlinear control, Princeton University, pp. 28–38, 2000.
+- (2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.915398 -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- Saunders DJ (1989) The Geometry of Jet Bundles. Cambridge University Press -- [10.1017/cbo9780511526411](https://doi.org/10.1017/cbo9780511526411)
+- Schlacher K., Kugi A. Control of elastic systems, a Hamiltonian approach. In N. E. Leonard and R. Ortega, editors, Proceedings of the IFAC Workshop on Lagrangian and Hamiltonian methods for nonlinear control, Princeton University, pp. 80–85, 2000.
+- Tzou HS (1992) Active Piezoelectric Shell Continua. In: Solid Mechanics and Its Applications. Springer Netherlands, Dordrecht, pp 9–74 -- [10.1007/978-94-017-1903-2_2](https://doi.org/10.1007/978-94-017-1903-2_2)
+- Ziegler F (1991) Mechanics of Solids and Fluids. Springer US, New York, NY -- [10.1007/978-1-4684-0512-5](https://doi.org/10.1007/978-1-4684-0512-5)
 
