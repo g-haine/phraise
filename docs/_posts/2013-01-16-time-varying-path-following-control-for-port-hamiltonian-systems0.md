@@ -43,9 +43,11 @@ This paper is devoted to path following control for port-Hamiltonian systems who
 [Download the bib file]({{ site.baseurl }}/assets/bib/time-varying-path-following-control-for-port-hamiltonian-systems0.bib)
  
 ## References
-- Salisbury, J. Active stiffness control of a manipulator in cartesian coordinates. 1980 19th IEEE Conference on Decision and Control including the Symposium on Adaptive Processes (1980) doi:10.1109/cdc.1980.272026 -- [10.1109/cdc.1980.272026](https://doi.org/10.1109/cdc.1980.272026)
-- Hogan, N. Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control 107, 1–7 (1985) -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
-- Li, P. Y. & Horowitz, R. Passive velocity field control of mechanical manipulators. IEEE Trans. Robot. Automat. 15, 751–763 (1999) -- [10.1109/70.782030](https://doi.org/10.1109/70.782030)
-- Li, P. Y. & Horowitz, R. Passive velocity field control (PVFC). Part I. Geometry and robustness. IEEE Trans. Automat. Contr. 46, 1346–1359 (2001) -- [10.1109/9.948463](https://doi.org/10.1109/9.948463)
-- Duindam, V., Stramigioli, S. & Scherpen, J. M. A. Passive Compensation of Nonlinear Robot Dynamics. IEEE Trans. Robot. Automat. 20, 480–487 (2004) -- [10.1109/tra.2004.824693](https://doi.org/10.1109/tra.2004.824693)
+- Salisbury J (1980) Active stiffness control of a manipulator in cartesian coordinates. In: 1980 19th IEEE Conference on Decision and Control including the Symposium on Adaptive Processes. IEEE, pp 95–100 -- [10.1109/cdc.1980.272026](https://doi.org/10.1109/cdc.1980.272026)
+- Hogan N (1985) Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control 107(1):1–7. https://doi.org/10.1115/1.3140702 -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
+- Li PY, Horowitz R (1999) Passive velocity field control of mechanical manipulators. IEEE Trans Robot Automat 15(4):751–763. https://doi.org/10.1109/70.782030 -- [10.1109/70.782030](https://doi.org/10.1109/70.782030)
+- Li PY, Horowitz R (2001) Passive velocity field control (PVFC). Part I. Geometry and robustness. IEEE Trans Automat Contr 46(9):1346–1359. https://doi.org/10.1109/9.948463 -- [10.1109/9.948463](https://doi.org/10.1109/9.948463)
+- 5) V. Duindam and S. Stramigioli: Passive asymptotic curve tracking, Proc. IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control, 229/234 (2003)
+- Duindam V, Stramigioli S, Scherpen JMA (2004) Passive Compensation of Nonlinear Robot Dynamics. IEEE Trans Robot Automat 20(3):480–487. https://doi.org/10.1109/tra.2004.824693 -- [10.1109/tra.2004.824693](https://doi.org/10.1109/tra.2004.824693)
+- 10) A.J. van der Schaft: <i>L</i><sub>2</sub>-gain and Passivity Techniques in Nonlinear Control, Springer-Verlag (1996)
 

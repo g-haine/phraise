@@ -43,34 +43,56 @@ Dissipative Hamiltonian (DH) systems are an important concept in energy based mo
 [Download the bib file]({{ site.baseurl }}/assets/bib/stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations.bib)
  
 ## References
-- Bora, S., Karow, M., Mehl, C. & Sharma, P. Structured Eigenvalue Backward Errors of Matrix Pencils and Polynomials with Hermitian and Related Structures. SIAM Journal on Matrix Analysis and Applications vol. 35 453–475 (2014) -- [10.1137/130925621](https://doi.org/10.1137/130925621)
-- Byers, R. A Bisection Method for Measuring the Distance of a Stable Matrix to the Unstable Matrices. SIAM Journal on Scientific and Statistical Computing vol. 9 875–881 (1988) -- [10.1137/0909059](https://doi.org/10.1137/0909059)
-- Campbell, S. L. Linearization of DAEs along trajectories. ZAMP Zeitschrift f�r angewandte Mathematik und Physik vol. 46 70–84 (1995) -- [10.1007/bf00952257](https://doi.org/10.1007/bf00952257)
-- [Dalsmo, M. & van der Schaft, A. On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM Journal on Control and Optimization vol. 37 54–91 (1998)](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
-- Est�vez Schwarz, D. & Tischendorf, C. Structural analysis of electric circuits and consequences for MNA. International Journal of Circuit Theory and Applications vol. 28 131–162 (2000) -- [10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w](https://doi.org/10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w)
-- Freitag, M. A. & Spence, A. A Newton-based method for the calculation of the distance to instability. Linear Algebra and its Applications vol. 435 3189–3205 (2011) -- [10.1016/j.laa.2011.06.012](https://doi.org/10.1016/j.laa.2011.06.012)
+- Antoulas AC (2005) Approximation of Large-Scale Dynamical Systems. Society for Industrial and Applied Mathematics -- [10.1137/1.9780898718713](https://doi.org/10.1137/1.9780898718713)
+- Bora S, Karow M, Mehl C, Sharma P (2014) Structured Eigenvalue Backward Errors of Matrix Pencils and Polynomials with Hermitian and Related Structures. SIAM J Matrix Anal Appl 35(2):453–475. https://doi.org/10.1137/130925621 -- [10.1137/130925621](https://doi.org/10.1137/130925621)
+- Byers R (1988) A Bisection Method for Measuring the Distance of a Stable Matrix to the Unstable Matrices. SIAM J Sci and Stat Comput 9(5):875–881. https://doi.org/10.1137/0909059 -- [10.1137/0909059](https://doi.org/10.1137/0909059)
+- Campbell SL (1995) Linearization of DAEs along trajectories. Z angew Math Phys 46(1):70–84. https://doi.org/10.1007/bf00952257 -- [10.1007/bf00952257](https://doi.org/10.1007/bf00952257)
+- [Dalsmo M, van der Schaft A (1998) On Representations and Integrability of Mathematical Structures in Energy-Conserving Physical Systems. SIAM J Control Optim 37(1):54–91. https://doi.org/10.1137/s0363012996312039](on-representations-and-integrability-of-mathematical-structures-in-energy-conserving-physical-systems) -- [10.1137/s0363012996312039](https://doi.org/10.1137/s0363012996312039)
+- Est�vez Schwarz D, Tischendorf C (2000) Structural analysis of electric circuits and consequences for MNA. Int J Circ Theor Appl 28(2):131–162. https://doi.org/10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w -- [10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w](https://doi.org/10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w)
+- Freitag MA, Spence A (2011) A Newton-based method for the calculation of the distance to instability. Linear Algebra and its Applications 435(12):3189–3205. https://doi.org/10.1016/j.laa.2011.06.012 -- [10.1016/j.laa.2011.06.012](https://doi.org/10.1016/j.laa.2011.06.012)
 - Freund R. W., Berlin (2011)
 - Golo G., Heidelberg (2003)
-- He, C. & Watson, G. A. An Algorithm for Computing the Distance to Instability. SIAM Journal on Matrix Analysis and Applications vol. 20 101–116 (1998) -- [10.1137/s0895479897314838](https://doi.org/10.1137/s0895479897314838)
-- Hinrichsen, D. & Pritchard, A. J. Stability radii of linear systems. Systems &amp; Control Letters vol. 7 1–10 (1986) -- [10.1016/0167-6911(86)90094-0](https://doi.org/10.1016/0167-6911(86)90094-0)
-- Hinrichsen, D. & Pritchard, A. J. Stability radius for structured perturbations and the algebraic Riccati equation. Systems &amp; Control Letters vol. 8 105–113 (1986) -- [10.1016/0167-6911(86)90068-x](https://doi.org/10.1016/0167-6911(86)90068-x)
+- G. H. Golub and C. F. Van Loan,
+                      Matrix Computations
+                      , 3rd ed., Johns Hopkins University Press, Baltimore, 1996.
+- Gräbner N, Mehrmann V, Quraishi S, Schröder C, von Wagner U (2016) Numerical methods for parametric model reduction in the simulation of disk brake squeal. Z Angew Math Mech 96(12):1388–1405. https://doi.org/10.1002/zamm.201500217 -- [10.1002/zamm.201500217](https://doi.org/10.1002/zamm.201500217)
+- M. Grant and S. Boyd,
+                      Cvx: MATLAB Software for Disciplined Convex Programming, Version
+                      2.0
+                      beta.
+                      http://cvxr.com/cvx, (2012).
+- He C, Watson GA (1998) An Algorithm for Computing the Distance to Instability. SIAM J Matrix Anal Appl 20(1):101–116. https://doi.org/10.1137/s0895479897314838 -- [10.1137/s0895479897314838](https://doi.org/10.1137/s0895479897314838)
+- Hinrichsen D, Pritchard AJ (1986) Stability radii of linear systems. Systems & Control Letters 7(1):1–10. https://doi.org/10.1016/0167-6911(86)90094-0 -- [10.1016/0167-6911(86)90094-0](https://doi.org/10.1016/0167-6911(86)90094-0)
+- Hinrichsen D, Pritchard AJ (1986) Stability radius for structured perturbations and the algebraic Riccati equation. Systems & Control Letters 8(2):105–113. https://doi.org/10.1016/0167-6911(86)90068-x -- [10.1016/0167-6911(86)90068-x](https://doi.org/10.1016/0167-6911(86)90068-x)
 - Hinrichsen D., Boston (1990)
-- Karow, M. μ-Values and Spectral Value Sets for Linear Perturbation Classes Defined by a Scalar Product. SIAM Journal on Matrix Analysis and Applications vol. 32 845–865 (2011) -- [10.1137/090774896](https://doi.org/10.1137/090774896)
-- Mackey, D. S., Mackey, N. & Tisseur, F. Structured Mapping Problems for Matrices Associated with Scalar Products. Part I: Lie and Jordan Algebras. SIAM Journal on Matrix Analysis and Applications vol. 29 1389–1410 (2008) -- [10.1137/060657856](https://doi.org/10.1137/060657856)
-- Martins, N. Efficient Eigenvalue and Frequency Response Methods Applied to Power System Small-Signal Stability Studies. IEEE Transactions on Power Systems vol. 1 217–224 (1986) -- [10.1109/tpwrs.1986.4334874](https://doi.org/10.1109/tpwrs.1986.4334874)
-- Martins, N. & Lima, L. T. G. Determination of suitable locations for power system stabilizers and static VAR compensators for damping electromechanical oscillations in large scale power systems. IEEE Transactions on Power Systems vol. 5 1455–1469 (1990) -- [10.1109/59.99400](https://doi.org/10.1109/59.99400)
-- Martins, N., Pellanda, P. C. & Rommes, J. Computation of Transfer Function Dominant Zeros With Applications to Oscillation Damping Control of Large Power Systems. IEEE Transactions on Power Systems vol. 22 1657–1664 (2007) -- [10.1109/tpwrs.2007.907526](https://doi.org/10.1109/tpwrs.2007.907526)
-- [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
-- Mayo, A. J. & Antoulas, A. C. A framework for the solution of the generalized realization problem. Linear Algebra and its Applications vol. 425 634–662 (2007) -- [10.1016/j.laa.2007.03.008](https://doi.org/10.1016/j.laa.2007.03.008)
-- Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
-- [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- Rommes, J. & Martins, N. Exploiting structure in large-scale electrical circuit and power system problems. Linear Algebra and its Applications vol. 431 318–333 (2009) -- [10.1016/j.laa.2008.12.027](https://doi.org/10.1016/j.laa.2008.12.027)
+- D. Hinrichsen and A. J. Pritchard,
+                      Mathematical Systems Theory I. Modelling, State Space Analysis, Stability and Robustness
+                      , Springer, New York, 2005.
+- Horn RA, Johnson CR (1985) Matrix Analysis. Cambridge University Press -- [10.1017/cbo9780511810817](https://doi.org/10.1017/cbo9780511810817)
+- [Jacob B, Zwart HJ (2012) Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces. Springer Basel, Basel](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
+- Karow M (2011) μ-Values and Spectral Value Sets for Linear Perturbation Classes Defined by a Scalar Product. SIAM J Matrix Anal Appl 32(3):845–865. https://doi.org/10.1137/090774896 -- [10.1137/090774896](https://doi.org/10.1137/090774896)
+- Kunkel P, Mehrmann V (2006) Differential-Algebraic Equations. EMS Press -- [10.4171/017](https://doi.org/10.4171/017)
+- P. Lancaster and M. Tismenetsky,
+                      The Theory of Matrices
+                      , 2nd ed., Academic, Orlando, FL, 1985.
+- Mackey DS, Mackey N, Tisseur F (2008) Structured Mapping Problems for Matrices Associated with Scalar Products. Part I: Lie and Jordan Algebras. SIAM J Matrix Anal Appl 29(4):1389–1410. https://doi.org/10.1137/060657856 -- [10.1137/060657856](https://doi.org/10.1137/060657856)
+- Martins N (1986) Efficient Eigenvalue and Frequency Response Methods Applied to Power System Small-Signal Stability Studies. IEEE Trans Power Syst 1(1):217–224. https://doi.org/10.1109/tpwrs.1986.4334874 -- [10.1109/tpwrs.1986.4334874](https://doi.org/10.1109/tpwrs.1986.4334874)
+- Martins N, Lima LTG (1990) Determination of suitable locations for power system stabilizers and static VAR compensators for damping electromechanical oscillations in large scale power systems. IEEE Trans Power Syst 5(4):1455–1469. https://doi.org/10.1109/59.99400 -- [10.1109/59.99400](https://doi.org/10.1109/59.99400)
+- Martins N, Pellanda PC, Rommes J (2007) Computation of Transfer Function Dominant Zeros With Applications to Oscillation Damping Control of Large Power Systems. IEEE Trans Power Syst 22(4):1657–1664. https://doi.org/10.1109/tpwrs.2007.907526 -- [10.1109/tpwrs.2007.907526](https://doi.org/10.1109/tpwrs.2007.907526)
+- [Maschke BM, Van Der Schaft AJ, Breedveld PC (1992) An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute 329(5):923–966. https://doi.org/10.1016/s0016-0032(92)90049-m](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
+- Mayo AJ, Antoulas AC (2007) A framework for the solution of the generalized realization problem. Linear Algebra and its Applications 425(2-3):634–662. https://doi.org/10.1016/j.laa.2007.03.008 -- [10.1016/j.laa.2007.03.008](https://doi.org/10.1016/j.laa.2007.03.008)
+- (2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.915398 -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
+- [Ortega R, van der Schaft A, Maschke B, Escobar G (2002) Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38(4):585–596. https://doi.org/10.1016/s0005-1098(01)00278-3](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
+- Rommes J, Martins N (2009) Exploiting structure in large-scale electrical circuit and power system problems. Linear Algebra and its Applications 431(3-4):318–333. https://doi.org/10.1016/j.laa.2008.12.027 -- [10.1016/j.laa.2008.12.027](https://doi.org/10.1016/j.laa.2008.12.027)
+- [van der Schaft A (2007) Port-Hamiltonian systems: an introductory survey. In: Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006. EMS Press, pp 1339–1365](port-hamiltonian-systems-an-introductory-survey) -- [10.4171/022-3/65](https://doi.org/10.4171/022-3/65)
 - van der Schaft A. J., New York (2004)
 - A., Berlin (2013)
-- van der Schaft A. J., Arch. Elektron. Übertragungstech. (1995)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
-- [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
-- Sun, J. Backward perturbation analysis of certain characteristic subspaces. Numerische Mathematik vol. 65 357–382 (1993) -- [10.1007/bf01385757](https://doi.org/10.1007/bf01385757)
-- Trenkler, G. & Trenkler, G. Matrices Which Take a Given Vector into a Given Vector: Revisited. The American Mathematical Monthly vol. 111 50 (2004) -- [10.2307/4145016](https://doi.org/10.2307/4145016)
-- Van Loan, C. How near is a stable matrix to an unstable matrix? Contemporary Mathematics 465–478 (1985) doi:10.1090/conm/047/828319 -- [10.1090/conm/047/828319](https://doi.org/10.1090/conm/047/828319)
+- van der Schaft A. J., Arch. Elektron. Übertragungstech. (1995)
+- [van der Schaft AJ, Maschke BM (2002) Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42(1-2):166–194. https://doi.org/10.1016/s0393-0440(01)00083-3](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- [van der Schaft AJ, Maschke BM (2013) Port-Hamiltonian Systems on Graphs. SIAM J Control Optim 51(2):906–937. https://doi.org/10.1137/110840091](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)
+- Schiehlen W (ed) (1990) Multibody Systems Handbook. Springer Berlin Heidelberg, Berlin, Heidelberg -- [10.1007/978-3-642-50995-7](https://doi.org/10.1007/978-3-642-50995-7)
+- Sun J-guang (1993) Backward perturbation analysis of certain characteristic subspaces. Numer Math 65(1):357–382. https://doi.org/10.1007/bf01385757 -- [10.1007/bf01385757](https://doi.org/10.1007/bf01385757)
+- Trenkler G, Trenkler G (2004) Matrices Which Take a Given Vector into a Given Vector: Revisited. The American Mathematical Monthly 111(1):50. https://doi.org/10.2307/4145016 -- [10.2307/4145016](https://doi.org/10.2307/4145016)
+- Van Loan C (1985) How near is a stable matrix to an unstable matrix?. Contemporary Mathematics 465–478 -- [10.1090/conm/047/828319](https://doi.org/10.1090/conm/047/828319)
+- Veselić K (2011) Damped Oscillations of Linear Systems. Springer Berlin Heidelberg, Berlin, Heidelberg -- [10.1007/978-3-642-21335-9](https://doi.org/10.1007/978-3-642-21335-9)
 

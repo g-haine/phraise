@@ -52,18 +52,21 @@ Boundary control systems; infinite-dimensional port Hamiltonian systems; asympto
 [Download the bib file]({{ site.baseurl }}/assets/bib/asymptotic-stability-for-a-class-of-boundary-control-systems-with-non-linear-damping.bib)
  
 ## References
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner B, Jacob B (2014) Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. EECT 3(2):207–229. https://doi.org/10.3934/eect.2014.3.207](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Curtain, (1995)
+- Curtain R, Zwart H (2016) Stabilization of collocated systems by nonlinear boundary control. Systems & Control Letters 96:11–14. https://doi.org/10.1016/j.sysconle.2016.06.014 -- [10.1016/j.sysconle.2016.06.014](https://doi.org/10.1016/j.sysconle.2016.06.014)
+- Curtain, R. and Zwart, H. (2016). TBA. Springer-Verslag. In progress.
 - Jacob, (2012)
-- [Jacob, B., Morris, K. & Zwart, H. C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain. Journal of Evolution Equations vol. 15 493–502 (2015)](c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain) -- [10.1007/s00028-014-0271-1](https://doi.org/10.1007/s00028-014-0271-1)
-- [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
+- [Jacob B, Morris K, Zwart H (2015) C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain. J Evol Equ 15(2):493–502. https://doi.org/10.1007/s00028-014-0271-1](c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain) -- [10.1007/s00028-014-0271-1](https://doi.org/10.1007/s00028-014-0271-1)
+- Le Gorrec, Y., Zwart, H., and Maschke, B. (2004). A semigroup approach to port hamiltonian systems associated with linear skew symmetric operator. 16th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2004).
+- [Le Gorrec Y, Zwart H, Maschke B (2005) Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM J Control Optim 44(5):1864–1892. https://doi.org/10.1137/040611677](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Oostveen, (2000)
 - Pazy, (1983)
 - Ramirez, Exponential stabilization of boundary controlled port-Hamiltonian systems with dynamic feedback. Automatic Control, IEEE Transactions on (2014)
 - Staffans, (2005)
-- [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
-- [Villegas, J. A., Zwart, H., Le Gorrec, Y. & Maschke, B. Exponential Stability of a Class of Boundary Control Systems. IEEE Transactions on Automatic Control vol. 54 142–147 (2009)](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
+- [van der Schaft AJ, Maschke BM (2002) Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42(1-2):166–194. https://doi.org/10.1016/s0393-0440(01)00083-3](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
+- [Villegas JA, Zwart H, Le Gorrec Y, Maschke B (2009) Exponential Stability of a Class of Boundary Control Systems. IEEE Trans Automat Contr 54(1):142–147. https://doi.org/10.1109/tac.2008.2007176](exponential-stability-of-a-class-of-boundary-control-systems) -- [10.1109/tac.2008.2007176](https://doi.org/10.1109/tac.2008.2007176)
 - Villegas, Stability and stabilization of a class of boundary control systems. Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC ‘05. 44th IEEE Conference on (2005)
 - Villegas, (2007)
-- Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)
+- Zwart, Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations (2010)
 
