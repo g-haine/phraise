@@ -49,24 +49,24 @@ Dissipative Hamiltonian systems; Distance to stability; Convex optimization
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-computing-the-distance-to-stability-for-matrices-using-linear-dissipative-hamiltonian-systems.bib)
  
 ## References
-- Alam, R., Bora, S., Karow, M., Mehrmann, V. & Moro, J. Perturbation Theory for Hamiltonian Matrices and the Distance to Bounded-Realness. SIAM J. Matrix Anal. &amp; Appl. 32, 484–514 (2011) -- [10.1137/10079464x](https://doi.org/10.1137/10079464x)
+- Alam, R., Bora, S., Karow, M., Mehrmann, V. & Moro, J. Perturbation Theory for Hamiltonian Matrices and the Distance to Bounded-Realness. SIAM J. Matrix Anal. & Appl. 32, 484–514 (2011) -- [10.1137/10079464x](https://doi.org/10.1137/10079464x)
 - Beattie, C., Mehrmann, V., & Xu, H. (2015). Port-Hamiltonian realizations of linear time invariant systems. http://dx.doi.org/10.14279/depositonce-4934.
 - Boyd, (1994)
 - Burke, J. V., Henrion, D., Lewis, A. S. & Overton, M. L. HIFOO - A MATLAB PACKAGE FOR FIXED-ORDER CONTROLLER DESIGN AND H OPTIMIZATION. IFAC Proceedings Volumes 39, 339–344 (2006) -- [10.3182/20060705-3-fr-2907.00059](https://doi.org/10.3182/20060705-3-fr-2907.00059)
 - Burke, J. V., Henrion, D., Lewis, A. S. & Overton, M. L. Stabilization via Nonsmooth, Nonconvex Optimization. IEEE Trans. Automat. Contr. 51, 1760–1769 (2006) -- [10.1109/tac.2006.884944](https://doi.org/10.1109/tac.2006.884944)
 - Byers, R. A Bisection Method for Measuring the Distance of a Stable Matrix to the Unstable Matrices. SIAM J. Sci. and Stat. Comput. 9, 875–881 (1988) -- [10.1137/0909059](https://doi.org/10.1137/0909059)
-- D’haene, T., Pintelon, R. & Vandersteen, G. An Iterative Method to Stabilize a Transfer Function in the&lt;tex&gt;$s$&lt;/tex&gt;- and&lt;tex&gt;$z$&lt;/tex&gt;-Domains. IEEE Trans. Instrum. Meas. 55, 1192–1196 (2006) -- [10.1109/tim.2006.876567](https://doi.org/10.1109/tim.2006.876567)
+- D’haene, T., Pintelon, R. & Vandersteen, G. An Iterative Method to Stabilize a Transfer Function in the\\(s\\)- and\\(z\\)-Domains. IEEE Trans. Instrum. Meas. 55, 1192–1196 (2006) -- [10.1109/tim.2006.876567](https://doi.org/10.1109/tim.2006.876567)
 - Ghadimi, S. & Lan, G. Accelerated gradient methods for nonconvex nonlinear and stochastic programming. Math. Program. 156, 59–99 (2015) -- [10.1007/s10107-015-0871-8](https://doi.org/10.1007/s10107-015-0871-8)
 - Golo, Hamiltonian formulation of bond graphs. (2003)
 - Grant, M., Boyd, S., & Ye, Y. (2008). CVX: Matlab software for disciplined convex programming.
 - Grippo, L. & Sciandrone, M. On the convergence of the block nonlinear Gauss–Seidel method under convex constraints. Operations Research Letters 26, 127–136 (2000) -- [10.1016/s0167-6377(99)00074-7](https://doi.org/10.1016/s0167-6377(99)00074-7)
 - Higham, N. J. Computing a nearest symmetric positive semidefinite matrix. Linear Algebra and its Applications 103, 103–118 (1988) -- [10.1016/0024-3795(88)90223-6](https://doi.org/10.1016/0024-3795(88)90223-6)
 - Higham, (1988)
-- Hinrichsen, D. & Pritchard, A. J. Stability radii of linear systems. Systems &amp; Control Letters 7, 1–10 (1986) -- [10.1016/0167-6911(86)90094-0](https://doi.org/10.1016/0167-6911(86)90094-0)
+- Hinrichsen, D. & Pritchard, A. J. Stability radii of linear systems. Systems & Control Letters 7, 1–10 (1986) -- [10.1016/0167-6911(86)90094-0](https://doi.org/10.1016/0167-6911(86)90094-0)
 - Horn, (1985)
 - Lancaster, (1985)
 - Lewis, A. S., & Overton, M. L. (2009). Nonsmooth optimization via BFGS. http://www.cs.nyu.edu/overton/papers/pdffiles/bfgs_inexactLS.pdf.
-- [Mehl, C., Mehrmann, V. & Sharma, P. Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM J. Matrix Anal. &amp; Appl. 37, 1625–1654 (2016)](stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations) -- [10.1137/16m1067330](https://doi.org/10.1137/16m1067330)
+- [Mehl, C., Mehrmann, V. & Sharma, P. Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving Perturbations. SIAM J. Matrix Anal. & Appl. 37, 1625–1654 (2016)](stability-radii-for-linear-hamiltonian-systems-with-dissipation-under-structure-preserving-perturbations) -- [10.1137/16m1067330](https://doi.org/10.1137/16m1067330)
 - [Mehl, C., Mehrmann, V. & Sharma, P. Stability radii for real linear Hamiltonian systems with perturbed dissipation. Bit Numer Math 57, 811–843 (2017)](stability-radii-for-real-linear-hamiltonian-systems-with-perturbed-dissipation) -- [10.1007/s10543-017-0654-0](https://doi.org/10.1007/s10543-017-0654-0)
 - Moses, R. L. & Liu, D. Determining the closest stable polynomial to an unstable one. IEEE Trans. Signal Process. 39, 901–906 (1991) -- [10.1109/78.80912](https://doi.org/10.1109/78.80912)
 - Nesterov, (2004)

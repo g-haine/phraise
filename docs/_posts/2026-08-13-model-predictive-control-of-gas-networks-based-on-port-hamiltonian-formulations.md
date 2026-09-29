@@ -48,7 +48,7 @@ To efficiently compute optimal compressor actions in gas networks, we investigat
 - T.Breiten P.Domschke J.Giesselmann et al. “A Catalog of Gas Network Models: Pdes Coupling Conditions and Numerical Schemes ” (2026).
 - C.O'Malley D.Kourounis G.Hug andO.Schenk “Optimizing Gas Networks Using Adjoint Gradients ” preprint arXiv:1804.09601 (2018).
 - Domschke P, Kolb O, Lang J (2015) Adjoint-based error control for the simulation and optimization of gas and water supply networks. Applied Mathematics and Computation 259:1003–1018. https://doi.org/10.1016/j.amc.2015.03.02 -- [10.1016/j.amc.2015.03.029](https://doi.org/10.1016/j.amc.2015.03.029)
-- Herty M, Sachers V (2007) Adjoint calculus for optimization of gas networks. Networks &amp; Heterogeneous Media 2(4):733–750. https://doi.org/10.3934/nhm.2007.2.73 -- [10.3934/nhm.2007.2.733](https://doi.org/10.3934/nhm.2007.2.733)
+- Herty M, Sachers V (2007) Adjoint calculus for optimization of gas networks. Networks & Heterogeneous Media 2(4):733–750. https://doi.org/10.3934/nhm.2007.2.73 -- [10.3934/nhm.2007.2.733](https://doi.org/10.3934/nhm.2007.2.733)
 - Fazeny A, Burger M, Pietschmann J-F (2025) Optimal transport on gas networks. Eur J Appl Math 37(3):553–585. https://doi.org/10.1017/s095679252500005 -- [10.1017/s0956792525000051](https://doi.org/10.1017/s0956792525000051)
 - Gugat M, Habermann J, Hintermüller M, Huber O (2023) Constrained exact boundary controllability of a semilinear model for pipeline gas flow. Eur J Appl Math 34(3):532–553. https://doi.org/10.1017/s095679252200038 -- [10.1017/s0956792522000389](https://doi.org/10.1017/s0956792522000389)
 - N.Stahl “State Reconstruction of Gas Pipeline Networks ” (Ph.D. dissertation Univeristät Trier 2023).

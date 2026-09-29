@@ -60,7 +60,7 @@ Dielectric elastomers; Lagrangian and Hamiltonian systems; Mechatronic systems; 
 - Della Santina, Soft robots. Encyclopedia of Robotics (2020)
 - El-Atab, N. et al. Soft Actuators for Soft Robotic Applications: A Review. Advanced Intelligent Systems vol. 2 (2020) -- [10.1002/aisy.202070102](https://doi.org/10.1002/aisy.202070102)
 - [Folkertsma, G. A. & Stramigioli, S. Energy in Robotics. Foundations and Trends® in Robotics vol. 6 140–210 (2017)](energy-in-robotics) -- [10.1561/2300000038](https://doi.org/10.1561/2300000038)
-- Gu, G.-Y., Zhu, J., Zhu, L.-M. & Zhu, X. A survey on dielectric elastomer actuators for soft robots. Bioinspiration &amp; Biomimetics vol. 12 011003 (2017) -- [10.1088/1748-3190/12/1/011003](https://doi.org/10.1088/1748-3190/12/1/011003)
+- Gu, G.-Y., Zhu, J., Zhu, L.-M. & Zhu, X. A survey on dielectric elastomer actuators for soft robots. Bioinspiration & Biomimetics vol. 12 011003 (2017) -- [10.1088/1748-3190/12/1/011003](https://doi.org/10.1088/1748-3190/12/1/011003)
 - Lofberg, Yalmip: A toolbox for modeling and optimization in matlab. (2004)
 - Massenio, Nonlinear optimal control of a soft robotic structure actuated by dielectric elastomer artificial muscles. (2022)
 - Ortega, (2013)

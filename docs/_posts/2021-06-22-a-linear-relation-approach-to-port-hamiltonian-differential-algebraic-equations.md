@@ -64,6 +64,6 @@ We consider linear port-Hamiltonian differential-algebraic equations (pH-DAEs). 
 - [Mehl, C., Mehrmann, V. & Wojtylak, M. Distance problems for dissipative Hamiltonian systems and related matrix polynomials. Linear Algebra and its Applications vol. 623 335–366 (2021)](distance-problems-for-dissipative-hamiltonian-systems-and-related-matrix-polynomials) -- [10.1016/j.laa.2020.05.026](https://doi.org/10.1016/j.laa.2020.05.026)
 - Reis, T. & Stykel, T. Lyapunov Balancing for Passivity-Preserving Model Reduction of RC Circuits. SIAM Journal on Applied Dynamical Systems vol. 10 1–34 (2011) -- [10.1137/090779802](https://doi.org/10.1137/090779802)
 - A, Berlin (2013)
-- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems & Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

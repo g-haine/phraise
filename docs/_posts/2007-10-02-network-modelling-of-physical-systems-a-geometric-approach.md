@@ -72,7 +72,7 @@ bond graph, dirac structure, distribute parameter system, hamiltonian system, po
 - R. Ortega, A.J. van der Schaft, B.M. Maschke & G. Escobar, “Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems”, 1999, submitted for publication.
 - H. M. Paynter, Analysis and design of engineering systems (1960)
 - A.J. Schaft van der, System theoretic properties of physical systems (1984)
-- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications 10, 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
+- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods & Applications 10, 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
 - A.J. van der Schaft, “Interconnection and geometry”, in The Mathematics of Systems and Control, From Intelligent Control to Behavioral Systems (eds. J.W. Polderman, H.L. Trentelman), Groningen, 1999.
 - van der Schaft, A. Nonlinear H ∞ Control. Communications and Control Engineering 163–192 (2000) doi:10.1007/978-1-4471-0507-7_7 -- [10.1007/978-1-4471-0507-7_7](https://doi.org/10.1007/978-1-4471-0507-7_7)
 - A.J. Schaft van der, J. of the Society of Instrument and Control Engineers of Japan (SICE) (2000)

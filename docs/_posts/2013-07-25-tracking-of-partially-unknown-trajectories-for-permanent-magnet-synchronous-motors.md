@@ -65,7 +65,7 @@ Disturbance suppression; Internal model control; Output regulation; Permanent ma
 - Gentili, Trajectory tracking for permanent magnet synchronous motors: an internal model port-hamiltonian approach. (2007)
 - Gentili, (2003)
 - Groar, Nonlinear control of synchronous servo drive. (1994)
-- Guo, Y., Xi, Z. & Cheng, D. Speed regulation of permanent magnet synchronous motor via feedback dissipative Hamiltonian realisation. IET Control Theory &amp; Applications vol. 1 281–290 (2007) -- [10.1049/iet-cta:20050307](https://doi.org/10.1049/iet-cta:20050307)
+- Guo, Y., Xi, Z. & Cheng, D. Speed regulation of permanent magnet synchronous motor via feedback dissipative Hamiltonian realisation. IET Control Theory & Applications vol. 1 281–290 (2007) -- [10.1049/iet-cta:20050307](https://doi.org/10.1049/iet-cta:20050307)
 - Honsinger, Permanent magnet machines: Asynchronous operation. IEEE Trans Power Appar Syst (1980)
 - Huang, Remarks on the robust output regulation problem for nonlinear systems. IEEE Trans Autom Control (2001)
 - Isidori, (1995)

@@ -51,7 +51,7 @@ coordination control, four quadrant, rbfnn, regenerative braking
 - SM Gadoue, IEEE Int Symp Ind Electron (2008)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - [Yu, H., Yu, J., Liu, J. & Song, Q. Nonlinear control of induction motors based on state error PCH and energy-shaping principle. Nonlinear Dyn 72, 49–59 (2012)](nonlinear-control-of-induction-motors-based-on-state-error-pch-and-energy-shaping-principle) -- [10.1007/s11071-012-0689-3](https://doi.org/10.1007/s11071-012-0689-3)
-- Lin, S. & Zhang, W. An adaptive sliding-mode observer with a tangent function-based PLL structure for position sensorless PMSM drives. International Journal of Electrical Power &amp; Energy Systems 88, 63–74 (2017) -- [10.1016/j.ijepes.2016.12.006](https://doi.org/10.1016/j.ijepes.2016.12.006)
+- Lin, S. & Zhang, W. An adaptive sliding-mode observer with a tangent function-based PLL structure for position sensorless PMSM drives. International Journal of Electrical Power & Energy Systems 88, 63–74 (2017) -- [10.1016/j.ijepes.2016.12.006](https://doi.org/10.1016/j.ijepes.2016.12.006)
 - Turker, T., Buyukkeles, U. & Bakan, A. F. A Robust Predictive Current Controller for PMSM Drives. IEEE Trans. Ind. Electron. 63, 3906–3914 (2016) -- [10.1109/tie.2016.2521338](https://doi.org/10.1109/tie.2016.2521338)
 - H Yu, Syst Eng Electron (2006)
 

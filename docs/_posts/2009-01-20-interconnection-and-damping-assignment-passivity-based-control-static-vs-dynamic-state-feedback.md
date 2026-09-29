@@ -39,7 +39,7 @@ Interconnection and damping assignment passivity-based control (IDA-PBC) is a te
 [Download the bib file]({{ site.baseurl }}/assets/bib/interconnection-and-damping-assignment-passivity-based-control-static-vs-dynamic-state-feedback.bib)
  
 ## References
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Transactions on Automatic Control vol. 45 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - Auckly, D., Kapitanski, L. & White, W. Control of nonlinear underactuated systems. Communications on Pure and Applied Mathematics vol. 53 354–369 (2000) -- [10.1002/(sici)1097-0312(200003)53:3<354::aid-cpa3>3.3.co;2-l](https://doi.org/10.1002/(sici)1097-0312(200003)53:3<354::aid-cpa3>3.3.co;2-l)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)

@@ -52,7 +52,7 @@ Memristor; passivity-based control; port-Hamiltonian systems
  
 ## References
 - Beker, O., Hollot, C. V., Chait, Y. & Han, H. Fundamental properties of reset control systems. Automatica 40, 905–915 (2004) -- [10.1016/j.automatica.2004.01.004](https://doi.org/10.1016/j.automatica.2004.01.004)
-- Carrasco, J., Baños, A. & van der Schaft, A. A passivity-based approach to reset control systems stability. Systems &amp; Control Letters 59, 18–24 (2010) -- [10.1016/j.sysconle.2009.10.009](https://doi.org/10.1016/j.sysconle.2009.10.009)
+- Carrasco, J., Baños, A. & van der Schaft, A. A passivity-based approach to reset control systems stability. Systems & Control Letters 59, 18–24 (2010) -- [10.1016/j.sysconle.2009.10.009](https://doi.org/10.1016/j.sysconle.2009.10.009)
 - Chua, L. Memristor-The missing circuit element. IEEE Trans. Circuit Theory 18, 507–519 (1971) -- [10.1109/tct.1971.1083337](https://doi.org/10.1109/tct.1971.1083337)
 - Chua, L. O. Nonlinear circuit foundations for nanodevices, part I: the four-element torus. Proc. IEEE 9, 1830–1859 (2003) -- [10.1109/jproc.2003.818319](https://doi.org/10.1109/jproc.2003.818319)
 - Chua, L. O. & Sung Mo Kang. Memristive devices and systems. Proc. IEEE 64, 209–223 (1976) -- [10.1109/proc.1976.10092](https://doi.org/10.1109/proc.1976.10092)
@@ -68,5 +68,5 @@ Memristor; passivity-based control; port-Hamiltonian systems
 - Pershin, Y. V., La Fontaine, S. & Di Ventra, M. Memristive model of amoeba learning. Phys. Rev. E 80, (2009) -- [10.1103/physreve.80.021926](https://doi.org/10.1103/physreve.80.021926)
 - Strukov, D. B., Snider, G. S., Stewart, D. R. & Williams, R. S. The missing memristor found. Nature 453, 80–83 (2008) -- [10.1038/nature06932](https://doi.org/10.1038/nature06932)
 - van der Schaft, (2000)
-- Wey, T. A. & Jemison, W. D. An automatic gain control circuit with TiO&lt;inf&gt;2&lt;/inf&gt; memristor variable gain amplifier. Proceedings of the 8th IEEE International NEWCAS Conference 2010 (2010) doi:10.1109/newcas.2010.5603719 -- [10.1109/newcas.2010.5603719](https://doi.org/10.1109/newcas.2010.5603719)
+- Wey, T. A. & Jemison, W. D. An automatic gain control circuit with \\(\mathrm{TiO}_{2}\\) memristor variable gain amplifier. Proceedings of the 8th IEEE International NEWCAS Conference 2010 (2010) doi:10.1109/newcas.2010.5603719 -- [10.1109/newcas.2010.5603719](https://doi.org/10.1109/newcas.2010.5603719)
 

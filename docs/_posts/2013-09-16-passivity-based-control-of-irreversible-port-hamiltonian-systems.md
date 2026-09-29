@@ -53,10 +53,10 @@ Irreversible port Hamiltonian systems; Passivity based control; Irreversible the
 [Download the bib file]({{ site.baseurl }}/assets/bib/passivity-based-control-of-irreversible-port-hamiltonian-systems.bib)
  
 ## References
-- Aeyels, D. On stabilization by means of the Energy-Casimir method. Systems &amp; Control Letters 18, 325–328 (1992) -- [10.1016/0167-6911(92)90021-j](https://doi.org/10.1016/0167-6911(92)90021-j)
+- Aeyels, D. On stabilization by means of the Energy-Casimir method. Systems & Control Letters 18, 325–328 (1992) -- [10.1016/0167-6911(92)90021-j](https://doi.org/10.1016/0167-6911(92)90021-j)
 - Banaszuk, A. & Hauser, J. Approximate Feedback Linearization: A Homotopy Operator Approach. SIAM J. Control Optim. 34, 1533–1554 (1996) -- [10.1137/s0363012994261306](https://doi.org/10.1137/s0363012994261306)
 - Birtea, P., Boleantu, M., Puta, M. & Tudoran, R. M. Asymptotic stability for a class of metriplectic systems. Journal of Mathematical Physics 48, (2007) -- [10.1063/1.2771420](https://doi.org/10.1063/1.2771420)
-- Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems &amp; Control Letters 14, 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
+- Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems & Control Letters 14, 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
 - Callen, (1985)
 - Cheng, D., Shen, T. & Tarn, T. J. Pseudo-Hamiltonian realization and its application. Communications in Information and Systems 2, 91–120 (2002) -- [10.4310/cis.2002.v2.n2.a1](https://doi.org/10.4310/cis.2002.v2.n2.a1)
 - Cortés, J., van der Schaft, A. & Crouch, P. E. Characterization of Gradient Control Systems. SIAM J. Control Optim. 44, 1192–1214 (2005) -- [10.1137/s0363012903425568](https://doi.org/10.1137/s0363012903425568)
@@ -82,5 +82,5 @@ Irreversible port Hamiltonian systems; Passivity based control; Irreversible the
 - van der Schaft, (2000)
 - Mendes, R. V. & Duarte, J. T. Decomposition of vector fields and mixed dynamics. Journal of Mathematical Physics 22, 1420–1422 (1981) -- [10.1063/1.525063](https://doi.org/10.1063/1.525063)
 - Warner, (1983)
-- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems &amp; Control Letters 30, 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
+- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems & Control Letters 30, 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
 

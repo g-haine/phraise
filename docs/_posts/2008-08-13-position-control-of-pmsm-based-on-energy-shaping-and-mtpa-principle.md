@@ -49,7 +49,7 @@ The energy-shaping and maximum torque per ampere (MTPA) principle is used to dev
 - Chiasson, J. A new approach to dynamic feedback linearization control of an induction motor. IEEE Trans. Automat. Contr. 43, 391–397 (1998) -- [10.1109/9.661597](https://doi.org/10.1109/9.661597)
 - Yaolong Tan, Jie Chang & Hualin Tan. Adaptive backstepping control and friction compensation for ac servo with inertia and load uncertainties. IEEE Trans. Ind. Electron. 50, 944–952 (2003) -- [10.1109/tie.2003.817574](https://doi.org/10.1109/tie.2003.817574)
 - Cheng, D. & Spurgeon, S. Stabilization of Hamiltonian systems with dissipation. International Journal of Control 74, 465–473 (2001) -- [10.1080/00207170010010551](https://doi.org/10.1080/00207170010010551)
-- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust &amp; Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
+- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust & Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
 - yu, maximum torque per ampere control of pm synchronous motor based on portcontrolled hamiltonian system theory. Proceedings of the CSEE (2006)
 - yu, energy-shaping control of pm synchronous motor based on hamiltonian system theory. Proc 8th Int Conf Electrical Machines and Systems (2005)
 

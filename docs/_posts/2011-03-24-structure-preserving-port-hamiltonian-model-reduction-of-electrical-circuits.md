@@ -52,7 +52,7 @@ This paper discusses model reduction of electrical circuits based on a port-Hami
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - [van der Schaft, A. On balancing of passive systems. 2007 European Control Conference (ECC) 4173–4178 (2007) doi:10.23919/ecc.2007.7068599](on-balancing-of-passive-systems) -- [10.23919/ecc.2007.7068599](https://doi.org/10.23919/ecc.2007.7068599)
 - Scherpen, J.: Balancing for nonlinear systems. Ph.D. thesis, University of Twente (1994)
-- Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems &amp; Control Letters 54, 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
+- Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems & Control Letters 54, 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Arch. Rational Mech. Anal. 45, 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 - Zhou, K., Doyle, J., Glover, K.: Robust and Optimal Control. Prentice-Hal (1996)
 

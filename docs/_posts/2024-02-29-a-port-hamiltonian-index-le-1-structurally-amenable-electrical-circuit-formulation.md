@@ -44,7 +44,7 @@ We present a recently developed electrical circuit formulation that has port-Ham
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. FnT in Systems and Control 1, 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Brown, D. P. Derivative-explicit differential equations for RLC graphs. Journal of the Franklin Institute 275, 503–514 (1963) -- [10.1016/0016-0032(63)90534-9](https://doi.org/10.1016/0016-0032(63)90534-9)
 - Bartel, A., Baumanns, S. & Schöps, S. Structural analysis of electrical circuits including magnetoquasistatic devices. Applied Numerical Mathematics 61, 1257–1270 (2011) -- [10.1016/j.apnum.2011.08.004](https://doi.org/10.1016/j.apnum.2011.08.004)
-- Est�vez Schwarz, D. & Tischendorf, C. Structural analysis of electric circuits and consequences for MNA. Int. J. Circ. Theor. Appl. 28, 131–162 (2000) -- [10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w](https://doi.org/10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w)
+- Estévez Schwarz, D. & Tischendorf, C. Structural analysis of electric circuits and consequences for MNA. Int. J. Circ. Theor. Appl. 28, 131–162 (2000) -- [10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w](https://doi.org/10.1002/(sici)1097-007x(200003/04)28:2<131::aid-cta100>3.0.co;2-w)
 - Riaza, R. Differential-Algebraic Systems. (2008) doi:10.1142/6746 -- [10.1142/6746](https://doi.org/10.1142/6746)
 - G Kron, Tensor Analysis of Networks (1939)
 - Pantelides, C. C. The Consistent Initialization of Differential-Algebraic Systems. SIAM J. Sci. and Stat. Comput. 9, 213–231 (1988) -- [10.1137/0909014](https://doi.org/10.1137/0909014)
@@ -59,5 +59,5 @@ We present a recently developed electrical circuit formulation that has port-Ham
 - [Nedialkov, N., Pryce, J. D. & Scholz, L. An Energy-Based, Always Index $\leq$ 1 and Structurally Amenable Electrical Circuit Model. SIAM J. Sci. Comput. 44, B1122–B1147 (2022)](an-energy-based-always-index-leq-1-and-structurally-amenable-electrical-circuit-model) -- [10.1137/21m1434611](https://doi.org/10.1137/21m1434611)
 - [Falaize, A. & Hélie, T. Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach. Applied Sciences 6, 273 (2016)](passive-guaranteed-simulation-of-analog-audio-circuits-a-port-hamiltonian-approach) -- [10.3390/app6100273](https://doi.org/10.3390/app6100273)
 - Günther, M., Bartel, A., Jacob, B., Reis, T.: Dynamic iteration schemes and port-Hamiltonian formulation in coupled differential-algebraic equation circuit simulation. In: Proceedings of the SCEE (2022)
-- Shashkov, V., Cortes Garcia, I. & Egger, H. MONA—A magnetic oriented nodal analysis for electric circuits. Circuit Theory &amp; Apps 50, 2997–3012 (2022) -- [10.1002/cta.3301](https://doi.org/10.1002/cta.3301)
+- Shashkov, V., Cortes Garcia, I. & Egger, H. MONA—A magnetic oriented nodal analysis for electric circuits. Circuit Theory & Apps 50, 2997–3012 (2022) -- [10.1002/cta.3301](https://doi.org/10.1002/cta.3301)
 

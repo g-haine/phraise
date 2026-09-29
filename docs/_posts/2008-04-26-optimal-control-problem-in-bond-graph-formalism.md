@@ -76,5 +76,5 @@ Optimal control; Dissipative energy minimization; Output error minimization; Bon
 - P. Dolcini, C. Canudas de Wit, H. Bchart, Improved optimal control of dry clutch engagement, in: Proceedings of the 16th IFAC World Congress, Prague, Czech Republic, 4–8 July 2005, p. 6.
 - Foulard, Commande et rgulation par calculateur numrique. Editions Eyrolles (1979)
 - Moler, Nineteen dubious ways to compute the exponential of a matrix, twenty-five years later. Society for Industrial and Applied Mathematics Review (2003)
-- MS1, <http://www.lorsim.be>, 2004.
+- MS1, http://www.lorsim.be, 2004.
 

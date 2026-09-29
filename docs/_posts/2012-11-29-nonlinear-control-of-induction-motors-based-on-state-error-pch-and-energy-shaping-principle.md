@@ -64,6 +64,6 @@ energy-shaping, hamiltonian systems, induction motor, nonlinear control, speed t
 - [Wang, Y., Feng, G. & Cheng, D. Simultaneous stabilization of a set of nonlinear port-controlled Hamiltonian systems. Automatica 43, 403–415 (2007)](simultaneous-stabilization-of-a-set-of-nonlinear-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2006.09.008](https://doi.org/10.1016/j.automatica.2006.09.008)
 - H. Yu, Proc. Chin. Soc. Electr. Eng. (2006)
 - Tjong, S. C. Graphene and its derivatives: Novel materials for forming functional polymer nanocomposites. Express Polym. Lett. 6, 437–437 (2012) -- [10.3144/expresspolymlett.2012.46](https://doi.org/10.3144/expresspolymlett.2012.46)
-- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust &amp; Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
+- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust & Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
 - Karagiannis, D., Astolfi, A., Ortega, R. & Hilairet, M. A Nonlinear Tracking Controller for Voltage-Fed Induction Motors With Uncertain Load Torque. IEEE Trans. Contr. Syst. Technol. 17, 608–619 (2009) -- [10.1109/tcst.2008.2002320](https://doi.org/10.1109/tcst.2008.2002320)
 

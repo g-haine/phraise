@@ -67,5 +67,5 @@ conservative systems, contact forms, irreversible thermodynamics, port hamiltoni
 - Mrugala, R., Nulton, J. D., Christian Schön, J. & Salamon, P. Contact structure in thermodynamic theory. Reports on Mathematical Physics 29, 109–121 (1991) -- [10.1016/0034-4877(91)90017-h](https://doi.org/10.1016/0034-4877(91)90017-h)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
-- van der Schaft, A. & Crouch, P. E. Hamiltonian and self-adjoint control systems. Systems &amp; Control Letters 8, 289–295 (1987) -- [10.1016/0167-6911(87)90093-4](https://doi.org/10.1016/0167-6911(87)90093-4)
+- van der Schaft, A. & Crouch, P. E. Hamiltonian and self-adjoint control systems. Systems & Control Letters 8, 289–295 (1987) -- [10.1016/0167-6911(87)90093-4](https://doi.org/10.1016/0167-6911(87)90093-4)
 

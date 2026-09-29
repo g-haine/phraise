@@ -77,7 +77,7 @@ We study a class of non-autonomous boundary control and observation linear syste
 - H. Tanabe, Equation of Evolution, Pitman, London, 1979.
 - Tucsnak M, Weiss G (2009) Observation and Control for Operator Semigroups. Birkhäuser Basel, Basel -- [10.1007/978-3-7643-8994-9](https://doi.org/10.1007/978-3-7643-8994-9)
 - Tucsnak M, Weiss G (2014) Well-posed systems—The LTI case and beyond. Automatica 50(7):1757–1779. https://doi.org/10.1016/j.automatica.2014.04.016 -- [10.1016/j.automatica.2014.04.016](https://doi.org/10.1016/j.automatica.2014.04.016)
-- J. A. Villegas, <i>A Port-Hamiltonian Approach to Distributed Parameter Systems</i>, Ph.D thesis, Universiteit Twente, 2007, Available from: <a href="http://doc.utwente.nl/57842/1/thesis_Villegas.pdf" target="_blank">http://doc.utwente.nl/57842/1/thesis_Villegas.pdf</a>.
+- J. A. Villegas, A Port-Hamiltonian Approach to Distributed Parameter Systems, Ph.D thesis, Universiteit Twente, 2007, Available from: http://doc.utwente.nl/57842/1/thesis_Villegas.pdf.
 - Villegas JA, Le Gorrec Y, Zwart H, van der Schaft AJ (2005) BOUNDARY CONTROL SYSTEMS AND THE SYSTEM NODE. IFAC Proceedings Volumes 38(1):308–313. https://doi.org/10.3182/20050703-6-cz-1902.00622 -- [10.3182/20050703-6-cz-1902.00622](https://doi.org/10.3182/20050703-6-cz-1902.00622)
 - Weiss G (1994) Transfer Functions of Regular Linear Systems. Part I: Characterizations of Regularity. Transactions of the American Mathematical Society 342(2):827. https://doi.org/10.2307/2154655 -- [10.2307/2154655](https://doi.org/10.2307/2154655)
 - Weiss G (1989) Admissible observation operators for linear semigroups. Israel J Math 65(1):17–43. https://doi.org/10.1007/bf02788172 -- [10.1007/bf02788172](https://doi.org/10.1007/bf02788172)

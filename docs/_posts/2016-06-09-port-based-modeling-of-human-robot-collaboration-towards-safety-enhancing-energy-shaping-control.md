@@ -72,6 +72,6 @@ While collision detection and contact-related injury reduction in physical human
 - secchi, Control of Interactive Roboti Interfaces A Port-Hamiltonian Approach (2007)
 - Behrens, R. & Elkmann, N. Study on meaningful and verified Thresholds for minimizing the consequences of human-robot collisions. 2014 IEEE International Conference on Robotics and Automation (ICRA) (2014) doi:10.1109/icra.2014.6907345 -- [10.1109/icra.2014.6907345](https://doi.org/10.1109/icra.2014.6907345)
 - Duindam, V. & Stramigioli, S. Modeling the kinematics and dynamics of compliant contact. 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422) vol. 3 4029–4034 -- [10.1109/robot.2003.1242216](https://doi.org/10.1109/robot.2003.1242216)
-- Yoganandan, N. et al. Human head-neck biomechanics under axial tension. Medical Engineering &amp; Physics 18, 289–294 (1996) -- [10.1016/1350-4533(95)00054-2](https://doi.org/10.1016/1350-4533(95)00054-2)
+- Yoganandan, N. et al. Human head-neck biomechanics under axial tension. Medical Engineering & Physics 18, 289–294 (1996) -- [10.1016/1350-4533(95)00054-2](https://doi.org/10.1016/1350-4533(95)00054-2)
 - Wood, J. L. Dynamic response of human cranial bone. Journal of Biomechanics 4, 1–12 (1971) -- [10.1016/0021-9290(71)90010-8](https://doi.org/10.1016/0021-9290(71)90010-8)
 

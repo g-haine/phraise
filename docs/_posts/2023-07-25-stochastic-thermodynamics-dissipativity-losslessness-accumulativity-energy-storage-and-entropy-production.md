@@ -40,7 +40,7 @@ In this paper, we develop an energy-based dynamical system model driven by a Mar
 [Download the bib file]({{ site.baseurl }}/assets/bib/stochastic-thermodynamics-dissipativity-losslessness-accumulativity-energy-storage-and-entropy-production.bib)
  
 ## References
-- Lanchares, M. & Haddad, W. M. Dissipative stochastic dynamical systems. Systems &amp; Control Letters vol. 172 105451 (2023) -- [10.1016/j.sysconle.2022.105451](https://doi.org/10.1016/j.sysconle.2022.105451)
+- Lanchares, M. & Haddad, W. M. Dissipative stochastic dynamical systems. Systems & Control Letters vol. 172 105451 (2023) -- [10.1016/j.sysconle.2022.105451](https://doi.org/10.1016/j.sysconle.2022.105451)
 - Sekimoto, K. Kinetic Characterization of Heat Bath and the Energetics of Thermal Ratchet Models. Journal of the Physical Society of Japan vol. 66 1234–1237 (1997) -- [10.1143/jpsj.66.1234](https://doi.org/10.1143/jpsj.66.1234)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics vol. 34 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - [Lanchares, M. & Haddad, W. M. Stochastic Thermodynamics: Dissipativity, Losslessness, Accumulativity, Energy Storage, and Entropy Production. 2023 31st Mediterranean Conference on Control and Automation (MED) 61–66 (2023) doi:10.1109/med59994.2023.10185753](stochastic-thermodynamics-dissipativity-losslessness-accumulativity-energy-storage-and-entropy-production) -- [10.1109/med59994.2023.10185753](https://doi.org/10.1109/med59994.2023.10185753)

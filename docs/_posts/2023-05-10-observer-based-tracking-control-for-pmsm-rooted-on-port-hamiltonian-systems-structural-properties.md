@@ -39,13 +39,13 @@ The main purpose of this work is to present an observer-based control for the PM
 [Download the bib file]({{ site.baseurl }}/assets/bib/observer-based-tracking-control-for-pmsm-rooted-on-port-hamiltonian-systems-structural-properties.bib)
  
 ## References
-- [Biedermann, B. & Meurer, T. Observer design for a class of nonlinear systems combining dissipativity with interconnection and damping assignment. Intl J Robust &amp; Nonlinear 31, 4064–4080 (2021)](observer-design-for-a-class-of-nonlinear-systems-combining-dissipativity-with-interconnection-and-damping-assignment) -- [10.1002/rnc.5461](https://doi.org/10.1002/rnc.5461)
+- [Biedermann, B. & Meurer, T. Observer design for a class of nonlinear systems combining dissipativity with interconnection and damping assignment. Intl J Robust & Nonlinear 31, 4064–4080 (2021)](observer-design-for-a-class-of-nonlinear-systems-combining-dissipativity-with-interconnection-and-damping-assignment) -- [10.1002/rnc.5461](https://doi.org/10.1002/rnc.5461)
 - H Khalil, Nonlinear Systems (2002)
 - Loría, A. & Panteley, E. A separation principle for a class of euler-lagrange systems. Lecture Notes in Control and Information Sciences 229–247 doi:10.1007/bfb0109929 -- [10.1007/bfb0109929](https://doi.org/10.1007/bfb0109929)
 - Ramos-García, F., Espinosa-Pérez, G., Avila-Becerril, S.: On the trajectory tracking control of hamiltonian systems (2021)
 - [Rojas, M., Granados-Salazar, C. & Espinosa-Pérez, G. Observer Design for a Class of Nonlinear Hamiltonian Systems. IFAC-PapersOnLine 54, 125–130 (2021)](observer-design-for-a-class-of-nonlinear-hamiltonian-systems) -- [10.1016/j.ifacol.2021.11.066](https://doi.org/10.1016/j.ifacol.2021.11.066)
 - Rojas, M., Granados-Salazar, C., Espinosa-Pérez, G.: Full-order observer design for quadratic port-controlled hamiltonian systems (2022)
 - Rojas, M., Rueda-Escobedo, J. G., Espinosa-Perez, G. & Schiffer, J. Observer-Based Excitation Control for Transient Stabilization of the Single Machine Infinite Bus System. 2020 59th IEEE Conference on Decision and Control (CDC) 3377–3382 (2020) doi:10.1109/cdc42340.2020.9304424 -- [10.1109/cdc42340.2020.9304424](https://doi.org/10.1109/cdc42340.2020.9304424)
-- Shah, D., Espinosa–Pérez, G., Ortega, R. & Hilairet, M. An asymptotically stable sensorless speed controller for non‐salient permanent magnet synchronous motors. Intl J Robust &amp; Nonlinear 24, 644–668 (2012) -- [10.1002/rnc.2910](https://doi.org/10.1002/rnc.2910)
-- [Yaghmaei, A. & Yazdanpanah, M. J. Output control design and separation principle for a class of port‐Hamiltonian systems. Intl J Robust &amp; Nonlinear 29, 867–881 (2018)](output-control-design-and-separation-principle-for-a-class-of-port-hamiltonian-systems) -- [10.1002/rnc.4407](https://doi.org/10.1002/rnc.4407)
+- Shah, D., Espinosa–Pérez, G., Ortega, R. & Hilairet, M. An asymptotically stable sensorless speed controller for non‐salient permanent magnet synchronous motors. Intl J Robust & Nonlinear 24, 644–668 (2012) -- [10.1002/rnc.2910](https://doi.org/10.1002/rnc.2910)
+- [Yaghmaei, A. & Yazdanpanah, M. J. Output control design and separation principle for a class of port‐Hamiltonian systems. Intl J Robust & Nonlinear 29, 867–881 (2018)](output-control-design-and-separation-principle-for-a-class-of-port-hamiltonian-systems) -- [10.1002/rnc.4407](https://doi.org/10.1002/rnc.4407)
 

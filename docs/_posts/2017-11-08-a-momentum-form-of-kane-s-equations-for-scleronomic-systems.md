@@ -64,7 +64,7 @@ ABSTRACT Kane’s dynamical equations are an efficient and widely used method fo
 - Braun, D. J. & Goldfarb, M. Eliminating constraint drift in the numerical simulation of constrained dynamical systems. Computer Methods in Applied Mechanics and Engineering vol. 198 3151–3160 (2009) -- [10.1016/j.cma.2009.05.013](https://doi.org/10.1016/j.cma.2009.05.013)
 - García de Jalón, J. & Bayo, E. Kinematic and Dynamic Simulation of Multibody Systems. Mechanical Engineering Series (Springer New York, 1994). doi:10.1007/978-1-4612-2600-0 -- [10.1007/978-1-4612-2600-0](https://doi.org/10.1007/978-1-4612-2600-0)
 - Bremen K.E., Numerical Solution of Initial-Value Problems in Differential-Algebraic Equations (1989)
-- Brauchli, H. Mass-orthogonal formulation of equations of motion for multibody systems. ZAMP Zeitschrift f�r angewandte Mathematik und Physik vol. 42 169–182 (1991) -- [10.1007/bf00945791](https://doi.org/10.1007/bf00945791)
+- Brauchli, H. Mass-orthogonal formulation of equations of motion for multibody systems. ZAMP Zeitschrift für angewandte Mathematik und Physik vol. 42 169–182 (1991) -- [10.1007/bf00945791](https://doi.org/10.1007/bf00945791)
 - Margolis D., ASME Symp. Adv. Automot. Technol. (1989)
 - Greenwood D.T., Advanced Dynamics (2006)
 

@@ -44,7 +44,7 @@ In this paper we present a unified framework for modeling the dynamics of electr
 - [Sanchez, S., Ortega, R., Grino, R., Bergna, G. & Molinas, M. Conditions for Existence of Equilibria of Systems With Constant Power Loads. IEEE Trans. Circuits Syst. I 61, 2204–2211 (2014)](conditions-for-existence-of-equilibria-of-systems-with-constant-power-loads) -- [10.1109/tcsi.2013.2295953](https://doi.org/10.1109/tcsi.2013.2295953)
 - demarco, Bringing Phasor Dynamics into Power System Load Flow. University of Wisconsin Engineering Experiment Station (1993)
 - van der schaft, Port-Hamiltonian Systems: An Introductory Survey. Proceedings of the International Congress of Mathematicians (2006)
-- Nazim, R. & Runolfsson, T. Analysis of wind farm dynamics using multiple doubly fed induction generators. 2014 IEEE PES General Meeting | Conference &amp; Exposition 1–5 (2014) doi:10.1109/pesgm.2014.7024988 -- [10.1109/pesgm.2014.7024988](https://doi.org/10.1109/pesgm.2014.7024988)
+- Nazim, R. & Runolfsson, T. Analysis of wind farm dynamics using multiple doubly fed induction generators. 2014 IEEE PES General Meeting | Conference & Exposition 1–5 (2014) doi:10.1109/pesgm.2014.7024988 -- [10.1109/pesgm.2014.7024988](https://doi.org/10.1109/pesgm.2014.7024988)
 - Hill, D. J. Nonlinear dynamic load models with recovery for voltage stability studies. IEEE Trans. Power Syst. 8, 166–176 (1993) -- [10.1109/59.221270](https://doi.org/10.1109/59.221270)
 - Allen, E. H. & Ilic, M. D. Interaction of transmission network and load phasor dynamics in electric power systems. IEEE Trans. Circuits Syst. I 47, 1613–1620 (2000) -- [10.1109/81.895329](https://doi.org/10.1109/81.895329)
 - grainger, Power System Analysis. (1994)

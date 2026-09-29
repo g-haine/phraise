@@ -51,7 +51,7 @@ This paper illustrates a model reduction procedure for port Hamiltonian systems 
 - Gentili, Model reduction for high-order port-Hamiltonian systems. Application to piezo-electric systems. (2009)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica 40, 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - Krysl, P., Lall, S. & Marsden, J. E. Dimensional model reduction in non‐linear finite element dynamics of solids and structures. Numerical Meth Engineering 51, 479–504 (2001) -- [10.1002/nme.167](https://doi.org/10.1002/nme.167)
-- Lall, S., Marsden, J. E. & Glavaški, S. A subspace approach to balanced truncation for model reduction of nonlinear control systems. Intl J Robust &amp; Nonlinear 12, 519–535 (2002) -- [10.1002/rnc.657](https://doi.org/10.1002/rnc.657)
+- Lall, S., Marsden, J. E. & Glavaški, S. A subspace approach to balanced truncation for model reduction of nonlinear control systems. Intl J Robust & Nonlinear 12, 519–535 (2002) -- [10.1002/rnc.657](https://doi.org/10.1002/rnc.657)
 - Lall, S., Krysl, P. & Marsden, J. E. Structure-preserving model reduction for mechanical systems. Physica D: Nonlinear Phenomena 184, 304–318 (2003) -- [10.1016/s0167-2789(03)00227-6](https://doi.org/10.1016/s0167-2789(03)00227-6)
 - Maschke, Port controlled Hamiltonian systems: modeling origins and system theoretic properties. (1992)
 - Nemkov, Development of inductive power transfer for ultrasonic sealing (UIPT) (2008)

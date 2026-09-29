@@ -52,7 +52,7 @@ Process control; Non-linear control; Nonminimum phase systems; Hamiltonian syste
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-the-control-of-non-linear-processes-an-ida-pbc-approach.bib)
  
 ## References
-- Panjapornpon, C., Soroush, M. & Seider, W. D. Model-Based Controller Design for Unstable, Non-Minimum-Phase, Nonlinear Processes. Industrial &amp; Engineering Chemistry Research vol. 45 2758–2768 (2006) -- [10.1021/ie050724p](https://doi.org/10.1021/ie050724p)
+- Panjapornpon, C., Soroush, M. & Seider, W. D. Model-Based Controller Design for Unstable, Non-Minimum-Phase, Nonlinear Processes. Industrial & Engineering Chemistry Research vol. 45 2758–2768 (2006) -- [10.1021/ie050724p](https://doi.org/10.1021/ie050724p)
 - Kazantzis, N. & Kravaris, C. Energy-predictive control: a new synthesis approach for nonlinear process control. Chemical Engineering Science vol. 54 1697–1709 (1999) -- [10.1016/s0009-2509(98)00499-0](https://doi.org/10.1016/s0009-2509(98)00499-0)
 - Kravaris, C. & Mousavere, D. ISE-optimal nonminimum-phase compensation for nonlinear processes. Journal of Process Control vol. 17 453–461 (2007) -- [10.1016/j.jprocont.2006.09.008](https://doi.org/10.1016/j.jprocont.2006.09.008)
 - Guay, M., Dochain, D. & Perrier, M. Adaptive extremum-seeking control of nonisothermal continuous stirred tank reactors. Chemical Engineering Science vol. 60 3671–3681 (2005) -- [10.1016/j.ces.2005.02.042](https://doi.org/10.1016/j.ces.2005.02.042)

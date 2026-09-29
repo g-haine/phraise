@@ -65,7 +65,7 @@ Controlled Hamiltonian system; Optimal point reduction; Optimal orbit reduction;
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Transactions on Automatic Control vol. 45 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - Echeverría-Enríquez, A., Marín-Solano, J., Muñoz-Lecanda, M. C. & Román-Roy, N. Geometric reduction in optimal control theory with symmetries. Reports on Mathematical Physics vol. 52 89–113 (2003) -- [10.1016/s0034-4877(03)90006-1](https://doi.org/10.1016/s0034-4877(03)90006-1)
 - Nijmeijer, (1990)
-- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 10 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
+- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods & Applications vol. 10 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
 - van der Schaft, A. J. Symmetries in Optimal Control. SIAM Journal on Control and Optimization vol. 25 245–259 (1987) -- [10.1137/0325015](https://doi.org/10.1137/0325015)
 - van der Schaft, (2000)
 - van der Schaft, Hamiltonian systems: an introductory survey. Proc. Int. Congr. Math. Madrid (2006)

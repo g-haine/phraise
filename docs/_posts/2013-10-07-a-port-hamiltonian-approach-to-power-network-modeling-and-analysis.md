@@ -74,7 +74,7 @@ Power networks; Modeling; Port-Hamiltonian systems; Stability analysis
 - Pai, (1989)
 - Pai, M. & Murthy, P. On Lyapunov functions for power systems with transfer conductances. IEEE Transactions on Automatic Control vol. 18 181–183 (1973) -- [10.1109/tac.1973.1100255](https://doi.org/10.1109/tac.1973.1100255)
 - Tsolas, N., Arapostathis, A. & Varaiya, P. A structure preserving energy function for power system transient stability analysis. IEEE Transactions on Circuits and Systems vol. 32 1041–1049 (1985) -- [10.1109/tcs.1985.1085625](https://doi.org/10.1109/tcs.1985.1085625)
-- van der Schaft, A. Characterization and partial synthesis of the behavior of resistive circuits at their terminals. Systems &amp; Control Letters vol. 59 423–428 (2010) -- [10.1016/j.sysconle.2010.05.005](https://doi.org/10.1016/j.sysconle.2010.05.005)
+- van der Schaft, A. Characterization and partial synthesis of the behavior of resistive circuits at their terminals. Systems & Control Letters vol. 59 423–428 (2010) -- [10.1016/j.sysconle.2010.05.005](https://doi.org/10.1016/j.sysconle.2010.05.005)
 - Varaiya, P., Wu, F. F. & Rong-Liang Chen. Direct methods for transient stability analysis of power systems: Recent results. Proceedings of the IEEE vol. 73 1703–1715 (1985) -- [10.1109/proc.1985.13366](https://doi.org/10.1109/proc.1985.13366)
 - Woods, (1996)
 

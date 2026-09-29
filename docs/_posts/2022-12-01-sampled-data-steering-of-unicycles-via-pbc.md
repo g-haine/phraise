@@ -53,7 +53,7 @@ In this letter, on the basis of a recently proposed discrete-time port-Hamiltoni
 - Mattioni, M., Moreschini, A., Monaco, S. & Normand-Cyrot, D. Discrete-time energy-balance passivity-based control. Automatica vol. 146 110662 (2022) -- [10.1016/j.automatica.2022.110662](https://doi.org/10.1016/j.automatica.2022.110662)
 - Grüne, L. & Pannek, J. Nonlinear Model Predictive Control. Communications and Control Engineering 45–69 (2016) doi:10.1007/978-3-319-46024-6_3 -- [10.1007/978-3-319-46024-6_3](https://doi.org/10.1007/978-3-319-46024-6_3)
 - Monaco, S. & Normand-Cyrot, D. An introduction to motion planning under multirate digital control. [1992] Proceedings of the 31st IEEE Conference on Decision and Control 1780–1785 doi:10.1109/cdc.1992.371122 -- [10.1109/cdc.1992.371122](https://doi.org/10.1109/cdc.1992.371122)
-- Astolfi, A. Discontinuous control of nonholonomic systems. Systems &amp; Control Letters vol. 27 37–45 (1996) -- [10.1016/0167-6911(95)00041-0](https://doi.org/10.1016/0167-6911(95)00041-0)
+- Astolfi, A. Discontinuous control of nonholonomic systems. Systems & Control Letters vol. 27 37–45 (1996) -- [10.1016/0167-6911(95)00041-0](https://doi.org/10.1016/0167-6911(95)00041-0)
 - siciliano, Modelling Planning and Control (2009)
 - Oriolo, G. & Vendittelli, M. A framework for the stabilization of general nonholonomic systems with an application to the plate-ball mechanism. IEEE Transactions on Robotics vol. 21 162–175 (2005) -- [10.1109/tro.2004.839231](https://doi.org/10.1109/tro.2004.839231)
 - Lin, Z., Broucke, M. & Francis, B. Local Control Strategies for Groups of Mobile Autonomous Agents. IEEE Transactions on Automatic Control vol. 49 622–629 (2004) -- [10.1109/tac.2004.825639](https://doi.org/10.1109/tac.2004.825639)
@@ -66,5 +66,5 @@ In this letter, on the basis of a recently proposed discrete-time port-Hamiltoni
 - Ferrante, F. & Seuret, A. Observer Design for Linear Aperiodic Sampled-Data Systems: A Hybrid Systems Approach. IEEE Control Systems Letters vol. 6 470–475 (2022) -- [10.1109/lcsys.2021.3081345](https://doi.org/10.1109/lcsys.2021.3081345)
 - Battilotti, S. & d’Angelo, M. Stochastic output delay identification of discrete-time Gaussian systems. Automatica vol. 109 108499 (2019) -- [10.1016/j.automatica.2019.108499](https://doi.org/10.1016/j.automatica.2019.108499)
 - Battilotti, S., Cacace, F., d’Angelo, M., Germani, A. & Sinopoli, B. Kalman-like filtering with intermittent observations and non-Gaussian noise. IFAC-PapersOnLine vol. 52 61–66 (2019) -- [10.1016/j.ifacol.2019.12.127](https://doi.org/10.1016/j.ifacol.2019.12.127)
-- Lorı́a, A. & Panteley, E. Uniform exponential stability of linear time-varying systems: revisited. Systems &amp; Control Letters vol. 47 13–24 (2002) -- [10.1016/s0167-6911(02)00165-2](https://doi.org/10.1016/s0167-6911(02)00165-2)
+- Lorı́a, A. & Panteley, E. Uniform exponential stability of linear time-varying systems: revisited. Systems & Control Letters vol. 47 13–24 (2002) -- [10.1016/s0167-6911(02)00165-2](https://doi.org/10.1016/s0167-6911(02)00165-2)
 

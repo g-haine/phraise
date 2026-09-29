@@ -42,7 +42,7 @@ In order to achieve high motion accuracy and better robustness of the rocket lau
 [Download the bib file]({{ site.baseurl }}/assets/bib/passivity-based-control-for-rocket-launcher-position-servo-system-based-on-improved-active-disturbance-rejection-technology.bib)
  
 ## References
-- Lin, S. & Zhang, W. An adaptive sliding-mode observer with a tangent function-based PLL structure for position sensorless PMSM drives. International Journal of Electrical Power &amp; Energy Systems 88, 63–74 (2017) -- [10.1016/j.ijepes.2016.12.006](https://doi.org/10.1016/j.ijepes.2016.12.006)
+- Lin, S. & Zhang, W. An adaptive sliding-mode observer with a tangent function-based PLL structure for position sensorless PMSM drives. International Journal of Electrical Power & Energy Systems 88, 63–74 (2017) -- [10.1016/j.ijepes.2016.12.006](https://doi.org/10.1016/j.ijepes.2016.12.006)
 - Du, B., Wu, S., Han, S. & Cui, S. Application of Linear Active Disturbance Rejection Controller for Sensorless Control of Internal Permanent-Magnet Synchronous Motor. IEEE Trans. Ind. Electron. 63, 3019–3027 (2016) -- [10.1109/tie.2016.2518123](https://doi.org/10.1109/tie.2016.2518123)
 - Hou RM, Shock Vib (2016)
 - Apte, A. A., Joshi, V. A., Walambe, R. A. & Godbole, A. A. Speed Control of PMSM Using Disturbance Observer. IFAC-PapersOnLine 49, 308–313 (2016) -- [10.1016/j.ifacol.2016.03.071](https://doi.org/10.1016/j.ifacol.2016.03.071)
@@ -56,7 +56,7 @@ In order to achieve high motion accuracy and better robustness of the rocket lau
 - Belabbes, B., Lousdad, A., Meroufel, A. & Larbaoui, A. Simulation and Modelling of Passivity Based Control of PMSM Under Controlled Voltage. Journal of Electrical Engineering 64, 298–304 (2013) -- [10.2478/jee-2013-0043](https://doi.org/10.2478/jee-2013-0043)
 - Gai JT, Proceedings of the 17th international conference on electrical machines and systems (ICEMS)
 - Qi, L. & Shi, H. Adaptive position tracking control of permanent magnet synchronous motor based on RBF fast terminal sliding mode control. Neurocomputing 115, 23–30 (2013) -- [10.1016/j.neucom.2012.11.018](https://doi.org/10.1016/j.neucom.2012.11.018)
-- Wu, D., Sun, X., Wang, W. & Shi, P. Robust predictive control for networked control and application to DC‐motor control. IET Control Theory &amp;amp; Appl 8, 1312–1320 (2014) -- [10.1049/iet-cta.2013.0901](https://doi.org/10.1049/iet-cta.2013.0901)
+- Wu, D., Sun, X., Wang, W. & Shi, P. Robust predictive control for networked control and application to DC‐motor control. IET Control Theory & Appl 8, 1312–1320 (2014) -- [10.1049/iet-cta.2013.0901](https://doi.org/10.1049/iet-cta.2013.0901)
 - Mynar, Z., Vesely, L. & Vaclavek, P. PMSM Model Predictive Control With Field-Weakening Implementation. IEEE Trans. Ind. Electron. 63, 5156–5166 (2016) -- [10.1109/tie.2016.2558165](https://doi.org/10.1109/tie.2016.2558165)
 - Mandra, S., Galkowski, K. & Aschemann, H. Robust guaranteed cost ILC with dynamic feedforward and disturbance compensation for accurate PMSM position control. Control Engineering Practice 65, 36–47 (2017) -- [10.1016/j.conengprac.2017.05.004](https://doi.org/10.1016/j.conengprac.2017.05.004)
 - El-Sousy, F. F. M. Hybrid ${\rm H}^{\infty}$-Based Wavelet-Neural-Network Tracking Control for Permanent-Magnet Synchronous Motor Servo Drives. IEEE Trans. Ind. Electron. 57, 3157–3166 (2010) -- [10.1109/tie.2009.2038331](https://doi.org/10.1109/tie.2009.2038331)

@@ -41,7 +41,7 @@ This paper aims at extending the port-Hamiltonian formalism to a simple class of
  
 ## References
 - Russell, T. Symplectic geometry: The natural geometry of economics? Economics Letters 112, 236–238 (2011) -- [10.1016/j.econlet.2011.05.001](https://doi.org/10.1016/j.econlet.2011.05.001)
-- Wyatt, J. L. & Chua, L. O. A theory of nonenergic N‐ports. Circuit Theory &amp; Apps 5, 181–208 (1977) -- [10.1002/cta.4490050210](https://doi.org/10.1002/cta.4490050210)
+- Wyatt, J. L. & Chua, L. O. A theory of nonenergic N‐ports. Circuit Theory & Apps 5, 181–208 (1977) -- [10.1002/cta.4490050210](https://doi.org/10.1002/cta.4490050210)
 - franksen, Basic concepts in engineering and economics. Physical Structure in Systems Theory Network Approaches to Engineering and Economics (1974)
 - ramirez, Irreversible port Hamiltonian systems. Lagrangian and Hamiltonian Methods for Nonlinear Control (LHMNLC 2012) Proceedings of the 4th IFAC Workshop on (2012)
 - eberard, Conservative systems with ports on contact manifolds. IFAC World Congress Proceeding of the 16th (2005)

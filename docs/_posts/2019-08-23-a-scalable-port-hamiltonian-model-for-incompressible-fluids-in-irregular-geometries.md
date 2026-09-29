@@ -52,9 +52,9 @@ Port-Hamiltonian systems; PDE; approximation of PDEs; computational methods
 [Download the bib file]({{ site.baseurl }}/assets/bib/a-scalable-port-hamiltonian-model-for-incompressible-fluids-in-irregular-geometries.bib)
  
 ## References
-- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems & Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
 - Bird, (2014)
-- Bourantas, G. C., Cheeseman, B. L., Ramaswamy, R. & Sbalzarini, I. F. Using DC PSE operator discretization in Eulerian meshless collocation methods improves their robustness in complex geometries. Computers &amp; Fluids vol. 136 285–300 (2016) -- [10.1016/j.compfluid.2016.06.010](https://doi.org/10.1016/j.compfluid.2016.06.010)
+- Bourantas, G. C., Cheeseman, B. L., Ramaswamy, R. & Sbalzarini, I. F. Using DC PSE operator discretization in Eulerian meshless collocation methods improves their robustness in complex geometries. Computers & Fluids vol. 136 285–300 (2016) -- [10.1016/j.compfluid.2016.06.010](https://doi.org/10.1016/j.compfluid.2016.06.010)
 - Brodkey, Transport Phenomena: A Unified Approach. (2003)
 - Cal, I. R., Cercos-Pita, J. L. & Duque, D. The incompressibility assumption in computational simulations of nasal airflow. Computer Methods in Biomechanics and Biomedical Engineering vol. 20 853–868 (2017) -- [10.1080/10255842.2017.1307343](https://doi.org/10.1080/10255842.2017.1307343)
 - Duindam, (2009)

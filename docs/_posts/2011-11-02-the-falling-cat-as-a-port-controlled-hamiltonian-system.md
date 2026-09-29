@@ -60,11 +60,11 @@ Geometric mechanics; Port-controlled Hamiltonian systems; The falling cat
 - Iwai, T. Geometric mechanics of many-body systems. Journal of Computational and Applied Mathematics 140, 403–422 (2002) -- [10.1016/s0377-0427(01)00400-9](https://doi.org/10.1016/s0377-0427(01)00400-9)
 - X.S. Ge, Q.Z. Zhang, Optimal control of nonholonomic motion planning for a free-fall cat, in: Proceedings of the First International Conference on Innovative Computing, Information and Control, ICICIC’06, 2006.
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Putting energy back in control. IEEE Control Syst. 21, 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Iwai, T. & Yamaoka, H. Stratified reduction of classical many-body systems with symmetry. J. Phys. A: Math. Gen. 38, 2415–2439 (2005) -- [10.1088/0305-4470/38/11/007](https://doi.org/10.1088/0305-4470/38/11/007)
 - Koon, W.-S. & Marsden, J. E. Optimal Control for Holonomic and Nonholonomic Mechanical Systems with Symmetry and Lagrangian Reduction. SIAM J. Control Optim. 35, 901–929 (1997) -- [10.1137/s0363012995290367](https://doi.org/10.1137/s0363012995290367)
-- Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of Euler–Poincaré mechanical systems. Intl J Robust &amp; Nonlinear 11, 191–214 (2001) -- [10.1002/rnc.572](https://doi.org/10.1002/rnc.572)
+- Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of Euler–Poincaré mechanical systems. Intl J Robust & Nonlinear 11, 191–214 (2001) -- [10.1002/rnc.572](https://doi.org/10.1002/rnc.572)
 - Wilczek, Gauge theory of deformable bodies. (1989)
 - (1998)
 

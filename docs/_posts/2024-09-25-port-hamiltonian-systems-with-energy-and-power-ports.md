@@ -64,7 +64,7 @@ Port-Hamiltonian systems; constrained Hamiltonian systems; input-output systems;
 - Pons, J. M. On Dirac’s incomplete analysis of gauge transformations. Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics vol. 36 491–518 (2005) -- [10.1016/j.shpsb.2005.04.004](https://doi.org/10.1016/j.shpsb.2005.04.004)
 - van der Schaft, (2014)
 - Van der Schaft, A. (1985). On feedback control of Hamiltonian systems, 273–290. 7th Int. Symp. Mathematical Theory of Networks and Systems.
-- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems & Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
 - [van der Schaft, A. & Maschke, B. Dirac and Lagrange Algebraic Constraints in Nonlinear Port-Hamiltonian Systems. Vietnam Journal of Mathematics vol. 48 929–939 (2020)](dirac-and-lagrange-algebraic-constraints-in-nonlinear-port-hamiltonian-systems) -- [10.1007/s10013-020-00419-x](https://doi.org/10.1007/s10013-020-00419-x)
 - Weinstein, A. Lectures on Symplectic Manifolds. CBMS Regional Conference Series in Mathematics (1977) doi:10.1090/cbms/029 -- [10.1090/cbms/029](https://doi.org/10.1090/cbms/029)
 

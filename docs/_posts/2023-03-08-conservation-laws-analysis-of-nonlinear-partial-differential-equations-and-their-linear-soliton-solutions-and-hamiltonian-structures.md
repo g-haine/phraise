@@ -45,7 +45,7 @@ This article mainly uses two methods of solving the conservation laws of two par
 ## References
 - Olver PJ (1990) Symmetries and Differential Equations (G. W. Bluman and S. Kumei). SIAM Rev 32(3):517–519. https://doi.org/10.1137/1032114 -- [10.1137/1032114](https://doi.org/10.1137/1032114)
 - Tu G-zhang (1989) The trace identity, a powerful tool for constructing the Hamiltonian structure of integrable systems. Journal of Mathematical Physics 30(2):330–338. https://doi.org/10.1063/1.528449 -- [10.1063/1.528449](https://doi.org/10.1063/1.528449)
-- P. J. Olver, Applications of Lie Groups to Differential Equations, <i>Springer Science and Business Media New York, NY</i>, (2012). <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1016/0001-8708(88)90053-9">https://doi.org/10.1016/0001-8708(88)90053-9</ext-link>
+- P. J. Olver, Applications of Lie Groups to Differential Equations, Springer Science and Business Media New York, NY, (2012). https://doi.org/10.1016/0001-8708(88)90053-9
 - San S, Akbulut A, Ünsal Ö, Taşcan F (2016) Conservation laws and double reduction of (2+1) dimensional Calogero–Bogoyavlenskii–Schiff equation. Math Methods in App Sciences 40(5):1703–1710. https://doi.org/10.1002/mma.4091 -- [10.1002/mma.4091](https://doi.org/10.1002/mma.4091)
 - Simkins L (1963) Instructions as discriminative stimuli in verbal conditioning and awareness. The Journal of Abnormal and Social Psychology 66(3):213–219. https://doi.org/10.1037/h0047923 -- [10.1037/h0047923](https://doi.org/10.1037/h0047923)
 - ANCO SC, BLUMAN G (2002) Direct construction method for conservation 

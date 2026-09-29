@@ -52,7 +52,7 @@ Electromechanical systems; Port-Hamiltonian systems; Trajectory tracking; Energy
 [Download the bib file]({{ site.baseurl }}/assets/bib/energy-based-control-approaches-for-weakly-coupled-electromechanical-systems.bib)
  
 ## References
-- Aminzare, Z. & Sontag, E. D. Logarithmic Lipschitz norms and diffusion-induced instability. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 83 31–49 (2013) -- [10.1016/j.na.2013.01.001](https://doi.org/10.1016/j.na.2013.01.001)
+- Aminzare, Z. & Sontag, E. D. Logarithmic Lipschitz norms and diffusion-induced instability. Nonlinear Analysis: Theory, Methods & Applications vol. 83 31–49 (2013) -- [10.1016/j.na.2013.01.001](https://doi.org/10.1016/j.na.2013.01.001)
 - Bernstein, (2009)
 - [Borja, P., Cisneros, R. & Ortega, R. A constructive procedure for energy shaping of port—Hamiltonian systems. Automatica vol. 72 230–234 (2016)](a-constructive-procedure-for-energy-shaping-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2016.05.028](https://doi.org/10.1016/j.automatica.2016.05.028)
 - Borja, P., Santina, C. D. & Dabiri, A. On the Role of Coupled Damping and Gyroscopic Forces in the Stability and Performance of Mechanical Systems. IEEE Control Systems Letters vol. 6 3433–3438 (2022) -- [10.1109/lcsys.2022.3185655](https://doi.org/10.1109/lcsys.2022.3185655)

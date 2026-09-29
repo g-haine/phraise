@@ -41,9 +41,9 @@ Soft limb locomotion is a relatively new and challenging research field. However
  
 ## References
 - murray, A Mathematical Introduction to Robotic Manipulation (1994)
-- Zullo, L. & Hochner, B. A new perspective on the organization of an invertebrate brain. Communicative &amp; Integrative Biology 4, 26–29 (2011) -- [10.4161/cib.13804](https://doi.org/10.4161/cib.13804)
+- Zullo, L. & Hochner, B. A new perspective on the organization of an invertebrate brain. Communicative & Integrative Biology 4, 26–29 (2011) -- [10.4161/cib.13804](https://doi.org/10.4161/cib.13804)
 - Kokotovic, P. V., Krstic, M. & Kanellakopoulos, I. Backstepping to passivity: recursive design of adaptive systems. [1992] Proceedings of the 31st IEEE Conference on Decision and Control 3276–3280 doi:10.1109/cdc.1992.371031 -- [10.1109/cdc.1992.371031](https://doi.org/10.1109/cdc.1992.371031)
-- Liu, Y. & Yu, H. A survey of underactuated mechanical systems. IET Control Theory &amp;amp; Appl 7, 921–935 (2013) -- [10.1049/iet-cta.2012.0505](https://doi.org/10.1049/iet-cta.2012.0505)
+- Liu, Y. & Yu, H. A survey of underactuated mechanical systems. IET Control Theory & Appl 7, 921–935 (2013) -- [10.1049/iet-cta.2012.0505](https://doi.org/10.1049/iet-cta.2012.0505)
 - White, W. N., Foss, M. & Xin Guo. A direct Lyapunov approach for a class of underactuated mechanical systems. 2006 American Control Conference 8 pp. (2006) doi:10.1109/acc.2006.1655338 -- [10.1109/acc.2006.1655338](https://doi.org/10.1109/acc.2006.1655338)
 - Ichida, K., Watanabe, K., Izumi, K. & Uchida, N. Fuzzy Switching Control of Underactuated Manipulators with Approximated Switching Regions. 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems 586–591 (2006) doi:10.1109/iros.2006.282479 -- [10.1109/iros.2006.282479](https://doi.org/10.1109/iros.2006.282479)
 - Zheng, T. et al. Octopus inspired walking robot: Design, control and experimental validation. 2013 IEEE International Conference on Robotics and Automation 816–821 (2013) doi:10.1109/icra.2013.6630667 -- [10.1109/icra.2013.6630667](https://doi.org/10.1109/icra.2013.6630667)

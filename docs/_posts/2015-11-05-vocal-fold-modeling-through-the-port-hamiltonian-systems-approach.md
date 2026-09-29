@@ -52,5 +52,5 @@ No BibTeX found!
 - Erath, B. D. et al. A review of lumped-element models of voiced speech. Speech Communication 55, 667–690 (2013) -- [10.1016/j.specom.2013.02.002](https://doi.org/10.1016/j.specom.2013.02.002)
 - van der schaft, L2-Gain and Passivity in Nonlinear Control (1999)
 - yuz, Sampled-data models for linear and nonlinear systems (2013)
-- [Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems &amp; Control Letters 55, 673–680 (2006)](construction-of-discrete-time-models-for-port-controlled-hamiltonian-systems-with-applications) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
+- [Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems & Control Letters 55, 673–680 (2006)](construction-of-discrete-time-models-for-port-controlled-hamiltonian-systems-with-applications) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
 

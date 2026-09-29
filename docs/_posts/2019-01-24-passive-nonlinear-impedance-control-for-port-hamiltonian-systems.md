@@ -41,7 +41,7 @@ This paper describes a procedure to design a passive nonlinear impedance control
  
 ## References
 - Inagaki, S., Suzuki, T. & Ito, T. Design of man-machine cooperative nonholonomic two-wheeled vehicle based on impedance control and time-state control. 2009 IEEE International Conference on Robotics and Automation 3768–3773 (2009) doi:10.1109/robot.2009.5152879 -- [10.1109/robot.2009.5152879](https://doi.org/10.1109/robot.2009.5152879)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1996). doi:10.1007/3-540-76074-1 -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Trans. Circuits Syst. I 42, 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)

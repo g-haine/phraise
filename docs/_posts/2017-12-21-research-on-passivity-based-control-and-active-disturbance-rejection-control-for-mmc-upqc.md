@@ -49,7 +49,7 @@ In this paper, the port controlled hamiltonian with dissipation (PCHD) model of 
 - zhao, Modeling and simulation technology of flexible DC transmission system (2014)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Energy-shaping of port-controlled Hamiltonian systems by interconnection. Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No.99CH36304) vol. 2 1646–1651](energy-shaping-of-port-controlled-hamiltonian-systems-by-interconnection) -- [10.1109/cdc.1999.830260](https://doi.org/10.1109/cdc.1999.830260)
 - cai, Euler-lagrange model based passive control for modular multilevel converter. Transactions of China Electrotechnical Society (2013)
-- Xiangning Xiao, Jingjing Lu, Chang Yuan & Yongchun Yang. A 10kV 4MVA unified power quality conditioner based on modular multilevel inverter. 2013 International Electric Machines &amp; Drives Conference 1352–1357 (2013) doi:10.1109/iemdc.2013.6556312 -- [10.1109/iemdc.2013.6556312](https://doi.org/10.1109/iemdc.2013.6556312)
+- Xiangning Xiao, Jingjing Lu, Chang Yuan & Yongchun Yang. A 10kV 4MVA unified power quality conditioner based on modular multilevel inverter. 2013 International Electric Machines & Drives Conference 1352–1357 (2013) doi:10.1109/iemdc.2013.6556312 -- [10.1109/iemdc.2013.6556312](https://doi.org/10.1109/iemdc.2013.6556312)
 - wang, Passivity-Based Control Theory and Its Applications (2011)
 - Khadkikar, V. Enhancing Electric Power Quality Using UPQC: A Comprehensive Overview. IEEE Trans. Power Electron. 27, 2284–2297 (2012) -- [10.1109/tpel.2011.2172001](https://doi.org/10.1109/tpel.2011.2172001)
 

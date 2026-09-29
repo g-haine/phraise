@@ -87,6 +87,6 @@ Distance to singularity; Distance to high index problem; Distance to instability
 - Mehrmann, Structure-preserving discretization for port-Hamiltonian descriptor systems. (2019)
 - van der Schaft, Port-Hamiltonian differential-algebraic systems. (2013)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
-- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems & Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

@@ -43,7 +43,7 @@ This article presents a modified dispatchable virtual oscillator control approac
 [Download the bib file]({{ site.baseurl }}/assets/bib/control-design-of-passive-grid-forming-inverters-in-port-hamiltonian-framework.bib)
  
 ## References
-- Hatziargyriou, N. et al. Definition and Classification of Power System Stability – Revisited &amp; Extended. IEEE Transactions on Power Systems vol. 36 3271–3281 (2021) -- [10.1109/tpwrs.2020.3041774](https://doi.org/10.1109/tpwrs.2020.3041774)
+- Hatziargyriou, N. et al. Definition and Classification of Power System Stability – Revisited & Extended. IEEE Transactions on Power Systems vol. 36 3271–3281 (2021) -- [10.1109/tpwrs.2020.3041774](https://doi.org/10.1109/tpwrs.2020.3041774)
 - Kong, L., Xue, Y., Qiao, L. & Wang, F. Review of Small-Signal Converter-Driven Stability Issues in Power Systems. IEEE Open Access Journal of Power and Energy vol. 9 29–41 (2022) -- [10.1109/oajpe.2021.3137468](https://doi.org/10.1109/oajpe.2021.3137468)
 - Lin, Y. et al. Research Roadmap on Grid-Forming Inverters. http://dx.doi.org/10.2172/1721727 (2020) doi:10.2172/1721727 -- [10.2172/1721727](https://doi.org/10.2172/1721727)
 - Lasseter, R. H., Chen, Z. & Pattabiraman, D. Grid-Forming Inverters: A Critical Asset for the Power Grid. IEEE Journal of Emerging and Selected Topics in Power Electronics vol. 8 925–935 (2020) -- [10.1109/jestpe.2019.2959271](https://doi.org/10.1109/jestpe.2019.2959271)

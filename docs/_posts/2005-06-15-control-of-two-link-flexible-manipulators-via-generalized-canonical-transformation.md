@@ -43,8 +43,8 @@ Since the two-link flexible manipulator is an underactuated system which provide
  
 ## References
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust &amp; Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust & Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - van der schaft, L2-Gain and Passivity Techniques in Nonlinear Control (1999)
 - stramigioli, Passive output feedback and port interconnection. Proceedings of IFAC Symposium on Nonlinear Control Systems (1998)
 - Yuh, J. Application of discrete‐time model reference adaptive control to a flexible single‐link robot. J. Robotic Syst. 4, 621–630 (1987) -- [10.1002/rob.4620040504](https://doi.org/10.1002/rob.4620040504)

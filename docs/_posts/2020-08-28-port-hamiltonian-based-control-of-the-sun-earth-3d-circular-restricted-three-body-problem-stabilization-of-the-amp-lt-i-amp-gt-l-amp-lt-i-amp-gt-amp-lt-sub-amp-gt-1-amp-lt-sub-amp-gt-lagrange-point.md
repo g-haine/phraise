@@ -44,14 +44,14 @@ In this paper, we use Port-Hamiltonian framework to stabilize the Lagrange point
  
 ## References
 - Musielak, Z. E. & Quarles, B. The three-body problem. Rep. Prog. Phys. 77, 065901 (2014) -- [10.1088/0034-4885/77/6/065901](https://doi.org/10.1088/0034-4885/77/6/065901)
-- Pilbratt, G. L. et al. HerschelSpace Observatory. A&amp;A 518, L1 (2010) -- [10.1051/0004-6361/201014759](https://doi.org/10.1051/0004-6361/201014759)
+- Pilbratt, G. L. et al. HerschelSpace Observatory. A&A 518, L1 (2010) -- [10.1051/0004-6361/201014759](https://doi.org/10.1051/0004-6361/201014759)
 - Gardner, J. P. et al. The James Webb Space Telescope. Space Sci Rev 123, 485–606 (2006) -- [10.1007/s11214-006-8315-7](https://doi.org/10.1007/s11214-006-8315-7)
 - Farquhar, R. The flight of ISEE-3/ICE - Origins, mission history, and a legacy. AIAA/AAS Astrodynamics Specialist Conference and Exhibit (1998) doi:10.2514/6.1998-4464 -- [10.2514/6.1998-4464](https://doi.org/10.2514/6.1998-4464)
 - Stone, E. C. et al. Space Science Reviews 86, 1–22 (1998) -- [10.1023/a:1005082526237](https://doi.org/10.1023/a:1005082526237)
 - Sweetser, T. H. et al. ARTEMIS Mission Design. The ARTEMIS Mission 61–91 (2012) doi:10.1007/978-1-4614-9554-3_4 -- [10.1007/978-1-4614-9554-3_4](https://doi.org/10.1007/978-1-4614-9554-3_4)
 - Shirobokov, M., Trofimov, S. & Ovchinnikov, M. Survey of Station-Keeping Techniques for Libration Point Orbits. Journal of Guidance, Control, and Dynamics 40, 1085–1105 (2017) -- [10.2514/1.g001850](https://doi.org/10.2514/1.g001850)
 - Meyer, K. R. & Schmidt, D. S. The stability of the Lagrange triangular point and a theorem of Arnold. Journal of Differential Equations 62, 222–236 (1986) -- [10.1016/0022-0396(86)90098-7](https://doi.org/10.1016/0022-0396(86)90098-7)
-- G�mez, G., Jorba, A., Masdemont, J. & Sim�, C. Study of the transfer from the Earth to a halo orbit around the equilibrium pointL 1. Celestial Mech Dyn Astr 56, 541–562 (1993) -- [10.1007/bf00696185](https://doi.org/10.1007/bf00696185)
+- Gómez, G., Jorba, A., Masdemont, J. & Simó, C. Study of the transfer from the Earth to a halo orbit around the equilibrium point \\(L_{1}\\). Celestial Mech Dyn Astr 56, 541–562 (1993) -- [10.1007/bf00696185](https://doi.org/10.1007/bf00696185)
 - Richardson, D. L. Halo Orbit Formulation for the ISEE-3 Mission. Journal of Guidance and Control 3, 543–548 (1980) -- [10.2514/3.56033](https://doi.org/10.2514/3.56033)
 - Cielaszyk, D. & Wie, B. New approach to halo orbit determination and control. Journal of Guidance, Control, and Dynamics 19, 266–273 (1996) -- [10.2514/3.21614](https://doi.org/10.2514/3.21614)
 - Ardaens, J.S. and D’Amico, S. (2008) Control of Formation Flying Spacecraft at a Lagrange Point. No. 00-08.

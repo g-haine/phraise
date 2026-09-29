@@ -70,7 +70,7 @@ We establish well-posedness results for non-autonomous semilinear input-output s
 - Nickel G, Schnaubelt R (1998) AN EXTENSION OF KATO'S STABILITY CONDITION FOR NONAUTONOMOUS CAUCHY PROBLEMS. Taiwanese J Math 2(4). https://doi.org/10.11650/twjm/1500407019 -- [10.11650/twjm/1500407019](https://doi.org/10.11650/twjm/1500407019)
 - Pazy A (1983) Semigroups of Linear Operators and Applications to Partial Differential Equations. Springer New York, New York, NY -- [10.1007/978-1-4612-5561-1](https://doi.org/10.1007/978-1-4612-5561-1)
 - (1978) On semilinear evolution equations in Banach spaces. Journal für die reine und angewandte Mathematik (Crelles Journal) 1978(303-304):144–158. https://doi.org/10.1515/crll.1978.303-304.144 -- [10.1515/crll.1978.303-304.144](https://doi.org/10.1515/crll.1978.303-304.144)
-- Pr�� J (1980) A note on strict solutions to semilinear evolution equations. Math Z 171(3):285–288. https://doi.org/10.1007/bf01214993 -- [10.1007/bf01214993](https://doi.org/10.1007/bf01214993)
+- Prüß J (1980) A note on strict solutions to semilinear evolution equations. Math Z 171(3):285–288. https://doi.org/10.1007/bf01214993 -- [10.1007/bf01214993](https://doi.org/10.1007/bf01214993)
 - W. Rudin, Functional Analysis, 2nd edition, McGraw-Hill, 1991.
 - Schmid J (2015) Well-posedness of non-autonomous linear evolution equations for generators whose commutators are scalar. J Evol Equ 16(1):21–50. https://doi.org/10.1007/s00028-015-0291-5 -- [10.1007/s00028-015-0291-5](https://doi.org/10.1007/s00028-015-0291-5)
 - J. Schmid, Adiabatic Theorems for General Linear Operators and Well-Posedness of Linear Evolution Equations, PhD thesis, Universität Stuttgart, 2015. -- [10.18419/opus-5178](https://doi.org/10.18419/opus-5178)

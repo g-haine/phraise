@@ -43,7 +43,7 @@ In this paper, the control problem of Islanded Microgrids is approached. A contr
 [Download the bib file]({{ site.baseurl }}/assets/bib/control-of-islanded-microgrids-considering-power-converter-dynamics.bib)
  
 ## References
-- Agundis-Tinajero, G. et al. Power flow modeling of islanded AC microgrids with hierarchical control. International Journal of Electrical Power &amp; Energy Systems 105, 28–36 (2019) -- [10.1016/j.ijepes.2018.08.002](https://doi.org/10.1016/j.ijepes.2018.08.002)
+- Agundis-Tinajero, G. et al. Power flow modeling of islanded AC microgrids with hierarchical control. International Journal of Electrical Power & Energy Systems 105, 28–36 (2019) -- [10.1016/j.ijepes.2018.08.002](https://doi.org/10.1016/j.ijepes.2018.08.002)
 - Avila-Becerril, S., Espinosa-Perez, G. & Canseco-Rodal, R. On the control of power flows in microgrids. 2017 IEEE 56th Annual Conference on Decision and Control (CDC) 3252–3257 (2017) doi:10.1109/cdc.2017.8264136 -- [10.1109/cdc.2017.8264136](https://doi.org/10.1109/cdc.2017.8264136)
 - [Avila-Becerril, S., Espinosa-Pérez, G. & Fernandez, P. Dynamic Characterization of Typical Electrical Circuits via Structural Properties. Mathematical Problems in Engineering 2016, 1–13 (2016)](dynamic-characterization-of-typical-electrical-circuits-via-structural-properties) -- [10.1155/2016/7870462](https://doi.org/10.1155/2016/7870462)
 - Barklund, E., Pogaku, N., Prodanovic, M., Hernandez-Aramburo, C. & Green, T. C. Energy Management in Autonomous Microgrid Using Stability-Constrained Droop Control of Inverters. IEEE Trans. Power Electron. 23, 2346–2352 (2008) -- [10.1109/tpel.2008.2001910](https://doi.org/10.1109/tpel.2008.2001910)

@@ -48,6 +48,6 @@ In order to simplify the model of Direct-drive Permanent Magnet Synchronous Gene
 - jones, High Quality Mains Power form Variable-Speed Wind Turbines [J]. Wind Eng (1994)
 - Angeline, P. J. Using selection to improve particle swarm optimization. 1998 IEEE International Conference on Evolutionary Computation Proceedings. IEEE World Congress on Computational Intelligence (Cat. No.98TH8360) doi:10.1109/icec.1998.699327 -- [10.1109/icec.1998.699327](https://doi.org/10.1109/icec.1998.699327)
 - ren, Research on passivity and sensorless control of direct-driven permanent magnet synchronous wind generator system. Harbin Institute of Technology (2013)
-- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust &amp; Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
+- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust & Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
 - Cecati, C. & Rotondale, N. Torque and speed regulation of induction motors using the passivity theory approach. IEEE Trans. Ind. Electron. 46, 119–127 (1999) -- [10.1109/41.744403](https://doi.org/10.1109/41.744403)
 

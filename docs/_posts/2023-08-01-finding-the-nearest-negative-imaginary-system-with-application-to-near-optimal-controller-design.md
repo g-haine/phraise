@@ -42,7 +42,7 @@ In this paper, we consider the problem of robust stabilization of linear time-in
 ## References
 - Mahmood, I. A., Moheimani, S. O. R. & Bhikkaji, B. A New Scanning Method for Fast Atomic Force Microscopy. IEEE Transactions on Nanotechnology vol. 10 203–216 (2011) -- [10.1109/tnano.2009.2036844](https://doi.org/10.1109/tnano.2009.2036844)
 - Xiong, J., Petersen, I. R. & Lanzon, A. A Negative Imaginary Lemma and the Stability of Interconnections of Linear Negative Imaginary Systems. IEEE Transactions on Automatic Control vol. 55 2342–2347 (2010) -- [10.1109/tac.2010.2052711](https://doi.org/10.1109/tac.2010.2052711)
-- Mabrok, M. A. & Petersen, I. R. Controller synthesis for negative imaginary systems: a data driven approach. IET Control Theory &amp; Applications vol. 10 1480–1486 (2016) -- [10.1049/iet-cta.2015.0800](https://doi.org/10.1049/iet-cta.2015.0800)
+- Mabrok, M. A. & Petersen, I. R. Controller synthesis for negative imaginary systems: a data driven approach. IET Control Theory & Applications vol. 10 1480–1486 (2016) -- [10.1049/iet-cta.2015.0800](https://doi.org/10.1049/iet-cta.2015.0800)
 - Wilson, D. G., Robinett, III, R. D., Parker, G. G. & Starr, G. P. Journal of Intelligent and Robotic Systems vol. 34 415–430 (2002) -- [10.1023/a:1019635709331](https://doi.org/10.1023/a:1019635709331)
 - Feedback Control of Negative-Imaginary Systems. IEEE Control Systems vol. 30 54–72 (2010) -- [10.1109/mcs.2010.937676](https://doi.org/10.1109/mcs.2010.937676)
 - nesterov, A method of solving a convex programming problem with convergence rate o(1/k2). Soviet Mathematics Doklady (1983)

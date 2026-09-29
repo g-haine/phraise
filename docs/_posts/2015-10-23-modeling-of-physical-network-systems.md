@@ -70,7 +70,7 @@ available storage, laplacian matrix, matrix tree theorem, physical network, port
 - Mirzaev I, Gunawardena J (2013) Laplacian Dynamics on General Graphs. Bull Math Biol 75(11):2118–2149. https://doi.org/10.1007/s11538-013-9884- -- [10.1007/s11538-013-9884-8](https://doi.org/10.1007/s11538-013-9884-8)
 - Sontag ED (2001) Structure and stability of certain chemical networks and applications to the kinetic proofreading model of T-cell receptor signal transduction. IEEE Trans Automat Contr 46(7):1028–1047. https://doi.org/10.1109/9.93505 -- [10.1109/9.935056](https://doi.org/10.1109/9.935056)
 - Chopra, Passivity-based control of multi-agent systems. (2006)
-- Willems JC (2013) Power and energy as systemic properties &amp;#x2014; Part II: Mechanical systems. 52nd IEEE Conference on Decision and Control 175–18 -- [10.1109/cdc.2013.6759878](https://doi.org/10.1109/cdc.2013.6759878)
+- Willems JC (2013) Power and energy as systemic properties — Part II: Mechanical systems. 52nd IEEE Conference on Decision and Control 175–18 -- [10.1109/cdc.2013.6759878](https://doi.org/10.1109/cdc.2013.6759878)
 - [{"status":"error"](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - [Seslija M, van der Schaft A, Scherpen JMA (2012) Discrete exterior geometry approach to structure-preserving discretization of distributed-parameter port-Hamiltonian systems. Journal of Geometry and Physics 62(6):1509–1531. https://doi.org/10.1016/j.geomphys.2012.02.00](discrete-exterior-geometry-approach-to-structure-preserving-discretization-of-distributed-parameter-port-hamiltonian-systems) -- [10.1016/j.geomphys.2012.02.006](https://doi.org/10.1016/j.geomphys.2012.02.006)
 

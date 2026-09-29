@@ -39,7 +39,7 @@ We present a gradient-based calibration algorithm to identify a port-Hamiltonian
 [Download the bib file]({{ site.baseurl }}/assets/bib/structure-preserving-identification-of-port-hamiltonian-systems-a-sensitivity-based-approach.bib)
  
 ## References
-- [Benner, P., Goyal, P. & Van Dooren, P. Identification of port-Hamiltonian systems from frequency response data. Systems &amp; Control Letters 143, 104741 (2020)](identification-of-port-hamiltonian-systems-from-frequency-response-data) -- [10.1016/j.sysconle.2020.104741](https://doi.org/10.1016/j.sysconle.2020.104741)
+- [Benner, P., Goyal, P. & Van Dooren, P. Identification of port-Hamiltonian systems from frequency response data. Systems & Control Letters 143, 104741 (2020)](identification-of-port-hamiltonian-systems-from-frequency-response-data) -- [10.1016/j.sysconle.2020.104741](https://doi.org/10.1016/j.sysconle.2020.104741)
 - K Cherifi, Electron. Trans. Numer. Anal. Special Issue SciML (2022)
 - Cherifi, K., Mehrmann, V., Hariche, K.: Numerical methods to compute a minimal realization of a port-Hamiltonian system. arXiv:1903.07042v1
 - Modeling and Control of Complex Physical Systems (2009)

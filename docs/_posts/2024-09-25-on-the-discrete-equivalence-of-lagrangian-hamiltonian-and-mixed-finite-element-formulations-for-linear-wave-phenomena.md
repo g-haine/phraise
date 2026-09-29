@@ -61,7 +61,7 @@ Hamiltonian formulation; Lagrangian formulation; mixed finite elements
 - Jacob, (2012)
 - Joly, P. Variational Methods for Time-Dependent Wave Propagation Problems. Lecture Notes in Computational Science and Engineering 201–264 (2003) doi:10.1007/978-3-642-55483-4_6 -- [10.1007/978-3-642-55483-4_6](https://doi.org/10.1007/978-3-642-55483-4_6)
 - Kane, C., Marsden, J. E., Ortiz, M. & West, M. Variational integrators and the Newmark algorithm for conservative and dissipative mechanical systems. International Journal for Numerical Methods in Engineering vol. 49 1295–1325 (2000) -- [10.1002/1097-0207(20001210)49:10<1295::aid-nme993>3.0.co;2-w](https://doi.org/10.1002/1097-0207(20001210)49:10<1295::aid-nme993>3.0.co;2-w)
-- [Kotyczka, P. & Lefèvre, L. Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters vol. 133 104530 (2019)](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
+- [Kotyczka, P. & Lefèvre, L. Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems & Control Letters vol. 133 104530 (2019)](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
 - Marsden, (2013)
 - Mehrmann, (2019)
 - [Mehrmann, V. & van der Schaft, A. Differential–algebraic systems with dissipative Hamiltonian structure. Mathematics of Control, Signals, and Systems vol. 35 541–584 (2023)](differential-algebraic-systems-with-dissipative-hamiltonian-structure) -- [10.1007/s00498-023-00349-2](https://doi.org/10.1007/s00498-023-00349-2)

@@ -61,7 +61,7 @@ A class of port-Hamiltonian systems with delayed interconnection matrices is con
 - münz, Voltage and angle stability reserve of power systems with renewable generation. 19th IFAC World Congress (2014)
 - Hatziargyriou, N., Asano, H., Iravani, R. & Marnay, C. Microgrids. IEEE Power and Energy Mag. 5, 78–94 (2007) -- [10.1109/mpae.2007.376583](https://doi.org/10.1109/mpae.2007.376583)
 - Maksimovic, D. & Zane, R. Small-Signal Discrete-Time Modeling of Digitally Controlled PWM Converters. IEEE Trans. Power Electron. 22, 2552–2556 (2007) -- [10.1109/tpel.2007.909776](https://doi.org/10.1109/tpel.2007.909776)
-- Fridman, E. Introduction to Time-Delay Systems. Systems &amp; Control: Foundations &amp; Applications (Springer International Publishing, 2014). doi:10.1007/978-3-319-09393-2 -- [10.1007/978-3-319-09393-2](https://doi.org/10.1007/978-3-319-09393-2)
+- Fridman, E. Introduction to Time-Delay Systems. Systems & Control: Foundations & Applications (Springer International Publishing, 2014). doi:10.1007/978-3-319-09393-2 -- [10.1007/978-3-319-09393-2](https://doi.org/10.1007/978-3-319-09393-2)
 - schiffer, Modeling of microgrids-from fundamental physics to phasors and voltage sources. arXiv preprint arXiv 1505 03561 (2015)
 - Park, P., Ko, J. W. & Jeong, C. Reciprocally convex approach to stability of systems with time-varying delays. Automatica 47, 235–238 (2011) -- [10.1016/j.automatica.2010.10.014](https://doi.org/10.1016/j.automatica.2010.10.014)
 - Fridman, E., Dambrine, M. & Yeganefar, N. On input-to-state stability of systems with time-delay: A matrix inequalities approach. Automatica 44, 2364–2369 (2008) -- [10.1016/j.automatica.2008.01.012](https://doi.org/10.1016/j.automatica.2008.01.012)

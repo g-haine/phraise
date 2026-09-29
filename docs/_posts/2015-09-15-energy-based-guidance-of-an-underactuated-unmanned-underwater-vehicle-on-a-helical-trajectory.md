@@ -52,7 +52,7 @@ Unmanned underwater vehicle; Guidance; Energy routing; Nonlinear systems; Energy
 [Download the bib file]({{ site.baseurl }}/assets/bib/energy-based-guidance-of-an-underactuated-unmanned-underwater-vehicle-on-a-helical-trajectory.bib)
  
 ## References
-- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
+- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems & Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
 - Brogliato, (2007)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
 - [Donaire, A. & Perez, T. Port-Hamiltonian Theory of Motion Control for Marine Craft. IFAC Proceedings Volumes vol. 43 201–206 (2010)](port-hamiltonian-theory-of-motion-control-for-marine-craft) -- [10.3182/20100915-3-de-3008.00054](https://doi.org/10.3182/20100915-3-de-3008.00054)
@@ -64,7 +64,7 @@ Unmanned underwater vehicle; Guidance; Energy routing; Nonlinear systems; Energy
 - Fossen, (1994)
 - Fossen, (2011)
 - From, P. J., Pettersen, K. Y. & Gravdahl, J. T. Singularity-Free Dynamic Equations of AUV-Manipulator Systems. IFAC Proceedings Volumes vol. 43 31–36 (2010) -- [10.3182/20100906-3-it-2019.00008](https://doi.org/10.3182/20100906-3-it-2019.00008)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Gertler, M. & Hagen, G. R. STANDARD EQUATIONS OF MOTION FOR SUBMARINE SIMULATION. http://dx.doi.org/10.21236/AD0653861 (1967) doi:10.21236/ad0653861 -- [10.21236/ad0653861](https://doi.org/10.21236/ad0653861)
 - Hogan, N. Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control vol. 107 1–7 (1985) -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)

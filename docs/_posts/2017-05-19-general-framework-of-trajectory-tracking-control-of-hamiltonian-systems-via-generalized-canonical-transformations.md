@@ -52,7 +52,7 @@ nonlinear systems, physical models, tracking control
 - Flashner, Model tracking control of Hamiltonian systems. Trans. ASME (1989)
 - Fujimoto, Canonical transformation and stabilization of generalized Hamiltonian systems. Proc. 4th IFAc Symp. Nonlinear Control Systems (1998)
 - Fujimoto, Time-varying stabilization of nonholonomic Hamiltonian systems via canonical transformations. Proc. American Control Conference (2000)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Fujimoto, Trajectory tracking control of port-controlled Hamiltonian systems and its application to a magnetic levitation system (2001)
 - Maschke, Portcontrolled Hamiltonian systems: modeling origins and system-theoretic properties. IFAC Symp. Nonlinear Control Systems (1992)
 - Maschke, A Hamiltonian approach to stabilization of nonholonomic mechanical systems. Proc. 33rd IEEE Conf. on Decision and Control (1994)

@@ -56,7 +56,7 @@ port Hamiltonian system; output regulation; distributed parameter systems; optic
 - Ayala, Energy-based modeling and control of a piezo-tube actuated optical fiber. IEEE/ASME Transactions on Mechatronics (2022)
 - Deutscher, J. A backstepping approach to the output regulation of boundary controlled parabolic PDEs. Automatica 57, 56–64 (2015) -- [10.1016/j.automatica.2015.04.008](https://doi.org/10.1016/j.automatica.2015.04.008)
 - Duindam, (2009)
-- Guo, W., Zhou, H. & Krstic, M. Adaptive error feedback regulation problem for 1D wave equation. Intl J Robust &amp; Nonlinear 28, 4309–4329 (2018) -- [10.1002/rnc.4234](https://doi.org/10.1002/rnc.4234)
+- Guo, W., Zhou, H. & Krstic, M. Adaptive error feedback regulation problem for 1D wave equation. Intl J Robust & Nonlinear 28, 4309–4329 (2018) -- [10.1002/rnc.4234](https://doi.org/10.1002/rnc.4234)
 - Jin, F.-F. & Guo, B.-Z. Boundary output tracking for an Euler–Bernoulli beam equation with unmatched perturbations from a known exosystem. Automatica 109, 108507 (2019) -- [10.1016/j.automatica.2019.108507](https://doi.org/10.1016/j.automatica.2019.108507)
 - Khalil, (2002)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM J. Control Optim. 44, 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)

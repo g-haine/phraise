@@ -53,9 +53,9 @@ In this paper, the adaptive robust simultaneous stabilization problem of two shi
 - Chen, G. (2014). Study on the Stabilization Control of Underactuated Surface Vessels. [Ph.D. Thesis, Dalian Maritime University].
 - Kang, Design of a motion stabilization controller for a fully driven ship. SHIP BOAT (2018)
 - Muhammad, S. & Dòria-Cerezo, A. Passivity-based control applied to the dynamic positioning of ships. IET Control Theory Appl. 6, 680–688 (2012) -- [10.1049/iet-cta.2010.0554](https://doi.org/10.1049/iet-cta.2010.0554)
-- Tu, F., Sam Ge, S., Choo, Y. S. & Hang, C. C. Adaptive dynamic positioning control for accommodation vessels with multiple constraints. IET Control Theory &amp;amp; Appl 11, 329–340 (2017) -- [10.1049/iet-cta.2016.0766](https://doi.org/10.1049/iet-cta.2016.0766)
+- Tu, F., Sam Ge, S., Choo, Y. S. & Hang, C. C. Adaptive dynamic positioning control for accommodation vessels with multiple constraints. IET Control Theory & Appl 11, 329–340 (2017) -- [10.1049/iet-cta.2016.0766](https://doi.org/10.1049/iet-cta.2016.0766)
 - Mao, J. (2011). Simultaneous Stabilization and Simultaneous H∞ Control for Uncertain Nonlinear Systems. [Ph.D. Thesis, Zhengzhou University].
-- CAI, X.-S., GAO, H. & LIU, Y. Simultaneous &lt;I&gt;H&lt;/I&gt;&lt;SUP&gt;∞&lt;/SUP&gt; Stabilization for a Class of Multi-input Nonlinear Systems. Acta Automatica Sinica 38, 473–478 (2012) -- [10.3724/sp.j.1004.2012.00473](https://doi.org/10.3724/sp.j.1004.2012.00473)
+- CAI, X.-S., GAO, H. & LIU, Y. Simultaneous \\(H_{\infty}\\) Stabilization for a Class of Multi-input Nonlinear Systems. Acta Automatica Sinica 38, 473–478 (2012) -- [10.3724/sp.j.1004.2012.00473](https://doi.org/10.3724/sp.j.1004.2012.00473)
 - Wang, Simultaneous stabilization of nonlinear port-controlled Hamiltonian systems via output feedback. J. Shandong Univ. Eng. Sci. (2009)
 - Zhang, J. (2016). Simultaneous Stabilization and Control Stydy of Time-delay Systems. [Ph.D. Thesis, Inner Mongolia Normal University].
 - Li, R. (2016). Simultaneous Stabilization and Control for Singular Systems with Time-delay. [Ph.D. Thesis, Inner Mongolia Normal University].

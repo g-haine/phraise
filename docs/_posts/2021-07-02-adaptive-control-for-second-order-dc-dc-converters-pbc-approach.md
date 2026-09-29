@@ -64,7 +64,7 @@ dc–dc converters modeling, general representation for second-order dc–dc con
 - Şahin, M. E. & Okumuş, H. İ. Comparison of Different Controllers and Stability Analysis for Photovoltaic Powered Buck-Boost DC-DC Converter. Electric Power Components and Systems 46, 149–161 (2018) -- [10.1080/15325008.2018.1436617](https://doi.org/10.1080/15325008.2018.1436617)
 - Kurokawa, A new control method for DC–DC converter by neural network predictor with repetitive training. (2011)
 - Soriano-Sánchez, A. G., Rodríguez-Licea, M. A., Pérez-Pinal, F. J. & Vázquez-López, J. A. Fractional-Order Approximation and Synthesis of a PID Controller for a Buck Converter. Energies 13, 629 (2020) -- [10.3390/en13030629](https://doi.org/10.3390/en13030629)
-- Montoya, O. D., Gil-González, W. & Garces, A. Distributed energy resources integration in single-phase microgrids: An application of IDA-PBC and PI-PBC approaches. International Journal of Electrical Power &amp; Energy Systems 112, 221–231 (2019) -- [10.1016/j.ijepes.2019.04.046](https://doi.org/10.1016/j.ijepes.2019.04.046)
+- Montoya, O. D., Gil-González, W. & Garces, A. Distributed energy resources integration in single-phase microgrids: An application of IDA-PBC and PI-PBC approaches. International Journal of Electrical Power & Energy Systems 112, 221–231 (2019) -- [10.1016/j.ijepes.2019.04.046](https://doi.org/10.1016/j.ijepes.2019.04.046)
 - Sira-Ramirez, (2006)
 - Ortega, (2013)
 - Van der Schaft, (2017)

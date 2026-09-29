@@ -51,7 +51,7 @@ Port-Hamiltonian systems; Non-Newtonian Fluids; Maxwell’s viscoelasticity
 [Download the bib file]({{ site.baseurl }}/assets/bib/dissipative-port-hamiltonian-formulation-of-maxwell-viscoelastic-fluids.bib)
  
 ## References
-- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems & Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
 - Bird, (2015)
 - Fluid-Structure Interaction and Biomedical Applications. Advances in Mathematical Fluid Mechanics (Springer Basel, 2014). doi:10.1007/978-3-0348-0822-4 -- [10.1007/978-3-0348-0822-4](https://doi.org/10.1007/978-3-0348-0822-4)
 - Bollada, P. C. & Phillips, T. N. On the Mathematical Modelling of a Compressible Viscoelastic Fluid. Archive for Rational Mechanics and Analysis vol. 205 1–26 (2012) -- [10.1007/s00205-012-0496-5](https://doi.org/10.1007/s00205-012-0496-5)

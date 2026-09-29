@@ -51,7 +51,7 @@ This paper gives a new passivity based control of active magnetic bearing system
 - (6) S. Sakai and K. Fujimoto, Dynamic output feedback stabilization of a class of nonholonomic Hamiltonian systems, Proc. IFAC World Congress 2005, 1967-1970, 2005.
 - (7) S. Sakai, Control of Casimir functions for port-Hamiltonian systems, Proc. SICE CCS 2007, 92-95(063-4-2), 2007.
 - [Sakai, S. & Stramigioli, S. Port-Hamiltonian approaches to motion generation for mechanical systems. Proceedings 2007 IEEE International Conference on Robotics and Automation 1948–1953 (2007) doi:10.1109/robot.2007.363607](port-hamiltonian-approaches-to-motion-generation-for-mechanical-systems) -- [10.1109/robot.2007.363607](https://doi.org/10.1109/robot.2007.363607)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 - (11) B.D.O. Anderson and S. Vongpanitlerd: Network analysis and synthesis: a modern systems theory approach, , Printice Hall, 1973.
 - (12) R. Gasch and H. Pfutzner: Rotor dynamics, Morikita (in Japanese), 1978.

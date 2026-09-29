@@ -46,7 +46,7 @@ This paper introduces the new class of incrementally port-Hamiltonian systems. T
 - van der schaft, On differential passivity. NOLCOS 2013 (2013)
 - forni, On differentially dissipative dynamical systems. NOLCOS 2013 (2013)
 - LOHMILLER, W. & SLOTINE, J.-J. E. On Contraction Analysis for Non-linear Systems. Automatica 34, 683–696 (1998) -- [10.1016/s0005-1098(98)00019-3](https://doi.org/10.1016/s0005-1098(98)00019-3)
-- Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems &amp; Control Letters 57, 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
+- Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems & Control Letters 57, 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
 - Angeli, D. A Lyapunov approach to incremental stability properties. IEEE Trans. Automat. Contr. 47, 410–421 (2002) -- [10.1109/9.989067](https://doi.org/10.1109/9.989067)
 - desoer, Feedback Systems Input-Output Properties Classics in Applied Mathematics (1975)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)

@@ -40,7 +40,7 @@ We consider the port-Hamiltonian formulation of systems of two conservation laws
 [Download the bib file]({{ site.baseurl }}/assets/bib/finite-dimensional-observers-for-port-hamiltonian-systems-of-conservation-laws.bib)
  
 ## References
-- [Kotyczka, P. & Lefèvre, L. Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems &amp; Control Letters 133, 104530 (2019)](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
+- [Kotyczka, P. & Lefèvre, L. Discrete-time port-Hamiltonian systems: A definition based on symplectic integration. Systems & Control Letters 133, 104530 (2019)](discrete-time-port-hamiltonian-systems-a-definition-based-on-symplectic-integration) -- [10.1016/j.sysconle.2019.104530](https://doi.org/10.1016/j.sysconle.2019.104530)
 - [Kotyczka, P. Discrete-Time Flatness-Based Feedforward Control for the 1D Shallow Water Equations. IFAC-PapersOnLine 52, 42–47 (2019)](discrete-time-flatness-based-feedforward-control-for-the-1d-shallow-water-equations) -- [10.1016/j.ifacol.2019.11.753](https://doi.org/10.1016/j.ifacol.2019.11.753)
 - flanders, Differential Forms with Applications to the Physical Sciences (1963)
 - Morrison, P. J. Hamiltonian description of the ideal fluid. Rev. Mod. Phys. 70, 467–521 (1998) -- [10.1103/revmodphys.70.467](https://doi.org/10.1103/revmodphys.70.467)

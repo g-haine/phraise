@@ -74,5 +74,5 @@ Differential-algebraic equations; Nonlinear control; Hamiltonian systems; Dirac 
 - [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - van der Schaft, A. J., Maschke, B.: The Hamiltonian formulation of energy conserving physical systems with external ports. Arch. Elektron. Übertrag. 49, 362–371 (1995)
-- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems & Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
 

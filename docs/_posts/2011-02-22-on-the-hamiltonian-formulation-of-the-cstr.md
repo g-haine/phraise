@@ -40,8 +40,8 @@ In this paper we suggest some alternative representations of the Continuous Stir
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-the-hamiltonian-formulation-of-the-cstr.bib)
  
 ## References
-- Couenne, F., Jallut, C., Maschke, B., Tayakout, M. & Breedveld, P. Structured modeling for processes: A thermodynamical network theory. Computers &amp; Chemical Engineering vol. 32 1120–1134 (2008) -- [10.1016/j.compchemeng.2007.04.012](https://doi.org/10.1016/j.compchemeng.2007.04.012)
-- Otero-Muras, I., Szederkényi, G., Alonso, A. A. & Hangos, K. M. Local dissipative Hamiltonian description of reversible reaction networks. Systems &amp; Control Letters vol. 57 554–560 (2008) -- [10.1016/j.sysconle.2007.12.003](https://doi.org/10.1016/j.sysconle.2007.12.003)
+- Couenne, F., Jallut, C., Maschke, B., Tayakout, M. & Breedveld, P. Structured modeling for processes: A thermodynamical network theory. Computers & Chemical Engineering vol. 32 1120–1134 (2008) -- [10.1016/j.compchemeng.2007.04.012](https://doi.org/10.1016/j.compchemeng.2007.04.012)
+- Otero-Muras, I., Szederkényi, G., Alonso, A. A. & Hangos, K. M. Local dissipative Hamiltonian description of reversible reaction networks. Systems & Control Letters vol. 57 554–560 (2008) -- [10.1016/j.sysconle.2007.12.003](https://doi.org/10.1016/j.sysconle.2007.12.003)
 - Smale, S. On the mathematical foundations of electrical circuit theory. Journal of Differential Geometry vol. 7 (1972) -- [10.4310/jdg/1214430827](https://doi.org/10.4310/jdg/1214430827)
 - Grmela, M. Reciprocity relations in thermodynamics. Physica A: Statistical Mechanics and its Applications vol. 309 304–328 (2002) -- [10.1016/s0378-4371(02)00564-2](https://doi.org/10.1016/s0378-4371(02)00564-2)
 - sandler, Chemical Biochemical and Engineering Thermodynamics (2006)

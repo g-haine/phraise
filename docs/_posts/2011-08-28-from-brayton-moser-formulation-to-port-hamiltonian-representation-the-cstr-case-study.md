@@ -53,7 +53,7 @@ Irreversible thermodynamics; CSTR; Port Hamiltonian systems; Brayton-Moser formu
 [Download the bib file]({{ site.baseurl }}/assets/bib/from-brayton-moser-formulation-to-port-hamiltonian-representation-the-cstr-case-study.bib)
  
 ## References
-- Alonso, A. A. & Erik Ydstie, B. Process systems, passivity and the second law of thermodynamics. Computers &amp; Chemical Engineering 20, S1119–S1124 (1996) -- [10.1016/0098-1354(96)00194-9](https://doi.org/10.1016/0098-1354(96)00194-9)
+- Alonso, A. A. & Erik Ydstie, B. Process systems, passivity and the second law of thermodynamics. Computers & Chemical Engineering 20, S1119–S1124 (1996) -- [10.1016/0098-1354(96)00194-9](https://doi.org/10.1016/0098-1354(96)00194-9)
 - Alonso, A. A. & Ydstie, B. E. Stabilization of distributed systems using irreversible thermodynamics. Automatica 37, 1739–1755 (2001) -- [10.1016/s0005-1098(01)00140-6](https://doi.org/10.1016/s0005-1098(01)00140-6)
 - Bao, (2007)
 - Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. I. Quart. Appl. Math. 22, 1–33 (1964) -- [10.1090/qam/169746](https://doi.org/10.1090/qam/169746)
@@ -75,12 +75,12 @@ Irreversible thermodynamics; CSTR; Port Hamiltonian systems; Brayton-Moser formu
 - Jillson, K. R. & Erik Ydstie, B. Process networks with decentralized inventory and flow control. Journal of Process Control 17, 399–413 (2007) -- [10.1016/j.jprocont.2006.12.006](https://doi.org/10.1016/j.jprocont.2006.12.006)
 - Maschke, Energy based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE TAC (2000)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- Otero-Muras, I., Szederkényi, G., Alonso, A. A. & Hangos, K. M. Local dissipative Hamiltonian description of reversible reaction networks. Systems &amp; Control Letters 57, 554–560 (2008) -- [10.1016/j.sysconle.2007.12.003](https://doi.org/10.1016/j.sysconle.2007.12.003)
+- Otero-Muras, I., Szederkényi, G., Alonso, A. A. & Hangos, K. M. Local dissipative Hamiltonian description of reversible reaction networks. Systems & Control Letters 57, 554–560 (2008) -- [10.1016/j.sysconle.2007.12.003](https://doi.org/10.1016/j.sysconle.2007.12.003)
 - [Ramírez, H., Sbarbaro, D. & Ortega, R. On the control of non-linear processes: An IDA–PBC approach. Journal of Process Control 19, 405–414 (2009)](on-the-control-of-non-linear-processes-an-ida-pbc-approach) -- [10.1016/j.jprocont.2008.06.018](https://doi.org/10.1016/j.jprocont.2008.06.018)
 - Ruszkowski, M., Garcia‐Osorio, V. & Ydstie, B. E. Passivity based control of transport reaction systems. AIChE Journal 51, 3147–3166 (2005) -- [10.1002/aic.10543](https://doi.org/10.1002/aic.10543)
 - Sandler, (1999)
 - van der Schaft, Port-controlled Hamiltonian systems: towards a theory for control and design of nonlinear physical systems. SICE J (2000)
 - van der Schaft, (2000)
 - Tarbell, J. M. A thermodynamic Liapunov function for the near equilibrium CSTR. Chemical Engineering Science 32, 1471–1476 (1977) -- [10.1016/0009-2509(77)80244-3](https://doi.org/10.1016/0009-2509(77)80244-3)
-- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems &amp; Control Letters 30, 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
+- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems & Control Letters 30, 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
 

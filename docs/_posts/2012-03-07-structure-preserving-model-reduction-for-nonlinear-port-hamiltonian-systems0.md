@@ -50,7 +50,7 @@ Port-Hamiltonian systems result from port-based network modeling of physical sys
 - Kunisch, K. & Volkwein, S. Optimal snapshot location for computing POD basis functions. ESAIM: M2AN 44, 509–529 (2010) -- [10.1051/m2an/2010011](https://doi.org/10.1051/m2an/2010011)
 - gugercin, Structure-preserving tangential-interpolation based model reduction of port-hamiltonian systems. Automatica (2011)
 - gugercin, Interpolation-based H2 model reduction for port-hamiltonian systems. Proceedings of the Joint 48th IEEE Conference on Decision and Control and 28th Chinese Control Conference (2009)
-- Gugercin, S., Antoulas, A. C. & Beattie, C. $\mathcal{H}_2$ Model Reduction for Large-Scale Linear Dynamical Systems. SIAM J. Matrix Anal. &amp; Appl. 30, 609–638 (2008) -- [10.1137/060666123](https://doi.org/10.1137/060666123)
+- Gugercin, S., Antoulas, A. C. & Beattie, C. $\mathcal{H}_2$ Model Reduction for Large-Scale Linear Dynamical Systems. SIAM J. Matrix Anal. & Appl. 30, 609–638 (2008) -- [10.1137/060666123](https://doi.org/10.1137/060666123)
 - [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica 46, 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
 - polyuga, Model Reduction of Port-Hamiltonian Systems (2010)
 

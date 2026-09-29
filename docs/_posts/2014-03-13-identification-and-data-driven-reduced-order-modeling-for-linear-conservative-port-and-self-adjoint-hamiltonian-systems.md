@@ -54,8 +54,8 @@ Given a sufficiently numerous set of vector-exponential trajectories of a conser
 - polderman, Introduction to Mathematical System Theory A Behavioral Approach (1997)
 - golub, Matrix Computations (1983)
 - Modeling and Control of Complex Physical Systems The Port-Hamiltonian Approach (2009)
-- Dopico, F. M. & Koev, P. Accurate Symmetric Rank Revealing and Eigendecompositions of Symmetric Structured Matrices. SIAM J. Matrix Anal. &amp; Appl. 28, 1126–1156 (2006) -- [10.1137/050633792](https://doi.org/10.1137/050633792)
+- Dopico, F. M. & Koev, P. Accurate Symmetric Rank Revealing and Eigendecompositions of Symmetric Structured Matrices. SIAM J. Matrix Anal. & Appl. 28, 1126–1156 (2006) -- [10.1137/050633792](https://doi.org/10.1137/050633792)
 - Courant, T. J. Dirac manifolds. Trans. Amer. Math. Soc. 319, 631–661 (1990) -- [10.2307/2001258](https://doi.org/10.2307/2001258)
 - Van Overschee, P. & De Moor, B. Subspace Identification for Linear Systems. (Springer US, 1996). doi:10.1007/978-1-4613-0465-4 -- [10.1007/978-1-4613-0465-4](https://doi.org/10.1007/978-1-4613-0465-4)
-- Hansen, P. C. & Yalamov, P. Y. Computing Symmetric Rank-Revealing Decompositions via Triangular Factorization. SIAM J. Matrix Anal. &amp; Appl. 23, 443–458 (2001) -- [10.1137/s0895479800370068](https://doi.org/10.1137/s0895479800370068)
+- Hansen, P. C. & Yalamov, P. Y. Computing Symmetric Rank-Revealing Decompositions via Triangular Factorization. SIAM J. Matrix Anal. & Appl. 23, 443–458 (2001) -- [10.1137/s0895479800370068](https://doi.org/10.1137/s0895479800370068)
 

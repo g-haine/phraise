@@ -52,7 +52,7 @@ category: articles
 - [7] P.Y. Li and R. Horowitz: Passive velocity field control (pvfc): Part i. geometry and robustness, IEEE Transactions on Automatic Control, Vol. 46, No. 9, pp. 1346-1359, 2001.
 - [8] P.Y. Li and R. Horowitz: Passive velocity field control (pvfc): Part ii. application to contour following, IEEE Transactions on Automatic Control, Vol. 46, No. 9, pp. 1360-1371, 2001.
 - [Duindam, V. & Stramigioli, S. Port-Based Asymptotic Curve Tracking for Mechanical Systems. European Journal of Control 10, 411–420 (2004)](port-based-asymptotic-curve-tracking-for-mechanical-systems) -- [10.3166/ejc.10.411-420](https://doi.org/10.3166/ejc.10.411-420)
-- Nielsen, C. & Maggiore, M. Output stabilization and maneuver regulation: A geometric approach. Systems &amp; Control Letters 55, 418–427 (2006) -- [10.1016/j.sysconle.2005.09.006](https://doi.org/10.1016/j.sysconle.2005.09.006)
+- Nielsen, C. & Maggiore, M. Output stabilization and maneuver regulation: A geometric approach. Systems & Control Letters 55, 418–427 (2006) -- [10.1016/j.sysconle.2005.09.006](https://doi.org/10.1016/j.sysconle.2005.09.006)
 - [11] A. Hladio, C. Nielsen, and D. Wang: Path following for a class of mechanical systems, IEEE Transactions on Control Systems Technology, Vol. 21, No. 6, pp. 2380-2390, 2013.
 - Akhtar, A., Nielsen, C. & Waslander, S. L. Path Following Using Dynamic Transverse Feedback Linearization for Car-Like Robots. IEEE Trans. Robot. 31, 269–279 (2015) -- [10.1109/tro.2015.2395711](https://doi.org/10.1109/tro.2015.2395711)
 - [13] A.P. Aguiar and J.P. Hespanha: Trajectory-tracking and path-following of underactuated autonomous vehicles with parametric modeling uncertainty, IEEE Transactions on Automatic Control, Vol. 52, No. 8, pp. 1362-1379, 2007.
@@ -63,5 +63,5 @@ category: articles
 - Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1996). doi:10.1007/3-540-76074-1 -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
 - Maschke, B. M., van der Schaft, A. J. & Breedveld, P. C. An intrinsic Hamiltonian formulation of the dynamics of LC-circuits. IEEE Trans. Circuits Syst. I 42, 73–82 (1995) -- [10.1109/81.372847](https://doi.org/10.1109/81.372847)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 

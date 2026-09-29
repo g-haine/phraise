@@ -51,7 +51,7 @@ DC microgrid; Port-Hamiltonian systems on graphs; MPC (Model Predictive Control)
 [Download the bib file]({{ site.baseurl }}/assets/bib/power-balancing-in-a-dc-microgrid-elevator-system-through-constrained-optimization.bib)
  
 ## References
-- Biegler, L. T. & Zavala, V. M. Large-scale nonlinear programming using IPOPT: An integrating framework for enterprise-wide dynamic optimization. Computers &amp; Chemical Engineering vol. 33 575–582 (2009) -- [10.1016/j.compchemeng.2008.08.006](https://doi.org/10.1016/j.compchemeng.2008.08.006)
+- Biegler, L. T. & Zavala, V. M. Large-scale nonlinear programming using IPOPT: An integrating framework for enterprise-wide dynamic optimization. Computers & Chemical Engineering vol. 33 575–582 (2009) -- [10.1016/j.compchemeng.2008.08.006](https://doi.org/10.1016/j.compchemeng.2008.08.006)
 - Lagorse, J., Paire, D. & Miraoui, A. A multi-agent system for energy management of distributed power sources. Renewable Energy vol. 35 174–182 (2010) -- [10.1016/j.renene.2009.02.029](https://doi.org/10.1016/j.renene.2009.02.029)
 - Lifshitz, D. & Weiss, G. Optimal Control of a Capacitor-Type Energy Storage System. IEEE Transactions on Automatic Control vol. 60 216–220 (2015) -- [10.1109/tac.2014.2323136](https://doi.org/10.1109/tac.2014.2323136)
 - Lifshitz, D. & Weiss, G. Optimal energy management for grid-connected storage systems. Optimal Control Applications and Methods vol. 36 447–462 (2014) -- [10.1002/oca.2119](https://doi.org/10.1002/oca.2119)

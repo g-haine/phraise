@@ -51,7 +51,7 @@ We construct optimally robust port-Hamiltonian realizations of a given rational 
 - Antoulas AC (2005) Approximation of Large-Scale Dynamical Systems. Society for Industrial and Applied Mathematics -- [10.1137/1.9780898718713](https://doi.org/10.1137/1.9780898718713)
 - [Beattie, C. A., Mehrmann, V. & Van Dooren, P. Robust port-Hamiltonian representations of passive systems. Automatica vol. 100 182–186 (2019)](robust-port-hamiltonian-representations-of-passive-systems) -- [10.1016/j.automatica.2018.11.013](https://doi.org/10.1016/j.automatica.2018.11.013)
 - Benner P., Cham (2015)
-- Boyd, S. & Balakrishnan, V. A regularity result for the singular values of a transfer matrix and a quadratically convergent algorithm for computing its L∞-norm. Systems &amp; Control Letters vol. 15 1–7 (1990) -- [10.1016/0167-6911(90)90037-u](https://doi.org/10.1016/0167-6911(90)90037-u)
+- Boyd, S. & Balakrishnan, V. A regularity result for the singular values of a transfer matrix and a quadratically convergent algorithm for computing its L∞-norm. Systems & Control Letters vol. 15 1–7 (1990) -- [10.1016/0167-6911(90)90037-u](https://doi.org/10.1016/0167-6911(90)90037-u)
 - Boyd S, El Ghaoui L, Feron E, Balakrishnan V (1994) Linear Matrix Inequalities in System and Control Theory. Society for Industrial and Applied Mathematics -- [10.1137/1.9781611970777](https://doi.org/10.1137/1.9781611970777)
 - Brull, T. & Schroder, C. Dissipativity Enforcement via Perturbation of Para-Hermitian Pencils. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 60 164–177 (2013) -- [10.1109/tcsi.2012.2215731](https://doi.org/10.1109/tcsi.2012.2215731)
 - Coelho C., New Orleans (1999)

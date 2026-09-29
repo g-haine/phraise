@@ -57,5 +57,5 @@ To tackle the obstacle of applying passivity-based control (PBC) into power syst
 - Shen, Proc. 39th IEEE Conference on Decision and Control (2000)
 - Li, (2000)
 - Son, K. M. & Park, J. K. On the robust LQG control of TCSC for damping power system oscillations. IEEE Trans. Power Syst. 15, 1306–1312 (2000) -- [10.1109/59.898106](https://doi.org/10.1109/59.898106)
-- Ramı́rez-Arredondo, J. M. & Dávalos-Marı́n, R. TCSC control based on passivity for power system damping enhancement. International Journal of Electrical Power &amp; Energy Systems 23, 81–90 (2001) -- [10.1016/s0142-0615(00)00053-3](https://doi.org/10.1016/s0142-0615(00)00053-3)
+- Ramı́rez-Arredondo, J. M. & Dávalos-Marı́n, R. TCSC control based on passivity for power system damping enhancement. International Journal of Electrical Power & Energy Systems 23, 81–90 (2001) -- [10.1016/s0142-0615(00)00053-3](https://doi.org/10.1016/s0142-0615(00)00053-3)
 

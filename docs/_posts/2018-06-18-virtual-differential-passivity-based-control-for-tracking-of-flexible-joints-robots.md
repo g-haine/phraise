@@ -53,7 +53,7 @@ Differential passivity; contraction analysis; virtual systems; port-Hamiltonian 
 [Download the bib file]({{ site.baseurl }}/assets/bib/virtual-differential-passivity-based-control-for-tracking-of-flexible-joints-robots.bib)
  
 ## References
-- Ailon, A. & Ortega, R. An observer-based set-point controller for robot manipulators with flexible joints. Systems &amp; Control Letters vol. 21 329–335 (1993) -- [10.1016/0167-6911(93)90076-i](https://doi.org/10.1016/0167-6911(93)90076-i)
+- Ailon, A. & Ortega, R. An observer-based set-point controller for robot manipulators with flexible joints. Systems & Control Letters vol. 21 329–335 (1993) -- [10.1016/0167-6911(93)90076-i](https://doi.org/10.1016/0167-6911(93)90076-i)
 - Albu-Schäffer, A., Ott, C. & Hirzinger, G. A Unified Passivity-based Control Framework for Position, Torque and                 Impedance Control of Flexible Joint Robots. The International Journal of Robotics Research vol. 26 23–39 (2007) -- [10.1177/0278364907073776](https://doi.org/10.1177/0278364907073776)
 - Arimoto, Stabilidty and robustness of pid feedback control for robot manipulators of sensory capability. (1984)
 - Astolfi, A. & Ortega, R. Immersion and invariance: a new tool for stabilization and adaptive control of nonlinear systems. IEEE Transactions on Automatic Control vol. 48 590–606 (2003) -- [10.1109/tac.2003.809820](https://doi.org/10.1109/tac.2003.809820)

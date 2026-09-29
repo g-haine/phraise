@@ -53,7 +53,7 @@ Chemical reaction network; Irreversible port Hamiltonian systems; Equilibrium; L
 [Download the bib file]({{ site.baseurl }}/assets/bib/irreversible-port-hamiltonian-approach-to-modeling-and-analyzing-of-non-isothermal-chemical-reaction-networks.bib)
  
 ## References
-- Alonso, A. A. & Erik Ydstie, B. Process systems, passivity and the second law of thermodynamics. Computers &amp; Chemical Engineering vol. 20 S1119–S1124 (1996) -- [10.1016/0098-1354(96)00194-9](https://doi.org/10.1016/0098-1354(96)00194-9)
+- Alonso, A. A. & Erik Ydstie, B. Process systems, passivity and the second law of thermodynamics. Computers & Chemical Engineering vol. 20 S1119–S1124 (1996) -- [10.1016/0098-1354(96)00194-9](https://doi.org/10.1016/0098-1354(96)00194-9)
 - Alonso, A. A. & Ydstie, B. E. Stabilization of distributed systems using irreversible thermodynamics. Automatica vol. 37 1739–1755 (2001) -- [10.1016/s0005-1098(01)00140-6](https://doi.org/10.1016/s0005-1098(01)00140-6)
 - Callen, (2006)
 - Couenne, F., Jallut, C., Maschke, B., Breedveld, P. C. & Tayakout, M. Bond graph modelling for chemical reactors. Mathematical and Computer Modelling of Dynamical Systems vol. 12 159–174 (2006) -- [10.1080/13873950500068823](https://doi.org/10.1080/13873950500068823)
@@ -70,5 +70,5 @@ Chemical reaction network; Irreversible port Hamiltonian systems; Equilibrium; L
 - Van der Schaft, A network dynamics approach to chemical reaction networks. International Journal of Control (2015)
 - Van der Schaft, The hamiltonian formulation ol energy conserving physical systems with external ports. AEU. Archiv für Elektronik und Übertragungstechnik (1995)
 - van der Schaft, A., Rao, S. & Jayawardhana, B. On the Mathematical Structure of Balanced Chemical Reaction Networks Governed by Mass Action Kinetics. SIAM Journal on Applied Mathematics vol. 73 953–973 (2013) -- [10.1137/11085431x](https://doi.org/10.1137/11085431x)
-- Ydstie, B. E. Passivity based control via the second law. Computers &amp; Chemical Engineering vol. 26 1037–1048 (2002) -- [10.1016/s0098-1354(02)00041-8](https://doi.org/10.1016/s0098-1354(02)00041-8)
+- Ydstie, B. E. Passivity based control via the second law. Computers & Chemical Engineering vol. 26 1037–1048 (2002) -- [10.1016/s0098-1354(02)00041-8](https://doi.org/10.1016/s0098-1354(02)00041-8)
 

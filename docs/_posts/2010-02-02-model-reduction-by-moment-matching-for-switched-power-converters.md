@@ -40,10 +40,10 @@ The problem of model reduction by moment matching for switched power converters 
 [Download the bib file]({{ site.baseurl }}/assets/bib/model-reduction-by-moment-matching-for-switched-power-converters.bib)
  
 ## References
-- Kavranoǧlu, D. & Bettayeb, M. Characterization of the solution to the optimal H∞ model reduction problem. Systems &amp; Control Letters 20, 99–107 (1993) -- [10.1016/0167-6911(93)90021-w](https://doi.org/10.1016/0167-6911(93)90021-w)
+- Kavranoǧlu, D. & Bettayeb, M. Characterization of the solution to the optimal H∞ model reduction problem. Systems & Control Letters 20, 99–107 (1993) -- [10.1016/0167-6911(93)90021-w](https://doi.org/10.1016/0167-6911(93)90021-w)
 - Krener, A. J. Model Reduction for Linear and Nonlinear Control Systems. Proceedings of the 45th IEEE Conference on Decision and Control nil11–nil11 (2006) doi:10.1109/cdc.2006.376870 -- [10.1109/cdc.2006.376870](https://doi.org/10.1109/cdc.2006.376870)
 - Perez, M., Ortega, R. & Espinoza, J. Passivity-Based PI Control of Switched Power Converters. IEEE Trans. Contr. Syst. Technol. 12, 881–890 (2004) -- [10.1109/tcst.2004.833628](https://doi.org/10.1109/tcst.2004.833628)
-- Scherpen, J. M. A. Balancing for nonlinear systems. Systems &amp; Control Letters 21, 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
+- Scherpen, J. M. A. Balancing for nonlinear systems. Systems & Control Letters 21, 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
 - Scherpen, J. M. A. H∞ balancing for nonlinear systems. Int. J. Robust Nonlinear Control 6, 645–668 (1996) -- [10.1002/(sici)1099-1239(199608)6:7<645::aid-rnc179>3.0.co;2-x](https://doi.org/10.1002/(sici)1099-1239(199608)6:7<645::aid-rnc179>3.0.co;2-x)
 - SCHERPEN, J. M. A. & VAN DER SCHAFT, A. J. Normalized coprime factorizations and balancing for unstable nonlinear systems. International Journal of Control 60, 1193–1222 (1994) -- [10.1080/00207179408921517](https://doi.org/10.1080/00207179408921517)
 - van der schaft, Gain and Passivity Techniques in Nonlinear Control (1999)

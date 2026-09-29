@@ -77,7 +77,7 @@ Symplectic methods; Spatial reduction; Pseudo-spectral methods; Hamiltonian syst
 - Graf, Hydraulique fluviale – Ecoulement et phTnomFnes de transport dans les canaux a gTomTtrie simple. (2000)
 - Hamroun, Port-based modelling for open channel irrigation systems. Transactions on Fluid Mechanics (2006)
 - H. Hamroun, L. Lefevre, E. Mendes, Port-based modelling for open channel irrigation systems, in: Proceedings of the 2nd IASME/WSEAS International Conference on Water Resources, Hydraulics and Hydrology, Portorose, Slovenia, May 2007.
-- Lasagni, F. M. Canonical Runge-Kutta methods. ZAMP Zeitschrift f�r angewandte Mathematik und Physik vol. 39 952–953 (1988) -- [10.1007/bf00945133](https://doi.org/10.1007/bf00945133)
+- Lasagni, F. M. Canonical Runge-Kutta methods. ZAMP Zeitschrift für angewandte Mathematik und Physik vol. 39 952–953 (1988) -- [10.1007/bf00945133](https://doi.org/10.1007/bf00945133)
 - [Le Gorrec, Y., Zwart, H. & Maschke, B. Dirac structures and Boundary Control Systems associated with Skew-Symmetric Differential Operators. SIAM Journal on Control and Optimization vol. 44 1864–1892 (2005)](dirac-structures-and-boundary-control-systems-associated-with-skew-symmetric-differential-operators) -- [10.1137/040611677](https://doi.org/10.1137/040611677)
 - Macchelli, (2009)
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)

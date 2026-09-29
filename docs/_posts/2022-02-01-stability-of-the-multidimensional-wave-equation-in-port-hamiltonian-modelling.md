@@ -61,7 +61,7 @@ We investigate the stability of the wave equation with spatial dependent coeffic
 - Bardos, C., Lebeau, G. & Rauch, J. Sharp Sufficient Conditions for the Observation, Control, and Stabilization of Waves from the Boundary. SIAM Journal on Control and Optimization vol. 30 1024–1065 (1992) -- [10.1137/0330055](https://doi.org/10.1137/0330055)
 - skrepek, Well-posedness of linear first order port-Hamiltonian systems on multidimensional spatial domains. Evolution Equations and Control Theory (2020)
 - Tao, X. & Zhang, S. Boundary unique continuation theorems under zero Neumann boundary conditions. Bulletin of the Australian Mathematical Society vol. 72 67–85 (2005) -- [10.1017/s0004972700034882](https://doi.org/10.1017/s0004972700034882)
-- Su, P., Tucsnak, M. & Weiss, G. Stabilizability properties of a linearized water waves system. Systems &amp; Control Letters vol. 139 104672 (2020) -- [10.1016/j.sysconle.2020.104672](https://doi.org/10.1016/j.sysconle.2020.104672)
+- Su, P., Tucsnak, M. & Weiss, G. Stabilizability properties of a linearized water waves system. Systems & Control Letters vol. 139 104672 (2020) -- [10.1016/j.sysconle.2020.104672](https://doi.org/10.1016/j.sysconle.2020.104672)
 - yosida, Functional Analysis (1980)
 - villegas, A Port-Hamiltonian Approach to Distributed Parameter Systems. PhD thesis (2007)
 - Zwart, H., Le Gorrec, Y., Maschke, B. & Villegas, J. Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain. ESAIM: Control, Optimisation and Calculus of Variations vol. 16 1077–1093 (2009) -- [10.1051/cocv/2009036](https://doi.org/10.1051/cocv/2009036)

@@ -38,7 +38,7 @@ In this paper, we provide an overview of some control synthesis methodologies fo
 [Download the bib file]({{ site.baseurl }}/assets/bib/control-design-for-linear-port-hamiltonian-boundary-control-systems-an-overview.bib)
  
 ## References
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory 3, 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations & Control Theory 3, 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Brogliato, B., Maschke, B., Lozano, R. & Egeland, O. Dissipative Systems Analysis and Control. Communications and Control Engineering (Springer London, 2007). doi:10.1007/978-1-84628-517-2 -- [10.1007/978-1-84628-517-2](https://doi.org/10.1007/978-1-84628-517-2)
 - [Califano, F., Bin, M., Macchelli, A. & Melchiorri, C. Stability Analysis of Nonlinear Repetitive Control Schemes. IEEE Control Syst. Lett. 2, 773–778 (2018)](stability-analysis-of-nonlinear-repetitive-control-schemes) -- [10.1109/lcsys.2018.2849617](https://doi.org/10.1109/lcsys.2018.2849617)
 - Curtain, R. F. & Zwart, H. An Introduction to Infinite-Dimensional Linear Systems Theory. Texts in Applied Mathematics (Springer New York, 1995). doi:10.1007/978-1-4612-4224-6 -- [10.1007/978-1-4612-4224-6](https://doi.org/10.1007/978-1-4612-4224-6)

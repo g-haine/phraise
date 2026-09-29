@@ -59,7 +59,7 @@ adjoint operators, hamiltonian control systems, hamiltonian extensions, legendre
 - Gray, (siam) hankel operators and gramians for nonlinear systems (1999)
 - Isidori, (1995)
 - Maschke, Portcontrolled hamiltonian systems: modelling origins and system-theoretic properties. IFAC Symp. NOLCOS (1992)
-- Scherpen, J. M. A. Balancing for nonlinear systems. Systems &amp; Control Letters 21, 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
+- Scherpen, J. M. A. Balancing for nonlinear systems. Systems & Control Letters 21, 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
 - SCHERPEN, J. M. A. & VAN DER SCHAFT, A. J. Normalized coprime factorizations and balancing for unstable nonlinear systems. International Journal of Control 60, 1193–1222 (1994) -- [10.1080/00207179408921517](https://doi.org/10.1080/00207179408921517)
 - Scherpen, On singular value functions and hankel operators for nonlinear systems. Proc. ACC'99 (1999)
 - Zhou, (1996)

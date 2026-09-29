@@ -42,13 +42,13 @@ In this paper we develop a mathematical model of the dynamics for an inflatable 
 ## References
 - Gossamer Spacecraft: Membrane And Inflatable Structures Technology For Space Applications. (2001) doi:10.2514/4.866616 -- [10.2514/4.866616](https://doi.org/10.2514/4.866616)
 - timoschenko, theory of elasticity. McGraw-HILL international editions (1970)
-- vo�, structure preserving port-hamiltonian discretization of a 1-d inflatable space reflector. (0)
+- Voß, structure preserving port-hamiltonian discretization of a 1-d inflatable space reflector. (0)
 - van der schaft, the hamiltonian formulation of energy conserving physical systems with external ports. Archiv fu?r Elektronik und U?bertragungstechnik (1995)
 - vinogradov, state-of-the-art developments in the field of electro active polymers. Materials Research Society Fall Meeting (2005)
 - IEEE Standards Board (1987)
 - macchelli, port hamiltonian systems. a unified approach for modeling and control finite and infinite dimensional physical systems, university of bologna. DEIS (2003)
 - [Macchelli, A., van der Schaft, A. J. & Melchiorri, C. Multi-variable port Hamiltonian model of piezoelectric material. 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No.04CH37566) vol. 1 897–902](multi-variable-port-hamiltonian-model-of-piezoelectric-material) -- [10.1109/iros.2004.1389466](https://doi.org/10.1109/iros.2004.1389466)
-- vo�, Modeling for control of an inflatable space reflector the linear 1-D case MTNS (2008)
+- Voß, Modeling for control of an inflatable space reflector the linear 1-D case MTNS (2008)
 - Heckmann, A., Arnold, M. & VaculÍn, O. A Modal Multifield Approach for an Extended Flexible Body Description in Multibody Dynamics. Multibody System Dynamics vol. 13 299–322 (2005) -- [10.1007/s11044-005-4085-3](https://doi.org/10.1007/s11044-005-4085-3)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica vol. 40 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 

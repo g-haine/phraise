@@ -43,7 +43,7 @@ Control theory usually finds no suitable place in the education of physics. The 
 [Download the bib file]({{ site.baseurl }}/assets/bib/physics-based-control-education-energy-dissipation-and-structure-assignments.bib)
  
 ## References
-- Bai, E.-W. & Lonngren, K. E. Sequential synchronization of two Lorenz systems using active control. Chaos, Solitons &amp; Fractals vol. 11 1041–1044 (2000) -- [10.1016/s0960-0779(98)00328-2](https://doi.org/10.1016/s0960-0779(98)00328-2)
+- Bai, E.-W. & Lonngren, K. E. Sequential synchronization of two Lorenz systems using active control. Chaos, Solitons & Fractals vol. 11 1041–1044 (2000) -- [10.1016/s0960-0779(98)00328-2](https://doi.org/10.1016/s0960-0779(98)00328-2)
 - Bechhoefer, J. Feedback for physicists: A tutorial essay on control. Reviews of Modern Physics vol. 77 783–836 (2005) -- [10.1103/revmodphys.77.783](https://doi.org/10.1103/revmodphys.77.783)
 - Bhatia N P, Stability Theory of Dynamical Systems (2002)
 - Borisov, A. V. & Mamaev, I. S. Strange attractors in rattleback dynamics. Physics-Uspekhi vol. 46 393–403 (2003) -- [10.1070/pu2003v046n04abeh001306](https://doi.org/10.1070/pu2003v046n04abeh001306)

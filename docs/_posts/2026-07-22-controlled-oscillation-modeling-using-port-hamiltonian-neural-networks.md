@@ -61,7 +61,7 @@ discrete gradient, jacobian regularization, physics-informed machine learning, p
 - Chaigne, (2016)
 - [Aoues S, Cardoso-Ribeiro FL, Matignon D, Alazard D (2019) Modeling and Control of a Rotating Flexible Spacecraft: A Port-Hamiltonian Approach. IEEE Trans Contr Syst Technol 27(1):355–362. https://doi.org/10.1109/tcst.2017.277124](modeling-and-control-of-a-rotating-flexible-spacecraft-a-port-hamiltonian-approach) -- [10.1109/tcst.2017.2771244](https://doi.org/10.1109/tcst.2017.2771244)
 - T. Hélie, Elementary tools on port-Hamiltonian systems with applications to audio/acoustics, 2022. Lecture. hal-03986168.
-- [Cardoso-Ribeiro FL, Haine G, Le Gorrec Y, Matignon D, Ramirez H (2024) Port-Hamiltonian formulations for the modeling, simulation and control of fluids. Computers &amp; Fluids 283:106407. https://doi.org/10.1016/j.compfluid.2024.10640](port-hamiltonian-formulations-for-the-modeling-simulation-and-control-of-fluids) -- [10.1016/j.compfluid.2024.106407](https://doi.org/10.1016/j.compfluid.2024.106407)
+- [Cardoso-Ribeiro FL, Haine G, Le Gorrec Y, Matignon D, Ramirez H (2024) Port-Hamiltonian formulations for the modeling, simulation and control of fluids. Computers & Fluids 283:106407. https://doi.org/10.1016/j.compfluid.2024.10640](port-hamiltonian-formulations-for-the-modeling-simulation-and-control-of-fluids) -- [10.1016/j.compfluid.2024.106407](https://doi.org/10.1016/j.compfluid.2024.106407)
 - Roze, Time-space formulation of a conservative string subject to finite transformations. IFAC-Pap. (2024)
 - Hairer, Geometric Numerical Integration. (2006)
 - E. Celledoni, E.H. Høiseth, Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems, (2017). arXiv preprint arXiv: 1706.08621.
@@ -92,7 +92,7 @@ discrete gradient, jacobian regularization, physics-informed machine learning, p
 - Muller, Power-balanced modelling of circuits as skew gradient systems. (2018)
 - Press, (2007)
 - P. Schwerdtner, Port-Hamiltonian system identification from noisy frequency response data, (2021). arXiv preprint arXiv: 2106.11355.
-- [Schwerdtner P, Moser T, Mehrmann V, Voigt M (2023) Optimization-based model order reduction of port-Hamiltonian descriptor systems. Systems &amp; Control Letters 182:105655. https://doi.org/10.1016/j.sysconle.2023.10565](optimization-based-model-order-reduction-of-port-hamiltonian-descriptor-systems) -- [10.1016/j.sysconle.2023.105655](https://doi.org/10.1016/j.sysconle.2023.105655)
+- [Schwerdtner P, Moser T, Mehrmann V, Voigt M (2023) Optimization-based model order reduction of port-Hamiltonian descriptor systems. Systems & Control Letters 182:105655. https://doi.org/10.1016/j.sysconle.2023.10565](optimization-based-model-order-reduction-of-port-hamiltonian-descriptor-systems) -- [10.1016/j.sysconle.2023.105655](https://doi.org/10.1016/j.sysconle.2023.105655)
 - Zhu, On numerical integration in neural ordinary differential equations. (2022)
 - Neary, Compositional learning of dynamical system models using port-Hamiltonian neural networks. (2023)
 - Hélie, Modèle passif minimal d’instrument musical auto-oscillant à configuration variable en temps. (2025)

@@ -82,7 +82,7 @@ Infinite-dimensional systems; Port-Hamiltonian systems; Modeling; Hamilton's pri
 - [Warsewa, A., Böhm, M., Sawodny, O. & Tarín, C. A port-Hamiltonian approach to modeling the structural dynamics of complex systems. Applied Mathematical Modelling vol. 89 1528–1546 (2021)](a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems) -- [10.1016/j.apm.2020.07.038](https://doi.org/10.1016/j.apm.2020.07.038)
 - Schöberl, Analysis and comparison of port-Hamiltonian formulations for field theories-demonstrated by means of the Mindlin plate. (2013)
 - Maschke,
-- [van der Schaft, A. & Mehrmann, V. Linear port-Hamiltonian DAE systems revisited. Systems &amp; Control Letters vol. 177 105564 (2023)](linear-port-hamiltonian-dae-systems-revisited) -- [10.1016/j.sysconle.2023.105564](https://doi.org/10.1016/j.sysconle.2023.105564)
+- [van der Schaft, A. & Mehrmann, V. Linear port-Hamiltonian DAE systems revisited. Systems & Control Letters vol. 177 105564 (2023)](linear-port-hamiltonian-dae-systems-revisited) -- [10.1016/j.sysconle.2023.105564](https://doi.org/10.1016/j.sysconle.2023.105564)
 - Reddy, J. N. A Simple Higher-Order Theory for Laminated Composite Plates. Journal of Applied Mechanics vol. 51 745–752 (1984) -- [10.1115/1.3167719](https://doi.org/10.1115/1.3167719)
 - Reddy, (2003)
 - Bedford, (1985)

@@ -53,6 +53,6 @@ This paper addresses robust stability issues of interconnected port-Hamiltonian 
 - Niculescu, S.-I., Verriest, E. I., Dugard, L. & Dion, J.-M. Stability and robust stability of time-delay systems: A guided tour. Lecture Notes in Control and Information Sciences 1–71 doi:10.1007/bfb0027479 -- [10.1007/bfb0027479](https://doi.org/10.1007/bfb0027479)
 - niculescu, Delay Effects on Stability A Robust Control Approach (2001)
 - Fridman, E. & Shaked, U. An improved stabilization method for linear time-delay systems. IEEE Trans. Automat. Contr. 47, 1931–1937 (2002) -- [10.1109/tac.2002.804462](https://doi.org/10.1109/tac.2002.804462)
-- Fridman, E. & Niculescu, S. On complete Lyapunov–Krasovskii functional techniques for uncertain systems with fast‐varying delays. Intl J Robust &amp; Nonlinear 18, 364–374 (2007) -- [10.1002/rnc.1230](https://doi.org/10.1002/rnc.1230)
+- Fridman, E. & Niculescu, S. On complete Lyapunov–Krasovskii functional techniques for uncertain systems with fast‐varying delays. Intl J Robust & Nonlinear 18, 364–374 (2007) -- [10.1002/rnc.1230](https://doi.org/10.1002/rnc.1230)
 - [Pasumarthy, R. & Kao, C.-Y. On stability of time delay Hamiltonian systems. 2009 American Control Conference 4909–4914 (2009) doi:10.1109/acc.2009.5160619](on-stability-of-time-delay-hamiltonian-systems) -- [10.1109/acc.2009.5160619](https://doi.org/10.1109/acc.2009.5160619)
 

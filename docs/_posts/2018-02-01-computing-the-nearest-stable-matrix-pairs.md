@@ -45,7 +45,7 @@ In this paper, we study the nearest stable matrix pair problem: given a square m
 - Kunkel P, EMS textbooks in mathematics (2006)
 - Gantmacher FR, The theory of matrices I (1959)
 - Mehrmann V, Lecture notes in control and information sciences (1991)
-- Varga, A. On stabilization methods of descriptor systems. Systems &amp; Control Letters vol. 24 133–138 (1995) -- [10.1016/0167-6911(94)00017-p](https://doi.org/10.1016/0167-6911(94)00017-p)
+- Varga, A. On stabilization methods of descriptor systems. Systems & Control Letters vol. 24 133–138 (1995) -- [10.1016/0167-6911(94)00017-p](https://doi.org/10.1016/0167-6911(94)00017-p)
 - Boyd, S., El Ghaoui, L., Feron, E. & Balakrishnan, V. Linear Matrix Inequalities in System and Control Theory. (1994) doi:10.1137/1.9781611970777 -- [10.1137/1.9781611970777](https://doi.org/10.1137/1.9781611970777)
 - Byers, R. & Nichols, N. K. On the stability radius of a generalized state-space system. Linear Algebra and its Applications vols 188–189 113–134 (1993) -- [10.1016/0024-3795(93)90466-2](https://doi.org/10.1016/0024-3795(93)90466-2)
 - Du, N. H., Linh, V. H. & Mehrmann, V. Robust Stability of Differential-Algebraic Equations. Surveys in Differential-Algebraic Equations I 63–95 (2013) doi:10.1007/978-3-642-34928-7_2 -- [10.1007/978-3-642-34928-7_2](https://doi.org/10.1007/978-3-642-34928-7_2)

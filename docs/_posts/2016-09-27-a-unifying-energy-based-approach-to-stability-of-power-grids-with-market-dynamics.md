@@ -52,7 +52,7 @@ In this paper, a unifying energy-based approach is provided to the modeling and 
 - Li, N., Chen, L., Zhao, C. & Low, S. H. Connecting automatic generation control and economic dispatch from an optimization view. 2014 American Control Conference 735–740 (2014) doi:10.1109/acc.2014.6859060 -- [10.1109/acc.2014.6859060](https://doi.org/10.1109/acc.2014.6859060)
 - mallada, Distributed frequency-preserving optimal load control. IFAC World Congr (0)
 - seungil, Reverse and forward engineering of frequency control in power networks. Proc IEEE Conf Decision and Control (0)
-- Zhang, X., Li, N. & Papachristodoulou, A. Achieving real-time economic dispatch in power networks via a saddle point design approach. 2015 IEEE Power &amp; Energy Society General Meeting 1–5 (2015) doi:10.1109/pesgm.2015.7286222 -- [10.1109/pesgm.2015.7286222](https://doi.org/10.1109/pesgm.2015.7286222)
+- Zhang, X., Li, N. & Papachristodoulou, A. Achieving real-time economic dispatch in power networks via a saddle point design approach. 2015 IEEE Power & Energy Society General Meeting 1–5 (2015) doi:10.1109/pesgm.2015.7286222 -- [10.1109/pesgm.2015.7286222](https://doi.org/10.1109/pesgm.2015.7286222)
 - zhang, A real-time control framework for smart power networks with star topology. Proc IEEE American Control Conf (ACC) (0)
 - Zhang, X. & Papachristodoulou, A. A real-time control framework for smart power networks: Design methodology and stability. Automatica vol. 58 43–50 (2015) -- [10.1016/j.automatica.2015.05.003](https://doi.org/10.1016/j.automatica.2015.05.003)
 - zhao, Distributed generator and load-side secondary frequency control in power networks. Proc IEEE 49th Annu Conf Inf Sci Syst (CISS) (0)
@@ -77,5 +77,5 @@ In this paper, a unifying energy-based approach is provided to the modeling and 
 - sauer, Power System Dynamics and Stability (1998)
 - kundur, Power System Stability and Control (1993)
 - anderson, Power System Control and Stability (1977)
-- Cherukuri, A., Mallada, E. & Cortés, J. Asymptotic convergence of constrained primal–dual dynamics. Systems &amp; Control Letters vol. 87 10–15 (2016) -- [10.1016/j.sysconle.2015.10.006](https://doi.org/10.1016/j.sysconle.2015.10.006)
+- Cherukuri, A., Mallada, E. & Cortés, J. Asymptotic convergence of constrained primal–dual dynamics. Systems & Control Letters vol. 87 10–15 (2016) -- [10.1016/j.sysconle.2015.10.006](https://doi.org/10.1016/j.sysconle.2015.10.006)
 

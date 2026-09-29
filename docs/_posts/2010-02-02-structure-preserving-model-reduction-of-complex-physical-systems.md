@@ -42,7 +42,7 @@ Port-based network modeling of complex physical systems naturally leads to port-
 ## References
 - polyuga, Structure preserving model reduction of port-Hamiltonian systems. Inter Symposium on Mathematical Theory of Networks and Systems (2008)
 - polyuga, Moment matching for linear port-Hamiltonian systems. Proceedings 10th European Control Conference (ECC'09) Budapest (2009)
-- Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems &amp; Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
+- Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems & Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
 - van der schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Arch Elektron Ubertragungstechn (1995)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - van der schaft, L2-Gain and Passivity Techniques in Nonlinear Control. Lect Notes in Control and Information Sciences (1996)

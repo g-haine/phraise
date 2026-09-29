@@ -57,7 +57,7 @@ Tracking systems; Passive compensation; Mechanical manipulators; Nonlinear contr
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - Fujimoto, K. & Sugie, T. Canonical Transformation and Stabilization of Generalized Hamiltonian Systems. IFAC Proceedings Volumes 31, 523–528 (1998) -- [10.1016/s1474-6670(17)40390-9](https://doi.org/10.1016/s1474-6670(17)40390-9)
 - [Fujimoto, K. & Sugie, T. Time-varying Stabilization of Hamiltonian Systems Via Generalized Canonical Transformations. IFAC Proceedings Volumes 33, 63–68 (2000)](time-varying-stabilization-of-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/s1474-6670(17)35548-9](https://doi.org/10.1016/s1474-6670(17)35548-9)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Horn, (1999)
 - Kelly, R. & Salgado, R. PD control with computed feedforward of robot manipulators: a design procedure. IEEE Trans. Robot. Automat. 10, 566–571 (1994) -- [10.1109/70.313108](https://doi.org/10.1109/70.313108)
 - Lozano, (2000)
@@ -70,6 +70,6 @@ Tracking systems; Passive compensation; Mechanical manipulators; Nonlinear contr
 - Skowronski, (1991)
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control 103, 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
 - Van der Schaft, (2000)
-- Wen, J. T. A unified perspective on robot control: The energy lyapunov function approach. Adaptive Control &amp; Signal 4, 487–500 (1990) -- [10.1002/acs.4480040607](https://doi.org/10.1002/acs.4480040607)
+- Wen, J. T. A unified perspective on robot control: The energy lyapunov function approach. Adaptive Control & Signal 4, 487–500 (1990) -- [10.1002/acs.4480040607](https://doi.org/10.1002/acs.4480040607)
 - Yoshikawa, (1990)
 

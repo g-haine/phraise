@@ -59,7 +59,7 @@ Krylov subspace; Short recurrence; Right preconditioning; Optimal methods; Flexi
  
 ## References
 - Arioli, M., Liesen, J., Miçdlar, A. & Strakoš, Z. Interplay between discretization and algebraic computation in adaptive numerical solutionof elliptic PDE problems. GAMM-Mitteilungen 36, 102–129 (2013) -- [10.1002/gamm.201310006](https://doi.org/10.1002/gamm.201310006)
-- Banagaaya, N. et al. Model Order Reduction for Nanoelectronics Coupled Problems with Many Inputs. Proceedings of the 2016 Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE) 313–318 (2016) doi:10.3850/9783981537079_0996 -- [10.3850/9783981537079_0996](https://doi.org/10.3850/9783981537079_0996)
+- Banagaaya, N. et al. Model Order Reduction for Nanoelectronics Coupled Problems with Many Inputs. Proceedings of the 2016 Design, Automation & Test in Europe Conference & Exhibition (DATE) 313–318 (2016) doi:10.3850/9783981537079_0996 -- [10.3850/9783981537079_0996](https://doi.org/10.3850/9783981537079_0996)
 - Concus, P. & Golub, G. H. A Generalized Conjugate Gradient Method for Nonsymmetric Systems of Linear Equations. Lecture Notes in Economics and Mathematical Systems 56–65 (1976) doi:10.1007/978-3-642-85972-4_4 -- [10.1007/978-3-642-85972-4_4](https://doi.org/10.1007/978-3-642-85972-4_4)
 - Eisenstat, S. C. A Note on the Generalized Conjugate Gradient Method. SIAM J. Numer. Anal. 20, 358–361 (1983) -- [10.1137/0720024](https://doi.org/10.1137/0720024)
 - Faber, V. & Manteuffel, T. Necessary and Sufficient Conditions for the Existence of a Conjugate Gradient Method. SIAM J. Numer. Anal. 21, 352–362 (1984) -- [10.1137/0721026](https://doi.org/10.1137/0721026)
@@ -70,7 +70,7 @@ Krylov subspace; Short recurrence; Right preconditioning; Optimal methods; Flexi
 - [Güdücü, C., Liesen, J., Mehrmann, V. & Szyld, D. B. On Non-Hermitian Positive (Semi)Definite Linear Algebraic Systems Arising from Dissipative Hamiltonian DAEs. SIAM J. Sci. Comput. 44, A2871–A2894 (2022)](on-non-hermitian-positive-semi-definite-linear-algebraic-systems-arising-from-dissipative-hamiltonian-daes) -- [10.1137/21m1458594](https://doi.org/10.1137/21m1458594)
 - [Gugercin, S., Polyuga, R. V., Beattie, C. & van der Schaft, A. Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica 48, 1963–1974 (2012)](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
 - Hageman, L. A., Luk, F. T. & Young, D. M. On the Equivalence of Certain Iterative Acceleration Methods. SIAM J. Numer. Anal. 17, 852–873 (1980) -- [10.1137/0717071](https://doi.org/10.1137/0717071)
-- Liesen, J. When is the Adjoint of a Matrix a Low Degree Rational Function in the Matrix? SIAM J. Matrix Anal. &amp; Appl. 29, 1171–1180 (2008) -- [10.1137/060675538](https://doi.org/10.1137/060675538)
+- Liesen, J. When is the Adjoint of a Matrix a Low Degree Rational Function in the Matrix? SIAM J. Matrix Anal. & Appl. 29, 1171–1180 (2008) -- [10.1137/060675538](https://doi.org/10.1137/060675538)
 - J Liesen, Krylov Subspace Methods. Numerical Mathematics and Scientific Computation—Principles and Analysis (2013)
 - Málek, J. & Strakoš, Z. Preconditioning and the Conjugate Gradient Method in the Context of Solving PDEs. (2014) doi:10.1137/1.9781611973846 -- [10.1137/1.9781611973846](https://doi.org/10.1137/1.9781611973846)
 - DOI not foun -- [10.48550/arxiv.1903.10451,](https://doi.org/10.48550/arxiv.1903.10451,)

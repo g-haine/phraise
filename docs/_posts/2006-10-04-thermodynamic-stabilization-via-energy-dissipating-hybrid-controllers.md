@@ -44,7 +44,7 @@ A novel class of fixed-order, energy-based hybrid controllers is proposed as a m
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Arch. Rational Mech. Anal. 45, 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
 - haddad, Thermodynamics A Dynamical Systems Approach (2005)
 - Bupp, R. T., Bernstein, D. S., Chellaboina, V. S. & Haddad, W. M. Resetting Virtual Absorbers for Vibration Control. Journal of Vibration and Control 6, 61–83 (2000) -- [10.1177/107754630000600104](https://doi.org/10.1177/107754630000600104)
-- Chellaboina, V., Bhat, S. P. & Haddad, W. M. An invariance principle for nonlinear hybrid and impulsive dynamical systems. Nonlinear Analysis: Theory, Methods &amp; Applications 53, 527–550 (2003) -- [10.1016/s0362-546x(02)00316-4](https://doi.org/10.1016/s0362-546x(02)00316-4)
+- Chellaboina, V., Bhat, S. P. & Haddad, W. M. An invariance principle for nonlinear hybrid and impulsive dynamical systems. Nonlinear Analysis: Theory, Methods & Applications 53, 527–550 (2003) -- [10.1016/s0362-546x(02)00316-4](https://doi.org/10.1016/s0362-546x(02)00316-4)
 - Haddad, W. M. et al. Non-linear impulsive dynamical systems. Part I: Stability and dissipativity. International Journal of Control 74, 1631–1658 (2001) -- [10.1080/00207170110081705](https://doi.org/10.1080/00207170110081705)
 - Haddad, W. M., Qing Hui, Nersesov, S. G. & Chellaboina, V. Thermodynamic modeling, energy equipartition, and nonconservation of entropy for discrete-time dynamical systems. Proceedings of the 2005, American Control Conference, 2005. 4832–4837 doi:10.1109/acc.2005.1470760 -- [10.1109/acc.2005.1470760](https://doi.org/10.1109/acc.2005.1470760)
 

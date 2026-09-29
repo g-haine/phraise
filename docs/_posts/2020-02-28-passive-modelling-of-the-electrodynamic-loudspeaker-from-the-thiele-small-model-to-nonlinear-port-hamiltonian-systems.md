@@ -83,7 +83,7 @@ The electrodynamic loudspeaker couples mechanical, magnetic, electric and thermo
 - Slotine J.-J.E., Li W., et al.: Applied Nonlinear Control, Vol. 199. Prentice-Hall, Englewood Cliffs, NJ, 1991.
 - Agerkvist F.T., Ritter T.: Modeling viscoelasticity of loudspeaker suspensions using retardation spectra, in Audio Engineering Society Convention 129, New York, NY, Audio Engineering Society. 2010.
 - Koeller, R. C. Applications of Fractional Calculus to the Theory of Viscoelasticity. Journal of Applied Mechanics vol. 51 299–307 (1984) -- [10.1115/1.3167616](https://doi.org/10.1115/1.3167616)
-- Lewandowski, R. & Chorążyczewski, B. Identification of the parameters of the Kelvin–Voigt and the Maxwell fractional models, used to modeling of viscoelastic dampers. Computers &amp; Structures vol. 88 1–17 (2010) -- [10.1016/j.compstruc.2009.09.001](https://doi.org/10.1016/j.compstruc.2009.09.001)
+- Lewandowski, R. & Chorążyczewski, B. Identification of the parameters of the Kelvin–Voigt and the Maxwell fractional models, used to modeling of viscoelastic dampers. Computers & Structures vol. 88 1–17 (2010) -- [10.1016/j.compstruc.2009.09.001](https://doi.org/10.1016/j.compstruc.2009.09.001)
 - Findley W.N., Davis F.A.: Creep and relaxation of nonlinear viscoelastic materials. Courier Corporation, 2013.
 - Vanderkooy J.: A model of loudspeaker driver impedance incorporating eddy currents in the pole structure, in Audio Engineering Society Convention 84. Audio Engineering Society, 1988.
 - Wright, Journal of the Audio Engineering Society (1990)

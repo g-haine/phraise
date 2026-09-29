@@ -45,7 +45,7 @@ ABSTRACT The passivity-based control (PBC) is not robust and it relies upon the 
 ## References
 - Al-Tamimi, A., Lewis, F. L. & Abu-Khalaf, M. Model-free Q-learning designs for linear discrete-time zero-sum games with application to H-infinity control. Automatica vol. 43 473–481 (2007) -- [10.1016/j.automatica.2006.09.019](https://doi.org/10.1016/j.automatica.2006.09.019)
 - Aracil J., Proceedings World Automation Congress (2004)
-- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
+- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems & Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
 - Barto, A. G., Sutton, R. S. & Anderson, C. W. Neuronlike adaptive elements that can solve difficult learning control problems. IEEE Transactions on Systems, Man, and Cybernetics vol. SMC-13 834–846 (1983) -- [10.1109/tsmc.1983.6313077](https://doi.org/10.1109/tsmc.1983.6313077)
 - Bertsekas, D. P. Neuro-Dynamic Programming. Encyclopedia of Optimization 2555–2560 (2008) doi:10.1007/978-0-387-74759-0_440 -- [10.1007/978-0-387-74759-0_440](https://doi.org/10.1007/978-0-387-74759-0_440)
 - Byrnes, C. I., Isidori, A. & Willems, J. C. Passivity, feedback equivalence, and the global stabilization of minimum phase nonlinear systems. IEEE Transactions on Automatic Control vol. 36 1228–1240 (1991) -- [10.1109/9.100932](https://doi.org/10.1109/9.100932)
@@ -59,7 +59,7 @@ ABSTRACT The passivity-based control (PBC) is not robust and it relies upon the 
 - Khan, S. G., Herrmann, G., Lewis, F. L., Pipe, T. & Melhuish, C. A Novel Q-Learning Based Adaptive Optimal Controller Implementation for a Humanoid Robotic Arm*. IFAC Proceedings Volumes vol. 44 13528–13533 (2011) -- [10.3182/20110828-6-it-1002.02232](https://doi.org/10.3182/20110828-6-it-1002.02232)
 - Konidaris G., AAAI conference on artificial intelligence (2011)
 - Liu X., Proceedings of the American control conference (2000)
-- Wei Liu, Ying Tan & Qinru Qiu. Enhanced Q-learning algorithm for dynamic power management with performance constraint. 2010 Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE 2010) 602–605 (2010) doi:10.1109/date.2010.5457135 -- [10.1109/date.2010.5457135](https://doi.org/10.1109/date.2010.5457135)
+- Wei Liu, Ying Tan & Qinru Qiu. Enhanced Q-learning algorithm for dynamic power management with performance constraint. 2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010) 602–605 (2010) doi:10.1109/date.2010.5457135 -- [10.1109/date.2010.5457135](https://doi.org/10.1109/date.2010.5457135)
 - Maschke B. M., IFAC symposia series (1993)
 - Mojallizadeh, M. R. & Badamchizadeh, M. A. Adaptive Passivity-Based Control of a Photovoltaic/Battery Hybrid Power Source via Algebraic Parameter Identification. IEEE Journal of Photovoltaics vol. 6 532–539 (2016) -- [10.1109/jphotov.2016.2514715](https://doi.org/10.1109/jphotov.2016.2514715)
 - Nageshrao, S. P., Lopes, G. A. D., Jeltsema, D. & Babuška, R. Interconnection and Damping Assignment Control via Reinforcement Learning. IFAC Proceedings Volumes vol. 47 1760–1765 (2014) -- [10.3182/20140824-6-za-1003.01705](https://doi.org/10.3182/20140824-6-za-1003.01705)

@@ -62,7 +62,7 @@ gradient method; port-Hamiltonian; passivity; convex optimization; power network
 - Boyd, (2004)
 - Bürger, M. & De Persis, C. Dynamic coupling design for nonlinear output agreement and time-varying flow control. Automatica vol. 51 210–222 (2015) -- [10.1016/j.automatica.2014.10.081](https://doi.org/10.1016/j.automatica.2014.10.081)
 - Bürger, An internal model approach to (optimal) frequency regulation in power grids. (2014)
-- Cherukuri, A., Mallada, E. & Cortés, J. Asymptotic convergence of constrained primal–dual dynamics. Systems &amp; Control Letters vol. 87 10–15 (2016) -- [10.1016/j.sysconle.2015.10.006](https://doi.org/10.1016/j.sysconle.2015.10.006)
+- Cherukuri, A., Mallada, E. & Cortés, J. Asymptotic convergence of constrained primal–dual dynamics. Systems & Control Letters vol. 87 10–15 (2016) -- [10.1016/j.sysconle.2015.10.006](https://doi.org/10.1016/j.sysconle.2015.10.006)
 - Feijer, D. & Paganini, F. Stability of primal–dual gradient dynamics and applications to network optimization. Automatica vol. 46 1974–1981 (2010) -- [10.1016/j.automatica.2010.08.011](https://doi.org/10.1016/j.automatica.2010.08.011)
 - Kiani, (2010)
 - Li, (2014)

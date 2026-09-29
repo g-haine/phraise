@@ -80,7 +80,7 @@ Time-dependent Maxwell’s equations; Symplectic Hamiltonian finite element meth
 - Chen, H., Qiu, W., Shi, K. & Solano, M. A Superconvergent HDG Method for the Maxwell Equations. Journal of Scientific Computing vol. 70 1010–1029 (2016) -- [10.1007/s10915-016-0272-z](https://doi.org/10.1007/s10915-016-0272-z)
 - Du, S. & Sayas, F.-J. A Unified Error Analysis of Hybridizable Discontinuous Galerkin Methods for the Static Maxwell Equations. SIAM Journal on Numerical Analysis vol. 58 1367–1391 (2020) -- [10.1137/19m1290966](https://doi.org/10.1137/19m1290966)
 - Cockburn, B. & Fu, G. A Systematic Construction of Finite Element Commuting Exact Sequences. SIAM Journal on Numerical Analysis vol. 55 1650–1688 (2017) -- [10.1137/16m1073352](https://doi.org/10.1137/16m1073352)
-- N�d�lec, J. C. A new family of mixed finite elements in ?3. Numerische Mathematik vol. 50 57–81 (1986) -- [10.1007/bf01389668](https://doi.org/10.1007/bf01389668)
+- Nédélec, J. C. A new family of mixed finite elements in \\(\mathbb{R}^{3}\\). Numerische Mathematik vol. 50 57–81 (1986) -- [10.1007/bf01389668](https://doi.org/10.1007/bf01389668)
 - Sanz-Serna, J. M. Symplectic Runge-Kutta and related methods: recent results. Physica D: Nonlinear Phenomena vol. 60 293–302 (1992) -- [10.1016/0167-2789(92)90245-i](https://doi.org/10.1016/0167-2789(92)90245-i)
 - Schöberl, J. NETGEN An advancing front 2D/3D-mesh generator based on abstract rules. Computing and Visualization in Science vol. 1 41–52 (1997) -- [10.1007/s007910050004](https://doi.org/10.1007/s007910050004)
 - Schöberl, (2014)

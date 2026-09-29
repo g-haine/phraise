@@ -49,7 +49,7 @@ This study proposes a constructive stabilisation and \\( \\H_{\\infty} \\)-robus
 - Florchinger, P. Lyapunov-Like Techniques for Stochastic Stability. SIAM Journal on Control and Optimization vol. 33 1151–1169 (1995) -- [10.1137/s0363012993252309](https://doi.org/10.1137/s0363012993252309)
 - Hua Deng, Krstic, M. & Williams, R. J. Stabilization of stochastic nonlinear systems driven by noise of unknown covariance. IEEE Transactions on Automatic Control vol. 46 1237–1253 (2001) -- [10.1109/9.940927](https://doi.org/10.1109/9.940927)
 - Niu, Y., Ho, D. W. C. & Wang, X. Robust $H_{\infty}$ Control for Nonlinear Stochastic Systems: A Sliding-Mode Approach. IEEE Transactions on Automatic Control vol. 53 1695–1701 (2008) -- [10.1109/tac.2008.929376](https://doi.org/10.1109/tac.2008.929376)
-- Berman, N. & Shaked, U. -like control for nonlinear stochastic systems. Systems &amp; Control Letters vol. 55 247–257 (2006) -- [10.1016/j.sysconle.2005.07.005](https://doi.org/10.1016/j.sysconle.2005.07.005)
+- Berman, N. & Shaked, U. -like control for nonlinear stochastic systems. Systems & Control Letters vol. 55 247–257 (2006) -- [10.1016/j.sysconle.2005.07.005](https://doi.org/10.1016/j.sysconle.2005.07.005)
 - Zhang, W. & Chen, B.-S. State Feedback $H_\infty$ Control for a Class of Nonlinear Stochastic Systems. SIAM Journal on Control and Optimization vol. 44 1973–1991 (2006) -- [10.1137/s0363012903423727](https://doi.org/10.1137/s0363012903423727)
 - Zhang, W., Chen, B.-S., Tang, H., Sheng, L. & Gao, M. Some Remarks on General Nonlinear Stochastic $H_{\infty }$ Control With State, Control, and Disturbance-Dependent Noise. IEEE Transactions on Automatic Control vol. 59 237–242 (2014) -- [10.1109/tac.2013.2270073](https://doi.org/10.1109/tac.2013.2270073)
 - Florchinger, P. A Passive System Approach to Feedback Stabilization of Nonlinear Control Stochastic Systems. SIAM Journal on Control and Optimization vol. 37 1848–1864 (1999) -- [10.1137/s0363012997317478](https://doi.org/10.1137/s0363012997317478)
@@ -66,5 +66,5 @@ This study proposes a constructive stabilisation and \\( \\H_{\\infty} \\)-robus
 - Liu Y.H., Proc. American Control Conf. (2016)
 - Wang Y.Z., Generalized Hamilton control system theory – realization, control and applications (2007)
 - Cannon R.H., Dynamics of physical systems (1976)
-- Hoagg, J. B. & Seigler, T. M. Filtered feedback linearization for nonlinear systems with unknown disturbance. Systems &amp; Control Letters vol. 62 613–625 (2013) -- [10.1016/j.sysconle.2013.04.002](https://doi.org/10.1016/j.sysconle.2013.04.002)
+- Hoagg, J. B. & Seigler, T. M. Filtered feedback linearization for nonlinear systems with unknown disturbance. Systems & Control Letters vol. 62 613–625 (2013) -- [10.1016/j.sysconle.2013.04.002](https://doi.org/10.1016/j.sysconle.2013.04.002)
 

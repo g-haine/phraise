@@ -54,7 +54,7 @@ This paper proposes an extensive connection between passivity based control and 
 - Ruszkowski, M., Garcia‐Osorio, V. & Ydstie, B. E. Passivity based control of transport reaction systems. AIChE Journal 51, 3147–3166 (2005) -- [10.1002/aic.10543](https://doi.org/10.1002/aic.10543)
 - Antonelli, R. & Astolfi, A. Continuous stirred tank reactors: easy to stabilise? Automatica 39, 1817–1827 (2003) -- [10.1016/s0005-1098(03)00177-8](https://doi.org/10.1016/s0005-1098(03)00177-8)
 - Jillson, K. R. & Erik Ydstie, B. Process networks with decentralized inventory and flow control. Journal of Process Control 17, 399–413 (2007) -- [10.1016/j.jprocont.2006.12.006](https://doi.org/10.1016/j.jprocont.2006.12.006)
-- Christofides, P. D. Nonlinear and Robust Control of Parabolic PDE Systems with Time-Dependent Spatial Domains. Systems &amp; Control: Foundations &amp; Applications 123–151 (2001) doi:10.1007/978-1-4612-0185-4_6 -- [10.1007/978-1-4612-0185-4_6](https://doi.org/10.1007/978-1-4612-0185-4_6)
+- Christofides, P. D. Nonlinear and Robust Control of Parabolic PDE Systems with Time-Dependent Spatial Domains. Systems & Control: Foundations & Applications 123–151 (2001) doi:10.1007/978-1-4612-0185-4_6 -- [10.1007/978-1-4612-0185-4_6](https://doi.org/10.1007/978-1-4612-0185-4_6)
 - luyben, Process Modeling Simulation and Control for Chemical Engineers (1990)
 - ydstie, From thermodynamics to process control. Proc Eng Syst Symp (1994)
 - Hoang, H., Couenne, F., Jallut, C. & Le Gorrec, Y. Lyapunov-based control of non isothermal continuous stirred tank reactors using irreversible thermodynamics. Journal of Process Control 22, 412–422 (2012) -- [10.1016/j.jprocont.2011.12.007](https://doi.org/10.1016/j.jprocont.2011.12.007)

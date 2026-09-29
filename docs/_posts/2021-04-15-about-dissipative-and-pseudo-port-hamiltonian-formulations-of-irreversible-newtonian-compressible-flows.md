@@ -53,7 +53,7 @@ Port-Hamiltonian systems; Compressible Fluids; Entropy; Newtonian fluids; Vortic
 [Download the bib file]({{ site.baseurl }}/assets/bib/about-dissipative-and-pseudo-port-hamiltonian-formulations-of-irreversible-newtonian-compressible-flows.bib)
  
 ## References
-- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems & Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
 - Bird, (2015)
 - [Cardoso-Ribeiro, F. L., Matignon, D. & Pommier-Budinger, V. A port-Hamiltonian model of liquid sloshing in moving containers and application to a fluid-structure system. Journal of Fluids and Structures vol. 69 402–427 (2017)](a-port-hamiltonian-model-of-liquid-sloshing-in-moving-containers-and-application-to-a-fluid-structure-system) -- [10.1016/j.jfluidstructs.2016.12.007](https://doi.org/10.1016/j.jfluidstructs.2016.12.007)
 - Carodo-Ribeiro, F.L. (2016). Port-Hamiltonian modeling and control of a fluid-structure system: Application to sloshing phenomena in a moving container coupled to a flexible structure. Doctoral thesis, Université Fédérale Toulouse Midi-Pyrénées.

@@ -44,9 +44,9 @@ A nonlinear observer design approach is proposed that exploits and combines port
  
 ## References
 - BESTLE, D. & ZEITZ, M. Canonical form observer design for non-linear time-variable systems. International Journal of Control vol. 38 419–431 (1983) -- [10.1080/00207178308933084](https://doi.org/10.1080/00207178308933084)
-- Krener, A. J. & Isidori, A. Linearization by output injection and nonlinear observers. Systems &amp; Control Letters vol. 3 47–52 (1983) -- [10.1016/0167-6911(83)90037-3](https://doi.org/10.1016/0167-6911(83)90037-3)
+- Krener, A. J. & Isidori, A. Linearization by output injection and nonlinear observers. Systems & Control Letters vol. 3 47–52 (1983) -- [10.1016/0167-6911(83)90037-3](https://doi.org/10.1016/0167-6911(83)90037-3)
 - Moreno, J. A. Approximate Observer Error Linearization by Dissipativity Methods. Lecture Notes in Control and Information Science 35–51 doi:10.1007/11529798_3 -- [10.1007/11529798_3](https://doi.org/10.1007/11529798_3)
-- Hammouri, H. & Gauthier, J. P. Bilinearization up to output injection. Systems &amp; Control Letters vol. 11 139–149 (1988) -- [10.1016/0167-6911(88)90088-6](https://doi.org/10.1016/0167-6911(88)90088-6)
+- Hammouri, H. & Gauthier, J. P. Bilinearization up to output injection. Systems & Control Letters vol. 11 139–149 (1988) -- [10.1016/0167-6911(88)90088-6](https://doi.org/10.1016/0167-6911(88)90088-6)
 - Besançon, G. State-Affine Systems and Observer-Based Control. IFAC Proceedings Volumes vol. 31 391–396 (1998) -- [10.1016/s1474-6670(17)40367-3](https://doi.org/10.1016/s1474-6670(17)40367-3)
 - Besancon, G. On output transformations for state linearization up to output injection. IEEE Transactions on Automatic Control vol. 44 1975–1981 (1999) -- [10.1109/9.793789](https://doi.org/10.1109/9.793789)
 - Besancon, G. & Bornard, G. State Equivalence Based Observer Synthesis for Nonlinear Control Systems. IFAC Proceedings Volumes vol. 29 2167–2172 (1996) -- [10.1016/s1474-6670(17)57993-8](https://doi.org/10.1016/s1474-6670(17)57993-8)
@@ -62,7 +62,7 @@ A nonlinear observer design approach is proposed that exploits and combines port
 - Moreno, J. A. Observer design for bioprocesses using a dissipative approach. IFAC Proceedings Volumes vol. 41 15559–15564 (2008) -- [10.3182/20080706-5-kr-1001.02631](https://doi.org/10.3182/20080706-5-kr-1001.02631)
 - Khalil H, Nonlinear Systems (2002)
 - Arcak, M. & Kokotović, P. Nonlinear observers: a circle criterion design and robustness analysis. Automatica vol. 37 1923–1930 (2001) -- [10.1016/s0005-1098(01)00160-1](https://doi.org/10.1016/s0005-1098(01)00160-1)
-- Deza, F., Busvelle, E., Gauthier, J. P. & Rakotopara, D. High gain estimation for nonlinear systems. Systems &amp; Control Letters vol. 18 295–299 (1992) -- [10.1016/0167-6911(92)90059-2](https://doi.org/10.1016/0167-6911(92)90059-2)
+- Deza, F., Busvelle, E., Gauthier, J. P. & Rakotopara, D. High gain estimation for nonlinear systems. Systems & Control Letters vol. 18 295–299 (1992) -- [10.1016/0167-6911(92)90059-2](https://doi.org/10.1016/0167-6911(92)90059-2)
 - Alessandri, A. Design of observers for lipschitz nonlinear systems using LMI. IFAC Proceedings Volumes vol. 37 459–464 (2004) -- [10.1016/s1474-6670(17)31266-1](https://doi.org/10.1016/s1474-6670(17)31266-1)
 - Schaft A, Port‐Hamiltonian Systems: An Introductory Survey (2006)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)

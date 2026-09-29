@@ -42,7 +42,7 @@ A port-controlled Hamiltonian (PCH) control approach is presented to solve the p
 [Download the bib file]({{ site.baseurl }}/assets/bib/port-controlled-hamiltonian-and-sliding-mode-control-of-gantry-robot-based-on-induction-motor-drives.bib)
  
 ## References
-- Djoudi, A., Bacha, S., Iman-Eini, H. & Rekioua, T. Sliding mode control of DFIG powers in the case of unknown flux and rotor currents with reduced switching frequency. International Journal of Electrical Power &amp; Energy Systems 96, 347–356 (2018) -- [10.1016/j.ijepes.2017.10.009](https://doi.org/10.1016/j.ijepes.2017.10.009)
+- Djoudi, A., Bacha, S., Iman-Eini, H. & Rekioua, T. Sliding mode control of DFIG powers in the case of unknown flux and rotor currents with reduced switching frequency. International Journal of Electrical Power & Energy Systems 96, 347–356 (2018) -- [10.1016/j.ijepes.2017.10.009](https://doi.org/10.1016/j.ijepes.2017.10.009)
 - Wai, R.-J., Huang, Y.-C., Yang, Z.-W. & Shih, C.-Y. Adaptive fuzzy-neural-network velocity sensorless control for robot manipulator position tracking. IET Control Theory Appl. 4, 1079–1093 (2010) -- [10.1049/iet-cta.2009.0166](https://doi.org/10.1049/iet-cta.2009.0166)
 - Yu, L., Fei, S., Huang, J. & Gao, Y. Trajectory Switching Control of Robotic Manipulators Based on RBF Neural Networks. Circuits Syst Signal Process 33, 1119–1133 (2013) -- [10.1007/s00034-013-9682-4](https://doi.org/10.1007/s00034-013-9682-4)
 - yu, Energy-shaping and 

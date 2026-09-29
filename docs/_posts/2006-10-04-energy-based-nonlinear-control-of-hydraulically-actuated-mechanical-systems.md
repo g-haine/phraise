@@ -48,6 +48,6 @@ This contribution is devoted to a nonlinear energy based controller design for p
 - kugi, Non-linear Control Based on Physical Models (2001)
 - Jelali, M. & Kroll, A. Hydraulic Control Systems Design. Advances in Industrial Control 213–289 (2003) doi:10.1007/978-1-4471-0099-7_6 -- [10.1007/978-1-4471-0099-7_6](https://doi.org/10.1007/978-1-4471-0099-7_6)
 - merritt, Hydraulic Control Systems (1967)
-- Mazenc, F. & Richard, E. Stabilization of hydraulic systems using a passivity property. Systems &amp; Control Letters 44, 111–117 (2001) -- [10.1016/s0167-6911(01)00130-x](https://doi.org/10.1016/s0167-6911(01)00130-x)
+- Mazenc, F. & Richard, E. Stabilization of hydraulic systems using a passivity property. Systems & Control Letters 44, 111–117 (2001) -- [10.1016/s0167-6911(01)00130-x](https://doi.org/10.1016/s0167-6911(01)00130-x)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)
 

@@ -73,5 +73,5 @@ In this survey we use an operator theoretic approach to infinite‐dimensional s
 - R. Rebarber, European Control Conference (ECC) (1997)
 - Sontag, E. D. Smooth stabilization implies coprime factorization. IEEE Transactions on Automatic Control vol. 34 435–443 (1989) -- [10.1109/9.28018](https://doi.org/10.1109/9.28018)
 - Jacob, B., Nabiullin, R., Partington, J. R. & Schwenninger, F. L. Infinite-Dimensional Input-to-State Stability and Orlicz Spaces. SIAM Journal on Control and Optimization vol. 56 868–889 (2018) -- [10.1137/16m1099467](https://doi.org/10.1137/16m1099467)
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations & Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 

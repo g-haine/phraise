@@ -70,7 +70,7 @@ In this paper we develop a mathematical model for the dynamics of a nonlinear Ti
 - T. Voß,Port-Hamiltonian Modeling and Control of Piezoelectric Beams and Plates: Application to Inflatable Space Structures Ph.D. thesis, University of Groningen, 2010.
 - Voß T., Orlando, FL (2011)
 - [Voß, T. & Scherpen, J. M. A. Stabilization and shape control of a 1D piezoelectric Timoshenko beam. Automatica vol. 47 2780–2785 (2011)](stabilization-and-shape-control-of-a-1d-piezoelectric-timoshenko-beam) -- [10.1016/j.automatica.2011.09.026](https://doi.org/10.1016/j.automatica.2011.09.026)
-- [Voss, T. & Scherpen, J. M. A. Structure Preserving Spatial Discretization of a 1-D Piezoelectric Timoshenko Beam. Multiscale Modeling &amp; Simulation vol. 9 129–154 (2011)](structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam) -- [10.1137/100789038](https://doi.org/10.1137/100789038)
+- [Voss, T. & Scherpen, J. M. A. Structure Preserving Spatial Discretization of a 1-D Piezoelectric Timoshenko Beam. Multiscale Modeling & Simulation vol. 9 129–154 (2011)](structure-preserving-spatial-discretization-of-a-1-d-piezoelectric-timoshenko-beam) -- [10.1137/100789038](https://doi.org/10.1137/100789038)
 - [Voss T, Scherpen JMA, Onck PR (2008) Modeling for control of an inflatable space reflector, the nonlinear 1-D case. In: 2008 47th IEEE Conference on Decision and Control. IEEE, pp 1777–1782](modeling-for-control-of-an-inflatable-space-reflector-the-nonlinear-1-d-case) -- [10.1109/cdc.2008.4739177](https://doi.org/10.1109/cdc.2008.4739177)
 - Wang Q. S., Smart Mater. Struct. (2010)
 - Y.Y. Yu,Vibrations of Elastic Plates Springer-Verlag, Berlin, 1996.

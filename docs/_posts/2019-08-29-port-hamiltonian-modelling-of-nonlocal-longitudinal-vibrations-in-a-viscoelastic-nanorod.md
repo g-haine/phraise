@@ -62,6 +62,6 @@ ABSTRACT Analysis of nonlocal axial vibration in a nanorod is a crucial subject 
 - J.A. Villegas, A port-Hamiltonian approach to distributed parameter systems, Ph.d. thesis, University of Twente, 2007.
 - Engel K.J., Graduate Texts in Mathematics (2000)
 - Naylor A.W., Applied Mathematical Sciences (1982)
-- [Zwart, H., Le Gorrec, Y. & Maschke, B. Building systems from simple hyperbolic ones. Systems &amp; Control Letters vol. 91 1–6 (2016)](building-systems-from-simple-hyperbolic-ones) -- [10.1016/j.sysconle.2016.02.002](https://doi.org/10.1016/j.sysconle.2016.02.002)
+- [Zwart, H., Le Gorrec, Y. & Maschke, B. Building systems from simple hyperbolic ones. Systems & Control Letters vol. 91 1–6 (2016)](building-systems-from-simple-hyperbolic-ones) -- [10.1016/j.sysconle.2016.02.002](https://doi.org/10.1016/j.sysconle.2016.02.002)
 - Magri, F. A simple model of the integrable Hamiltonian equation. Journal of Mathematical Physics vol. 19 1156–1162 (1978) -- [10.1063/1.523777](https://doi.org/10.1063/1.523777)
 

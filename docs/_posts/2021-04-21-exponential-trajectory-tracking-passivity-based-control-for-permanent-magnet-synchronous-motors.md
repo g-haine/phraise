@@ -67,5 +67,5 @@ In this paper, a novel methodology of nonlinear control is used, and a passivity
  
  2019
 - Anderson, B. D. O., Pren, J. B. & Dickerson, S. L. Linear Optimal Control. Journal of Dynamic Systems, Measurement, and Control 93, 275–275 (1971) -- [10.1115/1.3426525](https://doi.org/10.1115/1.3426525)
-- Shah, D., Espinosa–Pérez, G., Ortega, R. & Hilairet, M. An asymptotically stable sensorless speed controller for non‐salient permanent magnet synchronous motors. Intl J Robust &amp; Nonlinear 24, 644–668 (2012) -- [10.1002/rnc.2910](https://doi.org/10.1002/rnc.2910)
+- Shah, D., Espinosa–Pérez, G., Ortega, R. & Hilairet, M. An asymptotically stable sensorless speed controller for non‐salient permanent magnet synchronous motors. Intl J Robust & Nonlinear 24, 644–668 (2012) -- [10.1002/rnc.2910](https://doi.org/10.1002/rnc.2910)
 

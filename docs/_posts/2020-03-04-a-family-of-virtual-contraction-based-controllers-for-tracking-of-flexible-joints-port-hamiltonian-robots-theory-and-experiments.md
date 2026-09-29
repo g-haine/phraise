@@ -47,7 +47,7 @@ In this work, we present a constructive method to design a family of virtual con
 - Spong, M. W. Modeling and Control of Elastic Joint Robots. Journal of Dynamic Systems, Measurement, and Control vol. 109 310–318 (1987) -- [10.1115/1.3143860](https://doi.org/10.1115/1.3143860)
 - Wit CC, Theory of Robot Control (2012)
 - Loria A, On tracking control of rigid and flexible joints robots. Appl Math Comput Sci (1995)
-- Ailon, A. & Ortega, R. An observer-based set-point controller for robot manipulators with flexible joints. Systems &amp; Control Letters vol. 21 329–335 (1993) -- [10.1016/0167-6911(93)90076-i](https://doi.org/10.1016/0167-6911(93)90076-i)
+- Ailon, A. & Ortega, R. An observer-based set-point controller for robot manipulators with flexible joints. Systems & Control Letters vol. 21 329–335 (1993) -- [10.1016/0167-6911(93)90076-i](https://doi.org/10.1016/0167-6911(93)90076-i)
 - Brogliato, B., Ortega, R. & Lozano, R. Global tracking controllers for flexible-joint manipulators: a comparative study. Automatica vol. 31 941–956 (1995) -- [10.1016/0005-1098(94)00172-f](https://doi.org/10.1016/0005-1098(94)00172-f)
 - Ortega R, Passivity‐Based Control of Euler‐Lagrange Systems (2013)
 - Astolfi, A. & Ortega, R. Immersion and invariance: a new tool for stabilization and adaptive control of nonlinear systems. IEEE Transactions on Automatic Control vol. 48 590–606 (2003) -- [10.1109/tac.2003.809820](https://doi.org/10.1109/tac.2003.809820)

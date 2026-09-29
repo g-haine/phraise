@@ -61,7 +61,7 @@ The relationship of the theory of port-Hamiltonian systems with the mathematical
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - van der Schaft A. J., Archiv für Elektronik und Übertragungstechnik (1995)
 - Mehrmann V., Math. Control Signals Systems (2023)
-- [van der Schaft, A. & Mehrmann, V. Linear port-Hamiltonian DAE systems revisited. Systems &amp; Control Letters vol. 177 105564 (2023)](linear-port-hamiltonian-dae-systems-revisited) -- [10.1016/j.sysconle.2023.105564](https://doi.org/10.1016/j.sysconle.2023.105564)
+- [van der Schaft, A. & Mehrmann, V. Linear port-Hamiltonian DAE systems revisited. Systems & Control Letters vol. 177 105564 (2023)](linear-port-hamiltonian-dae-systems-revisited) -- [10.1016/j.sysconle.2023.105564](https://doi.org/10.1016/j.sysconle.2023.105564)
 - Ryu, E. K. & Yin, W. Large-Scale Convex Optimization. (2022) doi:10.1017/9781009160865 -- [10.1017/9781009160865](https://doi.org/10.1017/9781009160865)
 - Arrow K. J., Studies in Linear and Non-linear Programming (1958)
 - [Stegink, T., De Persis, C. & van der Schaft, A. A Unifying Energy-Based Approach to Stability of Power Grids With Market Dynamics. IEEE Transactions on Automatic Control vol. 62 2612–2622 (2017)](a-unifying-energy-based-approach-to-stability-of-power-grids-with-market-dynamics) -- [10.1109/tac.2016.2613901](https://doi.org/10.1109/tac.2016.2613901)
@@ -70,7 +70,7 @@ The relationship of the theory of port-Hamiltonian systems with the mathematical
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica vol. 43 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - Bertsekas D. P., Convex Optimization Theory (2009)
 - Bregman, L. M. The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming. USSR Computational Mathematics and Mathematical Physics vol. 7 200–217 (1967) -- [10.1016/0041-5553(67)90040-7](https://doi.org/10.1016/0041-5553(67)90040-7)
-- Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems &amp; Control Letters vol. 57 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
+- Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems & Control Letters vol. 57 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
 - Angeli, D. A Lyapunov approach to incremental stability properties. IEEE Transactions on Automatic Control vol. 47 410–421 (2002) -- [10.1109/9.989067](https://doi.org/10.1109/9.989067)
 - F. Forni  and 
 R. Sepulchre , On differentially dissipative dynamical systems, in 9th IFAC Symposium on Nonlinear Control Systems, Toulouse, France, 2013, pp. 4–6.

@@ -55,6 +55,6 @@ In this paper, we investigate fundamental limits for physical implementations of
 - Horowitz, J. M. & Vaikuntanathan, S. Nonequilibrium detailed fluctuation theorem for repeated discrete feedback. Phys. Rev. E 82, (2010) -- [10.1103/physreve.82.061120](https://doi.org/10.1103/physreve.82.061120)
 - Touchette, H. & Lloyd, S. Information-Theoretic Limits of Control. Phys. Rev. Lett. 84, 1156–1159 (2000) -- [10.1103/physrevlett.84.1156](https://doi.org/10.1103/physrevlett.84.1156)
 - Mitter, S. K. & Newton, N. J. Information and Entropy Flow in the Kalman?Bucy Filter. J Stat Phys 118, 145–176 (2005) -- [10.1007/s10955-004-8781-9](https://doi.org/10.1007/s10955-004-8781-9)
-- Landauer, R. Irreversibility and Heat Generation in the Computing Process. IBM J. Res. &amp; Dev. 5, 183–191 (1961) -- [10.1147/rd.53.0183](https://doi.org/10.1147/rd.53.0183)
+- Landauer, R. Irreversibility and Heat Generation in the Computing Process. IBM J. Res. & Dev. 5, 183–191 (1961) -- [10.1147/rd.53.0183](https://doi.org/10.1147/rd.53.0183)
 - Sandberg, H., Delvenne, J.-C., Newton, N. J. & Mitter, S. K. Maximum work extraction and implementation costs for nonequilibrium Maxwell’s demons. Phys. Rev. E 90, (2014) -- [10.1103/physreve.90.042119](https://doi.org/10.1103/physreve.90.042119)
 

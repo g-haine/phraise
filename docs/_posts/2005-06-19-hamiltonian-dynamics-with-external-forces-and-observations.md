@@ -73,5 +73,5 @@ Computational Mathematic; External Force; Hamiltonian System; Physical System; B
 - J. Basto Concalves,Equivalence of gradient systems, Control Theory Centre Report No. 84, University of Warwick
 - J. C. Willems,Consequences of a Dissipation Inequality in the Theory of Dynamical Systems, Physical Structure in Systems Theory (Eds.: J. J. van Dixhoorn and F. J. Evans). Academic Press, 193–218, 1974
 - A. J. van der Schaft,Observability and controllability for smooth nonlinear systems, to appear inSiam J. Control and Optimization
-- van der Schaft, A. Symmetries and conservation laws for Hamiltonian systems with inputs and outputs: A generalization of Noether’s theorem. Systems &amp; Control Letters 1, 108–115 (1981) -- [10.1016/s0167-6911(81)80046-1](https://doi.org/10.1016/s0167-6911(81)80046-1)
+- van der Schaft, A. Symmetries and conservation laws for Hamiltonian systems with inputs and outputs: A generalization of Noether’s theorem. Systems & Control Letters 1, 108–115 (1981) -- [10.1016/s0167-6911(81)80046-1](https://doi.org/10.1016/s0167-6911(81)80046-1)
 

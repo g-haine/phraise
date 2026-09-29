@@ -66,7 +66,7 @@ Disturbance; exosystem; internal model; nonlinear; PCH system
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Trans. Automat. Contr. 47, 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - Yuzhen Wang, Daizhan Cheng, Chunwen Li & You Ge. Dissipative hamiltonian realization and energy-based L/sub 2/-disturbance attenuation control of multimachine power systems. IEEE Trans. Automat. Contr. 48, 1428–1433 (2003) -- [10.1109/tac.2003.815037](https://doi.org/10.1109/tac.2003.815037)
 - [Gentili, L., Paoli, A. & Bonivento, C. Input Disturbance Suppression for Port-Hamiltonian Systems: An Internal Model Approach. Lecture Notes in Control and Information Sciences 85–98 doi:10.1007/978-3-540-70701-1_5](input-disturbance-suppression-for-port-hamiltonian-systems-an-internal-model-approach) -- [10.1007/978-3-540-70701-1_5](https://doi.org/10.1007/978-3-540-70701-1_5)
-- Kazantzis, N. & Kravaris, C. Nonlinear observer design using Lyapunov’s auxiliary theorem. Systems &amp; Control Letters 34, 241–247 (1998) -- [10.1016/s0167-6911(98)00017-6](https://doi.org/10.1016/s0167-6911(98)00017-6)
+- Kazantzis, N. & Kravaris, C. Nonlinear observer design using Lyapunov’s auxiliary theorem. Systems & Control Letters 34, 241–247 (1998) -- [10.1016/s0167-6911(98)00017-6](https://doi.org/10.1016/s0167-6911(98)00017-6)
 - A Astolfi, Proc. of 2nd IFAC Workshop LHMNLC, Seville, Spain (2003)
 - L Gentili, Proc. of 2nd IFAC Workshop LHMNLC, Seville, Spain (2003)
 - Y Wang, Generalized Controlled Hamiltonian Systems: Realization, Control and Applications (in Chinese) (2007)

@@ -58,7 +58,7 @@ We examine the existence and uniqueness of invariant measures of a class of stoc
 - B. Jacob and H. Zwart Linear port-Hamiltonian systems on infinite-dimensional spaces in Operator Theory: Advances and Applications Linear Operators and Linear Systems (LOLS) Vol. 223 Birkhäuser and Springer Basel AG Basel 2012. pp. xii+217 ISBN: 978-3-0348-0398-4.
 - [Lamoline F, Winkin JJ (2020) Well-Posedness of Boundary Controlled and Observed Stochastic Port-Hamiltonian Systems. IEEE Trans Automat Contr 65(10):4258–4264. https://doi.org/10.1109/tac.2019.295448](well-posedness-of-boundary-controlled-and-observed-stochastic-port-hamiltonian-systems) -- [10.1109/tac.2019.2954481](https://doi.org/10.1109/tac.2019.2954481)
 - Mandrekar V., Stochastic Integration in Banach Spaces: Theory and Applications (2014)
-- Mandrekar V, Rüdiger B (2023) Stability Properties of Mild Solutions of SPDEs Related to Pseudo Differential Equations. Springer Proceedings in Mathematics &amp; Statistics 295–31 -- [10.1007/978-3-031-14031-0_13](https://doi.org/10.1007/978-3-031-14031-0_13)
+- Mandrekar V, Rüdiger B (2023) Stability Properties of Mild Solutions of SPDEs Related to Pseudo Differential Equations. Springer Proceedings in Mathematics & Statistics 295–31 -- [10.1007/978-3-031-14031-0_13](https://doi.org/10.1007/978-3-031-14031-0_13)
 - Peszat S, Zabczyk J (2007) Stochastic Partial Differential Equations with Levy Nois -- [10.1017/cbo9780511721373](https://doi.org/10.1017/cbo9780511721373)
 - Prüss J., Gewöhnliche Differentialgleichungen Und Dynamische Systeme (2010)
 - van der Schaft A., Port-Hamiltonian Systems: An Introductory Survey (2006)

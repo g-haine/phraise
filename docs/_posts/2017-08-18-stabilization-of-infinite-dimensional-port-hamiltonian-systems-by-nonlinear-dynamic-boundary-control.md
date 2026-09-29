@@ -52,7 +52,7 @@ Boundary control systems; Port-Hamiltonian systems; Nonlinear control; Existence
  
 ## References
 - Augner, Well-posedness and stability of linear port-Hamiltonian systems with nonlinear boundary feedback. SIAM Journal on Control and Optimization (2016)
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations & Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Borazjani, I. Fluid–structure interaction, immersed boundary-finite element method simulations of bio-prosthetic heart valves. Computer Methods in Applied Mechanics and Engineering vol. 257 103–116 (2013) -- [10.1016/j.cma.2013.01.010](https://doi.org/10.1016/j.cma.2013.01.010)
 - Boudaoud, Modeling and optimal force control of a nonlinear electrostatic microgripper. IEEE/ASME Transactions on Mechatronics (2012)
 - Collet, M., David, P. & Berthillier, M. Active acoustical impedance using distributed electrodynamical transducers. The Journal of the Acoustical Society of America vol. 125 882–894 (2009) -- [10.1121/1.3026329](https://doi.org/10.1121/1.3026329)

@@ -49,9 +49,9 @@ nonlinear feedback control, port controlled hamiltonian structure, rigid body
 [Download the bib file]({{ site.baseurl }}/assets/bib/some-remarks-on-nonlinear-feedback-control-of-a-rigid-spacecraft.bib)
  
 ## References
-- Aeyels, D. On stabilization by means of the Energy-Casimir method. Systems &amp; Control Letters 18, 325–328 (1992) -- [10.1016/0167-6911(92)90021-j](https://doi.org/10.1016/0167-6911(92)90021-j)
+- Aeyels, D. On stabilization by means of the Energy-Casimir method. Systems & Control Letters 18, 325–328 (1992) -- [10.1016/0167-6911(92)90021-j](https://doi.org/10.1016/0167-6911(92)90021-j)
 - Banks, Feedback control law design for the dual spin turn of spacecraft.. AIAA Journal of Guidance and Dynamics (1997)
-- Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems &amp; Control Letters 14, 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
+- Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems & Control Letters 14, 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
 - Debs, A. & Athans, M. On the optimal angular velocity control of asymmetrical space vehicles. IEEE Trans. Automat. Contr. 14, 80–83 (1969) -- [10.1109/tac.1969.1099098](https://doi.org/10.1109/tac.1969.1099098)
 - Greensite, A.L. (1970). Analysis and design of space vehicle flight control systems.
 - Krishman, Attitude stabilization of a rigid spacecraft using gas jets actuators operating in a failure mode. IEEE Control Decision Conference (1992)

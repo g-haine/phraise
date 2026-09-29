@@ -47,5 +47,5 @@ In previous research, a controller design procedure via generalized canonical tr
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica 39, 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
 - hassan, Nonlinear Systems Third Edition (2002)
 - [FUJIMOTO, K., SAKURAMA, K. & SUGIE, T. Trajectory Tracking Control of Port-Controlled Hamiltonian Systems via Generalized Canonical Transformations. T. SICE 37, 741–747 (2001)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations0) -- [10.9746/sicetr1965.37.741](https://doi.org/10.9746/sicetr1965.37.741)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 

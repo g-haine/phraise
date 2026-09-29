@@ -43,7 +43,7 @@ We study a class of partial differential equations (with variable coefficients) 
 [Download the bib file]({{ site.baseurl }}/assets/bib/exponential-stability-of-a-class-of-boundary-control-systems.bib)
  
 ## References
-- Bensoussan, A., Da Prato, G., Delfour, M. C. & Mitter, S. K. Representation and Control of Infinite Dimensional Systems. Systems &amp; Control: Foundations &amp; Applications (Birkhäuser Boston, 2007). doi:10.1007/978-0-8176-4581-6 -- [10.1007/978-0-8176-4581-6](https://doi.org/10.1007/978-0-8176-4581-6)
+- Bensoussan, A., Da Prato, G., Delfour, M. C. & Mitter, S. K. Representation and Control of Infinite Dimensional Systems. Systems & Control: Foundations & Applications (Birkhäuser Boston, 2007). doi:10.1007/978-0-8176-4581-6 -- [10.1007/978-0-8176-4581-6](https://doi.org/10.1007/978-0-8176-4581-6)
 - Komornik, V. & Loreti, P. Fourier Series in Control Theory. Springer Monographs in Mathematics (Springer New York, 2005). doi:10.1007/b139040 -- [10.1007/b139040](https://doi.org/10.1007/b139040)
 - komornik, Exact Controllability and Stabilization the Multiplier Method (1994)
 - Luo, Z.-H., Guo, B.-Z. & Morgul, O. Stability and Stabilization of Infinite Dimensional Systems with Applications. Communications and Control Engineering (Springer London, 1999). doi:10.1007/978-1-4471-0419-3 -- [10.1007/978-1-4471-0419-3](https://doi.org/10.1007/978-1-4471-0419-3)

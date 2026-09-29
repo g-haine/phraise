@@ -44,7 +44,7 @@ This paper discusses the way that energy and entropy can be regarded as storage 
  
 ## References
 - Hermann, R. (1973). Geometry, Physics and Systems, Marcel Dekker.
-- Simoes, A. A., de Diego, D. M., Valcázar, M. L. & de León, M. The Geometry of Some Thermodynamic Systems. Springer Proceedings in Mathematics &amp; Statistics 247–275 (2021) doi:10.1007/978-3-030-77957-3_13 -- [10.1007/978-3-030-77957-3_13](https://doi.org/10.1007/978-3-030-77957-3_13)
+- Simoes, A. A., de Diego, D. M., Valcázar, M. L. & de León, M. The Geometry of Some Thermodynamic Systems. Springer Proceedings in Mathematics & Statistics 247–275 (2021) doi:10.1007/978-3-030-77957-3_13 -- [10.1007/978-3-030-77957-3_13](https://doi.org/10.1007/978-3-030-77957-3_13)
 - Arnold, V.I. (1989, January 15–17). Contact Geometry: The Geometrical Method of Gibbs’s Thermodynamics. Proceedings of the Gibbs Symposium, New Haven, CT, USA.
 - Bravetti, A., Lopez-Monsalvo, C. S. & Nettel, F. Contact symmetries and Hamiltonian thermodynamics. Annals of Physics vol. 361 377–400 (2015) -- [10.1016/j.aop.2015.07.010](https://doi.org/10.1016/j.aop.2015.07.010)
 - Bravetti, A., Lopez-Monsalvo, C. & Nettel, F. Conformal Gauge Transformations in Thermodynamics. Entropy vol. 17 6150–6168 (2015) -- [10.3390/e17096150](https://doi.org/10.3390/e17096150)
@@ -101,7 +101,7 @@ This paper discusses the way that energy and entropy can be regarded as storage 
 - Abraham, R.A., and Marsden, J.E. (1978). Foundations of Mechanics, Benjamin/Cummings. [2nd ed.].
 - Arnold, V. I. Mathematical Methods of Classical Mechanics. Graduate Texts in Mathematics (Springer New York, 1989). doi:10.1007/978-1-4757-2063-1 -- [10.1007/978-1-4757-2063-1](https://doi.org/10.1007/978-1-4757-2063-1)
 - Libermann, P. & Marle, C.-M. Symplectic Geometry and Analytical Mechanics. (Springer Netherlands, 1987). doi:10.1007/978-94-009-3807-6 -- [10.1007/978-94-009-3807-6](https://doi.org/10.1007/978-94-009-3807-6)
-- [Ramirez, H., Maschke, B. & Sbarbaro, D. Feedback equivalence of input–output contact systems. Systems &amp; Control Letters vol. 62 475–481 (2013)](feedback-equivalence-of-input-output-contact-systems) -- [10.1016/j.sysconle.2013.02.008](https://doi.org/10.1016/j.sysconle.2013.02.008)
+- [Ramirez, H., Maschke, B. & Sbarbaro, D. Feedback equivalence of input–output contact systems. Systems & Control Letters vol. 62 475–481 (2013)](feedback-equivalence-of-input-output-contact-systems) -- [10.1016/j.sysconle.2013.02.008](https://doi.org/10.1016/j.sysconle.2013.02.008)
 - Ramirez, H., Maschke, B. & Sbarbaro, D. Partial Stabilization of Input-Output Contact Systems on a Legendre Submanifold. IEEE Transactions on Automatic Control vol. 62 1431–1437 (2017) -- [10.1109/tac.2016.2572403](https://doi.org/10.1109/tac.2016.2572403)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 

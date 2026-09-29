@@ -57,7 +57,7 @@ motor control, nonlinear control systems, stabilizing controllers
 - Ortega, (1998)
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Trans. Automat. Contr. 47, 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust &amp; Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
+- Rodríguez, H. & Ortega, R. Stabilization of electromechanical systems via interconnection and damping assignment. Intl J Robust & Nonlinear 13, 1095–1111 (2003) -- [10.1002/rnc.804](https://doi.org/10.1002/rnc.804)
 - Rodriguez, H., Astolfi, A. & Ortega, R. Adaptive partial state feedback stabilization of a class of electromechanical systems via immersion and invariance. Proceedings of the 2003 American Control Conference, 2003. vol. 4 3293–3298 -- [10.1109/acc.2003.1244039](https://doi.org/10.1109/acc.2003.1244039)
 - van der Schaft, (2000)
 

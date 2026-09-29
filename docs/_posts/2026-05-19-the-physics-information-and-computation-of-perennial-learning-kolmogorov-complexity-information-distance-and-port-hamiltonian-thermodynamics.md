@@ -77,7 +77,7 @@ Real-world autonomous agents learn under nonstationarity, safety constraints, an
 - Li M, Vitányi P (2019) An Introduction to Kolmogorov Complexity and Its Applications. Springer International Publishin -- [10.1007/978-3-030-11298-1](https://doi.org/10.1007/978-3-030-11298-1)
 - Conditional Kolmogorov complexity and universal probability. Theor. Comput. Sci. (2013)
 - Grünwald PD (2007) The Minimum Description Length Principl -- [10.7551/mitpress/4643.001.0001](https://doi.org/10.7551/mitpress/4643.001.0001)
-- Landauer R (1961) Irreversibility and Heat Generation in the Computing Process. IBM J Res &amp; Dev 5(3):183–191. https://doi.org/10.1147/rd.53.018 -- [10.1147/rd.53.0183](https://doi.org/10.1147/rd.53.0183)
+- Landauer R (1961) Irreversibility and Heat Generation in the Computing Process. IBM J Res & Dev 5(3):183–191. https://doi.org/10.1147/rd.53.018 -- [10.1147/rd.53.0183](https://doi.org/10.1147/rd.53.0183)
 - Bennett CH (1982) The thermodynamics of computation—a review. Int J Theor Phys 21(12):905–940. https://doi.org/10.1007/bf0208415 -- [10.1007/bf02084158](https://doi.org/10.1007/bf02084158)
 - Fredkin E, Toffoli T (1982) Conservative logic. Int J Theor Phys 21(3–4):219–253. https://doi.org/10.1007/bf0185772 -- [10.1007/bf01857727](https://doi.org/10.1007/bf01857727)
 - Boyd AB, Mandal D, Riechers PM, Crutchfield JP (2017) Transient Dissipation and Structural Costs of Physical Information Transduction. Phys Rev Lett 118(22). https://doi.org/10.1103/physrevlett.118.22060 -- [10.1103/physrevlett.118.220602](https://doi.org/10.1103/physrevlett.118.220602)
@@ -87,7 +87,7 @@ Real-world autonomous agents learn under nonstationarity, safety constraints, an
 - Nguyen, M.P., and Bajaj, C.L. (2025, January 2–7). A Differential and Pointwise Control Approach to Reinforcement Learning. Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems, San Diego, CA, USA.
 - Boyd, Thermodynamics of Modularity: Structural Costs Beyond the Landauer Bound. Phys. Rev. X (2018)
 - Crutchfield JP (1994) The calculi of emergence: computation, dynamics and induction. Physica D: Nonlinear Phenomena 75(1–3):11–54. https://doi.org/10.1016/0167-2789(94)90273- -- [10.1016/0167-2789(94)90273-9](https://doi.org/10.1016/0167-2789(94)90273-9)
-- Szilard L (1929) �ber die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen. Z Physik 53(11–12):840–856. https://doi.org/10.1007/bf0134128 -- [10.1007/bf01341281](https://doi.org/10.1007/bf01341281)
+- Szilard L (1929) Über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen. Z Physik 53(11–12):840–856. https://doi.org/10.1007/bf01341281 -- [10.1007/bf01341281](https://doi.org/10.1007/bf01341281)
 - Boyd AB, Mandal D, Crutchfield JP (2017) Correlation-powered information engines and the thermodynamics of self-correction. Phys Rev E 95(1). https://doi.org/10.1103/physreve.95.01215 -- [10.1103/physreve.95.012152](https://doi.org/10.1103/physreve.95.012152)
 - Lázaro-Camí J-A, Ortega J-P (2008) Stochastic hamiltonian dynamical systems. Reports on Mathematical Physics 61(1):65–122. https://doi.org/10.1016/s0034-4877(08)80003- -- [10.1016/s0034-4877(08)80003-1](https://doi.org/10.1016/s0034-4877(08)80003-1)
 - [Cordoni F, Di Persio L, Muradore R (2022) Stochastic Port-Hamiltonian Systems. J Nonlinear Sci 32(6). https://doi.org/10.1007/s00332-022-09853-](stochastic-port-hamiltonian-systems) -- [10.1007/s00332-022-09853-2](https://doi.org/10.1007/s00332-022-09853-2)

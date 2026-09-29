@@ -56,7 +56,7 @@ An algebraic theory of Dirac structures is presented, enclosing finite-dimension
 - Dubrovin, Dokl. Akad. Nauk SSSR (1983)
 - Faddeev, L. D. The Feynman integral for singular Lagrangians. Theoretical and Mathematical Physics vol. 1 1–13 (1969) -- [10.1007/bf01028566](https://doi.org/10.1007/bf01028566)
 - Dorfman, (1984)
-- Fuchssteiner, B. Application of hereditary symmetries to nonlinear evolution equations. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 3 849–862 (1979) -- [10.1016/0362-546x(79)90052-x](https://doi.org/10.1016/0362-546x(79)90052-x)
+- Fuchssteiner, B. Application of hereditary symmetries to nonlinear evolution equations. Nonlinear Analysis: Theory, Methods & Applications vol. 3 849–862 (1979) -- [10.1016/0362-546x(79)90052-x](https://doi.org/10.1016/0362-546x(79)90052-x)
 - Gelfand, (1978)
 - Sokolov, Dokl. Akad. Nauk SSSR (1984)
 - I.Ya. Dorfman, The Krichever-Novikov equation and local symplectic structures, to be published in Dokl. Akad. Nauk SSSR.

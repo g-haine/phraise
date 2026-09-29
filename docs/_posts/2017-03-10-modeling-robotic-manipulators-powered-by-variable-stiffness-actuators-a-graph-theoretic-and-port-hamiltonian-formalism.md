@@ -59,7 +59,7 @@ This paper proposes a modeling method for generic compliant robotic manipulators
 - Visser, L. C., Carloni, R. & Stramigioli, S. Energy-Efficient Variable Stiffness Actuators. IEEE Transactions on Robotics vol. 27 865–875 (2011) -- [10.1109/tro.2011.2150430](https://doi.org/10.1109/tro.2011.2150430)
 - De Luca, A. & Book, W. Robots with Flexible Elements. Springer Handbook of Robotics 287–319 (2008) doi:10.1007/978-3-540-30301-5_14 -- [10.1007/978-3-540-30301-5_14](https://doi.org/10.1007/978-3-540-30301-5_14)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- Groothuis, S. S., Stramigioli, S. & Carloni, R. Lending a helping hand: toward novel assistive robotic arms. IEEE Robotics &amp; Automation Magazine vol. 20 20–29 (2013) -- [10.1109/mra.2012.2225473](https://doi.org/10.1109/mra.2012.2225473)
+- Groothuis, S. S., Stramigioli, S. & Carloni, R. Lending a helping hand: toward novel assistive robotic arms. IEEE Robotics & Automation Magazine vol. 20 20–29 (2013) -- [10.1109/mra.2012.2225473](https://doi.org/10.1109/mra.2012.2225473)
 - Grioli, G. et al. Variable stiffness actuators: The user’s point of view. The International Journal of Robotics Research vol. 34 727–743 (2015) -- [10.1177/0278364914566515](https://doi.org/10.1177/0278364914566515)
 - loncaric, Geometrical analysis of compliant mechanisms in robotics
  (euclidean group, elastic systems, generalized springs). (1985)

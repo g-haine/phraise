@@ -56,7 +56,7 @@ Neural networks are discrete entities: subdivided into discrete layers and param
 - ruthotto, Deep neural networks motivated by partial differential equations. (2018)
 - krogh, A simple weight decay can improve generalization. Advances in neural information processing systems (1992)
 - brock, Large scale gan training for high fidelity natural image synthesis. (2018)
-- Golub, G. H., Hansen, P. C. & O’Leary, D. P. Tikhonov Regularization and Total Least Squares. SIAM J. Matrix Anal. &amp; Appl. 21, 185–194 (1999) -- [10.1137/s0895479897326432](https://doi.org/10.1137/s0895479897326432)
+- Golub, G. H., Hansen, P. C. & O’Leary, D. P. Tikhonov Regularization and Total Least Squares. SIAM J. Matrix Anal. & Appl. 21, 185–194 (1999) -- [10.1137/s0895479897326432](https://doi.org/10.1137/s0895479897326432)
 - He, K., Gkioxari, G., Dollar, P. & Girshick, R. Mask R-CNN. 2017 IEEE International Conference on Computer Vision (ICCV) (2017) doi:10.1109/iccv.2017.322 -- [10.1109/iccv.2017.322](https://doi.org/10.1109/iccv.2017.322)
 - devlin, Bert:Pre-training of deep bidirectional transformers for language understanding. (2018)
 - van der Schaft, A. & Schumacher, H. An Introduction to Hybrid Dynamical Systems. Lecture Notes in Control and Information Sciences (Springer London, 2000). doi:10.1007/bfb0109998 -- [10.1007/bfb0109998](https://doi.org/10.1007/bfb0109998)

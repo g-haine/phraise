@@ -61,7 +61,7 @@ Passivity; Stabilization; Nonlinear Systems; RGLC circuits; Hamiltonian Systems;
 - Jeltsema, An energy-balancing perspective of interconnection and damping assignment control of nonlinear systems. (2003)
 - Jeltsema, D., Ortega, R. & Scherpen, J. M. A. On passivity and power-balance inequalities of nonlinear rlc circuits. IEEE Trans. Circuits Syst. I 50, 1174–1179 (2003) -- [10.1109/tcsi.2003.816332](https://doi.org/10.1109/tcsi.2003.816332)
 - Marten, On the geometrical meaning of pseudo hybrid content and mixed-potential. Arch, f. Electron, u. Übertr (1992)
-- Moser, J. K. Bistable Systems of Differential Equations with Applications to Tunnel Diode Circuits. IBM J. Res. &amp; Dev. 5, 226–240 (1961) -- [10.1147/rd.53.0226](https://doi.org/10.1147/rd.53.0226)
+- Moser, J. K. Bistable Systems of Differential Equations with Applications to Tunnel Diode Circuits. IBM J. Res. & Dev. 5, 226–240 (1961) -- [10.1147/rd.53.0226](https://doi.org/10.1147/rd.53.0226)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ortega, R., Jeltsema, D. & Scherpen, J. M. A. Power shaping: A new paradigm for stabilization of nonlinear RLC circuits. IEEE Trans. Automat. Contr. 48, 1762–1767 (2003) -- [10.1109/tac.2003.817918](https://doi.org/10.1109/tac.2003.817918)
 - Rodriguez, Interconnection and damping assignment control of Hamiltonian systems. (2002)

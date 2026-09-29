@@ -44,7 +44,7 @@ This paper reviews some recent results in motion control of marine vehicles usin
 [Download the bib file]({{ site.baseurl }}/assets/bib/energy-based-motion-control-of-marine-vehicles-using-interconnection-and-damping-assignment-passivity-based-control-a-survey.bib)
  
 ## References
-- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters 45, 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
+- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems & Control Letters 45, 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
 - Brogliato, (2007)
 - Byrnes, C. I. & Isidori, A. On the attitude stabilization of rigid spacecraft. Automatica 27, 87–95 (1991) -- [10.1016/0005-1098(91)90008-p](https://doi.org/10.1016/0005-1098(91)90008-p)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica 45, 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)

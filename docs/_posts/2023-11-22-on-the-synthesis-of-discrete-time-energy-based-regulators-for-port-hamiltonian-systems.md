@@ -52,12 +52,12 @@ sampled-data control; passivity-based control; digital implementation; port-Hami
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-the-synthesis-of-discrete-time-energy-based-regulators-for-port-hamiltonian-systems.bib)
  
 ## References
-- [Aoues, S., Di Loreto, M., Eberard, D. & Marquis-Favre, W. Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability. Systems &amp; Control Letters vol. 110 9–14 (2017)](hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability) -- [10.1016/j.sysconle.2017.10.003](https://doi.org/10.1016/j.sysconle.2017.10.003)
+- [Aoues, S., Di Loreto, M., Eberard, D. & Marquis-Favre, W. Hamiltonian systems discrete-time approximation: Losslessness, passivity and composability. Systems & Control Letters vol. 110 9–14 (2017)](hamiltonian-systems-discrete-time-approximation-losslessness-passivity-and-composability) -- [10.1016/j.sysconle.2017.10.003](https://doi.org/10.1016/j.sysconle.2017.10.003)
 - Aoues, Discrete IDA-PBC control law for Newtonian mechanical port-Hamiltonian systems. (2015)
 - Celledoni, Energy-preserving and passivity-consistent numerical discretization of port-Hamiltonian systems. arXiv:1706.08621 (2017)
 - Costa-Castelló, R. & Fossas, E. On Preserving Passivity in Sampled-data Linear Systems. European Journal of Control vol. 13 583–590 (2007) -- [10.3166/ejc.13.583-590](https://doi.org/10.3166/ejc.13.583-590)
 - Ehrhardt, A geometric integration approach to smooth optimisation: Foundations of the discrete gradient method. arXiv:1805.06444 (2020)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - [Gonzalez, O. Time integration and discrete Hamiltonian systems. Journal of Nonlinear Science vol. 6 449–467 (1996)](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/bf02440162](https://doi.org/10.1007/bf02440162)
 - Gonzalez, O. & Simo, J. C. On the stability of symplectic and energy-momentum algorithms for non-linear Hamiltonian systems with symmetry. Computer Methods in Applied Mechanics and Engineering vol. 134 197–222 (1996) -- [10.1016/0045-7825(96)01009-2](https://doi.org/10.1016/0045-7825(96)01009-2)
 - Gören-Sümer, Gradient based discrete-time modeling and control of Hamiltonian systems. (2008)

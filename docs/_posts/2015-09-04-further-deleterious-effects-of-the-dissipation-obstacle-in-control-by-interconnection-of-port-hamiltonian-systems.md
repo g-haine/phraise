@@ -52,7 +52,7 @@ Dissipation obstacle; Energy-shaping; Control-by-interconnection; Port-Hamiltoni
 [Download the bib file]({{ site.baseurl }}/assets/bib/further-deleterious-effects-of-the-dissipation-obstacle-in-control-by-interconnection-of-port-hamiltonian-systems.bib)
  
 ## References
-- [Castaños, F. & Ortega, R. Energy-balancing passivity-based control is equivalent to dissipation and output invariance. Systems &amp; Control Letters vol. 58 553–560 (2009)](energy-balancing-passivity-based-control-is-equivalent-to-dissipation-and-output-invariance) -- [10.1016/j.sysconle.2009.03.007](https://doi.org/10.1016/j.sysconle.2009.03.007)
+- [Castaños, F. & Ortega, R. Energy-balancing passivity-based control is equivalent to dissipation and output invariance. Systems & Control Letters vol. 58 553–560 (2009)](energy-balancing-passivity-based-control-is-equivalent-to-dissipation-and-output-invariance) -- [10.1016/j.sysconle.2009.03.007](https://doi.org/10.1016/j.sysconle.2009.03.007)
 - Dalsmo, On representations and integrability of mathematical structures in energy-conserving physical systems. SIAM Journal on Control and Optimization (1999)
 - (2009)
 - [Koopman, J. & Jeltsema, D. Casimir-Based Control Beyond the Dissipation Obstacle. IFAC Proceedings Volumes vol. 45 173–177 (2012)](casimir-based-control-beyond-the-dissipation-obstacle) -- [10.3182/20120829-3-it-4022.00046](https://doi.org/10.3182/20120829-3-it-4022.00046)

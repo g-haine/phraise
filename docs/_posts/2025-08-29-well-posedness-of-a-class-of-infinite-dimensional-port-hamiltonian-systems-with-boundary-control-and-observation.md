@@ -54,7 +54,7 @@ well-posed distributed parameter systems; port-Hamiltonian systems; impedance pa
 ## References
 - [Augner, B. Well-Posedness and Stability of Infinite-Dimensional Linear Port-Hamiltonian Systems with Nonlinear Boundary Feedback. SIAM J. Control Optim. 57, 1818–1844 (2019)](well-posedness-and-stability-of-infinite-dimensional-linear-port-hamiltonian-systems-with-nonlinear-boundary-feedback) -- [10.1137/15m1024901](https://doi.org/10.1137/15m1024901)
 - Augner, (2016)
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory 3, 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations & Control Theory 3, 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Curtain, (2020)
 - Bao-Zhu Guo & Jun-Min Wang. The well-posedness and stability of a beam equation with conjugate variables assigned at the same boundary point. IEEE Trans. Automat. Contr. 50, 2087–2093 (2005) -- [10.1109/tac.2005.860275](https://doi.org/10.1109/tac.2005.860275)
 - [Humaloja, J.-P. & Paunonen, L. Robust Regulation of Infinite-Dimensional Port-Hamiltonian Systems. IEEE Trans. Automat. Contr. 63, 1480–1486 (2018)](robust-regulation-of-infinite-dimensional-port-hamiltonian-systems) -- [10.1109/tac.2017.2748055](https://doi.org/10.1109/tac.2017.2748055)

@@ -48,7 +48,7 @@ casimir function, control, energy-shaping, input-to-state stabilization
 [Download the bib file]({{ site.baseurl }}/assets/bib/extended-casimir-approach-to-controlled-hamiltonian-systems.bib)
  
 ## References
-- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters 54, 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
+- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems & Control Letters 54, 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
 - Cheng, D., Xi, Z., Lu, Q. & Mei, S. Geometric structure of generalized controlled Hamiltonian systems and its application. Sci. China Ser. E-Technol. Sci. 43, 365–379 (2000) -- [10.1007/bf02916984](https://doi.org/10.1007/bf02916984)
 - Wang, Y., Li, C. & Cheng, D. Generalized Hamiltonian realization of time-invariant nonlinear systems. Automatica 39, 1437–1443 (2003) -- [10.1016/s0005-1098(03)00132-8](https://doi.org/10.1016/s0005-1098(03)00132-8)
 - [Wang, Y., Cheng, D. & Hu, X. Problems on time-varying port-controlled Hamiltonian systems: geometric structure and dissipative realization. Automatica 41, 717–723 (2005)](problems-on-time-varying-port-controlled-hamiltonian-systems-geometric-structure-and-dissipative-realization) -- [10.1016/j.automatica.2004.11.006](https://doi.org/10.1016/j.automatica.2004.11.006)
@@ -67,6 +67,6 @@ casimir function, control, energy-shaping, input-to-state stabilization
 - Isidori, A. Nonlinear Control Systems II. Communications and Control Engineering (Springer London, 1999). doi:10.1007/978-1-4471-0549-7 -- [10.1007/978-1-4471-0549-7](https://doi.org/10.1007/978-1-4471-0549-7)
 - Sontag, E. D. On the Input-to-State Stability Property. European Journal of Control 1, 24–36 (1995) -- [10.1016/s0947-3580(95)70005-x](https://doi.org/10.1016/s0947-3580(95)70005-x)
 - Sontag, E. & Teel, A. Changing supply functions in input/state stable systems. IEEE Trans. Automat. Contr. 40, 1476–1478 (1995) -- [10.1109/9.402246](https://doi.org/10.1109/9.402246)
-- Sontag, E. D. & Wang, Y. On characterizations of the input-to-state stability property. Systems &amp; Control Letters 24, 351–359 (1995) -- [10.1016/0167-6911(94)00050-6](https://doi.org/10.1016/0167-6911(94)00050-6)
+- Sontag, E. D. & Wang, Y. On characterizations of the input-to-state stability property. Systems & Control Letters 24, 351–359 (1995) -- [10.1016/0167-6911(94)00050-6](https://doi.org/10.1016/0167-6911(94)00050-6)
 - H. K. Khalil, Nonlinear Systems (Third Edition), Prentice Hall, 2002.
 

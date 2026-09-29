@@ -61,7 +61,7 @@ Control of Nonlinear Systems; Control with Limited Information
 - Khalil, (2002)
 - Ortega, (2013)
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Transactions on Automatic Control vol. 47 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
-- Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems &amp; Control Letters vol. 62 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
+- Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems & Control Letters vol. 62 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
 - Romero, J. G., Donaire, A., Ortega, R. & Borja, P. Global stabilisation of underactuated mechanical systems via PID passivity-based control. Automatica vol. 96 178–185 (2018) -- [10.1016/j.automatica.2018.06.040](https://doi.org/10.1016/j.automatica.2018.06.040)
 - Sakai, (2009)
 - van der Schaft, Port-Hamiltonian Systems Theory: An Introductory Overview (2014)

@@ -54,7 +54,7 @@ In this paper, we consider a passivity-based approach for the design of a contro
 - Kaplan, (1976)
 - Lanczos, (1960)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control 10, 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
-- [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems &amp; Control Letters 61, 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
+- [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems & Control Letters 61, 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
 - Ortega, (1998)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Perez, T. & Fossen, T. I. Kinematics of Ship Motion. Advances in Industrial Control 45–58 doi:10.1007/1-84628-157-1_3 -- [10.1007/1-84628-157-1_3](https://doi.org/10.1007/1-84628-157-1_3)
@@ -62,7 +62,7 @@ In this paper, we consider a passivity-based approach for the design of a contro
 - Perez, T. & Steinmann, P. D. Analysis of Ship Roll Gyrostabiliser Control. IFAC Proceedings Volumes 42, 310–315 (2009) -- [10.3182/20090916-3-br-3001.0007](https://doi.org/10.3182/20090916-3-br-3001.0007)
 - Perez, T. & Steinmann, P. D. Analysis of Ship Roll Gyrostabiliser Control. IFAC Proceedings Volumes 42, 310–315 (2009) -- [10.3182/20090916-3-br-3001.0007](https://doi.org/10.3182/20090916-3-br-3001.0007)
 - Romero, J. G., Donaire, A. & Ortega, R. Robustifying energy shaping control of mechanical systems. 2012 IEEE 51st IEEE Conference on Decision and Control (CDC) 4424–4429 (2012) doi:10.1109/cdc.2012.6425923 -- [10.1109/cdc.2012.6425923](https://doi.org/10.1109/cdc.2012.6425923)
-- Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems &amp; Control Letters 62, 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
+- Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems & Control Letters 62, 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
 - O. Schlick. Gyroscopic effects of flying wheels on board ships. Transactions of The Institution of Naval Architects INA, 1904.
 - Spry, S. C. & Girard, A. R. Gyroscopic stabilisation of unstable vehicles: configurations, dynamics, and control. Vehicle System Dynamics 46, 247–260 (2008) -- [10.1080/00423110801935863](https://doi.org/10.1080/00423110801935863)
 - Tee, K. P., Ge, S. S. & Tay, E. H. Barrier Lyapunov Functions for the control of output-constrained nonlinear systems. Automatica 45, 918–927 (2009) -- [10.1016/j.automatica.2008.11.017](https://doi.org/10.1016/j.automatica.2008.11.017)

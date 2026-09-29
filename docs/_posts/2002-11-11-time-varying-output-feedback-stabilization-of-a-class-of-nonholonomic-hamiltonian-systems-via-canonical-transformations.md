@@ -43,10 +43,10 @@ The paper is concerned with the output feedback stabilization of a class of nonh
  
 ## References
 - ortega, Stabilization of port-controlled Hamiltonian systems: passivity and energy-balancing. Proc IEEE CDC (1999)
-- Pomet, J.-B. Explicit design of time-varying stabilizing control laws for a class of controllable systems without drift. Systems &amp; Control Letters 18, 147–158 (1992) -- [10.1016/0167-6911(92)90019-o](https://doi.org/10.1016/0167-6911(92)90019-o)
+- Pomet, J.-B. Explicit design of time-varying stabilizing control laws for a class of controllable systems without drift. Systems & Control Letters 18, 147–158 (1992) -- [10.1016/0167-6911(92)90019-o](https://doi.org/10.1016/0167-6911(92)90019-o)
 - stramigioli, Passive output feedback and port interconnection. Proc 4th IFAC Symp Nonlinear Control Systems (1998)
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control 103, 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
-- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications 10, 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
+- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods & Applications 10, 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
 - Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1996). doi:10.1007/3-540-76074-1 -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
 - fujimoto, Time-varying stabilization of nonholonomic Hamiltonian systems via canonical transformations. Proc American Control Conference (2000)
 - fujimoto, Time-varying stabilization of Hamiltonian systems via generalized canonical transformations. Proc IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control (2000)
@@ -55,6 +55,6 @@ The paper is concerned with the output feedback stabilization of a class of nonh
 - Nijmeijer, H. & van der Schaft, A. Nonlinear Dynamical Control Systems. (Springer New York, 1990). doi:10.1007/978-1-4757-2101-0 -- [10.1007/978-1-4757-2101-0](https://doi.org/10.1007/978-1-4757-2101-0)
 - Maschke, B. M. & van der Schaft, A. J. A Hamiltonian approach to stabilization of nonholonomic mechanical systems. Proceedings of 1994 33rd IEEE Conference on Decision and Control vol. 3 2950–2954 -- [10.1109/cdc.1994.411344](https://doi.org/10.1109/cdc.1994.411344)
 - FUJIMOTO, K., OGA, A. & SUGIE, T. Nonlinear Controller Design for Linear Systems via the Parametrization of Nonlinear Stabilizing Controllers. Transactions of the Institute of Systems, Control and Information Engineers 11, 623–629 (1998) -- [10.5687/iscie.11.623](https://doi.org/10.5687/iscie.11.623)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 

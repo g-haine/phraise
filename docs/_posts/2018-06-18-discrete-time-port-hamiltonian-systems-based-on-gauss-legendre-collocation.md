@@ -62,6 +62,6 @@ Port-Hamiltonian systems; Dirac structures; discrete-time systems; geometric num
 - [Kotyczka, P., Maschke, B. & Lefèvre, L. Weak form of Stokes–Dirac structures and geometric discretization of port-Hamiltonian systems. Journal of Computational Physics vol. 361 442–476 (2018)](weak-form-of-stokes-dirac-structures-and-geometric-discretization-of-port-hamiltonian-systems) -- [10.1016/j.jcp.2018.02.006](https://doi.org/10.1016/j.jcp.2018.02.006)
 - Leimkuhler, (2004)
 - Lew, A., Marsden, J. E., Ortiz, M. & West, M. Variational time integrators. International Journal for Numerical Methods in Engineering vol. 60 153–212 (2004) -- [10.1002/nme.958](https://doi.org/10.1002/nme.958)
-- [Talasila, V., Clemente-Gallardo, J. & van der Schaft, A. J. Discrete port-Hamiltonian systems. Systems &amp; Control Letters vol. 55 478–486 (2006)](discrete-port-hamiltonian-systems) -- [10.1016/j.sysconle.2005.10.001](https://doi.org/10.1016/j.sysconle.2005.10.001)
+- [Talasila, V., Clemente-Gallardo, J. & van der Schaft, A. J. Discrete port-Hamiltonian systems. Systems & Control Letters vol. 55 478–486 (2006)](discrete-port-hamiltonian-systems) -- [10.1016/j.sysconle.2005.10.001](https://doi.org/10.1016/j.sysconle.2005.10.001)
 - van der Schaft, (2017)
 
