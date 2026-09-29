@@ -7,7 +7,7 @@ authors: Aminuddin Qureshi, Sami El Ferik, Frank L. Lewis
 category: articles
 tags:
   - Canonical transformation
-  - \\( L^2 \\)-disturbance attenuation
+  - \( L^2 \)-disturbance attenuation
   - neural networks
   - port controlled Hamiltonian systems
 ---

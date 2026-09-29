@@ -8,7 +8,7 @@ category: articles
 tags:
   - Actuator saturation
   - adaptive stabilization
-  - \\( H^\infty \\)-control
+  - \( H^\infty \)-control
   - nonlinear system
   - PCH system
 ---

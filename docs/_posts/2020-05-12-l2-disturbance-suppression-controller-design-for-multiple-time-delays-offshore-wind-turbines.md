@@ -41,11 +41,11 @@ With the large-scale development of offshore wind power and the rapid developmen
 [Download the bib file]({{ site.baseurl }}/assets/bib/l2-disturbance-suppression-controller-design-for-multiple-time-delays-offshore-wind-turbines.bib)
  
 ## References
-- [Wang Y, Feng G, Cheng D, Liu Y (2006) Adaptive \(L_{2}\) disturbance attenuation control of multi-machine power systems with SMES units. Automatica 42(7):1121–1132. https://doi.org/10.1016/j.automatica.2006.03.014](adaptive-l2-disturbance-attenuation-control-of-multi-machine-power-systems-with-smes-units) -- [10.1016/j.automatica.2006.03.014](https://doi.org/10.1016/j.automatica.2006.03.014)
+- [Wang Y, Feng G, Cheng D, Liu Y (2006) Adaptive \\(L_{2}\\) disturbance attenuation control of multi-machine power systems with SMES units. Automatica 42(7):1121–1132. https://doi.org/10.1016/j.automatica.2006.03.014](adaptive-l2-disturbance-attenuation-control-of-multi-machine-power-systems-with-smes-units) -- [10.1016/j.automatica.2006.03.014](https://doi.org/10.1016/j.automatica.2006.03.014)
 - zhang, Robust sliding mode 
 $H_{\infty}$
  control using time-varying delayed states for offshore steel jacket platforms. Proc IEEE Int Symp Ind Electron (ISIE) (2013)
-- Liu Y, Wang H, Guo L (2018) Composite Robust \(H_\infty\) Control for Uncertain Stochastic Nonlinear Systems With State Delay via a Disturbance Observer. IEEE Trans Automat Contr 63(12):4345–4352. https://doi.org/10.1109/tac.2018.2819683 -- [10.1109/tac.2018.2819683](https://doi.org/10.1109/tac.2018.2819683)
+- Liu Y, Wang H, Guo L (2018) Composite Robust \\(H_\infty\\) Control for Uncertain Stochastic Nonlinear Systems With State Delay via a Disturbance Observer. IEEE Trans Automat Contr 63(12):4345–4352. https://doi.org/10.1109/tac.2018.2819683 -- [10.1109/tac.2018.2819683](https://doi.org/10.1109/tac.2018.2819683)
 - wang, Distributed complementary control of doubly-fed wind turbine group in offshore wind farm based on Hamiltonian energy theory. Elect Power Automat Equip (2018)
 - wu, Research on double PWM converter control of wind energy based on Hamilton system. Power Syst Protection Control (2012)
 - Januszewski M, Machowski J, Bialek JW (2004) Application of the direct Lyapunov method to improve damping of power swings by control of UPFC. IEE Proc, Gener Transm Distrib 151(2):252. https://doi.org/10.1049/ip-gtd:20040054 -- [10.1049/ip-gtd:20040054](https://doi.org/10.1049/ip-gtd:20040054)

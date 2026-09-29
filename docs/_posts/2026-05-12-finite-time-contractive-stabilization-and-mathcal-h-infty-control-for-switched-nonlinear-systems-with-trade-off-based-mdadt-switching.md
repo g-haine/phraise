@@ -1,5 +1,5 @@
 ---
-title: "Finite-time contractive stabilization and \\\\( \\mathcal {H}_\\infty \\\\) control for switched nonlinear systems with trade-off-based MDADT switching"
+title: "Finite-time contractive stabilization and \\( \\mathcal {H}_\\infty \\) control for switched nonlinear systems with trade-off-based MDADT switching"
 date: 2026-05-12 00:00:00 +0100
 permalink: finite-time-contractive-stabilization-and-mathcal-h-infty-control-for-switched-nonlinear-systems-with-trade-off-based-mdadt-switching
 year: 2026

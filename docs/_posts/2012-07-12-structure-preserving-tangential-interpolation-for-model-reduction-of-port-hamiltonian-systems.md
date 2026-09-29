@@ -10,7 +10,7 @@ tags:
   - Interpolation
   - Port-Hamiltonian systems
   - Structure preservation
-  - \\( H^2 \\) approximation
+  - \( H^2 \) approximation
 ---
  
 ## Authors

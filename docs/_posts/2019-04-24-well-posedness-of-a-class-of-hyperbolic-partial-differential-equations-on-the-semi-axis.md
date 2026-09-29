@@ -6,7 +6,7 @@ year: 2019
 authors: Birgit Jacob, Sven-Ake Wegner
 category: articles
 tags:
-  - \\( C_0 \\)-semigroup
+  - \( C_0 \)-semigroup
   - Hyperbolic pde
   - Port-Hamiltonian system
   - Well-posedness

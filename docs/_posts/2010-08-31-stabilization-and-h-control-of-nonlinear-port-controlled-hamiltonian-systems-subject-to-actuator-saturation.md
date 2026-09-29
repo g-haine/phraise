@@ -9,7 +9,7 @@ tags:
   - PCH system
   - Actuator saturation
   - Stabilization
-  - \\( H^\infty \\)-control
+  - \( H^\infty \)-control
   - Nonlinear affine system
 ---
  

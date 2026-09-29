@@ -54,7 +54,7 @@ Structure preserving model reduction of single-input single-output port-Hamilton
 - [Wolf T, Lohmann B, Eid R, Kotyczka P (2010) Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces. European Journal of Control 16(4):401–406. https://doi.org/10.3166/ejc.16.401-406](passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces) -- [10.3166/ejc.16.401-406](https://doi.org/10.3166/ejc.16.401-406)
 - grimme, Krylov projection methods for model reduction (1997)
 - golub, Matrix Computations (1996)
-- gugercin, Interpolation-based \({\cal H}_{2}\) model reduction for port-Hamiltonian systems. Proc Joint 48th IEEE Conf Decision Control 28th Chinese Control Conf (2009)
+- gugercin, Interpolation-based \\({\cal H}_{2}\\) model reduction for port-Hamiltonian systems. Proc Joint 48th IEEE Conf Decision Control 28th Chinese Control Conf (2009)
 - grimme, ENUMATH 97 (1998)
 - [Polyuga RV (2010) Discussion on: “Passivity and Structure Preserving Order Reduction of Linear Port-Hamiltonian Systems Using Krylov Subspaces”. European Journal of Control 16(4):407–409. https://doi.org/10.1016/s0947-3580(10)70672-5](discussion-on-passivity-and-structure-preserving-order-reduction-of-linear-port-hamiltonian-systems-using-krylov-subspaces) -- [10.1016/s0947-3580(10)70672-5](https://doi.org/10.1016/s0947-3580(10)70672-5)
 - (2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.915398 -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)

@@ -1,5 +1,5 @@
 ---
-title: "\\\\( \\mathcal{L}_2 \\\\) neuro-adaptive tracking control of uncertain port-controlled Hamiltonian systems"
+title: "\\( \\mathcal{L}_2 \\) neuro-adaptive tracking control of uncertain port-controlled Hamiltonian systems"
 date: 2015-08-11 00:00:00 +0100
 permalink: l-sub-2-sub-neuro-adaptive-tracking-control-of-uncertain-port-controlled-hamiltonian-systems
 year: 2015

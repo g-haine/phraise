@@ -6,7 +6,7 @@ year: 2006
 authors: Yuzhen Wang, Gang Feng, Daizhan Cheng, Yanhong Liu
 category: articles
 tags:
-  - adaptive \\( L^2 \\)-disturbance attenuation, dissipative pch system, energy-based control scheme, multi-machine power system, smes, stability analysis
+  - adaptive \( L^2 \)-disturbance attenuation, dissipative pch system, energy-based control scheme, multi-machine power system, smes, stability analysis
 ---
  
 ## Authors

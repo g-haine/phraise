@@ -10,7 +10,7 @@ tags:
   - Energy-based multiple Lyapunov functions
   - Mode-dependent average dwell time
   - Stabilization
-  - \\( H^\infty \\)-control
+  - \( H^\infty \)-control
 ---
  
 ## Authors

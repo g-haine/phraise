@@ -1,12 +1,12 @@
 ---
-title: "Finite-time stability analysis and \\\\( H^\\infty \\\\)-control for a class of nonlinear time-delay Hamiltonian systems"
+title: "Finite-time stability analysis and \\( H^\\infty \\)-control for a class of nonlinear time-delay Hamiltonian systems"
 date: 2012-12-08 00:00:00 +0100
 permalink: finite-time-stability-analysis-and-h
 year: 2013
 authors: Renming Yang, Yuzhen Wang
 category: articles
 tags:
-  - energy shaping, finite-time \\( H^\infty \\)-control, finite-time stability, nonlinear time-delay hamiltonian system, razumikhin approach
+  - energy shaping, finite-time \( H^\infty \)-control, finite-time stability, nonlinear time-delay hamiltonian system, razumikhin approach
 ---
  
 ## Authors
