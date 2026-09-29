@@ -3,6 +3,8 @@ name: BibReview integration
 on:
   pull_request:
     branches: [main]
+    paths-ignore:
+      - "docs/assets/data/arxiv.json"
   workflow_dispatch:
 
 permissions:
