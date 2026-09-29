@@ -49,7 +49,7 @@ This paper presents explicit formulas for the energy dissipation rate in boundar
 - Civalek Ö, Buckling and bending analyses of cantilever carbon nanotubes using the Euler-Bernoulli beam theory based on non-local continuum model. Asian Journal of Civil Engineering (2011)
 - Curtain RF, An Introduction to Infinite-Dimensional Linear Systems Theory, Vol. 21 (2012)
 - Evans L (2010) Partial Differential Equations. Graduate Studies in Mathematic -- [10.1090/gsm/019](https://doi.org/10.1090/gsm/019)
-- [Hastir A, Jacob B (2025) LQ optimal control for infinite-dimensional passive systems. Systems &amp; Control Letters 206:106279. https://doi.org/10.1016/j.sysconle.2025.10627](lq-optimal-control-for-infinite-dimensional-passive-systems) -- [10.1016/j.sysconle.2025.106279](https://doi.org/10.1016/j.sysconle.2025.106279)
+- [Hastir A, Jacob B (2025) LQ optimal control for infinite-dimensional passive systems. Systems & Control Letters 206:106279. https://doi.org/10.1016/j.sysconle.2025.10627](lq-optimal-control-for-infinite-dimensional-passive-systems) -- [10.1016/j.sysconle.2025.106279](https://doi.org/10.1016/j.sysconle.2025.106279)
 - [Jacob B, Zwart HJ (2012) Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces. Springer Base](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
 - Komornik V, Exact Controllability and Stabilization: The Multiplier Method, Vol. 36 (1994)
 - Krstic M, Smyshlyaev A (2008) Boundary Control of PDE -- [10.1137/1.9780898718607](https://doi.org/10.1137/1.9780898718607)

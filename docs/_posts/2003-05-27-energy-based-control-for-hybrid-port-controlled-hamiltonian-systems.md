@@ -56,7 +56,7 @@ Port-controlled Hamiltonian systems; Hybrid systems; Impulsive dynamical systems
 - Antsaklis, P. J. & Nerode, A. Hybrid Control Systems: An Introductory Discussion to the Special Issue. IEEE Trans. Automat. Contr. 43, 457–460 (1998) -- [10.1109/tac.1998.664148](https://doi.org/10.1109/tac.1998.664148)
 - Brogliato, (1999)
 - Impacts in Mechanical Systems. Lecture Notes in Physics (Springer Berlin Heidelberg, 2000). doi:10.1007/3-540-45501-9 -- [10.1007/3-540-45501-9](https://doi.org/10.1007/3-540-45501-9)
-- Chellaboina, V., Bhat, S. P. & Haddad, W. M. An invariance principle for nonlinear hybrid and impulsive dynamical systems. Nonlinear Analysis: Theory, Methods &amp; Applications 53, 527–550 (2003) -- [10.1016/s0362-546x(02)00316-4](https://doi.org/10.1016/s0362-546x(02)00316-4)
+- Chellaboina, V., Bhat, S. P. & Haddad, W. M. An invariance principle for nonlinear hybrid and impulsive dynamical systems. Nonlinear Analysis: Theory, Methods & Applications 53, 527–550 (2003) -- [10.1016/s0362-546x(02)00316-4](https://doi.org/10.1016/s0362-546x(02)00316-4)
 - Haddad, W. M. & Chellaboina, V. Dissipativity theory and stability of feedback interconnectionsfor hybrid dynamical systems. Mathematical Problems in Engineering 7, 299–335 (2001) -- [10.1155/s1024123x01001661](https://doi.org/10.1155/s1024123x01001661)
 - Haddad, On the equivalence between dissipativity and optimality of nonlinear hybrid controllers. International Journal of Hybrid Systems (2001)
 - Haddad, W. M. et al. Non-linear impulsive dynamical systems. Part I: Stability and dissipativity. International Journal of Control 74, 1631–1658 (2001) -- [10.1080/00207170110081705](https://doi.org/10.1080/00207170110081705)

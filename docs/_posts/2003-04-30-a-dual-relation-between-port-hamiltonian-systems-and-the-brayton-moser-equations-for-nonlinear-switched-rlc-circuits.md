@@ -65,6 +65,6 @@ Nonlinear networks; Brayton–Moser equations; Hamiltonian systems; Power conver
 - Ortega, (1998)
 - van der Schaft, (2000)
 - van der Schaft, A. J., Dalsmo, M. & Maschke, B. M. Mathematical structures in the network representation of energy-conserving physical systems. Proceedings of 35th IEEE Conference on Decision and Control vol. 1 201–206 -- [10.1109/cdc.1996.574296](https://doi.org/10.1109/cdc.1996.574296)
-- Scherpen, J. M. A., Jeltsema, D. & Klaassens, J. B. Lagrangian modeling of switching electrical networks. Systems &amp; Control Letters vol. 48 365–374 (2003) -- [10.1016/s0167-6911(02)00290-6](https://doi.org/10.1016/s0167-6911(02)00290-6)
+- Scherpen, J. M. A., Jeltsema, D. & Klaassens, J. B. Lagrangian modeling of switching electrical networks. Systems & Control Letters vol. 48 365–374 (2003) -- [10.1016/s0167-6911(02)00290-6](https://doi.org/10.1016/s0167-6911(02)00290-6)
 - Weiss, L., Mathis, W. & Trajkovic, L. A generalization of Brayton-Moser’s mixed potential function. IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications vol. 45 423–427 (1998) -- [10.1109/81.669065](https://doi.org/10.1109/81.669065)
 

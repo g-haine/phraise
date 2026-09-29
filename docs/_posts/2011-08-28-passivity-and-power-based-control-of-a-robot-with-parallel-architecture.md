@@ -53,7 +53,7 @@ parallel robot, passivity-based control, port-controlled hamiltonian model and p
 - Brayton, R. K. & Moser, J. K. A theory of nonlinear networks. I. Quart. Appl. Math. 22, 1–33 (1964) -- [10.1090/qam/169746](https://doi.org/10.1090/qam/169746)
 - Favache, Analysis and control of the exothermic continuous stirred tank reactor: the power-shaping approach. Proceedings of the 48th IEEE Conference on (2009)
 - García-Canseco, E., Jeltsema, D., Ortega, R. & Scherpen, J. M. A. Power-based control of physical systems. Automatica 46, 127–132 (2010) -- [10.1016/j.automatica.2009.10.012](https://doi.org/10.1016/j.automatica.2009.10.012)
-- Jeltsema, D. & Scherpen, J. M. A. A power-based description of standard mechanical systems. Systems &amp; Control Letters 56, 349–356 (2007) -- [10.1016/j.sysconle.2006.10.015](https://doi.org/10.1016/j.sysconle.2006.10.015)
+- Jeltsema, D. & Scherpen, J. M. A. A power-based description of standard mechanical systems. Systems & Control Letters 56, 349–356 (2007) -- [10.1016/j.sysconle.2006.10.015](https://doi.org/10.1016/j.sysconle.2006.10.015)
 - Multidomain modeling of nonlinear networks and systems. IEEE Control Syst. 29, 28–59 (2009) -- [10.1109/mcs.2009.932927](https://doi.org/10.1109/mcs.2009.932927)
 - Merlet, (2000)
 - Neves, Modeling and control of a parallel manipulator robot (2009)

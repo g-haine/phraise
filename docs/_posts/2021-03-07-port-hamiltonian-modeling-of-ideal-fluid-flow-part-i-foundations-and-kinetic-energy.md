@@ -51,7 +51,7 @@ Port-Hamiltonian; Ideal fluid flow; Stokes-Dirac structures; Geometric fluid dyn
  
 ## References
 - Abraham, (1988)
-- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems & Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
 - Arnold, Sur la géométrie différentielle des groupes de Lie de dimension infinie et ses applications à l’hydrodynamique des fluides parfaits. (1966)
 - Breedveld, (1984)
 - Duindam, (2009)
@@ -65,7 +65,7 @@ Port-Hamiltonian; Ideal fluid flow; Stokes-Dirac structures; Geometric fluid dyn
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)
 - Modin, K., Perlmutter, M., Marsland, S. & McLachlan, R. On Euler–Arnold equations and totally geodesic subgroups. Journal of Geometry and Physics vol. 61 1446–1461 (2011) -- [10.1016/j.geomphys.2011.03.007](https://doi.org/10.1016/j.geomphys.2011.03.007)
 - Morrison, P. J. Hamiltonian description of the ideal fluid. Reviews of Modern Physics vol. 70 467–521 (1998) -- [10.1103/revmodphys.70.467](https://doi.org/10.1103/revmodphys.70.467)
-- [Polner, M. & van der Vegt, J. J. W. A Hamiltonian vorticity–dilatation formulation of the compressible Euler equations. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 109 113–135 (2014)](a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations) -- [10.1016/j.na.2014.07.005](https://doi.org/10.1016/j.na.2014.07.005)
+- [Polner, M. & van der Vegt, J. J. W. A Hamiltonian vorticity–dilatation formulation of the compressible Euler equations. Nonlinear Analysis: Theory, Methods & Applications vol. 109 113–135 (2014)](a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations) -- [10.1016/j.na.2014.07.005](https://doi.org/10.1016/j.na.2014.07.005)
 - [Rashad, R., Califano, F., van der Schaft, A. J. & Stramigioli, S. Twenty years of distributed port-Hamiltonian systems: a literature review. IMA Journal of Mathematical Control and Information vol. 37 1400–1422 (2020)](twenty-years-of-distributed-port-hamiltonian-systems-a-literature-review) -- [10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
 - Van Der Schaft, Fluid dynamical systems as Hamiltonian boundary control systems. (2001)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics vol. 42 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)

@@ -106,7 +106,7 @@ Time-domain simulation of woodwind instruments typically involves the developmen
 - Wendlandt, J. M. & Marsden, J. E. Mechanical integrators derived from a discrete variational principle. Physica D: Nonlinear Phenomena vol. 106 223–246 (1997) -- [10.1016/s0167-2789(97)00051-1](https://doi.org/10.1016/s0167-2789(97)00051-1)
 - Wetzel, Power balanced time-varying lumped parameter model of a vocal tract: modeling and simulation. 26th International Conference on sound and Vibration (2019)
 - Willemsen, The Emulated ensemble: real-time simulation of musical instruments using finite-difference time-domain methods (2021)
-- YALÇIN, Y., GÖREN SÜMER, L. & KURTULAN, S. Discrete-time modeling of Hamiltonian systems. TURKISH JOURNAL OF ELECTRICAL ENGINEERING &amp; COMPUTER SCIENCES vol. 23 149–170 (2015) -- [10.3906/elk-1212-23](https://doi.org/10.3906/elk-1212-23)
+- YALÇIN, Y., GÖREN SÜMER, L. & KURTULAN, S. Discrete-time modeling of Hamiltonian systems. TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES vol. 23 149–170 (2015) -- [10.3906/elk-1212-23](https://doi.org/10.3906/elk-1212-23)
 - Yang, X. Linear, first and second-order, unconditionally energy stable numerical schemes for the phase field model of homopolymer blends. Journal of Computational Physics vol. 327 294–316 (2016) -- [10.1016/j.jcp.2016.09.029](https://doi.org/10.1016/j.jcp.2016.09.029)
 - Zhao, J., Wang, Q. & Yang, X. Numerical approximations for a phase field dendritic crystal growth model based on the invariant energy quadratization approach. International Journal for Numerical Methods in Engineering vol. 110 279–300 (2016) -- [10.1002/nme.5372](https://doi.org/10.1002/nme.5372)
 - Zwikker, Sound absorbing materials (1949)

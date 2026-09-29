@@ -60,7 +60,7 @@ The goal of this article is to present an extension of the port-based modelling 
 - [Macchelli, A. & Melchiorri, C. Modeling and Control of the Timoshenko Beam. The Distributed Port Hamiltonian Approach. SIAM Journal on Control and Optimization vol. 43 743–767 (2004)](modeling-and-control-of-the-timoshenko-beam-the-distributed-port-hamiltonian-approach) -- [10.1137/s0363012903429530](https://doi.org/10.1137/s0363012903429530)
 - Hamroun H., Trans. Fluid Mech. (2006)
 - Longoria, R. G. Wave-scattering formalisms for multiport energetic systems. Journal of the Franklin Institute vol. 333 539–564 (1996) -- [10.1016/0016-0032(96)00019-1](https://doi.org/10.1016/0016-0032(96)00019-1)
-- Marquardt, W. Trends in computer-aided process modeling. Computers &amp; Chemical Engineering vol. 20 591–609 (1996) -- [10.1016/0098-1354(95)00195-6](https://doi.org/10.1016/0098-1354(95)00195-6)
+- Marquardt, W. Trends in computer-aided process modeling. Computers & Chemical Engineering vol. 20 591–609 (1996) -- [10.1016/0098-1354(95)00195-6](https://doi.org/10.1016/0098-1354(95)00195-6)
 - Mangold, M., Motz, S. & Gilles, E. D. A network theory for the structured modelling of chemical processes. Chemical Engineering Science vol. 57 4099–4116 (2002) -- [10.1016/s0009-2509(02)00372-x](https://doi.org/10.1016/s0009-2509(02)00372-x)
 - Baaiu A., Proceeding of the IFAC symposium on Advanced Control of Chemical Processes (ADCHEM'06)
 - Baaiu A., Proceeding of the 5th MathMod (2006)

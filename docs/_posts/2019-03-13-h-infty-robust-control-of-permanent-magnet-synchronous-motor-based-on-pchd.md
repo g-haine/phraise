@@ -53,7 +53,7 @@ $H\infty$
 - wu, Robust control for permanent magnet synchronous motors based on hamiltonian function. Acta Phys Sinica (2015)
 - hou, Passivity-based control and nonsingular fast terminal sliding mode control for SPMSM. Trans China Electrotech Soc (2014)
 - Jin, X.-Z., Wang, S.-F., Yang, G.-H. & Ye, D. Robust adaptive hierarchical insensitive tracking control of a class of leader-follower agents. Information Sciences 406–407, 234–247 (2017) -- [10.1016/j.ins.2017.04.036](https://doi.org/10.1016/j.ins.2017.04.036)
-- Chang, X.-H. & Yang, G.-H. New Results on Output Feedback &lt;formula formulatype="inline"&gt; &lt;tex Notation="TeX"&gt;$H_{\infty} $&lt;/tex&gt;&lt;/formula&gt; Control for Linear Discrete-Time Systems. IEEE Trans. Automat. Contr. 59, 1355–1359 (2014) -- [10.1109/tac.2013.2289706](https://doi.org/10.1109/tac.2013.2289706)
+- Chang, X.-H. & Yang, G.-H. New Results on Output Feedback \\(H_{\infty}\\) Control for Linear Discrete-Time Systems. IEEE Trans. Automat. Contr. 59, 1355–1359 (2014) -- [10.1109/tac.2013.2289706](https://doi.org/10.1109/tac.2013.2289706)
 - hou, Robust sliding mode control of PMSM based on cascaded sliding mode observers. Control Decis (2016)
 - De Soricellis, M., Da Ru, D. & Bolognani, S. A Robust Current Control Based on Proportional-Integral Observers for Permanent Magnet Synchronous Machines. IEEE Trans. on Ind. Applicat. 54, 1437–1447 (2018) -- [10.1109/tia.2017.2772171](https://doi.org/10.1109/tia.2017.2772171)
 - huang, Sliding mode control for current loop by second order terminal sliding mode. Electr Mach Control (2018)

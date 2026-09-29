@@ -55,12 +55,12 @@ Nonlinear control; Port-Hamiltonian systems; Integral control
 - van der Schaft, (1999)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Ortega, R. & García-Canseco, E. Interconnection and Damping Assignment Passivity-Based Control: A Survey. European Journal of Control vol. 10 432–450 (2004) -- [10.3166/ejc.10.432-450](https://doi.org/10.3166/ejc.10.432-450)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Euler-Lagrange systems. Communications and Control Engineering 15–37 (1998) doi:10.1007/978-1-4471-3603-3_2 -- [10.1007/978-1-4471-3603-3_2](https://doi.org/10.1007/978-1-4471-3603-3_2)
 - J.G. Romero, R. Ortega, Robust control of port-Hamiltonian systems, LSS Internal Report, December 2010.
 - Khalil, (2002)
-- Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
+- Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems & Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Astolfi, A., Isidori, A. & Marconi, L. A Note on Disturbance Suppression for Hamiltonian Systems by State Feedback. IFAC Proceedings Volumes vol. 36 211–216 (2003) -- [10.1016/s1474-6670(17)38893-6](https://doi.org/10.1016/s1474-6670(17)38893-6)
 - Bonivento, (2007)
 - L. Gentili, A. van der Schaft, Regulation and tracking control for port-controlled Hamiltonian systems, in: Proc. IFAC Workshop on Lagrangian and Hamiltonian Methods in Nonlinear Systems, Seville, Spain, April 3–5, 2003.

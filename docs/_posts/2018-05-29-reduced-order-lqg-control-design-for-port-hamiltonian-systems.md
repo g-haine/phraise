@@ -52,7 +52,7 @@ Port Hamiltonian system; Passive control design; Control by interconnection; LQG
 [Download the bib file]({{ site.baseurl }}/assets/bib/reduced-order-lqg-control-design-for-port-hamiltonian-systems.bib)
  
 ## References
-- Antoulas, A. C. A new result on passivity preserving model reduction. Systems &amp; Control Letters vol. 54 361–374 (2005) -- [10.1016/j.sysconle.2004.07.007](https://doi.org/10.1016/j.sysconle.2004.07.007)
+- Antoulas, A. C. A new result on passivity preserving model reduction. Systems & Control Letters vol. 54 361–374 (2005) -- [10.1016/j.sysconle.2004.07.007](https://doi.org/10.1016/j.sysconle.2004.07.007)
 - Baaiu, A., Couenne, F., Lefevre, L., Le Gorrec, Y. & Tayakout, M. Structure-preserving infinite dimensional model reduction: Application to adsorption processes. Journal of Process Control vol. 19 394–404 (2009) -- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
 - Balas, M. J. Active control of flexible systems. Journal of Optimization Theory and Applications vol. 25 415–436 (1978) -- [10.1007/bf00932903](https://doi.org/10.1007/bf00932903)
 - Brogliato, (2007)
@@ -65,7 +65,7 @@ Port Hamiltonian system; Passive control design; Control by interconnection; LQG
 - Möckel, J., Reis, T. & Stykel, T. Linear-quadratic Gaussian balancing for model reduction of differential-algebraic systems. International Journal of Control vol. 84 1627–1643 (2011) -- [10.1080/00207179.2011.622791](https://doi.org/10.1080/00207179.2011.622791)
 - [Moulla, R., Lefévre, L. & Maschke, B. Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws. Journal of Computational Physics vol. 231 1272–1292 (2012)](pseudo-spectral-methods-for-the-spatial-symplectic-reduction-of-open-systems-of-conservation-laws) -- [10.1016/j.jcp.2011.10.008](https://doi.org/10.1016/j.jcp.2011.10.008)
 - [Polyuga, R. V. & van der Schaft, A. Structure Preserving Moment Matching for Port-Hamiltonian Systems: Arnoldi and Lanczos. IEEE Transactions on Automatic Control vol. 56 1458–1462 (2011)](structure-preserving-moment-matching-for-port-hamiltonian-systems-arnoldi-and-lanczos) -- [10.1109/tac.2011.2128650](https://doi.org/10.1109/tac.2011.2128650)
-- [Polyuga, R. V. & van der Schaft, A. J. Effort- and flow-constraint reduction methods for structure preserving model reduction of port-Hamiltonian systems. Systems &amp; Control Letters vol. 61 412–421 (2012)](effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.sysconle.2011.12.008](https://doi.org/10.1016/j.sysconle.2011.12.008)
+- [Polyuga, R. V. & van der Schaft, A. J. Effort- and flow-constraint reduction methods for structure preserving model reduction of port-Hamiltonian systems. Systems & Control Letters vol. 61 412–421 (2012)](effort-and-flow-constraint-reduction-methods-for-structure-preserving-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.sysconle.2011.12.008](https://doi.org/10.1016/j.sysconle.2011.12.008)
 - van der Schaft, (2000)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik Und ÜBertragungstechnik (1995)
 - [van der Schaft, A. J. & Maschke, B. M. Port-Hamiltonian Systems on Graphs. SIAM Journal on Control and Optimization vol. 51 906–937 (2013)](port-hamiltonian-systems-on-graphs) -- [10.1137/110840091](https://doi.org/10.1137/110840091)

@@ -62,5 +62,5 @@ In this paper, the problem of stabilizing linear port-controlled Hamiltonian dyn
 - Karafyllis, I. & Krstic, M. Delay-robustness of linear predictor feedback without restriction on delay rate. Automatica 49, 1761–1767 (2013) -- [10.1016/j.automatica.2013.02.019](https://doi.org/10.1016/j.automatica.2013.02.019)
 - Mattioni, M., Monaco, S. & Normand-Cyrot, D. Sampled-Data Reduction of Nonlinear Input-Delayed Dynamics. IEEE Control Syst. Lett. 1, 116–121 (2017) -- [10.1109/lcsys.2017.2710118](https://doi.org/10.1109/lcsys.2017.2710118)
 - fridman, Introduction to Time-Delay Systems Analysis and Control (0)
-- Mattioni, M., Monaco, S. & Normand-Cyrot, D. Nonlinear discrete-time systems with delayed control: A reduction. Systems &amp; Control Letters 114, 31–37 (2018) -- [10.1016/j.sysconle.2018.02.007](https://doi.org/10.1016/j.sysconle.2018.02.007)
+- Mattioni, M., Monaco, S. & Normand-Cyrot, D. Nonlinear discrete-time systems with delayed control: A reduction. Systems & Control Letters 114, 31–37 (2018) -- [10.1016/j.sysconle.2018.02.007](https://doi.org/10.1016/j.sysconle.2018.02.007)
 

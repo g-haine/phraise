@@ -58,7 +58,7 @@ decentralised control, differential games, linear matrix inequalities, multi-age
 - Dattorro, (2010)
 - Dharwadker, (2011)
 - Engwerda, (2005)
-- Fujimoto K, Sugie T (2001) Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42(3):217–227. https://doi.org/10.1016/s0167-6911(00)00091- -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto K, Sugie T (2001) Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42(3):217–227. https://doi.org/10.1016/s0167-6911(00)00091- -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Gu D (2008) A Differential Game Approach to Formation Control. IEEE Trans Contr Syst Technol 16(1):85–93. https://doi.org/10.1109/tcst.2007.89973 -- [10.1109/tcst.2007.899732](https://doi.org/10.1109/tcst.2007.899732)
 - Horn, (2012)
 - [Jafarian M, Vos E, De Persis C, van der Schaft AJ, Scherpen JMA (2015) Formation control of a multi-agent system subject to Coulomb friction. Automatica 61:253–262. https://doi.org/10.1016/j.automatica.2015.08.02](formation-control-of-a-multi-agent-system-subject-to-coulomb-friction) -- [10.1016/j.automatica.2015.08.021](https://doi.org/10.1016/j.automatica.2015.08.021)

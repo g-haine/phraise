@@ -58,7 +58,7 @@ Shape Memory Alloy; SMA; Müller-Achenbach-Seelecke Model; Passivity; Port-Hamil
 - Lagoudas, (2008)
 - Paiva, A. & Savi, M. A. An overview of constitutive models for shape memory alloys. Mathematical Problems in Engineering vol. 2006 (2006) -- [10.1155/mpe/2006/56876](https://doi.org/10.1155/mpe/2006/56876)
 - [Ramirez, H., Maschke, B. & Sbarbaro, D. Modelling and control of multi-energy systems: An irreversible port-Hamiltonian approach. European Journal of Control vol. 19 513–520 (2013)](modelling-and-control-of-multi-energy-systems-an-irreversible-port-hamiltonian-approach) -- [10.1016/j.ejcon.2013.09.009](https://doi.org/10.1016/j.ejcon.2013.09.009)
-- Seelecke, S., Heintze, O. & Masuda, A. &lt;title&gt;Simulation of earthquake-induced structural vibrations in systems with SMA damping elements&lt;/title&gt; SPIE Proceedings vol. 4697 238–245 (2002) -- [10.1117/12.472678](https://doi.org/10.1117/12.472678)
+- Seelecke, S., Heintze, O. & Masuda, A. Simulation of earthquake-induced structural vibrations in systems with SMA damping elements SPIE Proceedings vol. 4697 238–245 (2002) -- [10.1117/12.472678](https://doi.org/10.1117/12.472678)
 - Seelecke, S. & Mu¨ller, I. Shape memory alloy actuators in smart structures: Modeling and simulation. Applied Mechanics Reviews vol. 57 23–46 (2004) -- [10.1115/1.1584064](https://doi.org/10.1115/1.1584064)
 - Shtessel, (2014)
 - Simone, F., Rizzello, G. & Seelecke, S. Metal muscles and nerves—a self-sensing SMA-actuated hand concept. Smart Materials and Structures vol. 26 095007 (2017) -- [10.1088/1361-665x/aa7ad5](https://doi.org/10.1088/1361-665x/aa7ad5)

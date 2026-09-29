@@ -64,7 +64,7 @@ This paper introduces the modeling and control design of a two-wheeled wheelchai
 - van der Schaft A J, J. Society of Instrument Control Engineers Japan (2000)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - Breedveld, P. C. Thermodynamic Bond Graphs and the Problem of Thermal Inertance. Journal of the Franklin Institute vol. 314 15–40 (1982) -- [10.1016/0016-0032(82)90050-3](https://doi.org/10.1016/0016-0032(82)90050-3)
-- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 10 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
+- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods & Applications vol. 10 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
 - Aula A, (2013)
 - van der Schaft A J, Advanced dynamics and control of structures and machines (2004)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)

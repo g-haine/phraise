@@ -73,5 +73,5 @@ We analyze when an arbitrary matrix pencil is equivalent to a dissipative Hamilt
 - Thompson, R. C. The characteristic polynomial of a principal subpencil of a Hermitian matrix pencil. Linear Algebra and its Applications vol. 14 135–177 (1976) -- [10.1016/0024-3795(76)90021-5](https://doi.org/10.1016/0024-3795(76)90021-5)
 - Thompson, R. C. Pencils of complex and real symmetric and skew matrices. Linear Algebra and its Applications vol. 147 323–371 (1991) -- [10.1016/0024-3795(91)90238-r](https://doi.org/10.1016/0024-3795(91)90238-r)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems & Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
 

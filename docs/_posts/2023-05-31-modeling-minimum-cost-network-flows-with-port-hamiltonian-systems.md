@@ -51,7 +51,7 @@ We give a short overview of advantages and drawbacks of the classical formulatio
 - Fleischer, L. & Skutella, M. Quickest Flows Over Time. SIAM J. Comput. 36, 1600–1630 (2007) -- [10.1137/s0097539703427215](https://doi.org/10.1137/s0097539703427215)
 - Pyakurel, U. & Dempe, S. Network Flow with Intermediate Storage: Models and Algorithms. SN Oper. Res. Forum 1, (2020) -- [10.1007/s43069-020-00033-0](https://doi.org/10.1007/s43069-020-00033-0)
 - B. Kotnyek An annotated overview of dynamic network flows Tech. Rep. RR-4936 INRIA September 2003.
-- Prasad Pangeni, B. & Nath Dhamala, T. A BRIEF SURVEY ON DYNAMIC NETWORK FLOWS IN CONTINUOUS-TIME MODEL. Journal of Mathematical Sciences &amp; Computational Mathematics 2, 467–477 (2021) -- [10.15864/jmscm.2401](https://doi.org/10.15864/jmscm.2401)
+- Prasad Pangeni, B. & Nath Dhamala, T. A BRIEF SURVEY ON DYNAMIC NETWORK FLOWS IN CONTINUOUS-TIME MODEL. Journal of Mathematical Sciences & Computational Mathematics 2, 467–477 (2021) -- [10.15864/jmscm.2401](https://doi.org/10.15864/jmscm.2401)
 - Köhler, E. & Skutella, M. Flows over Time with Load-Dependent Transit Times. SIAM J. Optim. 15, 1185–1202 (2005) -- [10.1137/s1052623403432645](https://doi.org/10.1137/s1052623403432645)
 - M. Hinze R. Pinnau and S. Ulbrich Optimization with PDE Constraints (Springer Netherlands 2009).
 - Teschl, G. Ordinary Differential Equations and Dynamical Systems. Graduate Studies in Mathematics (2012) doi:10.1090/gsm/140 -- [10.1090/gsm/140](https://doi.org/10.1090/gsm/140)

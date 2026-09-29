@@ -84,7 +84,7 @@ In this article, we propose a mathematical model using the port-Hamiltonian form
 - Taylor, J.R. (2005). Classical Mechanics, University Science Books.
 - Yunus, A.C. (2010). Fluid Mechanics: Fundamentals And Applications (Si Units), Tata McGraw Hill Education Private Limited.
 - Wang, C. et al. Optimal design of multistage centrifugal pump based on the combined energy loss model and computational fluid dynamics. Applied Energy vol. 187 10–26 (2017) -- [10.1016/j.apenergy.2016.11.046](https://doi.org/10.1016/j.apenergy.2016.11.046)
-- Shao, C. & Zhao, Y. Numerical study of the dimensionless characteristics and modeling experiment of a molten salt pump that transports viscous fluids. International Journal of Numerical Methods for Heat &amp; Fluid Flow vol. 27 2131–2153 (2017) -- [10.1108/hff-07-2016-0267](https://doi.org/10.1108/hff-07-2016-0267)
+- Shao, C. & Zhao, Y. Numerical study of the dimensionless characteristics and modeling experiment of a molten salt pump that transports viscous fluids. International Journal of Numerical Methods for Heat & Fluid Flow vol. 27 2131–2153 (2017) -- [10.1108/hff-07-2016-0267](https://doi.org/10.1108/hff-07-2016-0267)
 - Freund, R.J., Wilson, W.J., and Sa, P. (2006). Regression Analysis, Elsevier.
 - LANDAU, L. D. & LIFSHITZ, E. M. THE EQUATIONS OF MOTION. Mechanics 1–12 (1976) doi:10.1016/b978-0-08-050347-9.50006-x -- [10.1016/b978-0-08-050347-9.50006-x](https://doi.org/10.1016/b978-0-08-050347-9.50006-x)
 - Feynman, R.P., Leighton, R.B., and Sands, M. (2011). The Feynman Lectures on Physics, Vol. I: The New Millennium Edition: Mainly Mechanics, Radiation, and Heat, Basic Books.

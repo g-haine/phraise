@@ -41,11 +41,11 @@ We present a learned structure-preserving surrogate operator in the form of a Ha
  
 ## References
 - Aziz, Petroleum Reservoir Simulation (1979)
-- Badawi, D. & Gildin, E. Neural operator-based proxy for reservoir simulations considering varying well settings, locations, and permeability fields. Computers &amp; Geosciences 196, 105826 (2025) -- [10.1016/j.cageo.2024.105826](https://doi.org/10.1016/j.cageo.2024.105826)
+- Badawi, D. & Gildin, E. Neural operator-based proxy for reservoir simulations considering varying well settings, locations, and permeability fields. Computers & Geosciences 196, 105826 (2025) -- [10.1016/j.cageo.2024.105826](https://doi.org/10.1016/j.cageo.2024.105826)
 - cardoso, M. A. . A. & Durlofsky, L. J. . J. Use of Reduced-Order Modeling Procedures for Production Optimization. SPE Journal 15, 426–435 (2009) -- [10.2118/119057-pa](https://doi.org/10.2118/119057-pa)
 - Cardoso, M. A. & Durlofsky, L. J. Linearized reduced-order models for subsurface flow simulation. Journal of Computational Physics 229, 681–700 (2010) -- [10.1016/j.jcp.2009.10.004](https://doi.org/10.1016/j.jcp.2009.10.004)
 - Rahimi, Random features for large-scale kernel machines. Advances in neural information processing systems (2007)
-- Rasmussen, A. F. et al. The Open Porous Media Flow reservoir simulator. Computers &amp; Mathematics with Applications 81, 159–185 (2021) -- [10.1016/j.camwa.2020.05.014](https://doi.org/10.1016/j.camwa.2020.05.014)
+- Rasmussen, A. F. et al. The Open Porous Media Flow reservoir simulator. Computers & Mathematics with Applications 81, 159–185 (2021) -- [10.1016/j.camwa.2020.05.014](https://doi.org/10.1016/j.camwa.2020.05.014)
 - Roth, Stable port-hamiltonian neural networks. arXiv preprint arXiv:2502.02480 (2025)
 - Li, Fourier neural operator for parametric partial differential equations. arXiv preprint arXiv:2010.08895 (2020)
 - Lu, L., Jin, P., Pang, G., Zhang, Z. & Karniadakis, G. E. Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators. Nat Mach Intell 3, 218–229 (2021) -- [10.1038/s42256-021-00302-5](https://doi.org/10.1038/s42256-021-00302-5)

@@ -54,7 +54,7 @@ Port Hamiltonian Systems; Distributed Systems; Irreversible Thermodynamics
 - Baaiu, A., Couenne, F., Lefevre, L., Le Gorrec, Y. & Tayakout, M. Structure-preserving infinite dimensional model reduction: Application to adsorption processes. Journal of Process Control vol. 19 394–404 (2009) -- [10.1016/j.jprocont.2008.07.002](https://doi.org/10.1016/j.jprocont.2008.07.002)
 - Bird, (2002)
 - Callen, (1985)
-- Couenne, F., Jallut, C., Maschke, B., Tayakout, M. & Breedveld, P. Structured modeling for processes: A thermodynamical network theory. Computers &amp; Chemical Engineering vol. 32 1120–1134 (2008) -- [10.1016/j.compchemeng.2007.04.012](https://doi.org/10.1016/j.compchemeng.2007.04.012)
+- Couenne, F., Jallut, C., Maschke, B., Tayakout, M. & Breedveld, P. Structured modeling for processes: A thermodynamical network theory. Computers & Chemical Engineering vol. 32 1120–1134 (2008) -- [10.1016/j.compchemeng.2007.04.012](https://doi.org/10.1016/j.compchemeng.2007.04.012)
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Dorfman, (1993)
 - Duindam, (2009)

@@ -56,7 +56,7 @@ Passivity; Dissipativity; Marine Systems; Aerospace Engineering; Energy Generati
 [Download the bib file]({{ site.baseurl }}/assets/bib/control-oriented-modular-modelling-of-a-floating-wind-turbine-the-port-hamiltonian-approach.bib)
  
 ## References
-- Bakka, T., Karimi, H. & Christiansen, S. Linear parameter‐varying modelling and control of an offshore wind turbine with constrained information. IET Control Theory &amp;amp; Appl 8, 22–29 (2014) -- [10.1049/iet-cta.2013.0480](https://doi.org/10.1049/iet-cta.2013.0480)
+- Bakka, T., Karimi, H. & Christiansen, S. Linear parameter‐varying modelling and control of an offshore wind turbine with constrained information. IET Control Theory & Appl 8, 22–29 (2014) -- [10.1049/iet-cta.2013.0480](https://doi.org/10.1049/iet-cta.2013.0480)
 - Cruz, (2016)
 - [Golo, G., Talasila, V., van der Schaft, A. & Maschke, B. Hamiltonian discretization of boundary control systems. Automatica 40, 757–771 (2004)](hamiltonian-discretization-of-boundary-control-systems) -- [10.1016/j.automatica.2003.12.017](https://doi.org/10.1016/j.automatica.2003.12.017)
 - González Rodriguez, Estimating wind turbines mechanical constants. Renewable Energy and Power Quality Journal (2007)

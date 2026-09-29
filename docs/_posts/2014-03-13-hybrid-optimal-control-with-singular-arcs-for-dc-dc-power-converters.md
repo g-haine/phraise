@@ -42,7 +42,7 @@ In this article, the design of a feedback control law for DC-DC power converters
 ## References
 - kopp, Pontryagin Maximum Principle Optimization Techniques (1962)
 - Moylan, P. J. & Moore, J. B. Generalizations of singular optimal control theory. Automatica 7, 591–598 (1971) -- [10.1016/0005-1098(71)90024-0](https://doi.org/10.1016/0005-1098(71)90024-0)
-- Robbins, H. M. A Generalized Legendre-Clebsch Condition for the Singular Cases of Optimal Control. IBM J. Res. &amp; Dev. 11, 361–372 (1967) -- [10.1147/rd.114.0361](https://doi.org/10.1147/rd.114.0361)
+- Robbins, H. M. A Generalized Legendre-Clebsch Condition for the Singular Cases of Optimal Control. IBM J. Res. & Dev. 11, 361–372 (1967) -- [10.1147/rd.114.0361](https://doi.org/10.1147/rd.114.0361)
 - Kawasaki, N., Nomura, H. & Masuhiro, M. A new control law of bilinear DC-DC converters developed by direct application of Lyapunov. IEEE Trans. Power Electron. 10, 318–325 (1995) -- [10.1109/63.387997](https://doi.org/10.1109/63.387997)
 - Powers, W. F. On the order of singular optimal control problems. J Optim Theory Appl 32, 479–489 (1980) -- [10.1007/bf00934035](https://doi.org/10.1007/bf00934035)
 - ingalls, An infinite-time relaxation theorem for differential inclusions. Proceeding of the 2002 American Mathematical Society (2003)

@@ -44,11 +44,11 @@ This paper introduces a port-Hamiltonian framework for the design of image-based
  
 ## References
 - Baldwin G (2009) Non-linear Deterministic Filters for Inertial Vision Pose Estimation. PhD Thesis, School of Engineering, College of Engineering and Computer Science, Australian National University.
-- Berghuis, H. & Nijmeijer, H. Global regulation of robots using only position measurements. Systems &amp; Control Letters vol. 21 289–293 (1993) -- [10.1016/0167-6911(93)90071-d](https://doi.org/10.1016/0167-6911(93)90071-d)
+- Berghuis, H. & Nijmeijer, H. Global regulation of robots using only position measurements. Systems & Control Letters vol. 21 289–293 (1993) -- [10.1016/0167-6911(93)90071-d](https://doi.org/10.1016/0167-6911(93)90071-d)
 - Bishop, B. E. & Spong, M. W. Adaptive calibration and control of 2D monocular visual servo systems. Control Engineering Practice vol. 7 423–430 (1999) -- [10.1016/s0967-0661(98)00160-9](https://doi.org/10.1016/s0967-0661(98)00160-9)
 - Chaumette, F. Potential problems of stability and convergence in image-based and position-based visual servoing. Lecture Notes in Control and Information Sciences 66–78 (1998) doi:10.1007/bfb0109663 -- [10.1007/bfb0109663](https://doi.org/10.1007/bfb0109663)
-- Chaumette, F. & Hutchinson, S. Visual servo control. I. Basic approaches. IEEE Robotics &amp; Automation Magazine vol. 13 82–90 (2006) -- [10.1109/mra.2006.250573](https://doi.org/10.1109/mra.2006.250573)
-- Chaumette, F. & Hutchinson, S. Visual servo control. II. Advanced approaches [Tutorial]. IEEE Robotics &amp; Automation Magazine vol. 14 109–118 (2007) -- [10.1109/mra.2007.339609](https://doi.org/10.1109/mra.2007.339609)
+- Chaumette, F. & Hutchinson, S. Visual servo control. I. Basic approaches. IEEE Robotics & Automation Magazine vol. 13 82–90 (2006) -- [10.1109/mra.2006.250573](https://doi.org/10.1109/mra.2006.250573)
+- Chaumette, F. & Hutchinson, S. Visual servo control. II. Advanced approaches [Tutorial]. IEEE Robotics & Automation Magazine vol. 14 109–118 (2007) -- [10.1109/mra.2007.339609](https://doi.org/10.1109/mra.2007.339609)
 - Cowan, N. J., Weingarten, J. D. & Koditschek, D. E. Visual servoing via navigation functions. IEEE Transactions on Robotics and Automation vol. 18 521–533 (2002) -- [10.1109/tra.2002.802202](https://doi.org/10.1109/tra.2002.802202)
 - De Luca, A., Oriolo, G. & Robuffo Giordano, P. Feature Depth Observation for Image-based Visual Servoing: Theory and                 Experiments. The International Journal of Robotics Research vol. 27 1093–1116 (2008) -- [10.1177/0278364908096706](https://doi.org/10.1177/0278364908096706)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)

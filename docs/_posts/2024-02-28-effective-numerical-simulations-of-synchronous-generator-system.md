@@ -50,7 +50,7 @@ Synchronous generator system is a complicated dynamic system for energy transmis
 - Watson N, Power systems electromagnetic transients simulation (2019)
 - Dommel, H. Digital Computer Solution of Electromagnetic Transients in Single-and Multiphase Networks. IEEE Transactions on Power Apparatus and Systems vol. PAS-88 388–399 (1969) -- [10.1109/tpas.1969.292459](https://doi.org/10.1109/tpas.1969.292459)
 - Dommel HW, EMTP theory book (1992)
-- Ji, F., Qiu, Y., Wei, X., Wu, X. & He, Z. Nodal dynamic equation used for electromagnetic transient simulation of linear switching circuit. IET Science, Measurement &amp; Technology vol. 12 626–633 (2018) -- [10.1049/iet-smt.2017.0434](https://doi.org/10.1049/iet-smt.2017.0434)
+- Ji, F., Qiu, Y., Wei, X., Wu, X. & He, Z. Nodal dynamic equation used for electromagnetic transient simulation of linear switching circuit. IET Science, Measurement & Technology vol. 12 626–633 (2018) -- [10.1049/iet-smt.2017.0434](https://doi.org/10.1049/iet-smt.2017.0434)
 - Ji F, Proc CSEE (2022)
 - Ji F, Gao L, Lin C, et al. Lagrangian modelling and motion stability of synchronous generator power systems. Arxiv Preprint, arXiv:2311.03737, 2023.
 - Hairer E, Nørsett SP, Wanner G. Solving ordinary differential equations I: nonstiff problems. 2nd ed. Berlin: Springer-Verlag, 1993, pp. 356–360.

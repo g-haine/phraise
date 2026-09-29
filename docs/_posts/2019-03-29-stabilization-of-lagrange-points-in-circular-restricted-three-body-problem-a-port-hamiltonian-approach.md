@@ -64,7 +64,7 @@ Lagrange points; Circular Restricted Three-Body Problem; Port-Hamiltonian; Globa
 - Sweetser, Artemis mission design. (2012)
 - Shirobokov, M., Trofimov, S. & Ovchinnikov, M. Survey of Station-Keeping Techniques for Libration Point Orbits. Journal of Guidance, Control, and Dynamics vol. 40 1085–1105 (2017) -- [10.2514/1.g001850](https://doi.org/10.2514/1.g001850)
 - Meyer, K. R. & Schmidt, D. S. The stability of the Lagrange triangular point and a theorem of Arnold. Journal of Differential Equations vol. 62 222–236 (1986) -- [10.1016/0022-0396(86)90098-7](https://doi.org/10.1016/0022-0396(86)90098-7)
-- G�mez, G., Jorba, A., Masdemont, J. & Sim�, C. Study of the transfer from the Earth to a halo orbit around the equilibrium pointL 1. Celestial Mechanics &amp; Dynamical Astronomy vol. 56 541–562 (1993) -- [10.1007/bf00696185](https://doi.org/10.1007/bf00696185)
+- Gómez, G., Jorba, A., Masdemont, J. & Simó, C. Study of the transfer from the Earth to a halo orbit around the equilibrium point \\(L_{1}\\). Celestial Mechanics & Dynamical Astronomy vol. 56 541–562 (1993) -- [10.1007/bf00696185](https://doi.org/10.1007/bf00696185)
 - Richardson, D. L. Halo Orbit Formulation for the ISEE-3 Mission. Journal of Guidance and Control vol. 3 543–548 (1980) -- [10.2514/3.56033](https://doi.org/10.2514/3.56033)
 - Cielaszyk, D. & Wie, B. New approach to halo orbit determination and control. Journal of Guidance, Control, and Dynamics vol. 19 266–273 (1996) -- [10.2514/3.21614](https://doi.org/10.2514/3.21614)
 - J. Ardaens, S. D'Amico, Control of formation flying spacecraft at a Lagrange point, No. 00-08.

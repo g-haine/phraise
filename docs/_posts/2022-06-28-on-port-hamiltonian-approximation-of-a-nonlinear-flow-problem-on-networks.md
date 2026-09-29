@@ -100,7 +100,7 @@ This paper deals with the systematic development of structure-preserving approxi
 - Mock, M. S. Systems of conservation laws of mixed type. Journal of Differential Equations vol. 37 70–88 (1980) -- [10.1016/0022-0396(80)90089-3](https://doi.org/10.1016/0022-0396(80)90089-3)
 - Badlyan A. Moses, Proceedings of the 23rd International Symposium on Mathematical Theory of Systems and Networks (2018)
 - Novotny A., Oxford Lecture Ser. Math. Appl. 27 (2004)
-- [Pasumarthy, R., Ambati, V. R. & van der Schaft, A. J. Port-Hamiltonian discretization for open channel flows. Systems &amp; Control Letters vol. 61 950–958 (2012)](port-hamiltonian-discretization-for-open-channel-flows) -- [10.1016/j.sysconle.2012.05.003](https://doi.org/10.1016/j.sysconle.2012.05.003)
+- [Pasumarthy, R., Ambati, V. R. & van der Schaft, A. J. Port-Hamiltonian discretization for open channel flows. Systems & Control Letters vol. 61 950–958 (2012)](port-hamiltonian-discretization-for-open-channel-flows) -- [10.1016/j.sysconle.2012.05.003](https://doi.org/10.1016/j.sysconle.2012.05.003)
 - Peng, L. & Mohseni, K. Symplectic Model Reduction of Hamiltonian Systems. SIAM Journal on Scientific Computing vol. 38 A1–A27 (2016) -- [10.1137/140978922](https://doi.org/10.1137/140978922)
 - Reigstad, G. A. Existence and Uniqueness of Solutions to the Generalized Riemann Problem for Isentropic Flow. SIAM Journal on Applied Mathematics vol. 75 679–702 (2015) -- [10.1137/140962759](https://doi.org/10.1137/140962759)
 - Rockafellar, R. T. & Wets, R. J. B. Variational Analysis. Grundlehren der mathematischen Wissenschaften (Springer Berlin Heidelberg, 1998). doi:10.1007/978-3-642-02431-3 -- [10.1007/978-3-642-02431-3](https://doi.org/10.1007/978-3-642-02431-3)

@@ -52,10 +52,10 @@ A solution to the problem of global exponential tracking of mechanical systems w
 - lancaster, The Theory of Matrices (1985)
 - Borhaug, E. & Pettersen, K. Y. Global output feedback PID control for n-DOF Euler-Lagrange systems. 2006 American Control Conference 7 pp. (2006) doi:10.1109/acc.2006.1657512 -- [10.1109/acc.2006.1657512](https://doi.org/10.1109/acc.2006.1657512)
 - Loria, A. Global Tracking Control of One Degree of Freedom Euler-Lagrange Systems without Velocity Measurements. European Journal of Control vol. 2 144–151 (1996) -- [10.1016/s0947-3580(96)70038-9](https://doi.org/10.1016/s0947-3580(96)70038-9)
-- Liu, X., Ortega, R., Su, H. & Chu, J. On adaptive control of nonlinearly parameterized nonlinear systems: Towards a constructive procedure. Systems &amp; Control Letters vol. 60 36–43 (2011) -- [10.1016/j.sysconle.2010.10.004](https://doi.org/10.1016/j.sysconle.2010.10.004)
+- Liu, X., Ortega, R., Su, H. & Chu, J. On adaptive control of nonlinearly parameterized nonlinear systems: Towards a constructive procedure. Systems & Control Letters vol. 60 36–43 (2011) -- [10.1016/j.sysconle.2010.10.004](https://doi.org/10.1016/j.sysconle.2010.10.004)
 - Nunes, E. V. L. & Hsu, L. Global tracking for robot manipulators using a simple causal PD controller plus feedforward. Robotica vol. 28 23–34 (2009) -- [10.1017/s0263574709005529](https://doi.org/10.1017/s0263574709005529)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - astolfi, Nonlinear and Adaptive Control Design With Applications (2007)
 - Astolfi, A., Ortega, R. & Venkatraman, A. A globally exponentially convergent immersion and invariance speed observer for mechanical systems with non-holonomic constraints. Automatica vol. 46 182–189 (2010) -- [10.1016/j.automatica.2009.10.027](https://doi.org/10.1016/j.automatica.2009.10.027)
-- Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems &amp; Control Letters vol. 62 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
+- Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems & Control Letters vol. 62 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
 

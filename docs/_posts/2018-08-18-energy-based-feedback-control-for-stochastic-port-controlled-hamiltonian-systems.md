@@ -53,7 +53,7 @@ Port-controlled Hamiltonian systems; Stochastic dynamical systems; Energy functi
 ## References
 - Arapostathis, (2012)
 - Arnold, (1974)
-- Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems &amp; Control Letters 14, 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
+- Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems & Control Letters 14, 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
 - Khasminskii, (2012)
 - Mao, X. Stochastic Versions of the LaSalle Theorem. Journal of Differential Equations 153, 175–195 (1999) -- [10.1006/jdeq.1998.3552](https://doi.org/10.1006/jdeq.1998.3552)
 - Øksendal, (1995)

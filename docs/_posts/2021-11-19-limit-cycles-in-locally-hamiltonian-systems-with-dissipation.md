@@ -57,7 +57,7 @@ Port-Hamiltonian systems; passivity; symplectic systems; locally Hamiltonian sys
 - Arnold, (1989)
 - Duindam, (2009)
 - Gromov, D. & Castan͂os, F. Sensitivity Analysis of Limit Cycles in an Alpha Stirling Engine: A Bifurcation-Theory Approach. SIAM Journal on Applied Dynamical Systems vol. 19 1865–1883 (2020) -- [10.1137/19m1299293](https://doi.org/10.1137/19m1299293)
-- Kottenstette, N. & Antsaklis, P. J. Relationships between positive real, passive dissipative, &amp;amp; positive systems. Proceedings of the 2010 American Control Conference 409–416 (2010) doi:10.1109/acc.2010.5530779 -- [10.1109/acc.2010.5530779](https://doi.org/10.1109/acc.2010.5530779)
+- Kottenstette, N. & Antsaklis, P. J. Relationships between positive real, passive dissipative, & positive systems. Proceedings of the 2010 American Control Conference 409–416 (2010) doi:10.1109/acc.2010.5530779 -- [10.1109/acc.2010.5530779](https://doi.org/10.1109/acc.2010.5530779)
 - Lee, (2003)
 - Maschke, B. and van der Schaft, A.J. (1992). Port-controlled hamiltonian systems: Modelling origins and system-theoretic properties. In Proc. 2nd IFAC NOL-COS, 282 – 288. Bordeaux, France.
 - [Maschke, B. M., Van Der Schaft, A. J. & Breedveld, P. C. An intrinsic hamiltonian formulation of network dynamics: non-standard poisson structures and gyrators. Journal of the Franklin Institute vol. 329 923–966 (1992)](an-intrinsic-hamiltonian-formulation-of-network-dynamics-non-standard-poisson-structures-and-gyrators) -- [10.1016/s0016-0032(92)90049-m](https://doi.org/10.1016/s0016-0032(92)90049-m)

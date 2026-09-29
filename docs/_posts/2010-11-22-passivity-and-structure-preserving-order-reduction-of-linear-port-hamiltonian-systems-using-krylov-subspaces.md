@@ -52,7 +52,7 @@ Order reduction; Port-Hamiltonian systems; Structure preserving; Moment matching
  
 ## References
 - Antoulas, Approximation of Large-Scale Dynamical Systems. SIAM Philadelphia (2005)
-- Antoulas, A. C. A new result on passivity preserving model reduction. Systems &amp; Control Letters vol. 54 361–374 (2005) -- [10.1016/j.sysconle.2004.07.007](https://doi.org/10.1016/j.sysconle.2004.07.007)
+- Antoulas, A. C. A new result on passivity preserving model reduction. Systems & Control Letters vol. 54 361–374 (2005) -- [10.1016/j.sysconle.2004.07.007](https://doi.org/10.1016/j.sysconle.2004.07.007)
 - Arnoldi, W. E. The principle of minimized iterations in the solution of the matrix eigenvalue problem. Quarterly of Applied Mathematics vol. 9 17–29 (1951) -- [10.1090/qam/42792](https://doi.org/10.1090/qam/42792)
 - Bai, Stable and Passive Reduced-Order Models Based on Partial Padé Approximation via the Lanczos Process. Numerical Analysis Manuscript 97/3-10 (1997)
 - Eid R. Time Domain Model Reduction by Moment Matching. PhD thesis, Institute of Automatic Control, Technische Universität München, 2009.
@@ -74,8 +74,8 @@ Order reduction; Port-Hamiltonian systems; Structure preserving; Moment matching
 - Odabasioglu, A., Celik, M. & Pileggi, L. T. PRIMA: passive reduced-order interconnect macromodeling algorithm. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems vol. 17 645–654 (1998) -- [10.1109/43.712097](https://doi.org/10.1109/43.712097)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Polyuga, Moment matching for linear porthamiltonian systems (2009)
-- [Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters vol. 45 371–385 (2002)](an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
+- [Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems & Control Letters vol. 45 371–385 (2002)](an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
 - van der Schaft, (2000)
-- Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems &amp; Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
+- Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems & Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
 - Zienkiewicz, (2005)
 

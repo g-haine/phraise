@@ -63,7 +63,7 @@ Port-Hamiltonian systems; bond graphs; dependent storages; state-space models; m
 - Golo, Hamiltonian formulation of bond graphs. (2003)
 - Karnopp, (2012)
 - Lopes, N. (2016). Approche passive pour la modélisation, la simulation et l’étude d’un banc de test robotisé pour les instruments de type cuivre. Ph.D. thesis, Université Pierre et Marie Curie, Paris.
-- Lu, T.-T. & Shiou, S.-H. Inverses of 2 × 2 block matrices. Computers &amp; Mathematics with Applications vol. 43 119–129 (2002) -- [10.1016/s0898-1221(01)00278-4](https://doi.org/10.1016/s0898-1221(01)00278-4)
+- Lu, T.-T. & Shiou, S.-H. Inverses of 2 × 2 block matrices. Computers & Mathematics with Applications vol. 43 119–129 (2002) -- [10.1016/s0898-1221(01)00278-4](https://doi.org/10.1016/s0898-1221(01)00278-4)
 - Najnudel, J., Hélie, T., Boutin, H., Roze, D., Maniguet, T., and Vaiedelich, S. (2018). Analog circuits and port-Hamiltonian realizability issues: a resolution method for simulations via equivalent vomponents. In 145th Audio Engineering Society Convention. New York.
 - [Ortega, R., van der Schaft, A., Castanos, F. & Astolfi, A. Control by Interconnection and Standard Passivity-Based Control of Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 53 2527–2542 (2008)](control-by-interconnection-and-standard-passivity-based-control-of-port-hamiltonian-systems) -- [10.1109/tac.2008.2006930](https://doi.org/10.1109/tac.2008.2006930)
 - Pfeifer, M., Caspart, S., Pfeiffer, S., Muller, C., Krebs, S., and Hohmann, S. (2019). Automated generation of explicit port-hamiltonian models from multi-bond graphs. arXiv preprint arXiv:1909.02848.

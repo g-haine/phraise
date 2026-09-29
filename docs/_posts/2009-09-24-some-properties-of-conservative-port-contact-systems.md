@@ -52,7 +52,7 @@ The dynamics of open irreversible thermodynamic systems, that is systems includi
 - kreyszig, Introductory Functional Analysis With Applications (1989)
 - Mrugaa̵, R. On a special family of thermodynamic processes and their invariants. Reports on Mathematical Physics 46, 461–468 (2000) -- [10.1016/s0034-4877(00)90012-0](https://doi.org/10.1016/s0034-4877(00)90012-0)
 - jeltsema, on mechanical mixed potential, content and co-content. Proc Eur Control Conf (2003)
-- Jeltsema, D. & Scherpen, J. M. A. A power-based description of standard mechanical systems. Systems &amp; Control Letters 56, 349–356 (2007) -- [10.1016/j.sysconle.2006.10.015](https://doi.org/10.1016/j.sysconle.2006.10.015)
+- Jeltsema, D. & Scherpen, J. M. A. A power-based description of standard mechanical systems. Systems & Control Letters 56, 349–356 (2007) -- [10.1016/j.sysconle.2006.10.015](https://doi.org/10.1016/j.sysconle.2006.10.015)
 - Ortega, R., Jeltsema, D. & Scherpen, J. M. A. Power shaping: A new paradigm for stabilization of nonlinear RLC circuits. IEEE Trans. Automat. Contr. 48, 1762–1767 (2003) -- [10.1109/tac.2003.817918](https://doi.org/10.1109/tac.2003.817918)
 - eberard, energy-conserving formulation of rlc-circuits with linear resistors. Proc 17th Int Symp Math Theory Netw Syst (2006)
 - [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics 60, 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)

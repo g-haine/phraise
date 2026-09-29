@@ -51,12 +51,12 @@ Passivity based control; Port-Hamiltonian systems; Irreversible thermodynamics; 
  
 ## References
 - Acosta, J. Á., Ortega, R., Astolfi, A. & Sarras, I. A constructive solution for stabilization via immersion and invariance: The cart and pendulum system. Automatica vol. 44 2352–2357 (2008) -- [10.1016/j.automatica.2008.01.006](https://doi.org/10.1016/j.automatica.2008.01.006)
-- Alonso, A. A. & Erik Ydstie, B. Process systems, passivity and the second law of thermodynamics. Computers &amp; Chemical Engineering vol. 20 S1119–S1124 (1996) -- [10.1016/0098-1354(96)00194-9](https://doi.org/10.1016/0098-1354(96)00194-9)
+- Alonso, A. A. & Erik Ydstie, B. Process systems, passivity and the second law of thermodynamics. Computers & Chemical Engineering vol. 20 S1119–S1124 (1996) -- [10.1016/0098-1354(96)00194-9](https://doi.org/10.1016/0098-1354(96)00194-9)
 - Alonso, A. A. & Ydstie, B. E. Stabilization of distributed systems using irreversible thermodynamics. Automatica vol. 37 1739–1755 (2001) -- [10.1016/s0005-1098(01)00140-6](https://doi.org/10.1016/s0005-1098(01)00140-6)
 - Aris, (1989)
 - Campbell, (2009)
 - Couenne, F., Jallut, C., Maschke, B., Breedveld, P. C. & Tayakout, M. Bond graph modelling for chemical reactors. Mathematical and Computer Modelling of Dynamical Systems vol. 12 159–174 (2006) -- [10.1080/13873950500068823](https://doi.org/10.1080/13873950500068823)
-- Couenne, F., Jallut, C., Maschke, B., Tayakout, M. & Breedveld, P. Structured modeling for processes: A thermodynamical network theory. Computers &amp; Chemical Engineering vol. 32 1120–1134 (2008) -- [10.1016/j.compchemeng.2007.04.012](https://doi.org/10.1016/j.compchemeng.2007.04.012)
+- Couenne, F., Jallut, C., Maschke, B., Tayakout, M. & Breedveld, P. Structured modeling for processes: A thermodynamical network theory. Computers & Chemical Engineering vol. 32 1120–1134 (2008) -- [10.1016/j.compchemeng.2007.04.012](https://doi.org/10.1016/j.compchemeng.2007.04.012)
 - [Dörfler, F., Johnsen, J. K. & Allgöwer, F. An introduction to interconnection and damping assignment passivity-based control in process engineering. Journal of Process Control vol. 19 1413–1426 (2009)](an-introduction-to-interconnection-and-damping-assignment-passivity-based-control-in-process-engineering) -- [10.1016/j.jprocont.2009.07.015](https://doi.org/10.1016/j.jprocont.2009.07.015)
 - (2009)
 - [Eberard, D., Maschke, B. M. & van der Schaft, A. J. An extension of Hamiltonian systems to the thermodynamic phase space: Towards a geometry of nonreversible processes. Reports on Mathematical Physics vol. 60 175–198 (2007)](an-extension-of-hamiltonian-systems-to-the-thermodynamic-phase-space-towards-a-geometry-of-nonreversible-processes) -- [10.1016/s0034-4877(07)00024-9](https://doi.org/10.1016/s0034-4877(07)00024-9)
@@ -76,7 +76,7 @@ Passivity based control; Port-Hamiltonian systems; Irreversible thermodynamics; 
 - Ortega, (1998)
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- Otero-Muras, I., Szederkényi, G., Alonso, A. A. & Hangos, K. M. Local dissipative Hamiltonian description of reversible reaction networks. Systems &amp; Control Letters vol. 57 554–560 (2008) -- [10.1016/j.sysconle.2007.12.003](https://doi.org/10.1016/j.sysconle.2007.12.003)
+- Otero-Muras, I., Szederkényi, G., Alonso, A. A. & Hangos, K. M. Local dissipative Hamiltonian description of reversible reaction networks. Systems & Control Letters vol. 57 554–560 (2008) -- [10.1016/j.sysconle.2007.12.003](https://doi.org/10.1016/j.sysconle.2007.12.003)
 - Prigogine, (1954)
 - [Ramirez, H., Gorrec, Y. L., Maschke, B. & Couenne, F. Passivity Based Control of Irreversible Port Hamiltonian Systems. IFAC Proceedings Volumes vol. 46 84–89 (2013)](passivity-based-control-of-irreversible-port-hamiltonian-systems) -- [10.3182/20130714-3-fr-4040.00012](https://doi.org/10.3182/20130714-3-fr-4040.00012)
 - [Ramirez, H., Gorrec, Y. L. & Maschke, B. Interconnection and Damping Assignment - Passivity Based Control of Irreversible Port Hamiltonian Systems. IFAC Proceedings Volumes vol. 47 9111–9116 (2014)](interconnection-and-damping-assignment-passivity-based-control-of-irreversible-port-hamiltonian-systems) -- [10.3182/20140824-6-za-1003.02388](https://doi.org/10.3182/20140824-6-za-1003.02388)
@@ -85,6 +85,6 @@ Passivity based control; Port-Hamiltonian systems; Irreversible thermodynamics; 
 - [Ramírez, H., Sbarbaro, D. & Ortega, R. On the control of non-linear processes: An IDA–PBC approach. Journal of Process Control vol. 19 405–414 (2009)](on-the-control-of-non-linear-processes-an-ida-pbc-approach) -- [10.1016/j.jprocont.2008.06.018](https://doi.org/10.1016/j.jprocont.2008.06.018)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Archive for Rational Mechanics and Analysis vol. 45 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
-- Ydstie, B. E. Passivity based control via the second law. Computers &amp; Chemical Engineering vol. 26 1037–1048 (2002) -- [10.1016/s0098-1354(02)00041-8](https://doi.org/10.1016/s0098-1354(02)00041-8)
-- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems &amp; Control Letters vol. 30 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
+- Ydstie, B. E. Passivity based control via the second law. Computers & Chemical Engineering vol. 26 1037–1048 (2002) -- [10.1016/s0098-1354(02)00041-8](https://doi.org/10.1016/s0098-1354(02)00041-8)
+- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems & Control Letters vol. 30 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
 

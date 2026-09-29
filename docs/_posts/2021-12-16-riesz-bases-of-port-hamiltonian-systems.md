@@ -46,11 +46,11 @@ The location of the spectrum and the Riesz basis property of well-posed homogene
 - B. Augner,
                       Stabilisation of Infinite-Dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback
                       , Ph.D. thesis, University of Wuppertal, Wuppertal, Germany, 2016,http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/augner/dc1613.pdf.
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations & Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - S. A. Avdonin and S. A. Ivanov,
                       Families of Exponentials
                       , Cambridge University Press, Cambridge, 1995.
-- Chentouf, B. & Wang, J.-M. Boundary feedback stabilization and Riesz basis property of a 1-d first order hyperbolic linear system with<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.gif" overflow="scroll"><mml:msup><mml:mi>L</mml:mi><mml:mo>∞</mml:mo></mml:msup></mml:math>-coefficients. Journal of Differential Equations vol. 246 1119–1138 (2009) -- [10.1016/j.jde.2008.08.010](https://doi.org/10.1016/j.jde.2008.08.010)
+- Chentouf, B. & Wang, J.-M. Boundary feedback stabilization and Riesz basis property of a 1-d first order hyperbolic linear system with\\(L^{\infty}\\)-coefficients. Journal of Differential Equations vol. 246 1119–1138 (2009) -- [10.1016/j.jde.2008.08.010](https://doi.org/10.1016/j.jde.2008.08.010)
 - CURTAIN, R. F. Spectral systems. International Journal of Control vol. 39 657–666 (1984) -- [10.1080/00207178408933195](https://doi.org/10.1080/00207178408933195)
 - Curtain RF, Zwart H (1995) An Introduction to Infinite-Dimensional Linear Systems Theory. Springer New York, New York, NY -- [10.1007/978-1-4612-4224-6](https://doi.org/10.1007/978-1-4612-4224-6)
 - Curtain R, Zwart H (2020) Classes of Semigroups. In: Texts in Applied Mathematics. Springer New York, New York, NY, pp 71–150 -- [10.1007/978-1-0716-0590-5_3](https://doi.org/10.1007/978-1-0716-0590-5_3)
@@ -67,13 +67,13 @@ The location of the spectrum and the Riesz basis property of well-posed homogene
                       Riesz Spectral Systems
                       , Memorandum 1594, Department of Applied Mathematics, University of Twente, 2001.
 - Guo B-Z, Wang J-M (2019) Control of Wave and Beam PDEs. Springer International Publishing, Cham -- [10.1007/978-3-030-12481-6](https://doi.org/10.1007/978-3-030-12481-6)
-- Guo, B.-Z. & Xu, G.-Q. Riesz bases and exact controllability of C0-groups with one-dimensional input operators. Systems &amp; Control Letters vol. 52 221–232 (2004) -- [10.1016/j.sysconle.2003.12.001](https://doi.org/10.1016/j.sysconle.2003.12.001)
+- Guo, B.-Z. & Xu, G.-Q. Riesz bases and exact controllability of C0-groups with one-dimensional input operators. Systems & Control Letters vol. 52 221–232 (2004) -- [10.1016/j.sysconle.2003.12.001](https://doi.org/10.1016/j.sysconle.2003.12.001)
 - [Humaloja, J.-P. & Paunonen, L. Robust Regulation of Infinite-Dimensional Port-Hamiltonian Systems. IEEE Transactions on Automatic Control vol. 63 1480–1486 (2018)](robust-regulation-of-infinite-dimensional-port-hamiltonian-systems) -- [10.1109/tac.2017.2748055](https://doi.org/10.1109/tac.2017.2748055)
 - [Jacob, B. & Kaiser, J. T. On Exact Controllability of Infinite-Dimensional Linear Port-Hamiltonian Systems. IEEE Control Systems Letters vol. 3 661–666 (2019)](on-exact-controllability-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.1109/lcsys.2019.2916814](https://doi.org/10.1109/lcsys.2019.2916814)
 - [Jacob, B. & Kaiser, J. T. Well-posedness of systems of 1-D hyperbolic partial differential equations. Journal of Evolution Equations vol. 19 91–109 (2018)](well-posedness-of-systems-of-1-d-hyperbolic-partial-differential-equations) -- [10.1007/s00028-018-0470-2](https://doi.org/10.1007/s00028-018-0470-2)
 - [Jacob, B., Morris, K. & Zwart, H. C 0-semigroups for hyperbolic partial differential equations on a one-dimensional spatial domain. Journal of Evolution Equations vol. 15 493–502 (2015)](c-0-semigroups-for-hyperbolic-partial-differential-equations-on-a-one-dimensional-spatial-domain) -- [10.1007/s00028-014-0271-1](https://doi.org/10.1007/s00028-014-0271-1)
 - Jacob, B. & Zwart, H. Equivalent Conditions for Stabilizability of Infinite-Dimensional Systems with Admissible Control Operators. SIAM Journal on Control and Optimization vol. 37 1419–1455 (1999) -- [10.1137/s036301299833344x](https://doi.org/10.1137/s036301299833344x)
-- Jacob, B. & Zwart, H. Exact observability of diagonal systems with a finite-dimensional output operator. Systems &amp; Control Letters vol. 43 101–109 (2001) -- [10.1016/s0167-6911(00)00117-1](https://doi.org/10.1016/s0167-6911(00)00117-1)
+- Jacob, B. & Zwart, H. Exact observability of diagonal systems with a finite-dimensional output operator. Systems & Control Letters vol. 43 101–109 (2001) -- [10.1016/s0167-6911(00)00117-1](https://doi.org/10.1016/s0167-6911(00)00117-1)
 - Jacob B., Int. J. Appl. Math. Comput. Sci. (2001)
 - [Jacob, B. & Zwart, H. An operator theoretic approach to infinite‐dimensional control systems. GAMM-Mitteilungen vol. 41 (2018)](an-operator-theoretic-approach-to-infinite-dimensional-control-systems) -- [10.1002/gamm.201800010](https://doi.org/10.1002/gamm.201800010)
 - [Jacob B, Zwart HJ (2012) Linear Port-Hamiltonian Systems on Infinite-dimensional Spaces. Springer Basel, Basel](linear-port-hamiltonian-systems-on-infinite-dimensional-spaces) -- [10.1007/978-3-0348-0399-1](https://doi.org/10.1007/978-3-0348-0399-1)
@@ -97,7 +97,7 @@ The location of the spectrum and the Riesz basis property of well-posed homogene
 - W. Wasow,
                       Asymptotic Expansions for Ordinary Differential Equations
                       , reprint of the 1976 ed., Dover Publications, New York, 1987.
-- Weiss, G. Admissibility of input elements for diagonal semigroups on. Systems &amp; Control Letters vol. 10 79–82 (1988) -- [10.1016/0167-6911(88)90044-8](https://doi.org/10.1016/0167-6911(88)90044-8)
+- Weiss, G. Admissibility of input elements for diagonal semigroups on. Systems & Control Letters vol. 10 79–82 (1988) -- [10.1016/0167-6911(88)90044-8](https://doi.org/10.1016/0167-6911(88)90044-8)
 - Xu C.-Z., Commun. Inf. Syst. (2011)
 - Xu, G.-Q. The Riesz basis property of a Timoshenko beam with boundary feedback and application. IMA Journal of Applied Mathematics vol. 67 357–370 (2002) -- [10.1093/imamat/67.4.357](https://doi.org/10.1093/imamat/67.4.357)
 - Xu, G.-Q. & Guo, B.-Z. Riesz Basis Property of Evolution Equations in Hilbert Spaces and Application to a Coupled String Equation. SIAM Journal on Control and Optimization vol. 42 966–984 (2003) -- [10.1137/s0363012901400081](https://doi.org/10.1137/s0363012901400081)

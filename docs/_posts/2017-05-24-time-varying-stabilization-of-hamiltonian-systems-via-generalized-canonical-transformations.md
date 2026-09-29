@@ -64,7 +64,7 @@ nonlinear systems, passive, physical models, time-varying systems, transformatio
 - Nijmeijer, H. & van der Schaft, A. Nonlinear Dynamical Control Systems. (Springer New York, 1990). doi:10.1007/978-1-4757-2101-0 -- [10.1007/978-1-4757-2101-0](https://doi.org/10.1007/978-1-4757-2101-0)
 - Ortega, Stabilization of port-controlled Hamiltonian systems: passivity and energy-balancing. To appear in Proc. IEEE CDC '99 (1999)
 - Ortega, (1998)
-- Pomet, J.-B. Explicit design of time-varying stabilizing control laws for a class of controllable systems without drift. Systems &amp; Control Letters 18, 147–158 (1992) -- [10.1016/0167-6911(92)90019-o](https://doi.org/10.1016/0167-6911(92)90019-o)
+- Pomet, J.-B. Explicit design of time-varying stabilizing control laws for a class of controllable systems without drift. Systems & Control Letters 18, 147–158 (1992) -- [10.1016/0167-6911(92)90019-o](https://doi.org/10.1016/0167-6911(92)90019-o)
 - Stramigioli, Passive output feedback and port interconnection. Proc. 4th IFAC Symp. NOLCOS (1998)
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control 103, 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
 - Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1996). doi:10.1007/3-540-76074-1 -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)

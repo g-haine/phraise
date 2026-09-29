@@ -71,11 +71,11 @@ Hamiltonian systems; nonlinear control; thermodynamics; contact geometry; homoge
 - MrugaŁa, R. Geometrical formulation of equilibrium phenomenological thermodynamics. Reports on Mathematical Physics vol. 14 419–427 (1978) -- [10.1016/0034-4877(78)90010-1](https://doi.org/10.1016/0034-4877(78)90010-1)
 - Mrugala, On contact and metric structures on thermodynamic spaces. RIMS, Kokyuroku (2000)
 - Mrugala, R., Nulton, J. D., Christian Schön, J. & Salamon, P. Contact structure in thermodynamic theory. Reports on Mathematical Physics vol. 29 109–121 (1991) -- [10.1016/0034-4877(91)90017-h](https://doi.org/10.1016/0034-4877(91)90017-h)
-- [Ramirez, H., Maschke, B. & Sbarbaro, D. Feedback equivalence of input–output contact systems. Systems &amp; Control Letters vol. 62 475–481 (2013)](feedback-equivalence-of-input-output-contact-systems) -- [10.1016/j.sysconle.2013.02.008](https://doi.org/10.1016/j.sysconle.2013.02.008)
+- [Ramirez, H., Maschke, B. & Sbarbaro, D. Feedback equivalence of input–output contact systems. Systems & Control Letters vol. 62 475–481 (2013)](feedback-equivalence-of-input-output-contact-systems) -- [10.1016/j.sysconle.2013.02.008](https://doi.org/10.1016/j.sysconle.2013.02.008)
 - Ramirez, H., Maschke, B. & Sbarbaro, D. Partial Stabilization of Input-Output Contact Systems on a Legendre Submanifold. IEEE Transactions on Automatic Control vol. 62 1431–1437 (2017) -- [10.1109/tac.2016.2572403](https://doi.org/10.1109/tac.2016.2572403)
 - van der Schaf, Hamiltonian dynamics with external forces and observations. Mathematical Systems Theory (1982)
 - van der Schaf, Three Decades of Mathematical System Theory, volume 135 of Lect. Notes Contr. Inf. Sci.. (1989)
-- van der Schaft, A. & Crouch, P. E. Hamiltonian and self-adjoint control systems. Systems &amp; Control Letters vol. 8 289–295 (1987) -- [10.1016/0167-6911(87)90093-4](https://doi.org/10.1016/0167-6911(87)90093-4)
+- van der Schaft, A. & Crouch, P. E. Hamiltonian and self-adjoint control systems. Systems & Control Letters vol. 8 289–295 (1987) -- [10.1016/0167-6911(87)90093-4](https://doi.org/10.1016/0167-6911(87)90093-4)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv fur Elektronik und Ubertragungstechnik (1995)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 

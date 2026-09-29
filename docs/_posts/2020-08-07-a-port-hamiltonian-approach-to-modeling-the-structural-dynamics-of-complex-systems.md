@@ -51,7 +51,7 @@ Port-Hamiltonian systems; Modeling; Finite element; Structural dynamics; Adaptiv
 [Download the bib file]({{ site.baseurl }}/assets/bib/a-port-hamiltonian-approach-to-modeling-the-structural-dynamics-of-complex-systems.bib)
  
 ## References
-- Korkmaz, S. A review of active structural control: challenges for engineering informatics. Computers &amp; Structures vol. 89 2113–2132 (2011) -- [10.1016/j.compstruc.2011.07.010](https://doi.org/10.1016/j.compstruc.2011.07.010)
+- Korkmaz, S. A review of active structural control: challenges for engineering informatics. Computers & Structures vol. 89 2113–2132 (2011) -- [10.1016/j.compstruc.2011.07.010](https://doi.org/10.1016/j.compstruc.2011.07.010)
 - Sobek, W. Ultraleichtbau. Stahlbau vol. 83 784–789 (2014) -- [10.1002/stab.201410211](https://doi.org/10.1002/stab.201410211)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
 - Zwart, Distributed-Parameter port-Hamiltonian Systems. CIMPA (2009)

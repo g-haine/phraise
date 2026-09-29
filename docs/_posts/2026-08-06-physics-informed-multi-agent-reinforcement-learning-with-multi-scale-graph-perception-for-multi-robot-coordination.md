@@ -56,7 +56,7 @@ graph neural networks, long-range coordination, multi-agent reinforcement learni
 - Blankenstein G, Ortega R, Van Der Schaft AJ (2002) The matching conditions of controlled Lagrangians and IDA-passivity based control. International Journal of Control 75(9):645–665. https://doi.org/10.1080/0020717021013593 -- [10.1080/00207170210135939](https://doi.org/10.1080/00207170210135939)
 - Bohmer, Deep coordination graphs. (2020)
 - Cai, C., & Wang, Y. (2020). A note on over-smoothing for graph neural networks. arXiv: 2006.13318.
-- Cort&eacute;s J, Egerstedt M (2017) Coordinated Control of Multi-Robot Systems: A Survey. SICE Journal of Control, Measurement, and System Integration 10(6):495–503. https://doi.org/10.9746/jcmsi.10.49 -- [10.9746/jcmsi.10.495](https://doi.org/10.9746/jcmsi.10.495)
+- Cortés J, Egerstedt M (2017) Coordinated Control of Multi-Robot Systems: A Survey. SICE Journal of Control, Measurement, and System Integration 10(6):495–503. https://doi.org/10.9746/jcmsi.10.49 -- [10.9746/jcmsi.10.495](https://doi.org/10.9746/jcmsi.10.495)
 - Cuomo S, Di Cola VS, Giampaolo F, Rozza G, Raissi M, Piccialli F (2022) Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next. J Sci Comput 92(3). https://doi.org/10.1007/s10915-022-01939- -- [10.1007/s10915-022-01939-z](https://doi.org/10.1007/s10915-022-01939-z)
 - Ellis, SMACv2: An improved benchmark for cooperative multi-agent reinforcement learning. Advances in Neural Information Processing Systems (2024)
 - Foerster, Counterfactual multi-agent policy gradients. (2018)
@@ -108,7 +108,7 @@ graph neural networks, long-range coordination, multi-agent reinforcement learni
 - Velickovic, Graph attention networks. (2018)
 - Wang, DARL1N: Distributed multi-agent reinforcement learning with one-hop neighbors. (2022)
 - Xie Z, Shen S, Wang Y, Qiao C, Tang B, Song W (2026) ROCO: Role-oriented communication for efficient multi-agent reinforcement learning. Expert Systems with Applications 297:129421. https://doi.org/10.1016/j.eswa.2025.12942 -- [10.1016/j.eswa.2025.129421](https://doi.org/10.1016/j.eswa.2025.129421)
-- Xu Y, Kohtz S, Boakye J, Gardoni P, Wang P (2023) Physics-informed machine learning for reliability and systems safety applications: State of the art and challenges. Reliability Engineering &amp; System Safety 230:108900. https://doi.org/10.1016/j.ress.2022.10890 -- [10.1016/j.ress.2022.108900](https://doi.org/10.1016/j.ress.2022.108900)
+- Xu Y, Kohtz S, Boakye J, Gardoni P, Wang P (2023) Physics-informed machine learning for reliability and systems safety applications: State of the art and challenges. Reliability Engineering & System Safety 230:108900. https://doi.org/10.1016/j.ress.2022.10890 -- [10.1016/j.ress.2022.108900](https://doi.org/10.1016/j.ress.2022.108900)
 - Yu, The surprising effectiveness of PPO in cooperative multi-agent games. (2022)
 - Yu H, Lei X, Song Z, Liu C, Wang J (2020) Supervised Network-Based Fuzzy Learning of EEG Signals for Alzheimer’s Disease Identification. IEEE Trans Fuzzy Syst 28(1):60–71. https://doi.org/10.1109/tfuzz.2019.290375 -- [10.1109/tfuzz.2019.2903753](https://doi.org/10.1109/tfuzz.2019.2903753)
 - Yu H, Lin Z, Li F, Liu J, Liu C, Wang J (2026) Spatiospectral Representation and Neural Decoding of Somatic Perception of Acupuncture Stimulations. IEEE J Biomed Health Inform 30(3):2694–2707. https://doi.org/10.1109/jbhi.2025.360117 -- [10.1109/jbhi.2025.3601173](https://doi.org/10.1109/jbhi.2025.3601173)

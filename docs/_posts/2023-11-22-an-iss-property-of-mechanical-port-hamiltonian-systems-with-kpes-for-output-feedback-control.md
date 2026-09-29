@@ -64,7 +64,7 @@ Input-to-state stability; Lagrangian and Hamiltonian systems; Output feedback co
 - [Romero, J. G., Ortega, R. & Sarras, I. A Globally Exponentially Stable Tracking Controller for Mechanical Systems Using Position Feedback. IEEE Transactions on Automatic Control vol. 60 818–823 (2015)](a-globally-exponentially-stable-tracking-controller-for-mechanical-systems-using-position-feedback) -- [10.1109/tac.2014.2330701](https://doi.org/10.1109/tac.2014.2330701)
 - [Sakata, N., Fujimoto, K. & Maruta, I. On trajectory tracking control of simple port-Hamiltonian systems based on passivity based sliding mode control. IFAC-PapersOnLine vol. 54 38–43 (2021)](on-trajectory-tracking-control-of-simple-port-hamiltonian-systems-based-on-passivity-based-sliding-mode-control) -- [10.1016/j.ifacol.2021.11.052](https://doi.org/10.1016/j.ifacol.2021.11.052)
 - Sontag, Input to state stability: Basic concepts and results. (2008)
-- Sontag, E. D. & Wang, Y. On characterizations of the input-to-state stability property. Systems &amp; Control Letters vol. 24 351–359 (1995) -- [10.1016/0167-6911(94)00050-6](https://doi.org/10.1016/0167-6911(94)00050-6)
+- Sontag, E. D. & Wang, Y. On characterizations of the input-to-state stability property. Systems & Control Letters vol. 24 351–359 (1995) -- [10.1016/0167-6911(94)00050-6](https://doi.org/10.1016/0167-6911(94)00050-6)
 - Van der Schaft, (2000)
 - Venkatraman, A., Ortega, R., Sarras, I. & van der Schaft, A. Speed Observation and Position Feedback Stabilization of Partially Linearizable Mechanical Systems. IEEE Transactions on Automatic Control vol. 55 1059–1074 (2010) -- [10.1109/tac.2010.2042010](https://doi.org/10.1109/tac.2010.2042010)
 

@@ -73,5 +73,5 @@ Port-Hamiltonian systems; Irreversible thermodynamics; Passivity based control; 
 - Van Der Schalt, (2004)
 - van der Schalt, (2016)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- Ydstie, B. E. Passivity based control via the second law. Computers &amp; Chemical Engineering vol. 26 1037–1048 (2002) -- [10.1016/s0098-1354(02)00041-8](https://doi.org/10.1016/s0098-1354(02)00041-8)
+- Ydstie, B. E. Passivity based control via the second law. Computers & Chemical Engineering vol. 26 1037–1048 (2002) -- [10.1016/s0098-1354(02)00041-8](https://doi.org/10.1016/s0098-1354(02)00041-8)
 

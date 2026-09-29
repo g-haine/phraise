@@ -54,7 +54,7 @@ Port-Hamiltonian systems; Model reduction; Krylov methods; Arnoldi method, Lancz
  
 ## References
 - Antoulas, (2005)
-- Antoulas, A. C. A new result on passivity preserving model reduction. Systems &amp; Control Letters vol. 54 361–374 (2005) -- [10.1016/j.sysconle.2004.07.007](https://doi.org/10.1016/j.sysconle.2004.07.007)
+- Antoulas, A. C. A new result on passivity preserving model reduction. Systems & Control Letters vol. 54 361–374 (2005) -- [10.1016/j.sysconle.2004.07.007](https://doi.org/10.1016/j.sysconle.2004.07.007)
 - Gallivan, Model reduction of large-scale systems: Rational Krylov versus balancing techniques. (1999)
 - Golub, (1996)
 - Gragg, W. B. & Lindquist, A. On the partial realization problem. Linear Algebra and its Applications vol. 50 277–319 (1983) -- [10.1016/0024-3795(83)90059-9](https://doi.org/10.1016/0024-3795(83)90059-9)
@@ -63,7 +63,7 @@ Port-Hamiltonian systems; Model reduction; Krylov methods; Arnoldi method, Lancz
 - Gugercin, S., Antoulas, A. C. & Beattie, C. $\mathcal{H}_2$ Model Reduction for Large-Scale Linear Dynamical Systems. SIAM Journal on Matrix Analysis and Applications vol. 30 609–638 (2008) -- [10.1137/060666123](https://doi.org/10.1137/060666123)
 - Gutknecht, The Lanczos process and Padé approximation. (1994)
 - Hartmann, Balancing of dissipative Hamiltonian systems. (2009)
-- Hartmann, C., Vulcanov, V.-M. & Schütte, C. Balanced Truncation of Linear Second-Order Systems: A Hamiltonian Approach. Multiscale Modeling &amp; Simulation vol. 8 1348–1367 (2010) -- [10.1137/080732717](https://doi.org/10.1137/080732717)
+- Hartmann, C., Vulcanov, V.-M. & Schütte, C. Balanced Truncation of Linear Second-Order Systems: A Hamiltonian Approach. Multiscale Modeling & Simulation vol. 8 1348–1367 (2010) -- [10.1137/080732717](https://doi.org/10.1137/080732717)
 - Ionutiu, R., Rommes, J. & Antoulas, A. C. Passivity-Preserving Model Reduction Using Dominant Spectral-Zero Interpolation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems vol. 27 2250–2263 (2008) -- [10.1109/tcad.2008.2006160](https://doi.org/10.1109/tcad.2008.2006160)
 - Komzsik, (2003)
 - Lall, S., Krysl, P. & Marsden, J. E. Structure-preserving model reduction for mechanical systems. Physica D: Nonlinear Phenomena vol. 184 304–318 (2003) -- [10.1016/s0167-2789(03)00227-6](https://doi.org/10.1016/s0167-2789(03)00227-6)
@@ -75,7 +75,7 @@ Port-Hamiltonian systems; Model reduction; Krylov methods; Arnoldi method, Lancz
 - [Polyuga, R. V. & van der Schaft, A. Moment matching for linear port-Hamiltonian systems. 2009 European Control Conference (ECC) 4715–4720 (2009) doi:10.23919/ecc.2009.7075145](moment-matching-for-linear-port-hamiltonian-systems0) -- [10.23919/ecc.2009.7075145](https://doi.org/10.23919/ecc.2009.7075145)
 - Polyuga, R. V., & van der Schaft, A. J. (2010). Structure preserving port-Hamiltonian model reduction of electrical circuits. In P. Benner, M. Hinze, and J. ter Maten (Eds.), Lecture notes in electrical engineering. Model reduction for circuit simulation. Berlin/Heidelberg: Springer-Verlag (in press).
 - Schilders, (2008)
-- Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems &amp; Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
+- Sorensen, D. C. Passivity preserving model reduction via interpolation of spectral zeros. Systems & Control Letters vol. 54 347–360 (2005) -- [10.1016/j.sysconle.2004.07.006](https://doi.org/10.1016/j.sysconle.2004.07.006)
 - van der Schaft, (2000)
 - van der Schaft, Port-controlled Hamiltonian systems: Towards a theory for control and design of nonlinear physical systems. Journal of the Society of Instrument and Control Engineers of Japan (SICE) (2000)
 - van der Schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)

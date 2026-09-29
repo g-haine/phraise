@@ -40,7 +40,7 @@ A compass-like biped robot can go down a gentle slope without the need of actuat
 [Download the bib file]({{ site.baseurl }}/assets/bib/interconnection-and-damping-assignment-passivity-based-control-for-gait-generation-in-underactuated-compass-like-robots.bib)
  
 ## References
-- Spong, M., Holm, J. & Lee, D. Passivity-Based Control of Bipedal Locomotion. IEEE Robotics &amp; Automation Magazine vol. 14 30–40 (2007) -- [10.1109/mra.2007.380638](https://doi.org/10.1109/mra.2007.380638)
+- Spong, M., Holm, J. & Lee, D. Passivity-Based Control of Bipedal Locomotion. IEEE Robotics & Automation Magazine vol. 14 30–40 (2007) -- [10.1109/mra.2007.380638](https://doi.org/10.1109/mra.2007.380638)
 - Holm, J. K. & Spong, M. W. Kinetic energy shaping for gait regulation of underactuated bipeds. 2008 IEEE International Conference on Control Applications 1232–1238 (2008) doi:10.1109/cca.2008.4629638 -- [10.1109/cca.2008.4629638](https://doi.org/10.1109/cca.2008.4629638)
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Transactions on Automatic Control vol. 45 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - Bloch, A. M., Dong Eui Chang, Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. II. Potential shaping. IEEE Transactions on Automatic Control vol. 46 1556–1571 (2001) -- [10.1109/9.956051](https://doi.org/10.1109/9.956051)
@@ -54,7 +54,7 @@ A compass-like biped robot can go down a gentle slope without the need of actuat
 - de-León-Gómez, Ví., Santibañez, V. & Sandoval, J. Interconnection and damping assignment passivity-based control for a compass-like biped robot. International Journal of Advanced Robotic Systems vol. 14 172988141771659 (2017) -- [10.1177/1729881417716593](https://doi.org/10.1177/1729881417716593)
 - Yeatman, M. R., Lv, G. & Gregg, R. D. Passivity-Based Control with a Generalized Energy Storage Function for Robust Walking of Biped Robots. 2018 Annual American Control Conference (ACC) 2958–2963 (2018) doi:10.23919/acc.2018.8431783 -- [10.23919/acc.2018.8431783](https://doi.org/10.23919/acc.2018.8431783)
 - Collins, S., Ruina, A., Tedrake, R. & Wisse, M. Efficient Bipedal Robots Based on Passive-Dynamic Walkers. Science vol. 307 1082–1085 (2005) -- [10.1126/science.1107799](https://doi.org/10.1126/science.1107799)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - goswami, Compass-like biped robot Part I: Stability and bifurcations of passive gaits. Techical Report (1996)
 - Kuo, A. D. The six determinants of gait and the inverted pendulum analogy: A dynamic walking perspective. Human Movement Science vol. 26 617–656 (2007) -- [10.1016/j.humov.2007.04.003](https://doi.org/10.1016/j.humov.2007.04.003)
 - McGeer, T. Passive Dynamic Walking. The International Journal of Robotics Research vol. 9 62–82 (1990) -- [10.1177/027836499000900206](https://doi.org/10.1177/027836499000900206)

@@ -69,7 +69,7 @@ Finite element methods; Discontinuous Galerkin methods; Hybrid/mixed methods; Ac
 - Cockburn, Stormer–Numerov HDG methods for acoustic waves. J. Sci. Comput. (2017)
 - COOPER, G. J. Stability of Runge-Kutta Methods for Trajectory Problems. IMA Journal of Numerical Analysis vol. 7 1–13 (1987) -- [10.1093/imanum/7.1.1](https://doi.org/10.1093/imanum/7.1.1)
 - Cowsat, L. C., Dupont, T. F. & Wheeler, M. F. A priori estimates for mixed finite element methods for the wave equation. Computer Methods in Applied Mechanics and Engineering vol. 82 205–222 (1990) -- [10.1016/0045-7825(90)90165-i](https://doi.org/10.1016/0045-7825(90)90165-i)
-- Beirão da Veiga, L., Lopez, L. & Vacca, G. Mimetic finite difference methods for Hamiltonian wave equations in 2D. Computers &amp; Mathematics with Applications vol. 74 1123–1141 (2017) -- [10.1016/j.camwa.2017.05.022](https://doi.org/10.1016/j.camwa.2017.05.022)
+- Beirão da Veiga, L., Lopez, L. & Vacca, G. Mimetic finite difference methods for Hamiltonian wave equations in 2D. Computers & Mathematics with Applications vol. 74 1123–1141 (2017) -- [10.1016/j.camwa.2017.05.022](https://doi.org/10.1016/j.camwa.2017.05.022)
 - Falk, R. S. & Richter, G. R. Explicit Finite Element Methods for Symmetric Hyperbolic Equations. SIAM Journal on Numerical Analysis vol. 36 935–952 (1999) -- [10.1137/s0036142997329463](https://doi.org/10.1137/s0036142997329463)
 - Geveci, T. On the application of mixed finite element methods to the wave equations. ESAIM: Mathematical Modelling and Numerical Analysis vol. 22 243–250 (1988) -- [10.1051/m2an/1988220202431](https://doi.org/10.1051/m2an/1988220202431)
 - Grote, M. J., Schneebeli, A. & Schötzau, D. Discontinuous Galerkin Finite Element Method for the Wave Equation. SIAM Journal on Numerical Analysis vol. 44 2408–2431 (2006) -- [10.1137/05063194x](https://doi.org/10.1137/05063194x)
@@ -84,5 +84,5 @@ Finite element methods; Discontinuous Galerkin methods; Hybrid/mixed methods; Ac
 - Ruth, R. D. A Can0nical Integrati0n Technique. IEEE Transactions on Nuclear Science vol. 30 2669–2671 (1983) -- [10.1109/tns.1983.4332919](https://doi.org/10.1109/tns.1983.4332919)
 - Sanz-Serna, Symplectic integrators for Hamiltonian problems: an overview. (1992)
 - Stanglmeier, M., Nguyen, N. C., Peraire, J. & Cockburn, B. An explicit hybridizable discontinuous Galerkin method for the acoustic wave equation. Computer Methods in Applied Mechanics and Engineering vol. 300 748–769 (2016) -- [10.1016/j.cma.2015.12.003](https://doi.org/10.1016/j.cma.2015.12.003)
-- Xing, Y. et al. Energy conserving local discontinuous Galerkimethods for wave propagation problems. Inverse Problems &amp; Imaging vol. 7 967–986 (2013) -- [10.3934/ipi.2013.7.967](https://doi.org/10.3934/ipi.2013.7.967)
+- Xing, Y. et al. Energy conserving local discontinuous Galerkimethods for wave propagation problems. Inverse Problems & Imaging vol. 7 967–986 (2013) -- [10.3934/ipi.2013.7.967](https://doi.org/10.3934/ipi.2013.7.967)
 

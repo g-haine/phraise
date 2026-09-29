@@ -54,7 +54,7 @@ Bilinear-; quadratic differential forms; port-Hamiltonian systems; behavioral sy
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-higher-order-linear-port-hamiltonian-systems-and-their-duals.bib)
  
 ## References
-- Ardakanian, O. et al. Event detection and localization in distribution grids with phasor measurement units. 2017 IEEE Power &amp; Energy Society General Meeting 1–5 (2017) doi:10.1109/pesgm.2017.8273895 -- [10.1109/pesgm.2017.8273895](https://doi.org/10.1109/pesgm.2017.8273895)
+- Ardakanian, O. et al. Event detection and localization in distribution grids with phasor measurement units. 2017 IEEE Power & Energy Society General Meeting 1–5 (2017) doi:10.1109/pesgm.2017.8273895 -- [10.1109/pesgm.2017.8273895](https://doi.org/10.1109/pesgm.2017.8273895)
 - Coppel, Linear Systems. (1972)
 - Duindam, (2009)
 - Mayo-Maldonado, J. C. & Rapisarda, P. On positive-realness and stability of switched linear differential systems. 52nd IEEE Conference on Decision and Control 162–167 (2013) doi:10.1109/cdc.2013.6759876 -- [10.1109/cdc.2013.6759876](https://doi.org/10.1109/cdc.2013.6759876)
@@ -68,7 +68,7 @@ Bilinear-; quadratic differential forms; port-Hamiltonian systems; behavioral sy
 - Raju, M. & Kumar Khaitan, S. Modeling and simulation of compressed air storage in caverns: A case study of the Huntorf plant. Applied Energy vol. 89 474–481 (2012) -- [10.1016/j.apenergy.2011.08.019](https://doi.org/10.1016/j.apenergy.2011.08.019)
 - Rapisarda, P. & Willems, J. C. State Maps for Linear Systems. SIAM Journal on Control and Optimization vol. 35 1053–1091 (1997) -- [10.1137/s0363012994268412](https://doi.org/10.1137/s0363012994268412)
 - Rocha, P., Willems, J. C., Rapisarda, P. & Napp, D. On the stability of switched behavioral systems. IEEE Conference on Decision and Control and European Control Conference 1534–1538 (2011) doi:10.1109/cdc.2011.6160860 -- [10.1109/cdc.2011.6160860](https://doi.org/10.1109/cdc.2011.6160860)
-- Trentelman, H. L. & Willems, J. C. Every storage function is a state function. Systems &amp; Control Letters vol. 32 249–259 (1997) -- [10.1016/s0167-6911(97)00081-9](https://doi.org/10.1016/s0167-6911(97)00081-9)
+- Trentelman, H. L. & Willems, J. C. Every storage function is a state function. Systems & Control Letters vol. 32 249–259 (1997) -- [10.1016/s0167-6911(97)00081-9](https://doi.org/10.1016/s0167-6911(97)00081-9)
 - [van der Schaft, A. & Rapisarda, P. State Maps from Integration by Parts. SIAM Journal on Control and Optimization vol. 49 2415–2439 (2011)](state-maps-from-integration-by-parts) -- [10.1137/100806825](https://doi.org/10.1137/100806825)
 - [van der Schaft, A. J. & Camlibel, M. K. A state transfer principle for switching port-Hamiltonian systems. Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference 45–50 (2009) doi:10.1109/cdc.2009.5400785](a-state-transfer-principle-for-switching-port-hamiltonian-systems) -- [10.1109/cdc.2009.5400785](https://doi.org/10.1109/cdc.2009.5400785)
 - van der Schaft, Port-Hamiltonian Systems Theory: An Introductory Overview. (2014)

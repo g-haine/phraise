@@ -67,7 +67,7 @@ bio-inspired control, emotion-based learning, finite-state machine, passivity-ba
 - Duindam, (2009)
 - Tai, Virtual-to-real deep reinforcement learning. IEEE/RSJ IROS (2017)
 - Liang, Learn. Learn. faster Human. Feedback Lang. Model. Predict. Control. (2024)
-- Hu Z, Jin X (2023) Adaptive formation control architectures for a team of quadrotors with multiple performance and safety constraints. Intl J Robust &amp; Nonlinear 33(14):8183–8204. https://doi.org/10.1002/rnc.682 -- [10.1002/rnc.6824](https://doi.org/10.1002/rnc.6824)
+- Hu Z, Jin X (2023) Adaptive formation control architectures for a team of quadrotors with multiple performance and safety constraints. Intl J Robust & Nonlinear 33(14):8183–8204. https://doi.org/10.1002/rnc.682 -- [10.1002/rnc.6824](https://doi.org/10.1002/rnc.6824)
 - Yao Z, Liang X, Jiang G-P, Yao J (2023) Model-Based Reinforcement Learning Control of Electrohydraulic Position Servo Systems. IEEE/ASME Trans Mechatron 28(3):1446–1455. https://doi.org/10.1109/tmech.2022.321911 -- [10.1109/tmech.2022.3219115](https://doi.org/10.1109/tmech.2022.3219115)
 - Yao Z, Xu F, Jiang G-P, Yao J (2024) Data-Driven Control of Hydraulic Manipulators by Reinforcement Learning. IEEE/ASME Trans Mechatron 29(4):2673–2684. https://doi.org/10.1109/tmech.2023.333607 -- [10.1109/tmech.2023.3336070](https://doi.org/10.1109/tmech.2023.3336070)
 - Yao Z, Liang X, Wang S, Yao J (2025) Model-Data Hybrid Driven Control of Hydraulic Euler–Lagrange Systems. IEEE/ASME Trans Mechatron 30(1):131–143. https://doi.org/10.1109/tmech.2024.339012 -- [10.1109/tmech.2024.3390129](https://doi.org/10.1109/tmech.2024.3390129)

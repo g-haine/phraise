@@ -56,7 +56,7 @@ C 0 -semigroup; Port-Hamiltonian PDEs with singular weights; Maximal dissipative
 - Arendt, (2015)
 - Augner, (2016)
 - Augner, (2018)
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations & Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Beyer, Beyond partial differential equations. (2007)
 - Carlone, R., Malamud, M. & Posilicano, A. On the spectral theory of Gesztesy–Šeba realizations of 1-D Dirac operators with point interactions on a discrete set. Journal of Differential Equations vol. 254 3835–3902 (2013) -- [10.1016/j.jde.2013.01.026](https://doi.org/10.1016/j.jde.2013.01.026)
 - Schubert, Unbounded quantum graphs with unbounded boundary conditions. Math. Nachr. (2014)

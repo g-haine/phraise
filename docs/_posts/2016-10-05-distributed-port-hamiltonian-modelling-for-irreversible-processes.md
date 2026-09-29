@@ -59,7 +59,7 @@ ABSTRACT Infinite-dimensional port-Hamiltonian representation of irreversible pr
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)
 - Dorfman I., Dirac Structures and Integrability of Nonlinear Evolution Equations (1993)
 - Maschke B., Lecture Notes on Control and Information Sciences (2005)
-- Couenne, F., Jallut, C., Maschke, B., Tayakout, M. & Breedveld, P. Structured modeling for processes: A thermodynamical network theory. Computers &amp; Chemical Engineering vol. 32 1120–1134 (2008) -- [10.1016/j.compchemeng.2007.04.012](https://doi.org/10.1016/j.compchemeng.2007.04.012)
+- Couenne, F., Jallut, C., Maschke, B., Tayakout, M. & Breedveld, P. Structured modeling for processes: A thermodynamical network theory. Computers & Chemical Engineering vol. 32 1120–1134 (2008) -- [10.1016/j.compchemeng.2007.04.012](https://doi.org/10.1016/j.compchemeng.2007.04.012)
 - Callen H.B., Thermodynamics and an Introduction to Thermostatics (1985)
 - Glansdorff P., Thermodynamic Theory of Structure, Stability and Fluctuations (1971)
 

@@ -77,7 +77,7 @@ ABSTRACT Stability of power networks is an increasingly important topic because 
 - Zhang X., American Control Conference (2013)
 - Bürger M., Proceedings of the MTNS (2014)
 - Simpson-Porco, J. W., Dörfler, F. & Bullo, F. Synchronization and power sharing for droop-controlled inverters in islanded microgrids. Automatica vol. 49 2603–2611 (2013) -- [10.1016/j.automatica.2013.05.018](https://doi.org/10.1016/j.automatica.2013.05.018)
-- Zhang, X., Li, N. & Papachristodoulou, A. Achieving real-time economic dispatch in power networks via a saddle point design approach. 2015 IEEE Power &amp; Energy Society General Meeting 1–5 (2015) doi:10.1109/pesgm.2015.7286222 -- [10.1109/pesgm.2015.7286222](https://doi.org/10.1109/pesgm.2015.7286222)
+- Zhang, X., Li, N. & Papachristodoulou, A. Achieving real-time economic dispatch in power networks via a saddle point design approach. 2015 IEEE Power & Energy Society General Meeting 1–5 (2015) doi:10.1109/pesgm.2015.7286222 -- [10.1109/pesgm.2015.7286222](https://doi.org/10.1109/pesgm.2015.7286222)
 - Bretas, N. G. & Alberto, L. F. C. Lyapunov function for power systems with transfer conductances: extension of the invariance principle. IEEE Transactions on Power Systems vol. 18 769–777 (2003) -- [10.1109/tpwrs.2003.811207](https://doi.org/10.1109/tpwrs.2003.811207)
 - Trip S., Distributed Optimal Load Frequency Control with Non-Passive Dynamics (2017)
 

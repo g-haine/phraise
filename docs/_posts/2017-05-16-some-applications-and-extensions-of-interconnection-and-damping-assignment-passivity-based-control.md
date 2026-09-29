@@ -49,7 +49,7 @@ hamiltonian systems, nonlinear systems, passivity, passivity-based control, stab
 [Download the bib file]({{ site.baseurl }}/assets/bib/some-applications-and-extensions-of-interconnection-and-damping-assignment-passivity-based-control.bib)
  
 ## References
-- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters 45, 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
+- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems & Control Letters 45, 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
 - Astolfi, A note on disturbance suppression for Hamiltonian systems by state feedback. (2003)
 - Astolfi, A. & Ortega, R. Energy-Based Stabilization of Angular Velocity of Rigid Body in Failure Configuration. Journal of Guidance, Control, and Dynamics 25, 184a–1187 (2002) -- [10.2514/2.4867](https://doi.org/10.2514/2.4867)
 - Astolfi, Immersion and invariance for nonlinear control systems design. (2001)
@@ -59,8 +59,8 @@ hamiltonian systems, nonlinear systems, passivity, passivity-based control, stab
 - Blankenstein, G., Ortega, R. & Van Der Schaft, A. J. The matching conditions of controlled Lagrangians and IDA-passivity based control. International Journal of Control 75, 645–665 (2002) -- [10.1080/00207170210135939](https://doi.org/10.1080/00207170210135939)
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Trans. Automat. Contr. 45, 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - D.E. Chang, A.M. Bloch, N.E. Leonard, J.E. Marsden and C.A. Woolsey, The Equivalence of Controlled Lagrangian and Controlled Hamiltonian Systems To appear in ESAIM: Control, Optimisation, and Calculus of Variations
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
-- [Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems &amp; Control Letters 44, 309–319 (2001)](stabilization-of-hamiltonian-systems-with-nonholonomic-constraints-based-on-time-varying-generalized-canonical-transformations) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- [Fujimoto, K. & Sugie, T. Stabilization of Hamiltonian systems with nonholonomic constraints based on time-varying generalized canonical transformations. Systems & Control Letters 44, 309–319 (2001)](stabilization-of-hamiltonian-systems-with-nonholonomic-constraints-based-on-time-varying-generalized-canonical-transformations) -- [10.1016/s0167-6911(01)00150-5](https://doi.org/10.1016/s0167-6911(01)00150-5)
 - Fujimoto, Trajectory tracking control of port-controlled Hamiltonian systems and its application to a magnetic levita-tion system. (2001)
 - Galaz, M., Ortega, R., Bazanella, A. S. & Stankovic, A. M. An energy-shaping approach to the design of excitation control of synchronous generators. Automatica 39, 111–119 (2003) -- [10.1016/s0005-1098(02)00177-2](https://doi.org/10.1016/s0005-1098(02)00177-2)
 - Gentili, Regulation and tracking control for port-controlled Hamiltonian systems. Int. Report (2002)
@@ -84,9 +84,9 @@ hamiltonian systems, nonlinear systems, passivity, passivity-based control, stab
 - Ortega, Energy-shaping of port-controlled Hamilto-nian systems by interconnection. (1999)
 - Ortega, Interconnection and damping assignment passivity-based control of port-controlled hamil-tonian systems. Automatica (Regular Paper) (2002)
 - Petrovic, V., Ortega, R. & Stankovi, A. M. Interconnection and damping assignment approach to control of PM synchronous motors. IEEE Trans. Contr. Syst. Technol. 9, 811–820 (2001) -- [10.1109/87.960344](https://doi.org/10.1109/87.960344)
-- [Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters 45, 371–385 (2002)](an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
+- [Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems & Control Letters 45, 371–385 (2002)](an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
 - Rodriguez, Energy-shaping control of switched power converters. (2001)
-- Rodriguez, H., Ortega, R., Escobar, G. & Barabanov, N. A robustly stable output feedback saturated controller for the boost DC-to-DC converter. Systems &amp; Control Letters 40, 1–8 (2000) -- [10.1016/s0167-6911(99)00113-9](https://doi.org/10.1016/s0167-6911(99)00113-9)
+- Rodriguez, H., Ortega, R., Escobar, G. & Barabanov, N. A robustly stable output feedback saturated controller for the boost DC-to-DC converter. Systems & Control Letters 40, 1–8 (2000) -- [10.1016/s0167-6911(99)00113-9](https://doi.org/10.1016/s0167-6911(99)00113-9)
 - Rodriguez, Interconnection and damping assignment control of electromechanical systems. (2002)
 - Rodriguez, On stabilization of nonlinear distributed parameter port-controlled Hamiltonian systems via energy-shaping. (2001)
 - Schlacher, Active Control of Smart Structures using Port Controlled Hamiltonian Systems. Linz Univaristy Internal Report (2003)

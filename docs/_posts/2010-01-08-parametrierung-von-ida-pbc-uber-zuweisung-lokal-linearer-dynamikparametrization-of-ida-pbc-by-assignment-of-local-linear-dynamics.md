@@ -52,7 +52,7 @@ Der Beitrag beschäftigt sich mit der Parametrierung der nichtlinearen Zustandsr
 - Gomez-Estern F., IDAPBC Controlled Underactuated Mechanical Systems. Eur. J. Control (2004)
 - [Transient stabilization of multimachine power systems with nontrivial transfer conductances. IEEE Transactions on Automatic Control vol. 50 60–75 (2005)](transient-stabilization-of-multimachine-power-systems-with-nontrivial-transfer-conductances) -- [10.1109/tac.2004.840477](https://doi.org/10.1109/tac.2004.840477)
 - Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
-- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
+- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems & Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
 - Stadlmayr R., Proc. ECC
 - Kotyczka P., Proc. ECC
 

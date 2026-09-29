@@ -53,7 +53,7 @@ The theory of dissipativity is well developed for controllable systems. A more a
 - Gohberg I., Indefinite linear algebra and applications (2005)
 - Kailath T., Linear systems (1980)
 - Pal, D. & Belur, M. N. Dissipativity of Uncontrollable Systems, Storage Functions, and Lyapunov Functions. SIAM J. Control Optim. 47, 2930–2966 (2009) -- [10.1137/070699019](https://doi.org/10.1137/070699019)
-- Peeters, R. & Rapisarda, P. A two-variable approach to solve the polynomial Lyapunov equation. Systems &amp; Control Letters 42, 117–126 (2001) -- [10.1016/s0167-6911(00)00083-9](https://doi.org/10.1016/s0167-6911(00)00083-9)
+- Peeters, R. & Rapisarda, P. A two-variable approach to solve the polynomial Lyapunov equation. Systems & Control Letters 42, 117–126 (2001) -- [10.1016/s0167-6911(00)00083-9](https://doi.org/10.1016/s0167-6911(00)00083-9)
 - Pillai, H. K. & Shankar, S. A Behavioral Approach to Control of Distributed Systems. SIAM J. Control Optim. 37, 388–408 (1999) -- [10.1137/s0363012997321784](https://doi.org/10.1137/s0363012997321784)
 - Polderman, J. W. & Willems, J. C. Introduction to Mathematical Systems Theory. Texts in Applied Mathematics (Springer New York, 1998). doi:10.1007/978-1-4757-2953-5 -- [10.1007/978-1-4757-2953-5](https://doi.org/10.1007/978-1-4757-2953-5)
 - Rao, S. Controllability of conservative behaviours. International Journal of Control 85, 983–989 (2012) -- [10.1080/00207179.2012.673134](https://doi.org/10.1080/00207179.2012.673134)

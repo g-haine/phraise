@@ -69,5 +69,5 @@ Descriptor systems; port-Hamiltonian systems; stability; differential-algebraic 
 - Reis, T., Rendel, O. & Voigt, M. The Kalman–Yakubovich–Popov inequality for differential-algebraic systems. Linear Algebra and its Applications vol. 485 153–193 (2015) -- [10.1016/j.laa.2015.06.021](https://doi.org/10.1016/j.laa.2015.06.021)
 - Stykel, T. Stability and inertia theorems for generalized Lyapunov equations. Linear Algebra and its Applications vol. 355 297–314 (2002) -- [10.1016/s0024-3795(02)00354-3](https://doi.org/10.1016/s0024-3795(02)00354-3)
 - Trentelmann, (2001)
-- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [van der Schaft, A. & Maschke, B. Generalized port-Hamiltonian DAE systems. Systems & Control Letters vol. 121 31–37 (2018)](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
 

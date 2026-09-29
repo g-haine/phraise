@@ -72,5 +72,5 @@ Hamiltonian formalism; Lyapunov; Thermodynamics; IDA-PBC control; CSTR
 - van der Schaft, Port-controlled Hamiltonian systems: towards a theory for control and design of nonlinear physical systems. SICE journal (2000)
 - Villegas, Boundary control for a class of dissipative differential operators including diffusion systems. proc. of the 17th International Symposium on Mathematical Theory of Networks and Systems, Kyoto, Japan (2006)
 - van der Schaft, (2000)
-- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems &amp; Control Letters 30, 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
+- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems & Control Letters 30, 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
 

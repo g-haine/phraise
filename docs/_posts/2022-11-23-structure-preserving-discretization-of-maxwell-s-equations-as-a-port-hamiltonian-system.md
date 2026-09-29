@@ -55,7 +55,7 @@ Port-Hamiltonian systems; Structure-preserving method; Maxwell's equations; Char
 ## References
 - Abhyankar, PETSc/TS: A Modern Scalable ODE/DAE Solver Library. ArXiv e-prints (2018)
 - Alnæs, M., Blechta, J., Hake, J., Johansson, A., Kehlet, B., Logg, A., Richardson, C., Ring, J., Rognes, M.E., and Wells, G.N. (2015). The FEniCS Project Version 1.5. Archive of Numerical Software, 3(100). doi: 10.11588/ans.2015.100.20553.
-- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems & Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
 - Amestoy, P. R., Buttari, A., L’Excellent, J.-Y. & Mary, T. Performance and Scalability of the Block Low-Rank Multifrontal Factorization on Multicore Architectures. ACM Transactions on Mathematical Software vol. 45 1–26 (2019) -- [10.1145/3242094](https://doi.org/10.1145/3242094)
 - Anees, A. & Angermann, L. Time Domain Finite Element Method for Maxwell’s Equations. IEEE Access vol. 7 63852–63867 (2019) -- [10.1109/access.2019.2916394](https://doi.org/10.1109/access.2019.2916394)
 - Assous, (2018)

@@ -42,10 +42,7 @@ We consider the Lscr2-gain of nonlinear Port-Hamiltonian systems. Using the Hami
 ## References
 - hangos, Analysis and Control of Nonlinear Process Systems (2004)
 - (0)
-- Gahinet P, Apkarian P (1994) A linear matrix inequality approach to
-                    <i>H</i>
-                    <sub>∞</sub>
-                    control. Intl J Robust &amp; Nonlinear 4(4):421–448. https://doi.org/10.1002/rnc.4590040403 -- [10.1002/rnc.4590040403](https://doi.org/10.1002/rnc.4590040403)
+- Gahinet P, Apkarian P (1994) A linear matrix inequality approach to \\(H_{\infty}\\) control. Intl J Robust & Nonlinear 4(4):421–448. https://doi.org/10.1002/rnc.4590040403 -- [10.1002/rnc.4590040403](https://doi.org/10.1002/rnc.4590040403)
 - Kaszkurewicz E, Bhaya A (2000) Matrix Diagonal Stability in Systems and Computation. Birkhäuser Boston, Boston, MA -- [10.1007/978-1-4612-1346-8](https://doi.org/10.1007/978-1-4612-1346-8)
 - Arcak M, Sontag ED (2006) Diagonal stability of a class of cyclic systems and its connection with the secant criterion. Automatica 42(9):1531–1537. https://doi.org/10.1016/j.automatica.2006.04.009 -- [10.1016/j.automatica.2006.04.009](https://doi.org/10.1016/j.automatica.2006.04.009)
 - (2001) Putting energy back in control. IEEE Control Syst 21(2):18–33. https://doi.org/10.1109/37.915398 -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)

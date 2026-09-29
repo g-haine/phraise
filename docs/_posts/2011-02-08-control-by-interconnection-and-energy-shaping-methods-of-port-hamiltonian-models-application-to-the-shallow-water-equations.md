@@ -52,7 +52,7 @@ Nonlinear systems; Shallow water equations; Passivity based control; Port-Hamilt
 [Download the bib file]({{ site.baseurl }}/assets/bib/control-by-interconnection-and-energy-shaping-methods-of-port-hamiltonian-models-application-to-the-shallow-water-equations.bib)
  
 ## References
-- Bastin, G. et al. On Lyapunov stability of linearised Saint-Venant equations for a sloping channel. Networks &amp; Heterogeneous Media vol. 4 177–187 (2009) -- [10.3934/nhm.2009.4.177](https://doi.org/10.3934/nhm.2009.4.177)
+- Bastin, G. et al. On Lyapunov stability of linearised Saint-Venant equations for a sloping channel. Networks & Heterogeneous Media vol. 4 177–187 (2009) -- [10.3934/nhm.2009.4.177](https://doi.org/10.3934/nhm.2009.4.177)
 - Becherif, Stability and robustness of disturbed-port controlled Hamiltonian systems with dissipation. (2005)
 - Besançon, A nonlinear backstepping-like controller for a three-point collocation model of water flow dynamics. (2001)
 - Bossavit, (1998)

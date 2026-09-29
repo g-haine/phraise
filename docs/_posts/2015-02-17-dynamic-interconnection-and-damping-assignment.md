@@ -44,7 +44,7 @@ The Interconnection and Damping Assignment passivity-based control method for po
 - rodriguez, Nonlinear control of magnetic levitation systems via energy balancing. Proc Amer Control Conf (2000)
 - rowell, Systems Dynamics: An Introduction. (1997)
 - Sassano, M. & Astolfi, A. Dynamic Approximate Solutions of the HJ Inequality and of the HJB Equation for Input-Affine Nonlinear Systems. IEEE Trans. Automat. Contr. 57, 2490–2503 (2012) -- [10.1109/tac.2012.2186716](https://doi.org/10.1109/tac.2012.2186716)
-- Sassano, M. & Astolfi, A. Approximate finite-horizon optimal control without PDEs. Systems &amp; Control Letters 62, 97–103 (2013) -- [10.1016/j.sysconle.2012.08.015](https://doi.org/10.1016/j.sysconle.2012.08.015)
+- Sassano, M. & Astolfi, A. Approximate finite-horizon optimal control without PDEs. Systems & Control Letters 62, 97–103 (2013) -- [10.1016/j.sysconle.2012.08.015](https://doi.org/10.1016/j.sysconle.2012.08.015)
 - Senturia, S. D. Microsystem Design. (Springer US, 2001). doi:10.1007/b117574 -- [10.1007/b117574](https://doi.org/10.1007/b117574)
 - van der schaft, Lo-Gain and Passivity Techniques in Nonlinear Control. (2000)
 - [Nunna, K., Sassano, M. & Astolfi, A. Constructive interconnection and Damping Assignment for port-controlled Hamiltonian. 2013 American Control Conference 1810–1815 (2013) doi:10.1109/acc.2013.6580098](constructive-interconnection-and-damping-assignment-for-port-controlled-hamiltonian) -- [10.1109/acc.2013.6580098](https://doi.org/10.1109/acc.2013.6580098)

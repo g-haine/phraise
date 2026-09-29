@@ -41,7 +41,7 @@ For continuous-time port-Hamiltonian systems (PHS), safety can be shown using th
  
 ## References
 - khalil, Nonlinear Systems (2002)
-- [Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems &amp; Control Letters 55, 673–680 (2006)](construction-of-discrete-time-models-for-port-controlled-hamiltonian-systems-with-applications) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
+- [Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems & Control Letters 55, 673–680 (2006)](construction-of-discrete-time-models-for-port-controlled-hamiltonian-systems-with-applications) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
 - MATLAB Version (2012)
 - Oishi, Y. Passivity degradation under the discretization with the zero-order hold and the ideal sampler. 49th IEEE Conference on Decision and Control (CDC) 7613–7617 (2010) doi:10.1109/cdc.2010.5717886 -- [10.1109/cdc.2010.5717886](https://doi.org/10.1109/cdc.2010.5717886)
 - Prajna, S. Barrier certificates for nonlinear model validation. Automatica 42, 117–126 (2006) -- [10.1016/j.automatica.2005.08.007](https://doi.org/10.1016/j.automatica.2005.08.007)
@@ -54,7 +54,7 @@ For continuous-time port-Hamiltonian systems (PHS), safety can be shown using th
 - Costa-Castello, R. & Fossas, E. On preserving passivity in sampled-data linear systems. 2006 American Control Conference 6 pp. (2006) doi:10.1109/acc.2006.1657407 -- [10.1109/acc.2006.1657407](https://doi.org/10.1109/acc.2006.1657407)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - [Dai, S. & Koutsoukos, X. Safety Analysis of Automotive Control Systems Using Multi-Modal Port-Hamiltonian Systems. Proceedings of the 19th International Conference on Hybrid Systems: Computation and Control 105–114 (2016) doi:10.1145/2883817.2883845](safety-analysis-of-automotive-control-systems-using-multi-modal-port-hamiltonian-systems) -- [10.1145/2883817.2883845](https://doi.org/10.1145/2883817.2883845)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - eyisi, Model-based design and integration of cyber-physical systems: An adaptive cruise control case study. Journal of Control Science and Engineering Special Issue on Embedded Model-Based Control (2013)
 - [Cervera, J., van der Schaft, A. J. & Baños, A. Interconnection of port-Hamiltonian systems and composition of Dirac structures. Automatica 43, 212–225 (2007)](interconnection-of-port-hamiltonian-systems-and-composition-of-dirac-structures) -- [10.1016/j.automatica.2006.08.014](https://doi.org/10.1016/j.automatica.2006.08.014)
 - Mechanical Simulation Corporation Ann Arbor MI USA (2013)

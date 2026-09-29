@@ -45,7 +45,7 @@ We establish an exponential stabilization result for linear port-Hamiltonian sys
 ## References
 - R. A. Adams and J. J. F. Fournier, Sobolev Spaces, 2nd edition. Elsevier, 2003.
 - Amann H, Escher J (2009) Analysis III. Birkhäuser Basel, Basel -- [10.1007/978-3-7643-7480-8](https://doi.org/10.1007/978-3-7643-7480-8)
-- B. Augner, <i>Stabilisation of Infinite-Dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback</i>, PhD thesis. Available at <a href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/augner/dc1613.pdf" target="_blank">http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/augner/dc1613.pdf</a>.
+- B. Augner, Stabilisation of Infinite-Dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback, PhD thesis. Available at http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/augner/dc1613.pdf.
 - [Augner B, Jacob B (2014) Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. EECT 3(2):207–229. https://doi.org/10.3934/eect.2014.3.207](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Cox S, Zuazua E (1995) The rate at which energy decays in a string damped at one end. Indiana Univ Math J 44(2):0–0. https://doi.org/10.1512/iumj.1995.44.2001 -- [10.1512/iumj.1995.44.2001](https://doi.org/10.1512/iumj.1995.44.2001)
 - K.-J. Engel and R. Nagel, One-Parameter Semigroups for Linear Evolution Equations, Springer, 2000.

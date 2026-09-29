@@ -72,7 +72,7 @@ backstepping approach, coordinate control, speed and heading control, the port-c
 - Ortega, R., Spong, M. W., Gomez-Estern, F. & Blankenstein, G. Stabilization of a class of underactuated mechanical systems via interconnection and damping assignment. IEEE Trans. Automat. Contr. 47, 1218–1233 (2002) -- [10.1109/tac.2002.800770](https://doi.org/10.1109/tac.2002.800770)
 - Renton, (2012)
 - Roberts, (2006)
-- Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems &amp; Control Letters 62, 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
+- Romero, J. G., Donaire, A. & Ortega, R. Robust energy shaping control of mechanical systems. Systems & Control Letters 62, 770–780 (2013) -- [10.1016/j.sysconle.2013.05.011](https://doi.org/10.1016/j.sysconle.2013.05.011)
 - Sean Kragelund, Adaptive speed control for autonomous surface vessels. (2013)
 - Simetti, Towards the use of a team of USVs for civilian harbour protection: real time path planning with avoidance of multiple moving obstacles. (2009)
 - Sonnenburg, (2012)

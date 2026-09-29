@@ -54,9 +54,9 @@ The problem of moment matching with preservation of port Hamiltonian and gradien
 - H2 model reduction for port-Hamiltonian systems. In Proc. 48th IEEE Conf. on Decision and Control & 28th Chinese Control Conf., pages 5362-5369, 2009.
 - Proc. 49th IEEE Conf. on Decision and Control, pages 6189–6194, 2010.
 - Proc. 50th IEEE Conf. Decision & Control – European Control Conf., pages 7164-7169, 2011.
-- Ionescu, T. C., Fujimoto, K. & Scherpen, J. M. A. Dissipativity preserving balancing for nonlinear systems — A Hankel operator approach. Systems &amp; Control Letters 59, 180–194 (2010) -- [10.1016/j.sysconle.2010.01.003](https://doi.org/10.1016/j.sysconle.2010.01.003)
+- Ionescu, T. C., Fujimoto, K. & Scherpen, J. M. A. Dissipativity preserving balancing for nonlinear systems — A Hankel operator approach. Systems & Control Letters 59, 180–194 (2010) -- [10.1016/j.sysconle.2010.01.003](https://doi.org/10.1016/j.sysconle.2010.01.003)
 - Ionescu, T. C., Fujimoto, K. & Scherpen, J. M. A. Singular Value Analysis Of Nonlinear Symmetric Systems. IEEE Trans. Automat. Contr. 56, 2073–2086 (2011) -- [10.1109/tac.2011.2126630](https://doi.org/10.1109/tac.2011.2126630)
-- Jaimoukha, I. M. & Kasenally, E. M. Implicitly Restarted Krylov Subspace Methods for Stable Partial Realizations. SIAM J. Matrix Anal. &amp; Appl. 18, 633–652 (1997) -- [10.1137/s0895479895279873](https://doi.org/10.1137/s0895479895279873)
+- Jaimoukha, I. M. & Kasenally, E. M. Implicitly Restarted Krylov Subspace Methods for Stable Partial Realizations. SIAM J. Matrix Anal. & Appl. 18, 633–652 (1997) -- [10.1137/s0895479895279873](https://doi.org/10.1137/s0895479895279873)
 - Proc. European Control Conference, pages 4715-4720, 2009.
 - [Polyuga, R. V. & van der Schaft, A. Structure preserving model reduction of port-Hamiltonian systems by moment matching at infinity. Automatica 46, 665–672 (2010)](structure-preserving-model-reduction-of-port-hamiltonian-systems-by-moment-matching-at-infinity) -- [10.1016/j.automatica.2010.01.018](https://doi.org/10.1016/j.automatica.2010.01.018)
 - Scherpen, J. M. A. & van der Schaft, A. J. Balanced model reduction of gradient systems. IFAC Proceedings Volumes 44, 12745–12750 (2011) -- [10.3182/20110828-6-it-1002.03550](https://doi.org/10.3182/20110828-6-it-1002.03550)

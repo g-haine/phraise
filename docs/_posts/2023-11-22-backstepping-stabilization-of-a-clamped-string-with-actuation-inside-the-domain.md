@@ -52,9 +52,9 @@ Infinite-dimensional system; flexible structures; in-domain actuation; backstepp
 [Download the bib file]({{ site.baseurl }}/assets/bib/backstepping-stabilization-of-a-clamped-string-with-actuation-inside-the-domain.bib)
  
 ## References
-- Auriol, J. & Bresch Pietri, D. Robust state-feedback stabilization of an underactuated network of interconnected <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e242" altimg="si1.svg"><mml:mrow><mml:mi>n</mml:mi><mml:mo linebreak="goodbreak" linebreakstyle="after">+</mml:mo><mml:mi>m</mml:mi></mml:mrow></mml:math> hyperbolic PDE systems. Automatica vol. 136 110040 (2022) -- [10.1016/j.automatica.2021.110040](https://doi.org/10.1016/j.automatica.2021.110040)
+- Auriol, J. & Bresch Pietri, D. Robust state-feedback stabilization of an underactuated network of interconnected \\(n+m\\) hyperbolic PDE systems. Automatica vol. 136 110040 (2022) -- [10.1016/j.automatica.2021.110040](https://doi.org/10.1016/j.automatica.2021.110040)
 - Auriol, Robustification of stabilizing controllers for ODE–PDE–ODE systems: a filtering approach. Auto-matica (2023)
-- Auriol, J. & Di Meglio, F. An explicit mapping from linear first order hyperbolic PDEs to difference systems. Systems &amp; Control Letters vol. 123 144–150 (2019) -- [10.1016/j.sysconle.2018.11.012](https://doi.org/10.1016/j.sysconle.2018.11.012)
+- Auriol, J. & Di Meglio, F. An explicit mapping from linear first order hyperbolic PDEs to difference systems. Systems & Control Letters vol. 123 144–150 (2019) -- [10.1016/j.sysconle.2018.11.012](https://doi.org/10.1016/j.sysconle.2018.11.012)
 - Auriol, Delay robust state feedback stabilization of an underactuated network of two interconnected PDE systems. (2019)
 - Bastin, (2016)
 - Bou Saba, D., Bribiesca-Argomedo, F., Auriol, J., Di Loreto, M. & Di Meglio, F. Stability Analysis for a Class of Linear $2\times 2$ Hyperbolic PDEs Using a Backstepping Transform. IEEE Transactions on Automatic Control vol. 65 2941–2956 (2020) -- [10.1109/tac.2019.2934384](https://doi.org/10.1109/tac.2019.2934384)
@@ -63,7 +63,7 @@ Infinite-dimensional system; flexible structures; in-domain actuation; backstepp
 - Cox, S. & Zuazua, E. The rate at which energy decays in a damped String. Communications in Partial Differential Equations vol. 19 213–243 (1994) -- [10.1080/03605309408821015](https://doi.org/10.1080/03605309408821015)
 - Hansen, S. & Zuazua, E. Exact Controllability and Stabilization of a Vibrating String with an Interior Point Mass. SIAM Journal on Control and Optimization vol. 33 1357–1391 (1995) -- [10.1137/s0363012993248347](https://doi.org/10.1137/s0363012993248347)
 - Hu, L., Vazquez, R., Meglio, F. D. & Krstic, M. Boundary Exponential Stabilization of 1-Dimensional Inhomogeneous Quasi-Linear Hyperbolic Systems. SIAM Journal on Control and Optimization vol. 57 963–998 (2019) -- [10.1137/15m1012712](https://doi.org/10.1137/15m1012712)
-- Jin, F.-F. & Guo, W. Boundary stabilization of a 1-D wave equation with multi-point velocity recirculations. Systems &amp; Control Letters vol. 164 105230 (2022) -- [10.1016/j.sysconle.2022.105230](https://doi.org/10.1016/j.sysconle.2022.105230)
+- Jin, F.-F. & Guo, W. Boundary stabilization of a 1-D wave equation with multi-point velocity recirculations. Systems & Control Letters vol. 164 105230 (2022) -- [10.1016/j.sysconle.2022.105230](https://doi.org/10.1016/j.sysconle.2022.105230)
 - Lagnese, J. Decay of solutions of wave equations in a bounded region with boundary dissipation. Journal of Differential Equations vol. 50 163–182 (1983) -- [10.1016/0022-0396(83)90073-6](https://doi.org/10.1016/0022-0396(83)90073-6)
 - LeVeque, (2002)
 - Mounier, H. Algebraic interpretations of the spectral controllability of a linear delay system. Forum Mathematicum vol. 10 (1998) -- [10.1515/form.10.1.39](https://doi.org/10.1515/form.10.1.39)

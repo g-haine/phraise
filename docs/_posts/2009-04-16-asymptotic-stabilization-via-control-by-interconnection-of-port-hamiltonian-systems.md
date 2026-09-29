@@ -52,7 +52,7 @@ Nonlinear control systems; Port-Hamiltonian systems; Asymptotic stability; Passi
  
 ## References
 - Barbashin, On stability of motion in the whole. Doklady Akademiya Nauk SSSR (N.S.) (1952)
-- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
+- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems & Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
 - Fujimoto, Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Systems and Control Letters (2003)
 - error code: 50 -- [10.1016/0016-0032(80)90026-5](https://doi.org/10.1016/0016-0032(80)90026-5)
 - La Salle, (1961)

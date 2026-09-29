@@ -46,7 +46,7 @@ Port-Hamiltonian Systems; Partitioned finite element method; Long time asymptoti
 [Download the bib file]({{ site.baseurl }}/assets/bib/structure-preserving-discretization-of-a-coupled-heat-wave-system-as-interconnected-port-hamiltonian-systems.bib)
  
 ## References
-- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems & Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
 - Avalos, G., Lasiecka, I. & Triggiani, R. Heat–wave interaction in 2–3 dimensions: Optimal rational decay rate. Journal of Mathematical Analysis and Applications vol. 437 782–815 (2016) -- [10.1016/j.jmaa.2015.12.051](https://doi.org/10.1016/j.jmaa.2015.12.051)
 - Bauer, W., Gay-Balmaz, F.: Towards a geometric variational discretization of compressible fluids: the rotating shallow water equations. J. Comput. Dyn. 6(1), 1–37 (2019)
 - [Beattie, C., Mehrmann, V., Xu, H. & Zwart, H. Linear port-Hamiltonian descriptor systems. Mathematics of Control, Signals, and Systems vol. 30 (2018)](linear-port-hamiltonian-descriptor-systems) -- [10.1007/s00498-018-0223-3](https://doi.org/10.1007/s00498-018-0223-3)

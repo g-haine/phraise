@@ -59,7 +59,7 @@ A recent formalization of thermodynamics under a dynamical systems approach intr
 - haddad, A Dynamical Systems Theory of Thermodynamics (2019)
 - haddad, Thermodynamics A Dynamical Systems Approach (2005)
 - [van der Schaft, A. & Jeltsema, D. Limits to Energy Conversion. IEEE Transactions on Automatic Control vol. 67 532–538 (2022)](limits-to-energy-conversion) -- [10.1109/tac.2021.3075652](https://doi.org/10.1109/tac.2021.3075652)
-- Brockett, R. W. Thermodynamics with time: Exergy and passivity. Systems &amp; Control Letters vol. 101 44–49 (2017) -- [10.1016/j.sysconle.2016.06.009](https://doi.org/10.1016/j.sysconle.2016.06.009)
+- Brockett, R. W. Thermodynamics with time: Exergy and passivity. Systems & Control Letters vol. 101 44–49 (2017) -- [10.1016/j.sysconle.2016.06.009](https://doi.org/10.1016/j.sysconle.2016.06.009)
 - Gouy. Sur l’énergie utilisable. Journal de Physique Théorique et Appliquée vol. 8 501–518 (1889) -- [10.1051/jphystap:018890080050101](https://doi.org/10.1051/jphystap:018890080050101)
 - penfield, Tellegen s Theorem and Electrical Networks (1970)
 - grainger, Power System Analysis (1994)

@@ -56,7 +56,7 @@ Port-Hamiltonian systems; Passivity; Nonlinear control; Controller parameterizat
 - Acosta, J. A., Ortega, R., Astolfi, A. & Mahindrakar, A. D. Interconnection and damping assignment passivity-based control of mechanical systems with underactuation degree one. IEEE Transactions on Automatic Control vol. 50 1936–1955 (2005) -- [10.1109/tac.2005.860292](https://doi.org/10.1109/tac.2005.860292)
 - BACCIOTTI, A. The Local Stabilizability Problem for Nonlinear Systems. IMA Journal of Mathematical Control and Information vol. 5 27–39 (1988) -- [10.1093/imamci/5.1.27](https://doi.org/10.1093/imamci/5.1.27)
 - Boyd, S. (2005). Linear dynamical systems. In Lecture notes, Stanford University. www.stanford.edu/class/ee363/notes/lq-lyap-notes.pdf.
-- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems &amp; Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
+- [Cheng, D., Astolfi, A. & Ortega, R. On feedback equivalence to port controlled Hamiltonian systems. Systems & Control Letters vol. 54 911–917 (2005)](on-feedback-equivalence-to-port-controlled-hamiltonian-systems) -- [10.1016/j.sysconle.2005.02.005](https://doi.org/10.1016/j.sysconle.2005.02.005)
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control vol. 10 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
 - Ho, Controlling a ball and wheel system using full-state-feedback linearization. IEEE Control Systems Magazine (2009)
 - Höffner, K. (2011). Geometric aspects of interconnection and damping assignment — passivity-based control. Ph.D. Thesis, Queen’s University, Kingston.
@@ -73,7 +73,7 @@ Port-Hamiltonian systems; Passivity; Nonlinear control; Controller parameterizat
 - Nijmeijer, (1990)
 - Ortega, (1998)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- [Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems &amp; Control Letters vol. 45 371–385 (2002)](an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
+- [Prajna, S., van der Schaft, A. & Meinsma, G. An LMI approach to stabilization of linear port-controlled Hamiltonian systems. Systems & Control Letters vol. 45 371–385 (2002)](an-lmi-approach-to-stabilization-of-linear-port-controlled-hamiltonian-systems) -- [10.1016/s0167-6911(01)00195-5](https://doi.org/10.1016/s0167-6911(01)00195-5)
 - Sepulchre, (1997)
 - [Tiefensee, F., Monaco, S. & Normand-Cyrot, D. IDA-PBC under sampling for port-controlled hamiltonian systems. Proceedings of the 2010 American Control Conference 1811–1816 (2010) doi:10.1109/acc.2010.5531444](ida-pbc-under-sampling-for-port-controlled-hamiltonian-systems) -- [10.1109/acc.2010.5531444](https://doi.org/10.1109/acc.2010.5531444)
 - van der Schaft, (2000)

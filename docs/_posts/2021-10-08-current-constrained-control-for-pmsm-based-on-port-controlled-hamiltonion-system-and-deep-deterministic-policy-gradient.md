@@ -43,7 +43,7 @@ current-constrained controller, ddpg, ida-pbc, pch, pmsm
 [Download the bib file]({{ site.baseurl }}/assets/bib/current-constrained-control-for-pmsm-based-on-port-controlled-hamiltonion-system-and-deep-deterministic-policy-gradient.bib)
  
 ## References
-- Khorashadizadeh, S. & Sadeghijaleh, M. Adaptive fuzzy tracking control of robot manipulators actuated by permanent magnet synchronous motors. Computers &amp; Electrical Engineering 72, 100–111 (2018) -- [10.1016/j.compeleceng.2018.09.010](https://doi.org/10.1016/j.compeleceng.2018.09.010)
+- Khorashadizadeh, S. & Sadeghijaleh, M. Adaptive fuzzy tracking control of robot manipulators actuated by permanent magnet synchronous motors. Computers & Electrical Engineering 72, 100–111 (2018) -- [10.1016/j.compeleceng.2018.09.010](https://doi.org/10.1016/j.compeleceng.2018.09.010)
 - A Zhou, Math. Probl. Eng. (2020)
 - Trabelsi, M., Semail, E., Nguyen, N. K. & Meinguet, F. Open Switch Fault effects analysis in five-phase PMSM designed for aerospace application. 2016 International Symposium on Power Electronics, Electrical Drives, Automation and Motion (SPEEDAM) 14–21 (2016) doi:10.1109/speedam.2016.7525939 -- [10.1109/speedam.2016.7525939](https://doi.org/10.1109/speedam.2016.7525939)
 - W Wang, IEEE Trans. Magn. (2021)

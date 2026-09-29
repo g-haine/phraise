@@ -53,7 +53,7 @@ In this paper position control strategies via force feedback are presented for s
 - munoz-arias, A class of standard mechanical systems with force feedback in the port- hamiltonian framework. Proc IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control (2012)
 - gorinevsky, Force Control of Robotics Systems (1997)
 - [Gómez-Estern, F. & Van der Schaft, A. J. Physical Damping in IDA-PBC Controlled Underactuated Mechanical Systems. European Journal of Control 10, 451–468 (2004)](physical-damping-in-ida-pbc-controlled-underactuated-mechanical-systems) -- [10.3166/ejc.10.451-468](https://doi.org/10.3166/ejc.10.451-468)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - [Duindam, V., Macchelli, A., Stramigioli, S. & Bruyninckx, H. Modeling and Control of Complex Physical Systems. (Springer Berlin Heidelberg, 2009). doi:10.1007/978-3-642-03196-0](modeling-and-control-of-complex-physical-systems) -- [10.1007/978-3-642-03196-0](https://doi.org/10.1007/978-3-642-03196-0)
 - maschke, Port-controlled hamiltonian systems: Modeling origins and system-theoretic properties. Proc IFAC Symp Nonlinear Control Systems (1992)
 - khalil, Nonlinear Systems (1996)

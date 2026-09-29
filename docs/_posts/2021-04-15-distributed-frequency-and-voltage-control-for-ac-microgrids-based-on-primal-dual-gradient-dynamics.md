@@ -57,7 +57,7 @@ distributed control; optimization-based control; electric power systems; microgr
 - Arrow, (1958)
 - Boyd, (2015)
 - Chen, L. & You, S. Reverse and Forward Engineering of Frequency Control in Power Networks. IEEE Transactions on Automatic Control vol. 62 4631–4638 (2017) -- [10.1109/tac.2016.2624984](https://doi.org/10.1109/tac.2016.2624984)
-- Cherukuri, A., Mallada, E. & Cortés, J. Asymptotic convergence of constrained primal–dual dynamics. Systems &amp; Control Letters vol. 87 10–15 (2016) -- [10.1016/j.sysconle.2015.10.006](https://doi.org/10.1016/j.sysconle.2015.10.006)
+- Cherukuri, A., Mallada, E. & Cortés, J. Asymptotic convergence of constrained primal–dual dynamics. Systems & Control Letters vol. 87 10–15 (2016) -- [10.1016/j.sysconle.2015.10.006](https://doi.org/10.1016/j.sysconle.2015.10.006)
 - De Persis, C. & Monshizadeh, N. A modular design of incremental Lyapunov functions for microgrid control with power sharing. 2016 European Control Conference (ECC) 1501–1506 (2016) doi:10.1109/ecc.2016.7810502 -- [10.1109/ecc.2016.7810502](https://doi.org/10.1109/ecc.2016.7810502)
 - Dorfler, F., Bolognani, S., Simpson-Porco, J. W. & Grammatico, S. Distributed Control and Optimization for Autonomous Power Grids. 2019 18th European Control Conference (ECC) 2436–2453 (2019) doi:10.23919/ecc.2019.8795974 -- [10.23919/ecc.2019.8795974](https://doi.org/10.23919/ecc.2019.8795974)
 - Farrokhabadi, M. et al. Microgrid Stability Definitions, Analysis, and Examples. IEEE Transactions on Power Systems vol. 35 13–29 (2020) -- [10.1109/tpwrs.2019.2925703](https://doi.org/10.1109/tpwrs.2019.2925703)

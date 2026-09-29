@@ -57,7 +57,7 @@ controllability, duality, nonlinear systems, observability, state-space realizat
 - Gray, W. S. & Scherpen, J. M. A. Hankel singular value functions from Schmidt pairs for nonlinear input-output systems. Proceedings of the 2002 American Control Conference (IEEE Cat. No.CH37301) 3540–3545 vol.5 (2002) doi:10.1109/acc.2002.1024477 -- [10.1109/acc.2002.1024477](https://doi.org/10.1109/acc.2002.1024477)
 - Maschke, B. M. J., & Van der Schaft, A. J. (1992). Port-controlled Hamiltonian systems: Modeling origins and system-theoretic properties. In Proceedings of the IFAC symposium on nonlinear control systems (pp. 282–288).
 - Milnor, Morse theory. (1963)
-- Scherpen, J. M. A. Balancing for nonlinear systems. Systems &amp; Control Letters 21, 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
+- Scherpen, J. M. A. Balancing for nonlinear systems. Systems & Control Letters 21, 143–153 (1993) -- [10.1016/0167-6911(93)90117-o](https://doi.org/10.1016/0167-6911(93)90117-o)
 - Scherpen, J. M. A., & Gray, W. S. (1999). On singular value functions and Hankel operators for nonlinear systems. In Proceedings of the American Control Conference (pp. 2360–2364).
 - Scherpen, Minimality and local state decompositions of a nonlinear state-space realization using energy functions. IEEE Transactions on Automatic Control (2000)
 - Scherpen, J. M. A., & Gray, W. S. (2002). Nonlinear Hilbert adjoints: Properties and applications to Hankel singular value analysis. Nonlinear analysis: theory, methods and applications, to appear.

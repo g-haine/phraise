@@ -42,7 +42,7 @@ In this work a new and fast network-wide framework is addressed for modeling and
 ## References
 - Sanandaji, B. M., Vincent, T. L. & Wakin, M. B. Compressive topology identification of interconnected dynamic systems via Clustered Orthogonal Matching Pursuit. IEEE Conference on Decision and Control and European Control Conference 174–180 (2011) doi:10.1109/cdc.2011.6161181 -- [10.1109/cdc.2011.6161181](https://doi.org/10.1109/cdc.2011.6161181)
 - Zimmerman, R. D., Murillo-Sanchez, C. E. & Thomas, R. J. MATPOWER: Steady-State Operations, Planning, and Analysis Tools for Power Systems Research and Education. IEEE Trans. Power Syst. 26, 12–19 (2011) -- [10.1109/tpwrs.2010.2051168](https://doi.org/10.1109/tpwrs.2010.2051168)
-- Indulkar, C. S. & Ramalingam, K. Estimation of transmission line parameters from measurements. International Journal of Electrical Power &amp; Energy Systems 30, 337–342 (2008) -- [10.1016/j.ijepes.2007.08.003](https://doi.org/10.1016/j.ijepes.2007.08.003)
+- Indulkar, C. S. & Ramalingam, K. Estimation of transmission line parameters from measurements. International Journal of Electrical Power & Energy Systems 30, 337–342 (2008) -- [10.1016/j.ijepes.2007.08.003](https://doi.org/10.1016/j.ijepes.2007.08.003)
 - janecek, Transmission line identification using PMUs. Proc 10th Int Conf Environ Elect Eng (2001)
 - Kurokawa, S., Asti, G. A., Costa, E. C. M. & Pissolato, J. Simplified procedure to estimate the resistance parameters of transmission lines. Electr Eng 95, 221–227 (2012) -- [10.1007/s00202-012-0255-5](https://doi.org/10.1007/s00202-012-0255-5)
 - alexander, Distribution Line Parameter Estimation Under Consideration of Measurement Tolerances. IEEE Transactions on Industrial Informatics (2016)

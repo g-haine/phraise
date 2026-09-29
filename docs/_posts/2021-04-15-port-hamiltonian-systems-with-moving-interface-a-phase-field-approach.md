@@ -55,7 +55,7 @@ Boundary control systems; Port Hamiltonian systems; Phase fields; Solidification
 - Allen, S. M. & Cahn, J. W. A microscopic theory for antiphase boundary motion and its application to antiphase domain coarsening. Acta Metallurgica vol. 27 1085–1095 (1979) -- [10.1016/0001-6160(79)90196-2](https://doi.org/10.1016/0001-6160(79)90196-2)
 - Boutin, Dafer-mos regularization for interface coupling of conservation laws. (2008)
 - Cahn, Free energy of a nonuniform system. I. Interfacial free energy. The Journal of chemical physics (1958)
-- Chehab, J.-P. et al. Boundary control of the number of interfaces for the one-dimensional Allen-Cahn equation. Discrete &amp; Continuous Dynamical Systems - S vol. 10 87–100 (2017) -- [10.3934/dcdss.2017005](https://doi.org/10.3934/dcdss.2017005)
+- Chehab, J.-P. et al. Boundary control of the number of interfaces for the one-dimensional Allen-Cahn equation. Discrete & Continuous Dynamical Systems - S vol. 10 87–100 (2017) -- [10.3934/dcdss.2017005](https://doi.org/10.3934/dcdss.2017005)
 - CHEN, Z. Optimal boundary controls for a phase field model. IMA Journal of Mathematical Control and Information vol. 10 157–176 (1993) -- [10.1093/imamci/10.2.157](https://doi.org/10.1093/imamci/10.2.157)
 - [Diagne, M. & Maschke, B. Port Hamiltonian formulation of a system of two conservation laws with a moving interface. European Journal of Control vol. 19 495–504 (2013)](port-hamiltonian-formulation-of-a-system-of-two-conservation-laws-with-a-moving-interface) -- [10.1016/j.ejcon.2013.09.001](https://doi.org/10.1016/j.ejcon.2013.09.001)
 - Duindam, (2009)

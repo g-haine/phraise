@@ -66,7 +66,7 @@ conserved quantities; conservation laws; implicit systems; interconnected system
 - Dorfman, Dirac Structures and Integrability of Nonlinear Evolution Equations (1993)
 - Marsden, J. E. & Ratiu, T. Reduction of Poisson manifolds. Lett Math Phys 11, 161–169 (1986) -- [10.1007/bf00398428](https://doi.org/10.1007/bf00398428)
 - Maschke, Interconnected mechanical systems, part II: the dynamics of spatial mechanical networks. (1997)
-- van der Schaft, A. Symmetries and conservation laws for Hamiltonian systems with inputs and outputs: A generalization of Noether’s theorem. Systems &amp; Control Letters 1, 108–115 (1981) -- [10.1016/s0167-6911(81)80046-1](https://doi.org/10.1016/s0167-6911(81)80046-1)
+- van der Schaft, A. Symmetries and conservation laws for Hamiltonian systems with inputs and outputs: A generalization of Noether’s theorem. Systems & Control Letters 1, 108–115 (1981) -- [10.1016/s0167-6911(81)80046-1](https://doi.org/10.1016/s0167-6911(81)80046-1)
 - [van der Schaft, A. J. Implicit Hamiltonian systems with symmetry. Reports on Mathematical Physics 41, 203–221 (1998)](implicit-hamiltonian-systems-with-symmetry) -- [10.1016/s0034-4877(98)80176-6](https://doi.org/10.1016/s0034-4877(98)80176-6)
 - van der Schaft, A. & Maschke, B. Interconnected mechanical systems, part I: geometry of interconnection and implicit Hamiltonian systems. Modelling and Control of Mechanical Systems 1–15 (1997) doi:10.1142/9781848160873_0001 -- [10.1142/9781848160873_0001](https://doi.org/10.1142/9781848160873_0001)
 

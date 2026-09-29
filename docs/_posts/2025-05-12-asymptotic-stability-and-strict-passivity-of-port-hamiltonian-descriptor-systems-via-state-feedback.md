@@ -47,7 +47,7 @@ asymptotic stability, index reduction, port-hamiltonian descriptor system, propo
 [Download the bib file]({{ site.baseurl }}/assets/bib/asymptotic-stability-and-strict-passivity-of-port-hamiltonian-descriptor-systems-via-state-feedback.bib)
  
 ## References
-- [Mehl C, Mehrmann V, Wojtylak M (2018) Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems. SIAM J Matrix Anal &amp; Appl 39(3):1489–1519. https://doi.org/10.1137/18m116427](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18m1164275](https://doi.org/10.1137/18m1164275)
+- [Mehl C, Mehrmann V, Wojtylak M (2018) Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems. SIAM J Matrix Anal & Appl 39(3):1489–1519. https://doi.org/10.1137/18m116427](linear-algebra-properties-of-dissipative-hamiltonian-descriptor-systems) -- [10.1137/18m1164275](https://doi.org/10.1137/18m1164275)
 - [Mehrmann V, Unger B (2023) Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica 32:395–515. https://doi.org/10.1017/s096249292200008](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)
 - Mehrmann, Differential–algebraic systems with dissipative Hamiltonian structure. Math. Control Signals Systems (2023)
 - Jacob, Linear port-Hamiltonian systems on infinite-dimensional spaces. (2012)
@@ -57,9 +57,9 @@ asymptotic stability, index reduction, port-hamiltonian descriptor system, propo
 - [Mehrmann V, Morandin R (2019) Structure-preserving discretization for port-Hamiltonian descriptor systems. 2019 IEEE 58th Conference on Decision and Control (CDC) 6863–686](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 - Morandin, (2024)
 - van der Schaft, Port-Hamiltonian differential–algebraic systems. (2013)
-- [van der Schaft A, Maschke B (2018) Generalized port-Hamiltonian DAE systems. Systems &amp; Control Letters 121:31–37. https://doi.org/10.1016/j.sysconle.2018.09.00](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
+- [van der Schaft A, Maschke B (2018) Generalized port-Hamiltonian DAE systems. Systems & Control Letters 121:31–37. https://doi.org/10.1016/j.sysconle.2018.09.00](generalized-port-hamiltonian-dae-systems) -- [10.1016/j.sysconle.2018.09.008](https://doi.org/10.1016/j.sysconle.2018.09.008)
 - [van der Schaft A, Maschke B (2020) Dirac and Lagrange Algebraic Constraints in Nonlinear Port-Hamiltonian Systems. Vietnam J Math 48(4):929–939. https://doi.org/10.1007/s10013-020-00419-](dirac-and-lagrange-algebraic-constraints-in-nonlinear-port-hamiltonian-systems) -- [10.1007/s10013-020-00419-x](https://doi.org/10.1007/s10013-020-00419-x)
-- [van der Schaft A, Mehrmann V (2023) Linear port-Hamiltonian DAE systems revisited. Systems &amp; Control Letters 177:105564. https://doi.org/10.1016/j.sysconle.2023.10556](linear-port-hamiltonian-dae-systems-revisited) -- [10.1016/j.sysconle.2023.105564](https://doi.org/10.1016/j.sysconle.2023.105564)
+- [van der Schaft A, Mehrmann V (2023) Linear port-Hamiltonian DAE systems revisited. Systems & Control Letters 177:105564. https://doi.org/10.1016/j.sysconle.2023.10556](linear-port-hamiltonian-dae-systems-revisited) -- [10.1016/j.sysconle.2023.105564](https://doi.org/10.1016/j.sysconle.2023.105564)
 - Hinrichsen, (2005)
 - Kunkel, Differential-algebraic equations. (2024)
 - Du, Robust stability of differential–algebraic equations. (2013)

@@ -40,7 +40,7 @@ The paper studies how nonlinear PCH Hamiltonian systems are transformed under sa
 [Download the bib file]({{ site.baseurl }}/assets/bib/nonlinear-port-controlled-hamiltonian-systems-under-sampling.bib)
  
 ## References
-- [Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems &amp; Control Letters 55, 673–680 (2006)](construction-of-discrete-time-models-for-port-controlled-hamiltonian-systems-with-applications) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
+- [Laila, D. S. & Astolfi, A. Construction of discrete-time models for port-controlled Hamiltonian systems with applications. Systems & Control Letters 55, 673–680 (2006)](construction-of-discrete-time-models-for-port-controlled-hamiltonian-systems-with-applications) -- [10.1016/j.sysconle.2005.09.012](https://doi.org/10.1016/j.sysconle.2005.09.012)
 - monaco, On the conditions of passivity and losslessness in nonlinear discrete-time. Proc European Control Conference (1997)
 - monaco, Nonlinear sampling: on the differential/difference representation. Proc 44-th IEEE-CDC and ECC-05 (2005)
 - Monaco, S. & Normand-Cyrot, D. Advanced Tools for Nonlinear Sampled-Data Systems’ Analysis and Control. European Journal of Control 13, 221–241 (2007) -- [10.3166/ejc.13.221-241](https://doi.org/10.3166/ejc.13.221-241)

@@ -50,7 +50,7 @@ Output agreement; Algebraic constraints; Heterogeneous networks; Unmatched distu
 [Download the bib file]({{ site.baseurl }}/assets/bib/agreeing-in-networks-unmatched-disturbances-algebraic-constraints-and-optimality.bib)
  
 ## References
-- Aguirre, L. A., Rodrigues, D. D., Lima, S. T. & Martinez, C. B. Dynamical prediction and pattern mapping in short-term load forecasting. International Journal of Electrical Power &amp; Energy Systems vol. 30 73–82 (2008) -- [10.1016/j.ijepes.2007.11.001](https://doi.org/10.1016/j.ijepes.2007.11.001)
+- Aguirre, L. A., Rodrigues, D. D., Lima, S. T. & Martinez, C. B. Dynamical prediction and pattern mapping in short-term load forecasting. International Journal of Electrical Power & Energy Systems vol. 30 73–82 (2008) -- [10.1016/j.ijepes.2007.11.001](https://doi.org/10.1016/j.ijepes.2007.11.001)
 - Arcak, M. Passivity as a Design Tool for Group Coordination. IEEE Transactions on Automatic Control vol. 52 1380–1390 (2007) -- [10.1109/tac.2007.902733](https://doi.org/10.1109/tac.2007.902733)
 - Bai, (2011)
 - Bergen, A. R. & Hill, D. J. A Structure Preserving Model for Power System Stability Analysis. IEEE Transactions on Power Apparatus and Systems vol. PAS-100 25–35 (1981) -- [10.1109/tpas.1981.316883](https://doi.org/10.1109/tpas.1981.316883)
@@ -62,15 +62,15 @@ Output agreement; Algebraic constraints; Heterogeneous networks; Unmatched distu
 - Dörfler, F., Chertkov, M. & Bullo, F. Synchronization in complex oscillator networks and smart grids. Proceedings of the National Academy of Sciences vol. 110 2005–2010 (2013) -- [10.1073/pnas.1212134110](https://doi.org/10.1073/pnas.1212134110)
 - Dörfler, F., Simpson-Porco, J., & Bullo, F. (2014). Breaking the hierarchy: Distributed control & economic optimality in microgrids. ArXiv Preprint arXiv:1401.1767.
 - Falnes, J. A review of wave-energy extraction. Marine Structures vol. 20 185–201 (2007) -- [10.1016/j.marstruc.2007.09.001](https://doi.org/10.1016/j.marstruc.2007.09.001)
-- Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
+- Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems & Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Kokotovic, P. V., O’Malley, R. E., Jr. & Sannuti, P. Singular perturbations and order reduction in control theory — An overview. Automatica vol. 12 123–132 (1976) -- [10.1016/0005-1098(76)90076-5](https://doi.org/10.1016/0005-1098(76)90076-5)
 - Zhongkui Li, Zhisheng Duan, Guanrong Chen & Lin Huang. Consensus of Multiagent Systems and Synchronization of Complex Networks: A Unified Viewpoint. IEEE Transactions on Circuits and Systems I: Regular Papers vol. 57 213–224 (2010) -- [10.1109/tcsi.2009.2023937](https://doi.org/10.1109/tcsi.2009.2023937)
 - Machowski, (2011)
 - Milan, P., Wächter, M. & Peinke, J. Turbulent Character of Wind Energy. Physical Review Letters vol. 110 (2013) -- [10.1103/physrevlett.110.138701](https://doi.org/10.1103/physrevlett.110.138701)
 - Olfati-Saber, R., Fax, J. A. & Murray, R. M. Consensus and Cooperation in Networked Multi-Agent Systems. Proceedings of the IEEE vol. 95 215–233 (2007) -- [10.1109/jproc.2006.887293](https://doi.org/10.1109/jproc.2006.887293)
 - Olfati-Saber, R., & Murray, R.M. (2003). Consensus protocols for networks of dynamical systems. In Proceedings of American control conference, Vol. 2 (pp. 951–956).
-- [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems &amp; Control Letters vol. 61 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
-- Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems &amp; Control Letters vol. 57 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
+- [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems & Control Letters vol. 61 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
+- Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems & Control Letters vol. 57 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
 - Sauer, (1998)
 - Simpson-Porco, J. W., Dörfler, F. & Bullo, F. Synchronization and power sharing for droop-controlled inverters in islanded microgrids. Automatica vol. 49 2603–2611 (2013) -- [10.1016/j.automatica.2013.05.018](https://doi.org/10.1016/j.automatica.2013.05.018)
 - Stan, G.-B. & Sepulchre, R. Analysis of Interconnected Oscillators by Dissipativity Theory. IEEE Transactions on Automatic Control vol. 52 256–270 (2007) -- [10.1109/tac.2006.890471](https://doi.org/10.1109/tac.2006.890471)

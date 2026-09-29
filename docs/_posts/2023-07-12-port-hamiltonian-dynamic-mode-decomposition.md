@@ -66,15 +66,7 @@ D. Duvenaud , Neural ordinary differential equations, in Proceedings of the 32nd
 - K. Cherifi , 
 V. Mehrmann , and 
 K. Hariche , Numerical Methods to Compute a Minimal Realization of a Port-Hamiltonian System, http://arxiv.org/abs/1903.07042, 2019.
-- Deng Y-B, Hu X-Y, Zhang L (2003) Least Squares Solution of
-                    <i>
-                      BXA
-                      <sup>T</sup>
-                    </i>
-                    =
-                    <i>T</i>
-                    over Symmetric, Skew-Symmetric, and Positive Semidefinite
-                    <i>X</i>. SIAM J Matrix Anal Appl 25(2):486–494. https://doi.org/10.1137/s0895479802402491 -- [10.1137/s0895479802402491](https://doi.org/10.1137/s0895479802402491)
+- Deng Y-B, Hu X-Y, Zhang L (2003) Least Squares Solution of \\(BXA^{T}=T\\) over Symmetric, Skew-Symmetric, and Positive Semidefinite \\(X\\). SIAM J Matrix Anal Appl 25(2):486–494. https://doi.org/10.1137/s0895479802402491 -- [10.1137/s0895479802402491](https://doi.org/10.1137/s0895479802402491)
 - [Gillis N, Sharma P (2017) On computing the distance to stability for matrices using linear dissipative Hamiltonian systems. Automatica 85:113–121. https://doi.org/10.1016/j.automatica.2017.07.047](on-computing-the-distance-to-stability-for-matrices-using-linear-dissipative-hamiltonian-systems) -- [10.1016/j.automatica.2017.07.047](https://doi.org/10.1016/j.automatica.2017.07.047)
 - Gillis N, Sharma P (2018) A semi-analytical approach for the positive semidefinite Procrustes problem. Linear Algebra and its Applications 540:112–137. https://doi.org/10.1016/j.laa.2017.11.023 -- [10.1016/j.laa.2017.11.023](https://doi.org/10.1016/j.laa.2017.11.023)
 - [Gugercin S, Polyuga RV, Beattie C, van der Schaft A (2012) Structure-preserving tangential interpolation for model reduction of port-Hamiltonian systems. Automatica 48(9):1963–1974. https://doi.org/10.1016/j.automatica.2012.05.052](structure-preserving-tangential-interpolation-for-model-reduction-of-port-hamiltonian-systems) -- [10.1016/j.automatica.2012.05.052](https://doi.org/10.1016/j.automatica.2012.05.052)
@@ -93,7 +85,7 @@ B. Unger , Certified Machine Learning: Rigorous A Posteriori Error Bounds for PD
 - [Mehrmann V, Morandin R (2019) Structure-preserving discretization for port-Hamiltonian descriptor systems. In: 2019 IEEE 58th Conference on Decision and Control (CDC). IEEE, pp 6863–6868](structure-preserving-discretization-for-port-hamiltonian-descriptor-systems) -- [10.1109/cdc40024.2019.9030180](https://doi.org/10.1109/cdc40024.2019.9030180)
 - V. Mehrmann  and 
 B. Unger , Control of Port-Hamiltonian Differential-Algebraic Systems and Applications, http://arxiv.org/abs/2201.06590, 2022.
-- [Moser T, Lohmann B (2020) A New Riemannian Framework for Efficient ℋ<sub>2</sub>-Optimal Model Reduction of Port-Hamiltonian Systems. In: 2020 59th IEEE Conference on Decision and Control (CDC). IEEE, pp 5043–5049](a-new-riemannian-framework-for-efficient-h-sub-2-sub-optimal-model-reduction-of-port-hamiltonian-systems) -- [10.1109/cdc42340.2020.9304134](https://doi.org/10.1109/cdc42340.2020.9304134)
+- [Moser T, Lohmann B (2020) A New Riemannian Framework for Efficient \\(\mathcal{H}_{2}\\)-Optimal Model Reduction of Port-Hamiltonian Systems. In: 2020 59th IEEE Conference on Decision and Control (CDC). IEEE, pp 5043–5049](a-new-riemannian-framework-for-efficient-h-sub-2-sub-optimal-model-reduction-of-port-hamiltonian-systems) -- [10.1109/cdc42340.2020.9304134](https://doi.org/10.1109/cdc42340.2020.9304134)
 - Nesterov Y., Introductory Lectures on Convex Optimization: A Basic Course (2003)
 - Peherstorfer B, Gugercin S, Willcox K (2017) Data-Driven Reduced Model Construction with Time-Domain Loewner Models. SIAM J Sci Comput 39(5):A2152–A2178. https://doi.org/10.1137/16m1094750 -- [10.1137/16m1094750](https://doi.org/10.1137/16m1094750)
 - Peherstorfer B, Willcox K (2016) Data-driven operator inference for nonintrusive projection-based model reduction. Computer Methods in Applied Mechanics and Engineering 306:196–215. https://doi.org/10.1016/j.cma.2016.03.025 -- [10.1016/j.cma.2016.03.025](https://doi.org/10.1016/j.cma.2016.03.025)

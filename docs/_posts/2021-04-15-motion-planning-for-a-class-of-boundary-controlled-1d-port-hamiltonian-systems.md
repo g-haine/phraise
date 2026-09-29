@@ -70,7 +70,7 @@ Motion Planning; Port-Hamiltonian System; Boundary Control; Trajectory Planning;
 - Meurer, T. Flatness-based trajectory planning for diffusion–reaction systems in a parallelepipedon—A spectral approach. Automatica vol. 47 935–949 (2011) -- [10.1016/j.automatica.2011.02.004](https://doi.org/10.1016/j.automatica.2011.02.004)
 - Meurer, (2012)
 - Meurer, T. & Kugi, A. Trajectory Planning for Boundary Controlled Parabolic PDEs With Varying Parameters on Higher-Dimensional Spatial Domains. IEEE Transactions on Automatic Control vol. 54 1854–1868 (2009) -- [10.1109/tac.2009.2024572](https://doi.org/10.1109/tac.2009.2024572)
-- Meurer, T. & Zeitz, M. Feedforward and Feedback Tracking Control of Nonlinear Diffusion−Convection−Reaction Systems Using Summability Methods. Industrial &amp; Engineering Chemistry Research vol. 44 2532–2548 (2004) -- [10.1021/ie0495729](https://doi.org/10.1021/ie0495729)
+- Meurer, T. & Zeitz, M. Feedforward and Feedback Tracking Control of Nonlinear Diffusion−Convection−Reaction Systems Using Summability Methods. Industrial & Engineering Chemistry Research vol. 44 2532–2548 (2004) -- [10.1021/ie0495729](https://doi.org/10.1021/ie0495729)
 - Petit, N. & Rouchon, P. Dynamics and solutions to some control problems for water-tank systems. IEEE Transactions on Automatic Control vol. 47 594–609 (2002) -- [10.1109/9.995037](https://doi.org/10.1109/9.995037)
 - Rathgeber, Firedrake: automating the finite element method by composing abstractions. ACM Trans. Math. Softw. (2016)
 - Rothfuß, (1997)

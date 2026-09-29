@@ -51,7 +51,7 @@ In this paper, a new approach is successfully addressed to design the optimal co
 - roger, Topic in Matrix Analysis (1990)
 - Yu, J., Pei, W. & Zhang, C. A Loss-Minimization Port-Controlled Hamilton Scheme of Induction Motor for Electric Vehicles. IEEE/ASME Trans. Mechatron. 20, 2645–2653 (2015) -- [10.1109/tmech.2014.2361030](https://doi.org/10.1109/tmech.2014.2361030)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica 38, 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Zhu, Z. Q. & Howe, D. Electrical Machines and Drives for Electric, Hybrid, and Fuel Cell Vehicles. Proc. IEEE 95, 746–765 (2007) -- [10.1109/jproc.2006.892482](https://doi.org/10.1109/jproc.2006.892482)
 - gonzalez, Development of Control Schemes Based on Energy Shaping for A Class of Nonlinear Systems and Design of A Triphase Inverter Open Prototype for Online Applications in Induction Motors (2005)
 - kalman, The Theory of Optimal Control and the Calculus of Variations Mathematical Optimization Techniques (1963)

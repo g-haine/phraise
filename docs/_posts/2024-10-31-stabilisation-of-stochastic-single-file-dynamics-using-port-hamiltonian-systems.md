@@ -51,7 +51,7 @@ Port-Hamiltonian Systems; Stability; Stochastic Modeling and Stochastic Systems 
 [Download the bib file]({{ site.baseurl }}/assets/bib/stabilisation-of-stochastic-single-file-dynamics-using-port-hamiltonian-systems.bib)
  
 ## References
-- [Bansal, H. et al. Port-Hamiltonian formulation of two-phase flow models. Systems &amp; Control Letters vol. 149 104881 (2021)](port-hamiltonian-formulation-of-two-phase-flow-models) -- [10.1016/j.sysconle.2021.104881](https://doi.org/10.1016/j.sysconle.2021.104881)
+- [Bansal, H. et al. Port-Hamiltonian formulation of two-phase flow models. Systems & Control Letters vol. 149 104881 (2021)](port-hamiltonian-formulation-of-two-phase-flow-models) -- [10.1016/j.sysconle.2021.104881](https://doi.org/10.1016/j.sysconle.2021.104881)
 - Chandler, R. E., Herman, R. & Montroll, E. W. Traffic Dynamics: Studies in Car Following. Operations Research vol. 6 165–184 (1958) -- [10.1287/opre.6.2.165](https://doi.org/10.1287/opre.6.2.165)
 - Dai, Safety analysis of integrated adaptive cruise and lane keeping control using multi-modal port-Hamiltonian systems. Nonlinear Analysis: Hybrid Systems (2020)
 - [Ehrhardt, M., Kruse, T. & Tordeux, A. The collective dynamics of a stochastic Port-Hamiltonian self-driven agent model in one dimension. ESAIM: Mathematical Modelling and Numerical Analysis vol. 58 515–544 (2024)](the-collective-dynamics-of-a-stochastic-port-hamiltonian-self-driven-agent-model-in-one-dimension) -- [10.1051/m2an/2024004](https://doi.org/10.1051/m2an/2024004)

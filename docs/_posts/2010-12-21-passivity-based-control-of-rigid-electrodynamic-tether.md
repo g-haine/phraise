@@ -49,7 +49,7 @@ Electrodynamic tethers provide actuation for performing orbit correction of spac
 - Pardini, C., Hanada, T., Krisko, P. H., Anselmo, L. & Hirayama, H. Are de-orbiting missions possible using electrodynamic tethers? Task review from the space debris perspective. Acta Astronautica 60, 916–929 (2007) -- [10.1016/j.actaastro.2006.11.001](https://doi.org/10.1016/j.actaastro.2006.11.001)
 - Johnson L., NASA, NASA/TM-1998-208538 (1998)
 - Sorensen, K. Conceptual design and analysis of an MXER tether boost station. 37th Joint Propulsion Conference and Exhibit (2001) doi:10.2514/6.2001-3915 -- [10.2514/6.2001-3915](https://doi.org/10.2514/6.2001-3915)
-- Pasca, M. Nonlinear control of tethered satellite system oscillations. Nonlinear Analysis: Theory, Methods &amp; Applications 30, 3867–3878 (1997) -- [10.1016/s0362-546x(97)00114-4](https://doi.org/10.1016/s0362-546x(97)00114-4)
+- Pasca, M. Nonlinear control of tethered satellite system oscillations. Nonlinear Analysis: Theory, Methods & Applications 30, 3867–3878 (1997) -- [10.1016/s0362-546x(97)00114-4](https://doi.org/10.1016/s0362-546x(97)00114-4)
 - Tragesser, S. G. & San, H. Orbital Maneuvering with Electrodynamic Tethers. Journal of Guidance, Control, and Dynamics 26, 805–810 (2003) -- [10.2514/2.5115](https://doi.org/10.2514/2.5115)
 - Williams, P. Optimal Orbit Transfer with Electrodynamic Tether. Journal of Guidance, Control, and Dynamics 28, 369–372 (2005) -- [10.2514/1.12016](https://doi.org/10.2514/1.12016)
 - Pelaez, J. & Lorenzini, E. C. Libration Control of Electrodynamic Tethers in Inclined Orbit. Journal of Guidance, Control, and Dynamics 28, 269–279 (2005) -- [10.2514/1.6473](https://doi.org/10.2514/1.6473)

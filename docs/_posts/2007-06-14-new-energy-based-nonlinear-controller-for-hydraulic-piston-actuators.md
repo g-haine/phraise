@@ -65,7 +65,7 @@ Energy-based Controller Design; Hydraulic Piston Actuator; Nonlinear Control; Po
 - Kugi, Energy based modelling of lumped-parameter hydraulic systems. (2003)
 - Lemmen, Nonlinear control of hydraulic differential cylinders. (1999)
 - Marsden, (1999)
-- Mazenc, F. & Richard, E. Stabilization of hydraulic systems using a passivity property. Systems &amp; Control Letters vol. 44 111–117 (2001) -- [10.1016/s0167-6911(01)00130-x](https://doi.org/10.1016/s0167-6911(01)00130-x)
+- Mazenc, F. & Richard, E. Stabilization of hydraulic systems using a passivity property. Systems & Control Letters vol. 44 111–117 (2001) -- [10.1016/s0167-6911(01)00130-x](https://doi.org/10.1016/s0167-6911(01)00130-x)
 - Merritt, (1967)
 - Ortega, (1998)
 - Plummer, A. R. & Vaughan, N. D. Robust Adaptive Control for Hydraulic Servosystems. Journal of Dynamic Systems, Measurement, and Control vol. 118 237–244 (1996) -- [10.1115/1.2802309](https://doi.org/10.1115/1.2802309)

@@ -53,7 +53,7 @@ mechanical systems, observers, output-feedback tracking, stabilization
 - Astolfi A, Karagiannis D, Ortega R (2008) Nonlinear and Adaptive Control with Applications. Springer Londo -- [10.1007/978-1-84800-066-7](https://doi.org/10.1007/978-1-84800-066-7)
 - n-DOF Euler-Lagrange systems. American Control Conference (ACC'06), Minnesota, USA, pp. 4993–4999, 2006.
 - P. Lancaster and M. Tismenetsky. The Theory of Matrices Academic Press, 1985.
-- Liu X, Ortega R, Su H, Chu J (2011) On adaptive control of nonlinearly parameterized nonlinear systems: Towards a constructive procedure. Systems &amp; Control Letters 60(1):36–43. https://doi.org/10.1016/j.sysconle.2010.10.00 -- [10.1016/j.sysconle.2010.10.004](https://doi.org/10.1016/j.sysconle.2010.10.004)
+- Liu X, Ortega R, Su H, Chu J (2011) On adaptive control of nonlinearly parameterized nonlinear systems: Towards a constructive procedure. Systems & Control Letters 60(1):36–43. https://doi.org/10.1016/j.sysconle.2010.10.00 -- [10.1016/j.sysconle.2010.10.004](https://doi.org/10.1016/j.sysconle.2010.10.004)
 - Ortega R, Loría A, Nicklasson PJ, Sira-Ramírez H (1998) Passivity-based Control of Euler-Lagrange Systems. Springer Londo -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - Romero JG, Donaire A, Ortega R (2012) Simplifying Robust Energy Shaping Controllers for Mechanical Systems via Coordinate Changes. IFAC Proceedings Volumes 45(19):60–65. https://doi.org/10.3182/20120829-3-it-4022.0004 -- [10.3182/20120829-3-it-4022.00045](https://doi.org/10.3182/20120829-3-it-4022.00045)
 - American Control Conference (ACC'13), June 17–19, 2013, Washington DC, USA.

@@ -53,10 +53,10 @@ Boundary control systems; infinite-dimensional port Hamiltonian systems; asympto
  
 ## References
 - Augner, (2017)
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations & Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Boudaoud, M., Haddab, Y. & Le Gorrec, Y. Modeling and Optimal Force Control of a Nonlinear Electrostatic Microgripper. IEEE/ASME Transactions on Mechatronics vol. 18 1130–1139 (2013) -- [10.1109/tmech.2012.2197216](https://doi.org/10.1109/tmech.2012.2197216)
 - Curtain, (1995)
-- Curtain, R. & Zwart, H. Stabilization of collocated systems by nonlinear boundary control. Systems &amp; Control Letters vol. 96 11–14 (2016) -- [10.1016/j.sysconle.2016.06.014](https://doi.org/10.1016/j.sysconle.2016.06.014)
+- Curtain, R. & Zwart, H. Stabilization of collocated systems by nonlinear boundary control. Systems & Control Letters vol. 96 11–14 (2016) -- [10.1016/j.sysconle.2016.06.014](https://doi.org/10.1016/j.sysconle.2016.06.014)
 - Jacob, (2012)
 - [Kurula, M. & Zwart, H. Linear wave systems onn-D spatial domains. International Journal of Control 1–24 (2014) doi:10.1080/00207179.2014.993337](linear-wave-systems-on-i-n-i-d-spatial-domains) -- [10.1080/00207179.2014.993337](https://doi.org/10.1080/00207179.2014.993337)
 - Le Gorrec, Y., Zwart, H., and Maschke, B. (2004). A semigroup approach to port hamiltonian systems associated with linear skew symmetric operator. 16th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2004).

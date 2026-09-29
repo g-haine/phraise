@@ -61,7 +61,7 @@ In this paper, we develop an energy-based dynamical system model driven by a Mar
 - Willems JC, Dissipative dynamical systems, Part II: quadratic supply rates. Arch. Ration. Mech. Anal. (1972)
 - Haddad, W. M. & Chellaboina, V. Nonlinear Dynamical Systems and Control. (2008) doi:10.1515/9781400841042 -- [10.1515/9781400841042](https://doi.org/10.1515/9781400841042)
 - Rajpurohit, T. & Haddad, W. M. Dissipativity Theory for Nonlinear Stochastic Dynamical Systems. IEEE Transactions on Automatic Control vol. 62 1684–1699 (2017) -- [10.1109/tac.2016.2598474](https://doi.org/10.1109/tac.2016.2598474)
-- Lanchares, M. & Haddad, W. M. Dissipative stochastic dynamical systems. Systems &amp; Control Letters vol. 172 105451 (2023) -- [10.1016/j.sysconle.2022.105451](https://doi.org/10.1016/j.sysconle.2022.105451)
+- Lanchares, M. & Haddad, W. M. Dissipative stochastic dynamical systems. Systems & Control Letters vol. 172 105451 (2023) -- [10.1016/j.sysconle.2022.105451](https://doi.org/10.1016/j.sysconle.2022.105451)
 - Le Gall, J.-F. Brownian Motion, Martingales, and Stochastic Calculus. Graduate Texts in Mathematics (Springer International Publishing, 2016). doi:10.1007/978-3-319-31089-3 -- [10.1007/978-3-319-31089-3](https://doi.org/10.1007/978-3-319-31089-3)
 - Klebaner, F. C. Introduction to Stochastic Calculus with Applications. (IMPERIAL COLLEGE PRESS, 2012). doi:10.1142/p821 -- [10.1142/p821](https://doi.org/10.1142/p821)
 - Øksendal B, Stochastic differential equations: an introduction with applications (2013)
@@ -73,5 +73,5 @@ In this paper, we develop an energy-based dynamical system model driven by a Mar
 - [Cordoni, F., Di Persio, L. & Muradore, R. Stochastic Port-Hamiltonian Systems. Journal of Nonlinear Science vol. 32 (2022)](stochastic-port-hamiltonian-systems) -- [10.1007/s00332-022-09853-2](https://doi.org/10.1007/s00332-022-09853-2)
 - [van der Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer International Publishing, 2017). doi:10.1007/978-3-319-49992-5](l2-gain-and-passivity-techniques-in-nonlinear-control) -- [10.1007/978-3-319-49992-5](https://doi.org/10.1007/978-3-319-49992-5)
 - Haddad, W. M., Chellaboina, V. & Hui, Q. Nonnegative and Compartmental Dynamical Systems. (Princeton University Press, 2010). doi:10.1515/9781400832248 -- [10.1515/9781400832248](https://doi.org/10.1515/9781400832248)
-- Rajpurohit, T. & Haddad, W. M. Lyapunov and converse Lyapunov theorems for stochastic semistability. Systems &amp; Control Letters vol. 97 83–90 (2016) -- [10.1016/j.sysconle.2016.08.010](https://doi.org/10.1016/j.sysconle.2016.08.010)
+- Rajpurohit, T. & Haddad, W. M. Lyapunov and converse Lyapunov theorems for stochastic semistability. Systems & Control Letters vol. 97 83–90 (2016) -- [10.1016/j.sysconle.2016.08.010](https://doi.org/10.1016/j.sysconle.2016.08.010)
 

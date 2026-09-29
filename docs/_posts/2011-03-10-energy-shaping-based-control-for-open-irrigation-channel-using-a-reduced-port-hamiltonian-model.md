@@ -48,7 +48,7 @@ We present in this paper a control algorithm for the open irrigation channel usi
 - Dulhoste, Nonlinear Control of Water Flow Dynamics by Input-Output Linearization Based on Collocation Model. (2001)
 - Ouarit, Robust Optimal Control of one-reach open-channels. (2003)
 - SAWADOGO, S., MALATERRE, P. O. & KOSUTH, P. Multivariate optimal control for on-demand operation of irrigation canals. International Journal of Systems Science 26, 161–178 (1995) -- [10.1080/00207729508929029](https://doi.org/10.1080/00207729508929029)
-- Bastin, G. et al. On Lyapunov stability of linearised Saint-Venant equations for a sloping channel. Networks &amp; Heterogeneous Media 4, 177–187 (2009) -- [10.3934/nhm.2009.4.177](https://doi.org/10.3934/nhm.2009.4.177)
+- Bastin, G. et al. On Lyapunov stability of linearised Saint-Venant equations for a sloping channel. Networks & Heterogeneous Media 4, 177–187 (2009) -- [10.3934/nhm.2009.4.177](https://doi.org/10.3934/nhm.2009.4.177)
 - Hamroun, Port-Based Modelling for Open Channel Irrigation Systems. WSEAS Trans. on Fluid Mechnaics (2006)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42, 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Psumarthy, (2006)

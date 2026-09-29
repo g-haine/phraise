@@ -50,7 +50,7 @@ Unmanned underwater vehicle; Nonlinear systems; Energy-based control; Port-Hamil
 [Download the bib file]({{ site.baseurl }}/assets/bib/energy-based-motion-control-of-a-slender-hull-unmanned-underwater-vehicle.bib)
  
 ## References
-- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
+- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems & Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
 - Astolfi, (2008)
 - Brogliato, (2007)
 - [Donaire, A. & Junco, S. On the addition of integral action to port-controlled Hamiltonian systems. Automatica vol. 45 1910–1916 (2009)](on-the-addition-of-integral-action-to-port-controlled-hamiltonian-systems) -- [10.1016/j.automatica.2009.04.006](https://doi.org/10.1016/j.automatica.2009.04.006)
@@ -64,7 +64,7 @@ Unmanned underwater vehicle; Nonlinear systems; Energy-based control; Port-Hamil
 - Gertler, M. & Hagen, G. R. STANDARD EQUATIONS OF MOTION FOR SUBMARINE SIMULATION. http://dx.doi.org/10.21236/AD0653861 (1967) doi:10.21236/ad0653861 -- [10.21236/ad0653861](https://doi.org/10.21236/ad0653861)
 - Lanczos, (1960)
 - Morabito, F., Teel, A. R. & Zaccarian, L. Nonlinear Antiwindup Applied to Euler–Lagrange Systems. IEEE Transactions on Robotics and Automation vol. 20 526–537 (2004) -- [10.1109/tra.2004.824933](https://doi.org/10.1109/tra.2004.824933)
-- [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems &amp; Control Letters vol. 61 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
+- [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems & Control Letters vol. 61 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
 - [Ortega, R., van der Schaft, A., Maschke, B. & Escobar, G. Interconnection and damping assignment passivity-based control of port-controlled Hamiltonian systems. Automatica vol. 38 585–596 (2002)](interconnection-and-damping-assignment-passivity-based-control-of-port-controlled-hamiltonian-systems) -- [10.1016/s0005-1098(01)00278-3](https://doi.org/10.1016/s0005-1098(01)00278-3)
 - Prestero, T. Verification of a six-degree of freedom simulation model for the REMUS autonomous underwater vehicle. (2001) doi:10.1575/1912/3040 -- [10.1575/1912/3040](https://doi.org/10.1575/1912/3040)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)

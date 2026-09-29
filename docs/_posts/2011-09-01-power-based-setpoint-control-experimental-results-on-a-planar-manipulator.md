@@ -43,7 +43,7 @@ In the last years the power-based modeling framework, developed in the sixties t
 [Download the bib file]({{ site.baseurl }}/assets/bib/power-based-setpoint-control-experimental-results-on-a-planar-manipulator.bib)
  
 ## References
-- Jeltsema, D. & Scherpen, J. M. A. A power-based description of standard mechanical systems. Systems &amp; Control Letters vol. 56 349–356 (2007) -- [10.1016/j.sysconle.2006.10.015](https://doi.org/10.1016/j.sysconle.2006.10.015)
+- Jeltsema, D. & Scherpen, J. M. A. A power-based description of standard mechanical systems. Systems & Control Letters vol. 56 349–356 (2007) -- [10.1016/j.sysconle.2006.10.015](https://doi.org/10.1016/j.sysconle.2006.10.015)
 - Multidomain modeling of nonlinear networks and systems. IEEE Control Systems vol. 29 28–59 (2009) -- [10.1109/mcs.2009.932927](https://doi.org/10.1109/mcs.2009.932927)
 - Kelly, R. Global positioning of robot manipulators via PD control plus a class of nonlinear integral actions. IEEE Transactions on Automatic Control vol. 43 934–938 (1998) -- [10.1109/9.701091](https://doi.org/10.1109/9.701091)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)

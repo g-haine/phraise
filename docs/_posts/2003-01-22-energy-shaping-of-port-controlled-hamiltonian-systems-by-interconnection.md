@@ -44,12 +44,12 @@ Passivity-based control (PBC) has shown to be very powerful to design robust con
 ## References
 - Ortega, R. & Spong, M. W. Adaptive motion control of rigid robots: A tutorial. Automatica 25, 877–888 (1989) -- [10.1016/0005-1098(89)90054-x](https://doi.org/10.1016/0005-1098(89)90054-x)
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
-- Ortega, R., Loria, A., Kelly, R. & Praly, L. On passivity‐based output feedback global stabilization of euler‐lagrange systems. Intl J Robust &amp; Nonlinear 5, 313–323 (1995) -- [10.1002/rnc.4590050407](https://doi.org/10.1002/rnc.4590050407)
+- Ortega, R., Loria, A., Kelly, R. & Praly, L. On passivity‐based output feedback global stabilization of euler‐lagrange systems. Intl J Robust & Nonlinear 5, 313–323 (1995) -- [10.1002/rnc.4590050407](https://doi.org/10.1002/rnc.4590050407)
 - ortega, Output?feedback stabilization of nonlinear systems (1999)
 - (0)
 - stramigioli, Passive output feedback and port interconnection. Proc IFAC Nonlinear Control Systems Design Symp NOLCOS (1998)
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control 103, 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
-- van der schaft, The Hamiltonian formulation of energy?conserving physical systems with external ports. Archir f�r Elektronik und Ubertragungstechnik (1995)
+- van der schaft, The Hamiltonian formulation of energy conserving physical systems with external ports. Archiv für Elektronik und Übertragungstechnik (1995)
 - bloch, Controlled Lagrangians and the stabilization of mechanical systems. ?roc IEEE Conf Decision and Control (1998)
 - Libermann, P. & Marle, C.-M. Symplectic Geometry and Analytical Mechanics. (Springer Netherlands, 1987). doi:10.1007/978-94-009-3807-6 -- [10.1007/978-94-009-3807-6](https://doi.org/10.1007/978-94-009-3807-6)
 - Marsden, J. E. & Ratiu, T. S. Introduction to Mechanics and Symmetry. Texts in Applied Mathematics (Springer New York, 1994). doi:10.1007/978-1-4612-2682-6 -- [10.1007/978-1-4612-2682-6](https://doi.org/10.1007/978-1-4612-2682-6)
@@ -59,6 +59,6 @@ Passivity-based control (PBC) has shown to be very powerful to design robust con
 - Schaft, A. L2-Gain and Passivity Techniques in Nonlinear Control. Lecture Notes in Control and Information Sciences (Springer Berlin Heidelberg, 1996). doi:10.1007/3-540-76074-1 -- [10.1007/3-540-76074-1](https://doi.org/10.1007/3-540-76074-1)
 - maschke, Port controlled Hamiltonian systems: modeling origins and system theoretic properties. Proc IFAC Nonlinear Control Systems Design Symp NOLCOS (1992)
 - Bloch, A. M., Krishnaprasad, P. S., Marsden, J. E. & de Alvarez, G. S. Stabilization of rigid body dynamics by internal and external torques. Automatica 28, 745–756 (1992) -- [10.1016/0005-1098(92)90034-d](https://doi.org/10.1016/0005-1098(92)90034-d)
-- Ailon, A. & Ortega, R. An observer-based set-point controller for robot manipulators with flexible joints. Systems &amp; Control Letters 21, 329–335 (1993) -- [10.1016/0167-6911(93)90076-i](https://doi.org/10.1016/0167-6911(93)90076-i)
+- Ailon, A. & Ortega, R. An observer-based set-point controller for robot manipulators with flexible joints. Systems & Control Letters 21, 329–335 (1993) -- [10.1016/0167-6911(93)90076-i](https://doi.org/10.1016/0167-6911(93)90076-i)
 - maschke, Energy?based Lyapunov functions for forced Hamiltonian systems with dissipation. IEEE Conf Dec and Control (1998)
 

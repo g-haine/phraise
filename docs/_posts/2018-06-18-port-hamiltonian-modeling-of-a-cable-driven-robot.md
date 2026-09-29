@@ -82,5 +82,5 @@ Cable-Driven parallel robots; finite-element modelling; hybrid/switching systems
 - Yüksel, (2017)
 - Yuksel, B., Secchi, C., Bulthoff, H. H. & Franchi, A. Reshaping the physical properties of a quadrotor through IDA-PBC and its application to aerial physical interaction. 2014 IEEE International Conference on Robotics and Automation (ICRA) 6258–6265 (2014) doi:10.1109/icra.2014.6907782 -- [10.1109/icra.2014.6907782](https://doi.org/10.1109/icra.2014.6907782)
 - Zhao, J. & Hill, D. J. Dissipativity Theory for Switched Systems. IEEE Transactions on Automatic Control vol. 53 941–953 (2008) -- [10.1109/tac.2008.920237](https://doi.org/10.1109/tac.2008.920237)
-- Zhao, J. & Hill, D. J. Passivity and stability of switched systems: A multiple storage function method. Systems &amp; Control Letters vol. 57 158–164 (2008) -- [10.1016/j.sysconle.2007.08.011](https://doi.org/10.1016/j.sysconle.2007.08.011)
+- Zhao, J. & Hill, D. J. Passivity and stability of switched systems: A multiple storage function method. Systems & Control Letters vol. 57 158–164 (2008) -- [10.1016/j.sysconle.2007.08.011](https://doi.org/10.1016/j.sysconle.2007.08.011)
 

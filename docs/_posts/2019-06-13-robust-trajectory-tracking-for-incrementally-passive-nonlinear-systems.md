@@ -51,7 +51,7 @@ Incremental passivity; Trajectory tracking; Robust control; Port-Hamiltonian sys
 [Download the bib file]({{ site.baseurl }}/assets/bib/robust-trajectory-tracking-for-incrementally-passive-nonlinear-systems.bib)
  
 ## References
-- Acary, V. & Brogliato, B. Implicit Euler numerical scheme and chattering-free implementation of sliding mode systems. Systems &amp; Control Letters vol. 59 284–293 (2010) -- [10.1016/j.sysconle.2010.03.002](https://doi.org/10.1016/j.sysconle.2010.03.002)
+- Acary, V. & Brogliato, B. Implicit Euler numerical scheme and chattering-free implementation of sliding mode systems. Systems & Control Letters vol. 59 284–293 (2010) -- [10.1016/j.sysconle.2010.03.002](https://doi.org/10.1016/j.sysconle.2010.03.002)
 - Bartolini, G., Ferrara, A. & Usai, E. Chattering avoidance by second-order sliding mode control. IEEE Transactions on Automatic Control vol. 43 241–246 (1998) -- [10.1109/9.661074](https://doi.org/10.1109/9.661074)
 - Brogliato, B., Ortega, R. & Lozano, R. Global tracking controllers for flexible-joint manipulators: a comparative study. Automatica vol. 31 941–956 (1995) -- [10.1016/0005-1098(94)00172-f](https://doi.org/10.1016/0005-1098(94)00172-f)
 - Chen, J., Behal, A. & Dawson, D. M. Robust Feedback Control for a Class of Uncertain MIMO Nonlinear Systems. IEEE Transactions on Automatic Control vol. 53 591–596 (2008) -- [10.1109/tac.2008.916658](https://doi.org/10.1109/tac.2008.916658)
@@ -70,7 +70,7 @@ Incremental passivity; Trajectory tracking; Robust control; Port-Hamiltonian sys
 - Nakaoka, S., Nakazawa, A., Yokoi, K., Hirukawa, H. & Ikeuchi, K. Generating whole body motions for a biped humanoid robot from captured human dances. 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422) vol. 3 3905–3910 -- [10.1109/robot.2003.1242196](https://doi.org/10.1109/robot.2003.1242196)
 - Paden, B. & Sastry, S. A calculus for computing Filippov’s differential inclusion with application to the variable structure control of robot manipulators. IEEE Transactions on Circuits and Systems vol. 34 73–82 (1987) -- [10.1109/tcs.1987.1086038](https://doi.org/10.1109/tcs.1987.1086038)
 - Pao, Transformation of human hand positions for robotic hand control. (1989)
-- Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems &amp; Control Letters vol. 57 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
+- Pavlov, A. & Marconi, L. Incremental passivity and output regulation. Systems & Control Letters vol. 57 400–409 (2008) -- [10.1016/j.sysconle.2007.10.008](https://doi.org/10.1016/j.sysconle.2007.10.008)
 - Reyes-Báez, (2016)
 - van der Schaft, (2017)
 - [van der Schaft, A. & Jeltsema, D. Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control vol. 1 173–378 (2014)](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)

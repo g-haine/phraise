@@ -49,7 +49,7 @@ contraction theory, nonlinear systems, port-hamiltonian systems
 ## References
 - Demidovich, (1961)
 - Yoshizawa, (1966)
-- Pavlov A, Pogromsky A, van de Wouw N, Nijmeijer H (2004) Convergent dynamics, a tribute to Boris Pavlovich Demidovich. Systems &amp; Control Letters 52(3–4):257–261. https://doi.org/10.1016/j.sysconle.2004.02.00 -- [10.1016/j.sysconle.2004.02.003](https://doi.org/10.1016/j.sysconle.2004.02.003)
+- Pavlov A, Pogromsky A, van de Wouw N, Nijmeijer H (2004) Convergent dynamics, a tribute to Boris Pavlovich Demidovich. Systems & Control Letters 52(3–4):257–261. https://doi.org/10.1016/j.sysconle.2004.02.00 -- [10.1016/j.sysconle.2004.02.003](https://doi.org/10.1016/j.sysconle.2004.02.003)
 - LOHMILLER W, SLOTINE J-JE (1998) On Contraction Analysis for Non-linear Systems. Automatica 34(6):683–696. https://doi.org/10.1016/s0005-1098(98)00019- -- [10.1016/s0005-1098(98)00019-3](https://doi.org/10.1016/s0005-1098(98)00019-3)
 - Angeli D (2002) A Lyapunov approach to incremental stability properties. IEEE Trans Automat Contr 47(3):410–421. https://doi.org/10.1109/9.98906 -- [10.1109/9.989067](https://doi.org/10.1109/9.989067)
 - Sontag, Contractive systems with inputs. (2010)
@@ -61,7 +61,7 @@ contraction theory, nonlinear systems, port-hamiltonian systems
 - [Yaghmaei A, Yazdanpanah MJ (2017) Trajectory tracking for a class of contractive port Hamiltonian systems. Automatica 83:331–336. https://doi.org/10.1016/j.automatica.2017.06.03](trajectory-tracking-for-a-class-of-contractive-port-hamiltonian-systems) -- [10.1016/j.automatica.2017.06.039](https://doi.org/10.1016/j.automatica.2017.06.039)
 - van der Schaft, (2016)
 - [van der Schaft A, Jeltsema D (2014) Port-Hamiltonian Systems Theory: An Introductory Overview. Foundations and Trends® in Systems and Control 1(2–3):173–378. https://doi.org/10.1561/260000000](port-hamiltonian-systems-theory-an-introductory-overview) -- [10.1561/2600000002](https://doi.org/10.1561/2600000002)
-- Barabanov NE (2006) Kalman–Yakubovich lemma in general finite dimensional case. Intl J Robust &amp; Nonlinear 17(5–6):369–386. https://doi.org/10.1002/rnc.116 -- [10.1002/rnc.1162](https://doi.org/10.1002/rnc.1162)
+- Barabanov NE (2006) Kalman–Yakubovich lemma in general finite dimensional case. Intl J Robust & Nonlinear 17(5–6):369–386. https://doi.org/10.1002/rnc.116 -- [10.1002/rnc.1162](https://doi.org/10.1002/rnc.1162)
 - R. Reyes, A. van der Schaft, B. Jayawardhana, Tracking control of fully-actuated port-Hamiltonian mechanical systems via sliding manifolds and contraction analysis, Proc. 20th IFAC World Congress, Toulouse, France, 9-14/07, 2017.
 - Jouffroy J, Fossen TI (2010) Tutorial on Incremental Stability Analysis using Contraction Theory. MIC 31(3):93–106. https://doi.org/10.4173/mic.2010.3. -- [10.4173/mic.2010.3.2](https://doi.org/10.4173/mic.2010.3.2)
 - A. Yaghmaei, M. Yazdanpanah, On contractive port-Hamiltonian systems with state-modulated interconnection and damping matrices, Private communication.

@@ -56,7 +56,7 @@ global–local identifiability, lti systems, port hamiltonian systems, port-iden
 - Glad, Structural identifiability: tools and applications. (1999)
 - Karlsson J, Anguelova M, Jirstrand M (2012) An Efficient Method for Structural Identifiability Analysis of Large Dynamic Systems. IFAC Proceedings Volumes 45(16):941–946. https://doi.org/10.3182/20120711-3-be-2027.0038 -- [10.3182/20120711-3-be-2027.00381](https://doi.org/10.3182/20120711-3-be-2027.00381)
 - Raue A, Kreutz C, Maiwald T, Bachmann J, Schilling M, Klingmüller U, Timmer J (2009) Structural and practical identifiability analysis of partially observed dynamical models by exploiting the profile likelihood. Bioinformatics 25(15):1923–1929. https://doi.org/10.1093/bioinformatics/btp35 -- [10.1093/bioinformatics/btp358](https://doi.org/10.1093/bioinformatics/btp358)
-- Yates JW, Jones RO, Walker M, Cheung SA (2009) Structural identifiability and indistinguishability of compartmental models. Expert Opinion on Drug Metabolism &amp; Toxicology 5(3):295–302. https://doi.org/10.1517/1742525090277342 -- [10.1517/17425250902773426](https://doi.org/10.1517/17425250902773426)
+- Yates JW, Jones RO, Walker M, Cheung SA (2009) Structural identifiability and indistinguishability of compartmental models. Expert Opinion on Drug Metabolism & Toxicology 5(3):295–302. https://doi.org/10.1517/1742525090277342 -- [10.1517/17425250902773426](https://doi.org/10.1517/17425250902773426)
 - Zhang, A general linear non-Gaussian state-space model: identifiability, identification and applications. (2011)
 - Bley, (1983)
 - Jacquez, (1972)

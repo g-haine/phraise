@@ -42,7 +42,7 @@ This paper gives new motion generation methods for mechanical port-Hamiltonian s
  
 ## References
 - [Fujimoto, K., Sakurama, K. & Sugie, T. Trajectory tracking control of port-controlled Hamiltonian systems via generalized canonical transformations. Automatica vol. 39 2059–2069 (2003)](trajectory-tracking-control-of-port-controlled-hamiltonian-systems-via-generalized-canonical-transformations) -- [10.1016/j.automatica.2003.07.005](https://doi.org/10.1016/j.automatica.2003.07.005)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Khennouf, H., Canudas de Wit, C. & van der Schaft, A. J. Preliminary results on asymptotic stabilization of Hamiltonian systems with nonholonomic constraints. Proceedings of 1995 34th IEEE Conference on Decision and Control vol. 4 4305–4310 -- [10.1109/cdc.1995.478917](https://doi.org/10.1109/cdc.1995.478917)
 - Maschke, Port-controlled Hamiltonian systems: modeling origins and system-theoretic properties. In IFAC Symp. Nonlinear Control Systems
 - Maschke, B. M. & van der Schaft, A. J. A Hamiltonian approach to stabilization of nonholonomic mechanical systems. Proceedings of 1994 33rd IEEE Conference on Decision and Control vol. 3 2950–2954 -- [10.1109/cdc.1994.411344](https://doi.org/10.1109/cdc.1994.411344)
@@ -50,6 +50,6 @@ This paper gives new motion generation methods for mechanical port-Hamiltonian s
 - Ortega, R., Loría, A., Nicklasson, P. J. & Sira-Ramírez, H. Passivity-Based Control of Euler-Lagrange Systems. Communications and Control Engineering (Springer London, 1998). doi:10.1007/978-1-4471-3603-3 -- [10.1007/978-1-4471-3603-3](https://doi.org/10.1007/978-1-4471-3603-3)
 - [Sakai, S. & Fujimoto, K. DYNAMIC OUTPUT FEEDBACK STABILIZATION OF A CLASS OF NONHOLONOMIC HAMILTONIAN SYSTEMS. IFAC Proceedings Volumes vol. 38 336–341 (2005)](dynamic-output-feedback-stabilization-of-a-class-of-nonholonomic-hamiltonian-systems) -- [10.3182/20050703-6-cz-1902.00710](https://doi.org/10.3182/20050703-6-cz-1902.00710)
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control vol. 103 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
-- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 10 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
+- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods & Applications vol. 10 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
 - van. der. Schaft, Theory of port-hamiltonian systems. In Network modeling and control of physical systems, pages DISC (2005)
 

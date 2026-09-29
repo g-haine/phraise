@@ -53,7 +53,7 @@ Distributed-parameter systems; Process systems; Models; Energy systems; Nonlinea
 [Download the bib file]({{ site.baseurl }}/assets/bib/on-distributed-port-hamiltonian-process-systems.bib)
  
 ## References
-- Alonso, A. A. & Erik Ydstie, B. Process systems, passivity and the second law of thermodynamics. Computers &amp; Chemical Engineering 20, S1119–S1124 (1996) -- [10.1016/0098-1354(96)00194-9](https://doi.org/10.1016/0098-1354(96)00194-9)
+- Alonso, A. A. & Erik Ydstie, B. Process systems, passivity and the second law of thermodynamics. Computers & Chemical Engineering 20, S1119–S1124 (1996) -- [10.1016/0098-1354(96)00194-9](https://doi.org/10.1016/0098-1354(96)00194-9)
 - Alonso, A. A. & Ydstie, B. E. Stabilization of distributed systems using irreversible thermodynamics. Automatica 37, 1739–1755 (2001) -- [10.1016/s0005-1098(01)00140-6](https://doi.org/10.1016/s0005-1098(01)00140-6)
 - Clemente-Gallardo, Geometric discretization of fluid dynamics. (2002)
 - Golo, (2003)
@@ -62,6 +62,6 @@ Distributed-parameter systems; Process systems; Models; Energy systems; Nonlinea
 - van der Schaft, Fluid dynamical systems as hamiltonian boundary control systems. (2001)
 - [van der Schaft, A. J. & Maschke, B. M. Hamiltonian formulation of distributed-parameter systems with boundary energy flow. Journal of Geometry and Physics 42, 166–194 (2002)](hamiltonian-formulation-of-distributed-parameter-systems-with-boundary-energy-flow) -- [10.1016/s0393-0440(01)00083-3](https://doi.org/10.1016/s0393-0440(01)00083-3)
 - Willems, J. C. Dissipative dynamical systems part I: General theory. Arch. Rational Mech. Anal. 45, 321–351 (1972) -- [10.1007/bf00276493](https://doi.org/10.1007/bf00276493)
-- Ydstie, B. E. Passivity based control via the second law. Computers &amp; Chemical Engineering 26, 1037–1048 (2002) -- [10.1016/s0098-1354(02)00041-8](https://doi.org/10.1016/s0098-1354(02)00041-8)
-- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems &amp; Control Letters 30, 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
+- Ydstie, B. E. Passivity based control via the second law. Computers & Chemical Engineering 26, 1037–1048 (2002) -- [10.1016/s0098-1354(02)00041-8](https://doi.org/10.1016/s0098-1354(02)00041-8)
+- Ydstie, B. E. & Alonso, A. A. Process systems and passivity via the Clausius-Planck inequality. Systems & Control Letters 30, 253–264 (1997) -- [10.1016/s0167-6911(97)00023-6](https://doi.org/10.1016/s0167-6911(97)00023-6)
 

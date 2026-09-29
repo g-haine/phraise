@@ -71,7 +71,7 @@ Discontinuous Galerkin method; Hamiltonian systems; Continuous-stage PRK method;
 - Li, Y.-W. & Wu, X. Functionally Fitted Energy-Preserving Methods for Solving Oscillatory Nonlinear Hamiltonian Systems. SIAM Journal on Numerical Analysis vol. 54 2036–2059 (2016) -- [10.1137/15m1032752](https://doi.org/10.1137/15m1032752)
 - McLachlan, R. I., Ryland, B. N. & Sun, Y. High Order Multisymplectic Runge--Kutta Methods. SIAM Journal on Scientific Computing vol. 36 A2199–A2226 (2014) -- [10.1137/140958050](https://doi.org/10.1137/140958050)
 - Marsden, J. E., Patrick, G. W. & Shkoller, S. Multisymplectic Geometry, Variational Integrators, and Nonlinear PDEs. Communications in Mathematical Physics vol. 199 351–395 (1998) -- [10.1007/s002200050505](https://doi.org/10.1007/s002200050505)
-- Qin Meng-Zhao & Zhang Mei-Qing. Multi-stage symplectic schemes of two kinds of Hamiltonian systems for wave equations. Computers &amp; Mathematics with Applications vol. 19 51–62 (1990) -- [10.1016/0898-1221(90)90357-p](https://doi.org/10.1016/0898-1221(90)90357-p)
+- Qin Meng-Zhao & Zhang Mei-Qing. Multi-stage symplectic schemes of two kinds of Hamiltonian systems for wave equations. Computers & Mathematics with Applications vol. 19 51–62 (1990) -- [10.1016/0898-1221(90)90357-p](https://doi.org/10.1016/0898-1221(90)90357-p)
 - Reed, (1973)
 - Reich, S. Multi-Symplectic Runge–Kutta Collocation Methods for Hamiltonian Wave Equations. Journal of Computational Physics vol. 157 473–499 (2000) -- [10.1006/jcph.1999.6372](https://doi.org/10.1006/jcph.1999.6372)
 - Ryland, B. N. & McLachlan, R. I. On Multisymplecticity of Partitioned Runge–Kutta Methods. SIAM Journal on Scientific Computing vol. 30 1318–1340 (2008) -- [10.1137/070688468](https://doi.org/10.1137/070688468)

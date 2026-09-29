@@ -47,7 +47,7 @@ adaptive robust control, hamiltonian model, observer design, time-delay dynamic 
 [Download the bib file]({{ site.baseurl }}/assets/bib/observer-based-adaptive-robust-stabilization-of-dynamic-positioning-ship-with-delay-via-hamiltonian-method.bib)
  
 ## References
-- Coutinho, D. F. & de Souza, C. E. Delay-dependent robust stability and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si11.gif" display="inline" overflow="scroll"><mml:msub><mml:mrow><mml:mi>ℒ</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math>-gain analysis of a class of nonlinear time-delay systems. Automatica 44, 2006–2018 (2008) -- [10.1016/j.automatica.2008.01.003](https://doi.org/10.1016/j.automatica.2008.01.003)
+- Coutinho, D. F. & de Souza, C. E. Delay-dependent robust stability and \\(\mathcal{L}_{2}\\)-gain analysis of a class of nonlinear time-delay systems. Automatica 44, 2006–2018 (2008) -- [10.1016/j.automatica.2008.01.003](https://doi.org/10.1016/j.automatica.2008.01.003)
 - Deng, F., Wang, L. & Jiao, D. Adaptive observer based backstepping controller design for dynamic ship positioning. China Ocean Eng 31, 639–645 (2017) -- [10.1007/s13344-017-0073-7](https://doi.org/10.1007/s13344-017-0073-7)
 - Ding, Robust synchronization control of multiple vessels with state observer. J. Harbin Eng. Univ. (2015)
 - [Donaire, A. & Perez, T. Dynamic positioning of marine craft using a port-Hamiltonian framework. Automatica 48, 851–856 (2012)](dynamic-positioning-of-marine-craft-using-a-port-hamiltonian-framework) -- [10.1016/j.automatica.2012.02.022](https://doi.org/10.1016/j.automatica.2012.02.022)
@@ -69,7 +69,7 @@ adaptive robust control, hamiltonian model, observer design, time-delay dynamic 
 - Ngongi, W. E. & Du, J. L. A High-Gain Observer-Based Pd Controller Design for Dynamic Positioning of Ships. AMM 490–491, 803–808 (2014) -- [10.4028/www.scientific.net/amm.490-491.803](https://doi.org/10.4028/www.scientific.net/amm.490-491.803)
 - Ortega, New results on control by interconnection and energy-balancing passivity-based control of port-Hamiltonian systems. Decis. Contr. (2014)
 - Skulstad, R., Li, G., Zhang, H. & Fossen, T. I. A Neural Network Approach to Control Allocation of Ships for Dynamic Positioning. IFAC-PapersOnLine 51, 128–133 (2018) -- [10.1016/j.ifacol.2018.09.481](https://doi.org/10.1016/j.ifacol.2018.09.481)
-- Sun, W. & Fu, B. Adaptive control of time‐varying uncertain non‐linear systems with input delay: a Hamiltonian approach. IET Control Theory &amp; Appl 10, 1844–1858 (2016) -- [10.1049/iet-cta.2015.1165](https://doi.org/10.1049/iet-cta.2015.1165)
+- Sun, W. & Fu, B. Adaptive control of time‐varying uncertain non‐linear systems with input delay: a Hamiltonian approach. IET Control Theory & Appl 10, 1844–1858 (2016) -- [10.1049/iet-cta.2015.1165](https://doi.org/10.1049/iet-cta.2015.1165)
 - Sun, W. & Peng, L. Observer-based robust adaptive control for uncertain stochastic Hamiltonian systems with state and input delays. NAMC 19, 626–645 (2014) -- [10.15388/na.2014.4.8](https://doi.org/10.15388/na.2014.4.8)
 - Tong, Observer-based adaptive fuzzy backstepping dynamic surface control for a class of MIMO nonlinear systems. IEEE Trans. Syst. Man Cybern. B Cybern. : a publication of the IEEE Systems, Man, and Cybernetics Society (2011)
 - Wang, (2007)

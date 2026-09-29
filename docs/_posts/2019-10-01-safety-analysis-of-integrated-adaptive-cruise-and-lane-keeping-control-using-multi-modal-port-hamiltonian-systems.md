@@ -60,7 +60,7 @@ Passivity; Safety analysis; Port-Hamiltonian systems; Automotive systems; Discre
 - . Matlab, The Mathworks, Inc., Natick, MA, USA, Version R2012a, http://www.mathworks.com.
 - Duindam, (2009)
 - Khalil, (2002)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Prajna, S. Barrier certificates for nonlinear model validation. Automatica vol. 42 117–126 (2006) -- [10.1016/j.automatica.2005.08.007](https://doi.org/10.1016/j.automatica.2005.08.007)
 - Sloth, C., Pappas, G. J. & Wisniewski, R. Compositional safety analysis using barrier certificates. Proceedings of the 15th ACM international conference on Hybrid Systems: Computation and Control 15–24 (2012) doi:10.1145/2185632.2185639 -- [10.1145/2185632.2185639](https://doi.org/10.1145/2185632.2185639)
 - Prajna, Primal-dual tests for safety and reachability. (2005)

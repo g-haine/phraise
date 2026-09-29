@@ -86,5 +86,5 @@ ABSTRACT A thermo-magneto-hydrodynamics port-Hamiltonian model is derived for th
 - Onsager L., Phys. Rev (1931)
 - Boozer, A. H. Onsager symmetry of transport in toroidal plasmas. Physics of Fluids B: Plasma Physics vol. 4 2845–2853 (1992) -- [10.1063/1.860159](https://doi.org/10.1063/1.860159)
 - Garbet, X. et al. Thermodynamics of neoclassical and turbulent transport. Plasma Physics and Controlled Fusion vol. 54 055007 (2012) -- [10.1088/0741-3335/54/5/055007](https://doi.org/10.1088/0741-3335/54/5/055007)
-- [Polner, M. & van der Vegt, J. J. W. A Hamiltonian vorticity–dilatation formulation of the compressible Euler equations. Nonlinear Analysis: Theory, Methods &amp; Applications vol. 109 113–135 (2014)](a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations) -- [10.1016/j.na.2014.07.005](https://doi.org/10.1016/j.na.2014.07.005)
+- [Polner, M. & van der Vegt, J. J. W. A Hamiltonian vorticity–dilatation formulation of the compressible Euler equations. Nonlinear Analysis: Theory, Methods & Applications vol. 109 113–135 (2014)](a-hamiltonian-vorticity-dilatation-formulation-of-the-compressible-euler-equations) -- [10.1016/j.na.2014.07.005](https://doi.org/10.1016/j.na.2014.07.005)
 

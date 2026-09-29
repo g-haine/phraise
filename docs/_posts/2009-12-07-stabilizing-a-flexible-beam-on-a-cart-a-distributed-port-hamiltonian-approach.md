@@ -52,7 +52,7 @@ Stabilization of mixed systems; Hamiltonian systems; Energy-Casimir technique; 5
  
 ## References
 - Balan, R., Maties, V., Hancu, O. & Stan, S. A predictive control approach for the inverse pendulum on a cart problem. IEEE International Conference Mechatronics and Automation, 2005 vol. 4 2026–2031 -- [10.1109/icma.2005.1626874](https://doi.org/10.1109/icma.2005.1626874)
-- Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems &amp; Control Letters vol. 14 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
+- Bloch, A. M. & Marsden, J. E. Stabilization of rigid body dynamics by the Energy-Casimir method. Systems & Control Letters vol. 14 341–346 (1990) -- [10.1016/0167-6911(90)90055-y](https://doi.org/10.1016/0167-6911(90)90055-y)
 - Bloch, A. M., Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. I. The first matching theorem. IEEE Transactions on Automatic Control vol. 45 2253–2270 (2000) -- [10.1109/9.895562](https://doi.org/10.1109/9.895562)
 - Bloch, A. M., Dong Eui Chang, Leonard, N. E. & Marsden, J. E. Controlled Lagrangians and the stabilization of mechanical systems. II. Potential shaping. IEEE Transactions on Automatic Control vol. 46 1556–1571 (2001) -- [10.1109/9.956051](https://doi.org/10.1109/9.956051)
 - [Courant, T. J. Dirac manifolds. Transactions of the American Mathematical Society vol. 319 631–661 (1990)](dirac-manifolds) -- [10.1090/s0002-9947-1990-0998124-1](https://doi.org/10.1090/s0002-9947-1990-0998124-1)

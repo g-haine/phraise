@@ -64,5 +64,5 @@ In this paper, we accelerated a reinforcement learning algorithm for port-Hamilt
 - 19) R.S. Sutton and A.G. Barto: Reinforcement Learning: An Introduction, 2nd edition, MIT Press (2018)
 - 20) M. Zhao: META-Learning Eligibility Traces for More Sample Efficient Temporal Difference Learning, arXiv: 2006.08906 (2020)
 - Sutton, R. S. Learning to predict by the methods of temporal differences. Mach Learn 3, 9–44 (1988) -- [10.1007/bf00115009](https://doi.org/10.1007/bf00115009)
-- Akiba, T., Sano, S., Yanase, T., Ohta, T. & Koyama, M. Optuna. Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining 2623–2631 (2019) doi:10.1145/3292500.3330701 -- [10.1145/3292500.3330701](https://doi.org/10.1145/3292500.3330701)
+- Akiba, T., Sano, S., Yanase, T., Ohta, T. & Koyama, M. Optuna. Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining 2623–2631 (2019) doi:10.1145/3292500.3330701 -- [10.1145/3292500.3330701](https://doi.org/10.1145/3292500.3330701)
 

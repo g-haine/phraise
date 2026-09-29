@@ -90,7 +90,7 @@ A wide class of matrix pencils connected with dissipative Hamiltonian descriptor
 - T. Stykel,
                       Analysis and Numerical Solution of Generalized Lyapunov Equations
                       , thesis, Technische Universität Berlin, Berlin, Germany, 2002.
-- Takaba, K., Morihira, N. & Katayama, T. A generalized Lyapunov theorem for descriptor system. Systems &amp; Control Letters vol. 24 49–51 (1995) -- [10.1016/0167-6911(94)00041-s](https://doi.org/10.1016/0167-6911(94)00041-s)
+- Takaba, K., Morihira, N. & Katayama, T. A generalized Lyapunov theorem for descriptor system. Systems & Control Letters vol. 24 49–51 (1995) -- [10.1016/0167-6911(94)00041-s](https://doi.org/10.1016/0167-6911(94)00041-s)
 - Taslaman, L. Strongly Damped Quadratic Matrix Polynomials. SIAM Journal on Matrix Analysis and Applications vol. 36 461–475 (2015) -- [10.1137/140959390](https://doi.org/10.1137/140959390)
 - Thompson, R. C. The characteristic polynomial of a principal subpencil of a Hermitian matrix pencil. Linear Algebra and its Applications vol. 14 135–177 (1976) -- [10.1016/0024-3795(76)90021-5](https://doi.org/10.1016/0024-3795(76)90021-5)
 - Tisseur, F. & Meerbergen, K. The Quadratic Eigenvalue Problem. SIAM Review vol. 43 235–286 (2001) -- [10.1137/s0036144500381988](https://doi.org/10.1137/s0036144500381988)

@@ -55,7 +55,7 @@ This work is devoted to an impedance grasping strategy for a class of standard m
 - duindam, 2009 Modeling and Control of Complex Physical Systems The Port-Hamiltonian Approach (0)
 - Diolaiti, N., Melchiorri, C. & Stramigioli, S. Contact impedance estimation for robotic systems. IEEE Trans. Robot. 21, 925–935 (2005) -- [10.1109/tro.2005.852261](https://doi.org/10.1109/tro.2005.852261)
 - Hogan, N. Impedance Control: An Approach to Manipulation: Part I—Theory. Journal of Dynamic Systems, Measurement, and Control 107, 1–7 (1985) -- [10.1115/1.3140702](https://doi.org/10.1115/1.3140702)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters 42, 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Dirksz, D. A. & Scherpen, J. M. A. Power-based control: Canonical coordinate transformations, integral and adaptive control. Automatica 48, 1045–1056 (2012) -- [10.1016/j.automatica.2012.03.003](https://doi.org/10.1016/j.automatica.2012.03.003)
 - Theory of Robot Control. Communications and Control Engineering (Springer London, 1996). doi:10.1007/978-1-4471-1501-4 -- [10.1007/978-1-4471-1501-4](https://doi.org/10.1007/978-1-4471-1501-4)
 - Hutchinson, S., Hager, G. D. & Corke, P. I. A tutorial on visual servo control. IEEE Trans. Robot. Automat. 12, 651–670 (1996) -- [10.1109/70.538972](https://doi.org/10.1109/70.538972)

@@ -46,7 +46,7 @@ Research on nonholonomic mechanical systems has focused mainly on describing geo
 - stramigioli, Modeling and IPC Control of Interactive Mechanical Systems A Coordinate-Free Approach (2001)
 - duindam, Port-Based Modeling and Analysis of Snakeboard Locomotion. submitted to the International Symposium on Mathematical Theory of Networks and Systems (2004)
 - vela, Averaging and Control of Nonlinear Systems. (2003)
-- Bullo, F. & Žefran, M. On mechanical control systems with nonholonomic constraints and symmetries. Systems &amp; Control Letters 45, 133–143 (2002) -- [10.1016/s0167-6911(01)00173-6](https://doi.org/10.1016/s0167-6911(01)00173-6)
+- Bullo, F. & Žefran, M. On mechanical control systems with nonholonomic constraints and symmetries. Systems & Control Letters 45, 133–143 (2002) -- [10.1016/s0167-6911(01)00173-6](https://doi.org/10.1016/s0167-6911(01)00173-6)
 - Bloch, A. M. Nonholonomic Mechanics and Control. Interdisciplinary Applied Mathematics (Springer New York, 2003). doi:10.1007/b97376 -- [10.1007/b97376](https://doi.org/10.1007/b97376)
 - vela, Second-order Averaging Methods and Oscillatory Feedback Control of Underactuated Mechanical Systems. Proceedings of the IEEE American Control Conference (2002)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)

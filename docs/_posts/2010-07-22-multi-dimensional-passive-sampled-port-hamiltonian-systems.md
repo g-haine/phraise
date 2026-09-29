@@ -51,7 +51,7 @@ Passivity of virtual environments running in discrete time is a sufficient condi
 - gillespie, Stable user-specific rendering of the virtual wall. Proc ASME Int Mechanical Eng Conf and Exposition (1996)
 - fung, Biomechanics Mechanical properties of living tissues (1993)
 - kim, Stable haptic interaction control using energy bounding algorithm. Proc IEEE/RSJ Int Conf Intelligent Robots and Systems (2004)
-- Hayward, V. & Maclean, K. E. Do it yourself haptics: part I. IEEE Robotics &amp; Automation Magazine vol. 14 88–104 (2007) -- [10.1109/m-ra.2007.907921](https://doi.org/10.1109/m-ra.2007.907921)
+- Hayward, V. & Maclean, K. E. Do it yourself haptics: part I. IEEE Robotics & Automation Magazine vol. 14 88–104 (2007) -- [10.1109/m-ra.2007.907921](https://doi.org/10.1109/m-ra.2007.907921)
 - 20-sim version 4.1. (2009)
 - Colgate, J. E. & Schenkel, G. Passivity of a class of sampled-data systems: application to haptic interfaces. Proceedings of 1994 American Control Conference - ACC ’94 vol. 3 3236–3240 -- [10.1109/acc.1994.735172](https://doi.org/10.1109/acc.1994.735172)
 - Mahvash, M. & Hayward, V. High-fidelity passive force-reflecting virtual environments. IEEE Transactions on Robotics vol. 21 38–46 (2005) -- [10.1109/tro.2004.833819](https://doi.org/10.1109/tro.2004.833819)

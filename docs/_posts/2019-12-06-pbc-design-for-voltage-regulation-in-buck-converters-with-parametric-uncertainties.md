@@ -40,7 +40,7 @@ This paper addresses the problem of voltage output regulation in DC Buck convert
 [Download the bib file]({{ site.baseurl }}/assets/bib/pbc-design-for-voltage-regulation-in-buck-converters-with-parametric-uncertainties.bib)
  
 ## References
-- Cavanini, L., Cimini, G., Ippoliti, G. & Bemporad, A. Model predictive control for pre‐compensated voltage mode controlled DC–DC converters. IET Control Theory &amp; Applications vol. 11 2514–2520 (2017) -- [10.1049/iet-cta.2016.1501](https://doi.org/10.1049/iet-cta.2016.1501)
+- Cavanini, L., Cimini, G., Ippoliti, G. & Bemporad, A. Model predictive control for pre‐compensated voltage mode controlled DC–DC converters. IET Control Theory & Applications vol. 11 2514–2520 (2017) -- [10.1049/iet-cta.2016.1501](https://doi.org/10.1049/iet-cta.2016.1501)
 - Ling, R., Maksimovic, D. & Leyva, R. Second-Order Sliding-Mode Controlled Synchronous Buck DC–DC Converter. IEEE Transactions on Power Electronics vol. 31 2539–2549 (2016) -- [10.1109/tpel.2015.2431193](https://doi.org/10.1109/tpel.2015.2431193)
 - Ma, L., Zhang, Y., Yang, X., Ding, S. & Dong, L. Quasi-Continuous Second-Order Sliding Mode Control of Buck Converter. IEEE Access vol. 6 17859–17867 (2018) -- [10.1109/access.2018.2795027](https://doi.org/10.1109/access.2018.2795027)
 - Solsona, J., Gomez Jorge, S. & Busada, C. Nonlinear Control of a Buck Converter feeding a Constant Power Load. IEEE Latin America Transactions vol. 12 899–903 (2014) -- [10.1109/tla.2014.6872903](https://doi.org/10.1109/tla.2014.6872903)
@@ -60,5 +60,5 @@ This paper addresses the problem of voltage output regulation in DC Buck convert
 - Parhizi, S., Lotfi, H., Khodaei, A. & Bahramirad, S. State of the Art in Research on Microgrids: A Review. IEEE Access vol. 3 890–925 (2015) -- [10.1109/access.2015.2443119](https://doi.org/10.1109/access.2015.2443119)
 - Shang, F., Niu, G. & Krishnamurthy, M. Design and Analysis of a High-Voltage-Gain Step-Up Resonant DC–DC Converter for Transportation Applications. IEEE Transactions on Transportation Electrification vol. 3 157–167 (2017) -- [10.1109/tte.2017.2656145](https://doi.org/10.1109/tte.2017.2656145)
 - khalil, Nonlinear Systems (2013)
-- Attia, A.-F., El Sehiemy, R. A. & Hasanien, H. M. Optimal power flow solution in power systems using a novel Sine-Cosine algorithm. International Journal of Electrical Power &amp; Energy Systems vol. 99 331–343 (2018) -- [10.1016/j.ijepes.2018.01.024](https://doi.org/10.1016/j.ijepes.2018.01.024)
+- Attia, A.-F., El Sehiemy, R. A. & Hasanien, H. M. Optimal power flow solution in power systems using a novel Sine-Cosine algorithm. International Journal of Electrical Power & Energy Systems vol. 99 331–343 (2018) -- [10.1016/j.ijepes.2018.01.024](https://doi.org/10.1016/j.ijepes.2018.01.024)
 

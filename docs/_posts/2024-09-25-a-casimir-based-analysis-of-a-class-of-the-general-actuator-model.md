@@ -56,7 +56,7 @@ Actuators; Non-quadratic energy; Mechatronics; Classical circuit theory
 - Bishop, (2007)
 - Breedveld, P.C. (1984). Physical systems theory in terms of bond graphs. Ph.D. thesis, University of Twente, Enschede, The Netherlands.
 - Duindam, (2009)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Haddadin, S., Albu-Schäffer, A. & Hirzinger, G. Requirements for Safe Robots: Measurements, Analysis and New Insights. The International Journal of Robotics Research vol. 28 1507–1527 (2009) -- [10.1177/0278364909343970](https://doi.org/10.1177/0278364909343970)
 - Hogan, N. A General Actuator Model Based on Nonlinear Equivalent Networks. IEEE/ASME Transactions on Mechatronics vol. 19 1929–1939 (2014) -- [10.1109/tmech.2013.2294096](https://doi.org/10.1109/tmech.2013.2294096)
 - [Kugi, A. & Kemmetmüller, W. New Energy-based Nonlinear Controller for Hydraulic Piston Actuators. European Journal of Control vol. 10 163–173 (2004)](new-energy-based-nonlinear-controller-for-hydraulic-piston-actuators) -- [10.3166/ejc.10.163-173](https://doi.org/10.3166/ejc.10.163-173)

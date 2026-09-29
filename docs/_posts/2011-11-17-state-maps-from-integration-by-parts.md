@@ -78,7 +78,7 @@ We develop a new approach to the construction of state vectors for linear time-i
                       , in Proceedings of the 19th International Symposium on Mathematical Theory of Networks and Systems (MTNS, July 5–9, 2010), MTA SZTAKI (Computer and Automation Research Institute, Hungarian Academy of Sciences), Budapest, Hungary, 2010, pp. 685–689.
 - Rapisarda, P. & Trentelman, H. L. Linear Hamiltonian Behaviors and Bilinear Differential Forms. SIAM Journal on Control and Optimization vol. 43 769–791 (2004) -- [10.1137/s0363012902414664](https://doi.org/10.1137/s0363012902414664)
 - Rapisarda, P. & Willems, J. C. State Maps for Linear Systems. SIAM Journal on Control and Optimization vol. 35 1053–1091 (1997) -- [10.1137/s0363012994268412](https://doi.org/10.1137/s0363012994268412)
-- van der Schaft, A. Time-reversible Hamiltonian systems. Systems &amp; Control Letters vol. 1 295–300 (1982) -- [10.1016/s0167-6911(82)80026-1](https://doi.org/10.1016/s0167-6911(82)80026-1)
+- van der Schaft, A. Time-reversible Hamiltonian systems. Systems & Control Letters vol. 1 295–300 (1982) -- [10.1016/s0167-6911(82)80026-1](https://doi.org/10.1016/s0167-6911(82)80026-1)
 - A. J. van der Schaft,
                       System Theoretic Description of Physical Systems
                       , CWI Tract 3, Stichting Mathematisch Centrum, Centrum voor Wiskunde en Informatica, Amsterdam, 1984.

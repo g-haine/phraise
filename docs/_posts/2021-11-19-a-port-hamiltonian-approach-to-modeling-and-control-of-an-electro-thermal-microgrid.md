@@ -54,7 +54,7 @@ Passivity-based control; port-Hamiltonian systems; multi-energy microgrids; dist
  
 ## References
 - Awad, B., Chaudry, M., Jianzhong Wu & Jenkins, N. Integrated optimal power flow for electric power and heat in a microgrid. IET Conference Publications 869–869 (2009) doi:10.1049/cp.2009.1037 -- [10.1049/cp.2009.1037](https://doi.org/10.1049/cp.2009.1037)
-- Bidram, A., Davoudi, A., Lewis, F. L. & Qu, Z. Secondary control of microgrids based on distributed cooperative control of multi‐agent systems. IET Generation, Transmission &amp; Distribution vol. 7 822–831 (2013) -- [10.1049/iet-gtd.2012.0576](https://doi.org/10.1049/iet-gtd.2012.0576)
+- Bidram, A., Davoudi, A., Lewis, F. L. & Qu, Z. Secondary control of microgrids based on distributed cooperative control of multi‐agent systems. IET Generation, Transmission & Distribution vol. 7 822–831 (2013) -- [10.1049/iet-gtd.2012.0576](https://doi.org/10.1049/iet-gtd.2012.0576)
 - [Fiaz, S., Zonetti, D., Ortega, R., Scherpen, J. M. A. & van der Schaft, A. J. A port-Hamiltonian approach to power network modeling and analysis. European Journal of Control vol. 19 477–485 (2013)](a-port-hamiltonian-approach-to-power-network-modeling-and-analysis) -- [10.1016/j.ejcon.2013.09.002](https://doi.org/10.1016/j.ejcon.2013.09.002)
 - Geidl, M. & Andersson, G. Optimal Power Flow of Multiple Energy Carriers. IEEE Transactions on Power Systems vol. 22 145–155 (2007) -- [10.1109/tpwrs.2006.888988](https://doi.org/10.1109/tpwrs.2006.888988)
 - Guerrero, J. M., GarciadeVicuna, L., Matas, J., Castilla, M. & Miret, J. Output Impedance Design of Parallel-Connected UPS Inverters With Wireless Load-Sharing Control. IEEE Transactions on Industrial Electronics vol. 52 1126–1135 (2005) -- [10.1109/tie.2005.851634](https://doi.org/10.1109/tie.2005.851634)
@@ -62,7 +62,7 @@ Passivity-based control; port-Hamiltonian systems; multi-energy microgrids; dist
 - Hatziargyriou, N., Asano, H., Iravani, R. & Marnay, C. Microgrids. IEEE Power and Energy Magazine vol. 5 78–94 (2007) -- [10.1109/mpae.2007.376583](https://doi.org/10.1109/mpae.2007.376583)
 - [Hauschild, S.-A. et al. Port-Hamiltonian Modeling of District Heating Networks. Differential-Algebraic Equations Forum 333–355 (2020) doi:10.1007/978-3-030-53905-4_11](port-hamiltonian-modeling-of-district-heating-networks) -- [10.1007/978-3-030-53905-4_11](https://doi.org/10.1007/978-3-030-53905-4_11)
 - Horn, (2012)
-- Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems &amp; Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
+- Jayawardhana, B., Ortega, R., García-Canseco, E. & Castaños, F. Passivity of nonlinear incremental systems: Application to PI stabilization of nonlinear RLC circuits. Systems & Control Letters vol. 56 618–622 (2007) -- [10.1016/j.sysconle.2007.03.011](https://doi.org/10.1016/j.sysconle.2007.03.011)
 - Kim, Y.-J., Norford, L. K. & Kirtley, J. L. Modeling and Analysis of a Variable Speed Heat Pump for Frequency Regulation Through Direct Load Control. IEEE Transactions on Power Systems vol. 30 397–408 (2015) -- [10.1109/tpwrs.2014.2319310](https://doi.org/10.1109/tpwrs.2014.2319310)
 - Kundur, (1994)
 - Lee, (2019)

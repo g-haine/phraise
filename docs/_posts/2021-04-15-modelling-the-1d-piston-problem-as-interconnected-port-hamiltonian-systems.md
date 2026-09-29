@@ -56,12 +56,12 @@ Piston problem; port-Hamiltonian system; Dirac structure; free boundary; non-lin
 [Download the bib file]({{ site.baseurl }}/assets/bib/modelling-the-1d-piston-problem-as-interconnected-port-hamiltonian-systems.bib)
  
 ## References
-- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems &amp; Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
+- [Altmann, R. & Schulze, P. A port-Hamiltonian formulation of the Navier–Stokes equations for reactive flows. Systems & Control Letters vol. 100 51–55 (2017)](a-port-hamiltonian-formulation-of-the-navier-stokes-equations-for-reactive-flows) -- [10.1016/j.sysconle.2016.12.005](https://doi.org/10.1016/j.sysconle.2016.12.005)
 - Boyer, (2013)
 - Cardoso-Ribeiro, F.L., Matignon, D., and Lef‘evre, L. (2019). A Partitioned Finite-Element Method (PFEM) for power-preserving discretization of open systems of conservation laws. ArXiv:1906.05965.
 - [Cardoso-Ribeiro, F. L., Matignon, D. & Pommier-Budinger, V. A port-Hamiltonian model of liquid sloshing in moving containers and application to a fluid-structure system. Journal of Fluids and Structures vol. 69 402–427 (2017)](a-port-hamiltonian-model-of-liquid-sloshing-in-moving-containers-and-application-to-a-fluid-structure-system) -- [10.1016/j.jfluidstructs.2016.12.007](https://doi.org/10.1016/j.jfluidstructs.2016.12.007)
 - [Diagne, M. & Maschke, B. Port Hamiltonian formulation of a system of two conservation laws with a moving interface. European Journal of Control vol. 19 495–504 (2013)](port-hamiltonian-formulation-of-a-system-of-two-conservation-laws-with-a-moving-interface) -- [10.1016/j.ejcon.2013.09.001](https://doi.org/10.1016/j.ejcon.2013.09.001)
-- Ding, M. & Li, Y. An Overview of Piston Problems in Fluid Dynamics. Springer Proceedings in Mathematics &amp; Statistics 161–191 (2013) doi:10.1007/978-3-642-39007-4_8 -- [10.1007/978-3-642-39007-4_8](https://doi.org/10.1007/978-3-642-39007-4_8)
+- Ding, M. & Li, Y. An Overview of Piston Problems in Fluid Dynamics. Springer Proceedings in Mathematics & Statistics 161–191 (2013) doi:10.1007/978-3-642-39007-4_8 -- [10.1007/978-3-642-39007-4_8](https://doi.org/10.1007/978-3-642-39007-4_8)
 - Duindam, (2009)
 - [Kurula, M., Zwart, H., van der Schaft, A. & Behrndt, J. Dirac structures and their composition on Hilbert spaces. Journal of Mathematical Analysis and Applications vol. 372 402–422 (2010)](dirac-structures-and-their-composition-on-hilbert-spaces) -- [10.1016/j.jmaa.2010.07.004](https://doi.org/10.1016/j.jmaa.2010.07.004)
 - Le Gorrec, (2004)

@@ -49,5 +49,5 @@ This paper is devoted to path following control for port-Hamiltonian systems who
 - Li PY, Horowitz R (2001) Passive velocity field control (PVFC). Part I. Geometry and robustness. IEEE Trans Automat Contr 46(9):1346–1359. https://doi.org/10.1109/9.948463 -- [10.1109/9.948463](https://doi.org/10.1109/9.948463)
 - 5) V. Duindam and S. Stramigioli: Passive asymptotic curve tracking, Proc. IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control, 229/234 (2003)
 - Duindam V, Stramigioli S, Scherpen JMA (2004) Passive Compensation of Nonlinear Robot Dynamics. IEEE Trans Robot Automat 20(3):480–487. https://doi.org/10.1109/tra.2004.824693 -- [10.1109/tra.2004.824693](https://doi.org/10.1109/tra.2004.824693)
-- 10) A.J. van der Schaft: <i>L</i><sub>2</sub>-gain and Passivity Techniques in Nonlinear Control, Springer-Verlag (1996)
+- 10) A.J. van der Schaft: \\(L_{2}\\)-gain and Passivity Techniques in Nonlinear Control, Springer-Verlag (1996)
 

@@ -68,7 +68,7 @@ damping injection; energy shaping; passivity; pid; tuning
 - Mizumoto, Control of a flexible arm with input dead zone by a passivity based adaptive output feedback. (2012)
 - Na, (2018)
 - Ortega, (2013)
-- [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems &amp; Control Letters vol. 61 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
+- [Ortega, R. & Romero, J. G. Robust integral control of port-Hamiltonian systems: The case of non-passive outputs with unmatched disturbances. Systems & Control Letters vol. 61 11–17 (2012)](robust-integral-control-of-port-hamiltonian-systems-the-case-of-non-passive-outputs-with-unmatched-disturbances) -- [10.1016/j.sysconle.2011.09.015](https://doi.org/10.1016/j.sysconle.2011.09.015)
 - Ortega, (2021)
 - Quanser (2013). 2 DOF Serial Flexible Joint, Reference Manual. Doc. No. 800, Rev 1.
 - Rubio, J. de J., Zamudio, Z., Pacheco, J. & Mújica Vargas, D. Proportional Derivative Control with Inverse Dead-Zone for Pendulum Systems. Mathematical Problems in Engineering vol. 2013 1–9 (2013) -- [10.1155/2013/173051](https://doi.org/10.1155/2013/173051)

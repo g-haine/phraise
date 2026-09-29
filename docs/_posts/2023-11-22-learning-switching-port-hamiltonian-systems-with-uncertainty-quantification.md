@@ -54,7 +54,7 @@ Bayesian methods; Nonparametric methods; Grey box modelling; Mechatronic systems
  
 ## References
 - Adler, R. J. The Geometry of Random Fields. (2010) doi:10.1137/1.9780898718980 -- [10.1137/1.9780898718980](https://doi.org/10.1137/1.9780898718980)
-- Anderson, R. B., Marshall, J. A., L’Afflitto, A. & Dotterweich, J. M. Model Reference Adaptive Control of Switched Dynamical Systems with Applications to Aerial Robotics. Journal of Intelligent &amp; Robotic Systems vol. 100 1265–1281 (2020) -- [10.1007/s10846-020-01260-7](https://doi.org/10.1007/s10846-020-01260-7)
+- Anderson, R. B., Marshall, J. A., L’Afflitto, A. & Dotterweich, J. M. Model Reference Adaptive Control of Switched Dynamical Systems with Applications to Aerial Robotics. Journal of Intelligent & Robotic Systems vol. 100 1265–1281 (2020) -- [10.1007/s10846-020-01260-7](https://doi.org/10.1007/s10846-020-01260-7)
 - Beckers, Equilibrium distributions and stability analysis of Gaussian process state space models. (2016)
 - Beckers, Gaussian process port-Hamiltonian systems: Bayesian learning with physics prior. (2022)
 - Bhouri, Gaussian processes meet NeuralODEs: a Bayesian framework for learning the dynamics of partially observed systems from scarce and noisy data. Philosophical Transactions of the Royal Society A (2022)
@@ -79,5 +79,5 @@ Bayesian methods; Nonparametric methods; Grey box modelling; Mechatronic systems
 - Wilson, Kernel interpolation for scalable structured Gaussian processes (KISS-GP). (2015)
 - Wilson, Efficiently sampling functions from Gaussian process posteriors. (2020)
 - Winkler, A.W. (2017). Xpp - A collection of ROS packages for the visualization of legged robots. URL https://doi.org/10.5281/zenodo.1037901.
-- Wu, X., Zhang, K., Cheng, M. & Xin, X. A switched dynamical system approach towards the economic dispatch of renewable hybrid power systems. International Journal of Electrical Power &amp; Energy Systems vol. 103 440–457 (2018) -- [10.1016/j.ijepes.2018.06.016](https://doi.org/10.1016/j.ijepes.2018.06.016)
+- Wu, X., Zhang, K., Cheng, M. & Xin, X. A switched dynamical system approach towards the economic dispatch of renewable hybrid power systems. International Journal of Electrical Power & Energy Systems vol. 103 440–457 (2018) -- [10.1016/j.ijepes.2018.06.016](https://doi.org/10.1016/j.ijepes.2018.06.016)
 

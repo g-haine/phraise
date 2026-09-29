@@ -51,7 +51,7 @@ This paper presents a nonlinear observer for DC-DC power converters based on an 
 - Balluchi, Observability for hybrid systems. (2003)
 - Barbot, State observer and observability conditions for a class of hybrid continuous-discrete dynamic system. (2007)
 - Caliskan, V. A., Verghese, O. C. & Stankovic, A. M. Multifrequency averaging of DC/DC converters. IEEE Trans. Power Electron. 14, 124–133 (1999) -- [10.1109/63.737600](https://doi.org/10.1109/63.737600)
-- Gensior, A., Woywode, O., Rudolph, J. & Guldner, H. On Differential Flatness, Trajectory Planning, Observers, and Stabilization for DC&amp;#8211;DC Converters. IEEE Trans. Circuits Syst. I 53, 2000–2010 (2006) -- [10.1109/tcsi.2006.880342](https://doi.org/10.1109/tcsi.2006.880342)
+- Gensior, A., Woywode, O., Rudolph, J. & Guldner, H. On Differential Flatness, Trajectory Planning, Observers, and Stabilization for DC–DC Converters. IEEE Trans. Circuits Syst. I 53, 2000–2010 (2006) -- [10.1109/tcsi.2006.880342](https://doi.org/10.1109/tcsi.2006.880342)
 - Ghanes, On sliding mode and adaptative observers design for multicell converter. (2009)
 - Hultgren, Convergence of a switched hamiltonian observer applied to an slr converter. (2002)
 - Jaafar, Experimental validation with a control point of view analysis of the sepic converter. (2009)
@@ -60,5 +60,5 @@ This paper presents a nonlinear observer for DC-DC power converters based on an 
 - Poznyak, Identification of parameters in dynamic systems via sliding-mode techniques. Advances in Variable Structure (2006)
 - Van Der Schaft, Port-hamiltonian systems : network modeling and control of nonlinear physical systems. Dynamics and Control (2004)
 - Sun, Z., Ge, S. S. & Lee, T. H. Controllability and reachability criteria for switched linear systems. Automatica 38, 775–786 (2002) -- [10.1016/s0005-1098(01)00267-9](https://doi.org/10.1016/s0005-1098(01)00267-9)
-- Zhao, S. & Sun, J. Controllability and observability for time‐varying switched impulsive controlled systems. Intl J Robust &amp; Nonlinear 20, 1313–1325 (2010) -- [10.1002/rnc.1510](https://doi.org/10.1002/rnc.1510)
+- Zhao, S. & Sun, J. Controllability and observability for time‐varying switched impulsive controlled systems. Intl J Robust & Nonlinear 20, 1313–1325 (2010) -- [10.1002/rnc.1510](https://doi.org/10.1002/rnc.1510)
 

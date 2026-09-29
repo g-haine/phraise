@@ -47,10 +47,10 @@ The paper is concerned with the stabilization of nonholonomic systems in port-co
 - Khennouf, H., Canudas de Wit, C. & van der Schaft, A. J. Preliminary results on asymptotic stabilization of Hamiltonian systems with nonholonomic constraints. Proceedings of 1995 34th IEEE Conference on Decision and Control vol. 4 4305–4310 -- [10.1109/cdc.1995.478917](https://doi.org/10.1109/cdc.1995.478917)
 - Maschke, B. M. & van der Schaft, A. J. A Hamiltonian approach to stabilization of nonholonomic mechanical systems. Proceedings of 1994 33rd IEEE Conference on Decision and Control vol. 3 2950–2954 -- [10.1109/cdc.1994.411344](https://doi.org/10.1109/cdc.1994.411344)
 - fujimoto, Stabilization of a class of Hamiltonian systems with nonholonomic constraints via canonical transformations. Proc ECC 99 (1999)
-- Pomet, J.-B. Explicit design of time-varying stabilizing control laws for a class of controllable systems without drift. Systems &amp; Control Letters 18, 147–158 (1992) -- [10.1016/0167-6911(92)90019-o](https://doi.org/10.1016/0167-6911(92)90019-o)
+- Pomet, J.-B. Explicit design of time-varying stabilizing control laws for a class of controllable systems without drift. Systems & Control Letters 18, 147–158 (1992) -- [10.1016/0167-6911(92)90019-o](https://doi.org/10.1016/0167-6911(92)90019-o)
 - fujimoto, Stabilization of a class of Hamiltonian systems with nonholonomic constraints and its experimental evaluation. Proc 38th IEEE Conf on Decision and Control (1999)
 - Van Der Schaft, A. J. & Maschke, B. M. On the Hamiltonian formulation of nonholonomic mechanical systems. Reports on Mathematical Physics 34, 225–233 (1994) -- [10.1016/0034-4877(94)90038-8](https://doi.org/10.1016/0034-4877(94)90038-8)
-- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods &amp; Applications 10, 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
+- van der Schaft, A. J. Stabilization of Hamiltonian systems. Nonlinear Analysis: Theory, Methods & Applications 10, 1021–1035 (1986) -- [10.1016/0362-546x(86)90086-6](https://doi.org/10.1016/0362-546x(86)90086-6)
 - Takegaki, M. & Arimoto, S. A New Feedback Method for Dynamic Control of Manipulators. Journal of Dynamic Systems, Measurement, and Control 103, 119–125 (1981) -- [10.1115/1.3139651](https://doi.org/10.1115/1.3139651)
 - (0)
 

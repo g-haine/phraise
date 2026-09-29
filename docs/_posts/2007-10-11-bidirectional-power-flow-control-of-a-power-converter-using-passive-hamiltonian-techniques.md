@@ -60,7 +60,7 @@ A controller able to achieve bidirectional power flow for a boost‐like full‐
 - Putting energy back in control. IEEE Control Systems vol. 21 18–33 (2001) -- [10.1109/37.915398](https://doi.org/10.1109/37.915398)
 - Krein, P. T., Bentsman, J., Bass, R. M. & Lesieutre, B. L. On the use of averaging for the analysis of power electronic systems. IEEE Transactions on Power Electronics vol. 5 182–190 (1990) -- [10.1109/63.53155](https://doi.org/10.1109/63.53155)
 - Tse, C. K. Circuit theory of power factor correction in switching converters. International Journal of Circuit Theory and Applications vol. 31 157–198 (2003) -- [10.1002/cta.216](https://doi.org/10.1002/cta.216)
-- Fossas-Colet, E. & Olm-Miras, J. M. Asymptotic tracking in DC-to-DC nonlinear power converters. Discrete &amp; Continuous Dynamical Systems - B vol. 2 295–307 (2002) -- [10.3934/dcdsb.2002.2.295](https://doi.org/10.3934/dcdsb.2002.2.295)
+- Fossas-Colet, E. & Olm-Miras, J. M. Asymptotic tracking in DC-to-DC nonlinear power converters. Discrete & Continuous Dynamical Systems - B vol. 2 295–307 (2002) -- [10.3934/dcdsb.2002.2.295](https://doi.org/10.3934/dcdsb.2002.2.295)
 - Griñó R, Sliding Mode Control of a Full‐bridge Unity Power Factor Rectifier (2002)
 - Dòria‐CerezoA. Modeling simulation and control of a doubly‐fed induction machine controlled by a back‐to‐back converter. Ph.D. Dissertation Universitat Politècnica de Catalunya 2006. (Available online:http://www.tdcat.cesca.es/TDX‐1212106‐110114/index.html.)
 - van der Schaft, A. L2 - Gain and Passivity Techniques in Nonlinear Control. Communications and Control Engineering (Springer London, 2000). doi:10.1007/978-1-4471-0507-7 -- [10.1007/978-1-4471-0507-7](https://doi.org/10.1007/978-1-4471-0507-7)

@@ -53,7 +53,7 @@ Submarine dynamics; Submarine control; Underactuated; Non-neutral buoyancy; Nonl
 [Download the bib file]({{ site.baseurl }}/assets/bib/nonlinear-control-of-a-subscale-submarine-in-emergency-ascent.bib)
  
 ## References
-- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems &amp; Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
+- Astolfi, A., Chhabra, D. & Ortega, R. Asymptotic stabilization of some equilibria of an underactuated underwater vehicle. Systems & Control Letters vol. 45 193–206 (2002) -- [10.1016/s0167-6911(01)00176-1](https://doi.org/10.1016/s0167-6911(01)00176-1)
 - Battista, Energy-based disturbance rejection for an underwater vehicle in long-crested waves. (2017)
 - Battista, Underwater vehicle depth and attitude regulation in plane progressive waves. (2015)
 - Brogliato, (2007)
@@ -67,7 +67,7 @@ Submarine dynamics; Submarine control; Underactuated; Non-neutral buoyancy; Nonl
 - Fossen, (2011)
 - Fossen, A survey of control allocation methods for ships and underwater vehicles. (2006)
 - Fossen, A survey of control allocation methods for underwater vehicles. (2009)
-- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems &amp; Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
+- Fujimoto, K. & Sugie, T. Canonical transformation and stabilization of generalized Hamiltonian systems. Systems & Control Letters vol. 42 217–227 (2001) -- [10.1016/s0167-6911(00)00091-8](https://doi.org/10.1016/s0167-6911(00)00091-8)
 - Gertler, (1967)
 - Joubert, (2004)
 - Leonard, N. E. Stability of a bottom-heavy underwater vehicle. Automatica vol. 33 331–346 (1997) -- [10.1016/s0005-1098(96)00176-8](https://doi.org/10.1016/s0005-1098(96)00176-8)

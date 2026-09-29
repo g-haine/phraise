@@ -47,7 +47,7 @@ albedo effect, dissipation injection, energy shaping, non-ideal solar sail, port
 [Download the bib file]({{ site.baseurl }}/assets/bib/controlling-the-libration-point-orbits-for-crtbp-with-non-ideal-solar-sail-and-albedo-effect.bib)
  
 ## References
-- Zotos EE, Chen W, Abouelmagd EI, Han H (2020) Basins of convergence of equilibrium points in the restricted three-body problem with modified gravitational potential. Chaos, Solitons &amp; Fractals 134:109704. https://doi.org/10.1016/j.chaos.2020.10970 -- [10.1016/j.chaos.2020.109704](https://doi.org/10.1016/j.chaos.2020.109704)
+- Zotos EE, Chen W, Abouelmagd EI, Han H (2020) Basins of convergence of equilibrium points in the restricted three-body problem with modified gravitational potential. Chaos, Solitons & Fractals 134:109704. https://doi.org/10.1016/j.chaos.2020.10970 -- [10.1016/j.chaos.2020.109704](https://doi.org/10.1016/j.chaos.2020.109704)
 - Macdonald, (2014)
 - Dunham DW, Roberts CE (2001) Stationkeeping Techniques for Libration-Point Satellites. J of Astronaut Sci 49(1):127–144. https://doi.org/10.1007/bf0354634 -- [10.1007/bf03546340](https://doi.org/10.1007/bf03546340)
 - Farquhar, The control and use of libration-point satellites. Natl Aeronaut Space Adm (1970)

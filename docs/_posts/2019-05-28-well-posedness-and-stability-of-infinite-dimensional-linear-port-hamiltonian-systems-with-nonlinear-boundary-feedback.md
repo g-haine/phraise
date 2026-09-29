@@ -49,7 +49,7 @@ Boundary feedback stabilisation of linear port-Hamiltonian systems on an interva
 - B. Augner,
                       Stabilisation of Infinite-Dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback
                       , Ph.D. thesis, Bergische Universität Wuppertal, Wuppertal, Germany, 2016.
-- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations &amp; Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
+- [Augner, B. & Jacob, B. Stability and stabilization of infinite-dimensional linear port-Hamiltonian systems. Evolution Equations & Control Theory vol. 3 207–229 (2014)](stability-and-stabilization-of-infinite-dimensional-linear-port-hamiltonian-systems) -- [10.3934/eect.2014.3.207](https://doi.org/10.3934/eect.2014.3.207)
 - Brezis H (2011) Functional Analysis, Sobolev Spaces and Partial Differential Equations. Springer New York, New York, NY -- [10.1007/978-0-387-70914-7](https://doi.org/10.1007/978-0-387-70914-7)
 - Calvert, B. & Gustafson, K. Multiplicative perturbation of nonlinear m-accretive operators. Journal of Functional Analysis vol. 10 149–158 (1972) -- [10.1016/0022-1236(72)90046-8](https://doi.org/10.1016/0022-1236(72)90046-8)
 - Conrad F., Berlin (1990)

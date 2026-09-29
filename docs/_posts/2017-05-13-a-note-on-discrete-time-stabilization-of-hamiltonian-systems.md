@@ -51,10 +51,10 @@ conservation, discrete-time systems, hamiltonian systems, nonlinear systems, sta
 ## References
 - [Gonzalez, O. Time integration and discrete Hamiltonian systems. J Nonlinear Sci 6, 449–467 (1996)](time-integration-and-discrete-hamiltonian-systems) -- [10.1007/bf02440162](https://doi.org/10.1007/bf02440162)
 - Laila, D. S. & Nešić, D. Changing supply rates for input–output to state stable discrete-time nonlinear systems with applications. Automatica 39, 821–835 (2003) -- [10.1016/s0005-1098(03)00055-4](https://doi.org/10.1016/s0005-1098(03)00055-4)
-- Nešić, D., Teel, A. R. & Sontag, E. D. Formulas relating stability estimates of discrete-time and sampled-data nonlinear systems. Systems &amp; Control Letters 38, 49–60 (1999) -- [10.1016/s0167-6911(99)00046-8](https://doi.org/10.1016/s0167-6911(99)00046-8)
-- Nešić, D., Teel, A. R. & Kokotović, P. V. Sufficient conditions for stabilization of sampled-data nonlinear systems via discrete-time approximations. Systems &amp; Control Letters 38, 259–270 (1999) -- [10.1016/s0167-6911(99)00073-0](https://doi.org/10.1016/s0167-6911(99)00073-0)
+- Nešić, D., Teel, A. R. & Sontag, E. D. Formulas relating stability estimates of discrete-time and sampled-data nonlinear systems. Systems & Control Letters 38, 49–60 (1999) -- [10.1016/s0167-6911(99)00046-8](https://doi.org/10.1016/s0167-6911(99)00046-8)
+- Nešić, D., Teel, A. R. & Kokotović, P. V. Sufficient conditions for stabilization of sampled-data nonlinear systems via discrete-time approximations. Systems & Control Letters 38, 259–270 (1999) -- [10.1016/s0167-6911(99)00073-0](https://doi.org/10.1016/s0167-6911(99)00073-0)
 - Nešić, A framework for stabilization of nonlinear sampled-data systems based on their approximate discrete-time models. accepted in IEEE Trans. (2004)
-- Outbib, R. & Sallet, G. Stabilizability of the angular velocity of a rigid body revisited. Systems &amp; Control Letters 18, 93–98 (1992) -- [10.1016/0167-6911(92)90013-i](https://doi.org/10.1016/0167-6911(92)90013-i)
+- Outbib, R. & Sallet, G. Stabilizability of the angular velocity of a rigid body revisited. Systems & Control Letters 18, 93–98 (1992) -- [10.1016/0167-6911(92)90013-i](https://doi.org/10.1016/0167-6911(92)90013-i)
 - Stuart, (1996)
 - van der Schaft, (2000)
 - Warshaw, G. D. & Schwartz, H. M. Sampled-Data Robot Adaptive Control With Stabilizing Compensation. The International Journal of Robotics Research 15, 78–91 (1996) -- [10.1177/027836499601500105](https://doi.org/10.1177/027836499601500105)
