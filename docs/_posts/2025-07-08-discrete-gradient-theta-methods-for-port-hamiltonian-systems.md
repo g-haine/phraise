@@ -1,5 +1,5 @@
 ---
-title: "Discrete Gradient \\\\( \\theta \\\\)-Methods for Port-Hamiltonian Systems"
+title: "Discrete Gradient \\( \\theta \\)-Methods for Port-Hamiltonian Systems"
 date: 2025-07-08 00:00:00 +0100
 permalink: discrete-gradient-theta-methods-for-port-hamiltonian-systems
 year: 2026

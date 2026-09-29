@@ -10,7 +10,7 @@ tags:
   - Simultaneous stabilization
   - Augmented PCH structure
   - Zero-state detectability
-  - \\( L^2 \\)-disturbance attenuation
+  - \( L^2 \)-disturbance attenuation
   - Adaptive/robust simultaneous stabilization controller
 ---
  

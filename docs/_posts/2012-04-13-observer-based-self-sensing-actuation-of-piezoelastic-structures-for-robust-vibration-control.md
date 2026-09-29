@@ -6,7 +6,7 @@ year: 2012
 authors: Thomas Rittenschober, Kurt Schlacher
 category: articles
 tags:
-  - disturbance observer, frequency estimator, hamilton–jacobi inequality, \\( L^2 \\)-stability, piezoelectric material, self sensing actuation, small gain theorem, smart structure, sylvester equation, unknown harmonic disturbance, vibration control
+  - disturbance observer, frequency estimator, hamilton–jacobi inequality, \( L^2 \)-stability, piezoelectric material, self sensing actuation, small gain theorem, smart structure, sylvester equation, unknown harmonic disturbance, vibration control
 ---
  
 ## Authors

@@ -1,5 +1,5 @@
 ---
-title: "Distributed control of spacecraft formation under \\\\( J2 \\\\) perturbation in the port-Hamiltonian framework"
+title: "Distributed control of spacecraft formation under \\( J2 \\) perturbation in the port-Hamiltonian framework"
 date: 2024-08-29 00:00:00 +0100
 permalink: distributed-control-of-spacecraft-formation-under-j2-perturbation-in-the-port-hamiltonian-framework
 year: 2024
@@ -7,7 +7,7 @@ authors: Wenkang Hao, Qifeng Chen, Caisheng Wei, Yuxin Liao
 category: articles
 tags:
   - Port-Hamiltonian system
-  - \\( J2 \\) perturbation
+  - \( J2 \) perturbation
   - Nonlinear model
   - Spacecraft formation
   - Distributed

@@ -10,7 +10,7 @@ tags:
   - Exponential stability
   - Semi-discretization
   - Finite difference
-  - \\( C_0 \\)-Semigroup
+  - \( C_0 \)-Semigroup
 ---
  
 ## Authors

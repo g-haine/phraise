@@ -10,7 +10,7 @@ tags:
   - Structure-preserving model-order reduction
   - Passivity
   - Spectral factorization
-  - \\( H^2 \\)-optimal
+  - \( H^2 \)-optimal
 ---
  
 ## Authors

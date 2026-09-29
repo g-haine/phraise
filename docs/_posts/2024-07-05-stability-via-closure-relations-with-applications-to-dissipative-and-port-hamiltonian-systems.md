@@ -9,7 +9,7 @@ tags:
   - Port-Hamiltonian systems
   - Closure relations
   - Exponential stability
-  - \\( C_0 \\) -semigroups
+  - \( C_0 \) -semigroups
   - 93D23
   - 37K40
   - 47D06

@@ -1,5 +1,5 @@
 ---
-title: "Interpolatory \\\\( \\boldsymbol {{\\mathcal {H}}_{2}} \\\\)-Optimality Conditions for Structured Linear Time-Invariant Systems"
+title: "Interpolatory \\( \\boldsymbol {{\\mathcal {H}}_{2}} \\)-Optimality Conditions for Structured Linear Time-Invariant Systems"
 date: 2025-04-22 00:00:00 +0100
 permalink: interpolatory-boldsymbol-mathcal-h-2-optimality-conditions-for-structured-linear-time-invariant-systems
 year: 2025
@@ -47,7 +47,7 @@ category: articles
 - Aumann Q, Werner SWR (2024) Adaptive choice of near-optimal expansion points for interpolation-based structure-preserving model reduction. Adv Comput Math 50(4). https://doi.org/10.1007/s10444-024-10166- -- [10.1007/s10444-024-10166-z](https://doi.org/10.1007/s10444-024-10166-z)
 - Bai Z (2002) Krylov subspace techniques for reduced-order modeling of large-scale dynamical systems. Applied Numerical Mathematics 43(1–2):9–44. https://doi.org/10.1016/s0168-9274(02)00116- -- [10.1016/s0168-9274(02)00116-2](https://doi.org/10.1016/s0168-9274(02)00116-2)
 - Bai Z, Su Y (2005) Dimension Reduction of Large-Scale Second-Order Dynamical Systems via a Second-Order Arnoldi Method. SIAM J Sci Comput 26(5):1692–1709. https://doi.org/10.1137/04060555 -- [10.1137/040605552](https://doi.org/10.1137/040605552)
-- C. A. Beattie and P. Benner, \(\mathcal {H}_2\)-Optimality Conditions for Structured Dynamical Systems, preprint, MPIMD/14-18, Max Planck Institute Magdeburg, 2014, https://csc.mpi-magdeburg.mpg.de/preprints/2014/MPIMD14-18.pdf.
+- C. A. Beattie and P. Benner, \\(\mathcal {H}_2\\)-Optimality Conditions for Structured Dynamical Systems, preprint, MPIMD/14-18, Max Planck Institute Magdeburg, 2014, https://csc.mpi-magdeburg.mpg.de/preprints/2014/MPIMD14-18.pdf.
 - Beattie C, Gugercin S (2009) Interpolatory projection methods for structure-preserving model reduction. Systems &amp; Control Letters 58(3):225–232. https://doi.org/10.1016/j.sysconle.2008.10.01 -- [10.1016/j.sysconle.2008.10.016](https://doi.org/10.1016/j.sysconle.2008.10.016)
 - Beattie CA, Gugercin S Krylov-based model reduction of second-order systems with proportional damping. Proceedings of the 44th IEEE Conference on Decision and Control 2278–228 -- [10.1109/cdc.2005.1582501](https://doi.org/10.1109/cdc.2005.1582501)
 - Beattie C, Gugercin S (2012) Realization-independent &amp;#x210C;&lt;inf&gt;2&lt;/inf&gt;-approximation. 2012 IEEE 51st IEEE Conference on Decision and Control (CDC) 4953–495 -- [10.1109/cdc.2012.6426344](https://doi.org/10.1109/cdc.2012.6426344)
@@ -64,9 +64,9 @@ category: articles
 - Marsden J. E., Basic Complex Analysis (1999)
 - [Mehrmann V, Unger B (2023) Control of port-Hamiltonian differential-algebraic systems and applications. Acta Numerica 32:395–515. https://doi.org/10.1017/s096249292200008](control-of-port-hamiltonian-differential-algebraic-systems-and-applications) -- [10.1017/s0962492922000083](https://doi.org/10.1017/s0962492922000083)
 - Meier L, Luenberger D (1967) Approximation of linear constant systems. IEEE Trans Automat Contr 12(5):585–588. https://doi.org/10.1109/tac.1967.109868 -- [10.1109/tac.1967.1098680](https://doi.org/10.1109/tac.1967.1098680)
-- P. Mlinarić, Numerical Examples for Structured \(\mathcal {H}_2\)-Optimality Conditions, 2024, https://github.com/pmli/h2-opt-st-interp-num/tree/v1.
-- Mlinarić P, Gugercin S (2023) \(\boldsymbol{\mathcal{L}_2}\)-Optimal Reduced-Order Modeling Using Parameter-Separable Forms. SIAM J Sci Comput 45(2):A554–A578. https://doi.org/10.1137/22m150067 -- [10.1137/22m1500678](https://doi.org/10.1137/22m1500678)
-- Mlinarić P, Gugercin S (2023) A Unifying Framework for Interpolatory \({\boldsymbol{\mathcal{L}_2}}\)-Optimal Reduced-Order Modeling. SIAM J Numer Anal 61(5):2133–2156. https://doi.org/10.1137/22m151692 -- [10.1137/22m1516920](https://doi.org/10.1137/22m1516920)
+- P. Mlinarić, Numerical Examples for Structured \\(\mathcal {H}_2\\)-Optimality Conditions, 2024, https://github.com/pmli/h2-opt-st-interp-num/tree/v1.
+- Mlinarić P, Gugercin S (2023) \\(\boldsymbol{\mathcal{L}_2}\\)-Optimal Reduced-Order Modeling Using Parameter-Separable Forms. SIAM J Sci Comput 45(2):A554–A578. https://doi.org/10.1137/22m150067 -- [10.1137/22m1500678](https://doi.org/10.1137/22m1500678)
+- Mlinarić P, Gugercin S (2023) A Unifying Framework for Interpolatory \\({\boldsymbol{\mathcal{L}_2}}\\)-Optimal Reduced-Order Modeling. SIAM J Numer Anal 61(5):2133–2156. https://doi.org/10.1137/22m151692 -- [10.1137/22m1516920](https://doi.org/10.1137/22m1516920)
 - [Moser T, Lohmann B (2020) A New Riemannian Framework for Efficient ℋ2-Optimal Model Reduction of Port-Hamiltonian Systems. 2020 59th IEEE Conference on Decision and Control (CDC) 5043–504](a-new-riemannian-framework-for-efficient-h-sub-2-sub-optimal-model-reduction-of-port-hamiltonian-systems) -- [10.1109/cdc42340.2020.9304134](https://doi.org/10.1109/cdc42340.2020.9304134)
 - Nelder JA, Mead R (1965) A Simplex Method for Function Minimization. The Computer Journal 7(4):308–313. https://doi.org/10.1093/comjnl/7.4.30 -- [10.1093/comjnl/7.4.308](https://doi.org/10.1093/comjnl/7.4.308)
 - I. Pontes Duff, personal communication, 2023.

@@ -6,7 +6,7 @@ year: 2018
 authors: Kazuhiro Sato
 category: articles
 tags:
-  - \\( H^2 \\) optimal model reduction
+  - \( H^2 \) optimal model reduction
   - Linear port-Hamiltonian system
   - Riemannian optimization
 ---

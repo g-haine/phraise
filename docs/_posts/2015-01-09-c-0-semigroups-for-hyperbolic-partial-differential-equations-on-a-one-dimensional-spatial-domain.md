@@ -6,7 +6,7 @@ year: 2015
 authors: Birgit Jacob, Kirsten Morris, Hans Zwart
 category: articles
 tags:
-  - \\( C_0 \\)-semigroups
+  - \( C_0 \)-semigroups
   - Hyperbolic partial differential equations
   - Port-Hamiltonian differential equations
 ---
