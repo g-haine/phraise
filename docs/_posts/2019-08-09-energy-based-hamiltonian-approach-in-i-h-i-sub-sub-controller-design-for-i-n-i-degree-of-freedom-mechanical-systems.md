@@ -1,5 +1,5 @@
 ---
-title: "Energy-based Hamiltonian approach in <i>H</i><sub>∞</sub> controller design for <i>n</i>-degree of freedom mechanical systems"
+title: "Energy-based Hamiltonian approach in \\(H_{\\infty}\\) controller design for \\(n\\)-degree of freedom mechanical systems"
 date: 2019-08-09 00:00:00 +0100
 permalink: energy-based-hamiltonian-approach-in-i-h-i-sub-sub-controller-design-for-i-n-i-degree-of-freedom-mechanical-systems
 year: 2019

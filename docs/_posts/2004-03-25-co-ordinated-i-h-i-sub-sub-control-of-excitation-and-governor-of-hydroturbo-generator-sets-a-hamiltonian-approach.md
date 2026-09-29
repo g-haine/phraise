@@ -1,5 +1,5 @@
 ---
-title: "Co‐ordinated<i>H</i><sub>∞</sub>control of excitation and governor of hydroturbo‐generator sets: a Hamiltonian approach"
+title: "Co‐ordinated \\(H_{\\infty}\\) control of excitation and governor of hydroturbo‐generator sets: a Hamiltonian approach"
 date: 2004-03-25 00:00:00 +0100
 permalink: co-ordinated-i-h-i-sub-sub-control-of-excitation-and-governor-of-hydroturbo-generator-sets-a-hamiltonian-approach
 year: 2004

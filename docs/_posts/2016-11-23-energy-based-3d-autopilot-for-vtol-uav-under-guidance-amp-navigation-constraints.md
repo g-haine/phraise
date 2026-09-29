@@ -1,5 +1,5 @@
 ---
-title: "Energy Based 3D Autopilot for VTOL UAV Under Guidance &amp; Navigation Constraints"
+title: "Energy Based 3D Autopilot for VTOL UAV Under Guidance & Navigation Constraints"
 date: 2016-11-23 00:00:00 +0100
 permalink: energy-based-3d-autopilot-for-vtol-uav-under-guidance-amp-navigation-constraints
 year: 2017
