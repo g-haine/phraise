@@ -55,5 +55,13 @@
         data-goatcounter-settings='{"path": "{% if page.permalink %}{{ page.permalink }}{% else %}home{% endif %}"}'
         async src="https://gc.zgo.at/count.js"></script>
 <!-- MathJax -->
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://jsdelivr.net"></script>
 </footer>
