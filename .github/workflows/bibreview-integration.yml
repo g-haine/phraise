@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   integration:
@@ -30,30 +30,6 @@ jobs:
 
       - name: Validate PHRAISE BibReview configuration
         run: bibreview --config bibreview.yml validate
-
-      - name: Generate first reviewed DOI-less import
-        if: github.event_name == 'pull_request' && github.head_ref == 'feature/import-heat-wave-2022'
-        env:
-          IMPORT_MANIFEST: manual-imports/long-time-behavior-heat-wave-2022.yml
-        run: |
-          git fetch origin "$GITHUB_HEAD_REF"
-          git checkout -B "$GITHUB_HEAD_REF" "origin/$GITHUB_HEAD_REF"
-
-          bibreview --config bibreview.yml --dry-run import "$IMPORT_MANIFEST"
-          bibreview --config bibreview.yml import "$IMPORT_MANIFEST"
-          bibreview --config bibreview.yml --dry-run merge
-          bibreview --config bibreview.yml merge
-          bibreview --config bibreview.yml authors
-          bibreview --config bibreview.yml render
-
-          rm "$IMPORT_MANIFEST"
-          rmdir manual-imports 2>/dev/null || true
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Import DOI-less heat-wave publication"
-          git push origin "HEAD:${GITHUB_HEAD_REF}"
 
       - name: Validate canonical project state
         run: bibreview --config bibreview.yml --dry-run merge
