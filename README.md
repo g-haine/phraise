@@ -15,12 +15,16 @@ continuous integration.
 BibReview v1.6.42 also preserves ordinary TeX braces losslessly in generated
 Jekyll publication text while protecting actual Liquid openers.
 
-## Contributing new DOIs
+## Contributing publications
 
-Contributions are welcome in the form of DOI submissions:
+Contributions are welcome for published work within the PHRAISE scope.
 
-- open a pull request adding typed `doi:<value>` entries to `data/newID.txt`;
-- or send them by email to <ghislain.haine@isae.fr>.
+For a publication with a DOI:
+
+- open a pull request adding a typed `doi:<value>` entry to `data/newID.txt`;
+- or send the DOI by email to <ghislain.haine@isae.fr>.
+
+DOI is PHRAISE's sole strong/automatable identifier. For a publication without a DOI, do not place an ISBN, arXiv ID, PMLR ID, publisher ID, or invented DOI in `data/newID.txt`. Instead, provide an official source and reviewed bibliographic information. Maintainers use BibReview's manual-import workflow so the source, provenance, metadata and BibTeX remain inspectable before the ordinary merge boundary.
 
 ## Project architecture
 
@@ -40,6 +44,7 @@ Important state files are:
   proposal/review state for human-reviewed missing-field enrichment and safe
   refresh, separate from canonical staging and ignored by Git;
 - `bib/` — tracked BibTeX sources;
+- `data/imports/` — normalized reviewed evidence for DOI-less manual imports;
 - `data/ID.txt` — one typed identifier token per canonical publication;
 - `data/newID.txt`, `data/checkID.txt`, `data/badID.txt` — DOI-only
   automated acquisition state. DOI remains PHRAISE's sole strong/automatable
@@ -420,6 +425,19 @@ therefore unnecessary here.
    bibreview merge
    ```
 
+   For a reviewed publication without a DOI, use the separate manual-import path:
+
+   ```bash
+   bibreview import --init publication.yml
+   # Review and complete publication.yml from an official source.
+   bibreview --dry-run import publication.yml
+   bibreview import publication.yml
+   bibreview --dry-run merge
+   bibreview merge
+   ```
+
+   DOI-less imports retain their normalized evidence under `data/imports/`. They never fabricate a DOI and never use an auxiliary identifier as an automated acquisition key.
+
 6. Review author identities:
 
    ```bash
@@ -460,7 +478,7 @@ state and generated artifacts through a pull request.
 PHRAISE uses Jekyll for presentation. Install Ruby and Bundler, then:
 
 ```bash
-cd docs
+cd site
 bundle install
 bundle exec jekyll serve --watch
 ```
