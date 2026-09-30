@@ -3,7 +3,7 @@ title: Authors
 permalink: /authors/
 ---
 
-<h3>There are 2658 authors referenced.</h3>
+<h3>There are 2661 authors referenced.</h3>
 <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
 <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/bibreview/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
 <hr />
@@ -420,6 +420,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/domingo-cortes'>Domingo Cortes</a>
 <a href='{{ site.baseurl }}/authors/francoise-couenne'>Françoise Couenne</a>
 <a href='{{ site.baseurl }}/authors/theodore-james-courant'>Theodore James Courant</a>
+<a href='{{ site.baseurl }}/authors/florian-courteville'>Florian Courteville</a>
 <a href='{{ site.baseurl }}/authors/andrea-cristofaro'>Andrea Cristofaro</a>
 <a href='{{ site.baseurl }}/authors/jorge-alberto-estopier-de-la-cruz'>Jorge Alberto Estopier de la Cruz</a>
 <a href='{{ site.baseurl }}/authors/michele-cucuzzella'>Michele Cucuzzella</a>
@@ -510,6 +511,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/guangren-duan'>Guangren Duan</a>
 <a href='{{ site.baseurl }}/authors/manuel-a-duarte-mermoud'>Manuel A. Duarte-Mermoud</a>
 <a href='{{ site.baseurl }}/authors/stevan-dubljevic'>Stevan Dubljevic</a>
+<a href='{{ site.baseurl }}/authors/sylvain-dubreuil'>Sylvain Dubreuil</a>
 <a href='{{ site.baseurl }}/authors/michele-ducceschi'>Michele Ducceschi</a>
 <a href='{{ site.baseurl }}/authors/vincent-duindam'>Vincent Duindam</a>
 <a href='{{ site.baseurl }}/authors/thai-duong'>Thai Duong</a>
@@ -845,6 +847,7 @@ permalink: /authors/
 <a href='{{ site.baseurl }}/authors/l-van-der-heijden'>L. van der Heijden</a>
 <a href='{{ site.baseurl }}/authors/e-helerea'>E. Helerea</a>
 <a href='{{ site.baseurl }}/authors/thomas-helie'>Thomas Hélie</a>
+<a href='{{ site.baseurl }}/authors/iain-henderson'>Iain Henderson</a>
 <a href='{{ site.baseurl }}/authors/marvin-lucas-henkel'>Marvin-Lucas Henkel</a>
 <a href='{{ site.baseurl }}/authors/a-henni'>A. Henni</a>
 <a href='{{ site.baseurl }}/authors/julius-herb'>Julius Herb</a>
