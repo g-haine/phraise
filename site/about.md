@@ -16,7 +16,7 @@ PHRAISE is powered by [**BibReview**](https://github.com/g-haine/bibreview), an 
 
 Contributions are welcome in the form of **DOI submissions**. You can:
 
-- Submit a **pull request** adding new DOI values to `docs/newDOI.txt` on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
+- Submit a **pull request** adding typed `doi:<value>` entries to `data/newID.txt` on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
 - Send [**an email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) with a list of new DOI values or a metadata correction.
 
 Canonical bibliography changes are not merged automatically. Provider metadata, relevance decisions, and ambiguous contributor identities remain reviewable, and repository changes reach the production `main` branch through pull requests.
@@ -43,7 +43,7 @@ Provider output is never assumed to be infallible. BibReview keeps canonical dat
 
 PHRAISE stores bibliographic metadata, abstracts, keywords and related citation information when available; **full texts are not collected**.
 
-The canonical database is [available for download]({{ site.baseurl }}/assets/data/bibliography.json) as JSON.
+The canonical database is [available for download]({{ site.baseurl }}/assets/data/bibreview/bibliography.json) as JSON.
 
 ### **arXiv**
 
@@ -51,13 +51,13 @@ The [arXiv API](https://info.arxiv.org/help/api/user-manual.html) is used by Bib
 
 The browser does **not** query arXiv dynamically. A scheduled GitHub Actions workflow refreshes the cache, opens or updates a dedicated pull request when the cache changes, validates that change through the PHRAISE integration workflow, and only then merges it. The published arXiv page therefore reads a static JSON cache from [`assets/data/arxiv.json`]({{ site.baseurl }}/assets/data/arxiv.json).
 
-arXiv entries remain separate from the canonical DOI bibliography. They are not converted automatically into canonical publications, do not change the canonical bibliography update date, and are not included in the [search tool]({{ site.baseurl }}/search/).
+arXiv entries remain separate from the canonical bibliography. They are not converted automatically into canonical publications, do not change the canonical bibliography update date, and are not included in the [search tool]({{ site.baseurl }}/search/).
 
 ### **Handling Authors' Names**
 
 The [Author pages]({{ site.baseurl }}/authors/) need reviewed mappings because the same person can appear under several source-visible name variants.
 
-BibReview compares canonical author names with the reviewed mapping file and can apply only **safe, unambiguous proposals** automatically. Possible identity collisions remain under manual review rather than being guessed. You can inspect the [author-name mapping]({{ site.baseurl }}/assets/data/author_mappings.json) and [suggest corrections](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) when needed.
+BibReview compares canonical author names with the reviewed mapping file and can apply only **safe, unambiguous proposals** automatically. Possible identity collisions remain under manual review rather than being guessed. You can inspect the [author-name mapping]({{ site.baseurl }}/assets/data/bibreview/author_mappings.json) and [suggest corrections](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) when needed.
 
 ### **Curation Process**
 
