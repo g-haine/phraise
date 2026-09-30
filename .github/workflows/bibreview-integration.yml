@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   integration:
@@ -30,6 +30,34 @@ jobs:
 
       - name: Validate PHRAISE BibReview configuration
         run: bibreview --config bibreview.yml validate
+
+      - name: Generate reviewed PMLR DOI-less import
+        if: github.event_name == 'pull_request' && github.head_ref == 'feature/import-pmlr-pfem-gp-dphs-2026'
+        env:
+          IMPORT_MANIFEST: manual-imports/pfem-gp-dphs-pmlr-2026.yml
+        run: |
+          git fetch origin "$GITHUB_HEAD_REF"
+          git checkout -B "$GITHUB_HEAD_REF" "origin/$GITHUB_HEAD_REF"
+
+          bibreview --config bibreview.yml --dry-run import "$IMPORT_MANIFEST"
+          bibreview --config bibreview.yml import "$IMPORT_MANIFEST"
+          bibreview --config bibreview.yml --dry-run merge
+          bibreview --config bibreview.yml merge
+
+          bibreview --config bibreview.yml authors
+          bibreview --config bibreview.yml authors --apply-safe
+          bibreview --config bibreview.yml authors
+
+          bibreview --config bibreview.yml render
+
+          rm "$IMPORT_MANIFEST"
+          rmdir manual-imports 2>/dev/null || true
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Import DOI-less PMLR publication"
+          git push origin "HEAD:${GITHUB_HEAD_REF}"
 
       - name: Validate canonical project state
         run: bibreview --config bibreview.yml --dry-run merge
