@@ -37,8 +37,7 @@ polynomial decay, logarithmic decay, Port-Hamiltonian systems, structure-preserv
   number={1--2},
   pages={187--215},
   year={2022},
-  publisher={Romanian Academy},
-  url={https://imar.ro/journals/Mathematical_Reports/Pdfs/2022/1-2/11.pdf}
+  publisher={Romanian Academy}
 }
 {% endraw %}
 {% endhighlight %}
