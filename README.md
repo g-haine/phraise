@@ -10,16 +10,16 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical bibliography.
 
-PHRAISE currently pins **BibReview v1.6.38** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.6.40** for reproducible maintenance and
 continuous integration.
-BibReview v1.6.38 also preserves ordinary TeX braces losslessly in generated
+BibReview v1.6.40 also preserves ordinary TeX braces losslessly in generated
 Jekyll publication text while protecting actual Liquid openers.
 
 ## Contributing new DOIs
 
 Contributions are welcome in the form of DOI submissions:
 
-- open a pull request adding typed `doi:<value>` entries to `docs/newID.txt`;
+- open a pull request adding typed `doi:<value>` entries to `data/newID.txt`;
 - or send them by email to <ghislain.haine@isae.fr>.
 
 ## Project architecture
@@ -28,29 +28,33 @@ The central project configuration is `bibreview.yml`.
 
 Important state files are:
 
-- `docs/assets/data/bibliography.json` — canonical BibReview bibliography
+- `data/bibliography.json` — canonical BibReview bibliography
   document;
-- `docs/assets/data/collected.json` — temporary canonical staging used by
+- `data/collected.json` — temporary canonical staging used by
   collect and reviewed apply workflows before merge;
-- `docs/assets/data/author_mappings.json` — reviewed author identities;
+- `data/author_mappings.json` — reviewed author identities;
 - `audit/campaign.json`, `audit/report.json`, and `audit/resolutions.json` — local
   persistent audit history, review report, and resumable human decisions;
 - `audit/backfill.json`, `audit/backfill-resolutions.json`,
   `audit/refresh.json`, and `audit/refresh-resolutions.json` — local
   proposal/review state for human-reviewed missing-field enrichment and safe
   refresh, separate from canonical staging and ignored by Git;
-- `docs/assets/bib/` — tracked BibTeX sources;
-- `docs/ID.txt` — one typed identifier token per canonical publication;
-- `docs/newID.txt`, `docs/checkID.txt`, `docs/badID.txt` — DOI-only
+- `bib/` — tracked BibTeX sources;
+- `data/ID.txt` — one typed identifier token per canonical publication;
+- `data/newID.txt`, `data/checkID.txt`, `data/badID.txt` — DOI-only
   automated acquisition state. DOI remains PHRAISE's sole strong/automatable
   identifier.
 
 Generated Jekyll artifacts are owned by `bibreview render`:
 
-- `docs/_posts/`;
-- `docs/authors/`;
-- `docs/years/`;
-- `docs/_data/bibreview/`.
+- `site/_posts/`;
+- `site/authors/`;
+- `site/years/`;
+- `site/_data/bibreview/`;
+- `site/assets/data/bibreview/` — generated public snapshots of the canonical
+  bibliography and reviewed author mappings;
+- `site/assets/bib/` — generated public copies of the tracked canonical BibTeX
+  files from `bib/`.
 
 PHRAISE contains no project-specific Python bibliographic code. The optional
 arXiv cache is configured in `bibreview.yml` and remains intentionally
@@ -94,11 +98,13 @@ updates publications. An arXiv-only update therefore does **not** change the
 bibliography update date displayed on the website.
 
 During rendering, BibReview derives
-`docs/_data/bibreview/metadata.json` from this canonical metadata so Jekyll can
+`site/_data/bibreview/metadata.json` from this canonical metadata so Jekyll can
 use it without duplicating the source of truth.
 
-The canonical database is also exposed by the website and used directly by the
-search interface.
+The canonical database remains under `data/`. The website and search interface
+use the generated read-only snapshot
+`site/assets/data/bibreview/bibliography.json`; that public copy is never a
+merge input.
 
 ## Repository governance
 
@@ -115,7 +121,7 @@ The scheduled arXiv workflow never writes directly to `main`. When the cache
 changes, it creates or updates the `automation/update-arxiv` branch and opens
 a pull request. The updater then explicitly dispatches the PHRAISE integration
 workflow on that branch, verifies that the diff contains **only**
-`docs/assets/data/arxiv.json`, and squash-merges the PR only after validation succeeds.
+`site/assets/data/arxiv.json`, and squash-merges the PR only after validation succeeds.
 No daily maintainer approval is required.
 
 ## Maintenance environment
@@ -127,11 +133,11 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.6.38**.
+The Conda environment contains Python 3.12 and **BibReview v1.6.40**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
-`docs/.env`. A typical file is:
+`.env`. A typical file is:
 
 ```text
 SCOPUS_API_KEY=
@@ -177,7 +183,7 @@ guidance; no BibReview code change is required. Check the effective values with:
 bibreview providers
 ```
 
-With OpenAlex enabled in `bibreview.yml`, BibReview v1.6.38 uses it for three
+With OpenAlex enabled in `bibreview.yml`, BibReview v1.6.40 uses it for three
 separate purposes in PHRAISE: DOI discovery, independent audit evidence, and
 optional abstract fallback when publisher/CrossRef enrichment leaves an abstract
 empty. Semantic Scholar and Mendeley remain optional abstract fallbacks as well.
@@ -188,7 +194,7 @@ but may improve rate-limit predictability.
 
 ## Human-reviewed enrichment and safe refresh
 
-BibReview v1.6.38 provides two complementary workflows for existing canonical
+BibReview v1.6.40 provides two complementary workflows for existing canonical
 records.
 
 For a known missing field such as an abstract, use `backfill`:
@@ -203,22 +209,22 @@ bibreview backfill --apply
 Provider values are only proposals. The resolver requires an explicit human
 decision for every candidate. Accepted/custom values alone reach
 `collected.json`; existing meaningful canonical fields are never replaced.
-BibReview v1.6.38 batches exact multi-DOI backfill lookups where supported:
+BibReview v1.6.40 batches exact multi-DOI backfill lookups where supported:
 CrossRef work metadata in groups of up to 25 DOI values, OpenAlex abstract
 fallback in groups of up to 100, and Semantic Scholar abstract fallback in
 groups of up to 500; publisher enrichment and Mendeley remain per DOI.
-BibReview v1.6.38 also allows scalar-field backfill from partial provider records:
+BibReview v1.6.40 also allows scalar-field backfill from partial provider records:
 an abstract proposal no longer depends on unrelated provider authors, editors, or
 creation dates being present. Normal collection of new canonical publications
 remains strict and still requires at least one author or editor.
 
-For `abstract`, BibReview v1.6.38 treats the historical placeholder
+For `abstract`, BibReview v1.6.40 treats the historical placeholder
 `Not Available` as semantically missing, case- and whitespace-insensitively.
 Those records are therefore eligible for reviewed backfill. Provider/fallback
 values that normalize to the same placeholder are treated as unavailable and
 are never proposed as real abstracts.
 
-Optional publisher enrichment is failure-tolerant in v1.6.38. If Elsevier,
+Optional publisher enrichment is failure-tolerant in v1.6.40. If Elsevier,
 Springer, or IEEE returns an HTTP access/rate-limit/service error, BibReview
 reports a warning and continues with the remaining configured enrichment and
 abstract fallback sources instead of aborting the whole maintenance run. Persistent
@@ -250,7 +256,7 @@ refresh. Only accepted fields may be edited locally, with a backup, and
 
 ## Auditing the historical bibliography
 
-BibReview v1.6.38 can compare the existing canonical bibliography with current
+BibReview v1.6.40 can compare the existing canonical bibliography with current
 CrossRef, OpenAlex, and Semantic Scholar evidence without modifying canonical
 metadata. Audit state is persistent and incremental: publications already marked
 `completed` in the local audit history are not requested again by a normal
@@ -278,7 +284,7 @@ bibreview audit --batch-size 25
 ```
 
 Provider differences are evidence for review, not automatic corrections.
-BibReview v1.6.38 provides a derived read-only review that applies the current
+BibReview v1.6.40 provides a derived read-only review that applies the current
 normalization and corroboration rules without network access or file changes.
 The default review is intentionally concise:
 
@@ -301,7 +307,7 @@ bibreview audit --resolve
 ```
 
 Decisions are resumable and stored separately from canonical/staging data. In
-BibReview v1.6.38, page-range proposals are normalized to BibTeX-style double
+BibReview v1.6.40, page-range proposals are normalized to BibTeX-style double
 hyphens, for example `8793--8805`; tuple-valued custom corrections such as
 authors accept semicolon-separated values; and interactive terminal line editing
 is enabled when Python's standard `readline` module is available.
@@ -318,7 +324,7 @@ bibreview audit --apply
 `audit --apply` never writes `bibliography.json` directly. It requires empty
 staging, rejects stale canonical values or incomplete resolution state, updates
 applicable tracked BibTeX fields with backups, and leaves rejected decisions
-unchanged. BibReview v1.6.38 also reports accepted/custom resolutions that already
+unchanged. BibReview v1.6.40 also reports accepted/custom resolutions that already
 match the canonical value explicitly as no-op resolutions; they are not staged
 and do not trigger BibTeX writes. Inspect the resulting JSON/BibTeX diff before
 the normal `bibreview merge` boundary.
@@ -377,8 +383,8 @@ therefore unnecessary here.
    bibreview discover
    ```
 
-2. Review `docs/checkID.txt` manually and move classified `doi:` tokens to
-   `docs/newID.txt` or `docs/badID.txt`.
+2. Review `data/checkID.txt` manually and move classified `doi:` tokens to
+   `data/newID.txt` or `data/badID.txt`.
 
 3. Review and resolve safe refresh proposals for incomplete existing publications:
 
@@ -427,7 +433,7 @@ therefore unnecessary here.
    ```
 
    Review any remaining ambiguous cases manually in
-   `docs/assets/data/author_mappings.json`.
+   `data/author_mappings.json`.
 
 7. Render the complete generated site surface:
 
@@ -471,7 +477,7 @@ bibreview arxiv
 ```
 
 The scheduled GitHub workflow runs this command and changes only
-`docs/assets/data/arxiv.json`. If the cache changes, the workflow opens or updates a
+`site/assets/data/arxiv.json`. If the cache changes, the workflow opens or updates a
 pull request instead of pushing to `main`. That PR is merged automatically only
 after the updater explicitly runs the integration CI and verifies a cache-only
 diff. If the arXiv provider is temporarily unavailable, the workflow keeps the
@@ -486,10 +492,10 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.6.38 installation;
+- exact BibReview v1.6.40 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
-- exact one-token-per-publication `docs/ID.txt` projection;
+- exact one-token-per-publication `data/ID.txt` projection;
 - author mapping consistency;
 - full `bibreview render` reconciliation;
 - clean tracked tree after rendering;
