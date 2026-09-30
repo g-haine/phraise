@@ -36,6 +36,9 @@ jobs:
         env:
           IMPORT_MANIFEST: manual-imports/long-time-behavior-heat-wave-2022.yml
         run: |
+          git fetch origin "$GITHUB_HEAD_REF"
+          git checkout -B "$GITHUB_HEAD_REF" "origin/$GITHUB_HEAD_REF"
+
           bibreview --config bibreview.yml --dry-run import "$IMPORT_MANIFEST"
           bibreview --config bibreview.yml import "$IMPORT_MANIFEST"
           bibreview --config bibreview.yml --dry-run merge
