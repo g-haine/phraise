@@ -19,7 +19,7 @@ Jekyll publication text while protecting actual Liquid openers.
 
 Contributions are welcome in the form of DOI submissions:
 
-- open a pull request adding DOI values to `docs/newDOI.txt`;
+- open a pull request adding typed `doi:<value>` entries to `docs/newID.txt`;
 - or send them by email to <ghislain.haine@isae.fr>.
 
 ## Project architecture
@@ -40,8 +40,8 @@ Important state files are:
   proposal/review state for human-reviewed missing-field enrichment and safe
   refresh, separate from canonical staging and ignored by Git;
 - `docs/assets/bib/` — tracked BibTeX sources;
-- \`docs/ID.txt\` — one typed identifier token per canonical publication;
-- \`docs/newID.txt\`, \`docs/checkID.txt\`, \`docs/badID.txt\` — DOI-only
+- `docs/ID.txt` — one typed identifier token per canonical publication;
+- `docs/newID.txt`, `docs/checkID.txt`, `docs/badID.txt` — DOI-only
   automated acquisition state. DOI remains PHRAISE's sole strong/automatable
   identifier.
 
@@ -377,8 +377,8 @@ therefore unnecessary here.
    bibreview discover
    ```
 
-2. Review `docs/checkDOI.txt` manually and move classified DOI values to
-   `docs/newDOI.txt` or `docs/badDOI.txt`.
+2. Review `docs/checkID.txt` manually and move classified `doi:` tokens to
+   `docs/newID.txt` or `docs/badID.txt`.
 
 3. Review and resolve safe refresh proposals for incomplete existing publications:
 
@@ -489,6 +489,7 @@ The PHRAISE integration workflow verifies the current architecture directly:
 - exact BibReview v1.6.38 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
+- exact one-token-per-publication `docs/ID.txt` projection;
 - author mapping consistency;
 - full `bibreview render` reconciliation;
 - clean tracked tree after rendering;
