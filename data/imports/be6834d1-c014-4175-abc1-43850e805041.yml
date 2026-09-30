@@ -51,8 +51,4 @@ publication:
   created_date: '2022-06-01'
   permalink: long-time-behavior-of-a-coupled-heat-wave-system-using-a-structure-preserving-finite-element-method
   references: []
-bibtex: "@article{haine2022longtime,\n  author = {Haine, Ghislain and Matignon, Denis and Monteghetti,\
-  \ Florian},\n  title = {Long-time behavior of a coupled heat-wave system using a structure-preserving\
-  \ finite element method},\n  journal = {Mathematical Reports},\n  volume = {24},\n  number = {1--2},\n\
-  \  pages = {187--215},\n  year = {2022},\n  publisher = {Romanian Academy},\n  url = {https://imar.ro/journals/Mathematical_Reports/Pdfs/2022/1-2/11.pdf}\n\
-  }\n"
+bibtex: "@article{haine2022longtime,\n  author={Haine, Ghislain and Matignon, Denis and Monteghetti, Florian},\n  title={{Long-time behavior of a coupled heat-wave system using a structure-preserving finite element method}},\n  journal={Mathematical Reports},\n  volume={24},\n  number={1--2},\n  pages={187--215},\n  year={2022},\n  publisher={Romanian Academy},\n  url={https://imar.ro/journals/Mathematical_Reports/Pdfs/2022/1-2/11.pdf}\n}\n"
