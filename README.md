@@ -15,12 +15,18 @@ continuous integration.
 BibReview v1.6.42 also preserves ordinary TeX braces losslessly in generated
 Jekyll publication text while protecting actual Liquid openers.
 
-## Contributing new DOIs
+## Contributing publications
 
-Contributions are welcome in the form of DOI submissions:
+Published works both with and without a DOI can be proposed for inclusion.
 
-- open a pull request adding typed `doi:<value>` entries to `data/newID.txt`;
-- or send them by email to <ghislain.haine@isae.fr>.
+For DOI-backed publications:
+
+- open a pull request adding a typed `doi:<value>` entry to `data/newID.txt`;
+- or send the DOI by email to <ghislain.haine@isae.fr>.
+
+DOI is PHRAISE's sole strong/automatable identifier, so DOI-backed records use the normal automated BibReview acquisition chain.
+
+For publications without a DOI, provide an official publisher/proceedings source and the available bibliographic information. They are handled through BibReview's reviewed manual-import workflow with explicit provenance and reviewed BibTeX; no fake DOI is created. Auxiliary identifiers such as PMLR IDs may be retained as metadata but do not become automatic identity keys.
 
 ## Project architecture
 
@@ -33,6 +39,7 @@ Important state files are:
 - `data/collected.json` — temporary canonical staging used by
   collect and reviewed apply workflows before merge;
 - `data/author_mappings.json` — reviewed author identities;
+- `data/imports/` — normalized review evidence for manually imported DOI-less publications;
 - `audit/campaign.json`, `audit/report.json`, and `audit/resolutions.json` — local
   persistent audit history, review report, and resumable human decisions;
 - `audit/backfill.json`, `audit/backfill-resolutions.json`,
@@ -420,6 +427,19 @@ therefore unnecessary here.
    bibreview merge
    ```
 
+   For a published work with no DOI, use the separate reviewed manual-import path instead:
+
+   ```bash
+   bibreview import --init publication.yml
+   # review and complete publication.yml from an official source
+   bibreview --dry-run import publication.yml
+   bibreview import publication.yml
+   bibreview --dry-run merge
+   bibreview merge
+   ```
+
+   DOI-less imports retain a persistent BibReview UUID and reviewed provenance/BibTeX. They do not pass through `data/newID.txt`, and auxiliary identifiers are not treated as strong identifiers.
+
 6. Review author identities:
 
    ```bash
@@ -460,7 +480,7 @@ state and generated artifacts through a pull request.
 PHRAISE uses Jekyll for presentation. Install Ruby and Bundler, then:
 
 ```bash
-cd docs
+cd site
 bundle install
 bundle exec jekyll serve --watch
 ```
