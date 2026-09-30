@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-29T14:07:51Z",
+  "generated_at": "2026-09-30T13:46:26Z",
   "papers": [
+    {
+      "title": "Port-Hamiltonian Latent Deliberation: Mitigating the Deliberation Drift Cliff in Test-Time Compute Scaling",
+      "summary": "Test-time compute scaling has emerged as a cornerstone of advanced machine reasoning, yet performing iterative deliberation directly within continuous latent representation spaces reveals a catastrophic pathology: the Deliberation Drift Cliff. While unconstrained recurrent latent models achieve initial reasoning gains at short horizons (K <= 4), their reasoning collapses when extrapolated to deeper thinking steps (K >= 16), dropping by 22% to 62% across standard logical benchmarks. We resolve the trilemma among expressivity, Lyapunov stability, and computational efficiency in test-time latent reasoning through a 22-round empirical and theoretical investigation. We demonstrate that strictly conservative scalar potential gradient flows suppress long-range drift (cliff 3.40%) but bottleneck peak reasoning accuracy at 32.73%, whereas unconstrained rotational flows achieve high symbolic expressivity (82.33%) but suffer a severe 36.87% drift cliff. To resolve this geometric duality, we establish Port-Hamiltonian Latent Deliberation (PH-LD) and propose the Direct-Gradient Pure-Tensor Helmholtz-Hodge Decomposition (DG-HHD). DG-HHD parameterizes the attracting flow as a tangent projection tensor network while orthogonally decoupling non-zero circulation (Hodge machine error 1.65e-17, contraction error 5.55e-17), eliminating runtime autograd dependencies to achieve 1.84x vector field and 2.09x RK45 rollout speedups. In a 15-arm symmetrical Pareto benchmark, DG-HHD achieves 58.67% peak accuracy (+25.94% absolute gain over conservative HHD) and retains 35.27% at K=32. Transferred to small language model (SLM) multi-hop causal reasoning, DG-HHD delivers monotonic compute scaling (49.33% to 51.56%) and suppresses out-of-distribution drift (cliff -0.66%). All 30 Level 0 deterministic invariants are certified.",
+      "url": "http://arxiv.org/abs/2609.37351v1",
+      "authors": [
+        "Zeyu Jia"
+      ],
+      "updated": "2026-09-29"
+    },
+    {
+      "title": "Safe-by-Design Learning via Energy-based Neural Networks",
+      "summary": "Learning neural-network models of dynamical systems with safety guarantees is a fundamental requirement for their deployment in safety-critical settings. Safety is commonly established by proving the invariance of a desired subset in state-space, ensuring that every trajectory initialized in this subset remains confined to it for all time under admissible inputs. Existing frameworks, however, either rely on computationally expensive post-hoc verification or employ safety-enforcing mechanisms without formal correctness guarantees. In this paper, we introduce a novel neural architecture grounded in energy-based modern Hopfield networks to guarantee safety-by-design while retaining sufficient expressiveness to model complex nonlinear dynamics. Specifically, we integrate modern Hopfield networks with a port-Hamiltonian neural ODE, enabling by design the construction of barrier functions yielding explicit admissible-input sets and quantitative robustness radii. Across several benchmarks, including an 12-dimensional nanodrone model, our framework achieves state-of-the-art performance while producing certified invariant sets that are more robust to external solicitations than comparable existing approaches.",
+      "url": "http://arxiv.org/abs/2609.36942v1",
+      "authors": [
+        "Simone Betteti",
+        "Morteza Lahijanian",
+        "Luca Laurenti"
+      ],
+      "updated": "2026-09-29"
+    },
     {
       "title": "Mathematical modeling, simulation and optimization via (port-Hamiltonian) differential-algebraic equations",
       "summary": "Differential-algebraic equations (DAEs) present a ubiquitous model class in the automated modeling, simulation, control and optimization of complex finite or infinite dimensional dynamical systems, in particular in the construction of digital twins. When combined with adequate space and time discretization methods they present the work-horse of developments in many engineering domains. However, this approach comes with certain challenges for the numerical methods and in particular in the coupling of systems from different physical domains with different scales or regularity requirements. We survey the modeling with DAEs and address how to overcome some of the challenges via the framework of port-Hamiltonian differential-algebraic systems (pHDAEs) and their simulation and optimization with space-time-model adaptive methods.",
@@ -271,29 +291,6 @@
         "Lihui Yang"
       ],
       "updated": "2026-08-29"
-    },
-    {
-      "title": "Nonlinear port-Hamiltonian system identification from input-state-output data (ISO-pHNN)",
-      "summary": "In this paper, we introduce a framework called ISO-pHNN for identifying nonlinear port-Hamiltonian systems using input-state-output data. The framework utilizes neural networks' universal approximation capacity to effectively represent complex dynamics in a structured way. We explore different architectures based on MLPs, KANs, and using prior information. The identification technique is validated through examples featuring nonlinearities in either the skew-symmetric terms, the dissipative terms, or the Hamiltonian. We show that incorporating a port-Hamiltonian structure does not lower the accuracy and that using additional prior information improves long-term predictions.",
-      "url": "http://arxiv.org/abs/2501.06118v3",
-      "authors": [
-        "Karim Cherifi",
-        "Achraf El Messaoudi",
-        "Hannes Gernandt",
-        "Marco Roschkowski"
-      ],
-      "updated": "2026-08-20"
-    },
-    {
-      "title": "Optimization-based control by interconnection of nonlinear port-Hamiltonian systems",
-      "summary": "In this paper, we develop a control-by-interconnection approach for the stabilization of nonlinear port-Hamiltonian systems. Motivated by model predictive control, the controller is realized as a continuous-time primal-dual gradient flow associated with a finite-horizon, control-constrained optimal control problem. By exploiting its port-Hamiltonian structure, the optimization dynamics are interconnected with the nonlinear plant. Introducing a time-scale parameter for the optimization dynamics reveals a singularly perturbed closed-loop system, whose reduced dynamics correspond to the optimal finite-horizon feedback, while the boundary-layer dynamics capture convergence of the primal-dual variables to the optimality system. Using a composite Lyapunov function and singular-perturbation arguments, we prove asymptotic stability of the coupled plant-controller dynamics, which is local for sufficiently fast optimization dynamics and becomes global under additional assumptions. Numerical experiments for a nonlinear port-Hamiltonian oscillator illustrate the results.",
-      "url": "http://arxiv.org/abs/2602.06670v3",
-      "authors": [
-        "Till Preuster",
-        "Hannes Gernandt",
-        "Manuel Schaller"
-      ],
-      "updated": "2026-08-17"
     }
   ]
 }
