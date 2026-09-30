@@ -25,10 +25,10 @@ paths:
   bibliography: docs/assets/data/bibliography.json
   collected: docs/assets/data/collected.json
   author_mappings: docs/assets/data/author_mappings.json
-  known: docs/DOI.txt
-  pending: docs/newDOI.txt
-  rejected: docs/badDOI.txt
-  review: docs/checkDOI.txt
+  known: docs/ID.txt
+  pending: docs/newID.txt
+  rejected: docs/badID.txt
+  review: docs/checkID.txt
   bibtex: docs/assets/bib
   archive: docs/trash
   site: docs
