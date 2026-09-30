@@ -69,6 +69,9 @@ jobs:
               )
 
           if registry != expected:
+              print("BIBREVIEW_EXPECTED_REGISTRY_BEGIN")
+              print("\n".join(expected))
+              print("BIBREVIEW_EXPECTED_REGISTRY_END")
               for index, (actual, wanted) in enumerate(
                   zip(registry, expected, strict=True),
                   1,
