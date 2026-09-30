@@ -1,7 +1,7 @@
 schema_version: 1
 
 environment:
-  file: docs/.env
+  file: .env
 
 project:
   name: PHRAISE
@@ -19,19 +19,19 @@ arxiv:
   max_results: 25
   sort_by: lastUpdatedDate
   sort_order: descending
-  output: docs/assets/data/arxiv.json
+  output: site/assets/data/arxiv.json
 
 paths:
-  bibliography: docs/assets/data/bibliography.json
-  collected: docs/assets/data/collected.json
-  author_mappings: docs/assets/data/author_mappings.json
-  known: docs/ID.txt
-  pending: docs/newID.txt
-  rejected: docs/badID.txt
-  review: docs/checkID.txt
-  bibtex: docs/assets/bib
-  archive: docs/trash
-  site: docs
+  bibliography: data/bibliography.json
+  collected: data/collected.json
+  author_mappings: data/author_mappings.json
+  known: data/ID.txt
+  pending: data/newID.txt
+  rejected: data/badID.txt
+  review: data/checkID.txt
+  bibtex: bib
+  archive: archive
+  site: site
 
 discovery:
   provider: openalex
@@ -58,6 +58,11 @@ refresh:
 audit:
   campaign: audit/campaign.json
   report: audit/report.json
+  batch_size: 50
+
+references:
+  campaign: audit/references/campaign.json
+  report: audit/references/report.json
   batch_size: 50
 
 relevance:
@@ -102,7 +107,7 @@ site:
   enabled: true
   implementation: jekyll
   template: default
-  source: docs
+  source: site
   url: https://g-haine.github.io
   baseurl: /phraise
   search: true
@@ -110,10 +115,11 @@ site:
     logo: assets/img/logo.webp
     favicon: assets/img/favicon.ico
   jekyll:
+    publish_data: true
     include_authorless_year_publications: false
     author_index_extra_html: |
       <p id='info-authors'>For <a href='{{ site.baseurl }}/about/#handling-authors-names'>simplicity</a>, the authors are sorted using the last word of their name.<br />For example, <i>Arjan van der Schaft</i> appears under the letter <strong>S</strong>, and <i>Yann Le Gorrec</i> under the letter <strong>G</strong>.</p>
-      <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
+      <p>You may want to look at <a href='{{ site.baseurl }}/assets/data/bibreview/author_mappings.json'>the array managing name variations</a> (a JSON file) for verification/correction.</p>
       <hr />
     category_by_type:
       journal-article: articles
