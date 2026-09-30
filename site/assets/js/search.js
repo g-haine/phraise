@@ -69,7 +69,7 @@ class PhraiseSearch {
 
     async loadFromServer() {
         try {
-            const response = await fetch('../assets/data/bibliography.json', {
+            const response = await fetch('../assets/data/bibreview/bibliography.json', {
                 headers: { 'Cache-Control': 'no-cache' }
             });
             
