@@ -1,0 +1,89 @@
+schema_version: 1
+id: 0afab28c-78b8-4be0-a911-77fe8bfebd20
+provenance:
+  kind: official-import
+  source: https://proceedings.mlr.press/v331/courteville26a.html
+  note: Bibliographic metadata, abstract and BibTeX reviewed against the official Proceedings of Machine
+    Learning Research record. The created date 2026-06-17 uses the first conference day given by the official
+    PMLR BibTeX (17--19 Jun).
+citation: 'Florian Courteville, Iain Henderson, Denis Matignon, Sylvain Dubreuil, PFEM-GP-dPHS: a finite
+  element framework for combining Gaussian processes and infinite-dimensional port-Hamiltonian systems,
+  Proceedings of The 8th Annual Learning for Dynamics and Control Conference, PMLR 331 (2026), 1396--1417.'
+publication:
+  identifiers:
+    pmlr: pmlr-v331-courteville26a
+  type: proceedings-article
+  title: 'PFEM-GP-dPHS: a finite element framework for combining Gaussian processes and infinite-dimensional
+    port-Hamiltonian systems'
+  authors:
+  - given: Florian
+    family: Courteville
+    literal: null
+    source_fields: {}
+  - given: Iain
+    family: Henderson
+    literal: null
+    source_fields: {}
+  - given: Denis
+    family: Matignon
+    literal: null
+    source_fields: {}
+  - given: Sylvain
+    family: Dubreuil
+    literal: null
+    source_fields: {}
+  editors:
+  - given: Gaurav
+    family: Sukhatme
+    literal: null
+    source_fields: {}
+  - given: Lars
+    family: Lindemann
+    literal: null
+    source_fields: {}
+  - given: Stephen
+    family: Tu
+    literal: null
+    source_fields: {}
+  - given: Adam
+    family: Wierman
+    literal: null
+    source_fields: {}
+  - given: Nikolay
+    family: Atanasov
+    literal: null
+    source_fields: {}
+  abstract: In order to learn distributed port-Hamiltonian systems (dPHS) using Gaussian processes (GPs),
+    the partitioned finite element method (PFEM) is combined with the Gp-dPHS method. By following a late
+    lumping approach, the discretization of the functional hyperparameters of the GP prior over the Hamiltonian
+    functional is chosen independently from the discretization of the dPHS, thus reducing the numerical
+    complexity of our method. We next model the mean of the GP prior of the Hamiltonian as a quadratic
+    form, enabling the GP kernel to focus on the nonlinear part of a given dPHS. We illustrate our method
+    on a nonlinear one dimensional wave equation with unknown physical parameters (tension and linear
+    mass).
+  container_title: Proceedings of The 8th Annual Learning for Dynamics and Control Conference
+  publication_year: '2026'
+  volume: '331'
+  issue: ''
+  pages: 1396--1417
+  publisher: PMLR
+  event: The 8th Annual Learning for Dynamics and Control Conference
+  keywords: []
+  created_date: '2026-06-17'
+  permalink: pfem-gp-dphs-a-finite-element-framework-for-combining-gaussian-processes-and-infinite-dimensional-port-hamiltonian-systems
+  references: []
+bibtex: "@InProceedings{pmlr-v331-courteville26a,\n  title = {PFEM-GP-dPHS : a finite element framework\
+  \ for combining Gaussian processes and infinite-dimensional port-Hamiltonian systems},\n  author = {Courteville,\
+  \ Florian and Henderson, Iain and MATIGNON, Denis and Dubreuil, Sylvain},\n  booktitle = {Proceedings\
+  \ of The 8th Annual Learning for Dynamics and Control Conference},\n  pages = {1396--1417},\n  year\
+  \ = {2026},\n  editor = {Sukhatme, Gaurav and Lindemann, Lars and Tu, Stephen and Wierman, Adam and\
+  \ Atanasov, Nikolay},\n  volume = {331},\n  series = {Proceedings of Machine Learning Research},\n \
+  \ month = {17--19 Jun},\n  publisher = {PMLR},\n  pdf = {https://raw.githubusercontent.com/mlresearch/v331/main/assets/courteville26a/courteville26a.pdf},\n\
+  \  url = {https://proceedings.mlr.press/v331/courteville26a.html},\n  abstract = {In order to learn\
+  \ distributed port-Hamiltonian systems (dPHS) using Gaussian processes (GPs), the partitioned finite\
+  \ element method (PFEM) is combined with the Gp-dPHS method. By following a late lumping approach, the\
+  \ discretization of the functional hyperparameters of the GP prior over the Hamiltonian functional is\
+  \ chosen independently from the discretization of the dPHS, thus reducing the numerical complexity of\
+  \ our method. We next model the mean of the GP prior of the Hamiltonian as a quadratic form, enabling\
+  \ the GP kernel to focus on the nonlinear part of a given dPHS. We illustrate our method on a nonlinear\
+  \ one dimensional wave equation with unknown physical parameters (tension and linear mass).}\n}\n"
