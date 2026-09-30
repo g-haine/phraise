@@ -22,8 +22,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install BibReview v1.6.37
-        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.6.37"
+      - name: Install BibReview v1.6.38
+        run: python -m pip install "git+https://github.com/g-haine/bibreview.git@v1.6.38"
 
       - name: Confirm BibReview version
         run: test "$(bibreview --version)" = "bibreview 1.6.37"
@@ -33,6 +33,58 @@ jobs:
 
       - name: Validate canonical project state
         run: bibreview --config bibreview.yml --dry-run merge
+
+      - name: Validate canonical identifier registry
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          document = json.loads(
+              Path("docs/assets/data/bibliography.json").read_text(
+                  encoding="utf-8"
+              )
+          )
+          publications = document["publications"]
+          registry = [
+              line.strip()
+              for line in Path("docs/ID.txt").read_text(
+                  encoding="utf-8"
+              ).splitlines()
+              if line.strip() and not line.lstrip().startswith("#")
+          ]
+
+          expected = []
+          for publication in publications:
+              doi = publication.get("identifiers", {}).get("doi")
+              if doi:
+                  expected.append(f"doi:{doi}")
+              else:
+                  expected.append(f"id:{publication['id'].lower()}")
+
+          if len(registry) != len(publications):
+              raise SystemExit(
+                  "ID.txt cardinality mismatch: "
+                  f"{len(registry)} tokens for {len(publications)} publications"
+              )
+
+          if registry != expected:
+              for index, (actual, wanted) in enumerate(
+                  zip(registry, expected, strict=True),
+                  1,
+              ):
+                  if actual != wanted:
+                      raise SystemExit(
+                          f"ID.txt projection mismatch at line {index}: "
+                          f"{actual!r} != {wanted!r}"
+                      )
+              raise SystemExit("ID.txt projection differs from bibliography")
+
+          print(
+              f"Canonical identifier registry: {len(registry)} "
+              "tokens for the same number of publications"
+          )
+          PY
 
       - name: Validate audit planning
         run: bibreview --config bibreview.yml --dry-run audit --batch-size 1
