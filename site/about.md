@@ -14,18 +14,23 @@ PHRAISE is powered by [**BibReview**](https://github.com/g-haine/bibreview), an 
 
 ## **How to Contribute?**
 
-Contributions are welcome in the form of **DOI submissions**. You can:
+Contributions are welcome for published works both **with and without a DOI**.
 
-- Submit a **pull request** adding typed `doi:<value>` entries to `data/newID.txt` on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
-- Send [**an email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) with a list of new DOI values or a metadata correction.
+- If the publication has a DOI, submit a **pull request** adding a typed `doi:<value>` entry to `data/newID.txt` on the project's [**GitHub repository**](https://github.com/g-haine/phraise), or send the DOI by [**email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D). DOI-backed publications use PHRAISE's automated BibReview acquisition workflow.
+- If the publication has **no DOI**, send the official publication/proceedings link and bibliographic information by [**email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D), or open an issue/pull request with the supporting source. DOI-less records are added through BibReview's reviewed manual-import workflow: metadata, provenance and BibTeX are checked explicitly, and no artificial DOI is created.
+- Metadata and author-name corrections are also welcome through GitHub or email.
 
-Canonical bibliography changes are not merged automatically. Provider metadata, relevance decisions, and ambiguous contributor identities remain reviewable, and repository changes reach the production `main` branch through pull requests.
+Canonical bibliography changes are never merged directly from provider output. Relevance decisions, manual imports, provider evidence and ambiguous contributor identities remain reviewable, and repository changes reach the production `main` branch through pull requests.
 
 ## **Scope & Methodology**
 
 ### **Why DOIs?**
 
-At present, the canonical PHRAISE bibliography is deliberately restricted to **published works with a DOI**. A DOI provides a stable identity key and makes provider-based collection, reconciliation, and reproducible updates practical. Provider metadata is nevertheless treated as evidence rather than unquestionable truth and may be corrected after review.
+A DOI is the preferred identifier for PHRAISE because it is currently BibReview's sole **strong/automatable identifier**: it provides a stable external identity key and enables provider-based discovery, collection, reconciliation and reproducible updates.
+
+A DOI is **not required for inclusion** in the canonical bibliography. Published works without a DOI can be included through BibReview's reviewed manual-import path. Such records keep an internal persistent BibReview UUID, may retain auxiliary identifiers such as PMLR IDs, and require explicit provenance and reviewed BibTeX. Auxiliary identifiers are useful metadata but are not automatic merge keys.
+
+Provider metadata is always treated as evidence rather than unquestionable truth and may be corrected after review.
 
 The PHRAISE project configuration is publicly available on the [**GitHub repository**](https://github.com/g-haine/phraise), while the generic bibliographic engine is maintained separately in the [**BibReview repository**](https://github.com/g-haine/bibreview).
 
@@ -38,6 +43,8 @@ PHRAISE uses several external services for different purposes rather than relyin
 3. Publisher APIs from [**Elsevier / Scopus**](https://dev.elsevier.com/), [**Springer Nature**](https://dev.springernature.com/) and [**IEEE Xplore**](https://developer.ieee.org/) can enrich records with information such as abstracts, keywords, or event metadata when available.
 4. [**Semantic Scholar**](https://www.semanticscholar.org/product/api) and [**Mendeley**](https://dev.mendeley.com/) also provide optional abstract fallback enrichment when configured. BibReview cleans fallback candidates before comparing them and retains the longest valid abstract available from OpenAlex, Semantic Scholar, or Mendeley. Semantic Scholar also contributes independent evidence to the audit workflow.
 5. DOI content negotiation is used for citation and BibTeX retrieval when available.
+
+For DOI-less publications, PHRAISE relies on reviewed official sources such as publisher or proceedings pages. BibReview stores the import provenance and reviewed BibTeX alongside the canonical record rather than trying to infer provider metadata from an unrelated identifier.
 
 Provider output is never assumed to be infallible. BibReview keeps canonical data, staging, BibTeX, audit evidence, and enrichment proposals inspectable so that corrections can be reviewed before publication. Missing-field enrichment such as abstracts is explicitly human-reviewed before staging. Refresh operations cannot silently replace already-populated canonical metadata: provider differences on existing values remain review evidence rather than automatic changes.
 
