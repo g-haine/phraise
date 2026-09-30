@@ -30,15 +30,15 @@ polynomial decay, logarithmic decay, Port-Hamiltonian systems, structure-preserv
 {% highlight bibtex %}
 {% raw %}
 @article{haine2022longtime,
-  author = {Haine, Ghislain and Matignon, Denis and Monteghetti, Florian},
-  title = {Long-time behavior of a coupled heat-wave system using a structure-preserving finite element method},
-  journal = {Mathematical Reports},
-  volume = {24},
-  number = {1--2},
-  pages = {187--215},
-  year = {2022},
-  publisher = {Romanian Academy},
-  url = {https://imar.ro/journals/Mathematical_Reports/Pdfs/2022/1-2/11.pdf}
+  author={Haine, Ghislain and Matignon, Denis and Monteghetti, Florian},
+  title={{Long-time behavior of a coupled heat-wave system using a structure-preserving finite element method}},
+  journal={Mathematical Reports},
+  volume={24},
+  number={1--2},
+  pages={187--215},
+  year={2022},
+  publisher={Romanian Academy},
+  url={https://imar.ro/journals/Mathematical_Reports/Pdfs/2022/1-2/11.pdf}
 }
 {% endraw %}
 {% endhighlight %}
