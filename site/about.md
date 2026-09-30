@@ -14,18 +14,28 @@ PHRAISE is powered by [**BibReview**](https://github.com/g-haine/bibreview), an 
 
 ## **How to Contribute?**
 
-Contributions are welcome in the form of **DOI submissions**. You can:
+Contributions are welcome for published work within the PHRAISE scope.
 
-- Submit a **pull request** adding typed `doi:<value>` entries to `data/newID.txt` on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
-- Send [**an email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) with a list of new DOI values or a metadata correction.
+If the publication has a **DOI**, the preferred path is the automated one:
 
-Canonical bibliography changes are not merged automatically. Provider metadata, relevance decisions, and ambiguous contributor identities remain reviewable, and repository changes reach the production `main` branch through pull requests.
+- Submit a **pull request** adding a typed `doi:<value>` entry to `data/newID.txt` on the project's [**GitHub repository**](https://github.com/g-haine/phraise).
+- Or send [**an email**](mailto:ghislain.haine@isae.fr?subject=%5BPHRAISE%5D) with the DOI or a metadata correction.
+
+If the publication has **no DOI**, do not invent one and do not place another identifier such as an ISBN, arXiv ID, PMLR ID, or publisher ID in `data/newID.txt`. Instead, provide an official landing page or publication PDF together with the bibliographic information needed to verify the record. DOI-less publications are added through BibReview's reviewed manual-import workflow, which keeps the metadata source, provenance and BibTeX inspectable before the normal staging and merge steps.
+
+DOI is therefore PHRAISE's **sole strong/automatable identifier**, but it is **not a requirement for canonical inclusion**.
+
+Canonical bibliography changes are never merged automatically from provider output alone. Provider metadata, manual-import evidence, relevance decisions, and ambiguous contributor identities remain reviewable, and repository changes reach the production `main` branch through pull requests.
 
 ## **Scope & Methodology**
 
-### **Why DOIs?**
+### **Why DOIs for automation?**
 
-At present, the canonical PHRAISE bibliography is deliberately restricted to **published works with a DOI**. A DOI provides a stable identity key and makes provider-based collection, reconciliation, and reproducible updates practical. Provider metadata is nevertheless treated as evidence rather than unquestionable truth and may be corrected after review.
+A DOI remains the preferred identifier whenever one exists because it provides a stable, normalized key for provider-based discovery, metadata collection, reconciliation and reproducible maintenance. In BibReview terminology, this makes DOI PHRAISE's only current **strong identifier**: the only identifier allowed to drive the automated acquisition chain.
+
+PHRAISE can also include published work without a DOI. Such records receive a persistent internal BibReview UUID and are added through a reviewed manual-import path using an official source, explicit provenance and tracked BibTeX. Other external identifiers such as PMLR, ISBN, arXiv or publisher-specific IDs may be retained as useful metadata, but they are not promoted to automatic merge keys.
+
+Provider metadata and manual source material are both treated as evidence rather than unquestionable truth and may be corrected after review.
 
 The PHRAISE project configuration is publicly available on the [**GitHub repository**](https://github.com/g-haine/phraise), while the generic bibliographic engine is maintained separately in the [**BibReview repository**](https://github.com/g-haine/bibreview).
 
