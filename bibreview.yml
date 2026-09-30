@@ -30,6 +30,7 @@ paths:
   rejected: data/badID.txt
   review: data/checkID.txt
   bibtex: bib
+  imports: data/imports
   archive: archive
   site: site
 
