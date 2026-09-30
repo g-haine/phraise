@@ -1,0 +1,78 @@
+schema_version: 1
+id: 6a20d4bb-e586-4e09-a55d-334587d4304f
+provenance:
+  kind: official-import
+  source: https://proceedings.mlr.press/v331/courteville26a.html
+  note: >-
+    Bibliographic metadata, abstract, conference information and BibTeX reviewed
+    against the official Proceedings of Machine Learning Research landing page.
+    PMLR volume 331 was published on 2026-06-07.
+citation: >-
+  Florian Courteville, Iain Henderson, Denis Matignon, Sylvain Dubreuil,
+  PFEM-GP-dPHS : a finite element framework for combining Gaussian processes
+  and infinite-dimensional port-Hamiltonian systems, Proceedings of The 8th
+  Annual Learning for Dynamics and Control Conference, PMLR 331:1396-1417,
+  2026.
+publication:
+  identifiers:
+    pmlr: pmlr-v331-courteville26a
+  type: proceedings-article
+  title: "PFEM-GP-dPHS : a finite element framework for combining Gaussian processes and infinite-dimensional port-Hamiltonian systems"
+  authors:
+    - given: Florian
+      family: Courteville
+    - given: Iain
+      family: Henderson
+    - given: Denis
+      family: Matignon
+    - given: Sylvain
+      family: Dubreuil
+  editors:
+    - given: Gaurav
+      family: Sukhatme
+    - given: Lars
+      family: Lindemann
+    - given: Stephen
+      family: Tu
+    - given: Adam
+      family: Wierman
+    - given: Nikolay
+      family: Atanasov
+  abstract: >-
+    In order to learn distributed port-Hamiltonian systems (dPHS) using Gaussian
+    processes (GPs), the partitioned finite element method (PFEM) is combined
+    with the Gp-dPHS method. By following a late lumping approach, the
+    discretization of the functional hyperparameters of the GP prior over the
+    Hamiltonian functional is chosen independently from the discretization of
+    the dPHS, thus reducing the numerical complexity of our method. We next
+    model the mean of the GP prior of the Hamiltonian as a quadratic form,
+    enabling the GP kernel to focus on the nonlinear part of a given dPHS. We
+    illustrate our method on a nonlinear one dimensional wave equation with
+    unknown physical parameters (tension and linear mass).
+  container_title: Proceedings of The 8th Annual Learning for Dynamics and Control Conference
+  publication_year: "2026"
+  volume: "331"
+  issue: ""
+  pages: "1396--1417"
+  publisher: PMLR
+  event: 8th Annual Learning for Dynamics and Control Conference, Los Angeles, California, USA, 17-19 June 2026
+  keywords: []
+  created_date: 2026-06-07
+  permalink: ""
+  references: []
+bibtex: |
+  @InProceedings{pmlr-v331-courteville26a,
+    title = {PFEM-GP-dPHS : a finite element framework for combining Gaussian processes and infinite-dimensional port-Hamiltonian systems},
+    author = {Courteville, Florian and Henderson, Iain and MATIGNON, Denis and Dubreuil, Sylvain},
+    booktitle = {Proceedings of The 8th Annual Learning for Dynamics and Control Conference},
+    pages = {1396--1417},
+    year = {2026},
+    editor = {Sukhatme, Gaurav and Lindemann, Lars and Tu, Stephen and Wierman, Adam and Atanasov, Nikolay},
+    volume = {331},
+    series = {Proceedings of Machine Learning Research},
+    month = {17--19 Jun},
+    publisher = {PMLR},
+    pdf = {https://raw.githubusercontent.com/mlresearch/v331/main/assets/courteville26a/courteville26a.pdf},
+    url = {https://proceedings.mlr.press/v331/courteville26a.html},
+    abstract = {In order to learn distributed port-Hamiltonian systems (dPHS) using Gaussian processes (GPs), the partitioned finite element method (PFEM) is combined with the Gp-dPHS method. By following a late lumping approach, the discretization of the functional hyperparameters of the GP prior over the Hamiltonian functional is chosen independently from the discretization of the dPHS, thus reducing the numerical complexity of our method. We next model the mean of the GP prior of the Hamiltonian as a quadratic form, enabling the GP kernel to focus on the nonlinear part of a given dPHS. We illustrate our method on a nonlinear one dimensional wave equation with unknown physical parameters (tension and linear mass).}
+  }
