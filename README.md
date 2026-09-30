@@ -10,8 +10,10 @@ static site rendering; PHRAISE supplies the subject-specific configuration,
 curated data, and Jekyll presentation. The optional arXiv cache is also managed by
 BibReview but remains separate from the canonical bibliography.
 
-PHRAISE currently pins **BibReview v1.6.43** for reproducible maintenance and
+PHRAISE currently pins **BibReview v1.6.44** for reproducible maintenance and
 continuous integration.
+BibReview v1.6.44 stabilizes and documents the reviewed DOI-less import contract
+with a maintained `publication.example.yml` field reference.
 BibReview v1.6.43 canonicalizes reviewed DOI-less BibTeX before it becomes
 tracked project state and omits non-citation payload fields from those files.
 BibReview v1.6.42 also preserves ordinary TeX braces losslessly in generated
@@ -140,7 +142,7 @@ bash install.sh
 conda activate phraise
 ```
 
-The Conda environment contains Python 3.12 and **BibReview v1.6.43**.
+The Conda environment contains Python 3.12 and **BibReview v1.6.44**.
 BibReview itself declares and installs its Python dependencies.
 
 Provider secrets remain local. `bibreview.yml` points BibReview at
@@ -512,7 +514,7 @@ This separation is why the bibliography date comes from
 
 The PHRAISE integration workflow verifies the current architecture directly:
 
-- exact BibReview v1.6.43 installation;
+- exact BibReview v1.6.44 installation;
 - BibReview configuration validation;
 - canonical merge no-op state;
 - exact one-token-per-publication `data/ID.txt` projection;
