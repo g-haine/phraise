@@ -1,23 +1,45 @@
 {
-  "generated_at": "2026-09-30T13:46:26Z",
+  "generated_at": "2026-10-01T14:29:43Z",
   "papers": [
+    {
+      "title": "Input-to-state stability of second-order port-Hamiltonian systems under nonlinear dynamic boundary feedback",
+      "summary": "The input-to-state stability of a class of infinite-dimensional second-order port-Hamiltonian systems on a one-dimensional spatial domain is analyzed under nonlinear dynamic boundary feedback and boundary disturbances. Using energy methods in the port-Hamiltonian framework, we obtain sufficient conditions that guarantee uniform input-to-state stability of the closed-loop system.",
+      "url": "http://arxiv.org/abs/2609.39948v1",
+      "authors": [
+        "Bouchra Elghazi",
+        "Birgit Jacob",
+        "Christophe Prieur"
+      ],
+      "updated": "2026-09-30"
+    },
+    {
+      "title": "Robust forms for passive descriptor systems",
+      "summary": "We show how to compute the passivity radius of a given generalized state-space model of a rational transfer function that represents a passive system, both in the continuous-time and discrete-time cases. We then use this to construct robust descriptor realizations. For the continuous-time case, these realizations have a port-Hamiltonian descriptor form. For the discrete-time case a similar result holds for the so-called normalized realizations. The computation of such robust realizations is linked in both these cases to a particular solution of a linear matrix inequality that characterizes the passivity of the transfer function.",
+      "url": "http://arxiv.org/abs/2609.39465v1",
+      "authors": [
+        "Peter Benner",
+        "Anshul Prajapati",
+        "Paul Van Dooren"
+      ],
+      "updated": "2026-09-30"
+    },
+    {
+      "title": "Safe-by-Design Learning via Energy-based Neural Networks",
+      "summary": "Learning neural-network models of dynamical systems with safety guarantees is a fundamental requirement for their deployment in safety-critical settings. Safety is commonly established by proving the invariance of a desired subset in state-space, ensuring that every trajectory initialized in this subset remains confined to it for all time under admissible inputs. Existing frameworks, however, either rely on computationally expensive post-hoc verification or employ safety-enforcing mechanisms without formal correctness guarantees. In this paper, we introduce a novel neural architecture grounded in energy-based modern Hopfield networks to guarantee safety-by-design while retaining sufficient expressiveness to model complex nonlinear dynamics. Specifically, we integrate modern Hopfield networks with a port-Hamiltonian neural ODE, enabling by design the construction of barrier functions yielding explicit admissible-input sets and quantitative robustness radii. Across several benchmarks, including an 12-dimensional nanodrone model, our framework achieves state-of-the-art performance while producing certified invariant sets that are more robust to external solicitations than comparable existing approaches.",
+      "url": "http://arxiv.org/abs/2609.36942v2",
+      "authors": [
+        "Simone Betteti",
+        "Morteza Lahijanian",
+        "Luca Laurenti"
+      ],
+      "updated": "2026-09-30"
+    },
     {
       "title": "Port-Hamiltonian Latent Deliberation: Mitigating the Deliberation Drift Cliff in Test-Time Compute Scaling",
       "summary": "Test-time compute scaling has emerged as a cornerstone of advanced machine reasoning, yet performing iterative deliberation directly within continuous latent representation spaces reveals a catastrophic pathology: the Deliberation Drift Cliff. While unconstrained recurrent latent models achieve initial reasoning gains at short horizons (K <= 4), their reasoning collapses when extrapolated to deeper thinking steps (K >= 16), dropping by 22% to 62% across standard logical benchmarks. We resolve the trilemma among expressivity, Lyapunov stability, and computational efficiency in test-time latent reasoning through a 22-round empirical and theoretical investigation. We demonstrate that strictly conservative scalar potential gradient flows suppress long-range drift (cliff 3.40%) but bottleneck peak reasoning accuracy at 32.73%, whereas unconstrained rotational flows achieve high symbolic expressivity (82.33%) but suffer a severe 36.87% drift cliff. To resolve this geometric duality, we establish Port-Hamiltonian Latent Deliberation (PH-LD) and propose the Direct-Gradient Pure-Tensor Helmholtz-Hodge Decomposition (DG-HHD). DG-HHD parameterizes the attracting flow as a tangent projection tensor network while orthogonally decoupling non-zero circulation (Hodge machine error 1.65e-17, contraction error 5.55e-17), eliminating runtime autograd dependencies to achieve 1.84x vector field and 2.09x RK45 rollout speedups. In a 15-arm symmetrical Pareto benchmark, DG-HHD achieves 58.67% peak accuracy (+25.94% absolute gain over conservative HHD) and retains 35.27% at K=32. Transferred to small language model (SLM) multi-hop causal reasoning, DG-HHD delivers monotonic compute scaling (49.33% to 51.56%) and suppresses out-of-distribution drift (cliff -0.66%). All 30 Level 0 deterministic invariants are certified.",
       "url": "http://arxiv.org/abs/2609.37351v1",
       "authors": [
         "Zeyu Jia"
-      ],
-      "updated": "2026-09-29"
-    },
-    {
-      "title": "Safe-by-Design Learning via Energy-based Neural Networks",
-      "summary": "Learning neural-network models of dynamical systems with safety guarantees is a fundamental requirement for their deployment in safety-critical settings. Safety is commonly established by proving the invariance of a desired subset in state-space, ensuring that every trajectory initialized in this subset remains confined to it for all time under admissible inputs. Existing frameworks, however, either rely on computationally expensive post-hoc verification or employ safety-enforcing mechanisms without formal correctness guarantees. In this paper, we introduce a novel neural architecture grounded in energy-based modern Hopfield networks to guarantee safety-by-design while retaining sufficient expressiveness to model complex nonlinear dynamics. Specifically, we integrate modern Hopfield networks with a port-Hamiltonian neural ODE, enabling by design the construction of barrier functions yielding explicit admissible-input sets and quantitative robustness radii. Across several benchmarks, including an 12-dimensional nanodrone model, our framework achieves state-of-the-art performance while producing certified invariant sets that are more robust to external solicitations than comparable existing approaches.",
-      "url": "http://arxiv.org/abs/2609.36942v1",
-      "authors": [
-        "Simone Betteti",
-        "Morteza Lahijanian",
-        "Luca Laurenti"
       ],
       "updated": "2026-09-29"
     },
@@ -271,26 +293,6 @@
         "Hongliang Mu"
       ],
       "updated": "2026-08-31"
-    },
-    {
-      "title": "Interconnection of port-Hamiltonian systems is not dynamical",
-      "summary": "The interconnection of port-Hamiltonian systems is usually understood as structure-preserving due to the geometric fact that the composition of the underlying Dirac structures produces again a Dirac structure. Pointwise, this is doubtless true, but when comparing dynamical systems, their trajectories are usually compared, and trajectories usually obey some regularity assumptions. It is shown that both classical and weak solutions do not necessarily exhibit a one-to-one correspondence between solutions of the interconnected port-Hamiltonian system, and the dynamical system realising the interconnection. In the mostly studied cases of constant Dirac structures or port-Hamiltonian ODE systems, both systems are behaviourally equivalent; for non-constant Dirac structures, a sufficient condition is given.",
-      "url": "http://arxiv.org/abs/2608.29731v1",
-      "authors": [
-        "Jonas Kirchhoff"
-      ],
-      "updated": "2026-08-30"
-    },
-    {
-      "title": "From Rigid to Adiabatic: Canonical Regularization of AC Networks via Action-Angle Variables",
-      "summary": "Traditional power system analysis relies on timescale separation and the rigid-network assumption, freezing electromagnetic transients into algebraic power-flow equations via Steinmetz's phasor theory. As grid-forming converter penetration increases, magnetic energy dynamics on transmission lines interact with converter control loops on comparable timescales, challenging this rigid-network assumption. Returning to Faraday's law of electromagnetic induction driven by rotating magnetic fields, this paper models the transmission lines' rotating magnetic fields in action-angle canonical coordinates, regularizes the rigid algebraic constraints of power-flow equations into canonical equations on adiabatic symplectic manifolds, and establishes a port-Hamiltonian standard form for AC power grids. Based on the minimal-counterexample principle and using the equal-area criterion's classical two-machine system, this paper reveals a latitudinal instability channel via Bloch-sphere coordinates: Q-V control releases voltage-amplitude freedom, shifting the stability boundary from the equatorial UEP (unstable equilibrium point) to a saddle point, thereby unifying the analytical frameworks of P-delta angle stability and Q-V voltage stability in power system analysis.",
-      "url": "http://arxiv.org/abs/2608.29129v1",
-      "authors": [
-        "Feng Ji",
-        "Lu Gao",
-        "Lihui Yang"
-      ],
-      "updated": "2026-08-29"
     }
   ]
 }
