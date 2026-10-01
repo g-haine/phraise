@@ -13,7 +13,7 @@ bibliographic workflow, review state, canonical data, BibTeX, and generated
 Jekyll pages. PHRAISE itself contains the subject-specific configuration,
 curated bibliography, and website presentation.
 
-PHRAISE pins **BibReview v1.7.0** for reproducible maintenance and CI.
+PHRAISE pins **BibReview v1.7.1** for reproducible maintenance and CI.
 
 ## Contributing a publication
 
