@@ -7,6 +7,7 @@ permalink: /authors/volker-mehrmann
 <p id='info-authors'>Alternative author names: Volker Mehrmann, V. Mehrmann, V Mehrmann.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/mathematical-modeling-simulation-and-optimization-via-port-hamiltonian-differential-algebraic-equations">Mathematical modeling, simulation and optimization via (port-Hamiltonian) differential-algebraic equations</a></h3></li>
 <li><span class='post-meta'>2026 -- Delin Chu, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/regularization-of-port-hamiltonian-descriptor-systems">Regularization of port-Hamiltonian descriptor systems</a></h3></li>
 <li><span class='post-meta'>2026 -- Volker Mehrmann, Manuel Schaller, Martin Stoll</span><h3><a class='post-link' href="{{ site.baseurl }}/iterative-solvers-for-partial-differential-equations-with-dissipative-structure-operator-preconditioning-and-optimal-control">Iterative solvers for partial differential equations with dissipative structure: operator preconditioning and optimal control</a></h3></li>
 <li><span class='post-meta'>2026 -- M. Soledad Aronna, Volker Mehrmann</span><h3><a class='post-link' href="{{ site.baseurl }}/on-second-order-conditions-for-singular-optimal-control-of-port-hamiltonian-systems">On second order conditions for singular optimal control of port-Hamiltonian systems</a></h3></li>

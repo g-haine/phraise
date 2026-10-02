@@ -51,6 +51,7 @@ discovery:
 refresh:
   types:
     - journal-article
+    - proceedings-article
   when_missing_any:
     - volume
     - issue
