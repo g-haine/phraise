@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-02T13:53:20Z",
+  "generated_at": "2026-10-05T16:02:54Z",
   "papers": [
+    {
+      "title": "Stimulated Parametric Down-Conversion: From Foundational Coherence to Structured Light Applications",
+      "summary": "Stimulated parametric down-conversion (StimPDC) is the seeded version of the process that underlies much of photonic quantum information. Replacing the vacuum at one input port with a coherent seed leaves the interaction Hamiltonian, the phase-matching function and the two-photon amplitude unchanged, while raising the output to levels accessible with ordinary classical detectors. This review treats the transverse spatial physics of that process. We show that a single relation, in which the idler amplitude is the pointwise product of the pump field with the complex conjugate of the seed, organizes results usually presented separately: the image and coherence transfer experiments of the 1990s; phase conjugation and its use for wavefront correction; the conservation and conjugation of orbital angular momentum, together with the generation of radial modes and geometric intensity patterns; and the processing of vector vortex beams carrying spatially varying polarization. We then consider StimPDC as an instrument rather than as an object of study, covering stimulated emission tomography, the experimental realization of Klyshko's advanced-wave picture, and the transfer of partial coherence, including the conservation of the twist phase of twisted Gaussian Schell-model beams. We close with the quantum regime, reached when the seed approaches the single-photon level or the idler is used as a herald, and with an assessment of open problems and prospective applications.",
+      "url": "http://arxiv.org/abs/2610.03241v1",
+      "authors": [
+        "M. F. Z. Arruda",
+        "M. G. Damaceno",
+        "G. H. dos Santos",
+        "R. Medeiros de Araújo",
+        "N. Rubiano da Silva",
+        "S. P. Walborn",
+        "P. H. Souto Ribeiro"
+      ],
+      "updated": "2026-10-02"
+    },
+    {
+      "title": "Nonlinear controlled port-Hamiltonian systems: Existence of (optimal) solutions",
+      "summary": "We investigate the existence of solutions of reversible and irreversible port-Hamilto\\-nian systems. To this end, we utilize the associated exergy, a function that is composed of the system's Hamiltonian and entropy, to prove global existence in time for bounded control functions. Then, we rigorously verify our existence conditions for two examples, the gas-piston system and a network of heat exchangers. Last, we explore model predictive control tailored to irreversible port-Hamiltonian systems by means of a numerical case study with a heat exchanger network.",
+      "url": "http://arxiv.org/abs/2410.18888v2",
+      "authors": [
+        "Willem Esterhuizen",
+        "Bernhard Maschke",
+        "Till Preuster",
+        "Manuel Schaller",
+        "Karl Worthmann"
+      ],
+      "updated": "2026-10-02"
+    },
+    {
+      "title": "Identify then Realize: Contrastive Learning of Latent Port-Hamiltonian Dynamics from Partial Observations",
+      "summary": "Identifying latent state representations and dynamics is essential when direct modeling in observation space is infeasible, particularly under partial and high-dimensional observations. In such settings, representation learning and physics-aware modeling are inherently coupled. We propose CIPHER, a two-stage identify-then-realize framework for learning latent port-Hamiltonian models of conservative and dissipative systems. First, a contrastive teacher jointly learns an encoder and a neural ODE to obtain predictive state representations from observation histories. Second, a student learns an invertible nonlinear coordinate transformation and port-Hamiltonian dynamics by matching encoded observed futures. We establish sufficient conditions for recovering the physical state up to a diffeomorphism and realizing its dynamics in port-Hamiltonian form. Across ten clean and noisy datasets, CIPHER is competitive with or outperforms state-of-the-art baselines by improving long-horizon forecast on complex systems. Further studies show robustness to over-specified latent dimensions and additional predictive gains from pH parameterization.",
+      "url": "http://arxiv.org/abs/2605.16682v2",
+      "authors": [
+        "Peilun Li",
+        "Kaiyuan Tan",
+        "Daniel Moyer",
+        "Thomas Beckers"
+      ],
+      "updated": "2026-10-01"
+    },
     {
       "title": "Port-Hamiltonian Neural Networks for Systems with Multiple Asymptotically Stable Equilibria",
       "summary": "Stable port-Hamiltonian neural networks certify asymptotic stability by construction. Yet, their Hamiltonian is a global Lyapunov function with a single global minimum, so they can represent only dynamic systems with {one} attractor. We demonstrate that this excludes even simple systems with energy landscapes forming a double well, and we overcome the restriction by parametrising the Hamiltonian as a {product} of Bregman divergences generated by one input-convex network. We prove that the resulting model is locally Lyapunov stable, that the coexistence of stable equilibria forces additional non-asymptotically-stable equilibria to exist, that all equilibria lie in a bounded region, and under a hyperbolicity assumption that almost-everywhere stability holds. On three systems our approach is able to recover the energy surface characteristics and improve the convergence speed by 1.8$\\times$-8.5$\\times$.",
@@ -260,43 +300,6 @@
         "Manuel Schaller"
       ],
       "updated": "2026-09-04"
-    },
-    {
-      "title": "Energy-Consistent Splitting and Decomposition Approaches for Coupled port-Hamiltonian ODEs",
-      "summary": "Operator splitting provides an attractive approach for the numerical integration of (coupled) port-Hamiltonian systems, as it allows the underlying system structure to be exploited at the level of the individual subproblems. However, the choice of the decomposition is not unique and may strongly affect both the computational efficiency and the preservation of the energy behavior of the original system. In this work, we investigate this interplay systematically and introduce energy consistency as a criterion for assessing splitting methods for port-Hamiltonian ordinary differential equations. We derive sufficient conditions under which a splitting based on a given decomposition inherits the energy behavior of the continuous system and use these conditions to analyze several decomposition strategies for coupled port-Hamiltonian systems. In particular, we compare decompositions that preserve the structure with approaches that exploit lower-dimensional subsystem dynamics or separated time scales. The analysis is complemented by numerical experiments using Strang splitting and its multiple-time-stepping extension. A scalable electro-thermal benchmark with fast electrical and slow thermal dynamics is employed to assess accuracy, energy behavior, and computational efficiency. The results demonstrate that preserving the port-Hamiltonian structure of the subflows is essential for energy-consistent splitting, whereas decompositions that exploit subsystem structure or time-scale separation can provide substantial computational advantages. In particular, the time-scale decomposition yields significant efficiency gains for systems with pronounced multirate characteristics, while structure-destroying decompositions may lead to undesirable energy behavior.",
-      "url": "http://arxiv.org/abs/2609.04884v1",
-      "authors": [
-        "Marius Mönch",
-        "Nicole Marheineke",
-        "Andreas Bartel",
-        "Kevin Schäfers",
-        "Michael Günther"
-      ],
-      "updated": "2026-09-04"
-    },
-    {
-      "title": "Formation Matrix and Energy-based Control of Multi-Agent Systems",
-      "summary": "This paper presents an energy-based controller for a multiagent robotic system designed to achieve and maintain a specific formation while moving on a plane and avoiding collisions between agents. The controller emulates a network of elementary spring-damper modules connecting pairs of agents. This network, with its de-energized states representing the desired formation, determines the system's dynamics, which is fully encapsulated by a bond graph model. The modeling is further enhanced through the introduction of a formation matrix, using a graph-theoretic approach, that describes both the distances and relative velocities among the agents of the arrangement. This matrix mathematically represents the interconnection and energy-exchange structure of the bond graph, allowing us to put it in correspondence with the control-by-interconnection CbI-scheme of the IDA-PBC theory, facilitating the solution of the formation control problem within the port-Hamiltonian system framework. Furthermore, the paper presents leader-following and position-based formation control systems based on the CbI scheme, including a stability analysis of the corresponding closed-loop systems. The theoretical findings are validated through numerical simulations across various scenarios.",
-      "url": "http://arxiv.org/abs/2609.04158v1",
-      "authors": [
-        "Martín Crespo",
-        "Sergio Junco",
-        "Matías Nacusse"
-      ],
-      "updated": "2026-09-03"
-    },
-    {
-      "title": "Constructive Port-Hamiltonian Energy Shaping Design of Dispatchable Virtual Oscillators in Grid-Forming Converters",
-      "summary": "Port-Hamiltonian (PH) theory offers a passivity-based framework for grid-forming control, yet conventional dispatchable virtual oscillator control (dVOC) does not naturally admit a dissipative PH realization, since its amplitude egulation, synchronization, and power dispatch are inherently coupled without a unified energy interpretation. This paper formulates the outer-loop dynamics as a dissipative PH system, thereby unifying amplitude regulation, synchronization, and power dispatch within one energy structure. The formulation rests on the key property that logistic-type radial regulation, characterized by an inherent saturation-like nonlinearity, permits an exact gradient decomposition compatible with the quadratic energy storage. On this basis, a unified shaped Hamiltonian is constructed, which encapsulates both amplitude restoration and power dispatch. Radial gain matching derived from this Hamiltonian yields explicit closed-form arameter inequalities that guarantee almost-global asymptotic stability and local exponential convergence. Moreover, tuning the power-error weighting coefficient actively shapes the energy landscape, thereby eliminating the undesirable low-voltage power-flow solution from the stationary set and ensuring convergence to the desired high-voltage equilibrium point. The Hessian singularity condition further provides the critical weight threshold that guarantees uniqueness of the high-voltage equilibrium. Numerical simulations validate the proposed method.",
-      "url": "http://arxiv.org/abs/2609.01349v1",
-      "authors": [
-        "Lu Gao",
-        "Lihui Yang",
-        "Feng Ji",
-        "Dong Liu",
-        "Longze Kou"
-      ],
-      "updated": "2026-09-01"
     }
   ]
 }
