@@ -83,6 +83,12 @@ Generated public bibliography snapshots live under
 `site/assets/data/bibreview/`; public BibTeX copies live under
 `site/assets/bib/`. They are generated outputs, not merge inputs.
 
+The publication search uses [Pagefind](https://pagefind.app/). Its fully static
+index is generated after the Jekyll build in `site/_site/pagefind/`; it is a
+deployment artifact, never a tracked source file. Only rendered publication
+pages are indexed, so author, category, year, and arXiv listing pages do not
+pollute publication search results. CI pins Pagefind to `1.5.2`.
+
 ## Maintenance
 
 Run commands from the repository root. `bibreview.yml` is discovered
@@ -213,8 +219,8 @@ The **BibReview integration** workflow checks, among other things:
 - the one-token-per-publication `ID.txt` projection;
 - author mapping consistency;
 - deterministic rendering;
-- JavaScript syntax;
 - the complete Jekyll build;
+- deterministic Pagefind index generation after the Jekyll build;
 - the displayed canonical bibliography date.
 
 The GitHub Pages workflow rebuilds the public site from the reviewed project
@@ -230,10 +236,15 @@ timestamp-only churn.
 ~~~bash
 cd site
 bundle install
-bundle exec jekyll serve --watch
+bundle exec jekyll build
+npx --yes pagefind@1.5.2 --site _site
+bundle exec jekyll serve --no-watch
 ~~~
 
 Then open <http://127.0.0.1:4000/phraise/>.
+
+Run the Pagefind command again after rebuilding the site. The deployment
+workflow performs both build steps automatically.
 
 ## Design boundary
 

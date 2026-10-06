@@ -100,11 +100,6 @@ jobs:
           git diff --exit-code
           git diff --cached --exit-code
 
-      - name: Check search JavaScript syntax
-        run: |
-          node --check site/assets/js/search.js
-          node --check site/assets/js/search-worker.js
-
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -115,6 +110,21 @@ jobs:
       - name: Build PHRAISE Jekyll site
         working-directory: site
         run: bundle exec jekyll build
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build Pagefind search index
+        working-directory: site
+        run: npx --yes pagefind@1.5.2 --site _site
+
+      - name: Validate Pagefind build output
+        run: |
+          test -f site/_site/pagefind/pagefind.js
+          test -f site/_site/pagefind/pagefind-component-ui.js
+          test -f site/_site/pagefind/pagefind-component-ui.css
 
       - name: Validate displayed bibliography update date
         run: |
