@@ -48,13 +48,6 @@ figure.highlight > button:hover {
   padding: 10px 0;
 }
 
-#search-input {
-  width: 97%;
-  padding: 10px;
-  margin: 10px 0;
-  font-size: 16px;
-}
-
 .post-content h3 {
   margin-top: 0;
 }
@@ -120,25 +113,6 @@ figure.highlight > button:hover {
 .tags-list a:hover {
   opacity: 1;
   text-decoration: none;
-}
-
-.message {
-    padding: 10px;
-    margin: 10px 0;
-    border-radius: 4px;
-    font-weight: 500;
-}
-
-.error-message {
-    background-color: #ffebee;
-    color: #c62828;
-    border: 1px solid #ef9a9a;
-}
-
-.warning-message {
-    background-color: #fff8e1;
-    color: #f57f17;
-    border: 1px solid #ffee58;
 }
 
 @keyframes posts-for-tag-fade-in {
