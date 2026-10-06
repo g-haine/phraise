@@ -3,6 +3,10 @@ layout: base
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" data-pagefind-body>
 
+  <span data-pagefind-meta="authors:{{ page.authors | escape }}" hidden></span>
+  <span data-pagefind-meta="year:{{ page.year }}" hidden></span>
+  <span data-pagefind-meta="collection:{{ page.category | capitalize }}" hidden></span>
+
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
