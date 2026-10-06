@@ -6,6 +6,72 @@ body {
   text-justify: inter-character;
 }
 
+:root {
+  --pf-text: var(--minima-text-color);
+  --pf-text-secondary: var(--minima-brand-color);
+  --pf-text-muted: var(--minima-brand-color);
+  --pf-background: var(--minima-background-color);
+  --pf-border: var(--minima-border-color-01);
+  --pf-border-focus: var(--minima-link-base-color);
+  --pf-skeleton: var(--minima-code-background-color);
+  --pf-skeleton-shine: var(--minima-background-color);
+  --pf-hover: var(--minima-code-background-color);
+  --pf-mark: var(--minima-text-color);
+  --pf-outline-focus: var(--minima-link-base-color);
+  --pf-font: inherit;
+  --pf-input-height: 42px;
+  --pf-input-font-size: 1rem;
+  --pf-summary-font-size: 0.875rem;
+  --pf-result-title-font-size: 1.125rem;
+  --pf-result-excerpt-font-size: 1rem;
+  --pf-results-gap: 0;
+  --pf-border-radius: 3px;
+}
+
+pagefind-input {
+  display: block;
+  margin: 1rem 0 0.25rem;
+}
+
+pagefind-summary {
+  display: block;
+}
+
+.phraise-search-results .pf-results {
+  list-style: none;
+  margin: 1rem 0;
+}
+
+.phraise-search-results .phraise-search-result {
+  border-bottom: 1px solid var(--minima-border-color-01);
+  list-style: none;
+  margin: 0;
+  padding: 0.9rem 0;
+}
+
+.phraise-search-results .phraise-search-result:first-child {
+  border-top: 1px solid var(--minima-border-color-01);
+}
+
+.phraise-search-results .phraise-search-result h3 {
+  font-size: 1.125rem;
+  margin-bottom: 0.15rem;
+}
+
+.phraise-search-results .phraise-search-result .post-meta {
+  margin-bottom: 0.35rem;
+}
+
+.phraise-search-results .phraise-search-excerpt {
+  margin-bottom: 0;
+}
+
+.phraise-search-results mark {
+  background: transparent;
+  color: inherit;
+  font-weight: 700;
+}
+
 figure.highlight:hover > button {
   opacity:1
 }
