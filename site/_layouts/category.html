@@ -9,7 +9,16 @@ layout: page
       {%- assign yearsSorted = collection | sort: 'name' | reverse -%}
       <ul class="post-list">
         {%- for y in yearsSorted -%}
-          <h3><i class="fa-solid fa-arrow-right" alt="Right arrow"></i> <strong>In {{ y.name }}</strong> ({{ y.items | size }} items)</h3>
+          <h3 id="year-{{ y.name }}" class="publication-year-heading"><i class="fa-solid fa-arrow-right" alt="Right arrow"></i> <strong>In {{ y.name }}</strong> ({{ y.items | size }} items)</h3>
+          <nav class="publication-year-jump" aria-label="Publication year">
+            <label for="category-year-select-{{ y.name }}">Jump to another year</label>
+            <select id="category-year-select-{{ y.name }}" class="publication-year-select">
+              <option value="" selected>Select a year</option>
+              {%- for jump_year in yearsSorted -%}
+                <option value="#year-{{ jump_year.name }}">{{ jump_year.name }} ({{ jump_year.items | size }})</option>
+              {%- endfor -%}
+            </select>
+          </nav>
           {%- assign posts_in_year = y.items | sort: 'date' | reverse -%}
           {%- for post in posts_in_year -%}
             <li>
@@ -27,7 +36,15 @@ layout: page
           <hr />
         {%- endfor -%}
       </ul>
+      <script>
+        document.querySelectorAll(".publication-year-select").forEach(function (select) {
+          select.addEventListener("change", function () {
+            if (this.value) {
+              window.location.hash = this.value;
+            }
+          });
+        });
+      </script>
     {%- endif -%}
   {%- endif -%}
   
-
