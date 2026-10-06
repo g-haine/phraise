@@ -34,6 +34,7 @@ pagefind-input {
 }
 
 pagefind-summary {
+  color: var(--minima-brand-color) !important;
   display: block;
 }
 
@@ -44,9 +45,12 @@ pagefind-summary {
 
 .phraise-search-results .phraise-search-result {
   border-bottom: 1px solid var(--minima-border-color-01);
+  color: var(--minima-text-color) !important;
   list-style: none;
   margin: 0;
   padding: 0.9rem 0;
+  text-align: justify;
+  text-justify: inter-character;
 }
 
 .phraise-search-results .phraise-search-result:first-child {
@@ -56,20 +60,47 @@ pagefind-summary {
 .phraise-search-results .phraise-search-result h3 {
   font-size: 1.125rem;
   margin-bottom: 0.15rem;
+  text-align: justify;
+  text-justify: inter-character;
 }
 
 .phraise-search-results .phraise-search-result .post-meta {
+  color: var(--minima-brand-color) !important;
   margin-bottom: 0.35rem;
 }
 
 .phraise-search-results .phraise-search-excerpt {
+  color: var(--minima-text-color) !important;
   margin-bottom: 0;
+}
+
+.phraise-search-results .phraise-search-result .post-link {
+  color: var(--minima-link-base-color) !important;
+}
+
+.phraise-search-results .phraise-search-result .post-link:visited {
+  color: var(--minima-link-visited-color) !important;
+}
+
+.phraise-search-results .phraise-search-result .post-link:hover {
+  color: var(--minima-link-hover-color) !important;
 }
 
 .phraise-search-results mark {
   background: transparent;
-  color: inherit;
+  color: var(--minima-text-color) !important;
   font-weight: 700;
+}
+
+pagefind-input .pf-input {
+  background-color: var(--minima-background-color) !important;
+  border-color: var(--minima-border-color-01) !important;
+  color: var(--minima-text-color) !important;
+}
+
+pagefind-input .pf-input::placeholder,
+pagefind-input button {
+  color: var(--minima-brand-color) !important;
 }
 
 figure.highlight:hover > button {
