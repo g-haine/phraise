@@ -103,6 +103,34 @@ pagefind-input button {
   color: var(--minima-brand-color) !important;
 }
 
+.publication-year-jump {
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+  margin: 0.75rem 0 1.5rem;
+  text-align: left;
+}
+
+.publication-year-jump select {
+  background-color: var(--minima-background-color);
+  border: 1px solid var(--minima-border-color-01);
+  border-radius: 3px;
+  color: var(--minima-text-color);
+  font: inherit;
+  padding: 0.3rem 0.5rem;
+}
+
+.publication-year-heading {
+  scroll-margin-top: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+  .publication-year-jump {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
 figure.highlight:hover > button {
   opacity:1
 }
