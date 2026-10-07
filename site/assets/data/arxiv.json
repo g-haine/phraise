@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-06T14:13:13Z",
+  "generated_at": "2026-10-07T14:32:30Z",
   "papers": [
+    {
+      "title": "On Port-Hamiltonian Formulation of Hysteretic Energy Storage Elements: The Backlash Case",
+      "summary": "This paper presents a port-Hamiltonian formulation of backlash-driven hysteretic energy storage elements. First, we revisit the passivity property of backlash-driven storage elements by presenting a family of storage functions. We explicitly derive the corresponding available storage and required supply functions in the sense of Willems, and show the interlacing property of the aforementioned family of storage functions sandwiched between the available storage and required supply functions. Second, using the obtained family of storage functions, we present a port-Hamiltonian formulation of hysteretic inductors. In particular, we show how an appropriate Hamiltonian function is defined using the family of storage functions and how the hysteretic elements can be expressed as a port-Hamiltonian system with feedthrough term, where the feedthrough term represents energy dissipation. Correspondingly, we illustrate its applicability in describing an RC circuit (in parallel and in series) containing a backlash inductor.",
+      "url": "http://arxiv.org/abs/2603.25211v3",
+      "authors": [
+        "Jurrien Keulen",
+        "Bayu Jayawardhana",
+        "Arjan van der Schaft"
+      ],
+      "updated": "2026-10-06"
+    },
     {
       "title": "Demonstration-Calibrated Port-Hamiltonian Retuning for Manipulation Policies",
       "summary": "Diffusion and VLA policies for manipulation are often deployed through downstream impedance controllers. The stiffness and damping gains of these controllers affect task success, yet are commonly inherited from data collection rather than selected for the deployed policy. Although empirical gain sweeps can improve performance, they require repeated evaluation rollouts. We introduce PHRetune, an offline method that derives controller gains for a frozen policy without evaluation rollouts or gain search. Our approach learns a port-Hamiltonian model from demonstrations to estimate the effort and energy associated with the policy's predicted actions. The policy is applied to recorded demonstration observations, and its predictions are assessed against demonstration-derived effort and energy budgets. From this comparison, we derive a single gain scale in closed form, adjusting the downstream controller while preserving the policy and its action representation. The gains are fixed before evaluation, without requiring a prior manipulator model, task rewards, policy retraining, or additional runtime computation. Across LIBERO suites, PHRetune improves Diffusion Policy success by up to 9.4 percentage points, with the derived gains achieving the highest observed success rates in empirical gain sweeps. On all four real-world manipulation tasks, PHRetuned Diffusion Policy outperforms the nominal policy, alternative gain-tuning methods, and a policy-retraining baseline. The same procedure improves success with SmolVLA and OpenVLA-OFT on every task, while reducing acceleration and jerk for both VLA backbones.",
@@ -290,18 +301,6 @@
         "Claudia Totzeck"
       ],
       "updated": "2026-09-11"
-    },
-    {
-      "title": "Structure-Preserving Data-Driven Identification of Port-Hamiltonian Differential-Algebraic Systems",
-      "summary": "We present a data-driven approach to identifying linear index-1 differential-algebraic pH systems (pH-DAEs) based on input-output measurements. In comparison to the identification of port-Hamiltonian (pH) systems, the algebraic constraint and the index condition pose additional challenges. First, we establish a structure-preserving formulation of the considered pH-DAE class and derive an implicit midpoint discretization that preserves the algebraic constraints and discrete dissipation inequality. We formulate the identification problem as a regularized least-squares minimization problem subject to the pH-DAE dynamics. Exploiting the index-1 structure, we reduce the constrained problem to an unconstrained optimization problem over the system parameters while preserving the port-Hamiltonian structure. Next, we derive an adjoint-based formulation to efficiently evaluate the gradient of the resulting reduced cost functional. This enables us to use gradient-based optimization methods for parameter estimation. Under suitable assumptions on the admissible parameter set, the existence of a minimizer is established. Numerical experiments demonstrate that the proposed approach can identify surrogate pH-DAE systems that accurately reproduce the input-output behavior of reference systems. Further investigations show the approach's potential for identifying reduced-order surrogate models. Cross-validation with independent input signals confirms the predictive capability of the identified models.",
-      "url": "http://arxiv.org/abs/2609.07187v1",
-      "authors": [
-        "Tom Zwerschke",
-        "Matthias Ehrhardt",
-        "Michael Günther",
-        "Claudia Totzeck"
-      ],
-      "updated": "2026-09-07"
     }
   ]
 }
