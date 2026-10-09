@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-07T14:32:30Z",
+  "generated_at": "2026-10-09T14:23:25Z",
   "papers": [
+    {
+      "title": "Nonlinear differential-algebraic systems with dissipative port-Hamiltonian structure",
+      "summary": "Different representations of nonlinear dissipative Hamiltonian and port-Hamiltonian (pH) differential-algebraic equations (DAE) systems are derived and compared. Using global geometric and algebraic points of view, including singular Lagrange and Dirac structures, as well as Morse families and their skew counterparts, constraints are incorporated in the models. The results are illustrated specifically with constrained mechanical systems using kinematic and geometric constraints. The relation between the different representations is studied and in particular the conversion of Lagrange into Dirac algebraic constraints and vice versa is discussed. To incorporate dissipation also maximally monotone structures are studied.",
+      "url": "http://arxiv.org/abs/2610.11455v1",
+      "authors": [
+        "Volker Mehrmann",
+        "Arjan van der Schaft"
+      ],
+      "updated": "2026-10-08"
+    },
+    {
+      "title": "Demonstration-Calibrated Port-Hamiltonian Retuning for Manipulation Policies",
+      "summary": "Diffusion and VLA policies for manipulation are often deployed through downstream impedance controllers. The stiffness and damping gains of these controllers affect task success, yet are commonly inherited from data collection rather than selected for the deployed policy. Although empirical gain sweeps can improve performance, they require repeated evaluation rollouts. We introduce PHRetune, an offline method that derives controller gains for a frozen policy without evaluation rollouts or gain search. Our approach learns a port-Hamiltonian model from demonstrations to estimate the effort and energy associated with the policy's predicted actions. The policy is applied to recorded demonstration observations, and its predictions are assessed against demonstration-derived effort and energy budgets. From this comparison, we derive a single gain scale in closed form, adjusting the downstream controller while preserving the policy and its action representation. The gains are fixed before evaluation, without requiring a prior manipulator model, task rewards, policy retraining, or additional runtime computation. Across LIBERO suites, PHRetune improves Diffusion Policy success by up to 9.4 percentage points, with the derived gains achieving the highest observed success rates in empirical gain sweeps. On all four real-world manipulation tasks, PHRetuned Diffusion Policy outperforms the nominal policy, alternative gain-tuning methods, and a policy-retraining baseline. The same procedure improves success with SmolVLA and OpenVLA-OFT on every task, while reducing acceleration and jerk for both VLA backbones.",
+      "url": "http://arxiv.org/abs/2610.05755v2",
+      "authors": [
+        "Yulong Yang",
+        "Fan Wu",
+        "Christine Allen-Blanchette",
+        "Amit Chakraborty"
+      ],
+      "updated": "2026-10-06"
+    },
     {
       "title": "On Port-Hamiltonian Formulation of Hysteretic Energy Storage Elements: The Backlash Case",
       "summary": "This paper presents a port-Hamiltonian formulation of backlash-driven hysteretic energy storage elements. First, we revisit the passivity property of backlash-driven storage elements by presenting a family of storage functions. We explicitly derive the corresponding available storage and required supply functions in the sense of Willems, and show the interlacing property of the aforementioned family of storage functions sandwiched between the available storage and required supply functions. Second, using the obtained family of storage functions, we present a port-Hamiltonian formulation of hysteretic inductors. In particular, we show how an appropriate Hamiltonian function is defined using the family of storage functions and how the hysteretic elements can be expressed as a port-Hamiltonian system with feedthrough term, where the feedthrough term represents energy dissipation. Correspondingly, we illustrate its applicability in describing an RC circuit (in parallel and in series) containing a backlash inductor.",
@@ -11,18 +33,6 @@
         "Arjan van der Schaft"
       ],
       "updated": "2026-10-06"
-    },
-    {
-      "title": "Demonstration-Calibrated Port-Hamiltonian Retuning for Manipulation Policies",
-      "summary": "Diffusion and VLA policies for manipulation are often deployed through downstream impedance controllers. The stiffness and damping gains of these controllers affect task success, yet are commonly inherited from data collection rather than selected for the deployed policy. Although empirical gain sweeps can improve performance, they require repeated evaluation rollouts. We introduce PHRetune, an offline method that derives controller gains for a frozen policy without evaluation rollouts or gain search. Our approach learns a port-Hamiltonian model from demonstrations to estimate the effort and energy associated with the policy's predicted actions. The policy is applied to recorded demonstration observations, and its predictions are assessed against demonstration-derived effort and energy budgets. From this comparison, we derive a single gain scale in closed form, adjusting the downstream controller while preserving the policy and its action representation. The gains are fixed before evaluation, without requiring a prior manipulator model, task rewards, policy retraining, or additional runtime computation. Across LIBERO suites, PHRetune improves Diffusion Policy success by up to 9.4 percentage points, with the derived gains achieving the highest observed success rates in empirical gain sweeps. On all four real-world manipulation tasks, PHRetuned Diffusion Policy outperforms the nominal policy, alternative gain-tuning methods, and a policy-retraining baseline. The same procedure improves success with SmolVLA and OpenVLA-OFT on every task, while reducing acceleration and jerk for both VLA backbones.",
-      "url": "http://arxiv.org/abs/2610.05755v1",
-      "authors": [
-        "Yulong Yang",
-        "Fan Wu",
-        "Christine Allen-Blanchette",
-        "Amit Chakraborty"
-      ],
-      "updated": "2026-10-05"
     },
     {
       "title": "Port-Hamiltonian Neural Networks for Systems with Multiple Asymptotically Stable Equilibria",
@@ -290,17 +300,6 @@
         "Philip E. Paré"
       ],
       "updated": "2026-09-12"
-    },
-    {
-      "title": "Feedback approaches for set-point stabilization of interacting particle systems",
-      "summary": "We explore the problem of asymptotically stabilizing a class of interacting particle systems to a prescribed particle configuration with zero velocity. The class of interacting particle systems is motivated by the Cucker-Smale model on the mean-field level. Rather than designing a feedback by manually solving an IDA-PBC matching equation, we derive a feedback using an instantaneous rolling horizon control algorithm. We show that this feedback preserves the port-Hamiltonian structure of the interacting particle system and therefore allows for an interpretation in the IDA-PBC framework. Additionally, the energy balance of the closed-loop Hamiltonian provides an important tool to prove convergence of the particles' velocities and interaction forces in discrete and continuous time. If the control operator is surjective, we additionally prove convergence of the particle positions to the prescribed configuration.",
-      "url": "http://arxiv.org/abs/2608.17222v2",
-      "authors": [
-        "Daniel Jannik Happ",
-        "Birgit Jacob",
-        "Claudia Totzeck"
-      ],
-      "updated": "2026-09-11"
     }
   ]
 }
