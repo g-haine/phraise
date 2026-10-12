@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-09T14:23:25Z",
+  "generated_at": "2026-10-12T16:45:20Z",
   "papers": [
+    {
+      "title": "Demonstration Calibrated Port-Hamiltonian Retuning for Manipulation Policies",
+      "summary": "Diffusion and VLA policies for manipulation are often deployed through downstream impedance controllers. The stiffness and damping gains of these controllers affect task success, yet are commonly inherited from data collection rather than selected for the deployed policy. Although empirical gain sweeps can improve performance, they require repeated evaluation rollouts. We introduce PHRetune, an offline method that derives controller gains for a frozen policy without evaluation rollouts or gain search. Our approach learns a port-Hamiltonian model from demonstrations to estimate the effort and energy associated with the policy's predicted actions. The policy is applied to recorded demonstration observations, and its predictions are assessed against demonstration-derived effort and energy budgets. From this comparison, we derive a single gain scale in closed form, adjusting the downstream controller while preserving the policy and its action representation. The gains are fixed before evaluation, without requiring a prior manipulator model, task rewards, policy retraining, or additional runtime computation. Across LIBERO suites, PHRetune improves Diffusion Policy success by up to 9.4 percentage points, with the derived gains achieving the highest observed success rates in empirical gain sweeps. On all four real-world manipulation tasks, PHRetuned Diffusion Policy outperforms the nominal policy, alternative gain-tuning methods, and a policy-retraining baseline. The same procedure improves success with SmolVLA and OpenVLA-OFT on every task, while reducing acceleration and jerk for both VLA backbones.",
+      "url": "http://arxiv.org/abs/2610.05755v3",
+      "authors": [
+        "Yulong Yang",
+        "Fan Wu",
+        "Christine Allen-Blanchette",
+        "Amit Chakraborty"
+      ],
+      "updated": "2026-10-09"
+    },
+    {
+      "title": "Discovering Phase Space Structure in Learned Hamiltonian Systems",
+      "summary": "Mechanics-inspired neural dynamical models improve interpretability and physical consistency, but they usually assume a known configuration space, fixed physical parameters, and deterministic prediction from a prescribed initial condition. We introduce Structured Phase Space GAN (SPS-GAN), a conditional generative model that learns structured dynamics from both Cartesian trajectories and video. SPS-GAN combines a port-Hamiltonian backbone with adversarial conditional generation, allowing conservative, dissipative, and forced systems to be represented in a single architecture. To infer latent mechanical structure from raw observations, we use a cyclic-coordinate loss that recovers both the system degrees of freedom and canonical coordinates without access to the true phase space. Experiments on simulated and real-world systems show that SPS-GAN improves trajectory accuracy over supervised dynamics baselines and video consistency over generative baselines, while consistently recovering the correct latent mechanical coordinates across observation modalities and dynamical regimes.",
+      "url": "http://arxiv.org/abs/2509.23003v3",
+      "authors": [
+        "Yulong Yang",
+        "Jiayin Liu",
+        "Vineet Bansal",
+        "Christine Allen-Blanchette"
+      ],
+      "updated": "2026-10-08"
+    },
     {
       "title": "Nonlinear differential-algebraic systems with dissipative port-Hamiltonian structure",
       "summary": "Different representations of nonlinear dissipative Hamiltonian and port-Hamiltonian (pH) differential-algebraic equations (DAE) systems are derived and compared. Using global geometric and algebraic points of view, including singular Lagrange and Dirac structures, as well as Morse families and their skew counterparts, constraints are incorporated in the models. The results are illustrated specifically with constrained mechanical systems using kinematic and geometric constraints. The relation between the different representations is studied and in particular the conversion of Lagrange into Dirac algebraic constraints and vice versa is discussed. To incorporate dissipation also maximally monotone structures are studied.",
@@ -10,18 +34,6 @@
         "Arjan van der Schaft"
       ],
       "updated": "2026-10-08"
-    },
-    {
-      "title": "Demonstration-Calibrated Port-Hamiltonian Retuning for Manipulation Policies",
-      "summary": "Diffusion and VLA policies for manipulation are often deployed through downstream impedance controllers. The stiffness and damping gains of these controllers affect task success, yet are commonly inherited from data collection rather than selected for the deployed policy. Although empirical gain sweeps can improve performance, they require repeated evaluation rollouts. We introduce PHRetune, an offline method that derives controller gains for a frozen policy without evaluation rollouts or gain search. Our approach learns a port-Hamiltonian model from demonstrations to estimate the effort and energy associated with the policy's predicted actions. The policy is applied to recorded demonstration observations, and its predictions are assessed against demonstration-derived effort and energy budgets. From this comparison, we derive a single gain scale in closed form, adjusting the downstream controller while preserving the policy and its action representation. The gains are fixed before evaluation, without requiring a prior manipulator model, task rewards, policy retraining, or additional runtime computation. Across LIBERO suites, PHRetune improves Diffusion Policy success by up to 9.4 percentage points, with the derived gains achieving the highest observed success rates in empirical gain sweeps. On all four real-world manipulation tasks, PHRetuned Diffusion Policy outperforms the nominal policy, alternative gain-tuning methods, and a policy-retraining baseline. The same procedure improves success with SmolVLA and OpenVLA-OFT on every task, while reducing acceleration and jerk for both VLA backbones.",
-      "url": "http://arxiv.org/abs/2610.05755v2",
-      "authors": [
-        "Yulong Yang",
-        "Fan Wu",
-        "Christine Allen-Blanchette",
-        "Amit Chakraborty"
-      ],
-      "updated": "2026-10-06"
     },
     {
       "title": "On Port-Hamiltonian Formulation of Hysteretic Energy Storage Elements: The Backlash Case",
@@ -290,16 +302,6 @@
         "Robert J. Schoelkopf"
       ],
       "updated": "2026-09-14"
-    },
-    {
-      "title": "Port-Transversal Barriers: Graph-Theoretic Safety for Port-Hamiltonian Systems",
-      "summary": "Synthesizing control barrier functions (CBFs) for complex nonlinear systems remains difficult, particularly when safety constraints have high relative degree with respect to the input. In this work, we study the class of composite port-Hamiltonian systems as a network of interconnected subsystems, and this network admits a natural graph structure. We propose a novel graph-theoretic framework for the CBF synthesis problem. The framework addresses the problem of CBF construction for complex nonlinear systems by offering a relative-degree constraint induced by graph distance and a barrier reshaping rule informed by the graph topology. Furthermore, we perform a feasibility analysis of the reshaped barrier under a bounded input constraint and identify the sufficient conditions for feasibility. Lastly, the proposed framework is validated on an LC ladder network, where the CBF feasibility on a capacitor charge constraint depends on where the input enters the network.",
-      "url": "http://arxiv.org/abs/2603.26578v2",
-      "authors": [
-        "Chi Ho Leung",
-        "Philip E. Paré"
-      ],
-      "updated": "2026-09-12"
     }
   ]
 }
