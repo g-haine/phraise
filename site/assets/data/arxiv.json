@@ -1,6 +1,29 @@
 {
-  "generated_at": "2026-10-12T16:45:20Z",
+  "generated_at": "2026-10-14T12:53:52Z",
   "papers": [
+    {
+      "title": "Mixed finite element discretization of intrinsic geometrically exact beams for multiplier-free multibody dynamics",
+      "summary": "The Reissner-Simo and Hodges models are two equivalent continuous descriptions of finite-strain beam dynamics. The Reissner-Simo formulation uses displacements and rotations, while the Hodges formulation is intrinsic and avoids both variables. Although equivalent in theory, the two approaches behave differently after discretization and offer distinct numerical advantages. In this work, we develop a structure-preserving discretization of the intrinsic planar beam formulation. Because the intrinsic equations involve linear differential operators, both kinematic and dynamic boundary conditions can be imposed naturally using mixed finite elements. The resulting formulation also enables multibody systems to be assembled without algebraic constraints, avoiding the stiff differential-algebraic equations typically introduced by kinematic constraints. We demonstrate the approach on different examples, also showing that closed kinematic loops can be modeled without algebraic constraints. The resulting interconnected systems retain a port-Hamiltonian structure, with all nonlinearities confined to the interconnection operator. This structure allows exact energy preservation when combined with implicit midpoint time integration. Furthermore the scheme appears to require less Newton iterations compared to existing energy preserving scheme.",
+      "url": "http://arxiv.org/abs/2607.20245v2",
+      "authors": [
+        "Andrea Brugnoli",
+        "Philipp L. Kinon",
+        "Francesco Sanfedino",
+        "Peter Betsch",
+        "Olivier A. Bauchau"
+      ],
+      "updated": "2026-10-12"
+    },
+    {
+      "title": "Well-Posedness and Strong Convergence of Infinite-Dimensional Port-Hamiltonian Primal-Dual Gradient Dynamics",
+      "summary": "We establish a functional-analytic framework that justifies the LaSalle convergence argument outlined in [van der Schaft, 2026] on port-Hamiltonian primal-dual gradient dynamics for finite-horizon optimal control of linear systems. In addition to strict convexity of the running cost as in \\cite{vanderSchaft2026PDGJuly}, our analysis requires global Lipschitz continuity of the cost gradient. This ensures that the nonlinear gradient operator is well-defined and Lipschitz on the entire underlying space. We establish global well-posedness of the optimizer dynamics: every initial value determines a unique global mild solution, and the associated solution operators form a contraction semigroup. Similar to [Gernandtand Schaller, 2025], this is proved using tools from maximal monotone operator theory. Assuming existence of an optimal solution, we combine a dissipation inequality with an infinite-dimensional LaSalle invariance principle to prove strong convergence of every trajectory with a relatively compact positive orbit to the unique optimal state, control, and costate. Moreover, we present a sufficient condition for compactness through uniform control regularity and show that convergence holds for all initial states. Finally, we present an example with a strictly but not strongly convex running cost for which every mild solution converges strongly to the unique equilibrium, while no global exponential estimate uniformly over initial values can be obtained.",
+      "url": "http://arxiv.org/abs/2610.16263v1",
+      "authors": [
+        "O. V. Iftime",
+        "A. J. van der Schaft"
+      ],
+      "updated": "2026-10-12"
+    },
     {
       "title": "Demonstration Calibrated Port-Hamiltonian Retuning for Manipulation Policies",
       "summary": "Diffusion and VLA policies for manipulation are often deployed through downstream impedance controllers. The stiffness and damping gains of these controllers affect task success, yet are commonly inherited from data collection rather than selected for the deployed policy. Although empirical gain sweeps can improve performance, they require repeated evaluation rollouts. We introduce PHRetune, an offline method that derives controller gains for a frozen policy without evaluation rollouts or gain search. Our approach learns a port-Hamiltonian model from demonstrations to estimate the effort and energy associated with the policy's predicted actions. The policy is applied to recorded demonstration observations, and its predictions are assessed against demonstration-derived effort and energy budgets. From this comparison, we derive a single gain scale in closed form, adjusting the downstream controller while preserving the policy and its action representation. The gains are fixed before evaluation, without requiring a prior manipulator model, task rewards, policy retraining, or additional runtime computation. Across LIBERO suites, PHRetune improves Diffusion Policy success by up to 9.4 percentage points, with the derived gains achieving the highest observed success rates in empirical gain sweeps. On all four real-world manipulation tasks, PHRetuned Diffusion Policy outperforms the nominal policy, alternative gain-tuning methods, and a policy-retraining baseline. The same procedure improves success with SmolVLA and OpenVLA-OFT on every task, while reducing acceleration and jerk for both VLA backbones.",
@@ -267,41 +290,6 @@
         "Jishnu Keshavan"
       ],
       "updated": "2026-09-15"
-    },
-    {
-      "title": "Well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation",
-      "summary": "We characterize the well-posedness of a class of infinite-dimensional port-Hamiltonian systems with boundary control and observation. This class includes in particular the Euler-Bernoulli beam equations and more generally 1D linear infinite-dimensional port-Hamiltonian systems with boundary control and observation as well as coupled systems. It is known, that for the Timoshenko beam models internal well-posedness implies well-posedness of the overall system. By means of an example we show that this is not true for the Euler-Bernoulli beam models. An easy verifiable equivalent condition for well-posedness of the overall system will be presented. We will conclude the paper by applying the obtained results to several Euler-Bernoulli beam models.",
-      "url": "http://arxiv.org/abs/2501.16862v4",
-      "authors": [
-        "Bouchra Elghazi",
-        "Birgit Jacob",
-        "Hans Zwart"
-      ],
-      "updated": "2026-09-14"
-    },
-    {
-      "title": "Systematic Construction of Time-Dependent Hamiltonians for Microwave-Driven Josephson Circuits",
-      "summary": "Time-dependent electromagnetic drives are fundamental for controlling complex quantum systems, including superconducting Josephson circuits. In these devices, accurate time-dependent Hamiltonian models are imperative for predicting their dynamics and designing high-fidelity quantum operations. Existing numerical methods, such as black-box quantization (BBQ) and energy-participation ratio (EPR), excel at modeling the static Hamiltonians of Josephson circuits. However, these techniques do not fully capture the behavior of driven circuits stimulated by external microwave drives, nor do they include a generalized approach to account for the inevitable noise and dissipation that enter through microwave ports. Here, we introduce numerical techniques that leverage classical microwave simulations, efficiently executable in finite-element solvers, to obtain the time-dependent Hamiltonian of microwave-driven superconducting circuits with arbitrary geometries under charge, flux, or mixed electromagnetic modulation. Importantly, our techniques do not rely on a lumped-element description of the superconducting circuit, in contrast to previous approaches to tackling this problem. We demonstrate the versatility of our approach by characterizing the driven properties of realistic circuit devices in complex electromagnetic environments, including coherent dynamics due to charge and flux modulation, as well as drive-induced relaxation and dephasing. Our techniques offer a powerful toolbox for optimizing circuit designs and advancing practical applications in superconducting quantum computing.",
-      "url": "http://arxiv.org/abs/2512.20743v5",
-      "authors": [
-        "Yao Lu",
-        "Tianpu Zhao",
-        "André Vallières",
-        "Kevin C. Smith",
-        "Daniel Weiss",
-        "Xinyuan You",
-        "Yaxing Zhang",
-        "Suhas Ganjam",
-        "Aniket Maiti",
-        "John W. O. Garmon",
-        "Shantanu Mundhada",
-        "Ziwen Huang",
-        "Ian Mondragon-Shem",
-        "Steven M. Girvin",
-        "Jens Koch",
-        "Robert J. Schoelkopf"
-      ],
-      "updated": "2026-09-14"
     }
   ]
 }
