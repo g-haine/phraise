@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-14T12:53:52Z",
+  "generated_at": "2026-10-15T12:40:33Z",
   "papers": [
+    {
+      "title": "TorchSpin: Differentiable Electron Paramagnetic Resonance Simulation in PyTorch",
+      "summary": "Interpreting electron paramagnetic resonance (EPR) spectra commonly requires repeated forward simulation and optimization of spin Hamiltonian parameters. Established software provides mature simulation and fitting methods, but these calculations are not generally available as differentiable components within machine-learning workflows. We present TorchSpin, an open-source PyTorch framework that ports the organization and numerical conventions of EasySpin into a tensor-based computational environment. Representative calculations spanning continuous-wave EPR, ENDOR, pulse EPR, spin dynamics, trajectory simulation, and magnetometry closely reproduced corresponding EasySpin results. In matched benchmarks, TorchSpin CPU execution was faster than EasySpin for six of nine workloads although performance depended strongly on the calculation. We therefore focused on the capabilities enabled by automatic differentiation in PyTorch. In a Cu(II) powder-spectrum demonstration, feedback propagated through TorchSpin improved the quality of a supervised convolutional neural network (CNN) without using parameter labels during refinement. Models trained from randomly initialized CNNs using only noisy spectra and TorchSpin reconstruction loss achieved median similarities of $\\geq$ 0.99. CNNs trained on TorchSpin-generated libraries also transferred without adaptation to independently generated EasySpin spectra with performance comparable to EasySpin-trained controls. Once trained, the CNN produced initial parameter estimates in approximately 1 ms per spectrum while a batch of 512 was processed in approximately 1.3 ms with GPU acceleration. TorchSpin therefore provides both a tested Python implementation of established EPR calculations and a differentiable physical layer for rapid learned inference, spectral refinement, and parameter-label-free training.",
+      "url": "http://arxiv.org/abs/2610.18924v1",
+      "authors": [
+        "Alec H. Follmer"
+      ],
+      "updated": "2026-10-12"
+    },
     {
       "title": "Mixed finite element discretization of intrinsic geometrically exact beams for multiplier-free multibody dynamics",
       "summary": "The Reissner-Simo and Hodges models are two equivalent continuous descriptions of finite-strain beam dynamics. The Reissner-Simo formulation uses displacements and rotations, while the Hodges formulation is intrinsic and avoids both variables. Although equivalent in theory, the two approaches behave differently after discretization and offer distinct numerical advantages. In this work, we develop a structure-preserving discretization of the intrinsic planar beam formulation. Because the intrinsic equations involve linear differential operators, both kinematic and dynamic boundary conditions can be imposed naturally using mixed finite elements. The resulting formulation also enables multibody systems to be assembled without algebraic constraints, avoiding the stiff differential-algebraic equations typically introduced by kinematic constraints. We demonstrate the approach on different examples, also showing that closed kinematic loops can be modeled without algebraic constraints. The resulting interconnected systems retain a port-Hamiltonian structure, with all nonlinearities confined to the interconnection operator. This structure allows exact energy preservation when combined with implicit midpoint time integration. Furthermore the scheme appears to require less Newton iterations compared to existing energy preserving scheme.",
@@ -279,17 +288,6 @@
         "Yann Le Gorrec"
       ],
       "updated": "2026-09-17"
-    },
-    {
-      "title": "Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems",
-      "summary": "Finite-dimensional Koopman models enable efficient linear prediction and control of nonlinear robotic systems. However, models learned purely from trajectory data may violate the energetic structure of the underlying mechanics, producing predictions that exhibit artificial energy growth and diverge under recursive propagation. This work presents a structure-preserving Koopman framework for Euler-Lagrange systems built on generalized-momentum coordinates. The momentum transformation exposes the mechanical actuation as a known, state-independent port, which is preserved explicitly in the lifted dynamics. A structure-constrained neural architecture is developed to jointly learn the lifting functions and a port-Hamiltonian Koopman generator, rendering the learned dynamics passive by construction rather than through penalty terms or post-hoc projection. A Cayley-midpoint discretization further preserves the corresponding storage-dissipation balance exactly in discrete time. These properties are established analytically by deriving the discrete storage balance and associated stability guarantees of the learned predictor. Simulation and experimental studies demonstrate improved prediction accuracy, data efficiency, and closed-loop tracking over Koopman baselines, with increasing gains for higher-dimensional systems.",
-      "url": "http://arxiv.org/abs/2609.17249v1",
-      "authors": [
-        "Rajpal Singh",
-        "Aditya Singh",
-        "Jishnu Keshavan"
-      ],
-      "updated": "2026-09-15"
     }
   ]
 }
