@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-15T12:40:33Z",
+  "generated_at": "2026-10-16T12:27:37Z",
   "papers": [
+    {
+      "title": "Optimal energy conversion -- A port-Hamiltonian approach",
+      "summary": "This paper studies optimal energy conversion in port-Hamiltonian systems. We analyze state- and control-constrained finite-horizon optimal control problems that maximize energy conversion efficiencies. Under suitable reachability conditions, we show that the asymptotic optimal efficiencies exist and coincide with the corresponding optimal cyclic efficiencies. For a class of port-Hamiltonian systems describing coupled storage-conversion components, we further derive intrinsic limits on achievable energy conversion and establish a generalized Carnot-type efficiency bound. Our results provide an optimal-control framework connecting asymptotic optimal operation, cyclic operation, and fundamental efficiency limits for port-Hamiltonian systems.",
+      "url": "http://arxiv.org/abs/2610.21790v1",
+      "authors": [
+        "Guanru Pan",
+        "Karl Worthmann",
+        "Manuel Schaller",
+        "Timm Faulwasser"
+      ],
+      "updated": "2026-10-15"
+    },
     {
       "title": "TorchSpin: Differentiable Electron Paramagnetic Resonance Simulation in PyTorch",
       "summary": "Interpreting electron paramagnetic resonance (EPR) spectra commonly requires repeated forward simulation and optimization of spin Hamiltonian parameters. Established software provides mature simulation and fitting methods, but these calculations are not generally available as differentiable components within machine-learning workflows. We present TorchSpin, an open-source PyTorch framework that ports the organization and numerical conventions of EasySpin into a tensor-based computational environment. Representative calculations spanning continuous-wave EPR, ENDOR, pulse EPR, spin dynamics, trajectory simulation, and magnetometry closely reproduced corresponding EasySpin results. In matched benchmarks, TorchSpin CPU execution was faster than EasySpin for six of nine workloads although performance depended strongly on the calculation. We therefore focused on the capabilities enabled by automatic differentiation in PyTorch. In a Cu(II) powder-spectrum demonstration, feedback propagated through TorchSpin improved the quality of a supervised convolutional neural network (CNN) without using parameter labels during refinement. Models trained from randomly initialized CNNs using only noisy spectra and TorchSpin reconstruction loss achieved median similarities of $\\geq$ 0.99. CNNs trained on TorchSpin-generated libraries also transferred without adaptation to independently generated EasySpin spectra with performance comparable to EasySpin-trained controls. Once trained, the CNN produced initial parameter estimates in approximately 1 ms per spectrum while a batch of 512 was processed in approximately 1.3 ms with GPU acceleration. TorchSpin therefore provides both a tested Python implementation of established EPR calculations and a differentiable physical layer for rapid learned inference, spectral refinement, and parameter-label-free training.",
@@ -275,19 +287,6 @@
         "Philip E. Paré"
       ],
       "updated": "2026-09-18"
-    },
-    {
-      "title": "The distance-based formation controller design for multi-agent systems in port-Hamiltonian form",
-      "summary": "Based on the practical scenario where collisions in formation control may lead to agent damage, this paper investigates the integrated problem of distance-based formation control and collision avoidance for multi-agent systems governed by port-Hamiltonian dynamics. A foundational step involves constructing a signed incidence matrix, which, by design, corresponds to a directed acyclic graph and possesses the full column rank property. To overcome the prevalent issue of local minima in traditional artificial potential fields, a novel design utilizing attraction-only potentials is introduced, with collision avoidance rigorously enforced by safety barriers. This framework leads to a unified controller that concurrently manages velocity tracking, target formation acquisition, and inter-agent safety. The stability of the resulting closed-loop system is guaranteed through LaSalle's invariance principle. Numerical simulations demonstrate the validity and effectiveness of the proposed control strategy.",
-      "url": "http://arxiv.org/abs/2605.18502v2",
-      "authors": [
-        "Jingyi Zhao",
-        "Yongxin Wu",
-        "Héctor García de Marina",
-        "Yuhu Wu",
-        "Yann Le Gorrec"
-      ],
-      "updated": "2026-09-17"
     }
   ]
 }
