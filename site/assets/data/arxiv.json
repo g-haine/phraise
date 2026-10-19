@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-10-16T12:27:37Z",
+  "generated_at": "2026-10-19T14:42:11Z",
   "papers": [
+    {
+      "title": "Mesh Field Theory: Port-Hamiltonian Formulation of Mesh-Based Physics",
+      "summary": "We present Mesh Field Theory (MeshFT) and its neural realization, MeshFT-Net: a structure-preserving framework for mesh-based continuum physics that cleanly separates the physics' topological structure from its metric structure. Imposing minimal physical principles (locality, permutation equivariance, orientation covariance, and energy balance/dissipation inequality), we prove a reduction theorem for mesh-based physics. Under these conditions, the physical dynamics admit a local factorization into a port-Hamiltonian form: the conservative interconnection is fixed uniquely by mesh topology, whereas metric effects enter only through constitutive relations and dissipation. This reduction clarifies what must be fixed and what should be learned, directly informing MeshFT-Net's design. Across evaluations on analytic and realistic datasets, physics-consistency tests, and out-of-distribution validation, MeshFT-Net achieves near-zero energy drift and strong physical fidelity (correct dispersion and momentum conservation) along with robust extrapolation and high data efficiency. By eliminating non-physical degrees of freedom and learning only metric-dependent structure, MeshFT provides a principled inductive bias for stable, faithful, and data-efficient learning-based physical simulation.",
+      "url": "http://arxiv.org/abs/2605.00394v4",
+      "authors": [
+        "Satoshi Noguchi",
+        "Yoshinobu Kawahara"
+      ],
+      "updated": "2026-10-16"
+    },
+    {
+      "title": "Structure-Aware Spatial Kernels for Gaussian Process Distributed Port-Hamiltonian Systems",
+      "summary": "Gaussian process distributed port-Hamiltonian systems (GP-dPHS) enable data-driven modeling of distributed dynamical systems while preserving their physical structure. However, standard stationary kernels can be inefficient for spatially heterogeneous systems because they neither exploit known input invariances nor reflect structured spatial dependencies. We address this limitation with a structure-aware kernel design that removes irrelevant state coordinates and decouples state and spatial dependencies through a tensor-product covariance. This modular construction allows qualitative knowledge of spatial heterogeneity to be incorporated by selecting an appropriate spatial kernel without requiring an analytical description of the underlying profile. Numerical experiments on a nonlinear string with periodic, smoothly varying, and semi-piecewise stiffness profiles demonstrate that structural decoupling consistently improves reconstruction accuracy, while profile-matched spatial kernels yield substantially larger gains in force-field and trajectory reconstruction.",
+      "url": "http://arxiv.org/abs/2610.22575v1",
+      "authors": [
+        "Tianyi Yang",
+        "Thomas Beckers"
+      ],
+      "updated": "2026-10-15"
+    },
     {
       "title": "Optimal energy conversion -- A port-Hamiltonian approach",
       "summary": "This paper studies optimal energy conversion in port-Hamiltonian systems. We analyze state- and control-constrained finite-horizon optimal control problems that maximize energy conversion efficiencies. Under suitable reachability conditions, we show that the asymptotic optimal efficiencies exist and coincide with the corresponding optimal cyclic efficiencies. For a class of port-Hamiltonian systems describing coupled storage-conversion components, we further derive intrinsic limits on achievable energy conversion and establish a generalized Carnot-type efficiency bound. Our results provide an optimal-control framework connecting asymptotic optimal operation, cyclic operation, and fundamental efficiency limits for port-Hamiltonian systems.",
@@ -266,27 +286,6 @@
         "Elisa Capello"
       ],
       "updated": "2026-09-21"
-    },
-    {
-      "title": "Computing the nearest scattering passive system",
-      "summary": "In this paper, we consider linear time-invariant control systems which are bounded real, also known as scattering passive. Our main theoretical contribution is to show the equivalence between such systems and port-Hamiltonian (PH) systems whose factors satisfy certain linear matrix inequalities. Based on this result, we propose a formulation for the problem of finding the nearest bounded real system to a given system, and design an algorithm combining alternating optimization and Nesterov's fast gradient method. This formulation also allows us to check whether a given system is bounded real by solving a semidefinite program, and provide a PH parametrization for it. We illustrate our proposed algorithms on real-world and synthetic data sets.",
-      "url": "http://arxiv.org/abs/2501.11903v2",
-      "authors": [
-        "Karim Cherifi",
-        "Nicolas Gillis",
-        "Punit Sharma"
-      ],
-      "updated": "2026-09-20"
-    },
-    {
-      "title": "Bayesian Safety Guarantees for Port-Hamiltonian Systems with Learned Energy Functions",
-      "summary": "Control barrier functions for port-Hamiltonian systems inherit model uncertainty when the Hamiltonian is learned from data. We show how to propagate this uncertainty into a safety filter with independently tunable credibility budgets. To propagate this uncertainty, we employ a two-stage Bayesian approach. First, posterior prediction over the Hamiltonian yields credible bands for the energy storage, producing Bayesian barriers whose safe sets are high-probability inner approximations of the true allowable set with credibility $1 - (η_{\\mathrm{ptB}})$. Independently, a drift credible ellipsoid accounts for vector field uncertainty in the CBF inequality with credibility $1 - (η_{\\rm dr})$. Since energy and drift uncertainties enter through disjoint credible sets, the end-to-end safety guarantee is at least $1 - (η_{\\rm dr} + η_{\\mathrm{ptB}})$. Experiments on a mass-spring oscillator with a GP-learned Hamiltonian show that the proposed filter preserves safety despite limited and noisy observations.",
-      "url": "http://arxiv.org/abs/2512.24493v3",
-      "authors": [
-        "Chi Ho Leung",
-        "Philip E. Paré"
-      ],
-      "updated": "2026-09-18"
     }
   ]
 }
