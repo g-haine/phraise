@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-19T14:42:11Z",
+  "generated_at": "2026-10-22T12:59:09Z",
   "papers": [
+    {
+      "title": "Port-Hamiltonian systems with energy and power ports",
+      "summary": "We extend the port-Hamiltonian framework defined with respect to a Lagrangian submanifold and a Dirac structure by augmenting the Lagrangian submanifold with the space of external variables. The new pair of conjugated variables is called energy port. We show that in the most general case, the extension describes constrained Hamiltonian systems whose Hamiltonian function depends on inputs.",
+      "url": "http://arxiv.org/abs/2405.01241v2",
+      "authors": [
+        "Kaja Krhac",
+        "Bernhard Maschke",
+        "Arjan van der Schaft"
+      ],
+      "updated": "2026-10-21"
+    },
     {
       "title": "Mesh Field Theory: Port-Hamiltonian Formulation of Mesh-Based Physics",
       "summary": "We present Mesh Field Theory (MeshFT) and its neural realization, MeshFT-Net: a structure-preserving framework for mesh-based continuum physics that cleanly separates the physics' topological structure from its metric structure. Imposing minimal physical principles (locality, permutation equivariance, orientation covariance, and energy balance/dissipation inequality), we prove a reduction theorem for mesh-based physics. Under these conditions, the physical dynamics admit a local factorization into a port-Hamiltonian form: the conservative interconnection is fixed uniquely by mesh topology, whereas metric effects enter only through constitutive relations and dissipation. This reduction clarifies what must be fixed and what should be learned, directly informing MeshFT-Net's design. Across evaluations on analytic and realistic datasets, physics-consistency tests, and out-of-distribution validation, MeshFT-Net achieves near-zero energy drift and strong physical fidelity (correct dispersion and momentum conservation) along with robust extrapolation and high data efficiency. By eliminating non-physical degrees of freedom and learning only metric-dependent structure, MeshFT provides a principled inductive bias for stable, faithful, and data-efficient learning-based physical simulation.",
@@ -274,18 +285,6 @@
         "Karl Worthmann"
       ],
       "updated": "2026-09-22"
-    },
-    {
-      "title": "Adaptive sliding mode formation control for space interferometer missions",
-      "summary": "This paper addresses high-precision formation control for spacecraft operating in low Earth orbit, motivated by the requirements of future space interferometry missions such as SILVIA. The proposed approach formulates the relative dynamics within a port-Hamiltonian framework and introduces an Adaptive Boundary-layer Sliding Mode Control (AB-SMC) law to overcome the limitations of conventional SMC with constant gains. The key innovation lies in a dynamic, error-dependent adjustment of the sliding manifold, enhancing transient performance while guaranteeing high-precision trajectory tracking. Rigorous Lyapunov-based analysis establishes explicit ultimate bounds on the tracking error and ensures closed-loop stability, while extensive Monte Carlo simulations further validate the proposed AB-SMC compared to standard control approaches. Results show that AB-SMC achieves faster convergence, lower control effort, and sub-millimeter tracking accuracy, demonstrating its practical robustness and implementation feasibility in realistic, uncertain orbital environments while respecting low-thrust constraints.",
-      "url": "http://arxiv.org/abs/2609.24693v1",
-      "authors": [
-        "Mauro Mancini",
-        "Giulia Alessandra Tataru",
-        "Satoshi Satoh",
-        "Elisa Capello"
-      ],
-      "updated": "2026-09-21"
     }
   ]
 }
