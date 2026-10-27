@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-22T12:59:09Z",
+  "generated_at": "2026-10-27T13:14:20Z",
   "papers": [
+    {
+      "title": "Energy-Based Fault Detection and Isolation Framework for Flat Port-Hamiltonian Mechanical Systems",
+      "summary": "Fault diagnosis during regulated motion requires informative signals even when feedback attenuates tracking deviations. This paper develops an energy-based diagnostic framework that constructs mechanical port-power residuals without a dedicated dynamic observer. Spectral Hamiltonian Algebraic Power Evaluation (SHAPE) combines port-Hamiltonian variables and differential flatness to generate nominal power references from planned motion for fully actuated mechanical systems with collocated actuation. Subtracting these references from commanded effort multiplied by measured flow yields residuals whose final evaluation requires neither recursive observer updates nor measured-state dynamics calculations. Continuous wavelet transform (CWT) scalograms and a shared-encoder convolutional neural network are used to distinguish nominal operation, actuator loss of effectiveness, anomalous friction, and vibration from complete trajectories. Evaluation uses a simulated six degree of freedom Kinova manipulator under model predictive control and fixed plant-model mismatch, with single faults at a specified joint. Across five training seeds and 3000 held-out test runs, SHAPE-CWT achieves a mean accuracy of 84.69 percent, versus 81.67 percent for torque residuals and 97.17 percent for the generalized momentum observer under common CWT processing. The respective sample standard deviations are 0.70, 0.70, and 0.37 percentage points. These results demonstrate useful fault-type discrimination from algebraic power residuals, while severity-excitation profiles and offline velocity perturbations reveal limits to their diagnostic capability.",
+      "url": "http://arxiv.org/abs/2610.33679v1",
+      "authors": [
+        "Johnny Garcia",
+        "Nicolas Salguero",
+        "Naveed Iqbal",
+        "Brahim Brahmi",
+        "Ramy Rashad"
+      ],
+      "updated": "2026-10-24"
+    },
     {
       "title": "Port-Hamiltonian systems with energy and power ports",
       "summary": "We extend the port-Hamiltonian framework defined with respect to a Lagrangian submanifold and a Dirac structure by augmenting the Lagrangian submanifold with the space of external variables. The new pair of conjugated variables is called energy port. We show that in the most general case, the extension describes constrained Hamiltonian systems whose Hamiltonian function depends on inputs.",
@@ -273,18 +286,6 @@
         "J. Nathan Kutz"
       ],
       "updated": "2026-09-23"
-    },
-    {
-      "title": "Energy-optimal predictive control of discrete-time port-Hamiltonian systems: Closed-loop practical stability",
-      "summary": "We study a dissipativity-based model predictive control (MPC) scheme for energy-optimal constrained output stabilization of a discrete-time nonlinear SISO port-Hamiltonian system described by difference and differential representation. For the optimal control problem to be solved in each MPC step, we establish a measure turnpike behavior. The turnpike set in our work is obtained from the underlying port-Hamiltonian structure without assuming existence of steady-states or periodic orbits. In particular, unlike existing results which typically establish the turnpike property w.r.t. a controlled forward invariant set such as optimal steady-states or optimal periodic orbits, we do not require the turnpike set to be forward control invariant. For MPC, we establish recursive feasibility and show practical stability to the turnpike set w.r.t. the MPC closed loop leveraging both dissipativity and the port-Hamiltonian structure. Finally, we demonstrate our results using two numerical examples.",
-      "url": "http://arxiv.org/abs/2609.25920v1",
-      "authors": [
-        "Vaibhav Kumar Singh",
-        "Manuel Schaller",
-        "Timm Faulwasser",
-        "Karl Worthmann"
-      ],
-      "updated": "2026-09-22"
     }
   ]
 }
