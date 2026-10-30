@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-10-27T13:14:20Z",
+  "generated_at": "2026-10-30T14:12:07Z",
   "papers": [
+    {
+      "title": "A class of port-Hamiltonian systems with general time delays",
+      "summary": "We define a class of infinite dimensional linear port-Hamiltonian delay systems, give a characterization for such systems, and provide an easily verifiable sufficient condition to belong to this class, thereby extending the study by Breiten, Hinsen and Unger in [IEEE Trans. Autom. Control vol. 69, no. 12 (2024), pp. 8924-8930, doi: 10.1109/TAC.2024.3464332]. The results rely on the operator semigroup theoretic treatment of linear delay PDEs.",
+      "url": "http://arxiv.org/abs/2609.05726v2",
+      "authors": [
+        "Rogelio Arancibia Bustos",
+        "Bálint Farkas",
+        "Birgit Jacob",
+        "Merlin Schmitz"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "title": "On the Stability Analysis of Infinite-Dimensional Port-Hamiltonian Systems Within the Variational Framework",
+      "summary": "This paper addresses the stability analysis of a class of linear infinite-dimensional port-Hamiltonian systems formulated within the variational framework. We derive verifiable conditions for the equivalence of the Hamiltonian-induced energy norm and the natural state-space norm, as well as for the generation of a contraction semigroup by the associated system operator. The semigroup generation result is obtained by establishing dissipativity and verifying the required range condition. The proposed conditions simplify the functional-analytic stability analysis of this class of systems in a manner similar to established results for the Stokes-Dirac setting.",
+      "url": "http://arxiv.org/abs/2610.39724v1",
+      "authors": [
+        "Moritz Leitner",
+        "Lukas Ecker",
+        "Markus Schöberl"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "title": "Stable Dynamical Mass Transportation via port-Hamiltonian Structure",
+      "summary": "Dynamical optimal mass transportation over nonlinear systems is often hindered by the curse of dimensionality and open-loop implementation. We propose an alternative framework that sacrifices exact optimality in favor of stability, robustness, and scalability. We use a stochastic port-Hamiltonian system as a reference model. Under suitable structural assumptions, we show that its density converges asymptotically to a prescribed steady-state distribution. We then shape a deterministic nonlinear system into a compatible port-Hamiltonian form and add a local density-feedback term so that its closed-loop continuity equation matches the Fokker-Planck-Kolmogorov equation of the reference model. The resulting feedback drives a broad class of initial distributions to the target distribution. Because the density term is local at the particle level, the controller admits decentralized implementation and avoids solving a global finite-horizon transport problem online. Nonlinear examples and simulations illustrate the method. For linear systems with Gaussian targets, we derive necessary and sufficient conditions for stabilizing density feedback and give explicit controller constructions.",
+      "url": "http://arxiv.org/abs/2610.38465v1",
+      "authors": [
+        "Dongjun Wu",
+        "Yankai Lin",
+        "Gang Feng"
+      ],
+      "updated": "2026-10-28"
+    },
     {
       "title": "Energy-Based Fault Detection and Isolation Framework for Flat Port-Hamiltonian Mechanical Systems",
       "summary": "Fault diagnosis during regulated motion requires informative signals even when feedback attenuates tracking deviations. This paper develops an energy-based diagnostic framework that constructs mechanical port-power residuals without a dedicated dynamic observer. Spectral Hamiltonian Algebraic Power Evaluation (SHAPE) combines port-Hamiltonian variables and differential flatness to generate nominal power references from planned motion for fully actuated mechanical systems with collocated actuation. Subtracting these references from commanded effort multiplied by measured flow yields residuals whose final evaluation requires neither recursive observer updates nor measured-state dynamics calculations. Continuous wavelet transform (CWT) scalograms and a shared-encoder convolutional neural network are used to distinguish nominal operation, actuator loss of effectiveness, anomalous friction, and vibration from complete trajectories. Evaluation uses a simulated six degree of freedom Kinova manipulator under model predictive control and fixed plant-model mismatch, with single faults at a specified joint. Across five training seeds and 3000 held-out test runs, SHAPE-CWT achieves a mean accuracy of 84.69 percent, versus 81.67 percent for torque residuals and 97.17 percent for the generalized momentum observer under common CWT processing. The respective sample standard deviations are 0.70, 0.70, and 0.37 percentage points. These results demonstrate useful fault-type discrimination from algebraic power residuals, while severity-excitation profiles and offline velocity perturbations reveal limits to their diagnostic capability.",
@@ -255,37 +289,6 @@
         "Zeyu Jia"
       ],
       "updated": "2026-09-29"
-    },
-    {
-      "title": "Mathematical modeling, simulation and optimization via (port-Hamiltonian) differential-algebraic equations",
-      "summary": "Differential-algebraic equations (DAEs) present a ubiquitous model class in the automated modeling, simulation, control and optimization of complex finite or infinite dimensional dynamical systems, in particular in the construction of digital twins. When combined with adequate space and time discretization methods they present the work-horse of developments in many engineering domains. However, this approach comes with certain challenges for the numerical methods and in particular in the coupling of systems from different physical domains with different scales or regularity requirements. We survey the modeling with DAEs and address how to overcome some of the challenges via the framework of port-Hamiltonian differential-algebraic systems (pHDAEs) and their simulation and optimization with space-time-model adaptive methods.",
-      "url": "http://arxiv.org/abs/2609.33954v1",
-      "authors": [
-        "Volker Mehrmann"
-      ],
-      "updated": "2026-09-27"
-    },
-    {
-      "title": "Hamiltonian JEPA: Action-Conditioned World Models with an Inherited Control State",
-      "summary": "Planning from pixels needs more than a latent space that is stable and predictable. The state the planner scores must also be organized by how actions move the system. Joint-embedding predictive architectures (JEPAs) avoid pixel reconstruction by predicting future representations, but existing action-conditioned JEPAs ask one embedding to serve both perception and control. We introduce H-JEPA, which separates the two. A wide perceptual code is regularized toward a well-scaled isotropic geometry with a Bures-Wasserstein prior, and a fixed orthonormal slice of that code is the control state, which inherits the code's covariance without any objective of its own. The state evolves under phase-conditioned dissipative port-Hamiltonian dynamics whose input port has orthonormal columns. Port-inverse consistency (PIC) reads the executed action back through the transpose of that port. We show that this readout is exactly the rollout error projected onto the port directions, so PIC is a parameter-free reweighting of prediction error and not an auxiliary action decoder. Untying the readout from the port breaks this identity and loses half of the gain. H-JEPA matches or exceeds reconstruction-free baselines, including the action-decoding Delta-JEPA, on four pixel-based control benchmarks after at most $10$ training epochs, and its largest gain is on OGB-Cube ($91.9$ against $79.3$ percent). Ablations on PushT and OGB-Cube separate the contributions of the structured predictor, PIC, the prediction horizon, the state rank, and the anti-collapse prior.",
-      "url": "http://arxiv.org/abs/2609.33497v1",
-      "authors": [
-        "Tamim Zoabi",
-        "Ameen Ali",
-        "Lior Wolf"
-      ],
-      "updated": "2026-09-27"
-    },
-    {
-      "title": "SIPHy: Sparse identification of port-Hamiltonian systems from noisy data",
-      "summary": "We propose sparse identification of port-Hamiltonian systems (SIPHy), enabling structure-preserving symbolic regression from noisy trajectory observations. The method applies to port-Hamiltonian systems, which provide a general framework for describing dynamical systems in terms of energy exchange, dissipation and control. Our algorithm can jointly identify the Hamiltonian as well as the dissipation and input matrices. Furthermore, we introduce Hamiltonian flow splines to better approximate derivatives of trajectory data corrupted by noise or with missing time points, a major challenge of system identification for differential equations. This method assembles flows of piecewise polynomial Hamiltonians to produce a smooth, differentiable trajectory necessary for sparse regression. Combining flow splines with SIPHy yields interpretable, physically grounded models from noisy and incomplete trajectory data. Because the Hamiltonian, dissipation, and input matrices are identified as separate components, the resulting models can be simulated under control inputs and dissipation regimes never observed during training, thus improving the robustness and generalization capabilities of model discovery methods.",
-      "url": "http://arxiv.org/abs/2609.20399v2",
-      "authors": [
-        "Håkon Noren Myhr",
-        "Sølve Eidnes",
-        "J. Nathan Kutz"
-      ],
-      "updated": "2026-09-23"
     }
   ]
 }
