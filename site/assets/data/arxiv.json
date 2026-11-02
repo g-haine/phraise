@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-30T14:12:07Z",
+  "generated_at": "2026-11-02T17:06:35Z",
   "papers": [
+    {
+      "title": "Exponential stability of port-Hamiltonian systems with unstructured, measurable Hamiltonian densities",
+      "summary": "For first-order port-Hamiltonian systems in the dissipative setting considered here, we characterise exponential stability without any further regularity or block-structure assumption on the Hamiltonian density, thus closing a gap persisting in the literature. The proof requires revisiting the computation of the adjoint generator of the port-Hamiltonian semigroup. Finally, we provide both examples and non-examples showcasing the inconclusiveness of known conditions on the Hamiltonian densities necessary for the application of characterisation results in the literature.",
+      "url": "http://arxiv.org/abs/2610.41326v1",
+      "authors": [
+        "Heinrich Kuettler",
+        "Marcus Waurick"
+      ],
+      "updated": "2026-10-30"
+    },
     {
       "title": "A class of port-Hamiltonian systems with general time delays",
       "summary": "We define a class of infinite dimensional linear port-Hamiltonian delay systems, give a characterization for such systems, and provide an easily verifiable sufficient condition to belong to this class, thereby extending the study by Breiten, Hinsen and Unger in [IEEE Trans. Autom. Control vol. 69, no. 12 (2024), pp. 8924-8930, doi: 10.1109/TAC.2024.3464332]. The results rely on the operator semigroup theoretic treatment of linear delay PDEs.",
@@ -280,15 +290,6 @@
         "Luca Laurenti"
       ],
       "updated": "2026-09-30"
-    },
-    {
-      "title": "Port-Hamiltonian Latent Deliberation: Mitigating the Deliberation Drift Cliff in Test-Time Compute Scaling",
-      "summary": "Test-time compute scaling has emerged as a cornerstone of advanced machine reasoning, yet performing iterative deliberation directly within continuous latent representation spaces reveals a catastrophic pathology: the Deliberation Drift Cliff. While unconstrained recurrent latent models achieve initial reasoning gains at short horizons (K <= 4), their reasoning collapses when extrapolated to deeper thinking steps (K >= 16), dropping by 22% to 62% across standard logical benchmarks. We resolve the trilemma among expressivity, Lyapunov stability, and computational efficiency in test-time latent reasoning through a 22-round empirical and theoretical investigation. We demonstrate that strictly conservative scalar potential gradient flows suppress long-range drift (cliff 3.40%) but bottleneck peak reasoning accuracy at 32.73%, whereas unconstrained rotational flows achieve high symbolic expressivity (82.33%) but suffer a severe 36.87% drift cliff. To resolve this geometric duality, we establish Port-Hamiltonian Latent Deliberation (PH-LD) and propose the Direct-Gradient Pure-Tensor Helmholtz-Hodge Decomposition (DG-HHD). DG-HHD parameterizes the attracting flow as a tangent projection tensor network while orthogonally decoupling non-zero circulation (Hodge machine error 1.65e-17, contraction error 5.55e-17), eliminating runtime autograd dependencies to achieve 1.84x vector field and 2.09x RK45 rollout speedups. In a 15-arm symmetrical Pareto benchmark, DG-HHD achieves 58.67% peak accuracy (+25.94% absolute gain over conservative HHD) and retains 35.27% at K=32. Transferred to small language model (SLM) multi-hop causal reasoning, DG-HHD delivers monotonic compute scaling (49.33% to 51.56%) and suppresses out-of-distribution drift (cliff -0.66%). All 30 Level 0 deterministic invariants are certified.",
-      "url": "http://arxiv.org/abs/2609.37351v1",
-      "authors": [
-        "Zeyu Jia"
-      ],
-      "updated": "2026-09-29"
     }
   ]
 }
