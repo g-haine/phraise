@@ -7,6 +7,7 @@ permalink: /authors/victor-alcaraz-gonzalez
 <p id='info-authors'>Alternative author names: Victor Alcaraz-Gonzalez.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Walter E. Ortega-Munan, Rene Flores-Estrella, Ixbalank Torres, Victor Alcaraz-Gonzalez</span><h3><a class='post-link' href="{{ site.baseurl }}/passive-control-of-a-microbial-electrolysis-cell-for-the-production-of-hydrogen-from-agricultural-wastewater">Passive Control of a Microbial Electrolysis Cell for the Production of Hydrogen From Agricultural Wastewater</a></h3></li>
 <li><span class='post-meta'>2026 -- Walter E. Ortega-Muñan, René Alejandro Flores-Estrella, Ixbalank Torres-Zúñiga, Victor Alcaraz-Gonzalez</span><h3><a class='post-link' href="{{ site.baseurl }}/stabilization-of-two-stage-anaerobic-bioreactors-via-port-hamiltonian-passive-control">Stabilization of two-stage anaerobic bioreactors via Port-Hamiltonian passive control</a></h3></li>
 
 </ul>

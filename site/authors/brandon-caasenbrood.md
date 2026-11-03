@@ -8,6 +8,7 @@ permalink: /authors/brandon-caasenbrood
 <hr />
 <ul class="post-list">
 <li><span class='post-meta'>2022 -- Brandon Caasenbrood, Alexander Pogromsky, Henk Nijmeijer</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-shaping-controllers-for-soft-robot-manipulators-through-port-hamiltonian-cosserat-models">Energy-Shaping Controllers for Soft Robot Manipulators Through Port-Hamiltonian Cosserat Models</a></h3></li>
+<li><span class='post-meta'>2021 -- Brandon Caasenbrood, Alexander Pogromsky, Henk Nijmeijer</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-for-soft-manipulators-using-cosserat-beam-models0">Energy-based Control for Soft Manipulators using Cosserat-beam Models</a></h3></li>
 <li><span class='post-meta'>2021 -- Brandon Caasenbrood, Alexander Pogromsky, Henk Nijmeijer</span><h3><a class='post-link' href="{{ site.baseurl }}/energy-based-control-for-soft-manipulators-using-cosserat-beam-models">Energy-based Control for Soft Manipulators using Cosserat-beam Models</a></h3></li>
 
 </ul>
