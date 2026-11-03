@@ -13,7 +13,7 @@ bibliographic workflow, review state, canonical data, BibTeX, and generated
 Jekyll pages. PHRAISE itself contains the subject-specific configuration,
 curated bibliography, and website presentation.
 
-PHRAISE pins **BibReview v1.7.2** for reproducible maintenance and CI.
+PHRAISE pins **BibReview v1.7.3** for reproducible maintenance and CI.
 
 ## Contributing a publication
 
@@ -94,7 +94,7 @@ pollute publication search results. CI pins Pagefind to `1.5.2`.
 
 This is the **repeatable monthly checklist** for maintaining PHRAISE. Work from
 the **repository root**, not from `site/`. Replace `2026-11` below with the
-month being updated. The commands assume **BibReview v1.7.2**, installed by
+month being updated. The commands assume **BibReview v1.7.3**, installed by
 `phraise.yml`; use the detailed BibReview documentation only for unusual cases.
 
 Do **not** run `bibreview init` on this existing bibliography. No separate
@@ -114,7 +114,7 @@ bibreview --version
 
 **Stop if the working tree is not clean** before creating the branch. After a
 BibReview version change, run `bash install.sh` before `conda activate
-phraise` to update the pinned Conda environment. Expect `bibreview 1.7.2`.
+phraise` to update the pinned Conda environment. Expect `bibreview 1.7.3`.
 
 ### 2. Check project health and provider access
 
