@@ -58,7 +58,7 @@ bond graphs, compositionality, generic, metriplectic structure, nonequilibrium t
 - Borutzky, (2010)
 - Fong, (2019)
 - Mac Lane, (1998)
-- Lohmayer M, Kraus M, Leyendecker S (2026) Energy-based, geometric, and compositional formulation of fluid and plasma models. Communications in Nonlinear Science and Numerical Simulation 152:109384. https://doi.org/10.1016/j.cnsns.2025.10938 -- [10.1016/j.cnsns.2025.109384](https://doi.org/10.1016/j.cnsns.2025.109384)
+- [Lohmayer M, Kraus M, Leyendecker S (2026) Energy-based, geometric, and compositional formulation of fluid and plasma models. Communications in Nonlinear Science and Numerical Simulation 152:109384. https://doi.org/10.1016/j.cnsns.2025.10938](energy-based-geometric-and-compositional-formulation-of-fluid-and-plasma-models) -- [10.1016/j.cnsns.2025.109384](https://doi.org/10.1016/j.cnsns.2025.109384)
 - Callen, (1985)
 - Öttinger, (2005)
 - de Groot, (1984)

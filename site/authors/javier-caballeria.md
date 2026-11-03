@@ -7,6 +7,7 @@ permalink: /authors/javier-caballeria
 <p id='info-authors'>Alternative author names: Javier Caballeria.</p>
 <hr />
 <ul class="post-list">
+<li><span class='post-meta'>2026 -- Javier Caballeria, Hector Ramirez, Laurent Lefèvre, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/on-representations-of-linear-port-hamiltonian-systems-defined-by-dirac-and-lagrange-structures">On Representations of Linear Port-Hamiltonian Systems defined by Dirac and Lagrange structures</a></h3></li>
 <li><span class='post-meta'>2021 -- Javier Caballeria, Hector Ramirez, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/an-irreversible-port-hamiltonian-model-for-a-class-of-piezoelectric-actuators">An irreversible port-Hamiltonian model for a class of piezoelectric actuators</a></h3></li>
 <li><span class='post-meta'>2020 -- Javier Caballeria, Francisco Vargas, Hector Ramirez, Yongxin Wu, Yann Le Gorrec</span><h3><a class='post-link' href="{{ site.baseurl }}/on-linear-quadratic-regulation-of-linear-port-hamiltonian-systems">On Linear Quadratic Regulation of Linear Port-Hamiltonian Systems</a></h3></li>
 
