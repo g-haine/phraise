@@ -13,7 +13,7 @@ bibliographic workflow, review state, canonical data, BibTeX, and generated
 Jekyll pages. PHRAISE itself contains the subject-specific configuration,
 curated bibliography, and website presentation.
 
-PHRAISE pins **BibReview v1.7.1** for reproducible maintenance and CI.
+PHRAISE pins **BibReview v1.7.2** for reproducible maintenance and CI.
 
 ## Contributing a publication
 
@@ -89,12 +89,34 @@ deployment artifact, never a tracked source file. Only rendered publication
 pages are indexed, so author, category, year, and arXiv listing pages do not
 pollute publication search results. CI pins Pagefind to `1.5.2`.
 
-## Maintenance
 
-Run commands from the repository root. `bibreview.yml` is discovered
-automatically.
+## Monthly bibliography update — 10 steps
 
-Validate the project and configured providers:
+This is the **repeatable monthly checklist** for maintaining PHRAISE. Work from
+the **repository root**, not from `site/`. Replace `2026-11` below with the
+month being updated. The commands assume **BibReview v1.7.2**, installed by
+`phraise.yml`; use the detailed BibReview documentation only for unusual cases.
+
+Do **not** run `bibreview init` on this existing bibliography. No separate
+`audit`, `references`, `refresh`, `backfill` or `hygiene` campaign is
+necessary just to add this month's publications.
+
+### 1. Sync, create a branch, and activate the environment
+
+~~~bash
+git switch main
+git pull --ff-only
+git status --short
+git switch -c maintenance/2026-11
+conda activate phraise
+bibreview --version
+~~~
+
+**Stop if the working tree is not clean** before creating the branch. After a
+BibReview version change, run `bash install.sh` before `conda activate
+phraise` to update the pinned Conda environment. Expect `bibreview 1.7.2`.
+
+### 2. Check project health and provider access
 
 ~~~bash
 bibreview validate
@@ -102,49 +124,156 @@ bibreview status
 bibreview providers --check
 ~~~
 
-### Add DOI-backed publications
+Address configuration or provider errors before continuing; a temporary API
+failure is not a reason to reject a publication.
+
+### 3. Discover new publications
 
 ~~~bash
+bibreview --dry-run discover
 bibreview discover
-# Review data/checkID.txt when needed.
+~~~
+
+Candidates enter `data/newID.txt` (accepted for collection),
+`data/checkID.txt` (human relevance review), or `data/badID.txt`
+(rejected). Discovery does not change canonical publications.
+
+### 4. Make the relevance decisions
+
+~~~bash
+bibreview --dry-run review
+bibreview review
+~~~
+
+For each candidate, choose **KEEP**, **REJECT** or **defer**. The interactive
+reviewer displays the publication evidence and saves each decision; no Python
+snippet or manual movement between the DOI queue files is needed. If there is
+nothing to review, continue.
+
+### 5. Collect accepted records
+
+~~~bash
+bibreview --dry-run collect
 bibreview collect
+bibreview status
+~~~
+
+Collection writes **staging**, not the canonical bibliography. A provider
+error or structurally incomplete record can remain pending without blocking
+other valid publications.
+
+### 6. Inspect staging, then explicitly merge
+
+~~~bash
+git status --short
+git diff --stat
+git diff -- data/collected.json
 bibreview --dry-run merge
 bibreview merge
 ~~~
 
-Inspect `data/collected.json` and the BibTeX diff before merging.
+**Before running the real merge**, inspect the planned added/updated counts,
+the staged publication metadata in `data/collected.json`, and the relevant
+tracked BibTeX changes in `bib/`. Stop and resolve unexpected results.
+`merge` is the *only* step here that promotes staged publications to the
+canonical `data/bibliography.json`.
 
-### Add a DOI-less publication
+### 7. Resolve author identities
+
+~~~bash
+bibreview authors
+bibreview authors --apply-safe
+bibreview authors --review
+bibreview authors
+~~~
+
+The safe pass handles unambiguous names. Use the interactive reviewer for
+remaining identities (merge with an existing identity, create a new identity,
+or defer). There is no need to edit `data/author_mappings.json` directly.
+
+### 8. Regenerate the website
+
+~~~bash
+bibreview --dry-run render
+bibreview render
+bibreview --dry-run render
+~~~
+
+Review the resulting changes. The second dry-run should report no remaining
+rendering differences. The website's canonical bibliography update date changes
+only when an effective merge changed the bibliography.
+
+### 9. Check the diff and optionally preview the site
+
+~~~bash
+git diff --check
+git status --short
+git diff --stat
+~~~
+
+Inspect changed publication pages, BibTeX and any generated files. For a local
+preview (optional for a routine update; recommended when presentation changes):
+
+~~~bash
+cd site
+bundle exec jekyll build
+npx --yes pagefind@1.5.2 --site _site
+bundle exec jekyll serve --no-watch
+~~~
+
+Visit `http://127.0.0.1:4000/phraise/`; stop the server with Ctrl+C and
+return to the repository root using `cd ..`.
+
+### 10. Commit and open a pull request
+
+After reviewing the changed files (and only those files):
+
+~~~bash
+git add data/ bib/ site/
+git diff --cached --check
+git diff --cached --stat
+git commit -m "Update PHRAISE bibliography (2026-11)"
+git push -u origin maintenance/2026-11
+~~~
+
+Open a **PR to `main`**, inspect its final diff and wait for **BibReview
+integration** CI to pass; the maintainer performs the final **squash & merge**.
+Do not push bibliographic changes directly to `main`.
+
+**If no new publications were found:** a no-op merge/render is normal. There is
+no need to create an empty monthly PR.
+
+**Exceptional case — missing contributor metadata:** if `collect` leaves a
+candidate pending because the provider has no usable author/editor, first
+finish any already staged merge (step 6; `repair` requires empty staging), then
+run:
+
+~~~bash
+bibreview --dry-run repair
+bibreview repair
+bibreview --dry-run merge
+bibreview merge
+~~~
+
+Inspect the repaired staging before merging, then repeat author reconciliation
+and rendering. Repairs are explicit human decisions, never provider guesses.
+
+### DOI-less additions (when needed)
+
+A publication without a DOI is **not** processed by `discover`. For each
+reviewed DOI-less addition, initialize and complete an evidence manifest:
 
 ~~~bash
 bibreview import --init publication.yml
-# Complete and review publication.yml from authoritative sources.
+# Complete publication.yml from authoritative sources (including reviewed BibTeX).
 bibreview --dry-run import publication.yml
 bibreview import publication.yml
 bibreview --dry-run merge
 bibreview merge
 ~~~
 
-### Resolve contributor identities
-
-~~~bash
-bibreview authors
-bibreview authors --apply-safe
-bibreview authors
-~~~
-
-Resolve any remaining ambiguous cases manually in
-`data/author_mappings.json`.
-
-### Render the site
-
-~~~bash
-bibreview --dry-run render
-bibreview render
-~~~
-
-Rendering is deterministic. In a clean canonical state, running
-`bibreview render` should leave the tracked tree unchanged.
+Inspect its staging, BibTeX and `data/imports/` evidence before merging; then
+repeat steps 7–10 above. Do not invent a DOI.
 
 ## Maintenance workflows
 
