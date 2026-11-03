@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-02T17:06:35Z",
+  "generated_at": "2026-11-03T15:11:04Z",
   "papers": [
+    {
+      "title": "L2-L2-gain bounds for quadratic output systems",
+      "summary": "We derive an explicit bound for the L2-L2-gain of linear time-invariant systems whose output is a quadratic function of the state and the input. Such systems appear naturally in many areas, for example for port-Hamiltonian systems, optimal-control, and stochastic problems. In case the output is purely quadratic in the state, the bound is determined by the supremum over $ω\\in\\mathbb R$ of the L2-norms of the bivariate transfer function restricted to the anti-diagonals $\\{(s,\\, iω-s)\\mid s\\in i\\mathbb R\\}$ of the frequency domain $i\\mathbb R\\times i\\mathbb R $. Further, we show how the bound can be computed by solving linear matrix equations. This result provides a practical tool for assessing and reducing quadratic-output models.",
+      "url": "http://arxiv.org/abs/2607.00552v2",
+      "authors": [
+        "Birgit Hillebrecht"
+      ],
+      "updated": "2026-10-31"
+    },
     {
       "title": "Exponential stability of port-Hamiltonian systems with unstructured, measurable Hamiltonian densities",
       "summary": "For first-order port-Hamiltonian systems in the dissipative setting considered here, we characterise exponential stability without any further regularity or block-structure assumption on the Hamiltonian density, thus closing a gap persisting in the literature. The proof requires revisiting the computation of the adjoint generator of the port-Hamiltonian semigroup. Finally, we provide both examples and non-examples showcasing the inconclusiveness of known conditions on the Hamiltonian densities necessary for the application of characterisation results in the literature.",
@@ -277,17 +286,6 @@
         "Peter Benner",
         "Anshul Prajapati",
         "Paul Van Dooren"
-      ],
-      "updated": "2026-09-30"
-    },
-    {
-      "title": "Safe-by-Design Learning via Energy-based Neural Networks",
-      "summary": "Learning neural-network models of dynamical systems with safety guarantees is a fundamental requirement for their deployment in safety-critical settings. Safety is commonly established by proving the invariance of a desired subset in state-space, ensuring that every trajectory initialized in this subset remains confined to it for all time under admissible inputs. Existing frameworks, however, either rely on computationally expensive post-hoc verification or employ safety-enforcing mechanisms without formal correctness guarantees. In this paper, we introduce a novel neural architecture grounded in energy-based modern Hopfield networks to guarantee safety-by-design while retaining sufficient expressiveness to model complex nonlinear dynamics. Specifically, we integrate modern Hopfield networks with a port-Hamiltonian neural ODE, enabling by design the construction of barrier functions yielding explicit admissible-input sets and quantitative robustness radii. Across several benchmarks, including an 12-dimensional nanodrone model, our framework achieves state-of-the-art performance while producing certified invariant sets that are more robust to external solicitations than comparable existing approaches.",
-      "url": "http://arxiv.org/abs/2609.36942v2",
-      "authors": [
-        "Simone Betteti",
-        "Morteza Lahijanian",
-        "Luca Laurenti"
       ],
       "updated": "2026-09-30"
     }
