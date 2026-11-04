@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-11-03T15:11:04Z",
+  "generated_at": "2026-11-04T15:27:26Z",
   "papers": [
+    {
+      "title": "Comparing model representations and fitting methods for port-Hamiltonian system identification",
+      "summary": "Port-Hamiltonian models describe physical systems by separating stored energy, dissipation and external inputs. Learning such models from data requires a choice of representation and fitting method. We compare using neural networks, analytic expressions and combinations of the two for representing the different components of the port-Hamiltonian system, and compare fitting the models with gradient-based optimisation or sparse regression. Testing on simulations of mechanical and electrical systems, with and without added noise, we present prediction accuracy and computational cost of the different approaches.",
+      "url": "http://arxiv.org/abs/2611.05031v1",
+      "authors": [
+        "Sølve Eidnes",
+        "Håkon Noren Myhr"
+      ],
+      "updated": "2026-11-03"
+    },
+    {
+      "title": "Adaptive data-driven reduced-order models for reciprocal MIMO port-Hamiltonian dynamical systems",
+      "summary": "Port-Hamiltonian (pH) systems provide a general framework for modeling a broad class of physical dynamical systems, including systems with dissipation. Constructing accurate and robust data-driven reduced-order models for general pH systems is challenging. In this work, we focus on an important subclass of pH systems satisfying reciprocity, a property arising naturally in a variety of models. Rather than seeking to preserve the full pH structure, we exploit the additional symmetry provided by reciprocity to develop an efficient data-driven reduced-order modeling approach. We show that every minimal realization of a reciprocal system is self-adjoint with respect to a generally indefinite inner product and can, up to a similarity transformation preserving the pH structure, be represented in a Krein space with a signature inner product. This observation motivates a Galerkin projection onto a tangential rational Krylov subspace with respect to the corresponding indefinite inner product. Although the resulting projection involves full-order state solutions and the unknown inner product, we show that its reduced mass and stiffness matrices can be constructed directly from transfer-function data through a Loewner formulation. We then propose a greedy data-driven procedure that adaptively selects both interpolation frequencies and tangential directions. At every iteration, the frequency is chosen according to the largest transfer-function approximation error, while the tangential direction is selected from a dominant singular direction of the corresponding matrix-valued residual. Numerical experiments for wave propagation in lossy media demonstrate improved approximation efficiency compared with block adaptive interpolation. We further apply the method to spectral mass gauging of a three-dimensional propellant tank to provide an accurate estimate of the tank volume through Weyl's law.",
+      "url": "http://arxiv.org/abs/2611.04065v1",
+      "authors": [
+        "Anarzhan Abilgazy",
+        "Mikhail Zaslavsky"
+      ],
+      "updated": "2026-11-02"
+    },
     {
       "title": "L2-L2-gain bounds for quadratic output systems",
       "summary": "We derive an explicit bound for the L2-L2-gain of linear time-invariant systems whose output is a quadratic function of the state and the input. Such systems appear naturally in many areas, for example for port-Hamiltonian systems, optimal-control, and stochastic problems. In case the output is purely quadratic in the state, the bound is determined by the supremum over $ω\\in\\mathbb R$ of the L2-norms of the bivariate transfer function restricted to the anti-diagonals $\\{(s,\\, iω-s)\\mid s\\in i\\mathbb R\\}$ of the frequency domain $i\\mathbb R\\times i\\mathbb R $. Further, we show how the bound can be computed by solving linear matrix equations. This result provides a practical tool for assessing and reducing quadratic-output models.",
@@ -266,28 +286,6 @@
         "Benjamin Unger"
       ],
       "updated": "2026-10-01"
-    },
-    {
-      "title": "Input-to-state stability of second-order port-Hamiltonian systems under nonlinear dynamic boundary feedback",
-      "summary": "The input-to-state stability of a class of infinite-dimensional second-order port-Hamiltonian systems on a one-dimensional spatial domain is analyzed under nonlinear dynamic boundary feedback and boundary disturbances. Using energy methods in the port-Hamiltonian framework, we obtain sufficient conditions that guarantee uniform input-to-state stability of the closed-loop system.",
-      "url": "http://arxiv.org/abs/2609.39948v1",
-      "authors": [
-        "Bouchra Elghazi",
-        "Birgit Jacob",
-        "Christophe Prieur"
-      ],
-      "updated": "2026-09-30"
-    },
-    {
-      "title": "Robust forms for passive descriptor systems",
-      "summary": "We show how to compute the passivity radius of a given generalized state-space model of a rational transfer function that represents a passive system, both in the continuous-time and discrete-time cases. We then use this to construct robust descriptor realizations. For the continuous-time case, these realizations have a port-Hamiltonian descriptor form. For the discrete-time case a similar result holds for the so-called normalized realizations. The computation of such robust realizations is linked in both these cases to a particular solution of a linear matrix inequality that characterizes the passivity of the transfer function.",
-      "url": "http://arxiv.org/abs/2609.39465v1",
-      "authors": [
-        "Peter Benner",
-        "Anshul Prajapati",
-        "Paul Van Dooren"
-      ],
-      "updated": "2026-09-30"
     }
   ]
 }
