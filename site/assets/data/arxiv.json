@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-11-04T15:27:26Z",
+  "generated_at": "2026-11-05T15:29:37Z",
   "papers": [
+    {
+      "title": "Koopman Generator Decomposition for Port-Hamiltonian Systems",
+      "summary": "Port-Hamiltonian energy balance and Koopman approximation describe different aspects of nonlinear dynamics. This paper distinguishes exact observable identities, measure-dependent Galerkin projections, constrained surrogate identification, and certification of a controller on the nonlinear plant. Conservative weak skewness requires compatible measure and boundary conditions. Dissipative positivity belongs to the metric bracket; it does not generally make the projected first-order dissipative derivation positive. We give an explicit fixed-metric compatibility condition and a constant--Hamiltonian dictionary obstruction, and state the assumptions under which surrogate certificates imply plant bounds. A reproduced pendulum experiment illustrates the practical gap: its learned controller admits an exact shaped-energy certificate on the nonlinear plant, although its fitted quadratic storage is not a plant Lyapunov function and its archived residual-norm diagnostic is uninformative. These conclusions use the specified plant structure; they are not generic finite-data guarantees. The bracket, projection, and Lyapunov arguments are positioned relative to existing structured identification and residual-aware control methods.",
+      "url": "http://arxiv.org/abs/2603.17849v3",
+      "authors": [
+        "Victor M. Preciado"
+      ],
+      "updated": "2026-11-04"
+    },
+    {
+      "title": "Descriptor representations of geometric port-Hamiltonian systems on Hilbert spaces",
+      "summary": "We establish conversions in both directions between geometric and descriptor representations of linear port-Hamiltonian systems on infinite-dimensional Hilbert spaces. For the geometric-to-descriptor conversion, we represent the possibly multivalued inverse Dirac relation by a skew-adjoint operator on enlarged Hilbert spaces, retaining the original operator-domain restrictions. The construction accommodates internal and external ports. We show that the conversions preserve trajectories and the power balance. An incompressible Kelvin--Voigt solid illustrates the results.",
+      "url": "http://arxiv.org/abs/2611.06080v1",
+      "authors": [
+        "Anna Fischer",
+        "Timo Reis"
+      ],
+      "updated": "2026-11-04"
+    },
+    {
+      "title": "Discovering Phase Space Structure in Learned Hamiltonian Systems",
+      "summary": "Mechanics-inspired neural networks provide physically structured models of dynamical systems, but typically assume access to the coordinates in which the underlying dynamics are expressed. While recent generative approaches relax this assumption, they remain limited in their ability to jointly model different dynamical regimes and discover interpretable latent structure. We introduce Structured Phase Space GAN (SPS-GAN), a conditional generative framework that learns mechanical dynamics and discovers latent phase-space structure from Cartesian trajectories or video observations. We achieve this by combining adversarial generation with port-Hamiltonian latent dynamics and extending cyclic-coordinate regularization to account for dissipation and forcing. This formulation supports conservative, dissipative, and forced systems while encouraging compact latent representations from which active degrees of freedom can be identified. Experiments on simulated and real-world systems demonstrate improved trajectory accuracy and video generation quality over competitive baselines, while identifying active latent dimensions consistent with the expected effective degrees of freedom and recovering physically interpretable coordinates across observation modalities and dynamical regimes.",
+      "url": "http://arxiv.org/abs/2509.23003v4",
+      "authors": [
+        "Yulong Yang",
+        "Jiayin Liu",
+        "Vineet Bansal",
+        "Christine Allen-Blanchette"
+      ],
+      "updated": "2026-11-04"
+    },
     {
       "title": "Comparing model representations and fitting methods for port-Hamiltonian system identification",
       "summary": "Port-Hamiltonian models describe physical systems by separating stored energy, dissipation and external inputs. Learning such models from data requires a choice of representation and fitting method. We compare using neural networks, analytic expressions and combinations of the two for representing the different components of the port-Hamiltonian system, and compare fitting the models with gradient-based optimisation or sparse regression. Testing on simulations of mechanical and electrical systems, with and without added noise, we present prediction accuracy and computational cost of the different approaches.",
@@ -175,18 +206,6 @@
       "updated": "2026-10-09"
     },
     {
-      "title": "Discovering Phase Space Structure in Learned Hamiltonian Systems",
-      "summary": "Mechanics-inspired neural dynamical models improve interpretability and physical consistency, but they usually assume a known configuration space, fixed physical parameters, and deterministic prediction from a prescribed initial condition. We introduce Structured Phase Space GAN (SPS-GAN), a conditional generative model that learns structured dynamics from both Cartesian trajectories and video. SPS-GAN combines a port-Hamiltonian backbone with adversarial conditional generation, allowing conservative, dissipative, and forced systems to be represented in a single architecture. To infer latent mechanical structure from raw observations, we use a cyclic-coordinate loss that recovers both the system degrees of freedom and canonical coordinates without access to the true phase space. Experiments on simulated and real-world systems show that SPS-GAN improves trajectory accuracy over supervised dynamics baselines and video consistency over generative baselines, while consistently recovering the correct latent mechanical coordinates across observation modalities and dynamical regimes.",
-      "url": "http://arxiv.org/abs/2509.23003v3",
-      "authors": [
-        "Yulong Yang",
-        "Jiayin Liu",
-        "Vineet Bansal",
-        "Christine Allen-Blanchette"
-      ],
-      "updated": "2026-10-08"
-    },
-    {
       "title": "Nonlinear differential-algebraic systems with dissipative port-Hamiltonian structure",
       "summary": "Different representations of nonlinear dissipative Hamiltonian and port-Hamiltonian (pH) differential-algebraic equations (DAE) systems are derived and compared. Using global geometric and algebraic points of view, including singular Lagrange and Dirac structures, as well as Morse families and their skew counterparts, constraints are incorporated in the models. The results are illustrated specifically with constrained mechanical systems using kinematic and geometric constraints. The relation between the different representations is studied and in particular the conversion of Lagrange into Dirac algebraic constraints and vice versa is discussed. To incorporate dissipation also maximally monotone structures are studied.",
       "url": "http://arxiv.org/abs/2610.11455v1",
@@ -260,32 +279,6 @@
         "Karl Worthmann"
       ],
       "updated": "2026-10-02"
-    },
-    {
-      "title": "Identify then Realize: Contrastive Learning of Latent Port-Hamiltonian Dynamics from Partial Observations",
-      "summary": "Identifying latent state representations and dynamics is essential when direct modeling in observation space is infeasible, particularly under partial and high-dimensional observations. In such settings, representation learning and physics-aware modeling are inherently coupled. We propose CIPHER, a two-stage identify-then-realize framework for learning latent port-Hamiltonian models of conservative and dissipative systems. First, a contrastive teacher jointly learns an encoder and a neural ODE to obtain predictive state representations from observation histories. Second, a student learns an invertible nonlinear coordinate transformation and port-Hamiltonian dynamics by matching encoded observed futures. We establish sufficient conditions for recovering the physical state up to a diffeomorphism and realizing its dynamics in port-Hamiltonian form. Across ten clean and noisy datasets, CIPHER is competitive with or outperforms state-of-the-art baselines by improving long-horizon forecast on complex systems. Further studies show robustness to over-specified latent dimensions and additional predictive gains from pH parameterization.",
-      "url": "http://arxiv.org/abs/2605.16682v2",
-      "authors": [
-        "Peilun Li",
-        "Kaiyuan Tan",
-        "Daniel Moyer",
-        "Thomas Beckers"
-      ],
-      "updated": "2026-10-01"
-    },
-    {
-      "title": "Petrov-Galerkin operator inference with application to stability-encouraging identification",
-      "summary": "Data-driven model order reduction methods such as operator inference enable the efficient construction of reduced-order models directly from high-dimensional time-domain data. Standard operator inference typically seeks a Galerkin-type reduced model in a prescribed low-dimensional subspace by identifying its reduced operators from projected snapshot data. The resulting inference problem is formulated as a least-squares problem admitting an efficient closed-form solution. However, it is well known from intrusive model order reduction for linear time-invariant systems that Petrov-Galerkin projections can additionally preserve important system properties such as stability and passivity. To overcome the limitations of standard operator inference, we extend the framework for linear time-invariant systems to incorporate Petrov-Galerkin projections and provide explicit error expressions and bounds between the intrusive and nonintrusive reduced operators, thus generalizing results from the literature. We demonstrate the proposed approach in the context of dissipative and port-Hamiltonian systems. Furthermore, we introduce a novel convex optimization formulation that explicitly enforces the port-Hamiltonian structure on the inferred operators. The effectiveness of the proposed methods is demonstrated on several well-established benchmark problems, including the CD player, an atmospheric model, a mass-spring-damper system, and a poroelasticity system.",
-      "url": "http://arxiv.org/abs/2610.01295v1",
-      "authors": [
-        "Johannes Rettberg",
-        "Jonas Nicodemus",
-        "Harsh Sharma",
-        "Boris Kramer",
-        "Jörg Fehr",
-        "Benjamin Unger"
-      ],
-      "updated": "2026-10-01"
     }
   ]
 }
