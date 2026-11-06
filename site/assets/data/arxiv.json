@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-05T15:29:37Z",
+  "generated_at": "2026-11-06T15:05:26Z",
   "papers": [
+    {
+      "title": "Funnel MPC for port-Hamiltonian systems",
+      "summary": "Port-Hamiltonian systems are an energy-based modelling formalism, that has strong ties to the physical models and allows interconnection of systems. Funnel MPC, a Model Predictive Control (MPC) scheme, allows for output tracking with prescribed error bounds. Earlier works focused on systems with stable internal dynamics, which typically excludes port-Hamiltonian systems. We introduce a modified stage cost design that takes into account the port-Hamiltonian structure of the system and allows deactivation of the funnel cost. We show initial and recursive feasibility for a class of port-Hamiltonian systems with relative degree one including unstable internal dynamics.",
+      "url": "http://arxiv.org/abs/2611.08015v1",
+      "authors": [
+        "Loris Könitzer",
+        "Jonas Kirchhoff",
+        "Thomas Berger"
+      ],
+      "updated": "2026-11-05"
+    },
     {
       "title": "Koopman Generator Decomposition for Port-Hamiltonian Systems",
       "summary": "Port-Hamiltonian energy balance and Koopman approximation describe different aspects of nonlinear dynamics. This paper distinguishes exact observable identities, measure-dependent Galerkin projections, constrained surrogate identification, and certification of a controller on the nonlinear plant. Conservative weak skewness requires compatible measure and boundary conditions. Dissipative positivity belongs to the metric bracket; it does not generally make the projected first-order dissipative derivation positive. We give an explicit fixed-metric compatibility condition and a constant--Hamiltonian dictionary obstruction, and state the assumptions under which surrogate certificates imply plant bounds. A reproduced pendulum experiment illustrates the practical gap: its learned controller admits an exact shaped-energy certificate on the nonlinear plant, although its fitted quadratic storage is not a plant Lyapunov function and its archived residual-norm diagnostic is uninformative. These conclusions use the specified plant structure; they are not generic finite-data guarantees. The bracket, projection, and Lyapunov arguments are positioned relative to existing structured identification and residual-aware control methods.",
@@ -264,19 +275,6 @@
         "N. Rubiano da Silva",
         "S. P. Walborn",
         "P. H. Souto Ribeiro"
-      ],
-      "updated": "2026-10-02"
-    },
-    {
-      "title": "Nonlinear controlled port-Hamiltonian systems: Existence of (optimal) solutions",
-      "summary": "We investigate the existence of solutions of reversible and irreversible port-Hamilto\\-nian systems. To this end, we utilize the associated exergy, a function that is composed of the system's Hamiltonian and entropy, to prove global existence in time for bounded control functions. Then, we rigorously verify our existence conditions for two examples, the gas-piston system and a network of heat exchangers. Last, we explore model predictive control tailored to irreversible port-Hamiltonian systems by means of a numerical case study with a heat exchanger network.",
-      "url": "http://arxiv.org/abs/2410.18888v2",
-      "authors": [
-        "Willem Esterhuizen",
-        "Bernhard Maschke",
-        "Till Preuster",
-        "Manuel Schaller",
-        "Karl Worthmann"
       ],
       "updated": "2026-10-02"
     }
