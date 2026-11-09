@@ -1,6 +1,29 @@
 {
-  "generated_at": "2026-11-06T15:05:26Z",
+  "generated_at": "2026-11-09T17:33:34Z",
   "papers": [
+    {
+      "title": "Instantaneous control for stabilization of interacting particle systems: convergence rates and dominant frequencies",
+      "summary": "We study a class of Cucker-Smale-type systems with a binary interaction potential subject to an external control input. We apply an instantaneous rolling horizon control (IRHC) feedback to address two different control problems: full set-point stabilization of a spatial configuration with zero velocity and stabilization of the center of mass at a desired position with zero mean velocity using a single external agent. The IRHC feedback has been shown to preserve the port-Hamiltonian structure of the corresponding open-loop systems. We analyze how the control parameters and the time discretization affect convergence rates and oscillation frequencies and compare the IRHC feedback with the corresponding IDA-PBC feedback obtained by omitting an additional correction term. For the reduced center of mass dynamics, we derive explicit predictions for continuous- and discrete-time spectral decay rates and oscillation frequencies and verify these predictions numerically. For the full nonlinear particle system, the controller comparison is done by numerical experiments.",
+      "url": "http://arxiv.org/abs/2611.09838v1",
+      "authors": [
+        "Daniel Jannik Happ",
+        "Birgit Jacob",
+        "Claudia Totzeck"
+      ],
+      "updated": "2026-11-06"
+    },
+    {
+      "title": "PH-Symb : Sparse symbolic identification of nonlinear port-Hamiltoniansystems using Kolmogorov-Arnold networks",
+      "summary": "The paper introduces PH-Symb, a novel symbolic structure-preserving identification method, that combines Kolmogorov Arnold networks and sparse regression to build explicit port-Hamiltonian (pH) models from data. Unlike other Machine Learning or neural pH approaches, PH-Symb recovers physically interpretable and explicit-symbolic components and enforces pH structure by construction. It also introduces a new normalization method that preserves the pH structure. It allows handling both identification from input-state-output (ISO) data and input-output (IO) data, and applications show it delivers interpretable models and lower errors than neural baselines on synthetic and real-world systems.",
+      "url": "http://arxiv.org/abs/2611.09334v1",
+      "authors": [
+        "Achraf El Messaoudi",
+        "Karim Cherifi",
+        "Yann Le Gorrec",
+        "Yongxin Wu"
+      ],
+      "updated": "2026-11-06"
+    },
     {
       "title": "Funnel MPC for port-Hamiltonian systems",
       "summary": "Port-Hamiltonian systems are an energy-based modelling formalism, that has strong ties to the physical models and allows interconnection of systems. Funnel MPC, a Model Predictive Control (MPC) scheme, allows for output tracking with prescribed error bounds. Earlier works focused on systems with stable internal dynamics, which typically excludes port-Hamiltonian systems. We introduce a modified stage cost design that takes into account the port-Hamiltonian structure of the system and allows deactivation of the funnel cost. We show initial and recursive feasibility for a class of port-Hamiltonian systems with relative degree one including unstable internal dynamics.",
@@ -249,34 +272,6 @@
         "Timm Faulwasser"
       ],
       "updated": "2026-10-04"
-    },
-    {
-      "title": "Block numerical ranges for linear relations",
-      "summary": "Linear relations are multivalued generalizations of linear operators whose spectral properties are closely linked to the stability of differential-algebraic equations. Consequently, reliable spectral enclosures are of considerable interest. In this note, we extend the established concept of the block numerical range from operators to linear relations by means of a range representation. Unlike the classical numerical range, the resulting block numerical range may be nonconvex and can therefore detect gaps in the spectrum. We establish fundamental properties of this new notion and derive corresponding spectral enclosure results. Finally, we illustrate the theory with a numerical example comparing the block numerical ranges obtained from different constructions. As an application, we obtain an explicit left-half-plane spectral bound for a class of port-Hamiltonian DAEs.",
-      "url": "http://arxiv.org/abs/2610.04431v1",
-      "authors": [
-        "Rabeb Aydi",
-        "Hannes Gernandt",
-        "Omaima Kchaou",
-        "Carsten Trunk",
-        "Mitsuru Wilson"
-      ],
-      "updated": "2026-10-03"
-    },
-    {
-      "title": "Stimulated Parametric Down-Conversion: From Foundational Coherence to Structured Light Applications",
-      "summary": "Stimulated parametric down-conversion (StimPDC) is the seeded version of the process that underlies much of photonic quantum information. Replacing the vacuum at one input port with a coherent seed leaves the interaction Hamiltonian, the phase-matching function and the two-photon amplitude unchanged, while raising the output to levels accessible with ordinary classical detectors. This review treats the transverse spatial physics of that process. We show that a single relation, in which the idler amplitude is the pointwise product of the pump field with the complex conjugate of the seed, organizes results usually presented separately: the image and coherence transfer experiments of the 1990s; phase conjugation and its use for wavefront correction; the conservation and conjugation of orbital angular momentum, together with the generation of radial modes and geometric intensity patterns; and the processing of vector vortex beams carrying spatially varying polarization. We then consider StimPDC as an instrument rather than as an object of study, covering stimulated emission tomography, the experimental realization of Klyshko's advanced-wave picture, and the transfer of partial coherence, including the conservation of the twist phase of twisted Gaussian Schell-model beams. We close with the quantum regime, reached when the seed approaches the single-photon level or the idler is used as a herald, and with an assessment of open problems and prospective applications.",
-      "url": "http://arxiv.org/abs/2610.03241v1",
-      "authors": [
-        "M. F. Z. Arruda",
-        "M. G. Damaceno",
-        "G. H. dos Santos",
-        "R. Medeiros de Araújo",
-        "N. Rubiano da Silva",
-        "S. P. Walborn",
-        "P. H. Souto Ribeiro"
-      ],
-      "updated": "2026-10-02"
     }
   ]
 }
