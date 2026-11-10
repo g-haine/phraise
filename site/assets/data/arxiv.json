@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-11-09T17:33:34Z",
+  "generated_at": "2026-11-10T15:37:03Z",
   "papers": [
+    {
+      "title": "Controllability with and without Dissipation - a Port-Hamiltonian Approach",
+      "summary": "A port-Hamiltonian system with energy dissipation can be modelled by connecting a larger, non-dissipative system with a so-called closure relation. We study whether approximative controllability of the dissipative system is characterised by the same property of the larger system. The answer is negative in general, but positive for sufficiently well-structured systems - this is our main result. As a simple illustration, we show how approximate controllability of a wave equation implies approximate controllability of a heat equation.",
+      "url": "http://arxiv.org/abs/2611.12145v1",
+      "authors": [
+        "Jochen Glück",
+        "Anthony Hastir",
+        "Birgit Jacob",
+        "Hannes Wagener"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "title": "Stochastic Port-Hamiltonian Gaussian Processes for Learning from Noisy Dynamics on Lie Groups",
+      "summary": "Learning predictive models for dynamics is difficult because observations are often sparse and noisy, while the underlying dynamics evolve on nonlinear configuration manifolds and are affected by environmental dissipation and stochastic disturbances. Standard neural dynamics models can fit short-term trajectories but often violate physical structure, accumulate error over long horizons, or rely on parameterizations that introduce singularities such as gimbal lock. We introduce LieSPHGP, a stochastic Gaussian-process framework for learning rigid body dynamics with port-Hamiltonian structure and stability-aware robustness. LieSPHGP represents motion on Lie groups and Lie algebras, enabling coordinate-consistent optimization without singular parameterizations. Learned mass, potential energy, dissipation, and control components retain physical roles and a separate diffusion term represents stochastic forcing. Each component is modeled by Matérn kernel Gaussian processes which capture uncertainty induced by noisy observations. To improve physical validity, Lie group exponential map updates preserve rotational constraints, while positive-definite damping ensures nonnegative deterministic energy dissipation. The implicit-explicit integrator additionally provides unconditional stability for the frozen linear damping subsystem. The resulting model learns predictive dynamics that are robust to noise, respect rigid body geometry, and capture both intrinsic motion and environmental dissipation. Experiments on various noisy rigid body benchmarks show improved prediction accuracy, stronger long-horizon stability, and better satisfaction of manifold constraints compared with neural dynamics baselines. Code, data and interactive results are available on the project website: https://thribhuvanrapolu.github.io/liesphgp/",
+      "url": "http://arxiv.org/abs/2611.10864v1",
+      "authors": [
+        "Thribhuvan Rapolu",
+        "Luke McLennan",
+        "Chandrajit Bajaj"
+      ],
+      "updated": "2026-11-07"
+    },
+    {
+      "title": "Typed Edge-Tensor Non-Reciprocal Port-Hamiltonian Deliberation for Counterfactual Open-World Deductive Reasoning",
+      "summary": "Scaling test-time computation in continuous latent spaces offers an attractive alternative to verbose token-by-token generation for multi-step deductive reasoning. However, unregularized recurrent latent updates suffer from a deliberation drift cliff when rolled out beyond training horizons, while strictly energy-conserving or symmetric message-passing dynamics cannot break parent-to-child causal symmetry or suppress cyclic modus-ponens amplification on cyclic distraction graphs. We introduce Typed Edge-Tensor Non-Reciprocal Port-Hamiltonian Deliberation (TE-BPHD), a neuro-symbolic continuous-time latent reasoning architecture that couples skew-symmetric port-Hamiltonian conservation with relation-typed non-reciprocal directional transport and monotone dissipative damping on a semantic entity-state manifold. We prove (i) unconditional input-to-state stability and exponential contraction of autonomous rollouts across arbitrary inference depths without external norm projection, (ii) strict directional DAG reachability separation over symmetric message passing, and (iii) exact cycle-suppression margins under finite cyclic horn perturbations. Across counterfactual open-world deductive benchmarks (PrOntoQA-OOD up to depth 15, ProofWriter-OWA Cyclic at depths 5-10, FOLIO-Symbolic, and Cluttr-Relational), TE-BPHD eliminates the deep-horizon drift cliff, improves depth-10 cyclic reasoning accuracy to 90.0% (+/- 0.8%) over symmetric port-Hamiltonian and standard Transformer baselines, and supports zero-retraining adaptive Lyapunov halting that reduces average solver evaluations by 44% with negligible accuracy loss.",
+      "url": "http://arxiv.org/abs/2609.37351v2",
+      "authors": [
+        "Zeyu Jia"
+      ],
+      "updated": "2026-11-07"
+    },
+    {
+      "title": "Port-Hamiltonian Systems Beyond Joules: A Review of Unexpected Application Domains",
+      "summary": "The port-Hamiltonian framework was built for mechanical and electrical systems, where the Hamiltonian is stored energy and the ports carry power. Over the past fifteen years it has spread to chemistry, cell biology, fusion plasmas, musical instruments, district heating, electricity markets, macroeconomics, predator-prey ecology, optimization algorithms and neural-network training. This review maps that spread. We classify each application by what its Hamiltonian really is: physical energy, a thermodynamic potential such as free energy or exergy, or an abstract storage function with no energetic meaning. The review keeps only sources whose bibliographic record we checked against Crossref. The picture that emerges is a continuum. Where a genuine thermodynamic potential exists, the theory is deep and constructive. Where the energy is borrowed, the framework still pays off through compositional interconnection and dissipation inequalities, but the work is younger and scattered. We close with a set of deliberately speculative research directions, including open port-Hamiltonian models of epidemics, opinion dynamics and supply chains, and learned port-Hamiltonian digital twins for structural health monitoring.",
+      "url": "http://arxiv.org/abs/2611.10695v1",
+      "authors": [
+        "Mauricio Muñoz-Arias"
+      ],
+      "updated": "2026-11-07"
+    },
     {
       "title": "Instantaneous control for stabilization of interacting particle systems: convergence rates and dominant frequencies",
       "summary": "We study a class of Cucker-Smale-type systems with a binary interaction potential subject to an external control input. We apply an instantaneous rolling horizon control (IRHC) feedback to address two different control problems: full set-point stabilization of a spatial configuration with zero velocity and stabilization of the center of mass at a desired position with zero mean velocity using a single external agent. The IRHC feedback has been shown to preserve the port-Hamiltonian structure of the corresponding open-loop systems. We analyze how the control parameters and the time discretization affect convergence rates and oscillation frequencies and compare the IRHC feedback with the corresponding IDA-PBC feedback obtained by omitting an additional correction term. For the reduced center of mass dynamics, we derive explicit predictions for continuous- and discrete-time spectral decay rates and oscillation frequencies and verify these predictions numerically. For the full nonlinear particle system, the controller comparison is done by numerical experiments.",
@@ -13,7 +54,7 @@
       "updated": "2026-11-06"
     },
     {
-      "title": "PH-Symb : Sparse symbolic identification of nonlinear port-Hamiltoniansystems using Kolmogorov-Arnold networks",
+      "title": "PH-Symb : Sparse symbolic identification of nonlinear port-Hamiltonian systems using Kolmogorov-Arnold networks",
       "summary": "The paper introduces PH-Symb, a novel symbolic structure-preserving identification method, that combines Kolmogorov Arnold networks and sparse regression to build explicit port-Hamiltonian (pH) models from data. Unlike other Machine Learning or neural pH approaches, PH-Symb recovers physically interpretable and explicit-symbolic components and enforces pH structure by construction. It also introduces a new normalization method that preserves the pH structure. It allows handling both identification from input-state-output (ISO) data and input-output (IO) data, and applications show it delivers interpretable models and lower errors than neural baselines on synthetic and real-world systems.",
       "url": "http://arxiv.org/abs/2611.09334v1",
       "authors": [
@@ -226,52 +267,6 @@
         "A. J. van der Schaft"
       ],
       "updated": "2026-10-12"
-    },
-    {
-      "title": "Demonstration Calibrated Port-Hamiltonian Retuning for Manipulation Policies",
-      "summary": "Diffusion and VLA policies for manipulation are often deployed through downstream impedance controllers. The stiffness and damping gains of these controllers affect task success, yet are commonly inherited from data collection rather than selected for the deployed policy. Although empirical gain sweeps can improve performance, they require repeated evaluation rollouts. We introduce PHRetune, an offline method that derives controller gains for a frozen policy without evaluation rollouts or gain search. Our approach learns a port-Hamiltonian model from demonstrations to estimate the effort and energy associated with the policy's predicted actions. The policy is applied to recorded demonstration observations, and its predictions are assessed against demonstration-derived effort and energy budgets. From this comparison, we derive a single gain scale in closed form, adjusting the downstream controller while preserving the policy and its action representation. The gains are fixed before evaluation, without requiring a prior manipulator model, task rewards, policy retraining, or additional runtime computation. Across LIBERO suites, PHRetune improves Diffusion Policy success by up to 9.4 percentage points, with the derived gains achieving the highest observed success rates in empirical gain sweeps. On all four real-world manipulation tasks, PHRetuned Diffusion Policy outperforms the nominal policy, alternative gain-tuning methods, and a policy-retraining baseline. The same procedure improves success with SmolVLA and OpenVLA-OFT on every task, while reducing acceleration and jerk for both VLA backbones.",
-      "url": "http://arxiv.org/abs/2610.05755v3",
-      "authors": [
-        "Yulong Yang",
-        "Fan Wu",
-        "Christine Allen-Blanchette",
-        "Amit Chakraborty"
-      ],
-      "updated": "2026-10-09"
-    },
-    {
-      "title": "Nonlinear differential-algebraic systems with dissipative port-Hamiltonian structure",
-      "summary": "Different representations of nonlinear dissipative Hamiltonian and port-Hamiltonian (pH) differential-algebraic equations (DAE) systems are derived and compared. Using global geometric and algebraic points of view, including singular Lagrange and Dirac structures, as well as Morse families and their skew counterparts, constraints are incorporated in the models. The results are illustrated specifically with constrained mechanical systems using kinematic and geometric constraints. The relation between the different representations is studied and in particular the conversion of Lagrange into Dirac algebraic constraints and vice versa is discussed. To incorporate dissipation also maximally monotone structures are studied.",
-      "url": "http://arxiv.org/abs/2610.11455v1",
-      "authors": [
-        "Volker Mehrmann",
-        "Arjan van der Schaft"
-      ],
-      "updated": "2026-10-08"
-    },
-    {
-      "title": "On Port-Hamiltonian Formulation of Hysteretic Energy Storage Elements: The Backlash Case",
-      "summary": "This paper presents a port-Hamiltonian formulation of backlash-driven hysteretic energy storage elements. First, we revisit the passivity property of backlash-driven storage elements by presenting a family of storage functions. We explicitly derive the corresponding available storage and required supply functions in the sense of Willems, and show the interlacing property of the aforementioned family of storage functions sandwiched between the available storage and required supply functions. Second, using the obtained family of storage functions, we present a port-Hamiltonian formulation of hysteretic inductors. In particular, we show how an appropriate Hamiltonian function is defined using the family of storage functions and how the hysteretic elements can be expressed as a port-Hamiltonian system with feedthrough term, where the feedthrough term represents energy dissipation. Correspondingly, we illustrate its applicability in describing an RC circuit (in parallel and in series) containing a backlash inductor.",
-      "url": "http://arxiv.org/abs/2603.25211v3",
-      "authors": [
-        "Jurrien Keulen",
-        "Bayu Jayawardhana",
-        "Arjan van der Schaft"
-      ],
-      "updated": "2026-10-06"
-    },
-    {
-      "title": "Port-Hamiltonian Neural Networks for Systems with Multiple Asymptotically Stable Equilibria",
-      "summary": "Stable port-Hamiltonian neural networks certify asymptotic stability by construction. Yet, their Hamiltonian is a global Lyapunov function with a single global minimum, so they can represent only dynamic systems with one attractor. We demonstrate that this excludes even simple systems with energy landscapes forming a double well, and we overcome the restriction by parametrising the Hamiltonian as a product of Bregman divergences generated by one input-convex network. We prove that the resulting model is locally Lyapunov stable, that the coexistence of stable equilibria forces additional non-asymptotically-stable equilibria to exist, that all equilibria lie in a bounded region, and under a hyperbolicity assumption that almost-everywhere stability holds. On three systems our approach is able to recover the energy surface characteristics and improve the convergence speed by 1.8$\\times$-8.5$\\times$.",
-      "url": "http://arxiv.org/abs/2610.01356v2",
-      "authors": [
-        "Simon Heilig",
-        "Jens Püttschneider",
-        "Mohammad Itani",
-        "Asja Fischer",
-        "Timm Faulwasser"
-      ],
-      "updated": "2026-10-04"
     }
   ]
 }
