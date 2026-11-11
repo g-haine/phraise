@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-11-10T15:37:03Z",
+  "generated_at": "2026-11-11T15:15:36Z",
   "papers": [
+    {
+      "title": "Cost controllability and predictive control of input-constrained monotone systems on Hilbert spaces",
+      "summary": "Cost controllability, relating controllability and a performance measure like the stage cost in model predictive control (MPC), is a key tool in the stability and suboptimality analysis of closed-loop systems. We establish cost controllability for maximal monotone control systems subject to input constraints, a class encompassing finite- and infinite-dimensional port-Hamiltonian systems with colocated input and output. To this end, we employ a recently proposed saturated feedback to derive state-dependent bounds on the closed-loop cost. Our main result is that cost controllability holds globally with semiglobal exponential rate. We first establish this result in continuous time and then extend it to sampled-data systems. Whereas a qualitative detectability-like property is sufficient for asymptotic convergence of the controller, cost controllability requires quantitative rates. We provide two verifiable conditions ensuring cost controllability with explicit exponential rates: coercivity of the sum of system operator and output injection, and exponential detectability of the linear part. Moreover, under the coercivity condition, the resulting MPC scheme without terminal conditions renders the equilibrium globally asymptotically stable with semiglobal exponential rate already for prediction horizon two. We illustrate our results by a nonlinear finite-dimensional system, a semilinear heat equation and a nonlinearly damped wave equation.",
+      "url": "http://arxiv.org/abs/2611.14393v1",
+      "authors": [
+        "Till Preuster",
+        "Karl Worthmann",
+        "Lars Grüne",
+        "Manuel Schaller"
+      ],
+      "updated": "2026-11-10"
+    },
+    {
+      "title": "Boundary-controlled irreversible port--Hamiltonian modeling and structure-preserving discretization of tubular reactors",
+      "summary": "This paper presents a boundary-controlled irreversible port-Hamiltonian model and a structure-preserving spatial discretization for a non-isothermal tubular reactor with axial convection, variable-density momentum dynamics, chemical reaction, mass diffusion, heat conduction, and jacket heat transfer. Reaction, diffusion, and heat conduction are described by irreversible port-Hamiltonian channels, whereas convection and momentum are represented by a weighted Eulerian interconnection. The boundary ports recover the axial energy flux and the corresponding entropy flux. A partitioned finite-element method is then formulated in conservative coordinates using a power-preserving change of variables. The semi-discrete model satisfies the Hamiltonian balance and a discrete entropy balance with non-negative entropy production due to reaction, diffusion, heat conduction, and jacket heat transfer. Numerical results for an open tubular reactor are validated against independently computed continuous steady boundary-value solutions and show the transient temperature, composition, and velocity profiles in the very-low-Mach regime. The same discretization is also tested with reciprocal Soret--Dufour coupling, for which the discrete entropy production remains non-negative.",
+      "url": "http://arxiv.org/abs/2611.13421v1",
+      "authors": [
+        "Weijun Zhou"
+      ],
+      "updated": "2026-11-10"
+    },
     {
       "title": "Controllability with and without Dissipation - a Port-Hamiltonian Approach",
       "summary": "A port-Hamiltonian system with energy dissipation can be modelled by connecting a larger, non-dissipative system with a so-called closure relation. We study whether approximative controllability of the dissipative system is characterised by the same property of the larger system. The answer is negative in general, but positive for sufficiently well-structured systems - this is our main result. As a simple illustration, we show how approximate controllability of a wave equation implies approximate controllability of a heat equation.",
@@ -242,29 +263,6 @@
       "url": "http://arxiv.org/abs/2610.18924v1",
       "authors": [
         "Alec H. Follmer"
-      ],
-      "updated": "2026-10-12"
-    },
-    {
-      "title": "Mixed finite element discretization of intrinsic geometrically exact beams for multiplier-free multibody dynamics",
-      "summary": "The Reissner-Simo and Hodges models are two equivalent continuous descriptions of finite-strain beam dynamics. The Reissner-Simo formulation uses displacements and rotations, while the Hodges formulation is intrinsic and avoids both variables. Although equivalent in theory, the two approaches behave differently after discretization and offer distinct numerical advantages. In this work, we develop a structure-preserving discretization of the intrinsic planar beam formulation. Because the intrinsic equations involve linear differential operators, both kinematic and dynamic boundary conditions can be imposed naturally using mixed finite elements. The resulting formulation also enables multibody systems to be assembled without algebraic constraints, avoiding the stiff differential-algebraic equations typically introduced by kinematic constraints. We demonstrate the approach on different examples, also showing that closed kinematic loops can be modeled without algebraic constraints. The resulting interconnected systems retain a port-Hamiltonian structure, with all nonlinearities confined to the interconnection operator. This structure allows exact energy preservation when combined with implicit midpoint time integration. Furthermore the scheme appears to require less Newton iterations compared to existing energy preserving scheme.",
-      "url": "http://arxiv.org/abs/2607.20245v2",
-      "authors": [
-        "Andrea Brugnoli",
-        "Philipp L. Kinon",
-        "Francesco Sanfedino",
-        "Peter Betsch",
-        "Olivier A. Bauchau"
-      ],
-      "updated": "2026-10-12"
-    },
-    {
-      "title": "Well-Posedness and Strong Convergence of Infinite-Dimensional Port-Hamiltonian Primal-Dual Gradient Dynamics",
-      "summary": "We establish a functional-analytic framework that justifies the LaSalle convergence argument outlined in [van der Schaft, 2026] on port-Hamiltonian primal-dual gradient dynamics for finite-horizon optimal control of linear systems. In addition to strict convexity of the running cost as in \\cite{vanderSchaft2026PDGJuly}, our analysis requires global Lipschitz continuity of the cost gradient. This ensures that the nonlinear gradient operator is well-defined and Lipschitz on the entire underlying space. We establish global well-posedness of the optimizer dynamics: every initial value determines a unique global mild solution, and the associated solution operators form a contraction semigroup. Similar to [Gernandtand Schaller, 2025], this is proved using tools from maximal monotone operator theory. Assuming existence of an optimal solution, we combine a dissipation inequality with an infinite-dimensional LaSalle invariance principle to prove strong convergence of every trajectory with a relatively compact positive orbit to the unique optimal state, control, and costate. Moreover, we present a sufficient condition for compactness through uniform control regularity and show that convergence holds for all initial states. Finally, we present an example with a strictly but not strongly convex running cost for which every mild solution converges strongly to the unique equilibrium, while no global exponential estimate uniformly over initial values can be obtained.",
-      "url": "http://arxiv.org/abs/2610.16263v1",
-      "authors": [
-        "O. V. Iftime",
-        "A. J. van der Schaft"
       ],
       "updated": "2026-10-12"
     }
