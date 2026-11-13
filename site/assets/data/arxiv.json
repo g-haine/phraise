@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-11T15:15:36Z",
+  "generated_at": "2026-11-13T15:24:52Z",
   "papers": [
+    {
+      "title": "Relative-energy stabilization of an irreversible port-Hamiltonian tubular reactor",
+      "summary": "This paper develops a relative-energy control approach for a boundary-controlled irreversible port-Hamiltonian model of a non-isothermal tubular reactor around a spatially nonuniform stationary profile. The starting point is a thermodynamic duality between the entropy-based availability used in earlier reactor control and the relative Hamiltonian induced by the irreversible port-Hamiltonian representation. Under physically interpretable stability conditions---positive heat capacity, positive compressibility and positive compositional susceptibility---the Hamiltonian density is shown to be strictly convex, while the corresponding entropy representation is strictly concave. The resulting relative Hamiltonian decomposes into kinetic, compressive, thermal and mixing contributions and yields an exact relative-energy balance in which irreversible dissipation is separated from profile-dependent terms. This structure leads to a bounded monotone distributed jacket feedback that injects thermal damping without cancelling the nonlinear PDE dynamics. A continuous coercivity condition gives a local a-priori decay estimate for sufficiently regular nonlinear solutions, while a composite energy functional provides an exponential estimate for the linearized closed-loop initial-boundary value problem. Structure-preserving PFEM simulations are used to verify the predicted dissipation mechanisms and constrained profile regulation.",
+      "url": "http://arxiv.org/abs/2611.15088v1",
+      "authors": [
+        "Weijun. Zhou"
+      ],
+      "updated": "2026-11-11"
+    },
     {
       "title": "Cost controllability and predictive control of input-constrained monotone systems on Hilbert spaces",
       "summary": "Cost controllability, relating controllability and a performance measure like the stage cost in model predictive control (MPC), is a key tool in the stability and suboptimality analysis of closed-loop systems. We establish cost controllability for maximal monotone control systems subject to input constraints, a class encompassing finite- and infinite-dimensional port-Hamiltonian systems with colocated input and output. To this end, we employ a recently proposed saturated feedback to derive state-dependent bounds on the closed-loop cost. Our main result is that cost controllability holds globally with semiglobal exponential rate. We first establish this result in continuous time and then extend it to sampled-data systems. Whereas a qualitative detectability-like property is sufficient for asymptotic convergence of the controller, cost controllability requires quantitative rates. We provide two verifiable conditions ensuring cost controllability with explicit exponential rates: coercivity of the sum of system operator and output injection, and exponential detectability of the linear part. Moreover, under the coercivity condition, the resulting MPC scheme without terminal conditions renders the equilibrium globally asymptotically stable with semiglobal exponential rate already for prediction horizon two. We illustrate our results by a nonlinear finite-dimensional system, a semilinear heat equation and a nonlinearly damped wave equation.",
@@ -256,15 +265,6 @@
         "Timm Faulwasser"
       ],
       "updated": "2026-10-15"
-    },
-    {
-      "title": "TorchSpin: Differentiable Electron Paramagnetic Resonance Simulation in PyTorch",
-      "summary": "Interpreting electron paramagnetic resonance (EPR) spectra commonly requires repeated forward simulation and optimization of spin Hamiltonian parameters. Established software provides mature simulation and fitting methods, but these calculations are not generally available as differentiable components within machine-learning workflows. We present TorchSpin, an open-source PyTorch framework that ports the organization and numerical conventions of EasySpin into a tensor-based computational environment. Representative calculations spanning continuous-wave EPR, ENDOR, pulse EPR, spin dynamics, trajectory simulation, and magnetometry closely reproduced corresponding EasySpin results. In matched benchmarks, TorchSpin CPU execution was faster than EasySpin for six of nine workloads although performance depended strongly on the calculation. We therefore focused on the capabilities enabled by automatic differentiation in PyTorch. In a Cu(II) powder-spectrum demonstration, feedback propagated through TorchSpin improved the quality of a supervised convolutional neural network (CNN) without using parameter labels during refinement. Models trained from randomly initialized CNNs using only noisy spectra and TorchSpin reconstruction loss achieved median similarities of $\\geq$ 0.99. CNNs trained on TorchSpin-generated libraries also transferred without adaptation to independently generated EasySpin spectra with performance comparable to EasySpin-trained controls. Once trained, the CNN produced initial parameter estimates in approximately 1 ms per spectrum while a batch of 512 was processed in approximately 1.3 ms with GPU acceleration. TorchSpin therefore provides both a tested Python implementation of established EPR calculations and a differentiable physical layer for rapid learned inference, spectral refinement, and parameter-label-free training.",
-      "url": "http://arxiv.org/abs/2610.18924v1",
-      "authors": [
-        "Alec H. Follmer"
-      ],
-      "updated": "2026-10-12"
     }
   ]
 }
