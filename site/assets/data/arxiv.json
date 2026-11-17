@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-13T15:24:52Z",
+  "generated_at": "2026-11-17T16:53:55Z",
   "papers": [
+    {
+      "title": "ANCHOR: A Port-Hamiltonian Model for Forecasting Team Dynamics in Human-in-the-Loop Systems",
+      "summary": "Cyber-physical-human systems close a loop around people by sensing human behavior, predict it and act on it. Human teams are a natural target, because collaboration breaks down in ways that a timely prompt could prevent. Collaborative mixed reality makes this loop practical, since each headset senses who speaks, where its wearer looks and who stands together, and it can deliver a light prompt. In this loop, the headsets are sensors, the prompts are actuators and the team is the plant. Closing the loop needs a plant model that is small enough to learn from few teams, safe to iterate and readable by a designer. We propose ANCHOR, which models a team as a ball in an energy bowl. The bottom of the bowl is where the team rests, and it is set by the team's recent behavior, its own history and other teams. Formally, ANCHOR is a switched port-Hamiltonian system with 52 parameters, and each part stands for a testable claim from team psychology. Because of this structure, for any fitted parameters, a forecast moves away from rest only when task progress or a prompt pushes it, and prompts of bounded size that are spaced in time move it a bounded distance. On \\nGroups{} four-person teams held out from training, a team that drifts from its usual behavior returns most of the way within half a minute. After 32 s, about 24% of the deviation remains, and ANCHOR predicted 30%. Forecasts are clearly better when the resting point blends its three sources than when it uses one. ANCHOR matches the accuracy of a black-box baseline with about 40,000 parameters. It anticipates conversation collapse with an AUROC of 0.85. In simulation under assumed prompt effects, it removes 2.2 times as much breakdown time per prompt as periodic prompting.",
+      "url": "http://arxiv.org/abs/2611.19124v1",
+      "authors": [
+        "Diana Romero",
+        "Salma Elmalaki"
+      ],
+      "updated": "2026-11-14"
+    },
     {
       "title": "Relative-energy stabilization of an irreversible port-Hamiltonian tubular reactor",
       "summary": "This paper develops a relative-energy control approach for a boundary-controlled irreversible port-Hamiltonian model of a non-isothermal tubular reactor around a spatially nonuniform stationary profile. The starting point is a thermodynamic duality between the entropy-based availability used in earlier reactor control and the relative Hamiltonian induced by the irreversible port-Hamiltonian representation. Under physically interpretable stability conditions---positive heat capacity, positive compressibility and positive compositional susceptibility---the Hamiltonian density is shown to be strictly convex, while the corresponding entropy representation is strictly concave. The resulting relative Hamiltonian decomposes into kinetic, compressive, thermal and mixing contributions and yields an exact relative-energy balance in which irreversible dissipation is separated from profile-dependent terms. This structure leads to a bounded monotone distributed jacket feedback that injects thermal damping without cancelling the nonlinear PDE dynamics. A continuous coercivity condition gives a local a-priori decay estimate for sufficiently regular nonlinear solutions, while a composite energy functional provides an exponential estimate for the linearized closed-loop initial-boundary value problem. Structure-preserving PFEM simulations are used to verify the predicted dissipation mechanisms and constrained profile regulation.",
@@ -251,18 +261,6 @@
       "authors": [
         "Tianyi Yang",
         "Thomas Beckers"
-      ],
-      "updated": "2026-10-15"
-    },
-    {
-      "title": "Optimal energy conversion -- A port-Hamiltonian approach",
-      "summary": "This paper studies optimal energy conversion in port-Hamiltonian systems. We analyze state- and control-constrained finite-horizon optimal control problems that maximize energy conversion efficiencies. Under suitable reachability conditions, we show that the asymptotic optimal efficiencies exist and coincide with the corresponding optimal cyclic efficiencies. For a class of port-Hamiltonian systems describing coupled storage-conversion components, we further derive intrinsic limits on achievable energy conversion and establish a generalized Carnot-type efficiency bound. Our results provide an optimal-control framework connecting asymptotic optimal operation, cyclic operation, and fundamental efficiency limits for port-Hamiltonian systems.",
-      "url": "http://arxiv.org/abs/2610.21790v1",
-      "authors": [
-        "Guanru Pan",
-        "Karl Worthmann",
-        "Manuel Schaller",
-        "Timm Faulwasser"
       ],
       "updated": "2026-10-15"
     }
