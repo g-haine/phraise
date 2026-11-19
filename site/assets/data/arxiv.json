@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-17T16:53:55Z",
+  "generated_at": "2026-11-19T16:35:21Z",
   "papers": [
+    {
+      "title": "A curvature-corrected port-Hamiltonian reduced-order model for dissipative sloshing with contact-line hysteresis in low-gravity tanks",
+      "summary": "A physics-based reduced-order model unifies curved-meniscus inertia, viscous losses and nonsmooth contact-line stick-slip in a passive port-Hamiltonian formulation for lateral sloshing in cylindrical tanks. Dirichlet-Neumann and Jacobi operators describe inertia and restoring forces, while a convex potential combines bulk, Stokes-layer and contact-line dissipation. Analytical propagation between stick-slip events supports faster-than-real-time simulation of coupled spacecraft translation and sloshing. The viscous closure agrees within 5% with a reference Stokes calculation, and the model reproduces the Henderson-Miles modal measurements and the Cocciaro hysteretic decay. Across 42 drop-tower and ground measurements, curvature correction reduces the root-mean-square frequency error from 24 to 4%. For flight and ground tests from the Middeck 0-Gravity Dynamics Experiment (MODE), frequency errors range from 0.9 to 7.1%, while ideal contact lines underestimate the damping ratios from the MODE fits by 38-87%. One hysteresis width, calibrated on the lowest orbital water excitation, predicts higher orbital excitations and the ground test with normalised force errors of 11-35%, against 149-208% for an ideal pinned line. It predicts 8.5% resonance softening against 7.3% measured, which the tested one-parameter damping laws miss. Uncertain wetting and remaining response discrepancies motivate damping ranges in spacecraft control analyses.",
+      "url": "http://arxiv.org/abs/2611.24736v1",
+      "authors": [
+        "Gianni Cassoni",
+        "Fabrizio Gennari",
+        "Jacopo Serafini",
+        "Pierangelo Masarati"
+      ],
+      "updated": "2026-11-18"
+    },
     {
       "title": "ANCHOR: A Port-Hamiltonian Model for Forecasting Team Dynamics in Human-in-the-Loop Systems",
       "summary": "Cyber-physical-human systems close a loop around people by sensing human behavior, predict it and act on it. Human teams are a natural target, because collaboration breaks down in ways that a timely prompt could prevent. Collaborative mixed reality makes this loop practical, since each headset senses who speaks, where its wearer looks and who stands together, and it can deliver a light prompt. In this loop, the headsets are sensors, the prompts are actuators and the team is the plant. Closing the loop needs a plant model that is small enough to learn from few teams, safe to iterate and readable by a designer. We propose ANCHOR, which models a team as a ball in an energy bowl. The bottom of the bowl is where the team rests, and it is set by the team's recent behavior, its own history and other teams. Formally, ANCHOR is a switched port-Hamiltonian system with 52 parameters, and each part stands for a testable claim from team psychology. Because of this structure, for any fitted parameters, a forecast moves away from rest only when task progress or a prompt pushes it, and prompts of bounded size that are spaced in time move it a bounded distance. On \\nGroups{} four-person teams held out from training, a team that drifts from its usual behavior returns most of the way within half a minute. After 32 s, about 24% of the deviation remains, and ANCHOR predicted 30%. Forecasts are clearly better when the resting point blends its three sources than when it uses one. ANCHOR matches the accuracy of a black-box baseline with about 40,000 parameters. It anticipates conversation collapse with an AUROC of 0.85. In simulation under assumed prompt effects, it removes 2.2 times as much breakdown time per prompt as periodic prompting.",
@@ -253,16 +265,6 @@
         "Yoshinobu Kawahara"
       ],
       "updated": "2026-10-16"
-    },
-    {
-      "title": "Structure-Aware Spatial Kernels for Gaussian Process Distributed Port-Hamiltonian Systems",
-      "summary": "Gaussian process distributed port-Hamiltonian systems (GP-dPHS) enable data-driven modeling of distributed dynamical systems while preserving their physical structure. However, standard stationary kernels can be inefficient for spatially heterogeneous systems because they neither exploit known input invariances nor reflect structured spatial dependencies. We address this limitation with a structure-aware kernel design that removes irrelevant state coordinates and decouples state and spatial dependencies through a tensor-product covariance. This modular construction allows qualitative knowledge of spatial heterogeneity to be incorporated by selecting an appropriate spatial kernel without requiring an analytical description of the underlying profile. Numerical experiments on a nonlinear string with periodic, smoothly varying, and semi-piecewise stiffness profiles demonstrate that structural decoupling consistently improves reconstruction accuracy, while profile-matched spatial kernels yield substantially larger gains in force-field and trajectory reconstruction.",
-      "url": "http://arxiv.org/abs/2610.22575v1",
-      "authors": [
-        "Tianyi Yang",
-        "Thomas Beckers"
-      ],
-      "updated": "2026-10-15"
     }
   ]
 }
