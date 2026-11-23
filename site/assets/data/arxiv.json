@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-20T16:10:24Z",
+  "generated_at": "2026-11-23T19:15:23Z",
   "papers": [
+    {
+      "title": "Convex Structure-Preserving EDMD: Passive Koopman Matrices as $Q$-Contractions",
+      "summary": "Extended dynamic mode decomposition (EDMD) approximates the Koopman operator using a matrix based on a finite set of observables. However, the least-squares matrix of a port-Hamiltonian (pH) system is generally neither passive nor invariant-preserving. We demonstrate that the implicit midpoint discretization of a lifted pH model precisely preserves energy balance, passivity, and all linear Casimirs for every step size. For a fixed storage metric $Q$, the resulting Koopman matrices are the Cayley transforms of $(J-R)Q$, where $J$ is skew-symmetric and $R$ is positive semidefinite. This set does not depend on the step size and is the closure of all Q-contractions. This set is LMI-representable; therefore, structure-preserving EDMD, including ports through a discrete-time Kalman-Yakubovich-Popov condition and Casimirs through affine constraints, is a semidefinite program. The constrained estimate is a projection of the unconstrained estimate in the data-weighted norm and cannot increase estimation error when the population target is pH-compatible. For every $Q$-contraction, a certified bound on the lifted prediction error grows linearly at most in time, whereas it grows geometrically for unconstrained models with Q-gain above one. Benchmarks on a damped pendulum and a damped rigid body demonstrate that constrained models never generate energy and that imposed Casimirs are maintained with solver accuracy (approximately $10^{-8}$). In contrast, EDMD may diverge or lose the Casimir with noisy data. The benchmarks also demonstrate that when $Q$ is the physical energy, the constrained models are less accurate than EDMD and can exhibit significant structural bias.",
+      "url": "http://arxiv.org/abs/2611.27730v1",
+      "authors": [
+        "Matthias Ehrhardt",
+        "Achraf Zinihi"
+      ],
+      "updated": "2026-11-20"
+    },
     {
       "title": "Funnel MPC for port-Hamiltonian systems",
       "summary": "Port-Hamiltonian systems are an energy-based modelling formalism, that has strong ties to the physical models and allows interconnection of systems. Funnel MPC, a Model Predictive Control (MPC) scheme, allows for output tracking with prescribed error bounds. Earlier works focused on systems with stable internal dynamics, which typically excludes port-Hamiltonian systems. We introduce a modified stage cost design that takes into account the port-Hamiltonian structure of the system and allows deactivation of the funnel cost. We show initial and recursive feasibility for a class of port-Hamiltonian systems with relative degree one including unstable internal dynamics.",
@@ -251,17 +261,6 @@
         "Markus Schöberl"
       ],
       "updated": "2026-10-29"
-    },
-    {
-      "title": "Stable Dynamical Mass Transportation via port-Hamiltonian Structure",
-      "summary": "Dynamical optimal mass transportation over nonlinear systems is often hindered by the curse of dimensionality and open-loop implementation. We propose an alternative framework that sacrifices exact optimality in favor of stability, robustness, and scalability. We use a stochastic port-Hamiltonian system as a reference model. Under suitable structural assumptions, we show that its density converges asymptotically to a prescribed steady-state distribution. We then shape a deterministic nonlinear system into a compatible port-Hamiltonian form and add a local density-feedback term so that its closed-loop continuity equation matches the Fokker-Planck-Kolmogorov equation of the reference model. The resulting feedback drives a broad class of initial distributions to the target distribution. Because the density term is local at the particle level, the controller admits decentralized implementation and avoids solving a global finite-horizon transport problem online. Nonlinear examples and simulations illustrate the method. For linear systems with Gaussian targets, we derive necessary and sufficient conditions for stabilizing density feedback and give explicit controller constructions.",
-      "url": "http://arxiv.org/abs/2610.38465v1",
-      "authors": [
-        "Dongjun Wu",
-        "Yankai Lin",
-        "Gang Feng"
-      ],
-      "updated": "2026-10-28"
     }
   ]
 }
