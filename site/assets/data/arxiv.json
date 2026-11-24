@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-11-23T19:15:23Z",
+  "generated_at": "2026-11-24T18:54:36Z",
   "papers": [
+    {
+      "title": "Two energy methods for distributed port-Hamiltonian systems and their application to stability analysis",
+      "summary": "We develop two local energy methods for distributed parameter port-Hamiltonian (pH) systems on one-dimensional spatial domains. The methods are applied to derive a characterization of exponential stability directly in terms of the energy passing through the boundary over a given time horizon. The resulting condition is verified for a network of vibrating strings where existing sufficient conditions cannot be applied. Moreover, we use a local energy method to study the short-time behavior of pH systems with boundary damping which was recently studied in the context of hypocoercivity.",
+      "url": "http://arxiv.org/abs/2511.23336v2",
+      "authors": [
+        "Marco Roschkowski",
+        "Hannes Gernandt"
+      ],
+      "updated": "2026-11-22"
+    },
+    {
+      "title": "Multi-Order Passive Macromodeling from Layouts via Nested Port-Hamiltonian Learning",
+      "summary": "Compact, passive state-space macromodels of interconnects and power-delivery networks are essential for stable transient signal- and power-integrity simulations. However, conventional flows require costly per-layout full-wave electromagnetic (EM) simulations, while both traditional fitting and prior learning surrogates rely on post-hoc fitting or passivity perturbation that degrades accuracy without guaranteeing convergence. In this work, we propose an end-to-end macromodeling framework that learns directly in the passive space, mapping physical layout graphs to multi-order port-Hamiltonian (pH) macromodels. Specifically, our network encodes each layout graph into unconstrained matrix blocks and assembles them via a complete, prefix-nested pH parameterization that guarantees continuous-frequency passivity and stability by construction, yielding valid $k$-state macromodels via direct state slicing in one forward pass. To train all orders without reference realizations, we supervise the network directly on S-parameters through a progressive order-growth curriculum. Evaluated on 27k unseen test structures from a 270k-structure advanced-packaging dataset, our framework reduces mean S-parameter error by $42\\%$ on average (up to $65\\%$) over established macromodeling tools fitted to ground-truth EM responses, achieves zero passivity violations across $459{,}000$ exported models, and accelerates macromodel generation by $11{,}000$--$39{,}000\\times$ ($36$--$85$~ms per layout).",
+      "url": "http://arxiv.org/abs/2611.28778v1",
+      "authors": [
+        "Benchao Zhu",
+        "Keren Zhu"
+      ],
+      "updated": "2026-11-21"
+    },
     {
       "title": "Convex Structure-Preserving EDMD: Passive Koopman Matrices as $Q$-Contractions",
       "summary": "Extended dynamic mode decomposition (EDMD) approximates the Koopman operator using a matrix based on a finite set of observables. However, the least-squares matrix of a port-Hamiltonian (pH) system is generally neither passive nor invariant-preserving. We demonstrate that the implicit midpoint discretization of a lifted pH model precisely preserves energy balance, passivity, and all linear Casimirs for every step size. For a fixed storage metric $Q$, the resulting Koopman matrices are the Cayley transforms of $(J-R)Q$, where $J$ is skew-symmetric and $R$ is positive semidefinite. This set does not depend on the step size and is the closure of all Q-contractions. This set is LMI-representable; therefore, structure-preserving EDMD, including ports through a discrete-time Kalman-Yakubovich-Popov condition and Casimirs through affine constraints, is a semidefinite program. The constrained estimate is a projection of the unconstrained estimate in the data-weighted norm and cannot increase estimation error when the population target is pH-compatible. For every $Q$-contraction, a certified bound on the lifted prediction error grows linearly at most in time, whereas it grows geometrically for unconstrained models with Q-gain above one. Benchmarks on a damped pendulum and a damped rigid body demonstrate that constrained models never generate energy and that imposed Casimirs are maintained with solver accuracy (approximately $10^{-8}$). In contrast, EDMD may diverge or lose the Casimir with noisy data. The benchmarks also demonstrate that when $Q$ is the physical energy, the constrained models are less accurate than EDMD and can exhibit significant structural bias.",
@@ -238,29 +258,6 @@
         "Marcus Waurick"
       ],
       "updated": "2026-10-30"
-    },
-    {
-      "title": "A class of port-Hamiltonian systems with general time delays",
-      "summary": "We define a class of infinite dimensional linear port-Hamiltonian delay systems, give a characterization for such systems, and provide an easily verifiable sufficient condition to belong to this class, thereby extending the study by Breiten, Hinsen and Unger in [IEEE Trans. Autom. Control vol. 69, no. 12 (2024), pp. 8924-8930, doi: 10.1109/TAC.2024.3464332]. The results rely on the operator semigroup theoretic treatment of linear delay PDEs.",
-      "url": "http://arxiv.org/abs/2609.05726v2",
-      "authors": [
-        "Rogelio Arancibia Bustos",
-        "Bálint Farkas",
-        "Birgit Jacob",
-        "Merlin Schmitz"
-      ],
-      "updated": "2026-10-29"
-    },
-    {
-      "title": "On the Stability Analysis of Infinite-Dimensional Port-Hamiltonian Systems Within the Variational Framework",
-      "summary": "This paper addresses the stability analysis of a class of linear infinite-dimensional port-Hamiltonian systems formulated within the variational framework. We derive verifiable conditions for the equivalence of the Hamiltonian-induced energy norm and the natural state-space norm, as well as for the generation of a contraction semigroup by the associated system operator. The semigroup generation result is obtained by establishing dissipativity and verifying the required range condition. The proposed conditions simplify the functional-analytic stability analysis of this class of systems in a manner similar to established results for the Stokes-Dirac setting.",
-      "url": "http://arxiv.org/abs/2610.39724v1",
-      "authors": [
-        "Moritz Leitner",
-        "Lukas Ecker",
-        "Markus Schöberl"
-      ],
-      "updated": "2026-10-29"
     }
   ]
 }
