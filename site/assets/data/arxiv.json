@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-24T18:54:36Z",
+  "generated_at": "2026-11-25T17:58:48Z",
   "papers": [
+    {
+      "title": "Learning in the Passive Space: End-to-End Muti-Order Port-Hamiltonian Macromodeling",
+      "summary": "Compact, passive state-space macromodels of interconnects and power-delivery networks are essential for stable transient signal- and power-integrity simulations. However, conventional flows require costly per-layout full-wave electromagnetic (EM) simulations, while both traditional fitting and prior learning surrogates rely on post-hoc fitting or passivity perturbation that degrades accuracy without guaranteeing convergence. In this work, we propose an end-to-end macromodeling framework that learns directly in the passive space, mapping physical layout graphs to multi-order port-Hamiltonian (pH) macromodels. Specifically, our network encodes each layout graph into unconstrained matrix blocks and assembles them via a complete, prefix-nested pH parameterization that guarantees continuous-frequency passivity and stability by construction, yielding valid $k$-state macromodels via direct state slicing in one forward pass. To train all orders without reference realizations, we supervise the network directly on S-parameters through a progressive order-growth curriculum. Evaluated on 27k unseen test structures from a 270k-structure advanced-packaging dataset, our framework reduces mean S-parameter error by $42\\%$ on average (up to $65\\%$) over established macromodeling tools fitted to ground-truth EM responses, achieves zero passivity violations across $459{,}000$ exported models, and accelerates macromodel generation by $11{,}000$--$39{,}000\\times$ ($36$--$85$~ms per layout).",
+      "url": "http://arxiv.org/abs/2611.28778v2",
+      "authors": [
+        "Benchao Zhu",
+        "Keren Zhu"
+      ],
+      "updated": "2026-11-24"
+    },
+    {
+      "title": "The cyborg fly: reflexes survive engineered actuators, coordination needs stand-ins",
+      "summary": "Two wiring diagrams now cover the whole central nervous system of an adult fruit fly: one female, one male. Can such a diagram, run as a network of spiking neurons, drive a body? And if we swap the body's muscles for engineered actuators, what survives? We ran both connectomes, BANC and MaleCNS, as leaky integrate-and-fire networks of about 160,000 neurons each, and closed the loop through simulated sensors, actuators and bodies for walking and flight. The actuators are port-Hamiltonian, so energy is audited at every step, and swapping one for another changes only a configuration file. Null networks shuffled at five levels, from the whole nervous system to synapse counts, test whether a result depends on the wiring. The wiring produced specific functions: sugar on the labellum drove the proboscis motor neuron, leg joints resisted imposed movement, leg circuits oscillated, a looming disc drove a take-off signal on its side (in MaleCNS), and descending neurons throttled and steered flight. The resistance reflex survived 20 of 20 actuator settings in MaleCNS and 19 of 20 in BANC, including a Hill-type muscle pair and a geared DC motor; the actuator set walking speed and energy cost instead. Coordinated six-leg walking, flight stability and the correction of perturbations did not emerge. Each needed a labelled engineered stand-in, which the connectome could command. Such stand-ins can also manufacture an apparent dependence on wiring: in a rebuild of a published closed loop, odour navigation came from a hand-written rule, and the network entered only through one valence number. The two animals differed on some functions, and the differences traced to wiring, such as a haltere drive of the flight power muscles found only in MaleCNS. A whole-CNS connectome, embodied, gives reflexes, rhythms and command signals, but not the coordination that turns them into behaviour.",
+      "url": "http://arxiv.org/abs/2611.31644v1",
+      "authors": [
+        "Mauricio Muñoz Arias"
+      ],
+      "updated": "2026-11-23"
+    },
     {
       "title": "Two energy methods for distributed port-Hamiltonian systems and their application to stability analysis",
       "summary": "We develop two local energy methods for distributed parameter port-Hamiltonian (pH) systems on one-dimensional spatial domains. The methods are applied to derive a characterization of exponential stability directly in terms of the energy passing through the boundary over a given time horizon. The resulting condition is verified for a network of vibrating strings where existing sufficient conditions cannot be applied. Moreover, we use a local energy method to study the short-time behavior of pH systems with boundary damping which was recently studied in the context of hypocoercivity.",
@@ -10,16 +29,6 @@
         "Hannes Gernandt"
       ],
       "updated": "2026-11-22"
-    },
-    {
-      "title": "Multi-Order Passive Macromodeling from Layouts via Nested Port-Hamiltonian Learning",
-      "summary": "Compact, passive state-space macromodels of interconnects and power-delivery networks are essential for stable transient signal- and power-integrity simulations. However, conventional flows require costly per-layout full-wave electromagnetic (EM) simulations, while both traditional fitting and prior learning surrogates rely on post-hoc fitting or passivity perturbation that degrades accuracy without guaranteeing convergence. In this work, we propose an end-to-end macromodeling framework that learns directly in the passive space, mapping physical layout graphs to multi-order port-Hamiltonian (pH) macromodels. Specifically, our network encodes each layout graph into unconstrained matrix blocks and assembles them via a complete, prefix-nested pH parameterization that guarantees continuous-frequency passivity and stability by construction, yielding valid $k$-state macromodels via direct state slicing in one forward pass. To train all orders without reference realizations, we supervise the network directly on S-parameters through a progressive order-growth curriculum. Evaluated on 27k unseen test structures from a 270k-structure advanced-packaging dataset, our framework reduces mean S-parameter error by $42\\%$ on average (up to $65\\%$) over established macromodeling tools fitted to ground-truth EM responses, achieves zero passivity violations across $459{,}000$ exported models, and accelerates macromodel generation by $11{,}000$--$39{,}000\\times$ ($36$--$85$~ms per layout).",
-      "url": "http://arxiv.org/abs/2611.28778v1",
-      "authors": [
-        "Benchao Zhu",
-        "Keren Zhu"
-      ],
-      "updated": "2026-11-21"
     },
     {
       "title": "Convex Structure-Preserving EDMD: Passive Koopman Matrices as $Q$-Contractions",
@@ -248,16 +257,6 @@
         "Birgit Hillebrecht"
       ],
       "updated": "2026-10-31"
-    },
-    {
-      "title": "Exponential stability of port-Hamiltonian systems with unstructured, measurable Hamiltonian densities",
-      "summary": "For first-order port-Hamiltonian systems in the dissipative setting considered here, we characterise exponential stability without any further regularity or block-structure assumption on the Hamiltonian density, thus closing a gap persisting in the literature. The proof requires revisiting the computation of the adjoint generator of the port-Hamiltonian semigroup. Finally, we provide both examples and non-examples showcasing the inconclusiveness of known conditions on the Hamiltonian densities necessary for the application of characterisation results in the literature.",
-      "url": "http://arxiv.org/abs/2610.41326v1",
-      "authors": [
-        "Heinrich Kuettler",
-        "Marcus Waurick"
-      ],
-      "updated": "2026-10-30"
     }
   ]
 }
