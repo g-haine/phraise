@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-25T17:58:48Z",
+  "generated_at": "2026-11-26T17:44:09Z",
   "papers": [
+    {
+      "title": "Structure Preserving Iterative Solution of Linear Systems Arising in Gauss Collocation for port-Hamiltonian DAEs",
+      "summary": "This work presents structure-preserving computational techniques for the pencil Padé approximation arising in the numerical integration of port-Hamiltonian differential-algebraic equations (pH-DAEs) via the Gauss-Legendre schemes. We first extend the concept of the diagonal Padé approximation and introduce a generalized framework characterizing the $s$-stage Gauss method. We further examine its structural properties and the role of the full orthogonalization method (FOM) in approximating the discrete solution. Building on this, we analyze the iterative approximation of the pencil Pade approximation and establish conditions on the search space in Petrov-Galerkin-type approximations which guarantee that structure-induced properties, such as dissipativity or energy preservation, are inherited by the Petrov-Galerkin approximations. In particular, we show that FOM-based Krylov subspace methods preserve these properties iterate-wise. The presented results provide a new insight into the interplay between Krylov subspace methods and energy preservation in the numerical integration of pH-DAEs. Finally, we conclude with numerical examples illustrating the convergence and the conservation of the physical properties.",
+      "url": "http://arxiv.org/abs/2611.33969v1",
+      "authors": [
+        "Malak Diab",
+        "Andreas Frommer",
+        "Karsten Kahl",
+        "Stefan Maier",
+        "Nicole Marheineke"
+      ],
+      "updated": "2026-11-25"
+    },
     {
       "title": "Learning in the Passive Space: End-to-End Muti-Order Port-Hamiltonian Macromodeling",
       "summary": "Compact, passive state-space macromodels of interconnects and power-delivery networks are essential for stable transient signal- and power-integrity simulations. However, conventional flows require costly per-layout full-wave electromagnetic (EM) simulations, while both traditional fitting and prior learning surrogates rely on post-hoc fitting or passivity perturbation that degrades accuracy without guaranteeing convergence. In this work, we propose an end-to-end macromodeling framework that learns directly in the passive space, mapping physical layout graphs to multi-order port-Hamiltonian (pH) macromodels. Specifically, our network encodes each layout graph into unconstrained matrix blocks and assembles them via a complete, prefix-nested pH parameterization that guarantees continuous-frequency passivity and stability by construction, yielding valid $k$-state macromodels via direct state slicing in one forward pass. To train all orders without reference realizations, we supervise the network directly on S-parameters through a progressive order-growth curriculum. Evaluated on 27k unseen test structures from a 270k-structure advanced-packaging dataset, our framework reduces mean S-parameter error by $42\\%$ on average (up to $65\\%$) over established macromodeling tools fitted to ground-truth EM responses, achieves zero passivity violations across $459{,}000$ exported models, and accelerates macromodel generation by $11{,}000$--$39{,}000\\times$ ($36$--$85$~ms per layout).",
@@ -248,15 +261,6 @@
         "Mikhail Zaslavsky"
       ],
       "updated": "2026-11-02"
-    },
-    {
-      "title": "L2-L2-gain bounds for quadratic output systems",
-      "summary": "We derive an explicit bound for the L2-L2-gain of linear time-invariant systems whose output is a quadratic function of the state and the input. Such systems appear naturally in many areas, for example for port-Hamiltonian systems, optimal-control, and stochastic problems. In case the output is purely quadratic in the state, the bound is determined by the supremum over $ω\\in\\mathbb R$ of the L2-norms of the bivariate transfer function restricted to the anti-diagonals $\\{(s,\\, iω-s)\\mid s\\in i\\mathbb R\\}$ of the frequency domain $i\\mathbb R\\times i\\mathbb R $. Further, we show how the bound can be computed by solving linear matrix equations. This result provides a practical tool for assessing and reducing quadratic-output models.",
-      "url": "http://arxiv.org/abs/2607.00552v2",
-      "authors": [
-        "Birgit Hillebrecht"
-      ],
-      "updated": "2026-10-31"
     }
   ]
 }
